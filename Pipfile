@@ -1,0 +1,13 @@
+[[source]]
+name = "pypi"
+verify_ssl = true
+url = "https://pypi.douban.com/simple/"
+
+[packages]
+mkdocs = "*"
+mkdocs-material = "*"
+
+[dev-packages]
+black = "*"
+pylint = "*"
+isort = "*"
