@@ -76,6 +76,7 @@ plugins:
 
 
 extra:
+  disqus: 'weekly-howie6879'
   search:
     language: 'jp'
 

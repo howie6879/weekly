@@ -99,9 +99,6 @@ venv.bak/
 .ropeproject
 .vscode
 
-# mkdocs documentation
-/site
-
 # mypy
 .mypy_cache/
 .idea/
@@ -109,4 +106,3 @@ venv.bak/
 *.swp
 stdout/
 .history/
-site/
