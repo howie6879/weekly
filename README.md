@@ -3,6 +3,7 @@
 > 奇文共欣赏，疑义相与析。加油 🎉
 
 我的信息周刊，每周记录我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。当前阅读渠道如下：
+
 - [网站](https://weekly.howie6879.cn/)
 - [公众号](https://gitee.com/howie6879/oss/raw/master/uPic/qrcode_for_gh_3f02ace79dfb_258.jpg)
 - [RSS](https://weekly.howie6879.cn/feed_rss_created.xml)
