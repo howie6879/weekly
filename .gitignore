@@ -97,7 +97,6 @@ venv.bak/
 
 # Rope project settings
 .ropeproject
-.vscode
 
 # mypy
 .mypy_cache/
@@ -106,3 +105,4 @@ venv.bak/
 *.swp
 stdout/
 .history/
+site/
