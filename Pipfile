@@ -6,6 +6,7 @@ url = "https://pypi.douban.com/simple/"
 [packages]
 mkdocs = "*"
 mkdocs-material = "*"
+mkdocs-rss-plugin = "*"
 
 [dev-packages]
 black = "*"

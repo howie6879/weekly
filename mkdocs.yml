@@ -1,6 +1,6 @@
 site_name: 老胡的周刊
 site_url: https://weekly.howie6879.cn/
-site_description: '老胡的信息周刊 >>> 奇文共欣赏，疑义相与析'
+site_description: '老胡的信息周刊，为您带来各种值得收藏的软件项目以及资料网站 >>> 奇文共欣赏，疑义相与析'
 site_author: howie.hu
 
 repo_url: https://github.com/howie6879/weekly
@@ -70,6 +70,8 @@ nav:
   
 plugins:
     - search
+    - rss
+
 
 extra:
   search:
