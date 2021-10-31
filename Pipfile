@@ -13,3 +13,6 @@ mkdocs-git-revision-date-localized-plugin = "*"
 black = "*"
 pylint = "*"
 isort = "*"
+
+[scripts]
+deploy = "bash ./deploy.sh"
