@@ -67,10 +67,12 @@ nav:
   - 🎉 随机漫步: 
     - 今日推荐: ./recommend/today.md
     - 漫步2021: ./recommend/random_2021.md
-  
+  - 🔗 RSS订阅: https://weekly.howie6879.cn/feed_rss_created.xml
 plugins:
+    - rss:
+        abstract_chars_count: -1
     - search
-    - rss
+    - git-revision-date-localized
 
 
 extra:
