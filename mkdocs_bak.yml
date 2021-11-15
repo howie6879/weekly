@@ -1,0 +1,90 @@
+site_name: 老胡的周刊
+site_url: https://weekly.howie6879.cn/
+site_description: '老胡的信息周刊，为您带来各种值得收藏的软件项目以及资料网站 >>> 奇文共欣赏，疑义相与析'
+site_author: howie.hu
+
+repo_url: https://github.com/howie6879/weekly
+repo_name: 'howie6879/weekly'
+
+copyright: Copyright &copy; 2021 - 2021 <a href="https://github.com/howie6879/weekly">howie.hu</a>.
+
+theme:
+  name: 'material'
+  search_index_only: true
+  language: 'zh'
+  features:
+    - content.code.annotate
+    # - content.tabs.link
+    # - header.autohide
+    - navigation.expand
+    - navigation.indexes
+    # - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: black
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  logo: './statics/images/howie.jpeg'
+  favicon: './statics/images/favicon.ico'
+
+use_directory_urls: false
+
+nav:
+  - ❤️ 创刊寄语: 
+    - ❤️ 创刊寄语: ./index.md
+    - 🧑🏻‍💻 关于我: ./home/about.md
+  - 👀 2021年刊:
+    - 第001期 (08-16~08-20): ./2021/08-16~08-20.我的周刊（第001期）.md
+    - 第002期 (08-23~08-27): ./2021/08-23~08-27.我的周刊（第002期）.md
+    - 第003期 (08-30~09-03): ./2021/08-30~09-03.我的周刊（第003期）.md
+    - 第004期 (09-06~09-10): ./2021/09-06~09-10.我的周刊（第004期）.md
+    - 第005期 (09-12~09-17): ./2021/09-12~09-17.我的周刊（第005期）.md
+    - 第006期 (09-19~09-24): ./2021/09-19~09-24.我的周刊（第006期）.md
+    - 第007期 (09-27~10-03): ./2021/09-27~10-03.我的周刊（第007期）.md
+    - 第008期 (10-04~10-10): ./2021/10-04~10-10.我的周刊（第008期）.md
+    - 第009期 (10-11~10-17): ./2021/10-11~10-17.我的周刊（第009期）.md
+    - 第010期 (10-18~10-24): ./2021/10-18~10-24.我的周刊（第010期）.md
+    - 第011期 (10-25~10-31): ./2021/10-25~10-31.我的周刊（第011期）.md
+    - 第012期 (11-01~11-07): ./2021/11-01~11-07.我的周刊（第012期）.md
+    - 第013期 (11-08~11-14): ./2021/11-08~11-14.我的周刊（第013期）.md
+  - 🎉 随机漫步: 
+    - 今日推荐: ./recommend/today.md
+    - 漫步2021: ./recommend/random_2021.md
+  - 🔗 RSS订阅: https://weekly.howie6879.cn/feed_rss_created.xml
+plugins:
+    - rss:
+        abstract_chars_count: -1
+    - search
+    - git-revision-date-localized
+
+
+extra:
+  disqus: 'weekly-howie6879'
+  search:
+    language: 'jp'
+
+markdown_extensions:
+  - toc:
+      permalink: []
+  - admonition
+  - def_list
+  - codehilite

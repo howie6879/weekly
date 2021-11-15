@@ -8,6 +8,7 @@ mkdocs = "*"
 mkdocs-material = "*"
 mkdocs-rss-plugin = "*"
 mkdocs-git-revision-date-localized-plugin = "*"
+pyyaml = "*"
 
 [dev-packages]
 black = "*"
