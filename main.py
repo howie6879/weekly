@@ -33,6 +33,24 @@ def write_mkdocs_config(data: dict, path=""):
         yaml.dump(data, f, allow_unicode=True)
 
 
+def gen_weekly_content(years: int):
+    """年度周刊汇总
+
+    Args:
+        years (int): 年份
+    """
+    root_path = os.path.dirname(__file__)
+    target_path = os.path.join(root_path, f"docs/{years}")
+    with open(f"./{years}_weekly_all.md", "w") as pf:
+        for file in os.listdir(target_path):
+            if str(file).endswith(".md"):
+                # 目标文件
+                file_path = os.path.join(target_path, file)
+                title = re.compile(r"(.*?)\.md").search(file)[1]
+                with open(file_path, "r", encoding="utf-8") as f:
+                    pf.write(f"# {title}\n\n" + f.read() + "\n\n")
+
+
 def gen_weekly_title(years: int):
     """生成周刊标题
 
@@ -67,4 +85,5 @@ def gen_weekly_title(years: int):
 
 
 if __name__ == "__main__":
-    gen_weekly_title(2021)
+    # gen_weekly_title(2021)
+    gen_weekly_content(2021)
