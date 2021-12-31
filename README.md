@@ -8,7 +8,7 @@
 - [公众号](https://gitee.com/howie6879/oss/raw/master/uPic/qrcode_for_gh_3f02ace79dfb_258.jpg)
 - [RSS](https://weekly.howie6879.cn/feed_rss_created.xml)
 
-## 介绍 <img src="./docs/statics/images/weekly.png" width=45% align=right hspace="5" vspace="5" style="margin-top:40px"/>
+## 介绍 <img src="./docs/statics/images/weekly.png" width=45% align=right hspace="5" vspace="5" style="margin-top:100px"/>
 
 在互联网时代，信息的**过滤**与**聚合**是非常重要的，作为一名程序员，我经常会浏览过程中看到各种有意思的项目、资源、软件以及一些网站，如果浏览目标让人眼前一亮，那就说明我**过滤**到了有意思的东西，一般我会选择相应的软件进行记录然后聚合起来慢慢看。
 
