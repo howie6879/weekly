@@ -1,0 +1,12 @@
+{
+  "stylesheet": [
+    "./statics/pdf.css"
+  ],
+  "highlight_style": "monokai",
+  "body_class": "markdown-body",
+  "pdf_options": {
+    "format": "A4",
+    "margin": "15mm",
+    "printBackground": true
+  }
+}
