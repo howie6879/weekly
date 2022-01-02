@@ -1,6 +1,6 @@
 img {
-	max-width: 100%;
-	margin: 1em 0;
+  max-width: 100%;
+  margin: 1em 0;
 }
 
 .markdown-here-wrapper {
@@ -10,7 +10,8 @@ img {
 }
 
 
-pre, code {
+pre,
+code {
   font-size: 14px;
   font-family: Roboto, 'Courier New', Consolas, Inconsolata, Courier, monospace;
   margin: auto 5px;
@@ -25,7 +26,8 @@ code {
 pre {
   font-size: 15px;
   line-height: 1.4em;
-  display: block; !important;
+  display: block;
+   !important;
 }
 
 pre code {
@@ -36,11 +38,13 @@ pre code {
   display: block !important;
 }
 
-strong, b{
+strong,
+b {
   color: #BF360C;
 }
 
-em, i {
+em,
+i {
   color: #009688;
 }
 
@@ -53,11 +57,18 @@ p {
   margin: 1.5em 5px !important;
 }
 
-table, pre, dl, blockquote, q, ul, ol {
+table,
+pre,
+dl,
+blockquote,
+q,
+ul,
+ol {
   margin: 10px 5px;
 }
 
-ul, ol {
+ul,
+ol {
   padding-left: 15px;
 }
 
@@ -69,7 +80,10 @@ li p {
   margin: 10px 0 !important;
 }
 
-ul ul, ul ol, ol ul, ol ol {
+ul ul,
+ul ol,
+ol ul,
+ol ol {
   margin: 0;
   padding-left: 10px;
 }
@@ -93,7 +107,8 @@ dl dd {
   padding: 0 10px;
 }
 
-blockquote, q {
+blockquote,
+q {
   border-left: 2px solid #009688;
   padding: 0 10px;
   color: #777;
@@ -101,11 +116,19 @@ blockquote, q {
   margin-left: 1em;
 }
 
-blockquote::before, blockquote::after, q::before, q::after {
+blockquote::before,
+blockquote::after,
+q::before,
+q::after {
   content: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin: 20px 0 10px;
   padding: 0;
   font-style: bold !important;
@@ -162,7 +185,8 @@ table tr:nth-child(2n) {
   background-color: #F8F8F8;
 }
 
-table tr th, table tr td {
+table tr th,
+table tr td {
   font-size: 16px;
   border: 1px solid #CCC;
   margin: 0;

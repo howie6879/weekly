@@ -1,6 +1,6 @@
 {
   "stylesheet": [
-    "./statics/pdf.css"
+    "/Users/howie/Documents/programming/weekly/src/statics/pdf.css"
   ],
   "highlight_style": "monokai",
   "body_class": "markdown-body",
