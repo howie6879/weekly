@@ -3,6 +3,10 @@ img {
   margin: 1em 0;
 }
 
+.page-break {
+  page-break-after: always
+}
+
 .markdown-here-wrapper {
   font-size: 16px;
   line-height: 1.8em;
@@ -26,8 +30,7 @@ code {
 pre {
   font-size: 15px;
   line-height: 1.4em;
-  display: block;
-   !important;
+  display: block !important;
 }
 
 pre code {
@@ -133,14 +136,15 @@ h6 {
   padding: 0;
   font-style: bold !important;
   color: #009688 !important;
-  text-align: center !important;
   margin: 1.5em 5px !important;
-  padding: 0.5em 1em !important;
+  padding: 0.5em 0em !important;
 }
 
 h1 {
+  margin: 20px 0 10px;
   font-size: 24px !important;
   border-bottom: 1px solid #ddd !important;
+  text-align: center !important;
 }
 
 h2 {

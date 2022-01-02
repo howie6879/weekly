@@ -48,7 +48,11 @@ def gen_weekly_content(years: int):
                 file_path = os.path.join(target_path, file)
                 title = re.compile(r"(.*?)\.md").search(file)[1]
                 with open(file_path, "r", encoding="utf-8") as f:
-                    pf.write(f"# {title}\n\n" + f.read() + "\n\n")
+                    pf.write(
+                        f'<div class="page-break"></div>\n\n # {title}\n\n'
+                        + f.read()
+                        + "\n\n"
+                    )
 
 
 def gen_weekly_title(years: int):
@@ -85,5 +89,5 @@ def gen_weekly_title(years: int):
 
 
 if __name__ == "__main__":
-    # gen_weekly_title(2021)
-    gen_weekly_content(2021)
+    gen_weekly_title(2022)
+    # gen_weekly_content(2021)

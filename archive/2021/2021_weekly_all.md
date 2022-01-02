@@ -29,7 +29,7 @@
 
 ## 交流
 
-关注公众号加我一起交流：
+欢迎关注公众号一起交流：
 
 <div align=center><img src="https://raw.githubusercontent.com/howie6879/oss/master/images/wechat_howie.png"  width="60%" alt="img" /></div
 
