@@ -5,65 +5,76 @@
 
 ## 🎯 项目 
 
-### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
+### [PPTist](https://github.com/pipipi-pikachu/PPTist)
 
-B站视频命令行下载工具：
+基于 Vue3.x + TypeScript 的[在线演示文稿](pipipi-pikachu.github.io/pptist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
 
-![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
+![ppt-list](https://img.turingark.com/uPic/ppt-list.jpg) 
 
-### [tinysearch](https://github.com/tinysearch/tinysearch)
+### [budibase](https://github.com/Budibase/budibase)
 
-轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
+`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
 
-### [notion-avatar](https://github.com/Mayandev/notion-avatar)
+![budibase](https://img.turingark.com/uPic/bCfcQe.jpg) 
 
-如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
+### [mall-cook](https://github.com/wangyuan389/mall-cook)
 
-![notion-avatar](https://img.turingark.com/uPic/OrjQK2.jpg) 
+Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
+
+![mall-cook](https://img.turingark.com/uPic/mall-cook.gif) 
 
 ## 🤖 软件 
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
+### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
 
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
 
-![Rectangle](https://img.turingark.com/uPic/KH9luU.jpg) 
+![Miao](https://img.turingark.com/uPic/Miao.png) 
 
-### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
+### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
 
-`TinyPNG`的`Mac`客户端：
+JetBrains 的下一代 IDE：
 
-![TinyPNG4Mac](https://img.turingark.com/uPic/TinyPNG4Mac.png) 
+![fleet](https://img.turingark.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
 
-### [Readhubn](https://github.com/shensven/Readhubn)
+### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
-如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
+针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
 
-![readhub](https://img.turingark.com/uPic/pZfUjT.png) 
+![CodeEdit](https://img.turingark.com/uPic/CodeEdit.png) 
 
 ## 👀 资料 
 
-### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
+### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
 
-读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
+健康学习到150岁 - 人体系统调优不完全指南：
 
-![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
+![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
 
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 
-### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+![frontend-hard-mode-interview](https://img.turingark.com/uPic/frontend-hard-mode-interview.png) 
 
- 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
+### [secguide](https://github.com/Tencent/secguide)
+
+面向开发人员梳理的代码安全指南，规范索引如下：
+
+- C/C++安全指南
+- JavaScript安全指南
+- Node安全指南
+- Go安全指南
+- Java安全指南
+- Python安全指南 
 
 ## 🕸 网站 
 
-### [db-fiddle](https://www.db-fiddle.com/)
+### [即时工具](https://www.67tool.com/)
 
-免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
+该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
 
-![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
+![67tool](https://img.turingark.com/uPic/mhrsW0.jpg) 
 
 ### [aliyunpanbbs](https://aliyunpanbbs.com/)
 
@@ -71,11 +82,11 @@ B站视频命令行下载工具：
 
 ![aliyunpanbbs](https://img.turingark.com/uPic/NlHLjW.png) 
 
-### [compressjpeg](https://compressjpeg.com/zh/)
+### [latexlive](https://www.latexlive.com/)
 
-一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
+免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
 
-![compressjpeg](https://img.turingark.com/uPic/compressjpeg.jpg) 
+![latexlive](https://img.turingark.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
 
 ## ✍️ 说明
 
