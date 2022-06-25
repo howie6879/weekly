@@ -1,0 +1,23 @@
+[[source]]
+name = "pypi"
+verify_ssl = true
+url = "https://pypi.douban.com/simple/"
+
+[packages]
+mkdocs = "==1.3.0"
+mkdocs-material = "==8.2.14"
+mkdocs-rss-plugin = "==1.1.0"
+mkdocs-git-revision-date-localized-plugin = "==1.0.1"
+jieba = "==0.42.1"
+pyyaml = "*"
+feedgen = "*"
+pytz = "*"
+
+[dev-packages]
+black = "*"
+pylint = "*"
+isort = "*"
+pypdf2 = "*"
+
+[scripts]
+deploy = "bash ./deploy.sh"

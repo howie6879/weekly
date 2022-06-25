@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>老胡的周刊</title>
+    <link>https://github.com/howie6879/weekly</link>
+    <description>我的信息周刊，每周记录我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个留存以及共享。</description>
+    <atom:link href="https://github.com/howie6879/weekly" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>howie6879/weekly</generator>
+    <image>
+      <url>https://images-1252557999.file.myqcloud.com/uPic/howie.jpg</url>
+      <title>老胡的周刊</title>
+      <link>https://github.com/howie6879/weekly</link>
+    </image>
+    <lastBuildDate>Sat, 25 Jun 2022 14:51:54 +0000</lastBuildDate>
+    <item>
+      <title>06-20~06-25.我的周刊（第045期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/06-20~06-25.我的周刊（第045期）.html</link>
+      <guid isPermaLink="false">2022/06-20~06-25.我的周刊（第045期）.md</guid>
+    </item>
+    <item>
+      <title>06-13~06-18.我的周刊（第044期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/06-13~06-18.我的周刊（第044期）.html</link>
+      <guid isPermaLink="false">2022/06-13~06-18.我的周刊（第044期）.md</guid>
+    </item>
+    <item>
+      <title>06-06~06-11.我的周刊（第043期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/06-06~06-11.我的周刊（第043期）.html</link>
+      <guid isPermaLink="false">2022/06-06~06-11.我的周刊（第043期）.md</guid>
+    </item>
+    <item>
+      <title>05-30~06-04.我的周刊（第042期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/05-30~06-04.我的周刊（第042期）.html</link>
+      <guid isPermaLink="false">2022/05-30~06-04.我的周刊（第042期）.md</guid>
+    </item>
+    <item>
+      <title>05-23~05-28.我的周刊（第041期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/05-23~05-28.我的周刊（第041期）.html</link>
+      <guid isPermaLink="false">2022/05-23~05-28.我的周刊（第041期）.md</guid>
+    </item>
+    <item>
+      <title>05-16~05-21.我的周刊（第040期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/05-16~05-21.我的周刊（第040期）.html</link>
+      <guid isPermaLink="false">2022/05-16~05-21.我的周刊（第040期）.md</guid>
+    </item>
+    <item>
+      <title>05-09~05-15.我的周刊（第039期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/05-09~05-15.我的周刊（第039期）.html</link>
+      <guid isPermaLink="false">2022/05-09~05-15.我的周刊（第039期）.md</guid>
+    </item>
+    <item>
+      <title>05-02~05-07.我的周刊（第038期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/05-02~05-07.我的周刊（第038期）.html</link>
+      <guid isPermaLink="false">2022/05-02~05-07.我的周刊（第038期）.md</guid>
+    </item>
+    <item>
+      <title>04-25~05-01.我的周刊（第037期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/04-25~05-01.我的周刊（第037期）.html</link>
+      <guid isPermaLink="false">2022/04-25~05-01.我的周刊（第037期）.md</guid>
+    </item>
+    <item>
+      <title>04-18~04-23.我的周刊（第036期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/04-18~04-23.我的周刊（第036期）.html</link>
+      <guid isPermaLink="false">2022/04-18~04-23.我的周刊（第036期）.md</guid>
+    </item>
+    <item>
+      <title>04-11~04-16.我的周刊（第035期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/04-11~04-16.我的周刊（第035期）.html</link>
+      <guid isPermaLink="false">2022/04-11~04-16.我的周刊（第035期）.md</guid>
+    </item>
+    <item>
+      <title>04-04~04-10.我的周刊（第034期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/04-04~04-10.我的周刊（第034期）.html</link>
+      <guid isPermaLink="false">2022/04-04~04-10.我的周刊（第034期）.md</guid>
+    </item>
+    <item>
+      <title>03-28~04-03.我的周刊（第033期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/03-28~04-03.我的周刊（第033期）.html</link>
+      <guid isPermaLink="false">2022/03-28~04-03.我的周刊（第033期）.md</guid>
+    </item>
+    <item>
+      <title>03-21~03-27.我的周刊（第032期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/03-21~03-27.我的周刊（第032期）.html</link>
+      <guid isPermaLink="false">2022/03-21~03-27.我的周刊（第032期）.md</guid>
+    </item>
+    <item>
+      <title>03-14~03-20.我的周刊（第031期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/03-14~03-20.我的周刊（第031期）.html</link>
+      <guid isPermaLink="false">2022/03-14~03-20.我的周刊（第031期）.md</guid>
+    </item>
+    <item>
+      <title>03-07~03-13.我的周刊（第030期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/03-07~03-13.我的周刊（第030期）.html</link>
+      <guid isPermaLink="false">2022/03-07~03-13.我的周刊（第030期）.md</guid>
+    </item>
+    <item>
+      <title>02-28~03-05.我的周刊（第029期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/02-28~03-05.我的周刊（第029期）.html</link>
+      <guid isPermaLink="false">2022/02-28~03-05.我的周刊（第029期）.md</guid>
+    </item>
+    <item>
+      <title>02-21~02-27.我的周刊（第028期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/02-21~02-27.我的周刊（第028期）.html</link>
+      <guid isPermaLink="false">2022/02-21~02-27.我的周刊（第028期）.md</guid>
+    </item>
+    <item>
+      <title>02-15~02-20.我的周刊（第027期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/02-15~02-20.我的周刊（第027期）.html</link>
+      <guid isPermaLink="false">2022/02-15~02-20.我的周刊（第027期）.md</guid>
+    </item>
+    <item>
+      <title>02-07~02-14.我的周刊（第026期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/02-07~02-14.我的周刊（第026期）.html</link>
+      <guid isPermaLink="false">2022/02-07~02-14.我的周刊（第026期）.md</guid>
+    </item>
+    <item>
+      <title>01-31~02-05.我的周刊（第025期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/01-31~02-05.我的周刊（第025期）.html</link>
+      <guid isPermaLink="false">2022/01-31~02-05.我的周刊（第025期）.md</guid>
+    </item>
+    <item>
+      <title>01-23~01-30.我的周刊（第024期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/01-23~01-30.我的周刊（第024期）.html</link>
+      <guid isPermaLink="false">2022/01-23~01-30.我的周刊（第024期）.md</guid>
+    </item>
+    <item>
+      <title>01-17~01-22.我的周刊（第023期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/01-17~01-22.我的周刊（第023期）.html</link>
+      <guid isPermaLink="false">2022/01-17~01-22.我的周刊（第023期）.md</guid>
+    </item>
+    <item>
+      <title>01-10~01-14.我的周刊（第022期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/01-10~01-14.我的周刊（第022期）.html</link>
+      <guid isPermaLink="false">2022/01-10~01-14.我的周刊（第022期）.md</guid>
+    </item>
+    <item>
+      <title>01-01~01-09.我的周刊（第021期）.md</title>
+      <link>https://weekly.howie6879.cn//2022/01-01~01-09.我的周刊（第021期）.html</link>
+      <guid isPermaLink="false">2022/01-01~01-09.我的周刊（第021期）.md</guid>
+    </item>
+    <item>
+      <title>12-26~12-31.我的周刊（第020期）.md</title>
+      <link>https://weekly.howie6879.cn//2021/12-26~12-31.我的周刊（第020期）.html</link>
+      <guid isPermaLink="false">2021/12-26~12-31.我的周刊（第020期）.md</guid>
+    </item>
+    <item>
+      <title>12-21~12-25.我的周刊（第019期）.md</title>
+      <link>https://weekly.howie6879.cn//2021/12-21~12-25.我的周刊（第019期）.html</link>
+      <guid isPermaLink="false">2021/12-21~12-25.我的周刊（第019期）.md</guid>
+    </item>
+    <item>
+      <title>12-13~12-20.我的周刊（第018期）.pdf</title>
+      <link>https://weekly.howie6879.cn//2021/12-13~12-20.我的周刊（第018期）.pdf</link>
+      <guid isPermaLink="false">2021/12-13~12-20.我的周刊（第018期）.pdf</guid>
+    </item>
+    <item>
+      <title>12-06~12-12.我的周刊（第017期）.pdf</title>
+      <link>https://weekly.howie6879.cn//2021/12-06~12-12.我的周刊（第017期）.pdf</link>
+      <guid isPermaLink="false">2021/12-06~12-12.我的周刊（第017期）.pdf</guid>
+    </item>
+    <item>
+      <title>11-29~12-05.我的周刊（第016期）.pdf</title>
+      <link>https://weekly.howie6879.cn//2021/11-29~12-05.我的周刊（第016期）.pdf</link>
+      <guid isPermaLink="false">2021/11-29~12-05.我的周刊（第016期）.pdf</guid>
+    </item>
+  </channel>
+</rss>
