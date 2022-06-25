@@ -5,98 +5,77 @@
 
 ## 🎯 项目 
 
-### [paopao-ce](https://github.com/rocboss/paopao-ce)
+### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
 
-🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
+B站视频命令行下载工具：
 
-- [Go](https://go.dev/)
-- [Gin](https://gin-gonic.com/)
-- [Zinc](https://zinclabs.io/)
-- [Naive UI](https://www.naiveui.com/)
-- [Vue.js](https://vuejs.org/)
-- [Vite.js](https://vitejs.dev/)
+![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
 
-![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
+### [tinysearch](https://github.com/tinysearch/tinysearch)
 
-网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
+轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
 
-### [wechat-export](https://github.com/luin/wechat-export)
+### [notion-avatar](https://github.com/Mayandev/notion-avatar)
 
-将微信聊天记录导出为HTML文件：
+如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
 
-![wechat-export](https://img.turingark.com/uPic/eIhKUP.jpg) 
-
-### [mm-wiki](https://github.com/phachon/mm-wiki)
-
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
-
- ![mm_wiki](https://img.turingark.com/uPic/mm_wiki.png) 
+![notion-avatar](https://img.turingark.com/uPic/OrjQK2.jpg) 
 
 ## 🤖 软件 
 
-### [automa](https://github.com/Kholid060/automa)
+### [Rectangle](https://github.com/rxhanson/Rectangle)
 
-`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
+`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
 
-![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
+![Rectangle](https://img.turingark.com/uPic/KH9luU.jpg) 
 
-### mizu
+### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
 
-微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
+`TinyPNG`的`Mac`客户端：
 
-![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
+![TinyPNG4Mac](https://img.turingark.com/uPic/TinyPNG4Mac.png) 
 
-### [Refined GitHub](https://github.com/refined-github/refined-github)
+### [Readhubn](https://github.com/shensven/Readhubn)
 
-一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
+如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
 
-那么`Refined GitHub`主要做了哪些工作呢，如下：
-
-- 浏览代码时候使空格可见
-- 添加一键式合并冲突修复程序
-- 添加表情评论头像
-- 在合并PR时，添加等待检查的选项
-- ...
-
-![](https://img.turingark.com/uPic/lI0jFl.png) 
+![readhub](https://img.turingark.com/uPic/pZfUjT.png) 
 
 ## 👀 资料 
 
-### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
 
-开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
+读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
 
-![interviews.ai](https://img.turingark.com/uPic/jxae9m.jpg) 
+![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
 
-### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
+### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
 
-Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
 
-![eng-practices](https://img.turingark.com/uPic/rDrm0R.png) 
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
-
-教程：小型金融知识图谱流程示范。 
+ 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
 
 ## 🕸 网站 
 
-### [ouchn](https://le.ouchn.cn/#/home)
+### [db-fiddle](https://www.db-fiddle.com/)
 
-国家开放大学终身教育平台正式上线，面向社会免费开放。该平台汇聚国家开放大学自建学习资源，338所知名高校课程资源免费开放、10个头部平台的特色课程等共计50万门，包含生活、职场、学历、兴趣等不同领域的课程。致力于满足社会大众多元化、个性化学习需求。
+免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
 
-![ouchn](https://images-1252557999.file.myqcloud.com/uPic/ouchn.jpg) 
+![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
 
-### [warp.dev](https://www.warp.dev/)
+### [aliyunpanbbs](https://aliyunpanbbs.com/)
 
-一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
+阿里云盘资源论坛:
 
-![wrap](https://img.turingark.com/uPic/wrap.jpg) 
+![aliyunpanbbs](https://img.turingark.com/uPic/NlHLjW.png) 
 
-### [apitracker](https://apitracker.io/)
+### [compressjpeg](https://compressjpeg.com/zh/)
 
-发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
+一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
 
-![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
+![compressjpeg](https://img.turingark.com/uPic/compressjpeg.jpg) 
 
 ## ✍️ 说明
 
