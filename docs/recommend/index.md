@@ -5,88 +5,86 @@
 
 ## 🎯 项目 
 
-### [PPTist](https://github.com/pipipi-pikachu/PPTist)
+### [ceresdb](https://github.com/CeresDB/ceresdb)
 
-基于 Vue3.x + TypeScript 的[在线演示文稿](pipipi-pikachu.github.io/pptist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
+蚂蚁金服 `Rust` 实现的时序数据库正式开源，`CeresDB` 是一款高性能、分布式、`Schema-less` 的云原生时序数据库，能够同时处理时序型（time-series）以及分析型（analytics）负载。：
 
-![ppt-list](https://img.turingark.com/uPic/ppt-list.jpg) 
+![CeresDB](https://images-1252557999.file.myqcloud.com/uPic/CeresDB.png) 
 
-### [budibase](https://github.com/Budibase/budibase)
+### [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
-`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
+`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
 
-![budibase](https://img.turingark.com/uPic/bCfcQe.jpg) 
+![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
 
-### [mall-cook](https://github.com/wangyuan389/mall-cook)
+### [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)
 
-Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
+朋友圈转发截图生成工具，这个项目确实解决了一些号主做活动要求发朋友圈的需求：
 
-![mall-cook](https://img.turingark.com/uPic/mall-cook.gif) 
+![](https://img.turingark.com/uPic/Xnip2022-02-22_09-42-52.jpg) 
 
 ## 🤖 软件 
 
-### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
+### [eoapi](https://github.com/eolinker/eoapi)
 
-`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
+`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
 
-![Miao](https://img.turingark.com/uPic/Miao.png) 
+![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
 
-### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
+### [automa](https://github.com/Kholid060/automa)
 
-JetBrains 的下一代 IDE：
+`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
 
-![fleet](https://img.turingark.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
+![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
 
-### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+### [KOReader](https://github.com/koreader/koreader)
 
-针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
+KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
 
-![CodeEdit](https://img.turingark.com/uPic/CodeEdit.png) 
+![koreader](https://img.turingark.com/uPic/koreader.jpg) 
 
 ## 👀 资料 
 
-### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
 
-健康学习到150岁 - 人体系统调优不完全指南：
+站点可靠性工作手册：
 
-![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
-### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
+### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
 
-《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
+教程：小型金融知识图谱流程示范。 
 
-![frontend-hard-mode-interview](https://img.turingark.com/uPic/frontend-hard-mode-interview.png) 
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-### [secguide](https://github.com/Tencent/secguide)
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
 
-面向开发人员梳理的代码安全指南，规范索引如下：
-
-- C/C++安全指南
-- JavaScript安全指南
-- Node安全指南
-- Go安全指南
-- Java安全指南
-- Python安全指南 
+![docker_practice](https://img.turingark.com/uPic/GFlVsV.png) 
 
 ## 🕸 网站 
 
-### [即时工具](https://www.67tool.com/)
+### [pixel](https://aqeja.github.io/pixel/)
 
-该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
+一个小工具，将你的图片像素化:
 
-![67tool](https://img.turingark.com/uPic/mhrsW0.jpg) 
+![;'](https://img.turingark.com/uPic/KfJuhM.png) 
 
-### [aliyunpanbbs](https://aliyunpanbbs.com/)
+### [aosabook](http://aosabook.org/en/index.html)
 
-阿里云盘资源论坛:
+网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
 
-![aliyunpanbbs](https://img.turingark.com/uPic/NlHLjW.png) 
+- ZeroMQ
+- Chrome
+- Nginx
+- 等等
 
-### [latexlive](https://www.latexlive.com/)
+上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
 
-免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
+### [cook](https://github.com/YunYouJun/cook)
 
-![latexlive](https://img.turingark.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
+
+![cook](https://img.turingark.com/uPic/cook.jpg) 
 
 ## ✍️ 说明
 
