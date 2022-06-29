@@ -5,91 +5,85 @@
 
 ## 🎯 项目 
 
-### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
+### [pico.css](https://github.com/picocss/pico)
 
-该项目支持将微信聊天记录导出并生成网页浏览。 
+简单优雅小巧的轻量级CSS框架，特性如下：
 
-### [PPTist](https://github.com/pipipi-pikachu/PPTist)
+- 尽量使用原生的HTML语义，上手简单
+- 仅使用CSS，无依赖
+- 在所有设备上都有优雅且一致的响应式排版
+- 默认支持亮/黑模式 
 
-基于 Vue3.x + TypeScript 的[在线演示文稿](pipipi-pikachu.github.io/pptist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
+### [yao](https://github.com/YaoApp/yao)
 
-![ppt-list](https://img.turingark.com/uPic/ppt-list.jpg) 
+`Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎：
 
-### [greppo](https://github.com/greppo-io/greppo)
+![yao](https://img.turingark.com/uPic/yao.jpg) 
 
-快速轻松地构建部署地理空间应用程序：
+### [rss-proxy](https://github.com/damoeb/rss-proxy)
 
-![greppo](https://img.turingark.com/uPic/IzNSxY.jpg) 
+通过分析用户提供的静态页面自动创建RSS订阅源：
+
+![](https://img.turingark.com/uPic/APrAbH.png) 
 
 ## 🤖 软件 
 
-### [uPic](https://github.com/gee1k/uPic)
+### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
 
-我的必备软件：
+- [美团买菜版本](https://github.com/qulingyuan/robVeg)
+- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
 
-![upic](https://img.turingark.com/uPic/upic.gif) 
+### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
 
-### [vnote](https://github.com/vnotex/vnote)
+`TinyPNG`的`Mac`客户端：
 
-VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
+![TinyPNG4Mac](https://img.turingark.com/uPic/TinyPNG4Mac.png) 
 
-![vnote](https://img.turingark.com/uPic/vnote.png) 
+### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
 
-### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
 
-针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
-
-![CodeEdit](https://img.turingark.com/uPic/CodeEdit.png) 
+![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
 
 ## 👀 资料 
 
-### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
+### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
 
-对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
+对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
 
-### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
+### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 
-《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
+C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
 
-![frontend-hard-mode-interview](https://img.turingark.com/uPic/frontend-hard-mode-interview.png) 
+![Cpp-0-1-Resource](https://img.turingark.com/uPic/rM99nS.png) 
 
-### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
 
-一本基于`python&matplotlib`进行科学可视化的开源书籍：
+站点可靠性工作手册：
 
-![scientific-visualization-book](https://img.turingark.com/uPic/scientific-visualization-book.jpg) 
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
 ## 🕸 网站 
 
-### [regex101](https://regex101.com/)
+### [removebg](https://www.remove.bg/zh)
 
-`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
+这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
 
-- PHP
-- Python
-- JS
-- Go
-- Java
+![removebg](https://img.turingark.com/uPic/TW1uwy.png) 
 
-![regex101](https://img.turingark.com/uPic/Fz15mf.png) 
+### [apitracker](https://apitracker.io/)
 
-### [zhaoziyuan](https://zhaoziyuan.la)
+发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
 
-阿里云资源搜索引擎：
+![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
 
-![zhaoziyuan](https://img.turingark.com/uPic/zhaoziyuan-20220429095007870.jpg) 
+### [sqlime](http://sqlime.org/)
 
-### [webutils](https://www.webutils.app/)
+SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
 
-一个提供web小工具的网站，比如：
-
-- 文本比较
-- 图片压缩
-- 图片转换
-
-![webutils](https://img.turingark.com/uPic/ijDiPA.png) 
+![sqlime](https://img.turingark.com/uPic/57MTfO.jpg) 
 
 ## ✍️ 说明
 
