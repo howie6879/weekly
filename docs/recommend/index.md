@@ -5,85 +5,100 @@
 
 ## 🎯 项目 
 
-### [pico.css](https://github.com/picocss/pico)
+### [freed](https://github.com/YuanHsing/freed)
 
-简单优雅小巧的轻量级CSS框架，特性如下：
+这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
 
-- 尽量使用原生的HTML语义，上手简单
-- 仅使用CSS，无依赖
-- 在所有设备上都有优雅且一致的响应式排版
-- 默认支持亮/黑模式 
+### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
 
-### [yao](https://github.com/YaoApp/yao)
+通过网络收集整理的中文歌词数据库, 包含:
 
-`Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎：
+- 绝大多数华语歌手在2019年之前的歌曲
+- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
+- 102197首歌曲, 平均每人25.4首歌
 
-![yao](https://img.turingark.com/uPic/yao.jpg) 
+作者基于此数据库做了两个歌词生成器：
 
-### [rss-proxy](https://github.com/damoeb/rss-proxy)
+- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
+- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
 
-通过分析用户提供的静态页面自动创建RSS订阅源：
+### [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
 
-![](https://img.turingark.com/uPic/APrAbH.png) 
+作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。
+
+项目列表如下：
+
+![bigdata_analyse](https://img.turingark.com/uPic/klC8AA.png) 
 
 ## 🤖 软件 
 
-### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
+### [xplorer](https://github.com/kimlimjustin/xplorer)
 
-安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
+支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
 
-- [美团买菜版本](https://github.com/qulingyuan/robVeg)
-- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
+- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
+- 现代化且易用
+- 多种格式文件预览，音频也可以
+- ...
 
-### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
+![xplorer](https://img.turingark.com/uPic/iLpUeJ.jpg)
 
-`TinyPNG`的`Mac`客户端：
+在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
 
-![TinyPNG4Mac](https://img.turingark.com/uPic/TinyPNG4Mac.png) 
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
 
-### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
-自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
+### [balenaEtcher](https://github.com/balena-io/etcher)
 
-![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
+balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
+
+![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
 
 ## 👀 资料 
 
-### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
+### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
 
-对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
+该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
 
-### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+![logic](https://img.turingark.com/uPic/logic.jpg) 
 
-C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-![Cpp-0-1-Resource](https://img.turingark.com/uPic/rM99nS.png) 
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
 
-### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+![ML](https://img.turingark.com/uPic/R26HG2.png) 
 
-站点可靠性工作手册：
+### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
+24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
+
+![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
 
 ## 🕸 网站 
 
-### [removebg](https://www.remove.bg/zh)
+### [nosh](https://nosh.rocks/)
 
-这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
+一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
 
-![removebg](https://img.turingark.com/uPic/TW1uwy.png) 
+![nosh](https://img.turingark.com/uPic/3ng4bw.png) 
 
-### [apitracker](https://apitracker.io/)
+### [carbon](https://carbon.now.sh/)
 
-发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
+将你的源代码转成漂亮可分享的图片：
 
-![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
+![carbon](https://img.turingark.com/uPic/carbon.jpg) 
 
-### [sqlime](http://sqlime.org/)
+### [tinypng](https://tinypng.com/)
 
-SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
+比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
 
-![sqlime](https://img.turingark.com/uPic/57MTfO.jpg) 
+![tinypng](https://img.turingark.com/uPic/8s8ltr.png)
+
+如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
+
+- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
+- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
 
 ## ✍️ 说明
 
