@@ -5,100 +5,108 @@
 
 ## 🎯 项目 
 
-### [freed](https://github.com/YuanHsing/freed)
+### [paopao-ce](https://github.com/rocboss/paopao-ce)
 
-这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
+🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
 
-### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
+- [Go](https://go.dev/)
+- [Gin](https://gin-gonic.com/)
+- [Zinc](https://zinclabs.io/)
+- [Naive UI](https://www.naiveui.com/)
+- [Vue.js](https://vuejs.org/)
+- [Vite.js](https://vitejs.dev/)
 
-通过网络收集整理的中文歌词数据库, 包含:
+![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
 
-- 绝大多数华语歌手在2019年之前的歌曲
-- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
-- 102197首歌曲, 平均每人25.4首歌
+网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
 
-作者基于此数据库做了两个歌词生成器：
+### [tiptop](https://github.com/nschloe/tiptop)
 
-- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
-- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
+类似`htop`的命令行系统资源监控工具：
 
-### [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
+![tiptop](https://img.turingark.com/uPic/tiptop.png) 
 
-作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。
+### [GFPGAN](https://github.com/TencentARC/GFPGAN)
 
-项目列表如下：
+腾讯开源的老照片修复项目：
 
-![bigdata_analyse](https://img.turingark.com/uPic/klC8AA.png) 
+![GFPGAN](https://img.turingark.com/uPic/UOiwSK.jpg) 
 
 ## 🤖 软件 
 
-### [xplorer](https://github.com/kimlimjustin/xplorer)
+### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
 
-支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
+这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
 
-- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
-- 现代化且易用
-- 多种格式文件预览，音频也可以
-- ...
+- SSH连接操作
+- Jupyter支持
+- Code Server（Web版VS Code） 支持
+- 文件管理支持
+- 自带Python：写点常用脚本不在话下
+- 上手深度学习
+- 等等
 
-![xplorer](https://img.turingark.com/uPic/iLpUeJ.jpg)
+这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
 
-在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
+![PCypgC01](https://img.turingark.com/uPic/PCypgC01.png) 
 
-### [Wechatsync](https://github.com/wechatsync/Wechatsync)
+### [downkyi](https://github.com/leiurayer/downkyi)
 
-一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
+Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
 
-### [balenaEtcher](https://github.com/balena-io/etcher)
+![downkyi](https://images-1252557999.file.myqcloud.com/uPic/downkyi.png) 
 
-balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
+### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
 
-![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
+提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
+
+![7kvkAI](https://img.turingark.com/uPic/7kvkAI.jpg) 
 
 ## 👀 资料 
 
-### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
 
-该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
 
-![logic](https://img.turingark.com/uPic/logic.jpg) 
+### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
 
-### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
+[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
 
-作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
+目前也提供了中文版：
 
-![ML](https://img.turingark.com/uPic/R26HG2.png) 
+![patterns-of-distributed-systems](https://img.turingark.com/uPic/ZlA2Zu.png) 
 
-### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
 
-24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
-
-![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
+一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
 
 ## 🕸 网站 
 
-### [nosh](https://nosh.rocks/)
+### [sci-hub](https://sci-hub.se/)
 
-一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
+这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
 
-![nosh](https://img.turingark.com/uPic/3ng4bw.png) 
+> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
 
-### [carbon](https://carbon.now.sh/)
+用户可通过以下方式访问新版本：
 
-将你的源代码转成漂亮可分享的图片：
+- https://sci-hub.se/
+- https://sci-hub.ru/
+- https://sci-hub.st/
 
-![carbon](https://img.turingark.com/uPic/carbon.jpg) 
+![](https://img.turingark.com/uPic/ISPyBJ.png) 
 
-### [tinypng](https://tinypng.com/)
+### [untools](https://untools.co/)
 
-比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
+一个帮助你思考的集合工具&框架：
 
-![tinypng](https://img.turingark.com/uPic/8s8ltr.png)
+![untools](https://img.turingark.com/uPic/hHu9aw.png) 
 
-如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
+### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
 
-- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
-- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
+冰霜大佬的博客：
+
+![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
 
 ## ✍️ 说明
 
