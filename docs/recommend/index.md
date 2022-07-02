@@ -5,97 +5,121 @@
 
 ## 🎯 项目 
 
-### [BookStack](https://github.com/BookStackApp/BookStack)
+### [yao](https://github.com/YaoApp/yao)
 
-一个开源的`documentation/wik`文档管理平台，其核心特性如下：
+`Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎：
 
-- 免费开源可自建
-- 简单易用的交互界面
-- 全文检索以及文档互联
-- 可配置
-- 强大的编辑功能，MD支持
-- 等
+![yao](https://img.turingark.com/uPic/yao.jpg) 
 
-![BookStack](https://img.turingark.com/uPic/vdoSqZ.jpg)
+### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
 
-有兴趣的话，可以利用[docker-bookstack](https://github.com/solidnerd/docker-bookstack)项目进行快速试用。 
+最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
 
-### [ProxiTok](https://github.com/pablouser1/ProxiTok)
+![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
 
-`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
+### [ceresdb](https://github.com/CeresDB/ceresdb)
 
-![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
+蚂蚁金服 `Rust` 实现的时序数据库正式开源，`CeresDB` 是一款高性能、分布式、`Schema-less` 的云原生时序数据库，能够同时处理时序型（time-series）以及分析型（analytics）负载。：
 
-### [freed](https://github.com/YuanHsing/freed)
-
-这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
+![CeresDB](https://images-1252557999.file.myqcloud.com/uPic/CeresDB.png) 
 
 ## 🤖 软件 
 
-### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
+### [scrcpy](https://github.com/Genymobile/scrcpy)
 
-JetBrains 的下一代 IDE：
+在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
 
-![fleet](https://img.turingark.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
+它专注于：
 
-### [automa](https://github.com/Kholid060/automa)
+- 轻量 (原生，仅显示设备屏幕)
+- 性能 (30~60fps)
+- 质量 (分辨率可达 1920×1080 或更高)
+- 低延迟 (35~70ms)
+- 快速启动 (最快 1 秒内即可显示第一帧)
+- 无侵入性 (不会在设备上遗留任何程序) 
 
-`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
+### [Rayon](https://github.com/Lakr233/Rayon)
 
-![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
+一个`macOS`的上的`SSH`客户端：
 
-### [LawRefBook](https://github.com/RanKKI/LawRefBook)
+![rayon](https://img.turingark.com/uPic/rayon.png)
 
-开源的法律知识速查手册：
+软件特性：
 
-![LawRefBook](https://img.turingark.com/uPic/LawRefBook.png) 
+- 免费&开源
+- 支持 libssh2 的主机连接
+- Linux proc 文件系统状态信息
+- 使用密码、密钥等进行身份验证...
+- xterm 终端支持
+- 批处理执行代码片段 
+
+### [Refined GitHub](https://github.com/refined-github/refined-github)
+
+一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
+
+那么`Refined GitHub`主要做了哪些工作呢，如下：
+
+- 浏览代码时候使空格可见
+- 添加一键式合并冲突修复程序
+- 添加表情评论头像
+- 在合并PR时，添加等待检查的选项
+- ...
+
+![](https://img.turingark.com/uPic/lI0jFl.png) 
 
 ## 👀 资料 
 
-### [2d2d](https://2d2d.io/)
+### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
 
-《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建我开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
+这本书的目标是:
 
-![2d2d](https://img.turingark.com/uPic/2d2d.jpg) 
+- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
+- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
+- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
+### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
 
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
+一本小书《带你入门前端工程》
 
-![Learn-Vim_zh_cn](https://img.turingark.com/uPic/AgGats.png) 
+![](https://img.turingark.com/uPic/e783TS.png) 
 
-### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
 
-经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
 
-![the-economist-ebooks](https://img.turingark.com/uPic/the-economist-ebooks.jpg) 
+![eng-practices](https://img.turingark.com/uPic/rDrm0R.png) 
 
 ## 🕸 网站 
 
-### flomoapp
+### [sao.fm](https://sao.fm/)
 
-flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
+一个在线听广播电台的网站：
 
-![flomoapp](https://img.turingark.com/uPic/6G6qrd.jpg) 
+![sao.fm](https://img.turingark.com/uPic/sao.fm.jpg) 
 
-### [dbbqb](https://www.dbbqb.com/)
+### [tReader](https://tiansh.github.io/reader/#!/read/1)
 
-专业的表情包搜索网站：
+如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
 
-![dbbqb](https://images-1252557999.file.myqcloud.com/uPic/dbbqb.jpg) 
+![tReader](https://img.turingark.com/uPic/PMMlRM.jpg)
+基本功能如下：
 
-### [tinypng](https://tinypng.com/)
+- 手机端适配，阅读效果优秀
+- 点左上角的添加按钮可以添加文件
+- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
+- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
+- 文件列表，左滑、右键或按Delete可以显示删除按钮
+- 书签
+- 搜索
+- 目录等 
 
-比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
+### [nona](https://www.nona.de/)
 
-![tinypng](https://img.turingark.com/uPic/8s8ltr.png)
+德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
 
-如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
-
-- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
-- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
+![nona](https://img.turingark.com/uPic/1nN2lu.png) 
 
 ## ✍️ 说明
 
