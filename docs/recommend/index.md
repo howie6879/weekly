@@ -5,108 +5,97 @@
 
 ## 🎯 项目 
 
-### [paopao-ce](https://github.com/rocboss/paopao-ce)
+### [BookStack](https://github.com/BookStackApp/BookStack)
 
-🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
+一个开源的`documentation/wik`文档管理平台，其核心特性如下：
 
-- [Go](https://go.dev/)
-- [Gin](https://gin-gonic.com/)
-- [Zinc](https://zinclabs.io/)
-- [Naive UI](https://www.naiveui.com/)
-- [Vue.js](https://vuejs.org/)
-- [Vite.js](https://vitejs.dev/)
+- 免费开源可自建
+- 简单易用的交互界面
+- 全文检索以及文档互联
+- 可配置
+- 强大的编辑功能，MD支持
+- 等
 
-![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
+![BookStack](https://img.turingark.com/uPic/vdoSqZ.jpg)
 
-网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
+有兴趣的话，可以利用[docker-bookstack](https://github.com/solidnerd/docker-bookstack)项目进行快速试用。 
 
-### [tiptop](https://github.com/nschloe/tiptop)
+### [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
-类似`htop`的命令行系统资源监控工具：
+`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
 
-![tiptop](https://img.turingark.com/uPic/tiptop.png) 
+![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
 
-### [GFPGAN](https://github.com/TencentARC/GFPGAN)
+### [freed](https://github.com/YuanHsing/freed)
 
-腾讯开源的老照片修复项目：
-
-![GFPGAN](https://img.turingark.com/uPic/UOiwSK.jpg) 
+这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
 
 ## 🤖 软件 
 
-### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
+### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
 
-这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
+JetBrains 的下一代 IDE：
 
-- SSH连接操作
-- Jupyter支持
-- Code Server（Web版VS Code） 支持
-- 文件管理支持
-- 自带Python：写点常用脚本不在话下
-- 上手深度学习
-- 等等
+![fleet](https://img.turingark.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
 
-这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
+### [automa](https://github.com/Kholid060/automa)
 
-![PCypgC01](https://img.turingark.com/uPic/PCypgC01.png) 
+`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
 
-### [downkyi](https://github.com/leiurayer/downkyi)
+![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
 
-Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
+### [LawRefBook](https://github.com/RanKKI/LawRefBook)
 
-![downkyi](https://images-1252557999.file.myqcloud.com/uPic/downkyi.png) 
+开源的法律知识速查手册：
 
-### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
-
-提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
-
-![7kvkAI](https://img.turingark.com/uPic/7kvkAI.jpg) 
+![LawRefBook](https://img.turingark.com/uPic/LawRefBook.png) 
 
 ## 👀 资料 
 
-### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
+### [2d2d](https://2d2d.io/)
 
-Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
+《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建我开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
 
-### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
+![2d2d](https://img.turingark.com/uPic/2d2d.jpg) 
 
-[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
+### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
-目前也提供了中文版：
+> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
 
-![patterns-of-distributed-systems](https://img.turingark.com/uPic/ZlA2Zu.png) 
+本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
 
-### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
+![Learn-Vim_zh_cn](https://img.turingark.com/uPic/AgGats.png) 
 
-一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
+### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+
+经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+
+![the-economist-ebooks](https://img.turingark.com/uPic/the-economist-ebooks.jpg) 
 
 ## 🕸 网站 
 
-### [sci-hub](https://sci-hub.se/)
+### flomoapp
 
-这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
+flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
 
-> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
+![flomoapp](https://img.turingark.com/uPic/6G6qrd.jpg) 
 
-用户可通过以下方式访问新版本：
+### [dbbqb](https://www.dbbqb.com/)
 
-- https://sci-hub.se/
-- https://sci-hub.ru/
-- https://sci-hub.st/
+专业的表情包搜索网站：
 
-![](https://img.turingark.com/uPic/ISPyBJ.png) 
+![dbbqb](https://images-1252557999.file.myqcloud.com/uPic/dbbqb.jpg) 
 
-### [untools](https://untools.co/)
+### [tinypng](https://tinypng.com/)
 
-一个帮助你思考的集合工具&框架：
+比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
 
-![untools](https://img.turingark.com/uPic/hHu9aw.png) 
+![tinypng](https://img.turingark.com/uPic/8s8ltr.png)
 
-### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
+如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
 
-冰霜大佬的博客：
-
-![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
+- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
+- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
 
 ## ✍️ 说明
 
