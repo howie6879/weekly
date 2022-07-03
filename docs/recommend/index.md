@@ -5,85 +5,67 @@
 
 ## 🎯 项目 
 
-### [yao](https://github.com/YaoApp/yao)
+### [questdb](https://github.com/questdb/questdb)
 
-`Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎：
+QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
 
-![yao](https://img.turingark.com/uPic/yao.jpg) 
+特别是针对时间序列数据做了处理：
 
-### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
+![questdb](https://img.turingark.com/uPic/Sbq9WK.jpg) 
 
-最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
+### [ml4a](https://github.com/ml4a/ml4a)
 
-![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
+`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
 
-### [ceresdb](https://github.com/CeresDB/ceresdb)
+![ml4a](https://img.turingark.com/uPic/ml4a.jpg) 
 
-蚂蚁金服 `Rust` 实现的时序数据库正式开源，`CeresDB` 是一款高性能、分布式、`Schema-less` 的云原生时序数据库，能够同时处理时序型（time-series）以及分析型（analytics）负载。：
+### [mometa](https://github.com/imcuttle/mometa)
 
-![CeresDB](https://images-1252557999.file.myqcloud.com/uPic/CeresDB.png) 
+面向研发的低代码元编程，代码可视编辑，辅助编码工具，
+
+mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。
+
+**它用于解决的问题有：**
+
+- 对低代码平台不形成依赖，二次开发可以无缝进入代码开发模式
+- 同时支持所见即所得的可视编辑，用于提效，提升开发体验
+- 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
+
+![mometa](https://img.turingark.com/uPic/snapshot.png) 
 
 ## 🤖 软件 
 
-### [scrcpy](https://github.com/Genymobile/scrcpy)
+### [PeaZip](https://github.com/peazip/PeaZip)
 
-在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
+PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
 
-它专注于：
+![peazip](https://img.turingark.com/uPic/peazip.png) 
 
-- 轻量 (原生，仅显示设备屏幕)
-- 性能 (30~60fps)
-- 质量 (分辨率可达 1920×1080 或更高)
-- 低延迟 (35~70ms)
-- 快速启动 (最快 1 秒内即可显示第一帧)
-- 无侵入性 (不会在设备上遗留任何程序) 
+### [DBeaver](https://github.com/dbeaver/dbeaver)
 
-### [Rayon](https://github.com/Lakr233/Rayon)
+免费的通用数据库管理工具，SQL客户端，跨平台支持：
 
-一个`macOS`的上的`SSH`客户端：
+![dbeaver](https://img.turingark.com/uPic/dbeaver.png) 
 
-![rayon](https://img.turingark.com/uPic/rayon.png)
+### [gushi_namer](https://github.com/holynova/gushi_namer)
 
-软件特性：
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
 
-- 免费&开源
-- 支持 libssh2 的主机连接
-- Linux proc 文件系统状态信息
-- 使用密码、密钥等进行身份验证...
-- xterm 终端支持
-- 批处理执行代码片段 
+![Z8BAP0](https://img.turingark.com/uPic/Z8BAP0.png)
 
-### [Refined GitHub](https://github.com/refined-github/refined-github)
-
-一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
-
-那么`Refined GitHub`主要做了哪些工作呢，如下：
-
-- 浏览代码时候使空格可见
-- 添加一键式合并冲突修复程序
-- 添加表情评论头像
-- 在合并PR时，添加等待检查的选项
-- ...
-
-![](https://img.turingark.com/uPic/lI0jFl.png) 
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
 ## 👀 资料 
 
-### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-这本书的目标是:
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
 
-- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
-- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
-- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
+![docker_practice](https://img.turingark.com/uPic/GFlVsV.png) 
 
-![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
+### [just-react](https://github.com/BetaSu/just-react)
 
-### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
-
-一本小书《带你入门前端工程》
-
-![](https://img.turingark.com/uPic/e783TS.png) 
+「React技术揭秘」 一本自顶向下的React源码分析书 
 
 ### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
 
@@ -93,33 +75,23 @@ Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文�
 
 ## 🕸 网站 
 
-### [sao.fm](https://sao.fm/)
+### [cook](https://github.com/YunYouJun/cook)
 
-一个在线听广播电台的网站：
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-![sao.fm](https://img.turingark.com/uPic/sao.fm.jpg) 
+![cook](https://img.turingark.com/uPic/cook.jpg) 
 
-### [tReader](https://tiansh.github.io/reader/#!/read/1)
+### [watermarkremover](https://www.watermarkremover.io/)
 
-如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
+通过AI技术去除图片水印：
 
-![tReader](https://img.turingark.com/uPic/PMMlRM.jpg)
-基本功能如下：
+![watermarkremover](https://img.turingark.com/uPic/watermarkremover.jpg) 
 
-- 手机端适配，阅读效果优秀
-- 点左上角的添加按钮可以添加文件
-- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
-- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
-- 文件列表，左滑、右键或按Delete可以显示删除按钮
-- 书签
-- 搜索
-- 目录等 
+### [vim.is](https://vim.is/#exercise)
 
-### [nona](https://www.nona.de/)
+`Vim`学习网站：
 
-德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
-
-![nona](https://img.turingark.com/uPic/1nN2lu.png) 
+![vim.is](https://img.turingark.com/uPic/iA6wxm.png) 
 
 ## ✍️ 说明
 
