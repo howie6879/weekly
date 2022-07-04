@@ -5,93 +5,100 @@
 
 ## 🎯 项目 
 
-### [questdb](https://github.com/questdb/questdb)
+### [lsky-pro](https://github.com/lsky-org/lsky-pro)
 
-QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
+非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
 
-特别是针对时间序列数据做了处理：
+![vps_lsky_01](https://img.turingark.com/uPic/vps_lsky_01.jpg) 
 
-![questdb](https://img.turingark.com/uPic/Sbq9WK.jpg) 
+### [hoppscotch](https://github.com/hoppscotch/hoppscotch)
 
-### [ml4a](https://github.com/ml4a/ml4a)
+`Hoppscotch`对标的是`Postman`，相信涉及到后端接口这块大家都对`Postman`非常熟悉，但`Postman`自从收费后，评价就慢慢开始不行了，而且软件也越来越重，我本人也是同感，不然我也没有动机找到`hoppscotch`来替换。
 
-`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
+有恶龙就有勇士，有位印度裔小哥`Liyas Thomas`坐不住了，对`Postman`非常不爽，于是他自己开发了`Postwoman`，看这个名字也知道是干嘛的，后面改名为`Hoppscotch`。
 
-![ml4a](https://img.turingark.com/uPic/ml4a.jpg) 
+开源的魅力就在这里，永远有人做出让大家欢呼的贡献，所以`Hoppscotch`在社区获得非常高的认可度（目前已经30K Star+），其提供了非常丰富的特性，部署也很方便，有兴趣的可以尝试使用看看：
 
-### [mometa](https://github.com/imcuttle/mometa)
+![hoppscotch](https://img.turingark.com/uPic/sPde7J.png) 
 
-面向研发的低代码元编程，代码可视编辑，辅助编码工具，
+### [pico.css](https://github.com/picocss/pico)
 
-mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。
+简单优雅小巧的轻量级CSS框架，特性如下：
 
-**它用于解决的问题有：**
-
-- 对低代码平台不形成依赖，二次开发可以无缝进入代码开发模式
-- 同时支持所见即所得的可视编辑，用于提效，提升开发体验
-- 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
-
-![mometa](https://img.turingark.com/uPic/snapshot.png) 
+- 尽量使用原生的HTML语义，上手简单
+- 仅使用CSS，无依赖
+- 在所有设备上都有优雅且一致的响应式排版
+- 默认支持亮/黑模式 
 
 ## 🤖 软件 
 
-### [PeaZip](https://github.com/peazip/PeaZip)
+### [marktext](https://github.com/marktext/marktext)
 
-PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
 
-![peazip](https://img.turingark.com/uPic/peazip.png) 
+![marktext](https://img.turingark.com/uPic/cvYHVG.png) 
 
-### [DBeaver](https://github.com/dbeaver/dbeaver)
+### [antares](https://github.com/Fabio286/antares)
 
-免费的通用数据库管理工具，SQL客户端，跨平台支持：
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-![dbeaver](https://img.turingark.com/uPic/dbeaver.png) 
+![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
-### [gushi_namer](https://github.com/holynova/gushi_namer)
+### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
 
-古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
+安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
 
-![Z8BAP0](https://img.turingark.com/uPic/Z8BAP0.png)
-
-从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
+- [美团买菜版本](https://github.com/qulingyuan/robVeg)
+- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
 
 ## 👀 资料 
 
-### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
+ 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
 
-![docker_practice](https://img.turingark.com/uPic/GFlVsV.png) 
+### [ascoders/weekly](https://github.com/ascoders/weekly)
 
-### [just-react](https://github.com/BetaSu/just-react)
+前端精读周刊，帮你理解最前沿、实用的技术。在我的周刊里面推荐周刊👏哈哈，其中内容涉及：
 
-「React技术揭秘」 一本自顶向下的React源码分析书 
+- 前沿技术
+- 设计模式
+- 编译原理
+- 源码解读
+- 商业思考
+- 算法
 
-### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
+非常全面，前端从事人员可以看看。 
 
-Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
-![eng-practices](https://img.turingark.com/uPic/rDrm0R.png) 
+这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
+
+我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
 
 ## 🕸 网站 
 
-### [cook](https://github.com/YunYouJun/cook)
+### [ip-api.com](http://ip-api.com/json)
 
-一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
+获取当前 ip 的免费 api 接口，同类型还有：
 
-![cook](https://img.turingark.com/uPic/cook.jpg) 
+- http://ip-api.com/json
+- https://ipapi.co/json/
+- https://ipstack.com/
+- http://pv.sohu.com/cityjson
+- http://ip111.cn/ 
 
-### [watermarkremover](https://www.watermarkremover.io/)
+### [cikeee](https://www.cikeee.com/)
 
-通过AI技术去除图片水印：
+每天推荐一部优秀的电影：
 
-![watermarkremover](https://img.turingark.com/uPic/watermarkremover.jpg) 
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
-### [vim.is](https://vim.is/#exercise)
+### [qrcode-monkey](https://www.qrcode-monkey.com/#)
 
-`Vim`学习网站：
+免费的二维码生成网站：
 
-![vim.is](https://img.turingark.com/uPic/iA6wxm.png) 
+![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
 
 ## ✍️ 说明
 
