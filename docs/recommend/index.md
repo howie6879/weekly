@@ -5,100 +5,89 @@
 
 ## 🎯 项目 
 
-### [lsky-pro](https://github.com/lsky-org/lsky-pro)
+### [wazuh](https://github.com/wazuh/wazuh)
 
-非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
+`Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具。
 
-![vps_lsky_01](https://img.turingark.com/uPic/vps_lsky_01.jpg) 
+![wazuh](https://images-1252557999.file.myqcloud.com/uPic/wazuh.png) 
 
-### [hoppscotch](https://github.com/hoppscotch/hoppscotch)
+### [PPTist](https://github.com/pipipi-pikachu/PPTist)
 
-`Hoppscotch`对标的是`Postman`，相信涉及到后端接口这块大家都对`Postman`非常熟悉，但`Postman`自从收费后，评价就慢慢开始不行了，而且软件也越来越重，我本人也是同感，不然我也没有动机找到`hoppscotch`来替换。
+基于 Vue3.x + TypeScript 的[在线演示文稿](pipipi-pikachu.github.io/pptist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
 
-有恶龙就有勇士，有位印度裔小哥`Liyas Thomas`坐不住了，对`Postman`非常不爽，于是他自己开发了`Postwoman`，看这个名字也知道是干嘛的，后面改名为`Hoppscotch`。
+![ppt-list](https://img.turingark.com/uPic/ppt-list.jpg) 
 
-开源的魅力就在这里，永远有人做出让大家欢呼的贡献，所以`Hoppscotch`在社区获得非常高的认可度（目前已经30K Star+），其提供了非常丰富的特性，部署也很方便，有兴趣的可以尝试使用看看：
+### [filebrowser](https://github.com/filebrowser/filebrowser)
 
-![hoppscotch](https://img.turingark.com/uPic/sPde7J.png) 
+这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
 
-### [pico.css](https://github.com/picocss/pico)
+除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
 
-简单优雅小巧的轻量级CSS框架，特性如下：
-
-- 尽量使用原生的HTML语义，上手简单
-- 仅使用CSS，无依赖
-- 在所有设备上都有优雅且一致的响应式排版
-- 默认支持亮/黑模式 
+![filebrowser](https://img.turingark.com/uPic/50716739-ebd26700-107a-11e9-9817-14230c53efd2.gif) 
 
 ## 🤖 软件 
 
-### [marktext](https://github.com/marktext/marktext)
+### [insomnia](https://github.com/Kong/insomnia)
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+在[第009期（10-11~10-17）](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
 
-![marktext](https://img.turingark.com/uPic/cvYHVG.png) 
+![insomnia](https://img.turingark.com/uPic/insomnia.png)
+使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
 
-### [antares](https://github.com/Fabio286/antares)
+### [logseq](https://github.com/logseq/logseq)
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
+Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
 
-![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
 
-### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
+### [AltTab](https://alt-tab-macos.netlify.app/)
 
-安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
+`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
 
-- [美团买菜版本](https://github.com/qulingyuan/robVeg)
-- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
+![AltTab](https://img.turingark.com/uPic/6YohNK.jpg) 
 
 ## 👀 资料 
 
-### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+### [programming-math-science](https://github.com/bobeff/programming-math-science) 
 
- 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
+国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
-### [ascoders/weekly](https://github.com/ascoders/weekly)
+### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
 
-前端精读周刊，帮你理解最前沿、实用的技术。在我的周刊里面推荐周刊👏哈哈，其中内容涉及：
+左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
 
-- 前沿技术
-- 设计模式
-- 编译原理
-- 源码解读
-- 商业思考
-- 算法
+### [easy-rl](https://github.com/datawhalechina/easy-rl)
 
-非常全面，前端从事人员可以看看。 
+强化学习中文教程：
 
-### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
-
-这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
-
-我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
+![easy_rl](https://img.turingark.com/uPic/easy_rl.jpg) 
 
 ## 🕸 网站 
 
-### [ip-api.com](http://ip-api.com/json)
+### [dute](https://www.dute.org/)
 
-获取当前 ip 的免费 api 接口，同类型还有：
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-- http://ip-api.com/json
-- https://ipapi.co/json/
-- https://ipstack.com/
-- http://pv.sohu.com/cityjson
-- http://ip111.cn/ 
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
 
-### [cikeee](https://www.cikeee.com/)
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
-每天推荐一部优秀的电影：
+### [cook](https://github.com/YunYouJun/cook)
 
-![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-### [qrcode-monkey](https://www.qrcode-monkey.com/#)
+![cook](https://img.turingark.com/uPic/cook.jpg) 
 
-免费的二维码生成网站：
+### [nosh](https://nosh.rocks/)
 
-![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
+一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
+
+![nosh](https://img.turingark.com/uPic/3ng4bw.png) 
 
 ## ✍️ 说明
 
