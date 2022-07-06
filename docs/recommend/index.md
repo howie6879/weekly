@@ -5,77 +5,67 @@
 
 ## 🎯 项目 
 
-### [wazuh](https://github.com/wazuh/wazuh)
+### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
 
-`Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具。
+最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
 
-![wazuh](https://images-1252557999.file.myqcloud.com/uPic/wazuh.png) 
+![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
 
-### [PPTist](https://github.com/pipipi-pikachu/PPTist)
+### [sealos](https://github.com/fanux/sealos)
 
-基于 Vue3.x + TypeScript 的[在线演示文稿](pipipi-pikachu.github.io/pptist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
+一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
 
-![ppt-list](https://img.turingark.com/uPic/ppt-list.jpg) 
+### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
 
-### [filebrowser](https://github.com/filebrowser/filebrowser)
+B站视频命令行下载工具：
 
-这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
-
-除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
-
-![filebrowser](https://img.turingark.com/uPic/50716739-ebd26700-107a-11e9-9817-14230c53efd2.gif) 
+![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
 
 ## 🤖 软件 
 
-### [insomnia](https://github.com/Kong/insomnia)
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
-在[第009期（10-11~10-17）](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
+`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
 
-![insomnia](https://img.turingark.com/uPic/insomnia.png)
-使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
+![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
 
-### [logseq](https://github.com/logseq/logseq)
+### [Refined GitHub](https://github.com/refined-github/refined-github)
 
-Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
+一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
 
-![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
+那么`Refined GitHub`主要做了哪些工作呢，如下：
 
-### [AltTab](https://alt-tab-macos.netlify.app/)
+- 浏览代码时候使空格可见
+- 添加一键式合并冲突修复程序
+- 添加表情评论头像
+- 在合并PR时，添加等待检查的选项
+- ...
 
-`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
+![](https://img.turingark.com/uPic/lI0jFl.png) 
 
-![AltTab](https://img.turingark.com/uPic/6YohNK.jpg) 
+### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
+
+适用于Android的免费开源漫画阅读器，流畅丝滑：
+
+![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
+
+之前我的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.cn/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
 
 ## 👀 资料 
 
-### [programming-math-science](https://github.com/bobeff/programming-math-science) 
+### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
 
-国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
+精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
 
-### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
+### [xjq7/books](https://github.com/xjq7/books)
 
-左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
+电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
+### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
 
-强化学习中文教程：
-
-![easy_rl](https://img.turingark.com/uPic/easy_rl.jpg) 
+技术面试最后反问面试官的话。 
 
 ## 🕸 网站 
-
-### [dute](https://www.dute.org/)
-
-独特工具箱，提供免费在线工具，涉及工具类别有：
-
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
-
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
 ### [cook](https://github.com/YunYouJun/cook)
 
@@ -83,11 +73,17 @@ Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私�
 
 ![cook](https://img.turingark.com/uPic/cook.jpg) 
 
-### [nosh](https://nosh.rocks/)
+### [Ben Eater](https://eater.net/)
 
-一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
+博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
 
-![nosh](https://img.turingark.com/uPic/3ng4bw.png) 
+![Xnip2021-08-20_11-59-19](https://img.turingark.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
+
+### [ixinqing](http://www.ixinqing.com/)
+
+心晴 · 专注于心理学入门与自我成长:
+
+![ixinqing](https://img.turingark.com/uPic/ixinqing-20220328205229819.png) 
 
 ## ✍️ 说明
 
