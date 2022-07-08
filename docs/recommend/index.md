@@ -5,91 +5,90 @@
 
 ## 🎯 项目 
 
-### [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)
+### [tinysearch](https://github.com/tinysearch/tinysearch)
 
-朋友圈转发截图生成工具，这个项目确实解决了一些号主做活动要求发朋友圈的需求：
+轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
 
-![](https://img.turingark.com/uPic/Xnip2022-02-22_09-42-52.jpg) 
+### [Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese)
 
-### [HowToCook](https://github.com/Anduin2017/HowToCook)
+AI拟声: 克隆您的声音并生成任意语音内容。 
 
-程序员在家做饭方法指南。 
+### [btop](https://github.com/aristocratos/btop)
 
-### [free-api](https://github.com/fangzesheng/free-api)
+一款界面酷炫的资源管理器，不过我用htop就够够的了。
 
-作者创建此开源项目的目的如下：
-
-> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
-
-包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
-
-![free-api](https://img.turingark.com/uPic/VvapMO.png) 
+![btop](https://img.turingark.com/uPic/3eoG1g.jpg) 
 
 ## 🤖 软件 
 
-### [vnote](https://github.com/vnotex/vnote)
+### [scrcpy](https://github.com/Genymobile/scrcpy)
 
-VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
+在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
 
-![vnote](https://img.turingark.com/uPic/vnote.png) 
+它专注于：
 
-### [KOReader](https://github.com/koreader/koreader)
+- 轻量 (原生，仅显示设备屏幕)
+- 性能 (30~60fps)
+- 质量 (分辨率可达 1920×1080 或更高)
+- 低延迟 (35~70ms)
+- 快速启动 (最快 1 秒内即可显示第一帧)
+- 无侵入性 (不会在设备上遗留任何程序) 
 
-KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
+### [tts-now](https://github.com/funnyzak/tts-now)
 
-![koreader](https://img.turingark.com/uPic/koreader.jpg) 
+基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
 
-### [Refined GitHub](https://github.com/refined-github/refined-github)
+![](https://img.turingark.com/uPic/Se6U0t.jpg) 
 
-一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
+### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
 
-那么`Refined GitHub`主要做了哪些工作呢，如下：
+`TinyPNG`的`Mac`客户端：
 
-- 浏览代码时候使空格可见
-- 添加一键式合并冲突修复程序
-- 添加表情评论头像
-- 在合并PR时，添加等待检查的选项
-- ...
-
-![](https://img.turingark.com/uPic/lI0jFl.png) 
+![TinyPNG4Mac](https://img.turingark.com/uPic/TinyPNG4Mac.png) 
 
 ## 👀 资料 
 
-### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
+### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
 
-一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
+Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
 
-### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
+![eng-practices](https://img.turingark.com/uPic/rDrm0R.png) 
 
-一本开源的专门讲解面试关键路径的书籍：
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
 
-### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
+![docker_practice](https://img.turingark.com/uPic/GFlVsV.png) 
 
-这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
+### [easy-rl](https://github.com/datawhalechina/easy-rl)
 
-之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.cn/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
+强化学习中文教程：
+
+![easy_rl](https://img.turingark.com/uPic/easy_rl.jpg) 
 
 ## 🕸 网站 
 
-### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
+### [zzollo](https://github.com/Sanix-Darker/zzollo)
 
-@妙才投稿，在线学习git命令的网站：
+开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
 
-![](https://img.turingark.com/uPic/YSiAVW.png) 
+![zzollo](https://img.turingark.com/uPic/NJXulr.png) 
 
-### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
+### [阿里云知行动手实验室](https://start.aliyun.com/)
 
-冰霜大佬的博客：
+这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
 
-![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
+网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
 
-### [pixel](https://aqeja.github.io/pixel/)
+我选了一个`k8s`教程尝试了下，嗯，挺香的：
 
-一个小工具，将你的图片像素化:
+![start-ali](https://img.turingark.com/uPic/LIfQqw.png) 
 
-![;'](https://img.turingark.com/uPic/KfJuhM.png) 
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
+
+![YYeTsBot](https://img.turingark.com/uPic/5bwPfx.jpg) 
 
 ## ✍️ 说明
 
