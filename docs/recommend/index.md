@@ -5,90 +5,95 @@
 
 ## 🎯 项目 
 
-### [tinysearch](https://github.com/tinysearch/tinysearch)
+### [form-create](https://github.com/xaboy/form-create)
 
-轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
+强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
 
-### [Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese)
+![form-create](https://img.turingark.com/uPic/demo-live3.gif) 
 
-AI拟声: 克隆您的声音并生成任意语音内容。 
+### [dato.rss](https://github.com/davidesantangelo/dato.rss)
 
-### [btop](https://github.com/aristocratos/btop)
+基于机器学习构建的RSS搜索引擎([datorss.com](https://datorss.com/))：
 
-一款界面酷炫的资源管理器，不过我用htop就够够的了。
+![datorss](https://images-1252557999.file.myqcloud.com/uPic/datorss.png) 
 
-![btop](https://img.turingark.com/uPic/3eoG1g.jpg) 
+### [duf](https://github.com/sigoden/duf)
+
+一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
+
+- 静态文件伺服
+- 下载目录为 zip 文件
+- 上传文件 /目录 (支持拖拽)
+- 搜索
+- 并发下载，断续下载
+- 权限保护
+- 支持 https
+- 支持 webdav
+- 方便 curl 调用 
 
 ## 🤖 软件 
 
-### [scrcpy](https://github.com/Genymobile/scrcpy)
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
 
-在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
-它专注于：
+### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
 
-- 轻量 (原生，仅显示设备屏幕)
-- 性能 (30~60fps)
-- 质量 (分辨率可达 1920×1080 或更高)
-- 低延迟 (35~70ms)
-- 快速启动 (最快 1 秒内即可显示第一帧)
-- 无侵入性 (不会在设备上遗留任何程序) 
+自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
 
-### [tts-now](https://github.com/funnyzak/tts-now)
+![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
 
-基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
+### [DevToys](https://github.com/veler/DevToys)
 
-![](https://img.turingark.com/uPic/Se6U0t.jpg) 
+Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
 
-### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
+![](https://img.turingark.com/uPic/DevToys.png)
 
-`TinyPNG`的`Mac`客户端：
+可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
 
-![TinyPNG4Mac](https://img.turingark.com/uPic/TinyPNG4Mac.png) 
+![](https://img.turingark.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
+
+放心体验吧~ 
 
 ## 👀 资料 
 
-### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
+### [v8-internals](https://github.com/plctlab/v8-internals)
 
-Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+面向编译器开发人员的V8内部实现文档。 
 
-![eng-practices](https://img.turingark.com/uPic/rDrm0R.png) 
+### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
 
-### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
+针对新人的 `CSS` 入门级教程：
 
-本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
+![](https://img.turingark.com/uPic/EnSWJn.png)
 
-![docker_practice](https://img.turingark.com/uPic/GFlVsV.png) 
+在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
+### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
-强化学习中文教程：
+微软开源的一份全面的数据科学课程，20个课时，历时10周：
 
-![easy_rl](https://img.turingark.com/uPic/easy_rl.jpg) 
+![Data-Science-For-Beginners](https://img.turingark.com/uPic/JnGevA.jpg) 
 
 ## 🕸 网站 
 
-### [zzollo](https://github.com/Sanix-Darker/zzollo)
+### [sqlime](http://sqlime.org/)
 
-开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
+SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
 
-![zzollo](https://img.turingark.com/uPic/NJXulr.png) 
+![sqlime](https://img.turingark.com/uPic/57MTfO.jpg) 
 
-### [阿里云知行动手实验室](https://start.aliyun.com/)
+### [macosicons](https://macosicons.com/)
 
-这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
+网站基本上覆盖了热门`Mac APP`图标，你可以选择自己喜欢的图标进行替换，让自己的`Mac`更加漂亮且个性化。
 
-网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
+![macosicons](https://images-1252557999.file.myqcloud.com/uPic/macosicons.png) 
 
-我选了一个`k8s`教程尝试了下，嗯，挺香的：
+### [tanpok](https://tool.tanpok.com/#/)
 
-![start-ali](https://img.turingark.com/uPic/LIfQqw.png) 
+效果非常好的图片压缩工具：
 
-### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
-
-人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
-
-![YYeTsBot](https://img.turingark.com/uPic/5bwPfx.jpg) 
+![tanpok](https://img.turingark.com/uPic/8fZN8v.png) 
 
 ## ✍️ 说明
 
