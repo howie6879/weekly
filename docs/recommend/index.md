@@ -5,43 +5,35 @@
 
 ## 🎯 项目 
 
-### [form-create](https://github.com/xaboy/form-create)
+### [daedalOS](https://github.com/DustinBrett/daedalOS)
 
-强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
+`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
 
-![form-create](https://img.turingark.com/uPic/demo-live3.gif) 
+![daedalOS](https://img.turingark.com/uPic/ISxBdY.png) 
 
-### [dato.rss](https://github.com/davidesantangelo/dato.rss)
+### [jina](https://github.com/jina-ai/jina)
 
-基于机器学习构建的RSS搜索引擎([datorss.com](https://datorss.com/))：
+![jina](https://img.turingark.com/uPic/9MHbAU.png)
 
-![datorss](https://images-1252557999.file.myqcloud.com/uPic/datorss.png) 
+云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
 
-### [duf](https://github.com/sigoden/duf)
+相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
 
-一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
+### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
 
-- 静态文件伺服
-- 下载目录为 zip 文件
-- 上传文件 /目录 (支持拖拽)
-- 搜索
-- 并发下载，断续下载
-- 权限保护
-- 支持 https
-- 支持 webdav
-- 方便 curl 调用 
+不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
 
 ## 🤖 软件 
 
-### [Wechatsync](https://github.com/wechatsync/Wechatsync)
+### [tts-now](https://github.com/funnyzak/tts-now)
 
-一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
+基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
 
-### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
+![](https://img.turingark.com/uPic/Se6U0t.jpg) 
 
-自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
+### [licecap](https://github.com/justinfrankel/licecap)
 
-![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
+LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
 
 ### [DevToys](https://github.com/veler/DevToys)
 
@@ -57,43 +49,52 @@ Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可�
 
 ## 👀 资料 
 
-### [v8-internals](https://github.com/plctlab/v8-internals)
+### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 
-面向编译器开发人员的V8内部实现文档。 
+本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
 
-### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
+![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
 
-针对新人的 `CSS` 入门级教程：
+### [paper-reading](https://github.com/mli/paper-reading)
 
-![](https://img.turingark.com/uPic/EnSWJn.png)
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
+![paper-reading](https://img.turingark.com/uPic/7e52UU.png) 
 
-### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 
-微软开源的一份全面的数据科学课程，20个课时，历时10周：
+本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
 
-![Data-Science-For-Beginners](https://img.turingark.com/uPic/JnGevA.jpg) 
+基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
+配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
+测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
+
+![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [sqlime](http://sqlime.org/)
+### [maeda-design-room](https://dotown.maeda-design-room.net/)
 
-SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
+免费可商用的像素画素材站，由前任天堂设计师成立的前田工作室制作，有12个分类700多个素材：
 
-![sqlime](https://img.turingark.com/uPic/57MTfO.jpg) 
+![maeda-design-room](https://img.turingark.com/uPic/DRpEV6.png) 
 
-### [macosicons](https://macosicons.com/)
+### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
 
-网站基本上覆盖了热门`Mac APP`图标，你可以选择自己喜欢的图标进行替换，让自己的`Mac`更加漂亮且个性化。
+`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
 
-![macosicons](https://images-1252557999.file.myqcloud.com/uPic/macosicons.png) 
+- 可视化组件配置栏
+- 随机生成头像，有一定概率触发彩蛋
+- 撤销/还原*更改*
+- 国际化多语言
 
-### [tanpok](https://tool.tanpok.com/#/)
+![vue-color-avatar](https://img.turingark.com/uPic/n3gXb6.png) 
 
-效果非常好的图片压缩工具：
+### [cleanup.pictures](https://cleanup.pictures/)
 
-![tanpok](https://img.turingark.com/uPic/8fZN8v.png) 
+百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
+
+![cleanup_demo](https://img.turingark.com/uPic/cleanup_demo.gif) 
 
 ## ✍️ 说明
 
