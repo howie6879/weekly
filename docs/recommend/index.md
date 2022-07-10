@@ -5,96 +5,81 @@
 
 ## 🎯 项目 
 
-### [daedalOS](https://github.com/DustinBrett/daedalOS)
+### [ml4a](https://github.com/ml4a/ml4a)
 
-`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
+`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
 
-![daedalOS](https://img.turingark.com/uPic/ISxBdY.png) 
+![ml4a](https://img.turingark.com/uPic/ml4a.jpg) 
 
-### [jina](https://github.com/jina-ai/jina)
+### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
 
-![jina](https://img.turingark.com/uPic/9MHbAU.png)
+`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
 
-云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
+![LuckysheetDemo](https://img.turingark.com/uPic/LuckysheetDemo.gif) 
 
-相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
+### [Weylus](https://github.com/H-M-H/Weylus)
 
-### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
+使用`Rust`编写的共享屏幕开源项目，将平板作为电脑触摸屏使用，全平台支持：
 
-不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
+![weylus](https://img.turingark.com/uPic/weylus.jpg) 
 
 ## 🤖 软件 
 
-### [tts-now](https://github.com/funnyzak/tts-now)
+### [Robo 3T](https://github.com/Studio3T/robomongo)
 
-基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
+本人常用的一款MongoDB跨平台管理软件，开源免费：
 
-![](https://img.turingark.com/uPic/Se6U0t.jpg) 
+![robomongo](https://img.turingark.com/uPic/robomongo.jpg) 
 
-### [licecap](https://github.com/justinfrankel/licecap)
+### [BetterDummy](https://github.com/waydabber/BetterDummy)
 
-LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
+`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
 
-### [DevToys](https://github.com/veler/DevToys)
+![bd_menu](https://img.turingark.com/uPic/bd_menu.png)
 
-Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
+如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
 
-![](https://img.turingark.com/uPic/DevToys.png)
+### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
 
-可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
+跨平台的`youtube-dl`客户端：
 
-![](https://img.turingark.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
-
-放心体验吧~ 
+![](https://img.turingark.com/uPic/yd_gui.png) 
 
 ## 👀 资料 
 
-### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
+### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
 
-本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
+这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
-![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
+之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.cn/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
 
-### [paper-reading](https://github.com/mli/paper-reading)
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
-![paper-reading](https://img.turingark.com/uPic/7e52UU.png) 
+### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
 
-### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
-
-本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
-
-基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
-配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
-测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
-
-![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
+互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
 
 ## 🕸 网站 
 
-### [maeda-design-room](https://dotown.maeda-design-room.net/)
+### flomoapp
 
-免费可商用的像素画素材站，由前任天堂设计师成立的前田工作室制作，有12个分类700多个素材：
+flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
 
-![maeda-design-room](https://img.turingark.com/uPic/DRpEV6.png) 
+![flomoapp](https://img.turingark.com/uPic/6G6qrd.jpg) 
 
-### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
+### [sqlime](http://sqlime.org/)
 
-`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
+SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
 
-- 可视化组件配置栏
-- 随机生成头像，有一定概率触发彩蛋
-- 撤销/还原*更改*
-- 国际化多语言
+![sqlime](https://img.turingark.com/uPic/57MTfO.jpg) 
 
-![vue-color-avatar](https://img.turingark.com/uPic/n3gXb6.png) 
+### [regexlearn](https://regexlearn.com)
 
-### [cleanup.pictures](https://cleanup.pictures/)
+一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
 
-百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
-
-![cleanup_demo](https://img.turingark.com/uPic/cleanup_demo.gif) 
+![regexlearn](https://img.turingark.com/uPic/yUZ5N4.png) 
 
 ## ✍️ 说明
 
