@@ -5,81 +5,93 @@
 
 ## 🎯 项目 
 
-### [ml4a](https://github.com/ml4a/ml4a)
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 
-`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
 
-![ml4a](https://img.turingark.com/uPic/ml4a.jpg) 
+![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
 
-### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
+### [appsmith](https://github.com/appsmithorg/appsmith)
 
-`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
+低代码项目，用于构建任何自定义业务软件，如管理面板、内部工具和仪表板。使用35+个预构建的UI小部件连接到任何数据库、GraphQL或RESTAPI。
 
-![LuckysheetDemo](https://img.turingark.com/uPic/LuckysheetDemo.gif) 
+![as-widgets](https://img.turingark.com/uPic/as-widgets.gif) 
 
-### [Weylus](https://github.com/H-M-H/Weylus)
+### [budibase](https://github.com/Budibase/budibase)
 
-使用`Rust`编写的共享屏幕开源项目，将平板作为电脑触摸屏使用，全平台支持：
+`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
 
-![weylus](https://img.turingark.com/uPic/weylus.jpg) 
+![budibase](https://img.turingark.com/uPic/bCfcQe.jpg) 
 
 ## 🤖 软件 
 
-### [Robo 3T](https://github.com/Studio3T/robomongo)
+### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
 
-本人常用的一款MongoDB跨平台管理软件，开源免费：
+一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
 
-![robomongo](https://img.turingark.com/uPic/robomongo.jpg) 
+![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
 
-### [BetterDummy](https://github.com/waydabber/BetterDummy)
+### [marktext](https://github.com/marktext/marktext)
 
-`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
 
-![bd_menu](https://img.turingark.com/uPic/bd_menu.png)
+![marktext](https://img.turingark.com/uPic/cvYHVG.png) 
 
-如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
+### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
-### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
+针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
 
-跨平台的`youtube-dl`客户端：
-
-![](https://img.turingark.com/uPic/yd_gui.png) 
+![CodeEdit](https://img.turingark.com/uPic/CodeEdit.png) 
 
 ## 👀 资料 
 
-### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
+### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
 
-这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
+一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
 
-之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.cn/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
+![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+深度学习入门教程资料聚合项目，包含：
 
-### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
 
-互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
+![dl01](https://img.turingark.com/uPic/532ono.jpg)
+
+![dl02](https://img.turingark.com/uPic/7I7Luc.jpg) 
+
+### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
+
+算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
+
+![Reflection Summary](https://img.turingark.com/uPic/WpauDu.png) 
 
 ## 🕸 网站 
 
-### flomoapp
+### [zhaoziyuan](https://zhaoziyuan.la)
 
-flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
+阿里云资源搜索引擎：
 
-![flomoapp](https://img.turingark.com/uPic/6G6qrd.jpg) 
+![zhaoziyuan](https://img.turingark.com/uPic/zhaoziyuan-20220429095007870.jpg) 
 
-### [sqlime](http://sqlime.org/)
+### [docsmall](https://docsmall.com/)
 
-SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
+提供一些图片压缩、PDF合并分割小功能的网站：
 
-![sqlime](https://img.turingark.com/uPic/57MTfO.jpg) 
+![docsmall](https://img.turingark.com/uPic/smalldoc.png) 
 
-### [regexlearn](https://regexlearn.com)
+### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
 
-一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
+作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
 
-![regexlearn](https://img.turingark.com/uPic/yUZ5N4.png) 
+![](https://img.turingark.com/uPic/bdd-3d.png)
+
+
+感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
 
 ## ✍️ 说明
 
