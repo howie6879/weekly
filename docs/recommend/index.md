@@ -5,93 +5,99 @@
 
 ## 🎯 项目 
 
-### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
+### [alist](https://github.com/Xhofe/alist)
 
-AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
 
-![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
+![alist](https://img.turingark.com/uPic/alist-20220429094521145.png)
 
-### [appsmith](https://github.com/appsmithorg/appsmith)
+简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
 
-低代码项目，用于构建任何自定义业务软件，如管理面板、内部工具和仪表板。使用35+个预构建的UI小部件连接到任何数据库、GraphQL或RESTAPI。
+### [mall-cook](https://github.com/wangyuan389/mall-cook)
 
-![as-widgets](https://img.turingark.com/uPic/as-widgets.gif) 
+Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
 
-### [budibase](https://github.com/Budibase/budibase)
+![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
 
-`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
+### [greppo](https://github.com/greppo-io/greppo)
 
-![budibase](https://img.turingark.com/uPic/bCfcQe.jpg) 
+快速轻松地构建部署地理空间应用程序：
+
+![greppo](https://img.turingark.com/uPic/IzNSxY.jpg) 
 
 ## 🤖 软件 
 
-### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
+### [Rayon](https://github.com/Lakr233/Rayon)
 
-一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
+一个`macOS`的上的`SSH`客户端：
 
-![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
+![rayon](https://img.turingark.com/uPic/rayon.png)
 
-### [marktext](https://github.com/marktext/marktext)
+软件特性：
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+- 免费&开源
+- 支持 libssh2 的主机连接
+- Linux proc 文件系统状态信息
+- 使用密码、密钥等进行身份验证...
+- xterm 终端支持
+- 批处理执行代码片段 
 
-![marktext](https://img.turingark.com/uPic/cvYHVG.png) 
+### [balenaEtcher](https://github.com/balena-io/etcher)
 
-### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
 
-针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
+![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
 
-![CodeEdit](https://img.turingark.com/uPic/CodeEdit.png) 
+### [Quake](https://github.com/phodal/quake)
+
+Quake 是面向极客的知识管理元框架，它可以：
+
+- 自由的文本内容管理。Todo 清单、文章管理、书评、笔记等。
+- 构建知识网络体系。定制化 markdown 链接
+- 抓住稍纵即逝的灵感。支持快速启动（CLI、TUI）与全局搜索
+- 自由的呈现画布。DSL 与自由画板
+
+![quake](https://img.turingark.com/uPic/quake.gif) 
 
 ## 👀 资料 
 
-### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
+### [pdai](https://pdai.tech/)
 
-一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
+Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
 
-![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
+![pdai](https://img.turingark.com/uPic/8oZW41.png) 
 
-### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-深度学习入门教程资料聚合项目，包含：
+《Mastering GO》中文译本，《玩转 GO》：
 
-- 数学基础
-- 机器学习基础
-- 深度学习基础
-- 工程能力
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
-![dl01](https://img.turingark.com/uPic/532ono.jpg)
+### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
-![dl02](https://img.turingark.com/uPic/7I7Luc.jpg) 
+清华大学计算机系课程攻略：
 
-### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
-
-算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
-
-![Reflection Summary](https://img.turingark.com/uPic/WpauDu.png) 
+![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
 
 ## 🕸 网站 
 
-### [zhaoziyuan](https://zhaoziyuan.la)
+### [zerossl](https://zerossl.com/)
 
-阿里云资源搜索引擎：
+一个可以免费签 IP 地址 SSL 证书的网站：
 
-![zhaoziyuan](https://img.turingark.com/uPic/zhaoziyuan-20220429095007870.jpg) 
+![zerossl](https://img.turingark.com/uPic/zerossl.jpg) 
 
-### [docsmall](https://docsmall.com/)
+### [pixabay](https://pixabay.com/)
 
-提供一些图片压缩、PDF合并分割小功能的网站：
+`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
 
-![docsmall](https://img.turingark.com/uPic/smalldoc.png) 
+![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
 
-### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
+### [jsonvisio](https://jsonvisio.com/editor)
 
-作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
+将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
 
-![](https://img.turingark.com/uPic/bdd-3d.png)
-
-
-感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
+![](https://img.turingark.com/uPic/jsonvisio.jpg) 
 
 ## ✍️ 说明
 
