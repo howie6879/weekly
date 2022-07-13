@@ -5,99 +5,99 @@
 
 ## 🎯 项目 
 
-### [alist](https://github.com/Xhofe/alist)
+### [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
 
-一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
+这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。此项目从书籍、网站、工具、笔记、任务管理等角度推荐怎么提升个人生产力。 
 
-![alist](https://img.turingark.com/uPic/alist-20220429094521145.png)
+### [tiptop](https://github.com/nschloe/tiptop)
 
-简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
+类似`htop`的命令行系统资源监控工具：
 
-### [mall-cook](https://github.com/wangyuan389/mall-cook)
+![tiptop](https://img.turingark.com/uPic/tiptop.png) 
 
-Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
+### [kanboard](https://kanboard.org/)
 
-![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
+`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
 
-### [greppo](https://github.com/greppo-io/greppo)
+- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
+- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
+- 可评估：方便收集如任务完成数量、质量、时间等性能指标
 
-快速轻松地构建部署地理空间应用程序：
-
-![greppo](https://img.turingark.com/uPic/IzNSxY.jpg) 
+![Kanboard](https://img.turingark.com/uPic/76TTj6.png) 
 
 ## 🤖 软件 
 
-### [Rayon](https://github.com/Lakr233/Rayon)
+### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
 
-一个`macOS`的上的`SSH`客户端：
+谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
 
-![rayon](https://img.turingark.com/uPic/rayon.png)
+![temp_mail](https://img.turingark.com/uPic/M4DZPI.png) 
 
-软件特性：
+### [lapce](https://github.com/lapce/lapce)
 
-- 免费&开源
-- 支持 libssh2 的主机连接
-- Linux proc 文件系统状态信息
-- 使用密码、密钥等进行身份验证...
-- xterm 终端支持
-- 批处理执行代码片段 
+基于`Rust`的强大、轻量快速的代码编辑器：
 
-### [balenaEtcher](https://github.com/balena-io/etcher)
+![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
 
-balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
+### [legado](https://github.com/gedoor/legado)
 
-![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-### [Quake](https://github.com/phodal/quake)
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
 
-Quake 是面向极客的知识管理元框架，它可以：
-
-- 自由的文本内容管理。Todo 清单、文章管理、书评、笔记等。
-- 构建知识网络体系。定制化 markdown 链接
-- 抓住稍纵即逝的灵感。支持快速启动（CLI、TUI）与全局搜索
-- 自由的呈现画布。DSL 与自由画板
-
-![quake](https://img.turingark.com/uPic/quake.gif) 
+![legado](https://img.turingark.com/uPic/jSEBJ9.png) 
 
 ## 👀 资料 
 
-### [pdai](https://pdai.tech/)
+### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
 
-Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
+基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
 
-![pdai](https://img.turingark.com/uPic/8oZW41.png) 
+- NLP
+- CV
+- Time Series
 
-### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
+目录概览：
 
-《Mastering GO》中文译本，《玩转 GO》：
+![Pytorch](https://img.turingark.com/uPic/kSUA40.png) 
 
-![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
+### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
 
-### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
 
-清华大学计算机系课程攻略：
+### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
 
-![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
+2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
+
+![](https://img.turingark.com/uPic/AHWB7M.jpg)
+
+更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
 
 ## 🕸 网站 
 
-### [zerossl](https://zerossl.com/)
+### [tanpok](https://tool.tanpok.com/#/)
 
-一个可以免费签 IP 地址 SSL 证书的网站：
+效果非常好的图片压缩工具：
 
-![zerossl](https://img.turingark.com/uPic/zerossl.jpg) 
+![tanpok](https://img.turingark.com/uPic/8fZN8v.png) 
 
-### [pixabay](https://pixabay.com/)
+### [ixinqing](http://www.ixinqing.com/)
 
-`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
+心晴 · 专注于心理学入门与自我成长:
 
-![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
+![ixinqing](https://img.turingark.com/uPic/ixinqing-20220328205229819.png) 
 
-### [jsonvisio](https://jsonvisio.com/editor)
+### [regex101](https://regex101.com/)
 
-将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
+`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
 
-![](https://img.turingark.com/uPic/jsonvisio.jpg) 
+- PHP
+- Python
+- JS
+- Go
+- Java
+
+![regex101](https://img.turingark.com/uPic/Fz15mf.png) 
 
 ## ✍️ 说明
 
