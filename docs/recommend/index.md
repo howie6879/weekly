@@ -5,99 +5,85 @@
 
 ## 🎯 项目 
 
-### [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
+### [greppo](https://github.com/greppo-io/greppo)
 
-这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。此项目从书籍、网站、工具、笔记、任务管理等角度推荐怎么提升个人生产力。 
+快速轻松地构建部署地理空间应用程序：
 
-### [tiptop](https://github.com/nschloe/tiptop)
+![greppo](https://img.turingark.com/uPic/IzNSxY.jpg) 
 
-类似`htop`的命令行系统资源监控工具：
+### [mall-cook](https://github.com/wangyuan389/mall-cook)
 
-![tiptop](https://img.turingark.com/uPic/tiptop.png) 
+Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
 
-### [kanboard](https://kanboard.org/)
+![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
 
-`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
+### [samila](https://github.com/sepandhaghighi/samila)
 
-- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
-- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
-- 可评估：方便收集如任务完成数量、质量、时间等性能指标
+艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
 
-![Kanboard](https://img.turingark.com/uPic/76TTj6.png) 
+![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
 
 ## 🤖 软件 
 
-### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
+### [Rectangle](https://github.com/rxhanson/Rectangle)
 
-谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
+`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
 
-![temp_mail](https://img.turingark.com/uPic/M4DZPI.png) 
+![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
 
-### [lapce](https://github.com/lapce/lapce)
+### [hetty](https://github.com/dstotijn/hetty)
 
-基于`Rust`的强大、轻量快速的代码编辑器：
+`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
 
-![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
+![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
 
-### [legado](https://github.com/gedoor/legado)
+### [Readhubn](https://github.com/shensven/Readhubn)
 
-阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
 
-简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
-
-![legado](https://img.turingark.com/uPic/jSEBJ9.png) 
+![readhub](https://img.turingark.com/uPic/pZfUjT.png) 
 
 ## 👀 资料 
 
-### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
+### [meetup](https://github.com/baiyutang/meetup)
 
-基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
+【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
 
-- NLP
-- CV
-- Time Series
+![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
 
-目录概览：
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-![Pytorch](https://img.turingark.com/uPic/kSUA40.png) 
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
 
-### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
+![ML](https://img.turingark.com/uPic/R26HG2.png) 
 
-互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
+### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
 
-### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
+一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
 
-2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
-
-![](https://img.turingark.com/uPic/AHWB7M.jpg)
-
-更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
+![NhkQDk](https://img.turingark.com/uPic/NhkQDk.jpg) 
 
 ## 🕸 网站 
 
-### [tanpok](https://tool.tanpok.com/#/)
+### [bookmark.style](https://www.bookmark.style/)
 
-效果非常好的图片压缩工具：
+将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
 
-![tanpok](https://img.turingark.com/uPic/8fZN8v.png) 
+![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
 
-### [ixinqing](http://www.ixinqing.com/)
+假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
 
-心晴 · 专注于心理学入门与自我成长:
+### [ziyouziti](https://ziyouziti.com/)
 
-![ixinqing](https://img.turingark.com/uPic/ixinqing-20220328205229819.png) 
+免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
 
-### [regex101](https://regex101.com/)
+![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
 
-`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
+### [drawio](https://github.com/jgraph/drawio)
 
-- PHP
-- Python
-- JS
-- Go
-- Java
+一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
 
-![regex101](https://img.turingark.com/uPic/Fz15mf.png) 
+![drawio](https://img.turingark.com/file/howie-img/uPic/drawio.jpg) 
 
 ## ✍️ 说明
 
