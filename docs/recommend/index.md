@@ -5,85 +5,113 @@
 
 ## 🎯 项目 
 
-### [greppo](https://github.com/greppo-io/greppo)
+### [dootask](https://github.com/kuaifan/dootask)
 
-快速轻松地构建部署地理空间应用程序：
+DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
 
-![greppo](https://img.turingark.com/uPic/IzNSxY.jpg) 
+![dootask](https://img.turingark.com/uPic/tYiTA7.png) 
 
-### [mall-cook](https://github.com/wangyuan389/mall-cook)
+### [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)
 
-Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
+朋友圈转发截图生成工具，这个项目确实解决了一些号主做活动要求发朋友圈的需求：
 
-![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
+![](https://img.turingark.com/uPic/Xnip2022-02-22_09-42-52.jpg) 
 
-### [samila](https://github.com/sepandhaghighi/samila)
+### [paopao-ce](https://github.com/rocboss/paopao-ce)
 
-艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
+🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
 
-![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
+- [Go](https://go.dev/)
+- [Gin](https://gin-gonic.com/)
+- [Zinc](https://zinclabs.io/)
+- [Naive UI](https://www.naiveui.com/)
+- [Vue.js](https://vuejs.org/)
+- [Vite.js](https://vitejs.dev/)
+
+![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
+
+网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
 
 ## 🤖 软件 
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
+### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
 
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+`TinyPNG`的`Mac`客户端：
 
-![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
+![TinyPNG4Mac](https://img.turingark.com/uPic/TinyPNG4Mac.png) 
 
-### [hetty](https://github.com/dstotijn/hetty)
+### [Maccy](https://github.com/p0deje/Maccy)
 
-`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
+轻量级macOS剪切板管理应用：
 
-![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
+![](https://img.turingark.com/uPic/t3XNpU.png)
+使用截图如下：
 
-### [Readhubn](https://github.com/shensven/Readhubn)
+![](https://img.turingark.com/uPic/SWZ6kJ.png) 
 
-如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
+### [Refined GitHub](https://github.com/refined-github/refined-github)
 
-![readhub](https://img.turingark.com/uPic/pZfUjT.png) 
+一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
+
+那么`Refined GitHub`主要做了哪些工作呢，如下：
+
+- 浏览代码时候使空格可见
+- 添加一键式合并冲突修复程序
+- 添加表情评论头像
+- 在合并PR时，添加等待检查的选项
+- ...
+
+![](https://img.turingark.com/uPic/lI0jFl.png) 
 
 ## 👀 资料 
 
-### [meetup](https://github.com/baiyutang/meetup)
+### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
 
-【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
+一本小书《带你入门前端工程》
 
-![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
+![](https://img.turingark.com/uPic/e783TS.png) 
 
-### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
+### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
 
-作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
+📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
 
-![ML](https://img.turingark.com/uPic/R26HG2.png) 
+![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
 
-### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
+### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
 
-一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
+基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
 
-![NhkQDk](https://img.turingark.com/uPic/NhkQDk.jpg) 
+- NLP
+- CV
+- Time Series
+
+目录概览：
+
+![Pytorch](https://img.turingark.com/uPic/kSUA40.png) 
 
 ## 🕸 网站 
 
-### [bookmark.style](https://www.bookmark.style/)
+### [latexlive](https://www.latexlive.com/)
 
-将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
+免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
 
-![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
+![latexlive](https://img.turingark.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
 
-假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
+### [ip-api.com](http://ip-api.com/json)
 
-### [ziyouziti](https://ziyouziti.com/)
+获取当前 ip 的免费 api 接口，同类型还有：
 
-免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
+- http://ip-api.com/json
+- https://ipapi.co/json/
+- https://ipstack.com/
+- http://pv.sohu.com/cityjson
+- http://ip111.cn/ 
 
-![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
+### [法律时代导航](https://yesen.cn/)
 
-### [drawio](https://github.com/jgraph/drawio)
+法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
 
-一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
-
-![drawio](https://img.turingark.com/file/howie-img/uPic/drawio.jpg) 
+![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
 
 ## ✍️ 说明
 
