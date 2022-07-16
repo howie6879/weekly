@@ -5,113 +5,104 @@
 
 ## 🎯 项目 
 
-### [dootask](https://github.com/kuaifan/dootask)
+### [zinc](https://github.com/prabhatsharma/zinc)
 
-DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
+`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
 
-![dootask](https://img.turingark.com/uPic/tYiTA7.png) 
+- 全文索引能力
+- 快速运行，多平台支持
+- 基于Vue的Web UI
+- 兼容ES API
+- 开箱即用的验证功能
+- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
 
-### [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)
+![zinc](https://img.turingark.com/uPic/P9OAA1.jpg) 
 
-朋友圈转发截图生成工具，这个项目确实解决了一些号主做活动要求发朋友圈的需求：
+### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
 
-![](https://img.turingark.com/uPic/Xnip2022-02-22_09-42-52.jpg) 
+鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
 
-### [paopao-ce](https://github.com/rocboss/paopao-ce)
+![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
 
-🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
+### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
 
-- [Go](https://go.dev/)
-- [Gin](https://gin-gonic.com/)
-- [Zinc](https://zinclabs.io/)
-- [Naive UI](https://www.naiveui.com/)
-- [Vue.js](https://vuejs.org/)
-- [Vite.js](https://vitejs.dev/)
+该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
 
-![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
-
-网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
+![computer_book_list](https://img.turingark.com/uPic/uxQa5E.png) 
 
 ## 🤖 软件 
 
-### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
+### [scrcpy](https://github.com/Genymobile/scrcpy)
 
-`TinyPNG`的`Mac`客户端：
+在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
 
-![TinyPNG4Mac](https://img.turingark.com/uPic/TinyPNG4Mac.png) 
+它专注于：
 
-### [Maccy](https://github.com/p0deje/Maccy)
+- 轻量 (原生，仅显示设备屏幕)
+- 性能 (30~60fps)
+- 质量 (分辨率可达 1920×1080 或更高)
+- 低延迟 (35~70ms)
+- 快速启动 (最快 1 秒内即可显示第一帧)
+- 无侵入性 (不会在设备上遗留任何程序) 
 
-轻量级macOS剪切板管理应用：
+### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 
-![](https://img.turingark.com/uPic/t3XNpU.png)
-使用截图如下：
+这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
 
-![](https://img.turingark.com/uPic/SWZ6kJ.png) 
+`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
 
-### [Refined GitHub](https://github.com/refined-github/refined-github)
+- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
+  
+- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
+  
 
-一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
+![neteasy](https://img.turingark.com/uPic/neteasy.png) 
 
-那么`Refined GitHub`主要做了哪些工作呢，如下：
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 
-- 浏览代码时候使空格可见
-- 添加一键式合并冲突修复程序
-- 添加表情评论头像
-- 在合并PR时，添加等待检查的选项
-- ...
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
 
-![](https://img.turingark.com/uPic/lI0jFl.png) 
+![DOS](https://img.turingark.com/uPic/DOS.png) 
 
 ## 👀 资料 
 
-### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
+### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 
-一本小书《带你入门前端工程》
+本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
 
-![](https://img.turingark.com/uPic/e783TS.png) 
+![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
 
-### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
+### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
 
-📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
+精益副业：程序员如何优雅地做副业:
 
-![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
+![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
 
-### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
+### 认知偏差知识手册
 
-基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
+字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
 
-- NLP
-- CV
-- Time Series
-
-目录概览：
-
-![Pytorch](https://img.turingark.com/uPic/kSUA40.png) 
+![cb](https://img.turingark.com/uPic/cb.jpg) 
 
 ## 🕸 网站 
 
-### [latexlive](https://www.latexlive.com/)
+### [favicon.io](https://favicon.io/)
 
-免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
+免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
 
-![latexlive](https://img.turingark.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
+![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
 
-### [ip-api.com](http://ip-api.com/json)
+### [remixicon](https://remixicon.com/)
 
-获取当前 ip 的免费 api 接口，同类型还有：
+[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
 
-- http://ip-api.com/json
-- https://ipapi.co/json/
-- https://ipstack.com/
-- http://pv.sohu.com/cityjson
-- http://ip111.cn/ 
+![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
 
-### [法律时代导航](https://yesen.cn/)
+### [ray.so](https://ray.so/)
 
-法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
+之前在[我的周刊（第032期）](https://weekly.howie6879.cn/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
 
-![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
+![ray.so](https://img.turingark.com/uPic/ray.so.jpg) 
 
 ## ✍️ 说明
 
