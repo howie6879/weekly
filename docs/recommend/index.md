@@ -5,104 +5,97 @@
 
 ## 🎯 项目 
 
-### [zinc](https://github.com/prabhatsharma/zinc)
+### [Feeddd](https://github.com/feeddd/feeds)
 
-`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
+![Feeddd](https://img.turingark.com/uPic/5a9np8.jpg)
 
-- 全文索引能力
-- 快速运行，多平台支持
-- 基于Vue的Web UI
-- 兼容ES API
-- 开箱即用的验证功能
-- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
+一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
 
-![zinc](https://img.turingark.com/uPic/P9OAA1.jpg) 
+### [wazuh](https://github.com/wazuh/wazuh)
 
-### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
+`Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具。
 
-鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
+![wazuh](https://images-1252557999.file.myqcloud.com/uPic/wazuh.png) 
 
-![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
+### [nocobase](https://github.com/nocobase/nocobase)
 
-### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
+NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
 
-该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
-
-![computer_book_list](https://img.turingark.com/uPic/uxQa5E.png) 
+![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
 
 ## 🤖 软件 
 
-### [scrcpy](https://github.com/Genymobile/scrcpy)
+### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
-在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
+针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
 
-它专注于：
+![CodeEdit](https://img.turingark.com/uPic/CodeEdit.png) 
 
-- 轻量 (原生，仅显示设备屏幕)
-- 性能 (30~60fps)
-- 质量 (分辨率可达 1920×1080 或更高)
-- 低延迟 (35~70ms)
-- 快速启动 (最快 1 秒内即可显示第一帧)
-- 无侵入性 (不会在设备上遗留任何程序) 
+### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
 
-### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
+针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.cn/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
 
-这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
+![netease-music-crx](https://img.turingark.com/uPic/rkgRfw.png) 
 
-`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
+### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 
-- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
-  
-- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
-  
+短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
 
-![neteasy](https://img.turingark.com/uPic/neteasy.png) 
-
-### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
-
-中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
-
-![DOS](https://img.turingark.com/uPic/DOS.png) 
+![SmsForwarder](https://img.turingark.com/uPic/v6owv0.jpg)
+如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
 
 ## 👀 资料 
 
-### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
+### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
 
-本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
+ Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
 
-![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
+ ![rust_embedded_dev](https://img.turingark.com/uPic/rust_embedded_dev.jpg) 
 
-### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
+### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
 
-精益副业：程序员如何优雅地做副业:
+一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
 
-![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
+![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
 
-### 认知偏差知识手册
+### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
 
-字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
 
-![cb](https://img.turingark.com/uPic/cb.jpg) 
+![](https://img.turingark.com/uPic/SBotTN.jpg)
+
+其他同类教程地址：
+
+- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
+- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
 
 ## 🕸 网站 
 
-### [favicon.io](https://favicon.io/)
+### [itnext](https://itnext.cn/)
 
-免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+一个介绍元宇宙的网站：
 
-![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
+![itnext](https://img.turingark.com/uPic/yc7Zhp.png) 
 
-### [remixicon](https://remixicon.com/)
+### [sci-hub](https://sci-hub.se/)
 
-[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
+这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
 
-![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
+> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
 
-### [ray.so](https://ray.so/)
+用户可通过以下方式访问新版本：
 
-之前在[我的周刊（第032期）](https://weekly.howie6879.cn/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
+- https://sci-hub.se/
+- https://sci-hub.ru/
+- https://sci-hub.st/
 
-![ray.so](https://img.turingark.com/uPic/ray.so.jpg) 
+![](https://img.turingark.com/uPic/ISPyBJ.png) 
+
+### [pixel](https://aqeja.github.io/pixel/)
+
+一个小工具，将你的图片像素化:
+
+![;'](https://img.turingark.com/uPic/KfJuhM.png) 
 
 ## ✍️ 说明
 
