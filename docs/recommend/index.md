@@ -5,97 +5,85 @@
 
 ## 🎯 项目 
 
-### [Feeddd](https://github.com/feeddd/feeds)
+### [HowToCook](https://github.com/Anduin2017/HowToCook)
 
-![Feeddd](https://img.turingark.com/uPic/5a9np8.jpg)
+程序员在家做饭方法指南。 
 
-一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
+### [MRDOC](https://mrdoc.pro/)
 
-### [wazuh](https://github.com/wazuh/wazuh)
+`MRDOC`觅思文档，私有云笔记、云文档和知识库系统，适合作为私有云文档、云笔记和知识管理的私有化在线文档部署方案。
 
-`Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具。
+分为开源版和付费版，小团队可以考虑使用：
 
-![wazuh](https://images-1252557999.file.myqcloud.com/uPic/wazuh.png) 
+![MRDOC](https://img.turingark.com/uPic/u43buW.png) 
 
-### [nocobase](https://github.com/nocobase/nocobase)
+### [DataEase](https://github.com/dataease/dataease)
 
-NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
-
-![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
+DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
 
 ## 🤖 软件 
 
-### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
 
-针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
+Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
 
-![CodeEdit](https://img.turingark.com/uPic/CodeEdit.png) 
+Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
 
-### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
+支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
 
-针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.cn/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
+![hammerscholar](https://img.turingark.com/uPic/4UQ5Ha.png) 
 
-![netease-music-crx](https://img.turingark.com/uPic/rkgRfw.png) 
+### [balenaEtcher](https://github.com/balena-io/etcher)
 
-### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
+balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
 
-短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
+![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
 
-![SmsForwarder](https://img.turingark.com/uPic/v6owv0.jpg)
-如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
+### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
+
+自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
+
+![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
 
 ## 👀 资料 
 
-### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
+### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
- Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
+这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
 
- ![rust_embedded_dev](https://img.turingark.com/uPic/rust_embedded_dev.jpg) 
+我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
 
-### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
+### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
 
-一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
+本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
 
-![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
+### [db-tutorial](https://github.com/dunwu/db-tutorial)
 
-### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
-
-本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
-
-![](https://img.turingark.com/uPic/SBotTN.jpg)
-
-其他同类教程地址：
-
-- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
-- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
+💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
 
 ## 🕸 网站 
 
-### [itnext](https://itnext.cn/)
+### [readme.so](https://readme.so/)
 
-一个介绍元宇宙的网站：
+一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
 
-![itnext](https://img.turingark.com/uPic/yc7Zhp.png) 
+![readme_so](https://img.turingark.com/uPic/readme_so.jpg) 
 
-### [sci-hub](https://sci-hub.se/)
+### [remixicon](https://remixicon.com/)
 
-这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
+[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
 
-> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
+![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
 
-用户可通过以下方式访问新版本：
+### [myfirstnft](https://myfirstnft.info/)
 
-- https://sci-hub.se/
-- https://sci-hub.ru/
-- https://sci-hub.st/
+我的第一个NFT，在这个网站，你可以：
 
-![](https://img.turingark.com/uPic/ISPyBJ.png) 
+- 理解NFT的价值
+- 铸造一个免费的NFT
+- 了解Web3.0
 
-### [pixel](https://aqeja.github.io/pixel/)
-
-一个小工具，将你的图片像素化:
-
-![;'](https://img.turingark.com/uPic/KfJuhM.png) 
+![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
 
 ## ✍️ 说明
 
