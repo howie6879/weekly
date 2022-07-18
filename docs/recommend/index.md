@@ -5,85 +5,87 @@
 
 ## 🎯 项目 
 
-### [HowToCook](https://github.com/Anduin2017/HowToCook)
+### [mkcert](https://github.com/FiloSottile/mkcert)
 
-程序员在家做饭方法指南。 
+`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
 
-### [MRDOC](https://mrdoc.pro/)
+![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
 
-`MRDOC`觅思文档，私有云笔记、云文档和知识库系统，适合作为私有云文档、云笔记和知识管理的私有化在线文档部署方案。
+### [Feeddd](https://github.com/feeddd/feeds)
 
-分为开源版和付费版，小团队可以考虑使用：
+![Feeddd](https://img.turingark.com/uPic/5a9np8.jpg)
 
-![MRDOC](https://img.turingark.com/uPic/u43buW.png) 
+一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
 
-### [DataEase](https://github.com/dataease/dataease)
+### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
 
-DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
+最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
+
+- 提取文本
+- 提取图片
+- 提取表格
+- 提取链接
+- 对PDF进行相关编辑操作 
 
 ## 🤖 软件 
 
-### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
+### [SketchyBar](https://github.com/FelixKratz/SketchyBar)
 
-Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
+高度可定制的macOS状态栏替代品：
 
-Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
+![SketchyBar](https://images-1252557999.file.myqcloud.com/uPic/SketchyBar.jpg) 
 
-支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
+### [dockeye](https://github.com/vv9k/dockeye)
 
-![hammerscholar](https://img.turingark.com/uPic/4UQ5Ha.png) 
+基于`Rust`编写的`Docker`界面管理工具：
 
-### [balenaEtcher](https://github.com/balena-io/etcher)
+![dockeye](https://img.turingark.com/uPic/Y6s09g.jpg) 
 
-balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
+### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
 
-![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
+JetBrains 的下一代 IDE：
 
-### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
-
-自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
-
-![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
+![fleet](https://img.turingark.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
 
 ## 👀 资料 
 
-### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
 
-这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
+`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
 
-我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
+![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
 
-### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
+### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
 
-本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
+该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
 
-### [db-tutorial](https://github.com/dunwu/db-tutorial)
+![](https://img.turingark.com/uPic/ub1GLI.jpg) 
 
-💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
+### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+
+该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+
+![logic](https://img.turingark.com/uPic/logic.jpg) 
 
 ## 🕸 网站 
 
-### [readme.so](https://readme.so/)
+### [couplet](https://ai.binwang.me/couplet/)
 
-一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
+自动对联网站：
 
-![readme_so](https://img.turingark.com/uPic/readme_so.jpg) 
+![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
 
-### [remixicon](https://remixicon.com/)
+### [pixel](https://aqeja.github.io/pixel/)
 
-[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
+一个小工具，将你的图片像素化:
 
-![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
+![;'](https://img.turingark.com/uPic/KfJuhM.png) 
 
-### [myfirstnft](https://myfirstnft.info/)
+### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
 
-我的第一个NFT，在这个网站，你可以：
+@妙才投稿，在线学习git命令的网站：
 
-- 理解NFT的价值
-- 铸造一个免费的NFT
-- 了解Web3.0
-
-![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
+![](https://img.turingark.com/uPic/YSiAVW.png) 
 
 ## ✍️ 说明
 
