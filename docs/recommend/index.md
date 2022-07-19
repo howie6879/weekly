@@ -5,87 +5,89 @@
 
 ## 🎯 项目 
 
-### [mkcert](https://github.com/FiloSottile/mkcert)
+### [go-daily-lib](https://github.com/darjun/go-daily-lib)
 
-`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
+每天学习一个 Go 语言库，内容质量相当高。
 
-![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
+![go-daily-lib](https://img.turingark.com/uPic/4Ippyf.png) 
 
-### [Feeddd](https://github.com/feeddd/feeds)
+### [freed](https://github.com/YuanHsing/freed)
 
-![Feeddd](https://img.turingark.com/uPic/5a9np8.jpg)
+这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
 
-一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
+### [doocs/md](https://github.com/doocs/md)
 
-### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
+✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性：
 
-最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
+![doocs](https://images-1252557999.file.myqcloud.com/uPic/doocs.jpg)
 
-- 提取文本
-- 提取图片
-- 提取表格
-- 提取链接
-- 对PDF进行相关编辑操作 
+之前我也推荐过 [markdown-nice](https://weekly.howie6879.cn/2022/02-15~02-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC027%E6%9C%9F%EF%BC%89.html?h=mdnice#markdown-nice) ，我构建了一键使用的镜像，也可以体验：
+
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
 
 ## 🤖 软件 
 
-### [SketchyBar](https://github.com/FelixKratz/SketchyBar)
+### [Readhubn](https://github.com/shensven/Readhubn)
 
-高度可定制的macOS状态栏替代品：
+如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
 
-![SketchyBar](https://images-1252557999.file.myqcloud.com/uPic/SketchyBar.jpg) 
+![readhub](https://img.turingark.com/uPic/pZfUjT.png) 
 
-### [dockeye](https://github.com/vv9k/dockeye)
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
 
-基于`Rust`编写的`Docker`界面管理工具：
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
-![dockeye](https://img.turingark.com/uPic/Y6s09g.jpg) 
+### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 
-### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
+短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
 
-JetBrains 的下一代 IDE：
-
-![fleet](https://img.turingark.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
+![SmsForwarder](https://img.turingark.com/uPic/v6owv0.jpg)
+如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
 
 ## 👀 资料 
 
-### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
+### [leetcode](https://github.com/doocs/leetcode)
 
-`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
+本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
 
-![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
+### [sideproject](https://sideproject.guide/)
 
-### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
+`Side Project` 指南：
 
-该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
 
-![](https://img.turingark.com/uPic/ub1GLI.jpg) 
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
 
-### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
 
-![logic](https://img.turingark.com/uPic/logic.jpg) 
+![ML](https://img.turingark.com/uPic/R26HG2.png) 
 
 ## 🕸 网站 
 
-### [couplet](https://ai.binwang.me/couplet/)
+### [法律时代导航](https://yesen.cn/)
 
-自动对联网站：
+法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
 
-![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
+![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
 
-### [pixel](https://aqeja.github.io/pixel/)
+### [读书笔记](https://reading.geek-docs.com/)
 
-一个小工具，将你的图片像素化:
+网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
 
-![;'](https://img.turingark.com/uPic/KfJuhM.png) 
+![reading](https://img.turingark.com/uPic/nfN4XL.png) 
 
-### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
+### [sao.fm](https://sao.fm/)
 
-@妙才投稿，在线学习git命令的网站：
+一个在线听广播电台的网站：
 
-![](https://img.turingark.com/uPic/YSiAVW.png) 
+![sao.fm](https://img.turingark.com/uPic/sao.fm.jpg) 
 
 ## ✍️ 说明
 
