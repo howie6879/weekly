@@ -5,89 +5,93 @@
 
 ## 🎯 项目 
 
-### [go-daily-lib](https://github.com/darjun/go-daily-lib)
+### [gorse](https://github.com/zhenghaoz/gorse)
 
-每天学习一个 Go 语言库，内容质量相当高。
+用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
 
-![go-daily-lib](https://img.turingark.com/uPic/4Ippyf.png) 
+![gorse](https://img.turingark.com/uPic/nP2kgE.jpg)
 
-### [freed](https://github.com/YuanHsing/freed)
+作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
 
-这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
+![gitrec](https://img.turingark.com/uPic/jAuEdM.jpg) 
 
-### [doocs/md](https://github.com/doocs/md)
+### [ossart](https://github.com/djyde/ossart)
 
-✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性：
+这是一个娱乐性质的项目，可以将你最近 6年的 GitHub 活跃图打印成摆件，在官网[getoss](https://getoss.art/)填写你的用户名即可：
 
-![doocs](https://images-1252557999.file.myqcloud.com/uPic/doocs.jpg)
+![ossart](https://img.turingark.com/uPic/5SYY8P.jpg) 
 
-之前我也推荐过 [markdown-nice](https://weekly.howie6879.cn/2022/02-15~02-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC027%E6%9C%9F%EF%BC%89.html?h=mdnice#markdown-nice) ，我构建了一键使用的镜像，也可以体验：
+### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
 
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
+`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
+
+![Real-ESRGAN](https://img.turingark.com/uPic/DBST14.jpg) 
 
 ## 🤖 软件 
 
-### [Readhubn](https://github.com/shensven/Readhubn)
+### [ReadYou](https://github.com/Ashinch/ReadYou)
 
-如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
+这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
 
-![readhub](https://img.turingark.com/uPic/pZfUjT.png) 
+![ReadYou](https://img.turingark.com/uPic/ReadYou.jpg) 
 
-### [Wechatsync](https://github.com/wechatsync/Wechatsync)
+### [hetty](https://github.com/dstotijn/hetty)
 
-一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
+`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
 
-### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
+![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
 
-短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
+### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
 
-![SmsForwarder](https://img.turingark.com/uPic/v6owv0.jpg)
-如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
+谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
+
+![temp_mail](https://img.turingark.com/uPic/M4DZPI.png) 
 
 ## 👀 资料 
 
-### [leetcode](https://github.com/doocs/leetcode)
+### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
-本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
+> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
 
-### [sideproject](https://sideproject.guide/)
+本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
 
-`Side Project` 指南：
+![Learn-Vim_zh_cn](https://img.turingark.com/uPic/AgGats.png) 
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+### developer-roadmap
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+开发人员学习成长路线图：
 
-### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
+![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
 
-作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
+### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
 
-![ML](https://img.turingark.com/uPic/R26HG2.png) 
+非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
 
 ## 🕸 网站 
 
-### [法律时代导航](https://yesen.cn/)
+### [devtool.tech](https://devtool.tech/)
 
-法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
+开发者武器库，作者提供了83个开发者常用的工具：
 
-![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
+![](https://img.turingark.com/uPic/ZlVqam.png) 
 
-### [读书笔记](https://reading.geek-docs.com/)
+### [uxdatabase](https://www.uxdatabase.io/)
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
 
-![reading](https://img.turingark.com/uPic/nfN4XL.png) 
+![uxdatabase](https://img.turingark.com/uPic/uxdatabase.jpg) 
 
-### [sao.fm](https://sao.fm/)
+### [regex101](https://regex101.com/)
 
-一个在线听广播电台的网站：
+`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
 
-![sao.fm](https://img.turingark.com/uPic/sao.fm.jpg) 
+- PHP
+- Python
+- JS
+- Go
+- Java
+
+![regex101](https://img.turingark.com/uPic/Fz15mf.png) 
 
 ## ✍️ 说明
 
