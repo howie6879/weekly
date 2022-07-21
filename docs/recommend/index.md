@@ -5,93 +5,106 @@
 
 ## 🎯 项目 
 
-### [gorse](https://github.com/zhenghaoz/gorse)
+### [alist](https://github.com/Xhofe/alist)
 
-用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
+一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
 
-![gorse](https://img.turingark.com/uPic/nP2kgE.jpg)
+![alist](https://img.turingark.com/uPic/alist-20220429094521145.png)
 
-作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
+简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
 
-![gitrec](https://img.turingark.com/uPic/jAuEdM.jpg) 
+### [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
-### [ossart](https://github.com/djyde/ossart)
+`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
 
-这是一个娱乐性质的项目，可以将你最近 6年的 GitHub 活跃图打印成摆件，在官网[getoss](https://getoss.art/)填写你的用户名即可：
+![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
 
-![ossart](https://img.turingark.com/uPic/5SYY8P.jpg) 
+### [personal-management-system](https://github.com/Volmarg/personal-management-system)
 
-### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
+该项目可以很方便的管理个人数据，如目标规划/笔记/联系人/密码/附件/图片/文件等等：
 
-`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
-
-![Real-ESRGAN](https://img.turingark.com/uPic/DBST14.jpg) 
+![personal-management-system](https://img.turingark.com/uPic/C6hnHx.jpg) 
 
 ## 🤖 软件 
 
-### [ReadYou](https://github.com/Ashinch/ReadYou)
+### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
 
-这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
+自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
 
-![ReadYou](https://img.turingark.com/uPic/ReadYou.jpg) 
+![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
 
-### [hetty](https://github.com/dstotijn/hetty)
+### [Refined GitHub](https://github.com/refined-github/refined-github)
 
-`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
+一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
 
-![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
+那么`Refined GitHub`主要做了哪些工作呢，如下：
 
-### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
+- 浏览代码时候使空格可见
+- 添加一键式合并冲突修复程序
+- 添加表情评论头像
+- 在合并PR时，添加等待检查的选项
+- ...
 
-谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
+![](https://img.turingark.com/uPic/lI0jFl.png) 
 
-![temp_mail](https://img.turingark.com/uPic/M4DZPI.png) 
+### [Xournal++](https://github.com/xournalpp/xournalpp)
+
+`Xournal++`是一款支持PDF注释的开源手写笔记软件，同样具有跨平台属性，功能挺多，有数位板的可以体验一下。
+
+![Xournal++](https://img.turingark.com/uPic/2DWaXR.jpg) 
 
 ## 👀 资料 
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
+该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
 
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
+### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
 
-![Learn-Vim_zh_cn](https://img.turingark.com/uPic/AgGats.png) 
+清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
 
-### developer-roadmap
+更新记录如下：
 
-开发人员学习成长路线图：
+- 2020-11-03：环境搭建完成，开始着手编写文档。
+- 2020-11-13：第一章完成。
+- 2020-11-27：第二章完成。
+- 2020-12-20：前七章代码完成。
+- 2021-01-10：第三章完成。
+- 2021-01-18：加入第零章。
+- 2021-01-30：第四章完成。
+- 2021-02-16：第五章完成。
+- 2021-02-20：第六章完成。
+- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
+- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
 
-![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
+热乎着，有兴趣可以试试。 
 
-### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
+### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
+24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
+
+![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
 
 ## 🕸 网站 
 
-### [devtool.tech](https://devtool.tech/)
+### [pixabay](https://pixabay.com/)
 
-开发者武器库，作者提供了83个开发者常用的工具：
+`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
 
-![](https://img.turingark.com/uPic/ZlVqam.png) 
+![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
 
-### [uxdatabase](https://www.uxdatabase.io/)
+### [ziyouziti](https://ziyouziti.com/)
 
-国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
+免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
 
-![uxdatabase](https://img.turingark.com/uPic/uxdatabase.jpg) 
+![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
 
-### [regex101](https://regex101.com/)
+### [万词王](https://github.com/thunlp/WantWords)
 
-`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
+万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
 
-- PHP
-- Python
-- JS
-- Go
-- Java
-
-![regex101](https://img.turingark.com/uPic/Fz15mf.png) 
+![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
+官方访问地址：[wantwords.net](https://wantwords.net/)。 
 
 ## ✍️ 说明
 
