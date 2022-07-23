@@ -5,49 +5,64 @@
 
 ## 🎯 项目 
 
-### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
+### [mometa](https://github.com/imcuttle/mometa)
 
-提供多款 SS 规则，拥有强劲的广告过滤功能：
+面向研发的低代码元编程，代码可视编辑，辅助编码工具，
 
-![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
+mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。
 
-### [surveyking](https://github.com/javahuang/surveyking)
+**它用于解决的问题有：**
 
-功能挺全面的一个调查问卷系统：
+- 对低代码平台不形成依赖，二次开发可以无缝进入代码开发模式
+- 同时支持所见即所得的可视编辑，用于提效，提升开发体验
+- 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
 
-![surveyking](https://img.turingark.com/uPic/surveyking.jpg) 
+![mometa](https://img.turingark.com/uPic/snapshot.png) 
 
-### [JD\_tencent\_scf](https://github.com/cweijan/JD_tencent_scf)
+### [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
 
-这个项目简化了打京豆的脚本部署流程，每个月能打1500(不确定)左右。 
+作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。
+
+项目列表如下：
+
+![bigdata_analyse](https://img.turingark.com/uPic/klC8AA.png) 
+
+### [mdx-editor](https://github.com/maqi1520/mdx-editor)
+
+一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
+
+![mdx-editor](https://img.turingark.com/uPic/mdx-editor.jpg) 
 
 ## 🤖 软件 
 
-### [SketchyBar](https://github.com/FelixKratz/SketchyBar)
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
-高度可定制的macOS状态栏替代品：
+`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
 
-![SketchyBar](https://images-1252557999.file.myqcloud.com/uPic/SketchyBar.jpg) 
+![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
 
-### [DBeaver](https://github.com/dbeaver/dbeaver)
+### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 
-免费的通用数据库管理工具，SQL客户端，跨平台支持：
+一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
 
-![dbeaver](https://img.turingark.com/uPic/dbeaver.png) 
+- 隐藏桌面图标
+- 番茄钟
+- 快速进入夜间模式
+- 隐藏刘海
+- 保持唤醒
+- 清理 Xcode 缓存
+- 支持快捷方式库，可以自己开发
+- ...
 
-### [logseq](https://github.com/logseq/logseq)
+![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png) 
 
-Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
+### [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
-![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
+`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+
+![appflowy](https://img.turingark.com/uPic/JhzdLT.jpg) 
 
 ## 👀 资料 
-
-### [zju-icicles](https://github.com/QSCTech/zju-icicles)
-
-浙江大学课程攻略共享计划：
-
-![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
 
 ### [开源软件指南](https://opensource.guide/zh-hans/)
 
@@ -55,31 +70,37 @@ GitHub 官方发布的一套技术文档，自带了有多个语言版本。主�
 
 ![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
 
-### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+### [zju-icicles](https://github.com/QSCTech/zju-icicles)
 
-GitHub开源项目维护协作指南：
+浙江大学课程攻略共享计划：
 
-![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
+![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
+
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+
+站点可靠性工作手册：
+
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
 ## 🕸 网站 
 
-### [vim.is](https://vim.is/#exercise)
+### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
 
-`Vim`学习网站：
+配置高性能、安全、稳定的NGINX服务器的最简单方法：
 
-![vim.is](https://img.turingark.com/uPic/iA6wxm.png) 
+![nginx_web](https://img.turingark.com/uPic/N7Yp8R.png) 
 
-### [carbon](https://carbon.now.sh/)
+### [uipatterns](http://uipatterns.io/) 
 
-将你的源代码转成漂亮可分享的图片：
+程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
 
-![carbon](https://img.turingark.com/uPic/carbon.jpg) 
+![](https://img.turingark.com/uPic/uipatterns.jpg) 
 
-### [drawio](https://github.com/jgraph/drawio)
+### [warp.dev](https://www.warp.dev/)
 
-一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
+一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
 
-![drawio](https://img.turingark.com/file/howie-img/uPic/drawio.jpg) 
+![wrap](https://img.turingark.com/uPic/wrap.jpg) 
 
 ## ✍️ 说明
 
