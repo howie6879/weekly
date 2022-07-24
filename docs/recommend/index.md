@@ -5,102 +5,109 @@
 
 ## 🎯 项目 
 
-### [mometa](https://github.com/imcuttle/mometa)
+### [uptime-kuma](https://github.com/louislam/uptime-kuma)
 
-面向研发的低代码元编程，代码可视编辑，辅助编码工具，
+一个开源可自建的网站监控工具，用于监控网站的运行状态：
 
-mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。
+![uptime-kuma](https://img.turingark.com/uPic/vTUcC7.jpg) 
 
-**它用于解决的问题有：**
+### [alist](https://github.com/Xhofe/alist)
 
-- 对低代码平台不形成依赖，二次开发可以无缝进入代码开发模式
-- 同时支持所见即所得的可视编辑，用于提效，提升开发体验
-- 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
+一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
 
-![mometa](https://img.turingark.com/uPic/snapshot.png) 
+![alist](https://img.turingark.com/uPic/alist-20220429094521145.png)
 
-### [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
+简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
 
-作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。
+### [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)
 
-项目列表如下：
+朋友圈转发截图生成工具，这个项目确实解决了一些号主做活动要求发朋友圈的需求：
 
-![bigdata_analyse](https://img.turingark.com/uPic/klC8AA.png) 
-
-### [mdx-editor](https://github.com/maqi1520/mdx-editor)
-
-一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
-
-![mdx-editor](https://img.turingark.com/uPic/mdx-editor.jpg) 
+![](https://img.turingark.com/uPic/Xnip2022-02-22_09-42-52.jpg) 
 
 ## 🤖 软件 
 
-### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
+### [natpass](https://github.com/lwch/natpass)
 
-`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
+新一代 NAT 内网穿透+shell+vnc 工具：
 
-![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
+![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
 
-### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
+### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
-一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
+开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
 
-- 隐藏桌面图标
-- 番茄钟
-- 快速进入夜间模式
-- 隐藏刘海
-- 保持唤醒
-- 清理 Xcode 缓存
-- 支持快捷方式库，可以自己开发
-- ...
+![hitomi](https://img.turingark.com/uPic/hitomi.gif) 
 
-![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png) 
+### [BlogHelper](https://github.com/onblog/BlogHelper)
 
-### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
 
-`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
-
-![appflowy](https://img.turingark.com/uPic/JhzdLT.jpg) 
+![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
 
 ## 👀 资料 
 
-### [开源软件指南](https://opensource.guide/zh-hans/)
+### [nlp-with-transformers](https://github.com/nlp-with-transformers)
 
-GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+书籍《基于Transformers的自然语言处理》的代码仓库：
 
-![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
+![](https://img.turingark.com/uPic/A6MiF5.jpg) 
 
-### [zju-icicles](https://github.com/QSCTech/zju-icicles)
+### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 
-浙江大学课程攻略共享计划：
+以非常直观的语言介绍`pytorch`：
 
-![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
+![eat_pytorch_in_20_days](https://img.turingark.com/uPic/fnTFJ5.png)
 
-### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+作者的同类电子书还有：
 
-站点可靠性工作手册：
+- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
 
-![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
+### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
+
+清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
+
+更新记录如下：
+
+- 2020-11-03：环境搭建完成，开始着手编写文档。
+- 2020-11-13：第一章完成。
+- 2020-11-27：第二章完成。
+- 2020-12-20：前七章代码完成。
+- 2021-01-10：第三章完成。
+- 2021-01-18：加入第零章。
+- 2021-01-30：第四章完成。
+- 2021-02-16：第五章完成。
+- 2021-02-20：第六章完成。
+- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
+- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
+
+热乎着，有兴趣可以试试。 
 
 ## 🕸 网站 
 
-### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
+### [programcreek](https://www.programcreek.com/)
 
-配置高性能、安全、稳定的NGINX服务器的最简单方法：
+网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
 
-![nginx_web](https://img.turingark.com/uPic/N7Yp8R.png) 
+- [Python](https://www.programcreek.com/python/)
+- [Java](https://www.programcreek.com/java-api-examples/)
+- [C++](https://www.programcreek.com/cpp/)
+- [Scala](https://www.programcreek.com/scala/)
 
-### [uipatterns](http://uipatterns.io/) 
+![programcreek](https://img.turingark.com/uPic/YdAEPq.png) 
 
-程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
+### [pixel-me](https://pixel-me.tokyo/en/)
 
-![](https://img.turingark.com/uPic/uipatterns.jpg) 
+将你的头像像素化，质量挺好：
 
-### [warp.dev](https://www.warp.dev/)
+![](https://img.turingark.com/uPic/gnHdoM.png) 
 
-一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
+### [vim.is](https://vim.is/#exercise)
 
-![wrap](https://img.turingark.com/uPic/wrap.jpg) 
+`Vim`学习网站：
+
+![vim.is](https://img.turingark.com/uPic/iA6wxm.png) 
 
 ## ✍️ 说明
 
