@@ -5,109 +5,92 @@
 
 ## 🎯 项目 
 
-### [uptime-kuma](https://github.com/louislam/uptime-kuma)
+### [tiptop](https://github.com/nschloe/tiptop)
 
-一个开源可自建的网站监控工具，用于监控网站的运行状态：
+类似`htop`的命令行系统资源监控工具：
 
-![uptime-kuma](https://img.turingark.com/uPic/vTUcC7.jpg) 
+![tiptop](https://img.turingark.com/uPic/tiptop.png) 
 
-### [alist](https://github.com/Xhofe/alist)
+### [form-create](https://github.com/xaboy/form-create)
 
-一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
+强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
 
-![alist](https://img.turingark.com/uPic/alist-20220429094521145.png)
+![form-create](https://img.turingark.com/uPic/demo-live3.gif) 
 
-简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-### [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-朋友圈转发截图生成工具，这个项目确实解决了一些号主做活动要求发朋友圈的需求：
-
-![](https://img.turingark.com/uPic/Xnip2022-02-22_09-42-52.jpg) 
+ ![mm_wiki](https://img.turingark.com/uPic/mm_wiki.png) 
 
 ## 🤖 软件 
 
-### [natpass](https://github.com/lwch/natpass)
+### [Focalboard](https://github.com/mattermost/focalboard)
 
-新一代 NAT 内网穿透+shell+vnc 工具：
+`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
 
-![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
+![Focalboard](https://img.turingark.com/uPic/K3Ibbl.jpg) 
 
-### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+### [scrcpy](https://github.com/Genymobile/scrcpy)
 
-开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
+在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
 
-![hitomi](https://img.turingark.com/uPic/hitomi.gif) 
+它专注于：
 
-### [BlogHelper](https://github.com/onblog/BlogHelper)
+- 轻量 (原生，仅显示设备屏幕)
+- 性能 (30~60fps)
+- 质量 (分辨率可达 1920×1080 或更高)
+- 低延迟 (35~70ms)
+- 快速启动 (最快 1 秒内即可显示第一帧)
+- 无侵入性 (不会在设备上遗留任何程序) 
 
-帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
-![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
+`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
+
+![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
 
 ## 👀 资料 
 
-### [nlp-with-transformers](https://github.com/nlp-with-transformers)
+### [meetup](https://github.com/baiyutang/meetup)
 
-书籍《基于Transformers的自然语言处理》的代码仓库：
+【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
 
-![](https://img.turingark.com/uPic/A6MiF5.jpg) 
+![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
 
-### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+### 认知偏差知识手册
 
-以非常直观的语言介绍`pytorch`：
+字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
 
-![eat_pytorch_in_20_days](https://img.turingark.com/uPic/fnTFJ5.png)
+![cb](https://img.turingark.com/uPic/cb.jpg) 
 
-作者的同类电子书还有：
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+夯实计算机基础，该怎么学，这个项目给出了答案：
 
-### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
-
-清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
-
-更新记录如下：
-
-- 2020-11-03：环境搭建完成，开始着手编写文档。
-- 2020-11-13：第一章完成。
-- 2020-11-27：第二章完成。
-- 2020-12-20：前七章代码完成。
-- 2021-01-10：第三章完成。
-- 2021-01-18：加入第零章。
-- 2021-01-30：第四章完成。
-- 2021-02-16：第五章完成。
-- 2021-02-20：第六章完成。
-- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
-- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
-
-热乎着，有兴趣可以试试。 
+![TeachYourselfCS](https://img.turingark.com/uPic/hKl2yK.png) 
 
 ## 🕸 网站 
 
-### [programcreek](https://www.programcreek.com/)
+### [emojiall](https://www.emojiall.com/)
 
-网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
+网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
 
-- [Python](https://www.programcreek.com/python/)
-- [Java](https://www.programcreek.com/java-api-examples/)
-- [C++](https://www.programcreek.com/cpp/)
-- [Scala](https://www.programcreek.com/scala/)
+![emojiall](https://img.turingark.com/uPic/emojiall.jpg) 
 
-![programcreek](https://img.turingark.com/uPic/YdAEPq.png) 
+### [unDraw](https://undraw.co/illustrations)
 
-### [pixel-me](https://pixel-me.tokyo/en/)
+你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
 
-将你的头像像素化，质量挺好：
+如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
 
-![](https://img.turingark.com/uPic/gnHdoM.png) 
+![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
 
-### [vim.is](https://vim.is/#exercise)
+### [shell.how](https://www.shell.how/)
 
-`Vim`学习网站：
+网站用优雅的交互和排版告诉你Linux命令的作用：
 
-![vim.is](https://img.turingark.com/uPic/iA6wxm.png) 
+![shell_howe](https://img.turingark.com/uPic/shell_howe.jpg) 
 
 ## ✍️ 说明
 
