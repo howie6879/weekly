@@ -5,78 +5,83 @@
 
 ## 🎯 项目 
 
-### [tiptop](https://github.com/nschloe/tiptop)
+### [melody](https://github.com/foamzou/melody)
 
-类似`htop`的命令行系统资源监控工具：
+你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
 
-![tiptop](https://img.turingark.com/uPic/tiptop.png) 
+主要特性为：
 
-### [form-create](https://github.com/xaboy/form-create)
+- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
+- 用链接搜索歌曲
+- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
 
-强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
+比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
 
-![form-create](https://img.turingark.com/uPic/demo-live3.gif) 
+![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
+### [memos](https://github.com/justmemos/memos)
 
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
 
- ![mm_wiki](https://img.turingark.com/uPic/mm_wiki.png) 
+**🎯 产品意图**:
+
+- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
+- 🏗️ 代替了微信“文件传输助手”
+- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
+
+### [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
+
+这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。此项目从书籍、网站、工具、笔记、任务管理等角度推荐怎么提升个人生产力。 
 
 ## 🤖 软件 
 
-### [Focalboard](https://github.com/mattermost/focalboard)
+### [Xit](https://github.com/Uncommon/Xit)
 
-`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
+`Mac OS`下开源免费的原生`Git`客户端 ：
 
-![Focalboard](https://img.turingark.com/uPic/K3Ibbl.jpg) 
+![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
 
-### [scrcpy](https://github.com/Genymobile/scrcpy)
+### [Bob](https://github.com/ripperhe/Bob)
 
-在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
+同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
 
-它专注于：
+- [x]   划词翻译
+- [x]   截图翻译
+- [x]   输入翻译
+- [x]   翻译多开
+- [x]   自定义插件
+- [x]   自动识别语种
+- [x]   驼峰拆分、蛇形拆分
+- [x]   AppleScript 调用
+- [x]   PopClip 调用 
 
-- 轻量 (原生，仅显示设备屏幕)
-- 性能 (30~60fps)
-- 质量 (分辨率可达 1920×1080 或更高)
-- 低延迟 (35~70ms)
-- 快速启动 (最快 1 秒内即可显示第一帧)
-- 无侵入性 (不会在设备上遗留任何程序) 
+### [dockeye](https://github.com/vv9k/dockeye)
 
-### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
+基于`Rust`编写的`Docker`界面管理工具：
 
-`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
-
-![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
+![dockeye](https://img.turingark.com/uPic/Y6s09g.jpg) 
 
 ## 👀 资料 
 
-### [meetup](https://github.com/baiyutang/meetup)
+### [rust-course](https://github.com/sunface/rust-course)
 
-【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
+> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
 
-![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
+![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
 
-### 认知偏差知识手册
+阅读地址见[course.rs](https://course.rs)。 
 
-字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+### [Student-resources](https://github.com/ivmm/Student-resources)
 
-![cb](https://img.turingark.com/uPic/cb.jpg) 
+本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
 
-夯实计算机基础，该怎么学，这个项目给出了答案：
+《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 
-![TeachYourselfCS](https://img.turingark.com/uPic/hKl2yK.png) 
+![frontend-hard-mode-interview](https://img.turingark.com/uPic/frontend-hard-mode-interview.png) 
 
 ## 🕸 网站 
-
-### [emojiall](https://www.emojiall.com/)
-
-网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
-
-![emojiall](https://img.turingark.com/uPic/emojiall.jpg) 
 
 ### [unDraw](https://undraw.co/illustrations)
 
@@ -86,11 +91,17 @@
 
 ![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
 
-### [shell.how](https://www.shell.how/)
+### [cryptologos](https://cryptologos.cc/)
 
-网站用优雅的交互和排版告诉你Linux命令的作用：
+一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
 
-![shell_howe](https://img.turingark.com/uPic/shell_howe.jpg) 
+![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
+
+### [ai-12348](https://ai.12348.gov.cn/pc/)
+
+免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+
+![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
 
 ## ✍️ 说明
 
