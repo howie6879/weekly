@@ -5,103 +5,83 @@
 
 ## 🎯 项目 
 
-### [melody](https://github.com/foamzou/melody)
+### [markmap](https://github.com/gera2ld/markmap)
 
-你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
+可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
 
-主要特性为：
+![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
 
-- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
-- 用链接搜索歌曲
-- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
+### [photoprism](https://github.com/photoprism/photoprism)
 
-比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
+基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
 
-![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
+![photoprism](https://img.turingark.com/uPic/ZiTbsh.jpg) 
 
-### [memos](https://github.com/justmemos/memos)
+### [mkcert](https://github.com/FiloSottile/mkcert)
 
-Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
+`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
 
-**🎯 产品意图**:
-
-- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
-- 🏗️ 代替了微信“文件传输助手”
-- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
-
-### [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
-
-这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。此项目从书籍、网站、工具、笔记、任务管理等角度推荐怎么提升个人生产力。 
+![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
 
 ## 🤖 软件 
 
-### [Xit](https://github.com/Uncommon/Xit)
+### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 
-`Mac OS`下开源免费的原生`Git`客户端 ：
+快速稳定好用的Redis跨平台桌面管理软件：
 
-![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
+![AnotherRedisDesktopManager](https://img.turingark.com/uPic/AnotherRedisDesktopManager.png) 
 
-### [Bob](https://github.com/ripperhe/Bob)
+### [gushi_namer](https://github.com/holynova/gushi_namer)
 
-同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
 
-- [x]   划词翻译
-- [x]   截图翻译
-- [x]   输入翻译
-- [x]   翻译多开
-- [x]   自定义插件
-- [x]   自动识别语种
-- [x]   驼峰拆分、蛇形拆分
-- [x]   AppleScript 调用
-- [x]   PopClip 调用 
+![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
 
-### [dockeye](https://github.com/vv9k/dockeye)
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
-基于`Rust`编写的`Docker`界面管理工具：
+### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
 
-![dockeye](https://img.turingark.com/uPic/Y6s09g.jpg) 
+跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
+
+![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
 
 ## 👀 资料 
 
-### [rust-course](https://github.com/sunface/rust-course)
+### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
+计算机科学课程和视频讲座列表：
 
-![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
+![cs-video-courses](https://img.turingark.com/uPic/cs-video-courses.jpg) 
 
-阅读地址见[course.rs](https://course.rs)。 
+### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
 
-### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
+本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
 
-《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
-
-![frontend-hard-mode-interview](https://img.turingark.com/uPic/frontend-hard-mode-interview.png) 
+![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
 
 ## 🕸 网站 
 
-### [unDraw](https://undraw.co/illustrations)
+### [tableconvert](https://tableconvert.com/)
 
-你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
+`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
 
-如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
+![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
 
-![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
+### [drawio](https://github.com/jgraph/drawio)
 
-### [cryptologos](https://cryptologos.cc/)
+一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
 
-一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
+![drawio](https://img.turingark.com/file/howie-img/uPic/drawio.jpg) 
 
-![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
+### [必应壁纸](https://bing.ioliu.cn/)
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
-
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+![bing](https://img.turingark.com/uPic/bing.jpg) 
 
 ## ✍️ 说明
 
