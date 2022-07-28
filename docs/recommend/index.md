@@ -5,83 +5,97 @@
 
 ## 🎯 项目 
 
-### [markmap](https://github.com/gera2ld/markmap)
+### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
 
-可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
+最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
 
-![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
+- 提取文本
+- 提取图片
+- 提取表格
+- 提取链接
+- 对PDF进行相关编辑操作 
 
-### [photoprism](https://github.com/photoprism/photoprism)
+### [yao](https://github.com/YaoApp/yao)
 
-基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
+`Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎：
 
-![photoprism](https://img.turingark.com/uPic/ZiTbsh.jpg) 
+![yao](https://img.turingark.com/uPic/yao.jpg) 
 
-### [mkcert](https://github.com/FiloSottile/mkcert)
+### [kanboard](https://kanboard.org/)
 
-`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
+`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
 
-![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
+- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
+- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
+- 可评估：方便收集如任务完成数量、质量、时间等性能指标
+
+![Kanboard](https://img.turingark.com/uPic/76TTj6.png) 
 
 ## 🤖 软件 
 
-### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+### [legado](https://github.com/gedoor/legado)
 
-快速稳定好用的Redis跨平台桌面管理软件：
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-![AnotherRedisDesktopManager](https://img.turingark.com/uPic/AnotherRedisDesktopManager.png) 
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
 
-### [gushi_namer](https://github.com/holynova/gushi_namer)
+![legado](https://img.turingark.com/uPic/jSEBJ9.png) 
 
-古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
+### [dockeye](https://github.com/vv9k/dockeye)
 
-![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+基于`Rust`编写的`Docker`界面管理工具：
 
-从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
+![dockeye](https://img.turingark.com/uPic/Y6s09g.jpg) 
 
-### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
-跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
+`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
 
-![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
+![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
 
 ## 👀 资料 
 
-### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
 
-计算机科学课程和视频讲座列表：
+`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
 
-![cs-video-courses](https://img.turingark.com/uPic/cs-video-courses.jpg) 
+![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
 
-### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
+### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
 
-左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
+`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
 
-### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
+- [Tauri 项目](https://github.com/tauri-apps/tauri)
+- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
+- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
 
-本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
+### [newsletter-list](https://github.com/chasays/newsletter-list)
 
-![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
+有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
+
+- 互联网和科技
+- 成长和思考
+- 工具和效率 
 
 ## 🕸 网站 
 
-### [tableconvert](https://tableconvert.com/)
+### [warp.dev](https://www.warp.dev/)
 
-`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
+一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
 
-![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
+![wrap](https://img.turingark.com/uPic/wrap.jpg) 
 
-### [drawio](https://github.com/jgraph/drawio)
+### [itnext](https://itnext.cn/)
 
-一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
+一个介绍元宇宙的网站：
 
-![drawio](https://img.turingark.com/file/howie-img/uPic/drawio.jpg) 
+![itnext](https://img.turingark.com/uPic/yc7Zhp.png) 
 
-### [必应壁纸](https://bing.ioliu.cn/)
+### [removebg](https://www.remove.bg/zh)
 
-收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
+这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
 
-![bing](https://img.turingark.com/uPic/bing.jpg) 
+![removebg](https://img.turingark.com/uPic/TW1uwy.png) 
 
 ## ✍️ 说明
 
