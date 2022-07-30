@@ -5,88 +5,80 @@
 
 ## 🎯 项目 
 
-### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
+### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
 
-`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
+最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
 
-![Real-ESRGAN](https://img.turingark.com/uPic/DBST14.jpg) 
+![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
 
-### [laf](https://github.com/labring/laf)
+### [BGmi](https://github.com/BGmi/BGmi)
 
-laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
+`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
 
-- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
-- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
-- 云数据库，为应用开发提供开箱即用的数据库服务
-- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
-- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
-- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
-- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
-- WebSocket，应用支持长连接，业务无死角
+![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
 
-![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
+### [budibase](https://github.com/Budibase/budibase)
 
-### [docker-wechat](https://github.com/huan/docker-wechat)
+`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
 
-盒装微信，在linux下基于Docker技术使用微信客户端：
-
-![docker-wechat](https://img.turingark.com/uPic/docker-wechat.png) 
+![budibase](https://img.turingark.com/uPic/bCfcQe.jpg) 
 
 ## 🤖 软件 
 
-### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
+### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
 
-跨平台的`youtube-dl`客户端：
+`TinyPNG`的`Mac`客户端：
 
-![](https://img.turingark.com/uPic/yd_gui.png) 
+![TinyPNG4Mac](https://img.turingark.com/uPic/TinyPNG4Mac.png) 
 
-### [antares](https://github.com/Fabio286/antares)
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
+`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
 
-![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
 
-### [LANDrop](https://github.com/LANDrop/LANDrop)
+### [marktext](https://github.com/marktext/marktext)
 
-开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
 
-![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
+![marktext](https://img.turingark.com/uPic/cvYHVG.png) 
 
 ## 👀 资料 
 
-### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
+### [db-tutorial](https://github.com/dunwu/db-tutorial)
 
-![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
+💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
 
-### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
+### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
 
-左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
+一本基于`python&matplotlib`进行科学可视化的开源书籍：
 
-### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
+![scientific-visualization-book](https://img.turingark.com/uPic/scientific-visualization-book.jpg) 
 
-这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
+### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
-之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.cn/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
+为忙碌的工程师准备的精选面试准备材料：
+
+![tech-interview-handbook](https://img.turingark.com/uPic/lAcwMK.png) 
 
 ## 🕸 网站 
 
-### [读书笔记](https://reading.geek-docs.com/)
+### [Connected Papers](https://www.connectedpapers.com/)
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
 
-![reading](https://img.turingark.com/uPic/nfN4XL.png) 
+![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
+是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
 
-### [aliyunpanbbs](https://aliyunpanbbs.com/)
+### [w2solo](https://w2solo.com/)
 
-阿里云盘资源论坛:
+独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
 
-![aliyunpanbbs](https://img.turingark.com/uPic/NlHLjW.png) 
+### [zhaoziyuan](https://zhaoziyuan.la)
 
-### [uxdatabase](https://www.uxdatabase.io/)
+阿里云资源搜索引擎：
 
-国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
-
-![uxdatabase](https://img.turingark.com/uPic/uxdatabase.jpg) 
+![zhaoziyuan](https://img.turingark.com/uPic/zhaoziyuan-20220429095007870.jpg) 
 
 ## ✍️ 说明
 
