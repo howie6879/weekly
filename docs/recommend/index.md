@@ -5,94 +5,88 @@
 
 ## 🎯 项目 
 
-### [vtracer](https://github.com/visioncortex/vtracer)
+### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
 
-可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
+`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
 
-![vtracer](https://img.turingark.com/uPic/y9m1F5.jpg) 
+![Real-ESRGAN](https://img.turingark.com/uPic/DBST14.jpg) 
 
-### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
+### [laf](https://github.com/labring/laf)
 
-🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
+laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
 
-![Real-CUGAN](https://img.turingark.com/uPic/hWiOCH.jpg) 
+- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
+- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
+- 云数据库，为应用开发提供开箱即用的数据库服务
+- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
+- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
+- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
+- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
+- WebSocket，应用支持长连接，业务无死角
 
-### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
+![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
 
-一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
+### [docker-wechat](https://github.com/huan/docker-wechat)
 
-![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
+盒装微信，在linux下基于Docker技术使用微信客户端：
 
-你可以直接[在线体验](https://letsmarkdown.com/)。 
+![docker-wechat](https://img.turingark.com/uPic/docker-wechat.png) 
 
 ## 🤖 软件 
 
-### [BetterDummy](https://github.com/waydabber/BetterDummy)
+### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
 
-`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
+跨平台的`youtube-dl`客户端：
 
-![bd_menu](https://img.turingark.com/uPic/bd_menu.png)
+![](https://img.turingark.com/uPic/yd_gui.png) 
 
-如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
+### [antares](https://github.com/Fabio286/antares)
 
-### [Rayon](https://github.com/Lakr233/Rayon)
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-一个`macOS`的上的`SSH`客户端：
+![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
-![rayon](https://img.turingark.com/uPic/rayon.png)
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-软件特性：
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-- 免费&开源
-- 支持 libssh2 的主机连接
-- Linux proc 文件系统状态信息
-- 使用密码、密钥等进行身份验证...
-- xterm 终端支持
-- 批处理执行代码片段 
-
-### [apifox](https://www.apifox.cn/)
-
-Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
-
-![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
 ## 👀 资料 
 
-### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
+### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
 
-公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
-
-### [newsletter-list](https://github.com/chasays/newsletter-list)
-
-有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
-
-- 互联网和科技
-- 成长和思考
-- 工具和效率 
+![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
 
 ### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
 
 左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
 
+### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
+
+这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
+
+之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.cn/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
+
 ## 🕸 网站 
 
-### [compressjpeg](https://compressjpeg.com/zh/)
+### [读书笔记](https://reading.geek-docs.com/)
 
-一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
+网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
 
-![compressjpeg](https://img.turingark.com/uPic/compressjpeg.jpg) 
+![reading](https://img.turingark.com/uPic/nfN4XL.png) 
 
-### [svgsilh](https://svgsilh.com/)
+### [aliyunpanbbs](https://aliyunpanbbs.com/)
 
-免费可商用的`SVG`素材网站：
+阿里云盘资源论坛:
 
-![svgsilh](https://images-1252557999.file.myqcloud.com/uPic/svgsilh.jpg) 
+![aliyunpanbbs](https://img.turingark.com/uPic/NlHLjW.png) 
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+### [uxdatabase](https://www.uxdatabase.io/)
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
 
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+![uxdatabase](https://img.turingark.com/uPic/uxdatabase.jpg) 
 
 ## ✍️ 说明
 
