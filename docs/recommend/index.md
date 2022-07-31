@@ -5,80 +5,97 @@
 
 ## 🎯 项目 
 
-### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
+### [photoview](https://github.com/photoview/photoview)
 
-最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
+开源的相册程序，可基于Docker快速构建：
 
-![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
+![photoview](https://img.turingark.com/uPic/photoview.png) 
 
-### [BGmi](https://github.com/BGmi/BGmi)
+### [gorse](https://github.com/zhenghaoz/gorse)
 
-`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
+用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
 
-![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
+![gorse](https://img.turingark.com/uPic/nP2kgE.jpg)
 
-### [budibase](https://github.com/Budibase/budibase)
+作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
 
-`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
+![gitrec](https://img.turingark.com/uPic/jAuEdM.jpg) 
 
-![budibase](https://img.turingark.com/uPic/bCfcQe.jpg) 
+### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
+
+该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
+
+![computer_book_list](https://img.turingark.com/uPic/uxQa5E.png) 
 
 ## 🤖 软件 
 
-### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-`TinyPNG`的`Mac`客户端：
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-![TinyPNG4Mac](https://img.turingark.com/uPic/TinyPNG4Mac.png) 
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
-### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
+### [PeaZip](https://github.com/peazip/PeaZip)
 
-`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
+PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
 
-![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
+![peazip](https://img.turingark.com/uPic/peazip.png) 
 
-### [marktext](https://github.com/marktext/marktext)
+### [gushi_namer](https://github.com/holynova/gushi_namer)
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
 
-![marktext](https://img.turingark.com/uPic/cvYHVG.png) 
+![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
 ## 👀 资料 
 
-### [db-tutorial](https://github.com/dunwu/db-tutorial)
+### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
 
-💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
+`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
 
-### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
+- [Tauri 项目](https://github.com/tauri-apps/tauri)
+- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
+- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
 
-一本基于`python&matplotlib`进行科学可视化的开源书籍：
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-![scientific-visualization-book](https://img.turingark.com/uPic/scientific-visualization-book.jpg) 
+一份程序员延寿指南，目标是稳健地活得更久。 
 
-### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+### [under-the-hood](https://golang.design/under-the-hood/)
 
-为忙碌的工程师准备的精选面试准备材料：
+`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
 
-![tech-interview-handbook](https://img.turingark.com/uPic/lAcwMK.png) 
+![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
 
 ## 🕸 网站 
 
-### [Connected Papers](https://www.connectedpapers.com/)
+### [sci-hub](https://sci-hub.se/)
 
-`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
+这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
 
-![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
-是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
+> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
 
-### [w2solo](https://w2solo.com/)
+用户可通过以下方式访问新版本：
 
-独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
+- https://sci-hub.se/
+- https://sci-hub.ru/
+- https://sci-hub.st/
 
-### [zhaoziyuan](https://zhaoziyuan.la)
+![](https://img.turingark.com/uPic/ISPyBJ.png) 
 
-阿里云资源搜索引擎：
+### [uxdatabase](https://www.uxdatabase.io/)
 
-![zhaoziyuan](https://img.turingark.com/uPic/zhaoziyuan-20220429095007870.jpg) 
+国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
+
+![uxdatabase](https://img.turingark.com/uPic/uxdatabase.jpg) 
+
+### [couplet](https://ai.binwang.me/couplet/)
+
+自动对联网站：
+
+![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
 
 ## ✍️ 说明
 
