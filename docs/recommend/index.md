@@ -5,97 +5,91 @@
 
 ## 🎯 项目 
 
-### [photoview](https://github.com/photoview/photoview)
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-开源的相册程序，可基于Docker快速构建：
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-![photoview](https://img.turingark.com/uPic/photoview.png) 
+ ![mm_wiki](https://img.turingark.com/uPic/mm_wiki.png) 
 
-### [gorse](https://github.com/zhenghaoz/gorse)
+### [qinglong](https://github.com/whyour/qinglong)
 
-用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
+支持python3、javaScript、shell、typescript 的定时任务管理面板：
 
-![gorse](https://img.turingark.com/uPic/nP2kgE.jpg)
+- 支持多种脚本语言（python3、javaScript、shell、typescript）
+- 支持在线管理脚本、环境变量、配置文件
+- 支持在线查看任务日志
+- 支持秒级任务设置
+- 支持系统级通知
+- 支持暗黑模式
+- 支持手机端操作
 
-作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
+![ql](https://images-1252557999.file.myqcloud.com/uPic/ql.jpg) 
 
-![gitrec](https://img.turingark.com/uPic/jAuEdM.jpg) 
+### [nativefier](https://github.com/nativefier/nativefier)
 
-### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
+这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
 
-该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
-
-![computer_book_list](https://img.turingark.com/uPic/uxQa5E.png) 
+![nativefier_walkthrough](https://img.turingark.com/uPic/nativefier_walkthrough.gif) 
 
 ## 🤖 软件 
 
-### [LANDrop](https://github.com/LANDrop/LANDrop)
+### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
 
-开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
+谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
 
-![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
+![temp_mail](https://img.turingark.com/uPic/M4DZPI.png) 
 
-### [PeaZip](https://github.com/peazip/PeaZip)
+### [SwiftBar](https://github.com/swiftbar/SwiftBar)
 
-PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
+一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
 
-![peazip](https://img.turingark.com/uPic/peazip.png) 
+![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
 
-### [gushi_namer](https://github.com/holynova/gushi_namer)
+### [lively](https://github.com/rocksdanister/lively)
 
-古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
+针对 `Windows` 的开源的动态壁纸软件：
 
-![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
-
-从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
+![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
 
 ## 👀 资料 
 
-### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
+### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
 
-`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
+📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
 
-- [Tauri 项目](https://github.com/tauri-apps/tauri)
-- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
-- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
+![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
 
-### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
+### [go101](https://gfw.go101.org/article/101.html)
 
-一份程序员延寿指南，目标是稳健地活得更久。 
+《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
 
-### [under-the-hood](https://golang.design/under-the-hood/)
+![Go语言101](https://img.turingark.com/uPic/aPSFYR.png) 
 
-`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
+### [2d2d](https://2d2d.io/)
 
-![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
+《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建我开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
+
+![2d2d](https://img.turingark.com/uPic/2d2d.jpg) 
 
 ## 🕸 网站 
 
-### [sci-hub](https://sci-hub.se/)
+### [latexlive](https://www.latexlive.com/)
 
-这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
+免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
 
-> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
+![latexlive](https://img.turingark.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
 
-用户可通过以下方式访问新版本：
+### [cikeee](https://www.cikeee.com/)
 
-- https://sci-hub.se/
-- https://sci-hub.ru/
-- https://sci-hub.st/
+每天推荐一部优秀的电影：
 
-![](https://img.turingark.com/uPic/ISPyBJ.png) 
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
-### [uxdatabase](https://www.uxdatabase.io/)
+### [regexlearn](https://regexlearn.com)
 
-国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
+一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
 
-![uxdatabase](https://img.turingark.com/uPic/uxdatabase.jpg) 
-
-### [couplet](https://ai.binwang.me/couplet/)
-
-自动对联网站：
-
-![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
+![regexlearn](https://img.turingark.com/uPic/yUZ5N4.png) 
 
 ## ✍️ 说明
 
