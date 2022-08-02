@@ -5,91 +5,102 @@
 
 ## 🎯 项目 
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
+### [markdown-nice](https://github.com/mdnice/markdown-nice)
 
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
 
- ![mm_wiki](https://img.turingark.com/uPic/mm_wiki.png) 
+> 支持主题设计的 Markdown 编辑器，让排版变 Nice
 
-### [qinglong](https://github.com/whyour/qinglong)
+你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
 
-支持python3、javaScript、shell、typescript 的定时任务管理面板：
+![](https://img.turingark.com/uPic/oGeICY.png)
 
-- 支持多种脚本语言（python3、javaScript、shell、typescript）
-- 支持在线管理脚本、环境变量、配置文件
-- 支持在线查看任务日志
-- 支持秒级任务设置
-- 支持系统级通知
-- 支持暗黑模式
-- 支持手机端操作
+官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
 
-![ql](https://images-1252557999.file.myqcloud.com/uPic/ql.jpg) 
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
 
-### [nativefier](https://github.com/nativefier/nativefier)
+### [iptables-web](https://github.com/pretty66/iptables-web)
 
-这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
+`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
 
-![nativefier_walkthrough](https://img.turingark.com/uPic/nativefier_walkthrough.gif) 
+![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
+
+### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
+
+鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
+
+![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
 
 ## 🤖 软件 
 
-### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
+### [automa](https://github.com/Kholid060/automa)
 
-谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
+`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
 
-![temp_mail](https://img.turingark.com/uPic/M4DZPI.png) 
+![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
 
-### [SwiftBar](https://github.com/swiftbar/SwiftBar)
+### [Rectangle](https://github.com/rxhanson/Rectangle)
 
-一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
+`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
 
-![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
+![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
 
-### [lively](https://github.com/rocksdanister/lively)
+### [tunnelblick](https://tunnelblick.net/)
 
-针对 `Windows` 的开源的动态壁纸软件：
+免费开源的`openvpn`客户端：
 
-![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
+![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
 
 ## 👀 资料 
 
-### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
+### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
 
-📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
+Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
 
-![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
+![eng-practices](https://img.turingark.com/uPic/rDrm0R.png) 
 
-### [go101](https://gfw.go101.org/article/101.html)
+### [easy-rl](https://github.com/datawhalechina/easy-rl)
 
-《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
+强化学习中文教程：
 
-![Go语言101](https://img.turingark.com/uPic/aPSFYR.png) 
+![easy_rl](https://img.turingark.com/uPic/easy_rl.jpg) 
 
-### [2d2d](https://2d2d.io/)
+### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
 
-《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建我开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
+针对新人的 `CSS` 入门级教程：
 
-![2d2d](https://img.turingark.com/uPic/2d2d.jpg) 
+![](https://img.turingark.com/uPic/EnSWJn.png)
+
+在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
 
 ## 🕸 网站 
 
-### [latexlive](https://www.latexlive.com/)
+### [itnext](https://itnext.cn/)
 
-免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
+一个介绍元宇宙的网站：
 
-![latexlive](https://img.turingark.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
+![itnext](https://img.turingark.com/uPic/yc7Zhp.png) 
 
-### [cikeee](https://www.cikeee.com/)
+### [文学网](https://www.hwxnet.com/)
 
-每天推荐一部优秀的电影：
+文学相关工具在线网站：
 
-![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
 
-### [regexlearn](https://regexlearn.com)
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
-一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
+### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
 
-![regexlearn](https://img.turingark.com/uPic/yUZ5N4.png) 
+配置高性能、安全、稳定的NGINX服务器的最简单方法：
+
+![nginx_web](https://img.turingark.com/uPic/N7Yp8R.png) 
 
 ## ✍️ 说明
 
