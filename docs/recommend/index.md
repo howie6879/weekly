@@ -5,33 +5,23 @@
 
 ## 🎯 项目 
 
-### [markdown-nice](https://github.com/mdnice/markdown-nice)
+### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
 
-有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
+该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
 
-> 支持主题设计的 Markdown 编辑器，让排版变 Nice
+![computer_book_list](https://img.turingark.com/uPic/uxQa5E.png) 
 
-你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
+### [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
 
-![](https://img.turingark.com/uPic/oGeICY.png)
+最近在开发一款微信小程序，第一次上手，发现还是很有意思的。这个项目收集了小程序开发的方方面面，如：工具、插件、组件、Demo等。
 
-官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
+基本上只要找一个开源的小程序，找一个示例跟着写，哪怕你没基础，也能很快开发一款自己的小程序出来，推荐。 
 
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
+### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
 
-### [iptables-web](https://github.com/pretty66/iptables-web)
+适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
 
-`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
-
-![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
-
-### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
-
-鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
-
-![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
+![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
 
 ## 🤖 软件 
 
@@ -41,66 +31,64 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
 
 ![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
+### [Imagine](https://github.com/meowtec/Imagine)
 
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+全平台支持的图片压缩软件：
 
-![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
+![Imagine](https://img.turingark.com/uPic/KrSb9L.png)
 
-### [tunnelblick](https://tunnelblick.net/)
+看看这86%的压缩率还是挺上头的，而且效果很好。 
 
-免费开源的`openvpn`客户端：
+### [Xit](https://github.com/Uncommon/Xit)
 
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+`Mac OS`下开源免费的原生`Git`客户端 ：
+
+![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
 
 ## 👀 资料 
 
-### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
+### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 
-Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+以非常直观的语言介绍`pytorch`：
 
-![eng-practices](https://img.turingark.com/uPic/rDrm0R.png) 
+![eat_pytorch_in_20_days](https://img.turingark.com/uPic/fnTFJ5.png)
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
+作者的同类电子书还有：
 
-强化学习中文教程：
+- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
 
-![easy_rl](https://img.turingark.com/uPic/easy_rl.jpg) 
+### [under-the-hood](https://golang.design/under-the-hood/)
 
-### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
+`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
 
-针对新人的 `CSS` 入门级教程：
+![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
 
-![](https://img.turingark.com/uPic/EnSWJn.png)
+### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
 
-在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
+[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
+
+![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
 
 ## 🕸 网站 
 
-### [itnext](https://itnext.cn/)
+### [drawio](https://github.com/jgraph/drawio)
 
-一个介绍元宇宙的网站：
+一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
 
-![itnext](https://img.turingark.com/uPic/yc7Zhp.png) 
+![drawio](https://img.turingark.com/file/howie-img/uPic/drawio.jpg) 
 
-### [文学网](https://www.hwxnet.com/)
+### [watermarkremover](https://www.watermarkremover.io/)
 
-文学相关工具在线网站：
+通过AI技术去除图片水印：
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
+![watermarkremover](https://img.turingark.com/uPic/watermarkremover.jpg) 
 
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+### [tanpok](https://tool.tanpok.com/#/)
 
-### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
+效果非常好的图片压缩工具：
 
-配置高性能、安全、稳定的NGINX服务器的最简单方法：
-
-![nginx_web](https://img.turingark.com/uPic/N7Yp8R.png) 
+![tanpok](https://img.turingark.com/uPic/8fZN8v.png) 
 
 ## ✍️ 说明
 
