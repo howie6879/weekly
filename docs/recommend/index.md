@@ -5,90 +5,85 @@
 
 ## 🎯 项目 
 
-### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
+### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
 
-该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
+该项目支持将微信聊天记录导出并生成网页浏览。 
 
-![computer_book_list](https://img.turingark.com/uPic/uxQa5E.png) 
+### [go-daily-lib](https://github.com/darjun/go-daily-lib)
 
-### [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
+每天学习一个 Go 语言库，内容质量相当高。
 
-最近在开发一款微信小程序，第一次上手，发现还是很有意思的。这个项目收集了小程序开发的方方面面，如：工具、插件、组件、Demo等。
+![go-daily-lib](https://img.turingark.com/uPic/4Ippyf.png) 
 
-基本上只要找一个开源的小程序，找一个示例跟着写，哪怕你没基础，也能很快开发一款自己的小程序出来，推荐。 
+### [PyFlow](https://github.com/wonderworks-software/PyFlow)
 
-### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+可视化脚本框架：
 
-适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
-
-![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
+![PyFlow](https://img.turingark.com/uPic/XEBUdM.jpg) 
 
 ## 🤖 软件 
 
-### [automa](https://github.com/Kholid060/automa)
+### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
 
-`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
+谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
 
-![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
+![temp_mail](https://img.turingark.com/uPic/M4DZPI.png) 
 
-### [Imagine](https://github.com/meowtec/Imagine)
+### [antares](https://github.com/Fabio286/antares)
 
-全平台支持的图片压缩软件：
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-![Imagine](https://img.turingark.com/uPic/KrSb9L.png)
+![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
-看看这86%的压缩率还是挺上头的，而且效果很好。 
+### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
 
-### [Xit](https://github.com/Uncommon/Xit)
+ImageOptim 是一款开源免费的本地图像压缩工具：
 
-`Mac OS`下开源免费的原生`Git`客户端 ：
+![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
 
-![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
+我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
+
+- [Imagine](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
+- [webutils](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
+- [tinypng](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
+- [tanpok](https://weekly.howie6879.cn/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
+- [docsmall](https://weekly.howie6879.cn/2021/10-18~10-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#vue-color-avatar)：提供一些图片压缩、PDF合并分割小功能的网站 
 
 ## 👀 资料 
 
-### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
 
-以非常直观的语言介绍`pytorch`：
+互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
 
-![eat_pytorch_in_20_days](https://img.turingark.com/uPic/fnTFJ5.png)
+### [Student-resources](https://github.com/ivmm/Student-resources)
 
-作者的同类电子书还有：
+本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
 
-- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
 
-### [under-the-hood](https://golang.design/under-the-hood/)
+重新分类 Leetcode 高频题 2021 版
 
-`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
-
-![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
-
-### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
-
-[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
-
-![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
+- 题目按照面试频率降序排列
+- 增加难度分类，适合从简单开始学习
+- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
 
 ## 🕸 网站 
 
-### [drawio](https://github.com/jgraph/drawio)
+### [w2solo](https://w2solo.com/)
 
-一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
+独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
 
-![drawio](https://img.turingark.com/file/howie-img/uPic/drawio.jpg) 
+### [aliyunpanbbs](https://aliyunpanbbs.com/)
 
-### [watermarkremover](https://www.watermarkremover.io/)
+阿里云盘资源论坛:
 
-通过AI技术去除图片水印：
+![aliyunpanbbs](https://img.turingark.com/uPic/NlHLjW.png) 
 
-![watermarkremover](https://img.turingark.com/uPic/watermarkremover.jpg) 
+### [uxdatabase](https://www.uxdatabase.io/)
 
-### [tanpok](https://tool.tanpok.com/#/)
+国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
 
-效果非常好的图片压缩工具：
-
-![tanpok](https://img.turingark.com/uPic/8fZN8v.png) 
+![uxdatabase](https://img.turingark.com/uPic/uxdatabase.jpg) 
 
 ## ✍️ 说明
 
