@@ -5,85 +5,86 @@
 
 ## 🎯 项目 
 
-### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
+### [wireflow](https://github.com/vanila-io/wireflow)
 
-该项目支持将微信聊天记录导出并生成网页浏览。 
+一款开源的用户流程图制作工具（点击[wireflow.co](https://wireflow.co/)访问）：
 
-### [go-daily-lib](https://github.com/darjun/go-daily-lib)
+![wireflow](https://images-1252557999.file.myqcloud.com/uPic/wireflow.png) 
 
-每天学习一个 Go 语言库，内容质量相当高。
+### [appwrite](https://github.com/appwrite/appwrite)
 
-![go-daily-lib](https://img.turingark.com/uPic/4Ippyf.png) 
+`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
 
-### [PyFlow](https://github.com/wonderworks-software/PyFlow)
+![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
 
-可视化脚本框架：
+### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
 
-![PyFlow](https://img.turingark.com/uPic/XEBUdM.jpg) 
+`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
+
+![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
 
 ## 🤖 软件 
 
-### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
+### [AltTab](https://alt-tab-macos.netlify.app/)
 
-谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
+`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
 
-![temp_mail](https://img.turingark.com/uPic/M4DZPI.png) 
+![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
 
-### [antares](https://github.com/Fabio286/antares)
+### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
+一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
 
-![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+- 隐藏桌面图标
+- 番茄钟
+- 快速进入夜间模式
+- 隐藏刘海
+- 保持唤醒
+- 清理 Xcode 缓存
+- 支持快捷方式库，可以自己开发
+- ...
 
-### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
+![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png) 
 
-ImageOptim 是一款开源免费的本地图像压缩工具：
+### [ReadYou](https://github.com/Ashinch/ReadYou)
 
-![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
+这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
 
-我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
-
-- [Imagine](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
-- [webutils](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
-- [tinypng](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
-- [tanpok](https://weekly.howie6879.cn/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
-- [docsmall](https://weekly.howie6879.cn/2021/10-18~10-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#vue-color-avatar)：提供一些图片压缩、PDF合并分割小功能的网站 
+![ReadYou](https://img.turingark.com/uPic/ReadYou.jpg) 
 
 ## 👀 资料 
 
-### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
+### [data_compression_course](https://github.com/jermp/data_compression_course)
 
-互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
+由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+### [archbase](https://github.com/foxsen/archbase)
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
 
-### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
+![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
 
-重新分类 Leetcode 高频题 2021 版
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-- 题目按照面试频率降序排列
-- 增加难度分类，适合从简单开始学习
-- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
+ 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
 
 ## 🕸 网站 
+
+### [dbbqb](https://www.dbbqb.com/)
+
+专业的表情包搜索网站：
+
+![dbbqb](https://images-1252557999.file.myqcloud.com/uPic/dbbqb.jpg) 
 
 ### [w2solo](https://w2solo.com/)
 
 独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
 
-### [aliyunpanbbs](https://aliyunpanbbs.com/)
+### [读书笔记](https://reading.geek-docs.com/)
 
-阿里云盘资源论坛:
+网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
 
-![aliyunpanbbs](https://img.turingark.com/uPic/NlHLjW.png) 
-
-### [uxdatabase](https://www.uxdatabase.io/)
-
-国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
-
-![uxdatabase](https://img.turingark.com/uPic/uxdatabase.jpg) 
+![reading](https://img.turingark.com/uPic/nfN4XL.png) 
 
 ## ✍️ 说明
 
