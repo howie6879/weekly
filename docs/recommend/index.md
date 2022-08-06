@@ -5,31 +5,42 @@
 
 ## 🎯 项目 
 
-### [wireflow](https://github.com/vanila-io/wireflow)
+### [mometa](https://github.com/imcuttle/mometa)
 
-一款开源的用户流程图制作工具（点击[wireflow.co](https://wireflow.co/)访问）：
+面向研发的低代码元编程，代码可视编辑，辅助编码工具，
 
-![wireflow](https://images-1252557999.file.myqcloud.com/uPic/wireflow.png) 
+mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。
 
-### [appwrite](https://github.com/appwrite/appwrite)
+**它用于解决的问题有：**
 
-`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
+- 对低代码平台不形成依赖，二次开发可以无缝进入代码开发模式
+- 同时支持所见即所得的可视编辑，用于提效，提升开发体验
+- 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
 
-![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
+![mometa](https://img.turingark.com/uPic/snapshot.png) 
 
-### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
+### [zinc](https://github.com/prabhatsharma/zinc)
 
-`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
+`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
 
-![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
+- 全文索引能力
+- 快速运行，多平台支持
+- 基于Vue的Web UI
+- 兼容ES API
+- 开箱即用的验证功能
+- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
+
+![zinc](https://img.turingark.com/uPic/P9OAA1.jpg) 
+
+### [filebrowser](https://github.com/filebrowser/filebrowser)
+
+这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
+
+除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
+
+![filebrowser](https://img.turingark.com/uPic/50716739-ebd26700-107a-11e9-9817-14230c53efd2.gif) 
 
 ## 🤖 软件 
-
-### [AltTab](https://alt-tab-macos.netlify.app/)
-
-`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
-
-![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
 
 ### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 
@@ -46,45 +57,65 @@
 
 ![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png) 
 
-### [ReadYou](https://github.com/Ashinch/ReadYou)
+### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
-这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
+针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
 
-![ReadYou](https://img.turingark.com/uPic/ReadYou.jpg) 
+![CodeEdit](https://img.turingark.com/uPic/CodeEdit.png) 
+
+### [vnote](https://github.com/vnotex/vnote)
+
+VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
+
+![vnote](https://img.turingark.com/uPic/vnote.png) 
 
 ## 👀 资料 
 
-### [data_compression_course](https://github.com/jermp/data_compression_course)
+### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
 
-由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
+精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
 
-### [archbase](https://github.com/foxsen/archbase)
+### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
 
-这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
 
-![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
+### [sideproject](https://sideproject.guide/)
 
-### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+`Side Project` 指南：
 
- 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
+
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
 
 ## 🕸 网站 
 
-### [dbbqb](https://www.dbbqb.com/)
+### [dute](https://www.dute.org/)
 
-专业的表情包搜索网站：
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-![dbbqb](https://images-1252557999.file.myqcloud.com/uPic/dbbqb.jpg) 
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
 
-### [w2solo](https://w2solo.com/)
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
-独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
+### [docsmall](https://docsmall.com/)
 
-### [读书笔记](https://reading.geek-docs.com/)
+提供一些图片压缩、PDF合并分割小功能的网站：
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+![docsmall](https://img.turingark.com/uPic/smalldoc.png) 
 
-![reading](https://img.turingark.com/uPic/nfN4XL.png) 
+### [Python Tutor](https://pythontutor.com/?)
+
+这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
+
+![Python Tutor](https://img.turingark.com/uPic/hIdiXA.png) 
 
 ## ✍️ 说明
 
