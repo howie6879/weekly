@@ -5,118 +5,111 @@
 
 ## 🎯 项目 
 
-### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
+### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
 
-微信 macOS 客户端撤回拦截与多开工具，主要功能有：
+最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
 
-- 阻止消息撤回
-    - 消息列表通知
-    - 系统通知
-    - 正常撤回自己发出的消息
-- 客户端无限多开
-    - 右键 Dock icon 登录新的微信账号
-    - 命令行执行：`open -n /Applications/WeChat.app`
-- 消息处理增强
-    - 支持任意表情导出
-    - 支持二维码识别
-    - 支持右键直接复制链接
-    - 支持由系统默认浏览器直接打开
-- UI界面设置面板
-- 支持 Alfred workflow
-- 支持 Launchbar action
+![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
 
-**项目挺好，但是使用过程中需要注意被封号的风险。** 
+### [laf](https://github.com/labring/laf)
 
-### [markmap](https://github.com/gera2ld/markmap)
+laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
 
-可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
+- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
+- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
+- 云数据库，为应用开发提供开箱即用的数据库服务
+- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
+- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
+- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
+- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
+- WebSocket，应用支持长连接，业务无死角
 
-![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
+![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
 
-### [free-api](https://github.com/fangzesheng/free-api)
+### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
 
-作者创建此开源项目的目的如下：
+鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
 
-> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
-
-包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
-
-![free-api](https://img.turingark.com/uPic/VvapMO.png) 
+![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
 
 ## 🤖 软件 
 
-### [vnote](https://github.com/vnotex/vnote)
+### [scrcpy](https://github.com/Genymobile/scrcpy)
 
-VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
+在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
 
-![vnote](https://img.turingark.com/uPic/vnote.png) 
+它专注于：
 
-### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+- 轻量 (原生，仅显示设备屏幕)
+- 性能 (30~60fps)
+- 质量 (分辨率可达 1920×1080 或更高)
+- 低延迟 (35~70ms)
+- 快速启动 (最快 1 秒内即可显示第一帧)
+- 无侵入性 (不会在设备上遗留任何程序) 
 
-开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
+### [balenaEtcher](https://github.com/balena-io/etcher)
 
-![hitomi](https://img.turingark.com/uPic/hitomi.gif) 
+balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
 
-### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
+![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
 
-M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
+### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
 
-| 功能                 | 支持       |
-| -------------------- | ---------- |
-| HLS协议点播源        | ✓          |
-| 自定义Http协议头下载 | ✓          |
-| 自定义KEY和IV解密    | ✓          |
-| 本地M3U8文件下载     | ✓          |
-| M3U8 直播源          | ✓          |
-| 标准 AES-128-CBC加密 | ✓          |
-| 标准 AES-196-CBC加密 | ✓          |
-| 标准 AES-256-CBC加密 | ✓          |
-| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
-| 网页嗅探视频源       | ✓          |
+网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
 
-![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
+![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
 
 ## 👀 资料 
 
-### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
+### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
 
-一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
+该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
 
-![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
+![](https://img.turingark.com/uPic/ub1GLI.jpg) 
 
-### [meetup](https://github.com/baiyutang/meetup)
+### 认知偏差知识手册
 
-【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
+字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
 
-![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
+![cb](https://img.turingark.com/uPic/cb.jpg) 
 
-### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
+### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
 
-针对新人的 `CSS` 入门级教程：
+本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
 
-![](https://img.turingark.com/uPic/EnSWJn.png)
+![](https://img.turingark.com/uPic/SBotTN.jpg)
 
-在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
+其他同类教程地址：
+
+- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
+- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
 
 ## 🕸 网站 
 
-### [tanpok](https://tool.tanpok.com/#/)
+### [latexlive](https://www.latexlive.com/)
 
-效果非常好的图片压缩工具：
+免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
 
-![tanpok](https://img.turingark.com/uPic/8fZN8v.png) 
+![latexlive](https://img.turingark.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
 
-### [qrcode-monkey](https://www.qrcode-monkey.com/#)
+### [sao.fm](https://sao.fm/)
 
-免费的二维码生成网站：
+一个在线听广播电台的网站：
 
-![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
+![sao.fm](https://img.turingark.com/uPic/sao.fm.jpg) 
 
-### [icones.js.org](https://icones.js.org/)
+### [Qwerty Learner](https://qwerty.kaiyi.cool/gallery)
 
-免费的图标库：
+这也是一个开源项目，作者将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。
 
-![icones](https://img.turingark.com/uPic/icones.jpg) 
+网站提供了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 
+
+目前有两种方式使用这个项目：
+
+- 网站：推荐
+- VS Code插件
+
+![Qwerty](https://img.turingark.com/uPic/tHD4ez.png) 
 
 ## ✍️ 说明
 
