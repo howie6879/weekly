@@ -5,111 +5,81 @@
 
 ## 🎯 项目 
 
-### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
+### [questdb](https://github.com/questdb/questdb)
 
-最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
+QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
 
-![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
+特别是针对时间序列数据做了处理：
 
-### [laf](https://github.com/labring/laf)
+![questdb](https://img.turingark.com/uPic/Sbq9WK.jpg) 
 
-laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
+### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
 
-- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
-- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
-- 云数据库，为应用开发提供开箱即用的数据库服务
-- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
-- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
-- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
-- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
-- WebSocket，应用支持长连接，业务无死角
+让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
 
-![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
+### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
 
-### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
+`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
 
-鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
-
-![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
+![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
 
 ## 🤖 软件 
 
-### [scrcpy](https://github.com/Genymobile/scrcpy)
+### [tunnelblick](https://tunnelblick.net/)
 
-在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
+免费开源的`openvpn`客户端：
 
-它专注于：
+![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
 
-- 轻量 (原生，仅显示设备屏幕)
-- 性能 (30~60fps)
-- 质量 (分辨率可达 1920×1080 或更高)
-- 低延迟 (35~70ms)
-- 快速启动 (最快 1 秒内即可显示第一帧)
-- 无侵入性 (不会在设备上遗留任何程序) 
+### [KOReader](https://github.com/koreader/koreader)
 
-### [balenaEtcher](https://github.com/balena-io/etcher)
+KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
 
-balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
+![koreader](https://img.turingark.com/uPic/koreader.jpg) 
 
-![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
+### [BlogHelper](https://github.com/onblog/BlogHelper)
 
-### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
+帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
 
-网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
-
-![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
+![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
 
 ## 👀 资料 
 
-### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
+### [archbase](https://github.com/foxsen/archbase)
 
-该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
 
-![](https://img.turingark.com/uPic/ub1GLI.jpg) 
+![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
 
-### 认知偏差知识手册
+### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
 
-字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
 
-![cb](https://img.turingark.com/uPic/cb.jpg) 
+### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 
-### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
+GitHub开源项目维护协作指南：
 
-本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
-
-![](https://img.turingark.com/uPic/SBotTN.jpg)
-
-其他同类教程地址：
-
-- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
-- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
+![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
 
 ## 🕸 网站 
 
-### [latexlive](https://www.latexlive.com/)
+### [nona](https://www.nona.de/)
 
-免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
+德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
 
-![latexlive](https://img.turingark.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
+![nona](https://img.turingark.com/uPic/1nN2lu.png) 
 
-### [sao.fm](https://sao.fm/)
+### [cleanup.pictures](https://cleanup.pictures/)
 
-一个在线听广播电台的网站：
+百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
 
-![sao.fm](https://img.turingark.com/uPic/sao.fm.jpg) 
+![cleanup_demo](https://img.turingark.com/uPic/cleanup_demo.gif) 
 
-### [Qwerty Learner](https://qwerty.kaiyi.cool/gallery)
+### [一证通查](https://getsimnum.caict.ac.cn/#/)
 
-这也是一个开源项目，作者将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。
+自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
 
-网站提供了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 
-
-目前有两种方式使用这个项目：
-
-- 网站：推荐
-- VS Code插件
-
-![Qwerty](https://img.turingark.com/uPic/tHD4ez.png) 
+![phone_query](https://img.turingark.com/uPic/phone_query.png) 
 
 ## ✍️ 说明
 
