@@ -5,63 +5,45 @@
 
 ## 🎯 项目 
 
-### [mometa](https://github.com/imcuttle/mometa)
+### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
 
-面向研发的低代码元编程，代码可视编辑，辅助编码工具，
+微信 macOS 客户端撤回拦截与多开工具，主要功能有：
 
-mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。
+- 阻止消息撤回
+    - 消息列表通知
+    - 系统通知
+    - 正常撤回自己发出的消息
+- 客户端无限多开
+    - 右键 Dock icon 登录新的微信账号
+    - 命令行执行：`open -n /Applications/WeChat.app`
+- 消息处理增强
+    - 支持任意表情导出
+    - 支持二维码识别
+    - 支持右键直接复制链接
+    - 支持由系统默认浏览器直接打开
+- UI界面设置面板
+- 支持 Alfred workflow
+- 支持 Launchbar action
 
-**它用于解决的问题有：**
+**项目挺好，但是使用过程中需要注意被封号的风险。** 
 
-- 对低代码平台不形成依赖，二次开发可以无缝进入代码开发模式
-- 同时支持所见即所得的可视编辑，用于提效，提升开发体验
-- 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
+### [markmap](https://github.com/gera2ld/markmap)
 
-![mometa](https://img.turingark.com/uPic/snapshot.png) 
+可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
 
-### [zinc](https://github.com/prabhatsharma/zinc)
+![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
 
-`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
+### [free-api](https://github.com/fangzesheng/free-api)
 
-- 全文索引能力
-- 快速运行，多平台支持
-- 基于Vue的Web UI
-- 兼容ES API
-- 开箱即用的验证功能
-- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
+作者创建此开源项目的目的如下：
 
-![zinc](https://img.turingark.com/uPic/P9OAA1.jpg) 
+> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
 
-### [filebrowser](https://github.com/filebrowser/filebrowser)
+包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
 
-这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
-
-除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
-
-![filebrowser](https://img.turingark.com/uPic/50716739-ebd26700-107a-11e9-9817-14230c53efd2.gif) 
+![free-api](https://img.turingark.com/uPic/VvapMO.png) 
 
 ## 🤖 软件 
-
-### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
-
-一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
-
-- 隐藏桌面图标
-- 番茄钟
-- 快速进入夜间模式
-- 隐藏刘海
-- 保持唤醒
-- 清理 Xcode 缓存
-- 支持快捷方式库，可以自己开发
-- ...
-
-![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png) 
-
-### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
-
-针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
-
-![CodeEdit](https://img.turingark.com/uPic/CodeEdit.png) 
 
 ### [vnote](https://github.com/vnotex/vnote)
 
@@ -69,53 +51,72 @@ VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台
 
 ![vnote](https://img.turingark.com/uPic/vnote.png) 
 
+### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+
+开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
+
+![hitomi](https://img.turingark.com/uPic/hitomi.gif) 
+
+### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
+
+M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
+
+| 功能                 | 支持       |
+| -------------------- | ---------- |
+| HLS协议点播源        | ✓          |
+| 自定义Http协议头下载 | ✓          |
+| 自定义KEY和IV解密    | ✓          |
+| 本地M3U8文件下载     | ✓          |
+| M3U8 直播源          | ✓          |
+| 标准 AES-128-CBC加密 | ✓          |
+| 标准 AES-196-CBC加密 | ✓          |
+| 标准 AES-256-CBC加密 | ✓          |
+| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
+| 网页嗅探视频源       | ✓          |
+
+![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
+
 ## 👀 资料 
 
-### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
+### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
 
-精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
+一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
 
-### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
+![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
 
-对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
+### [meetup](https://github.com/baiyutang/meetup)
 
-### [sideproject](https://sideproject.guide/)
+【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
 
-`Side Project` 指南：
+![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+针对新人的 `CSS` 入门级教程：
+
+![](https://img.turingark.com/uPic/EnSWJn.png)
+
+在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
 
 ## 🕸 网站 
 
-### [dute](https://www.dute.org/)
+### [tanpok](https://tool.tanpok.com/#/)
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
+效果非常好的图片压缩工具：
 
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
+![tanpok](https://img.turingark.com/uPic/8fZN8v.png) 
 
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+### [qrcode-monkey](https://www.qrcode-monkey.com/#)
 
-### [docsmall](https://docsmall.com/)
+免费的二维码生成网站：
 
-提供一些图片压缩、PDF合并分割小功能的网站：
+![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
 
-![docsmall](https://img.turingark.com/uPic/smalldoc.png) 
+### [icones.js.org](https://icones.js.org/)
 
-### [Python Tutor](https://pythontutor.com/?)
+免费的图标库：
 
-这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
-
-![Python Tutor](https://img.turingark.com/uPic/hIdiXA.png) 
+![icones](https://img.turingark.com/uPic/icones.jpg) 
 
 ## ✍️ 说明
 
