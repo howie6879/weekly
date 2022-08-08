@@ -5,6 +5,12 @@
 
 ## 🎯 项目 
 
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
+
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+
+![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
+
 ### [questdb](https://github.com/questdb/questdb)
 
 QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
@@ -13,73 +19,71 @@ QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、�
 
 ![questdb](https://img.turingark.com/uPic/Sbq9WK.jpg) 
 
-### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
+### [ossart](https://github.com/djyde/ossart)
 
-让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
+这是一个娱乐性质的项目，可以将你最近 6年的 GitHub 活跃图打印成摆件，在官网[getoss](https://getoss.art/)填写你的用户名即可：
 
-### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
-
-`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
-
-![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
+![ossart](https://img.turingark.com/uPic/5SYY8P.jpg) 
 
 ## 🤖 软件 
 
-### [tunnelblick](https://tunnelblick.net/)
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
-免费开源的`openvpn`客户端：
+`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
 
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
 
-### [KOReader](https://github.com/koreader/koreader)
+### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
 
-KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
+针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.cn/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
 
-![koreader](https://img.turingark.com/uPic/koreader.jpg) 
+![netease-music-crx](https://img.turingark.com/uPic/rkgRfw.png) 
 
-### [BlogHelper](https://github.com/onblog/BlogHelper)
+### [marktext](https://github.com/marktext/marktext)
 
-帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
 
-![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
+![marktext](https://img.turingark.com/uPic/cvYHVG.png) 
 
 ## 👀 资料 
 
-### [archbase](https://github.com/foxsen/archbase)
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
 
-![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
-### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
+《Mastering GO》中文译本，《玩转 GO》：
 
-### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
-GitHub开源项目维护协作指南：
+### [netkiller](https://www.netkiller.cn/)
 
-![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
+作者持续写了将近20年的技术博文，涵盖面极广：
+
+![netkiller](https://img.turingark.com/uPic/V7rzw3.png) 
 
 ## 🕸 网站 
 
-### [nona](https://www.nona.de/)
+### [Python Tutor](https://pythontutor.com/?)
 
-德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
+这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
 
-![nona](https://img.turingark.com/uPic/1nN2lu.png) 
+![Python Tutor](https://img.turingark.com/uPic/hIdiXA.png) 
 
-### [cleanup.pictures](https://cleanup.pictures/)
+### [http.cat](https://http.cat)
 
-百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
+如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
 
-![cleanup_demo](https://img.turingark.com/uPic/cleanup_demo.gif) 
+![http_cat](https://img.turingark.com/uPic/http_cat.jpg) 
 
-### [一证通查](https://getsimnum.caict.ac.cn/#/)
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
 
-自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
 
-![phone_query](https://img.turingark.com/uPic/phone_query.png) 
+![YYeTsBot](https://img.turingark.com/uPic/5bwPfx.jpg) 
 
 ## ✍️ 说明
 
