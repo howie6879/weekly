@@ -5,85 +5,88 @@
 
 ## 🎯 项目 
 
-### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
+### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
 
-AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
 
-![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
+![computer_book_list](https://img.turingark.com/uPic/uxQa5E.png) 
 
-### [questdb](https://github.com/questdb/questdb)
+### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
 
-QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
+让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
 
-特别是针对时间序列数据做了处理：
+### [BookStack](https://github.com/BookStackApp/BookStack)
 
-![questdb](https://img.turingark.com/uPic/Sbq9WK.jpg) 
+一个开源的`documentation/wik`文档管理平台，其核心特性如下：
 
-### [ossart](https://github.com/djyde/ossart)
+- 免费开源可自建
+- 简单易用的交互界面
+- 全文检索以及文档互联
+- 可配置
+- 强大的编辑功能，MD支持
+- 等
 
-这是一个娱乐性质的项目，可以将你最近 6年的 GitHub 活跃图打印成摆件，在官网[getoss](https://getoss.art/)填写你的用户名即可：
+![BookStack](https://images-1252557999.file.myqcloud.com/uPic/vdoSqZ.jpg)
 
-![ossart](https://img.turingark.com/uPic/5SYY8P.jpg) 
+有兴趣的话，可以利用[docker-bookstack](https://github.com/solidnerd/docker-bookstack)项目进行快速试用。 
 
 ## 🤖 软件 
 
-### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
+### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
 
-`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
+跨平台的`youtube-dl`客户端：
 
-![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
+![](https://img.turingark.com/uPic/yd_gui.png) 
 
-### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
+### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
 
-针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.cn/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
+提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
 
-![netease-music-crx](https://img.turingark.com/uPic/rkgRfw.png) 
+![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
 
-### [marktext](https://github.com/marktext/marktext)
+### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
 
-![marktext](https://img.turingark.com/uPic/cvYHVG.png) 
+![](https://img.turingark.com/uPic/F42ndl.jpg) 
 
 ## 👀 资料 
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+一本基于`python&matplotlib`进行科学可视化的开源书籍：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+![scientific-visualization-book](https://img.turingark.com/uPic/scientific-visualization-book.jpg) 
 
-### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
+### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 
-《Mastering GO》中文译本，《玩转 GO》：
+C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
 
-![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
+![Cpp-0-1-Resource](https://img.turingark.com/uPic/rM99nS.png) 
 
-### [netkiller](https://www.netkiller.cn/)
+### [从零开始的Kubernetes攻防](https://github.com/neargle/my-re0-k8s-security)
 
-作者持续写了将近20年的技术博文，涵盖面极广：
-
-![netkiller](https://img.turingark.com/uPic/V7rzw3.png) 
+![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
 
 ## 🕸 网站 
 
-### [Python Tutor](https://pythontutor.com/?)
+### [sqlime](http://sqlime.org/)
 
-这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
+SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
 
-![Python Tutor](https://img.turingark.com/uPic/hIdiXA.png) 
+![sqlime](https://img.turingark.com/uPic/57MTfO.jpg) 
 
-### [http.cat](https://http.cat)
+### [xsgames](https://xsgames.co/pixelme/)
 
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
+免费的像素头像生成网站：
 
-![http_cat](https://img.turingark.com/uPic/http_cat.jpg) 
+![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
 
-### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+### [websequencediagrams](https://www.websequencediagrams.com/)
 
-人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
+提供在线绘制时序图的网站：
 
-![YYeTsBot](https://img.turingark.com/uPic/5bwPfx.jpg) 
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
 ## ✍️ 说明
 
