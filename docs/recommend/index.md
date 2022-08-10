@@ -5,88 +5,95 @@
 
 ## 🎯 项目 
 
-### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
+### [zfile](https://github.com/zhaojun1998/zfile)
 
-该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
+基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
 
-![computer_book_list](https://img.turingark.com/uPic/uxQa5E.png) 
+![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
 
-### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
+### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
 
-让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
+可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
 
-### [BookStack](https://github.com/BookStackApp/BookStack)
+类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
 
-一个开源的`documentation/wik`文档管理平台，其核心特性如下：
+![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
 
-- 免费开源可自建
-- 简单易用的交互界面
-- 全文检索以及文档互联
-- 可配置
-- 强大的编辑功能，MD支持
-- 等
+### [nativefier](https://github.com/nativefier/nativefier)
 
-![BookStack](https://images-1252557999.file.myqcloud.com/uPic/vdoSqZ.jpg)
+这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
 
-有兴趣的话，可以利用[docker-bookstack](https://github.com/solidnerd/docker-bookstack)项目进行快速试用。 
+![nativefier_walkthrough](https://img.turingark.com/uPic/nativefier_walkthrough.gif) 
 
 ## 🤖 软件 
 
-### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
+### [Imagine](https://github.com/meowtec/Imagine)
 
-跨平台的`youtube-dl`客户端：
+全平台支持的图片压缩软件：
 
-![](https://img.turingark.com/uPic/yd_gui.png) 
+![Imagine](https://img.turingark.com/uPic/KrSb9L.png)
 
-### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
+看看这86%的压缩率还是挺上头的，而且效果很好。 
 
-提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
+### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
 
-![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
+一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
 
-### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
 
-B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
+### [Refined GitHub](https://github.com/refined-github/refined-github)
 
-![](https://img.turingark.com/uPic/F42ndl.jpg) 
+一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
+
+那么`Refined GitHub`主要做了哪些工作呢，如下：
+
+- 浏览代码时候使空格可见
+- 添加一键式合并冲突修复程序
+- 添加表情评论头像
+- 在合并PR时，添加等待检查的选项
+- ...
+
+![](https://img.turingark.com/uPic/lI0jFl.png) 
 
 ## 👀 资料 
 
-### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
+### [穷佐罗的Linux书](https://zorrozou.github.io/)
 
-一本基于`python&matplotlib`进行科学可视化的开源书籍：
+穷佐罗的Linux书，挺不错的一份`Linux`教程。
 
-![scientific-visualization-book](https://img.turingark.com/uPic/scientific-visualization-book.jpg) 
+![zorrozou](https://img.turingark.com/uPic/zorrozou.jpg) 
 
-### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
 
-C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
+30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
 
-![Cpp-0-1-Resource](https://img.turingark.com/uPic/rM99nS.png) 
+![30-Days-Of-React](https://img.turingark.com/uPic/GeYfjR.jpg) 
 
-### [从零开始的Kubernetes攻防](https://github.com/neargle/my-re0-k8s-security)
+### [nlp-with-transformers](https://github.com/nlp-with-transformers)
 
-![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
+书籍《基于Transformers的自然语言处理》的代码仓库：
+
+![](https://img.turingark.com/uPic/A6MiF5.jpg) 
 
 ## 🕸 网站 
 
-### [sqlime](http://sqlime.org/)
+### [sao.fm](https://sao.fm/)
 
-SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
+一个在线听广播电台的网站：
 
-![sqlime](https://img.turingark.com/uPic/57MTfO.jpg) 
+![sao.fm](https://img.turingark.com/uPic/sao.fm.jpg) 
 
-### [xsgames](https://xsgames.co/pixelme/)
+### [qrcode-monkey](https://www.qrcode-monkey.com/#)
 
-免费的像素头像生成网站：
+免费的二维码生成网站：
 
-![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
+![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
 
-提供在线绘制时序图的网站：
+PDF Squeezer 是一款 PDF 压缩工具：
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
 ## ✍️ 说明
 
