@@ -5,95 +5,83 @@
 
 ## 🎯 项目 
 
-### [zfile](https://github.com/zhaojun1998/zfile)
+### [dicebear](https://github.com/dicebear/dicebear)
 
-基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
+供设计师和开发者使用的头像库。可根据传入的字符串，自动生成对应用户头像的库：
 
-![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
+![dicebear](https://images-1252557999.file.myqcloud.com/uPic/dicebear.jpg) 
 
-### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
+### [HTTPie](https://github.com/httpie/httpie)
 
-可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
+现代化的HTTP客户端命令行工具：
 
-类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
+![httpie-animation](https://img.turingark.com/uPic/httpie-animation.gif) 
 
-![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
+### [freed](https://github.com/YuanHsing/freed)
 
-### [nativefier](https://github.com/nativefier/nativefier)
-
-这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
-
-![nativefier_walkthrough](https://img.turingark.com/uPic/nativefier_walkthrough.gif) 
+这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
 
 ## 🤖 软件 
 
-### [Imagine](https://github.com/meowtec/Imagine)
+### [Robo 3T](https://github.com/Studio3T/robomongo)
 
-全平台支持的图片压缩软件：
+本人常用的一款MongoDB跨平台管理软件，开源免费：
 
-![Imagine](https://img.turingark.com/uPic/KrSb9L.png)
+![robomongo](https://img.turingark.com/uPic/robomongo.jpg) 
 
-看看这86%的压缩率还是挺上头的，而且效果很好。 
+### [uPic](https://github.com/gee1k/uPic)
 
-### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
+`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
 
-一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
+我的必备软件：
 
-![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
+![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
 
-### [Refined GitHub](https://github.com/refined-github/refined-github)
+### [antares](https://github.com/Fabio286/antares)
 
-一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-那么`Refined GitHub`主要做了哪些工作呢，如下：
-
-- 浏览代码时候使空格可见
-- 添加一键式合并冲突修复程序
-- 添加表情评论头像
-- 在合并PR时，添加等待检查的选项
-- ...
-
-![](https://img.turingark.com/uPic/lI0jFl.png) 
+![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
 ## 👀 资料 
 
-### [穷佐罗的Linux书](https://zorrozou.github.io/)
+### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
 
-穷佐罗的Linux书，挺不错的一份`Linux`教程。
+打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
 
-![zorrozou](https://img.turingark.com/uPic/zorrozou.jpg) 
+![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
 
-### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
 
-![30-Days-Of-React](https://img.turingark.com/uPic/GeYfjR.jpg) 
+![docker_practice](https://img.turingark.com/uPic/GFlVsV.png) 
 
-### [nlp-with-transformers](https://github.com/nlp-with-transformers)
+### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
 
-书籍《基于Transformers的自然语言处理》的代码仓库：
+📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
 
-![](https://img.turingark.com/uPic/A6MiF5.jpg) 
+![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
 
 ## 🕸 网站 
 
-### [sao.fm](https://sao.fm/)
+### [latexlive](https://www.latexlive.com/)
 
-一个在线听广播电台的网站：
+免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
 
-![sao.fm](https://img.turingark.com/uPic/sao.fm.jpg) 
+![latexlive](https://img.turingark.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
 
-### [qrcode-monkey](https://www.qrcode-monkey.com/#)
+### [compressjpeg](https://compressjpeg.com/zh/)
 
-免费的二维码生成网站：
+一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
 
-![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
+![compressjpeg](https://img.turingark.com/uPic/compressjpeg.jpg) 
 
-### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
+### [favicon.io](https://favicon.io/)
 
-PDF Squeezer 是一款 PDF 压缩工具：
+免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
 
-![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
+![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
 
 ## ✍️ 说明
 
