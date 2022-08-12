@@ -5,51 +5,55 @@
 
 ## 🎯 项目 
 
-### [dicebear](https://github.com/dicebear/dicebear)
+### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
 
-供设计师和开发者使用的头像库。可根据传入的字符串，自动生成对应用户头像的库：
+B站视频命令行下载工具：
 
-![dicebear](https://images-1252557999.file.myqcloud.com/uPic/dicebear.jpg) 
+![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
 
-### [HTTPie](https://github.com/httpie/httpie)
+### [CoverView](https://github.com/rutikwankhade/CoverView)
 
-现代化的HTTP客户端命令行工具：
+一个开源的快速制作文章封面图的工具。
 
-![httpie-animation](https://img.turingark.com/uPic/httpie-animation.gif) 
+![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
 
-### [freed](https://github.com/YuanHsing/freed)
+### [wireflow](https://github.com/vanila-io/wireflow)
 
-这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
+一款开源的用户流程图制作工具（点击[wireflow.co](https://wireflow.co/)访问）：
+
+![wireflow](https://images-1252557999.file.myqcloud.com/uPic/wireflow.png) 
 
 ## 🤖 软件 
 
-### [Robo 3T](https://github.com/Studio3T/robomongo)
+### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
 
-本人常用的一款MongoDB跨平台管理软件，开源免费：
+自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
 
-![robomongo](https://img.turingark.com/uPic/robomongo.jpg) 
+![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
 
-### [uPic](https://github.com/gee1k/uPic)
+### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
 
-我的必备软件：
+![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
 
-![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-### [antares](https://github.com/Fabio286/antares)
+LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
-
-![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
 
 ## 👀 资料 
 
-### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
+### [Student-resources](https://github.com/ivmm/Student-resources)
 
-打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
+本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
 
-![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
+### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
+
+该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
+
+![](https://img.turingark.com/uPic/ub1GLI.jpg) 
 
 ### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
@@ -57,31 +61,29 @@ Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一�
 
 ![docker_practice](https://img.turingark.com/uPic/GFlVsV.png) 
 
-### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
-
-📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
-
-![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
-
 ## 🕸 网站 
 
-### [latexlive](https://www.latexlive.com/)
+### [pixel](https://aqeja.github.io/pixel/)
 
-免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
+一个小工具，将你的图片像素化:
 
-![latexlive](https://img.turingark.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
+![;'](https://img.turingark.com/uPic/KfJuhM.png) 
 
-### [compressjpeg](https://compressjpeg.com/zh/)
+### [contrib.rocks](https://contrib.rocks/)
 
-一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
+为你的Github开源项目生成贡献者头像集合：
 
-![compressjpeg](https://img.turingark.com/uPic/compressjpeg.jpg) 
+![contrib](https://images-1252557999.file.myqcloud.com/uPic/contrib.jpg) 
 
-### [favicon.io](https://favicon.io/)
+### [myfirstnft](https://myfirstnft.info/)
 
-免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+我的第一个NFT，在这个网站，你可以：
 
-![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
+- 理解NFT的价值
+- 铸造一个免费的NFT
+- 了解Web3.0
+
+![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
 
 ## ✍️ 说明
 
