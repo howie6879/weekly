@@ -5,95 +5,83 @@
 
 ## 🎯 项目 
 
-### [50projects50days](https://github.com/bradtraversy/50projects50days)
+### [unredacter](https://github.com/bishopfox/unredacter)
 
-50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
+一个还原马赛克图片的原始内容的工具：
 
-![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
+![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
 
-### [500lines](https://github.com/aosabook/500lines)
+### [lsky-pro](https://github.com/lsky-org/lsky-pro)
 
-如果工作中用`Python`比较多的朋友，应该会听过[500lines](https://github.com/aosabook/500lines)项目，它是**aosabook**项目（下面网站部分有介绍）的第四本书。
+非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
 
-这个项目由 18 个独立的章节组成，每个章节都是由该领域的大牛完成，每个章节都试图用 500 行或者更少的代码，让大家了解一个功能或需求的简单实现，比如有：
+![vps_lsky_01](https://img.turingark.com/uPic/vps_lsky_01.jpg) 
 
-- 持续集成系统
-- 分布式系统
-- 异步爬虫
-- 等等
+### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
 
-如果想阅读中文，见[500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)项目，但是还没有完全翻译完毕。 
+B站视频命令行下载工具：
 
-### [wechat-export](https://github.com/luin/wechat-export)
-
-将微信聊天记录导出为HTML文件：
-
-![wechat-export](https://img.turingark.com/uPic/eIhKUP.jpg) 
+![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
 
 ## 🤖 软件 
 
-### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
+### [Joplin](https://github.com/laurent22/joplin)
 
-跨平台的`youtube-dl`客户端：
+我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
 
-![](https://img.turingark.com/uPic/yd_gui.png) 
+- 自建服务端
+- 第三方如坚果云等
+- 也可以基于云商，如腾讯云的`COS`
 
-### [SwiftBar](https://github.com/swiftbar/SwiftBar)
+> 这篇文章也是使用Joplin写的 
 
-一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
+### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 
-![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
+快速稳定好用的Redis跨平台桌面管理软件：
 
-### [hetty](https://github.com/dstotijn/hetty)
+![AnotherRedisDesktopManager](https://img.turingark.com/uPic/AnotherRedisDesktopManager.png) 
 
-`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
+### [AltTab](https://alt-tab-macos.netlify.app/)
 
-![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
+`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
+
+![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
 
 ## 👀 资料 
 
-### [db-tutorial](https://github.com/dunwu/db-tutorial)
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
-### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+### [v8-internals](https://github.com/plctlab/v8-internals)
 
-为忙碌的工程师准备的精选面试准备材料：
+面向编译器开发人员的V8内部实现文档。 
 
-![tech-interview-handbook](https://img.turingark.com/uPic/lAcwMK.png) 
+### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
 
-### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
+一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
 
-作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
-
-![ML](https://img.turingark.com/uPic/R26HG2.png) 
+![NhkQDk](https://img.turingark.com/uPic/NhkQDk.jpg) 
 
 ## 🕸 网站 
-
-### [dute](https://www.dute.org/)
-
-独特工具箱，提供免费在线工具，涉及工具类别有：
-
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
-
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
-
-### [devtool.tech](https://devtool.tech/)
-
-开发者武器库，作者提供了83个开发者常用的工具：
-
-![](https://img.turingark.com/uPic/ZlVqam.png) 
 
 ### [Python Tutor](https://pythontutor.com/?)
 
 这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
 
 ![Python Tutor](https://img.turingark.com/uPic/hIdiXA.png) 
+
+### [devdocs](https://devdocs.io/)
+
+提供在线快速查找API接口文档的网站：
+
+![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
+
+### [tableconvert](https://tableconvert.com/)
+
+`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
+
+![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
 
 ## ✍️ 说明
 
