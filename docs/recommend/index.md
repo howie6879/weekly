@@ -5,83 +5,89 @@
 
 ## 🎯 项目 
 
-### [unredacter](https://github.com/bishopfox/unredacter)
+### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
 
-一个还原马赛克图片的原始内容的工具：
+🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
 
-![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
+![Real-CUGAN](https://img.turingark.com/uPic/hWiOCH.jpg) 
 
-### [lsky-pro](https://github.com/lsky-org/lsky-pro)
+### [duf](https://github.com/sigoden/duf)
 
-非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
+一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
 
-![vps_lsky_01](https://img.turingark.com/uPic/vps_lsky_01.jpg) 
+- 静态文件伺服
+- 下载目录为 zip 文件
+- 上传文件 /目录 (支持拖拽)
+- 搜索
+- 并发下载，断续下载
+- 权限保护
+- 支持 https
+- 支持 webdav
+- 方便 curl 调用 
 
-### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
+### [appsmith](https://github.com/appsmithorg/appsmith)
 
-B站视频命令行下载工具：
+低代码项目，用于构建任何自定义业务软件，如管理面板、内部工具和仪表板。使用35+个预构建的UI小部件连接到任何数据库、GraphQL或RESTAPI。
 
-![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
+![as-widgets](https://img.turingark.com/uPic/as-widgets.gif) 
 
 ## 🤖 软件 
 
-### [Joplin](https://github.com/laurent22/joplin)
+### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
 
-我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
+自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
 
-- 自建服务端
-- 第三方如坚果云等
-- 也可以基于云商，如腾讯云的`COS`
+![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
 
-> 这篇文章也是使用Joplin写的 
+### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
 
-### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+JetBrains 的下一代 IDE：
 
-快速稳定好用的Redis跨平台桌面管理软件：
+![fleet](https://img.turingark.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
 
-![AnotherRedisDesktopManager](https://img.turingark.com/uPic/AnotherRedisDesktopManager.png) 
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
-### [AltTab](https://alt-tab-macos.netlify.app/)
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 
-`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
-
-![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
 ## 👀 资料 
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+### [db-tutorial](https://github.com/dunwu/db-tutorial)
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
 
-### [v8-internals](https://github.com/plctlab/v8-internals)
+### [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
-面向编译器开发人员的V8内部实现文档。 
+📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
 
-### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
+![CS-Notes](https://img.turingark.com/uPic/7aMFrS.png) 
 
-一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
+### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 
-![NhkQDk](https://img.turingark.com/uPic/NhkQDk.jpg) 
+本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
+
+![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
 
 ## 🕸 网站 
 
-### [Python Tutor](https://pythontutor.com/?)
+### [star-history](https://star-history.com/)
 
-这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
+在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
 
-![Python Tutor](https://img.turingark.com/uPic/hIdiXA.png) 
+![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
 
-### [devdocs](https://devdocs.io/)
+### [contrib.rocks](https://contrib.rocks/)
 
-提供在线快速查找API接口文档的网站：
+为你的Github开源项目生成贡献者头像集合：
 
-![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
+![contrib](https://images-1252557999.file.myqcloud.com/uPic/contrib.jpg) 
 
-### [tableconvert](https://tableconvert.com/)
+### [huawei-od](https://huawei-od.vercel.app/)
 
-`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
+牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
 
-![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
+![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
 
 ## ✍️ 说明
 
