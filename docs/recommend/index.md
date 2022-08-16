@@ -5,90 +5,81 @@
 
 ## 🎯 项目 
 
-### [aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse/)
+### [personal-management-system](https://github.com/Volmarg/personal-management-system)
 
-本项目则直接通过 FUSE 实现将阿里云盘挂载为本地磁盘，非常好用，我是这个项目作者的粉丝。 
+该项目可以很方便的管理个人数据，如目标规划/笔记/联系人/密码/附件/图片/文件等等：
 
-### [docker-wechat](https://github.com/huan/docker-wechat)
+![personal-management-system](https://img.turingark.com/uPic/C6hnHx.jpg) 
 
-盒装微信，在linux下基于Docker技术使用微信客户端：
+### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
 
-![docker-wechat](https://img.turingark.com/uPic/docker-wechat.png) 
+Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.cn/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
 
-### [rembg](https://github.com/danielgatis/rembg)
+### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
 
-之前有介绍过一个去除图片背景的网站-[remove.bg](https://www.remove.bg/zh)，这网站虽然免费，但是高清版本的图片下载需要收费，现在这个开源的图片背景去除项目将完全解决这个问题：
+B站视频命令行下载工具：
 
-![rembg](https://img.turingark.com/uPic/rembg.jpg)
-
-你可以作为第三方库使用，也在终端以及启用服务化来使用。 
+![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
 
 ## 🤖 软件 
 
-### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
+### [BlogHelper](https://github.com/onblog/BlogHelper)
 
-基于 Electron + Vue + ffmpeg 的 GUI：
+帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
 
-![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
+![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
 
-### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
+### [tunnelblick](https://tunnelblick.net/)
 
-使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
+免费开源的`openvpn`客户端：
 
-- 支持下载无水印视频
-- 支持下载某个账号号的所有视频
+![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
 
-![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
+### [NotepadNext](https://github.com/dail8859/NotepadNext)
 
-### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+`Notepad++`的跨平台开源实现：
 
-开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
-
-![hitomi](https://img.turingark.com/uPic/hitomi.gif) 
+![NotepadNext](https://img.turingark.com/uPic/NotepadNext.png) 
 
 ## 👀 资料 
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-强化学习中文教程：
+一份程序员延寿指南，目标是稳健地活得更久。 
 
-![easy_rl](https://img.turingark.com/uPic/easy_rl.jpg) 
+### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+《Software Engineering at Google》的中文翻译版本：
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
+![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
 
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
+### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
 
-![Learn-Vim_zh_cn](https://img.turingark.com/uPic/AgGats.png) 
+陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
 
-### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
-
-针对新人的 `CSS` 入门级教程：
-
-![](https://img.turingark.com/uPic/EnSWJn.png)
-
-在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
+![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
 
 ## 🕸 网站 
 
-### [shell.how](https://www.shell.how/)
+### [aliyunpanbbs](https://aliyunpanbbs.com/)
 
-网站用优雅的交互和排版告诉你Linux命令的作用：
+阿里云盘资源论坛:
 
-![shell_howe](https://img.turingark.com/uPic/shell_howe.jpg) 
+![aliyunpanbbs](https://img.turingark.com/uPic/NlHLjW.png) 
 
-### [icones.js.org](https://icones.js.org/)
+### [huawei-od](https://huawei-od.vercel.app/)
 
-免费的图标库：
+牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
 
-![icones](https://img.turingark.com/uPic/icones.jpg) 
+![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
 
-### [readme.so](https://readme.so/)
+### [emojicode](https://www.emojicode.org/)
 
-一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
+这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
 
-![readme_so](https://img.turingark.com/uPic/readme_so.jpg) 
+![emojicode](https://img.turingark.com/uPic/emojicode.jpg)
+
+现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
 
 ## ✍️ 说明
 
