@@ -5,23 +5,44 @@
 
 ## 🎯 项目 
 
-### [personal-management-system](https://github.com/Volmarg/personal-management-system)
+### [50projects50days](https://github.com/bradtraversy/50projects50days)
 
-该项目可以很方便的管理个人数据，如目标规划/笔记/联系人/密码/附件/图片/文件等等：
+50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
 
-![personal-management-system](https://img.turingark.com/uPic/C6hnHx.jpg) 
+![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
 
-### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
+### [taskcafe](https://github.com/JordanKnott/taskcafe)
 
-Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.cn/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
+带看板的开源项目管理工具:
 
-### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
+- 通过看板界面管理任务（设置截止日期、标签、添加清单）
+- 通过我的任务视图查看所有当前分配的任务
+- 支持个人项目
+- 任务评论和活动
 
-B站视频命令行下载工具：
+![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
 
-![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
+### [ProxiTok](https://github.com/pablouser1/ProxiTok)
+
+`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
+
+![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
 
 ## 🤖 软件 
+
+### [LANDrop](https://github.com/LANDrop/LANDrop)
+
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
+
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
+
+### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
+
+适用于Android的免费开源漫画阅读器，流畅丝滑：
+
+![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
+
+之前我的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.cn/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
 
 ### [BlogHelper](https://github.com/onblog/BlogHelper)
 
@@ -29,57 +50,50 @@ B站视频命令行下载工具：
 
 ![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
 
-### [tunnelblick](https://tunnelblick.net/)
-
-免费开源的`openvpn`客户端：
-
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
-
-### [NotepadNext](https://github.com/dail8859/NotepadNext)
-
-`Notepad++`的跨平台开源实现：
-
-![NotepadNext](https://img.turingark.com/uPic/NotepadNext.png) 
-
 ## 👀 资料 
 
-### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
+### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
 
-一份程序员延寿指南，目标是稳健地活得更久。 
+经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
 
-### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+![the-economist-ebooks](https://img.turingark.com/uPic/the-economist-ebooks.jpg) 
 
-《Software Engineering at Google》的中文翻译版本：
+### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
 
-![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
+打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
 
-### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
+![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
 
-陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
+### [sideproject](https://sideproject.guide/)
 
-![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
+`Side Project` 指南：
+
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
+
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
 
 ## 🕸 网站 
 
-### [aliyunpanbbs](https://aliyunpanbbs.com/)
+### [读书笔记](https://reading.geek-docs.com/)
 
-阿里云盘资源论坛:
+网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
 
-![aliyunpanbbs](https://img.turingark.com/uPic/NlHLjW.png) 
+![reading](https://img.turingark.com/uPic/nfN4XL.png) 
+
+### [websequencediagrams](https://www.websequencediagrams.com/)
+
+提供在线绘制时序图的网站：
+
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
 ### [huawei-od](https://huawei-od.vercel.app/)
 
 牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
 
 ![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
-
-### [emojicode](https://www.emojicode.org/)
-
-这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
-
-![emojicode](https://img.turingark.com/uPic/emojicode.jpg)
-
-现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
 
 ## ✍️ 说明
 
