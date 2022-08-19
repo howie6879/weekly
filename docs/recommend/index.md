@@ -5,17 +5,27 @@
 
 ## 🎯 项目 
 
-### [Weylus](https://github.com/H-M-H/Weylus)
+### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
 
-使用`Rust`编写的共享屏幕开源项目，将平板作为电脑触摸屏使用，全平台支持：
+微信 macOS 客户端撤回拦截与多开工具，主要功能有：
 
-![weylus](https://img.turingark.com/uPic/weylus.jpg) 
+- 阻止消息撤回
+    - 消息列表通知
+    - 系统通知
+    - 正常撤回自己发出的消息
+- 客户端无限多开
+    - 右键 Dock icon 登录新的微信账号
+    - 命令行执行：`open -n /Applications/WeChat.app`
+- 消息处理增强
+    - 支持任意表情导出
+    - 支持二维码识别
+    - 支持右键直接复制链接
+    - 支持由系统默认浏览器直接打开
+- UI界面设置面板
+- 支持 Alfred workflow
+- 支持 Launchbar action
 
-### [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)
-
-朋友圈转发截图生成工具，这个项目确实解决了一些号主做活动要求发朋友圈的需求：
-
-![](https://img.turingark.com/uPic/Xnip2022-02-22_09-42-52.jpg) 
+**项目挺好，但是使用过程中需要注意被封号的风险。** 
 
 ### [easy-gate](https://github.com/r7wx/easy-gate)
 
@@ -23,65 +33,96 @@
 
 ![easy-gate](https://images-1252557999.file.myqcloud.com/uPic/easy-gate.png) 
 
+### [unredacter](https://github.com/bishopfox/unredacter)
+
+一个还原马赛克图片的原始内容的工具：
+
+![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
+
 ## 🤖 软件 
 
-### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
+### [Imagine](https://github.com/meowtec/Imagine)
 
-用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
+全平台支持的图片压缩软件：
 
-![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
+![Imagine](https://img.turingark.com/uPic/KrSb9L.png)
 
-### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
+看看这86%的压缩率还是挺上头的，而且效果很好。 
 
-Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
+### [hetty](https://github.com/dstotijn/hetty)
 
-Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
+`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
 
-支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
+![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
 
-![hammerscholar](https://img.turingark.com/uPic/4UQ5Ha.png) 
+### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 
-### [Macast](https://github.com/xfangfang/Macast)
+跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
 
-Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
+- 🍕 全平台支持. Windows, Mac, Linux
+- 🍥 支持 IPTV, 卫视直播
+- 🍔 视频源支持自定义, 支持导入, 导出
+- 🍟 支持海报模式和列表模式浏览资源
+- 🌭 播放历史, 自动跳转历史进度
+- 🍿 收藏夹支持导入,导出, 支持同步追剧
+- 🥙 支持精简模式, 摸鱼划水
+- 🥪 一键搜索所有资源, 支持历史搜索记录
+- 🌮 导出资源下载链接
+- 🍣 支持第三方播放器播放
+- 🍤 显示豆瓣评分
 
-![Macast](https://img.turingark.com/uPic/CXYyQX.jpg) 
+![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
 
 ## 👀 资料 
 
-### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
+### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
 
-一份程序员延寿指南，目标是稳健地活得更久。 
+![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
-### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
+### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
 
-一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
+本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
 
-![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
+![](https://img.turingark.com/uPic/SBotTN.jpg)
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+其他同类教程地址：
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
+- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
+
+### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
+
+从工程角度方方面面阐述了DevOps实施的过程:
+
+![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
 
 ## 🕸 网站 
 
-### [sqlime](http://sqlime.org/)
+### [sci-hub](https://sci-hub.se/)
 
-SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
+这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
 
-![sqlime](https://img.turingark.com/uPic/57MTfO.jpg) 
+> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
 
-### [itnext](https://itnext.cn/)
+用户可通过以下方式访问新版本：
 
-一个介绍元宇宙的网站：
+- https://sci-hub.se/
+- https://sci-hub.ru/
+- https://sci-hub.st/
 
-![itnext](https://img.turingark.com/uPic/yc7Zhp.png) 
+![](https://img.turingark.com/uPic/ISPyBJ.png) 
 
-### [aliyunpanbbs](https://aliyunpanbbs.com/)
+### [toonme](https://toonme.com)
 
-阿里云盘资源论坛:
+该网站将原图绘制成可爱的卡通图片：
 
-![aliyunpanbbs](https://img.turingark.com/uPic/NlHLjW.png) 
+![toonme](https://img.turingark.com/file/howie-img/uPic/toonme.jpg) 
+
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
+
+PDF Squeezer 是一款 PDF 压缩工具：
+
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
 ## ✍️ 说明
 
