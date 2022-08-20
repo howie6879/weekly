@@ -5,124 +5,88 @@
 
 ## 🎯 项目 
 
-### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
+### [ecapture](https://github.com/ehids/ecapture)
 
-微信 macOS 客户端撤回拦截与多开工具，主要功能有：
+eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
 
-- 阻止消息撤回
-    - 消息列表通知
-    - 系统通知
-    - 正常撤回自己发出的消息
-- 客户端无限多开
-    - 右键 Dock icon 登录新的微信账号
-    - 命令行执行：`open -n /Applications/WeChat.app`
-- 消息处理增强
-    - 支持任意表情导出
-    - 支持二维码识别
-    - 支持右键直接复制链接
-    - 支持由系统默认浏览器直接打开
-- UI界面设置面板
-- 支持 Alfred workflow
-- 支持 Launchbar action
+![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
 
-**项目挺好，但是使用过程中需要注意被封号的风险。** 
+### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
 
-### [easy-gate](https://github.com/r7wx/easy-gate)
+一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
 
-`Easy Gate` 是一个使用 `Go` 和 `React` 构建的简单 `Web` 应用程序，它充当您自托管基础设施的主页。服务和注释从 `JSON` 文件中实时解析（无需重新启动应用程序）。可以将服务和注释分配给一个或多个组，以仅向特定用户显示项目（基于他们的 IP 地址）。
+![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
 
-![easy-gate](https://images-1252557999.file.myqcloud.com/uPic/easy-gate.png) 
+你可以直接[在线体验](https://letsmarkdown.com/)。 
 
-### [unredacter](https://github.com/bishopfox/unredacter)
+### [homelab](https://github.com/khuedoan/homelab)
 
-一个还原马赛克图片的原始内容的工具：
+一个开源的家用自托管基础设施项目，支持自动配置、操作和更新各类自托管服务，可用于打造自己的家庭开发实验室。其中包括代码自托管、证书管理、CI/CD 持续集成与交付、K8s 自动化安装和管理、实时聊天系统、应用监控面板等功能。
 
-![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
+![homelab](https://img.turingark.com/uPic/gB9qTV.jpg) 
 
 ## 🤖 软件 
 
-### [Imagine](https://github.com/meowtec/Imagine)
+### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
 
-全平台支持的图片压缩软件：
+一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
 
-![Imagine](https://img.turingark.com/uPic/KrSb9L.png)
+- 配置app启动默认输入法。
+- app来回切换，保持app切出前的使用的输入法。
+- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
+- 悬浮窗口支持
 
-看看这86%的压缩率还是挺上头的，而且效果很好。 
+![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
 
-### [hetty](https://github.com/dstotijn/hetty)
+### [balenaEtcher](https://github.com/balena-io/etcher)
 
-`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
+balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
 
-![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
+![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
 
-### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
+### [apifox](https://www.apifox.cn/)
 
-跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
+Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
 
-- 🍕 全平台支持. Windows, Mac, Linux
-- 🍥 支持 IPTV, 卫视直播
-- 🍔 视频源支持自定义, 支持导入, 导出
-- 🍟 支持海报模式和列表模式浏览资源
-- 🌭 播放历史, 自动跳转历史进度
-- 🍿 收藏夹支持导入,导出, 支持同步追剧
-- 🥙 支持精简模式, 摸鱼划水
-- 🥪 一键搜索所有资源, 支持历史搜索记录
-- 🌮 导出资源下载链接
-- 🍣 支持第三方播放器播放
-- 🍤 显示豆瓣评分
-
-![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
+![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
 
 ## 👀 资料 
 
-### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
+### [Python源码剖析](https://fasionchan.com/python-source/)
 
-![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
+本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
 
-### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
+![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
 
-本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
+### [xjq7/books](https://github.com/xjq7/books)
 
-![](https://img.turingark.com/uPic/SBotTN.jpg)
+电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
 
-其他同类教程地址：
+### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
 
-- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
-- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
+这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
-### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
-
-从工程角度方方面面阐述了DevOps实施的过程:
-
-![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
+之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.cn/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
 
 ## 🕸 网站 
 
-### [sci-hub](https://sci-hub.se/)
+### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
 
-这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
+一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
 
-> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
+![shanshui-inf](https://img.turingark.com/uPic/shanshui-inf.jpg) 
 
-用户可通过以下方式访问新版本：
+### [cikeee](https://www.cikeee.com/)
 
-- https://sci-hub.se/
-- https://sci-hub.ru/
-- https://sci-hub.st/
+每天推荐一部优秀的电影：
 
-![](https://img.turingark.com/uPic/ISPyBJ.png) 
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
-### [toonme](https://toonme.com)
+### [shell.how](https://www.shell.how/)
 
-该网站将原图绘制成可爱的卡通图片：
+网站用优雅的交互和排版告诉你Linux命令的作用：
 
-![toonme](https://img.turingark.com/file/howie-img/uPic/toonme.jpg) 
-
-### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
-
-PDF Squeezer 是一款 PDF 压缩工具：
-
-![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
+![shell_howe](https://img.turingark.com/uPic/shell_howe.jpg) 
 
 ## ✍️ 说明
 
