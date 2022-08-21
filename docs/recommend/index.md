@@ -5,98 +5,79 @@
 
 ## 🎯 项目 
 
-### [markdown-nice](https://github.com/mdnice/markdown-nice)
+### [termtyper](https://github.com/kraanzu/termtyper)
 
-有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
+一个终端打字应用程序，以提高你的手指水平！
 
-> 支持主题设计的 Markdown 编辑器，让排版变 Nice
+![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
 
-你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
+### [PyFlow](https://github.com/wonderworks-software/PyFlow)
 
-![](https://img.turingark.com/uPic/oGeICY.png)
+可视化脚本框架：
 
-官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
+![PyFlow](https://img.turingark.com/uPic/XEBUdM.jpg) 
 
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
+### [easy-gate](https://github.com/r7wx/easy-gate)
 
-### [homelab](https://github.com/khuedoan/homelab)
+`Easy Gate` 是一个使用 `Go` 和 `React` 构建的简单 `Web` 应用程序，它充当您自托管基础设施的主页。服务和注释从 `JSON` 文件中实时解析（无需重新启动应用程序）。可以将服务和注释分配给一个或多个组，以仅向特定用户显示项目（基于他们的 IP 地址）。
 
-一个开源的家用自托管基础设施项目，支持自动配置、操作和更新各类自托管服务，可用于打造自己的家庭开发实验室。其中包括代码自托管、证书管理、CI/CD 持续集成与交付、K8s 自动化安装和管理、实时聊天系统、应用监控面板等功能。
-
-![homelab](https://img.turingark.com/uPic/gB9qTV.jpg) 
-
-### [ecapture](https://github.com/ehids/ecapture)
-
-eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
-
-![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
+![easy-gate](https://images-1252557999.file.myqcloud.com/uPic/easy-gate.png) 
 
 ## 🤖 软件 
 
-### [MiaoYan](https://github.com/tw93/MiaoYan)
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
-轻灵的 Markdown 笔记本伴你写出妙言：
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 
-- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
-- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
-- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
-- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
-![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
+### [vnote](https://github.com/vnotex/vnote)
 
-### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
+VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
 
-`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
+![vnote](https://img.turingark.com/uPic/vnote.png) 
 
-![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
+### [lively](https://github.com/rocksdanister/lively)
 
-### [SketchyBar](https://github.com/FelixKratz/SketchyBar)
+针对 `Windows` 的开源的动态壁纸软件：
 
-高度可定制的macOS状态栏替代品：
-
-![SketchyBar](https://images-1252557999.file.myqcloud.com/uPic/SketchyBar.jpg) 
+![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
 
 ## 👀 资料 
 
-### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+### [xjq7/books](https://github.com/xjq7/books)
 
-站点可靠性工作手册：
+电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
 
-![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
+### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
 
-### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
 
-GitHub开源项目维护协作指南：
+### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
 
-![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
+开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
 
-### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
-
-自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
+![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
 
 ## 🕸 网站 
 
-### [ixinqing](http://www.ixinqing.com/)
+### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
 
-心晴 · 专注于心理学入门与自我成长:
+一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
 
-![ixinqing](https://img.turingark.com/uPic/ixinqing-20220328205229819.png) 
+![shanshui-inf](https://img.turingark.com/uPic/shanshui-inf.jpg) 
 
-### [emojicode](https://www.emojicode.org/)
+### [cook](https://github.com/YunYouJun/cook)
 
-这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-![emojicode](https://img.turingark.com/uPic/emojicode.jpg)
+![cook](https://img.turingark.com/uPic/cook.jpg) 
 
-现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
+### [compressjpeg](https://compressjpeg.com/zh/)
 
-### [jsonvisio](https://jsonvisio.com/editor)
+一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
 
-将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
-
-![](https://img.turingark.com/uPic/jsonvisio.jpg) 
+![compressjpeg](https://img.turingark.com/uPic/compressjpeg.jpg) 
 
 ## ✍️ 说明
 
