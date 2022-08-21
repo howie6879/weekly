@@ -5,19 +5,21 @@
 
 ## 🎯 项目 
 
-### [ecapture](https://github.com/ehids/ecapture)
+### [markdown-nice](https://github.com/mdnice/markdown-nice)
 
-eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
+有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
 
-![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
+> 支持主题设计的 Markdown 编辑器，让排版变 Nice
 
-### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
+你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
 
-一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
+![](https://img.turingark.com/uPic/oGeICY.png)
 
-![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
+官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
 
-你可以直接[在线体验](https://letsmarkdown.com/)。 
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
 
 ### [homelab](https://github.com/khuedoan/homelab)
 
@@ -25,68 +27,76 @@ eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需�
 
 ![homelab](https://img.turingark.com/uPic/gB9qTV.jpg) 
 
+### [ecapture](https://github.com/ehids/ecapture)
+
+eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
+
+![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
+
 ## 🤖 软件 
 
-### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+### [MiaoYan](https://github.com/tw93/MiaoYan)
 
-一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
+轻灵的 Markdown 笔记本伴你写出妙言：
 
-- 配置app启动默认输入法。
-- app来回切换，保持app切出前的使用的输入法。
-- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
-- 悬浮窗口支持
+- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
+- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
+- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
+- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
 
-![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
+![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
 
-### [balenaEtcher](https://github.com/balena-io/etcher)
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
-balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
+`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
 
-![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
+![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
 
-### [apifox](https://www.apifox.cn/)
+### [SketchyBar](https://github.com/FelixKratz/SketchyBar)
 
-Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
+高度可定制的macOS状态栏替代品：
 
-![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
+![SketchyBar](https://images-1252557999.file.myqcloud.com/uPic/SketchyBar.jpg) 
 
 ## 👀 资料 
 
-### [Python源码剖析](https://fasionchan.com/python-source/)
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
 
-本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
+站点可靠性工作手册：
 
-![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
-### [xjq7/books](https://github.com/xjq7/books)
+### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 
-电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
+GitHub开源项目维护协作指南：
 
-### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
+![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
 
-这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
+### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
 
-之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.cn/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
+自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
 
 ## 🕸 网站 
 
-### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
+### [ixinqing](http://www.ixinqing.com/)
 
-一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
+心晴 · 专注于心理学入门与自我成长:
 
-![shanshui-inf](https://img.turingark.com/uPic/shanshui-inf.jpg) 
+![ixinqing](https://img.turingark.com/uPic/ixinqing-20220328205229819.png) 
 
-### [cikeee](https://www.cikeee.com/)
+### [emojicode](https://www.emojicode.org/)
 
-每天推荐一部优秀的电影：
+这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
 
-![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
+![emojicode](https://img.turingark.com/uPic/emojicode.jpg)
 
-### [shell.how](https://www.shell.how/)
+现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
 
-网站用优雅的交互和排版告诉你Linux命令的作用：
+### [jsonvisio](https://jsonvisio.com/editor)
 
-![shell_howe](https://img.turingark.com/uPic/shell_howe.jpg) 
+将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
+
+![](https://img.turingark.com/uPic/jsonvisio.jpg) 
 
 ## ✍️ 说明
 
