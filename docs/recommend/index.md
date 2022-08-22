@@ -5,79 +5,91 @@
 
 ## 🎯 项目 
 
-### [termtyper](https://github.com/kraanzu/termtyper)
+### [upptime](https://github.com/upptime/upptime)
 
-一个终端打字应用程序，以提高你的手指水平！
+由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
 
-![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
+![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
 
-### [PyFlow](https://github.com/wonderworks-software/PyFlow)
+### [rathole](https://github.com/rapiz1/rathole)
 
-可视化脚本框架：
+安全、稳定、高性能的内网穿透工具，用 Rust 语言编写。 
 
-![PyFlow](https://img.turingark.com/uPic/XEBUdM.jpg) 
+### [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
-### [easy-gate](https://github.com/r7wx/easy-gate)
+`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
 
-`Easy Gate` 是一个使用 `Go` 和 `React` 构建的简单 `Web` 应用程序，它充当您自托管基础设施的主页。服务和注释从 `JSON` 文件中实时解析（无需重新启动应用程序）。可以将服务和注释分配给一个或多个组，以仅向特定用户显示项目（基于他们的 IP 地址）。
-
-![easy-gate](https://images-1252557999.file.myqcloud.com/uPic/easy-gate.png) 
+![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
 
 ## 🤖 软件 
 
-### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
+### [CatchMouse](https://github.com/round/CatchMouse)
 
-腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
 
-![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
+### [Rayon](https://github.com/Lakr233/Rayon)
 
-### [vnote](https://github.com/vnotex/vnote)
+一个`macOS`的上的`SSH`客户端：
 
-VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
+![rayon](https://img.turingark.com/uPic/rayon.png)
 
-![vnote](https://img.turingark.com/uPic/vnote.png) 
+软件特性：
 
-### [lively](https://github.com/rocksdanister/lively)
+- 免费&开源
+- 支持 libssh2 的主机连接
+- Linux proc 文件系统状态信息
+- 使用密码、密钥等进行身份验证...
+- xterm 终端支持
+- 批处理执行代码片段 
 
-针对 `Windows` 的开源的动态壁纸软件：
+### [Maccy](https://github.com/p0deje/Maccy)
 
-![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
+轻量级macOS剪切板管理应用：
+
+![](https://img.turingark.com/uPic/t3XNpU.png)
+使用截图如下：
+
+![](https://img.turingark.com/uPic/SWZ6kJ.png) 
 
 ## 👀 资料 
 
-### [xjq7/books](https://github.com/xjq7/books)
+### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 
-电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
+GitHub开源项目维护协作指南：
 
-### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
+![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
 
-非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
+### [paper-reading](https://github.com/mli/paper-reading)
 
-### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
+![paper-reading](https://img.turingark.com/uPic/7e52UU.png) 
 
-![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
+### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
+
+读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
+
+![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
+### [dbbqb](https://www.dbbqb.com/)
 
-一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
+专业的表情包搜索网站：
 
-![shanshui-inf](https://img.turingark.com/uPic/shanshui-inf.jpg) 
+![dbbqb](https://images-1252557999.file.myqcloud.com/uPic/dbbqb.jpg) 
 
-### [cook](https://github.com/YunYouJun/cook)
+### [fontawesome](https://fontawesome.com/icons/)
 
-一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
+比较完善全面的图标网站：
 
-![cook](https://img.turingark.com/uPic/cook.jpg) 
+![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
 
-### [compressjpeg](https://compressjpeg.com/zh/)
+### [sao.fm](https://sao.fm/)
 
-一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
+一个在线听广播电台的网站：
 
-![compressjpeg](https://img.turingark.com/uPic/compressjpeg.jpg) 
+![sao.fm](https://img.turingark.com/uPic/sao.fm.jpg) 
 
 ## ✍️ 说明
 
