@@ -5,91 +5,83 @@
 
 ## 🎯 项目 
 
-### [upptime](https://github.com/upptime/upptime)
+### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 
-由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
+提供多款 SS 规则，拥有强劲的广告过滤功能：
 
-![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
+![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
 
-### [rathole](https://github.com/rapiz1/rathole)
+### [photoview](https://github.com/photoview/photoview)
 
-安全、稳定、高性能的内网穿透工具，用 Rust 语言编写。 
+开源的相册程序，可基于Docker快速构建：
 
-### [ProxiTok](https://github.com/pablouser1/ProxiTok)
+![photoview](https://img.turingark.com/uPic/photoview.png) 
 
-`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 
-![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+
+![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
 
 ## 🤖 软件 
 
-### [CatchMouse](https://github.com/round/CatchMouse)
+### [Macast](https://github.com/xfangfang/Macast)
 
-如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
+Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
 
-### [Rayon](https://github.com/Lakr233/Rayon)
+![Macast](https://img.turingark.com/uPic/CXYyQX.jpg) 
 
-一个`macOS`的上的`SSH`客户端：
+### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
-![rayon](https://img.turingark.com/uPic/rayon.png)
+用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
 
-软件特性：
+![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
 
-- 免费&开源
-- 支持 libssh2 的主机连接
-- Linux proc 文件系统状态信息
-- 使用密码、密钥等进行身份验证...
-- xterm 终端支持
-- 批处理执行代码片段 
+### mizu
 
-### [Maccy](https://github.com/p0deje/Maccy)
+微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
 
-轻量级macOS剪切板管理应用：
-
-![](https://img.turingark.com/uPic/t3XNpU.png)
-使用截图如下：
-
-![](https://img.turingark.com/uPic/SWZ6kJ.png) 
+![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
 
 ## 👀 资料 
 
-### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
-GitHub开源项目维护协作指南：
+> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
 
-![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
+本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
 
-### [paper-reading](https://github.com/mli/paper-reading)
+![Learn-Vim_zh_cn](https://img.turingark.com/uPic/AgGats.png) 
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
 
-![paper-reading](https://img.turingark.com/uPic/7e52UU.png) 
+![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
 
-### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
+### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
 
-读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
+精益副业：程序员如何优雅地做副业:
 
-![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
+![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
 
 ## 🕸 网站 
 
-### [dbbqb](https://www.dbbqb.com/)
+### [emojiall](https://www.emojiall.com/)
 
-专业的表情包搜索网站：
+网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
 
-![dbbqb](https://images-1252557999.file.myqcloud.com/uPic/dbbqb.jpg) 
+![emojiall](https://img.turingark.com/uPic/emojiall.jpg) 
 
-### [fontawesome](https://fontawesome.com/icons/)
+### [remixicon](https://remixicon.com/)
 
-比较完善全面的图标网站：
+[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
 
-![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
+![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
 
-### [sao.fm](https://sao.fm/)
+### flomoapp
 
-一个在线听广播电台的网站：
+flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
 
-![sao.fm](https://img.turingark.com/uPic/sao.fm.jpg) 
+![flomoapp](https://img.turingark.com/uPic/6G6qrd.jpg) 
 
 ## ✍️ 说明
 
