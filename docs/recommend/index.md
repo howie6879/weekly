@@ -5,83 +5,97 @@
 
 ## 🎯 项目 
 
-### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
+### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
 
-提供多款 SS 规则，拥有强劲的广告过滤功能：
+微信 macOS 客户端撤回拦截与多开工具，主要功能有：
 
-![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
+- 阻止消息撤回
+    - 消息列表通知
+    - 系统通知
+    - 正常撤回自己发出的消息
+- 客户端无限多开
+    - 右键 Dock icon 登录新的微信账号
+    - 命令行执行：`open -n /Applications/WeChat.app`
+- 消息处理增强
+    - 支持任意表情导出
+    - 支持二维码识别
+    - 支持右键直接复制链接
+    - 支持由系统默认浏览器直接打开
+- UI界面设置面板
+- 支持 Alfred workflow
+- 支持 Launchbar action
 
-### [photoview](https://github.com/photoview/photoview)
+**项目挺好，但是使用过程中需要注意被封号的风险。** 
 
-开源的相册程序，可基于Docker快速构建：
+### [iptables-web](https://github.com/pretty66/iptables-web)
 
-![photoview](https://img.turingark.com/uPic/photoview.png) 
+`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
 
-### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
+![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
 
-AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+### [freed](https://github.com/YuanHsing/freed)
 
-![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
+这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
 
 ## 🤖 软件 
 
-### [Macast](https://github.com/xfangfang/Macast)
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
-Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 
-![Macast](https://img.turingark.com/uPic/CXYyQX.jpg) 
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
-### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
-### mizu
+### [Rectangle](https://github.com/rxhanson/Rectangle)
 
-微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
+`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
 
-![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
+![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
 
 ## 👀 资料 
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
+针对新人的 `CSS` 入门级教程：
 
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
+![](https://img.turingark.com/uPic/EnSWJn.png)
 
-![Learn-Vim_zh_cn](https://img.turingark.com/uPic/AgGats.png) 
+在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
 
-### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
+### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
 
-![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
+陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
 
-### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
+![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
 
-精益副业：程序员如何优雅地做副业:
+### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
 
-![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
+此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
 
 ## 🕸 网站 
 
-### [emojiall](https://www.emojiall.com/)
+### [zzollo](https://github.com/Sanix-Darker/zzollo)
 
-网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
+开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
 
-![emojiall](https://img.turingark.com/uPic/emojiall.jpg) 
+![zzollo](https://img.turingark.com/uPic/NJXulr.png) 
 
-### [remixicon](https://remixicon.com/)
+### [watermarkremover](https://www.watermarkremover.io/)
 
-[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
+通过AI技术去除图片水印：
 
-![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
+![watermarkremover](https://img.turingark.com/uPic/watermarkremover.jpg) 
 
-### flomoapp
+### [websequencediagrams](https://www.websequencediagrams.com/)
 
-flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
+提供在线绘制时序图的网站：
 
-![flomoapp](https://img.turingark.com/uPic/6G6qrd.jpg) 
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
 ## ✍️ 说明
 
