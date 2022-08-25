@@ -5,97 +5,98 @@
 
 ## 🎯 项目 
 
-### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
+### [wazuh](https://github.com/wazuh/wazuh)
 
-微信 macOS 客户端撤回拦截与多开工具，主要功能有：
+`Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具。
 
-- 阻止消息撤回
-    - 消息列表通知
-    - 系统通知
-    - 正常撤回自己发出的消息
-- 客户端无限多开
-    - 右键 Dock icon 登录新的微信账号
-    - 命令行执行：`open -n /Applications/WeChat.app`
-- 消息处理增强
-    - 支持任意表情导出
-    - 支持二维码识别
-    - 支持右键直接复制链接
-    - 支持由系统默认浏览器直接打开
-- UI界面设置面板
-- 支持 Alfred workflow
-- 支持 Launchbar action
+![wazuh](https://images-1252557999.file.myqcloud.com/uPic/wazuh.png) 
 
-**项目挺好，但是使用过程中需要注意被封号的风险。** 
+### [doocs/md](https://github.com/doocs/md)
 
-### [iptables-web](https://github.com/pretty66/iptables-web)
+✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性：
 
-`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
+![doocs](https://images-1252557999.file.myqcloud.com/uPic/doocs.jpg)
 
-![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
+之前我也推荐过 [markdown-nice](https://weekly.howie6879.cn/2022/02-15~02-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC027%E6%9C%9F%EF%BC%89.html?h=mdnice#markdown-nice) ，我构建了一键使用的镜像，也可以体验：
 
-### [freed](https://github.com/YuanHsing/freed)
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
 
-这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
+### [tabler](https://github.com/tabler/tabler)
+
+基于 `Bootstrap` 的免费开源的 `Dashboard UI` 工具包：
+
+![tabler-preview](https://images-1252557999.file.myqcloud.com/uPic/tabler-preview.png) 
 
 ## 🤖 软件 
 
-### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
+### [antares](https://github.com/Fabio286/antares)
 
-腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
+![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
-### [LANDrop](https://github.com/LANDrop/LANDrop)
+### [Rayon](https://github.com/Lakr233/Rayon)
 
-开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
+一个`macOS`的上的`SSH`客户端：
 
-![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
+![rayon](https://img.turingark.com/uPic/rayon.png)
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
+软件特性：
 
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+- 免费&开源
+- 支持 libssh2 的主机连接
+- Linux proc 文件系统状态信息
+- 使用密码、密钥等进行身份验证...
+- xterm 终端支持
+- 批处理执行代码片段 
 
-![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
+### [balenaEtcher](https://github.com/balena-io/etcher)
+
+balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
+
+![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
 
 ## 👀 资料 
 
-### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
+### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
 
-针对新人的 `CSS` 入门级教程：
+ Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
 
-![](https://img.turingark.com/uPic/EnSWJn.png)
+ ![rust_embedded_dev](https://img.turingark.com/uPic/rust_embedded_dev.jpg) 
 
-在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
+### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
 
-### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
+《TCP/IP网络编程》(韩-尹圣雨)学习笔记
 
-陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
+![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
 
-![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
+### [rust-by-practice](https://github.com/sunface/rust-by-practice)
 
-### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
+通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
 
-此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
+![](https://img.turingark.com/uPic/f4zLoa.png) 
 
 ## 🕸 网站 
-
-### [zzollo](https://github.com/Sanix-Darker/zzollo)
-
-开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
-
-![zzollo](https://img.turingark.com/uPic/NJXulr.png) 
-
-### [watermarkremover](https://www.watermarkremover.io/)
-
-通过AI技术去除图片水印：
-
-![watermarkremover](https://img.turingark.com/uPic/watermarkremover.jpg) 
 
 ### [websequencediagrams](https://www.websequencediagrams.com/)
 
 提供在线绘制时序图的网站：
 
 ![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+
+### [apitracker](https://apitracker.io/)
+
+发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
+
+![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
+
+### [fontawesome](https://fontawesome.com/icons/)
+
+比较完善全面的图标网站：
+
+![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
 
 ## ✍️ 说明
 
