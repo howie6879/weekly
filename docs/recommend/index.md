@@ -5,98 +5,85 @@
 
 ## 🎯 项目 
 
-### [wazuh](https://github.com/wazuh/wazuh)
+### [rathole](https://github.com/rapiz1/rathole)
 
-`Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具。
+安全、稳定、高性能的内网穿透工具，用 Rust 语言编写。 
 
-![wazuh](https://images-1252557999.file.myqcloud.com/uPic/wazuh.png) 
+### [dato.rss](https://github.com/davidesantangelo/dato.rss)
 
-### [doocs/md](https://github.com/doocs/md)
+基于机器学习构建的RSS搜索引擎([datorss.com](https://datorss.com/))：
 
-✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性：
+![datorss](https://images-1252557999.file.myqcloud.com/uPic/datorss.png) 
 
-![doocs](https://images-1252557999.file.myqcloud.com/uPic/doocs.jpg)
+### [heti](https://github.com/sivan/heti)
 
-之前我也推荐过 [markdown-nice](https://weekly.howie6879.cn/2022/02-15~02-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC027%E6%9C%9F%EF%BC%89.html?h=mdnice#markdown-nice) ，我构建了一键使用的镜像，也可以体验：
+赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
-
-### [tabler](https://github.com/tabler/tabler)
-
-基于 `Bootstrap` 的免费开源的 `Dashboard UI` 工具包：
-
-![tabler-preview](https://images-1252557999.file.myqcloud.com/uPic/tabler-preview.png) 
+![heti](https://img.turingark.com/uPic/WrpZDT.jpg) 
 
 ## 🤖 软件 
 
-### [antares](https://github.com/Fabio286/antares)
+### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
+谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
 
-![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+![temp_mail](https://img.turingark.com/uPic/M4DZPI.png) 
 
-### [Rayon](https://github.com/Lakr233/Rayon)
+### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
 
-一个`macOS`的上的`SSH`客户端：
+科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
 
-![rayon](https://img.turingark.com/uPic/rayon.png)
+![CopyTranslator](https://img.turingark.com/uPic/CopyTranslator.gif)
 
-软件特性：
+还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
 
-- 免费&开源
-- 支持 libssh2 的主机连接
-- Linux proc 文件系统状态信息
-- 使用密码、密钥等进行身份验证...
-- xterm 终端支持
-- 批处理执行代码片段 
+### [ptg](https://github.com/crossoverJie/ptg)
 
-### [balenaEtcher](https://github.com/balena-io/etcher)
+让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
 
-balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
-
-![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
+![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
 
 ## 👀 资料 
 
-### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
- Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
+《Mastering GO》中文译本，《玩转 GO》：
 
- ![rust_embedded_dev](https://img.turingark.com/uPic/rust_embedded_dev.jpg) 
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
-### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
+### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
 
-《TCP/IP网络编程》(韩-尹圣雨)学习笔记
+机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
 
-![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
+![openmlsys](https://img.turingark.com/uPic/openmlsys.jpg) 
 
-### [rust-by-practice](https://github.com/sunface/rust-by-practice)
+### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
 
-通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
+开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
 
-![](https://img.turingark.com/uPic/f4zLoa.png) 
+![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
 
 ## 🕸 网站 
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+### [bookmark.style](https://www.bookmark.style/)
 
-提供在线绘制时序图的网站：
+将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
 
-### [apitracker](https://apitracker.io/)
+假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
 
-发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
+### [compressjpeg](https://compressjpeg.com/zh/)
 
-![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
+一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
 
-### [fontawesome](https://fontawesome.com/icons/)
+![compressjpeg](https://img.turingark.com/uPic/compressjpeg.jpg) 
 
-比较完善全面的图标网站：
+### [linegraphmaker](https://linegraphmaker.co/)
 
-![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
+在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
+
+![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
 
 ## ✍️ 说明
 
