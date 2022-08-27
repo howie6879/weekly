@@ -5,85 +5,94 @@
 
 ## 🎯 项目 
 
-### [rathole](https://github.com/rapiz1/rathole)
+### [filebrowser](https://github.com/filebrowser/filebrowser)
 
-安全、稳定、高性能的内网穿透工具，用 Rust 语言编写。 
+这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
 
-### [dato.rss](https://github.com/davidesantangelo/dato.rss)
+除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
 
-基于机器学习构建的RSS搜索引擎([datorss.com](https://datorss.com/))：
+![filebrowser](https://img.turingark.com/uPic/50716739-ebd26700-107a-11e9-9817-14230c53efd2.gif) 
 
-![datorss](https://images-1252557999.file.myqcloud.com/uPic/datorss.png) 
+### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
 
-### [heti](https://github.com/sivan/heti)
+读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
 
-赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
 
-![heti](https://img.turingark.com/uPic/WrpZDT.jpg) 
+### [zfile](https://github.com/zhaojun1998/zfile)
+
+基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
+
+![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
 
 ## 🤖 软件 
 
-### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
+### [Rayon](https://github.com/Lakr233/Rayon)
 
-谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
+一个`macOS`的上的`SSH`客户端：
 
-![temp_mail](https://img.turingark.com/uPic/M4DZPI.png) 
+![rayon](https://img.turingark.com/uPic/rayon.png)
 
-### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+软件特性：
 
-科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
+- 免费&开源
+- 支持 libssh2 的主机连接
+- Linux proc 文件系统状态信息
+- 使用密码、密钥等进行身份验证...
+- xterm 终端支持
+- 批处理执行代码片段 
 
-![CopyTranslator](https://img.turingark.com/uPic/CopyTranslator.gif)
+### [Imagine](https://github.com/meowtec/Imagine)
 
-还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
+全平台支持的图片压缩软件：
 
-### [ptg](https://github.com/crossoverJie/ptg)
+![Imagine](https://img.turingark.com/uPic/KrSb9L.png)
 
-让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
+看看这86%的压缩率还是挺上头的，而且效果很好。 
 
-![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
+### [Vieb](https://vieb.dev/)
+
+开源免费的全平台（PC）`Vim`风格电子浏览器：
+
+![Vieb](https://img.turingark.com/uPic/BqyWaK.png) 
 
 ## 👀 资料 
 
-### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
+### [开源软件指南](https://opensource.guide/zh-hans/)
 
-《Mastering GO》中文译本，《玩转 GO》：
+GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
 
-![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
+![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
 
-### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
+### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
 
-机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
+[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
 
-![openmlsys](https://img.turingark.com/uPic/openmlsys.jpg) 
+![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
 
-### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
 
-开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
-
-![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
+精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
 
 ## 🕸 网站 
 
-### [bookmark.style](https://www.bookmark.style/)
+### [storyset](https://storyset.com/)
 
-将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
+来自读者@妙才的投稿，这个网站提供了大量精美免费的插图，可以应用于你的项目：
 
-![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
+![storyset](https://img.turingark.com/uPic/Jm5cJY.png) 
 
-假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
+### [pixel](https://aqeja.github.io/pixel/)
 
-### [compressjpeg](https://compressjpeg.com/zh/)
+一个小工具，将你的图片像素化:
 
-一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
+![;'](https://img.turingark.com/uPic/KfJuhM.png) 
 
-![compressjpeg](https://img.turingark.com/uPic/compressjpeg.jpg) 
+### [sqlime](http://sqlime.org/)
 
-### [linegraphmaker](https://linegraphmaker.co/)
+SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
 
-在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
-
-![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
+![sqlime](https://img.turingark.com/uPic/57MTfO.jpg) 
 
 ## ✍️ 说明
 
