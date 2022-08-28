@@ -5,94 +5,90 @@
 
 ## 🎯 项目 
 
-### [paopao-ce](https://github.com/rocboss/paopao-ce)
+### [personal-management-system](https://github.com/Volmarg/personal-management-system)
 
-🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
+该项目可以很方便的管理个人数据，如目标规划/笔记/联系人/密码/附件/图片/文件等等：
 
-- [Go](https://go.dev/)
-- [Gin](https://gin-gonic.com/)
-- [Zinc](https://zinclabs.io/)
-- [Naive UI](https://www.naiveui.com/)
-- [Vue.js](https://vuejs.org/)
-- [Vite.js](https://vitejs.dev/)
+![personal-management-system](https://img.turingark.com/uPic/C6hnHx.jpg) 
 
-![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
+### [termtyper](https://github.com/kraanzu/termtyper)
 
-网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
+一个终端打字应用程序，以提高你的手指水平！
 
-### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
+![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
 
-相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
+### [nps](https://github.com/ehang-io/nps)
 
-如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
+一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。
 
-### [easy-gate](https://github.com/r7wx/easy-gate)
-
-`Easy Gate` 是一个使用 `Go` 和 `React` 构建的简单 `Web` 应用程序，它充当您自托管基础设施的主页。服务和注释从 `JSON` 文件中实时解析（无需重新启动应用程序）。可以将服务和注释分配给一个或多个组，以仅向特定用户显示项目（基于他们的 IP 地址）。
-
-![easy-gate](https://images-1252557999.file.myqcloud.com/uPic/easy-gate.png) 
+![nps](https://img.turingark.com/uPic/x2AaCw.jpg) 
 
 ## 🤖 软件 
 
-### [BlogHelper](https://github.com/onblog/BlogHelper)
+### [UTM](https://github.com/utmapp/UTM)
 
-帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
+开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
 
-![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
+![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
 
-### [LANDrop](https://github.com/LANDrop/LANDrop)
+### [datastation](https://github.com/multiprocessio/datastation)
 
-开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
+`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
 
-![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
+![datastation](https://img.turingark.com/uPic/datastation.jpg) 
 
-### [Thor](https://github.com/gbammc/Thor)
+### [RustDesk](https://github.com/rustdesk/rustdesk)
 
-通过快捷键快速打开应用：
+远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
 
-![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
+![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
 
 ## 👀 资料 
 
-### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
+### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
 
-`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
+该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
 
-![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
+![](https://img.turingark.com/uPic/ub1GLI.jpg) 
 
-### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
+### [newsletter-list](https://github.com/chasays/newsletter-list)
 
-此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
+有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
 
-### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
+- 互联网和科技
+- 成长和思考
+- 工具和效率 
 
-重新分类 Leetcode 高频题 2021 版
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-- 题目按照面试频率降序排列
-- 增加难度分类，适合从简单开始学习
-- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
+夯实计算机基础，该怎么学，这个项目给出了答案：
+
+![TeachYourselfCS](https://img.turingark.com/uPic/hKl2yK.png) 
 
 ## 🕸 网站 
 
-### [musetransfer](https://musetransfer.com/)
+### [removebg](https://www.remove.bg/zh)
 
-`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
+这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
 
-![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
+![removebg](https://img.turingark.com/uPic/TW1uwy.png) 
 
-### [tableconvert](https://tableconvert.com/)
+### [读书笔记](https://reading.geek-docs.com/)
 
-`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
+网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
 
-![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
+![reading](https://img.turingark.com/uPic/nfN4XL.png) 
 
-### [squoosh](https://squoosh.app/)
+### [tinypng](https://tinypng.com/)
 
-免费漂亮的在线图片压缩网站：
+比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
 
-![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
+![tinypng](https://img.turingark.com/uPic/8s8ltr.png)
 
-其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
+如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
+
+- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
+- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
 
 ## ✍️ 说明
 
