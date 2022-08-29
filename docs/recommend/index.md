@@ -5,90 +5,92 @@
 
 ## 🎯 项目 
 
-### [personal-management-system](https://github.com/Volmarg/personal-management-system)
+### [btop](https://github.com/aristocratos/btop)
 
-该项目可以很方便的管理个人数据，如目标规划/笔记/联系人/密码/附件/图片/文件等等：
+一款界面酷炫的资源管理器，不过我用htop就够够的了。
 
-![personal-management-system](https://img.turingark.com/uPic/C6hnHx.jpg) 
+![btop](https://img.turingark.com/uPic/3eoG1g.jpg) 
 
-### [termtyper](https://github.com/kraanzu/termtyper)
+### [MRDOC](https://mrdoc.pro/)
 
-一个终端打字应用程序，以提高你的手指水平！
+`MRDOC`觅思文档，私有云笔记、云文档和知识库系统，适合作为私有云文档、云笔记和知识管理的私有化在线文档部署方案。
 
-![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
+分为开源版和付费版，小团队可以考虑使用：
 
-### [nps](https://github.com/ehang-io/nps)
+![MRDOC](https://img.turingark.com/uPic/u43buW.png) 
 
-一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。
+### [memos](https://github.com/justmemos/memos)
 
-![nps](https://img.turingark.com/uPic/x2AaCw.jpg) 
+Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
+
+**🎯 产品意图**:
+
+- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
+- 🏗️ 代替了微信“文件传输助手”
+- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
 
 ## 🤖 软件 
 
-### [UTM](https://github.com/utmapp/UTM)
+### [Sequel-Ace](https://sequel-ace.com/)
 
-开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
+原生的 `MySQL/MariaDB` 数据库管理软件：
 
-![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
+![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
 
-### [datastation](https://github.com/multiprocessio/datastation)
+### [gushi_namer](https://github.com/holynova/gushi_namer)
 
-`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
 
-![datastation](https://img.turingark.com/uPic/datastation.jpg) 
+![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
 
-### [RustDesk](https://github.com/rustdesk/rustdesk)
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
-远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
+### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
 
-![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
+一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
+
+- 配置app启动默认输入法。
+- app来回切换，保持app切出前的使用的输入法。
+- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
+- 悬浮窗口支持
+
+![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
 
 ## 👀 资料 
 
-### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
+### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
 
-该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
+左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
 
-![](https://img.turingark.com/uPic/ub1GLI.jpg) 
+### [AI-System](https://github.com/microsoft/AI-System)
 
-### [newsletter-list](https://github.com/chasays/newsletter-list)
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
 
-有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
+![AI-System](https://img.turingark.com/uPic/ZfT8O8.png) 
 
-- 互联网和科技
-- 成长和思考
-- 工具和效率 
+### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
-
-夯实计算机基础，该怎么学，这个项目给出了答案：
-
-![TeachYourselfCS](https://img.turingark.com/uPic/hKl2yK.png) 
+教程：小型金融知识图谱流程示范。 
 
 ## 🕸 网站 
 
-### [removebg](https://www.remove.bg/zh)
+### [unDraw](https://undraw.co/illustrations)
 
-这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
+你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
 
-![removebg](https://img.turingark.com/uPic/TW1uwy.png) 
+如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
 
-### [读书笔记](https://reading.geek-docs.com/)
+![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+### [IconPark](https://iconpark.oceanengine.com/home)
 
-![reading](https://img.turingark.com/uPic/nfN4XL.png) 
+字节开源的一款图标库。 
 
-### [tinypng](https://tinypng.com/)
+### [pixel](https://aqeja.github.io/pixel/)
 
-比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
+一个小工具，将你的图片像素化:
 
-![tinypng](https://img.turingark.com/uPic/8s8ltr.png)
-
-如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
-
-- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
-- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
+![;'](https://img.turingark.com/uPic/KfJuhM.png) 
 
 ## ✍️ 说明
 
