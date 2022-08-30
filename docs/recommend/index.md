@@ -5,92 +5,89 @@
 
 ## 🎯 项目 
 
-### [btop](https://github.com/aristocratos/btop)
+### [DataEase](https://github.com/dataease/dataease)
 
-一款界面酷炫的资源管理器，不过我用htop就够够的了。
+DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
 
-![btop](https://img.turingark.com/uPic/3eoG1g.jpg) 
+### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
 
-### [MRDOC](https://mrdoc.pro/)
+适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
 
-`MRDOC`觅思文档，私有云笔记、云文档和知识库系统，适合作为私有云文档、云笔记和知识管理的私有化在线文档部署方案。
+![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
 
-分为开源版和付费版，小团队可以考虑使用：
+### [daedalOS](https://github.com/DustinBrett/daedalOS)
 
-![MRDOC](https://img.turingark.com/uPic/u43buW.png) 
+`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
 
-### [memos](https://github.com/justmemos/memos)
-
-Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
-
-**🎯 产品意图**:
-
-- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
-- 🏗️ 代替了微信“文件传输助手”
-- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
+![daedalOS](https://img.turingark.com/uPic/ISxBdY.png) 
 
 ## 🤖 软件 
 
-### [Sequel-Ace](https://sequel-ace.com/)
+### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
 
-原生的 `MySQL/MariaDB` 数据库管理软件：
+`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
 
-![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
+![Miao](https://img.turingark.com/uPic/Miao.png) 
 
-### [gushi_namer](https://github.com/holynova/gushi_namer)
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 
-古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
 
-![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+![DOS](https://img.turingark.com/uPic/DOS.png) 
 
-从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
+### [uncle-novel](https://github.com/unclezs/uncle-novel)
 
-### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
 
-一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
-
-- 配置app启动默认输入法。
-- app来回切换，保持app切出前的使用的输入法。
-- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
-- 悬浮窗口支持
-
-![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
+![uncle-novel](https://img.turingark.com/uPic/ciiKWp.jpg) 
 
 ## 👀 资料 
 
-### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
+### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
+24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
 
-### [AI-System](https://github.com/microsoft/AI-System)
+![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
 
-微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
 
-![AI-System](https://img.turingark.com/uPic/ZfT8O8.png) 
+一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
 
-### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
+![NhkQDk](https://img.turingark.com/uPic/NhkQDk.jpg) 
 
-教程：小型金融知识图谱流程示范。 
+### [穷佐罗的Linux书](https://zorrozou.github.io/)
+
+穷佐罗的Linux书，挺不错的一份`Linux`教程。
+
+![zorrozou](https://img.turingark.com/uPic/zorrozou.jpg) 
 
 ## 🕸 网站 
 
-### [unDraw](https://undraw.co/illustrations)
+### [ziyouziti](https://ziyouziti.com/)
 
-你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
+免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
 
-如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
+![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
 
-![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
+### [db-fiddle](https://www.db-fiddle.com/)
 
-### [IconPark](https://iconpark.oceanengine.com/home)
+免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
 
-字节开源的一款图标库。 
+![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
 
-### [pixel](https://aqeja.github.io/pixel/)
+### [sci-hub](https://sci-hub.se/)
 
-一个小工具，将你的图片像素化:
+这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
 
-![;'](https://img.turingark.com/uPic/KfJuhM.png) 
+> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
+
+用户可通过以下方式访问新版本：
+
+- https://sci-hub.se/
+- https://sci-hub.ru/
+- https://sci-hub.st/
+
+![](https://img.turingark.com/uPic/ISPyBJ.png) 
 
 ## ✍️ 说明
 
