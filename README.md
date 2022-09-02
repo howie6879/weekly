@@ -7,6 +7,7 @@
 - [网站](https://weekly.howie6879.cn/)
 - [公众号](https://img.turingark.com/uPic/wechat_mp.jpeg)
 - [周刊RSS](https://weekly.howie6879.cn/rss/rss.xml)
+- [今日推荐](https://weekly.howie6879.cn/recommend)
 
 ## 介绍 <br/> <img src="https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/weekly.png" width=45% align=right hspace="5" vspace="5" />
 
