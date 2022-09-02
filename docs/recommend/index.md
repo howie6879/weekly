@@ -5,88 +5,77 @@
 
 ## 🎯 项目 
 
-### [cnchar](https://github.com/theajack/cnchar)
+### [privaxy](https://github.com/Barre/privaxy)
 
-功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
+Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
 
-![cnchar](https://img.turingark.com/uPic/cnchar.jpg) 
+![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
 
-### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
+还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
 
-`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
+### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
 
-![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
+Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.cn/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
 
-### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
+### [JD\_tencent\_scf](https://github.com/cweijan/JD_tencent_scf)
 
-该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
-
-![computer_book_list](https://img.turingark.com/uPic/uxQa5E.png) 
+这个项目简化了打京豆的脚本部署流程，每个月能打1500(不确定)左右。 
 
 ## 🤖 软件 
 
-### [LawRefBook](https://github.com/RanKKI/LawRefBook)
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-开源的法律知识速查手册：
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-![LawRefBook](https://img.turingark.com/uPic/LawRefBook.png) 
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
-### [Robo 3T](https://github.com/Studio3T/robomongo)
+### [AltTab](https://alt-tab-macos.netlify.app/)
 
-本人常用的一款MongoDB跨平台管理软件，开源免费：
+`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
 
-![robomongo](https://img.turingark.com/uPic/robomongo.jpg) 
+![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
 
-### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
+### [automa](https://github.com/Kholid060/automa)
 
-> 让每个人都简单方便的使用前沿人工智能技术
+`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
 
-一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
-
-![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
+![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
 
 ## 👀 资料 
 
-### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+### [Student-resources](https://github.com/ivmm/Student-resources)
 
-每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
+本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
 
-![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
+### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
 
-### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
+一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
 
-深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
+![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
 
-### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 
-站点可靠性工作手册：
-
-![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
+这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
 
 ## 🕸 网站 
 
-### [tinypng](https://tinypng.com/)
+### [favicon.io](https://favicon.io/)
 
-比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
+免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
 
-![tinypng](https://img.turingark.com/uPic/8s8ltr.png)
+![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
 
-如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
+### [websequencediagrams](https://www.websequencediagrams.com/)
 
-- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
-- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
+提供在线绘制时序图的网站：
 
-### [cikeee](https://www.cikeee.com/)
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
-每天推荐一部优秀的电影：
+### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
 
-![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
+配置高性能、安全、稳定的NGINX服务器的最简单方法：
 
-### [uiset](https://uiset.com/)
-
-共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
-
-![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
+![nginx_web](https://img.turingark.com/uPic/N7Yp8R.png) 
 
 ## ✍️ 说明
 
