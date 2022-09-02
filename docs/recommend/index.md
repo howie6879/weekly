@@ -5,95 +5,88 @@
 
 ## 🎯 项目 
 
-### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
+### [cnchar](https://github.com/theajack/cnchar)
 
-短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
+功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
 
-![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
+![cnchar](https://img.turingark.com/uPic/cnchar.jpg) 
 
-### [notion-avatar](https://github.com/Mayandev/notion-avatar)
+### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
 
-如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
+`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
 
-![notion-avatar](https://img.turingark.com/uPic/OrjQK2.jpg) 
+![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
 
-### [markdown-nice](https://github.com/mdnice/markdown-nice)
+### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
 
-有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
+该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
 
-> 支持主题设计的 Markdown 编辑器，让排版变 Nice
-
-你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
-
-![](https://img.turingark.com/uPic/oGeICY.png)
-
-官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
-
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
+![computer_book_list](https://img.turingark.com/uPic/uxQa5E.png) 
 
 ## 🤖 软件 
 
-### [Wechatsync](https://github.com/wechatsync/Wechatsync)
+### [LawRefBook](https://github.com/RanKKI/LawRefBook)
 
-一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
+开源的法律知识速查手册：
 
-### [BetterDummy](https://github.com/waydabber/BetterDummy)
+![LawRefBook](https://img.turingark.com/uPic/LawRefBook.png) 
 
-`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
+### [Robo 3T](https://github.com/Studio3T/robomongo)
 
-![bd_menu](https://img.turingark.com/uPic/bd_menu.png)
+本人常用的一款MongoDB跨平台管理软件，开源免费：
 
-如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
+![robomongo](https://img.turingark.com/uPic/robomongo.jpg) 
 
-### [ptg](https://github.com/crossoverJie/ptg)
+### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
 
-让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
+> 让每个人都简单方便的使用前沿人工智能技术
 
-![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
+一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
+
+![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
 
 ## 👀 资料 
 
-### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
+### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 
-本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
+每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
 
-### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
 
-开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
+### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
 
-![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
+深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
 
-### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
 
-本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
+站点可靠性工作手册：
 
-基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
-配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
-测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
-
-![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
 ## 🕸 网站 
 
-### [jsont.run](https://www.jsont.run/)
+### [tinypng](https://tinypng.com/)
 
-一个简洁的在线 `JSON` 解析器：
+比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
 
-![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
+![tinypng](https://img.turingark.com/uPic/8s8ltr.png)
 
-### [pixabay](https://pixabay.com/)
+如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
 
-`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
+- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
+- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
 
-![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
+### [cikeee](https://www.cikeee.com/)
 
-### [huawei-od](https://huawei-od.vercel.app/)
+每天推荐一部优秀的电影：
 
-牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
-![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
+### [uiset](https://uiset.com/)
+
+共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
+
+![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
 
 ## ✍️ 说明
 
