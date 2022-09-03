@@ -5,92 +5,89 @@
 
 ## 🎯 项目 
 
-### [DataEase](https://github.com/dataease/dataease)
+### [CoverView](https://github.com/rutikwankhade/CoverView)
 
-DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
+一个开源的快速制作文章封面图的工具。
 
-### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
+![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
 
-🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
+### [tinysearch](https://github.com/tinysearch/tinysearch)
 
-| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
-| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
-| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
-| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
-| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
+轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
 
-### [PPTist](https://github.com/pipipi-pikachu/PPTist)
+### [dato.rss](https://github.com/davidesantangelo/dato.rss)
 
-基于 Vue3.x + TypeScript 的[在线演示文稿](pipipi-pikachu.github.io/pptist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
+基于机器学习构建的RSS搜索引擎([datorss.com](https://datorss.com/))：
 
-![ppt-list](https://img.turingark.com/uPic/ppt-list.jpg) 
+![datorss](https://images-1252557999.file.myqcloud.com/uPic/datorss.png) 
 
 ## 🤖 软件 
 
-### [哔哩](https://github.com/Richasy/Bili.Uwp)
+### [RedFish](https://github.com/Kuari/RedFish)
 
-一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
+一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
 
-![bili](https://img.turingark.com/uPic/lnDWzU.jpg) 
+![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
 
-### [hetty](https://github.com/dstotijn/hetty)
+### [UTM](https://github.com/utmapp/UTM)
 
-`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
+开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
 
-![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
+![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
 
-### [Vieb](https://vieb.dev/)
+### [orange](https://github.com/naaive/orange)
 
-开源免费的全平台（PC）`Vim`风格电子浏览器：
+基于`Rust`跨平台的文件搜索引擎：
 
-![Vieb](https://img.turingark.com/uPic/BqyWaK.png) 
+![Orange](https://img.turingark.com/uPic/Orange.jpg) 
 
 ## 👀 资料 
 
-### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
 
-开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
+互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
 
-![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+一份程序员延寿指南，目标是稳健地活得更久。 
 
-深度学习入门教程资料聚合项目，包含：
+### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
 
-- 数学基础
-- 机器学习基础
-- 深度学习基础
-- 工程能力
+经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
 
-![dl01](https://img.turingark.com/uPic/532ono.jpg)
-
-![dl02](https://img.turingark.com/uPic/7I7Luc.jpg) 
-
-### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
-
-开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
-
-![fullstackopen](https://img.turingark.com/uPic/p1g8z3.png) 
+![the-economist-ebooks](https://img.turingark.com/uPic/the-economist-ebooks.jpg) 
 
 ## 🕸 网站 
 
-### [nona](https://www.nona.de/)
+### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
 
-德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
+目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
 
-![nona](https://img.turingark.com/uPic/1nN2lu.png) 
+![privacy-policy](https://img.turingark.com/uPic/U5XxZE.png)
 
-### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+![terms-and-conditions](https://img.turingark.com/uPic/jH8Xyz.png) 
 
-人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
+### [tanpok](https://tool.tanpok.com/#/)
 
-![YYeTsBot](https://img.turingark.com/uPic/5bwPfx.jpg) 
+效果非常好的图片压缩工具：
 
-### [emojimix](https://tikolu.net/emojimix/)
+![tanpok](https://img.turingark.com/uPic/8fZN8v.png) 
 
-一个表情融合网站，图一个乐呵，效果如下：
+### [tReader](https://tiansh.github.io/reader/#!/read/1)
 
-![emojimix](https://img.turingark.com/uPic/MLvKN0.png) 
+如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
+
+![tReader](https://img.turingark.com/uPic/PMMlRM.jpg)
+基本功能如下：
+
+- 手机端适配，阅读效果优秀
+- 点左上角的添加按钮可以添加文件
+- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
+- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
+- 文件列表，左滑、右键或按Delete可以显示删除按钮
+- 书签
+- 搜索
+- 目录等 
 
 ## ✍️ 说明
 
