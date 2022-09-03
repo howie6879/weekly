@@ -5,77 +5,92 @@
 
 ## 🎯 项目 
 
-### [privaxy](https://github.com/Barre/privaxy)
+### [DataEase](https://github.com/dataease/dataease)
 
-Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
+DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
 
-![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
+### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
 
-还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
+🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
 
-### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
+| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
+| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
+| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
+| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
+| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
 
-Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.cn/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
+### [PPTist](https://github.com/pipipi-pikachu/PPTist)
 
-### [JD\_tencent\_scf](https://github.com/cweijan/JD_tencent_scf)
+基于 Vue3.x + TypeScript 的[在线演示文稿](pipipi-pikachu.github.io/pptist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
 
-这个项目简化了打京豆的脚本部署流程，每个月能打1500(不确定)左右。 
+![ppt-list](https://img.turingark.com/uPic/ppt-list.jpg) 
 
 ## 🤖 软件 
 
-### [LANDrop](https://github.com/LANDrop/LANDrop)
+### [哔哩](https://github.com/Richasy/Bili.Uwp)
 
-开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
+一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
 
-![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
+![bili](https://img.turingark.com/uPic/lnDWzU.jpg) 
 
-### [AltTab](https://alt-tab-macos.netlify.app/)
+### [hetty](https://github.com/dstotijn/hetty)
 
-`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
+`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
 
-![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
+![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
 
-### [automa](https://github.com/Kholid060/automa)
+### [Vieb](https://vieb.dev/)
 
-`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
+开源免费的全平台（PC）`Vim`风格电子浏览器：
 
-![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
+![Vieb](https://img.turingark.com/uPic/BqyWaK.png) 
 
 ## 👀 资料 
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
 
-### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
+![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
 
-一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
+深度学习入门教程资料聚合项目，包含：
 
-### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
 
-这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
+![dl01](https://img.turingark.com/uPic/532ono.jpg)
+
+![dl02](https://img.turingark.com/uPic/7I7Luc.jpg) 
+
+### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
+
+开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
+
+![fullstackopen](https://img.turingark.com/uPic/p1g8z3.png) 
 
 ## 🕸 网站 
 
-### [favicon.io](https://favicon.io/)
+### [nona](https://www.nona.de/)
 
-免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
 
-![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
+![nona](https://img.turingark.com/uPic/1nN2lu.png) 
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
 
-提供在线绘制时序图的网站：
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+![YYeTsBot](https://img.turingark.com/uPic/5bwPfx.jpg) 
 
-### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
+### [emojimix](https://tikolu.net/emojimix/)
 
-配置高性能、安全、稳定的NGINX服务器的最简单方法：
+一个表情融合网站，图一个乐呵，效果如下：
 
-![nginx_web](https://img.turingark.com/uPic/N7Yp8R.png) 
+![emojimix](https://img.turingark.com/uPic/MLvKN0.png) 
 
 ## ✍️ 说明
 
