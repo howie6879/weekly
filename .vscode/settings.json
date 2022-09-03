@@ -1,11 +1,10 @@
 {
-    "python.sortImports.args": [
-        "--settings-path=${workspaceFolder}/setup.cfg"
-    ],
-    "editor.codeActionsOnSave": {
-        "source.organizeImports": true
-    },
-    "python.formatting.provider": "black",
-    "python.envFile": "${workspaceFolder}/.env",
-    "python.linting.pylintEnabled": true,
+  "python.sortImports.args": ["--settings-path=${workspaceFolder}/setup.cfg"],
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "python.formatting.provider": "black",
+  "python.envFile": "${workspaceFolder}/.env",
+  "python.linting.pylintEnabled": true,
+  "workbench.colorTheme": "Vitesse Dark"
 }
