@@ -5,89 +5,91 @@
 
 ## 🎯 项目 
 
-### [CoverView](https://github.com/rutikwankhade/CoverView)
+### [melody](https://github.com/foamzou/melody)
 
-一个开源的快速制作文章封面图的工具。
+你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
 
-![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
+主要特性为：
 
-### [tinysearch](https://github.com/tinysearch/tinysearch)
+- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
+- 用链接搜索歌曲
+- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
 
-轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
+比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
 
-### [dato.rss](https://github.com/davidesantangelo/dato.rss)
+![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
 
-基于机器学习构建的RSS搜索引擎([datorss.com](https://datorss.com/))：
+### [amis](https://github.com/baidu/amis)
 
-![datorss](https://images-1252557999.file.myqcloud.com/uPic/datorss.png) 
+前端低代码框架，通过 JSON 配置就能生成各种页面。 
+
+### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
+
+`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
+
+![LuckysheetDemo](https://img.turingark.com/uPic/LuckysheetDemo.gif) 
 
 ## 🤖 软件 
 
-### [RedFish](https://github.com/Kuari/RedFish)
+### [Imagine](https://github.com/meowtec/Imagine)
 
-一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
+全平台支持的图片压缩软件：
 
-![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
+![Imagine](https://img.turingark.com/uPic/KrSb9L.png)
 
-### [UTM](https://github.com/utmapp/UTM)
+看看这86%的压缩率还是挺上头的，而且效果很好。 
 
-开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
+### [CatchMouse](https://github.com/round/CatchMouse)
 
-![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
+如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
 
-### [orange](https://github.com/naaive/orange)
+### [gushi_namer](https://github.com/holynova/gushi_namer)
 
-基于`Rust`跨平台的文件搜索引擎：
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
 
-![Orange](https://img.turingark.com/uPic/Orange.jpg) 
+![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
 ## 👀 资料 
 
-### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
+### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
 
-互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
+一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
 
-### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
+![NhkQDk](https://img.turingark.com/uPic/NhkQDk.jpg) 
 
-一份程序员延寿指南，目标是稳健地活得更久。 
+### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
 
-### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
 
-经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
 
-![the-economist-ebooks](https://img.turingark.com/uPic/the-economist-ebooks.jpg) 
+### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
+
+从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
+
+![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
+### [mycolor.space](https://mycolor.space/)：
 
-目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
+渐变配色生成器，自动生成 `CSS` 代码：
 
-![privacy-policy](https://img.turingark.com/uPic/U5XxZE.png)
+![mycolor](https://images-1252557999.file.myqcloud.com/uPic/mycolor.jpg) 
 
-![terms-and-conditions](https://img.turingark.com/uPic/jH8Xyz.png) 
+### [dev.to](https://dev.to/)
 
-### [tanpok](https://tool.tanpok.com/#/)
+国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
 
-效果非常好的图片压缩工具：
+![dev_to](https://img.turingark.com/uPic/dev_to.png) 
 
-![tanpok](https://img.turingark.com/uPic/8fZN8v.png) 
+### [sayhello](https://beta.sayhello.so/)
 
-### [tReader](https://tiansh.github.io/reader/#!/read/1)
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
-
-![tReader](https://img.turingark.com/uPic/PMMlRM.jpg)
-基本功能如下：
-
-- 手机端适配，阅读效果优秀
-- 点左上角的添加按钮可以添加文件
-- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
-- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
-- 文件列表，左滑、右键或按Delete可以显示删除按钮
-- 书签
-- 搜索
-- 目录等 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
 ## ✍️ 说明
 
