@@ -5,83 +5,55 @@
 
 ## 🎯 项目 
 
-### [rembg](https://github.com/danielgatis/rembg)
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 
-之前有介绍过一个去除图片背景的网站-[remove.bg](https://www.remove.bg/zh)，这网站虽然免费，但是高清版本的图片下载需要收费，现在这个开源的图片背景去除项目将完全解决这个问题：
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
 
-![rembg](https://img.turingark.com/uPic/rembg.jpg)
+![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
 
-你可以作为第三方库使用，也在终端以及启用服务化来使用。 
+### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
 
-### [sams_helper](https://github.com/sari3l/sams_helper)
+短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
 
-山姆全自动抢购：普通商品、保供套餐；支持优惠券、无货添加、数量修正、金额限制、超重拆分、黑白名单:
+![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
 
-![sams_helper](https://images-1252557999.file.myqcloud.com/uPic/sams_helper.jpg) 
+### [JD\_tencent\_scf](https://github.com/cweijan/JD_tencent_scf)
 
-### [CoverView](https://github.com/rutikwankhade/CoverView)
-
-一个开源的快速制作文章封面图的工具。
-
-![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
+这个项目简化了打京豆的脚本部署流程，每个月能打1500(不确定)左右。 
 
 ## 🤖 软件 
 
-### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
+### [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
-跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
+`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
 
-- 🍕 全平台支持. Windows, Mac, Linux
-- 🍥 支持 IPTV, 卫视直播
-- 🍔 视频源支持自定义, 支持导入, 导出
-- 🍟 支持海报模式和列表模式浏览资源
-- 🌭 播放历史, 自动跳转历史进度
-- 🍿 收藏夹支持导入,导出, 支持同步追剧
-- 🥙 支持精简模式, 摸鱼划水
-- 🥪 一键搜索所有资源, 支持历史搜索记录
-- 🌮 导出资源下载链接
-- 🍣 支持第三方播放器播放
-- 🍤 显示豆瓣评分
+![appflowy](https://img.turingark.com/uPic/JhzdLT.jpg) 
 
-![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
+### [Joplin](https://github.com/laurent22/joplin)
 
-### [DevToys](https://github.com/veler/DevToys)
+我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
 
-Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
+- 自建服务端
+- 第三方如坚果云等
+- 也可以基于云商，如腾讯云的`COS`
 
-![](https://img.turingark.com/uPic/DevToys.png)
+> 这篇文章也是使用Joplin写的 
 
-可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
+### [legado](https://github.com/gedoor/legado)
 
-![](https://img.turingark.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-放心体验吧~ 
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
 
-### [Refined GitHub](https://github.com/refined-github/refined-github)
-
-一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
-
-那么`Refined GitHub`主要做了哪些工作呢，如下：
-
-- 浏览代码时候使空格可见
-- 添加一键式合并冲突修复程序
-- 添加表情评论头像
-- 在合并PR时，添加等待检查的选项
-- ...
-
-![](https://img.turingark.com/uPic/lI0jFl.png) 
+![legado](https://img.turingark.com/uPic/jSEBJ9.png) 
 
 ## 👀 资料 
 
-### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
+### [开源软件指南](https://opensource.guide/zh-hans/)
 
-本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
+GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
 
-基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
-配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
-测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
-
-![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
+![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
 
 ### [unplugged](https://github.com/liuxinyu95/unplugged)
 
@@ -91,31 +63,31 @@ Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可�
 
 如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
 
-### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
+### [easy-rl](https://github.com/datawhalechina/easy-rl)
 
-golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
+强化学习中文教程：
+
+![easy_rl](https://img.turingark.com/uPic/easy_rl.jpg) 
 
 ## 🕸 网站 
 
-### [squoosh](https://squoosh.app/)
+### [iconfont](https://www.iconfont.cn/)
 
-免费漂亮的在线图片压缩网站：
+阿里巴巴矢量图标库：
 
-![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
+![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
 
-其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
+### [一证通查](https://getsimnum.caict.ac.cn/#/)
 
-### [latexlive](https://www.latexlive.com/)
+自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
 
-免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
+![phone_query](https://img.turingark.com/uPic/phone_query.png) 
 
-![latexlive](https://img.turingark.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
+### [必应壁纸](https://bing.ioliu.cn/)
 
-### [ixinqing](http://www.ixinqing.com/)
+收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
 
-心晴 · 专注于心理学入门与自我成长:
-
-![ixinqing](https://img.turingark.com/uPic/ixinqing-20220328205229819.png) 
+![bing](https://img.turingark.com/uPic/bing.jpg) 
 
 ## ✍️ 说明
 
