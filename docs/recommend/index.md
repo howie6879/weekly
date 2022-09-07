@@ -5,89 +5,81 @@
 
 ## 🎯 项目 
 
-### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
+### [bore](https://github.com/ekzhang/bore)
 
-AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
 
-![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
+![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
 
-### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
+### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 
-短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
+`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
 
-![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
+![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
 
-### [JD\_tencent\_scf](https://github.com/cweijan/JD_tencent_scf)
+### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
 
-这个项目简化了打京豆的脚本部署流程，每个月能打1500(不确定)左右。 
+可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
+
+类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
+
+![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
 
 ## 🤖 软件 
 
-### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+### [DBeaver](https://github.com/dbeaver/dbeaver)
 
-`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+免费的通用数据库管理工具，SQL客户端，跨平台支持：
 
-![appflowy](https://img.turingark.com/uPic/JhzdLT.jpg) 
+![dbeaver](https://img.turingark.com/uPic/dbeaver.png) 
 
-### [Joplin](https://github.com/laurent22/joplin)
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
-我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 
-- 自建服务端
-- 第三方如坚果云等
-- 也可以基于云商，如腾讯云的`COS`
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
-> 这篇文章也是使用Joplin写的 
+### [marktext](https://github.com/marktext/marktext)
 
-### [legado](https://github.com/gedoor/legado)
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
 
-阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-
-简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
-
-![legado](https://img.turingark.com/uPic/jSEBJ9.png) 
+![marktext](https://img.turingark.com/uPic/cvYHVG.png) 
 
 ## 👀 资料 
 
-### [开源软件指南](https://opensource.guide/zh-hans/)
+### [just-react](https://github.com/BetaSu/just-react)
 
-GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+「React技术揭秘」 一本自顶向下的React源码分析书 
 
-![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
+### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
 
-### [unplugged](https://github.com/liuxinyu95/unplugged)
+技术面试最后反问面试官的话。 
 
-刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
+### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
 
-![unplugged](https://img.turingark.com/uPic/Xnip2021-10-23_21-49-37.jpg)
+`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
 
-如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
-
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
-
-强化学习中文教程：
-
-![easy_rl](https://img.turingark.com/uPic/easy_rl.jpg) 
+![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
 
 ## 🕸 网站 
 
-### [iconfont](https://www.iconfont.cn/)
+### [xsgames](https://xsgames.co/pixelme/)
 
-阿里巴巴矢量图标库：
+免费的像素头像生成网站：
 
-![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
+![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
 
-### [一证通查](https://getsimnum.caict.ac.cn/#/)
+### [emojimix](https://tikolu.net/emojimix/)
 
-自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
+一个表情融合网站，图一个乐呵，效果如下：
 
-![phone_query](https://img.turingark.com/uPic/phone_query.png) 
+![emojimix](https://img.turingark.com/uPic/MLvKN0.png) 
 
-### [必应壁纸](https://bing.ioliu.cn/)
+### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
 
-收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
+冰霜大佬的博客：
 
-![bing](https://img.turingark.com/uPic/bing.jpg) 
+![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
 
 ## ✍️ 说明
 
