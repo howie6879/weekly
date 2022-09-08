@@ -5,81 +5,86 @@
 
 ## 🎯 项目 
 
-### [bore](https://github.com/ekzhang/bore)
+### [weiboSpider](https://github.com/dataabc/weiboSpider)
 
-`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
+新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
 
-![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
+### [termtyper](https://github.com/kraanzu/termtyper)
 
-### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
+一个终端打字应用程序，以提高你的手指水平！
 
-`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
+![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
 
-![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
+### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
 
-### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
+基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
 
-可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
-
-类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
-
-![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
+![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
 
 ## 🤖 软件 
 
-### [DBeaver](https://github.com/dbeaver/dbeaver)
+### [avnc](https://github.com/gujjwal00/avnc)
 
-免费的通用数据库管理工具，SQL客户端，跨平台支持：
+针对 `Android` 的开源 `VNC` 客户端：
 
-![dbeaver](https://img.turingark.com/uPic/dbeaver.png) 
+![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
 
-### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
+### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
 
-腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
 
-![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
+![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
 
-### [marktext](https://github.com/marktext/marktext)
+### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+跨平台的`youtube-dl`客户端：
 
-![marktext](https://img.turingark.com/uPic/cvYHVG.png) 
+![](https://img.turingark.com/uPic/yd_gui.png) 
 
 ## 👀 资料 
 
-### [just-react](https://github.com/BetaSu/just-react)
+### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
 
-「React技术揭秘」 一本自顶向下的React源码分析书 
+Kubernetes 中文指南/云原生应用架构实战手册：
 
-### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
+![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
 
-技术面试最后反问面试官的话。 
+### [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
 
-### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
+这个项目的目标是带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来，每周更新两篇，有兴趣的朋友可以追更下，架构图：
 
-`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
+![linux0.11-talk](https://img.turingark.com/uPic/P4ekdG.jpg) 
 
-![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
+### [programming-math-science](https://github.com/bobeff/programming-math-science) 
+
+国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
 ## 🕸 网站 
 
-### [xsgames](https://xsgames.co/pixelme/)
+### [futurecoder](https://futurecoder.io/course/#ide)
 
-免费的像素头像生成网站：
+一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
 
-![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
+![futurecoder](https://img.turingark.com/uPic/futurecoder.jpg) 
 
-### [emojimix](https://tikolu.net/emojimix/)
+### [sao.fm](https://sao.fm/)
 
-一个表情融合网站，图一个乐呵，效果如下：
+一个在线听广播电台的网站：
 
-![emojimix](https://img.turingark.com/uPic/MLvKN0.png) 
+![sao.fm](https://img.turingark.com/uPic/sao.fm.jpg) 
 
-### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
+### [dute](https://www.dute.org/)
 
-冰霜大佬的博客：
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
+
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
 ## ✍️ 说明
 
