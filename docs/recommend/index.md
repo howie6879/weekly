@@ -5,35 +5,34 @@
 
 ## 🎯 项目 
 
-### [weiboSpider](https://github.com/dataabc/weiboSpider)
+### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
 
-新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
+读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
 
-### [termtyper](https://github.com/kraanzu/termtyper)
+![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
 
-一个终端打字应用程序，以提高你的手指水平！
+### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 
-![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
+提供多款 SS 规则，拥有强劲的广告过滤功能：
 
-### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
+![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
 
-基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 
-![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+
+![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
 
 ## 🤖 软件 
 
-### [avnc](https://github.com/gujjwal00/avnc)
+### [Maccy](https://github.com/p0deje/Maccy)
 
-针对 `Android` 的开源 `VNC` 客户端：
+轻量级macOS剪切板管理应用：
 
-![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
+![](https://img.turingark.com/uPic/t3XNpU.png)
+使用截图如下：
 
-### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
-
-一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
-
-![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
+![](https://img.turingark.com/uPic/SWZ6kJ.png) 
 
 ### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
 
@@ -41,37 +40,39 @@
 
 ![](https://img.turingark.com/uPic/yd_gui.png) 
 
+### [vnote](https://github.com/vnotex/vnote)
+
+VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
+
+![vnote](https://img.turingark.com/uPic/vnote.png) 
+
 ## 👀 资料 
 
-### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
+### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
 
-Kubernetes 中文指南/云原生应用架构实战手册：
+非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
 
-![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
+### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 
-### [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
+微软设计的机器学习课程，完全面向新手：
 
-这个项目的目标是带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来，每周更新两篇，有兴趣的朋友可以追更下，架构图：
+- 时间：12周
+- 课程：25课
+- 实验：50个 
 
-![linux0.11-talk](https://img.turingark.com/uPic/P4ekdG.jpg) 
+### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
 
-### [programming-math-science](https://github.com/bobeff/programming-math-science) 
+从工程角度方方面面阐述了DevOps实施的过程:
 
-国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
+![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
 
 ## 🕸 网站 
 
-### [futurecoder](https://futurecoder.io/course/#ide)
+### [batnoter](https://batnoter.com/)
 
-一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-![futurecoder](https://img.turingark.com/uPic/futurecoder.jpg) 
-
-### [sao.fm](https://sao.fm/)
-
-一个在线听广播电台的网站：
-
-![sao.fm](https://img.turingark.com/uPic/sao.fm.jpg) 
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
 ### [dute](https://www.dute.org/)
 
@@ -85,6 +86,14 @@ Kubernetes 中文指南/云原生应用架构实战手册：
 - 等
 
 ![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+
+### [emojicode](https://www.emojicode.org/)
+
+这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
+
+![emojicode](https://img.turingark.com/uPic/emojicode.jpg)
+
+现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
 
 ## ✍️ 说明
 
