@@ -5,40 +5,43 @@
 
 ## 🎯 项目 
 
-### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
+### [GFPGAN](https://github.com/TencentARC/GFPGAN)
 
-读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
+腾讯开源的老照片修复项目：
 
-![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
+![GFPGAN](https://img.turingark.com/uPic/UOiwSK.jpg) 
 
-### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
+### [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
-提供多款 SS 规则，拥有强劲的广告过滤功能：
+`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
 
-![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
+![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
 
-### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
+### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
 
-AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
 
-![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
+![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
 
 ## 🤖 软件 
 
-### [Maccy](https://github.com/p0deje/Maccy)
+### [DevToys](https://github.com/veler/DevToys)
 
-轻量级macOS剪切板管理应用：
+Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
 
-![](https://img.turingark.com/uPic/t3XNpU.png)
-使用截图如下：
+![](https://img.turingark.com/uPic/DevToys.png)
 
-![](https://img.turingark.com/uPic/SWZ6kJ.png) 
+可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
 
-### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
+![](https://img.turingark.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
 
-跨平台的`youtube-dl`客户端：
+放心体验吧~ 
 
-![](https://img.turingark.com/uPic/yd_gui.png) 
+### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+
+`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+
+![appflowy](https://img.turingark.com/uPic/JhzdLT.jpg) 
 
 ### [vnote](https://github.com/vnotex/vnote)
 
@@ -48,52 +51,43 @@ VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台
 
 ## 👀 资料 
 
-### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
+### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
 
-非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
+机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
 
-### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+![openmlsys](https://img.turingark.com/uPic/openmlsys.jpg) 
 
-微软设计的机器学习课程，完全面向新手：
+### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
 
-- 时间：12周
-- 课程：25课
-- 实验：50个 
+编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
 
-### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-从工程角度方方面面阐述了DevOps实施的过程:
+《Mastering GO》中文译本，《玩转 GO》：
 
-![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
 ## 🕸 网站 
 
-### [batnoter](https://batnoter.com/)
+### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+![privacy-policy](https://img.turingark.com/uPic/U5XxZE.png)
 
-### [dute](https://www.dute.org/)
+![terms-and-conditions](https://img.turingark.com/uPic/jH8Xyz.png) 
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
+### [sayhello](https://beta.sayhello.so/)
 
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
-### [emojicode](https://www.emojicode.org/)
+### [readme.so](https://readme.so/)
 
-这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
+一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
 
-![emojicode](https://img.turingark.com/uPic/emojicode.jpg)
-
-现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
+![readme_so](https://img.turingark.com/uPic/readme_so.jpg) 
 
 ## ✍️ 说明
 
