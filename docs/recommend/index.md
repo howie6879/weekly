@@ -5,89 +5,102 @@
 
 ## 🎯 项目 
 
-### [GFPGAN](https://github.com/TencentARC/GFPGAN)
+### [go-daily-lib](https://github.com/darjun/go-daily-lib)
 
-腾讯开源的老照片修复项目：
+每天学习一个 Go 语言库，内容质量相当高。
 
-![GFPGAN](https://img.turingark.com/uPic/UOiwSK.jpg) 
+![go-daily-lib](https://img.turingark.com/uPic/4Ippyf.png) 
 
-### [ProxiTok](https://github.com/pablouser1/ProxiTok)
+### Command2API
 
-`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
+这是一个可以实时获取执行命令结果的脚本，脚本原理就是一个线程开启Web服务，一个线程执行命令，通过全局变量与Web服务共享执行命令的结果。
 
-![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
+![Command2API](https://img.turingark.com/uPic/mcMhsP.jpg) 
 
-### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
+### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
 
-鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
+基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
 
-![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
+![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
 
 ## 🤖 软件 
 
-### [DevToys](https://github.com/veler/DevToys)
+### [koodo-reader](https://github.com/troyeguo/koodo-reader)
 
-Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
+一个跨平台的电子书阅读器：
 
-![](https://img.turingark.com/uPic/DevToys.png)
+- 支持多达 15 种主流电子书格
+- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
+- 备份数据到  **Dropbox**  和  **Webdav**
+- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
+- 双页模式，单页模式，滚动模式
+- 听书功能，翻译功能，触控屏支持，批量导入图书
+- 支持目录，书签，笔记，高亮，书架，标签
+- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
+- 黑夜模式和主题色设置
 
-可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
+![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
 
-![](https://img.turingark.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
+### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 
-放心体验吧~ 
+一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
 
-### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+- 隐藏桌面图标
+- 番茄钟
+- 快速进入夜间模式
+- 隐藏刘海
+- 保持唤醒
+- 清理 Xcode 缓存
+- 支持快捷方式库，可以自己开发
+- ...
 
-`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png) 
 
-![appflowy](https://img.turingark.com/uPic/JhzdLT.jpg) 
+### [Übersicht](https://github.com/felixhageloh/uebersicht)
 
-### [vnote](https://github.com/vnotex/vnote)
+构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
 
-VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
-
-![vnote](https://img.turingark.com/uPic/vnote.png) 
+![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
 
 ## 👀 资料 
 
-### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
+### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
 
-机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
+从工程角度方方面面阐述了DevOps实施的过程:
 
-![openmlsys](https://img.turingark.com/uPic/openmlsys.jpg) 
+![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
 
-### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
+### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 
-编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
+本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
 
-### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
+![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
 
-《Mastering GO》中文译本，《玩转 GO》：
+### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
 
-![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
+开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
+
+![fullstackopen](https://img.turingark.com/uPic/p1g8z3.png) 
 
 ## 🕸 网站 
 
-### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
+### [carbon](https://carbon.now.sh/)
 
-目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
+将你的源代码转成漂亮可分享的图片：
 
-![privacy-policy](https://img.turingark.com/uPic/U5XxZE.png)
+![carbon](https://img.turingark.com/uPic/carbon.jpg) 
 
-![terms-and-conditions](https://img.turingark.com/uPic/jH8Xyz.png) 
+### [zhaoziyuan](https://zhaoziyuan.la)
 
-### [sayhello](https://beta.sayhello.so/)
+阿里云资源搜索引擎：
 
-面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
+![zhaoziyuan](https://img.turingark.com/uPic/zhaoziyuan-20220429095007870.jpg) 
 
-![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+### [emojimix](https://tikolu.net/emojimix/)
 
-### [readme.so](https://readme.so/)
+一个表情融合网站，图一个乐呵，效果如下：
 
-一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
-
-![readme_so](https://img.turingark.com/uPic/readme_so.jpg) 
+![emojimix](https://img.turingark.com/uPic/MLvKN0.png) 
 
 ## ✍️ 说明
 
