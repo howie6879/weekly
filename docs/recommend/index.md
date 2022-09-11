@@ -5,102 +5,85 @@
 
 ## 🎯 项目 
 
-### [go-daily-lib](https://github.com/darjun/go-daily-lib)
+### [naive-ui](https://github.com/tusen-ai/naive-ui)
 
-每天学习一个 Go 语言库，内容质量相当高。
+一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
 
-![go-daily-lib](https://img.turingark.com/uPic/4Ippyf.png) 
+![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
 
-### Command2API
+### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
 
-这是一个可以实时获取执行命令结果的脚本，脚本原理就是一个线程开启Web服务，一个线程执行命令，通过全局变量与Web服务共享执行命令的结果。
+该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
 
-![Command2API](https://img.turingark.com/uPic/mcMhsP.jpg) 
+![computer_book_list](https://img.turingark.com/uPic/uxQa5E.png) 
 
-### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
+### [HowToCook](https://github.com/Anduin2017/HowToCook)
 
-基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
-
-![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
+程序员在家做饭方法指南。 
 
 ## 🤖 软件 
 
-### [koodo-reader](https://github.com/troyeguo/koodo-reader)
+### [MiaoYan](https://github.com/tw93/MiaoYan)
 
-一个跨平台的电子书阅读器：
+轻灵的 Markdown 笔记本伴你写出妙言：
 
-- 支持多达 15 种主流电子书格
-- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
-- 备份数据到  **Dropbox**  和  **Webdav**
-- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
-- 双页模式，单页模式，滚动模式
-- 听书功能，翻译功能，触控屏支持，批量导入图书
-- 支持目录，书签，笔记，高亮，书架，标签
-- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
-- 黑夜模式和主题色设置
+- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
+- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
+- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
+- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
 
-![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
+![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
 
-### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
+### [tts-now](https://github.com/funnyzak/tts-now)
 
-一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
+基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
 
-- 隐藏桌面图标
-- 番茄钟
-- 快速进入夜间模式
-- 隐藏刘海
-- 保持唤醒
-- 清理 Xcode 缓存
-- 支持快捷方式库，可以自己开发
-- ...
+![](https://img.turingark.com/uPic/Se6U0t.jpg) 
 
-![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png) 
+### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 
-### [Übersicht](https://github.com/felixhageloh/uebersicht)
+短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
 
-构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
-
-![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
+![SmsForwarder](https://img.turingark.com/uPic/v6owv0.jpg)
+如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
 
 ## 👀 资料 
 
-### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
+### [TLCL](https://billie66.github.io/TLCL/book/)
 
-从工程角度方方面面阐述了DevOps实施的过程:
+`The Linux Command Line` 中文翻译：
 
-![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
+![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
 
-### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
+### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
 
-本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
+为初学者整理的免费 `CSS` 课程：
 
-![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
+![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
 
-### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
+### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
 
-开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
-
-![fullstackopen](https://img.turingark.com/uPic/p1g8z3.png) 
+教程：小型金融知识图谱流程示范。 
 
 ## 🕸 网站 
 
-### [carbon](https://carbon.now.sh/)
+### [darebee](https://darebee.com/)
 
-将你的源代码转成漂亮可分享的图片：
+一个教你正确运动姿势的网站：
 
-![carbon](https://img.turingark.com/uPic/carbon.jpg) 
+![darebee](https://img.turingark.com/uPic/eIHdyQ.png) 
 
-### [zhaoziyuan](https://zhaoziyuan.la)
+### [zerossl](https://zerossl.com/)
 
-阿里云资源搜索引擎：
+一个可以免费签 IP 地址 SSL 证书的网站：
 
-![zhaoziyuan](https://img.turingark.com/uPic/zhaoziyuan-20220429095007870.jpg) 
+![zerossl](https://img.turingark.com/uPic/zerossl.jpg) 
 
-### [emojimix](https://tikolu.net/emojimix/)
+### [jsonvisio](https://jsonvisio.com/editor)
 
-一个表情融合网站，图一个乐呵，效果如下：
+将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
 
-![emojimix](https://img.turingark.com/uPic/MLvKN0.png) 
+![](https://img.turingark.com/uPic/jsonvisio.jpg) 
 
 ## ✍️ 说明
 
