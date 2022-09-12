@@ -5,85 +5,87 @@
 
 ## 🎯 项目 
 
-### [naive-ui](https://github.com/tusen-ai/naive-ui)
+### [easy-gate](https://github.com/r7wx/easy-gate)
 
-一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
+`Easy Gate` 是一个使用 `Go` 和 `React` 构建的简单 `Web` 应用程序，它充当您自托管基础设施的主页。服务和注释从 `JSON` 文件中实时解析（无需重新启动应用程序）。可以将服务和注释分配给一个或多个组，以仅向特定用户显示项目（基于他们的 IP 地址）。
 
-![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
+![easy-gate](https://images-1252557999.file.myqcloud.com/uPic/easy-gate.png) 
 
-### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
+### [nocobase](https://github.com/nocobase/nocobase)
 
-该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
+NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
 
-![computer_book_list](https://img.turingark.com/uPic/uxQa5E.png) 
+![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
 
-### [HowToCook](https://github.com/Anduin2017/HowToCook)
+### [mall-cook](https://github.com/wangyuan389/mall-cook)
 
-程序员在家做饭方法指南。 
+Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
+
+![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
 
 ## 🤖 软件 
 
-### [MiaoYan](https://github.com/tw93/MiaoYan)
+### [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
-轻灵的 Markdown 笔记本伴你写出妙言：
+`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
 
-- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
-- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
-- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
-- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
+![appflowy](https://img.turingark.com/uPic/JhzdLT.jpg) 
 
-![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
+### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
 
-### [tts-now](https://github.com/funnyzak/tts-now)
+`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
 
-基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
+![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
 
-![](https://img.turingark.com/uPic/Se6U0t.jpg) 
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
-### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
+`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
 
-短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
-
-![SmsForwarder](https://img.turingark.com/uPic/v6owv0.jpg)
-如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
+![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
 
 ## 👀 资料 
 
-### [TLCL](https://billie66.github.io/TLCL/book/)
+### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
-`The Linux Command Line` 中文翻译：
+一个在YouTube上发现最新机器学习课程的项目。 
 
-![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
+### [pdai](https://pdai.tech/)
 
-### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
+Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
 
-为初学者整理的免费 `CSS` 课程：
+![pdai](https://img.turingark.com/uPic/8oZW41.png) 
 
-![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
+### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
 
-### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
+ Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
 
-教程：小型金融知识图谱流程示范。 
+ ![rust_embedded_dev](https://img.turingark.com/uPic/rust_embedded_dev.jpg) 
 
 ## 🕸 网站 
 
-### [darebee](https://darebee.com/)
+### [fontawesome](https://fontawesome.com/icons/)
 
-一个教你正确运动姿势的网站：
+比较完善全面的图标网站：
 
-![darebee](https://img.turingark.com/uPic/eIHdyQ.png) 
+![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
 
-### [zerossl](https://zerossl.com/)
+### [sci-hub](https://sci-hub.se/)
 
-一个可以免费签 IP 地址 SSL 证书的网站：
+这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
 
-![zerossl](https://img.turingark.com/uPic/zerossl.jpg) 
+> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
 
-### [jsonvisio](https://jsonvisio.com/editor)
+用户可通过以下方式访问新版本：
 
-将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
+- https://sci-hub.se/
+- https://sci-hub.ru/
+- https://sci-hub.st/
 
-![](https://img.turingark.com/uPic/jsonvisio.jpg) 
+![](https://img.turingark.com/uPic/ISPyBJ.png) 
+
+### [IconPark](https://iconpark.oceanengine.com/home)
+
+字节开源的一款图标库。 
 
 ## ✍️ 说明
 
