@@ -5,91 +5,84 @@
 
 ## 🎯 项目 
 
-### [zfile](https://github.com/zhaojun1998/zfile)
+### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
 
-基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
+基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
 
-![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
+![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
 
-### [lsky-pro](https://github.com/lsky-org/lsky-pro)
+### [QRec](https://github.com/Coder-Yu/QRec)
 
-非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
+Python编写的推荐系统快速实践框架（基于TF），和之前推荐的[gorse](https://weekly.howie6879.cn/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E6%8E%A8%E8%8D%90#gorse)有点类似，但不同的是QRec提供了领先的推荐系统模型用于实践。 
 
-![vps_lsky_01](https://img.turingark.com/uPic/vps_lsky_01.jpg) 
+### [van-blog](https://github.com/Mereithhh/van-blog)
 
-### [homelab](https://github.com/khuedoan/homelab)
+一款简洁实用优雅的高性能个人博客系统：
 
-一个开源的家用自托管基础设施项目，支持自动配置、操作和更新各类自托管服务，可用于打造自己的家庭开发实验室。其中包括代码自托管、证书管理、CI/CD 持续集成与交付、K8s 自动化安装和管理、实时聊天系统、应用监控面板等功能。
-
-![homelab](https://img.turingark.com/uPic/gB9qTV.jpg) 
+![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
 
 ## 🤖 软件 
 
-### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+### [ReadYou](https://github.com/Ashinch/ReadYou)
 
-开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
+这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
 
-![hitomi](https://img.turingark.com/uPic/hitomi.gif) 
+![ReadYou](https://img.turingark.com/uPic/ReadYou.jpg) 
 
-### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
+### [scrcpy](https://github.com/Genymobile/scrcpy)
 
-ImageOptim 是一款开源免费的本地图像压缩工具：
+在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
 
-![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
+它专注于：
 
-我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
+- 轻量 (原生，仅显示设备屏幕)
+- 性能 (30~60fps)
+- 质量 (分辨率可达 1920×1080 或更高)
+- 低延迟 (35~70ms)
+- 快速启动 (最快 1 秒内即可显示第一帧)
+- 无侵入性 (不会在设备上遗留任何程序) 
 
-- [Imagine](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
-- [webutils](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
-- [tinypng](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
-- [tanpok](https://weekly.howie6879.cn/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
-- [docsmall](https://weekly.howie6879.cn/2021/10-18~10-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#vue-color-avatar)：提供一些图片压缩、PDF合并分割小功能的网站 
+### [tunnelblick](https://tunnelblick.net/)
 
-### [marktext](https://github.com/marktext/marktext)
+免费开源的`openvpn`客户端：
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
-
-![marktext](https://img.turingark.com/uPic/cvYHVG.png) 
+![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
 
 ## 👀 资料 
 
-### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
+### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
 
-该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
+这里有比较全面的时间序列数据相关资源。 
 
-![](https://img.turingark.com/uPic/ub1GLI.jpg) 
+### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+### [easy-rl](https://github.com/datawhalechina/easy-rl)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+强化学习中文教程：
 
-### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
-
-📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
-
-![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
+![easy_rl](https://img.turingark.com/uPic/easy_rl.jpg) 
 
 ## 🕸 网站 
 
-### [zzollo](https://github.com/Sanix-Darker/zzollo)
+### [cikeee](https://www.cikeee.com/)
 
-开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
+每天推荐一部优秀的电影：
 
-![zzollo](https://img.turingark.com/uPic/NJXulr.png) 
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
-### [readme.so](https://readme.so/)
+### [gh-card.dev](https://gh-card.dev/)
 
-一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
+免费为你的 `Github` 开源项目生成卡片的网站：
 
-![readme_so](https://img.turingark.com/uPic/readme_so.jpg) 
+![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
 
-### [法律时代导航](https://yesen.cn/)
+### [eja.tv](https://eja.tv/?)
 
-法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
+提供3808个在线电视频道，包含143个国家以及82种不同语言。
 
-![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
+![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
 
 ## ✍️ 说明
 
