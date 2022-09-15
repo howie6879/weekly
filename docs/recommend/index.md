@@ -5,84 +5,96 @@
 
 ## 🎯 项目 
 
-### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
+### [dootask](https://github.com/kuaifan/dootask)
 
-基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
+DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
 
-![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
+![dootask](https://img.turingark.com/uPic/tYiTA7.png) 
 
-### [QRec](https://github.com/Coder-Yu/QRec)
+### [tiptop](https://github.com/nschloe/tiptop)
 
-Python编写的推荐系统快速实践框架（基于TF），和之前推荐的[gorse](https://weekly.howie6879.cn/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E6%8E%A8%E8%8D%90#gorse)有点类似，但不同的是QRec提供了领先的推荐系统模型用于实践。 
+类似`htop`的命令行系统资源监控工具：
 
-### [van-blog](https://github.com/Mereithhh/van-blog)
+![tiptop](https://img.turingark.com/uPic/tiptop.png) 
 
-一款简洁实用优雅的高性能个人博客系统：
+### [BGmi](https://github.com/BGmi/BGmi)
 
-![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
+`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
+
+![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
 
 ## 🤖 软件 
 
-### [ReadYou](https://github.com/Ashinch/ReadYou)
+### [buster](https://github.com/dessant/buster)
 
-这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
+`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
 
-![ReadYou](https://img.turingark.com/uPic/ReadYou.jpg) 
+![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
 
-### [scrcpy](https://github.com/Genymobile/scrcpy)
+### [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
-在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
+`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
 
-它专注于：
+![appflowy](https://img.turingark.com/uPic/JhzdLT.jpg) 
 
-- 轻量 (原生，仅显示设备屏幕)
-- 性能 (30~60fps)
-- 质量 (分辨率可达 1920×1080 或更高)
-- 低延迟 (35~70ms)
-- 快速启动 (最快 1 秒内即可显示第一帧)
-- 无侵入性 (不会在设备上遗留任何程序) 
+### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
 
-### [tunnelblick](https://tunnelblick.net/)
+M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
 
-免费开源的`openvpn`客户端：
+| 功能                 | 支持       |
+| -------------------- | ---------- |
+| HLS协议点播源        | ✓          |
+| 自定义Http协议头下载 | ✓          |
+| 自定义KEY和IV解密    | ✓          |
+| 本地M3U8文件下载     | ✓          |
+| M3U8 直播源          | ✓          |
+| 标准 AES-128-CBC加密 | ✓          |
+| 标准 AES-196-CBC加密 | ✓          |
+| 标准 AES-256-CBC加密 | ✓          |
+| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
+| 网页嗅探视频源       | ✓          |
 
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
 
 ## 👀 资料 
 
-### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
+### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
 
-这里有比较全面的时间序列数据相关资源。 
+算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
 
-### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
+![Reflection Summary](https://img.turingark.com/uPic/WpauDu.png) 
 
-非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
+### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
+一本基于`python&matplotlib`进行科学可视化的开源书籍：
 
-强化学习中文教程：
+![scientific-visualization-book](https://img.turingark.com/uPic/scientific-visualization-book.jpg) 
 
-![easy_rl](https://img.turingark.com/uPic/easy_rl.jpg) 
+### [TLCL](https://billie66.github.io/TLCL/book/)
+
+`The Linux Command Line` 中文翻译：
+
+![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
 
 ## 🕸 网站 
 
-### [cikeee](https://www.cikeee.com/)
+### [readme.so](https://readme.so/)
 
-每天推荐一部优秀的电影：
+一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
 
-![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
+![readme_so](https://img.turingark.com/uPic/readme_so.jpg) 
 
-### [gh-card.dev](https://gh-card.dev/)
+### [http.cat](https://http.cat)
 
-免费为你的 `Github` 开源项目生成卡片的网站：
+如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
 
-![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
+![http_cat](https://img.turingark.com/uPic/http_cat.jpg) 
 
-### [eja.tv](https://eja.tv/?)
+### [cryptologos](https://cryptologos.cc/)
 
-提供3808个在线电视频道，包含143个国家以及82种不同语言。
+一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
 
-![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
+![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
 
 ## ✍️ 说明
 
