@@ -5,96 +5,93 @@
 
 ## 🎯 项目 
 
-### [dootask](https://github.com/kuaifan/dootask)
+### [Casdoor](https://github.com/casdoor/casdoor)
 
-DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
+Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
 
-![dootask](https://img.turingark.com/uPic/tYiTA7.png) 
+![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
 
-### [tiptop](https://github.com/nschloe/tiptop)
+### [nn-editor](https://github.com/scarsty/nn-editor)
 
-类似`htop`的命令行系统资源监控工具：
+Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经网络结构的简单编辑，或者某些特殊流程图的编辑。
 
-![tiptop](https://img.turingark.com/uPic/tiptop.png) 
+![nn-editor](https://img.turingark.com/uPic/By0C3O.jpg) 
 
-### [BGmi](https://github.com/BGmi/BGmi)
+### [pi-hole](https://pi-hole.net/)
 
-`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
+一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
 
-![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
+![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
 
 ## 🤖 软件 
 
-### [buster](https://github.com/dessant/buster)
+### [antares](https://github.com/Fabio286/antares)
 
-`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
+![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
-### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+### [Xournal++](https://github.com/xournalpp/xournalpp)
 
-`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+`Xournal++`是一款支持PDF注释的开源手写笔记软件，同样具有跨平台属性，功能挺多，有数位板的可以体验一下。
 
-![appflowy](https://img.turingark.com/uPic/JhzdLT.jpg) 
+![Xournal++](https://img.turingark.com/uPic/2DWaXR.jpg) 
 
-### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
 
-M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
-
-| 功能                 | 支持       |
-| -------------------- | ---------- |
-| HLS协议点播源        | ✓          |
-| 自定义Http协议头下载 | ✓          |
-| 自定义KEY和IV解密    | ✓          |
-| 本地M3U8文件下载     | ✓          |
-| M3U8 直播源          | ✓          |
-| 标准 AES-128-CBC加密 | ✓          |
-| 标准 AES-196-CBC加密 | ✓          |
-| 标准 AES-256-CBC加密 | ✓          |
-| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
-| 网页嗅探视频源       | ✓          |
-
-![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
 ## 👀 资料 
 
-### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
+### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
 
-算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
+本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
 
-![Reflection Summary](https://img.turingark.com/uPic/WpauDu.png) 
+### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
 
-### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
+清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
 
-一本基于`python&matplotlib`进行科学可视化的开源书籍：
+更新记录如下：
 
-![scientific-visualization-book](https://img.turingark.com/uPic/scientific-visualization-book.jpg) 
+- 2020-11-03：环境搭建完成，开始着手编写文档。
+- 2020-11-13：第一章完成。
+- 2020-11-27：第二章完成。
+- 2020-12-20：前七章代码完成。
+- 2021-01-10：第三章完成。
+- 2021-01-18：加入第零章。
+- 2021-01-30：第四章完成。
+- 2021-02-16：第五章完成。
+- 2021-02-20：第六章完成。
+- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
+- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
 
-### [TLCL](https://billie66.github.io/TLCL/book/)
+热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
 
-`The Linux Command Line` 中文翻译：
+### [paper-reading](https://github.com/mli/paper-reading)
 
-![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+
+![paper-reading](https://img.turingark.com/uPic/7e52UU.png) 
 
 ## 🕸 网站 
 
-### [readme.so](https://readme.so/)
+### [cikeee](https://www.cikeee.com/)
 
-一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
+每天推荐一部优秀的电影：
 
-![readme_so](https://img.turingark.com/uPic/readme_so.jpg) 
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
-### [http.cat](https://http.cat)
+### [pixel-me](https://pixel-me.tokyo/en/)
 
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
+将你的头像像素化，质量挺好：
 
-![http_cat](https://img.turingark.com/uPic/http_cat.jpg) 
+![](https://img.turingark.com/uPic/gnHdoM.png) 
 
-### [cryptologos](https://cryptologos.cc/)
+### [pixel](https://aqeja.github.io/pixel/)
 
-一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
+一个小工具，将你的图片像素化:
 
-![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
+![;'](https://img.turingark.com/uPic/KfJuhM.png) 
 
 ## ✍️ 说明
 
