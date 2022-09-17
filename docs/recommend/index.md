@@ -5,93 +5,88 @@
 
 ## 🎯 项目 
 
-### [Casdoor](https://github.com/casdoor/casdoor)
+### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
 
-Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
+该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
 
-![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
+![computer_book_list](https://img.turingark.com/uPic/uxQa5E.png) 
 
-### [nn-editor](https://github.com/scarsty/nn-editor)
+### [wechat-export](https://github.com/luin/wechat-export)
 
-Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经网络结构的简单编辑，或者某些特殊流程图的编辑。
+将微信聊天记录导出为HTML文件：
 
-![nn-editor](https://img.turingark.com/uPic/By0C3O.jpg) 
+![wechat-export](https://img.turingark.com/uPic/eIhKUP.jpg) 
 
-### [pi-hole](https://pi-hole.net/)
+### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
 
-一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
-
-![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
+让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
 
 ## 🤖 软件 
 
-### [antares](https://github.com/Fabio286/antares)
+### [avnc](https://github.com/gujjwal00/avnc)
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
+针对 `Android` 的开源 `VNC` 客户端：
 
-![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
 
-### [Xournal++](https://github.com/xournalpp/xournalpp)
+### [Sequel-Ace](https://sequel-ace.com/)
 
-`Xournal++`是一款支持PDF注释的开源手写笔记软件，同样具有跨平台属性，功能挺多，有数位板的可以体验一下。
+原生的 `MySQL/MariaDB` 数据库管理软件：
 
-![Xournal++](https://img.turingark.com/uPic/2DWaXR.jpg) 
+![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
 
-### [Wechatsync](https://github.com/wechatsync/Wechatsync)
+### [Rectangle](https://github.com/rxhanson/Rectangle)
 
-一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
+`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+
+![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
 
 ## 👀 资料 
 
-### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
+### [under-the-hood](https://golang.design/under-the-hood/)
 
-本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
+`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
 
-### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
+![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
 
-清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
+### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
 
-更新记录如下：
+ Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
 
-- 2020-11-03：环境搭建完成，开始着手编写文档。
-- 2020-11-13：第一章完成。
-- 2020-11-27：第二章完成。
-- 2020-12-20：前七章代码完成。
-- 2021-01-10：第三章完成。
-- 2021-01-18：加入第零章。
-- 2021-01-30：第四章完成。
-- 2021-02-16：第五章完成。
-- 2021-02-20：第六章完成。
-- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
-- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
+ ![rust_embedded_dev](https://img.turingark.com/uPic/rust_embedded_dev.jpg) 
 
-热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
+### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
-### [paper-reading](https://github.com/mli/paper-reading)
+> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
 
-![paper-reading](https://img.turingark.com/uPic/7e52UU.png) 
+![Learn-Vim_zh_cn](https://img.turingark.com/uPic/AgGats.png) 
 
 ## 🕸 网站 
 
-### [cikeee](https://www.cikeee.com/)
+### [dute](https://www.dute.org/)
 
-每天推荐一部优秀的电影：
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
 
-### [pixel-me](https://pixel-me.tokyo/en/)
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
-将你的头像像素化，质量挺好：
+### [toonme](https://toonme.com)
 
-![](https://img.turingark.com/uPic/gnHdoM.png) 
+该网站将原图绘制成可爱的卡通图片：
 
-### [pixel](https://aqeja.github.io/pixel/)
+![toonme](https://img.turingark.com/file/howie-img/uPic/toonme.jpg) 
 
-一个小工具，将你的图片像素化:
+### [w2solo](https://w2solo.com/)
 
-![;'](https://img.turingark.com/uPic/KfJuhM.png) 
+独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
 
 ## ✍️ 说明
 
