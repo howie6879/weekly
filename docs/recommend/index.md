@@ -5,85 +5,84 @@
 
 ## 🎯 项目 
 
-### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
+### [cnchar](https://github.com/theajack/cnchar)
 
-`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
+功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
 
-![LuckysheetDemo](https://img.turingark.com/uPic/LuckysheetDemo.gif) 
+![cnchar](https://img.turingark.com/uPic/cnchar.jpg) 
 
-### [ossart](https://github.com/djyde/ossart)
+### [excalidraw](https://github.com/excalidraw/excalidraw)
 
-这是一个娱乐性质的项目，可以将你最近 6年的 GitHub 活跃图打印成摆件，在官网[getoss](https://getoss.art/)填写你的用户名即可：
+免费开源的白板绘图工具（默认提供手绘风格），官方也提供了 `Web` [在线使用](https://excalidraw.com/)版：
 
-![ossart](https://img.turingark.com/uPic/5SYY8P.jpg) 
+![excalidraw](https://images-1252557999.file.myqcloud.com/uPic/excalidraw.jpg) 
 
-### [go-daily-lib](https://github.com/darjun/go-daily-lib)
+### [PPTist](https://github.com/pipipi-pikachu/PPTist)
 
-每天学习一个 Go 语言库，内容质量相当高。
+基于 Vue3.x + TypeScript 的[在线演示文稿](pipipi-pikachu.github.io/pptist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
 
-![go-daily-lib](https://img.turingark.com/uPic/4Ippyf.png) 
+![ppt-list](https://img.turingark.com/uPic/ppt-list.jpg) 
 
 ## 🤖 软件 
 
-### [legado](https://github.com/gedoor/legado)
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
 
-简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
+![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
 
-![legado](https://img.turingark.com/uPic/jSEBJ9.png) 
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-### [ntchat](https://github.com/smallevilbeast/ntchat)
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
-- 基于pc微信的api接口, 类似itchat项目
-- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
-- 支持好友和群管理 
+### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 
-### [NotepadNext](https://github.com/dail8859/NotepadNext)
+短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
 
-`Notepad++`的跨平台开源实现：
-
-![NotepadNext](https://img.turingark.com/uPic/NotepadNext.png) 
+![SmsForwarder](https://img.turingark.com/uPic/v6owv0.jpg)
+如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
 
 ## 👀 资料 
 
-### [archbase](https://github.com/foxsen/archbase)
+### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
 
-这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
 
-![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
+![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
 
-### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
 
-计算机科学课程和视频讲座列表：
+📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
 
-![cs-video-courses](https://img.turingark.com/uPic/cs-video-courses.jpg) 
+![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+### [go101](https://gfw.go101.org/article/101.html)
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
+
+![Go语言101](https://img.turingark.com/uPic/aPSFYR.png) 
 
 ## 🕸 网站 
 
-### [zerossl](https://zerossl.com/)
+### [jsonvisio](https://jsonvisio.com/editor)
 
-一个可以免费签 IP 地址 SSL 证书的网站：
+将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
 
-![zerossl](https://img.turingark.com/uPic/zerossl.jpg) 
-
-### [ziyouziti](https://ziyouziti.com/)
-
-免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
-
-![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
+![](https://img.turingark.com/uPic/jsonvisio.jpg) 
 
 ### [sayhello](https://beta.sayhello.so/)
 
 面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
 ![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+
+### [zhongguose](http://zhongguose.com/)
+
+一个中国传统颜色的配色网站：
+
+![zhongguose](https://img.turingark.com/uPic/zhongguose.jpg) 
 
 ## ✍️ 说明
 
