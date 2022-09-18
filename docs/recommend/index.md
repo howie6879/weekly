@@ -5,88 +5,85 @@
 
 ## 🎯 项目 
 
-### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
+### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
 
-该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
+`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
 
-![computer_book_list](https://img.turingark.com/uPic/uxQa5E.png) 
+![LuckysheetDemo](https://img.turingark.com/uPic/LuckysheetDemo.gif) 
 
-### [wechat-export](https://github.com/luin/wechat-export)
+### [ossart](https://github.com/djyde/ossart)
 
-将微信聊天记录导出为HTML文件：
+这是一个娱乐性质的项目，可以将你最近 6年的 GitHub 活跃图打印成摆件，在官网[getoss](https://getoss.art/)填写你的用户名即可：
 
-![wechat-export](https://img.turingark.com/uPic/eIhKUP.jpg) 
+![ossart](https://img.turingark.com/uPic/5SYY8P.jpg) 
 
-### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
+### [go-daily-lib](https://github.com/darjun/go-daily-lib)
 
-让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
+每天学习一个 Go 语言库，内容质量相当高。
+
+![go-daily-lib](https://img.turingark.com/uPic/4Ippyf.png) 
 
 ## 🤖 软件 
 
-### [avnc](https://github.com/gujjwal00/avnc)
+### [legado](https://github.com/gedoor/legado)
 
-针对 `Android` 的开源 `VNC` 客户端：
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
 
-### [Sequel-Ace](https://sequel-ace.com/)
+![legado](https://img.turingark.com/uPic/jSEBJ9.png) 
 
-原生的 `MySQL/MariaDB` 数据库管理软件：
+### [ntchat](https://github.com/smallevilbeast/ntchat)
 
-![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
+微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
+- 基于pc微信的api接口, 类似itchat项目
+- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
+- 支持好友和群管理 
 
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+### [NotepadNext](https://github.com/dail8859/NotepadNext)
 
-![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
+`Notepad++`的跨平台开源实现：
+
+![NotepadNext](https://img.turingark.com/uPic/NotepadNext.png) 
 
 ## 👀 资料 
 
-### [under-the-hood](https://golang.design/under-the-hood/)
+### [archbase](https://github.com/foxsen/archbase)
 
-`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
 
-![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
+![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
 
-### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
+### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
- Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
+计算机科学课程和视频讲座列表：
 
- ![rust_embedded_dev](https://img.turingark.com/uPic/rust_embedded_dev.jpg) 
+![cs-video-courses](https://img.turingark.com/uPic/cs-video-courses.jpg) 
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
-
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
-
-![Learn-Vim_zh_cn](https://img.turingark.com/uPic/AgGats.png) 
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
 ## 🕸 网站 
 
-### [dute](https://www.dute.org/)
+### [zerossl](https://zerossl.com/)
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
+一个可以免费签 IP 地址 SSL 证书的网站：
 
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
+![zerossl](https://img.turingark.com/uPic/zerossl.jpg) 
 
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+### [ziyouziti](https://ziyouziti.com/)
 
-### [toonme](https://toonme.com)
+免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
 
-该网站将原图绘制成可爱的卡通图片：
+![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
 
-![toonme](https://img.turingark.com/file/howie-img/uPic/toonme.jpg) 
+### [sayhello](https://beta.sayhello.so/)
 
-### [w2solo](https://w2solo.com/)
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
 ## ✍️ 说明
 
