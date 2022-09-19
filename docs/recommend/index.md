@@ -5,11 +5,19 @@
 
 ## 🎯 项目 
 
-### [cnchar](https://github.com/theajack/cnchar)
+### [qinglong](https://github.com/whyour/qinglong)
 
-功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
+支持python3、javaScript、shell、typescript 的定时任务管理面板：
 
-![cnchar](https://img.turingark.com/uPic/cnchar.jpg) 
+- 支持多种脚本语言（python3、javaScript、shell、typescript）
+- 支持在线管理脚本、环境变量、配置文件
+- 支持在线查看任务日志
+- 支持秒级任务设置
+- 支持系统级通知
+- 支持暗黑模式
+- 支持手机端操作
+
+![ql](https://images-1252557999.file.myqcloud.com/uPic/ql.jpg) 
 
 ### [excalidraw](https://github.com/excalidraw/excalidraw)
 
@@ -17,72 +25,84 @@
 
 ![excalidraw](https://images-1252557999.file.myqcloud.com/uPic/excalidraw.jpg) 
 
-### [PPTist](https://github.com/pipipi-pikachu/PPTist)
+### [yao](https://github.com/YaoApp/yao)
 
-基于 Vue3.x + TypeScript 的[在线演示文稿](pipipi-pikachu.github.io/pptist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
+`Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎：
 
-![ppt-list](https://img.turingark.com/uPic/ppt-list.jpg) 
+![yao](https://img.turingark.com/uPic/yao.jpg) 
 
 ## 🤖 软件 
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+### [Vieb](https://vieb.dev/)
 
-LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
+开源免费的全平台（PC）`Vim`风格电子浏览器：
 
-![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
+![Vieb](https://img.turingark.com/uPic/BqyWaK.png) 
 
-### [LANDrop](https://github.com/LANDrop/LANDrop)
+### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
 
-开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
+M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
 
-![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
+| 功能                 | 支持       |
+| -------------------- | ---------- |
+| HLS协议点播源        | ✓          |
+| 自定义Http协议头下载 | ✓          |
+| 自定义KEY和IV解密    | ✓          |
+| 本地M3U8文件下载     | ✓          |
+| M3U8 直播源          | ✓          |
+| 标准 AES-128-CBC加密 | ✓          |
+| 标准 AES-196-CBC加密 | ✓          |
+| 标准 AES-256-CBC加密 | ✓          |
+| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
+| 网页嗅探视频源       | ✓          |
 
-### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
+![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
 
-短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
+### [orange](https://github.com/naaive/orange)
 
-![SmsForwarder](https://img.turingark.com/uPic/v6owv0.jpg)
-如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
+基于`Rust`跨平台的文件搜索引擎：
+
+![Orange](https://img.turingark.com/uPic/Orange.jpg) 
 
 ## 👀 资料 
 
-### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
+### [Python源码剖析](https://fasionchan.com/python-source/)
 
-`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
+本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
 
-![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
+![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
 
-### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
+### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
 
-📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
+一本小书《带你入门前端工程》
 
-![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
+![](https://img.turingark.com/uPic/e783TS.png) 
 
-### [go101](https://gfw.go101.org/article/101.html)
+### [v8-internals](https://github.com/plctlab/v8-internals)
 
-《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
-
-![Go语言101](https://img.turingark.com/uPic/aPSFYR.png) 
+面向编译器开发人员的V8内部实现文档。 
 
 ## 🕸 网站 
 
-### [jsonvisio](https://jsonvisio.com/editor)
+### [emojicode](https://www.emojicode.org/)
 
-将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
+这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
 
-![](https://img.turingark.com/uPic/jsonvisio.jpg) 
+![emojicode](https://img.turingark.com/uPic/emojicode.jpg)
 
-### [sayhello](https://beta.sayhello.so/)
+现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
 
-面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
+### [recompressor](https://zh.recompressor.com/)
 
-![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+免费的图片压缩工具：
 
-### [zhongguose](http://zhongguose.com/)
+![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
 
-一个中国传统颜色的配色网站：
+### [musetransfer](https://musetransfer.com/)
 
-![zhongguose](https://img.turingark.com/uPic/zhongguose.jpg) 
+`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
+
+![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
 
 ## ✍️ 说明
 
