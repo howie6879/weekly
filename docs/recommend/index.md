@@ -5,104 +5,90 @@
 
 ## 🎯 项目 
 
-### [qinglong](https://github.com/whyour/qinglong)
+### [heti](https://github.com/sivan/heti)
 
-支持python3、javaScript、shell、typescript 的定时任务管理面板：
+赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
-- 支持多种脚本语言（python3、javaScript、shell、typescript）
-- 支持在线管理脚本、环境变量、配置文件
-- 支持在线查看任务日志
-- 支持秒级任务设置
-- 支持系统级通知
-- 支持暗黑模式
-- 支持手机端操作
+![heti](https://img.turingark.com/uPic/WrpZDT.jpg) 
 
-![ql](https://images-1252557999.file.myqcloud.com/uPic/ql.jpg) 
+### [h-m-m](https://github.com/nadrad/h-m-m)
 
-### [excalidraw](https://github.com/excalidraw/excalidraw)
+简单、快速、以键盘为中心处理思维导图的终端工具：
 
-免费开源的白板绘图工具（默认提供手绘风格），官方也提供了 `Web` [在线使用](https://excalidraw.com/)版：
+![h-m-m](https://images-1252557999.file.myqcloud.com/uPic/h-m-m.png) 
 
-![excalidraw](https://images-1252557999.file.myqcloud.com/uPic/excalidraw.jpg) 
+### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
 
-### [yao](https://github.com/YaoApp/yao)
+读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
 
-`Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎：
-
-![yao](https://img.turingark.com/uPic/yao.jpg) 
+![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
 
 ## 🤖 软件 
 
-### [Vieb](https://vieb.dev/)
+### [LawRefBook](https://github.com/RanKKI/LawRefBook)
 
-开源免费的全平台（PC）`Vim`风格电子浏览器：
+开源的法律知识速查手册：
 
-![Vieb](https://img.turingark.com/uPic/BqyWaK.png) 
+![LawRefBook](https://img.turingark.com/uPic/LawRefBook.png) 
 
-### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
+### [NotepadNext](https://github.com/dail8859/NotepadNext)
 
-M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
+`Notepad++`的跨平台开源实现：
 
-| 功能                 | 支持       |
-| -------------------- | ---------- |
-| HLS协议点播源        | ✓          |
-| 自定义Http协议头下载 | ✓          |
-| 自定义KEY和IV解密    | ✓          |
-| 本地M3U8文件下载     | ✓          |
-| M3U8 直播源          | ✓          |
-| 标准 AES-128-CBC加密 | ✓          |
-| 标准 AES-196-CBC加密 | ✓          |
-| 标准 AES-256-CBC加密 | ✓          |
-| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
-| 网页嗅探视频源       | ✓          |
+![NotepadNext](https://img.turingark.com/uPic/NotepadNext.png) 
 
-![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
+### [paperlib](https://github.com/GeoffreyChen777/paperlib)
 
-### [orange](https://github.com/naaive/orange)
+面向计算机科学的简单开源学术论文管理工具：
 
-基于`Rust`跨平台的文件搜索引擎：
-
-![Orange](https://img.turingark.com/uPic/Orange.jpg) 
+![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
 
 ## 👀 资料 
 
-### [Python源码剖析](https://fasionchan.com/python-source/)
+### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
 
-本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
+中国5级行政区域mysql库：
 
-![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
+- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
+- 港澳地区的数据只有3级;台湾地区4级
+- 包含大陆地区的邮政编码和经纬度信息 
 
-### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
+### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
 
-一本小书《带你入门前端工程》
+`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
 
-![](https://img.turingark.com/uPic/e783TS.png) 
+![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
 
-### [v8-internals](https://github.com/plctlab/v8-internals)
+### [linux-command](https://github.com/jaywcjlove/linux-command)
 
-面向编译器开发人员的V8内部实现文档。 
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
+
+![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
 
 ## 🕸 网站 
 
-### [emojicode](https://www.emojicode.org/)
+### [linggle](https://linggle.com/)
 
-这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
+免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
 
-![emojicode](https://img.turingark.com/uPic/emojicode.jpg)
+![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
 
-现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
+### [aosabook](http://aosabook.org/en/index.html)
 
-### [recompressor](https://zh.recompressor.com/)
+网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
 
-免费的图片压缩工具：
+- ZeroMQ
+- Chrome
+- Nginx
+- 等等
 
-![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
+上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
 
-### [musetransfer](https://musetransfer.com/)
+### [uipatterns](http://uipatterns.io/) 
 
-`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
+程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
 
-![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
+![](https://img.turingark.com/uPic/uipatterns.jpg) 
 
 ## ✍️ 说明
 
