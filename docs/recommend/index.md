@@ -5,90 +5,84 @@
 
 ## 🎯 项目 
 
-### [heti](https://github.com/sivan/heti)
+### [QRec](https://github.com/Coder-Yu/QRec)
 
-赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+Python编写的推荐系统快速实践框架（基于TF），和之前推荐的[gorse](https://weekly.howie6879.cn/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E6%8E%A8%E8%8D%90#gorse)有点类似，但不同的是QRec提供了领先的推荐系统模型用于实践。 
 
-![heti](https://img.turingark.com/uPic/WrpZDT.jpg) 
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 
-### [h-m-m](https://github.com/nadrad/h-m-m)
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
 
-简单、快速、以键盘为中心处理思维导图的终端工具：
+![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
 
-![h-m-m](https://images-1252557999.file.myqcloud.com/uPic/h-m-m.png) 
+### [mkcert](https://github.com/FiloSottile/mkcert)
 
-### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
+`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
 
-读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
-
-![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
+![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
 
 ## 🤖 软件 
 
-### [LawRefBook](https://github.com/RanKKI/LawRefBook)
+### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
 
-开源的法律知识速查手册：
+`TinyPNG`的`Mac`客户端：
 
-![LawRefBook](https://img.turingark.com/uPic/LawRefBook.png) 
+![TinyPNG4Mac](https://img.turingark.com/uPic/TinyPNG4Mac.png) 
 
-### [NotepadNext](https://github.com/dail8859/NotepadNext)
+### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
 
-`Notepad++`的跨平台开源实现：
+谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
 
-![NotepadNext](https://img.turingark.com/uPic/NotepadNext.png) 
+![temp_mail](https://img.turingark.com/uPic/M4DZPI.png) 
 
-### [paperlib](https://github.com/GeoffreyChen777/paperlib)
+### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
 
-面向计算机科学的简单开源学术论文管理工具：
+`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
 
-![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
+- Support Intel
+- Support Apple Silicon (M1 & M2)
+- Network
+- USB 
 
 ## 👀 资料 
 
-### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-中国5级行政区域mysql库：
+一份程序员延寿指南，目标是稳健地活得更久。 
 
-- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
-- 港澳地区的数据只有3级;台湾地区4级
-- 包含大陆地区的邮政编码和经纬度信息 
+### [unplugged](https://github.com/liuxinyu95/unplugged)
 
-### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
+刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
 
-`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
+![unplugged](https://img.turingark.com/uPic/Xnip2021-10-23_21-49-37.jpg)
 
-![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
+如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
 
-### [linux-command](https://github.com/jaywcjlove/linux-command)
+### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
 
-Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
-
-![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
+一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
 
 ## 🕸 网站 
 
-### [linggle](https://linggle.com/)
+### [readme.so](https://readme.so/)
 
-免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
+一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
 
-![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
+![readme_so](https://img.turingark.com/uPic/readme_so.jpg) 
 
-### [aosabook](http://aosabook.org/en/index.html)
+### [bookmark.style](https://www.bookmark.style/)
 
-网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
+将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
 
-- ZeroMQ
-- Chrome
-- Nginx
-- 等等
+![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
 
-上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
+假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
 
-### [uipatterns](http://uipatterns.io/) 
+### [gh-card.dev](https://gh-card.dev/)
 
-程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
+免费为你的 `Github` 开源项目生成卡片的网站：
 
-![](https://img.turingark.com/uPic/uipatterns.jpg) 
+![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
 
 ## ✍️ 说明
 
