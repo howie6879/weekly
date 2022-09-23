@@ -5,94 +5,81 @@
 
 ## 🎯 项目 
 
-### [zinc](https://github.com/prabhatsharma/zinc)
+### [metabase](https://github.com/metabase/metabase)
 
-`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
+为公司提供的快速BI数据可视化工具：
 
-- 全文索引能力
-- 快速运行，多平台支持
-- 基于Vue的Web UI
-- 兼容ES API
-- 开箱即用的验证功能
-- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
+![metabase](https://images-1252557999.file.myqcloud.com/uPic/metabase.png)
 
-![zinc](https://img.turingark.com/uPic/P9OAA1.jpg) 
+也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.cn/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease) 
 
-### [appwrite](https://github.com/appwrite/appwrite)
+### [mall-cook](https://github.com/wangyuan389/mall-cook)
 
-`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
+Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
 
-![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
+![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
 
-### [filebrowser](https://github.com/filebrowser/filebrowser)
+### [freed](https://github.com/YuanHsing/freed)
 
-这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
-
-除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
-
-![filebrowser](https://img.turingark.com/uPic/50716739-ebd26700-107a-11e9-9817-14230c53efd2.gif) 
+这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
 
 ## 🤖 软件 
 
-### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 
-网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
 
-![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
+![DOS](https://img.turingark.com/uPic/DOS.png) 
 
-### [licecap](https://github.com/justinfrankel/licecap)
+### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
 
-LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
+自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
 
-### [Macast](https://github.com/xfangfang/Macast)
+![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
 
-Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
+### [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
-![Macast](https://img.turingark.com/uPic/CXYyQX.jpg) 
+`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+
+![appflowy](https://img.turingark.com/uPic/JhzdLT.jpg) 
 
 ## 👀 资料 
 
-### [paper-reading](https://github.com/mli/paper-reading)
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+ 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
 
-![paper-reading](https://img.turingark.com/uPic/7e52UU.png) 
+### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
 
-### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
+针对新人的 `CSS` 入门级教程：
 
-通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
+![](https://img.turingark.com/uPic/EnSWJn.png)
 
-- 通过编写测试学习 Go 语言
-- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
-- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
+在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
 
-![lgwt](https://img.turingark.com/uPic/lgwt.jpg) 
+### [programming-math-science](https://github.com/bobeff/programming-math-science) 
 
-### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
-
-从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
-
-![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
+国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
 ## 🕸 网站 
 
-### [emojiall](https://www.emojiall.com/)
+### [qrcode-monkey](https://www.qrcode-monkey.com/#)
 
-网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
+免费的二维码生成网站：
 
-![emojiall](https://img.turingark.com/uPic/emojiall.jpg) 
+![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
 
-### [batnoter](https://batnoter.com/)
+### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
 
-### [devdocs](https://devdocs.io/)
+### [meow.tg](https://meow.tg/)
 
-提供在线快速查找API接口文档的网站：
+TG喵-可能是最懂你的Telegram资源搜索引擎:
 
-![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
+![meow](https://images-1252557999.file.myqcloud.com/uPic/meow.jpg) 
 
 ## ✍️ 说明
 
