@@ -5,111 +5,94 @@
 
 ## 🎯 项目 
 
-### [taskcafe](https://github.com/JordanKnott/taskcafe)
+### [zinc](https://github.com/prabhatsharma/zinc)
 
-带看板的开源项目管理工具:
+`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
 
-- 通过看板界面管理任务（设置截止日期、标签、添加清单）
-- 通过我的任务视图查看所有当前分配的任务
-- 支持个人项目
-- 任务评论和活动
+- 全文索引能力
+- 快速运行，多平台支持
+- 基于Vue的Web UI
+- 兼容ES API
+- 开箱即用的验证功能
+- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
 
-![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
+![zinc](https://img.turingark.com/uPic/P9OAA1.jpg) 
 
-### [logto](https://github.com/logto-io/logto)
+### [appwrite](https://github.com/appwrite/appwrite)
 
-`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
+`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
 
-核心功能：
+![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
 
-- 一个基于 `OIDC` 的身份服务
-- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
-- 动态短信/邮件验证码登录/注册
-- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
-- 基于 web 的图形化管理控制台
-- 可扩展的多语言支持
+### [filebrowser](https://github.com/filebrowser/filebrowser)
 
-![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
+这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
 
-### [MRDOC](https://mrdoc.pro/)
+除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
 
-`MRDOC`觅思文档，私有云笔记、云文档和知识库系统，适合作为私有云文档、云笔记和知识管理的私有化在线文档部署方案。
-
-分为开源版和付费版，小团队可以考虑使用：
-
-![MRDOC](https://img.turingark.com/uPic/u43buW.png) 
+![filebrowser](https://img.turingark.com/uPic/50716739-ebd26700-107a-11e9-9817-14230c53efd2.gif) 
 
 ## 🤖 软件 
 
-### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
+### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
 
-`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
+网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
 
-- Support Intel
-- Support Apple Silicon (M1 & M2)
-- Network
-- USB 
+![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
 
-### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+### [licecap](https://github.com/justinfrankel/licecap)
 
-适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
+LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
 
-- **免费**：本项目所有代码开源，完全免费。
-- **方便**：解压即用，无需安装。不需要网络。
-- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
-- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
+### [Macast](https://github.com/xfangfang/Macast)
 
-![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
+Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
 
-### [logseq](https://github.com/logseq/logseq)
-
-Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
-
-![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
+![Macast](https://img.turingark.com/uPic/CXYyQX.jpg) 
 
 ## 👀 资料 
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+### [paper-reading](https://github.com/mli/paper-reading)
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-### [nlp-with-transformers](https://github.com/nlp-with-transformers)
+![paper-reading](https://img.turingark.com/uPic/7e52UU.png) 
 
-书籍《基于Transformers的自然语言处理》的代码仓库：
+### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
 
-![](https://img.turingark.com/uPic/A6MiF5.jpg) 
+通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
 
-### [easy_rust](https://github.com/Dhghomon/easy_rust)
+- 通过编写测试学习 Go 语言
+- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
+- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
 
-现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
+![lgwt](https://img.turingark.com/uPic/lgwt.jpg) 
 
-你可以用以下方式浏览：
+### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
 
-- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
-- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
-- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
+从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
 
-![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
+![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [neeva](https://neeva.com/search)
+### [emojiall](https://www.emojiall.com/)
 
-前谷歌工程师构建的免费无广告的搜索引擎，搜索效果挺好：
+网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
 
-![neeva](https://images-1252557999.file.myqcloud.com/uPic/neeva.jpg) 
+![emojiall](https://img.turingark.com/uPic/emojiall.jpg) 
 
-### [一证通查](https://getsimnum.caict.ac.cn/#/)
+### [batnoter](https://batnoter.com/)
 
-自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-![phone_query](https://img.turingark.com/uPic/phone_query.png) 
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
-### [toonme](https://toonme.com)
+### [devdocs](https://devdocs.io/)
 
-该网站将原图绘制成可爱的卡通图片：
+提供在线快速查找API接口文档的网站：
 
-![toonme](https://img.turingark.com/file/howie-img/uPic/toonme.jpg) 
+![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
 
 ## ✍️ 说明
 
