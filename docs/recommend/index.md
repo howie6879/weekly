@@ -5,81 +5,86 @@
 
 ## 🎯 项目 
 
-### [metabase](https://github.com/metabase/metabase)
+### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
 
-为公司提供的快速BI数据可视化工具：
+`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
 
-![metabase](https://images-1252557999.file.myqcloud.com/uPic/metabase.png)
+![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
 
-也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.cn/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease) 
+### [umami](https://github.com/umami-software/umami)
 
-### [mall-cook](https://github.com/wangyuan389/mall-cook)
+`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
 
-Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
+![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
 
-![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
+### [homelab](https://github.com/khuedoan/homelab)
 
-### [freed](https://github.com/YuanHsing/freed)
+一个开源的家用自托管基础设施项目，支持自动配置、操作和更新各类自托管服务，可用于打造自己的家庭开发实验室。其中包括代码自托管、证书管理、CI/CD 持续集成与交付、K8s 自动化安装和管理、实时聊天系统、应用监控面板等功能。
 
-这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
+![homelab](https://img.turingark.com/uPic/gB9qTV.jpg) 
 
 ## 🤖 软件 
 
-### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
+### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
 
-中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
+使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
 
-![DOS](https://img.turingark.com/uPic/DOS.png) 
+- 支持下载无水印视频
+- 支持下载某个账号号的所有视频
 
-### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
+![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
 
-自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
+### [Readhubn](https://github.com/shensven/Readhubn)
 
-![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
+如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
 
-### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+![readhub](https://img.turingark.com/uPic/pZfUjT.png) 
 
-`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+### [lapce](https://github.com/lapce/lapce)
 
-![appflowy](https://img.turingark.com/uPic/JhzdLT.jpg) 
+基于`Rust`的强大、轻量快速的代码编辑器：
+
+![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
 
 ## 👀 资料 
 
-### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+### [archbase](https://github.com/foxsen/archbase)
 
- 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
 
-### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
+![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
 
-针对新人的 `CSS` 入门级教程：
+### [easy-rl](https://github.com/datawhalechina/easy-rl)
 
-![](https://img.turingark.com/uPic/EnSWJn.png)
+强化学习中文教程：
 
-在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
+![easy_rl](https://img.turingark.com/uPic/easy_rl.jpg) 
 
-### [programming-math-science](https://github.com/bobeff/programming-math-science) 
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
+《Mastering GO》中文译本，《玩转 GO》：
+
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
 ## 🕸 网站 
 
-### [qrcode-monkey](https://www.qrcode-monkey.com/#)
+### [batnoter](https://batnoter.com/)
 
-免费的二维码生成网站：
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
-### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
+### [futurecoder](https://futurecoder.io/course/#ide)
 
-这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
+一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
 
-![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
+![futurecoder](https://img.turingark.com/uPic/futurecoder.jpg) 
 
-### [meow.tg](https://meow.tg/)
+### [calmcode](https://calmcode.io/)
 
-TG喵-可能是最懂你的Telegram资源搜索引擎:
+非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
 
-![meow](https://images-1252557999.file.myqcloud.com/uPic/meow.jpg) 
+![calmcode](https://img.turingark.com/uPic/xjvt2J.png) 
 
 ## ✍️ 说明
 
