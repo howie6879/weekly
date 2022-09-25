@@ -5,86 +5,100 @@
 
 ## 🎯 项目 
 
-### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
+### [Cloudreve](https://github.com/cloudreve/Cloudreve)
 
-`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
+支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
 
-![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
+- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
+- 📤  上传/下载 支持客户端直传，支持下载限速
+- 💾  可对接 Aria2 离线下载
+- 📚  在线 压缩/解压缩、多文件打包下载
+- 💻  覆盖全部存储策略的 WebDAV 协议支持
+- ⚡  拖拽上传、目录上传、流式上传处理
+- 🗃️  文件拖拽管理
+- 👩‍👧‍👦  多用户、用户组
+- 🔗  创建文件、目录的分享链接，可设定自动过期
+- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
+- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
+- 🚀  All-In-One 打包，开箱即用
+- 🌈  ... ...
 
-### [umami](https://github.com/umami-software/umami)
+![Cloudreve](https://img.turingark.com/uPic/opzEP2.jpg) 
 
-`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
+### [MRDOC](https://mrdoc.pro/)
 
-![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
+`MRDOC`觅思文档，私有云笔记、云文档和知识库系统，适合作为私有云文档、云笔记和知识管理的私有化在线文档部署方案。
 
-### [homelab](https://github.com/khuedoan/homelab)
+分为开源版和付费版，小团队可以考虑使用：
 
-一个开源的家用自托管基础设施项目，支持自动配置、操作和更新各类自托管服务，可用于打造自己的家庭开发实验室。其中包括代码自托管、证书管理、CI/CD 持续集成与交付、K8s 自动化安装和管理、实时聊天系统、应用监控面板等功能。
+![MRDOC](https://img.turingark.com/uPic/u43buW.png) 
 
-![homelab](https://img.turingark.com/uPic/gB9qTV.jpg) 
+### [budibase](https://github.com/Budibase/budibase)
+
+`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
+
+![budibase](https://img.turingark.com/uPic/bCfcQe.jpg) 
 
 ## 🤖 软件 
 
-### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
+### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
 
-使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
+安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
 
-- 支持下载无水印视频
-- 支持下载某个账号号的所有视频
+- [美团买菜版本](https://github.com/qulingyuan/robVeg)
+- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
 
-![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
+### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
 
-### [Readhubn](https://github.com/shensven/Readhubn)
+`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
 
-如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
+![Miao](https://img.turingark.com/uPic/Miao.png) 
 
-![readhub](https://img.turingark.com/uPic/pZfUjT.png) 
+### [Focalboard](https://github.com/mattermost/focalboard)
 
-### [lapce](https://github.com/lapce/lapce)
+`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
 
-基于`Rust`的强大、轻量快速的代码编辑器：
-
-![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
+![Focalboard](https://img.turingark.com/uPic/K3Ibbl.jpg) 
 
 ## 👀 资料 
 
-### [archbase](https://github.com/foxsen/archbase)
+### [TLCL](https://billie66.github.io/TLCL/book/)
 
-这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+`The Linux Command Line` 中文翻译：
 
-![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
+![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
+### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
 
-强化学习中文教程：
+打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
 
-![easy_rl](https://img.turingark.com/uPic/easy_rl.jpg) 
+![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
 
-### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-《Mastering GO》中文译本，《玩转 GO》：
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
 
-![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
 ## 🕸 网站 
 
-### [batnoter](https://batnoter.com/)
+### [musicforprogramming](https://musicforprogramming.net/latest/)
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+非常极客的背景音乐网站：
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
 
-### [futurecoder](https://futurecoder.io/course/#ide)
+### [mycolor.space](https://mycolor.space/)：
 
-一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
+渐变配色生成器，自动生成 `CSS` 代码：
 
-![futurecoder](https://img.turingark.com/uPic/futurecoder.jpg) 
+![mycolor](https://images-1252557999.file.myqcloud.com/uPic/mycolor.jpg) 
 
-### [calmcode](https://calmcode.io/)
+### [macosicons](https://macosicons.com/)
 
-非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
+网站基本上覆盖了热门`Mac APP`图标，你可以选择自己喜欢的图标进行替换，让自己的`Mac`更加漂亮且个性化。
 
-![calmcode](https://img.turingark.com/uPic/xjvt2J.png) 
+![macosicons](https://images-1252557999.file.myqcloud.com/uPic/macosicons.png) 
 
 ## ✍️ 说明
 
