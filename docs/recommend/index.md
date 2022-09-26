@@ -5,100 +5,106 @@
 
 ## 🎯 项目 
 
-### [Cloudreve](https://github.com/cloudreve/Cloudreve)
+### [memos](https://github.com/justmemos/memos)
 
-支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
+Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
 
-- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
-- 📤  上传/下载 支持客户端直传，支持下载限速
-- 💾  可对接 Aria2 离线下载
-- 📚  在线 压缩/解压缩、多文件打包下载
-- 💻  覆盖全部存储策略的 WebDAV 协议支持
-- ⚡  拖拽上传、目录上传、流式上传处理
-- 🗃️  文件拖拽管理
-- 👩‍👧‍👦  多用户、用户组
-- 🔗  创建文件、目录的分享链接，可设定自动过期
-- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
-- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
-- 🚀  All-In-One 打包，开箱即用
-- 🌈  ... ...
+**🎯 产品意图**:
 
-![Cloudreve](https://img.turingark.com/uPic/opzEP2.jpg) 
+- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
+- 🏗️ 代替了微信“文件传输助手”
+- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
 
-### [MRDOC](https://mrdoc.pro/)
+### [ddddocr](https://github.com/sml2h3/ddddocr)
 
-`MRDOC`觅思文档，私有云笔记、云文档和知识库系统，适合作为私有云文档、云笔记和知识管理的私有化在线文档部署方案。
+一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
 
-分为开源版和付费版，小团队可以考虑使用：
+![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
 
-![MRDOC](https://img.turingark.com/uPic/u43buW.png) 
+### [paopao-ce](https://github.com/rocboss/paopao-ce)
 
-### [budibase](https://github.com/Budibase/budibase)
+🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
 
-`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
+- [Go](https://go.dev/)
+- [Gin](https://gin-gonic.com/)
+- [Zinc](https://zinclabs.io/)
+- [Naive UI](https://www.naiveui.com/)
+- [Vue.js](https://vuejs.org/)
+- [Vite.js](https://vitejs.dev/)
 
-![budibase](https://img.turingark.com/uPic/bCfcQe.jpg) 
+![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
+
+网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
 
 ## 🤖 软件 
 
-### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
+### [licecap](https://github.com/justinfrankel/licecap)
 
-安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
+LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
 
-- [美团买菜版本](https://github.com/qulingyuan/robVeg)
-- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
+### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 
-### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
+这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
 
-`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
+`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
 
-![Miao](https://img.turingark.com/uPic/Miao.png) 
+- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
+  
+- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
+  
 
-### [Focalboard](https://github.com/mattermost/focalboard)
+![neteasy](https://img.turingark.com/uPic/neteasy.png) 
 
-`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
+### [Readhubn](https://github.com/shensven/Readhubn)
 
-![Focalboard](https://img.turingark.com/uPic/K3Ibbl.jpg) 
+如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
+
+![readhub](https://img.turingark.com/uPic/pZfUjT.png) 
 
 ## 👀 资料 
 
-### [TLCL](https://billie66.github.io/TLCL/book/)
+### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
 
-`The Linux Command Line` 中文翻译：
+通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
 
-![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
+- 通过编写测试学习 Go 语言
+- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
+- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
 
-### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
+![lgwt](https://img.turingark.com/uPic/lgwt.jpg) 
 
-打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
+### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
 
-![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
+本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
-
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
 
 ## 🕸 网站 
 
-### [musicforprogramming](https://musicforprogramming.net/latest/)
+### [阿里云知行动手实验室](https://start.aliyun.com/)
 
-非常极客的背景音乐网站：
+这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
 
-![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
+网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
 
-### [mycolor.space](https://mycolor.space/)：
+我选了一个`k8s`教程尝试了下，嗯，挺香的：
 
-渐变配色生成器，自动生成 `CSS` 代码：
+![start-ali](https://img.turingark.com/uPic/LIfQqw.png) 
 
-![mycolor](https://images-1252557999.file.myqcloud.com/uPic/mycolor.jpg) 
+### [Connected Papers](https://www.connectedpapers.com/)
 
-### [macosicons](https://macosicons.com/)
+`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
 
-网站基本上覆盖了热门`Mac APP`图标，你可以选择自己喜欢的图标进行替换，让自己的`Mac`更加漂亮且个性化。
+![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
+是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
 
-![macosicons](https://images-1252557999.file.myqcloud.com/uPic/macosicons.png) 
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
+
+![YYeTsBot](https://img.turingark.com/uPic/5bwPfx.jpg) 
 
 ## ✍️ 说明
 
