@@ -5,93 +5,63 @@
 
 ## 🎯 项目 
 
-### [memos](https://github.com/justmemos/memos)
+### [tinysearch](https://github.com/tinysearch/tinysearch)
 
-Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
+轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
 
-**🎯 产品意图**:
+### [flet](https://github.com/flet-dev/flet)
 
-- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
-- 🏗️ 代替了微信“文件传输助手”
-- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
+用 `Python` 开发跨平台 `Flutter` 应用：
 
-### [ddddocr](https://github.com/sml2h3/ddddocr)
+![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
 
-一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
+### [nativefier](https://github.com/nativefier/nativefier)
 
-![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
+这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
 
-### [paopao-ce](https://github.com/rocboss/paopao-ce)
-
-🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
-
-- [Go](https://go.dev/)
-- [Gin](https://gin-gonic.com/)
-- [Zinc](https://zinclabs.io/)
-- [Naive UI](https://www.naiveui.com/)
-- [Vue.js](https://vuejs.org/)
-- [Vite.js](https://vitejs.dev/)
-
-![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
-
-网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
+![nativefier_walkthrough](https://img.turingark.com/uPic/nativefier_walkthrough.gif) 
 
 ## 🤖 软件 
 
-### [licecap](https://github.com/justinfrankel/licecap)
+### [KOReader](https://github.com/koreader/koreader)
 
-LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
+KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
 
-### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
+![koreader](https://img.turingark.com/uPic/koreader.jpg) 
 
-这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
+### [lapce](https://github.com/lapce/lapce)
 
-`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
+基于`Rust`的强大、轻量快速的代码编辑器：
 
-- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
-  
-- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
-  
+![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
 
-![neteasy](https://img.turingark.com/uPic/neteasy.png) 
+### [ReadYou](https://github.com/Ashinch/ReadYou)
 
-### [Readhubn](https://github.com/shensven/Readhubn)
+这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
 
-如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
-
-![readhub](https://img.turingark.com/uPic/pZfUjT.png) 
+![ReadYou](https://img.turingark.com/uPic/ReadYou.jpg) 
 
 ## 👀 资料 
 
-### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
+### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 
-通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
+微软设计的机器学习课程，完全面向新手：
 
-- 通过编写测试学习 Go 语言
-- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
-- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
+- 时间：12周
+- 课程：25课
+- 实验：50个 
 
-![lgwt](https://img.turingark.com/uPic/lgwt.jpg) 
+### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
 
-### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
+张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
 
-本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
+![rust_magazine](https://img.turingark.com/uPic/FvKrE4.png) 
 
-### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
+ 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
 
 ## 🕸 网站 
-
-### [阿里云知行动手实验室](https://start.aliyun.com/)
-
-这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
-
-网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
-
-我选了一个`k8s`教程尝试了下，嗯，挺香的：
-
-![start-ali](https://img.turingark.com/uPic/LIfQqw.png) 
 
 ### [Connected Papers](https://www.connectedpapers.com/)
 
@@ -100,11 +70,17 @@ golang资料补给包（满血战斗），包含文章，书籍，作者论文�
 ![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
 是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
 
-### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+### [star-history](https://star-history.com/)
 
-人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
+在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
 
-![YYeTsBot](https://img.turingark.com/uPic/5bwPfx.jpg) 
+![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
+
+### [websequencediagrams](https://www.websequencediagrams.com/)
+
+提供在线绘制时序图的网站：
+
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
 ## ✍️ 说明
 
