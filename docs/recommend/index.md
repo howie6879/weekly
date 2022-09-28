@@ -5,61 +5,75 @@
 
 ## 🎯 项目 
 
-### [tinysearch](https://github.com/tinysearch/tinysearch)
+### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
 
-轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
+CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
 
-### [flet](https://github.com/flet-dev/flet)
+![CasaOS](https://img.turingark.com/uPic/rA4tpa.jpg) 
 
-用 `Python` 开发跨平台 `Flutter` 应用：
+### [Feeddd](https://github.com/feeddd/feeds)
 
-![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
+![Feeddd](https://img.turingark.com/uPic/5a9np8.jpg)
 
-### [nativefier](https://github.com/nativefier/nativefier)
+一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
 
-这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
+### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
 
-![nativefier_walkthrough](https://img.turingark.com/uPic/nativefier_walkthrough.gif) 
+相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
+
+如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
 
 ## 🤖 软件 
 
-### [KOReader](https://github.com/koreader/koreader)
+### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
 
-KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
+`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
 
-![koreader](https://img.turingark.com/uPic/koreader.jpg) 
+![Miao](https://img.turingark.com/uPic/Miao.png) 
 
-### [lapce](https://github.com/lapce/lapce)
+### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 
-基于`Rust`的强大、轻量快速的代码编辑器：
+一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
 
-![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
+- 隐藏桌面图标
+- 番茄钟
+- 快速进入夜间模式
+- 隐藏刘海
+- 保持唤醒
+- 清理 Xcode 缓存
+- 支持快捷方式库，可以自己开发
+- ...
 
-### [ReadYou](https://github.com/Ashinch/ReadYou)
+![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png) 
 
-这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
+### [fluent-reader](https://github.com/yang991178/fluent-reader)
 
-![ReadYou](https://img.turingark.com/uPic/ReadYou.jpg) 
+一款拥有现代化界面的RSS阅读器，拥有以下特性：
+
+- 跨平台
+- 可同步自部署服务以及外部服务如：Inoreader, Feedbin
+- 支持OPML导入导出
+- 正则检索，状态管控，快捷键等
+
+![fluent-reader](https://img.turingark.com/uPic/fluent-reader.png) 
 
 ## 👀 资料 
 
-### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+### [netkiller](https://www.netkiller.cn/)
 
-微软设计的机器学习课程，完全面向新手：
+作者持续写了将近20年的技术博文，涵盖面极广：
 
-- 时间：12周
-- 课程：25课
-- 实验：50个 
+![netkiller](https://img.turingark.com/uPic/V7rzw3.png) 
 
-### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
+### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
+24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
 
-![rust_magazine](https://img.turingark.com/uPic/FvKrE4.png) 
+![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
 
-### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
 
- 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
+编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
 
 ## 🕸 网站 
 
@@ -70,17 +84,17 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 ![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
 是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
 
-### [star-history](https://star-history.com/)
+### [itnext](https://itnext.cn/)
 
-在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
+一个介绍元宇宙的网站：
 
-![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
+![itnext](https://img.turingark.com/uPic/yc7Zhp.png) 
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+### [ray.so](https://ray.so/)
 
-提供在线绘制时序图的网站：
+之前在[我的周刊（第032期）](https://weekly.howie6879.cn/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+![ray.so](https://img.turingark.com/uPic/ray.so.jpg) 
 
 ## ✍️ 说明
 
