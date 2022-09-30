@@ -5,87 +5,81 @@
 
 ## 🎯 项目 
 
-### [ar5iv](https://github.com/dginev/ar5iv)
+### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
 
-`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
+不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
 
-![ar5iv](https://img.turingark.com/uPic/ar5iv.jpg) 
+### [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)
 
-### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
+朋友圈转发截图生成工具，这个项目确实解决了一些号主做活动要求发朋友圈的需求：
 
-鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
+![](https://img.turingark.com/uPic/Xnip2022-02-22_09-42-52.jpg) 
 
-![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
+### [aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse/)
 
-### [nocobase](https://github.com/nocobase/nocobase)
-
-NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
-
-![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
+本项目则直接通过 FUSE 实现将阿里云盘挂载为本地磁盘，非常好用，我是这个项目作者的粉丝。 
 
 ## 🤖 软件 
 
-### [tts-now](https://github.com/funnyzak/tts-now)
+### [BetterDummy](https://github.com/waydabber/BetterDummy)
 
-基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
+`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
 
-![](https://img.turingark.com/uPic/Se6U0t.jpg) 
+![bd_menu](https://img.turingark.com/uPic/bd_menu.png)
 
-### [BlogHelper](https://github.com/onblog/BlogHelper)
+如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
 
-帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
+### [ptg](https://github.com/crossoverJie/ptg)
 
-![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
+让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
 
-### [Gif123](https://github.com/aardio/Gif123)
+![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
 
-非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
+### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
 
-![Gif123](https://img.turingark.com/uPic/FQabyv.jpg) 
+B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
+
+![](https://img.turingark.com/uPic/F42ndl.jpg) 
 
 ## 👀 资料 
 
-### 认知偏差知识手册
+### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
 
-字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+重新分类 Leetcode 高频题 2021 版
 
-![cb](https://img.turingark.com/uPic/cb.jpg) 
+- 题目按照面试频率降序排列
+- 增加难度分类，适合从简单开始学习
+- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
 
-### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
+### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
 
-Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
 
-![eng-practices](https://img.turingark.com/uPic/rDrm0R.png) 
+### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
-### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
-
-一本小书《带你入门前端工程》
-
-![](https://img.turingark.com/uPic/e783TS.png) 
+本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
 
 ## 🕸 网站 
 
-### [myfirstnft](https://myfirstnft.info/)
+### [eja.tv](https://eja.tv/?)
 
-我的第一个NFT，在这个网站，你可以：
+提供3808个在线电视频道，包含143个国家以及82种不同语言。
 
-- 理解NFT的价值
-- 铸造一个免费的NFT
-- 了解Web3.0
+![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
 
-![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
+### [linegraphmaker](https://linegraphmaker.co/)
 
-### [bgsub](https://bgsub.cn/webapp)
+在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
 
-消除或者替换图像背景，无需上传图像：
+![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
 
-![bgsub](https://images-1252557999.file.myqcloud.com/uPic/bgsub.jpg) 
+### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
 
-### [linggle](https://linggle.com/)
+目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
 
-免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
+![privacy-policy](https://img.turingark.com/uPic/U5XxZE.png)
 
-![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
+![terms-and-conditions](https://img.turingark.com/uPic/jH8Xyz.png) 
 
 ## ✍️ 说明
 
