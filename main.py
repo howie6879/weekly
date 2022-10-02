@@ -82,7 +82,6 @@ def gen_weekly_title(years: int):
 
     # 获取yaml配置
     mkdocs_config = read_mkdocs_config()
-    print(mkdocs_config)
     # 赋值
     for each in mkdocs_config["nav"]:
         for key, _ in each.items():
