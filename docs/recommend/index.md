@@ -5,118 +5,85 @@
 
 ## 🎯 项目 
 
-### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
+### [tabler](https://github.com/tabler/tabler)
 
-如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
+基于 `Bootstrap` 的免费开源的 `Dashboard UI` 工具包：
 
-- 教程
-- 软件
-- 工具&服务
-- 社区
-- ......
+![tabler-preview](https://images-1252557999.file.myqcloud.com/uPic/tabler-preview.png) 
 
-你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
+### [ceresdb](https://github.com/CeresDB/ceresdb)
 
-- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
-- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
+蚂蚁金服 `Rust` 实现的时序数据库正式开源，`CeresDB` 是一款高性能、分布式、`Schema-less` 的云原生时序数据库，能够同时处理时序型（time-series）以及分析型（analytics）负载。：
 
-![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
+![CeresDB](https://images-1252557999.file.myqcloud.com/uPic/CeresDB.png) 
 
-### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
+### [hoppscotch](https://github.com/hoppscotch/hoppscotch)
 
-`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
+`Hoppscotch`对标的是`Postman`，相信涉及到后端接口这块大家都对`Postman`非常熟悉，但`Postman`自从收费后，评价就慢慢开始不行了，而且软件也越来越重，我本人也是同感，不然我也没有动机找到`hoppscotch`来替换。
 
-![Real-ESRGAN](https://img.turingark.com/uPic/DBST14.jpg) 
+有恶龙就有勇士，有位印度裔小哥`Liyas Thomas`坐不住了，对`Postman`非常不爽，于是他自己开发了`Postwoman`，看这个名字也知道是干嘛的，后面改名为`Hoppscotch`。
 
-### [laf](https://github.com/labring/laf)
+开源的魅力就在这里，永远有人做出让大家欢呼的贡献，所以`Hoppscotch`在社区获得非常高的认可度（目前已经30K Star+），其提供了非常丰富的特性，部署也很方便，有兴趣的可以尝试使用看看：
 
-laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
-
-- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
-- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
-- 云数据库，为应用开发提供开箱即用的数据库服务
-- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
-- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
-- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
-- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
-- WebSocket，应用支持长连接，业务无死角
-
-![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
+![hoppscotch](https://img.turingark.com/uPic/sPde7J.png) 
 
 ## 🤖 软件 
 
-### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
+### [BlogHelper](https://github.com/onblog/BlogHelper)
 
-这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
+帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
 
-- SSH连接操作
-- Jupyter支持
-- Code Server（Web版VS Code） 支持
-- 文件管理支持
-- 自带Python：写点常用脚本不在话下
-- 上手深度学习
-- 等等
+![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
 
-这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
+### [Übersicht](https://github.com/felixhageloh/uebersicht)
 
-![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
+构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
 
-### [hetty](https://github.com/dstotijn/hetty)
+![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
 
-`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
+### [Gif123](https://github.com/aardio/Gif123)
 
-![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
+非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
 
-### [Focalboard](https://github.com/mattermost/focalboard)
-
-`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
-
-![Focalboard](https://img.turingark.com/uPic/K3Ibbl.jpg) 
+![Gif123](https://img.turingark.com/uPic/FQabyv.jpg) 
 
 ## 👀 资料 
 
-### [2d2d](https://2d2d.io/)
+### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
 
-《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建我开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
+本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
 
-![2d2d](https://img.turingark.com/uPic/2d2d.jpg) 
+![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+### [react-illustration-series](https://github.com/7kms/react-illustration-series)
 
-夯实计算机基础，该怎么学，这个项目给出了答案：
+图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
 
-![TeachYourselfCS](https://img.turingark.com/uPic/hKl2yK.png) 
+### [archbase](https://github.com/foxsen/archbase)
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
-
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
-
-![Learn-Vim_zh_cn](https://img.turingark.com/uPic/AgGats.png) 
+![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
 
 ## 🕸 网站 
 
-### [Connected Papers](https://www.connectedpapers.com/)
+### [itnext](https://itnext.cn/)
 
-`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
+一个介绍元宇宙的网站：
 
-![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
-是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
+![itnext](https://img.turingark.com/uPic/yc7Zhp.png) 
 
-### [carbon](https://carbon.now.sh/)
+### [emojiall](https://www.emojiall.com/)
 
-将你的源代码转成漂亮可分享的图片：
+网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
 
-![carbon](https://img.turingark.com/uPic/carbon.jpg) 
+![emojiall](https://img.turingark.com/uPic/emojiall.jpg) 
 
-### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
+### [qrcode-monkey](https://www.qrcode-monkey.com/#)
 
-目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
+免费的二维码生成网站：
 
-![privacy-policy](https://img.turingark.com/uPic/U5XxZE.png)
-
-![terms-and-conditions](https://img.turingark.com/uPic/jH8Xyz.png) 
+![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
 
 ## ✍️ 说明
 
