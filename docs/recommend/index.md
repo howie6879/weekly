@@ -5,101 +5,89 @@
 
 ## 🎯 项目 
 
-### [van-blog](https://github.com/Mereithhh/van-blog)
+### [ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot)
 
-一款简洁实用优雅的高性能个人博客系统：
+`Win PC` 微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装 `COM` 接口供 `Python、C#` 调用：
 
-![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
+- 获取通讯录
+- 发送文本、图片、文件、xml文章、名片、群艾特消息
+- 根据wxid查询好友信息
+- 根据群ID获取所有群成员wxid
+- 检测好友状态（是否好友、被删除、被拉黑）
+- 接收各类消息，可写回调函数进行处理
+- 封装COM接口，方便使用自己喜欢的语言进行调用
+- 群管理
+- 微信多开 
 
-### [logto](https://github.com/logto-io/logto)
+### [yao](https://github.com/YaoApp/yao)
 
-`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
+`Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎：
 
-核心功能：
+![yao](https://img.turingark.com/uPic/yao.jpg) 
 
-- 一个基于 `OIDC` 的身份服务
-- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
-- 动态短信/邮件验证码登录/注册
-- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
-- 基于 web 的图形化管理控制台
-- 可扩展的多语言支持
+### [form-create](https://github.com/xaboy/form-create)
 
-![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
+强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
 
-### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
-
-🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
-
-![Real-CUGAN](https://img.turingark.com/uPic/hWiOCH.jpg) 
+![form-create](https://img.turingark.com/uPic/demo-live3.gif) 
 
 ## 🤖 软件 
 
-### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
+### [datastation](https://github.com/multiprocessio/datastation)
 
-一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
+`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
 
-- 隐藏桌面图标
-- 番茄钟
-- 快速进入夜间模式
-- 隐藏刘海
-- 保持唤醒
-- 清理 Xcode 缓存
-- 支持快捷方式库，可以自己开发
-- ...
+![datastation](https://img.turingark.com/uPic/datastation.jpg) 
 
-![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png) 
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
-### [BetterDummy](https://github.com/waydabber/BetterDummy)
+`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
 
-`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
+![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
 
-![bd_menu](https://img.turingark.com/uPic/bd_menu.png)
+### mizu
 
-如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
+微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
 
-### [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
-
-`Karabiner-Elements`是一个非常强大的键盘自定义工具，非常推荐，算是我`macOS`下的基本软件。
-
-![Karabiner-Elements](https://img.turingark.com/uPic/T3Y4AL.png) 
+![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
 
 ## 👀 资料 
 
-### [AI-System](https://github.com/microsoft/AI-System)
+### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
 
-微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
 
-![AI-System](https://img.turingark.com/uPic/ZfT8O8.png) 
+### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
-### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+清华大学计算机系课程攻略：
 
-开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
+![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
 
-![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
+### [just-react](https://github.com/BetaSu/just-react)
 
-### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
-
-互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
+「React技术揭秘」 一本自顶向下的React源码分析书 
 
 ## 🕸 网站 
 
-### [contrib.rocks](https://contrib.rocks/)
+### [unDraw](https://undraw.co/illustrations)
 
-为你的Github开源项目生成贡献者头像集合：
+你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
 
-![contrib](https://images-1252557999.file.myqcloud.com/uPic/contrib.jpg) 
+如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
 
-### [neeva](https://neeva.com/search)
+![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
 
-前谷歌工程师构建的免费无广告的搜索引擎，搜索效果挺好：
+### [devtool.tech](https://devtool.tech/)
 
-![neeva](https://images-1252557999.file.myqcloud.com/uPic/neeva.jpg) 
+开发者武器库，作者提供了83个开发者常用的工具：
 
-### [musetransfer](https://musetransfer.com/)
+![](https://img.turingark.com/uPic/ZlVqam.png) 
 
-`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
+### [musicforprogramming](https://musicforprogramming.net/latest/)
 
-![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
+非常极客的背景音乐网站：
+
+![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
 
 ## ✍️ 说明
 
