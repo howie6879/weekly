@@ -5,89 +5,91 @@
 
 ## 🎯 项目 
 
-### [ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot)
+### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
 
-`Win PC` 微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装 `COM` 接口供 `Python、C#` 调用：
+短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
 
-- 获取通讯录
-- 发送文本、图片、文件、xml文章、名片、群艾特消息
-- 根据wxid查询好友信息
-- 根据群ID获取所有群成员wxid
-- 检测好友状态（是否好友、被删除、被拉黑）
-- 接收各类消息，可写回调函数进行处理
-- 封装COM接口，方便使用自己喜欢的语言进行调用
-- 群管理
-- 微信多开 
+![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
 
-### [yao](https://github.com/YaoApp/yao)
+### [Docusaurus](https://github.com/facebook/docusaurus)
 
-`Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎：
+`Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
 
-![yao](https://img.turingark.com/uPic/yao.jpg) 
+![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
 
-### [form-create](https://github.com/xaboy/form-create)
+### [van-blog](https://github.com/Mereithhh/van-blog)
 
-强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
+一款简洁实用优雅的高性能个人博客系统：
 
-![form-create](https://img.turingark.com/uPic/demo-live3.gif) 
+![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
 
 ## 🤖 软件 
 
-### [datastation](https://github.com/multiprocessio/datastation)
+### [lively](https://github.com/rocksdanister/lively)
 
-`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
+针对 `Windows` 的开源的动态壁纸软件：
 
-![datastation](https://img.turingark.com/uPic/datastation.jpg) 
+![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
 
-### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
+### [SketchyBar](https://github.com/FelixKratz/SketchyBar)
 
-`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
+高度可定制的macOS状态栏替代品：
 
-![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
+![SketchyBar](https://images-1252557999.file.myqcloud.com/uPic/SketchyBar.jpg) 
 
-### mizu
+### [apifox](https://www.apifox.cn/)
 
-微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
+Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
 
-![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
+![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
 
 ## 👀 资料 
 
-### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
+夯实计算机基础，该怎么学，这个项目给出了答案：
 
-### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+![TeachYourselfCS](https://img.turingark.com/uPic/hKl2yK.png) 
 
-清华大学计算机系课程攻略：
+### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
 
-![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
+《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
 
-### [just-react](https://github.com/BetaSu/just-react)
+![ddia](https://img.turingark.com/uPic/H2Z04g.png) 
 
-「React技术揭秘」 一本自顶向下的React源码分析书 
+### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
+
+[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
+
+![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
 
 ## 🕸 网站 
 
-### [unDraw](https://undraw.co/illustrations)
+### [阿里云知行动手实验室](https://start.aliyun.com/)
 
-你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
+这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
 
-如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
+网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
 
-![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
+我选了一个`k8s`教程尝试了下，嗯，挺香的：
 
-### [devtool.tech](https://devtool.tech/)
+![start-ali](https://img.turingark.com/uPic/LIfQqw.png) 
 
-开发者武器库，作者提供了83个开发者常用的工具：
+### [myfirstnft](https://myfirstnft.info/)
 
-![](https://img.turingark.com/uPic/ZlVqam.png) 
+我的第一个NFT，在这个网站，你可以：
 
-### [musicforprogramming](https://musicforprogramming.net/latest/)
+- 理解NFT的价值
+- 铸造一个免费的NFT
+- 了解Web3.0
 
-非常极客的背景音乐网站：
+![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
 
-![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
+### [zhaoziyuan](https://zhaoziyuan.la)
+
+阿里云资源搜索引擎：
+
+![zhaoziyuan](https://img.turingark.com/uPic/zhaoziyuan-20220429095007870.jpg) 
 
 ## ✍️ 说明
 
