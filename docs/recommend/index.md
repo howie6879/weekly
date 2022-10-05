@@ -5,25 +5,35 @@
 
 ## 🎯 项目 
 
-### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
-
-短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
-
-![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
-
 ### [Docusaurus](https://github.com/facebook/docusaurus)
 
 `Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
 
 ![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
 
-### [van-blog](https://github.com/Mereithhh/van-blog)
+### [tiptop](https://github.com/nschloe/tiptop)
 
-一款简洁实用优雅的高性能个人博客系统：
+类似`htop`的命令行系统资源监控工具：
 
-![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
+![tiptop](https://img.turingark.com/uPic/tiptop.png) 
+
+### [tinysearch](https://github.com/tinysearch/tinysearch)
+
+轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
 
 ## 🤖 软件 
+
+### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
+
+一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
+
+![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
+
+### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
+
+用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
+
+![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
 
 ### [lively](https://github.com/rocksdanister/lively)
 
@@ -31,65 +41,45 @@
 
 ![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
 
-### [SketchyBar](https://github.com/FelixKratz/SketchyBar)
-
-高度可定制的macOS状态栏替代品：
-
-![SketchyBar](https://images-1252557999.file.myqcloud.com/uPic/SketchyBar.jpg) 
-
-### [apifox](https://www.apifox.cn/)
-
-Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
-
-![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
-
 ## 👀 资料 
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 
-夯实计算机基础，该怎么学，这个项目给出了答案：
+微软设计的机器学习课程，完全面向新手：
 
-![TeachYourselfCS](https://img.turingark.com/uPic/hKl2yK.png) 
+- 时间：12周
+- 课程：25课
+- 实验：50个 
 
-### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
+### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
-《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
+命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
 
-![ddia](https://img.turingark.com/uPic/H2Z04g.png) 
+### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
+24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
 
-[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
-
-![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
+![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
 
 ## 🕸 网站 
 
-### [阿里云知行动手实验室](https://start.aliyun.com/)
+### [star-history](https://star-history.com/)
 
-这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
+在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
 
-网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
+![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
 
-我选了一个`k8s`教程尝试了下，嗯，挺香的：
+### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
 
-![start-ali](https://img.turingark.com/uPic/LIfQqw.png) 
+Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
 
-### [myfirstnft](https://myfirstnft.info/)
+![google_path](https://img.turingark.com/uPic/google_path.jpg) 
 
-我的第一个NFT，在这个网站，你可以：
+### [pika](https://pika.style/)
 
-- 理解NFT的价值
-- 铸造一个免费的NFT
-- 了解Web3.0
+[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
 
-![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
-
-### [zhaoziyuan](https://zhaoziyuan.la)
-
-阿里云资源搜索引擎：
-
-![zhaoziyuan](https://img.turingark.com/uPic/zhaoziyuan-20220429095007870.jpg) 
+![pika](https://img.turingark.com/uPic/pika.jpg) 
 
 ## ✍️ 说明
 
