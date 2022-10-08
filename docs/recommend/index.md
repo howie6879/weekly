@@ -5,95 +5,93 @@
 
 ## 🎯 项目 
 
-### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
+### [van-blog](https://github.com/Mereithhh/van-blog)
 
-可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
+一款简洁实用优雅的高性能个人博客系统：
 
-类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
+![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
 
-![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
+### [nativefier](https://github.com/nativefier/nativefier)
 
-### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
+这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
 
-微信 macOS 客户端撤回拦截与多开工具，主要功能有：
+![nativefier_walkthrough](https://img.turingark.com/uPic/nativefier_walkthrough.gif) 
 
-- 阻止消息撤回
-    - 消息列表通知
-    - 系统通知
-    - 正常撤回自己发出的消息
-- 客户端无限多开
-    - 右键 Dock icon 登录新的微信账号
-    - 命令行执行：`open -n /Applications/WeChat.app`
-- 消息处理增强
-    - 支持任意表情导出
-    - 支持二维码识别
-    - 支持右键直接复制链接
-    - 支持由系统默认浏览器直接打开
-- UI界面设置面板
-- 支持 Alfred workflow
-- 支持 Launchbar action
+### [pi-hole](https://pi-hole.net/)
 
-**项目挺好，但是使用过程中需要注意被封号的风险。** 
+一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
 
-### [ml4a](https://github.com/ml4a/ml4a)
-
-`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
-
-![ml4a](https://img.turingark.com/uPic/ml4a.jpg) 
+![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
 
 ## 🤖 软件 
 
-### [shottr](https://shottr.cc/)
+### [RedFish](https://github.com/Kuari/RedFish)
 
-免费截屏软件（macOS）：
+一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
 
-![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
+![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
 
-### [hetty](https://github.com/dstotijn/hetty)
+### [yarr](https://github.com/nkanaev/yarr)
 
-`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
+基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
 
-![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
+```shell
+mkdir -p ./yarr/data
+docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
+```
 
-### [Wechatsync](https://github.com/wechatsync/Wechatsync)
+总体来说还是挺简洁轻量的：
 
-一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
+![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
+
+### [DBeaver](https://github.com/dbeaver/dbeaver)
+
+免费的通用数据库管理工具，SQL客户端，跨平台支持：
+
+![dbeaver](https://img.turingark.com/uPic/dbeaver.png) 
 
 ## 👀 资料 
 
-### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
+### [netkiller](https://www.netkiller.cn/)
 
-![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
+作者持续写了将近20年的技术博文，涵盖面极广：
 
-### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
+![netkiller](https://img.turingark.com/uPic/V7rzw3.png) 
 
-深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
+### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
-### [fun-rec](https://github.com/datawhalechina/fun-rec/)
+> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
 
-本[教程](https://datawhalechina.github.io/fun-rec/#/)主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。
+本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
 
-![fun-rec](https://img.turingark.com/uPic/fun-rec.jpg) 
+![Learn-Vim_zh_cn](https://img.turingark.com/uPic/AgGats.png) 
+
+### [Student-resources](https://github.com/ivmm/Student-resources)
+
+本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
 
 ## 🕸 网站 
 
-### [cleanup.pictures](https://cleanup.pictures/)
+### [RuTracker](https://rutracker.org/forum/index.php)
 
-百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
+俄罗斯最大的盗版网站开放了，可以去上面找资源了：
 
-![cleanup_demo](https://img.turingark.com/uPic/cleanup_demo.gif) 
+![rutracker](https://img.turingark.com/uPic/rutracker.jpg) 
 
-### [uiverse.io](https://uiverse.io/)
+### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
 
-一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
+作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
 
-![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
+![](https://img.turingark.com/uPic/bdd-3d.png)
 
-### [couplet](https://ai.binwang.me/couplet/)
 
-自动对联网站：
+感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
 
-![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
+### [db-fiddle](https://www.db-fiddle.com/)
+
+免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
+
+![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
 
 ## ✍️ 说明
 
