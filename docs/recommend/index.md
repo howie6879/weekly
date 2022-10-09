@@ -5,25 +5,30 @@
 
 ## 🎯 项目 
 
-### [van-blog](https://github.com/Mereithhh/van-blog)
+### [fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
 
-一款简洁实用优雅的高性能个人博客系统：
+微软开源的 `Fluent Emoji` 表情包：
 
-![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
+![fluentui-emoji](https://images-1252557999.file.myqcloud.com/uPic/fluentui-emoji.webp) 
 
-### [nativefier](https://github.com/nativefier/nativefier)
+### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
 
-这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
+读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
 
-![nativefier_walkthrough](https://img.turingark.com/uPic/nativefier_walkthrough.gif) 
+![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
 
-### [pi-hole](https://pi-hole.net/)
+### [HowToCook](https://github.com/Anduin2017/HowToCook)
 
-一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
-
-![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
+程序员在家做饭方法指南。 
 
 ## 🤖 软件 
+
+### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
+
+短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
+
+![SmsForwarder](https://img.turingark.com/uPic/v6owv0.jpg)
+如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
 
 ### [RedFish](https://github.com/Kuari/RedFish)
 
@@ -31,61 +36,41 @@
 
 ![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
 
-### [yarr](https://github.com/nkanaev/yarr)
+### [CatchMouse](https://github.com/round/CatchMouse)
 
-基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
-
-```shell
-mkdir -p ./yarr/data
-docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
-```
-
-总体来说还是挺简洁轻量的：
-
-![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
-
-### [DBeaver](https://github.com/dbeaver/dbeaver)
-
-免费的通用数据库管理工具，SQL客户端，跨平台支持：
-
-![dbeaver](https://img.turingark.com/uPic/dbeaver.png) 
+如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
 
 ## 👀 资料 
 
-### [netkiller](https://www.netkiller.cn/)
+### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
 
-作者持续写了将近20年的技术博文，涵盖面极广：
+📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
 
-![netkiller](https://img.turingark.com/uPic/V7rzw3.png) 
+![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+### [paper-reading](https://github.com/mli/paper-reading)
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
+![paper-reading](https://img.turingark.com/uPic/7e52UU.png) 
 
-![Learn-Vim_zh_cn](https://img.turingark.com/uPic/AgGats.png) 
+### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
-
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
 
 ## 🕸 网站 
 
-### [RuTracker](https://rutracker.org/forum/index.php)
+### [Ben Eater](https://eater.net/)
 
-俄罗斯最大的盗版网站开放了，可以去上面找资源了：
+博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
 
-![rutracker](https://img.turingark.com/uPic/rutracker.jpg) 
+![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
 
-### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
+### [recompressor](https://zh.recompressor.com/)
 
-作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
+免费的图片压缩工具：
 
-![](https://img.turingark.com/uPic/bdd-3d.png)
-
-
-感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
+![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
 
 ### [db-fiddle](https://www.db-fiddle.com/)
 
