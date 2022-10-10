@@ -5,78 +5,106 @@
 
 ## 🎯 项目 
 
-### [fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
+### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
 
-微软开源的 `Fluent Emoji` 表情包：
+微信 macOS 客户端撤回拦截与多开工具，主要功能有：
 
-![fluentui-emoji](https://images-1252557999.file.myqcloud.com/uPic/fluentui-emoji.webp) 
+- 阻止消息撤回
+    - 消息列表通知
+    - 系统通知
+    - 正常撤回自己发出的消息
+- 客户端无限多开
+    - 右键 Dock icon 登录新的微信账号
+    - 命令行执行：`open -n /Applications/WeChat.app`
+- 消息处理增强
+    - 支持任意表情导出
+    - 支持二维码识别
+    - 支持右键直接复制链接
+    - 支持由系统默认浏览器直接打开
+- UI界面设置面板
+- 支持 Alfred workflow
+- 支持 Launchbar action
 
-### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
+**项目挺好，但是使用过程中需要注意被封号的风险。** 
 
-读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
+### [sealos](https://github.com/fanux/sealos)
 
-![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
+一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
 
-### [HowToCook](https://github.com/Anduin2017/HowToCook)
+### [duf](https://github.com/sigoden/duf)
 
-程序员在家做饭方法指南。 
+一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
+
+- 静态文件伺服
+- 下载目录为 zip 文件
+- 上传文件 /目录 (支持拖拽)
+- 搜索
+- 并发下载，断续下载
+- 权限保护
+- 支持 https
+- 支持 webdav
+- 方便 curl 调用 
 
 ## 🤖 软件 
 
-### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
+### [xplorer](https://github.com/kimlimjustin/xplorer)
 
-短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
+支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
 
-![SmsForwarder](https://img.turingark.com/uPic/v6owv0.jpg)
-如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
+- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
+- 现代化且易用
+- 多种格式文件预览，音频也可以
+- ...
 
-### [RedFish](https://github.com/Kuari/RedFish)
+![xplorer](https://img.turingark.com/uPic/iLpUeJ.jpg)
 
-一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
+在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
 
-![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
 
-### [CatchMouse](https://github.com/round/CatchMouse)
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
-如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
+### [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
+
+`Karabiner-Elements`是一个非常强大的键盘自定义工具，非常推荐，算是我`macOS`下的基本软件。
+
+![Karabiner-Elements](https://img.turingark.com/uPic/T3Y4AL.png) 
 
 ## 👀 资料 
 
-### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
+### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
 
-📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
+从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
 
-![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
+### [react-illustration-series](https://github.com/7kms/react-illustration-series)
 
-### [paper-reading](https://github.com/mli/paper-reading)
+图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+### [data_compression_course](https://github.com/jermp/data_compression_course)
 
-![paper-reading](https://img.turingark.com/uPic/7e52UU.png) 
-
-### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
-
-![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
+由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
 
 ## 🕸 网站 
 
-### [Ben Eater](https://eater.net/)
+### [devhints](https://www.f2er.com/tool/B5XO1oDY)
 
-博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
+**@妙才**推荐，一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
 
-![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
+![devhints](https://img.turingark.com/uPic/Wl8r0C.png) 
 
-### [recompressor](https://zh.recompressor.com/)
+### [alleyread](https://alleyread.com/)
 
-免费的图片压缩工具：
+发现优质 `Newsletter`：
 
-![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
+![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
 
-### [db-fiddle](https://www.db-fiddle.com/)
+### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
 
-免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
+目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
 
-![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
+![privacy-policy](https://img.turingark.com/uPic/U5XxZE.png)
+
+![terms-and-conditions](https://img.turingark.com/uPic/jH8Xyz.png) 
 
 ## ✍️ 说明
 
