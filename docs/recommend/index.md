@@ -5,98 +5,69 @@
 
 ## 🎯 项目 
 
-### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
+### [greppo](https://github.com/greppo-io/greppo)
 
-微信 macOS 客户端撤回拦截与多开工具，主要功能有：
+快速轻松地构建部署地理空间应用程序：
 
-- 阻止消息撤回
-    - 消息列表通知
-    - 系统通知
-    - 正常撤回自己发出的消息
-- 客户端无限多开
-    - 右键 Dock icon 登录新的微信账号
-    - 命令行执行：`open -n /Applications/WeChat.app`
-- 消息处理增强
-    - 支持任意表情导出
-    - 支持二维码识别
-    - 支持右键直接复制链接
-    - 支持由系统默认浏览器直接打开
-- UI界面设置面板
-- 支持 Alfred workflow
-- 支持 Launchbar action
+![greppo](https://img.turingark.com/uPic/IzNSxY.jpg) 
 
-**项目挺好，但是使用过程中需要注意被封号的风险。** 
+### [nas-tools](https://github.com/jxxghp/nas-tools)
 
-### [sealos](https://github.com/fanux/sealos)
+NAS媒体库资源归集、整理自动化工具：
 
-一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
+![nas_tool](https://images-1252557999.file.myqcloud.com/uPic/nas_tool.jpg) 
 
-### [duf](https://github.com/sigoden/duf)
+### [personal-management-system](https://github.com/Volmarg/personal-management-system)
 
-一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
+该项目可以很方便的管理个人数据，如目标规划/笔记/联系人/密码/附件/图片/文件等等：
 
-- 静态文件伺服
-- 下载目录为 zip 文件
-- 上传文件 /目录 (支持拖拽)
-- 搜索
-- 并发下载，断续下载
-- 权限保护
-- 支持 https
-- 支持 webdav
-- 方便 curl 调用 
+![personal-management-system](https://img.turingark.com/uPic/C6hnHx.jpg) 
 
 ## 🤖 软件 
 
-### [xplorer](https://github.com/kimlimjustin/xplorer)
+### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 
-支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
+快速稳定好用的Redis跨平台桌面管理软件：
 
-- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
-- 现代化且易用
-- 多种格式文件预览，音频也可以
-- ...
+![AnotherRedisDesktopManager](https://img.turingark.com/uPic/AnotherRedisDesktopManager.png) 
 
-![xplorer](https://img.turingark.com/uPic/iLpUeJ.jpg)
+### [BetterDummy](https://github.com/waydabber/BetterDummy)
 
-在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
+`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
 
-### [Wechatsync](https://github.com/wechatsync/Wechatsync)
+![bd_menu](https://img.turingark.com/uPic/bd_menu.png)
 
-一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
+如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
 
-### [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
+### [notesnook](https://github.com/streetwriters/notesnook)
 
-`Karabiner-Elements`是一个非常强大的键盘自定义工具，非常推荐，算是我`macOS`下的基本软件。
+印象笔记的开源替代品（支持端对端加密）：
 
-![Karabiner-Elements](https://img.turingark.com/uPic/T3Y4AL.png) 
+![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
 
 ## 👀 资料 
 
-### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
+### [leetcode](https://github.com/doocs/leetcode)
 
-从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
+本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
 
-### [react-illustration-series](https://github.com/7kms/react-illustration-series)
+### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 
-图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
+这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
 
-### [data_compression_course](https://github.com/jermp/data_compression_course)
+### [开源软件指南](https://opensource.guide/zh-hans/)
 
-由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
+GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+
+![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
 
 ## 🕸 网站 
 
-### [devhints](https://www.f2er.com/tool/B5XO1oDY)
+### [nosh](https://nosh.rocks/)
 
-**@妙才**推荐，一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
+一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
 
-![devhints](https://img.turingark.com/uPic/Wl8r0C.png) 
-
-### [alleyread](https://alleyread.com/)
-
-发现优质 `Newsletter`：
-
-![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
+![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
 
 ### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
 
@@ -105,6 +76,12 @@
 ![privacy-policy](https://img.turingark.com/uPic/U5XxZE.png)
 
 ![terms-and-conditions](https://img.turingark.com/uPic/jH8Xyz.png) 
+
+### [photoroom](https://www.photoroom.com/backgrounds/)
+
+利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
+
+![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
 
 ## ✍️ 说明
 
