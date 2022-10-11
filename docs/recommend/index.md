@@ -5,83 +5,83 @@
 
 ## 🎯 项目 
 
-### [greppo](https://github.com/greppo-io/greppo)
+### [musicn](https://github.com/zonemeen/musicn)
 
-快速轻松地构建部署地理空间应用程序：
+🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
 
-![greppo](https://img.turingark.com/uPic/IzNSxY.jpg) 
+![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
 
-### [nas-tools](https://github.com/jxxghp/nas-tools)
+### [metabase](https://github.com/metabase/metabase)
 
-NAS媒体库资源归集、整理自动化工具：
+为公司提供的快速BI数据可视化工具：
 
-![nas_tool](https://images-1252557999.file.myqcloud.com/uPic/nas_tool.jpg) 
+![metabase](https://images-1252557999.file.myqcloud.com/uPic/metabase.png)
 
-### [personal-management-system](https://github.com/Volmarg/personal-management-system)
+也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.cn/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease) 
 
-该项目可以很方便的管理个人数据，如目标规划/笔记/联系人/密码/附件/图片/文件等等：
+### [nocobase](https://github.com/nocobase/nocobase)
 
-![personal-management-system](https://img.turingark.com/uPic/C6hnHx.jpg) 
+NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
+
+![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
 
 ## 🤖 软件 
 
-### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
 
-快速稳定好用的Redis跨平台桌面管理软件：
+谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
 
-![AnotherRedisDesktopManager](https://img.turingark.com/uPic/AnotherRedisDesktopManager.png) 
+![temp_mail](https://img.turingark.com/uPic/M4DZPI.png) 
 
-### [BetterDummy](https://github.com/waydabber/BetterDummy)
+### [SwiftBar](https://github.com/swiftbar/SwiftBar)
 
-`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
+一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
 
-![bd_menu](https://img.turingark.com/uPic/bd_menu.png)
+![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
 
-如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
+### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
 
-### [notesnook](https://github.com/streetwriters/notesnook)
+`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
 
-印象笔记的开源替代品（支持端对端加密）：
-
-![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
+![Miao](https://img.turingark.com/uPic/Miao.png) 
 
 ## 👀 资料 
 
-### [leetcode](https://github.com/doocs/leetcode)
+### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
 
-本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
+一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
 
-### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
+![NhkQDk](https://img.turingark.com/uPic/NhkQDk.jpg) 
 
-这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
+### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
 
-### [开源软件指南](https://opensource.guide/zh-hans/)
+![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
 
-GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
 ## 🕸 网站 
 
-### [nosh](https://nosh.rocks/)
+### [ixinqing](http://www.ixinqing.com/)
 
-一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
+心晴 · 专注于心理学入门与自我成长:
 
-![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
+![ixinqing](https://img.turingark.com/uPic/ixinqing-20220328205229819.png) 
 
-### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
+### [zhaoziyuan](https://zhaoziyuan.la)
 
-目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
+阿里云资源搜索引擎：
 
-![privacy-policy](https://img.turingark.com/uPic/U5XxZE.png)
+![zhaoziyuan](https://img.turingark.com/uPic/zhaoziyuan-20220429095007870.jpg) 
 
-![terms-and-conditions](https://img.turingark.com/uPic/jH8Xyz.png) 
+### [linggle](https://linggle.com/)
 
-### [photoroom](https://www.photoroom.com/backgrounds/)
+免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
 
-利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
-
-![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
+![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
 
 ## ✍️ 说明
 
