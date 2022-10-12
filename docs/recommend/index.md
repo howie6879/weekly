@@ -5,83 +5,96 @@
 
 ## 🎯 项目 
 
-### [musicn](https://github.com/zonemeen/musicn)
+### [reader-s](https://github.com/hectorqin/reader)
 
-🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
+阅读3服务器版，不需要手机，可以体验下在web上追更你的小说：
 
-![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
+![reader-s](https://images-1252557999.file.myqcloud.com/uPic/reader-s.jpg) 
 
-### [metabase](https://github.com/metabase/metabase)
+### [JD\_tencent\_scf](https://github.com/cweijan/JD_tencent_scf)
 
-为公司提供的快速BI数据可视化工具：
+这个项目简化了打京豆的脚本部署流程，每个月能打1500(不确定)左右。 
 
-![metabase](https://images-1252557999.file.myqcloud.com/uPic/metabase.png)
+### [nps](https://github.com/ehang-io/nps)
 
-也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.cn/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease) 
+一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。
 
-### [nocobase](https://github.com/nocobase/nocobase)
-
-NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
-
-![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
+![nps](https://img.turingark.com/uPic/x2AaCw.jpg) 
 
 ## 🤖 软件 
 
-### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
+### [NotepadNext](https://github.com/dail8859/NotepadNext)
 
-谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
+`Notepad++`的跨平台开源实现：
 
-![temp_mail](https://img.turingark.com/uPic/M4DZPI.png) 
+![NotepadNext](https://img.turingark.com/uPic/NotepadNext.png) 
 
-### [SwiftBar](https://github.com/swiftbar/SwiftBar)
+### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
 
-一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
+适用于Android的免费开源漫画阅读器，流畅丝滑：
 
-![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
+![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
 
-### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
+之前我的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.cn/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
 
-`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
+### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
 
-![Miao](https://img.turingark.com/uPic/Miao.png) 
+M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
+
+| 功能                 | 支持       |
+| -------------------- | ---------- |
+| HLS协议点播源        | ✓          |
+| 自定义Http协议头下载 | ✓          |
+| 自定义KEY和IV解密    | ✓          |
+| 本地M3U8文件下载     | ✓          |
+| M3U8 直播源          | ✓          |
+| 标准 AES-128-CBC加密 | ✓          |
+| 标准 AES-196-CBC加密 | ✓          |
+| 标准 AES-256-CBC加密 | ✓          |
+| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
+| 网页嗅探视频源       | ✓          |
+
+![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
 
 ## 👀 资料 
 
-### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
+### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
-一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
+为忙碌的工程师准备的精选面试准备材料：
 
-![NhkQDk](https://img.turingark.com/uPic/NhkQDk.jpg) 
+![tech-interview-handbook](https://img.turingark.com/uPic/lAcwMK.png) 
 
-### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
+### [db-tutorial](https://github.com/dunwu/db-tutorial)
 
-![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
+💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
 
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+**可惜永远都不会再更新了，默哀！**
+
+![gpsn](https://img.turingark.com/uPic/oMF4xB.jpg) 
 
 ## 🕸 网站 
 
-### [ixinqing](http://www.ixinqing.com/)
+### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
 
-心晴 · 专注于心理学入门与自我成长:
+唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
 
-![ixinqing](https://img.turingark.com/uPic/ixinqing-20220328205229819.png) 
+![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
 
-### [zhaoziyuan](https://zhaoziyuan.la)
+### [uisdc.com](https://hao.uisdc.com/)
 
-阿里云资源搜索引擎：
+设计师网站导航：
 
-![zhaoziyuan](https://img.turingark.com/uPic/zhaoziyuan-20220429095007870.jpg) 
+![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
 
-### [linggle](https://linggle.com/)
+### [flatuicolors](https://flatuicolors.com/)
 
-免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
+`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
 
-![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
+![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
 
 ## ✍️ 说明
 
