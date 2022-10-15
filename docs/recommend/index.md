@@ -5,79 +5,86 @@
 
 ## 🎯 项目 
 
-### [freed](https://github.com/YuanHsing/freed)
+### [lsky-pro](https://github.com/lsky-org/lsky-pro)
 
-这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
+非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
 
-### [dootask](https://github.com/kuaifan/dootask)
+![vps_lsky_01](https://img.turingark.com/uPic/vps_lsky_01.jpg) 
 
-DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
+### [pico.css](https://github.com/picocss/pico)
 
-![dootask](https://img.turingark.com/uPic/tYiTA7.png) 
+简单优雅小巧的轻量级CSS框架，特性如下：
 
-### [nps](https://github.com/ehang-io/nps)
+- 尽量使用原生的HTML语义，上手简单
+- 仅使用CSS，无依赖
+- 在所有设备上都有优雅且一致的响应式排版
+- 默认支持亮/黑模式 
 
-一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。
+### [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
 
-![nps](https://img.turingark.com/uPic/x2AaCw.jpg) 
+国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。
+
+虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！ 
 
 ## 🤖 软件 
 
-### [dockeye](https://github.com/vv9k/dockeye)
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-基于`Rust`编写的`Docker`界面管理工具：
+LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
 
-![dockeye](https://img.turingark.com/uPic/Y6s09g.jpg) 
+![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
 
-### [FairEmail](https://github.com/M66B/FairEmail)
+### [ntchat](https://github.com/smallevilbeast/ntchat)
 
-完全开源免费、具有全面功能、面向隐私的邮件App（仅支持安卓）：
+微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
 
-![FairEmail](https://images-1252557999.file.myqcloud.com/uPic/FairEmail.png) 
+- 基于pc微信的api接口, 类似itchat项目
+- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
+- 支持好友和群管理 
 
-### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+### [tunnelblick](https://tunnelblick.net/)
 
-`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+免费开源的`openvpn`客户端：
 
-![appflowy](https://img.turingark.com/uPic/JhzdLT.jpg) 
+![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
 
 ## 👀 资料 
 
-### [CS-Notes](https://github.com/CyC2018/CS-Notes)
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
 
-📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
+站点可靠性工作手册：
 
-![CS-Notes](https://img.turingark.com/uPic/7aMFrS.png) 
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
-### [数据科学学习指南](https://github.com/amitness/learning)
+### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
 
-数据科学学习指南，帮你每天提升1%的数据科学技能。主要包含电子表格与数据库的数据处理、命令行工具使用、数据分析与可视化技巧、论文阅读方法，各类模型与算法讲解等知识，另外还有商业思维培养、写作与沟通技巧等非技术类内容。
+本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
 
-![data-learning](https://img.turingark.com/uPic/tlkHzW.png) 
+### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
 
-### [learn-regex](https://github.com/ziishaned/learn-regex)
+健康学习到150岁 - 人体系统调优不完全指南：
 
-开源的正则表达式教程，有中文版，有在线示例。 
+![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
 
 ## 🕸 网站 
 
-### [vim.is](https://vim.is/#exercise)
+### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
 
-`Vim`学习网站：
+唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
 
-![vim.is](https://img.turingark.com/uPic/iA6wxm.png) 
+![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
 
-### [aliyunpanbbs](https://aliyunpanbbs.com/)
+### [openart.ai](https://openart.ai/)
 
-阿里云盘资源论坛:
+基于 `DALL E 2、Midjourney、SD` 生成的1000多万图片搜索网站：
 
-![aliyunpanbbs](https://img.turingark.com/uPic/NlHLjW.png) 
+![openart](https://images-1252557999.file.myqcloud.com/uPic/openart.jpg) 
 
-### [drawio](https://github.com/jgraph/drawio)
+### [pixabay](https://pixabay.com/)
 
-一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
+`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
 
-![drawio](https://img.turingark.com/file/howie-img/uPic/drawio.jpg) 
+![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
 
 ## ✍️ 说明
 
