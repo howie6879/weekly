@@ -5,86 +5,94 @@
 
 ## 🎯 项目 
 
-### [lsky-pro](https://github.com/lsky-org/lsky-pro)
+### crontab-ui
 
-非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
+提供简单安全的方式来管理 `crontab`:
 
-![vps_lsky_01](https://img.turingark.com/uPic/vps_lsky_01.jpg) 
+![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
 
-### [pico.css](https://github.com/picocss/pico)
+### [filebrowser](https://github.com/filebrowser/filebrowser)
 
-简单优雅小巧的轻量级CSS框架，特性如下：
+这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
 
-- 尽量使用原生的HTML语义，上手简单
-- 仅使用CSS，无依赖
-- 在所有设备上都有优雅且一致的响应式排版
-- 默认支持亮/黑模式 
+除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
 
-### [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
+![filebrowser](https://img.turingark.com/uPic/50716739-ebd26700-107a-11e9-9817-14230c53efd2.gif) 
 
-国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。
+### [ossart](https://github.com/djyde/ossart)
 
-虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！ 
+这是一个娱乐性质的项目，可以将你最近 6年的 GitHub 活跃图打印成摆件，在官网[getoss](https://getoss.art/)填写你的用户名即可：
+
+![ossart](https://img.turingark.com/uPic/5SYY8P.jpg) 
 
 ## 🤖 软件 
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+### [CatchMouse](https://github.com/round/CatchMouse)
 
-LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
+如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
 
-![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
+### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
-### [ntchat](https://github.com/smallevilbeast/ntchat)
+用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
 
-微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
+![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
 
-- 基于pc微信的api接口, 类似itchat项目
-- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
-- 支持好友和群管理 
+### [ShareX](https://github.com/ShareX/ShareX)
 
-### [tunnelblick](https://tunnelblick.net/)
+`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
 
-免费开源的`openvpn`客户端：
-
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
 
 ## 👀 资料 
 
-### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
 
-站点可靠性工作手册：
+基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
 
-![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
+- NLP
+- CV
+- Time Series
 
-### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
+目录概览：
 
-本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
+![Pytorch](https://img.turingark.com/uPic/kSUA40.png) 
 
-### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
+### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 
-健康学习到150岁 - 人体系统调优不完全指南：
+PyTorch 从0到精通教程：
 
-![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
+![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
+
+### [TLCL](https://billie66.github.io/TLCL/book/)
+
+`The Linux Command Line` 中文翻译：
+
+![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
 
 ## 🕸 网站 
 
-### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
+### [pixel](https://aqeja.github.io/pixel/)
 
-唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
+一个小工具，将你的图片像素化:
 
-![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
+![;'](https://img.turingark.com/uPic/KfJuhM.png) 
 
-### [openart.ai](https://openart.ai/)
+### [aosabook](http://aosabook.org/en/index.html)
 
-基于 `DALL E 2、Midjourney、SD` 生成的1000多万图片搜索网站：
+网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
 
-![openart](https://images-1252557999.file.myqcloud.com/uPic/openart.jpg) 
+- ZeroMQ
+- Chrome
+- Nginx
+- 等等
 
-### [pixabay](https://pixabay.com/)
+上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
 
-`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
+### [gh-card.dev](https://gh-card.dev/)
 
-![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
+免费为你的 `Github` 开源项目生成卡片的网站：
+
+![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
 
 ## ✍️ 说明
 
