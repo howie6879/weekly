@@ -5,102 +5,95 @@
 
 ## 🎯 项目 
 
-### [freed](https://github.com/YuanHsing/freed)
+### [nps](https://github.com/ehang-io/nps)
 
-这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
+一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。
 
-### [ecapture](https://github.com/ehids/ecapture)
+![nps](https://img.turingark.com/uPic/x2AaCw.jpg) 
 
-eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
+### [rathole](https://github.com/rapiz1/rathole)
 
-![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
+安全、稳定、高性能的内网穿透工具，用 Rust 语言编写。 
 
-### crontab-ui
+### [alist](https://github.com/Xhofe/alist)
 
-提供简单安全的方式来管理 `crontab`:
+一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
 
-![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
+![alist](https://img.turingark.com/uPic/alist-20220429094521145.png)
+
+简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
 
 ## 🤖 软件 
 
-### [Rayon](https://github.com/Lakr233/Rayon)
+### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
 
-一个`macOS`的上的`SSH`客户端：
+`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
 
-![rayon](https://img.turingark.com/uPic/rayon.png)
+![Miao](https://img.turingark.com/uPic/Miao.png) 
 
-软件特性：
+### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 
-- 免费&开源
-- 支持 libssh2 的主机连接
-- Linux proc 文件系统状态信息
-- 使用密码、密钥等进行身份验证...
-- xterm 终端支持
-- 批处理执行代码片段 
+跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
 
-### [Files](https://github.com/files-community/Files)
+- 🍕 全平台支持. Windows, Mac, Linux
+- 🍥 支持 IPTV, 卫视直播
+- 🍔 视频源支持自定义, 支持导入, 导出
+- 🍟 支持海报模式和列表模式浏览资源
+- 🌭 播放历史, 自动跳转历史进度
+- 🍿 收藏夹支持导入,导出, 支持同步追剧
+- 🥙 支持精简模式, 摸鱼划水
+- 🥪 一键搜索所有资源, 支持历史搜索记录
+- 🌮 导出资源下载链接
+- 🍣 支持第三方播放器播放
+- 🍤 显示豆瓣评分
 
-一个现代化的文件管理软件(Windows用户专属)：
+![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
 
-![files_windows](https://img.turingark.com/uPic/files_windows.jpg) 
+### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
-### [uPic](https://github.com/gee1k/uPic)
+跨平台的 `PostgreSQL` 数据库管理软件（开源）：
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
-
-我的必备软件：
-
-![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
 
 ## 👀 资料 
 
-### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
+### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
 
-自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
+[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
 
-### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+目前也提供了中文版：
 
-以非常直观的语言介绍`pytorch`：
+![patterns-of-distributed-systems](https://img.turingark.com/uPic/ZlA2Zu.png) 
 
-![eat_pytorch_in_20_days](https://img.turingark.com/uPic/fnTFJ5.png)
+### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
 
-作者的同类电子书还有：
+健康学习到150岁 - 人体系统调优不完全指南：
 
-- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
 
-### [rust-course](https://github.com/sunface/rust-course)
+### [learn-regex](https://github.com/ziishaned/learn-regex)
 
-> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
-
-![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
-
-阅读地址见[course.rs](https://course.rs)。 
+开源的正则表达式教程，有中文版，有在线示例。 
 
 ## 🕸 网站 
 
-### [untools](https://untools.co/)
+### [carbon](https://carbon.now.sh/)
 
-一个帮助你思考的集合工具&框架：
+将你的源代码转成漂亮可分享的图片：
 
-![untools](https://img.turingark.com/uPic/hHu9aw.png) 
+![carbon](https://img.turingark.com/uPic/carbon.jpg) 
 
-### [aosabook](http://aosabook.org/en/index.html)
+### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
 
-网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
+`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
 
-- ZeroMQ
-- Chrome
-- Nginx
-- 等等
+![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
 
-上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
+### [法律时代导航](https://yesen.cn/)
 
-### [RuTracker](https://rutracker.org/forum/index.php)
+法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
 
-俄罗斯最大的盗版网站开放了，可以去上面找资源了：
-
-![rutracker](https://img.turingark.com/uPic/rutracker.jpg) 
+![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
 
 ## ✍️ 说明
 
