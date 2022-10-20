@@ -5,31 +5,23 @@
 
 ## 🎯 项目 
 
-### [dootask](https://github.com/kuaifan/dootask)
+### [Docusaurus](https://github.com/facebook/docusaurus)
 
-DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
+`Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
 
-![dootask](https://img.turingark.com/uPic/tYiTA7.png) 
+![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
 
-### [melody](https://github.com/foamzou/melody)
+### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
 
-你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
+最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
 
-主要特性为：
+![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
 
-- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
-- 用链接搜索歌曲
-- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
+### [wireflow](https://github.com/vanila-io/wireflow)
 
-比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
+一款开源的用户流程图制作工具（点击[wireflow.co](https://wireflow.co/)访问）：
 
-![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
-
-### [mdx-editor](https://github.com/maqi1520/mdx-editor)
-
-一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
-
-![mdx-editor](https://img.turingark.com/uPic/mdx-editor.jpg) 
+![wireflow](https://images-1252557999.file.myqcloud.com/uPic/wireflow.png) 
 
 ## 🤖 软件 
 
@@ -48,60 +40,59 @@ DooTask是一款轻量级的开源在线项目任务管理工具，提供各类�
 - xterm 终端支持
 - 批处理执行代码片段 
 
-### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
+### [lively](https://github.com/rocksdanister/lively)
 
-短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
+针对 `Windows` 的开源的动态壁纸软件：
 
-![SmsForwarder](https://img.turingark.com/uPic/v6owv0.jpg)
-如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
+![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
 
-### [Vieb](https://vieb.dev/)
+### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
 
-开源免费的全平台（PC）`Vim`风格电子浏览器：
+`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
 
-![Vieb](https://img.turingark.com/uPic/BqyWaK.png) 
+![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
 
 ## 👀 资料 
 
-### [archbase](https://github.com/foxsen/archbase)
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
-![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
+### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
 
-### [rust-by-practice](https://github.com/sunface/rust-by-practice)
+30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
 
-通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
+![30-Days-Of-React](https://img.turingark.com/uPic/GeYfjR.jpg) 
 
-![](https://img.turingark.com/uPic/f4zLoa.png) 
+### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
 
-### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
+为初学者整理的免费 `CSS` 课程：
 
-关于 `MongoDB`，最全面的免费学习向导：
-
-- 学习资源：文档书籍教程等
-- 第三方库：各种编程语言的兼容库
-- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
+![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
 
 ## 🕸 网站 
 
-### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
+### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
 
-这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
+一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
 
-![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
+![shanshui-inf](https://img.turingark.com/uPic/shanshui-inf.jpg) 
 
-### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
+### [webutils](https://www.webutils.app/)
 
-来自阿里体系的各种技术资料，全部免费，个人非常推荐。
+一个提供web小工具的网站，比如：
 
-![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
+- 文本比较
+- 图片压缩
+- 图片转换
 
-### [photoroom](https://www.photoroom.com/backgrounds/)
+![webutils](https://img.turingark.com/uPic/ijDiPA.png) 
 
-利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
+### [futurecoder](https://futurecoder.io/course/#ide)
 
-![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
+一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
+
+![futurecoder](https://img.turingark.com/uPic/futurecoder.jpg) 
 
 ## ✍️ 说明
 
