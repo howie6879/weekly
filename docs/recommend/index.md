@@ -5,17 +5,17 @@
 
 ## 🎯 项目 
 
-### [Docusaurus](https://github.com/facebook/docusaurus)
+### [form-create](https://github.com/xaboy/form-create)
 
-`Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
+强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
 
-![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
+![form-create](https://img.turingark.com/uPic/demo-live3.gif) 
 
-### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
+### [Feeddd](https://github.com/feeddd/feeds)
 
-最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
+![Feeddd](https://img.turingark.com/uPic/5a9np8.jpg)
 
-![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
+一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
 
 ### [wireflow](https://github.com/vanila-io/wireflow)
 
@@ -25,74 +25,63 @@
 
 ## 🤖 软件 
 
-### [Rayon](https://github.com/Lakr233/Rayon)
+### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
 
-一个`macOS`的上的`SSH`客户端：
+`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
 
-![rayon](https://img.turingark.com/uPic/rayon.png)
+![Miao](https://img.turingark.com/uPic/Miao.png) 
 
-软件特性：
+### [Thor](https://github.com/gbammc/Thor)
 
-- 免费&开源
-- 支持 libssh2 的主机连接
-- Linux proc 文件系统状态信息
-- 使用密码、密钥等进行身份验证...
-- xterm 终端支持
-- 批处理执行代码片段 
+通过快捷键快速打开应用：
 
-### [lively](https://github.com/rocksdanister/lively)
+![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
 
-针对 `Windows` 的开源的动态壁纸软件：
+### [marktext](https://github.com/marktext/marktext)
 
-![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
 
-### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
-
-`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
-
-![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
+![marktext](https://img.turingark.com/uPic/cvYHVG.png) 
 
 ## 👀 资料 
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
 
-### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
+![fullstackopen](https://img.turingark.com/uPic/p1g8z3.png) 
 
-30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
+### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
 
-![30-Days-Of-React](https://img.turingark.com/uPic/GeYfjR.jpg) 
+精益副业：程序员如何优雅地做副业:
 
-### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
+![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
 
-为初学者整理的免费 `CSS` 课程：
+### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
-![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
+30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
+
+![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
 
 ## 🕸 网站 
 
-### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
+### [tanpok](https://tool.tanpok.com/#/)
 
-一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
+效果非常好的图片压缩工具：
 
-![shanshui-inf](https://img.turingark.com/uPic/shanshui-inf.jpg) 
+![tanpok](https://img.turingark.com/uPic/8fZN8v.png) 
 
-### [webutils](https://www.webutils.app/)
+### [theonestopradio](https://theonestopradio.com/)
 
-一个提供web小工具的网站，比如：
+发现你可能喜欢的电台：
 
-- 文本比较
-- 图片压缩
-- 图片转换
+![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
 
-![webutils](https://img.turingark.com/uPic/ijDiPA.png) 
+### [devhints](https://www.f2er.com/tool/B5XO1oDY)
 
-### [futurecoder](https://futurecoder.io/course/#ide)
+**@妙才**推荐，一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
 
-一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
-
-![futurecoder](https://img.turingark.com/uPic/futurecoder.jpg) 
+![devhints](https://img.turingark.com/uPic/Wl8r0C.png) 
 
 ## ✍️ 说明
 
