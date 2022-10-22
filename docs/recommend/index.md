@@ -5,95 +5,88 @@
 
 ## 🎯 项目 
 
-### [linkding](https://github.com/sissbruecker/linkding)
+### [upptime](https://github.com/upptime/upptime)
 
-开源的网络书签服务，支持 Docker 部署：
+由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
 
-![linkding](https://images-1252557999.file.myqcloud.com/uPic/linkding.png) 
+![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
 
-### [tiptop](https://github.com/nschloe/tiptop)
+### [Super_Mario](https://github.com/BadagalaAdarsh/Super_Mario)
 
-类似`htop`的命令行系统资源监控工具：
+这是一个很有意思的项目，相信大家都玩过马里奥，这个项目可以让你用身体控制马里奥进行游戏，可以锻炼身体哈哈：
 
-![tiptop](https://img.turingark.com/uPic/tiptop.png) 
+![mario](https://img.turingark.com/uPic/mario.gif) 
 
-### [pi-hole](https://pi-hole.net/)
+### [lsky-pro](https://github.com/lsky-org/lsky-pro)
 
-一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
+非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
 
-![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
+![vps_lsky_01](https://img.turingark.com/uPic/vps_lsky_01.jpg) 
 
 ## 🤖 软件 
 
-### [Thor](https://github.com/gbammc/Thor)
+### [scrcpy](https://github.com/Genymobile/scrcpy)
 
-通过快捷键快速打开应用：
+在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
 
-![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
+它专注于：
 
-### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
+- 轻量 (原生，仅显示设备屏幕)
+- 性能 (30~60fps)
+- 质量 (分辨率可达 1920×1080 或更高)
+- 低延迟 (35~70ms)
+- 快速启动 (最快 1 秒内即可显示第一帧)
+- 无侵入性 (不会在设备上遗留任何程序) 
 
-跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
+### mizu
 
-- 🍕 全平台支持. Windows, Mac, Linux
-- 🍥 支持 IPTV, 卫视直播
-- 🍔 视频源支持自定义, 支持导入, 导出
-- 🍟 支持海报模式和列表模式浏览资源
-- 🌭 播放历史, 自动跳转历史进度
-- 🍿 收藏夹支持导入,导出, 支持同步追剧
-- 🥙 支持精简模式, 摸鱼划水
-- 🥪 一键搜索所有资源, 支持历史搜索记录
-- 🌮 导出资源下载链接
-- 🍣 支持第三方播放器播放
-- 🍤 显示豆瓣评分
+微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
 
-![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
+![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
 
-### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
+### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 
-网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
+快速稳定好用的Redis跨平台桌面管理软件：
 
-![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
+![AnotherRedisDesktopManager](https://img.turingark.com/uPic/AnotherRedisDesktopManager.png) 
 
 ## 👀 资料 
 
-### [Flutter实战·第二版](https://book.flutterchina.club/)
+### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 
-本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
+这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
 
-![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
+### [开源软件指南](https://opensource.guide/zh-hans/)
 
-### [missing-semester-cn](https://missing-semester-cn.github.io/)
+GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
 
-计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
+![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
 
-在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
+### [netkiller](https://www.netkiller.cn/)
 
-![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
+作者持续写了将近20年的技术博文，涵盖面极广：
 
-### [leetcode](https://github.com/doocs/leetcode)
-
-本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
+![netkiller](https://img.turingark.com/uPic/V7rzw3.png) 
 
 ## 🕸 网站 
 
-### [一证通查](https://getsimnum.caict.ac.cn/#/)
+### [dbbqb](https://www.dbbqb.com/)
 
-自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
+专业的表情包搜索网站：
 
-![phone_query](https://img.turingark.com/uPic/phone_query.png) 
+![dbbqb](https://images-1252557999.file.myqcloud.com/uPic/dbbqb.jpg) 
 
-### [couplet](https://ai.binwang.me/couplet/)
+### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
 
-自动对联网站：
+@妙才投稿，在线学习git命令的网站：
 
-![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
+![](https://img.turingark.com/uPic/YSiAVW.png) 
 
-### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
+### [jsont.run](https://www.jsont.run/)
 
-中国少年儿童新闻出版总社免费开放的少儿绘本网站：
+一个简洁的在线 `JSON` 解析器：
 
-![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
+![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
 
 ## ✍️ 说明
 
