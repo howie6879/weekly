@@ -5,31 +5,25 @@
 
 ## 🎯 项目 
 
-### [form-create](https://github.com/xaboy/form-create)
+### [linkding](https://github.com/sissbruecker/linkding)
 
-强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
+开源的网络书签服务，支持 Docker 部署：
 
-![form-create](https://img.turingark.com/uPic/demo-live3.gif) 
+![linkding](https://images-1252557999.file.myqcloud.com/uPic/linkding.png) 
 
-### [Feeddd](https://github.com/feeddd/feeds)
+### [tiptop](https://github.com/nschloe/tiptop)
 
-![Feeddd](https://img.turingark.com/uPic/5a9np8.jpg)
+类似`htop`的命令行系统资源监控工具：
 
-一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
+![tiptop](https://img.turingark.com/uPic/tiptop.png) 
 
-### [wireflow](https://github.com/vanila-io/wireflow)
+### [pi-hole](https://pi-hole.net/)
 
-一款开源的用户流程图制作工具（点击[wireflow.co](https://wireflow.co/)访问）：
+一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
 
-![wireflow](https://images-1252557999.file.myqcloud.com/uPic/wireflow.png) 
+![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
 
 ## 🤖 软件 
-
-### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
-
-`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
-
-![Miao](https://img.turingark.com/uPic/Miao.png) 
 
 ### [Thor](https://github.com/gbammc/Thor)
 
@@ -37,51 +31,69 @@
 
 ![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
 
-### [marktext](https://github.com/marktext/marktext)
+### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
 
-![marktext](https://img.turingark.com/uPic/cvYHVG.png) 
+- 🍕 全平台支持. Windows, Mac, Linux
+- 🍥 支持 IPTV, 卫视直播
+- 🍔 视频源支持自定义, 支持导入, 导出
+- 🍟 支持海报模式和列表模式浏览资源
+- 🌭 播放历史, 自动跳转历史进度
+- 🍿 收藏夹支持导入,导出, 支持同步追剧
+- 🥙 支持精简模式, 摸鱼划水
+- 🥪 一键搜索所有资源, 支持历史搜索记录
+- 🌮 导出资源下载链接
+- 🍣 支持第三方播放器播放
+- 🍤 显示豆瓣评分
+
+![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
+
+### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
+
+网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
+
+![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
 
 ## 👀 资料 
 
-### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
+### [Flutter实战·第二版](https://book.flutterchina.club/)
 
-开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
+本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
 
-![fullstackopen](https://img.turingark.com/uPic/p1g8z3.png) 
+![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
 
-### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
+### [missing-semester-cn](https://missing-semester-cn.github.io/)
 
-精益副业：程序员如何优雅地做副业:
+计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
 
-![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
+在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
 
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
 
-30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
+### [leetcode](https://github.com/doocs/leetcode)
 
-![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
+本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
 
 ## 🕸 网站 
 
-### [tanpok](https://tool.tanpok.com/#/)
+### [一证通查](https://getsimnum.caict.ac.cn/#/)
 
-效果非常好的图片压缩工具：
+自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
 
-![tanpok](https://img.turingark.com/uPic/8fZN8v.png) 
+![phone_query](https://img.turingark.com/uPic/phone_query.png) 
 
-### [theonestopradio](https://theonestopradio.com/)
+### [couplet](https://ai.binwang.me/couplet/)
 
-发现你可能喜欢的电台：
+自动对联网站：
 
-![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
+![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
 
-### [devhints](https://www.f2er.com/tool/B5XO1oDY)
+### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
 
-**@妙才**推荐，一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
+中国少年儿童新闻出版总社免费开放的少儿绘本网站：
 
-![devhints](https://img.turingark.com/uPic/Wl8r0C.png) 
+![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
 
 ## ✍️ 说明
 
