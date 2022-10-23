@@ -5,88 +5,96 @@
 
 ## 🎯 项目 
 
-### [upptime](https://github.com/upptime/upptime)
+### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
 
-由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
+该项目支持将微信聊天记录导出并生成网页浏览。 
 
-![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-### [Super_Mario](https://github.com/BadagalaAdarsh/Super_Mario)
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-这是一个很有意思的项目，相信大家都玩过马里奥，这个项目可以让你用身体控制马里奥进行游戏，可以锻炼身体哈哈：
+ ![mm_wiki](https://img.turingark.com/uPic/mm_wiki.png) 
 
-![mario](https://img.turingark.com/uPic/mario.gif) 
+### [metabase](https://github.com/metabase/metabase)
 
-### [lsky-pro](https://github.com/lsky-org/lsky-pro)
+为公司提供的快速BI数据可视化工具：
 
-非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
+![metabase](https://images-1252557999.file.myqcloud.com/uPic/metabase.png)
 
-![vps_lsky_01](https://img.turingark.com/uPic/vps_lsky_01.jpg) 
+也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.cn/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease) 
 
 ## 🤖 软件 
 
-### [scrcpy](https://github.com/Genymobile/scrcpy)
+### [paperlib](https://github.com/GeoffreyChen777/paperlib)
 
-在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
+面向计算机科学的简单开源学术论文管理工具：
 
-它专注于：
+![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
 
-- 轻量 (原生，仅显示设备屏幕)
-- 性能 (30~60fps)
-- 质量 (分辨率可达 1920×1080 或更高)
-- 低延迟 (35~70ms)
-- 快速启动 (最快 1 秒内即可显示第一帧)
-- 无侵入性 (不会在设备上遗留任何程序) 
+### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
-### mizu
+控制外部显示器的亮度和音量（macOS）：
 
-微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
+![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
 
-![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
+### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
 
-### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+适用于Android的免费开源漫画阅读器，流畅丝滑：
 
-快速稳定好用的Redis跨平台桌面管理软件：
+![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
 
-![AnotherRedisDesktopManager](https://img.turingark.com/uPic/AnotherRedisDesktopManager.png) 
+之前我的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.cn/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
 
 ## 👀 资料 
 
-### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
+### [newsletter-list](https://github.com/chasays/newsletter-list)
 
-这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
+有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
 
-### [开源软件指南](https://opensource.guide/zh-hans/)
+- 互联网和科技
+- 成长和思考
+- 工具和效率 
 
-GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
+《Mastering GO》中文译本，《玩转 GO》：
 
-### [netkiller](https://www.netkiller.cn/)
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
-作者持续写了将近20年的技术博文，涵盖面极广：
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-![netkiller](https://img.turingark.com/uPic/V7rzw3.png) 
+深度学习入门教程资料聚合项目，包含：
+
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
+
+![dl01](https://img.turingark.com/uPic/532ono.jpg)
+
+![dl02](https://img.turingark.com/uPic/7I7Luc.jpg) 
 
 ## 🕸 网站 
 
-### [dbbqb](https://www.dbbqb.com/)
+### [regexlearn](https://regexlearn.com)
 
-专业的表情包搜索网站：
+一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
 
-![dbbqb](https://images-1252557999.file.myqcloud.com/uPic/dbbqb.jpg) 
+![regexlearn](https://img.turingark.com/uPic/yUZ5N4.png) 
 
-### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
+### [recompressor](https://zh.recompressor.com/)
 
-@妙才投稿，在线学习git命令的网站：
+免费的图片压缩工具：
 
-![](https://img.turingark.com/uPic/YSiAVW.png) 
+![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
 
-### [jsont.run](https://www.jsont.run/)
+### [bookmark.style](https://www.bookmark.style/)
 
-一个简洁的在线 `JSON` 解析器：
+将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
 
-![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
+![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
+
+假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
 
 ## ✍️ 说明
 
