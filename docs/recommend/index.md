@@ -5,96 +5,94 @@
 
 ## 🎯 项目 
 
-### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
+### [paopao-ce](https://github.com/rocboss/paopao-ce)
 
-该项目支持将微信聊天记录导出并生成网页浏览。 
+🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
+- [Go](https://go.dev/)
+- [Gin](https://gin-gonic.com/)
+- [Zinc](https://zinclabs.io/)
+- [Naive UI](https://www.naiveui.com/)
+- [Vue.js](https://vuejs.org/)
+- [Vite.js](https://vitejs.dev/)
 
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
 
- ![mm_wiki](https://img.turingark.com/uPic/mm_wiki.png) 
+网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
 
-### [metabase](https://github.com/metabase/metabase)
+### [naive-ui](https://github.com/tusen-ai/naive-ui)
 
-为公司提供的快速BI数据可视化工具：
+一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
 
-![metabase](https://images-1252557999.file.myqcloud.com/uPic/metabase.png)
+![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
 
-也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.cn/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease) 
+### [tinysearch](https://github.com/tinysearch/tinysearch)
+
+轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
 
 ## 🤖 软件 
 
-### [paperlib](https://github.com/GeoffreyChen777/paperlib)
+### [Sequel-Ace](https://sequel-ace.com/)
 
-面向计算机科学的简单开源学术论文管理工具：
+原生的 `MySQL/MariaDB` 数据库管理软件：
 
-![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
+![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
 
-### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
+### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
 
-控制外部显示器的亮度和音量（macOS）：
+跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
 
-![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
+![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
 
-### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
+### [kondo](https://github.com/tbillington/kondo)
 
-适用于Android的免费开源漫画阅读器，流畅丝滑：
+有时候在开发的时候，会惊讶于这个语言下依赖竟然有 `xx个G` 的硬盘占用，长期下来，硬盘的空间就这样不知不觉没有了，好在发现了这个项目，帮我解决了问题：
 
-![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
+![kondo](https://images-1252557999.file.myqcloud.com/uPic/kondo.png)
 
-之前我的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.cn/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
+可以看到上面 `Rust` 项目依赖确实大。 
 
 ## 👀 资料 
 
-### [newsletter-list](https://github.com/chasays/newsletter-list)
+### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
 
-有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
+一本基于`python&matplotlib`进行科学可视化的开源书籍：
 
-- 互联网和科技
-- 成长和思考
-- 工具和效率 
+![scientific-visualization-book](https://img.turingark.com/uPic/scientific-visualization-book.jpg) 
 
-### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
+### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
-《Mastering GO》中文译本，《玩转 GO》：
+LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
 
-![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
+### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
 
-### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
-
-深度学习入门教程资料聚合项目，包含：
-
-- 数学基础
-- 机器学习基础
-- 深度学习基础
-- 工程能力
-
-![dl01](https://img.turingark.com/uPic/532ono.jpg)
-
-![dl02](https://img.turingark.com/uPic/7I7Luc.jpg) 
+从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
 
 ## 🕸 网站 
 
-### [regexlearn](https://regexlearn.com)
+### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
 
-一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
+`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
 
-![regexlearn](https://img.turingark.com/uPic/yUZ5N4.png) 
+![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
 
-### [recompressor](https://zh.recompressor.com/)
+### [watermarkremover](https://www.watermarkremover.io/)
 
-免费的图片压缩工具：
+通过AI技术去除图片水印：
 
-![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
+![watermarkremover](https://img.turingark.com/uPic/watermarkremover.jpg) 
 
-### [bookmark.style](https://www.bookmark.style/)
+### [regex101](https://regex101.com/)
 
-将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
+`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
 
-![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
+- PHP
+- Python
+- JS
+- Go
+- Java
 
-假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
+![regex101](https://img.turingark.com/uPic/Fz15mf.png) 
 
 ## ✍️ 说明
 
