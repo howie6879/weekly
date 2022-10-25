@@ -5,94 +5,100 @@
 
 ## 🎯 项目 
 
-### [paopao-ce](https://github.com/rocboss/paopao-ce)
+### [LightBook](https://github.com/underthestars-zhy/LightBook)
 
-🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
+开源的小说下载脚本项目，输出格式为 `EPUB`：
 
-- [Go](https://go.dev/)
-- [Gin](https://gin-gonic.com/)
-- [Zinc](https://zinclabs.io/)
-- [Naive UI](https://www.naiveui.com/)
-- [Vue.js](https://vuejs.org/)
-- [Vite.js](https://vitejs.dev/)
+![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
 
-![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
+### [memos](https://github.com/justmemos/memos)
 
-网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
+Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
 
-### [naive-ui](https://github.com/tusen-ai/naive-ui)
+**🎯 产品意图**:
 
-一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
+- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
+- 🏗️ 代替了微信“文件传输助手”
+- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
 
-![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
+### [taskcafe](https://github.com/JordanKnott/taskcafe)
 
-### [tinysearch](https://github.com/tinysearch/tinysearch)
+带看板的开源项目管理工具:
 
-轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
+- 通过看板界面管理任务（设置截止日期、标签、添加清单）
+- 通过我的任务视图查看所有当前分配的任务
+- 支持个人项目
+- 任务评论和活动
+
+![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
 
 ## 🤖 软件 
 
-### [Sequel-Ace](https://sequel-ace.com/)
+### [CatchMouse](https://github.com/round/CatchMouse)
 
-原生的 `MySQL/MariaDB` 数据库管理软件：
+如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
 
-![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
+### [RedFish](https://github.com/Kuari/RedFish)
 
-### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
+一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
 
-跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
+![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
 
-![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
+### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
 
-### [kondo](https://github.com/tbillington/kondo)
+基于 Electron + Vue + ffmpeg 的 GUI：
 
-有时候在开发的时候，会惊讶于这个语言下依赖竟然有 `xx个G` 的硬盘占用，长期下来，硬盘的空间就这样不知不觉没有了，好在发现了这个项目，帮我解决了问题：
-
-![kondo](https://images-1252557999.file.myqcloud.com/uPic/kondo.png)
-
-可以看到上面 `Rust` 项目依赖确实大。 
+![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
 
 ## 👀 资料 
 
-### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
+### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
 
-一本基于`python&matplotlib`进行科学可视化的开源书籍：
+应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
 
-![scientific-visualization-book](https://img.turingark.com/uPic/scientific-visualization-book.jpg) 
+这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
 
-### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+- 入侵排查
+- 日志分析
+- 权限维持
+- Windows实战
+- Linux实战
+- Web实战 
 
-LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
+### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
-### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
+命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
 
-从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
+### [开源软件指南](https://opensource.guide/zh-hans/)
+
+GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+
+![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
 
 ## 🕸 网站 
 
-### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
+### [iconoir](https://iconoir.com/)
 
-`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
+开源的SVG图标搜索引擎：
 
-![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
+![iconoir](https://images-1252557999.file.myqcloud.com/uPic/iconoir.jpg) 
 
-### [watermarkremover](https://www.watermarkremover.io/)
+### [regexlearn](https://regexlearn.com)
 
-通过AI技术去除图片水印：
+一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
 
-![watermarkremover](https://img.turingark.com/uPic/watermarkremover.jpg) 
+![regexlearn](https://img.turingark.com/uPic/yUZ5N4.png) 
 
-### [regex101](https://regex101.com/)
+### [aosabook](http://aosabook.org/en/index.html)
 
-`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
+网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
 
-- PHP
-- Python
-- JS
-- Go
-- Java
+- ZeroMQ
+- Chrome
+- Nginx
+- 等等
 
-![regex101](https://img.turingark.com/uPic/Fz15mf.png) 
+上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
 
 ## ✍️ 说明
 
