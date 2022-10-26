@@ -5,100 +5,83 @@
 
 ## 🎯 项目 
 
-### [LightBook](https://github.com/underthestars-zhy/LightBook)
+### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
 
-开源的小说下载脚本项目，输出格式为 `EPUB`：
+B站视频命令行下载工具：
 
-![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
+![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
 
-### [memos](https://github.com/justmemos/memos)
+### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 
-Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
+免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
 
-**🎯 产品意图**:
+![rxresu](https://img.turingark.com/uPic/rxresu.jpg) 
 
-- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
-- 🏗️ 代替了微信“文件传输助手”
-- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
+### [sealos](https://github.com/fanux/sealos)
 
-### [taskcafe](https://github.com/JordanKnott/taskcafe)
-
-带看板的开源项目管理工具:
-
-- 通过看板界面管理任务（设置截止日期、标签、添加清单）
-- 通过我的任务视图查看所有当前分配的任务
-- 支持个人项目
-- 任务评论和活动
-
-![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
+一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
 
 ## 🤖 软件 
 
-### [CatchMouse](https://github.com/round/CatchMouse)
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
-如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
+`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
 
-### [RedFish](https://github.com/Kuari/RedFish)
+![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
 
-一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
+### [bdash](https://github.com/bdash-app/bdash)
 
-![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
+用于数据分析的简单 `SQL` 客户端：
 
-### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
+![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
 
-基于 Electron + Vue + ffmpeg 的 GUI：
+### [哔哩](https://github.com/Richasy/Bili.Uwp)
 
-![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
+一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
+
+![bili](https://img.turingark.com/uPic/lnDWzU.jpg) 
 
 ## 👀 资料 
 
-### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
+### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
 
-应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
+张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
 
-这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
+![rust_magazine](https://img.turingark.com/uPic/FvKrE4.png) 
 
-- 入侵排查
-- 日志分析
-- 权限维持
-- Windows实战
-- Linux实战
-- Web实战 
+### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
-### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+一个在YouTube上发现最新机器学习课程的项目。 
 
-命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
+### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
 
-### [开源软件指南](https://opensource.guide/zh-hans/)
+📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
 
-GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
-
-![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
+![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
 
 ## 🕸 网站 
 
-### [iconoir](https://iconoir.com/)
+### [squoosh](https://squoosh.app/)
 
-开源的SVG图标搜索引擎：
+免费漂亮的在线图片压缩网站：
 
-![iconoir](https://images-1252557999.file.myqcloud.com/uPic/iconoir.jpg) 
+![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
 
-### [regexlearn](https://regexlearn.com)
+其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
 
-一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
+### [uiset](https://uiset.com/)
 
-![regexlearn](https://img.turingark.com/uPic/yUZ5N4.png) 
+共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
 
-### [aosabook](http://aosabook.org/en/index.html)
+![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
 
-网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
+### [bookmark.style](https://www.bookmark.style/)
 
-- ZeroMQ
-- Chrome
-- Nginx
-- 等等
+将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
 
-上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
+![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
+
+假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
 
 ## ✍️ 说明
 
