@@ -5,83 +5,104 @@
 
 ## 🎯 项目 
 
-### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
+### [taskcafe](https://github.com/JordanKnott/taskcafe)
 
-B站视频命令行下载工具：
+带看板的开源项目管理工具:
 
-![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
+- 通过看板界面管理任务（设置截止日期、标签、添加清单）
+- 通过我的任务视图查看所有当前分配的任务
+- 支持个人项目
+- 任务评论和活动
 
-### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
 
-免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
+### [PanIndex](https://github.com/libsgh/PanIndex)
 
-![rxresu](https://img.turingark.com/uPic/rxresu.jpg) 
+网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
 
-### [sealos](https://github.com/fanux/sealos)
+- 跨平台、易部署
+- 多模式、多网盘
+- 多主题
+- 下载直链
+- 防盗链
+- 短链、分享
+- 访问控制
+- 分流
+- WebDav
 
-一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
+![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
+
+### [nn-editor](https://github.com/scarsty/nn-editor)
+
+Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经网络结构的简单编辑，或者某些特殊流程图的编辑。
+
+![nn-editor](https://img.turingark.com/uPic/By0C3O.jpg) 
 
 ## 🤖 软件 
 
-### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
+### [Maccy](https://github.com/p0deje/Maccy)
 
-`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
+轻量级macOS剪切板管理应用：
 
-![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
+![](https://img.turingark.com/uPic/t3XNpU.png)
+使用截图如下：
 
-### [bdash](https://github.com/bdash-app/bdash)
+![](https://img.turingark.com/uPic/SWZ6kJ.png) 
 
-用于数据分析的简单 `SQL` 客户端：
+### [ShareX](https://github.com/ShareX/ShareX)
 
-![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
+`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
 
-### [哔哩](https://github.com/Richasy/Bili.Uwp)
+![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
 
-一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
+### [lively](https://github.com/rocksdanister/lively)
 
-![bili](https://img.turingark.com/uPic/lnDWzU.jpg) 
+针对 `Windows` 的开源的动态壁纸软件：
+
+![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
 
 ## 👀 资料 
 
-### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
+### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
-张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
+这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
 
-![rust_magazine](https://img.turingark.com/uPic/FvKrE4.png) 
+我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
 
-### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
 
-一个在YouTube上发现最新机器学习课程的项目。 
+一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
 
-### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
+### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 
-📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
+以非常直观的语言介绍`pytorch`：
 
-![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
+![eat_pytorch_in_20_days](https://img.turingark.com/uPic/fnTFJ5.png)
+
+作者的同类电子书还有：
+
+- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
 
 ## 🕸 网站 
 
-### [squoosh](https://squoosh.app/)
+### [seekflag](https://seekflag.com/)
 
-免费漂亮的在线图片压缩网站：
+网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
 
-![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
+![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
 
-其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
+### [法律时代导航](https://yesen.cn/)
 
-### [uiset](https://uiset.com/)
+法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
 
-共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
+![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
 
-![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
+### [apitracker](https://apitracker.io/)
 
-### [bookmark.style](https://www.bookmark.style/)
+发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
 
-将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
-
-![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
-
-假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
+![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
 
 ## ✍️ 说明
 
