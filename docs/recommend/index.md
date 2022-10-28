@@ -5,16 +5,11 @@
 
 ## 🎯 项目 
 
-### [taskcafe](https://github.com/JordanKnott/taskcafe)
+### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
 
-带看板的开源项目管理工具:
+`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
 
-- 通过看板界面管理任务（设置截止日期、标签、添加清单）
-- 通过我的任务视图查看所有当前分配的任务
-- 支持个人项目
-- 任务评论和活动
-
-![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
+![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
 
 ### [PanIndex](https://github.com/libsgh/PanIndex)
 
@@ -32,22 +27,13 @@
 
 ![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
 
-### [nn-editor](https://github.com/scarsty/nn-editor)
+### [LightBook](https://github.com/underthestars-zhy/LightBook)
 
-Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经网络结构的简单编辑，或者某些特殊流程图的编辑。
+开源的小说下载脚本项目，输出格式为 `EPUB`：
 
-![nn-editor](https://img.turingark.com/uPic/By0C3O.jpg) 
+![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
 
 ## 🤖 软件 
-
-### [Maccy](https://github.com/p0deje/Maccy)
-
-轻量级macOS剪切板管理应用：
-
-![](https://img.turingark.com/uPic/t3XNpU.png)
-使用截图如下：
-
-![](https://img.turingark.com/uPic/SWZ6kJ.png) 
 
 ### [ShareX](https://github.com/ShareX/ShareX)
 
@@ -55,54 +41,65 @@ Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经�
 
 ![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
 
-### [lively](https://github.com/rocksdanister/lively)
+### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
 
-针对 `Windows` 的开源的动态壁纸软件：
+安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
 
-![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
+- [美团买菜版本](https://github.com/qulingyuan/robVeg)
+- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
+
+### [Sequel-Ace](https://sequel-ace.com/)
+
+原生的 `MySQL/MariaDB` 数据库管理软件：
+
+![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
 
 ## 👀 资料 
 
-### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
 
-这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
+中国5级行政区域mysql库：
 
-我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
+- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
+- 港澳地区的数据只有3级;台湾地区4级
+- 包含大陆地区的邮政编码和经纬度信息 
 
-### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
+### [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
-一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
+📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
 
-### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+![CS-Notes](https://img.turingark.com/uPic/7aMFrS.png) 
 
-以非常直观的语言介绍`pytorch`：
+### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
 
-![eat_pytorch_in_20_days](https://img.turingark.com/uPic/fnTFJ5.png)
-
-作者的同类电子书还有：
-
-- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
 
 ## 🕸 网站 
 
-### [seekflag](https://seekflag.com/)
+### [wantquotes.net](https://wantquotes.net/)
 
-网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
+清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
 
-![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
+![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
 
-### [法律时代导航](https://yesen.cn/)
+### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
 
-法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
+`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
 
-![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
+- 可视化组件配置栏
+- 随机生成头像，有一定概率触发彩蛋
+- 撤销/还原*更改*
+- 国际化多语言
 
-### [apitracker](https://apitracker.io/)
+![vue-color-avatar](https://img.turingark.com/uPic/n3gXb6.png) 
 
-发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
+### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
 
-![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
+目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
+
+![privacy-policy](https://img.turingark.com/uPic/U5XxZE.png)
+
+![terms-and-conditions](https://img.turingark.com/uPic/jH8Xyz.png) 
 
 ## ✍️ 说明
 
