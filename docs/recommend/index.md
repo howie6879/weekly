@@ -5,101 +5,112 @@
 
 ## 🎯 项目 
 
-### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
+### [Cloudreve](https://github.com/cloudreve/Cloudreve)
 
-`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
+支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
 
-![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
+- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
+- 📤  上传/下载 支持客户端直传，支持下载限速
+- 💾  可对接 Aria2 离线下载
+- 📚  在线 压缩/解压缩、多文件打包下载
+- 💻  覆盖全部存储策略的 WebDAV 协议支持
+- ⚡  拖拽上传、目录上传、流式上传处理
+- 🗃️  文件拖拽管理
+- 👩‍👧‍👦  多用户、用户组
+- 🔗  创建文件、目录的分享链接，可设定自动过期
+- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
+- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
+- 🚀  All-In-One 打包，开箱即用
+- 🌈  ... ...
 
-### [PanIndex](https://github.com/libsgh/PanIndex)
+![Cloudreve](https://img.turingark.com/uPic/opzEP2.jpg) 
 
-网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
+### [slickr](https://github.com/saviomartin/slickr)
 
-- 跨平台、易部署
-- 多模式、多网盘
-- 多主题
-- 下载直链
-- 防盗链
-- 短链、分享
-- 访问控制
-- 分流
-- WebDav
+文章封面图生成构建工具，适合经常发布文章的朋友，顺便说句，项目作者14岁：
 
-![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
+![slickr](https://images-1252557999.file.myqcloud.com/uPic/slickr.gif) 
 
-### [LightBook](https://github.com/underthestars-zhy/LightBook)
+### [gitrec](https://github.com/gorse-io/gitrec)
 
-开源的小说下载脚本项目，输出格式为 `EPUB`：
+作者自己维护的Gorse推荐系统，开发了一款 Chrome 插件：
 
-![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
+- 推荐每个热门项目的相似或者相关仓库；
+- 用 [Gorse](https://github.com/gorse-io/gorse) 生成的个性化推荐仓库替换 GitHub 官方的推荐结果。
+
+目前支持 Chrome 和 Edge 两款浏览器：
+
+![gorse](https://images-1252557999.file.myqcloud.com/uPic/gorse.png) 
 
 ## 🤖 软件 
 
-### [ShareX](https://github.com/ShareX/ShareX)
+### [FairEmail](https://github.com/M66B/FairEmail)
 
-`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
+完全开源免费、具有全面功能、面向隐私的邮件App（仅支持安卓）：
 
-![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
+![FairEmail](https://images-1252557999.file.myqcloud.com/uPic/FairEmail.png) 
 
-### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
+### [Seal](https://github.com/JunkFood02/Seal)
 
-安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
+一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
 
-- [美团买菜版本](https://github.com/qulingyuan/robVeg)
-- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
+- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
+- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
+- 播放列表下载支持
+- 内嵌字幕于视频文件中
+- 执行自定义的 yt-dlp 命令模板
+- 管理应用内下载与自定义命令模板
+- 使用简单、用户友好
+- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
+- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
+    
+![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
 
-### [Sequel-Ace](https://sequel-ace.com/)
+### [vnote](https://github.com/vnotex/vnote)
 
-原生的 `MySQL/MariaDB` 数据库管理软件：
+VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
 
-![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
+![vnote](https://img.turingark.com/uPic/vnote.png) 
 
 ## 👀 资料 
 
-### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
+### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 
-中国5级行政区域mysql库：
+PyTorch 从0到精通教程：
 
-- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
-- 港澳地区的数据只有3级;台湾地区4级
-- 包含大陆地区的邮政编码和经纬度信息 
+![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
 
-### [CS-Notes](https://github.com/CyC2018/CS-Notes)
+### [whys-the-design](https://draven.co/whys-the-design/)
 
-📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
+为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
 
-![CS-Notes](https://img.turingark.com/uPic/7aMFrS.png) 
+![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
 
-### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
+### RustBook
 
-非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
+一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
+
+![RustBook](https://img.turingark.com/uPic/RustBook.jpg) 
 
 ## 🕸 网站 
 
-### [wantquotes.net](https://wantquotes.net/)
+### [batnoter](https://batnoter.com/)
 
-清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
-### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
+### [jsont.run](https://www.jsont.run/)
 
-`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
+一个简洁的在线 `JSON` 解析器：
 
-- 可视化组件配置栏
-- 随机生成头像，有一定概率触发彩蛋
-- 撤销/还原*更改*
-- 国际化多语言
+![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
 
-![vue-color-avatar](https://img.turingark.com/uPic/n3gXb6.png) 
+### [huawei-od](https://huawei-od.vercel.app/)
 
-### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
+牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
 
-目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
-
-![privacy-policy](https://img.turingark.com/uPic/U5XxZE.png)
-
-![terms-and-conditions](https://img.turingark.com/uPic/jH8Xyz.png) 
+![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
 
 ## ✍️ 说明
 
