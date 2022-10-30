@@ -5,6 +5,5 @@
   },
   "python.formatting.provider": "black",
   "python.envFile": "${workspaceFolder}/.env",
-  "python.linting.pylintEnabled": true,
-  "workbench.colorTheme": "Vitesse Dark"
+  "python.linting.pylintEnabled": true
 }
