@@ -5,91 +5,77 @@
 
 ## 🎯 项目 
 
-### [Textual](https://github.com/Textualize/textual)
+### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
 
-`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
+CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
 
-![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
+![CasaOS](https://img.turingark.com/uPic/rA4tpa.jpg) 
 
-### [ddns-go](https://github.com/jeessy2/ddns-go)
+### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
 
-简单好用的 `DDNS`，自动更新域名解析到公网IP(支持阿里云、腾讯云 `dnspod`、`Cloudflare`、华为云、百度云、`porkbun`)：
+该项目支持将微信聊天记录导出并生成网页浏览。 
 
-![ddns-go](https://images-1252557999.file.myqcloud.com/uPic/ddns-go.png) 
+### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
 
-### [JD\_tencent\_scf](https://github.com/cweijan/JD_tencent_scf)
-
-这个项目简化了打京豆的脚本部署流程，每个月能打1500(不确定)左右。 
+让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
 
 ## 🤖 软件 
 
-### [eoapi](https://github.com/eolinker/eoapi)
+### [licecap](https://github.com/justinfrankel/licecap)
 
-`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
 
-![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
+### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
 
-### [BetterDummy](https://github.com/waydabber/BetterDummy)
+一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
 
-`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
+![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
 
-![bd_menu](https://img.turingark.com/uPic/bd_menu.png)
+### [Robo 3T](https://github.com/Studio3T/robomongo)
 
-如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
+本人常用的一款MongoDB跨平台管理软件，开源免费：
 
-### [insomnia](https://github.com/Kong/insomnia)
-
-在[第009期（10-11~10-17）](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
-
-![insomnia](https://img.turingark.com/uPic/insomnia.png)
-使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
+![robomongo](https://img.turingark.com/uPic/robomongo.jpg) 
 
 ## 👀 资料 
 
-### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
+### [从零开始的Kubernetes攻防](https://github.com/neargle/my-re0-k8s-security)
 
-这里有比较全面的时间序列数据相关资源。 
+![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
 
-### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
 
-《结网》作者王坚的开源新书：
+站点可靠性工作手册：
 
-![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
-### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
+### [under-the-hood](https://golang.design/under-the-hood/)
 
-`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
+`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
 
-- [Tauri 项目](https://github.com/tauri-apps/tauri)
-- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
-- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
+![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
 
 ## 🕸 网站 
 
-### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
+### [bookmark.style](https://www.bookmark.style/)
 
-来自阿里体系的各种技术资料，全部免费，个人非常推荐。
+将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
 
-![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
+![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
 
-### [linegraphmaker](https://linegraphmaker.co/)
+假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
 
-在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
+### [zlib.pro](https://zlib.pro/)
 
-![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
+`Z-Library` 是一个书籍检索下载网站，这个网站提供了更方便的查找访问方式：
 
-### [dute](https://www.dute.org/)
+![zlib-pro](https://images-1252557999.file.myqcloud.com/uPic/zlib-pro.jpg) 
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
+### [tableconvert](https://tableconvert.com/)
 
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
+`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
 
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
 
 ## ✍️ 说明
 
