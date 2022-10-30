@@ -5,77 +5,82 @@
 
 ## 🎯 项目 
 
-### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
+### [samila](https://github.com/sepandhaghighi/samila)
 
-CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
+艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
 
-![CasaOS](https://img.turingark.com/uPic/rA4tpa.jpg) 
+![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
 
-### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
+### [flet](https://github.com/flet-dev/flet)
 
-该项目支持将微信聊天记录导出并生成网页浏览。 
+用 `Python` 开发跨平台 `Flutter` 应用：
 
-### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
+![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
 
-让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
+### [cpdf-source](https://github.com/johnwhitington/cpdf-source)
+
+命令行处理PDF，比如拆分（支持书签）、合并等，点击这里[下载](https://coherentpdf.com/eval.html)，全平台支持。 
 
 ## 🤖 软件 
 
-### [licecap](https://github.com/justinfrankel/licecap)
+### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
 
-LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
+安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
 
-### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
+- [美团买菜版本](https://github.com/qulingyuan/robVeg)
+- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
 
-一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
+### [Gif123](https://github.com/aardio/Gif123)
 
-![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
+非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
 
-### [Robo 3T](https://github.com/Studio3T/robomongo)
+![Gif123](https://img.turingark.com/uPic/FQabyv.jpg) 
 
-本人常用的一款MongoDB跨平台管理软件，开源免费：
+### [bdash](https://github.com/bdash-app/bdash)
 
-![robomongo](https://img.turingark.com/uPic/robomongo.jpg) 
+用于数据分析的简单 `SQL` 客户端：
+
+![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
 
 ## 👀 资料 
 
-### [从零开始的Kubernetes攻防](https://github.com/neargle/my-re0-k8s-security)
+### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
 
-![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
+30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
 
-### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+![30-Days-Of-React](https://img.turingark.com/uPic/GeYfjR.jpg) 
 
-站点可靠性工作手册：
+### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
 
-![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
+Kubernetes 中文指南/云原生应用架构实战手册：
 
-### [under-the-hood](https://golang.design/under-the-hood/)
+![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
 
-`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
+### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
 
-![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
+一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
+
+![NhkQDk](https://img.turingark.com/uPic/NhkQDk.jpg) 
 
 ## 🕸 网站 
 
-### [bookmark.style](https://www.bookmark.style/)
+### [similarsites](https://www.similarsites.com/)
 
-将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
+输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
 
-![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
+![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
 
-假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
+### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
 
-### [zlib.pro](https://zlib.pro/)
+唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
 
-`Z-Library` 是一个书籍检索下载网站，这个网站提供了更方便的查找访问方式：
+![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
 
-![zlib-pro](https://images-1252557999.file.myqcloud.com/uPic/zlib-pro.jpg) 
+### [dev.to](https://dev.to/)
 
-### [tableconvert](https://tableconvert.com/)
+国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
 
-`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
-
-![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
+![dev_to](https://img.turingark.com/uPic/dev_to.png) 
 
 ## ✍️ 说明
 
