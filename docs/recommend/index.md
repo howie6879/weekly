@@ -5,82 +5,87 @@
 
 ## 🎯 项目 
 
-### [samila](https://github.com/sepandhaghighi/samila)
+### [zfile](https://github.com/zhaojun1998/zfile)
 
-艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
+基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
 
-![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
+![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
 
-### [flet](https://github.com/flet-dev/flet)
+### [MRDOC](https://mrdoc.pro/)
 
-用 `Python` 开发跨平台 `Flutter` 应用：
+`MRDOC`觅思文档，私有云笔记、云文档和知识库系统，适合作为私有云文档、云笔记和知识管理的私有化在线文档部署方案。
 
-![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
+分为开源版和付费版，小团队可以考虑使用：
 
-### [cpdf-source](https://github.com/johnwhitington/cpdf-source)
+![MRDOC](https://img.turingark.com/uPic/u43buW.png) 
 
-命令行处理PDF，比如拆分（支持书签）、合并等，点击这里[下载](https://coherentpdf.com/eval.html)，全平台支持。 
+### [easy-gate](https://github.com/r7wx/easy-gate)
+
+`Easy Gate` 是一个使用 `Go` 和 `React` 构建的简单 `Web` 应用程序，它充当您自托管基础设施的主页。服务和注释从 `JSON` 文件中实时解析（无需重新启动应用程序）。可以将服务和注释分配给一个或多个组，以仅向特定用户显示项目（基于他们的 IP 地址）。
+
+![easy-gate](https://images-1252557999.file.myqcloud.com/uPic/easy-gate.png) 
 
 ## 🤖 软件 
 
-### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
+### [NotepadNext](https://github.com/dail8859/NotepadNext)
 
-安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
+`Notepad++`的跨平台开源实现：
 
-- [美团买菜版本](https://github.com/qulingyuan/robVeg)
-- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
+![NotepadNext](https://img.turingark.com/uPic/NotepadNext.png) 
 
-### [Gif123](https://github.com/aardio/Gif123)
+### [codeapp](https://github.com/thebaselab/codeapp)
 
-非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
+为 `iPad` 构建一个成熟的代码编辑器：
 
-![Gif123](https://img.turingark.com/uPic/FQabyv.jpg) 
+![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
 
-### [bdash](https://github.com/bdash-app/bdash)
+### [FairEmail](https://github.com/M66B/FairEmail)
 
-用于数据分析的简单 `SQL` 客户端：
+完全开源免费、具有全面功能、面向隐私的邮件App（仅支持安卓）：
 
-![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
+![FairEmail](https://images-1252557999.file.myqcloud.com/uPic/FairEmail.png) 
 
 ## 👀 资料 
 
-### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
+### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
+计算机科学课程和视频讲座列表：
 
-![30-Days-Of-React](https://img.turingark.com/uPic/GeYfjR.jpg) 
+![cs-video-courses](https://img.turingark.com/uPic/cs-video-courses.jpg) 
 
-### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
 
-Kubernetes 中文指南/云原生应用架构实战手册：
+站点可靠性工作手册：
 
-![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
-### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
+### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
 
-一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
+`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
 
-![NhkQDk](https://img.turingark.com/uPic/NhkQDk.jpg) 
+![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
 
 ## 🕸 网站 
 
-### [similarsites](https://www.similarsites.com/)
+### [网道](https://wangdoc.com/)
 
-输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
+前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
 
-![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
+目前提供了不少教程，对于初学者是非常友好的：
 
-### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
+![网道](https://img.turingark.com/uPic/PP2xqR.png) 
 
-唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
+### [uiverse.io](https://uiverse.io/)
 
-![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
+一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
 
-### [dev.to](https://dev.to/)
+![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
 
-国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
+### [couplet](https://ai.binwang.me/couplet/)
 
-![dev_to](https://img.turingark.com/uPic/dev_to.png) 
+自动对联网站：
+
+![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
 
 ## ✍️ 说明
 
