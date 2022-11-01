@@ -5,19 +5,17 @@
 
 ## 🎯 项目 
 
-### [zfile](https://github.com/zhaojun1998/zfile)
+### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
 
-基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
+最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
 
-![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
+![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
 
-### [MRDOC](https://mrdoc.pro/)
+### [Feeddd](https://github.com/feeddd/feeds)
 
-`MRDOC`觅思文档，私有云笔记、云文档和知识库系统，适合作为私有云文档、云笔记和知识管理的私有化在线文档部署方案。
+![Feeddd](https://img.turingark.com/uPic/5a9np8.jpg)
 
-分为开源版和付费版，小团队可以考虑使用：
-
-![MRDOC](https://img.turingark.com/uPic/u43buW.png) 
+一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
 
 ### [easy-gate](https://github.com/r7wx/easy-gate)
 
@@ -27,65 +25,69 @@
 
 ## 🤖 软件 
 
-### [NotepadNext](https://github.com/dail8859/NotepadNext)
+### [DevToys](https://github.com/veler/DevToys)
 
-`Notepad++`的跨平台开源实现：
+Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
 
-![NotepadNext](https://img.turingark.com/uPic/NotepadNext.png) 
+![](https://img.turingark.com/uPic/DevToys.png)
 
-### [codeapp](https://github.com/thebaselab/codeapp)
+可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
 
-为 `iPad` 构建一个成熟的代码编辑器：
+![](https://img.turingark.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
 
-![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
+放心体验吧~ 
 
-### [FairEmail](https://github.com/M66B/FairEmail)
+### [legado](https://github.com/gedoor/legado)
 
-完全开源免费、具有全面功能、面向隐私的邮件App（仅支持安卓）：
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-![FairEmail](https://images-1252557999.file.myqcloud.com/uPic/FairEmail.png) 
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
+
+![legado](https://img.turingark.com/uPic/jSEBJ9.png) 
+
+### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
+
+跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
+
+![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
 
 ## 👀 资料 
 
-### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
 
-计算机科学课程和视频讲座列表：
+深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
 
-![cs-video-courses](https://img.turingark.com/uPic/cs-video-courses.jpg) 
+### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
-### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
 
-站点可靠性工作手册：
+我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
 
-![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
+### [meetup](https://github.com/baiyutang/meetup)
 
-### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
+【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
 
-`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
-
-![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
+![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
 
 ## 🕸 网站 
 
-### [网道](https://wangdoc.com/)
+### [sqlime](http://sqlime.org/)
 
-前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
+SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
 
-目前提供了不少教程，对于初学者是非常友好的：
+![sqlime](https://img.turingark.com/uPic/57MTfO.jpg) 
 
-![网道](https://img.turingark.com/uPic/PP2xqR.png) 
+### [sysmini](https://www.sysmini.com/)
 
-### [uiverse.io](https://uiverse.io/)
+站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
 
-一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
+![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
 
-![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
+### [removebg](https://www.remove.bg/zh)
 
-### [couplet](https://ai.binwang.me/couplet/)
+这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
 
-自动对联网站：
-
-![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
+![removebg](https://img.turingark.com/uPic/TW1uwy.png) 
 
 ## ✍️ 说明
 
