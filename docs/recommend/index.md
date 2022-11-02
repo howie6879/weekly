@@ -5,89 +5,100 @@
 
 ## 🎯 项目 
 
-### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
+### [gorse](https://github.com/zhenghaoz/gorse)
 
-最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
+用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
 
-![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
+![gorse](https://img.turingark.com/uPic/nP2kgE.jpg)
 
-### [Feeddd](https://github.com/feeddd/feeds)
+作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
 
-![Feeddd](https://img.turingark.com/uPic/5a9np8.jpg)
+![gitrec](https://img.turingark.com/uPic/jAuEdM.jpg) 
 
-一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
+### [unredacter](https://github.com/bishopfox/unredacter)
 
-### [easy-gate](https://github.com/r7wx/easy-gate)
+一个还原马赛克图片的原始内容的工具：
 
-`Easy Gate` 是一个使用 `Go` 和 `React` 构建的简单 `Web` 应用程序，它充当您自托管基础设施的主页。服务和注释从 `JSON` 文件中实时解析（无需重新启动应用程序）。可以将服务和注释分配给一个或多个组，以仅向特定用户显示项目（基于他们的 IP 地址）。
+![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
 
-![easy-gate](https://images-1252557999.file.myqcloud.com/uPic/easy-gate.png) 
+### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
+
+如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
+
+- 教程
+- 软件
+- 工具&服务
+- 社区
+- ......
+
+你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
+
+- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
+- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
+
+![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
 
 ## 🤖 软件 
 
-### [DevToys](https://github.com/veler/DevToys)
+### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
-Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
+跨平台的 `PostgreSQL` 数据库管理软件（开源）：
 
-![](https://img.turingark.com/uPic/DevToys.png)
+![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
 
-可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
+### [uncle-novel](https://github.com/unclezs/uncle-novel)
 
-![](https://img.turingark.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
+一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
 
-放心体验吧~ 
+![uncle-novel](https://img.turingark.com/uPic/ciiKWp.jpg) 
 
-### [legado](https://github.com/gedoor/legado)
+### [B站录播姬](https://rec.danmuji.org/)
 
-阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+一个方便好用免费开源的哔哩哔哩直播录制工具：
 
-简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
-
-![legado](https://img.turingark.com/uPic/jSEBJ9.png) 
-
-### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
-
-跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
-
-![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
+![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
 
 ## 👀 资料 
 
-### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
+### [archbase](https://github.com/foxsen/archbase)
 
-深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
 
-### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
 
-这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
+### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 
-我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
+C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
 
-### [meetup](https://github.com/baiyutang/meetup)
+![Cpp-0-1-Resource](https://img.turingark.com/uPic/rM99nS.png) 
 
-【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
+### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
 
-![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
+Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+
+![eng-practices](https://img.turingark.com/uPic/rDrm0R.png) 
 
 ## 🕸 网站 
 
-### [sqlime](http://sqlime.org/)
+### [qrcode-monkey](https://www.qrcode-monkey.com/#)
 
-SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
+免费的二维码生成网站：
 
-![sqlime](https://img.turingark.com/uPic/57MTfO.jpg) 
+![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
 
-### [sysmini](https://www.sysmini.com/)
+### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
 
-站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
+目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
 
-![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
+![privacy-policy](https://img.turingark.com/uPic/U5XxZE.png)
 
-### [removebg](https://www.remove.bg/zh)
+![terms-and-conditions](https://img.turingark.com/uPic/jH8Xyz.png) 
 
-这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
+### [rust-search-extension](https://rust.extension.sh/)
 
-![removebg](https://img.turingark.com/uPic/TW1uwy.png) 
+在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
+
+![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
 
 ## ✍️ 说明
 
