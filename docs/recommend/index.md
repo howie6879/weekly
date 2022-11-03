@@ -5,100 +5,83 @@
 
 ## 🎯 项目 
 
-### [gorse](https://github.com/zhenghaoz/gorse)
+### [Casdoor](https://github.com/casdoor/casdoor)
 
-用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
+Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
 
-![gorse](https://img.turingark.com/uPic/nP2kgE.jpg)
+![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
 
-作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
+### [greppo](https://github.com/greppo-io/greppo)
 
-![gitrec](https://img.turingark.com/uPic/jAuEdM.jpg) 
+快速轻松地构建部署地理空间应用程序：
 
-### [unredacter](https://github.com/bishopfox/unredacter)
+![greppo](https://img.turingark.com/uPic/IzNSxY.jpg) 
 
-一个还原马赛克图片的原始内容的工具：
+### [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
 
-![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
+直播源相关资源汇总 📺 💯 IPTV、M3U，让你不用安装有线电视就可以高清无卡顿的看电视。
 
-### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
-
-如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
-
-- 教程
-- 软件
-- 工具&服务
-- 社区
-- ......
-
-你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
-
-- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
-- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
-
-![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
+![](https://img.turingark.com/uPic/oQ6iZ0.jpg) 
 
 ## 🤖 软件 
 
-### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
+### [MusicFree](https://github.com/maotoumao/MusicFree)
 
-跨平台的 `PostgreSQL` 数据库管理软件（开源）：
+插件化、定制化、无广告的免费音乐播放器，目前只支持 `Android` 和 `Harmony OS`：
 
-![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
+![freemusic](https://images-1252557999.file.myqcloud.com/uPic/freemusic.jpg) 
 
-### [uncle-novel](https://github.com/unclezs/uncle-novel)
+### [gushi_namer](https://github.com/holynova/gushi_namer)
 
-一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
 
-![uncle-novel](https://img.turingark.com/uPic/ciiKWp.jpg) 
+![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
 
-### [B站录播姬](https://rec.danmuji.org/)
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
-一个方便好用免费开源的哔哩哔哩直播录制工具：
+### [Übersicht](https://github.com/felixhageloh/uebersicht)
 
-![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
+构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
+
+![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
 
 ## 👀 资料 
 
-### [archbase](https://github.com/foxsen/archbase)
+### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
 
-这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+ Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
 
-![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
+ ![rust_embedded_dev](https://img.turingark.com/uPic/rust_embedded_dev.jpg) 
 
-### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+### [English-Writing](https://github.com/yzy1996/English-Writing)
 
-C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
+本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
-![Cpp-0-1-Resource](https://img.turingark.com/uPic/rM99nS.png) 
+### [under-the-hood](https://golang.design/under-the-hood/)
 
-### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
+`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
 
-Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
-
-![eng-practices](https://img.turingark.com/uPic/rDrm0R.png) 
+![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
 
 ## 🕸 网站 
 
-### [qrcode-monkey](https://www.qrcode-monkey.com/#)
+### [zerossl](https://zerossl.com/)
 
-免费的二维码生成网站：
+一个可以免费签 IP 地址 SSL 证书的网站：
 
-![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
+![zerossl](https://img.turingark.com/uPic/zerossl.jpg) 
 
-### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
+### [huawei-od](https://huawei-od.vercel.app/)
 
-目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
+牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
 
-![privacy-policy](https://img.turingark.com/uPic/U5XxZE.png)
+![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
 
-![terms-and-conditions](https://img.turingark.com/uPic/jH8Xyz.png) 
+### [tableconvert](https://tableconvert.com/)
 
-### [rust-search-extension](https://rust.extension.sh/)
+`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
 
-在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
-
-![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
+![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
 
 ## ✍️ 说明
 
