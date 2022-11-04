@@ -5,45 +5,59 @@
 
 ## 🎯 项目 
 
-### [Casdoor](https://github.com/casdoor/casdoor)
+### [BGmi](https://github.com/BGmi/BGmi)
 
-Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
+`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
 
-![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
+![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
 
-### [greppo](https://github.com/greppo-io/greppo)
+### [markdown-nice](https://github.com/mdnice/markdown-nice)
 
-快速轻松地构建部署地理空间应用程序：
+有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
 
-![greppo](https://img.turingark.com/uPic/IzNSxY.jpg) 
+> 支持主题设计的 Markdown 编辑器，让排版变 Nice
 
-### [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
+你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
 
-直播源相关资源汇总 📺 💯 IPTV、M3U，让你不用安装有线电视就可以高清无卡顿的看电视。
+![](https://img.turingark.com/uPic/oGeICY.png)
 
-![](https://img.turingark.com/uPic/oQ6iZ0.jpg) 
+官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
+
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
+
+### [kanboard](https://kanboard.org/)
+
+`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
+
+- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
+- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
+- 可评估：方便收集如任务完成数量、质量、时间等性能指标
+
+![Kanboard](https://img.turingark.com/uPic/76TTj6.png) 
 
 ## 🤖 软件 
 
-### [MusicFree](https://github.com/maotoumao/MusicFree)
+### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
 
-插件化、定制化、无广告的免费音乐播放器，目前只支持 `Android` 和 `Harmony OS`：
+科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
 
-![freemusic](https://images-1252557999.file.myqcloud.com/uPic/freemusic.jpg) 
+![CopyTranslator](https://img.turingark.com/uPic/CopyTranslator.gif)
 
-### [gushi_namer](https://github.com/holynova/gushi_namer)
+还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
 
-古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
+### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 
-![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+快速稳定好用的Redis跨平台桌面管理软件：
 
-从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
+![AnotherRedisDesktopManager](https://img.turingark.com/uPic/AnotherRedisDesktopManager.png) 
 
-### [Übersicht](https://github.com/felixhageloh/uebersicht)
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
-构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 
-![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
 ## 👀 资料 
 
@@ -53,35 +67,37 @@ Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登�
 
  ![rust_embedded_dev](https://img.turingark.com/uPic/rust_embedded_dev.jpg) 
 
-### [English-Writing](https://github.com/yzy1996/English-Writing)
+### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
 
-本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
+《结网》作者王坚的开源新书：
 
-### [under-the-hood](https://golang.design/under-the-hood/)
+![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
 
-`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
+### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
+计算机科学课程和视频讲座列表：
+
+![cs-video-courses](https://img.turingark.com/uPic/cs-video-courses.jpg) 
 
 ## 🕸 网站 
 
-### [zerossl](https://zerossl.com/)
+### [pika](https://pika.style/)
 
-一个可以免费签 IP 地址 SSL 证书的网站：
+[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
 
-![zerossl](https://img.turingark.com/uPic/zerossl.jpg) 
+![pika](https://img.turingark.com/uPic/pika.jpg) 
 
-### [huawei-od](https://huawei-od.vercel.app/)
+### [websequencediagrams](https://www.websequencediagrams.com/)
 
-牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
+提供在线绘制时序图的网站：
 
-![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
-### [tableconvert](https://tableconvert.com/)
+### [privacytools.io](https://www.privacytools.io/)
 
-`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
+大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
 
-![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
+![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
 
 ## ✍️ 说明
 
