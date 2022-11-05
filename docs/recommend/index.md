@@ -5,87 +5,73 @@
 
 ## 🎯 项目 
 
-### [BGmi](https://github.com/BGmi/BGmi)
+### [linkding](https://github.com/sissbruecker/linkding)
 
-`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
+开源的网络书签服务，支持 Docker 部署：
 
-![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
+![linkding](https://images-1252557999.file.myqcloud.com/uPic/linkding.png) 
 
-### [markdown-nice](https://github.com/mdnice/markdown-nice)
+### [weiboSpider](https://github.com/dataabc/weiboSpider)
 
-有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
+新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
 
-> 支持主题设计的 Markdown 编辑器，让排版变 Nice
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 
-你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
 
-![](https://img.turingark.com/uPic/oGeICY.png)
-
-官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
-
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
-
-### [kanboard](https://kanboard.org/)
-
-`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
-
-- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
-- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
-- 可评估：方便收集如任务完成数量、质量、时间等性能指标
-
-![Kanboard](https://img.turingark.com/uPic/76TTj6.png) 
+![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
 
 ## 🤖 软件 
 
-### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+### [Readhubn](https://github.com/shensven/Readhubn)
 
-科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
+如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
 
-![CopyTranslator](https://img.turingark.com/uPic/CopyTranslator.gif)
+![readhub](https://img.turingark.com/uPic/pZfUjT.png) 
 
-还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
+### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
 
-### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+`Android` 平台下 `MD` 风格的文件管理器:
 
-快速稳定好用的Redis跨平台桌面管理软件：
+![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
 
-![AnotherRedisDesktopManager](https://img.turingark.com/uPic/AnotherRedisDesktopManager.png) 
+### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
 
-### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
+`TinyPNG`的`Mac`客户端：
 
-腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
-
-![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
+![TinyPNG4Mac](https://img.turingark.com/uPic/TinyPNG4Mac.png) 
 
 ## 👀 资料 
 
-### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
+### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 
- Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
+C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
 
- ![rust_embedded_dev](https://img.turingark.com/uPic/rust_embedded_dev.jpg) 
+![Cpp-0-1-Resource](https://img.turingark.com/uPic/rM99nS.png) 
 
-### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
+### [netkiller](https://www.netkiller.cn/)
 
-《结网》作者王坚的开源新书：
+作者持续写了将近20年的技术博文，涵盖面极广：
 
-![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
+![netkiller](https://img.turingark.com/uPic/V7rzw3.png) 
 
-### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
 
-计算机科学课程和视频讲座列表：
+`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
 
-![cs-video-courses](https://img.turingark.com/uPic/cs-video-courses.jpg) 
+![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
 
 ## 🕸 网站 
 
-### [pika](https://pika.style/)
+### [webutils](https://www.webutils.app/)
 
-[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
+一个提供web小工具的网站，比如：
 
-![pika](https://img.turingark.com/uPic/pika.jpg) 
+- 文本比较
+- 图片压缩
+- 图片转换
+
+![webutils](https://img.turingark.com/uPic/ijDiPA.png) 
 
 ### [websequencediagrams](https://www.websequencediagrams.com/)
 
@@ -93,11 +79,11 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
 
 ![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
-### [privacytools.io](https://www.privacytools.io/)
+### [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css)
 
-大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
+前端实现的 `Pokemon` 卡片展示，非常酷炫：
 
-![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
+![pcc](https://images-1252557999.file.myqcloud.com/uPic/pcc.jpg) 
 
 ## ✍️ 说明
 
