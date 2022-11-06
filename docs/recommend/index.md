@@ -5,85 +5,93 @@
 
 ## 🎯 项目 
 
-### [linkding](https://github.com/sissbruecker/linkding)
+### [duf](https://github.com/sigoden/duf)
 
-开源的网络书签服务，支持 Docker 部署：
+一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
 
-![linkding](https://images-1252557999.file.myqcloud.com/uPic/linkding.png) 
+- 静态文件伺服
+- 下载目录为 zip 文件
+- 上传文件 /目录 (支持拖拽)
+- 搜索
+- 并发下载，断续下载
+- 权限保护
+- 支持 https
+- 支持 webdav
+- 方便 curl 调用 
 
-### [weiboSpider](https://github.com/dataabc/weiboSpider)
+### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 
-新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
+提供多款 SS 规则，拥有强劲的广告过滤功能：
 
-### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
+![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
 
-AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+### [heti](https://github.com/sivan/heti)
 
-![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
+赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+
+![heti](https://img.turingark.com/uPic/WrpZDT.jpg) 
 
 ## 🤖 软件 
 
-### [Readhubn](https://github.com/shensven/Readhubn)
+### [bdash](https://github.com/bdash-app/bdash)
 
-如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
+用于数据分析的简单 `SQL` 客户端：
 
-![readhub](https://img.turingark.com/uPic/pZfUjT.png) 
+![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
 
-### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+### [Joplin](https://github.com/laurent22/joplin)
 
-`Android` 平台下 `MD` 风格的文件管理器:
+我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
 
-![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
+- 自建服务端
+- 第三方如坚果云等
+- 也可以基于云商，如腾讯云的`COS`
 
-### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
+> 这篇文章也是使用Joplin写的 
 
-`TinyPNG`的`Mac`客户端：
+### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 
-![TinyPNG4Mac](https://img.turingark.com/uPic/TinyPNG4Mac.png) 
+快速稳定好用的Redis跨平台桌面管理软件：
+
+![AnotherRedisDesktopManager](https://img.turingark.com/uPic/AnotherRedisDesktopManager.png) 
 
 ## 👀 资料 
 
-### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
 
-C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
+编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
 
-![Cpp-0-1-Resource](https://img.turingark.com/uPic/rM99nS.png) 
+### [db-tutorial](https://github.com/dunwu/db-tutorial)
 
-### [netkiller](https://www.netkiller.cn/)
+💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
 
-作者持续写了将近20年的技术博文，涵盖面极广：
+### [missing-semester-cn](https://missing-semester-cn.github.io/)
 
-![netkiller](https://img.turingark.com/uPic/V7rzw3.png) 
+计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
 
-### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
+在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
 
-`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
-
-![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
+![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
 
 ## 🕸 网站 
 
-### [webutils](https://www.webutils.app/)
+### [contrib.rocks](https://contrib.rocks/)
 
-一个提供web小工具的网站，比如：
+为你的Github开源项目生成贡献者头像集合：
 
-- 文本比较
-- 图片压缩
-- 图片转换
+![contrib](https://images-1252557999.file.myqcloud.com/uPic/contrib.jpg) 
 
-![webutils](https://img.turingark.com/uPic/ijDiPA.png) 
+### [neeva](https://neeva.com/search)
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+前谷歌工程师构建的免费无广告的搜索引擎，搜索效果挺好：
 
-提供在线绘制时序图的网站：
+![neeva](https://images-1252557999.file.myqcloud.com/uPic/neeva.jpg) 
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+### [cryptologos](https://cryptologos.cc/)
 
-### [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css)
+一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
 
-前端实现的 `Pokemon` 卡片展示，非常酷炫：
-
-![pcc](https://images-1252557999.file.myqcloud.com/uPic/pcc.jpg) 
+![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
 
 ## ✍️ 说明
 
