@@ -5,19 +5,11 @@
 
 ## 🎯 项目 
 
-### [duf](https://github.com/sigoden/duf)
+### [CoverView](https://github.com/rutikwankhade/CoverView)
 
-一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
+一个开源的快速制作文章封面图的工具。
 
-- 静态文件伺服
-- 下载目录为 zip 文件
-- 上传文件 /目录 (支持拖拽)
-- 搜索
-- 并发下载，断续下载
-- 权限保护
-- 支持 https
-- 支持 webdav
-- 方便 curl 调用 
+![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
 
 ### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 
@@ -25,73 +17,89 @@
 
 ![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
 
-### [heti](https://github.com/sivan/heti)
+### [PPTist](https://github.com/pipipi-pikachu/PPTist)
 
-赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+基于 Vue3.x + TypeScript 的[在线演示文稿](pipipi-pikachu.github.io/pptist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
 
-![heti](https://img.turingark.com/uPic/WrpZDT.jpg) 
+![ppt-list](https://img.turingark.com/uPic/ppt-list.jpg) 
 
 ## 🤖 软件 
 
-### [bdash](https://github.com/bdash-app/bdash)
+### [Bob](https://github.com/ripperhe/Bob)
 
-用于数据分析的简单 `SQL` 客户端：
+同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
 
-![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
+- [x]   划词翻译
+- [x]   截图翻译
+- [x]   输入翻译
+- [x]   翻译多开
+- [x]   自定义插件
+- [x]   自动识别语种
+- [x]   驼峰拆分、蛇形拆分
+- [x]   AppleScript 调用
+- [x]   PopClip 调用 
 
-### [Joplin](https://github.com/laurent22/joplin)
+### [MissionBackup](https://github.com/Hellager/MissionBackup)
 
-我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
+本地备份软件：
 
-- 自建服务端
-- 第三方如坚果云等
-- 也可以基于云商，如腾讯云的`COS`
+- 基于 Tauri，兼顾了 web 前端和 rust 后端
+- 5MB 的安装包，15MB 的程序，多平台可用
+- 基于 cron 和 notify 实现对目标定时/监控备份
+- 可自定义备份保存时长和空间
+- 通过图表直观展示备份情况
+- 完善的文档支持
 
-> 这篇文章也是使用Joplin写的 
+![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
 
-### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+### [eoapi](https://github.com/eolinker/eoapi)
 
-快速稳定好用的Redis跨平台桌面管理软件：
+`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
 
-![AnotherRedisDesktopManager](https://img.turingark.com/uPic/AnotherRedisDesktopManager.png) 
+![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
 
 ## 👀 资料 
 
-### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
+### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
 
-编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
+Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
 
-### [db-tutorial](https://github.com/dunwu/db-tutorial)
+### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
 
-💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
+阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
 
-### [missing-semester-cn](https://missing-semester-cn.github.io/)
+![c](https://img.turingark.com/uPic/4uYTRJ.png) 
 
-计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
+### [sideproject](https://sideproject.guide/)
 
-在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
+`Side Project` 指南：
 
-![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
+
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
 
 ## 🕸 网站 
 
-### [contrib.rocks](https://contrib.rocks/)
+### [dev.to](https://dev.to/)
 
-为你的Github开源项目生成贡献者头像集合：
+国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
 
-![contrib](https://images-1252557999.file.myqcloud.com/uPic/contrib.jpg) 
+![dev_to](https://img.turingark.com/uPic/dev_to.png) 
 
-### [neeva](https://neeva.com/search)
+### [rust-search-extension](https://rust.extension.sh/)
 
-前谷歌工程师构建的免费无广告的搜索引擎，搜索效果挺好：
+在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
 
-![neeva](https://images-1252557999.file.myqcloud.com/uPic/neeva.jpg) 
+![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
 
-### [cryptologos](https://cryptologos.cc/)
+### [storyset](https://storyset.com/)
 
-一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
+来自读者@妙才的投稿，这个网站提供了大量精美免费的插图，可以应用于你的项目：
 
-![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
+![storyset](https://img.turingark.com/uPic/Jm5cJY.png) 
 
 ## ✍️ 说明
 
