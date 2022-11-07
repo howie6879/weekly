@@ -5,101 +5,88 @@
 
 ## 🎯 项目 
 
-### [CoverView](https://github.com/rutikwankhade/CoverView)
+### [picx](https://github.com/XPoet/picx)
 
-一个开源的快速制作文章封面图的工具。
+基于 GitHub API 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！
 
-![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
+![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg) 
 
-### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
+### [heti](https://github.com/sivan/heti)
 
-提供多款 SS 规则，拥有强劲的广告过滤功能：
+赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
-![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
+![heti](https://img.turingark.com/uPic/WrpZDT.jpg) 
 
-### [PPTist](https://github.com/pipipi-pikachu/PPTist)
+### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
 
-基于 Vue3.x + TypeScript 的[在线演示文稿](pipipi-pikachu.github.io/pptist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
+该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
 
-![ppt-list](https://img.turingark.com/uPic/ppt-list.jpg) 
+![computer_book_list](https://img.turingark.com/uPic/uxQa5E.png) 
 
 ## 🤖 软件 
 
-### [Bob](https://github.com/ripperhe/Bob)
+### [lively](https://github.com/rocksdanister/lively)
 
-同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
+针对 `Windows` 的开源的动态壁纸软件：
 
-- [x]   划词翻译
-- [x]   截图翻译
-- [x]   输入翻译
-- [x]   翻译多开
-- [x]   自定义插件
-- [x]   自动识别语种
-- [x]   驼峰拆分、蛇形拆分
-- [x]   AppleScript 调用
-- [x]   PopClip 调用 
+![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
 
-### [MissionBackup](https://github.com/Hellager/MissionBackup)
+### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 
-本地备份软件：
+适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
 
-- 基于 Tauri，兼顾了 web 前端和 rust 后端
-- 5MB 的安装包，15MB 的程序，多平台可用
-- 基于 cron 和 notify 实现对目标定时/监控备份
-- 可自定义备份保存时长和空间
-- 通过图表直观展示备份情况
-- 完善的文档支持
+- **免费**：本项目所有代码开源，完全免费。
+- **方便**：解压即用，无需安装。不需要网络。
+- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
+- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
 
-![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
+![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
 
-### [eoapi](https://github.com/eolinker/eoapi)
+### [bdash](https://github.com/bdash-app/bdash)
 
-`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+用于数据分析的简单 `SQL` 客户端：
 
-![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
+![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
 
 ## 👀 资料 
 
-### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
+### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
 
-Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
+该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
 
-### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
+![](https://img.turingark.com/uPic/ub1GLI.jpg) 
 
-阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
+### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
 
-![c](https://img.turingark.com/uPic/4uYTRJ.png) 
+一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
 
-### [sideproject](https://sideproject.guide/)
+![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
 
-`Side Project` 指南：
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+夯实计算机基础，该怎么学，这个项目给出了答案：
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+![TeachYourselfCS](https://img.turingark.com/uPic/hKl2yK.png) 
 
 ## 🕸 网站 
 
-### [dev.to](https://dev.to/)
+### [cryptologos](https://cryptologos.cc/)
 
-国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
+一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
 
-![dev_to](https://img.turingark.com/uPic/dev_to.png) 
+![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
 
-### [rust-search-extension](https://rust.extension.sh/)
+### [qrcode-monkey](https://www.qrcode-monkey.com/#)
 
-在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
+免费的二维码生成网站：
 
-![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
+![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
 
-### [storyset](https://storyset.com/)
+### [favicon.io](https://favicon.io/)
 
-来自读者@妙才的投稿，这个网站提供了大量精美免费的插图，可以应用于你的项目：
+免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
 
-![storyset](https://img.turingark.com/uPic/Jm5cJY.png) 
+![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
 
 ## ✍️ 说明
 
