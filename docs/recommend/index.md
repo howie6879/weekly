@@ -5,88 +5,85 @@
 
 ## 🎯 项目 
 
-### [picx](https://github.com/XPoet/picx)
+### [markmap](https://github.com/gera2ld/markmap)
 
-基于 GitHub API 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！
+可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
 
-![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg) 
+![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
 
-### [heti](https://github.com/sivan/heti)
+### [resume-design](https://github.com/huajian-pro/resume-design)
 
-赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+一款开源简历设计生成器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据：
 
-![heti](https://img.turingark.com/uPic/WrpZDT.jpg) 
+![91huajian](https://images-1252557999.file.myqcloud.com/uPic/MHN7Rb.jpg) 
 
-### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
+### [zdir](https://github.com/helloxz/zdir)
 
-该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
+使用 `Golang + Vue3` 开发的轻量级目录列表程序，支持 `Linux、Docker、Windows` 部署，适合个人或初创公司文件分享使用，亦可作为轻量级网盘使用。
 
-![computer_book_list](https://img.turingark.com/uPic/uxQa5E.png) 
+![zdir](https://images-1252557999.file.myqcloud.com/uPic/zdir.jpg) 
 
 ## 🤖 软件 
 
-### [lively](https://github.com/rocksdanister/lively)
+### [RedFish](https://github.com/Kuari/RedFish)
 
-针对 `Windows` 的开源的动态壁纸软件：
+一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
 
-![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
+![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
 
-### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
 
-适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
+`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
 
-- **免费**：本项目所有代码开源，完全免费。
-- **方便**：解压即用，无需安装。不需要网络。
-- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
-- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
+- Support Intel
+- Support Apple Silicon (M1 & M2)
+- Network
+- USB 
 
-![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
+### [insomnia](https://github.com/Kong/insomnia)
 
-### [bdash](https://github.com/bdash-app/bdash)
+在[第009期（10-11~10-17）](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
 
-用于数据分析的简单 `SQL` 客户端：
-
-![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
+![insomnia](https://img.turingark.com/uPic/insomnia.png)
+使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
 
 ## 👀 资料 
 
-### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
+### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
 
-该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
+一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
 
-![](https://img.turingark.com/uPic/ub1GLI.jpg) 
+![](https://img.turingark.com/uPic/96wIDJ.png) 
 
-### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
+### [data_compression_course](https://github.com/jermp/data_compression_course)
 
-一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
+由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
 
-![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
+### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
 
-夯实计算机基础，该怎么学，这个项目给出了答案：
-
-![TeachYourselfCS](https://img.turingark.com/uPic/hKl2yK.png) 
+![rust_magazine](https://img.turingark.com/uPic/FvKrE4.png) 
 
 ## 🕸 网站 
 
-### [cryptologos](https://cryptologos.cc/)
+### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
 
-一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
+一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
 
-![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
+![shanshui-inf](https://img.turingark.com/uPic/shanshui-inf.jpg) 
 
-### [qrcode-monkey](https://www.qrcode-monkey.com/#)
+### [aliyunpanbbs](https://aliyunpanbbs.com/)
 
-免费的二维码生成网站：
+阿里云盘资源论坛:
 
-![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
+![aliyunpanbbs](https://img.turingark.com/uPic/NlHLjW.png) 
 
-### [favicon.io](https://favicon.io/)
+### [devdocs](https://devdocs.io/)
 
-免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+提供在线快速查找API接口文档的网站：
 
-![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
+![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
 
 ## ✍️ 说明
 
