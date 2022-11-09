@@ -5,85 +5,100 @@
 
 ## 🎯 项目 
 
-### [markmap](https://github.com/gera2ld/markmap)
+### [DataEase](https://github.com/dataease/dataease)
 
-可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
+DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
 
-![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
+### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
 
-### [resume-design](https://github.com/huajian-pro/resume-design)
+相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
 
-一款开源简历设计生成器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据：
+如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
 
-![91huajian](https://images-1252557999.file.myqcloud.com/uPic/MHN7Rb.jpg) 
+### [lsky-pro](https://github.com/lsky-org/lsky-pro)
 
-### [zdir](https://github.com/helloxz/zdir)
+非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
 
-使用 `Golang + Vue3` 开发的轻量级目录列表程序，支持 `Linux、Docker、Windows` 部署，适合个人或初创公司文件分享使用，亦可作为轻量级网盘使用。
-
-![zdir](https://images-1252557999.file.myqcloud.com/uPic/zdir.jpg) 
+![vps_lsky_01](https://img.turingark.com/uPic/vps_lsky_01.jpg) 
 
 ## 🤖 软件 
 
-### [RedFish](https://github.com/Kuari/RedFish)
+### [uPic](https://github.com/gee1k/uPic)
 
-一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
+`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
 
-![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
+我的必备软件：
 
-### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
+![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
 
-`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
+### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
 
-- Support Intel
-- Support Apple Silicon (M1 & M2)
-- Network
-- USB 
+B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
 
-### [insomnia](https://github.com/Kong/insomnia)
+![](https://img.turingark.com/uPic/F42ndl.jpg) 
 
-在[第009期（10-11~10-17）](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
+### [koodo-reader](https://github.com/troyeguo/koodo-reader)
 
-![insomnia](https://img.turingark.com/uPic/insomnia.png)
-使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
+一个跨平台的电子书阅读器：
+
+- 支持多达 15 种主流电子书格
+- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
+- 备份数据到  **Dropbox**  和  **Webdav**
+- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
+- 双页模式，单页模式，滚动模式
+- 听书功能，翻译功能，触控屏支持，批量导入图书
+- 支持目录，书签，笔记，高亮，书架，标签
+- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
+- 黑夜模式和主题色设置
+
+![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
 
 ## 👀 资料 
 
-### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
 
-![](https://img.turingark.com/uPic/96wIDJ.png) 
+![ML](https://img.turingark.com/uPic/R26HG2.png) 
 
-### [data_compression_course](https://github.com/jermp/data_compression_course)
+### [zju-icicles](https://github.com/QSCTech/zju-icicles)
 
-由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
+浙江大学课程攻略共享计划：
 
-### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
+![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
 
-张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
+### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
 
-![rust_magazine](https://img.turingark.com/uPic/FvKrE4.png) 
+重新分类 Leetcode 高频题 2021 版
+
+- 题目按照面试频率降序排列
+- 增加难度分类，适合从简单开始学习
+- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
 
 ## 🕸 网站 
 
-### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
+### [nesbox](https://nesbox.xianqiao.wang/)
 
-一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
+找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
 
-![shanshui-inf](https://img.turingark.com/uPic/shanshui-inf.jpg) 
+![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
 
-### [aliyunpanbbs](https://aliyunpanbbs.com/)
+### [star-history](https://star-history.com/)
 
-阿里云盘资源论坛:
+在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
 
-![aliyunpanbbs](https://img.turingark.com/uPic/NlHLjW.png) 
+![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
 
-### [devdocs](https://devdocs.io/)
+### [programcreek](https://www.programcreek.com/)
 
-提供在线快速查找API接口文档的网站：
+网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
 
-![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
+- [Python](https://www.programcreek.com/python/)
+- [Java](https://www.programcreek.com/java-api-examples/)
+- [C++](https://www.programcreek.com/cpp/)
+- [Scala](https://www.programcreek.com/scala/)
+
+![programcreek](https://img.turingark.com/uPic/YdAEPq.png) 
 
 ## ✍️ 说明
 
