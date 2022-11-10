@@ -5,89 +5,86 @@
 
 ## 🎯 项目 
 
-### [DataEase](https://github.com/dataease/dataease)
+### [iptables-web](https://github.com/pretty66/iptables-web)
 
-DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
+`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
 
-### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
+![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
 
-相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
+### [zfile](https://github.com/zhaojun1998/zfile)
 
-如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
+基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
 
-### [lsky-pro](https://github.com/lsky-org/lsky-pro)
+![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
 
-非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
+### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
 
-![vps_lsky_01](https://img.turingark.com/uPic/vps_lsky_01.jpg) 
+短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
+
+![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
 
 ## 🤖 软件 
 
-### [uPic](https://github.com/gee1k/uPic)
+### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
 
-我的必备软件：
+- SSH连接操作
+- Jupyter支持
+- Code Server（Web版VS Code） 支持
+- 文件管理支持
+- 自带Python：写点常用脚本不在话下
+- 上手深度学习
+- 等等
 
-![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
 
-### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
 
-B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
+### [antares](https://github.com/Fabio286/antares)
 
-![](https://img.turingark.com/uPic/F42ndl.jpg) 
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-### [koodo-reader](https://github.com/troyeguo/koodo-reader)
+![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
-一个跨平台的电子书阅读器：
+### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
 
-- 支持多达 15 种主流电子书格
-- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
-- 备份数据到  **Dropbox**  和  **Webdav**
-- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
-- 双页模式，单页模式，滚动模式
-- 听书功能，翻译功能，触控屏支持，批量导入图书
-- 支持目录，书签，笔记，高亮，书架，标签
-- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
-- 黑夜模式和主题色设置
+M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
 
-![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
+| 功能                 | 支持       |
+| -------------------- | ---------- |
+| HLS协议点播源        | ✓          |
+| 自定义Http协议头下载 | ✓          |
+| 自定义KEY和IV解密    | ✓          |
+| 本地M3U8文件下载     | ✓          |
+| M3U8 直播源          | ✓          |
+| 标准 AES-128-CBC加密 | ✓          |
+| 标准 AES-196-CBC加密 | ✓          |
+| 标准 AES-256-CBC加密 | ✓          |
+| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
+| 网页嗅探视频源       | ✓          |
+
+![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
 
 ## 👀 资料 
 
-### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
+### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
-作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
+这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
 
-![ML](https://img.turingark.com/uPic/R26HG2.png) 
+我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
 
-### [zju-icicles](https://github.com/QSCTech/zju-icicles)
+### developer-roadmap
 
-浙江大学课程攻略共享计划：
+开发人员学习成长路线图：
 
-![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
+![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
 
-### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
+### [English-Writing](https://github.com/yzy1996/English-Writing)
 
-重新分类 Leetcode 高频题 2021 版
-
-- 题目按照面试频率降序排列
-- 增加难度分类，适合从简单开始学习
-- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
+本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
 ## 🕸 网站 
-
-### [nesbox](https://nesbox.xianqiao.wang/)
-
-找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
-
-![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
-
-### [star-history](https://star-history.com/)
-
-在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
-
-![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
 
 ### [programcreek](https://www.programcreek.com/)
 
@@ -99,6 +96,22 @@ B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey
 - [Scala](https://www.programcreek.com/scala/)
 
 ![programcreek](https://img.turingark.com/uPic/YdAEPq.png) 
+
+### [阿里云知行动手实验室](https://start.aliyun.com/)
+
+这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
+
+网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
+
+我选了一个`k8s`教程尝试了下，嗯，挺香的：
+
+![start-ali](https://img.turingark.com/uPic/LIfQqw.png) 
+
+### [zhongguose](http://zhongguose.com/)
+
+一个中国传统颜色的配色网站：
+
+![zhongguose](https://img.turingark.com/uPic/zhongguose.jpg) 
 
 ## ✍️ 说明
 
