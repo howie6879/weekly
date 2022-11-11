@@ -5,17 +5,17 @@
 
 ## 🎯 项目 
 
-### [iptables-web](https://github.com/pretty66/iptables-web)
+### [naive-ui](https://github.com/tusen-ai/naive-ui)
 
-`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
+一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
 
-![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
+![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
 
-### [zfile](https://github.com/zhaojun1998/zfile)
+### [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
-基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
+`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
 
-![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
+![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
 
 ### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
 
@@ -25,93 +25,75 @@
 
 ## 🤖 软件 
 
-### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
+### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 
-这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
+跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
 
-- SSH连接操作
-- Jupyter支持
-- Code Server（Web版VS Code） 支持
-- 文件管理支持
-- 自带Python：写点常用脚本不在话下
-- 上手深度学习
-- 等等
+- 🍕 全平台支持. Windows, Mac, Linux
+- 🍥 支持 IPTV, 卫视直播
+- 🍔 视频源支持自定义, 支持导入, 导出
+- 🍟 支持海报模式和列表模式浏览资源
+- 🌭 播放历史, 自动跳转历史进度
+- 🍿 收藏夹支持导入,导出, 支持同步追剧
+- 🥙 支持精简模式, 摸鱼划水
+- 🥪 一键搜索所有资源, 支持历史搜索记录
+- 🌮 导出资源下载链接
+- 🍣 支持第三方播放器播放
+- 🍤 显示豆瓣评分
 
-这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
+![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
 
-![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
+### [ReadYou](https://github.com/Ashinch/ReadYou)
 
-### [antares](https://github.com/Fabio286/antares)
+这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
+![ReadYou](https://img.turingark.com/uPic/ReadYou.jpg) 
 
-![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+### [notesnook](https://github.com/streetwriters/notesnook)
 
-### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
+印象笔记的开源替代品（支持端对端加密）：
 
-M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
-
-| 功能                 | 支持       |
-| -------------------- | ---------- |
-| HLS协议点播源        | ✓          |
-| 自定义Http协议头下载 | ✓          |
-| 自定义KEY和IV解密    | ✓          |
-| 本地M3U8文件下载     | ✓          |
-| M3U8 直播源          | ✓          |
-| 标准 AES-128-CBC加密 | ✓          |
-| 标准 AES-196-CBC加密 | ✓          |
-| 标准 AES-256-CBC加密 | ✓          |
-| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
-| 网页嗅探视频源       | ✓          |
-
-![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
+![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
 
 ## 👀 资料 
 
-### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+### [rust-course](https://github.com/sunface/rust-course)
 
-这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
+> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
 
-我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
+![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
 
-### developer-roadmap
+阅读地址见[course.rs](https://course.rs)。 
 
-开发人员学习成长路线图：
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
+一份程序员延寿指南，目标是稳健地活得更久。 
 
-### [English-Writing](https://github.com/yzy1996/English-Writing)
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
 ## 🕸 网站 
 
-### [programcreek](https://www.programcreek.com/)
+### [mycolor.space](https://mycolor.space/)：
 
-网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
+渐变配色生成器，自动生成 `CSS` 代码：
 
-- [Python](https://www.programcreek.com/python/)
-- [Java](https://www.programcreek.com/java-api-examples/)
-- [C++](https://www.programcreek.com/cpp/)
-- [Scala](https://www.programcreek.com/scala/)
+![mycolor](https://images-1252557999.file.myqcloud.com/uPic/mycolor.jpg) 
 
-![programcreek](https://img.turingark.com/uPic/YdAEPq.png) 
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
 
-### [阿里云知行动手实验室](https://start.aliyun.com/)
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
 
-这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
+![YYeTsBot](https://img.turingark.com/uPic/5bwPfx.jpg) 
 
-网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
+### [tableconvert](https://tableconvert.com/)
 
-我选了一个`k8s`教程尝试了下，嗯，挺香的：
+`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
 
-![start-ali](https://img.turingark.com/uPic/LIfQqw.png) 
-
-### [zhongguose](http://zhongguose.com/)
-
-一个中国传统颜色的配色网站：
-
-![zhongguose](https://img.turingark.com/uPic/zhongguose.jpg) 
+![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
 
 ## ✍️ 说明
 
