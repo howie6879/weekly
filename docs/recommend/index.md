@@ -5,95 +5,83 @@
 
 ## 🎯 项目 
 
-### [naive-ui](https://github.com/tusen-ai/naive-ui)
+### [tabler](https://github.com/tabler/tabler)
 
-一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
+基于 `Bootstrap` 的免费开源的 `Dashboard UI` 工具包：
 
-![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
+![tabler-preview](https://images-1252557999.file.myqcloud.com/uPic/tabler-preview.png) 
 
-### [ProxiTok](https://github.com/pablouser1/ProxiTok)
+### [amis](https://github.com/baidu/amis)
 
-`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
+前端低代码框架，通过 JSON 配置就能生成各种页面。 
 
-![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
+### [flet](https://github.com/flet-dev/flet)
 
-### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
+用 `Python` 开发跨平台 `Flutter` 应用：
 
-短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
-
-![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
+![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
 
 ## 🤖 软件 
 
-### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
+### [Imagine](https://github.com/meowtec/Imagine)
 
-跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
+全平台支持的图片压缩软件：
 
-- 🍕 全平台支持. Windows, Mac, Linux
-- 🍥 支持 IPTV, 卫视直播
-- 🍔 视频源支持自定义, 支持导入, 导出
-- 🍟 支持海报模式和列表模式浏览资源
-- 🌭 播放历史, 自动跳转历史进度
-- 🍿 收藏夹支持导入,导出, 支持同步追剧
-- 🥙 支持精简模式, 摸鱼划水
-- 🥪 一键搜索所有资源, 支持历史搜索记录
-- 🌮 导出资源下载链接
-- 🍣 支持第三方播放器播放
-- 🍤 显示豆瓣评分
+![Imagine](https://img.turingark.com/uPic/KrSb9L.png)
 
-![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
+看看这86%的压缩率还是挺上头的，而且效果很好。 
 
-### [ReadYou](https://github.com/Ashinch/ReadYou)
+### [Vieb](https://vieb.dev/)
 
-这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
+开源免费的全平台（PC）`Vim`风格电子浏览器：
 
-![ReadYou](https://img.turingark.com/uPic/ReadYou.jpg) 
+![Vieb](https://img.turingark.com/uPic/BqyWaK.png) 
 
-### [notesnook](https://github.com/streetwriters/notesnook)
+### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
 
-印象笔记的开源替代品（支持端对端加密）：
+`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
 
-![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
+![Miao](https://img.turingark.com/uPic/Miao.png) 
 
 ## 👀 资料 
 
-### [rust-course](https://github.com/sunface/rust-course)
+### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
 
-> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
+本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
 
-![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
+![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
 
-阅读地址见[course.rs](https://course.rs)。 
+### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
 
-### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
+机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
 
-一份程序员延寿指南，目标是稳健地活得更久。 
+![openmlsys](https://img.turingark.com/uPic/openmlsys.jpg) 
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
 
 ## 🕸 网站 
 
-### [mycolor.space](https://mycolor.space/)：
+### [photoroom](https://www.photoroom.com/backgrounds/)
 
-渐变配色生成器，自动生成 `CSS` 代码：
+利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
 
-![mycolor](https://images-1252557999.file.myqcloud.com/uPic/mycolor.jpg) 
+![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
 
-### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+### [crxsoso](https://www.crxsoso.com/articles)
 
-人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
+浏览器扩展应用周刊：
 
-![YYeTsBot](https://img.turingark.com/uPic/5bwPfx.jpg) 
+![crxsoso](https://images-1252557999.file.myqcloud.com/uPic/crxsoso.jpg) 
 
-### [tableconvert](https://tableconvert.com/)
+### [uxdatabase](https://www.uxdatabase.io/)
 
-`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
+国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
 
-![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
+![uxdatabase](https://img.turingark.com/uPic/uxdatabase.jpg) 
 
 ## ✍️ 说明
 
