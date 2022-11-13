@@ -5,83 +5,77 @@
 
 ## 🎯 项目 
 
+### Command2API
+
+这是一个可以实时获取执行命令结果的脚本，脚本原理就是一个线程开启Web服务，一个线程执行命令，通过全局变量与Web服务共享执行命令的结果。
+
+![Command2API](https://img.turingark.com/uPic/mcMhsP.jpg) 
+
 ### [tabler](https://github.com/tabler/tabler)
 
 基于 `Bootstrap` 的免费开源的 `Dashboard UI` 工具包：
 
 ![tabler-preview](https://images-1252557999.file.myqcloud.com/uPic/tabler-preview.png) 
 
-### [amis](https://github.com/baidu/amis)
+### [aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse/)
 
-前端低代码框架，通过 JSON 配置就能生成各种页面。 
-
-### [flet](https://github.com/flet-dev/flet)
-
-用 `Python` 开发跨平台 `Flutter` 应用：
-
-![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
+本项目则直接通过 FUSE 实现将阿里云盘挂载为本地磁盘，非常好用，我是这个项目作者的粉丝。 
 
 ## 🤖 软件 
 
-### [Imagine](https://github.com/meowtec/Imagine)
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
-全平台支持的图片压缩软件：
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 
-![Imagine](https://img.turingark.com/uPic/KrSb9L.png)
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
-看看这86%的压缩率还是挺上头的，而且效果很好。 
+### [lapce](https://github.com/lapce/lapce)
 
-### [Vieb](https://vieb.dev/)
+基于`Rust`的强大、轻量快速的代码编辑器：
 
-开源免费的全平台（PC）`Vim`风格电子浏览器：
+![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
 
-![Vieb](https://img.turingark.com/uPic/BqyWaK.png) 
+### [codeapp](https://github.com/thebaselab/codeapp)
 
-### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
+为 `iPad` 构建一个成熟的代码编辑器：
 
-`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
-
-![Miao](https://img.turingark.com/uPic/Miao.png) 
+![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
 
 ## 👀 资料 
 
-### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
+### [db-tutorial](https://github.com/dunwu/db-tutorial)
 
-本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
+💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
 
-![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
+### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
 
-### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
+技术面试最后反问面试官的话。 
 
-机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
+### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
 
-![openmlsys](https://img.turingark.com/uPic/openmlsys.jpg) 
+一本开源的专门讲解面试关键路径的书籍：
 
-### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
-
-作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
-
-![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
+![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
 
 ## 🕸 网站 
 
-### [photoroom](https://www.photoroom.com/backgrounds/)
+### [pixel](https://aqeja.github.io/pixel/)
 
-利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
+一个小工具，将你的图片像素化:
 
-![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
+![;'](https://img.turingark.com/uPic/KfJuhM.png) 
 
-### [crxsoso](https://www.crxsoso.com/articles)
+### [devdocs](https://devdocs.io/)
 
-浏览器扩展应用周刊：
+提供在线快速查找API接口文档的网站：
 
-![crxsoso](https://images-1252557999.file.myqcloud.com/uPic/crxsoso.jpg) 
+![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
 
-### [uxdatabase](https://www.uxdatabase.io/)
+### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
 
-国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
+一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
 
-![uxdatabase](https://img.turingark.com/uPic/uxdatabase.jpg) 
+![shanshui-inf](https://img.turingark.com/uPic/shanshui-inf.jpg) 
 
 ## ✍️ 说明
 
