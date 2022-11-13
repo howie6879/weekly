@@ -5,35 +5,32 @@
 
 ## 🎯 项目 
 
-### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
+### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
 
-AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
 
-![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
+![Real-ESRGAN](https://img.turingark.com/uPic/DBST14.jpg) 
 
-### [unredacter](https://github.com/bishopfox/unredacter)
+### [wallabag](https://github.com/wallabag/wallabag)
 
-一个还原马赛克图片的原始内容的工具：
+一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
 
-![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
+- 浏览器插件收集网页信息
+- 安卓/IOS/网页端阅读以及管理
 
-### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
+![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
 
-一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
+### [amis](https://github.com/baidu/amis)
 
-![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
-
-你可以直接[在线体验](https://letsmarkdown.com/)。 
+前端低代码框架，通过 JSON 配置就能生成各种页面。 
 
 ## 🤖 软件 
 
-### [Imagine](https://github.com/meowtec/Imagine)
+### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
 
-全平台支持的图片压缩软件：
+网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
 
-![Imagine](https://img.turingark.com/uPic/KrSb9L.png)
-
-看看这86%的压缩率还是挺上头的，而且效果很好。 
+![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
 
 ### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
@@ -41,54 +38,49 @@ AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型�
 
 ![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
 
-### [MiaoYan](https://github.com/tw93/MiaoYan)
+### mizu
 
-轻灵的 Markdown 笔记本伴你写出妙言：
+微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
 
-- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
-- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
-- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
-- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
-
-![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
+![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
 
 ## 👀 资料 
 
-### [rust-course](https://github.com/sunface/rust-course)
+### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
 
-> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
+30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
 
-![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
+![30-Days-Of-React](https://img.turingark.com/uPic/GeYfjR.jpg) 
 
-阅读地址见[course.rs](https://course.rs)。 
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-教程：小型金融知识图谱流程示范。 
+![rust-api-guidelines](https://img.turingark.com/uPic/rust-api-guidelines.jpg) 
 
-### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
+### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
-![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
+命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
 
 ## 🕸 网站 
 
-### [pixel](https://aqeja.github.io/pixel/)
+### [fontawesome](https://fontawesome.com/icons/)
 
-一个小工具，将你的图片像素化:
+比较完善全面的图标网站：
 
-![;'](https://img.turingark.com/uPic/KfJuhM.png) 
+![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
 
-### [itnext](https://itnext.cn/)
+### [smalldev.tools](https://smalldev.tools/)
 
-一个介绍元宇宙的网站：
+开发者常用工具集：
 
-![itnext](https://img.turingark.com/uPic/yc7Zhp.png) 
+![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
 
-提供在线绘制时序图的网站：
+配置高性能、安全、稳定的NGINX服务器的最简单方法：
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+![nginx_web](https://img.turingark.com/uPic/N7Yp8R.png) 
 
 ## ✍️ 说明
 
