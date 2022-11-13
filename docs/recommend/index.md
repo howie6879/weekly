@@ -5,57 +5,70 @@
 
 ## 🎯 项目 
 
-### Command2API
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 
-这是一个可以实时获取执行命令结果的脚本，脚本原理就是一个线程开启Web服务，一个线程执行命令，通过全局变量与Web服务共享执行命令的结果。
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
 
-![Command2API](https://img.turingark.com/uPic/mcMhsP.jpg) 
+![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
 
-### [tabler](https://github.com/tabler/tabler)
+### [unredacter](https://github.com/bishopfox/unredacter)
 
-基于 `Bootstrap` 的免费开源的 `Dashboard UI` 工具包：
+一个还原马赛克图片的原始内容的工具：
 
-![tabler-preview](https://images-1252557999.file.myqcloud.com/uPic/tabler-preview.png) 
+![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
 
-### [aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse/)
+### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
 
-本项目则直接通过 FUSE 实现将阿里云盘挂载为本地磁盘，非常好用，我是这个项目作者的粉丝。 
+一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
+
+![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
+
+你可以直接[在线体验](https://letsmarkdown.com/)。 
 
 ## 🤖 软件 
 
-### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
+### [Imagine](https://github.com/meowtec/Imagine)
 
-腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+全平台支持的图片压缩软件：
 
-![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
+![Imagine](https://img.turingark.com/uPic/KrSb9L.png)
 
-### [lapce](https://github.com/lapce/lapce)
+看看这86%的压缩率还是挺上头的，而且效果很好。 
 
-基于`Rust`的强大、轻量快速的代码编辑器：
+### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
-![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
+控制外部显示器的亮度和音量（macOS）：
 
-### [codeapp](https://github.com/thebaselab/codeapp)
+![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
 
-为 `iPad` 构建一个成熟的代码编辑器：
+### [MiaoYan](https://github.com/tw93/MiaoYan)
 
-![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
+轻灵的 Markdown 笔记本伴你写出妙言：
+
+- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
+- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
+- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
+- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
+
+![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
 
 ## 👀 资料 
 
-### [db-tutorial](https://github.com/dunwu/db-tutorial)
+### [rust-course](https://github.com/sunface/rust-course)
 
-💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
+> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
 
-### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
+![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
 
-技术面试最后反问面试官的话。 
+阅读地址见[course.rs](https://course.rs)。 
 
-### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
+### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
 
-一本开源的专门讲解面试关键路径的书籍：
+教程：小型金融知识图谱流程示范。 
 
-![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
+### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
+
+![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
 ## 🕸 网站 
 
@@ -65,17 +78,17 @@
 
 ![;'](https://img.turingark.com/uPic/KfJuhM.png) 
 
-### [devdocs](https://devdocs.io/)
+### [itnext](https://itnext.cn/)
 
-提供在线快速查找API接口文档的网站：
+一个介绍元宇宙的网站：
 
-![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
+![itnext](https://img.turingark.com/uPic/yc7Zhp.png) 
 
-### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
+### [websequencediagrams](https://www.websequencediagrams.com/)
 
-一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
+提供在线绘制时序图的网站：
 
-![shanshui-inf](https://img.turingark.com/uPic/shanshui-inf.jpg) 
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
 ## ✍️ 说明
 
