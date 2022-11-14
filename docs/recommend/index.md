@@ -5,82 +5,88 @@
 
 ## 🎯 项目 
 
+### [free-api](https://github.com/fangzesheng/free-api)
+
+作者创建此开源项目的目的如下：
+
+> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
+
+包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
+
+![free-api](https://img.turingark.com/uPic/VvapMO.png) 
+
+### [MRDOC](https://mrdoc.pro/)
+
+`MRDOC`觅思文档，私有云笔记、云文档和知识库系统，适合作为私有云文档、云笔记和知识管理的私有化在线文档部署方案。
+
+分为开源版和付费版，小团队可以考虑使用：
+
+![MRDOC](https://img.turingark.com/uPic/u43buW.png) 
+
 ### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
 
 `Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
 
 ![Real-ESRGAN](https://img.turingark.com/uPic/DBST14.jpg) 
 
-### [wallabag](https://github.com/wallabag/wallabag)
-
-一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
-
-- 浏览器插件收集网页信息
-- 安卓/IOS/网页端阅读以及管理
-
-![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
-
-### [amis](https://github.com/baidu/amis)
-
-前端低代码框架，通过 JSON 配置就能生成各种页面。 
-
 ## 🤖 软件 
 
-### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
+### [shottr](https://shottr.cc/)
 
-网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
+免费截屏软件（macOS）：
 
-![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
+![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
 
-### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
+### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
 
-控制外部显示器的亮度和音量（macOS）：
+安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
 
-![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
+- [美团买菜版本](https://github.com/qulingyuan/robVeg)
+- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
 
-### mizu
+### [automa](https://github.com/Kholid060/automa)
 
-微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
+`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
 
-![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
+![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
 
 ## 👀 资料 
 
-### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
+### [zju-icicles](https://github.com/QSCTech/zju-icicles)
 
-30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
+浙江大学课程攻略共享计划：
 
-![30-Days-Of-React](https://img.turingark.com/uPic/GeYfjR.jpg) 
+![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
 
-### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+一份程序员延寿指南，目标是稳健地活得更久。 
 
-![rust-api-guidelines](https://img.turingark.com/uPic/rust-api-guidelines.jpg) 
+### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
 
-### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+健康学习到150岁 - 人体系统调优不完全指南：
 
-命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
+![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
 
 ## 🕸 网站 
 
-### [fontawesome](https://fontawesome.com/icons/)
+### [uiverse.io](https://uiverse.io/)
 
-比较完善全面的图标网站：
+一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
 
-![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
+![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
 
-### [smalldev.tools](https://smalldev.tools/)
+### [eja.tv](https://eja.tv/?)
 
-开发者常用工具集：
+提供3808个在线电视频道，包含143个国家以及82种不同语言。
 
-![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
+![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
 
-### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
+### [macosicons](https://macosicons.com/)
 
-配置高性能、安全、稳定的NGINX服务器的最简单方法：
+网站基本上覆盖了热门`Mac APP`图标，你可以选择自己喜欢的图标进行替换，让自己的`Mac`更加漂亮且个性化。
 
-![nginx_web](https://img.turingark.com/uPic/N7Yp8R.png) 
+![macosicons](https://images-1252557999.file.myqcloud.com/uPic/macosicons.png) 
 
 ## ✍️ 说明
 
