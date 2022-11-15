@@ -5,88 +5,101 @@
 
 ## 🎯 项目 
 
-### [free-api](https://github.com/fangzesheng/free-api)
+### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
 
-作者创建此开源项目的目的如下：
+不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
 
-> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
+### [BGmi](https://github.com/BGmi/BGmi)
 
-包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
+`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
 
-![free-api](https://img.turingark.com/uPic/VvapMO.png) 
+![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
 
-### [MRDOC](https://mrdoc.pro/)
+### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 
-`MRDOC`觅思文档，私有云笔记、云文档和知识库系统，适合作为私有云文档、云笔记和知识管理的私有化在线文档部署方案。
+`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
 
-分为开源版和付费版，小团队可以考虑使用：
-
-![MRDOC](https://img.turingark.com/uPic/u43buW.png) 
-
-### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
-
-`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
-
-![Real-ESRGAN](https://img.turingark.com/uPic/DBST14.jpg) 
+![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
 
 ## 🤖 软件 
 
-### [shottr](https://shottr.cc/)
+### [MiaoYan](https://github.com/tw93/MiaoYan)
 
-免费截屏软件（macOS）：
+轻灵的 Markdown 笔记本伴你写出妙言：
 
-![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
+- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
+- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
+- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
+- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
 
-### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
+![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
 
-安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
+### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
 
-- [美团买菜版本](https://github.com/qulingyuan/robVeg)
-- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
+ImageOptim 是一款开源免费的本地图像压缩工具：
 
-### [automa](https://github.com/Kholid060/automa)
+![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
 
-`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
+我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
 
-![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
+- [Imagine](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
+- [webutils](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
+- [tinypng](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
+- [tanpok](https://weekly.howie6879.cn/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
+- [docsmall](https://weekly.howie6879.cn/2021/10-18~10-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#vue-color-avatar)：提供一些图片压缩、PDF合并分割小功能的网站 
+
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
+
+`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
+
+![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
 
 ## 👀 资料 
 
-### [zju-icicles](https://github.com/QSCTech/zju-icicles)
+### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
 
-浙江大学课程攻略共享计划：
+一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
 
-![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
+![NhkQDk](https://img.turingark.com/uPic/NhkQDk.jpg) 
 
-### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
+### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
 
-一份程序员延寿指南，目标是稳健地活得更久。 
+一本基于`python&matplotlib`进行科学可视化的开源书籍：
 
-### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
+![scientific-visualization-book](https://img.turingark.com/uPic/scientific-visualization-book.jpg) 
 
-健康学习到150岁 - 人体系统调优不完全指南：
+### [netkiller](https://www.netkiller.cn/)
 
-![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
+作者持续写了将近20年的技术博文，涵盖面极广：
+
+![netkiller](https://img.turingark.com/uPic/V7rzw3.png) 
 
 ## 🕸 网站 
 
-### [uiverse.io](https://uiverse.io/)
+### [ziyouziti](https://ziyouziti.com/)
 
-一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
+免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
 
-![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
+![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
 
-### [eja.tv](https://eja.tv/?)
+### [dute](https://www.dute.org/)
 
-提供3808个在线电视频道，包含143个国家以及82种不同语言。
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
 
-### [macosicons](https://macosicons.com/)
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
-网站基本上覆盖了热门`Mac APP`图标，你可以选择自己喜欢的图标进行替换，让自己的`Mac`更加漂亮且个性化。
+### [nesbox](https://nesbox.xianqiao.wang/)
 
-![macosicons](https://images-1252557999.file.myqcloud.com/uPic/macosicons.png) 
+找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
+
+![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
 
 ## ✍️ 说明
 
