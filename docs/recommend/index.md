@@ -5,95 +5,108 @@
 
 ## 🎯 项目 
 
-### [Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese)
+### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
 
-AI拟声: 克隆您的声音并生成任意语音内容。 
+鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
 
-### [markmap](https://github.com/gera2ld/markmap)
+![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
 
-可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
+### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
 
-![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
+通过网络收集整理的中文歌词数据库, 包含:
 
-### [metabase](https://github.com/metabase/metabase)
+- 绝大多数华语歌手在2019年之前的歌曲
+- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
+- 102197首歌曲, 平均每人25.4首歌
 
-为公司提供的快速BI数据可视化工具：
+作者基于此数据库做了两个歌词生成器：
 
-![metabase](https://images-1252557999.file.myqcloud.com/uPic/metabase.png)
+- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
+- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
 
-也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.cn/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease) 
+### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+
+适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
+
+![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
 
 ## 🤖 软件 
 
-### [Sequel-Ace](https://sequel-ace.com/)
+### [BetterDummy](https://github.com/waydabber/BetterDummy)
 
-原生的 `MySQL/MariaDB` 数据库管理软件：
+`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
 
-![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
+![bd_menu](https://img.turingark.com/uPic/bd_menu.png)
 
-### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
+如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
 
-`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
+### [logseq](https://github.com/logseq/logseq)
 
-- Support Intel
-- Support Apple Silicon (M1 & M2)
-- Network
-- USB 
+Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
 
-### [eoapi](https://github.com/eolinker/eoapi)
+![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
 
-`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+### [MissionBackup](https://github.com/Hellager/MissionBackup)
 
-![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
+本地备份软件：
+
+- 基于 Tauri，兼顾了 web 前端和 rust 后端
+- 5MB 的安装包，15MB 的程序，多平台可用
+- 基于 cron 和 notify 实现对目标定时/监控备份
+- 可自定义备份保存时长和空间
+- 通过图表直观展示备份情况
+- 完善的文档支持
+
+![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
 
 ## 👀 资料 
 
-### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
+### [leetcode](https://github.com/doocs/leetcode)
 
-![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
+本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
 
-### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
 
-![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
+![docker_practice](https://img.turingark.com/uPic/GFlVsV.png) 
 
-`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
+### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 
-![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
+本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
 
-更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
+基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
+配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
+测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
 
-### [2d2d](https://2d2d.io/)
-
-《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建我开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
-
-![2d2d](https://img.turingark.com/uPic/2d2d.jpg) 
+![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [readme.so](https://readme.so/)
+### [cikeee](https://www.cikeee.com/)
 
-一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
+每天推荐一部优秀的电影：
 
-![readme_so](https://img.turingark.com/uPic/readme_so.jpg) 
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
-### [emojimix](https://tikolu.net/emojimix/)
+### [Qwerty Learner](https://qwerty.kaiyi.cool/gallery)
 
-一个表情融合网站，图一个乐呵，效果如下：
+这也是一个开源项目，作者将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。
 
-![emojimix](https://img.turingark.com/uPic/MLvKN0.png) 
+网站提供了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 
 
-### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
+目前有两种方式使用这个项目：
 
-`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
+- 网站：推荐
+- VS Code插件
 
-- 可视化组件配置栏
-- 随机生成头像，有一定概率触发彩蛋
-- 撤销/还原*更改*
-- 国际化多语言
+![Qwerty](https://img.turingark.com/uPic/tHD4ez.png) 
 
-![vue-color-avatar](https://img.turingark.com/uPic/n3gXb6.png) 
+### [similarsites](https://www.similarsites.com/)
+
+输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
+
+![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
 
 ## ✍️ 说明
 
