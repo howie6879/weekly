@@ -5,108 +5,105 @@
 
 ## 🎯 项目 
 
-### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
+### [miniserve](https://github.com/svenstaro/miniserve)
 
-鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
+基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
 
-![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
+![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
 
-### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
+### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
 
-通过网络收集整理的中文歌词数据库, 包含:
+阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
 
-- 绝大多数华语歌手在2019年之前的歌曲
-- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
-- 102197首歌曲, 平均每人25.4首歌
+如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
 
-作者基于此数据库做了两个歌词生成器：
+![Infuse](https://img.turingark.com/uPic/Fbred5.png) 
 
-- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
-- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
+### [PPTist](https://github.com/pipipi-pikachu/PPTist)
 
-### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+基于 Vue3.x + TypeScript 的[在线演示文稿](pipipi-pikachu.github.io/pptist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
 
-适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
-
-![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
+![ppt-list](https://img.turingark.com/uPic/ppt-list.jpg) 
 
 ## 🤖 软件 
 
-### [BetterDummy](https://github.com/waydabber/BetterDummy)
+### [MiaoYan](https://github.com/tw93/MiaoYan)
 
-`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
+轻灵的 Markdown 笔记本伴你写出妙言：
 
-![bd_menu](https://img.turingark.com/uPic/bd_menu.png)
+- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
+- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
+- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
+- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
 
-如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
+![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
 
-### [logseq](https://github.com/logseq/logseq)
+### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
 
-Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
+JetBrains 的下一代 IDE：
 
-![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
+![fleet](https://img.turingark.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
 
-### [MissionBackup](https://github.com/Hellager/MissionBackup)
+### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
 
-本地备份软件：
+Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
 
-- 基于 Tauri，兼顾了 web 前端和 rust 后端
-- 5MB 的安装包，15MB 的程序，多平台可用
-- 基于 cron 和 notify 实现对目标定时/监控备份
-- 可自定义备份保存时长和空间
-- 通过图表直观展示备份情况
-- 完善的文档支持
+Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
 
-![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
+支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
+
+![hammerscholar](https://img.turingark.com/uPic/4UQ5Ha.png) 
 
 ## 👀 资料 
 
-### [leetcode](https://github.com/doocs/leetcode)
+### [穷佐罗的Linux书](https://zorrozou.github.io/)
 
-本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
+穷佐罗的Linux书，挺不错的一份`Linux`教程。
 
-### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
+![zorrozou](https://img.turingark.com/uPic/zorrozou.jpg) 
 
-本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
+### [easy_rust](https://github.com/Dhghomon/easy_rust)
 
-![docker_practice](https://img.turingark.com/uPic/GFlVsV.png) 
+现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
 
-### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
+你可以用以下方式浏览：
 
-本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
+- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
+- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
+- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
 
-基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
-配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
-测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
+![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
 
-![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
+### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+
+经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+
+![the-economist-ebooks](https://img.turingark.com/uPic/the-economist-ebooks.jpg) 
 
 ## 🕸 网站 
 
-### [cikeee](https://www.cikeee.com/)
+### [quanxin](https://quanxin.org/)
 
-每天推荐一部优秀的电影：
+快速、优雅、免费的在线工具，比如：
 
-![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
+- [IP地址查询](https://quanxin.org/ip)
+- [代码截图工具](https://quanxin.org/code-snapshot)
+- [HTTP 状态码参考表](https://quanxin.org/http-status-code)
+- [Favicon ico图标生成器](https://quanxin.org/favicon)
 
-### [Qwerty Learner](https://qwerty.kaiyi.cool/gallery)
+![](https://img.turingark.com/uPic/i6hqlr.png) 
 
-这也是一个开源项目，作者将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。
+### [drawio](https://github.com/jgraph/drawio)
 
-网站提供了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 
+一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
 
-目前有两种方式使用这个项目：
+![drawio](https://img.turingark.com/file/howie-img/uPic/drawio.jpg) 
 
-- 网站：推荐
-- VS Code插件
+### [musicforprogramming](https://musicforprogramming.net/latest/)
 
-![Qwerty](https://img.turingark.com/uPic/tHD4ez.png) 
+非常极客的背景音乐网站：
 
-### [similarsites](https://www.similarsites.com/)
-
-输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
-
-![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
+![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
 
 ## ✍️ 说明
 
