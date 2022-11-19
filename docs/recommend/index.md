@@ -5,29 +5,38 @@
 
 ## 🎯 项目 
 
-### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
+### [zinc](https://github.com/prabhatsharma/zinc)
 
-最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
+`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
 
-- 提取文本
-- 提取图片
-- 提取表格
-- 提取链接
-- 对PDF进行相关编辑操作 
+- 全文索引能力
+- 快速运行，多平台支持
+- 基于Vue的Web UI
+- 兼容ES API
+- 开箱即用的验证功能
+- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
 
-### [PyFlow](https://github.com/wonderworks-software/PyFlow)
+![zinc](https://img.turingark.com/uPic/P9OAA1.jpg) 
 
-可视化脚本框架：
+### [nn-editor](https://github.com/scarsty/nn-editor)
 
-![PyFlow](https://img.turingark.com/uPic/XEBUdM.jpg) 
+Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经网络结构的简单编辑，或者某些特殊流程图的编辑。
 
-### [ar5iv](https://github.com/dginev/ar5iv)
+![nn-editor](https://img.turingark.com/uPic/By0C3O.jpg) 
 
-`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
+### [yacd](https://github.com/haishanh/yacd)
 
-![ar5iv](https://img.turingark.com/uPic/ar5iv.jpg) 
+一个 `Clash` 仪表盘项目：
+
+![yacd](https://images-1252557999.file.myqcloud.com/uPic/yacd.png) 
 
 ## 🤖 软件 
+
+### [Robo 3T](https://github.com/Studio3T/robomongo)
+
+本人常用的一款MongoDB跨平台管理软件，开源免费：
+
+![robomongo](https://img.turingark.com/uPic/robomongo.jpg) 
 
 ### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 
@@ -36,59 +45,50 @@
 ![SmsForwarder](https://img.turingark.com/uPic/v6owv0.jpg)
 如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
 
-### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
 
-快速稳定好用的Redis跨平台桌面管理软件：
-
-![AnotherRedisDesktopManager](https://img.turingark.com/uPic/AnotherRedisDesktopManager.png) 
-
-### [kondo](https://github.com/tbillington/kondo)
-
-有时候在开发的时候，会惊讶于这个语言下依赖竟然有 `xx个G` 的硬盘占用，长期下来，硬盘的空间就这样不知不觉没有了，好在发现了这个项目，帮我解决了问题：
-
-![kondo](https://images-1252557999.file.myqcloud.com/uPic/kondo.png)
-
-可以看到上面 `Rust` 项目依赖确实大。 
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
 ## 👀 资料 
 
-### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
+### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
 
-一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
+`Solidity` 极简入门：
 
-### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
+![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
 
-本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
+### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
 
-![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
+golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
 
-### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
+### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
 
-精益副业：程序员如何优雅地做副业:
+重新分类 Leetcode 高频题 2021 版
 
-![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
+- 题目按照面试频率降序排列
+- 增加难度分类，适合从简单开始学习
+- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
 
 ## 🕸 网站 
 
-### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
+### [万词王](https://github.com/thunlp/WantWords)
 
-目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
+万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
 
-![privacy-policy](https://img.turingark.com/uPic/U5XxZE.png)
+![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
+官方访问地址：[wantwords.net](https://wantwords.net/)。 
 
-![terms-and-conditions](https://img.turingark.com/uPic/jH8Xyz.png) 
+### [macosicons](https://macosicons.com/)
 
-### [http.cat](https://http.cat)
+网站基本上覆盖了热门`Mac APP`图标，你可以选择自己喜欢的图标进行替换，让自己的`Mac`更加漂亮且个性化。
 
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
+![macosicons](https://images-1252557999.file.myqcloud.com/uPic/macosicons.png) 
 
-![http_cat](https://img.turingark.com/uPic/http_cat.jpg) 
+### [cikeee](https://www.cikeee.com/)
 
-### [aliyunpanbbs](https://aliyunpanbbs.com/)
+每天推荐一部优秀的电影：
 
-阿里云盘资源论坛:
-
-![aliyunpanbbs](https://img.turingark.com/uPic/NlHLjW.png) 
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
 ## ✍️ 说明
 
