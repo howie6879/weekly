@@ -5,105 +5,90 @@
 
 ## 🎯 项目 
 
-### [miniserve](https://github.com/svenstaro/miniserve)
+### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
 
-基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
+最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
 
-![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
+- 提取文本
+- 提取图片
+- 提取表格
+- 提取链接
+- 对PDF进行相关编辑操作 
 
-### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
+### [PyFlow](https://github.com/wonderworks-software/PyFlow)
 
-阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
+可视化脚本框架：
 
-如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
+![PyFlow](https://img.turingark.com/uPic/XEBUdM.jpg) 
 
-![Infuse](https://img.turingark.com/uPic/Fbred5.png) 
+### [ar5iv](https://github.com/dginev/ar5iv)
 
-### [PPTist](https://github.com/pipipi-pikachu/PPTist)
+`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
 
-基于 Vue3.x + TypeScript 的[在线演示文稿](pipipi-pikachu.github.io/pptist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
-
-![ppt-list](https://img.turingark.com/uPic/ppt-list.jpg) 
+![ar5iv](https://img.turingark.com/uPic/ar5iv.jpg) 
 
 ## 🤖 软件 
 
-### [MiaoYan](https://github.com/tw93/MiaoYan)
+### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 
-轻灵的 Markdown 笔记本伴你写出妙言：
+短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
 
-- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
-- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
-- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
-- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
+![SmsForwarder](https://img.turingark.com/uPic/v6owv0.jpg)
+如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
 
-![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
+### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 
-### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
+快速稳定好用的Redis跨平台桌面管理软件：
 
-JetBrains 的下一代 IDE：
+![AnotherRedisDesktopManager](https://img.turingark.com/uPic/AnotherRedisDesktopManager.png) 
 
-![fleet](https://img.turingark.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
+### [kondo](https://github.com/tbillington/kondo)
 
-### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
+有时候在开发的时候，会惊讶于这个语言下依赖竟然有 `xx个G` 的硬盘占用，长期下来，硬盘的空间就这样不知不觉没有了，好在发现了这个项目，帮我解决了问题：
 
-Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
+![kondo](https://images-1252557999.file.myqcloud.com/uPic/kondo.png)
 
-Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
-
-支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
-
-![hammerscholar](https://img.turingark.com/uPic/4UQ5Ha.png) 
+可以看到上面 `Rust` 项目依赖确实大。 
 
 ## 👀 资料 
 
-### [穷佐罗的Linux书](https://zorrozou.github.io/)
+### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
 
-穷佐罗的Linux书，挺不错的一份`Linux`教程。
+一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
 
-![zorrozou](https://img.turingark.com/uPic/zorrozou.jpg) 
+### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
 
-### [easy_rust](https://github.com/Dhghomon/easy_rust)
+本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
 
-现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
+![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
 
-你可以用以下方式浏览：
+### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
 
-- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
-- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
-- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
+精益副业：程序员如何优雅地做副业:
 
-![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
-
-### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
-
-经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
-
-![the-economist-ebooks](https://img.turingark.com/uPic/the-economist-ebooks.jpg) 
+![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
 
 ## 🕸 网站 
 
-### [quanxin](https://quanxin.org/)
+### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
 
-快速、优雅、免费的在线工具，比如：
+目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
 
-- [IP地址查询](https://quanxin.org/ip)
-- [代码截图工具](https://quanxin.org/code-snapshot)
-- [HTTP 状态码参考表](https://quanxin.org/http-status-code)
-- [Favicon ico图标生成器](https://quanxin.org/favicon)
+![privacy-policy](https://img.turingark.com/uPic/U5XxZE.png)
 
-![](https://img.turingark.com/uPic/i6hqlr.png) 
+![terms-and-conditions](https://img.turingark.com/uPic/jH8Xyz.png) 
 
-### [drawio](https://github.com/jgraph/drawio)
+### [http.cat](https://http.cat)
 
-一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
+如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
 
-![drawio](https://img.turingark.com/file/howie-img/uPic/drawio.jpg) 
+![http_cat](https://img.turingark.com/uPic/http_cat.jpg) 
 
-### [musicforprogramming](https://musicforprogramming.net/latest/)
+### [aliyunpanbbs](https://aliyunpanbbs.com/)
 
-非常极客的背景音乐网站：
+阿里云盘资源论坛:
 
-![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
+![aliyunpanbbs](https://img.turingark.com/uPic/NlHLjW.png) 
 
 ## ✍️ 说明
 
