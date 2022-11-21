@@ -5,79 +5,83 @@
 
 ## 🎯 项目 
 
-### [JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER)
+### [50projects50days](https://github.com/bradtraversy/50projects50days)
 
-京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)。
+50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
 
-![jd-shopper](https://img.turingark.com/uPic/jd-shopper.jpeg) 
+![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
 
-### [GFPGAN](https://github.com/TencentARC/GFPGAN)
+### [appsmith](https://github.com/appsmithorg/appsmith)
 
-腾讯开源的老照片修复项目：
+低代码项目，用于构建任何自定义业务软件，如管理面板、内部工具和仪表板。使用35+个预构建的UI小部件连接到任何数据库、GraphQL或RESTAPI。
 
-![GFPGAN](https://img.turingark.com/uPic/UOiwSK.jpg) 
+![as-widgets](https://img.turingark.com/uPic/as-widgets.gif) 
 
-### [flet](https://github.com/flet-dev/flet)
+### [photoprism](https://github.com/photoprism/photoprism)
 
-用 `Python` 开发跨平台 `Flutter` 应用：
+基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
 
-![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
+![photoprism](https://img.turingark.com/uPic/ZiTbsh.jpg) 
 
 ## 🤖 软件 
 
-### [AltTab](https://alt-tab-macos.netlify.app/)
+### [UTM](https://github.com/utmapp/UTM)
 
-`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
+开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
 
-![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
+![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
 
-### [全是漫画](https://github.com/hongchacha/cartoon)
+### [DBeaver](https://github.com/dbeaver/dbeaver)
 
-全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
+免费的通用数据库管理工具，SQL客户端，跨平台支持：
 
-![comic](https://img.turingark.com/uPic/FXXmY5.jpg) 
+![dbeaver](https://img.turingark.com/uPic/dbeaver.png) 
 
-### [Macast](https://github.com/xfangfang/Macast)
+### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
 
-Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
+`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
 
-![Macast](https://img.turingark.com/uPic/CXYyQX.jpg) 
+![Miao](https://img.turingark.com/uPic/Miao.png) 
 
 ## 👀 资料 
 
-### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
+### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
 
-一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
+该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
 
-![](https://img.turingark.com/uPic/96wIDJ.png) 
+### [zju-icicles](https://github.com/QSCTech/zju-icicles)
 
-### [how-web-works](https://github.com/vasanthk/how-web-works)
+浙江大学课程攻略共享计划：
 
-当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
+![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
 
-### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
+### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
-左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
+> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
+
+本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
+
+![Learn-Vim_zh_cn](https://img.turingark.com/uPic/AgGats.png) 
 
 ## 🕸 网站 
 
-### [eja.tv](https://eja.tv/?)
+### [1loc](https://1loc.dev/)
 
-提供3808个在线电视频道，包含143个国家以及82种不同语言。
+一行 `js` 代码，可以实现哪些基础功能？这个网站做了汇总：
 
-![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
+![1loc](https://images-1252557999.file.myqcloud.com/uPic/1loc.jpg) 
 
-### [zzollo](https://github.com/Sanix-Darker/zzollo)
+### [alternativeto](https://alternativeto.net/)
 
-开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
+让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
 
-![zzollo](https://img.turingark.com/uPic/NJXulr.png) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
-### [similarsites](https://www.similarsites.com/)
+### [dbbqb](https://www.dbbqb.com/)
 
-输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
+专业的表情包搜索网站：
 
-![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
+![dbbqb](https://images-1252557999.file.myqcloud.com/uPic/dbbqb.jpg) 
 
 ## ✍️ 说明
 
