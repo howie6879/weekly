@@ -5,83 +5,89 @@
 
 ## 🎯 项目 
 
-### [50projects50days](https://github.com/bradtraversy/50projects50days)
+### [notion-avatar](https://github.com/Mayandev/notion-avatar)
 
-50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
+如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
 
-![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
+![notion-avatar](https://img.turingark.com/uPic/OrjQK2.jpg) 
 
-### [appsmith](https://github.com/appsmithorg/appsmith)
+### [mometa](https://github.com/imcuttle/mometa)
 
-低代码项目，用于构建任何自定义业务软件，如管理面板、内部工具和仪表板。使用35+个预构建的UI小部件连接到任何数据库、GraphQL或RESTAPI。
+面向研发的低代码元编程，代码可视编辑，辅助编码工具，
 
-![as-widgets](https://img.turingark.com/uPic/as-widgets.gif) 
+mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。
 
-### [photoprism](https://github.com/photoprism/photoprism)
+**它用于解决的问题有：**
 
-基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
+- 对低代码平台不形成依赖，二次开发可以无缝进入代码开发模式
+- 同时支持所见即所得的可视编辑，用于提效，提升开发体验
+- 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
 
-![photoprism](https://img.turingark.com/uPic/ZiTbsh.jpg) 
+![mometa](https://img.turingark.com/uPic/snapshot.png) 
+
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
+
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+
+![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
 
 ## 🤖 软件 
 
-### [UTM](https://github.com/utmapp/UTM)
+### [tts-now](https://github.com/funnyzak/tts-now)
 
-开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
+基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
 
-![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
+![](https://img.turingark.com/uPic/Se6U0t.jpg) 
 
-### [DBeaver](https://github.com/dbeaver/dbeaver)
+### [vnote](https://github.com/vnotex/vnote)
 
-免费的通用数据库管理工具，SQL客户端，跨平台支持：
+VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
 
-![dbeaver](https://img.turingark.com/uPic/dbeaver.png) 
+![vnote](https://img.turingark.com/uPic/vnote.png) 
 
-### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
+### [SwiftBar](https://github.com/swiftbar/SwiftBar)
 
-`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
+一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
 
-![Miao](https://img.turingark.com/uPic/Miao.png) 
+![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
 
 ## 👀 资料 
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+### [nlp-with-transformers](https://github.com/nlp-with-transformers)
 
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+书籍《基于Transformers的自然语言处理》的代码仓库：
 
-### [zju-icicles](https://github.com/QSCTech/zju-icicles)
+![](https://img.turingark.com/uPic/A6MiF5.jpg) 
 
-浙江大学课程攻略共享计划：
+### [data_compression_course](https://github.com/jermp/data_compression_course)
 
-![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
+由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
+该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
 
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
-
-![Learn-Vim_zh_cn](https://img.turingark.com/uPic/AgGats.png) 
+![logic](https://img.turingark.com/uPic/logic.jpg) 
 
 ## 🕸 网站 
 
-### [1loc](https://1loc.dev/)
+### [flatuicolors](https://flatuicolors.com/)
 
-一行 `js` 代码，可以实现哪些基础功能？这个网站做了汇总：
+`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
 
-![1loc](https://images-1252557999.file.myqcloud.com/uPic/1loc.jpg) 
+![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
 
-### [alternativeto](https://alternativeto.net/)
+### [pixel-me](https://pixel-me.tokyo/en/)
 
-让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
+将你的头像像素化，质量挺好：
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![](https://img.turingark.com/uPic/gnHdoM.png) 
 
-### [dbbqb](https://www.dbbqb.com/)
+### [recompressor](https://zh.recompressor.com/)
 
-专业的表情包搜索网站：
+免费的图片压缩工具：
 
-![dbbqb](https://images-1252557999.file.myqcloud.com/uPic/dbbqb.jpg) 
+![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
 
 ## ✍️ 说明
 
