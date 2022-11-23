@@ -5,89 +5,85 @@
 
 ## 🎯 项目 
 
-### [notion-avatar](https://github.com/Mayandev/notion-avatar)
+### [bore](https://github.com/ekzhang/bore)
 
-如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
+`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
 
-![notion-avatar](https://img.turingark.com/uPic/OrjQK2.jpg) 
+![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
 
-### [mometa](https://github.com/imcuttle/mometa)
+### [awesome-compose](https://github.com/docker/awesome-compose)
 
-面向研发的低代码元编程，代码可视编辑，辅助编码工具，
+一些 `Docker Compose` 的实践示例。 
 
-mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。
+### [50projects50days](https://github.com/bradtraversy/50projects50days)
 
-**它用于解决的问题有：**
+50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
 
-- 对低代码平台不形成依赖，二次开发可以无缝进入代码开发模式
-- 同时支持所见即所得的可视编辑，用于提效，提升开发体验
-- 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
-
-![mometa](https://img.turingark.com/uPic/snapshot.png) 
-
-### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
-
-AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
-
-![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
+![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
 
 ## 🤖 软件 
 
-### [tts-now](https://github.com/funnyzak/tts-now)
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
+LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
 
-![](https://img.turingark.com/uPic/Se6U0t.jpg) 
+![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
 
-### [vnote](https://github.com/vnotex/vnote)
+### [siyuan](https://github.com/siyuan-note/siyuan)
 
-VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
+思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
 
-![vnote](https://img.turingark.com/uPic/vnote.png) 
+![siyuan](https://img.turingark.com/uPic/tcg6u0.jpg) 
 
-### [SwiftBar](https://github.com/swiftbar/SwiftBar)
+### [lettura](https://github.com/zhanglun/lettura)
 
-一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
+基于 `Tauri` 的桌面 `RSS` 阅读器：
 
-![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
+![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
 
 ## 👀 资料 
 
-### [nlp-with-transformers](https://github.com/nlp-with-transformers)
+### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 
-书籍《基于Transformers的自然语言处理》的代码仓库：
+PyTorch 从0到精通教程：
 
-![](https://img.turingark.com/uPic/A6MiF5.jpg) 
+![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
 
-### [data_compression_course](https://github.com/jermp/data_compression_course)
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+![miaosha](https://img.turingark.com/uPic/WXcZTY.jpg) 
 
-该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 
-![logic](https://img.turingark.com/uPic/logic.jpg) 
+本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
+
+基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
+配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
+测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
+
+![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [flatuicolors](https://flatuicolors.com/)
+### [toonme](https://toonme.com)
 
-`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
+该网站将原图绘制成可爱的卡通图片：
 
-![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
+![toonme](https://img.turingark.com/file/howie-img/uPic/toonme.jpg) 
 
-### [pixel-me](https://pixel-me.tokyo/en/)
+### [jsont.run](https://www.jsont.run/)
 
-将你的头像像素化，质量挺好：
+一个简洁的在线 `JSON` 解析器：
 
-![](https://img.turingark.com/uPic/gnHdoM.png) 
+![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
 
-### [recompressor](https://zh.recompressor.com/)
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
 
-免费的图片压缩工具：
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
 
-![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
+![YYeTsBot](https://img.turingark.com/uPic/5bwPfx.jpg) 
 
 ## ✍️ 说明
 
