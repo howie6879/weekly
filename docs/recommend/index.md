@@ -5,85 +5,87 @@
 
 ## 🎯 项目 
 
-### [bore](https://github.com/ekzhang/bore)
+### [mall-cook](https://github.com/wangyuan389/mall-cook)
 
-`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
+Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
 
-![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
+![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
 
-### [awesome-compose](https://github.com/docker/awesome-compose)
+### [GFPGAN](https://github.com/TencentARC/GFPGAN)
 
-一些 `Docker Compose` 的实践示例。 
+腾讯开源的老照片修复项目：
 
-### [50projects50days](https://github.com/bradtraversy/50projects50days)
+![GFPGAN](https://img.turingark.com/uPic/UOiwSK.jpg) 
 
-50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
+### [musicn](https://github.com/zonemeen/musicn)
 
-![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
+🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
+
+![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
 
 ## 🤖 软件 
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+### [lively](https://github.com/rocksdanister/lively)
 
-LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
+针对 `Windows` 的开源的动态壁纸软件：
 
-![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
+![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
 
-### [siyuan](https://github.com/siyuan-note/siyuan)
+### [legado](https://github.com/gedoor/legado)
 
-思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-![siyuan](https://img.turingark.com/uPic/tcg6u0.jpg) 
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
 
-### [lettura](https://github.com/zhanglun/lettura)
+![legado](https://img.turingark.com/uPic/jSEBJ9.png) 
 
-基于 `Tauri` 的桌面 `RSS` 阅读器：
+### [KOReader](https://github.com/koreader/koreader)
 
-![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
+KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
+
+![koreader](https://img.turingark.com/uPic/koreader.jpg) 
 
 ## 👀 资料 
 
-### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
+### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
 
-PyTorch 从0到精通教程：
+通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
 
-![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
+- 通过编写测试学习 Go 语言
+- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
+- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
 
-### [miaosha](https://github.com/qiurunze123/miaosha)
+![lgwt](https://img.turingark.com/uPic/lgwt.jpg) 
 
-高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
+### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
 
-![miaosha](https://img.turingark.com/uPic/WXcZTY.jpg) 
+一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
 
-### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
+### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
 
-本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
+一本小书《带你入门前端工程》
 
-基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
-配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
-测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
-
-![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
+![](https://img.turingark.com/uPic/e783TS.png) 
 
 ## 🕸 网站 
 
-### [toonme](https://toonme.com)
+### [pixel-me](https://pixel-me.tokyo/en/)
 
-该网站将原图绘制成可爱的卡通图片：
+将你的头像像素化，质量挺好：
 
-![toonme](https://img.turingark.com/file/howie-img/uPic/toonme.jpg) 
+![](https://img.turingark.com/uPic/gnHdoM.png) 
 
-### [jsont.run](https://www.jsont.run/)
+### [法律时代导航](https://yesen.cn/)
 
-一个简洁的在线 `JSON` 解析器：
+法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
 
-![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
+![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
 
-### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+### [apitracker](https://apitracker.io/)
 
-人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
+发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
 
-![YYeTsBot](https://img.turingark.com/uPic/5bwPfx.jpg) 
+![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
 
 ## ✍️ 说明
 
