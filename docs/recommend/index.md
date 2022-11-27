@@ -5,97 +5,97 @@
 
 ## 🎯 项目 
 
-### [questdb](https://github.com/questdb/questdb)
+### [appsmith](https://github.com/appsmithorg/appsmith)
 
-QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
+低代码项目，用于构建任何自定义业务软件，如管理面板、内部工具和仪表板。使用35+个预构建的UI小部件连接到任何数据库、GraphQL或RESTAPI。
 
-特别是针对时间序列数据做了处理：
+![as-widgets](https://img.turingark.com/uPic/as-widgets.gif) 
 
-![questdb](https://img.turingark.com/uPic/Sbq9WK.jpg) 
+### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
 
-### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
+阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
 
-`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
+如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
 
-![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
+![Infuse](https://img.turingark.com/uPic/Fbred5.png) 
 
-### [wallabag](https://github.com/wallabag/wallabag)
+### [pushdeer](https://github.com/easychen/pushdeer)
 
-一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
+开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备：
 
-- 浏览器插件收集网页信息
-- 安卓/IOS/网页端阅读以及管理
-
-![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
+![pushdeer](https://images-1252557999.file.myqcloud.com/uPic/pushdeer.jpg) 
 
 ## 🤖 软件 
 
-### [Robo 3T](https://github.com/Studio3T/robomongo)
+### [avnc](https://github.com/gujjwal00/avnc)
 
-本人常用的一款MongoDB跨平台管理软件，开源免费：
+针对 `Android` 的开源 `VNC` 客户端：
 
-![robomongo](https://img.turingark.com/uPic/robomongo.jpg) 
+![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
 
-### [eoapi](https://github.com/eolinker/eoapi)
+### [DBeaver](https://github.com/dbeaver/dbeaver)
 
-`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+免费的通用数据库管理工具，SQL客户端，跨平台支持：
 
-![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
+![dbeaver](https://img.turingark.com/uPic/dbeaver.png) 
 
-### [ptg](https://github.com/crossoverJie/ptg)
+### [Seal](https://github.com/JunkFood02/Seal)
 
-让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
+一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
 
-![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
+- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
+- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
+- 播放列表下载支持
+- 内嵌字幕于视频文件中
+- 执行自定义的 yt-dlp 命令模板
+- 管理应用内下载与自定义命令模板
+- 使用简单、用户友好
+- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
+- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
+    
+![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
 
 ## 👀 资料 
 
-### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
+### [under-the-hood](https://golang.design/under-the-hood/)
 
-`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
+`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
 
-- [Tauri 项目](https://github.com/tauri-apps/tauri)
-- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
-- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
+![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
 
-### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
 
-C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
+从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
 
-![Cpp-0-1-Resource](https://img.turingark.com/uPic/rM99nS.png) 
+### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
 
-### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
-
-美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
-
-![](https://img.turingark.com/uPic/OSTEP-20220429104105382.jpg)
-
-本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
+对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
 
 ## 🕸 网站 
 
-### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
+### [feathericons](https://feathericons.com/)
 
-`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
+简洁漂亮的图标网站：
 
-- 可视化组件配置栏
-- 随机生成头像，有一定概率触发彩蛋
-- 撤销/还原*更改*
-- 国际化多语言
+![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
 
-![vue-color-avatar](https://img.turingark.com/uPic/n3gXb6.png) 
+### [remixicon](https://remixicon.com/)
 
-### [drawio](https://github.com/jgraph/drawio)
+[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
 
-一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
+![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
 
-![drawio](https://img.turingark.com/file/howie-img/uPic/drawio.jpg) 
+### [regex101](https://regex101.com/)
 
-### [musicforprogramming](https://musicforprogramming.net/latest/)
+`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
 
-非常极客的背景音乐网站：
+- PHP
+- Python
+- JS
+- Go
+- Java
 
-![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
+![regex101](https://img.turingark.com/uPic/Fz15mf.png) 
 
 ## ✍️ 说明
 
