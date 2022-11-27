@@ -5,81 +5,97 @@
 
 ## 🎯 项目 
 
-### [rss-proxy](https://github.com/damoeb/rss-proxy)
+### [questdb](https://github.com/questdb/questdb)
 
-通过分析用户提供的静态页面自动创建RSS订阅源：
+QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
 
-![](https://img.turingark.com/uPic/APrAbH.png) 
+特别是针对时间序列数据做了处理：
 
-### [tabler](https://github.com/tabler/tabler)
+![questdb](https://img.turingark.com/uPic/Sbq9WK.jpg) 
 
-基于 `Bootstrap` 的免费开源的 `Dashboard UI` 工具包：
+### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
 
-![tabler-preview](https://images-1252557999.file.myqcloud.com/uPic/tabler-preview.png) 
+`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
 
-### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
 
-免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
+### [wallabag](https://github.com/wallabag/wallabag)
 
-![rxresu](https://img.turingark.com/uPic/rxresu.jpg) 
+一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
+
+- 浏览器插件收集网页信息
+- 安卓/IOS/网页端阅读以及管理
+
+![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
 
 ## 🤖 软件 
 
-### [PeaZip](https://github.com/peazip/PeaZip)
+### [Robo 3T](https://github.com/Studio3T/robomongo)
 
-PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
+本人常用的一款MongoDB跨平台管理软件，开源免费：
 
-![peazip](https://img.turingark.com/uPic/peazip.png) 
+![robomongo](https://img.turingark.com/uPic/robomongo.jpg) 
 
-### [Macast](https://github.com/xfangfang/Macast)
+### [eoapi](https://github.com/eolinker/eoapi)
 
-Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
+`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
 
-![Macast](https://img.turingark.com/uPic/CXYyQX.jpg) 
+![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
 
-### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
+### [ptg](https://github.com/crossoverJie/ptg)
 
-谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
+让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
 
-![temp_mail](https://img.turingark.com/uPic/M4DZPI.png) 
+![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
 
 ## 👀 资料 
 
-### [动手学OCR·十讲](https://aistudio.baidu.com/aistudio/course/introduce/25207)
+### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
 
-PaddleOCR的原创团队出的课程，课程内容涵盖基于深度学习的经典OCR检测识别算法、最新文档结构化技术以及千锤百炼的产业级模型与部署工具。通过广泛调研提炼了重要OCR算法的核心思想，实践部分不仅对代码重要细节做了深入分析，还会实时运行代码展示效果助大家加深理解。
+`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
 
-![动手学OCR](https://img.turingark.com/uPic/tcg64l.png) 
+- [Tauri 项目](https://github.com/tauri-apps/tauri)
+- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
+- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
 
-### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 
-命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
+C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
 
-### [netkiller](https://www.netkiller.cn/)
+![Cpp-0-1-Resource](https://img.turingark.com/uPic/rM99nS.png) 
 
-作者持续写了将近20年的技术博文，涵盖面极广：
+### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
 
-![netkiller](https://img.turingark.com/uPic/V7rzw3.png) 
+美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
+
+![](https://img.turingark.com/uPic/OSTEP-20220429104105382.jpg)
+
+本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
 
 ## 🕸 网站 
 
-### [uxdatabase](https://www.uxdatabase.io/)
+### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
 
-国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
+`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
 
-![uxdatabase](https://img.turingark.com/uPic/uxdatabase.jpg) 
+- 可视化组件配置栏
+- 随机生成头像，有一定概率触发彩蛋
+- 撤销/还原*更改*
+- 国际化多语言
 
-### [ixinqing](http://www.ixinqing.com/)
+![vue-color-avatar](https://img.turingark.com/uPic/n3gXb6.png) 
 
-心晴 · 专注于心理学入门与自我成长:
+### [drawio](https://github.com/jgraph/drawio)
 
-![ixinqing](https://img.turingark.com/uPic/ixinqing-20220328205229819.png) 
+一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
 
-### [gh-card.dev](https://gh-card.dev/)
+![drawio](https://img.turingark.com/file/howie-img/uPic/drawio.jpg) 
 
-免费为你的 `Github` 开源项目生成卡片的网站：
+### [musicforprogramming](https://musicforprogramming.net/latest/)
 
-![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
+非常极客的背景音乐网站：
+
+![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
 
 ## ✍️ 说明
 
