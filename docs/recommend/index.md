@@ -5,97 +5,101 @@
 
 ## 🎯 项目 
 
-### [appsmith](https://github.com/appsmithorg/appsmith)
+### [wireflow](https://github.com/vanila-io/wireflow)
 
-低代码项目，用于构建任何自定义业务软件，如管理面板、内部工具和仪表板。使用35+个预构建的UI小部件连接到任何数据库、GraphQL或RESTAPI。
+一款开源的用户流程图制作工具（点击[wireflow.co](https://wireflow.co/)访问）：
 
-![as-widgets](https://img.turingark.com/uPic/as-widgets.gif) 
+![wireflow](https://images-1252557999.file.myqcloud.com/uPic/wireflow.png) 
 
-### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
+### [tinysearch](https://github.com/tinysearch/tinysearch)
 
-阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
+轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
 
-如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
+### [wallabag](https://github.com/wallabag/wallabag)
 
-![Infuse](https://img.turingark.com/uPic/Fbred5.png) 
+一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
 
-### [pushdeer](https://github.com/easychen/pushdeer)
+- 浏览器插件收集网页信息
+- 安卓/IOS/网页端阅读以及管理
 
-开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备：
-
-![pushdeer](https://images-1252557999.file.myqcloud.com/uPic/pushdeer.jpg) 
+![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
 
 ## 🤖 软件 
 
-### [avnc](https://github.com/gujjwal00/avnc)
+### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
 
-针对 `Android` 的开源 `VNC` 客户端：
+M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
 
-![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
+| 功能                 | 支持       |
+| -------------------- | ---------- |
+| HLS协议点播源        | ✓          |
+| 自定义Http协议头下载 | ✓          |
+| 自定义KEY和IV解密    | ✓          |
+| 本地M3U8文件下载     | ✓          |
+| M3U8 直播源          | ✓          |
+| 标准 AES-128-CBC加密 | ✓          |
+| 标准 AES-196-CBC加密 | ✓          |
+| 标准 AES-256-CBC加密 | ✓          |
+| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
+| 网页嗅探视频源       | ✓          |
 
-### [DBeaver](https://github.com/dbeaver/dbeaver)
+![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
 
-免费的通用数据库管理工具，SQL客户端，跨平台支持：
+### [B站录播姬](https://rec.danmuji.org/)
 
-![dbeaver](https://img.turingark.com/uPic/dbeaver.png) 
+一个方便好用免费开源的哔哩哔哩直播录制工具：
 
-### [Seal](https://github.com/JunkFood02/Seal)
+![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
 
-一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
-- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
-- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
-- 播放列表下载支持
-- 内嵌字幕于视频文件中
-- 执行自定义的 yt-dlp 命令模板
-- 管理应用内下载与自定义命令模板
-- 使用简单、用户友好
-- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
-- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
-    
-![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
 ## 👀 资料 
 
-### [under-the-hood](https://golang.design/under-the-hood/)
+### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
 
-`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
+开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
 
-![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
+![fullstackopen](https://img.turingark.com/uPic/p1g8z3.png) 
 
-### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
+ 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
 
-### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
+### [easy_rust](https://github.com/Dhghomon/easy_rust)
 
-对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
+现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
+
+你可以用以下方式浏览：
+
+- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
+- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
+- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
+
+![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
 
 ## 🕸 网站 
 
-### [feathericons](https://feathericons.com/)
+### [huawei-od](https://huawei-od.vercel.app/)
 
-简洁漂亮的图标网站：
+牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
 
-![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
+![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
 
-### [remixicon](https://remixicon.com/)
+### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
 
-[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
+中国少年儿童新闻出版总社免费开放的少儿绘本网站：
 
-![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
+![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
 
-### [regex101](https://regex101.com/)
+### [eja.tv](https://eja.tv/?)
 
-`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
+提供3808个在线电视频道，包含143个国家以及82种不同语言。
 
-- PHP
-- Python
-- JS
-- Go
-- Java
-
-![regex101](https://img.turingark.com/uPic/Fz15mf.png) 
+![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
 
 ## ✍️ 说明
 
