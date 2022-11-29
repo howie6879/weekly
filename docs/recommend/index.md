@@ -5,101 +5,93 @@
 
 ## 🎯 项目 
 
-### [wireflow](https://github.com/vanila-io/wireflow)
+### [notion-avatar](https://github.com/Mayandev/notion-avatar)
 
-一款开源的用户流程图制作工具（点击[wireflow.co](https://wireflow.co/)访问）：
+如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
 
-![wireflow](https://images-1252557999.file.myqcloud.com/uPic/wireflow.png) 
+![notion-avatar](https://img.turingark.com/uPic/OrjQK2.jpg) 
 
-### [tinysearch](https://github.com/tinysearch/tinysearch)
+### [PanIndex](https://github.com/libsgh/PanIndex)
 
-轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
+网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
 
-### [wallabag](https://github.com/wallabag/wallabag)
+- 跨平台、易部署
+- 多模式、多网盘
+- 多主题
+- 下载直链
+- 防盗链
+- 短链、分享
+- 访问控制
+- 分流
+- WebDav
 
-一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
+![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
 
-- 浏览器插件收集网页信息
-- 安卓/IOS/网页端阅读以及管理
+### [miniserve](https://github.com/svenstaro/miniserve)
 
-![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
+基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
+
+![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
 
 ## 🤖 软件 
 
-### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
+### [Gif123](https://github.com/aardio/Gif123)
 
-M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
+非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
 
-| 功能                 | 支持       |
-| -------------------- | ---------- |
-| HLS协议点播源        | ✓          |
-| 自定义Http协议头下载 | ✓          |
-| 自定义KEY和IV解密    | ✓          |
-| 本地M3U8文件下载     | ✓          |
-| M3U8 直播源          | ✓          |
-| 标准 AES-128-CBC加密 | ✓          |
-| 标准 AES-196-CBC加密 | ✓          |
-| 标准 AES-256-CBC加密 | ✓          |
-| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
-| 网页嗅探视频源       | ✓          |
+![Gif123](https://img.turingark.com/uPic/FQabyv.jpg) 
 
-![HLSDownloadShow](https://img.turingark.com/uPic/HLSDownloadShow.gif) 
+### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
 
-### [B站录播姬](https://rec.danmuji.org/)
+`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
 
-一个方便好用免费开源的哔哩哔哩直播录制工具：
+![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
 
-![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
+### [unclutter](https://github.com/lindylearn/unclutter)
 
-### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
+阅读插件，将网页内容快速转成美观的阅读模式：
 
-腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
-
-![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
+![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
 
 ## 👀 资料 
 
-### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
+### [go101](https://gfw.go101.org/article/101.html)
 
-开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
+《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
 
-![fullstackopen](https://img.turingark.com/uPic/p1g8z3.png) 
+![Go语言101](https://img.turingark.com/uPic/aPSFYR.png) 
 
-### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
 
- 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
+一本开源的专门讲解面试关键路径的书籍：
 
-### [easy_rust](https://github.com/Dhghomon/easy_rust)
+![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
 
-现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-你可以用以下方式浏览：
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
-- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
-- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
-
-![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
+![rust-api-guidelines](https://img.turingark.com/uPic/rust-api-guidelines.jpg) 
 
 ## 🕸 网站 
 
-### [huawei-od](https://huawei-od.vercel.app/)
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
 
-牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
+PDF Squeezer 是一款 PDF 压缩工具：
 
-![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
-### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
+### [ziyouziti](https://ziyouziti.com/)
 
-中国少年儿童新闻出版总社免费开放的少儿绘本网站：
+免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
 
-![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
+![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
 
-### [eja.tv](https://eja.tv/?)
+### [openart.ai](https://openart.ai/)
 
-提供3808个在线电视频道，包含143个国家以及82种不同语言。
+基于 `DALL E 2、Midjourney、SD` 生成的1000多万图片搜索网站：
 
-![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
+![openart](https://images-1252557999.file.myqcloud.com/uPic/openart.jpg) 
 
 ## ✍️ 说明
 
