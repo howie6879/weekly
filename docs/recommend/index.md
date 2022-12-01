@@ -5,95 +5,86 @@
 
 ## 🎯 项目 
 
-### [photoprism](https://github.com/photoprism/photoprism)
+### [picx](https://github.com/XPoet/picx)
 
-基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
+基于 GitHub API 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！
 
-![photoprism](https://img.turingark.com/uPic/ZiTbsh.jpg) 
+![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg) 
 
-### [photoview](https://github.com/photoview/photoview)
+### [fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
 
-开源的相册程序，可基于Docker快速构建：
+微软开源的 `Fluent Emoji` 表情包：
 
-![photoview](https://img.turingark.com/uPic/photoview.png) 
+![fluentui-emoji](https://images-1252557999.file.myqcloud.com/uPic/fluentui-emoji.webp) 
 
-### [ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot)
+### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
 
-`Win PC` 微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装 `COM` 接口供 `Python、C#` 调用：
+一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
 
-- 获取通讯录
-- 发送文本、图片、文件、xml文章、名片、群艾特消息
-- 根据wxid查询好友信息
-- 根据群ID获取所有群成员wxid
-- 检测好友状态（是否好友、被删除、被拉黑）
-- 接收各类消息，可写回调函数进行处理
-- 封装COM接口，方便使用自己喜欢的语言进行调用
-- 群管理
-- 微信多开 
+![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
+
+你可以直接[在线体验](https://letsmarkdown.com/)。 
 
 ## 🤖 软件 
 
-### [notesnook](https://github.com/streetwriters/notesnook)
+### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
-印象笔记的开源替代品（支持端对端加密）：
+跨平台的 `PostgreSQL` 数据库管理软件（开源）：
 
-![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
+![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
 
-### [全是漫画](https://github.com/hongchacha/cartoon)
+### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
 
-全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
+使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
 
-![comic](https://img.turingark.com/uPic/FXXmY5.jpg) 
+- 支持下载无水印视频
+- 支持下载某个账号号的所有视频
 
-### [Xit](https://github.com/Uncommon/Xit)
+![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
 
-`Mac OS`下开源免费的原生`Git`客户端 ：
+### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
 
-![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
+`Android` 平台下 `MD` 风格的文件管理器:
+
+![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
 
 ## 👀 资料 
 
-### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
+### [tmplink/ipv6](https://github.com/tmplink/ipv6)
 
-从零开始学习Kubernetes的路线图（初级到高级）：
+本文档主要讲解 IPv6 的一些皮毛知识，主要是让读者理解 IPv6 地址的一些概念，诸如前缀，子网，接口。 
 
-![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
+### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
 
-### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
+《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 
-[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
+![frontend-hard-mode-interview](https://img.turingark.com/uPic/frontend-hard-mode-interview.png) 
 
-目前也提供了中文版：
+### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
 
-![patterns-of-distributed-systems](https://img.turingark.com/uPic/ZlA2Zu.png) 
+读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
 
-### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
-
-微软设计的机器学习课程，完全面向新手：
-
-- 时间：12周
-- 课程：25课
-- 实验：50个 
+![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [musetransfer](https://musetransfer.com/)
+### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
 
-`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
+配置高性能、安全、稳定的NGINX服务器的最简单方法：
 
-![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
+![nginx_web](https://img.turingark.com/uPic/N7Yp8R.png) 
 
-### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+### [pika](https://pika.style/)
 
-人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
+[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
 
-![YYeTsBot](https://img.turingark.com/uPic/5bwPfx.jpg) 
+![pika](https://img.turingark.com/uPic/pika.jpg) 
 
-### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
+### [emojimix](https://tikolu.net/emojimix/)
 
-一个搜索 git 常用 emoji 的网站:
+一个表情融合网站，图一个乐呵，效果如下：
 
-![git-emoji-user-guide](https://img.turingark.com/uPic/sILZG1.png) 
+![emojimix](https://img.turingark.com/uPic/MLvKN0.png) 
 
 ## ✍️ 说明
 
