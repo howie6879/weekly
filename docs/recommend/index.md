@@ -5,86 +5,96 @@
 
 ## 🎯 项目 
 
-### [picx](https://github.com/XPoet/picx)
+### [uptime-kuma](https://github.com/louislam/uptime-kuma)
 
-基于 GitHub API 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！
+一个开源可自建的网站监控工具，用于监控网站的运行状态：
 
-![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg) 
+![uptime-kuma](https://img.turingark.com/uPic/vTUcC7.jpg) 
 
-### [fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
+### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
 
-微软开源的 `Fluent Emoji` 表情包：
+阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
 
-![fluentui-emoji](https://images-1252557999.file.myqcloud.com/uPic/fluentui-emoji.webp) 
+如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
 
-### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
+![Infuse](https://img.turingark.com/uPic/Fbred5.png) 
 
-一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
+### [miniserve](https://github.com/svenstaro/miniserve)
 
-![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
+基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
 
-你可以直接[在线体验](https://letsmarkdown.com/)。 
+![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
 
 ## 🤖 软件 
 
-### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
+### [podman-desktop](https://github.com/containers/podman-desktop)
 
-跨平台的 `PostgreSQL` 数据库管理软件（开源）：
+ `Podman` 的桌面版：
+ 
+ ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
 
-![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
+### [logseq](https://github.com/logseq/logseq)
 
-### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
+Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
 
-使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
+![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
 
-- 支持下载无水印视频
-- 支持下载某个账号号的所有视频
+### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
 
-![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
+超方便的微信视频号下载器：
 
-### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+- 支持实时捕获视频号的视频地址
+- 捕获后，可进行预览和下载
+- 支持 Win/Mac
 
-`Android` 平台下 `MD` 风格的文件管理器:
-
-![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
+![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
 
 ## 👀 资料 
 
-### [tmplink/ipv6](https://github.com/tmplink/ipv6)
+### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
 
-本文档主要讲解 IPv6 的一些皮毛知识，主要是让读者理解 IPv6 地址的一些概念，诸如前缀，子网，接口。 
+打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
 
-### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
+![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
 
-《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
+### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
 
-![frontend-hard-mode-interview](https://img.turingark.com/uPic/frontend-hard-mode-interview.png) 
+`Solidity` 极简入门：
 
-### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
+![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
 
-读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
+### [meetup](https://github.com/baiyutang/meetup)
 
-![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
+【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
+
+![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
 
 ## 🕸 网站 
 
-### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
+### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
 
-配置高性能、安全、稳定的NGINX服务器的最简单方法：
+一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
 
-![nginx_web](https://img.turingark.com/uPic/N7Yp8R.png) 
+![shanshui-inf](https://img.turingark.com/uPic/shanshui-inf.jpg) 
 
-### [pika](https://pika.style/)
+### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
 
-[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
+`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
 
-![pika](https://img.turingark.com/uPic/pika.jpg) 
+- 可视化组件配置栏
+- 随机生成头像，有一定概率触发彩蛋
+- 撤销/还原*更改*
+- 国际化多语言
 
-### [emojimix](https://tikolu.net/emojimix/)
+![vue-color-avatar](https://img.turingark.com/uPic/n3gXb6.png) 
 
-一个表情融合网站，图一个乐呵，效果如下：
+### [squoosh](https://squoosh.app/)
 
-![emojimix](https://img.turingark.com/uPic/MLvKN0.png) 
+免费漂亮的在线图片压缩网站：
+
+![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
+
+其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
 
 ## ✍️ 说明
 
