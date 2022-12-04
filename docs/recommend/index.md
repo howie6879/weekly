@@ -5,110 +5,94 @@
 
 ## 🎯 项目 
 
-### [memos](https://github.com/justmemos/memos)
+### [nas-tools](https://github.com/jxxghp/nas-tools)
 
-Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
+NAS媒体库资源归集、整理自动化工具：
 
-**🎯 产品意图**:
+![nas_tool](https://images-1252557999.file.myqcloud.com/uPic/nas_tool.jpg) 
 
-- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
-- 🏗️ 代替了微信“文件传输助手”
-- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-### [ui-buttons/core](https://github.com/ui-buttons/core)
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-CSS 按钮样式集合，此项目实现了 100 种不同的现代化的样式按钮：
+ ![mm_wiki](https://img.turingark.com/uPic/mm_wiki.png) 
 
-![ui-buttons](https://images-1252557999.file.myqcloud.com/uPic/ui-buttons.png) 
+### [gorse](https://github.com/zhenghaoz/gorse)
 
-### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
+用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
 
-如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
+![gorse](https://img.turingark.com/uPic/nP2kgE.jpg)
 
-- 教程
-- 软件
-- 工具&服务
-- 社区
-- ......
+作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
 
-你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
-
-- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
-- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
-
-![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
+![gitrec](https://img.turingark.com/uPic/jAuEdM.jpg) 
 
 ## 🤖 软件 
 
-### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
+### [scrcpy](https://github.com/Genymobile/scrcpy)
 
-Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
+在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
 
-Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
+它专注于：
 
-支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
+- 轻量 (原生，仅显示设备屏幕)
+- 性能 (30~60fps)
+- 质量 (分辨率可达 1920×1080 或更高)
+- 低延迟 (35~70ms)
+- 快速启动 (最快 1 秒内即可显示第一帧)
+- 无侵入性 (不会在设备上遗留任何程序) 
 
-![hammerscholar](https://img.turingark.com/uPic/4UQ5Ha.png) 
+### [Focalboard](https://github.com/mattermost/focalboard)
 
-### [MissionBackup](https://github.com/Hellager/MissionBackup)
+`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
 
-本地备份软件：
+![Focalboard](https://img.turingark.com/uPic/K3Ibbl.jpg) 
 
-- 基于 Tauri，兼顾了 web 前端和 rust 后端
-- 5MB 的安装包，15MB 的程序，多平台可用
-- 基于 cron 和 notify 实现对目标定时/监控备份
-- 可自定义备份保存时长和空间
-- 通过图表直观展示备份情况
-- 完善的文档支持
+### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
 
-![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
+`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
 
-### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
-
-一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
-
-![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
+![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
 
 ## 👀 资料 
 
-### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
+### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 
-一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
+微软设计的机器学习课程，完全面向新手：
 
-![NhkQDk](https://img.turingark.com/uPic/NhkQDk.jpg) 
+- 时间：12周
+- 课程：25课
+- 实验：50个 
 
-### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
+《Mastering GO》中文译本，《玩转 GO》：
 
-![frontend-hard-mode-interview](https://img.turingark.com/uPic/frontend-hard-mode-interview.png) 
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
-### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
+### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
 
-![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
+非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
 
 ## 🕸 网站 
 
-### [photoroom](https://www.photoroom.com/backgrounds/)
+### [untools](https://untools.co/)
 
-利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
+一个帮助你思考的集合工具&框架：
 
-![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
+![untools](https://img.turingark.com/uPic/hHu9aw.png) 
 
-### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
+### [apitracker](https://apitracker.io/)
 
-作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
+发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
 
-![](https://img.turingark.com/uPic/bdd-3d.png)
+![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
 
+### [cleanup.pictures](https://cleanup.pictures/)
 
-感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
+百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
 
-### [musicforprogramming](https://musicforprogramming.net/latest/)
-
-非常极客的背景音乐网站：
-
-![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
+![cleanup_demo](https://img.turingark.com/uPic/cleanup_demo.gif) 
 
 ## ✍️ 说明
 
