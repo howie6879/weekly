@@ -5,94 +5,105 @@
 
 ## 🎯 项目 
 
-### [nas-tools](https://github.com/jxxghp/nas-tools)
+### [zfile](https://github.com/zhaojun1998/zfile)
 
-NAS媒体库资源归集、整理自动化工具：
+基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
 
-![nas_tool](https://images-1252557999.file.myqcloud.com/uPic/nas_tool.jpg) 
+![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
+### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
 
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
 
- ![mm_wiki](https://img.turingark.com/uPic/mm_wiki.png) 
+![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
 
-### [gorse](https://github.com/zhenghaoz/gorse)
+### [upptime](https://github.com/upptime/upptime)
 
-用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
+由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
 
-![gorse](https://img.turingark.com/uPic/nP2kgE.jpg)
-
-作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
-
-![gitrec](https://img.turingark.com/uPic/jAuEdM.jpg) 
+![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
 
 ## 🤖 软件 
 
-### [scrcpy](https://github.com/Genymobile/scrcpy)
+### [MiaoYan](https://github.com/tw93/MiaoYan)
 
-在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
+轻灵的 Markdown 笔记本伴你写出妙言：
 
-它专注于：
+- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
+- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
+- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
+- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
 
-- 轻量 (原生，仅显示设备屏幕)
-- 性能 (30~60fps)
-- 质量 (分辨率可达 1920×1080 或更高)
-- 低延迟 (35~70ms)
-- 快速启动 (最快 1 秒内即可显示第一帧)
-- 无侵入性 (不会在设备上遗留任何程序) 
+![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
 
-### [Focalboard](https://github.com/mattermost/focalboard)
+### [bdash](https://github.com/bdash-app/bdash)
 
-`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
+用于数据分析的简单 `SQL` 客户端：
 
-![Focalboard](https://img.turingark.com/uPic/K3Ibbl.jpg) 
+![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
 
-### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
+### [shottr](https://shottr.cc/)
 
-`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
+免费截屏软件（macOS）：
 
-![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
+![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
 
 ## 👀 资料 
 
-### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
 
-微软设计的机器学习课程，完全面向新手：
+通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
 
-- 时间：12周
-- 课程：25课
-- 实验：50个 
+- 通过编写测试学习 Go 语言
+- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
+- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
 
-### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
+![lgwt](https://img.turingark.com/uPic/lgwt.jpg) 
 
-《Mastering GO》中文译本，《玩转 GO》：
+### [sideproject](https://sideproject.guide/)
 
-![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
+`Side Project` 指南：
 
-### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
 
-非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+
+### [learn-regex](https://github.com/ziishaned/learn-regex)
+
+开源的正则表达式教程，有中文版，有在线示例。 
 
 ## 🕸 网站 
 
-### [untools](https://untools.co/)
+### [读书笔记](https://reading.geek-docs.com/)
 
-一个帮助你思考的集合工具&框架：
+网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
 
-![untools](https://img.turingark.com/uPic/hHu9aw.png) 
+![reading](https://img.turingark.com/uPic/nfN4XL.png) 
 
-### [apitracker](https://apitracker.io/)
+### [tReader](https://tiansh.github.io/reader/#!/read/1)
 
-发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
+如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
 
-![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
+![tReader](https://img.turingark.com/uPic/PMMlRM.jpg)
+基本功能如下：
 
-### [cleanup.pictures](https://cleanup.pictures/)
+- 手机端适配，阅读效果优秀
+- 点左上角的添加按钮可以添加文件
+- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
+- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
+- 文件列表，左滑、右键或按Delete可以显示删除按钮
+- 书签
+- 搜索
+- 目录等 
 
-百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
+### [nesbox](https://nesbox.xianqiao.wang/)
 
-![cleanup_demo](https://img.turingark.com/uPic/cleanup_demo.gif) 
+找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
+
+![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
 
 ## ✍️ 说明
 
