@@ -5,105 +5,102 @@
 
 ## 🎯 项目 
 
-### [zfile](https://github.com/zhaojun1998/zfile)
+### [go-daily-lib](https://github.com/darjun/go-daily-lib)
 
-基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
+每天学习一个 Go 语言库，内容质量相当高。
 
-![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
+![go-daily-lib](https://img.turingark.com/uPic/4Ippyf.png) 
 
-### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
+### [Hakuba](https://github.com/YeungKC/Hakuba)
 
-基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
+一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
 
-![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
+![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
 
-### [upptime](https://github.com/upptime/upptime)
+### [answer](https://github.com/answerdev/answer)
 
-由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
+基于自己的产品或者项目快速打造一个问答社区：
 
-![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
+![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
 
 ## 🤖 软件 
 
-### [MiaoYan](https://github.com/tw93/MiaoYan)
+### [Vieb](https://vieb.dev/)
 
-轻灵的 Markdown 笔记本伴你写出妙言：
+开源免费的全平台（PC）`Vim`风格电子浏览器：
 
-- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
-- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
-- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
-- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
+![Vieb](https://img.turingark.com/uPic/BqyWaK.png) 
 
-![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
+### [Offset Explorer](https://www.kafkatool.com/download.html)
 
-### [bdash](https://github.com/bdash-app/bdash)
+个人免费的跨平台 `Kafka` 界面管理工具：
 
-用于数据分析的简单 `SQL` 客户端：
+![offset-explorer](https://images-1252557999.file.myqcloud.com/uPic/offset-explorer.jpg) 
 
-![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
+### [Sequel-Ace](https://sequel-ace.com/)
 
-### [shottr](https://shottr.cc/)
+原生的 `MySQL/MariaDB` 数据库管理软件：
 
-免费截屏软件（macOS）：
-
-![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
+![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
 
 ## 👀 资料 
 
-### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
+### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
+计算机科学课程和视频讲座列表：
 
-- 通过编写测试学习 Go 语言
-- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
-- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
+![cs-video-courses](https://img.turingark.com/uPic/cs-video-courses.jpg) 
 
-![lgwt](https://img.turingark.com/uPic/lgwt.jpg) 
+### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
 
-### [sideproject](https://sideproject.guide/)
+![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
 
-`Side Project` 指南：
+### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+更新记录如下：
 
-### [learn-regex](https://github.com/ziishaned/learn-regex)
+- 2020-11-03：环境搭建完成，开始着手编写文档。
+- 2020-11-13：第一章完成。
+- 2020-11-27：第二章完成。
+- 2020-12-20：前七章代码完成。
+- 2021-01-10：第三章完成。
+- 2021-01-18：加入第零章。
+- 2021-01-30：第四章完成。
+- 2021-02-16：第五章完成。
+- 2021-02-20：第六章完成。
+- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
+- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
 
-开源的正则表达式教程，有中文版，有在线示例。 
+热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
 
 ## 🕸 网站 
 
-### [读书笔记](https://reading.geek-docs.com/)
+### [sayhello](https://beta.sayhello.so/)
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-![reading](https://img.turingark.com/uPic/nfN4XL.png) 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
-### [tReader](https://tiansh.github.io/reader/#!/read/1)
+### [dute](https://www.dute.org/)
 
-如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-![tReader](https://img.turingark.com/uPic/PMMlRM.jpg)
-基本功能如下：
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
 
-- 手机端适配，阅读效果优秀
-- 点左上角的添加按钮可以添加文件
-- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
-- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
-- 文件列表，左滑、右键或按Delete可以显示删除按钮
-- 书签
-- 搜索
-- 目录等 
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
-### [nesbox](https://nesbox.xianqiao.wang/)
+### [zhongguose](http://zhongguose.com/)
 
-找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
+一个中国传统颜色的配色网站：
 
-![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
+![zhongguose](https://img.turingark.com/uPic/zhongguose.jpg) 
 
 ## ✍️ 说明
 
