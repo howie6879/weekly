@@ -5,37 +5,33 @@
 
 ## 🎯 项目 
 
-### [go-daily-lib](https://github.com/darjun/go-daily-lib)
+### [diagrams](https://github.com/mingrammer/diagrams)
 
-每天学习一个 Go 语言库，内容质量相当高。
+用 `Python` 代码绘制云原生架构图：
 
-![go-daily-lib](https://img.turingark.com/uPic/4Ippyf.png) 
+![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
 
-### [Hakuba](https://github.com/YeungKC/Hakuba)
+### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
 
-一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
+可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
 
-![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
+类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
 
-### [answer](https://github.com/answerdev/answer)
+![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
 
-基于自己的产品或者项目快速打造一个问答社区：
+### [termtyper](https://github.com/kraanzu/termtyper)
 
-![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
+一个终端打字应用程序，以提高你的手指水平！
+
+![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
 
 ## 🤖 软件 
 
-### [Vieb](https://vieb.dev/)
+### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
 
-开源免费的全平台（PC）`Vim`风格电子浏览器：
+一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
 
-![Vieb](https://img.turingark.com/uPic/BqyWaK.png) 
-
-### [Offset Explorer](https://www.kafkatool.com/download.html)
-
-个人免费的跨平台 `Kafka` 界面管理工具：
-
-![offset-explorer](https://images-1252557999.file.myqcloud.com/uPic/offset-explorer.jpg) 
+![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
 
 ### [Sequel-Ace](https://sequel-ace.com/)
 
@@ -43,64 +39,59 @@
 
 ![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
 
+### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
+
+这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
+
+- SSH连接操作
+- Jupyter支持
+- Code Server（Web版VS Code） 支持
+- 文件管理支持
+- 自带Python：写点常用脚本不在话下
+- 上手深度学习
+- 等等
+
+这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
+
+![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
+
 ## 👀 资料 
 
-### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
 
-计算机科学课程和视频讲座列表：
+该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
 
-![cs-video-courses](https://img.turingark.com/uPic/cs-video-courses.jpg) 
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
+夯实计算机基础，该怎么学，这个项目给出了答案：
 
-![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
+![TeachYourselfCS](https://img.turingark.com/uPic/hKl2yK.png) 
 
-### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
 
-更新记录如下：
-
-- 2020-11-03：环境搭建完成，开始着手编写文档。
-- 2020-11-13：第一章完成。
-- 2020-11-27：第二章完成。
-- 2020-12-20：前七章代码完成。
-- 2021-01-10：第三章完成。
-- 2021-01-18：加入第零章。
-- 2021-01-30：第四章完成。
-- 2021-02-16：第五章完成。
-- 2021-02-20：第六章完成。
-- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
-- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
-
-热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
+![ML](https://img.turingark.com/uPic/R26HG2.png) 
 
 ## 🕸 网站 
 
-### [sayhello](https://beta.sayhello.so/)
+### [feathericons](https://feathericons.com/)
 
-面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
+简洁漂亮的图标网站：
 
-![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
 
-### [dute](https://www.dute.org/)
+### [neeva](https://neeva.com/search)
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
+前谷歌工程师构建的免费无广告的搜索引擎，搜索效果挺好：
 
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
+![neeva](https://images-1252557999.file.myqcloud.com/uPic/neeva.jpg) 
 
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+### [sao.fm](https://sao.fm/)
 
-### [zhongguose](http://zhongguose.com/)
+一个在线听广播电台的网站：
 
-一个中国传统颜色的配色网站：
-
-![zhongguose](https://img.turingark.com/uPic/zhongguose.jpg) 
+![sao.fm](https://img.turingark.com/uPic/sao.fm.jpg) 
 
 ## ✍️ 说明
 
