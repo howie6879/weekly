@@ -5,87 +5,84 @@
 
 ## 🎯 项目 
 
-### [diagrams](https://github.com/mingrammer/diagrams)
+### [shiori](https://github.com/go-shiori/shiori)
 
-用 `Python` 代码绘制云原生架构图：
+开源自部署的书签管理服务：
 
-![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
+![shiori](https://images-1252557999.file.myqcloud.com/uPic/shiori.jpg) 
 
-### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 
-可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
 
-类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
+![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
 
-![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
+### [KubePi](https://github.com/KubeOperator/KubePi)
 
-### [termtyper](https://github.com/kraanzu/termtyper)
+简单易用的开源 Kubernetes 可视化管理面板，允许管理员导入多个 Kubernetes 集群，并且通过权限控制，将不同 cluster、namespace 的权限分配给指定用户。
 
-一个终端打字应用程序，以提高你的手指水平！
-
-![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
+它允许开发人员管理 Kubernetes 集群中运行的应用程序并对其进行故障排查，供开发人员更好地处理 Kubernetes 集群中的复杂性。 
 
 ## 🤖 软件 
 
-### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
+### [EyesGuard](https://github.com/avestura/EyesGuard)
 
-一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
+`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
 
-![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
+![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
 
-### [Sequel-Ace](https://sequel-ace.com/)
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-原生的 `MySQL/MariaDB` 数据库管理软件：
+LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
 
-![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
+![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
 
-### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
+### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
-这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
+控制外部显示器的亮度和音量（macOS）：
 
-- SSH连接操作
-- Jupyter支持
-- Code Server（Web版VS Code） 支持
-- 文件管理支持
-- 自带Python：写点常用脚本不在话下
-- 上手深度学习
-- 等等
-
-这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
-
-![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
+![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
 
 ## 👀 资料 
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
 
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
 
-夯实计算机基础，该怎么学，这个项目给出了答案：
+### [xjq7/books](https://github.com/xjq7/books)
 
-![TeachYourselfCS](https://img.turingark.com/uPic/hKl2yK.png) 
+电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
 
-### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
+### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
 
-作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
+中国5级行政区域mysql库：
 
-![ML](https://img.turingark.com/uPic/R26HG2.png) 
+- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
+- 港澳地区的数据只有3级;台湾地区4级
+- 包含大陆地区的邮政编码和经纬度信息 
 
 ## 🕸 网站 
 
-### [feathericons](https://feathericons.com/)
+### [watermarkremover](https://www.watermarkremover.io/)
 
-简洁漂亮的图标网站：
+通过AI技术去除图片水印：
 
-![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
+![watermarkremover](https://img.turingark.com/uPic/watermarkremover.jpg) 
 
-### [neeva](https://neeva.com/search)
+### [dute](https://www.dute.org/)
 
-前谷歌工程师构建的免费无广告的搜索引擎，搜索效果挺好：
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-![neeva](https://images-1252557999.file.myqcloud.com/uPic/neeva.jpg) 
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
+
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
 ### [sao.fm](https://sao.fm/)
 
