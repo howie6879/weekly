@@ -5,90 +5,81 @@
 
 ## 🎯 项目 
 
-### [shiori](https://github.com/go-shiori/shiori)
+### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
 
-开源自部署的书签管理服务：
+一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
 
-![shiori](https://images-1252557999.file.myqcloud.com/uPic/shiori.jpg) 
+![ikea-low-price](https://img.turingark.com/uPic/ikea-low-price.png) 
 
-### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
+### [appsmith](https://github.com/appsmithorg/appsmith)
 
-AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+低代码项目，用于构建任何自定义业务软件，如管理面板、内部工具和仪表板。使用35+个预构建的UI小部件连接到任何数据库、GraphQL或RESTAPI。
 
-![AI-Writer](https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg) 
+![as-widgets](https://img.turingark.com/uPic/as-widgets.gif) 
 
-### [KubePi](https://github.com/KubeOperator/KubePi)
+### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
 
-简单易用的开源 Kubernetes 可视化管理面板，允许管理员导入多个 Kubernetes 集群，并且通过权限控制，将不同 cluster、namespace 的权限分配给指定用户。
-
-它允许开发人员管理 Kubernetes 集群中运行的应用程序并对其进行故障排查，供开发人员更好地处理 Kubernetes 集群中的复杂性。 
+Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.cn/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
 
 ## 🤖 软件 
 
-### [EyesGuard](https://github.com/avestura/EyesGuard)
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
 
-`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
-![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
+### [Thor](https://github.com/gbammc/Thor)
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+通过快捷键快速打开应用：
 
-LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
+![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
 
-![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
+### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
+监控你的应用流量，跨平台：
 
-控制外部显示器的亮度和音量（macOS）：
-
-![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
+![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
 
 ## 👀 资料 
 
-### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
+### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
-本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
+LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
 
-![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-### [xjq7/books](https://github.com/xjq7/books)
+《Mastering GO》中文译本，《玩转 GO》：
 
-电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
-### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
+### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
 
-中国5级行政区域mysql库：
+精益副业：程序员如何优雅地做副业:
 
-- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
-- 港澳地区的数据只有3级;台湾地区4级
-- 包含大陆地区的邮政编码和经纬度信息 
+![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
 
 ## 🕸 网站 
 
-### [watermarkremover](https://www.watermarkremover.io/)
+### [couplet](https://ai.binwang.me/couplet/)
 
-通过AI技术去除图片水印：
+自动对联网站：
 
-![watermarkremover](https://img.turingark.com/uPic/watermarkremover.jpg) 
+![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
 
-### [dute](https://www.dute.org/)
+### [万词王](https://github.com/thunlp/WantWords)
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
+万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
 
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
+![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
+官方访问地址：[wantwords.net](https://wantwords.net/)。 
 
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
 
-### [sao.fm](https://sao.fm/)
+作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
 
-一个在线听广播电台的网站：
+![](https://img.turingark.com/uPic/bdd-3d.png)
 
-![sao.fm](https://img.turingark.com/uPic/sao.fm.jpg) 
+
+感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
 
 ## ✍️ 说明
 
