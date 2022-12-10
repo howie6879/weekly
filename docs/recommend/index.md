@@ -5,81 +5,91 @@
 
 ## 🎯 项目 
 
-### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
+### [appwrite](https://github.com/appwrite/appwrite)
 
-一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
+`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
 
-![ikea-low-price](https://img.turingark.com/uPic/ikea-low-price.png) 
+![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
 
-### [appsmith](https://github.com/appsmithorg/appsmith)
+### [Restfox](https://github.com/flawiddsouza/Restfox)
 
-低代码项目，用于构建任何自定义业务软件，如管理面板、内部工具和仪表板。使用35+个预构建的UI小部件连接到任何数据库、GraphQL或RESTAPI。
+主打离线也能运行使用的 `Web HTTP` 客户端:
 
-![as-widgets](https://img.turingark.com/uPic/as-widgets.gif) 
+![Restfox](https://images-1252557999.file.myqcloud.com/uPic/Restfox.png)
 
-### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
+之前也推荐过 [hoppscotch](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。 
 
-Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.cn/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
+### [hoppscotch](https://github.com/hoppscotch/hoppscotch)
+
+`Hoppscotch`对标的是`Postman`，相信涉及到后端接口这块大家都对`Postman`非常熟悉，但`Postman`自从收费后，评价就慢慢开始不行了，而且软件也越来越重，我本人也是同感，不然我也没有动机找到`hoppscotch`来替换。
+
+有恶龙就有勇士，有位印度裔小哥`Liyas Thomas`坐不住了，对`Postman`非常不爽，于是他自己开发了`Postwoman`，看这个名字也知道是干嘛的，后面改名为`Hoppscotch`。
+
+开源的魅力就在这里，永远有人做出让大家欢呼的贡献，所以`Hoppscotch`在社区获得非常高的认可度（目前已经30K Star+），其提供了非常丰富的特性，部署也很方便，有兴趣的可以尝试使用看看：
+
+![hoppscotch](https://img.turingark.com/uPic/sPde7J.png) 
 
 ## 🤖 软件 
 
-### [Wechatsync](https://github.com/wechatsync/Wechatsync)
+### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
-一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
+用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
 
-### [Thor](https://github.com/gbammc/Thor)
+![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
 
-通过快捷键快速打开应用：
+### [balenaEtcher](https://github.com/balena-io/etcher)
 
-![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
+balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
 
-### [sniffnet](https://github.com/GyulyVGC/sniffnet)
+![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
 
-监控你的应用流量，跨平台：
+### [哔哩](https://github.com/Richasy/Bili.Uwp)
 
-![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
+一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
+
+![bili](https://img.turingark.com/uPic/lnDWzU.jpg) 
 
 ## 👀 资料 
 
-### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
 
-LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
+《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
 
-### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
+![ddia](https://img.turingark.com/uPic/H2Z04g.png) 
 
-《Mastering GO》中文译本，《玩转 GO》：
+### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
 
-![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
+美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
 
-### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
+![](https://img.turingark.com/uPic/OSTEP-20220429104105382.jpg)
 
-精益副业：程序员如何优雅地做副业:
+本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
 
-![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
+### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+
+收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+
+![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
 
 ## 🕸 网站 
 
-### [couplet](https://ai.binwang.me/couplet/)
+### [openart.ai](https://openart.ai/)
 
-自动对联网站：
+基于 `DALL E 2、Midjourney、SD` 生成的1000多万图片搜索网站：
 
-![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
+![openart](https://images-1252557999.file.myqcloud.com/uPic/openart.jpg) 
 
-### [万词王](https://github.com/thunlp/WantWords)
+### [emojimix](https://tikolu.net/emojimix/)
 
-万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
+一个表情融合网站，图一个乐呵，效果如下：
 
-![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
-官方访问地址：[wantwords.net](https://wantwords.net/)。 
+![emojimix](https://img.turingark.com/uPic/MLvKN0.png) 
 
-### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
+### [devtool.tech](https://devtool.tech/)
 
-作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
+开发者武器库，作者提供了83个开发者常用的工具：
 
-![](https://img.turingark.com/uPic/bdd-3d.png)
-
-
-感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
+![](https://img.turingark.com/uPic/ZlVqam.png) 
 
 ## ✍️ 说明
 
