@@ -5,97 +5,89 @@
 
 ## 🎯 项目 
 
-### [bore](https://github.com/ekzhang/bore)
+### [daedalOS](https://github.com/DustinBrett/daedalOS)
 
-`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
+`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
 
-![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
+![daedalOS](https://img.turingark.com/uPic/ISxBdY.png) 
 
-### [van-blog](https://github.com/Mereithhh/van-blog)
+### [yacd](https://github.com/haishanh/yacd)
 
-一款简洁实用优雅的高性能个人博客系统：
+一个 `Clash` 仪表盘项目：
 
-![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
+![yacd](https://images-1252557999.file.myqcloud.com/uPic/yacd.png) 
 
-### [alist](https://github.com/Xhofe/alist)
+### [PanIndex](https://github.com/libsgh/PanIndex)
 
-一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
+网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
 
-![alist](https://img.turingark.com/uPic/alist-20220429094521145.png)
+- 跨平台、易部署
+- 多模式、多网盘
+- 多主题
+- 下载直链
+- 防盗链
+- 短链、分享
+- 访问控制
+- 分流
+- WebDav
 
-简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
+![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
 
 ## 🤖 软件 
 
-### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+### [licecap](https://github.com/justinfrankel/licecap)
 
-一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
+LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
 
-- 配置app启动默认输入法。
-- app来回切换，保持app切出前的使用的输入法。
-- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
-- 悬浮窗口支持
+### [Readhubn](https://github.com/shensven/Readhubn)
 
-![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
+如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
 
-### [Maccy](https://github.com/p0deje/Maccy)
+![readhub](https://img.turingark.com/uPic/pZfUjT.png) 
 
-轻量级macOS剪切板管理应用：
+### [CatchMouse](https://github.com/round/CatchMouse)
 
-![](https://img.turingark.com/uPic/t3XNpU.png)
-使用截图如下：
-
-![](https://img.turingark.com/uPic/SWZ6kJ.png) 
-
-### [lettura](https://github.com/zhanglun/lettura)
-
-基于 `Tauri` 的桌面 `RSS` 阅读器：
-
-![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
+如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
 
 ## 👀 资料 
 
-### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
+### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
 
-这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
+《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
 
-之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.cn/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
+![ddia](https://img.turingark.com/uPic/H2Z04g.png) 
 
-### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
+### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
 
-Go语言实战: 编写可维护Go语言代码建议。 
+打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
 
-### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
 
-计算机科学课程和视频讲座列表：
+### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
 
-![cs-video-courses](https://img.turingark.com/uPic/cs-video-courses.jpg) 
+陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
+
+![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
 
 ## 🕸 网站 
 
 ### [alternativeto](https://alternativeto.net/)
 
-让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
+常用软件替代品查询网站：
 
 ![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
-### [regex101](https://regex101.com/)
+### [sayhello](https://beta.sayhello.so/)
 
-`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-- PHP
-- Python
-- JS
-- Go
-- Java
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
-![regex101](https://img.turingark.com/uPic/Fz15mf.png) 
+### [1loc](https://1loc.dev/)
 
-### [photoroom](https://www.photoroom.com/backgrounds/)
+一行 `js` 代码，可以实现哪些基础功能？这个网站做了汇总：
 
-利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
-
-![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
+![1loc](https://images-1252557999.file.myqcloud.com/uPic/1loc.jpg) 
 
 ## ✍️ 说明
 
