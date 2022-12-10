@@ -5,91 +5,97 @@
 
 ## 🎯 项目 
 
-### [appwrite](https://github.com/appwrite/appwrite)
+### [bore](https://github.com/ekzhang/bore)
 
-`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
+`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
 
-![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
+![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
 
-### [Restfox](https://github.com/flawiddsouza/Restfox)
+### [van-blog](https://github.com/Mereithhh/van-blog)
 
-主打离线也能运行使用的 `Web HTTP` 客户端:
+一款简洁实用优雅的高性能个人博客系统：
 
-![Restfox](https://images-1252557999.file.myqcloud.com/uPic/Restfox.png)
+![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
 
-之前也推荐过 [hoppscotch](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。 
+### [alist](https://github.com/Xhofe/alist)
 
-### [hoppscotch](https://github.com/hoppscotch/hoppscotch)
+一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
 
-`Hoppscotch`对标的是`Postman`，相信涉及到后端接口这块大家都对`Postman`非常熟悉，但`Postman`自从收费后，评价就慢慢开始不行了，而且软件也越来越重，我本人也是同感，不然我也没有动机找到`hoppscotch`来替换。
+![alist](https://img.turingark.com/uPic/alist-20220429094521145.png)
 
-有恶龙就有勇士，有位印度裔小哥`Liyas Thomas`坐不住了，对`Postman`非常不爽，于是他自己开发了`Postwoman`，看这个名字也知道是干嘛的，后面改名为`Hoppscotch`。
-
-开源的魅力就在这里，永远有人做出让大家欢呼的贡献，所以`Hoppscotch`在社区获得非常高的认可度（目前已经30K Star+），其提供了非常丰富的特性，部署也很方便，有兴趣的可以尝试使用看看：
-
-![hoppscotch](https://img.turingark.com/uPic/sPde7J.png) 
+简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
 
 ## 🤖 软件 
 
-### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
+### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
 
-用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
+一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
 
-![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
+- 配置app启动默认输入法。
+- app来回切换，保持app切出前的使用的输入法。
+- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
+- 悬浮窗口支持
 
-### [balenaEtcher](https://github.com/balena-io/etcher)
+![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
 
-balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
+### [Maccy](https://github.com/p0deje/Maccy)
 
-![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
+轻量级macOS剪切板管理应用：
 
-### [哔哩](https://github.com/Richasy/Bili.Uwp)
+![](https://img.turingark.com/uPic/t3XNpU.png)
+使用截图如下：
 
-一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
+![](https://img.turingark.com/uPic/SWZ6kJ.png) 
 
-![bili](https://img.turingark.com/uPic/lnDWzU.jpg) 
+### [lettura](https://github.com/zhanglun/lettura)
+
+基于 `Tauri` 的桌面 `RSS` 阅读器：
+
+![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
 
 ## 👀 资料 
 
-### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
+### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
 
-《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
+这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
-![ddia](https://img.turingark.com/uPic/H2Z04g.png) 
+之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.cn/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
 
-### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
+### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
 
-美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
+Go语言实战: 编写可维护Go语言代码建议。 
 
-![](https://img.turingark.com/uPic/OSTEP-20220429104105382.jpg)
+### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
+计算机科学课程和视频讲座列表：
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
-
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
-
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+![cs-video-courses](https://img.turingark.com/uPic/cs-video-courses.jpg) 
 
 ## 🕸 网站 
 
-### [openart.ai](https://openart.ai/)
+### [alternativeto](https://alternativeto.net/)
 
-基于 `DALL E 2、Midjourney、SD` 生成的1000多万图片搜索网站：
+让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
 
-![openart](https://images-1252557999.file.myqcloud.com/uPic/openart.jpg) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
-### [emojimix](https://tikolu.net/emojimix/)
+### [regex101](https://regex101.com/)
 
-一个表情融合网站，图一个乐呵，效果如下：
+`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
 
-![emojimix](https://img.turingark.com/uPic/MLvKN0.png) 
+- PHP
+- Python
+- JS
+- Go
+- Java
 
-### [devtool.tech](https://devtool.tech/)
+![regex101](https://img.turingark.com/uPic/Fz15mf.png) 
 
-开发者武器库，作者提供了83个开发者常用的工具：
+### [photoroom](https://www.photoroom.com/backgrounds/)
 
-![](https://img.turingark.com/uPic/ZlVqam.png) 
+利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
+
+![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
 
 ## ✍️ 说明
 
