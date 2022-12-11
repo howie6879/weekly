@@ -5,89 +5,83 @@
 
 ## 🎯 项目 
 
-### [daedalOS](https://github.com/DustinBrett/daedalOS)
+### [wechat-export](https://github.com/luin/wechat-export)
 
-`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
+将微信聊天记录导出为HTML文件：
 
-![daedalOS](https://img.turingark.com/uPic/ISxBdY.png) 
+![wechat-export](https://img.turingark.com/uPic/eIhKUP.jpg) 
 
-### [yacd](https://github.com/haishanh/yacd)
+### [Verdaccio](https://github.com/verdaccio/verdaccio)
 
-一个 `Clash` 仪表盘项目：
+`Verdaccio` 是一个 `Node.js` 创建的轻量的私有 `npm proxy registry`：
 
-![yacd](https://images-1252557999.file.myqcloud.com/uPic/yacd.png) 
+![Verdaccio](https://images-1252557999.file.myqcloud.com/uPic/CRinc4.jpg) 
 
-### [PanIndex](https://github.com/libsgh/PanIndex)
+### [autocut](https://github.com/mli/autocut)
 
-网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
+`AutoCut` 对视频自动生成字幕，只需选择要保留的句子，`AutoCut` 将对视频中对应的片段裁切并保存。
 
-- 跨平台、易部署
-- 多模式、多网盘
-- 多主题
-- 下载直链
-- 防盗链
-- 短链、分享
-- 访问控制
-- 分流
-- WebDav
-
-![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
+![autocut](https://images-1252557999.file.myqcloud.com/uPic/autocut.jpg) 
 
 ## 🤖 软件 
 
-### [licecap](https://github.com/justinfrankel/licecap)
+### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
 
-LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
+> 让每个人都简单方便的使用前沿人工智能技术
 
-### [Readhubn](https://github.com/shensven/Readhubn)
+一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
 
-如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
+![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
 
-![readhub](https://img.turingark.com/uPic/pZfUjT.png) 
+### [natpass](https://github.com/lwch/natpass)
 
-### [CatchMouse](https://github.com/round/CatchMouse)
+新一代 NAT 内网穿透+shell+vnc 工具：
 
-如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
+![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
+
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
+
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
+
+![DOS](https://img.turingark.com/uPic/DOS.png) 
 
 ## 👀 资料 
 
-### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
+### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
 
-《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
+收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
 
-![ddia](https://img.turingark.com/uPic/H2Z04g.png) 
+![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
 
-### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
+### [English-Writing](https://github.com/yzy1996/English-Writing)
 
-打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
+本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
-![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
-
-![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
+![miaosha](https://img.turingark.com/uPic/WXcZTY.jpg) 
 
 ## 🕸 网站 
 
-### [alternativeto](https://alternativeto.net/)
+### [ai-12348](https://ai.12348.gov.cn/pc/)
 
-常用软件替代品查询网站：
+免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
 
-### [sayhello](https://beta.sayhello.so/)
+### [http.cat](https://http.cat)
 
-面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
+如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
 
-![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+![http_cat](https://img.turingark.com/uPic/http_cat.jpg) 
 
-### [1loc](https://1loc.dev/)
+### [crxsoso](https://www.crxsoso.com/articles)
 
-一行 `js` 代码，可以实现哪些基础功能？这个网站做了汇总：
+浏览器扩展应用周刊：
 
-![1loc](https://images-1252557999.file.myqcloud.com/uPic/1loc.jpg) 
+![crxsoso](https://images-1252557999.file.myqcloud.com/uPic/crxsoso.jpg) 
 
 ## ✍️ 说明
 
