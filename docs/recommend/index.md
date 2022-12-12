@@ -5,101 +5,88 @@
 
 ## 🎯 项目 
 
-### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
+### [Weylus](https://github.com/H-M-H/Weylus)
 
-微信 macOS 客户端撤回拦截与多开工具，主要功能有：
+使用`Rust`编写的共享屏幕开源项目，将平板作为电脑触摸屏使用，全平台支持：
 
-- 阻止消息撤回
-    - 消息列表通知
-    - 系统通知
-    - 正常撤回自己发出的消息
-- 客户端无限多开
-    - 右键 Dock icon 登录新的微信账号
-    - 命令行执行：`open -n /Applications/WeChat.app`
-- 消息处理增强
-    - 支持任意表情导出
-    - 支持二维码识别
-    - 支持右键直接复制链接
-    - 支持由系统默认浏览器直接打开
-- UI界面设置面板
-- 支持 Alfred workflow
-- 支持 Launchbar action
+![weylus](https://img.turingark.com/uPic/weylus.jpg) 
 
-**项目挺好，但是使用过程中需要注意被封号的风险。** 
+### [van-blog](https://github.com/Mereithhh/van-blog)
 
-### [cnchar](https://github.com/theajack/cnchar)
+一款简洁实用优雅的高性能个人博客系统：
 
-功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
+![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
 
-![cnchar](https://img.turingark.com/uPic/cnchar.jpg) 
+### [h-m-m](https://github.com/nadrad/h-m-m)
 
-### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
+简单、快速、以键盘为中心处理思维导图的终端工具：
 
-`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
-
-![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
+![h-m-m](https://images-1252557999.file.myqcloud.com/uPic/h-m-m.png) 
 
 ## 🤖 软件 
 
-### [uPic](https://github.com/gee1k/uPic)
+### [AltTab](https://alt-tab-macos.netlify.app/)
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
 
-我的必备软件：
+![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
 
-![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+### [ReadYou](https://github.com/Ashinch/ReadYou)
 
-### [PeaZip](https://github.com/peazip/PeaZip)
+这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
 
-PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
+![ReadYou](https://img.turingark.com/uPic/ReadYou.jpg) 
 
-![peazip](https://img.turingark.com/uPic/peazip.png) 
+### [CatchMouse](https://github.com/round/CatchMouse)
 
-### [Übersicht](https://github.com/felixhageloh/uebersicht)
-
-构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
-
-![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
+如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
 
 ## 👀 资料 
 
-### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
+### [AI-System](https://github.com/microsoft/AI-System)
 
-作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
 
-![ML](https://img.turingark.com/uPic/R26HG2.png) 
+![AI-System](https://img.turingark.com/uPic/ZfT8O8.png) 
 
-### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
+### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
 
-`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
+一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
 
-![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
+![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
 
-### [50projects50days](https://github.com/bradtraversy/50projects50days)
+### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 
-50多个使用 `HTML、CSS、JS` 的小项目，这是一个掌握前端基础的课程相关代码仓库：
+本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
 
-![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50pd.jpg) 
+基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
+配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
+测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
+
+![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [uiverse.io](https://uiverse.io/)
+### [devhints](https://www.f2er.com/tool/B5XO1oDY)
 
-一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
+**@妙才**推荐，一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
 
-![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
+![devhints](https://img.turingark.com/uPic/Wl8r0C.png) 
 
-### [tldraw](https://www.tldraw.com/)
+### [lucide](https://lucide.dev/)
 
-小巧强大的在线绘图工具：
+开源图标库，可以直接下载 `SVG`：
 
-![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
+![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
 
-### [qrcode-monkey](https://www.qrcode-monkey.com/#)
+### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
 
-免费的二维码生成网站：
+作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
 
-![qrcode-monkey](https://img.turingark.com/uPic/qrcode-monkey.jpg) 
+![](https://img.turingark.com/uPic/bdd-3d.png)
+
+
+感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
 
 ## ✍️ 说明
 
