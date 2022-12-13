@@ -5,88 +5,104 @@
 
 ## 🎯 项目 
 
-### [Weylus](https://github.com/H-M-H/Weylus)
+### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 
-使用`Rust`编写的共享屏幕开源项目，将平板作为电脑触摸屏使用，全平台支持：
+免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
 
-![weylus](https://img.turingark.com/uPic/weylus.jpg) 
+![rxresu](https://img.turingark.com/uPic/rxresu.jpg) 
 
-### [van-blog](https://github.com/Mereithhh/van-blog)
+### [answer](https://github.com/answerdev/answer)
 
-一款简洁实用优雅的高性能个人博客系统：
+基于自己的产品或者项目快速打造一个问答社区：
 
-![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
+![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
 
-### [h-m-m](https://github.com/nadrad/h-m-m)
+### [go-daily-lib](https://github.com/darjun/go-daily-lib)
 
-简单、快速、以键盘为中心处理思维导图的终端工具：
+每天学习一个 Go 语言库，内容质量相当高。
 
-![h-m-m](https://images-1252557999.file.myqcloud.com/uPic/h-m-m.png) 
+![go-daily-lib](https://img.turingark.com/uPic/4Ippyf.png) 
 
 ## 🤖 软件 
 
-### [AltTab](https://alt-tab-macos.netlify.app/)
+### [automa](https://github.com/Kholid060/automa)
 
-`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
+`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
 
-![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
+![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
 
-### [ReadYou](https://github.com/Ashinch/ReadYou)
+### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
 
-这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
+JetBrains 的下一代 IDE：
 
-![ReadYou](https://img.turingark.com/uPic/ReadYou.jpg) 
+![fleet](https://img.turingark.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
 
-### [CatchMouse](https://github.com/round/CatchMouse)
+### [Yank Note](https://github.com/purocean/yn)
 
-如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
+一款面向程序员的 `Markdown` 笔记应用，全平台支持：
+
+- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
+- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
+- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
+- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
+- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
+
+![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
 
 ## 👀 资料 
 
-### [AI-System](https://github.com/microsoft/AI-System)
+### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
 
-微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
 
-![AI-System](https://img.turingark.com/uPic/ZfT8O8.png) 
+![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
 
-### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
+### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
-一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
+为忙碌的工程师准备的精选面试准备材料：
 
-![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
+![tech-interview-handbook](https://img.turingark.com/uPic/lAcwMK.png) 
 
-### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
+### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
 
-本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
+该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
 
-基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
-配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
-测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
-
-![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
+![logic](https://img.turingark.com/uPic/logic.jpg) 
 
 ## 🕸 网站 
 
-### [devhints](https://www.f2er.com/tool/B5XO1oDY)
+### [文学网](https://www.hwxnet.com/)
 
-**@妙才**推荐，一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
+文学相关工具在线网站：
 
-![devhints](https://img.turingark.com/uPic/Wl8r0C.png) 
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
 
-### [lucide](https://lucide.dev/)
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
-开源图标库，可以直接下载 `SVG`：
+### [ICO converter](https://www.icoconverter.com/)
 
-![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
+`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
 
-### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
+![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
 
-作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
+### [sci-hub](https://sci-hub.se/)
 
-![](https://img.turingark.com/uPic/bdd-3d.png)
+这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
 
+> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
 
-感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
+用户可通过以下方式访问新版本：
+
+- https://sci-hub.se/
+- https://sci-hub.ru/
+- https://sci-hub.st/
+
+![](https://img.turingark.com/uPic/ISPyBJ.png) 
 
 ## ✍️ 说明
 
