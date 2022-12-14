@@ -5,104 +5,93 @@
 
 ## 🎯 项目 
 
-### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+### [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 
-免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
+我日常开发环境以`Mac`为主，这个项目从开发者角度出发，收集了各方各面的软件，上来看看，可能一些收费的软件在这里能找到开源的解决方案。 
 
-![rxresu](https://img.turingark.com/uPic/rxresu.jpg) 
+### [naive-ui](https://github.com/tusen-ai/naive-ui)
 
-### [answer](https://github.com/answerdev/answer)
+一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
 
-基于自己的产品或者项目快速打造一个问答社区：
+![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
 
-![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
+### [logto](https://github.com/logto-io/logto)
 
-### [go-daily-lib](https://github.com/darjun/go-daily-lib)
+`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
 
-每天学习一个 Go 语言库，内容质量相当高。
+核心功能：
 
-![go-daily-lib](https://img.turingark.com/uPic/4Ippyf.png) 
+- 一个基于 `OIDC` 的身份服务
+- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
+- 动态短信/邮件验证码登录/注册
+- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
+- 基于 web 的图形化管理控制台
+- 可扩展的多语言支持
+
+![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
 
 ## 🤖 软件 
 
-### [automa](https://github.com/Kholid060/automa)
+### [fluent-reader](https://github.com/yang991178/fluent-reader)
 
-`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
+一款拥有现代化界面的RSS阅读器，拥有以下特性：
 
-![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
+- 跨平台
+- 可同步自部署服务以及外部服务如：Inoreader, Feedbin
+- 支持OPML导入导出
+- 正则检索，状态管控，快捷键等
 
-### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
+![fluent-reader](https://img.turingark.com/uPic/fluent-reader.png) 
 
-JetBrains 的下一代 IDE：
+### [B站录播姬](https://rec.danmuji.org/)
 
-![fleet](https://img.turingark.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
+一个方便好用免费开源的哔哩哔哩直播录制工具：
 
-### [Yank Note](https://github.com/purocean/yn)
+![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
 
-一款面向程序员的 `Markdown` 笔记应用，全平台支持：
+### mizu
 
-- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
-- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
-- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
-- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
-- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
+微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
 
-![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
+![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
 
 ## 👀 资料 
 
-### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
+### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
 
-打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
+编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
 
-![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
 
-为忙碌的工程师准备的精选面试准备材料：
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
-![tech-interview-handbook](https://img.turingark.com/uPic/lAcwMK.png) 
+### [missing-semester-cn](https://missing-semester-cn.github.io/)
 
-### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
 
-该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
 
-![logic](https://img.turingark.com/uPic/logic.jpg) 
+![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
 
 ## 🕸 网站 
 
-### [文学网](https://www.hwxnet.com/)
+### [epub-manga-creator](https://github.com/wing-kai/epub-manga-creator)
 
-文学相关工具在线网站：
+把一堆漫画图片打包成 `epub` 格式的 `Web GUI`：
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
+![epub-manga-creator](https://images-1252557999.file.myqcloud.com/uPic/epub-manga-creator.jpg) 
 
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+### [IconPark](https://iconpark.oceanengine.com/home)
 
-### [ICO converter](https://www.icoconverter.com/)
+字节开源的一款图标库。 
 
-`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
+### [css.gg](https://css.gg/)
 
-![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
+`700+` 基于 `CSS` 的图标：
 
-### [sci-hub](https://sci-hub.se/)
-
-这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
-
-> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
-
-用户可通过以下方式访问新版本：
-
-- https://sci-hub.se/
-- https://sci-hub.ru/
-- https://sci-hub.st/
-
-![](https://img.turingark.com/uPic/ISPyBJ.png) 
+![css_gg](https://images-1252557999.file.myqcloud.com/uPic/css_gg.jpg) 
 
 ## ✍️ 说明
 
