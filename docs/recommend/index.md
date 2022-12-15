@@ -5,93 +5,90 @@
 
 ## 🎯 项目 
 
-### [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
+### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
 
-我日常开发环境以`Mac`为主，这个项目从开发者角度出发，收集了各方各面的软件，上来看看，可能一些收费的软件在这里能找到开源的解决方案。 
+`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
 
-### [naive-ui](https://github.com/tusen-ai/naive-ui)
+![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
 
-一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
+### [Super_Mario](https://github.com/BadagalaAdarsh/Super_Mario)
 
-![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
+这是一个很有意思的项目，相信大家都玩过马里奥，这个项目可以让你用身体控制马里奥进行游戏，可以锻炼身体哈哈：
 
-### [logto](https://github.com/logto-io/logto)
+![mario](https://img.turingark.com/uPic/mario.gif) 
 
-`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
+### [ecapture](https://github.com/ehids/ecapture)
 
-核心功能：
+eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
 
-- 一个基于 `OIDC` 的身份服务
-- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
-- 动态短信/邮件验证码登录/注册
-- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
-- 基于 web 的图形化管理控制台
-- 可扩展的多语言支持
-
-![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
+![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
 
 ## 🤖 软件 
 
-### [fluent-reader](https://github.com/yang991178/fluent-reader)
+### [MusicFree](https://github.com/maotoumao/MusicFree)
 
-一款拥有现代化界面的RSS阅读器，拥有以下特性：
+插件化、定制化、无广告的免费音乐播放器，目前只支持 `Android` 和 `Harmony OS`：
 
-- 跨平台
-- 可同步自部署服务以及外部服务如：Inoreader, Feedbin
-- 支持OPML导入导出
-- 正则检索，状态管控，快捷键等
+![freemusic](https://images-1252557999.file.myqcloud.com/uPic/freemusic.jpg) 
 
-![fluent-reader](https://img.turingark.com/uPic/fluent-reader.png) 
+### [legado](https://github.com/gedoor/legado)
 
-### [B站录播姬](https://rec.danmuji.org/)
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-一个方便好用免费开源的哔哩哔哩直播录制工具：
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
 
-![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
+![legado](https://img.turingark.com/uPic/jSEBJ9.png) 
 
-### mizu
+### [insomnia](https://github.com/Kong/insomnia)
 
-微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
+在[第009期（10-11~10-17）](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
 
-![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
+![insomnia](https://img.turingark.com/uPic/insomnia.png)
+使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
 
 ## 👀 资料 
 
-### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
+### [MDN Web Docs](https://github.com/mdn/translated-content)
 
-编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
+`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+### [Student-resources](https://github.com/ivmm/Student-resources)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
 
-### [missing-semester-cn](https://missing-semester-cn.github.io/)
+### [pdai](https://pdai.tech/)
 
-计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
+Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
 
-在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
-
-![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
+![pdai](https://img.turingark.com/uPic/8oZW41.png) 
 
 ## 🕸 网站 
 
-### [epub-manga-creator](https://github.com/wing-kai/epub-manga-creator)
+### [一证通查](https://getsimnum.caict.ac.cn/#/)
 
-把一堆漫画图片打包成 `epub` 格式的 `Web GUI`：
+自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
 
-![epub-manga-creator](https://images-1252557999.file.myqcloud.com/uPic/epub-manga-creator.jpg) 
+![phone_query](https://img.turingark.com/uPic/phone_query.png) 
 
-### [IconPark](https://iconpark.oceanengine.com/home)
+### [regex101](https://regex101.com/)
 
-字节开源的一款图标库。 
+`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
 
-### [css.gg](https://css.gg/)
+- PHP
+- Python
+- JS
+- Go
+- Java
 
-`700+` 基于 `CSS` 的图标：
+![regex101](https://img.turingark.com/uPic/Fz15mf.png) 
 
-![css_gg](https://images-1252557999.file.myqcloud.com/uPic/css_gg.jpg) 
+### [zerossl](https://zerossl.com/)
+
+一个可以免费签 IP 地址 SSL 证书的网站：
+
+![zerossl](https://img.turingark.com/uPic/zerossl.jpg) 
 
 ## ✍️ 说明
 
