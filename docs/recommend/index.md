@@ -5,90 +5,78 @@
 
 ## 🎯 项目 
 
-### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
+### [halo](https://github.com/halo-dev/halo)
 
-`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
+✍ 一款现代化的开源博客& `CMS` 系统：
 
-![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
+![halo](https://images-1252557999.file.myqcloud.com/uPic/halo.jpg) 
 
-### [Super_Mario](https://github.com/BadagalaAdarsh/Super_Mario)
+### [aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse/)
 
-这是一个很有意思的项目，相信大家都玩过马里奥，这个项目可以让你用身体控制马里奥进行游戏，可以锻炼身体哈哈：
+本项目则直接通过 FUSE 实现将阿里云盘挂载为本地磁盘，非常好用，我是这个项目作者的粉丝。 
 
-![mario](https://img.turingark.com/uPic/mario.gif) 
+### [cpdf-source](https://github.com/johnwhitington/cpdf-source)
 
-### [ecapture](https://github.com/ehids/ecapture)
-
-eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
-
-![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
+命令行处理PDF，比如拆分（支持书签）、合并等，点击这里[下载](https://coherentpdf.com/eval.html)，全平台支持。 
 
 ## 🤖 软件 
 
-### [MusicFree](https://github.com/maotoumao/MusicFree)
+### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
 
-插件化、定制化、无广告的免费音乐播放器，目前只支持 `Android` 和 `Harmony OS`：
+安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
 
-![freemusic](https://images-1252557999.file.myqcloud.com/uPic/freemusic.jpg) 
+![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
 
-### [legado](https://github.com/gedoor/legado)
+### [BlogHelper](https://github.com/onblog/BlogHelper)
 
-阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
 
-简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
+![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
 
-![legado](https://img.turingark.com/uPic/jSEBJ9.png) 
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
 
-### [insomnia](https://github.com/Kong/insomnia)
-
-在[第009期（10-11~10-17）](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
-
-![insomnia](https://img.turingark.com/uPic/insomnia.png)
-使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
 ## 👀 资料 
 
-### [MDN Web Docs](https://github.com/mdn/translated-content)
+### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
-`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
+LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
 
-![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
+### [linux-command](https://github.com/jaywcjlove/linux-command)
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
 
-### [pdai](https://pdai.tech/)
+### [v8-internals](https://github.com/plctlab/v8-internals)
 
-Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
-
-![pdai](https://img.turingark.com/uPic/8oZW41.png) 
+面向编译器开发人员的V8内部实现文档。 
 
 ## 🕸 网站 
 
-### [一证通查](https://getsimnum.caict.ac.cn/#/)
+### [linegraphmaker](https://linegraphmaker.co/)
 
-自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
+在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
 
-![phone_query](https://img.turingark.com/uPic/phone_query.png) 
+![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
 
-### [regex101](https://regex101.com/)
+### [musicforprogramming](https://musicforprogramming.net/latest/)
 
-`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
+非常极客的背景音乐网站：
 
-- PHP
-- Python
-- JS
-- Go
-- Java
+![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
 
-![regex101](https://img.turingark.com/uPic/Fz15mf.png) 
+### [programcreek](https://www.programcreek.com/)
 
-### [zerossl](https://zerossl.com/)
+网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
 
-一个可以免费签 IP 地址 SSL 证书的网站：
+- [Python](https://www.programcreek.com/python/)
+- [Java](https://www.programcreek.com/java-api-examples/)
+- [C++](https://www.programcreek.com/cpp/)
+- [Scala](https://www.programcreek.com/scala/)
 
-![zerossl](https://img.turingark.com/uPic/zerossl.jpg) 
+![programcreek](https://img.turingark.com/uPic/YdAEPq.png) 
 
 ## ✍️ 说明
 
