@@ -5,78 +5,99 @@
 
 ## 🎯 项目 
 
-### [halo](https://github.com/halo-dev/halo)
+### [sams_helper](https://github.com/sari3l/sams_helper)
 
-✍ 一款现代化的开源博客& `CMS` 系统：
+山姆全自动抢购：普通商品、保供套餐；支持优惠券、无货添加、数量修正、金额限制、超重拆分、黑白名单:
 
-![halo](https://images-1252557999.file.myqcloud.com/uPic/halo.jpg) 
+![sams_helper](https://images-1252557999.file.myqcloud.com/uPic/sams_helper.jpg) 
 
-### [aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse/)
+### [slickr](https://github.com/saviomartin/slickr)
 
-本项目则直接通过 FUSE 实现将阿里云盘挂载为本地磁盘，非常好用，我是这个项目作者的粉丝。 
+文章封面图生成构建工具，适合经常发布文章的朋友，顺便说句，项目作者14岁：
 
-### [cpdf-source](https://github.com/johnwhitington/cpdf-source)
+![slickr](https://images-1252557999.file.myqcloud.com/uPic/slickr.gif) 
 
-命令行处理PDF，比如拆分（支持书签）、合并等，点击这里[下载](https://coherentpdf.com/eval.html)，全平台支持。 
+### [BGmi](https://github.com/BGmi/BGmi)
+
+`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
+
+![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
 
 ## 🤖 软件 
 
-### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
+### [RedFish](https://github.com/Kuari/RedFish)
 
-安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
+一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
 
-![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
+![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
 
-### [BlogHelper](https://github.com/onblog/BlogHelper)
+### [hetty](https://github.com/dstotijn/hetty)
 
-帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
+`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
 
-![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
+![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
 
-### [Wechatsync](https://github.com/wechatsync/Wechatsync)
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 
-一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
+
+![DOS](https://img.turingark.com/uPic/DOS.png) 
 
 ## 👀 资料 
 
-### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
 
-LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
+[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
 
-### [linux-command](https://github.com/jaywcjlove/linux-command)
+![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
 
-Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
+### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
 
-![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
+中国5级行政区域mysql库：
 
-### [v8-internals](https://github.com/plctlab/v8-internals)
+- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
+- 港澳地区的数据只有3级;台湾地区4级
+- 包含大陆地区的邮政编码和经纬度信息 
 
-面向编译器开发人员的V8内部实现文档。 
+### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
+
+清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
+
+更新记录如下：
+
+- 2020-11-03：环境搭建完成，开始着手编写文档。
+- 2020-11-13：第一章完成。
+- 2020-11-27：第二章完成。
+- 2020-12-20：前七章代码完成。
+- 2021-01-10：第三章完成。
+- 2021-01-18：加入第零章。
+- 2021-01-30：第四章完成。
+- 2021-02-16：第五章完成。
+- 2021-02-20：第六章完成。
+- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
+- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
+
+热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
 
 ## 🕸 网站 
 
-### [linegraphmaker](https://linegraphmaker.co/)
+### [db-fiddle](https://www.db-fiddle.com/)
 
-在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
+免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
 
-![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
+![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
 
-### [musicforprogramming](https://musicforprogramming.net/latest/)
+### [zhaoziyuan](https://zhaoziyuan.la)
 
-非常极客的背景音乐网站：
+阿里云资源搜索引擎：
 
-![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
+![zhaoziyuan](https://img.turingark.com/uPic/zhaoziyuan-20220429095007870.jpg) 
 
-### [programcreek](https://www.programcreek.com/)
+### [devdocs](https://devdocs.io/)
 
-网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
+提供在线快速查找API接口文档的网站：
 
-- [Python](https://www.programcreek.com/python/)
-- [Java](https://www.programcreek.com/java-api-examples/)
-- [C++](https://www.programcreek.com/cpp/)
-- [Scala](https://www.programcreek.com/scala/)
-
-![programcreek](https://img.turingark.com/uPic/YdAEPq.png) 
+![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
 
 ## ✍️ 说明
 
