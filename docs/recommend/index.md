@@ -5,92 +5,97 @@
 
 ## 🎯 项目 
 
-### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
+### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 
-相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
+免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
 
-如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
+![rxresu](https://img.turingark.com/uPic/rxresu.jpg) 
 
-### [weiboSpider](https://github.com/dataabc/weiboSpider)
+### [PyFlow](https://github.com/wonderworks-software/PyFlow)
 
-新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
+可视化脚本框架：
 
-### [freed](https://github.com/YuanHsing/freed)
+![PyFlow](https://img.turingark.com/uPic/XEBUdM.jpg) 
 
-这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
+### [zdir](https://github.com/helloxz/zdir)
+
+使用 `Golang + Vue3` 开发的轻量级目录列表程序，支持 `Linux、Docker、Windows` 部署，适合个人或初创公司文件分享使用，亦可作为轻量级网盘使用。
+
+![zdir](https://images-1252557999.file.myqcloud.com/uPic/zdir.jpg) 
 
 ## 🤖 软件 
 
-### [Yank Note](https://github.com/purocean/yn)
+### [ruzz](https://github.com/vlts1/ruzz)
 
-一款面向程序员的 `Markdown` 笔记应用，全平台支持：
+`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
 
-- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
-- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
-- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
-- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
-- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
+![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
 
-![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
+### [marktext](https://github.com/marktext/marktext)
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
 
-LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
+![marktext](https://img.turingark.com/uPic/cvYHVG.png) 
 
-![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
+### [balenaEtcher](https://github.com/balena-io/etcher)
 
-### [tts-now](https://github.com/funnyzak/tts-now)
+balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
 
-基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
-
-![](https://img.turingark.com/uPic/Se6U0t.jpg) 
+![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
 
 ## 👀 资料 
 
-### [miaosha](https://github.com/qiurunze123/miaosha)
+### [under-the-hood](https://golang.design/under-the-hood/)
 
-高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
+`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
 
-![miaosha](https://img.turingark.com/uPic/WXcZTY.jpg) 
+![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
 
-### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
+### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 
-算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
+一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
 
-![Reflection Summary](https://img.turingark.com/uPic/WpauDu.png) 
+![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
 
-### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
+### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
 
-`Solidity` 极简入门：
+清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
 
-![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
+更新记录如下：
+
+- 2020-11-03：环境搭建完成，开始着手编写文档。
+- 2020-11-13：第一章完成。
+- 2020-11-27：第二章完成。
+- 2020-12-20：前七章代码完成。
+- 2021-01-10：第三章完成。
+- 2021-01-18：加入第零章。
+- 2021-01-30：第四章完成。
+- 2021-02-16：第五章完成。
+- 2021-02-20：第六章完成。
+- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
+- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
+
+热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
 
 ## 🕸 网站 
 
-### [devtool.tech](https://devtool.tech/)
+### [cleanup.pictures](https://cleanup.pictures/)
 
-开发者武器库，作者提供了83个开发者常用的工具：
+百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
 
-![](https://img.turingark.com/uPic/ZlVqam.png) 
+![cleanup_demo](https://img.turingark.com/uPic/cleanup_demo.gif) 
 
-### [fontawesome](https://fontawesome.com/icons/)
+### [lucide](https://lucide.dev/)
 
-比较完善全面的图标网站：
+开源图标库，可以直接下载 `SVG`：
 
-![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
+![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
 
-### [文学网](https://www.hwxnet.com/)
+### [useanimations](https://useanimations.com/)
 
-文学相关工具在线网站：
+前端动态 `UI` 样式集合：
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
-
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
 
 ## ✍️ 说明
 
