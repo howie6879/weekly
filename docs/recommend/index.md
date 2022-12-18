@@ -5,99 +5,92 @@
 
 ## 🎯 项目 
 
-### [sams_helper](https://github.com/sari3l/sams_helper)
+### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
 
-山姆全自动抢购：普通商品、保供套餐；支持优惠券、无货添加、数量修正、金额限制、超重拆分、黑白名单:
+相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
 
-![sams_helper](https://images-1252557999.file.myqcloud.com/uPic/sams_helper.jpg) 
+如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
 
-### [slickr](https://github.com/saviomartin/slickr)
+### [weiboSpider](https://github.com/dataabc/weiboSpider)
 
-文章封面图生成构建工具，适合经常发布文章的朋友，顺便说句，项目作者14岁：
+新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
 
-![slickr](https://images-1252557999.file.myqcloud.com/uPic/slickr.gif) 
+### [freed](https://github.com/YuanHsing/freed)
 
-### [BGmi](https://github.com/BGmi/BGmi)
-
-`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
-
-![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
+这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
 
 ## 🤖 软件 
 
-### [RedFish](https://github.com/Kuari/RedFish)
+### [Yank Note](https://github.com/purocean/yn)
 
-一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
+一款面向程序员的 `Markdown` 笔记应用，全平台支持：
 
-![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
+- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
+- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
+- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
+- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
+- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
 
-### [hetty](https://github.com/dstotijn/hetty)
+![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
 
-`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
+LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
 
-### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
+![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
 
-中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
+### [tts-now](https://github.com/funnyzak/tts-now)
 
-![DOS](https://img.turingark.com/uPic/DOS.png) 
+基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
+
+![](https://img.turingark.com/uPic/Se6U0t.jpg) 
 
 ## 👀 资料 
 
-### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
+![miaosha](https://img.turingark.com/uPic/WXcZTY.jpg) 
 
-### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
+### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
 
-中国5级行政区域mysql库：
+算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
 
-- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
-- 港澳地区的数据只有3级;台湾地区4级
-- 包含大陆地区的邮政编码和经纬度信息 
+![Reflection Summary](https://img.turingark.com/uPic/WpauDu.png) 
 
-### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
+### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
 
-清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
+`Solidity` 极简入门：
 
-更新记录如下：
-
-- 2020-11-03：环境搭建完成，开始着手编写文档。
-- 2020-11-13：第一章完成。
-- 2020-11-27：第二章完成。
-- 2020-12-20：前七章代码完成。
-- 2021-01-10：第三章完成。
-- 2021-01-18：加入第零章。
-- 2021-01-30：第四章完成。
-- 2021-02-16：第五章完成。
-- 2021-02-20：第六章完成。
-- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
-- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
-
-热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
+![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
 
 ## 🕸 网站 
 
-### [db-fiddle](https://www.db-fiddle.com/)
+### [devtool.tech](https://devtool.tech/)
 
-免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
+开发者武器库，作者提供了83个开发者常用的工具：
 
-![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
+![](https://img.turingark.com/uPic/ZlVqam.png) 
 
-### [zhaoziyuan](https://zhaoziyuan.la)
+### [fontawesome](https://fontawesome.com/icons/)
 
-阿里云资源搜索引擎：
+比较完善全面的图标网站：
 
-![zhaoziyuan](https://img.turingark.com/uPic/zhaoziyuan-20220429095007870.jpg) 
+![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
 
-### [devdocs](https://devdocs.io/)
+### [文学网](https://www.hwxnet.com/)
 
-提供在线快速查找API接口文档的网站：
+文学相关工具在线网站：
 
-![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
+
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
 ## ✍️ 说明
 
