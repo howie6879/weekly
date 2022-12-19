@@ -5,31 +5,47 @@
 
 ## 🎯 项目 
 
-### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+### [PanIndex](https://github.com/libsgh/PanIndex)
 
-免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
+网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
 
-![rxresu](https://img.turingark.com/uPic/rxresu.jpg) 
+- 跨平台、易部署
+- 多模式、多网盘
+- 多主题
+- 下载直链
+- 防盗链
+- 短链、分享
+- 访问控制
+- 分流
+- WebDav
 
-### [PyFlow](https://github.com/wonderworks-software/PyFlow)
+![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
 
-可视化脚本框架：
+### [statping](https://github.com/statping/statping)
 
-![PyFlow](https://img.turingark.com/uPic/XEBUdM.jpg) 
+一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
 
-### [zdir](https://github.com/helloxz/zdir)
+![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
 
-使用 `Golang + Vue3` 开发的轻量级目录列表程序，支持 `Linux、Docker、Windows` 部署，适合个人或初创公司文件分享使用，亦可作为轻量级网盘使用。
+### [pi-hole](https://pi-hole.net/)
 
-![zdir](https://images-1252557999.file.myqcloud.com/uPic/zdir.jpg) 
+一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
+
+![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
 
 ## 🤖 软件 
 
-### [ruzz](https://github.com/vlts1/ruzz)
+### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
 
-`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
+谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
 
-![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
+![temp_mail](https://img.turingark.com/uPic/M4DZPI.png) 
+
+### [eoapi](https://github.com/eolinker/eoapi)
+
+`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+
+![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
 
 ### [marktext](https://github.com/marktext/marktext)
 
@@ -37,65 +53,43 @@
 
 ![marktext](https://img.turingark.com/uPic/cvYHVG.png) 
 
-### [balenaEtcher](https://github.com/balena-io/etcher)
-
-balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
-
-![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
-
 ## 👀 资料 
 
-### [under-the-hood](https://golang.design/under-the-hood/)
+### [Python源码剖析](https://fasionchan.com/python-source/)
 
-`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
+本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
 
-![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
+![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
 
-### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
+### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
 
-一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
+本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
 
-![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
+### [MDN Web Docs](https://github.com/mdn/translated-content)
 
-### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
+`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
 
-清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
-
-更新记录如下：
-
-- 2020-11-03：环境搭建完成，开始着手编写文档。
-- 2020-11-13：第一章完成。
-- 2020-11-27：第二章完成。
-- 2020-12-20：前七章代码完成。
-- 2021-01-10：第三章完成。
-- 2021-01-18：加入第零章。
-- 2021-01-30：第四章完成。
-- 2021-02-16：第五章完成。
-- 2021-02-20：第六章完成。
-- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
-- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
-
-热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
+![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
 
 ## 🕸 网站 
 
-### [cleanup.pictures](https://cleanup.pictures/)
+### [compressjpeg](https://compressjpeg.com/zh/)
 
-百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
+一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
 
-![cleanup_demo](https://img.turingark.com/uPic/cleanup_demo.gif) 
+![compressjpeg](https://img.turingark.com/uPic/compressjpeg.jpg) 
 
-### [lucide](https://lucide.dev/)
+### [sysmini](https://www.sysmini.com/)
 
-开源图标库，可以直接下载 `SVG`：
+站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
 
-![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
+![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
 
-### [useanimations](https://useanimations.com/)
+### [similarsites](https://www.similarsites.com/)
 
-前端动态 `UI` 样式集合：
+输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
 
-![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
+![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
 
 ## ✍️ 说明
 
