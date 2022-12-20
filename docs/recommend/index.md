@@ -5,91 +5,85 @@
 
 ## 🎯 项目 
 
-### [PanIndex](https://github.com/libsgh/PanIndex)
+### [HTTPie](https://github.com/httpie/httpie)
 
-网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
+现代化的HTTP客户端命令行工具：
 
-- 跨平台、易部署
-- 多模式、多网盘
-- 多主题
-- 下载直链
-- 防盗链
-- 短链、分享
-- 访问控制
-- 分流
-- WebDav
+![httpie-animation](https://img.turingark.com/uPic/httpie-animation.gif) 
 
-![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-### [statping](https://github.com/statping/statping)
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
+ ![mm_wiki](https://img.turingark.com/uPic/mm_wiki.png) 
 
-![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
+### [Feeddd](https://github.com/feeddd/feeds)
 
-### [pi-hole](https://pi-hole.net/)
+![Feeddd](https://img.turingark.com/uPic/5a9np8.jpg)
 
-一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
-
-![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
+一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
 
 ## 🤖 软件 
 
-### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
+### [buster](https://github.com/dessant/buster)
 
-谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
+`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
 
-![temp_mail](https://img.turingark.com/uPic/M4DZPI.png) 
+![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
 
-### [eoapi](https://github.com/eolinker/eoapi)
+### [Gif123](https://github.com/aardio/Gif123)
 
-`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
 
-![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
+![Gif123](https://img.turingark.com/uPic/FQabyv.jpg) 
 
-### [marktext](https://github.com/marktext/marktext)
+### [avnc](https://github.com/gujjwal00/avnc)
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+针对 `Android` 的开源 `VNC` 客户端：
 
-![marktext](https://img.turingark.com/uPic/cvYHVG.png) 
+![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
 
 ## 👀 资料 
 
-### [Python源码剖析](https://fasionchan.com/python-source/)
+### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
 
-本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
+从零开始学习Kubernetes的路线图（初级到高级）：
 
-![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
+![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
 
-### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
+### [rosedb](https://github.com/flower-corp/rosedb)
 
-本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
+`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
 
-### [MDN Web Docs](https://github.com/mdn/translated-content)
+![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
 
-`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
+作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
 
-![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
+### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+
+为忙碌的工程师准备的精选面试准备材料：
+
+![tech-interview-handbook](https://img.turingark.com/uPic/lAcwMK.png) 
 
 ## 🕸 网站 
 
-### [compressjpeg](https://compressjpeg.com/zh/)
+### [removebg](https://www.remove.bg/zh)
 
-一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
+这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
 
-![compressjpeg](https://img.turingark.com/uPic/compressjpeg.jpg) 
+![removebg](https://img.turingark.com/uPic/TW1uwy.png) 
 
-### [sysmini](https://www.sysmini.com/)
+### [ai-12348](https://ai.12348.gov.cn/pc/)
 
-站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
+免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
 
-![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
+![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
 
-### [similarsites](https://www.similarsites.com/)
+### [darebee](https://darebee.com/)
 
-输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
+一个教你正确运动姿势的网站：
 
-![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
+![darebee](https://img.turingark.com/uPic/eIHdyQ.png) 
 
 ## ✍️ 说明
 
