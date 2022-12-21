@@ -5,85 +5,87 @@
 
 ## 🎯 项目 
 
-### [HTTPie](https://github.com/httpie/httpie)
+### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
 
-现代化的HTTP客户端命令行工具：
+Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.cn/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
 
-![httpie-animation](https://img.turingark.com/uPic/httpie-animation.gif) 
+### [gorse](https://github.com/zhenghaoz/gorse)
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
+用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
 
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+![gorse](https://img.turingark.com/uPic/nP2kgE.jpg)
 
- ![mm_wiki](https://img.turingark.com/uPic/mm_wiki.png) 
+作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
 
-### [Feeddd](https://github.com/feeddd/feeds)
+![gitrec](https://img.turingark.com/uPic/jAuEdM.jpg) 
 
-![Feeddd](https://img.turingark.com/uPic/5a9np8.jpg)
+### [privaxy](https://github.com/Barre/privaxy)
 
-一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
+Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
+
+![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
+
+还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
 
 ## 🤖 软件 
 
-### [buster](https://github.com/dessant/buster)
+### [CotEditor](https://github.com/coteditor/CotEditor)
 
-`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
+开源的`macOS` 纯文本编辑器：
 
-![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
+![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
 
-### [Gif123](https://github.com/aardio/Gif123)
+### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
 
-非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
+一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
 
-![Gif123](https://img.turingark.com/uPic/FQabyv.jpg) 
+![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
 
-### [avnc](https://github.com/gujjwal00/avnc)
+### [Equinox](https://github.com/rlxone/Equinox)
 
-针对 `Android` 的开源 `VNC` 客户端：
+开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
 
-![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
+![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
 
 ## 👀 资料 
 
-### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
+### [easy-rl](https://github.com/datawhalechina/easy-rl)
 
-从零开始学习Kubernetes的路线图（初级到高级）：
+强化学习中文教程：
 
-![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
+![easy_rl](https://img.turingark.com/uPic/easy_rl.jpg) 
 
-### [rosedb](https://github.com/flower-corp/rosedb)
+### [FFmpeg原理](https://ffmpeg.xianwaizhiyin.net/)
 
-`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
+本书《FFmpeg原理》主要讲解 FFmpeg 原理性的知识，前面几章主要讲解一些音视频开发的基础知识，例如原始数据 YUV 跟 RGB，封装格式 FLV 跟 MP4 ，压缩编码的基本概念，还有封装格式分析。
 
-![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
+前面几章是音视频开发，流媒体技术的基础，后面的章节主要讲解如何搭建 FFmpeg 各种调试环境，同时提供 FFmpeg API 函数的使用示例，最重要的是 分析 ffmpeg.c 跟 ffplay.c 的源码逻辑。
 
-作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
+![ffmpeg](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg.jpg) 
 
-### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
 
-为忙碌的工程师准备的精选面试准备材料：
-
-![tech-interview-handbook](https://img.turingark.com/uPic/lAcwMK.png) 
+Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
 
 ## 🕸 网站 
 
-### [removebg](https://www.remove.bg/zh)
+### [toonme](https://toonme.com)
 
-这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
+该网站将原图绘制成可爱的卡通图片：
 
-![removebg](https://img.turingark.com/uPic/TW1uwy.png) 
+![toonme](https://img.turingark.com/file/howie-img/uPic/toonme.jpg) 
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
 
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+![YYeTsBot](https://img.turingark.com/uPic/5bwPfx.jpg) 
 
-### [darebee](https://darebee.com/)
+### [musicforprogramming](https://musicforprogramming.net/latest/)
 
-一个教你正确运动姿势的网站：
+非常极客的背景音乐网站：
 
-![darebee](https://img.turingark.com/uPic/eIHdyQ.png) 
+![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
 
 ## ✍️ 说明
 
