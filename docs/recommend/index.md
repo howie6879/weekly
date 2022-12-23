@@ -5,101 +5,86 @@
 
 ## 🎯 项目 
 
-### [BookStack](https://github.com/BookStackApp/BookStack)
+### [nocobase](https://github.com/nocobase/nocobase)
 
-一个开源的`documentation/wik`文档管理平台，其核心特性如下：
+NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
 
-- 免费开源可自建
-- 简单易用的交互界面
-- 全文检索以及文档互联
-- 可配置
-- 强大的编辑功能，MD支持
-- 等
+![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
 
-![BookStack](https://images-1252557999.file.myqcloud.com/uPic/vdoSqZ.jpg)
+### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
 
-有兴趣的话，可以利用[docker-bookstack](https://github.com/solidnerd/docker-bookstack)项目进行快速试用。 
+`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
 
-### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
+![LuckysheetDemo](https://img.turingark.com/uPic/LuckysheetDemo.gif) 
 
-🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
+### [illa-builder](https://github.com/illacloud/illa-builder)
 
-| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
-| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
-| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
-| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
-| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
+`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
 
-### [van-blog](https://github.com/Mereithhh/van-blog)
+- ⚽ 实时协作： 我们可以一起实时创建内容。
+- 🛠 自定义插件： 构建自定义插件来完成你的任务。
+- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
+- 🖥 本地部署： 支持Docker和k8s
+- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
+- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
 
-一款简洁实用优雅的高性能个人博客系统：
-
-![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
+![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
 
 ## 🤖 软件 
 
-### [MiaoYan](https://github.com/tw93/MiaoYan)
+### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
-轻灵的 Markdown 笔记本伴你写出妙言：
+用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
 
-- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
-- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
-- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
-- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
+![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
 
-![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
+### [全是漫画](https://github.com/hongchacha/cartoon)
 
-### [tunnelblick](https://tunnelblick.net/)
+全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
 
-免费开源的`openvpn`客户端：
+![comic](https://img.turingark.com/uPic/FXXmY5.jpg) 
 
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
 
-### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
+`Clash for Android`，具有 `Clash` 的全部特性：
 
-根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
-
-![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
+![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
 
 ## 👀 资料 
 
-### [missing-semester-cn](https://missing-semester-cn.github.io/)
+### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
 
-计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
+Go语言实战: 编写可维护Go语言代码建议。 
 
-在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
+### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
 
-![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
+从工程角度方方面面阐述了DevOps实施的过程:
 
-### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
+![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
 
-从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
+### [react-illustration-series](https://github.com/7kms/react-illustration-series)
 
-### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
-
-每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
-
-![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
+图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
 
 ## 🕸 网站 
 
-### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
+### [必应壁纸](https://bing.ioliu.cn/)
 
-PDF Squeezer 是一款 PDF 压缩工具：
+收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
 
-![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
+![bing](https://img.turingark.com/uPic/bing.jpg) 
 
-### [warp.dev](https://www.warp.dev/)
+### [uisdc.com](https://hao.uisdc.com/)
 
-一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
+设计师网站导航：
 
-![wrap](https://img.turingark.com/uPic/wrap.jpg) 
+![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
 
-### [cikeee](https://www.cikeee.com/)
+### [sayhello](https://beta.sayhello.so/)
 
-每天推荐一部优秀的电影：
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
 ## ✍️ 说明
 
