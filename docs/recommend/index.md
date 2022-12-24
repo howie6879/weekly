@@ -5,85 +5,91 @@
 
 ## 🎯 项目 
 
+### [statping](https://github.com/statping/statping)
+
+一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
+
+![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
+
+### [GFPGAN](https://github.com/TencentARC/GFPGAN)
+
+腾讯开源的老照片修复项目：
+
+![GFPGAN](https://img.turingark.com/uPic/UOiwSK.jpg) 
+
 ### crontab-ui
 
 提供简单安全的方式来管理 `crontab`:
 
 ![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
 
-### [Hakuba](https://github.com/YeungKC/Hakuba)
-
-一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
-
-![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
-
-### [linkding](https://github.com/sissbruecker/linkding)
-
-开源的网络书签服务，支持 Docker 部署：
-
-![linkding](https://images-1252557999.file.myqcloud.com/uPic/linkding.png) 
-
 ## 🤖 软件 
 
-### [Übersicht](https://github.com/felixhageloh/uebersicht)
+### [SwiftBar](https://github.com/swiftbar/SwiftBar)
 
-构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
+一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
 
-![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
+![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
 
-### [BlogHelper](https://github.com/onblog/BlogHelper)
+### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
 
-帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
+一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
 
-![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
+![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
 
-### [AltTab](https://alt-tab-macos.netlify.app/)
+### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
 
-`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
+ImageOptim 是一款开源免费的本地图像压缩工具：
 
-![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
+![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
+
+我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
+
+- [Imagine](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
+- [webutils](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
+- [tinypng](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
+- [tanpok](https://weekly.howie6879.cn/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
+- [docsmall](https://weekly.howie6879.cn/2021/10-18~10-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#vue-color-avatar)：提供一些图片压缩、PDF合并分割小功能的网站 
 
 ## 👀 资料 
 
-### [动手学OCR·十讲](https://aistudio.baidu.com/aistudio/course/introduce/25207)
+### [missing-semester-cn](https://missing-semester-cn.github.io/)
 
-PaddleOCR的原创团队出的课程，课程内容涵盖基于深度学习的经典OCR检测识别算法、最新文档结构化技术以及千锤百炼的产业级模型与部署工具。通过广泛调研提炼了重要OCR算法的核心思想，实践部分不仅对代码重要细节做了深入分析，还会实时运行代码展示效果助大家加深理解。
+计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
 
-![动手学OCR](https://img.turingark.com/uPic/tcg64l.png) 
+在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
 
-### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
 
-经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+### [rust-by-practice](https://github.com/sunface/rust-by-practice)
 
-![the-economist-ebooks](https://img.turingark.com/uPic/the-economist-ebooks.jpg) 
+通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
 
-### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
+![](https://img.turingark.com/uPic/f4zLoa.png) 
 
-[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-目前也提供了中文版：
-
-![patterns-of-distributed-systems](https://img.turingark.com/uPic/ZlA2Zu.png) 
+ 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
 
 ## 🕸 网站 
 
-### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
+### [crxsoso](https://www.crxsoso.com/articles)
 
-一份新冠预防及治疗指南：
+浏览器扩展应用周刊：
 
-![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
+![crxsoso](https://images-1252557999.file.myqcloud.com/uPic/crxsoso.jpg) 
 
-### [zhongguose](http://zhongguose.com/)
+### [读书笔记](https://reading.geek-docs.com/)
 
-一个中国传统颜色的配色网站：
+网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
 
-![zhongguose](https://img.turingark.com/uPic/zhongguose.jpg) 
+![reading](https://img.turingark.com/uPic/nfN4XL.png) 
 
-### [theonestopradio](https://theonestopradio.com/)
+### [1loc](https://1loc.dev/)
 
-发现你可能喜欢的电台：
+一行 `js` 代码，可以实现哪些基础功能？这个网站做了汇总：
 
-![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
+![1loc](https://images-1252557999.file.myqcloud.com/uPic/1loc.jpg) 
 
 ## ✍️ 说明
 
