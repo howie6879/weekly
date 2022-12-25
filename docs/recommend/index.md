@@ -5,91 +5,98 @@
 
 ## 🎯 项目 
 
-### [statping](https://github.com/statping/statping)
+### [penpot](https://github.com/penpot/penpot)
 
-一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
+`Penpot` 是第一个面向跨领域团队的开源设计和原型平台，基于 `Web`，对标 `Figma`:
 
-![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
+![penpot](https://images-1252557999.file.myqcloud.com/uPic/penpot.jpg) 
 
-### [GFPGAN](https://github.com/TencentARC/GFPGAN)
+### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 
-腾讯开源的老照片修复项目：
+`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
 
-![GFPGAN](https://img.turingark.com/uPic/UOiwSK.jpg) 
+![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
 
-### crontab-ui
+### [wechat-export](https://github.com/luin/wechat-export)
 
-提供简单安全的方式来管理 `crontab`:
+将微信聊天记录导出为HTML文件：
 
-![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
+![wechat-export](https://img.turingark.com/uPic/eIhKUP.jpg) 
 
 ## 🤖 软件 
 
-### [SwiftBar](https://github.com/swiftbar/SwiftBar)
+### [fluent-reader](https://github.com/yang991178/fluent-reader)
 
-一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
+一款拥有现代化界面的RSS阅读器，拥有以下特性：
 
-![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
+- 跨平台
+- 可同步自部署服务以及外部服务如：Inoreader, Feedbin
+- 支持OPML导入导出
+- 正则检索，状态管控，快捷键等
 
-### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
+![fluent-reader](https://img.turingark.com/uPic/fluent-reader.png) 
 
-一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
+### [Seal](https://github.com/JunkFood02/Seal)
 
-![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
+一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
 
-### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
+- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
+- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
+- 播放列表下载支持
+- 内嵌字幕于视频文件中
+- 执行自定义的 yt-dlp 命令模板
+- 管理应用内下载与自定义命令模板
+- 使用简单、用户友好
+- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
+- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
+    
+![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
 
-ImageOptim 是一款开源免费的本地图像压缩工具：
+### [tts-now](https://github.com/funnyzak/tts-now)
 
-![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
+基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
 
-我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
-
-- [Imagine](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
-- [webutils](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
-- [tinypng](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
-- [tanpok](https://weekly.howie6879.cn/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
-- [docsmall](https://weekly.howie6879.cn/2021/10-18~10-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#vue-color-avatar)：提供一些图片压缩、PDF合并分割小功能的网站 
+![](https://img.turingark.com/uPic/Se6U0t.jpg) 
 
 ## 👀 资料 
 
-### [missing-semester-cn](https://missing-semester-cn.github.io/)
+### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
 
-计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
+《Linear Algebra for Everyone》公开课的图解笔记：
 
-在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
+![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
 
-![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
+### [AI-System](https://github.com/microsoft/AI-System)
 
-### [rust-by-practice](https://github.com/sunface/rust-by-practice)
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
 
-通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
+![AI-System](https://img.turingark.com/uPic/ZfT8O8.png) 
 
-![](https://img.turingark.com/uPic/f4zLoa.png) 
+### [zju-icicles](https://github.com/QSCTech/zju-icicles)
 
-### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+浙江大学课程攻略共享计划：
 
- 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
+![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
 
 ## 🕸 网站 
 
-### [crxsoso](https://www.crxsoso.com/articles)
+### [renwuzhi.wiki](https://renwuzhi.wiki/)
 
-浏览器扩展应用周刊：
+网站收集了各个朝代人物介绍：
 
-![crxsoso](https://images-1252557999.file.myqcloud.com/uPic/crxsoso.jpg) 
+![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
 
-### [读书笔记](https://reading.geek-docs.com/)
+### [cook](https://github.com/YunYouJun/cook)
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-![reading](https://img.turingark.com/uPic/nfN4XL.png) 
+![cook](https://img.turingark.com/uPic/cook.jpg) 
 
-### [1loc](https://1loc.dev/)
+### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
 
-一行 `js` 代码，可以实现哪些基础功能？这个网站做了汇总：
+中国少年儿童新闻出版总社免费开放的少儿绘本网站：
 
-![1loc](https://images-1252557999.file.myqcloud.com/uPic/1loc.jpg) 
+![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
 
 ## ✍️ 说明
 
