@@ -5,98 +5,97 @@
 
 ## 🎯 项目 
 
-### [penpot](https://github.com/penpot/penpot)
+### [BGmi](https://github.com/BGmi/BGmi)
 
-`Penpot` 是第一个面向跨领域团队的开源设计和原型平台，基于 `Web`，对标 `Figma`:
+`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
 
-![penpot](https://images-1252557999.file.myqcloud.com/uPic/penpot.jpg) 
+![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
 
-### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
+### [Textual](https://github.com/Textualize/textual)
 
-`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
+`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
 
-![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
+![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
 
-### [wechat-export](https://github.com/luin/wechat-export)
+### [ddddocr](https://github.com/sml2h3/ddddocr)
 
-将微信聊天记录导出为HTML文件：
+一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
 
-![wechat-export](https://img.turingark.com/uPic/eIhKUP.jpg) 
+![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
 
 ## 🤖 软件 
 
-### [fluent-reader](https://github.com/yang991178/fluent-reader)
+### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
 
-一款拥有现代化界面的RSS阅读器，拥有以下特性：
+一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
 
-- 跨平台
-- 可同步自部署服务以及外部服务如：Inoreader, Feedbin
-- 支持OPML导入导出
-- 正则检索，状态管控，快捷键等
+- 配置app启动默认输入法。
+- app来回切换，保持app切出前的使用的输入法。
+- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
+- 悬浮窗口支持
 
-![fluent-reader](https://img.turingark.com/uPic/fluent-reader.png) 
+![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
 
-### [Seal](https://github.com/JunkFood02/Seal)
+### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
 
-一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
+使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
 
-- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
-- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
-- 播放列表下载支持
-- 内嵌字幕于视频文件中
-- 执行自定义的 yt-dlp 命令模板
-- 管理应用内下载与自定义命令模板
-- 使用简单、用户友好
-- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
-- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
-    
-![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
+- 支持下载无水印视频
+- 支持下载某个账号号的所有视频
 
-### [tts-now](https://github.com/funnyzak/tts-now)
+![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
 
-基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
+### [Quake](https://github.com/phodal/quake)
 
-![](https://img.turingark.com/uPic/Se6U0t.jpg) 
+Quake 是面向极客的知识管理元框架，它可以：
+
+- 自由的文本内容管理。Todo 清单、文章管理、书评、笔记等。
+- 构建知识网络体系。定制化 markdown 链接
+- 抓住稍纵即逝的灵感。支持快速启动（CLI、TUI）与全局搜索
+- 自由的呈现画布。DSL 与自由画板
+
+![quake](https://img.turingark.com/uPic/quake.gif) 
 
 ## 👀 资料 
 
-### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
+### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
-《Linear Algebra for Everyone》公开课的图解笔记：
+这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
 
-![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
+我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
 
-### [AI-System](https://github.com/microsoft/AI-System)
+### [nlp-with-transformers](https://github.com/nlp-with-transformers)
 
-微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+书籍《基于Transformers的自然语言处理》的代码仓库：
 
-![AI-System](https://img.turingark.com/uPic/ZfT8O8.png) 
+![](https://img.turingark.com/uPic/A6MiF5.jpg) 
 
-### [zju-icicles](https://github.com/QSCTech/zju-icicles)
+### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
 
-浙江大学课程攻略共享计划：
+`Solidity` 极简入门：
 
-![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
+![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
 
 ## 🕸 网站 
 
-### [renwuzhi.wiki](https://renwuzhi.wiki/)
+### [devtool.tech](https://devtool.tech/)
 
-网站收集了各个朝代人物介绍：
+开发者武器库，作者提供了83个开发者常用的工具：
 
-![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
+![](https://img.turingark.com/uPic/ZlVqam.png) 
 
-### [cook](https://github.com/YunYouJun/cook)
+### [jsonvisio](https://jsonvisio.com/editor)
 
-一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
+将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
 
-![cook](https://img.turingark.com/uPic/cook.jpg) 
+![](https://img.turingark.com/uPic/jsonvisio.jpg) 
 
-### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
+### [Connected Papers](https://www.connectedpapers.com/)
 
-中国少年儿童新闻出版总社免费开放的少儿绘本网站：
+`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
 
-![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
+![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
+是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
 
 ## ✍️ 说明
 
