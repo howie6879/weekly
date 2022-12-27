@@ -5,97 +5,99 @@
 
 ## 🎯 项目 
 
-### [BGmi](https://github.com/BGmi/BGmi)
+### [surveyking](https://github.com/javahuang/surveyking)
 
-`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
+功能挺全面的一个调查问卷系统：
 
-![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
+![surveyking](https://img.turingark.com/uPic/surveyking.jpg) 
 
-### [Textual](https://github.com/Textualize/textual)
+### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
 
-`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
+基于 `SOTA AI` 模型的图片免费开源修补工具：
 
-![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
+![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
 
-### [ddddocr](https://github.com/sml2h3/ddddocr)
+### [illa-builder](https://github.com/illacloud/illa-builder)
 
-一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
+`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
 
-![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
+- ⚽ 实时协作： 我们可以一起实时创建内容。
+- 🛠 自定义插件： 构建自定义插件来完成你的任务。
+- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
+- 🖥 本地部署： 支持Docker和k8s
+- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
+- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
+
+![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
 
 ## 🤖 软件 
 
-### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+### [legado](https://github.com/gedoor/legado)
 
-一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-- 配置app启动默认输入法。
-- app来回切换，保持app切出前的使用的输入法。
-- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
-- 悬浮窗口支持
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
 
-![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
+![legado](https://img.turingark.com/uPic/jSEBJ9.png) 
 
-### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
+### [yarr](https://github.com/nkanaev/yarr)
 
-使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
+基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
 
-- 支持下载无水印视频
-- 支持下载某个账号号的所有视频
+```shell
+mkdir -p ./yarr/data
+docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
+```
 
-![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
+总体来说还是挺简洁轻量的：
 
-### [Quake](https://github.com/phodal/quake)
+![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
 
-Quake 是面向极客的知识管理元框架，它可以：
+### [orange](https://github.com/naaive/orange)
 
-- 自由的文本内容管理。Todo 清单、文章管理、书评、笔记等。
-- 构建知识网络体系。定制化 markdown 链接
-- 抓住稍纵即逝的灵感。支持快速启动（CLI、TUI）与全局搜索
-- 自由的呈现画布。DSL 与自由画板
+基于`Rust`跨平台的文件搜索引擎：
 
-![quake](https://img.turingark.com/uPic/quake.gif) 
+![Orange](https://img.turingark.com/uPic/Orange.jpg) 
 
 ## 👀 资料 
 
-### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
 
-这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
+算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
 
-我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
+![Reflection Summary](https://img.turingark.com/uPic/WpauDu.png) 
 
-### [nlp-with-transformers](https://github.com/nlp-with-transformers)
+### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
 
-书籍《基于Transformers的自然语言处理》的代码仓库：
+为初学者整理的免费 `CSS` 课程：
 
-![](https://img.turingark.com/uPic/A6MiF5.jpg) 
+![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
 
-### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
+### RustBook
 
-`Solidity` 极简入门：
+一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
 
-![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
+![RustBook](https://img.turingark.com/uPic/RustBook.jpg) 
 
 ## 🕸 网站 
 
-### [devtool.tech](https://devtool.tech/)
+### [rust-search-extension](https://rust.extension.sh/)
 
-开发者武器库，作者提供了83个开发者常用的工具：
+在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
 
-![](https://img.turingark.com/uPic/ZlVqam.png) 
+![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
 
-### [jsonvisio](https://jsonvisio.com/editor)
+### flomoapp
 
-将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
+flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
 
-![](https://img.turingark.com/uPic/jsonvisio.jpg) 
+![flomoapp](https://img.turingark.com/uPic/6G6qrd.jpg) 
 
-### [Connected Papers](https://www.connectedpapers.com/)
+### [nosh](https://nosh.rocks/)
 
-`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
+一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
 
-![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
-是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
+![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
 
 ## ✍️ 说明
 
