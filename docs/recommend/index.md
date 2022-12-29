@@ -5,94 +5,85 @@
 
 ## 🎯 项目 
 
-### [wazuh](https://github.com/wazuh/wazuh)
+### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
 
-`Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具。
+`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
 
-![wazuh](https://images-1252557999.file.myqcloud.com/uPic/wazuh.png) 
+![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
 
-### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
+### [form-create](https://github.com/xaboy/form-create)
 
-该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
+强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
 
-![computer_book_list](https://img.turingark.com/uPic/uxQa5E.png) 
+![form-create](https://img.turingark.com/uPic/demo-live3.gif) 
 
-### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
+### [50projects50days](https://github.com/bradtraversy/50projects50days)
 
-相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
+50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
 
-如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
+![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
 
 ## 🤖 软件 
 
-### [SwiftBar](https://github.com/swiftbar/SwiftBar)
+### [ruzz](https://github.com/vlts1/ruzz)
 
-一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
+`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
 
-![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
+![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
 
-### [uncle-novel](https://github.com/unclezs/uncle-novel)
+### [Vieb](https://vieb.dev/)
 
-一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
+开源免费的全平台（PC）`Vim`风格电子浏览器：
 
-![uncle-novel](https://img.turingark.com/uPic/ciiKWp.jpg) 
+![Vieb](https://img.turingark.com/uPic/BqyWaK.png) 
 
-### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
+### [Joplin](https://github.com/laurent22/joplin)
 
-一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
+我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
 
-- 隐藏桌面图标
-- 番茄钟
-- 快速进入夜间模式
-- 隐藏刘海
-- 保持唤醒
-- 清理 Xcode 缓存
-- 支持快捷方式库，可以自己开发
-- ...
+- 自建服务端
+- 第三方如坚果云等
+- 也可以基于云商，如腾讯云的`COS`
 
-![OnlySwitch](https://img.turingark.com/uPic/OnlySwitch.png) 
+> 这篇文章也是使用Joplin写的 
 
 ## 👀 资料 
 
-### [English-Writing](https://github.com/yzy1996/English-Writing)
+### [free-for-dev](https://github.com/ripienaar/free-for-dev)
 
-本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
+对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
 
-### [openai-cookbook](https://github.com/openai/openai-cookbook)
+![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
 
-`OpenAI API` 使用示例指南：
+### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
 
-![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
+Go语言实战: 编写可维护Go语言代码建议。 
 
-### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
+### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
 
-基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
+开源书籍，`Prometheus`  操作指南：
 
-- NLP
-- CV
-- Time Series
-
-目录概览：
-
-![Pytorch](https://img.turingark.com/uPic/kSUA40.png) 
+![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
 
 ## 🕸 网站 
 
-### [必应壁纸](https://bing.ioliu.cn/)
+### [cryptologos](https://cryptologos.cc/)
 
-收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
+一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
 
-![bing](https://img.turingark.com/uPic/bing.jpg) 
+![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
+
+### [favicon.io](https://favicon.io/)
+
+免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+
+![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
 
 ### [musetransfer](https://musetransfer.com/)
 
 `MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
 
 ![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
-
-### [IconPark](https://iconpark.oceanengine.com/home)
-
-字节开源的一款图标库。 
 
 ## ✍️ 说明
 
