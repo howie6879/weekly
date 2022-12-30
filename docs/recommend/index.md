@@ -5,85 +5,99 @@
 
 ## 🎯 项目 
 
-### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
+### [rathole](https://github.com/rapiz1/rathole)
 
-`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
+安全、稳定、高性能的内网穿透工具，用 Rust 语言编写。 
 
-![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
+### [questdb](https://github.com/questdb/questdb)
 
-### [form-create](https://github.com/xaboy/form-create)
+QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
 
-强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
+特别是针对时间序列数据做了处理：
 
-![form-create](https://img.turingark.com/uPic/demo-live3.gif) 
+![questdb](https://img.turingark.com/uPic/Sbq9WK.jpg) 
 
-### [50projects50days](https://github.com/bradtraversy/50projects50days)
+### [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
-50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
+`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
 
-![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
+![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
 
 ## 🤖 软件 
 
-### [ruzz](https://github.com/vlts1/ruzz)
+### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 
-`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
+跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
 
-![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
+- 🍕 全平台支持. Windows, Mac, Linux
+- 🍥 支持 IPTV, 卫视直播
+- 🍔 视频源支持自定义, 支持导入, 导出
+- 🍟 支持海报模式和列表模式浏览资源
+- 🌭 播放历史, 自动跳转历史进度
+- 🍿 收藏夹支持导入,导出, 支持同步追剧
+- 🥙 支持精简模式, 摸鱼划水
+- 🥪 一键搜索所有资源, 支持历史搜索记录
+- 🌮 导出资源下载链接
+- 🍣 支持第三方播放器播放
+- 🍤 显示豆瓣评分
 
-### [Vieb](https://vieb.dev/)
+![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
 
-开源免费的全平台（PC）`Vim`风格电子浏览器：
+### [Offset Explorer](https://www.kafkatool.com/download.html)
 
-![Vieb](https://img.turingark.com/uPic/BqyWaK.png) 
+个人免费的跨平台 `Kafka` 界面管理工具：
 
-### [Joplin](https://github.com/laurent22/joplin)
+![offset-explorer](https://images-1252557999.file.myqcloud.com/uPic/offset-explorer.jpg) 
 
-我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
+### [siyuan](https://github.com/siyuan-note/siyuan)
 
-- 自建服务端
-- 第三方如坚果云等
-- 也可以基于云商，如腾讯云的`COS`
+思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
 
-> 这篇文章也是使用Joplin写的 
+![siyuan](https://img.turingark.com/uPic/tcg6u0.jpg) 
 
 ## 👀 资料 
 
-### [free-for-dev](https://github.com/ripienaar/free-for-dev)
+### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
 
-对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
+健康学习到150岁 - 人体系统调优不完全指南：
 
-![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
+![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
 
-### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
+### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
-Go语言实战: 编写可维护Go语言代码建议。 
+> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
 
-### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
+本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
 
-开源书籍，`Prometheus`  操作指南：
+![Learn-Vim_zh_cn](https://img.turingark.com/uPic/AgGats.png) 
 
-![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
+### [FFmpeg原理](https://ffmpeg.xianwaizhiyin.net/)
+
+本书《FFmpeg原理》主要讲解 FFmpeg 原理性的知识，前面几章主要讲解一些音视频开发的基础知识，例如原始数据 YUV 跟 RGB，封装格式 FLV 跟 MP4 ，压缩编码的基本概念，还有封装格式分析。
+
+前面几章是音视频开发，流媒体技术的基础，后面的章节主要讲解如何搭建 FFmpeg 各种调试环境，同时提供 FFmpeg API 函数的使用示例，最重要的是 分析 ffmpeg.c 跟 ffplay.c 的源码逻辑。
+
+![ffmpeg](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg.jpg) 
 
 ## 🕸 网站 
 
-### [cryptologos](https://cryptologos.cc/)
+### [douyin.wtf](https://douyin.wtf/)
 
-一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
+网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
 
-![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
+![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
 
-### [favicon.io](https://favicon.io/)
+### [renwuzhi.wiki](https://renwuzhi.wiki/)
 
-免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+网站收集了各个朝代人物介绍：
 
-![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
+![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
 
-### [musetransfer](https://musetransfer.com/)
+### [latexlive](https://www.latexlive.com/)
 
-`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
+免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
 
-![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
+![latexlive](https://img.turingark.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
 
 ## ✍️ 说明
 
