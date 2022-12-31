@@ -5,25 +5,21 @@
 
 ## 🎯 项目 
 
-### [MRDOC](https://mrdoc.pro/)
+### [naive-ui](https://github.com/tusen-ai/naive-ui)
 
-`MRDOC`觅思文档，私有云笔记、云文档和知识库系统，适合作为私有云文档、云笔记和知识管理的私有化在线文档部署方案。
+一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
 
-分为开源版和付费版，小团队可以考虑使用：
+![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
 
-![MRDOC](https://img.turingark.com/uPic/u43buW.png) 
+### [awesome-compose](https://github.com/docker/awesome-compose)
 
-### [cnchar](https://github.com/theajack/cnchar)
+一些 `Docker Compose` 的实践示例。 
 
-功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
+### [ddns-go](https://github.com/jeessy2/ddns-go)
 
-![cnchar](https://img.turingark.com/uPic/cnchar.jpg) 
+简单好用的 `DDNS`，自动更新域名解析到公网IP(支持阿里云、腾讯云 `dnspod`、`Cloudflare`、华为云、百度云、`porkbun`)：
 
-### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
-
-基于 `SOTA AI` 模型的图片免费开源修补工具：
-
-![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
+![ddns-go](https://images-1252557999.file.myqcloud.com/uPic/ddns-go.png) 
 
 ## 🤖 软件 
 
@@ -33,60 +29,76 @@
 
 ![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
 
-### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
+### [MiaoYan](https://github.com/tw93/MiaoYan)
 
-`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
+轻灵的 Markdown 笔记本伴你写出妙言：
 
-- Support Intel
-- Support Apple Silicon (M1 & M2)
-- Network
-- USB 
+- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
+- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
+- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
+- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
 
-### [KOReader](https://github.com/koreader/koreader)
+![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
 
-KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
+### [natpass](https://github.com/lwch/natpass)
 
-![koreader](https://img.turingark.com/uPic/koreader.jpg) 
+新一代 NAT 内网穿透+shell+vnc 工具：
+
+![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
 
 ## 👀 资料 
 
-### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
+### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
 
-一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
+本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
 
-![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
+![](https://img.turingark.com/uPic/SBotTN.jpg)
 
-### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
+其他同类教程地址：
 
-张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
+- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
+- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
 
-![rust_magazine](https://img.turingark.com/uPic/FvKrE4.png) 
+### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
 
-### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
+从零开始学习Kubernetes的路线图（初级到高级）：
 
-为初学者整理的免费 `CSS` 课程：
+![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
 
-![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
+### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+
+以非常直观的语言介绍`pytorch`：
+
+![eat_pytorch_in_20_days](https://img.turingark.com/uPic/fnTFJ5.png)
+
+作者的同类电子书还有：
+
+- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
 
 ## 🕸 网站 
 
-### [读书笔记](https://reading.geek-docs.com/)
+### [macosicons](https://macosicons.com/)
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+网站基本上覆盖了热门`Mac APP`图标，你可以选择自己喜欢的图标进行替换，让自己的`Mac`更加漂亮且个性化。
 
-![reading](https://img.turingark.com/uPic/nfN4XL.png) 
+![macosicons](https://images-1252557999.file.myqcloud.com/uPic/macosicons.png) 
 
-### [zhaoziyuan](https://zhaoziyuan.la)
+### [webutils](https://www.webutils.app/)
 
-阿里云资源搜索引擎：
+一个提供web小工具的网站，比如：
 
-![zhaoziyuan](https://img.turingark.com/uPic/zhaoziyuan-20220429095007870.jpg) 
+- 文本比较
+- 图片压缩
+- 图片转换
 
-### [emojiall](https://www.emojiall.com/)
+![webutils](https://img.turingark.com/uPic/ijDiPA.png) 
 
-网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
+### [star-history](https://star-history.com/)
 
-![emojiall](https://img.turingark.com/uPic/emojiall.jpg) 
+在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
+
+![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
 
 ## ✍️ 说明
 
