@@ -5,100 +5,90 @@
 
 ## 🎯 项目 
 
-### [naive-ui](https://github.com/tusen-ai/naive-ui)
+### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
 
-一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
+🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
 
-![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
+| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
+| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
+| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
+| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
+| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
 
-### [awesome-compose](https://github.com/docker/awesome-compose)
+### [Feeddd](https://github.com/feeddd/feeds)
 
-一些 `Docker Compose` 的实践示例。 
+![Feeddd](https://img.turingark.com/uPic/5a9np8.jpg)
 
-### [ddns-go](https://github.com/jeessy2/ddns-go)
+一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
 
-简单好用的 `DDNS`，自动更新域名解析到公网IP(支持阿里云、腾讯云 `dnspod`、`Cloudflare`、华为云、百度云、`porkbun`)：
+### [notion-blog](https://github.com/ijjk/notion-blog)
 
-![ddns-go](https://images-1252557999.file.myqcloud.com/uPic/ddns-go.png) 
+基于 `Notion` 构建静态站点：
+
+![notion-blog](https://images-1252557999.file.myqcloud.com/uPic/notion-blog.jpg) 
 
 ## 🤖 软件 
 
-### [Xit](https://github.com/Uncommon/Xit)
+### [yarr](https://github.com/nkanaev/yarr)
 
-`Mac OS`下开源免费的原生`Git`客户端 ：
+基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
 
-![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
+```shell
+mkdir -p ./yarr/data
+docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
+```
 
-### [MiaoYan](https://github.com/tw93/MiaoYan)
+总体来说还是挺简洁轻量的：
 
-轻灵的 Markdown 笔记本伴你写出妙言：
+![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
 
-- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
-- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
-- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
-- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
+### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
-![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
+控制外部显示器的亮度和音量（macOS）：
 
-### [natpass](https://github.com/lwch/natpass)
+![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
 
-新一代 NAT 内网穿透+shell+vnc 工具：
+### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
 
-![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
+网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
+
+![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
 
 ## 👀 资料 
 
-### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
+### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
 
-本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
+教程：小型金融知识图谱流程示范。 
 
-![](https://img.turingark.com/uPic/SBotTN.jpg)
+### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
-其他同类教程地址：
+一个在YouTube上发现最新机器学习课程的项目。 
 
-- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
-- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
+### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
 
-### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
+该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
 
-从零开始学习Kubernetes的路线图（初级到高级）：
-
-![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
-
-### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
-
-以非常直观的语言介绍`pytorch`：
-
-![eat_pytorch_in_20_days](https://img.turingark.com/uPic/fnTFJ5.png)
-
-作者的同类电子书还有：
-
-- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+![](https://img.turingark.com/uPic/ub1GLI.jpg) 
 
 ## 🕸 网站 
 
-### [macosicons](https://macosicons.com/)
+### [bgsub](https://bgsub.cn/webapp)
 
-网站基本上覆盖了热门`Mac APP`图标，你可以选择自己喜欢的图标进行替换，让自己的`Mac`更加漂亮且个性化。
+消除或者替换图像背景，无需上传图像：
 
-![macosicons](https://images-1252557999.file.myqcloud.com/uPic/macosicons.png) 
+![bgsub](https://images-1252557999.file.myqcloud.com/uPic/bgsub.jpg) 
 
-### [webutils](https://www.webutils.app/)
+### [devhints](https://www.f2er.com/tool/B5XO1oDY)
 
-一个提供web小工具的网站，比如：
+**@妙才**推荐，一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
 
-- 文本比较
-- 图片压缩
-- 图片转换
+![devhints](https://img.turingark.com/uPic/Wl8r0C.png) 
 
-![webutils](https://img.turingark.com/uPic/ijDiPA.png) 
+### [renwuzhi.wiki](https://renwuzhi.wiki/)
 
-### [star-history](https://star-history.com/)
+网站收集了各个朝代人物介绍：
 
-在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
-
-![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
+![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
 
 ## ✍️ 说明
 
