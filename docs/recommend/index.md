@@ -5,90 +5,91 @@
 
 ## 🎯 项目 
 
-### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
+### [questdb](https://github.com/questdb/questdb)
 
-🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
+QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
 
-| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
-| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
-| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
-| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
-| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
+特别是针对时间序列数据做了处理：
 
-### [Feeddd](https://github.com/feeddd/feeds)
+![questdb](https://img.turingark.com/uPic/Sbq9WK.jpg) 
 
-![Feeddd](https://img.turingark.com/uPic/5a9np8.jpg)
+### [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
 
-一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
+作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。
 
-### [notion-blog](https://github.com/ijjk/notion-blog)
+项目列表如下：
 
-基于 `Notion` 构建静态站点：
+![bigdata_analyse](https://img.turingark.com/uPic/klC8AA.png) 
 
-![notion-blog](https://images-1252557999.file.myqcloud.com/uPic/notion-blog.jpg) 
+### [runtipi](https://github.com/meienberger/runtipi)
+
+自托管的开源家庭应用服务管理工具，比如你可以在你的服务器上面一键安装任何自托管的应用：
+
+![runtipi](https://images-1252557999.file.myqcloud.com/uPic/runtipi.png) 
 
 ## 🤖 软件 
 
-### [yarr](https://github.com/nkanaev/yarr)
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
 
-基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
-```shell
-mkdir -p ./yarr/data
-docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
-```
+### [Xit](https://github.com/Uncommon/Xit)
 
-总体来说还是挺简洁轻量的：
+`Mac OS`下开源免费的原生`Git`客户端 ：
 
-![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
+![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
 
-### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
+### [MiaoYan](https://github.com/tw93/MiaoYan)
 
-控制外部显示器的亮度和音量（macOS）：
+轻灵的 Markdown 笔记本伴你写出妙言：
 
-![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
+- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
+- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
+- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
+- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
 
-### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
-
-网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
-
-![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
+![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
 
 ## 👀 资料 
 
-### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
+### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
-教程：小型金融知识图谱流程示范。 
+LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
 
-### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
 
-一个在YouTube上发现最新机器学习课程的项目。 
+公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
 
-### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
+### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
 
-该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
-
-![](https://img.turingark.com/uPic/ub1GLI.jpg) 
+互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
 
 ## 🕸 网站 
 
-### [bgsub](https://bgsub.cn/webapp)
+### [文学网](https://www.hwxnet.com/)
 
-消除或者替换图像背景，无需上传图像：
+文学相关工具在线网站：
 
-![bgsub](https://images-1252557999.file.myqcloud.com/uPic/bgsub.jpg) 
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
 
-### [devhints](https://www.f2er.com/tool/B5XO1oDY)
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
-**@妙才**推荐，一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
+### [devdocs](https://devdocs.io/)
 
-![devhints](https://img.turingark.com/uPic/Wl8r0C.png) 
+提供在线快速查找API接口文档的网站：
 
-### [renwuzhi.wiki](https://renwuzhi.wiki/)
+![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
 
-网站收集了各个朝代人物介绍：
+### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
 
-![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
+冰霜大佬的博客：
+
+![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
 
 ## ✍️ 说明
 
