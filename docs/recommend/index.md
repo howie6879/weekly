@@ -5,91 +5,89 @@
 
 ## 🎯 项目 
 
-### [questdb](https://github.com/questdb/questdb)
+### crontab-ui
 
-QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
+提供简单安全的方式来管理 `crontab`:
 
-特别是针对时间序列数据做了处理：
+![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
 
-![questdb](https://img.turingark.com/uPic/Sbq9WK.jpg) 
+### [amis](https://github.com/baidu/amis)
 
-### [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
+前端低代码框架，通过 JSON 配置就能生成各种页面。 
 
-作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。
+### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
 
-项目列表如下：
+`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
 
-![bigdata_analyse](https://img.turingark.com/uPic/klC8AA.png) 
-
-### [runtipi](https://github.com/meienberger/runtipi)
-
-自托管的开源家庭应用服务管理工具，比如你可以在你的服务器上面一键安装任何自托管的应用：
-
-![runtipi](https://images-1252557999.file.myqcloud.com/uPic/runtipi.png) 
+![Real-ESRGAN](https://img.turingark.com/uPic/DBST14.jpg) 
 
 ## 🤖 软件 
 
-### [Wechatsync](https://github.com/wechatsync/Wechatsync)
+### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
 
-一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
+JetBrains 的下一代 IDE：
 
-### [Xit](https://github.com/Uncommon/Xit)
+![fleet](https://img.turingark.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
 
-`Mac OS`下开源免费的原生`Git`客户端 ：
+### [ChatGPT](https://github.com/lencx/ChatGPT)
 
-![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
+基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
 
-### [MiaoYan](https://github.com/tw93/MiaoYan)
+- 历史聊天记录导出(PNG, PDF & Share Link)
+- 快捷键&系统托盘
+- 集成 [chatgpt prompt](https://prompts.chat/)
 
-轻灵的 Markdown 笔记本伴你写出妙言：
+![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
 
-- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
-- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
-- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
-- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
+作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
 
-![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
+### [Equinox](https://github.com/rlxone/Equinox)
+
+开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
+
+![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
 
 ## 👀 资料 
 
-### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+### [archbase](https://github.com/foxsen/archbase)
 
-LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
 
-### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
+![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
 
-公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
+### [missing-semester-cn](https://missing-semester-cn.github.io/)
 
-### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
+计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
 
-互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
+在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
+
+![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
+
+### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
+
+这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
+
+之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.cn/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
 
 ## 🕸 网站 
 
-### [文学网](https://www.hwxnet.com/)
+### [removebg](https://www.remove.bg/zh)
 
-文学相关工具在线网站：
+这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
+![removebg](https://img.turingark.com/uPic/TW1uwy.png) 
 
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+### [readme.so](https://readme.so/)
 
-### [devdocs](https://devdocs.io/)
+一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
 
-提供在线快速查找API接口文档的网站：
+![readme_so](https://img.turingark.com/uPic/readme_so.jpg) 
 
-![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
+### [uiset](https://uiset.com/)
 
-### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
+共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
 
-冰霜大佬的博客：
-
-![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
+![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
 
 ## ✍️ 说明
 
