@@ -5,89 +5,102 @@
 
 ## 🎯 项目 
 
-### crontab-ui
+### [ecapture](https://github.com/ehids/ecapture)
 
-提供简单安全的方式来管理 `crontab`:
+eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
 
-![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
+![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
 
-### [amis](https://github.com/baidu/amis)
+### [sams_helper](https://github.com/sari3l/sams_helper)
 
-前端低代码框架，通过 JSON 配置就能生成各种页面。 
+山姆全自动抢购：普通商品、保供套餐；支持优惠券、无货添加、数量修正、金额限制、超重拆分、黑白名单:
 
-### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
+![sams_helper](https://images-1252557999.file.myqcloud.com/uPic/sams_helper.jpg) 
 
-`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
+### [bore](https://github.com/ekzhang/bore)
 
-![Real-ESRGAN](https://img.turingark.com/uPic/DBST14.jpg) 
+`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
+
+![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
 
 ## 🤖 软件 
 
-### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
+### [Imagine](https://github.com/meowtec/Imagine)
 
-JetBrains 的下一代 IDE：
+全平台支持的图片压缩软件：
 
-![fleet](https://img.turingark.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
+![Imagine](https://img.turingark.com/uPic/KrSb9L.png)
 
-### [ChatGPT](https://github.com/lencx/ChatGPT)
+看看这86%的压缩率还是挺上头的，而且效果很好。 
 
-基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
+### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
 
-- 历史聊天记录导出(PNG, PDF & Share Link)
-- 快捷键&系统托盘
-- 集成 [chatgpt prompt](https://prompts.chat/)
+Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
 
-![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
+Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
 
-作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
+支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
 
-### [Equinox](https://github.com/rlxone/Equinox)
+![hammerscholar](https://img.turingark.com/uPic/4UQ5Ha.png) 
 
-开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
+### [siyuan](https://github.com/siyuan-note/siyuan)
 
-![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
+思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
+
+![siyuan](https://img.turingark.com/uPic/tcg6u0.jpg) 
 
 ## 👀 资料 
 
-### [archbase](https://github.com/foxsen/archbase)
+### [xjq7/books](https://github.com/xjq7/books)
 
-这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
 
-![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
+### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
 
-### [missing-semester-cn](https://missing-semester-cn.github.io/)
+[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
 
-计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
+![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
 
-在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
+### [sideproject](https://sideproject.guide/)
 
-![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
+`Side Project` 指南：
 
-### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
 
-这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
-
-之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.cn/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
 
 ## 🕸 网站 
 
-### [removebg](https://www.remove.bg/zh)
+### [crxsoso](https://www.crxsoso.com/articles)
 
-这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
+浏览器扩展应用周刊：
 
-![removebg](https://img.turingark.com/uPic/TW1uwy.png) 
+![crxsoso](https://images-1252557999.file.myqcloud.com/uPic/crxsoso.jpg) 
 
-### [readme.so](https://readme.so/)
+### [tReader](https://tiansh.github.io/reader/#!/read/1)
 
-一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
+如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
 
-![readme_so](https://img.turingark.com/uPic/readme_so.jpg) 
+![tReader](https://img.turingark.com/uPic/PMMlRM.jpg)
+基本功能如下：
 
-### [uiset](https://uiset.com/)
+- 手机端适配，阅读效果优秀
+- 点左上角的添加按钮可以添加文件
+- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
+- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
+- 文件列表，左滑、右键或按Delete可以显示删除按钮
+- 书签
+- 搜索
+- 目录等 
 
-共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
+### [svgsilh](https://svgsilh.com/)
 
-![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
+免费可商用的`SVG`素材网站：
+
+![svgsilh](https://images-1252557999.file.myqcloud.com/uPic/svgsilh.jpg) 
 
 ## ✍️ 说明
 
