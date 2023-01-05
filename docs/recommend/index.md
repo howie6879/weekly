@@ -5,102 +5,94 @@
 
 ## 🎯 项目 
 
-### [ecapture](https://github.com/ehids/ecapture)
+### [Restfox](https://github.com/flawiddsouza/Restfox)
 
-eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
+主打离线也能运行使用的 `Web HTTP` 客户端:
 
-![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
+![Restfox](https://images-1252557999.file.myqcloud.com/uPic/Restfox.png)
 
-### [sams_helper](https://github.com/sari3l/sams_helper)
+之前也推荐过 [hoppscotch](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。 
 
-山姆全自动抢购：普通商品、保供套餐；支持优惠券、无货添加、数量修正、金额限制、超重拆分、黑白名单:
+### [dicebear](https://github.com/dicebear/dicebear)
 
-![sams_helper](https://images-1252557999.file.myqcloud.com/uPic/sams_helper.jpg) 
+供设计师和开发者使用的头像库。可根据传入的字符串，自动生成对应用户头像的库：
 
-### [bore](https://github.com/ekzhang/bore)
+![dicebear](https://images-1252557999.file.myqcloud.com/uPic/dicebear.jpg) 
 
-`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
+### [JD\_tencent\_scf](https://github.com/cweijan/JD_tencent_scf)
 
-![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
+这个项目简化了打京豆的脚本部署流程，每个月能打1500(不确定)左右。 
 
 ## 🤖 软件 
 
-### [Imagine](https://github.com/meowtec/Imagine)
+### [ptg](https://github.com/crossoverJie/ptg)
 
-全平台支持的图片压缩软件：
+让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
 
-![Imagine](https://img.turingark.com/uPic/KrSb9L.png)
+![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
 
-看看这86%的压缩率还是挺上头的，而且效果很好。 
+### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
 
-### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
+使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
 
-Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
+- 支持下载无水印视频
+- 支持下载某个账号号的所有视频
 
-Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
+![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
 
-支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
+### [natpass](https://github.com/lwch/natpass)
 
-![hammerscholar](https://img.turingark.com/uPic/4UQ5Ha.png) 
+新一代 NAT 内网穿透+shell+vnc 工具：
 
-### [siyuan](https://github.com/siyuan-note/siyuan)
-
-思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
-
-![siyuan](https://img.turingark.com/uPic/tcg6u0.jpg) 
+![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
 
 ## 👀 资料 
 
-### [xjq7/books](https://github.com/xjq7/books)
+### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
 
-电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
+算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
 
-### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
+![Reflection Summary](https://img.turingark.com/uPic/WpauDu.png) 
 
-[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
+### [hello-algo](https://github.com/krahets/hello-algo)
 
-![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
+[Hello 算法](https://www.hello-algo.com/)是一本动画图解、能运行、可提问的数据结构与算法入门书，本书面向数据结构与算法初学者，致力于达成以下目标：
 
-### [sideproject](https://sideproject.guide/)
+- 开源免费，所有同学都可在网上获取本书；
+- 新手友好，适合算法初学者自主学习入门；
+- 动画讲解，尽可能地保证平滑的学习曲线；
+- 代码导向，提供精简、可运行的算法代码；
+- 讨论学习，提问一般能在三日内得到回复；
 
-`Side Project` 指南：
+![hello-algo](https://images-1252557999.file.myqcloud.com/uPic/hello-algo.jpg) 
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+一本基于`python&matplotlib`进行科学可视化的开源书籍：
+
+![scientific-visualization-book](https://img.turingark.com/uPic/scientific-visualization-book.jpg) 
 
 ## 🕸 网站 
 
-### [crxsoso](https://www.crxsoso.com/articles)
+### [pixel-me](https://pixel-me.tokyo/en/)
 
-浏览器扩展应用周刊：
+将你的头像像素化，质量挺好：
 
-![crxsoso](https://images-1252557999.file.myqcloud.com/uPic/crxsoso.jpg) 
+![](https://img.turingark.com/uPic/gnHdoM.png) 
 
-### [tReader](https://tiansh.github.io/reader/#!/read/1)
+### [the-algorithms](https://the-algorithms.com/zh_Hans)
 
-如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
+`GitHub` 最大的开源算法库：
 
-![tReader](https://img.turingark.com/uPic/PMMlRM.jpg)
-基本功能如下：
+![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
 
-- 手机端适配，阅读效果优秀
-- 点左上角的添加按钮可以添加文件
-- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
-- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
-- 文件列表，左滑、右键或按Delete可以显示删除按钮
-- 书签
-- 搜索
-- 目录等 
+### [unDraw](https://undraw.co/illustrations)
 
-### [svgsilh](https://svgsilh.com/)
+你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
 
-免费可商用的`SVG`素材网站：
+如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
 
-![svgsilh](https://images-1252557999.file.myqcloud.com/uPic/svgsilh.jpg) 
+![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
 
 ## ✍️ 说明
 
