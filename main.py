@@ -94,8 +94,7 @@ def gen_weekly_title(years: int):
 
 if __name__ == "__main__":
     # 生成年度周刊内容合集
-    gen_weekly_content(2022)
-    exit()
+    # gen_weekly_content(2022)
     # 持久化周刊到DB
     parse_md()
     # 生成RSS
