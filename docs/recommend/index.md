@@ -5,95 +5,93 @@
 
 ## 🎯 项目 
 
-### [rembg](https://github.com/danielgatis/rembg)
+### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
 
-之前有介绍过一个去除图片背景的网站-[remove.bg](https://www.remove.bg/zh)，这网站虽然免费，但是高清版本的图片下载需要收费，现在这个开源的图片背景去除项目将完全解决这个问题：
+该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
 
-![rembg](https://img.turingark.com/uPic/rembg.jpg)
+![computer_book_list](https://img.turingark.com/uPic/uxQa5E.png) 
 
-你可以作为第三方库使用，也在终端以及启用服务化来使用。 
+### [paopao-ce](https://github.com/rocboss/paopao-ce)
 
-### [umami](https://github.com/umami-software/umami)
+🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
 
-`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
+- [Go](https://go.dev/)
+- [Gin](https://gin-gonic.com/)
+- [Zinc](https://zinclabs.io/)
+- [Naive UI](https://www.naiveui.com/)
+- [Vue.js](https://vuejs.org/)
+- [Vite.js](https://vitejs.dev/)
 
-![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
+![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
 
-### [LightBook](https://github.com/underthestars-zhy/LightBook)
+网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
 
-开源的小说下载脚本项目，输出格式为 `EPUB`：
+### [form-create](https://github.com/xaboy/form-create)
 
-![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
+强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
+
+![form-create](https://img.turingark.com/uPic/demo-live3.gif) 
 
 ## 🤖 软件 
 
-### [ChatGPT](https://github.com/lencx/ChatGPT)
+### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 
-基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
+适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
 
-- 历史聊天记录导出(PNG, PDF & Share Link)
-- 快捷键&系统托盘
-- 集成 [chatgpt prompt](https://prompts.chat/)
+- **免费**：本项目所有代码开源，完全免费。
+- **方便**：解压即用，无需安装。不需要网络。
+- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
+- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
 
-![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
+![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
 
-作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
+### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
-### [sniffnet](https://github.com/GyulyVGC/sniffnet)
+控制外部显示器的亮度和音量（macOS）：
 
-监控你的应用流量，跨平台：
+![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
 
-![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
+### [organicmaps](https://github.com/organicmaps/organicmaps) 
 
-### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
+`organicmaps` 是一款免费的 Android 和 iOS 离线地图应用程序，适用于旅行者、游客、司机、徒步旅行者和自行车骑行者。它使用众包的 OpenStreetMap 数据，由 MapsWithMe 应用程序（后来更名为 Maps.Me）的创建者和社区共同开发。没有广告，没有跟踪，没有数据收集，没有垃圾软件：
 
-一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
-
-![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
+![organicmaps](https://images-1252557999.file.myqcloud.com/uPic/organicmaps.jpg) 
 
 ## 👀 资料 
 
-### [meetup](https://github.com/baiyutang/meetup)
+### [programming-math-science](https://github.com/bobeff/programming-math-science) 
 
-【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
+国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
-![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
+### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
 
-### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
+本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
 
-中国5级行政区域mysql库：
+![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
 
-- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
-- 港澳地区的数据只有3级;台湾地区4级
-- 包含大陆地区的邮政编码和经纬度信息 
+### [learn-regex](https://github.com/ziishaned/learn-regex)
 
-### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
-
-阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
-
-![c](https://img.turingark.com/uPic/4uYTRJ.png) 
+开源的正则表达式教程，有中文版，有在线示例。 
 
 ## 🕸 网站 
 
-### [linggle](https://linggle.com/)
+### [huawei-od](https://huawei-od.vercel.app/)
 
-免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
+牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
 
-![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
+![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
 
-### [ipdetective](https://ipdetective.io/api)
+### [uipatterns](http://uipatterns.io/) 
 
-检测 `ip` 是否是机器人：
+程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
 
-![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
+![](https://img.turingark.com/uPic/uipatterns.jpg) 
 
-### [网道](https://wangdoc.com/)
+### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
 
-前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
+配置高性能、安全、稳定的NGINX服务器的最简单方法：
 
-目前提供了不少教程，对于初学者是非常友好的：
-
-![网道](https://img.turingark.com/uPic/PP2xqR.png) 
+![nginx_web](https://img.turingark.com/uPic/N7Yp8R.png) 
 
 ## ✍️ 说明
 
