@@ -31,7 +31,7 @@ def write_mkdocs_config(data: dict, path=""):
         data (dict): 配置数据
         path (str): 可选，mkdocs配置路径
     """
-    config_path = path or os.path.join(os.path.dirname(__file__), "mkdocs.yml")
+    config_path = path or os.path.join(os.path.dirname(__file__), "mkdocs01.yml")
     with open(config_path, "w", encoding="utf-8") as f:
         yaml.dump(data, f, allow_unicode=True)
 
@@ -64,7 +64,7 @@ def gen_weekly_title(years: int):
     target_path = os.path.join(root_path, f"docs/{years}")
     res_dict = {}
     for file in os.listdir(target_path):
-        if str(file).endswith(".md"):
+        if str(file).endswith(".md") and "我的周刊" in file:
             # 目标文件
             match_obj = re.compile(r"第(.*?)期").search(file)[1]
             res_dict[match_obj] = f"{file}"
@@ -91,7 +91,7 @@ def gen_weekly_title(years: int):
 if __name__ == "__main__":
     # 持久化周刊到DB
     parse_md()
-    # 生成RSS
+    # # 生成RSS
     gen_rss()
     # 生成最新周刊
     gen_weekly_title(2023)
