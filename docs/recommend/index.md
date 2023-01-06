@@ -5,11 +5,13 @@
 
 ## 🎯 项目 
 
-### [yacd](https://github.com/haishanh/yacd)
+### [metabase](https://github.com/metabase/metabase)
 
-一个 `Clash` 仪表盘项目：
+为公司提供的快速BI数据可视化工具：
 
-![yacd](https://images-1252557999.file.myqcloud.com/uPic/yacd.png) 
+![metabase](https://images-1252557999.file.myqcloud.com/uPic/metabase.png)
+
+也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.cn/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease) 
 
 ### [penpot](https://github.com/penpot/penpot)
 
@@ -17,79 +19,75 @@
 
 ![penpot](https://images-1252557999.file.myqcloud.com/uPic/penpot.jpg) 
 
-### [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
+### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
 
-最近在开发一款微信小程序，第一次上手，发现还是很有意思的。这个项目收集了小程序开发的方方面面，如：工具、插件、组件、Demo等。
+最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
 
-基本上只要找一个开源的小程序，找一个示例跟着写，哪怕你没基础，也能很快开发一款自己的小程序出来，推荐。 
+- 提取文本
+- 提取图片
+- 提取表格
+- 提取链接
+- 对PDF进行相关编辑操作 
 
 ## 🤖 软件 
 
-### [antares](https://github.com/Fabio286/antares)
+### [buster](https://github.com/dessant/buster)
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
+`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
 
-![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
 
-### [bdash](https://github.com/bdash-app/bdash)
+### [organicmaps](https://github.com/organicmaps/organicmaps) 
 
-用于数据分析的简单 `SQL` 客户端：
+`organicmaps` 是一款免费的 Android 和 iOS 离线地图应用程序，适用于旅行者、游客、司机、徒步旅行者和自行车骑行者。它使用众包的 OpenStreetMap 数据，由 MapsWithMe 应用程序（后来更名为 Maps.Me）的创建者和社区共同开发。没有广告，没有跟踪，没有数据收集，没有垃圾软件：
 
-![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
+![organicmaps](https://images-1252557999.file.myqcloud.com/uPic/organicmaps.jpg) 
 
-### [Maccy](https://github.com/p0deje/Maccy)
+### [AltTab](https://alt-tab-macos.netlify.app/)
 
-轻量级macOS剪切板管理应用：
+`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
 
-![](https://img.turingark.com/uPic/t3XNpU.png)
-使用截图如下：
-
-![](https://img.turingark.com/uPic/SWZ6kJ.png) 
+![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
 
 ## 👀 资料 
 
-### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
 
-本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
+[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
 
-### [archbase](https://github.com/foxsen/archbase)
+![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
 
-这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+### [动手学OCR·十讲](https://aistudio.baidu.com/aistudio/course/introduce/25207)
 
-![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
+PaddleOCR的原创团队出的课程，课程内容涵盖基于深度学习的经典OCR检测识别算法、最新文档结构化技术以及千锤百炼的产业级模型与部署工具。通过广泛调研提炼了重要OCR算法的核心思想，实践部分不仅对代码重要细节做了深入分析，还会实时运行代码展示效果助大家加深理解。
 
-### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+![动手学OCR](https://img.turingark.com/uPic/tcg64l.png) 
 
-深度学习入门教程资料聚合项目，包含：
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-- 数学基础
-- 机器学习基础
-- 深度学习基础
-- 工程能力
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
 
-![dl01](https://img.turingark.com/uPic/532ono.jpg)
-
-![dl02](https://img.turingark.com/uPic/7I7Luc.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
 ## 🕸 网站 
 
-### [mycolor.space](https://mycolor.space/)：
+### [alternativeto](https://alternativeto.net/)
 
-渐变配色生成器，自动生成 `CSS` 代码：
+让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
 
-![mycolor](https://images-1252557999.file.myqcloud.com/uPic/mycolor.jpg) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
-### [extractcss](http://extractcss.com/)
+### [ouchn](https://le.ouchn.cn/#/home)
 
-提取 `html` 结构里面的 `css` 代码：
+国家开放大学终身教育平台正式上线，面向社会免费开放。该平台汇聚国家开放大学自建学习资源，338所知名高校课程资源免费开放、10个头部平台的特色课程等共计50万门，包含生活、职场、学历、兴趣等不同领域的课程。致力于满足社会大众多元化、个性化学习需求。
 
-![extractcss](https://images-1252557999.file.myqcloud.com/uPic/extractcss.jpg) 
+![ouchn](https://images-1252557999.file.myqcloud.com/uPic/ouchn.jpg) 
 
-### [seekflag](https://seekflag.com/)
+### [Ben Eater](https://eater.net/)
 
-网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
+博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
 
-![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
+![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
 
 ## ✍️ 说明
 
