@@ -49,13 +49,9 @@ def gen_weekly_content(years: int):
             if str(file).endswith(".md"):
                 # 目标文件
                 file_path = os.path.join(target_path, file)
-                title = re.compile(r"(.*?)\.md").search(file)[1]
+                # title = re.compile(r"(.*?)\.md").search(file)[1]
                 with open(file_path, "r", encoding="utf-8") as f:
-                    pf.write(
-                        f'<div class="page-break"></div>\n\n # {title}\n\n'
-                        + f.read()
-                        + "\n\n"
-                    )
+                    pf.write(f'<div class="page-break"></div>\n\n' + f.read() + "\n\n")
 
 
 def gen_weekly_title(years: int):
@@ -98,5 +94,5 @@ if __name__ == "__main__":
     # 生成RSS
     gen_rss()
     # 生成最新周刊
-    gen_weekly_title(2022)
-    # gen_weekly_content(2021)
+    gen_weekly_title(2023)
+    # gen_weekly_content(2022)

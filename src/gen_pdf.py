@@ -58,4 +58,4 @@ def gen_pdf(years: int, force_pdf: bool = True):
 
 
 if __name__ == "__main__":
-    gen_pdf(years=2021, force_pdf=True)
+    gen_pdf(years=2022, force_pdf=True)
