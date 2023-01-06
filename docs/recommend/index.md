@@ -5,94 +5,100 @@
 
 ## 🎯 项目 
 
-### [Restfox](https://github.com/flawiddsouza/Restfox)
+### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
 
-主打离线也能运行使用的 `Web HTTP` 客户端:
+最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
 
-![Restfox](https://images-1252557999.file.myqcloud.com/uPic/Restfox.png)
+- 提取文本
+- 提取图片
+- 提取表格
+- 提取链接
+- 对PDF进行相关编辑操作 
 
-之前也推荐过 [hoppscotch](https://weekly.howie6879.cn/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。 
+### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
 
-### [dicebear](https://github.com/dicebear/dicebear)
+`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
 
-供设计师和开发者使用的头像库。可根据传入的字符串，自动生成对应用户头像的库：
+![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
 
-![dicebear](https://images-1252557999.file.myqcloud.com/uPic/dicebear.jpg) 
+### [Free-TVUrl-Merge](https://github.com/vpei/Free-TVUrl-Merge)
 
-### [JD\_tencent\_scf](https://github.com/cweijan/JD_tencent_scf)
+免费 `TvBox` 影视站聚合，`TVBox、Pluto Player、猫影视TV` 等影视播放软件通用接口都可使用：
 
-这个项目简化了打京豆的脚本部署流程，每个月能打1500(不确定)左右。 
+![Free-TVUrl-Merge](https://images-1252557999.file.myqcloud.com/uPic/Free-TVUrl-Merge.png) 
 
 ## 🤖 软件 
 
-### [ptg](https://github.com/crossoverJie/ptg)
+### [Rayon](https://github.com/Lakr233/Rayon)
 
-让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
+一个`macOS`的上的`SSH`客户端：
 
-![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
+![rayon](https://img.turingark.com/uPic/rayon.png)
 
-### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
+软件特性：
 
-使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
+- 免费&开源
+- 支持 libssh2 的主机连接
+- Linux proc 文件系统状态信息
+- 使用密码、密钥等进行身份验证...
+- xterm 终端支持
+- 批处理执行代码片段 
 
-- 支持下载无水印视频
-- 支持下载某个账号号的所有视频
+### [MusicFree](https://github.com/maotoumao/MusicFree)
 
-![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
+插件化、定制化、无广告的免费音乐播放器，目前只支持 `Android` 和 `Harmony OS`：
 
-### [natpass](https://github.com/lwch/natpass)
+![freemusic](https://images-1252557999.file.myqcloud.com/uPic/freemusic.jpg) 
 
-新一代 NAT 内网穿透+shell+vnc 工具：
+### [CatchMouse](https://github.com/round/CatchMouse)
 
-![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
+如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
 
 ## 👀 资料 
 
-### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
+### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
 
-算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
+2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
 
-![Reflection Summary](https://img.turingark.com/uPic/WpauDu.png) 
+![](https://img.turingark.com/uPic/AHWB7M.jpg)
 
-### [hello-algo](https://github.com/krahets/hello-algo)
+更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
 
-[Hello 算法](https://www.hello-algo.com/)是一本动画图解、能运行、可提问的数据结构与算法入门书，本书面向数据结构与算法初学者，致力于达成以下目标：
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-- 开源免费，所有同学都可在网上获取本书；
-- 新手友好，适合算法初学者自主学习入门；
-- 动画讲解，尽可能地保证平滑的学习曲线；
-- 代码导向，提供精简、可运行的算法代码；
-- 讨论学习，提问一般能在三日内得到回复；
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-![hello-algo](https://images-1252557999.file.myqcloud.com/uPic/hello-algo.jpg) 
+![miaosha](https://img.turingark.com/uPic/WXcZTY.jpg) 
 
-### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
+### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
 
-一本基于`python&matplotlib`进行科学可视化的开源书籍：
+本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
 
-![scientific-visualization-book](https://img.turingark.com/uPic/scientific-visualization-book.jpg) 
+- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
+- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
+- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
+
+![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
 
 ## 🕸 网站 
 
-### [pixel-me](https://pixel-me.tokyo/en/)
+### [mycolor.space](https://mycolor.space/)：
 
-将你的头像像素化，质量挺好：
+渐变配色生成器，自动生成 `CSS` 代码：
 
-![](https://img.turingark.com/uPic/gnHdoM.png) 
+![mycolor](https://images-1252557999.file.myqcloud.com/uPic/mycolor.jpg) 
 
-### [the-algorithms](https://the-algorithms.com/zh_Hans)
+### [tldraw](https://www.tldraw.com/)
 
-`GitHub` 最大的开源算法库：
+小巧强大的在线绘图工具：
 
-![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
+![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
 
-### [unDraw](https://undraw.co/illustrations)
+### [studyhard](https://studyhard.cf/)
 
-你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
+📚各大高校课程资源汇总，在 `Github` 上大学：
 
-如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
-
-![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
+![studyhard](https://images-1252557999.file.myqcloud.com/uPic/studyhard.jpg) 
 
 ## ✍️ 说明
 
