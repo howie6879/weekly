@@ -5,104 +5,86 @@
 
 ## 🎯 项目 
 
-### [osquery](https://github.com/osquery/osquery)
+### [statping](https://github.com/statping/statping)
 
-像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
+一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
 
-![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
+![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
 
-### [rembg](https://github.com/danielgatis/rembg)
+### [aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse/)
 
-之前有介绍过一个去除图片背景的网站-[remove.bg](https://www.remove.bg/zh)，这网站虽然免费，但是高清版本的图片下载需要收费，现在这个开源的图片背景去除项目将完全解决这个问题：
+本项目则直接通过 FUSE 实现将阿里云盘挂载为本地磁盘，非常好用，我是这个项目作者的粉丝。 
 
-![rembg](https://img.turingark.com/uPic/rembg.jpg)
+### [naive-ui](https://github.com/tusen-ai/naive-ui)
 
-你可以作为第三方库使用，也在终端以及启用服务化来使用。 
+一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
 
-### [webvm](https://github.com/leaningtech/webvm)
-
-基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：[webvm.io](https://webvm.io/)。
-
-![webvm](https://img.turingark.com/uPic/1yRQBe.png)
-
-详细的介绍文章见：[WebVM: server-less x86 virtual machines in the browser](https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361)。 
+![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
 
 ## 🤖 软件 
 
-### [koodo-reader](https://github.com/troyeguo/koodo-reader)
+### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
 
-一个跨平台的电子书阅读器：
+安全、快速与轻量的远程桌面&文件管理工具：
 
-- 支持多达 15 种主流电子书格
-- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
-- 备份数据到  **Dropbox**  和  **Webdav**
-- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
-- 双页模式，单页模式，滚动模式
-- 听书功能，翻译功能，触控屏支持，批量导入图书
-- 支持目录，书签，笔记，高亮，书架，标签
-- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
-- 黑夜模式和主题色设置
+![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
 
-![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
+### [LawRefBook](https://github.com/RanKKI/LawRefBook)
 
-### [codeapp](https://github.com/thebaselab/codeapp)
+开源的法律知识速查手册：
 
-为 `iPad` 构建一个成熟的代码编辑器：
+![LawRefBook](https://img.turingark.com/uPic/LawRefBook.png) 
 
-![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
+### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 
-### [RustDesk](https://github.com/rustdesk/rustdesk)
+这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
 
-远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
+`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
 
-![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
+- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
+  
+- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
+  
+
+![neteasy](https://img.turingark.com/uPic/neteasy.png) 
 
 ## 👀 资料 
 
-### [whys-the-design](https://draven.co/whys-the-design/)
+### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
 
-为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
+本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
 
-![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
+![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
 
-### [TLCL](https://billie66.github.io/TLCL/book/)
+### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
 
-`The Linux Command Line` 中文翻译：
+公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
 
-![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
+### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
 
-### [穷佐罗的Linux书](https://zorrozou.github.io/)
+`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
 
-穷佐罗的Linux书，挺不错的一份`Linux`教程。
-
-![zorrozou](https://img.turingark.com/uPic/zorrozou.jpg) 
+![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
 
 ## 🕸 网站 
 
-### [RuTracker](https://rutracker.org/forum/index.php)
+### [toonme](https://toonme.com)
 
-俄罗斯最大的盗版网站开放了，可以去上面找资源了：
+该网站将原图绘制成可爱的卡通图片：
 
-![rutracker](https://img.turingark.com/uPic/rutracker.jpg) 
+![toonme](https://img.turingark.com/file/howie-img/uPic/toonme.jpg) 
 
-### [programcreek](https://www.programcreek.com/)
+### [docsmall](https://docsmall.com/)
 
-网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
+提供一些图片压缩、PDF合并分割小功能的网站：
 
-- [Python](https://www.programcreek.com/python/)
-- [Java](https://www.programcreek.com/java-api-examples/)
-- [C++](https://www.programcreek.com/cpp/)
-- [Scala](https://www.programcreek.com/scala/)
+![docsmall](https://img.turingark.com/uPic/smalldoc.png) 
 
-![programcreek](https://img.turingark.com/uPic/YdAEPq.png) 
+### [lucide](https://lucide.dev/)
 
-### [网道](https://wangdoc.com/)
+开源图标库，可以直接下载 `SVG`：
 
-前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
-
-目前提供了不少教程，对于初学者是非常友好的：
-
-![网道](https://img.turingark.com/uPic/PP2xqR.png) 
+![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
 
 ## ✍️ 说明
 
