@@ -44,14 +44,18 @@ def gen_weekly_content(years: int):
     """
     root_path = os.path.dirname(__file__)
     target_path = os.path.join(root_path, f"docs/{years}")
+
     with open(f"./{years}_weekly_all.md", "w", encoding="utf-8") as pf:
+        file_list = []
         for file in os.listdir(target_path):
             if str(file).endswith(".md"):
                 # 目标文件
                 file_path = os.path.join(target_path, file)
-                # title = re.compile(r"(.*?)\.md").search(file)[1]
-                with open(file_path, "r", encoding="utf-8") as f:
-                    pf.write(f'<div class="page-break"></div>\n\n' + f.read() + "\n\n")
+                file_list.append(file_path)
+
+        for each in sorted(file_list):
+            with open(each, "r", encoding="utf-8") as f:
+                pf.write(f'<div class="page-break"></div>\n\n' + f.read() + "\n\n")
 
 
 def gen_weekly_title(years: int):
@@ -89,10 +93,12 @@ def gen_weekly_title(years: int):
 
 
 if __name__ == "__main__":
+    # 生成年度周刊内容合集
+    gen_weekly_content(2022)
+    exit()
     # 持久化周刊到DB
     parse_md()
-    # # 生成RSS
+    # 生成RSS
     gen_rss()
     # 生成最新周刊
     gen_weekly_title(2023)
-    # gen_weekly_content(2022)
