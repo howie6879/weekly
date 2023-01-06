@@ -5,86 +5,88 @@
 
 ## 🎯 项目 
 
-### [statping](https://github.com/statping/statping)
+### [whoogle-search](https://github.com/benbusby/whoogle-search)
 
-一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
+这个项目是这周我看到项目中最喜欢的，它是一个元搜索引擎，简单来说**元搜索引擎**就是汇总第三方搜索引擎结果的一个搜索引擎（这里主要使用的是谷歌），它具有以下特点：
 
-![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
+- 自部署
+- 去广告
+- 去追踪
+- 自定义
 
-### [aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse/)
+如果你有自己的服务器，可以尝试一下，我自己用了几天，非常喜欢上面的特性，感觉特别棒，已经升级成我的默认搜索引擎了：
 
-本项目则直接通过 FUSE 实现将阿里云盘挂载为本地磁盘，非常好用，我是这个项目作者的粉丝。 
+![Whoogle](https://img.turingark.com/uPic/mUGf6O.png) 
 
-### [naive-ui](https://github.com/tusen-ai/naive-ui)
+### [budibase](https://github.com/Budibase/budibase)
 
-一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
+`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
 
-![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
+![budibase](https://img.turingark.com/uPic/bCfcQe.jpg) 
+
+### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
+
+Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.cn/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
 
 ## 🤖 软件 
 
-### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
+### [automa](https://github.com/Kholid060/automa)
 
-安全、快速与轻量的远程桌面&文件管理工具：
+`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
 
-![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
+![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
 
-### [LawRefBook](https://github.com/RanKKI/LawRefBook)
+### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
-开源的法律知识速查手册：
+用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
 
-![LawRefBook](https://img.turingark.com/uPic/LawRefBook.png) 
+![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
 
-### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
+### [RedFish](https://github.com/Kuari/RedFish)
 
-这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
+一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
 
-`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
-
-- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
-  
-- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
-  
-
-![neteasy](https://img.turingark.com/uPic/neteasy.png) 
+![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
 
 ## 👀 资料 
 
-### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
+### [nlp-with-transformers](https://github.com/nlp-with-transformers)
 
-本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
+书籍《基于Transformers的自然语言处理》的代码仓库：
 
-![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
+![](https://img.turingark.com/uPic/A6MiF5.jpg) 
 
-### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
+### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
 
-公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
+Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
 
-### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
+![eng-practices](https://img.turingark.com/uPic/rDrm0R.png) 
 
-`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
+### [comprehensive-rust](https://google.github.io/comprehensive-rust/welcome.html)
 
-![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
+谷歌出品的四天学习 `Rust` 👀
+
+![comprehensive-rust](https://images-1252557999.file.myqcloud.com/uPic/comprehensive-rust.jpg) 
 
 ## 🕸 网站 
 
-### [toonme](https://toonme.com)
+### [futurecoder](https://futurecoder.io/course/#ide)
 
-该网站将原图绘制成可爱的卡通图片：
+一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
 
-![toonme](https://img.turingark.com/file/howie-img/uPic/toonme.jpg) 
+![futurecoder](https://img.turingark.com/uPic/futurecoder.jpg) 
 
-### [docsmall](https://docsmall.com/)
+### [devdocs](https://devdocs.io/)
 
-提供一些图片压缩、PDF合并分割小功能的网站：
+提供在线快速查找API接口文档的网站：
 
-![docsmall](https://img.turingark.com/uPic/smalldoc.png) 
+![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
 
-### [lucide](https://lucide.dev/)
+### [zerossl](https://zerossl.com/)
 
-开源图标库，可以直接下载 `SVG`：
+一个可以免费签 IP 地址 SSL 证书的网站：
 
-![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
+![zerossl](https://img.turingark.com/uPic/zerossl.jpg) 
 
 ## ✍️ 说明
 
