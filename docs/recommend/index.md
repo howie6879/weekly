@@ -5,88 +5,95 @@
 
 ## 🎯 项目 
 
-### [whoogle-search](https://github.com/benbusby/whoogle-search)
+### [rembg](https://github.com/danielgatis/rembg)
 
-这个项目是这周我看到项目中最喜欢的，它是一个元搜索引擎，简单来说**元搜索引擎**就是汇总第三方搜索引擎结果的一个搜索引擎（这里主要使用的是谷歌），它具有以下特点：
+之前有介绍过一个去除图片背景的网站-[remove.bg](https://www.remove.bg/zh)，这网站虽然免费，但是高清版本的图片下载需要收费，现在这个开源的图片背景去除项目将完全解决这个问题：
 
-- 自部署
-- 去广告
-- 去追踪
-- 自定义
+![rembg](https://img.turingark.com/uPic/rembg.jpg)
 
-如果你有自己的服务器，可以尝试一下，我自己用了几天，非常喜欢上面的特性，感觉特别棒，已经升级成我的默认搜索引擎了：
+你可以作为第三方库使用，也在终端以及启用服务化来使用。 
 
-![Whoogle](https://img.turingark.com/uPic/mUGf6O.png) 
+### [umami](https://github.com/umami-software/umami)
 
-### [budibase](https://github.com/Budibase/budibase)
+`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
 
-`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
+![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
 
-![budibase](https://img.turingark.com/uPic/bCfcQe.jpg) 
+### [LightBook](https://github.com/underthestars-zhy/LightBook)
 
-### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
+开源的小说下载脚本项目，输出格式为 `EPUB`：
 
-Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.cn/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
+![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
 
 ## 🤖 软件 
 
-### [automa](https://github.com/Kholid060/automa)
+### [ChatGPT](https://github.com/lencx/ChatGPT)
 
-`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
+基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
 
-![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
+- 历史聊天记录导出(PNG, PDF & Share Link)
+- 快捷键&系统托盘
+- 集成 [chatgpt prompt](https://prompts.chat/)
 
-### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
+![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
 
-用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
+作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
 
-![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
+### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-### [RedFish](https://github.com/Kuari/RedFish)
+监控你的应用流量，跨平台：
 
-一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
+![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
 
-![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
+### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
+
+一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
+
+![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
 
 ## 👀 资料 
 
-### [nlp-with-transformers](https://github.com/nlp-with-transformers)
+### [meetup](https://github.com/baiyutang/meetup)
 
-书籍《基于Transformers的自然语言处理》的代码仓库：
+【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
 
-![](https://img.turingark.com/uPic/A6MiF5.jpg) 
+![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
 
-### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
+### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
 
-Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+中国5级行政区域mysql库：
 
-![eng-practices](https://img.turingark.com/uPic/rDrm0R.png) 
+- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
+- 港澳地区的数据只有3级;台湾地区4级
+- 包含大陆地区的邮政编码和经纬度信息 
 
-### [comprehensive-rust](https://google.github.io/comprehensive-rust/welcome.html)
+### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
 
-谷歌出品的四天学习 `Rust` 👀
+阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
 
-![comprehensive-rust](https://images-1252557999.file.myqcloud.com/uPic/comprehensive-rust.jpg) 
+![c](https://img.turingark.com/uPic/4uYTRJ.png) 
 
 ## 🕸 网站 
 
-### [futurecoder](https://futurecoder.io/course/#ide)
+### [linggle](https://linggle.com/)
 
-一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
+免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
 
-![futurecoder](https://img.turingark.com/uPic/futurecoder.jpg) 
+![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
 
-### [devdocs](https://devdocs.io/)
+### [ipdetective](https://ipdetective.io/api)
 
-提供在线快速查找API接口文档的网站：
+检测 `ip` 是否是机器人：
 
-![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
+![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
 
-### [zerossl](https://zerossl.com/)
+### [网道](https://wangdoc.com/)
 
-一个可以免费签 IP 地址 SSL 证书的网站：
+前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
 
-![zerossl](https://img.turingark.com/uPic/zerossl.jpg) 
+目前提供了不少教程，对于初学者是非常友好的：
+
+![网道](https://img.turingark.com/uPic/PP2xqR.png) 
 
 ## ✍️ 说明
 
