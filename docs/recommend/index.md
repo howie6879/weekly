@@ -5,80 +5,71 @@
 
 ## 🎯 项目 
 
-### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
+### [yacd](https://github.com/haishanh/yacd)
 
-最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
+一个 `Clash` 仪表盘项目：
 
-- 提取文本
-- 提取图片
-- 提取表格
-- 提取链接
-- 对PDF进行相关编辑操作 
+![yacd](https://images-1252557999.file.myqcloud.com/uPic/yacd.png) 
 
-### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
+### [penpot](https://github.com/penpot/penpot)
 
-`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
+`Penpot` 是第一个面向跨领域团队的开源设计和原型平台，基于 `Web`，对标 `Figma`:
 
-![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
+![penpot](https://images-1252557999.file.myqcloud.com/uPic/penpot.jpg) 
 
-### [Free-TVUrl-Merge](https://github.com/vpei/Free-TVUrl-Merge)
+### [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
 
-免费 `TvBox` 影视站聚合，`TVBox、Pluto Player、猫影视TV` 等影视播放软件通用接口都可使用：
+最近在开发一款微信小程序，第一次上手，发现还是很有意思的。这个项目收集了小程序开发的方方面面，如：工具、插件、组件、Demo等。
 
-![Free-TVUrl-Merge](https://images-1252557999.file.myqcloud.com/uPic/Free-TVUrl-Merge.png) 
+基本上只要找一个开源的小程序，找一个示例跟着写，哪怕你没基础，也能很快开发一款自己的小程序出来，推荐。 
 
 ## 🤖 软件 
 
-### [Rayon](https://github.com/Lakr233/Rayon)
+### [antares](https://github.com/Fabio286/antares)
 
-一个`macOS`的上的`SSH`客户端：
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-![rayon](https://img.turingark.com/uPic/rayon.png)
+![](https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
-软件特性：
+### [bdash](https://github.com/bdash-app/bdash)
 
-- 免费&开源
-- 支持 libssh2 的主机连接
-- Linux proc 文件系统状态信息
-- 使用密码、密钥等进行身份验证...
-- xterm 终端支持
-- 批处理执行代码片段 
+用于数据分析的简单 `SQL` 客户端：
 
-### [MusicFree](https://github.com/maotoumao/MusicFree)
+![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
 
-插件化、定制化、无广告的免费音乐播放器，目前只支持 `Android` 和 `Harmony OS`：
+### [Maccy](https://github.com/p0deje/Maccy)
 
-![freemusic](https://images-1252557999.file.myqcloud.com/uPic/freemusic.jpg) 
+轻量级macOS剪切板管理应用：
 
-### [CatchMouse](https://github.com/round/CatchMouse)
+![](https://img.turingark.com/uPic/t3XNpU.png)
+使用截图如下：
 
-如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
+![](https://img.turingark.com/uPic/SWZ6kJ.png) 
 
 ## 👀 资料 
 
-### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
+### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
-2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
+本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
 
-![](https://img.turingark.com/uPic/AHWB7M.jpg)
+### [archbase](https://github.com/foxsen/archbase)
 
-更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
 
-### [miaosha](https://github.com/qiurunze123/miaosha)
+![archbase](https://img.turingark.com/uPic/dUVvGI.png) 
 
-高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-![miaosha](https://img.turingark.com/uPic/WXcZTY.jpg) 
+深度学习入门教程资料聚合项目，包含：
 
-### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
 
-本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
+![dl01](https://img.turingark.com/uPic/532ono.jpg)
 
-- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
-- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
-- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
-
-![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
+![dl02](https://img.turingark.com/uPic/7I7Luc.jpg) 
 
 ## 🕸 网站 
 
@@ -88,17 +79,17 @@
 
 ![mycolor](https://images-1252557999.file.myqcloud.com/uPic/mycolor.jpg) 
 
-### [tldraw](https://www.tldraw.com/)
+### [extractcss](http://extractcss.com/)
 
-小巧强大的在线绘图工具：
+提取 `html` 结构里面的 `css` 代码：
 
-![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
+![extractcss](https://images-1252557999.file.myqcloud.com/uPic/extractcss.jpg) 
 
-### [studyhard](https://studyhard.cf/)
+### [seekflag](https://seekflag.com/)
 
-📚各大高校课程资源汇总，在 `Github` 上大学：
+网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
 
-![studyhard](https://images-1252557999.file.myqcloud.com/uPic/studyhard.jpg) 
+![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
 
 ## ✍️ 说明
 
