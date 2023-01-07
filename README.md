@@ -5,7 +5,7 @@
 我的信息周刊，每周记录我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个**留存**以及**共享**。当前阅读渠道如下：
 
 - [网站](https://weekly.howie6879.cn/)
-- [公众号](https://img.turingark.com/uPic/wechat_mp.jpeg)
+- [公众号](https://img.turingark.com/wechat_howie.png)
 - [周刊RSS](https://weekly.howie6879.cn/rss/rss.xml)
 - [今日推荐](https://weekly.howie6879.cn/recommend)
 
@@ -35,7 +35,7 @@
 
 ## 交流
 
-欢迎关注公众号一起交流（每周在公众号首发）：
+欢迎关注[公众号](https://img.turingark.com/wechat_howie.pn)|[博客](https://howie6879.cn/)一起交流（每周在公众号首发）：
 
 <div align=center><img src="https://img.turingark.com/wechat_howie.png"  width="85%" alt="img" /></div>
 
