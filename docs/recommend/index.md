@@ -5,90 +5,81 @@
 
 ## 🎯 项目 
 
-### [laf](https://github.com/labring/laf)
+### crontab-ui
 
-laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
+提供简单安全的方式来管理 `crontab`:
 
-- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
-- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
-- 云数据库，为应用开发提供开箱即用的数据库服务
-- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
-- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
-- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
-- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
-- WebSocket，应用支持长连接，业务无死角
+![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
 
-![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
+### [mkcert](https://github.com/FiloSottile/mkcert)
 
-### [pushdeer](https://github.com/easychen/pushdeer)
+`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
 
-开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备：
+![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
 
-![pushdeer](https://images-1252557999.file.myqcloud.com/uPic/pushdeer.jpg) 
+### [Navidrome](https://github.com/navidrome/navidrome)
 
-### [QRec](https://github.com/Coder-Yu/QRec)
+`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
 
-Python编写的推荐系统快速实践框架（基于TF），和之前推荐的[gorse](https://weekly.howie6879.cn/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E6%8E%A8%E8%8D%90#gorse)有点类似，但不同的是QRec提供了领先的推荐系统模型用于实践。 
+![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
 
 ## 🤖 软件 
 
-### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
+### [unclutter](https://github.com/lindylearn/unclutter)
 
-`Clash for Android`，具有 `Clash` 的全部特性：
+阅读插件，将网页内容快速转成美观的阅读模式：
 
-![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
+![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+### [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
-LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
+`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
 
-![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
+![appflowy](https://img.turingark.com/uPic/JhzdLT.jpg) 
 
-### [ShareX](https://github.com/ShareX/ShareX)
+### [lapce](https://github.com/lapce/lapce)
 
-`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
+基于`Rust`的强大、轻量快速的代码编辑器：
 
-![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
+![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
 
 ## 👀 资料 
 
-### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
+### [English-Writing](https://github.com/yzy1996/English-Writing)
 
-技术面试最后反问面试官的话。 
+本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
-### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
+### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
-教程：小型金融知识图谱流程示范。 
+清华大学计算机系课程攻略：
 
-### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
+![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
 
-本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
-- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
-- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
 
-![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
+![ML](https://img.turingark.com/uPic/R26HG2.png) 
 
 ## 🕸 网站 
-
-### [http.cat](https://http.cat)
-
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
-
-![http_cat](https://img.turingark.com/uPic/http_cat.jpg) 
-
-### flomoapp
-
-flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
-
-![flomoapp](https://img.turingark.com/uPic/6G6qrd.jpg) 
 
 ### [sayhello](https://beta.sayhello.so/)
 
 面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
 ![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+
+### [websequencediagrams](https://www.websequencediagrams.com/)
+
+提供在线绘制时序图的网站：
+
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+
+### [alleyread](https://alleyread.com/)
+
+发现优质 `Newsletter`：
+
+![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
 
 ## ✍️ 说明
 
