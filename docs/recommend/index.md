@@ -5,55 +5,62 @@
 
 ## 🎯 项目 
 
-### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+### [tiptop](https://github.com/nschloe/tiptop)
 
-免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
+类似`htop`的命令行系统资源监控工具：
 
-![rxresu](https://img.turingark.com/uPic/rxresu.jpg) 
+![tiptop](https://img.turingark.com/uPic/tiptop.png) 
 
-### [diagrams](https://github.com/mingrammer/diagrams)
+### [go-daily-lib](https://github.com/darjun/go-daily-lib)
 
-用 `Python` 代码绘制云原生架构图：
+每天学习一个 Go 语言库，内容质量相当高。
 
-![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
+![go-daily-lib](https://img.turingark.com/uPic/4Ippyf.png) 
 
-### [DataEase](https://github.com/dataease/dataease)
+### [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
 
-DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
+最近在开发一款微信小程序，第一次上手，发现还是很有意思的。这个项目收集了小程序开发的方方面面，如：工具、插件、组件、Demo等。
+
+基本上只要找一个开源的小程序，找一个示例跟着写，哪怕你没基础，也能很快开发一款自己的小程序出来，推荐。 
 
 ## 🤖 软件 
 
-### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
+### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
 
-ImageOptim 是一款开源免费的本地图像压缩工具：
+针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.cn/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
 
-![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
+![netease-music-crx](https://img.turingark.com/uPic/rkgRfw.png) 
 
-我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
+### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
 
-- [Imagine](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
-- [webutils](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
-- [tinypng](https://weekly.howie6879.cn/2022/01-31~02-05.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
-- [tanpok](https://weekly.howie6879.cn/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
-- [docsmall](https://weekly.howie6879.cn/2021/10-18~10-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#vue-color-avatar)：提供一些图片压缩、PDF合并分割小功能的网站 
+安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
 
-### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+- [美团买菜版本](https://github.com/qulingyuan/robVeg)
+- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
 
-针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
+### [Readhubn](https://github.com/shensven/Readhubn)
 
-![CodeEdit](https://img.turingark.com/uPic/CodeEdit.png) 
+如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
 
-### [downkyi](https://github.com/leiurayer/downkyi)
-
-Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
-
-![downkyi](https://images-1252557999.file.myqcloud.com/uPic/downkyi.png) 
+![readhub](https://img.turingark.com/uPic/pZfUjT.png) 
 
 ## 👀 资料 
 
-### [xjq7/books](https://github.com/xjq7/books)
+### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
 
-电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
+基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
+
+- NLP
+- CV
+- Time Series
+
+目录概览：
+
+![Pytorch](https://img.turingark.com/uPic/kSUA40.png) 
+
+### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
+
+互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
 
 ### [docker-practice](https://vuepress.mirror.docker-practice.com/)
 
@@ -61,31 +68,25 @@ Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持�
 
 ![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
 
-### [2d2d](https://2d2d.io/)
-
-《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建我开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
-
-![2d2d](https://img.turingark.com/uPic/2d2d.jpg) 
-
 ## 🕸 网站 
 
-### [sysmini](https://www.sysmini.com/)
+### [star-history](https://star-history.com/)
 
-站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
+在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
 
-![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
+![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
 
-### [pixel](https://aqeja.github.io/pixel/)
+### [huawei-od](https://huawei-od.vercel.app/)
 
-一个小工具，将你的图片像素化:
+牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
 
-![;'](https://img.turingark.com/uPic/KfJuhM.png) 
+![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
 
-### [maeda-design-room](https://dotown.maeda-design-room.net/)
+### [sayhello](https://beta.sayhello.so/)
 
-免费可商用的像素画素材站，由前任天堂设计师成立的前田工作室制作，有12个分类700多个素材：
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-![maeda-design-room](https://img.turingark.com/uPic/DRpEV6.png) 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
 ## ✍️ 说明
 
