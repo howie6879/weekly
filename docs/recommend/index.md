@@ -5,87 +5,99 @@
 
 ## 🎯 项目 
 
-### [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
+### [dub](https://github.com/steven-tey/dub)
 
-这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。此项目从书籍、网站、工具、笔记、任务管理等角度推荐怎么提升个人生产力。 
+开源的短链接服务，可以自定义域名且进行相关指标分析：
 
-### [ui-buttons/core](https://github.com/ui-buttons/core)
+![dub](https://images-1252557999.file.myqcloud.com/uPic/dub.png)
 
-CSS 按钮样式集合，此项目实现了 100 种不同的现代化的样式按钮：
+还有一个同类型的开源产品 [YOURLS](https://github.com/YOURLS/YOURLS)，也很不错，功能也能覆盖上面。 
 
-![ui-buttons](https://images-1252557999.file.myqcloud.com/uPic/ui-buttons.png) 
+### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
 
-### [Verdaccio](https://github.com/verdaccio/verdaccio)
+`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
 
-`Verdaccio` 是一个 `Node.js` 创建的轻量的私有 `npm proxy registry`：
+![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
 
-![Verdaccio](https://images-1252557999.file.myqcloud.com/uPic/CRinc4.jpg) 
+### [wallabag](https://github.com/wallabag/wallabag)
+
+一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
+
+- 浏览器插件收集网页信息
+- 安卓/IOS/网页端阅读以及管理
+
+![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
 
 ## 🤖 软件 
 
-### [Imagine](https://github.com/meowtec/Imagine)
+### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
-全平台支持的图片压缩软件：
+针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
 
-![Imagine](https://img.turingark.com/uPic/KrSb9L.png)
+![CodeEdit](https://img.turingark.com/uPic/CodeEdit.png) 
 
-看看这86%的压缩率还是挺上头的，而且效果很好。 
+### [Responsively](https://github.com/responsively-org/responsively-app)
 
-### [organicmaps](https://github.com/organicmaps/organicmaps) 
+一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
 
-`organicmaps` 是一款免费的 Android 和 iOS 离线地图应用程序，适用于旅行者、游客、司机、徒步旅行者和自行车骑行者。它使用众包的 OpenStreetMap 数据，由 MapsWithMe 应用程序（后来更名为 Maps.Me）的创建者和社区共同开发。没有广告，没有跟踪，没有数据收集，没有垃圾软件：
+![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
 
-![organicmaps](https://images-1252557999.file.myqcloud.com/uPic/organicmaps.jpg) 
+### [Bob](https://github.com/ripperhe/Bob)
 
-### [ReadYou](https://github.com/Ashinch/ReadYou)
+同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
 
-这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
-
-![ReadYou](https://img.turingark.com/uPic/ReadYou.jpg) 
+- [x]   划词翻译
+- [x]   截图翻译
+- [x]   输入翻译
+- [x]   翻译多开
+- [x]   自定义插件
+- [x]   自动识别语种
+- [x]   驼峰拆分、蛇形拆分
+- [x]   AppleScript 调用
+- [x]   PopClip 调用 
 
 ## 👀 资料 
 
-### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
+### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
 
-Go语言实战: 编写可维护Go语言代码建议。 
+一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
 
-### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
+![](https://img.turingark.com/uPic/96wIDJ.png) 
 
-针对新人的 `CSS` 入门级教程：
+### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
 
-![](https://img.turingark.com/uPic/EnSWJn.png)
+对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
 
-在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
+### [sideproject](https://sideproject.guide/)
 
-### [MDN Web Docs](https://github.com/mdn/translated-content)
+`Side Project` 指南：
 
-`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
 
-![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
 
 ## 🕸 网站 
 
-### [myfirstnft](https://myfirstnft.info/)
+### [docsmall](https://docsmall.com/)
 
-我的第一个NFT，在这个网站，你可以：
+提供一些图片压缩、PDF合并分割小功能的网站：
 
-- 理解NFT的价值
-- 铸造一个免费的NFT
-- 了解Web3.0
+![docsmall](https://img.turingark.com/uPic/smalldoc.png) 
 
-![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
+### [sao.fm](https://sao.fm/)
 
-### [pixel-me](https://pixel-me.tokyo/en/)
+一个在线听广播电台的网站：
 
-将你的头像像素化，质量挺好：
+![sao.fm](https://img.turingark.com/uPic/sao.fm.jpg) 
 
-![](https://img.turingark.com/uPic/gnHdoM.png) 
+### [useanimations](https://useanimations.com/)
 
-### [1loc](https://1loc.dev/)
+前端动态 `UI` 样式集合：
 
-一行 `js` 代码，可以实现哪些基础功能？这个网站做了汇总：
-
-![1loc](https://images-1252557999.file.myqcloud.com/uPic/1loc.jpg) 
+![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
 
 ## ✍️ 说明
 
