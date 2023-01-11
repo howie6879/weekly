@@ -5,99 +5,117 @@
 
 ## 🎯 项目 
 
-### [dub](https://github.com/steven-tey/dub)
+### [Cloudreve](https://github.com/cloudreve/Cloudreve)
 
-开源的短链接服务，可以自定义域名且进行相关指标分析：
+支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
 
-![dub](https://images-1252557999.file.myqcloud.com/uPic/dub.png)
+- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
+- 📤  上传/下载 支持客户端直传，支持下载限速
+- 💾  可对接 Aria2 离线下载
+- 📚  在线 压缩/解压缩、多文件打包下载
+- 💻  覆盖全部存储策略的 WebDAV 协议支持
+- ⚡  拖拽上传、目录上传、流式上传处理
+- 🗃️  文件拖拽管理
+- 👩‍👧‍👦  多用户、用户组
+- 🔗  创建文件、目录的分享链接，可设定自动过期
+- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
+- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
+- 🚀  All-In-One 打包，开箱即用
+- 🌈  ... ...
 
-还有一个同类型的开源产品 [YOURLS](https://github.com/YOURLS/YOURLS)，也很不错，功能也能覆盖上面。 
+![Cloudreve](https://img.turingark.com/uPic/opzEP2.jpg) 
 
-### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
+### [pico.css](https://github.com/picocss/pico)
 
-`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
+简单优雅小巧的轻量级CSS框架，特性如下：
 
-![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
+- 尽量使用原生的HTML语义，上手简单
+- 仅使用CSS，无依赖
+- 在所有设备上都有优雅且一致的响应式排版
+- 默认支持亮/黑模式 
 
-### [wallabag](https://github.com/wallabag/wallabag)
+### [penpot](https://github.com/penpot/penpot)
 
-一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
+`Penpot` 是第一个面向跨领域团队的开源设计和原型平台，基于 `Web`，对标 `Figma`:
 
-- 浏览器插件收集网页信息
-- 安卓/IOS/网页端阅读以及管理
-
-![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
+![penpot](https://images-1252557999.file.myqcloud.com/uPic/penpot.jpg) 
 
 ## 🤖 软件 
 
-### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+### [Seal](https://github.com/JunkFood02/Seal)
 
-针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
+一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
 
-![CodeEdit](https://img.turingark.com/uPic/CodeEdit.png) 
+- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
+- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
+- 播放列表下载支持
+- 内嵌字幕于视频文件中
+- 执行自定义的 yt-dlp 命令模板
+- 管理应用内下载与自定义命令模板
+- 使用简单、用户友好
+- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
+- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
+    
+![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
 
-### [Responsively](https://github.com/responsively-org/responsively-app)
+### [hetty](https://github.com/dstotijn/hetty)
 
-一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
+`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
 
-![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
+![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
 
-### [Bob](https://github.com/ripperhe/Bob)
+### [MusicFree](https://github.com/maotoumao/MusicFree)
 
-同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
+插件化、定制化、无广告的免费音乐播放器，目前只支持 `Android` 和 `Harmony OS`：
 
-- [x]   划词翻译
-- [x]   截图翻译
-- [x]   输入翻译
-- [x]   翻译多开
-- [x]   自定义插件
-- [x]   自动识别语种
-- [x]   驼峰拆分、蛇形拆分
-- [x]   AppleScript 调用
-- [x]   PopClip 调用 
+![freemusic](https://images-1252557999.file.myqcloud.com/uPic/freemusic.jpg) 
 
 ## 👀 资料 
 
-### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
+### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
 
-一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
+开源书籍，`Prometheus`  操作指南：
 
-![](https://img.turingark.com/uPic/96wIDJ.png) 
+![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
 
-### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
+### [pdai](https://pdai.tech/)
 
-对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
+Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
 
-### [sideproject](https://sideproject.guide/)
+![pdai](https://img.turingark.com/uPic/8oZW41.png) 
 
-`Side Project` 指南：
+### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
+
+- 入侵排查
+- 日志分析
+- 权限维持
+- Windows实战
+- Linux实战
+- Web实战 
 
 ## 🕸 网站 
 
-### [docsmall](https://docsmall.com/)
+### [storyset](https://storyset.com/)
 
-提供一些图片压缩、PDF合并分割小功能的网站：
+来自读者@妙才的投稿，这个网站提供了大量精美免费的插图，可以应用于你的项目：
 
-![docsmall](https://img.turingark.com/uPic/smalldoc.png) 
+![storyset](https://img.turingark.com/uPic/Jm5cJY.png) 
 
-### [sao.fm](https://sao.fm/)
+### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
 
-一个在线听广播电台的网站：
+一个搜索 git 常用 emoji 的网站:
 
-![sao.fm](https://img.turingark.com/uPic/sao.fm.jpg) 
+![git-emoji-user-guide](https://img.turingark.com/uPic/sILZG1.png) 
 
-### [useanimations](https://useanimations.com/)
+### [regexlearn](https://regexlearn.com)
 
-前端动态 `UI` 样式集合：
+一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
 
-![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
+![regexlearn](https://img.turingark.com/uPic/yUZ5N4.png) 
 
 ## ✍️ 说明
 
