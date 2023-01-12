@@ -5,6 +5,18 @@
 
 ## 🎯 项目 
 
+### [dootask](https://github.com/kuaifan/dootask)
+
+DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
+
+![dootask](https://img.turingark.com/uPic/tYiTA7.png) 
+
+### [Dasherr](https://github.com/erohtar/Dasherr)
+
+简单轻量自部署的仪表盘工具：
+
+![Dasherr](https://images-1252557999.file.myqcloud.com/uPic/Dasherr.png) 
+
 ### [Cloudreve](https://github.com/cloudreve/Cloudreve)
 
 支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
@@ -25,97 +37,81 @@
 
 ![Cloudreve](https://img.turingark.com/uPic/opzEP2.jpg) 
 
-### [pico.css](https://github.com/picocss/pico)
-
-简单优雅小巧的轻量级CSS框架，特性如下：
-
-- 尽量使用原生的HTML语义，上手简单
-- 仅使用CSS，无依赖
-- 在所有设备上都有优雅且一致的响应式排版
-- 默认支持亮/黑模式 
-
-### [penpot](https://github.com/penpot/penpot)
-
-`Penpot` 是第一个面向跨领域团队的开源设计和原型平台，基于 `Web`，对标 `Figma`:
-
-![penpot](https://images-1252557999.file.myqcloud.com/uPic/penpot.jpg) 
-
 ## 🤖 软件 
 
-### [Seal](https://github.com/JunkFood02/Seal)
+### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
 
-一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
+基于 Electron + Vue + ffmpeg 的 GUI：
 
-- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
-- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
-- 播放列表下载支持
-- 内嵌字幕于视频文件中
-- 执行自定义的 yt-dlp 命令模板
-- 管理应用内下载与自定义命令模板
-- 使用简单、用户友好
-- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
-- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
-    
-![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
+![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
 
-### [hetty](https://github.com/dstotijn/hetty)
+### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
 
-`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
+网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
 
-![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
+![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
 
-### [MusicFree](https://github.com/maotoumao/MusicFree)
+### [NetNewsWire](https://netnewswire.com/)
 
-插件化、定制化、无广告的免费音乐播放器，目前只支持 `Android` 和 `Harmony OS`：
+适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
 
-![freemusic](https://images-1252557999.file.myqcloud.com/uPic/freemusic.jpg) 
+- 支持 Safari 扩展
+- 订阅源下载
+- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
+- 主题设置
+- 多窗口支持
+
+![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
 
 ## 👀 资料 
 
-### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-开源书籍，`Prometheus`  操作指南：
+夯实计算机基础，该怎么学，这个项目给出了答案：
 
-![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
+![TeachYourselfCS](https://img.turingark.com/uPic/hKl2yK.png) 
 
-### [pdai](https://pdai.tech/)
+### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
 
-Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
+《结网》作者王坚的开源新书：
 
-![pdai](https://img.turingark.com/uPic/8oZW41.png) 
+![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
 
-### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
+### [Python源码剖析](https://fasionchan.com/python-source/)
 
-应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
+本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
 
-这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
-
-- 入侵排查
-- 日志分析
-- 权限维持
-- Windows实战
-- Linux实战
-- Web实战 
+![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
 
 ## 🕸 网站 
 
-### [storyset](https://storyset.com/)
+### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
 
-来自读者@妙才的投稿，这个网站提供了大量精美免费的插图，可以应用于你的项目：
+作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
 
-![storyset](https://img.turingark.com/uPic/Jm5cJY.png) 
+![](https://img.turingark.com/uPic/bdd-3d.png)
 
-### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
 
-一个搜索 git 常用 emoji 的网站:
+感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
 
-![git-emoji-user-guide](https://img.turingark.com/uPic/sILZG1.png) 
+### [fontawesome](https://fontawesome.com/icons/)
 
-### [regexlearn](https://regexlearn.com)
+比较完善全面的图标网站：
 
-一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
+![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
 
-![regexlearn](https://img.turingark.com/uPic/yUZ5N4.png) 
+### [dute](https://www.dute.org/)
+
+独特工具箱，提供免费在线工具，涉及工具类别有：
+
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
+
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
 ## ✍️ 说明
 
