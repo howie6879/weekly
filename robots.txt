@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://weekly.howie6879.cn/sitemap.xml
