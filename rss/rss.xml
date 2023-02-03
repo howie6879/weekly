@@ -2,17 +2,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>老胡的周刊</title>
-    <link>https://github.com/howie6879/weekly</link>
+    <link>https://weekly.howie6879.cn/</link>
     <description>我的信息周刊，每周记录我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个留存以及共享。</description>
-    <atom:link href="https://github.com/howie6879/weekly" rel="self"/>
+    <atom:link href="https://weekly.howie6879.cn/" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>howie6879/weekly</generator>
     <image>
       <url>https://images-1252557999.file.myqcloud.com/uPic/howie.jpg</url>
       <title>老胡的周刊</title>
-      <link>https://github.com/howie6879/weekly</link>
+      <link>https://weekly.howie6879.cn/</link>
     </image>
-    <lastBuildDate>Fri, 03 Feb 2023 07:39:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Feb 2023 10:00:58 +0000</lastBuildDate>
     <item>
       <title>01-31~02-05.我的周刊（第077期）.md</title>
       <link>https://weekly.howie6879.cn//2023/01-31~02-05.我的周刊（第077期）.html</link>
