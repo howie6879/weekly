@@ -1,0 +1,25 @@
+body {
+  font-family: "LXGW WenKai Screen R", Calibri, Arial, sans-serif;
+  color: rgba(36, 41, 47, 0.9);
+}
+
+div.md-container img {
+  display: block;
+  box-shadow: 0 0 10px #555;
+  border-radius: 6px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  -webkit-box-shadow: 0 0 10px #555;
+}
+
+.md-tabs__link {
+  font-size: 0.77rem !important;
+  color: #121111;
+}
+
+.md-tabs__item {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
