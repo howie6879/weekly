@@ -1,6 +1,5 @@
 body {
   font-family: "LXGW WenKai Screen R", Calibri, Arial, sans-serif;
-  color: rgba(36, 41, 47, 0.9);
 }
 
 div.md-container img {
@@ -16,7 +15,6 @@ div.md-container img {
 
 .md-tabs__link {
   font-size: 0.77rem !important;
-  color: #121111;
 }
 
 .md-tabs__item {
