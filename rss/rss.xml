@@ -12,7 +12,42 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.cn/</link>
     </image>
-    <lastBuildDate>Tue, 28 Feb 2023 06:39:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Mar 2023 05:41:11 +0000</lastBuildDate>
+    <item>
+      <title>02-27~03-05.我的周刊（第081期）.md</title>
+      <link>https://weekly.howie6879.cn//2023/02-27~03-05.我的周刊（第081期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，请体验更加美观的在线网页访问地址：&lt;a href="https://weekly.howie6879.cn/2023/02-27~03-05.我的周刊（第081期）.html"&gt;02-27~03-05.我的周刊（第081期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Chanzhaoyu/chatgpt-web"&gt;chatgpt-web&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;用 &lt;code&gt;Express&lt;/code&gt; 和 &lt;code&gt;Vue3&lt;/code&gt; 搭建的 &lt;code&gt;ChatGPT&lt;/code&gt; 演示网页：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="chatgpt-web" src="https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/FeatureProbe/FeatureProbe"&gt;FeatureProbe&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="FeatureProbe" src="https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh"&gt;JavaScript 权威指南中英对照&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/&lt;/p&gt;
+&lt;p&gt;&lt;img alt="JavaScript-The-Definitive-Guide-7th-zh" src="https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2"&gt;有赞SaaS工作手册&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="youzan" src="https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.khroma.co/"&gt;khroma&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;人工智能配色网站：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="khroma" src="https://images-1252557999.file.myqcloud.com/uPic/khroma.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.cn/"&gt;weekly.howie6879.cn&lt;/a&gt; | &lt;a href="https://weekly.howie6879.cn/recommend/index.html"&gt;今日推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/02-27~03-05.我的周刊（第081期）.md</guid>
+    </item>
     <item>
       <title>02-20~02-25.我的周刊（第080期）.md</title>
       <link>https://weekly.howie6879.cn//2023/02-20~02-25.我的周刊（第080期）.html</link>
@@ -3541,9 +3576,6 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h3&gt;flomoapp&lt;/h3&gt;
 &lt;p&gt;flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行&lt;a href="https://flomoapp.com/register2/?NDgzNTM"&gt;注册&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;&lt;img alt="flomoapp" src="https://img.turingark.com/uPic/6G6qrd.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://aliyunpanbbs.com/"&gt;aliyunpanbbs&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;阿里云盘资源论坛:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="aliyunpanbbs" src="https://img.turingark.com/uPic/NlHLjW.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="http://wejectchan.gitee.io/git-emoji-user-guide/#/"&gt;Git提交使用指南&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一个搜索 git 常用 emoji 的网站:&lt;/p&gt;
 &lt;p&gt;&lt;img alt="git-emoji-user-guide" src="https://img.turingark.com/uPic/sILZG1.png" /&gt;&lt;/p&gt;
