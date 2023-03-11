@@ -12,7 +12,57 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.cn/</link>
     </image>
-    <lastBuildDate>Fri, 10 Mar 2023 09:25:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Mar 2023 08:18:30 +0000</lastBuildDate>
+    <item>
+      <title>03-06~03-11.我的周刊（第082期）.md</title>
+      <link>https://weekly.howie6879.cn//2023/03-06~03-11.我的周刊（第082期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，请体验更加美观的在线网页访问地址：&lt;a href="https://weekly.howie6879.cn/2023/03-06~03-11.我的周刊（第082期）.html"&gt;03-06~03-11.我的周刊（第082期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/yihong0618/bilingual_book_maker"&gt;bilingual_book_maker&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;bilingual_book_maker&lt;/code&gt; 是一个 &lt;code&gt;AI&lt;/code&gt; 翻译工具，使用 &lt;code&gt;ChatGPT&lt;/code&gt; 帮助用户制作多语言版本的 &lt;code&gt;epub&lt;/code&gt; 文件和图书。该工具仅适用于翻译进入公共版权领域的 &lt;code&gt;epub&lt;/code&gt; 图书，不适用于有版权的书籍。请在使用之前阅读项目的 免责声明：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bilingual_book_maker" src="https://images-1252557999.file.myqcloud.com/uPic/bilingual_book_maker.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/prompt-engineering/click-prompt"&gt;click-prompt&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;ClickPrompt 是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，例如 Stable Diffusion、ChatGPT 和 GitHub Copilot 等。 使用 ClickPrompt，您可以轻松地查看、分享和一键运行这些模型，同时提供在线的 Prompt 生成器，使用户能够根据自己的需求轻松创建符合要求的 Prompt，并与其他人分享。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="clickprompt" src="https://images-1252557999.file.myqcloud.com/uPic/clickprompt.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/yuezk/chatgpt-mirror"&gt;chatgpt-mirror&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;gpt-3.5-turbo&lt;/code&gt; 的 &lt;code&gt;ChatGPT&lt;/code&gt; 镜像网站（开源，可以自建）：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="chatgpt-mirror" src="https://images-1252557999.file.myqcloud.com/uPic/chatgpt-mirror.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/oobabooga/text-generation-webui"&gt;text-generation-webui&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;Gradio Web&lt;/code&gt; 实现的 UI，用于运行像 &lt;code&gt;GPT-J 6B、OPT、GALACTICA、LLaMA、Pygmalion&lt;/code&gt; 这样的大型语言模型：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="text-generation-webui" src="https://images-1252557999.file.myqcloud.com/uPic/text-generation-webui.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/yetone/openai-translator"&gt;openai-translator&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;ChatGPT API&lt;/code&gt; 的划词翻译浏览器插件和跨平台桌面端应用：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="openai_translator" src="https://images-1252557999.file.myqcloud.com/uPic/openai_translator.jpg" /&gt;
+如果你还使用 bob 软件进行翻译，可以考虑使用这个插件：&lt;a href="https://github.com/yetone/bob-plugin-openai-translator"&gt;bob-plugin-openai-translator&lt;/a&gt;：基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Postcatlab/postcat"&gt;postcat&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Postcat&lt;/code&gt; 是一个可扩展的 &lt;code&gt;API&lt;/code&gt; 工具平台，集合基础的 &lt;code&gt;API&lt;/code&gt; 管理和测试功能，并且可以通过插件简化你的 &lt;code&gt;API&lt;/code&gt; 开发工作，让你可以更快更好地创建 &lt;code&gt;API&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="postcat" src="https://images-1252557999.file.myqcloud.com/uPic/postcat.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/jenius-apps/ambie"&gt;ambie&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;针对 &lt;code&gt;Windows&lt;/code&gt; 平台的白噪音应用，挺多自然界声音，可以帮助你提升生产力：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ambie" src="https://images-1252557999.file.myqcloud.com/uPic/ambie.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://learningprompt.wiki/"&gt;learningprompt&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="learningprompt" src="https://images-1252557999.file.myqcloud.com/uPic/learningprompt.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://scribblediffusion.com/"&gt;scribblediffusion.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;随便画一画，生成美观的图片：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="scribblediffusion" src="https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/robinmoisson/staticrypt"&gt;staticrypt&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个开源的静态 &lt;code&gt;HTML&lt;/code&gt; 页面进行密码加密保护的项目。很有意思 -&amp;gt; &lt;a href="robinmoisson.github.io/staticrypt"&gt;robinmoisson.github.io/staticrypt&lt;/a&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="staticrypt" src="https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.cn/"&gt;weekly.howie6879.cn&lt;/a&gt; | &lt;a href="https://weekly.howie6879.cn/recommend/index.html"&gt;今日推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/03-06~03-11.我的周刊（第082期）.md</guid>
+    </item>
     <item>
       <title>02-27~03-05.我的周刊（第081期）.md</title>
       <link>https://weekly.howie6879.cn//2023/02-27~03-05.我的周刊（第081期）.html</link>
