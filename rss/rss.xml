@@ -12,7 +12,59 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Tue, 14 Mar 2023 02:40:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Mar 2023 03:25:54 +0000</lastBuildDate>
+    <item>
+      <title>03-13~03-19.老胡的周刊（第083期）.md</title>
+      <link>https://weekly.howie6879.com//2023/03-13~03-19.老胡的周刊（第083期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/03-13~03-19.老胡的周刊（第083期）.html"&gt;03-13~03-19.老胡的周刊（第083期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/acheong08/EdgeGPT"&gt;EdgeGPT&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;微软 &lt;code&gt;Bing Chat&lt;/code&gt; 的逆向工程 &lt;code&gt;API&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="EdgeGPT" src="https://images-1252557999.file.myqcloud.com/uPic/EdgeGPT.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/mckaywrigley/chatbot-ui"&gt;chatbot-ui&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;使用 &lt;code&gt;Next.js、Type Script &amp;amp; Tailwind CSS&lt;/code&gt; 构建的 &lt;code&gt;ChatGPT&lt;/code&gt; 交互界面：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="chatbot-ui" src="https://images-1252557999.file.myqcloud.com/uPic/chatbot-ui.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/mlc-ai/web-stable-diffusion"&gt;web-stable-diffusion&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Stable Diffusion&lt;/code&gt;（最近很火的 AI 文字生成图片的模型）在我之前好几期周刊都出现过，这次带来的是首个将 &lt;code&gt;Stable Diffusion Model&lt;/code&gt; 扩展到浏览器环境部署运行的项目：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="web-stable-diffusion" src="https://images-1252557999.file.myqcloud.com/uPic/web-stable-diffusion.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Flow-Launcher/Flow.Launcher"&gt;Flow.Launcher&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;Windows&lt;/code&gt; 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="flow_launcher" src="https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/sindresorhus/Gifski"&gt;Gifski&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;在 &lt;code&gt;Mac&lt;/code&gt; 上将视频转换为高质量的 &lt;code&gt;GIF&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Gifski" src="https://images-1252557999.file.myqcloud.com/uPic/Gifski.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/exelban/stats"&gt;stats&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;macOS&lt;/code&gt; 菜单栏的系统监控软件：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="stats" src="https://images-1252557999.file.myqcloud.com/uPic/stats.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;JPEGView&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;JPEGView&lt;/code&gt; 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/KaiserY/trpl-zh-cn"&gt;Rust 程序设计语言&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Rust 中文社区翻译的&lt;a href="https://kaisery.github.io/trpl-zh-cn/"&gt;《Rust 程序设计语言》&lt;/a&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="trpl-zh-cn" src="https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/CnTransGroup/EffectiveModernCppChinese"&gt;EffectiveModernCppChinese&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://cntransgroup.github.io/EffectiveModernCppChinese/"&gt;《Effective Modern C++ 》&lt;/a&gt;翻译：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="EffectiveModernCppChinese" src="https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://screenshot.rocks/"&gt;screenshot&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;快速创建精美的移动和浏览器屏幕截图：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="screenshot" src="https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.up-6.com/"&gt;up-6.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个英语学习导航网站：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="up-6" src="https://images-1252557999.file.myqcloud.com/uPic/up-6.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/03-13~03-19.老胡的周刊（第083期）.md</guid>
+    </item>
     <item>
       <title>03-06~03-11.老胡的周刊（第082期）.md</title>
       <link>https://weekly.howie6879.com//2023/03-06~03-11.老胡的周刊（第082期）.html</link>
