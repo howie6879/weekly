@@ -12,7 +12,73 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 19 Mar 2023 03:25:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Mar 2023 02:08:59 +0000</lastBuildDate>
+    <item>
+      <title>03-20~03-25.老胡的周刊（第084期）.md</title>
+      <link>https://weekly.howie6879.com//2023/03-20~03-25.老胡的周刊（第084期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/03-20~03-25.老胡的周刊（第084期）.html"&gt;03-20~03-25.老胡的周刊（第084期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/jonathontoon/manifest"&gt;manifest&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本周最喜欢的一个项目，这是一个基于网格的即时便签板，可随时在浏览器中记笔记，相当于浏览器便签，虽然项目不更新了，但是功能基本完成，值得一试：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="manifest" src="https://images-1252557999.file.myqcloud.com/uPic/manifest.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/writefreely/writefreely"&gt;writefreely&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个用于在网络上构建写作空间的开源平台：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="writefreely" src="https://images-1252557999.file.myqcloud.com/uPic/writefreely.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Leizhenpeng/feishu-chatgpt"&gt;feishu-chatgpt&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀&lt;/p&gt;
+&lt;p&gt;&lt;img alt="feishu-chatgpt" src="https://images-1252557999.file.myqcloud.com/uPic/feishu-chatgpt.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/mayooear/gpt4-pdf-chatbot-langchain"&gt;gpt4-pdf-chatbot-langchain&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;为你的 &lt;code&gt;PDF&lt;/code&gt; 文档打造一个 &lt;code&gt;ChatGPT&lt;/code&gt; 聊天机器人，可以理解成 &lt;code&gt;ChatPDF&lt;/code&gt; 的开源替代版，项目里面的代码实现可以好好研究：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="chatpdf" src="https://images-1252557999.file.myqcloud.com/uPic/chatpdf.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/getcursor/cursor"&gt;cursor&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 &lt;code&gt;AI&lt;/code&gt; 进行理解然后进行沟通交流：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="cursor" src="https://images-1252557999.file.myqcloud.com/uPic/cursor.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/flawiddsouza/Restfox"&gt;Restfox&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;可以理解成 &lt;code&gt;postman&lt;/code&gt; 开源替代版本，支持网页跨平台，非常简洁，有插件体系，可以从 &lt;code&gt;postman&lt;/code&gt; 导入数据：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="restfox" src="https://images-1252557999.file.myqcloud.com/uPic/restfox.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/FreeTubeApp/FreeTube"&gt;FreeTube&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个开源的YouTube应用程序，旨在保护隐私：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="FreeTube" src="https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/VueTubeApp/VueTube"&gt;VueTube&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;轻巧的开放源代码流媒体客户端，旨在再造不同流媒体应用程序的所有功能：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎨  &lt;strong&gt;主题&lt;/strong&gt;：明亮、黑暗、OLED，以及彩虹中的任何颜色！您可根据您的喜好选择强调色和背景色。&lt;/li&gt;
+&lt;li&gt;🖌️  &lt;strong&gt;自定义使用者界面&lt;/strong&gt;：自定义主题，甚至停用您不使用的一些界面，以获得最佳体验。&lt;/li&gt;
+&lt;li&gt;⬆️  &lt;strong&gt;自动更新&lt;/strong&gt;：有新版本可用时接收通知，如果您不喜欢也可以撤销更新！&lt;/li&gt;
+&lt;li&gt;👁️  &lt;strong&gt;追踪阻断&lt;/strong&gt;：VueTube 默认不会发送任何跟踪数据，亦不使用任何外部 API。隐私是必要的！&lt;/li&gt;
+&lt;li&gt;📺  &lt;strong&gt;自家制的 HTML5 视频播放器&lt;/strong&gt;：内置在应用程序的播放器，拥有您所需的任何功能，例如 16 倍速。&lt;/li&gt;
+&lt;li&gt;🌍  &lt;strong&gt;翻译&lt;/strong&gt;： 本应用程序支持超过 25 种语言！默认语言因您的设备配置而定。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ramitsurana/awesome-kubernetes"&gt;awesome-kubernetes&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;比较全面的 &lt;code&gt;k8s&lt;/code&gt; 资源收集项目：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="awesome-kubernetes" src="https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.bing.com/images/create"&gt;Bing 文字创建图像&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;微软出品的文字生成图像模型（IP不能是国内）：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bing_image" src="https://images-1252557999.file.myqcloud.com/uPic/bing_image.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.bing.com/images/create"&gt;Baidu 一格&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;百度出品的文字生成图像模型：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="yige" src="https://images-1252557999.file.myqcloud.com/uPic/yige.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://firefly.adobe.com/"&gt;firefly&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Adobe&lt;/code&gt; 推出了的 &lt;code&gt;AI&lt;/code&gt; 图像创建器 &lt;strong&gt;Firefly&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="firefly" src="https://images-1252557999.file.myqcloud.com/uPic/firefly.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://upstract.com/"&gt;upstract&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;比较全面的新闻聚合平台：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="upstract" src="https://images-1252557999.file.myqcloud.com/uPic/upstract.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/03-20~03-25.老胡的周刊（第084期）.md</guid>
+    </item>
     <item>
       <title>03-13~03-19.老胡的周刊（第083期）.md</title>
       <link>https://weekly.howie6879.com//2023/03-13~03-19.老胡的周刊（第083期）.html</link>
