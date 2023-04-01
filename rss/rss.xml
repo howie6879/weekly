@@ -12,7 +12,91 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Wed, 29 Mar 2023 02:40:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Apr 2023 15:49:44 +0000</lastBuildDate>
+    <item>
+      <title>03-27~04-01.老胡的周刊（第085期）.md</title>
+      <link>https://weekly.howie6879.com//2023/03-27~04-01.老胡的周刊（第085期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/03-27~04-01.老胡的周刊（第085期）.html"&gt;03-27~04-01.老胡的周刊（第085期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Yidadaa/ChatGPT-Next-Web"&gt;ChatGPT-Next-Web&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一键免费部署你的私人 &lt;code&gt;ChatGPT&lt;/code&gt; 网页应用：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在 1 分钟内使用 Vercel  &lt;strong&gt;免费一键部署&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;精心设计的 UI，响应式设计，支持深色模式&lt;/li&gt;
+&lt;li&gt;极快的首屏加载速度（~85kb）&lt;/li&gt;
+&lt;li&gt;自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话&lt;/li&gt;
+&lt;li&gt;一键导出聊天记录，完整的 Markdown 支持&lt;/li&gt;
+&lt;li&gt;拥有自己的域名？好上加好，绑定后即可在任何地方&lt;strong&gt;无障碍&lt;/strong&gt;快速访问&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="ChatGPT-Next-Web" src="https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/yakGPT/yakGPT"&gt;yakGPT&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个简单的，本地运行的 &lt;code&gt;ChatGPT&lt;/code&gt; 用户界面，使您的文本生成更快，聊天更有吸引力！&lt;/p&gt;
+&lt;p&gt;&lt;img alt="yakGPT" src="https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/binary-husky/chatgpt_academic"&gt;chatgpt_academic&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="chatgpt_academic" src="https://images-1252557999.file.myqcloud.com/uPic/chatgpt_academic.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Synaptrix/ChatGPT-Desktop"&gt;ChatGPT-Desktop&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;tauri + vue3&lt;/code&gt; 开发的跨平台桌面端应用，当今社会，智能化、便捷化已经成为趋势。选择 ChatGPT-Desktop，您将享受到以下优势：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;我们使用 tauri 构建项目，使项目包更加小巧精简，资源占用更少，同时适配多个平台。&lt;/li&gt;
+&lt;li&gt;提供了配置代理的功能，您可以通过设置代理来实现更加灵活的网络访问。&lt;/li&gt;
+&lt;li&gt;可以选择让 app 常驻后台，快捷键(支持自定义)一键唤醒，节省时间，提高效率。&lt;/li&gt;
+&lt;li&gt;支持多 session 对话，利用 GPT-3.5-turbo 的最新特性，配合记忆模式，随时继续上一次对话。&lt;/li&gt;
+&lt;li&gt;更便捷的管理和调试 prompt，构建你自己的角色预设库，使得对话更加个性化。&lt;/li&gt;
+&lt;li&gt;内置丰富的导出功能，更加便利的分享结果！&lt;/li&gt;
+&lt;li&gt;软件支持自动更新和手动检查更新的功能，以便大家更方便地更新软件。&lt;/li&gt;
+&lt;li&gt;将所有对话存储到本地，方便随时查阅，留在身边最安心。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="ChatGPT-Desktop" src="https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Desktop.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Bin-Huang/chatbox"&gt;chatbox&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源的 &lt;code&gt;ChatGPT API (OpenAI API)&lt;/code&gt; 桌面客户端，&lt;code&gt;Prompt&lt;/code&gt; 的调试与管理工具，支持 &lt;code&gt;Windows、Mac 和 Linux&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="chatbox" src="https://images-1252557999.file.myqcloud.com/uPic/chatbox.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/orbstack"&gt;orbstack&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;来自朋友的推荐，&lt;code&gt;macOS&lt;/code&gt; 上的 &lt;code&gt;Docker Desktop&lt;/code&gt; 很卡很臃肿大家应该认可吧，我之前都是用 &lt;code&gt;Podman&lt;/code&gt;，也算不错。这次又发现了这款在 &lt;code&gt;macOS&lt;/code&gt; 上运行的 &lt;code&gt;Docker&lt;/code&gt; 容器和 &lt;code&gt;Linux&lt;/code&gt; 虚拟机 ，大家可以试试：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="orbstack" src="https://images-1252557999.file.myqcloud.com/uPic/orbstack.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/luoxuhai/Alock"&gt;Alock&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Alock 是一款免费用于隐藏指定 App 的应用。使用 Alock 可以彻底地从 iPhone/iPad 上隐藏指定的 App，隐藏后的 App 在主屏幕、App资料库、搜索、系统设置中均不可见。最大程度保护您的隐私：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Alock" src="https://images-1252557999.file.myqcloud.com/uPic/Alock.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;Learning-Prompt&lt;/h3&gt;
+&lt;p&gt;如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。&lt;/p&gt;
+&lt;p&gt;这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。&lt;/p&gt;
+&lt;p&gt;其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Learning-Prompt" src="https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.chatpdf.com/"&gt;chatpdf&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;和任何 PDF 进行沟通交流：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="chatpdf_com" src="https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.pandagpt.io/"&gt;pandagpt.io&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于  &lt;code&gt;ChatGPT&lt;/code&gt; 的 &lt;code&gt;AI&lt;/code&gt; 文档机器人：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pandagpt" src="https://images-1252557999.file.myqcloud.com/uPic/pandagpt.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://chatdoc.com/"&gt;chatdoc&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;ChatDOC&lt;/code&gt; 让你可以和文档进行聊天沟通，它是一个基于 &lt;code&gt;ChatGPT&lt;/code&gt; 的文件读取助手，它可以从 &lt;code&gt;PDF&lt;/code&gt; 中快速提取、定位和总结信息：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="chatdoc" src="https://images-1252557999.file.myqcloud.com/uPic/chatdoc.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt;
+&lt;p&gt;本期周刊算是 ChatGPT 专题，11个推荐的项目有9个 ChatGPT 相关的，说明这块实在是太火热了🔥。&lt;/p&gt;
+&lt;p&gt;相关圈子针对这块都开始了狂欢，各种课程培训营遍地开花。我想说请大家理性看待、理性买课。一定要好好地思考 ChatGPT 能给自己带来什么，如果准备入局，一定要做好准备工作。&lt;/p&gt;
+&lt;p&gt;太多人利用信息不对称来赚钱了，有的人今天还刚注册使用 ChatGPT Plus，第二天就开始卖课组群开星球，这能给你带来什么呢。&lt;/p&gt;
+&lt;p&gt;咱们多思考，多看看网上优质开源的资料和项目，别的不说，把我周刊里面一些相关的项目以及资料看一遍，就已经很了解了，然后形成自己的思考，不被信息不对称限制，眼界就会开阔很多，多出去看看，不要头脑一热就买所谓的课程，你能看到的不都是别人玩剩下的？有太多渠道可以找到所谓独有的资料以及赚钱路子了。&lt;/p&gt;
+&lt;p&gt;我每周看会比较多的信息资源，最近由于 ChatGPT 的火热，所以我看到了这块领域很多的信息资源，我决定将自己看到的信息在老胡的ChatGPT 信息资源群进行共享，有兴趣的可以进来看看。&lt;/p&gt;
+&lt;p&gt;我为什么弄这个群，有以下目的：&lt;/p&gt;
+&lt;p&gt;多条渠道接收 ChatGPT 信息资源，减少信息不对称
+我看好 ChatGPT
+我正在弄一个这块的开源项目，需要一些基础用户，这是最重要的原因哈
+好了，就这么多，欢迎进群（现在是三群了🥳）：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="jSRhbg" src="https://images-1252557999.file.myqcloud.com/uPic/jSRhbg.jpg" /&gt;&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/03-27~04-01.老胡的周刊（第085期）.md</guid>
+    </item>
     <item>
       <title>03-20~03-25.老胡的周刊（第084期）.md</title>
       <link>https://weekly.howie6879.com//2023/03-20~03-25.老胡的周刊（第084期）.html</link>
