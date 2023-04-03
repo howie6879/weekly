@@ -12,7 +12,7 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sat, 01 Apr 2023 15:49:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Apr 2023 02:44:08 +0000</lastBuildDate>
     <item>
       <title>03-27~04-01.老胡的周刊（第085期）.md</title>
       <link>https://weekly.howie6879.com//2023/03-27~04-01.老胡的周刊（第085期）.html</link>
@@ -62,7 +62,7 @@
 &lt;p&gt;Alock 是一款免费用于隐藏指定 App 的应用。使用 Alock 可以彻底地从 iPhone/iPad 上隐藏指定的 App，隐藏后的 App 在主屏幕、App资料库、搜索、系统设置中均不可见。最大程度保护您的隐私：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Alock" src="https://images-1252557999.file.myqcloud.com/uPic/Alock.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;Learning-Prompt&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="https://github.com/thinkingjimmy/Learning-Prompt"&gt;Learning-Prompt&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。&lt;/p&gt;
 &lt;p&gt;这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。&lt;/p&gt;
 &lt;p&gt;其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：&lt;/p&gt;
@@ -2974,13 +2974,13 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;🎯 项目&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/phachon/mm-wiki"&gt;mm-wiki&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="mm_wiki" src="https://img.turingark.com/uPic/mm_wiki.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="mm_wiki" src="https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/javahuang/surveyking"&gt;surveyking&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;功能挺全面的一个调查问卷系统：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="surveyking" src="https://img.turingark.com/uPic/surveyking.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="surveyking" src="https://images-1252557999.file.myqcloud.com/uPic/surveyking.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/theajack/cnchar"&gt;cnchar&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)&lt;/p&gt;
-&lt;p&gt;&lt;img alt="cnchar" src="https://img.turingark.com/uPic/cnchar.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="cnchar" src="https://images-1252557999.file.myqcloud.com/uPic/cnchar.jpeg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/dengxiuqi/ChineseLyrics"&gt;ChineseLyrics&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;通过网络收集整理的中文歌词数据库, 包含:&lt;/p&gt;
 &lt;ul&gt;
@@ -2996,20 +2996,20 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;🤖 软件&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/dbeaver/dbeaver"&gt;DBeaver&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;免费的通用数据库管理工具，SQL客户端，跨平台支持：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="dbeaver" src="https://img.turingark.com/uPic/dbeaver.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="dbeaver" src="https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/Studio3T/robomongo"&gt;Robo 3T&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;本人常用的一款MongoDB跨平台管理软件，开源免费：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="robomongo" src="https://img.turingark.com/uPic/robomongo.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="robomongo" src="https://images-1252557999.file.myqcloud.com/uPic/robomongo.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/qishibo/AnotherRedisDesktopManager"&gt;AnotherRedisDesktopManager&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;快速稳定好用的Redis跨平台桌面管理软件：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="AnotherRedisDesktopManager" src="https://img.turingark.com/uPic/AnotherRedisDesktopManager.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://wxflogic.gitbook.io/logic"&gt;逻辑学简短入门&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="logic" src="https://img.turingark.com/uPic/logic.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="logic" src="https://images-1252557999.file.myqcloud.com/uPic/logic.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/datawhalechina/fun-rec/"&gt;fun-rec&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;本&lt;a href="https://datawhalechina.github.io/fun-rec/#/"&gt;教程&lt;/a&gt;主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="fun-rec" src="https://img.turingark.com/uPic/fun-rec.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="fun-rec" src="https://images-1252557999.file.myqcloud.com/uPic/fun-rec.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/Bypass007/Emergency-Response-Notes"&gt;Emergency-Response-Notes&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？&lt;/p&gt;
 &lt;p&gt;这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:&lt;/p&gt;
@@ -3026,10 +3026,10 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;🕸 网站&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://www.warp.dev/"&gt;warp.dev&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一个 &lt;code&gt;Rust&lt;/code&gt; 实现的新终端 &lt;code&gt;Warp&lt;/code&gt;，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="wrap" src="https://img.turingark.com/uPic/wrap.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="wrap" src="https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://www.cloudskillsboost.google/paths"&gt;谷歌开发者学习路线&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="google_path" src="https://img.turingark.com/uPic/google_path.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="google_path" src="https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;✍️ 说明&lt;/h2&gt;
 &lt;p&gt;周刊相关信息：&lt;/p&gt;
 &lt;ul&gt;
