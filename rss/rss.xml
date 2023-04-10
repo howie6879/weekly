@@ -12,11 +12,75 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Wed, 05 Apr 2023 16:23:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Apr 2023 09:10:19 +0000</lastBuildDate>
     <item>
-      <title>04-06.ChatGPT 开源应用月度排名汇总(周刊 ChatGPT 加更).md</title>
-      <link>https://weekly.howie6879.com/soft/chatgpt.html</link>
-      <guid isPermaLink="false">soft/chatgpt.md</guid>
+      <title>04-03~04-08.老胡的周刊（第086期）.md</title>
+      <link>https://weekly.howie6879.com//2023/04-03~04-08.老胡的周刊（第086期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/04-03~04-08.老胡的周刊（第086期）.html"&gt;04-03~04-08.老胡的周刊（第086期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/godly-devotion/MochiDiffusion"&gt;MochiDiffusion&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;在 &lt;code&gt;MacOS&lt;/code&gt; 上运行原生的 &lt;code&gt;Stable Diffusion&lt;/code&gt;，本应用内置 &lt;code&gt;Apple&lt;/code&gt; 的 &lt;code&gt;Core ML Stable Diffusion&lt;/code&gt; 框架 以实现在搭载 &lt;code&gt;Apple&lt;/code&gt; 芯片的 &lt;code&gt;Mac&lt;/code&gt; 上用极低的内存占用发挥出最优性能：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;极致性能和极低内存占用 (使用神经网络引擎时 ~150MB)&lt;/li&gt;
+&lt;li&gt;在所有搭载 Apple 芯片的 Mac 上充分发挥神经网络引擎的优势&lt;/li&gt;
+&lt;li&gt;生成图像时无需联网&lt;/li&gt;
+&lt;li&gt;图像转图像（也被称为 Image2Image）&lt;/li&gt;
+&lt;li&gt;在图像的 EXIF 信息中存储所有的关键词（在访达的“显示简介”窗口中查看）&lt;/li&gt;
+&lt;li&gt;使用 RealESRGAN 放大生成的图像&lt;/li&gt;
+&lt;li&gt;自动保存 &amp;amp; 恢复图像&lt;/li&gt;
+&lt;li&gt;自定义 Stable Diffusion Core ML 模型&lt;/li&gt;
+&lt;li&gt;无需担心损坏的模型&lt;/li&gt;
+&lt;li&gt;使用 macOS 原生框架 SwiftUI 开发&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="MochiDiffusion" src="https://images-1252557999.file.myqcloud.com/uPic/MochiDiffusion.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Moonvy/OpenPromptStudio"&gt;OpenPromptStudio&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;🥣 AIGC 提示词可视化编辑器，这是一个旨在把 AIGC 提示词（现在支持 Midjourney）可视化并提供编辑功能的工具，有以下特性&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;显示英文提示词的中文翻译&lt;/li&gt;
+&lt;li&gt;翻译输入的中文提示词到英文（因为 Midjourney 仅支持英文提示词）&lt;/li&gt;
+&lt;li&gt;为提示词进行分类（普通、样式、质量、命令）&lt;/li&gt;
+&lt;li&gt;轻松的排序、隐藏提示词&lt;/li&gt;
+&lt;li&gt;把提示词可视化结果导出为图片&lt;/li&gt;
+&lt;li&gt;常用提示词词典&lt;/li&gt;
+&lt;li&gt;通过 Notion 管理提示词词典&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="OpenPromptStudio" src="https://images-1252557999.file.myqcloud.com/uPic/OpenPromptStudio.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/lm-sys/FastChat"&gt;FastChat&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;这是一个开放的平台，可用于训练、部署和评估基于大型语言模型的聊天机器人。也就是说，这个平台可以帮助人们创建聊天机器人，让其具备更好的语言理解能力，并提供一个可靠的方式来测试和评估这些聊天机器人的表现：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="FastChat" src="https://images-1252557999.file.myqcloud.com/uPic/FastChat.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/marticliment/ElevenClock"&gt;ElevenClock&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;自定义 &lt;code&gt;Windows 11&lt;/code&gt; 任务栏时钟：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ElevenClock" src="https://images-1252557999.file.myqcloud.com/uPic/ElevenClock.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://learnprompting.org/zh-Hans/docs/intro"&gt;learnprompting.org&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如何同人工智能交流，并得到你要的结果。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;随着最近人工智能的不断进步，提示工程这项技能变得越来越重要。本课程会聚焦于如何使用提示工程。你不需要很多机器学习相关的知识。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="learnprompting" src="https://images-1252557999.file.myqcloud.com/uPic/learnprompting.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.promptingguide.ai/zh"&gt;promptingguide.ai&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;关于 &lt;code&gt;Prompt&lt;/code&gt; 工程的指南、论文、讲座、笔记本和资源：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="promptingguide" src="https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://segment-anything.com/"&gt;segment-anything.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Segment Anything Model（SAM）&lt;/code&gt;：这是 &lt;code&gt;Meta AI&lt;/code&gt; 推出的一款新的&lt;code&gt;AI&lt;/code&gt; 模型，它可以通过单击轻松&lt;strong&gt;抠出&lt;/strong&gt;任何图像中的任何物体。&lt;/p&gt;
+&lt;p&gt;也就是说，这个模型可以用一次点击的方式，将任何图片中的任何物体分割出来。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="segment-anything" src="https://images-1252557999.file.myqcloud.com/uPic/segment-anything.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://zh.ifixit.com/"&gt;ifixit&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个免费教授人们如何修理任何物品的网站：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ifixit" src="https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/04-03~04-08.老胡的周刊（第086期）.md</guid>
     </item>
     <item>
       <title>03-27~04-01.老胡的周刊（第085期）.md</title>
