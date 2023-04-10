@@ -12,7 +12,7 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Mon, 10 Apr 2023 09:10:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Apr 2023 17:37:41 +0000</lastBuildDate>
     <item>
       <title>04-03~04-08.老胡的周刊（第086期）.md</title>
       <link>https://weekly.howie6879.com//2023/04-03~04-08.老胡的周刊（第086期）.html</link>
@@ -259,7 +259,7 @@
 &lt;h3&gt;&lt;a href="https://github.com/exelban/stats"&gt;stats&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;基于 &lt;code&gt;macOS&lt;/code&gt; 菜单栏的系统监控软件：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="stats" src="https://images-1252557999.file.myqcloud.com/uPic/stats.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;JPEGView&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="https://github.com/sylikc/jpegview"&gt;JPEGView&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;JPEGView&lt;/code&gt; 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/KaiserY/trpl-zh-cn"&gt;Rust 程序设计语言&lt;/a&gt;&lt;/h3&gt;
@@ -457,7 +457,7 @@
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;ChatGPT 项目推荐&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="https://weekly.howie6879.com/2023/02-13~02-18.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC079%E6%9C%9F%EF%BC%89.html?h=chatgpt#chatgpt"&gt;ChatGPT 项目推荐&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;基于 &lt;code&gt;ChatGPT&lt;/code&gt; 相关接口衍生的项目：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/wong2/chatgpt-google-extension"&gt;chatgpt-google-extension&lt;/a&gt;：显示 &lt;code&gt;ChatGPT&lt;/code&gt; 响应和 &lt;code&gt;Google&lt;/code&gt; 搜索结果的浏览器扩展&lt;/li&gt;
@@ -1977,7 +1977,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
 &lt;h3&gt;&lt;a href="https://hao.uisdc.com/"&gt;uisdc.com&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;设计师网站导航：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="uisdc" src="https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://mycolor.space/"&gt;mycolor.space&lt;/a&gt;：&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="https://mycolor.space/"&gt;mycolor.space&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;渐变配色生成器，自动生成 &lt;code&gt;CSS&lt;/code&gt; 代码：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="mycolor" src="https://images-1252557999.file.myqcloud.com/uPic/mycolor.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/ddiu8081/fluent-emoji-maker"&gt;fluent-emoji-maker&lt;/a&gt;&lt;/h3&gt;
@@ -3217,7 +3217,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h3&gt;&lt;a href="https://jsonvisio.com/editor"&gt;jsonvisio&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;将你的Json数据进行可视化，该项目也开源在&lt;a href="https://github.com/AykutSarac/jsonvisio.com"&gt;github-jsonvisio&lt;/a&gt;：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/jsonvisio.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="http://uipatterns.io/"&gt;uipatterns&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="http://uipatterns.io"&gt;uipatterns&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/uipatterns.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;✍️ 说明&lt;/h2&gt;
@@ -3903,7 +3903,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;p&gt;为忙碌的工程师准备的精选面试准备材料：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="tech-interview-handbook" src="https://img.turingark.com/uPic/lAcwMK.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;flomoapp&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="https://flomoapp.com/"&gt;flomoapp&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行&lt;a href="https://flomoapp.com/register2/?NDgzNTM"&gt;注册&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;&lt;img alt="flomoapp" src="https://img.turingark.com/uPic/6G6qrd.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="http://wejectchan.gitee.io/git-emoji-user-guide/#/"&gt;Git提交使用指南&lt;/a&gt;&lt;/h3&gt;
