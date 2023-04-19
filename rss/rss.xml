@@ -12,7 +12,86 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Mon, 10 Apr 2023 17:37:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2023 14:44:39 +0000</lastBuildDate>
+    <item>
+      <title>04-10~04-15.老胡的周刊（第087期）.md</title>
+      <link>https://weekly.howie6879.com//2023/04-10~04-15.老胡的周刊（第087期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/04-10~04-15.老胡的周刊（第087期）.html"&gt;04-10~04-15.老胡的周刊（第087期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Significant-Gravitas/Auto-GPT"&gt;Auto-GPT&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的&lt;strong&gt;思想&lt;/strong&gt;链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。&lt;/p&gt;
+&lt;p&gt;你只需要告诉 &lt;code&gt;AutoGPT&lt;/code&gt; 最终目标是什么，他就会自己不断尝试以完成目标：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🌐 利用互联网进行搜索和信息收集&lt;/li&gt;
+&lt;li&gt;💾 长期和短期记忆管理&lt;/li&gt;
+&lt;li&gt;🧠 GPT-4实例用于文本生成&lt;/li&gt;
+&lt;li&gt;🔗 访问流行的网站和平台&lt;/li&gt;
+&lt;li&gt;🗃️ 使用GPT-3.5进行文件存储和摘要&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="Auto-GPT" src="https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/reworkd/AgentGPT"&gt;AgentGPT&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;🤖 在您的浏览器中组装、配置和部署自主 AI 代理，可以简单理解成 &lt;code&gt;Auto-GPT&lt;/code&gt; 的网页版：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;通过向量数据库实现长期记忆 🧠&lt;/li&gt;
+&lt;li&gt;通过语言链具备网络浏览能力 🌐&lt;/li&gt;
+&lt;li&gt;与网站和人进行交互 👨‍👩‍👦&lt;/li&gt;
+&lt;li&gt;通过文档 API 具备写作能力 📄&lt;/li&gt;
+&lt;li&gt;保存代理运行 💾&lt;/li&gt;
+&lt;li&gt;用户和身份验证 🔐&lt;/li&gt;
+&lt;li&gt;Stripe 集成以提供低限制付费版本（这样我们就不用担心基础设施成本）💵&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="agentgpt" src="https://images-1252557999.file.myqcloud.com/uPic/agentgpt.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/1Panel-dev/1Panel"&gt;1Panel&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;1Panel&lt;/code&gt; 是一个现代化、开源的 &lt;code&gt;Linux&lt;/code&gt; 服务器运维管理面板。&lt;code&gt;1Panel&lt;/code&gt; 的功能和优势包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;快速建站&lt;/strong&gt;：深度集成 Wordpress 和  &lt;a href="https://github.com/halo-dev/halo/"&gt;Halo&lt;/a&gt;，域名绑定、SSL 证书配置等一键搞定；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;高效管理&lt;/strong&gt;：通过 Web 端轻松管理 Linux 服务器，包括应用管理、主机监控、文件管理、数据库管理、容器管理等；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;安全可靠&lt;/strong&gt;：最小漏洞暴露面，提供防火墙和安全审计等功能；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;一键备份&lt;/strong&gt;：支持一键备份和恢复，备份数据云端存储，永不丢失。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="1Panel" src="https://images-1252557999.file.myqcloud.com/uPic/1Panel.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Tencent/libpag"&gt;libpag&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;libpag&lt;/code&gt; 是 PAG (Portable Animated Graphics) 动效文件的渲染 SDK，目前已覆盖几乎所有的主流平台，包括：iOS, Android, macOS, Windows, Linux, 以及 Web 端。&lt;/p&gt;
+&lt;p&gt;PAG 方案是一套完善的动效工作流。提供从 AE（Adobe After Effects）导出插件，到桌面预览工具 PAGViewer，再到各端的跨平台渲染 SDK。 目标是降低或消除动效研发相关的成本，打通设计师创作到素材交付上线的极简流程，不断输出运行时可编辑的高质量动效内容:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="libpag" src="https://images-1252557999.file.myqcloud.com/uPic/libpag.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/qunash/chatgpt-advanced"&gt;chatgpt-advanced&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="chatgpt-advanced" src="https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://book.stevejobsarchive.com/"&gt;stevejobsarchive&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="stevejobsarchive_zh" src="https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg" /&gt;
+如果你需要翻译版，可以在公众号后台联系我。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/sumn2u/learn-javascript"&gt;learn-javascript&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;学习 &lt;code&gt;javascript&lt;/code&gt; 的开源书籍：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="learn-javascript" src="https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique"&gt;ChatGPT提问技巧&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。&lt;/p&gt;
+&lt;p&gt;我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。&lt;/p&gt;
+&lt;p&gt;无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://learningprompt.wiki/docs/midjourney-learning-path"&gt;Midjourney 学习导航&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一份 &lt;code&gt;Midjourney&lt;/code&gt; 学习教程：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="midjourney-learning-path" src="https://images-1252557999.file.myqcloud.com/uPic/midjourney-learning-path.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/lzwme/chatgpt-sites"&gt;chatgpt-sites&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;搜集国内可用的 ChatGPT 在线体验免费网站列表，定时任务每日更新，点击&lt;a href="https://lzw.me/x/chatgpt-sites/"&gt;这里&lt;/a&gt;访问：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="chatgpt-sites" src="https://images-1252557999.file.myqcloud.com/uPic/chatgpt-sites.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://meiriyiwen.com/"&gt;meiriyiwen&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;每天一篇随机散文：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="meiriyiwen" src="https://images-1252557999.file.myqcloud.com/uPic/meiriyiwen.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/04-10~04-15.老胡的周刊（第087期）.md</guid>
+    </item>
     <item>
       <title>04-03~04-08.老胡的周刊（第086期）.md</title>
       <link>https://weekly.howie6879.com//2023/04-03~04-08.老胡的周刊（第086期）.html</link>
