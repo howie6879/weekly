@@ -12,7 +12,74 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Thu, 20 Apr 2023 01:34:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Apr 2023 07:20:59 +0000</lastBuildDate>
+    <item>
+      <title>04-17~04-22.老胡的周刊（第088期）.md</title>
+      <link>https://weekly.howie6879.com//2023/04-17~04-22.老胡的周刊（第088期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/04-17~04-22.老胡的周刊（第088期）.html"&gt;04-17~04-22.老胡的周刊（第088期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/0xJacky/nginx-ui"&gt;nginx-ui&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Nginx 后台管理UI：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标&lt;/li&gt;
+&lt;li&gt;在线 ChatGPT 助理&lt;/li&gt;
+&lt;li&gt;一键申请和自动续签 Lets encrypt 证书&lt;/li&gt;
+&lt;li&gt;在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮&lt;/li&gt;
+&lt;li&gt;在线查看 Nginx 日志&lt;/li&gt;
+&lt;li&gt;使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件&lt;/li&gt;
+&lt;li&gt;保存配置后自动测试配置文件并重载 Nginx&lt;/li&gt;
+&lt;li&gt;基于网页浏览器的高级命令行终端&lt;/li&gt;
+&lt;li&gt;支持深色模式&lt;/li&gt;
+&lt;li&gt;自适应网页设计&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="nginx-ui" src="https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/xcanwin/KeepChatGPT"&gt;KeepChatGPT&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个油猴脚本，让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤，还可以取消后台监管审计：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;解决了报错：NetworkError when attempting to fetch resource.&lt;/li&gt;
+&lt;li&gt;解决了报错：Something went wrong. If this issue persists please contact us through our help center at help.openai.com.&lt;/li&gt;
+&lt;li&gt;解决了报错：Conversation not found&lt;/li&gt;
+&lt;li&gt;自由取消后台监管审计：This content may violate our content policy. If you believe this to be in error, please submit your feedback — your input will aid our research in this area.&lt;/li&gt;
+&lt;li&gt;解决被频繁地打断交流&lt;/li&gt;
+&lt;li&gt;解决频繁地刷新网页&lt;/li&gt;
+&lt;li&gt;支持多国语言&lt;/li&gt;
+&lt;li&gt;解决用户手误复制用户头像里的用户名的问题&lt;/li&gt;
+&lt;li&gt;兼容移动端&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="KeepChatGPT" src="https://images-1252557999.file.myqcloud.com/uPic/KeepChatGPT.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/dice2o/BingGPT"&gt;BingGPT&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;必应 GPT 聊天桌面应用程序：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="BingGPT" src="https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/bingryan/WeChatAI"&gt;WeChatAI&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;技术交流群的群友 &lt;strong&gt;@bingryan&lt;/strong&gt; 开发的，推荐一下，项目目的在于打造一个All in One的个人AI聊天助手：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="WeChatAI" src="https://images-1252557999.file.myqcloud.com/uPic/WeChatAI.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/hellokuls/macGPT"&gt;macGPT&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一款 &lt;code&gt;ChatGPT for Mac&lt;/code&gt; 原生客户端：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="macGPT" src="https://images-1252557999.file.myqcloud.com/uPic/macGPT.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/visualize-ml"&gt;visualize-ml&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;鸢尾花书：从加减乘除到机器学习，全套7册。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="visualize-ml" src="https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.phind.com/"&gt;phind.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;面向开发者的人工智能搜索引擎：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="phind" src="https://images-1252557999.file.myqcloud.com/uPic/phind.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://xyzrank.com/"&gt;xyzrank.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;中文播客榜单：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="xyzrank" src="https://images-1252557999.file.myqcloud.com/uPic/xyzrank.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/04-17~04-22.老胡的周刊（第088期）.md</guid>
+    </item>
     <item>
       <title>04-10~04-15.老胡的周刊（第087期）.md</title>
       <link>https://weekly.howie6879.com//2023/04-10~04-15.老胡的周刊（第087期）.html</link>
