@@ -12,7 +12,57 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sat, 22 Apr 2023 07:20:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 May 2023 12:33:35 +0000</lastBuildDate>
+    <item>
+      <title>04-24~04-30.老胡的周刊（第089期）.md</title>
+      <link>https://weekly.howie6879.com//2023/04-24~04-30.老胡的周刊（第089期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/04-24~04-30.老胡的周刊（第089期）.html"&gt;04-24~04-30.老胡的周刊（第089期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/OpenLMLab/MOSS"&gt;MOSS&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;来自复旦大学的开源工具增强型会话语言模型-MOSS:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="MOSS" src="https://images-1252557999.file.myqcloud.com/uPic/MOSS.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/whoiskatrin/chart-gpt"&gt;chart-gpt&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于文本输入构建图表的人工智能工具，可以直接在官网 &lt;a href="https://www.chartgpt.dev/"&gt;https://www.chartgpt.dev&lt;/a&gt; 体验：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="chartgpt" src="https://images-1252557999.file.myqcloud.com/uPic/chartgpt.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/lvwzhen/law-cn-ai"&gt;law-cn-ai&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;AI 法律助手:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="law-cn-ai" src="https://images-1252557999.file.myqcloud.com/uPic/law-cn-ai.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;也可以&lt;a href="https://law-cn-ai.vercel.app/"&gt;在线&lt;/a&gt;访问。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Dogtiti/AutoGPT-Next-Web"&gt;AutoGPT-Next-Web&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一键免费部署你的私人 AutoGPT-Next-Web 网页应用:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="AutoGPT-Next-Web" src="https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/upscayl/upscayl"&gt;Upscayl&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源免费的跨平台无损图片放大工具：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="upscayl" src="https://images-1252557999.file.myqcloud.com/uPic/upscayl.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"&gt;ChatGPT Prompt Engineering for Developers&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;吴恩达和 &lt;code&gt;OpenAI&lt;/code&gt; 一起制作的关于 &lt;code&gt;ChatGPT Prompt Engineering&lt;/code&gt; 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;学习应用开发所需的 prompt engineering 最佳实践&lt;/li&gt;
+&lt;li&gt;发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人&lt;/li&gt;
+&lt;li&gt;获得使用 OpenAI API 编写和迭代 prompt 的实践经验&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="chatgpt-prompt-engineering-for-developers" src="https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://pdf.wps.cn/"&gt;pdf.wps.cn&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;金山出品的 PDF 免费工具集：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pdf_wps" src="https://images-1252557999.file.myqcloud.com/uPic/pdf_wps.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://aicolors.co/"&gt;aicolors&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;通过提示词，基于 AI 生成配色方案：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="aicolors" src="https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/04-24~04-30.老胡的周刊（第089期）.md</guid>
+    </item>
     <item>
       <title>04-17~04-22.老胡的周刊（第088期）.md</title>
       <link>https://weekly.howie6879.com//2023/04-17~04-22.老胡的周刊（第088期）.html</link>
