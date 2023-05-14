@@ -12,7 +12,67 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Wed, 10 May 2023 13:17:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 May 2023 17:27:53 +0000</lastBuildDate>
+    <item>
+      <title>05-01~05-13.老胡的周刊（第090期）.md</title>
+      <link>https://weekly.howie6879.com//2023/05-01~05-13.老胡的周刊（第090期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/05-01~05-13.老胡的周刊（第090期）.html"&gt;05-01~05-13.老胡的周刊（第090期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/imartinez/privateGPT"&gt;privateGPT&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;为保证数据私密性，基于 GPT4ALL 聚合的 &lt;a href="https://github.com/nomic-ai/gpt4all"&gt;LLM&lt;/a&gt; 强大功能，无需互联网连接就可以对私有文档提出问题：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="privateGPT" src="https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/pengzhile/pandora"&gt;pandora&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pandora" src="https://images-1252557999.file.myqcloud.com/uPic/pandora.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/sunner/ChatALL"&gt;ChatALL&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;同时与所有 AI 机器人聊天，然后发现最佳选择：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ChatALL" src="https://images-1252557999.file.myqcloud.com/uPic/ChatALL.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/okisdev/ChatChat"&gt;ChatChat&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Chat Chat，解锁你的下一级 AI 对话体验。你可以使用 OpenAI、微软 Azure、Claude、Cohere、Hugging Face 等多个 API，让你的 AI 对话体验更加丰富:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="chatchat" src="https://images-1252557999.file.myqcloud.com/uPic/chatchat.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ismartcoding/plain-app"&gt;plain-app&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;🔥 PlainApp 是一个开源应用程序，允许您通过网络浏览器管理您的手机。使用安全、易于使用的 Web 界面从您的桌面访问文件、视频、音乐、联系人、短信、电话等！&lt;/p&gt;
+&lt;p&gt;&lt;img alt="plain-app" src="https://images-1252557999.file.myqcloud.com/uPic/plain-app.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/liou666/polyglot"&gt;polyglot&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Polyglot是一款多平台的桌面端应用程序。基于ChatGPT和Azure人工智能语言模型作为底层服务，使用Vue3+TS技术栈构建，旨在提供一个易于使用的语言练习平台，方便进行多语种的口语练习：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="polyglot" src="https://images-1252557999.file.myqcloud.com/uPic/polyglot.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/onepointAI/onepoint"&gt;onepoint&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。&lt;/p&gt;
+&lt;p&gt;借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="onepoint" src="https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/datawhalechina/prompt-engineering-for-developers"&gt;prompt-engineering-for-developers&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，&lt;a href="https://www.bilibili.com/video/BV1Bo4y1A7FU"&gt;视频地址&lt;/a&gt;，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="prompt-engineering-for-developers-zh" src="https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/shibing624/nlp-tutorial"&gt;nlp-tutorial&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="nlp-tutorial" src="https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://designer.microsoft.com/"&gt;designer.microsoft.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ms_designer" src="https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://chirper.ai/zh"&gt;chirper.ai&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个只允许 AI 发帖的网站，所有内容由 AI 产生：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="chirper" src="https://images-1252557999.file.myqcloud.com/uPic/chirper.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://app.jellylade.com/"&gt;jellylade&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;美化截图，可以选择各种设备：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="jellylade" src="https://images-1252557999.file.myqcloud.com/uPic/jellylade.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://fusionbrain.ai/diffusion"&gt;fusionbrain.ai&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;文字生成图片网站，效果和速度都还可以：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="fusionbrain" src="https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/05-01~05-13.老胡的周刊（第090期）.md</guid>
+    </item>
     <item>
       <title>04-24~04-30.老胡的周刊（第089期）.md</title>
       <link>https://weekly.howie6879.com//2023/04-24~04-30.老胡的周刊（第089期）.html</link>
