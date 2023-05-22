@@ -12,7 +12,69 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 14 May 2023 17:27:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2023 08:20:06 +0000</lastBuildDate>
+    <item>
+      <title>05-15~05-20.老胡的周刊（第091期）.md</title>
+      <link>https://weekly.howie6879.com//2023/05-15~05-20.老胡的周刊（第091期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/05-15~05-20.老胡的周刊（第091期）.html"&gt;05-15~05-20.老胡的周刊（第091期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/omnivore-app/omnivore"&gt;omnivore&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;无干扰、注重隐私、免费开源专为知识工作者和终身学习者而设计的稍后阅读工具：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="omnivore" src="https://images-1252557999.file.myqcloud.com/uPic/omnivore.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/amir20/dozzle"&gt;dozzle&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Dozzle 是一个小型轻量级应用程序，基于 Web 界面来监控 Docker 日志，不存储任何日志文件，仅用于实时监控您的容器日志：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="dozzle" src="https://images-1252557999.file.myqcloud.com/uPic/dozzle.jpg" /&gt;s&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/triwinds/ns-emu-tools"&gt;ns-emu-tools&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个用于安装/更新 NS 模拟器的工具：
+- 支持安装 Yuzu EA/正式 版模拟器
+- 支持 Yuzu 版本检测及更新
+- 支持安装 Ryujinx Ava/正式/LDN 版模拟器
+- 支持 Ryujinx 版本检测及更新
+- 自动检测并安装 msvc 运行库
+- 支持安装及更新 NS 固件至模拟器
+- 支持固件版本检测
+- 管理模拟器密钥
+- Yuzu 金手指管理
+- aria2 多线程下载&lt;/p&gt;
+&lt;p&gt;关于模拟器项目：
+- &lt;a href="https://github.com/yuzu-emu/yuzu"&gt;Yuzu&lt;/a&gt;  - Yuzu 模拟器
+- &lt;a href="https://github.com/Ryujinx/Ryujinx"&gt;Ryujinx&lt;/a&gt;  - Ryujinx 模拟器
+- &lt;a href="https://github.com/SciresM/hactool"&gt;hactool&lt;/a&gt;  - NS 固件解析
+- &lt;a href="https://github.com/aria2/aria2"&gt;aria2&lt;/a&gt;  - aria2 下载器&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Ryujinx" src="https://images-1252557999.file.myqcloud.com/uPic/Ryujinx.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/AprilNEA/ChatGPT-Admin-Web"&gt;ChatGPT-Admin-Web&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;带有用户管理和后台面板的 ChatGPT 网页应用：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ChatGPT-Admin-Web" src="https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Admin-Web.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/pot-app/pot-desktop"&gt;pot-desktop&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;🌈 一个跨平台的划词翻译软件，对标 Bob：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pot-desktop" src="https://images-1252557999.file.myqcloud.com/uPic/pot-desktop.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/fregie/pho"&gt;pho&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pho" src="https://images-1252557999.file.myqcloud.com/uPic/pho.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/yyc-git/3DProgramPattern"&gt;3DProgramPattern&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="3dProgramPattern" src="https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://damngood.tools/"&gt;damngood.tools&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源实用工具集合：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="damngood" src="https://images-1252557999.file.myqcloud.com/uPic/damngood.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://mirrors.quickso.cn/"&gt;mirrors.quickso.cn&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;软件镜像站：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="mirrors_qs" src="https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/05-15~05-20.老胡的周刊（第091期）.md</guid>
+    </item>
     <item>
       <title>05-01~05-13.老胡的周刊（第090期）.md</title>
       <link>https://weekly.howie6879.com//2023/05-01~05-13.老胡的周刊（第090期）.html</link>
