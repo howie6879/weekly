@@ -12,7 +12,92 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Mon, 22 May 2023 08:20:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 May 2023 12:27:42 +0000</lastBuildDate>
+    <item>
+      <title>05-22~05-28.老胡的周刊（第092期）.md</title>
+      <link>https://weekly.howie6879.com//2023/05-22~05-28.老胡的周刊（第092期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/05-22~05-28.老胡的周刊（第092期）.html"&gt;05-22~05-28.老胡的周刊（第092期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/chathub-dev/chathub"&gt;chathub&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;ChatHub&lt;/code&gt; 是款全能聊天机器人客户端:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🤖 在一个应用中使用不同的聊天机器人，目前支持 ChatGPT、新的 Bing Chat、Google Bard、Claude（通过 Poe）、Alpaca、Vicuna、ChatGLM，并将来会集成更多的机器人&lt;/li&gt;
+&lt;li&gt;💬 同时与多个聊天机器人进行对话，方便比较它们的回答&lt;/li&gt;
+&lt;li&gt;🚀 支持 ChatGPT API 和 GPT-4 浏览&lt;/li&gt;
+&lt;li&gt;🔍 快捷方式，可在浏览器的任何位置快速激活应用&lt;/li&gt;
+&lt;li&gt;🎨 支持 Markdown 和代码高亮显示&lt;/li&gt;
+&lt;li&gt;📚 自定义提示和社区提示的提示库&lt;/li&gt;
+&lt;li&gt;💾 本地保存对话历史&lt;/li&gt;
+&lt;li&gt;📥 导出和导入所有数据&lt;/li&gt;
+&lt;li&gt;🔗 将对话转为 Markdown 并分享&lt;/li&gt;
+&lt;li&gt;🌙 暗黑模式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="chathub" src="https://images-1252557999.file.myqcloud.com/uPic/chathub.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/adams549659584/go-proxy-bingai"&gt;go-proxy-bingai&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于微软 &lt;code&gt;New Bing&lt;/code&gt; 简单定制，拥有一致的 &lt;code&gt;UI&lt;/code&gt; 体验，支持 &lt;code&gt;ChatGPT&lt;/code&gt; 提示词，国内可用，基本兼容微软 &lt;code&gt;Bing AI&lt;/code&gt; 所有功能，无需登录即可畅聊：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="go-proxy-bingai" src="https://images-1252557999.file.myqcloud.com/uPic/go-proxy-bingai.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/FlowiseAI/Flowise"&gt;Flowise&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;LangchainJS&lt;/code&gt;，简单拖拽就可以实现你的 &lt;code&gt;LLM&lt;/code&gt; 流：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Flowise" src="https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ricklamers/gpt-code-ui"&gt;gpt-code-ui&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;ChatGPT&lt;/code&gt; 实现的代码解释器，只需向 &lt;code&gt;OpenAI&lt;/code&gt; 模型提出请求，它就会为您生成并执行代码：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="gpt-code-ui" src="https://images-1252557999.file.myqcloud.com/uPic/gpt-code-ui.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/GaiZhenbiao/ChuanhuChatGPT"&gt;ChuanhuChatGPT&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;为&lt;code&gt;ChatGPT/ChatGLM/LLaMA/StableLM/MOSS&lt;/code&gt;等多种 &lt;code&gt;LLM&lt;/code&gt; 提供了一个轻快好用的 &lt;code&gt;Web&lt;/code&gt; 图形界面：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ChuanhuChatGPT" src="https://images-1252557999.file.myqcloud.com/uPic/ChuanhuChatGPT.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/rubickCenter/rubick"&gt;rubick&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;Electron&lt;/code&gt; 的开源工具箱，自由集成丰富插件，可以简单理解为 &lt;code&gt;uTool&lt;/code&gt; 的开源替代品：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;基于npm包模式的插件管理，安装插件就像安装npm包一样容易。&lt;/li&gt;
+&lt;li&gt;支持系统插件，在rubick运行的情况下，插件随时可以使用。&lt;/li&gt;
+&lt;li&gt;支持全局快捷键设置。&lt;/li&gt;
+&lt;li&gt;支持剪贴板文件搜索。&lt;/li&gt;
+&lt;li&gt;支持搜索本地安装的应用程序或偏好设置。&lt;/li&gt;
+&lt;li&gt;支持MacOS。&lt;/li&gt;
+&lt;li&gt;支持Windows。&lt;/li&gt;
+&lt;li&gt;支持Linux。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="rubick" src="https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/batnoter/batnoter"&gt;batnoter&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个基于 &lt;code&gt;Markdown&lt;/code&gt; 的开源自托管笔记应用程序：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;使用GitHub登录。&lt;/li&gt;
+&lt;li&gt;使用简洁而漂亮的界面轻松创建、编辑、删除、组织和探索笔记。&lt;/li&gt;
+&lt;li&gt;支持Markdown格式，允许用户在笔记中添加超链接、表格、标题、代码块、引用等等。&lt;/li&gt;
+&lt;li&gt;编辑器允许预览Markdown。&lt;/li&gt;
+&lt;li&gt;使用剪贴板按钮从代码部分快速复制代码。&lt;/li&gt;
+&lt;li&gt;直接将笔记存储在根目录中，或者使用文件夹对其进行组织（支持嵌套）。&lt;/li&gt;
+&lt;li&gt;单击即可从特定目录中浏览所有笔记。&lt;/li&gt;
+&lt;li&gt;所有笔记都存储在用户的GitHub存储库中。&lt;/li&gt;
+&lt;li&gt;为避免额外的API调用，笔记被缓存。&lt;/li&gt;
+&lt;li&gt;可将URL添加为书签。&lt;/li&gt;
+&lt;li&gt;支持深色/浅色模式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="batnoter" src="https://images-1252557999.file.myqcloud.com/uPic/batnoter.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/PKU-TANGENT/nlp-tutorial"&gt;PKU-TANGENT/nlp-tutorial&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本教程供新加入 &lt;code&gt;TANGENT&lt;/code&gt; 实验室的同学入门 NLP 使用，该指南主要提供了 &lt;code&gt;NLP&lt;/code&gt; 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pku_nlp_tutorial" src="https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.curated.design/"&gt;curated.design&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;网页设计灵感目录，比较全面的设计领域导航网站：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="curated" src="https://images-1252557999.file.myqcloud.com/uPic/curated.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://opensource-heroes.com/"&gt;opensource-heroes&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;星标数最多的开源开发者、组织以及仓库排行榜单：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="opensource-heroes" src="https://images-1252557999.file.myqcloud.com/uPic/opensource-heroes.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/05-22~05-28.老胡的周刊（第092期）.md</guid>
+    </item>
     <item>
       <title>05-15~05-20.老胡的周刊（第091期）.md</title>
       <link>https://weekly.howie6879.com//2023/05-15~05-20.老胡的周刊（第091期）.html</link>
