@@ -12,7 +12,73 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Tue, 06 Jun 2023 13:01:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jun 2023 14:35:02 +0000</lastBuildDate>
+    <item>
+      <title>06-05~06-11.老胡的周刊（第094期）.md</title>
+      <link>https://weekly.howie6879.com//2023/06-05~06-11.老胡的周刊（第094期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/06-05~06-11.老胡的周刊（第094期）.html"&gt;06-05~06-11.老胡的周刊（第094期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ciaochaos/qrbtf"&gt;qrbtf&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;艺术二维码生成器：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="qrbtf" src="https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Licoy/ChatGPT-Midjourney"&gt;ChatGPT-Midjourney&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;🎨 一键拥有你自己的 &lt;code&gt;ChatGPT+Midjourney&lt;/code&gt; 网页服务：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;原ChatGPT-Next-Web所有功能&lt;/li&gt;
+&lt;li&gt;midjourney imagin 想象&lt;/li&gt;
+&lt;li&gt;midjourney upscale 放大&lt;/li&gt;
+&lt;li&gt;midjourney variation 变幻&lt;/li&gt;
+&lt;li&gt;midjourney describe 识图&lt;/li&gt;
+&lt;li&gt;midjourney blend 混图&lt;/li&gt;
+&lt;li&gt;midjourney 垫图&lt;/li&gt;
+&lt;li&gt;绘图进度百分比、实时图像显示&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="ChatGPT-Midjourney" src="https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Midjourney.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/lollipopkit/flutter_server_box/blob/main/README_zh.md"&gt;flutter_server_box&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;使用 &lt;code&gt;Flutter&lt;/code&gt; 开发的 &lt;code&gt;Linux&lt;/code&gt; 服务器工具箱，提供服务器状态图表和管理工具：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;功能&lt;ul&gt;
+&lt;li&gt;SSH 终端, SFTP&lt;/li&gt;
+&lt;li&gt;Docker &amp;amp; 包 管理器&lt;/li&gt;
+&lt;li&gt;状态图表&lt;/li&gt;
+&lt;li&gt;代码编辑器&lt;/li&gt;
+&lt;li&gt;Ping 和 更多&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;本地化 ( English, 简体中文, Deutsch, 繁體中文)&lt;/li&gt;
+&lt;li&gt;桌面端支持&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="flutter_server_box" src="https://images-1252557999.file.myqcloud.com/uPic/flutter_server_box.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/schrodingercatss/tuning_playbook_zh_cn"&gt;tuning_playbook_zh_cn&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;深度学习调优指南中文版，一本系统地教你将深度学习模型的性能最大化的战术手册：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="tuning_playbook_zh_cn" src="https://images-1252557999.file.myqcloud.com/uPic/tuning_playbook_zh_cn.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;通往AGI之路&lt;/h3&gt;
+&lt;p&gt;汇聚了互联网上的一些 &lt;code&gt;AGI&lt;/code&gt; 教程，资源大家看了觉得有用即可，文章底部有微信引流，如果里面需要付费请慎重：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ywh1bkansf" src="https://images-1252557999.file.myqcloud.com/uPic/ywh1bkansf.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://briefgpt.xyz/"&gt;BriefGPT&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;AI&lt;/code&gt; 论文速递，每日更新 &lt;code&gt;Arxiv&lt;/code&gt; 论文，第一时间了解 &lt;code&gt;AI&lt;/code&gt; 最新动态：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="briefgpt" src="https://images-1252557999.file.myqcloud.com/uPic/briefgpt.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://userscloud.com/"&gt;userscloud&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;免费使用的云空间分享网页：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="userscloud" src="https://images-1252557999.file.myqcloud.com/uPic/userscloud.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.chatplugin.top/"&gt;chatplugin.top&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;ChatGPT Plugin&lt;/code&gt; 收录网站，并且将插件汉化：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="chatplugin" src="https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/06-05~06-11.老胡的周刊（第094期）.md</guid>
+    </item>
     <item>
       <title>05-29~06-04.老胡的周刊（第093期）.md</title>
       <link>https://weekly.howie6879.com//2023/05-29~06-04.老胡的周刊（第093期）.html</link>
