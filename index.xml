@@ -12,7 +12,7 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 25 Jun 2023 12:28:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jun 2023 14:51:03 +0000</lastBuildDate>
     <item>
       <title>06-19~06-24.老胡的周刊（第096期）.md</title>
       <link>https://weekly.howie6879.com//2023/06-19~06-24.老胡的周刊（第096期）.html</link>
@@ -41,7 +41,7 @@
 &lt;h3&gt;&lt;a href="https://github.com/divamgupta/diffusionbee-stable-diffusion-ui"&gt;diffusionbee-stable-diffusion-ui&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;Diffusion Bee&lt;/code&gt;是在 &lt;code&gt;M1 Mac&lt;/code&gt;上本地运行 &lt;code&gt;Stable Diffusion&lt;/code&gt; 的最简单方法，附带一键安装程序，不需要依赖性或技术知识：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="diffusionbee" src="https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg" /&gt;&lt;/p&gt;
-&lt;h3&gt;MediaBox&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="https://github.com/RyensX/MediaBox"&gt;MediaBox&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;全能媒体容器，插件化网罗天下媒体，畅快学习软件开发。实现了类似微信小程序的框架，只需要简单实现插件API提供数据到容器即可快速成型，方便学习爬虫、APP开发等。容器主要为插件提供以下服务：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;数据自动渲染到UI(视图组件)&lt;/li&gt;
