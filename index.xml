@@ -12,7 +12,88 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Fri, 16 Jun 2023 06:21:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jun 2023 12:28:59 +0000</lastBuildDate>
+    <item>
+      <title>06-19~06-24.老胡的周刊（第096期）.md</title>
+      <link>https://weekly.howie6879.com//2023/06-19~06-24.老胡的周刊（第096期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/06-19~06-24.老胡的周刊（第096期）.html"&gt;06-19~06-24.老胡的周刊（第096期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/bookfere/Ebook-Translator-Calibre-Plugin"&gt;Ebook-Translator-Calibre-Plugin&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个 &lt;code&gt;Calibre&lt;/code&gt; 插件，可以将电子书翻译成指定的语言：&lt;/p&gt;
+&lt;p&gt;支持所选翻- 译引擎所支持的语言（如 Google 翻译支持 134 种）
+- 支持多种翻译引擎，包括 Google 翻译、ChatGPT 以及 DeepL
+- 支持自定义翻译引擎（支持解析 JSON 和 XML 格式响应）
+- 支持所有 Calibre 所支持的电子书格式（输入格式 48 种，输出格式 20 种）
+- 支持批量翻译电子书，每本书的翻译过程同时进行互不影响
+- 支持缓存翻译内容，在请求失败或网络中断后无需重新翻译
+- 提供大量自定义设置，如将翻译的电子书存到 Calibre 书库或指定位置&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Ebook-Translator-Calibre-Plugin" src="https://images-1252557999.file.myqcloud.com/uPic/Ebook-Translator-Calibre-Plugin.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/steven-tey/novel"&gt;novel&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;具有类似 &lt;code&gt;NotionAI&lt;/code&gt; 自动补全功能的所见即所得编辑器，可直接在线体验 &lt;a href="https://novel.sh/"&gt;novel.sh&lt;/a&gt; ：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="opengraph-image" src="https://images-1252557999.file.myqcloud.com/uPic/opengraph-image.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/localsend/localsend"&gt;localsend&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;LocalSend&lt;/code&gt; 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="localsend" src="https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/divamgupta/diffusionbee-stable-diffusion-ui"&gt;diffusionbee-stable-diffusion-ui&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Diffusion Bee&lt;/code&gt;是在 &lt;code&gt;M1 Mac&lt;/code&gt;上本地运行 &lt;code&gt;Stable Diffusion&lt;/code&gt; 的最简单方法，附带一键安装程序，不需要依赖性或技术知识：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="diffusionbee" src="https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg" /&gt;&lt;/p&gt;
+&lt;h3&gt;MediaBox&lt;/h3&gt;
+&lt;p&gt;全能媒体容器，插件化网罗天下媒体，畅快学习软件开发。实现了类似微信小程序的框架，只需要简单实现插件API提供数据到容器即可快速成型，方便学习爬虫、APP开发等。容器主要为插件提供以下服务：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;数据自动渲染到UI(视图组件)&lt;/li&gt;
+&lt;li&gt;媒体收藏/历史记录&lt;/li&gt;
+&lt;li&gt;周期性媒体数据检查服务(插件只需要实现媒体检查更新组件即可被主动检查更新)&lt;/li&gt;
+&lt;li&gt;视频播放组件(播放器)，支持手势控制/夜间模式/弹幕/倍速控制/多集聚合/横竖旋转适应等&lt;/li&gt;
+&lt;li&gt;私有可视化KV存储(插件私有配置)&lt;/li&gt;
+&lt;li&gt;个人数据/插件云端备份(WebDav,开发中)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;简单来说，这款软件能看什么取决与你用什么插件：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="MediaBox" src="https://images-1252557999.file.myqcloud.com/uPic/MediaBox.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/hunmer/mCollection"&gt;mCollection&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;🎉开源，可扩展，可自定义的素材管理库：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;sqlite3存储结构，允许自定义关联表&lt;/li&gt;
+&lt;li&gt;没有限制的扩展插件，事件广播多&lt;/li&gt;
+&lt;li&gt;模块化设计，各个功能互不干扰&lt;/li&gt;
+&lt;li&gt;标签页设计，切换更便捷&lt;/li&gt;
+&lt;li&gt;内置全局呼出搜索&lt;/li&gt;
+&lt;li&gt;代码热更新&lt;/li&gt;
+&lt;li&gt;前后端分离，支持部署私人素材库&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="mCollection" src="https://images-1252557999.file.myqcloud.com/uPic/mCollection.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/collabnix/dockerlabs"&gt;dockerlabs&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Docker 学习教程：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;适用于初中高级别学习者的免费平台&lt;/li&gt;
+&lt;li&gt;超过500个高度互动的Docker教程和指南&lt;/li&gt;
+&lt;li&gt;经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="dockerlabs" src="https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/piglei/one-python-craftsman"&gt;one-python-craftsman&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;来自一位 &lt;code&gt;Pythonista&lt;/code&gt; 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="one-python-craftsman" src="https://images-1252557999.file.myqcloud.com/uPic/one-python-craftsman.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://olocr.com"&gt;olocr.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个在线免费的 &lt;code&gt;OCR&lt;/code&gt; 识别网站，支持 &lt;code&gt;PDF&lt;/code&gt; 和 图片：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="olocr" src="https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.onepdf.online/"&gt;onepdf&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;免费的 &lt;code&gt;PDF&lt;/code&gt; 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="onepdf" src="https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🥳我基于ChatGPT做了个&lt;a href="https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ"&gt;微信端的老胡信息周刊QA&lt;/a&gt;，欢迎免费体验&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/06-19~06-24.老胡的周刊（第096期）.md</guid>
+    </item>
     <item>
       <title>06-12~06-17.老胡的周刊（第095期）.md</title>
       <link>https://weekly.howie6879.com//2023/06-12~06-17.老胡的周刊（第095期）.html</link>
