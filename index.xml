@@ -12,7 +12,64 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 25 Jun 2023 14:51:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jul 2023 07:19:30 +0000</lastBuildDate>
+    <item>
+      <title>06-25~07-01.老胡的周刊（第097期）.md</title>
+      <link>https://weekly.howie6879.com//2023/06-25~07-01.老胡的周刊（第097期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/06-25~07-01.老胡的周刊（第097期）.html"&gt;06-25~07-01.老胡的周刊（第097期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/chat2db/Chat2DB"&gt;Chat2DB&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Chat2DB&lt;/code&gt; 是一款有开源免费的智能且多功能的SQL客户端和报表工具，适用于各种数据库：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🌈 AI智能助手，支持自然语言转SQL、SQL转自然语言、SQL优化建议&lt;/li&gt;
+&lt;li&gt;🔥 SQL查询、AI查询和数据报表完美集成的一体化解决方案设计与实现&lt;/li&gt;
+&lt;li&gt;👭 支持团队协作，研发无需知道线上数据库密码，解决企业数据库账号安全问题&lt;/li&gt;
+&lt;li&gt;⚙️ 强大的数据管理能力，支持数据表、视图、存储过程、函数、触发器、索引、序列、用户、角色、授权等管理&lt;/li&gt;
+&lt;li&gt;🔌 强大的扩展能力，目前已经支持MySQL、PostgreSQL、Oracle、SQLServer、ClickHouse、OceanBase、H2、SQLite等等，未来会支持更多的数据库&lt;/li&gt;
+&lt;li&gt;🛡 前端使用 Electron 开发，提供 Windows、Mac、Linux 客户端、网页版本一体化的解决方案&lt;/li&gt;
+&lt;li&gt;🎁 支持环境隔离、线上、日常数据权限分离&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="Chat2DB" src="https://images-1252557999.file.myqcloud.com/uPic/Chat2DB.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/psoho/fast-poster"&gt;fast-poster&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;fastposter&lt;/code&gt; 海报生成器是一款快速开发海报的工具。只需上传一张背景图，在对应的位置放上组件（文字、图片、二维码、头像）即可生成海报。 点击代码直接生成各种语言的调用代码，方便快速开发:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="fast-poster" src="https://images-1252557999.file.myqcloud.com/uPic/fast-poster.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/webpilot-ai/Webpilot"&gt;Webpilot&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源浏览器插件，基于 &lt;code&gt;ChatGPT&lt;/code&gt; 可以让您与网页进行自由对话，可以在线访问 &lt;a href="https://github.com/webpilot-ai/Webpilot"&gt;webpilot.ai&lt;/a&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="webpilot" src="https://images-1252557999.file.myqcloud.com/uPic/webpilot.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/massivemadness/Squircle-CE"&gt;Squircle-CE&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Squircle CE&lt;/code&gt; 是一款快速且免费的多语言代码编辑器，适用于安卓系统:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Squircle-CE" src="https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/veekaybee/what_are_embeddings"&gt;what_are_embeddings&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 &lt;code&gt;PDF&lt;/code&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="what_are_embeddings" src="https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://zh.javascript.info/"&gt;现代 JavaScript 教程&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="javascript_info" src="https://images-1252557999.file.myqcloud.com/uPic/javascript_info.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://learningos.github.io/rcore_step_by_step_webdoc"&gt;rcore_step_by_step_webdoc&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本系列文章记录了使用 &lt;code&gt;Rust&lt;/code&gt; 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="rcore_step_by_step_webdoc" src="https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://regex.ai/"&gt;regex.ai&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;regex.ai&lt;/code&gt; 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="regex_ai" src="https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://grep.app/"&gt;grep.app&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Github&lt;/code&gt; 代码搜索网站，搜索速度和展示界面都挺不错：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="grep_app" src="https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🥳我基于ChatGPT做了个&lt;a href="https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ"&gt;微信端的老胡信息周刊QA&lt;/a&gt;，欢迎免费体验&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/06-25~07-01.老胡的周刊（第097期）.md</guid>
+    </item>
     <item>
       <title>06-19~06-24.老胡的周刊（第096期）.md</title>
       <link>https://weekly.howie6879.com//2023/06-19~06-24.老胡的周刊（第096期）.html</link>
