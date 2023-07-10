@@ -12,7 +12,58 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Mon, 03 Jul 2023 07:19:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jul 2023 10:42:49 +0000</lastBuildDate>
+    <item>
+      <title>07-03~07-07.老胡的周刊（第098期）.md</title>
+      <link>https://weekly.howie6879.com//2023/07-03~07-07.老胡的周刊（第098期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/07-03~07-07.老胡的周刊（第098期）.html"&gt;07-03~07-07.老胡的周刊（第098期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/chaitin/safeline"&gt;safeline&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;便捷性：采用容器化部署，一条命令即可完成安装，0 成本上手。安全配置开箱即用，无需人工维护，可实现安全躺平式管理。&lt;/li&gt;
+&lt;li&gt;安全性：首创业内领先的智能语义分析算法，精准检测、低误报、难绕过。语义分析算法无规则，面对未知特征的 0day 攻击不再手足无措。&lt;/li&gt;
+&lt;li&gt;高性能：无规则引擎，线性安全检测算法，平均请求检测延迟在 1 毫秒级别。并发能力强，单核轻松检测 2000+ TPS，只要硬件足够强，可支撑的流量规模无上限。&lt;/li&gt;
+&lt;li&gt;高可用：流量处理引擎基于 Nginx 开发，性能与稳定性均可得到保障。内置完善的健康检查机制，服务可用性高达 99.99%。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="safeline" src="https://images-1252557999.file.myqcloud.com/uPic/safeline.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/GopeedLab/gopeed"&gt;gopeed&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Gopeed&lt;/code&gt;（全称 &lt;code&gt;Go Speed&lt;/code&gt;），是一款由 &lt;code&gt;Golang+Flutter&lt;/code&gt; 开发的高速下载器，支持（&lt;code&gt;HTTP、BitTorrent、Magnet&lt;/code&gt;）协议下载，并且支持全平台使用：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="gopeed" src="https://images-1252557999.file.myqcloud.com/uPic/gopeed.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://weektodo.me/"&gt;weektodo&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;WeekToDo&lt;/code&gt; 是一个免费且开源&amp;amp;跨平台的极简周计划软件，您可以以简单直观的方式定义和管理您的周计划和任务，从而提高您的工作效率：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="weektodo" src="https://images-1252557999.file.myqcloud.com/uPic/weektodo.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/linearmouse/linearmouse"&gt;linearmouse&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Mac&lt;/code&gt; 的鼠标和触控板实用工具，可以为你的鼠标和触控板定制不同的参数：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="linearmouse" src="https://images-1252557999.file.myqcloud.com/uPic/linearmouse.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/phodal/aigc"&gt;构筑大语言模型应用：应用开发与架构设计&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一本关于 &lt;code&gt;LLM&lt;/code&gt; 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 &lt;code&gt;Prompt&lt;/code&gt; 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 &lt;code&gt;LLM&lt;/code&gt; 应用开发的模式和架构设计：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="phodal_aigc" src="https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://calltoinspiration.com/"&gt;calltoinspiration&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;根据不同 &lt;code&gt;UI&lt;/code&gt; 下业务类型和方向进行分类，给用户展示不同效果以参考：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="calltoinspiration" src="https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://tool.crontap.com/cronjob-debugger"&gt;CronTool&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Linux Crontab&lt;/code&gt; 可视化网站：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="crontap" src="https://images-1252557999.file.myqcloud.com/uPic/crontap.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://fulltime.ai/spaces/"&gt;fulltime.ai&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;搜索体验 288个 &lt;code&gt;HuggingFace&lt;/code&gt; 空间 &lt;code&gt;GPU&lt;/code&gt; 上运行的项目：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="fulltime_ai" src="https://images-1252557999.file.myqcloud.com/uPic/fulltime_ai.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🥳我基于ChatGPT做了个&lt;a href="https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ"&gt;微信端的老胡信息周刊QA&lt;/a&gt;，欢迎免费体验&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/07-03~07-07.老胡的周刊（第098期）.md</guid>
+    </item>
     <item>
       <title>06-25~07-01.老胡的周刊（第097期）.md</title>
       <link>https://weekly.howie6879.com//2023/06-25~07-01.老胡的周刊（第097期）.html</link>
