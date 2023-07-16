@@ -12,7 +12,66 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Mon, 10 Jul 2023 10:42:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jul 2023 15:57:02 +0000</lastBuildDate>
+    <item>
+      <title>07-10~07-16.老胡的周刊（第099期）.md</title>
+      <link>https://weekly.howie6879.com//2023/07-10~07-16.老胡的周刊（第099期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/07-10~07-16.老胡的周刊（第099期）.html"&gt;07-10~07-16.老胡的周刊（第099期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/EstrellaXD/Auto_Bangumi"&gt;Auto_Bangumi&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;Mikan Project、qBittorrent&lt;/code&gt; 的全自动追番整理下载工具。只需要在 &lt;code&gt;Mikan Project&lt;/code&gt; 上订阅番剧，就可以全自动追番。并且整理完成的名称和目录可以直接被 &lt;code&gt;Plex、Jellyfin&lt;/code&gt; 等媒体库软件识别，无需二次刮削：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Auto_Bangumi" src="https://images-1252557999.file.myqcloud.com/uPic/Auto_Bangumi.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/aoaostar/toolbox"&gt;toolbox&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;🚀傲星工具箱，一个在线工具箱：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="toolbox" src="https://images-1252557999.file.myqcloud.com/uPic/toolbox.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/mhss1/MyBrain"&gt;MyBrain&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源的、多合一的生产力应用，包括任务、笔记、日历、日记和书签：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;完全私密，不收集任何数据，也没有任何互联网权限。&lt;/li&gt;
+&lt;li&gt;创建具有优先级、子任务、描述、截止日期和提醒的任务。&lt;/li&gt;
+&lt;li&gt;创建支持Markdown的笔记，可以使用标题、列表、链接等功能。&lt;/li&gt;
+&lt;li&gt;每天记录你的心情，并通过美丽的图表查看你的心情总结。&lt;/li&gt;
+&lt;li&gt;通过使用其他应用程序的共享菜单，将书签保存到稍后阅读。&lt;/li&gt;
+&lt;li&gt;以现代视图查看您的日历事件，并使用漂亮的主屏幕小部件。&lt;/li&gt;
+&lt;li&gt;仪表盘屏幕可一目了然地查看您的任务、日历事件等，让您了解当天的安排。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="mybrain" src="https://images-1252557999.file.myqcloud.com/uPic/mybrain.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/coolpace/V2EX_Polish"&gt;V2EX_Polish&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;专业的 V2EX 浏览器扩展，集合了众多实用功能，重塑你的浏览体验！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🪄 界面美化：UI 设计更现代化，为你带来愉悦的视觉体验。&lt;/li&gt;
+&lt;li&gt;📥 评论回复嵌套层级：主题下的评论回复支持层级展示，可以更轻松地跟踪和回复其他用户的评论。&lt;/li&gt;
+&lt;li&gt;🔥 热门回复展示：自动筛选出最受欢迎的回复，第一时间追上热评。&lt;/li&gt;
+&lt;li&gt;😀 表情回复支持：评论输入框可以选择表情，让回复更加生动和有趣。&lt;/li&gt;
+&lt;li&gt;📃 长回复优化：智能折叠长篇回复，一键展开查看完整内容。&lt;/li&gt;
+&lt;li&gt;📰 内置主题列表：无需打开网页，插件内即可快速获取最热、最新的主题列表和消息通知。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="v2p" src="https://images-1252557999.file.myqcloud.com/uPic/v2p.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/coderit666/GoGuide"&gt;GoGuide&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Go Guide&lt;/code&gt; 致力于打造最易懂的 &lt;code&gt;Go&lt;/code&gt; 语言教程：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="GoGuide" src="https://images-1252557999.file.myqcloud.com/uPic/GoGuide.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://etempmail.com/zh"&gt;etempmail&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个免费提供临时电子邮件服务的网站，可以用来注册并获取需要教育邮箱才能获取的福利。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="edu_mail" src="https://images-1252557999.file.myqcloud.com/uPic/edu_mail.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://yima.me/"&gt;yima.me&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;免费生成 &lt;code&gt;AI&lt;/code&gt; 艺术二维码：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="yima" src="https://images-1252557999.file.myqcloud.com/uPic/yima.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🥳我基于ChatGPT做了个&lt;a href="https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ"&gt;微信端的老胡信息周刊QA&lt;/a&gt;，欢迎免费体验&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/07-10~07-16.老胡的周刊（第099期）.md</guid>
+    </item>
     <item>
       <title>07-03~07-07.老胡的周刊（第098期）.md</title>
       <link>https://weekly.howie6879.com//2023/07-03~07-07.老胡的周刊（第098期）.html</link>
