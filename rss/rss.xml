@@ -12,7 +12,52 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Mon, 24 Jul 2023 11:07:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2023 09:31:25 +0000</lastBuildDate>
+    <item>
+      <title>07-24~07-30.老胡的周刊（第101期）.md</title>
+      <link>https://weekly.howie6879.com//2023/07-24~07-30.老胡的周刊（第101期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/07-24~07-30.老胡的周刊（第101期）.html"&gt;07-24~07-30.老胡的周刊（第101期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/jmorganca/ollama"&gt;ollama&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;你可以下载 &lt;code&gt;Ollama&lt;/code&gt; 在本地运行 &lt;code&gt;Llama 2&lt;/code&gt; 大模型，它将模型的权重、配置、提示等一起打包：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ollama" src="https://images-1252557999.file.myqcloud.com/uPic/ollama.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/novuhq/novu"&gt;novu&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;这是一个开源的基础设施项目，用于快速搭建通知中心，&lt;code&gt;Novu&lt;/code&gt; 提供了一个统一的 &lt;code&gt;API&lt;/code&gt;，使通过多个通道（包括应用内、推送、电子邮件、短信和聊天）发送通知变得简单：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="novu" src="https://images-1252557999.file.myqcloud.com/uPic/novu.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit"&gt;ZoomIt&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;ZoomIt&lt;/code&gt; 是一款用于屏幕缩放、注释和录制的演示工具，微软出品（大小仅 1M）：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ZoomIt" src="https://images-1252557999.file.myqcloud.com/uPic/ZoomIt.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Uahh/ToastFish"&gt;ToastFish&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;这是一个利用 &lt;code&gt;Windows&lt;/code&gt; 通知栏背单词的软件，可以让你在上班、上课等环境下安全地背单词：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ToastFish" src="https://images-1252557999.file.myqcloud.com/uPic/ToastFish.gif" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://wesmckinney.com/book/"&gt;Python for Data Analysis, 3E&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;《Python for Data Analysis》第三版，该书详细介绍了如何使用 &lt;code&gt;Python&lt;/code&gt; 进行数据分析和数据处理的方法和技巧，适合那些希望使用Python进行数据分析的初学者和有经验的数据分析师：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="wesmckinney" src="https://images-1252557999.file.myqcloud.com/uPic/wesmckinney.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://clipdrop.co/stable-doodle"&gt;stable-doodle&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;stability AI&lt;/code&gt; 推出的 &lt;code&gt;AI&lt;/code&gt; 工具, 根据涂鸦和文字描述生成图片, 类似之推荐的 &lt;a href="https://weekly.howie6879.com/2023/03-06~03-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC082%E6%9C%9F%EF%BC%89.html?h=%E7%94%BB#scribblediffusioncom"&gt;scribblediffusion.com&lt;/a&gt;，我画了只兔子：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="stable-doodle" src="https://images-1252557999.file.myqcloud.com/uPic/stable-doodle.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.shenyandayi.com/"&gt;shenyandayi&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;深言达意，懂文字更懂你：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="shenyandayi" src="https://images-1252557999.file.myqcloud.com/uPic/shenyandayi.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.macosicongallery.com/"&gt;macosicongallery&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="macosicongallery" src="https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🥳我基于ChatGPT做了个&lt;a href="https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ"&gt;微信端的老胡信息周刊QA&lt;/a&gt;，欢迎免费体验&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/07-24~07-30.老胡的周刊（第101期）.md</guid>
+    </item>
     <item>
       <title>07-17~07-23.老胡的周刊（第100期）.md</title>
       <link>https://weekly.howie6879.com//2023/07-17~07-23.老胡的周刊（第100期）.html</link>
