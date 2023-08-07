@@ -12,7 +12,65 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Fri, 28 Jul 2023 09:35:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2023 10:55:57 +0000</lastBuildDate>
+    <item>
+      <title>07-24~07-30.老胡的周刊（第102期）.md</title>
+      <link>https://weekly.howie6879.com//2023/07-24~07-30.老胡的周刊（第102期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/07-24~07-30.老胡的周刊（第102期）.html"&gt;07-24~07-30.老胡的周刊（第102期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/rockbenben/ChatGPT-Shortcut"&gt;ChatGPT-Shortcut&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;ChatGPT&lt;/code&gt; 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="aishort" src="https://images-1252557999.file.myqcloud.com/uPic/aishort.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/linkwarden/linkwarden"&gt;linkwarden&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个自托管的、开源的协作式书签管理器，用于收集、组织和归档网页:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="linkwarden" src="https://images-1252557999.file.myqcloud.com/uPic/linkwarden.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/mark-when/markwhen"&gt;markwhen&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Markwhen&lt;/code&gt; 是一个交互式的文本到时间轴工具，&lt;code&gt;用户只需要编写类似于Markdown&lt;/code&gt; 的文本，它就会转换成一个漂亮的级联时间轴：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="markwhen" src="https://images-1252557999.file.myqcloud.com/uPic/markwhen.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Sangwan5688/BlackHole"&gt;BlackHole&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个适用于您所有需求的开源音乐播放器应用，高颜值、无广告、免费音乐播放器，拥有歌词、专辑、艺术家、播放列表、定时关闭等功能，支持 &lt;code&gt;Android、iOS、macOS&lt;/code&gt; 系统：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="BlackHole" src="https://images-1252557999.file.myqcloud.com/uPic/BlackHole.png" /&gt;
+&lt;img alt="hole" src="https://images-1252557999.file.myqcloud.com/uPic/hole.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.openbmb.org/community/course"&gt;大模型交叉研讨课&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="openbmb_course" src="https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/liyupi/sql-mother"&gt;sql-mother&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~&lt;/p&gt;
+&lt;p&gt;&lt;img alt="sqlmother" src="https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;在线网站点&lt;a href="http://sqlmother.yupi.icu/#/learn"&gt;这里&lt;/a&gt;。&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://ailogo.qq.com/"&gt;ailogo&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;AI&lt;/code&gt; 智能生成可商用的 &lt;code&gt;LOGO&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ailogo" src="https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://aicodeconvert.com/"&gt;aicodeconvert&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://github.com/JustAIGithub/AI-Code-Convert"&gt;开源&lt;/a&gt;的的 &lt;code&gt;AI&lt;/code&gt; 代码转换工具，基于 &lt;code&gt;GPT&lt;/code&gt; 实现：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;自然语言转代码，描述需求就生成对应的代码&lt;/li&gt;
+&lt;li&gt;把代码一键转换为另一种代码语言实现&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="aicodeconvert" src="https://images-1252557999.file.myqcloud.com/uPic/aicodeconvert.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="http://www.xysudu.com/"&gt;小鱼速读&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;该网站收藏了B站上各位大佬发布的经典速读视频：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;书籍：大类包括豆瓣总榜、科幻小说、推理悬疑、科学普及、历史经典、政治经济……11大类，一共667本经典书籍&lt;/li&gt;
+&lt;li&gt;影视：大类包括内地剧、美剧、动漫、港剧、日剧、韩剧&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="xysudu" src="https://images-1252557999.file.myqcloud.com/uPic/xysudu.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🥳我基于ChatGPT做了个&lt;a href="https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ"&gt;微信端的老胡信息周刊QA&lt;/a&gt;，欢迎免费体验&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/07-24~07-30.老胡的周刊（第102期）.md</guid>
+    </item>
     <item>
       <title>07-24~07-30.老胡的周刊（第101期）.md</title>
       <link>https://weekly.howie6879.com//2023/07-24~07-30.老胡的周刊（第101期）.html</link>
