@@ -12,7 +12,89 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 13 Aug 2023 02:50:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Aug 2023 08:47:32 +0000</lastBuildDate>
+    <item>
+      <title>08-14~08-20.老胡的周刊（第104期）.md</title>
+      <link>https://weekly.howie6879.com//2023/08-14~08-20.老胡的周刊（第104期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/08-14~08-20.老胡的周刊（第104期）.html"&gt;08-14~08-20.老胡的周刊（第104期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/avwo/whistle"&gt;whistle&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Whistle 是基于 Node 实现的跨平台抓包调试工具，其主要特点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;完全跨平台&lt;/strong&gt;：支持 Mac、Windows 等桌面系统，且支持服务端等命令行系统&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;功能强大（理论上可以对请求做任意修改）&lt;/strong&gt;：&lt;ul&gt;
+&lt;li&gt;支持作为 HTTP、HTTPS、SOCKS 代理及反向代理&lt;/li&gt;
+&lt;li&gt;支持抓包及修改 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求&lt;/li&gt;
+&lt;li&gt;支持重放及构造 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求&lt;/li&gt;
+&lt;li&gt;支持设置上游代理、PAC 脚本、Hosts、延迟（限速）请求响应等&lt;/li&gt;
+&lt;li&gt;支持查看远程页面的 console 日志及 DOM 节点&lt;/li&gt;
+&lt;li&gt;支持用 Node 开发插件扩展功能，也可以作为独立 npm 包引用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;操作简单&lt;/strong&gt;：&lt;ul&gt;
+&lt;li&gt;直接通过浏览器查看抓包、修改请求&lt;/li&gt;
+&lt;li&gt;所有修改操作都可以通过配置方式实现（类似系统 Hosts），并支持分组管理&lt;/li&gt;
+&lt;li&gt;项目可以自带代理规则配置并一键设置到本地 Whistle 代理，也可以通过定制插件简化操作&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="whistle" src="https://images-1252557999.file.myqcloud.com/uPic/whistle.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/getmoneynote/moneynote-api"&gt;moneynote-api&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个开源免费的记账解决方案，包括&lt;a href="https://github.com/getmoneynote/moneynote-api"&gt;后端&lt;/a&gt;，&lt;a href="https://github.com/getmoneynote/moneywhere-user-fe"&gt;网页版&lt;/a&gt;，&lt;a href="https://github.com/getmoneynote/moneywhere_user_flutter"&gt;App&lt;/a&gt;，主要用于个人生活记账，开店收支记账，支持&lt;a href="https://github.com/getmoneynote/docker-compose-moneywhere"&gt; Docker 一键部署&lt;/a&gt;自己的记账程序：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="moneynote-api" src="https://images-1252557999.file.myqcloud.com/uPic/moneynote-api.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/srcrs/rss-reader"&gt;rss-reader&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个极简的 &lt;code&gt;RSS&lt;/code&gt; 在线浏览工具：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="rss-reader" src="https://images-1252557999.file.myqcloud.com/uPic/rss-reader.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/OdysseusYuan/LKY_OfficeTools"&gt;LKY_OfficeTools&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一键快速下载、安装、激活最新版 Microsoft Office 软件。&lt;/li&gt;
+&lt;li&gt;用户可在安装 Word、PPT、Excel 的同时，根据软件提示，自助安装其它组件，包括： Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype&lt;/li&gt;
+&lt;li&gt;工具可自动识别不同的操作系统架构，自动下载适配版本的 Office。&lt;/li&gt;
+&lt;li&gt;本工具激活 Office 的方式为正版激活模式，不会篡改任何系统文件。&lt;/li&gt;
+&lt;li&gt;当系统中存在多个冗余 Office 版本时，本工具在用户同意的情况下，可实现自动升级。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href="https://github.com/taojy123/KeymouseGo"&gt;KeymouseGo&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="KeymouseGo" src="https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/LorisYounger/VPet"&gt;VPet&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何 &lt;code&gt;WPF&lt;/code&gt; 应用程序，支持各种互动投喂等. 开源免费并且支持创意工坊：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="VPet" src="https://images-1252557999.file.myqcloud.com/uPic/VPet.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/wangshusen/SearchEngine"&gt;wangshusen/SearchEngine&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源的搜索引擎原理书籍（不方便下载的直接私聊我发 PDF），包含：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;搜索引擎基础&lt;/li&gt;
+&lt;li&gt;相关性&lt;/li&gt;
+&lt;li&gt;其他决定用户满意度的因子&lt;/li&gt;
+&lt;li&gt;查询词处理&lt;/li&gt;
+&lt;li&gt;召回&lt;/li&gt;
+&lt;li&gt;排序&lt;/li&gt;
+&lt;li&gt;查询词推荐&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="SearchEngine" src="https://images-1252557999.file.myqcloud.com/uPic/SearchEngine.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://crashcourse.club/category"&gt;crashcourse&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Crash Course&lt;/code&gt; 10分钟速成课，是 &lt;code&gt;Hank Green &amp;amp; John Green&lt;/code&gt; &lt;code&gt;两兄弟在Youtube&lt;/code&gt; 上制作的系列免费课程，包含了历史、文学、计算机、心理学、哲学、化学、生物学、电影等奖金40中科目的速成课，值得一看：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="crashcourse" src="https://images-1252557999.file.myqcloud.com/uPic/crashcourse.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://iconbuddy.app/svg-icons"&gt;iconbuddy&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;SVG&lt;/code&gt; 图标检索网站（目前有18万图标），可简单编辑和下载：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="iconbuddy" src="https://images-1252557999.file.myqcloud.com/uPic/iconbuddy.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🥳我基于ChatGPT做了个&lt;a href="https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ"&gt;微信端的老胡信息周刊QA&lt;/a&gt;，欢迎免费体验&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/08-14~08-20.老胡的周刊（第104期）.md</guid>
+      <pubDate>Sat, 19 Aug 2023 16:46:29 +0806</pubDate>
+    </item>
     <item>
       <title>08-07~08-13.老胡的周刊（第103期）.md</title>
       <link>https://weekly.howie6879.com//2023/08-07~08-13.老胡的周刊（第103期）.html</link>
@@ -25,7 +107,7 @@
 &lt;p&gt;&lt;a href="https://metersphere.io/"&gt;MeterSphere&lt;/a&gt; 是一站式开源持续测试平台, 涵盖测试跟踪、接口测试、&lt;code&gt;UI&lt;/code&gt; 测试和性能测试等功能，全面兼容 &lt;code&gt;JMeter、Selenium&lt;/code&gt; 等主流开源标准，有效助力开发和测试团队充分利用云弹性进行高度可扩展的自动化测试，加速高质量的软件交付：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="metersphere" src="https://images-1252557999.file.myqcloud.com/uPic/metersphere.jpeg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/songquanpeng/one-api"&gt;one-api&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;penAI 接口管理 &amp;amp; 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;OpenAI&lt;/code&gt; 接口管理 &amp;amp; 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="one-api" src="https://images-1252557999.file.myqcloud.com/uPic/one-api.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;🤖 软件&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/Mortennn/Dozer"&gt;Dozer&lt;/a&gt;&lt;/h3&gt;
@@ -60,7 +142,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/08-07~08-13.老胡的周刊（第103期）.md</guid>
-      <pubDate>Sun, 13 Aug 2023 10:36:41 +0806</pubDate>
+      <pubDate>Sun, 13 Aug 2023 15:28:05 +0806</pubDate>
     </item>
     <item>
       <title>08-01~08-07.老胡的周刊（第102期）.md</title>
