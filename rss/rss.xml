@@ -12,7 +12,74 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sat, 19 Aug 2023 08:47:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Aug 2023 15:59:38 +0000</lastBuildDate>
+    <item>
+      <title>08-21~08-27.老胡的周刊（第105期）.md</title>
+      <link>https://weekly.howie6879.com//2023/08-21~08-27.老胡的周刊（第105期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/08-21~08-27.老胡的周刊（第105期）.html"&gt;08-21~08-27.老胡的周刊（第105期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Piwigo/Piwigo"&gt;Piwigo&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Piwigo&lt;/code&gt; 是一个开源的网络照片库软件，用于管理照片，专为组织、团队和个人设计：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Piwigo" src="https://images-1252557999.file.myqcloud.com/uPic/Piwigo.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;### &lt;a href="https://github.com/canonical/multipass"&gt;Multipass&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Multipass&lt;/code&gt; 是一个轻量级的 &lt;code&gt;Linux、Windows&amp;amp;macOS&lt;/code&gt; 虚拟机管理器。它专为开发人员设计，可以通过一条命令获得全新的 &lt;code&gt;Ubuntu&lt;/code&gt; 环境：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="multipass" src="https://images-1252557999.file.myqcloud.com/uPic/multipass.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/toeverything/AFFiNE"&gt;AFFiNE&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;AFFiNE&lt;/code&gt; 是为创意思考而生的统一知识管理平台，一个注重隐私、本地优先、开源且可立即使用的 &lt;code&gt;Notion + Miro&lt;/code&gt; 开源替代方案：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;同时书写、绘制和计划&lt;/li&gt;
+&lt;li&gt;任意地方存储查看您的数据&lt;/li&gt;
+&lt;li&gt;离线优先&lt;/li&gt;
+&lt;li&gt;简洁直观的设计&lt;/li&gt;
+&lt;li&gt;具备 &lt;code&gt;Markdown&lt;/code&gt; 支持的现代区块编辑器&lt;/li&gt;
+&lt;li&gt;团队协作&lt;/li&gt;
+&lt;li&gt;多语言支持&lt;/li&gt;
+&lt;li&gt;插件支持&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;支持 &lt;code&gt;web&lt;/code&gt; &amp;amp; 跨平台访问：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="afine" src="https://images-1252557999.file.myqcloud.com/uPic/afine.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/edrlab/thorium-reader"&gt;thorium-reader&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Thorium Reader&lt;/code&gt; 是一款专为 &lt;code&gt;Windows 10/11、MacOS &amp;amp; Linux&lt;/code&gt; 开发的电子书阅读器：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="thorium-reader" src="https://images-1252557999.file.myqcloud.com/uPic/thorium-reader.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/smol-ai/GodMode/"&gt;GodMode&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;AI&lt;/code&gt; 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 &lt;code&gt;ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat&lt;/code&gt; 等当下多个主流 AI 大模型，适用于多种不同的应用场景：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="GodMode" src="https://images-1252557999.file.myqcloud.com/uPic/GodMode.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/sudoskys/StableDiffusionBook"&gt;StableDiffusionBook&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本指南是关于 &lt;code&gt;Stable Diffusion WebUi&lt;/code&gt; 的使用及围绕相关技术展开的应用指导型 &lt;code&gt;Wiki&lt;/code&gt;，访问地址 &lt;a href="https://stable-diffusion-book.vercel.app/"&gt;stable-diffusion-book&lt;/a&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="StableDiffusionBook" src="https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://docs.qq.com/sheet/DY2RmcVVMVE9Qd3JV?tab=BB08J2"&gt;通识千书书单-聪明的阅读者&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;汇总聪明的阅读者里面出现的书单，可以选择最小单位的书单阅读：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="聪明的阅读者" src="https://images-1252557999.file.myqcloud.com/uPic/聪明的阅读者.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://workout.lol/"&gt;workout&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;免费&lt;a href="https://github.com/workout-lol/workout-lol"&gt;开源-workout-lol&lt;/a&gt;的健身网站，选择你拥有的器材、锻炼的肌肉位置，网站便会为你制定锻炼计划：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="workout" src="https://images-1252557999.file.myqcloud.com/uPic/workout.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://123apps.com/cn/"&gt;123apps&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;网站提供了一系列的小工具，包含分类：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;视频工具&lt;/li&gt;
+&lt;li&gt;音频工具&lt;/li&gt;
+&lt;li&gt;PDF 工具&lt;/li&gt;
+&lt;li&gt;转换器&lt;/li&gt;
+&lt;li&gt;......&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="123apps" src="https://images-1252557999.file.myqcloud.com/uPic/123apps.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🥳我基于ChatGPT做了个&lt;a href="https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ"&gt;微信端的老胡信息周刊QA&lt;/a&gt;，欢迎免费体验&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/08-21~08-27.老胡的周刊（第105期）.md</guid>
+      <pubDate>Sun, 27 Aug 2023 23:58:55 +0806</pubDate>
+    </item>
     <item>
       <title>08-14~08-20.老胡的周刊（第104期）.md</title>
       <link>https://weekly.howie6879.com//2023/08-14~08-20.老胡的周刊（第104期）.html</link>
