@@ -12,10 +12,77 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 27 Aug 2023 15:59:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2023 15:18:30 +0000</lastBuildDate>
+    <item>
+      <title>08-28~09-03.老胡的周刊（第106期）.md</title>
+      <link>https://weekly.howie6879.com/2023/08-28~09-03.老胡的周刊（第106期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/08-28~09-03.老胡的周刊（第106期）.html"&gt;08-28~09-03.老胡的周刊（第106期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/stangirard/quivr"&gt;quivr&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Quivr&lt;/code&gt; 是您在云中的第二个大脑，让您轻松存储和检索非结构化信息，通过索引你电脑上各种类型的文件，然后通过 &lt;code&gt;LLM&lt;/code&gt; 处理，最后进行问答：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="quivr_qa" src="https://images-1252557999.file.myqcloud.com/uPic/quivr_qa.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/zfdang/Android-Touch-Helper"&gt;Android-Touch-Helper&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;李跳跳下线了，还有开源的出来，开屏跳过-安卓系统的开屏广告自动跳过助手。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;开屏跳过&lt;/strong&gt;可以帮助用户自动跳过一些应用的开屏广告，基于Android的无障碍服务实现。&lt;/p&gt;
+&lt;p&gt;使用广告跳过程序，最大的风险是个人隐私被泄露。&lt;code&gt;因为这种软件都需要开启Accessibility&lt;/code&gt; 无障碍服务，可以获取屏幕上的&lt;strong&gt;所有内容&lt;/strong&gt;，从而可以检测广告，帮助用户自动跳过。&lt;/p&gt;
+&lt;p&gt;本程序是开源程序，不需要网络权限，不需要存储权限，不会收集或者上传任何信息！绝无隐私问题：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Android-Touch-Helper" src="https://images-1252557999.file.myqcloud.com/uPic/Android-Touch-Helper.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://codeium.com/"&gt;Codeium&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;AI&lt;/code&gt; 赋能的编码智能助手，自动补全代码，开发者的福音，对标 &lt;code&gt;GitHub Copilot&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="codeium" src="https://images-1252557999.file.myqcloud.com/uPic/codeium.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/mylxsw/aidea"&gt;aidea&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;支持 GPT-3.5/4 问答聊天&lt;/li&gt;
+&lt;li&gt;支持国产模型：通义千问，文心一言&lt;/li&gt;
+&lt;li&gt;支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="aidea" src="https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/tisfeng/Easydict"&gt;Easydict&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Easydict&lt;/code&gt; 是一个简洁易用的词典翻译 &lt;code&gt;macOS App&lt;/code&gt;，能够轻松优雅地查找单词或翻译文本。&lt;code&gt;Easydict&lt;/code&gt; 开箱即用，能自动识别输入文本语言，支持输入翻译，划词翻译和 &lt;code&gt;OCR&lt;/code&gt; 截图翻译，可同时查询多个翻译服务结果，目前支持有道词典，🍎苹果系统翻译，&lt;code&gt;DeepL&lt;/code&gt;，谷歌，百度和火山翻译。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Easydict" src="https://images-1252557999.file.myqcloud.com/uPic/Easydict.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;可以看到这个软件是老胡之前推荐的 &lt;a href="https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#upic"&gt;Bob&lt;/a&gt;，当然现在已经收费（老胡觉得不错已经付费支持），因为这个原因，开源界还出现了以下替代品：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=bob#pot-desktop"&gt;pot-desktop&lt;/a&gt;：🌈 一个跨平台的划词翻译软件&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://weekly.howie6879.com/2023/06-12~06-17.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC095%E6%9C%9F%EF%BC%89.html?h=bob#ttime"&gt;TTime&lt;/a&gt;：🚀 一款简洁高效的输入、截图、划词翻译软件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;对于浏览器双语翻译插件，还推荐以下项目：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/fishjar/kiss-translator"&gt;kiss-translator&lt;/a&gt;：一个简约的 双语网页翻译扩展 &amp;amp; 油猴脚本&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/openai-translator/openai-translator"&gt;openai-translator&lt;/a&gt;：基于 &lt;code&gt;ChatGPT API&lt;/code&gt; 的划词翻译浏览器插件和跨平台桌面端应用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://docs.qq.com/aio/DWVRkZ1RUWHRsdU1J?p=4oWLX7hAfFdfdbi4Ir5wqo"&gt;让你受益匪浅的名家写作经验&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;各文学大家的写作经验汇总：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="让你受益匪浅的名家写作经验" src="https://images-1252557999.file.myqcloud.com/uPic/让你受益匪浅的名家写作经验.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/isno/theByteBook"&gt;theByteBook&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="thebyte" src="https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://ideogram.ai/"&gt;ideogram.ai&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;免费无次数限制的文字转图片网页：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ideogram" src="https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://openfarm.cc/"&gt;openfarm.cc&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://github.com/openfarmcc/OpenFarm"&gt;&lt;code&gt;OpenFarm&lt;/code&gt;&lt;/a&gt; 是一个开源项目，目标是教你如何种植农作物：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="openfarm" src="https://images-1252557999.file.myqcloud.com/uPic/openfarm.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🥳我基于ChatGPT做了个&lt;a href="https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ"&gt;微信端的老胡信息周刊QA&lt;/a&gt;，欢迎免费体验&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/08-28~09-03.老胡的周刊（第106期）.md</guid>
+      <pubDate>Fri, 01 Sep 2023 23:14:17 +0806</pubDate>
+    </item>
     <item>
       <title>08-21~08-27.老胡的周刊（第105期）.md</title>
-      <link>https://weekly.howie6879.com//2023/08-21~08-27.老胡的周刊（第105期）.html</link>
+      <link>https://weekly.howie6879.com/2023/08-21~08-27.老胡的周刊（第105期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/08-21~08-27.老胡的周刊（第105期）.html"&gt;08-21~08-27.老胡的周刊（第105期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -24,7 +91,7 @@
 &lt;h3&gt;&lt;a href="https://github.com/Piwigo/Piwigo"&gt;Piwigo&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;Piwigo&lt;/code&gt; 是一个开源的网络照片库软件，用于管理照片，专为组织、团队和个人设计：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Piwigo" src="https://images-1252557999.file.myqcloud.com/uPic/Piwigo.jpeg" /&gt;&lt;/p&gt;
-&lt;p&gt;### &lt;a href="https://github.com/canonical/multipass"&gt;Multipass&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/canonical/multipass"&gt;Multipass&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;Multipass&lt;/code&gt; 是一个轻量级的 &lt;code&gt;Linux、Windows&amp;amp;macOS&lt;/code&gt; 虚拟机管理器。它专为开发人员设计，可以通过一条命令获得全新的 &lt;code&gt;Ubuntu&lt;/code&gt; 环境：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="multipass" src="https://images-1252557999.file.myqcloud.com/uPic/multipass.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;🤖 软件&lt;/h2&gt;
@@ -78,11 +145,11 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/08-21~08-27.老胡的周刊（第105期）.md</guid>
-      <pubDate>Sun, 27 Aug 2023 23:58:55 +0806</pubDate>
+      <pubDate>Mon, 28 Aug 2023 00:17:15 +0806</pubDate>
     </item>
     <item>
       <title>08-14~08-20.老胡的周刊（第104期）.md</title>
-      <link>https://weekly.howie6879.com//2023/08-14~08-20.老胡的周刊（第104期）.html</link>
+      <link>https://weekly.howie6879.com/2023/08-14~08-20.老胡的周刊（第104期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/08-14~08-20.老胡的周刊（第104期）.html"&gt;08-14~08-20.老胡的周刊（第104期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -164,7 +231,7 @@
     </item>
     <item>
       <title>08-07~08-13.老胡的周刊（第103期）.md</title>
-      <link>https://weekly.howie6879.com//2023/08-07~08-13.老胡的周刊（第103期）.html</link>
+      <link>https://weekly.howie6879.com/2023/08-07~08-13.老胡的周刊（第103期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/08-07~08-13.老胡的周刊（第103期）.html"&gt;08-07~08-13.老胡的周刊（第103期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -213,7 +280,7 @@
     </item>
     <item>
       <title>08-01~08-07.老胡的周刊（第102期）.md</title>
-      <link>https://weekly.howie6879.com//2023/08-01~08-07.老胡的周刊（第102期）.html</link>
+      <link>https://weekly.howie6879.com/2023/08-01~08-07.老胡的周刊（第102期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/08-01~08-07.老胡的周刊（第102期）.html"&gt;08-01~08-07.老胡的周刊（第102期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -272,7 +339,7 @@
     </item>
     <item>
       <title>07-24~07-30.老胡的周刊（第101期）.md</title>
-      <link>https://weekly.howie6879.com//2023/07-24~07-30.老胡的周刊（第101期）.html</link>
+      <link>https://weekly.howie6879.com/2023/07-24~07-30.老胡的周刊（第101期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/07-24~07-30.老胡的周刊（第101期）.html"&gt;07-24~07-30.老胡的周刊（第101期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -318,7 +385,7 @@
     </item>
     <item>
       <title>07-17~07-23.老胡的周刊（第100期）.md</title>
-      <link>https://weekly.howie6879.com//2023/07-17~07-23.老胡的周刊（第100期）.html</link>
+      <link>https://weekly.howie6879.com/2023/07-17~07-23.老胡的周刊（第100期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/07-17~07-23.老胡的周刊（第100期）.html"&gt;07-17~07-23.老胡的周刊（第100期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -422,7 +489,7 @@
     </item>
     <item>
       <title>07-10~07-16.老胡的周刊（第099期）.md</title>
-      <link>https://weekly.howie6879.com//2023/07-10~07-16.老胡的周刊（第099期）.html</link>
+      <link>https://weekly.howie6879.com/2023/07-10~07-16.老胡的周刊（第099期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/07-10~07-16.老胡的周刊（第099期）.html"&gt;07-10~07-16.老胡的周刊（第099期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -482,7 +549,7 @@
     </item>
     <item>
       <title>07-03~07-07.老胡的周刊（第098期）.md</title>
-      <link>https://weekly.howie6879.com//2023/07-03~07-07.老胡的周刊（第098期）.html</link>
+      <link>https://weekly.howie6879.com/2023/07-03~07-07.老胡的周刊（第098期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/07-03~07-07.老胡的周刊（第098期）.html"&gt;07-03~07-07.老胡的周刊（第098期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -534,7 +601,7 @@
     </item>
     <item>
       <title>06-25~07-01.老胡的周刊（第097期）.md</title>
-      <link>https://weekly.howie6879.com//2023/06-25~07-01.老胡的周刊（第097期）.html</link>
+      <link>https://weekly.howie6879.com/2023/06-25~07-01.老胡的周刊（第097期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/06-25~07-01.老胡的周刊（第097期）.html"&gt;06-25~07-01.老胡的周刊（第097期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -592,7 +659,7 @@
     </item>
     <item>
       <title>06-19~06-24.老胡的周刊（第096期）.md</title>
-      <link>https://weekly.howie6879.com//2023/06-19~06-24.老胡的周刊（第096期）.html</link>
+      <link>https://weekly.howie6879.com/2023/06-19~06-24.老胡的周刊（第096期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/06-19~06-24.老胡的周刊（第096期）.html"&gt;06-19~06-24.老胡的周刊（第096期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -674,7 +741,7 @@
     </item>
     <item>
       <title>06-12~06-17.老胡的周刊（第095期）.md</title>
-      <link>https://weekly.howie6879.com//2023/06-12~06-17.老胡的周刊（第095期）.html</link>
+      <link>https://weekly.howie6879.com/2023/06-12~06-17.老胡的周刊（第095期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/06-12~06-17.老胡的周刊（第095期）.html"&gt;06-12~06-17.老胡的周刊（第095期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -729,7 +796,7 @@
     </item>
     <item>
       <title>06-05~06-11.老胡的周刊（第094期）.md</title>
-      <link>https://weekly.howie6879.com//2023/06-05~06-11.老胡的周刊（第094期）.html</link>
+      <link>https://weekly.howie6879.com/2023/06-05~06-11.老胡的周刊（第094期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/06-05~06-11.老胡的周刊（第094期）.html"&gt;06-05~06-11.老胡的周刊（第094期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -797,7 +864,7 @@
     </item>
     <item>
       <title>05-29~06-04.老胡的周刊（第093期）.md</title>
-      <link>https://weekly.howie6879.com//2023/05-29~06-04.老胡的周刊（第093期）.html</link>
+      <link>https://weekly.howie6879.com/2023/05-29~06-04.老胡的周刊（第093期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/05-29~06-04.老胡的周刊（第093期）.html"&gt;05-29~06-04.老胡的周刊（第093期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -841,7 +908,7 @@
     </item>
     <item>
       <title>05-22~05-28.老胡的周刊（第092期）.md</title>
-      <link>https://weekly.howie6879.com//2023/05-22~05-28.老胡的周刊（第092期）.html</link>
+      <link>https://weekly.howie6879.com/2023/05-22~05-28.老胡的周刊（第092期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/05-22~05-28.老胡的周刊（第092期）.html"&gt;05-22~05-28.老胡的周刊（第092期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -928,7 +995,7 @@
     </item>
     <item>
       <title>05-15~05-20.老胡的周刊（第091期）.md</title>
-      <link>https://weekly.howie6879.com//2023/05-15~05-20.老胡的周刊（第091期）.html</link>
+      <link>https://weekly.howie6879.com/2023/05-15~05-20.老胡的周刊（第091期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/05-15~05-20.老胡的周刊（第091期）.html"&gt;05-15~05-20.老胡的周刊（第091期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -992,7 +1059,7 @@
     </item>
     <item>
       <title>05-01~05-13.老胡的周刊（第090期）.md</title>
-      <link>https://weekly.howie6879.com//2023/05-01~05-13.老胡的周刊（第090期）.html</link>
+      <link>https://weekly.howie6879.com/2023/05-01~05-13.老胡的周刊（第090期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/05-01~05-13.老胡的周刊（第090期）.html"&gt;05-01~05-13.老胡的周刊（第090期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -1054,7 +1121,7 @@
     </item>
     <item>
       <title>04-24~04-30.老胡的周刊（第089期）.md</title>
-      <link>https://weekly.howie6879.com//2023/04-24~04-30.老胡的周刊（第089期）.html</link>
+      <link>https://weekly.howie6879.com/2023/04-24~04-30.老胡的周刊（第089期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/04-24~04-30.老胡的周刊（第089期）.html"&gt;04-24~04-30.老胡的周刊（第089期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -1106,7 +1173,7 @@
     </item>
     <item>
       <title>04-17~04-22.老胡的周刊（第088期）.md</title>
-      <link>https://weekly.howie6879.com//2023/04-17~04-22.老胡的周刊（第088期）.html</link>
+      <link>https://weekly.howie6879.com/2023/04-17~04-22.老胡的周刊（第088期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/04-17~04-22.老胡的周刊（第088期）.html"&gt;04-17~04-22.老胡的周刊（第088期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -1175,7 +1242,7 @@
     </item>
     <item>
       <title>04-10~04-15.老胡的周刊（第087期）.md</title>
-      <link>https://weekly.howie6879.com//2023/04-10~04-15.老胡的周刊（第087期）.html</link>
+      <link>https://weekly.howie6879.com/2023/04-10~04-15.老胡的周刊（第087期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/04-10~04-15.老胡的周刊（第087期）.html"&gt;04-10~04-15.老胡的周刊（第087期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -1256,7 +1323,7 @@
     </item>
     <item>
       <title>04-03~04-08.老胡的周刊（第086期）.md</title>
-      <link>https://weekly.howie6879.com//2023/04-03~04-08.老胡的周刊（第086期）.html</link>
+      <link>https://weekly.howie6879.com/2023/04-03~04-08.老胡的周刊（第086期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/04-03~04-08.老胡的周刊（第086期）.html"&gt;04-03~04-08.老胡的周刊（第086期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -1327,7 +1394,7 @@
     </item>
     <item>
       <title>03-27~04-01.老胡的周刊（第085期）.md</title>
-      <link>https://weekly.howie6879.com//2023/03-27~04-01.老胡的周刊（第085期）.html</link>
+      <link>https://weekly.howie6879.com/2023/03-27~04-01.老胡的周刊（第085期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/03-27~04-01.老胡的周刊（第085期）.html"&gt;03-27~04-01.老胡的周刊（第085期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -1413,7 +1480,7 @@
     </item>
     <item>
       <title>03-20~03-25.老胡的周刊（第084期）.md</title>
-      <link>https://weekly.howie6879.com//2023/03-20~03-25.老胡的周刊（第084期）.html</link>
+      <link>https://weekly.howie6879.com/2023/03-20~03-25.老胡的周刊（第084期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/03-20~03-25.老胡的周刊（第084期）.html"&gt;03-20~03-25.老胡的周刊（第084期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -1481,7 +1548,7 @@
     </item>
     <item>
       <title>03-13~03-19.老胡的周刊（第083期）.md</title>
-      <link>https://weekly.howie6879.com//2023/03-13~03-19.老胡的周刊（第083期）.html</link>
+      <link>https://weekly.howie6879.com/2023/03-13~03-19.老胡的周刊（第083期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/03-13~03-19.老胡的周刊（第083期）.html"&gt;03-13~03-19.老胡的周刊（第083期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -1535,7 +1602,7 @@
     </item>
     <item>
       <title>03-06~03-11.老胡的周刊（第082期）.md</title>
-      <link>https://weekly.howie6879.com//2023/03-06~03-11.老胡的周刊（第082期）.html</link>
+      <link>https://weekly.howie6879.com/2023/03-06~03-11.老胡的周刊（第082期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/03-06~03-11.老胡的周刊（第082期）.html"&gt;03-06~03-11.老胡的周刊（第082期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -1587,7 +1654,7 @@
     </item>
     <item>
       <title>02-27~03-05.老胡的周刊（第081期）.md</title>
-      <link>https://weekly.howie6879.com//2023/02-27~03-05.老胡的周刊（第081期）.html</link>
+      <link>https://weekly.howie6879.com/2023/02-27~03-05.老胡的周刊（第081期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/02-27~03-05.老胡的周刊（第081期）.html"&gt;02-27~03-05.老胡的周刊（第081期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -1633,7 +1700,7 @@
     </item>
     <item>
       <title>02-20~02-25.老胡的周刊（第080期）.md</title>
-      <link>https://weekly.howie6879.com//2023/02-20~02-25.老胡的周刊（第080期）.html</link>
+      <link>https://weekly.howie6879.com/2023/02-20~02-25.老胡的周刊（第080期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/02-20~02-25.老胡的周刊（第080期）.html"&gt;02-20~02-25.老胡的周刊（第080期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -1706,7 +1773,7 @@
     </item>
     <item>
       <title>02-13~02-18.老胡的周刊（第079期）.md</title>
-      <link>https://weekly.howie6879.com//2023/02-13~02-18.老胡的周刊（第079期）.html</link>
+      <link>https://weekly.howie6879.com/2023/02-13~02-18.老胡的周刊（第079期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/02-13~02-18.老胡的周刊（第079期）.html"&gt;02-13~02-18.老胡的周刊（第079期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -1795,7 +1862,7 @@
     </item>
     <item>
       <title>02-06~02-12.老胡的周刊（第078期）.md</title>
-      <link>https://weekly.howie6879.com//2023/02-06~02-12.老胡的周刊（第078期）.html</link>
+      <link>https://weekly.howie6879.com/2023/02-06~02-12.老胡的周刊（第078期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/02-06~02-12.老胡的周刊（第078期）.html"&gt;02-06~02-12.老胡的周刊（第078期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -1862,7 +1929,7 @@
     </item>
     <item>
       <title>01-31~02-05.老胡的周刊（第077期）.md</title>
-      <link>https://weekly.howie6879.com//2023/01-31~02-05.老胡的周刊（第077期）.html</link>
+      <link>https://weekly.howie6879.com/2023/01-31~02-05.老胡的周刊（第077期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/01-31~02-05.老胡的周刊（第077期）.html"&gt;01-31~02-05.老胡的周刊（第077期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -1936,7 +2003,7 @@
     </item>
     <item>
       <title>01-23~01-28.老胡的周刊（第076期）.md</title>
-      <link>https://weekly.howie6879.com//2023/01-23~01-28.老胡的周刊（第076期）.html</link>
+      <link>https://weekly.howie6879.com/2023/01-23~01-28.老胡的周刊（第076期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/01-23~01-28.老胡的周刊（第076期）.html"&gt;01-23~01-28.老胡的周刊（第076期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -1992,7 +2059,7 @@
     </item>
     <item>
       <title>01-16~01-21.老胡的周刊（第075期）.md</title>
-      <link>https://weekly.howie6879.com//2023/01-16~01-21.老胡的周刊（第075期）.html</link>
+      <link>https://weekly.howie6879.com/2023/01-16~01-21.老胡的周刊（第075期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/01-16~01-21.老胡的周刊（第075期）.html"&gt;01-16~01-21.老胡的周刊（第075期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -2064,7 +2131,7 @@
     </item>
     <item>
       <title>01-09~01-14.老胡的周刊（第074期）.md</title>
-      <link>https://weekly.howie6879.com//2023/01-09~01-14.老胡的周刊（第074期）.html</link>
+      <link>https://weekly.howie6879.com/2023/01-09~01-14.老胡的周刊（第074期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/01-09~01-14.老胡的周刊（第074期）.html"&gt;01-09~01-14.老胡的周刊（第074期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -2126,7 +2193,7 @@
     </item>
     <item>
       <title>01-02~01-07.老胡的周刊（第073期）.md</title>
-      <link>https://weekly.howie6879.com//2023/01-02~01-07.老胡的周刊（第073期）.html</link>
+      <link>https://weekly.howie6879.com/2023/01-02~01-07.老胡的周刊（第073期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/01-02~01-07.老胡的周刊（第073期）.html"&gt;01-02~01-07.老胡的周刊（第073期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -2178,7 +2245,7 @@
     </item>
     <item>
       <title>12-26~12-31.老胡的周刊（第072期）.md</title>
-      <link>https://weekly.howie6879.com//2022/12-26~12-31.老胡的周刊（第072期）.html</link>
+      <link>https://weekly.howie6879.com/2022/12-26~12-31.老胡的周刊（第072期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/12-26~12-31.老胡的周刊（第072期）.html"&gt;12-26~12-31.老胡的周刊（第072期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -2227,7 +2294,7 @@
     </item>
     <item>
       <title>12-19~12-24.老胡的周刊（第071期）.md</title>
-      <link>https://weekly.howie6879.com//2022/12-19~12-24.老胡的周刊（第071期）.html</link>
+      <link>https://weekly.howie6879.com/2022/12-19~12-24.老胡的周刊（第071期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/12-19~12-24.老胡的周刊（第071期）.html"&gt;12-19~12-24.老胡的周刊（第071期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -2314,7 +2381,7 @@
     </item>
     <item>
       <title>12-12~12-18.老胡的周刊（第070期）.md</title>
-      <link>https://weekly.howie6879.com//2022/12-12~12-18.老胡的周刊（第070期）.html</link>
+      <link>https://weekly.howie6879.com/2022/12-12~12-18.老胡的周刊（第070期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/12-12~12-18.老胡的周刊（第070期）.html"&gt;12-12~12-18.老胡的周刊（第070期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -2374,7 +2441,7 @@
     </item>
     <item>
       <title>12-05~12-10.老胡的周刊（第069期）.md</title>
-      <link>https://weekly.howie6879.com//2022/12-05~12-10.老胡的周刊（第069期）.html</link>
+      <link>https://weekly.howie6879.com/2022/12-05~12-10.老胡的周刊（第069期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/12-05~12-10.老胡的周刊（第069期）.html"&gt;12-05~12-10.老胡的周刊（第069期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -2432,7 +2499,7 @@
     </item>
     <item>
       <title>11-28~12-04.老胡的周刊（第068期）.md</title>
-      <link>https://weekly.howie6879.com//2022/11-28~12-04.老胡的周刊（第068期）.html</link>
+      <link>https://weekly.howie6879.com/2022/11-28~12-04.老胡的周刊（第068期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/11-28~12-04.老胡的周刊（第068期）.html"&gt;11-28~12-04.老胡的周刊（第068期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -2499,7 +2566,7 @@
     </item>
     <item>
       <title>11-21~11-27.老胡的周刊（第067期）.md</title>
-      <link>https://weekly.howie6879.com//2022/11-21~11-27.老胡的周刊（第067期）.html</link>
+      <link>https://weekly.howie6879.com/2022/11-21~11-27.老胡的周刊（第067期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/11-21~11-27.老胡的周刊（第067期）.html"&gt;11-21~11-27.老胡的周刊（第067期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -2554,7 +2621,7 @@
     </item>
     <item>
       <title>11-14~11-20.老胡的周刊（第066期）.md</title>
-      <link>https://weekly.howie6879.com//2022/11-14~11-20.老胡的周刊（第066期）.html</link>
+      <link>https://weekly.howie6879.com/2022/11-14~11-20.老胡的周刊（第066期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/11-14~11-20.老胡的周刊（第066期）.html"&gt;11-14~11-20.老胡的周刊（第066期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -2613,7 +2680,7 @@
     </item>
     <item>
       <title>11-07~11-13.老胡的周刊（第065期）.md</title>
-      <link>https://weekly.howie6879.com//2022/11-07~11-13.老胡的周刊（第065期）.html</link>
+      <link>https://weekly.howie6879.com/2022/11-07~11-13.老胡的周刊（第065期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/11-07~11-13.老胡的周刊（第065期）.html"&gt;11-07~11-13.老胡的周刊（第065期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -2663,7 +2730,7 @@
     </item>
     <item>
       <title>10-31~11-06.老胡的周刊（第064期）.md</title>
-      <link>https://weekly.howie6879.com//2022/10-31~11-06.老胡的周刊（第064期）.html</link>
+      <link>https://weekly.howie6879.com/2022/10-31~11-06.老胡的周刊（第064期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/10-31~11-06.老胡的周刊（第064期）.html"&gt;10-31~11-06.老胡的周刊（第064期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -2719,7 +2786,7 @@
     </item>
     <item>
       <title>10-24~10-30.老胡的周刊（第063期）.md</title>
-      <link>https://weekly.howie6879.com//2022/10-24~10-30.老胡的周刊（第063期）.html</link>
+      <link>https://weekly.howie6879.com/2022/10-24~10-30.老胡的周刊（第063期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/10-24~10-30.老胡的周刊（第063期）.html"&gt;10-24~10-30.老胡的周刊（第063期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -2770,7 +2837,7 @@
     </item>
     <item>
       <title>10-17~10-23.老胡的周刊（第062期）.md</title>
-      <link>https://weekly.howie6879.com//2022/10-17~10-23.老胡的周刊（第062期）.html</link>
+      <link>https://weekly.howie6879.com/2022/10-17~10-23.老胡的周刊（第062期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/10-17~10-23.老胡的周刊（第062期）.html"&gt;10-17~10-23.老胡的周刊（第062期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -2825,7 +2892,7 @@
     </item>
     <item>
       <title>10-10~10-16.老胡的周刊（第061期）.md</title>
-      <link>https://weekly.howie6879.com//2022/10-10~10-16.老胡的周刊（第061期）.html</link>
+      <link>https://weekly.howie6879.com/2022/10-10~10-16.老胡的周刊（第061期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/10-10~10-16.老胡的周刊（第061期）.html"&gt;10-10~10-16.老胡的周刊（第061期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -2876,7 +2943,7 @@
     </item>
     <item>
       <title>10-03~10-09.老胡的周刊（第060期）.md</title>
-      <link>https://weekly.howie6879.com//2022/10-03~10-09.老胡的周刊（第060期）.html</link>
+      <link>https://weekly.howie6879.com/2022/10-03~10-09.老胡的周刊（第060期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/10-03~10-09.老胡的周刊（第060期）.html"&gt;10-03~10-09.老胡的周刊（第060期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -2937,7 +3004,7 @@
     </item>
     <item>
       <title>09-26~09-30.老胡的周刊（第059期）.md</title>
-      <link>https://weekly.howie6879.com//2022/09-26~09-30.老胡的周刊（第059期）.html</link>
+      <link>https://weekly.howie6879.com/2022/09-26~09-30.老胡的周刊（第059期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/09-26~09-30.老胡的周刊（第059期）.html"&gt;09-26~09-30.老胡的周刊（第059期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -3006,7 +3073,7 @@
     </item>
     <item>
       <title>09-19~09-24.老胡的周刊（第058期）.md</title>
-      <link>https://weekly.howie6879.com//2022/09-19~09-24.老胡的周刊（第058期）.html</link>
+      <link>https://weekly.howie6879.com/2022/09-19~09-24.老胡的周刊（第058期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/09-19~09-24.老胡的周刊（第058期）.html"&gt;09-19~09-24.老胡的周刊（第058期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -3055,7 +3122,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
     </item>
     <item>
       <title>09-12~09-18.老胡的周刊（第057期）.md</title>
-      <link>https://weekly.howie6879.com//2022/09-12~09-18.老胡的周刊（第057期）.html</link>
+      <link>https://weekly.howie6879.com/2022/09-12~09-18.老胡的周刊（第057期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/09-12~09-18.老胡的周刊（第057期）.html"&gt;09-12~09-18.老胡的周刊（第057期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -3104,7 +3171,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
     </item>
     <item>
       <title>09-05~09-11.老胡的周刊（第056期）.md</title>
-      <link>https://weekly.howie6879.com//2022/09-05~09-11.老胡的周刊（第056期）.html</link>
+      <link>https://weekly.howie6879.com/2022/09-05~09-11.老胡的周刊（第056期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/09-05~09-11.老胡的周刊（第056期）.html"&gt;09-05~09-11.老胡的周刊（第056期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -3176,7 +3243,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
     </item>
     <item>
       <title>08-29~09-04.老胡的周刊（第055期）.md</title>
-      <link>https://weekly.howie6879.com//2022/08-29~09-04.老胡的周刊（第055期）.html</link>
+      <link>https://weekly.howie6879.com/2022/08-29~09-04.老胡的周刊（第055期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/08-29~09-04.老胡的周刊（第055期）.html"&gt;08-29~09-04.老胡的周刊（第055期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -3235,7 +3302,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
     </item>
     <item>
       <title>08-22~08-28.老胡的周刊（第054期）.md</title>
-      <link>https://weekly.howie6879.com//2022/08-22~08-28.老胡的周刊（第054期）.html</link>
+      <link>https://weekly.howie6879.com/2022/08-22~08-28.老胡的周刊（第054期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/08-22~08-28.老胡的周刊（第054期）.html"&gt;08-22~08-28.老胡的周刊（第054期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -3301,7 +3368,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
     </item>
     <item>
       <title>08-15~08-21.老胡的周刊（第053期）.md</title>
-      <link>https://weekly.howie6879.com//2022/08-15~08-21.老胡的周刊（第053期）.html</link>
+      <link>https://weekly.howie6879.com/2022/08-15~08-21.老胡的周刊（第053期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/08-15~08-21.老胡的周刊（第053期）.html"&gt;08-15~08-21.老胡的周刊（第053期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -3361,7 +3428,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
     </item>
     <item>
       <title>08-07~08-14.老胡的周刊（第052期）.md</title>
-      <link>https://weekly.howie6879.com//2022/08-07~08-14.老胡的周刊（第052期）.html</link>
+      <link>https://weekly.howie6879.com/2022/08-07~08-14.老胡的周刊（第052期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/08-07~08-14.老胡的周刊（第052期）.html"&gt;08-07~08-14.老胡的周刊（第052期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -3428,7 +3495,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
     </item>
     <item>
       <title>08-01~08-07.老胡的周刊（第051期）.md</title>
-      <link>https://weekly.howie6879.com//2022/08-01~08-07.老胡的周刊（第051期）.html</link>
+      <link>https://weekly.howie6879.com/2022/08-01~08-07.老胡的周刊（第051期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/08-01~08-07.老胡的周刊（第051期）.html"&gt;08-01~08-07.老胡的周刊（第051期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -3481,7 +3548,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
     </item>
     <item>
       <title>07-25~07-31.老胡的周刊（第050期）.md</title>
-      <link>https://weekly.howie6879.com//2022/07-25~07-31.老胡的周刊（第050期）.html</link>
+      <link>https://weekly.howie6879.com/2022/07-25~07-31.老胡的周刊（第050期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/07-25~07-31.老胡的周刊（第050期）.html"&gt;07-25~07-31.老胡的周刊（第050期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -3534,7 +3601,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
     </item>
     <item>
       <title>07-18~07-24.老胡的周刊（第049期）.md</title>
-      <link>https://weekly.howie6879.com//2022/07-18~07-24.老胡的周刊（第049期）.html</link>
+      <link>https://weekly.howie6879.com/2022/07-18~07-24.老胡的周刊（第049期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/07-18~07-24.老胡的周刊（第049期）.html"&gt;07-18~07-24.老胡的周刊（第049期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -3604,7 +3671,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
     </item>
     <item>
       <title>07-11~07-17.老胡的周刊（第048期）.md</title>
-      <link>https://weekly.howie6879.com//2022/07-11~07-17.老胡的周刊（第048期）.html</link>
+      <link>https://weekly.howie6879.com/2022/07-11~07-17.老胡的周刊（第048期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/07-11~07-17.老胡的周刊（第048期）.html"&gt;07-11~07-17.老胡的周刊（第048期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -3670,7 +3737,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
     </item>
     <item>
       <title>07-04~07-10.老胡的周刊（第047期）.md</title>
-      <link>https://weekly.howie6879.com//2022/07-04~07-10.老胡的周刊（第047期）.html</link>
+      <link>https://weekly.howie6879.com/2022/07-04~07-10.老胡的周刊（第047期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/07-04~07-10.老胡的周刊（第047期）.html"&gt;07-04~07-10.老胡的周刊（第047期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -3723,7 +3790,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
     </item>
     <item>
       <title>06-27~07-02.老胡的周刊（第046期）.md</title>
-      <link>https://weekly.howie6879.com//2022/06-27~07-02.老胡的周刊（第046期）.html</link>
+      <link>https://weekly.howie6879.com/2022/06-27~07-02.老胡的周刊（第046期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/06-27~07-02.老胡的周刊（第046期）.html"&gt;06-27~07-02.老胡的周刊（第046期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -3782,7 +3849,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
     </item>
     <item>
       <title>06-20~06-25.老胡的周刊（第045期）.md</title>
-      <link>https://weekly.howie6879.com//2022/06-20~06-25.老胡的周刊（第045期）.html</link>
+      <link>https://weekly.howie6879.com/2022/06-20~06-25.老胡的周刊（第045期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/06-20~06-25.老胡的周刊（第045期）.html"&gt;06-20~06-25.老胡的周刊（第045期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -3855,7 +3922,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>06-13~06-18.老胡的周刊（第044期）.md</title>
-      <link>https://weekly.howie6879.com//2022/06-13~06-18.老胡的周刊（第044期）.html</link>
+      <link>https://weekly.howie6879.com/2022/06-13~06-18.老胡的周刊（第044期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/06-13~06-18.老胡的周刊（第044期）.html"&gt;06-13~06-18.老胡的周刊（第044期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -3930,7 +3997,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>06-06~06-11.老胡的周刊（第043期）.md</title>
-      <link>https://weekly.howie6879.com//2022/06-06~06-11.老胡的周刊（第043期）.html</link>
+      <link>https://weekly.howie6879.com/2022/06-06~06-11.老胡的周刊（第043期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/06-06~06-11.老胡的周刊（第043期）.html"&gt;06-06~06-11.老胡的周刊（第043期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -4002,7 +4069,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>05-30~06-04.老胡的周刊（第042期）.md</title>
-      <link>https://weekly.howie6879.com//2022/05-30~06-04.老胡的周刊（第042期）.html</link>
+      <link>https://weekly.howie6879.com/2022/05-30~06-04.老胡的周刊（第042期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/05-30~06-04.老胡的周刊（第042期）.html"&gt;05-30~06-04.老胡的周刊（第042期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -4094,7 +4161,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>05-23~05-28.老胡的周刊（第041期）.md</title>
-      <link>https://weekly.howie6879.com//2022/05-23~05-28.老胡的周刊（第041期）.html</link>
+      <link>https://weekly.howie6879.com/2022/05-23~05-28.老胡的周刊（第041期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/05-23~05-28.老胡的周刊（第041期）.html"&gt;05-23~05-28.老胡的周刊（第041期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -4176,7 +4243,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>05-16~05-21.老胡的周刊（第040期）.md</title>
-      <link>https://weekly.howie6879.com//2022/05-16~05-21.老胡的周刊（第040期）.html</link>
+      <link>https://weekly.howie6879.com/2022/05-16~05-21.老胡的周刊（第040期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/05-16~05-21.老胡的周刊（第040期）.html"&gt;05-16~05-21.老胡的周刊（第040期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -4241,7 +4308,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>05-09~05-15.老胡的周刊（第039期）.md</title>
-      <link>https://weekly.howie6879.com//2022/05-09~05-15.老胡的周刊（第039期）.html</link>
+      <link>https://weekly.howie6879.com/2022/05-09~05-15.老胡的周刊（第039期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/05-09~05-15.老胡的周刊（第039期）.html"&gt;05-09~05-15.老胡的周刊（第039期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -4307,7 +4374,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>05-02~05-07.老胡的周刊（第038期）.md</title>
-      <link>https://weekly.howie6879.com//2022/05-02~05-07.老胡的周刊（第038期）.html</link>
+      <link>https://weekly.howie6879.com/2022/05-02~05-07.老胡的周刊（第038期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/05-02~05-07.老胡的周刊（第038期）.html"&gt;05-02~05-07.老胡的周刊（第038期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -4374,7 +4441,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>04-25~05-01.老胡的周刊（第037期）.md</title>
-      <link>https://weekly.howie6879.com//2022/04-25~05-01.老胡的周刊（第037期）.html</link>
+      <link>https://weekly.howie6879.com/2022/04-25~05-01.老胡的周刊（第037期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/04-25~05-01.老胡的周刊（第037期）.html"&gt;04-25~05-01.老胡的周刊（第037期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -4451,7 +4518,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>04-18~04-23.老胡的周刊（第036期）.md</title>
-      <link>https://weekly.howie6879.com//2022/04-18~04-23.老胡的周刊（第036期）.html</link>
+      <link>https://weekly.howie6879.com/2022/04-18~04-23.老胡的周刊（第036期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/04-18~04-23.老胡的周刊（第036期）.html"&gt;04-18~04-23.老胡的周刊（第036期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -4505,7 +4572,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>04-11~04-16.老胡的周刊（第035期）.md</title>
-      <link>https://weekly.howie6879.com//2022/04-11~04-16.老胡的周刊（第035期）.html</link>
+      <link>https://weekly.howie6879.com/2022/04-11~04-16.老胡的周刊（第035期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/04-11~04-16.老胡的周刊（第035期）.html"&gt;04-11~04-16.老胡的周刊（第035期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -4576,7 +4643,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>04-04~04-10.老胡的周刊（第034期）.md</title>
-      <link>https://weekly.howie6879.com//2022/04-04~04-10.老胡的周刊（第034期）.html</link>
+      <link>https://weekly.howie6879.com/2022/04-04~04-10.老胡的周刊（第034期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/04-04~04-10.老胡的周刊（第034期）.html"&gt;04-04~04-10.老胡的周刊（第034期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -4629,7 +4696,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>03-28~04-03.老胡的周刊（第033期）.md</title>
-      <link>https://weekly.howie6879.com//2022/03-28~04-03.老胡的周刊（第033期）.html</link>
+      <link>https://weekly.howie6879.com/2022/03-28~04-03.老胡的周刊（第033期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/03-28~04-03.老胡的周刊（第033期）.html"&gt;03-28~04-03.老胡的周刊（第033期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -4684,7 +4751,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>03-21~03-27.老胡的周刊（第032期）.md</title>
-      <link>https://weekly.howie6879.com//2022/03-21~03-27.老胡的周刊（第032期）.html</link>
+      <link>https://weekly.howie6879.com/2022/03-21~03-27.老胡的周刊（第032期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/03-21~03-27.老胡的周刊（第032期）.html"&gt;03-21~03-27.老胡的周刊（第032期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -4756,7 +4823,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>03-14~03-20.老胡的周刊（第031期）.md</title>
-      <link>https://weekly.howie6879.com//2022/03-14~03-20.老胡的周刊（第031期）.html</link>
+      <link>https://weekly.howie6879.com/2022/03-14~03-20.老胡的周刊（第031期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/03-14~03-20.老胡的周刊（第031期）.html"&gt;03-14~03-20.老胡的周刊（第031期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -4811,7 +4878,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>03-07~03-13.老胡的周刊（第030期）.md</title>
-      <link>https://weekly.howie6879.com//2022/03-07~03-13.老胡的周刊（第030期）.html</link>
+      <link>https://weekly.howie6879.com/2022/03-07~03-13.老胡的周刊（第030期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/03-07~03-13.老胡的周刊（第030期）.html"&gt;03-07~03-13.老胡的周刊（第030期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -4872,7 +4939,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>02-28~03-05.老胡的周刊（第029期）.md</title>
-      <link>https://weekly.howie6879.com//2022/02-28~03-05.老胡的周刊（第029期）.html</link>
+      <link>https://weekly.howie6879.com/2022/02-28~03-05.老胡的周刊（第029期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/02-28~03-05.老胡的周刊（第029期）.html"&gt;02-28~03-05.老胡的周刊（第029期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -4941,7 +5008,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>02-21~02-27.老胡的周刊（第028期）.md</title>
-      <link>https://weekly.howie6879.com//2022/02-21~02-27.老胡的周刊（第028期）.html</link>
+      <link>https://weekly.howie6879.com/2022/02-21~02-27.老胡的周刊（第028期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/02-21~02-27.老胡的周刊（第028期）.html"&gt;02-21~02-27.老胡的周刊（第028期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -5008,7 +5075,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>02-15~02-20.老胡的周刊（第027期）.md</title>
-      <link>https://weekly.howie6879.com//2022/02-15~02-20.老胡的周刊（第027期）.html</link>
+      <link>https://weekly.howie6879.com/2022/02-15~02-20.老胡的周刊（第027期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/02-15~02-20.老胡的周刊（第027期）.html"&gt;02-15~02-20.老胡的周刊（第027期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -5093,7 +5160,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>02-07~02-14.老胡的周刊（第026期）.md</title>
-      <link>https://weekly.howie6879.com//2022/02-07~02-14.老胡的周刊（第026期）.html</link>
+      <link>https://weekly.howie6879.com/2022/02-07~02-14.老胡的周刊（第026期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/02-07~02-14.老胡的周刊（第026期）.html"&gt;02-07~02-14.老胡的周刊（第026期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -5150,7 +5217,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>01-31~02-05.老胡的周刊（第025期）.md</title>
-      <link>https://weekly.howie6879.com//2022/01-31~02-05.老胡的周刊（第025期）.html</link>
+      <link>https://weekly.howie6879.com/2022/01-31~02-05.老胡的周刊（第025期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/01-31~02-05.老胡的周刊（第025期）.html"&gt;01-31~02-05.老胡的周刊（第025期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -5215,7 +5282,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>01-23~01-30.老胡的周刊（第024期）.md</title>
-      <link>https://weekly.howie6879.com//2022/01-23~01-30.老胡的周刊（第024期）.html</link>
+      <link>https://weekly.howie6879.com/2022/01-23~01-30.老胡的周刊（第024期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/01-23~01-30.老胡的周刊（第024期）.html"&gt;01-23~01-30.老胡的周刊（第024期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -5293,7 +5360,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>01-17~01-22.老胡的周刊（第023期）.md</title>
-      <link>https://weekly.howie6879.com//2022/01-17~01-22.老胡的周刊（第023期）.html</link>
+      <link>https://weekly.howie6879.com/2022/01-17~01-22.老胡的周刊（第023期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/01-17~01-22.老胡的周刊（第023期）.html"&gt;01-17~01-22.老胡的周刊（第023期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -5372,7 +5439,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>01-10~01-14.老胡的周刊（第022期）.md</title>
-      <link>https://weekly.howie6879.com//2022/01-10~01-14.老胡的周刊（第022期）.html</link>
+      <link>https://weekly.howie6879.com/2022/01-10~01-14.老胡的周刊（第022期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/01-10~01-14.老胡的周刊（第022期）.html"&gt;01-10~01-14.老胡的周刊（第022期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -5441,7 +5508,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>01-01~01-09.老胡的周刊（第021期）.md</title>
-      <link>https://weekly.howie6879.com//2022/01-01~01-09.老胡的周刊（第021期）.html</link>
+      <link>https://weekly.howie6879.com/2022/01-01~01-09.老胡的周刊（第021期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2022/01-01~01-09.老胡的周刊（第021期）.html"&gt;01-01~01-09.老胡的周刊（第021期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -5481,7 +5548,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>12-26~12-31.老胡的周刊（第020期）.md</title>
-      <link>https://weekly.howie6879.com//2021/12-26~12-31.老胡的周刊（第020期）.html</link>
+      <link>https://weekly.howie6879.com/2021/12-26~12-31.老胡的周刊（第020期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2021/12-26~12-31.老胡的周刊（第020期）.html"&gt;12-26~12-31.老胡的周刊（第020期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -5556,7 +5623,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>12-21~12-25.老胡的周刊（第019期）.md</title>
-      <link>https://weekly.howie6879.com//2021/12-21~12-25.老胡的周刊（第019期）.html</link>
+      <link>https://weekly.howie6879.com/2021/12-21~12-25.老胡的周刊（第019期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2021/12-21~12-25.老胡的周刊（第019期）.html"&gt;12-21~12-25.老胡的周刊（第019期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -5625,7 +5692,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>12-13~12-20.老胡的周刊（第018期）.md</title>
-      <link>https://weekly.howie6879.com//2021/12-13~12-20.老胡的周刊（第018期）.html</link>
+      <link>https://weekly.howie6879.com/2021/12-13~12-20.老胡的周刊（第018期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2021/12-13~12-20.老胡的周刊（第018期）.html"&gt;12-13~12-20.老胡的周刊（第018期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -5691,7 +5758,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>12-06~12-12.老胡的周刊（第017期）.md</title>
-      <link>https://weekly.howie6879.com//2021/12-06~12-12.老胡的周刊（第017期）.html</link>
+      <link>https://weekly.howie6879.com/2021/12-06~12-12.老胡的周刊（第017期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2021/12-06~12-12.老胡的周刊（第017期）.html"&gt;12-06~12-12.老胡的周刊（第017期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -5748,7 +5815,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>11-29~12-05.老胡的周刊（第016期）.md</title>
-      <link>https://weekly.howie6879.com//2021/11-29~12-05.老胡的周刊（第016期）.html</link>
+      <link>https://weekly.howie6879.com/2021/11-29~12-05.老胡的周刊（第016期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2021/11-29~12-05.老胡的周刊（第016期）.html"&gt;11-29~12-05.老胡的周刊（第016期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -5809,7 +5876,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>11-22~11-28.老胡的周刊（第015期）.md</title>
-      <link>https://weekly.howie6879.com//2021/11-22~11-28.老胡的周刊（第015期）.html</link>
+      <link>https://weekly.howie6879.com/2021/11-22~11-28.老胡的周刊（第015期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2021/11-22~11-28.老胡的周刊（第015期）.html"&gt;11-22~11-28.老胡的周刊（第015期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -5874,7 +5941,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>11-15~11-21.老胡的周刊（第014期）.md</title>
-      <link>https://weekly.howie6879.com//2021/11-15~11-21.老胡的周刊（第014期）.html</link>
+      <link>https://weekly.howie6879.com/2021/11-15~11-21.老胡的周刊（第014期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2021/11-15~11-21.老胡的周刊（第014期）.html"&gt;11-15~11-21.老胡的周刊（第014期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -5938,7 +6005,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>11-08~11-14.老胡的周刊（第013期）.md</title>
-      <link>https://weekly.howie6879.com//2021/11-08~11-14.老胡的周刊（第013期）.html</link>
+      <link>https://weekly.howie6879.com/2021/11-08~11-14.老胡的周刊（第013期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2021/11-08~11-14.老胡的周刊（第013期）.html"&gt;11-08~11-14.老胡的周刊（第013期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -5985,7 +6052,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>11-01~11-07.老胡的周刊（第012期）.md</title>
-      <link>https://weekly.howie6879.com//2021/11-01~11-07.老胡的周刊（第012期）.html</link>
+      <link>https://weekly.howie6879.com/2021/11-01~11-07.老胡的周刊（第012期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2021/11-01~11-07.老胡的周刊（第012期）.html"&gt;11-01~11-07.老胡的周刊（第012期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -6033,7 +6100,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>10-25~10-31.老胡的周刊（第011期）.md</title>
-      <link>https://weekly.howie6879.com//2021/10-25~10-31.老胡的周刊（第011期）.html</link>
+      <link>https://weekly.howie6879.com/2021/10-25~10-31.老胡的周刊（第011期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2021/10-25~10-31.老胡的周刊（第011期）.html"&gt;10-25~10-31.老胡的周刊（第011期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -6102,7 +6169,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>10-18~10-24.老胡的周刊（第010期）.md</title>
-      <link>https://weekly.howie6879.com//2021/10-18~10-24.老胡的周刊（第010期）.html</link>
+      <link>https://weekly.howie6879.com/2021/10-18~10-24.老胡的周刊（第010期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2021/10-18~10-24.老胡的周刊（第010期）.html"&gt;10-18~10-24.老胡的周刊（第010期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -6167,7 +6234,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>10-11~10-17.老胡的周刊（第009期）.md</title>
-      <link>https://weekly.howie6879.com//2021/10-11~10-17.老胡的周刊（第009期）.html</link>
+      <link>https://weekly.howie6879.com/2021/10-11~10-17.老胡的周刊（第009期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2021/10-11~10-17.老胡的周刊（第009期）.html"&gt;10-11~10-17.老胡的周刊（第009期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -6227,7 +6294,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>10-04~10-10.老胡的周刊（第008期）.md</title>
-      <link>https://weekly.howie6879.com//2021/10-04~10-10.老胡的周刊（第008期）.html</link>
+      <link>https://weekly.howie6879.com/2021/10-04~10-10.老胡的周刊（第008期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2021/10-04~10-10.老胡的周刊（第008期）.html"&gt;10-04~10-10.老胡的周刊（第008期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -6276,7 +6343,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>09-27~10-03.老胡的周刊（第007期）.md</title>
-      <link>https://weekly.howie6879.com//2021/09-27~10-03.老胡的周刊（第007期）.html</link>
+      <link>https://weekly.howie6879.com/2021/09-27~10-03.老胡的周刊（第007期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2021/09-27~10-03.老胡的周刊（第007期）.html"&gt;09-27~10-03.老胡的周刊（第007期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -6323,7 +6390,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>09-19~09-24.老胡的周刊（第006期）.md</title>
-      <link>https://weekly.howie6879.com//2021/09-19~09-24.老胡的周刊（第006期）.html</link>
+      <link>https://weekly.howie6879.com/2021/09-19~09-24.老胡的周刊（第006期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2021/09-19~09-24.老胡的周刊（第006期）.html"&gt;09-19~09-24.老胡的周刊（第006期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -6376,7 +6443,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>09-12~09-17.老胡的周刊（第005期）.md</title>
-      <link>https://weekly.howie6879.com//2021/09-12~09-17.老胡的周刊（第005期）.html</link>
+      <link>https://weekly.howie6879.com/2021/09-12~09-17.老胡的周刊（第005期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2021/09-12~09-17.老胡的周刊（第005期）.html"&gt;09-12~09-17.老胡的周刊（第005期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -6438,7 +6505,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>09-06~09-10.老胡的周刊（第004期）.md</title>
-      <link>https://weekly.howie6879.com//2021/09-06~09-10.老胡的周刊（第004期）.html</link>
+      <link>https://weekly.howie6879.com/2021/09-06~09-10.老胡的周刊（第004期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2021/09-06~09-10.老胡的周刊（第004期）.html"&gt;09-06~09-10.老胡的周刊（第004期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -6510,7 +6577,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>08-30~09-03.老胡的周刊（第003期）.md</title>
-      <link>https://weekly.howie6879.com//2021/08-30~09-03.老胡的周刊（第003期）.html</link>
+      <link>https://weekly.howie6879.com/2021/08-30~09-03.老胡的周刊（第003期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2021/08-30~09-03.老胡的周刊（第003期）.html"&gt;08-30~09-03.老胡的周刊（第003期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -6567,7 +6634,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>08-23~08-27.老胡的周刊（第002期）.md</title>
-      <link>https://weekly.howie6879.com//2021/08-23~08-27.老胡的周刊（第002期）.html</link>
+      <link>https://weekly.howie6879.com/2021/08-23~08-27.老胡的周刊（第002期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2021/08-23~08-27.老胡的周刊（第002期）.html"&gt;08-23~08-27.老胡的周刊（第002期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
@@ -6645,7 +6712,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
     </item>
     <item>
       <title>08-16~08-20.老胡的周刊（第001期）.md</title>
-      <link>https://weekly.howie6879.com//2021/08-16~08-20.老胡的周刊（第001期）.html</link>
+      <link>https://weekly.howie6879.com/2021/08-16~08-20.老胡的周刊（第001期）.html</link>
       <description>&lt;![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2021/08-16~08-20.老胡的周刊（第001期）.html"&gt;08-16~08-20.老胡的周刊（第001期）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
