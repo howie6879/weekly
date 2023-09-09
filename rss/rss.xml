@@ -12,7 +12,74 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Tue, 05 Sep 2023 09:18:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Sep 2023 12:29:41 +0000</lastBuildDate>
+    <item>
+      <title>09-04~09-10.老胡的周刊（第107期）.md</title>
+      <link>https://weekly.howie6879.com/2023/09-04~09-10.老胡的周刊（第107期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/09-04~09-10.老胡的周刊（第107期）.html"&gt;09-04~09-10.老胡的周刊（第107期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/KillianLucas/open-interpreter"&gt;open-interpreter&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;LLM&lt;/code&gt; 为你提供一种新的方式来控制电脑，本地运行：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="open_interpreter" src="https://images-1252557999.file.myqcloud.com/uPic/open_interpreter.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules"&gt;LiTiaotiao&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;前段时间，自动跳过开屏广告 App，&lt;strong&gt;李跳跳&lt;/strong&gt;作者遭大厂警告，产品无限期停更。&lt;/p&gt;
+&lt;p&gt;这是一个收集适用于&lt;strong&gt;李跳跳&lt;/strong&gt;的 &lt;code&gt;App&lt;/code&gt; 自定义规则：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;基础规则：关闭应用内广告、更新弹窗、青少年模式弹窗、权限索取提示等&lt;/li&gt;
+&lt;li&gt;增强规则：自动化操作等&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;也算变相复活李跳跳了，不方便下载的可以关注公众号加我微信我传给你。&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/wanghongenpin/network_proxy_flutter"&gt;network_proxy_flutter&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;免费开源抓包工具，支持 &lt;code&gt;Windows、Mac、Android、IOS、Linux&lt;/code&gt; 全平台系统：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="network_proxy_flutter" src="https://images-1252557999.file.myqcloud.com/uPic/network_proxy_flutter.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/btpf/Alexandria"&gt;Alexandria&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个极简的跨平台电子书阅读器，使用 &lt;code&gt;Tauri&lt;/code&gt; ❤️ &lt;code&gt;Epub.js&lt;/code&gt; 构建：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Alexandria" src="https://images-1252557999.file.myqcloud.com/uPic/Alexandria.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/BookerLiu/GeekDesk"&gt;GeekDesk&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;小巧、美观的桌面快速启动管理工具，同时集成了 &lt;code&gt;Everything&lt;/code&gt; 搜索，仅支持 &lt;code&gt;Windows&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="GeekDesk" src="https://images-1252557999.file.myqcloud.com/uPic/GeekDesk.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md"&gt;Awesome-AIGC-Tutorials&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;👋 入门&lt;/li&gt;
+&lt;li&gt;💬 大语言模型&lt;ul&gt;
+&lt;li&gt;💡 提示工程&lt;/li&gt;
+&lt;li&gt;🔧 大语言模型实践&lt;/li&gt;
+&lt;li&gt;🔬 大语言模型理论&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;🎨 AI绘画&lt;/li&gt;
+&lt;li&gt;🔊 AI音频&lt;/li&gt;
+&lt;li&gt;🌈 多模态&lt;/li&gt;
+&lt;li&gt;🧠 深度学习&lt;/li&gt;
+&lt;li&gt;💻 AI系统&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://roadmap.sh/"&gt;roadmap.sh&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;这是一个开源免费的项目，主要是提供了各种技术栈的学习路线：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="roadmap" src="https://images-1252557999.file.myqcloud.com/uPic/roadmap.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://medisearch.io/zh"&gt;medisearch&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;直接的科学为基础的医疗问答模型：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="medisearch" src="https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/henryxrl/SimpleTextReader"&gt;SimpleTextReader&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://reader.yijian.app/"&gt;易笺&lt;/a&gt; - 开源的 TXT 小说阅读器：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="yijian" src="https://images-1252557999.file.myqcloud.com/uPic/yijian.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🥳我基于ChatGPT做了个&lt;a href="https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ"&gt;微信端的老胡信息周刊QA&lt;/a&gt;，欢迎免费体验&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/09-04~09-10.老胡的周刊（第107期）.md</guid>
+      <pubDate>Sat, 09 Sep 2023 19:30:35 +0806</pubDate>
+    </item>
     <item>
       <title>08-28~09-03.老胡的周刊（第106期）.md</title>
       <link>https://weekly.howie6879.com/2023/08-28~09-03.老胡的周刊（第106期）.html</link>
@@ -4477,7 +4544,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;p&gt;&lt;img alt="robomongo" src="https://images-1252557999.file.myqcloud.com/uPic/robomongo.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/qishibo/AnotherRedisDesktopManager"&gt;AnotherRedisDesktopManager&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;快速稳定好用的Redis跨平台桌面管理软件：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="AnotherRedisDesktopManager" src="https://img.turingark.com/uPic/AnotherRedisDesktopManager.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="AnotherRedisDesktopManager" src="https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://wxflogic.gitbook.io/logic"&gt;逻辑学简短入门&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。&lt;/p&gt;
@@ -4514,7 +4581,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/04-25~05-01.老胡的周刊（第037期）.md</guid>
-      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 20:26:46 +0806</pubDate>
     </item>
     <item>
       <title>04-18~04-23.老胡的周刊（第036期）.md</title>
@@ -4526,39 +4593,39 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;🎯 项目&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/httpie/httpie"&gt;HTTPie&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;现代化的HTTP客户端命令行工具：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="httpie-animation" src="https://img.turingark.com/uPic/httpie-animation.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="httpie-animation" src="https://images-1252557999.file.myqcloud.com/uPic/httpie-animation.gif" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/mengshukeji/Luckysheet"&gt;Luckysheet&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;Luckysheet&lt;/code&gt; 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="LuckysheetDemo" src="https://img.turingark.com/uPic/LuckysheetDemo.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="LuckysheetDemo" src="https://images-1252557999.file.myqcloud.com/uPic/LuckysheetDemo.gif" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/maqi1520/mdx-editor"&gt;mdx-editor&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 &lt;a href="https://editor.runjs.cool/"&gt;mdx-editor&lt;/a&gt; 尝试：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="mdx-editor" src="https://img.turingark.com/uPic/mdx-editor.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="mdx-editor" src="https://images-1252557999.file.myqcloud.com/uPic/mdx-editor.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;🤖 软件&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/Ashinch/ReadYou"&gt;ReadYou&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ReadYou" src="https://img.turingark.com/uPic/ReadYou.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ReadYou" src="https://images-1252557999.file.myqcloud.com/uPic/ReadYou.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/multiprocessio/datastation"&gt;datastation&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;DataStation&lt;/code&gt; 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="datastation" src="https://img.turingark.com/uPic/datastation.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="datastation" src="https://images-1252557999.file.myqcloud.com/uPic/datastation.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/hehonghui/the-economist-ebooks"&gt;the-economist-ebooks&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="the-economist-ebooks" src="https://img.turingark.com/uPic/the-economist-ebooks.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="the-economist-ebooks" src="https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/rougier/scientific-visualization-book"&gt;scientific-visualization-book&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一本基于&lt;code&gt;python&amp;amp;matplotlib&lt;/code&gt;进行科学可视化的开源书籍：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="scientific-visualization-book" src="https://img.turingark.com/uPic/scientific-visualization-book.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="scientific-visualization-book" src="https://images-1252557999.file.myqcloud.com/uPic/scientific-visualization-book.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/geekan/HowToLiveLonger"&gt;HowToLiveLonger&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一份程序员延寿指南，目标是稳健地活得更久。&lt;/p&gt;
 &lt;h2&gt;🕸 网站&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/YunYouJun/cook"&gt;cook&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一个开源的做菜项目，作者提供了&lt;a href="https://cook.yunyoujun.cn/"&gt;做菜网页版&lt;/a&gt;让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="cook" src="https://img.turingark.com/uPic/cook.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="cook" src="https://images-1252557999.file.myqcloud.com/uPic/cook.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://icones.js.org/"&gt;icones.js.org&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;免费的图标库：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="icones" src="https://img.turingark.com/uPic/icones.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="icones" src="https://images-1252557999.file.myqcloud.com/uPic/icones.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://zerossl.com/"&gt;zerossl&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一个可以免费签 IP 地址 SSL 证书的网站：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="zerossl" src="https://img.turingark.com/uPic/zerossl.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="zerossl" src="https://images-1252557999.file.myqcloud.com/uPic/zerossl.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;✍️ 说明&lt;/h2&gt;
 &lt;p&gt;周刊相关信息：&lt;/p&gt;
 &lt;ul&gt;
@@ -4568,7 +4635,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/04-18~04-23.老胡的周刊（第036期）.md</guid>
-      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 20:20:42 +0806</pubDate>
     </item>
     <item>
       <title>04-11~04-16.老胡的周刊（第035期）.md</title>
@@ -4580,13 +4647,13 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;🎯 项目&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/danielgatis/rembg"&gt;rembg&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;之前有介绍过一个去除图片背景的网站-&lt;a href="https://www.remove.bg/zh"&gt;remove.bg&lt;/a&gt;，这网站虽然免费，但是高清版本的图片下载需要收费，现在这个开源的图片背景去除项目将完全解决这个问题：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="rembg" src="https://img.turingark.com/uPic/rembg.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="rembg" src="https://images-1252557999.file.myqcloud.com/uPic/rembg.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;你可以作为第三方库使用，也在终端以及启用服务化来使用。&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/johnwhitington/cpdf-source"&gt;cpdf-source&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;命令行处理PDF，比如拆分（支持书签）、合并等，点击这里&lt;a href="https://coherentpdf.com/eval.html"&gt;下载&lt;/a&gt;，全平台支持。&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/nschloe/tiptop"&gt;tiptop&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;类似&lt;code&gt;htop&lt;/code&gt;的命令行系统资源监控工具：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="tiptop" src="https://img.turingark.com/uPic/tiptop.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="tiptop" src="https://images-1252557999.file.myqcloud.com/uPic/tiptop.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;🤖 软件&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/jacklandrin/OnlySwitch"&gt;OnlySwitch&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一款开源的 &lt;code&gt;macOS&lt;/code&gt; 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：&lt;/p&gt;
@@ -4600,17 +4667,17 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;li&gt;支持快捷方式库，可以自己开发&lt;/li&gt;
 &lt;li&gt;...&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="OnlySwitch" src="https://img.turingark.com/uPic/OnlySwitch.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="OnlySwitch" src="https://images-1252557999.file.myqcloud.com/uPic/OnlySwitch.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/dail8859/NotepadNext"&gt;NotepadNext&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;Notepad++&lt;/code&gt;的跨平台开源实现：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="NotepadNext" src="https://img.turingark.com/uPic/NotepadNext.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="NotepadNext" src="https://images-1252557999.file.myqcloud.com/uPic/NotepadNext.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/the1812/Bilibili-Evolved"&gt;Bilibili-Evolved&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;B站增强脚本，需要浏览器装有 &lt;a href="https://www.tampermonkey.net/"&gt;Tampermonkey&lt;/a&gt; 插件：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/F42ndl.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/"&gt;OSTEP-操作系统导论&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/OSTEP-20220429104105382.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/OSTEP-20220429104105382.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;本书有&lt;a href="https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/"&gt;中文&lt;/a&gt;|&lt;a href="https://pages.cs.wisc.edu/~remzi/OSTEP/"&gt;英文&lt;/a&gt;版本。&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/jermp/data_compression_course"&gt;data_compression_course&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。&lt;/p&gt;
@@ -4618,18 +4685,18 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;p&gt;本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/zhongqiangwu960812/AI-RecommenderSystem"&gt;AI-RecommenderSystem&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/ub1GLI.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/ub1GLI.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://shimo.im/docs/0l3NV5lEwOfpQx3R/read"&gt;魔都防疫指南&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/AHWB7M.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/AHWB7M.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;更多信息请访问：&lt;a href="https://helpshanghai.com/"&gt;疫情封控期物资信息共享互助平台&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;🕸 网站&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://jsonvisio.com/editor"&gt;jsonvisio&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;将你的Json数据进行可视化，该项目也开源在&lt;a href="https://github.com/AykutSarac/jsonvisio.com"&gt;github-jsonvisio&lt;/a&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/jsonvisio.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/jsonvisio.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="http://uipatterns.io"&gt;uipatterns&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/uipatterns.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/uipatterns.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;✍️ 说明&lt;/h2&gt;
 &lt;p&gt;周刊相关信息：&lt;/p&gt;
 &lt;ul&gt;
@@ -4639,7 +4706,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/04-11~04-16.老胡的周刊（第035期）.md</guid>
-      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 20:19:24 +0806</pubDate>
     </item>
     <item>
       <title>04-04~04-10.老胡的周刊（第034期）.md</title>
@@ -4651,10 +4718,10 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;🎯 项目&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/BlinkDL/AI-Writer"&gt;AI-Writer&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="AI-Writer" src="https://img.turingark.com/file/howie-img/uPic/AI-Writer.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="AI-Writer" src="https://images-1252557999.file.myqcloud.com/uPic/AI-Writer.jpeg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/Mayandev/ikea-low-price"&gt;ikea-low-price&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一个宜家低价清单展示项目，数据每周自动同步，网页访问见：&lt;a href="https://ikea-lp.netlify.app/"&gt;ikea-lp&lt;/a&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ikea-low-price" src="https://img.turingark.com/uPic/ikea-low-price.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ikea-low-price" src="https://images-1252557999.file.myqcloud.com/uPic/ikea-low-price.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;🤖 软件&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/Skykai521/DingDongHelper"&gt;DingDongHelper&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：&lt;/p&gt;
@@ -4664,25 +4731,25 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;h3&gt;&lt;a href="https://github.com/CopyTranslator/CopyTranslator"&gt;CopyTranslator&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="CopyTranslator" src="https://img.turingark.com/uPic/CopyTranslator.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="CopyTranslator" src="https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif" /&gt;&lt;/p&gt;
 &lt;p&gt;还有一款基于&lt;code&gt;DeepL&lt;/code&gt;的同类型翻译软件可以参考使用，也叫一样的名字：&lt;a href="https://github.com/zu1k/copy-translator"&gt;copy-translator&lt;/a&gt;，不过是用&lt;code&gt;Rust&lt;/code&gt;写的，速度和体积有很大优势。&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/peazip/PeaZip"&gt;PeaZip&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="peazip" src="https://img.turingark.com/uPic/peazip.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="peazip" src="https://images-1252557999.file.myqcloud.com/uPic/peazip.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://2d2d.io/"&gt;2d2d&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建我开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见&lt;a href="https://github.com/zineland/2d2d"&gt;Github 地址&lt;/a&gt;&amp;amp;&lt;a href="https://2d2d.io/"&gt;官网&lt;/a&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="2d2d" src="https://img.turingark.com/uPic/2d2d.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建议开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见&lt;a href="https://github.com/zineland/2d2d"&gt;Github 地址&lt;/a&gt;&amp;amp;&lt;a href="https://2d2d.io/"&gt;官网&lt;/a&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="2d2d" src="https://images-1252557999.file.myqcloud.com/uPic/2d2d.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577"&gt;Rust嵌入式开发入门&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="rust_embedded_dev" src="https://img.turingark.com/uPic/rust_embedded_dev.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="rust_embedded_dev" src="https://images-1252557999.file.myqcloud.com/uPic/rust_embedded_dev.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;🕸 网站&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://toonme.com"&gt;toonme&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;该网站将原图绘制成可爱的卡通图片：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="toonme" src="https://img.turingark.com/file/howie-img/uPic/toonme.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="toonme" src="https://images-1252557999.file.myqcloud.com/uPic/toonme.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/jgraph/drawio"&gt;drawio&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一款开源的流程图绘制项目，可直接在&lt;a href="https://www.diagrams.net/"&gt;网页上&lt;/a&gt;访问：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="drawio" src="https://img.turingark.com/file/howie-img/uPic/drawio.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="drawio" src="https://images-1252557999.file.myqcloud.com/uPic/drawio.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;✍️ 说明&lt;/h2&gt;
 &lt;p&gt;周刊相关信息：&lt;/p&gt;
 &lt;ul&gt;
@@ -4692,7 +4759,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/04-04~04-10.老胡的周刊（第034期）.md</guid>
-      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 20:17:35 +0806</pubDate>
     </item>
     <item>
       <title>03-28~04-03.老胡的周刊（第033期）.md</title>
@@ -4704,40 +4771,40 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;🎯 项目&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/Xhofe/alist"&gt;alist&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一款支持多种存储的目录文件列表程序，支持 &lt;code&gt;web&lt;/code&gt; 浏览与 &lt;code&gt;webdav&lt;/code&gt;，后端基于 &lt;code&gt;gin&lt;/code&gt;，前端使用 &lt;code&gt;react&lt;/code&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="alist" src="https://img.turingark.com/uPic/alist-20220429094521145.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="alist" src="https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png" /&gt;&lt;/p&gt;
 &lt;p&gt;简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看&lt;a href="https://alist-doc.nn.ci/docs/intro"&gt;alist官网教程&lt;/a&gt;。&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/H-M-H/Weylus"&gt;Weylus&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;使用&lt;code&gt;Rust&lt;/code&gt;编写的共享屏幕开源项目，将平板作为电脑触摸屏使用，全平台支持：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="weylus" src="https://img.turingark.com/uPic/weylus.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="weylus" src="https://images-1252557999.file.myqcloud.com/uPic/weylus.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/lsky-org/lsky-pro"&gt;lsky-pro&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="vps_lsky_01" src="https://img.turingark.com/uPic/vps_lsky_01.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="vps_lsky_01" src="https://images-1252557999.file.myqcloud.com/uPic/vps_lsky_01.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;🤖 软件&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/aardio/Gif123"&gt;Gif123&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Gif123" src="https://img.turingark.com/uPic/FQabyv.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Gif123" src="https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
 &lt;h3&gt;认知偏差知识手册&lt;/h3&gt;
 &lt;p&gt;字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看&lt;/p&gt;
-&lt;p&gt;&lt;img alt="cb" src="https://img.turingark.com/uPic/cb.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="cb" src="https://images-1252557999.file.myqcloud.com/uPic/cb.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/dair-ai/ML-YouTube-Courses"&gt;ML-YouTube-Courses&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一个在YouTube上发现最新机器学习课程的项目。&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/wangdoc/es6-tutorial"&gt;es6-tutorial&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点&lt;a href="https://wangdoc.com/es6/"&gt;这里&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="NhkQDk" src="https://img.turingark.com/uPic/NhkQDk.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="NhkQDk" src="https://images-1252557999.file.myqcloud.com/uPic/NhkQDk.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;🕸 网站&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://ray.so/"&gt;ray.so&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;之前在&lt;a href="https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4"&gt;老胡的周刊（第032期）&lt;/a&gt;介绍过&lt;a href="https://carbon.now.sh/"&gt;carbon&lt;/a&gt;，可以将你的源代码转成漂亮可分享的图片，&lt;code&gt;ray.so&lt;/code&gt;也具有相同的功能:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ray.so" src="https://img.turingark.com/uPic/ray.so.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ray.so" src="https://images-1252557999.file.myqcloud.com/uPic/ray.so.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://www.shell.how/"&gt;shell.how&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;网站用优雅的交互和排版告诉你Linux命令的作用：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="shell_howe" src="https://img.turingark.com/uPic/shell_howe.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="shell_howe" src="https://images-1252557999.file.myqcloud.com/uPic/shell_howe.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://compressjpeg.com/zh/"&gt;compressjpeg&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="compressjpeg" src="https://img.turingark.com/uPic/compressjpeg.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://zhaoziyuan.la"&gt;zhaoziyuan&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="compressjpeg" src="https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://zhaoziyuan.pw/"&gt;zhaoziyuan&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;阿里云资源搜索引擎：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="zhaoziyuan" src="https://img.turingark.com/uPic/zhaoziyuan-20220429095007870.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="zhaoziyuan" src="https://images-1252557999.file.myqcloud.com/uPic/zhaoziyuan-20220429095007870.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;✍️ 说明&lt;/h2&gt;
 &lt;p&gt;周刊相关信息：&lt;/p&gt;
 &lt;ul&gt;
@@ -4747,7 +4814,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/03-28~04-03.老胡的周刊（第033期）.md</guid>
-      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 20:15:56 +0806</pubDate>
     </item>
     <item>
       <title>03-21~03-27.老胡的周刊（第032期）.md</title>
@@ -4759,10 +4826,10 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;🎯 项目&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/djyde/ossart"&gt;ossart&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;这是一个娱乐性质的项目，可以将你最近 6年的 GitHub 活跃图打印成摆件，在官网&lt;a href="https://getoss.art/"&gt;getoss&lt;/a&gt;填写你的用户名即可：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ossart" src="https://img.turingark.com/uPic/5SYY8P.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ossart" src="https://images-1252557999.file.myqcloud.com/uPic/5SYY8P.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/huan/docker-wechat"&gt;docker-wechat&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;盒装微信，在linux下基于Docker技术使用微信客户端：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="docker-wechat" src="https://img.turingark.com/uPic/docker-wechat.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="docker-wechat" src="https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/Sunnyyoung/WeChatTweak-macOS"&gt;WeChatTweak-macOS&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;微信 macOS 客户端撤回拦截与多开工具，主要功能有：&lt;/p&gt;
 &lt;ul&gt;
@@ -4791,25 +4858,25 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;p&gt;&lt;strong&gt;项目挺好，但是使用过程中需要注意被封号的风险。&lt;/strong&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/dginev/ar5iv"&gt;ar5iv&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;Rust&lt;/code&gt;实现的一个&lt;code&gt;web&lt;/code&gt;在线服务：&lt;a href="https://ar5iv.org/"&gt;ar5iv&lt;/a&gt;，可以把&lt;code&gt;arXiv.org&lt;/code&gt;论文转成网页:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ar5iv" src="https://img.turingark.com/uPic/ar5iv.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ar5iv" src="https://images-1252557999.file.myqcloud.com/uPic/ar5iv.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;🤖 软件&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/CodeEditApp/CodeEdit"&gt;CodeEdit&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;针对&lt;code&gt;macOS&lt;/code&gt;的开源软件，核心目标在于提升开发者的编码体验：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="CodeEdit" src="https://img.turingark.com/uPic/CodeEdit.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="CodeEdit" src="https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/openmlsys/openmlsys-zh"&gt;openmlsys-zh&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="openmlsys" src="https://img.turingark.com/uPic/openmlsys.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="openmlsys" src="https://images-1252557999.file.myqcloud.com/uPic/openmlsys.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/datawhalechina/easy-rl"&gt;easy-rl&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;强化学习中文教程：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="easy_rl" src="https://img.turingark.com/uPic/easy_rl.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="easy_rl" src="https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;🕸 网站&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://carbon.now.sh/"&gt;carbon&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;将你的源代码转成漂亮可分享的图片：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="carbon" src="https://img.turingark.com/uPic/carbon.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="carbon" src="https://images-1252557999.file.myqcloud.com/uPic/carbon.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://www.qrcode-monkey.com/#"&gt;qrcode-monkey&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;免费的二维码生成网站：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="qrcode-monkey" src="https://img.turingark.com/uPic/qrcode-monkey.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="qrcode-monkey" src="https://images-1252557999.file.myqcloud.com/uPic/qrcode-monkey.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;✍️ 说明&lt;/h2&gt;
 &lt;p&gt;周刊相关信息：&lt;/p&gt;
 &lt;ul&gt;
@@ -4819,7 +4886,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/03-21~03-27.老胡的周刊（第032期）.md</guid>
-      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 20:14:00 +0806</pubDate>
     </item>
     <item>
       <title>03-14~03-20.老胡的周刊（第031期）.md</title>
@@ -4831,40 +4898,40 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;🎯 项目&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/AmruthPillai/Reactive-Resume"&gt;Reactive-Resume&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="rxresu" src="https://img.turingark.com/uPic/rxresu.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="rxresu" src="https://images-1252557999.file.myqcloud.com/uPic/rxresu.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;🤖 软件&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/Paladinfeng/MiaoProject"&gt;MiaoProject&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;Miao Project&lt;/code&gt; 为 &lt;code&gt;Bilibili&lt;/code&gt; 在 &lt;code&gt;tvOS&lt;/code&gt; 上的第三方的客户端，作者真是用爱发电:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Miao" src="https://img.turingark.com/uPic/Miao.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Miao" src="https://images-1252557999.file.myqcloud.com/uPic/Miao.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/koreader/koreader"&gt;KOReader&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="koreader" src="https://img.turingark.com/uPic/koreader.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="koreader" src="https://images-1252557999.file.myqcloud.com/uPic/koreader.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/RanKKI/LawRefBook"&gt;LawRefBook&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;开源的法律知识速查手册：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="LawRefBook" src="https://img.turingark.com/uPic/LawRefBook.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="LawRefBook" src="https://images-1252557999.file.myqcloud.com/uPic/LawRefBook.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/funnyzak/tts-now"&gt;tts-now&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/Se6U0t.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/Se6U0t.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://zjp-cn.github.io/api-guidelines/about.html"&gt;rust-api-guidelines&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="rust-api-guidelines" src="https://img.turingark.com/uPic/rust-api-guidelines.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="rust-api-guidelines" src="https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/Developer-Y/cs-video-courses"&gt;cs-video-courses&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;计算机科学课程和视频讲座列表：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="cs-video-courses" src="https://img.turingark.com/uPic/cs-video-courses.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="cs-video-courses" src="https://images-1252557999.file.myqcloud.com/uPic/cs-video-courses.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;🕸 网站&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://rutracker.org/forum/index.php"&gt;RuTracker&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;俄罗斯最大的盗版网站开放了，可以去上面找资源了：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="rutracker" src="https://img.turingark.com/uPic/rutracker.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="rutracker" src="https://images-1252557999.file.myqcloud.com/uPic/rutracker.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://www.watermarkremover.io/"&gt;watermarkremover&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;通过AI技术去除图片水印：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="watermarkremover" src="https://img.turingark.com/uPic/watermarkremover.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="watermarkremover" src="https://images-1252557999.file.myqcloud.com/uPic/watermarkremover.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://www.emojiall.com/"&gt;emojiall&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;网站提供了最新、完整的 &lt;code&gt;Emoji&lt;/code&gt; 搜索和相关信息， 包括表情符号含义、使用示例、&lt;code&gt;Unicode&lt;/code&gt; 代码点、高分辨率图片、复制和粘贴， 以及 &lt;code&gt;Emoji&lt;/code&gt; 大数据排名等：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="emojiall" src="https://img.turingark.com/uPic/emojiall.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="emojiall" src="https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://sao.fm/"&gt;sao.fm&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一个在线听广播电台的网站：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="sao.fm" src="https://img.turingark.com/uPic/sao.fm.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="sao.fm" src="https://images-1252557999.file.myqcloud.com/uPic/sao.fm.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;✍️ 说明&lt;/h2&gt;
 &lt;p&gt;周刊相关信息：&lt;/p&gt;
 &lt;ul&gt;
@@ -4874,7 +4941,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/03-14~03-20.老胡的周刊（第031期）.md</guid>
-      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 20:13:03 +0806</pubDate>
     </item>
     <item>
       <title>03-07~03-13.老胡的周刊（第030期）.md</title>
@@ -4886,46 +4953,46 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;🎯 项目&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/YaoApp/yao"&gt;yao&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;Yao&lt;/code&gt; 是一款支持快速创建 &lt;code&gt;Web&lt;/code&gt; 服务和管理后台的开源低代码应用引擎：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="yao" src="https://img.turingark.com/uPic/yao.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="yao" src="https://images-1252557999.file.myqcloud.com/uPic/yao.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/photoview/photoview"&gt;photoview&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;开源的相册程序，可基于Docker快速构建：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="photoview" src="https://img.turingark.com/uPic/photoview.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="photoview" src="https://images-1252557999.file.myqcloud.com/uPic/photoview.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/greppo-io/greppo"&gt;greppo&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;快速轻松地构建部署地理空间应用程序：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="greppo" src="https://img.turingark.com/uPic/IzNSxY.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="greppo" src="https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/tinysearch/tinysearch"&gt;tinysearch&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;轻量级、快速的全文检索引擎，针对静态网页，基于&lt;code&gt;Rust&lt;/code&gt;编写。&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/ml4a/ml4a"&gt;ml4a&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;Ml4a&lt;/code&gt; 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ml4a" src="https://img.turingark.com/uPic/ml4a.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ml4a" src="https://images-1252557999.file.myqcloud.com/uPic/ml4a.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/TencentARC/GFPGAN"&gt;GFPGAN&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;腾讯开源的老照片修复项目：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="GFPGAN" src="https://img.turingark.com/uPic/UOiwSK.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="GFPGAN" src="https://images-1252557999.file.myqcloud.com/uPic/UOiwSK.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;🤖 软件&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/naaive/orange"&gt;orange&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;基于&lt;code&gt;Rust&lt;/code&gt;跨平台的文件搜索引擎：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Orange" src="https://img.turingark.com/uPic/Orange.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Orange" src="https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/zkqiang/hangzhou-house-guide"&gt;hangzhou-house-guide&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/96wIDJ.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/pengfeiw/css-tutorial"&gt;css-tutorial&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;针对新人的 &lt;code&gt;CSS&lt;/code&gt; 入门级教程：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/EnSWJn.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png" /&gt;&lt;/p&gt;
 &lt;p&gt;在线阅读地址见&lt;a href="https://pengfeixc.com/tutorial/css/introduction"&gt;css-tutorial&lt;/a&gt;。 &lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/sunface/rust-by-practice"&gt;rust-by-practice&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;通过实战学习Rust，有&lt;a href="https://zh.practice.rs/"&gt;中文&lt;/a&gt;和&lt;a href="https://practice.rs/"&gt;英文&lt;/a&gt;两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/f4zLoa.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/f4zLoa.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;🕸 网站&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://pika.style/"&gt;pika&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://github.com/rishimohan/pika"&gt;pika&lt;/a&gt;是一个开源项目，可以快速将你的截图变得漂亮：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="pika" src="https://img.turingark.com/uPic/pika.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pika" src="https://images-1252557999.file.myqcloud.com/uPic/pika.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://devtool.tech/"&gt;devtool.tech&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;开发者武器库，作者提供了83个开发者常用的工具：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/ZlVqam.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/ZlVqam.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://readme.so/"&gt;readme.so&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一个辅助生成 &lt;code&gt;README&lt;/code&gt; 文档的工具，对于搞开源项目的新手有不错的参考价值：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="readme_so" src="https://img.turingark.com/uPic/readme_so.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="readme_so" src="https://images-1252557999.file.myqcloud.com/uPic/readme_so.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;✍️ 说明&lt;/h2&gt;
 &lt;p&gt;周刊相关信息：&lt;/p&gt;
 &lt;ul&gt;
@@ -4935,7 +5002,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/03-07~03-13.老胡的周刊（第030期）.md</guid>
-      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 20:11:43 +0806</pubDate>
     </item>
     <item>
       <title>02-28~03-05.老胡的周刊（第029期）.md</title>
@@ -4947,14 +5014,14 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;🎯 项目&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/louisyoungx/JD-SHOPPER"&gt;JD-SHOPPER&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="jd-shopper" src="https://img.turingark.com/uPic/jd-shopper.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="jd-shopper" src="https://images-1252557999.file.myqcloud.com/uPic/jd-shopper.jpeg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/damoeb/rss-proxy"&gt;rss-proxy&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;通过分析用户提供的静态页面自动创建RSS订阅源：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/APrAbH.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/APrAbH.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;🤖 软件&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/Lakr233/Rayon"&gt;Rayon&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一个&lt;code&gt;macOS&lt;/code&gt;的上的&lt;code&gt;SSH&lt;/code&gt;客户端：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="rayon" src="https://img.turingark.com/uPic/rayon.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="rayon" src="https://images-1252557999.file.myqcloud.com/uPic/rayon.png" /&gt;&lt;/p&gt;
 &lt;p&gt;软件特性：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;免费&amp;amp;开源&lt;/li&gt;
@@ -4966,17 +5033,17 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;h3&gt;&lt;a href="https://github.com/files-community/Files"&gt;Files&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一个现代化的文件管理软件(Windows用户专属)：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="files_windows" src="https://img.turingark.com/uPic/files_windows.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="files_windows" src="https://images-1252557999.file.myqcloud.com/uPic/files_windows.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/kyleduo/TinyPNG4Mac"&gt;TinyPNG4Mac&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;TinyPNG&lt;/code&gt;的&lt;code&gt;Mac&lt;/code&gt;客户端：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="TinyPNG4Mac" src="https://img.turingark.com/uPic/TinyPNG4Mac.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="TinyPNG4Mac" src="https://images-1252557999.file.myqcloud.com/uPic/TinyPNG4Mac.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/vnotex/vnote"&gt;vnote&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）&lt;/p&gt;
-&lt;p&gt;&lt;img alt="vnote" src="https://img.turingark.com/uPic/vnote.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="vnote" src="https://images-1252557999.file.myqcloud.com/uPic/vnote.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
 &lt;h3&gt;RustBook&lt;/h3&gt;
 &lt;p&gt;一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="RustBook" src="https://img.turingark.com/uPic/RustBook.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="RustBook" src="https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/youngyangyang04/leetcode-master"&gt;leetcode-master&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：&lt;a href="https://programmercarl.com/"&gt;programmercarl&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/phil-opp/blog_os"&gt;Writing an OS in Rust&lt;/a&gt;&lt;/h3&gt;
@@ -4984,7 +5051,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;🕸 网站&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://www.emojicode.org/"&gt;emojicode&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在&lt;a href="https://github.com/emojicode/emojicode"&gt;emojicode&lt;/a&gt;，有兴趣的大佬可以看看：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="emojicode" src="https://img.turingark.com/uPic/emojicode.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="emojicode" src="https://images-1252557999.file.myqcloud.com/uPic/emojicode.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;现在这个项目已经到了&lt;code&gt;1.0 beta 2&lt;/code&gt;，也有比较完善的&lt;a href="https://www.emojicode.org/docs/guides/install.html"&gt;教程&lt;/a&gt;。&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://www.programcreek.com/"&gt;programcreek&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：&lt;/p&gt;
@@ -4994,7 +5061,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;li&gt;&lt;a href="https://www.programcreek.com/cpp/"&gt;C++&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.programcreek.com/scala/"&gt;Scala&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="programcreek" src="https://img.turingark.com/uPic/YdAEPq.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="programcreek" src="https://images-1252557999.file.myqcloud.com/uPic/YdAEPq.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;✍️ 说明&lt;/h2&gt;
 &lt;p&gt;周刊相关信息：&lt;/p&gt;
 &lt;ul&gt;
@@ -5004,7 +5071,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/02-28~03-05.老胡的周刊（第029期）.md</guid>
-      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 20:04:56 +0806</pubDate>
     </item>
     <item>
       <title>02-21~02-27.老胡的周刊（第028期）.md</title>
@@ -5016,7 +5083,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;🎯 项目&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/TransparentLC/WechatMomentScreenshot"&gt;WechatMomentScreenshot&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;朋友圈转发截图生成工具，这个项目确实解决了一些号主做活动要求发朋友圈的需求：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/Xnip2022-02-22_09-42-52.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-22_09-42-52.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/Anduin2017/HowToCook"&gt;HowToCook&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;程序员在家做饭方法指南。&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/BlueMatthew/WechatExporter"&gt;WechatExporter&lt;/a&gt;&lt;/h3&gt;
@@ -5024,7 +5091,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;🤖 软件&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/Fabio286/antares"&gt;antares&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/Xnip2022-02-19_15-24-00.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/round/CatchMouse"&gt;CatchMouse&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用&lt;code&gt;CatchMouse&lt;/code&gt;快速解决这个问题，分别为每个显示器设置快捷键即可。&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/refined-github/refined-github"&gt;Refined GitHub&lt;/a&gt;&lt;/h3&gt;
@@ -5037,10 +5104,10 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;li&gt;在合并PR时，添加等待检查的选项&lt;/li&gt;
 &lt;li&gt;...&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/lI0jFl.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/lI0jFl.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/jely2002/youtube-dl-gui"&gt;youtube-dl-gui&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;跨平台的&lt;code&gt;youtube-dl&lt;/code&gt;客户端：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/yd_gui.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/nusr/hacker-laws-zh"&gt;hacker-laws-zh&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;对开发人员有用的定律、理论、原则和模式，这是项目&lt;a href="https://github.com/dwmkerr/hacker-laws"&gt;hacker-laws&lt;/a&gt; 的的中文翻译。&lt;/p&gt;
@@ -5055,13 +5122,13 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;🕸 网站&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="http://shan-shui-inf.lingdong.works/"&gt;shan-shui-inf&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见&lt;a href="https://github.com/LingDong-/shan-shui-inf"&gt;shan-shui-inf&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="shanshui-inf" src="https://img.turingark.com/uPic/shanshui-inf.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="shanshui-inf" src="https://images-1252557999.file.myqcloud.com/uPic/shanshui-inf.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://dotown.maeda-design-room.net/"&gt;maeda-design-room&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;免费可商用的像素画素材站，由前任天堂设计师成立的前田工作室制作，有12个分类700多个素材：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="maeda-design-room" src="https://img.turingark.com/uPic/DRpEV6.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="maeda-design-room" src="https://images-1252557999.file.myqcloud.com/uPic/DRpEV6.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://www.uxdatabase.io/"&gt;uxdatabase&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="uxdatabase" src="https://img.turingark.com/uPic/uxdatabase.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="uxdatabase" src="https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;✍️ 说明&lt;/h2&gt;
 &lt;p&gt;周刊相关信息：&lt;/p&gt;
 &lt;ul&gt;
@@ -5071,7 +5138,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/02-21~02-27.老胡的周刊（第028期）.md</guid>
-      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 20:03:36 +0806</pubDate>
     </item>
     <item>
       <title>02-15~02-20.老胡的周刊（第027期）.md</title>
@@ -5087,7 +5154,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;p&gt;支持主题设计的 Markdown 编辑器，让排版变 Nice&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;你可以选择直接访问&lt;a href="https://editor.mdnice.com/"&gt;官方&lt;/a&gt;，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/oGeICY.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png" /&gt;&lt;/p&gt;
 &lt;p&gt;官方并不支持&lt;code&gt;Docker&lt;/code&gt;部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验&lt;code&gt;mdnice&lt;/code&gt;:&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;shell
 docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt;/p&gt;
@@ -5096,19 +5163,19 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;🤖 软件&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/waydabber/BetterDummy"&gt;BetterDummy&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;BetterDummy&lt;/code&gt; 可以让 &lt;code&gt;M1&lt;/code&gt; 系列芯片的 &lt;code&gt;Mac&lt;/code&gt; 拥有自定义的 &lt;code&gt;HiDPI&lt;/code&gt; 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 &lt;code&gt;BetterDummy&lt;/code&gt; 实现的 &lt;code&gt;HiDPI&lt;/code&gt;，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="bd_menu" src="https://img.turingark.com/uPic/bd_menu.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bd_menu" src="https://images-1252557999.file.myqcloud.com/uPic/bd_menu.png" /&gt;&lt;/p&gt;
 &lt;p&gt;如果你使用之前版本的&lt;code&gt;Mac&lt;/code&gt;，可以使用开源项目&lt;a href="https://github.com/xzhih/one-key-hidpi"&gt;one-key-hidpi&lt;/a&gt;为中低分辨率的屏幕开启 &lt;code&gt;HiDPI&lt;/code&gt; 选项，并且具有原生的 &lt;code&gt;HiDPI&lt;/code&gt; 设置，不需要 &lt;a href="https://github.com/avibrazil/RDM"&gt;RDM&lt;/a&gt; 软件即可在系统显示器设置中设置。&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/veler/DevToys"&gt;DevToys&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Github上一名开发 &lt;code&gt;Etienne Baudoux Veler&lt;/code&gt;发布了&lt;code&gt;DevToys&lt;/code&gt;，该工具可以说是面向开发者的&lt;code&gt;PowerToys&lt;/code&gt;。&lt;code&gt;DevToys&lt;/code&gt;包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/DevToys.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/DevToys.png" /&gt;&lt;/p&gt;
 &lt;p&gt;可惜这个工具是&lt;code&gt;C#&lt;/code&gt;写的，只支持&lt;code&gt;Windows&lt;/code&gt;平台，所幸&lt;code&gt;ObuchiYuki&lt;/code&gt;复刻了&lt;code&gt;DevToys&lt;/code&gt;的&lt;code&gt;macOS&lt;/code&gt;版——&lt;a href="https://github.com/ObuchiYuki/DevToysMac"&gt;DevToysMac&lt;/a&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png" /&gt;&lt;/p&gt;
 &lt;p&gt;放心体验吧~&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/p0deje/Maccy"&gt;Maccy&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;轻量级macOS剪切板管理应用：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/t3XNpU.png" /&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png" /&gt;
 使用截图如下：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/SWZ6kJ.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/chasays/newsletter-list"&gt;newsletter-list&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;有趣，免费的&lt;code&gt;newsletter&lt;/code&gt;收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：&lt;/p&gt;
@@ -5119,7 +5186,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;h3&gt;&lt;a href="https://github.com/km1994/NLP-Interview-Notes"&gt;NLP-Interview-Notes&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/SBotTN.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/SBotTN.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;其他同类教程地址：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;NLP百面百搭&lt;a href="https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ"&gt;微信阅读地址&lt;/a&gt; | &lt;a href="https://github.com/km1994/nlp_paper_study"&gt;论文学习笔记(nlp_paper_study)&lt;/a&gt;&lt;/li&gt;
@@ -5143,10 +5210,10 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;li&gt;https://sci-hub.ru/&lt;/li&gt;
 &lt;li&gt;https://sci-hub.st/&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/ISPyBJ.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://pixel-me.tokyo/en/"&gt;pixel-me&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;将你的头像像素化，质量挺好：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/gnHdoM.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/gnHdoM.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;✍️ 说明&lt;/h2&gt;
 &lt;p&gt;周刊相关信息：&lt;/p&gt;
 &lt;ul&gt;
@@ -5156,7 +5223,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/02-15~02-20.老胡的周刊（第027期）.md</guid>
-      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 20:21:18 +0806</pubDate>
     </item>
     <item>
       <title>02-07~02-14.老胡的周刊（第026期）.md</title>
@@ -5168,7 +5235,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;🎯 项目&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/imDazui/Tvlist-awesome-m3u-m3u8"&gt;Tvlist-awesome-m3u-m3u8&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;直播源相关资源汇总 📺 💯 IPTV、M3U，让你不用安装有线电视就可以高清无卡顿的看电视。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/oQ6iZ0.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/oQ6iZ0.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/YuanHsing/freed"&gt;freed&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/JeffersonQin/lightnovel_epub"&gt;lightnovel_epub&lt;/a&gt;&lt;/h3&gt;
@@ -5184,13 +5251,13 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;👀 资料&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/woai3c/introduction-to-front-end-engineering"&gt;introduction-to-front-end-engineering&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一本小书《带你入门前端工程》&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/e783TS.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/e783TS.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/yifeikong/reverse-interview-zh"&gt;reverse-interview-zh&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;技术面试最后反问面试官的话。&lt;/p&gt;
 &lt;h2&gt;🕸 网站&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://learngitbranching.js.org/?locale=zh_CN"&gt;learngitbranching&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;@妙才投稿，在线学习git命令的网站：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/YSiAVW.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://quanxin.org/"&gt;quanxin&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;快速、优雅、免费的在线工具，比如：&lt;/p&gt;
 &lt;ul&gt;
@@ -5199,10 +5266,10 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;li&gt;&lt;a href="https://quanxin.org/http-status-code"&gt;HTTP 状态码参考表&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://quanxin.org/favicon"&gt;Favicon ico图标生成器&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/i6hqlr.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/i6hqlr.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://dragonir.github.io/3d/#/olympic"&gt;冰墩墩-3d&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/bdd-3d.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/bdd-3d.png" /&gt;&lt;/p&gt;
 &lt;p&gt;感兴趣可以看技术&lt;a href="https://www.cnblogs.com/dragonir/p/15861204.html"&gt;原文&lt;/a&gt;。&lt;/p&gt;
 &lt;h2&gt;✍️ 说明&lt;/h2&gt;
 &lt;p&gt;周刊相关信息：&lt;/p&gt;
@@ -5213,7 +5280,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/02-07~02-14.老胡的周刊（第026期）.md</guid>
-      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 19:59:11 +0806</pubDate>
     </item>
     <item>
       <title>01-31~02-05.老胡的周刊（第025期）.md</title>
@@ -5225,20 +5292,20 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;🎯 项目&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/leaningtech/webvm"&gt;webvm&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：&lt;a href="https://webvm.io/"&gt;webvm.io&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="webvm" src="https://img.turingark.com/uPic/1yRQBe.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="webvm" src="https://images-1252557999.file.myqcloud.com/uPic/1yRQBe.png" /&gt;&lt;/p&gt;
 &lt;p&gt;详细的介绍文章见：&lt;a href="https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361"&gt;WebVM: server-less x86 virtual machines in the browser&lt;/a&gt;。&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/bilibili/ailab/tree/main/Real-CUGAN"&gt;Real-CUGAN&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\3x\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Real-CUGAN" src="https://img.turingark.com/uPic/hWiOCH.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Real-CUGAN" src="https://images-1252557999.file.myqcloud.com/uPic/hWiOCH.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;🤖 软件&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/meowtec/Imagine"&gt;Imagine&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;全平台支持的图片压缩软件：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Imagine" src="https://img.turingark.com/uPic/KrSb9L.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Imagine" src="https://images-1252557999.file.myqcloud.com/uPic/KrSb9L.png" /&gt;&lt;/p&gt;
 &lt;p&gt;看看这86%的压缩率还是挺上头的，而且效果很好。&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/nlp-with-transformers"&gt;nlp-with-transformers&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;书籍《基于Transformers的自然语言处理》的代码仓库：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://img.turingark.com/uPic/A6MiF5.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/A6MiF5.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/resumejob/Leetcode-retag"&gt;Leetcode-retag&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;重新分类 Leetcode 高频题 2021 版&lt;/p&gt;
 &lt;ul&gt;
@@ -5249,13 +5316,13 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;🕸 网站&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="http://www.ixinqing.com/"&gt;ixinqing&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;心晴 · 专注于心理学入门与自我成长:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ixinqing" src="https://img.turingark.com/uPic/ixinqing-20220328205229819.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ixinqing" src="https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://aqeja.github.io/pixel/"&gt;pixel&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一个小工具，将你的图片像素化:&lt;/p&gt;
-&lt;p&gt;&lt;img alt=";''" src="https://img.turingark.com/uPic/KfJuhM.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pixel" src="https://images-1252557999.file.myqcloud.com/uPic/KfJuhM.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://tinypng.com/"&gt;tinypng&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="tinypng" src="https://img.turingark.com/uPic/8s8ltr.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="tinypng" src="https://images-1252557999.file.myqcloud.com/uPic/8s8ltr.png" /&gt;&lt;/p&gt;
 &lt;p&gt;如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md"&gt;TinyPNG4Mac&lt;/a&gt;: Mac客户端&lt;/li&gt;
@@ -5268,7 +5335,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;li&gt;图片压缩&lt;/li&gt;
 &lt;li&gt;图片转换&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="webutils" src="https://img.turingark.com/uPic/ijDiPA.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="webutils" src="https://images-1252557999.file.myqcloud.com/uPic/ijDiPA.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;✍️ 说明&lt;/h2&gt;
 &lt;p&gt;周刊相关信息：&lt;/p&gt;
 &lt;ul&gt;
@@ -5278,7 +5345,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/01-31~02-05.老胡的周刊（第025期）.md</guid>
-      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 19:58:15 +0806</pubDate>
     </item>
     <item>
       <title>01-23~01-30.老胡的周刊（第024期）.md</title>
@@ -5290,12 +5357,12 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;🎯 项目&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/DustinBrett/daedalOS"&gt;daedalOS&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;daedalOS&lt;/code&gt;是一款开源的桌面环境系统，可直接在浏览器运行，官网点&lt;a href="https://dustinbrett.com/"&gt;dustinbrett.com&lt;/a&gt;，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="daedalOS" src="https://img.turingark.com/uPic/ISxBdY.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="daedalOS" src="https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/Coder-Yu/QRec"&gt;QRec&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Python编写的推荐系统快速实践框架（基于TF），和之前推荐的&lt;a href="https://weekly.howie6879.com/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E6%8E%A8%E8%8D%90#gorse"&gt;gorse&lt;/a&gt;有点类似，但不同的是QRec提供了领先的推荐系统模型用于实践。&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/khuedoan/homelab"&gt;homelab&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一个开源的家用自托管基础设施项目，支持自动配置、操作和更新各类自托管服务，可用于打造自己的家庭开发实验室。其中包括代码自托管、证书管理、CI/CD 持续集成与交付、K8s 自动化安装和管理、实时聊天系统、应用监控面板等功能。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="homelab" src="https://img.turingark.com/uPic/gB9qTV.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="homelab" src="https://images-1252557999.file.myqcloud.com/uPic/gB9qTV.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/justmemos/memos"&gt;memos&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Memos 是一款开源的 &lt;a href="https://flomoapp.com/"&gt;flomo&lt;/a&gt; （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;🎯 产品意图&lt;/strong&gt;:&lt;/p&gt;
@@ -5306,16 +5373,16 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;h3&gt;&lt;a href="https://github.com/Volmarg/personal-management-system"&gt;personal-management-system&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;该项目可以很方便的管理个人数据，如目标规划/笔记/联系人/密码/附件/图片/文件等等：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="personal-management-system" src="https://img.turingark.com/uPic/C6hnHx.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="personal-management-system" src="https://images-1252557999.file.myqcloud.com/uPic/C6hnHx.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/pipipi-pikachu/PPTist"&gt;PPTist&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;基于 Vue3.x + TypeScript 的&lt;a href="https://pipipi-pikachu.github.io/PPTist/"&gt;在线演示文稿&lt;/a&gt;（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ppt-list" src="https://img.turingark.com/uPic/ppt-list.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ppt-list" src="https://images-1252557999.file.myqcloud.com/uPic/ppt-list.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;🤖 软件&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/HammerPDF/Smart-Scientific-Reader"&gt;Smart-Scientific-Reader&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！&lt;/p&gt;
 &lt;p&gt;Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。&lt;/p&gt;
 &lt;p&gt;支持&lt;a href="https://pdf.hammerscholar.net/"&gt;网页端&lt;/a&gt;、&lt;a href="https://github.com/HammerPDF/Smart-Scientific-Reader/releases"&gt;桌面端&lt;/a&gt;，非常强大。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="hammerscholar" src="https://img.turingark.com/uPic/4UQ5Ha.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="hammerscholar" src="https://images-1252557999.file.myqcloud.com/uPic/4UQ5Ha.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/yang991178/fluent-reader"&gt;fluent-reader&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一款拥有现代化界面的RSS阅读器，拥有以下特性：&lt;/p&gt;
 &lt;ul&gt;
@@ -5324,29 +5391,29 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;li&gt;支持OPML导入导出&lt;/li&gt;
 &lt;li&gt;正则检索，状态管控，快捷键等&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="fluent-reader" src="https://img.turingark.com/uPic/fluent-reader.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="fluent-reader" src="https://images-1252557999.file.myqcloud.com/uPic/fluent-reader.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/mli/paper-reading"&gt;paper-reading&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="paper-reading" src="https://img.turingark.com/uPic/7e52UU.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="paper-reading" src="https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/doocs/leetcode"&gt;leetcode&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/yangshun/tech-interview-handbook"&gt;tech-interview-handbook&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;为忙碌的工程师准备的精选面试准备材料：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="tech-interview-handbook" src="https://img.turingark.com/uPic/lAcwMK.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="tech-interview-handbook" src="https://images-1252557999.file.myqcloud.com/uPic/lAcwMK.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;🕸 网站&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://flomoapp.com/"&gt;flomoapp&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行&lt;a href="https://flomoapp.com/register2/?NDgzNTM"&gt;注册&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="flomoapp" src="https://img.turingark.com/uPic/6G6qrd.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="flomoapp" src="https://images-1252557999.file.myqcloud.com/uPic/6G6qrd.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="http://wejectchan.gitee.io/git-emoji-user-guide/#/"&gt;Git提交使用指南&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一个搜索 git 常用 emoji 的网站:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="git-emoji-user-guide" src="https://img.turingark.com/uPic/sILZG1.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="git-emoji-user-guide" src="https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://darebee.com/"&gt;darebee&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一个教你正确运动姿势的网站：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="darebee" src="https://img.turingark.com/uPic/eIHdyQ.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="darebee" src="https://images-1252557999.file.myqcloud.com/uPic/eIHdyQ.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://reading.geek-docs.com/"&gt;读书笔记&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="reading" src="https://img.turingark.com/uPic/nfN4XL.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="reading" src="https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;✍️ 说明&lt;/h2&gt;
 &lt;p&gt;周刊相关信息：&lt;/p&gt;
 &lt;ul&gt;
@@ -5356,7 +5423,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/01-23~01-30.老胡的周刊（第024期）.md</guid>
-      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 19:55:32 +0806</pubDate>
     </item>
     <item>
       <title>01-17~01-22.老胡的周刊（第023期）.md</title>
@@ -5368,10 +5435,10 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;🎯 项目&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/sivan/heti"&gt;heti&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="heti" src="https://img.turingark.com/uPic/WrpZDT.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="heti" src="https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/wonderworks-software/PyFlow"&gt;PyFlow&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;可视化脚本框架：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="PyFlow" src="https://img.turingark.com/uPic/XEBUdM.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="PyFlow" src="https://images-1252557999.file.myqcloud.com/uPic/XEBUdM.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/imcuttle/mometa"&gt;mometa&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;面向研发的低代码元编程，代码可视编辑，辅助编码工具，&lt;/p&gt;
 &lt;p&gt;mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。&lt;/p&gt;
@@ -5381,51 +5448,51 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;li&gt;同时支持所见即所得的可视编辑，用于提效，提升开发体验&lt;/li&gt;
 &lt;li&gt;提供物料生态，可自定义物料，提升物料使用体验，提升复用率&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="mometa" src="https://img.turingark.com/uPic/snapshot.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="mometa" src="https://images-1252557999.file.myqcloud.com/uPic/snapshot.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/messense/aliyundrive-fuse/"&gt;aliyundrive-fuse&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;本项目则直接通过 FUSE 实现将阿里云盘挂载为本地磁盘，非常好用，我是这个项目作者的粉丝。&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/scarsty/nn-editor"&gt;nn-editor&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经网络结构的简单编辑，或者某些特殊流程图的编辑。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="nn-editor" src="https://img.turingark.com/uPic/By0C3O.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="nn-editor" src="https://images-1252557999.file.myqcloud.com/uPic/By0C3O.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;🤖 软件&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/xfangfang/Macast"&gt;Macast&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Macast" src="https://img.turingark.com/uPic/CXYyQX.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Macast" src="https://images-1252557999.file.myqcloud.com/uPic/CXYyQX.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/mattermost/focalboard"&gt;Focalboard&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;Focalboard&lt;/code&gt;是一个开源可自部署的项目管理工具，可用于替代&lt;code&gt;Trello Notion Asana&lt;/code&gt;，值得一提的是该项目提供了全平台的桌面软件支持。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Focalboard" src="https://img.turingark.com/uPic/K3Ibbl.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Focalboard" src="https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/KurtBestor/Hitomi-Downloader"&gt;Hitomi-Downloader&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="hitomi" src="https://img.turingark.com/uPic/hitomi.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="hitomi" src="https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj"&gt;Temp Mail&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="temp_mail" src="https://img.turingark.com/uPic/M4DZPI.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="temp_mail" src="https://images-1252557999.file.myqcloud.com/uPic/M4DZPI.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://www.netkiller.cn/"&gt;netkiller&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;作者持续写了将近20年的技术博文，涵盖面极广：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="netkiller" src="https://img.turingark.com/uPic/V7rzw3.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="netkiller" src="https://images-1252557999.file.myqcloud.com/uPic/V7rzw3.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/CyC2018/CS-Notes"&gt;CS-Notes&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="CS-Notes" src="https://img.turingark.com/uPic/7aMFrS.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="CS-Notes" src="https://images-1252557999.file.myqcloud.com/uPic/7aMFrS.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/wsdjeg/Learn-Vim_zh_cn"&gt;Learn-Vim_zh_cn&lt;/a&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Learn-Vim_zh_cn" src="https://img.turingark.com/uPic/AgGats.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Learn-Vim_zh_cn" src="https://images-1252557999.file.myqcloud.com/uPic/AgGats.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;🕸 网站&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/Sanix-Darker/zzollo"&gt;zzollo&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;开源项目搜索引擎，支持&lt;code&gt;Github, GitLab, Bitbucket&lt;/code&gt;，在网地址访问地址为&lt;a href="https://zzollo.co/"&gt;zzollo.co&lt;/a&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="zzollo" src="https://img.turingark.com/uPic/NJXulr.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="zzollo" src="https://images-1252557999.file.myqcloud.com/uPic/NJXulr.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="http://sqlime.org/"&gt;sqlime&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在&lt;a href="https://github.com/nalgeon/sqlime"&gt;github-sqlime&lt;/a&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="sqlime" src="https://img.turingark.com/uPic/57MTfO.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="sqlime" src="https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://itnext.cn/"&gt;itnext&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一个介绍元宇宙的网站：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="itnext" src="https://img.turingark.com/uPic/yc7Zhp.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="itnext" src="https://images-1252557999.file.myqcloud.com/uPic/yc7Zhp.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="http://zhongguose.com/"&gt;zhongguose&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一个中国传统颜色的配色网站：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="zhongguose" src="https://img.turingark.com/uPic/zhongguose.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="zhongguose" src="https://images-1252557999.file.myqcloud.com/uPic/zhongguose.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;✍️ 说明&lt;/h2&gt;
 &lt;p&gt;周刊相关信息：&lt;/p&gt;
 &lt;ul&gt;
@@ -5435,7 +5502,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/01-17~01-22.老胡的周刊（第023期）.md</guid>
-      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 19:53:46 +0806</pubDate>
     </item>
     <item>
       <title>01-10~01-14.老胡的周刊（第022期）.md</title>
@@ -5631,7 +5698,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;🎯 项目&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/kuaifan/dootask"&gt;dootask&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="dootask" src="https://img.turingark.com/uPic/tYiTA7.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="dootask" src="https://images-1252557999.file.myqcloud.com/uPic/tYiTA7.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/prabhatsharma/zinc"&gt;zinc&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;zinc&lt;/code&gt;的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：&lt;/p&gt;
 &lt;ul&gt;
@@ -5642,33 +5709,33 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;li&gt;开箱即用的验证功能&lt;/li&gt;
 &lt;li&gt;无需预先定义模式，同一索引中的不同文档可以有不同的字段&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="zinc" src="https://img.turingark.com/uPic/P9OAA1.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="zinc" src="https://images-1252557999.file.myqcloud.com/uPic/P9OAA1.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/fanux/sealos"&gt;sealos&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。&lt;/p&gt;
 &lt;h3&gt;Command2API&lt;/h3&gt;
 &lt;p&gt;这是一个可以实时获取执行命令结果的脚本，脚本原理就是一个线程开启Web服务，一个线程执行命令，通过全局变量与Web服务共享执行命令的结果。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Command2API" src="https://img.turingark.com/uPic/mcMhsP.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Command2API" src="https://images-1252557999.file.myqcloud.com/uPic/mcMhsP.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/XIU2/CloudflareSpeedTest"&gt;CloudflareSpeedTest&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。&lt;/p&gt;
 &lt;p&gt;虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！&lt;/p&gt;
 &lt;h2&gt;🤖 软件&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/pqrs-org/Karabiner-Elements"&gt;Karabiner-Elements&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;Karabiner-Elements&lt;/code&gt;是一个非常强大的键盘自定义工具，非常推荐，算是我&lt;code&gt;macOS&lt;/code&gt;下的基本软件。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Karabiner-Elements" src="https://img.turingark.com/uPic/T3Y4AL.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Karabiner-Elements" src="https://images-1252557999.file.myqcloud.com/uPic/T3Y4AL.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/Vonng/ddia"&gt;数据密集型应用系统设计&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ddia" src="https://img.turingark.com/uPic/H2Z04g.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ddia" src="https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://gfw.go101.org/article/101.html"&gt;go101&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Go语言101" src="https://img.turingark.com/uPic/aPSFYR.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Go语言101" src="https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://aistudio.baidu.com/aistudio/course/introduce/25207"&gt;动手学OCR·十讲&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;PaddleOCR的原创团队出的课程，课程内容涵盖基于深度学习的经典OCR检测识别算法、最新文档结构化技术以及千锤百炼的产业级模型与部署工具。通过广泛调研提炼了重要OCR算法的核心思想，实践部分不仅对代码重要细节做了深入分析，还会实时运行代码展示效果助大家加深理解。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="动手学OCR" src="https://img.turingark.com/uPic/tcg64l.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="动手学OCR" src="https://images-1252557999.file.myqcloud.com/uPic/tcg64l.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;🕸 网站&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://storyset.com/"&gt;storyset&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;来自读者@妙才的投稿，这个网站提供了大量精美免费的插图，可以应用于你的项目：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="storyset" src="https://img.turingark.com/uPic/Jm5cJY.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="storyset" src="https://images-1252557999.file.myqcloud.com/uPic/Jm5cJY.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://regex101.com/"&gt;regex101&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;regex101&lt;/code&gt;主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：&lt;/p&gt;
 &lt;ul&gt;
@@ -5678,7 +5745,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;li&gt;Go&lt;/li&gt;
 &lt;li&gt;Java&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="regex101" src="https://img.turingark.com/uPic/Fz15mf.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="regex101" src="https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;✍️ 说明&lt;/h2&gt;
 &lt;p&gt;周刊相关信息：&lt;/p&gt;
 &lt;ul&gt;
@@ -5688,7 +5755,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/12-21~12-25.老胡的周刊（第019期）.md</guid>
-      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 19:51:08 +0806</pubDate>
     </item>
     <item>
       <title>12-13~12-20.老胡的周刊（第018期）.md</title>
@@ -5705,7 +5772,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;li&gt;灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于&lt;code&gt;Pull System &amp;amp; WIP&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;可评估：方便收集如任务完成数量、质量、时间等性能指标&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="Kanboard" src="https://img.turingark.com/uPic/76TTj6.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Kanboard" src="https://images-1252557999.file.myqcloud.com/uPic/76TTj6.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;🤖 软件&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/HeiSir2014/M3U8-Downloader"&gt;M3U8-Downloader&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：&lt;/p&gt;
@@ -5721,30 +5788,30 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 | 标准 AES-256-CBC加密 | ✓          |
 | 非标准 AES-*-CBC加密 | ㄨ(可定制) |
 | 网页嗅探视频源       | ✓          |&lt;/p&gt;
-&lt;p&gt;&lt;img alt="HLSDownloadShow" src="https://img.turingark.com/uPic/HLSDownloadShow.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="HLSDownloadShow" src="https://images-1252557999.file.myqcloud.com/uPic/HLSDownloadShow.gif" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://www.jetbrains.com/fleet/#distributive"&gt;JetBrains Fleet&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;JetBrains 的下一代 IDE：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="fleet" src="https://img.turingark.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="fleet" src="https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/QianMo/Game-Programmer-Study-Notes"&gt;Game-Programmer-Study-Notes&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://github.com/QianMo"&gt;浅墨&lt;/a&gt;的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;可惜永远都不会再更新了，默哀！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="gpsn" src="https://img.turingark.com/uPic/oMF4xB.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="gpsn" src="https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/PKUFlyingPig/cs-self-learning"&gt;cs-self-learning&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://pkuflyingpig.github.io/cs-self-learning/"&gt;计算机自学指南&lt;/a&gt;，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="cs-self-learning" src="https://img.turingark.com/uPic/iuimNz.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="cs-self-learning" src="https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/justjavac/free-programming-books-zh_CN"&gt;free-programming-books-zh_CN&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。&lt;/p&gt;
 &lt;h2&gt;🕸 网站&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://regexlearn.com"&gt;regexlearn&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="regexlearn" src="https://img.turingark.com/uPic/yUZ5N4.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="regexlearn" src="https://images-1252557999.file.myqcloud.com/uPic/yUZ5N4.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://vim.is/#exercise"&gt;vim.is&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;Vim&lt;/code&gt;学习网站：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="vim.is" src="https://img.turingark.com/uPic/iA6wxm.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="vim.is" src="https://images-1252557999.file.myqcloud.com/uPic/iA6wxm.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://www.67tool.com/"&gt;即时工具&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="67tool" src="https://img.turingark.com/uPic/mhrsW0.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="67tool" src="https://images-1252557999.file.myqcloud.com/uPic/mhrsW0.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;✍️ 说明&lt;/h2&gt;
 &lt;p&gt;周刊相关信息：&lt;/p&gt;
 &lt;ul&gt;
@@ -5754,7 +5821,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/12-13~12-20.老胡的周刊（第018期）.md</guid>
-      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 19:47:50 +0806</pubDate>
     </item>
     <item>
       <title>12-06~12-12.老胡的周刊（第017期）.md</title>
@@ -6592,15 +6659,15 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;li&gt;自定义&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;如果你有自己的服务器，可以尝试一下，我自己用了几天，非常喜欢上面的特性，感觉特别棒，已经升级成我的默认搜索引擎了：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Whoogle" src="https://img.turingark.com/uPic/mUGf6O.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Whoogle" src="https://images-1252557999.file.myqcloud.com/uPic/mUGf6O-20230909194304629.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/TurboWay/bigdata_analyse"&gt;bigdata_analyse&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。&lt;/p&gt;
 &lt;p&gt;项目列表如下：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="bigdata_analyse" src="https://img.turingark.com/uPic/klC8AA.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bigdata_analyse" src="https://images-1252557999.file.myqcloud.com/uPic/klC8AA.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;🤖 软件&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://vieb.dev/"&gt;Vieb&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;开源免费的全平台（PC）&lt;code&gt;Vim&lt;/code&gt;风格电子浏览器：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Vieb" src="https://img.turingark.com/uPic/BqyWaK.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Vieb" src="https://images-1252557999.file.myqcloud.com/uPic/BqyWaK.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/curiousily/Getting-Things-Done-with-Pytorch"&gt;Getting-Things-Done-with-Pytorch&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;基于&lt;code&gt;Jupyter&lt;/code&gt;的&lt;code&gt;PyTorch&lt;/code&gt;教程，主要是使用机器学习&amp;amp;深度学习解决实际问题，包含如下方向：&lt;/p&gt;
@@ -6610,7 +6677,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;li&gt;Time Series&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;目录概览：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Pytorch" src="https://img.turingark.com/uPic/kSUA40.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Pytorch" src="https://images-1252557999.file.myqcloud.com/uPic/kSUA40.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;🕸 网站&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://qwerty.kaiyi.cool/gallery"&gt;Qwerty Learner&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;这也是一个开源项目，作者将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。&lt;/p&gt;
@@ -6620,7 +6687,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;li&gt;网站：推荐&lt;/li&gt;
 &lt;li&gt;VS Code插件&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="Qwerty" src="https://img.turingark.com/uPic/tHD4ez.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Qwerty" src="https://images-1252557999.file.myqcloud.com/uPic/tHD4ez.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;✍️ 说明&lt;/h2&gt;
 &lt;p&gt;周刊相关信息：&lt;/p&gt;
 &lt;ul&gt;
@@ -6630,7 +6697,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/08-30~09-03.老胡的周刊（第003期）.md</guid>
-      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 19:45:47 +0806</pubDate>
     </item>
     <item>
       <title>08-23~08-27.老胡的周刊（第002期）.md</title>
