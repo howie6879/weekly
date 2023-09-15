@@ -12,7 +12,94 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sat, 09 Sep 2023 12:29:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2023 01:16:35 +0000</lastBuildDate>
+    <item>
+      <title>09-11~09-17.老胡的周刊（第108期）.md</title>
+      <link>https://weekly.howie6879.com/2023/09-11~09-17.老胡的周刊（第108期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/09-11~09-17.老胡的周刊（第108期）.html"&gt;09-11~09-17.老胡的周刊（第108期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/makeplane/plane"&gt;plane&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;概念比较新的项目管理工具，开源的 &lt;code&gt;JIRA，Linear &amp;amp; Height&lt;/code&gt; 的替代品，&lt;code&gt;Plane&lt;/code&gt; 以最简单的方式帮助您跟踪问题、冲刺和产品路线图：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="plane" src="https://images-1252557999.file.myqcloud.com/uPic/plane.webp" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/1j01/jspaint"&gt;jspaint&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;怀旧画板项目，&lt;code&gt;JS Paint&lt;/code&gt; 高度逼真地再现了 &lt;code&gt;MS Paint&lt;/code&gt; 的每一个工具和菜单，甚至是鲜为人知的功能，它支持主题、附加文件类型和辅助功能，如眼睛凝视模式和语音识别：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="jspaint" src="https://images-1252557999.file.myqcloud.com/uPic/jspaint.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;直接在线体验 👉 &lt;a href="https://jspaint.app/"&gt;jspaint.app&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/imgly/background-removal-js"&gt;background-removal-js&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;在浏览器环境中直接删除图像背景，不需要额外的成本或隐私问题，在线&lt;a href="https://img.ly/showcases/cesdk/web/background-removal/web?utm_source=github&amp;amp;utm_medium=project&amp;amp;utm_campaign=bg-removal"&gt;体验&lt;/a&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="background-removal-js" src="https://images-1252557999.file.myqcloud.com/uPic/background-removal-js.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/maotoumao/MusicFreeDesktop"&gt;MusicFreeDesktop&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个插件化、定制化、无广告的免费音乐播放器:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;插件化：本软件仅仅是一个播放器，本身并不集成任何平台的任何音源，所有的搜索、播放、歌单导入等功能全部基于插件&lt;/li&gt;
+&lt;li&gt;插件支持的功能：搜索（音乐、专辑、作者、歌单）、播放、查看专辑、查看作者详细信息、导入单曲、导入歌单、获取歌词等&lt;/li&gt;
+&lt;li&gt;定制化：本软件可以通过主题包定义软件外观及背景，详见下方主题包一节&lt;/li&gt;
+&lt;li&gt;无广告：基于 GPL3.0 协议开源，将会保持免费&lt;/li&gt;
+&lt;li&gt;隐私：软件所有数据存储在本地，本软件不会上传你的个人信息。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="MusicFreeDesktop" src="https://images-1252557999.file.myqcloud.com/uPic/MusicFreeDesktop.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/SpriteOvO/AirPodsDesktop"&gt;AirPodsDesktop&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;AirPods&lt;/code&gt; 桌面用户体验增强程序(仅支持 Windows)：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔋 电池信息显示&lt;/li&gt;
+&lt;li&gt;👂 自动人耳检测&lt;/li&gt;
+&lt;li&gt;🚀 低音频延迟模式&lt;/li&gt;
+&lt;li&gt;🌈 精美的动画&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="AirPodsDesktop" src="https://images-1252557999.file.myqcloud.com/uPic/AirPodsDesktop.gif" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ninxsoft/Mist"&gt;Mist&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个自动下载 &lt;code&gt;macOS&lt;/code&gt; 固件/安装程序的 &lt;code&gt;Mac&lt;/code&gt; 实用工具，&lt;code&gt;macOS&lt;/code&gt; 安装程序超级工具：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Mist" src="https://images-1252557999.file.myqcloud.com/uPic/Mist.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/gkd-kit/gkd"&gt;gkd&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;strong&gt;无障碍&lt;/strong&gt; + &lt;strong&gt;高级选择器&lt;/strong&gt; + &lt;strong&gt;订阅规则&lt;/strong&gt; 的自定义屏幕点击 &lt;code&gt;APP&lt;/code&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;点击跳过任意开屏广告/点击关闭应用内部任意弹窗广告, 如关闭百度贴吧帖子广告卡片/知乎回答底部推荐广告卡片&lt;/li&gt;
+&lt;li&gt;一些快捷操作, 如微信电脑登录自动同意/微信扫描登录自动同意/微信抢红包&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;开源版李跳跳：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="www.yalijuda.com_gkd_sXGlMJqpfS" src="https://images-1252557999.file.myqcloud.com/uPic/www.yalijuda.com_gkd_sXGlMJqpfS.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/xdite/note-hack"&gt;note-hack&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;《打造超人笔记》是一本关于如何有效记录和整理笔记的书籍。&lt;/p&gt;
+&lt;p&gt;作者认为，笔记是一个看起来复杂但实际上比学习和阅读更简单的问题。通过拆解笔记的流程，作者发现主要问题的结构变得非常简单。此外，随着科技的发展，许多快速记录工具和笔记整理软件已经被发明出来，使笔记搜寻变得更加容易。&lt;/p&gt;
+&lt;p&gt;在本书中，作者探讨了如何通过做笔记和整理笔记来挖掘和整理自己对一个领域的各种答案。通过阅读本书，读者可以学习到如何使用各种工具和方法来提高自己的笔记能力，成为一个笔记超人。&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.yalijuda.com"&gt;yalijuda&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;简单快捷的图片压缩体验，多种压缩模式可选，压缩图片清晰无锯齿：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="www.yalijuda.com_yalijuda_sq0onjIiVg" src="https://images-1252557999.file.myqcloud.com/uPic/www.yalijuda.com_yalijuda_sq0onjIiVg.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://picdiet.eula.club/"&gt;picdiet.eula.club&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Picdiet&lt;/code&gt; 是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="picdiet" src="https://images-1252557999.file.myqcloud.com/uPic/picdiet.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.ticompressor.com/online/"&gt;ticompressor&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;压缩速度极快的图片压缩软件，有网页版和软件版：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;具有超快的压缩速度&lt;/li&gt;
+&lt;li&gt;支持压缩 GB 级别的超大体积的图片&lt;/li&gt;
+&lt;li&gt;支持 7 种图片格式&lt;/li&gt;
+&lt;li&gt;支持深、浅色主题模式&lt;/li&gt;
+&lt;li&gt;可对原始图片进行预览&lt;/li&gt;
+&lt;li&gt;可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片&lt;/li&gt;
+&lt;li&gt;支持添加文件夹，可自动解析文件夹内所有符合要求的图片&lt;/li&gt;
+&lt;li&gt;实时显示压缩进度&lt;/li&gt;
+&lt;li&gt;完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="ticompressor" src="https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="topspeed-image-compressor" src="https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🥳我基于ChatGPT做了个&lt;a href="https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ"&gt;微信端的老胡信息周刊QA&lt;/a&gt;，欢迎免费体验&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/09-11~09-17.老胡的周刊（第108期）.md</guid>
+      <pubDate>Fri, 15 Sep 2023 09:13:55 +0806</pubDate>
+    </item>
     <item>
       <title>09-04~09-10.老胡的周刊（第107期）.md</title>
       <link>https://weekly.howie6879.com/2023/09-04~09-10.老胡的周刊（第107期）.html</link>
@@ -1975,8 +2062,9 @@
 &lt;p&gt;&lt;img alt="craftinginterpreters" src="https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;🕸 网站&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://it-tools.tech/"&gt;it-tools&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;非常漂亮的程序员工具箱聚合网站：&lt;/p&gt;
+&lt;p&gt;面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="it-tools" src="https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;也可以在线访问：&lt;a href="https://it-tools.tech/"&gt;it-tools.tech&lt;/a&gt;。&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://grep.app/"&gt;grep.app&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;从 50 万个开源仓库中搜索你需要的代码片段，搜索速度很快：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="grep_app" src="https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg" /&gt;&lt;/p&gt;
@@ -1992,7 +2080,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/02-06~02-12.老胡的周刊（第078期）.md</guid>
-      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
+      <pubDate>Mon, 11 Sep 2023 09:41:15 +0806</pubDate>
     </item>
     <item>
       <title>01-31~02-05.老胡的周刊（第077期）.md</title>
