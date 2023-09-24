@@ -22,7 +22,7 @@
       
       
       <link rel="icon" href="../statics/images/favicon.ico">
-      <meta name="generator" content="mkdocs-1.5.2, mkdocs-material-9.2.8">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.2.8">
     
     
       
@@ -3239,22 +3239,22 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#markdown-nice" class="md-nav__link">
-    markdown-nice
+  <a href="#text-generation-webui" class="md-nav__link">
+    text-generation-webui
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#litiaotiao" class="md-nav__link">
-    LiTiaotiao
+  <a href="#wireflow" class="md-nav__link">
+    wireflow
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#chatgpt-web" class="md-nav__link">
-    chatgpt-web
+  <a href="#chat2db" class="md-nav__link">
+    Chat2DB
   </a>
   
 </li>
@@ -3273,22 +3273,22 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#feeluown" class="md-nav__link">
-    FeelUOwn
+  <a href="#flowlauncher" class="md-nav__link">
+    Flow.Launcher
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#ubersicht" class="md-nav__link">
-    Übersicht
+  <a href="#gesturesign" class="md-nav__link">
+    GestureSign
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#hitomi-downloader" class="md-nav__link">
-    Hitomi-Downloader
+  <a href="#uncle-novel" class="md-nav__link">
+    uncle-novel
   </a>
   
 </li>
@@ -3307,22 +3307,22 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#what_are_embeddings" class="md-nav__link">
-    what_are_embeddings
+  <a href="#newsletter-list" class="md-nav__link">
+    newsletter-list
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#jaywcjlovehandbook" class="md-nav__link">
-    jaywcjlove/handbook
+  <a href="#frontend-hard-mode-interview" class="md-nav__link">
+    frontend-hard-mode-interview
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#ml-system-design-pattern" class="md-nav__link">
-    ml-system-design-pattern
+  <a href="#awesome-kubernetes" class="md-nav__link">
+    awesome-kubernetes
   </a>
   
 </li>
@@ -3341,22 +3341,22 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#webdev" class="md-nav__link">
-    web.dev
+  <a href="#mirrorsquicksocn" class="md-nav__link">
+    mirrors.quickso.cn
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#tgscan" class="md-nav__link">
-    tgscan
+  <a href="#squoosh" class="md-nav__link">
+    squoosh
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#sqlime" class="md-nav__link">
-    sqlime
+  <a href="#chatplugintop" class="md-nav__link">
+    chatplugin.top
   </a>
   
 </li>
@@ -3396,68 +3396,64 @@
 <p>老胡的信息周刊<strong>历史信息回顾</strong>，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个<strong>留存</strong>以及<strong>共享</strong>。</p>
 </blockquote>
 <h2 id="_2">🎯 项目</h2>
-<h3 id="markdown-nice"><a href="https://github.com/mdnice/markdown-nice">markdown-nice</a></h3>
-<p>有很多朋友问我的公众号排版是怎么做的，答案就是<code>markdown-nice</code>开源项目：</p>
-<blockquote>
-<p>支持主题设计的 Markdown 编辑器，让排版变 Nice</p>
-</blockquote>
-<p>你可以选择直接访问<a href="https://editor.mdnice.com/">官方</a>，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：</p>
-<p><img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png" /></p>
-<p>官方并不支持<code>Docker</code>部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验<code>mdnice</code>:</p>
-<div class="codehilite"><pre><span></span><code>docker<span class="w"> </span>run<span class="w"> </span>--name<span class="w"> </span>mdnice<span class="w"> </span>-p<span class="w"> </span><span class="m">8080</span>:80<span class="w"> </span>-d<span class="w"> </span>howie6879/mdnice:22.02.11
-</code></pre></div>
-
-<h3 id="litiaotiao"><a href="https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules">LiTiaotiao</a></h3>
-<p>前段时间，自动跳过开屏广告 App，<strong>李跳跳</strong>作者遭大厂警告，产品无限期停更。</p>
-<p>这是一个收集适用于<strong>李跳跳</strong>的 <code>App</code> 自定义规则：</p>
+<h3 id="text-generation-webui"><a href="https://github.com/oobabooga/text-generation-webui">text-generation-webui</a></h3>
+<p>基于 <code>Gradio Web</code> 实现的 UI，用于运行像 <code>GPT-J 6B、OPT、GALACTICA、LLaMA、Pygmalion</code> 这样的大型语言模型：</p>
+<p><img alt="text-generation-webui" src="https://images-1252557999.file.myqcloud.com/uPic/text-generation-webui.jpg" /> </p>
+<h3 id="wireflow"><a href="https://github.com/vanila-io/wireflow">wireflow</a></h3>
+<p>一款开源的用户流程图制作工具（点击<a href="https://wireflow.co/">wireflow.co</a>访问）：</p>
+<p><img alt="wireflow" src="https://images-1252557999.file.myqcloud.com/uPic/wireflow.png" /> </p>
+<h3 id="chat2db"><a href="https://github.com/chat2db/Chat2DB">Chat2DB</a></h3>
+<p><code>Chat2DB</code> 是一款有开源免费的智能且多功能的SQL客户端和报表工具，适用于各种数据库：</p>
 <ul>
-<li>基础规则：关闭应用内广告、更新弹窗、青少年模式弹窗、权限索取提示等</li>
-<li>增强规则：自动化操作等</li>
+<li>🌈 AI智能助手，支持自然语言转SQL、SQL转自然语言、SQL优化建议</li>
+<li>🔥 SQL查询、AI查询和数据报表完美集成的一体化解决方案设计与实现</li>
+<li>👭 支持团队协作，研发无需知道线上数据库密码，解决企业数据库账号安全问题</li>
+<li>⚙️ 强大的数据管理能力，支持数据表、视图、存储过程、函数、触发器、索引、序列、用户、角色、授权等管理</li>
+<li>🔌 强大的扩展能力，目前已经支持MySQL、PostgreSQL、Oracle、SQLServer、ClickHouse、OceanBase、H2、SQLite等等，未来会支持更多的数据库</li>
+<li>🛡 前端使用 Electron 开发，提供 Windows、Mac、Linux 客户端、网页版本一体化的解决方案</li>
+<li>🎁 支持环境隔离、线上、日常数据权限分离</li>
 </ul>
-<p>也算变相复活李跳跳了，不方便下载的可以关注公众号加我微信我传给你。 </p>
-<h3 id="chatgpt-web"><a href="https://github.com/Chanzhaoyu/chatgpt-web">chatgpt-web</a></h3>
-<p>用 <code>Express</code> 和 <code>Vue3</code> 搭建的 <code>ChatGPT</code> 演示网页：</p>
-<p><img alt="chatgpt-web" src="https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png" /> </p>
+<p><img alt="Chat2DB" src="https://images-1252557999.file.myqcloud.com/uPic/Chat2DB.png" /> </p>
 <h2 id="_3">🤖 软件</h2>
-<h3 id="feeluown"><a href="https://github.com/feeluown/FeelUOwn">FeelUOwn</a></h3>
-<p>FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:</p>
+<h3 id="flowlauncher"><a href="https://github.com/Flow-Launcher/Flow.Launcher">Flow.Launcher</a></h3>
+<p>基于 <code>Windows</code> 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：</p>
+<p><img alt="flow_launcher" src="https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg" /> </p>
+<h3 id="gesturesign"><a href="https://github.com/TransposonY/GestureSign">GestureSign</a></h3>
+<p>开源免费的 <code>Windows</code> 全局手势控制辅助增强软件神器:</p>
 <ul>
-<li>安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）</li>
-<li>基于文本的歌单，方便与朋友分享、设备之间同步</li>
-<li>提供基于 TCP 的交互控制协议</li>
-<li>类似  <code>.vimrc</code>  和  <code>.emacs</code>  的配置文件  <code>.fuorc</code></li>
-<li>有友善的开发上手文档，核心模块有较好的文档和测试覆盖</li>
+<li>支持 <code>Windows 11、Win10 / 8</code> 等系统</li>
+<li>支持鼠标手势、触控板等手势操作</li>
+<li>能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等</li>
 </ul>
-<p><img alt="FeelUOwn" src="https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png" /> </p>
-<h3 id="ubersicht"><a href="https://github.com/felixhageloh/uebersicht">Übersicht</a></h3>
-<p>构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：</p>
-<p><img alt="uebersicht" src="https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg" /> </p>
-<h3 id="hitomi-downloader"><a href="https://github.com/KurtBestor/Hitomi-Downloader">Hitomi-Downloader</a></h3>
-<p>开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：</p>
-<p><img alt="hitomi" src="https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif" /> </p>
+<p><img alt="GestureSign" src="https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg" /> </p>
+<h3 id="uncle-novel"><a href="https://github.com/unclezs/uncle-novel">uncle-novel</a></h3>
+<p>一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。</p>
+<p><img alt="uncle-novel" src="https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg" /> </p>
 <h2 id="_4">👀 资料</h2>
-<h3 id="what_are_embeddings"><a href="https://github.com/veekaybee/what_are_embeddings">what_are_embeddings</a></h3>
-<p>从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 <code>PDF</code>:</p>
-<p><img alt="what_are_embeddings" src="https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg" /> </p>
-<h3 id="jaywcjlovehandbook"><a href="https://github.com/jaywcjlove/handbook">jaywcjlove/handbook</a></h3>
-<p>作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：</p>
-<p><img alt="jaywcjlove_handbook" src="https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg" /> </p>
-<h3 id="ml-system-design-pattern"><a href="https://github.com/mercari/ml-system-design-pattern">ml-system-design-pattern</a></h3>
-<p>此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 </p>
-<h2 id="_5">🕸 网站</h2>
-<h3 id="webdev"><a href="https://web.dev/learn/">web.dev</a></h3>
-<p>谷歌团队开放的网页设计与开发课程：</p>
-<p><img alt="web_dev" src="https://images-1252557999.file.myqcloud.com/uPic/web_dev.jpg" /> </p>
-<h3 id="tgscan"><a href="https://tgscan.xyz/">tgscan</a></h3>
-<p>免费开源的 <code>Telegram</code> 搜索：让你轻松找到频道、群组和聊天记录：</p>
+<h3 id="newsletter-list"><a href="https://github.com/chasays/newsletter-list">newsletter-list</a></h3>
+<p>有趣，免费的<code>newsletter</code>收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：</p>
 <ul>
-<li>github：<a href="https://github.com/tgscan-dev/tgscan">tgscan-dev/tgscan</a></li>
-<li>网页：<a href="https://tgscan.xyz/">tgscan.xyz</a></li>
+<li>互联网和科技</li>
+<li>成长和思考</li>
+<li>工具和效率 </li>
 </ul>
-<p><img alt="tgscan" src="https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg" /> </p>
-<h3 id="sqlime"><a href="http://sqlime.org/">sqlime</a></h3>
-<p>SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在<a href="https://github.com/nalgeon/sqlime">github-sqlime</a>:</p>
-<p><img alt="sqlime" src="https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg" /> </p>
+<h3 id="frontend-hard-mode-interview"><a href="https://github.com/coffe1891/frontend-hard-mode-interview/">frontend-hard-mode-interview</a></h3>
+<p>《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。</p>
+<p><img alt="frontend-hard-mode-interview" src="https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png" /> </p>
+<h3 id="awesome-kubernetes"><a href="https://github.com/ramitsurana/awesome-kubernetes">awesome-kubernetes</a></h3>
+<p>比较全面的 <code>k8s</code> 资源收集项目：</p>
+<p><img alt="awesome-kubernetes" src="https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg" /> </p>
+<h2 id="_5">🕸 网站</h2>
+<h3 id="mirrorsquicksocn"><a href="https://mirrors.quickso.cn/">mirrors.quickso.cn</a></h3>
+<p>软件镜像站：</p>
+<p><img alt="mirrors_qs" src="https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg" /> </p>
+<h3 id="squoosh"><a href="https://squoosh.app/">squoosh</a></h3>
+<p>免费漂亮的在线图片压缩网站：</p>
+<p><img alt="squoosh" src="https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg" /></p>
+<p>其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 </p>
+<h3 id="chatplugintop"><a href="https://www.chatplugin.top/">chatplugin.top</a></h3>
+<p><code>ChatGPT Plugin</code> 收录网站，并且将插件汉化：</p>
+<p><img alt="chatplugin" src="https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg" /> </p>
 <h2 id="_6">✍️ 说明</h2>
 <p>周刊相关信息：</p>
 <ul>
@@ -3472,7 +3468,7 @@
   <small>
     
       最后更新:
-      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">September 23, 2023</span>
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">September 24, 2023</span>
       
     
   </small>
