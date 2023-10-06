@@ -12,7 +12,66 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 24 Sep 2023 11:43:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Oct 2023 16:30:41 +0000</lastBuildDate>
+    <item>
+      <title>09-25~10-07.老胡的周刊（第110期）.md</title>
+      <link>https://weekly.howie6879.com/2023/09-25~10-07.老胡的周刊（第110期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/09-25~10-07.老胡的周刊（第110期）.html"&gt;09-25~10-07.老胡的周刊（第110期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/bitwarden"&gt;bitwarden&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个开源，免费，跨平台，安全易管理，，能自动填充密码可自建的密码管理解决方案：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bitwarden" src="https://images-1252557999.file.myqcloud.com/uPic/bitwarden.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Lissy93/dashy"&gt;dashy&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;可自我托管的个人自定义导航页：括状态检查，小部件，主题，图标包，UI编辑器等等：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="dashy" src="https://images-1252557999.file.myqcloud.com/uPic/dashy.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/czy0729/Bangumi"&gt;Bangumi&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个基于 &lt;code&gt;React-Native&lt;/code&gt; 的无广告、以爱好为驱动、不以盈利为目的 &lt;a href="https://bgm.tv/"&gt;Bangumi&lt;/a&gt; 第三方客户端，简单比喻就是专门做 &lt;code&gt;ACG&lt;/code&gt; 的类似豆瓣的应用：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Bangumi" src="https://images-1252557999.file.myqcloud.com/uPic/Bangumi.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/aleksey-hoffman/sigma-file-manager"&gt;sigma-file-manager&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Sigma File Manager&lt;/code&gt; 是一个免费、开源、快速发展的现代文件管理器（资源管理器/查找器）应用程序，适用于&lt;code&gt;Windows&amp;amp;Linux&lt;/code&gt;，支持智能搜索、自定义主页、文件共享、文件下载、智能拖放、文件保护等功能：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="sigma-file-manager" src="https://images-1252557999.file.myqcloud.com/uPic/sigma-file-manager.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/tiny-craft/tiny-rdm"&gt;tiny-rdm&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Tiny RDM&lt;/code&gt; 是一款适用于 &lt;code&gt;Mac、 Windows &amp;amp; Linux&lt;/code&gt; 的现代轻量级跨平台 &lt;code&gt;Redis&lt;/code&gt; 桌面管理器：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="tiny-rdm" src="https://images-1252557999.file.myqcloud.com/uPic/tiny-rdm.png" /&gt;&lt;/p&gt;
+&lt;p&gt;同类型软件还推荐&lt;a href="https://weekly.howie6879.com/2022/04-25~05-01.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC037%E6%9C%9F%EF%BC%89.html#anotherredisdesktopmanager"&gt;AnotherRedisDesktopManager&lt;/a&gt;。&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/MrWeilian/iceWebGL"&gt;iceWebGL&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;WebGL&lt;/code&gt; 上车指南，带你从零开始体系化学习&lt;a href="https://ice-webgl.netlify.app/"&gt;WebGL&lt;/a&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="iceWebGL" src="https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://moderncss.dev/"&gt;moderncss&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一份现代 &lt;code&gt;CSS&lt;/code&gt; 教程，偏向有 &lt;code&gt;CSS&lt;/code&gt; 的基础的前端开发者：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="moderncss" src="https://images-1252557999.file.myqcloud.com/uPic/moderncss.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.onemodel.app/"&gt;onemodel&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;为软件工程师量身定制的绘图工具，网站提供很多软件架构的图标、素材、模板：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="onemodel" src="https://images-1252557999.file.myqcloud.com/uPic/onemodel.png" /&gt;&lt;/p&gt;
+&lt;p&gt;同类开源产品推荐如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/jgraph/drawio"&gt;jgraph/drawio&lt;/a&gt;：经典流程绘图工具&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/excalidraw/excalidraw"&gt;excalidraw&lt;/a&gt;：白板绘图工具&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/mingrammer/diagrams"&gt;mingrammer/diagrams&lt;/a&gt;：用代码的形式生成架构图&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href="https://www.transhumans.xyz/"&gt;transhumans&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;免费可商用的人物插图：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="transhumans" src="https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://echoserver.dev/"&gt;echoserver&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个用于测试 &lt;code&gt;HTTP&lt;/code&gt; 客户端的简单服务器，可生成 &lt;code&gt;URL&lt;/code&gt; 并返回您想要的生成响应：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="echoserver" src="https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🥳我基于ChatGPT做了个&lt;a href="https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ"&gt;微信端的老胡信息周刊QA&lt;/a&gt;，欢迎免费体验&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/09-25~10-07.老胡的周刊（第110期）.md</guid>
+      <pubDate>Sat, 07 Oct 2023 00:29:55 +0806</pubDate>
+    </item>
     <item>
       <title>09-18~09-24.老胡的周刊（第109期）.md</title>
       <link>https://weekly.howie6879.com/2023/09-18~09-24.老胡的周刊（第109期）.html</link>
@@ -70,7 +129,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/09-18~09-24.老胡的周刊（第109期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 19:42:40 +0806</pubDate>
+      <pubDate>Tue, 03 Oct 2023 22:27:34 +0806</pubDate>
     </item>
     <item>
       <title>09-11~09-17.老胡的周刊（第108期）.md</title>
@@ -157,7 +216,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/09-11~09-17.老胡的周刊（第108期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Fri, 15 Sep 2023 09:13:55 +0806</pubDate>
     </item>
     <item>
       <title>09-04~09-10.老胡的周刊（第107期）.md</title>
@@ -224,7 +283,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/09-04~09-10.老胡的周刊（第107期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 19:30:35 +0806</pubDate>
     </item>
     <item>
       <title>08-28~09-03.老胡的周刊（第106期）.md</title>
@@ -291,7 +350,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/08-28~09-03.老胡的周刊（第106期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Fri, 01 Sep 2023 23:14:17 +0806</pubDate>
     </item>
     <item>
       <title>08-21~08-27.老胡的周刊（第105期）.md</title>
@@ -358,7 +417,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/08-21~08-27.老胡的周刊（第105期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Mon, 28 Aug 2023 00:17:15 +0806</pubDate>
     </item>
     <item>
       <title>08-14~08-20.老胡的周刊（第104期）.md</title>
@@ -440,7 +499,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/08-14~08-20.老胡的周刊（第104期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Sat, 19 Aug 2023 16:46:29 +0806</pubDate>
     </item>
     <item>
       <title>08-07~08-13.老胡的周刊（第103期）.md</title>
@@ -489,7 +548,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/08-07~08-13.老胡的周刊（第103期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Sun, 13 Aug 2023 15:28:05 +0806</pubDate>
     </item>
     <item>
       <title>08-01~08-07.老胡的周刊（第102期）.md</title>
@@ -548,7 +607,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/08-01~08-07.老胡的周刊（第102期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Mon, 07 Aug 2023 19:07:29 +0806</pubDate>
     </item>
     <item>
       <title>07-24~07-30.老胡的周刊（第101期）.md</title>
@@ -594,7 +653,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/07-24~07-30.老胡的周刊（第101期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Fri, 28 Jul 2023 17:30:00 +0806</pubDate>
     </item>
     <item>
       <title>07-17~07-23.老胡的周刊（第100期）.md</title>
@@ -698,7 +757,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/07-17~07-23.老胡的周刊（第100期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Mon, 24 Jul 2023 09:13:53 +0806</pubDate>
     </item>
     <item>
       <title>07-10~07-16.老胡的周刊（第099期）.md</title>
@@ -758,7 +817,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/07-10~07-16.老胡的周刊（第099期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Sun, 16 Jul 2023 23:56:44 +0806</pubDate>
     </item>
     <item>
       <title>07-03~07-07.老胡的周刊（第098期）.md</title>
@@ -810,7 +869,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/07-03~07-07.老胡的周刊（第098期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Mon, 10 Jul 2023 18:41:44 +0806</pubDate>
     </item>
     <item>
       <title>06-25~07-01.老胡的周刊（第097期）.md</title>
@@ -868,7 +927,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/06-25~07-01.老胡的周刊（第097期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Mon, 03 Jul 2023 15:18:28 +0806</pubDate>
     </item>
     <item>
       <title>06-19~06-24.老胡的周刊（第096期）.md</title>
@@ -950,7 +1009,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/06-19~06-24.老胡的周刊（第096期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Sun, 25 Jun 2023 22:50:41 +0806</pubDate>
     </item>
     <item>
       <title>06-12~06-17.老胡的周刊（第095期）.md</title>
@@ -1005,7 +1064,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/06-12~06-17.老胡的周刊（第095期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:21 +0806</pubDate>
     </item>
     <item>
       <title>06-05~06-11.老胡的周刊（第094期）.md</title>
@@ -1073,7 +1132,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/06-05~06-11.老胡的周刊（第094期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>05-29~06-04.老胡的周刊（第093期）.md</title>
@@ -1117,7 +1176,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/05-29~06-04.老胡的周刊（第093期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>05-22~05-28.老胡的周刊（第092期）.md</title>
@@ -1204,7 +1263,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/05-22~05-28.老胡的周刊（第092期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>05-15~05-20.老胡的周刊（第091期）.md</title>
@@ -1268,7 +1327,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/05-15~05-20.老胡的周刊（第091期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>05-01~05-13.老胡的周刊（第090期）.md</title>
@@ -1330,7 +1389,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/05-01~05-13.老胡的周刊（第090期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>04-24~04-30.老胡的周刊（第089期）.md</title>
@@ -1382,7 +1441,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/04-24~04-30.老胡的周刊（第089期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>04-17~04-22.老胡的周刊（第088期）.md</title>
@@ -1451,7 +1510,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/04-17~04-22.老胡的周刊（第088期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>04-10~04-15.老胡的周刊（第087期）.md</title>
@@ -1532,7 +1591,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/04-10~04-15.老胡的周刊（第087期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>04-03~04-08.老胡的周刊（第086期）.md</title>
@@ -1603,7 +1662,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/04-03~04-08.老胡的周刊（第086期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>03-27~04-01.老胡的周刊（第085期）.md</title>
@@ -1689,7 +1748,7 @@
 好了，就这么多，欢迎进群（现在是三群了🥳）：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/cg_howie.jpg" /&gt;&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/03-27~04-01.老胡的周刊（第085期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>03-20~03-25.老胡的周刊（第084期）.md</title>
@@ -1757,7 +1816,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/03-20~03-25.老胡的周刊（第084期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>03-13~03-19.老胡的周刊（第083期）.md</title>
@@ -1811,7 +1870,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/03-13~03-19.老胡的周刊（第083期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>03-06~03-11.老胡的周刊（第082期）.md</title>
@@ -1863,7 +1922,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/03-06~03-11.老胡的周刊（第082期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Tue, 05 Sep 2023 17:16:34 +0806</pubDate>
     </item>
     <item>
       <title>02-27~03-05.老胡的周刊（第081期）.md</title>
@@ -1909,7 +1968,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/02-27~03-05.老胡的周刊（第081期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>02-20~02-25.老胡的周刊（第080期）.md</title>
@@ -1982,7 +2041,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/02-20~02-25.老胡的周刊（第080期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>02-13~02-18.老胡的周刊（第079期）.md</title>
@@ -2071,7 +2130,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/02-13~02-18.老胡的周刊（第079期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>02-06~02-12.老胡的周刊（第078期）.md</title>
@@ -2139,7 +2198,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/02-06~02-12.老胡的周刊（第078期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Mon, 11 Sep 2023 09:41:15 +0806</pubDate>
     </item>
     <item>
       <title>01-31~02-05.老胡的周刊（第077期）.md</title>
@@ -2213,7 +2272,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/01-31~02-05.老胡的周刊（第077期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>01-23~01-28.老胡的周刊（第076期）.md</title>
@@ -2269,7 +2328,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/01-23~01-28.老胡的周刊（第076期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>01-16~01-21.老胡的周刊（第075期）.md</title>
@@ -2341,7 +2400,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/01-16~01-21.老胡的周刊（第075期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>01-09~01-14.老胡的周刊（第074期）.md</title>
@@ -2358,7 +2417,7 @@
 &lt;p&gt;微软开源的 &lt;code&gt;Web&lt;/code&gt; 编辑器：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="monaco-editor" src="https://images-1252557999.file.myqcloud.com/uPic/monaco-editor.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/Bssn520/AnimationAutoUpdate"&gt;AnimationAutoUpdate&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;动漫、电视剧的自动更新及在线观，项目介绍：&lt;/p&gt;
+&lt;p&gt;动漫、电视剧的自动更新及在线观看，项目介绍：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;聚合各种阿里云盘资源&lt;/li&gt;
 &lt;li&gt;实现动漫、电视剧、电影的自动更新&lt;/li&gt;
@@ -2403,7 +2462,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/01-09~01-14.老胡的周刊（第074期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Sat, 07 Oct 2023 00:12:34 +0806</pubDate>
     </item>
     <item>
       <title>01-02~01-07.老胡的周刊（第073期）.md</title>
@@ -2455,7 +2514,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/01-02~01-07.老胡的周刊（第073期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>12-26~12-31.老胡的周刊（第072期）.md</title>
@@ -2504,7 +2563,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/12-26~12-31.老胡的周刊（第072期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>12-19~12-24.老胡的周刊（第071期）.md</title>
@@ -2591,7 +2650,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/12-19~12-24.老胡的周刊（第071期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>12-12~12-18.老胡的周刊（第070期）.md</title>
@@ -2651,7 +2710,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/12-12~12-18.老胡的周刊（第070期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>12-05~12-10.老胡的周刊（第069期）.md</title>
@@ -2709,7 +2768,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/12-05~12-10.老胡的周刊（第069期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>11-28~12-04.老胡的周刊（第068期）.md</title>
@@ -2776,7 +2835,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/11-28~12-04.老胡的周刊（第068期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>11-21~11-27.老胡的周刊（第067期）.md</title>
@@ -2831,7 +2890,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/11-21~11-27.老胡的周刊（第067期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>11-14~11-20.老胡的周刊（第066期）.md</title>
@@ -2890,7 +2949,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/11-14~11-20.老胡的周刊（第066期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>11-07~11-13.老胡的周刊（第065期）.md</title>
@@ -2940,7 +2999,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/11-07~11-13.老胡的周刊（第065期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>10-31~11-06.老胡的周刊（第064期）.md</title>
@@ -2996,7 +3055,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/10-31~11-06.老胡的周刊（第064期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>10-24~10-30.老胡的周刊（第063期）.md</title>
@@ -3047,7 +3106,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/10-24~10-30.老胡的周刊（第063期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>10-17~10-23.老胡的周刊（第062期）.md</title>
@@ -3102,7 +3161,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/10-17~10-23.老胡的周刊（第062期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>10-10~10-16.老胡的周刊（第061期）.md</title>
@@ -3153,7 +3212,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/10-10~10-16.老胡的周刊（第061期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>10-03~10-09.老胡的周刊（第060期）.md</title>
@@ -3214,7 +3273,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/10-03~10-09.老胡的周刊（第060期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>09-26~09-30.老胡的周刊（第059期）.md</title>
@@ -3283,7 +3342,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/09-26~09-30.老胡的周刊（第059期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>09-19~09-24.老胡的周刊（第058期）.md</title>
@@ -3332,7 +3391,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/09-19~09-24.老胡的周刊（第058期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>09-12~09-18.老胡的周刊（第057期）.md</title>
@@ -3381,7 +3440,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/09-12~09-18.老胡的周刊（第057期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>09-05~09-11.老胡的周刊（第056期）.md</title>
@@ -3453,7 +3512,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/09-05~09-11.老胡的周刊（第056期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>08-29~09-04.老胡的周刊（第055期）.md</title>
@@ -3512,7 +3571,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/08-29~09-04.老胡的周刊（第055期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>08-22~08-28.老胡的周刊（第054期）.md</title>
@@ -3578,7 +3637,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/08-22~08-28.老胡的周刊（第054期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>08-15~08-21.老胡的周刊（第053期）.md</title>
@@ -3638,7 +3697,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/08-15~08-21.老胡的周刊（第053期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>08-07~08-14.老胡的周刊（第052期）.md</title>
@@ -3705,7 +3764,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/08-07~08-14.老胡的周刊（第052期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>08-01~08-07.老胡的周刊（第051期）.md</title>
@@ -3758,7 +3817,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/08-01~08-07.老胡的周刊（第051期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>07-25~07-31.老胡的周刊（第050期）.md</title>
@@ -3811,7 +3870,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/07-25~07-31.老胡的周刊（第050期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>07-18~07-24.老胡的周刊（第049期）.md</title>
@@ -3881,7 +3940,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/07-18~07-24.老胡的周刊（第049期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>07-11~07-17.老胡的周刊（第048期）.md</title>
@@ -3947,7 +4006,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/07-11~07-17.老胡的周刊（第048期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>07-04~07-10.老胡的周刊（第047期）.md</title>
@@ -4000,7 +4059,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/07-04~07-10.老胡的周刊（第047期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>06-27~07-02.老胡的周刊（第046期）.md</title>
@@ -4059,7 +4118,7 @@ docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr&lt;/code&gt;
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/06-27~07-02.老胡的周刊（第046期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>06-20~06-25.老胡的周刊（第045期）.md</title>
@@ -4132,7 +4191,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/06-20~06-25.老胡的周刊（第045期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>06-13~06-18.老胡的周刊（第044期）.md</title>
@@ -4207,7 +4266,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/06-13~06-18.老胡的周刊（第044期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>06-06~06-11.老胡的周刊（第043期）.md</title>
@@ -4279,7 +4338,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/06-06~06-11.老胡的周刊（第043期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>05-30~06-04.老胡的周刊（第042期）.md</title>
@@ -4371,7 +4430,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/05-30~06-04.老胡的周刊（第042期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>05-23~05-28.老胡的周刊（第041期）.md</title>
@@ -4453,7 +4512,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/05-23~05-28.老胡的周刊（第041期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>05-16~05-21.老胡的周刊（第040期）.md</title>
@@ -4518,7 +4577,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/05-16~05-21.老胡的周刊（第040期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>05-09~05-15.老胡的周刊（第039期）.md</title>
@@ -4584,7 +4643,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/05-09~05-15.老胡的周刊（第039期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>05-02~05-07.老胡的周刊（第038期）.md</title>
@@ -4651,7 +4710,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/05-02~05-07.老胡的周刊（第038期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>04-25~05-01.老胡的周刊（第037期）.md</title>
@@ -4690,7 +4749,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;p&gt;本人常用的一款MongoDB跨平台管理软件，开源免费：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="robomongo" src="https://images-1252557999.file.myqcloud.com/uPic/robomongo.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/qishibo/AnotherRedisDesktopManager"&gt;AnotherRedisDesktopManager&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;快速稳定好用的Redis跨平台桌面管理软件：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;AnotherRedisDesktopManager&lt;/code&gt; 是一个快速稳定好用的 &lt;code&gt;Redis&lt;/code&gt; 跨平台桌面管理软件，更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="AnotherRedisDesktopManager" src="https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://wxflogic.gitbook.io/logic"&gt;逻辑学简短入门&lt;/a&gt;&lt;/h3&gt;
@@ -4728,7 +4787,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/04-25~05-01.老胡的周刊（第037期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Tue, 03 Oct 2023 22:29:03 +0806</pubDate>
     </item>
     <item>
       <title>04-18~04-23.老胡的周刊（第036期）.md</title>
@@ -4782,7 +4841,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/04-18~04-23.老胡的周刊（第036期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 20:20:42 +0806</pubDate>
     </item>
     <item>
       <title>04-11~04-16.老胡的周刊（第035期）.md</title>
@@ -4853,7 +4912,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/04-11~04-16.老胡的周刊（第035期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 20:19:24 +0806</pubDate>
     </item>
     <item>
       <title>04-04~04-10.老胡的周刊（第034期）.md</title>
@@ -4906,7 +4965,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/04-04~04-10.老胡的周刊（第034期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 20:17:35 +0806</pubDate>
     </item>
     <item>
       <title>03-28~04-03.老胡的周刊（第033期）.md</title>
@@ -4961,7 +5020,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/03-28~04-03.老胡的周刊（第033期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 20:15:56 +0806</pubDate>
     </item>
     <item>
       <title>03-21~03-27.老胡的周刊（第032期）.md</title>
@@ -5033,7 +5092,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/03-21~03-27.老胡的周刊（第032期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 20:14:00 +0806</pubDate>
     </item>
     <item>
       <title>03-14~03-20.老胡的周刊（第031期）.md</title>
@@ -5088,7 +5147,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/03-14~03-20.老胡的周刊（第031期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 20:13:03 +0806</pubDate>
     </item>
     <item>
       <title>03-07~03-13.老胡的周刊（第030期）.md</title>
@@ -5149,7 +5208,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/03-07~03-13.老胡的周刊（第030期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 20:11:43 +0806</pubDate>
     </item>
     <item>
       <title>02-28~03-05.老胡的周刊（第029期）.md</title>
@@ -5218,7 +5277,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/02-28~03-05.老胡的周刊（第029期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 20:04:56 +0806</pubDate>
     </item>
     <item>
       <title>02-21~02-27.老胡的周刊（第028期）.md</title>
@@ -5285,7 +5344,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/02-21~02-27.老胡的周刊（第028期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 20:03:36 +0806</pubDate>
     </item>
     <item>
       <title>02-15~02-20.老胡的周刊（第027期）.md</title>
@@ -5370,7 +5429,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/02-15~02-20.老胡的周刊（第027期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 20:21:18 +0806</pubDate>
     </item>
     <item>
       <title>02-07~02-14.老胡的周刊（第026期）.md</title>
@@ -5427,7 +5486,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/02-07~02-14.老胡的周刊（第026期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 19:59:11 +0806</pubDate>
     </item>
     <item>
       <title>01-31~02-05.老胡的周刊（第025期）.md</title>
@@ -5492,7 +5551,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/01-31~02-05.老胡的周刊（第025期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 19:58:15 +0806</pubDate>
     </item>
     <item>
       <title>01-23~01-30.老胡的周刊（第024期）.md</title>
@@ -5570,7 +5629,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/01-23~01-30.老胡的周刊（第024期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 19:55:32 +0806</pubDate>
     </item>
     <item>
       <title>01-17~01-22.老胡的周刊（第023期）.md</title>
@@ -5649,7 +5708,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/01-17~01-22.老胡的周刊（第023期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 19:53:46 +0806</pubDate>
     </item>
     <item>
       <title>01-10~01-14.老胡的周刊（第022期）.md</title>
@@ -5718,7 +5777,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/01-10~01-14.老胡的周刊（第022期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>01-01~01-09.老胡的周刊（第021期）.md</title>
@@ -5758,7 +5817,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2022/01-01~01-09.老胡的周刊（第021期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>12-26~12-31.老胡的周刊（第020期）.md</title>
@@ -5833,7 +5892,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/12-26~12-31.老胡的周刊（第020期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>12-21~12-25.老胡的周刊（第019期）.md</title>
@@ -5902,7 +5961,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/12-21~12-25.老胡的周刊（第019期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 19:51:08 +0806</pubDate>
     </item>
     <item>
       <title>12-13~12-20.老胡的周刊（第018期）.md</title>
@@ -5968,7 +6027,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/12-13~12-20.老胡的周刊（第018期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 19:47:50 +0806</pubDate>
     </item>
     <item>
       <title>12-06~12-12.老胡的周刊（第017期）.md</title>
@@ -6025,7 +6084,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/12-06~12-12.老胡的周刊（第017期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>11-29~12-05.老胡的周刊（第016期）.md</title>
@@ -6086,7 +6145,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/11-29~12-05.老胡的周刊（第016期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>11-22~11-28.老胡的周刊（第015期）.md</title>
@@ -6151,7 +6210,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/11-22~11-28.老胡的周刊（第015期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>11-15~11-21.老胡的周刊（第014期）.md</title>
@@ -6215,7 +6274,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/11-15~11-21.老胡的周刊（第014期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>11-08~11-14.老胡的周刊（第013期）.md</title>
@@ -6262,7 +6321,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;h2&gt;✍️ 说明&lt;/h2&gt;
 &lt;p&gt;🙌 如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/11-08~11-14.老胡的周刊（第013期）.md</guid>
-      <pubDate>Tue, 14 Mar 2023 10:10:00 +0806</pubDate>
+      <pubDate>Wed, 15 Mar 2023 22:04:00 +0806</pubDate>
     </item>
     <item>
       <title>11-01~11-07.老胡的周刊（第012期）.md</title>
@@ -6310,7 +6369,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/11-01~11-07.老胡的周刊（第012期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>10-25~10-31.老胡的周刊（第011期）.md</title>
@@ -6379,7 +6438,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/10-25~10-31.老胡的周刊（第011期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>10-18~10-24.老胡的周刊（第010期）.md</title>
@@ -6444,7 +6503,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/10-18~10-24.老胡的周刊（第010期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>10-11~10-17.老胡的周刊（第009期）.md</title>
@@ -6504,7 +6563,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/10-11~10-17.老胡的周刊（第009期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>10-04~10-10.老胡的周刊（第008期）.md</title>
@@ -6553,7 +6612,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/10-04~10-10.老胡的周刊（第008期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>09-27~10-03.老胡的周刊（第007期）.md</title>
@@ -6600,7 +6659,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/09-27~10-03.老胡的周刊（第007期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>09-19~09-24.老胡的周刊（第006期）.md</title>
@@ -6653,7 +6712,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/09-19~09-24.老胡的周刊（第006期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>09-12~09-17.老胡的周刊（第005期）.md</title>
@@ -6715,7 +6774,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/09-12~09-17.老胡的周刊（第005期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>09-06~09-10.老胡的周刊（第004期）.md</title>
@@ -6787,7 +6846,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/09-06~09-10.老胡的周刊（第004期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>08-30~09-03.老胡的周刊（第003期）.md</title>
@@ -6844,7 +6903,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/08-30~09-03.老胡的周刊（第003期）.md</guid>
-      <pubDate>Sun, 24 Sep 2023 14:47:14 +0806</pubDate>
+      <pubDate>Sat, 09 Sep 2023 19:45:47 +0806</pubDate>
     </item>
     <item>
       <title>08-23~08-27.老胡的周刊（第002期）.md</title>
@@ -6922,7 +6981,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/08-23~08-27.老胡的周刊（第002期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
     <item>
       <title>08-16~08-20.老胡的周刊（第001期）.md</title>
@@ -6996,7 +7055,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2021/08-16~08-20.老胡的周刊（第001期）.md</guid>
-      <pubDate>Fri, 21 Jul 2023 16:13:39 +0806</pubDate>
+      <pubDate>Fri, 16 Jun 2023 14:21:09 +0806</pubDate>
     </item>
   </channel>
 </rss>
