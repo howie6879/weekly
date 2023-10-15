@@ -12,7 +12,58 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Fri, 06 Oct 2023 16:31:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2023 18:02:31 +0000</lastBuildDate>
+    <item>
+      <title>10-09~10-15.老胡的周刊（第111期）.md</title>
+      <link>https://weekly.howie6879.com/2023/10-09~10-15.老胡的周刊（第111期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/10-09~10-15.老胡的周刊（第111期）.html"&gt;10-09~10-15.老胡的周刊（第111期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/imsyy/DailyHotApi"&gt;DailyHotApi&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;今日热榜 &lt;code&gt;API&lt;/code&gt;，一个聚合热门数据的 &lt;code&gt;API&lt;/code&gt; 接口，支持 &lt;code&gt;Vercel&lt;/code&gt; 部署：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="DailyHot" src="https://images-1252557999.file.myqcloud.com/uPic/DailyHot.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/arc53/DocsGPT"&gt;DocsGPT&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://github.com/arc53/DocsGPT"&gt;DocsGPT&lt;/a&gt; 是一种前沿的开源解决方案，可简化在项目文档中查找信息的过程。通过集成强大的 GPT 模型，开发人员可以轻松地提出有关项目的问题并获得准确的答案：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="docsgpt" src="https://images-1252557999.file.myqcloud.com/uPic/docsgpt.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.spacedrive.com/"&gt;spacedrive&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Spacedrive&lt;/code&gt; 是一个基于 &lt;code&gt;Rust&lt;/code&gt; 的开源跨平台文件管理器，它采用了虚拟分布式文件系统，通过一个 &lt;code&gt;API&lt;/code&gt; 来操作访问多设备上的文件。&lt;/p&gt;
+&lt;p&gt;它可以管理分布在多端的文件，在一个地方整理多个设备上的文件。&lt;/p&gt;
+&lt;p&gt;无论是云端还是离线硬盘，进而生成你独有的个人分布式云，简单又方便：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="spacedrive" src="https://images-1252557999.file.myqcloud.com/uPic/spacedrive.webp" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/huynhsontung/Screenbox"&gt;Screenbox&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Screenbox 是一款现代视频播放器，构建在 LibVLCSharp 和通用 Windows 平台 (UWP) 之上，颜值颇高，同时又快速、轻量级。支持在 Windows 10 版本 1903+、Windows 11 和 Xbox 主机上使用:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Screenbox" src="https://images-1252557999.file.myqcloud.com/uPic/Screenbox.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/XcodesOrg/XcodesApp"&gt;XcodesApp&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;通过鼠标点击这种简单方式，快速安装和切换多个版本的 &lt;code&gt;Xcode&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="XcodesApp" src="https://images-1252557999.file.myqcloud.com/uPic/XcodesApp.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.yuque.com/aceld/lfhu8y/rg6nsf"&gt;Easy搞定Golang设计模式&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一份Golang设计模式教程：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Easy搞定Golang设计模式" src="https://images-1252557999.file.myqcloud.com/uPic/Easy搞定Golang设计模式.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/cssanimation/css-animation-101"&gt;css-animation-101&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;学习如何为您的网页项目添加动画效果，也有中文版👉&lt;a href="https://h-wakanda.github.io/css-animation-101-cn/"&gt;css-animation-101-cn&lt;/a&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="css-animation-101-cn" src="https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://archive.today/"&gt;archive.today&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;提供任何网站存档查询的网站：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="archive" src="https://images-1252557999.file.myqcloud.com/uPic/archive.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://new.space/"&gt;new.space&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;免注册多人临时文件分享工具：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="new.space" src="https://images-1252557999.file.myqcloud.com/uPic/new.space.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🥳我基于ChatGPT做了个&lt;a href="https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ"&gt;微信端的老胡信息周刊QA&lt;/a&gt;，欢迎免费体验&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/10-09~10-15.老胡的周刊（第111期）.md</guid>
+      <pubDate>Mon, 16 Oct 2023 02:01:51 +0806</pubDate>
+    </item>
     <item>
       <title>09-25~10-07.老胡的周刊（第110期）.md</title>
       <link>https://weekly.howie6879.com/2023/09-25~10-07.老胡的周刊（第110期）.html</link>
