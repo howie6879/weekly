@@ -12,7 +12,57 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Tue, 17 Oct 2023 11:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Oct 2023 16:10:04 +0000</lastBuildDate>
+    <item>
+      <title>10-16~10-22.老胡的周刊（第112期）.md</title>
+      <link>https://weekly.howie6879.com/2023/10-16~10-22.老胡的周刊（第112期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/10-16~10-22.老胡的周刊（第112期）.html"&gt;10-16~10-22.老胡的周刊（第112期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/go-skynet/LocalAI"&gt;LocalAI&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;🤖 免费、开源的 &lt;code&gt;OpenAI&lt;/code&gt; 替代品。自托管、社区驱动和本地优先。可在消费级硬件上运行，作为 &lt;code&gt;OpenAI&lt;/code&gt; 的即插即用替代方案。无需 &lt;code&gt;GPU&lt;/code&gt;。支持运行 &lt;code&gt;ggml、gguf、GPTQ、onnx&lt;/code&gt; 和 &lt;code&gt;TF&lt;/code&gt; 兼容模型：&lt;code&gt;llama、llama2、rwkv、whisper、vicuna、koala、cerebras、falcon、dolly、starcoder&lt;/code&gt; 等等：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="localai" src="https://images-1252557999.file.myqcloud.com/uPic/localai.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/LibreTranslate/LibreTranslate"&gt;LibreTranslate&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;免费且开源的机器翻译API，完全自主托管。与其他API不同，它不依赖于像谷歌或Azure这样的专有提供商来进行翻译。相反，它的翻译引擎由开源Argos Translate库驱动：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="libretranslate" src="https://images-1252557999.file.myqcloud.com/uPic/libretranslate.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/meterscao/Speechless"&gt;Speechless&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Speechless&lt;/code&gt; 是一个帮助新浪微博用户，把微博内容导出成 &lt;code&gt;PDF&lt;/code&gt; 进行本地备份的 &lt;code&gt;Chrome Extension&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Speechless" src="https://images-1252557999.file.myqcloud.com/uPic/Speechless.jpeg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ivoronin/TomatoBar"&gt;TomatoBar&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;你听说过番茄工作法吗？这是一种很好的技巧，可以帮助你在学习或工作期间掌握时间并保持专注。&lt;code&gt;TomatoBar&lt;/code&gt; 是一款非常整洁的 &lt;code&gt;macOS&lt;/code&gt; 菜单栏番茄钟：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="TomatoBar" src="https://images-1252557999.file.myqcloud.com/uPic/TomatoBar.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://poe.com/download"&gt;Poe Client&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Poe&lt;/code&gt; 客户端，让你免费体验各种 &lt;code&gt;GPT &amp;amp; LLM&lt;/code&gt; 机器人的聚合软件，一开始是网页版👉 &lt;a href="https://poe.com/"&gt;poe.com&lt;/a&gt;，现在有原生客户端：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="poe" src="https://images-1252557999.file.myqcloud.com/uPic/poe.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ZachGoldberg/Startup-CTO-Handbook"&gt;Startup-CTO-Handbook&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;《&lt;a href="https://docs.google.com/document/d/147KVarJdNQ2ZdmDHOSsd7W39anejRu2NfxEWCzwl0IU/edit?pli=1"&gt;初创公司CTO手册&lt;/a&gt;》是一本涵盖软件工程团队领导力、管理和技术主题的书籍。旨在为技术团队领导力提供指导，内容涵盖业务流程、人员管理、招聘面试、入职培训、绩效管理、团队构成、领导责任等多个方面：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ctohb" src="https://images-1252557999.file.myqcloud.com/uPic/ctohb.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/wklchris/Note-by-LaTeX"&gt;Note-by-LaTeX&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本仓库是手册《简单粗暴LaTeX》的开源仓库。本书涵盖了LaTeX的基本使用场景，以简明的例子来展现各命令的用法：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Note-by-LaTeX" src="https://images-1252557999.file.myqcloud.com/uPic/Note-by-LaTeX.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;在开源仓库可直接下载阅读。&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://tailspark.co/"&gt;tailspark&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;300+&lt;/code&gt; 免费的 &lt;code&gt;TailwindCSS&lt;/code&gt; 组件和模板，让您在几分钟内构建网站，颜值也非常高：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="tailspark" src="https://images-1252557999.file.myqcloud.com/uPic/tailspark.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.qrgpt.io/"&gt;qrgpt.io&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;QRGPT&lt;/code&gt; 使您能够在几秒钟内免费生成漂亮的 &lt;code&gt;AI&lt;/code&gt; 二维码，非常简单：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="qrgpt" src="https://images-1252557999.file.myqcloud.com/uPic/qrgpt.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🥳我基于ChatGPT做了个&lt;a href="https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ"&gt;微信端的老胡信息周刊QA&lt;/a&gt;，欢迎免费体验&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/10-16~10-22.老胡的周刊（第112期）.md</guid>
+      <pubDate>Mon, 23 Oct 2023 00:01:22 +0806</pubDate>
+    </item>
     <item>
       <title>10-09~10-15.老胡的周刊（第111期）.md</title>
       <link>https://weekly.howie6879.com/2023/10-09~10-15.老胡的周刊（第111期）.html</link>
