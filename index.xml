@@ -12,7 +12,62 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 22 Oct 2023 16:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Oct 2023 14:45:08 +0000</lastBuildDate>
+    <item>
+      <title>10-23~10-29.老胡的周刊（第113期）.md</title>
+      <link>https://weekly.howie6879.com/2023/10-23~10-29.老胡的周刊（第113期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/10-23~10-29.老胡的周刊（第113期）.html"&gt;10-23~10-29.老胡的周刊（第113期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/hr3lxphr6j/bililive-go"&gt;bililive-go&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Bililive-go&lt;/code&gt; 是一个支持多种直播平台的直播录制工具：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bililive-go" src="https://images-1252557999.file.myqcloud.com/uPic/bililive-go.webp" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/huacnlee/autocorrect"&gt;autocorrect&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;AutoCorrect 是一个基于 Rust 编写的工具，用于「自动纠正」或「检查并建议」文案，给 CJK（中文、日语、韩语）与英文混写的场景，补充正确的空格，纠正单词，同时尝试以安全的方式自动纠正标点符号等等。&lt;/p&gt;
+&lt;p&gt;类似 ESlint、Rubocop、Gofmt 等工具，AutoCorrect 可以用于 CI 环境，它提供 Lint 功能，能便捷的检测出项目中有问题的文案，起到统一规范的作用。&lt;/p&gt;
+&lt;p&gt;支持各种类型源代码文件，能自动识别文件名，并准确找到字符串、注释做自动纠正。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="autocorrect" src="https://images-1252557999.file.myqcloud.com/uPic/autocorrect.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/massgravel/Microsoft-Activation-Scripts"&gt;Microsoft-Activation-Scripts&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;使用&lt;strong&gt;HWID/Ohook/KMS38/在线KMS&lt;/strong&gt;激活方法的 Windows 和 Office 激活工具，注重开源代码和较少的杀毒软件检测：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Microsoft-Activation-Scripts" src="https://images-1252557999.file.myqcloud.com/uPic/Microsoft-Activation-Scripts.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://veracrypt.fr/en/Home.html"&gt;VeraCrypt&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;VeraCrypt&lt;/code&gt; 是一款著名的跨平台、开源磁盘加密工具：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="VeraCrypt" src="https://images-1252557999.file.myqcloud.com/uPic/VeraCrypt.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/dnakov/little-rat"&gt;little-rat&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Little Rat 是一款开源的 Chrome 扩展，用于实时监测其它的 Chrome 扩展联网情况，并可以选择阻止联网，防止恶意扩展：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="little-rat" src="https://images-1252557999.file.myqcloud.com/uPic/little-rat.webp" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/morsoli/llm-books"&gt;LLM 应用开发实践笔记&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;利用LLM构建应用实践笔记：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="llm-books" src="https://images-1252557999.file.myqcloud.com/uPic/llm-books.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://arc.tencent.com/zh/ai-demos/faceRestoration"&gt;腾讯 ARC&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;腾讯 &lt;code&gt;ARC Lab&lt;/code&gt; 被称为腾讯 &lt;code&gt;PCG&lt;/code&gt; 的「侦察兵」、「特种兵」，站在腾讯探索挑战智能媒体相关前沿技术的第一线。&lt;/p&gt;
+&lt;p&gt;这个 &lt;code&gt;Demo&lt;/code&gt; 网页允许用户进行：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;人像修复&lt;/li&gt;
+&lt;li&gt;人像抠图&lt;/li&gt;
+&lt;li&gt;动漫增强&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;模型，免费实用。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="faceRestoration" src="https://images-1252557999.file.myqcloud.com/uPic/faceRestoration.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.ticompressor.com/online/"&gt;ticompressor&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;速度挺快的在线&amp;amp;客户端图片压缩工具，完全在浏览器端执行压缩，不会上传图片，充分保护您的隐私安全：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ticompressor" src="https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🥳我基于ChatGPT做了个&lt;a href="https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ"&gt;微信端的老胡信息周刊QA&lt;/a&gt;，欢迎免费体验&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/10-23~10-29.老胡的周刊（第113期）.md</guid>
+      <pubDate>Sun, 29 Oct 2023 22:44:45 +0806</pubDate>
+    </item>
     <item>
       <title>10-16~10-22.老胡的周刊（第112期）.md</title>
       <link>https://weekly.howie6879.com/2023/10-16~10-22.老胡的周刊（第112期）.html</link>
