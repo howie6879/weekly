@@ -12,7 +12,65 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 29 Oct 2023 14:45:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Nov 2023 14:48:10 +0000</lastBuildDate>
+    <item>
+      <title>10-31~11-05.老胡的周刊（第114期）.md</title>
+      <link>https://weekly.howie6879.com/2023/10-31~11-05.老胡的周刊（第114期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/10-31~11-05.老胡的周刊（第114期）.html"&gt;10-31~11-05.老胡的周刊（第114期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/jianchang512/pyvideotrans"&gt;pyvideotrans&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;将视频从一种语言翻译为另一种语言，并添加配音，这个最近火出圈了：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pyvideotrans" src="https://images-1252557999.file.myqcloud.com/uPic/pyvideotrans.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/vannvan/yuque-tools"&gt;yuque-tools&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;玩转语雀-朴实无华的语雀工具集合，语雀知识库批量导出工具(无需Token)｜浏览器插件助手：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;个人知识库&lt;/li&gt;
+&lt;li&gt;空间(团队)知识库&lt;/li&gt;
+&lt;li&gt;协作知识库&lt;/li&gt;
+&lt;li&gt;小记 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="yuque-tools" src="https://images-1252557999.file.myqcloud.com/uPic/yuque-tools.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/moonD4rk/HackBrowserData"&gt;HackBrowserData&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;HackBrowserData&lt;/code&gt; 是一个浏览器数据（密码|历史记录|Cookie|书签|信用卡|下载记录|localStorage|浏览器插件）的导出工具，支持全平台主流浏览器：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="webhbd" src="https://images-1252557999.file.myqcloud.com/uPic/webhbd.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/guinmoon/LLMFarm"&gt;LLMFarm&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;LLMFarm&lt;/code&gt; 是一款用于与大型语言模型（LLM）配合使用的iOS和MacOS应用程序，它允许您可以使用某些参数加载不同的 LLM：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="LLMFarm" src="https://images-1252557999.file.myqcloud.com/uPic/LLMFarm.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/027xiguapi/pear-rec"&gt;pear-rec&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;pear-rec&lt;/code&gt;(梨子 rec) 是一个跨平台的截图、录屏、录音、录像软件：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pear-rec" src="https://images-1252557999.file.myqcloud.com/uPic/pear-rec.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/kopia/kopia"&gt;kopia&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;跨平台备份/还原工具，它能够将指定的文件和目录加密压缩后生成快照，然后上传到远程服务器或云存储，实现远程备份数据的功能，开箱即用支持命令行和 &lt;code&gt;GUI&lt;/code&gt; 两种使用方式：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="kopia" src="https://images-1252557999.file.myqcloud.com/uPic/kopia.webp" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/microsoft/generative-ai-for-beginners"&gt;generative-ai-for-beginners&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;微软免费课程：12堂课入门生成式AI，从而开始构建你自己的生成式人工智能应用程序：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="generative-ai-for-beginners" src="https://images-1252557999.file.myqcloud.com/uPic/generative-ai-for-beginners.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/AnsonZnl/RehabilitationGuide"&gt;RehabilitationGuide&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="web-visual-bookmark@2x" src="https://images-1252557999.file.myqcloud.com/uPic/web-visual-bookmark@2x.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://anybt.eth.limo/"&gt;AnyBT&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;种子搜索引擎，下载你想要的资源：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="anybt" src="https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://lookscanned.io/"&gt;lookscanned.io&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://github.com/rwv/lookscanned.io"&gt;lookscanned.io&lt;/a&gt; 是一个开源网页项目，依托 WebAssembly 等先进技术，无需打印之后再扫描这类繁琐的过程。仅需点击下按钮，分秒之间，你就能得到所需要的扫描件了：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="lookscanned" src="https://images-1252557999.file.myqcloud.com/uPic/lookscanned.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🥳我基于ChatGPT做了个&lt;a href="https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ"&gt;微信端的老胡信息周刊QA&lt;/a&gt;，欢迎免费体验&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023/10-31~11-05.老胡的周刊（第114期）.md</guid>
+      <pubDate>Sun, 05 Nov 2023 22:47:14 +0806</pubDate>
+    </item>
     <item>
       <title>10-23~10-29.老胡的周刊（第113期）.md</title>
       <link>https://weekly.howie6879.com/2023/10-23~10-29.老胡的周刊（第113期）.html</link>
@@ -80,7 +138,7 @@
 &lt;p&gt;🤖 免费、开源的 &lt;code&gt;OpenAI&lt;/code&gt; 替代品。自托管、社区驱动和本地优先。可在消费级硬件上运行，作为 &lt;code&gt;OpenAI&lt;/code&gt; 的即插即用替代方案。无需 &lt;code&gt;GPU&lt;/code&gt;。支持运行 &lt;code&gt;ggml、gguf、GPTQ、onnx&lt;/code&gt; 和 &lt;code&gt;TF&lt;/code&gt; 兼容模型：&lt;code&gt;llama、llama2、rwkv、whisper、vicuna、koala、cerebras、falcon、dolly、starcoder&lt;/code&gt; 等等：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="localai" src="https://images-1252557999.file.myqcloud.com/uPic/localai.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/LibreTranslate/LibreTranslate"&gt;LibreTranslate&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;免费且开源的机器翻译API，完全自主托管。与其他API不同，它不依赖于像谷歌或Azure这样的专有提供商来进行翻译。相反，它的翻译引擎由开源Argos Translate库驱动：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;libretranslate&lt;/code&gt; 是一个免费且开源的机器翻译API项目，完全自主托管。与其他API不同，它不依赖于像谷歌或Azure这样的专有提供商来进行翻译。相反，它的翻译引擎由开源Argos Translate库驱动：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="libretranslate" src="https://images-1252557999.file.myqcloud.com/uPic/libretranslate.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;🤖 软件&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/meterscao/Speechless"&gt;Speechless&lt;/a&gt;&lt;/h3&gt;
@@ -116,7 +174,7 @@
 &lt;/ul&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">2023/10-16~10-22.老胡的周刊（第112期）.md</guid>
-      <pubDate>Mon, 23 Oct 2023 00:01:22 +0806</pubDate>
+      <pubDate>Sun, 05 Nov 2023 11:46:55 +0806</pubDate>
     </item>
     <item>
       <title>10-09~10-15.老胡的周刊（第111期）.md</title>
