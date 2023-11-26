@@ -12,7 +12,60 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 19 Nov 2023 13:18:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 06:58:51 +0000</lastBuildDate>
+    <item>
+      <title>11-20~11-26.老胡的周刊（第117期）.md</title>
+      <link>https://weekly.howie6879.com/2023/11-20~11-26.老胡的周刊（第117期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/11-20~11-26.老胡的周刊（第117期）.html"&gt;11-20~11-26.老胡的周刊（第117期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Frooodle/Stirling-PDF"&gt;Stirling-PDF&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;Docker&lt;/code&gt; 的 &lt;code&gt;Web PDF&lt;/code&gt; 操作工具，允许您对 &lt;code&gt;PDF&lt;/code&gt; 文件执行各种操作，如拆分、合并、转换、重新组织、添加图像、旋转、压缩等：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Stirling-PDF" src="https://images-1252557999.file.myqcloud.com/uPic/Stirling-PDF.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/mRs-/Black-Friday-Deals"&gt;Black-Friday-Deals&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;黑五 Mac IOS 生态相关软件打折软件汇总项目：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Black-Friday-Deals" src="https://images-1252557999.file.myqcloud.com/uPic/Black-Friday-Deals.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/obgnail/typora_plugin"&gt;typora_plugin&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源的 &lt;code&gt;Typora&lt;/code&gt; 插件，功能增强工具，新增了三十多种功能：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="typora_plugin" src="https://images-1252557999.file.myqcloud.com/uPic/typora_plugin.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/mulaRahul/keyviz"&gt;keyviz&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Keyviz&lt;/code&gt; 是一个免费且开源的工具，可以实时可视化您的按键⌨️和🖱️鼠标操作，比较适合录屏按键演示，基于 Flutter 开发，跨平台，颜值也不错：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="keyviz" src="https://images-1252557999.file.myqcloud.com/uPic/keyviz.svg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/hoochanlon/Free-NTFS-for-Mac"&gt;Free-NTFS-for-Mac&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;这是一款支持苹果芯片的 &lt;code&gt;Free NTFS for Mac&lt;/code&gt; 小工具软件，主要是为了方便想要免费使用 &lt;code&gt;NTFS&lt;/code&gt; 格式移动存储的文件拷贝与共享的苹果电脑用户：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Free-NTFS-for-Mac" src="https://images-1252557999.file.myqcloud.com/uPic/Free-NTFS-for-Mac.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/nikolaeu/numi"&gt;numi&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一款颜值颇高的 &lt;code&gt;Mac&lt;/code&gt; 计算器：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="numi" src="https://images-1252557999.file.myqcloud.com/uPic/numi.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/opensource-f2f"&gt;opensource-f2f&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;《开源面对面》是一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="osf2f" src="https://images-1252557999.file.myqcloud.com/uPic/osf2f.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://12ft.io/"&gt;12ft.io&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;输入目标地址，让你浏览一个更干净的网站！删除弹出窗口、横幅和广告：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="12ft.io" src="https://images-1252557999.file.myqcloud.com/uPic/12ft.io.jpg" /&gt;
+&lt;a href="https://1ft.io/"&gt;1ft&lt;/a&gt; 也有类似功能。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://stockai.trade"&gt;stockai.trade&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;AI&lt;/code&gt; 选股分析网站（基于 &lt;code&gt;ChatGPT&lt;/code&gt;）完全免费，无需注册:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="stockai" src="https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://tik.fail/browse"&gt;tik.fail&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;国内能直接刷TikTok的在线网站，支持搜索和下载：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="tik_fail" src="https://images-1252557999.file.myqcloud.com/uPic/tik_fail.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🥳我基于ChatGPT做了个&lt;a href="https://mp.weixin.qq.com/s/3ohE-rm6kryC07parr29bQ"&gt;微信端的老胡信息周刊QA&lt;/a&gt;，欢迎免费体验&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023-11-20 00:00:00</guid>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>11-13~11-19.老胡的周刊（第116期）.md</title>
       <link>https://weekly.howie6879.com/2023/11-13~11-19.老胡的周刊（第116期）.html</link>
