@@ -1,0 +1,49 @@
+#my-popup {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #fffacd;
+  border: 1px solid #dddddd54;
+  padding: 15px 35px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+
+#my-popup .close-btn {
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+  border-radius: 50%;
+  border: 1px solid black;
+  background-color: white;
+  transition: transform 0.3s ease;
+}
+
+#my-popup .close-btn:hover {
+  transform: rotate(360deg);
+  background-color: antiquewhite;
+}
+
+#my-popup a {
+  text-decoration: none;
+  font-size: 18px;
+  color: rgb(207, 50, 66);
+}
+
+#my-popup a:hover {
+  font-size: 18px;
+  color: #943131;
+}
+
+#my-popup.show {
+  display: flex; /* 显示弹窗 */
+}
