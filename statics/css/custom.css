@@ -36,12 +36,12 @@
 #my-popup a {
   text-decoration: none;
   font-size: 18px;
-  color: rgb(207, 50, 66);
+  color: #943131;
 }
 
 #my-popup a:hover {
   font-size: 18px;
-  color: #943131;
+  color: rgb(207, 50, 66);
 }
 
 #my-popup.show {
