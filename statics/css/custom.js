@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // 创建链接元素
   var link = document.createElement("a");
-  link.href = "https://www.fre123.com/weekly";
+  link.href = "https://www.fre123.com/weekly?from=weekly";
   link.textContent = "🔥 老胡精选周刊大全>>>";
   popup.appendChild(link);
   document.body.appendChild(popup);
