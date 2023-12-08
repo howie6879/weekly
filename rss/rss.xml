@@ -12,7 +12,76 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Thu, 07 Dec 2023 03:44:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2023 15:59:38 +0000</lastBuildDate>
+    <item>
+      <title>12-04~12-09.老胡的周刊（第119期）.md</title>
+      <link>https://weekly.howie6879.com/2023/12-04~12-09.老胡的周刊（第119期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/12-04~12-09.老胡的周刊（第119期）.html"&gt;12-04~12-09.老胡的周刊（第119期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/howie6879/weeklyhub"&gt;Weekly Hub&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;汇聚优质精选技术周刊，为你提供高质量信息流，让你的学习更加高效：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;周刊文章订阅列表：&lt;a href="https://www.fre123.com/wk"&gt;Weekly Hub&lt;/a&gt; &amp;amp; 文末有订阅工具推荐👀&lt;/li&gt;
+&lt;li&gt;周刊文章展示地址：&lt;a href="https://www.fre123.com/weekly"&gt;weekly.fre123.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="fre123_weeklyhub" src="https://images-1252557999.file.myqcloud.com/uPic/fre123_weeklyhub.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/everywall/ladder"&gt;ladder&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://12ft.io/"&gt;12ft.io&lt;/a&gt; 的开源替代品，助你越过付费墙，也可以给你干净的阅读体验。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ladder" src="https://images-1252557999.file.myqcloud.com/uPic/ladder.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/jason5ng32/MyIP"&gt;MyIP&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;这是一个完全开源的 IP 信息查看器，可以查询本机 IP、查询任意 IP、查询国内外网站可用性等，70%代码由 &lt;code&gt;GPT&lt;/code&gt; 实现。它可以查看IP、IP 信息（代理前后）、检查 DNS 泄露、检查 WebRTC 连接、测试网站可用性。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="myip" src="https://images-1252557999.file.myqcloud.com/uPic/myip.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/xaoyaoo/PyWxDump"&gt;PyWxDump&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;和上周推荐的 &lt;a href="https://weekly.howie6879.com/2023/11-27~12-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC118%E6%9C%9F%EF%BC%89.html"&gt;WeChatMsg&lt;/a&gt; 项目同样类型，针对微信聊天记录，获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="PyWxDump" src="https://images-1252557999.file.myqcloud.com/uPic/PyWxDump.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://go.setapp.com/invite/os8yv4jr"&gt;Setapp&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;虽然这个是个付费软件，但我还是很推荐：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Setapp是由MacPaw公司于2017年推出的订阅服务，专为macOS和iOS用户提供多款精选应用程序。用户通过月费即可无限使用旗下丰富的应用集合，覆盖各种日常任务需求，无需单独购买或更新。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;订阅这个软件就可以免费使用 &lt;code&gt;Setapp&lt;/code&gt; 里面 &lt;strong&gt;240+&lt;/strong&gt; 的软件（单独买要付费的那种），比如我想使用GPT-4的对话功能，我单独买会员就是要20$。我现在直接花 &lt;strong&gt;9.9\$&lt;/strong&gt;  订阅 &lt;code&gt;Setapp&lt;/code&gt; ，然后直接里面直接使用 &lt;code&gt;Typing Mind&lt;/code&gt; 就可以直接使用 GPT-4 Turbo，上下文 128k，对我来说单单这个就赚回来了。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="setapp" src="https://images-1252557999.file.myqcloud.com/uPic/setapp.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Archmage83/tvapk"&gt;tvapk&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;收集各大 &lt;code&gt;AndroidTV&lt;/code&gt; 的 &lt;code&gt;apk&lt;/code&gt; 应用，可免费看各种vip和国外电影电视：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="tvapk" src="https://images-1252557999.file.myqcloud.com/uPic/tvapk.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/hefengbao/jingmo"&gt;jingmo&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;『京墨』开源免费的古诗词文（名句）、歇后语、成语、传统节日、绕口令等的阅读 &lt;code&gt;APP&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="jingmo" src="https://images-1252557999.file.myqcloud.com/uPic/EL9mYu.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/wgwang/LLMs-In-China"&gt;LLMs-In-China&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;记录中国大模型发展情况，同时持续深度分析开源开放的大模型以及数据集的情况，目前记录了国内188个大模型：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="LLMs-In-China" src="https://images-1252557999.file.myqcloud.com/uPic/LLMs-In-China.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://devv.ai/"&gt;devv.ai&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Devv AI&lt;/code&gt; 是面向开发者的新一代 &lt;code&gt;AI&lt;/code&gt; 搜索引擎，类似 &lt;code&gt;Bing AI&lt;/code&gt; 的使用体验，针对程序员这块做了优化，背后使用的是 &lt;code&gt;GPT3.5&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="devv" src="https://images-1252557999.file.myqcloud.com/uPic/devv.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://webdesk.pigjs.com/builder/"&gt;webdesk&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一键将网站转化为桌面应用程序：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="webdesk" src="https://images-1252557999.file.myqcloud.com/uPic/webdesk.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://bbycroft.net/llm"&gt;LLM Visualization&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;将 GPT LLM 大模型进行可视化分析：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bbycroft" src="https://images-1252557999.file.myqcloud.com/uPic/bbycroft.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.freelancethings.co/"&gt;freelancethings&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;为自由职业者精心挑选的资源，涉及到社区、工具、文章、书籍、视频等，这些都帮助你在自由职业之旅中获得更多帮助，订阅后每周发送到您的收件箱:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="freelancethings" src="https://images-1252557999.file.myqcloud.com/uPic/freelancethings.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://trending.design/"&gt;trending.design&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;收集一些在 𝕏(twitter) 上的最佳设计灵感：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="trending.design" src="https://images-1252557999.file.myqcloud.com/uPic/trending.design.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，会分享更多的资源信息，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">2023-12-04 00:00:00</guid>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>11-27~12-03.老胡的周刊（第118期）.md</title>
       <link>https://weekly.howie6879.com/2023/11-27~12-03.老胡的周刊（第118期）.html</link>

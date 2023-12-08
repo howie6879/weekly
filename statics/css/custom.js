@@ -22,6 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
   var link = document.createElement("a");
   link.href = "https://www.fre123.com/weekly?from=weekly";
   link.textContent = "🔥 老胡精选周刊大全>>>";
+  link.target = "_blank";
   popup.appendChild(link);
   document.body.appendChild(popup);
 
