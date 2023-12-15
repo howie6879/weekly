@@ -12,7 +12,70 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Fri, 08 Dec 2023 18:56:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 17:01:22 +0000</lastBuildDate>
+    <item>
+      <title>12-11~12-17.老胡的周刊（第120期）.md</title>
+      <link>https://weekly.howie6879.com/2023/12-11~12-17.老胡的周刊（第120期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/12-11~12-17.老胡的周刊（第120期）.html"&gt;12-11~12-17.老胡的周刊（第120期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/louislam/dockge"&gt;dockge&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;简单易用且漂亮的 &lt;code&gt;Docker Compose&lt;/code&gt; 管理工具，&lt;code&gt;Docker&lt;/code&gt; 部署，全平台支持：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="dockge" src="https://images-1252557999.file.myqcloud.com/uPic/dockge.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Portainer&lt;/code&gt; 也是不错的选择。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://gitee.com/Doocs-md"&gt;Doocs-md&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="doocs_md" src="https://images-1252557999.file.myqcloud.com/uPic/doocs_md.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/miru-project/miru-app"&gt;miru-app&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;免费、开源的 支持视频、漫画、小说扩展源的多功能应用，支持 &lt;code&gt;Android、Windows、Web&lt;/code&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;支持 windows,android&lt;/li&gt;
+&lt;li&gt;友好的扩展编写支持、调试日志&lt;/li&gt;
+&lt;li&gt;扩展使用 JavaScript 语言，开发简单&lt;/li&gt;
+&lt;li&gt;支持自定义扩展仓库&lt;/li&gt;
+&lt;li&gt;官方扩展仓库提供视频源，无需编写任何扩展即可使用&lt;/li&gt;
+&lt;li&gt;支持在线观看多种视频、漫画、小说源，实现多平台的统一&lt;/li&gt;
+&lt;li&gt;统一系统 UI 的设计语言&lt;/li&gt;
+&lt;li&gt;自动获取 TMDB 元数据信息&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="657c8025be23f" src="https://img.fre123.com/i/2023/12/16/657c8025be23f.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/mangerlahn/latest"&gt;mangerlahn-latest&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一款免费开源的macOS应用程序，专门设计用于保持您的所有应用程序处于最新状态。它能够检查您的每一个应用程序，确保您始终拥有最新的更新和功能。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="mac_latest" src="https://images-1252557999.file.myqcloud.com/uPic/mac_latest.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Greedysky/TTKMusicPlayer"&gt;TTKMusicPlayer&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;音乐播放器模仿酷狗，基于 &lt;code&gt;Qt&lt;/code&gt; 和 &lt;code&gt;Qmmp&lt;/code&gt; 库开发，支持 &lt;code&gt;Windows&lt;/code&gt; 和 &lt;code&gt;Linux&lt;/code&gt; 平台(支持网易云音乐、酷我音乐、酷狗音乐):&lt;/p&gt;
+&lt;p&gt;&lt;img alt="TTKMusicPlayer" src="https://images-1252557999.file.myqcloud.com/uPic/TTKMusicPlayer.jpeg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/zhongyang219/MusicPlayer2"&gt;MusicPlayer2&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;这是一款可以在 &lt;code&gt;Windows&lt;/code&gt; 播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 &lt;/p&gt;
+&lt;p&gt;&lt;img alt="MusicPlayer2" src="https://images-1252557999.file.myqcloud.com/uPic/MusicPlayer2.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/luckrnx09/python-guide-for-javascript-engineers"&gt;python-guide-for-javascript-engineers&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 &lt;code&gt;Python&lt;/code&gt; 环境安装到项目开发的方方面面。本书通过大量案例对比 &lt;code&gt;JavaScript&lt;/code&gt; 和 &lt;code&gt;Python&lt;/code&gt; 语言的异同，帮助 &lt;code&gt;JavaScript&lt;/code&gt; 工程师快速掌握 &lt;code&gt;Python&lt;/code&gt; 语言：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="python-guide-for-javascript-engineers" src="https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://qread.xmsoushu.com/"&gt;熊猫速读&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;熊猫速读是一个收集精品视频读书笔记或好书分享的网站！为您推荐好书速读的视频，在您读一本书或者购买图书之前通过视频介绍先快速了解书籍的内容，根据兴趣再决定是否购买。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="xmsd" src="https://images-1252557999.file.myqcloud.com/uPic/xmsd.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://bizhi1.com/"&gt;bizhi1&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;极简壁纸是一个由个人维护的壁纸小站，无广告，界面清爽，可以很方便地下载必应壁纸：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bizhi1" src="https://images-1252557999.file.myqcloud.com/uPic/bizhi1.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.gooddesign.tools/"&gt;gooddesign&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;优质设计师工具导航网站：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="gooddesign" src="https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，会分享更多的资源信息，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">12-11~12-17.老胡的周刊（第120期）.md</guid>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>12-04~12-09.老胡的周刊（第119期）.md</title>
       <link>https://weekly.howie6879.com/2023/12-04~12-09.老胡的周刊（第119期）.html</link>
