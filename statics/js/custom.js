@@ -20,8 +20,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // 创建链接元素
   var link = document.createElement("a");
-  link.href = "https://www.fre123.com/weekly?from=weekly";
-  link.textContent = "🔥 老胡精选周刊大全>>>";
+  // link.href = "https://www.fre123.com/weekly?from=weekly";
+  // link.textContent = "🔥 老胡精选周刊大全>>>";
+
+  link.href = "https://gemini.fre123.com";
+  link.textContent = "🔥 免费 Gemini Pro Chat>>>";
+
   link.target = "_blank";
   popup.appendChild(link);
   document.body.appendChild(popup);
