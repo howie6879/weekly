@@ -12,7 +12,82 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Mon, 25 Dec 2023 08:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 00:48:06 +0000</lastBuildDate>
+    <item>
+      <title>12-25~12-31.老胡的周刊（第122期）.md</title>
+      <link>https://weekly.howie6879.com/2023/12-25~12-31.老胡的周刊（第122期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2023/12-25~12-31.老胡的周刊（第122期）.html"&gt;12-25~12-31.老胡的周刊（第122期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/movie-web/movie-web"&gt;movie-web&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源可自部署的简约在线电影搜索观看项目：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;自动保存进度&lt;/li&gt;
+&lt;li&gt;记录观看电影&lt;/li&gt;
+&lt;li&gt;简约的界面，展示内容克制&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="movie-web" src="https://images-1252557999.file.myqcloud.com/uPic/movie-web.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;所有内容都是从第三方获取的，并且抓取操作在客户端完成，项目包含以下模块：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;代理&lt;/li&gt;
+&lt;li&gt;前端&lt;/li&gt;
+&lt;li&gt;后端&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这三块全部可以自部署，文档写的也挺清晰我试了下，播放霸王别姬：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="movie_demo" src="https://images-1252557999.file.myqcloud.com/uPic/movie_demo.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/dromara/mayfly-go"&gt;mayfly-go&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;web 版 linux(终端[终端回放] 文件 脚本 进程 计划任务)、数据库（mysql postgres 达梦）、redis(单机 哨兵 集群)、mongo 统一管理操作平台：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="mayfly-go" src="https://images-1252557999.file.myqcloud.com/uPic/mayfly-go.jpeg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/fre123-com/fre123-info-flow"&gt;fre123-info-flow&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;老胡最近整的开源项目，从&lt;a href="https://www.fre123.com/weekly/"&gt;技术周刊精选&lt;/a&gt;到&lt;a href="https://www.fre123.com/tech"&gt;信息流&lt;/a&gt;，和前端朋友一起梳理出了个通用的排版并开源出来，欢迎大家使用和提出建议:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="fre123-info-flow-demo" src="https://images-1252557999.file.myqcloud.com/uPic/fre123-info-flow-demo.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/aaamoon/copilot-gpt4-service"&gt;copilot-gpt4-service&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;将 &lt;code&gt;Github Copilot Chat&lt;/code&gt; 请求转换为 &lt;code&gt;ChatGPT&lt;/code&gt; 请求，免费使用 &lt;code&gt;GPT-4&lt;/code&gt; 模型：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="copilot-gpt4-service" src="https://images-1252557999.file.myqcloud.com/uPic/copilot-gpt4-service.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/typst/typst"&gt;typst&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Typst&lt;/code&gt; 是一种基于标记的排版系统，旨在具备与 &lt;code&gt;LaTeX&lt;/code&gt; 相当强大的功能，同时更易学习和使用：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;内置常见格式任务的标记&lt;/li&gt;
+&lt;li&gt;灵活的功能用于其他所有任务&lt;/li&gt;
+&lt;li&gt;紧密集成的脚本系统&lt;/li&gt;
+&lt;li&gt;数学排版、参考文献管理等功能&lt;/li&gt;
+&lt;li&gt;通过增量编译实现快速编译时间&lt;/li&gt;
+&lt;li&gt;友好错误提示以防出错&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;专注于您的文本，让Typst来处理布局和格式。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="typst" src="https://images-1252557999.file.myqcloud.com/uPic/typst.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/radishes-music/radishes"&gt;radishes&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;跨平台的无版权音乐平台，支持 &lt;code&gt;windows / macos / linux / web&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/radishes.jpeg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/git-up/GitUp"&gt;GitUp&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;简洁的 &lt;code&gt;Git&lt;/code&gt; 客户端：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://images-1252557999.file.myqcloud.com/uPic/GitUp.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/luckjiawei/frpc-desktop"&gt;frpc-desktop&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;🎉 一个 &lt;code&gt;Frp Client&lt;/code&gt; 跨平台桌面端：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://img.fre123.com/i/2023/12/23/6586f68db0238.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/YSGStudyHards/DotNetGuide"&gt;DotNetGuide&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;DotNetGuide&lt;/code&gt; 技术社区是一个面向 &lt;code&gt;.NET&lt;/code&gt; 开发者的开源技术社区，旨在为开发者们提供全面的 &lt;code&gt;C#/.NET/.NET Core&lt;/code&gt; 相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台，可以在线&lt;a href="https://www.yuque.com/ysgstudyhard/da6e0c"&gt;阅读&lt;/a&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="DotNetGuide" src="https://images-1252557999.file.myqcloud.com/uPic/DotNetGuide.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://ocr.plantree.me/ocr"&gt;ocr.plantree.me&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个基于 &lt;code&gt;Tesseract&lt;/code&gt; 的简单 &lt;code&gt;OCR&lt;/code&gt; 软件：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="plantree" src="https://images-1252557999.file.myqcloud.com/uPic/plantree.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;优质技术周刊信息聚合网站：&lt;a href="https://weekly.fre123.com/"&gt;https://weekly.fre123.com/&lt;/a&gt;：老胡收集了国内外50+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">12-25~12-31.老胡的周刊（第122期）.md</guid>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>12-18~12-24.老胡的周刊（第121期）.md</title>
       <link>https://weekly.howie6879.com/2023/12-18~12-24.老胡的周刊（第121期）.html</link>
