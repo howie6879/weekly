@@ -23,8 +23,8 @@ document.addEventListener("DOMContentLoaded", function () {
   // link.href = "https://www.fre123.com/weekly?from=weekly";
   // link.textContent = "🔥 老胡精选周刊大全>>>";
 
-  link.href = "https://gemini.fre123.com";
-  link.textContent = "🔥 免费 Gemini Pro Chat>>>";
+  link.href = "https://www.fre123.com/tech";
+  link.textContent = "🔥 技术资讯聚合页上新>>>";
 
   link.target = "_blank";
   popup.appendChild(link);
