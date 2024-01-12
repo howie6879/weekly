@@ -12,7 +12,88 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 07 Jan 2024 16:04:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 05:25:50 +0000</lastBuildDate>
+    <item>
+      <title>01-08~01-14.老胡的周刊（第124期）.md</title>
+      <link>https://weekly.howie6879.com/2024/01-08~01-14.老胡的周刊（第124期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/01-08~01-14.老胡的周刊（第124期）.html"&gt;01-08~01-14.老胡的周刊（第124期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/netease-youdao/QAnything"&gt;QAnything&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源的企业级本地知识库问答解决方案，致力于支持任意格式文件或数据库的问答,您的任何格式的本地文件都可以往里扔，即可获得准确、快速、靠谱的问答体验。&lt;/p&gt;
+&lt;p&gt;目前已支持格式: &lt;code&gt;PDF，Word(doc/docx)，PPT，Markdown，Eml，TXT&lt;/code&gt;，图片，网页链接:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="QAnything" src="https://images-1252557999.file.myqcloud.com/uPic/QAnything.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://githubfast.com/dromara/yft-design"&gt;yft-design&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;fabric.js&lt;/code&gt; 的图片设计项目，使用 &lt;code&gt;Vue3 + TypeScript + Fabric.js + Element-Plus&lt;/code&gt;，支持 文字、图片、形状、线条、二维码 、条形码几种最常用的元素类型，每一种元素都拥有高度可编辑能力，缩略图显示，模板，支持导出&lt;code&gt;json，svg, image&lt;/code&gt;文件，支持 Docker 部署：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="yft-design" src="https://images-1252557999.file.myqcloud.com/uPic/yft-design.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/oddfar/campus-imaotai"&gt;campus-imaotai&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;i茅台app自动预约，每日自动预约，支持 &lt;code&gt;Docker&lt;/code&gt; 一键部署：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;平台注册账号(可用i茅台)&lt;/li&gt;
+&lt;li&gt;添加多个用户&lt;/li&gt;
+&lt;li&gt;自动预约&lt;/li&gt;
+&lt;li&gt;类型选择（本市出货量最大的门店，或位置附近门店）&lt;/li&gt;
+&lt;li&gt;自动旅行&lt;/li&gt;
+&lt;li&gt;首次旅行分享&lt;/li&gt;
+&lt;li&gt;获取申购耐力值&lt;/li&gt;
+&lt;li&gt;自定义时间/随机时间预约或旅行&lt;/li&gt;
+&lt;li&gt;结果消息推送&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="campus-imaotai" src="https://images-1252557999.file.myqcloud.com/uPic/campus-imaotai.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/cfour-hi/gitstars"&gt;gitstars&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Github&lt;/code&gt; 作为开发者的第一社交平台，拥有数不胜数的优秀开源项目，给工作和学习带来巨大方便，遇到自己需要或是喜爱的项目只需点击 Star 便可收入囊中。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Star is easy&lt;/code&gt;，可随着 &lt;code&gt;Starred Repositories&lt;/code&gt; 增长，在需要使用到某个项目时难免记不清叫什么，而 Github 又只提供简单的搜索，找到目标 &lt;code&gt;Starred Repository&lt;/code&gt; 竟也成了件小小的麻烦事。&lt;/p&gt;
+&lt;p&gt;所以拥有自己的 &lt;code&gt;Github Stars Repositories Manager&lt;/code&gt; 也算是开发者的必备需求。&lt;code&gt;Gitstars&lt;/code&gt; 由此诞生 💡&lt;/p&gt;
+&lt;p&gt;&lt;img alt="gitstars" src="https://images-1252557999.file.myqcloud.com/uPic/gitstars.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/victrme/Bonjourr"&gt;Bonjourr&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Bonjourr&lt;/code&gt; 是法语你好的意思，这是一个简约漂亮的起始页浏览器插件：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Bonjourr" src="https://images-1252557999.file.myqcloud.com/uPic/Bonjourr.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://wowtab.microsoft.com/"&gt;wowtab&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;微软出的简介桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="wowtab" src="https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/lizongying/my-tv"&gt;my-tv&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;安卓电视直播软件，内置直播源：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="my-tv" src="https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/leibnizli/hummingbird"&gt;hummingbird&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Hummingbird&lt;/code&gt; 是一个资源(&lt;code&gt;jpg/png/webp/svg/gif/css/js/html&lt;/code&gt;)压缩客户端，支持&lt;code&gt;Windows&lt;/code&gt;、&lt;code&gt;Mac&lt;/code&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;jpg/png/webp/svg/gif/html&lt;/code&gt; 压缩后会替换掉当前文件，&lt;code&gt;css/js&lt;/code&gt; 压缩后会生成一个带 &lt;code&gt;.min&lt;/code&gt; 的新文件&lt;/li&gt;
+&lt;li&gt;可以在在当前目录新建source文件夹并备份处理前的文件，可以在设置中开启&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="hummingbird" src="https://images-1252557999.file.myqcloud.com/uPic/hummingbird.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/odlp/bluesnooze"&gt;Bluesnooze&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;使用 &lt;code&gt;Bluesnooze&lt;/code&gt;，蓝牙连接会在 &lt;code&gt;Mac&lt;/code&gt; 睡眠时关闭，并在 &lt;code&gt;Mac&lt;/code&gt; 唤醒时打开:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bluesnooze" src="https://images-1252557999.file.myqcloud.com/uPic/bluesnooze.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://qufei1993.github.io/nextjs-learn-cn/"&gt;nextjs-learn-cn&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一份 &lt;code&gt;Next.js&lt;/code&gt; 中文教程：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="nextjs-learn-c" src="https://images-1252557999.file.myqcloud.com/uPic/nextjs-learn-c.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://gemini-pro.chat/"&gt;gemini-pro.chat&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;免费的谷歌 &lt;code&gt;Gemini Chat Pro&lt;/code&gt;，在线网站：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="gemini-pro.chat" src="https://images-1252557999.file.myqcloud.com/uPic/gemini-pro.chat.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://svgl.app/"&gt;svgl.app&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;漂亮的 &lt;code&gt;SVG&lt;/code&gt; 图标库，使用 &lt;code&gt;Sveltekit&lt;/code&gt; 和 &lt;code&gt;Tailwind CSS&lt;/code&gt; 构建：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;官网：https://svgl.app/&lt;/li&gt;
+&lt;li&gt;开源：&lt;a href="https://github.com/pheralb/svgl"&gt;pheralb/svgl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="svgl" src="https://images-1252557999.file.myqcloud.com/uPic/svgl.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;优质技术周刊信息聚合网站：&lt;a href="https://weekly.fre123.com/"&gt;https://weekly.fre123.com/&lt;/a&gt;：老胡收集了国内外50+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">01-08~01-14.老胡的周刊（第124期）.md</guid>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>01-01~01-07.老胡的周刊（第123期）.md</title>
       <link>https://weekly.howie6879.com/2024/01-01~01-07.老胡的周刊（第123期）.html</link>
@@ -1757,9 +1838,6 @@ k8s.gcr.io/coredns/coredns =&amp;gt; m.daocloud.io/k8s.gcr.io/coredns/coredns&lt
 &lt;h3&gt;&lt;a href="https://regex.ai/"&gt;regex.ai&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;regex.ai&lt;/code&gt; 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="regex_ai" src="https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://grep.app/"&gt;grep.app&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Github&lt;/code&gt; 代码搜索网站，搜索速度和展示界面都挺不错：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="grep_app" src="https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg" /&gt;&lt;/p&gt;
 &lt;h2&gt;✍️ 说明&lt;/h2&gt;
 &lt;p&gt;周刊相关信息：&lt;/p&gt;
 &lt;ul&gt;
