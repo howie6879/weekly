@@ -12,7 +12,7 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Fri, 12 Jan 2024 05:25:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 23:28:08 +0000</lastBuildDate>
     <item>
       <title>01-08~01-14.老胡的周刊（第124期）.md</title>
       <link>https://weekly.howie6879.com/2024/01-08~01-14.老胡的周刊（第124期）.html</link>
@@ -25,7 +25,7 @@
 &lt;p&gt;开源的企业级本地知识库问答解决方案，致力于支持任意格式文件或数据库的问答,您的任何格式的本地文件都可以往里扔，即可获得准确、快速、靠谱的问答体验。&lt;/p&gt;
 &lt;p&gt;目前已支持格式: &lt;code&gt;PDF，Word(doc/docx)，PPT，Markdown，Eml，TXT&lt;/code&gt;，图片，网页链接:&lt;/p&gt;
 &lt;p&gt;&lt;img alt="QAnything" src="https://images-1252557999.file.myqcloud.com/uPic/QAnything.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://githubfast.com/dromara/yft-design"&gt;yft-design&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="https://github.com/dromara/yft-design"&gt;yft-design&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;基于 &lt;code&gt;fabric.js&lt;/code&gt; 的图片设计项目，使用 &lt;code&gt;Vue3 + TypeScript + Fabric.js + Element-Plus&lt;/code&gt;，支持 文字、图片、形状、线条、二维码 、条形码几种最常用的元素类型，每一种元素都拥有高度可编辑能力，缩略图显示，模板，支持导出&lt;code&gt;json，svg, image&lt;/code&gt;文件，支持 Docker 部署：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="yft-design" src="https://images-1252557999.file.myqcloud.com/uPic/yft-design.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/oddfar/campus-imaotai"&gt;campus-imaotai&lt;/a&gt;&lt;/h3&gt;
@@ -52,7 +52,7 @@
 &lt;p&gt;&lt;code&gt;Bonjourr&lt;/code&gt; 是法语你好的意思，这是一个简约漂亮的起始页浏览器插件：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Bonjourr" src="https://images-1252557999.file.myqcloud.com/uPic/Bonjourr.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://wowtab.microsoft.com/"&gt;wowtab&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;微软出的简介桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：&lt;/p&gt;
+&lt;p&gt;微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="wowtab" src="https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/lizongying/my-tv"&gt;my-tv&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;安卓电视直播软件，内置直播源：&lt;/p&gt;
