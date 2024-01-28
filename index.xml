@@ -12,7 +12,94 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Fri, 19 Jan 2024 08:23:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 16:01:43 +0000</lastBuildDate>
+    <item>
+      <title>01-22~01-28.老胡的周刊（第126期）.md</title>
+      <link>https://weekly.howie6879.com/2024/01-22~01-28.老胡的周刊（第126期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/01-22~01-28.老胡的周刊（第126期）.html"&gt;01-22~01-28.老胡的周刊（第126期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Portkey-AI/gateway"&gt;Portkey-AI/gateway&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个大模型 &lt;code&gt;AI&lt;/code&gt; 网关项目，只需要通过项目提供的一个接口，就可以快速连接到100多个 &lt;code&gt;LLM&lt;/code&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;极速（快9.9倍），占用空间小（安装后约45kb）&lt;/li&gt;
+&lt;li&gt;在多个模型、提供者和密钥之间进行负载均衡&lt;/li&gt;
+&lt;li&gt;备选方案确保您的应用程序具有弹性&lt;/li&gt;
+&lt;li&gt;默认情况下，自动重试并采用指数回退策略&lt;/li&gt;
+&lt;li&gt;根据需要添加插件中间件&lt;/li&gt;
+&lt;li&gt;经过1000亿次 Token 的实战考验&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="ai-gateway" src="https://images-1252557999.file.myqcloud.com/uPic/ai-gateway.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;同类型项目可以参考：&lt;a href="https://github.com/songquanpeng/one-api"&gt;One API👉通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 ✨&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/talebook/talebook"&gt;talebook&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;这是一个基于Calibre的简单的个人图书管理系统，支持在线阅读。主要特点是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;美观的界面：由于Calibre自带的网页太丑太难用，于是基于Vue，独立编写了新的界面，支持PC访问和手机浏览；&lt;/li&gt;
+&lt;li&gt;支持多用户：为了网友们更方便使用，开发了多用户功能，支持豆瓣（已废弃）、QQ、微博、Github等社交网站的登录；&lt;/li&gt;
+&lt;li&gt;支持在线阅读：借助Readium.js 库，支持了网页在线阅读电子书；&lt;/li&gt;
+&lt;li&gt;支持批量扫描导入书籍；&lt;/li&gt;
+&lt;li&gt;支持邮件推送：可方便推送到Kindle；&lt;/li&gt;
+&lt;li&gt;支持OPDS：可使用KyBooks等APP方便地读书；&lt;/li&gt;
+&lt;li&gt;支持一键安装，网页版初始化配置，轻松启动网站；&lt;/li&gt;
+&lt;li&gt;优化大书库时文件存放路径，可以按字母分类、或者文件名保持中文；&lt;/li&gt;
+&lt;li&gt;支持快捷更新书籍信息：支持从百度百科、豆瓣搜索并导入书籍基础信息；&lt;/li&gt;
+&lt;li&gt;支持私人模式：需要输入访问码，才能进入网站，便于小圈子分享网站；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="talebook" src="https://images-1252557999.file.myqcloud.com/uPic/VmLmag.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://wails.io/"&gt;wails&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;最近发现不少开源软件是基于 &lt;code&gt;Go&lt;/code&gt; 语言，顺藤摸瓜发现了 &lt;code&gt;[wails](https://wails.io/)&lt;/code&gt;，它可以帮你使用 &lt;code&gt;Go&lt;/code&gt; 构建漂亮的跨平台应用程序：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="wails" src="https://images-1252557999.file.myqcloud.com/uPic/wails.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/huanghanzhilian/c-shopping"&gt;c-shopping&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;Nextjs&lt;/code&gt; 开发同时适配 &lt;code&gt;Desktop、Tablet、Phone&lt;/code&gt; 多种设备的精美购物平台：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="C-Shopping" src="https://images-1252557999.file.myqcloud.com/uPic/C-Shopping.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/janhq/jan"&gt;jan&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Jan&lt;/code&gt; 是一个开源的 &lt;code&gt;ChatGPT&lt;/code&gt; 替代品，可以在您的计算机上100%离线运行各种 &lt;code&gt;LLM&lt;/code&gt;。&lt;code&gt;Jan&lt;/code&gt; 适用于任何硬件。从个人电脑到多 &lt;code&gt;GPU&lt;/code&gt; 集群，&lt;code&gt;Jan&lt;/code&gt; 支持通用架构：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="jan" src="https://images-1252557999.file.myqcloud.com/uPic/jan.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;目前体验这三款，这个用户体验最好。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/nomic-ai/gpt4all"&gt;gpt4all&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;GPT4All&lt;/code&gt; 是一个生态系统，用于在消费级 &lt;code&gt;CPU&lt;/code&gt; 和任何 &lt;code&gt;GPU&lt;/code&gt; 上本地运行强大且定制化的大型语言模型。请注意，您的 &lt;code&gt;CPU&lt;/code&gt; 需要支持 &lt;code&gt;AVX&lt;/code&gt; 或 &lt;code&gt;AVX2&lt;/code&gt; 指令。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="gpt4all" src="https://images-1252557999.file.myqcloud.com/uPic/gpt4all.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.chatd.ai/"&gt;chatd.ai&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;您自己的私人本地AI，可以阅读计算机上的文件然后与您的文件进行聊天，该软件目标如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一键式下载与启动。&lt;/li&gt;
+&lt;li&gt;无需额外依赖。&lt;/li&gt;
+&lt;li&gt;应用文件体积最小化。&lt;/li&gt;
+&lt;li&gt;设计简单的大语言模型版本控制与分发系统。&lt;/li&gt;
+&lt;li&gt;兼容所有主流操作系统。&lt;/li&gt;
+&lt;li&gt;利用本地运行的优势，如访问本地文件系统。&lt;/li&gt;
+&lt;li&gt;用户无需调整任何设置，大语言模型在他们的系统上即插即用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;详情见介绍文章：&lt;a href="https://www.bmacd.xyz/packaging-language-models-into-desktop-apps/"&gt;packaging-language-models-into-desktop-apps&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/anfragment/zen"&gt;zen&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;简单、免费且高效的广告拦截器和隐私保护工具，适用于Windows、macOS和Linux。它通过设置代理来拦截所有应用程序发出的HTTP请求，并阻止那些提供广告、跟踪脚本（监控您行为）、恶意软件和其他不需要的内容的请求。由于在系统级别运行，Zen可以防御浏览器扩展无法处理的威胁，例如嵌入在桌面应用程序和操作系统组件中的跟踪器。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="zen" src="https://images-1252557999.file.myqcloud.com/uPic/zen.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/zxyle/PDF-Explained"&gt;PDF Explained&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;PDF&lt;/code&gt; 无处不在，无论是在线形式还是印刷形式，但很少有人利用这些有用的功能或掌握这种格式的细微差别。 这本简明的书籍为程序员，高级用户提供了世界领先的页面描述语言(pdf)的动手实践。以及搜索，电子出版和印刷行业的专业人士， 有大量示例，本书是你完全理解PDF所需的文档。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="PDF-Explained" src="https://images-1252557999.file.myqcloud.com/uPic/PDF-Explained.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://xuankaiwang.github.io/"&gt;统计学自学指南&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;这是一本统计的自学指南, 也是作者在数院自学生涯的一个纪念：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="XuankaiWang" src="https://images-1252557999.file.myqcloud.com/uPic/XuankaiWang.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.oldpicrestore.com/restore?id=1&amp;amp;type=Restore-Photo"&gt;oldpicrestore&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;老照片修复工具，同时还提供上色和去背景功能：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="oldpicrestore" src="https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;优质技术周刊信息聚合网站：&lt;a href="https://weekly.fre123.com/"&gt;https://weekly.fre123.com/&lt;/a&gt;：老胡收集了国内外50+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;weekly.howie6879.com&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">01-22~01-28.老胡的周刊（第126期）.md</guid>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>01-15~01-21.老胡的周刊（第125期）.md</title>
       <link>https://weekly.howie6879.com/2024/01-15~01-21.老胡的周刊（第125期）.html</link>
