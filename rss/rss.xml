@@ -12,7 +12,96 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 28 Jan 2024 16:07:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 16:00:06 +0000</lastBuildDate>
+    <item>
+      <title>01-29~02-04.老胡的周刊（第127期）.md</title>
+      <link>https://weekly.howie6879.com/2024/01-29~02-04.老胡的周刊（第127期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/01-29~02-04.老胡的周刊（第127期）.html"&gt;01-29~02-04.老胡的周刊（第127期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/leptonai/search_with_lepton"&gt;search_with_lepton&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;AI&lt;/code&gt; 大神贾扬清用500行代码打造 &lt;code&gt;AI&lt;/code&gt; 搜索引擎  &lt;code&gt;Demo&lt;/code&gt;，登顶 &lt;code&gt;GitHub&lt;/code&gt; 热榜，证明构建AI应用并非难事：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="search_with_lepton" src="https://images-1252557999.file.myqcloud.com/uPic/search_with_lepton.png" /&gt;&lt;/p&gt;
+&lt;p&gt;同种类型应用参考：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;https://www.perplexity.ai&lt;/li&gt;
+&lt;li&gt;https://devv.ai/&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href="https://github.com/bclswl0827/ChatGemini"&gt;ChatGemini&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;ChatGemini&lt;/code&gt; 是一个基于 &lt;code&gt;Google Gemini&lt;/code&gt; 的网页客户端，对标 &lt;code&gt;ChatGPT 3.5&lt;/code&gt;，操作逻辑同 &lt;code&gt;ChatGPT 3.5&lt;/code&gt; 一致，同时支持在聊天中上传图片，应用会自动调用 &lt;code&gt;Gemini-Pro-Vision&lt;/code&gt; 模型进行识图：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;适配移动端&lt;/li&gt;
+&lt;li&gt;支持多 API 密钥分流&lt;/li&gt;
+&lt;li&gt;操作逻辑同 ChatGPT&lt;/li&gt;
+&lt;li&gt;仿 ChatGPT 3.5 界面&lt;/li&gt;
+&lt;li&gt;支持多轮聊天对话&lt;/li&gt;
+&lt;li&gt;支持上传图片进行识别&lt;/li&gt;
+&lt;li&gt;逐字输出（SSE）回应&lt;/li&gt;
+&lt;li&gt;集成 PHP 版反向代理&lt;/li&gt;
+&lt;li&gt;自定义 Gemini API 地址&lt;/li&gt;
+&lt;li&gt;可启用站点通行码防止滥用&lt;/li&gt;
+&lt;li&gt;聊天内容导出（HTML 和 PDF）&lt;/li&gt;
+&lt;li&gt;对话内容保存在 IndexedDB 中&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="ChatGemini" src="https://images-1252557999.file.myqcloud.com/uPic/ChatGemini.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;如果不想部署，可以直接使用搭建好的免费 Gemini：&lt;a href="https://gemini-pro.chat/"&gt;https://gemini-pro.chat&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/hanxi/xiaomusic"&gt;xiaomusic&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;使用小爱/红米音箱播放音乐，音乐使用 &lt;code&gt;yt-dlp&lt;/code&gt; 下载：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;播放歌曲&lt;/li&gt;
+&lt;li&gt;播放歌曲+歌名 比如：播放歌曲周杰伦晴天&lt;/li&gt;
+&lt;li&gt;下一首&lt;/li&gt;
+&lt;li&gt;单曲循环&lt;/li&gt;
+&lt;li&gt;全部循环&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;支持 &lt;code&gt;Docker&lt;/code&gt; 部署和简单管理界面。&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Kuingsmile/PicList"&gt;PicList&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;PicList&lt;/code&gt; 是一款高效的跨平台云存储和图床平台管理工具，在 &lt;code&gt;PicGo&lt;/code&gt; 的基础上经过深度的二次开发，不仅完整保留了 &lt;code&gt;PicGo&lt;/code&gt; 的所有功能，还增添了许多新的特性：例如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;相册支持同步云端删除文件&lt;/li&gt;
+&lt;li&gt;内置图床额外添加了 &lt;code&gt;WebDav&lt;/code&gt;、本地图床和 &lt;code&gt;SFTP&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;增加了完整的云存储管理功能&lt;/li&gt;
+&lt;li&gt;等等&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="PicList" src="https://images-1252557999.file.myqcloud.com/uPic/PicList.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/namidaco/namida"&gt;namida&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个美观且功能丰富的音乐和视频播放器，支持 &lt;code&gt;Youtube&lt;/code&gt;，基于 &lt;code&gt;Flutter&lt;/code&gt; 技术构建：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="namida" src="https://images-1252557999.file.myqcloud.com/uPic/namida.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/brunodev85/winlator"&gt;winlator&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;使用 &lt;code&gt;Wine &amp;amp; Box86/Box64&lt;/code&gt; 的安卓应用程序，此项目特点是可以运行 &lt;code&gt;Windows&lt;/code&gt; 应用程序。&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://developers.redhat.com/e-books"&gt;RedHat E-Book&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;RedHat&lt;/code&gt; 开放的电子书，注册即可查看下载，质量是很不错的：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="kEvVpP" src="https://images-1252557999.file.myqcloud.com/uPic/kEvVpP.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.sjkjc.com/mysql/"&gt;MySQL&amp;amp;PG 数据库教程&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个专门讲数据库教程的资料网站：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="sjkjc" src="https://images-1252557999.file.myqcloud.com/uPic/sjkjc.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/liujuntao123/chines-history-video"&gt;historyline.online&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;中国历朝代历史视频讲解，汇聚了B站上综合数据（点赞，播放，投币，收藏）最高的一个/几个视频：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="historyline" src="https://images-1252557999.file.myqcloud.com/uPic/historyline.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.shukui.net/"&gt;书葵網&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;读者可以在此查询本馆的图书、期刊、古籍等信息。检索条件会自动匹配书名、作者、出版社、ISBN搜索，返回最优匹配结果：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="shukui" src="https://images-1252557999.file.myqcloud.com/uPic/shukui.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://yqnn.github.io/svg-path-editor/"&gt;svg-path-editor&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;在线编辑创建 &lt;code&gt;SVG&lt;/code&gt;，同时开源在 &lt;a href="https://github.com/Yqnn/svg-path-editor"&gt;github-svg-path-editor&lt;/a&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="svg-path-editor" src="https://images-1252557999.file.myqcloud.com/uPic/svg-path-editor.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://weekly.fre123.com/"&gt;https://weekly.fre123.com/&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">01-29~02-04.老胡的周刊（第127期）.md</guid>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>01-22~01-28.老胡的周刊（第126期）.md</title>
       <link>https://weekly.howie6879.com/2024/01-22~01-28.老胡的周刊（第126期）.html</link>
