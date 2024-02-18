@@ -12,7 +12,73 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Fri, 09 Feb 2024 14:07:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 12:26:36 +0000</lastBuildDate>
+    <item>
+      <title>02-12~02-18.老胡的周刊（第129期）.md</title>
+      <link>https://weekly.howie6879.com/2024/02-12~02-18.老胡的周刊（第129期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/02-12~02-18.老胡的周刊（第129期）.html"&gt;02-12~02-18.老胡的周刊（第129期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/RVC-Boss/GPT-SoVITS"&gt;GPT-SoVITS&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;强大的少样本语音转换与语音合成Web用户界面，低成本 AI 语音克隆项目，感兴趣可以查看介绍&lt;a href="https://www.bilibili.com/video/BV12g4y1m7Uw/"&gt;视频&lt;/a&gt; 。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="GPT-SoVITS" src="https://images-1252557999.file.myqcloud.com/uPic/GPT-SoVITS.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ellite/Wallos/"&gt;Wallos&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Wallos&lt;/code&gt; 是一个强大的、开源的、自托管的 Web 应用程序，旨在让你轻松地管理你的财务。向复杂的电子表格和昂贵的财务软件说再见吧—— Wallos 简化了跟踪支出的过程，帮助你更好地控制自己的财务生活。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Wallos" src="https://images-1252557999.file.myqcloud.com/uPic/Wallos.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Linux-CN/archive/releases/tag/release"&gt;Linux-CN-archive&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Linux&lt;/code&gt; 中国所有原创文章的 &lt;code&gt;Markdown&lt;/code&gt; 内容备份:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="linux_cn_archive" src="https://images-1252557999.file.myqcloud.com/uPic/linux_cn_archive.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/zhongyang219/TrafficMonitor"&gt;TrafficMonitor&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个用于显示当前网速、CPU及内存利用率的 Windows 桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="TrafficMonitor" src="https://images-1252557999.file.myqcloud.com/uPic/TrafficMonitor.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.mowglii.com/itsycal/"&gt;Itsycal&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一款简单优雅的 Macos 菜单栏日历：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="itsycal" src="https://images-1252557999.file.myqcloud.com/uPic/itsycal.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/putyy/res-downloader"&gt;res-downloader&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!&lt;/p&gt;
+&lt;p&gt;&lt;img alt="res-downloader" src="https://images-1252557999.file.myqcloud.com/uPic/res-downloader.jpeg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/datawhalechina/llm-universe"&gt;llm-universe&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;大模型简介，何为大模型、大模型特点是什么、LangChain 是什么，针对小白开发者的简单介绍；&lt;/li&gt;
+&lt;li&gt;如何调用大模型 API，本节介绍了国内外知名大模型产品 API 的多种调用方式，包括调用原生 API、封装为 LangChain LLM、封装为 Fastapi 等调用方式，同时将包括百度文心、讯飞星火、智谱AI等多种大模型 API 进行了统一形式封装；&lt;/li&gt;
+&lt;li&gt;大模型开发流程及架构，大模型应用开发的基本流程、一般思想和本项目的架构分析；&lt;/li&gt;
+&lt;li&gt;数据库搭建，不同类型知识库文档的加载、处理，向量数据库的搭建；&lt;/li&gt;
+&lt;li&gt;Prompt 设计，如何设计 Prompt 来让大模型完成特定任务，Prompt Engineering 的原则和技巧有哪些；&lt;/li&gt;
+&lt;li&gt;验证迭代，大模型开发如何实现验证迭代，一般的评估方法有什么；&lt;/li&gt;
+&lt;li&gt;前后端开发，如何使用 Gradio、FastAPI 等框架快速开发大模型 Demo，展示应用能力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="llm-universe" src="https://images-1252557999.file.myqcloud.com/uPic/llm-universe.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.coze.cn/"&gt;coze&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;扣子为你提供了一站式 AI 开发平台，无需编程，你的创新理念都能迅速化身为下一代的 AI 应用，字节跳动此前是在海外推出 &lt;a href="https://www.coze.com/"&gt;Coze&lt;/a&gt;，国内扣子与其分开运营：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="coze" src="https://images-1252557999.file.myqcloud.com/uPic/coze.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/tonyljx/running-leetcode"&gt;RunningCode&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个算法小工具网站，收录了面试最高频的算法题~ 可以按【题目类型】，【题目出处】，以及【难易程度】去索引，帮助一刷，二刷的同学快速准备算法题。数据都是基于公开数据人工整理 + GPT 进行打标签。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="running-leetcode" src="https://images-1252557999.file.myqcloud.com/uPic/running-leetcode.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://searchemoji.app/"&gt;SearchEmoji&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Emoji&lt;/code&gt; 表情搜索网站，点击即可复制，颜值也不错海开源：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="searchemoji" src="https://images-1252557999.file.myqcloud.com/uPic/searchemoji.jpeg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.miao3.cn/"&gt;喵闪字库&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;喵闪字库是一个专业的字体下载网站，收集并分享优秀的免费商用字体、免版权字体，提供所有字体的在线预览和免费字体下载服务。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="miao3" src="https://images-1252557999.file.myqcloud.com/uPic/miao3.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;https://weekly.fre123.com/：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">02-12~02-18.老胡的周刊（第129期）.md</guid>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>02-05~02-11.老胡的周刊（第128期）.md</title>
       <link>https://weekly.howie6879.com/2024/02-05~02-11.老胡的周刊（第128期）.html</link>
