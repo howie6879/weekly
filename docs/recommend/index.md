@@ -5,61 +5,76 @@
 
 ## 🎯 项目 
 
-### [yakGPT](https://github.com/yakGPT/yakGPT)
+### [BookStack](https://github.com/BookStackApp/BookStack)
 
-一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
+一个开源的`documentation/wik`文档管理平台，其核心特性如下：
 
-![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
+- 免费开源可自建
+- 简单易用的交互界面
+- 全文检索以及文档互联
+- 可配置
+- 强大的编辑功能，MD支持
+- 等
 
-### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+![BookStack](https://images-1252557999.file.myqcloud.com/uPic/vdoSqZ.jpg)
 
-Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
+有兴趣的话，可以利用[docker-bookstack](https://github.com/solidnerd/docker-bookstack)项目进行快速试用。 
 
-你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
+### [daedalOS](https://github.com/DustinBrett/daedalOS)
 
-- 🌐 利用互联网进行搜索和信息收集
-- 💾 长期和短期记忆管理
-- 🧠 GPT-4实例用于文本生成
-- 🔗 访问流行的网站和平台
-- 🗃️ 使用GPT-3.5进行文件存储和摘要
+`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
 
-![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
+![daedalOS](https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png) 
 
-### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
+### [runtipi](https://github.com/meienberger/runtipi)
 
-一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
+自托管的开源家庭应用服务管理工具，比如你可以在你的服务器上面一键安装任何自托管的应用：
 
-![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
-
-你可以直接[在线体验](https://letsmarkdown.com/)。 
+![runtipi](https://images-1252557999.file.myqcloud.com/uPic/runtipi.png) 
 
 ## 🤖 软件 
 
-### [linearmouse](https://github.com/linearmouse/linearmouse)
+### [Dozer](https://github.com/Mortennn/Dozer)
 
-`Mac` 的鼠标和触控板实用工具，可以为你的鼠标和触控板定制不同的参数：
+隐藏菜单栏图标，使您的Mac看起来更清爽，个人一直在用的开源状态栏管理工具，`Bartender` 替代品：
 
-![linearmouse](https://images-1252557999.file.myqcloud.com/uPic/linearmouse.jpg) 
+![Dozer](https://images-1252557999.file.myqcloud.com/uPic/Dozer.jpg) 
 
-### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
+### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
 
-JetBrains 的下一代 IDE：
+科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
 
-![fleet](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
+![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
 
-### [XcodesApp](https://github.com/XcodesOrg/XcodesApp)
+还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
 
-通过鼠标点击这种简单方式，快速安装和切换多个版本的 `Xcode`：
+### [spotube](https://github.com/KRTirtho/spotube)
 
-![XcodesApp](https://images-1252557999.file.myqcloud.com/uPic/XcodesApp.jpg) 
+`Spotube` 可用于所有主要平台，包括 `Linux、Android、Windows & MacOS`，它利用 `Spotify` 和 `YouTube` 的公共 `API` 作为音频源，不需要 `Spotify Premium`，没有广告，可下载歌曲，实时同步歌词，支持匿名或访客登录：
+
+![spotube](https://images-1252557999.file.myqcloud.com/uPic/spotube.jpg) 
 
 ## 👀 资料 
 
-### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+### [大模型交叉研讨课](https://www.openbmb.org/community/course)
 
-比较全面的 `k8s` 资源收集项目：
+OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：
 
-![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
+![openbmb_course](https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg) 
+
+### [llm-universe](https://github.com/datawhalechina/llm-universe)
+
+本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：
+
+- 大模型简介，何为大模型、大模型特点是什么、LangChain 是什么，针对小白开发者的简单介绍；
+- 如何调用大模型 API，本节介绍了国内外知名大模型产品 API 的多种调用方式，包括调用原生 API、封装为 LangChain LLM、封装为 Fastapi 等调用方式，同时将包括百度文心、讯飞星火、智谱AI等多种大模型 API 进行了统一形式封装；
+- 大模型开发流程及架构，大模型应用开发的基本流程、一般思想和本项目的架构分析；
+- 数据库搭建，不同类型知识库文档的加载、处理，向量数据库的搭建；
+- Prompt 设计，如何设计 Prompt 来让大模型完成特定任务，Prompt Engineering 的原则和技巧有哪些；
+- 验证迭代，大模型开发如何实现验证迭代，一般的评估方法有什么；
+- 前后端开发，如何使用 Gradio、FastAPI 等框架快速开发大模型 Demo，展示应用能力。
+
+![llm-universe](https://images-1252557999.file.myqcloud.com/uPic/llm-universe.png) 
 
 ### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
 
@@ -67,32 +82,33 @@ JetBrains 的下一代 IDE：
 
 ![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
-### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
-
-本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
-
-![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
-
 ## 🕸 网站 
 
-### [gemini-pro.chat](https://gemini-pro.chat/) 
+### [smalldev.tools](https://smalldev.tools/)
 
-免费的谷歌 `Gemini Chat Pro`，在线网站：
+开发者常用工具集：
 
-![gemini-pro.chat](https://images-1252557999.file.myqcloud.com/uPic/gemini-pro.chat.jpg) 
+![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
 
-### [chatdoc](https://chatdoc.com/)
+### [smartexcel](https://www.smartexcel.cc/)
 
-`ChatDOC` 让你可以和文档进行聊天沟通，它是一个基于 `ChatGPT` 的文件读取助手，它可以从 `PDF` 中快速提取、定位和总结信息：
+使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
 
-![chatdoc](https://images-1252557999.file.myqcloud.com/uPic/chatdoc.png) 
+![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
 
-### [Connected Papers](https://www.connectedpapers.com/)
+### [sci-hub](https://sci-hub.se/)
 
-`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
+这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
 
-![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
-是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
+> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
+
+用户可通过以下方式访问新版本：
+
+- https://sci-hub.se/
+- https://sci-hub.ru/
+- https://sci-hub.st/
+
+![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png) 
 
 ## ✍️ 说明
 
