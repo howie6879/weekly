@@ -5,110 +5,104 @@
 
 ## 🎯 项目 
 
-### [BookStack](https://github.com/BookStackApp/BookStack)
+### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
 
-一个开源的`documentation/wik`文档管理平台，其核心特性如下：
+通过网络收集整理的中文歌词数据库, 包含:
 
-- 免费开源可自建
-- 简单易用的交互界面
-- 全文检索以及文档互联
-- 可配置
-- 强大的编辑功能，MD支持
-- 等
+- 绝大多数华语歌手在2019年之前的歌曲
+- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
+- 102197首歌曲, 平均每人25.4首歌
 
-![BookStack](https://images-1252557999.file.myqcloud.com/uPic/vdoSqZ.jpg)
+作者基于此数据库做了两个歌词生成器：
 
-有兴趣的话，可以利用[docker-bookstack](https://github.com/solidnerd/docker-bookstack)项目进行快速试用。 
+- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
+- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
 
-### [daedalOS](https://github.com/DustinBrett/daedalOS)
+### [alist](https://github.com/Xhofe/alist)
 
-`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
+一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
 
-![daedalOS](https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png) 
+![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
 
-### [runtipi](https://github.com/meienberger/runtipi)
+简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
 
-自托管的开源家庭应用服务管理工具，比如你可以在你的服务器上面一键安装任何自托管的应用：
+### [privateGPT](https://github.com/imartinez/privateGPT)
 
-![runtipi](https://images-1252557999.file.myqcloud.com/uPic/runtipi.png) 
+为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
+
+![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
 
 ## 🤖 软件 
 
-### [Dozer](https://github.com/Mortennn/Dozer)
+### [Nuclear](https://github.com/nukeop/nuclear)
 
-隐藏菜单栏图标，使您的Mac看起来更清爽，个人一直在用的开源状态栏管理工具，`Bartender` 替代品：
+`Nuclear` 是一款完全免费的跨平台音乐流媒体桌面程序，内容来源于互联网，界面UI精美，它专注于音乐本身，非常不错（比较麻烦的还是网络问题）：
 
-![Dozer](https://images-1252557999.file.myqcloud.com/uPic/Dozer.jpg) 
+![nucler](https://images-1252557999.file.myqcloud.com/uPic/nucler.jpg)
 
-### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+项目还在持续开发，我们可以保持期待。 
 
-科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
+### [jan](https://github.com/janhq/jan)
 
-![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
+`Jan` 是一个开源的 `ChatGPT` 替代品，可以在您的计算机上100%离线运行各种 `LLM`。`Jan` 适用于任何硬件。从个人电脑到多 `GPU` 集群，`Jan` 支持通用架构：
 
-还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
+![jan](https://images-1252557999.file.myqcloud.com/uPic/jan.jpg)
 
-### [spotube](https://github.com/KRTirtho/spotube)
+目前体验这三款，这个用户体验最好。 
 
-`Spotube` 可用于所有主要平台，包括 `Linux、Android、Windows & MacOS`，它利用 `Spotify` 和 `YouTube` 的公共 `API` 作为音频源，不需要 `Spotify Premium`，没有广告，可下载歌曲，实时同步歌词，支持匿名或访客登录：
+### [TTime](https://github.com/inkTimeRecord/TTime)
 
-![spotube](https://images-1252557999.file.myqcloud.com/uPic/spotube.jpg) 
+🚀 一款简洁高效的跨平台输入、截图、划词翻译软件：
+
+![TTime](https://images-1252557999.file.myqcloud.com/uPic/TTime.jpg)
+
+[Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#bob) 算是这类软件的鼻祖，之前我也推荐过 [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=pot#pot-desktop) ，大家酌情选择即可。 
 
 ## 👀 资料 
 
-### [大模型交叉研讨课](https://www.openbmb.org/community/course)
+### [whys-the-design](https://draven.co/whys-the-design/)
 
-OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：
+为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
 
-![openbmb_course](https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg) 
+![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
 
-### [llm-universe](https://github.com/datawhalechina/llm-universe)
+### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
 
-本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：
+中国5级行政区域mysql库：
 
-- 大模型简介，何为大模型、大模型特点是什么、LangChain 是什么，针对小白开发者的简单介绍；
-- 如何调用大模型 API，本节介绍了国内外知名大模型产品 API 的多种调用方式，包括调用原生 API、封装为 LangChain LLM、封装为 Fastapi 等调用方式，同时将包括百度文心、讯飞星火、智谱AI等多种大模型 API 进行了统一形式封装；
-- 大模型开发流程及架构，大模型应用开发的基本流程、一般思想和本项目的架构分析；
-- 数据库搭建，不同类型知识库文档的加载、处理，向量数据库的搭建；
-- Prompt 设计，如何设计 Prompt 来让大模型完成特定任务，Prompt Engineering 的原则和技巧有哪些；
-- 验证迭代，大模型开发如何实现验证迭代，一般的评估方法有什么；
-- 前后端开发，如何使用 Gradio、FastAPI 等框架快速开发大模型 Demo，展示应用能力。
+- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
+- 港澳地区的数据只有3级;台湾地区4级
+- 包含大陆地区的邮政编码和经纬度信息 
 
-![llm-universe](https://images-1252557999.file.myqcloud.com/uPic/llm-universe.png) 
+### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
 
-### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
+通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
 
-从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
+- 通过编写测试学习 Go 语言
+- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
+- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
 
-![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
+![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
 
 ## 🕸 网站 
 
-### [smalldev.tools](https://smalldev.tools/)
+### [userscloud](https://userscloud.com/)
 
-开发者常用工具集：
+免费使用的云空间分享网页：
 
-![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
+![userscloud](https://images-1252557999.file.myqcloud.com/uPic/userscloud.jpg) 
 
-### [smartexcel](https://www.smartexcel.cc/)
+### [seekflag](https://seekflag.com/)
 
-使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
+网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
 
-![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
+![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
 
-### [sci-hub](https://sci-hub.se/)
+### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
 
-这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
+Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
 
-> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
-
-用户可通过以下方式访问新版本：
-
-- https://sci-hub.se/
-- https://sci-hub.ru/
-- https://sci-hub.st/
-
-![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png) 
+![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
 
 ## ✍️ 说明
 
