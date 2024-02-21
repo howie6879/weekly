@@ -5,104 +5,92 @@
 
 ## 🎯 项目 
 
-### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
+### [terminalizer](https://github.com/faressoft/terminalizer)
 
-通过网络收集整理的中文歌词数据库, 包含:
+录制终端操作并生成 `gif` 动图：
 
-- 绝大多数华语歌手在2019年之前的歌曲
-- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
-- 102197首歌曲, 平均每人25.4首歌
+![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
 
-作者基于此数据库做了两个歌词生成器：
+### [invoice](https://github.com/guanshuicheng/invoice)
 
-- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
-- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
+增值税发票 `OCR` 识别，使用 `flask` 微服务架构，识别 `type` ：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等：
 
-### [alist](https://github.com/Xhofe/alist)
+![invoice](https://images-1252557999.file.myqcloud.com/uPic/invoice.jpg) 
 
-一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
+### [Super_Mario](https://github.com/BadagalaAdarsh/Super_Mario)
 
-![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
+这是一个很有意思的项目，相信大家都玩过马里奥，这个项目可以让你用身体控制马里奥进行游戏，可以锻炼身体哈哈：
 
-简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
-
-### [privateGPT](https://github.com/imartinez/privateGPT)
-
-为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
-
-![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
+![mario](https://images-1252557999.file.myqcloud.com/uPic/mario.gif) 
 
 ## 🤖 软件 
 
-### [Nuclear](https://github.com/nukeop/nuclear)
+### [Quake](https://github.com/phodal/quake)
 
-`Nuclear` 是一款完全免费的跨平台音乐流媒体桌面程序，内容来源于互联网，界面UI精美，它专注于音乐本身，非常不错（比较麻烦的还是网络问题）：
+Quake 是面向极客的知识管理元框架，它可以：
 
-![nucler](https://images-1252557999.file.myqcloud.com/uPic/nucler.jpg)
+- 自由的文本内容管理。Todo 清单、文章管理、书评、笔记等。
+- 构建知识网络体系。定制化 markdown 链接
+- 抓住稍纵即逝的灵感。支持快速启动（CLI、TUI）与全局搜索
+- 自由的呈现画布。DSL 与自由画板
 
-项目还在持续开发，我们可以保持期待。 
+![quake](https://images-1252557999.file.myqcloud.com/uPic/quake.gif) 
 
-### [jan](https://github.com/janhq/jan)
+### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
 
-`Jan` 是一个开源的 `ChatGPT` 替代品，可以在您的计算机上100%离线运行各种 `LLM`。`Jan` 适用于任何硬件。从个人电脑到多 `GPU` 集群，`Jan` 支持通用架构：
+一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
 
-![jan](https://images-1252557999.file.myqcloud.com/uPic/jan.jpg)
+![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
 
-目前体验这三款，这个用户体验最好。 
+### [alisthelper](https://github.com/Xmarmalade/alisthelper)
 
-### [TTime](https://github.com/inkTimeRecord/TTime)
+Alist Helper是一款使用Flutter开发的应用程序，旨在简化桌面版alist的使用。它可以管理alist，让您更轻松地开启、关闭alist程序:
 
-🚀 一款简洁高效的跨平台输入、截图、划词翻译软件：
+- 自动启动alist
+- 最小化至系统托盘
+- 开机自启和开机静默启动
+- 能够快速查看alist的版本和管理员信息
+- 可调整的alist启动参数。你可以可以根据自己的特定需求和偏好来自定义启动参数
 
-![TTime](https://images-1252557999.file.myqcloud.com/uPic/TTime.jpg)
+关键点：这个官方也在做，然后需要付费~
 
-[Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#bob) 算是这类软件的鼻祖，之前我也推荐过 [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=pot#pot-desktop) ，大家酌情选择即可。 
+![alisthelper](https://images-1252557999.file.myqcloud.com/uPic/alisthelper.jpg) 
 
 ## 👀 资料 
 
-### [whys-the-design](https://draven.co/whys-the-design/)
+### [tmplink/ipv6](https://github.com/tmplink/ipv6)
 
-为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
+本文档主要讲解 IPv6 的一些皮毛知识，主要是让读者理解 IPv6 地址的一些概念，诸如前缀，子网，接口。 
 
-![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
+### [howtheytest](https://github.com/abhivaikar/howtheytest)
 
-### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
+关于软件公司如何测试其软件的公共资源集合：
 
-中国5级行政区域mysql库：
+![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
 
-- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
-- 港澳地区的数据只有3级;台湾地区4级
-- 包含大陆地区的邮政编码和经纬度信息 
+### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
 
-### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
-
-通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
-
-- 通过编写测试学习 Go 语言
-- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
-- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
-
-![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
+![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
 ## 🕸 网站 
 
-### [userscloud](https://userscloud.com/)
+### [iconbuddy](https://iconbuddy.app/svg-icons)
 
-免费使用的云空间分享网页：
+`SVG` 图标检索网站（目前有18万图标），可简单编辑和下载：
 
-![userscloud](https://images-1252557999.file.myqcloud.com/uPic/userscloud.jpg) 
+![iconbuddy](https://images-1252557999.file.myqcloud.com/uPic/iconbuddy.jpg) 
 
-### [seekflag](https://seekflag.com/)
+### [chinesenewyear](https://chinesenewyear.net/)
 
-网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
+国外一个专门介绍农历春节的网站，包含了非常多关于春节的介绍信息：
 
-![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
+![chinesenewyear](https://images-1252557999.file.myqcloud.com/uPic/chinesenewyear.jpg) 
 
-### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
+### [tanpok](https://tool.tanpok.com/#/)
 
-Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
+效果非常好的图片压缩工具：
 
-![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
+![tanpok](https://images-1252557999.file.myqcloud.com/uPic/8fZN8v.png) 
 
 ## ✍️ 说明
 
