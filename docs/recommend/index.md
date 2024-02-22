@@ -5,92 +5,122 @@
 
 ## 🎯 项目 
 
-### [terminalizer](https://github.com/faressoft/terminalizer)
+### [privateGPT](https://github.com/imartinez/privateGPT)
 
-录制终端操作并生成 `gif` 动图：
+为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
 
-![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
+![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
 
-### [invoice](https://github.com/guanshuicheng/invoice)
+### [Cloudreve](https://github.com/cloudreve/Cloudreve)
 
-增值税发票 `OCR` 识别，使用 `flask` 微服务架构，识别 `type` ：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等：
+支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
 
-![invoice](https://images-1252557999.file.myqcloud.com/uPic/invoice.jpg) 
+- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
+- 📤  上传/下载 支持客户端直传，支持下载限速
+- 💾  可对接 Aria2 离线下载
+- 📚  在线 压缩/解压缩、多文件打包下载
+- 💻  覆盖全部存储策略的 WebDAV 协议支持
+- ⚡  拖拽上传、目录上传、流式上传处理
+- 🗃️  文件拖拽管理
+- 👩‍👧‍👦  多用户、用户组
+- 🔗  创建文件、目录的分享链接，可设定自动过期
+- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
+- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
+- 🚀  All-In-One 打包，开箱即用
+- 🌈  ... ...
 
-### [Super_Mario](https://github.com/BadagalaAdarsh/Super_Mario)
+![Cloudreve](https://images-1252557999.file.myqcloud.com/uPic/opzEP2.jpg) 
 
-这是一个很有意思的项目，相信大家都玩过马里奥，这个项目可以让你用身体控制马里奥进行游戏，可以锻炼身体哈哈：
+### [lobe-chat](https://github.com/lobehub/lobe-chat)
 
-![mario](https://images-1252557999.file.myqcloud.com/uPic/mario.gif) 
+`LobeChat` 是一个开源的、可扩展的（Function Calling）高性能聊天机器人框架，它支持一键免费部署私人 `ChatGPT/LLM` 网页应用程序：
+
+- 💨 快速部署：支持 Vercel 平台
+-  💎 精致 UI 设计
+-  🗣️ 流畅的对话体验
+-  🧩 支持插件与自定义插件开发
+-  🔒 隐私安全
+-  🤖 自定义助手角色
+-  🌐 自定义域名
+-  🏬 角色市场
+
+![lobe-chat](https://images-1252557999.file.myqcloud.com/uPic/lobe-chat.webp) 
 
 ## 🤖 软件 
 
-### [Quake](https://github.com/phodal/quake)
+### [TomatoBar](https://github.com/ivoronin/TomatoBar)
 
-Quake 是面向极客的知识管理元框架，它可以：
+你听说过番茄工作法吗？这是一种很好的技巧，可以帮助你在学习或工作期间掌握时间并保持专注。`TomatoBar` 是一款非常整洁的 `macOS` 菜单栏番茄钟：
 
-- 自由的文本内容管理。Todo 清单、文章管理、书评、笔记等。
-- 构建知识网络体系。定制化 markdown 链接
-- 抓住稍纵即逝的灵感。支持快速启动（CLI、TUI）与全局搜索
-- 自由的呈现画布。DSL 与自由画板
+![TomatoBar](https://images-1252557999.file.myqcloud.com/uPic/TomatoBar.png) 
 
-![quake](https://images-1252557999.file.myqcloud.com/uPic/quake.gif) 
+### [cicada](https://github.com/mebtte/cicada)
 
-### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
+知了, 支持多用户的开源音乐服务：
 
-一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
+- **尊重隐私, 不进行任何数据收集**
+- 支持多用户
+- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
+- 系统媒体和快捷键支持
+- 音乐支持标准音质/超高音质/伴奏以及多份歌词
+- 乐单/播放列表/播放队列音乐数量无限制
+- 支持标注音乐创作来源(翻唱)
+- 支持歌词/歌名/歌手/乐单搜索
 
-![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
+![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
 
-### [alisthelper](https://github.com/Xmarmalade/alisthelper)
+### [insomnia](https://github.com/Kong/insomnia)
 
-Alist Helper是一款使用Flutter开发的应用程序，旨在简化桌面版alist的使用。它可以管理alist，让您更轻松地开启、关闭alist程序:
+在[第009期（10-11~10-17）](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
 
-- 自动启动alist
-- 最小化至系统托盘
-- 开机自启和开机静默启动
-- 能够快速查看alist的版本和管理员信息
-- 可调整的alist启动参数。你可以可以根据自己的特定需求和偏好来自定义启动参数
-
-关键点：这个官方也在做，然后需要付费~
-
-![alisthelper](https://images-1252557999.file.myqcloud.com/uPic/alisthelper.jpg) 
+![insomnia](https://images-1252557999.file.myqcloud.com/uPic/insomnia.png)
+使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
 
 ## 👀 资料 
 
-### [tmplink/ipv6](https://github.com/tmplink/ipv6)
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-本文档主要讲解 IPv6 的一些皮毛知识，主要是让读者理解 IPv6 地址的一些概念，诸如前缀，子网，接口。 
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
 
-### [howtheytest](https://github.com/abhivaikar/howtheytest)
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
-关于软件公司如何测试其软件的公共资源集合：
+### [wangshusen/SearchEngine](https://github.com/wangshusen/SearchEngine)
 
-![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
+开源的搜索引擎原理书籍（不方便下载的直接私聊我发 PDF），包含：
 
-### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
+- 搜索引擎基础
+- 相关性
+- 其他决定用户满意度的因子
+- 查询词处理
+- 召回
+- 排序
+- 查询词推荐
 
-![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
+![SearchEngine](https://images-1252557999.file.myqcloud.com/uPic/SearchEngine.jpg) 
+
+### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
+
+精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
 
 ## 🕸 网站 
 
-### [iconbuddy](https://iconbuddy.app/svg-icons)
+### [ifixit](https://zh.ifixit.com/)
 
-`SVG` 图标检索网站（目前有18万图标），可简单编辑和下载：
+一个免费教授人们如何修理任何物品的网站：
 
-![iconbuddy](https://images-1252557999.file.myqcloud.com/uPic/iconbuddy.jpg) 
+![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
 
-### [chinesenewyear](https://chinesenewyear.net/)
+### [macosicons](https://macosicons.com/)
 
-国外一个专门介绍农历春节的网站，包含了非常多关于春节的介绍信息：
+网站基本上覆盖了热门`Mac APP`图标，你可以选择自己喜欢的图标进行替换，让自己的`Mac`更加漂亮且个性化。
 
-![chinesenewyear](https://images-1252557999.file.myqcloud.com/uPic/chinesenewyear.jpg) 
+![macosicons](https://images-1252557999.file.myqcloud.com/uPic/macosicons.png) 
 
-### [tanpok](https://tool.tanpok.com/#/)
+### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
 
-效果非常好的图片压缩工具：
+中国少年儿童新闻出版总社免费开放的少儿绘本网站：
 
-![tanpok](https://images-1252557999.file.myqcloud.com/uPic/8fZN8v.png) 
+![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
 
 ## ✍️ 说明
 
