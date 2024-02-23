@@ -5,122 +5,102 @@
 
 ## 🎯 项目 
 
-### [privateGPT](https://github.com/imartinez/privateGPT)
+### [typst](https://github.com/typst/typst)
 
-为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
+`Typst` 是一种基于标记的排版系统，旨在具备与 `LaTeX` 相当强大的功能，同时更易学习和使用：
 
-![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
+- 内置常见格式任务的标记
+- 灵活的功能用于其他所有任务
+- 紧密集成的脚本系统
+- 数学排版、参考文献管理等功能
+- 通过增量编译实现快速编译时间
+- 友好错误提示以防出错
 
-### [Cloudreve](https://github.com/cloudreve/Cloudreve)
+专注于您的文本，让Typst来处理布局和格式。
 
-支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
+![typst](https://images-1252557999.file.myqcloud.com/uPic/typst.jpg) 
 
-- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
-- 📤  上传/下载 支持客户端直传，支持下载限速
-- 💾  可对接 Aria2 离线下载
-- 📚  在线 压缩/解压缩、多文件打包下载
-- 💻  覆盖全部存储策略的 WebDAV 协议支持
-- ⚡  拖拽上传、目录上传、流式上传处理
-- 🗃️  文件拖拽管理
-- 👩‍👧‍👦  多用户、用户组
-- 🔗  创建文件、目录的分享链接，可设定自动过期
-- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
-- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
-- 🚀  All-In-One 打包，开箱即用
-- 🌈  ... ...
+### [vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)
 
-![Cloudreve](https://images-1252557999.file.myqcloud.com/uPic/opzEP2.jpg) 
+基于 fabric.js 和 Vue 的图片海报编辑器，可自定义字体、素材、设计模板：
 
-### [lobe-chat](https://github.com/lobehub/lobe-chat)
+![vue-fabric-editor](https://images-1252557999.file.myqcloud.com/uPic/vue-fabric-editor.png) 
 
-`LobeChat` 是一个开源的、可扩展的（Function Calling）高性能聊天机器人框架，它支持一键免费部署私人 `ChatGPT/LLM` 网页应用程序：
+### [nocobase](https://github.com/nocobase/nocobase)
 
-- 💨 快速部署：支持 Vercel 平台
--  💎 精致 UI 设计
--  🗣️ 流畅的对话体验
--  🧩 支持插件与自定义插件开发
--  🔒 隐私安全
--  🤖 自定义助手角色
--  🌐 自定义域名
--  🏬 角色市场
+NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
 
-![lobe-chat](https://images-1252557999.file.myqcloud.com/uPic/lobe-chat.webp) 
+![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
 
 ## 🤖 软件 
 
-### [TomatoBar](https://github.com/ivoronin/TomatoBar)
+### [Webpilot](https://github.com/webpilot-ai/Webpilot)
 
-你听说过番茄工作法吗？这是一种很好的技巧，可以帮助你在学习或工作期间掌握时间并保持专注。`TomatoBar` 是一款非常整洁的 `macOS` 菜单栏番茄钟：
+开源浏览器插件，基于 `ChatGPT` 可以让您与网页进行自由对话，可以在线访问 [webpilot.ai](https://github.com/webpilot-ai/Webpilot)：
 
-![TomatoBar](https://images-1252557999.file.myqcloud.com/uPic/TomatoBar.png) 
+![webpilot](https://images-1252557999.file.myqcloud.com/uPic/webpilot.jpg) 
 
-### [cicada](https://github.com/mebtte/cicada)
+### [my-tv](https://github.com/lizongying/my-tv)
 
-知了, 支持多用户的开源音乐服务：
+安卓电视直播软件，内置直播源：
 
-- **尊重隐私, 不进行任何数据收集**
-- 支持多用户
-- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
-- 系统媒体和快捷键支持
-- 音乐支持标准音质/超高音质/伴奏以及多份歌词
-- 乐单/播放列表/播放队列音乐数量无限制
-- 支持标注音乐创作来源(翻唱)
-- 支持歌词/歌名/歌手/乐单搜索
+![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
 
-![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
+### [ChatGPT](https://github.com/lencx/ChatGPT)
 
-### [insomnia](https://github.com/Kong/insomnia)
+基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
 
-在[第009期（10-11~10-17）](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
+- 历史聊天记录导出(PNG, PDF & Share Link)
+- 快捷键&系统托盘
+- 集成 [chatgpt prompt](https://prompts.chat/)
 
-![insomnia](https://images-1252557999.file.myqcloud.com/uPic/insomnia.png)
-使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
+![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
+
+作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
 
 ## 👀 资料 
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
 
-### [wangshusen/SearchEngine](https://github.com/wangshusen/SearchEngine)
+### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
 
-开源的搜索引擎原理书籍（不方便下载的直接私聊我发 PDF），包含：
+这本书的目标是:
 
-- 搜索引擎基础
-- 相关性
-- 其他决定用户满意度的因子
-- 查询词处理
-- 召回
-- 排序
-- 查询词推荐
+- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
+- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
+- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
 
-![SearchEngine](https://images-1252557999.file.myqcloud.com/uPic/SearchEngine.jpg) 
+![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
 
-### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
+
+![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
 
 ## 🕸 网站 
 
-### [ifixit](https://zh.ifixit.com/)
+### [seekflag](https://seekflag.com/)
 
-一个免费教授人们如何修理任何物品的网站：
+网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
 
-![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
+![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
 
-### [macosicons](https://macosicons.com/)
+### [futurecoder](https://futurecoder.io/course/#ide)
 
-网站基本上覆盖了热门`Mac APP`图标，你可以选择自己喜欢的图标进行替换，让自己的`Mac`更加漂亮且个性化。
+一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
 
-![macosicons](https://images-1252557999.file.myqcloud.com/uPic/macosicons.png) 
+![futurecoder](https://images-1252557999.file.myqcloud.com/uPic/futurecoder.jpg) 
 
-### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
+### [contrib.rocks](https://contrib.rocks/)
 
-中国少年儿童新闻出版总社免费开放的少儿绘本网站：
+为你的Github开源项目生成贡献者头像集合：
 
-![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
+![contrib](https://images-1252557999.file.myqcloud.com/uPic/contrib.jpg) 
 
 ## ✍️ 说明
 
