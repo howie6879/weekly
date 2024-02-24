@@ -5,6 +5,12 @@
 
 ## 🎯 项目 
 
+### [MyIP](https://github.com/jason5ng32/MyIP)
+
+这是一个完全开源的 IP 信息查看器，可以查询本机 IP、查询任意 IP、查询国内外网站可用性等，70%代码由 `GPT` 实现。它可以查看IP、IP 信息（代理前后）、检查 DNS 泄露、检查 WebRTC 连接、测试网站可用性。
+
+![myip](https://images-1252557999.file.myqcloud.com/uPic/myip.jpg) 
+
 ### [typst](https://github.com/typst/typst)
 
 `Typst` 是一种基于标记的排版系统，旨在具备与 `LaTeX` 相当强大的功能，同时更易学习和使用：
@@ -20,87 +26,86 @@
 
 ![typst](https://images-1252557999.file.myqcloud.com/uPic/typst.jpg) 
 
-### [vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)
-
-基于 fabric.js 和 Vue 的图片海报编辑器，可自定义字体、素材、设计模板：
-
-![vue-fabric-editor](https://images-1252557999.file.myqcloud.com/uPic/vue-fabric-editor.png) 
-
-### [nocobase](https://github.com/nocobase/nocobase)
-
-NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
-
-![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
+### [Multipass](https://github.com/canonical/multipass)
+ 
+ `Multipass` 是一个轻量级的 `Linux、Windows&macOS` 虚拟机管理器。它专为开发人员设计，可以通过一条命令获得全新的 `Ubuntu` 环境：
+ 
+ ![multipass](https://images-1252557999.file.myqcloud.com/uPic/multipass.jpg) 
 
 ## 🤖 软件 
 
-### [Webpilot](https://github.com/webpilot-ai/Webpilot)
+### [全是漫画](https://github.com/hongchacha/cartoon)
 
-开源浏览器插件，基于 `ChatGPT` 可以让您与网页进行自由对话，可以在线访问 [webpilot.ai](https://github.com/webpilot-ai/Webpilot)：
+全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
 
-![webpilot](https://images-1252557999.file.myqcloud.com/uPic/webpilot.jpg) 
+![comic](https://images-1252557999.file.myqcloud.com/uPic/FXXmY5.jpg) 
 
-### [my-tv](https://github.com/lizongying/my-tv)
+### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
 
-安卓电视直播软件，内置直播源：
+安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
 
-![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
+- [美团买菜版本](https://github.com/qulingyuan/robVeg)
+- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
 
-### [ChatGPT](https://github.com/lencx/ChatGPT)
+### [v2ex](https://v2ex.com/)
 
-基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
+`V2EX` 的使命是为创意工作者打造一个最好的社区，他们在这里可以获得灵感，分享想法，找到伙伴，获得通向目标的加速度，程序员群体必备，如果你不知道 `V2EX`，可以访问玩玩。
 
-- 历史聊天记录导出(PNG, PDF & Share Link)
-- 快捷键&系统托盘
-- 集成 [chatgpt prompt](https://prompts.chat/)
+开源客户端推荐：
 
-![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
+- [V2ex-Swift](https://github.com/Finb/V2ex-Swift)：比较老牌的 `V2EX IOS` 第三方客户端
+- [V2Compose](https://github.com/cooaer/V2Compose)：使用 `Compose` 构建的一个 `V2ex` 的 `Android` 客户端
+- [V2Fun](https://github.com/liaoliao666/v2ex)：`V2EX` 好看的第三方客户端（Android&IOS），支持夜间模式
+- [V2exOS](https://github.com/isaced/V2exOS)：一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端
+- [react-native-v2ex](https://github.com/funnyzak/react-native-v2ex)：
 
-作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
+相关软件截图：
+
+![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png)
+
+![V2Compose](https://images-1252557999.file.myqcloud.com/uPic/V2Compose.jpg)
+
+![react-native-v2ex](https://images-1252557999.file.myqcloud.com/uPic/react-native-v2ex.jpeg) 
 
 ## 👀 资料 
 
-### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
+### [learn-javascript](https://github.com/sumn2u/learn-javascript)
 
-《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
+学习 `javascript` 的开源书籍：
 
-![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
+![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
 
-### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
+### [凤凰架构](https://github.com/fenixsoft/awesome-fenix)
 
-这本书的目标是:
+这是一部以“**如何构建一套可靠的分布式大型软件系统**”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《[什么是凤凰架构](https://icyfenix.cn/introduction/about-the-fenix-project.html)》详细阐述了这部文档的主旨、目标与名字的来由，文章《[如何开始](https://icyfenix.cn/exploration/guide/quick-start.html)》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
 
-- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
-- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
-- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
+![icyfenix](https://images-1252557999.file.myqcloud.com/uPic/icyfenix.jpg) 
 
-![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
+### [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 
-### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
+《[初创公司CTO手册](https://docs.google.com/document/d/147KVarJdNQ2ZdmDHOSsd7W39anejRu2NfxEWCzwl0IU/edit?pli=1)》是一本涵盖软件工程团队领导力、管理和技术主题的书籍。旨在为技术团队领导力提供指导，内容涵盖业务流程、人员管理、招聘面试、入职培训、绩效管理、团队构成、领导责任等多个方面：
 
-本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
-
-![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
+![ctohb](https://images-1252557999.file.myqcloud.com/uPic/ctohb.jpg) 
 
 ## 🕸 网站 
 
-### [seekflag](https://seekflag.com/)
+### [studyhard](https://studyhard.cf/)
 
-网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
+📚各大高校课程资源汇总，在 `Github` 上大学：
 
-![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
+![studyhard](https://images-1252557999.file.myqcloud.com/uPic/studyhard.jpg) 
 
-### [futurecoder](https://futurecoder.io/course/#ide)
+### [up-6.com](https://www.up-6.com/)
 
-一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
+一个英语学习导航网站：
 
-![futurecoder](https://images-1252557999.file.myqcloud.com/uPic/futurecoder.jpg) 
+![up-6](https://images-1252557999.file.myqcloud.com/uPic/up-6.jpg) 
 
-### [contrib.rocks](https://contrib.rocks/)
+### [olocr.com](https://olocr.com)
 
-为你的Github开源项目生成贡献者头像集合：
+一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
 
-![contrib](https://images-1252557999.file.myqcloud.com/uPic/contrib.jpg) 
+![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
 
 ## ✍️ 说明
 
