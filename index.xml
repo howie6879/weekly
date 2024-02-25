@@ -12,7 +12,79 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 18 Feb 2024 12:26:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 15:59:51 +0000</lastBuildDate>
+    <item>
+      <title>02-19~02-25.老胡的周刊（第130期）.md</title>
+      <link>https://weekly.howie6879.com/2024/02-19~02-25.老胡的周刊（第130期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/02-19~02-25.老胡的周刊（第130期）.html"&gt;02-19~02-25.老胡的周刊（第130期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/open-webui/open-webui"&gt;open-webui&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;将 &lt;code&gt;LLMs&lt;/code&gt; 操作搬到了 &lt;code&gt;Web&lt;/code&gt;，用户操作界面相当友好，值得体验，API兼容包括Ollama和OpenAI的API。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="openwebui" src="https://images-1252557999.file.myqcloud.com/uPic/openwebui.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/86dbs/dbsyncer"&gt;dbsyncer&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;DBSyncer&lt;/code&gt;（简称dbs）是一款开源的数据同步中间件，提供&lt;code&gt;MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL&lt;/code&gt;等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;组合驱动，自定义库同步到库组合，关系型数据库与非关系型之间组合，任意搭配表同步映射关系&lt;/li&gt;
+&lt;li&gt;实时监控，驱动全量或增量实时同步运行状态、结果、同步日志和系统日志&lt;/li&gt;
+&lt;li&gt;开发插件，自定义转化同步逻辑&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="dbsyncer" src="https://images-1252557999.file.myqcloud.com/uPic/dbsyncer.webp" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/restic/restic"&gt;restic&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Restic&lt;/code&gt; 是一个快速、高效和安全的备份程序。它支持三个主要操作系统（Linux、macOS、Windows）和一些较小众的操作系统（FreeBSD、OpenBSD）&lt;/p&gt;
+&lt;p&gt;&lt;img alt="restic" src="https://images-1252557999.file.myqcloud.com/uPic/restic.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/engigu/Message-Push-Nest"&gt;Message-Push-Nest&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义 &lt;code&gt;webhook&lt;/code&gt; 等多种通知方式。定制你的消息，让通知方式更灵活多样。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Message-Push-Nest" src="https://images-1252557999.file.myqcloud.com/uPic/Message-Push-Nest.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Borber/Tran"&gt;Tran&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;简洁, 快速, 划词翻译：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;开箱即用&lt;/li&gt;
+&lt;li&gt;永久免费使用&lt;/li&gt;
+&lt;li&gt;谷歌翻译镜像&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="Tran" src="https://images-1252557999.file.myqcloud.com/uPic/Tran.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;其他开源划词翻译软件推荐：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/pot-app/pot-desktop"&gt;pot-desktop&lt;/a&gt;：🌈一个跨平台的划词翻译和OCR软件&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/tisfeng/Easydict"&gt;Easydict&lt;/a&gt;：一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/inkTimeRecord/TTime"&gt;TTime&lt;/a&gt;：🚀 一款简洁高效的输入、截图、划词翻译软件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href="https://github.com/gitbutlerapp/gitbutler"&gt;gitbutler&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Git 分支管理工具，从头开始构建，用于现代工作流：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="gitbutler" src="https://images-1252557999.file.myqcloud.com/uPic/gitbutler.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/yaobiao131/downkyicore"&gt;downkyicore&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）&lt;/p&gt;
+&lt;p&gt;&lt;img alt="downkyicore" src="https://images-1252557999.file.myqcloud.com/uPic/downkyicore.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://1000h.org/"&gt;1000h by 李笑来&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;通过投入1000小时的注意力，你可以掌握任何你需要的东西：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="1000h" src="https://images-1252557999.file.myqcloud.com/uPic/1000h.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://yunyinghui.feishu.cn/wiki/BaCEwe3AliqYERkc9dVcfW0BnXg"&gt;Sora 学习手册&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于飞书文档发布，包含一些 &lt;code&gt;Sora&lt;/code&gt; 介绍，第三方技术拆解分享，研究报告，案例等内容，比较浅显但是可以作为了解的途径，里面的联系方式&lt;strong&gt;慎加&lt;/strong&gt;。&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.fre123.com/anime/s"&gt;FRE123-动漫搜索引擎&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;FRE123&lt;/code&gt; 周末新上了个动漫番剧搜索引擎，主要是汇集一些比较好的番剧网站资源，提供搜索服务，让用户更快速找到自己想看到的番剧，欢迎提意见：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="fre123_anime" src="https://images-1252557999.file.myqcloud.com/uPic/fre123_anime.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4"&gt;BRIA-RMBG-1.4&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://huggingface.co/briaai/RMBG-1.4"&gt;BRIA.AI&lt;/a&gt; 下用于移除图片背景的模型，可直接在浏览器使用：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="BRIA-RMBG" src="https://images-1252557999.file.myqcloud.com/uPic/BRIA-RMBG.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://weekly.fre123.com/"&gt;https://weekly.fre123.com/&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">02-19~02-25.老胡的周刊（第130期）.md</guid>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>02-12~02-18.老胡的周刊（第129期）.md</title>
       <link>https://weekly.howie6879.com/2024/02-12~02-18.老胡的周刊（第129期）.html</link>

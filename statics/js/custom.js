@@ -23,8 +23,8 @@ document.addEventListener("DOMContentLoaded", function () {
   // link.href = "https://www.fre123.com/weekly?from=weekly";
   // link.textContent = "🔥 老胡精选周刊大全>>>";
 
-  link.href = "https://www.fre123.com/tech";
-  link.textContent = "🔥 技术资讯聚合页上新>>>";
+  link.href = "https://www.fre123.com/anime/s";
+  link.textContent = "🔥 做了个动漫搜索引擎>>>";
 
   link.target = "_blank";
   popup.appendChild(link);
