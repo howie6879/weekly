@@ -5,90 +5,100 @@
 
 ## 🎯 项目 
 
-### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
+### Command2API
 
-`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
+这是一个可以实时获取执行命令结果的脚本，脚本原理就是一个线程开启Web服务，一个线程执行命令，通过全局变量与Web服务共享执行命令的结果。
 
-![LuckysheetDemo](https://images-1252557999.file.myqcloud.com/uPic/LuckysheetDemo.gif) 
+![Command2API](https://images-1252557999.file.myqcloud.com/uPic/mcMhsP.jpg) 
 
-### [photoprism](https://github.com/photoprism/photoprism)
+### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
 
-基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
+🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
 
-![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
+| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
+| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
+| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
+| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
+| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
 
-### [form-create](https://github.com/xaboy/form-create)
+### [podman](https://github.com/containers/podman)
 
-强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
+`Podman` 是从 `CRI-O` 独立出来的一个项目，这是一个无守护进程的开源Linux 原生工具，旨在使用开放容器协议 (OCI) 容器和容器镜像轻松查找、运行、构建、共享和部署应用程序。
 
-![form-create](https://images-1252557999.file.myqcloud.com/uPic/demo-live3.gif) 
+受不了 Docker 桌面版的可以直接用这个替换，软件部分也介绍了 `Podman` 的桌面版 [podman-desktop](https://github.com/containers/podman-desktop)。
+
+![podman](https://images-1252557999.file.myqcloud.com/uPic/podman.jpg) 
 
 ## 🤖 软件 
 
-### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
+### [aidea](https://github.com/mylxsw/aidea)
 
-`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
+一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：
 
-![Miao](https://images-1252557999.file.myqcloud.com/uPic/Miao.png) 
+- 支持 GPT-3.5/4 问答聊天
+- 支持国产模型：通义千问，文心一言
+- 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
 
-### [automa](https://github.com/Kholid060/automa)
+![aidea](https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg) 
 
-`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
+### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
 
-![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
+安全、快速与轻量的远程桌面&文件管理工具：
 
-### [V2EX_Polish](https://github.com/coolpace/V2EX_Polish)
+![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
 
-专业的 V2EX 浏览器扩展，集合了众多实用功能，重塑你的浏览体验！
+### [xplorer](https://github.com/kimlimjustin/xplorer)
 
-- 🪄 界面美化：UI 设计更现代化，为你带来愉悦的视觉体验。
-- 📥 评论回复嵌套层级：主题下的评论回复支持层级展示，可以更轻松地跟踪和回复其他用户的评论。
-- 🔥 热门回复展示：自动筛选出最受欢迎的回复，第一时间追上热评。
-- 😀 表情回复支持：评论输入框可以选择表情，让回复更加生动和有趣。
-- 📃 长回复优化：智能折叠长篇回复，一键展开查看完整内容。
-- 📰 内置主题列表：无需打开网页，插件内即可快速获取最热、最新的主题列表和消息通知。
+支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
 
-![v2p](https://images-1252557999.file.myqcloud.com/uPic/v2p.png) 
+- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
+- 现代化且易用
+- 多种格式文件预览，音频也可以
+- ...
+
+![xplorer](https://images-1252557999.file.myqcloud.com/uPic/iLpUeJ.jpg)
+
+在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
 
 ## 👀 资料 
 
-### [free-for-dev](https://github.com/ripienaar/free-for-dev)
+### [zju-icicles](https://github.com/QSCTech/zju-icicles)
 
-对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
+浙江大学课程攻略共享计划：
 
-![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
+![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
 
-### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
+### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
 
-[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
+Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
 
-![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
+![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
 
-### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
+### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
 
-《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
+有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
 
-![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
+![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
 
 ## 🕸 网站 
 
-### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
+### [watermarkremover](https://www.watermarkremover.io/)
 
-来自阿里体系的各种技术资料，全部免费，个人非常推荐。
+通过AI技术去除图片水印：
 
-![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
+![watermarkremover](https://images-1252557999.file.myqcloud.com/uPic/watermarkremover.jpg) 
 
-### [linggle](https://linggle.com/)
+### [书葵網](https://www.shukui.net/)
 
-免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
+读者可以在此查询本馆的图书、期刊、古籍等信息。检索条件会自动匹配书名、作者、出版社、ISBN搜索，返回最优匹配结果：
 
-![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
+![shukui](https://images-1252557999.file.myqcloud.com/uPic/shukui.jpg) 
 
-### [纸砚双拼](https://blog.simplenaive.cn/shuangpin/#/)
+### [myfreemp3juices](https://myfreemp3juices.cc/)
 
-一个好看的双拼学习网站：
+可以免费在线听&下载歌曲：
 
-![zy_shuangpin](https://images-1252557999.file.myqcloud.com/uPic/zy_shuangpin.jpg) 
+![myfreemp3juices](https://images-1252557999.file.myqcloud.com/uPic/myfreemp3juices.jpg) 
 
 ## ✍️ 说明
 
