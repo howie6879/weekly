@@ -5,79 +5,104 @@
 
 ## 🎯 项目 
 
-### [cmdb](https://github.com/veops/cmdb)
+### [filebrowser](https://github.com/filebrowser/filebrowser)
 
-运维配置管理数据库，主要用来存放如服务器、应用等运维资产以及它们间的关系，是运维的权威数据库。主要功能包括模型管理和资源的查询，模型管理运维人员可以按照公司的内部的运维场景自己合理的设计，然后通过Agent自动上报和人工批量手动录入的方式写入模型对应的数据。对其他系统提供Restful API，便于做一些成本核算之类的工作。
+这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
 
-![cmdb](https://images-1252557999.file.myqcloud.com/uPic/cmdb.png) 
+除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
 
-### [50projects50days](https://github.com/bradtraversy/50projects50days)
+![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
 
-50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
+### [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)
 
-![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
+一个 `Calibre` 插件，可以将电子书翻译成指定的语言：
 
-### [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
+支持所选翻- 译引擎所支持的语言（如 Google 翻译支持 134 种）
+- 支持多种翻译引擎，包括 Google 翻译、ChatGPT 以及 DeepL
+- 支持自定义翻译引擎（支持解析 JSON 和 XML 格式响应）
+- 支持所有 Calibre 所支持的电子书格式（输入格式 48 种，输出格式 20 种）
+- 支持批量翻译电子书，每本书的翻译过程同时进行互不影响
+- 支持缓存翻译内容，在请求失败或网络中断后无需重新翻译
+- 提供大量自定义设置，如将翻译的电子书存到 Calibre 书库或指定位置
 
-直播源相关资源汇总 📺 💯 IPTV、M3U，让你不用安装有线电视就可以高清无卡顿的看电视。
+![Ebook-Translator-Calibre-Plugin](https://images-1252557999.file.myqcloud.com/uPic/Ebook-Translator-Calibre-Plugin.png) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/oQ6iZ0.jpg) 
+### [poster-design](https://github.com/palxiao/poster-design)
+
+一款漂亮且功能强大的在线海报图片设计器，仿稿定设计。适用于海报图片生成、电商分享图、文章长图、视频/公众号封面等多种场景，不过需要注意的是项目后端服务没有开源，特性如下：
+
+- 导入 PSD 文件解析成模板、在线导出图片下载
+- 元素拖拽、组合、缩放、层级调整、对齐等操作。
+- 图片素材插入、替换、裁剪，图片容器等功能。
+- SVG 素材颜色、透明度编辑，文字花字组合。
+- 画布自定义尺寸、滚轮缩放、自适应画布
+- 吸附对齐、辅助引导线、标尺功能。
+- 键盘快捷键、右键菜单快捷操作，复制删除等常用操作。
+- 风格二维码编辑，支持单色、渐变、自定义 logo 等。
+- 图层操作，支持拖拽变更层级。
+- 颜色调色板，原生级取色器颜色吸管（Chrome）
+
+![poster-design](https://images-1252557999.file.myqcloud.com/uPic/poster-design.jpg) 
 
 ## 🤖 软件 
 
-### [polyglot](https://github.com/liou666/polyglot)
+### [Tai](https://github.com/Planshit/Tai)
 
-Polyglot是一款多平台的桌面端应用程序。基于ChatGPT和Azure人工智能语言模型作为底层服务，使用Vue3+TS技术栈构建，旨在提供一个易于使用的语言练习平台，方便进行多语种的口语练习：
+👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
 
-![polyglot](https://images-1252557999.file.myqcloud.com/uPic/polyglot.png) 
+![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
 
-### [kopia](https://github.com/kopia/kopia)
+### [Wox](https://github.com/Wox-launcher/Wox)
 
-跨平台备份/还原工具，它能够将指定的文件和目录加密压缩后生成快照，然后上传到远程服务器或云存储，实现远程备份数据的功能，开箱即用支持命令行和 `GUI` 两种使用方式：
+Wox 是一款10年前开源的跨平台快速启动器，之前已经停更，最近开始更新了，计划在年底完成v2版本，新版本会跨平台，期待！
 
-![kopia](https://images-1252557999.file.myqcloud.com/uPic/kopia.webp) 
+![wox](https://images-1252557999.file.myqcloud.com/uPic/wox.jpg) 
 
-### [BlogHelper](https://github.com/onblog/BlogHelper)
+### [LibreraReader](https://github.com/foobnix/LibreraReader)
 
-帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
+安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
 
-![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
+![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
 
 ## 👀 资料 
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+### [llm-course](https://github.com/mlabonne/llm-course)
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+与大型语言模型(LLM)相关的笔记本和文章清单：
 
-### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
+![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
 
-公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
+### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+
+24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
+
+![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
 
 ## 🕸 网站 
 
-### [piqsels](https://www.piqsels.com/)
+### [fancymacbook](https://fancymacbook.app/)
 
-`Piqsels` 是又一个免版权的图库，免费商用：
+提供技术向软件搜索然后输出 `brew` 命令安装：
 
-![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
+![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
 
-### [qrgpt.io](https://www.qrgpt.io/)
+### [jsont.run](https://www.jsont.run/)
 
-`QRGPT` 使您能够在几秒钟内免费生成漂亮的 `AI` 二维码，非常简单：
+一个简洁的在线 `JSON` 解析器：
 
-![qrgpt](https://images-1252557999.file.myqcloud.com/uPic/qrgpt.jpg) 
+![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
 
-### [zlib.pro](https://zlib.pro/)
+### [latexlive](https://www.latexlive.com/)
 
-`Z-Library` 是一个书籍检索下载网站，这个网站提供了更方便的查找访问方式：
+免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
 
-![zlib-pro](https://images-1252557999.file.myqcloud.com/uPic/zlib-pro.jpg) 
+![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
 
 ## ✍️ 说明
 
