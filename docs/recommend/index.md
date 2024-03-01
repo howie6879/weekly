@@ -5,104 +5,97 @@
 
 ## 🎯 项目 
 
-### [filebrowser](https://github.com/filebrowser/filebrowser)
+### [osquery](https://github.com/osquery/osquery)
 
-这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
+像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
 
-除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
+![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
 
-![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
+### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
 
-### [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)
+最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
 
-一个 `Calibre` 插件，可以将电子书翻译成指定的语言：
+![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
 
-支持所选翻- 译引擎所支持的语言（如 Google 翻译支持 134 种）
-- 支持多种翻译引擎，包括 Google 翻译、ChatGPT 以及 DeepL
-- 支持自定义翻译引擎（支持解析 JSON 和 XML 格式响应）
-- 支持所有 Calibre 所支持的电子书格式（输入格式 48 种，输出格式 20 种）
-- 支持批量翻译电子书，每本书的翻译过程同时进行互不影响
-- 支持缓存翻译内容，在请求失败或网络中断后无需重新翻译
-- 提供大量自定义设置，如将翻译的电子书存到 Calibre 书库或指定位置
+### [dbsyncer](https://github.com/86dbs/dbsyncer)
 
-![Ebook-Translator-Calibre-Plugin](https://images-1252557999.file.myqcloud.com/uPic/Ebook-Translator-Calibre-Plugin.png) 
+`DBSyncer`（简称dbs）是一款开源的数据同步中间件，提供`MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL`等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
 
-### [poster-design](https://github.com/palxiao/poster-design)
+- 组合驱动，自定义库同步到库组合，关系型数据库与非关系型之间组合，任意搭配表同步映射关系
+- 实时监控，驱动全量或增量实时同步运行状态、结果、同步日志和系统日志
+- 开发插件，自定义转化同步逻辑
 
-一款漂亮且功能强大的在线海报图片设计器，仿稿定设计。适用于海报图片生成、电商分享图、文章长图、视频/公众号封面等多种场景，不过需要注意的是项目后端服务没有开源，特性如下：
-
-- 导入 PSD 文件解析成模板、在线导出图片下载
-- 元素拖拽、组合、缩放、层级调整、对齐等操作。
-- 图片素材插入、替换、裁剪，图片容器等功能。
-- SVG 素材颜色、透明度编辑，文字花字组合。
-- 画布自定义尺寸、滚轮缩放、自适应画布
-- 吸附对齐、辅助引导线、标尺功能。
-- 键盘快捷键、右键菜单快捷操作，复制删除等常用操作。
-- 风格二维码编辑，支持单色、渐变、自定义 logo 等。
-- 图层操作，支持拖拽变更层级。
-- 颜色调色板，原生级取色器颜色吸管（Chrome）
-
-![poster-design](https://images-1252557999.file.myqcloud.com/uPic/poster-design.jpg) 
+![dbsyncer](https://images-1252557999.file.myqcloud.com/uPic/dbsyncer.webp) 
 
 ## 🤖 软件 
 
-### [Tai](https://github.com/Planshit/Tai)
+### [ponymusic](https://github.com/wangchenyan/ponymusic)
 
-👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
+使用「网易云音乐API」的安卓在线音乐播放器：
 
-![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
+- 网易云音乐基本功能
+- 添加和播放本地音乐文件
+- 专辑封面显示
+- 歌词显示，支持拖动歌词调节播放进度
+- 通知栏控制
+- 夜间模式
+- 定时关闭
 
-### [Wox](https://github.com/Wox-launcher/Wox)
+![ponymusic](https://images-1252557999.file.myqcloud.com/uPic/ponymusic.jpg) 
 
-Wox 是一款10年前开源的跨平台快速启动器，之前已经停更，最近开始更新了，计划在年底完成v2版本，新版本会跨平台，期待！
+### [CatchMouse](https://github.com/round/CatchMouse)
 
-![wox](https://images-1252557999.file.myqcloud.com/uPic/wox.jpg) 
+如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
 
-### [LibreraReader](https://github.com/foobnix/LibreraReader)
+### [Rectangle](https://github.com/rxhanson/Rectangle)
 
-安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
+`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
 
-![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
+![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
 
 ## 👀 资料 
 
-### [llm-course](https://github.com/mlabonne/llm-course)
+### [tmplink/ipv6](https://github.com/tmplink/ipv6)
 
-与大型语言模型(LLM)相关的笔记本和文章清单：
+本文档主要讲解 IPv6 的一些皮毛知识，主要是让读者理解 IPv6 地址的一些概念，诸如前缀，子网，接口。 
 
-![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
+### [hello-algo](https://github.com/krahets/hello-algo)
 
-### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
+[Hello 算法](https://www.hello-algo.com/)是一本动画图解、能运行、可提问的数据结构与算法入门书，本书面向数据结构与算法初学者，致力于达成以下目标：
 
-张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
+- 开源免费，所有同学都可在网上获取本书；
+- 新手友好，适合算法初学者自主学习入门；
+- 动画讲解，尽可能地保证平滑的学习曲线；
+- 代码导向，提供精简、可运行的算法代码；
+- 讨论学习，提问一般能在三日内得到回复；
 
-![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
+![hello-algo](https://images-1252557999.file.myqcloud.com/uPic/hello-algo.jpg) 
 
-### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+### [zju-icicles](https://github.com/QSCTech/zju-icicles)
 
-24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
+浙江大学课程攻略共享计划：
 
-![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
+![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
 
 ## 🕸 网站 
 
-### [fancymacbook](https://fancymacbook.app/)
+### [zlib.pro](https://zlib.pro/)
 
-提供技术向软件搜索然后输出 `brew` 命令安装：
+`Z-Library` 是一个书籍检索下载网站，这个网站提供了更方便的查找访问方式：
 
-![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
+![zlib-pro](https://images-1252557999.file.myqcloud.com/uPic/zlib-pro.jpg) 
 
-### [jsont.run](https://www.jsont.run/)
+### [法律时代导航](https://yesen.cn/)
 
-一个简洁的在线 `JSON` 解析器：
+法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
 
-![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
+![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
 
-### [latexlive](https://www.latexlive.com/)
+### [warp.dev](https://www.warp.dev/)
 
-免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
+一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
 
-![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
+![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
 
 ## ✍️ 说明
 
