@@ -5,97 +5,91 @@
 
 ## 🎯 项目 
 
-### [osquery](https://github.com/osquery/osquery)
+### [tiptop](https://github.com/nschloe/tiptop)
 
-像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
+类似`htop`的命令行系统资源监控工具：
 
-![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
+![tiptop](https://images-1252557999.file.myqcloud.com/uPic/tiptop.png) 
 
-### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
+### [Textual](https://github.com/Textualize/textual)
 
-最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
+`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
 
-![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
+![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
 
-### [dbsyncer](https://github.com/86dbs/dbsyncer)
+### [nn-editor](https://github.com/scarsty/nn-editor)
 
-`DBSyncer`（简称dbs）是一款开源的数据同步中间件，提供`MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL`等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
+Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经网络结构的简单编辑，或者某些特殊流程图的编辑。
 
-- 组合驱动，自定义库同步到库组合，关系型数据库与非关系型之间组合，任意搭配表同步映射关系
-- 实时监控，驱动全量或增量实时同步运行状态、结果、同步日志和系统日志
-- 开发插件，自定义转化同步逻辑
-
-![dbsyncer](https://images-1252557999.file.myqcloud.com/uPic/dbsyncer.webp) 
+![nn-editor](https://images-1252557999.file.myqcloud.com/uPic/By0C3O.jpg) 
 
 ## 🤖 软件 
 
-### [ponymusic](https://github.com/wangchenyan/ponymusic)
+### [Xit](https://github.com/Uncommon/Xit)
 
-使用「网易云音乐API」的安卓在线音乐播放器：
+`Mac OS`下开源免费的原生`Git`客户端 ：
 
-- 网易云音乐基本功能
-- 添加和播放本地音乐文件
-- 专辑封面显示
-- 歌词显示，支持拖动歌词调节播放进度
-- 通知栏控制
-- 夜间模式
-- 定时关闭
+![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
 
-![ponymusic](https://images-1252557999.file.myqcloud.com/uPic/ponymusic.jpg) 
+### [localsend](https://github.com/localsend/localsend)
 
-### [CatchMouse](https://github.com/round/CatchMouse)
+`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
 
-如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
+![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
+### [TTime](https://github.com/inkTimeRecord/TTime)
 
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+🚀 一款简洁高效的跨平台输入、截图、划词翻译软件：
 
-![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
+![TTime](https://images-1252557999.file.myqcloud.com/uPic/TTime.jpg)
+
+[Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#bob) 算是这类软件的鼻祖，之前我也推荐过 [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=pot#pot-desktop) ，大家酌情选择即可。 
 
 ## 👀 资料 
 
-### [tmplink/ipv6](https://github.com/tmplink/ipv6)
+### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
 
-本文档主要讲解 IPv6 的一些皮毛知识，主要是让读者理解 IPv6 地址的一些概念，诸如前缀，子网，接口。 
+一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
 
-### [hello-algo](https://github.com/krahets/hello-algo)
+![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
 
-[Hello 算法](https://www.hello-algo.com/)是一本动画图解、能运行、可提问的数据结构与算法入门书，本书面向数据结构与算法初学者，致力于达成以下目标：
+### [opensource-f2f](https://github.com/opensource-f2f)
 
-- 开源免费，所有同学都可在网上获取本书；
-- 新手友好，适合算法初学者自主学习入门；
-- 动画讲解，尽可能地保证平滑的学习曲线；
-- 代码导向，提供精简、可运行的算法代码；
-- 讨论学习，提问一般能在三日内得到回复；
+《开源面对面》是一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。
 
-![hello-algo](https://images-1252557999.file.myqcloud.com/uPic/hello-algo.jpg) 
+![osf2f](https://images-1252557999.file.myqcloud.com/uPic/osf2f.jpg) 
 
-### [zju-icicles](https://github.com/QSCTech/zju-icicles)
+### [Large Language Models Practical Course](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce)
 
-浙江大学课程攻略共享计划：
+开源([Large Language Models Practical Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course))的关于大型语言模型的实践课程，通过使用 `OpenAI` 和 `Hugging Face` 库的模型进行实际操作来提供实践经验，课程主要包括：
 
-![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
+- Techniques and Libraries
+- Projects
+- Enterprise Solutions
+
+![large-language-models-practical-course](https://images-1252557999.file.myqcloud.com/uPic/large-language-models-practical-course.jpg)
+
+> 附带一个 Mac 微调大模型的文章：[A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) 
 
 ## 🕸 网站 
 
-### [zlib.pro](https://zlib.pro/)
+### [RuTracker](https://rutracker.org/forum/index.php)
 
-`Z-Library` 是一个书籍检索下载网站，这个网站提供了更方便的查找访问方式：
+俄罗斯最大的盗版网站开放了，可以去上面找资源了：
 
-![zlib-pro](https://images-1252557999.file.myqcloud.com/uPic/zlib-pro.jpg) 
+![rutracker](https://images-1252557999.file.myqcloud.com/uPic/rutracker.jpg) 
 
-### [法律时代导航](https://yesen.cn/)
+### [纸砚双拼](https://blog.simplenaive.cn/shuangpin/#/)
 
-法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
+一个好看的双拼学习网站：
 
-![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
+![zy_shuangpin](https://images-1252557999.file.myqcloud.com/uPic/zy_shuangpin.jpg) 
 
-### [warp.dev](https://www.warp.dev/)
+### [relationship](https://passer-by.com/relationship/)
 
-一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
+中国亲戚关系计算器：
 
-![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
+![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
 
 ## ✍️ 说明
 
