@@ -5,112 +5,96 @@
 
 ## 🎯 项目 
 
-### [Linux-CN-archive](https://github.com/Linux-CN/archive/releases/tag/release)
+### [gitrec](https://github.com/gorse-io/gitrec)
 
-`Linux` 中国所有原创文章的 `Markdown` 内容备份:
+作者自己维护的Gorse推荐系统，开发了一款 Chrome 插件：
 
-![linux_cn_archive](https://images-1252557999.file.myqcloud.com/uPic/linux_cn_archive.jpg) 
+- 推荐每个热门项目的相似或者相关仓库；
+- 用 [Gorse](https://github.com/gorse-io/gorse) 生成的个性化推荐仓库替换 GitHub 官方的推荐结果。
 
-### [AgentGPT](https://github.com/reworkd/AgentGPT)
+目前支持 Chrome 和 Edge 两款浏览器：
 
-🤖 在您的浏览器中组装、配置和部署自主 AI 代理，可以简单理解成 `Auto-GPT` 的网页版：
+![gorse](https://images-1252557999.file.myqcloud.com/uPic/gorse.png) 
 
-- 通过向量数据库实现长期记忆 🧠
-- 通过语言链具备网络浏览能力 🌐
-- 与网站和人进行交互 👨‍👩‍👦
-- 通过文档 API 具备写作能力 📄
-- 保存代理运行 💾
-- 用户和身份验证 🔐
-- Stripe 集成以提供低限制付费版本（这样我们就不用担心基础设施成本）💵
+### [jspaint](https://github.com/1j01/jspaint)
 
-![agentgpt](https://images-1252557999.file.myqcloud.com/uPic/agentgpt.jpg) 
+怀旧画板项目，`JS Paint` 高度逼真地再现了 `MS Paint` 的每一个工具和菜单，甚至是鲜为人知的功能，它支持主题、附加文件类型和辅助功能，如眼睛凝视模式和语音识别：
 
-### [ChatGPT 项目推荐](https://weekly.howie6879.com/2023/02-13~02-18.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC079%E6%9C%9F%EF%BC%89.html?h=chatgpt#chatgpt)
+![jspaint](https://images-1252557999.file.myqcloud.com/uPic/jspaint.jpg)
 
-基于 `ChatGPT` 相关接口衍生的项目：
+直接在线体验 👉 [jspaint.app](https://jspaint.app/) 
 
-- [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)：显示 `ChatGPT` 响应和 `Google` 搜索结果的浏览器扩展
-- [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)：将 `ChatGPT` 集成到互联网上的每个文本框中。
-- [周报生成器](https://weeklyreport.avemaria.fun/zh)：简单描述工作内容帮你生成完整周报
-- [README 生成器](https://readme.rustc.cloud/zh)：帮你生成完整 Github README
-- [邮件生成器](https://email-helper.vercel.app/)：几秒钟内生成多语言商务邮件
-- [Teach Anything](https://www.teach-anything.com/)：几秒钟内得到想要的答案
-- [聊天简化器](https://chat-simplifier.imzbb.cc/zh)：简化聊天记录内容
-- [SiteExplainer](https://siteexplainer.vercel.app/)：输入网址，快速总结网站内容
-- [Dear Aibby](https://www.dearaibby.com/)：来自新机器灵魂的衷心建议
-- [TextSummarizer](https://text-summarizer-seven.vercel.app/)：在几秒钟内从文本生成摘要
-- [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)：支持 `ChatGPT` 的 `Visual Studio Code` 扩展，可以与 `ChatGPT` 配对编程
-- [editGPT](https://chrome.google.com/webstore/detail/editgpt/mognjodfeldknhobgbnkoomipkmlnnhk)：利用 ChatGPT 做文案修改编辑 
+### [dm-ticket](https://github.com/ClassmateLin/dm-ticket)
+
+大麦网自动购票, 支持 `docker` 一键部署:
+
+![dm-ticket](https://images-1252557999.file.myqcloud.com/uPic/dm-ticket.png) 
 
 ## 🤖 软件 
 
-### [LibreraReader](https://github.com/foobnix/LibreraReader)
+### [WeChatAI](https://github.com/bingryan/WeChatAI)
 
-安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
+技术交流群的群友 **@bingryan** 开发的，推荐一下，项目目的在于打造一个All in One的个人AI聊天助手：
 
-![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
+![WeChatAI](https://images-1252557999.file.myqcloud.com/uPic/WeChatAI.png) 
 
-### [jingmo](https://github.com/hefengbao/jingmo)
+### [BetterDummy](https://github.com/waydabber/BetterDummy)
 
-『京墨』开源免费的古诗词文（名句）、歇后语、成语、传统节日、绕口令等的阅读 `APP`：
+`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
 
-![jingmo](https://images-1252557999.file.myqcloud.com/uPic/EL9mYu.png) 
+![bd_menu](https://images-1252557999.file.myqcloud.com/uPic/bd_menu.png)
 
-### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
 
-一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
+### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
-- 配置app启动默认输入法。
-- app来回切换，保持app切出前的使用的输入法。
-- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
-- 悬浮窗口支持
+开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
 
-![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
+![hitomi](https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif) 
 
 ## 👀 资料 
 
-### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
+### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
 
-打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
+这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
-![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
+之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.com/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
 
-### [JavaScript30](https://github.com/wesbos/JavaScript30)
+### RustBook
 
-30 天 JS 挑战，助力学习提升 JS 技巧：
+一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
 
-![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
+![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg) 
 
-### [高并发的哲学原理](https://github.com/johnlui/PPHC)
+### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
 
-![banner](https://images-1252557999.file.myqcloud.com/uPic/banner.jpg)
+针对新人的 `CSS` 入门级教程：
 
-`PPHC` 将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCI-E 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。 
+![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
+
+在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
 
 ## 🕸 网站 
 
-### [tableconvert](https://tableconvert.com/)
+### [it-tools](https://it-tools.tech/)
 
-`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
+面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
 
-![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
+![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
 
-### [yima.me](https://yima.me/)
+也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
 
-免费生成 `AI` 艺术二维码：
+### [jsont.run](https://www.jsont.run/)
 
-![yima](https://images-1252557999.file.myqcloud.com/uPic/yima.png) 
+一个简洁的在线 `JSON` 解析器：
 
-### [programcreek](https://www.programcreek.com/)
+![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
 
-网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
+### [pika](https://pika.style/)
 
-- [Python](https://www.programcreek.com/python/)
-- [Java](https://www.programcreek.com/java-api-examples/)
-- [C++](https://www.programcreek.com/cpp/)
-- [Scala](https://www.programcreek.com/scala/)
+[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
 
-![programcreek](https://images-1252557999.file.myqcloud.com/uPic/YdAEPq.png) 
+![pika](https://images-1252557999.file.myqcloud.com/uPic/pika.jpg) 
 
 ## ✍️ 说明
 
