@@ -12,7 +12,76 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 25 Feb 2024 15:59:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 15:46:08 +0000</lastBuildDate>
+    <item>
+      <title>02-26~03-03.老胡的周刊（第131期）.md</title>
+      <link>https://weekly.howie6879.com/2024/02-26~03-03.老胡的周刊（第131期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/02-26~03-03.老胡的周刊（第131期）.html"&gt;02-26~03-03.老胡的周刊（第131期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/cooderl/wewe-rss"&gt;wewe-rss&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。&lt;/p&gt;
+&lt;p&gt;之前老胡也研究过这种方式，是可行的，但操作频繁依旧会被&lt;strong&gt;风控&lt;/strong&gt;，目前看 &lt;code&gt;Issue&lt;/code&gt; 有人被关了小黑屋，所以大家使用的话还是需要注意。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="wewe-rss" src="https://images-1252557999.file.myqcloud.com/uPic/wewe-rss.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;注意：项目并非 &lt;strong&gt;100%&lt;/strong&gt; 完全开源。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/levihsu/OOTDiffusion"&gt;OOTDiffusion&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;这个项目是 &lt;code&gt;OOTDiffusion&lt;/code&gt; 的官方实现，快速基于你上传的模特和图片生成产品效果图，AI 模特不是梦，点击 &lt;a href="https://ootd.ibot.cn/"&gt;ootd&lt;/a&gt; 体验：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ootd" src="https://images-1252557999.file.myqcloud.com/uPic/ootd.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/qarmin/czkawka"&gt;czkawka&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一款简单、快速和免费的开源跨平台应用程序，可以从您的计算机中删除不必要的文件。&lt;/p&gt;
+&lt;p&gt;支持扫描计算机上重复、空文件夹、大文件、相似图像/视频/音乐、无效/损坏文件等内容，扫描速度极快。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="czkawka" src="https://images-1252557999.file.myqcloud.com/uPic/czkawka.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/elroy93/12306spy"&gt;12306spy&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;从12306购票，从A点到B点没有票，但是可以补票或者多买一段票。这个项目可以让你通过这种方式买到票：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="12306spy" src="https://images-1252557999.file.myqcloud.com/uPic/12306spy.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/guozhigq/pilipala"&gt;pilipala&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;使用 &lt;code&gt;Flutter&lt;/code&gt; 开发的 &lt;code&gt;BiliBili&lt;/code&gt; 第三方客户端，专为提高用户在观看BiliBili视频时的体验而设计：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pilipala" src="https://images-1252557999.file.myqcloud.com/uPic/pilipala.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/InfpHub/Raptor"&gt;Raptor&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;使用 &lt;code&gt;Qt&lt;/code&gt; 和 &lt;code&gt;C++&lt;/code&gt; 构建的低内存、小而美的第三方阿里云盘 &lt;code&gt;Windows&lt;/code&gt; 桌面应用客户端🚀&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧬 用户 - 持久化登录，多用户登录，多用户切换&lt;/li&gt;
+&lt;li&gt;📉 文件（夹） - 创建/多级创建文件夹/重命名/搜索&lt;/li&gt;
+&lt;li&gt;💅 文件（夹） - 移动/复制&lt;/li&gt;
+&lt;li&gt;✅ 文件（夹） - 上传/下载/唤起第三方下载器下载&lt;/li&gt;
+&lt;li&gt;🎪 视频 - MPV/VLC/PotPlayer&lt;/li&gt;
+&lt;li&gt;💸 分享 - 创建分享/导入分享&lt;/li&gt;
+&lt;li&gt;🦹🏻‍♀️ 秒传 - 创建秒传/导入秒传&lt;/li&gt;
+&lt;li&gt;⭐️ 收藏 - 收藏/取消收藏/搜索&lt;/li&gt;
+&lt;li&gt;🕵️‍♂️ 回收站 - 清空/删除/恢复&lt;/li&gt;
+&lt;li&gt;📚 Plus - 跨网盘文件复制&lt;/li&gt;
+&lt;li&gt;🏅 UI - 可自由修改的字体，图标与主题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href="https://github.com/hovancik/stretchly"&gt;stretchly&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Stretchly&lt;/code&gt; 是一个跨平台的 &lt;code&gt;Electron&lt;/code&gt; 应用程序，它的核心功能就是让你在电脑上面工作时候设定休息&amp;amp;提醒时间：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="stretchly" src="https://images-1252557999.file.myqcloud.com/uPic/stretchly.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html"&gt;法律文库&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="justlaws" src="https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.fre123.com/anime/n"&gt;动漫新番表&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;继上周做了&lt;a href="https://www.fre123.com/anime/s"&gt;动漫搜索引擎&lt;/a&gt;后，老胡这次整了个动漫新番信息记录网站，新番信息脚本和数据都是开源的👉&lt;a href="https://github.com/fre123-com/fre123-anime"&gt;fre123-anime&lt;/a&gt;，欢迎体验：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="fre123_anime_n" src="https://images-1252557999.file.myqcloud.com/uPic/fre123_anime_n.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://chuhai.tools/"&gt;chuhai.tools&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;独立开发者出海技术栈和工具集合:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="chuhai" src="https://images-1252557999.file.myqcloud.com/uPic/chuhai.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://weekly.fre123.com/"&gt;https://weekly.fre123.com/&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">02-26~03-03.老胡的周刊（第131期）.md</guid>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>02-19~02-25.老胡的周刊（第130期）.md</title>
       <link>https://weekly.howie6879.com/2024/02-19~02-25.老胡的周刊（第130期）.html</link>
