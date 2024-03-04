@@ -5,76 +5,83 @@
 
 ## 🎯 项目 
 
-### [gitrec](https://github.com/gorse-io/gitrec)
+### [novu](https://github.com/novuhq/novu)
 
-作者自己维护的Gorse推荐系统，开发了一款 Chrome 插件：
+这是一个开源的基础设施项目，用于快速搭建通知中心，`Novu` 提供了一个统一的 `API`，使通过多个通道（包括应用内、推送、电子邮件、短信和聊天）发送通知变得简单：
 
-- 推荐每个热门项目的相似或者相关仓库；
-- 用 [Gorse](https://github.com/gorse-io/gorse) 生成的个性化推荐仓库替换 GitHub 官方的推荐结果。
+![novu](https://images-1252557999.file.myqcloud.com/uPic/novu.jpg) 
 
-目前支持 Chrome 和 Edge 两款浏览器：
+### [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt)
 
-![gorse](https://images-1252557999.file.myqcloud.com/uPic/gorse.png) 
+🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 
-### [jspaint](https://github.com/1j01/jspaint)
+![feishu-chatgpt](https://images-1252557999.file.myqcloud.com/uPic/feishu-chatgpt.png) 
 
-怀旧画板项目，`JS Paint` 高度逼真地再现了 `MS Paint` 的每一个工具和菜单，甚至是鲜为人知的功能，它支持主题、附加文件类型和辅助功能，如眼睛凝视模式和语音识别：
+### [Chat2DB](https://github.com/chat2db/Chat2DB)
 
-![jspaint](https://images-1252557999.file.myqcloud.com/uPic/jspaint.jpg)
+`Chat2DB` 是一款有开源免费的智能且多功能的SQL客户端和报表工具，适用于各种数据库：
 
-直接在线体验 👉 [jspaint.app](https://jspaint.app/) 
+- 🌈 AI智能助手，支持自然语言转SQL、SQL转自然语言、SQL优化建议
+- 🔥 SQL查询、AI查询和数据报表完美集成的一体化解决方案设计与实现
+- 👭 支持团队协作，研发无需知道线上数据库密码，解决企业数据库账号安全问题
+- ⚙️ 强大的数据管理能力，支持数据表、视图、存储过程、函数、触发器、索引、序列、用户、角色、授权等管理
+- 🔌 强大的扩展能力，目前已经支持MySQL、PostgreSQL、Oracle、SQLServer、ClickHouse、OceanBase、H2、SQLite等等，未来会支持更多的数据库
+- 🛡 前端使用 Electron 开发，提供 Windows、Mac、Linux 客户端、网页版本一体化的解决方案
+- 🎁 支持环境隔离、线上、日常数据权限分离
 
-### [dm-ticket](https://github.com/ClassmateLin/dm-ticket)
-
-大麦网自动购票, 支持 `docker` 一键部署:
-
-![dm-ticket](https://images-1252557999.file.myqcloud.com/uPic/dm-ticket.png) 
+![Chat2DB](https://images-1252557999.file.myqcloud.com/uPic/Chat2DB.png) 
 
 ## 🤖 软件 
 
-### [WeChatAI](https://github.com/bingryan/WeChatAI)
+### [IconChanger](https://github.com/underthestars-zhy/IconChanger)
 
-技术交流群的群友 **@bingryan** 开发的，推荐一下，项目目的在于打造一个All in One的个人AI聊天助手：
+`IconChanger` 是一个可以更换App图标的应用程序，它简化了你更换图标的流程：
 
-![WeChatAI](https://images-1252557999.file.myqcloud.com/uPic/WeChatAI.png) 
+![IconChanger](https://images-1252557999.file.myqcloud.com/uPic/IconChanger.png) 
 
-### [BetterDummy](https://github.com/waydabber/BetterDummy)
+### [全是漫画](https://github.com/hongchacha/cartoon)
 
-`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
+全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
 
-![bd_menu](https://images-1252557999.file.myqcloud.com/uPic/bd_menu.png)
+![comic](https://images-1252557999.file.myqcloud.com/uPic/FXXmY5.jpg) 
 
-如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
+### [Xit](https://github.com/Uncommon/Xit)
 
-### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+`Mac OS`下开源免费的原生`Git`客户端 ：
 
-开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
-
-![hitomi](https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif) 
+![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
 
 ## 👀 资料 
 
-### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
+### [Student-resources](https://github.com/ivmm/Student-resources)
 
-这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
+本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
 
-之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.com/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
+### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
 
-### RustBook
+本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
 
-一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
+![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
 
-![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg) 
+### [Midjourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
 
-### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
+一份 `Midjourney` 学习教程：
 
-针对新人的 `CSS` 入门级教程：
-
-![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
-
-在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
+![midjourney-learning-path](https://images-1252557999.file.myqcloud.com/uPic/midjourney-learning-path.jpg) 
 
 ## 🕸 网站 
+
+### [olocr.com](https://olocr.com)
+
+一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
+
+![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
+
+### [meow.tg](https://meow.tg/)
+
+TG喵-可能是最懂你的Telegram资源搜索引擎:
+
+![meow](https://images-1252557999.file.myqcloud.com/uPic/meow.jpg) 
 
 ### [it-tools](https://it-tools.tech/)
 
@@ -83,18 +90,6 @@
 ![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
 
 也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
-
-### [jsont.run](https://www.jsont.run/)
-
-一个简洁的在线 `JSON` 解析器：
-
-![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
-
-### [pika](https://pika.style/)
-
-[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
-
-![pika](https://images-1252557999.file.myqcloud.com/uPic/pika.jpg) 
 
 ## ✍️ 说明
 
