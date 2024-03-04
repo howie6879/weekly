@@ -5,91 +5,89 @@
 
 ## 🎯 项目 
 
-### [novu](https://github.com/novuhq/novu)
+### [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
 
-这是一个开源的基础设施项目，用于快速搭建通知中心，`Novu` 提供了一个统一的 `API`，使通过多个通道（包括应用内、推送、电子邮件、短信和聊天）发送通知变得简单：
+科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能：
 
-![novu](https://images-1252557999.file.myqcloud.com/uPic/novu.jpg) 
+![chatgpt_academic](https://images-1252557999.file.myqcloud.com/uPic/chatgpt_academic.png) 
 
-### [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt)
+### [budibase](https://github.com/Budibase/budibase)
 
-🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
 
-![feishu-chatgpt](https://images-1252557999.file.myqcloud.com/uPic/feishu-chatgpt.png) 
+![budibase](https://images-1252557999.file.myqcloud.com/uPic/bCfcQe.jpg) 
 
-### [Chat2DB](https://github.com/chat2db/Chat2DB)
+### [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
 
-`Chat2DB` 是一款有开源免费的智能且多功能的SQL客户端和报表工具，适用于各种数据库：
+国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。
 
-- 🌈 AI智能助手，支持自然语言转SQL、SQL转自然语言、SQL优化建议
-- 🔥 SQL查询、AI查询和数据报表完美集成的一体化解决方案设计与实现
-- 👭 支持团队协作，研发无需知道线上数据库密码，解决企业数据库账号安全问题
-- ⚙️ 强大的数据管理能力，支持数据表、视图、存储过程、函数、触发器、索引、序列、用户、角色、授权等管理
-- 🔌 强大的扩展能力，目前已经支持MySQL、PostgreSQL、Oracle、SQLServer、ClickHouse、OceanBase、H2、SQLite等等，未来会支持更多的数据库
-- 🛡 前端使用 Electron 开发，提供 Windows、Mac、Linux 客户端、网页版本一体化的解决方案
-- 🎁 支持环境隔离、线上、日常数据权限分离
-
-![Chat2DB](https://images-1252557999.file.myqcloud.com/uPic/Chat2DB.png) 
+虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！ 
 
 ## 🤖 软件 
 
-### [IconChanger](https://github.com/underthestars-zhy/IconChanger)
+### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
 
-`IconChanger` 是一个可以更换App图标的应用程序，它简化了你更换图标的流程：
+网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
 
-![IconChanger](https://images-1252557999.file.myqcloud.com/uPic/IconChanger.png) 
+![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
 
-### [全是漫画](https://github.com/hongchacha/cartoon)
+### [onepoint](https://github.com/onepointAI/onepoint)
 
-全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
+Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
 
-![comic](https://images-1252557999.file.myqcloud.com/uPic/FXXmY5.jpg) 
+借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
 
-### [Xit](https://github.com/Uncommon/Xit)
+![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
 
-`Mac OS`下开源免费的原生`Git`客户端 ：
+### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
 
-![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
+`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
+
+![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
 
 ## 👀 资料 
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
 
-### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
+- 学习应用开发所需的 prompt engineering 最佳实践
+- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
+- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
 
-本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
+![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
 
-![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
+### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
 
-### [Midjourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
+《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
 
-一份 `Midjourney` 学习教程：
+![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
 
-![midjourney-learning-path](https://images-1252557999.file.myqcloud.com/uPic/midjourney-learning-path.jpg) 
+### [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note)
+
+从0开始学习英语语法的开源项目：
+
+![english-note](https://images-1252557999.file.myqcloud.com/uPic/english-note.jpg) 
 
 ## 🕸 网站 
 
-### [olocr.com](https://olocr.com)
+### [upstract](https://upstract.com/)
 
-一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
+比较全面的新闻聚合平台：
 
-![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
+![upstract](https://images-1252557999.file.myqcloud.com/uPic/upstract.jpg) 
 
-### [meow.tg](https://meow.tg/)
+### [roadmap.sh](https://roadmap.sh/)
 
-TG喵-可能是最懂你的Telegram资源搜索引擎:
+这是一个开源免费的项目，主要是提供了各种技术栈的学习路线：
 
-![meow](https://images-1252557999.file.myqcloud.com/uPic/meow.jpg) 
+![roadmap](https://images-1252557999.file.myqcloud.com/uPic/roadmap.jpg) 
 
-### [it-tools](https://it-tools.tech/)
+### [flow](https://github.com/pacexy/flow)
 
-面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
+开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
 
-![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
-
-也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
+![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
 
 ## ✍️ 说明
 
