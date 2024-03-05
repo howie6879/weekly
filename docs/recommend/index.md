@@ -5,89 +5,100 @@
 
 ## 🎯 项目 
 
-### [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
+### [ChatGPT 项目推荐](https://weekly.howie6879.com/2023/02-13~02-18.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC079%E6%9C%9F%EF%BC%89.html?h=chatgpt#chatgpt)
 
-科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能：
+基于 `ChatGPT` 相关接口衍生的项目：
 
-![chatgpt_academic](https://images-1252557999.file.myqcloud.com/uPic/chatgpt_academic.png) 
+- [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)：显示 `ChatGPT` 响应和 `Google` 搜索结果的浏览器扩展
+- [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)：将 `ChatGPT` 集成到互联网上的每个文本框中。
+- [周报生成器](https://weeklyreport.avemaria.fun/zh)：简单描述工作内容帮你生成完整周报
+- [README 生成器](https://readme.rustc.cloud/zh)：帮你生成完整 Github README
+- [邮件生成器](https://email-helper.vercel.app/)：几秒钟内生成多语言商务邮件
+- [Teach Anything](https://www.teach-anything.com/)：几秒钟内得到想要的答案
+- [聊天简化器](https://chat-simplifier.imzbb.cc/zh)：简化聊天记录内容
+- [SiteExplainer](https://siteexplainer.vercel.app/)：输入网址，快速总结网站内容
+- [Dear Aibby](https://www.dearaibby.com/)：来自新机器灵魂的衷心建议
+- [TextSummarizer](https://text-summarizer-seven.vercel.app/)：在几秒钟内从文本生成摘要
+- [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)：支持 `ChatGPT` 的 `Visual Studio Code` 扩展，可以与 `ChatGPT` 配对编程
+- [editGPT](https://chrome.google.com/webstore/detail/editgpt/mognjodfeldknhobgbnkoomipkmlnnhk)：利用 ChatGPT 做文案修改编辑 
 
-### [budibase](https://github.com/Budibase/budibase)
+### [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
 
-`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
+使用 `Next.js、Type Script & Tailwind CSS` 构建的 `ChatGPT` 交互界面：
 
-![budibase](https://images-1252557999.file.myqcloud.com/uPic/bCfcQe.jpg) 
+![chatbot-ui](https://images-1252557999.file.myqcloud.com/uPic/chatbot-ui.png) 
 
-### [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
+### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
 
-国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。
+`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
 
-虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！ 
+![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
 
 ## 🤖 软件 
 
-### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
+### [cursor](https://github.com/getcursor/cursor)
 
-网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
+一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
 
-![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
+![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
 
-### [onepoint](https://github.com/onepointAI/onepoint)
+### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 
-Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
+`AnotherRedisDesktopManager` 是一个快速稳定好用的 `Redis` 跨平台桌面管理软件，更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值：
 
-借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
+![AnotherRedisDesktopManager](https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png) 
 
-![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
+### [codeapp](https://github.com/thebaselab/codeapp)
 
-### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
+为 `iPad` 构建一个成熟的代码编辑器：
 
-`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
-
-![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
+![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
 
 ## 👀 资料 
 
-### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
 
-吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
+吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
 
-- 学习应用开发所需的 prompt engineering 最佳实践
-- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
-- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
+![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
 
-![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
+### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
 
-### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
+本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
 
-《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
+我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
 
-![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
+无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
 
-### [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note)
+### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
 
-从0开始学习英语语法的开源项目：
+通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
 
-![english-note](https://images-1252557999.file.myqcloud.com/uPic/english-note.jpg) 
+- 通过编写测试学习 Go 语言
+- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
+- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
+
+![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
 
 ## 🕸 网站 
 
-### [upstract](https://upstract.com/)
+### [openfarm.cc](https://openfarm.cc/)
 
-比较全面的新闻聚合平台：
+[`OpenFarm`](https://github.com/openfarmcc/OpenFarm) 是一个开源项目，目标是教你如何种植农作物：
 
-![upstract](https://images-1252557999.file.myqcloud.com/uPic/upstract.jpg) 
+![openfarm](https://images-1252557999.file.myqcloud.com/uPic/openfarm.jpg) 
 
-### [roadmap.sh](https://roadmap.sh/)
+### [jsont.run](https://www.jsont.run/)
 
-这是一个开源免费的项目，主要是提供了各种技术栈的学习路线：
+一个简洁的在线 `JSON` 解析器：
 
-![roadmap](https://images-1252557999.file.myqcloud.com/uPic/roadmap.jpg) 
+![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
 
-### [flow](https://github.com/pacexy/flow)
+### [yalijuda](https://www.yalijuda.com)
 
-开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
+简单快捷的图片压缩体验，多种压缩模式可选，压缩图片清晰无锯齿：
 
-![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
+![www.yalijuda.com_yalijuda_sq0onjIiVg](https://images-1252557999.file.myqcloud.com/uPic/www.yalijuda.com_yalijuda_sq0onjIiVg.jpg) 
 
 ## ✍️ 说明
 
