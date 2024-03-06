@@ -5,6 +5,12 @@
 
 ## 🎯 项目 
 
+### [examor](https://github.com/codeacme17/examor)
+
+一个网站应用程序，借助 `ChatGPT` 让你根据自己的知识笔记进行考试，让你真正记住所学和所写：
+
+![examor](https://images-1252557999.file.myqcloud.com/uPic/examor.png) 
+
 ### [ChatGPT 项目推荐](https://weekly.howie6879.com/2023/02-13~02-18.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC079%E6%9C%9F%EF%BC%89.html?h=chatgpt#chatgpt)
 
 基于 `ChatGPT` 相关接口衍生的项目：
@@ -22,83 +28,67 @@
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)：支持 `ChatGPT` 的 `Visual Studio Code` 扩展，可以与 `ChatGPT` 配对编程
 - [editGPT](https://chrome.google.com/webstore/detail/editgpt/mognjodfeldknhobgbnkoomipkmlnnhk)：利用 ChatGPT 做文案修改编辑 
 
-### [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
+### [metersphere](https://github.com/metersphere/metersphere)
 
-使用 `Next.js、Type Script & Tailwind CSS` 构建的 `ChatGPT` 交互界面：
+[MeterSphere](https://metersphere.io/) 是一站式开源持续测试平台, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter、Selenium` 等主流开源标准，有效助力开发和测试团队充分利用云弹性进行高度可扩展的自动化测试，加速高质量的软件交付：
 
-![chatbot-ui](https://images-1252557999.file.myqcloud.com/uPic/chatbot-ui.png) 
-
-### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
-
-`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
-
-![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
+![metersphere](https://images-1252557999.file.myqcloud.com/uPic/metersphere.jpeg) 
 
 ## 🤖 软件 
 
-### [cursor](https://github.com/getcursor/cursor)
+### [lettura](https://github.com/zhanglun/lettura)
 
-一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
+基于 `Tauri` 的桌面 `RSS` 阅读器：
 
-![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
+![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
 
-### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+### [Alock](https://github.com/luoxuhai/Alock)
 
-`AnotherRedisDesktopManager` 是一个快速稳定好用的 `Redis` 跨平台桌面管理软件，更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值：
+Alock 是一款免费用于隐藏指定 App 的应用。使用 Alock 可以彻底地从 iPhone/iPad 上隐藏指定的 App，隐藏后的 App 在主屏幕、App资料库、搜索、系统设置中均不可见。最大程度保护您的隐私：
 
-![AnotherRedisDesktopManager](https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png) 
+![Alock](https://images-1252557999.file.myqcloud.com/uPic/Alock.jpg) 
 
-### [codeapp](https://github.com/thebaselab/codeapp)
+### [orange](https://github.com/naaive/orange)
 
-为 `iPad` 构建一个成熟的代码编辑器：
+基于`Rust`跨平台的文件搜索引擎：
 
-![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
+![Orange](https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg) 
 
 ## 👀 资料 
 
-### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
+### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
 
-吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
+张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
 
-![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
+![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
 
-### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
+ 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
 
-我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
+### [learn-regex](https://github.com/ziishaned/learn-regex)
 
-无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
-
-### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
-
-通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
-
-- 通过编写测试学习 Go 语言
-- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
-- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
-
-![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
+开源的正则表达式教程，有中文版，有在线示例。 
 
 ## 🕸 网站 
 
-### [openfarm.cc](https://openfarm.cc/)
+### [flomoapp](https://flomoapp.com/)
 
-[`OpenFarm`](https://github.com/openfarmcc/OpenFarm) 是一个开源项目，目标是教你如何种植农作物：
+flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
 
-![openfarm](https://images-1252557999.file.myqcloud.com/uPic/openfarm.jpg) 
+![flomoapp](https://images-1252557999.file.myqcloud.com/uPic/6G6qrd.jpg) 
 
-### [jsont.run](https://www.jsont.run/)
+### [纸砚双拼](https://blog.simplenaive.cn/shuangpin/#/)
 
-一个简洁的在线 `JSON` 解析器：
+一个好看的双拼学习网站：
 
-![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
+![zy_shuangpin](https://images-1252557999.file.myqcloud.com/uPic/zy_shuangpin.jpg) 
 
-### [yalijuda](https://www.yalijuda.com)
+### [bgsub](https://bgsub.cn/webapp)
 
-简单快捷的图片压缩体验，多种压缩模式可选，压缩图片清晰无锯齿：
+消除或者替换图像背景，无需上传图像：
 
-![www.yalijuda.com_yalijuda_sq0onjIiVg](https://images-1252557999.file.myqcloud.com/uPic/www.yalijuda.com_yalijuda_sq0onjIiVg.jpg) 
+![bgsub](https://images-1252557999.file.myqcloud.com/uPic/bgsub.jpg) 
 
 ## ✍️ 说明
 
