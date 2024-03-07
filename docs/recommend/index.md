@@ -5,84 +5,85 @@
 
 ## 🎯 项目 
 
-### [examor](https://github.com/codeacme17/examor)
+### [pushdeer](https://github.com/easychen/pushdeer)
 
-一个网站应用程序，借助 `ChatGPT` 让你根据自己的知识笔记进行考试，让你真正记住所学和所写：
+开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备：
 
-![examor](https://images-1252557999.file.myqcloud.com/uPic/examor.png) 
+![pushdeer](https://images-1252557999.file.myqcloud.com/uPic/pushdeer.jpg) 
 
-### [ChatGPT 项目推荐](https://weekly.howie6879.com/2023/02-13~02-18.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC079%E6%9C%9F%EF%BC%89.html?h=chatgpt#chatgpt)
+### [jina](https://github.com/jina-ai/jina)
 
-基于 `ChatGPT` 相关接口衍生的项目：
+![jina](https://images-1252557999.file.myqcloud.com/uPic/9MHbAU.png)
 
-- [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)：显示 `ChatGPT` 响应和 `Google` 搜索结果的浏览器扩展
-- [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)：将 `ChatGPT` 集成到互联网上的每个文本框中。
-- [周报生成器](https://weeklyreport.avemaria.fun/zh)：简单描述工作内容帮你生成完整周报
-- [README 生成器](https://readme.rustc.cloud/zh)：帮你生成完整 Github README
-- [邮件生成器](https://email-helper.vercel.app/)：几秒钟内生成多语言商务邮件
-- [Teach Anything](https://www.teach-anything.com/)：几秒钟内得到想要的答案
-- [聊天简化器](https://chat-simplifier.imzbb.cc/zh)：简化聊天记录内容
-- [SiteExplainer](https://siteexplainer.vercel.app/)：输入网址，快速总结网站内容
-- [Dear Aibby](https://www.dearaibby.com/)：来自新机器灵魂的衷心建议
-- [TextSummarizer](https://text-summarizer-seven.vercel.app/)：在几秒钟内从文本生成摘要
-- [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)：支持 `ChatGPT` 的 `Visual Studio Code` 扩展，可以与 `ChatGPT` 配对编程
-- [editGPT](https://chrome.google.com/webstore/detail/editgpt/mognjodfeldknhobgbnkoomipkmlnnhk)：利用 ChatGPT 做文案修改编辑 
+云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
 
-### [metersphere](https://github.com/metersphere/metersphere)
+相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
 
-[MeterSphere](https://metersphere.io/) 是一站式开源持续测试平台, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter、Selenium` 等主流开源标准，有效助力开发和测试团队充分利用云弹性进行高度可扩展的自动化测试，加速高质量的软件交付：
+### [Monit](https://github.com/fzf404/Monit)
 
-![metersphere](https://images-1252557999.file.myqcloud.com/uPic/metersphere.jpeg) 
+系统桌面小组件(用于展示各种信息)：
+
+![Monit](https://images-1252557999.file.myqcloud.com/uPic/Monit.webp) 
 
 ## 🤖 软件 
 
-### [lettura](https://github.com/zhanglun/lettura)
+### [wowtab](https://wowtab.microsoft.com/)
 
-基于 `Tauri` 的桌面 `RSS` 阅读器：
+微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：
 
-![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
+![wowtab](https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg) 
 
-### [Alock](https://github.com/luoxuhai/Alock)
+### [Upscayl](https://github.com/upscayl/upscayl)
 
-Alock 是一款免费用于隐藏指定 App 的应用。使用 Alock 可以彻底地从 iPhone/iPad 上隐藏指定的 App，隐藏后的 App 在主屏幕、App资料库、搜索、系统设置中均不可见。最大程度保护您的隐私：
+开源免费的跨平台无损图片放大工具：
 
-![Alock](https://images-1252557999.file.myqcloud.com/uPic/Alock.jpg) 
+![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
 
-### [orange](https://github.com/naaive/orange)
+### [Joplin](https://github.com/laurent22/joplin)
 
-基于`Rust`跨平台的文件搜索引擎：
+我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
 
-![Orange](https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg) 
+- 自建服务端
+- 第三方如坚果云等
+- 也可以基于云商，如腾讯云的`COS`
+
+> 这篇文章也是使用Joplin写的 
 
 ## 👀 资料 
 
-### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
+### [微信之父张小龙2351条饭否日记](https://docs.qq.com/doc/DWUVKZERkeGFLckp6?dver=)
 
-张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
+微信之父张小龙2351条饭否日记:
 
-![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
+![zxl_ff](https://images-1252557999.file.myqcloud.com/uPic/zxl_ff.jpg) 
 
-### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+### [1000h by 李笑来](https://1000h.org/)
 
- 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
+通过投入1000小时的注意力，你可以掌握任何你需要的东西：
 
-### [learn-regex](https://github.com/ziishaned/learn-regex)
+![1000h](https://images-1252557999.file.myqcloud.com/uPic/1000h.jpg) 
 
-开源的正则表达式教程，有中文版，有在线示例。 
+### [rosedb](https://github.com/flower-corp/rosedb)
+
+`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
+
+![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
+
+作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
 
 ## 🕸 网站 
 
-### [flomoapp](https://flomoapp.com/)
+### [shenyandayi](https://www.shenyandayi.com/)
 
-flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
+深言达意，懂文字更懂你：
 
-![flomoapp](https://images-1252557999.file.myqcloud.com/uPic/6G6qrd.jpg) 
+![shenyandayi](https://images-1252557999.file.myqcloud.com/uPic/shenyandayi.jpg) 
 
-### [纸砚双拼](https://blog.simplenaive.cn/shuangpin/#/)
+### [userscloud](https://userscloud.com/)
 
-一个好看的双拼学习网站：
+免费使用的云空间分享网页：
 
-![zy_shuangpin](https://images-1252557999.file.myqcloud.com/uPic/zy_shuangpin.jpg) 
+![userscloud](https://images-1252557999.file.myqcloud.com/uPic/userscloud.jpg) 
 
 ### [bgsub](https://bgsub.cn/webapp)
 
