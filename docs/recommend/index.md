@@ -5,91 +5,103 @@
 
 ## 🎯 项目 
 
-### [pushdeer](https://github.com/easychen/pushdeer)
+### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
 
-开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备：
+通过网络收集整理的中文歌词数据库, 包含:
 
-![pushdeer](https://images-1252557999.file.myqcloud.com/uPic/pushdeer.jpg) 
+- 绝大多数华语歌手在2019年之前的歌曲
+- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
+- 102197首歌曲, 平均每人25.4首歌
 
-### [jina](https://github.com/jina-ai/jina)
+作者基于此数据库做了两个歌词生成器：
 
-![jina](https://images-1252557999.file.myqcloud.com/uPic/9MHbAU.png)
+- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
+- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
 
-云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
+### [budibase](https://github.com/Budibase/budibase)
 
-相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
+`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
 
-### [Monit](https://github.com/fzf404/Monit)
+![budibase](https://images-1252557999.file.myqcloud.com/uPic/bCfcQe.jpg) 
 
-系统桌面小组件(用于展示各种信息)：
+### [penpot](https://github.com/penpot/penpot)
 
-![Monit](https://images-1252557999.file.myqcloud.com/uPic/Monit.webp) 
+`Penpot` 是第一个面向跨领域团队的开源设计和原型平台，基于 `Web`，对标 `Figma`:
+
+![penpot](https://images-1252557999.file.myqcloud.com/uPic/penpot.jpg) 
 
 ## 🤖 软件 
 
-### [wowtab](https://wowtab.microsoft.com/)
+### mizu
 
-微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：
+微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
 
-![wowtab](https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg) 
+![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
 
-### [Upscayl](https://github.com/upscayl/upscayl)
+### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
 
-开源免费的跨平台无损图片放大工具：
+基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
 
-![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
+![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
 
-### [Joplin](https://github.com/laurent22/joplin)
+### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
 
-我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
+M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
 
-- 自建服务端
-- 第三方如坚果云等
-- 也可以基于云商，如腾讯云的`COS`
+| 功能                 | 支持       |
+| -------------------- | ---------- |
+| HLS协议点播源        | ✓          |
+| 自定义Http协议头下载 | ✓          |
+| 自定义KEY和IV解密    | ✓          |
+| 本地M3U8文件下载     | ✓          |
+| M3U8 直播源          | ✓          |
+| 标准 AES-128-CBC加密 | ✓          |
+| 标准 AES-196-CBC加密 | ✓          |
+| 标准 AES-256-CBC加密 | ✓          |
+| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
+| 网页嗅探视频源       | ✓          |
 
-> 这篇文章也是使用Joplin写的 
+![HLSDownloadShow](https://images-1252557999.file.myqcloud.com/uPic/HLSDownloadShow.gif) 
 
 ## 👀 资料 
 
-### [微信之父张小龙2351条饭否日记](https://docs.qq.com/doc/DWUVKZERkeGFLckp6?dver=)
+### [comflowy](https://www.comflowy.com/zh-CN)
 
-微信之父张小龙2351条饭否日记:
+作者认为 `AI` 生图领域的未来一定是围绕 `Stable Diffusion` 展开，而 `ComfyUI` 相比于 `Stable Diffusion WebUI` 等其他开源产品具备非常强的差异化能力，它具备高度的扩展性和应用可能性，真正做到了让开发者和用户能够根据自己的需求打造个性化的生图流程。
 
-![zxl_ff](https://images-1252557999.file.myqcloud.com/uPic/zxl_ff.jpg) 
+![comflowy](https://images-1252557999.file.myqcloud.com/uPic/comflowy.jpg) 
 
-### [1000h by 李笑来](https://1000h.org/)
+### [101-rs](https://github.com/tweedegolf/101-rs)
 
-通过投入1000小时的注意力，你可以掌握任何你需要的东西：
+[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
 
-![1000h](https://images-1252557999.file.myqcloud.com/uPic/1000h.jpg) 
+![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
 
-### [rosedb](https://github.com/flower-corp/rosedb)
+### [netkiller](https://www.netkiller.cn/)
 
-`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
+作者持续写了将近20年的技术博文，涵盖面极广：
 
-![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
-
-作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
+![netkiller](https://images-1252557999.file.myqcloud.com/uPic/V7rzw3.png) 
 
 ## 🕸 网站 
 
-### [shenyandayi](https://www.shenyandayi.com/)
+### [the-algorithms](https://the-algorithms.com/zh_Hans)
 
-深言达意，懂文字更懂你：
+`GitHub` 最大的开源算法库：
 
-![shenyandayi](https://images-1252557999.file.myqcloud.com/uPic/shenyandayi.jpg) 
+![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
 
-### [userscloud](https://userscloud.com/)
+### [neeva](https://neeva.com/search)
 
-免费使用的云空间分享网页：
+前谷歌工程师构建的免费无广告的搜索引擎，搜索效果挺好：
 
-![userscloud](https://images-1252557999.file.myqcloud.com/uPic/userscloud.jpg) 
+![neeva](https://images-1252557999.file.myqcloud.com/uPic/neeva.jpg) 
 
-### [bgsub](https://bgsub.cn/webapp)
+### [yesicon.app](https://yesicon.app/)
 
-消除或者替换图像背景，无需上传图像：
+开源图标库聚合网站：
 
-![bgsub](https://images-1252557999.file.myqcloud.com/uPic/bgsub.jpg) 
+![yesicon](https://images-1252557999.file.myqcloud.com/uPic/yesicon.jpg) 
 
 ## ✍️ 说明
 
