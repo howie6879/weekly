@@ -5,103 +5,81 @@
 
 ## 🎯 项目 
 
-### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
+### [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
 
-通过网络收集整理的中文歌词数据库, 包含:
+国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。
 
-- 绝大多数华语歌手在2019年之前的歌曲
-- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
-- 102197首歌曲, 平均每人25.4首歌
+虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！ 
 
-作者基于此数据库做了两个歌词生成器：
+### [yft-design](https://github.com/dromara/yft-design)
 
-- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
-- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
+基于 `fabric.js` 的图片设计项目，使用 `Vue3 + TypeScript + Fabric.js + Element-Plus`，支持 文字、图片、形状、线条、二维码 、条形码几种最常用的元素类型，每一种元素都拥有高度可编辑能力，缩略图显示，模板，支持导出`json，svg, image`文件，支持 Docker 部署：
 
-### [budibase](https://github.com/Budibase/budibase)
+![yft-design](https://images-1252557999.file.myqcloud.com/uPic/yft-design.jpg) 
 
-`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
+### [moneynote-api](https://github.com/getmoneynote/moneynote-api)
 
-![budibase](https://images-1252557999.file.myqcloud.com/uPic/bCfcQe.jpg) 
+一个开源免费的记账解决方案，包括[后端](https://github.com/getmoneynote/moneynote-api)，[网页版](https://github.com/getmoneynote/moneywhere-user-fe)，[App](https://github.com/getmoneynote/moneywhere_user_flutter)，主要用于个人生活记账，开店收支记账，支持[ Docker 一键部署](https://github.com/getmoneynote/docker-compose-moneywhere)自己的记账程序：
 
-### [penpot](https://github.com/penpot/penpot)
-
-`Penpot` 是第一个面向跨领域团队的开源设计和原型平台，基于 `Web`，对标 `Figma`:
-
-![penpot](https://images-1252557999.file.myqcloud.com/uPic/penpot.jpg) 
+![moneynote-api](https://images-1252557999.file.myqcloud.com/uPic/moneynote-api.png) 
 
 ## 🤖 软件 
 
-### mizu
+### [shottr](https://shottr.cc/)
 
-微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
+免费截屏软件（macOS）：
 
-![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
+![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
 
-### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
+### [Vieb](https://vieb.dev/)
 
-基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
+开源免费的全平台（PC）`Vim`风格电子浏览器：
 
-![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
+![Vieb](https://images-1252557999.file.myqcloud.com/uPic/BqyWaK.png) 
 
-### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
+### [winlator](https://github.com/brunodev85/winlator)
 
-M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
-
-| 功能                 | 支持       |
-| -------------------- | ---------- |
-| HLS协议点播源        | ✓          |
-| 自定义Http协议头下载 | ✓          |
-| 自定义KEY和IV解密    | ✓          |
-| 本地M3U8文件下载     | ✓          |
-| M3U8 直播源          | ✓          |
-| 标准 AES-128-CBC加密 | ✓          |
-| 标准 AES-196-CBC加密 | ✓          |
-| 标准 AES-256-CBC加密 | ✓          |
-| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
-| 网页嗅探视频源       | ✓          |
-
-![HLSDownloadShow](https://images-1252557999.file.myqcloud.com/uPic/HLSDownloadShow.gif) 
+使用 `Wine & Box86/Box64` 的安卓应用程序，此项目特点是可以运行 `Windows` 应用程序。 
 
 ## 👀 资料 
 
-### [comflowy](https://www.comflowy.com/zh-CN)
+### [meetup](https://github.com/baiyutang/meetup)
 
-作者认为 `AI` 生图领域的未来一定是围绕 `Stable Diffusion` 展开，而 `ComfyUI` 相比于 `Stable Diffusion WebUI` 等其他开源产品具备非常强的差异化能力，它具备高度的扩展性和应用可能性，真正做到了让开发者和用户能够根据自己的需求打造个性化的生图流程。
+【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
 
-![comflowy](https://images-1252557999.file.myqcloud.com/uPic/comflowy.jpg) 
+![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
 
-### [101-rs](https://github.com/tweedegolf/101-rs)
+### [tuning_playbook_zh_cn](https://github.com/schrodingercatss/tuning_playbook_zh_cn)
 
-[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
+深度学习调优指南中文版，一本系统地教你将深度学习模型的性能最大化的战术手册：
 
-![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
+![tuning_playbook_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/tuning_playbook_zh_cn.jpg) 
 
-### [netkiller](https://www.netkiller.cn/)
+### [PDF Explained](https://github.com/zxyle/PDF-Explained)
 
-作者持续写了将近20年的技术博文，涵盖面极广：
-
-![netkiller](https://images-1252557999.file.myqcloud.com/uPic/V7rzw3.png) 
+ `PDF` 无处不在，无论是在线形式还是印刷形式，但很少有人利用这些有用的功能或掌握这种格式的细微差别。 这本简明的书籍为程序员，高级用户提供了世界领先的页面描述语言(pdf)的动手实践。以及搜索，电子出版和印刷行业的专业人士， 有大量示例，本书是你完全理解PDF所需的文档。
+ 
+ ![PDF-Explained](https://images-1252557999.file.myqcloud.com/uPic/PDF-Explained.jpg) 
 
 ## 🕸 网站 
 
-### [the-algorithms](https://the-algorithms.com/zh_Hans)
+### [zzollo](https://github.com/Sanix-Darker/zzollo)
 
-`GitHub` 最大的开源算法库：
+开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
 
-![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
+![zzollo](https://images-1252557999.file.myqcloud.com/uPic/NJXulr.png) 
 
-### [neeva](https://neeva.com/search)
+### [iconfont](https://www.iconfont.cn/)
 
-前谷歌工程师构建的免费无广告的搜索引擎，搜索效果挺好：
+阿里巴巴矢量图标库：
 
-![neeva](https://images-1252557999.file.myqcloud.com/uPic/neeva.jpg) 
+![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
 
-### [yesicon.app](https://yesicon.app/)
+### [freelancethings](https://www.freelancethings.co/)
 
-开源图标库聚合网站：
+为自由职业者精心挑选的资源，涉及到社区、工具、文章、书籍、视频等，这些都帮助你在自由职业之旅中获得更多帮助，订阅后每周发送到您的收件箱:
 
-![yesicon](https://images-1252557999.file.myqcloud.com/uPic/yesicon.jpg) 
+![freelancethings](https://images-1252557999.file.myqcloud.com/uPic/freelancethings.jpg) 
 
 ## ✍️ 说明
 
