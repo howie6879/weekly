@@ -5,11 +5,11 @@
 
 ## 🎯 项目 
 
-### [zdir](https://github.com/helloxz/zdir)
+### [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
-使用 `Golang + Vue3` 开发的轻量级目录列表程序，支持 `Linux、Docker、Windows` 部署，适合个人或初创公司文件分享使用，亦可作为轻量级网盘使用。
+`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
 
-![zdir](https://images-1252557999.file.myqcloud.com/uPic/zdir.jpg) 
+![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
 
 ### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
 
@@ -17,71 +17,71 @@
 
 ![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
 
-### [Casdoor](https://github.com/casdoor/casdoor)
+### [ml4a](https://github.com/ml4a/ml4a)
 
-Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
+`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
 
-![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
+![ml4a](https://images-1252557999.file.myqcloud.com/uPic/ml4a.jpg) 
 
 ## 🤖 软件 
 
-### [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
+### [LLMFarm](https://github.com/guinmoon/LLMFarm)
 
-`ZoomIt` 是一款用于屏幕缩放、注释和录制的演示工具，微软出品（大小仅 1M）：
+`LLMFarm` 是一款用于与大型语言模型（LLM）配合使用的iOS和MacOS应用程序，它允许您可以使用某些参数加载不同的 LLM：
 
-![ZoomIt](https://images-1252557999.file.myqcloud.com/uPic/ZoomIt.jpg) 
+![LLMFarm](https://images-1252557999.file.myqcloud.com/uPic/LLMFarm.jpg) 
 
-### [gushi_namer](https://github.com/holynova/gushi_namer)
+### [dockeye](https://github.com/vv9k/dockeye)
 
-古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
+基于`Rust`编写的`Docker`界面管理工具：
 
-![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
 
-从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
+### [MiniSim](https://github.com/okwasniewski/MiniSim)
 
-### [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
+一个 Mac 菜单栏软件，可以启动 iOS  或者 Android 🤖虚拟机：
 
-Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端，首页、书影音、小组、市集及个人中心：
-
-![FlutterDouBan](https://images-1252557999.file.myqcloud.com/uPic/FlutterDouBan.jpg) 
+![MiniSim](https://images-1252557999.file.myqcloud.com/uPic/MiniSim.png) 
 
 ## 👀 资料 
 
-### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
+### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
 
-从零开始学习Kubernetes的路线图（初级到高级）：
+一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
 
-![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
 
-### [Sora 学习手册](https://yunyinghui.feishu.cn/wiki/BaCEwe3AliqYERkc9dVcfW0BnXg)
+### [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book)
 
-基于飞书文档发布，包含一些 `Sora` 介绍，第三方技术拆解分享，研究报告，案例等内容，比较浅显但是可以作为了解的途径，里面的联系方式**慎加**。 
+`PeiQi` 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，`CTF` 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见。
 
-### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
+![PeiQi-WIKI-Book](https://images-1252557999.file.myqcloud.com/uPic/PeiQi-WIKI-Book.png) 
 
-吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
+### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
-![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
+微软开源的一份全面的数据科学课程，20个课时，历时10周：
+
+![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
 
 ## 🕸 网站 
 
-### [gemini-pro.chat](https://gemini-pro.chat/) 
+### [sysmini](https://www.sysmini.com/)
 
-免费的谷歌 `Gemini Chat Pro`，在线网站：
+站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
 
-![gemini-pro.chat](https://images-1252557999.file.myqcloud.com/uPic/gemini-pro.chat.jpg) 
+![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
 
-### [awesome-chatgpt-prompts](https://prompts.chat/)
+### [一证通查](https://getsimnum.caict.ac.cn/#/)
 
-`ChatGPT` 余热不减，一周百万用户果然不是盖的，这个项目总结了 `ChatGPT` 常用姿势：
+自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
 
-![prompts](https://images-1252557999.file.myqcloud.com/uPic/prompts.jpg) 
+![phone_query](https://images-1252557999.file.myqcloud.com/uPic/phone_query.png) 
 
-### [AnyBT](https://anybt.eth.limo/)
+### [flowgpt](https://flowgpt.com/)
 
-种子搜索引擎，下载你想要的资源：
+一个分享ChatGPT提示的网站：
 
-![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
+![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
 
 ## ✍️ 说明
 
