@@ -12,7 +12,80 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Mon, 04 Mar 2024 06:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 15:11:16 +0000</lastBuildDate>
+    <item>
+      <title>03-04~03-10.老胡的周刊（第132期）.md</title>
+      <link>https://weekly.howie6879.com/2024/03-04~03-10.老胡的周刊（第132期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/03-04~03-10.老胡的周刊（第132期）.html"&gt;03-04~03-10.老胡的周刊（第132期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/miniflux/v2"&gt;miniflux&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Miniflux&lt;/code&gt; 是一个极简主义的开源 &lt;code&gt;RSS&lt;/code&gt; 阅读器，它使用非常简单，可 &lt;code&gt;Docker&lt;/code&gt; 部署，这样就相当于你拥有了自己的 &lt;a href="https://feedly.com/"&gt;Feedly&lt;/a&gt; 服务，再结合一个漂亮的客户端如 &lt;a href="https://github.com/electh/ReactFlux"&gt;ReactFlux&lt;/a&gt;，用起来就很舒服 ：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="miniflux" src="https://images-1252557999.file.myqcloud.com/uPic/eyMYhc.png" /&gt;&lt;/p&gt;
+&lt;p&gt;其他类似开源有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://tt-rss.org/"&gt;Tiny Tiny RSS&lt;/a&gt;：一个免费且开源的基于网络的新闻订阅（RSS/Atom）阅读器和聚合器&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/FreshRSS/FreshRSS"&gt;FreshRSS&lt;/a&gt;：一个自托管的RSS订阅聚合器&lt;/li&gt;
+&lt;li&gt;基于以上项目构建后的客户端：&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/yang991178/fluent-reader"&gt;fluent-reader&lt;/a&gt;：现代化 &lt;code&gt;RSS&lt;/code&gt; 阅读器&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://netnewswire.com/"&gt;NetNewsWire&lt;/a&gt;：适用于 &lt;code&gt;Mac、iPhone&amp;amp;iPad&lt;/code&gt; 的免费开源 &lt;code&gt;RSS&lt;/code&gt; 阅读器&lt;/li&gt;
+&lt;li&gt;安卓 &lt;a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/README.md"&gt;feedme&lt;/a&gt;： 一个安卓 &lt;code&gt;RSS&lt;/code&gt; 阅读器，支持主流 &lt;code&gt;RSS&lt;/code&gt; 服务&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/michaelkremenetsky/Refeed"&gt;Refeed&lt;/a&gt;：好看的现代化客户端&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href="https://github.com/HeyPuter/puter"&gt;puter&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Puter&lt;/code&gt; 是一个在浏览器中运行的开源桌面环境，可用于构建远程桌面、与云服务交互或作为其他云存储平台的替代品，旨在以轻量级的方式直接在浏览器中带来桌面体验。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Puter" src="https://images-1252557999.file.myqcloud.com/uPic/Puter.webp" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/SoraWebui/SoraWebui"&gt;SoraWebui&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;SoraWebui&lt;/code&gt; 是一个开源项目，允许用户使用 &lt;code&gt;OpenAI&lt;/code&gt; 的 &lt;code&gt;Sora&lt;/code&gt; 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="SoraWebui" src="https://images-1252557999.file.myqcloud.com/uPic/SoraWebui.jpeg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/floccusaddon/floccus"&gt;floccus&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Floccus&lt;/code&gt; 是一个开源的浏览器书签同步项目，它支持 &lt;code&gt;Firefox、Chrome、Edge&lt;/code&gt;等浏览器书签同步：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="floccus" src="https://images-1252557999.file.myqcloud.com/uPic/floccus.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/pdone/FreeControl"&gt;FreeControl&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;在 &lt;code&gt;PC&lt;/code&gt; 上控制 &lt;code&gt;Android&lt;/code&gt; 设备，基于开源项目&lt;ins&gt;&lt;strong&gt;scrcpy&lt;/strong&gt;&lt;/ins&gt;，提供简洁的交互界面。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;编码语言 &lt;code&gt;C#&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;开发工具 &lt;code&gt;Visual Studio 2022&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;运行环境 &lt;code&gt;.NET Framework 4.7.2&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="FreeControl" src="https://images-1252557999.file.myqcloud.com/uPic/FreeControl.gif" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Bistutu/FluentRead"&gt;FluentRead&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个开源油猴脚本，拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="FluentRead" src="https://images-1252557999.file.myqcloud.com/uPic/FluentRead.gif" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/liguodongiot/llm-action"&gt;llm-action&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本项目旨在分享大模型相关技术原理以及实战经验，让天下没有难学的大模型：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="llm-action" src="https://images-1252557999.file.myqcloud.com/uPic/llm-action.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://101.lug.ustc.edu.cn/"&gt;Linux 101&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本书由中国科学技术大学 Linux 用户协会的数名优秀成员协力编写，用于配套和延展“Linux 101”校内社团活动。其面向 Linux 零基础读者，从计算机操作系统和 Linux 的起源讲起，深入浅出带领读者一步步逐渐掌握最必要的 Linux 实用知识，并在其中感悟到社区开源文化的魅力：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Linux101-docs" src="https://images-1252557999.file.myqcloud.com/uPic/Linux101-docs.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/xue160709/Local-LLM-User-Guideline/blob/main/README-zh.md"&gt;Local-LLM-User-Guideline&lt;/a&gt;：&lt;/h3&gt;
+&lt;p&gt;本地 LLM 使用指南，这个构建你自己的 AI 辅助编码助手项目也不错，参考玩玩👀&lt;a href="https://github.com/unit-mesh/build-your-ai-coding-assistant"&gt;build-your-ai-coding-assistant&lt;/a&gt;：介绍如何 DIY 一个端到端（从 IDE 插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 &lt;code&gt;GitHub Copilot、JetBrains AI Assistant、AutoDev&lt;/code&gt; 等。&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://aspoem.com/"&gt;aspoem&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;现代化中国诗词学习网站 - 更加注重 UI、阅读体验：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="aspoem" src="https://images-1252557999.file.myqcloud.com/uPic/aspoem.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://t.kuaitu.cc/"&gt;极简番茄&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;极简优雅的番茄时钟软件，适合做屏保：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="kuaitu" src="https://images-1252557999.file.myqcloud.com/uPic/kuaitu.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;https://weekly.fre123.com/：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">03-04~03-10.老胡的周刊（第132期）.md</guid>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>02-26~03-03.老胡的周刊（第131期）.md</title>
       <link>https://weekly.howie6879.com/2024/02-26~03-03.老胡的周刊（第131期）.html</link>
