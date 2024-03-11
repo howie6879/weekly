@@ -5,83 +5,83 @@
 
 ## 🎯 项目 
 
-### [ProxiTok](https://github.com/pablouser1/ProxiTok)
+### [ladder](https://github.com/everywall/ladder)
 
-`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
+[12ft.io](https://12ft.io/) 的开源替代品，助你越过付费墙，也可以给你干净的阅读体验。
 
-![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
+![ladder](https://images-1252557999.file.myqcloud.com/uPic/ladder.jpg) 
 
-### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
+### [autocorrect](https://github.com/huacnlee/autocorrect)
 
-简单描述工作内容，帮你生成完整周报：
+AutoCorrect 是一个基于 Rust 编写的工具，用于「自动纠正」或「检查并建议」文案，给 CJK（中文、日语、韩语）与英文混写的场景，补充正确的空格，纠正单词，同时尝试以安全的方式自动纠正标点符号等等。
 
-![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
+类似 ESlint、Rubocop、Gofmt 等工具，AutoCorrect 可以用于 CI 环境，它提供 Lint 功能，能便捷的检测出项目中有问题的文案，起到统一规范的作用。
 
-### [ml4a](https://github.com/ml4a/ml4a)
+支持各种类型源代码文件，能自动识别文件名，并准确找到字符串、注释做自动纠正。
 
-`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
+![autocorrect](https://images-1252557999.file.myqcloud.com/uPic/autocorrect.png) 
 
-![ml4a](https://images-1252557999.file.myqcloud.com/uPic/ml4a.jpg) 
+### [SoraWebui](https://github.com/SoraWebui/SoraWebui)
+
+`SoraWebui` 是一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能：
+
+![SoraWebui](https://images-1252557999.file.myqcloud.com/uPic/SoraWebui.jpeg) 
 
 ## 🤖 软件 
 
-### [LLMFarm](https://github.com/guinmoon/LLMFarm)
+### [Webpilot](https://github.com/webpilot-ai/Webpilot)
 
-`LLMFarm` 是一款用于与大型语言模型（LLM）配合使用的iOS和MacOS应用程序，它允许您可以使用某些参数加载不同的 LLM：
+开源浏览器插件，基于 `ChatGPT` 可以让您与网页进行自由对话，可以在线访问 [webpilot.ai](https://github.com/webpilot-ai/Webpilot)：
 
-![LLMFarm](https://images-1252557999.file.myqcloud.com/uPic/LLMFarm.jpg) 
+![webpilot](https://images-1252557999.file.myqcloud.com/uPic/webpilot.jpg) 
 
-### [dockeye](https://github.com/vv9k/dockeye)
+### [zen](https://github.com/anfragment/zen)
 
-基于`Rust`编写的`Docker`界面管理工具：
+简单、免费且高效的广告拦截器和隐私保护工具，适用于Windows、macOS和Linux。它通过设置代理来拦截所有应用程序发出的HTTP请求，并阻止那些提供广告、跟踪脚本（监控您行为）、恶意软件和其他不需要的内容的请求。由于在系统级别运行，Zen可以防御浏览器扩展无法处理的威胁，例如嵌入在桌面应用程序和操作系统组件中的跟踪器。
 
-![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
+![zen](https://images-1252557999.file.myqcloud.com/uPic/zen.jpg) 
 
-### [MiniSim](https://github.com/okwasniewski/MiniSim)
+### [cursor](https://github.com/getcursor/cursor)
 
-一个 Mac 菜单栏软件，可以启动 iOS  或者 Android 🤖虚拟机：
+一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
 
-![MiniSim](https://images-1252557999.file.myqcloud.com/uPic/MiniSim.png) 
+![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
 
 ## 👀 资料 
 
-### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
+### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
 
-一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
+阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
+![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
 
-### [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book)
+### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
 
-`PeiQi` 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，`CTF` 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见。
+公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
 
-![PeiQi-WIKI-Book](https://images-1252557999.file.myqcloud.com/uPic/PeiQi-WIKI-Book.png) 
+### [AI-System](https://github.com/microsoft/AI-System)
 
-### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
 
-微软开源的一份全面的数据科学课程，20个课时，历时10周：
-
-![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
+![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
 
 ## 🕸 网站 
 
-### [sysmini](https://www.sysmini.com/)
+### [Baidu 一格](https://yige.baidu.com/)
 
-站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
+百度出品的文字生成图像模型：
 
-![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
+![yige](https://images-1252557999.file.myqcloud.com/uPic/yige.jpg) 
 
-### [一证通查](https://getsimnum.caict.ac.cn/#/)
+### [最佳平替](https://www.pingti.xyz/)
 
-自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
+同一件商品，不同的搜索词，价格可能会天差地别。这个工具旨在帮助你找到最便宜的搜索词: 输入你想搜索的商品名，AI会给出低价的替代品，结果可能不准，开心就好：）
 
-![phone_query](https://images-1252557999.file.myqcloud.com/uPic/phone_query.png) 
+![pingti](https://images-1252557999.file.myqcloud.com/uPic/pingti.jpg) 
 
-### [flowgpt](https://flowgpt.com/)
+### [w2solo](https://w2solo.com/)
 
-一个分享ChatGPT提示的网站：
-
-![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
+独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
 
 ## ✍️ 说明
 
