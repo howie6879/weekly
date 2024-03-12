@@ -5,83 +5,101 @@
 
 ## 🎯 项目 
 
-### [ladder](https://github.com/everywall/ladder)
+### [dashy](https://github.com/Lissy93/dashy)
 
-[12ft.io](https://12ft.io/) 的开源替代品，助你越过付费墙，也可以给你干净的阅读体验。
+可自我托管的个人自定义导航页：括状态检查，小部件，主题，图标包，UI编辑器等等：
 
-![ladder](https://images-1252557999.file.myqcloud.com/uPic/ladder.jpg) 
+![dashy](https://images-1252557999.file.myqcloud.com/uPic/dashy.jpg) 
 
-### [autocorrect](https://github.com/huacnlee/autocorrect)
+### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
 
-AutoCorrect 是一个基于 Rust 编写的工具，用于「自动纠正」或「检查并建议」文案，给 CJK（中文、日语、韩语）与英文混写的场景，补充正确的空格，纠正单词，同时尝试以安全的方式自动纠正标点符号等等。
+短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
 
-类似 ESlint、Rubocop、Gofmt 等工具，AutoCorrect 可以用于 CI 环境，它提供 Lint 功能，能便捷的检测出项目中有问题的文案，起到统一规范的作用。
+![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
 
-支持各种类型源代码文件，能自动识别文件名，并准确找到字符串、注释做自动纠正。
+### [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 
-![autocorrect](https://images-1252557999.file.myqcloud.com/uPic/autocorrect.png) 
+我日常开发环境以`Mac`为主，这个项目从开发者角度出发，收集了各方各面的软件，上来看看，可能一些收费的软件在这里能找到开源的解决方案。
 
-### [SoraWebui](https://github.com/SoraWebui/SoraWebui)
-
-`SoraWebui` 是一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能：
-
-![SoraWebui](https://images-1252557999.file.myqcloud.com/uPic/SoraWebui.jpeg) 
+我个人也维护了一份 [MacOS 软件清单](https://weekly.howie6879.com/soft/mac.html)，是我四五年使用 Mac 积累的一些常用软件，开源在 github，有兴趣可以关注看看。 
 
 ## 🤖 软件 
 
-### [Webpilot](https://github.com/webpilot-ai/Webpilot)
+### [Rayon](https://github.com/Lakr233/Rayon)
 
-开源浏览器插件，基于 `ChatGPT` 可以让您与网页进行自由对话，可以在线访问 [webpilot.ai](https://github.com/webpilot-ai/Webpilot)：
+一个`macOS`的上的`SSH`客户端：
 
-![webpilot](https://images-1252557999.file.myqcloud.com/uPic/webpilot.jpg) 
+![rayon](https://images-1252557999.file.myqcloud.com/uPic/rayon.png)
 
-### [zen](https://github.com/anfragment/zen)
+软件特性：
 
-简单、免费且高效的广告拦截器和隐私保护工具，适用于Windows、macOS和Linux。它通过设置代理来拦截所有应用程序发出的HTTP请求，并阻止那些提供广告、跟踪脚本（监控您行为）、恶意软件和其他不需要的内容的请求。由于在系统级别运行，Zen可以防御浏览器扩展无法处理的威胁，例如嵌入在桌面应用程序和操作系统组件中的跟踪器。
+- 免费&开源
+- 支持 libssh2 的主机连接
+- Linux proc 文件系统状态信息
+- 使用密码、密钥等进行身份验证...
+- xterm 终端支持
+- 批处理执行代码片段 
 
-![zen](https://images-1252557999.file.myqcloud.com/uPic/zen.jpg) 
+### [ruzz](https://github.com/vlts1/ruzz)
 
-### [cursor](https://github.com/getcursor/cursor)
+`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
 
-一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
+![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
 
-![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
+### [Gif123](https://github.com/aardio/Gif123)
+
+非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
+
+![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg) 
 
 ## 👀 资料 
 
-### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
+### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
 
-阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
+针对新人的 `CSS` 入门级教程：
 
-![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
 
-### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
+在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
 
-公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-### [AI-System](https://github.com/microsoft/AI-System)
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
 
-微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
 
-![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+
+深度学习入门教程资料聚合项目，包含：
+
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
+
+![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
+
+![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
 
 ## 🕸 网站 
 
-### [Baidu 一格](https://yige.baidu.com/)
+### [ideogram.ai](https://ideogram.ai/)
 
-百度出品的文字生成图像模型：
+免费无次数限制的文字转图片网页：
 
-![yige](https://images-1252557999.file.myqcloud.com/uPic/yige.jpg) 
+![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
 
-### [最佳平替](https://www.pingti.xyz/)
+### [grep.app](https://grep.app/)
 
-同一件商品，不同的搜索词，价格可能会天差地别。这个工具旨在帮助你找到最便宜的搜索词: 输入你想搜索的商品名，AI会给出低价的替代品，结果可能不准，开心就好：）
+从 50 万个开源仓库中搜索你需要的代码片段，搜索速度很快：
 
-![pingti](https://images-1252557999.file.myqcloud.com/uPic/pingti.jpg) 
+![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
 
-### [w2solo](https://w2solo.com/)
+### [tldraw](https://www.tldraw.com/)
 
-独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
+小巧强大的在线绘图工具：
+
+![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
 
 ## ✍️ 说明
 
