@@ -23,8 +23,9 @@ document.addEventListener("DOMContentLoaded", function () {
   // link.href = "https://www.fre123.com/weekly?from=weekly";
   // link.textContent = "🔥 老胡精选周刊大全>>>";
 
-  link.href = "https://www.fre123.com/anime/n?ref=weekly";
-  link.textContent = "🔥 整了个追番小工具>>>";
+  link.href =
+    "https://developer.aliyun.com/topic/lingma/activities/202403?taskCode=14508&recordId=3a279f7d6dd399e15ca29242cce86a5c#/?utm_content=m_fission_1";
+  link.textContent = "👉 通义灵码·体验AI编码&盲盒，快来薅羊毛吧>>>";
 
   link.target = "_blank";
   popup.appendChild(link);
