@@ -5,101 +5,100 @@
 
 ## 🎯 项目 
 
-### [dashy](https://github.com/Lissy93/dashy)
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 
-可自我托管的个人自定义导航页：括状态检查，小部件，主题，图标包，UI编辑器等等：
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
 
-![dashy](https://images-1252557999.file.myqcloud.com/uPic/dashy.jpg) 
+![AI-Writer](https://images-1252557999.file.myqcloud.com/uPic/AI-Writer.jpeg) 
 
-### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
+### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
 
-短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
+最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
 
-![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
+![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
 
-### [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
+### [chathub](https://github.com/chathub-dev/chathub)
 
-我日常开发环境以`Mac`为主，这个项目从开发者角度出发，收集了各方各面的软件，上来看看，可能一些收费的软件在这里能找到开源的解决方案。
+`ChatHub` 是款全能聊天机器人客户端:
 
-我个人也维护了一份 [MacOS 软件清单](https://weekly.howie6879.com/soft/mac.html)，是我四五年使用 Mac 积累的一些常用软件，开源在 github，有兴趣可以关注看看。 
+- 🤖 在一个应用中使用不同的聊天机器人，目前支持 ChatGPT、新的 Bing Chat、Google Bard、Claude（通过 Poe）、Alpaca、Vicuna、ChatGLM，并将来会集成更多的机器人
+- 💬 同时与多个聊天机器人进行对话，方便比较它们的回答
+- 🚀 支持 ChatGPT API 和 GPT-4 浏览
+- 🔍 快捷方式，可在浏览器的任何位置快速激活应用
+- 🎨 支持 Markdown 和代码高亮显示
+- 📚 自定义提示和社区提示的提示库
+- 💾 本地保存对话历史
+- 📥 导出和导入所有数据
+- 🔗 将对话转为 Markdown 并分享
+- 🌙 暗黑模式
+
+![chathub](https://images-1252557999.file.myqcloud.com/uPic/chathub.png) 
 
 ## 🤖 软件 
 
-### [Rayon](https://github.com/Lakr233/Rayon)
+### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
 
-一个`macOS`的上的`SSH`客户端：
+科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
 
-![rayon](https://images-1252557999.file.myqcloud.com/uPic/rayon.png)
+![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
 
-软件特性：
+还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
 
-- 免费&开源
-- 支持 libssh2 的主机连接
-- Linux proc 文件系统状态信息
-- 使用密码、密钥等进行身份验证...
-- xterm 终端支持
-- 批处理执行代码片段 
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-### [ruzz](https://github.com/vlts1/ruzz)
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
-![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
+### [Dashboard](https://github.com/leon-kfd/Dashboard)
 
-### [Gif123](https://github.com/aardio/Gif123)
+开源的浏览器插件，用于自定义你的浏览器启动页：
 
-非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
-
-![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg) 
+![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
 
 ## 👀 资料 
 
-### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
+### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
 
-针对新人的 `CSS` 入门级教程：
+开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
 
-![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
+![fullstackopen](https://images-1252557999.file.myqcloud.com/uPic/p1g8z3.png) 
 
-在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
+### [netkiller](https://www.netkiller.cn/)
 
-### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
+作者持续写了将近20年的技术博文，涵盖面极广：
 
-本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
+![netkiller](https://images-1252557999.file.myqcloud.com/uPic/V7rzw3.png) 
 
-![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
+### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
 
-### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+这本书的目标是:
 
-深度学习入门教程资料聚合项目，包含：
+- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
+- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
+- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
 
-- 数学基础
-- 机器学习基础
-- 深度学习基础
-- 工程能力
-
-![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
-
-![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
+![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
 
 ## 🕸 网站 
 
-### [ideogram.ai](https://ideogram.ai/)
+### [jsont.run](https://www.jsont.run/)
 
-免费无次数限制的文字转图片网页：
+一个简洁的在线 `JSON` 解析器：
 
-![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
+![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
 
-### [grep.app](https://grep.app/)
+### [trendingpapers](https://trendingpapers.com)
 
-从 50 万个开源仓库中搜索你需要的代码片段，搜索速度很快：
+类似于 `Github Trending` 的计算机科学论文趋势榜单：
 
-![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
+![trendingpapers](https://images-1252557999.file.myqcloud.com/uPic/trendingpapers.jpg) 
 
-### [tldraw](https://www.tldraw.com/)
+### [cleanup.pictures](https://cleanup.pictures/)
 
-小巧强大的在线绘图工具：
+百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
 
-![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
+![cleanup_demo](https://images-1252557999.file.myqcloud.com/uPic/cleanup_demo.gif) 
 
 ## ✍️ 说明
 
