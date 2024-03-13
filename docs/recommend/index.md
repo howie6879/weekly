@@ -5,100 +5,89 @@
 
 ## 🎯 项目 
 
-### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
+### [tinysearch](https://github.com/tinysearch/tinysearch)
 
-AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
 
-![AI-Writer](https://images-1252557999.file.myqcloud.com/uPic/AI-Writer.jpeg) 
+### [sams_helper](https://github.com/sari3l/sams_helper)
 
-### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
+山姆全自动抢购：普通商品、保供套餐；支持优惠券、无货添加、数量修正、金额限制、超重拆分、黑白名单:
 
-最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
+![sams_helper](https://images-1252557999.file.myqcloud.com/uPic/sams_helper.jpg) 
 
-![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
+### [DataEase](https://github.com/dataease/dataease)
 
-### [chathub](https://github.com/chathub-dev/chathub)
-
-`ChatHub` 是款全能聊天机器人客户端:
-
-- 🤖 在一个应用中使用不同的聊天机器人，目前支持 ChatGPT、新的 Bing Chat、Google Bard、Claude（通过 Poe）、Alpaca、Vicuna、ChatGLM，并将来会集成更多的机器人
-- 💬 同时与多个聊天机器人进行对话，方便比较它们的回答
-- 🚀 支持 ChatGPT API 和 GPT-4 浏览
-- 🔍 快捷方式，可在浏览器的任何位置快速激活应用
-- 🎨 支持 Markdown 和代码高亮显示
-- 📚 自定义提示和社区提示的提示库
-- 💾 本地保存对话历史
-- 📥 导出和导入所有数据
-- 🔗 将对话转为 Markdown 并分享
-- 🌙 暗黑模式
-
-![chathub](https://images-1252557999.file.myqcloud.com/uPic/chathub.png) 
+DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
 
 ## 🤖 软件 
 
-### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+### [res-downloader](https://github.com/putyy/res-downloader)
 
-科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
+网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
 
-![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
+![res-downloader](https://images-1252557999.file.myqcloud.com/uPic/res-downloader.jpeg) 
 
-还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
+### [memreduct](https://github.com/henrypp/memreduct)
 
-### [LANDrop](https://github.com/LANDrop/LANDrop)
+轻量优雅的 `Windows` 内存管理工具，让用户实时监控计算机内存和清理系统缓存，体积小(6MB)、内存释放效果明显，兼容 `Windows XP` 及更高版本：
 
-开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
+![memreduct](https://images-1252557999.file.myqcloud.com/uPic/memreduct.jpg) 
 
-![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
+### [Equinox](https://github.com/rlxone/Equinox)
 
-### [Dashboard](https://github.com/leon-kfd/Dashboard)
+开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
 
-开源的浏览器插件，用于自定义你的浏览器启动页：
-
-![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
+![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
 
 ## 👀 资料 
 
-### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
+### [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)
 
-开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
+`DotNetGuide` 技术社区是一个面向 `.NET` 开发者的开源技术社区，旨在为开发者们提供全面的 `C#/.NET/.NET Core` 相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台，可以在线[阅读](https://www.yuque.com/ysgstudyhard/da6e0c)：
 
-![fullstackopen](https://images-1252557999.file.myqcloud.com/uPic/p1g8z3.png) 
+![DotNetGuide](https://images-1252557999.file.myqcloud.com/uPic/DotNetGuide.jpg) 
 
-### [netkiller](https://www.netkiller.cn/)
+### [visualize-ml](https://github.com/visualize-ml)
 
-作者持续写了将近20年的技术博文，涵盖面极广：
+鸢尾花书：从加减乘除到机器学习，全套7册。
 
-![netkiller](https://images-1252557999.file.myqcloud.com/uPic/V7rzw3.png) 
+![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
 
-### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
+### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
 
-这本书的目标是:
+作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
 
-- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
-- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
-- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
-
-![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
+![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
 
 ## 🕸 网站 
 
-### [jsont.run](https://www.jsont.run/)
+### [tReader](https://tiansh.github.io/reader/#!/read/1)
 
-一个简洁的在线 `JSON` 解析器：
+如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
 
-![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
+![tReader](https://images-1252557999.file.myqcloud.com/uPic/PMMlRM.jpg)
+基本功能如下：
 
-### [trendingpapers](https://trendingpapers.com)
+- 手机端适配，阅读效果优秀
+- 点左上角的添加按钮可以添加文件
+- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
+- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
+- 文件列表，左滑、右键或按Delete可以显示删除按钮
+- 书签
+- 搜索
+- 目录等 
 
-类似于 `Github Trending` 的计算机科学论文趋势榜单：
+### [pixabay](https://pixabay.com/)
 
-![trendingpapers](https://images-1252557999.file.myqcloud.com/uPic/trendingpapers.jpg) 
+`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
 
-### [cleanup.pictures](https://cleanup.pictures/)
+![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
 
-百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
+### [smartexcel](https://www.smartexcel.cc/)
 
-![cleanup_demo](https://images-1252557999.file.myqcloud.com/uPic/cleanup_demo.gif) 
+使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
+
+![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
 
 ## ✍️ 说明
 
