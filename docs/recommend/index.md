@@ -5,89 +5,85 @@
 
 ## 🎯 项目 
 
-### [tinysearch](https://github.com/tinysearch/tinysearch)
-
-轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
-
-### [sams_helper](https://github.com/sari3l/sams_helper)
-
-山姆全自动抢购：普通商品、保供套餐；支持优惠券、无货添加、数量修正、金额限制、超重拆分、黑白名单:
-
-![sams_helper](https://images-1252557999.file.myqcloud.com/uPic/sams_helper.jpg) 
-
 ### [DataEase](https://github.com/dataease/dataease)
 
 DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
 
+### [writefreely](https://github.com/writefreely/writefreely)
+
+一个用于在网络上构建写作空间的开源平台：
+
+![writefreely](https://images-1252557999.file.myqcloud.com/uPic/writefreely.png) 
+
+### [filebrowser](https://github.com/filebrowser/filebrowser)
+
+这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
+
+除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
+
+![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
+
 ## 🤖 软件 
 
-### [res-downloader](https://github.com/putyy/res-downloader)
+### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
 
-网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
+安全、快速与轻量的远程桌面&文件管理工具：
 
-![res-downloader](https://images-1252557999.file.myqcloud.com/uPic/res-downloader.jpeg) 
+![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
 
-### [memreduct](https://github.com/henrypp/memreduct)
+### [pho](https://github.com/fregie/pho)
 
-轻量优雅的 `Windows` 内存管理工具，让用户实时监控计算机内存和清理系统缓存，体积小(6MB)、内存释放效果明显，兼容 `Windows XP` 及更高版本：
+一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
 
-![memreduct](https://images-1252557999.file.myqcloud.com/uPic/memreduct.jpg) 
+![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
 
-### [Equinox](https://github.com/rlxone/Equinox)
+### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
-开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
+用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
 
-![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
+![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
 
 ## 👀 资料 
 
-### [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)
+### [papers-we-love](https://github.com/papers-we-love/papers-we-love)
 
-`DotNetGuide` 技术社区是一个面向 `.NET` 开发者的开源技术社区，旨在为开发者们提供全面的 `C#/.NET/.NET Core` 相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台，可以在线[阅读](https://www.yuque.com/ysgstudyhard/da6e0c)：
+项目收集了计算机科学领域值得一读的论文：
 
-![DotNetGuide](https://images-1252557999.file.myqcloud.com/uPic/DotNetGuide.jpg) 
+![papers-we-love](https://images-1252557999.file.myqcloud.com/uPic/FiYqA1.png)
 
-### [visualize-ml](https://github.com/visualize-ml)
+还有一个开发者列出了他喜欢的论文，具体见：[my-favorite-papers](https://ordep.dev/posts/my-favorite-papers)，其中包括了LSM Tree， Kafka， Zookeeper，数字签名，等一些很经典的分布式领域的论文。 
 
-鸢尾花书：从加减乘除到机器学习，全套7册。
+### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
 
-![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
+教程：小型金融知识图谱流程示范。 
 
-### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
+### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
 
-作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
+重新分类 Leetcode 高频题 2021 版
 
-![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
+- 题目按照面试频率降序排列
+- 增加难度分类，适合从简单开始学习
+- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
 
 ## 🕸 网站 
 
-### [tReader](https://tiansh.github.io/reader/#!/read/1)
+### [chinesenewyear](https://chinesenewyear.net/)
 
-如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
+国外一个专门介绍农历春节的网站，包含了非常多关于春节的介绍信息：
 
-![tReader](https://images-1252557999.file.myqcloud.com/uPic/PMMlRM.jpg)
-基本功能如下：
+![chinesenewyear](https://images-1252557999.file.myqcloud.com/uPic/chinesenewyear.jpg) 
 
-- 手机端适配，阅读效果优秀
-- 点左上角的添加按钮可以添加文件
-- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
-- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
-- 文件列表，左滑、右键或按Delete可以显示删除按钮
-- 书签
-- 搜索
-- 目录等 
+### [zhaoziyuan](https://zhaoziyuan.pw/)
 
-### [pixabay](https://pixabay.com/)
+阿里云资源搜索引擎：
 
-`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
+![zhaoziyuan](https://images-1252557999.file.myqcloud.com/uPic/zhaoziyuan-20220429095007870.jpg) 
 
-![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
+### [ideogram.ai](https://ideogram.ai/)
 
-### [smartexcel](https://www.smartexcel.cc/)
+免费无次数限制的文字转图片网页：
 
-使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
-
-![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
+![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
 
 ## ✍️ 说明
 
