@@ -5,105 +5,112 @@
 
 ## 🎯 项目 
 
-### [ladder](https://github.com/everywall/ladder)
+### [paopao-ce](https://github.com/rocboss/paopao-ce)
 
-[12ft.io](https://12ft.io/) 的开源替代品，助你越过付费墙，也可以给你干净的阅读体验。
+🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
 
-![ladder](https://images-1252557999.file.myqcloud.com/uPic/ladder.jpg) 
+- [Go](https://go.dev/)
+- [Gin](https://gin-gonic.com/)
+- [Zinc](https://zinclabs.io/)
+- [Naive UI](https://www.naiveui.com/)
+- [Vue.js](https://vuejs.org/)
+- [Vite.js](https://vitejs.dev/)
 
-### [AgentGPT](https://github.com/reworkd/AgentGPT)
+![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
 
-🤖 在您的浏览器中组装、配置和部署自主 AI 代理，可以简单理解成 `Auto-GPT` 的网页版：
+网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
 
-- 通过向量数据库实现长期记忆 🧠
-- 通过语言链具备网络浏览能力 🌐
-- 与网站和人进行交互 👨‍👩‍👦
-- 通过文档 API 具备写作能力 📄
-- 保存代理运行 💾
-- 用户和身份验证 🔐
-- Stripe 集成以提供低限制付费版本（这样我们就不用担心基础设施成本）💵
+### [weiboSpider](https://github.com/dataabc/weiboSpider)
 
-![agentgpt](https://images-1252557999.file.myqcloud.com/uPic/agentgpt.jpg) 
+新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
 
-### [signoz](https://github.com/signoz/signoz)
+### [whistle](https://github.com/avwo/whistle)
 
-`SigNoz` 是一套开源 `APM` 方案，用于监控应用指标和链路，可以看到调用情况、异常、trace上下链路，也可以自己定义 `Dashboard`：
+Whistle 是基于 Node 实现的跨平台抓包调试工具，其主要特点：
 
-![signoz](https://images-1252557999.file.myqcloud.com/uPic/signoz.jpg) 
+- **完全跨平台**：支持 Mac、Windows 等桌面系统，且支持服务端等命令行系统
+- **功能强大（理论上可以对请求做任意修改）**：
+    - 支持作为 HTTP、HTTPS、SOCKS 代理及反向代理
+    - 支持抓包及修改 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求
+    - 支持重放及构造 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求
+    - 支持设置上游代理、PAC 脚本、Hosts、延迟（限速）请求响应等
+    - 支持查看远程页面的 console 日志及 DOM 节点
+    - 支持用 Node 开发插件扩展功能，也可以作为独立 npm 包引用
+- **操作简单**：
+    - 直接通过浏览器查看抓包、修改请求
+    - 所有修改操作都可以通过配置方式实现（类似系统 Hosts），并支持分组管理
+    - 项目可以自带代理规则配置并一键设置到本地 Whistle 代理，也可以通过定制插件简化操作
+
+![whistle](https://images-1252557999.file.myqcloud.com/uPic/whistle.png) 
 
 ## 🤖 软件 
 
-### [tvapk](https://github.com/Archmage83/tvapk)
+### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
 
-收集各大 `AndroidTV` 的 `apk` 应用，可免费看各种vip和国外电影电视：
+科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
 
-![tvapk](https://images-1252557999.file.myqcloud.com/uPic/tvapk.png) 
+![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
 
-### [Sloth](https://github.com/sveinbjornt/Sloth)
+还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
 
-`Sloth` 是一款原生的 `Mac` 应用程序，它显示系统上所有正在运行软件所有打开的文件、目录、套接字、管道和设备，用户可以很简单地掌控自己的电脑文件使用权限：
+### [notesnook](https://github.com/streetwriters/notesnook)
 
-![Sloth](https://images-1252557999.file.myqcloud.com/uPic/Sloth.jpeg) 
+印象笔记的开源替代品（支持端对端加密）：
 
-### [box](https://github.com/liu673cn/box)
+![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
 
-TVBox 开源版:
+### [BetterDummy](https://github.com/waydabber/BetterDummy)
 
-- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
-- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
-- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
-- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
-- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
-- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
-- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
-- 配置地址---输入站源---确定即可 URL站源规则
+`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
 
-![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
+![bd_menu](https://images-1252557999.file.myqcloud.com/uPic/bd_menu.png)
+
+如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
 
 ## 👀 资料 
 
-### [数据科学学习指南](https://github.com/amitness/learning)
+### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
 
-数据科学学习指南，帮你每天提升1%的数据科学技能。主要包含电子表格与数据库的数据处理、命令行工具使用、数据分析与可视化技巧、论文阅读方法，各类模型与算法讲解等知识，另外还有商业思维培养、写作与沟通技巧等非技术类内容。
+吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
 
-![data-learning](https://images-1252557999.file.myqcloud.com/uPic/tlkHzW.png) 
+![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
 
-### [whys-the-design](https://draven.co/whys-the-design/)
+### [zju-icicles](https://github.com/QSCTech/zju-icicles)
 
-为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
+浙江大学课程攻略共享计划：
 
-![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
+![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
 
-### [sideproject](https://sideproject.guide/)
+### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
 
-`Side Project` 指南：
+一本开源的专门讲解面试关键路径的书籍：
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
-
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
 
 ## 🕸 网站 
 
-### [trending.design](https://trending.design/)
+### [programcreek](https://www.programcreek.com/)
 
-收集一些在 𝕏(twitter) 上的最佳设计灵感：
+网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
 
-![trending.design](https://images-1252557999.file.myqcloud.com/uPic/trending.design.jpg) 
+- [Python](https://www.programcreek.com/python/)
+- [Java](https://www.programcreek.com/java-api-examples/)
+- [C++](https://www.programcreek.com/cpp/)
+- [Scala](https://www.programcreek.com/scala/)
 
-### [flow](https://github.com/pacexy/flow)
+![programcreek](https://images-1252557999.file.myqcloud.com/uPic/YdAEPq.png) 
 
-开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
+### [央视纪实](https://jishi.cctv.com/)
 
-![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
+央视官方纪录片大全，全部免费观看：
 
-### [ixinqing](http://www.ixinqing.com/)
+![657d173347944](https://img.fre123.com/i/2023/12/16/657d173347944.png) 
 
-心晴 · 专注于心理学入门与自我成长:
+### [etempmail](https://etempmail.com/zh)
 
-![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
+一个免费提供临时电子邮件服务的网站，可以用来注册并获取需要教育邮箱才能获取的福利。
+
+![edu_mail](https://images-1252557999.file.myqcloud.com/uPic/edu_mail.png) 
 
 ## ✍️ 说明
 
