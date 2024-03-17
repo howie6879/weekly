@@ -5,6 +5,22 @@
 
 ## 🎯 项目 
 
+### [campus-imaotai](https://github.com/oddfar/campus-imaotai)
+
+i茅台app自动预约，每日自动预约，支持 `Docker` 一键部署：
+
+- 平台注册账号(可用i茅台)
+- 添加多个用户
+- 自动预约
+- 类型选择（本市出货量最大的门店，或位置附近门店）
+- 自动旅行
+- 首次旅行分享
+- 获取申购耐力值
+- 自定义时间/随机时间预约或旅行
+- 结果消息推送
+
+![campus-imaotai](https://images-1252557999.file.myqcloud.com/uPic/campus-imaotai.jpg) 
+
 ### [paopao-ce](https://github.com/rocboss/paopao-ce)
 
 🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
@@ -20,97 +36,71 @@
 
 网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
 
-### [weiboSpider](https://github.com/dataabc/weiboSpider)
+### [bitwarden](https://github.com/bitwarden)
 
-新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
+一个开源，免费，跨平台，安全易管理，，能自动填充密码可自建的密码管理解决方案：
 
-### [whistle](https://github.com/avwo/whistle)
-
-Whistle 是基于 Node 实现的跨平台抓包调试工具，其主要特点：
-
-- **完全跨平台**：支持 Mac、Windows 等桌面系统，且支持服务端等命令行系统
-- **功能强大（理论上可以对请求做任意修改）**：
-    - 支持作为 HTTP、HTTPS、SOCKS 代理及反向代理
-    - 支持抓包及修改 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求
-    - 支持重放及构造 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求
-    - 支持设置上游代理、PAC 脚本、Hosts、延迟（限速）请求响应等
-    - 支持查看远程页面的 console 日志及 DOM 节点
-    - 支持用 Node 开发插件扩展功能，也可以作为独立 npm 包引用
-- **操作简单**：
-    - 直接通过浏览器查看抓包、修改请求
-    - 所有修改操作都可以通过配置方式实现（类似系统 Hosts），并支持分组管理
-    - 项目可以自带代理规则配置并一键设置到本地 Whistle 代理，也可以通过定制插件简化操作
-
-![whistle](https://images-1252557999.file.myqcloud.com/uPic/whistle.png) 
+![bitwarden](https://images-1252557999.file.myqcloud.com/uPic/bitwarden.jpg) 
 
 ## 🤖 软件 
 
-### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 
-科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
+`AnotherRedisDesktopManager` 是一个快速稳定好用的 `Redis` 跨平台桌面管理软件，更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值：
 
-![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
+![AnotherRedisDesktopManager](https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png) 
 
-还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
+### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
 
-### [notesnook](https://github.com/streetwriters/notesnook)
+`TinyPNG`的`Mac`客户端：
 
-印象笔记的开源替代品（支持端对端加密）：
+![TinyPNG4Mac](https://images-1252557999.file.myqcloud.com/uPic/TinyPNG4Mac.png) 
 
-![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
+### [FluentRead](https://github.com/Bistutu/FluentRead)
 
-### [BetterDummy](https://github.com/waydabber/BetterDummy)
+一个开源油猴脚本，拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验：
 
-`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
-
-![bd_menu](https://images-1252557999.file.myqcloud.com/uPic/bd_menu.png)
-
-如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
+![FluentRead](https://images-1252557999.file.myqcloud.com/uPic/FluentRead.gif) 
 
 ## 👀 资料 
 
-### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
+### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
 
-吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
+本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
 
-![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
+![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
 
-### [zju-icicles](https://github.com/QSCTech/zju-icicles)
+### [Web Development History](https://webdevelopmenthistory.com/index/)
 
-浙江大学课程攻略共享计划：
+`Web` 开发发展史文章系列：
 
-![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
+![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
 
-### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
+### [data_compression_course](https://github.com/jermp/data_compression_course)
 
-一本开源的专门讲解面试关键路径的书籍：
-
-![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
+由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
 
 ## 🕸 网站 
 
-### [programcreek](https://www.programcreek.com/)
+### [gooddesign](https://www.gooddesign.tools/)
 
-网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
+优质设计师工具导航网站：
 
-- [Python](https://www.programcreek.com/python/)
-- [Java](https://www.programcreek.com/java-api-examples/)
-- [C++](https://www.programcreek.com/cpp/)
-- [Scala](https://www.programcreek.com/scala/)
+![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
 
-![programcreek](https://images-1252557999.file.myqcloud.com/uPic/YdAEPq.png) 
+### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
 
-### [央视纪实](https://jishi.cctv.com/)
+目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
 
-央视官方纪录片大全，全部免费观看：
+![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
 
-![657d173347944](https://img.fre123.com/i/2023/12/16/657d173347944.png) 
+![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
 
-### [etempmail](https://etempmail.com/zh)
+### [neeva](https://neeva.com/search)
 
-一个免费提供临时电子邮件服务的网站，可以用来注册并获取需要教育邮箱才能获取的福利。
+前谷歌工程师构建的免费无广告的搜索引擎，搜索效果挺好：
 
-![edu_mail](https://images-1252557999.file.myqcloud.com/uPic/edu_mail.png) 
+![neeva](https://images-1252557999.file.myqcloud.com/uPic/neeva.jpg) 
 
 ## ✍️ 说明
 
