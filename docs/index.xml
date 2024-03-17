@@ -12,7 +12,86 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Wed, 13 Mar 2024 09:41:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 04:15:07 +0000</lastBuildDate>
+    <item>
+      <title>03-11~03-17.老胡的周刊（第133期）.md</title>
+      <link>https://weekly.howie6879.com/2024/03-11~03-17.老胡的周刊（第133期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/03-11~03-17.老胡的周刊（第133期）.html"&gt;03-11~03-17.老胡的周刊（第133期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Mintimate/oh-my-rime"&gt;oh-my-rime&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一套快速初始化开源输入法 &lt;code&gt;Rime&lt;/code&gt; 的模板方案，跨平台支持 &lt;code&gt;Win macOS Linux&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="oh-my-rime" src="https://images-1252557999.file.myqcloud.com/uPic/oh-my-rime.webp" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/NanmiCoder/MediaCrawler"&gt;MediaCrawler&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;playwright&lt;/code&gt; 的小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 | 评论爬虫、微博帖子 | 评论爬虫：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="MediaCrawler" src="https://images-1252557999.file.myqcloud.com/uPic/MediaCrawler.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/v2rayA/v2rayA"&gt;v2rayA&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;v2rayA&lt;/code&gt; 是一个支持全局透明代理的 &lt;code&gt;V2Ray&lt;/code&gt; 客户端，同时兼容 &lt;code&gt;SS、SSR、Trojan(trojan-go)、Tuic &amp;amp; Juicity&lt;/code&gt; 协议， 致力于提供最简单的操作，满足绝大部分需求，得益于 Web 客户端的优势，你不仅可以将其用于本地计算机，还可以轻松地将它部署在路由器或 NAS 上。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="v2rayA" src="https://images-1252557999.file.myqcloud.com/uPic/v2rayA.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Deeptrain-Community/chatnio"&gt;chatnio&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;🚀 下一代 AI 一站式解决方案，一站式 Chat + 中转 API 站点，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="chatnio" src="https://images-1252557999.file.myqcloud.com/uPic/chatnio.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/rumboalla/apkupdater"&gt;apkupdater&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;APKUpdater&lt;/code&gt; 是一个开源工具，它能让你轻松追踪和更新你的 &lt;code&gt;APK&lt;/code&gt; 应用。
+它提供类似于应用商店的功能，但不依赖于单一来源，而是把 &lt;code&gt;APKMirror、Aptoide、F-Droid、IzzyOnDroid、APKPure、GitLab、GitHub&lt;/code&gt; 这 7 大平台的应用资源都聚合在一起：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="apkupdater" src="https://images-1252557999.file.myqcloud.com/uPic/apkupdater.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://epub.press/"&gt;EpubPress&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;EpubPress&lt;/code&gt; 是一个适用于 &lt;code&gt;Chrome&amp;amp;Firefox&lt;/code&gt; 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="EpubPress" src="https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/tanujnotes/Olauncher"&gt;Olauncher&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;适用于 &lt;code&gt;Android&lt;/code&gt; 的最小 &lt;code&gt;AF&lt;/code&gt; 启动器。减少您在屏幕上浪费的时间，提供日常壁纸，非常优雅简洁，效果上来看适合英文用户：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Olauncher" src="https://images-1252557999.file.myqcloud.com/uPic/Olauncher.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/XMuli/sunnypages"&gt;sunnypages&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Sunny&lt;/code&gt; 截图是一款简洁且漂亮的截图的软件工具，支持 &lt;code&gt;Windows，MacOS，Linux&lt;/code&gt; 平台。亦支持图片翻译和 &lt;code&gt;OCR&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="sunnypages" src="https://images-1252557999.file.myqcloud.com/uPic/sunnypages.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Future-Scholars/paperlib"&gt;Paperlib&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个简单好用的开源论文管理工具，全平台支持：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;为多学科定制元数据搜索器，尤其是 &lt;code&gt;CS&lt;/code&gt; 学科，&lt;code&gt;及其精准的会议论文metadata&lt;/code&gt; 匹配。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;macOS spotlight&lt;/code&gt; 一样的快速复制粘贴 bibtex 引用。&lt;/li&gt;
+&lt;li&gt;支持插件。&lt;/li&gt;
+&lt;li&gt;干净整洁的 &lt;code&gt;UI&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;订阅 &lt;code&gt;RSS&lt;/code&gt; 获取最新论文&lt;/li&gt;
+&lt;li&gt;全文搜索，评价，星标，标签，组，&lt;code&gt;MD&lt;/code&gt; 纯文本笔记等&lt;/li&gt;
+&lt;li&gt;云同步，三平台支持：&lt;code&gt;macOS, Windows, Linux&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="paperlib" src="https://images-1252557999.file.myqcloud.com/uPic/paperlib.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://uxbaike.com/"&gt;uxbaike&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;UX 百科，属于设计师的专业知识库：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="uxbaike" src="https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://webdevelopmenthistory.com/index/"&gt;Web Development History&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Web&lt;/code&gt; 开发发展史文章系列：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="wdh" src="https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.fre123.com/sp?ref=weekly"&gt;短剧搜索引擎&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;比较全面的短剧搜索引擎，数据在夸克网盘，转存即可免费观看全部：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="sp" src="https://images-1252557999.file.myqcloud.com/uPic/sp.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://drugs.dxy.cn/pc"&gt;用药助手&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;丁香园旗下品牌，诊疗顾问｜搜疾病，看诊疗方案，基于循证医学的临床诊疗决策工具，为临床医生提供专业、靠谱的疾病诊疗思路和用药方案：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="yyzs" src="https://images-1252557999.file.myqcloud.com/uPic/yyzs.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.shidianguji.com/"&gt;识典古籍&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;识典古籍 – 古籍在线阅读平台，北大和抖音合作开发的古籍阅读网站：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="shidianguji" src="https://images-1252557999.file.myqcloud.com/uPic/shidianguji.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.findpng.com/"&gt;FindPng&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个免费的由 &lt;code&gt;AI&lt;/code&gt; 驱动的透明 &lt;code&gt;PNG&lt;/code&gt; 图像生成器，输入关键词就可以生成透明的图像：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="findpng" src="https://images-1252557999.file.myqcloud.com/uPic/findpng.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://weekly.fre123.com/"&gt;https://weekly.fre123.com/&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">03-11~03-17.老胡的周刊（第133期）.md</guid>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>03-04~03-10.老胡的周刊（第132期）.md</title>
       <link>https://weekly.howie6879.com/2024/03-04~03-10.老胡的周刊（第132期）.html</link>
