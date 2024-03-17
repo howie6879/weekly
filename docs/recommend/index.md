@@ -5,102 +5,108 @@
 
 ## 🎯 项目 
 
-### [campus-imaotai](https://github.com/oddfar/campus-imaotai)
+### [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 
-i茅台app自动预约，每日自动预约，支持 `Docker` 一键部署：
+`ChatGPT` 中文调教指南，各种场景使用指南，学习怎么让它听你的话：
 
-- 平台注册账号(可用i茅台)
-- 添加多个用户
-- 自动预约
-- 类型选择（本市出货量最大的门店，或位置附近门店）
-- 自动旅行
-- 首次旅行分享
-- 获取申购耐力值
-- 自定义时间/随机时间预约或旅行
-- 结果消息推送
+![acpz](https://images-1252557999.file.myqcloud.com/uPic/acpz.jpg) 
 
-![campus-imaotai](https://images-1252557999.file.myqcloud.com/uPic/campus-imaotai.jpg) 
+### [movie-web](https://github.com/movie-web/movie-web)
 
-### [paopao-ce](https://github.com/rocboss/paopao-ce)
+开源可自部署的简约在线电影搜索观看项目：
 
-🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
+- 自动保存进度
+- 记录观看电影
+- 简约的界面，展示内容克制
 
-- [Go](https://go.dev/)
-- [Gin](https://gin-gonic.com/)
-- [Zinc](https://zinclabs.io/)
-- [Naive UI](https://www.naiveui.com/)
-- [Vue.js](https://vuejs.org/)
-- [Vite.js](https://vitejs.dev/)
+![movie-web](https://images-1252557999.file.myqcloud.com/uPic/movie-web.jpg)
 
-![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
+所有内容都是从第三方获取的，并且抓取操作在客户端完成，项目包含以下模块：
 
-网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
+- 代理
+- 前端
+- 后端
 
-### [bitwarden](https://github.com/bitwarden)
+这三块全部可以自部署，文档写的也挺清晰我试了下，播放霸王别姬：
 
-一个开源，免费，跨平台，安全易管理，，能自动填充密码可自建的密码管理解决方案：
+![movie_demo](https://images-1252557999.file.myqcloud.com/uPic/movie_demo.jpg) 
 
-![bitwarden](https://images-1252557999.file.myqcloud.com/uPic/bitwarden.jpg) 
+### [jina](https://github.com/jina-ai/jina)
+
+![jina](https://images-1252557999.file.myqcloud.com/uPic/9MHbAU.png)
+
+云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
+
+相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
 
 ## 🤖 软件 
 
-### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+### [FreeControl](https://github.com/pdone/FreeControl)
 
-`AnotherRedisDesktopManager` 是一个快速稳定好用的 `Redis` 跨平台桌面管理软件，更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值：
+在 `PC` 上控制 `Android` 设备，基于开源项目<ins>**scrcpy**</ins>，提供简洁的交互界面。
 
-![AnotherRedisDesktopManager](https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png) 
+- 编码语言 `C#`
+- 开发工具 `Visual Studio 2022`
+- 运行环境 `.NET Framework 4.7.2`
 
-### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
+![FreeControl](https://images-1252557999.file.myqcloud.com/uPic/FreeControl.gif) 
 
-`TinyPNG`的`Mac`客户端：
+### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
 
-![TinyPNG4Mac](https://images-1252557999.file.myqcloud.com/uPic/TinyPNG4Mac.png) 
+安全、快速与轻量的远程桌面&文件管理工具：
 
-### [FluentRead](https://github.com/Bistutu/FluentRead)
+![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
 
-一个开源油猴脚本，拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验：
+### [namida](https://github.com/namidaco/namida)
 
-![FluentRead](https://images-1252557999.file.myqcloud.com/uPic/FluentRead.gif) 
+一个美观且功能丰富的音乐和视频播放器，支持 `Youtube`，基于 `Flutter` 技术构建：
+
+![namida](https://images-1252557999.file.myqcloud.com/uPic/namida.jpg) 
 
 ## 👀 资料 
 
-### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
+### [go101](https://gfw.go101.org/article/101.html)
 
-本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
+《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
 
-![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
+![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
 
-### [Web Development History](https://webdevelopmenthistory.com/index/)
+### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
 
-`Web` 开发发展史文章系列：
+收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
 
-![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
+![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
 
-### [data_compression_course](https://github.com/jermp/data_compression_course)
+### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
 
-由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
+30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
+
+![30-Days-Of-React](https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg) 
 
 ## 🕸 网站 
 
-### [gooddesign](https://www.gooddesign.tools/)
+### [cikeee](https://www.cikeee.com/)
 
-优质设计师工具导航网站：
+每天推荐一部优秀的电影：
 
-![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
-### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
+### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
 
-目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
+`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
 
-![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
+- 可视化组件配置栏
+- 随机生成头像，有一定概率触发彩蛋
+- 撤销/还原*更改*
+- 国际化多语言
 
-![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
+![vue-color-avatar](https://images-1252557999.file.myqcloud.com/uPic/n3gXb6.png) 
 
-### [neeva](https://neeva.com/search)
+### [onlinedoctranslator](https://www.onlinedoctranslator.com/zh-CN/)
 
-前谷歌工程师构建的免费无广告的搜索引擎，搜索效果挺好：
+立即翻译任何文档格式为任意语言，并保持排版不变，免费：
 
-![neeva](https://images-1252557999.file.myqcloud.com/uPic/neeva.jpg) 
+![onlinedoctranslator](https://images-1252557999.file.myqcloud.com/uPic/onlinedoctranslator.jpg) 
 
 ## ✍️ 说明
 
