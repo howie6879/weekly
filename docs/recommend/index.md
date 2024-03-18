@@ -5,108 +5,87 @@
 
 ## 🎯 项目 
 
-### [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+### [diagrams](https://github.com/mingrammer/diagrams)
 
-`ChatGPT` 中文调教指南，各种场景使用指南，学习怎么让它听你的话：
+用 `Python` 代码绘制云原生架构图：
 
-![acpz](https://images-1252557999.file.myqcloud.com/uPic/acpz.jpg) 
+![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
 
-### [movie-web](https://github.com/movie-web/movie-web)
+### [dbsyncer](https://github.com/86dbs/dbsyncer)
 
-开源可自部署的简约在线电影搜索观看项目：
+`DBSyncer`（简称dbs）是一款开源的数据同步中间件，提供`MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL`等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
 
-- 自动保存进度
-- 记录观看电影
-- 简约的界面，展示内容克制
+- 组合驱动，自定义库同步到库组合，关系型数据库与非关系型之间组合，任意搭配表同步映射关系
+- 实时监控，驱动全量或增量实时同步运行状态、结果、同步日志和系统日志
+- 开发插件，自定义转化同步逻辑
 
-![movie-web](https://images-1252557999.file.myqcloud.com/uPic/movie-web.jpg)
+![dbsyncer](https://images-1252557999.file.myqcloud.com/uPic/dbsyncer.webp) 
 
-所有内容都是从第三方获取的，并且抓取操作在客户端完成，项目包含以下模块：
+### [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web)
 
-- 代理
-- 前端
-- 后端
+带有用户管理和后台面板的 ChatGPT 网页应用：
 
-这三块全部可以自部署，文档写的也挺清晰我试了下，播放霸王别姬：
-
-![movie_demo](https://images-1252557999.file.myqcloud.com/uPic/movie_demo.jpg) 
-
-### [jina](https://github.com/jina-ai/jina)
-
-![jina](https://images-1252557999.file.myqcloud.com/uPic/9MHbAU.png)
-
-云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
-
-相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
+![ChatGPT-Admin-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Admin-Web.jpg) 
 
 ## 🤖 软件 
 
-### [FreeControl](https://github.com/pdone/FreeControl)
+### [stretchly](https://github.com/hovancik/stretchly)
 
-在 `PC` 上控制 `Android` 设备，基于开源项目<ins>**scrcpy**</ins>，提供简洁的交互界面。
+`Stretchly` 是一个跨平台的 `Electron` 应用程序，它的核心功能就是让你在电脑上面工作时候设定休息&提醒时间：
 
-- 编码语言 `C#`
-- 开发工具 `Visual Studio 2022`
-- 运行环境 `.NET Framework 4.7.2`
+![stretchly](https://images-1252557999.file.myqcloud.com/uPic/stretchly.jpg) 
 
-![FreeControl](https://images-1252557999.file.myqcloud.com/uPic/FreeControl.gif) 
+### [Dashboard](https://github.com/leon-kfd/Dashboard)
 
-### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
+开源的浏览器插件，用于自定义你的浏览器启动页：
 
-安全、快速与轻量的远程桌面&文件管理工具：
+![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
 
-![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
+### [localsend](https://github.com/localsend/localsend)
 
-### [namida](https://github.com/namidaco/namida)
+`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
 
-一个美观且功能丰富的音乐和视频播放器，支持 `Youtube`，基于 `Flutter` 技术构建：
-
-![namida](https://images-1252557999.file.myqcloud.com/uPic/namida.jpg) 
+![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
 
 ## 👀 资料 
 
-### [go101](https://gfw.go101.org/article/101.html)
+### [paper-reading](https://github.com/mli/paper-reading)
 
-《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
+![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
 
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
 
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
 
-### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
+### [让你受益匪浅的名家写作经验](https://docs.qq.com/aio/DWVRkZ1RUWHRsdU1J?p=4oWLX7hAfFdfdbi4Ir5wqo)
 
-30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
+各文学大家的写作经验汇总：
 
-![30-Days-Of-React](https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg) 
+![让你受益匪浅的名家写作经验](https://images-1252557999.file.myqcloud.com/uPic/让你受益匪浅的名家写作经验.jpg) 
 
 ## 🕸 网站 
 
-### [cikeee](https://www.cikeee.com/)
+### [smartexcel](https://www.smartexcel.cc/)
 
-每天推荐一部优秀的电影：
+使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
 
-![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
+![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
 
-### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
+### [damngood.tools](https://damngood.tools/)
 
-`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
+开源实用工具集合：
 
-- 可视化组件配置栏
-- 随机生成头像，有一定概率触发彩蛋
-- 撤销/还原*更改*
-- 国际化多语言
+![damngood](https://images-1252557999.file.myqcloud.com/uPic/damngood.jpg) 
 
-![vue-color-avatar](https://images-1252557999.file.myqcloud.com/uPic/n3gXb6.png) 
+### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
 
-### [onlinedoctranslator](https://www.onlinedoctranslator.com/zh-CN/)
+来自阿里体系的各种技术资料，全部免费，个人非常推荐。
 
-立即翻译任何文档格式为任意语言，并保持排版不变，免费：
-
-![onlinedoctranslator](https://images-1252557999.file.myqcloud.com/uPic/onlinedoctranslator.jpg) 
+![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
 
 ## ✍️ 说明
 
