@@ -5,84 +5,91 @@
 
 ## 🎯 项目 
 
-### [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)
+### [pushdeer](https://github.com/easychen/pushdeer)
 
-基于 `Docker` 的 `Web PDF` 操作工具，允许您对 `PDF` 文件执行各种操作，如拆分、合并、转换、重新组织、添加图像、旋转、压缩等：
+开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备：
 
-![Stirling-PDF](https://images-1252557999.file.myqcloud.com/uPic/Stirling-PDF.png) 
+![pushdeer](https://images-1252557999.file.myqcloud.com/uPic/pushdeer.jpg) 
 
-### [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
+### [wazuh](https://github.com/wazuh/wazuh)
 
-国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。
+`Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具。
 
-虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！ 
+![wazuh](https://images-1252557999.file.myqcloud.com/uPic/wazuh.png) 
 
-### [photoprism](https://github.com/photoprism/photoprism)
+### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 
-基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
+一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
 
-![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
+![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
 
 ## 🤖 软件 
 
-### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
+### [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
 
-`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
+安卓的 `BiliBili、NicoNico、YouTube` 替换客户端，支持弹幕、评论、登录下载：
 
-![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
+![pipepipe](https://images-1252557999.file.myqcloud.com/uPic/pipepipe.jpg) 
 
-### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
+### [chatd.ai](https://www.chatd.ai/)
 
-短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
+您自己的私人本地AI，可以阅读计算机上的文件然后与您的文件进行聊天，该软件目标如下：
 
-![SmsForwarder](https://images-1252557999.file.myqcloud.com/uPic/v6owv0.jpg)
-如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
+- 一键式下载与启动。
+- 无需额外依赖。
+- 应用文件体积最小化。
+- 设计简单的大语言模型版本控制与分发系统。
+- 兼容所有主流操作系统。
+- 利用本地运行的优势，如访问本地文件系统。
+- 用户无需调整任何设置，大语言模型在他们的系统上即插即用。
 
-### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
+详情见介绍文章：[packaging-language-models-into-desktop-apps](https://www.bmacd.xyz/packaging-language-models-into-desktop-apps/) 
 
-网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
+### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
 
-![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
+安全、快速与轻量的远程桌面&文件管理工具：
+
+![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
 
 ## 👀 资料 
 
-### [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+### [unplugged](https://github.com/liuxinyu95/unplugged)
 
-《Python for Data Analysis》第三版，该书详细介绍了如何使用 `Python` 进行数据分析和数据处理的方法和技巧，适合那些希望使用Python进行数据分析的初学者和有经验的数据分析师：
+刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
 
-![wesmckinney](https://images-1252557999.file.myqcloud.com/uPic/wesmckinney.jpg) 
+![unplugged](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-10-23_21-49-37.jpg)
 
-### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
+如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
 
-`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
+### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
 
-![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
+此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
 
-### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
+### [大模型交叉研讨课](https://www.openbmb.org/community/course)
 
-`OpenAI` 出品的的深度强化学习教程：
+OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：
 
-![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
+![openbmb_course](https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg) 
 
 ## 🕸 网站 
 
-### [chuhai.tools](https://chuhai.tools/)
+### [musetransfer](https://musetransfer.com/)
 
-独立开发者出海技术栈和工具集合:
+`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
 
-![chuhai](https://images-1252557999.file.myqcloud.com/uPic/chuhai.jpg) 
+![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
 
-### [shell.how](https://www.shell.how/)
+### [jsont.run](https://www.jsont.run/)
 
-网站用优雅的交互和排版告诉你Linux命令的作用：
+一个简洁的在线 `JSON` 解析器：
 
-![shell_howe](https://images-1252557999.file.myqcloud.com/uPic/shell_howe.jpg) 
+![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
 
-### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
+### [etempmail](https://etempmail.com/zh)
 
-一个搜索 git 常用 emoji 的网站:
+一个免费提供临时电子邮件服务的网站，可以用来注册并获取需要教育邮箱才能获取的福利。
 
-![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
+![edu_mail](https://images-1252557999.file.myqcloud.com/uPic/edu_mail.png) 
 
 ## ✍️ 说明
 
