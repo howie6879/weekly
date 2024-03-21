@@ -5,91 +5,97 @@
 
 ## 🎯 项目 
 
-### [pushdeer](https://github.com/easychen/pushdeer)
+### [yuque-tools](https://github.com/vannvan/yuque-tools)
 
-开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备：
+玩转语雀-朴实无华的语雀工具集合，语雀知识库批量导出工具(无需Token)｜浏览器插件助手：
 
-![pushdeer](https://images-1252557999.file.myqcloud.com/uPic/pushdeer.jpg) 
+- 个人知识库
+- 空间(团队)知识库
+- 协作知识库
+- 小记 
 
-### [wazuh](https://github.com/wazuh/wazuh)
+![yuque-tools](https://images-1252557999.file.myqcloud.com/uPic/yuque-tools.jpg) 
 
-`Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具。
+### [zfile](https://github.com/zhaojun1998/zfile)
 
-![wazuh](https://images-1252557999.file.myqcloud.com/uPic/wazuh.png) 
+基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
 
-### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
 
-一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
+### [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)
 
-![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
+将 `Github Copilot Chat` 请求转换为 `ChatGPT` 请求，免费使用 `GPT-4` 模型：
+
+![copilot-gpt4-service](https://images-1252557999.file.myqcloud.com/uPic/copilot-gpt4-service.png) 
 
 ## 🤖 软件 
 
-### [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
+### [B站录播姬](https://rec.danmuji.org/)
 
-安卓的 `BiliBili、NicoNico、YouTube` 替换客户端，支持弹幕、评论、登录下载：
+一个方便好用免费开源的哔哩哔哩直播录制工具：
 
-![pipepipe](https://images-1252557999.file.myqcloud.com/uPic/pipepipe.jpg) 
+![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
 
-### [chatd.ai](https://www.chatd.ai/)
+### [wowtab](https://wowtab.microsoft.com/)
 
-您自己的私人本地AI，可以阅读计算机上的文件然后与您的文件进行聊天，该软件目标如下：
+微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：
 
-- 一键式下载与启动。
-- 无需额外依赖。
-- 应用文件体积最小化。
-- 设计简单的大语言模型版本控制与分发系统。
-- 兼容所有主流操作系统。
-- 利用本地运行的优势，如访问本地文件系统。
-- 用户无需调整任何设置，大语言模型在他们的系统上即插即用。
+![wowtab](https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg) 
 
-详情见介绍文章：[packaging-language-models-into-desktop-apps](https://www.bmacd.xyz/packaging-language-models-into-desktop-apps/) 
+### [Screenbox](https://github.com/huynhsontung/Screenbox)
 
-### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
+Screenbox 是一款现代视频播放器，构建在 LibVLCSharp 和通用 Windows 平台 (UWP) 之上，颜值颇高，同时又快速、轻量级。支持在 Windows 10 版本 1903+、Windows 11 和 Xbox 主机上使用:
 
-安全、快速与轻量的远程桌面&文件管理工具：
-
-![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
+![Screenbox](https://images-1252557999.file.myqcloud.com/uPic/Screenbox.jpg) 
 
 ## 👀 资料 
 
-### [unplugged](https://github.com/liuxinyu95/unplugged)
+### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
 
-刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
+📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
 
-![unplugged](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-10-23_21-49-37.jpg)
+![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
 
-如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
+### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 
-### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
+微软设计的机器学习课程，完全面向新手：
 
-此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
+- 时间：12周
+- 课程：25课
+- 实验：50个 
 
-### [大模型交叉研讨课](https://www.openbmb.org/community/course)
+### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
 
-OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：
+应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
 
-![openbmb_course](https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg) 
+这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
+
+- 入侵排查
+- 日志分析
+- 权限维持
+- Windows实战
+- Linux实战
+- Web实战 
 
 ## 🕸 网站 
 
-### [musetransfer](https://musetransfer.com/)
+### [iconbuddy](https://iconbuddy.app/svg-icons)
 
-`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
+`SVG` 图标检索网站（目前有18万图标），可简单编辑和下载：
 
-![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
+![iconbuddy](https://images-1252557999.file.myqcloud.com/uPic/iconbuddy.jpg) 
 
-### [jsont.run](https://www.jsont.run/)
+### [pixian.ai](https://pixian.ai/)
 
-一个简洁的在线 `JSON` 解析器：
+免登录图片背景消除网页，2023-07-21 当前属于测试期间，是免费的：
 
-![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
+![pixian](https://images-1252557999.file.myqcloud.com/uPic/pixian.jpg) 
 
-### [etempmail](https://etempmail.com/zh)
+### [jaywcjlove/reference](https://wangchujiang.com/reference/)
 
-一个免费提供临时电子邮件服务的网站，可以用来注册并获取需要教育邮箱才能获取的福利。
+为开发人员分享快速参考备忘清单【速查表】，也可以直接通过 github 访问-> [jaywcjlove/reference](https://github.com/jaywcjlove/reference) :
 
-![edu_mail](https://images-1252557999.file.myqcloud.com/uPic/edu_mail.png) 
+![reference](https://images-1252557999.file.myqcloud.com/uPic/reference.png) 
 
 ## ✍️ 说明
 
