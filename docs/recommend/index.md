@@ -5,97 +5,106 @@
 
 ## 🎯 项目 
 
-### [yuque-tools](https://github.com/vannvan/yuque-tools)
+### [onenav](https://github.com/helloxz/onenav)
 
-玩转语雀-朴实无华的语雀工具集合，语雀知识库批量导出工具(无需Token)｜浏览器插件助手：
+使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问：
 
-- 个人知识库
-- 空间(团队)知识库
-- 协作知识库
-- 小记 
+支持后台管- 理
+- 支持私有链接
+- 支持Chrome/Firefox/Edge书签批量导入
+- 支持多种主题风格
+- 支持链接信息自动识别
+- 支持API
+- 支持Docker部署
+- 支持uTools插件
+- 支持二级分类
+- 支持Chromium内核的浏览器扩展（插件）
+- 支持在线更新
+- 手机版后台
 
-![yuque-tools](https://images-1252557999.file.myqcloud.com/uPic/yuque-tools.jpg) 
+![onenav](https://images-1252557999.file.myqcloud.com/uPic/onenav.png) 
 
-### [zfile](https://github.com/zhaojun1998/zfile)
+### [Hakuba](https://github.com/YeungKC/Hakuba)
 
-基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
+一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
 
-![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
+![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
 
-### [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)
+### [12306spy](https://github.com/elroy93/12306spy)
 
-将 `Github Copilot Chat` 请求转换为 `ChatGPT` 请求，免费使用 `GPT-4` 模型：
+从12306购票，从A点到B点没有票，但是可以补票或者多买一段票。这个项目可以让你通过这种方式买到票：
 
-![copilot-gpt4-service](https://images-1252557999.file.myqcloud.com/uPic/copilot-gpt4-service.png) 
+![12306spy](https://images-1252557999.file.myqcloud.com/uPic/12306spy.jpg) 
 
 ## 🤖 软件 
 
-### [B站录播姬](https://rec.danmuji.org/)
+### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
 
-一个方便好用免费开源的哔哩哔哩直播录制工具：
+`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
 
-![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
+![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
 
-### [wowtab](https://wowtab.microsoft.com/)
+### [SwiftBar](https://github.com/swiftbar/SwiftBar)
 
-微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：
+一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
 
-![wowtab](https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg) 
+![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
 
-### [Screenbox](https://github.com/huynhsontung/Screenbox)
+### [apkupdater](https://github.com/rumboalla/apkupdater)
 
-Screenbox 是一款现代视频播放器，构建在 LibVLCSharp 和通用 Windows 平台 (UWP) 之上，颜值颇高，同时又快速、轻量级。支持在 Windows 10 版本 1903+、Windows 11 和 Xbox 主机上使用:
+`APKUpdater` 是一个开源工具，它能让你轻松追踪和更新你的 `APK` 应用。
+它提供类似于应用商店的功能，但不依赖于单一来源，而是把 `APKMirror、Aptoide、F-Droid、IzzyOnDroid、APKPure、GitLab、GitHub` 这 7 大平台的应用资源都聚合在一起：
 
-![Screenbox](https://images-1252557999.file.myqcloud.com/uPic/Screenbox.jpg) 
+![apkupdater](https://images-1252557999.file.myqcloud.com/uPic/apkupdater.jpg) 
 
 ## 👀 资料 
 
-### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
+### [Large Language Models Practical Course](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce)
 
-📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
+开源([Large Language Models Practical Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course))的关于大型语言模型的实践课程，通过使用 `OpenAI` 和 `Hugging Face` 库的模型进行实际操作来提供实践经验，课程主要包括：
 
-![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
+- Techniques and Libraries
+- Projects
+- Enterprise Solutions
 
-### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+![large-language-models-practical-course](https://images-1252557999.file.myqcloud.com/uPic/large-language-models-practical-course.jpg)
 
-微软设计的机器学习课程，完全面向新手：
+> 附带一个 Mac 微调大模型的文章：[A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) 
 
-- 时间：12周
-- 课程：25课
-- 实验：50个 
+### [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 
-### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
+微软免费课程：12堂课入门生成式AI，从而开始构建你自己的生成式人工智能应用程序：
 
-应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
+![generative-ai-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/generative-ai-for-beginners.png) 
 
-这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
+### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 
-- 入侵排查
-- 日志分析
-- 权限维持
-- Windows实战
-- Linux实战
-- Web实战 
+每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
+
+![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
 
 ## 🕸 网站 
 
-### [iconbuddy](https://iconbuddy.app/svg-icons)
+### [uisdc.com](https://hao.uisdc.com/)
 
-`SVG` 图标检索网站（目前有18万图标），可简单编辑和下载：
+设计师网站导航：
 
-![iconbuddy](https://images-1252557999.file.myqcloud.com/uPic/iconbuddy.jpg) 
+![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
 
-### [pixian.ai](https://pixian.ai/)
+### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
 
-免登录图片背景消除网页，2023-07-21 当前属于测试期间，是免费的：
+作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
 
-![pixian](https://images-1252557999.file.myqcloud.com/uPic/pixian.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/bdd-3d.png)
 
-### [jaywcjlove/reference](https://wangchujiang.com/reference/)
 
-为开发人员分享快速参考备忘清单【速查表】，也可以直接通过 github 访问-> [jaywcjlove/reference](https://github.com/jaywcjlove/reference) :
+感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
 
-![reference](https://images-1252557999.file.myqcloud.com/uPic/reference.png) 
+### [Python Tutor](https://pythontutor.com/?)
+
+这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
+
+![Python Tutor](https://images-1252557999.file.myqcloud.com/uPic/hIdiXA.png) 
 
 ## ✍️ 说明
 
