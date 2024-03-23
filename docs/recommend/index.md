@@ -5,106 +5,103 @@
 
 ## 🎯 项目 
 
-### [onenav](https://github.com/helloxz/onenav)
+### [Verdaccio](https://github.com/verdaccio/verdaccio)
 
-使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问：
+`Verdaccio` 是一个 `Node.js` 创建的轻量的私有 `npm proxy registry`：
 
-支持后台管- 理
-- 支持私有链接
-- 支持Chrome/Firefox/Edge书签批量导入
-- 支持多种主题风格
-- 支持链接信息自动识别
-- 支持API
-- 支持Docker部署
-- 支持uTools插件
-- 支持二级分类
-- 支持Chromium内核的浏览器扩展（插件）
-- 支持在线更新
-- 手机版后台
+![Verdaccio](https://images-1252557999.file.myqcloud.com/uPic/CRinc4.jpg) 
 
-![onenav](https://images-1252557999.file.myqcloud.com/uPic/onenav.png) 
+### [miniflux](https://github.com/miniflux/v2)
 
-### [Hakuba](https://github.com/YeungKC/Hakuba)
+`Miniflux` 是一个极简主义的开源 `RSS` 阅读器，它使用非常简单，可 `Docker` 部署，这样就相当于你拥有了自己的 [Feedly](https://feedly.com/) 服务，再结合一个漂亮的客户端如 [ReactFlux](https://github.com/electh/ReactFlux)，用起来就很舒服 ：
 
-一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
+![miniflux](https://images-1252557999.file.myqcloud.com/uPic/eyMYhc.png)
 
-![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
+其他类似开源有：
 
-### [12306spy](https://github.com/elroy93/12306spy)
+- [Tiny Tiny RSS](https://tt-rss.org/)：一个免费且开源的基于网络的新闻订阅（RSS/Atom）阅读器和聚合器
+- [FreshRSS](https://github.com/FreshRSS/FreshRSS)：一个自托管的RSS订阅聚合器
+- 基于以上项目构建后的客户端：
+    - [fluent-reader](https://github.com/yang991178/fluent-reader)：现代化 `RSS` 阅读器
+    - [NetNewsWire](https://netnewswire.com/)：适用于 `Mac、iPhone&iPad` 的免费开源 `RSS` 阅读器
+    - 安卓 [feedme](https://github.com/seazon/FeedMe/blob/master/doc/zh/README.md)： 一个安卓 `RSS` 阅读器，支持主流 `RSS` 服务
+    - [Refeed](https://github.com/michaelkremenetsky/Refeed)：好看的现代化客户端 
 
-从12306购票，从A点到B点没有票，但是可以补票或者多买一段票。这个项目可以让你通过这种方式买到票：
+### [omnivore](https://github.com/omnivore-app/omnivore)
 
-![12306spy](https://images-1252557999.file.myqcloud.com/uPic/12306spy.jpg) 
+无干扰、注重隐私、免费开源专为知识工作者和终身学习者而设计的稍后阅读工具：
+
+![omnivore](https://images-1252557999.file.myqcloud.com/uPic/omnivore.png) 
 
 ## 🤖 软件 
 
-### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
+### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
 
-`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
+安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
 
-![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
+![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
 
-### [SwiftBar](https://github.com/swiftbar/SwiftBar)
+### [Refined GitHub](https://github.com/refined-github/refined-github)
 
-一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
+一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
 
-![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
+那么`Refined GitHub`主要做了哪些工作呢，如下：
 
-### [apkupdater](https://github.com/rumboalla/apkupdater)
+- 浏览代码时候使空格可见
+- 添加一键式合并冲突修复程序
+- 添加表情评论头像
+- 在合并PR时，添加等待检查的选项
+- ...
 
-`APKUpdater` 是一个开源工具，它能让你轻松追踪和更新你的 `APK` 应用。
-它提供类似于应用商店的功能，但不依赖于单一来源，而是把 `APKMirror、Aptoide、F-Droid、IzzyOnDroid、APKPure、GitLab、GitHub` 这 7 大平台的应用资源都聚合在一起：
+![](https://images-1252557999.file.myqcloud.com/uPic/lI0jFl.png) 
 
-![apkupdater](https://images-1252557999.file.myqcloud.com/uPic/apkupdater.jpg) 
+### [aidea](https://github.com/mylxsw/aidea)
+
+一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：
+
+- 支持 GPT-3.5/4 问答聊天
+- 支持国产模型：通义千问，文心一言
+- 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
+
+![aidea](https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg) 
 
 ## 👀 资料 
 
-### [Large Language Models Practical Course](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce)
+### [1000h by 李笑来](https://1000h.org/)
 
-开源([Large Language Models Practical Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course))的关于大型语言模型的实践课程，通过使用 `OpenAI` 和 `Hugging Face` 库的模型进行实际操作来提供实践经验，课程主要包括：
+通过投入1000小时的注意力，你可以掌握任何你需要的东西：
 
-- Techniques and Libraries
-- Projects
-- Enterprise Solutions
+![1000h](https://images-1252557999.file.myqcloud.com/uPic/1000h.jpg) 
 
-![large-language-models-practical-course](https://images-1252557999.file.myqcloud.com/uPic/large-language-models-practical-course.jpg)
+### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
 
-> 附带一个 Mac 微调大模型的文章：[A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) 
+对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
 
-### [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
 
-微软免费课程：12堂课入门生成式AI，从而开始构建你自己的生成式人工智能应用程序：
+该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
 
-![generative-ai-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/generative-ai-for-beginners.png) 
-
-### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
-
-每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
-
-![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
+![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
 
 ## 🕸 网站 
 
-### [uisdc.com](https://hao.uisdc.com/)
+### [warp.dev](https://www.warp.dev/)
 
-设计师网站导航：
+一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
 
-![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
+![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
 
-### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
+### [theonestopradio](https://theonestopradio.com/)
 
-作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
+发现你可能喜欢的电台：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/bdd-3d.png)
+![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
 
+### [extractcss](http://extractcss.com/)
 
-感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
+提取 `html` 结构里面的 `css` 代码：
 
-### [Python Tutor](https://pythontutor.com/?)
-
-这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
-
-![Python Tutor](https://images-1252557999.file.myqcloud.com/uPic/hIdiXA.png) 
+![extractcss](https://images-1252557999.file.myqcloud.com/uPic/extractcss.jpg) 
 
 ## ✍️ 说明
 
