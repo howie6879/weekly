@@ -5,39 +5,35 @@
 
 ## 🎯 项目 
 
-### [GFPGAN](https://github.com/TencentARC/GFPGAN)
+### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 
-腾讯开源的老照片修复项目：
+一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
 
-![GFPGAN](https://images-1252557999.file.myqcloud.com/uPic/UOiwSK.jpg) 
+![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
 
-### [novu](https://github.com/novuhq/novu)
+### [dbsyncer](https://github.com/86dbs/dbsyncer)
 
-这是一个开源的基础设施项目，用于快速搭建通知中心，`Novu` 提供了一个统一的 `API`，使通过多个通道（包括应用内、推送、电子邮件、短信和聊天）发送通知变得简单：
+`DBSyncer`（简称dbs）是一款开源的数据同步中间件，提供`MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL`等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
 
-![novu](https://images-1252557999.file.myqcloud.com/uPic/novu.jpg) 
+- 组合驱动，自定义库同步到库组合，关系型数据库与非关系型之间组合，任意搭配表同步映射关系
+- 实时监控，驱动全量或增量实时同步运行状态、结果、同步日志和系统日志
+- 开发插件，自定义转化同步逻辑
 
-### [alist](https://github.com/Xhofe/alist)
+![dbsyncer](https://images-1252557999.file.myqcloud.com/uPic/dbsyncer.webp) 
 
-一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
+### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 
-![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
+`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
 
-简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
+![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
 
 ## 🤖 软件 
 
-### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
+### [LLMFarm](https://github.com/guinmoon/LLMFarm)
 
-中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
+`LLMFarm` 是一款用于与大型语言模型（LLM）配合使用的iOS和MacOS应用程序，它允许您可以使用某些参数加载不同的 LLM：
 
-![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
-
-### [V2exOS](https://github.com/isaced/V2exOS)
-
-一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端：
-
-![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png) 
+![LLMFarm](https://images-1252557999.file.myqcloud.com/uPic/LLMFarm.jpg) 
 
 ### [kopia](https://github.com/kopia/kopia)
 
@@ -45,49 +41,59 @@
 
 ![kopia](https://images-1252557999.file.myqcloud.com/uPic/kopia.webp) 
 
+### [全是漫画](https://github.com/hongchacha/cartoon)
+
+全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
+
+![comic](https://images-1252557999.file.myqcloud.com/uPic/FXXmY5.jpg) 
+
 ## 👀 资料 
 
-### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
+### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
 
-《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
+《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
 
-![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
+![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
 
-### [how-web-works](https://github.com/vasanthk/how-web-works)
+### [howtheytest](https://github.com/abhivaikar/howtheytest)
 
-当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
+关于软件公司如何测试其软件的公共资源集合：
 
-### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
+![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
 
-如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
+### [llm-universe](https://github.com/datawhalechina/llm-universe)
 
-这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
+本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：
 
-其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
+- 大模型简介，何为大模型、大模型特点是什么、LangChain 是什么，针对小白开发者的简单介绍；
+- 如何调用大模型 API，本节介绍了国内外知名大模型产品 API 的多种调用方式，包括调用原生 API、封装为 LangChain LLM、封装为 Fastapi 等调用方式，同时将包括百度文心、讯飞星火、智谱AI等多种大模型 API 进行了统一形式封装；
+- 大模型开发流程及架构，大模型应用开发的基本流程、一般思想和本项目的架构分析；
+- 数据库搭建，不同类型知识库文档的加载、处理，向量数据库的搭建；
+- Prompt 设计，如何设计 Prompt 来让大模型完成特定任务，Prompt Engineering 的原则和技巧有哪些；
+- 验证迭代，大模型开发如何实现验证迭代，一般的评估方法有什么；
+- 前后端开发，如何使用 Gradio、FastAPI 等框架快速开发大模型 Demo，展示应用能力。
 
-![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
+![llm-universe](https://images-1252557999.file.myqcloud.com/uPic/llm-universe.png) 
 
 ## 🕸 网站 
 
-### [读书笔记](https://reading.geek-docs.com/)
+### [FRE123-动漫搜索引擎](https://www.fre123.com/anime/s)
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+`FRE123` 周末新上了个动漫番剧搜索引擎，主要是汇集一些比较好的番剧网站资源，提供搜索服务，让用户更快速找到自己想看到的番剧，欢迎提意见：
 
-![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
+![fre123_anime](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime.jpg) 
 
-### [emojicode](https://www.emojicode.org/)
+### [gemini-pro.chat](https://gemini-pro.chat/) 
 
-这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
+免费的谷歌 `Gemini Chat Pro`，在线网站：
 
-![emojicode](https://images-1252557999.file.myqcloud.com/uPic/emojicode.jpg)
+![gemini-pro.chat](https://images-1252557999.file.myqcloud.com/uPic/gemini-pro.chat.jpg) 
 
-现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
+### [staticrypt](https://github.com/robinmoisson/staticrypt)
 
-### [lexica.art](https://lexica.art/)
+一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
 
-可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
-
-![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
+![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
 
 ## ✍️ 说明
 
