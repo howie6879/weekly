@@ -5,103 +5,89 @@
 
 ## 🎯 项目 
 
-### [Verdaccio](https://github.com/verdaccio/verdaccio)
+### [GFPGAN](https://github.com/TencentARC/GFPGAN)
 
-`Verdaccio` 是一个 `Node.js` 创建的轻量的私有 `npm proxy registry`：
+腾讯开源的老照片修复项目：
 
-![Verdaccio](https://images-1252557999.file.myqcloud.com/uPic/CRinc4.jpg) 
+![GFPGAN](https://images-1252557999.file.myqcloud.com/uPic/UOiwSK.jpg) 
 
-### [miniflux](https://github.com/miniflux/v2)
+### [novu](https://github.com/novuhq/novu)
 
-`Miniflux` 是一个极简主义的开源 `RSS` 阅读器，它使用非常简单，可 `Docker` 部署，这样就相当于你拥有了自己的 [Feedly](https://feedly.com/) 服务，再结合一个漂亮的客户端如 [ReactFlux](https://github.com/electh/ReactFlux)，用起来就很舒服 ：
+这是一个开源的基础设施项目，用于快速搭建通知中心，`Novu` 提供了一个统一的 `API`，使通过多个通道（包括应用内、推送、电子邮件、短信和聊天）发送通知变得简单：
 
-![miniflux](https://images-1252557999.file.myqcloud.com/uPic/eyMYhc.png)
+![novu](https://images-1252557999.file.myqcloud.com/uPic/novu.jpg) 
 
-其他类似开源有：
+### [alist](https://github.com/Xhofe/alist)
 
-- [Tiny Tiny RSS](https://tt-rss.org/)：一个免费且开源的基于网络的新闻订阅（RSS/Atom）阅读器和聚合器
-- [FreshRSS](https://github.com/FreshRSS/FreshRSS)：一个自托管的RSS订阅聚合器
-- 基于以上项目构建后的客户端：
-    - [fluent-reader](https://github.com/yang991178/fluent-reader)：现代化 `RSS` 阅读器
-    - [NetNewsWire](https://netnewswire.com/)：适用于 `Mac、iPhone&iPad` 的免费开源 `RSS` 阅读器
-    - 安卓 [feedme](https://github.com/seazon/FeedMe/blob/master/doc/zh/README.md)： 一个安卓 `RSS` 阅读器，支持主流 `RSS` 服务
-    - [Refeed](https://github.com/michaelkremenetsky/Refeed)：好看的现代化客户端 
+一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
 
-### [omnivore](https://github.com/omnivore-app/omnivore)
+![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
 
-无干扰、注重隐私、免费开源专为知识工作者和终身学习者而设计的稍后阅读工具：
-
-![omnivore](https://images-1252557999.file.myqcloud.com/uPic/omnivore.png) 
+简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
 
 ## 🤖 软件 
 
-### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 
-安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
 
-![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
+![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
 
-### [Refined GitHub](https://github.com/refined-github/refined-github)
+### [V2exOS](https://github.com/isaced/V2exOS)
 
-一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
+一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端：
 
-那么`Refined GitHub`主要做了哪些工作呢，如下：
+![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png) 
 
-- 浏览代码时候使空格可见
-- 添加一键式合并冲突修复程序
-- 添加表情评论头像
-- 在合并PR时，添加等待检查的选项
-- ...
+### [kopia](https://github.com/kopia/kopia)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/lI0jFl.png) 
+跨平台备份/还原工具，它能够将指定的文件和目录加密压缩后生成快照，然后上传到远程服务器或云存储，实现远程备份数据的功能，开箱即用支持命令行和 `GUI` 两种使用方式：
 
-### [aidea](https://github.com/mylxsw/aidea)
-
-一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：
-
-- 支持 GPT-3.5/4 问答聊天
-- 支持国产模型：通义千问，文心一言
-- 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
-
-![aidea](https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg) 
+![kopia](https://images-1252557999.file.myqcloud.com/uPic/kopia.webp) 
 
 ## 👀 资料 
 
-### [1000h by 李笑来](https://1000h.org/)
+### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
 
-通过投入1000小时的注意力，你可以掌握任何你需要的东西：
+《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 
-![1000h](https://images-1252557999.file.myqcloud.com/uPic/1000h.jpg) 
+![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
 
-### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
+### [how-web-works](https://github.com/vasanthk/how-web-works)
 
-对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
+当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
 
-### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
 
-该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
 
-![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
+这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
+
+其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
+
+![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
 
 ## 🕸 网站 
 
-### [warp.dev](https://www.warp.dev/)
+### [读书笔记](https://reading.geek-docs.com/)
 
-一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
+网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
 
-![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
+![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
 
-### [theonestopradio](https://theonestopradio.com/)
+### [emojicode](https://www.emojicode.org/)
 
-发现你可能喜欢的电台：
+这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
 
-![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
+![emojicode](https://images-1252557999.file.myqcloud.com/uPic/emojicode.jpg)
 
-### [extractcss](http://extractcss.com/)
+现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
 
-提取 `html` 结构里面的 `css` 代码：
+### [lexica.art](https://lexica.art/)
 
-![extractcss](https://images-1252557999.file.myqcloud.com/uPic/extractcss.jpg) 
+可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
+
+![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
 
 ## ✍️ 说明
 
