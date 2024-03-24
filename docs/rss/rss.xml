@@ -12,7 +12,83 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 17 Mar 2024 04:15:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 15:31:49 +0000</lastBuildDate>
+    <item>
+      <title>03-18~03-24.老胡的周刊（第134期）.md</title>
+      <link>https://weekly.howie6879.com/2024/03-18~03-24.老胡的周刊（第134期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/03-18~03-24.老胡的周刊（第134期）.html"&gt;03-18~03-24.老胡的周刊（第134期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/LlamaFamily/Llama-Chinese"&gt;Llama-Chinese&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;专注于 &lt;code&gt;Llama&lt;/code&gt; 模型在中文方面的优化和上层建设的高级技术社区，基于大规模中文数据，从预训练开始对 &lt;code&gt;Llama2&lt;/code&gt; 模型进行中文能力的持续迭代升级，完全开源可商用：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Llama-Chinese" src="https://images-1252557999.file.myqcloud.com/uPic/Llama-Chinese.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="atom_chatbot" src="https://images-1252557999.file.myqcloud.com/uPic/atom_chatbot.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/budtmo/docker-android"&gt;docker-android&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Android&lt;/code&gt; 的 &lt;code&gt;Docker&lt;/code&gt; 解决方案，支持 &lt;code&gt;noVNC&lt;/code&gt; 和视频录制，项目提供了多个版本的 Android 镜像，包括最新版本和特定版本号的镜像，如 Android 9.0、10.0到14.0 等，以及对应的 Genymotion 镜像：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="docker-android" src="https://images-1252557999.file.myqcloud.com/uPic/docker-android.png" /&gt;&lt;/p&gt;
+&lt;p&gt;其他类似好玩的项目：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/huan/docker-wechat"&gt;docker-wechat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/dockur/windows"&gt;dockur/windows&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/sickcodes/Docker-OSX"&gt;Docker-OSX&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO"&gt;ComfyUI-Workflows-ZHO&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://github.com/comfyanonymous/ComfyUI"&gt;ComfyUI&lt;/a&gt; 是一个基于节点的 &lt;code&gt;Stable Diffusion GUI&lt;/code&gt;，你可以通过将不同的块链接在一起来构建图像生成工作流程：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ComfyUI-Workflows-ZHO" src="https://images-1252557999.file.myqcloud.com/uPic/ComfyUI-Workflows-ZHO.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;老胡之前也推荐过 &lt;a href="https://www.comflowy.com/zh-CN"&gt;Comflowy&lt;/a&gt; 的社区，致力于提供系统成熟的教程和经验文档。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/pulsejet/memories"&gt;memories&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;构建于 &lt;code&gt;Nextcloud&lt;/code&gt; 之上的照片管理器，基本包含了照片管理器的常见功能，值得安装体验（前提是你正在使用 Nextcloud）：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="memories" src="https://images-1252557999.file.myqcloud.com/uPic/memories.jpeg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/MrKai77/Loop"&gt;Loop&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;让窗口管理 &lt;code&gt;MacOS&lt;/code&gt; 变得优雅：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Loop" src="https://images-1252557999.file.myqcloud.com/uPic/Loop.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;安装好如果有权限问题，执行如下命令：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;shell
+sudo xattr -cr  /Applications/Loop.app&lt;/code&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/crow-translate/crow-translate"&gt;crow-translate&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个简单而轻巧的翻译器，可以使用 &lt;code&gt;Google、Yandex Bing、LibreTranslate&amp;amp;Lingva&lt;/code&gt; 来翻译和朗读文本：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="crow-translate" src="https://images-1252557999.file.myqcloud.com/uPic/crow-translate.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ImranR98/Obtainium"&gt;Obtainium&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;聚合安卓应用源，然后获取程序更新，&lt;code&gt;Obtainium&lt;/code&gt; 允许用户直接从发布页面安装和更新应用程序，并在发布新版本时接收通知：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Obtainium" src="https://images-1252557999.file.myqcloud.com/uPic/Obtainium.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/zouhangwithsweet/fubukicss-tool"&gt;fubukicss-tool&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;解决 &lt;code&gt;Figma&lt;/code&gt; 设计图查看代码需要升级付费的问题，该项目提供一个浏览器扩展，可以一步获取来自 &lt;code&gt;Figma&lt;/code&gt; 设计图的 &lt;code&gt;TailwindCSS/Unocss/CSS&lt;/code&gt; 代码，加速开发：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="fubukicss-tool" src="https://images-1252557999.file.myqcloud.com/uPic/fubukicss-tool.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://jxp73q7qjsg.feishu.cn/docx/WCNZdKDa4o2eUrxK5ElcfBXEnah"&gt;Sam Altman的创业手册&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Sam Altman&lt;/code&gt; 的创业手册文本，给YC系创始人们的建议里面最通用的一部分提炼出来变成一个创业手册。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/jsksxs360/How-to-use-Transformers"&gt;How-to-use-Transformers&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Transformers 库快速入门&lt;a href="https://transformers.run/"&gt;教程&lt;/a&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="How-to-use-Transformers" src="https://images-1252557999.file.myqcloud.com/uPic/How-to-use-Transformers.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://docs.anthropic.com/claude/prompt-library"&gt;Anthropic&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Anthropic 公司推出的提示词库，里面有 &lt;code&gt;Anthropic&lt;/code&gt; 提供的非常多的示例提示词，非常方便：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="anthropic" src="https://images-1252557999.file.myqcloud.com/uPic/anthropic.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.waytoagi.com/"&gt;waytoagi&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;AI&lt;/code&gt; 知识库和工具站：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="waytoagi" src="https://images-1252557999.file.myqcloud.com/uPic/waytoagi.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://app.haikei.app/"&gt;Haiker&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Haikei&lt;/code&gt; 是一款用于生成 &lt;code&gt;SVG&lt;/code&gt; 形状、背景和图案的在线工具，无需注册也能使用：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="haikei" src="https://images-1252557999.file.myqcloud.com/uPic/haikei.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://whatpwacando.today/"&gt;whatpwacando&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;该网站功能用于介绍 PWA 的技术进展：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="whatpwacando" src="https://images-1252557999.file.myqcloud.com/uPic/whatpwacando.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://weekly.fre123.com/"&gt;https://weekly.fre123.com/&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">03-18~03-24.老胡的周刊（第134期）.md</guid>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>03-11~03-17.老胡的周刊（第133期）.md</title>
       <link>https://weekly.howie6879.com/2024/03-11~03-17.老胡的周刊（第133期）.html</link>
