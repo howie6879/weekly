@@ -5,95 +5,81 @@
 
 ## 🎯 项目 
 
-### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+### [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)
 
-一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
+一键免费部署你的私人 AutoGPT-Next-Web 网页应用:
 
-![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
+![AutoGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png) 
 
-### [dbsyncer](https://github.com/86dbs/dbsyncer)
+### [rathole](https://github.com/rapiz1/rathole)
 
-`DBSyncer`（简称dbs）是一款开源的数据同步中间件，提供`MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL`等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
+安全、稳定、高性能的内网穿透工具，用 Rust 语言编写。 
 
-- 组合驱动，自定义库同步到库组合，关系型数据库与非关系型之间组合，任意搭配表同步映射关系
-- 实时监控，驱动全量或增量实时同步运行状态、结果、同步日志和系统日志
-- 开发插件，自定义转化同步逻辑
+### [jina](https://github.com/jina-ai/jina)
 
-![dbsyncer](https://images-1252557999.file.myqcloud.com/uPic/dbsyncer.webp) 
+![jina](https://images-1252557999.file.myqcloud.com/uPic/9MHbAU.png)
 
-### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
+云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
 
-`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
-
-![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
+相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
 
 ## 🤖 软件 
 
-### [LLMFarm](https://github.com/guinmoon/LLMFarm)
+### [Readhubn](https://github.com/shensven/Readhubn)
 
-`LLMFarm` 是一款用于与大型语言模型（LLM）配合使用的iOS和MacOS应用程序，它允许您可以使用某些参数加载不同的 LLM：
+如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
 
-![LLMFarm](https://images-1252557999.file.myqcloud.com/uPic/LLMFarm.jpg) 
+![readhub](https://images-1252557999.file.myqcloud.com/uPic/pZfUjT.png) 
 
-### [kopia](https://github.com/kopia/kopia)
+### [FluentRead](https://github.com/Bistutu/FluentRead)
 
-跨平台备份/还原工具，它能够将指定的文件和目录加密压缩后生成快照，然后上传到远程服务器或云存储，实现远程备份数据的功能，开箱即用支持命令行和 `GUI` 两种使用方式：
+一个开源油猴脚本，拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验：
 
-![kopia](https://images-1252557999.file.myqcloud.com/uPic/kopia.webp) 
+![FluentRead](https://images-1252557999.file.myqcloud.com/uPic/FluentRead.gif) 
 
-### [全是漫画](https://github.com/hongchacha/cartoon)
+### [dbgate](https://github.com/dbgate/dbgate)
 
-全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
+支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
 
-![comic](https://images-1252557999.file.myqcloud.com/uPic/FXXmY5.jpg) 
+![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
 
 ## 👀 资料 
 
-### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
+### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
 
-《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
+![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
 
-![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
+### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
 
-### [howtheytest](https://github.com/abhivaikar/howtheytest)
+吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
 
-关于软件公司如何测试其软件的公共资源集合：
+![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
 
-![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
+### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
 
-### [llm-universe](https://github.com/datawhalechina/llm-universe)
+为初学者整理的免费 `CSS` 课程：
 
-本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：
-
-- 大模型简介，何为大模型、大模型特点是什么、LangChain 是什么，针对小白开发者的简单介绍；
-- 如何调用大模型 API，本节介绍了国内外知名大模型产品 API 的多种调用方式，包括调用原生 API、封装为 LangChain LLM、封装为 Fastapi 等调用方式，同时将包括百度文心、讯飞星火、智谱AI等多种大模型 API 进行了统一形式封装；
-- 大模型开发流程及架构，大模型应用开发的基本流程、一般思想和本项目的架构分析；
-- 数据库搭建，不同类型知识库文档的加载、处理，向量数据库的搭建；
-- Prompt 设计，如何设计 Prompt 来让大模型完成特定任务，Prompt Engineering 的原则和技巧有哪些；
-- 验证迭代，大模型开发如何实现验证迭代，一般的评估方法有什么；
-- 前后端开发，如何使用 Gradio、FastAPI 等框架快速开发大模型 Demo，展示应用能力。
-
-![llm-universe](https://images-1252557999.file.myqcloud.com/uPic/llm-universe.png) 
+![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
 
 ## 🕸 网站 
 
-### [FRE123-动漫搜索引擎](https://www.fre123.com/anime/s)
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
 
-`FRE123` 周末新上了个动漫番剧搜索引擎，主要是汇集一些比较好的番剧网站资源，提供搜索服务，让用户更快速找到自己想看到的番剧，欢迎提意见：
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
 
-![fre123_anime](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime.jpg) 
+![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
 
-### [gemini-pro.chat](https://gemini-pro.chat/) 
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
 
-免费的谷歌 `Gemini Chat Pro`，在线网站：
+PDF Squeezer 是一款 PDF 压缩工具：
 
-![gemini-pro.chat](https://images-1252557999.file.myqcloud.com/uPic/gemini-pro.chat.jpg) 
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
-### [staticrypt](https://github.com/robinmoisson/staticrypt)
+### [devdocs](https://devdocs.io/)
 
-一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
+提供在线快速查找API接口文档的网站：
 
-![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
+![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
 
 ## ✍️ 说明
 
