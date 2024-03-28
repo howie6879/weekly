@@ -5,104 +5,89 @@
 
 ## 🎯 项目 
 
-### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
+### [ChatALL](https://github.com/sunner/ChatALL)
 
-抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
+同时与所有 AI 机器人聊天，然后发现最佳选择：
 
-![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
+![ChatALL](https://images-1252557999.file.myqcloud.com/uPic/ChatALL.png) 
 
-### [daedalOS](https://github.com/DustinBrett/daedalOS)
+### [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi)
 
-`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
+基于 `Mikan Project、qBittorrent` 的全自动追番整理下载工具。只需要在 `Mikan Project` 上订阅番剧，就可以全自动追番。并且整理完成的名称和目录可以直接被 `Plex、Jellyfin` 等媒体库软件识别，无需二次刮削：
 
-![daedalOS](https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png) 
+![Auto_Bangumi](https://images-1252557999.file.myqcloud.com/uPic/Auto_Bangumi.png) 
 
-### [milvus](https://github.com/milvus-io/milvus)
+### [wallabag](https://github.com/wallabag/wallabag)
 
-`Milvus` 是一款开源的特征向量搜索引擎：
+一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
 
-![milvus](https://images-1252557999.file.myqcloud.com/uPic/milvus.jpg) 
+- 浏览器插件收集网页信息
+- 安卓/IOS/网页端阅读以及管理
+
+![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
 
 ## 🤖 软件 
 
-### [SwitchHosts](https://github.com/oldj/SwitchHosts)
+### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
 
-`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
+基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
 
-![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
-和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
+- 干净简洁的UI
+- 内置效果可实现准确的男声和女声
+- 创建&加载自定义预设的能力
+- 创建自己的临时虚拟输入设备
 
-### [Quake](https://github.com/phodal/quake)
+![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
 
-Quake 是面向极客的知识管理元框架，它可以：
+### [postcat](https://github.com/Postcatlab/postcat)
 
-- 自由的文本内容管理。Todo 清单、文章管理、书评、笔记等。
-- 构建知识网络体系。定制化 markdown 链接
-- 抓住稍纵即逝的灵感。支持快速启动（CLI、TUI）与全局搜索
-- 自由的呈现画布。DSL 与自由画板
+`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
 
-![quake](https://images-1252557999.file.myqcloud.com/uPic/quake.gif) 
+![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
 
-### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
+### [pdfarranger](https://github.com/pdfarranger/pdfarranger)
 
-M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
+一个小巧开源免费的 `Python-GTK` 应用程序，可以帮助用户使用交互和直观的图形界面合并或拆分 `PDF` 文档，并旋转、裁剪和重新排列页面：
 
-| 功能                 | 支持       |
-| -------------------- | ---------- |
-| HLS协议点播源        | ✓          |
-| 自定义Http协议头下载 | ✓          |
-| 自定义KEY和IV解密    | ✓          |
-| 本地M3U8文件下载     | ✓          |
-| M3U8 直播源          | ✓          |
-| 标准 AES-128-CBC加密 | ✓          |
-| 标准 AES-196-CBC加密 | ✓          |
-| 标准 AES-256-CBC加密 | ✓          |
-| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
-| 网页嗅探视频源       | ✓          |
-
-![HLSDownloadShow](https://images-1252557999.file.myqcloud.com/uPic/HLSDownloadShow.gif) 
+![pdfarranger](https://images-1252557999.file.myqcloud.com/uPic/pdfarranger.png) 
 
 ## 👀 资料 
 
-### [linux-command](https://github.com/jaywcjlove/linux-command)
+### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
 
-Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
+本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
 
-![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
+### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
-### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
+微软开源的一份全面的数据科学课程，20个课时，历时10周：
 
-阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
+![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
 
-![c](https://images-1252557999.file.myqcloud.com/uPic/4uYTRJ.png) 
+### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
 
-### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
+从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
 
-2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
-
-![](https://images-1252557999.file.myqcloud.com/uPic/AHWB7M.jpg)
-
-更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
+![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
+### [neeva](https://neeva.com/search)
 
-这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
+前谷歌工程师构建的免费无广告的搜索引擎，搜索效果挺好：
 
-![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
+![neeva](https://images-1252557999.file.myqcloud.com/uPic/neeva.jpg) 
 
-### [emojimix](https://tikolu.net/emojimix/)
+### [watermark](https://watermark.liumingye.cn/)
 
-一个表情融合网站，图一个乐呵，效果如下：
+短视频/图集在线去水印解析：
 
-![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
+![watermark](https://images-1252557999.file.myqcloud.com/uPic/watermark.jpg) 
 
-### [json-to-go](https://mholt.github.io/json-to-go/)
+### [pixian.ai](https://pixian.ai/)
 
-在浏览器中将 `JSON` 转换为 `Go` 类型：
+免登录图片背景消除网页，2023-07-21 当前属于测试期间，是免费的：
 
-![json-to-go](https://images-1252557999.file.myqcloud.com/uPic/json-to-go.jpg) 
+![pixian](https://images-1252557999.file.myqcloud.com/uPic/pixian.jpg) 
 
 ## ✍️ 说明
 
