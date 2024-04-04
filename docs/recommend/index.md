@@ -5,87 +5,89 @@
 
 ## 🎯 项目 
 
-### [musicn](https://github.com/zonemeen/musicn)
+### [mall-cook](https://github.com/wangyuan389/mall-cook)
 
-🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
+Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
 
-![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
+![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
 
-### [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
+### [crawlee](https://crawlee.dev/)
 
-为你的 `PDF` 文档打造一个 `ChatGPT` 聊天机器人，可以理解成 `ChatPDF` 的开源替代版，项目里面的代码实现可以好好研究：
+基于 `Node` 编写的开源网络爬虫库：
 
-![chatpdf](https://images-1252557999.file.myqcloud.com/uPic/chatpdf.jpg) 
+![crawlee](https://images-1252557999.file.myqcloud.com/uPic/crawlee.jpg) 
 
-### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
+### [MOSS](https://github.com/OpenLMLab/MOSS)
 
-简单描述工作内容，帮你生成完整周报：
+来自复旦大学的开源工具增强型会话语言模型-MOSS:
 
-![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
+![MOSS](https://images-1252557999.file.myqcloud.com/uPic/MOSS.jpg) 
 
 ## 🤖 软件 
 
-### [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
+### [Setapp](https://go.setapp.com/invite/os8yv4jr)
 
-安卓的 `BiliBili、NicoNico、YouTube` 替换客户端，支持弹幕、评论、登录下载：
+虽然这个是个付费软件，但我还是很推荐：
 
-![pipepipe](https://images-1252557999.file.myqcloud.com/uPic/pipepipe.jpg) 
+> Setapp是由MacPaw公司于2017年推出的订阅服务，专为macOS和iOS用户提供多款精选应用程序。用户通过月费即可无限使用旗下丰富的应用集合，覆盖各种日常任务需求，无需单独购买或更新。
 
-### [Focalboard](https://github.com/mattermost/focalboard)
+订阅这个软件就可以免费使用 `Setapp` 里面 **240+** 的软件（单独买要付费的那种），比如我想使用GPT-4的对话功能，我单独买会员就是要20$。我现在直接花 **9.9\$**  订阅 `Setapp` ，然后直接里面直接使用 `Typing Mind` 就可以直接使用 GPT-4 Turbo，上下文 128k，对我来说单单这个就赚回来了。
 
-`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
+![setapp](https://images-1252557999.file.myqcloud.com/uPic/setapp.jpg) 
 
-![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
+### [Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)
 
-### [little-rat](https://github.com/dnakov/little-rat)
+由于在 `QQ` 和微信中发送 `APK` 文件时，文件名会被腾讯添加后缀.1，此 `App` 可以省去重命名步骤，直接安装：
 
-Little Rat 是一款开源的 Chrome 扩展，用于实时监测其它的 Chrome 扩展联网情况，并可以选择阻止联网，防止恶意扩展：
+- 获取安装权限（不需要读取存储权限）
+- 在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序 
 
-![little-rat](https://images-1252557999.file.myqcloud.com/uPic/little-rat.webp) 
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
+
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
+
+![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
 
 ## 👀 资料 
 
-### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
+### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
 
-从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
+![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
-![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
+### [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)
 
-### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
+从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 `PDF`:
 
-[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
+![what_are_embeddings](https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg) 
 
-目前也提供了中文版：
+### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
 
-![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
+Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
 
-### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
-
-[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
-
-**可惜永远都不会再更新了，默哀！**
-
-![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
+![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
 
 ## 🕸 网站 
 
-### [gh-card.dev](https://gh-card.dev/)
+### [chirper.ai](https://chirper.ai/zh)
 
-免费为你的 `Github` 开源项目生成卡片的网站：
+一个只允许 AI 发帖的网站，所有内容由 AI 产生：
 
-![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
+![chirper](https://images-1252557999.file.myqcloud.com/uPic/chirper.jpg) 
 
-### [Ben Eater](https://eater.net/)
+### [epub-manga-creator](https://github.com/wing-kai/epub-manga-creator)
 
-博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
+把一堆漫画图片打包成 `epub` 格式的 `Web GUI`：
 
-![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
+![epub-manga-creator](https://images-1252557999.file.myqcloud.com/uPic/epub-manga-creator.jpg) 
 
-### [etempmail](https://etempmail.com/zh)
+### [aicodeconvert](https://aicodeconvert.com/)
 
-一个免费提供临时电子邮件服务的网站，可以用来注册并获取需要教育邮箱才能获取的福利。
+[开源](https://github.com/JustAIGithub/AI-Code-Convert)的的 `AI` 代码转换工具，基于 `GPT` 实现：
 
-![edu_mail](https://images-1252557999.file.myqcloud.com/uPic/edu_mail.png) 
+- 自然语言转代码，描述需求就生成对应的代码
+- 把代码一键转换为另一种代码语言实现
+
+![aicodeconvert](https://images-1252557999.file.myqcloud.com/uPic/aicodeconvert.jpg) 
 
 ## ✍️ 说明
 
