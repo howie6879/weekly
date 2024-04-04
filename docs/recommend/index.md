@@ -5,89 +5,113 @@
 
 ## 🎯 项目 
 
-### [homelab](https://github.com/khuedoan/homelab)
+### [dbsyncer](https://github.com/86dbs/dbsyncer)
 
-一个开源的家用自托管基础设施项目，支持自动配置、操作和更新各类自托管服务，可用于打造自己的家庭开发实验室。其中包括代码自托管、证书管理、CI/CD 持续集成与交付、K8s 自动化安装和管理、实时聊天系统、应用监控面板等功能。
+`DBSyncer`（简称dbs）是一款开源的数据同步中间件，提供`MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL`等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
 
-![homelab](https://images-1252557999.file.myqcloud.com/uPic/gB9qTV.jpg) 
+- 组合驱动，自定义库同步到库组合，关系型数据库与非关系型之间组合，任意搭配表同步映射关系
+- 实时监控，驱动全量或增量实时同步运行状态、结果、同步日志和系统日志
+- 开发插件，自定义转化同步逻辑
 
-### [pico.css](https://github.com/picocss/pico)
+![dbsyncer](https://images-1252557999.file.myqcloud.com/uPic/dbsyncer.webp) 
 
-简单优雅小巧的轻量级CSS框架，特性如下：
+### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 
-- 尽量使用原生的HTML语义，上手简单
-- 仅使用CSS，无依赖
-- 在所有设备上都有优雅且一致的响应式排版
-- 默认支持亮/黑模式 
+提供多款 SS 规则，拥有强劲的广告过滤功能：
 
-### [gitrec](https://github.com/gorse-io/gitrec)
+![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
 
-作者自己维护的Gorse推荐系统，开发了一款 Chrome 插件：
+### [bore](https://github.com/ekzhang/bore)
 
-- 推荐每个热门项目的相似或者相关仓库；
-- 用 [Gorse](https://github.com/gorse-io/gorse) 生成的个性化推荐仓库替换 GitHub 官方的推荐结果。
+`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
 
-目前支持 Chrome 和 Edge 两款浏览器：
-
-![gorse](https://images-1252557999.file.myqcloud.com/uPic/gorse.png) 
+![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
 
 ## 🤖 软件 
 
-### [Sequel-Ace](https://sequel-ace.com/)
+### [batnoter](https://github.com/batnoter/batnoter)
 
-原生的 `MySQL/MariaDB` 数据库管理软件：
+一个基于 `Markdown` 的开源自托管笔记应用程序：
 
-![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
+- 使用GitHub登录。
+- 使用简洁而漂亮的界面轻松创建、编辑、删除、组织和探索笔记。
+- 支持Markdown格式，允许用户在笔记中添加超链接、表格、标题、代码块、引用等等。
+- 编辑器允许预览Markdown。
+- 使用剪贴板按钮从代码部分快速复制代码。
+- 直接将笔记存储在根目录中，或者使用文件夹对其进行组织（支持嵌套）。
+- 单击即可从特定目录中浏览所有笔记。
+- 所有笔记都存储在用户的GitHub存储库中。
+- 为避免额外的API调用，笔记被缓存。
+- 可将URL添加为书签。
+- 支持深色/浅色模式
 
-### [CotEditor](https://github.com/coteditor/CotEditor)
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.jpg) 
 
-开源的`macOS` 纯文本编辑器：
+### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 
-![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
+跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
 
-### [LibreraReader](https://github.com/foobnix/LibreraReader)
+- 🍕 全平台支持. Windows, Mac, Linux
+- 🍥 支持 IPTV, 卫视直播
+- 🍔 视频源支持自定义, 支持导入, 导出
+- 🍟 支持海报模式和列表模式浏览资源
+- 🌭 播放历史, 自动跳转历史进度
+- 🍿 收藏夹支持导入,导出, 支持同步追剧
+- 🥙 支持精简模式, 摸鱼划水
+- 🥪 一键搜索所有资源, 支持历史搜索记录
+- 🌮 导出资源下载链接
+- 🍣 支持第三方播放器播放
+- 🍤 显示豆瓣评分
 
-安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
+![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
 
-![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
+### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
+
+`TinyPNG`的`Mac`客户端：
+
+![TinyPNG4Mac](https://images-1252557999.file.myqcloud.com/uPic/TinyPNG4Mac.png) 
 
 ## 👀 资料 
 
-### [RedHat E-Book](https://developers.redhat.com/e-books)
+### [note-hack](https://github.com/xdite/note-hack)
 
-`RedHat` 开放的电子书，注册即可查看下载，质量是很不错的：
+《打造超人笔记》是一本关于如何有效记录和整理笔记的书籍。
 
-![kEvVpP](https://images-1252557999.file.myqcloud.com/uPic/kEvVpP.jpg) 
+作者认为，笔记是一个看起来复杂但实际上比学习和阅读更简单的问题。通过拆解笔记的流程，作者发现主要问题的结构变得非常简单。此外，随着科技的发展，许多快速记录工具和笔记整理软件已经被发明出来，使笔记搜寻变得更加容易。
 
-### [free-for-dev](https://github.com/ripienaar/free-for-dev)
+在本书中，作者探讨了如何通过做笔记和整理笔记来挖掘和整理自己对一个领域的各种答案。通过阅读本书，读者可以学习到如何使用各种工具和方法来提高自己的笔记能力，成为一个笔记超人。 
 
-对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
+![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
 
-![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
+### [meetup](https://github.com/baiyutang/meetup)
+
+【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
+
+![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
 
 ## 🕸 网站 
 
-### [sayhello](https://beta.sayhello.so/)
+### [trending.design](https://trending.design/)
 
-面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
+收集一些在 𝕏(twitter) 上的最佳设计灵感：
 
-![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+![trending.design](https://images-1252557999.file.myqcloud.com/uPic/trending.design.jpg) 
 
-### [fontawesome](https://fontawesome.com/icons/)
+### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
 
-比较完善全面的图标网站：
+@妙才投稿，在线学习git命令的网站：
 
-![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
 
-### [gooddesign](https://www.gooddesign.tools/)
+### [scrnshts.club](https://scrnshts.club/)
 
-优质设计师工具导航网站：
+收集 App 在应用商店中做宣传用的截图，很有意思：
 
-![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
+![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
 
 ## ✍️ 说明
 
