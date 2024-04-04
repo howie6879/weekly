@@ -1,0 +1,28 @@
+[[source]]
+name = "pypi"
+verify_ssl = true
+url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
+
+[packages]
+mkdocs = "==1.5.2"
+mkdocs-material = "==9.2.8"
+mkdocs-rss-plugin = "==1.1.0"
+mkdocs-git-revision-date-localized-plugin = "==1.0.1"
+jieba = "==0.42.1"
+pyyaml = "*"
+feedgen = "*"
+pytz = "*"
+sitemap-generator = "*"
+requests = "*"
+markdown = "*"
+mkdocs-open-in-new-tab = "*"
+
+[dev-packages]
+black = "*"
+pylint = "*"
+isort = "*"
+pypdf2 = "*"
+python-telegram-bot = "*"
+
+[scripts]
+deploy = "bash ./deploy.sh"

@@ -1,0 +1,33 @@
+name: Update
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 18 * * *"
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.11.0"
+          architecture: "x64"
+          cache: "pip"
+      - name: Install dependencies
+        run: |
+          pip install pip -U
+          pip install -r requirements.txt
+      - name: Generate random weekly
+        run: python random_weekly.py
+      - name: Commit files
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -am "Update random weekly `date`"
+          git pull --rebase
+          git push
+          git pull --rebase
+          mkdocs gh-deploy --clean

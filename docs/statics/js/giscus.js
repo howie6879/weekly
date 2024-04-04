@@ -1,0 +1,15 @@
+<script
+  src="https://giscus.app/client.js"
+  data-repo="howie6879/weekly"
+  data-repo-id="MDEwOlJlcG9zaXRvcnk0MDc1ODY4MzM="
+  data-category="Announcements"
+  data-category-id="DIC_kwDOGEtIEc4COh9f"
+  data-mapping="title"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="bottom"
+  data-theme="light"
+  data-lang="zh-CN"
+  crossorigin="anonymous"
+  async
+></script>;

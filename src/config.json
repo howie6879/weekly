@@ -1,0 +1,18 @@
+{
+  "stylesheet": [
+    "/Users/howie6879/Documents/Programming/Python/git/weekly/src/statics/pdf.css"
+  ],
+  "highlight_style": "monokai",
+  "body_class": "markdown-body",
+  "marked_options": {
+    "headerIds": true,
+    "smartypants": true
+  },
+  "pdf_options": {
+    "format": "A4",
+    "margin": "15mm",
+    "printBackground": true,
+    "headerTemplate": "<style> section { margin: 0 auto; font-family: system-ui; font-size: 11px; } </style><section></section>",
+    "footerTemplate": "<section><div>公众号: (老胡的储物柜)</div></section>"
+  }
+}

@@ -1,0 +1,5 @@
+mkdocs~=1.5
+mkdocs-material==9.2.8
+mkdocs-git-revision-date-localized-plugin==1.0.1
+jieba==0.42.1
+pyyaml
