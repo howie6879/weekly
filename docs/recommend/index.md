@@ -5,89 +5,89 @@
 
 ## 🎯 项目 
 
-### [mall-cook](https://github.com/wangyuan389/mall-cook)
+### [homelab](https://github.com/khuedoan/homelab)
 
-Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
+一个开源的家用自托管基础设施项目，支持自动配置、操作和更新各类自托管服务，可用于打造自己的家庭开发实验室。其中包括代码自托管、证书管理、CI/CD 持续集成与交付、K8s 自动化安装和管理、实时聊天系统、应用监控面板等功能。
 
-![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
+![homelab](https://images-1252557999.file.myqcloud.com/uPic/gB9qTV.jpg) 
 
-### [crawlee](https://crawlee.dev/)
+### [pico.css](https://github.com/picocss/pico)
 
-基于 `Node` 编写的开源网络爬虫库：
+简单优雅小巧的轻量级CSS框架，特性如下：
 
-![crawlee](https://images-1252557999.file.myqcloud.com/uPic/crawlee.jpg) 
+- 尽量使用原生的HTML语义，上手简单
+- 仅使用CSS，无依赖
+- 在所有设备上都有优雅且一致的响应式排版
+- 默认支持亮/黑模式 
 
-### [MOSS](https://github.com/OpenLMLab/MOSS)
+### [gitrec](https://github.com/gorse-io/gitrec)
 
-来自复旦大学的开源工具增强型会话语言模型-MOSS:
+作者自己维护的Gorse推荐系统，开发了一款 Chrome 插件：
 
-![MOSS](https://images-1252557999.file.myqcloud.com/uPic/MOSS.jpg) 
+- 推荐每个热门项目的相似或者相关仓库；
+- 用 [Gorse](https://github.com/gorse-io/gorse) 生成的个性化推荐仓库替换 GitHub 官方的推荐结果。
+
+目前支持 Chrome 和 Edge 两款浏览器：
+
+![gorse](https://images-1252557999.file.myqcloud.com/uPic/gorse.png) 
 
 ## 🤖 软件 
 
-### [Setapp](https://go.setapp.com/invite/os8yv4jr)
+### [Sequel-Ace](https://sequel-ace.com/)
 
-虽然这个是个付费软件，但我还是很推荐：
+原生的 `MySQL/MariaDB` 数据库管理软件：
 
-> Setapp是由MacPaw公司于2017年推出的订阅服务，专为macOS和iOS用户提供多款精选应用程序。用户通过月费即可无限使用旗下丰富的应用集合，覆盖各种日常任务需求，无需单独购买或更新。
+![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
 
-订阅这个软件就可以免费使用 `Setapp` 里面 **240+** 的软件（单独买要付费的那种），比如我想使用GPT-4的对话功能，我单独买会员就是要20$。我现在直接花 **9.9\$**  订阅 `Setapp` ，然后直接里面直接使用 `Typing Mind` 就可以直接使用 GPT-4 Turbo，上下文 128k，对我来说单单这个就赚回来了。
+### [CotEditor](https://github.com/coteditor/CotEditor)
 
-![setapp](https://images-1252557999.file.myqcloud.com/uPic/setapp.jpg) 
+开源的`macOS` 纯文本编辑器：
 
-### [Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)
+![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
 
-由于在 `QQ` 和微信中发送 `APK` 文件时，文件名会被腾讯添加后缀.1，此 `App` 可以省去重命名步骤，直接安装：
+### [LibreraReader](https://github.com/foobnix/LibreraReader)
 
-- 获取安装权限（不需要读取存储权限）
-- 在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序 
+安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
 
-### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
-
-中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
-
-![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
+![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
 
 ## 👀 资料 
 
-### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
+### [RedHat E-Book](https://developers.redhat.com/e-books)
 
-![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
+`RedHat` 开放的电子书，注册即可查看下载，质量是很不错的：
 
-### [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)
+![kEvVpP](https://images-1252557999.file.myqcloud.com/uPic/kEvVpP.jpg) 
 
-从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 `PDF`:
+### [free-for-dev](https://github.com/ripienaar/free-for-dev)
 
-![what_are_embeddings](https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg) 
+对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
 
-### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
+![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
 
-Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
+### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
 
-![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
+![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
 
 ## 🕸 网站 
 
-### [chirper.ai](https://chirper.ai/zh)
+### [sayhello](https://beta.sayhello.so/)
 
-一个只允许 AI 发帖的网站，所有内容由 AI 产生：
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-![chirper](https://images-1252557999.file.myqcloud.com/uPic/chirper.jpg) 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
-### [epub-manga-creator](https://github.com/wing-kai/epub-manga-creator)
+### [fontawesome](https://fontawesome.com/icons/)
 
-把一堆漫画图片打包成 `epub` 格式的 `Web GUI`：
+比较完善全面的图标网站：
 
-![epub-manga-creator](https://images-1252557999.file.myqcloud.com/uPic/epub-manga-creator.jpg) 
+![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
 
-### [aicodeconvert](https://aicodeconvert.com/)
+### [gooddesign](https://www.gooddesign.tools/)
 
-[开源](https://github.com/JustAIGithub/AI-Code-Convert)的的 `AI` 代码转换工具，基于 `GPT` 实现：
+优质设计师工具导航网站：
 
-- 自然语言转代码，描述需求就生成对应的代码
-- 把代码一键转换为另一种代码语言实现
-
-![aicodeconvert](https://images-1252557999.file.myqcloud.com/uPic/aicodeconvert.jpg) 
+![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
 
 ## ✍️ 说明
 
