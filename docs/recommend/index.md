@@ -5,113 +5,86 @@
 
 ## 🎯 项目 
 
-### [dbsyncer](https://github.com/86dbs/dbsyncer)
+### [sealos](https://github.com/fanux/sealos)
 
-`DBSyncer`（简称dbs）是一款开源的数据同步中间件，提供`MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL`等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
+一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
 
-- 组合驱动，自定义库同步到库组合，关系型数据库与非关系型之间组合，任意搭配表同步映射关系
-- 实时监控，驱动全量或增量实时同步运行状态、结果、同步日志和系统日志
-- 开发插件，自定义转化同步逻辑
+### [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)
 
-![dbsyncer](https://images-1252557999.file.myqcloud.com/uPic/dbsyncer.webp) 
+基于 `Docker` 的 `Web PDF` 操作工具，允许您对 `PDF` 文件执行各种操作，如拆分、合并、转换、重新组织、添加图像、旋转、压缩等：
 
-### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
+![Stirling-PDF](https://images-1252557999.file.myqcloud.com/uPic/Stirling-PDF.png) 
 
-提供多款 SS 规则，拥有强劲的广告过滤功能：
+### [rss-proxy](https://github.com/damoeb/rss-proxy)
 
-![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
+通过分析用户提供的静态页面自动创建RSS订阅源：
 
-### [bore](https://github.com/ekzhang/bore)
-
-`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
-
-![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
+![](https://images-1252557999.file.myqcloud.com/uPic/APrAbH.png) 
 
 ## 🤖 软件 
 
-### [batnoter](https://github.com/batnoter/batnoter)
+### [PetThoughts](https://github.com/liu-ziting/PetThoughts)
 
-一个基于 `Markdown` 的开源自托管笔记应用程序：
+【我知道你的宠物在想什么】 是一个基于 Gemini Pro API 构建的图片识别项目，通过上传你宠物的照片，该项目能够智能分析你的宠物的表情和环境，并推测出它们可能在想些什么。
 
-- 使用GitHub登录。
-- 使用简洁而漂亮的界面轻松创建、编辑、删除、组织和探索笔记。
-- 支持Markdown格式，允许用户在笔记中添加超链接、表格、标题、代码块、引用等等。
-- 编辑器允许预览Markdown。
-- 使用剪贴板按钮从代码部分快速复制代码。
-- 直接将笔记存储在根目录中，或者使用文件夹对其进行组织（支持嵌套）。
-- 单击即可从特定目录中浏览所有笔记。
-- 所有笔记都存储在用户的GitHub存储库中。
-- 为避免额外的API调用，笔记被缓存。
-- 可将URL添加为书签。
-- 支持深色/浅色模式
+- 图片识别：利用 Gemini-pro-vision 的图像识别技术，能够准确地识别宠物的表情和环境。
+- 表情分析：通过分析宠物的表情 Gemini-pro-vision 可以推测出宠物可能的情绪状态，如开心、惊讶、困惑等。
+- 环境分析：Gemini-pro-vision 还能根据宠物所处的环境，推测出它们可能的活动场景，如户外玩耍、室内休息等。
+- 自然语言处理：结合图像识别和自然语言处理技术，Gemini-pro-vision 可以将宠物的情绪和活动场景转化为可读性高的文字描述。
+- 用户友好界面：提供简洁直观的用户界面，使用户能够轻松上传照片并获取宠物分析结果。
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.jpg) 
+![pt](https://images-1252557999.file.myqcloud.com/uPic/pt.jpeg) 
 
-### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
+### [FluentRead](https://github.com/Bistutu/FluentRead)
 
-跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
+一个开源油猴脚本，拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验：
 
-- 🍕 全平台支持. Windows, Mac, Linux
-- 🍥 支持 IPTV, 卫视直播
-- 🍔 视频源支持自定义, 支持导入, 导出
-- 🍟 支持海报模式和列表模式浏览资源
-- 🌭 播放历史, 自动跳转历史进度
-- 🍿 收藏夹支持导入,导出, 支持同步追剧
-- 🥙 支持精简模式, 摸鱼划水
-- 🥪 一键搜索所有资源, 支持历史搜索记录
-- 🌮 导出资源下载链接
-- 🍣 支持第三方播放器播放
-- 🍤 显示豆瓣评分
+![FluentRead](https://images-1252557999.file.myqcloud.com/uPic/FluentRead.gif) 
 
-![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
+### [Files](https://github.com/files-community/Files)
 
-### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
+一个现代化的文件管理软件(Windows用户专属)：
 
-`TinyPNG`的`Mac`客户端：
-
-![TinyPNG4Mac](https://images-1252557999.file.myqcloud.com/uPic/TinyPNG4Mac.png) 
+![files_windows](https://images-1252557999.file.myqcloud.com/uPic/files_windows.jpg) 
 
 ## 👀 资料 
 
-### [note-hack](https://github.com/xdite/note-hack)
+### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
 
-《打造超人笔记》是一本关于如何有效记录和整理笔记的书籍。
+此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
 
-作者认为，笔记是一个看起来复杂但实际上比学习和阅读更简单的问题。通过拆解笔记的流程，作者发现主要问题的结构变得非常简单。此外，随着科技的发展，许多快速记录工具和笔记整理软件已经被发明出来，使笔记搜寻变得更加容易。
+### [Sam Altman的创业手册](https://jxp73q7qjsg.feishu.cn/docx/WCNZdKDa4o2eUrxK5ElcfBXEnah)
 
-在本书中，作者探讨了如何通过做笔记和整理笔记来挖掘和整理自己对一个领域的各种答案。通过阅读本书，读者可以学习到如何使用各种工具和方法来提高自己的笔记能力，成为一个笔记超人。 
+`Sam Altman` 的创业手册文本，给YC系创始人们的建议里面最通用的一部分提炼出来变成一个创业手册。 
 
-### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
+### [法律文库](https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html)
 
-这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。
 
-![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
-
-### [meetup](https://github.com/baiyutang/meetup)
-
-【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
-
-![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
+![justlaws](https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg) 
 
 ## 🕸 网站 
 
-### [trending.design](https://trending.design/)
+### [wantquotes.net](https://wantquotes.net/)
 
-收集一些在 𝕏(twitter) 上的最佳设计灵感：
+清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
 
-![trending.design](https://images-1252557999.file.myqcloud.com/uPic/trending.design.jpg) 
+![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
 
-### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
+### [yesicon.app](https://yesicon.app/)
 
-@妙才投稿，在线学习git命令的网站：
+开源图标库聚合网站：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
+![yesicon](https://images-1252557999.file.myqcloud.com/uPic/yesicon.jpg) 
 
-### [scrnshts.club](https://scrnshts.club/)
+### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
 
-收集 App 在应用商店中做宣传用的截图，很有意思：
+老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
 
-![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
+- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
+- Gemini Pro 体验地址：https://gemini.fre123.com/
+
+![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
 
 ## ✍️ 说明
 
