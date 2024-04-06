@@ -5,86 +5,96 @@
 
 ## 🎯 项目 
 
-### [sealos](https://github.com/fanux/sealos)
+### [illa-builder](https://github.com/illacloud/illa-builder)
 
-一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
+`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
 
-### [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)
+- ⚽ 实时协作： 我们可以一起实时创建内容。
+- 🛠 自定义插件： 构建自定义插件来完成你的任务。
+- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
+- 🖥 本地部署： 支持Docker和k8s
+- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
+- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
 
-基于 `Docker` 的 `Web PDF` 操作工具，允许您对 `PDF` 文件执行各种操作，如拆分、合并、转换、重新组织、添加图像、旋转、压缩等：
+![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
 
-![Stirling-PDF](https://images-1252557999.file.myqcloud.com/uPic/Stirling-PDF.png) 
+### [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
 
-### [rss-proxy](https://github.com/damoeb/rss-proxy)
+将视频从一种语言翻译为另一种语言，并添加配音，这个最近火出圈了：
 
-通过分析用户提供的静态页面自动创建RSS订阅源：
+![pyvideotrans](https://images-1252557999.file.myqcloud.com/uPic/pyvideotrans.jpg) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/APrAbH.png) 
+### [miniflux](https://github.com/miniflux/v2)
+
+`Miniflux` 是一个极简主义的开源 `RSS` 阅读器，它使用非常简单，可 `Docker` 部署，这样就相当于你拥有了自己的 [Feedly](https://feedly.com/) 服务，再结合一个漂亮的客户端如 [ReactFlux](https://github.com/electh/ReactFlux)，用起来就很舒服 ：
+
+![miniflux](https://images-1252557999.file.myqcloud.com/uPic/eyMYhc.png)
+
+其他类似开源有：
+
+- [Tiny Tiny RSS](https://tt-rss.org/)：一个免费且开源的基于网络的新闻订阅（RSS/Atom）阅读器和聚合器
+- [FreshRSS](https://github.com/FreshRSS/FreshRSS)：一个自托管的RSS订阅聚合器
+- 基于以上项目构建后的客户端：
+    - [fluent-reader](https://github.com/yang991178/fluent-reader)：现代化 `RSS` 阅读器
+    - [NetNewsWire](https://netnewswire.com/)：适用于 `Mac、iPhone&iPad` 的免费开源 `RSS` 阅读器
+    - 安卓 [feedme](https://github.com/seazon/FeedMe/blob/master/doc/zh/README.md)： 一个安卓 `RSS` 阅读器，支持主流 `RSS` 服务
+    - [Refeed](https://github.com/michaelkremenetsky/Refeed)：好看的现代化客户端 
 
 ## 🤖 软件 
 
-### [PetThoughts](https://github.com/liu-ziting/PetThoughts)
+### [chatbox](https://github.com/Bin-Huang/chatbox)
 
-【我知道你的宠物在想什么】 是一个基于 Gemini Pro API 构建的图片识别项目，通过上传你宠物的照片，该项目能够智能分析你的宠物的表情和环境，并推测出它们可能在想些什么。
+开源的 `ChatGPT API (OpenAI API)` 桌面客户端，`Prompt` 的调试与管理工具，支持 `Windows、Mac 和 Linux`：
 
-- 图片识别：利用 Gemini-pro-vision 的图像识别技术，能够准确地识别宠物的表情和环境。
-- 表情分析：通过分析宠物的表情 Gemini-pro-vision 可以推测出宠物可能的情绪状态，如开心、惊讶、困惑等。
-- 环境分析：Gemini-pro-vision 还能根据宠物所处的环境，推测出它们可能的活动场景，如户外玩耍、室内休息等。
-- 自然语言处理：结合图像识别和自然语言处理技术，Gemini-pro-vision 可以将宠物的情绪和活动场景转化为可读性高的文字描述。
-- 用户友好界面：提供简洁直观的用户界面，使用户能够轻松上传照片并获取宠物分析结果。
+![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.png) 
 
-![pt](https://images-1252557999.file.myqcloud.com/uPic/pt.jpeg) 
+### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
-### [FluentRead](https://github.com/Bistutu/FluentRead)
+针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
 
-一个开源油猴脚本，拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验：
+![CodeEdit](https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png) 
 
-![FluentRead](https://images-1252557999.file.myqcloud.com/uPic/FluentRead.gif) 
+### [全是漫画](https://github.com/hongchacha/cartoon)
 
-### [Files](https://github.com/files-community/Files)
+全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
 
-一个现代化的文件管理软件(Windows用户专属)：
-
-![files_windows](https://images-1252557999.file.myqcloud.com/uPic/files_windows.jpg) 
+![comic](https://images-1252557999.file.myqcloud.com/uPic/FXXmY5.jpg) 
 
 ## 👀 资料 
 
-### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
+### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
 
-此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
+该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
 
-### [Sam Altman的创业手册](https://jxp73q7qjsg.feishu.cn/docx/WCNZdKDa4o2eUrxK5ElcfBXEnah)
+### [Sora 学习手册](https://yunyinghui.feishu.cn/wiki/BaCEwe3AliqYERkc9dVcfW0BnXg)
 
-`Sam Altman` 的创业手册文本，给YC系创始人们的建议里面最通用的一部分提炼出来变成一个创业手册。 
+基于飞书文档发布，包含一些 `Sora` 介绍，第三方技术拆解分享，研究报告，案例等内容，比较浅显但是可以作为了解的途径，里面的联系方式**慎加**。 
 
-### [法律文库](https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html)
+### [moderncss](https://moderncss.dev/)
 
-以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。
+一份现代 `CSS` 教程，偏向有 `CSS` 的基础的前端开发者：
 
-![justlaws](https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg) 
+![moderncss](https://images-1252557999.file.myqcloud.com/uPic/moderncss.jpg) 
 
 ## 🕸 网站 
 
-### [wantquotes.net](https://wantquotes.net/)
+### [短剧搜索引擎](https://www.fre123.com/sp?ref=weekly)
 
-清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
+比较全面的短剧搜索引擎，数据在夸克网盘，转存即可免费观看全部：
 
-![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
+![sp](https://images-1252557999.file.myqcloud.com/uPic/sp.jpg) 
 
-### [yesicon.app](https://yesicon.app/)
+### [awesome-chatgpt-prompts](https://prompts.chat/)
 
-开源图标库聚合网站：
+`ChatGPT` 余热不减，一周百万用户果然不是盖的，这个项目总结了 `ChatGPT` 常用姿势：
 
-![yesicon](https://images-1252557999.file.myqcloud.com/uPic/yesicon.jpg) 
+![prompts](https://images-1252557999.file.myqcloud.com/uPic/prompts.jpg) 
 
-### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
+### [watermarkremover](https://www.watermarkremover.io/)
 
-老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
+通过AI技术去除图片水印：
 
-- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
-- Gemini Pro 体验地址：https://gemini.fre123.com/
-
-![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
+![watermarkremover](https://images-1252557999.file.myqcloud.com/uPic/watermarkremover.jpg) 
 
 ## ✍️ 说明
 
