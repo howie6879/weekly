@@ -97,7 +97,7 @@ GitHub 官方发布的一套技术文档，自带了有多个语言版本。主�
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -202,7 +202,7 @@ Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协�
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -332,7 +332,7 @@ SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点�
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -457,7 +457,7 @@ flomo是一款「思维工具」，主要目的是帮助你「记录想法的川
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -552,7 +552,7 @@ flomo是一款「思维工具」，主要目的是帮助你「记录想法的川
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -638,7 +638,7 @@ LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，�
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -764,7 +764,7 @@ Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可�
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -872,7 +872,7 @@ Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一�
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -976,7 +976,7 @@ LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图�
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -1083,7 +1083,7 @@ LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图�
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -1176,7 +1176,7 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -1272,7 +1272,7 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -1364,7 +1364,7 @@ KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的�
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -1447,7 +1447,7 @@ PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac�
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -1560,7 +1560,7 @@ B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -1651,7 +1651,7 @@ B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -1767,7 +1767,7 @@ Google为数据、机器学习工程师、架构师、分析师等提供的免�
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -1874,7 +1874,7 @@ B站视频命令行下载工具：
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -1982,7 +1982,7 @@ LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频�
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -2077,7 +2077,7 @@ laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一�
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -2213,7 +2213,7 @@ Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持�
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -2356,7 +2356,7 @@ PDF Squeezer 是一款 PDF 压缩工具：
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -2468,7 +2468,7 @@ PDF Squeezer 是一款 PDF 压缩工具：
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -2581,7 +2581,7 @@ PDF Squeezer 是一款 PDF 压缩工具：
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -2692,7 +2692,7 @@ docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -2784,7 +2784,7 @@ Go语言实战: 编写可维护Go语言代码建议。
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -2875,7 +2875,7 @@ Go语言实战: 编写可维护Go语言代码建议。
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -2982,7 +2982,7 @@ Go语言实战: 编写可维护Go语言代码建议。
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -3081,7 +3081,7 @@ GitHub开源项目维护协作指南：
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -3165,7 +3165,7 @@ Kubernetes 中文指南/云原生应用架构实战手册：
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -3247,7 +3247,7 @@ Kubernetes 中文指南/云原生应用架构实战手册：
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -3356,7 +3356,7 @@ CSS 按钮样式集合，此项目实现了 100 种不同的现代化的样式�
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -3446,7 +3446,7 @@ TG喵-可能是最懂你的Telegram资源搜索引擎:
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -3548,7 +3548,7 @@ TG喵-可能是最懂你的Telegram资源搜索引擎:
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -3635,7 +3635,7 @@ TG喵-可能是最懂你的Telegram资源搜索引擎:
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -3736,7 +3736,7 @@ TG喵-可能是最懂你的Telegram资源搜索引擎:
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -3816,7 +3816,7 @@ TG喵-可能是最懂你的Telegram资源搜索引擎:
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -3896,7 +3896,7 @@ PyTorch 从0到精通教程：
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -3996,7 +3996,7 @@ PyTorch 从0到精通教程：
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -4083,7 +4083,7 @@ PyTorch 从0到精通教程：
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -4162,7 +4162,7 @@ PyTorch 从0到精通教程：
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -4250,7 +4250,7 @@ PyTorch 从0到精通教程：
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -4334,7 +4334,7 @@ PyTorch 从0到精通教程：
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -4422,7 +4422,7 @@ PyTorch 从0到精通教程：
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -4504,7 +4504,7 @@ PyTorch 从0到精通教程：
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -4606,7 +4606,7 @@ PyTorch 从0到精通教程：
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -4698,7 +4698,7 @@ PyTorch 从0到精通教程：
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -4808,7 +4808,7 @@ PyTorch 从0到精通教程：
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -4895,7 +4895,7 @@ PyTorch 从0到精通教程：
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -4987,7 +4987,7 @@ PyTorch 从0到精通教程：
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -5111,7 +5111,7 @@ FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
@@ -5191,7 +5191,7 @@ BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任�
 
 周刊相关信息：
 
-- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)
+- 公众号：[老胡的储物柜](https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg)，欢迎加我微信进**周刊群聊**
 - [TG 频道订阅](https://t.me/howie_weekly)：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏
 - [https://weekly.fre123.com/](https://weekly.fre123.com/)：老胡收集了国内外60+优质技术周刊进行信息聚合🔥
 - Github 地址：[howie6879/weekly/](https://github.com/howie6879/weekly/)，觉得不错麻烦给我一个**Star**，谢谢 ❤️
