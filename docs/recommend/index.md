@@ -5,107 +5,110 @@
 
 ## 🎯 项目 
 
-### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
+### [free-api](https://github.com/fangzesheng/free-api)
 
-🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
+作者创建此开源项目的目的如下：
 
-| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
-| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
-| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
-| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
-| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
+> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
 
-### [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
+包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
 
-🎨 一键拥有你自己的 `ChatGPT+Midjourney` 网页服务：
+![free-api](https://images-1252557999.file.myqcloud.com/uPic/VvapMO.png) 
 
--  原ChatGPT-Next-Web所有功能
--  midjourney imagin 想象
--  midjourney upscale 放大
--  midjourney variation 变幻
--  midjourney describe 识图
--  midjourney blend 混图
--  midjourney 垫图
--  绘图进度百分比、实时图像显示
+### [zyronon/douyin](https://github.com/zyronon/douyin)
 
-![ChatGPT-Midjourney](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Midjourney.png) 
+这是一个模仿 抖音|TikTok 的移动端短视频项目，它基于 `Vue、Vite` 实现，使用了最新的 `Vue` 全家桶技术栈：
 
-### [open-interpreter](https://github.com/KillianLucas/open-interpreter)
+![zyronon_dy](https://images-1252557999.file.myqcloud.com/uPic/zyronon_dy.jpg) 
 
-基于 `LLM` 为你提供一种新的方式来控制电脑，本地运行：
+### [markdown-nice](https://github.com/mdnice/markdown-nice)
 
-![open_interpreter](https://images-1252557999.file.myqcloud.com/uPic/open_interpreter.jpg) 
+有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
+
+> 支持主题设计的 Markdown 编辑器，让排版变 Nice
+
+你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
+
+官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
+
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
 
 ## 🤖 软件 
 
-### [Gif123](https://github.com/aardio/Gif123)
+### [cicada](https://github.com/mebtte/cicada)
 
-非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
+知了, 支持多用户的开源音乐服务：
 
-![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg) 
+- **尊重隐私, 不进行任何数据收集**
+- 支持多用户
+- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
+- 系统媒体和快捷键支持
+- 音乐支持标准音质/超高音质/伴奏以及多份歌词
+- 乐单/播放列表/播放队列音乐数量无限制
+- 支持标注音乐创作来源(翻唱)
+- 支持歌词/歌名/歌手/乐单搜索
 
-### [PicHoro](https://github.com/Kuingsmile/PicHoro "PicHoro")
+![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
 
-多功能云存储管理工具，集图床管理、文件传输于一体。支持多平台且功能全面：
+### [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager "ContextMenuManager")
 
-- 直接管理多种云存储平台
-- 便捷上传和下载文件
-- 兼容 S3 API，轻松集成现有系统
+纯粹的 `Windows` 右键菜单管理程序：
 
-![PicHoro](https://images-1252557999.file.myqcloud.com/uPic/PicHoro.jpg) 
+- 启用或禁用文件、文件夹、新建、发送到、打开方式、自定义文件格式、IE 浏览器、WinX 等右键菜单项目
+- 对上述场景右键菜单项目进行修改名称、修改图标、导航注册表位置、导航文件位置、永久删除等操作
+- 对上述场景右键菜单自定义添加项目，自定义菜单命令
 
-### [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop)
+![ContextMenuManager](https://images-1252557999.file.myqcloud.com/uPic/ContextMenuManager.png) 
 
-`AirPods` 桌面用户体验增强程序(仅支持 Windows)：
+### [balenaEtcher](https://github.com/balena-io/etcher)
 
-- 🔋 电池信息显示
-- 👂 自动人耳检测
-- 🚀 低音频延迟模式
-- 🌈 精美的动画
+balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
 
-![AirPodsDesktop](https://images-1252557999.file.myqcloud.com/uPic/AirPodsDesktop.gif) 
+![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
 
 ## 👀 资料 
 
-### [tuning_playbook_zh_cn](https://github.com/schrodingercatss/tuning_playbook_zh_cn)
+### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
 
-深度学习调优指南中文版，一本系统地教你将深度学习模型的性能最大化的战术手册：
+从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
 
-![tuning_playbook_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/tuning_playbook_zh_cn.jpg) 
+![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
-### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
+### [pdai](https://pdai.tech/)
 
-Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
 
-![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
+![pdai](https://images-1252557999.file.myqcloud.com/uPic/8oZW41.png) 
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+### [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
+
+![CS-Notes](https://images-1252557999.file.myqcloud.com/uPic/7aMFrS.png) 
 
 ## 🕸 网站 
 
-### [阿里云知行动手实验室](https://start.aliyun.com/)
+### [userscloud](https://userscloud.com/)
 
-这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
+免费使用的云空间分享网页：
 
-网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
+![userscloud](https://images-1252557999.file.myqcloud.com/uPic/userscloud.jpg) 
 
-我选了一个`k8s`教程尝试了下，嗯，挺香的：
+### [onepdf](https://www.onepdf.online/)
 
-![start-ali](https://images-1252557999.file.myqcloud.com/uPic/LIfQqw.png) 
+免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
 
-### [calltoinspiration](https://calltoinspiration.com/)
+![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
 
-根据不同 `UI` 下业务类型和方向进行分类，给用户展示不同效果以参考：
+### [privacytools.io](https://www.privacytools.io/)
 
-![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
+大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
 
-### [web-check](https://web-check.xyz/)
-
-输入目标网址，分析该网站各项 `web` 检查信息，非常详细：
-
-![web-check](https://images-1252557999.file.myqcloud.com/uPic/web-check.jpg) 
+![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
 
 ## ✍️ 说明
 
