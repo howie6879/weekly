@@ -5,96 +5,107 @@
 
 ## 🎯 项目 
 
-### [illa-builder](https://github.com/illacloud/illa-builder)
+### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
 
-`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
+🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
 
-- ⚽ 实时协作： 我们可以一起实时创建内容。
-- 🛠 自定义插件： 构建自定义插件来完成你的任务。
-- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
-- 🖥 本地部署： 支持Docker和k8s
-- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
-- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
+| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
+| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
+| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
+| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
+| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
 
-![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
+### [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
 
-### [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
+🎨 一键拥有你自己的 `ChatGPT+Midjourney` 网页服务：
 
-将视频从一种语言翻译为另一种语言，并添加配音，这个最近火出圈了：
+-  原ChatGPT-Next-Web所有功能
+-  midjourney imagin 想象
+-  midjourney upscale 放大
+-  midjourney variation 变幻
+-  midjourney describe 识图
+-  midjourney blend 混图
+-  midjourney 垫图
+-  绘图进度百分比、实时图像显示
 
-![pyvideotrans](https://images-1252557999.file.myqcloud.com/uPic/pyvideotrans.jpg) 
+![ChatGPT-Midjourney](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Midjourney.png) 
 
-### [miniflux](https://github.com/miniflux/v2)
+### [open-interpreter](https://github.com/KillianLucas/open-interpreter)
 
-`Miniflux` 是一个极简主义的开源 `RSS` 阅读器，它使用非常简单，可 `Docker` 部署，这样就相当于你拥有了自己的 [Feedly](https://feedly.com/) 服务，再结合一个漂亮的客户端如 [ReactFlux](https://github.com/electh/ReactFlux)，用起来就很舒服 ：
+基于 `LLM` 为你提供一种新的方式来控制电脑，本地运行：
 
-![miniflux](https://images-1252557999.file.myqcloud.com/uPic/eyMYhc.png)
-
-其他类似开源有：
-
-- [Tiny Tiny RSS](https://tt-rss.org/)：一个免费且开源的基于网络的新闻订阅（RSS/Atom）阅读器和聚合器
-- [FreshRSS](https://github.com/FreshRSS/FreshRSS)：一个自托管的RSS订阅聚合器
-- 基于以上项目构建后的客户端：
-    - [fluent-reader](https://github.com/yang991178/fluent-reader)：现代化 `RSS` 阅读器
-    - [NetNewsWire](https://netnewswire.com/)：适用于 `Mac、iPhone&iPad` 的免费开源 `RSS` 阅读器
-    - 安卓 [feedme](https://github.com/seazon/FeedMe/blob/master/doc/zh/README.md)： 一个安卓 `RSS` 阅读器，支持主流 `RSS` 服务
-    - [Refeed](https://github.com/michaelkremenetsky/Refeed)：好看的现代化客户端 
+![open_interpreter](https://images-1252557999.file.myqcloud.com/uPic/open_interpreter.jpg) 
 
 ## 🤖 软件 
 
-### [chatbox](https://github.com/Bin-Huang/chatbox)
+### [Gif123](https://github.com/aardio/Gif123)
 
-开源的 `ChatGPT API (OpenAI API)` 桌面客户端，`Prompt` 的调试与管理工具，支持 `Windows、Mac 和 Linux`：
+非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
 
-![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.png) 
+![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg) 
 
-### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+### [PicHoro](https://github.com/Kuingsmile/PicHoro "PicHoro")
 
-针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
+多功能云存储管理工具，集图床管理、文件传输于一体。支持多平台且功能全面：
 
-![CodeEdit](https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png) 
+- 直接管理多种云存储平台
+- 便捷上传和下载文件
+- 兼容 S3 API，轻松集成现有系统
 
-### [全是漫画](https://github.com/hongchacha/cartoon)
+![PicHoro](https://images-1252557999.file.myqcloud.com/uPic/PicHoro.jpg) 
 
-全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
+### [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop)
 
-![comic](https://images-1252557999.file.myqcloud.com/uPic/FXXmY5.jpg) 
+`AirPods` 桌面用户体验增强程序(仅支持 Windows)：
+
+- 🔋 电池信息显示
+- 👂 自动人耳检测
+- 🚀 低音频延迟模式
+- 🌈 精美的动画
+
+![AirPodsDesktop](https://images-1252557999.file.myqcloud.com/uPic/AirPodsDesktop.gif) 
 
 ## 👀 资料 
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+### [tuning_playbook_zh_cn](https://github.com/schrodingercatss/tuning_playbook_zh_cn)
 
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+深度学习调优指南中文版，一本系统地教你将深度学习模型的性能最大化的战术手册：
 
-### [Sora 学习手册](https://yunyinghui.feishu.cn/wiki/BaCEwe3AliqYERkc9dVcfW0BnXg)
+![tuning_playbook_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/tuning_playbook_zh_cn.jpg) 
 
-基于飞书文档发布，包含一些 `Sora` 介绍，第三方技术拆解分享，研究报告，案例等内容，比较浅显但是可以作为了解的途径，里面的联系方式**慎加**。 
+### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
 
-### [moderncss](https://moderncss.dev/)
+Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
 
-一份现代 `CSS` 教程，偏向有 `CSS` 的基础的前端开发者：
+![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
 
-![moderncss](https://images-1252557999.file.myqcloud.com/uPic/moderncss.jpg) 
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
 ## 🕸 网站 
 
-### [短剧搜索引擎](https://www.fre123.com/sp?ref=weekly)
+### [阿里云知行动手实验室](https://start.aliyun.com/)
 
-比较全面的短剧搜索引擎，数据在夸克网盘，转存即可免费观看全部：
+这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
 
-![sp](https://images-1252557999.file.myqcloud.com/uPic/sp.jpg) 
+网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
 
-### [awesome-chatgpt-prompts](https://prompts.chat/)
+我选了一个`k8s`教程尝试了下，嗯，挺香的：
 
-`ChatGPT` 余热不减，一周百万用户果然不是盖的，这个项目总结了 `ChatGPT` 常用姿势：
+![start-ali](https://images-1252557999.file.myqcloud.com/uPic/LIfQqw.png) 
 
-![prompts](https://images-1252557999.file.myqcloud.com/uPic/prompts.jpg) 
+### [calltoinspiration](https://calltoinspiration.com/)
 
-### [watermarkremover](https://www.watermarkremover.io/)
+根据不同 `UI` 下业务类型和方向进行分类，给用户展示不同效果以参考：
 
-通过AI技术去除图片水印：
+![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
 
-![watermarkremover](https://images-1252557999.file.myqcloud.com/uPic/watermarkremover.jpg) 
+### [web-check](https://web-check.xyz/)
+
+输入目标网址，分析该网站各项 `web` 检查信息，非常详细：
+
+![web-check](https://images-1252557999.file.myqcloud.com/uPic/web-check.jpg) 
 
 ## ✍️ 说明
 
