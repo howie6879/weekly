@@ -5,110 +5,98 @@
 
 ## 🎯 项目 
 
-### [free-api](https://github.com/fangzesheng/free-api)
+### [onenav](https://github.com/helloxz/onenav)
 
-作者创建此开源项目的目的如下：
+使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问：
 
-> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
+支持后台管- 理
+- 支持私有链接
+- 支持Chrome/Firefox/Edge书签批量导入
+- 支持多种主题风格
+- 支持链接信息自动识别
+- 支持API
+- 支持Docker部署
+- 支持uTools插件
+- 支持二级分类
+- 支持Chromium内核的浏览器扩展（插件）
+- 支持在线更新
+- 手机版后台
 
-包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
+![onenav](https://images-1252557999.file.myqcloud.com/uPic/onenav.png) 
 
-![free-api](https://images-1252557999.file.myqcloud.com/uPic/VvapMO.png) 
+### [JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER)
 
-### [zyronon/douyin](https://github.com/zyronon/douyin)
+京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)。
 
-这是一个模仿 抖音|TikTok 的移动端短视频项目，它基于 `Vue、Vite` 实现，使用了最新的 `Vue` 全家桶技术栈：
+![jd-shopper](https://images-1252557999.file.myqcloud.com/uPic/jd-shopper.jpeg) 
 
-![zyronon_dy](https://images-1252557999.file.myqcloud.com/uPic/zyronon_dy.jpg) 
+### [law-cn-ai](https://github.com/lvwzhen/law-cn-ai)
 
-### [markdown-nice](https://github.com/mdnice/markdown-nice)
+AI 法律助手:
 
-有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
+![law-cn-ai](https://images-1252557999.file.myqcloud.com/uPic/law-cn-ai.jpg)
 
-> 支持主题设计的 Markdown 编辑器，让排版变 Nice
-
-你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
-
-![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
-
-官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
-
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
+也可以[在线](https://law-cn-ai.vercel.app/)访问。 
 
 ## 🤖 软件 
 
-### [cicada](https://github.com/mebtte/cicada)
+### [pear-rec](https://github.com/027xiguapi/pear-rec)
 
-知了, 支持多用户的开源音乐服务：
+`pear-rec`(梨子 rec) 是一个跨平台的截图、录屏、录音、录像软件：
 
-- **尊重隐私, 不进行任何数据收集**
-- 支持多用户
-- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
-- 系统媒体和快捷键支持
-- 音乐支持标准音质/超高音质/伴奏以及多份歌词
-- 乐单/播放列表/播放队列音乐数量无限制
-- 支持标注音乐创作来源(翻唱)
-- 支持歌词/歌名/歌手/乐单搜索
+![pear-rec](https://images-1252557999.file.myqcloud.com/uPic/pear-rec.jpg) 
 
-![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-### [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager "ContextMenuManager")
+LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
 
-纯粹的 `Windows` 右键菜单管理程序：
+![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
 
-- 启用或禁用文件、文件夹、新建、发送到、打开方式、自定义文件格式、IE 浏览器、WinX 等右键菜单项目
-- 对上述场景右键菜单项目进行修改名称、修改图标、导航注册表位置、导航文件位置、永久删除等操作
-- 对上述场景右键菜单自定义添加项目，自定义菜单命令
+### [uncle-novel](https://github.com/unclezs/uncle-novel)
 
-![ContextMenuManager](https://images-1252557999.file.myqcloud.com/uPic/ContextMenuManager.png) 
+一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
 
-### [balenaEtcher](https://github.com/balena-io/etcher)
-
-balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
-
-![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
+![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
 
 ## 👀 资料 
 
-### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
+### [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)
 
-从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
+`DotNetGuide` 技术社区是一个面向 `.NET` 开发者的开源技术社区，旨在为开发者们提供全面的 `C#/.NET/.NET Core` 相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台，可以在线[阅读](https://www.yuque.com/ysgstudyhard/da6e0c)：
 
-![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
+![DotNetGuide](https://images-1252557999.file.myqcloud.com/uPic/DotNetGuide.jpg) 
 
-### [pdai](https://pdai.tech/)
+### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
 
-Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
+本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
 
-![pdai](https://images-1252557999.file.myqcloud.com/uPic/8oZW41.png) 
+![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
 
-### [CS-Notes](https://github.com/CyC2018/CS-Notes)
+### [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
-📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
+《Python for Data Analysis》第三版，该书详细介绍了如何使用 `Python` 进行数据分析和数据处理的方法和技巧，适合那些希望使用Python进行数据分析的初学者和有经验的数据分析师：
 
-![CS-Notes](https://images-1252557999.file.myqcloud.com/uPic/7aMFrS.png) 
+![wesmckinney](https://images-1252557999.file.myqcloud.com/uPic/wesmckinney.jpg) 
 
 ## 🕸 网站 
 
-### [userscloud](https://userscloud.com/)
+### [tanpok](https://tool.tanpok.com/#/)
 
-免费使用的云空间分享网页：
+效果非常好的图片压缩工具：
 
-![userscloud](https://images-1252557999.file.myqcloud.com/uPic/userscloud.jpg) 
+![tanpok](https://images-1252557999.file.myqcloud.com/uPic/8fZN8v.png) 
 
-### [onepdf](https://www.onepdf.online/)
+### [flomoapp](https://flomoapp.com/)
 
-免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
+flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
 
-![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
+![flomoapp](https://images-1252557999.file.myqcloud.com/uPic/6G6qrd.jpg) 
 
-### [privacytools.io](https://www.privacytools.io/)
+### [bizhi1](https://bizhi1.com/)
 
-大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
+极简壁纸是一个由个人维护的壁纸小站，无广告，界面清爽，可以很方便地下载必应壁纸：
 
-![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
+![bizhi1](https://images-1252557999.file.myqcloud.com/uPic/bizhi1.jpg) 
 
 ## ✍️ 说明
 
