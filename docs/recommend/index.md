@@ -5,93 +5,97 @@
 
 ## 🎯 项目 
 
-### [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)
+### [novel](https://github.com/steven-tey/novel)
 
-基于 `Docker` 的 `Web PDF` 操作工具，允许您对 `PDF` 文件执行各种操作，如拆分、合并、转换、重新组织、添加图像、旋转、压缩等：
+具有类似 `NotionAI` 自动补全功能的所见即所得编辑器，可直接在线体验 [novel.sh](https://novel.sh/) ：
 
-![Stirling-PDF](https://images-1252557999.file.myqcloud.com/uPic/Stirling-PDF.png) 
+![opengraph-image](https://images-1252557999.file.myqcloud.com/uPic/opengraph-image.png) 
 
-### [go-daily-lib](https://github.com/darjun/go-daily-lib)
+### [nas-tools](https://github.com/jxxghp/nas-tools)
 
-每天学习一个 Go 语言库，内容质量相当高。
+NAS媒体库资源归集、整理自动化工具：
 
-![go-daily-lib](https://images-1252557999.file.myqcloud.com/uPic/4Ippyf.png) 
+![nas_tool](https://images-1252557999.file.myqcloud.com/uPic/nas_tool.jpg) 
 
-### [openui](https://github.com/wandb/openui)
+### [dootask](https://github.com/kuaifan/dootask)
 
-将你脑中的页面通过文本描述来自动实时生成，非常方便，但是实用性具体如何还需要探索，期待这个项目持续迭代：
+DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
 
-![openui](https://images-1252557999.file.myqcloud.com/uPic/openui.jpg)
-
-它甚至可以帮助你将HTML转换成 `React、Svelte or Web Components` 等格式。 
+![dootask](https://images-1252557999.file.myqcloud.com/uPic/tYiTA7.png) 
 
 ## 🤖 软件 
 
-### [MiniSim](https://github.com/okwasniewski/MiniSim)
+### [JPEGView](https://github.com/sylikc/jpegview)
 
-一个 Mac 菜单栏软件，可以启动 iOS  或者 Android 🤖虚拟机：
+`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
 
-![MiniSim](https://images-1252557999.file.myqcloud.com/uPic/MiniSim.png) 
+### [Seal](https://github.com/JunkFood02/Seal)
 
-### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
+一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
 
-安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
+- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
+- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
+- 播放列表下载支持
+- 内嵌字幕于视频文件中
+- 执行自定义的 yt-dlp 命令模板
+- 管理应用内下载与自定义命令模板
+- 使用简单、用户友好
+- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
+- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
+    
+![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
 
-![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
+### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
 
-### [legado](https://github.com/gedoor/legado)
+跨平台的`youtube-dl`客户端：
 
-阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-
-简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
-
-![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png) 
 
 ## 👀 资料 
 
-### [llm-universe](https://github.com/datawhalechina/llm-universe)
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-- 大模型简介，何为大模型、大模型特点是什么、LangChain 是什么，针对小白开发者的简单介绍；
-- 如何调用大模型 API，本节介绍了国内外知名大模型产品 API 的多种调用方式，包括调用原生 API、封装为 LangChain LLM、封装为 Fastapi 等调用方式，同时将包括百度文心、讯飞星火、智谱AI等多种大模型 API 进行了统一形式封装；
-- 大模型开发流程及架构，大模型应用开发的基本流程、一般思想和本项目的架构分析；
-- 数据库搭建，不同类型知识库文档的加载、处理，向量数据库的搭建；
-- Prompt 设计，如何设计 Prompt 来让大模型完成特定任务，Prompt Engineering 的原则和技巧有哪些；
-- 验证迭代，大模型开发如何实现验证迭代，一般的评估方法有什么；
-- 前后端开发，如何使用 Gradio、FastAPI 等框架快速开发大模型 Demo，展示应用能力。
+![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
 
-![llm-universe](https://images-1252557999.file.myqcloud.com/uPic/llm-universe.png) 
+### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 
-### [Nginx 开发从入门到精通](https://tengine.taobao.org/book/)
+GitHub开源项目维护协作指南：
 
-淘宝团队出品的关于 `Nginx` 模块开发以及内部原理的书：
+![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
 
-![tb_nginx](https://images-1252557999.file.myqcloud.com/uPic/tb_nginx.jpg) 
+### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
 
-### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
 
- 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
+![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
+
+`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
+
+![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
+
+更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
 
 ## 🕸 网站 
 
-### [pandagpt.io](https://www.pandagpt.io/)
+### [pika](https://pika.style/)
 
-基于  `ChatGPT` 的 `AI` 文档机器人：
+[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
 
-![pandagpt](https://images-1252557999.file.myqcloud.com/uPic/pandagpt.jpg) 
+![pika](https://images-1252557999.file.myqcloud.com/uPic/pika.jpg) 
 
-### [seesaw](https://www.seesaw.website/)
+### [zhongguose](http://zhongguose.com/)
 
-专门收集优秀网页设计的网站，目前有 **123** 个案例：
+一个中国传统颜色的配色网站：
 
-![seesaw](https://images-1252557999.file.myqcloud.com/uPic/seesaw.jpg) 
+![zhongguose](https://images-1252557999.file.myqcloud.com/uPic/zhongguose.jpg) 
 
-### [ideogram.ai](https://ideogram.ai/)
+### [feathericons](https://feathericons.com/)
 
-免费无次数限制的文字转图片网页：
+简洁漂亮的图标网站：
 
-![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
+![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
 
 ## ✍️ 说明
 
