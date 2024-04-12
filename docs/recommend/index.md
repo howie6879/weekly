@@ -5,89 +5,91 @@
 
 ## 🎯 项目 
 
-### [docker-cronicle](https://github.com/soulteary/docker-cronicle)
+### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
 
-`Cronjob` 定时任务 `Docker` 解决方案，提供了一个简介漂亮且轻量的 `WEB UI`：
+该项目支持将微信聊天记录导出并生成网页浏览。 
 
-![docker-cronicle](https://images-1252557999.file.myqcloud.com/uPic/docker-cronicle.png) 
+### [fre123-nav](https://github.com/fre123-com/fre123-nav)
 
-### [go-musicfox](https://github.com/go-musicfox/go-musicfox)
+> [FRE123](https://www.fre123.com/) 免费资源共享平台导航，一键搭建你的导航网站！
 
-`go-musicfox`是用 Go 写的又一款网易云音乐命令行客户端，支持 `UnblockNeteaseMusic`、各种音质级别、`lastfm`、`MPRIS`、`MacOS` 交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）:
+这是老胡上个月做的一个导航网站，不少人想基于这套进行二次开发，所以开源出来，希望能帮到大家：
 
-![go-musicfox](https://images-1252557999.file.myqcloud.com/uPic/go-musicfox.png) 
+- [fre123-nav](https://github.com/fre123-com/fre123-nav)：导航页面源码
+- [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)：信息流页面源码
+- [Fre123 导航网站搭建教程](https://mp.weixin.qq.com/s/NEqY1Qb4dyJDhdtlYxjmaA)
 
-### [LocalAI](https://github.com/go-skynet/LocalAI)
+![fre123-nav](https://images-1252557999.file.myqcloud.com/uPic/fre123-nav.jpeg) 
 
-🤖 免费、开源的 `OpenAI` 替代品。自托管、社区驱动和本地优先。可在消费级硬件上运行，作为 `OpenAI` 的即插即用替代方案。无需 `GPU`。支持运行 `ggml、gguf、GPTQ、onnx` 和 `TF` 兼容模型：`llama、llama2、rwkv、whisper、vicuna、koala、cerebras、falcon、dolly、starcoder` 等等：
+### [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
 
-![localai](https://images-1252557999.file.myqcloud.com/uPic/localai.png) 
+这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。此项目从书籍、网站、工具、笔记、任务管理等角度推荐怎么提升个人生产力。 
 
 ## 🤖 软件 
 
-### [namida](https://github.com/namidaco/namida)
+### [Bob](https://github.com/ripperhe/Bob)
 
-一个美观且功能丰富的音乐和视频播放器，支持 `Youtube`，基于 `Flutter` 技术构建：
+同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
 
-![namida](https://images-1252557999.file.myqcloud.com/uPic/namida.jpg) 
+- [x]   划词翻译
+- [x]   截图翻译
+- [x]   输入翻译
+- [x]   翻译多开
+- [x]   自定义插件
+- [x]   自动识别语种
+- [x]   驼峰拆分、蛇形拆分
+- [x]   AppleScript 调用
+- [x]   PopClip 调用 
 
-### [gushi_namer](https://github.com/holynova/gushi_namer)
+### [UTM](https://github.com/utmapp/UTM)
 
-古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
+开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
 
-![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
 
-从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
+### [res-downloader](https://github.com/putyy/res-downloader)
 
-### [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
+网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
 
-`Bulk Crap Uninstaller` 是一款免费开源的 `Windows` 卸载软件，它能够快速删除大量不需要的应用程序，甚至是便携或未注册的程序与游戏，并且能自动扫描残留文件、注册表遗留内容等：
-
-![Bulk-Crap-Uninstaller](https://images-1252557999.file.myqcloud.com/uPic/Bulk-Crap-Uninstaller.png) 
+![res-downloader](https://images-1252557999.file.myqcloud.com/uPic/res-downloader.jpeg) 
 
 ## 👀 资料 
 
-### [hello-algo](https://github.com/krahets/hello-algo)
+### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
-[Hello 算法](https://www.hello-algo.com/)是一本动画图解、能运行、可提问的数据结构与算法入门书，本书面向数据结构与算法初学者，致力于达成以下目标：
+一个在YouTube上发现最新机器学习课程的项目。 
 
-- 开源免费，所有同学都可在网上获取本书；
-- 新手友好，适合算法初学者自主学习入门；
-- 动画讲解，尽可能地保证平滑的学习曲线；
-- 代码导向，提供精简、可运行的算法代码；
-- 讨论学习，提问一般能在三日内得到回复；
+### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
 
-![hello-algo](https://images-1252557999.file.myqcloud.com/uPic/hello-algo.jpg) 
+自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
 
-### [AI-System](https://github.com/microsoft/AI-System)
+![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
 
-微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+### developer-roadmap
 
-![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
+开发人员学习成长路线图：
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
-
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
 
 ## 🕸 网站 
 
-### [Bing 文字创建图像](https://www.bing.com/images/create)
+### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
 
-微软出品的文字生成图像模型（IP不能是国内）：
+`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
 
-![bing_image](https://images-1252557999.file.myqcloud.com/uPic/bing_image.jpg) 
+![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
 
-### [gooddesign](https://www.gooddesign.tools/)
+### [compressjpeg](https://compressjpeg.com/zh/)
 
-优质设计师工具导航网站：
+一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
 
-![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
+![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg) 
 
-### [trendingpapers](https://trendingpapers.com)
+### [Ben Eater](https://eater.net/)
 
-类似于 `Github Trending` 的计算机科学论文趋势榜单：
+博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
 
-![trendingpapers](https://images-1252557999.file.myqcloud.com/uPic/trendingpapers.jpg) 
+![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
 
 ## ✍️ 说明
 
