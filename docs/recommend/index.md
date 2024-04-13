@@ -5,91 +5,91 @@
 
 ## 🎯 项目 
 
-### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
+### [excalidraw](https://github.com/excalidraw/excalidraw)
 
-该项目支持将微信聊天记录导出并生成网页浏览。 
+免费开源的白板绘图工具（默认提供手绘风格），官方也提供了 `Web` [在线使用](https://excalidraw.com/)版：
 
-### [fre123-nav](https://github.com/fre123-com/fre123-nav)
+![excalidraw](https://images-1252557999.file.myqcloud.com/uPic/excalidraw.jpg) 
 
-> [FRE123](https://www.fre123.com/) 免费资源共享平台导航，一键搭建你的导航网站！
+### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
 
-这是老胡上个月做的一个导航网站，不少人想基于这套进行二次开发，所以开源出来，希望能帮到大家：
+一键免费部署你的私人 `ChatGPT` 网页应用：
 
-- [fre123-nav](https://github.com/fre123-com/fre123-nav)：导航页面源码
-- [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)：信息流页面源码
-- [Fre123 导航网站搭建教程](https://mp.weixin.qq.com/s/NEqY1Qb4dyJDhdtlYxjmaA)
+- 在 1 分钟内使用 Vercel  **免费一键部署**
+- 精心设计的 UI，响应式设计，支持深色模式
+- 极快的首屏加载速度（~85kb）
+- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
+- 一键导出聊天记录，完整的 Markdown 支持
+- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
 
-![fre123-nav](https://images-1252557999.file.myqcloud.com/uPic/fre123-nav.jpeg) 
+![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
 
-### [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
+### [restic](https://github.com/restic/restic)
 
-这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。此项目从书籍、网站、工具、笔记、任务管理等角度推荐怎么提升个人生产力。 
+`Restic` 是一个快速、高效和安全的备份程序。它支持三个主要操作系统（Linux、macOS、Windows）和一些较小众的操作系统（FreeBSD、OpenBSD）
+
+![restic](https://images-1252557999.file.myqcloud.com/uPic/restic.jpg) 
 
 ## 🤖 软件 
 
-### [Bob](https://github.com/ripperhe/Bob)
+### [Applite](https://github.com/milanvarady/Applite "Applite")
 
-同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
+`Applite` 为 `Homebrew Cask` 提供了一个图形化界面，实现一键安装、更新和卸载应用：
 
-- [x]   划词翻译
-- [x]   截图翻译
-- [x]   输入翻译
-- [x]   翻译多开
-- [x]   自定义插件
-- [x]   自动识别语种
-- [x]   驼峰拆分、蛇形拆分
-- [x]   AppleScript 调用
-- [x]   PopClip 调用 
+![Applite](https://images-1252557999.file.myqcloud.com/uPic/Applite.png) 
 
-### [UTM](https://github.com/utmapp/UTM)
+### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
 
-开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
+`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
 
-![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
+- Support Intel
+- Support Apple Silicon (M1 & M2)
+- Network
+- USB 
 
-### [res-downloader](https://github.com/putyy/res-downloader)
+### [tvapk](https://github.com/Archmage83/tvapk)
 
-网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
+收集各大 `AndroidTV` 的 `apk` 应用，可免费看各种vip和国外电影电视：
 
-![res-downloader](https://images-1252557999.file.myqcloud.com/uPic/res-downloader.jpeg) 
+![tvapk](https://images-1252557999.file.myqcloud.com/uPic/tvapk.png) 
 
 ## 👀 资料 
 
-### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+### [Web Development History](https://webdevelopmenthistory.com/index/)
 
-一个在YouTube上发现最新机器学习课程的项目。 
+`Web` 开发发展史文章系列：
 
-### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
+![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
 
-自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
+### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
 
-![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
+机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
 
-### developer-roadmap
+![openmlsys](https://images-1252557999.file.myqcloud.com/uPic/openmlsys.jpg) 
 
-开发人员学习成长路线图：
+### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 
-![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
+这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
 
 ## 🕸 网站 
 
-### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
+### [iconfont](https://www.iconfont.cn/)
 
-`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
+阿里巴巴矢量图标库：
 
-![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
+![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
 
-### [compressjpeg](https://compressjpeg.com/zh/)
+### [Anthropic](https://docs.anthropic.com/claude/prompt-library)
 
-一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
+Anthropic 公司推出的提示词库，里面有 `Anthropic` 提供的非常多的示例提示词，非常方便：
 
-![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg) 
+![anthropic](https://images-1252557999.file.myqcloud.com/uPic/anthropic.jpg) 
 
-### [Ben Eater](https://eater.net/)
+### [futurecoder](https://futurecoder.io/course/#ide)
 
-博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
+一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
 
-![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
+![futurecoder](https://images-1252557999.file.myqcloud.com/uPic/futurecoder.jpg) 
 
 ## ✍️ 说明
 
