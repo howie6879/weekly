@@ -12,7 +12,71 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 07 Apr 2024 15:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 13:43:13 +0000</lastBuildDate>
+    <item>
+      <title>04-08~04-14.老胡的周刊（第137期）.md</title>
+      <link>https://weekly.howie6879.com/2024/04-08~04-14.老胡的周刊（第137期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/04-08~04-14.老胡的周刊（第137期）.html"&gt;04-08~04-14.老胡的周刊（第137期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/m1k1o/neko"&gt;neko&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;可在服务器上运行的浏览器，核心功能如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;娱乐层面可以在你的服务器上面部署这个虚拟浏览器，你会很&lt;strong&gt;自由&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;公司层面，有一些服务和限制你搭建 VPN 的话，你可以开放虚拟浏览器来进行内部服务访问，保证安全性&lt;/li&gt;
+&lt;li&gt;还有权限管理，也很方便远程演示，操作也还是很流畅的&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="neko" src="https://images-1252557999.file.myqcloud.com/uPic/neko.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/1Panel-dev/MaxKB"&gt;MaxKB&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;💬 基于 &lt;code&gt;LLM&lt;/code&gt; 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，&lt;code&gt;1Panel&lt;/code&gt; 官方出品：&lt;/p&gt;
+&lt;p&gt;开箱即用：支持直接上传文档、自动爬取在线文档，支持文本自动拆分、向量化，智能问答交互体验好；
+无缝嵌入：支持零编码快速嵌入到第三方业务系统；
+多模型支持：支持对接主流的大模型，包括本地私有大模型（如 Llama 2）、Azure OpenAI 和百度千帆大模型等。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="MaxKB" src="https://images-1252557999.file.myqcloud.com/uPic/MaxKB.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/tryzealot/zealot"&gt;zealot&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源自部署持续集成一切跟应用有关事情，接入任意 CI 系统一切自动化处理，企业多年实战经验，独立部署提供企业打包分发流程、上传应用全套流程方案 En Taro Adun! 🖖&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🌏 多平台应用托管: macOS、iOS、Android（apk/aab）、Windows、Linux 泛平台&lt;/li&gt;
+&lt;li&gt;📱 测试设备一网打进: 自动同步 iOS 测试设备信息，允许一键注册新设备到苹果开发者&lt;/li&gt;
+&lt;li&gt;🧑‍💻 丰富开发者套件: 提供 REST API、iOS、Android SDK 以及 fastlane 自动化构建插件&lt;/li&gt;
+&lt;li&gt;💥 剖析应用内部的秘密: 解读 iOS、Android 应用或 iOS 描述文件的元信息&lt;/li&gt;
+&lt;li&gt;🚨 内置多种事件通知: 数据可自定义 Income WebHook 到任意通知服务&lt;/li&gt;
+&lt;li&gt;🗄 多渠道分类管理: 自由划分不同场景不同产品形态的应用渠道管理&lt;/li&gt;
+&lt;li&gt;🎳 多架构部署: amd86/arm64/armv7 及各种部署方案应有尽有&lt;/li&gt;
+&lt;li&gt;🔑 第三方登录: 飞书、Gitlab、Google、LDAP 和 OIDC 一键授权&lt;/li&gt;
+&lt;li&gt;🌑 黑暗模式: 黑夜白昼自由切换&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="zealot" src="https://images-1252557999.file.myqcloud.com/uPic/zealot.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/lihaoyun6/AirBattery"&gt;AirBattery&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;在 &lt;code&gt;Mac&lt;/code&gt; 上获取你所有设备的电量信息并显示在 &lt;code&gt;Dock&lt;/code&gt; / 状态栏 / 小组件上：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="AirBattery" src="https://images-1252557999.file.myqcloud.com/uPic/AirBattery.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/breezy-weather/breezy-weather/"&gt;breezy-weather&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Breezy Weather&lt;/code&gt; 是一款全面采用 &lt;code&gt;Material Design&lt;/code&gt; 设计风格的天气应用，其注重设计，UI简洁，动画效果流畅：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="breezy-weather" src="https://images-1252557999.file.myqcloud.com/uPic/breezy-weather.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/datawhalechina/self-llm"&gt;self-llm&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本项目是一个围绕开源大模型、针对国内初学者、基于 AutoDL 平台的中国宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，让更多的普通学生、研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普通学习者的生活中。&lt;/p&gt;
+&lt;p&gt;可以结合 &lt;a href="https://github.com/datawhalechina/llm-universe"&gt;llm-universe&lt;/a&gt; 一起看看。&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://uinotes.com/"&gt;uinotes&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;UI Notes&lt;/code&gt; 收集了大量线上优秀 &lt;code&gt;App&lt;/code&gt; 的完整 &lt;code&gt;UI&lt;/code&gt; 截图，只有落地设计没有飞机稿，你可以在这里探索 UI 设计的最新趋势、浏览竞品的产品设计、快速找到工作中需要的灵感：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="uinotes" src="https://images-1252557999.file.myqcloud.com/uPic/uinotes.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://weekly.fre123.com/"&gt;https://weekly.fre123.com/&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">04-08~04-14.老胡的周刊（第137期）.md</guid>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>04-01~04-07.老胡的周刊（第136期）.md</title>
       <link>https://weekly.howie6879.com/2024/04-01~04-07.老胡的周刊（第136期）.html</link>
