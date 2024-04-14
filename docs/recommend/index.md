@@ -5,91 +5,85 @@
 
 ## 🎯 项目 
 
-### [excalidraw](https://github.com/excalidraw/excalidraw)
+### [python-wechaty](https://github.com/wechaty/python-wechaty)
 
-免费开源的白板绘图工具（默认提供手绘风格），官方也提供了 `Web` [在线使用](https://excalidraw.com/)版：
+`Wechaty` 是一个开源聊天机器人框架 `SDK`，具有高度封装、高可用的特性，支持 `NodeJs, Python, Go` 和 `Java` 等多语言版本：
 
-![excalidraw](https://images-1252557999.file.myqcloud.com/uPic/excalidraw.jpg) 
+![python-wechaty](https://images-1252557999.file.myqcloud.com/uPic/python-wechaty.png) 
 
-### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
+### [linkwarden](https://github.com/linkwarden/linkwarden)
 
-一键免费部署你的私人 `ChatGPT` 网页应用：
+一个自托管的、开源的协作式书签管理器，用于收集、组织和归档网页:
 
-- 在 1 分钟内使用 Vercel  **免费一键部署**
-- 精心设计的 UI，响应式设计，支持深色模式
-- 极快的首屏加载速度（~85kb）
-- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
-- 一键导出聊天记录，完整的 Markdown 支持
-- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
+![linkwarden](https://images-1252557999.file.myqcloud.com/uPic/linkwarden.png) 
 
-![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
+### [devika](https://github.com/stitionai/devika "devika")
 
-### [restic](https://github.com/restic/restic)
+Devika 是一名 Agentic AI 软件工程师，可以理解高级人类指令并将其分解到各个步骤，然后研究相关信息，并编写代码以实现给定的目标。
 
-`Restic` 是一个快速、高效和安全的备份程序。它支持三个主要操作系统（Linux、macOS、Windows）和一些较小众的操作系统（FreeBSD、OpenBSD）
+![devika](https://images-1252557999.file.myqcloud.com/uPic/devika.png)
 
-![restic](https://images-1252557999.file.myqcloud.com/uPic/restic.jpg) 
+Devika 旨在成为 Cognition AI 的 Devin 的竞争性开源替代品。 
 
 ## 🤖 软件 
 
-### [Applite](https://github.com/milanvarady/Applite "Applite")
+### [hetty](https://github.com/dstotijn/hetty)
 
-`Applite` 为 `Homebrew Cask` 提供了一个图形化界面，实现一键安装、更新和卸载应用：
+`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
 
-![Applite](https://images-1252557999.file.myqcloud.com/uPic/Applite.png) 
+![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
 
-### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
+### [marktext](https://github.com/marktext/marktext)
 
-`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
 
-- Support Intel
-- Support Apple Silicon (M1 & M2)
-- Network
-- USB 
+![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
 
-### [tvapk](https://github.com/Archmage83/tvapk)
+### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
 
-收集各大 `AndroidTV` 的 `apk` 应用，可免费看各种vip和国外电影电视：
+`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
 
-![tvapk](https://images-1252557999.file.myqcloud.com/uPic/tvapk.png) 
+![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
 
 ## 👀 资料 
 
-### [Web Development History](https://webdevelopmenthistory.com/index/)
+### [learnprompting.org](https://learnprompting.org/zh-Hans/docs/intro)
 
-`Web` 开发发展史文章系列：
+> 如何同人工智能交流，并得到你要的结果。
 
-![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
+随着最近人工智能的不断进步，提示工程这项技能变得越来越重要。本课程会聚焦于如何使用提示工程。你不需要很多机器学习相关的知识。
 
-### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
+![learnprompting](https://images-1252557999.file.myqcloud.com/uPic/learnprompting.jpg) 
 
-机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
+### [db-tutorial](https://github.com/dunwu/db-tutorial)
 
-![openmlsys](https://images-1252557999.file.myqcloud.com/uPic/openmlsys.jpg) 
+💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
 
-### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
+### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
 
-这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
+一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
+
+![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
 
 ## 🕸 网站 
 
-### [iconfont](https://www.iconfont.cn/)
+### [openart.ai](https://openart.ai/)
 
-阿里巴巴矢量图标库：
+基于 `DALL E 2、Midjourney、SD` 生成的1000多万图片搜索网站：
 
-![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
+![openart](https://images-1252557999.file.myqcloud.com/uPic/openart.jpg) 
 
-### [Anthropic](https://docs.anthropic.com/claude/prompt-library)
+### [cook](https://github.com/YunYouJun/cook)
 
-Anthropic 公司推出的提示词库，里面有 `Anthropic` 提供的非常多的示例提示词，非常方便：
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-![anthropic](https://images-1252557999.file.myqcloud.com/uPic/anthropic.jpg) 
+![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
 
-### [futurecoder](https://futurecoder.io/course/#ide)
+### [ai-12348](https://ai.12348.gov.cn/pc/)
 
-一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
+免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
 
-![futurecoder](https://images-1252557999.file.myqcloud.com/uPic/futurecoder.jpg) 
+![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
 
 ## ✍️ 说明
 
