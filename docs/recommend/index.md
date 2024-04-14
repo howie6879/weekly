@@ -5,85 +5,88 @@
 
 ## 🎯 项目 
 
-### [python-wechaty](https://github.com/wechaty/python-wechaty)
+### [ChatChat](https://github.com/okisdev/ChatChat)
 
-`Wechaty` 是一个开源聊天机器人框架 `SDK`，具有高度封装、高可用的特性，支持 `NodeJs, Python, Go` 和 `Java` 等多语言版本：
+Chat Chat，解锁你的下一级 AI 对话体验。你可以使用 OpenAI、微软 Azure、Claude、Cohere、Hugging Face 等多个 API，让你的 AI 对话体验更加丰富:
 
-![python-wechaty](https://images-1252557999.file.myqcloud.com/uPic/python-wechaty.png) 
+![chatchat](https://images-1252557999.file.myqcloud.com/uPic/chatchat.jpg) 
 
-### [linkwarden](https://github.com/linkwarden/linkwarden)
+### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
 
-一个自托管的、开源的协作式书签管理器，用于收集、组织和归档网页:
+`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
 
-![linkwarden](https://images-1252557999.file.myqcloud.com/uPic/linkwarden.png) 
+![LuckysheetDemo](https://images-1252557999.file.myqcloud.com/uPic/LuckysheetDemo.gif) 
 
-### [devika](https://github.com/stitionai/devika "devika")
+### [public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
 
-Devika 是一名 Agentic AI 软件工程师，可以理解高级人类指令并将其分解到各个步骤，然后研究相关信息，并编写代码以实现给定的目标。
+有一些 `Docker` 镜像托管在 `gcr.io`，这样国内下载就会很不方便，使用这个项目就可以快速下载，简单加个前缀就行：
 
-![devika](https://images-1252557999.file.myqcloud.com/uPic/devika.png)
+```shell
+k8s.gcr.io/coredns/coredns => m.daocloud.io/k8s.gcr.io/coredns/coredns
+```
 
-Devika 旨在成为 Cognition AI 的 Devin 的竞争性开源替代品。 
+其他资源：
+
+- 常用镜像仓库：[一些国内镜像源](https://gist.github.com/qwfys/aec4d2ab79281aeafebdb40b22d0b748)
+- [x-mirrors/gcr.io](https://github.com/x-mirrors/gcr.io) 
 
 ## 🤖 软件 
 
-### [hetty](https://github.com/dstotijn/hetty)
+### [uncle-novel](https://github.com/unclezs/uncle-novel)
 
-`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
+一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
 
-![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
+![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
 
-### [marktext](https://github.com/marktext/marktext)
+### [Equinox](https://github.com/rlxone/Equinox)
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
 
-![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
+![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
 
-### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
+### [PeaZip](https://github.com/peazip/PeaZip)
 
-`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
+PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
 
-![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
+![peazip](https://images-1252557999.file.myqcloud.com/uPic/peazip.png) 
 
 ## 👀 资料 
 
-### [learnprompting.org](https://learnprompting.org/zh-Hans/docs/intro)
+### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
-> 如何同人工智能交流，并得到你要的结果。
+LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
 
-随着最近人工智能的不断进步，提示工程这项技能变得越来越重要。本课程会聚焦于如何使用提示工程。你不需要很多机器学习相关的知识。
+### [self-llm](https://github.com/datawhalechina/self-llm)
 
-![learnprompting](https://images-1252557999.file.myqcloud.com/uPic/learnprompting.jpg) 
+本项目是一个围绕开源大模型、针对国内初学者、基于 AutoDL 平台的中国宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，让更多的普通学生、研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普通学习者的生活中。
 
-### [db-tutorial](https://github.com/dunwu/db-tutorial)
+可以结合 [llm-universe](https://github.com/datawhalechina/llm-universe) 一起看看。 
 
-💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
+### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
-### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
+30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
 
-一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
-
-![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
+![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
 
 ## 🕸 网站 
 
-### [openart.ai](https://openart.ai/)
+### [flowgpt](https://flowgpt.com/)
 
-基于 `DALL E 2、Midjourney、SD` 生成的1000多万图片搜索网站：
+一个分享ChatGPT提示的网站：
 
-![openart](https://images-1252557999.file.myqcloud.com/uPic/openart.jpg) 
+![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
 
-### [cook](https://github.com/YunYouJun/cook)
+### [svg-path-editor](https://yqnn.github.io/svg-path-editor/)
 
-一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
+在线编辑创建 `SVG`，同时开源在 [github-svg-path-editor](https://github.com/Yqnn/svg-path-editor)：
 
-![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
+![svg-path-editor](https://images-1252557999.file.myqcloud.com/uPic/svg-path-editor.jpg) 
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+### [z2h 字帖](https://paper.z2h.cn/)
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+用正确的方法刻意练习，每个人都能写出一手漂亮的字，自定义字帖字体和内容，可打印导出练字：
 
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+![z2h](https://images-1252557999.file.myqcloud.com/uPic/z2h.jpg) 
 
 ## ✍️ 说明
 
