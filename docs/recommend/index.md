@@ -5,88 +5,102 @@
 
 ## 🎯 项目 
 
-### [ChatChat](https://github.com/okisdev/ChatChat)
+### [poster-design](https://github.com/palxiao/poster-design)
 
-Chat Chat，解锁你的下一级 AI 对话体验。你可以使用 OpenAI、微软 Azure、Claude、Cohere、Hugging Face 等多个 API，让你的 AI 对话体验更加丰富:
+一款漂亮且功能强大的在线海报图片设计器，仿稿定设计。适用于海报图片生成、电商分享图、文章长图、视频/公众号封面等多种场景，不过需要注意的是项目后端服务没有开源，特性如下：
 
-![chatchat](https://images-1252557999.file.myqcloud.com/uPic/chatchat.jpg) 
+- 导入 PSD 文件解析成模板、在线导出图片下载
+- 元素拖拽、组合、缩放、层级调整、对齐等操作。
+- 图片素材插入、替换、裁剪，图片容器等功能。
+- SVG 素材颜色、透明度编辑，文字花字组合。
+- 画布自定义尺寸、滚轮缩放、自适应画布
+- 吸附对齐、辅助引导线、标尺功能。
+- 键盘快捷键、右键菜单快捷操作，复制删除等常用操作。
+- 风格二维码编辑，支持单色、渐变、自定义 logo 等。
+- 图层操作，支持拖拽变更层级。
+- 颜色调色板，原生级取色器颜色吸管（Chrome）
 
-### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
+![poster-design](https://images-1252557999.file.myqcloud.com/uPic/poster-design.jpg) 
 
-`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
+### [rss-proxy](https://github.com/damoeb/rss-proxy)
 
-![LuckysheetDemo](https://images-1252557999.file.myqcloud.com/uPic/LuckysheetDemo.gif) 
+通过分析用户提供的静态页面自动创建RSS订阅源：
 
-### [public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+![](https://images-1252557999.file.myqcloud.com/uPic/APrAbH.png) 
 
-有一些 `Docker` 镜像托管在 `gcr.io`，这样国内下载就会很不方便，使用这个项目就可以快速下载，简单加个前缀就行：
+### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
 
-```shell
-k8s.gcr.io/coredns/coredns => m.daocloud.io/k8s.gcr.io/coredns/coredns
-```
+基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
 
-其他资源：
-
-- 常用镜像仓库：[一些国内镜像源](https://gist.github.com/qwfys/aec4d2ab79281aeafebdb40b22d0b748)
-- [x-mirrors/gcr.io](https://github.com/x-mirrors/gcr.io) 
+![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
 
 ## 🤖 软件 
 
-### [uncle-novel](https://github.com/unclezs/uncle-novel)
+### [PicGo](https://github.com/Molunerfinn/PicGo)
 
-一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
+一个用于快速上传图片并获取图片 `URL` 链接的工具，和之前推荐的 [uPic](https://github.com/gee1k/uPic) 类似，但这个是跨平台的且有自己的插件体系：
 
-![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
+![PicGo](https://images-1252557999.file.myqcloud.com/uPic/PicGo.jpg)
 
-### [Equinox](https://github.com/rlxone/Equinox)
+如果想在终端环境进行图片上传，可以参考：[upgit](https://github.com/pluveto/upgit)。 
 
-开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
+### [ToastFish](https://github.com/Uahh/ToastFish)
 
-![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
+这是一个利用 `Windows` 通知栏背单词的软件，可以让你在上班、上课等环境下安全地背单词：
 
-### [PeaZip](https://github.com/peazip/PeaZip)
+![ToastFish](https://images-1252557999.file.myqcloud.com/uPic/ToastFish.gif) 
 
-PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
+### [notesnook](https://github.com/streetwriters/notesnook)
 
-![peazip](https://images-1252557999.file.myqcloud.com/uPic/peazip.png) 
+印象笔记的开源替代品（支持端对端加密）：
+
+![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
 
 ## 👀 资料 
 
-### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+### [学习CSS布局](https://zh.learnlayout.com/)
 
-LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
+本站教授的是现在广泛使用于网站布局领域的CSS基础：
 
-### [self-llm](https://github.com/datawhalechina/self-llm)
+![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
 
-本项目是一个围绕开源大模型、针对国内初学者、基于 AutoDL 平台的中国宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，让更多的普通学生、研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普通学习者的生活中。
+### [easy_rust](https://github.com/Dhghomon/easy_rust)
 
-可以结合 [llm-universe](https://github.com/datawhalechina/llm-universe) 一起看看。 
+现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
 
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+你可以用以下方式浏览：
 
-30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
+- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
+- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
+- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
 
-![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
+![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
+
+### [微信之父张小龙2351条饭否日记](https://docs.qq.com/doc/DWUVKZERkeGFLckp6?dver=)
+
+微信之父张小龙2351条饭否日记:
+
+![zxl_ff](https://images-1252557999.file.myqcloud.com/uPic/zxl_ff.jpg) 
 
 ## 🕸 网站 
 
-### [flowgpt](https://flowgpt.com/)
+### [xyzrank.com](https://xyzrank.com/)
 
-一个分享ChatGPT提示的网站：
+中文播客榜单：
 
-![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
+![xyzrank](https://images-1252557999.file.myqcloud.com/uPic/xyzrank.jpg) 
 
-### [svg-path-editor](https://yqnn.github.io/svg-path-editor/)
+### [watermarkremover](https://www.watermarkremover.io/)
 
-在线编辑创建 `SVG`，同时开源在 [github-svg-path-editor](https://github.com/Yqnn/svg-path-editor)：
+通过AI技术去除图片水印：
 
-![svg-path-editor](https://images-1252557999.file.myqcloud.com/uPic/svg-path-editor.jpg) 
+![watermarkremover](https://images-1252557999.file.myqcloud.com/uPic/watermarkremover.jpg) 
 
-### [z2h 字帖](https://paper.z2h.cn/)
+### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
 
-用正确的方法刻意练习，每个人都能写出一手漂亮的字，自定义字帖字体和内容，可打印导出练字：
+来自阿里体系的各种技术资料，全部免费，个人非常推荐。
 
-![z2h](https://images-1252557999.file.myqcloud.com/uPic/z2h.jpg) 
+![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
 
 ## ✍️ 说明
 
