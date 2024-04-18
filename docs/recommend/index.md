@@ -5,78 +5,73 @@
 
 ## 🎯 项目 
 
-### [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
+### [photoprism](https://github.com/photoprism/photoprism)
 
-使用 `Next.js、Type Script & Tailwind CSS` 构建的 `ChatGPT` 交互界面：
+基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
 
-![chatbot-ui](https://images-1252557999.file.myqcloud.com/uPic/chatbot-ui.png) 
+![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
 
-### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+### [appwrite](https://github.com/appwrite/appwrite)
 
-Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
+`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
 
-你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
+![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
 
-- 🌐 利用互联网进行搜索和信息收集
-- 💾 长期和短期记忆管理
-- 🧠 GPT-4实例用于文本生成
-- 🔗 访问流行的网站和平台
-- 🗃️ 使用GPT-3.5进行文件存储和摘要
+### [ceresdb](https://github.com/CeresDB/ceresdb)
 
-![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
+蚂蚁金服 `Rust` 实现的时序数据库正式开源，`CeresDB` 是一款高性能、分布式、`Schema-less` 的云原生时序数据库，能够同时处理时序型（time-series）以及分析型（analytics）负载。：
 
-### [awesome-compose](https://github.com/docker/awesome-compose)
-
-一些 `Docker Compose` 的实践示例。 
+![CeresDB](https://images-1252557999.file.myqcloud.com/uPic/CeresDB.png) 
 
 ## 🤖 软件 
 
-### [Itsycal](https://www.mowglii.com/itsycal/)
+### [lettura](https://github.com/zhanglun/lettura)
 
-一款简单优雅的 Macos 菜单栏日历：
+基于 `Tauri` 的桌面 `RSS` 阅读器：
 
-![itsycal](https://images-1252557999.file.myqcloud.com/uPic/itsycal.png) 
+![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
 
-### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+### [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)
 
-一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
+免费开源抓包工具，支持 `Windows、Mac、Android、IOS、Linux` 全平台系统：
 
-- 配置app启动默认输入法。
-- app来回切换，保持app切出前的使用的输入法。
-- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
-- 悬浮窗口支持
+![network_proxy_flutter](https://images-1252557999.file.myqcloud.com/uPic/network_proxy_flutter.png) 
 
-![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
+### [ponymusic](https://github.com/wangchenyan/ponymusic)
 
-### [TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer)
+使用「网易云音乐API」的安卓在线音乐播放器：
 
-音乐播放器模仿酷狗，基于 `Qt` 和 `Qmmp` 库开发，支持 `Windows` 和 `Linux` 平台(支持网易云音乐、酷我音乐、酷狗音乐):
+- 网易云音乐基本功能
+- 添加和播放本地音乐文件
+- 专辑封面显示
+- 歌词显示，支持拖动歌词调节播放进度
+- 通知栏控制
+- 夜间模式
+- 定时关闭
 
-![TTKMusicPlayer](https://images-1252557999.file.myqcloud.com/uPic/TTKMusicPlayer.jpeg) 
+![ponymusic](https://images-1252557999.file.myqcloud.com/uPic/ponymusic.jpg) 
 
 ## 👀 资料 
 
-### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+### [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note)
 
-C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
+从0开始学习英语语法的开源项目：
 
-![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
+![english-note](https://images-1252557999.file.myqcloud.com/uPic/english-note.jpg) 
 
-### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
+### [self-llm](https://github.com/datawhalechina/self-llm)
 
-自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
+本项目是一个围绕开源大模型、针对国内初学者、基于 AutoDL 平台的中国宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，让更多的普通学生、研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普通学习者的生活中。
 
-### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
+可以结合 [llm-universe](https://github.com/datawhalechina/llm-universe) 一起看看。 
 
-技术面试最后反问面试官的话。 
+### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
+
+《TCP/IP网络编程》(韩-尹圣雨)学习笔记
+
+![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
 
 ## 🕸 网站 
-
-### [cleanup.pictures](https://cleanup.pictures/)
-
-百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
-
-![cleanup_demo](https://images-1252557999.file.myqcloud.com/uPic/cleanup_demo.gif) 
 
 ### [pixian.ai](https://pixian.ai/)
 
@@ -84,11 +79,17 @@ C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看�
 
 ![pixian](https://images-1252557999.file.myqcloud.com/uPic/pixian.jpg) 
 
-### [futurecoder](https://futurecoder.io/course/#ide)
+### [nesbox](https://nesbox.xianqiao.wang/)
 
-一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
+找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
 
-![futurecoder](https://images-1252557999.file.myqcloud.com/uPic/futurecoder.jpg) 
+![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
+
+### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
+
+来自阿里体系的各种技术资料，全部免费，个人非常推荐。
+
+![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
 
 ## ✍️ 说明
 
