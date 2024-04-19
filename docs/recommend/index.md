@@ -5,91 +5,81 @@
 
 ## 🎯 项目 
 
-### [photoprism](https://github.com/photoprism/photoprism)
+### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
 
-基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
+短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
 
-![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
+![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
 
-### [appwrite](https://github.com/appwrite/appwrite)
+### [restic](https://github.com/restic/restic)
 
-`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
+`Restic` 是一个快速、高效和安全的备份程序。它支持三个主要操作系统（Linux、macOS、Windows）和一些较小众的操作系统（FreeBSD、OpenBSD）
 
-![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
+![restic](https://images-1252557999.file.myqcloud.com/uPic/restic.jpg) 
 
-### [ceresdb](https://github.com/CeresDB/ceresdb)
+### [photoview](https://github.com/photoview/photoview)
 
-蚂蚁金服 `Rust` 实现的时序数据库正式开源，`CeresDB` 是一款高性能、分布式、`Schema-less` 的云原生时序数据库，能够同时处理时序型（time-series）以及分析型（analytics）负载。：
+开源的相册程序，可基于Docker快速构建：
 
-![CeresDB](https://images-1252557999.file.myqcloud.com/uPic/CeresDB.png) 
+![photoview](https://images-1252557999.file.myqcloud.com/uPic/photoview.png) 
 
 ## 🤖 软件 
 
-### [lettura](https://github.com/zhanglun/lettura)
+### [orbstack](https://github.com/orbstack)
 
-基于 `Tauri` 的桌面 `RSS` 阅读器：
+来自朋友的推荐，`macOS` 上的 `Docker Desktop` 很卡很臃肿大家应该认可吧，我之前都是用 `Podman`，也算不错。这次又发现了这款在 `macOS` 上运行的 `Docker` 容器和 `Linux` 虚拟机 ，大家可以试试：
 
-![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
+![orbstack](https://images-1252557999.file.myqcloud.com/uPic/orbstack.jpg) 
 
-### [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)
+### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-免费开源抓包工具，支持 `Windows、Mac、Android、IOS、Linux` 全平台系统：
+监控你的应用流量，跨平台：
 
-![network_proxy_flutter](https://images-1252557999.file.myqcloud.com/uPic/network_proxy_flutter.png) 
+![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
 
-### [ponymusic](https://github.com/wangchenyan/ponymusic)
+### [spotube](https://github.com/KRTirtho/spotube)
 
-使用「网易云音乐API」的安卓在线音乐播放器：
+`Spotube` 可用于所有主要平台，包括 `Linux、Android、Windows & MacOS`，它利用 `Spotify` 和 `YouTube` 的公共 `API` 作为音频源，不需要 `Spotify Premium`，没有广告，可下载歌曲，实时同步歌词，支持匿名或访客登录：
 
-- 网易云音乐基本功能
-- 添加和播放本地音乐文件
-- 专辑封面显示
-- 歌词显示，支持拖动歌词调节播放进度
-- 通知栏控制
-- 夜间模式
-- 定时关闭
-
-![ponymusic](https://images-1252557999.file.myqcloud.com/uPic/ponymusic.jpg) 
+![spotube](https://images-1252557999.file.myqcloud.com/uPic/spotube.jpg) 
 
 ## 👀 资料 
 
-### [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note)
+### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
 
-从0开始学习英语语法的开源项目：
+《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
 
-![english-note](https://images-1252557999.file.myqcloud.com/uPic/english-note.jpg) 
+![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
 
-### [self-llm](https://github.com/datawhalechina/self-llm)
+### 认知偏差知识手册
 
-本项目是一个围绕开源大模型、针对国内初学者、基于 AutoDL 平台的中国宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，让更多的普通学生、研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普通学习者的生活中。
+字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
 
-可以结合 [llm-universe](https://github.com/datawhalechina/llm-universe) 一起看看。 
+![cb](https://images-1252557999.file.myqcloud.com/uPic/cb.jpg) 
 
-### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
+### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
 
-《TCP/IP网络编程》(韩-尹圣雨)学习笔记
-
-![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
+本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
 
 ## 🕸 网站 
 
-### [pixian.ai](https://pixian.ai/)
+### [staticrypt](https://github.com/robinmoisson/staticrypt)
 
-免登录图片背景消除网页，2023-07-21 当前属于测试期间，是免费的：
+一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
 
-![pixian](https://images-1252557999.file.myqcloud.com/uPic/pixian.jpg) 
+![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
 
-### [nesbox](https://nesbox.xianqiao.wang/)
+### [红白机游戏盒](https://nes.heheda.top/ "红白机游戏盒")
 
-找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
+在线畅玩经典小游戏：
 
-![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
+![heheda](https://images-1252557999.file.myqcloud.com/uPic/heheda.jpg) 
 
-### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
+### [icones.js.org](https://icones.js.org/)
 
-来自阿里体系的各种技术资料，全部免费，个人非常推荐。
+免费的图标库：
 
-![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
+![icones](https://images-1252557999.file.myqcloud.com/uPic/icones.jpg) 
 
 ## ✍️ 说明
 
