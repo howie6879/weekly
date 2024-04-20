@@ -5,81 +5,91 @@
 
 ## 🎯 项目 
 
-### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
+### [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
 
-短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
+科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能：
 
-![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
+![chatgpt_academic](https://images-1252557999.file.myqcloud.com/uPic/chatgpt_academic.png) 
 
-### [restic](https://github.com/restic/restic)
+### [screenshot-to-code](https://github.com/abi/screenshot-to-code)
 
-`Restic` 是一个快速、高效和安全的备份程序。它支持三个主要操作系统（Linux、macOS、Windows）和一些较小众的操作系统（FreeBSD、OpenBSD）
+依赖 `GPT-4 Vision` 特性，允许用户将屏幕截图作为输入，然后将其转换为整洁的HTML/Tailwind/JS代码，和上一期推荐的 [draw-a-ui](https://weekly.howie6879.com/2023/11-06~11-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC115%E6%9C%9F%EF%BC%89.html) 有异曲同工之妙。
 
-![restic](https://images-1252557999.file.myqcloud.com/uPic/restic.jpg) 
+![screenshot-to-code](https://images-1252557999.file.myqcloud.com/uPic/screenshot-to-code.jpg) 
 
-### [photoview](https://github.com/photoview/photoview)
+### [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
 
-开源的相册程序，可基于Docker快速构建：
+强大的少样本语音转换与语音合成Web用户界面，低成本 AI 语音克隆项目，感兴趣可以查看介绍[视频](https://www.bilibili.com/video/BV12g4y1m7Uw/) 。
 
-![photoview](https://images-1252557999.file.myqcloud.com/uPic/photoview.png) 
+![GPT-SoVITS](https://images-1252557999.file.myqcloud.com/uPic/GPT-SoVITS.jpg) 
 
 ## 🤖 软件 
 
-### [orbstack](https://github.com/orbstack)
+### [Responsively](https://github.com/responsively-org/responsively-app)
 
-来自朋友的推荐，`macOS` 上的 `Docker Desktop` 很卡很臃肿大家应该认可吧，我之前都是用 `Podman`，也算不错。这次又发现了这款在 `macOS` 上运行的 `Docker` 容器和 `Linux` 虚拟机 ，大家可以试试：
+一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
 
-![orbstack](https://images-1252557999.file.myqcloud.com/uPic/orbstack.jpg) 
+![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
 
-### [sniffnet](https://github.com/GyulyVGC/sniffnet)
+### [kondo](https://github.com/tbillington/kondo)
 
-监控你的应用流量，跨平台：
+有时候在开发的时候，会惊讶于这个语言下依赖竟然有 `xx个G` 的硬盘占用，长期下来，硬盘的空间就这样不知不觉没有了，好在发现了这个项目，帮我解决了问题：
 
-![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
+![kondo](https://images-1252557999.file.myqcloud.com/uPic/kondo.png)
 
-### [spotube](https://github.com/KRTirtho/spotube)
+可以看到上面 `Rust` 项目依赖确实大。 
 
-`Spotube` 可用于所有主要平台，包括 `Linux、Android、Windows & MacOS`，它利用 `Spotify` 和 `YouTube` 的公共 `API` 作为音频源，不需要 `Spotify Premium`，没有广告，可下载歌曲，实时同步歌词，支持匿名或访客登录：
+### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
 
-![spotube](https://images-1252557999.file.myqcloud.com/uPic/spotube.jpg) 
+Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
+
+Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
+
+支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
+
+![hammerscholar](https://images-1252557999.file.myqcloud.com/uPic/4UQ5Ha.png) 
 
 ## 👀 资料 
 
-### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
+### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
 
-《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
+机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
 
-![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
+![openmlsys](https://images-1252557999.file.myqcloud.com/uPic/openmlsys.jpg) 
 
-### 认知偏差知识手册
+### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
 
-字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
 
-![cb](https://images-1252557999.file.myqcloud.com/uPic/cb.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/AHWB7M.jpg)
 
-### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
+更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
 
-本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+
+站点可靠性工作手册：
+
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
 ## 🕸 网站 
 
-### [staticrypt](https://github.com/robinmoisson/staticrypt)
+### [removebg](https://www.remove.bg/zh)
 
-一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
+这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
 
-![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
+![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
 
-### [红白机游戏盒](https://nes.heheda.top/ "红白机游戏盒")
+### [renwuzhi.wiki](https://renwuzhi.wiki/)
 
-在线畅玩经典小游戏：
+网站收集了各个朝代人物介绍：
 
-![heheda](https://images-1252557999.file.myqcloud.com/uPic/heheda.jpg) 
+![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
 
-### [icones.js.org](https://icones.js.org/)
+### [smartexcel](https://www.smartexcel.cc/)
 
-免费的图标库：
+使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
 
-![icones](https://images-1252557999.file.myqcloud.com/uPic/icones.jpg) 
+![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
 
 ## ✍️ 说明
 
