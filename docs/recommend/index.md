@@ -5,26 +5,25 @@
 
 ## 🎯 项目 
 
-### [btop](https://github.com/aristocratos/btop)
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-一款界面酷炫的资源管理器，不过我用htop就够够的了。
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-![btop](https://images-1252557999.file.myqcloud.com/uPic/3eoG1g.jpg) 
+ ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
 
-### [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)
+### [answer](https://github.com/answerdev/answer)
 
-一个 `ChatGPT` 代码解释器的开源（`LangChain`）实现：
+基于自己的产品或者项目快速打造一个问答社区：
 
-- 数据集分析、股票图表绘制、图像处理....
-- 互联网访问和自动安装Python软件包
-- 除了OpenAI API 外，所有事情在本地运行
-- 对话记忆：根据先前的输入进行回应 
+![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
 
-### [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+### [ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)
 
-基于 `playwright` 的小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 | 评论爬虫、微博帖子 | 评论爬虫：
+[ComfyUI](https://github.com/comfyanonymous/ComfyUI) 是一个基于节点的 `Stable Diffusion GUI`，你可以通过将不同的块链接在一起来构建图像生成工作流程：
 
-![MediaCrawler](https://images-1252557999.file.myqcloud.com/uPic/MediaCrawler.jpg) 
+![ComfyUI-Workflows-ZHO](https://images-1252557999.file.myqcloud.com/uPic/ComfyUI-Workflows-ZHO.jpg)
+
+老胡之前也推荐过 [Comflowy](https://www.comflowy.com/zh-CN) 的社区，致力于提供系统成熟的教程和经验文档。 
 
 ## 🤖 软件 
 
@@ -34,61 +33,57 @@
 
 ![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
 
-### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+### [winlator](https://github.com/brunodev85/winlator)
 
-针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
+使用 `Wine & Box86/Box64` 的安卓应用程序，此项目特点是可以运行 `Windows` 应用程序。 
 
-![CodeEdit](https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png) 
+### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
 
-### [Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper)
+> 让每个人都简单方便的使用前沿人工智能技术
 
-李跳跳下线了，还有开源的出来，开屏跳过-安卓系统的开屏广告自动跳过助手。
+一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
 
-**开屏跳过**可以帮助用户自动跳过一些应用的开屏广告，基于Android的无障碍服务实现。
-
-使用广告跳过程序，最大的风险是个人隐私被泄露。`因为这种软件都需要开启Accessibility` 无障碍服务，可以获取屏幕上的**所有内容**，从而可以检测广告，帮助用户自动跳过。
-
-本程序是开源程序，不需要网络权限，不需要存储权限，不会收集或者上传任何信息！绝无隐私问题：
-
-![Android-Touch-Helper](https://images-1252557999.file.myqcloud.com/uPic/Android-Touch-Helper.jpg) 
+![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
 
 ## 👀 资料 
 
-### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+### [nlp-with-transformers](https://github.com/nlp-with-transformers)
 
-该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+书籍《基于Transformers的自然语言处理》的代码仓库：
 
-![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/A6MiF5.jpg) 
 
-### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
+### [让你受益匪浅的名家写作经验](https://docs.qq.com/aio/DWVRkZ1RUWHRsdU1J?p=4oWLX7hAfFdfdbi4Ir5wqo)
 
-这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
+各文学大家的写作经验汇总：
 
-### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
+![让你受益匪浅的名家写作经验](https://images-1252557999.file.myqcloud.com/uPic/让你受益匪浅的名家写作经验.jpg) 
 
-Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
+### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
+
+本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
+
+![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
 
 ## 🕸 网站 
 
-### [feathericons](https://feathericons.com/)
+### [gh-card.dev](https://gh-card.dev/)
 
-简洁漂亮的图标网站：
+免费为你的 `Github` 开源项目生成卡片的网站：
 
-![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
+![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
 
-### [emojicode](https://www.emojicode.org/)
+### [websequencediagrams](https://www.websequencediagrams.com/)
 
-这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
+提供在线绘制时序图的网站：
 
-![emojicode](https://images-1252557999.file.myqcloud.com/uPic/emojicode.jpg)
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
-现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
+### [cleanup.pictures](https://cleanup.pictures/)
 
-### [renwuzhi.wiki](https://renwuzhi.wiki/)
+百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
 
-网站收集了各个朝代人物介绍：
-
-![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
+![cleanup_demo](https://images-1252557999.file.myqcloud.com/uPic/cleanup_demo.gif) 
 
 ## ✍️ 说明
 
