@@ -5,85 +5,106 @@
 
 ## 🎯 项目 
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
+### [Cloudreve](https://github.com/cloudreve/Cloudreve)
 
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
 
- ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
+- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
+- 📤  上传/下载 支持客户端直传，支持下载限速
+- 💾  可对接 Aria2 离线下载
+- 📚  在线 压缩/解压缩、多文件打包下载
+- 💻  覆盖全部存储策略的 WebDAV 协议支持
+- ⚡  拖拽上传、目录上传、流式上传处理
+- 🗃️  文件拖拽管理
+- 👩‍👧‍👦  多用户、用户组
+- 🔗  创建文件、目录的分享链接，可设定自动过期
+- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
+- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
+- 🚀  All-In-One 打包，开箱即用
+- 🌈  ... ...
 
-### [answer](https://github.com/answerdev/answer)
+![Cloudreve](https://images-1252557999.file.myqcloud.com/uPic/opzEP2.jpg) 
 
-基于自己的产品或者项目快速打造一个问答社区：
+### [docker-wechat](https://github.com/huan/docker-wechat)
 
-![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
+盒装微信，在linux下基于Docker技术使用微信客户端：
 
-### [ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)
+![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
 
-[ComfyUI](https://github.com/comfyanonymous/ComfyUI) 是一个基于节点的 `Stable Diffusion GUI`，你可以通过将不同的块链接在一起来构建图像生成工作流程：
+### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
 
-![ComfyUI-Workflows-ZHO](https://images-1252557999.file.myqcloud.com/uPic/ComfyUI-Workflows-ZHO.jpg)
+`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
 
-老胡之前也推荐过 [Comflowy](https://www.comflowy.com/zh-CN) 的社区，致力于提供系统成熟的教程和经验文档。 
+![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
 
 ## 🤖 软件 
 
-### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
+### [alisthelper](https://github.com/Xmarmalade/alisthelper)
 
-自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
+Alist Helper是一款使用Flutter开发的应用程序，旨在简化桌面版alist的使用。它可以管理alist，让您更轻松地开启、关闭alist程序:
 
-![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
+- 自动启动alist
+- 最小化至系统托盘
+- 开机自启和开机静默启动
+- 能够快速查看alist的版本和管理员信息
+- 可调整的alist启动参数。你可以可以根据自己的特定需求和偏好来自定义启动参数
 
-### [winlator](https://github.com/brunodev85/winlator)
+关键点：这个官方也在做，然后需要付费~
 
-使用 `Wine & Box86/Box64` 的安卓应用程序，此项目特点是可以运行 `Windows` 应用程序。 
+![alisthelper](https://images-1252557999.file.myqcloud.com/uPic/alisthelper.jpg) 
 
-### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
+### [lettura](https://github.com/zhanglun/lettura)
 
-> 让每个人都简单方便的使用前沿人工智能技术
+基于 `Tauri` 的桌面 `RSS` 阅读器：
 
-一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
+![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
 
-![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
+### [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
+
+安卓的 `BiliBili、NicoNico、YouTube` 替换客户端，支持弹幕、评论、登录下载：
+
+![pipepipe](https://images-1252557999.file.myqcloud.com/uPic/pipepipe.jpg) 
 
 ## 👀 资料 
 
-### [nlp-with-transformers](https://github.com/nlp-with-transformers)
+### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
 
-书籍《基于Transformers的自然语言处理》的代码仓库：
+自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/A6MiF5.jpg) 
+### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
 
-### [让你受益匪浅的名家写作经验](https://docs.qq.com/aio/DWVRkZ1RUWHRsdU1J?p=4oWLX7hAfFdfdbi4Ir5wqo)
+针对新人的 `CSS` 入门级教程：
 
-各文学大家的写作经验汇总：
+![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
 
-![让你受益匪浅的名家写作经验](https://images-1252557999.file.myqcloud.com/uPic/让你受益匪浅的名家写作经验.jpg) 
+在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
 
-### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
+### [如何制作落地页](https://www.bmms.me/blog/landing-page)
 
-本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
+如果你想要看到比较系统全面的落地页操作指南，这篇文章是作者小吉拆解了国内外 117 个优秀的落地页案例，总结提炼出的保姆级入门指南：
 
-![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
+![landing-page](https://images-1252557999.file.myqcloud.com/uPic/landing-page.jpg) 
 
 ## 🕸 网站 
 
-### [gh-card.dev](https://gh-card.dev/)
+### [熊猫速读](https://qread.xmsoushu.com/)
 
-免费为你的 `Github` 开源项目生成卡片的网站：
+熊猫速读是一个收集精品视频读书笔记或好书分享的网站！为您推荐好书速读的视频，在您读一本书或者购买图书之前通过视频介绍先快速了解书籍的内容，根据兴趣再决定是否购买。
 
-![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
+![xmsd](https://images-1252557999.file.myqcloud.com/uPic/xmsd.jpg) 
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+### [damngood.tools](https://damngood.tools/)
 
-提供在线绘制时序图的网站：
+开源实用工具集合：
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+![damngood](https://images-1252557999.file.myqcloud.com/uPic/damngood.jpg) 
 
-### [cleanup.pictures](https://cleanup.pictures/)
+### [万词王](https://github.com/thunlp/WantWords)
 
-百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
+万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
 
-![cleanup_demo](https://images-1252557999.file.myqcloud.com/uPic/cleanup_demo.gif) 
+![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
+官方访问地址：[wantwords.net](https://wantwords.net/)。 
 
 ## ✍️ 说明
 
