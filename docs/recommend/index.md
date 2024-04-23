@@ -5,59 +5,25 @@
 
 ## 🎯 项目 
 
-### [Cloudreve](https://github.com/cloudreve/Cloudreve)
+### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
 
-支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
+`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
 
-- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
-- 📤  上传/下载 支持客户端直传，支持下载限速
-- 💾  可对接 Aria2 离线下载
-- 📚  在线 压缩/解压缩、多文件打包下载
-- 💻  覆盖全部存储策略的 WebDAV 协议支持
-- ⚡  拖拽上传、目录上传、流式上传处理
-- 🗃️  文件拖拽管理
-- 👩‍👧‍👦  多用户、用户组
-- 🔗  创建文件、目录的分享链接，可设定自动过期
-- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
-- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
-- 🚀  All-In-One 打包，开箱即用
-- 🌈  ... ...
+![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
 
-![Cloudreve](https://images-1252557999.file.myqcloud.com/uPic/opzEP2.jpg) 
+### [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)
 
-### [docker-wechat](https://github.com/huan/docker-wechat)
+一键免费部署你的私人 AutoGPT-Next-Web 网页应用:
 
-盒装微信，在linux下基于Docker技术使用微信客户端：
+![AutoGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png) 
 
-![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
+### [markwhen](https://github.com/mark-when/markwhen)
 
-### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
+`Markwhen` 是一个交互式的文本到时间轴工具，`用户只需要编写类似于Markdown` 的文本，它就会转换成一个漂亮的级联时间轴：
 
-`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
-
-![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
+![markwhen](https://images-1252557999.file.myqcloud.com/uPic/markwhen.jpg) 
 
 ## 🤖 软件 
-
-### [alisthelper](https://github.com/Xmarmalade/alisthelper)
-
-Alist Helper是一款使用Flutter开发的应用程序，旨在简化桌面版alist的使用。它可以管理alist，让您更轻松地开启、关闭alist程序:
-
-- 自动启动alist
-- 最小化至系统托盘
-- 开机自启和开机静默启动
-- 能够快速查看alist的版本和管理员信息
-- 可调整的alist启动参数。你可以可以根据自己的特定需求和偏好来自定义启动参数
-
-关键点：这个官方也在做，然后需要付费~
-
-![alisthelper](https://images-1252557999.file.myqcloud.com/uPic/alisthelper.jpg) 
-
-### [lettura](https://github.com/zhanglun/lettura)
-
-基于 `Tauri` 的桌面 `RSS` 阅读器：
-
-![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
 
 ### [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
 
@@ -65,11 +31,39 @@ Alist Helper是一款使用Flutter开发的应用程序，旨在简化桌面版a
 
 ![pipepipe](https://images-1252557999.file.myqcloud.com/uPic/pipepipe.jpg) 
 
+### [GitUp](https://github.com/git-up/GitUp)
+
+简洁的 `Git` 客户端：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/GitUp.jpg) 
+
+### [postcat](https://github.com/Postcatlab/postcat)
+
+`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+
+![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
+
 ## 👀 资料 
 
-### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
+
+![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
+
+### [llm-universe](https://github.com/datawhalechina/llm-universe)
+
+本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：
+
+- 大模型简介，何为大模型、大模型特点是什么、LangChain 是什么，针对小白开发者的简单介绍；
+- 如何调用大模型 API，本节介绍了国内外知名大模型产品 API 的多种调用方式，包括调用原生 API、封装为 LangChain LLM、封装为 Fastapi 等调用方式，同时将包括百度文心、讯飞星火、智谱AI等多种大模型 API 进行了统一形式封装；
+- 大模型开发流程及架构，大模型应用开发的基本流程、一般思想和本项目的架构分析；
+- 数据库搭建，不同类型知识库文档的加载、处理，向量数据库的搭建；
+- Prompt 设计，如何设计 Prompt 来让大模型完成特定任务，Prompt Engineering 的原则和技巧有哪些；
+- 验证迭代，大模型开发如何实现验证迭代，一般的评估方法有什么；
+- 前后端开发，如何使用 Gradio、FastAPI 等框架快速开发大模型 Demo，展示应用能力。
+
+![llm-universe](https://images-1252557999.file.myqcloud.com/uPic/llm-universe.png) 
 
 ### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
 
@@ -79,32 +73,28 @@ Alist Helper是一款使用Flutter开发的应用程序，旨在简化桌面版a
 
 在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
 
-### [如何制作落地页](https://www.bmms.me/blog/landing-page)
-
-如果你想要看到比较系统全面的落地页操作指南，这篇文章是作者小吉拆解了国内外 117 个优秀的落地页案例，总结提炼出的保姆级入门指南：
-
-![landing-page](https://images-1252557999.file.myqcloud.com/uPic/landing-page.jpg) 
-
 ## 🕸 网站 
 
-### [熊猫速读](https://qread.xmsoushu.com/)
+### [chatplugin.top](https://www.chatplugin.top/)
 
-熊猫速读是一个收集精品视频读书笔记或好书分享的网站！为您推荐好书速读的视频，在您读一本书或者购买图书之前通过视频介绍先快速了解书籍的内容，根据兴趣再决定是否购买。
+`ChatGPT Plugin` 收录网站，并且将插件汉化：
 
-![xmsd](https://images-1252557999.file.myqcloud.com/uPic/xmsd.jpg) 
+![chatplugin](https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg) 
 
-### [damngood.tools](https://damngood.tools/)
+### [小鱼速读](http://www.xysudu.com/)
 
-开源实用工具集合：
+该网站收藏了B站上各位大佬发布的经典速读视频：
 
-![damngood](https://images-1252557999.file.myqcloud.com/uPic/damngood.jpg) 
+- 书籍：大类包括豆瓣总榜、科幻小说、推理悬疑、科学普及、历史经典、政治经济……11大类，一共667本经典书籍
+- 影视：大类包括内地剧、美剧、动漫、港剧、日剧、韩剧
 
-### [万词王](https://github.com/thunlp/WantWords)
+![xysudu](https://images-1252557999.file.myqcloud.com/uPic/xysudu.jpg) 
 
-万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
+### [Python Tutor](https://pythontutor.com/?)
 
-![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
-官方访问地址：[wantwords.net](https://wantwords.net/)。 
+这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
+
+![Python Tutor](https://images-1252557999.file.myqcloud.com/uPic/hIdiXA.png) 
 
 ## ✍️ 说明
 
