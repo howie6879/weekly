@@ -5,96 +5,94 @@
 
 ## 🎯 项目 
 
-### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
+### [Docusaurus](https://github.com/facebook/docusaurus)
 
-`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
+`Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
 
-![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
+![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
 
-### [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)
+### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
 
-一键免费部署你的私人 AutoGPT-Next-Web 网页应用:
+通过网络收集整理的中文歌词数据库, 包含:
 
-![AutoGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png) 
+- 绝大多数华语歌手在2019年之前的歌曲
+- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
+- 102197首歌曲, 平均每人25.4首歌
 
-### [markwhen](https://github.com/mark-when/markwhen)
+作者基于此数据库做了两个歌词生成器：
 
-`Markwhen` 是一个交互式的文本到时间轴工具，`用户只需要编写类似于Markdown` 的文本，它就会转换成一个漂亮的级联时间轴：
+- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
+- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
 
-![markwhen](https://images-1252557999.file.myqcloud.com/uPic/markwhen.jpg) 
+### [Weekly Hub](https://github.com/howie6879/weeklyhub)
+
+汇聚优质精选技术周刊，为你提供高质量信息流，让你的学习更加高效：
+
+- 周刊文章订阅列表：[Weekly Hub](https://www.fre123.com/wk) & 文末有订阅工具推荐👀
+- 周刊文章展示地址：[weekly.fre123.com](https://www.fre123.com/weekly)
+
+![fre123_weeklyhub](https://images-1252557999.file.myqcloud.com/uPic/fre123_weeklyhub.jpg) 
 
 ## 🤖 软件 
 
-### [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
+### [my-tv](https://github.com/lizongying/my-tv)
 
-安卓的 `BiliBili、NicoNico、YouTube` 替换客户端，支持弹幕、评论、登录下载：
+安卓电视直播软件，内置直播源：
 
-![pipepipe](https://images-1252557999.file.myqcloud.com/uPic/pipepipe.jpg) 
+![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
 
-### [GitUp](https://github.com/git-up/GitUp)
+### [orbstack](https://github.com/orbstack)
 
-简洁的 `Git` 客户端：
+来自朋友的推荐，`macOS` 上的 `Docker Desktop` 很卡很臃肿大家应该认可吧，我之前都是用 `Podman`，也算不错。这次又发现了这款在 `macOS` 上运行的 `Docker` 容器和 `Linux` 虚拟机 ，大家可以试试：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/GitUp.jpg) 
+![orbstack](https://images-1252557999.file.myqcloud.com/uPic/orbstack.jpg) 
 
-### [postcat](https://github.com/Postcatlab/postcat)
+### [Codeium](https://codeium.com/)
 
-`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+基于 `AI` 赋能的编码智能助手，自动补全代码，开发者的福音，对标 `GitHub Copilot`：
 
-![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
+![codeium](https://images-1252557999.file.myqcloud.com/uPic/codeium.jpg) 
 
 ## 👀 资料 
 
-### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
+### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
 
-作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
+此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
 
-![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
+### [法律文库](https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html)
 
-### [llm-universe](https://github.com/datawhalechina/llm-universe)
+以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。
 
-本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：
+![justlaws](https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg) 
 
-- 大模型简介，何为大模型、大模型特点是什么、LangChain 是什么，针对小白开发者的简单介绍；
-- 如何调用大模型 API，本节介绍了国内外知名大模型产品 API 的多种调用方式，包括调用原生 API、封装为 LangChain LLM、封装为 Fastapi 等调用方式，同时将包括百度文心、讯飞星火、智谱AI等多种大模型 API 进行了统一形式封装；
-- 大模型开发流程及架构，大模型应用开发的基本流程、一般思想和本项目的架构分析；
-- 数据库搭建，不同类型知识库文档的加载、处理，向量数据库的搭建；
-- Prompt 设计，如何设计 Prompt 来让大模型完成特定任务，Prompt Engineering 的原则和技巧有哪些；
-- 验证迭代，大模型开发如何实现验证迭代，一般的评估方法有什么；
-- 前后端开发，如何使用 Gradio、FastAPI 等框架快速开发大模型 Demo，展示应用能力。
+### [free-for-dev](https://github.com/ripienaar/free-for-dev)
 
-![llm-universe](https://images-1252557999.file.myqcloud.com/uPic/llm-universe.png) 
+对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
 
-### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
-
-针对新人的 `CSS` 入门级教程：
-
-![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
-
-在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
+![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
 
 ## 🕸 网站 
 
-### [chatplugin.top](https://www.chatplugin.top/)
+### [historyline.online](https://github.com/liujuntao123/chines-history-video)
 
-`ChatGPT Plugin` 收录网站，并且将插件汉化：
+中国历朝代历史视频讲解，汇聚了B站上综合数据（点赞，播放，投币，收藏）最高的一个/几个视频：
 
-![chatplugin](https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg) 
+![historyline](https://images-1252557999.file.myqcloud.com/uPic/historyline.jpg) 
 
-### [小鱼速读](http://www.xysudu.com/)
+### [aicodeconvert](https://aicodeconvert.com/)
 
-该网站收藏了B站上各位大佬发布的经典速读视频：
+[开源](https://github.com/JustAIGithub/AI-Code-Convert)的的 `AI` 代码转换工具，基于 `GPT` 实现：
 
-- 书籍：大类包括豆瓣总榜、科幻小说、推理悬疑、科学普及、历史经典、政治经济……11大类，一共667本经典书籍
-- 影视：大类包括内地剧、美剧、动漫、港剧、日剧、韩剧
+- 自然语言转代码，描述需求就生成对应的代码
+- 把代码一键转换为另一种代码语言实现
 
-![xysudu](https://images-1252557999.file.myqcloud.com/uPic/xysudu.jpg) 
+![aicodeconvert](https://images-1252557999.file.myqcloud.com/uPic/aicodeconvert.jpg) 
 
-### [Python Tutor](https://pythontutor.com/?)
+### [couplet](https://ai.binwang.me/couplet/)
 
-这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
+自动对联网站：
 
-![Python Tutor](https://images-1252557999.file.myqcloud.com/uPic/hIdiXA.png) 
+![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
 
 ## ✍️ 说明
 
