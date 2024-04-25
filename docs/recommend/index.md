@@ -5,94 +5,92 @@
 
 ## 🎯 项目 
 
-### [Docusaurus](https://github.com/facebook/docusaurus)
+### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
 
-`Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
+不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
 
-![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
+### [fre123-nav](https://github.com/fre123-com/fre123-nav)
 
-### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
+> [FRE123](https://www.fre123.com/) 免费资源共享平台导航，一键搭建你的导航网站！
 
-通过网络收集整理的中文歌词数据库, 包含:
+这是老胡上个月做的一个导航网站，不少人想基于这套进行二次开发，所以开源出来，希望能帮到大家：
 
-- 绝大多数华语歌手在2019年之前的歌曲
-- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
-- 102197首歌曲, 平均每人25.4首歌
+- [fre123-nav](https://github.com/fre123-com/fre123-nav)：导航页面源码
+- [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)：信息流页面源码
+- [Fre123 导航网站搭建教程](https://mp.weixin.qq.com/s/NEqY1Qb4dyJDhdtlYxjmaA)
 
-作者基于此数据库做了两个歌词生成器：
+![fre123-nav](https://images-1252557999.file.myqcloud.com/uPic/fre123-nav.jpeg) 
 
-- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
-- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
+### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
 
-### [Weekly Hub](https://github.com/howie6879/weeklyhub)
+开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
 
-汇聚优质精选技术周刊，为你提供高质量信息流，让你的学习更加高效：
-
-- 周刊文章订阅列表：[Weekly Hub](https://www.fre123.com/wk) & 文末有订阅工具推荐👀
-- 周刊文章展示地址：[weekly.fre123.com](https://www.fre123.com/weekly)
-
-![fre123_weeklyhub](https://images-1252557999.file.myqcloud.com/uPic/fre123_weeklyhub.jpg) 
+![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
 
 ## 🤖 软件 
 
-### [my-tv](https://github.com/lizongying/my-tv)
+### [gushi_namer](https://github.com/holynova/gushi_namer)
 
-安卓电视直播软件，内置直播源：
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
 
-![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
+![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
 
-### [orbstack](https://github.com/orbstack)
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
-来自朋友的推荐，`macOS` 上的 `Docker Desktop` 很卡很臃肿大家应该认可吧，我之前都是用 `Podman`，也算不错。这次又发现了这款在 `macOS` 上运行的 `Docker` 容器和 `Linux` 虚拟机 ，大家可以试试：
+### [macGPT](https://github.com/hellokuls/macGPT)
 
-![orbstack](https://images-1252557999.file.myqcloud.com/uPic/orbstack.jpg) 
+一款 `ChatGPT for Mac` 原生客户端：
 
-### [Codeium](https://codeium.com/)
+![macGPT](https://images-1252557999.file.myqcloud.com/uPic/macGPT.png) 
 
-基于 `AI` 赋能的编码智能助手，自动补全代码，开发者的福音，对标 `GitHub Copilot`：
+### [Screenbox](https://github.com/huynhsontung/Screenbox)
 
-![codeium](https://images-1252557999.file.myqcloud.com/uPic/codeium.jpg) 
+Screenbox 是一款现代视频播放器，构建在 LibVLCSharp 和通用 Windows 平台 (UWP) 之上，颜值颇高，同时又快速、轻量级。支持在 Windows 10 版本 1903+、Windows 11 和 Xbox 主机上使用:
+
+![Screenbox](https://images-1252557999.file.myqcloud.com/uPic/Screenbox.jpg) 
 
 ## 👀 资料 
 
-### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
+### [MySQL&PG 数据库教程](https://www.sjkjc.com/mysql/)
 
-此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
+一个专门讲数据库教程的资料网站：
 
-### [法律文库](https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html)
+![sjkjc](https://images-1252557999.file.myqcloud.com/uPic/sjkjc.jpg) 
 
-以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。
+### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
 
-![justlaws](https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg) 
+互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
 
-### [free-for-dev](https://github.com/ripienaar/free-for-dev)
+### [Midjourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
 
-对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
+一份 `Midjourney` 学习教程：
 
-![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
+![midjourney-learning-path](https://images-1252557999.file.myqcloud.com/uPic/midjourney-learning-path.jpg) 
 
 ## 🕸 网站 
 
-### [historyline.online](https://github.com/liujuntao123/chines-history-video)
+### [apitracker](https://apitracker.io/)
 
-中国历朝代历史视频讲解，汇聚了B站上综合数据（点赞，播放，投币，收藏）最高的一个/几个视频：
+发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
 
-![historyline](https://images-1252557999.file.myqcloud.com/uPic/historyline.jpg) 
+![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
 
-### [aicodeconvert](https://aicodeconvert.com/)
+### [programcreek](https://www.programcreek.com/)
 
-[开源](https://github.com/JustAIGithub/AI-Code-Convert)的的 `AI` 代码转换工具，基于 `GPT` 实现：
+网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
 
-- 自然语言转代码，描述需求就生成对应的代码
-- 把代码一键转换为另一种代码语言实现
+- [Python](https://www.programcreek.com/python/)
+- [Java](https://www.programcreek.com/java-api-examples/)
+- [C++](https://www.programcreek.com/cpp/)
+- [Scala](https://www.programcreek.com/scala/)
 
-![aicodeconvert](https://images-1252557999.file.myqcloud.com/uPic/aicodeconvert.jpg) 
+![programcreek](https://images-1252557999.file.myqcloud.com/uPic/YdAEPq.png) 
 
-### [couplet](https://ai.binwang.me/couplet/)
+### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
 
-自动对联网站：
+`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
 
-![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
+![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
 
 ## ✍️ 说明
 
