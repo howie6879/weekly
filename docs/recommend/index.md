@@ -5,92 +5,109 @@
 
 ## 🎯 项目 
 
-### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
+### [termtyper](https://github.com/kraanzu/termtyper)
 
-不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
+一个终端打字应用程序，以提高你的手指水平！
 
-### [fre123-nav](https://github.com/fre123-com/fre123-nav)
+![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
 
-> [FRE123](https://www.fre123.com/) 免费资源共享平台导航，一键搭建你的导航网站！
+### [zinc](https://github.com/prabhatsharma/zinc)
 
-这是老胡上个月做的一个导航网站，不少人想基于这套进行二次开发，所以开源出来，希望能帮到大家：
+`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
 
-- [fre123-nav](https://github.com/fre123-com/fre123-nav)：导航页面源码
-- [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)：信息流页面源码
-- [Fre123 导航网站搭建教程](https://mp.weixin.qq.com/s/NEqY1Qb4dyJDhdtlYxjmaA)
+- 全文索引能力
+- 快速运行，多平台支持
+- 基于Vue的Web UI
+- 兼容ES API
+- 开箱即用的验证功能
+- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
 
-![fre123-nav](https://images-1252557999.file.myqcloud.com/uPic/fre123-nav.jpeg) 
+![zinc](https://images-1252557999.file.myqcloud.com/uPic/P9OAA1.jpg) 
 
-### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
+### [dozzle](https://github.com/amir20/dozzle)
 
-开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
+Dozzle 是一个小型轻量级应用程序，基于 Web 界面来监控 Docker 日志，不存储任何日志文件，仅用于实时监控您的容器日志：
 
-![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
+![dozzle](https://images-1252557999.file.myqcloud.com/uPic/dozzle.jpg)s 
 
 ## 🤖 软件 
 
-### [gushi_namer](https://github.com/holynova/gushi_namer)
+### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
 
-古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
+FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
 
-![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
+- 基于文本的歌单，方便与朋友分享、设备之间同步
+- 提供基于 TCP 的交互控制协议
+- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
+- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
 
-从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
+![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
 
-### [macGPT](https://github.com/hellokuls/macGPT)
+### [apkupdater](https://github.com/rumboalla/apkupdater)
 
-一款 `ChatGPT for Mac` 原生客户端：
+`APKUpdater` 是一个开源工具，它能让你轻松追踪和更新你的 `APK` 应用。
+它提供类似于应用商店的功能，但不依赖于单一来源，而是把 `APKMirror、Aptoide、F-Droid、IzzyOnDroid、APKPure、GitLab、GitHub` 这 7 大平台的应用资源都聚合在一起：
 
-![macGPT](https://images-1252557999.file.myqcloud.com/uPic/macGPT.png) 
+![apkupdater](https://images-1252557999.file.myqcloud.com/uPic/apkupdater.jpg) 
 
-### [Screenbox](https://github.com/huynhsontung/Screenbox)
+### [AirBattery](https://github.com/lihaoyun6/AirBattery)
 
-Screenbox 是一款现代视频播放器，构建在 LibVLCSharp 和通用 Windows 平台 (UWP) 之上，颜值颇高，同时又快速、轻量级。支持在 Windows 10 版本 1903+、Windows 11 和 Xbox 主机上使用:
+在 `Mac` 上获取你所有设备的电量信息并显示在 `Dock` / 状态栏 / 小组件上：
 
-![Screenbox](https://images-1252557999.file.myqcloud.com/uPic/Screenbox.jpg) 
+![AirBattery](https://images-1252557999.file.myqcloud.com/uPic/AirBattery.jpg) 
 
 ## 👀 资料 
 
-### [MySQL&PG 数据库教程](https://www.sjkjc.com/mysql/)
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-一个专门讲数据库教程的资料网站：
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
 
-![sjkjc](https://images-1252557999.file.myqcloud.com/uPic/sjkjc.jpg) 
+![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
 
-### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
+### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
 
-互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
+清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
 
-### [Midjourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
+更新记录如下：
 
-一份 `Midjourney` 学习教程：
+- 2020-11-03：环境搭建完成，开始着手编写文档。
+- 2020-11-13：第一章完成。
+- 2020-11-27：第二章完成。
+- 2020-12-20：前七章代码完成。
+- 2021-01-10：第三章完成。
+- 2021-01-18：加入第零章。
+- 2021-01-30：第四章完成。
+- 2021-02-16：第五章完成。
+- 2021-02-20：第六章完成。
+- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
+- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
 
-![midjourney-learning-path](https://images-1252557999.file.myqcloud.com/uPic/midjourney-learning-path.jpg) 
+热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
+
+### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
+
+左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
 
 ## 🕸 网站 
 
-### [apitracker](https://apitracker.io/)
+### [读书笔记](https://reading.geek-docs.com/)
 
-发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
+网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
 
-![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
+![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
 
-### [programcreek](https://www.programcreek.com/)
+### [scrnshts.club](https://scrnshts.club/)
 
-网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
+收集 App 在应用商店中做宣传用的截图，很有意思：
 
-- [Python](https://www.programcreek.com/python/)
-- [Java](https://www.programcreek.com/java-api-examples/)
-- [C++](https://www.programcreek.com/cpp/)
-- [Scala](https://www.programcreek.com/scala/)
+![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
 
-![programcreek](https://images-1252557999.file.myqcloud.com/uPic/YdAEPq.png) 
+### [即时工具](https://www.67tool.com/)
 
-### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
+该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
 
-`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
-
-![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
+![67tool](https://images-1252557999.file.myqcloud.com/uPic/mhrsW0.jpg) 
 
 ## ✍️ 说明
 
