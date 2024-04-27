@@ -5,109 +5,89 @@
 
 ## 🎯 项目 
 
-### [termtyper](https://github.com/kraanzu/termtyper)
+### [bililive-go](https://github.com/hr3lxphr6j/bililive-go)
 
-一个终端打字应用程序，以提高你的手指水平！
+`Bililive-go` 是一个支持多种直播平台的直播录制工具：
 
-![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
+![bililive-go](https://images-1252557999.file.myqcloud.com/uPic/bililive-go.webp) 
 
-### [zinc](https://github.com/prabhatsharma/zinc)
+### [LightBook](https://github.com/underthestars-zhy/LightBook)
 
-`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
+开源的小说下载脚本项目，输出格式为 `EPUB`：
 
-- 全文索引能力
-- 快速运行，多平台支持
-- 基于Vue的Web UI
-- 兼容ES API
-- 开箱即用的验证功能
-- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
+![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
 
-![zinc](https://images-1252557999.file.myqcloud.com/uPic/P9OAA1.jpg) 
+### [cal.com](https://github.com/calcom/cal.com)
 
-### [dozzle](https://github.com/amir20/dozzle)
+一个管理日程安排和预约的工具，可以说是 `Calendly` 的开源替代方案：
 
-Dozzle 是一个小型轻量级应用程序，基于 Web 界面来监控 Docker 日志，不存储任何日志文件，仅用于实时监控您的容器日志：
-
-![dozzle](https://images-1252557999.file.myqcloud.com/uPic/dozzle.jpg)s 
+![cal_com](https://images-1252557999.file.myqcloud.com/uPic/cal_com.jpg) 
 
 ## 🤖 软件 
 
-### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
+### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
 
-FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
+`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
 
-- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
-- 基于文本的歌单，方便与朋友分享、设备之间同步
-- 提供基于 TCP 的交互控制协议
-- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
-- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
+![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
 
-![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
+### [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 
-### [apkupdater](https://github.com/rumboalla/apkupdater)
+`Bulk Crap Uninstaller` 是一款免费开源的 `Windows` 卸载软件，它能够快速删除大量不需要的应用程序，甚至是便携或未注册的程序与游戏，并且能自动扫描残留文件、注册表遗留内容等：
 
-`APKUpdater` 是一个开源工具，它能让你轻松追踪和更新你的 `APK` 应用。
-它提供类似于应用商店的功能，但不依赖于单一来源，而是把 `APKMirror、Aptoide、F-Droid、IzzyOnDroid、APKPure、GitLab、GitHub` 这 7 大平台的应用资源都聚合在一起：
+![Bulk-Crap-Uninstaller](https://images-1252557999.file.myqcloud.com/uPic/Bulk-Crap-Uninstaller.png) 
 
-![apkupdater](https://images-1252557999.file.myqcloud.com/uPic/apkupdater.jpg) 
+### [orange](https://github.com/naaive/orange)
 
-### [AirBattery](https://github.com/lihaoyun6/AirBattery)
+基于`Rust`跨平台的文件搜索引擎：
 
-在 `Mac` 上获取你所有设备的电量信息并显示在 `Dock` / 状态栏 / 小组件上：
-
-![AirBattery](https://images-1252557999.file.myqcloud.com/uPic/AirBattery.jpg) 
+![Orange](https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg) 
 
 ## 👀 资料 
 
-### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
+### [nextjs-learn-cn](https://qufei1993.github.io/nextjs-learn-cn/)
 
-作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
+一份 `Next.js` 中文教程：
 
-![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
+![nextjs-learn-c](https://images-1252557999.file.myqcloud.com/uPic/nextjs-learn-c.jpg) 
 
-### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
+### [react-illustration-series](https://github.com/7kms/react-illustration-series)
 
-清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
+图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
 
-更新记录如下：
+### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
 
-- 2020-11-03：环境搭建完成，开始着手编写文档。
-- 2020-11-13：第一章完成。
-- 2020-11-27：第二章完成。
-- 2020-12-20：前七章代码完成。
-- 2021-01-10：第三章完成。
-- 2021-01-18：加入第零章。
-- 2021-01-30：第四章完成。
-- 2021-02-16：第五章完成。
-- 2021-02-20：第六章完成。
-- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
-- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
+通过科学方法训练自己的身体，让自己更加健康：
 
-热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
-
-### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
-
-左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
+![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
 
 ## 🕸 网站 
 
-### [读书笔记](https://reading.geek-docs.com/)
+### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
 
-![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
+- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
+- Gemini Pro 体验地址：https://gemini.fre123.com/
 
-### [scrnshts.club](https://scrnshts.club/)
+![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
 
-收集 App 在应用商店中做宣传用的截图，很有意思：
+### [fulltime.ai](https://fulltime.ai/spaces/)
 
-![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
+搜索体验 288个 `HuggingFace` 空间 `GPU` 上运行的项目：
 
-### [即时工具](https://www.67tool.com/)
+![fulltime_ai](https://images-1252557999.file.myqcloud.com/uPic/fulltime_ai.jpg) 
 
-该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
+### [appbaseio/mirage](https://opensource.appbase.io/mirage/)
 
-![67tool](https://images-1252557999.file.myqcloud.com/uPic/mhrsW0.jpg) 
+这是一个用于简化 `ES` 查询语句编写的开源项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句：
+
+- 开源代码地址：[https://github.com/appbaseio/mirage](https://github.com/appbaseio/mirage)
+- 访问地址： [https://opensource.appbase.io/mirage/](https://opensource.appbase.io/mirage/)
+
+当然你也可以本机自行部署，非常方便，比较遗憾的是目前只支持到 `-v7.x`：
+
+![mirage](https://images-1252557999.file.myqcloud.com/uPic/mirage.png) 
 
 ## ✍️ 说明
 
