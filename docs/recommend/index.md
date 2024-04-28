@@ -5,89 +5,97 @@
 
 ## 🎯 项目 
 
-### [bililive-go](https://github.com/hr3lxphr6j/bililive-go)
+### [czkawka](https://github.com/qarmin/czkawka)
 
-`Bililive-go` 是一个支持多种直播平台的直播录制工具：
+一款简单、快速和免费的开源跨平台应用程序，可以从您的计算机中删除不必要的文件。
 
-![bililive-go](https://images-1252557999.file.myqcloud.com/uPic/bililive-go.webp) 
+支持扫描计算机上重复、空文件夹、大文件、相似图像/视频/音乐、无效/损坏文件等内容，扫描速度极快。
 
-### [LightBook](https://github.com/underthestars-zhy/LightBook)
+![czkawka](https://images-1252557999.file.myqcloud.com/uPic/czkawka.jpg) 
 
-开源的小说下载脚本项目，输出格式为 `EPUB`：
+### [milvus](https://github.com/milvus-io/milvus)
 
-![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
+`Milvus` 是一款开源的特征向量搜索引擎：
 
-### [cal.com](https://github.com/calcom/cal.com)
+![milvus](https://images-1252557999.file.myqcloud.com/uPic/milvus.jpg) 
 
-一个管理日程安排和预约的工具，可以说是 `Calendly` 的开源替代方案：
+### [gorse](https://github.com/zhenghaoz/gorse)
 
-![cal_com](https://images-1252557999.file.myqcloud.com/uPic/cal_com.jpg) 
+用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
+
+![gorse](https://images-1252557999.file.myqcloud.com/uPic/nP2kgE.jpg)
+
+作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
+
+![gitrec](https://images-1252557999.file.myqcloud.com/uPic/jAuEdM.jpg) 
 
 ## 🤖 软件 
 
-### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
+### [ntchat](https://github.com/smallevilbeast/ntchat)
 
-`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
+微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
 
-![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
+- 基于pc微信的api接口, 类似itchat项目
+- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
+- 支持好友和群管理 
 
-### [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
+### [aidea](https://github.com/mylxsw/aidea)
 
-`Bulk Crap Uninstaller` 是一款免费开源的 `Windows` 卸载软件，它能够快速删除大量不需要的应用程序，甚至是便携或未注册的程序与游戏，并且能自动扫描残留文件、注册表遗留内容等：
+一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：
 
-![Bulk-Crap-Uninstaller](https://images-1252557999.file.myqcloud.com/uPic/Bulk-Crap-Uninstaller.png) 
+- 支持 GPT-3.5/4 问答聊天
+- 支持国产模型：通义千问，文心一言
+- 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
 
-### [orange](https://github.com/naaive/orange)
+![aidea](https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg) 
 
-基于`Rust`跨平台的文件搜索引擎：
+### [UTM](https://github.com/utmapp/UTM)
 
-![Orange](https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg) 
+开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
+
+![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
 
 ## 👀 资料 
 
-### [nextjs-learn-cn](https://qufei1993.github.io/nextjs-learn-cn/)
+### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
 
-一份 `Next.js` 中文教程：
+通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
 
-![nextjs-learn-c](https://images-1252557999.file.myqcloud.com/uPic/nextjs-learn-c.jpg) 
+- 通过编写测试学习 Go 语言
+- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
+- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
 
-### [react-illustration-series](https://github.com/7kms/react-illustration-series)
+![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
 
-图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
+### [Student-resources](https://github.com/ivmm/Student-resources)
 
-### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
+本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
 
-通过科学方法训练自己的身体，让自己更加健康：
+### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 
-![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
+C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
+
+![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
 
 ## 🕸 网站 
 
-### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
+### [flatuicolors](https://flatuicolors.com/)
 
-老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
+`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
 
-- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
-- Gemini Pro 体验地址：https://gemini.fre123.com/
+![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
 
-![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
+### [awesome-chatgpt-prompts](https://prompts.chat/)
 
-### [fulltime.ai](https://fulltime.ai/spaces/)
+`ChatGPT` 余热不减，一周百万用户果然不是盖的，这个项目总结了 `ChatGPT` 常用姿势：
 
-搜索体验 288个 `HuggingFace` 空间 `GPU` 上运行的项目：
+![prompts](https://images-1252557999.file.myqcloud.com/uPic/prompts.jpg) 
 
-![fulltime_ai](https://images-1252557999.file.myqcloud.com/uPic/fulltime_ai.jpg) 
+### [FRE123-动漫搜索引擎](https://www.fre123.com/anime/s)
 
-### [appbaseio/mirage](https://opensource.appbase.io/mirage/)
+`FRE123` 周末新上了个动漫番剧搜索引擎，主要是汇集一些比较好的番剧网站资源，提供搜索服务，让用户更快速找到自己想看到的番剧，欢迎提意见：
 
-这是一个用于简化 `ES` 查询语句编写的开源项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句：
-
-- 开源代码地址：[https://github.com/appbaseio/mirage](https://github.com/appbaseio/mirage)
-- 访问地址： [https://opensource.appbase.io/mirage/](https://opensource.appbase.io/mirage/)
-
-当然你也可以本机自行部署，非常方便，比较遗憾的是目前只支持到 `-v7.x`：
-
-![mirage](https://images-1252557999.file.myqcloud.com/uPic/mirage.png) 
+![fre123_anime](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime.jpg) 
 
 ## ✍️ 说明
 
