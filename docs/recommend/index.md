@@ -5,97 +5,84 @@
 
 ## 🎯 项目 
 
-### [czkawka](https://github.com/qarmin/czkawka)
+### [nativefier](https://github.com/nativefier/nativefier)
 
-一款简单、快速和免费的开源跨平台应用程序，可以从您的计算机中删除不必要的文件。
+这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
 
-支持扫描计算机上重复、空文件夹、大文件、相似图像/视频/音乐、无效/损坏文件等内容，扫描速度极快。
+![nativefier_walkthrough](https://images-1252557999.file.myqcloud.com/uPic/nativefier_walkthrough.gif) 
 
-![czkawka](https://images-1252557999.file.myqcloud.com/uPic/czkawka.jpg) 
+### [public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
 
-### [milvus](https://github.com/milvus-io/milvus)
+有一些 `Docker` 镜像托管在 `gcr.io`，这样国内下载就会很不方便，使用这个项目就可以快速下载，简单加个前缀就行：
 
-`Milvus` 是一款开源的特征向量搜索引擎：
+```shell
+k8s.gcr.io/coredns/coredns => m.daocloud.io/k8s.gcr.io/coredns/coredns
+```
 
-![milvus](https://images-1252557999.file.myqcloud.com/uPic/milvus.jpg) 
+其他资源：
 
-### [gorse](https://github.com/zhenghaoz/gorse)
+- 常用镜像仓库：[一些国内镜像源](https://gist.github.com/qwfys/aec4d2ab79281aeafebdb40b22d0b748)
+- [x-mirrors/gcr.io](https://github.com/x-mirrors/gcr.io) 
 
-用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
+### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
 
-![gorse](https://images-1252557999.file.myqcloud.com/uPic/nP2kgE.jpg)
+`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
 
-作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
-
-![gitrec](https://images-1252557999.file.myqcloud.com/uPic/jAuEdM.jpg) 
+![LuckysheetDemo](https://images-1252557999.file.myqcloud.com/uPic/LuckysheetDemo.gif) 
 
 ## 🤖 软件 
 
-### [ntchat](https://github.com/smallevilbeast/ntchat)
+### [Itsycal](https://www.mowglii.com/itsycal/)
 
-微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
+一款简单优雅的 Macos 菜单栏日历：
 
-- 基于pc微信的api接口, 类似itchat项目
-- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
-- 支持好友和群管理 
+![itsycal](https://images-1252557999.file.myqcloud.com/uPic/itsycal.png) 
 
-### [aidea](https://github.com/mylxsw/aidea)
+### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
 
-一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：
+B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
 
-- 支持 GPT-3.5/4 问答聊天
-- 支持国产模型：通义千问，文心一言
-- 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
+![](https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg) 
 
-![aidea](https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg) 
+### [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
 
-### [UTM](https://github.com/utmapp/UTM)
+一个用于显示当前网速、CPU及内存利用率的 Windows 桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤:
 
-开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
-
-![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
+![TrafficMonitor](https://images-1252557999.file.myqcloud.com/uPic/TrafficMonitor.jpg) 
 
 ## 👀 资料 
 
-### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
+### [English-Writing](https://github.com/yzy1996/English-Writing)
 
-通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
+本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
-- 通过编写测试学习 Go 语言
-- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
-- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
+### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
 
-![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
+Go语言实战: 编写可维护Go语言代码建议。 
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
-
-### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
-
-C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
-
-![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
+Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
 
 ## 🕸 网站 
 
-### [flatuicolors](https://flatuicolors.com/)
+### [yima.me](https://yima.me/)
 
-`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
+免费生成 `AI` 艺术二维码：
 
-![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
+![yima](https://images-1252557999.file.myqcloud.com/uPic/yima.png) 
 
-### [awesome-chatgpt-prompts](https://prompts.chat/)
+### [RuTracker](https://rutracker.org/forum/index.php)
 
-`ChatGPT` 余热不减，一周百万用户果然不是盖的，这个项目总结了 `ChatGPT` 常用姿势：
+俄罗斯最大的盗版网站开放了，可以去上面找资源了：
 
-![prompts](https://images-1252557999.file.myqcloud.com/uPic/prompts.jpg) 
+![rutracker](https://images-1252557999.file.myqcloud.com/uPic/rutracker.jpg) 
 
-### [FRE123-动漫搜索引擎](https://www.fre123.com/anime/s)
+### [batnoter](https://batnoter.com/)
 
-`FRE123` 周末新上了个动漫番剧搜索引擎，主要是汇集一些比较好的番剧网站资源，提供搜索服务，让用户更快速找到自己想看到的番剧，欢迎提意见：
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-![fre123_anime](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime.jpg) 
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
 ## ✍️ 说明
 
