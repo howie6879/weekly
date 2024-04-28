@@ -3,6 +3,7 @@
     Description: 周刊初始化脚本
     Changelog: all notable changes to this file will be documented
 """
+
 import os
 import re
 
