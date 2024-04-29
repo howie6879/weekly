@@ -5,84 +5,89 @@
 
 ## 🎯 项目 
 
-### [nativefier](https://github.com/nativefier/nativefier)
+### [diagrams](https://github.com/mingrammer/diagrams)
 
-这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
+用 `Python` 代码绘制云原生架构图：
 
-![nativefier_walkthrough](https://images-1252557999.file.myqcloud.com/uPic/nativefier_walkthrough.gif) 
+![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
 
-### [public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+### [bililive-go](https://github.com/hr3lxphr6j/bililive-go)
 
-有一些 `Docker` 镜像托管在 `gcr.io`，这样国内下载就会很不方便，使用这个项目就可以快速下载，简单加个前缀就行：
+`Bililive-go` 是一个支持多种直播平台的直播录制工具：
 
-```shell
-k8s.gcr.io/coredns/coredns => m.daocloud.io/k8s.gcr.io/coredns/coredns
-```
+![bililive-go](https://images-1252557999.file.myqcloud.com/uPic/bililive-go.webp) 
 
-其他资源：
+### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
 
-- 常用镜像仓库：[一些国内镜像源](https://gist.github.com/qwfys/aec4d2ab79281aeafebdb40b22d0b748)
-- [x-mirrors/gcr.io](https://github.com/x-mirrors/gcr.io) 
+`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
 
-### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
-
-`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
-
-![LuckysheetDemo](https://images-1252557999.file.myqcloud.com/uPic/LuckysheetDemo.gif) 
+![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
 
 ## 🤖 软件 
 
-### [Itsycal](https://www.mowglii.com/itsycal/)
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 
-一款简单优雅的 Macos 菜单栏日历：
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
 
-![itsycal](https://images-1252557999.file.myqcloud.com/uPic/itsycal.png) 
+![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
 
-### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+### [Responsively](https://github.com/responsively-org/responsively-app)
 
-B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
+一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg) 
+![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
 
-### [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
+### [notepad--](https://github.com/cxasm/notepad--)
 
-一个用于显示当前网速、CPU及内存利用率的 Windows 桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤:
+这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
 
-![TrafficMonitor](https://images-1252557999.file.myqcloud.com/uPic/TrafficMonitor.jpg) 
+> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
+
+![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
 
 ## 👀 资料 
 
-### [English-Writing](https://github.com/yzy1996/English-Writing)
+### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
 
-本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
+开源书籍，`Prometheus`  操作指南：
 
-### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
+![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
 
-Go语言实战: 编写可维护Go语言代码建议。 
+### [Midjourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
 
-### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
+一份 `Midjourney` 学习教程：
 
-Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
+![midjourney-learning-path](https://images-1252557999.file.myqcloud.com/uPic/midjourney-learning-path.jpg) 
+
+### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
+
+`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
+
+- [Tauri 项目](https://github.com/tauri-apps/tauri)
+- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
+- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
 
 ## 🕸 网站 
 
-### [yima.me](https://yima.me/)
+### [websequencediagrams](https://www.websequencediagrams.com/)
 
-免费生成 `AI` 艺术二维码：
+提供在线绘制时序图的网站：
 
-![yima](https://images-1252557999.file.myqcloud.com/uPic/yima.png) 
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
-### [RuTracker](https://rutracker.org/forum/index.php)
+### [segment-anything.com](https://segment-anything.com/)
 
-俄罗斯最大的盗版网站开放了，可以去上面找资源了：
+`Segment Anything Model（SAM）`：这是 `Meta AI` 推出的一款新的`AI` 模型，它可以通过单击轻松**抠出**任何图像中的任何物体。
 
-![rutracker](https://images-1252557999.file.myqcloud.com/uPic/rutracker.jpg) 
+也就是说，这个模型可以用一次点击的方式，将任何图片中的任何物体分割出来。
 
-### [batnoter](https://batnoter.com/)
+![segment-anything](https://images-1252557999.file.myqcloud.com/uPic/segment-anything.jpg) 
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+### [cleverpdf](https://www.cleverpdf.com/cn)
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+几十个强大的PDF在线工具，无需注册会员，永久免费：
+
+![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
 
 ## ✍️ 说明
 
