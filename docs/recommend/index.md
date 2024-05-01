@@ -5,112 +5,85 @@
 
 ## 🎯 项目 
 
-### [500lines](https://github.com/aosabook/500lines)
+### [one-api](https://github.com/songquanpeng/one-api)
 
-如果工作中用`Python`比较多的朋友，应该会听过[500lines](https://github.com/aosabook/500lines)项目，它是**aosabook**项目（下面网站部分有介绍）的第四本书。
+`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
 
-这个项目由 18 个独立的章节组成，每个章节都是由该领域的大牛完成，每个章节都试图用 500 行或者更少的代码，让大家了解一个功能或需求的简单实现，比如有：
+![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
 
-- 持续集成系统
-- 分布式系统
-- 异步爬虫
-- 等等
+### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
 
-如果想阅读中文，见[500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)项目，但是还没有完全翻译完毕。 
+🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
 
-### [DocsGPT](https://github.com/arc53/DocsGPT)
+![Real-CUGAN](https://images-1252557999.file.myqcloud.com/uPic/hWiOCH.jpg) 
 
-[DocsGPT](https://github.com/arc53/DocsGPT) 是一种前沿的开源解决方案，可简化在项目文档中查找信息的过程。通过集成强大的 GPT 模型，开发人员可以轻松地提出有关项目的问题并获得准确的答案：
+### [Casdoor](https://github.com/casdoor/casdoor)
 
-![docsgpt](https://images-1252557999.file.myqcloud.com/uPic/docsgpt.jpg) 
+Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
 
-### [showdoc](https://github.com/star7th/showdoc)
-
-一个非常适合IT团队的在线API文档、技术文档工具:
-
-![showdoc](https://images-1252557999.file.myqcloud.com/uPic/showdoc.jpg) 
+![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
 
 ## 🤖 软件 
 
-### [MissionBackup](https://github.com/Hellager/MissionBackup)
+### [ruzz](https://github.com/vlts1/ruzz)
 
-本地备份软件：
+`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
 
-- 基于 Tauri，兼顾了 web 前端和 rust 后端
-- 5MB 的安装包，15MB 的程序，多平台可用
-- 基于 cron 和 notify 实现对目标定时/监控备份
-- 可自定义备份保存时长和空间
-- 通过图表直观展示备份情况
-- 完善的文档支持
+![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
 
-![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
+### [pear-rec](https://github.com/027xiguapi/pear-rec)
 
-### [FluentHub](https://github.com/FluentHub/FluentHub)
+`pear-rec`(梨子 rec) 是一个跨平台的截图、录屏、录音、录像软件：
 
-界面  `UI` 时尚功能强大的 `Windows GitHub` 客户端：
+![pear-rec](https://images-1252557999.file.myqcloud.com/uPic/pear-rec.jpg) 
 
-![FluentHub](https://images-1252557999.file.myqcloud.com/uPic/FluentHub.png) 
+### [Joplin](https://github.com/laurent22/joplin)
 
-### [V2EX_Polish](https://github.com/coolpace/V2EX_Polish)
+我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
 
-专业的 V2EX 浏览器扩展，集合了众多实用功能，重塑你的浏览体验！
+- 自建服务端
+- 第三方如坚果云等
+- 也可以基于云商，如腾讯云的`COS`
 
-- 🪄 界面美化：UI 设计更现代化，为你带来愉悦的视觉体验。
-- 📥 评论回复嵌套层级：主题下的评论回复支持层级展示，可以更轻松地跟踪和回复其他用户的评论。
-- 🔥 热门回复展示：自动筛选出最受欢迎的回复，第一时间追上热评。
-- 😀 表情回复支持：评论输入框可以选择表情，让回复更加生动和有趣。
-- 📃 长回复优化：智能折叠长篇回复，一键展开查看完整内容。
-- 📰 内置主题列表：无需打开网页，插件内即可快速获取最热、最新的主题列表和消息通知。
-
-![v2p](https://images-1252557999.file.myqcloud.com/uPic/v2p.png) 
+> 这篇文章也是使用Joplin写的 
 
 ## 👀 资料 
 
-### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
+### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
 
-[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
+此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
 
-**可惜永远都不会再更新了，默哀！**
+### [GoGuide](https://github.com/coderit666/GoGuide)
 
-![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
+`Go Guide` 致力于打造最易懂的 `Go` 语言教程：
 
-### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
+![GoGuide](https://images-1252557999.file.myqcloud.com/uPic/GoGuide.png) 
 
-本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
+### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
 
-### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
+本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
 
-本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
+![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
 
 ## 🕸 网站 
 
-### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
+### [whatpwacando](https://whatpwacando.today/)
 
-老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
+该网站功能用于介绍 PWA 的技术进展：
 
-- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
-- Gemini Pro 体验地址：https://gemini.fre123.com/
+![whatpwacando](https://images-1252557999.file.myqcloud.com/uPic/whatpwacando.jpg) 
 
-![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
+### [stable-doodle](https://clipdrop.co/stable-doodle)
 
-### [文学网](https://www.hwxnet.com/)
+`stability AI` 推出的 `AI` 工具, 根据涂鸦和文字描述生成图片, 类似之推荐的 [scribblediffusion.com](https://weekly.howie6879.com/2023/03-06~03-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC082%E6%9C%9F%EF%BC%89.html?h=%E7%94%BB#scribblediffusioncom)，我画了只兔子：
 
-文学相关工具在线网站：
+![stable-doodle](https://images-1252557999.file.myqcloud.com/uPic/stable-doodle.jpg) 
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
+### [uiverse.io](https://uiverse.io/)
 
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
 
-### [macosicongallery](https://www.macosicongallery.com/)
-
-专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
-
-![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
+![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
 
 ## ✍️ 说明
 
