@@ -5,85 +5,103 @@
 
 ## 🎯 项目 
 
-### [one-api](https://github.com/songquanpeng/one-api)
+### [weiboSpider](https://github.com/dataabc/weiboSpider)
 
-`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
+新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
 
-![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
+### [mongo-express](https://github.com/mongo-express/mongo-express)
 
-### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
+基于 `Web` 的 `MongoDB` 管理界面，使用 `Node.js` 和 `Express` 编写：
 
-🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
+![mongo-express](https://images-1252557999.file.myqcloud.com/uPic/mongo-express.png)
+同类型基于 `Web` 的 `Mongo GUI` 还推荐：
 
-![Real-CUGAN](https://images-1252557999.file.myqcloud.com/uPic/hWiOCH.jpg) 
+- [mongo-gui](https://github.com/arunbandari/mongo-gui)
+- [Mongoku](https://github.com/huggingface/Mongoku)
+- [mongood](https://github.com/renzholy/mongood) 
 
-### [Casdoor](https://github.com/casdoor/casdoor)
+### [campus-imaotai](https://github.com/oddfar/campus-imaotai)
 
-Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
+i茅台app自动预约，每日自动预约，支持 `Docker` 一键部署：
 
-![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
+- 平台注册账号(可用i茅台)
+- 添加多个用户
+- 自动预约
+- 类型选择（本市出货量最大的门店，或位置附近门店）
+- 自动旅行
+- 首次旅行分享
+- 获取申购耐力值
+- 自定义时间/随机时间预约或旅行
+- 结果消息推送
+
+![campus-imaotai](https://images-1252557999.file.myqcloud.com/uPic/campus-imaotai.jpg) 
 
 ## 🤖 软件 
 
-### [ruzz](https://github.com/vlts1/ruzz)
+### [Robo 3T](https://github.com/Studio3T/robomongo)
 
-`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
+本人常用的一款MongoDB跨平台管理软件，开源免费：
 
-![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
+![robomongo](https://images-1252557999.file.myqcloud.com/uPic/robomongo.jpg) 
 
-### [pear-rec](https://github.com/027xiguapi/pear-rec)
+### [gushi_namer](https://github.com/holynova/gushi_namer)
 
-`pear-rec`(梨子 rec) 是一个跨平台的截图、录屏、录音、录像软件：
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
 
-![pear-rec](https://images-1252557999.file.myqcloud.com/uPic/pear-rec.jpg) 
+![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
 
-### [Joplin](https://github.com/laurent22/joplin)
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
-我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
+### [VueTube](https://github.com/VueTubeApp/VueTube)
 
-- 自建服务端
-- 第三方如坚果云等
-- 也可以基于云商，如腾讯云的`COS`
+轻巧的开放源代码流媒体客户端，旨在再造不同流媒体应用程序的所有功能：
 
-> 这篇文章也是使用Joplin写的 
+- 🎨  **主题**：明亮、黑暗、OLED，以及彩虹中的任何颜色！您可根据您的喜好选择强调色和背景色。
+- 🖌️  **自定义使用者界面**：自定义主题，甚至停用您不使用的一些界面，以获得最佳体验。
+- ⬆️  **自动更新**：有新版本可用时接收通知，如果您不喜欢也可以撤销更新！
+- 👁️  **追踪阻断**：VueTube 默认不会发送任何跟踪数据，亦不使用任何外部 API。隐私是必要的！
+- 📺  **自家制的 HTML5 视频播放器**：内置在应用程序的播放器，拥有您所需的任何功能，例如 16 倍速。
+- 🌍  **翻译**： 本应用程序支持超过 25 种语言！默认语言因您的设备配置而定。 
 
 ## 👀 资料 
 
-### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
+### [v8-internals](https://github.com/plctlab/v8-internals)
 
-此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
+面向编译器开发人员的V8内部实现文档。 
 
-### [GoGuide](https://github.com/coderit666/GoGuide)
+### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
 
-`Go Guide` 致力于打造最易懂的 `Go` 语言教程：
+关于 `MongoDB`，最全面的免费学习向导：
 
-![GoGuide](https://images-1252557999.file.myqcloud.com/uPic/GoGuide.png) 
+- 学习资源：文档书籍教程等
+- 第三方库：各种编程语言的兼容库
+- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
 
-### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
+### [法律文库](https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html)
 
-本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
+以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。
 
-![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
+![justlaws](https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg) 
 
 ## 🕸 网站 
 
-### [whatpwacando](https://whatpwacando.today/)
+### [chatpdf](https://www.chatpdf.com/)
 
-该网站功能用于介绍 PWA 的技术进展：
+和任何 PDF 进行沟通交流：
 
-![whatpwacando](https://images-1252557999.file.myqcloud.com/uPic/whatpwacando.jpg) 
+![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
 
-### [stable-doodle](https://clipdrop.co/stable-doodle)
+### [FRE123-动漫搜索引擎](https://www.fre123.com/anime/s)
 
-`stability AI` 推出的 `AI` 工具, 根据涂鸦和文字描述生成图片, 类似之推荐的 [scribblediffusion.com](https://weekly.howie6879.com/2023/03-06~03-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC082%E6%9C%9F%EF%BC%89.html?h=%E7%94%BB#scribblediffusioncom)，我画了只兔子：
+`FRE123` 周末新上了个动漫番剧搜索引擎，主要是汇集一些比较好的番剧网站资源，提供搜索服务，让用户更快速找到自己想看到的番剧，欢迎提意见：
 
-![stable-doodle](https://images-1252557999.file.myqcloud.com/uPic/stable-doodle.jpg) 
+![fre123_anime](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime.jpg) 
 
-### [uiverse.io](https://uiverse.io/)
+### [mycolor.space](https://mycolor.space/)
 
-一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
+渐变配色生成器，自动生成 `CSS` 代码：
 
-![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
+![mycolor](https://images-1252557999.file.myqcloud.com/uPic/mycolor.jpg) 
 
 ## ✍️ 说明
 
