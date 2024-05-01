@@ -69,7 +69,8 @@ def gen_rss():
         generator="howie6879/weekly",
         uri="https://weekly.howie6879.com/",
     )
-    for i in sorted(res_dict)[:][20:]:
+
+    for i in sorted(res_dict)[-20:]:
         cur_data = res_dict[i]
 
         fe = fg.add_entry()
