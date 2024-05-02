@@ -5,103 +5,90 @@
 
 ## 🎯 项目 
 
-### [weiboSpider](https://github.com/dataabc/weiboSpider)
+### [python-wechaty](https://github.com/wechaty/python-wechaty)
 
-新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
+`Wechaty` 是一个开源聊天机器人框架 `SDK`，具有高度封装、高可用的特性，支持 `NodeJs, Python, Go` 和 `Java` 等多语言版本：
 
-### [mongo-express](https://github.com/mongo-express/mongo-express)
+![python-wechaty](https://images-1252557999.file.myqcloud.com/uPic/python-wechaty.png) 
 
-基于 `Web` 的 `MongoDB` 管理界面，使用 `Node.js` 和 `Express` 编写：
+### [alist](https://github.com/Xhofe/alist)
 
-![mongo-express](https://images-1252557999.file.myqcloud.com/uPic/mongo-express.png)
-同类型基于 `Web` 的 `Mongo GUI` 还推荐：
+一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
 
-- [mongo-gui](https://github.com/arunbandari/mongo-gui)
-- [Mongoku](https://github.com/huggingface/Mongoku)
-- [mongood](https://github.com/renzholy/mongood) 
+![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
 
-### [campus-imaotai](https://github.com/oddfar/campus-imaotai)
+简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
 
-i茅台app自动预约，每日自动预约，支持 `Docker` 一键部署：
+### [monaco-editor](https://github.com/microsoft/monaco-editor)
 
-- 平台注册账号(可用i茅台)
-- 添加多个用户
-- 自动预约
-- 类型选择（本市出货量最大的门店，或位置附近门店）
-- 自动旅行
-- 首次旅行分享
-- 获取申购耐力值
-- 自定义时间/随机时间预约或旅行
-- 结果消息推送
+微软开源的 `Web` 编辑器：
 
-![campus-imaotai](https://images-1252557999.file.myqcloud.com/uPic/campus-imaotai.jpg) 
+![monaco-editor](https://images-1252557999.file.myqcloud.com/uPic/monaco-editor.png) 
 
 ## 🤖 软件 
 
-### [Robo 3T](https://github.com/Studio3T/robomongo)
+### [pho](https://github.com/fregie/pho)
 
-本人常用的一款MongoDB跨平台管理软件，开源免费：
+一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
 
-![robomongo](https://images-1252557999.file.myqcloud.com/uPic/robomongo.jpg) 
+![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
 
-### [gushi_namer](https://github.com/holynova/gushi_namer)
+### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 
-古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
+这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
 
-![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
 
-从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
+- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
+  
+- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
+  
 
-### [VueTube](https://github.com/VueTubeApp/VueTube)
+![neteasy](https://images-1252557999.file.myqcloud.com/uPic/neteasy.png) 
 
-轻巧的开放源代码流媒体客户端，旨在再造不同流媒体应用程序的所有功能：
+### [pilipala](https://github.com/guozhigq/pilipala)
 
-- 🎨  **主题**：明亮、黑暗、OLED，以及彩虹中的任何颜色！您可根据您的喜好选择强调色和背景色。
-- 🖌️  **自定义使用者界面**：自定义主题，甚至停用您不使用的一些界面，以获得最佳体验。
-- ⬆️  **自动更新**：有新版本可用时接收通知，如果您不喜欢也可以撤销更新！
-- 👁️  **追踪阻断**：VueTube 默认不会发送任何跟踪数据，亦不使用任何外部 API。隐私是必要的！
-- 📺  **自家制的 HTML5 视频播放器**：内置在应用程序的播放器，拥有您所需的任何功能，例如 16 倍速。
-- 🌍  **翻译**： 本应用程序支持超过 25 种语言！默认语言因您的设备配置而定。 
+使用 `Flutter` 开发的 `BiliBili` 第三方客户端，专为提高用户在观看BiliBili视频时的体验而设计：
+
+![pilipala](https://images-1252557999.file.myqcloud.com/uPic/pilipala.jpg) 
 
 ## 👀 资料 
 
-### [v8-internals](https://github.com/plctlab/v8-internals)
+### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
-面向编译器开发人员的V8内部实现文档。 
+一个在YouTube上发现最新机器学习课程的项目。 
 
-### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-关于 `MongoDB`，最全面的免费学习向导：
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
 
-- 学习资源：文档书籍教程等
-- 第三方库：各种编程语言的兼容库
-- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
+![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
 
-### [法律文库](https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html)
+### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
 
-以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。
+开源书籍，`Prometheus`  操作指南：
 
-![justlaws](https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg) 
+![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
 
 ## 🕸 网站 
 
-### [chatpdf](https://www.chatpdf.com/)
+### [trendingpapers](https://trendingpapers.com)
 
-和任何 PDF 进行沟通交流：
+类似于 `Github Trending` 的计算机科学论文趋势榜单：
 
-![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
+![trendingpapers](https://images-1252557999.file.myqcloud.com/uPic/trendingpapers.jpg) 
 
-### [FRE123-动漫搜索引擎](https://www.fre123.com/anime/s)
+### [chatplugin.top](https://www.chatplugin.top/)
 
-`FRE123` 周末新上了个动漫番剧搜索引擎，主要是汇集一些比较好的番剧网站资源，提供搜索服务，让用户更快速找到自己想看到的番剧，欢迎提意见：
+`ChatGPT Plugin` 收录网站，并且将插件汉化：
 
-![fre123_anime](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime.jpg) 
+![chatplugin](https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg) 
 
-### [mycolor.space](https://mycolor.space/)
+### [tik.fail](https://tik.fail/browse)
 
-渐变配色生成器，自动生成 `CSS` 代码：
+国内能直接刷TikTok的在线网站，支持搜索和下载：
 
-![mycolor](https://images-1252557999.file.myqcloud.com/uPic/mycolor.jpg) 
+![tik_fail](https://images-1252557999.file.myqcloud.com/uPic/tik_fail.jpg) 
 
 ## ✍️ 说明
 
