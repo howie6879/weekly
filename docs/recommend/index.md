@@ -5,103 +5,91 @@
 
 ## 🎯 项目 
 
-### [nginx-ui](https://github.com/0xJacky/nginx-ui)
+### [form-create-designer](https://github.com/xaboy/form-create-designer)
 
-Nginx 后台管理UI：
+`form-create-designer` 是基于 [@form-create/element-ui](https://github.com/xaboy/form-create) 实现的表单设计器组件。可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率，节省开发者的时间：
 
-- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
-- 在线 ChatGPT 助理
-- 一键申请和自动续签 Lets encrypt 证书
-- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
-- 在线查看 Nginx 日志
-- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
-- 保存配置后自动测试配置文件并重载 Nginx
-- 基于网页浏览器的高级命令行终端
-- 支持深色模式
-- 自适应网页设计
+![form-create-designer](https://images-1252557999.file.myqcloud.com/uPic/form-create-designer.png) 
 
-![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
+### [chatnio](https://github.com/Deeptrain-Community/chatnio)
 
-### [novu](https://github.com/novuhq/novu)
+🚀 下一代 AI 一站式解决方案，一站式 Chat + 中转 API 站点，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
 
-这是一个开源的基础设施项目，用于快速搭建通知中心，`Novu` 提供了一个统一的 `API`，使通过多个通道（包括应用内、推送、电子邮件、短信和聊天）发送通知变得简单：
+![chatnio](https://images-1252557999.file.myqcloud.com/uPic/chatnio.png) 
 
-![novu](https://images-1252557999.file.myqcloud.com/uPic/novu.jpg) 
+### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 
-### [homepage](https://github.com/benphelps/homepage)
+一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
 
-高度可定制的首页仪表板应用项目：
-
-![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
+![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
 
 ## 🤖 软件 
 
-### [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager "ContextMenuManager")
+### [lettura](https://github.com/zhanglun/lettura)
 
-纯粹的 `Windows` 右键菜单管理程序：
+基于 `Tauri` 的桌面 `RSS` 阅读器：
 
-- 启用或禁用文件、文件夹、新建、发送到、打开方式、自定义文件格式、IE 浏览器、WinX 等右键菜单项目
-- 对上述场景右键菜单项目进行修改名称、修改图标、导航注册表位置、导航文件位置、永久删除等操作
-- 对上述场景右键菜单自定义添加项目，自定义菜单命令
+![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
 
-![ContextMenuManager](https://images-1252557999.file.myqcloud.com/uPic/ContextMenuManager.png) 
+### [PicGo](https://github.com/Molunerfinn/PicGo)
 
-### [marktext](https://github.com/marktext/marktext)
+一个用于快速上传图片并获取图片 `URL` 链接的工具，和之前推荐的 [uPic](https://github.com/gee1k/uPic) 类似，但这个是跨平台的且有自己的插件体系：
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+![PicGo](https://images-1252557999.file.myqcloud.com/uPic/PicGo.jpg)
 
-![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
+如果想在终端环境进行图片上传，可以参考：[upgit](https://github.com/pluveto/upgit)。 
 
-### [uncle-novel](https://github.com/unclezs/uncle-novel)
+### [ElevenClock](https://github.com/marticliment/ElevenClock)
 
-一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
+自定义 `Windows 11` 任务栏时钟：
 
-![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
+![ElevenClock](https://images-1252557999.file.myqcloud.com/uPic/ElevenClock.jpg) 
 
 ## 👀 资料 
 
-### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
+### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
 
-对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
+`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
 
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
 
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
 
-### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
+更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
 
-本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
+### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
-- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
-- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
-- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
+这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
 
-![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
+我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
+
+### [linux-command](https://github.com/jaywcjlove/linux-command)
+
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
+
+![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
 
 ## 🕸 网站 
 
-### [12ft.io](https://12ft.io/)
+### [caniuse](https://caniuse.com/)
 
-输入目标地址，让你浏览一个更干净的网站！删除弹出窗口、横幅和广告：
+网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
 
-![12ft.io](https://images-1252557999.file.myqcloud.com/uPic/12ft.io.jpg)
-[1ft](https://1ft.io/) 也有类似功能。 
+![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
 
-### [emojicode](https://www.emojicode.org/)
+### [phind.com](https://www.phind.com/)
 
-这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
+面向开发者的人工智能搜索引擎：
 
-![emojicode](https://images-1252557999.file.myqcloud.com/uPic/emojicode.jpg)
+![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
 
-现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
+### [emojiall](https://www.emojiall.com/)
 
-### [warp.dev](https://www.warp.dev/)
+网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
 
-一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
-
-![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
+![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg) 
 
 ## ✍️ 说明
 
