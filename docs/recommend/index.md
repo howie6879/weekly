@@ -5,112 +5,116 @@
 
 ## 🎯 项目 
 
-### [500lines](https://github.com/aosabook/500lines)
+### [ChatGPT](https://chat.openai.com/chat)
 
-如果工作中用`Python`比较多的朋友，应该会听过[500lines](https://github.com/aosabook/500lines)项目，它是**aosabook**项目（下面网站部分有介绍）的第四本书。
+本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
 
-这个项目由 18 个独立的章节组成，每个章节都是由该领域的大牛完成，每个章节都试图用 500 行或者更少的代码，让大家了解一个功能或需求的简单实现，比如有：
+- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
+- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
+- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
+- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
+- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
+- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
+- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
 
-- 持续集成系统
-- 分布式系统
-- 异步爬虫
-- 等等
+### [homepage](https://github.com/benphelps/homepage)
 
-如果想阅读中文，见[500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)项目，但是还没有完全翻译完毕。 
+高度可定制的首页仪表板应用项目：
 
-### [DocsGPT](https://github.com/arc53/DocsGPT)
+![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
 
-[DocsGPT](https://github.com/arc53/DocsGPT) 是一种前沿的开源解决方案，可简化在项目文档中查找信息的过程。通过集成强大的 GPT 模型，开发人员可以轻松地提出有关项目的问题并获得准确的答案：
+### [elasticvue](https://github.com/cars10/elasticvue)
 
-![docsgpt](https://images-1252557999.file.myqcloud.com/uPic/docsgpt.jpg) 
+基于 `Vue` 的 `Elasticsearch` 管理客户端，支持[浏览器插件](https://chrome.google.com/webstore/detail/elasticvue/hkedbapjpblbodpgbajblpnlpenaebaa/related?utm_source=chrome-ntp-icon)和 `Docker` 自建：
 
-### [showdoc](https://github.com/star7th/showdoc)
+- 集群信息概览
+- 索引管理
+- 快速搜索&查看
+- REST查询
+- 管理系统快照
 
-一个非常适合IT团队的在线API文档、技术文档工具:
+基本满足使用，开源强大：
 
-![showdoc](https://images-1252557999.file.myqcloud.com/uPic/showdoc.jpg) 
+![elasticvue](https://images-1252557999.file.myqcloud.com/uPic/elasticvue.jpg) 
 
 ## 🤖 软件 
 
-### [MissionBackup](https://github.com/Hellager/MissionBackup)
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 
-本地备份软件：
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
 
-- 基于 Tauri，兼顾了 web 前端和 rust 后端
-- 5MB 的安装包，15MB 的程序，多平台可用
-- 基于 cron 和 notify 实现对目标定时/监控备份
-- 可自定义备份保存时长和空间
-- 通过图表直观展示备份情况
-- 完善的文档支持
+![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
 
-![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
+### [flutter_server_box](https://github.com/lollipopkit/flutter_server_box/blob/main/README_zh.md)
 
-### [FluentHub](https://github.com/FluentHub/FluentHub)
+使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具：
 
-界面  `UI` 时尚功能强大的 `Windows GitHub` 客户端：
+-  功能
+	-  SSH 终端, SFTP
+	-  Docker & 包 管理器
+	-  状态图表
+	-  代码编辑器
+	-  Ping 和 更多
+-  本地化 ( English, 简体中文, Deutsch, 繁體中文)
+-  桌面端支持
 
-![FluentHub](https://images-1252557999.file.myqcloud.com/uPic/FluentHub.png) 
+![flutter_server_box](https://images-1252557999.file.myqcloud.com/uPic/flutter_server_box.jpg) 
 
-### [V2EX_Polish](https://github.com/coolpace/V2EX_Polish)
+### [Malware-Patch](https://github.com/the1812/Malware-Patch)
 
-专业的 V2EX 浏览器扩展，集合了众多实用功能，重塑你的浏览体验！
+阻止中国流氓软件的管理员授权，无需后台运行：
 
-- 🪄 界面美化：UI 设计更现代化，为你带来愉悦的视觉体验。
-- 📥 评论回复嵌套层级：主题下的评论回复支持层级展示，可以更轻松地跟踪和回复其他用户的评论。
-- 🔥 热门回复展示：自动筛选出最受欢迎的回复，第一时间追上热评。
-- 😀 表情回复支持：评论输入框可以选择表情，让回复更加生动和有趣。
-- 📃 长回复优化：智能折叠长篇回复，一键展开查看完整内容。
-- 📰 内置主题列表：无需打开网页，插件内即可快速获取最热、最新的主题列表和消息通知。
-
-![v2p](https://images-1252557999.file.myqcloud.com/uPic/v2p.png) 
+![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
 
 ## 👀 资料 
 
-### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
+### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
 
-[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
+这本书的目标是:
 
-**可惜永远都不会再更新了，默哀！**
+- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
+- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
+- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
 
-![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
+![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
 
-### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
+### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
 
-本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
+编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
 
-### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
+深度学习入门教程资料聚合项目，包含：
+
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
+
+![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
+
+![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
 
 ## 🕸 网站 
 
-### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
+### [iconbuddy](https://iconbuddy.app/svg-icons)
 
-老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
+`SVG` 图标检索网站（目前有18万图标），可简单编辑和下载：
 
-- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
-- Gemini Pro 体验地址：https://gemini.fre123.com/
+![iconbuddy](https://images-1252557999.file.myqcloud.com/uPic/iconbuddy.jpg) 
 
-![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
+### [scrnshts.club](https://scrnshts.club/)
 
-### [文学网](https://www.hwxnet.com/)
+收集 App 在应用商店中做宣传用的截图，很有意思：
 
-文学相关工具在线网站：
+![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
+### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
 
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+一个搜索 git 常用 emoji 的网站:
 
-### [macosicongallery](https://www.macosicongallery.com/)
-
-专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
-
-![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
+![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
 
 ## ✍️ 说明
 
