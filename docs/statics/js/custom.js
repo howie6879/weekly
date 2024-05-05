@@ -24,8 +24,8 @@ document.addEventListener("DOMContentLoaded", function () {
   // link.textContent = "🔥 老胡精选周刊大全>>>";
 
   link.href =
-    "https://developer.aliyun.com/topic/lingma/activities/202403?taskCode=14508&recordId=3a279f7d6dd399e15ca29242cce86a5c#/?utm_content=m_fission_1";
-  link.textContent = "👉 通义灵码·体验AI编码&盲盒，快来薅羊毛吧>>>";
+    "https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=c3tftfri";
+  link.textContent = "👉 阿里云 ECS 活动，99/年，新老共享>>>";
 
   link.target = "_blank";
   popup.appendChild(link);
