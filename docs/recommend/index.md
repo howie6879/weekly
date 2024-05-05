@@ -5,91 +5,116 @@
 
 ## 🎯 项目 
 
-### [form-create-designer](https://github.com/xaboy/form-create-designer)
+### [ChatGPT](https://chat.openai.com/chat)
 
-`form-create-designer` 是基于 [@form-create/element-ui](https://github.com/xaboy/form-create) 实现的表单设计器组件。可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率，节省开发者的时间：
+本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
 
-![form-create-designer](https://images-1252557999.file.myqcloud.com/uPic/form-create-designer.png) 
+- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
+- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
+- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
+- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
+- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
+- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
+- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
 
-### [chatnio](https://github.com/Deeptrain-Community/chatnio)
+### [homepage](https://github.com/benphelps/homepage)
 
-🚀 下一代 AI 一站式解决方案，一站式 Chat + 中转 API 站点，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
+高度可定制的首页仪表板应用项目：
 
-![chatnio](https://images-1252557999.file.myqcloud.com/uPic/chatnio.png) 
+![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
 
-### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+### [elasticvue](https://github.com/cars10/elasticvue)
 
-一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
+基于 `Vue` 的 `Elasticsearch` 管理客户端，支持[浏览器插件](https://chrome.google.com/webstore/detail/elasticvue/hkedbapjpblbodpgbajblpnlpenaebaa/related?utm_source=chrome-ntp-icon)和 `Docker` 自建：
 
-![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
+- 集群信息概览
+- 索引管理
+- 快速搜索&查看
+- REST查询
+- 管理系统快照
+
+基本满足使用，开源强大：
+
+![elasticvue](https://images-1252557999.file.myqcloud.com/uPic/elasticvue.jpg) 
 
 ## 🤖 软件 
 
-### [lettura](https://github.com/zhanglun/lettura)
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 
-基于 `Tauri` 的桌面 `RSS` 阅读器：
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
 
-![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
+![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
 
-### [PicGo](https://github.com/Molunerfinn/PicGo)
+### [flutter_server_box](https://github.com/lollipopkit/flutter_server_box/blob/main/README_zh.md)
 
-一个用于快速上传图片并获取图片 `URL` 链接的工具，和之前推荐的 [uPic](https://github.com/gee1k/uPic) 类似，但这个是跨平台的且有自己的插件体系：
+使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具：
 
-![PicGo](https://images-1252557999.file.myqcloud.com/uPic/PicGo.jpg)
+-  功能
+	-  SSH 终端, SFTP
+	-  Docker & 包 管理器
+	-  状态图表
+	-  代码编辑器
+	-  Ping 和 更多
+-  本地化 ( English, 简体中文, Deutsch, 繁體中文)
+-  桌面端支持
 
-如果想在终端环境进行图片上传，可以参考：[upgit](https://github.com/pluveto/upgit)。 
+![flutter_server_box](https://images-1252557999.file.myqcloud.com/uPic/flutter_server_box.jpg) 
 
-### [ElevenClock](https://github.com/marticliment/ElevenClock)
+### [Malware-Patch](https://github.com/the1812/Malware-Patch)
 
-自定义 `Windows 11` 任务栏时钟：
+阻止中国流氓软件的管理员授权，无需后台运行：
 
-![ElevenClock](https://images-1252557999.file.myqcloud.com/uPic/ElevenClock.jpg) 
+![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
 
 ## 👀 资料 
 
-### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
+### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
 
-`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
+这本书的目标是:
 
-![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
+- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
+- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
+- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
 
-`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
+![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
 
-![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
+### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
 
-更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
+编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
 
-### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
+深度学习入门教程资料聚合项目，包含：
 
-我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
 
-### [linux-command](https://github.com/jaywcjlove/linux-command)
+![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
 
-Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
-
-![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
+![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
 
 ## 🕸 网站 
 
-### [caniuse](https://caniuse.com/)
+### [iconbuddy](https://iconbuddy.app/svg-icons)
 
-网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
+`SVG` 图标检索网站（目前有18万图标），可简单编辑和下载：
 
-![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
+![iconbuddy](https://images-1252557999.file.myqcloud.com/uPic/iconbuddy.jpg) 
 
-### [phind.com](https://www.phind.com/)
+### [scrnshts.club](https://scrnshts.club/)
 
-面向开发者的人工智能搜索引擎：
+收集 App 在应用商店中做宣传用的截图，很有意思：
 
-![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
+![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
 
-### [emojiall](https://www.emojiall.com/)
+### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
 
-网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
+一个搜索 git 常用 emoji 的网站:
 
-![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg) 
+![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
 
 ## ✍️ 说明
 
