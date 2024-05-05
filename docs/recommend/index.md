@@ -5,116 +5,97 @@
 
 ## 🎯 项目 
 
-### [ChatGPT](https://chat.openai.com/chat)
+### [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo "MoneyPrinterTurbo")
 
-本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
+只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频：
 
-- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
-- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
-- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
-- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
-- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
-- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
-- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
-- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
+![MoneyPrinterTurbo](https://images-1252557999.file.myqcloud.com/uPic/MoneyPrinterTurbo.jpeg) 
 
-### [homepage](https://github.com/benphelps/homepage)
+### [typora_plugin](https://github.com/obgnail/typora_plugin)
 
-高度可定制的首页仪表板应用项目：
+开源的 `Typora` 插件，功能增强工具，新增了三十多种功能：
 
-![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
+![typora_plugin](https://images-1252557999.file.myqcloud.com/uPic/typora_plugin.jpg) 
 
-### [elasticvue](https://github.com/cars10/elasticvue)
+### [Chat2DB](https://github.com/chat2db/Chat2DB)
 
-基于 `Vue` 的 `Elasticsearch` 管理客户端，支持[浏览器插件](https://chrome.google.com/webstore/detail/elasticvue/hkedbapjpblbodpgbajblpnlpenaebaa/related?utm_source=chrome-ntp-icon)和 `Docker` 自建：
+`Chat2DB` 是一款有开源免费的智能且多功能的SQL客户端和报表工具，适用于各种数据库：
 
-- 集群信息概览
-- 索引管理
-- 快速搜索&查看
-- REST查询
-- 管理系统快照
+- 🌈 AI智能助手，支持自然语言转SQL、SQL转自然语言、SQL优化建议
+- 🔥 SQL查询、AI查询和数据报表完美集成的一体化解决方案设计与实现
+- 👭 支持团队协作，研发无需知道线上数据库密码，解决企业数据库账号安全问题
+- ⚙️ 强大的数据管理能力，支持数据表、视图、存储过程、函数、触发器、索引、序列、用户、角色、授权等管理
+- 🔌 强大的扩展能力，目前已经支持MySQL、PostgreSQL、Oracle、SQLServer、ClickHouse、OceanBase、H2、SQLite等等，未来会支持更多的数据库
+- 🛡 前端使用 Electron 开发，提供 Windows、Mac、Linux 客户端、网页版本一体化的解决方案
+- 🎁 支持环境隔离、线上、日常数据权限分离
 
-基本满足使用，开源强大：
-
-![elasticvue](https://images-1252557999.file.myqcloud.com/uPic/elasticvue.jpg) 
+![Chat2DB](https://images-1252557999.file.myqcloud.com/uPic/Chat2DB.png) 
 
 ## 🤖 软件 
 
-### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
+### [Thor](https://github.com/gbammc/Thor)
 
-中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
+通过快捷键快速打开应用：
 
-![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
+![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
 
-### [flutter_server_box](https://github.com/lollipopkit/flutter_server_box/blob/main/README_zh.md)
+### [unclutter](https://github.com/lindylearn/unclutter)
 
-使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具：
+阅读插件，将网页内容快速转成美观的阅读模式：
 
--  功能
-	-  SSH 终端, SFTP
-	-  Docker & 包 管理器
-	-  状态图表
-	-  代码编辑器
-	-  Ping 和 更多
--  本地化 ( English, 简体中文, Deutsch, 繁體中文)
--  桌面端支持
+![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
 
-![flutter_server_box](https://images-1252557999.file.myqcloud.com/uPic/flutter_server_box.jpg) 
+### [weektodo](https://weektodo.me/)
 
-### [Malware-Patch](https://github.com/the1812/Malware-Patch)
+`WeekToDo` 是一个免费且开源&跨平台的极简周计划软件，您可以以简单直观的方式定义和管理您的周计划和任务，从而提高您的工作效率：
 
-阻止中国流氓软件的管理员授权，无需后台运行：
-
-![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
+![weektodo](https://images-1252557999.file.myqcloud.com/uPic/weektodo.jpg) 
 
 ## 👀 资料 
 
-### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
+### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
 
-这本书的目标是:
+本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
 
-- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
-- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
-- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
+我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
 
-![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
+无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
 
-### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
+### [pdai](https://pdai.tech/)
 
-编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
+Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
 
-### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+![pdai](https://images-1252557999.file.myqcloud.com/uPic/8oZW41.png) 
 
-深度学习入门教程资料聚合项目，包含：
+### [meetup](https://github.com/baiyutang/meetup)
 
-- 数学基础
-- 机器学习基础
-- 深度学习基础
-- 工程能力
+【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
 
-![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
-
-![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
+![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
 
 ## 🕸 网站 
 
-### [iconbuddy](https://iconbuddy.app/svg-icons)
+### [photoroom](https://www.photoroom.com/backgrounds/)
 
-`SVG` 图标检索网站（目前有18万图标），可简单编辑和下载：
+利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
 
-![iconbuddy](https://images-1252557999.file.myqcloud.com/uPic/iconbuddy.jpg) 
+![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
 
-### [scrnshts.club](https://scrnshts.club/)
+### [阿里云知行动手实验室](https://start.aliyun.com/)
 
-收集 App 在应用商店中做宣传用的截图，很有意思：
+这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
 
-![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
+网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
 
-### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
+我选了一个`k8s`教程尝试了下，嗯，挺香的：
 
-一个搜索 git 常用 emoji 的网站:
+![start-ali](https://images-1252557999.file.myqcloud.com/uPic/LIfQqw.png) 
 
-![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
+### [animatedknots](https://www.animatedknots.com/)
+
+各种给绳子打结的姿势都可以在这里找到：
+
+![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
 
 ## ✍️ 说明
 
