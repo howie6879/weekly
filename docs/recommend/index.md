@@ -5,104 +5,93 @@
 
 ## 🎯 项目 
 
-### [onenav](https://github.com/helloxz/onenav)
+### [dicebear](https://github.com/dicebear/dicebear)
 
-使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问：
+供设计师和开发者使用的头像库。可根据传入的字符串，自动生成对应用户头像的库：
 
-支持后台管- 理
-- 支持私有链接
-- 支持Chrome/Firefox/Edge书签批量导入
-- 支持多种主题风格
-- 支持链接信息自动识别
-- 支持API
-- 支持Docker部署
-- 支持uTools插件
-- 支持二级分类
-- 支持Chromium内核的浏览器扩展（插件）
-- 支持在线更新
-- 手机版后台
+![dicebear](https://images-1252557999.file.myqcloud.com/uPic/dicebear.jpg) 
 
-![onenav](https://images-1252557999.file.myqcloud.com/uPic/onenav.png) 
+### [cpdf-source](https://github.com/johnwhitington/cpdf-source)
 
-### [terminalizer](https://github.com/faressoft/terminalizer)
+命令行处理PDF，比如拆分（支持书签）、合并等，点击这里[下载](https://coherentpdf.com/eval.html)，全平台支持。 
 
-录制终端操作并生成 `gif` 动图：
+### [Chat2DB](https://github.com/chat2db/Chat2DB)
 
-![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
+`Chat2DB` 是一款有开源免费的智能且多功能的SQL客户端和报表工具，适用于各种数据库：
 
-### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
+- 🌈 AI智能助手，支持自然语言转SQL、SQL转自然语言、SQL优化建议
+- 🔥 SQL查询、AI查询和数据报表完美集成的一体化解决方案设计与实现
+- 👭 支持团队协作，研发无需知道线上数据库密码，解决企业数据库账号安全问题
+- ⚙️ 强大的数据管理能力，支持数据表、视图、存储过程、函数、触发器、索引、序列、用户、角色、授权等管理
+- 🔌 强大的扩展能力，目前已经支持MySQL、PostgreSQL、Oracle、SQLServer、ClickHouse、OceanBase、H2、SQLite等等，未来会支持更多的数据库
+- 🛡 前端使用 Electron 开发，提供 Windows、Mac、Linux 客户端、网页版本一体化的解决方案
+- 🎁 支持环境隔离、线上、日常数据权限分离
 
-读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
-
-![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
+![Chat2DB](https://images-1252557999.file.myqcloud.com/uPic/Chat2DB.png) 
 
 ## 🤖 软件 
 
-### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
+### [LibreraReader](https://github.com/foobnix/LibreraReader)
 
-`Clash for Android`，具有 `Clash` 的全部特性：
+安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
 
-![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
+![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
 
-### [Yank Note](https://github.com/purocean/yn)
+### [localsend](https://github.com/localsend/localsend)
 
-一款面向程序员的 `Markdown` 笔记应用，全平台支持：
+`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
 
-- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
-- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
-- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
-- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
-- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
+![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
 
-![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
+### [downkyicore](https://github.com/yaobiao131/downkyicore)
 
-### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
+哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
 
-免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
-
-![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
+![downkyicore](https://images-1252557999.file.myqcloud.com/uPic/downkyicore.jpg) 
 
 ## 👀 资料 
 
-### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+### [AI-System](https://github.com/microsoft/AI-System)
 
-C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
 
-![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
+![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
 
-### [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
+### [easy-rl](https://github.com/datawhalechina/easy-rl)
 
-本仓库是手册《简单粗暴LaTeX》的开源仓库。本书涵盖了LaTeX的基本使用场景，以简明的例子来展现各命令的用法：
+强化学习中文教程：
 
-![Note-by-LaTeX](https://images-1252557999.file.myqcloud.com/uPic/Note-by-LaTeX.jpg)
+![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
 
-在开源仓库可直接下载阅读。 
+### [数据科学学习指南](https://github.com/amitness/learning)
 
-### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
+数据科学学习指南，帮你每天提升1%的数据科学技能。主要包含电子表格与数据库的数据处理、命令行工具使用、数据分析与可视化技巧、论文阅读方法，各类模型与算法讲解等知识，另外还有商业思维培养、写作与沟通技巧等非技术类内容。
 
-张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
-
-![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
+![data-learning](https://images-1252557999.file.myqcloud.com/uPic/tlkHzW.png) 
 
 ## 🕸 网站 
 
-### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
+### [medisearch](https://medisearch.io/zh)
 
-中国少年儿童新闻出版总社免费开放的少儿绘本网站：
+直接的科学为基础的医疗问答模型：
 
-![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
+![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
 
-### [Anthropic](https://docs.anthropic.com/claude/prompt-library)
+### [一证通查](https://getsimnum.caict.ac.cn/#/)
 
-Anthropic 公司推出的提示词库，里面有 `Anthropic` 提供的非常多的示例提示词，非常方便：
+自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
 
-![anthropic](https://images-1252557999.file.myqcloud.com/uPic/anthropic.jpg) 
+![phone_query](https://images-1252557999.file.myqcloud.com/uPic/phone_query.png) 
 
-### [dbbqb](https://www.dbbqb.com/)
+### [阿里云知行动手实验室](https://start.aliyun.com/)
 
-专业的表情包搜索网站：
+这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
 
-![dbbqb](https://images-1252557999.file.myqcloud.com/uPic/dbbqb.jpg) 
+网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
+
+我选了一个`k8s`教程尝试了下，嗯，挺香的：
+
+![start-ali](https://images-1252557999.file.myqcloud.com/uPic/LIfQqw.png) 
 
 ## ✍️ 说明
 
