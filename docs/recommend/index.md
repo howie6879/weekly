@@ -5,93 +5,114 @@
 
 ## 🎯 项目 
 
-### [dicebear](https://github.com/dicebear/dicebear)
+### [nginx-ui](https://github.com/0xJacky/nginx-ui)
 
-供设计师和开发者使用的头像库。可根据传入的字符串，自动生成对应用户头像的库：
+Nginx 后台管理UI：
 
-![dicebear](https://images-1252557999.file.myqcloud.com/uPic/dicebear.jpg) 
+- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
+- 在线 ChatGPT 助理
+- 一键申请和自动续签 Lets encrypt 证书
+- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
+- 在线查看 Nginx 日志
+- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
+- 保存配置后自动测试配置文件并重载 Nginx
+- 基于网页浏览器的高级命令行终端
+- 支持深色模式
+- 自适应网页设计
 
-### [cpdf-source](https://github.com/johnwhitington/cpdf-source)
+![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
 
-命令行处理PDF，比如拆分（支持书签）、合并等，点击这里[下载](https://coherentpdf.com/eval.html)，全平台支持。 
+### [gorse](https://github.com/zhenghaoz/gorse)
 
-### [Chat2DB](https://github.com/chat2db/Chat2DB)
+用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
 
-`Chat2DB` 是一款有开源免费的智能且多功能的SQL客户端和报表工具，适用于各种数据库：
+![gorse](https://images-1252557999.file.myqcloud.com/uPic/nP2kgE.jpg)
 
-- 🌈 AI智能助手，支持自然语言转SQL、SQL转自然语言、SQL优化建议
-- 🔥 SQL查询、AI查询和数据报表完美集成的一体化解决方案设计与实现
-- 👭 支持团队协作，研发无需知道线上数据库密码，解决企业数据库账号安全问题
-- ⚙️ 强大的数据管理能力，支持数据表、视图、存储过程、函数、触发器、索引、序列、用户、角色、授权等管理
-- 🔌 强大的扩展能力，目前已经支持MySQL、PostgreSQL、Oracle、SQLServer、ClickHouse、OceanBase、H2、SQLite等等，未来会支持更多的数据库
-- 🛡 前端使用 Electron 开发，提供 Windows、Mac、Linux 客户端、网页版本一体化的解决方案
-- 🎁 支持环境隔离、线上、日常数据权限分离
+作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
 
-![Chat2DB](https://images-1252557999.file.myqcloud.com/uPic/Chat2DB.png) 
+![gitrec](https://images-1252557999.file.myqcloud.com/uPic/jAuEdM.jpg) 
+
+### [Navidrome](https://github.com/navidrome/navidrome)
+
+`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
+
+![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
 
 ## 🤖 软件 
 
-### [LibreraReader](https://github.com/foobnix/LibreraReader)
+### [Rayon](https://github.com/Lakr233/Rayon)
 
-安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
+一个`macOS`的上的`SSH`客户端：
 
-![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
+![rayon](https://images-1252557999.file.myqcloud.com/uPic/rayon.png)
 
-### [localsend](https://github.com/localsend/localsend)
+软件特性：
 
-`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
+- 免费&开源
+- 支持 libssh2 的主机连接
+- Linux proc 文件系统状态信息
+- 使用密码、密钥等进行身份验证...
+- xterm 终端支持
+- 批处理执行代码片段 
 
-![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
+### [kopia](https://github.com/kopia/kopia)
 
-### [downkyicore](https://github.com/yaobiao131/downkyicore)
+跨平台备份/还原工具，它能够将指定的文件和目录加密压缩后生成快照，然后上传到远程服务器或云存储，实现远程备份数据的功能，开箱即用支持命令行和 `GUI` 两种使用方式：
 
-哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
+![kopia](https://images-1252557999.file.myqcloud.com/uPic/kopia.webp) 
 
-![downkyicore](https://images-1252557999.file.myqcloud.com/uPic/downkyicore.jpg) 
+### [miru-app](https://github.com/miru-project/miru-app)
+
+免费、开源的 支持视频、漫画、小说扩展源的多功能应用，支持 `Android、Windows、Web`：
+
+- 支持 windows,android
+- 友好的扩展编写支持、调试日志
+- 扩展使用 JavaScript 语言，开发简单
+- 支持自定义扩展仓库
+- 官方扩展仓库提供视频源，无需编写任何扩展即可使用
+- 支持在线观看多种视频、漫画、小说源，实现多平台的统一
+- 统一系统 UI 的设计语言
+- 自动获取 TMDB 元数据信息
+
+![657c8025be23f](https://img.fre123.com/i/2023/12/16/657c8025be23f.jpg) 
 
 ## 👀 资料 
 
-### [AI-System](https://github.com/microsoft/AI-System)
+### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
 
-微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+`OpenAI` 出品的的深度强化学习教程：
 
-![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
+![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
+### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
 
-强化学习中文教程：
+ Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
 
-![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
+ ![rust_embedded_dev](https://images-1252557999.file.myqcloud.com/uPic/rust_embedded_dev.jpg) 
 
-### [数据科学学习指南](https://github.com/amitness/learning)
+### [db-tutorial](https://github.com/dunwu/db-tutorial)
 
-数据科学学习指南，帮你每天提升1%的数据科学技能。主要包含电子表格与数据库的数据处理、命令行工具使用、数据分析与可视化技巧、论文阅读方法，各类模型与算法讲解等知识，另外还有商业思维培养、写作与沟通技巧等非技术类内容。
-
-![data-learning](https://images-1252557999.file.myqcloud.com/uPic/tlkHzW.png) 
+💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
 
 ## 🕸 网站 
 
-### [medisearch](https://medisearch.io/zh)
+### [LLM Visualization](https://bbycroft.net/llm)
 
-直接的科学为基础的医疗问答模型：
+将 GPT LLM 大模型进行可视化分析：
 
-![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
+![bbycroft](https://images-1252557999.file.myqcloud.com/uPic/bbycroft.jpg) 
 
-### [一证通查](https://getsimnum.caict.ac.cn/#/)
+### [latexlive](https://www.latexlive.com/)
 
-自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
+免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
 
-![phone_query](https://images-1252557999.file.myqcloud.com/uPic/phone_query.png) 
+![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
 
-### [阿里云知行动手实验室](https://start.aliyun.com/)
+### [chatgpt-sites](https://github.com/lzwme/chatgpt-sites)
 
-这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
+搜集国内可用的 ChatGPT 在线体验免费网站列表，定时任务每日更新，点击[这里](https://lzw.me/x/chatgpt-sites/)访问：
 
-网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
-
-我选了一个`k8s`教程尝试了下，嗯，挺香的：
-
-![start-ali](https://images-1252557999.file.myqcloud.com/uPic/LIfQqw.png) 
+![chatgpt-sites](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-sites.jpg) 
 
 ## ✍️ 说明
 
