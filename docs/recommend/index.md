@@ -5,103 +5,103 @@
 
 ## 🎯 项目 
 
-### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
+### [devika](https://github.com/stitionai/devika "devika")
 
-读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
+Devika 是一名 Agentic AI 软件工程师，可以理解高级人类指令并将其分解到各个步骤，然后研究相关信息，并编写代码以实现给定的目标。
 
-![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
+![devika](https://images-1252557999.file.myqcloud.com/uPic/devika.png)
 
-### [novu](https://github.com/novuhq/novu)
+Devika 旨在成为 Cognition AI 的 Devin 的竞争性开源替代品。 
 
-这是一个开源的基础设施项目，用于快速搭建通知中心，`Novu` 提供了一个统一的 `API`，使通过多个通道（包括应用内、推送、电子邮件、短信和聊天）发送通知变得简单：
+### [xqdoo00o-chatgpt-web](https://github.com/xqdoo00o/chatgpt-web)
 
-![novu](https://images-1252557999.file.myqcloud.com/uPic/novu.jpg) 
+纯 `JS` 实现的 `ChatGPT` 项目，基于 `OpenAI API`，其优势在于可以直接部署一个 `HTML` 文件即可，轻量实用：
 
-### [amprobe](https://github.com/amuluze/amprobe)
+![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
 
-`Amprobe` 是一款轻量级主机及 `Docker` 容器监控工具，它可以轻松的帮助我们完成以下几方面的工作：
+### [manifest](https://github.com/jonathontoon/manifest)
 
-- 监控主机的 CPU、内存、磁盘 IO、网络 IO情况
-- 监控部署于主机上 Docker 容器的运行状态、CPU、内存使用情况
-- 实时查看 Docker 容器的日志，并支持日志下载
-- 针对管理员用户提供简单的 Docker 容器、镜像运维操作
-- 操作日志记录
+本周最喜欢的一个项目，这是一个基于网格的即时便签板，可随时在浏览器中记笔记，相当于浏览器便签，虽然项目不更新了，但是功能基本完成，值得一试：
 
-暂时还不支持多机器关联，期待作者更新：
-
-![amprobe](https://images-1252557999.file.myqcloud.com/uPic/amprobe.png) 
+![manifest](https://images-1252557999.file.myqcloud.com/uPic/manifest.jpg) 
 
 ## 🤖 软件 
 
-### [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
+### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
 
-免费开源的安卓漫画阅读器，支持超过500+的资源来源：
+FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
 
-![Kotatsu](https://images-1252557999.file.myqcloud.com/uPic/Kotatsu.jpg) 
+- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
+- 基于文本的歌单，方便与朋友分享、设备之间同步
+- 提供基于 TCP 的交互控制协议
+- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
+- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
 
-### [spacedrive](https://www.spacedrive.com/)
+![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
 
-`Spacedrive` 是一个基于 `Rust` 的开源跨平台文件管理器，它采用了虚拟分布式文件系统，通过一个 `API` 来操作访问多设备上的文件。
+### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
 
-它可以管理分布在多端的文件，在一个地方整理多个设备上的文件。
+> 让每个人都简单方便的使用前沿人工智能技术
 
-无论是云端还是离线硬盘，进而生成你独有的个人分布式云，简单又方便：
+一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
 
-![spacedrive](https://images-1252557999.file.myqcloud.com/uPic/spacedrive.webp) 
+![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
 
-### [stretchly](https://github.com/hovancik/stretchly)
+### [alacritty](https://github.com/alacritty/alacritty)
 
-`Stretchly` 是一个跨平台的 `Electron` 应用程序，它的核心功能就是让你在电脑上面工作时候设定休息&提醒时间：
+一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
 
-![stretchly](https://images-1252557999.file.myqcloud.com/uPic/stretchly.jpg) 
+我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
+
+![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
 
 ## 👀 资料 
 
-### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
+### [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
 
-《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
+这个项目包含了数据工程师领域需要的一些资料，对于拓展国际视野很有帮助：
 
-![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
+- 书籍课程
+- 社区
+- YouTube 频道等各大平台
+- Newsletters
+- ......
 
-### [howtheytest](https://github.com/abhivaikar/howtheytest)
+![data-engineer-handbook](https://images-1252557999.file.myqcloud.com/uPic/data-engineer-handbook.png) 
 
-关于软件公司如何测试其软件的公共资源集合：
+### [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)
 
-![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
+从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 `PDF`:
 
-### [wangshusen/SearchEngine](https://github.com/wangshusen/SearchEngine)
+![what_are_embeddings](https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg) 
 
-开源的搜索引擎原理书籍（不方便下载的直接私聊我发 PDF），包含：
+### [Midjourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
 
-- 搜索引擎基础
-- 相关性
-- 其他决定用户满意度的因子
-- 查询词处理
-- 召回
-- 排序
-- 查询词推荐
+一份 `Midjourney` 学习教程：
 
-![SearchEngine](https://images-1252557999.file.myqcloud.com/uPic/SearchEngine.jpg) 
+![midjourney-learning-path](https://images-1252557999.file.myqcloud.com/uPic/midjourney-learning-path.jpg) 
 
 ## 🕸 网站 
 
-### [musetransfer](https://musetransfer.com/)
+### [emojicode](https://www.emojicode.org/)
 
-`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
+这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
 
-![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
+![emojicode](https://images-1252557999.file.myqcloud.com/uPic/emojicode.jpg)
 
-### [FRE123-动漫搜索引擎](https://www.fre123.com/anime/s)
+现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
 
-`FRE123` 周末新上了个动漫番剧搜索引擎，主要是汇集一些比较好的番剧网站资源，提供搜索服务，让用户更快速找到自己想看到的番剧，欢迎提意见：
+### [chinesenewyear](https://chinesenewyear.net/)
 
-![fre123_anime](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime.jpg) 
+国外一个专门介绍农历春节的网站，包含了非常多关于春节的介绍信息：
 
-### [ray.so](https://ray.so/)
+![chinesenewyear](https://images-1252557999.file.myqcloud.com/uPic/chinesenewyear.jpg) 
 
-之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
+### [极简番茄](https://t.kuaitu.cc/)
 
-![ray.so](https://images-1252557999.file.myqcloud.com/uPic/ray.so.jpg) 
+极简优雅的番茄时钟软件，适合做屏保：
+
+![kuaitu](https://images-1252557999.file.myqcloud.com/uPic/kuaitu.jpg) 
 
 ## ✍️ 说明
 
