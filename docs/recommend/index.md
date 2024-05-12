@@ -5,103 +5,99 @@
 
 ## 🎯 项目 
 
-### [devika](https://github.com/stitionai/devika "devika")
+### [stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
 
-Devika 是一名 Agentic AI 软件工程师，可以理解高级人类指令并将其分解到各个步骤，然后研究相关信息，并编写代码以实现给定的目标。
+基于 `Docker` 的一站式 `Stable Diffusion`（最近很火的 AI 文字生成图片的模型）安装包，可提供以下多个 `UI` 可选：
 
-![devika](https://images-1252557999.file.myqcloud.com/uPic/devika.png)
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
+- [sygil-webui](https://github.com/Sygil-Dev/sygil-webui)
 
-Devika 旨在成为 Cognition AI 的 Devin 的竞争性开源替代品。 
+![sd_ui_docker](https://images-1252557999.file.myqcloud.com/uPic/sd_ui_docker.jpg) 
 
-### [xqdoo00o-chatgpt-web](https://github.com/xqdoo00o/chatgpt-web)
+### [greppo](https://github.com/greppo-io/greppo)
 
-纯 `JS` 实现的 `ChatGPT` 项目，基于 `OpenAI API`，其优势在于可以直接部署一个 `HTML` 文件即可，轻量实用：
+快速轻松地构建部署地理空间应用程序：
 
-![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
+![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
 
-### [manifest](https://github.com/jonathontoon/manifest)
+### [xiaomusic](https://github.com/hanxi/xiaomusic)
 
-本周最喜欢的一个项目，这是一个基于网格的即时便签板，可随时在浏览器中记笔记，相当于浏览器便签，虽然项目不更新了，但是功能基本完成，值得一试：
+使用小爱/红米音箱播放音乐，音乐使用 `yt-dlp` 下载：
 
-![manifest](https://images-1252557999.file.myqcloud.com/uPic/manifest.jpg) 
+- 播放歌曲
+- 播放歌曲+歌名 比如：播放歌曲周杰伦晴天
+- 下一首
+- 单曲循环
+- 全部循环
+
+支持 `Docker` 部署和简单管理界面。 
 
 ## 🤖 软件 
 
-### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
+### [uncle-novel](https://github.com/unclezs/uncle-novel)
 
-FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
+一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
 
-- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
-- 基于文本的歌单，方便与朋友分享、设备之间同步
-- 提供基于 TCP 的交互控制协议
-- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
-- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
+![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
 
-![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
+### [crow-translate](https://github.com/crow-translate/crow-translate)
 
-### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
+一个简单而轻巧的翻译器，可以使用 `Google、Yandex Bing、LibreTranslate&Lingva` 来翻译和朗读文本：
 
-> 让每个人都简单方便的使用前沿人工智能技术
+![crow-translate](https://images-1252557999.file.myqcloud.com/uPic/crow-translate.png) 
 
-一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
+### [my-tv](https://github.com/lizongying/my-tv)
 
-![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
+安卓电视直播软件，内置直播源：
 
-### [alacritty](https://github.com/alacritty/alacritty)
-
-一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
-
-我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
-
-![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
+![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
 
 ## 👀 资料 
 
-### [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
+### [moderncss](https://moderncss.dev/)
 
-这个项目包含了数据工程师领域需要的一些资料，对于拓展国际视野很有帮助：
+一份现代 `CSS` 教程，偏向有 `CSS` 的基础的前端开发者：
 
-- 书籍课程
-- 社区
-- YouTube 频道等各大平台
-- Newsletters
-- ......
+![moderncss](https://images-1252557999.file.myqcloud.com/uPic/moderncss.jpg) 
 
-![data-engineer-handbook](https://images-1252557999.file.myqcloud.com/uPic/data-engineer-handbook.png) 
+### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
 
-### [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)
+该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
 
-从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 `PDF`:
+![](https://images-1252557999.file.myqcloud.com/uPic/ub1GLI.jpg) 
 
-![what_are_embeddings](https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg) 
+### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
 
-### [Midjourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
+《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
 
-一份 `Midjourney` 学习教程：
-
-![midjourney-learning-path](https://images-1252557999.file.myqcloud.com/uPic/midjourney-learning-path.jpg) 
+![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
 
 ## 🕸 网站 
 
-### [emojicode](https://www.emojicode.org/)
+### [iconbuddy](https://iconbuddy.app/svg-icons)
 
-这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
+`SVG` 图标检索网站（目前有18万图标），可简单编辑和下载：
 
-![emojicode](https://images-1252557999.file.myqcloud.com/uPic/emojicode.jpg)
+![iconbuddy](https://images-1252557999.file.myqcloud.com/uPic/iconbuddy.jpg) 
 
-现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
+### [123apps](https://123apps.com/cn/)
 
-### [chinesenewyear](https://chinesenewyear.net/)
+网站提供了一系列的小工具，包含分类：
 
-国外一个专门介绍农历春节的网站，包含了非常多关于春节的介绍信息：
+- 视频工具
+- 音频工具
+- PDF 工具
+- 转换器
+- ......
 
-![chinesenewyear](https://images-1252557999.file.myqcloud.com/uPic/chinesenewyear.jpg) 
+![123apps](https://images-1252557999.file.myqcloud.com/uPic/123apps.jpg) 
 
-### [极简番茄](https://t.kuaitu.cc/)
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
 
-极简优雅的番茄时钟软件，适合做屏保：
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
 
-![kuaitu](https://images-1252557999.file.myqcloud.com/uPic/kuaitu.jpg) 
+![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
 
 ## ✍️ 说明
 
