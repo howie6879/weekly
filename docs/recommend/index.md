@@ -5,116 +5,94 @@
 
 ## 🎯 项目 
 
-### [amprobe](https://github.com/amuluze/amprobe)
+### [KubePi](https://github.com/KubeOperator/KubePi)
 
-`Amprobe` 是一款轻量级主机及 `Docker` 容器监控工具，它可以轻松的帮助我们完成以下几方面的工作：
+简单易用的开源 Kubernetes 可视化管理面板，允许管理员导入多个 Kubernetes 集群，并且通过权限控制，将不同 cluster、namespace 的权限分配给指定用户。
 
-- 监控主机的 CPU、内存、磁盘 IO、网络 IO情况
-- 监控部署于主机上 Docker 容器的运行状态、CPU、内存使用情况
-- 实时查看 Docker 容器的日志，并支持日志下载
-- 针对管理员用户提供简单的 Docker 容器、镜像运维操作
-- 操作日志记录
+它允许开发人员管理 Kubernetes 集群中运行的应用程序并对其进行故障排查，供开发人员更好地处理 Kubernetes 集群中的复杂性。 
 
-暂时还不支持多机器关联，期待作者更新：
+### [coolify](https://github.com/coollabsio/coolify)
 
-![amprobe](https://images-1252557999.file.myqcloud.com/uPic/amprobe.png) 
+> `Vercel Netlify Heroku` 开源替代品
 
-### [nginx-ui](https://github.com/0xJacky/nginx-ui)
+![coolify](https://images-1252557999.file.myqcloud.com/uPic/coolify.jpeg)
 
-Nginx 后台管理UI：
+还可以使用这个项目：[dokploy](https://github.com/dokploy/dokploy)
 
-- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
-- 在线 ChatGPT 助理
-- 一键申请和自动续签 Lets encrypt 证书
-- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
-- 在线查看 Nginx 日志
-- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
-- 保存配置后自动测试配置文件并重载 Nginx
-- 基于网页浏览器的高级命令行终端
-- 支持深色模式
-- 自适应网页设计
+![dokploy](https://images-1252557999.file.myqcloud.com/uPic/dokploy.png) 
 
-![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
+### [dockge](https://github.com/louislam/dockge)
 
-### [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
+简单易用且漂亮的 `Docker Compose` 管理工具，`Docker` 部署，全平台支持：
 
-作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。
+![dockge](https://images-1252557999.file.myqcloud.com/uPic/dockge.jpg)
 
-项目列表如下：
-
-![bigdata_analyse](https://images-1252557999.file.myqcloud.com/uPic/klC8AA.png) 
+`Portainer` 也是不错的选择。 
 
 ## 🤖 软件 
 
-### [anx-reader](https://github.com/Anxcye/anx-reader)
+### [Screenity](https://github.com/alyssaxuu/screenity)
 
-安读是一款专注于阅读的应用，不包含任何在线推广内容，它可以帮助你更专注于阅读，提高阅读效率：
+🎥 免费且隐私友好的录屏工具，功能特性使用无限制：
 
-- 自动记录阅读进度，每次打开可以回到上次的进度。
-- 丰富且可自定义的阅读配色，让您的阅读更舒适。
-- 丰富的阅读设置，包括字号、行间距、字间距等，让阅读更轻松。
-- 随时在书中划线，多种样式和配色，随时回顾。
-- 强大的阅读统计，记录您的每一次阅读。
-- 丰富的阅读笔记功能，让您的阅读更深入。
-- 安读可自定义多种色彩主题，满足您的不同需求。
-- 想在夜晚更舒适的阅读？安读可以适配系统 深/浅 色模式，或手动切换。
-- 安读现已支持多语言（中、英），自动适配系统语言，亦可手动选择。
+![Screenity](https://images-1252557999.file.myqcloud.com/uPic/Screenity.png)
 
-![anx-reader](https://images-1252557999.file.myqcloud.com/uPic/anx-reader.jpg) 
+还有其他推荐的：
 
-### [Later](https://github.com/alyssaxuu/later)
+- https://github.com/lihaoyun6/QuickRecorder
+- https://github.com/wulkano/Kap 
 
-一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
+### [pho](https://github.com/fregie/pho)
 
-![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
+一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
 
-### [dockeye](https://github.com/vv9k/dockeye)
+![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
 
-基于`Rust`编写的`Docker`界面管理工具：
+### [spotube](https://github.com/KRTirtho/spotube)
 
-![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
+`Spotube` 可用于所有主要平台，包括 `Linux、Android、Windows & MacOS`，它利用 `Spotify` 和 `YouTube` 的公共 `API` 作为音频源，不需要 `Spotify Premium`，没有广告，可下载歌曲，实时同步歌词，支持匿名或访客登录：
+
+![spotube](https://images-1252557999.file.myqcloud.com/uPic/spotube.jpg) 
 
 ## 👀 资料 
 
-### [Local-LLM-User-Guideline](https://github.com/xue160709/Local-LLM-User-Guideline/blob/main/README-zh.md)：
+### [note-architect](https://zq99299.github.io/note-architect/hc/)
 
-本地 LLM 使用指南，这个构建你自己的 AI 辅助编码助手项目也不错，参考玩玩👀[build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant)：介绍如何 DIY 一个端到端（从 IDE 插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 `GitHub Copilot、JetBrains AI Assistant、AutoDev` 等。 
+高并发系统设计 40 问，一份架构师学习笔记：
 
-### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
+![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
 
-本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
+### [data_compression_course](https://github.com/jermp/data_compression_course)
 
-- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
-- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
-- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
+由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
 
-![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
+### [Student-resources](https://github.com/ivmm/Student-resources)
 
-### [数据科学学习指南](https://github.com/amitness/learning)
-
-数据科学学习指南，帮你每天提升1%的数据科学技能。主要包含电子表格与数据库的数据处理、命令行工具使用、数据分析与可视化技巧、论文阅读方法，各类模型与算法讲解等知识，另外还有商业思维培养、写作与沟通技巧等非技术类内容。
-
-![data-learning](https://images-1252557999.file.myqcloud.com/uPic/tlkHzW.png) 
+本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
 
 ## 🕸 网站 
 
-### [warp.dev](https://www.warp.dev/)
+### [chuhai.tools](https://chuhai.tools/)
 
-一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
+独立开发者出海技术栈和工具集合:
 
-![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
+![chuhai](https://images-1252557999.file.myqcloud.com/uPic/chuhai.jpg) 
 
-### [sysmini](https://www.sysmini.com/)
+### [lexica.art](https://lexica.art/)
 
-站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
+可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
 
-![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
+![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
 
-### [musicforprogramming](https://musicforprogramming.net/latest/)
+### [myfirstnft](https://myfirstnft.info/)
 
-非常极客的背景音乐网站：
+我的第一个NFT，在这个网站，你可以：
 
-![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
+- 理解NFT的价值
+- 铸造一个免费的NFT
+- 了解Web3.0
+
+![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
 
 ## ✍️ 说明
 
