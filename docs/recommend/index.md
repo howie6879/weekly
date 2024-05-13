@@ -5,99 +5,116 @@
 
 ## 🎯 项目 
 
-### [stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
+### [amprobe](https://github.com/amuluze/amprobe)
 
-基于 `Docker` 的一站式 `Stable Diffusion`（最近很火的 AI 文字生成图片的模型）安装包，可提供以下多个 `UI` 可选：
+`Amprobe` 是一款轻量级主机及 `Docker` 容器监控工具，它可以轻松的帮助我们完成以下几方面的工作：
 
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
-- [sygil-webui](https://github.com/Sygil-Dev/sygil-webui)
+- 监控主机的 CPU、内存、磁盘 IO、网络 IO情况
+- 监控部署于主机上 Docker 容器的运行状态、CPU、内存使用情况
+- 实时查看 Docker 容器的日志，并支持日志下载
+- 针对管理员用户提供简单的 Docker 容器、镜像运维操作
+- 操作日志记录
 
-![sd_ui_docker](https://images-1252557999.file.myqcloud.com/uPic/sd_ui_docker.jpg) 
+暂时还不支持多机器关联，期待作者更新：
 
-### [greppo](https://github.com/greppo-io/greppo)
+![amprobe](https://images-1252557999.file.myqcloud.com/uPic/amprobe.png) 
 
-快速轻松地构建部署地理空间应用程序：
+### [nginx-ui](https://github.com/0xJacky/nginx-ui)
 
-![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
+Nginx 后台管理UI：
 
-### [xiaomusic](https://github.com/hanxi/xiaomusic)
+- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
+- 在线 ChatGPT 助理
+- 一键申请和自动续签 Lets encrypt 证书
+- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
+- 在线查看 Nginx 日志
+- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
+- 保存配置后自动测试配置文件并重载 Nginx
+- 基于网页浏览器的高级命令行终端
+- 支持深色模式
+- 自适应网页设计
 
-使用小爱/红米音箱播放音乐，音乐使用 `yt-dlp` 下载：
+![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
 
-- 播放歌曲
-- 播放歌曲+歌名 比如：播放歌曲周杰伦晴天
-- 下一首
-- 单曲循环
-- 全部循环
+### [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
 
-支持 `Docker` 部署和简单管理界面。 
+作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。
+
+项目列表如下：
+
+![bigdata_analyse](https://images-1252557999.file.myqcloud.com/uPic/klC8AA.png) 
 
 ## 🤖 软件 
 
-### [uncle-novel](https://github.com/unclezs/uncle-novel)
+### [anx-reader](https://github.com/Anxcye/anx-reader)
 
-一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
+安读是一款专注于阅读的应用，不包含任何在线推广内容，它可以帮助你更专注于阅读，提高阅读效率：
 
-![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
+- 自动记录阅读进度，每次打开可以回到上次的进度。
+- 丰富且可自定义的阅读配色，让您的阅读更舒适。
+- 丰富的阅读设置，包括字号、行间距、字间距等，让阅读更轻松。
+- 随时在书中划线，多种样式和配色，随时回顾。
+- 强大的阅读统计，记录您的每一次阅读。
+- 丰富的阅读笔记功能，让您的阅读更深入。
+- 安读可自定义多种色彩主题，满足您的不同需求。
+- 想在夜晚更舒适的阅读？安读可以适配系统 深/浅 色模式，或手动切换。
+- 安读现已支持多语言（中、英），自动适配系统语言，亦可手动选择。
 
-### [crow-translate](https://github.com/crow-translate/crow-translate)
+![anx-reader](https://images-1252557999.file.myqcloud.com/uPic/anx-reader.jpg) 
 
-一个简单而轻巧的翻译器，可以使用 `Google、Yandex Bing、LibreTranslate&Lingva` 来翻译和朗读文本：
+### [Later](https://github.com/alyssaxuu/later)
 
-![crow-translate](https://images-1252557999.file.myqcloud.com/uPic/crow-translate.png) 
+一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
 
-### [my-tv](https://github.com/lizongying/my-tv)
+![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
 
-安卓电视直播软件，内置直播源：
+### [dockeye](https://github.com/vv9k/dockeye)
 
-![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
+基于`Rust`编写的`Docker`界面管理工具：
+
+![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
 
 ## 👀 资料 
 
-### [moderncss](https://moderncss.dev/)
+### [Local-LLM-User-Guideline](https://github.com/xue160709/Local-LLM-User-Guideline/blob/main/README-zh.md)：
 
-一份现代 `CSS` 教程，偏向有 `CSS` 的基础的前端开发者：
+本地 LLM 使用指南，这个构建你自己的 AI 辅助编码助手项目也不错，参考玩玩👀[build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant)：介绍如何 DIY 一个端到端（从 IDE 插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 `GitHub Copilot、JetBrains AI Assistant、AutoDev` 等。 
 
-![moderncss](https://images-1252557999.file.myqcloud.com/uPic/moderncss.jpg) 
+### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
 
-### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
+本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
 
-该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
+- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
+- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
+- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
 
-![](https://images-1252557999.file.myqcloud.com/uPic/ub1GLI.jpg) 
+![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
 
-### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
+### [数据科学学习指南](https://github.com/amitness/learning)
 
-《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
+数据科学学习指南，帮你每天提升1%的数据科学技能。主要包含电子表格与数据库的数据处理、命令行工具使用、数据分析与可视化技巧、论文阅读方法，各类模型与算法讲解等知识，另外还有商业思维培养、写作与沟通技巧等非技术类内容。
 
-![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
+![data-learning](https://images-1252557999.file.myqcloud.com/uPic/tlkHzW.png) 
 
 ## 🕸 网站 
 
-### [iconbuddy](https://iconbuddy.app/svg-icons)
+### [warp.dev](https://www.warp.dev/)
 
-`SVG` 图标检索网站（目前有18万图标），可简单编辑和下载：
+一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
 
-![iconbuddy](https://images-1252557999.file.myqcloud.com/uPic/iconbuddy.jpg) 
+![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
 
-### [123apps](https://123apps.com/cn/)
+### [sysmini](https://www.sysmini.com/)
 
-网站提供了一系列的小工具，包含分类：
+站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
 
-- 视频工具
-- 音频工具
-- PDF 工具
-- 转换器
-- ......
+![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
 
-![123apps](https://images-1252557999.file.myqcloud.com/uPic/123apps.jpg) 
+### [musicforprogramming](https://musicforprogramming.net/latest/)
 
-### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+非常极客的背景音乐网站：
 
-人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
-
-![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
+![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
 
 ## ✍️ 说明
 
