@@ -23,9 +23,8 @@ document.addEventListener("DOMContentLoaded", function () {
   // link.href = "https://www.fre123.com/weekly?from=weekly";
   // link.textContent = "🔥 老胡精选周刊大全>>>";
 
-  link.href =
-    "https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=c3tftfri";
-  link.textContent = "👉 阿里云 ECS 活动，99/年，新老共享>>>";
+  link.href = "https://www.quark.so?ref=weekly";
+  link.textContent = "🔥 资源全面&无广告的资源搜索引擎>>>";
 
   link.target = "_blank";
   popup.appendChild(link);
