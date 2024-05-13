@@ -5,94 +5,101 @@
 
 ## 🎯 项目 
 
-### [KubePi](https://github.com/KubeOperator/KubePi)
+### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 
-简单易用的开源 Kubernetes 可视化管理面板，允许管理员导入多个 Kubernetes 集群，并且通过权限控制，将不同 cluster、namespace 的权限分配给指定用户。
+提供多款 SS 规则，拥有强劲的广告过滤功能：
 
-它允许开发人员管理 Kubernetes 集群中运行的应用程序并对其进行故障排查，供开发人员更好地处理 Kubernetes 集群中的复杂性。 
+![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
 
-### [coolify](https://github.com/coollabsio/coolify)
+### [picx](https://github.com/XPoet/picx "picx")
 
-> `Vercel Netlify Heroku` 开源替代品
+`PicX` 是一款基于 `GitHub API` 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务：
 
-![coolify](https://images-1252557999.file.myqcloud.com/uPic/coolify.jpeg)
+![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg)
 
-还可以使用这个项目：[dokploy](https://github.com/dokploy/dokploy)
+类似项目：
 
-![dokploy](https://images-1252557999.file.myqcloud.com/uPic/dokploy.png) 
+- [telegraph](https://github.com/0-RTT/telegraph "telegraph")
+- [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image "Telegraph-Image"):免费图片托管解决方案，`Flickr/imgur` 替代品
+- [rao-pics](https://github.com/meetqy/rao-pics "rao-pics"):利用 `Eagle APP` 快速搭建图片站、
 
-### [dockge](https://github.com/louislam/dockge)
+但是老胡建议不要滥用，这种也不稳定，自己偶尔测试需要可以使用一下，推荐出来也是让朋友们多个选择。我推荐自建图床：
 
-简单易用且漂亮的 `Docker Compose` 管理工具，`Docker` 部署，全平台支持：
+- [lsky-pro](https://github.com/lsky-org/lsky-pro "lsky-pro")：兰空图床
+- [EasyImages2.0](https://github.com/icret/EasyImages2.0 "EasyImages2.0")：简单图床 - 一款功能强大无数据库的图床 2.0 版
+- [PicList](https://github.com/Kuingsmile/PicList "PicList")：图片上传 云存储管理
+- [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed "quickly-picture-bed")：轻快图床：使用 nestjs+vue3.x+ts+vite 开发的在线图床系统，内置功能包括图片上传、图片管理、存储桶管理、相册管理、插件市场、知识库管理、数据统计等功能 
 
-![dockge](https://images-1252557999.file.myqcloud.com/uPic/dockge.jpg)
+### [ladder](https://github.com/everywall/ladder)
 
-`Portainer` 也是不错的选择。 
+[12ft.io](https://12ft.io/) 的开源替代品，助你越过付费墙，也可以给你干净的阅读体验。
+
+![ladder](https://images-1252557999.file.myqcloud.com/uPic/ladder.jpg) 
 
 ## 🤖 软件 
 
-### [Screenity](https://github.com/alyssaxuu/screenity)
+### [腾讯交互翻译 TranSmart](https://transmart.qq.com/zh-CN/intro)
 
-🎥 免费且隐私友好的录屏工具，功能特性使用无限制：
+腾讯交互翻译融合了腾讯人工智能实验室自研的交互式机器翻译、神经网络机器翻译、 统计机器翻译、语义理解、信息检索等技术，帮助用户更快、更好地完成翻译任务。
 
-![Screenity](https://images-1252557999.file.myqcloud.com/uPic/Screenity.png)
+包含网页、跨平台客户端、插件等使用形式，翻译质量也还不错，诚意满满：
 
-还有其他推荐的：
+![TranSmart](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-10-16_09-57-06.jpg) 
 
-- https://github.com/lihaoyun6/QuickRecorder
-- https://github.com/wulkano/Kap 
+### [podman-desktop](https://github.com/containers/podman-desktop)
 
-### [pho](https://github.com/fregie/pho)
+ `Podman` 的桌面版：
+ 
+ ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
 
-一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
+### [wowtab](https://wowtab.microsoft.com/)
 
-![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
+微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：
 
-### [spotube](https://github.com/KRTirtho/spotube)
-
-`Spotube` 可用于所有主要平台，包括 `Linux、Android、Windows & MacOS`，它利用 `Spotify` 和 `YouTube` 的公共 `API` 作为音频源，不需要 `Spotify Premium`，没有广告，可下载歌曲，实时同步歌词，支持匿名或访客登录：
-
-![spotube](https://images-1252557999.file.myqcloud.com/uPic/spotube.jpg) 
+![wowtab](https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg) 
 
 ## 👀 资料 
 
-### [note-architect](https://zq99299.github.io/note-architect/hc/)
+### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
 
-高并发系统设计 40 问，一份架构师学习笔记：
+这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
 
-![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
+该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
 
-### [data_compression_course](https://github.com/jermp/data_compression_course)
+![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
 
-由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
+### [stevejobsarchive](https://book.stevejobsarchive.com/)
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+![stevejobsarchive_zh](https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg)
+如果你需要翻译版，可以在公众号后台联系我。 
+
+### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+
+学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
+
+![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
 
 ## 🕸 网站 
 
-### [chuhai.tools](https://chuhai.tools/)
+### [Kimi](https://kimi.moonshot.cn/ "Kimi")
 
-独立开发者出海技术栈和工具集合:
+当前挺火的国产 AI 大模型问答网站，免费使用，已经支持 200 万字上下文：
 
-![chuhai](https://images-1252557999.file.myqcloud.com/uPic/chuhai.jpg) 
+![kimi](https://images-1252557999.file.myqcloud.com/uPic/kimi.jpg) 
 
-### [lexica.art](https://lexica.art/)
+### [regex.ai](https://regex.ai/)
 
-可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
+`regex.ai` 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：
 
-![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
+![regex_ai](https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg) 
 
-### [myfirstnft](https://myfirstnft.info/)
+### [LLM Visualization](https://bbycroft.net/llm)
 
-我的第一个NFT，在这个网站，你可以：
+将 GPT LLM 大模型进行可视化分析：
 
-- 理解NFT的价值
-- 铸造一个免费的NFT
-- 了解Web3.0
-
-![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
+![bbycroft](https://images-1252557999.file.myqcloud.com/uPic/bbycroft.jpg) 
 
 ## ✍️ 说明
 
