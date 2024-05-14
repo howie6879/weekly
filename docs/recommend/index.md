@@ -5,101 +5,86 @@
 
 ## 🎯 项目 
 
-### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
+### [notion-avatar](https://github.com/Mayandev/notion-avatar)
 
-提供多款 SS 规则，拥有强劲的广告过滤功能：
+如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
 
-![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
+![notion-avatar](https://images-1252557999.file.myqcloud.com/uPic/OrjQK2.jpg) 
 
-### [picx](https://github.com/XPoet/picx "picx")
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-`PicX` 是一款基于 `GitHub API` 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务：
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg)
+ ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
 
-类似项目：
+### [milvus](https://github.com/milvus-io/milvus)
 
-- [telegraph](https://github.com/0-RTT/telegraph "telegraph")
-- [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image "Telegraph-Image"):免费图片托管解决方案，`Flickr/imgur` 替代品
-- [rao-pics](https://github.com/meetqy/rao-pics "rao-pics"):利用 `Eagle APP` 快速搭建图片站、
+`Milvus` 是一款开源的特征向量搜索引擎：
 
-但是老胡建议不要滥用，这种也不稳定，自己偶尔测试需要可以使用一下，推荐出来也是让朋友们多个选择。我推荐自建图床：
-
-- [lsky-pro](https://github.com/lsky-org/lsky-pro "lsky-pro")：兰空图床
-- [EasyImages2.0](https://github.com/icret/EasyImages2.0 "EasyImages2.0")：简单图床 - 一款功能强大无数据库的图床 2.0 版
-- [PicList](https://github.com/Kuingsmile/PicList "PicList")：图片上传 云存储管理
-- [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed "quickly-picture-bed")：轻快图床：使用 nestjs+vue3.x+ts+vite 开发的在线图床系统，内置功能包括图片上传、图片管理、存储桶管理、相册管理、插件市场、知识库管理、数据统计等功能 
-
-### [ladder](https://github.com/everywall/ladder)
-
-[12ft.io](https://12ft.io/) 的开源替代品，助你越过付费墙，也可以给你干净的阅读体验。
-
-![ladder](https://images-1252557999.file.myqcloud.com/uPic/ladder.jpg) 
+![milvus](https://images-1252557999.file.myqcloud.com/uPic/milvus.jpg) 
 
 ## 🤖 软件 
 
-### [腾讯交互翻译 TranSmart](https://transmart.qq.com/zh-CN/intro)
+### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
 
-腾讯交互翻译融合了腾讯人工智能实验室自研的交互式机器翻译、神经网络机器翻译、 统计机器翻译、语义理解、信息检索等技术，帮助用户更快、更好地完成翻译任务。
+跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
 
-包含网页、跨平台客户端、插件等使用形式，翻译质量也还不错，诚意满满：
+![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
 
-![TranSmart](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-10-16_09-57-06.jpg) 
+### [Bluesnooze](https://github.com/odlp/bluesnooze)
 
-### [podman-desktop](https://github.com/containers/podman-desktop)
+使用 `Bluesnooze`，蓝牙连接会在 `Mac` 睡眠时关闭，并在 `Mac` 唤醒时打开:
 
- `Podman` 的桌面版：
- 
- ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
+![bluesnooze](https://images-1252557999.file.myqcloud.com/uPic/bluesnooze.png) 
 
-### [wowtab](https://wowtab.microsoft.com/)
+### [Bangumi](https://github.com/czy0729/Bangumi)
 
-微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：
+一个基于 `React-Native` 的无广告、以爱好为驱动、不以盈利为目的 [Bangumi](https://bgm.tv/) 第三方客户端，简单比喻就是专门做 `ACG` 的类似豆瓣的应用：
 
-![wowtab](https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg) 
+![Bangumi](https://images-1252557999.file.myqcloud.com/uPic/Bangumi.jpg) 
 
 ## 👀 资料 
 
-### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
+### [LLMBook-zh](https://llmbook-zh.github.io/)
 
-这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
+大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
 
-该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
+![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
 
-![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
+### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
 
-### [stevejobsarchive](https://book.stevejobsarchive.com/)
+![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
-乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：
+### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
 
-![stevejobsarchive_zh](https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg)
-如果你需要翻译版，可以在公众号后台联系我。 
+这个项目收集了黑五打折的App和课程：
 
-### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
-
-学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
-
-![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
+![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
 
 ## 🕸 网站 
 
-### [Kimi](https://kimi.moonshot.cn/ "Kimi")
+### [quickref](https://quickref.me/)
 
-当前挺火的国产 AI 大模型问答网站，免费使用，已经支持 200 万字上下文：
+开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
 
-![kimi](https://images-1252557999.file.myqcloud.com/uPic/kimi.jpg) 
+![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
 
-### [regex.ai](https://regex.ai/)
+### [quanxin](https://quanxin.org/)
 
-`regex.ai` 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：
+快速、优雅、免费的在线工具，比如：
 
-![regex_ai](https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg) 
+- [IP地址查询](https://quanxin.org/ip)
+- [代码截图工具](https://quanxin.org/code-snapshot)
+- [HTTP 状态码参考表](https://quanxin.org/http-status-code)
+- [Favicon ico图标生成器](https://quanxin.org/favicon)
 
-### [LLM Visualization](https://bbycroft.net/llm)
+![](https://images-1252557999.file.myqcloud.com/uPic/i6hqlr.png) 
 
-将 GPT LLM 大模型进行可视化分析：
+### [书葵網](https://www.shukui.net/)
 
-![bbycroft](https://images-1252557999.file.myqcloud.com/uPic/bbycroft.jpg) 
+读者可以在此查询本馆的图书、期刊、古籍等信息。检索条件会自动匹配书名、作者、出版社、ISBN搜索，返回最优匹配结果：
+
+![shukui](https://images-1252557999.file.myqcloud.com/uPic/shukui.jpg) 
 
 ## ✍️ 说明
 
