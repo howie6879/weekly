@@ -5,86 +5,85 @@
 
 ## 🎯 项目 
 
-### [notion-avatar](https://github.com/Mayandev/notion-avatar)
+### [devika](https://github.com/stitionai/devika "devika")
 
-如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
+Devika 是一名 Agentic AI 软件工程师，可以理解高级人类指令并将其分解到各个步骤，然后研究相关信息，并编写代码以实现给定的目标。
 
-![notion-avatar](https://images-1252557999.file.myqcloud.com/uPic/OrjQK2.jpg) 
+![devika](https://images-1252557999.file.myqcloud.com/uPic/devika.png)
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
+Devika 旨在成为 Cognition AI 的 Devin 的竞争性开源替代品。 
 
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+### [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
 
- ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
+`libretranslate` 是一个免费且开源的机器翻译API项目，完全自主托管。与其他API不同，它不依赖于像谷歌或Azure这样的专有提供商来进行翻译。相反，它的翻译引擎由开源Argos Translate库驱动：
 
-### [milvus](https://github.com/milvus-io/milvus)
+![libretranslate](https://images-1252557999.file.myqcloud.com/uPic/libretranslate.jpg) 
 
-`Milvus` 是一款开源的特征向量搜索引擎：
+### [Navidrome](https://github.com/navidrome/navidrome)
 
-![milvus](https://images-1252557999.file.myqcloud.com/uPic/milvus.jpg) 
+`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
+
+![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
 
 ## 🤖 软件 
 
-### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
+### [legado](https://github.com/gedoor/legado)
 
-跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
 
-### [Bluesnooze](https://github.com/odlp/bluesnooze)
+![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
 
-使用 `Bluesnooze`，蓝牙连接会在 `Mac` 睡眠时关闭，并在 `Mac` 唤醒时打开:
+### mizu
 
-![bluesnooze](https://images-1252557999.file.myqcloud.com/uPic/bluesnooze.png) 
+微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
 
-### [Bangumi](https://github.com/czy0729/Bangumi)
+![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
 
-一个基于 `React-Native` 的无广告、以爱好为驱动、不以盈利为目的 [Bangumi](https://bgm.tv/) 第三方客户端，简单比喻就是专门做 `ACG` 的类似豆瓣的应用：
+### [chatbox](https://github.com/Bin-Huang/chatbox)
 
-![Bangumi](https://images-1252557999.file.myqcloud.com/uPic/Bangumi.jpg) 
+开源的 `ChatGPT API (OpenAI API)` 桌面客户端，`Prompt` 的调试与管理工具，支持 `Windows、Mac 和 Linux`：
+
+![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.png) 
 
 ## 👀 资料 
 
-### [LLMBook-zh](https://llmbook-zh.github.io/)
+### [data_compression_course](https://github.com/jermp/data_compression_course)
 
-大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
+由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
 
-![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
+### [papers-we-love](https://github.com/papers-we-love/papers-we-love)
 
-### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
+项目收集了计算机科学领域值得一读的论文：
 
-![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
+![papers-we-love](https://images-1252557999.file.myqcloud.com/uPic/FiYqA1.png)
 
-### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
+还有一个开发者列出了他喜欢的论文，具体见：[my-favorite-papers](https://ordep.dev/posts/my-favorite-papers)，其中包括了LSM Tree， Kafka， Zookeeper，数字签名，等一些很经典的分布式领域的论文。 
 
-这个项目收集了黑五打折的App和课程：
+### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
 
-![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
+深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
 
 ## 🕸 网站 
 
-### [quickref](https://quickref.me/)
+### [aitdk](https://aitdk.com/zh-CN/)
 
-开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
+AI标题、描述和关键词生成器，为您的网站生成SEO友好的标题、描述和关键词：
 
-![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
+![aitdk](https://images-1252557999.file.myqcloud.com/uPic/aitdk.jpg) 
 
-### [quanxin](https://quanxin.org/)
+### [transhumans](https://www.transhumans.xyz/)
 
-快速、优雅、免费的在线工具，比如：
+免费可商用的人物插图：
 
-- [IP地址查询](https://quanxin.org/ip)
-- [代码截图工具](https://quanxin.org/code-snapshot)
-- [HTTP 状态码参考表](https://quanxin.org/http-status-code)
-- [Favicon ico图标生成器](https://quanxin.org/favicon)
+![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/i6hqlr.png) 
+### [pandagpt.io](https://www.pandagpt.io/)
 
-### [书葵網](https://www.shukui.net/)
+基于  `ChatGPT` 的 `AI` 文档机器人：
 
-读者可以在此查询本馆的图书、期刊、古籍等信息。检索条件会自动匹配书名、作者、出版社、ISBN搜索，返回最优匹配结果：
-
-![shukui](https://images-1252557999.file.myqcloud.com/uPic/shukui.jpg) 
+![pandagpt](https://images-1252557999.file.myqcloud.com/uPic/pandagpt.jpg) 
 
 ## ✍️ 说明
 
