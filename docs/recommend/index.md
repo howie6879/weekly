@@ -5,104 +5,100 @@
 
 ## 🎯 项目 
 
-### [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
+### [Feeddd](https://github.com/feeddd/feeds)
 
-将视频从一种语言翻译为另一种语言，并添加配音，这个最近火出圈了：
+![Feeddd](https://images-1252557999.file.myqcloud.com/uPic/5a9np8.jpg)
 
-![pyvideotrans](https://images-1252557999.file.myqcloud.com/uPic/pyvideotrans.jpg) 
+一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
 
-### [gorse](https://github.com/zhenghaoz/gorse)
+### [markdown-nice](https://github.com/mdnice/markdown-nice)
 
-用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
+有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
 
-![gorse](https://images-1252557999.file.myqcloud.com/uPic/nP2kgE.jpg)
+> 支持主题设计的 Markdown 编辑器，让排版变 Nice
 
-作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
+你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
 
-![gitrec](https://images-1252557999.file.myqcloud.com/uPic/jAuEdM.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
 
-### [form-create](https://github.com/xaboy/form-create)
+官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
 
-强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
 
-![form-create](https://images-1252557999.file.myqcloud.com/uPic/demo-live3.gif) 
+### [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
+
+用 `Express` 和 `Vue3` 搭建的 `ChatGPT` 演示网页：
+
+![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
 
 ## 🤖 软件 
 
-### [TTime](https://github.com/inkTimeRecord/TTime)
+### [tvapk](https://github.com/Archmage83/tvapk)
 
-🚀 一款简洁高效的跨平台输入、截图、划词翻译软件：
+收集各大 `AndroidTV` 的 `apk` 应用，可免费看各种vip和国外电影电视：
 
-![TTime](https://images-1252557999.file.myqcloud.com/uPic/TTime.jpg)
+![tvapk](https://images-1252557999.file.myqcloud.com/uPic/tvapk.png) 
 
-[Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#bob) 算是这类软件的鼻祖，之前我也推荐过 [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=pot#pot-desktop) ，大家酌情选择即可。 
+### [miru-app](https://github.com/miru-project/miru-app)
 
-### [NetNewsWire](https://netnewswire.com/)
+免费、开源的 支持视频、漫画、小说扩展源的多功能应用，支持 `Android、Windows、Web`：
 
-适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
+- 支持 windows,android
+- 友好的扩展编写支持、调试日志
+- 扩展使用 JavaScript 语言，开发简单
+- 支持自定义扩展仓库
+- 官方扩展仓库提供视频源，无需编写任何扩展即可使用
+- 支持在线观看多种视频、漫画、小说源，实现多平台的统一
+- 统一系统 UI 的设计语言
+- 自动获取 TMDB 元数据信息
 
-- 支持 Safari 扩展
-- 订阅源下载
-- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
-- 主题设置
-- 多窗口支持
+![657c8025be23f](https://img.fre123.com/i/2023/12/16/657c8025be23f.jpg) 
 
-![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
+### [XcodesApp](https://github.com/XcodesOrg/XcodesApp)
 
-### [downkyi](https://github.com/leiurayer/downkyi)
+通过鼠标点击这种简单方式，快速安装和切换多个版本的 `Xcode`：
 
-Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
-
-![downkyi](https://images-1252557999.file.myqcloud.com/uPic/downkyi.png) 
+![XcodesApp](https://images-1252557999.file.myqcloud.com/uPic/XcodesApp.jpg) 
 
 ## 👀 资料 
 
-### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
+### [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)
 
-本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
+`eBPF` 开发者教程与知识库：通过小工具和示例一步步学习 `eBPF`，包含性能、网络、安全等多种应用场景：
 
-- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
-- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
-- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
+![bpf-developer-tutorial](https://images-1252557999.file.myqcloud.com/uPic/bpf-developer-tutorial.jpg) 
 
-![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
+《Mastering GO》中文译本，《玩转 GO》：
 
-[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
-**可惜永远都不会再更新了，默哀！**
+### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
 
-![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
-
-### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
-
-一本基于`python&matplotlib`进行科学可视化的开源书籍：
-
-![scientific-visualization-book](https://images-1252557999.file.myqcloud.com/uPic/scientific-visualization-book.jpg) 
+非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
 
 ## 🕸 网站 
 
-### [aicodeconvert](https://aicodeconvert.com/)
+### [freelancethings](https://www.freelancethings.co/)
 
-[开源](https://github.com/JustAIGithub/AI-Code-Convert)的的 `AI` 代码转换工具，基于 `GPT` 实现：
+为自由职业者精心挑选的资源，涉及到社区、工具、文章、书籍、视频等，这些都帮助你在自由职业之旅中获得更多帮助，订阅后每周发送到您的收件箱:
 
-- 自然语言转代码，描述需求就生成对应的代码
-- 把代码一键转换为另一种代码语言实现
+![freelancethings](https://images-1252557999.file.myqcloud.com/uPic/freelancethings.jpg) 
 
-![aicodeconvert](https://images-1252557999.file.myqcloud.com/uPic/aicodeconvert.jpg) 
+### [zerogpt](https://www.zerogpt.com/)
 
-### [gooddesign](https://www.gooddesign.tools/)
+由 `ZeroGPT` 开发的 `GPT-4，ChatGPT` AI 内容检测器：
 
-优质设计师工具导航网站：
+![zerogpt](https://images-1252557999.file.myqcloud.com/uPic/zerogpt.jpg) 
 
-![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
+### [wanqu.co](https://www.wanqu.co/)
 
-### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
+湾区日报. 关注创业，互联网，技术。就像是你远方的老朋友每天推荐几篇优质英文文章，一起每天进步一点点:
 
-这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
-
-![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
+![wanqu](https://images-1252557999.file.myqcloud.com/uPic/wanqu.jpg) 
 
 ## ✍️ 说明
 
