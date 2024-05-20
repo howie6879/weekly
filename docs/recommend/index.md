@@ -5,100 +5,101 @@
 
 ## 🎯 项目 
 
-### [Feeddd](https://github.com/feeddd/feeds)
+### [py12306](https://github.com/pjialin/py12306)
 
-![Feeddd](https://images-1252557999.file.myqcloud.com/uPic/5a9np8.jpg)
+🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理：
 
-一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
+![py12306](https://images-1252557999.file.myqcloud.com/uPic/py12306.jpg)
 
-### [markdown-nice](https://github.com/mdnice/markdown-nice)
+如果实在抢不到，试下这个项目通过补票或者多买一站来解决：[12306spy](https://github.com/elroy93/12306spy)，这类项目每到假期就会火一把。 
 
-有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
+### [webvm](https://github.com/leaningtech/webvm)
 
-> 支持主题设计的 Markdown 编辑器，让排版变 Nice
+基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：[webvm.io](https://webvm.io/)。
 
-你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
+![webvm](https://images-1252557999.file.myqcloud.com/uPic/1yRQBe.png)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
+详细的介绍文章见：[WebVM: server-less x86 virtual machines in the browser](https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361)。 
 
-官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
+### [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt)
 
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
+🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 
-### [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
-
-用 `Express` 和 `Vue3` 搭建的 `ChatGPT` 演示网页：
-
-![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
+![feishu-chatgpt](https://images-1252557999.file.myqcloud.com/uPic/feishu-chatgpt.png) 
 
 ## 🤖 软件 
 
-### [tvapk](https://github.com/Archmage83/tvapk)
+### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
 
-收集各大 `AndroidTV` 的 `apk` 应用，可免费看各种vip和国外电影电视：
+这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
 
-![tvapk](https://images-1252557999.file.myqcloud.com/uPic/tvapk.png) 
+- SSH连接操作
+- Jupyter支持
+- Code Server（Web版VS Code） 支持
+- 文件管理支持
+- 自带Python：写点常用脚本不在话下
+- 上手深度学习
+- 等等
 
-### [miru-app](https://github.com/miru-project/miru-app)
+这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
 
-免费、开源的 支持视频、漫画、小说扩展源的多功能应用，支持 `Android、Windows、Web`：
+![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
 
-- 支持 windows,android
-- 友好的扩展编写支持、调试日志
-- 扩展使用 JavaScript 语言，开发简单
-- 支持自定义扩展仓库
-- 官方扩展仓库提供视频源，无需编写任何扩展即可使用
-- 支持在线观看多种视频、漫画、小说源，实现多平台的统一
-- 统一系统 UI 的设计语言
-- 自动获取 TMDB 元数据信息
+### [SyncClipboard](https://github.com/Jeric-X/SyncClipboard)
 
-![657c8025be23f](https://img.fre123.com/i/2023/12/16/657c8025be23f.jpg) 
+跨平台剪贴板同步方案，包含服务端客户端：
 
-### [XcodesApp](https://github.com/XcodesOrg/XcodesApp)
+- 剪贴板同步，支持文字、图片和文件。服务器/客户端架构，可以使用客户端内置服务器、独立部署服务器，也可以使用支持WebDAV的网盘作为服务器
+- 优化图片类型的剪贴板，功能有：
+	- 从任意位置复制图片时，可以直接向文件系统粘贴图片文件，反之亦然
+	- 从浏览器复制图片后，后台下载原图到本地，解决无法从浏览器拷贝动态图的问题（大多网站有认证，适用范围有限，支持bilibili动态图片）
+	- 从文件系统复制较新格式类型的图片文件时（webp/heic等），在剪贴板内储存gif或jpg格式，用于直接向支持图片的文本框粘贴图片
 
-通过鼠标点击这种简单方式，快速安装和切换多个版本的 `Xcode`：
+![SyncClipboard](https://images-1252557999.file.myqcloud.com/uPic/SyncClipboard.jpg)
 
-![XcodesApp](https://images-1252557999.file.myqcloud.com/uPic/XcodesApp.jpg) 
+这个软件解决了老胡多台电脑间的复制同步问题，非常好用，强推，配置也不麻烦。 
+
+### [全是漫画](https://github.com/hongchacha/cartoon)
+
+全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
+
+![comic](https://images-1252557999.file.myqcloud.com/uPic/FXXmY5.jpg) 
 
 ## 👀 资料 
 
-### [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)
+### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
 
-`eBPF` 开发者教程与知识库：通过小工具和示例一步步学习 `eBPF`，包含性能、网络、安全等多种应用场景：
+本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
 
-![bpf-developer-tutorial](https://images-1252557999.file.myqcloud.com/uPic/bpf-developer-tutorial.jpg) 
+### RustBook
 
-### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
+一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
 
-《Mastering GO》中文译本，《玩转 GO》：
+![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg) 
 
-![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
+### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
 
-### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
-
-非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
+此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
 
 ## 🕸 网站 
 
-### [freelancethings](https://www.freelancethings.co/)
+### [upstract](https://upstract.com/)
 
-为自由职业者精心挑选的资源，涉及到社区、工具、文章、书籍、视频等，这些都帮助你在自由职业之旅中获得更多帮助，订阅后每周发送到您的收件箱:
+比较全面的新闻聚合平台：
 
-![freelancethings](https://images-1252557999.file.myqcloud.com/uPic/freelancethings.jpg) 
+![upstract](https://images-1252557999.file.myqcloud.com/uPic/upstract.jpg) 
 
-### [zerogpt](https://www.zerogpt.com/)
+### [gooddesign](https://www.gooddesign.tools/)
 
-由 `ZeroGPT` 开发的 `GPT-4，ChatGPT` AI 内容检测器：
+优质设计师工具导航网站：
 
-![zerogpt](https://images-1252557999.file.myqcloud.com/uPic/zerogpt.jpg) 
+![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
 
-### [wanqu.co](https://www.wanqu.co/)
+### [staticrypt](https://github.com/robinmoisson/staticrypt)
 
-湾区日报. 关注创业，互联网，技术。就像是你远方的老朋友每天推荐几篇优质英文文章，一起每天进步一点点:
+一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
 
-![wanqu](https://images-1252557999.file.myqcloud.com/uPic/wanqu.jpg) 
+![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
 
 ## ✍️ 说明
 
