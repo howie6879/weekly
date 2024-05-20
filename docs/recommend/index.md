@@ -5,101 +5,81 @@
 
 ## 🎯 项目 
 
-### [py12306](https://github.com/pjialin/py12306)
+### [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
 
-🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理：
+将视频从一种语言翻译为另一种语言，并添加配音，这个最近火出圈了：
 
-![py12306](https://images-1252557999.file.myqcloud.com/uPic/py12306.jpg)
+![pyvideotrans](https://images-1252557999.file.myqcloud.com/uPic/pyvideotrans.jpg) 
 
-如果实在抢不到，试下这个项目通过补票或者多买一站来解决：[12306spy](https://github.com/elroy93/12306spy)，这类项目每到假期就会火一把。 
+### [sealos](https://github.com/fanux/sealos)
 
-### [webvm](https://github.com/leaningtech/webvm)
+一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
 
-基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：[webvm.io](https://webvm.io/)。
+### [floccus](https://github.com/floccusaddon/floccus)
 
-![webvm](https://images-1252557999.file.myqcloud.com/uPic/1yRQBe.png)
+`Floccus` 是一个开源的浏览器书签同步项目，它支持 `Firefox、Chrome、Edge`等浏览器书签同步：
 
-详细的介绍文章见：[WebVM: server-less x86 virtual machines in the browser](https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361)。 
-
-### [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt)
-
-🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
-
-![feishu-chatgpt](https://images-1252557999.file.myqcloud.com/uPic/feishu-chatgpt.png) 
+![floccus](https://images-1252557999.file.myqcloud.com/uPic/floccus.jpg) 
 
 ## 🤖 软件 
 
-### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
+### [siyuan](https://github.com/siyuan-note/siyuan)
 
-这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
+思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
 
-- SSH连接操作
-- Jupyter支持
-- Code Server（Web版VS Code） 支持
-- 文件管理支持
-- 自带Python：写点常用脚本不在话下
-- 上手深度学习
-- 等等
+![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
 
-这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
+### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
 
-![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
+`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
 
-### [SyncClipboard](https://github.com/Jeric-X/SyncClipboard)
+![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
 
-跨平台剪贴板同步方案，包含服务端客户端：
+### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
-- 剪贴板同步，支持文字、图片和文件。服务器/客户端架构，可以使用客户端内置服务器、独立部署服务器，也可以使用支持WebDAV的网盘作为服务器
-- 优化图片类型的剪贴板，功能有：
-	- 从任意位置复制图片时，可以直接向文件系统粘贴图片文件，反之亦然
-	- 从浏览器复制图片后，后台下载原图到本地，解决无法从浏览器拷贝动态图的问题（大多网站有认证，适用范围有限，支持bilibili动态图片）
-	- 从文件系统复制较新格式类型的图片文件时（webp/heic等），在剪贴板内储存gif或jpg格式，用于直接向支持图片的文本框粘贴图片
+用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
 
-![SyncClipboard](https://images-1252557999.file.myqcloud.com/uPic/SyncClipboard.jpg)
-
-这个软件解决了老胡多台电脑间的复制同步问题，非常好用，强推，配置也不麻烦。 
-
-### [全是漫画](https://github.com/hongchacha/cartoon)
-
-全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
-
-![comic](https://images-1252557999.file.myqcloud.com/uPic/FXXmY5.jpg) 
+![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
 
 ## 👀 资料 
 
-### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
+### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
 
-本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
+本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
 
-### RustBook
+![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
 
-一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
+### [howtheytest](https://github.com/abhivaikar/howtheytest)
 
-![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg) 
+关于软件公司如何测试其软件的公共资源集合：
 
-### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
+![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
 
-此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
+### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+
+比较全面的 `k8s` 资源收集项目：
+
+![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
 
 ## 🕸 网站 
 
-### [upstract](https://upstract.com/)
+### [一证通查](https://getsimnum.caict.ac.cn/#/)
 
-比较全面的新闻聚合平台：
+自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
 
-![upstract](https://images-1252557999.file.myqcloud.com/uPic/upstract.jpg) 
+![phone_query](https://images-1252557999.file.myqcloud.com/uPic/phone_query.png) 
 
-### [gooddesign](https://www.gooddesign.tools/)
+### [freelancethings](https://www.freelancethings.co/)
 
-优质设计师工具导航网站：
+为自由职业者精心挑选的资源，涉及到社区、工具、文章、书籍、视频等，这些都帮助你在自由职业之旅中获得更多帮助，订阅后每周发送到您的收件箱:
 
-![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
+![freelancethings](https://images-1252557999.file.myqcloud.com/uPic/freelancethings.jpg) 
 
-### [staticrypt](https://github.com/robinmoisson/staticrypt)
+### [tanpok](https://tool.tanpok.com/#/)
 
-一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
+效果非常好的图片压缩工具：
 
-![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
+![tanpok](https://images-1252557999.file.myqcloud.com/uPic/8fZN8v.png) 
 
 ## ✍️ 说明
 
