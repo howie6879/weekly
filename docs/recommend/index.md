@@ -5,81 +5,87 @@
 
 ## 🎯 项目 
 
-### [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
+### [stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
 
-将视频从一种语言翻译为另一种语言，并添加配音，这个最近火出圈了：
+基于 `Docker` 的一站式 `Stable Diffusion`（最近很火的 AI 文字生成图片的模型）安装包，可提供以下多个 `UI` 可选：
 
-![pyvideotrans](https://images-1252557999.file.myqcloud.com/uPic/pyvideotrans.jpg) 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
+- [sygil-webui](https://github.com/Sygil-Dev/sygil-webui)
 
-### [sealos](https://github.com/fanux/sealos)
+![sd_ui_docker](https://images-1252557999.file.myqcloud.com/uPic/sd_ui_docker.jpg) 
 
-一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
+### [yft-design](https://github.com/dromara/yft-design)
 
-### [floccus](https://github.com/floccusaddon/floccus)
+基于 `fabric.js` 的图片设计项目，使用 `Vue3 + TypeScript + Fabric.js + Element-Plus`，支持 文字、图片、形状、线条、二维码 、条形码几种最常用的元素类型，每一种元素都拥有高度可编辑能力，缩略图显示，模板，支持导出`json，svg, image`文件，支持 Docker 部署：
 
-`Floccus` 是一个开源的浏览器书签同步项目，它支持 `Firefox、Chrome、Edge`等浏览器书签同步：
+![yft-design](https://images-1252557999.file.myqcloud.com/uPic/yft-design.jpg) 
 
-![floccus](https://images-1252557999.file.myqcloud.com/uPic/floccus.jpg) 
+### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
+
+抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
+
+![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
 
 ## 🤖 软件 
 
-### [siyuan](https://github.com/siyuan-note/siyuan)
+### [memreduct](https://github.com/henrypp/memreduct)
 
-思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
+轻量优雅的 `Windows` 内存管理工具，让用户实时监控计算机内存和清理系统缓存，体积小(6MB)、内存释放效果明显，兼容 `Windows XP` 及更高版本：
 
-![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
+![memreduct](https://images-1252557999.file.myqcloud.com/uPic/memreduct.jpg) 
 
-### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
+### [TTime](https://github.com/inkTimeRecord/TTime)
 
-`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
+🚀 一款简洁高效的跨平台输入、截图、划词翻译软件：
 
-![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
+![TTime](https://images-1252557999.file.myqcloud.com/uPic/TTime.jpg)
 
-### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
+[Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#bob) 算是这类软件的鼻祖，之前我也推荐过 [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=pot#pot-desktop) ，大家酌情选择即可。 
 
-用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
+### [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
 
-![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
+简单的 macOS 菜单栏应用程序，可以方便地和 `Reminders` 进行交互，使用 `SwiftUI` 开发，并使用 `Apple` 提醒事项作为数据源：
+
+![reminders-menubar](https://images-1252557999.file.myqcloud.com/uPic/reminders-menubar.jpg) 
 
 ## 👀 资料 
 
-### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
+### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
 
-本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
+一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
 
-![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
 
-### [howtheytest](https://github.com/abhivaikar/howtheytest)
+### [Web Development History](https://webdevelopmenthistory.com/index/)
 
-关于软件公司如何测试其软件的公共资源集合：
+`Web` 开发发展史文章系列：
 
-![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
+![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
 
-### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
 
-比较全面的 `k8s` 资源收集项目：
-
-![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
+本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
 
 ## 🕸 网站 
 
-### [一证通查](https://getsimnum.caict.ac.cn/#/)
+### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
 
-自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
+来自阿里体系的各种技术资料，全部免费，个人非常推荐。
 
-![phone_query](https://images-1252557999.file.myqcloud.com/uPic/phone_query.png) 
+![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
 
-### [freelancethings](https://www.freelancethings.co/)
+### [the-algorithms](https://the-algorithms.com/zh_Hans)
 
-为自由职业者精心挑选的资源，涉及到社区、工具、文章、书籍、视频等，这些都帮助你在自由职业之旅中获得更多帮助，订阅后每周发送到您的收件箱:
+`GitHub` 最大的开源算法库：
 
-![freelancethings](https://images-1252557999.file.myqcloud.com/uPic/freelancethings.jpg) 
+![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
 
-### [tanpok](https://tool.tanpok.com/#/)
+### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
 
-效果非常好的图片压缩工具：
+中国少年儿童新闻出版总社免费开放的少儿绘本网站：
 
-![tanpok](https://images-1252557999.file.myqcloud.com/uPic/8fZN8v.png) 
+![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
 
 ## ✍️ 说明
 
