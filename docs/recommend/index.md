@@ -5,79 +5,83 @@
 
 ## 🎯 项目 
 
-### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
+### [HowToCook](https://github.com/Anduin2017/HowToCook)
 
-不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
+程序员在家做饭方法指南。 
 
-### [podman](https://github.com/containers/podman)
+### [rembg](https://github.com/danielgatis/rembg)
 
-`Podman` 是从 `CRI-O` 独立出来的一个项目，这是一个无守护进程的开源Linux 原生工具，旨在使用开放容器协议 (OCI) 容器和容器镜像轻松查找、运行、构建、共享和部署应用程序。
+之前有介绍过一个去除图片背景的网站-[remove.bg](https://www.remove.bg/zh)，这网站虽然免费，但是高清版本的图片下载需要收费，现在这个开源的图片背景去除项目将完全解决这个问题：
 
-受不了 Docker 桌面版的可以直接用这个替换，软件部分也介绍了 `Podman` 的桌面版 [podman-desktop](https://github.com/containers/podman-desktop)。
+![rembg](https://images-1252557999.file.myqcloud.com/uPic/rembg.jpg)
 
-![podman](https://images-1252557999.file.myqcloud.com/uPic/podman.jpg) 
+你可以作为第三方库使用，也在终端以及启用服务化来使用。 
 
-### [showdoc](https://github.com/star7th/showdoc)
+### [dm-ticket](https://github.com/ClassmateLin/dm-ticket)
 
-一个非常适合IT团队的在线API文档、技术文档工具:
+大麦网自动购票, 支持 `docker` 一键部署:
 
-![showdoc](https://images-1252557999.file.myqcloud.com/uPic/showdoc.jpg) 
+![dm-ticket](https://images-1252557999.file.myqcloud.com/uPic/dm-ticket.png) 
 
 ## 🤖 软件 
 
-### [buster](https://github.com/dessant/buster)
+### [codeapp](https://github.com/thebaselab/codeapp)
 
-`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
+为 `iPad` 构建一个成熟的代码编辑器：
 
-![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
+![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
 
-### [B站录播姬](https://rec.danmuji.org/)
+### [Sloth](https://github.com/sveinbjornt/Sloth)
 
-一个方便好用免费开源的哔哩哔哩直播录制工具：
+`Sloth` 是一款原生的 `Mac` 应用程序，它显示系统上所有正在运行软件所有打开的文件、目录、套接字、管道和设备，用户可以很简单地掌控自己的电脑文件使用权限：
 
-![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
+![Sloth](https://images-1252557999.file.myqcloud.com/uPic/Sloth.jpeg) 
 
-### [licecap](https://github.com/justinfrankel/licecap)
+### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
 
-LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
+跨平台的`youtube-dl`客户端：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png) 
 
 ## 👀 资料 
 
-### [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)
+### [开源软件指南](https://opensource.guide/zh-hans/)
 
-从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 `PDF`:
+GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
 
-![what_are_embeddings](https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg) 
+![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
 
-### [learn-javascript](https://github.com/sumn2u/learn-javascript)
+### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
 
-学习 `javascript` 的开源书籍：
+《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 
-![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
+![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
 
-### [leetcode](https://github.com/doocs/leetcode)
+### [tmplink/ipv6](https://github.com/tmplink/ipv6)
 
-本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
+本文档主要讲解 IPv6 的一些皮毛知识，主要是让读者理解 IPv6 地址的一些概念，诸如前缀，子网，接口。 
 
 ## 🕸 网站 
 
-### [22.do](https://22.do/)
+### [onepdf](https://www.onepdf.online/)
 
-一次性 `Gmail` 临时邮箱：
+免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
 
-![22do](https://images-1252557999.file.myqcloud.com/uPic/22do.jpg) 
+![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
 
-### [pixabay](https://pixabay.com/)
+### [chinesenewyear](https://chinesenewyear.net/)
 
-`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
+国外一个专门介绍农历春节的网站，包含了非常多关于春节的介绍信息：
 
-![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
+![chinesenewyear](https://images-1252557999.file.myqcloud.com/uPic/chinesenewyear.jpg) 
 
-### [whatpwacando](https://whatpwacando.today/)
+### [网道](https://wangdoc.com/)
 
-该网站功能用于介绍 PWA 的技术进展：
+前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
 
-![whatpwacando](https://images-1252557999.file.myqcloud.com/uPic/whatpwacando.jpg) 
+目前提供了不少教程，对于初学者是非常友好的：
+
+![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
 
 ## ✍️ 说明
 
