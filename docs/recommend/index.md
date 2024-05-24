@@ -5,83 +5,83 @@
 
 ## 🎯 项目 
 
-### [HowToCook](https://github.com/Anduin2017/HowToCook)
+### [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo "MoneyPrinterTurbo")
 
-程序员在家做饭方法指南。 
+只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频：
 
-### [rembg](https://github.com/danielgatis/rembg)
+![MoneyPrinterTurbo](https://images-1252557999.file.myqcloud.com/uPic/MoneyPrinterTurbo.jpeg) 
 
-之前有介绍过一个去除图片背景的网站-[remove.bg](https://www.remove.bg/zh)，这网站虽然免费，但是高清版本的图片下载需要收费，现在这个开源的图片背景去除项目将完全解决这个问题：
+### [amis](https://github.com/baidu/amis)
 
-![rembg](https://images-1252557999.file.myqcloud.com/uPic/rembg.jpg)
+前端低代码框架，通过 JSON 配置就能生成各种页面。 
 
-你可以作为第三方库使用，也在终端以及启用服务化来使用。 
+### [sonic](https://github.com/go-sonic/sonic)
 
-### [dm-ticket](https://github.com/ClassmateLin/dm-ticket)
+`Sonic` 是 `Go` 开发的博客平台，简单而强大：
 
-大麦网自动购票, 支持 `docker` 一键部署:
-
-![dm-ticket](https://images-1252557999.file.myqcloud.com/uPic/dm-ticket.png) 
+![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
 
 ## 🤖 软件 
 
-### [codeapp](https://github.com/thebaselab/codeapp)
+### [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
 
-为 `iPad` 构建一个成熟的代码编辑器：
+简单的 macOS 菜单栏应用程序，可以方便地和 `Reminders` 进行交互，使用 `SwiftUI` 开发，并使用 `Apple` 提醒事项作为数据源：
 
-![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
+![reminders-menubar](https://images-1252557999.file.myqcloud.com/uPic/reminders-menubar.jpg) 
 
-### [Sloth](https://github.com/sveinbjornt/Sloth)
+### [Itsycal](https://www.mowglii.com/itsycal/)
 
-`Sloth` 是一款原生的 `Mac` 应用程序，它显示系统上所有正在运行软件所有打开的文件、目录、套接字、管道和设备，用户可以很简单地掌控自己的电脑文件使用权限：
+一款简单优雅的 Macos 菜单栏日历：
 
-![Sloth](https://images-1252557999.file.myqcloud.com/uPic/Sloth.jpeg) 
+![itsycal](https://images-1252557999.file.myqcloud.com/uPic/itsycal.png) 
 
-### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
+### [downkyi](https://github.com/leiurayer/downkyi)
 
-跨平台的`youtube-dl`客户端：
+Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
 
-![](https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png) 
+![downkyi](https://images-1252557999.file.myqcloud.com/uPic/downkyi.png) 
 
 ## 👀 资料 
 
-### [开源软件指南](https://opensource.guide/zh-hans/)
+### [FFmpeg原理](https://ffmpeg.xianwaizhiyin.net/)
 
-GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+本书《FFmpeg原理》主要讲解 FFmpeg 原理性的知识，前面几章主要讲解一些音视频开发的基础知识，例如原始数据 YUV 跟 RGB，封装格式 FLV 跟 MP4 ，压缩编码的基本概念，还有封装格式分析。
 
-![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
+前面几章是音视频开发，流媒体技术的基础，后面的章节主要讲解如何搭建 FFmpeg 各种调试环境，同时提供 FFmpeg API 函数的使用示例，最重要的是 分析 ffmpeg.c 跟 ffplay.c 的源码逻辑。
 
-### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
+![ffmpeg](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg.jpg) 
 
-《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
+### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 
-![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
+每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
 
-### [tmplink/ipv6](https://github.com/tmplink/ipv6)
+![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
 
-本文档主要讲解 IPv6 的一些皮毛知识，主要是让读者理解 IPv6 地址的一些概念，诸如前缀，子网，接口。 
+### [note-architect](https://zq99299.github.io/note-architect/hc/)
+
+高并发系统设计 40 问，一份架构师学习笔记：
+
+![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
 
 ## 🕸 网站 
 
-### [onepdf](https://www.onepdf.online/)
+### [uiset](https://uiset.com/)
 
-免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
+共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
 
-![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
+![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
 
-### [chinesenewyear](https://chinesenewyear.net/)
+### [docsmall](https://docsmall.com/)
 
-国外一个专门介绍农历春节的网站，包含了非常多关于春节的介绍信息：
+提供一些图片压缩、PDF合并分割小功能的网站：
 
-![chinesenewyear](https://images-1252557999.file.myqcloud.com/uPic/chinesenewyear.jpg) 
+![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
 
-### [网道](https://wangdoc.com/)
+### [lucide](https://lucide.dev/)
 
-前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
+开源图标库，可以直接下载 `SVG`：
 
-目前提供了不少教程，对于初学者是非常友好的：
-
-![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
+![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
 
 ## ✍️ 说明
 
