@@ -5,83 +5,93 @@
 
 ## 🎯 项目 
 
-### [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo "MoneyPrinterTurbo")
+### [privateGPT](https://github.com/imartinez/privateGPT)
 
-只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频：
+为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
 
-![MoneyPrinterTurbo](https://images-1252557999.file.myqcloud.com/uPic/MoneyPrinterTurbo.jpeg) 
+![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
 
-### [amis](https://github.com/baidu/amis)
+### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
 
-前端低代码框架，通过 JSON 配置就能生成各种页面。 
+开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
 
-### [sonic](https://github.com/go-sonic/sonic)
+![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
 
-`Sonic` 是 `Go` 开发的博客平台，简单而强大：
+### [OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)
 
-![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
+🥣 AIGC 提示词可视化编辑器，这是一个旨在把 AIGC 提示词（现在支持 Midjourney）可视化并提供编辑功能的工具，有以下特性
+
+- 显示英文提示词的中文翻译
+- 翻译输入的中文提示词到英文（因为 Midjourney 仅支持英文提示词）
+- 为提示词进行分类（普通、样式、质量、命令）
+- 轻松的排序、隐藏提示词
+- 把提示词可视化结果导出为图片
+- 常用提示词词典
+- 通过 Notion 管理提示词词典
+
+![OpenPromptStudio](https://images-1252557999.file.myqcloud.com/uPic/OpenPromptStudio.jpg) 
 
 ## 🤖 软件 
 
-### [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
+### [Setapp](https://go.setapp.com/invite/os8yv4jr)
 
-简单的 macOS 菜单栏应用程序，可以方便地和 `Reminders` 进行交互，使用 `SwiftUI` 开发，并使用 `Apple` 提醒事项作为数据源：
+虽然这个是个付费软件，但我还是很推荐：
 
-![reminders-menubar](https://images-1252557999.file.myqcloud.com/uPic/reminders-menubar.jpg) 
+> Setapp是由MacPaw公司于2017年推出的订阅服务，专为macOS和iOS用户提供多款精选应用程序。用户通过月费即可无限使用旗下丰富的应用集合，覆盖各种日常任务需求，无需单独购买或更新。
 
-### [Itsycal](https://www.mowglii.com/itsycal/)
+订阅这个软件就可以免费使用 `Setapp` 里面 **240+** 的软件（单独买要付费的那种），比如我想使用GPT-4的对话功能，我单独买会员就是要20$。我现在直接花 **9.9\$**  订阅 `Setapp` ，然后直接里面直接使用 `Typing Mind` 就可以直接使用 GPT-4 Turbo，上下文 128k，对我来说单单这个就赚回来了。
 
-一款简单优雅的 Macos 菜单栏日历：
+![setapp](https://images-1252557999.file.myqcloud.com/uPic/setapp.jpg) 
 
-![itsycal](https://images-1252557999.file.myqcloud.com/uPic/itsycal.png) 
+### [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
 
-### [downkyi](https://github.com/leiurayer/downkyi)
+🎉 一个 `Frp Client` 跨平台桌面端：
 
-Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
+![](https://img.fre123.com/i/2023/12/23/6586f68db0238.jpg) 
 
-![downkyi](https://images-1252557999.file.myqcloud.com/uPic/downkyi.png) 
+### [Malware-Patch](https://github.com/the1812/Malware-Patch)
+
+阻止中国流氓软件的管理员授权，无需后台运行：
+
+![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
 
 ## 👀 资料 
 
-### [FFmpeg原理](https://ffmpeg.xianwaizhiyin.net/)
+### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
 
-本书《FFmpeg原理》主要讲解 FFmpeg 原理性的知识，前面几章主要讲解一些音视频开发的基础知识，例如原始数据 YUV 跟 RGB，封装格式 FLV 跟 MP4 ，压缩编码的基本概念，还有封装格式分析。
+精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
 
-前面几章是音视频开发，流媒体技术的基础，后面的章节主要讲解如何搭建 FFmpeg 各种调试环境，同时提供 FFmpeg API 函数的使用示例，最重要的是 分析 ffmpeg.c 跟 ffplay.c 的源码逻辑。
+### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 
-![ffmpeg](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg.jpg) 
+[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
 
-### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
 
-每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
+### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
 
-![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
+`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
 
-### [note-architect](https://zq99299.github.io/note-architect/hc/)
-
-高并发系统设计 40 问，一份架构师学习笔记：
-
-![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
+![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
 
 ## 🕸 网站 
 
-### [uiset](https://uiset.com/)
+### [chatplugin.top](https://www.chatplugin.top/)
 
-共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
+`ChatGPT Plugin` 收录网站，并且将插件汉化：
 
-![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
+![chatplugin](https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg) 
 
-### [docsmall](https://docsmall.com/)
+### [up-6.com](https://www.up-6.com/)
 
-提供一些图片压缩、PDF合并分割小功能的网站：
+一个英语学习导航网站：
 
-![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
+![up-6](https://images-1252557999.file.myqcloud.com/uPic/up-6.jpg) 
 
-### [lucide](https://lucide.dev/)
+### [aicolors](https://aicolors.co/)
 
-开源图标库，可以直接下载 `SVG`：
+通过提示词，基于 AI 生成配色方案：
 
-![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
+![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
 
 ## ✍️ 说明
 
