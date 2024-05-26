@@ -5,93 +5,90 @@
 
 ## 🎯 项目 
 
-### [privateGPT](https://github.com/imartinez/privateGPT)
+### [wazuh](https://github.com/wazuh/wazuh)
 
-为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
+`Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具。
 
-![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
+![wazuh](https://images-1252557999.file.myqcloud.com/uPic/wazuh.png) 
 
-### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
+### [alist](https://github.com/Xhofe/alist)
 
-开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
+一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
 
-![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
+![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
 
-### [OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)
+简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
 
-🥣 AIGC 提示词可视化编辑器，这是一个旨在把 AIGC 提示词（现在支持 Midjourney）可视化并提供编辑功能的工具，有以下特性
+### [dbsyncer](https://github.com/86dbs/dbsyncer)
 
-- 显示英文提示词的中文翻译
-- 翻译输入的中文提示词到英文（因为 Midjourney 仅支持英文提示词）
-- 为提示词进行分类（普通、样式、质量、命令）
-- 轻松的排序、隐藏提示词
-- 把提示词可视化结果导出为图片
-- 常用提示词词典
-- 通过 Notion 管理提示词词典
+`DBSyncer`（简称dbs）是一款开源的数据同步中间件，提供`MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL`等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
 
-![OpenPromptStudio](https://images-1252557999.file.myqcloud.com/uPic/OpenPromptStudio.jpg) 
+- 组合驱动，自定义库同步到库组合，关系型数据库与非关系型之间组合，任意搭配表同步映射关系
+- 实时监控，驱动全量或增量实时同步运行状态、结果、同步日志和系统日志
+- 开发插件，自定义转化同步逻辑
+
+![dbsyncer](https://images-1252557999.file.myqcloud.com/uPic/dbsyncer.webp) 
 
 ## 🤖 软件 
 
-### [Setapp](https://go.setapp.com/invite/os8yv4jr)
+### [jingmo](https://github.com/hefengbao/jingmo)
 
-虽然这个是个付费软件，但我还是很推荐：
+『京墨』开源免费的古诗词文（名句）、歇后语、成语、传统节日、绕口令等的阅读 `APP`：
 
-> Setapp是由MacPaw公司于2017年推出的订阅服务，专为macOS和iOS用户提供多款精选应用程序。用户通过月费即可无限使用旗下丰富的应用集合，覆盖各种日常任务需求，无需单独购买或更新。
+![jingmo](https://images-1252557999.file.myqcloud.com/uPic/EL9mYu.png) 
 
-订阅这个软件就可以免费使用 `Setapp` 里面 **240+** 的软件（单独买要付费的那种），比如我想使用GPT-4的对话功能，我单独买会员就是要20$。我现在直接花 **9.9\$**  订阅 `Setapp` ，然后直接里面直接使用 `Typing Mind` 就可以直接使用 GPT-4 Turbo，上下文 128k，对我来说单单这个就赚回来了。
+### [Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)
 
-![setapp](https://images-1252557999.file.myqcloud.com/uPic/setapp.jpg) 
+由于在 `QQ` 和微信中发送 `APK` 文件时，文件名会被腾讯添加后缀.1，此 `App` 可以省去重命名步骤，直接安装：
 
-### [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
+- 获取安装权限（不需要读取存储权限）
+- 在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序 
 
-🎉 一个 `Frp Client` 跨平台桌面端：
+### [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor)
 
-![](https://img.fre123.com/i/2023/12/23/6586f68db0238.jpg) 
+`Caesium` 是一款图像压缩软件，可帮助您存储、发送和共享数字图片，支持 `JPG、PNG&WebP` 格式：
 
-### [Malware-Patch](https://github.com/the1812/Malware-Patch)
-
-阻止中国流氓软件的管理员授权，无需后台运行：
-
-![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
+![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.jpg) 
 
 ## 👀 资料 
 
-### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
+### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
 
-精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
+打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
 
-### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
 
-[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
+### [linux-command](https://github.com/jaywcjlove/linux-command)
 
-![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
 
-### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
+![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
 
-`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
+### [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
 
-![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
+[《Effective Modern C++ 》](https://cntransgroup.github.io/EffectiveModernCppChinese/)翻译：
+
+![EffectiveModernCppChinese](https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg) 
 
 ## 🕸 网站 
 
-### [chatplugin.top](https://www.chatplugin.top/)
+### [chatdoc](https://chatdoc.com/)
 
-`ChatGPT Plugin` 收录网站，并且将插件汉化：
+`ChatDOC` 让你可以和文档进行聊天沟通，它是一个基于 `ChatGPT` 的文件读取助手，它可以从 `PDF` 中快速提取、定位和总结信息：
 
-![chatplugin](https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg) 
+![chatdoc](https://images-1252557999.file.myqcloud.com/uPic/chatdoc.png) 
 
-### [up-6.com](https://www.up-6.com/)
+### [alternativeto](https://alternativeto.net/)
 
-一个英语学习导航网站：
+常用软件替代品查询网站：
 
-![up-6](https://images-1252557999.file.myqcloud.com/uPic/up-6.jpg) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
-### [aicolors](https://aicolors.co/)
+### [medisearch](https://medisearch.io/zh)
 
-通过提示词，基于 AI 生成配色方案：
+直接的科学为基础的医疗问答模型：
 
-![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
+![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
 
 ## ✍️ 说明
 
