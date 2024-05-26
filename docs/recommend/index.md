@@ -5,90 +5,92 @@
 
 ## 🎯 项目 
 
-### [wazuh](https://github.com/wazuh/wazuh)
+### [oh-my-rime](https://github.com/Mintimate/oh-my-rime)
 
-`Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具。
+一套快速初始化开源输入法 `Rime` 的模板方案，跨平台支持 `Win macOS Linux`：
 
-![wazuh](https://images-1252557999.file.myqcloud.com/uPic/wazuh.png) 
+![oh-my-rime](https://images-1252557999.file.myqcloud.com/uPic/oh-my-rime.webp) 
 
-### [alist](https://github.com/Xhofe/alist)
+### [Docusaurus](https://github.com/facebook/docusaurus)
 
-一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
+`Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
 
-![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
+![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
 
-简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
+### [lobe-chat](https://github.com/lobehub/lobe-chat)
 
-### [dbsyncer](https://github.com/86dbs/dbsyncer)
+`LobeChat` 是一个开源的、可扩展的（Function Calling）高性能聊天机器人框架，它支持一键免费部署私人 `ChatGPT/LLM` 网页应用程序：
 
-`DBSyncer`（简称dbs）是一款开源的数据同步中间件，提供`MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL`等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
+- 💨 快速部署：支持 Vercel 平台
+-  💎 精致 UI 设计
+-  🗣️ 流畅的对话体验
+-  🧩 支持插件与自定义插件开发
+-  🔒 隐私安全
+-  🤖 自定义助手角色
+-  🌐 自定义域名
+-  🏬 角色市场
 
-- 组合驱动，自定义库同步到库组合，关系型数据库与非关系型之间组合，任意搭配表同步映射关系
-- 实时监控，驱动全量或增量实时同步运行状态、结果、同步日志和系统日志
-- 开发插件，自定义转化同步逻辑
-
-![dbsyncer](https://images-1252557999.file.myqcloud.com/uPic/dbsyncer.webp) 
+![lobe-chat](https://images-1252557999.file.myqcloud.com/uPic/lobe-chat.webp) 
 
 ## 🤖 软件 
 
-### [jingmo](https://github.com/hefengbao/jingmo)
+### [chatbox](https://github.com/Bin-Huang/chatbox)
 
-『京墨』开源免费的古诗词文（名句）、歇后语、成语、传统节日、绕口令等的阅读 `APP`：
+跨平台大模型客户端：
 
-![jingmo](https://images-1252557999.file.myqcloud.com/uPic/EL9mYu.png) 
+![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.jpg) 
 
-### [Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)
+### [dockeye](https://github.com/vv9k/dockeye)
 
-由于在 `QQ` 和微信中发送 `APK` 文件时，文件名会被腾讯添加后缀.1，此 `App` 可以省去重命名步骤，直接安装：
+基于`Rust`编写的`Docker`界面管理工具：
 
-- 获取安装权限（不需要读取存储权限）
-- 在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序 
+![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
 
-### [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor)
+### [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
 
-`Caesium` 是一款图像压缩软件，可帮助您存储、发送和共享数字图片，支持 `JPG、PNG&WebP` 格式：
+Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端，首页、书影音、小组、市集及个人中心：
 
-![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.jpg) 
+![FlutterDouBan](https://images-1252557999.file.myqcloud.com/uPic/FlutterDouBan.jpg) 
 
 ## 👀 资料 
 
-### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
+### [大模型交叉研讨课](https://www.openbmb.org/community/course)
 
-打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
+OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：
 
-![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
+![openbmb_course](https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg) 
 
-### [linux-command](https://github.com/jaywcjlove/linux-command)
+### [LLMBook-zh](https://llmbook-zh.github.io/)
 
-Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
+大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
 
-![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
+![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
 
-### [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
+### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
 
-[《Effective Modern C++ 》](https://cntransgroup.github.io/EffectiveModernCppChinese/)翻译：
+学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
 
-![EffectiveModernCppChinese](https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg) 
+![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
 
 ## 🕸 网站 
 
-### [chatdoc](https://chatdoc.com/)
+### [ziyouziti](https://ziyouziti.com/)
 
-`ChatDOC` 让你可以和文档进行聊天沟通，它是一个基于 `ChatGPT` 的文件读取助手，它可以从 `PDF` 中快速提取、定位和总结信息：
+免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
 
-![chatdoc](https://images-1252557999.file.myqcloud.com/uPic/chatdoc.png) 
+![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
 
-### [alternativeto](https://alternativeto.net/)
+### [untools](https://untools.co/)
 
-常用软件替代品查询网站：
+一个帮助你思考的集合工具&框架：
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![untools](https://images-1252557999.file.myqcloud.com/uPic/hHu9aw.png) 
 
-### [medisearch](https://medisearch.io/zh)
+### [必应壁纸](https://bing.ioliu.cn/)
 
-直接的科学为基础的医疗问答模型：
+收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
 
-![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
+![bing](https://images-1252557999.file.myqcloud.com/uPic/bing.jpg) 
 
 ## ✍️ 说明
 
