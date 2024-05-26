@@ -12,7 +12,57 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Mon, 20 May 2024 15:55:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 16:51:00 +0000</lastBuildDate>
+    <item>
+      <title>05-20~05-26.老胡的周刊（第143期）.md</title>
+      <link>https://weekly.howie6879.com/2024/05-20~05-26.老胡的周刊（第143期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/05-20~05-26.老胡的周刊（第143期）.html"&gt;05-20~05-26.老胡的周刊（第143期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/glanceapp/glance"&gt;glance&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Glance&lt;/code&gt; 可以将你所有的订阅源聚合到一个页面中，支持多种小部件，可以自定义主题：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="glance" src="https://images-1252557999.file.myqcloud.com/uPic/glance.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/dream-num/univer"&gt;univer&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Univer&lt;/code&gt; 是一套企业文档与数据协同解决方案，融合了电子表格、文档和幻灯片：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="univer" src="https://images-1252557999.file.myqcloud.com/uPic/univer.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;hoarder&lt;/h3&gt;
+&lt;p&gt;为数据收藏者开发的输钱管理程序，可自建，有一定 &lt;code&gt;AI&lt;/code&gt; 能力：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="hoarder" src="https://images-1252557999.file.myqcloud.com/uPic/hoarder.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/VinciGit00/Scrapegraph-ai"&gt;Scrapegraph&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;LLM&lt;/code&gt; 大模型的 &lt;code&gt;Python&lt;/code&gt; 爬虫框架：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="scrapegraph" src="https://images-1252557999.file.myqcloud.com/uPic/scrapegraph.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Lymphatus/caesium-image-compressor"&gt;caesium-image-compressor&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Caesium&lt;/code&gt; 是一款图像压缩软件，可帮助您存储、发送和共享数字图片，支持 &lt;code&gt;JPG、PNG&amp;amp;WebP&lt;/code&gt; 格式：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="caesium" src="https://images-1252557999.file.myqcloud.com/uPic/caesium.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/xM4ddy/OFGB"&gt;OFGB&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;GUI&lt;/code&gt; 工具删除 &lt;code&gt;Windows 11&lt;/code&gt; 不同位置的广告：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="OFGB" src="https://images-1252557999.file.myqcloud.com/uPic/OFGB.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/xifangczy/cat-catch"&gt;cat-catch&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;猫抓(cat-catch) 资源嗅探扩展，能够帮你筛选列出当前页面的资源：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="cat-catch" src="https://images-1252557999.file.myqcloud.com/uPic/cat-catch.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://j1ohuigiiff.feishu.cn/wiki/RTVbwi6d9ivhyBka2rRcrNNgnye"&gt;提示词 0-1入门&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;提示词（Prompt）编写速成指南，教大家如何无痛写出一个贴合需求、达到商用级的 &lt;code&gt;Prompt&lt;/code&gt; 。&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://gcopy.rutron.net/zh"&gt;gcopy&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个剪切板同步的工具, 支持文字、截图和文件，使用 &lt;code&gt;Golang&lt;/code&gt; 和 &lt;code&gt;Nextjs&lt;/code&gt; 开发. 完全&lt;a href="https://github.com/llaoj/gcopy"&gt;开源&lt;/a&gt;，&lt;code&gt;GCopy&lt;/code&gt; 重视您的数据隐私, 不持久化存储您的数据, 它们都在内存中 &lt;code&gt;24h&lt;/code&gt; 自动删除：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="gcopy" src="https://images-1252557999.file.myqcloud.com/uPic/gcopy.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">05-20~05-26.老胡的周刊（第143期）.md</guid>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>05-13~05-19.老胡的周刊（第142期）.md</title>
       <link>https://weekly.howie6879.com/2024/05-13~05-19.老胡的周刊（第142期）.html</link>
@@ -1470,84 +1520,6 @@ sudo xattr -cr  /Applications/Loop.app&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">01-08~01-14.老胡的周刊（第124期）.md</guid>
       <pubDate>Sun, 14 Jan 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>01-01~01-07.老胡的周刊（第123期）.md</title>
-      <link>https://weekly.howie6879.com/2024/01-01~01-07.老胡的周刊（第123期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/01-01~01-07.老胡的周刊（第123期）.html"&gt;01-01~01-07.老胡的周刊（第123期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/yoeven/ai-video-search-engine"&gt;ai-video-search-engine&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;随着 &lt;code&gt;TikTok&lt;/code&gt; 和 &lt;code&gt;Youtube&lt;/code&gt; 等短视频内容的兴起，比以往任何时候都有更多的知识存在于视频中。对于任何一个人来说，在数百万个视频中找到特定答案可能是困难的，而这个项目(&lt;a href="https://avse.vercel.app/"&gt;https://avse.vercel.app/&lt;/a&gt;)就是针对这个问题进行探索：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ai-video-search-engine" src="https://images-1252557999.file.myqcloud.com/uPic/ai-video-search-engine.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Kareadita/Kavita"&gt;Kavita&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Kavita 是一款快速、功能丰富、跨平台的阅读服务器，专为漫画爱好者设计。它旨在成为满足你所有阅读需求的全面解决方案。&lt;/p&gt;
-&lt;p&gt;有了 Kavita，你可以：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;支持 Manga/Webtoons/Comics 等丰富源&lt;/li&gt;
-&lt;li&gt;针对各种设备上给你一流的阅读使用体验，夜间模式等&lt;/li&gt;
-&lt;li&gt;丰富的元数据支持，包括过滤和搜索功能&lt;/li&gt;
-&lt;li&gt;多语言支持&lt;/li&gt;
-&lt;li&gt;...&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="Kavita" src="https://images-1252557999.file.myqcloud.com/uPic/Kavita.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/xqdoo00o/chatgpt-web"&gt;xqdoo00o-chatgpt-web&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;纯 &lt;code&gt;JS&lt;/code&gt; 实现的 &lt;code&gt;ChatGPT&lt;/code&gt; 项目，基于 &lt;code&gt;OpenAI API&lt;/code&gt;，其优势在于可以直接部署一个 &lt;code&gt;HTML&lt;/code&gt; 文件即可，轻量实用：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="chatgpt-web" src="https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/guanshuicheng/invoice"&gt;invoice&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;增值税发票 &lt;code&gt;OCR&lt;/code&gt; 识别，使用 &lt;code&gt;flask&lt;/code&gt; 微服务架构，识别 &lt;code&gt;type&lt;/code&gt; ：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="invoice" src="https://images-1252557999.file.myqcloud.com/uPic/invoice.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/danni-cool/wechatbot-webhook"&gt;wechatbot-webhook&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个支持消息收发的微信 &lt;code&gt;Webhook&lt;/code&gt; 机器人🤖，但是要注意使用限制，不然可能被Ban，特性如下：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;推送消息 (发送文字 / 图片 / 文件)&lt;/li&gt;
-&lt;li&gt;接收消息（文字 / 图片 / 语音 / 视频 / 文件 / 好友申请 / 公众号推文链接）&lt;/li&gt;
-&lt;li&gt;Docker 部署等&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="wechatbot-webhook" src="https://images-1252557999.file.myqcloud.com/uPic/wechatbot-webhook.gif" /&gt;&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Librum-Reader/Librum"&gt;Librum&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Librum&lt;/code&gt; 是一个旨在让每个人都能轻松愉快地阅读的应用程序。它不仅仅是一个电子书阅读器，更是一个功能强大的工具。&lt;/p&gt;
-&lt;p&gt;使用 &lt;code&gt;Librum&lt;/code&gt;，您可以随时随地管理您的在线书库，并且可以从任何设备方便地访问它。此外，&lt;code&gt;Librum&lt;/code&gt; 还提供了多种功能，如笔记、书签和文本突出显示等，同时还允许您自定义界面，使其完全适应您的需求和喜好：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Librum" src="https://images-1252557999.file.myqcloud.com/uPic/Librum.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/lijy91/biyi"&gt;biyi&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;比译是一个用 &lt;code&gt;Flutter&lt;/code&gt; 编写的跨平台便捷翻译和词典应用：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="biyi" src="https://images-1252557999.file.myqcloud.com/uPic/biyi.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://www.comflowy.com/zh-CN"&gt;comflowy&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;作者认为 &lt;code&gt;AI&lt;/code&gt; 生图领域的未来一定是围绕 &lt;code&gt;Stable Diffusion&lt;/code&gt; 展开，而 &lt;code&gt;ComfyUI&lt;/code&gt; 相比于 &lt;code&gt;Stable Diffusion WebUI&lt;/code&gt; 等其他开源产品具备非常强的差异化能力，它具备高度的扩展性和应用可能性，真正做到了让开发者和用户能够根据自己的需求打造个性化的生图流程。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="comflowy" src="https://images-1252557999.file.myqcloud.com/uPic/comflowy.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/cnymw/GolangStudy"&gt;GolangStudy&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;《&lt;a href="https://golangstudy.tech/"&gt;GolangStudy&lt;/a&gt;》：从简单到难最全总结，go基础，数据结构，算法，设计模式：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="GolangStudy" src="https://images-1252557999.file.myqcloud.com/uPic/GolangStudy.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://trendingpapers.com"&gt;trendingpapers&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;类似于 &lt;code&gt;Github Trending&lt;/code&gt; 的计算机科学论文趋势榜单：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="trendingpapers" src="https://images-1252557999.file.myqcloud.com/uPic/trendingpapers.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://duzhege.cn/"&gt;读者阁&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;可以在线阅读故事会、读者等杂志的网站：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="duzhege" src="https://images-1252557999.file.myqcloud.com/uPic/duzhege.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://ui.aceternity.com/components"&gt;ui.aceternity.com&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;网站包含多种前端动态效果，可以一键复制代码使用，同类网站有：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;https://uiverse.io/&lt;/li&gt;
-&lt;li&gt;https://www.handsome-css.com/&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="aceternity" src="https://images-1252557999.file.myqcloud.com/uPic/aceternity.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">01-01~01-07.老胡的周刊（第123期）.md</guid>
-      <pubDate>Sun, 07 Jan 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
