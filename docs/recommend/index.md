@@ -5,97 +5,89 @@
 
 ## 🎯 项目 
 
-### [Free-TVUrl-Merge](https://github.com/vpei/Free-TVUrl-Merge)
+### [Scrapegraph](https://github.com/VinciGit00/Scrapegraph-ai)
 
-免费 `TvBox` 影视站聚合，`TVBox、Pluto Player、猫影视TV` 等影视播放软件通用接口都可使用：
+基于 `LLM` 大模型的 `Python` 爬虫框架：
 
-![Free-TVUrl-Merge](https://images-1252557999.file.myqcloud.com/uPic/Free-TVUrl-Merge.png) 
+![scrapegraph](https://images-1252557999.file.myqcloud.com/uPic/scrapegraph.jpg) 
 
-### [ChatGPT-On-CS](https://github.com/lrhh123/ChatGPT-On-CS)
+### [samila](https://github.com/sepandhaghighi/samila)
 
-基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用：
+艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
 
-![ChatGPT-On-CS](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-On-CS.jpg) 
+![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
 
-### [mkcert](https://github.com/FiloSottile/mkcert)
+### [cnchar](https://github.com/theajack/cnchar)
 
-`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
+功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
 
-![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
+![cnchar](https://images-1252557999.file.myqcloud.com/uPic/cnchar.jpeg) 
 
 ## 🤖 软件 
 
-### [NetNewsWire](https://netnewswire.com/)
+### [DevToys](https://github.com/veler/DevToys)
 
-适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
+Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
 
-- 支持 Safari 扩展
-- 订阅源下载
-- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
-- 主题设置
-- 多窗口支持
+![](https://images-1252557999.file.myqcloud.com/uPic/DevToys.png)
 
-![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
+可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
 
-### [mCollection](https://github.com/hunmer/mCollection)
+![](https://images-1252557999.file.myqcloud.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
 
-🎉开源，可扩展，可自定义的素材管理库：
+放心体验吧~ 
 
--  sqlite3存储结构，允许自定义关联表
--  没有限制的扩展插件，事件广播多
--  模块化设计，各个功能互不干扰
--  标签页设计，切换更便捷
--  内置全局呼出搜索
--  代码热更新
--  前后端分离，支持部署私人素材库
+### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
 
-![mCollection](https://images-1252557999.file.myqcloud.com/uPic/mCollection.png) 
+免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
 
-### [wiliwili](https://github.com/xfangfang/wiliwili)
+![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
 
-专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和 `Nintendo Switch` 上：
+### [postcat](https://github.com/Postcatlab/postcat)
 
-![wiliwili](https://images-1252557999.file.myqcloud.com/uPic/wiliwili.jpeg) 
+`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+
+![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
 
 ## 👀 资料 
 
-### [css-animation-101](https://github.com/cssanimation/css-animation-101)
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-学习如何为您的网页项目添加动画效果，也有中文版👉[css-animation-101-cn](https://h-wakanda.github.io/css-animation-101-cn/)：
+夯实计算机基础，该怎么学，这个项目给出了答案：
 
-![css-animation-101-cn](https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg) 
+![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
 
-### [theByteBook](https://github.com/isno/theByteBook)
+### [101-rs](https://github.com/tweedegolf/101-rs)
 
-深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
+[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
 
-![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
+![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
 
-### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
+### [一人企业方法论](https://github.com/easychen/one-person-businesses-methodology-v2.0)
 
-一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
+《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群：
 
-![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
+![opb-quick-start](https://images-1252557999.file.myqcloud.com/uPic/opb-quick-start.jpg) 
 
 ## 🕸 网站 
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+### [coze](https://www.coze.cn/)
 
-提供在线绘制时序图的网站：
+扣子为你提供了一站式 AI 开发平台，无需编程，你的创新理念都能迅速化身为下一代的 AI 应用，字节跳动此前是在海外推出 [Coze](https://www.coze.com/)，国内扣子与其分开运营：
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+![coze](https://images-1252557999.file.myqcloud.com/uPic/coze.jpg) 
 
-### [buzzing.cc](https://www.buzzing.cc/)
+### [icones.js.org](https://icones.js.org/)
 
-用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读：
+免费的图标库：
 
-![buzzing](https://images-1252557999.file.myqcloud.com/uPic/buzzing.jpg) 
+![icones](https://images-1252557999.file.myqcloud.com/uPic/icones.jpg) 
 
-### [Bing 文字创建图像](https://www.bing.com/images/create)
+### [AnyBT](https://anybt.eth.limo/)
 
-微软出品的文字生成图像模型（IP不能是国内）：
+种子搜索引擎，下载你想要的资源：
 
-![bing_image](https://images-1252557999.file.myqcloud.com/uPic/bing_image.jpg) 
+![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
 
 ## ✍️ 说明
 
