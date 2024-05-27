@@ -5,92 +5,97 @@
 
 ## 🎯 项目 
 
-### [oh-my-rime](https://github.com/Mintimate/oh-my-rime)
+### [Free-TVUrl-Merge](https://github.com/vpei/Free-TVUrl-Merge)
 
-一套快速初始化开源输入法 `Rime` 的模板方案，跨平台支持 `Win macOS Linux`：
+免费 `TvBox` 影视站聚合，`TVBox、Pluto Player、猫影视TV` 等影视播放软件通用接口都可使用：
 
-![oh-my-rime](https://images-1252557999.file.myqcloud.com/uPic/oh-my-rime.webp) 
+![Free-TVUrl-Merge](https://images-1252557999.file.myqcloud.com/uPic/Free-TVUrl-Merge.png) 
 
-### [Docusaurus](https://github.com/facebook/docusaurus)
+### [ChatGPT-On-CS](https://github.com/lrhh123/ChatGPT-On-CS)
 
-`Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
+基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用：
 
-![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
+![ChatGPT-On-CS](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-On-CS.jpg) 
 
-### [lobe-chat](https://github.com/lobehub/lobe-chat)
+### [mkcert](https://github.com/FiloSottile/mkcert)
 
-`LobeChat` 是一个开源的、可扩展的（Function Calling）高性能聊天机器人框架，它支持一键免费部署私人 `ChatGPT/LLM` 网页应用程序：
+`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
 
-- 💨 快速部署：支持 Vercel 平台
--  💎 精致 UI 设计
--  🗣️ 流畅的对话体验
--  🧩 支持插件与自定义插件开发
--  🔒 隐私安全
--  🤖 自定义助手角色
--  🌐 自定义域名
--  🏬 角色市场
-
-![lobe-chat](https://images-1252557999.file.myqcloud.com/uPic/lobe-chat.webp) 
+![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
 
 ## 🤖 软件 
 
-### [chatbox](https://github.com/Bin-Huang/chatbox)
+### [NetNewsWire](https://netnewswire.com/)
 
-跨平台大模型客户端：
+适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
 
-![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.jpg) 
+- 支持 Safari 扩展
+- 订阅源下载
+- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
+- 主题设置
+- 多窗口支持
 
-### [dockeye](https://github.com/vv9k/dockeye)
+![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
 
-基于`Rust`编写的`Docker`界面管理工具：
+### [mCollection](https://github.com/hunmer/mCollection)
 
-![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
+🎉开源，可扩展，可自定义的素材管理库：
 
-### [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
+-  sqlite3存储结构，允许自定义关联表
+-  没有限制的扩展插件，事件广播多
+-  模块化设计，各个功能互不干扰
+-  标签页设计，切换更便捷
+-  内置全局呼出搜索
+-  代码热更新
+-  前后端分离，支持部署私人素材库
 
-Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端，首页、书影音、小组、市集及个人中心：
+![mCollection](https://images-1252557999.file.myqcloud.com/uPic/mCollection.png) 
 
-![FlutterDouBan](https://images-1252557999.file.myqcloud.com/uPic/FlutterDouBan.jpg) 
+### [wiliwili](https://github.com/xfangfang/wiliwili)
+
+专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和 `Nintendo Switch` 上：
+
+![wiliwili](https://images-1252557999.file.myqcloud.com/uPic/wiliwili.jpeg) 
 
 ## 👀 资料 
 
-### [大模型交叉研讨课](https://www.openbmb.org/community/course)
+### [css-animation-101](https://github.com/cssanimation/css-animation-101)
 
-OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：
+学习如何为您的网页项目添加动画效果，也有中文版👉[css-animation-101-cn](https://h-wakanda.github.io/css-animation-101-cn/)：
 
-![openbmb_course](https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg) 
+![css-animation-101-cn](https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg) 
 
-### [LLMBook-zh](https://llmbook-zh.github.io/)
+### [theByteBook](https://github.com/isno/theByteBook)
 
-大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
+深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
 
-![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
+![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
 
-### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
 
-学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
+一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
 
-![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
+![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
 
 ## 🕸 网站 
 
-### [ziyouziti](https://ziyouziti.com/)
+### [websequencediagrams](https://www.websequencediagrams.com/)
 
-免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
+提供在线绘制时序图的网站：
 
-![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
-### [untools](https://untools.co/)
+### [buzzing.cc](https://www.buzzing.cc/)
 
-一个帮助你思考的集合工具&框架：
+用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读：
 
-![untools](https://images-1252557999.file.myqcloud.com/uPic/hHu9aw.png) 
+![buzzing](https://images-1252557999.file.myqcloud.com/uPic/buzzing.jpg) 
 
-### [必应壁纸](https://bing.ioliu.cn/)
+### [Bing 文字创建图像](https://www.bing.com/images/create)
 
-收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
+微软出品的文字生成图像模型（IP不能是国内）：
 
-![bing](https://images-1252557999.file.myqcloud.com/uPic/bing.jpg) 
+![bing_image](https://images-1252557999.file.myqcloud.com/uPic/bing_image.jpg) 
 
 ## ✍️ 说明
 
