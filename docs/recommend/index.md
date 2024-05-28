@@ -5,89 +5,90 @@
 
 ## 🎯 项目 
 
-### [Scrapegraph](https://github.com/VinciGit00/Scrapegraph-ai)
+### [ar5iv](https://github.com/dginev/ar5iv)
 
-基于 `LLM` 大模型的 `Python` 爬虫框架：
+`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
 
-![scrapegraph](https://images-1252557999.file.myqcloud.com/uPic/scrapegraph.jpg) 
+![ar5iv](https://images-1252557999.file.myqcloud.com/uPic/ar5iv.jpg) 
 
-### [samila](https://github.com/sepandhaghighi/samila)
+### [bililive-go](https://github.com/hr3lxphr6j/bililive-go)
 
-艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
+`Bililive-go` 是一个支持多种直播平台的直播录制工具：
 
-![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
+![bililive-go](https://images-1252557999.file.myqcloud.com/uPic/bililive-go.webp) 
 
-### [cnchar](https://github.com/theajack/cnchar)
+### [pico.css](https://github.com/picocss/pico)
 
-功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
+简单优雅小巧的轻量级CSS框架，特性如下：
 
-![cnchar](https://images-1252557999.file.myqcloud.com/uPic/cnchar.jpeg) 
+- 尽量使用原生的HTML语义，上手简单
+- 仅使用CSS，无依赖
+- 在所有设备上都有优雅且一致的响应式排版
+- 默认支持亮/黑模式 
 
 ## 🤖 软件 
 
-### [DevToys](https://github.com/veler/DevToys)
+### [全是漫画](https://github.com/hongchacha/cartoon)
 
-Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
+全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
 
-![](https://images-1252557999.file.myqcloud.com/uPic/DevToys.png)
+![comic](https://images-1252557999.file.myqcloud.com/uPic/FXXmY5.jpg) 
 
-可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
+### [Codeium](https://codeium.com/)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
+基于 `AI` 赋能的编码智能助手，自动补全代码，开发者的福音，对标 `GitHub Copilot`：
 
-放心体验吧~ 
+![codeium](https://images-1252557999.file.myqcloud.com/uPic/codeium.jpg) 
 
-### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
+### [tunnelblick](https://tunnelblick.net/)
 
-免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
+免费开源的`openvpn`客户端：
 
-![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
-
-### [postcat](https://github.com/Postcatlab/postcat)
-
-`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
-
-![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
+![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
 
 ## 👀 资料 
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
 
-夯实计算机基础，该怎么学，这个项目给出了答案：
+这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
 
-![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
+![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
 
-### [101-rs](https://github.com/tweedegolf/101-rs)
+### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
 
-[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
+《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 
-![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
+![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
 
-### [一人企业方法论](https://github.com/easychen/one-person-businesses-methodology-v2.0)
+### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 
-《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群：
+本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
 
-![opb-quick-start](https://images-1252557999.file.myqcloud.com/uPic/opb-quick-start.jpg) 
+基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
+配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
+测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
+
+![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [coze](https://www.coze.cn/)
+### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
 
-扣子为你提供了一站式 AI 开发平台，无需编程，你的创新理念都能迅速化身为下一代的 AI 应用，字节跳动此前是在海外推出 [Coze](https://www.coze.com/)，国内扣子与其分开运营：
+冰霜大佬的博客：
 
-![coze](https://images-1252557999.file.myqcloud.com/uPic/coze.jpg) 
+![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
 
-### [icones.js.org](https://icones.js.org/)
+### [the-algorithms](https://the-algorithms.com/zh_Hans)
 
-免费的图标库：
+`GitHub` 最大的开源算法库：
 
-![icones](https://images-1252557999.file.myqcloud.com/uPic/icones.jpg) 
+![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
 
-### [AnyBT](https://anybt.eth.limo/)
+### [http.cat](https://http.cat)
 
-种子搜索引擎，下载你想要的资源：
+如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
 
-![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
+![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
 
 ## ✍️ 说明
 
