@@ -5,48 +5,51 @@
 
 ## 🎯 项目 
 
-### [ar5iv](https://github.com/dginev/ar5iv)
+### [nocobase](https://github.com/nocobase/nocobase)
 
-`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
+NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
 
-![ar5iv](https://images-1252557999.file.myqcloud.com/uPic/ar5iv.jpg) 
+![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
 
-### [bililive-go](https://github.com/hr3lxphr6j/bililive-go)
+### [go-musicfox](https://github.com/go-musicfox/go-musicfox)
 
-`Bililive-go` 是一个支持多种直播平台的直播录制工具：
+`go-musicfox`是用 Go 写的又一款网易云音乐命令行客户端，支持 `UnblockNeteaseMusic`、各种音质级别、`lastfm`、`MPRIS`、`MacOS` 交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）:
 
-![bililive-go](https://images-1252557999.file.myqcloud.com/uPic/bililive-go.webp) 
+![go-musicfox](https://images-1252557999.file.myqcloud.com/uPic/go-musicfox.png) 
 
-### [pico.css](https://github.com/picocss/pico)
+### [monaco-editor](https://github.com/microsoft/monaco-editor)
 
-简单优雅小巧的轻量级CSS框架，特性如下：
+微软开源的 `Web` 编辑器：
 
-- 尽量使用原生的HTML语义，上手简单
-- 仅使用CSS，无依赖
-- 在所有设备上都有优雅且一致的响应式排版
-- 默认支持亮/黑模式 
+![monaco-editor](https://images-1252557999.file.myqcloud.com/uPic/monaco-editor.png) 
 
 ## 🤖 软件 
 
-### [全是漫画](https://github.com/hongchacha/cartoon)
+### [FixTim](https://github.com/Lakr233/FixTim)
 
-全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
+在很多情况下，我们可能需要重新启动 `Mac` 来纠正故障。这个工具旨在解决大多数运行时错误，而无需完全重新启动系统，并且它可以将您的应用程序恢复到问题出现之前的状态：
 
-![comic](https://images-1252557999.file.myqcloud.com/uPic/FXXmY5.jpg) 
+![FixTim](https://images-1252557999.file.myqcloud.com/uPic/FixTim.gif) 
 
-### [Codeium](https://codeium.com/)
+### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 
-基于 `AI` 赋能的编码智能助手，自动补全代码，开发者的福音，对标 `GitHub Copilot`：
+`Diffusion Bee`是在 `M1 Mac`上本地运行 `Stable Diffusion` 的最简单方法，附带一键安装程序，不需要依赖性或技术知识：
 
-![codeium](https://images-1252557999.file.myqcloud.com/uPic/codeium.jpg) 
+![diffusionbee](https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg) 
 
-### [tunnelblick](https://tunnelblick.net/)
+### [Übersicht](https://github.com/felixhageloh/uebersicht)
 
-免费开源的`openvpn`客户端：
+构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
 
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
 
 ## 👀 资料 
+
+### [paper-reading](https://github.com/mli/paper-reading)
+
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+
+![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
 
 ### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
 
@@ -54,41 +57,31 @@
 
 ![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
 
-### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
+### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
-《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
+微软开源的一份全面的数据科学课程，20个课时，历时10周：
 
-![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
-
-### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
-
-本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
-
-基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
-配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
-测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
-
-![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
+![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
 
 ## 🕸 网站 
 
-### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
+### [flowgpt](https://flowgpt.com/)
 
-冰霜大佬的博客：
+一个分享ChatGPT提示的网站：
 
-![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
+![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
 
-### [the-algorithms](https://the-algorithms.com/zh_Hans)
+### [uiset](https://uiset.com/)
 
-`GitHub` 最大的开源算法库：
+共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
 
-![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
+![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
 
-### [http.cat](https://http.cat)
+### [feathericons](https://feathericons.com/)
 
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
+简洁漂亮的图标网站：
 
-![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
+![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
 
 ## ✍️ 说明
 
