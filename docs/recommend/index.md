@@ -5,91 +5,94 @@
 
 ## 🎯 项目 
 
-### [koishi](https://koishi.chat/zh-CN/)
+### [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo "MoneyPrinterTurbo")
 
-周刊群友推荐，创建跨平台、可扩展、高性能的机器人，插件丰富，`Koishi` 提供了高度便利的控制台，让你无需基础让你在几分钟之内搭建自己的聊天机器人。
+只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频：
 
-- 提供在线插件市场，即使没有任何编程基础，也能轻松在控制台中下载安装插件
-- 支持 QQ，Telegram，Discord，飞书等主流聊天平台，支持多账户和跨平台数据互通
-- 随时随地通过控制面板监控运行状态，控制机器人的行为，甚至上号聊天
+![MoneyPrinterTurbo](https://images-1252557999.file.myqcloud.com/uPic/MoneyPrinterTurbo.jpeg) 
 
-![koishi](https://images-1252557999.file.myqcloud.com/uPic/koishi.jpg) 
+### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
 
-### [PyWxDump](https://github.com/xaoyaoo/PyWxDump)
+基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
 
-和上周推荐的 [WeChatMsg](https://weekly.howie6879.com/2023/11-27~12-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC118%E6%9C%9F%EF%BC%89.html) 项目同样类型，针对微信聊天记录，获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
+![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
 
-![PyWxDump](https://images-1252557999.file.myqcloud.com/uPic/PyWxDump.png) 
+### [privateGPT](https://github.com/imartinez/privateGPT)
 
-### [50projects50days](https://github.com/bradtraversy/50projects50days)
+为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
 
-50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
-
-![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
+![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
 
 ## 🤖 软件 
 
-### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
+### [Webpilot](https://github.com/webpilot-ai/Webpilot)
 
-类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
+开源浏览器插件，基于 `ChatGPT` 可以让您与网页进行自由对话，可以在线访问 [webpilot.ai](https://github.com/webpilot-ai/Webpilot)：
 
-![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
+![webpilot](https://images-1252557999.file.myqcloud.com/uPic/webpilot.jpg) 
 
-### [PetThoughts](https://github.com/liu-ziting/PetThoughts)
+### [fluent-reader](https://github.com/yang991178/fluent-reader)
 
-【我知道你的宠物在想什么】 是一个基于 Gemini Pro API 构建的图片识别项目，通过上传你宠物的照片，该项目能够智能分析你的宠物的表情和环境，并推测出它们可能在想些什么。
+一款拥有现代化界面的RSS阅读器，拥有以下特性：
 
-- 图片识别：利用 Gemini-pro-vision 的图像识别技术，能够准确地识别宠物的表情和环境。
-- 表情分析：通过分析宠物的表情 Gemini-pro-vision 可以推测出宠物可能的情绪状态，如开心、惊讶、困惑等。
-- 环境分析：Gemini-pro-vision 还能根据宠物所处的环境，推测出它们可能的活动场景，如户外玩耍、室内休息等。
-- 自然语言处理：结合图像识别和自然语言处理技术，Gemini-pro-vision 可以将宠物的情绪和活动场景转化为可读性高的文字描述。
-- 用户友好界面：提供简洁直观的用户界面，使用户能够轻松上传照片并获取宠物分析结果。
+- 跨平台
+- 可同步自部署服务以及外部服务如：Inoreader, Feedbin
+- 支持OPML导入导出
+- 正则检索，状态管控，快捷键等
 
-![pt](https://images-1252557999.file.myqcloud.com/uPic/pt.jpeg) 
+![fluent-reader](https://images-1252557999.file.myqcloud.com/uPic/fluent-reader.png) 
 
-### [GitUp](https://github.com/git-up/GitUp)
+### [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
 
-简洁的 `Git` 客户端：
+安卓的 `BiliBili、NicoNico、YouTube` 替换客户端，支持弹幕、评论、登录下载：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/GitUp.jpg) 
+![pipepipe](https://images-1252557999.file.myqcloud.com/uPic/pipepipe.jpg) 
 
 ## 👀 资料 
 
-### [under-the-hood](https://golang.design/under-the-hood/)
+### [uxbaike](https://uxbaike.com/)
 
-`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
+UX 百科，属于设计师的专业知识库：
 
-![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
+![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
 
-### [如何制作落地页](https://www.bmms.me/blog/landing-page)
+### [netkiller](https://www.netkiller.cn/)
 
-如果你想要看到比较系统全面的落地页操作指南，这篇文章是作者小吉拆解了国内外 117 个优秀的落地页案例，总结提炼出的保姆级入门指南：
+作者持续写了将近20年的技术博文，涵盖面极广：
 
-![landing-page](https://images-1252557999.file.myqcloud.com/uPic/landing-page.jpg) 
+![netkiller](https://images-1252557999.file.myqcloud.com/uPic/V7rzw3.png) 
 
-### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
 
-LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
+学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
+
+![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
 
 ## 🕸 网站 
 
-### [shell.how](https://www.shell.how/)
+### [smartexcel](https://www.smartexcel.cc/)
 
-网站用优雅的交互和排版告诉你Linux命令的作用：
+使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
 
-![shell_howe](https://images-1252557999.file.myqcloud.com/uPic/shell_howe.jpg) 
+![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
 
-### [medisearch](https://medisearch.io/zh)
+### [123apps](https://123apps.com/cn/)
 
-直接的科学为基础的医疗问答模型：
+网站提供了一系列的小工具，包含分类：
 
-![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
+- 视频工具
+- 音频工具
+- PDF 工具
+- 转换器
+- ......
 
-### [动漫新番表](https://www.fre123.com/anime/n)
+![123apps](https://images-1252557999.file.myqcloud.com/uPic/123apps.jpg) 
 
-继上周做了[动漫搜索引擎](https://www.fre123.com/anime/s)后，老胡这次整了个动漫新番信息记录网站，新番信息脚本和数据都是开源的👉[fre123-anime](https://github.com/fre123-com/fre123-anime)，欢迎体验：
+### [react-tetris](https://github.com/chvin/react-tetris)
 
-![fre123_anime_n](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime_n.jpg) 
+用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
+
+![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
 
 ## ✍️ 说明
 
