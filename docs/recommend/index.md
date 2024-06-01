@@ -5,94 +5,91 @@
 
 ## 🎯 项目 
 
-### [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo "MoneyPrinterTurbo")
+### [bitwarden](https://github.com/bitwarden)
 
-只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频：
+一个开源，免费，跨平台，安全易管理，，能自动填充密码可自建的密码管理解决方案：
 
-![MoneyPrinterTurbo](https://images-1252557999.file.myqcloud.com/uPic/MoneyPrinterTurbo.jpeg) 
+![bitwarden](https://images-1252557999.file.myqcloud.com/uPic/bitwarden.jpg) 
 
-### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
+### [inpaint-web](https://github.com/lxfater/inpaint-web)
 
-基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
+基于 `WebGPU` 技术和 `wasm` 技术的免费开源图片修复&图片高清化工具, 纯浏览器端实现：
 
-![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
+![inpaint-web](https://images-1252557999.file.myqcloud.com/uPic/inpaint-web.jpg) 
 
-### [privateGPT](https://github.com/imartinez/privateGPT)
+### [DailyHotApi](https://github.com/imsyy/DailyHotApi)
 
-为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
+今日热榜 `API`，一个聚合热门数据的 `API` 接口，支持 `Vercel` 部署：
 
-![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
+![DailyHot](https://images-1252557999.file.myqcloud.com/uPic/DailyHot.jpg) 
 
 ## 🤖 软件 
 
-### [Webpilot](https://github.com/webpilot-ai/Webpilot)
+### [ptg](https://github.com/crossoverJie/ptg)
 
-开源浏览器插件，基于 `ChatGPT` 可以让您与网页进行自由对话，可以在线访问 [webpilot.ai](https://github.com/webpilot-ai/Webpilot)：
+让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
 
-![webpilot](https://images-1252557999.file.myqcloud.com/uPic/webpilot.jpg) 
+![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
 
-### [fluent-reader](https://github.com/yang991178/fluent-reader)
+### [Quake](https://github.com/phodal/quake)
 
-一款拥有现代化界面的RSS阅读器，拥有以下特性：
+Quake 是面向极客的知识管理元框架，它可以：
 
-- 跨平台
-- 可同步自部署服务以及外部服务如：Inoreader, Feedbin
-- 支持OPML导入导出
-- 正则检索，状态管控，快捷键等
+- 自由的文本内容管理。Todo 清单、文章管理、书评、笔记等。
+- 构建知识网络体系。定制化 markdown 链接
+- 抓住稍纵即逝的灵感。支持快速启动（CLI、TUI）与全局搜索
+- 自由的呈现画布。DSL 与自由画板
 
-![fluent-reader](https://images-1252557999.file.myqcloud.com/uPic/fluent-reader.png) 
+![quake](https://images-1252557999.file.myqcloud.com/uPic/quake.gif) 
 
-### [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
+### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
 
-安卓的 `BiliBili、NicoNico、YouTube` 替换客户端，支持弹幕、评论、登录下载：
+`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
 
-![pipepipe](https://images-1252557999.file.myqcloud.com/uPic/pipepipe.jpg) 
+![Miao](https://images-1252557999.file.myqcloud.com/uPic/Miao.png) 
 
 ## 👀 资料 
 
-### [uxbaike](https://uxbaike.com/)
+### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
 
-UX 百科，属于设计师的专业知识库：
+为初学者整理的免费 `CSS` 课程：
 
-![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
+![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
 
-### [netkiller](https://www.netkiller.cn/)
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-作者持续写了将近20年的技术博文，涵盖面极广：
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-![netkiller](https://images-1252557999.file.myqcloud.com/uPic/V7rzw3.png) 
+![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
 
-### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
 
-学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
+经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
 
-![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
+![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
 
 ## 🕸 网站 
 
-### [smartexcel](https://www.smartexcel.cc/)
+### [awesome-chatgpt-prompts](https://prompts.chat/)
 
-使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
+`ChatGPT` 余热不减，一周百万用户果然不是盖的，这个项目总结了 `ChatGPT` 常用姿势：
 
-![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
+![prompts](https://images-1252557999.file.myqcloud.com/uPic/prompts.jpg) 
 
-### [123apps](https://123apps.com/cn/)
+### [scrnshts.club](https://scrnshts.club/)
 
-网站提供了一系列的小工具，包含分类：
+收集 App 在应用商店中做宣传用的截图，很有意思：
 
-- 视频工具
-- 音频工具
-- PDF 工具
-- 转换器
-- ......
+![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
 
-![123apps](https://images-1252557999.file.myqcloud.com/uPic/123apps.jpg) 
+### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
 
-### [react-tetris](https://github.com/chvin/react-tetris)
+老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
 
-用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
+- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
+- Gemini Pro 体验地址：https://gemini.fre123.com/
 
-![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
+![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
 
 ## ✍️ 说明
 
