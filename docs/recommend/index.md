@@ -5,84 +5,98 @@
 
 ## 🎯 项目 
 
-### [Piwigo](https://github.com/Piwigo/Piwigo)
+### [homepage](https://github.com/benphelps/homepage)
 
- `Piwigo` 是一个开源的网络照片库软件，用于管理照片，专为组织、团队和个人设计：
- 
- ![Piwigo](https://images-1252557999.file.myqcloud.com/uPic/Piwigo.jpeg) 
+高度可定制的首页仪表板应用项目：
 
-### [form-create-designer](https://github.com/xaboy/form-create-designer)
+![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
 
-`form-create-designer` 是基于 [@form-create/element-ui](https://github.com/xaboy/form-create) 实现的表单设计器组件。可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率，节省开发者的时间：
+### [pi-hole](https://pi-hole.net/)
 
-![form-create-designer](https://images-1252557999.file.myqcloud.com/uPic/form-create-designer.png) 
+一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
 
-### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
+![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
 
-开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
+### [personal-management-system](https://github.com/Volmarg/personal-management-system)
 
-![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
+该项目可以很方便的管理个人数据，如目标规划/笔记/联系人/密码/附件/图片/文件等等：
+
+![personal-management-system](https://images-1252557999.file.myqcloud.com/uPic/C6hnHx.jpg) 
 
 ## 🤖 软件 
 
-### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
+### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
 
-谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
+自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
 
-![temp_mail](https://images-1252557999.file.myqcloud.com/uPic/M4DZPI.png) 
+![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
 
-### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
+### [MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop)
 
-提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
+一个插件化、定制化、无广告的免费音乐播放器:
 
-![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
+- 插件化：本软件仅仅是一个播放器，本身并不集成任何平台的任何音源，所有的搜索、播放、歌单导入等功能全部基于插件
+- 插件支持的功能：搜索（音乐、专辑、作者、歌单）、播放、查看专辑、查看作者详细信息、导入单曲、导入歌单、获取歌词等
+- 定制化：本软件可以通过主题包定义软件外观及背景，详见下方主题包一节
+- 无广告：基于 GPL3.0 协议开源，将会保持免费
+- 隐私：软件所有数据存储在本地，本软件不会上传你的个人信息。
 
-### [azusa-player-mobile](https://github.com/lovegaoshi/azusa-player-mobile)
+![MusicFreeDesktop](https://images-1252557999.file.myqcloud.com/uPic/MusicFreeDesktop.png) 
 
-一个 `Bilibili` 第三方音频播放器：
+### [JPEGView](https://github.com/sylikc/jpegview)
 
-![azusa-player-mobile](https://images-1252557999.file.myqcloud.com/uPic/azusa-player-mobile.jpg) 
+`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
 
 ## 👀 资料 
 
-### [Local-LLM-User-Guideline](https://github.com/xue160709/Local-LLM-User-Guideline/blob/main/README-zh.md)：
+### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
 
-本地 LLM 使用指南，这个构建你自己的 AI 辅助编码助手项目也不错，参考玩玩👀[build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant)：介绍如何 DIY 一个端到端（从 IDE 插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 `GitHub Copilot、JetBrains AI Assistant、AutoDev` 等。 
+这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
 
-### [Linux 内核教学](https://linux-kernel-labs-zh.xyz/)
+- 👋 入门
+- 💬 大语言模型
+	- 💡 提示工程
+	- 🔧 大语言模型实践
+	- 🔬 大语言模型理论
+- 🎨 AI绘画
+- 🔊 AI音频
+- 🌈 多模态
+- 🧠 深度学习
+- 💻 AI系统 
 
-本文档包含一系列 `Linux` 内核主题的课程和实验，课程侧重于理论和 `Linux` 内核探索。实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：
+### [dockerlabs](https://github.com/collabnix/dockerlabs)
 
-- 主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引
-- 实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示
+Docker 学习教程：
 
-![linux-kernel-labs-zh](https://images-1252557999.file.myqcloud.com/uPic/linux-kernel-labs-zh.jpg) 
+- 适用于初中高级别学习者的免费平台
+- 超过500个高度互动的Docker教程和指南
+- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
 
-### [LLMs-In-China](https://github.com/wgwang/LLMs-In-China)
+![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
 
-记录中国大模型发展情况，同时持续深度分析开源开放的大模型以及数据集的情况，目前记录了国内188个大模型：
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-![LLMs-In-China](https://images-1252557999.file.myqcloud.com/uPic/LLMs-In-China.png) 
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
 ## 🕸 网站 
 
-### [star-history](https://star-history.com/)
+### [extract.pics](https://extract.pics/)
 
-在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
+输入网站地址，提取网站图片资源：
 
-![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
+![extract_pics](https://images-1252557999.file.myqcloud.com/uPic/extract_pics.jpg) 
 
-### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
+### [compressjpeg](https://compressjpeg.com/zh/)
 
-一个搜索 git 常用 emoji 的网站:
+一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
 
-![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
+![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg) 
 
-### [privacytools.io](https://www.privacytools.io/)
+### [grep.app](https://grep.app/)
 
-大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
+从 50 万个开源仓库中搜索你需要的代码片段，搜索速度很快：
 
-![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
+![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
 
 ## ✍️ 说明
 
