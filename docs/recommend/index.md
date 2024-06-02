@@ -5,98 +5,101 @@
 
 ## 🎯 项目 
 
-### [homepage](https://github.com/benphelps/homepage)
+### [Message-Push-Nest](https://github.com/engigu/Message-Push-Nest)
 
-高度可定制的首页仪表板应用项目：
+打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义 `webhook` 等多种通知方式。定制你的消息，让通知方式更灵活多样。
 
-![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
 
-### [pi-hole](https://pi-hole.net/)
+![Message-Push-Nest](https://images-1252557999.file.myqcloud.com/uPic/Message-Push-Nest.jpg) 
 
-一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
+### [budibase](https://github.com/Budibase/budibase)
 
-![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
+`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
 
-### [personal-management-system](https://github.com/Volmarg/personal-management-system)
+![budibase](https://images-1252557999.file.myqcloud.com/uPic/bCfcQe.jpg) 
 
-该项目可以很方便的管理个人数据，如目标规划/笔记/联系人/密码/附件/图片/文件等等：
+### [ssddanbrown/rss](https://github.com/ssddanbrown/rss)
 
-![personal-management-system](https://images-1252557999.file.myqcloud.com/uPic/C6hnHx.jpg) 
+一个简单的 `Twitter-feed` 风格的 `RSS` 聚合器，使用 `PHP、Laravel、Inertia.js、Tailwind、Vue.js` 编写:
+
+- 支持RSS和ATOM格式
+- 定期自动获取RSS订阅源
+- 自定义订阅名称和颜色
+- 基于内容的标签进行分类
+- 3种不同的帖子布局模式（卡片、列表、紧凑）
+- 获取页面的开放图像
+- 通过单个纯文本文件管理的订阅源
+- 基于系统的暗/亮主题
+- 帖子标题/描述搜索
+- 开箱即用的Docker镜像
+- 手机屏幕兼容
+- 清理旧的帖子数据
+
+![ssddanbrown_rss](https://images-1252557999.file.myqcloud.com/uPic/ssddanbrown_rss.png) 
 
 ## 🤖 软件 
 
-### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
+### [BlogHelper](https://github.com/onblog/BlogHelper)
 
-自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
+帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
 
-![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
+![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
 
-### [MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop)
+### [sunnypages](https://github.com/XMuli/sunnypages)
 
-一个插件化、定制化、无广告的免费音乐播放器:
+`Sunny` 截图是一款简洁且漂亮的截图的软件工具，支持 `Windows，MacOS，Linux` 平台。亦支持图片翻译和 `OCR`：
 
-- 插件化：本软件仅仅是一个播放器，本身并不集成任何平台的任何音源，所有的搜索、播放、歌单导入等功能全部基于插件
-- 插件支持的功能：搜索（音乐、专辑、作者、歌单）、播放、查看专辑、查看作者详细信息、导入单曲、导入歌单、获取歌词等
-- 定制化：本软件可以通过主题包定义软件外观及背景，详见下方主题包一节
-- 无广告：基于 GPL3.0 协议开源，将会保持免费
-- 隐私：软件所有数据存储在本地，本软件不会上传你的个人信息。
+![sunnypages](https://images-1252557999.file.myqcloud.com/uPic/sunnypages.jpg) 
 
-![MusicFreeDesktop](https://images-1252557999.file.myqcloud.com/uPic/MusicFreeDesktop.png) 
+### [pilipala](https://github.com/guozhigq/pilipala)
 
-### [JPEGView](https://github.com/sylikc/jpegview)
+使用 `Flutter` 开发的 `BiliBili` 第三方客户端，专为提高用户在观看BiliBili视频时的体验而设计：
 
-`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
+![pilipala](https://images-1252557999.file.myqcloud.com/uPic/pilipala.jpg) 
 
 ## 👀 资料 
 
-### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
+### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
 
-这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
+如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
 
-- 👋 入门
-- 💬 大语言模型
-	- 💡 提示工程
-	- 🔧 大语言模型实践
-	- 🔬 大语言模型理论
-- 🎨 AI绘画
-- 🔊 AI音频
-- 🌈 多模态
-- 🧠 深度学习
-- 💻 AI系统 
+这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
 
-### [dockerlabs](https://github.com/collabnix/dockerlabs)
+其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
 
-Docker 学习教程：
+![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
 
-- 适用于初中高级别学习者的免费平台
-- 超过500个高度互动的Docker教程和指南
-- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
+### [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book)
 
-![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
+`PeiQi` 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，`CTF` 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见。
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+![PeiQi-WIKI-Book](https://images-1252557999.file.myqcloud.com/uPic/PeiQi-WIKI-Book.png) 
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
+
+从零开始学习Kubernetes的路线图（初级到高级）：
+
+![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
 
 ## 🕸 网站 
 
-### [extract.pics](https://extract.pics/)
+### [emojimix](https://tikolu.net/emojimix/)
 
-输入网站地址，提取网站图片资源：
+一个表情融合网站，图一个乐呵，效果如下：
 
-![extract_pics](https://images-1252557999.file.myqcloud.com/uPic/extract_pics.jpg) 
+![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
 
-### [compressjpeg](https://compressjpeg.com/zh/)
+### [z2h 字帖](https://paper.z2h.cn/)
 
-一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
+用正确的方法刻意练习，每个人都能写出一手漂亮的字，自定义字帖字体和内容，可打印导出练字：
 
-![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg) 
+![z2h](https://images-1252557999.file.myqcloud.com/uPic/z2h.jpg) 
 
-### [grep.app](https://grep.app/)
+### [RuTracker](https://rutracker.org/forum/index.php)
 
-从 50 万个开源仓库中搜索你需要的代码片段，搜索速度很快：
+俄罗斯最大的盗版网站开放了，可以去上面找资源了：
 
-![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
+![rutracker](https://images-1252557999.file.myqcloud.com/uPic/rutracker.jpg) 
 
 ## ✍️ 说明
 
