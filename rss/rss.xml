@@ -12,7 +12,7 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 02 Jun 2024 15:25:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 15:31:42 +0000</lastBuildDate>
     <item>
       <title>05-27~06-02.老胡的周刊（第144期）.md</title>
       <link>https://weekly.howie6879.com/2024/05-27~06-02.老胡的周刊（第144期）.html</link>
@@ -30,7 +30,7 @@
 &lt;/ul&gt;
 &lt;p&gt;效果挺好的，相关 &lt;code&gt;Web UI&lt;/code&gt; 有 &lt;a href="https://github.com/jianchang512/ChatTTS-ui"&gt;ChatTTS-ui&lt;/a&gt; 项目：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="ChatTTS" src="https://images-1252557999.file.myqcloud.com/uPic/ChatTTS.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;Gallery-Portfolio&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="https://github.com/linyuxuanlin/Gallery-Portfolio"&gt;Gallery-Portfolio&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一个简单的摄影作品展示站，你只需要将图片存放在免费的 &lt;code&gt;Cloudflare R2&lt;/code&gt; 上（或其他支持 AWS S3 的对象存储），即可在这里展现你的精选图片。在这里你可以通过 瀑布流 的形式浏览图片，也可以 点开大图 ，查看光圈 / 快门 / ISO 等 EXIF 信息。网站基于 Node.js，使用 Material Design 风格的 响应式设计，支持 日夜间模式 切换，在不同的设备上都有不错的视觉效果：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Gallery-Portfolio" src="https://images-1252557999.file.myqcloud.com/uPic/Gallery-Portfolio.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/TDuckCloud/tduck-front"&gt;tduck-front&lt;/a&gt;&lt;/h3&gt;
