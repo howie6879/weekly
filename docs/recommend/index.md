@@ -5,91 +5,108 @@
 
 ## 🎯 项目 
 
-### [bitwarden](https://github.com/bitwarden)
+### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
-一个开源，免费，跨平台，安全易管理，，能自动填充密码可自建的密码管理解决方案：
+Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
 
-![bitwarden](https://images-1252557999.file.myqcloud.com/uPic/bitwarden.jpg) 
+你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
 
-### [inpaint-web](https://github.com/lxfater/inpaint-web)
+- 🌐 利用互联网进行搜索和信息收集
+- 💾 长期和短期记忆管理
+- 🧠 GPT-4实例用于文本生成
+- 🔗 访问流行的网站和平台
+- 🗃️ 使用GPT-3.5进行文件存储和摘要
 
-基于 `WebGPU` 技术和 `wasm` 技术的免费开源图片修复&图片高清化工具, 纯浏览器端实现：
+![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
 
-![inpaint-web](https://images-1252557999.file.myqcloud.com/uPic/inpaint-web.jpg) 
+### [invoice](https://github.com/guanshuicheng/invoice)
 
-### [DailyHotApi](https://github.com/imsyy/DailyHotApi)
+增值税发票 `OCR` 识别，使用 `flask` 微服务架构，识别 `type` ：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等：
 
-今日热榜 `API`，一个聚合热门数据的 `API` 接口，支持 `Vercel` 部署：
+![invoice](https://images-1252557999.file.myqcloud.com/uPic/invoice.jpg) 
 
-![DailyHot](https://images-1252557999.file.myqcloud.com/uPic/DailyHot.jpg) 
+### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
+
+鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
+
+![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
 
 ## 🤖 软件 
 
-### [ptg](https://github.com/crossoverJie/ptg)
+### [AFFiNE](https://github.com/toeverything/AFFiNE)
 
-让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
+`AFFiNE` 是为创意思考而生的统一知识管理平台，一个注重隐私、本地优先、开源且可立即使用的 `Notion + Miro` 开源替代方案：
 
-![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
+- 同时书写、绘制和计划
+- 任意地方存储查看您的数据
+- 离线优先
+- 简洁直观的设计
+- 具备 `Markdown` 支持的现代区块编辑器
+- 团队协作
+- 多语言支持
+- 插件支持
 
-### [Quake](https://github.com/phodal/quake)
+支持 `web` & 跨平台访问：
 
-Quake 是面向极客的知识管理元框架，它可以：
+![afine](https://images-1252557999.file.myqcloud.com/uPic/afine.jpg) 
 
-- 自由的文本内容管理。Todo 清单、文章管理、书评、笔记等。
-- 构建知识网络体系。定制化 markdown 链接
-- 抓住稍纵即逝的灵感。支持快速启动（CLI、TUI）与全局搜索
-- 自由的呈现画布。DSL 与自由画板
+### [TTime](https://github.com/inkTimeRecord/TTime)
 
-![quake](https://images-1252557999.file.myqcloud.com/uPic/quake.gif) 
+🚀 一款简洁高效的跨平台输入、截图、划词翻译软件：
 
-### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
+![TTime](https://images-1252557999.file.myqcloud.com/uPic/TTime.jpg)
 
-`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
+[Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#bob) 算是这类软件的鼻祖，之前我也推荐过 [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=pot#pot-desktop) ，大家酌情选择即可。 
 
-![Miao](https://images-1252557999.file.myqcloud.com/uPic/Miao.png) 
+### [pear-rec](https://github.com/027xiguapi/pear-rec)
+
+`pear-rec`(梨子 rec) 是一个跨平台的截图、录屏、录音、录像软件：
+
+![pear-rec](https://images-1252557999.file.myqcloud.com/uPic/pear-rec.jpg) 
 
 ## 👀 资料 
 
-### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
+### [unplugged](https://github.com/liuxinyu95/unplugged)
 
-为初学者整理的免费 `CSS` 课程：
+刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
 
-![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
+![unplugged](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-10-23_21-49-37.jpg)
 
-### [miaosha](https://github.com/qiurunze123/miaosha)
+如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
 
-高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
+### [Flutter实战·第二版](https://book.flutterchina.club/)
 
-![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
+本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
 
-### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
 
-经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
 
-![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
+`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
+
+- [Tauri 项目](https://github.com/tauri-apps/tauri)
+- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
+- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
 
 ## 🕸 网站 
 
-### [awesome-chatgpt-prompts](https://prompts.chat/)
+### [shenyandayi](https://www.shenyandayi.com/)
 
-`ChatGPT` 余热不减，一周百万用户果然不是盖的，这个项目总结了 `ChatGPT` 常用姿势：
+深言达意，懂文字更懂你：
 
-![prompts](https://images-1252557999.file.myqcloud.com/uPic/prompts.jpg) 
+![shenyandayi](https://images-1252557999.file.myqcloud.com/uPic/shenyandayi.jpg) 
 
-### [scrnshts.club](https://scrnshts.club/)
+### [chinesenewyear](https://chinesenewyear.net/)
 
-收集 App 在应用商店中做宣传用的截图，很有意思：
+国外一个专门介绍农历春节的网站，包含了非常多关于春节的介绍信息：
 
-![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
+![chinesenewyear](https://images-1252557999.file.myqcloud.com/uPic/chinesenewyear.jpg) 
 
-### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
+### [etempmail](https://etempmail.com/zh)
 
-老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
+一个免费提供临时电子邮件服务的网站，可以用来注册并获取需要教育邮箱才能获取的福利。
 
-- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
-- Gemini Pro 体验地址：https://gemini.fre123.com/
-
-![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
+![edu_mail](https://images-1252557999.file.myqcloud.com/uPic/edu_mail.png) 
 
 ## ✍️ 说明
 
