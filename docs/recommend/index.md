@@ -5,101 +5,87 @@
 
 ## 🎯 项目 
 
-### [Message-Push-Nest](https://github.com/engigu/Message-Push-Nest)
+### [picx](https://github.com/XPoet/picx)
 
-打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义 `webhook` 等多种通知方式。定制你的消息，让通知方式更灵活多样。
+基于 GitHub API 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！
 
+![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg) 
 
-![Message-Push-Nest](https://images-1252557999.file.myqcloud.com/uPic/Message-Push-Nest.jpg) 
+### [novel](https://github.com/steven-tey/novel)
 
-### [budibase](https://github.com/Budibase/budibase)
+具有类似 `NotionAI` 自动补全功能的所见即所得编辑器，可直接在线体验 [novel.sh](https://novel.sh/) ：
 
-`budibase`是一个低代码平台，用于快速构建内部工具，支持：PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 。
+![opengraph-image](https://images-1252557999.file.myqcloud.com/uPic/opengraph-image.png) 
 
-![budibase](https://images-1252557999.file.myqcloud.com/uPic/bCfcQe.jpg) 
+### [EasySpider](https://github.com/NaiboWang/EasySpider)
 
-### [ssddanbrown/rss](https://github.com/ssddanbrown/rss)
+一个可视化浏览器自动化测试/数据采集/爬虫软件，可以使用图形化界面，无代码可视化的设计和执行任务。只需要在网页上选择自己想要操作的内容并根据提示框操作即可完成任务的设计和执行。同时软件还可以单独以命令行的方式进行执行，从而可以很方便的嵌入到其他系统中。
 
-一个简单的 `Twitter-feed` 风格的 `RSS` 聚合器，使用 `PHP、Laravel、Inertia.js、Tailwind、Vue.js` 编写:
-
-- 支持RSS和ATOM格式
-- 定期自动获取RSS订阅源
-- 自定义订阅名称和颜色
-- 基于内容的标签进行分类
-- 3种不同的帖子布局模式（卡片、列表、紧凑）
-- 获取页面的开放图像
-- 通过单个纯文本文件管理的订阅源
-- 基于系统的暗/亮主题
-- 帖子标题/描述搜索
-- 开箱即用的Docker镜像
-- 手机屏幕兼容
-- 清理旧的帖子数据
-
-![ssddanbrown_rss](https://images-1252557999.file.myqcloud.com/uPic/ssddanbrown_rss.png) 
+![EasySpider](https://images-1252557999.file.myqcloud.com/uPic/EasySpider.jpg) 
 
 ## 🤖 软件 
 
-### [BlogHelper](https://github.com/onblog/BlogHelper)
+### [chatbox](https://github.com/Bin-Huang/chatbox)
 
-帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
+开源的 `ChatGPT API (OpenAI API)` 桌面客户端，`Prompt` 的调试与管理工具，支持 `Windows、Mac 和 Linux`：
 
-![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
+![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.png) 
 
-### [sunnypages](https://github.com/XMuli/sunnypages)
+### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
 
-`Sunny` 截图是一款简洁且漂亮的截图的软件工具，支持 `Windows，MacOS，Linux` 平台。亦支持图片翻译和 `OCR`：
+`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
 
-![sunnypages](https://images-1252557999.file.myqcloud.com/uPic/sunnypages.jpg) 
+![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
 
-### [pilipala](https://github.com/guozhigq/pilipala)
+### [Refined GitHub](https://github.com/refined-github/refined-github)
 
-使用 `Flutter` 开发的 `BiliBili` 第三方客户端，专为提高用户在观看BiliBili视频时的体验而设计：
+一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
 
-![pilipala](https://images-1252557999.file.myqcloud.com/uPic/pilipala.jpg) 
+那么`Refined GitHub`主要做了哪些工作呢，如下：
+
+- 浏览代码时候使空格可见
+- 添加一键式合并冲突修复程序
+- 添加表情评论头像
+- 在合并PR时，添加等待检查的选项
+- ...
+
+![](https://images-1252557999.file.myqcloud.com/uPic/lI0jFl.png) 
 
 ## 👀 资料 
 
-### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
+### [data_compression_course](https://github.com/jermp/data_compression_course)
 
-如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
+由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
 
-这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
+### [GolangStudy](https://github.com/cnymw/GolangStudy)
 
-其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
+《[GolangStudy](https://golangstudy.tech/)》：从简单到难最全总结，go基础，数据结构，算法，设计模式：
 
-![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
+![GolangStudy](https://images-1252557999.file.myqcloud.com/uPic/GolangStudy.jpg) 
 
-### [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book)
+### [Sam Altman的创业手册](https://jxp73q7qjsg.feishu.cn/docx/WCNZdKDa4o2eUrxK5ElcfBXEnah)
 
-`PeiQi` 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，`CTF` 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见。
-
-![PeiQi-WIKI-Book](https://images-1252557999.file.myqcloud.com/uPic/PeiQi-WIKI-Book.png) 
-
-### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
-
-从零开始学习Kubernetes的路线图（初级到高级）：
-
-![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
+`Sam Altman` 的创业手册文本，给YC系创始人们的建议里面最通用的一部分提炼出来变成一个创业手册。 
 
 ## 🕸 网站 
 
-### [emojimix](https://tikolu.net/emojimix/)
+### [extractcss](http://extractcss.com/)
 
-一个表情融合网站，图一个乐呵，效果如下：
+提取 `html` 结构里面的 `css` 代码：
 
-![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
+![extractcss](https://images-1252557999.file.myqcloud.com/uPic/extractcss.jpg) 
 
-### [z2h 字帖](https://paper.z2h.cn/)
+### [olocr.com](https://olocr.com)
 
-用正确的方法刻意练习，每个人都能写出一手漂亮的字，自定义字帖字体和内容，可打印导出练字：
+一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
 
-![z2h](https://images-1252557999.file.myqcloud.com/uPic/z2h.jpg) 
+![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
 
-### [RuTracker](https://rutracker.org/forum/index.php)
+### [zerogpt](https://www.zerogpt.com/)
 
-俄罗斯最大的盗版网站开放了，可以去上面找资源了：
+由 `ZeroGPT` 开发的 `GPT-4，ChatGPT` AI 内容检测器：
 
-![rutracker](https://images-1252557999.file.myqcloud.com/uPic/rutracker.jpg) 
+![zerogpt](https://images-1252557999.file.myqcloud.com/uPic/zerogpt.jpg) 
 
 ## ✍️ 说明
 
