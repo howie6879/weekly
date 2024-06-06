@@ -5,105 +5,85 @@
 
 ## 🎯 项目 
 
-### [python-wechaty](https://github.com/wechaty/python-wechaty)
+### [photoview](https://github.com/photoview/photoview)
 
-`Wechaty` 是一个开源聊天机器人框架 `SDK`，具有高度封装、高可用的特性，支持 `NodeJs, Python, Go` 和 `Java` 等多语言版本：
+开源的相册程序，可基于Docker快速构建：
 
-![python-wechaty](https://images-1252557999.file.myqcloud.com/uPic/python-wechaty.png) 
+![photoview](https://images-1252557999.file.myqcloud.com/uPic/photoview.png) 
 
-### [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion)
+### [xqdoo00o-chatgpt-web](https://github.com/xqdoo00o/chatgpt-web)
 
-在 `MacOS` 上运行原生的 `Stable Diffusion`，本应用内置 `Apple` 的 `Core ML Stable Diffusion` 框架 以实现在搭载 `Apple` 芯片的 `Mac` 上用极低的内存占用发挥出最优性能：
+纯 `JS` 实现的 `ChatGPT` 项目，基于 `OpenAI API`，其优势在于可以直接部署一个 `HTML` 文件即可，轻量实用：
 
-- 极致性能和极低内存占用 (使用神经网络引擎时 ~150MB)
-- 在所有搭载 Apple 芯片的 Mac 上充分发挥神经网络引擎的优势
-- 生成图像时无需联网
-- 图像转图像（也被称为 Image2Image）
-- 在图像的 EXIF 信息中存储所有的关键词（在访达的“显示简介”窗口中查看）
-- 使用 RealESRGAN 放大生成的图像
-- 自动保存 & 恢复图像
-- 自定义 Stable Diffusion Core ML 模型
-- 无需担心损坏的模型
-- 使用 macOS 原生框架 SwiftUI 开发
+![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
 
-![MochiDiffusion](https://images-1252557999.file.myqcloud.com/uPic/MochiDiffusion.jpg) 
+### [Restfox](https://github.com/flawiddsouza/Restfox)
 
-### [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
+主打离线也能运行使用的 `Web HTTP` 客户端:
 
-使用 `Next.js、Type Script & Tailwind CSS` 构建的 `ChatGPT` 交互界面：
+![Restfox](https://images-1252557999.file.myqcloud.com/uPic/Restfox.png)
 
-![chatbot-ui](https://images-1252557999.file.myqcloud.com/uPic/chatbot-ui.png) 
+之前也推荐过 [hoppscotch](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。 
 
 ## 🤖 软件 
 
-### [dockeye](https://github.com/vv9k/dockeye)
+### [AirBattery](https://github.com/lihaoyun6/AirBattery)
 
-基于`Rust`编写的`Docker`界面管理工具：
+在 `Mac` 上获取你所有设备的电量信息并显示在 `Dock` / 状态栏 / 小组件上：
 
-![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
+![AirBattery](https://images-1252557999.file.myqcloud.com/uPic/AirBattery.jpg) 
 
-### [Files](https://github.com/files-community/Files)
+### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
 
-一个现代化的文件管理软件(Windows用户专属)：
+一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
 
-![files_windows](https://images-1252557999.file.myqcloud.com/uPic/files_windows.jpg) 
+![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
 
-### [PicHoro](https://github.com/Kuingsmile/PicHoro "PicHoro")
+### [notesnook](https://github.com/streetwriters/notesnook)
 
-多功能云存储管理工具，集图床管理、文件传输于一体。支持多平台且功能全面：
+印象笔记的开源替代品（支持端对端加密）：
 
-- 直接管理多种云存储平台
-- 便捷上传和下载文件
-- 兼容 S3 API，轻松集成现有系统
-
-![PicHoro](https://images-1252557999.file.myqcloud.com/uPic/PicHoro.jpg) 
+![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
 
 ## 👀 资料 
 
-### [howtheytest](https://github.com/abhivaikar/howtheytest)
+### [AI-System](https://github.com/microsoft/AI-System)
 
-关于软件公司如何测试其软件的公共资源集合：
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
 
-![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
+![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
 
-### [ascoders/weekly](https://github.com/ascoders/weekly)
+### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
 
-前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
+《TCP/IP网络编程》(韩-尹圣雨)学习笔记
 
-- 前沿技术
-- 设计模式
-- 编译原理
-- 源码解读
-- 商业思考
-- 算法
+![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
 
-非常全面，前端从事人员可以看看。 
+### [whys-the-design](https://draven.co/whys-the-design/)
 
-### [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
+为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
 
-《[初创公司CTO手册](https://docs.google.com/document/d/147KVarJdNQ2ZdmDHOSsd7W39anejRu2NfxEWCzwl0IU/edit?pli=1)》是一本涵盖软件工程团队领导力、管理和技术主题的书籍。旨在为技术团队领导力提供指导，内容涵盖业务流程、人员管理、招聘面试、入职培训、绩效管理、团队构成、领导责任等多个方面：
-
-![ctohb](https://images-1252557999.file.myqcloud.com/uPic/ctohb.jpg) 
+![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
 
 ## 🕸 网站 
 
-### [ICO converter](https://www.icoconverter.com/)
+### [CronTool](https://tool.crontap.com/cronjob-debugger)
 
-`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
+`Linux Crontab` 可视化网站：
 
-![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
+![crontap](https://images-1252557999.file.myqcloud.com/uPic/crontap.jpg) 
 
-### [http.cat](https://http.cat)
+### [docsmall](https://docsmall.com/)
 
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
+提供一些图片压缩、PDF合并分割小功能的网站：
 
-![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
+![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
 
-### [zlib.pro](https://zlib.pro/)
+### [libhunt](https://www.libhunt.com/)
 
-`Z-Library` 是一个书籍检索下载网站，这个网站提供了更方便的查找访问方式：
+一个对开源项目进行分类并排名的网站：
 
-![zlib-pro](https://images-1252557999.file.myqcloud.com/uPic/zlib-pro.jpg) 
+![libhunt](https://images-1252557999.file.myqcloud.com/uPic/libhunt.jpg) 
 
 ## ✍️ 说明
 
