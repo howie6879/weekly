@@ -5,85 +5,100 @@
 
 ## 🎯 项目 
 
-### [photoview](https://github.com/photoview/photoview)
+### [law-cn-ai](https://github.com/lvwzhen/law-cn-ai)
 
-开源的相册程序，可基于Docker快速构建：
+AI 法律助手:
 
-![photoview](https://images-1252557999.file.myqcloud.com/uPic/photoview.png) 
+![law-cn-ai](https://images-1252557999.file.myqcloud.com/uPic/law-cn-ai.jpg)
 
-### [xqdoo00o-chatgpt-web](https://github.com/xqdoo00o/chatgpt-web)
+也可以[在线](https://law-cn-ai.vercel.app/)访问。 
 
-纯 `JS` 实现的 `ChatGPT` 项目，基于 `OpenAI API`，其优势在于可以直接部署一个 `HTML` 文件即可，轻量实用：
+### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
 
-![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
+`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
 
-### [Restfox](https://github.com/flawiddsouza/Restfox)
+一个获取百度网盘分享链接下载地址的工具：
 
-主打离线也能运行使用的 `Web HTTP` 客户端:
+![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
 
-![Restfox](https://images-1252557999.file.myqcloud.com/uPic/Restfox.png)
+### [nps](https://github.com/ehang-io/nps)
 
-之前也推荐过 [hoppscotch](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。 
+一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。
+
+![nps](https://images-1252557999.file.myqcloud.com/uPic/x2AaCw.jpg) 
 
 ## 🤖 软件 
 
-### [AirBattery](https://github.com/lihaoyun6/AirBattery)
+### [BBLL](https://github.com/xiaye13579/BBLL)
 
-在 `Mac` 上获取你所有设备的电量信息并显示在 `Dock` / 状态栏 / 小组件上：
+一个第三方哔哩哔哩 `TV` 和 `Pad` 客户端，仅供学习与交流使用:
 
-![AirBattery](https://images-1252557999.file.myqcloud.com/uPic/AirBattery.jpg) 
+![BBLL](https://images-1252557999.file.myqcloud.com/uPic/BBLL.jpeg) 
 
-### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
+### [logseq](https://github.com/logseq/logseq)
 
-一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
+Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
 
-![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
+![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
 
-### [notesnook](https://github.com/streetwriters/notesnook)
+### [Bob](https://github.com/ripperhe/Bob)
 
-印象笔记的开源替代品（支持端对端加密）：
+同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
 
-![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
+- [x]   划词翻译
+- [x]   截图翻译
+- [x]   输入翻译
+- [x]   翻译多开
+- [x]   自定义插件
+- [x]   自动识别语种
+- [x]   驼峰拆分、蛇形拆分
+- [x]   AppleScript 调用
+- [x]   PopClip 调用 
 
 ## 👀 资料 
 
-### [AI-System](https://github.com/microsoft/AI-System)
+### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
 
-微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
 
-![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
+![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
 
-### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
+### [Linux 101](https://101.lug.ustc.edu.cn/)
 
-《TCP/IP网络编程》(韩-尹圣雨)学习笔记
+本书由中国科学技术大学 Linux 用户协会的数名优秀成员协力编写，用于配套和延展“Linux 101”校内社团活动。其面向 Linux 零基础读者，从计算机操作系统和 Linux 的起源讲起，深入浅出带领读者一步步逐渐掌握最必要的 Linux 实用知识，并在其中感悟到社区开源文化的魅力：
 
-![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
+![Linux101-docs](https://images-1252557999.file.myqcloud.com/uPic/Linux101-docs.jpg) 
 
-### [whys-the-design](https://draven.co/whys-the-design/)
+### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
+计算机科学课程和视频讲座列表：
 
-![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
+![cs-video-courses](https://images-1252557999.file.myqcloud.com/uPic/cs-video-courses.jpg) 
 
 ## 🕸 网站 
 
-### [CronTool](https://tool.crontap.com/cronjob-debugger)
+### [curated.design](https://www.curated.design/)
 
-`Linux Crontab` 可视化网站：
+网页设计灵感目录，比较全面的设计领域导航网站：
 
-![crontap](https://images-1252557999.file.myqcloud.com/uPic/crontap.jpg) 
+![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
 
-### [docsmall](https://docsmall.com/)
+### [seekflag](https://seekflag.com/)
 
-提供一些图片压缩、PDF合并分割小功能的网站：
+网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
 
-![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
+![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
 
-### [libhunt](https://www.libhunt.com/)
+### [quanxin](https://quanxin.org/)
 
-一个对开源项目进行分类并排名的网站：
+快速、优雅、免费的在线工具，比如：
 
-![libhunt](https://images-1252557999.file.myqcloud.com/uPic/libhunt.jpg) 
+- [IP地址查询](https://quanxin.org/ip)
+- [代码截图工具](https://quanxin.org/code-snapshot)
+- [HTTP 状态码参考表](https://quanxin.org/http-status-code)
+- [Favicon ico图标生成器](https://quanxin.org/favicon)
+
+![](https://images-1252557999.file.myqcloud.com/uPic/i6hqlr.png) 
 
 ## ✍️ 说明
 
