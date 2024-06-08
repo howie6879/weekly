@@ -5,100 +5,85 @@
 
 ## 🎯 项目 
 
-### [law-cn-ai](https://github.com/lvwzhen/law-cn-ai)
+### [book-searcher](https://github.com/book-searcher-org/book-searcher)
 
-AI 法律助手:
+`zlib` 开源搜索方案（zlib 是全球知名的电子书分享下载网站，最近开始慢慢转入地下，因此诞生了一些留存检索方案）：
 
-![law-cn-ai](https://images-1252557999.file.myqcloud.com/uPic/law-cn-ai.jpg)
+![zlib_searcher](https://images-1252557999.file.myqcloud.com/uPic/zlib_searcher.jpg) 
 
-也可以[在线](https://law-cn-ai.vercel.app/)访问。 
+### [slickr](https://github.com/saviomartin/slickr)
 
-### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
+文章封面图生成构建工具，适合经常发布文章的朋友，顺便说句，项目作者14岁：
 
-`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
+![slickr](https://images-1252557999.file.myqcloud.com/uPic/slickr.gif) 
 
-一个获取百度网盘分享链接下载地址的工具：
+### [Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)
 
-![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
+该扩展程序允许您阅读实施付费墙的（支持的）网站上的文章。您还可以将域名添加为自定义网站，并尝试绕过付费墙。类似之前推荐过的：
 
-### [nps](https://github.com/ehang-io/nps)
-
-一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。
-
-![nps](https://images-1252557999.file.myqcloud.com/uPic/x2AaCw.jpg) 
+- https://github.com/everywall/ladder
+- https://12ft.io/
+- https://1ft.io/ 
 
 ## 🤖 软件 
 
-### [BBLL](https://github.com/xiaye13579/BBLL)
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
-一个第三方哔哩哔哩 `TV` 和 `Pad` 客户端，仅供学习与交流使用:
+`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
 
-![BBLL](https://images-1252557999.file.myqcloud.com/uPic/BBLL.jpeg) 
+![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
 
-### [logseq](https://github.com/logseq/logseq)
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
-Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 
-![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
-### [Bob](https://github.com/ripperhe/Bob)
+### [qinglong_app](https://github.com/relax976/qinglong_app)
 
-同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
+之前推荐过 [qinglong](https://github.com/whyour/qinglong)（一款支持python3、javaScript、shell、typescript 的定时任务管理软件），这是青龙面板开源的第三方APP，之前都是要付费，现在免费开源开放出来了：
 
-- [x]   划词翻译
-- [x]   截图翻译
-- [x]   输入翻译
-- [x]   翻译多开
-- [x]   自定义插件
-- [x]   自动识别语种
-- [x]   驼峰拆分、蛇形拆分
-- [x]   AppleScript 调用
-- [x]   PopClip 调用 
+![ql_app](https://images-1252557999.file.myqcloud.com/uPic/ql_app.jpg) 
 
 ## 👀 资料 
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+### [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)
 
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 `PDF`:
 
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+![what_are_embeddings](https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg) 
 
-### [Linux 101](https://101.lug.ustc.edu.cn/)
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-本书由中国科学技术大学 Linux 用户协会的数名优秀成员协力编写，用于配套和延展“Linux 101”校内社团活动。其面向 Linux 零基础读者，从计算机操作系统和 Linux 的起源讲起，深入浅出带领读者一步步逐渐掌握最必要的 Linux 实用知识，并在其中感悟到社区开源文化的魅力：
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
 
-![Linux101-docs](https://images-1252557999.file.myqcloud.com/uPic/Linux101-docs.jpg) 
+![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
 
-### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
 
-计算机科学课程和视频讲座列表：
+`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
 
-![cs-video-courses](https://images-1252557999.file.myqcloud.com/uPic/cs-video-courses.jpg) 
+![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
 
 ## 🕸 网站 
 
-### [curated.design](https://www.curated.design/)
+### [zhaoziyuan](https://zhaoziyuan.pw/)
 
-网页设计灵感目录，比较全面的设计领域导航网站：
+阿里云资源搜索引擎：
 
-![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
+![zhaoziyuan](https://images-1252557999.file.myqcloud.com/uPic/zhaoziyuan-20220429095007870.jpg) 
 
-### [seekflag](https://seekflag.com/)
+### [ifixit](https://zh.ifixit.com/)
 
-网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
+一个免费教授人们如何修理任何物品的网站：
 
-![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
+![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
 
-### [quanxin](https://quanxin.org/)
+### [roadmap.sh](https://roadmap.sh/)
 
-快速、优雅、免费的在线工具，比如：
+这是一个开源免费的项目，主要是提供了各种技术栈的学习路线：
 
-- [IP地址查询](https://quanxin.org/ip)
-- [代码截图工具](https://quanxin.org/code-snapshot)
-- [HTTP 状态码参考表](https://quanxin.org/http-status-code)
-- [Favicon ico图标生成器](https://quanxin.org/favicon)
-
-![](https://images-1252557999.file.myqcloud.com/uPic/i6hqlr.png) 
+![roadmap](https://images-1252557999.file.myqcloud.com/uPic/roadmap.jpg) 
 
 ## ✍️ 说明
 
