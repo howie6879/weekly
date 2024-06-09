@@ -5,85 +5,101 @@
 
 ## 🎯 项目 
 
-### [book-searcher](https://github.com/book-searcher-org/book-searcher)
+### [xiaomusic](https://github.com/hanxi/xiaomusic)
 
-`zlib` 开源搜索方案（zlib 是全球知名的电子书分享下载网站，最近开始慢慢转入地下，因此诞生了一些留存检索方案）：
+使用小爱/红米音箱播放音乐，音乐使用 `yt-dlp` 下载：
 
-![zlib_searcher](https://images-1252557999.file.myqcloud.com/uPic/zlib_searcher.jpg) 
+- 播放歌曲
+- 播放歌曲+歌名 比如：播放歌曲周杰伦晴天
+- 下一首
+- 单曲循环
+- 全部循环
 
-### [slickr](https://github.com/saviomartin/slickr)
+支持 `Docker` 部署和简单管理界面。 
 
-文章封面图生成构建工具，适合经常发布文章的朋友，顺便说句，项目作者14岁：
+### [ceresdb](https://github.com/CeresDB/ceresdb)
 
-![slickr](https://images-1252557999.file.myqcloud.com/uPic/slickr.gif) 
+蚂蚁金服 `Rust` 实现的时序数据库正式开源，`CeresDB` 是一款高性能、分布式、`Schema-less` 的云原生时序数据库，能够同时处理时序型（time-series）以及分析型（analytics）负载。：
 
-### [Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)
+![CeresDB](https://images-1252557999.file.myqcloud.com/uPic/CeresDB.png) 
 
-该扩展程序允许您阅读实施付费墙的（支持的）网站上的文章。您还可以将域名添加为自定义网站，并尝试绕过付费墙。类似之前推荐过的：
+### [chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror)
 
-- https://github.com/everywall/ladder
-- https://12ft.io/
-- https://1ft.io/ 
+基于 `gpt-3.5-turbo` 的 `ChatGPT` 镜像网站（开源，可以自建）：
+
+![chatgpt-mirror](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-mirror.jpg) 
 
 ## 🤖 软件 
 
-### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
+### [legado](https://github.com/gedoor/legado)
 
-`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
 
-### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
+![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
 
-腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+### [RustClock](https://github.com/hoothin/RustClock)
 
-![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
+每半小时弹出一次的桌面时钟，基于 `Rust`：
 
-### [qinglong_app](https://github.com/relax976/qinglong_app)
+![RustClock](https://images-1252557999.file.myqcloud.com/uPic/RustClock.gif) 
 
-之前推荐过 [qinglong](https://github.com/whyour/qinglong)（一款支持python3、javaScript、shell、typescript 的定时任务管理软件），这是青龙面板开源的第三方APP，之前都是要付费，现在免费开源开放出来了：
+### [BetterDummy](https://github.com/waydabber/BetterDummy)
 
-![ql_app](https://images-1252557999.file.myqcloud.com/uPic/ql_app.jpg) 
+`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
+
+![bd_menu](https://images-1252557999.file.myqcloud.com/uPic/bd_menu.png)
+
+如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
 
 ## 👀 资料 
 
-### [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)
+### [数据科学学习指南](https://github.com/amitness/learning)
 
-从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 `PDF`:
+数据科学学习指南，帮你每天提升1%的数据科学技能。主要包含电子表格与数据库的数据处理、命令行工具使用、数据分析与可视化技巧、论文阅读方法，各类模型与算法讲解等知识，另外还有商业思维培养、写作与沟通技巧等非技术类内容。
 
-![what_are_embeddings](https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg) 
+![data-learning](https://images-1252557999.file.myqcloud.com/uPic/tlkHzW.png) 
 
-### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
+### [howtheytest](https://github.com/abhivaikar/howtheytest)
 
-作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
+关于软件公司如何测试其软件的公共资源集合：
 
-![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
+![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
 
-### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
+### [wangshusen/SearchEngine](https://github.com/wangshusen/SearchEngine)
 
-`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
+开源的搜索引擎原理书籍（不方便下载的直接私聊我发 PDF），包含：
 
-![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
+- 搜索引擎基础
+- 相关性
+- 其他决定用户满意度的因子
+- 查询词处理
+- 召回
+- 排序
+- 查询词推荐
+
+![SearchEngine](https://images-1252557999.file.myqcloud.com/uPic/SearchEngine.jpg) 
 
 ## 🕸 网站 
 
-### [zhaoziyuan](https://zhaoziyuan.pw/)
+### [openfarm.cc](https://openfarm.cc/)
 
-阿里云资源搜索引擎：
+[`OpenFarm`](https://github.com/openfarmcc/OpenFarm) 是一个开源项目，目标是教你如何种植农作物：
 
-![zhaoziyuan](https://images-1252557999.file.myqcloud.com/uPic/zhaoziyuan-20220429095007870.jpg) 
+![openfarm](https://images-1252557999.file.myqcloud.com/uPic/openfarm.jpg) 
 
-### [ifixit](https://zh.ifixit.com/)
+### [cleanup.pictures](https://cleanup.pictures/)
 
-一个免费教授人们如何修理任何物品的网站：
+百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
 
-![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
+![cleanup_demo](https://images-1252557999.file.myqcloud.com/uPic/cleanup_demo.gif) 
 
-### [roadmap.sh](https://roadmap.sh/)
+### [xsgames](https://xsgames.co/pixelme/)
 
-这是一个开源免费的项目，主要是提供了各种技术栈的学习路线：
+免费的像素头像生成网站：
 
-![roadmap](https://images-1252557999.file.myqcloud.com/uPic/roadmap.jpg) 
+![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
 
 ## ✍️ 说明
 
