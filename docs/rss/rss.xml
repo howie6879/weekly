@@ -12,7 +12,78 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 02 Jun 2024 15:31:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 08:15:56 +0000</lastBuildDate>
+    <item>
+      <title>06-03~06-10.老胡的周刊（第145期）.md</title>
+      <link>https://weekly.howie6879.com/2024/06-03~06-10.老胡的周刊（第145期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/06-03~06-10.老胡的周刊（第145期）.html"&gt;06-03~06-10.老胡的周刊（第145期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/OXeu/Rin"&gt;Rin&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;⚡️&lt;code&gt;Rin&lt;/code&gt; 是一个基于 &lt;code&gt;Cloudflare Pages + Workers + D1 + R2&lt;/code&gt; 全家桶的博客，无需服务器无需备案，只需要一个解析到 &lt;code&gt;Cloudflare&lt;/code&gt; 的域名即可部署：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Rin" src="https://images-1252557999.file.myqcloud.com/uPic/Rin.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/duckdb/duckdb"&gt;duckdb&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;DuckDB&lt;/code&gt; 是一个具有内存优化、低延迟和 &lt;code&gt;SQL&lt;/code&gt; 兼容性的分析型数据库。 它通过优化的查询性能和存储空间效率，为数据分析和处理任务提供了高效的解决方案：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="duckdb" src="https://images-1252557999.file.myqcloud.com/uPic/duckdb.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/fruitbars/simple-one-api"&gt;simple-one-api&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用。&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.uukei.com/help/?p=h"&gt;UU 浏览器&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;UU浏览器在满足用户的需求上，延续了谷歌的简洁，摒弃了如 Edge 过多功能的臃肿。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这是老胡的朋友，独立开发运营两三年的一款浏览器，主打纯净美观&amp;amp;个性化，核心功能点如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;优化去冗余、内存占用少&lt;/li&gt;
+&lt;li&gt;简洁高效率、年轻个性化&lt;/li&gt;
+&lt;li&gt;最大程度隐私安全&lt;/li&gt;
+&lt;li&gt;纯净不打扰&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在以上基本特性持续开发小功能提升用户效率，大家可以提意见哈：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💫 自带整页翻译&lt;/li&gt;
+&lt;li&gt;📚 灵活新标签页&lt;/li&gt;
+&lt;li&gt;📋 多功能侧边栏&lt;/li&gt;
+&lt;li&gt;🧩 扩展安装方便&lt;/li&gt;
+&lt;li&gt;📟 夜间护眼模式&lt;/li&gt;
+&lt;li&gt;📈 多线程下载&lt;/li&gt;
+&lt;li&gt;👉 支持鼠标手势&lt;/li&gt;
+&lt;li&gt;✔️ 网页一键保存为图片或PDF&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="uu" src="https://images-1252557999.file.myqcloud.com/uPic/uu.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;有兴趣欢迎了解体验👉&lt;a href="https://www.uukei.com/help/?p=h"&gt;UU 浏览器&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/BloopAI/bloop"&gt;bloop&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;bloop&lt;/code&gt; 是一个用 Rust 编写的快速代码搜索引擎，内部集成 &lt;code&gt;LLM&lt;/code&gt; 大模型，可以快速让你导入一个代码仓库以自然语言形式进行问答，想快速上手一个项目或者文档不怎么够的项目，力荐👀：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bloop" src="https://images-1252557999.file.myqcloud.com/uPic/bloop.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://hcplab-sysu.github.io/Book-of-MLM/"&gt;Book-of-MLM&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本书以深入浅出的方式全面地介绍了多模态大模型的核心技术与典型应用，并围绕新一代人工智能技术范式，详细阐述了因果推理、世界模型、超级智能体与具身智能等前沿技术。希望本书能够为学术界和工业界提供一个清晰的视角，以帮助人工智能科研工作者更全面地了解多模态大模型的技术和新一代人工智能的发展方向。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Book-of-MLM" src="https://images-1252557999.file.myqcloud.com/uPic/Book-of-MLM.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/SmartFlowAI/Llama3-Tutorial"&gt;Llama3-Tutorial&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Llama3-Tutorial" src="https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://apk.bot/"&gt;apk.bot&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;免费无广告的 &lt;code&gt;APK&lt;/code&gt; 下载网站：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="apk_bot" src="https://images-1252557999.file.myqcloud.com/uPic/apk_bot.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://iphub.info/"&gt;iphub.info&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;检测 &lt;code&gt;IP&lt;/code&gt; 质量和安全性：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="iphub" src="https://images-1252557999.file.myqcloud.com/uPic/iphub.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">06-03~06-10.老胡的周刊（第145期）.md</guid>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>05-27~06-02.老胡的周刊（第144期）.md</title>
       <link>https://weekly.howie6879.com/2024/05-27~06-02.老胡的周刊（第144期）.html</link>
@@ -1388,117 +1459,6 @@ sudo xattr -cr  /Applications/Loop.app&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">01-22~01-28.老胡的周刊（第126期）.md</guid>
       <pubDate>Sun, 28 Jan 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>01-15~01-21.老胡的周刊（第125期）.md</title>
-      <link>https://weekly.howie6879.com/2024/01-15~01-21.老胡的周刊（第125期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/01-15~01-21.老胡的周刊（第125期）.html"&gt;01-15~01-21.老胡的周刊（第125期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/imsyy/home"&gt;imsyy/home&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;简单优雅的个人主页项目：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;载入动画&lt;/li&gt;
-&lt;li&gt;站点简介&lt;/li&gt;
-&lt;li&gt;Hitokoto 一言&lt;/li&gt;
-&lt;li&gt;日期及时间&lt;/li&gt;
-&lt;li&gt;实时天气&lt;/li&gt;
-&lt;li&gt;时光进度条&lt;/li&gt;
-&lt;li&gt;音乐播放器&lt;/li&gt;
-&lt;li&gt;移动端适配&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="imsyy_home" src="https://images-1252557999.file.myqcloud.com/uPic/imsyy_home.jpeg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/fre123-com/fre123-nav"&gt;fre123-nav&lt;/a&gt;&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href="https://www.fre123.com/"&gt;FRE123&lt;/a&gt; 免费资源共享平台导航，一键搭建你的导航网站！&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;这是老胡上个月做的一个导航网站，不少人想基于这套进行二次开发，所以开源出来，希望能帮到大家：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/fre123-com/fre123-nav"&gt;fre123-nav&lt;/a&gt;：导航页面源码&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/fre123-com/fre123-info-flow"&gt;fre123-info-flow&lt;/a&gt;：信息流页面源码&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://mp.weixin.qq.com/s/NEqY1Qb4dyJDhdtlYxjmaA"&gt;Fre123 导航网站搭建教程&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="fre123-nav" src="https://images-1252557999.file.myqcloud.com/uPic/fre123-nav.jpeg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/linexjlin/GPTs"&gt;GPTs&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;这个仓库收集了 GPTs 商店的的提示词，你可以用 3.5 使用，间接拥有 4 才有的功能，还有个类似的项目：&lt;a href="https://github.com/friuns2/Leaked-GPTs"&gt;Leaked-GPTs&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean"&gt;Bypass Paywalls Chrome Clean&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;该扩展程序允许您阅读实施付费墙的（支持的）网站上的文章。您还可以将域名添加为自定义网站，并尝试绕过付费墙。类似之前推荐过的：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;https://github.com/everywall/ladder&lt;/li&gt;
-&lt;li&gt;https://12ft.io/&lt;/li&gt;
-&lt;li&gt;https://1ft.io/&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/KRTirtho/spotube"&gt;spotube&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Spotube&lt;/code&gt; 可用于所有主要平台，包括 &lt;code&gt;Linux、Android、Windows &amp;amp; MacOS&lt;/code&gt;，它利用 &lt;code&gt;Spotify&lt;/code&gt; 和 &lt;code&gt;YouTube&lt;/code&gt; 的公共 &lt;code&gt;API&lt;/code&gt; 作为音频源，不需要 &lt;code&gt;Spotify Premium&lt;/code&gt;，没有广告，可下载歌曲，实时同步歌词，支持匿名或访客登录：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="spotube" src="https://images-1252557999.file.myqcloud.com/uPic/spotube.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/lovegaoshi/azusa-player-mobile"&gt;azusa-player-mobile&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个 &lt;code&gt;Bilibili&lt;/code&gt; 第三方音频播放器：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="azusa-player-mobile" src="https://images-1252557999.file.myqcloud.com/uPic/azusa-player-mobile.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/WhiteCosmos/Gotcha-Rest-Client"&gt;Gotcha-Rest-Client&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Gotcha 是一个开源且跨平台的 API 设计和测试工具：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;无需登录注册，所有数据均存放在本地数据库(indexedDB)当中&lt;/li&gt;
-&lt;li&gt;完全可视化的 API 设计功能，自由编辑请求和响应，支持 Json Schema 格式，支持大多数 OpenAPI 标准&lt;/li&gt;
-&lt;li&gt;参数化 URL 编辑器，所有 URL 参数都可以通过表单形式轻松修改&lt;/li&gt;
-&lt;li&gt;通过右键菜单轻松使用动态变量，包括环境变量，日期时间，引用其它接口等多种类型&lt;/li&gt;
-&lt;li&gt;随时切换，修改 Cookie，支持同时使用多套 Cookie&lt;/li&gt;
-&lt;li&gt;可视化 JSON 编辑器&lt;/li&gt;
-&lt;li&gt;保存常用请求到请求模板&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="Gotcha-Rest-Client" src="https://images-1252557999.file.myqcloud.com/uPic/Gotcha-Rest-Client.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/liu-ziting/PetThoughts"&gt;PetThoughts&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;【我知道你的宠物在想什么】 是一个基于 Gemini Pro API 构建的图片识别项目，通过上传你宠物的照片，该项目能够智能分析你的宠物的表情和环境，并推测出它们可能在想些什么。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;图片识别：利用 Gemini-pro-vision 的图像识别技术，能够准确地识别宠物的表情和环境。&lt;/li&gt;
-&lt;li&gt;表情分析：通过分析宠物的表情 Gemini-pro-vision 可以推测出宠物可能的情绪状态，如开心、惊讶、困惑等。&lt;/li&gt;
-&lt;li&gt;环境分析：Gemini-pro-vision 还能根据宠物所处的环境，推测出它们可能的活动场景，如户外玩耍、室内休息等。&lt;/li&gt;
-&lt;li&gt;自然语言处理：结合图像识别和自然语言处理技术，Gemini-pro-vision 可以将宠物的情绪和活动场景转化为可读性高的文字描述。&lt;/li&gt;
-&lt;li&gt;用户友好界面：提供简洁直观的用户界面，使用户能够轻松上传照片并获取宠物分析结果。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="pt" src="https://images-1252557999.file.myqcloud.com/uPic/pt.jpeg" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce"&gt;Large Language Models Practical Course&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;开源(&lt;a href="https://github.com/peremartra/Large-Language-Model-Notebooks-Course"&gt;Large Language Models Practical Course&lt;/a&gt;)的关于大型语言模型的实践课程，通过使用 &lt;code&gt;OpenAI&lt;/code&gt; 和 &lt;code&gt;Hugging Face&lt;/code&gt; 库的模型进行实际操作来提供实践经验，课程主要包括：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Techniques and Libraries&lt;/li&gt;
-&lt;li&gt;Projects&lt;/li&gt;
-&lt;li&gt;Enterprise Solutions&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="large-language-models-practical-course" src="https://images-1252557999.file.myqcloud.com/uPic/large-language-models-practical-course.jpg" /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;附带一个 Mac 微调大模型的文章：&lt;a href="https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/"&gt;A simple guide to local LLM fine-tuning on a Mac with MLX&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://www.pingti.xyz/"&gt;最佳平替&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;同一件商品，不同的搜索词，价格可能会天差地别。这个工具旨在帮助你找到最便宜的搜索词: 输入你想搜索的商品名，AI会给出低价的替代品，结果可能不准，开心就好：）&lt;/p&gt;
-&lt;p&gt;&lt;img alt="pingti" src="https://images-1252557999.file.myqcloud.com/uPic/pingti.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://aiwallpaper.shop/"&gt;aiwallpaper&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;AI&lt;/code&gt; 生成高清壁纸，项目开源在：&lt;a href="https://github.com/all-in-aigc/aiwallpaper"&gt;all-in-aigc/aiwallpaper&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;开源代码包括：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;nextjs 全栈开发 API 和 Web &lt;/li&gt;
-&lt;li&gt;dalle-3 绘图对接 &lt;/li&gt;
-&lt;li&gt;aws s3 图片上传 &lt;/li&gt;
-&lt;li&gt;postgres 数据读写 &lt;/li&gt;
-&lt;li&gt;谷歌登录 &lt;/li&gt;
-&lt;li&gt;stripe&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;非常适合参考学习，用来做一些小而美的 &lt;code&gt;AI&lt;/code&gt; 应用。&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">01-15~01-21.老胡的周刊（第125期）.md</guid>
-      <pubDate>Sun, 21 Jan 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
