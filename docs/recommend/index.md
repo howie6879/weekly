@@ -5,101 +5,95 @@
 
 ## 🎯 项目 
 
-### [xiaomusic](https://github.com/hanxi/xiaomusic)
+### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
 
-使用小爱/红米音箱播放音乐，音乐使用 `yt-dlp` 下载：
+`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
 
-- 播放歌曲
-- 播放歌曲+歌名 比如：播放歌曲周杰伦晴天
-- 下一首
-- 单曲循环
-- 全部循环
+![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
 
-支持 `Docker` 部署和简单管理界面。 
+### [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 
-### [ceresdb](https://github.com/CeresDB/ceresdb)
+我日常开发环境以`Mac`为主，这个项目从开发者角度出发，收集了各方各面的软件，上来看看，可能一些收费的软件在这里能找到开源的解决方案。
 
-蚂蚁金服 `Rust` 实现的时序数据库正式开源，`CeresDB` 是一款高性能、分布式、`Schema-less` 的云原生时序数据库，能够同时处理时序型（time-series）以及分析型（analytics）负载。：
+我个人也维护了一份 [MacOS 软件清单](https://weekly.howie6879.com/soft/mac.html)，是我四五年使用 Mac 积累的一些常用软件，开源在 github，有兴趣可以关注看看。 
 
-![CeresDB](https://images-1252557999.file.myqcloud.com/uPic/CeresDB.png) 
+### [Doocs-md](https://gitee.com/Doocs/md)
 
-### [chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror)
+✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性:
 
-基于 `gpt-3.5-turbo` 的 `ChatGPT` 镜像网站（开源，可以自建）：
-
-![chatgpt-mirror](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-mirror.jpg) 
+![doocs_md](https://images-1252557999.file.myqcloud.com/uPic/doocs_md.jpg) 
 
 ## 🤖 软件 
 
-### [legado](https://github.com/gedoor/legado)
+### [anx-reader](https://github.com/Anxcye/anx-reader)
 
-阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+安读是一款专注于阅读的应用，不包含任何在线推广内容，它可以帮助你更专注于阅读，提高阅读效率：
 
-简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
+- 自动记录阅读进度，每次打开可以回到上次的进度。
+- 丰富且可自定义的阅读配色，让您的阅读更舒适。
+- 丰富的阅读设置，包括字号、行间距、字间距等，让阅读更轻松。
+- 随时在书中划线，多种样式和配色，随时回顾。
+- 强大的阅读统计，记录您的每一次阅读。
+- 丰富的阅读笔记功能，让您的阅读更深入。
+- 安读可自定义多种色彩主题，满足您的不同需求。
+- 想在夜晚更舒适的阅读？安读可以适配系统 深/浅 色模式，或手动切换。
+- 安读现已支持多语言（中、英），自动适配系统语言，亦可手动选择。
 
-![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
+![anx-reader](https://images-1252557999.file.myqcloud.com/uPic/anx-reader.jpg) 
 
-### [RustClock](https://github.com/hoothin/RustClock)
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 
-每半小时弹出一次的桌面时钟，基于 `Rust`：
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
 
-![RustClock](https://images-1252557999.file.myqcloud.com/uPic/RustClock.gif) 
+![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
 
-### [BetterDummy](https://github.com/waydabber/BetterDummy)
+### [stats](https://github.com/exelban/stats)
 
-`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
+基于 `macOS` 菜单栏的系统监控软件：
 
-![bd_menu](https://images-1252557999.file.myqcloud.com/uPic/bd_menu.png)
-
-如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
+![stats](https://images-1252557999.file.myqcloud.com/uPic/stats.jpg) 
 
 ## 👀 资料 
 
-### [数据科学学习指南](https://github.com/amitness/learning)
+### [动手实现LLM中文版](https://github.com/datawhalechina/llms-from-scratch-cn)
 
-数据科学学习指南，帮你每天提升1%的数据科学技能。主要包含电子表格与数据库的数据处理、命令行工具使用、数据分析与可视化技巧、论文阅读方法，各类模型与算法讲解等知识，另外还有商业思维培养、写作与沟通技巧等非技术类内容。
+该项目提供了一个如何从头开始实现类似 `ChatGPT` 的大语言模型（LLM）的详细教程：
 
-![data-learning](https://images-1252557999.file.myqcloud.com/uPic/tlkHzW.png) 
+![tllms-from-scratch-cn](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6242161922065677933-y.jpg) 
 
-### [howtheytest](https://github.com/abhivaikar/howtheytest)
+### [opensource-f2f](https://github.com/opensource-f2f)
 
-关于软件公司如何测试其软件的公共资源集合：
+《开源面对面》是一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。
 
-![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
+![osf2f](https://images-1252557999.file.myqcloud.com/uPic/osf2f.jpg) 
 
-### [wangshusen/SearchEngine](https://github.com/wangshusen/SearchEngine)
+### [rosedb](https://github.com/flower-corp/rosedb)
 
-开源的搜索引擎原理书籍（不方便下载的直接私聊我发 PDF），包含：
+`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
 
-- 搜索引擎基础
-- 相关性
-- 其他决定用户满意度的因子
-- 查询词处理
-- 召回
-- 排序
-- 查询词推荐
+![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
 
-![SearchEngine](https://images-1252557999.file.myqcloud.com/uPic/SearchEngine.jpg) 
+作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
 
 ## 🕸 网站 
 
-### [openfarm.cc](https://openfarm.cc/)
+### [curated.design](https://www.curated.design/)
 
-[`OpenFarm`](https://github.com/openfarmcc/OpenFarm) 是一个开源项目，目标是教你如何种植农作物：
+网页设计灵感目录，比较全面的设计领域导航网站：
 
-![openfarm](https://images-1252557999.file.myqcloud.com/uPic/openfarm.jpg) 
+![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
 
-### [cleanup.pictures](https://cleanup.pictures/)
+### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
 
-百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
+软件镜像站：
 
-![cleanup_demo](https://images-1252557999.file.myqcloud.com/uPic/cleanup_demo.gif) 
+![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
 
-### [xsgames](https://xsgames.co/pixelme/)
+### [react-tetris](https://github.com/chvin/react-tetris)
 
-免费的像素头像生成网站：
+用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
 
-![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
+![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
 
 ## ✍️ 说明
 
