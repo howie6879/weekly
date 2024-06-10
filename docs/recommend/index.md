@@ -5,95 +5,82 @@
 
 ## 🎯 项目 
 
-### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
+### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
 
-`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
+适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
 
-![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
+![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
 
-### [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
+### [dozzle](https://github.com/amir20/dozzle)
 
-我日常开发环境以`Mac`为主，这个项目从开发者角度出发，收集了各方各面的软件，上来看看，可能一些收费的软件在这里能找到开源的解决方案。
+Dozzle 是一个小型轻量级应用程序，基于 Web 界面来监控 Docker 日志，不存储任何日志文件，仅用于实时监控您的容器日志：
 
-我个人也维护了一份 [MacOS 软件清单](https://weekly.howie6879.com/soft/mac.html)，是我四五年使用 Mac 积累的一些常用软件，开源在 github，有兴趣可以关注看看。 
+![dozzle](https://images-1252557999.file.myqcloud.com/uPic/dozzle.jpg)s 
 
-### [Doocs-md](https://gitee.com/Doocs/md)
+### [moneynote-api](https://github.com/getmoneynote/moneynote-api)
 
-✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性:
+一个开源免费的记账解决方案，包括[后端](https://github.com/getmoneynote/moneynote-api)，[网页版](https://github.com/getmoneynote/moneywhere-user-fe)，[App](https://github.com/getmoneynote/moneywhere_user_flutter)，主要用于个人生活记账，开店收支记账，支持[ Docker 一键部署](https://github.com/getmoneynote/docker-compose-moneywhere)自己的记账程序：
 
-![doocs_md](https://images-1252557999.file.myqcloud.com/uPic/doocs_md.jpg) 
+![moneynote-api](https://images-1252557999.file.myqcloud.com/uPic/moneynote-api.png) 
 
 ## 🤖 软件 
 
-### [anx-reader](https://github.com/Anxcye/anx-reader)
+### [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
 
-安读是一款专注于阅读的应用，不包含任何在线推广内容，它可以帮助你更专注于阅读，提高阅读效率：
+简单的 macOS 菜单栏应用程序，可以方便地和 `Reminders` 进行交互，使用 `SwiftUI` 开发，并使用 `Apple` 提醒事项作为数据源：
 
-- 自动记录阅读进度，每次打开可以回到上次的进度。
-- 丰富且可自定义的阅读配色，让您的阅读更舒适。
-- 丰富的阅读设置，包括字号、行间距、字间距等，让阅读更轻松。
-- 随时在书中划线，多种样式和配色，随时回顾。
-- 强大的阅读统计，记录您的每一次阅读。
-- 丰富的阅读笔记功能，让您的阅读更深入。
-- 安读可自定义多种色彩主题，满足您的不同需求。
-- 想在夜晚更舒适的阅读？安读可以适配系统 深/浅 色模式，或手动切换。
-- 安读现已支持多语言（中、英），自动适配系统语言，亦可手动选择。
+![reminders-menubar](https://images-1252557999.file.myqcloud.com/uPic/reminders-menubar.jpg) 
 
-![anx-reader](https://images-1252557999.file.myqcloud.com/uPic/anx-reader.jpg) 
+### [GodMode](https://github.com/smol-ai/GodMode/)
 
-### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
+`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
 
-中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
+![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
 
-![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
+### [BingGPT](https://github.com/dice2o/BingGPT)
 
-### [stats](https://github.com/exelban/stats)
+必应 GPT 聊天桌面应用程序：
 
-基于 `macOS` 菜单栏的系统监控软件：
-
-![stats](https://images-1252557999.file.myqcloud.com/uPic/stats.jpg) 
+![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
 
 ## 👀 资料 
 
-### [动手实现LLM中文版](https://github.com/datawhalechina/llms-from-scratch-cn)
+### [MDN Web Docs](https://github.com/mdn/translated-content)
 
-该项目提供了一个如何从头开始实现类似 `ChatGPT` 的大语言模型（LLM）的详细教程：
+`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
 
-![tllms-from-scratch-cn](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6242161922065677933-y.jpg) 
+![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
 
-### [opensource-f2f](https://github.com/opensource-f2f)
+### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
 
-《开源面对面》是一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。
+读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
 
-![osf2f](https://images-1252557999.file.myqcloud.com/uPic/osf2f.jpg) 
+![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
 
-### [rosedb](https://github.com/flower-corp/rosedb)
+### [how-web-works](https://github.com/vasanthk/how-web-works)
 
-`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
-
-![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
-
-作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
+当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
 
 ## 🕸 网站 
 
-### [curated.design](https://www.curated.design/)
+### [万词王](https://github.com/thunlp/WantWords)
 
-网页设计灵感目录，比较全面的设计领域导航网站：
+万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
 
-![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
+![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
+官方访问地址：[wantwords.net](https://wantwords.net/)。 
 
-### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
+### [chatdoc](https://chatdoc.com/)
 
-软件镜像站：
+`ChatDOC` 让你可以和文档进行聊天沟通，它是一个基于 `ChatGPT` 的文件读取助手，它可以从 `PDF` 中快速提取、定位和总结信息：
 
-![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
+![chatdoc](https://images-1252557999.file.myqcloud.com/uPic/chatdoc.png) 
 
-### [react-tetris](https://github.com/chvin/react-tetris)
+### [iconoir](https://iconoir.com/)
 
-用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
+开源的SVG图标搜索引擎：
 
-![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
+![iconoir](https://images-1252557999.file.myqcloud.com/uPic/iconoir.jpg) 
 
 ## ✍️ 说明
 
