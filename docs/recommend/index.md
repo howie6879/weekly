@@ -5,82 +5,100 @@
 
 ## 🎯 项目 
 
-### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+### [invoice](https://github.com/guanshuicheng/invoice)
 
-适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
+增值税发票 `OCR` 识别，使用 `flask` 微服务架构，识别 `type` ：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等：
 
-![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
+![invoice](https://images-1252557999.file.myqcloud.com/uPic/invoice.jpg) 
 
-### [dozzle](https://github.com/amir20/dozzle)
+### [picx](https://github.com/XPoet/picx "picx")
 
-Dozzle 是一个小型轻量级应用程序，基于 Web 界面来监控 Docker 日志，不存储任何日志文件，仅用于实时监控您的容器日志：
+`PicX` 是一款基于 `GitHub API` 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务：
 
-![dozzle](https://images-1252557999.file.myqcloud.com/uPic/dozzle.jpg)s 
+![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg)
 
-### [moneynote-api](https://github.com/getmoneynote/moneynote-api)
+类似项目：
 
-一个开源免费的记账解决方案，包括[后端](https://github.com/getmoneynote/moneynote-api)，[网页版](https://github.com/getmoneynote/moneywhere-user-fe)，[App](https://github.com/getmoneynote/moneywhere_user_flutter)，主要用于个人生活记账，开店收支记账，支持[ Docker 一键部署](https://github.com/getmoneynote/docker-compose-moneywhere)自己的记账程序：
+- [telegraph](https://github.com/0-RTT/telegraph "telegraph")
+- [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image "Telegraph-Image"):免费图片托管解决方案，`Flickr/imgur` 替代品
+- [rao-pics](https://github.com/meetqy/rao-pics "rao-pics"):利用 `Eagle APP` 快速搭建图片站、
 
-![moneynote-api](https://images-1252557999.file.myqcloud.com/uPic/moneynote-api.png) 
+但是老胡建议不要滥用，这种也不稳定，自己偶尔测试需要可以使用一下，推荐出来也是让朋友们多个选择。我推荐自建图床：
+
+- [lsky-pro](https://github.com/lsky-org/lsky-pro "lsky-pro")：兰空图床
+- [EasyImages2.0](https://github.com/icret/EasyImages2.0 "EasyImages2.0")：简单图床 - 一款功能强大无数据库的图床 2.0 版
+- [PicList](https://github.com/Kuingsmile/PicList "PicList")：图片上传 云存储管理
+- [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed "quickly-picture-bed")：轻快图床：使用 nestjs+vue3.x+ts+vite 开发的在线图床系统，内置功能包括图片上传、图片管理、存储桶管理、相册管理、插件市场、知识库管理、数据统计等功能 
+
+### [openui](https://github.com/wandb/openui)
+
+将你脑中的页面通过文本描述来自动实时生成，非常方便，但是实用性具体如何还需要探索，期待这个项目持续迭代：
+
+![openui](https://images-1252557999.file.myqcloud.com/uPic/openui.jpg)
+
+它甚至可以帮助你将HTML转换成 `React、Svelte or Web Components` 等格式。 
 
 ## 🤖 软件 
 
-### [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
+### [Readhubn](https://github.com/shensven/Readhubn)
 
-简单的 macOS 菜单栏应用程序，可以方便地和 `Reminders` 进行交互，使用 `SwiftUI` 开发，并使用 `Apple` 提醒事项作为数据源：
+如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
 
-![reminders-menubar](https://images-1252557999.file.myqcloud.com/uPic/reminders-menubar.jpg) 
+![readhub](https://images-1252557999.file.myqcloud.com/uPic/pZfUjT.png) 
 
-### [GodMode](https://github.com/smol-ai/GodMode/)
+### [alacritty](https://github.com/alacritty/alacritty)
 
-`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
+一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
 
-![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
+我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
 
-### [BingGPT](https://github.com/dice2o/BingGPT)
+![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
 
-必应 GPT 聊天桌面应用程序：
+### [FluentHub](https://github.com/FluentHub/FluentHub)
 
-![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
+界面  `UI` 时尚功能强大的 `Windows GitHub` 客户端：
+
+![FluentHub](https://images-1252557999.file.myqcloud.com/uPic/FluentHub.png) 
 
 ## 👀 资料 
 
-### [MDN Web Docs](https://github.com/mdn/translated-content)
+### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
 
-`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
+Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
 
-![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
+![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
 
-### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
+### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
-读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
+微软开源的一份全面的数据科学课程，20个课时，历时10周：
 
-![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
+![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
 
-### [how-web-works](https://github.com/vasanthk/how-web-works)
+### [linux-command](https://github.com/jaywcjlove/linux-command)
 
-当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
+
+![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
 
 ## 🕸 网站 
 
-### [万词王](https://github.com/thunlp/WantWords)
+### [sqlime](http://sqlime.org/)
 
-万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
+SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
 
-![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
-官方访问地址：[wantwords.net](https://wantwords.net/)。 
+![sqlime](https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg) 
 
-### [chatdoc](https://chatdoc.com/)
+### [meow.tg](https://meow.tg/)
 
-`ChatDOC` 让你可以和文档进行聊天沟通，它是一个基于 `ChatGPT` 的文件读取助手，它可以从 `PDF` 中快速提取、定位和总结信息：
+TG喵-可能是最懂你的Telegram资源搜索引擎:
 
-![chatdoc](https://images-1252557999.file.myqcloud.com/uPic/chatdoc.png) 
+![meow](https://images-1252557999.file.myqcloud.com/uPic/meow.jpg) 
 
-### [iconoir](https://iconoir.com/)
+### [ICO converter](https://www.icoconverter.com/)
 
-开源的SVG图标搜索引擎：
+`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
 
-![iconoir](https://images-1252557999.file.myqcloud.com/uPic/iconoir.jpg) 
+![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
 
 ## ✍️ 说明
 
