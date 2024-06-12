@@ -5,100 +5,97 @@
 
 ## 🎯 项目 
 
-### [invoice](https://github.com/guanshuicheng/invoice)
+### [manifest](https://github.com/jonathontoon/manifest)
 
-增值税发票 `OCR` 识别，使用 `flask` 微服务架构，识别 `type` ：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等：
+本周最喜欢的一个项目，这是一个基于网格的即时便签板，可随时在浏览器中记笔记，相当于浏览器便签，虽然项目不更新了，但是功能基本完成，值得一试：
 
-![invoice](https://images-1252557999.file.myqcloud.com/uPic/invoice.jpg) 
+![manifest](https://images-1252557999.file.myqcloud.com/uPic/manifest.jpg) 
 
-### [picx](https://github.com/XPoet/picx "picx")
+### [questdb](https://github.com/questdb/questdb)
 
-`PicX` 是一款基于 `GitHub API` 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务：
+QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
 
-![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg)
+特别是针对时间序列数据做了处理：
 
-类似项目：
+![questdb](https://images-1252557999.file.myqcloud.com/uPic/Sbq9WK.jpg) 
 
-- [telegraph](https://github.com/0-RTT/telegraph "telegraph")
-- [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image "Telegraph-Image"):免费图片托管解决方案，`Flickr/imgur` 替代品
-- [rao-pics](https://github.com/meetqy/rao-pics "rao-pics"):利用 `Eagle APP` 快速搭建图片站、
+### [pandora](https://github.com/pengzhile/pandora)
 
-但是老胡建议不要滥用，这种也不稳定，自己偶尔测试需要可以使用一下，推荐出来也是让朋友们多个选择。我推荐自建图床：
+潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
 
-- [lsky-pro](https://github.com/lsky-org/lsky-pro "lsky-pro")：兰空图床
-- [EasyImages2.0](https://github.com/icret/EasyImages2.0 "EasyImages2.0")：简单图床 - 一款功能强大无数据库的图床 2.0 版
-- [PicList](https://github.com/Kuingsmile/PicList "PicList")：图片上传 云存储管理
-- [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed "quickly-picture-bed")：轻快图床：使用 nestjs+vue3.x+ts+vite 开发的在线图床系统，内置功能包括图片上传、图片管理、存储桶管理、相册管理、插件市场、知识库管理、数据统计等功能 
-
-### [openui](https://github.com/wandb/openui)
-
-将你脑中的页面通过文本描述来自动实时生成，非常方便，但是实用性具体如何还需要探索，期待这个项目持续迭代：
-
-![openui](https://images-1252557999.file.myqcloud.com/uPic/openui.jpg)
-
-它甚至可以帮助你将HTML转换成 `React、Svelte or Web Components` 等格式。 
+![pandora](https://images-1252557999.file.myqcloud.com/uPic/pandora.png) 
 
 ## 🤖 软件 
 
-### [Readhubn](https://github.com/shensven/Readhubn)
+### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
 
-如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
+一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
 
-![readhub](https://images-1252557999.file.myqcloud.com/uPic/pZfUjT.png) 
+- 配置app启动默认输入法。
+- app来回切换，保持app切出前的使用的输入法。
+- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
+- 悬浮窗口支持
 
-### [alacritty](https://github.com/alacritty/alacritty)
+![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
 
-一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
+### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
 
-我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
+`Android` 平台下 `MD` 风格的文件管理器:
 
-![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
+![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
 
-### [FluentHub](https://github.com/FluentHub/FluentHub)
+### [Alexandria](https://github.com/btpf/Alexandria)
 
-界面  `UI` 时尚功能强大的 `Windows GitHub` 客户端：
+一个极简的跨平台电子书阅读器，使用 `Tauri` ❤️ `Epub.js` 构建：
 
-![FluentHub](https://images-1252557999.file.myqcloud.com/uPic/FluentHub.png) 
+![Alexandria](https://images-1252557999.file.myqcloud.com/uPic/Alexandria.png) 
 
 ## 👀 资料 
 
-### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
+### [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial)
 
-Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+本教程供新加入 `TANGENT` 实验室的同学入门 NLP 使用，该指南主要提供了 `NLP` 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：
 
-![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
+![pku_nlp_tutorial](https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg) 
 
-### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+### [comflowy](https://www.comflowy.com/zh-CN)
 
-微软开源的一份全面的数据科学课程，20个课时，历时10周：
+作者认为 `AI` 生图领域的未来一定是围绕 `Stable Diffusion` 展开，而 `ComfyUI` 相比于 `Stable Diffusion WebUI` 等其他开源产品具备非常强的差异化能力，它具备高度的扩展性和应用可能性，真正做到了让开发者和用户能够根据自己的需求打造个性化的生图流程。
 
-![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
+![comflowy](https://images-1252557999.file.myqcloud.com/uPic/comflowy.jpg) 
 
-### [linux-command](https://github.com/jaywcjlove/linux-command)
+### [visualize-ml](https://github.com/visualize-ml)
 
-Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
+鸢尾花书：从加减乘除到机器学习，全套7册。
 
-![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
+![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
 
 ## 🕸 网站 
 
-### [sqlime](http://sqlime.org/)
+### [extract.pics](https://extract.pics/)
 
-SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
+输入网站地址，提取网站图片资源：
 
-![sqlime](https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg) 
+![extract_pics](https://images-1252557999.file.myqcloud.com/uPic/extract_pics.jpg) 
 
-### [meow.tg](https://meow.tg/)
+### [文学网](https://www.hwxnet.com/)
 
-TG喵-可能是最懂你的Telegram资源搜索引擎:
+文学相关工具在线网站：
 
-![meow](https://images-1252557999.file.myqcloud.com/uPic/meow.jpg) 
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
 
-### [ICO converter](https://www.icoconverter.com/)
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
-`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
+### [SimpleTextReader](https://github.com/henryxrl/SimpleTextReader)
 
-![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
+[易笺](https://reader.yijian.app/) - 开源的 TXT 小说阅读器：
+
+![yijian](https://images-1252557999.file.myqcloud.com/uPic/yijian.jpg) 
 
 ## ✍️ 说明
 
