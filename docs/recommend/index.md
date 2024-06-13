@@ -5,97 +5,112 @@
 
 ## 🎯 项目 
 
-### [manifest](https://github.com/jonathontoon/manifest)
+### [czkawka](https://github.com/qarmin/czkawka)
 
-本周最喜欢的一个项目，这是一个基于网格的即时便签板，可随时在浏览器中记笔记，相当于浏览器便签，虽然项目不更新了，但是功能基本完成，值得一试：
+一款简单、快速和免费的开源跨平台应用程序，可以从您的计算机中删除不必要的文件。
 
-![manifest](https://images-1252557999.file.myqcloud.com/uPic/manifest.jpg) 
+支持扫描计算机上重复、空文件夹、大文件、相似图像/视频/音乐、无效/损坏文件等内容，扫描速度极快。
 
-### [questdb](https://github.com/questdb/questdb)
+![czkawka](https://images-1252557999.file.myqcloud.com/uPic/czkawka.jpg) 
 
-QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
+### [linkwarden](https://github.com/linkwarden/linkwarden)
 
-特别是针对时间序列数据做了处理：
+一个自托管的、开源的协作式书签管理器，用于收集、组织和归档网页:
 
-![questdb](https://images-1252557999.file.myqcloud.com/uPic/Sbq9WK.jpg) 
+![linkwarden](https://images-1252557999.file.myqcloud.com/uPic/linkwarden.png) 
 
-### [pandora](https://github.com/pengzhile/pandora)
+### [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo "MoneyPrinterTurbo")
 
-潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
+只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频：
 
-![pandora](https://images-1252557999.file.myqcloud.com/uPic/pandora.png) 
+![MoneyPrinterTurbo](https://images-1252557999.file.myqcloud.com/uPic/MoneyPrinterTurbo.jpeg) 
 
 ## 🤖 软件 
 
-### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+### [PicHoro](https://github.com/Kuingsmile/PicHoro "PicHoro")
 
-一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
+多功能云存储管理工具，集图床管理、文件传输于一体。支持多平台且功能全面：
 
-- 配置app启动默认输入法。
-- app来回切换，保持app切出前的使用的输入法。
-- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
-- 悬浮窗口支持
+- 直接管理多种云存储平台
+- 便捷上传和下载文件
+- 兼容 S3 API，轻松集成现有系统
 
-![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
+![PicHoro](https://images-1252557999.file.myqcloud.com/uPic/PicHoro.jpg) 
 
-### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+### [Tran](https://github.com/Borber/Tran)
 
-`Android` 平台下 `MD` 风格的文件管理器:
+简洁, 快速, 划词翻译：
 
-![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
+- 开箱即用
+- 永久免费使用
+- 谷歌翻译镜像
 
-### [Alexandria](https://github.com/btpf/Alexandria)
+![Tran](https://images-1252557999.file.myqcloud.com/uPic/Tran.jpg)
 
-一个极简的跨平台电子书阅读器，使用 `Tauri` ❤️ `Epub.js` 构建：
+其他开源划词翻译软件推荐：
 
-![Alexandria](https://images-1252557999.file.myqcloud.com/uPic/Alexandria.png) 
+- [pot-desktop](https://github.com/pot-app/pot-desktop)：🌈一个跨平台的划词翻译和OCR软件
+- [Easydict](https://github.com/tisfeng/Easydict)：一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。
+- [TTime](https://github.com/inkTimeRecord/TTime)：🚀 一款简洁高效的输入、截图、划词翻译软件 
+
+### [GeekDesk](https://github.com/BookerLiu/GeekDesk)
+
+小巧、美观的桌面快速启动管理工具，同时集成了 `Everything` 搜索，仅支持 `Windows`：
+
+![GeekDesk](https://images-1252557999.file.myqcloud.com/uPic/GeekDesk.png) 
 
 ## 👀 资料 
 
-### [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial)
+### [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 
-本教程供新加入 `TANGENT` 实验室的同学入门 NLP 使用，该指南主要提供了 `NLP` 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：
+微软免费课程：12堂课入门生成式AI，从而开始构建你自己的生成式人工智能应用程序：
 
-![pku_nlp_tutorial](https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg) 
+![generative-ai-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/generative-ai-for-beginners.png) 
 
-### [comflowy](https://www.comflowy.com/zh-CN)
+### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
-作者认为 `AI` 生图领域的未来一定是围绕 `Stable Diffusion` 展开，而 `ComfyUI` 相比于 `Stable Diffusion WebUI` 等其他开源产品具备非常强的差异化能力，它具备高度的扩展性和应用可能性，真正做到了让开发者和用户能够根据自己的需求打造个性化的生图流程。
+代码整洁之道（javascript版本）：
 
-![comflowy](https://images-1252557999.file.myqcloud.com/uPic/comflowy.jpg) 
+- [英文版-clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [中文版-clean-code-js](https://github.com/alivebao/clean-code-js) 
 
-### [visualize-ml](https://github.com/visualize-ml)
+### [通往AGI之路](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
 
-鸢尾花书：从加减乘除到机器学习，全套7册。
+汇聚了互联网上的一些 `AGI` 教程，资源大家看了觉得有用即可，文章底部有微信引流，如果里面需要付费请慎重：
 
-![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
+![ywh1bkansf](https://images-1252557999.file.myqcloud.com/uPic/ywh1bkansf.jpg) 
 
 ## 🕸 网站 
 
-### [extract.pics](https://extract.pics/)
+### [ticompressor](https://www.ticompressor.com/online/)
 
-输入网站地址，提取网站图片资源：
+压缩速度极快的图片压缩软件，有网页版和软件版：
 
-![extract_pics](https://images-1252557999.file.myqcloud.com/uPic/extract_pics.jpg) 
+- 具有超快的压缩速度
+- 支持压缩 GB 级别的超大体积的图片
+- 支持 7 种图片格式
+- 支持深、浅色主题模式
+- 可对原始图片进行预览
+- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
+- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
+- 实时显示压缩进度
+- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
 
-### [文学网](https://www.hwxnet.com/)
+![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
 
-文学相关工具在线网站：
+![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
+### [screenshot](https://screenshot.rocks/)
 
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+快速创建精美的移动和浏览器屏幕截图：
 
-### [SimpleTextReader](https://github.com/henryxrl/SimpleTextReader)
+![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
 
-[易笺](https://reader.yijian.app/) - 开源的 TXT 小说阅读器：
+### [svgsilh](https://svgsilh.com/)
 
-![yijian](https://images-1252557999.file.myqcloud.com/uPic/yijian.jpg) 
+免费可商用的`SVG`素材网站：
+
+![svgsilh](https://images-1252557999.file.myqcloud.com/uPic/svgsilh.jpg) 
 
 ## ✍️ 说明
 
