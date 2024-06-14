@@ -5,112 +5,87 @@
 
 ## 🎯 项目 
 
-### [czkawka](https://github.com/qarmin/czkawka)
+### [LocalAI](https://github.com/go-skynet/LocalAI)
 
-一款简单、快速和免费的开源跨平台应用程序，可以从您的计算机中删除不必要的文件。
+🤖 免费、开源的 `OpenAI` 替代品。自托管、社区驱动和本地优先。可在消费级硬件上运行，作为 `OpenAI` 的即插即用替代方案。无需 `GPU`。支持运行 `ggml、gguf、GPTQ、onnx` 和 `TF` 兼容模型：`llama、llama2、rwkv、whisper、vicuna、koala、cerebras、falcon、dolly、starcoder` 等等：
 
-支持扫描计算机上重复、空文件夹、大文件、相似图像/视频/音乐、无效/损坏文件等内容，扫描速度极快。
+![localai](https://images-1252557999.file.myqcloud.com/uPic/localai.png) 
 
-![czkawka](https://images-1252557999.file.myqcloud.com/uPic/czkawka.jpg) 
+### [LightBook](https://github.com/underthestars-zhy/LightBook)
 
-### [linkwarden](https://github.com/linkwarden/linkwarden)
+开源的小说下载脚本项目，输出格式为 `EPUB`：
 
-一个自托管的、开源的协作式书签管理器，用于收集、组织和归档网页:
+![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
 
-![linkwarden](https://images-1252557999.file.myqcloud.com/uPic/linkwarden.png) 
+### [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)
 
-### [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo "MoneyPrinterTurbo")
+基于 `Docker` 的 `Web PDF` 操作工具，允许您对 `PDF` 文件执行各种操作，如拆分、合并、转换、重新组织、添加图像、旋转、压缩等：
 
-只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频：
-
-![MoneyPrinterTurbo](https://images-1252557999.file.myqcloud.com/uPic/MoneyPrinterTurbo.jpeg) 
+![Stirling-PDF](https://images-1252557999.file.myqcloud.com/uPic/Stirling-PDF.png) 
 
 ## 🤖 软件 
 
-### [PicHoro](https://github.com/Kuingsmile/PicHoro "PicHoro")
+### [Plash](https://github.com/sindresorhus/Plash)
 
-多功能云存储管理工具，集图床管理、文件传输于一体。支持多平台且功能全面：
+将网站变成 Mac 桌面壁纸，支持将多种网站设置为壁纸，这些网站并不局限于图片网站，还可以是新闻、气象等站点：
 
-- 直接管理多种云存储平台
-- 便捷上传和下载文件
-- 兼容 S3 API，轻松集成现有系统
+![Plash](https://images-1252557999.file.myqcloud.com/uPic/Plash.jpeg) 
 
-![PicHoro](https://images-1252557999.file.myqcloud.com/uPic/PicHoro.jpg) 
+### [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor)
 
-### [Tran](https://github.com/Borber/Tran)
+`Caesium` 是一款图像压缩软件，可帮助您存储、发送和共享数字图片，支持 `JPG、PNG&WebP` 格式：
 
-简洁, 快速, 划词翻译：
+![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.jpg) 
 
-- 开箱即用
-- 永久免费使用
-- 谷歌翻译镜像
+### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
 
-![Tran](https://images-1252557999.file.myqcloud.com/uPic/Tran.jpg)
+一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
 
-其他开源划词翻译软件推荐：
-
-- [pot-desktop](https://github.com/pot-app/pot-desktop)：🌈一个跨平台的划词翻译和OCR软件
-- [Easydict](https://github.com/tisfeng/Easydict)：一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。
-- [TTime](https://github.com/inkTimeRecord/TTime)：🚀 一款简洁高效的输入、截图、划词翻译软件 
-
-### [GeekDesk](https://github.com/BookerLiu/GeekDesk)
-
-小巧、美观的桌面快速启动管理工具，同时集成了 `Everything` 搜索，仅支持 `Windows`：
-
-![GeekDesk](https://images-1252557999.file.myqcloud.com/uPic/GeekDesk.png) 
+![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
 
 ## 👀 资料 
 
-### [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
-微软免费课程：12堂课入门生成式AI，从而开始构建你自己的生成式人工智能应用程序：
+> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
 
-![generative-ai-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/generative-ai-for-beginners.png) 
+本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
 
-### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
 
-代码整洁之道（javascript版本）：
+### [sql-mother](https://github.com/liyupi/sql-mother)
 
-- [英文版-clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-- [中文版-clean-code-js](https://github.com/alivebao/clean-code-js) 
+免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
 
-### [通往AGI之路](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
+![sqlmother](https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg)
 
-汇聚了互联网上的一些 `AGI` 教程，资源大家看了觉得有用即可，文章底部有微信引流，如果里面需要付费请慎重：
+在线网站点[这里](http://sqlmother.yupi.icu/#/learn)。 
 
-![ywh1bkansf](https://images-1252557999.file.myqcloud.com/uPic/ywh1bkansf.jpg) 
+### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
+
+一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
+
+![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
 
 ## 🕸 网站 
 
-### [ticompressor](https://www.ticompressor.com/online/)
+### [fontawesome](https://fontawesome.com/icons/)
 
-压缩速度极快的图片压缩软件，有网页版和软件版：
+比较完善全面的图标网站：
 
-- 具有超快的压缩速度
-- 支持压缩 GB 级别的超大体积的图片
-- 支持 7 种图片格式
-- 支持深、浅色主题模式
-- 可对原始图片进行预览
-- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
-- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
-- 实时显示压缩进度
-- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
+![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
 
-![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
+### [batnoter](https://batnoter.com/)
 
-![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-### [screenshot](https://screenshot.rocks/)
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
-快速创建精美的移动和浏览器屏幕截图：
+### [ipa.store](https://ipa.store/)
 
-![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
+`IPA` 商店：
 
-### [svgsilh](https://svgsilh.com/)
-
-免费可商用的`SVG`素材网站：
-
-![svgsilh](https://images-1252557999.file.myqcloud.com/uPic/svgsilh.jpg) 
+![ipa_store](https://images-1252557999.file.myqcloud.com/uPic/ipa_store.jpg) 
 
 ## ✍️ 说明
 
