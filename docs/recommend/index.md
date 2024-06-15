@@ -5,87 +5,105 @@
 
 ## 🎯 项目 
 
-### [LocalAI](https://github.com/go-skynet/LocalAI)
+### [Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese)
 
-🤖 免费、开源的 `OpenAI` 替代品。自托管、社区驱动和本地优先。可在消费级硬件上运行，作为 `OpenAI` 的即插即用替代方案。无需 `GPU`。支持运行 `ggml、gguf、GPTQ、onnx` 和 `TF` 兼容模型：`llama、llama2、rwkv、whisper、vicuna、koala、cerebras、falcon、dolly、starcoder` 等等：
+AI拟声: 克隆您的声音并生成任意语音内容。 
 
-![localai](https://images-1252557999.file.myqcloud.com/uPic/localai.png) 
+### [nativefier](https://github.com/nativefier/nativefier)
 
-### [LightBook](https://github.com/underthestars-zhy/LightBook)
+这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
 
-开源的小说下载脚本项目，输出格式为 `EPUB`：
+![nativefier_walkthrough](https://images-1252557999.file.myqcloud.com/uPic/nativefier_walkthrough.gif) 
 
-![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
+### [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
 
-### [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)
+将视频从一种语言翻译为另一种语言，并添加配音，这个最近火出圈了：
 
-基于 `Docker` 的 `Web PDF` 操作工具，允许您对 `PDF` 文件执行各种操作，如拆分、合并、转换、重新组织、添加图像、旋转、压缩等：
-
-![Stirling-PDF](https://images-1252557999.file.myqcloud.com/uPic/Stirling-PDF.png) 
+![pyvideotrans](https://images-1252557999.file.myqcloud.com/uPic/pyvideotrans.jpg) 
 
 ## 🤖 软件 
 
-### [Plash](https://github.com/sindresorhus/Plash)
+### [GestureSign](https://github.com/TransposonY/GestureSign)
 
-将网站变成 Mac 桌面壁纸，支持将多种网站设置为壁纸，这些网站并不局限于图片网站，还可以是新闻、气象等站点：
+开源免费的 `Windows` 全局手势控制辅助增强软件神器:
 
-![Plash](https://images-1252557999.file.myqcloud.com/uPic/Plash.jpeg) 
+- 支持 `Windows 11、Win10 / 8` 等系统
+- 支持鼠标手势、触控板等手势操作
+- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
 
-### [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor)
+![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
 
-`Caesium` 是一款图像压缩软件，可帮助您存储、发送和共享数字图片，支持 `JPG、PNG&WebP` 格式：
+### [BetterDummy](https://github.com/waydabber/BetterDummy)
 
-![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.jpg) 
+`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
 
-### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
+![bd_menu](https://images-1252557999.file.myqcloud.com/uPic/bd_menu.png)
 
-一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
+如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
 
-![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
+### [UU 浏览器](https://www.uukei.com/help/?p=h)
+
+> UU浏览器在满足用户的需求上，延续了谷歌的简洁，摒弃了如 Edge 过多功能的臃肿。
+
+这是老胡的朋友，独立开发运营两三年的一款浏览器，主打纯净美观&个性化，核心功能点如下：
+
+- 优化去冗余、内存占用少
+- 简洁高效率、年轻个性化
+- 最大程度隐私安全
+- 纯净不打扰
+
+在以上基本特性持续开发小功能提升用户效率，大家可以提意见哈：
+
+- 💫 自带整页翻译
+- 📚 灵活新标签页
+- 📋 多功能侧边栏
+- 🧩 扩展安装方便
+- 📟 夜间护眼模式
+- 📈 多线程下载
+- 👉 支持鼠标手势
+- ✔️ 网页一键保存为图片或PDF
+
+![uu](https://images-1252557999.file.myqcloud.com/uPic/uu.jpg)
+
+有兴趣欢迎了解体验👉[UU 浏览器](https://www.uukei.com/help/?p=h) 
 
 ## 👀 资料 
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+### [Web Development History](https://webdevelopmenthistory.com/index/)
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
+`Web` 开发发展史文章系列：
 
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
+![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
 
-![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-### [sql-mother](https://github.com/liyupi/sql-mother)
+《Mastering GO》中文译本，《玩转 GO》：
 
-免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
-![sqlmother](https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg)
+### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
 
-在线网站点[这里](http://sqlmother.yupi.icu/#/learn)。 
-
-### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
-
-一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
-
-![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
+本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
 
 ## 🕸 网站 
 
-### [fontawesome](https://fontawesome.com/icons/)
+### [短剧搜索引擎](https://www.fre123.com/sp?ref=weekly)
 
-比较完善全面的图标网站：
+比较全面的短剧搜索引擎，数据在夸克网盘，转存即可免费观看全部：
 
-![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
+![sp](https://images-1252557999.file.myqcloud.com/uPic/sp.jpg) 
 
-### [batnoter](https://batnoter.com/)
+### [svgsilh](https://svgsilh.com/)
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+免费可商用的`SVG`素材网站：
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+![svgsilh](https://images-1252557999.file.myqcloud.com/uPic/svgsilh.jpg) 
 
-### [ipa.store](https://ipa.store/)
+### [tableconvert](https://tableconvert.com/)
 
-`IPA` 商店：
+`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
 
-![ipa_store](https://images-1252557999.file.myqcloud.com/uPic/ipa_store.jpg) 
+![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
 
 ## ✍️ 说明
 
