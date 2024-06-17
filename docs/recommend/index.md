@@ -5,98 +5,88 @@
 
 ## 🎯 项目 
 
-### [czkawka](https://github.com/qarmin/czkawka)
+### [heti](https://github.com/sivan/heti)
 
-一款简单、快速和免费的开源跨平台应用程序，可以从您的计算机中删除不必要的文件。
+赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
-支持扫描计算机上重复、空文件夹、大文件、相似图像/视频/音乐、无效/损坏文件等内容，扫描速度极快。
+![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
 
-![czkawka](https://images-1252557999.file.myqcloud.com/uPic/czkawka.jpg) 
+### [cal.com](https://github.com/calcom/cal.com)
 
-### [mdx-editor](https://github.com/maqi1520/mdx-editor)
+一个管理日程安排和预约的工具，可以说是 `Calendly` 的开源替代方案：
 
-一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
+![cal_com](https://images-1252557999.file.myqcloud.com/uPic/cal_com.jpg) 
 
-![mdx-editor](https://images-1252557999.file.myqcloud.com/uPic/mdx-editor.jpg) 
+### [ui-buttons/core](https://github.com/ui-buttons/core)
 
-### [zfile](https://github.com/zhaojun1998/zfile)
+CSS 按钮样式集合，此项目实现了 100 种不同的现代化的样式按钮：
 
-基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
-
-![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
+![ui-buttons](https://images-1252557999.file.myqcloud.com/uPic/ui-buttons.png) 
 
 ## 🤖 软件 
 
-### [Bangumi](https://github.com/czy0729/Bangumi)
+### [mangerlahn-latest](https://github.com/mangerlahn/latest)
 
-一个基于 `React-Native` 的无广告、以爱好为驱动、不以盈利为目的 [Bangumi](https://bgm.tv/) 第三方客户端，简单比喻就是专门做 `ACG` 的类似豆瓣的应用：
+一款免费开源的macOS应用程序，专门设计用于保持您的所有应用程序处于最新状态。它能够检查您的每一个应用程序，确保您始终拥有最新的更新和功能。
 
-![Bangumi](https://images-1252557999.file.myqcloud.com/uPic/Bangumi.jpg) 
+![mac_latest](https://images-1252557999.file.myqcloud.com/uPic/mac_latest.jpg) 
 
-### [ambie](https://github.com/jenius-apps/ambie)
+### [Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)
 
-针对 `Windows` 平台的白噪音应用，挺多自然界声音，可以帮助你提升生产力：
+由于在 `QQ` 和微信中发送 `APK` 文件时，文件名会被腾讯添加后缀.1，此 `App` 可以省去重命名步骤，直接安装：
 
-![ambie](https://images-1252557999.file.myqcloud.com/uPic/ambie.jpg) 
+- 获取安装权限（不需要读取存储权限）
+- 在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序 
 
-### [chatd.ai](https://www.chatd.ai/)
+### [plain-app](https://github.com/ismartcoding/plain-app)
 
-您自己的私人本地AI，可以阅读计算机上的文件然后与您的文件进行聊天，该软件目标如下：
+🔥 PlainApp 是一个开源应用程序，允许您通过网络浏览器管理您的手机。使用安全、易于使用的 Web 界面从您的桌面访问文件、视频、音乐、联系人、短信、电话等！
 
-- 一键式下载与启动。
-- 无需额外依赖。
-- 应用文件体积最小化。
-- 设计简单的大语言模型版本控制与分发系统。
-- 兼容所有主流操作系统。
-- 利用本地运行的优势，如访问本地文件系统。
-- 用户无需调整任何设置，大语言模型在他们的系统上即插即用。
-
-详情见介绍文章：[packaging-language-models-into-desktop-apps](https://www.bmacd.xyz/packaging-language-models-into-desktop-apps/) 
+![plain-app](https://images-1252557999.file.myqcloud.com/uPic/plain-app.jpg) 
 
 ## 👀 资料 
 
-### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
 
-命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
+`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
 
-### [法律文库](https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html)
+![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
 
-以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。
+### [MySQL&PG 数据库教程](https://www.sjkjc.com/mysql/)
 
-![justlaws](https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg) 
+一个专门讲数据库教程的资料网站：
 
-### [LLMBook-zh](https://llmbook-zh.github.io/)
+![sjkjc](https://images-1252557999.file.myqcloud.com/uPic/sjkjc.jpg) 
 
-大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
+### [事实核查手册](https://chinafactcheck.com/?p=11465)
 
-![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
+虚假信息泛滥已成世界性难题，简体中文内容市场亦难置身事外。作为应对手段之一，事实核查在中国开始萌芽。
+
+本手册以案例的形式介绍了常用的文字、图片和视频核查工具，也涉及事实核查的工作流程、信源评估，并译介了国际事实核查机构惯用的职业准则与实践，希望能为中国的事实核查业者和观察者提供一定的参考。
+
+![事实核查手册](https://images-1252557999.file.myqcloud.com/uPic/事实核查手册.jpg) 
 
 ## 🕸 网站 
 
-### [chinesenewyear](https://chinesenewyear.net/)
+### [squoosh](https://squoosh.app/)
 
-国外一个专门介绍农历春节的网站，包含了非常多关于春节的介绍信息：
+免费漂亮的在线图片压缩网站：
 
-![chinesenewyear](https://images-1252557999.file.myqcloud.com/uPic/chinesenewyear.jpg) 
+![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
 
-### [dute](https://www.dute.org/)
+其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
+### [learngpt.com](https://www.learngpt.com/)
 
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
+`ChatGPT` 最佳用例分享网站：
 
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+![learngpt](https://images-1252557999.file.myqcloud.com/uPic/learngpt.jpg) 
 
-### [tailspark](https://tailspark.co/)
+### [buzzing.cc](https://www.buzzing.cc/)
 
-`300+` 免费的 `TailwindCSS` 组件和模板，让您在几分钟内构建网站，颜值也非常高：
+用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读：
 
-![tailspark](https://images-1252557999.file.myqcloud.com/uPic/tailspark.jpg) 
+![buzzing](https://images-1252557999.file.myqcloud.com/uPic/buzzing.jpg) 
 
 ## ✍️ 说明
 
