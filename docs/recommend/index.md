@@ -5,88 +5,92 @@
 
 ## 🎯 项目 
 
-### [heti](https://github.com/sivan/heti)
+### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
 
-赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
 
-![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
+如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
 
-### [cal.com](https://github.com/calcom/cal.com)
+![Infuse](https://images-1252557999.file.myqcloud.com/uPic/Fbred5.png) 
 
-一个管理日程安排和预约的工具，可以说是 `Calendly` 的开源替代方案：
+### [tabby](https://github.com/TabbyML/tabby)
 
-![cal_com](https://images-1252557999.file.myqcloud.com/uPic/cal_com.jpg) 
+自托管的 `AI` 编码助手，是 `GitHub Copilot` 的开源/本地替代方案：
 
-### [ui-buttons/core](https://github.com/ui-buttons/core)
+![tabby](https://images-1252557999.file.myqcloud.com/uPic/tabby.gif)
 
-CSS 按钮样式集合，此项目实现了 100 种不同的现代化的样式按钮：
+免费方案还可以尝试的有：
 
-![ui-buttons](https://images-1252557999.file.myqcloud.com/uPic/ui-buttons.png) 
+- [Cursor](https://weekly.howie6879.com/2023/03-20~03-25.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC084%E6%9C%9F%EF%BC%89.html?h=cursor#cursor)：一个专为 AI 协作编程而设计的编辑器，可以通过聊天的形式生成代码
+- [Amazon CodeWhisperer](https://aws.amazon.com/cn/codewhisperer/)：使用您的 AI 编码配套应用程序更快、更安全地构建应用程序
+
+![cursor_code](https://images-1252557999.file.myqcloud.com/uPic/cursor_code.png)
+
+![codewhisperer](https://images-1252557999.file.myqcloud.com/uPic/codewhisperer.jpg) 
+
+### [osquery](https://github.com/osquery/osquery)
+
+像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
+
+![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
 
 ## 🤖 软件 
 
-### [mangerlahn-latest](https://github.com/mangerlahn/latest)
+### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
 
-一款免费开源的macOS应用程序，专门设计用于保持您的所有应用程序处于最新状态。它能够检查您的每一个应用程序，确保您始终拥有最新的更新和功能。
+`TinyPNG`的`Mac`客户端：
 
-![mac_latest](https://images-1252557999.file.myqcloud.com/uPic/mac_latest.jpg) 
+![TinyPNG4Mac](https://images-1252557999.file.myqcloud.com/uPic/TinyPNG4Mac.png) 
 
-### [Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)
+### [paperlib](https://github.com/GeoffreyChen777/paperlib)
 
-由于在 `QQ` 和微信中发送 `APK` 文件时，文件名会被腾讯添加后缀.1，此 `App` 可以省去重命名步骤，直接安装：
+面向计算机科学的简单开源学术论文管理工具：
 
-- 获取安装权限（不需要读取存储权限）
-- 在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序 
+![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
 
-### [plain-app](https://github.com/ismartcoding/plain-app)
+### [Mos](https://github.com/Caldis/Mos)
 
-🔥 PlainApp 是一个开源应用程序，允许您通过网络浏览器管理您的手机。使用安全、易于使用的 Web 界面从您的桌面访问文件、视频、音乐、联系人、短信、电话等！
+一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
 
-![plain-app](https://images-1252557999.file.myqcloud.com/uPic/plain-app.jpg) 
+![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
 
 ## 👀 资料 
 
-### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
+### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
 
-`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
+公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
 
-![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
+### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
 
-### [MySQL&PG 数据库教程](https://www.sjkjc.com/mysql/)
+ Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
 
-一个专门讲数据库教程的资料网站：
+ ![rust_embedded_dev](https://images-1252557999.file.myqcloud.com/uPic/rust_embedded_dev.jpg) 
 
-![sjkjc](https://images-1252557999.file.myqcloud.com/uPic/sjkjc.jpg) 
+### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
 
-### [事实核查手册](https://chinafactcheck.com/?p=11465)
+阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
 
-虚假信息泛滥已成世界性难题，简体中文内容市场亦难置身事外。作为应对手段之一，事实核查在中国开始萌芽。
-
-本手册以案例的形式介绍了常用的文字、图片和视频核查工具，也涉及事实核查的工作流程、信源评估，并译介了国际事实核查机构惯用的职业准则与实践，希望能为中国的事实核查业者和观察者提供一定的参考。
-
-![事实核查手册](https://images-1252557999.file.myqcloud.com/uPic/事实核查手册.jpg) 
+![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
 
 ## 🕸 网站 
 
-### [squoosh](https://squoosh.app/)
+### [jsonvisio](https://jsonvisio.com/editor)
 
-免费漂亮的在线图片压缩网站：
+将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
 
-![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
+![](https://images-1252557999.file.myqcloud.com/uPic/jsonvisio.jpg) 
 
-其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
+### [remixicon](https://remixicon.com/)
 
-### [learngpt.com](https://www.learngpt.com/)
+[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
 
-`ChatGPT` 最佳用例分享网站：
+![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
 
-![learngpt](https://images-1252557999.file.myqcloud.com/uPic/learngpt.jpg) 
+### [zhongguose](http://zhongguose.com/)
 
-### [buzzing.cc](https://www.buzzing.cc/)
+一个中国传统颜色的配色网站：
 
-用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读：
-
-![buzzing](https://images-1252557999.file.myqcloud.com/uPic/buzzing.jpg) 
+![zhongguose](https://images-1252557999.file.myqcloud.com/uPic/zhongguose.jpg) 
 
 ## ✍️ 说明
 
