@@ -5,92 +5,84 @@
 
 ## 🎯 项目 
 
-### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
+### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
 
-阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
+`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
 
-如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
+一个获取百度网盘分享链接下载地址的工具：
 
-![Infuse](https://images-1252557999.file.myqcloud.com/uPic/Fbred5.png) 
+![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
 
-### [tabby](https://github.com/TabbyML/tabby)
+### [dm-ticket](https://github.com/ClassmateLin/dm-ticket)
 
-自托管的 `AI` 编码助手，是 `GitHub Copilot` 的开源/本地替代方案：
+大麦网自动购票, 支持 `docker` 一键部署:
 
-![tabby](https://images-1252557999.file.myqcloud.com/uPic/tabby.gif)
+![dm-ticket](https://images-1252557999.file.myqcloud.com/uPic/dm-ticket.png) 
 
-免费方案还可以尝试的有：
+### [FastChat](https://github.com/lm-sys/FastChat)
 
-- [Cursor](https://weekly.howie6879.com/2023/03-20~03-25.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC084%E6%9C%9F%EF%BC%89.html?h=cursor#cursor)：一个专为 AI 协作编程而设计的编辑器，可以通过聊天的形式生成代码
-- [Amazon CodeWhisperer](https://aws.amazon.com/cn/codewhisperer/)：使用您的 AI 编码配套应用程序更快、更安全地构建应用程序
+这是一个开放的平台，可用于训练、部署和评估基于大型语言模型的聊天机器人。也就是说，这个平台可以帮助人们创建聊天机器人，让其具备更好的语言理解能力，并提供一个可靠的方式来测试和评估这些聊天机器人的表现：
 
-![cursor_code](https://images-1252557999.file.myqcloud.com/uPic/cursor_code.png)
-
-![codewhisperer](https://images-1252557999.file.myqcloud.com/uPic/codewhisperer.jpg) 
-
-### [osquery](https://github.com/osquery/osquery)
-
-像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
-
-![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
+![FastChat](https://images-1252557999.file.myqcloud.com/uPic/FastChat.jpg) 
 
 ## 🤖 软件 
 
-### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
+### [V2exOS](https://github.com/isaced/V2exOS)
 
-`TinyPNG`的`Mac`客户端：
+一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端：
 
-![TinyPNG4Mac](https://images-1252557999.file.myqcloud.com/uPic/TinyPNG4Mac.png) 
+![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png) 
 
-### [paperlib](https://github.com/GeoffreyChen777/paperlib)
+### [stretchly](https://github.com/hovancik/stretchly)
 
-面向计算机科学的简单开源学术论文管理工具：
+`Stretchly` 是一个跨平台的 `Electron` 应用程序，它的核心功能就是让你在电脑上面工作时候设定休息&提醒时间：
 
-![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
+![stretchly](https://images-1252557999.file.myqcloud.com/uPic/stretchly.jpg) 
 
-### [Mos](https://github.com/Caldis/Mos)
+### [VPet](https://github.com/LorisYounger/VPet)
 
-一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
+虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何 `WPF` 应用程序，支持各种互动投喂等. 开源免费并且支持创意工坊：
 
-![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
+![VPet](https://images-1252557999.file.myqcloud.com/uPic/VPet.jpg) 
 
 ## 👀 资料 
 
-### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
+### [stevejobsarchive](https://book.stevejobsarchive.com/)
 
-公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
+乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：
 
-### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
+![stevejobsarchive_zh](https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg)
+如果你需要翻译版，可以在公众号后台联系我。 
 
- Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
+### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
 
- ![rust_embedded_dev](https://images-1252557999.file.myqcloud.com/uPic/rust_embedded_dev.jpg) 
+对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
 
-### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
+### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 
-阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
+GitHub开源项目维护协作指南：
 
-![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
+![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
 
 ## 🕸 网站 
 
-### [jsonvisio](https://jsonvisio.com/editor)
+### [gooddesign](https://www.gooddesign.tools/)
 
-将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
+优质设计师工具导航网站：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/jsonvisio.jpg) 
+![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
 
-### [remixicon](https://remixicon.com/)
+### [calltoinspiration](https://calltoinspiration.com/)
 
-[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
+根据不同 `UI` 下业务类型和方向进行分类，给用户展示不同效果以参考：
 
-![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
+![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
 
-### [zhongguose](http://zhongguose.com/)
+### [cryptologos](https://cryptologos.cc/)
 
-一个中国传统颜色的配色网站：
+一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
 
-![zhongguose](https://images-1252557999.file.myqcloud.com/uPic/zhongguose.jpg) 
+![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
 
 ## ✍️ 说明
 
