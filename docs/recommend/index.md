@@ -5,84 +5,106 @@
 
 ## 🎯 项目 
 
-### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
+### [ns-emu-tools](https://github.com/triwinds/ns-emu-tools)
 
-`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
+一个用于安装/更新 NS 模拟器的工具：
+- 支持安装 Yuzu EA/正式 版模拟器
+- 支持 Yuzu 版本检测及更新
+- 支持安装 Ryujinx Ava/正式/LDN 版模拟器
+- 支持 Ryujinx 版本检测及更新
+- 自动检测并安装 msvc 运行库
+- 支持安装及更新 NS 固件至模拟器
+- 支持固件版本检测
+- 管理模拟器密钥
+- Yuzu 金手指管理
+- aria2 多线程下载
 
-一个获取百度网盘分享链接下载地址的工具：
+关于模拟器项目：
+- [Yuzu](https://github.com/yuzu-emu/yuzu)  \- Yuzu 模拟器
+- [Ryujinx](https://github.com/Ryujinx/Ryujinx)  \- Ryujinx 模拟器
+- [hactool](https://github.com/SciresM/hactool)  \- NS 固件解析
+- [aria2](https://github.com/aria2/aria2)  \- aria2 下载器
 
-![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
+![Ryujinx](https://images-1252557999.file.myqcloud.com/uPic/Ryujinx.png) 
 
-### [dm-ticket](https://github.com/ClassmateLin/dm-ticket)
+### [dicebear](https://github.com/dicebear/dicebear)
 
-大麦网自动购票, 支持 `docker` 一键部署:
+供设计师和开发者使用的头像库。可根据传入的字符串，自动生成对应用户头像的库：
 
-![dm-ticket](https://images-1252557999.file.myqcloud.com/uPic/dm-ticket.png) 
+![dicebear](https://images-1252557999.file.myqcloud.com/uPic/dicebear.jpg) 
 
-### [FastChat](https://github.com/lm-sys/FastChat)
+### [appwrite](https://github.com/appwrite/appwrite)
 
-这是一个开放的平台，可用于训练、部署和评估基于大型语言模型的聊天机器人。也就是说，这个平台可以帮助人们创建聊天机器人，让其具备更好的语言理解能力，并提供一个可靠的方式来测试和评估这些聊天机器人的表现：
+`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
 
-![FastChat](https://images-1252557999.file.myqcloud.com/uPic/FastChat.jpg) 
+![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
 
 ## 🤖 软件 
 
-### [V2exOS](https://github.com/isaced/V2exOS)
+### [plain-app](https://github.com/ismartcoding/plain-app)
 
-一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端：
+🔥 PlainApp 是一个开源应用程序，允许您通过网络浏览器管理您的手机。使用安全、易于使用的 Web 界面从您的桌面访问文件、视频、音乐、联系人、短信、电话等！
 
-![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png) 
+![plain-app](https://images-1252557999.file.myqcloud.com/uPic/plain-app.jpg) 
 
-### [stretchly](https://github.com/hovancik/stretchly)
+### [Nuclear](https://github.com/nukeop/nuclear)
 
-`Stretchly` 是一个跨平台的 `Electron` 应用程序，它的核心功能就是让你在电脑上面工作时候设定休息&提醒时间：
+`Nuclear` 是一款完全免费的跨平台音乐流媒体桌面程序，内容来源于互联网，界面UI精美，它专注于音乐本身，非常不错（比较麻烦的还是网络问题）：
 
-![stretchly](https://images-1252557999.file.myqcloud.com/uPic/stretchly.jpg) 
+![nucler](https://images-1252557999.file.myqcloud.com/uPic/nucler.jpg)
 
-### [VPet](https://github.com/LorisYounger/VPet)
+项目还在持续开发，我们可以保持期待。 
 
-虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何 `WPF` 应用程序，支持各种互动投喂等. 开源免费并且支持创意工坊：
+### [legado](https://github.com/gedoor/legado)
 
-![VPet](https://images-1252557999.file.myqcloud.com/uPic/VPet.jpg) 
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
+
+![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
 
 ## 👀 资料 
 
-### [stevejobsarchive](https://book.stevejobsarchive.com/)
+### [qianguyihao/Web](https://github.com/qianguyihao/Web)
 
-乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：
+千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师:
 
-![stevejobsarchive_zh](https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg)
-如果你需要翻译版，可以在公众号后台联系我。 
+- 网上的大部分入门教程，都不太适合初学者，本项目争取照顾到每一位前端入门者的同理心。即使你完全不懂前端，甚至不懂编程，通过这个教程，也能让小白入门。
+- 帮助前端同学提供一个精品学习资源和路线，提高学习效率，少走很多弯路。
 
-### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
+![qianguyihao](https://images-1252557999.file.myqcloud.com/uPic/qianguyihao.jpg)
 
-对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
+可以当做前端字典，随时翻阅，查漏补缺，在线观看地址：[web.qianguyihao.com](https://web.qianguyihao.com/)。 
 
-### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
 
-GitHub开源项目维护协作指南：
+编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
 
-![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+
+夯实计算机基础，该怎么学，这个项目给出了答案：
+
+![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
 
 ## 🕸 网站 
 
-### [gooddesign](https://www.gooddesign.tools/)
+### [ffmpeg-online](https://ffmpeg-online.vercel.app/?inputOptions=-i&output=output.mp4&outputOptions=)
 
-优质设计师工具导航网站：
+基于 `ffmpeg.wasm` 的在线版本，可用于在线处理音频和视频：
 
-![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
+![ffmpeg-online](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg-online.jpg) 
 
-### [calltoinspiration](https://calltoinspiration.com/)
+### [ray.so](https://ray.so/)
 
-根据不同 `UI` 下业务类型和方向进行分类，给用户展示不同效果以参考：
+之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
 
-![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
+![ray.so](https://images-1252557999.file.myqcloud.com/uPic/ray.so.jpg) 
 
-### [cryptologos](https://cryptologos.cc/)
+### [jsonvisio](https://jsonvisio.com/editor)
 
-一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
+将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
 
-![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/jsonvisio.jpg) 
 
 ## ✍️ 说明
 
