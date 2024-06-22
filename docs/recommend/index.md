@@ -5,95 +5,101 @@
 
 ## 🎯 项目 
 
-### [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)
+### [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
 
-一键免费部署你的私人 AutoGPT-Next-Web 网页应用:
+作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。
 
-![AutoGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png) 
+项目列表如下：
 
-### [PyFlow](https://github.com/wonderworks-software/PyFlow)
+![bigdata_analyse](https://images-1252557999.file.myqcloud.com/uPic/klC8AA.png) 
 
-可视化脚本框架：
+### [rss-reader](https://github.com/srcrs/rss-reader)
 
-![PyFlow](https://images-1252557999.file.myqcloud.com/uPic/XEBUdM.jpg) 
+一个极简的 `RSS` 在线浏览工具：
 
-### [logto](https://github.com/logto-io/logto)
+![rss-reader](https://images-1252557999.file.myqcloud.com/uPic/rss-reader.png) 
 
-`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
+### [tabby](https://github.com/TabbyML/tabby)
 
-核心功能：
+自托管的 `AI` 编码助手，是 `GitHub Copilot` 的开源/本地替代方案：
 
-- 一个基于 `OIDC` 的身份服务
-- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
-- 动态短信/邮件验证码登录/注册
-- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
-- 基于 web 的图形化管理控制台
-- 可扩展的多语言支持
+![tabby](https://images-1252557999.file.myqcloud.com/uPic/tabby.gif)
 
-![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
+免费方案还可以尝试的有：
+
+- [Cursor](https://weekly.howie6879.com/2023/03-20~03-25.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC084%E6%9C%9F%EF%BC%89.html?h=cursor#cursor)：一个专为 AI 协作编程而设计的编辑器，可以通过聊天的形式生成代码
+- [Amazon CodeWhisperer](https://aws.amazon.com/cn/codewhisperer/)：使用您的 AI 编码配套应用程序更快、更安全地构建应用程序
+
+![cursor_code](https://images-1252557999.file.myqcloud.com/uPic/cursor_code.png)
+
+![codewhisperer](https://images-1252557999.file.myqcloud.com/uPic/codewhisperer.jpg) 
 
 ## 🤖 软件 
 
-### [Equinox](https://github.com/rlxone/Equinox)
+### [HandBrake](https://github.com/HandBrake/HandBrake)
 
-开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
+`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
 
-![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
+![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
 
-### [optimizer](https://github.com/hellzerg/optimizer)
+### [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor)
 
-开源软件，让你的 `Windows` 电脑保持最大程度上的纯净，保证电脑性能：
+`Caesium` 是一款图像压缩软件，可帮助您存储、发送和共享数字图片，支持 `JPG、PNG&WebP` 格式：
 
-![optimizer](https://images-1252557999.file.myqcloud.com/uPic/optimizer.jpg) 
+![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.jpg) 
 
-### [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop)
+### [Rectangle](https://github.com/rxhanson/Rectangle)
 
-`AirPods` 桌面用户体验增强程序(仅支持 Windows)：
+`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
 
-- 🔋 电池信息显示
-- 👂 自动人耳检测
-- 🚀 低音频延迟模式
-- 🌈 精美的动画
-
-![AirPodsDesktop](https://images-1252557999.file.myqcloud.com/uPic/AirPodsDesktop.gif) 
+![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
 
 ## 👀 资料 
 
-### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
+### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
 
-Go语言实战: 编写可维护Go语言代码建议。 
+《Linear Algebra for Everyone》公开课的图解笔记：
 
-### [Easy搞定Golang设计模式](https://www.yuque.com/aceld/lfhu8y/rg6nsf)
+![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
 
-一份Golang设计模式教程：
+### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
 
-![Easy搞定Golang设计模式](https://images-1252557999.file.myqcloud.com/uPic/Easy搞定Golang设计模式.jpg) 
+《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
 
-### [Book-of-MLM](https://hcplab-sysu.github.io/Book-of-MLM/)
+![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
 
-本书以深入浅出的方式全面地介绍了多模态大模型的核心技术与典型应用，并围绕新一代人工智能技术范式，详细阐述了因果推理、世界模型、超级智能体与具身智能等前沿技术。希望本书能够为学术界和工业界提供一个清晰的视角，以帮助人工智能科研工作者更全面地了解多模态大模型的技术和新一代人工智能的发展方向。
+### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
 
-![Book-of-MLM](https://images-1252557999.file.myqcloud.com/uPic/Book-of-MLM.jpg) 
+应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
+
+这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
+
+- 入侵排查
+- 日志分析
+- 权限维持
+- Windows实战
+- Linux实战
+- Web实战 
 
 ## 🕸 网站 
 
-### [similarsites](https://www.similarsites.com/)
+### [chatgpt-sites](https://github.com/lzwme/chatgpt-sites)
 
-输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
+搜集国内可用的 ChatGPT 在线体验免费网站列表，定时任务每日更新，点击[这里](https://lzw.me/x/chatgpt-sites/)访问：
 
-![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
+![chatgpt-sites](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-sites.jpg) 
 
-### [favicon.io](https://favicon.io/)
+### [sqlime](http://sqlime.org/)
 
-免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
 
-![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
+![sqlime](https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg) 
 
-### [devdocs](https://devdocs.io/)
+### [regex.ai](https://regex.ai/)
 
-提供在线快速查找API接口文档的网站：
+`regex.ai` 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：
 
-![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
+![regex_ai](https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg) 
 
 ## ✍️ 说明
 
