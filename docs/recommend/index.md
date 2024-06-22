@@ -5,96 +5,95 @@
 
 ## 🎯 项目 
 
-### [cal.com](https://github.com/calcom/cal.com)
+### [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)
 
-一个管理日程安排和预约的工具，可以说是 `Calendly` 的开源替代方案：
+一键免费部署你的私人 AutoGPT-Next-Web 网页应用:
 
-![cal_com](https://images-1252557999.file.myqcloud.com/uPic/cal_com.jpg) 
+![AutoGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png) 
 
-### [Hakuba](https://github.com/YeungKC/Hakuba)
+### [PyFlow](https://github.com/wonderworks-software/PyFlow)
 
-一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
+可视化脚本框架：
 
-![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
+![PyFlow](https://images-1252557999.file.myqcloud.com/uPic/XEBUdM.jpg) 
 
-### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
+### [logto](https://github.com/logto-io/logto)
 
-🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
+`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
 
-| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
-| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
-| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
-| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
-| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
+核心功能：
+
+- 一个基于 `OIDC` 的身份服务
+- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
+- 动态短信/邮件验证码登录/注册
+- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
+- 基于 web 的图形化管理控制台
+- 可扩展的多语言支持
+
+![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
 
 ## 🤖 软件 
 
-### [TomatoBar](https://github.com/ivoronin/TomatoBar)
+### [Equinox](https://github.com/rlxone/Equinox)
 
-你听说过番茄工作法吗？这是一种很好的技巧，可以帮助你在学习或工作期间掌握时间并保持专注。`TomatoBar` 是一款非常整洁的 `macOS` 菜单栏番茄钟：
+开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
 
-![TomatoBar](https://images-1252557999.file.myqcloud.com/uPic/TomatoBar.png) 
+![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
 
-### [Later](https://github.com/alyssaxuu/later)
+### [optimizer](https://github.com/hellzerg/optimizer)
 
-一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
+开源软件，让你的 `Windows` 电脑保持最大程度上的纯净，保证电脑性能：
 
-![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
+![optimizer](https://images-1252557999.file.myqcloud.com/uPic/optimizer.jpg) 
 
-### [PlayCover](https://github.com/PlayCover/PlayCover)
+### [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop)
 
-让你的 Apple Silicon Mac 能够运行 IOS 游戏和应用：
+`AirPods` 桌面用户体验增强程序(仅支持 Windows)：
 
-![PlayCover](https://images-1252557999.file.myqcloud.com/uPic/PlayCover.jpg)
+- 🔋 电池信息显示
+- 👂 自动人耳检测
+- 🚀 低音频延迟模式
+- 🌈 精美的动画
 
-源的话推荐：
-
-- https://decrypt.day/library
-- https://ipa.store/
-
-就是有些 APP 偶尔会崩溃。 
+![AirPodsDesktop](https://images-1252557999.file.myqcloud.com/uPic/AirPodsDesktop.gif) 
 
 ## 👀 资料 
 
-### [RedHat E-Book](https://developers.redhat.com/e-books)
+### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
 
-`RedHat` 开放的电子书，注册即可查看下载，质量是很不错的：
+Go语言实战: 编写可维护Go语言代码建议。 
 
-![kEvVpP](https://images-1252557999.file.myqcloud.com/uPic/kEvVpP.jpg) 
+### [Easy搞定Golang设计模式](https://www.yuque.com/aceld/lfhu8y/rg6nsf)
 
-### [一人企业方法论](https://github.com/easychen/one-person-businesses-methodology-v2.0)
+一份Golang设计模式教程：
 
-《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群：
+![Easy搞定Golang设计模式](https://images-1252557999.file.myqcloud.com/uPic/Easy搞定Golang设计模式.jpg) 
 
-![opb-quick-start](https://images-1252557999.file.myqcloud.com/uPic/opb-quick-start.jpg) 
+### [Book-of-MLM](https://hcplab-sysu.github.io/Book-of-MLM/)
 
-### [newsletter-list](https://github.com/chasays/newsletter-list)
+本书以深入浅出的方式全面地介绍了多模态大模型的核心技术与典型应用，并围绕新一代人工智能技术范式，详细阐述了因果推理、世界模型、超级智能体与具身智能等前沿技术。希望本书能够为学术界和工业界提供一个清晰的视角，以帮助人工智能科研工作者更全面地了解多模态大模型的技术和新一代人工智能的发展方向。
 
-有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
-
-- 互联网和科技
-- 成长和思考
-- 工具和效率 
+![Book-of-MLM](https://images-1252557999.file.myqcloud.com/uPic/Book-of-MLM.jpg) 
 
 ## 🕸 网站 
 
-### [央视纪实](https://jishi.cctv.com/)
+### [similarsites](https://www.similarsites.com/)
 
-央视官方纪录片大全，全部免费观看：
+输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
 
-![657d173347944](https://img.fre123.com/i/2023/12/16/657d173347944.png) 
+![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
 
-### [一证通查](https://getsimnum.caict.ac.cn/#/)
+### [favicon.io](https://favicon.io/)
 
-自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
+免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
 
-![phone_query](https://images-1252557999.file.myqcloud.com/uPic/phone_query.png) 
+![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
 
-### [识典古籍](https://www.shidianguji.com/)
+### [devdocs](https://devdocs.io/)
 
-识典古籍 – 古籍在线阅读平台，北大和抖音合作开发的古籍阅读网站：
+提供在线快速查找API接口文档的网站：
 
-![shidianguji](https://images-1252557999.file.myqcloud.com/uPic/shidianguji.jpg) 
+![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
 
 ## ✍️ 说明
 
