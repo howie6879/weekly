@@ -5,101 +5,98 @@
 
 ## 🎯 项目 
 
-### [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
+### [zinc](https://github.com/prabhatsharma/zinc)
 
-作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。
+`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
 
-项目列表如下：
+- 全文索引能力
+- 快速运行，多平台支持
+- 基于Vue的Web UI
+- 兼容ES API
+- 开箱即用的验证功能
+- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
 
-![bigdata_analyse](https://images-1252557999.file.myqcloud.com/uPic/klC8AA.png) 
+![zinc](https://images-1252557999.file.myqcloud.com/uPic/P9OAA1.jpg) 
 
-### [rss-reader](https://github.com/srcrs/rss-reader)
+### [koishi](https://koishi.chat/zh-CN/)
 
-一个极简的 `RSS` 在线浏览工具：
+周刊群友推荐，创建跨平台、可扩展、高性能的机器人，插件丰富，`Koishi` 提供了高度便利的控制台，让你无需基础让你在几分钟之内搭建自己的聊天机器人。
 
-![rss-reader](https://images-1252557999.file.myqcloud.com/uPic/rss-reader.png) 
+- 提供在线插件市场，即使没有任何编程基础，也能轻松在控制台中下载安装插件
+- 支持 QQ，Telegram，Discord，飞书等主流聊天平台，支持多账户和跨平台数据互通
+- 随时随地通过控制面板监控运行状态，控制机器人的行为，甚至上号聊天
 
-### [tabby](https://github.com/TabbyML/tabby)
+![koishi](https://images-1252557999.file.myqcloud.com/uPic/koishi.jpg) 
 
-自托管的 `AI` 编码助手，是 `GitHub Copilot` 的开源/本地替代方案：
+### [ChatChat](https://github.com/okisdev/ChatChat)
 
-![tabby](https://images-1252557999.file.myqcloud.com/uPic/tabby.gif)
+Chat Chat，解锁你的下一级 AI 对话体验。你可以使用 OpenAI、微软 Azure、Claude、Cohere、Hugging Face 等多个 API，让你的 AI 对话体验更加丰富:
 
-免费方案还可以尝试的有：
-
-- [Cursor](https://weekly.howie6879.com/2023/03-20~03-25.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC084%E6%9C%9F%EF%BC%89.html?h=cursor#cursor)：一个专为 AI 协作编程而设计的编辑器，可以通过聊天的形式生成代码
-- [Amazon CodeWhisperer](https://aws.amazon.com/cn/codewhisperer/)：使用您的 AI 编码配套应用程序更快、更安全地构建应用程序
-
-![cursor_code](https://images-1252557999.file.myqcloud.com/uPic/cursor_code.png)
-
-![codewhisperer](https://images-1252557999.file.myqcloud.com/uPic/codewhisperer.jpg) 
+![chatchat](https://images-1252557999.file.myqcloud.com/uPic/chatchat.jpg) 
 
 ## 🤖 软件 
 
-### [HandBrake](https://github.com/HandBrake/HandBrake)
+### [Loop](https://github.com/MrKai77/Loop)
 
-`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
+让窗口管理 `MacOS` 变得优雅：
 
-![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
+![Loop](https://images-1252557999.file.myqcloud.com/uPic/Loop.gif)
 
-### [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor)
+安装好如果有权限问题，执行如下命令：
 
-`Caesium` 是一款图像压缩软件，可帮助您存储、发送和共享数字图片，支持 `JPG、PNG&WebP` 格式：
+```shell
+sudo xattr -cr  /Applications/Loop.app
+``` 
 
-![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.jpg) 
+### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
+JetBrains 的下一代 IDE：
 
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+![fleet](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
 
-![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
+### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
+
+基于 Electron + Vue + ffmpeg 的 GUI：
+
+![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
 
 ## 👀 资料 
 
-### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
+### [Web Development History](https://webdevelopmenthistory.com/index/)
 
-《Linear Algebra for Everyone》公开课的图解笔记：
+`Web` 开发发展史文章系列：
 
-![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
+![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
 
-### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
+### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
 
-《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
+自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
 
-![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
+![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
 
-### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
+### [v8-internals](https://github.com/plctlab/v8-internals)
 
-应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
-
-这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
-
-- 入侵排查
-- 日志分析
-- 权限维持
-- Windows实战
-- Linux实战
-- Web实战 
+面向编译器开发人员的V8内部实现文档。 
 
 ## 🕸 网站 
 
-### [chatgpt-sites](https://github.com/lzwme/chatgpt-sites)
+### [buzzing.cc](https://www.buzzing.cc/)
 
-搜集国内可用的 ChatGPT 在线体验免费网站列表，定时任务每日更新，点击[这里](https://lzw.me/x/chatgpt-sites/)访问：
+用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读：
 
-![chatgpt-sites](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-sites.jpg) 
+![buzzing](https://images-1252557999.file.myqcloud.com/uPic/buzzing.jpg) 
 
-### [sqlime](http://sqlime.org/)
+### [toonme](https://toonme.com)
 
-SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
+该网站将原图绘制成可爱的卡通图片：
 
-![sqlime](https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg) 
+![toonme](https://images-1252557999.file.myqcloud.com/uPic/toonme.jpg) 
 
-### [regex.ai](https://regex.ai/)
+### [freelancethings](https://www.freelancethings.co/)
 
-`regex.ai` 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：
+为自由职业者精心挑选的资源，涉及到社区、工具、文章、书籍、视频等，这些都帮助你在自由职业之旅中获得更多帮助，订阅后每周发送到您的收件箱:
 
-![regex_ai](https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg) 
+![freelancethings](https://images-1252557999.file.myqcloud.com/uPic/freelancethings.jpg) 
 
 ## ✍️ 说明
 
