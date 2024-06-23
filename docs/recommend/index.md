@@ -5,98 +5,94 @@
 
 ## 🎯 项目 
 
-### [zinc](https://github.com/prabhatsharma/zinc)
+### [weiboSpider](https://github.com/dataabc/weiboSpider)
 
-`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
+新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
 
-- 全文索引能力
-- 快速运行，多平台支持
-- 基于Vue的Web UI
-- 兼容ES API
-- 开箱即用的验证功能
-- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
+### [vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)
 
-![zinc](https://images-1252557999.file.myqcloud.com/uPic/P9OAA1.jpg) 
+基于 fabric.js 和 Vue 的图片海报编辑器，可自定义字体、素材、设计模板：
 
-### [koishi](https://koishi.chat/zh-CN/)
+![vue-fabric-editor](https://images-1252557999.file.myqcloud.com/uPic/vue-fabric-editor.png) 
 
-周刊群友推荐，创建跨平台、可扩展、高性能的机器人，插件丰富，`Koishi` 提供了高度便利的控制台，让你无需基础让你在几分钟之内搭建自己的聊天机器人。
+### [docker-android](https://github.com/budtmo/docker-android)
 
-- 提供在线插件市场，即使没有任何编程基础，也能轻松在控制台中下载安装插件
-- 支持 QQ，Telegram，Discord，飞书等主流聊天平台，支持多账户和跨平台数据互通
-- 随时随地通过控制面板监控运行状态，控制机器人的行为，甚至上号聊天
+`Android` 的 `Docker` 解决方案，支持 `noVNC` 和视频录制，项目提供了多个版本的 Android 镜像，包括最新版本和特定版本号的镜像，如 Android 9.0、10.0到14.0 等，以及对应的 Genymotion 镜像：
 
-![koishi](https://images-1252557999.file.myqcloud.com/uPic/koishi.jpg) 
+![docker-android](https://images-1252557999.file.myqcloud.com/uPic/docker-android.png)
 
-### [ChatChat](https://github.com/okisdev/ChatChat)
+其他类似好玩的项目：
 
-Chat Chat，解锁你的下一级 AI 对话体验。你可以使用 OpenAI、微软 Azure、Claude、Cohere、Hugging Face 等多个 API，让你的 AI 对话体验更加丰富:
-
-![chatchat](https://images-1252557999.file.myqcloud.com/uPic/chatchat.jpg) 
+- [docker-wechat](https://github.com/huan/docker-wechat)
+- [dockur/windows](https://github.com/dockur/windows)
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) 
 
 ## 🤖 软件 
 
-### [Loop](https://github.com/MrKai77/Loop)
+### [polyglot](https://github.com/liou666/polyglot)
 
-让窗口管理 `MacOS` 变得优雅：
+Polyglot是一款多平台的桌面端应用程序。基于ChatGPT和Azure人工智能语言模型作为底层服务，使用Vue3+TS技术栈构建，旨在提供一个易于使用的语言练习平台，方便进行多语种的口语练习：
 
-![Loop](https://images-1252557999.file.myqcloud.com/uPic/Loop.gif)
+![polyglot](https://images-1252557999.file.myqcloud.com/uPic/polyglot.png) 
 
-安装好如果有权限问题，执行如下命令：
+### [NanaZip](https://github.com/M2Team/NanaZip)
 
-```shell
-sudo xattr -cr  /Applications/Loop.app
-``` 
+`NanaZip` 是一个面向现代 `Windows` 体验的开源文件压缩工具，基于知名的开源文件压缩工具 `7-Zip` 的源代码：
 
-### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
+![NanaZip](https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg) 
 
-JetBrains 的下一代 IDE：
+### [ToastFish](https://github.com/Uahh/ToastFish)
 
-![fleet](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
+这是一个利用 `Windows` 通知栏背单词的软件，可以让你在上班、上课等环境下安全地背单词：
 
-### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
-
-基于 Electron + Vue + ffmpeg 的 GUI：
-
-![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
+![ToastFish](https://images-1252557999.file.myqcloud.com/uPic/ToastFish.gif) 
 
 ## 👀 资料 
 
-### [Web Development History](https://webdevelopmenthistory.com/index/)
+### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
-`Web` 开发发展史文章系列：
+这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
 
-![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
+![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
 
-### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
+### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 
-自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
+每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
 
-![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
+![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
 
-### [v8-internals](https://github.com/plctlab/v8-internals)
+### [css-animation-101](https://github.com/cssanimation/css-animation-101)
 
-面向编译器开发人员的V8内部实现文档。 
+学习如何为您的网页项目添加动画效果，也有中文版👉[css-animation-101-cn](https://h-wakanda.github.io/css-animation-101-cn/)：
+
+![css-animation-101-cn](https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg) 
 
 ## 🕸 网站 
 
-### [buzzing.cc](https://www.buzzing.cc/)
+### [nona](https://www.nona.de/)
 
-用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读：
+德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
 
-![buzzing](https://images-1252557999.file.myqcloud.com/uPic/buzzing.jpg) 
+![nona](https://images-1252557999.file.myqcloud.com/uPic/1nN2lu.png) 
 
-### [toonme](https://toonme.com)
+### [vim.is](https://vim.is/#exercise)
 
-该网站将原图绘制成可爱的卡通图片：
+`Vim`学习网站：
 
-![toonme](https://images-1252557999.file.myqcloud.com/uPic/toonme.jpg) 
+![vim.is](https://images-1252557999.file.myqcloud.com/uPic/iA6wxm.png) 
 
-### [freelancethings](https://www.freelancethings.co/)
+### [dute](https://www.dute.org/)
 
-为自由职业者精心挑选的资源，涉及到社区、工具、文章、书籍、视频等，这些都帮助你在自由职业之旅中获得更多帮助，订阅后每周发送到您的收件箱:
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-![freelancethings](https://images-1252557999.file.myqcloud.com/uPic/freelancethings.jpg) 
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
+
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
 ## ✍️ 说明
 
