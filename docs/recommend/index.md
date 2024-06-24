@@ -5,94 +5,103 @@
 
 ## 🎯 项目 
 
-### [weiboSpider](https://github.com/dataabc/weiboSpider)
+### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
 
-新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
+最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
 
-### [vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)
+- 提取文本
+- 提取图片
+- 提取表格
+- 提取链接
+- 对PDF进行相关编辑操作 
 
-基于 fabric.js 和 Vue 的图片海报编辑器，可自定义字体、素材、设计模板：
+### [ns-emu-tools](https://github.com/triwinds/ns-emu-tools)
 
-![vue-fabric-editor](https://images-1252557999.file.myqcloud.com/uPic/vue-fabric-editor.png) 
+一个用于安装/更新 NS 模拟器的工具：
+- 支持安装 Yuzu EA/正式 版模拟器
+- 支持 Yuzu 版本检测及更新
+- 支持安装 Ryujinx Ava/正式/LDN 版模拟器
+- 支持 Ryujinx 版本检测及更新
+- 自动检测并安装 msvc 运行库
+- 支持安装及更新 NS 固件至模拟器
+- 支持固件版本检测
+- 管理模拟器密钥
+- Yuzu 金手指管理
+- aria2 多线程下载
 
-### [docker-android](https://github.com/budtmo/docker-android)
+关于模拟器项目：
+- [Yuzu](https://github.com/yuzu-emu/yuzu)  \- Yuzu 模拟器
+- [Ryujinx](https://github.com/Ryujinx/Ryujinx)  \- Ryujinx 模拟器
+- [hactool](https://github.com/SciresM/hactool)  \- NS 固件解析
+- [aria2](https://github.com/aria2/aria2)  \- aria2 下载器
 
-`Android` 的 `Docker` 解决方案，支持 `noVNC` 和视频录制，项目提供了多个版本的 Android 镜像，包括最新版本和特定版本号的镜像，如 Android 9.0、10.0到14.0 等，以及对应的 Genymotion 镜像：
+![Ryujinx](https://images-1252557999.file.myqcloud.com/uPic/Ryujinx.png) 
 
-![docker-android](https://images-1252557999.file.myqcloud.com/uPic/docker-android.png)
+### [upptime](https://github.com/upptime/upptime)
 
-其他类似好玩的项目：
+由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
 
-- [docker-wechat](https://github.com/huan/docker-wechat)
-- [dockur/windows](https://github.com/dockur/windows)
-- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) 
+![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
 
 ## 🤖 软件 
 
-### [polyglot](https://github.com/liou666/polyglot)
+### [bruno](https://github.com/usebruno/bruno)
 
-Polyglot是一款多平台的桌面端应用程序。基于ChatGPT和Azure人工智能语言模型作为底层服务，使用Vue3+TS技术栈构建，旨在提供一个易于使用的语言练习平台，方便进行多语种的口语练习：
+用于探索和测试 `API` 的开源 `IDE`（轻量级替代 `Postman/Insomnia`）：
 
-![polyglot](https://images-1252557999.file.myqcloud.com/uPic/polyglot.png) 
+![bruno](https://images-1252557999.file.myqcloud.com/uPic/bruno.jpg) 
 
-### [NanaZip](https://github.com/M2Team/NanaZip)
+### [Restfox](https://github.com/flawiddsouza/Restfox)
 
-`NanaZip` 是一个面向现代 `Windows` 体验的开源文件压缩工具，基于知名的开源文件压缩工具 `7-Zip` 的源代码：
+可以理解成 `postman` 开源替代版本，支持网页跨平台，非常简洁，有插件体系，可以从 `postman` 导入数据：
 
-![NanaZip](https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg) 
+![restfox](https://images-1252557999.file.myqcloud.com/uPic/restfox.jpg) 
 
-### [ToastFish](https://github.com/Uahh/ToastFish)
+### [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
 
-这是一个利用 `Windows` 通知栏背单词的软件，可以让你在上班、上课等环境下安全地背单词：
+`Sigma File Manager` 是一个免费、开源、快速发展的现代文件管理器（资源管理器/查找器）应用程序，适用于`Windows&Linux`，支持智能搜索、自定义主页、文件共享、文件下载、智能拖放、文件保护等功能：
 
-![ToastFish](https://images-1252557999.file.myqcloud.com/uPic/ToastFish.gif) 
+![sigma-file-manager](https://images-1252557999.file.myqcloud.com/uPic/sigma-file-manager.jpg) 
 
 ## 👀 资料 
 
-### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+### [openai-cookbook](https://github.com/openai/openai-cookbook)
 
-这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
+`OpenAI API` 使用示例指南：
 
-![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
+![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
 
-### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
 
-![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
+![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
 
-### [css-animation-101](https://github.com/cssanimation/css-animation-101)
+### [howtheytest](https://github.com/abhivaikar/howtheytest)
 
-学习如何为您的网页项目添加动画效果，也有中文版👉[css-animation-101-cn](https://h-wakanda.github.io/css-animation-101-cn/)：
+关于软件公司如何测试其软件的公共资源集合：
 
-![css-animation-101-cn](https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg) 
+![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
 
 ## 🕸 网站 
 
-### [nona](https://www.nona.de/)
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
 
-德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
+PDF Squeezer 是一款 PDF 压缩工具：
 
-![nona](https://images-1252557999.file.myqcloud.com/uPic/1nN2lu.png) 
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
-### [vim.is](https://vim.is/#exercise)
+### [smalldev.tools](https://smalldev.tools/)
 
-`Vim`学习网站：
+开发者常用工具集：
 
-![vim.is](https://images-1252557999.file.myqcloud.com/uPic/iA6wxm.png) 
+![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
 
-### [dute](https://www.dute.org/)
+### [eja.tv](https://eja.tv/?)
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
+提供3808个在线电视频道，包含143个国家以及82种不同语言。
 
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
-
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
 
 ## ✍️ 说明
 
