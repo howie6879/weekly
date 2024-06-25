@@ -5,103 +5,97 @@
 
 ## 🎯 项目 
 
-### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
+### [form-create](https://github.com/xaboy/form-create)
 
-最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
+强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
 
-- 提取文本
-- 提取图片
-- 提取表格
-- 提取链接
-- 对PDF进行相关编辑操作 
+![form-create](https://images-1252557999.file.myqcloud.com/uPic/demo-live3.gif) 
 
-### [ns-emu-tools](https://github.com/triwinds/ns-emu-tools)
+### [tduck-front](https://github.com/TDuckCloud/tduck-front)
 
-一个用于安装/更新 NS 模拟器的工具：
-- 支持安装 Yuzu EA/正式 版模拟器
-- 支持 Yuzu 版本检测及更新
-- 支持安装 Ryujinx Ava/正式/LDN 版模拟器
-- 支持 Ryujinx 版本检测及更新
-- 自动检测并安装 msvc 运行库
-- 支持安装及更新 NS 固件至模拟器
-- 支持固件版本检测
-- 管理模拟器密钥
-- Yuzu 金手指管理
-- aria2 多线程下载
+`Tduck` 填鸭表单是一款自定义表单工具，支持问卷调查、数据收集等功能。采用无代码理念支持开发自定义组件，简单拖拽即可生成表单，完成数据收集。采用 `SpringBoot+Vue+ElementUI` 技术栈，功能强大界面清新，支持一键部署：
 
-关于模拟器项目：
-- [Yuzu](https://github.com/yuzu-emu/yuzu)  \- Yuzu 模拟器
-- [Ryujinx](https://github.com/Ryujinx/Ryujinx)  \- Ryujinx 模拟器
-- [hactool](https://github.com/SciresM/hactool)  \- NS 固件解析
-- [aria2](https://github.com/aria2/aria2)  \- aria2 下载器
+![tduck-front](https://images-1252557999.file.myqcloud.com/uPic/tduck-front.png)
 
-![Ryujinx](https://images-1252557999.file.myqcloud.com/uPic/Ryujinx.png) 
+滴滴也开源了一套轻量、安全的问卷系统基座，提供面向个人和企业的一站式产品级解决方案，快速满足各类线上调研场景👉[xiaoju-survey](https://github.com/didi/xiaoju-survey)。 
 
-### [upptime](https://github.com/upptime/upptime)
+### [Gallery-Portfolio](https://github.com/linyuxuanlin/Gallery-Portfolio)
 
-由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
+一个简单的摄影作品展示站，你只需要将图片存放在免费的 `Cloudflare R2` 上（或其他支持 AWS S3 的对象存储），即可在这里展现你的精选图片。在这里你可以通过 瀑布流 的形式浏览图片，也可以 点开大图 ，查看光圈 / 快门 / ISO 等 EXIF 信息。网站基于 Node.js，使用 Material Design 风格的 响应式设计，支持 日夜间模式 切换，在不同的设备上都有不错的视觉效果：
 
-![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
+![Gallery-Portfolio](https://images-1252557999.file.myqcloud.com/uPic/Gallery-Portfolio.png) 
 
 ## 🤖 软件 
 
-### [bruno](https://github.com/usebruno/bruno)
+### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
 
-用于探索和测试 `API` 的开源 `IDE`（轻量级替代 `Postman/Insomnia`）：
+`Android` 平台下 `MD` 风格的文件管理器:
 
-![bruno](https://images-1252557999.file.myqcloud.com/uPic/bruno.jpg) 
+![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
 
-### [Restfox](https://github.com/flawiddsouza/Restfox)
+### [Hacki](https://github.com/Livinglist/Hacki)
 
-可以理解成 `postman` 开源替代版本，支持网页跨平台，非常简洁，有插件体系，可以从 `postman` 导入数据：
+基于 `Flutter` 的  `Hacker News` 客户端:
 
-![restfox](https://images-1252557999.file.myqcloud.com/uPic/restfox.jpg) 
+![Hacki](https://images-1252557999.file.myqcloud.com/uPic/Hacki.jpg) 
 
-### [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
+### [MiaoYan](https://github.com/tw93/MiaoYan)
 
-`Sigma File Manager` 是一个免费、开源、快速发展的现代文件管理器（资源管理器/查找器）应用程序，适用于`Windows&Linux`，支持智能搜索、自定义主页、文件共享、文件下载、智能拖放、文件保护等功能：
+轻灵的 Markdown 笔记本伴你写出妙言：
 
-![sigma-file-manager](https://images-1252557999.file.myqcloud.com/uPic/sigma-file-manager.jpg) 
+- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
+- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
+- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
+- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
+
+![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
 
 ## 👀 资料 
 
-### [openai-cookbook](https://github.com/openai/openai-cookbook)
+### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
 
-`OpenAI API` 使用示例指南：
+![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
-![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
+### [TLCL](https://billie66.github.io/TLCL/book/)
 
-### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
+`The Linux Command Line` 中文翻译：
 
-本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
+![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
 
-![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
+### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
 
-### [howtheytest](https://github.com/abhivaikar/howtheytest)
+从工程角度方方面面阐述了DevOps实施的过程:
 
-关于软件公司如何测试其软件的公共资源集合：
-
-![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
+![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
 
 ## 🕸 网站 
 
-### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
+### [openvim](https://www.openvim.com/)
 
-PDF Squeezer 是一款 PDF 压缩工具：
+交互式 `vim` 学习网站：
 
-![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
+![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
 
-### [smalldev.tools](https://smalldev.tools/)
+### [aiwallpaper](https://aiwallpaper.shop/)
 
-开发者常用工具集：
+`AI` 生成高清壁纸，项目开源在：[all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper)。
 
-![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
+开源代码包括：
 
-### [eja.tv](https://eja.tv/?)
+- nextjs 全栈开发 API 和 Web 
+- dalle-3 绘图对接 
+- aws s3 图片上传 
+- postgres 数据读写 
+- 谷歌登录 
+- stripe
 
-提供3808个在线电视频道，包含143个国家以及82种不同语言。
+非常适合参考学习，用来做一些小而美的 `AI` 应用。 
 
-![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
+### [flatuicolors](https://flatuicolors.com/)
+
+`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
+
+![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
 
 ## ✍️ 说明
 
