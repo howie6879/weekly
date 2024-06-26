@@ -5,97 +5,98 @@
 
 ## 🎯 项目 
 
-### [form-create](https://github.com/xaboy/form-create)
+### [crawlee](https://crawlee.dev/)
 
-强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
+基于 `Node` 编写的开源网络爬虫库：
 
-![form-create](https://images-1252557999.file.myqcloud.com/uPic/demo-live3.gif) 
+![crawlee](https://images-1252557999.file.myqcloud.com/uPic/crawlee.jpg) 
 
-### [tduck-front](https://github.com/TDuckCloud/tduck-front)
+### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
 
-`Tduck` 填鸭表单是一款自定义表单工具，支持问卷调查、数据收集等功能。采用无代码理念支持开发自定义组件，简单拖拽即可生成表单，完成数据收集。采用 `SpringBoot+Vue+ElementUI` 技术栈，功能强大界面清新，支持一键部署：
+一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
 
-![tduck-front](https://images-1252557999.file.myqcloud.com/uPic/tduck-front.png)
+![ikea-low-price](https://images-1252557999.file.myqcloud.com/uPic/ikea-low-price.png) 
 
-滴滴也开源了一套轻量、安全的问卷系统基座，提供面向个人和企业的一站式产品级解决方案，快速满足各类线上调研场景👉[xiaoju-survey](https://github.com/didi/xiaoju-survey)。 
+### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
 
-### [Gallery-Portfolio](https://github.com/linyuxuanlin/Gallery-Portfolio)
+`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
 
-一个简单的摄影作品展示站，你只需要将图片存放在免费的 `Cloudflare R2` 上（或其他支持 AWS S3 的对象存储），即可在这里展现你的精选图片。在这里你可以通过 瀑布流 的形式浏览图片，也可以 点开大图 ，查看光圈 / 快门 / ISO 等 EXIF 信息。网站基于 Node.js，使用 Material Design 风格的 响应式设计，支持 日夜间模式 切换，在不同的设备上都有不错的视觉效果：
-
-![Gallery-Portfolio](https://images-1252557999.file.myqcloud.com/uPic/Gallery-Portfolio.png) 
+![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
 
 ## 🤖 软件 
 
-### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-`Android` 平台下 `MD` 风格的文件管理器:
+一个开源的YouTube应用程序，旨在保护隐私：
 
-![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
+![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
 
-### [Hacki](https://github.com/Livinglist/Hacki)
+### [Alock](https://github.com/luoxuhai/Alock)
 
-基于 `Flutter` 的  `Hacker News` 客户端:
+Alock 是一款免费用于隐藏指定 App 的应用。使用 Alock 可以彻底地从 iPhone/iPad 上隐藏指定的 App，隐藏后的 App 在主屏幕、App资料库、搜索、系统设置中均不可见。最大程度保护您的隐私：
 
-![Hacki](https://images-1252557999.file.myqcloud.com/uPic/Hacki.jpg) 
+![Alock](https://images-1252557999.file.myqcloud.com/uPic/Alock.jpg) 
 
-### [MiaoYan](https://github.com/tw93/MiaoYan)
+### [Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper)
 
-轻灵的 Markdown 笔记本伴你写出妙言：
+李跳跳下线了，还有开源的出来，开屏跳过-安卓系统的开屏广告自动跳过助手。
 
-- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
-- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
-- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
-- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
+**开屏跳过**可以帮助用户自动跳过一些应用的开屏广告，基于Android的无障碍服务实现。
 
-![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
+使用广告跳过程序，最大的风险是个人隐私被泄露。`因为这种软件都需要开启Accessibility` 无障碍服务，可以获取屏幕上的**所有内容**，从而可以检测广告，帮助用户自动跳过。
+
+本程序是开源程序，不需要网络权限，不需要存储权限，不会收集或者上传任何信息！绝无隐私问题：
+
+![Android-Touch-Helper](https://images-1252557999.file.myqcloud.com/uPic/Android-Touch-Helper.jpg) 
 
 ## 👀 资料 
 
-### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
+### [css-animation-101](https://github.com/cssanimation/css-animation-101)
 
-![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
+学习如何为您的网页项目添加动画效果，也有中文版👉[css-animation-101-cn](https://h-wakanda.github.io/css-animation-101-cn/)：
 
-### [TLCL](https://billie66.github.io/TLCL/book/)
+![css-animation-101-cn](https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg) 
 
-`The Linux Command Line` 中文翻译：
+### [rust-course](https://github.com/sunface/rust-course)
 
-![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
+> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
 
-### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
+![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
 
-从工程角度方方面面阐述了DevOps实施的过程:
+阅读地址见[course.rs](https://course.rs)。 
 
-![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
+### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
+
+![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
 
 ## 🕸 网站 
 
-### [openvim](https://www.openvim.com/)
+### [wanqu.co](https://www.wanqu.co/)
 
-交互式 `vim` 学习网站：
+湾区日报. 关注创业，互联网，技术。就像是你远方的老朋友每天推荐几篇优质英文文章，一起每天进步一点点:
 
-![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
+![wanqu](https://images-1252557999.file.myqcloud.com/uPic/wanqu.jpg) 
 
-### [aiwallpaper](https://aiwallpaper.shop/)
+### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
 
-`AI` 生成高清壁纸，项目开源在：[all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper)。
+目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
 
-开源代码包括：
+![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
 
-- nextjs 全栈开发 API 和 Web 
-- dalle-3 绘图对接 
-- aws s3 图片上传 
-- postgres 数据读写 
-- 谷歌登录 
-- stripe
+![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
 
-非常适合参考学习，用来做一些小而美的 `AI` 应用。 
+### [Qwerty Learner](https://qwerty.kaiyi.cool/gallery)
 
-### [flatuicolors](https://flatuicolors.com/)
+这也是一个开源项目，作者将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。
 
-`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
+网站提供了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 
 
-![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
+目前有两种方式使用这个项目：
+
+- 网站：推荐
+- VS Code插件
+
+![Qwerty](https://images-1252557999.file.myqcloud.com/uPic/tHD4ez.png) 
 
 ## ✍️ 说明
 
