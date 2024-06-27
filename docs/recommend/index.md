@@ -5,98 +5,125 @@
 
 ## 🎯 项目 
 
-### [crawlee](https://crawlee.dev/)
+### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
 
-基于 `Node` 编写的开源网络爬虫库：
+一键免费部署你的私人 `ChatGPT` 网页应用：
 
-![crawlee](https://images-1252557999.file.myqcloud.com/uPic/crawlee.jpg) 
+- 在 1 分钟内使用 Vercel  **免费一键部署**
+- 精心设计的 UI，响应式设计，支持深色模式
+- 极快的首屏加载速度（~85kb）
+- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
+- 一键导出聊天记录，完整的 Markdown 支持
+- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
 
-### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
+![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
 
-一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
+### [picx](https://github.com/XPoet/picx "picx")
 
-![ikea-low-price](https://images-1252557999.file.myqcloud.com/uPic/ikea-low-price.png) 
+`PicX` 是一款基于 `GitHub API` 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务：
 
-### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
+![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg)
 
-`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
+类似项目：
 
-![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
+- [telegraph](https://github.com/0-RTT/telegraph "telegraph")
+- [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image "Telegraph-Image"):免费图片托管解决方案，`Flickr/imgur` 替代品
+- [rao-pics](https://github.com/meetqy/rao-pics "rao-pics"):利用 `Eagle APP` 快速搭建图片站、
+
+但是老胡建议不要滥用，这种也不稳定，自己偶尔测试需要可以使用一下，推荐出来也是让朋友们多个选择。我推荐自建图床：
+
+- [lsky-pro](https://github.com/lsky-org/lsky-pro "lsky-pro")：兰空图床
+- [EasyImages2.0](https://github.com/icret/EasyImages2.0 "EasyImages2.0")：简单图床 - 一款功能强大无数据库的图床 2.0 版
+- [PicList](https://github.com/Kuingsmile/PicList "PicList")：图片上传 云存储管理
+- [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed "quickly-picture-bed")：轻快图床：使用 nestjs+vue3.x+ts+vite 开发的在线图床系统，内置功能包括图片上传、图片管理、存储桶管理、相册管理、插件市场、知识库管理、数据统计等功能 
+
+### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
+
+一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
+
+![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
+
+你可以直接[在线体验](https://letsmarkdown.com/)。 
 
 ## 🤖 软件 
 
-### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
+### [UU 浏览器](https://www.uukei.com/help/?p=h)
 
-一个开源的YouTube应用程序，旨在保护隐私：
+> UU浏览器在满足用户的需求上，延续了谷歌的简洁，摒弃了如 Edge 过多功能的臃肿。
 
-![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
+这是老胡的朋友，独立开发运营两三年的一款浏览器，主打纯净美观&个性化，核心功能点如下：
 
-### [Alock](https://github.com/luoxuhai/Alock)
+- 优化去冗余、内存占用少
+- 简洁高效率、年轻个性化
+- 最大程度隐私安全
+- 纯净不打扰
 
-Alock 是一款免费用于隐藏指定 App 的应用。使用 Alock 可以彻底地从 iPhone/iPad 上隐藏指定的 App，隐藏后的 App 在主屏幕、App资料库、搜索、系统设置中均不可见。最大程度保护您的隐私：
+在以上基本特性持续开发小功能提升用户效率，大家可以提意见哈：
 
-![Alock](https://images-1252557999.file.myqcloud.com/uPic/Alock.jpg) 
+- 💫 自带整页翻译
+- 📚 灵活新标签页
+- 📋 多功能侧边栏
+- 🧩 扩展安装方便
+- 📟 夜间护眼模式
+- 📈 多线程下载
+- 👉 支持鼠标手势
+- ✔️ 网页一键保存为图片或PDF
 
-### [Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper)
+![uu](https://images-1252557999.file.myqcloud.com/uPic/uu.jpg)
 
-李跳跳下线了，还有开源的出来，开屏跳过-安卓系统的开屏广告自动跳过助手。
+有兴趣欢迎了解体验👉[UU 浏览器](https://www.uukei.com/help/?p=h) 
 
-**开屏跳过**可以帮助用户自动跳过一些应用的开屏广告，基于Android的无障碍服务实现。
+### [uncle-novel](https://github.com/unclezs/uncle-novel)
 
-使用广告跳过程序，最大的风险是个人隐私被泄露。`因为这种软件都需要开启Accessibility` 无障碍服务，可以获取屏幕上的**所有内容**，从而可以检测广告，帮助用户自动跳过。
+一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
 
-本程序是开源程序，不需要网络权限，不需要存储权限，不会收集或者上传任何信息！绝无隐私问题：
+![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
 
-![Android-Touch-Helper](https://images-1252557999.file.myqcloud.com/uPic/Android-Touch-Helper.jpg) 
+### [chatbox](https://github.com/Bin-Huang/chatbox)
+
+跨平台大模型客户端：
+
+![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.jpg) 
 
 ## 👀 资料 
 
-### [css-animation-101](https://github.com/cssanimation/css-animation-101)
+### [howtheytest](https://github.com/abhivaikar/howtheytest)
 
-学习如何为您的网页项目添加动画效果，也有中文版👉[css-animation-101-cn](https://h-wakanda.github.io/css-animation-101-cn/)：
+关于软件公司如何测试其软件的公共资源集合：
 
-![css-animation-101-cn](https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg) 
+![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
 
-### [rust-course](https://github.com/sunface/rust-course)
+### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
 
-> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
+为初学者整理的免费 `CSS` 课程：
 
-![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
+![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
 
-阅读地址见[course.rs](https://course.rs)。 
+### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
 
-### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
+从工程角度方方面面阐述了DevOps实施的过程:
 
-![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
+![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
 
 ## 🕸 网站 
 
-### [wanqu.co](https://www.wanqu.co/)
+### [pixian.ai](https://pixian.ai/)
 
-湾区日报. 关注创业，互联网，技术。就像是你远方的老朋友每天推荐几篇优质英文文章，一起每天进步一点点:
+免登录图片背景消除网页，2023-07-21 当前属于测试期间，是免费的：
 
-![wanqu](https://images-1252557999.file.myqcloud.com/uPic/wanqu.jpg) 
+![pixian](https://images-1252557999.file.myqcloud.com/uPic/pixian.jpg) 
 
-### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
+### [compressjpeg](https://compressjpeg.com/zh/)
 
-目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
+一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
 
-![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
+![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg) 
 
-![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
+### [batnoter](https://batnoter.com/)
 
-### [Qwerty Learner](https://qwerty.kaiyi.cool/gallery)
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-这也是一个开源项目，作者将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。
-
-网站提供了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 
-
-目前有两种方式使用这个项目：
-
-- 网站：推荐
-- VS Code插件
-
-![Qwerty](https://images-1252557999.file.myqcloud.com/uPic/tHD4ez.png) 
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
 ## ✍️ 说明
 
