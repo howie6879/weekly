@@ -5,90 +5,100 @@
 
 ## 🎯 项目 
 
-### [yacd](https://github.com/haishanh/yacd)
+### [crawlee](https://crawlee.dev/)
 
-一个 `Clash` 仪表盘项目：
+基于 `Node` 编写的开源网络爬虫库：
 
-![yacd](https://images-1252557999.file.myqcloud.com/uPic/yacd.png) 
+![crawlee](https://images-1252557999.file.myqcloud.com/uPic/crawlee.jpg) 
 
-### [umami](https://github.com/umami-software/umami)
+### [ssddanbrown/rss](https://github.com/ssddanbrown/rss)
 
-`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
+一个简单的 `Twitter-feed` 风格的 `RSS` 聚合器，使用 `PHP、Laravel、Inertia.js、Tailwind、Vue.js` 编写:
 
-![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
+- 支持RSS和ATOM格式
+- 定期自动获取RSS订阅源
+- 自定义订阅名称和颜色
+- 基于内容的标签进行分类
+- 3种不同的帖子布局模式（卡片、列表、紧凑）
+- 获取页面的开放图像
+- 通过单个纯文本文件管理的订阅源
+- 基于系统的暗/亮主题
+- 帖子标题/描述搜索
+- 开箱即用的Docker镜像
+- 手机屏幕兼容
+- 清理旧的帖子数据
 
-### [OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
+![ssddanbrown_rss](https://images-1252557999.file.myqcloud.com/uPic/ssddanbrown_rss.png) 
 
-这个项目是 `OOTDiffusion` 的官方实现，快速基于你上传的模特和图片生成产品效果图，AI 模特不是梦，点击 [ootd](https://ootd.ibot.cn/) 体验：
+### [memories](https://github.com/pulsejet/memories)
 
-![ootd](https://images-1252557999.file.myqcloud.com/uPic/ootd.jpg) 
+构建于 `Nextcloud` 之上的照片管理器，基本包含了照片管理器的常见功能，值得安装体验（前提是你正在使用 Nextcloud）：
+
+![memories](https://images-1252557999.file.myqcloud.com/uPic/memories.jpeg) 
 
 ## 🤖 软件 
 
-### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
+### [epubkit](https://beta.epubkit.app/)
 
-安全、快速与轻量的远程桌面&文件管理工具：
+挺多人有这种需求的，将网页转化成电子书：
 
-![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
+![epubkit](https://images-1252557999.file.myqcloud.com/uPic/epubkit.png)
 
-### [cicada](https://github.com/mebtte/cicada)
+之前推荐的 [EpubPress](https://epub.press/) 也是类似功能，可以结合在一起体验试试。 
 
-知了, 支持多用户的开源音乐服务：
+### [NanaZip](https://github.com/M2Team/NanaZip)
 
-- **尊重隐私, 不进行任何数据收集**
-- 支持多用户
-- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
-- 系统媒体和快捷键支持
-- 音乐支持标准音质/超高音质/伴奏以及多份歌词
-- 乐单/播放列表/播放队列音乐数量无限制
-- 支持标注音乐创作来源(翻唱)
-- 支持歌词/歌名/歌手/乐单搜索
+`NanaZip` 是一个面向现代 `Windows` 体验的开源文件压缩工具，基于知名的开源文件压缩工具 `7-Zip` 的源代码：
 
-![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
+![NanaZip](https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg) 
 
-### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
+### [Mos](https://github.com/Caldis/Mos)
 
-根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
+一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
 
-![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
+![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
 
 ## 👀 资料 
 
-### [LLMBook-zh](https://llmbook-zh.github.io/)
+### [rosedb](https://github.com/flower-corp/rosedb)
 
-大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
+`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
 
-![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
+![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
 
-### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
+作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
 
-技术面试最后反问面试官的话。 
+### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
 
-### [rust-by-practice](https://github.com/sunface/rust-by-practice)
+《Software Engineering at Google》的中文翻译版本：
 
-通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
+![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/f4zLoa.png) 
+### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
+
+📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
+
+![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
 
 ## 🕸 网站 
 
-### [macosicons](https://macosicons.com/)
+### [echoserver](https://echoserver.dev/)
 
-网站基本上覆盖了热门`Mac APP`图标，你可以选择自己喜欢的图标进行替换，让自己的`Mac`更加漂亮且个性化。
+一个用于测试 `HTTP` 客户端的简单服务器，可生成 `URL` 并返回您想要的生成响应：
 
-![macosicons](https://images-1252557999.file.myqcloud.com/uPic/macosicons.png) 
+![echoserver](https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg) 
 
-### [storyset](https://storyset.com/)
+### [recompressor](https://zh.recompressor.com/)
 
-来自读者@妙才的投稿，这个网站提供了大量精美免费的插图，可以应用于你的项目：
+免费的图片压缩工具：
 
-![storyset](https://images-1252557999.file.myqcloud.com/uPic/Jm5cJY.png) 
+![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
 
-### [Haiker](https://app.haikei.app/)
+### [docsmall](https://docsmall.com/)
 
-`Haikei` 是一款用于生成 `SVG` 形状、背景和图案的在线工具，无需注册也能使用：
+提供一些图片压缩、PDF合并分割小功能的网站：
 
-![haikei](https://images-1252557999.file.myqcloud.com/uPic/haikei.jpg) 
+![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
 
 ## ✍️ 说明
 
