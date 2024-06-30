@@ -5,100 +5,92 @@
 
 ## 🎯 项目 
 
-### [crawlee](https://crawlee.dev/)
+### [free-api](https://github.com/fangzesheng/free-api)
 
-基于 `Node` 编写的开源网络爬虫库：
+作者创建此开源项目的目的如下：
 
-![crawlee](https://images-1252557999.file.myqcloud.com/uPic/crawlee.jpg) 
+> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
 
-### [ssddanbrown/rss](https://github.com/ssddanbrown/rss)
+包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
 
-一个简单的 `Twitter-feed` 风格的 `RSS` 聚合器，使用 `PHP、Laravel、Inertia.js、Tailwind、Vue.js` 编写:
+![free-api](https://images-1252557999.file.myqcloud.com/uPic/VvapMO.png) 
 
-- 支持RSS和ATOM格式
-- 定期自动获取RSS订阅源
-- 自定义订阅名称和颜色
-- 基于内容的标签进行分类
-- 3种不同的帖子布局模式（卡片、列表、紧凑）
-- 获取页面的开放图像
-- 通过单个纯文本文件管理的订阅源
-- 基于系统的暗/亮主题
-- 帖子标题/描述搜索
-- 开箱即用的Docker镜像
-- 手机屏幕兼容
-- 清理旧的帖子数据
+### [tiptop](https://github.com/nschloe/tiptop)
 
-![ssddanbrown_rss](https://images-1252557999.file.myqcloud.com/uPic/ssddanbrown_rss.png) 
+类似`htop`的命令行系统资源监控工具：
 
-### [memories](https://github.com/pulsejet/memories)
+![tiptop](https://images-1252557999.file.myqcloud.com/uPic/tiptop.png) 
 
-构建于 `Nextcloud` 之上的照片管理器，基本包含了照片管理器的常见功能，值得安装体验（前提是你正在使用 Nextcloud）：
+### [alist](https://github.com/Xhofe/alist)
 
-![memories](https://images-1252557999.file.myqcloud.com/uPic/memories.jpeg) 
+一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
+
+![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
+
+简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
 
 ## 🤖 软件 
 
-### [epubkit](https://beta.epubkit.app/)
+### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
 
-挺多人有这种需求的，将网页转化成电子书：
+谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
 
-![epubkit](https://images-1252557999.file.myqcloud.com/uPic/epubkit.png)
+![temp_mail](https://images-1252557999.file.myqcloud.com/uPic/M4DZPI.png) 
 
-之前推荐的 [EpubPress](https://epub.press/) 也是类似功能，可以结合在一起体验试试。 
+### [SwitchHosts](https://github.com/oldj/SwitchHosts)
 
-### [NanaZip](https://github.com/M2Team/NanaZip)
+`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
 
-`NanaZip` 是一个面向现代 `Windows` 体验的开源文件压缩工具，基于知名的开源文件压缩工具 `7-Zip` 的源代码：
+![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
+和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
 
-![NanaZip](https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg) 
+### [memreduct](https://github.com/henrypp/memreduct)
 
-### [Mos](https://github.com/Caldis/Mos)
+轻量优雅的 `Windows` 内存管理工具，让用户实时监控计算机内存和清理系统缓存，体积小(6MB)、内存释放效果明显，兼容 `Windows XP` 及更高版本：
 
-一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
-
-![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
+![memreduct](https://images-1252557999.file.myqcloud.com/uPic/memreduct.jpg) 
 
 ## 👀 资料 
 
-### [rosedb](https://github.com/flower-corp/rosedb)
+### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
 
-`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
+一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
 
-![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
+![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
 
-作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
+### [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
 
-### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+[《Effective Modern C++ 》](https://cntransgroup.github.io/EffectiveModernCppChinese/)翻译：
 
-《Software Engineering at Google》的中文翻译版本：
+![EffectiveModernCppChinese](https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg) 
 
-![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
+### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 
-### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
+[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
 
-📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
+**可惜永远都不会再更新了，默哀！**
 
-![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
+![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
 
 ## 🕸 网站 
 
-### [echoserver](https://echoserver.dev/)
+### [extract.pics](https://extract.pics/)
 
-一个用于测试 `HTTP` 客户端的简单服务器，可生成 `URL` 并返回您想要的生成响应：
+输入网站地址，提取网站图片资源：
 
-![echoserver](https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg) 
+![extract_pics](https://images-1252557999.file.myqcloud.com/uPic/extract_pics.jpg) 
 
-### [recompressor](https://zh.recompressor.com/)
+### [webdesk](https://webdesk.pigjs.com/builder/)
 
-免费的图片压缩工具：
+一键将网站转化为桌面应用程序：
 
-![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
+![webdesk](https://images-1252557999.file.myqcloud.com/uPic/webdesk.jpg) 
 
-### [docsmall](https://docsmall.com/)
+### [star-history](https://star-history.com/)
 
-提供一些图片压缩、PDF合并分割小功能的网站：
+在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
 
-![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
+![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
 
 ## ✍️ 说明
 
