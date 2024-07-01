@@ -5,95 +5,113 @@
 
 ## 🎯 项目 
 
-### [CoverView](https://github.com/rutikwankhade/CoverView)
+### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
 
-一个开源的快速制作文章封面图的工具。
+一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
 
-![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
+![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
 
-### [Verdaccio](https://github.com/verdaccio/verdaccio)
+你可以直接[在线体验](https://letsmarkdown.com/)。 
 
-`Verdaccio` 是一个 `Node.js` 创建的轻量的私有 `npm proxy registry`：
+### [MDGJX](https://github.com/work7z/MDGJX)
 
-![Verdaccio](https://images-1252557999.file.myqcloud.com/uPic/CRinc4.jpg) 
+秒达工具箱，借助独创高效的输入方式，让您可以快速呼出各类工具、文档及笔记等资源，免费安全无广告：
 
-### [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
+![MDGJX](https://images-1252557999.file.myqcloud.com/uPic/MDGJX.png) 
 
-国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。
+### [diagrams](https://github.com/mingrammer/diagrams)
 
-虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！ 
+用 `Python` 代码绘制云原生架构图：
+
+![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
 
 ## 🤖 软件 
 
-### [Loop](https://github.com/MrKai77/Loop)
+### [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
 
-让窗口管理 `MacOS` 变得优雅：
+简单的 macOS 菜单栏应用程序，可以方便地和 `Reminders` 进行交互，使用 `SwiftUI` 开发，并使用 `Apple` 提醒事项作为数据源：
 
-![Loop](https://images-1252557999.file.myqcloud.com/uPic/Loop.gif)
+![reminders-menubar](https://images-1252557999.file.myqcloud.com/uPic/reminders-menubar.jpg) 
 
-安装好如果有权限问题，执行如下命令：
+### [Setapp](https://go.setapp.com/invite/os8yv4jr)
 
-```shell
-sudo xattr -cr  /Applications/Loop.app
-``` 
+虽然这个是个付费软件，但我还是很推荐：
 
-### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
+> Setapp是由MacPaw公司于2017年推出的订阅服务，专为macOS和iOS用户提供多款精选应用程序。用户通过月费即可无限使用旗下丰富的应用集合，覆盖各种日常任务需求，无需单独购买或更新。
 
-根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
+订阅这个软件就可以免费使用 `Setapp` 里面 **240+** 的软件（单独买要付费的那种），比如我想使用GPT-4的对话功能，我单独买会员就是要20$。我现在直接花 **9.9\$**  订阅 `Setapp` ，然后直接里面直接使用 `Typing Mind` 就可以直接使用 GPT-4 Turbo，上下文 128k，对我来说单单这个就赚回来了。
 
-![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
+![setapp](https://images-1252557999.file.myqcloud.com/uPic/setapp.jpg) 
 
-### [GestureSign](https://github.com/TransposonY/GestureSign)
+### [Poe Client](https://poe.com/download)
 
-开源免费的 `Windows` 全局手势控制辅助增强软件神器:
+`Poe` 客户端，让你免费体验各种 `GPT & LLM` 机器人的聚合软件，一开始是网页版👉 [poe.com](https://poe.com/)，现在有原生客户端：
 
-- 支持 `Windows 11、Win10 / 8` 等系统
-- 支持鼠标手势、触控板等手势操作
-- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
-
-![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
+![poe](https://images-1252557999.file.myqcloud.com/uPic/poe.jpg) 
 
 ## 👀 资料 
 
-### [nextjs-learn-cn](https://qufei1993.github.io/nextjs-learn-cn/)
+### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
 
-一份 `Next.js` 中文教程：
+关于 `MongoDB`，最全面的免费学习向导：
 
-![nextjs-learn-c](https://images-1252557999.file.myqcloud.com/uPic/nextjs-learn-c.jpg) 
+- 学习资源：文档书籍教程等
+- 第三方库：各种编程语言的兼容库
+- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
 
-### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
+### [English-Writing](https://github.com/yzy1996/English-Writing)
 
-全面的Webpack教程《深入浅出Webpack》电子书：
+本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
-![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
+### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
 
-### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
+《Software Engineering at Google》的中文翻译版本：
 
-2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
-
-![](https://images-1252557999.file.myqcloud.com/uPic/AHWB7M.jpg)
-
-更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
+![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
 
 ## 🕸 网站 
 
-### [bgsub](https://bgsub.cn/webapp)
+### [regex101](https://regex101.com/)
 
-消除或者替换图像背景，无需上传图像：
+`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
 
-![bgsub](https://images-1252557999.file.myqcloud.com/uPic/bgsub.jpg) 
+- PHP
+- Python
+- JS
+- Go
+- Java
 
-### [send.internxt.com](https://send.internxt.com/)
+![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
 
-文件上传分享网站，如果有临时文件传输的场景，可以使用：
+### [weekly.fre123.com](https://weekly.fre123.com/)
 
-![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
+老胡我周末产出的一个页面，不清楚缘由参考之前写的文章👉[推荐！一份技术周刊RSS大全，总有你需要的](https://mp.weixin.qq.com/s/lW0Uz224MkURjM7Pru8soA)。
 
-### [compressjpeg](https://compressjpeg.com/zh/)
+我首先做了个页面收集一些优质的周刊 RSS 源--[https://www.fre123.com/wk](https://www.fre123.com/wk)：
 
-一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
+![wk](https://images-1252557999.file.myqcloud.com/uPic/wk.jpg)
 
-![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg) 
+最后直接基于这些周刊 RSS 源实现了周刊信息流更新汇总页，我感觉还是有用的，欢迎大家使用：
+
+![weekly_fre123](https://images-1252557999.file.myqcloud.com/uPic/weekly_fre123.jpg)
+
+最后再推荐下各端 RSS 工具软件资源：
+
+| 名称                                                                                                                                                                         | 描述                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [fluent-reader](https://sourl.cn/6xkd2u)                                                                                                                                     | 我在用的跨平台rss阅读器                                             |
+| [NetNewsWire](https://sourl.cn/ZBzhDA)                                                                                                                                       | 适用于 Mac iPad iPhone 的 RSS 阅读客户端                            |
+| [ReadYou](https://sourl.cn/3YMB2W)                                                                                                                                           | 一个以 Material You 风格呈现的 Android RSS 阅读器                   |
+| [lettura](https://sourl.cn/WaYnJf)                                                                                                                                           | 基于 Tauri 跨平台的桌面 RSS 阅读器                                  |
+| [feed-flow](https://sourl.cn/mPZ9wQ)                                                                                                                                         | FeedFlow 是一款极简主义的 RSS 阅读器，可在 Android、iOS&macOS上使用 |
+| [FreshRSS](https://weekly.howie6879.com/2022/08-15~08-21.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%20%EF%BC%88%E7%AC%AC053%E6%9C%9F%EF%BC%89.html?h=freshrss#freshrss)   | FreshRSS 是一款自由免费的自部署 RSS 订阅器，界面美观                |
+| [ALL-about-RSS](https://weekly.howie6879.com/2021/08-23~08-27.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC002%E6%9C%9F%EF%BC%89.html?h=rss#all-about-rss) | 一份与RSS相关的清单：工具、服务、社区和教程                         | 
+
+### [flatuicolors](https://flatuicolors.com/)
+
+`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
+
+![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
 
 ## ✍️ 说明
 
