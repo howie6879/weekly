@@ -5,113 +5,86 @@
 
 ## 🎯 项目 
 
-### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
+### [PyFlow](https://github.com/wonderworks-software/PyFlow)
 
-一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
+可视化脚本框架：
 
-![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
+![PyFlow](https://images-1252557999.file.myqcloud.com/uPic/XEBUdM.jpg) 
 
-你可以直接[在线体验](https://letsmarkdown.com/)。 
+### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
 
-### [MDGJX](https://github.com/work7z/MDGJX)
+`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
 
-秒达工具箱，借助独创高效的输入方式，让您可以快速呼出各类工具、文档及笔记等资源，免费安全无广告：
+![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
 
-![MDGJX](https://images-1252557999.file.myqcloud.com/uPic/MDGJX.png) 
+### [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web)
 
-### [diagrams](https://github.com/mingrammer/diagrams)
+带有用户管理和后台面板的 ChatGPT 网页应用：
 
-用 `Python` 代码绘制云原生架构图：
-
-![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
+![ChatGPT-Admin-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Admin-Web.jpg) 
 
 ## 🤖 软件 
 
-### [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
+### [flybird-m3u8downloader](https://github.com/youwen21/flybird-m3u8downloader)
 
-简单的 macOS 菜单栏应用程序，可以方便地和 `Reminders` 进行交互，使用 `SwiftUI` 开发，并使用 `Apple` 提醒事项作为数据源：
+@youwen21 投稿，飞鸟 `m3u8` 视频下载器是一款 `m3u8` 下载工具，支持 Windows, MacOS双系统，包含功能有：
 
-![reminders-menubar](https://images-1252557999.file.myqcloud.com/uPic/reminders-menubar.jpg) 
+- m3u8 和直播录制和点播下载
+- IPTV 播放与自定义源管理
 
-### [Setapp](https://go.setapp.com/invite/os8yv4jr)
+![m3u8downloader](https://images-1252557999.file.myqcloud.com/uPic/m3u8downloader.png) 
 
-虽然这个是个付费软件，但我还是很推荐：
+### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
 
-> Setapp是由MacPaw公司于2017年推出的订阅服务，专为macOS和iOS用户提供多款精选应用程序。用户通过月费即可无限使用旗下丰富的应用集合，覆盖各种日常任务需求，无需单独购买或更新。
+针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
 
-订阅这个软件就可以免费使用 `Setapp` 里面 **240+** 的软件（单独买要付费的那种），比如我想使用GPT-4的对话功能，我单独买会员就是要20$。我现在直接花 **9.9\$**  订阅 `Setapp` ，然后直接里面直接使用 `Typing Mind` 就可以直接使用 GPT-4 Turbo，上下文 128k，对我来说单单这个就赚回来了。
+![netease-music-crx](https://images-1252557999.file.myqcloud.com/uPic/rkgRfw.png) 
 
-![setapp](https://images-1252557999.file.myqcloud.com/uPic/setapp.jpg) 
+### [chatbox](https://github.com/Bin-Huang/chatbox)
 
-### [Poe Client](https://poe.com/download)
+跨平台大模型客户端：
 
-`Poe` 客户端，让你免费体验各种 `GPT & LLM` 机器人的聚合软件，一开始是网页版👉 [poe.com](https://poe.com/)，现在有原生客户端：
-
-![poe](https://images-1252557999.file.myqcloud.com/uPic/poe.jpg) 
+![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.jpg) 
 
 ## 👀 资料 
 
-### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
+### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
 
-关于 `MongoDB`，最全面的免费学习向导：
+这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
 
-- 学习资源：文档书籍教程等
-- 第三方库：各种编程语言的兼容库
-- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
+该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
 
-### [English-Writing](https://github.com/yzy1996/English-Writing)
+![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
 
-本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
+### [learnmoderncpp](https://learnmoderncpp.com/)
 
-### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+现代 C++学习教程：
 
-《Software Engineering at Google》的中文翻译版本：
+![learnmoderncpp](https://images-1252557999.file.myqcloud.com/uPic/learnmoderncpp.jpg) 
 
-![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
+### [v8-internals](https://github.com/plctlab/v8-internals)
+
+面向编译器开发人员的V8内部实现文档。 
 
 ## 🕸 网站 
 
-### [regex101](https://regex101.com/)
+### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
 
-`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
+Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
 
-- PHP
-- Python
-- JS
-- Go
-- Java
+![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
 
-![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
+### [jaywcjlove/reference](https://wangchujiang.com/reference/)
 
-### [weekly.fre123.com](https://weekly.fre123.com/)
+为开发人员分享快速参考备忘清单【速查表】，也可以直接通过 github 访问-> [jaywcjlove/reference](https://github.com/jaywcjlove/reference) :
 
-老胡我周末产出的一个页面，不清楚缘由参考之前写的文章👉[推荐！一份技术周刊RSS大全，总有你需要的](https://mp.weixin.qq.com/s/lW0Uz224MkURjM7Pru8soA)。
+![reference](https://images-1252557999.file.myqcloud.com/uPic/reference.png) 
 
-我首先做了个页面收集一些优质的周刊 RSS 源--[https://www.fre123.com/wk](https://www.fre123.com/wk)：
+### [cikeee](https://www.cikeee.com/)
 
-![wk](https://images-1252557999.file.myqcloud.com/uPic/wk.jpg)
+每天推荐一部优秀的电影：
 
-最后直接基于这些周刊 RSS 源实现了周刊信息流更新汇总页，我感觉还是有用的，欢迎大家使用：
-
-![weekly_fre123](https://images-1252557999.file.myqcloud.com/uPic/weekly_fre123.jpg)
-
-最后再推荐下各端 RSS 工具软件资源：
-
-| 名称                                                                                                                                                                         | 描述                                                                |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [fluent-reader](https://sourl.cn/6xkd2u)                                                                                                                                     | 我在用的跨平台rss阅读器                                             |
-| [NetNewsWire](https://sourl.cn/ZBzhDA)                                                                                                                                       | 适用于 Mac iPad iPhone 的 RSS 阅读客户端                            |
-| [ReadYou](https://sourl.cn/3YMB2W)                                                                                                                                           | 一个以 Material You 风格呈现的 Android RSS 阅读器                   |
-| [lettura](https://sourl.cn/WaYnJf)                                                                                                                                           | 基于 Tauri 跨平台的桌面 RSS 阅读器                                  |
-| [feed-flow](https://sourl.cn/mPZ9wQ)                                                                                                                                         | FeedFlow 是一款极简主义的 RSS 阅读器，可在 Android、iOS&macOS上使用 |
-| [FreshRSS](https://weekly.howie6879.com/2022/08-15~08-21.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%20%EF%BC%88%E7%AC%AC053%E6%9C%9F%EF%BC%89.html?h=freshrss#freshrss)   | FreshRSS 是一款自由免费的自部署 RSS 订阅器，界面美观                |
-| [ALL-about-RSS](https://weekly.howie6879.com/2021/08-23~08-27.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC002%E6%9C%9F%EF%BC%89.html?h=rss#all-about-rss) | 一份与RSS相关的清单：工具、服务、社区和教程                         | 
-
-### [flatuicolors](https://flatuicolors.com/)
-
-`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
-
-![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
 ## ✍️ 说明
 
