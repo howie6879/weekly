@@ -5,86 +5,79 @@
 
 ## 🎯 项目 
 
-### [PyFlow](https://github.com/wonderworks-software/PyFlow)
+### [Docusaurus](https://github.com/facebook/docusaurus)
 
-可视化脚本框架：
+`Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
 
-![PyFlow](https://images-1252557999.file.myqcloud.com/uPic/XEBUdM.jpg) 
+![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
 
-### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
+### [resume-design](https://github.com/huajian-pro/resume-design)
 
-`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
+一款开源简历设计生成器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据：
 
-![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
+![91huajian](https://images-1252557999.file.myqcloud.com/uPic/MHN7Rb.jpg) 
 
-### [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web)
+### [OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
 
-带有用户管理和后台面板的 ChatGPT 网页应用：
+这个项目是 `OOTDiffusion` 的官方实现，快速基于你上传的模特和图片生成产品效果图，AI 模特不是梦，点击 [ootd](https://ootd.ibot.cn/) 体验：
 
-![ChatGPT-Admin-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Admin-Web.jpg) 
+![ootd](https://images-1252557999.file.myqcloud.com/uPic/ootd.jpg) 
 
 ## 🤖 软件 
 
-### [flybird-m3u8downloader](https://github.com/youwen21/flybird-m3u8downloader)
+### [keyviz](https://github.com/mulaRahul/keyviz)
 
-@youwen21 投稿，飞鸟 `m3u8` 视频下载器是一款 `m3u8` 下载工具，支持 Windows, MacOS双系统，包含功能有：
+`Keyviz` 是一个免费且开源的工具，可以实时可视化您的按键⌨️和🖱️鼠标操作，比较适合录屏按键演示，基于 Flutter 开发，跨平台，颜值也不错：
 
-- m3u8 和直播录制和点播下载
-- IPTV 播放与自定义源管理
+![keyviz](https://images-1252557999.file.myqcloud.com/uPic/keyviz.svg) 
 
-![m3u8downloader](https://images-1252557999.file.myqcloud.com/uPic/m3u8downloader.png) 
+### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
-### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
+针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
 
-针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
+![CodeEdit](https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png) 
 
-![netease-music-crx](https://images-1252557999.file.myqcloud.com/uPic/rkgRfw.png) 
+### [optimizer](https://github.com/hellzerg/optimizer)
 
-### [chatbox](https://github.com/Bin-Huang/chatbox)
+开源软件，让你的 `Windows` 电脑保持最大程度上的纯净，保证电脑性能：
 
-跨平台大模型客户端：
-
-![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.jpg) 
+![optimizer](https://images-1252557999.file.myqcloud.com/uPic/optimizer.jpg) 
 
 ## 👀 资料 
 
-### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
+### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
 
-这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
+ Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
 
-该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
+ ![rust_embedded_dev](https://images-1252557999.file.myqcloud.com/uPic/rust_embedded_dev.jpg) 
 
-![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
+### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
 
-### [learnmoderncpp](https://learnmoderncpp.com/)
+自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
 
-现代 C++学习教程：
+### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
 
-![learnmoderncpp](https://images-1252557999.file.myqcloud.com/uPic/learnmoderncpp.jpg) 
-
-### [v8-internals](https://github.com/plctlab/v8-internals)
-
-面向编译器开发人员的V8内部实现文档。 
+一份从头开始建立 `CDN` 知识体系的教程。 
 
 ## 🕸 网站 
 
-### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
+### [ipdetective](https://ipdetective.io/api)
 
-Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
+检测 `ip` 是否是机器人：
 
-![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
+![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
 
-### [jaywcjlove/reference](https://wangchujiang.com/reference/)
+### [tldraw](https://www.tldraw.com/)
 
-为开发人员分享快速参考备忘清单【速查表】，也可以直接通过 github 访问-> [jaywcjlove/reference](https://github.com/jaywcjlove/reference) :
+小巧强大的在线绘图工具：
 
-![reference](https://images-1252557999.file.myqcloud.com/uPic/reference.png) 
+![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
 
-### [cikeee](https://www.cikeee.com/)
+### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
 
-每天推荐一部优秀的电影：
+一个搜索 git 常用 emoji 的网站:
 
-![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
+![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
 
 ## ✍️ 说明
 
