@@ -5,79 +5,89 @@
 
 ## 🎯 项目 
 
-### [Docusaurus](https://github.com/facebook/docusaurus)
+### [notion-avatar](https://github.com/Mayandev/notion-avatar)
 
-`Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
+如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
 
-![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
+![notion-avatar](https://images-1252557999.file.myqcloud.com/uPic/OrjQK2.jpg) 
 
-### [resume-design](https://github.com/huajian-pro/resume-design)
+### [gorse](https://github.com/zhenghaoz/gorse)
 
-一款开源简历设计生成器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据：
+用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
 
-![91huajian](https://images-1252557999.file.myqcloud.com/uPic/MHN7Rb.jpg) 
+![gorse](https://images-1252557999.file.myqcloud.com/uPic/nP2kgE.jpg)
 
-### [OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
+作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
 
-这个项目是 `OOTDiffusion` 的官方实现，快速基于你上传的模特和图片生成产品效果图，AI 模特不是梦，点击 [ootd](https://ootd.ibot.cn/) 体验：
+![gitrec](https://images-1252557999.file.myqcloud.com/uPic/jAuEdM.jpg) 
 
-![ootd](https://images-1252557999.file.myqcloud.com/uPic/ootd.jpg) 
+### [plane](https://github.com/makeplane/plane)
+
+概念比较新的项目管理工具，开源的 `JIRA，Linear & Height` 的替代品，`Plane` 以最简单的方式帮助您跟踪问题、冲刺和产品路线图：
+
+![plane](https://images-1252557999.file.myqcloud.com/uPic/plane.webp) 
 
 ## 🤖 软件 
 
-### [keyviz](https://github.com/mulaRahul/keyviz)
+### [pilipala](https://github.com/guozhigq/pilipala)
 
-`Keyviz` 是一个免费且开源的工具，可以实时可视化您的按键⌨️和🖱️鼠标操作，比较适合录屏按键演示，基于 Flutter 开发，跨平台，颜值也不错：
+使用 `Flutter` 开发的 `BiliBili` 第三方客户端，专为提高用户在观看BiliBili视频时的体验而设计：
 
-![keyviz](https://images-1252557999.file.myqcloud.com/uPic/keyviz.svg) 
+![pilipala](https://images-1252557999.file.myqcloud.com/uPic/pilipala.jpg) 
 
-### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
+一个开源的YouTube应用程序，旨在保护隐私：
 
-![CodeEdit](https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png) 
+![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
 
-### [optimizer](https://github.com/hellzerg/optimizer)
+### [siyuan](https://github.com/siyuan-note/siyuan)
 
-开源软件，让你的 `Windows` 电脑保持最大程度上的纯净，保证电脑性能：
+思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
 
-![optimizer](https://images-1252557999.file.myqcloud.com/uPic/optimizer.jpg) 
+![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
 
 ## 👀 资料 
 
-### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
+### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
 
- Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
+📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
 
- ![rust_embedded_dev](https://images-1252557999.file.myqcloud.com/uPic/rust_embedded_dev.jpg) 
+![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
 
-### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
+### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
 
-自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
+为初学者整理的免费 `CSS` 课程：
 
-### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
+![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
 
-一份从头开始建立 `CDN` 知识体系的教程。 
+### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
+
+中国5级行政区域mysql库：
+
+- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
+- 港澳地区的数据只有3级;台湾地区4级
+- 包含大陆地区的邮政编码和经纬度信息 
 
 ## 🕸 网站 
 
-### [ipdetective](https://ipdetective.io/api)
+### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
 
-检测 `ip` 是否是机器人：
+老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
 
-![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
+![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
 
-### [tldraw](https://www.tldraw.com/)
+### [Anthropic](https://docs.anthropic.com/claude/prompt-library)
 
-小巧强大的在线绘图工具：
+Anthropic 公司推出的提示词库，里面有 `Anthropic` 提供的非常多的示例提示词，非常方便：
 
-![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
+![anthropic](https://images-1252557999.file.myqcloud.com/uPic/anthropic.jpg) 
 
-### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
+### [Ben Eater](https://eater.net/)
 
-一个搜索 git 常用 emoji 的网站:
+博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
 
-![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
+![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
 
 ## ✍️ 说明
 
