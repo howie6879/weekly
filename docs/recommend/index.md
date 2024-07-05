@@ -5,89 +5,103 @@
 
 ## 🎯 项目 
 
-### [notion-avatar](https://github.com/Mayandev/notion-avatar)
+### [form-create-designer](https://github.com/xaboy/form-create-designer)
 
-如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
+`form-create-designer` 是基于 [@form-create/element-ui](https://github.com/xaboy/form-create) 实现的表单设计器组件。可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率，节省开发者的时间：
 
-![notion-avatar](https://images-1252557999.file.myqcloud.com/uPic/OrjQK2.jpg) 
+![form-create-designer](https://images-1252557999.file.myqcloud.com/uPic/form-create-designer.png) 
 
-### [gorse](https://github.com/zhenghaoz/gorse)
+### [ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine)
 
-用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
+随着 `TikTok` 和 `Youtube` 等短视频内容的兴起，比以往任何时候都有更多的知识存在于视频中。对于任何一个人来说，在数百万个视频中找到特定答案可能是困难的，而这个项目([https://avse.vercel.app/](https://avse.vercel.app/))就是针对这个问题进行探索：
 
-![gorse](https://images-1252557999.file.myqcloud.com/uPic/nP2kgE.jpg)
+![ai-video-search-engine](https://images-1252557999.file.myqcloud.com/uPic/ai-video-search-engine.jpg) 
 
-作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
+### [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 
-![gitrec](https://images-1252557999.file.myqcloud.com/uPic/jAuEdM.jpg) 
+`ChatGPT` 中文调教指南，各种场景使用指南，学习怎么让它听你的话：
 
-### [plane](https://github.com/makeplane/plane)
-
-概念比较新的项目管理工具，开源的 `JIRA，Linear & Height` 的替代品，`Plane` 以最简单的方式帮助您跟踪问题、冲刺和产品路线图：
-
-![plane](https://images-1252557999.file.myqcloud.com/uPic/plane.webp) 
+![acpz](https://images-1252557999.file.myqcloud.com/uPic/acpz.jpg) 
 
 ## 🤖 软件 
 
-### [pilipala](https://github.com/guozhigq/pilipala)
+### [XcodesApp](https://github.com/XcodesOrg/XcodesApp)
 
-使用 `Flutter` 开发的 `BiliBili` 第三方客户端，专为提高用户在观看BiliBili视频时的体验而设计：
+通过鼠标点击这种简单方式，快速安装和切换多个版本的 `Xcode`：
 
-![pilipala](https://images-1252557999.file.myqcloud.com/uPic/pilipala.jpg) 
+![XcodesApp](https://images-1252557999.file.myqcloud.com/uPic/XcodesApp.jpg) 
 
-### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
+### [gpt4all](https://github.com/nomic-ai/gpt4all)
 
-一个开源的YouTube应用程序，旨在保护隐私：
+`GPT4All` 是一个生态系统，用于在消费级 `CPU` 和任何 `GPU` 上本地运行强大且定制化的大型语言模型。请注意，您的 `CPU` 需要支持 `AVX` 或 `AVX2` 指令。
 
-![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
+![gpt4all](https://images-1252557999.file.myqcloud.com/uPic/gpt4all.jpg) 
 
-### [siyuan](https://github.com/siyuan-note/siyuan)
+### [Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper)
 
-思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
+李跳跳下线了，还有开源的出来，开屏跳过-安卓系统的开屏广告自动跳过助手。
 
-![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
+**开屏跳过**可以帮助用户自动跳过一些应用的开屏广告，基于Android的无障碍服务实现。
+
+使用广告跳过程序，最大的风险是个人隐私被泄露。`因为这种软件都需要开启Accessibility` 无障碍服务，可以获取屏幕上的**所有内容**，从而可以检测广告，帮助用户自动跳过。
+
+本程序是开源程序，不需要网络权限，不需要存储权限，不会收集或者上传任何信息！绝无隐私问题：
+
+![Android-Touch-Helper](https://images-1252557999.file.myqcloud.com/uPic/Android-Touch-Helper.jpg) 
 
 ## 👀 资料 
 
-### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
+### [wangshusen/SearchEngine](https://github.com/wangshusen/SearchEngine)
 
-📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
+开源的搜索引擎原理书籍（不方便下载的直接私聊我发 PDF），包含：
 
-![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
+- 搜索引擎基础
+- 相关性
+- 其他决定用户满意度的因子
+- 查询词处理
+- 召回
+- 排序
+- 查询词推荐
 
-### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
+![SearchEngine](https://images-1252557999.file.myqcloud.com/uPic/SearchEngine.jpg) 
 
-为初学者整理的免费 `CSS` 课程：
+### [react-illustration-series](https://github.com/7kms/react-illustration-series)
 
-![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
+图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
 
-### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
+### [learnprompting.org](https://learnprompting.org/zh-Hans/docs/intro)
 
-中国5级行政区域mysql库：
+> 如何同人工智能交流，并得到你要的结果。
 
-- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
-- 港澳地区的数据只有3级;台湾地区4级
-- 包含大陆地区的邮政编码和经纬度信息 
+随着最近人工智能的不断进步，提示工程这项技能变得越来越重要。本课程会聚焦于如何使用提示工程。你不需要很多机器学习相关的知识。
+
+![learnprompting](https://images-1252557999.file.myqcloud.com/uPic/learnprompting.jpg) 
 
 ## 🕸 网站 
 
-### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
+### [123apps](https://123apps.com/cn/)
 
-老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
+网站提供了一系列的小工具，包含分类：
 
-![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
+- 视频工具
+- 音频工具
+- PDF 工具
+- 转换器
+- ......
 
-### [Anthropic](https://docs.anthropic.com/claude/prompt-library)
+![123apps](https://images-1252557999.file.myqcloud.com/uPic/123apps.jpg) 
 
-Anthropic 公司推出的提示词库，里面有 `Anthropic` 提供的非常多的示例提示词，非常方便：
+### [书葵網](https://www.shukui.net/)
 
-![anthropic](https://images-1252557999.file.myqcloud.com/uPic/anthropic.jpg) 
+读者可以在此查询本馆的图书、期刊、古籍等信息。检索条件会自动匹配书名、作者、出版社、ISBN搜索，返回最优匹配结果：
 
-### [Ben Eater](https://eater.net/)
+![shukui](https://images-1252557999.file.myqcloud.com/uPic/shukui.jpg) 
 
-博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
+### [识典古籍](https://www.shidianguji.com/)
 
-![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
+识典古籍 – 古籍在线阅读平台，北大和抖音合作开发的古籍阅读网站：
+
+![shidianguji](https://images-1252557999.file.myqcloud.com/uPic/shidianguji.jpg) 
 
 ## ✍️ 说明
 
