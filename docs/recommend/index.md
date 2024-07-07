@@ -5,90 +5,104 @@
 
 ## 🎯 项目 
 
-### [jina](https://github.com/jina-ai/jina)
+### [pingvin-share](https://github.com/stonith404/pingvin-share)
 
-![jina](https://images-1252557999.file.myqcloud.com/uPic/9MHbAU.png)
+`Pingvin Share` 是一个可自建的文件分享平台，是 `WeTransfer` 的一个替代品：
 
-云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
+- 通过可自定义后缀的链接分享文件
+- 可自定义任意大小的文件上传限制 (受制于托管所在的硬盘大小)
+- 对共享链接设置有效期限
+- 对共享链接设置访问次数和访问密码
+- 通过邮件自动发送共享链接
+- 整合 ClamAV 进行反病毒检查
 
-相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
+![pingvin-share](https://images-1252557999.file.myqcloud.com/uPic/pingvin-share.png)
+还有个类似的开源项目[奶油快传-bitiful/send](https://github.com/bitiful/send)，相对轻量，但也没有 `pingvin-share` 成熟：
 
-### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+![bitiful](https://images-1252557999.file.myqcloud.com/uPic/bitiful.jpg) 
 
-一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
+### [screenshot-to-code](https://github.com/abi/screenshot-to-code)
 
-![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
+依赖 `GPT-4 Vision` 特性，允许用户将屏幕截图作为输入，然后将其转换为整洁的HTML/Tailwind/JS代码，和上一期推荐的 [draw-a-ui](https://weekly.howie6879.com/2023/11-06~11-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC115%E6%9C%9F%EF%BC%89.html) 有异曲同工之妙。
 
-### [clone-voice](https://github.com/jianchang512/clone-voice)
+![screenshot-to-code](https://images-1252557999.file.myqcloud.com/uPic/screenshot-to-code.jpg) 
 
-一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频：
+### [vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)
 
-![clone-voice](https://images-1252557999.file.myqcloud.com/uPic/clone-voice.png) 
+基于 fabric.js 和 Vue 的图片海报编辑器，可自定义字体、素材、设计模板：
+
+![vue-fabric-editor](https://images-1252557999.file.myqcloud.com/uPic/vue-fabric-editor.png) 
 
 ## 🤖 软件 
 
-### [Maccy](https://github.com/p0deje/Maccy)
+### [cicada](https://github.com/mebtte/cicada)
 
-轻量级macOS剪切板管理应用：
+知了, 支持多用户的开源音乐服务：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
-使用截图如下：
+- **尊重隐私, 不进行任何数据收集**
+- 支持多用户
+- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
+- 系统媒体和快捷键支持
+- 音乐支持标准音质/超高音质/伴奏以及多份歌词
+- 乐单/播放列表/播放队列音乐数量无限制
+- 支持标注音乐创作来源(翻唱)
+- 支持歌词/歌名/歌手/乐单搜索
 
-![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
+![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
 
-### [unclutter](https://github.com/lindylearn/unclutter)
+### [Dozer](https://github.com/Mortennn/Dozer)
 
-阅读插件，将网页内容快速转成美观的阅读模式：
+隐藏菜单栏图标，使您的Mac看起来更清爽，个人一直在用的开源状态栏管理工具，`Bartender` 替代品：
 
-![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
+![Dozer](https://images-1252557999.file.myqcloud.com/uPic/Dozer.jpg) 
 
-### [tvapk](https://github.com/Archmage83/tvapk)
+### [buster](https://github.com/dessant/buster)
 
-收集各大 `AndroidTV` 的 `apk` 应用，可免费看各种vip和国外电影电视：
+`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
 
-![tvapk](https://images-1252557999.file.myqcloud.com/uPic/tvapk.png) 
+![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
 
 ## 👀 资料 
 
-### [note-hack](https://github.com/xdite/note-hack)
+### [MySQL&PG 数据库教程](https://www.sjkjc.com/mysql/)
 
-《打造超人笔记》是一本关于如何有效记录和整理笔记的书籍。
+一个专门讲数据库教程的资料网站：
 
-作者认为，笔记是一个看起来复杂但实际上比学习和阅读更简单的问题。通过拆解笔记的流程，作者发现主要问题的结构变得非常简单。此外，随着科技的发展，许多快速记录工具和笔记整理软件已经被发明出来，使笔记搜寻变得更加容易。
+![sjkjc](https://images-1252557999.file.myqcloud.com/uPic/sjkjc.jpg) 
 
-在本书中，作者探讨了如何通过做笔记和整理笔记来挖掘和整理自己对一个领域的各种答案。通过阅读本书，读者可以学习到如何使用各种工具和方法来提高自己的笔记能力，成为一个笔记超人。 
+### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
 
-### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
+本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
 
-Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
+![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
 
-![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
+### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
 
-### [通识千书书单-聪明的阅读者](https://docs.qq.com/sheet/DY2RmcVVMVE9Qd3JV?tab=BB08J2)
+本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
 
-汇总聪明的阅读者里面出现的书单，可以选择最小单位的书单阅读：
+我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
 
-![聪明的阅读者](https://images-1252557999.file.myqcloud.com/uPic/聪明的阅读者.jpg) 
+无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
 
 ## 🕸 网站 
 
-### [mlsub](https://mlsub.net/)
+### [ifixit](https://zh.ifixit.com/)
 
-一个专注哆啦A梦和蜡笔小新的动漫网站：
+一个免费教授人们如何修理任何物品的网站：
 
-![mlsub](https://images-1252557999.file.myqcloud.com/uPic/mlsub.jpg) 
+![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
 
-### [scribblediffusion.com](https://scribblediffusion.com/)
+### [icones.js.org](https://icones.js.org/)
 
-随便画一画，生成美观的图片：
+免费的图标库：
 
-![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
+![icones](https://images-1252557999.file.myqcloud.com/uPic/icones.jpg) 
 
-### [uipatterns](http://uipatterns.io)
+### [jellylade](https://app.jellylade.com/)
 
-程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
+美化截图，可以选择各种设备：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/uipatterns.jpg) 
+![jellylade](https://images-1252557999.file.myqcloud.com/uPic/jellylade.jpg) 
 
 ## ✍️ 说明
 
