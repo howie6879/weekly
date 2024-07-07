@@ -5,104 +5,113 @@
 
 ## 🎯 项目 
 
-### [pingvin-share](https://github.com/stonith404/pingvin-share)
+### [Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)
 
-`Pingvin Share` 是一个可自建的文件分享平台，是 `WeTransfer` 的一个替代品：
+该扩展程序允许您阅读实施付费墙的（支持的）网站上的文章。您还可以将域名添加为自定义网站，并尝试绕过付费墙。类似之前推荐过的：
 
-- 通过可自定义后缀的链接分享文件
-- 可自定义任意大小的文件上传限制 (受制于托管所在的硬盘大小)
-- 对共享链接设置有效期限
-- 对共享链接设置访问次数和访问密码
-- 通过邮件自动发送共享链接
-- 整合 ClamAV 进行反病毒检查
+- https://github.com/everywall/ladder
+- https://12ft.io/
+- https://1ft.io/ 
 
-![pingvin-share](https://images-1252557999.file.myqcloud.com/uPic/pingvin-share.png)
-还有个类似的开源项目[奶油快传-bitiful/send](https://github.com/bitiful/send)，相对轻量，但也没有 `pingvin-share` 成熟：
+### [nginx-ui](https://github.com/0xJacky/nginx-ui)
 
-![bitiful](https://images-1252557999.file.myqcloud.com/uPic/bitiful.jpg) 
+Nginx 后台管理UI：
 
-### [screenshot-to-code](https://github.com/abi/screenshot-to-code)
+- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
+- 在线 ChatGPT 助理
+- 一键申请和自动续签 Lets encrypt 证书
+- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
+- 在线查看 Nginx 日志
+- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
+- 保存配置后自动测试配置文件并重载 Nginx
+- 基于网页浏览器的高级命令行终端
+- 支持深色模式
+- 自适应网页设计
 
-依赖 `GPT-4 Vision` 特性，允许用户将屏幕截图作为输入，然后将其转换为整洁的HTML/Tailwind/JS代码，和上一期推荐的 [draw-a-ui](https://weekly.howie6879.com/2023/11-06~11-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC115%E6%9C%9F%EF%BC%89.html) 有异曲同工之妙。
+![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
 
-![screenshot-to-code](https://images-1252557999.file.myqcloud.com/uPic/screenshot-to-code.jpg) 
+### [czkawka](https://github.com/qarmin/czkawka)
 
-### [vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)
+一款简单、快速和免费的开源跨平台应用程序，可以从您的计算机中删除不必要的文件。
 
-基于 fabric.js 和 Vue 的图片海报编辑器，可自定义字体、素材、设计模板：
+支持扫描计算机上重复、空文件夹、大文件、相似图像/视频/音乐、无效/损坏文件等内容，扫描速度极快。
 
-![vue-fabric-editor](https://images-1252557999.file.myqcloud.com/uPic/vue-fabric-editor.png) 
+![czkawka](https://images-1252557999.file.myqcloud.com/uPic/czkawka.jpg) 
 
 ## 🤖 软件 
 
-### [cicada](https://github.com/mebtte/cicada)
+### [flybird-m3u8downloader](https://github.com/youwen21/flybird-m3u8downloader)
 
-知了, 支持多用户的开源音乐服务：
+@youwen21 投稿，飞鸟 `m3u8` 视频下载器是一款 `m3u8` 下载工具，支持 Windows, MacOS双系统，包含功能有：
 
-- **尊重隐私, 不进行任何数据收集**
-- 支持多用户
-- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
-- 系统媒体和快捷键支持
-- 音乐支持标准音质/超高音质/伴奏以及多份歌词
-- 乐单/播放列表/播放队列音乐数量无限制
-- 支持标注音乐创作来源(翻唱)
-- 支持歌词/歌名/歌手/乐单搜索
+- m3u8 和直播录制和点播下载
+- IPTV 播放与自定义源管理
 
-![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
+![m3u8downloader](https://images-1252557999.file.myqcloud.com/uPic/m3u8downloader.png) 
 
-### [Dozer](https://github.com/Mortennn/Dozer)
+### [mCollection](https://github.com/hunmer/mCollection)
 
-隐藏菜单栏图标，使您的Mac看起来更清爽，个人一直在用的开源状态栏管理工具，`Bartender` 替代品：
+🎉开源，可扩展，可自定义的素材管理库：
 
-![Dozer](https://images-1252557999.file.myqcloud.com/uPic/Dozer.jpg) 
+-  sqlite3存储结构，允许自定义关联表
+-  没有限制的扩展插件，事件广播多
+-  模块化设计，各个功能互不干扰
+-  标签页设计，切换更便捷
+-  内置全局呼出搜索
+-  代码热更新
+-  前后端分离，支持部署私人素材库
 
-### [buster](https://github.com/dessant/buster)
+![mCollection](https://images-1252557999.file.myqcloud.com/uPic/mCollection.png) 
 
-`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
+### [staxrip](https://github.com/staxrip/staxrip)
 
-![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
+`StaxRip` 是一个强大的用于 `Windows` 的视频/音频编码图形用户界面。
+它执行和控制诸如 `x265、mkvmerge、ffmpeg` 等控制台应用程序，并使用基于脚本的帧服务器 A`viSynth+和VapourSynth` 进行视频处理。每个项目还可以通过各种事件和设置进行扩展：
+
+![staxrip](https://images-1252557999.file.myqcloud.com/uPic/staxrip.jpg) 
 
 ## 👀 资料 
 
-### [MySQL&PG 数据库教程](https://www.sjkjc.com/mysql/)
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-一个专门讲数据库教程的资料网站：
+夯实计算机基础，该怎么学，这个项目给出了答案：
 
-![sjkjc](https://images-1252557999.file.myqcloud.com/uPic/sjkjc.jpg) 
+![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
 
-### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
+### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
 
-本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
+这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
-![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
+之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.com/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
 
-### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
+### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
 
-本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
+机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
 
-我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
-
-无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
+![openmlsys](https://images-1252557999.file.myqcloud.com/uPic/openmlsys.jpg) 
 
 ## 🕸 网站 
 
-### [ifixit](https://zh.ifixit.com/)
+### [短剧搜索引擎](https://www.fre123.com/sp?ref=weekly)
 
-一个免费教授人们如何修理任何物品的网站：
+比较全面的短剧搜索引擎，数据在夸克网盘，转存即可免费观看全部：
 
-![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
+![sp](https://images-1252557999.file.myqcloud.com/uPic/sp.jpg) 
 
-### [icones.js.org](https://icones.js.org/)
+### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
 
-免费的图标库：
+一个搜索 git 常用 emoji 的网站:
 
-![icones](https://images-1252557999.file.myqcloud.com/uPic/icones.jpg) 
+![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
 
-### [jellylade](https://app.jellylade.com/)
+### [ugly-avatar](https://txstc55.github.io/ugly-avatar/ "ugly-avatar")
 
-美化截图，可以选择各种设备：
+挺有意思的项目，专门生成丑丑贱贱的头像：
 
-![jellylade](https://images-1252557999.file.myqcloud.com/uPic/jellylade.jpg) 
+- 网站：https://txstc55.github.io/ugly-avatar/
+- GitHub：https://github.com/txstc55/ugly-avatar
+
+![ugly-avatar](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-03-26_22-03-17.jpg) 
 
 ## ✍️ 说明
 
