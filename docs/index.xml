@@ -12,7 +12,80 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 30 Jun 2024 14:52:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 14:40:29 +0000</lastBuildDate>
+    <item>
+      <title>07-01~07-07.老胡的周刊（第149期）.md</title>
+      <link>https://weekly.howie6879.com/2024/07-01~07-07.老胡的周刊（第149期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/07-01~07-07.老胡的周刊（第149期）.html"&gt;07-01~07-07.老胡的周刊（第149期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/google/mesop"&gt;mesop&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Mesop 是一个基于 Python 的 UI 框架，用于快速构建如演示和内部应用的 Web 应用程序。它提供直观的 UI 编写，支持响应式 UI 编程范式，具有热重载功能和丰富的 IDE 支持。开发者可以通过简洁的 Python 代码构建自定义 UI，无需编写 JavaScript/CSS/HTML。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="mesop" src="https://images-1252557999.file.myqcloud.com/uPic/mesop.jpg" /&gt;
+类似的 Web&amp;amp;桌面软件框架：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;https://github.com/zauberzeug/nicegui&lt;/li&gt;
+&lt;li&gt;https://github.com/pywebio/PyWebIO&lt;/li&gt;
+&lt;li&gt;https://github.com/flet-dev/flet&lt;/li&gt;
+&lt;li&gt;https://github.com/streamlit/streamlit&lt;/li&gt;
+&lt;li&gt;https://github.com/python-eel/Eel&lt;/li&gt;
+&lt;li&gt;https://github.com/kivy/kivy&lt;/li&gt;
+&lt;li&gt;https://github.com/PySimpleGUI/PySimpleGUI&lt;/li&gt;
+&lt;li&gt;https://github.com/r0x0r/pywebview&lt;/li&gt;
+&lt;li&gt;https://github.com/hoffstadt/DearPyGui&lt;/li&gt;
+&lt;li&gt;https://github.com/Textualize/textual&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href="https://github.com/instantbox/instantbox"&gt;instantbox&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;可以在任意浏览器中快速启动临时 &lt;code&gt;Linux&lt;/code&gt; 系统并提供即时 &lt;code&gt;webshell&lt;/code&gt; 访问，它可用于演示、教学、灵感迸发时提供干净环境、设备管理、开源项目实验及软件性能测试等多种用途。支持的 Linux 发行版包括 Ubuntu、CentOS、Arch Linux、Debian、Fedora 和 Alpine。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="instantbox" src="https://images-1252557999.file.myqcloud.com/uPic/instantbox.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/clidey/whodb"&gt;whodb&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;WhoDB&lt;/code&gt; 是一个强大且轻量级的数据库管理工具，&lt;code&gt;WhoDB&lt;/code&gt; 用 &lt;code&gt;GoLang&lt;/code&gt; 编写，支持 &lt;code&gt;PostgreSQL、MySQL、SQLite3、MongoDB&amp;amp;Redis&lt;/code&gt; 等数据库。其主要特点包括交互式图表可视化数据库模式、内联编辑与预览、更好的用户界面以及卓越的性能。用户可以通过 &lt;code&gt;Docker&lt;/code&gt; 快速启动和运行：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="whodb" src="https://images-1252557999.file.myqcloud.com/uPic/whodb.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/mifi/lossless-cut"&gt;lossless-cut&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;LosslessCut&lt;/code&gt; 是一个强大的跨平台视频/音频编辑工具，旨在通过快速且无损的操作，提供对视频、音频、字幕等媒体文件的剪辑和处理。它支持几乎所有主流视频和音频格式的无损剪切，能够快速提取视频中的精彩片段，而无需重新编码，从而保证画质不降低。此外，它还支持合并、重新排列、添加音轨或字幕、批量处理等功能，非常适合从相机、&lt;code&gt;GoPro&lt;/code&gt;、无人机等设备中处理大文件。&lt;/p&gt;
+&lt;p&gt;特点包括：
+- 支持大多数视频和音频格式的无损剪切
+- 快速多文件工作流程和键盘快捷键操作
+- 支持自定义时间段导出和编辑文件元数据
+- 提供黑场检测、静音检测、场景变化检测等实用工具&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;LosslessCut&lt;/code&gt; 可以在不同操作系统上运行，并提供各种可执行文件下载选择，是处理和编辑媒体文件的理想选择。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="lossless-cut" src="https://images-1252557999.file.myqcloud.com/uPic/lossless-cut.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Yu-Core/SwashbucklerDiary"&gt;SwashbucklerDiary&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;「侠客日记」是一个开源、跨平台的本地日记 APP，支持 Android、Windows、macOS 和 Web 等平台。其特点包括极简风格的 UI 设计、Markdown 即时渲染、隐私模式、标签分类展示、支持图片音视频、数学公式等多种格式，数据本地存储无需联网，并且支持多种格式文件导出及同一局域网下同步传输。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="SwashbucklerDiary" src="https://images-1252557999.file.myqcloud.com/uPic/SwashbucklerDiary.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/dortania/OpenCore-Legacy-Patcher"&gt;OpenCore-Legacy-Patcher&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;旨在为不受苹果支持的 &lt;code&gt;Mac&lt;/code&gt; 提供 &lt;code&gt;macOS Big Sur&lt;/code&gt; 等更新版本的安装和使用，让你的旧 Mac 电脑可以体验最新的 macOS 系统：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="OpenCore-Legacy-Patcher" src="https://images-1252557999.file.myqcloud.com/uPic/OpenCore-Legacy-Patcher.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://udlbook.github.io/udlbook/"&gt;udlbook&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;麻省理工出品的免费电子书《理解深度学习》：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="udlbook" src="https://images-1252557999.file.myqcloud.com/uPic/udlbook.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/javayhu/haitang"&gt;haitang&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;海棠诗社，提供古诗词的数字化收集，可以按照不同方式检索和分类，项目代码完全&lt;a href="https://github.com/javayhu/haitang"&gt;开源&lt;/a&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="haitang" src="https://images-1252557999.file.myqcloud.com/uPic/haitang.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://oss.gallery/"&gt;oss.gallery&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;OSS Gallery&lt;/code&gt; 提供了一个展示和探索各种领域最佳开源项目的窗口。用户可以通过这个平台，获取到开源社区中值得关注的项目，这些项目涵盖了从软件开发、数据科学到设计等多个领域。平台的目的是为开源项目提供更多的曝光机会，同时也为开发者和用户提供一个学习和交流的场所。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="oss_gallery" src="https://images-1252557999.file.myqcloud.com/uPic/oss_gallery.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.freeaihunter.com/"&gt;免费 LLM API 调用限制汇总&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个可以免费使用的大模型 API 合集网站：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="freeaihunter" src="https://images-1252557999.file.myqcloud.com/uPic/ixNx89.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">07-01~07-07.老胡的周刊（第149期）.md</guid>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>06-24~06-30.老胡的周刊（第148期）.md</title>
       <link>https://weekly.howie6879.com/2024/06-24~06-30.老胡的周刊（第148期）.html</link>
@@ -1337,72 +1410,6 @@ sudo xattr -cr  /Applications/Loop.app&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">02-19~02-25.老胡的周刊（第130期）.md</guid>
       <pubDate>Sun, 25 Feb 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>02-12~02-18.老胡的周刊（第129期）.md</title>
-      <link>https://weekly.howie6879.com/2024/02-12~02-18.老胡的周刊（第129期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/02-12~02-18.老胡的周刊（第129期）.html"&gt;02-12~02-18.老胡的周刊（第129期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/RVC-Boss/GPT-SoVITS"&gt;GPT-SoVITS&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;强大的少样本语音转换与语音合成Web用户界面，低成本 AI 语音克隆项目，感兴趣可以查看介绍&lt;a href="https://www.bilibili.com/video/BV12g4y1m7Uw/"&gt;视频&lt;/a&gt; 。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="GPT-SoVITS" src="https://images-1252557999.file.myqcloud.com/uPic/GPT-SoVITS.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/ellite/Wallos/"&gt;Wallos&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Wallos&lt;/code&gt; 是一个强大的、开源的、自托管的 Web 应用程序，旨在让你轻松地管理你的财务。向复杂的电子表格和昂贵的财务软件说再见吧—— Wallos 简化了跟踪支出的过程，帮助你更好地控制自己的财务生活。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Wallos" src="https://images-1252557999.file.myqcloud.com/uPic/Wallos.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Linux-CN/archive/releases/tag/release"&gt;Linux-CN-archive&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Linux&lt;/code&gt; 中国所有原创文章的 &lt;code&gt;Markdown&lt;/code&gt; 内容备份:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="linux_cn_archive" src="https://images-1252557999.file.myqcloud.com/uPic/linux_cn_archive.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/zhongyang219/TrafficMonitor"&gt;TrafficMonitor&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个用于显示当前网速、CPU及内存利用率的 Windows 桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="TrafficMonitor" src="https://images-1252557999.file.myqcloud.com/uPic/TrafficMonitor.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://www.mowglii.com/itsycal/"&gt;Itsycal&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一款简单优雅的 Macos 菜单栏日历：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="itsycal" src="https://images-1252557999.file.myqcloud.com/uPic/itsycal.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/putyy/res-downloader"&gt;res-downloader&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!&lt;/p&gt;
-&lt;p&gt;&lt;img alt="res-downloader" src="https://images-1252557999.file.myqcloud.com/uPic/res-downloader.jpeg" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/datawhalechina/llm-universe"&gt;llm-universe&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;大模型简介，何为大模型、大模型特点是什么、LangChain 是什么，针对小白开发者的简单介绍；&lt;/li&gt;
-&lt;li&gt;如何调用大模型 API，本节介绍了国内外知名大模型产品 API 的多种调用方式，包括调用原生 API、封装为 LangChain LLM、封装为 Fastapi 等调用方式，同时将包括百度文心、讯飞星火、智谱AI等多种大模型 API 进行了统一形式封装；&lt;/li&gt;
-&lt;li&gt;大模型开发流程及架构，大模型应用开发的基本流程、一般思想和本项目的架构分析；&lt;/li&gt;
-&lt;li&gt;数据库搭建，不同类型知识库文档的加载、处理，向量数据库的搭建；&lt;/li&gt;
-&lt;li&gt;Prompt 设计，如何设计 Prompt 来让大模型完成特定任务，Prompt Engineering 的原则和技巧有哪些；&lt;/li&gt;
-&lt;li&gt;验证迭代，大模型开发如何实现验证迭代，一般的评估方法有什么；&lt;/li&gt;
-&lt;li&gt;前后端开发，如何使用 Gradio、FastAPI 等框架快速开发大模型 Demo，展示应用能力。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="llm-universe" src="https://images-1252557999.file.myqcloud.com/uPic/llm-universe.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://www.coze.cn/"&gt;coze&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;扣子为你提供了一站式 AI 开发平台，无需编程，你的创新理念都能迅速化身为下一代的 AI 应用，字节跳动此前是在海外推出 &lt;a href="https://www.coze.com/"&gt;Coze&lt;/a&gt;，国内扣子与其分开运营：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="coze" src="https://images-1252557999.file.myqcloud.com/uPic/coze.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/tonyljx/running-leetcode"&gt;RunningCode&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个算法小工具网站，收录了面试最高频的算法题~ 可以按【题目类型】，【题目出处】，以及【难易程度】去索引，帮助一刷，二刷的同学快速准备算法题。数据都是基于公开数据人工整理 + GPT 进行打标签。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="running-leetcode" src="https://images-1252557999.file.myqcloud.com/uPic/running-leetcode.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://searchemoji.app/"&gt;SearchEmoji&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Emoji&lt;/code&gt; 表情搜索网站，点击即可复制，颜值也不错海开源：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="searchemoji" src="https://images-1252557999.file.myqcloud.com/uPic/searchemoji.jpeg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://www.miao3.cn/"&gt;喵闪字库&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;喵闪字库是一个专业的字体下载网站，收集并分享优秀的免费商用字体、免版权字体，提供所有字体的在线预览和免费字体下载服务。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="miao3" src="https://images-1252557999.file.myqcloud.com/uPic/miao3.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">02-12~02-18.老胡的周刊（第129期）.md</guid>
-      <pubDate>Sun, 18 Feb 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
