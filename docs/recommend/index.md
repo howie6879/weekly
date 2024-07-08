@@ -5,113 +5,122 @@
 
 ## 🎯 项目 
 
-### [Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)
+### [llama3](https://github.com/meta-llama/llama3)
 
-该扩展程序允许您阅读实施付费墙的（支持的）网站上的文章。您还可以将域名添加为自定义网站，并尝试绕过付费墙。类似之前推荐过的：
+Meta 正式发布开源大模型 `Llama 3` ，其提供两个版本：`8B` 版本适合在消费级 `GPU` 上高效部署和开发；`70B` 版本则专为大规模 `AI` 应用设计。每个版本都包括基础和指令调优两种形式。此外，基于 `Llama 3 8B` 微调后的 `Llama Guard` 新版本也已作为 `Llama Guard 2`（安全微调版本）发布：
 
-- https://github.com/everywall/ladder
-- https://12ft.io/
-- https://1ft.io/ 
+![hc_llama3](https://images-1252557999.file.myqcloud.com/uPic/hc_llama3.jpg)
 
-### [nginx-ui](https://github.com/0xJacky/nginx-ui)
+你可以在 [Hugging Chat](https://huggingface.co/chat) 上面体验，其他相关优秀的衍生开源项目老胡顺便做了个整理：
 
-Nginx 后台管理UI：
+- [llama](https://github.com/meta-llama/llama)|[llama.cpp](https://github.com/ggerganov/llama.cpp)|[llamafile](https://github.com/Mozilla-Ocho/llamafile)|[codellama](https://github.com/meta-llama/codellama)|[llm-course](https://github.com/mlabonne/llm-course)
+- 问答系统：
+	- [FastGPT](https://github.com/labring/FastGPT)
+	- [anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+	- [MaxKB](https://github.com/1Panel-dev/MaxKB)
+	- [quivr](https://github.com/QuivrHQ/quivr)
+	- [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
+	- [QAnything](https://github.com/netease-youdao/QAnything)
+	- [private-gpt](https://github.com/zylon-ai/private-gpt)
+	- [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine)
+- WebUI：
+	- [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
+	- [lobe-chat](https://github.com/lobehub/lobe-chat)
+	- [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
+	- [open-webui](https://github.com/open-webui/open-webui)
+	- [chat-ollama](https://github.com/sugarforever/chat-ollama)
+	- [chat-ui](https://github.com/huggingface/chat-ui)
+	- [aichat](https://github.com/sigoden/aichat)
+	- [open-webui2](https://github.com/open-webui/open-webui)
+	- [LocalAI](https://github.com/mudler/LocalAI)
+- APP：[LM Studio](https://lmstudio.ai/)|[jan](https://github.com/janhq/jan)||[ollama](https://github.com/ollama/ollama)|[chatbox](https://github.com/Bin-Huang/chatbox)
+- 应用开发：
+	- [langchain](https://github.com/langchain-ai/langchain)：为AI开发者提供工具，将语言模型与外部数据源连接起来，辅助构建 AI 应用程序
+	- [MetaGPT](https://github.com/geekan/MetaGPT)：Multi-Agent 框架
+	- [Dify](https://docs.dify.ai/)：开源的大语言模型(LLM) 应用开发平台
+	- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)：让大模型微调更简单
+	- [Flowise](https://github.com/FlowiseAI/Flowise)：轻松构建 LLM 应用程序
+	- [llm-app](https://github.com/pathwaycom/llm-app)：30 行代码构建你的 LLM 应用程序
+- [LLM Leaderboard](https://www.vellum.ai/llm-leaderboard)：各大主流 LLMs 评比 
 
-- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
-- 在线 ChatGPT 助理
-- 一键申请和自动续签 Lets encrypt 证书
-- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
-- 在线查看 Nginx 日志
-- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
-- 保存配置后自动测试配置文件并重载 Nginx
-- 基于网页浏览器的高级命令行终端
-- 支持深色模式
-- 自适应网页设计
+### [eagleuse](https://github.com/meetqy/eagleuse)
 
-![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
+**@meetqy** 自荐项目，把  `Eagle App` 打造成本地后台管理系统，快速构建 `WEB` 图片站：
 
-### [czkawka](https://github.com/qarmin/czkawka)
+![eagleuse](https://images-1252557999.file.myqcloud.com/uPic/eagleuse.jpg) 
 
-一款简单、快速和免费的开源跨平台应用程序，可以从您的计算机中删除不必要的文件。
+### [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)
 
-支持扫描计算机上重复、空文件夹、大文件、相似图像/视频/音乐、无效/损坏文件等内容，扫描速度极快。
+基于 `Docker` 的 `Web PDF` 操作工具，允许您对 `PDF` 文件执行各种操作，如拆分、合并、转换、重新组织、添加图像、旋转、压缩等：
 
-![czkawka](https://images-1252557999.file.myqcloud.com/uPic/czkawka.jpg) 
+![Stirling-PDF](https://images-1252557999.file.myqcloud.com/uPic/Stirling-PDF.png) 
 
 ## 🤖 软件 
 
-### [flybird-m3u8downloader](https://github.com/youwen21/flybird-m3u8downloader)
+### [hetty](https://github.com/dstotijn/hetty)
 
-@youwen21 投稿，飞鸟 `m3u8` 视频下载器是一款 `m3u8` 下载工具，支持 Windows, MacOS双系统，包含功能有：
+`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
 
-- m3u8 和直播录制和点播下载
-- IPTV 播放与自定义源管理
+![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
 
-![m3u8downloader](https://images-1252557999.file.myqcloud.com/uPic/m3u8downloader.png) 
+### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 
-### [mCollection](https://github.com/hunmer/mCollection)
+适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
 
-🎉开源，可扩展，可自定义的素材管理库：
+- **免费**：本项目所有代码开源，完全免费。
+- **方便**：解压即用，无需安装。不需要网络。
+- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
+- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
 
--  sqlite3存储结构，允许自定义关联表
--  没有限制的扩展插件，事件广播多
--  模块化设计，各个功能互不干扰
--  标签页设计，切换更便捷
--  内置全局呼出搜索
--  代码热更新
--  前后端分离，支持部署私人素材库
+![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
 
-![mCollection](https://images-1252557999.file.myqcloud.com/uPic/mCollection.png) 
+### [macGPT](https://github.com/hellokuls/macGPT)
 
-### [staxrip](https://github.com/staxrip/staxrip)
+一款 `ChatGPT for Mac` 原生客户端：
 
-`StaxRip` 是一个强大的用于 `Windows` 的视频/音频编码图形用户界面。
-它执行和控制诸如 `x265、mkvmerge、ffmpeg` 等控制台应用程序，并使用基于脚本的帧服务器 A`viSynth+和VapourSynth` 进行视频处理。每个项目还可以通过各种事件和设置进行扩展：
-
-![staxrip](https://images-1252557999.file.myqcloud.com/uPic/staxrip.jpg) 
+![macGPT](https://images-1252557999.file.myqcloud.com/uPic/macGPT.png) 
 
 ## 👀 资料 
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+### [凤凰架构](https://github.com/fenixsoft/awesome-fenix)
 
-夯实计算机基础，该怎么学，这个项目给出了答案：
+这是一部以“**如何构建一套可靠的分布式大型软件系统**”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《[什么是凤凰架构](https://icyfenix.cn/introduction/about-the-fenix-project.html)》详细阐述了这部文档的主旨、目标与名字的来由，文章《[如何开始](https://icyfenix.cn/exploration/guide/quick-start.html)》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
 
-![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
+![icyfenix](https://images-1252557999.file.myqcloud.com/uPic/icyfenix.jpg) 
 
-### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
+### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
 
-这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
+陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
 
-之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.com/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
+![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
 
-### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
+### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
 
-机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
+重新分类 Leetcode 高频题 2021 版
 
-![openmlsys](https://images-1252557999.file.myqcloud.com/uPic/openmlsys.jpg) 
+- 题目按照面试频率降序排列
+- 增加难度分类，适合从简单开始学习
+- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
 
 ## 🕸 网站 
 
-### [短剧搜索引擎](https://www.fre123.com/sp?ref=weekly)
+### [chuhai.tools](https://chuhai.tools/)
 
-比较全面的短剧搜索引擎，数据在夸克网盘，转存即可免费观看全部：
+独立开发者出海技术栈和工具集合:
 
-![sp](https://images-1252557999.file.myqcloud.com/uPic/sp.jpg) 
+![chuhai](https://images-1252557999.file.myqcloud.com/uPic/chuhai.jpg) 
 
-### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
+### [pixian.ai](https://pixian.ai/)
 
-一个搜索 git 常用 emoji 的网站:
+免登录图片背景消除网页，2023-07-21 当前属于测试期间，是免费的：
 
-![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
+![pixian](https://images-1252557999.file.myqcloud.com/uPic/pixian.jpg) 
 
-### [ugly-avatar](https://txstc55.github.io/ugly-avatar/ "ugly-avatar")
+### [web-check](https://web-check.xyz/)
 
-挺有意思的项目，专门生成丑丑贱贱的头像：
+输入目标网址，分析该网站各项 `web` 检查信息，非常详细：
 
-- 网站：https://txstc55.github.io/ugly-avatar/
-- GitHub：https://github.com/txstc55/ugly-avatar
-
-![ugly-avatar](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-03-26_22-03-17.jpg) 
+![web-check](https://images-1252557999.file.myqcloud.com/uPic/web-check.jpg) 
 
 ## ✍️ 说明
 
