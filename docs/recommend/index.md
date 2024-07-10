@@ -5,87 +5,104 @@
 
 ## 🎯 项目 
 
-### [greppo](https://github.com/greppo-io/greppo)
+### [showdoc](https://github.com/star7th/showdoc)
 
-快速轻松地构建部署地理空间应用程序：
+一个非常适合IT团队的在线API文档、技术文档工具:
 
-![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
+![showdoc](https://images-1252557999.file.myqcloud.com/uPic/showdoc.jpg) 
 
-### [fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
+### [notion-blog](https://github.com/ijjk/notion-blog)
 
-微软开源的 `Fluent Emoji` 表情包：
+基于 `Notion` 构建静态站点：
 
-![fluentui-emoji](https://images-1252557999.file.myqcloud.com/uPic/fluentui-emoji.webp) 
+![notion-blog](https://images-1252557999.file.myqcloud.com/uPic/notion-blog.jpg) 
 
-### [openui](https://github.com/wandb/openui)
+### [sqliteviz](https://github.com/lana-k/sqliteviz)
 
-将你脑中的页面通过文本描述来自动实时生成，非常方便，但是实用性具体如何还需要探索，期待这个项目持续迭代：
+`sqliteviz` 是一款功能强大且易于使用的离线数据可视化工具，具有易于使用、性能出色的特点，非常适合数据分析人员、学生和开发人员使用。
 
-![openui](https://images-1252557999.file.myqcloud.com/uPic/openui.jpg)
+在线体验地址：[https://sqliteviz.com/app](https://sqliteviz.com/app)
 
-它甚至可以帮助你将HTML转换成 `React、Svelte or Web Components` 等格式。 
+![sqliteviz](https://images-1252557999.file.myqcloud.com/uPic/sqliteviz.jpg) 
 
 ## 🤖 软件 
 
-### [natpass](https://github.com/lwch/natpass)
+### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
 
-新一代 NAT 内网穿透+shell+vnc 工具：
+类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
 
-![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
+![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
 
-### [eaio](https://github.com/WankkoRee/eaio)
+### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 
-一个通过将磁盘上所有 `Electron` 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 `pnpm` 一样:
+这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
 
-![eaio](https://images-1252557999.file.myqcloud.com/uPic/eaio.png) 
+`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
 
-### [feed-flow](https://github.com/prof18/feed-flow)
+- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
+  
+- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
+  
 
-`FeedFlow` 是一款极简主义的 `RSS` 阅读器，可在 `Android、iOS&macOS`上使用：
+![neteasy](https://images-1252557999.file.myqcloud.com/uPic/neteasy.png) 
 
-![feedflow](https://images-1252557999.file.myqcloud.com/uPic/feedflow.jpg) 
+### [V2EX_Polish](https://github.com/coolpace/V2EX_Polish)
+
+专业的 V2EX 浏览器扩展，集合了众多实用功能，重塑你的浏览体验！
+
+- 🪄 界面美化：UI 设计更现代化，为你带来愉悦的视觉体验。
+- 📥 评论回复嵌套层级：主题下的评论回复支持层级展示，可以更轻松地跟踪和回复其他用户的评论。
+- 🔥 热门回复展示：自动筛选出最受欢迎的回复，第一时间追上热评。
+- 😀 表情回复支持：评论输入框可以选择表情，让回复更加生动和有趣。
+- 📃 长回复优化：智能折叠长篇回复，一键展开查看完整内容。
+- 📰 内置主题列表：无需打开网页，插件内即可快速获取最热、最新的主题列表和消息通知。
+
+![v2p](https://images-1252557999.file.myqcloud.com/uPic/v2p.png) 
 
 ## 👀 资料 
 
-### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
+### [sideproject](https://sideproject.guide/)
 
-Kubernetes 中文指南/云原生应用架构实战手册：
+`Side Project` 指南：
 
-![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
 
-### [llm-action](https://github.com/liguodongiot/llm-action)
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
 
-本项目旨在分享大模型相关技术原理以及实战经验，让天下没有难学的大模型：
+### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
 
-![llm-action](https://images-1252557999.file.myqcloud.com/uPic/llm-action.png) 
+作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
 
-### [missing-semester-cn](https://missing-semester-cn.github.io/)
+![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
 
-计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
+### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
 
-在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
+《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 
-![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
+![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
 
 ## 🕸 网站 
 
-### [yalijuda](https://www.yalijuda.com)
+### [央视纪实](https://jishi.cctv.com/)
 
-简单快捷的图片压缩体验，多种压缩模式可选，压缩图片清晰无锯齿：
+央视官方纪录片大全，全部免费观看：
 
-![www.yalijuda.com_yalijuda_sq0onjIiVg](https://images-1252557999.file.myqcloud.com/uPic/www.yalijuda.com_yalijuda_sq0onjIiVg.jpg) 
+![657d173347944](https://img.fre123.com/i/2023/12/16/657d173347944.png) 
 
-### [ossinsight](https://ossinsight.io/)
+### [kkdaxue](https://www.kkdaxue.com/)
 
-`GitHub` 曾经发通知说在未来某个时间下架 `GitHub Trending`，由于反对声音比较大，所以还保留着 [ossinsight.io](https://ossinsight.io/) 就是做的比较好的替代品：
+高考志愿网站，发现各专业前辈们的学习建议：
 
-![ossinsight](https://images-1252557999.file.myqcloud.com/uPic/ossinsight.jpg) 
+![kkdaxue](https://images-1252557999.file.myqcloud.com/uPic/kkdaxue.jpg) 
 
-### [http.cat](https://http.cat)
+### [gemini-pro.chat](https://gemini-pro.chat/) 
 
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
+免费的谷歌 `Gemini Chat Pro`，在线网站：
 
-![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
+![gemini-pro.chat](https://images-1252557999.file.myqcloud.com/uPic/gemini-pro.chat.jpg) 
 
 ## ✍️ 说明
 
