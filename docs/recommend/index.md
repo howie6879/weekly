@@ -5,104 +5,117 @@
 
 ## 🎯 项目 
 
-### [showdoc](https://github.com/star7th/showdoc)
+### [FastGPT](https://github.com/labring/FastGPT)
 
-一个非常适合IT团队的在线API文档、技术文档工具:
+`FastGPT` 是一个基于 `LLM` 大语言模型的知识库问答系统，提供开箱即用的数据处理、模型调用等能力。同时可以通过 `Flow` 可视化进行工作流编排，从而实现复杂的问答场景：
 
-![showdoc](https://images-1252557999.file.myqcloud.com/uPic/showdoc.jpg) 
+![FastGPT](https://images-1252557999.file.myqcloud.com/uPic/FastGPT.jpg) 
 
-### [notion-blog](https://github.com/ijjk/notion-blog)
+### [Kavita](https://github.com/Kareadita/Kavita)
 
-基于 `Notion` 构建静态站点：
+Kavita 是一款快速、功能丰富、跨平台的阅读服务器，专为漫画爱好者设计。它旨在成为满足你所有阅读需求的全面解决方案。
 
-![notion-blog](https://images-1252557999.file.myqcloud.com/uPic/notion-blog.jpg) 
+有了 Kavita，你可以：
 
-### [sqliteviz](https://github.com/lana-k/sqliteviz)
+- 支持 Manga/Webtoons/Comics 等丰富源
+- 针对各种设备上给你一流的阅读使用体验，夜间模式等
+- 丰富的元数据支持，包括过滤和搜索功能
+- 多语言支持
+- ...
 
-`sqliteviz` 是一款功能强大且易于使用的离线数据可视化工具，具有易于使用、性能出色的特点，非常适合数据分析人员、学生和开发人员使用。
+![Kavita](https://images-1252557999.file.myqcloud.com/uPic/Kavita.jpg) 
 
-在线体验地址：[https://sqliteviz.com/app](https://sqliteviz.com/app)
+### [talebook](https://github.com/talebook/talebook)
 
-![sqliteviz](https://images-1252557999.file.myqcloud.com/uPic/sqliteviz.jpg) 
+这是一个基于Calibre的简单的个人图书管理系统，支持在线阅读。主要特点是：
+
+- 美观的界面：由于Calibre自带的网页太丑太难用，于是基于Vue，独立编写了新的界面，支持PC访问和手机浏览；
+- 支持多用户：为了网友们更方便使用，开发了多用户功能，支持豆瓣（已废弃）、QQ、微博、Github等社交网站的登录；
+- 支持在线阅读：借助Readium.js 库，支持了网页在线阅读电子书；
+- 支持批量扫描导入书籍；
+- 支持邮件推送：可方便推送到Kindle；
+- 支持OPDS：可使用KyBooks等APP方便地读书；
+- 支持一键安装，网页版初始化配置，轻松启动网站；
+- 优化大书库时文件存放路径，可以按字母分类、或者文件名保持中文；
+- 支持快捷更新书籍信息：支持从百度百科、豆瓣搜索并导入书籍基础信息；
+- 支持私人模式：需要输入访问码，才能进入网站，便于小圈子分享网站；
+
+![talebook](https://images-1252557999.file.myqcloud.com/uPic/VmLmag.png) 
 
 ## 🤖 软件 
 
-### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
+### [kopia](https://github.com/kopia/kopia)
 
-类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
+跨平台备份/还原工具，它能够将指定的文件和目录加密压缩后生成快照，然后上传到远程服务器或云存储，实现远程备份数据的功能，开箱即用支持命令行和 `GUI` 两种使用方式：
 
-![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
+![kopia](https://images-1252557999.file.myqcloud.com/uPic/kopia.webp) 
 
-### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
+### [Easydict](https://github.com/tisfeng/Easydict)
 
-这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
+`Easydict` 是一个简洁易用的词典翻译 `macOS App`，能够轻松优雅地查找单词或翻译文本。`Easydict` 开箱即用，能自动识别输入文本语言，支持输入翻译，划词翻译和 `OCR` 截图翻译，可同时查询多个翻译服务结果，目前支持有道词典，🍎苹果系统翻译，`DeepL`，谷歌，百度和火山翻译。
 
-`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
+![Easydict](https://images-1252557999.file.myqcloud.com/uPic/Easydict.jpg)
 
-- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
-  
-- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
-  
+可以看到这个软件是老胡之前推荐的 [Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#upic)，当然现在已经收费（老胡觉得不错已经付费支持），因为这个原因，开源界还出现了以下替代品：
 
-![neteasy](https://images-1252557999.file.myqcloud.com/uPic/neteasy.png) 
+- [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=bob#pot-desktop)：🌈 一个跨平台的划词翻译软件
+- [TTime](https://weekly.howie6879.com/2023/06-12~06-17.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC095%E6%9C%9F%EF%BC%89.html?h=bob#ttime)：🚀 一款简洁高效的输入、截图、划词翻译软件
 
-### [V2EX_Polish](https://github.com/coolpace/V2EX_Polish)
+对于浏览器双语翻译插件，还推荐以下项目：
 
-专业的 V2EX 浏览器扩展，集合了众多实用功能，重塑你的浏览体验！
+- [kiss-translator](https://github.com/fishjar/kiss-translator)：一个简约的 双语网页翻译扩展 & 油猴脚本
+- [openai-translator](https://github.com/openai-translator/openai-translator)：基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用 
 
-- 🪄 界面美化：UI 设计更现代化，为你带来愉悦的视觉体验。
-- 📥 评论回复嵌套层级：主题下的评论回复支持层级展示，可以更轻松地跟踪和回复其他用户的评论。
-- 🔥 热门回复展示：自动筛选出最受欢迎的回复，第一时间追上热评。
-- 😀 表情回复支持：评论输入框可以选择表情，让回复更加生动和有趣。
-- 📃 长回复优化：智能折叠长篇回复，一键展开查看完整内容。
-- 📰 内置主题列表：无需打开网页，插件内即可快速获取最热、最新的主题列表和消息通知。
+### [yanhuo](https://eigenmiao.com/yanhuo)
 
-![v2p](https://images-1252557999.file.myqcloud.com/uPic/v2p.png) 
+焰火十二卷是一款免费开源的跨平台调色板软件。它提供了多种功能来生成一组调和色彩，可以为你提供更好的色彩搭配方案。你可以通过色轮选取、图像拾色等方式轻松获得想要的色彩组合。你可以将这些色彩应用到自己的创作，或者分享给他人。
+
+![yanhuo](https://images-1252557999.file.myqcloud.com/uPic/yanhuo.jpg) 
 
 ## 👀 资料 
 
-### [sideproject](https://sideproject.guide/)
+### [rosedb](https://github.com/flower-corp/rosedb)
 
-`Side Project` 指南：
+`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
 
-### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
+### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
 
-作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
+经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
 
-![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
+![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
 
-### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
+### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
 
-《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
+为初学者整理的免费 `CSS` 课程：
 
-![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
+![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
 
 ## 🕸 网站 
 
-### [央视纪实](https://jishi.cctv.com/)
+### [ugly-avatar](https://txstc55.github.io/ugly-avatar/ "ugly-avatar")
 
-央视官方纪录片大全，全部免费观看：
+挺有意思的项目，专门生成丑丑贱贱的头像：
 
-![657d173347944](https://img.fre123.com/i/2023/12/16/657d173347944.png) 
+- 网站：https://txstc55.github.io/ugly-avatar/
+- GitHub：https://github.com/txstc55/ugly-avatar
 
-### [kkdaxue](https://www.kkdaxue.com/)
+![ugly-avatar](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-03-26_22-03-17.jpg) 
 
-高考志愿网站，发现各专业前辈们的学习建议：
+### [phind.com](https://www.phind.com/)
 
-![kkdaxue](https://images-1252557999.file.myqcloud.com/uPic/kkdaxue.jpg) 
+面向开发者的人工智能搜索引擎：
 
-### [gemini-pro.chat](https://gemini-pro.chat/) 
+![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
 
-免费的谷歌 `Gemini Chat Pro`，在线网站：
+### [ailogo](https://ailogo.qq.com/)
 
-![gemini-pro.chat](https://images-1252557999.file.myqcloud.com/uPic/gemini-pro.chat.jpg) 
+`AI` 智能生成可商用的 `LOGO`：
+
+![ailogo](https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg) 
 
 ## ✍️ 说明
 
