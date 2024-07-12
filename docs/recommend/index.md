@@ -5,117 +5,95 @@
 
 ## 🎯 项目 
 
-### [FastGPT](https://github.com/labring/FastGPT)
+### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
 
-`FastGPT` 是一个基于 `LLM` 大语言模型的知识库问答系统，提供开箱即用的数据处理、模型调用等能力。同时可以通过 `Flow` 可视化进行工作流编排，从而实现复杂的问答场景：
+鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
 
-![FastGPT](https://images-1252557999.file.myqcloud.com/uPic/FastGPT.jpg) 
+![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
 
-### [Kavita](https://github.com/Kareadita/Kavita)
+### [h-m-m](https://github.com/nadrad/h-m-m)
 
-Kavita 是一款快速、功能丰富、跨平台的阅读服务器，专为漫画爱好者设计。它旨在成为满足你所有阅读需求的全面解决方案。
+简单、快速、以键盘为中心处理思维导图的终端工具：
 
-有了 Kavita，你可以：
+![h-m-m](https://images-1252557999.file.myqcloud.com/uPic/h-m-m.png) 
 
-- 支持 Manga/Webtoons/Comics 等丰富源
-- 针对各种设备上给你一流的阅读使用体验，夜间模式等
-- 丰富的元数据支持，包括过滤和搜索功能
-- 多语言支持
-- ...
+### [PPTist](https://github.com/pipipi-pikachu/PPTist)
 
-![Kavita](https://images-1252557999.file.myqcloud.com/uPic/Kavita.jpg) 
+基于 Vue3.x + TypeScript 的[在线演示文稿](https://pipipi-pikachu.github.io/PPTist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
 
-### [talebook](https://github.com/talebook/talebook)
-
-这是一个基于Calibre的简单的个人图书管理系统，支持在线阅读。主要特点是：
-
-- 美观的界面：由于Calibre自带的网页太丑太难用，于是基于Vue，独立编写了新的界面，支持PC访问和手机浏览；
-- 支持多用户：为了网友们更方便使用，开发了多用户功能，支持豆瓣（已废弃）、QQ、微博、Github等社交网站的登录；
-- 支持在线阅读：借助Readium.js 库，支持了网页在线阅读电子书；
-- 支持批量扫描导入书籍；
-- 支持邮件推送：可方便推送到Kindle；
-- 支持OPDS：可使用KyBooks等APP方便地读书；
-- 支持一键安装，网页版初始化配置，轻松启动网站；
-- 优化大书库时文件存放路径，可以按字母分类、或者文件名保持中文；
-- 支持快捷更新书籍信息：支持从百度百科、豆瓣搜索并导入书籍基础信息；
-- 支持私人模式：需要输入访问码，才能进入网站，便于小圈子分享网站；
-
-![talebook](https://images-1252557999.file.myqcloud.com/uPic/VmLmag.png) 
+![ppt-list](https://images-1252557999.file.myqcloud.com/uPic/ppt-list.jpg) 
 
 ## 🤖 软件 
 
-### [kopia](https://github.com/kopia/kopia)
+### [Mist](https://github.com/ninxsoft/Mist)
 
-跨平台备份/还原工具，它能够将指定的文件和目录加密压缩后生成快照，然后上传到远程服务器或云存储，实现远程备份数据的功能，开箱即用支持命令行和 `GUI` 两种使用方式：
+一个自动下载 `macOS` 固件/安装程序的 `Mac` 实用工具，`macOS` 安装程序超级工具：
 
-![kopia](https://images-1252557999.file.myqcloud.com/uPic/kopia.webp) 
+![Mist](https://images-1252557999.file.myqcloud.com/uPic/Mist.png) 
 
-### [Easydict](https://github.com/tisfeng/Easydict)
+### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
-`Easydict` 是一个简洁易用的词典翻译 `macOS App`，能够轻松优雅地查找单词或翻译文本。`Easydict` 开箱即用，能自动识别输入文本语言，支持输入翻译，划词翻译和 `OCR` 截图翻译，可同时查询多个翻译服务结果，目前支持有道词典，🍎苹果系统翻译，`DeepL`，谷歌，百度和火山翻译。
+针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
 
-![Easydict](https://images-1252557999.file.myqcloud.com/uPic/Easydict.jpg)
+![CodeEdit](https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png) 
 
-可以看到这个软件是老胡之前推荐的 [Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#upic)，当然现在已经收费（老胡觉得不错已经付费支持），因为这个原因，开源界还出现了以下替代品：
+### [box](https://github.com/liu673cn/box)
 
-- [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=bob#pot-desktop)：🌈 一个跨平台的划词翻译软件
-- [TTime](https://weekly.howie6879.com/2023/06-12~06-17.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC095%E6%9C%9F%EF%BC%89.html?h=bob#ttime)：🚀 一款简洁高效的输入、截图、划词翻译软件
+TVBox 开源版:
 
-对于浏览器双语翻译插件，还推荐以下项目：
+- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
+- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
+- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
+- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
+- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
+- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
+- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
+- 配置地址---输入站源---确定即可 URL站源规则
 
-- [kiss-translator](https://github.com/fishjar/kiss-translator)：一个简约的 双语网页翻译扩展 & 油猴脚本
-- [openai-translator](https://github.com/openai-translator/openai-translator)：基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用 
-
-### [yanhuo](https://eigenmiao.com/yanhuo)
-
-焰火十二卷是一款免费开源的跨平台调色板软件。它提供了多种功能来生成一组调和色彩，可以为你提供更好的色彩搭配方案。你可以通过色轮选取、图像拾色等方式轻松获得想要的色彩组合。你可以将这些色彩应用到自己的创作，或者分享给他人。
-
-![yanhuo](https://images-1252557999.file.myqcloud.com/uPic/yanhuo.jpg) 
+![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
 
 ## 👀 资料 
 
-### [rosedb](https://github.com/flower-corp/rosedb)
+### [eloquentjavascript](https://eloquentjavascript.net/)
 
-`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
+作者是 `Marijn Haverbeke`，世界级 `JavaScript` 程序员，本书免费开源，中英文评分都很高，学起来吧：
 
-![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
+![eloquentjavascript](https://images-1252557999.file.myqcloud.com/uPic/eloquentjavascript.jpg) 
 
-作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
+### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 
-### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
 
-经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
 
-![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
+### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
 
-### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
+《TCP/IP网络编程》(韩-尹圣雨)学习笔记
 
-为初学者整理的免费 `CSS` 课程：
-
-![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
+![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
 
 ## 🕸 网站 
 
-### [ugly-avatar](https://txstc55.github.io/ugly-avatar/ "ugly-avatar")
+### [svgl.app](https://svgl.app/)
 
-挺有意思的项目，专门生成丑丑贱贱的头像：
+漂亮的 `SVG` 图标库，使用 `Sveltekit` 和 `Tailwind CSS` 构建：
 
-- 网站：https://txstc55.github.io/ugly-avatar/
-- GitHub：https://github.com/txstc55/ugly-avatar
+- 官网：https://svgl.app/
+- 开源：[pheralb/svgl](https://github.com/pheralb/svgl)
 
-![ugly-avatar](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-03-26_22-03-17.jpg) 
+![svgl](https://images-1252557999.file.myqcloud.com/uPic/svgl.jpg) 
 
-### [phind.com](https://www.phind.com/)
+### [识典古籍](https://www.shidianguji.com/)
 
-面向开发者的人工智能搜索引擎：
+识典古籍 – 古籍在线阅读平台，北大和抖音合作开发的古籍阅读网站：
 
-![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
+![shidianguji](https://images-1252557999.file.myqcloud.com/uPic/shidianguji.jpg) 
 
-### [ailogo](https://ailogo.qq.com/)
+### [dll-files](https://cn.dll-files.com/)
 
-`AI` 智能生成可商用的 `LOGO`：
+最近一些工作在 Windows 系统上完成，有一些软件总是提示：无法找到xxxx.dll文件...，这个网站很好地解决了我的问题：
 
-![ailogo](https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg) 
+![dll-files](https://images-1252557999.file.myqcloud.com/uPic/dll-files.jpg) 
 
 ## ✍️ 说明
 
