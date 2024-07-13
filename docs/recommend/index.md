@@ -5,89 +5,97 @@
 
 ## 🎯 项目 
 
-### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
+### [dockge](https://github.com/louislam/dockge)
 
-鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
+简单易用且漂亮的 `Docker Compose` 管理工具，`Docker` 部署，全平台支持：
 
-![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
+![dockge](https://images-1252557999.file.myqcloud.com/uPic/dockge.jpg)
 
-### [h-m-m](https://github.com/nadrad/h-m-m)
+`Portainer` 也是不错的选择。 
 
-简单、快速、以键盘为中心处理思维导图的终端工具：
+### [logto](https://github.com/logto-io/logto)
 
-![h-m-m](https://images-1252557999.file.myqcloud.com/uPic/h-m-m.png) 
+`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
 
-### [PPTist](https://github.com/pipipi-pikachu/PPTist)
+核心功能：
 
-基于 Vue3.x + TypeScript 的[在线演示文稿](https://pipipi-pikachu.github.io/PPTist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
+- 一个基于 `OIDC` 的身份服务
+- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
+- 动态短信/邮件验证码登录/注册
+- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
+- 基于 web 的图形化管理控制台
+- 可扩展的多语言支持
 
-![ppt-list](https://images-1252557999.file.myqcloud.com/uPic/ppt-list.jpg) 
+![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
+
+### [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo "MoneyPrinterTurbo")
+
+只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频：
+
+![MoneyPrinterTurbo](https://images-1252557999.file.myqcloud.com/uPic/MoneyPrinterTurbo.jpeg) 
 
 ## 🤖 软件 
 
-### [Mist](https://github.com/ninxsoft/Mist)
+### [Sequel-Ace](https://sequel-ace.com/)
 
-一个自动下载 `macOS` 固件/安装程序的 `Mac` 实用工具，`macOS` 安装程序超级工具：
+原生的 `MySQL/MariaDB` 数据库管理软件：
 
-![Mist](https://images-1252557999.file.myqcloud.com/uPic/Mist.png) 
+![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
 
-### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+### [rubick](https://github.com/rubickCenter/rubick)
 
-针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
+基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
 
-![CodeEdit](https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png) 
+- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
+- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
+- 支持全局快捷键设置。
+- 支持剪贴板文件搜索。
+- 支持搜索本地安装的应用程序或偏好设置。
+- 支持MacOS。
+- 支持Windows。
+- 支持Linux。
 
-### [box](https://github.com/liu673cn/box)
+![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
 
-TVBox 开源版:
+### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
 
-- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
-- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
-- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
-- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
-- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
-- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
-- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
-- 配置地址---输入站源---确定即可 URL站源规则
+类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
 
-![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
+![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
 
 ## 👀 资料 
 
-### [eloquentjavascript](https://eloquentjavascript.net/)
+### [Getting Real](https://basecamp.com/gettingreal)
 
-作者是 `Marijn Haverbeke`，世界级 `JavaScript` 程序员，本书免费开源，中英文评分都很高，学起来吧：
+`Basecamp` 的在线电子书，关于通过更智能、更快、更简单的方式，构建  `web` 应用程序的教程：
 
-![eloquentjavascript](https://images-1252557999.file.myqcloud.com/uPic/eloquentjavascript.jpg) 
+![gettingreal](https://images-1252557999.file.myqcloud.com/uPic/gettingreal.jpg) 
 
-### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
 
-![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
+![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
 
-### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
+### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
 
-《TCP/IP网络编程》(韩-尹圣雨)学习笔记
+一本开源的专门讲解面试关键路径的书籍：
 
-![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
+![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
 
 ## 🕸 网站 
 
-### [svgl.app](https://svgl.app/)
+### [pixabay](https://pixabay.com/)
 
-漂亮的 `SVG` 图标库，使用 `Sveltekit` 和 `Tailwind CSS` 构建：
+`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
 
-- 官网：https://svgl.app/
-- 开源：[pheralb/svgl](https://github.com/pheralb/svgl)
+![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
 
-![svgl](https://images-1252557999.file.myqcloud.com/uPic/svgl.jpg) 
+### [hotkeycheatsheet](https://hotkeycheatsheet.com/zh)
 
-### [识典古籍](https://www.shidianguji.com/)
+常用软件的快捷键备忘录：
 
-识典古籍 – 古籍在线阅读平台，北大和抖音合作开发的古籍阅读网站：
-
-![shidianguji](https://images-1252557999.file.myqcloud.com/uPic/shidianguji.jpg) 
+![hotkeycheatsheet](https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg) 
 
 ### [dll-files](https://cn.dll-files.com/)
 
