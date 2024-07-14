@@ -3,6 +3,7 @@
     Description: 持久化周刊数据到数据库
     Changelog: all notable changes to this file will be documented
 """
+
 import os
 import re
 import sqlite3
@@ -99,7 +100,11 @@ def parse_md() -> list:
                         md_str = fp.read()
                     weekly_date = file.split(".")[0]
                     # 解析周刊号
-                    weekly_number = int(re.compile(r"第(.*?)期").search(md_str)[1])
+                    try:
+                        weekly_number = int(re.compile(r"第(.*?)期").search(md_str)[1])
+                    except Exception as e:
+                        print(f"解析周刊号{file}失败，原因：{e}")
+                        exit()
                     # 读取 🎯 项目 部分内容
                     repo_str = (
                         re.compile(r"## 🎯 项目(.*?)## 🤖 软件", flags=re.S)
