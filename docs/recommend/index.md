@@ -5,103 +5,87 @@
 
 ## 🎯 项目 
 
-### [dockge](https://github.com/louislam/dockge)
+### [restic](https://github.com/restic/restic)
 
-简单易用且漂亮的 `Docker Compose` 管理工具，`Docker` 部署，全平台支持：
+`Restic` 是一个快速、高效和安全的备份程序。它支持三个主要操作系统（Linux、macOS、Windows）和一些较小众的操作系统（FreeBSD、OpenBSD）
 
-![dockge](https://images-1252557999.file.myqcloud.com/uPic/dockge.jpg)
+![restic](https://images-1252557999.file.myqcloud.com/uPic/restic.jpg) 
 
-`Portainer` 也是不错的选择。 
+### [notion-avatar](https://github.com/Mayandev/notion-avatar)
 
-### [logto](https://github.com/logto-io/logto)
+如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
 
-`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
+![notion-avatar](https://images-1252557999.file.myqcloud.com/uPic/OrjQK2.jpg) 
 
-核心功能：
+### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
 
-- 一个基于 `OIDC` 的身份服务
-- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
-- 动态短信/邮件验证码登录/注册
-- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
-- 基于 web 的图形化管理控制台
-- 可扩展的多语言支持
+动漫、电视剧的自动更新及在线观看，项目介绍：
 
-![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
+- 聚合各种阿里云盘资源
+- 实现动漫、电视剧、电影的自动更新
+- 通过docker部署的Alist项目，实现影视的在线搜索及观看
 
-### [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo "MoneyPrinterTurbo")
-
-只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频：
-
-![MoneyPrinterTurbo](https://images-1252557999.file.myqcloud.com/uPic/MoneyPrinterTurbo.jpeg) 
+![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
 
 ## 🤖 软件 
 
-### [Sequel-Ace](https://sequel-ace.com/)
+### [BBLL](https://github.com/xiaye13579/BBLL)
 
-原生的 `MySQL/MariaDB` 数据库管理软件：
+一个第三方哔哩哔哩 `TV` 和 `Pad` 客户端，仅供学习与交流使用:
 
-![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
+![BBLL](https://images-1252557999.file.myqcloud.com/uPic/BBLL.jpeg) 
 
-### [rubick](https://github.com/rubickCenter/rubick)
+### [Codeium](https://codeium.com/)
 
-基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
+基于 `AI` 赋能的编码智能助手，自动补全代码，开发者的福音，对标 `GitHub Copilot`：
 
-- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
-- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
-- 支持全局快捷键设置。
-- 支持剪贴板文件搜索。
-- 支持搜索本地安装的应用程序或偏好设置。
-- 支持MacOS。
-- 支持Windows。
-- 支持Linux。
+![codeium](https://images-1252557999.file.myqcloud.com/uPic/codeium.jpg) 
 
-![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
+### [EpubPress](https://epub.press/)
 
-### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
+`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
 
-类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
-
-![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
+![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
 
 ## 👀 资料 
 
-### [Getting Real](https://basecamp.com/gettingreal)
+### [提示词 0-1入门](https://j1ohuigiiff.feishu.cn/wiki/RTVbwi6d9ivhyBka2rRcrNNgnye)
 
-`Basecamp` 的在线电子书，关于通过更智能、更快、更简单的方式，构建  `web` 应用程序的教程：
+提示词（Prompt）编写速成指南，教大家如何无痛写出一个贴合需求、达到商用级的 `Prompt` 。 
 
-![gettingreal](https://images-1252557999.file.myqcloud.com/uPic/gettingreal.jpg) 
+### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
 
-### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
+收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
 
-本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
+![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
 
-![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
+### RustBook
 
-### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
+一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
 
-一本开源的专门讲解面试关键路径的书籍：
-
-![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
+![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg) 
 
 ## 🕸 网站 
 
-### [pixabay](https://pixabay.com/)
+### [FindPng](https://www.findpng.com/)
 
-`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
+一个免费的由 `AI` 驱动的透明 `PNG` 图像生成器，输入关键词就可以生成透明的图像：
 
-![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
+![findpng](https://images-1252557999.file.myqcloud.com/uPic/findpng.jpg) 
 
-### [hotkeycheatsheet](https://hotkeycheatsheet.com/zh)
+### [removebg](https://www.remove.bg/zh)
 
-常用软件的快捷键备忘录：
+这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
 
-![hotkeycheatsheet](https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg) 
+![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
 
-### [dll-files](https://cn.dll-files.com/)
+### [it-tools](https://it-tools.tech/)
 
-最近一些工作在 Windows 系统上完成，有一些软件总是提示：无法找到xxxx.dll文件...，这个网站很好地解决了我的问题：
+面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
 
-![dll-files](https://images-1252557999.file.myqcloud.com/uPic/dll-files.jpg) 
+![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
+
+也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
 
 ## ✍️ 说明
 
