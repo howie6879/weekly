@@ -5,87 +5,109 @@
 
 ## 🎯 项目 
 
-### [restic](https://github.com/restic/restic)
+### [ns-emu-tools](https://github.com/triwinds/ns-emu-tools)
 
-`Restic` 是一个快速、高效和安全的备份程序。它支持三个主要操作系统（Linux、macOS、Windows）和一些较小众的操作系统（FreeBSD、OpenBSD）
+一个用于安装/更新 NS 模拟器的工具：
+- 支持安装 Yuzu EA/正式 版模拟器
+- 支持 Yuzu 版本检测及更新
+- 支持安装 Ryujinx Ava/正式/LDN 版模拟器
+- 支持 Ryujinx 版本检测及更新
+- 自动检测并安装 msvc 运行库
+- 支持安装及更新 NS 固件至模拟器
+- 支持固件版本检测
+- 管理模拟器密钥
+- Yuzu 金手指管理
+- aria2 多线程下载
 
-![restic](https://images-1252557999.file.myqcloud.com/uPic/restic.jpg) 
+关于模拟器项目：
+- [Yuzu](https://github.com/yuzu-emu/yuzu)  \- Yuzu 模拟器
+- [Ryujinx](https://github.com/Ryujinx/Ryujinx)  \- Ryujinx 模拟器
+- [hactool](https://github.com/SciresM/hactool)  \- NS 固件解析
+- [aria2](https://github.com/aria2/aria2)  \- aria2 下载器
 
-### [notion-avatar](https://github.com/Mayandev/notion-avatar)
+![Ryujinx](https://images-1252557999.file.myqcloud.com/uPic/Ryujinx.png) 
 
-如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
+### [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 
-![notion-avatar](https://images-1252557999.file.myqcloud.com/uPic/OrjQK2.jpg) 
+`ChatGPT` 中文调教指南，各种场景使用指南，学习怎么让它听你的话：
 
-### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
+![acpz](https://images-1252557999.file.myqcloud.com/uPic/acpz.jpg) 
 
-动漫、电视剧的自动更新及在线观看，项目介绍：
+### [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua)
 
-- 聚合各种阿里云盘资源
-- 实现动漫、电视剧、电影的自动更新
-- 通过docker部署的Alist项目，实现影视的在线搜索及观看
+中华新华字典数据库和 API 。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
 
-![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
+![chinese-xinhua](https://images-1252557999.file.myqcloud.com/uPic/pOd5nk.png) 
 
 ## 🤖 软件 
 
-### [BBLL](https://github.com/xiaye13579/BBLL)
+### [Vieb](https://vieb.dev/)
 
-一个第三方哔哩哔哩 `TV` 和 `Pad` 客户端，仅供学习与交流使用:
+开源免费的全平台（PC）`Vim`风格电子浏览器：
 
-![BBLL](https://images-1252557999.file.myqcloud.com/uPic/BBLL.jpeg) 
+![Vieb](https://images-1252557999.file.myqcloud.com/uPic/BqyWaK.png) 
 
-### [Codeium](https://codeium.com/)
+### [Plash](https://github.com/sindresorhus/Plash)
 
-基于 `AI` 赋能的编码智能助手，自动补全代码，开发者的福音，对标 `GitHub Copilot`：
+将网站变成 Mac 桌面壁纸，支持将多种网站设置为壁纸，这些网站并不局限于图片网站，还可以是新闻、气象等站点：
 
-![codeium](https://images-1252557999.file.myqcloud.com/uPic/codeium.jpg) 
+![Plash](https://images-1252557999.file.myqcloud.com/uPic/Plash.jpeg) 
 
-### [EpubPress](https://epub.press/)
+### [batnoter](https://github.com/batnoter/batnoter)
 
-`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
+一个基于 `Markdown` 的开源自托管笔记应用程序：
 
-![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
+- 使用GitHub登录。
+- 使用简洁而漂亮的界面轻松创建、编辑、删除、组织和探索笔记。
+- 支持Markdown格式，允许用户在笔记中添加超链接、表格、标题、代码块、引用等等。
+- 编辑器允许预览Markdown。
+- 使用剪贴板按钮从代码部分快速复制代码。
+- 直接将笔记存储在根目录中，或者使用文件夹对其进行组织（支持嵌套）。
+- 单击即可从特定目录中浏览所有笔记。
+- 所有笔记都存储在用户的GitHub存储库中。
+- 为避免额外的API调用，笔记被缓存。
+- 可将URL添加为书签。
+- 支持深色/浅色模式
+
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.jpg) 
 
 ## 👀 资料 
 
-### [提示词 0-1入门](https://j1ohuigiiff.feishu.cn/wiki/RTVbwi6d9ivhyBka2rRcrNNgnye)
+### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
-提示词（Prompt）编写速成指南，教大家如何无痛写出一个贴合需求、达到商用级的 `Prompt` 。 
+一个在YouTube上发现最新机器学习课程的项目。 
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
 
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+Kubernetes 中文指南/云原生应用架构实战手册：
 
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
 
-### RustBook
+### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
 
-一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
+带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
 
-![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg) 
+![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [FindPng](https://www.findpng.com/)
+### [tableconvert](https://tableconvert.com/)
 
-一个免费的由 `AI` 驱动的透明 `PNG` 图像生成器，输入关键词就可以生成透明的图像：
+`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
 
-![findpng](https://images-1252557999.file.myqcloud.com/uPic/findpng.jpg) 
+![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
 
-### [removebg](https://www.remove.bg/zh)
+### [screenshot](https://screenshot.rocks/)
 
-这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
+快速创建精美的移动和浏览器屏幕截图：
 
-![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
+![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
 
-### [it-tools](https://it-tools.tech/)
+### [AnyBT](https://anybt.eth.limo/)
 
-面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
+种子搜索引擎，下载你想要的资源：
 
-![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
-
-也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
+![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
 
 ## ✍️ 说明
 
