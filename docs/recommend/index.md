@@ -5,109 +5,96 @@
 
 ## 🎯 项目 
 
-### [ns-emu-tools](https://github.com/triwinds/ns-emu-tools)
+### [DweebUI](https://github.com/lllllllillllllillll/DweebUI)
 
-一个用于安装/更新 NS 模拟器的工具：
-- 支持安装 Yuzu EA/正式 版模拟器
-- 支持 Yuzu 版本检测及更新
-- 支持安装 Ryujinx Ava/正式/LDN 版模拟器
-- 支持 Ryujinx 版本检测及更新
-- 自动检测并安装 msvc 运行库
-- 支持安装及更新 NS 固件至模拟器
-- 支持固件版本检测
-- 管理模拟器密钥
-- Yuzu 金手指管理
-- aria2 多线程下载
+用于管理容器的免费开源 `WebUI`，颜值不错，但是功能还不大够，值得期待：
 
-关于模拟器项目：
-- [Yuzu](https://github.com/yuzu-emu/yuzu)  \- Yuzu 模拟器
-- [Ryujinx](https://github.com/Ryujinx/Ryujinx)  \- Ryujinx 模拟器
-- [hactool](https://github.com/SciresM/hactool)  \- NS 固件解析
-- [aria2](https://github.com/aria2/aria2)  \- aria2 下载器
+![DweebUI](https://images-1252557999.file.myqcloud.com/uPic/DweebUI.png) 
 
-![Ryujinx](https://images-1252557999.file.myqcloud.com/uPic/Ryujinx.png) 
+### [mdx-editor](https://github.com/maqi1520/mdx-editor)
 
-### [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
 
-`ChatGPT` 中文调教指南，各种场景使用指南，学习怎么让它听你的话：
+![mdx-editor](https://images-1252557999.file.myqcloud.com/uPic/mdx-editor.jpg) 
 
-![acpz](https://images-1252557999.file.myqcloud.com/uPic/acpz.jpg) 
+### [docker-wechat](https://github.com/huan/docker-wechat)
 
-### [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua)
+盒装微信，在linux下基于Docker技术使用微信客户端：
 
-中华新华字典数据库和 API 。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
-
-![chinese-xinhua](https://images-1252557999.file.myqcloud.com/uPic/pOd5nk.png) 
+![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
 
 ## 🤖 软件 
 
-### [Vieb](https://vieb.dev/)
+### [downkyicore](https://github.com/yaobiao131/downkyicore)
 
-开源免费的全平台（PC）`Vim`风格电子浏览器：
+哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
 
-![Vieb](https://images-1252557999.file.myqcloud.com/uPic/BqyWaK.png) 
+![downkyicore](https://images-1252557999.file.myqcloud.com/uPic/downkyicore.jpg) 
 
-### [Plash](https://github.com/sindresorhus/Plash)
+### [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager "ContextMenuManager")
 
-将网站变成 Mac 桌面壁纸，支持将多种网站设置为壁纸，这些网站并不局限于图片网站，还可以是新闻、气象等站点：
+纯粹的 `Windows` 右键菜单管理程序：
 
-![Plash](https://images-1252557999.file.myqcloud.com/uPic/Plash.jpeg) 
+- 启用或禁用文件、文件夹、新建、发送到、打开方式、自定义文件格式、IE 浏览器、WinX 等右键菜单项目
+- 对上述场景右键菜单项目进行修改名称、修改图标、导航注册表位置、导航文件位置、永久删除等操作
+- 对上述场景右键菜单自定义添加项目，自定义菜单命令
 
-### [batnoter](https://github.com/batnoter/batnoter)
+![ContextMenuManager](https://images-1252557999.file.myqcloud.com/uPic/ContextMenuManager.png) 
 
-一个基于 `Markdown` 的开源自托管笔记应用程序：
+### [Files](https://github.com/files-community/Files)
 
-- 使用GitHub登录。
-- 使用简洁而漂亮的界面轻松创建、编辑、删除、组织和探索笔记。
-- 支持Markdown格式，允许用户在笔记中添加超链接、表格、标题、代码块、引用等等。
-- 编辑器允许预览Markdown。
-- 使用剪贴板按钮从代码部分快速复制代码。
-- 直接将笔记存储在根目录中，或者使用文件夹对其进行组织（支持嵌套）。
-- 单击即可从特定目录中浏览所有笔记。
-- 所有笔记都存储在用户的GitHub存储库中。
-- 为避免额外的API调用，笔记被缓存。
-- 可将URL添加为书签。
-- 支持深色/浅色模式
+一个现代化的文件管理软件(Windows用户专属)：
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.jpg) 
+![files_windows](https://images-1252557999.file.myqcloud.com/uPic/files_windows.jpg) 
 
 ## 👀 资料 
 
-### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
 
-一个在YouTube上发现最新机器学习课程的项目。 
+读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
 
-### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
+![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
 
-Kubernetes 中文指南/云原生应用架构实战手册：
+### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
 
-![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
+`OpenAI` 出品的的深度强化学习教程：
 
-### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
+![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
 
-带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
+### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
 
-![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
+这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
+
+- 👋 入门
+- 💬 大语言模型
+	- 💡 提示工程
+	- 🔧 大语言模型实践
+	- 🔬 大语言模型理论
+- 🎨 AI绘画
+- 🔊 AI音频
+- 🌈 多模态
+- 🧠 深度学习
+- 💻 AI系统 
 
 ## 🕸 网站 
 
-### [tableconvert](https://tableconvert.com/)
+### [itnext](https://itnext.cn/)
 
-`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
+一个介绍元宇宙的网站：
 
-![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
+![itnext](https://images-1252557999.file.myqcloud.com/uPic/yc7Zhp.png) 
 
-### [screenshot](https://screenshot.rocks/)
+### [medisearch](https://medisearch.io/zh)
 
-快速创建精美的移动和浏览器屏幕截图：
+直接的科学为基础的医疗问答模型：
 
-![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
+![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
 
-### [AnyBT](https://anybt.eth.limo/)
+### [pdf.wps.cn](https://pdf.wps.cn/)
 
-种子搜索引擎，下载你想要的资源：
+金山出品的 PDF 免费工具集：
 
-![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
+![pdf_wps](https://images-1252557999.file.myqcloud.com/uPic/pdf_wps.jpg) 
 
 ## ✍️ 说明
 
