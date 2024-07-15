@@ -5,96 +5,94 @@
 
 ## 🎯 项目 
 
-### [DweebUI](https://github.com/lllllllillllllillll/DweebUI)
+### [podman](https://github.com/containers/podman)
 
-用于管理容器的免费开源 `WebUI`，颜值不错，但是功能还不大够，值得期待：
+`Podman` 是从 `CRI-O` 独立出来的一个项目，这是一个无守护进程的开源Linux 原生工具，旨在使用开放容器协议 (OCI) 容器和容器镜像轻松查找、运行、构建、共享和部署应用程序。
 
-![DweebUI](https://images-1252557999.file.myqcloud.com/uPic/DweebUI.png) 
+受不了 Docker 桌面版的可以直接用这个替换，软件部分也介绍了 `Podman` 的桌面版 [podman-desktop](https://github.com/containers/podman-desktop)。
 
-### [mdx-editor](https://github.com/maqi1520/mdx-editor)
+![podman](https://images-1252557999.file.myqcloud.com/uPic/podman.jpg) 
 
-一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
+### [click-prompt](https://github.com/prompt-engineering/click-prompt)
 
-![mdx-editor](https://images-1252557999.file.myqcloud.com/uPic/mdx-editor.jpg) 
+ClickPrompt 是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，例如 Stable Diffusion、ChatGPT 和 GitHub Copilot 等。 使用 ClickPrompt，您可以轻松地查看、分享和一键运行这些模型，同时提供在线的 Prompt 生成器，使用户能够根据自己的需求轻松创建符合要求的 Prompt，并与其他人分享。
 
-### [docker-wechat](https://github.com/huan/docker-wechat)
+![clickprompt](https://images-1252557999.file.myqcloud.com/uPic/clickprompt.jpg) 
 
-盒装微信，在linux下基于Docker技术使用微信客户端：
+### [Scrapegraph](https://github.com/VinciGit00/Scrapegraph-ai)
 
-![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
+基于 `LLM` 大模型的 `Python` 爬虫框架：
+
+![scrapegraph](https://images-1252557999.file.myqcloud.com/uPic/scrapegraph.jpg) 
 
 ## 🤖 软件 
 
-### [downkyicore](https://github.com/yaobiao131/downkyicore)
+### [XcodesApp](https://github.com/XcodesOrg/XcodesApp)
 
-哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
+通过鼠标点击这种简单方式，快速安装和切换多个版本的 `Xcode`：
 
-![downkyicore](https://images-1252557999.file.myqcloud.com/uPic/downkyicore.jpg) 
+![XcodesApp](https://images-1252557999.file.myqcloud.com/uPic/XcodesApp.jpg) 
 
-### [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager "ContextMenuManager")
+### [gushi_namer](https://github.com/holynova/gushi_namer)
 
-纯粹的 `Windows` 右键菜单管理程序：
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
 
-- 启用或禁用文件、文件夹、新建、发送到、打开方式、自定义文件格式、IE 浏览器、WinX 等右键菜单项目
-- 对上述场景右键菜单项目进行修改名称、修改图标、导航注册表位置、导航文件位置、永久删除等操作
-- 对上述场景右键菜单自定义添加项目，自定义菜单命令
+![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
 
-![ContextMenuManager](https://images-1252557999.file.myqcloud.com/uPic/ContextMenuManager.png) 
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
-### [Files](https://github.com/files-community/Files)
+### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 
-一个现代化的文件管理软件(Windows用户专属)：
+一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
 
-![files_windows](https://images-1252557999.file.myqcloud.com/uPic/files_windows.jpg) 
+- 隐藏桌面图标
+- 番茄钟
+- 快速进入夜间模式
+- 隐藏刘海
+- 保持唤醒
+- 清理 Xcode 缓存
+- 支持快捷方式库，可以自己开发
+- ...
+
+![OnlySwitch](https://images-1252557999.file.myqcloud.com/uPic/OnlySwitch.png) 
 
 ## 👀 资料 
 
-### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
+### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
 
-读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
+📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
 
-![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
+![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
 
-### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
+### [Sam Altman的创业手册](https://jxp73q7qjsg.feishu.cn/docx/WCNZdKDa4o2eUrxK5ElcfBXEnah)
 
-`OpenAI` 出品的的深度强化学习教程：
+`Sam Altman` 的创业手册文本，给YC系创始人们的建议里面最通用的一部分提炼出来变成一个创业手册。 
 
-![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
+### [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial)
 
-### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
+本教程供新加入 `TANGENT` 实验室的同学入门 NLP 使用，该指南主要提供了 `NLP` 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：
 
-这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
-
-- 👋 入门
-- 💬 大语言模型
-	- 💡 提示工程
-	- 🔧 大语言模型实践
-	- 🔬 大语言模型理论
-- 🎨 AI绘画
-- 🔊 AI音频
-- 🌈 多模态
-- 🧠 深度学习
-- 💻 AI系统 
+![pku_nlp_tutorial](https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [itnext](https://itnext.cn/)
+### [chirper.ai](https://chirper.ai/zh)
 
-一个介绍元宇宙的网站：
+一个只允许 AI 发帖的网站，所有内容由 AI 产生：
 
-![itnext](https://images-1252557999.file.myqcloud.com/uPic/yc7Zhp.png) 
+![chirper](https://images-1252557999.file.myqcloud.com/uPic/chirper.jpg) 
 
-### [medisearch](https://medisearch.io/zh)
+### [json-to-go](https://mholt.github.io/json-to-go/)
 
-直接的科学为基础的医疗问答模型：
+在浏览器中将 `JSON` 转换为 `Go` 类型：
 
-![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
+![json-to-go](https://images-1252557999.file.myqcloud.com/uPic/json-to-go.jpg) 
 
-### [pdf.wps.cn](https://pdf.wps.cn/)
+### [sayhello](https://beta.sayhello.so/)
 
-金山出品的 PDF 免费工具集：
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-![pdf_wps](https://images-1252557999.file.myqcloud.com/uPic/pdf_wps.jpg) 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
 ## ✍️ 说明
 
