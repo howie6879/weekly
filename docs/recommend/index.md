@@ -5,94 +5,118 @@
 
 ## 🎯 项目 
 
-### [podman](https://github.com/containers/podman)
+### [drawdb](https://github.com/drawdb-io/drawdb)
 
-`Podman` 是从 `CRI-O` 独立出来的一个项目，这是一个无守护进程的开源Linux 原生工具，旨在使用开放容器协议 (OCI) 容器和容器镜像轻松查找、运行、构建、共享和部署应用程序。
+免费、简单且直观的在线数据库设计工具和  `SQL` 生成器：
 
-受不了 Docker 桌面版的可以直接用这个替换，软件部分也介绍了 `Podman` 的桌面版 [podman-desktop](https://github.com/containers/podman-desktop)。
+![drawdb](https://images-1252557999.file.myqcloud.com/uPic/drawdb.jpg) 
 
-![podman](https://images-1252557999.file.myqcloud.com/uPic/podman.jpg) 
+### [heti](https://github.com/sivan/heti)
 
-### [click-prompt](https://github.com/prompt-engineering/click-prompt)
+赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
-ClickPrompt 是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，例如 Stable Diffusion、ChatGPT 和 GitHub Copilot 等。 使用 ClickPrompt，您可以轻松地查看、分享和一键运行这些模型，同时提供在线的 Prompt 生成器，使用户能够根据自己的需求轻松创建符合要求的 Prompt，并与其他人分享。
+![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
 
-![clickprompt](https://images-1252557999.file.myqcloud.com/uPic/clickprompt.jpg) 
+### [CoverView](https://github.com/rutikwankhade/CoverView)
 
-### [Scrapegraph](https://github.com/VinciGit00/Scrapegraph-ai)
+一个开源的快速制作文章封面图的工具。
 
-基于 `LLM` 大模型的 `Python` 爬虫框架：
-
-![scrapegraph](https://images-1252557999.file.myqcloud.com/uPic/scrapegraph.jpg) 
+![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
 
 ## 🤖 软件 
 
-### [XcodesApp](https://github.com/XcodesOrg/XcodesApp)
+### [Raptor](https://github.com/InfpHub/Raptor)
 
-通过鼠标点击这种简单方式，快速安装和切换多个版本的 `Xcode`：
+使用 `Qt` 和 `C++` 构建的低内存、小而美的第三方阿里云盘 `Windows` 桌面应用客户端🚀
 
-![XcodesApp](https://images-1252557999.file.myqcloud.com/uPic/XcodesApp.jpg) 
+- 🧬 用户 - 持久化登录，多用户登录，多用户切换
+- 📉 文件（夹） - 创建/多级创建文件夹/重命名/搜索
+- 💅 文件（夹） - 移动/复制
+- ✅ 文件（夹） - 上传/下载/唤起第三方下载器下载
+- 🎪 视频 - MPV/VLC/PotPlayer
+- 💸 分享 - 创建分享/导入分享
+- 🦹🏻‍♀️ 秒传 - 创建秒传/导入秒传
+- ⭐️ 收藏 - 收藏/取消收藏/搜索
+- 🕵️‍♂️ 回收站 - 清空/删除/恢复
+- 📚 Plus - 跨网盘文件复制
+- 🏅 UI - 可自由修改的字体，图标与主题 
 
-### [gushi_namer](https://github.com/holynova/gushi_namer)
+### [TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer)
 
-古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
+音乐播放器模仿酷狗，基于 `Qt` 和 `Qmmp` 库开发，支持 `Windows` 和 `Linux` 平台(支持网易云音乐、酷我音乐、酷狗音乐):
 
-![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+![TTKMusicPlayer](https://images-1252557999.file.myqcloud.com/uPic/TTKMusicPlayer.jpeg) 
 
-从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
+### [V2EX_Polish](https://github.com/coolpace/V2EX_Polish)
 
-### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
+专业的 V2EX 浏览器扩展，集合了众多实用功能，重塑你的浏览体验！
 
-一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
+- 🪄 界面美化：UI 设计更现代化，为你带来愉悦的视觉体验。
+- 📥 评论回复嵌套层级：主题下的评论回复支持层级展示，可以更轻松地跟踪和回复其他用户的评论。
+- 🔥 热门回复展示：自动筛选出最受欢迎的回复，第一时间追上热评。
+- 😀 表情回复支持：评论输入框可以选择表情，让回复更加生动和有趣。
+- 📃 长回复优化：智能折叠长篇回复，一键展开查看完整内容。
+- 📰 内置主题列表：无需打开网页，插件内即可快速获取最热、最新的主题列表和消息通知。
 
-- 隐藏桌面图标
-- 番茄钟
-- 快速进入夜间模式
-- 隐藏刘海
-- 保持唤醒
-- 清理 Xcode 缓存
-- 支持快捷方式库，可以自己开发
-- ...
-
-![OnlySwitch](https://images-1252557999.file.myqcloud.com/uPic/OnlySwitch.png) 
+![v2p](https://images-1252557999.file.myqcloud.com/uPic/v2p.png) 
 
 ## 👀 资料 
 
-### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
+### [Flutter实战·第二版](https://book.flutterchina.club/)
 
-📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
+本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
 
-![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
+![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
 
-### [Sam Altman的创业手册](https://jxp73q7qjsg.feishu.cn/docx/WCNZdKDa4o2eUrxK5ElcfBXEnah)
+### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 
-`Sam Altman` 的创业手册文本，给YC系创始人们的建议里面最通用的一部分提炼出来变成一个创业手册。 
+[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
 
-### [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial)
+![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
 
-本教程供新加入 `TANGENT` 实验室的同学入门 NLP 使用，该指南主要提供了 `NLP` 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：
+### [llm-course](https://github.com/mlabonne/llm-course)
 
-![pku_nlp_tutorial](https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg) 
+与大型语言模型(LLM)相关的笔记本和文章清单：
+
+![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
 
 ## 🕸 网站 
 
-### [chirper.ai](https://chirper.ai/zh)
+### [weekly.fre123.com](https://weekly.fre123.com/)
 
-一个只允许 AI 发帖的网站，所有内容由 AI 产生：
+老胡我周末产出的一个页面，不清楚缘由参考之前写的文章👉[推荐！一份技术周刊RSS大全，总有你需要的](https://mp.weixin.qq.com/s/lW0Uz224MkURjM7Pru8soA)。
 
-![chirper](https://images-1252557999.file.myqcloud.com/uPic/chirper.jpg) 
+我首先做了个页面收集一些优质的周刊 RSS 源--[https://www.fre123.com/wk](https://www.fre123.com/wk)：
 
-### [json-to-go](https://mholt.github.io/json-to-go/)
+![wk](https://images-1252557999.file.myqcloud.com/uPic/wk.jpg)
 
-在浏览器中将 `JSON` 转换为 `Go` 类型：
+最后直接基于这些周刊 RSS 源实现了周刊信息流更新汇总页，我感觉还是有用的，欢迎大家使用：
 
-![json-to-go](https://images-1252557999.file.myqcloud.com/uPic/json-to-go.jpg) 
+![weekly_fre123](https://images-1252557999.file.myqcloud.com/uPic/weekly_fre123.jpg)
 
-### [sayhello](https://beta.sayhello.so/)
+最后再推荐下各端 RSS 工具软件资源：
 
-面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
+| 名称                                                                                                                                                                         | 描述                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [fluent-reader](https://sourl.cn/6xkd2u)                                                                                                                                     | 我在用的跨平台rss阅读器                                             |
+| [NetNewsWire](https://sourl.cn/ZBzhDA)                                                                                                                                       | 适用于 Mac iPad iPhone 的 RSS 阅读客户端                            |
+| [ReadYou](https://sourl.cn/3YMB2W)                                                                                                                                           | 一个以 Material You 风格呈现的 Android RSS 阅读器                   |
+| [lettura](https://sourl.cn/WaYnJf)                                                                                                                                           | 基于 Tauri 跨平台的桌面 RSS 阅读器                                  |
+| [feed-flow](https://sourl.cn/mPZ9wQ)                                                                                                                                         | FeedFlow 是一款极简主义的 RSS 阅读器，可在 Android、iOS&macOS上使用 |
+| [FreshRSS](https://weekly.howie6879.com/2022/08-15~08-21.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%20%EF%BC%88%E7%AC%AC053%E6%9C%9F%EF%BC%89.html?h=freshrss#freshrss)   | FreshRSS 是一款自由免费的自部署 RSS 订阅器，界面美观                |
+| [ALL-about-RSS](https://weekly.howie6879.com/2021/08-23~08-27.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC002%E6%9C%9F%EF%BC%89.html?h=rss#all-about-rss) | 一份与RSS相关的清单：工具、服务、社区和教程                         | 
 
-![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+### [SimpleTextReader](https://github.com/henryxrl/SimpleTextReader)
+
+[易笺](https://reader.yijian.app/) - 开源的 TXT 小说阅读器：
+
+![yijian](https://images-1252557999.file.myqcloud.com/uPic/yijian.jpg) 
+
+### [法律时代导航](https://yesen.cn/)
+
+法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
+
+![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
 
 ## ✍️ 说明
 
