@@ -5,74 +5,55 @@
 
 ## 🎯 项目 
 
-### [drawdb](https://github.com/drawdb-io/drawdb)
+### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
 
-免费、简单且直观的在线数据库设计工具和  `SQL` 生成器：
+🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
 
-![drawdb](https://images-1252557999.file.myqcloud.com/uPic/drawdb.jpg) 
+![Real-CUGAN](https://images-1252557999.file.myqcloud.com/uPic/hWiOCH.jpg) 
 
-### [heti](https://github.com/sivan/heti)
+### [zealot](https://github.com/tryzealot/zealot)
 
-赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+开源自部署持续集成一切跟应用有关事情，接入任意 CI 系统一切自动化处理，企业多年实战经验，独立部署提供企业打包分发流程、上传应用全套流程方案 En Taro Adun! 🖖
 
-![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
+- 🌏 多平台应用托管: macOS、iOS、Android（apk/aab）、Windows、Linux 泛平台
+- 📱 测试设备一网打进: 自动同步 iOS 测试设备信息，允许一键注册新设备到苹果开发者
+- 🧑‍💻 丰富开发者套件: 提供 REST API、iOS、Android SDK 以及 fastlane 自动化构建插件
+- 💥 剖析应用内部的秘密: 解读 iOS、Android 应用或 iOS 描述文件的元信息
+- 🚨 内置多种事件通知: 数据可自定义 Income WebHook 到任意通知服务
+- 🗄 多渠道分类管理: 自由划分不同场景不同产品形态的应用渠道管理
+- 🎳 多架构部署: amd86/arm64/armv7 及各种部署方案应有尽有
+- 🔑 第三方登录: 飞书、Gitlab、Google、LDAP 和 OIDC 一键授权
+- 🌑 黑暗模式: 黑夜白昼自由切换
 
-### [CoverView](https://github.com/rutikwankhade/CoverView)
+![zealot](https://images-1252557999.file.myqcloud.com/uPic/zealot.png) 
 
-一个开源的快速制作文章封面图的工具。
+### [one-api](https://github.com/songquanpeng/one-api)
 
-![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
+`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
+
+![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
 
 ## 🤖 软件 
 
-### [Raptor](https://github.com/InfpHub/Raptor)
+### [Readhubn](https://github.com/shensven/Readhubn)
 
-使用 `Qt` 和 `C++` 构建的低内存、小而美的第三方阿里云盘 `Windows` 桌面应用客户端🚀
+如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
 
-- 🧬 用户 - 持久化登录，多用户登录，多用户切换
-- 📉 文件（夹） - 创建/多级创建文件夹/重命名/搜索
-- 💅 文件（夹） - 移动/复制
-- ✅ 文件（夹） - 上传/下载/唤起第三方下载器下载
-- 🎪 视频 - MPV/VLC/PotPlayer
-- 💸 分享 - 创建分享/导入分享
-- 🦹🏻‍♀️ 秒传 - 创建秒传/导入秒传
-- ⭐️ 收藏 - 收藏/取消收藏/搜索
-- 🕵️‍♂️ 回收站 - 清空/删除/恢复
-- 📚 Plus - 跨网盘文件复制
-- 🏅 UI - 可自由修改的字体，图标与主题 
+![readhub](https://images-1252557999.file.myqcloud.com/uPic/pZfUjT.png) 
 
-### [TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer)
+### [NanaZip](https://github.com/M2Team/NanaZip)
 
-音乐播放器模仿酷狗，基于 `Qt` 和 `Qmmp` 库开发，支持 `Windows` 和 `Linux` 平台(支持网易云音乐、酷我音乐、酷狗音乐):
+`NanaZip` 是一个面向现代 `Windows` 体验的开源文件压缩工具，基于知名的开源文件压缩工具 `7-Zip` 的源代码：
 
-![TTKMusicPlayer](https://images-1252557999.file.myqcloud.com/uPic/TTKMusicPlayer.jpeg) 
+![NanaZip](https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg) 
 
-### [V2EX_Polish](https://github.com/coolpace/V2EX_Polish)
+### [lettura](https://github.com/zhanglun/lettura)
 
-专业的 V2EX 浏览器扩展，集合了众多实用功能，重塑你的浏览体验！
+基于 `Tauri` 的桌面 `RSS` 阅读器：
 
-- 🪄 界面美化：UI 设计更现代化，为你带来愉悦的视觉体验。
-- 📥 评论回复嵌套层级：主题下的评论回复支持层级展示，可以更轻松地跟踪和回复其他用户的评论。
-- 🔥 热门回复展示：自动筛选出最受欢迎的回复，第一时间追上热评。
-- 😀 表情回复支持：评论输入框可以选择表情，让回复更加生动和有趣。
-- 📃 长回复优化：智能折叠长篇回复，一键展开查看完整内容。
-- 📰 内置主题列表：无需打开网页，插件内即可快速获取最热、最新的主题列表和消息通知。
-
-![v2p](https://images-1252557999.file.myqcloud.com/uPic/v2p.png) 
+![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
 
 ## 👀 资料 
-
-### [Flutter实战·第二版](https://book.flutterchina.club/)
-
-本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
-
-![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
-
-### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
-
-[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
-
-![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
 
 ### [llm-course](https://github.com/mlabonne/llm-course)
 
@@ -80,43 +61,37 @@
 
 ![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
 
+### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
+
+这个项目收集了黑五打折的App和课程：
+
+![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
+
+### [计算机底层的秘密](https://github.com/webxiaohua/gitbook)
+
+以图解的方式通俗易懂地讲解计算机系统中各项技术的本质，包括编程语言的本质是什么、操作系统、进程线程协程等的本质是什么、到底什么是内存、什么是堆区栈区、内存分配等是怎么一回事、怎样从晶体管构建出CPU、I/O是如何实现的等等，从根源出发，一步步讲解一项技术到底是怎么来的，同时内容可视化——辅助大量精心设计的插图，几乎做到了平均一页有一图，把对技术的理解门槛尽量降低-[在线阅读](https://www.bookstack.cn/read/webxiaohua-gitbook/1.-ni-guan-zhe-po-wan-yi-jiao-cpu.md)(需要pdf可联系我私发)：
+
+![计算机底层的秘密](https://images-1252557999.file.myqcloud.com/uPic/计算机底层的秘密.jpg) 
+
 ## 🕸 网站 
 
-### [weekly.fre123.com](https://weekly.fre123.com/)
+### [uxdatabase](https://www.uxdatabase.io/)
 
-老胡我周末产出的一个页面，不清楚缘由参考之前写的文章👉[推荐！一份技术周刊RSS大全，总有你需要的](https://mp.weixin.qq.com/s/lW0Uz224MkURjM7Pru8soA)。
+国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
 
-我首先做了个页面收集一些优质的周刊 RSS 源--[https://www.fre123.com/wk](https://www.fre123.com/wk)：
+![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
 
-![wk](https://images-1252557999.file.myqcloud.com/uPic/wk.jpg)
+### [echoserver](https://echoserver.dev/)
 
-最后直接基于这些周刊 RSS 源实现了周刊信息流更新汇总页，我感觉还是有用的，欢迎大家使用：
+一个用于测试 `HTTP` 客户端的简单服务器，可生成 `URL` 并返回您想要的生成响应：
 
-![weekly_fre123](https://images-1252557999.file.myqcloud.com/uPic/weekly_fre123.jpg)
+![echoserver](https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg) 
 
-最后再推荐下各端 RSS 工具软件资源：
+### [z2h 字帖](https://paper.z2h.cn/)
 
-| 名称                                                                                                                                                                         | 描述                                                                |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [fluent-reader](https://sourl.cn/6xkd2u)                                                                                                                                     | 我在用的跨平台rss阅读器                                             |
-| [NetNewsWire](https://sourl.cn/ZBzhDA)                                                                                                                                       | 适用于 Mac iPad iPhone 的 RSS 阅读客户端                            |
-| [ReadYou](https://sourl.cn/3YMB2W)                                                                                                                                           | 一个以 Material You 风格呈现的 Android RSS 阅读器                   |
-| [lettura](https://sourl.cn/WaYnJf)                                                                                                                                           | 基于 Tauri 跨平台的桌面 RSS 阅读器                                  |
-| [feed-flow](https://sourl.cn/mPZ9wQ)                                                                                                                                         | FeedFlow 是一款极简主义的 RSS 阅读器，可在 Android、iOS&macOS上使用 |
-| [FreshRSS](https://weekly.howie6879.com/2022/08-15~08-21.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%20%EF%BC%88%E7%AC%AC053%E6%9C%9F%EF%BC%89.html?h=freshrss#freshrss)   | FreshRSS 是一款自由免费的自部署 RSS 订阅器，界面美观                |
-| [ALL-about-RSS](https://weekly.howie6879.com/2021/08-23~08-27.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC002%E6%9C%9F%EF%BC%89.html?h=rss#all-about-rss) | 一份与RSS相关的清单：工具、服务、社区和教程                         | 
+用正确的方法刻意练习，每个人都能写出一手漂亮的字，自定义字帖字体和内容，可打印导出练字：
 
-### [SimpleTextReader](https://github.com/henryxrl/SimpleTextReader)
-
-[易笺](https://reader.yijian.app/) - 开源的 TXT 小说阅读器：
-
-![yijian](https://images-1252557999.file.myqcloud.com/uPic/yijian.jpg) 
-
-### [法律时代导航](https://yesen.cn/)
-
-法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
-
-![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
+![z2h](https://images-1252557999.file.myqcloud.com/uPic/z2h.jpg) 
 
 ## ✍️ 说明
 
