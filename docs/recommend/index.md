@@ -5,93 +5,106 @@
 
 ## 🎯 项目 
 
-### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
+### [draw-a-ui](https://github.com/SawyerHood/draw-a-ui)
 
-🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
+利用 `tldraw + gpt-4-vision api` 将绘制的图转换成 `html` 代码：
 
-![Real-CUGAN](https://images-1252557999.file.myqcloud.com/uPic/hWiOCH.jpg) 
+![draw-a-ui](https://images-1252557999.file.myqcloud.com/uPic/draw-a-ui.gif) 
 
-### [zealot](https://github.com/tryzealot/zealot)
+### [terminalizer](https://github.com/faressoft/terminalizer)
 
-开源自部署持续集成一切跟应用有关事情，接入任意 CI 系统一切自动化处理，企业多年实战经验，独立部署提供企业打包分发流程、上传应用全套流程方案 En Taro Adun! 🖖
+录制终端操作并生成 `gif` 动图：
 
-- 🌏 多平台应用托管: macOS、iOS、Android（apk/aab）、Windows、Linux 泛平台
-- 📱 测试设备一网打进: 自动同步 iOS 测试设备信息，允许一键注册新设备到苹果开发者
-- 🧑‍💻 丰富开发者套件: 提供 REST API、iOS、Android SDK 以及 fastlane 自动化构建插件
-- 💥 剖析应用内部的秘密: 解读 iOS、Android 应用或 iOS 描述文件的元信息
-- 🚨 内置多种事件通知: 数据可自定义 Income WebHook 到任意通知服务
-- 🗄 多渠道分类管理: 自由划分不同场景不同产品形态的应用渠道管理
-- 🎳 多架构部署: amd86/arm64/armv7 及各种部署方案应有尽有
-- 🔑 第三方登录: 飞书、Gitlab、Google、LDAP 和 OIDC 一键授权
-- 🌑 黑暗模式: 黑夜白昼自由切换
+![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
 
-![zealot](https://images-1252557999.file.myqcloud.com/uPic/zealot.png) 
+### [docker-windows](https://github.com/dockur/windows)
 
-### [one-api](https://github.com/songquanpeng/one-api)
+`Docker` 启动 `Windows`，特性如下：
 
-`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
-
-![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
+- ISO downloader
+- KVM acceleration
+- Web-based viewer 
 
 ## 🤖 软件 
 
-### [Readhubn](https://github.com/shensven/Readhubn)
+### [koodo-reader](https://github.com/troyeguo/koodo-reader)
 
-如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
+一个跨平台的电子书阅读器：
 
-![readhub](https://images-1252557999.file.myqcloud.com/uPic/pZfUjT.png) 
+- 支持多达 15 种主流电子书格
+- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
+- 备份数据到  **Dropbox**  和  **Webdav**
+- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
+- 双页模式，单页模式，滚动模式
+- 听书功能，翻译功能，触控屏支持，批量导入图书
+- 支持目录，书签，笔记，高亮，书架，标签
+- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
+- 黑夜模式和主题色设置
 
-### [NanaZip](https://github.com/M2Team/NanaZip)
+![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
 
-`NanaZip` 是一个面向现代 `Windows` 体验的开源文件压缩工具，基于知名的开源文件压缩工具 `7-Zip` 的源代码：
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-![NanaZip](https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg) 
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-### [lettura](https://github.com/zhanglun/lettura)
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
-基于 `Tauri` 的桌面 `RSS` 阅读器：
+### [rubick](https://github.com/rubickCenter/rubick)
 
-![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
+基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
+
+- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
+- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
+- 支持全局快捷键设置。
+- 支持剪贴板文件搜索。
+- 支持搜索本地安装的应用程序或偏好设置。
+- 支持MacOS。
+- 支持Windows。
+- 支持Linux。
+
+![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
 
 ## 👀 资料 
 
-### [llm-course](https://github.com/mlabonne/llm-course)
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-与大型语言模型(LLM)相关的笔记本和文章清单：
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
 
-![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
-### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
+### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
 
-这个项目收集了黑五打折的App和课程：
+![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
 
-![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
+### [programming-math-science](https://github.com/bobeff/programming-math-science) 
 
-### [计算机底层的秘密](https://github.com/webxiaohua/gitbook)
-
-以图解的方式通俗易懂地讲解计算机系统中各项技术的本质，包括编程语言的本质是什么、操作系统、进程线程协程等的本质是什么、到底什么是内存、什么是堆区栈区、内存分配等是怎么一回事、怎样从晶体管构建出CPU、I/O是如何实现的等等，从根源出发，一步步讲解一项技术到底是怎么来的，同时内容可视化——辅助大量精心设计的插图，几乎做到了平均一页有一图，把对技术的理解门槛尽量降低-[在线阅读](https://www.bookstack.cn/read/webxiaohua-gitbook/1.-ni-guan-zhe-po-wan-yi-jiao-cpu.md)(需要pdf可联系我私发)：
-
-![计算机底层的秘密](https://images-1252557999.file.myqcloud.com/uPic/计算机底层的秘密.jpg) 
+国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
 ## 🕸 网站 
 
-### [uxdatabase](https://www.uxdatabase.io/)
+### [chatplugin.top](https://www.chatplugin.top/)
 
-国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
+`ChatGPT Plugin` 收录网站，并且将插件汉化：
 
-![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
-
-### [echoserver](https://echoserver.dev/)
-
-一个用于测试 `HTTP` 客户端的简单服务器，可生成 `URL` 并返回您想要的生成响应：
-
-![echoserver](https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg) 
+![chatplugin](https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg) 
 
 ### [z2h 字帖](https://paper.z2h.cn/)
 
 用正确的方法刻意练习，每个人都能写出一手漂亮的字，自定义字帖字体和内容，可打印导出练字：
 
 ![z2h](https://images-1252557999.file.myqcloud.com/uPic/z2h.jpg) 
+
+### [FRE321](https://www.fre321.com/)
+
+原本 fre123.com 被污染了，所以 301 到新的域名 [https://www.fre321.com](https://www.fre321.com) 一直在用的朋友请收藏下哈，老胡也再次和大家介绍下目前的功能：
+
+- 首页影视、动漫、软件、电子书、音乐等资源导航
+- 番剧搜索
+- 技术、新闻信息流
+- 周刊聚合页面
+- 新功能持续开发中
+
+![FRE321](https://images-1252557999.file.myqcloud.com/uPic/FRE321.jpg) 
 
 ## ✍️ 说明
 
