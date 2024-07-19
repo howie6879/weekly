@@ -5,106 +5,103 @@
 
 ## 🎯 项目 
 
-### [draw-a-ui](https://github.com/SawyerHood/draw-a-ui)
+### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
 
-利用 `tldraw + gpt-4-vision api` 将绘制的图转换成 `html` 代码：
+`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
 
-![draw-a-ui](https://images-1252557999.file.myqcloud.com/uPic/draw-a-ui.gif) 
+![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
 
-### [terminalizer](https://github.com/faressoft/terminalizer)
+### [duf](https://github.com/sigoden/duf)
 
-录制终端操作并生成 `gif` 动图：
+一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
 
-![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
+- 静态文件伺服
+- 下载目录为 zip 文件
+- 上传文件 /目录 (支持拖拽)
+- 搜索
+- 并发下载，断续下载
+- 权限保护
+- 支持 https
+- 支持 webdav
+- 方便 curl 调用 
 
-### [docker-windows](https://github.com/dockur/windows)
+### [python-wechaty](https://github.com/wechaty/python-wechaty)
 
-`Docker` 启动 `Windows`，特性如下：
+`Wechaty` 是一个开源聊天机器人框架 `SDK`，具有高度封装、高可用的特性，支持 `NodeJs, Python, Go` 和 `Java` 等多语言版本：
 
-- ISO downloader
-- KVM acceleration
-- Web-based viewer 
+![python-wechaty](https://images-1252557999.file.myqcloud.com/uPic/python-wechaty.png) 
 
 ## 🤖 软件 
 
-### [koodo-reader](https://github.com/troyeguo/koodo-reader)
+### [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
-一个跨平台的电子书阅读器：
+使用**HWID/Ohook/KMS38/在线KMS**激活方法的 Windows 和 Office 激活工具，注重开源代码和较少的杀毒软件检测：
 
-- 支持多达 15 种主流电子书格
-- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
-- 备份数据到  **Dropbox**  和  **Webdav**
-- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
-- 双页模式，单页模式，滚动模式
-- 听书功能，翻译功能，触控屏支持，批量导入图书
-- 支持目录，书签，笔记，高亮，书架，标签
-- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
-- 黑夜模式和主题色设置
+![Microsoft-Activation-Scripts](https://images-1252557999.file.myqcloud.com/uPic/Microsoft-Activation-Scripts.jpg) 
 
-![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
+### [wowtab](https://wowtab.microsoft.com/)
 
-### [LANDrop](https://github.com/LANDrop/LANDrop)
+微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：
 
-开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
+![wowtab](https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg) 
 
-![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
+### [chatbox](https://github.com/Bin-Huang/chatbox)
 
-### [rubick](https://github.com/rubickCenter/rubick)
+开源的 `ChatGPT API (OpenAI API)` 桌面客户端，`Prompt` 的调试与管理工具，支持 `Windows、Mac 和 Linux`：
 
-基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
-
-- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
-- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
-- 支持全局快捷键设置。
-- 支持剪贴板文件搜索。
-- 支持搜索本地安装的应用程序或偏好设置。
-- 支持MacOS。
-- 支持Windows。
-- 支持Linux。
-
-![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
+![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.png) 
 
 ## 👀 资料 
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
 
-### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
+### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
 
-![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
+作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
 
-### [programming-math-science](https://github.com/bobeff/programming-math-science) 
+![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
 
-国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
+### [pdai](https://pdai.tech/)
+
+Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
+
+![pdai](https://images-1252557999.file.myqcloud.com/uPic/8oZW41.png) 
 
 ## 🕸 网站 
 
-### [chatplugin.top](https://www.chatplugin.top/)
+### [devdocs](https://devdocs.io/)
 
-`ChatGPT Plugin` 收录网站，并且将插件汉化：
+提供在线快速查找API接口文档的网站：
 
-![chatplugin](https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg) 
+![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
 
-### [z2h 字帖](https://paper.z2h.cn/)
+### [ticompressor](https://www.ticompressor.com/online/)
 
-用正确的方法刻意练习，每个人都能写出一手漂亮的字，自定义字帖字体和内容，可打印导出练字：
+压缩速度极快的图片压缩软件，有网页版和软件版：
 
-![z2h](https://images-1252557999.file.myqcloud.com/uPic/z2h.jpg) 
+- 具有超快的压缩速度
+- 支持压缩 GB 级别的超大体积的图片
+- 支持 7 种图片格式
+- 支持深、浅色主题模式
+- 可对原始图片进行预览
+- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
+- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
+- 实时显示压缩进度
+- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
 
-### [FRE321](https://www.fre321.com/)
+![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
 
-原本 fre123.com 被污染了，所以 301 到新的域名 [https://www.fre321.com](https://www.fre321.com) 一直在用的朋友请收藏下哈，老胡也再次和大家介绍下目前的功能：
+![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
 
-- 首页影视、动漫、软件、电子书、音乐等资源导航
-- 番剧搜索
-- 技术、新闻信息流
-- 周刊聚合页面
-- 新功能持续开发中
+### [shenyandayi](https://www.shenyandayi.com/)
 
-![FRE321](https://images-1252557999.file.myqcloud.com/uPic/FRE321.jpg) 
+深言达意，懂文字更懂你：
+
+![shenyandayi](https://images-1252557999.file.myqcloud.com/uPic/shenyandayi.jpg) 
 
 ## ✍️ 说明
 
