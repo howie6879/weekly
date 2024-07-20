@@ -5,103 +5,83 @@
 
 ## 🎯 项目 
 
-### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
+### [KubePi](https://github.com/KubeOperator/KubePi)
 
-`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
+简单易用的开源 Kubernetes 可视化管理面板，允许管理员导入多个 Kubernetes 集群，并且通过权限控制，将不同 cluster、namespace 的权限分配给指定用户。
 
-![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
+它允许开发人员管理 Kubernetes 集群中运行的应用程序并对其进行故障排查，供开发人员更好地处理 Kubernetes 集群中的复杂性。 
 
-### [duf](https://github.com/sigoden/duf)
+### [Linux-CN-archive](https://github.com/Linux-CN/archive/releases/tag/release)
 
-一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
+`Linux` 中国所有原创文章的 `Markdown` 内容备份:
 
-- 静态文件伺服
-- 下载目录为 zip 文件
-- 上传文件 /目录 (支持拖拽)
-- 搜索
-- 并发下载，断续下载
-- 权限保护
-- 支持 https
-- 支持 webdav
-- 方便 curl 调用 
+![linux_cn_archive](https://images-1252557999.file.myqcloud.com/uPic/linux_cn_archive.jpg) 
 
-### [python-wechaty](https://github.com/wechaty/python-wechaty)
+### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
 
-`Wechaty` 是一个开源聊天机器人框架 `SDK`，具有高度封装、高可用的特性，支持 `NodeJs, Python, Go` 和 `Java` 等多语言版本：
+`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
 
-![python-wechaty](https://images-1252557999.file.myqcloud.com/uPic/python-wechaty.png) 
+![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
 
 ## 🤖 软件 
 
-### [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+### [keyviz](https://github.com/mulaRahul/keyviz)
 
-使用**HWID/Ohook/KMS38/在线KMS**激活方法的 Windows 和 Office 激活工具，注重开源代码和较少的杀毒软件检测：
+`Keyviz` 是一个免费且开源的工具，可以实时可视化您的按键⌨️和🖱️鼠标操作，比较适合录屏按键演示，基于 Flutter 开发，跨平台，颜值也不错：
 
-![Microsoft-Activation-Scripts](https://images-1252557999.file.myqcloud.com/uPic/Microsoft-Activation-Scripts.jpg) 
+![keyviz](https://images-1252557999.file.myqcloud.com/uPic/keyviz.svg) 
 
-### [wowtab](https://wowtab.microsoft.com/)
+### [siyuan](https://github.com/siyuan-note/siyuan)
 
-微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：
+思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
 
-![wowtab](https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg) 
+![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
 
-### [chatbox](https://github.com/Bin-Huang/chatbox)
+### [ToastFish](https://github.com/Uahh/ToastFish)
 
-开源的 `ChatGPT API (OpenAI API)` 桌面客户端，`Prompt` 的调试与管理工具，支持 `Windows、Mac 和 Linux`：
+这是一个利用 `Windows` 通知栏背单词的软件，可以让你在上班、上课等环境下安全地背单词：
 
-![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.png) 
+![ToastFish](https://images-1252557999.file.myqcloud.com/uPic/ToastFish.gif) 
 
 ## 👀 资料 
 
-### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
+### [GoGuide](https://github.com/coderit666/GoGuide)
 
-《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
+`Go Guide` 致力于打造最易懂的 `Go` 语言教程：
 
-![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
+![GoGuide](https://images-1252557999.file.myqcloud.com/uPic/GoGuide.png) 
 
-### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
+### [法律文库](https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html)
 
-作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
+以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。
 
-![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
+![justlaws](https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg) 
 
-### [pdai](https://pdai.tech/)
+### [计算机底层的秘密](https://github.com/webxiaohua/gitbook)
 
-Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
+以图解的方式通俗易懂地讲解计算机系统中各项技术的本质，包括编程语言的本质是什么、操作系统、进程线程协程等的本质是什么、到底什么是内存、什么是堆区栈区、内存分配等是怎么一回事、怎样从晶体管构建出CPU、I/O是如何实现的等等，从根源出发，一步步讲解一项技术到底是怎么来的，同时内容可视化——辅助大量精心设计的插图，几乎做到了平均一页有一图，把对技术的理解门槛尽量降低-[在线阅读](https://www.bookstack.cn/read/webxiaohua-gitbook/1.-ni-guan-zhe-po-wan-yi-jiao-cpu.md)(需要pdf可联系我私发)：
 
-![pdai](https://images-1252557999.file.myqcloud.com/uPic/8oZW41.png) 
+![计算机底层的秘密](https://images-1252557999.file.myqcloud.com/uPic/计算机底层的秘密.jpg) 
 
 ## 🕸 网站 
 
-### [devdocs](https://devdocs.io/)
+### [iphub.info](https://iphub.info/)
 
-提供在线快速查找API接口文档的网站：
+检测 `IP` 质量和安全性：
 
-![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
+![iphub](https://images-1252557999.file.myqcloud.com/uPic/iphub.jpg) 
 
-### [ticompressor](https://www.ticompressor.com/online/)
+### [AnyBT](https://anybt.eth.limo/)
 
-压缩速度极快的图片压缩软件，有网页版和软件版：
+种子搜索引擎，下载你想要的资源：
 
-- 具有超快的压缩速度
-- 支持压缩 GB 级别的超大体积的图片
-- 支持 7 种图片格式
-- 支持深、浅色主题模式
-- 可对原始图片进行预览
-- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
-- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
-- 实时显示压缩进度
-- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
+![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
 
-![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
+### [db-fiddle](https://www.db-fiddle.com/)
 
-![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
+免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
 
-### [shenyandayi](https://www.shenyandayi.com/)
-
-深言达意，懂文字更懂你：
-
-![shenyandayi](https://images-1252557999.file.myqcloud.com/uPic/shenyandayi.jpg) 
+![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
 
 ## ✍️ 说明
 
