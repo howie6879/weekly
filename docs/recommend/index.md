@@ -5,83 +5,95 @@
 
 ## 🎯 项目 
 
-### [KubePi](https://github.com/KubeOperator/KubePi)
+### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
 
-简单易用的开源 Kubernetes 可视化管理面板，允许管理员导入多个 Kubernetes 集群，并且通过权限控制，将不同 cluster、namespace 的权限分配给指定用户。
+一键免费部署你的私人 `ChatGPT` 网页应用：
 
-它允许开发人员管理 Kubernetes 集群中运行的应用程序并对其进行故障排查，供开发人员更好地处理 Kubernetes 集群中的复杂性。 
+- 在 1 分钟内使用 Vercel  **免费一键部署**
+- 精心设计的 UI，响应式设计，支持深色模式
+- 极快的首屏加载速度（~85kb）
+- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
+- 一键导出聊天记录，完整的 Markdown 支持
+- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
 
-### [Linux-CN-archive](https://github.com/Linux-CN/archive/releases/tag/release)
+![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
 
-`Linux` 中国所有原创文章的 `Markdown` 内容备份:
+### [Free-TVUrl-Merge](https://github.com/vpei/Free-TVUrl-Merge)
 
-![linux_cn_archive](https://images-1252557999.file.myqcloud.com/uPic/linux_cn_archive.jpg) 
+免费 `TvBox` 影视站聚合，`TVBox、Pluto Player、猫影视TV` 等影视播放软件通用接口都可使用：
 
-### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
+![Free-TVUrl-Merge](https://images-1252557999.file.myqcloud.com/uPic/Free-TVUrl-Merge.png) 
 
-`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
+### [Monit](https://github.com/fzf404/Monit)
 
-![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
+系统桌面小组件(用于展示各种信息)：
+
+![Monit](https://images-1252557999.file.myqcloud.com/uPic/Monit.webp) 
 
 ## 🤖 软件 
 
-### [keyviz](https://github.com/mulaRahul/keyviz)
+### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
 
-`Keyviz` 是一个免费且开源的工具，可以实时可视化您的按键⌨️和🖱️鼠标操作，比较适合录屏按键演示，基于 Flutter 开发，跨平台，颜值也不错：
+`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
 
-![keyviz](https://images-1252557999.file.myqcloud.com/uPic/keyviz.svg) 
+- Support Intel
+- Support Apple Silicon (M1 & M2)
+- Network
+- USB 
 
-### [siyuan](https://github.com/siyuan-note/siyuan)
+### [Gifski](https://github.com/sindresorhus/Gifski)
 
-思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
+在 `Mac` 上将视频转换为高质量的 `GIF`：
 
-![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
+![Gifski](https://images-1252557999.file.myqcloud.com/uPic/Gifski.jpg) 
 
-### [ToastFish](https://github.com/Uahh/ToastFish)
+### [enchanted](https://github.com/AugustDev/enchanted)
 
-这是一个利用 `Windows` 通知栏背单词的软件，可以让你在上班、上课等环境下安全地背单词：
+一个开源的 `macOS/iOS/visionOS` 应用程序，专为与私人托管模型（如 `Llama 2、Mistral、Vicuna、Starling` 等）一起工作而设计。它的界面类似于 `ChatGPT` 应用，可连接到您的私人模型：
 
-![ToastFish](https://images-1252557999.file.myqcloud.com/uPic/ToastFish.gif) 
+![enchanted](https://img.fre123.com/i/2024/07/12/6690f54b93ccc.jpg) 
 
 ## 👀 资料 
 
-### [GoGuide](https://github.com/coderit666/GoGuide)
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-`Go Guide` 致力于打造最易懂的 `Go` 语言教程：
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
-![GoGuide](https://images-1252557999.file.myqcloud.com/uPic/GoGuide.png) 
+### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
 
-### [法律文库](https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html)
+从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
 
-以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。
+### [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
 
-![justlaws](https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg) 
+这个项目包含了数据工程师领域需要的一些资料，对于拓展国际视野很有帮助：
 
-### [计算机底层的秘密](https://github.com/webxiaohua/gitbook)
+- 书籍课程
+- 社区
+- YouTube 频道等各大平台
+- Newsletters
+- ......
 
-以图解的方式通俗易懂地讲解计算机系统中各项技术的本质，包括编程语言的本质是什么、操作系统、进程线程协程等的本质是什么、到底什么是内存、什么是堆区栈区、内存分配等是怎么一回事、怎样从晶体管构建出CPU、I/O是如何实现的等等，从根源出发，一步步讲解一项技术到底是怎么来的，同时内容可视化——辅助大量精心设计的插图，几乎做到了平均一页有一图，把对技术的理解门槛尽量降低-[在线阅读](https://www.bookstack.cn/read/webxiaohua-gitbook/1.-ni-guan-zhe-po-wan-yi-jiao-cpu.md)(需要pdf可联系我私发)：
-
-![计算机底层的秘密](https://images-1252557999.file.myqcloud.com/uPic/计算机底层的秘密.jpg) 
+![data-engineer-handbook](https://images-1252557999.file.myqcloud.com/uPic/data-engineer-handbook.png) 
 
 ## 🕸 网站 
 
-### [iphub.info](https://iphub.info/)
+### [一证通查](https://getsimnum.caict.ac.cn/#/)
 
-检测 `IP` 质量和安全性：
+自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
 
-![iphub](https://images-1252557999.file.myqcloud.com/uPic/iphub.jpg) 
+![phone_query](https://images-1252557999.file.myqcloud.com/uPic/phone_query.png) 
 
-### [AnyBT](https://anybt.eth.limo/)
+### [useanimations](https://useanimations.com/)
 
-种子搜索引擎，下载你想要的资源：
+前端动态 `UI` 样式集合：
 
-![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
+![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
 
-### [db-fiddle](https://www.db-fiddle.com/)
+### [中国科学技术大学测速网站](https://test.ustc.edu.cn/)
 
-免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
+测试使用网络的上传下载速度等信息：
 
-![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
+![test-ustc](https://images-1252557999.file.myqcloud.com/uPic/test-ustc.jpg) 
 
 ## ✍️ 说明
 
