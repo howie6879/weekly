@@ -5,89 +5,102 @@
 
 ## 🎯 项目 
 
-### [photoview](https://github.com/photoview/photoview)
+### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
 
-开源的相册程序，可基于Docker快速构建：
+Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
 
-![photoview](https://images-1252557999.file.myqcloud.com/uPic/photoview.png) 
+### [zdir](https://github.com/helloxz/zdir)
 
-### [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
+使用 `Golang + Vue3` 开发的轻量级目录列表程序，支持 `Linux、Docker、Windows` 部署，适合个人或初创公司文件分享使用，亦可作为轻量级网盘使用。
 
-`HackBrowserData` 是一个浏览器数据（密码|历史记录|Cookie|书签|信用卡|下载记录|localStorage|浏览器插件）的导出工具，支持全平台主流浏览器：
+![zdir](https://images-1252557999.file.myqcloud.com/uPic/zdir.jpg) 
 
-![webhbd](https://images-1252557999.file.myqcloud.com/uPic/webhbd.png) 
+### [Gallery-Portfolio](https://github.com/linyuxuanlin/Gallery-Portfolio)
 
-### [ollama](https://github.com/jmorganca/ollama)
+一个简单的摄影作品展示站，你只需要将图片存放在免费的 `Cloudflare R2` 上（或其他支持 AWS S3 的对象存储），即可在这里展现你的精选图片。在这里你可以通过 瀑布流 的形式浏览图片，也可以 点开大图 ，查看光圈 / 快门 / ISO 等 EXIF 信息。网站基于 Node.js，使用 Material Design 风格的 响应式设计，支持 日夜间模式 切换，在不同的设备上都有不错的视觉效果：
 
-你可以下载 `Ollama` 在本地运行 `Llama 2` 大模型，它将模型的权重、配置、提示等一起打包：
-
-![ollama](https://images-1252557999.file.myqcloud.com/uPic/ollama.jpg) 
+![Gallery-Portfolio](https://images-1252557999.file.myqcloud.com/uPic/Gallery-Portfolio.png) 
 
 ## 🤖 软件 
 
-### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+### [KOReader](https://github.com/koreader/koreader)
 
-`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
 
-![appflowy](https://images-1252557999.file.myqcloud.com/uPic/JhzdLT.jpg) 
+![koreader](https://images-1252557999.file.myqcloud.com/uPic/koreader.jpg) 
 
-### [copybook-generator](https://github.com/jaywcjlove/copybook-generator)
+### [notepad--](https://github.com/cxasm/notepad--)
 
-「宝宝字帖」是一款功能强大的字帖生成工具，专为满足不同用户的书写练习需求而设计：
+这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
 
-![copybook-generator](https://images-1252557999.file.myqcloud.com/uPic/copybook-generator.jpg) 
+> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
 
-### [Gif123](https://github.com/aardio/Gif123)
+![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
 
-非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
+### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
 
-![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg) 
+使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
+
+- 支持下载无水印视频
+- 支持下载某个账号号的所有视频
+
+![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
 
 ## 👀 资料 
 
-### [db-tutorial](https://github.com/dunwu/db-tutorial)
+### [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)
 
-💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
+`DotNetGuide` 技术社区是一个面向 `.NET` 开发者的开源技术社区，旨在为开发者们提供全面的 `C#/.NET/.NET Core` 相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台，可以在线[阅读](https://www.yuque.com/ysgstudyhard/da6e0c)：
 
-### [easy_rust](https://github.com/Dhghomon/easy_rust)
+![DotNetGuide](https://images-1252557999.file.myqcloud.com/uPic/DotNetGuide.jpg) 
 
-现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-你可以用以下方式浏览：
+深度学习入门教程资料聚合项目，包含：
 
-- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
-- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
-- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
 
-![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
+![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
 
-### [papers-we-love](https://github.com/papers-we-love/papers-we-love)
+![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
 
-项目收集了计算机科学领域值得一读的论文：
+### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
 
-![papers-we-love](https://images-1252557999.file.myqcloud.com/uPic/FiYqA1.png)
+[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
 
-还有一个开发者列出了他喜欢的论文，具体见：[my-favorite-papers](https://ordep.dev/posts/my-favorite-papers)，其中包括了LSM Tree， Kafka， Zookeeper，数字签名，等一些很经典的分布式领域的论文。 
+目前也提供了中文版：
+
+![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
 
 ## 🕸 网站 
 
-### [transhumans](https://www.transhumans.xyz/)
+### [jaywcjlove/reference](https://wangchujiang.com/reference/)
 
-免费可商用的人物插图：
+为开发人员分享快速参考备忘清单【速查表】，也可以直接通过 github 访问-> [jaywcjlove/reference](https://github.com/jaywcjlove/reference) :
 
-![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
+![reference](https://images-1252557999.file.myqcloud.com/uPic/reference.png) 
 
-### [picdiet.eula.club](https://picdiet.eula.club/)
+### [wantquotes.net](https://wantquotes.net/)
 
-`Picdiet` 是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏：
+清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
 
-![picdiet](https://images-1252557999.file.myqcloud.com/uPic/picdiet.jpg) 
+![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
 
-### [gemini-pro.chat](https://gemini-pro.chat/) 
+### [Qwerty Learner](https://qwerty.kaiyi.cool/gallery)
 
-免费的谷歌 `Gemini Chat Pro`，在线网站：
+这也是一个开源项目，作者将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。
 
-![gemini-pro.chat](https://images-1252557999.file.myqcloud.com/uPic/gemini-pro.chat.jpg) 
+网站提供了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 
+
+目前有两种方式使用这个项目：
+
+- 网站：推荐
+- VS Code插件
+
+![Qwerty](https://images-1252557999.file.myqcloud.com/uPic/tHD4ez.png) 
 
 ## ✍️ 说明
 
