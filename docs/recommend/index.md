@@ -5,95 +5,89 @@
 
 ## 🎯 项目 
 
-### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
+### [photoview](https://github.com/photoview/photoview)
 
-一键免费部署你的私人 `ChatGPT` 网页应用：
+开源的相册程序，可基于Docker快速构建：
 
-- 在 1 分钟内使用 Vercel  **免费一键部署**
-- 精心设计的 UI，响应式设计，支持深色模式
-- 极快的首屏加载速度（~85kb）
-- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
-- 一键导出聊天记录，完整的 Markdown 支持
-- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
+![photoview](https://images-1252557999.file.myqcloud.com/uPic/photoview.png) 
 
-![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
+### [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
 
-### [Free-TVUrl-Merge](https://github.com/vpei/Free-TVUrl-Merge)
+`HackBrowserData` 是一个浏览器数据（密码|历史记录|Cookie|书签|信用卡|下载记录|localStorage|浏览器插件）的导出工具，支持全平台主流浏览器：
 
-免费 `TvBox` 影视站聚合，`TVBox、Pluto Player、猫影视TV` 等影视播放软件通用接口都可使用：
+![webhbd](https://images-1252557999.file.myqcloud.com/uPic/webhbd.png) 
 
-![Free-TVUrl-Merge](https://images-1252557999.file.myqcloud.com/uPic/Free-TVUrl-Merge.png) 
+### [ollama](https://github.com/jmorganca/ollama)
 
-### [Monit](https://github.com/fzf404/Monit)
+你可以下载 `Ollama` 在本地运行 `Llama 2` 大模型，它将模型的权重、配置、提示等一起打包：
 
-系统桌面小组件(用于展示各种信息)：
-
-![Monit](https://images-1252557999.file.myqcloud.com/uPic/Monit.webp) 
+![ollama](https://images-1252557999.file.myqcloud.com/uPic/ollama.jpg) 
 
 ## 🤖 软件 
 
-### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
+### [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
-`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
+`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
 
-- Support Intel
-- Support Apple Silicon (M1 & M2)
-- Network
-- USB 
+![appflowy](https://images-1252557999.file.myqcloud.com/uPic/JhzdLT.jpg) 
 
-### [Gifski](https://github.com/sindresorhus/Gifski)
+### [copybook-generator](https://github.com/jaywcjlove/copybook-generator)
 
-在 `Mac` 上将视频转换为高质量的 `GIF`：
+「宝宝字帖」是一款功能强大的字帖生成工具，专为满足不同用户的书写练习需求而设计：
 
-![Gifski](https://images-1252557999.file.myqcloud.com/uPic/Gifski.jpg) 
+![copybook-generator](https://images-1252557999.file.myqcloud.com/uPic/copybook-generator.jpg) 
 
-### [enchanted](https://github.com/AugustDev/enchanted)
+### [Gif123](https://github.com/aardio/Gif123)
 
-一个开源的 `macOS/iOS/visionOS` 应用程序，专为与私人托管模型（如 `Llama 2、Mistral、Vicuna、Starling` 等）一起工作而设计。它的界面类似于 `ChatGPT` 应用，可连接到您的私人模型：
+非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
 
-![enchanted](https://img.fre123.com/i/2024/07/12/6690f54b93ccc.jpg) 
+![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg) 
 
 ## 👀 资料 
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+### [db-tutorial](https://github.com/dunwu/db-tutorial)
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
 
-### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
+### [easy_rust](https://github.com/Dhghomon/easy_rust)
 
-从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
+现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
 
-### [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
+你可以用以下方式浏览：
 
-这个项目包含了数据工程师领域需要的一些资料，对于拓展国际视野很有帮助：
+- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
+- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
+- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
 
-- 书籍课程
-- 社区
-- YouTube 频道等各大平台
-- Newsletters
-- ......
+![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
 
-![data-engineer-handbook](https://images-1252557999.file.myqcloud.com/uPic/data-engineer-handbook.png) 
+### [papers-we-love](https://github.com/papers-we-love/papers-we-love)
+
+项目收集了计算机科学领域值得一读的论文：
+
+![papers-we-love](https://images-1252557999.file.myqcloud.com/uPic/FiYqA1.png)
+
+还有一个开发者列出了他喜欢的论文，具体见：[my-favorite-papers](https://ordep.dev/posts/my-favorite-papers)，其中包括了LSM Tree， Kafka， Zookeeper，数字签名，等一些很经典的分布式领域的论文。 
 
 ## 🕸 网站 
 
-### [一证通查](https://getsimnum.caict.ac.cn/#/)
+### [transhumans](https://www.transhumans.xyz/)
 
-自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
+免费可商用的人物插图：
 
-![phone_query](https://images-1252557999.file.myqcloud.com/uPic/phone_query.png) 
+![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
 
-### [useanimations](https://useanimations.com/)
+### [picdiet.eula.club](https://picdiet.eula.club/)
 
-前端动态 `UI` 样式集合：
+`Picdiet` 是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏：
 
-![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
+![picdiet](https://images-1252557999.file.myqcloud.com/uPic/picdiet.jpg) 
 
-### [中国科学技术大学测速网站](https://test.ustc.edu.cn/)
+### [gemini-pro.chat](https://gemini-pro.chat/) 
 
-测试使用网络的上传下载速度等信息：
+免费的谷歌 `Gemini Chat Pro`，在线网站：
 
-![test-ustc](https://images-1252557999.file.myqcloud.com/uPic/test-ustc.jpg) 
+![gemini-pro.chat](https://images-1252557999.file.myqcloud.com/uPic/gemini-pro.chat.jpg) 
 
 ## ✍️ 说明
 
