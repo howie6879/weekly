@@ -5,58 +5,63 @@
 
 ## 🎯 项目 
 
-### [orpington-news](https://github.com/frysztak/orpington-news)
+### [paper-qa](https://github.com/whitead/paper-qa)
 
-可自部署的 `RSS` 阅读器，支持 `PWA`：
+用 `GPT-3` 来解读论文的开源项目：
 
-![orpington-news](https://images-1252557999.file.myqcloud.com/uPic/orpington-news.png) 
+![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
 
-### [van-blog](https://github.com/Mereithhh/van-blog)
+### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
 
-一款简洁实用优雅的高性能个人博客系统：
+通过网络收集整理的中文歌词数据库, 包含:
 
-![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
+- 绝大多数华语歌手在2019年之前的歌曲
+- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
+- 102197首歌曲, 平均每人25.4首歌
 
-### [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)
+作者基于此数据库做了两个歌词生成器：
 
-基于 `ChatGPT` 实现的代码解释器，只需向 `OpenAI` 模型提出请求，它就会为您生成并执行代码：
+- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
+- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
 
-![gpt-code-ui](https://images-1252557999.file.myqcloud.com/uPic/gpt-code-ui.png) 
+### [moneynote-api](https://github.com/getmoneynote/moneynote-api)
+
+一个开源免费的记账解决方案，包括[后端](https://github.com/getmoneynote/moneynote-api)，[网页版](https://github.com/getmoneynote/moneywhere-user-fe)，[App](https://github.com/getmoneynote/moneywhere_user_flutter)，主要用于个人生活记账，开店收支记账，支持[ Docker 一键部署](https://github.com/getmoneynote/docker-compose-moneywhere)自己的记账程序：
+
+![moneynote-api](https://images-1252557999.file.myqcloud.com/uPic/moneynote-api.png) 
 
 ## 🤖 软件 
 
-### [bilimiao2](https://github.com/10miaomiao/bilimiao2)
+### [ReadYou](https://github.com/Ashinch/ReadYou)
 
-一款安卓上的哔哩哔哩的第三方APP：
+这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
 
-![bilimiao2](https://images-1252557999.file.myqcloud.com/uPic/bilimiao2.jpg) 
+![ReadYou](https://images-1252557999.file.myqcloud.com/uPic/ReadYou.jpg) 
 
-### [box](https://github.com/liu673cn/box)
+### [AFFiNE](https://github.com/toeverything/AFFiNE)
 
-TVBox 开源版:
+`AFFiNE` 是为创意思考而生的统一知识管理平台，一个注重隐私、本地优先、开源且可立即使用的 `Notion + Miro` 开源替代方案：
 
-- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
-- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
-- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
-- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
-- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
-- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
-- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
-- 配置地址---输入站源---确定即可 URL站源规则
+- 同时书写、绘制和计划
+- 任意地方存储查看您的数据
+- 离线优先
+- 简洁直观的设计
+- 具备 `Markdown` 支持的现代区块编辑器
+- 团队协作
+- 多语言支持
+- 插件支持
 
-![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
+支持 `web` & 跨平台访问：
 
-### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
+![afine](https://images-1252557999.file.myqcloud.com/uPic/afine.jpg) 
 
-一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
+### [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
 
-![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
+旨在为不受苹果支持的 `Mac` 提供 `macOS Big Sur` 等更新版本的安装和使用，让你的旧 Mac 电脑可以体验最新的 macOS 系统：
+
+![OpenCore-Legacy-Patcher](https://images-1252557999.file.myqcloud.com/uPic/OpenCore-Legacy-Patcher.jpg) 
 
 ## 👀 资料 
-
-### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
-
-自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
 
 ### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
@@ -64,29 +69,35 @@ TVBox 开源版:
 
 ![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
 
-### [提示词 0-1入门](https://j1ohuigiiff.feishu.cn/wiki/RTVbwi6d9ivhyBka2rRcrNNgnye)
+### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
 
-提示词（Prompt）编写速成指南，教大家如何无痛写出一个贴合需求、达到商用级的 `Prompt` 。 
+从零开始 `Kubernetes` 攻防:
+
+![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
+
+### [leetcode](https://github.com/doocs/leetcode)
+
+本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
 
 ## 🕸 网站 
 
-### [khroma](https://www.khroma.co/)
+### [熊猫速读](https://qread.xmsoushu.com/)
 
-人工智能配色网站：
+熊猫速读是一个收集精品视频读书笔记或好书分享的网站！为您推荐好书速读的视频，在您读一本书或者购买图书之前通过视频介绍先快速了解书籍的内容，根据兴趣再决定是否购买。
 
-![khroma](https://images-1252557999.file.myqcloud.com/uPic/khroma.jpg) 
+![xmsd](https://images-1252557999.file.myqcloud.com/uPic/xmsd.jpg) 
 
-### [react-tetris](https://github.com/chvin/react-tetris)
+### [nosh](https://nosh.rocks/)
 
-用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
+一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
 
-![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
+![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
 
-### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
+### [douyin.wtf](https://douyin.wtf/)
 
-中国少年儿童新闻出版总社免费开放的少儿绘本网站：
+网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
 
-![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
+![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
 
 ## ✍️ 说明
 
