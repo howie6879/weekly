@@ -5,99 +5,92 @@
 
 ## 🎯 项目 
 
-### [paper-qa](https://github.com/whitead/paper-qa)
+### [tiptop](https://github.com/nschloe/tiptop)
 
-用 `GPT-3` 来解读论文的开源项目：
+类似`htop`的命令行系统资源监控工具：
 
-![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
+![tiptop](https://images-1252557999.file.myqcloud.com/uPic/tiptop.png) 
 
-### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
+### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
 
-通过网络收集整理的中文歌词数据库, 包含:
+该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
 
-- 绝大多数华语歌手在2019年之前的歌曲
-- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
-- 102197首歌曲, 平均每人25.4首歌
+![computer_book_list](https://images-1252557999.file.myqcloud.com/uPic/uxQa5E.png) 
 
-作者基于此数据库做了两个歌词生成器：
+### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
 
-- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
-- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
+`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
 
-### [moneynote-api](https://github.com/getmoneynote/moneynote-api)
-
-一个开源免费的记账解决方案，包括[后端](https://github.com/getmoneynote/moneynote-api)，[网页版](https://github.com/getmoneynote/moneywhere-user-fe)，[App](https://github.com/getmoneynote/moneywhere_user_flutter)，主要用于个人生活记账，开店收支记账，支持[ Docker 一键部署](https://github.com/getmoneynote/docker-compose-moneywhere)自己的记账程序：
-
-![moneynote-api](https://images-1252557999.file.myqcloud.com/uPic/moneynote-api.png) 
+![LuckysheetDemo](https://images-1252557999.file.myqcloud.com/uPic/LuckysheetDemo.gif) 
 
 ## 🤖 软件 
 
-### [ReadYou](https://github.com/Ashinch/ReadYou)
+### [Offset Explorer](https://www.kafkatool.com/download.html)
 
-这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
+个人免费的跨平台 `Kafka` 界面管理工具：
 
-![ReadYou](https://images-1252557999.file.myqcloud.com/uPic/ReadYou.jpg) 
+![offset-explorer](https://images-1252557999.file.myqcloud.com/uPic/offset-explorer.jpg) 
 
-### [AFFiNE](https://github.com/toeverything/AFFiNE)
+### [VueTube](https://github.com/VueTubeApp/VueTube)
 
-`AFFiNE` 是为创意思考而生的统一知识管理平台，一个注重隐私、本地优先、开源且可立即使用的 `Notion + Miro` 开源替代方案：
+轻巧的开放源代码流媒体客户端，旨在再造不同流媒体应用程序的所有功能：
 
-- 同时书写、绘制和计划
-- 任意地方存储查看您的数据
-- 离线优先
-- 简洁直观的设计
-- 具备 `Markdown` 支持的现代区块编辑器
-- 团队协作
-- 多语言支持
-- 插件支持
+- 🎨  **主题**：明亮、黑暗、OLED，以及彩虹中的任何颜色！您可根据您的喜好选择强调色和背景色。
+- 🖌️  **自定义使用者界面**：自定义主题，甚至停用您不使用的一些界面，以获得最佳体验。
+- ⬆️  **自动更新**：有新版本可用时接收通知，如果您不喜欢也可以撤销更新！
+- 👁️  **追踪阻断**：VueTube 默认不会发送任何跟踪数据，亦不使用任何外部 API。隐私是必要的！
+- 📺  **自家制的 HTML5 视频播放器**：内置在应用程序的播放器，拥有您所需的任何功能，例如 16 倍速。
+- 🌍  **翻译**： 本应用程序支持超过 25 种语言！默认语言因您的设备配置而定。 
 
-支持 `web` & 跨平台访问：
+### [ChatGPT](https://github.com/lencx/ChatGPT)
 
-![afine](https://images-1252557999.file.myqcloud.com/uPic/afine.jpg) 
+基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
 
-### [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
+- 历史聊天记录导出(PNG, PDF & Share Link)
+- 快捷键&系统托盘
+- 集成 [chatgpt prompt](https://prompts.chat/)
 
-旨在为不受苹果支持的 `Mac` 提供 `macOS Big Sur` 等更新版本的安装和使用，让你的旧 Mac 电脑可以体验最新的 macOS 系统：
+![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
 
-![OpenCore-Legacy-Patcher](https://images-1252557999.file.myqcloud.com/uPic/OpenCore-Legacy-Patcher.jpg) 
+作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
 
 ## 👀 资料 
 
-### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+### [法律文库](https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html)
 
-清华大学计算机系课程攻略：
+以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。
 
-![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
+![justlaws](https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg) 
 
-### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
+### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
 
-从零开始 `Kubernetes` 攻防:
+通过科学方法训练自己的身体，让自己更加健康：
 
-![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
+![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
 
-### [leetcode](https://github.com/doocs/leetcode)
+### [English-Writing](https://github.com/yzy1996/English-Writing)
 
-本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
+本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
 ## 🕸 网站 
 
-### [熊猫速读](https://qread.xmsoushu.com/)
+### [必应壁纸](https://bing.ioliu.cn/)
 
-熊猫速读是一个收集精品视频读书笔记或好书分享的网站！为您推荐好书速读的视频，在您读一本书或者购买图书之前通过视频介绍先快速了解书籍的内容，根据兴趣再决定是否购买。
+收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
 
-![xmsd](https://images-1252557999.file.myqcloud.com/uPic/xmsd.jpg) 
+![bing](https://images-1252557999.file.myqcloud.com/uPic/bing.jpg) 
 
-### [nosh](https://nosh.rocks/)
+### [onlinedoctranslator](https://www.onlinedoctranslator.com/zh-CN/)
 
-一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
+立即翻译任何文档格式为任意语言，并保持排版不变，免费：
 
-![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
+![onlinedoctranslator](https://images-1252557999.file.myqcloud.com/uPic/onlinedoctranslator.jpg) 
 
-### [douyin.wtf](https://douyin.wtf/)
+### [regex.ai](https://regex.ai/)
 
-网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
+`regex.ai` 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：
 
-![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
+![regex_ai](https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg) 
 
 ## ✍️ 说明
 
