@@ -5,92 +5,93 @@
 
 ## 🎯 项目 
 
-### [tiptop](https://github.com/nschloe/tiptop)
+### crontab-ui
 
-类似`htop`的命令行系统资源监控工具：
+提供简单安全的方式来管理 `crontab`:
 
-![tiptop](https://images-1252557999.file.myqcloud.com/uPic/tiptop.png) 
+![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
 
-### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
+### [Verdaccio](https://github.com/verdaccio/verdaccio)
 
-该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
+`Verdaccio` 是一个 `Node.js` 创建的轻量的私有 `npm proxy registry`：
 
-![computer_book_list](https://images-1252557999.file.myqcloud.com/uPic/uxQa5E.png) 
+![Verdaccio](https://images-1252557999.file.myqcloud.com/uPic/CRinc4.jpg) 
 
-### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
+### [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)
 
-`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
+一个 `Calibre` 插件，可以将电子书翻译成指定的语言：
 
-![LuckysheetDemo](https://images-1252557999.file.myqcloud.com/uPic/LuckysheetDemo.gif) 
+支持所选翻- 译引擎所支持的语言（如 Google 翻译支持 134 种）
+- 支持多种翻译引擎，包括 Google 翻译、ChatGPT 以及 DeepL
+- 支持自定义翻译引擎（支持解析 JSON 和 XML 格式响应）
+- 支持所有 Calibre 所支持的电子书格式（输入格式 48 种，输出格式 20 种）
+- 支持批量翻译电子书，每本书的翻译过程同时进行互不影响
+- 支持缓存翻译内容，在请求失败或网络中断后无需重新翻译
+- 提供大量自定义设置，如将翻译的电子书存到 Calibre 书库或指定位置
+
+![Ebook-Translator-Calibre-Plugin](https://images-1252557999.file.myqcloud.com/uPic/Ebook-Translator-Calibre-Plugin.png) 
 
 ## 🤖 软件 
 
-### [Offset Explorer](https://www.kafkatool.com/download.html)
+### [biyi](https://github.com/lijy91/biyi)
 
-个人免费的跨平台 `Kafka` 界面管理工具：
+比译是一个用 `Flutter` 编写的跨平台便捷翻译和词典应用：
 
-![offset-explorer](https://images-1252557999.file.myqcloud.com/uPic/offset-explorer.jpg) 
+![biyi](https://images-1252557999.file.myqcloud.com/uPic/biyi.jpg) 
 
-### [VueTube](https://github.com/VueTubeApp/VueTube)
+### [Tai](https://github.com/Planshit/Tai)
 
-轻巧的开放源代码流媒体客户端，旨在再造不同流媒体应用程序的所有功能：
+👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
 
-- 🎨  **主题**：明亮、黑暗、OLED，以及彩虹中的任何颜色！您可根据您的喜好选择强调色和背景色。
-- 🖌️  **自定义使用者界面**：自定义主题，甚至停用您不使用的一些界面，以获得最佳体验。
-- ⬆️  **自动更新**：有新版本可用时接收通知，如果您不喜欢也可以撤销更新！
-- 👁️  **追踪阻断**：VueTube 默认不会发送任何跟踪数据，亦不使用任何外部 API。隐私是必要的！
-- 📺  **自家制的 HTML5 视频播放器**：内置在应用程序的播放器，拥有您所需的任何功能，例如 16 倍速。
-- 🌍  **翻译**： 本应用程序支持超过 25 种语言！默认语言因您的设备配置而定。 
+![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
 
-### [ChatGPT](https://github.com/lencx/ChatGPT)
+### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
 
-基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
+科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
 
-- 历史聊天记录导出(PNG, PDF & Share Link)
-- 快捷键&系统托盘
-- 集成 [chatgpt prompt](https://prompts.chat/)
+![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
 
-![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
-
-作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
+还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
 
 ## 👀 资料 
 
-### [法律文库](https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html)
+### [missing-semester-cn](https://missing-semester-cn.github.io/)
 
-以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。
+计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
 
-![justlaws](https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg) 
+在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
 
-### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
+![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
 
-通过科学方法训练自己的身体，让自己更加健康：
+### [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book)
 
-![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
+`PeiQi` 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，`CTF` 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见。
 
-### [English-Writing](https://github.com/yzy1996/English-Writing)
+![PeiQi-WIKI-Book](https://images-1252557999.file.myqcloud.com/uPic/PeiQi-WIKI-Book.png) 
 
-本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
 ## 🕸 网站 
 
-### [必应壁纸](https://bing.ioliu.cn/)
+### [openvim](https://www.openvim.com/)
 
-收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
+交互式 `vim` 学习网站：
 
-![bing](https://images-1252557999.file.myqcloud.com/uPic/bing.jpg) 
+![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
 
-### [onlinedoctranslator](https://www.onlinedoctranslator.com/zh-CN/)
+### [书葵網](https://www.shukui.net/)
 
-立即翻译任何文档格式为任意语言，并保持排版不变，免费：
+读者可以在此查询本馆的图书、期刊、古籍等信息。检索条件会自动匹配书名、作者、出版社、ISBN搜索，返回最优匹配结果：
 
-![onlinedoctranslator](https://images-1252557999.file.myqcloud.com/uPic/onlinedoctranslator.jpg) 
+![shukui](https://images-1252557999.file.myqcloud.com/uPic/shukui.jpg) 
 
-### [regex.ai](https://regex.ai/)
+### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
 
-`regex.ai` 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：
+老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
 
-![regex_ai](https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg) 
+![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
 
 ## ✍️ 说明
 
