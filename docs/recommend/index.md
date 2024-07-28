@@ -5,55 +5,66 @@
 
 ## 🎯 项目 
 
-### [50projects50days](https://github.com/bradtraversy/50projects50days)
+### [Wallos](https://github.com/ellite/Wallos/)
 
-50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
+`Wallos` 是一个强大的、开源的、自托管的 Web 应用程序，旨在让你轻松地管理你的财务。向复杂的电子表格和昂贵的财务软件说再见吧—— Wallos 简化了跟踪支出的过程，帮助你更好地控制自己的财务生活。
 
-![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
+![Wallos](https://images-1252557999.file.myqcloud.com/uPic/Wallos.png) 
 
-### [nativefier](https://github.com/nativefier/nativefier)
+### [free-api](https://github.com/fangzesheng/free-api)
 
-这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
+作者创建此开源项目的目的如下：
 
-![nativefier_walkthrough](https://images-1252557999.file.myqcloud.com/uPic/nativefier_walkthrough.gif) 
+> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
 
-### [eagleuse](https://github.com/meetqy/eagleuse)
+包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
 
-**@meetqy** 自荐项目，把  `Eagle App` 打造成本地后台管理系统，快速构建 `WEB` 图片站：
+![free-api](https://images-1252557999.file.myqcloud.com/uPic/VvapMO.png) 
 
-![eagleuse](https://images-1252557999.file.myqcloud.com/uPic/eagleuse.jpg) 
+### [webvm](https://github.com/leaningtech/webvm)
+
+基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：[webvm.io](https://webvm.io/)。
+
+![webvm](https://images-1252557999.file.myqcloud.com/uPic/1yRQBe.png)
+
+详细的介绍文章见：[WebVM: server-less x86 virtual machines in the browser](https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361)。 
 
 ## 🤖 软件 
 
-### [Olauncher](https://github.com/tanujnotes/Olauncher)
+### [podman-desktop](https://github.com/containers/podman-desktop)
 
-适用于 `Android` 的最小 `AF` 启动器。减少您在屏幕上浪费的时间，提供日常壁纸，非常优雅简洁，效果上来看适合英文用户：
+ `Podman` 的桌面版：
+ 
+ ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
 
-![Olauncher](https://images-1252557999.file.myqcloud.com/uPic/Olauncher.jpg) 
+### [PlayCover](https://github.com/PlayCover/PlayCover)
 
-### [aniyomi](https://github.com/aniyomiorg/aniyomi)
+让你的 Apple Silicon Mac 能够运行 IOS 游戏和应用：
 
-读者推荐，`aniyomi` 不单单可以看漫画还可以看动漫，而且也支持[插件](https://aniyomi.org/extensions/)，更厉害的是，这个 APP 可以关联漫画进度记录网站，比如 Bangumi、MyAnimeList 等：
+![PlayCover](https://images-1252557999.file.myqcloud.com/uPic/PlayCover.jpg)
 
-![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
+源的话推荐：
 
-### [sunnypages](https://github.com/XMuli/sunnypages)
+- https://decrypt.day/library
+- https://ipa.store/
 
-`Sunny` 截图是一款简洁且漂亮的截图的软件工具，支持 `Windows，MacOS，Linux` 平台。亦支持图片翻译和 `OCR`：
+就是有些 APP 偶尔会崩溃。 
 
-![sunnypages](https://images-1252557999.file.myqcloud.com/uPic/sunnypages.jpg) 
+### [immersive-translate](https://github.com/immersive-translate/immersive-translate)
+
+沉浸式双语网页翻译扩展：
+
+- 智能识别网页主内容区进行翻译，区别于同类插件翻译网页所有区域的行为，降低对原网页的“侵入性”，增强译文的阅读体验，所以该扩展被命名为“沉浸式翻译”。
+- 双语显示，中文/英文对照（按照段落自然分割，或可设置为“将段落以句子分割”，实现每句话对照翻译）
+- 定制优化了常见的主流网站，比如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。
+- 支持 10 余种常见的翻译服务，包括 Deepl，谷歌，彩云小译，腾讯翻译君，百度翻译，火山翻译等。
+- 支持 PDF 文件双语翻译。
+- 支持 EPUB 电子书双语阅读，需配合 epub 在线阅读网站使用：https://epub-reader.online/  或  https://readwise.io/read
+- 提供多种译文样式选择，包括弱化、模糊、下划线、分隔线等样式，随心所欲的个性化你的翻译体验。
+
+![immersive-translate](https://images-1252557999.file.myqcloud.com/uPic/immersive-translate.jpg) 
 
 ## 👀 资料 
-
-### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
-
-一个在YouTube上发现最新机器学习课程的项目。 
-
-### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
-
-《结网》作者王坚的开源新书：
-
-![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
 
 ### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
 
@@ -61,25 +72,41 @@
 
 ![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
 
+### [db-tutorial](https://github.com/dunwu/db-tutorial)
+
+💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
+
+### [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
+
+这个项目包含了数据工程师领域需要的一些资料，对于拓展国际视野很有帮助：
+
+- 书籍课程
+- 社区
+- YouTube 频道等各大平台
+- Newsletters
+- ......
+
+![data-engineer-handbook](https://images-1252557999.file.myqcloud.com/uPic/data-engineer-handbook.png) 
+
 ## 🕸 网站 
 
-### [lucide](https://lucide.dev/)
+### [workout](https://workout.lol/)
 
-开源图标库，可以直接下载 `SVG`：
+免费[开源-workout-lol](https://github.com/workout-lol/workout-lol)的健身网站，选择你拥有的器材、锻炼的肌肉位置，网站便会为你制定锻炼计划：
 
-![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
+![workout](https://images-1252557999.file.myqcloud.com/uPic/workout.jpg) 
 
-### [RunningCode](https://github.com/tonyljx/running-leetcode)
+### [scribblediffusion.com](https://scribblediffusion.com/)
 
-一个算法小工具网站，收录了面试最高频的算法题~ 可以按【题目类型】，【题目出处】，以及【难易程度】去索引，帮助一刷，二刷的同学快速准备算法题。数据都是基于公开数据人工整理 + GPT 进行打标签。
+随便画一画，生成美观的图片：
 
-![running-leetcode](https://images-1252557999.file.myqcloud.com/uPic/running-leetcode.jpg) 
+![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
 
-### [cook](https://github.com/YunYouJun/cook)
+### [chatpdf](https://www.chatpdf.com/)
 
-一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
+和任何 PDF 进行沟通交流：
 
-![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
+![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
 
 ## ✍️ 说明
 
