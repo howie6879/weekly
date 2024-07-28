@@ -5,93 +5,81 @@
 
 ## 🎯 项目 
 
-### crontab-ui
+### [50projects50days](https://github.com/bradtraversy/50projects50days)
 
-提供简单安全的方式来管理 `crontab`:
+50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
 
-![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
+![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
 
-### [Verdaccio](https://github.com/verdaccio/verdaccio)
+### [nativefier](https://github.com/nativefier/nativefier)
 
-`Verdaccio` 是一个 `Node.js` 创建的轻量的私有 `npm proxy registry`：
+这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
 
-![Verdaccio](https://images-1252557999.file.myqcloud.com/uPic/CRinc4.jpg) 
+![nativefier_walkthrough](https://images-1252557999.file.myqcloud.com/uPic/nativefier_walkthrough.gif) 
 
-### [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)
+### [eagleuse](https://github.com/meetqy/eagleuse)
 
-一个 `Calibre` 插件，可以将电子书翻译成指定的语言：
+**@meetqy** 自荐项目，把  `Eagle App` 打造成本地后台管理系统，快速构建 `WEB` 图片站：
 
-支持所选翻- 译引擎所支持的语言（如 Google 翻译支持 134 种）
-- 支持多种翻译引擎，包括 Google 翻译、ChatGPT 以及 DeepL
-- 支持自定义翻译引擎（支持解析 JSON 和 XML 格式响应）
-- 支持所有 Calibre 所支持的电子书格式（输入格式 48 种，输出格式 20 种）
-- 支持批量翻译电子书，每本书的翻译过程同时进行互不影响
-- 支持缓存翻译内容，在请求失败或网络中断后无需重新翻译
-- 提供大量自定义设置，如将翻译的电子书存到 Calibre 书库或指定位置
-
-![Ebook-Translator-Calibre-Plugin](https://images-1252557999.file.myqcloud.com/uPic/Ebook-Translator-Calibre-Plugin.png) 
+![eagleuse](https://images-1252557999.file.myqcloud.com/uPic/eagleuse.jpg) 
 
 ## 🤖 软件 
 
-### [biyi](https://github.com/lijy91/biyi)
+### [Olauncher](https://github.com/tanujnotes/Olauncher)
 
-比译是一个用 `Flutter` 编写的跨平台便捷翻译和词典应用：
+适用于 `Android` 的最小 `AF` 启动器。减少您在屏幕上浪费的时间，提供日常壁纸，非常优雅简洁，效果上来看适合英文用户：
 
-![biyi](https://images-1252557999.file.myqcloud.com/uPic/biyi.jpg) 
+![Olauncher](https://images-1252557999.file.myqcloud.com/uPic/Olauncher.jpg) 
 
-### [Tai](https://github.com/Planshit/Tai)
+### [aniyomi](https://github.com/aniyomiorg/aniyomi)
 
-👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
+读者推荐，`aniyomi` 不单单可以看漫画还可以看动漫，而且也支持[插件](https://aniyomi.org/extensions/)，更厉害的是，这个 APP 可以关联漫画进度记录网站，比如 Bangumi、MyAnimeList 等：
 
-![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
+![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
 
-### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+### [sunnypages](https://github.com/XMuli/sunnypages)
 
-科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
+`Sunny` 截图是一款简洁且漂亮的截图的软件工具，支持 `Windows，MacOS，Linux` 平台。亦支持图片翻译和 `OCR`：
 
-![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
-
-还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
+![sunnypages](https://images-1252557999.file.myqcloud.com/uPic/sunnypages.jpg) 
 
 ## 👀 资料 
 
-### [missing-semester-cn](https://missing-semester-cn.github.io/)
+### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
-计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
+一个在YouTube上发现最新机器学习课程的项目。 
 
-在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
+### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
 
-![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
+《结网》作者王坚的开源新书：
 
-### [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book)
+![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
 
-`PeiQi` 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，`CTF` 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见。
+### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
 
-![PeiQi-WIKI-Book](https://images-1252557999.file.myqcloud.com/uPic/PeiQi-WIKI-Book.png) 
+《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
-
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
 
 ## 🕸 网站 
 
-### [openvim](https://www.openvim.com/)
+### [lucide](https://lucide.dev/)
 
-交互式 `vim` 学习网站：
+开源图标库，可以直接下载 `SVG`：
 
-![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
+![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
 
-### [书葵網](https://www.shukui.net/)
+### [RunningCode](https://github.com/tonyljx/running-leetcode)
 
-读者可以在此查询本馆的图书、期刊、古籍等信息。检索条件会自动匹配书名、作者、出版社、ISBN搜索，返回最优匹配结果：
+一个算法小工具网站，收录了面试最高频的算法题~ 可以按【题目类型】，【题目出处】，以及【难易程度】去索引，帮助一刷，二刷的同学快速准备算法题。数据都是基于公开数据人工整理 + GPT 进行打标签。
 
-![shukui](https://images-1252557999.file.myqcloud.com/uPic/shukui.jpg) 
+![running-leetcode](https://images-1252557999.file.myqcloud.com/uPic/running-leetcode.jpg) 
 
-### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
+### [cook](https://github.com/YunYouJun/cook)
 
-老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
+![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
 
 ## ✍️ 说明
 
