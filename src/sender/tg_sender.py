@@ -5,6 +5,7 @@
     PIPENV_DOTENV_LOCATION=./dev.env pipenv run python ./src/sender/tg_sender.py
     Changelog: all notable changes to this file will be documented
 """
+
 import asyncio
 import json
 import os
