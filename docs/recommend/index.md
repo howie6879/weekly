@@ -5,108 +5,91 @@
 
 ## 🎯 项目 
 
-### [Wallos](https://github.com/ellite/Wallos/)
+### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
 
-`Wallos` 是一个强大的、开源的、自托管的 Web 应用程序，旨在让你轻松地管理你的财务。向复杂的电子表格和昂贵的财务软件说再见吧—— Wallos 简化了跟踪支出的过程，帮助你更好地控制自己的财务生活。
+`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
 
-![Wallos](https://images-1252557999.file.myqcloud.com/uPic/Wallos.png) 
+![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
 
-### [free-api](https://github.com/fangzesheng/free-api)
+### [markdown-nice](https://github.com/mdnice/markdown-nice)
 
-作者创建此开源项目的目的如下：
+有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
 
-> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
+> 支持主题设计的 Markdown 编辑器，让排版变 Nice
 
-包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
+你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
 
-![free-api](https://images-1252557999.file.myqcloud.com/uPic/VvapMO.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
 
-### [webvm](https://github.com/leaningtech/webvm)
+官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
 
-基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：[webvm.io](https://webvm.io/)。
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
 
-![webvm](https://images-1252557999.file.myqcloud.com/uPic/1yRQBe.png)
+### [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
 
-详细的介绍文章见：[WebVM: server-less x86 virtual machines in the browser](https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361)。 
+`ArchiveBox` 是一个强大的、可自建的互联网归档解决方案，可以收集、保存和查看你想离线保存的网站：
+
+![ArchiveBox](https://images-1252557999.file.myqcloud.com/uPic/ArchiveBox.jpg) 
 
 ## 🤖 软件 
 
-### [podman-desktop](https://github.com/containers/podman-desktop)
+### [orange](https://github.com/naaive/orange)
 
- `Podman` 的桌面版：
- 
- ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
+基于`Rust`跨平台的文件搜索引擎：
 
-### [PlayCover](https://github.com/PlayCover/PlayCover)
+![Orange](https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg) 
 
-让你的 Apple Silicon Mac 能够运行 IOS 游戏和应用：
+### [Tai](https://github.com/Planshit/Tai)
 
-![PlayCover](https://images-1252557999.file.myqcloud.com/uPic/PlayCover.jpg)
+👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
 
-源的话推荐：
+![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
 
-- https://decrypt.day/library
-- https://ipa.store/
+### [tvapk](https://github.com/Archmage83/tvapk)
 
-就是有些 APP 偶尔会崩溃。 
+收集各大 `AndroidTV` 的 `apk` 应用，可免费看各种vip和国外电影电视：
 
-### [immersive-translate](https://github.com/immersive-translate/immersive-translate)
-
-沉浸式双语网页翻译扩展：
-
-- 智能识别网页主内容区进行翻译，区别于同类插件翻译网页所有区域的行为，降低对原网页的“侵入性”，增强译文的阅读体验，所以该扩展被命名为“沉浸式翻译”。
-- 双语显示，中文/英文对照（按照段落自然分割，或可设置为“将段落以句子分割”，实现每句话对照翻译）
-- 定制优化了常见的主流网站，比如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。
-- 支持 10 余种常见的翻译服务，包括 Deepl，谷歌，彩云小译，腾讯翻译君，百度翻译，火山翻译等。
-- 支持 PDF 文件双语翻译。
-- 支持 EPUB 电子书双语阅读，需配合 epub 在线阅读网站使用：https://epub-reader.online/  或  https://readwise.io/read
-- 提供多种译文样式选择，包括弱化、模糊、下划线、分隔线等样式，随心所欲的个性化你的翻译体验。
-
-![immersive-translate](https://images-1252557999.file.myqcloud.com/uPic/immersive-translate.jpg) 
+![tvapk](https://images-1252557999.file.myqcloud.com/uPic/tvapk.png) 
 
 ## 👀 资料 
 
-### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
+### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
 
-《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
+[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
 
-![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
+![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
 
-### [db-tutorial](https://github.com/dunwu/db-tutorial)
+### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
 
-💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
+《TCP/IP网络编程》(韩-尹圣雨)学习笔记
 
-### [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
+![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
 
-这个项目包含了数据工程师领域需要的一些资料，对于拓展国际视野很有帮助：
+### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
 
-- 书籍课程
-- 社区
-- YouTube 频道等各大平台
-- Newsletters
-- ......
-
-![data-engineer-handbook](https://images-1252557999.file.myqcloud.com/uPic/data-engineer-handbook.png) 
+这里有比较全面的时间序列数据相关资源。 
 
 ## 🕸 网站 
 
-### [workout](https://workout.lol/)
+### [读书笔记](https://reading.geek-docs.com/)
 
-免费[开源-workout-lol](https://github.com/workout-lol/workout-lol)的健身网站，选择你拥有的器材、锻炼的肌肉位置，网站便会为你制定锻炼计划：
+网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
 
-![workout](https://images-1252557999.file.myqcloud.com/uPic/workout.jpg) 
+![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
 
-### [scribblediffusion.com](https://scribblediffusion.com/)
+### [phind.com](https://www.phind.com/)
 
-随便画一画，生成美观的图片：
+面向开发者的人工智能搜索引擎：
 
-![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
+![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
 
-### [chatpdf](https://www.chatpdf.com/)
+### [ailogo](https://ailogo.qq.com/)
 
-和任何 PDF 进行沟通交流：
+`AI` 智能生成可商用的 `LOGO`：
 
-![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
+![ailogo](https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg) 
 
 ## ✍️ 说明
 
