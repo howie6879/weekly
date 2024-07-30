@@ -5,91 +5,88 @@
 
 ## 🎯 项目 
 
-### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
+### [xqdoo00o-chatgpt-web](https://github.com/xqdoo00o/chatgpt-web)
 
-`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
+纯 `JS` 实现的 `ChatGPT` 项目，基于 `OpenAI API`，其优势在于可以直接部署一个 `HTML` 文件即可，轻量实用：
 
-![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
+![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
 
-### [markdown-nice](https://github.com/mdnice/markdown-nice)
+### [think](https://github.com/fantasticit/think)
 
-有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
+云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通：
 
-> 支持主题设计的 Markdown 编辑器，让排版变 Nice
+![think](https://images-1252557999.file.myqcloud.com/uPic/think.jpg) 
 
-你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
+### [go-daily-lib](https://github.com/darjun/go-daily-lib)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
+每天学习一个 Go 语言库，内容质量相当高。
 
-官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
-
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
-
-### [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
-
-`ArchiveBox` 是一个强大的、可自建的互联网归档解决方案，可以收集、保存和查看你想离线保存的网站：
-
-![ArchiveBox](https://images-1252557999.file.myqcloud.com/uPic/ArchiveBox.jpg) 
+![go-daily-lib](https://images-1252557999.file.myqcloud.com/uPic/4Ippyf.png) 
 
 ## 🤖 软件 
 
-### [orange](https://github.com/naaive/orange)
+### [bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)
 
-基于`Rust`跨平台的文件搜索引擎：
+一款基于 `Flutter` 开发的跨平台面端 B 站视频下载器：
 
-![Orange](https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg) 
+![bilivideo_down](https://images-1252557999.file.myqcloud.com/uPic/bilivideo_down.jpg) 
 
-### [Tai](https://github.com/Planshit/Tai)
+### [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)
 
-👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
+免费开源抓包工具，支持 `Windows、Mac、Android、IOS、Linux` 全平台系统：
 
-![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
+![network_proxy_flutter](https://images-1252557999.file.myqcloud.com/uPic/network_proxy_flutter.png) 
 
-### [tvapk](https://github.com/Archmage83/tvapk)
+### [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
 
-收集各大 `AndroidTV` 的 `apk` 应用，可免费看各种vip和国外电影电视：
+🎉 一个 `Frp Client` 跨平台桌面端：
 
-![tvapk](https://images-1252557999.file.myqcloud.com/uPic/tvapk.png) 
+![](https://img.fre123.com/i/2023/12/23/6586f68db0238.jpg) 
 
 ## 👀 资料 
 
-### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
+深度学习入门教程资料聚合项目，包含：
 
-![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
 
-### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
+![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
 
-《TCP/IP网络编程》(韩-尹圣雨)学习笔记
+![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
 
-![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
+### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
 
-### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
+作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
 
-这里有比较全面的时间序列数据相关资源。 
+![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
+
+### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+
+该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
 
 ## 🕸 网站 
 
-### [读书笔记](https://reading.geek-docs.com/)
+### [lexica.art](https://lexica.art/)
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
 
-![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
+![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
 
-### [phind.com](https://www.phind.com/)
+### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
 
-面向开发者的人工智能搜索引擎：
+文字生成图片网站，效果和速度都还可以：
 
-![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
+![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
 
-### [ailogo](https://ailogo.qq.com/)
+### [cikeee](https://www.cikeee.com/)
 
-`AI` 智能生成可商用的 `LOGO`：
+每天推荐一部优秀的电影：
 
-![ailogo](https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg) 
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
 ## ✍️ 说明
 
