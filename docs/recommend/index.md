@@ -5,88 +5,98 @@
 
 ## 🎯 项目 
 
-### [xqdoo00o-chatgpt-web](https://github.com/xqdoo00o/chatgpt-web)
+### [apitable](https://github.com/apitable/apitable)
 
-纯 `JS` 实现的 `ChatGPT` 项目，基于 `OpenAI API`，其优势在于可以直接部署一个 `HTML` 文件即可，轻量实用：
+> [vika](https://vika.cn/?home=1) 维格表作为新一代数据生产力平台，是一款面向 API 的智能多维表格。
+> 它将复杂的可视化数据库、电子表格、实时在线协同、低代码开发技术四合为一，就连一行代码都不懂的普通职员都能轻松上手获得 IT 能力，从而极大降低企业数字化成本。
 
-![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
+ [vika](https://vika.cn/?home=1) 维格表推出的开源社区版——「[APITable](https://github.com/apitable/apitable)」，这意味着，你可以通过免费开源的多维表格技术去创造更多有趣的事物，可以看出这家公司格局很大：
+ 
+ ![apitable](https://images-1252557999.file.myqcloud.com/uPic/apitable.png) 
 
-### [think](https://github.com/fantasticit/think)
+### [mayfly-go](https://github.com/dromara/mayfly-go)
 
-云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通：
+web 版 linux(终端[终端回放] 文件 脚本 进程 计划任务)、数据库（mysql postgres 达梦）、redis(单机 哨兵 集群)、mongo 统一管理操作平台：
 
-![think](https://images-1252557999.file.myqcloud.com/uPic/think.jpg) 
+![mayfly-go](https://images-1252557999.file.myqcloud.com/uPic/mayfly-go.jpeg) 
 
-### [go-daily-lib](https://github.com/darjun/go-daily-lib)
+### [qinglong](https://github.com/whyour/qinglong)
 
-每天学习一个 Go 语言库，内容质量相当高。
+支持python3、javaScript、shell、typescript 的定时任务管理面板：
 
-![go-daily-lib](https://images-1252557999.file.myqcloud.com/uPic/4Ippyf.png) 
+- 支持多种脚本语言（python3、javaScript、shell、typescript）
+- 支持在线管理脚本、环境变量、配置文件
+- 支持在线查看任务日志
+- 支持秒级任务设置
+- 支持系统级通知
+- 支持暗黑模式
+- 支持手机端操作
+
+![ql](https://images-1252557999.file.myqcloud.com/uPic/ql.jpg) 
 
 ## 🤖 软件 
 
-### [bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)
+### [datastation](https://github.com/multiprocessio/datastation)
 
-一款基于 `Flutter` 开发的跨平台面端 B 站视频下载器：
+`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
 
-![bilivideo_down](https://images-1252557999.file.myqcloud.com/uPic/bilivideo_down.jpg) 
+![datastation](https://images-1252557999.file.myqcloud.com/uPic/datastation.jpg) 
 
-### [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)
+### [VPet](https://github.com/LorisYounger/VPet)
 
-免费开源抓包工具，支持 `Windows、Mac、Android、IOS、Linux` 全平台系统：
+虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何 `WPF` 应用程序，支持各种互动投喂等. 开源免费并且支持创意工坊：
 
-![network_proxy_flutter](https://images-1252557999.file.myqcloud.com/uPic/network_proxy_flutter.png) 
+![VPet](https://images-1252557999.file.myqcloud.com/uPic/VPet.jpg) 
 
-### [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
+### [codeapp](https://github.com/thebaselab/codeapp)
 
-🎉 一个 `Frp Client` 跨平台桌面端：
+为 `iPad` 构建一个成熟的代码编辑器：
 
-![](https://img.fre123.com/i/2023/12/23/6586f68db0238.jpg) 
+![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
 
 ## 👀 资料 
 
-### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 
-深度学习入门教程资料聚合项目，包含：
+本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
 
-- 数学基础
-- 机器学习基础
-- 深度学习基础
-- 工程能力
+基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
+配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
+测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
 
-![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
+![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
 
-![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
+### [云安全攻防入门](https://lzcloudsecurity.gitbook.io/yun-an-quan-gong-fang-ru-men/)
 
-### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
+关于云安全攻防的基础知识：
 
-作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
+![yun-an-quan-gong-fang-ru-men](https://images-1252557999.file.myqcloud.com/uPic/yun-an-quan-gong-fang-ru-men.jpg) 
 
-![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
+### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
 
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
 
 ## 🕸 网站 
 
-### [lexica.art](https://lexica.art/)
+### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
 
-可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
+Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
 
-![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
+![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
 
-### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
+### [flomoapp](https://flomoapp.com/)
 
-文字生成图片网站，效果和速度都还可以：
+flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
 
-![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
+![flomoapp](https://images-1252557999.file.myqcloud.com/uPic/6G6qrd.jpg) 
 
-### [cikeee](https://www.cikeee.com/)
+### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
 
-每天推荐一部优秀的电影：
+一份新冠预防及治疗指南：
 
-![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
+![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
 
 ## ✍️ 说明
 
