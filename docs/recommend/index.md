@@ -5,31 +5,23 @@
 
 ## 🎯 项目 
 
-### [taskcafe](https://github.com/JordanKnott/taskcafe)
+### [fast-poster](https://github.com/psoho/fast-poster)
 
-带看板的开源项目管理工具:
+`fastposter` 海报生成器是一款快速开发海报的工具。只需上传一张背景图，在对应的位置放上组件（文字、图片、二维码、头像）即可生成海报。 点击代码直接生成各种语言的调用代码，方便快速开发:
 
-- 通过看板界面管理任务（设置截止日期、标签、添加清单）
-- 通过我的任务视图查看所有当前分配的任务
-- 支持个人项目
-- 任务评论和活动
+![fast-poster](https://images-1252557999.file.myqcloud.com/uPic/fast-poster.png) 
 
-![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
+### [SoraWebui](https://github.com/SoraWebui/SoraWebui)
 
-### [pico.css](https://github.com/picocss/pico)
+`SoraWebui` 是一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能：
 
-简单优雅小巧的轻量级CSS框架，特性如下：
+![SoraWebui](https://images-1252557999.file.myqcloud.com/uPic/SoraWebui.jpeg) 
 
-- 尽量使用原生的HTML语义，上手简单
-- 仅使用CSS，无依赖
-- 在所有设备上都有优雅且一致的响应式排版
-- 默认支持亮/黑模式 
+### [quivr](https://github.com/stangirard/quivr)
 
-### [chart-gpt](https://github.com/whoiskatrin/chart-gpt)
+`Quivr` 是您在云中的第二个大脑，让您轻松存储和检索非结构化信息，通过索引你电脑上各种类型的文件，然后通过 `LLM` 处理，最后进行问答：
 
-基于文本输入构建图表的人工智能工具，可以直接在官网 [https://www.chartgpt.dev](https://www.chartgpt.dev/) 体验：
-
-![chartgpt](https://images-1252557999.file.myqcloud.com/uPic/chartgpt.jpg) 
+![quivr_qa](https://images-1252557999.file.myqcloud.com/uPic/quivr_qa.jpg) 
 
 ## 🤖 软件 
 
@@ -39,63 +31,61 @@
 
 ![poe](https://images-1252557999.file.myqcloud.com/uPic/poe.jpg) 
 
-### [tunnelblick](https://tunnelblick.net/)
+### [codeapp](https://github.com/thebaselab/codeapp)
 
-免费开源的`openvpn`客户端：
+为 `iPad` 构建一个成熟的代码编辑器：
 
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
 
-### [SyncClipboard](https://github.com/Jeric-X/SyncClipboard)
+### [OFGB](https://github.com/xM4ddy/OFGB)
 
-跨平台剪贴板同步方案，包含服务端客户端：
+`GUI` 工具删除 `Windows 11` 不同位置的广告：
 
-- 剪贴板同步，支持文字、图片和文件。服务器/客户端架构，可以使用客户端内置服务器、独立部署服务器，也可以使用支持WebDAV的网盘作为服务器
-- 优化图片类型的剪贴板，功能有：
-	- 从任意位置复制图片时，可以直接向文件系统粘贴图片文件，反之亦然
-	- 从浏览器复制图片后，后台下载原图到本地，解决无法从浏览器拷贝动态图的问题（大多网站有认证，适用范围有限，支持bilibili动态图片）
-	- 从文件系统复制较新格式类型的图片文件时（webp/heic等），在剪贴板内储存gif或jpg格式，用于直接向支持图片的文本框粘贴图片
-
-![SyncClipboard](https://images-1252557999.file.myqcloud.com/uPic/SyncClipboard.jpg)
-
-这个软件解决了老胡多台电脑间的复制同步问题，非常好用，强推，配置也不麻烦。 
+![OFGB](https://images-1252557999.file.myqcloud.com/uPic/OFGB.jpg) 
 
 ## 👀 资料 
 
-### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
+### [让你受益匪浅的名家写作经验](https://docs.qq.com/aio/DWVRkZ1RUWHRsdU1J?p=4oWLX7hAfFdfdbi4Ir5wqo)
 
-这个项目收集了黑五打折的App和课程：
+各文学大家的写作经验汇总：
 
-![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
+![让你受益匪浅的名家写作经验](https://images-1252557999.file.myqcloud.com/uPic/让你受益匪浅的名家写作经验.jpg) 
 
-### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
+### [react-illustration-series](https://github.com/7kms/react-illustration-series)
 
-对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
+图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
 
-### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
 
-每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
+一份循序渐进的 `k8s` 教程：
 
-![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
+![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
 
 ## 🕸 网站 
 
-### [linegraphmaker](https://linegraphmaker.co/)
+### [regex101](https://regex101.com/)
 
-在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
+`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
 
-![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
+- PHP
+- Python
+- JS
+- Go
+- Java
 
-### [batnoter](https://batnoter.com/)
+![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+### [workout](https://workout.lol/)
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+免费[开源-workout-lol](https://github.com/workout-lol/workout-lol)的健身网站，选择你拥有的器材、锻炼的肌肉位置，网站便会为你制定锻炼计划：
 
-### [waytoagi](https://www.waytoagi.com/)
+![workout](https://images-1252557999.file.myqcloud.com/uPic/workout.jpg) 
 
-`AI` 知识库和工具站：
+### [uilibhub](https://uilibhub.com/zh)
 
-![waytoagi](https://images-1252557999.file.myqcloud.com/uPic/waytoagi.jpg) 
+探索最佳 `UI` 库，助力 `React & Vue` 高效开发：
+
+![uilibhub](https://images-1252557999.file.myqcloud.com/uPic/uilibhub.jpg) 
 
 ## ✍️ 说明
 
