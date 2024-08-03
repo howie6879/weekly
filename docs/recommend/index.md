@@ -5,87 +5,81 @@
 
 ## 🎯 项目 
 
-### [fast-poster](https://github.com/psoho/fast-poster)
+### [ddns-go](https://github.com/jeessy2/ddns-go)
 
-`fastposter` 海报生成器是一款快速开发海报的工具。只需上传一张背景图，在对应的位置放上组件（文字、图片、二维码、头像）即可生成海报。 点击代码直接生成各种语言的调用代码，方便快速开发:
+简单好用的 `DDNS`，自动更新域名解析到公网IP(支持阿里云、腾讯云 `dnspod`、`Cloudflare`、华为云、百度云、`porkbun`)：
 
-![fast-poster](https://images-1252557999.file.myqcloud.com/uPic/fast-poster.png) 
+![ddns-go](https://images-1252557999.file.myqcloud.com/uPic/ddns-go.png) 
 
-### [SoraWebui](https://github.com/SoraWebui/SoraWebui)
+### [toolbox](https://github.com/aoaostar/toolbox)
 
-`SoraWebui` 是一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能：
+🚀傲星工具箱，一个在线工具箱：
 
-![SoraWebui](https://images-1252557999.file.myqcloud.com/uPic/SoraWebui.jpeg) 
+![toolbox](https://images-1252557999.file.myqcloud.com/uPic/toolbox.png) 
 
-### [quivr](https://github.com/stangirard/quivr)
+### [heti](https://github.com/sivan/heti)
 
-`Quivr` 是您在云中的第二个大脑，让您轻松存储和检索非结构化信息，通过索引你电脑上各种类型的文件，然后通过 `LLM` 处理，最后进行问答：
+赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
-![quivr_qa](https://images-1252557999.file.myqcloud.com/uPic/quivr_qa.jpg) 
+![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
 
 ## 🤖 软件 
 
-### [Poe Client](https://poe.com/download)
+### [biyi](https://github.com/lijy91/biyi)
 
-`Poe` 客户端，让你免费体验各种 `GPT & LLM` 机器人的聚合软件，一开始是网页版👉 [poe.com](https://poe.com/)，现在有原生客户端：
+比译是一个用 `Flutter` 编写的跨平台便捷翻译和词典应用：
 
-![poe](https://images-1252557999.file.myqcloud.com/uPic/poe.jpg) 
+![biyi](https://images-1252557999.file.myqcloud.com/uPic/biyi.jpg) 
 
-### [codeapp](https://github.com/thebaselab/codeapp)
+### [Navicat Premium Lite](https://www.navicat.com.cn/download/navicat-premium-lite)
 
-为 `iPad` 构建一个成熟的代码编辑器：
+Navicat 推出免费精简版—— `Navicat Premium Lite`：
 
-![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
+![navicat-premium-lite](https://img.fre123.com/i/2024/07/12/6690fb8d98f34.jpg) 
 
-### [OFGB](https://github.com/xM4ddy/OFGB)
+### [Offset Explorer](https://www.kafkatool.com/download.html)
 
-`GUI` 工具删除 `Windows 11` 不同位置的广告：
+个人免费的跨平台 `Kafka` 界面管理工具：
 
-![OFGB](https://images-1252557999.file.myqcloud.com/uPic/OFGB.jpg) 
+![offset-explorer](https://images-1252557999.file.myqcloud.com/uPic/offset-explorer.jpg) 
 
 ## 👀 资料 
 
-### [让你受益匪浅的名家写作经验](https://docs.qq.com/aio/DWVRkZ1RUWHRsdU1J?p=4oWLX7hAfFdfdbi4Ir5wqo)
+### [English-Writing](https://github.com/yzy1996/English-Writing)
 
-各文学大家的写作经验汇总：
+本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
-![让你受益匪浅的名家写作经验](https://images-1252557999.file.myqcloud.com/uPic/让你受益匪浅的名家写作经验.jpg) 
+### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
 
-### [react-illustration-series](https://github.com/7kms/react-illustration-series)
+作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
 
-图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
+![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
 
-### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
+### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
 
-一份循序渐进的 `k8s` 教程：
+为初学者整理的免费 `CSS` 课程：
 
-![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
+![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
 
 ## 🕸 网站 
 
-### [regex101](https://regex101.com/)
+### [zlib.pro](https://zlib.pro/)
 
-`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
+`Z-Library` 是一个书籍检索下载网站，这个网站提供了更方便的查找访问方式：
 
-- PHP
-- Python
-- JS
-- Go
-- Java
+![zlib-pro](https://images-1252557999.file.myqcloud.com/uPic/zlib-pro.jpg) 
 
-![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
+### [sysmini](https://www.sysmini.com/)
 
-### [workout](https://workout.lol/)
+站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
 
-免费[开源-workout-lol](https://github.com/workout-lol/workout-lol)的健身网站，选择你拥有的器材、锻炼的肌肉位置，网站便会为你制定锻炼计划：
+![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
 
-![workout](https://images-1252557999.file.myqcloud.com/uPic/workout.jpg) 
+### [动漫新番表](https://www.fre123.com/anime/n)
 
-### [uilibhub](https://uilibhub.com/zh)
+继上周做了[动漫搜索引擎](https://www.fre123.com/anime/s)后，老胡这次整了个动漫新番信息记录网站，新番信息脚本和数据都是开源的👉[fre123-anime](https://github.com/fre123-com/fre123-anime)，欢迎体验：
 
-探索最佳 `UI` 库，助力 `React & Vue` 高效开发：
-
-![uilibhub](https://images-1252557999.file.myqcloud.com/uPic/uilibhub.jpg) 
+![fre123_anime_n](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime_n.jpg) 
 
 ## ✍️ 说明
 
