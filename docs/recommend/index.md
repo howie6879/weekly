@@ -5,81 +5,94 @@
 
 ## 🎯 项目 
 
-### [ddns-go](https://github.com/jeessy2/ddns-go)
+### [homelab](https://github.com/khuedoan/homelab)
 
-简单好用的 `DDNS`，自动更新域名解析到公网IP(支持阿里云、腾讯云 `dnspod`、`Cloudflare`、华为云、百度云、`porkbun`)：
+一个开源的家用自托管基础设施项目，支持自动配置、操作和更新各类自托管服务，可用于打造自己的家庭开发实验室。其中包括代码自托管、证书管理、CI/CD 持续集成与交付、K8s 自动化安装和管理、实时聊天系统、应用监控面板等功能。
 
-![ddns-go](https://images-1252557999.file.myqcloud.com/uPic/ddns-go.png) 
+![homelab](https://images-1252557999.file.myqcloud.com/uPic/gB9qTV.jpg) 
 
-### [toolbox](https://github.com/aoaostar/toolbox)
+### [crawlee](https://crawlee.dev/)
 
-🚀傲星工具箱，一个在线工具箱：
+基于 `Node` 编写的开源网络爬虫库：
 
-![toolbox](https://images-1252557999.file.myqcloud.com/uPic/toolbox.png) 
+![crawlee](https://images-1252557999.file.myqcloud.com/uPic/crawlee.jpg) 
 
-### [heti](https://github.com/sivan/heti)
+### [1Panel](https://github.com/1Panel-dev/1Panel)
 
-赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+`1Panel` 是一个现代化、开源的 `Linux` 服务器运维管理面板。`1Panel` 的功能和优势包括：
 
-![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
+- **快速建站**：深度集成 Wordpress 和  [Halo](https://github.com/halo-dev/halo/)，域名绑定、SSL 证书配置等一键搞定；
+- **高效管理**：通过 Web 端轻松管理 Linux 服务器，包括应用管理、主机监控、文件管理、数据库管理、容器管理等；
+- **安全可靠**：最小漏洞暴露面，提供防火墙和安全审计等功能；
+- **一键备份**：支持一键备份和恢复，备份数据云端存储，永不丢失。
+
+![1Panel](https://images-1252557999.file.myqcloud.com/uPic/1Panel.png) 
 
 ## 🤖 软件 
 
-### [biyi](https://github.com/lijy91/biyi)
+### [MiniSim](https://github.com/okwasniewski/MiniSim)
 
-比译是一个用 `Flutter` 编写的跨平台便捷翻译和词典应用：
+一个 Mac 菜单栏软件，可以启动 iOS  或者 Android 🤖虚拟机：
 
-![biyi](https://images-1252557999.file.myqcloud.com/uPic/biyi.jpg) 
+![MiniSim](https://images-1252557999.file.myqcloud.com/uPic/MiniSim.png) 
 
-### [Navicat Premium Lite](https://www.navicat.com.cn/download/navicat-premium-lite)
+### [EyesGuard](https://github.com/avestura/EyesGuard)
 
-Navicat 推出免费精简版—— `Navicat Premium Lite`：
+`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
 
-![navicat-premium-lite](https://img.fre123.com/i/2024/07/12/6690fb8d98f34.jpg) 
+![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
 
-### [Offset Explorer](https://www.kafkatool.com/download.html)
+### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 
-个人免费的跨平台 `Kafka` 界面管理工具：
+适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
 
-![offset-explorer](https://images-1252557999.file.myqcloud.com/uPic/offset-explorer.jpg) 
+- **免费**：本项目所有代码开源，完全免费。
+- **方便**：解压即用，无需安装。不需要网络。
+- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
+- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
+
+![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
 
 ## 👀 资料 
 
-### [English-Writing](https://github.com/yzy1996/English-Writing)
+### [Getting Real](https://basecamp.com/gettingreal)
 
-本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
+`Basecamp` 的在线电子书，关于通过更智能、更快、更简单的方式，构建  `web` 应用程序的教程：
 
-### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
+![gettingreal](https://images-1252557999.file.myqcloud.com/uPic/gettingreal.jpg) 
 
-作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
+### [stevejobsarchive](https://book.stevejobsarchive.com/)
 
-![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
+乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：
 
-### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
+![stevejobsarchive_zh](https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg)
+如果你需要翻译版，可以在公众号后台联系我。 
 
-为初学者整理的免费 `CSS` 课程：
+### [meetup](https://github.com/baiyutang/meetup)
 
-![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
+【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
+
+![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
 
 ## 🕸 网站 
 
-### [zlib.pro](https://zlib.pro/)
+### [22.do](https://22.do/)
 
-`Z-Library` 是一个书籍检索下载网站，这个网站提供了更方便的查找访问方式：
+一次性 `Gmail` 临时邮箱：
 
-![zlib-pro](https://images-1252557999.file.myqcloud.com/uPic/zlib-pro.jpg) 
+![22do](https://images-1252557999.file.myqcloud.com/uPic/22do.jpg) 
 
-### [sysmini](https://www.sysmini.com/)
+### [scrnshts.club](https://scrnshts.club/)
 
-站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
+收集 App 在应用商店中做宣传用的截图，很有意思：
 
-![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
+![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
 
-### [动漫新番表](https://www.fre123.com/anime/n)
+### [photoroom](https://www.photoroom.com/backgrounds/)
 
-继上周做了[动漫搜索引擎](https://www.fre123.com/anime/s)后，老胡这次整了个动漫新番信息记录网站，新番信息脚本和数据都是开源的👉[fre123-anime](https://github.com/fre123-com/fre123-anime)，欢迎体验：
+利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
 
-![fre123_anime_n](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime_n.jpg) 
+![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
 
 ## ✍️ 说明
 
