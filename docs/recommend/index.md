@@ -5,42 +5,36 @@
 
 ## 🎯 项目 
 
-### [homelab](https://github.com/khuedoan/homelab)
+### [zinc](https://github.com/prabhatsharma/zinc)
 
-一个开源的家用自托管基础设施项目，支持自动配置、操作和更新各类自托管服务，可用于打造自己的家庭开发实验室。其中包括代码自托管、证书管理、CI/CD 持续集成与交付、K8s 自动化安装和管理、实时聊天系统、应用监控面板等功能。
+`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
 
-![homelab](https://images-1252557999.file.myqcloud.com/uPic/gB9qTV.jpg) 
+- 全文索引能力
+- 快速运行，多平台支持
+- 基于Vue的Web UI
+- 兼容ES API
+- 开箱即用的验证功能
+- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
 
-### [crawlee](https://crawlee.dev/)
+![zinc](https://images-1252557999.file.myqcloud.com/uPic/P9OAA1.jpg) 
 
-基于 `Node` 编写的开源网络爬虫库：
+### [Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese)
 
-![crawlee](https://images-1252557999.file.myqcloud.com/uPic/crawlee.jpg) 
+AI拟声: 克隆您的声音并生成任意语音内容。 
 
-### [1Panel](https://github.com/1Panel-dev/1Panel)
+### [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
 
-`1Panel` 是一个现代化、开源的 `Linux` 服务器运维管理面板。`1Panel` 的功能和优势包括：
+BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。
 
-- **快速建站**：深度集成 Wordpress 和  [Halo](https://github.com/halo-dev/halo/)，域名绑定、SSL 证书配置等一键搞定；
-- **高效管理**：通过 Web 端轻松管理 Linux 服务器，包括应用管理、主机监控、文件管理、数据库管理、容器管理等；
-- **安全可靠**：最小漏洞暴露面，提供防火墙和安全审计等功能；
-- **一键备份**：支持一键备份和恢复，备份数据云端存储，永不丢失。
-
-![1Panel](https://images-1252557999.file.myqcloud.com/uPic/1Panel.png) 
+![BiliBiliToolPro](https://images-1252557999.file.myqcloud.com/uPic/BiliBiliToolPro.jpg) 
 
 ## 🤖 软件 
 
-### [MiniSim](https://github.com/okwasniewski/MiniSim)
+### [Sucrose](https://github.com/Taiizor/Sucrose)
 
-一个 Mac 菜单栏软件，可以启动 iOS  或者 Android 🤖虚拟机：
+`Sucrose` 是一款开源的桌面壁纸引擎，支持轻量和深色主题，适应多屏和各种分辨率，能创建响应媒体和系统状态的动态壁纸，支持自定义主题和从社区下载主题，优化了 `CPU` 和 `GPU` 使用，节能模式可在笔记本电脑上自动暂停壁纸:
 
-![MiniSim](https://images-1252557999.file.myqcloud.com/uPic/MiniSim.png) 
-
-### [EyesGuard](https://github.com/avestura/EyesGuard)
-
-`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
-
-![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
+![Sucrose](https://images-1252557999.file.myqcloud.com/uPic/Sucrose.jpg) 
 
 ### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 
@@ -53,46 +47,61 @@
 
 ![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
 
+### [Seal](https://github.com/JunkFood02/Seal)
+
+一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
+
+- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
+- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
+- 播放列表下载支持
+- 内嵌字幕于视频文件中
+- 执行自定义的 yt-dlp 命令模板
+- 管理应用内下载与自定义命令模板
+- 使用简单、用户友好
+- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
+- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
+    
+![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
+
 ## 👀 资料 
 
-### [Getting Real](https://basecamp.com/gettingreal)
+### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
 
-`Basecamp` 的在线电子书，关于通过更智能、更快、更简单的方式，构建  `web` 应用程序的教程：
+《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
 
-![gettingreal](https://images-1252557999.file.myqcloud.com/uPic/gettingreal.jpg) 
+![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
 
-### [stevejobsarchive](https://book.stevejobsarchive.com/)
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
 
-![stevejobsarchive_zh](https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg)
-如果你需要翻译版，可以在公众号后台联系我。 
+![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
 
-### [meetup](https://github.com/baiyutang/meetup)
+### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
 
-【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
+机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
 
-![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
+![openmlsys](https://images-1252557999.file.myqcloud.com/uPic/openmlsys.jpg) 
 
 ## 🕸 网站 
 
-### [22.do](https://22.do/)
+### [RunningCode](https://github.com/tonyljx/running-leetcode)
 
-一次性 `Gmail` 临时邮箱：
+一个算法小工具网站，收录了面试最高频的算法题~ 可以按【题目类型】，【题目出处】，以及【难易程度】去索引，帮助一刷，二刷的同学快速准备算法题。数据都是基于公开数据人工整理 + GPT 进行打标签。
 
-![22do](https://images-1252557999.file.myqcloud.com/uPic/22do.jpg) 
+![running-leetcode](https://images-1252557999.file.myqcloud.com/uPic/running-leetcode.jpg) 
 
-### [scrnshts.club](https://scrnshts.club/)
+### [web.dev](https://web.dev/learn/)
 
-收集 App 在应用商店中做宣传用的截图，很有意思：
+谷歌团队开放的网页设计与开发课程：
 
-![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
+![web_dev](https://images-1252557999.file.myqcloud.com/uPic/web_dev.jpg) 
 
-### [photoroom](https://www.photoroom.com/backgrounds/)
+### [kkdaxue](https://www.kkdaxue.com/)
 
-利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
+高考志愿网站，发现各专业前辈们的学习建议：
 
-![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
+![kkdaxue](https://images-1252557999.file.myqcloud.com/uPic/kkdaxue.jpg) 
 
 ## ✍️ 说明
 
