@@ -5,103 +5,102 @@
 
 ## 🎯 项目 
 
-### [zinc](https://github.com/prabhatsharma/zinc)
+### [PyWxDump](https://github.com/xaoyaoo/PyWxDump)
 
-`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
+和上周推荐的 [WeChatMsg](https://weekly.howie6879.com/2023/11-27~12-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC118%E6%9C%9F%EF%BC%89.html) 项目同样类型，针对微信聊天记录，获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
 
-- 全文索引能力
-- 快速运行，多平台支持
-- 基于Vue的Web UI
-- 兼容ES API
-- 开箱即用的验证功能
-- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
+![PyWxDump](https://images-1252557999.file.myqcloud.com/uPic/PyWxDump.png) 
 
-![zinc](https://images-1252557999.file.myqcloud.com/uPic/P9OAA1.jpg) 
+### [coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy)
 
-### [Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese)
+代理 `Discord-Bot` 对话 `Coze-Bot`，实现 `API` 形式请求 `GPT4` 对话模型/微调模型：
 
-AI拟声: 克隆您的声音并生成任意语音内容。 
+- 完美适配`NextChat`,`one-api`,`LobeChat`等对话面板。
+- 完美支持对话隔离。
+- 对话接口支持流式返回。
+- 支持创建 `discord`分类/频道/线程。
+- 支持和`openai`对齐的对话接口(`v1/chat/completions`)(也支持`dall-e-3`文生图)
+- 支持和`openai`对齐的图/文件生文接口(`v1/chat/completions`)(按照`GPT4V`图/文件生文接口的请求格式 \[ 支持`url`或`base64` \])。
+- 支持和`openai`对齐的`dall-e-3`文生图接口(`v1/images/generations`)。
+- 支持每日`24`点定时任务自动活跃机器人。
+- 支持配置多机器人 (通过`PROXY_SECRET`/`model`指定) 详细请看进阶配置。
 
-### [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
+![coze-discord-proxy](https://images-1252557999.file.myqcloud.com/uPic/coze-discord-proxy.png) 
 
-BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。
+### [certd](https://github.com/certd/certd)
 
-![BiliBiliToolPro](https://images-1252557999.file.myqcloud.com/uPic/BiliBiliToolPro.jpg) 
+`CertD` 是一个免费全自动申请和部署 `SSL` 证书的工具，免费通配符域名 `SSL` 证书全自动申请、续期、部署，支持部署到阿里云、腾讯云、`ssh` 主机：
+
+![certd](https://images-1252557999.file.myqcloud.com/uPic/certd.png) 
 
 ## 🤖 软件 
 
-### [Sucrose](https://github.com/Taiizor/Sucrose)
+### [Screenbox](https://github.com/huynhsontung/Screenbox)
 
-`Sucrose` 是一款开源的桌面壁纸引擎，支持轻量和深色主题，适应多屏和各种分辨率，能创建响应媒体和系统状态的动态壁纸，支持自定义主题和从社区下载主题，优化了 `CPU` 和 `GPU` 使用，节能模式可在笔记本电脑上自动暂停壁纸:
+Screenbox 是一款现代视频播放器，构建在 LibVLCSharp 和通用 Windows 平台 (UWP) 之上，颜值颇高，同时又快速、轻量级。支持在 Windows 10 版本 1903+、Windows 11 和 Xbox 主机上使用:
 
-![Sucrose](https://images-1252557999.file.myqcloud.com/uPic/Sucrose.jpg) 
+![Screenbox](https://images-1252557999.file.myqcloud.com/uPic/Screenbox.jpg) 
 
-### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+### [legado](https://github.com/gedoor/legado)
 
-适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-- **免费**：本项目所有代码开源，完全免费。
-- **方便**：解压即用，无需安装。不需要网络。
-- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
-- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
 
-![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
+![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
 
-### [Seal](https://github.com/JunkFood02/Seal)
+### [Rectangle](https://github.com/rxhanson/Rectangle)
 
-一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
+`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
 
-- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
-- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
-- 播放列表下载支持
-- 内嵌字幕于视频文件中
-- 执行自定义的 yt-dlp 命令模板
-- 管理应用内下载与自定义命令模板
-- 使用简单、用户友好
-- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
-- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
-    
-![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
+![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
 
 ## 👀 资料 
 
-### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
+### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
 
-《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
+收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
 
-![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
+![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
 
-### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
+### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
 
-本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
+应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
 
-![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
+这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
 
-### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
+- 入侵排查
+- 日志分析
+- 权限维持
+- Windows实战
+- Linux实战
+- Web实战 
 
-机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
+### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
 
-![openmlsys](https://images-1252557999.file.myqcloud.com/uPic/openmlsys.jpg) 
+作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
+
+![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
 
 ## 🕸 网站 
 
-### [RunningCode](https://github.com/tonyljx/running-leetcode)
+### [aicolors](https://aicolors.co/)
 
-一个算法小工具网站，收录了面试最高频的算法题~ 可以按【题目类型】，【题目出处】，以及【难易程度】去索引，帮助一刷，二刷的同学快速准备算法题。数据都是基于公开数据人工整理 + GPT 进行打标签。
+通过提示词，基于 AI 生成配色方案：
 
-![running-leetcode](https://images-1252557999.file.myqcloud.com/uPic/running-leetcode.jpg) 
+![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
 
-### [web.dev](https://web.dev/learn/)
+### [CronTool](https://tool.crontap.com/cronjob-debugger)
 
-谷歌团队开放的网页设计与开发课程：
+`Linux Crontab` 可视化网站：
 
-![web_dev](https://images-1252557999.file.myqcloud.com/uPic/web_dev.jpg) 
+![crontap](https://images-1252557999.file.myqcloud.com/uPic/crontap.jpg) 
 
-### [kkdaxue](https://www.kkdaxue.com/)
+### [allthingsai](https://allthingsai.com/)
 
-高考志愿网站，发现各专业前辈们的学习建议：
+提供完整的 `AI` 相关工具&服务资源：
 
-![kkdaxue](https://images-1252557999.file.myqcloud.com/uPic/kkdaxue.jpg) 
+![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
 
 ## ✍️ 说明
 
