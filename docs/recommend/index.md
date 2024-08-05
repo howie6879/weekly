@@ -5,102 +5,101 @@
 
 ## 🎯 项目 
 
-### [PyWxDump](https://github.com/xaoyaoo/PyWxDump)
+### [QAnything](https://github.com/netease-youdao/QAnything)
 
-和上周推荐的 [WeChatMsg](https://weekly.howie6879.com/2023/11-27~12-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC118%E6%9C%9F%EF%BC%89.html) 项目同样类型，针对微信聊天记录，获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
+开源的企业级本地知识库问答解决方案，致力于支持任意格式文件或数据库的问答,您的任何格式的本地文件都可以往里扔，即可获得准确、快速、靠谱的问答体验。
 
-![PyWxDump](https://images-1252557999.file.myqcloud.com/uPic/PyWxDump.png) 
+目前已支持格式: `PDF，Word(doc/docx)，PPT，Markdown，Eml，TXT`，图片，网页链接:
 
-### [coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy)
+![QAnything](https://images-1252557999.file.myqcloud.com/uPic/QAnything.png) 
 
-代理 `Discord-Bot` 对话 `Coze-Bot`，实现 `API` 形式请求 `GPT4` 对话模型/微调模型：
+### [PanIndex](https://github.com/libsgh/PanIndex)
 
-- 完美适配`NextChat`,`one-api`,`LobeChat`等对话面板。
-- 完美支持对话隔离。
-- 对话接口支持流式返回。
-- 支持创建 `discord`分类/频道/线程。
-- 支持和`openai`对齐的对话接口(`v1/chat/completions`)(也支持`dall-e-3`文生图)
-- 支持和`openai`对齐的图/文件生文接口(`v1/chat/completions`)(按照`GPT4V`图/文件生文接口的请求格式 \[ 支持`url`或`base64` \])。
-- 支持和`openai`对齐的`dall-e-3`文生图接口(`v1/images/generations`)。
-- 支持每日`24`点定时任务自动活跃机器人。
-- 支持配置多机器人 (通过`PROXY_SECRET`/`model`指定) 详细请看进阶配置。
+网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
 
-![coze-discord-proxy](https://images-1252557999.file.myqcloud.com/uPic/coze-discord-proxy.png) 
+- 跨平台、易部署
+- 多模式、多网盘
+- 多主题
+- 下载直链
+- 防盗链
+- 短链、分享
+- 访问控制
+- 分流
+- WebDav
 
-### [certd](https://github.com/certd/certd)
+![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
 
-`CertD` 是一个免费全自动申请和部署 `SSL` 证书的工具，免费通配符域名 `SSL` 证书全自动申请、续期、部署，支持部署到阿里云、腾讯云、`ssh` 主机：
+### [py12306](https://github.com/pjialin/py12306)
 
-![certd](https://images-1252557999.file.myqcloud.com/uPic/certd.png) 
+🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理：
+
+![py12306](https://images-1252557999.file.myqcloud.com/uPic/py12306.jpg)
+
+如果实在抢不到，试下这个项目通过补票或者多买一站来解决：[12306spy](https://github.com/elroy93/12306spy)，这类项目每到假期就会火一把。 
 
 ## 🤖 软件 
 
-### [Screenbox](https://github.com/huynhsontung/Screenbox)
+### [AdAway](https://github.com/AdAway/AdAway)
 
-Screenbox 是一款现代视频播放器，构建在 LibVLCSharp 和通用 Windows 平台 (UWP) 之上，颜值颇高，同时又快速、轻量级。支持在 Windows 10 版本 1903+、Windows 11 和 Xbox 主机上使用:
+是一款免费且开源的 `Android` 广告拦截器：
 
-![Screenbox](https://images-1252557999.file.myqcloud.com/uPic/Screenbox.jpg) 
+![AdAway](https://images-1252557999.file.myqcloud.com/uPic/AdAway.jpg) 
 
-### [legado](https://github.com/gedoor/legado)
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
-阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 
-简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
-![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
+### [Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT)
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
+一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频:
 
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
-
-![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
+![Chenyme-AAVT](https://images-1252557999.file.myqcloud.com/uPic/Chenyme-AAVT.jpg) 
 
 ## 👀 资料 
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+### [note-architect](https://zq99299.github.io/note-architect/hc/)
 
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+高并发系统设计 40 问，一份架构师学习笔记：
 
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
 
-### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
+### [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial)
 
-应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
+一份用 `Python` 编写 `systemd` 服务的教程。 
 
-这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
+### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
 
-- 入侵排查
-- 日志分析
-- 权限维持
-- Windows实战
-- Linux实战
-- Web实战 
+阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
 
-### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
-
-作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
-
-![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
+![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
 
 ## 🕸 网站 
 
-### [aicolors](https://aicolors.co/)
+### [onemodel](https://www.onemodel.app/)
 
-通过提示词，基于 AI 生成配色方案：
+为软件工程师量身定制的绘图工具，网站提供很多软件架构的图标、素材、模板：
 
-![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
+![onemodel](https://images-1252557999.file.myqcloud.com/uPic/onemodel.png)
 
-### [CronTool](https://tool.crontap.com/cronjob-debugger)
+同类开源产品推荐如下：
 
-`Linux Crontab` 可视化网站：
+- [jgraph/drawio](https://github.com/jgraph/drawio)：经典流程绘图工具
+- [excalidraw](https://github.com/excalidraw/excalidraw)：白板绘图工具
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams)：用代码的形式生成架构图 
 
-![crontap](https://images-1252557999.file.myqcloud.com/uPic/crontap.jpg) 
+### [读者阁](https://duzhege.cn/)
 
-### [allthingsai](https://allthingsai.com/)
+可以在线阅读故事会、读者等杂志的网站：
 
-提供完整的 `AI` 相关工具&服务资源：
+![duzhege](https://images-1252557999.file.myqcloud.com/uPic/duzhege.jpg) 
 
-![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
+### [linegraphmaker](https://linegraphmaker.co/)
+
+在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
+
+![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
 
 ## ✍️ 说明
 
