@@ -5,101 +5,93 @@
 
 ## 🎯 项目 
 
-### [QAnything](https://github.com/netease-youdao/QAnything)
+### Command2API
 
-开源的企业级本地知识库问答解决方案，致力于支持任意格式文件或数据库的问答,您的任何格式的本地文件都可以往里扔，即可获得准确、快速、靠谱的问答体验。
+这是一个可以实时获取执行命令结果的脚本，脚本原理就是一个线程开启Web服务，一个线程执行命令，通过全局变量与Web服务共享执行命令的结果。
 
-目前已支持格式: `PDF，Word(doc/docx)，PPT，Markdown，Eml，TXT`，图片，网页链接:
+![Command2API](https://images-1252557999.file.myqcloud.com/uPic/mcMhsP.jpg) 
 
-![QAnything](https://images-1252557999.file.myqcloud.com/uPic/QAnything.png) 
+### [nocobase](https://github.com/nocobase/nocobase)
 
-### [PanIndex](https://github.com/libsgh/PanIndex)
+NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
 
-网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
+![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
 
-- 跨平台、易部署
-- 多模式、多网盘
-- 多主题
-- 下载直链
-- 防盗链
-- 短链、分享
-- 访问控制
-- 分流
-- WebDav
+### [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)
 
-![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
+朋友圈转发截图生成工具，这个项目确实解决了一些号主做活动要求发朋友圈的需求：
 
-### [py12306](https://github.com/pjialin/py12306)
-
-🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理：
-
-![py12306](https://images-1252557999.file.myqcloud.com/uPic/py12306.jpg)
-
-如果实在抢不到，试下这个项目通过补票或者多买一站来解决：[12306spy](https://github.com/elroy93/12306spy)，这类项目每到假期就会火一把。 
+![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-22_09-42-52.jpg) 
 
 ## 🤖 软件 
 
-### [AdAway](https://github.com/AdAway/AdAway)
+### [Xit](https://github.com/Uncommon/Xit)
 
-是一款免费且开源的 `Android` 广告拦截器：
+`Mac OS`下开源免费的原生`Git`客户端 ：
 
-![AdAway](https://images-1252557999.file.myqcloud.com/uPic/AdAway.jpg) 
+![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
 
-### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
+### [RTranslator](https://github.com/niedev/RTranslator)
 
-腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+`RTransator` 是一个(几乎)开源的、免费的、离线的 `Android` 实时翻译应用程序。
 
-![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
+连接到有这个应用程序的人，连接蓝牙耳机，把手机放在你的口袋里，你就可以像对方说你的语言一样进行交谈。
 
-### [Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT)
+![RTranslator](https://images-1252557999.file.myqcloud.com/uPic/RTranslator.jpg) 
 
-一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频:
+### [keyviz](https://github.com/mulaRahul/keyviz)
 
-![Chenyme-AAVT](https://images-1252557999.file.myqcloud.com/uPic/Chenyme-AAVT.jpg) 
+`Keyviz` 是一个免费且开源的工具，可以实时可视化您的按键⌨️和🖱️鼠标操作，比较适合录屏按键演示，基于 Flutter 开发，跨平台，颜值也不错：
+
+![keyviz](https://images-1252557999.file.myqcloud.com/uPic/keyviz.svg) 
 
 ## 👀 资料 
 
-### [note-architect](https://zq99299.github.io/note-architect/hc/)
+### [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note)
 
-高并发系统设计 40 问，一份架构师学习笔记：
+从0开始学习英语语法的开源项目：
 
-![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
+![english-note](https://images-1252557999.file.myqcloud.com/uPic/english-note.jpg) 
 
-### [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial)
+### [pdai](https://pdai.tech/)
 
-一份用 `Python` 编写 `systemd` 服务的教程。 
+Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
 
-### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
+![pdai](https://images-1252557999.file.myqcloud.com/uPic/8oZW41.png) 
 
-阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
+### [archbase](https://github.com/foxsen/archbase)
 
-![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+
+![archbase](https://images-1252557999.file.myqcloud.com/uPic/dUVvGI.png) 
 
 ## 🕸 网站 
 
-### [onemodel](https://www.onemodel.app/)
+### [css.gg](https://css.gg/)
 
-为软件工程师量身定制的绘图工具，网站提供很多软件架构的图标、素材、模板：
+`700+` 基于 `CSS` 的图标：
 
-![onemodel](https://images-1252557999.file.myqcloud.com/uPic/onemodel.png)
+![css_gg](https://images-1252557999.file.myqcloud.com/uPic/css_gg.jpg) 
 
-同类开源产品推荐如下：
+### [sci-hub](https://sci-hub.se/)
 
-- [jgraph/drawio](https://github.com/jgraph/drawio)：经典流程绘图工具
-- [excalidraw](https://github.com/excalidraw/excalidraw)：白板绘图工具
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams)：用代码的形式生成架构图 
+这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
 
-### [读者阁](https://duzhege.cn/)
+> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
 
-可以在线阅读故事会、读者等杂志的网站：
+用户可通过以下方式访问新版本：
 
-![duzhege](https://images-1252557999.file.myqcloud.com/uPic/duzhege.jpg) 
+- https://sci-hub.se/
+- https://sci-hub.ru/
+- https://sci-hub.st/
 
-### [linegraphmaker](https://linegraphmaker.co/)
+![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png) 
 
-在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
+### [alternativeto](https://alternativeto.net/)
 
-![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
+让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
+
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
 ## ✍️ 说明
 
