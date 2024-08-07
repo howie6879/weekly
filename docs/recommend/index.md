@@ -5,93 +5,101 @@
 
 ## 🎯 项目 
 
-### Command2API
+### [jina](https://github.com/jina-ai/jina)
 
-这是一个可以实时获取执行命令结果的脚本，脚本原理就是一个线程开启Web服务，一个线程执行命令，通过全局变量与Web服务共享执行命令的结果。
+![jina](https://images-1252557999.file.myqcloud.com/uPic/9MHbAU.png)
 
-![Command2API](https://images-1252557999.file.myqcloud.com/uPic/mcMhsP.jpg) 
+云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
 
-### [nocobase](https://github.com/nocobase/nocobase)
+相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
 
-NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
+### [melody](https://github.com/foamzou/melody)
 
-![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
+你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
 
-### [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)
+主要特性为：
 
-朋友圈转发截图生成工具，这个项目确实解决了一些号主做活动要求发朋友圈的需求：
+- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
+- 用链接搜索歌曲
+- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
 
-![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-22_09-42-52.jpg) 
+比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
+
+![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
+
+### [manifest](https://github.com/jonathontoon/manifest)
+
+本周最喜欢的一个项目，这是一个基于网格的即时便签板，可随时在浏览器中记笔记，相当于浏览器便签，虽然项目不更新了，但是功能基本完成，值得一试：
+
+![manifest](https://images-1252557999.file.myqcloud.com/uPic/manifest.jpg) 
 
 ## 🤖 软件 
 
-### [Xit](https://github.com/Uncommon/Xit)
+### [Equinox](https://github.com/rlxone/Equinox)
 
-`Mac OS`下开源免费的原生`Git`客户端 ：
+开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
 
-![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
+![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
 
-### [RTranslator](https://github.com/niedev/RTranslator)
+### [Gif123](https://github.com/aardio/Gif123)
 
-`RTransator` 是一个(几乎)开源的、免费的、离线的 `Android` 实时翻译应用程序。
+非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
 
-连接到有这个应用程序的人，连接蓝牙耳机，把手机放在你的口袋里，你就可以像对方说你的语言一样进行交谈。
+![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg) 
 
-![RTranslator](https://images-1252557999.file.myqcloud.com/uPic/RTranslator.jpg) 
+### [GodMode](https://github.com/smol-ai/GodMode/)
 
-### [keyviz](https://github.com/mulaRahul/keyviz)
+`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
 
-`Keyviz` 是一个免费且开源的工具，可以实时可视化您的按键⌨️和🖱️鼠标操作，比较适合录屏按键演示，基于 Flutter 开发，跨平台，颜值也不错：
-
-![keyviz](https://images-1252557999.file.myqcloud.com/uPic/keyviz.svg) 
+![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
 
 ## 👀 资料 
 
-### [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note)
+### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
 
-从0开始学习英语语法的开源项目：
+`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
 
-![english-note](https://images-1252557999.file.myqcloud.com/uPic/english-note.jpg) 
+![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
 
-### [pdai](https://pdai.tech/)
+`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
 
-Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
+![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
 
-![pdai](https://images-1252557999.file.myqcloud.com/uPic/8oZW41.png) 
+更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
 
-### [archbase](https://github.com/foxsen/archbase)
+### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
 
-这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
 
-![archbase](https://images-1252557999.file.myqcloud.com/uPic/dUVvGI.png) 
+该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
+
+![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
+
+### developer-roadmap
+
+开发人员学习成长路线图：
+
+![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
 
 ## 🕸 网站 
 
-### [css.gg](https://css.gg/)
+### [removebg](https://www.remove.bg/zh)
 
-`700+` 基于 `CSS` 的图标：
+这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
 
-![css_gg](https://images-1252557999.file.myqcloud.com/uPic/css_gg.jpg) 
+![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
 
-### [sci-hub](https://sci-hub.se/)
+### [favicon.io](https://favicon.io/)
 
-这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
+免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
 
-> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
+![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
 
-用户可通过以下方式访问新版本：
+### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
 
-- https://sci-hub.se/
-- https://sci-hub.ru/
-- https://sci-hub.st/
+来自阿里体系的各种技术资料，全部免费，个人非常推荐。
 
-![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png) 
-
-### [alternativeto](https://alternativeto.net/)
-
-让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
-
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
 
 ## ✍️ 说明
 
