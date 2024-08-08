@@ -5,101 +5,93 @@
 
 ## 🎯 项目 
 
-### [jina](https://github.com/jina-ai/jina)
+### [PyWxDump](https://github.com/xaoyaoo/PyWxDump)
 
-![jina](https://images-1252557999.file.myqcloud.com/uPic/9MHbAU.png)
+和上周推荐的 [WeChatMsg](https://weekly.howie6879.com/2023/11-27~12-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC118%E6%9C%9F%EF%BC%89.html) 项目同样类型，针对微信聊天记录，获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
 
-云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
+![PyWxDump](https://images-1252557999.file.myqcloud.com/uPic/PyWxDump.png) 
 
-相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
+### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
 
-### [melody](https://github.com/foamzou/melody)
+`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
 
-你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
+一个获取百度网盘分享链接下载地址的工具：
 
-主要特性为：
+![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
 
-- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
-- 用链接搜索歌曲
-- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
+### [docker-wechat](https://github.com/huan/docker-wechat)
 
-比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
+盒装微信，在linux下基于Docker技术使用微信客户端：
 
-![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
-
-### [manifest](https://github.com/jonathontoon/manifest)
-
-本周最喜欢的一个项目，这是一个基于网格的即时便签板，可随时在浏览器中记笔记，相当于浏览器便签，虽然项目不更新了，但是功能基本完成，值得一试：
-
-![manifest](https://images-1252557999.file.myqcloud.com/uPic/manifest.jpg) 
+![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
 
 ## 🤖 软件 
 
-### [Equinox](https://github.com/rlxone/Equinox)
+### [pear-rec](https://github.com/027xiguapi/pear-rec)
 
-开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
+`pear-rec`(梨子 rec) 是一个跨平台的截图、录屏、录音、录像软件：
 
-![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
+![pear-rec](https://images-1252557999.file.myqcloud.com/uPic/pear-rec.jpg) 
 
-### [Gif123](https://github.com/aardio/Gif123)
+### [anx-reader](https://github.com/Anxcye/anx-reader)
 
-非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
+安读是一款专注于阅读的应用，不包含任何在线推广内容，它可以帮助你更专注于阅读，提高阅读效率：
 
-![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg) 
+- 自动记录阅读进度，每次打开可以回到上次的进度。
+- 丰富且可自定义的阅读配色，让您的阅读更舒适。
+- 丰富的阅读设置，包括字号、行间距、字间距等，让阅读更轻松。
+- 随时在书中划线，多种样式和配色，随时回顾。
+- 强大的阅读统计，记录您的每一次阅读。
+- 丰富的阅读笔记功能，让您的阅读更深入。
+- 安读可自定义多种色彩主题，满足您的不同需求。
+- 想在夜晚更舒适的阅读？安读可以适配系统 深/浅 色模式，或手动切换。
+- 安读现已支持多语言（中、英），自动适配系统语言，亦可手动选择。
 
-### [GodMode](https://github.com/smol-ai/GodMode/)
+![anx-reader](https://images-1252557999.file.myqcloud.com/uPic/anx-reader.jpg) 
 
-`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
+### [bloop](https://github.com/BloopAI/bloop)
 
-![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
+`bloop` 是一个用 Rust 编写的快速代码搜索引擎，内部集成 `LLM` 大模型，可以快速让你导入一个代码仓库以自然语言形式进行问答，想快速上手一个项目或者文档不怎么够的项目，力荐👀：
+
+![bloop](https://images-1252557999.file.myqcloud.com/uPic/bloop.jpg) 
 
 ## 👀 资料 
 
-### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
-![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
+### [linux-command](https://github.com/jaywcjlove/linux-command)
 
-`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
 
-![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
+![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
 
-更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
+### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
-### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
+这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
 
-这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
-
-该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
-
-![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
-
-### developer-roadmap
-
-开发人员学习成长路线图：
-
-![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
+我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
 
 ## 🕸 网站 
 
-### [removebg](https://www.remove.bg/zh)
+### [fontawesome](https://fontawesome.com/icons/)
 
-这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
+比较完善全面的图标网站：
 
-![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
+![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
 
-### [favicon.io](https://favicon.io/)
+### [apitracker](https://apitracker.io/)
 
-免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
 
-![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
+![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
 
-### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
+### [devhints](https://devhints.io/)
 
-来自阿里体系的各种技术资料，全部免费，个人非常推荐。
+一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
 
-![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
+![devhints](https://images-1252557999.file.myqcloud.com/uPic/Wl8r0C.png) 
 
 ## ✍️ 说明
 
