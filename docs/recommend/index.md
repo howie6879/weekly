@@ -5,93 +5,92 @@
 
 ## 🎯 项目 
 
-### [PyWxDump](https://github.com/xaoyaoo/PyWxDump)
+### [OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
 
-和上周推荐的 [WeChatMsg](https://weekly.howie6879.com/2023/11-27~12-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC118%E6%9C%9F%EF%BC%89.html) 项目同样类型，针对微信聊天记录，获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
+这个项目是 `OOTDiffusion` 的官方实现，快速基于你上传的模特和图片生成产品效果图，AI 模特不是梦，点击 [ootd](https://ootd.ibot.cn/) 体验：
 
-![PyWxDump](https://images-1252557999.file.myqcloud.com/uPic/PyWxDump.png) 
+![ootd](https://images-1252557999.file.myqcloud.com/uPic/ootd.jpg) 
 
-### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
+### [yakGPT](https://github.com/yakGPT/yakGPT)
 
-`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
+一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
 
-一个获取百度网盘分享链接下载地址的工具：
+![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
 
-![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
+### [paper-qa](https://github.com/whitead/paper-qa)
 
-### [docker-wechat](https://github.com/huan/docker-wechat)
+用 `GPT-3` 来解读论文的开源项目：
 
-盒装微信，在linux下基于Docker技术使用微信客户端：
-
-![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
+![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
 
 ## 🤖 软件 
 
-### [pear-rec](https://github.com/027xiguapi/pear-rec)
+### [Setapp](https://go.setapp.com/invite/os8yv4jr)
 
-`pear-rec`(梨子 rec) 是一个跨平台的截图、录屏、录音、录像软件：
+虽然这个是个付费软件，但我还是很推荐：
 
-![pear-rec](https://images-1252557999.file.myqcloud.com/uPic/pear-rec.jpg) 
+> Setapp是由MacPaw公司于2017年推出的订阅服务，专为macOS和iOS用户提供多款精选应用程序。用户通过月费即可无限使用旗下丰富的应用集合，覆盖各种日常任务需求，无需单独购买或更新。
 
-### [anx-reader](https://github.com/Anxcye/anx-reader)
+订阅这个软件就可以免费使用 `Setapp` 里面 **240+** 的软件（单独买要付费的那种），比如我想使用GPT-4的对话功能，我单独买会员就是要20$。我现在直接花 **9.9\$**  订阅 `Setapp` ，然后直接里面直接使用 `Typing Mind` 就可以直接使用 GPT-4 Turbo，上下文 128k，对我来说单单这个就赚回来了。
 
-安读是一款专注于阅读的应用，不包含任何在线推广内容，它可以帮助你更专注于阅读，提高阅读效率：
+![setapp](https://images-1252557999.file.myqcloud.com/uPic/setapp.jpg) 
 
-- 自动记录阅读进度，每次打开可以回到上次的进度。
-- 丰富且可自定义的阅读配色，让您的阅读更舒适。
-- 丰富的阅读设置，包括字号、行间距、字间距等，让阅读更轻松。
-- 随时在书中划线，多种样式和配色，随时回顾。
-- 强大的阅读统计，记录您的每一次阅读。
-- 丰富的阅读笔记功能，让您的阅读更深入。
-- 安读可自定义多种色彩主题，满足您的不同需求。
-- 想在夜晚更舒适的阅读？安读可以适配系统 深/浅 色模式，或手动切换。
-- 安读现已支持多语言（中、英），自动适配系统语言，亦可手动选择。
+### [Macast](https://github.com/xfangfang/Macast)
 
-![anx-reader](https://images-1252557999.file.myqcloud.com/uPic/anx-reader.jpg) 
+Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
 
-### [bloop](https://github.com/BloopAI/bloop)
+![Macast](https://images-1252557999.file.myqcloud.com/uPic/CXYyQX.jpg) 
 
-`bloop` 是一个用 Rust 编写的快速代码搜索引擎，内部集成 `LLM` 大模型，可以快速让你导入一个代码仓库以自然语言形式进行问答，想快速上手一个项目或者文档不怎么够的项目，力荐👀：
+### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 
-![bloop](https://images-1252557999.file.myqcloud.com/uPic/bloop.jpg) 
+适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
+
+- **免费**：本项目所有代码开源，完全免费。
+- **方便**：解压即用，无需安装。不需要网络。
+- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
+- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
+
+![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
 
 ## 👀 资料 
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+开源书籍，`Prometheus`  操作指南：
 
-### [linux-command](https://github.com/jaywcjlove/linux-command)
+![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
 
-Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
+### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
 
-![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
+`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
 
-### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
 
-这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
+
+![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
 
 ## 🕸 网站 
 
-### [fontawesome](https://fontawesome.com/icons/)
+### [gcopy](https://gcopy.rutron.net/zh)
 
-比较完善全面的图标网站：
+一个剪切板同步的工具, 支持文字、截图和文件，使用 `Golang` 和 `Nextjs` 开发. 完全[开源](https://github.com/llaoj/gcopy)，`GCopy` 重视您的数据隐私, 不持久化存储您的数据, 它们都在内存中 `24h` 自动删除：
 
-![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
+![gcopy](https://images-1252557999.file.myqcloud.com/uPic/gcopy.jpg) 
 
-### [apitracker](https://apitracker.io/)
+### [alternativeto](https://alternativeto.net/)
 
-发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
+让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
 
-![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
-### [devhints](https://devhints.io/)
+### [regex.ai](https://regex.ai/)
 
-一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
+`regex.ai` 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：
 
-![devhints](https://images-1252557999.file.myqcloud.com/uPic/Wl8r0C.png) 
+![regex_ai](https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg) 
 
 ## ✍️ 说明
 
