@@ -5,92 +5,100 @@
 
 ## 🎯 项目 
 
-### [OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
+### [ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)
 
-这个项目是 `OOTDiffusion` 的官方实现，快速基于你上传的模特和图片生成产品效果图，AI 模特不是梦，点击 [ootd](https://ootd.ibot.cn/) 体验：
+[ComfyUI](https://github.com/comfyanonymous/ComfyUI) 是一个基于节点的 `Stable Diffusion GUI`，你可以通过将不同的块链接在一起来构建图像生成工作流程：
 
-![ootd](https://images-1252557999.file.myqcloud.com/uPic/ootd.jpg) 
+![ComfyUI-Workflows-ZHO](https://images-1252557999.file.myqcloud.com/uPic/ComfyUI-Workflows-ZHO.jpg)
 
-### [yakGPT](https://github.com/yakGPT/yakGPT)
+老胡之前也推荐过 [Comflowy](https://www.comflowy.com/zh-CN) 的社区，致力于提供系统成熟的教程和经验文档。 
 
-一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
+### [cal.com](https://github.com/calcom/cal.com)
 
-![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
+一个管理日程安排和预约的工具，可以说是 `Calendly` 的开源替代方案：
 
-### [paper-qa](https://github.com/whitead/paper-qa)
+![cal_com](https://images-1252557999.file.myqcloud.com/uPic/cal_com.jpg) 
 
-用 `GPT-3` 来解读论文的开源项目：
+### [ssddanbrown/rss](https://github.com/ssddanbrown/rss)
 
-![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
+一个简单的 `Twitter-feed` 风格的 `RSS` 聚合器，使用 `PHP、Laravel、Inertia.js、Tailwind、Vue.js` 编写:
+
+- 支持RSS和ATOM格式
+- 定期自动获取RSS订阅源
+- 自定义订阅名称和颜色
+- 基于内容的标签进行分类
+- 3种不同的帖子布局模式（卡片、列表、紧凑）
+- 获取页面的开放图像
+- 通过单个纯文本文件管理的订阅源
+- 基于系统的暗/亮主题
+- 帖子标题/描述搜索
+- 开箱即用的Docker镜像
+- 手机屏幕兼容
+- 清理旧的帖子数据
+
+![ssddanbrown_rss](https://images-1252557999.file.myqcloud.com/uPic/ssddanbrown_rss.png) 
 
 ## 🤖 软件 
 
-### [Setapp](https://go.setapp.com/invite/os8yv4jr)
+### [eoapi](https://github.com/eolinker/eoapi)
 
-虽然这个是个付费软件，但我还是很推荐：
+`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
 
-> Setapp是由MacPaw公司于2017年推出的订阅服务，专为macOS和iOS用户提供多款精选应用程序。用户通过月费即可无限使用旗下丰富的应用集合，覆盖各种日常任务需求，无需单独购买或更新。
+![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
 
-订阅这个软件就可以免费使用 `Setapp` 里面 **240+** 的软件（单独买要付费的那种），比如我想使用GPT-4的对话功能，我单独买会员就是要20$。我现在直接花 **9.9\$**  订阅 `Setapp` ，然后直接里面直接使用 `Typing Mind` 就可以直接使用 GPT-4 Turbo，上下文 128k，对我来说单单这个就赚回来了。
+### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 
-![setapp](https://images-1252557999.file.myqcloud.com/uPic/setapp.jpg) 
+`AnotherRedisDesktopManager` 是一个快速稳定好用的 `Redis` 跨平台桌面管理软件，更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值：
 
-### [Macast](https://github.com/xfangfang/Macast)
+![AnotherRedisDesktopManager](https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png) 
 
-Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
+### [Sucrose](https://github.com/Taiizor/Sucrose)
 
-![Macast](https://images-1252557999.file.myqcloud.com/uPic/CXYyQX.jpg) 
+`Sucrose` 是一款开源的桌面壁纸引擎，支持轻量和深色主题，适应多屏和各种分辨率，能创建响应媒体和系统状态的动态壁纸，支持自定义主题和从社区下载主题，优化了 `CPU` 和 `GPU` 使用，节能模式可在笔记本电脑上自动暂停壁纸:
 
-### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
-
-适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
-
-- **免费**：本项目所有代码开源，完全免费。
-- **方便**：解压即用，无需安装。不需要网络。
-- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
-- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
-
-![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
+![Sucrose](https://images-1252557999.file.myqcloud.com/uPic/Sucrose.jpg) 
 
 ## 👀 资料 
 
-### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
+### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
 
-开源书籍，`Prometheus`  操作指南：
+收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
 
-![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
+![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
 
-### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
+### [MySQL&PG 数据库教程](https://www.sjkjc.com/mysql/)
 
-`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
+一个专门讲数据库教程的资料网站：
 
-![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
+![sjkjc](https://images-1252557999.file.myqcloud.com/uPic/sjkjc.jpg) 
 
-### [miaosha](https://github.com/qiurunze123/miaosha)
+### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
 
-高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
+针对新人的 `CSS` 入门级教程：
 
-![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
+
+在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
 
 ## 🕸 网站 
 
-### [gcopy](https://gcopy.rutron.net/zh)
+### [damngood.tools](https://damngood.tools/)
 
-一个剪切板同步的工具, 支持文字、截图和文件，使用 `Golang` 和 `Nextjs` 开发. 完全[开源](https://github.com/llaoj/gcopy)，`GCopy` 重视您的数据隐私, 不持久化存储您的数据, 它们都在内存中 `24h` 自动删除：
+开源实用工具集合：
 
-![gcopy](https://images-1252557999.file.myqcloud.com/uPic/gcopy.jpg) 
+![damngood](https://images-1252557999.file.myqcloud.com/uPic/damngood.jpg) 
 
-### [alternativeto](https://alternativeto.net/)
+### [eja.tv](https://eja.tv/?)
 
-让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
+提供3808个在线电视频道，包含143个国家以及82种不同语言。
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
 
-### [regex.ai](https://regex.ai/)
+### [apk.bot](https://apk.bot/)
 
-`regex.ai` 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：
+免费无广告的 `APK` 下载网站：
 
-![regex_ai](https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg) 
+![apk_bot](https://images-1252557999.file.myqcloud.com/uPic/apk_bot.jpg) 
 
 ## ✍️ 说明
 
