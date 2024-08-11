@@ -5,100 +5,89 @@
 
 ## 🎯 项目 
 
-### [ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)
+### [fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
 
-[ComfyUI](https://github.com/comfyanonymous/ComfyUI) 是一个基于节点的 `Stable Diffusion GUI`，你可以通过将不同的块链接在一起来构建图像生成工作流程：
+微软开源的 `Fluent Emoji` 表情包：
 
-![ComfyUI-Workflows-ZHO](https://images-1252557999.file.myqcloud.com/uPic/ComfyUI-Workflows-ZHO.jpg)
+![fluentui-emoji](https://images-1252557999.file.myqcloud.com/uPic/fluentui-emoji.webp) 
 
-老胡之前也推荐过 [Comflowy](https://www.comflowy.com/zh-CN) 的社区，致力于提供系统成熟的教程和经验文档。 
+### [osquery](https://github.com/osquery/osquery)
 
-### [cal.com](https://github.com/calcom/cal.com)
+像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
 
-一个管理日程安排和预约的工具，可以说是 `Calendly` 的开源替代方案：
+![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
 
-![cal_com](https://images-1252557999.file.myqcloud.com/uPic/cal_com.jpg) 
+### [eagleuse](https://github.com/meetqy/eagleuse)
 
-### [ssddanbrown/rss](https://github.com/ssddanbrown/rss)
+**@meetqy** 自荐项目，把  `Eagle App` 打造成本地后台管理系统，快速构建 `WEB` 图片站：
 
-一个简单的 `Twitter-feed` 风格的 `RSS` 聚合器，使用 `PHP、Laravel、Inertia.js、Tailwind、Vue.js` 编写:
-
-- 支持RSS和ATOM格式
-- 定期自动获取RSS订阅源
-- 自定义订阅名称和颜色
-- 基于内容的标签进行分类
-- 3种不同的帖子布局模式（卡片、列表、紧凑）
-- 获取页面的开放图像
-- 通过单个纯文本文件管理的订阅源
-- 基于系统的暗/亮主题
-- 帖子标题/描述搜索
-- 开箱即用的Docker镜像
-- 手机屏幕兼容
-- 清理旧的帖子数据
-
-![ssddanbrown_rss](https://images-1252557999.file.myqcloud.com/uPic/ssddanbrown_rss.png) 
+![eagleuse](https://images-1252557999.file.myqcloud.com/uPic/eagleuse.jpg) 
 
 ## 🤖 软件 
 
-### [eoapi](https://github.com/eolinker/eoapi)
+### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
 
-`Eoapi` 是一个可扩展的 `API` 开发工具。`Eoapi` 集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
 
-![Eoapi](https://images-1252557999.file.myqcloud.com/uPic/Eoapi.png) 
+![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
 
-### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+### [codeapp](https://github.com/thebaselab/codeapp)
 
-`AnotherRedisDesktopManager` 是一个快速稳定好用的 `Redis` 跨平台桌面管理软件，更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值：
+为 `iPad` 构建一个成熟的代码编辑器：
 
-![AnotherRedisDesktopManager](https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png) 
+![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
 
-### [Sucrose](https://github.com/Taiizor/Sucrose)
+### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
 
-`Sucrose` 是一款开源的桌面壁纸引擎，支持轻量和深色主题，适应多屏和各种分辨率，能创建响应媒体和系统状态的动态壁纸，支持自定义主题和从社区下载主题，优化了 `CPU` 和 `GPU` 使用，节能模式可在笔记本电脑上自动暂停壁纸:
+FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
 
-![Sucrose](https://images-1252557999.file.myqcloud.com/uPic/Sucrose.jpg) 
+- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
+- 基于文本的歌单，方便与朋友分享、设备之间同步
+- 提供基于 TCP 的交互控制协议
+- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
+- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
+
+![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
 
 ## 👀 资料 
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
 
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
 
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
 
-### [MySQL&PG 数据库教程](https://www.sjkjc.com/mysql/)
+### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
-一个专门讲数据库教程的资料网站：
+微软开源的一份全面的数据科学课程，20个课时，历时10周：
 
-![sjkjc](https://images-1252557999.file.myqcloud.com/uPic/sjkjc.jpg) 
+![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
 
-### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
+### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
-针对新人的 `CSS` 入门级教程：
+30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
-
-在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
+![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
 
 ## 🕸 网站 
 
-### [damngood.tools](https://damngood.tools/)
+### [epub-manga-creator](https://github.com/wing-kai/epub-manga-creator)
 
-开源实用工具集合：
+把一堆漫画图片打包成 `epub` 格式的 `Web GUI`：
 
-![damngood](https://images-1252557999.file.myqcloud.com/uPic/damngood.jpg) 
+![epub-manga-creator](https://images-1252557999.file.myqcloud.com/uPic/epub-manga-creator.jpg) 
 
-### [eja.tv](https://eja.tv/?)
+### [react-tetris](https://github.com/chvin/react-tetris)
 
-提供3808个在线电视频道，包含143个国家以及82种不同语言。
+用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
 
-![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
+![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
 
-### [apk.bot](https://apk.bot/)
+### [scribblediffusion.com](https://scribblediffusion.com/)
 
-免费无广告的 `APK` 下载网站：
+随便画一画，生成美观的图片：
 
-![apk_bot](https://images-1252557999.file.myqcloud.com/uPic/apk_bot.jpg) 
+![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
 
 ## ✍️ 说明
 
