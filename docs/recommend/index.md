@@ -5,89 +5,101 @@
 
 ## 🎯 项目 
 
-### [fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
+### [gitrec](https://github.com/gorse-io/gitrec)
 
-微软开源的 `Fluent Emoji` 表情包：
+作者自己维护的Gorse推荐系统，开发了一款 Chrome 插件：
 
-![fluentui-emoji](https://images-1252557999.file.myqcloud.com/uPic/fluentui-emoji.webp) 
+- 推荐每个热门项目的相似或者相关仓库；
+- 用 [Gorse](https://github.com/gorse-io/gorse) 生成的个性化推荐仓库替换 GitHub 官方的推荐结果。
 
-### [osquery](https://github.com/osquery/osquery)
+目前支持 Chrome 和 Edge 两款浏览器：
 
-像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
+![gorse](https://images-1252557999.file.myqcloud.com/uPic/gorse.png) 
 
-![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
+### [Navidrome](https://github.com/navidrome/navidrome)
 
-### [eagleuse](https://github.com/meetqy/eagleuse)
+`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
 
-**@meetqy** 自荐项目，把  `Eagle App` 打造成本地后台管理系统，快速构建 `WEB` 图片站：
+![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
 
-![eagleuse](https://images-1252557999.file.myqcloud.com/uPic/eagleuse.jpg) 
+### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
+
+`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
+
+![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
 
 ## 🤖 软件 
 
-### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
+### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
 
-提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
+基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
 
-![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
+![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
 
-### [codeapp](https://github.com/thebaselab/codeapp)
+### [Bob](https://github.com/ripperhe/Bob)
 
-为 `iPad` 构建一个成熟的代码编辑器：
+同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
 
-![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
+- [x]   划词翻译
+- [x]   截图翻译
+- [x]   输入翻译
+- [x]   翻译多开
+- [x]   自定义插件
+- [x]   自动识别语种
+- [x]   驼峰拆分、蛇形拆分
+- [x]   AppleScript 调用
+- [x]   PopClip 调用 
 
-### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
+### [pdfarranger](https://github.com/pdfarranger/pdfarranger)
 
-FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
+一个小巧开源免费的 `Python-GTK` 应用程序，可以帮助用户使用交互和直观的图形界面合并或拆分 `PDF` 文档，并旋转、裁剪和重新排列页面：
 
-- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
-- 基于文本的歌单，方便与朋友分享、设备之间同步
-- 提供基于 TCP 的交互控制协议
-- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
-- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
-
-![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
+![pdfarranger](https://images-1252557999.file.myqcloud.com/uPic/pdfarranger.png) 
 
 ## 👀 资料 
 
-### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
+### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
 
-一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
+为初学者整理的免费 `CSS` 课程：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
+![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
 
-### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
 
-微软开源的一份全面的数据科学课程，20个课时，历时10周：
+精益副业：程序员如何优雅地做副业:
 
-![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
+![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
 
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+### [how-web-works](https://github.com/vasanthk/how-web-works)
 
-30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
-
-![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
+当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
 
 ## 🕸 网站 
 
-### [epub-manga-creator](https://github.com/wing-kai/epub-manga-creator)
+### [jsonvisio](https://jsonvisio.com/editor)
 
-把一堆漫画图片打包成 `epub` 格式的 `Web GUI`：
+将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
 
-![epub-manga-creator](https://images-1252557999.file.myqcloud.com/uPic/epub-manga-creator.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/jsonvisio.jpg) 
 
-### [react-tetris](https://github.com/chvin/react-tetris)
+### [文学网](https://www.hwxnet.com/)
 
-用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
+文学相关工具在线网站：
 
-![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
 
-### [scribblediffusion.com](https://scribblediffusion.com/)
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
-随便画一画，生成美观的图片：
+### [chatgpt-sites](https://github.com/lzwme/chatgpt-sites)
 
-![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
+搜集国内可用的 ChatGPT 在线体验免费网站列表，定时任务每日更新，点击[这里](https://lzw.me/x/chatgpt-sites/)访问：
+
+![chatgpt-sites](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-sites.jpg) 
 
 ## ✍️ 说明
 
