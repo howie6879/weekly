@@ -5,101 +5,84 @@
 
 ## 🎯 项目 
 
-### [gitrec](https://github.com/gorse-io/gitrec)
+### [Wallos](https://github.com/ellite/Wallos/)
 
-作者自己维护的Gorse推荐系统，开发了一款 Chrome 插件：
+`Wallos` 是一个强大的、开源的、自托管的 Web 应用程序，旨在让你轻松地管理你的财务。向复杂的电子表格和昂贵的财务软件说再见吧—— Wallos 简化了跟踪支出的过程，帮助你更好地控制自己的财务生活。
 
-- 推荐每个热门项目的相似或者相关仓库；
-- 用 [Gorse](https://github.com/gorse-io/gorse) 生成的个性化推荐仓库替换 GitHub 官方的推荐结果。
+![Wallos](https://images-1252557999.file.myqcloud.com/uPic/Wallos.png) 
 
-目前支持 Chrome 和 Edge 两款浏览器：
+### [Hakuba](https://github.com/YeungKC/Hakuba)
 
-![gorse](https://images-1252557999.file.myqcloud.com/uPic/gorse.png) 
+一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
 
-### [Navidrome](https://github.com/navidrome/navidrome)
+![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
 
-`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
+### [certd](https://github.com/certd/certd)
 
-![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
+`CertD` 是一个免费全自动申请和部署 `SSL` 证书的工具，免费通配符域名 `SSL` 证书全自动申请、续期、部署，支持部署到阿里云、腾讯云、`ssh` 主机：
 
-### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
-
-`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
-
-![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
+![certd](https://images-1252557999.file.myqcloud.com/uPic/certd.png) 
 
 ## 🤖 软件 
 
-### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
+### [Rectangle](https://github.com/rxhanson/Rectangle)
 
-基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
+`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
 
-![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
+![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
 
-### [Bob](https://github.com/ripperhe/Bob)
+### [insomnia](https://github.com/Kong/insomnia)
 
-同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
+在[第009期（10-11~10-17）](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
 
-- [x]   划词翻译
-- [x]   截图翻译
-- [x]   输入翻译
-- [x]   翻译多开
-- [x]   自定义插件
-- [x]   自动识别语种
-- [x]   驼峰拆分、蛇形拆分
-- [x]   AppleScript 调用
-- [x]   PopClip 调用 
+![insomnia](https://images-1252557999.file.myqcloud.com/uPic/insomnia.png)
+使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
 
-### [pdfarranger](https://github.com/pdfarranger/pdfarranger)
+### [chatbox](https://github.com/Bin-Huang/chatbox)
 
-一个小巧开源免费的 `Python-GTK` 应用程序，可以帮助用户使用交互和直观的图形界面合并或拆分 `PDF` 文档，并旋转、裁剪和重新排列页面：
+开源的 `ChatGPT API (OpenAI API)` 桌面客户端，`Prompt` 的调试与管理工具，支持 `Windows、Mac 和 Linux`：
 
-![pdfarranger](https://images-1252557999.file.myqcloud.com/uPic/pdfarranger.png) 
+![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.png) 
 
 ## 👀 资料 
 
-### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
+### [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 
-为初学者整理的免费 `CSS` 课程：
+微软免费课程：12堂课入门生成式AI，从而开始构建你自己的生成式人工智能应用程序：
 
-![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
+![generative-ai-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/generative-ai-for-beginners.png) 
 
-### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
+### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
 
-精益副业：程序员如何优雅地做副业:
+这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
 
-![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
+该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
 
-### [how-web-works](https://github.com/vasanthk/how-web-works)
+![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
 
-当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
+### [react-illustration-series](https://github.com/7kms/react-illustration-series)
+
+图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
 
 ## 🕸 网站 
 
-### [jsonvisio](https://jsonvisio.com/editor)
+### [极简番茄](https://t.kuaitu.cc/)
 
-将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
+极简优雅的番茄时钟软件，适合做屏保：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/jsonvisio.jpg) 
+![kuaitu](https://images-1252557999.file.myqcloud.com/uPic/kuaitu.jpg) 
 
-### [文学网](https://www.hwxnet.com/)
+### [awesome-chatgpt-prompts](https://prompts.chat/)
 
-文学相关工具在线网站：
+`ChatGPT` 余热不减，一周百万用户果然不是盖的，这个项目总结了 `ChatGPT` 常用姿势：
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
+![prompts](https://images-1252557999.file.myqcloud.com/uPic/prompts.jpg) 
 
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+### [aspoem](https://aspoem.com/)
 
-### [chatgpt-sites](https://github.com/lzwme/chatgpt-sites)
+现代化中国诗词学习网站 - 更加注重 UI、阅读体验：
 
-搜集国内可用的 ChatGPT 在线体验免费网站列表，定时任务每日更新，点击[这里](https://lzw.me/x/chatgpt-sites/)访问：
-
-![chatgpt-sites](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-sites.jpg) 
+![aspoem](https://images-1252557999.file.myqcloud.com/uPic/aspoem.png) 
 
 ## ✍️ 说明
 
