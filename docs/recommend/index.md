@@ -5,84 +5,99 @@
 
 ## 🎯 项目 
 
-### [Wallos](https://github.com/ellite/Wallos/)
+### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
 
-`Wallos` 是一个强大的、开源的、自托管的 Web 应用程序，旨在让你轻松地管理你的财务。向复杂的电子表格和昂贵的财务软件说再见吧—— Wallos 简化了跟踪支出的过程，帮助你更好地控制自己的财务生活。
+如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
 
-![Wallos](https://images-1252557999.file.myqcloud.com/uPic/Wallos.png) 
+- 教程
+- 软件
+- 工具&服务
+- 社区
+- ......
 
-### [Hakuba](https://github.com/YeungKC/Hakuba)
+你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
 
-一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
+- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
+- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
 
-![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
+![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
 
-### [certd](https://github.com/certd/certd)
+### [TagStudio](https://github.com/TagStudioDev/TagStudio)
 
-`CertD` 是一个免费全自动申请和部署 `SSL` 证书的工具，免费通配符域名 `SSL` 证书全自动申请、续期、部署，支持部署到阿里云、腾讯云、`ssh` 主机：
+一个以用户为中心的照片和文件管理系统：
 
-![certd](https://images-1252557999.file.myqcloud.com/uPic/certd.png) 
+![TagStudio](https://images-1252557999.file.myqcloud.com/uPic/TagStudio.jpeg) 
+
+### [Super_Mario](https://github.com/BadagalaAdarsh/Super_Mario)
+
+这是一个很有意思的项目，相信大家都玩过马里奥，这个项目可以让你用身体控制马里奥进行游戏，可以锻炼身体哈哈：
+
+![mario](https://images-1252557999.file.myqcloud.com/uPic/mario.gif) 
 
 ## 🤖 软件 
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
+### [Tai](https://github.com/Planshit/Tai)
 
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
 
-![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
+![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
 
-### [insomnia](https://github.com/Kong/insomnia)
+### [PicList](https://github.com/Kuingsmile/PicList)
 
-在[第009期（10-11~10-17）](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
+`PicList` 是一款高效的跨平台云存储和图床平台管理工具，在 `PicGo` 的基础上经过深度的二次开发，不仅完整保留了 `PicGo` 的所有功能，还增添了许多新的特性：例如：
 
-![insomnia](https://images-1252557999.file.myqcloud.com/uPic/insomnia.png)
-使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
+- 相册支持同步云端删除文件
+- 内置图床额外添加了 `WebDav`、本地图床和 `SFTP`
+- 增加了完整的云存储管理功能
+- 等等
 
-### [chatbox](https://github.com/Bin-Huang/chatbox)
+![PicList](https://images-1252557999.file.myqcloud.com/uPic/PicList.jpg) 
 
-开源的 `ChatGPT API (OpenAI API)` 桌面客户端，`Prompt` 的调试与管理工具，支持 `Windows、Mac 和 Linux`：
+### [LLMFarm](https://github.com/guinmoon/LLMFarm)
 
-![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.png) 
+`LLMFarm` 是一款用于与大型语言模型（LLM）配合使用的iOS和MacOS应用程序，它允许您可以使用某些参数加载不同的 LLM：
+
+![LLMFarm](https://images-1252557999.file.myqcloud.com/uPic/LLMFarm.jpg) 
 
 ## 👀 资料 
 
-### [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+### [FFmpeg原理](https://ffmpeg.xianwaizhiyin.net/)
 
-微软免费课程：12堂课入门生成式AI，从而开始构建你自己的生成式人工智能应用程序：
+本书《FFmpeg原理》主要讲解 FFmpeg 原理性的知识，前面几章主要讲解一些音视频开发的基础知识，例如原始数据 YUV 跟 RGB，封装格式 FLV 跟 MP4 ，压缩编码的基本概念，还有封装格式分析。
 
-![generative-ai-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/generative-ai-for-beginners.png) 
+前面几章是音视频开发，流媒体技术的基础，后面的章节主要讲解如何搭建 FFmpeg 各种调试环境，同时提供 FFmpeg API 函数的使用示例，最重要的是 分析 ffmpeg.c 跟 ffplay.c 的源码逻辑。
 
-### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
+![ffmpeg](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg.jpg) 
 
-这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
+### [Recommender_System](https://github.com/solidglue/Recommender_System)
 
-该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
+推荐系统入门指南，全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。 
 
-![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
+### [self-llm](https://github.com/datawhalechina/self-llm)
 
-### [react-illustration-series](https://github.com/7kms/react-illustration-series)
+本项目是一个围绕开源大模型、针对国内初学者、基于 AutoDL 平台的中国宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，让更多的普通学生、研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普通学习者的生活中。
 
-图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
+可以结合 [llm-universe](https://github.com/datawhalechina/llm-universe) 一起看看。 
 
 ## 🕸 网站 
 
-### [极简番茄](https://t.kuaitu.cc/)
+### [cook](https://github.com/YunYouJun/cook)
 
-极简优雅的番茄时钟软件，适合做屏保：
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-![kuaitu](https://images-1252557999.file.myqcloud.com/uPic/kuaitu.jpg) 
+![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
 
-### [awesome-chatgpt-prompts](https://prompts.chat/)
+### [removebg](https://www.remove.bg/zh)
 
-`ChatGPT` 余热不减，一周百万用户果然不是盖的，这个项目总结了 `ChatGPT` 常用姿势：
+这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
 
-![prompts](https://images-1252557999.file.myqcloud.com/uPic/prompts.jpg) 
+![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
 
-### [aspoem](https://aspoem.com/)
+### [红白机游戏盒](https://nes.heheda.top/ "红白机游戏盒")
 
-现代化中国诗词学习网站 - 更加注重 UI、阅读体验：
+在线畅玩经典小游戏：
 
-![aspoem](https://images-1252557999.file.myqcloud.com/uPic/aspoem.png) 
+![heheda](https://images-1252557999.file.myqcloud.com/uPic/heheda.jpg) 
 
 ## ✍️ 说明
 
