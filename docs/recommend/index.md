@@ -5,84 +5,83 @@
 
 ## 🎯 项目 
 
-### [typora_plugin](https://github.com/obgnail/typora_plugin)
+### [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
 
-开源的 `Typora` 插件，功能增强工具，新增了三十多种功能：
+将视频从一种语言翻译为另一种语言，并添加配音，这个最近火出圈了：
 
-![typora_plugin](https://images-1252557999.file.myqcloud.com/uPic/typora_plugin.jpg) 
+![pyvideotrans](https://images-1252557999.file.myqcloud.com/uPic/pyvideotrans.jpg) 
 
-### [Weylus](https://github.com/H-M-H/Weylus)
+### [v2rayA](https://github.com/v2rayA/v2rayA)
 
-使用`Rust`编写的共享屏幕开源项目，将平板作为电脑触摸屏使用，全平台支持：
+`v2rayA` 是一个支持全局透明代理的 `V2Ray` 客户端，同时兼容 `SS、SSR、Trojan(trojan-go)、Tuic & Juicity` 协议， 致力于提供最简单的操作，满足绝大部分需求，得益于 Web 客户端的优势，你不仅可以将其用于本地计算机，还可以轻松地将它部署在路由器或 NAS 上。
 
-![weylus](https://images-1252557999.file.myqcloud.com/uPic/weylus.jpg) 
+![v2rayA](https://images-1252557999.file.myqcloud.com/uPic/v2rayA.png) 
 
-### [wallabag](https://github.com/wallabag/wallabag)
+### [monaco-editor](https://github.com/microsoft/monaco-editor)
 
-一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
+微软开源的 `Web` 编辑器：
 
-- 浏览器插件收集网页信息
-- 安卓/IOS/网页端阅读以及管理
-
-![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
+![monaco-editor](https://images-1252557999.file.myqcloud.com/uPic/monaco-editor.png) 
 
 ## 🤖 软件 
 
-### [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)
+### [全是漫画](https://github.com/hongchacha/cartoon)
 
-免费开源抓包工具，支持 `Windows、Mac、Android、IOS、Linux` 全平台系统：
+全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
 
-![network_proxy_flutter](https://images-1252557999.file.myqcloud.com/uPic/network_proxy_flutter.png) 
+![comic](https://images-1252557999.file.myqcloud.com/uPic/FXXmY5.jpg) 
 
-### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
+### [unclutter](https://github.com/lindylearn/unclutter)
 
-免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
+阅读插件，将网页内容快速转成美观的阅读模式：
 
-![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
+![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
 
-### [cat-catch](https://github.com/xifangczy/cat-catch)
+### [Poe Client](https://poe.com/download)
 
-猫抓(cat-catch) 资源嗅探扩展，能够帮你筛选列出当前页面的资源：
+`Poe` 客户端，让你免费体验各种 `GPT & LLM` 机器人的聚合软件，一开始是网页版👉 [poe.com](https://poe.com/)，现在有原生客户端：
 
-![cat-catch](https://images-1252557999.file.myqcloud.com/uPic/cat-catch.png) 
+![poe](https://images-1252557999.file.myqcloud.com/uPic/poe.jpg) 
 
 ## 👀 资料 
 
-### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
 
-![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
+![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
 
-### [programming-math-science](https://github.com/bobeff/programming-math-science) 
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
 
-### [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
+![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
 
-这个项目的目标是带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来，每周更新两篇，有兴趣的朋友可以追更下，架构图：
+### [free-for-dev](https://github.com/ripienaar/free-for-dev)
 
-![linux0.11-talk](https://images-1252557999.file.myqcloud.com/uPic/P4ekdG.jpg) 
+对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
+
+![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
 
 ## 🕸 网站 
 
-### [openalternative](https://openalternative.co/)
+### [watermark](https://watermark.liumingye.cn/)
 
-网站提供了一些项目的开源选择：
+短视频/图集在线去水印解析：
 
-![openalternative](https://images-1252557999.file.myqcloud.com/uPic/openalternative.jpg) 
+![watermark](https://images-1252557999.file.myqcloud.com/uPic/watermark.jpg) 
 
-### [极简番茄](https://t.kuaitu.cc/)
+### [shell.how](https://www.shell.how/)
 
-极简优雅的番茄时钟软件，适合做屏保：
+网站用优雅的交互和排版告诉你Linux命令的作用：
 
-![kuaitu](https://images-1252557999.file.myqcloud.com/uPic/kuaitu.jpg) 
+![shell_howe](https://images-1252557999.file.myqcloud.com/uPic/shell_howe.jpg) 
 
-### [piqsels](https://www.piqsels.com/)
+### [staticrypt](https://github.com/robinmoisson/staticrypt)
 
-`Piqsels` 是又一个免版权的图库，免费商用：
+一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
 
-![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
+![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
 
 ## ✍️ 说明
 
