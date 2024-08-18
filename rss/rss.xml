@@ -12,7 +12,84 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 11 Aug 2024 08:49:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 16:21:25 +0000</lastBuildDate>
+    <item>
+      <title>08-12~08-18.老胡的周刊（第155期）.md</title>
+      <link>https://weekly.howie6879.com/2024/08-12~08-18.老胡的周刊（第155期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/08-12~08-18.老胡的周刊（第155期）.html"&gt;08-12~08-18.老胡的周刊（第155期）&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;08-12~08-18.老胡的周刊（第 155 期）&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。
+老胡的周刊三周年了！🥳，感谢大家对老胡信息周刊的支持～&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/searxng/searxng"&gt;SearXNG&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;SearXNG&lt;/code&gt; 是一个免费的互联网元搜索引擎，它通过整合不同的搜索服务和数据库来提供搜索结果，同时保障用户隐私不被追踪和分析。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="SearXNG" src="https://images-1252557999.file.myqcloud.com/uPic/SearXNG.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/0x2E/fusion"&gt;fusion&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源、轻量可自建，用户友好的 RSS 聚合阅读器：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;轻量级和自托管，支持 Docker&lt;/li&gt;
+&lt;li&gt;功能丰富&lt;/li&gt;
+&lt;li&gt;跨平台和响应式设计&lt;/li&gt;
+&lt;li&gt;多种安装和配置方式&lt;/li&gt;
+&lt;li&gt;技术栈和社区支持&lt;/li&gt;
+&lt;li&gt;资源消耗低&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="fusion" src="https://images-1252557999.file.myqcloud.com/uPic/fusion.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/BMPixel/moffee"&gt;moffee&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源的 &lt;code&gt;Markdown&lt;/code&gt; 幻灯片制作工具，可以将 &lt;code&gt;Markdown&lt;/code&gt; 文档转换为专业的幻灯片。它支持简单的语法、自动分页和样式设置，用户只需专注于内容，可以通过实时网页界面预览或导出为 &lt;code&gt;PDF&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="moffee" src="https://images-1252557999.file.myqcloud.com/uPic/moffee.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/flameshot-org/flameshot"&gt;flameshot&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一款强大且简单易用的截图软件，支持多平台（Linux、Windows、macOS）。其主要特点包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;自定义外观：支持自定义截图工具和颜色。&lt;/li&gt;
+&lt;li&gt;简易使用：提供图形化界面和命令行操作。&lt;/li&gt;
+&lt;li&gt;内置编辑：可以在应用内编辑截图。&lt;/li&gt;
+&lt;li&gt;快捷键支持：支持本地和全局快捷键配置。&lt;/li&gt;
+&lt;li&gt;截图上传：支持将截图上传到 Imgur。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="flameshot" src="https://images-1252557999.file.myqcloud.com/uPic/flameshot.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/VirtualHotBar/NetMount"&gt;NetMount&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;统一管理和挂载云存储设施，免费开源，跨平台支持，基于 &lt;code&gt;Rust + TypeScript + Tauri + React + Vite&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="NetMount" src="https://images-1252557999.file.myqcloud.com/uPic/NetMount.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/miss-mumu/developer2gwy"&gt;developer2gwy&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;公务员从入门到上岸，最佳程序员公考实践教程，一份开源公务员考试的最佳实践指南，一部解构体制工作生活的说明手册：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="developer2gwy" src="https://images-1252557999.file.myqcloud.com/uPic/developer2gwy.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://wikipedia-semantic-search.vercel.app/"&gt;wikipedia-semantic-search&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;对整个维基百科文章进行了向量化，将 1100 万篇维基百科索引成 1.44 亿向量数据，支持包括中文在内的 11 种语言。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;网站: https://wikipedia-semantic-search.vercel.app&lt;/li&gt;
+&lt;li&gt;代码: https://github.com/upstash/wikipedia-semantic-search&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="wikipedia-semantic-search" src="https://images-1252557999.file.myqcloud.com/uPic/wikipedia-semantic-search.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://caesium.app/"&gt;caesium-image-compressor&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;免费开源的图片压缩工具：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="caesium" src="https://images-1252557999.file.myqcloud.com/uPic/caesium.png" /&gt;&lt;/p&gt;
+&lt;p&gt;还支持&lt;a href="https://github.com/Lymphatus/caesium-image-compressor"&gt;桌面端&lt;/a&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="caesium-image-compressor" src="https://images-1252557999.file.myqcloud.com/uPic/caesium-image-compressor.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://free-font.vercel.app/"&gt;free-font&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;收录商用免费汉字字体，还包括开源英文字体 &lt;code&gt;Free Font&lt;/code&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="free-font" src="https://images-1252557999.file.myqcloud.com/uPic/free-font.png" /&gt;&lt;/p&gt;
+&lt;p&gt;项目开源在 &lt;a href="https://github.com/jaywcjlove/free-font"&gt;github&lt;/a&gt;。&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注 👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外 60+优质技术周刊进行信息聚合 🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌 如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">08-12~08-18.老胡的周刊（第155期）.md</guid>
+      <pubDate>Sun, 18 Aug 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>08-05~08-11.老胡的周刊（第154期）.md</title>
       <link>https://weekly.howie6879.com/2024/08-05~08-11.老胡的周刊（第154期）.html</link>
@@ -1273,101 +1350,6 @@ curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/rel
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">04-01~04-07.老胡的周刊（第136期）.md</guid>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>03-25~03-31.老胡的周刊（第135期）.md</title>
-      <link>https://weekly.howie6879.com/2024/03-25~03-31.老胡的周刊（第135期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/03-25~03-31.老胡的周刊（第135期）.html"&gt;03-25~03-31.老胡的周刊（第135期）&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1&gt;03-18~03-24.老胡的周刊（第135期）&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/" title="老胡的信息周刊"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/XPoet/picx" title="picx"&gt;picx&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;PicX&lt;/code&gt; 是一款基于 &lt;code&gt;GitHub API&lt;/code&gt; 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="picx" src="https://images-1252557999.file.myqcloud.com/uPic/picx.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;类似项目：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/0-RTT/telegraph" title="telegraph"&gt;telegraph&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/cf-pages/Telegraph-Image" title="Telegraph-Image"&gt;Telegraph-Image&lt;/a&gt;:免费图片托管解决方案，&lt;code&gt;Flickr/imgur&lt;/code&gt; 替代品&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/meetqy/rao-pics" title="rao-pics"&gt;rao-pics&lt;/a&gt;:利用 &lt;code&gt;Eagle APP&lt;/code&gt; 快速搭建图片站、&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;但是老胡建议不要滥用，这种也不稳定，自己偶尔测试需要可以使用一下，推荐出来也是让朋友们多个选择。我推荐自建图床：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/lsky-org/lsky-pro" title="lsky-pro"&gt;lsky-pro&lt;/a&gt;：兰空图床&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/icret/EasyImages2.0" title="EasyImages2.0"&gt;EasyImages2.0&lt;/a&gt;：简单图床 - 一款功能强大无数据库的图床 2.0 版&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/Kuingsmile/PicList" title="PicList"&gt;PicList&lt;/a&gt;：图片上传 云存储管理&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/ischenliang/quickly-picture-bed" title="quickly-picture-bed"&gt;quickly-picture-bed&lt;/a&gt;：轻快图床：使用 nestjs+vue3.x+ts+vite 开发的在线图床系统，内置功能包括图片上传、图片管理、存储桶管理、相册管理、插件市场、知识库管理、数据统计等功能&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;a href="https://github.com/BingyanStudio/LapisCV" title="LapisCV"&gt;LapisCV&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;📃 开箱即用的 &lt;code&gt;Obsidian / Typora&lt;/code&gt; 简历，基于 &lt;code&gt;Markdown&lt;/code&gt; 格式，易于编辑，所见即所得。风格简洁正式，支持多页，适用于大部分求职 / 求学场景：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="LapisCV" src="https://images-1252557999.file.myqcloud.com/uPic/LapisCV.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/harry0703/MoneyPrinterTurbo" title="MoneyPrinterTurbo"&gt;MoneyPrinterTurbo&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="MoneyPrinterTurbo" src="https://images-1252557999.file.myqcloud.com/uPic/MoneyPrinterTurbo.jpeg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/stitionai/devika" title="devika"&gt;devika&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Devika 是一名 Agentic AI 软件工程师，可以理解高级人类指令并将其分解到各个步骤，然后研究相关信息，并编写代码以实现给定的目标。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="devika" src="https://images-1252557999.file.myqcloud.com/uPic/devika.png" /&gt;&lt;/p&gt;
-&lt;p&gt;Devika 旨在成为 Cognition AI 的 Devin 的竞争性开源替代品。&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/milanvarady/Applite" title="Applite"&gt;Applite&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Applite&lt;/code&gt; 为 &lt;code&gt;Homebrew Cask&lt;/code&gt; 提供了一个图形化界面，实现一键安装、更新和卸载应用：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Applite" src="https://images-1252557999.file.myqcloud.com/uPic/Applite.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Kuingsmile/PicHoro" title="PicHoro"&gt;PicHoro&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;多功能云存储管理工具，集图床管理、文件传输于一体。支持多平台且功能全面：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;直接管理多种云存储平台&lt;/li&gt;
-&lt;li&gt;便捷上传和下载文件&lt;/li&gt;
-&lt;li&gt;兼容 S3 API，轻松集成现有系统&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="PicHoro" src="https://images-1252557999.file.myqcloud.com/uPic/PicHoro.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/BluePointLilac/ContextMenuManager" title="ContextMenuManager"&gt;ContextMenuManager&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;纯粹的 &lt;code&gt;Windows&lt;/code&gt; 右键菜单管理程序：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;启用或禁用文件、文件夹、新建、发送到、打开方式、自定义文件格式、IE 浏览器、WinX 等右键菜单项目&lt;/li&gt;
-&lt;li&gt;对上述场景右键菜单项目进行修改名称、修改图标、导航注册表位置、导航文件位置、永久删除等操作&lt;/li&gt;
-&lt;li&gt;对上述场景右键菜单自定义添加项目，自定义菜单命令&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="ContextMenuManager" src="https://images-1252557999.file.myqcloud.com/uPic/ContextMenuManager.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://protocol.bryanjohnson.com/" title="DON’T DIE 不要死"&gt;DON’T DIE 不要死&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;通过科学方法训练自己的身体，让自己更加健康：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="bryanjohnson" src="https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://aibydoing.com/intro" title="动手实战人工智能"&gt;动手实战人工智能&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;动手实战人工智能系列教程，希望从监督学习开始，带你入门机器学习和深度学习。&lt;/p&gt;
-&lt;p&gt;作者深入剖析和推导了每一个基础算法的原理，并将其数学过程清晰地呈现出来。同时，作者基于 Python 代码对公式进行了逐一对应的实现，让公式和代码紧密相连，帮助你深入理解算法的运作机制。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="aibydoing" src="https://images-1252557999.file.myqcloud.com/uPic/aibydoing.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://kimi.moonshot.cn/" title="Kimi"&gt;Kimi&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;当前挺火的国产 AI 大模型问答网站，免费使用，已经支持 200 万字上下文：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="kimi" src="https://images-1252557999.file.myqcloud.com/uPic/kimi.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://www.suno.ai/" title="suno.ai"&gt;suno.ai&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;最近很火热的的 AI 音乐生成应用，可以根据提示词生成一首 2 分钟的歌曲，还有非官方 &lt;code&gt;API&lt;/code&gt; 项目 &lt;a href="https://github.com/SunoAI-API/Suno-API" title="Suno-API"&gt;Suno-API&lt;/a&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="suno" src="https://images-1252557999.file.myqcloud.com/uPic/suno.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://txstc55.github.io/ugly-avatar/" title="ugly-avatar"&gt;ugly-avatar&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;挺有意思的项目，专门生成丑丑贱贱的头像：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;网站：https://txstc55.github.io/ugly-avatar/&lt;/li&gt;
-&lt;li&gt;GitHub：https://github.com/txstc55/ugly-avatar&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="ugly-avatar" src="https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-03-26_22-03-17.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://nes.heheda.top/" title="红白机游戏盒"&gt;红白机游戏盒&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;在线畅玩经典小游戏：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="heheda" src="https://images-1252557999.file.myqcloud.com/uPic/heheda.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">03-25~03-31.老胡的周刊（第135期）.md</guid>
-      <pubDate>Sun, 31 Mar 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
