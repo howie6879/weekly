@@ -5,94 +5,109 @@
 
 ## 🎯 项目 
 
-### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
+### [TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
 
-一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
+「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。
 
-![ikea-low-price](https://images-1252557999.file.myqcloud.com/uPic/ikea-low-price.png) 
+![TidGi-Desktop](https://images-1252557999.file.myqcloud.com/uPic/TidGi-Desktop.jpg)
 
-### [clone-voice](https://github.com/jianchang512/clone-voice)
+个人笔记记录这块老胡还在坚挺着使用 [Joplin](https://github.com/laurent22/joplin)，如果有特别推荐的可以评论推荐下。 
 
-一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频：
+### [tabler](https://github.com/tabler/tabler)
 
-![clone-voice](https://images-1252557999.file.myqcloud.com/uPic/clone-voice.png) 
+基于 `Bootstrap` 的免费开源的 `Dashboard UI` 工具包：
 
-### [EdgeGPT](https://github.com/acheong08/EdgeGPT)
+![tabler-preview](https://images-1252557999.file.myqcloud.com/uPic/tabler-preview.png) 
 
-微软 `Bing Chat` 的逆向工程 `API`：
+### [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)
 
-![EdgeGPT](https://images-1252557999.file.myqcloud.com/uPic/EdgeGPT.jpg) 
+朋友圈转发截图生成工具，这个项目确实解决了一些号主做活动要求发朋友圈的需求：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-22_09-42-52.jpg) 
 
 ## 🤖 软件 
 
-### [localsend](https://github.com/localsend/localsend)
+### [my-tv](https://github.com/lizongying/my-tv)
 
-`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
+安卓电视直播软件，内置直播源：
 
-![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
+![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
 
-### [MiniSim](https://github.com/okwasniewski/MiniSim)
+### [Tai](https://github.com/Planshit/Tai)
 
-一个 Mac 菜单栏软件，可以启动 iOS  或者 Android 🤖虚拟机：
+👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
 
-![MiniSim](https://images-1252557999.file.myqcloud.com/uPic/MiniSim.png) 
+![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
 
-### [jan](https://github.com/janhq/jan)
+### [aidea](https://github.com/mylxsw/aidea)
 
-`Jan` 是一个开源的 `ChatGPT` 替代品，可以在您的计算机上100%离线运行各种 `LLM`。`Jan` 适用于任何硬件。从个人电脑到多 `GPU` 集群，`Jan` 支持通用架构：
+一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：
 
-![jan](https://images-1252557999.file.myqcloud.com/uPic/jan.jpg)
+- 支持 GPT-3.5/4 问答聊天
+- 支持国产模型：通义千问，文心一言
+- 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
 
-目前体验这三款，这个用户体验最好。 
+![aidea](https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg) 
 
 ## 👀 资料 
 
-### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
+### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
 
-`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
+清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
 
-![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
+更新记录如下：
 
-`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
+- 2020-11-03：环境搭建完成，开始着手编写文档。
+- 2020-11-13：第一章完成。
+- 2020-11-27：第二章完成。
+- 2020-12-20：前七章代码完成。
+- 2021-01-10：第三章完成。
+- 2021-01-18：加入第零章。
+- 2021-01-30：第四章完成。
+- 2021-02-16：第五章完成。
+- 2021-02-20：第六章完成。
+- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
+- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
 
-![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
+热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
 
-更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
+### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
-### [Al精选工具库](https://t16jzwqrzjx.feishu.cn/wiki/EsvowFAqFiTiYDkJgE0cWquPnWb)
+命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
 
-18 个模块 100 个 AI 工具：
+### [nextjs-learn-cn](https://qufei1993.github.io/nextjs-learn-cn/)
 
-![ai_tools](https://images-1252557999.file.myqcloud.com/uPic/ai_tools.jpg) 
+一份 `Next.js` 中文教程：
 
-### [企业如何拥抱 AI（周鸿祎）](https://mcgr3mdbak.feishu.cn/docx/NxjvdvYmLoXOvgxBP1ocFwRbn5g)
-
-![qyybai](https://images-1252557999.file.myqcloud.com/uPic/yjvbm2.png) 
+![nextjs-learn-c](https://images-1252557999.file.myqcloud.com/uPic/nextjs-learn-c.jpg) 
 
 ## 🕸 网站 
 
-### [tinypng](https://tinypng.com/)
+### [ugly-avatar](https://txstc55.github.io/ugly-avatar/ "ugly-avatar")
 
-比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
+挺有意思的项目，专门生成丑丑贱贱的头像：
 
-![tinypng](https://images-1252557999.file.myqcloud.com/uPic/8s8ltr.png)
+- 网站：https://txstc55.github.io/ugly-avatar/
+- GitHub：https://github.com/txstc55/ugly-avatar
 
-如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
+![ugly-avatar](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-03-26_22-03-17.jpg) 
 
-- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
-- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
+### [aicolors](https://aicolors.co/)
 
-### [nesbox](https://nesbox.xianqiao.wang/)
+通过提示词，基于 AI 生成配色方案：
 
-找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
+![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
 
-![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
+### [quanxin](https://quanxin.org/)
 
-### [whatslink](https://whatslink.info/)
+快速、优雅、免费的在线工具，比如：
 
-简单的 `DDL/Torrent/Ed2k`下载链接元数据查询服务，可以在下载之前帮助你预览目标链接内容：
+- [IP地址查询](https://quanxin.org/ip)
+- [代码截图工具](https://quanxin.org/code-snapshot)
+- [HTTP 状态码参考表](https://quanxin.org/http-status-code)
+- [Favicon ico图标生成器](https://quanxin.org/favicon)
 
-![whatslink](https://images-1252557999.file.myqcloud.com/uPic/whatslink.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/i6hqlr.png) 
 
 ## ✍️ 说明
 
