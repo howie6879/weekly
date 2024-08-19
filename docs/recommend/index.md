@@ -5,119 +5,89 @@
 
 ## 🎯 项目 
 
-### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
 
-Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
+`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
 
-你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
+![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
 
-- 🌐 利用互联网进行搜索和信息收集
-- 💾 长期和短期记忆管理
-- 🧠 GPT-4实例用于文本生成
-- 🔗 访问流行的网站和平台
-- 🗃️ 使用GPT-3.5进行文件存储和摘要
+### [QAnything](https://github.com/netease-youdao/QAnything)
 
-![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
+开源的企业级本地知识库问答解决方案，致力于支持任意格式文件或数据库的问答,您的任何格式的本地文件都可以往里扔，即可获得准确、快速、靠谱的问答体验。
 
-### [inpaint-web](https://github.com/lxfater/inpaint-web)
+目前已支持格式: `PDF，Word(doc/docx)，PPT，Markdown，Eml，TXT`，图片，网页链接:
 
-基于 `WebGPU` 技术和 `wasm` 技术的免费开源图片修复&图片高清化工具, 纯浏览器端实现：
+![QAnything](https://images-1252557999.file.myqcloud.com/uPic/QAnything.png) 
 
-![inpaint-web](https://images-1252557999.file.myqcloud.com/uPic/inpaint-web.jpg) 
+### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
 
-### [nginx-ui](https://github.com/0xJacky/nginx-ui)
+`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
 
-Nginx 后台管理UI：
-
-- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
-- 在线 ChatGPT 助理
-- 一键申请和自动续签 Lets encrypt 证书
-- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
-- 在线查看 Nginx 日志
-- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
-- 保存配置后自动测试配置文件并重载 Nginx
-- 基于网页浏览器的高级命令行终端
-- 支持深色模式
-- 自适应网页设计
-
-![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
+![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
 
 ## 🤖 软件 
 
-### [apkupdater](https://github.com/rumboalla/apkupdater)
+### [Joplin](https://github.com/laurent22/joplin)
 
-`APKUpdater` 是一个开源工具，它能让你轻松追踪和更新你的 `APK` 应用。
-它提供类似于应用商店的功能，但不依赖于单一来源，而是把 `APKMirror、Aptoide、F-Droid、IzzyOnDroid、APKPure、GitLab、GitHub` 这 7 大平台的应用资源都聚合在一起：
+我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
 
-![apkupdater](https://images-1252557999.file.myqcloud.com/uPic/apkupdater.jpg) 
+- 自建服务端
+- 第三方如坚果云等
+- 也可以基于云商，如腾讯云的`COS`
 
-### [linearmouse](https://github.com/linearmouse/linearmouse)
+> 这篇文章也是使用Joplin写的 
 
-`Mac` 的鼠标和触控板实用工具，可以为你的鼠标和触控板定制不同的参数：
+### [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)
 
-![linearmouse](https://images-1252557999.file.myqcloud.com/uPic/linearmouse.jpg) 
+免费开源抓包工具，支持 `Windows、Mac、Android、IOS、Linux` 全平台系统：
 
-### [flameshot](https://github.com/flameshot-org/flameshot)
+![network_proxy_flutter](https://images-1252557999.file.myqcloud.com/uPic/network_proxy_flutter.png) 
 
-一款强大且简单易用的截图软件，支持多平台（Linux、Windows、macOS）。其主要特点包括：
+### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
 
-- 自定义外观：支持自定义截图工具和颜色。
-- 简易使用：提供图形化界面和命令行操作。
-- 内置编辑：可以在应用内编辑截图。
-- 快捷键支持：支持本地和全局快捷键配置。
-- 截图上传：支持将截图上传到 Imgur。
+`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
 
-![flameshot](https://images-1252557999.file.myqcloud.com/uPic/flameshot.png) 
+![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
 
 ## 👀 资料 
 
-### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
 
-《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
+站点可靠性工作手册：
 
-![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
-### [archbase](https://github.com/foxsen/archbase)
+### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 
-这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
 
-![archbase](https://images-1252557999.file.myqcloud.com/uPic/dUVvGI.png) 
+![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
 
-### [opensource-f2f](https://github.com/opensource-f2f)
+### [easy-rl](https://github.com/datawhalechina/easy-rl)
 
-《开源面对面》是一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。
+强化学习中文教程：
 
-![osf2f](https://images-1252557999.file.myqcloud.com/uPic/osf2f.jpg) 
+![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
 
 ## 🕸 网站 
 
-### [meiriyiwen](https://meiriyiwen.com/)
+### [ffmpeg-online](https://ffmpeg-online.vercel.app/?inputOptions=-i&output=output.mp4&outputOptions=)
 
-每天一篇随机散文：
+基于 `ffmpeg.wasm` 的在线版本，可用于在线处理音频和视频：
 
-![meiriyiwen](https://images-1252557999.file.myqcloud.com/uPic/meiriyiwen.jpg) 
+![ffmpeg-online](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg-online.jpg) 
 
-### [tReader](https://tiansh.github.io/reader/#!/read/1)
+### [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css)
 
-如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
+前端实现的 `Pokemon` 卡片展示，非常酷炫：
 
-![tReader](https://images-1252557999.file.myqcloud.com/uPic/PMMlRM.jpg)
-基本功能如下：
+![pcc](https://images-1252557999.file.myqcloud.com/uPic/pcc.jpg) 
 
-- 手机端适配，阅读效果优秀
-- 点左上角的添加按钮可以添加文件
-- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
-- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
-- 文件列表，左滑、右键或按Delete可以显示删除按钮
-- 书签
-- 搜索
-- 目录等 
+### [musicforprogramming](https://musicforprogramming.net/latest/)
 
-### [Python Tutor](https://pythontutor.com/?)
+非常极客的背景音乐网站：
 
-这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
-
-![Python Tutor](https://images-1252557999.file.myqcloud.com/uPic/hIdiXA.png) 
+![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
 
 ## ✍️ 说明
 
