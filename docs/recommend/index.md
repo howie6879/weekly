@@ -5,89 +5,88 @@
 
 ## 🎯 项目 
 
-### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
+### [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
 
-`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
+国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。
 
-![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
+虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！ 
 
-### [QAnything](https://github.com/netease-youdao/QAnything)
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-开源的企业级本地知识库问答解决方案，致力于支持任意格式文件或数据库的问答,您的任何格式的本地文件都可以往里扔，即可获得准确、快速、靠谱的问答体验。
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-目前已支持格式: `PDF，Word(doc/docx)，PPT，Markdown，Eml，TXT`，图片，网页链接:
+ ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
 
-![QAnything](https://images-1252557999.file.myqcloud.com/uPic/QAnything.png) 
+### [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
 
-### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
+用 `Express` 和 `Vue3` 搭建的 `ChatGPT` 演示网页：
 
-`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
-
-![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
+![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
 
 ## 🤖 软件 
 
-### [Joplin](https://github.com/laurent22/joplin)
+### [qinglong_app](https://github.com/relax976/qinglong_app)
 
-我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
+之前推荐过 [qinglong](https://github.com/whyour/qinglong)（一款支持python3、javaScript、shell、typescript 的定时任务管理软件），这是青龙面板开源的第三方APP，之前都是要付费，现在免费开源开放出来了：
 
-- 自建服务端
-- 第三方如坚果云等
-- 也可以基于云商，如腾讯云的`COS`
+![ql_app](https://images-1252557999.file.myqcloud.com/uPic/ql_app.jpg) 
 
-> 这篇文章也是使用Joplin写的 
+### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
-### [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)
+针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
 
-免费开源抓包工具，支持 `Windows、Mac、Android、IOS、Linux` 全平台系统：
+![CodeEdit](https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png) 
 
-![network_proxy_flutter](https://images-1252557999.file.myqcloud.com/uPic/network_proxy_flutter.png) 
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
-### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
+`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
 
-`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
-
-![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
+![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
 
 ## 👀 资料 
 
-### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+### [eloquentjavascript](https://eloquentjavascript.net/)
 
-站点可靠性工作手册：
+作者是 `Marijn Haverbeke`，世界级 `JavaScript` 程序员，本书免费开源，中英文评分都很高，学起来吧：
 
-![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
+![eloquentjavascript](https://images-1252557999.file.myqcloud.com/uPic/eloquentjavascript.jpg) 
 
-### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+### [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)
 
-C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
+`eBPF` 开发者教程与知识库：通过小工具和示例一步步学习 `eBPF`，包含性能、网络、安全等多种应用场景：
 
-![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
+![bpf-developer-tutorial](https://images-1252557999.file.myqcloud.com/uPic/bpf-developer-tutorial.jpg) 
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
+### [reversing](https://0xinfection.github.io/reversing/)
 
-强化学习中文教程：
+免费电子书，面向所有人的逆向工程：
 
-![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
+![reversing](https://images-1252557999.file.myqcloud.com/uPic/reversing.jpg) 
 
 ## 🕸 网站 
 
-### [ffmpeg-online](https://ffmpeg-online.vercel.app/?inputOptions=-i&output=output.mp4&outputOptions=)
+### [picdiet.eula.club](https://picdiet.eula.club/)
 
-基于 `ffmpeg.wasm` 的在线版本，可用于在线处理音频和视频：
+`Picdiet` 是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏：
 
-![ffmpeg-online](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg-online.jpg) 
+![picdiet](https://images-1252557999.file.myqcloud.com/uPic/picdiet.jpg) 
 
-### [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css)
+### [programcreek](https://www.programcreek.com/)
 
-前端实现的 `Pokemon` 卡片展示，非常酷炫：
+网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
 
-![pcc](https://images-1252557999.file.myqcloud.com/uPic/pcc.jpg) 
+- [Python](https://www.programcreek.com/python/)
+- [Java](https://www.programcreek.com/java-api-examples/)
+- [C++](https://www.programcreek.com/cpp/)
+- [Scala](https://www.programcreek.com/scala/)
 
-### [musicforprogramming](https://musicforprogramming.net/latest/)
+![programcreek](https://images-1252557999.file.myqcloud.com/uPic/YdAEPq.png) 
 
-非常极客的背景音乐网站：
+### [识典古籍](https://www.shidianguji.com/)
 
-![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
+识典古籍 – 古籍在线阅读平台，北大和抖音合作开发的古籍阅读网站：
+
+![shidianguji](https://images-1252557999.file.myqcloud.com/uPic/shidianguji.jpg) 
 
 ## ✍️ 说明
 
