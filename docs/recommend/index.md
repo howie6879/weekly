@@ -5,31 +5,48 @@
 
 ## 🎯 项目 
 
-### [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
+### [websocketd](https://github.com/joewalnes/websocketd)
 
-国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。
+将任何使用 `STDIN/STDOUT` 的程序转换为 `WebSocket` 服务器：
 
-虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！ 
+![websocketd](https://images-1252557999.file.myqcloud.com/uPic/websocketd.jpg) 
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
+### [qrbtf](https://github.com/ciaochaos/qrbtf)
 
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+艺术二维码生成器：
 
- ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
+![qrbtf](https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg) 
 
-### [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
+### [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion)
 
-用 `Express` 和 `Vue3` 搭建的 `ChatGPT` 演示网页：
+在 `MacOS` 上运行原生的 `Stable Diffusion`，本应用内置 `Apple` 的 `Core ML Stable Diffusion` 框架 以实现在搭载 `Apple` 芯片的 `Mac` 上用极低的内存占用发挥出最优性能：
 
-![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
+- 极致性能和极低内存占用 (使用神经网络引擎时 ~150MB)
+- 在所有搭载 Apple 芯片的 Mac 上充分发挥神经网络引擎的优势
+- 生成图像时无需联网
+- 图像转图像（也被称为 Image2Image）
+- 在图像的 EXIF 信息中存储所有的关键词（在访达的“显示简介”窗口中查看）
+- 使用 RealESRGAN 放大生成的图像
+- 自动保存 & 恢复图像
+- 自定义 Stable Diffusion Core ML 模型
+- 无需担心损坏的模型
+- 使用 macOS 原生框架 SwiftUI 开发
+
+![MochiDiffusion](https://images-1252557999.file.myqcloud.com/uPic/MochiDiffusion.jpg) 
 
 ## 🤖 软件 
 
-### [qinglong_app](https://github.com/relax976/qinglong_app)
+### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
-之前推荐过 [qinglong](https://github.com/whyour/qinglong)（一款支持python3、javaScript、shell、typescript 的定时任务管理软件），这是青龙面板开源的第三方APP，之前都是要付费，现在免费开源开放出来了：
+开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
 
-![ql_app](https://images-1252557999.file.myqcloud.com/uPic/ql_app.jpg) 
+![hitomi](https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif) 
+
+### [RedFish](https://github.com/Kuari/RedFish)
+
+一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
+
+![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
 
 ### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
@@ -37,56 +54,47 @@
 
 ![CodeEdit](https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png) 
 
-### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
-
-`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
-
-![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
-
 ## 👀 资料 
 
-### [eloquentjavascript](https://eloquentjavascript.net/)
+### [动手实战人工智能](https://aibydoing.com/intro "动手实战人工智能")
 
-作者是 `Marijn Haverbeke`，世界级 `JavaScript` 程序员，本书免费开源，中英文评分都很高，学起来吧：
+动手实战人工智能系列教程，希望从监督学习开始，带你入门机器学习和深度学习。
 
-![eloquentjavascript](https://images-1252557999.file.myqcloud.com/uPic/eloquentjavascript.jpg) 
+作者深入剖析和推导了每一个基础算法的原理，并将其数学过程清晰地呈现出来。同时，作者基于 Python 代码对公式进行了逐一对应的实现，让公式和代码紧密相连，帮助你深入理解算法的运作机制。
 
-### [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)
+![aibydoing](https://images-1252557999.file.myqcloud.com/uPic/aibydoing.jpg) 
 
-`eBPF` 开发者教程与知识库：通过小工具和示例一步步学习 `eBPF`，包含性能、网络、安全等多种应用场景：
+### [MDN Web Docs](https://github.com/mdn/translated-content)
 
-![bpf-developer-tutorial](https://images-1252557999.file.myqcloud.com/uPic/bpf-developer-tutorial.jpg) 
+`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
 
-### [reversing](https://0xinfection.github.io/reversing/)
+![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
 
-免费电子书，面向所有人的逆向工程：
+### [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)
 
-![reversing](https://images-1252557999.file.myqcloud.com/uPic/reversing.jpg) 
+`DotNetGuide` 技术社区是一个面向 `.NET` 开发者的开源技术社区，旨在为开发者们提供全面的 `C#/.NET/.NET Core` 相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台，可以在线[阅读](https://www.yuque.com/ysgstudyhard/da6e0c)：
+
+![DotNetGuide](https://images-1252557999.file.myqcloud.com/uPic/DotNetGuide.jpg) 
 
 ## 🕸 网站 
 
-### [picdiet.eula.club](https://picdiet.eula.club/)
+### [whatpwacando](https://whatpwacando.today/)
 
-`Picdiet` 是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏：
+该网站功能用于介绍 PWA 的技术进展：
 
-![picdiet](https://images-1252557999.file.myqcloud.com/uPic/picdiet.jpg) 
+![whatpwacando](https://images-1252557999.file.myqcloud.com/uPic/whatpwacando.jpg) 
 
-### [programcreek](https://www.programcreek.com/)
+### [wantquotes.net](https://wantquotes.net/)
 
-网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
+清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
 
-- [Python](https://www.programcreek.com/python/)
-- [Java](https://www.programcreek.com/java-api-examples/)
-- [C++](https://www.programcreek.com/cpp/)
-- [Scala](https://www.programcreek.com/scala/)
+![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
 
-![programcreek](https://images-1252557999.file.myqcloud.com/uPic/YdAEPq.png) 
+### [jpghi](https://jpghi.com/)
 
-### [识典古籍](https://www.shidianguji.com/)
+jpgHi 支持各种类型图片高清无损放大，为模糊不清的图片增加极致细节，提升图片质感：
 
-识典古籍 – 古籍在线阅读平台，北大和抖音合作开发的古籍阅读网站：
-
-![shidianguji](https://images-1252557999.file.myqcloud.com/uPic/shidianguji.jpg) 
+![jpghi](https://images-1252557999.file.myqcloud.com/uPic/jpghi.jpg) 
 
 ## ✍️ 说明
 
