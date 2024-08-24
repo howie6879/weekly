@@ -5,83 +5,107 @@
 
 ## 🎯 项目 
 
-### [go-daily-lib](https://github.com/darjun/go-daily-lib)
+### [tduck-front](https://github.com/TDuckCloud/tduck-front)
 
-每天学习一个 Go 语言库，内容质量相当高。
+`Tduck` 填鸭表单是一款自定义表单工具，支持问卷调查、数据收集等功能。采用无代码理念支持开发自定义组件，简单拖拽即可生成表单，完成数据收集。采用 `SpringBoot+Vue+ElementUI` 技术栈，功能强大界面清新，支持一键部署：
 
-![go-daily-lib](https://images-1252557999.file.myqcloud.com/uPic/4Ippyf.png) 
+![tduck-front](https://images-1252557999.file.myqcloud.com/uPic/tduck-front.png)
 
-### [screenshot-to-code](https://github.com/abi/screenshot-to-code)
+滴滴也开源了一套轻量、安全的问卷系统基座，提供面向个人和企业的一站式产品级解决方案，快速满足各类线上调研场景👉[xiaoju-survey](https://github.com/didi/xiaoju-survey)。 
 
-依赖 `GPT-4 Vision` 特性，允许用户将屏幕截图作为输入，然后将其转换为整洁的HTML/Tailwind/JS代码，和上一期推荐的 [draw-a-ui](https://weekly.howie6879.com/2023/11-06~11-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC115%E6%9C%9F%EF%BC%89.html) 有异曲同工之妙。
+### [manga-image-translator](https://github.com/zyddnys/manga-image-translator)
 
-![screenshot-to-code](https://images-1252557999.file.myqcloud.com/uPic/screenshot-to-code.jpg) 
+一键翻译各类图片内文字，针对群内、各个图站上大量不太可能会有人去翻译的图片设计，让我这种日语小白能够勉强看懂图片，主要支持日语，汉语、英文和韩语，支持图片修补和嵌字:
 
-### [GPTs](https://github.com/linexjlin/GPTs)
+![manga-image-translator](https://images-1252557999.file.myqcloud.com/uPic/manga-image-translator.jpg)
 
-这个仓库收集了 GPTs 商店的的提示词，你可以用 3.5 使用，间接拥有 4 才有的功能，还有个类似的项目：[Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) 
+也提供了在线访问地址 [https://cotrans.touhou.ai](https://cotrans.touhou.ai/)。 
+
+### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
+
+通过网络收集整理的中文歌词数据库, 包含:
+
+- 绝大多数华语歌手在2019年之前的歌曲
+- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
+- 102197首歌曲, 平均每人25.4首歌
+
+作者基于此数据库做了两个歌词生成器：
+
+- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
+- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
 
 ## 🤖 软件 
 
-### [RTranslator](https://github.com/niedev/RTranslator)
+### [aniyomi](https://github.com/aniyomiorg/aniyomi)
 
-`RTransator` 是一个(几乎)开源的、免费的、离线的 `Android` 实时翻译应用程序。
+读者推荐，`aniyomi` 不单单可以看漫画还可以看动漫，而且也支持[插件](https://aniyomi.org/extensions/)，更厉害的是，这个 APP 可以关联漫画进度记录网站，比如 Bangumi、MyAnimeList 等：
 
-连接到有这个应用程序的人，连接蓝牙耳机，把手机放在你的口袋里，你就可以像对方说你的语言一样进行交谈。
+![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
 
-![RTranslator](https://images-1252557999.file.myqcloud.com/uPic/RTranslator.jpg) 
+### [crow-translate](https://github.com/crow-translate/crow-translate)
 
-### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
+一个简单而轻巧的翻译器，可以使用 `Google、Yandex Bing、LibreTranslate&Lingva` 来翻译和朗读文本：
 
-超方便的微信视频号下载器：
+![crow-translate](https://images-1252557999.file.myqcloud.com/uPic/crow-translate.png) 
 
-- 支持实时捕获视频号的视频地址
-- 捕获后，可进行预览和下载
-- 支持 Win/Mac
+### [azusa-player-mobile](https://github.com/lovegaoshi/azusa-player-mobile)
 
-![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
+一个 `Bilibili` 第三方音频播放器：
 
-### [my-tv](https://github.com/lizongying/my-tv)
-
-安卓电视直播软件，内置直播源：
-
-![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
+![azusa-player-mobile](https://images-1252557999.file.myqcloud.com/uPic/azusa-player-mobile.jpg) 
 
 ## 👀 资料 
 
-### [数据科学学习指南](https://github.com/amitness/learning)
+### [uxbaike](https://uxbaike.com/)
 
-数据科学学习指南，帮你每天提升1%的数据科学技能。主要包含电子表格与数据库的数据处理、命令行工具使用、数据分析与可视化技巧、论文阅读方法，各类模型与算法讲解等知识，另外还有商业思维培养、写作与沟通技巧等非技术类内容。
+UX 百科，属于设计师的专业知识库：
 
-![data-learning](https://images-1252557999.file.myqcloud.com/uPic/tlkHzW.png) 
+![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
 
-### [English-Writing](https://github.com/yzy1996/English-Writing)
+### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
 
-本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
+打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
 
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+### [qianguyihao/Web](https://github.com/qianguyihao/Web)
+
+千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师:
+
+- 网上的大部分入门教程，都不太适合初学者，本项目争取照顾到每一位前端入门者的同理心。即使你完全不懂前端，甚至不懂编程，通过这个教程，也能让小白入门。
+- 帮助前端同学提供一个精品学习资源和路线，提高学习效率，少走很多弯路。
+
+![qianguyihao](https://images-1252557999.file.myqcloud.com/uPic/qianguyihao.jpg)
+
+可以当做前端字典，随时翻阅，查漏补缺，在线观看地址：[web.qianguyihao.com](https://web.qianguyihao.com/)。 
 
 ## 🕸 网站 
 
-### [khroma](https://www.khroma.co/)
+### [caesium-image-compressor](https://caesium.app/)
 
-人工智能配色网站：
+免费开源的图片压缩工具：
 
-![khroma](https://images-1252557999.file.myqcloud.com/uPic/khroma.jpg) 
+![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.png)
 
-### [pdf.wps.cn](https://pdf.wps.cn/)
+还支持[桌面端](https://github.com/Lymphatus/caesium-image-compressor)：
 
-金山出品的 PDF 免费工具集：
+![caesium-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/caesium-image-compressor.png) 
 
-![pdf_wps](https://images-1252557999.file.myqcloud.com/uPic/pdf_wps.jpg) 
+### [ixinqing](http://www.ixinqing.com/)
 
-### [SearchEmoji](https://searchemoji.app/)
+心晴 · 专注于心理学入门与自我成长:
 
-`Emoji` 表情搜索网站，点击即可复制，颜值也不错海开源：
+![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
 
-![searchemoji](https://images-1252557999.file.myqcloud.com/uPic/searchemoji.jpeg) 
+### [myfirstnft](https://myfirstnft.info/)
+
+我的第一个NFT，在这个网站，你可以：
+
+- 理解NFT的价值
+- 铸造一个免费的NFT
+- 了解Web3.0
+
+![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
 
 ## ✍️ 说明
 
