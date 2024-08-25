@@ -5,95 +5,96 @@
 
 ## 🎯 项目 
 
-### [HowToCook](https://github.com/Anduin2017/HowToCook)
+### [metersphere](https://github.com/metersphere/metersphere)
 
-程序员在家做饭方法指南。 
+[MeterSphere](https://metersphere.io/) 是一站式开源持续测试平台, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter、Selenium` 等主流开源标准，有效助力开发和测试团队充分利用云弹性进行高度可扩展的自动化测试，加速高质量的软件交付：
 
-### [yao](https://github.com/YaoApp/yao)
+![metersphere](https://images-1252557999.file.myqcloud.com/uPic/metersphere.jpeg) 
 
-`Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎：
+### [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
-![yao](https://images-1252557999.file.myqcloud.com/uPic/yao.jpg) 
+`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
 
-### [OnnxOCR](https://github.com/jingsongliujing/OnnxOCR)
+![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
 
-基于 `PaddleOCR` 重构，并且脱离PaddlePaddle深度学习训练框架的轻量级 `OCR`，推理速度超快。 
+### [hoppscotch](https://github.com/hoppscotch/hoppscotch)
+
+`Hoppscotch`对标的是`Postman`，相信涉及到后端接口这块大家都对`Postman`非常熟悉，但`Postman`自从收费后，评价就慢慢开始不行了，而且软件也越来越重，我本人也是同感，不然我也没有动机找到`hoppscotch`来替换。
+
+有恶龙就有勇士，有位印度裔小哥`Liyas Thomas`坐不住了，对`Postman`非常不爽，于是他自己开发了`Postwoman`，看这个名字也知道是干嘛的，后面改名为`Hoppscotch`。
+
+开源的魅力就在这里，永远有人做出让大家欢呼的贡献，所以`Hoppscotch`在社区获得非常高的认可度（目前已经30K Star+），其提供了非常丰富的特性，部署也很方便，有兴趣的可以尝试使用看看：
+
+![hoppscotch](https://images-1252557999.file.myqcloud.com/uPic/sPde7J.png) 
 
 ## 🤖 软件 
 
-### [sniffnet](https://github.com/GyulyVGC/sniffnet)
+### [box](https://github.com/liu673cn/box)
 
-监控你的应用流量，跨平台：
+TVBox 开源版:
 
-![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
+- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
+- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
+- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
+- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
+- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
+- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
+- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
+- 配置地址---输入站源---确定即可 URL站源规则
 
-### [V2EX_Polish](https://github.com/coolpace/V2EX_Polish)
+![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
 
-专业的 V2EX 浏览器扩展，集合了众多实用功能，重塑你的浏览体验！
+### [GodMode](https://github.com/smol-ai/GodMode/)
 
-- 🪄 界面美化：UI 设计更现代化，为你带来愉悦的视觉体验。
-- 📥 评论回复嵌套层级：主题下的评论回复支持层级展示，可以更轻松地跟踪和回复其他用户的评论。
-- 🔥 热门回复展示：自动筛选出最受欢迎的回复，第一时间追上热评。
-- 😀 表情回复支持：评论输入框可以选择表情，让回复更加生动和有趣。
-- 📃 长回复优化：智能折叠长篇回复，一键展开查看完整内容。
-- 📰 内置主题列表：无需打开网页，插件内即可快速获取最热、最新的主题列表和消息通知。
+`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
 
-![v2p](https://images-1252557999.file.myqcloud.com/uPic/v2p.png) 
+![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
 
-### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
+### [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
 
-腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+使用 Android 原生开发的电视直播软件：
 
-![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
+![mytv-android](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/mytv-android.jpg)
+
+老胡试了不是很稳定，大家可根据地域使用测试。 
 
 ## 👀 资料 
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
+此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
 
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
+### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
-![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
+30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
 
-### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
+![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
 
-为初学者整理的免费 `CSS` 课程：
+### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
 
-![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
+一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
 
-### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
-
-PyTorch 从0到精通教程：
-
-![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
+![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
 
 ## 🕸 网站 
 
-### [ray.so/icon](https://ray.so/icon)
+### [mlsub](https://mlsub.net/)
 
-`Raycast` 出品的图标设计工具：
+一个专注哆啦A梦和蜡笔小新的动漫网站：
 
-![rayso](https://images-1252557999.file.myqcloud.com/uPic/rayso.jpg) 
+![mlsub](https://images-1252557999.file.myqcloud.com/uPic/mlsub.jpg) 
 
-### [svg-path-editor](https://yqnn.github.io/svg-path-editor/)
+### [flowgpt](https://flowgpt.com/)
 
-在线编辑创建 `SVG`，同时开源在 [github-svg-path-editor](https://github.com/Yqnn/svg-path-editor)：
+一个分享ChatGPT提示的网站：
 
-![svg-path-editor](https://images-1252557999.file.myqcloud.com/uPic/svg-path-editor.jpg) 
+![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
 
-### [xiaobot.so](https://www.xiaobot.so/)
+### [sayhello](https://beta.sayhello.so/)
 
-老胡团队整的一个小报童专栏导航网站（测试一两周后就会开源，有兴趣可期待），和其他小报童导航相比：
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-- AI 自动打标签
-- 增加订阅用户&文章更新数量趋势统计
-- 增加专栏内页，有利于 SEO
-- 更漂亮<持保留态度，但老胡是实打实请设计师帮忙设计的>
-
-![xiaobot_so](https://images-1252557999.file.myqcloud.com/uPic/xiaobot_so.jpg)
-
-如果有你适合的专栏，可以购买支持下～ 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
 ## ✍️ 说明
 
