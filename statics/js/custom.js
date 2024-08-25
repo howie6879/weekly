@@ -23,8 +23,8 @@ document.addEventListener("DOMContentLoaded", function () {
   // link.href = "https://www.fre123.com/weekly?from=weekly";
   // link.textContent = "🔥 老胡精选周刊大全>>>";
 
-  link.href = "https://www.quark.so?ref=weekly";
-  link.textContent = "🔥 资源全面&无广告的资源搜索引擎>>>";
+  link.href = "https://www.xiaobot.so?ref=weekly";
+  link.textContent = "🔥 老胡整了个小报童专栏导航>>>";
 
   link.target = "_blank";
   popup.appendChild(link);
