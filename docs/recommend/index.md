@@ -5,107 +5,95 @@
 
 ## 🎯 项目 
 
-### [tduck-front](https://github.com/TDuckCloud/tduck-front)
+### [HowToCook](https://github.com/Anduin2017/HowToCook)
 
-`Tduck` 填鸭表单是一款自定义表单工具，支持问卷调查、数据收集等功能。采用无代码理念支持开发自定义组件，简单拖拽即可生成表单，完成数据收集。采用 `SpringBoot+Vue+ElementUI` 技术栈，功能强大界面清新，支持一键部署：
+程序员在家做饭方法指南。 
 
-![tduck-front](https://images-1252557999.file.myqcloud.com/uPic/tduck-front.png)
+### [yao](https://github.com/YaoApp/yao)
 
-滴滴也开源了一套轻量、安全的问卷系统基座，提供面向个人和企业的一站式产品级解决方案，快速满足各类线上调研场景👉[xiaoju-survey](https://github.com/didi/xiaoju-survey)。 
+`Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎：
 
-### [manga-image-translator](https://github.com/zyddnys/manga-image-translator)
+![yao](https://images-1252557999.file.myqcloud.com/uPic/yao.jpg) 
 
-一键翻译各类图片内文字，针对群内、各个图站上大量不太可能会有人去翻译的图片设计，让我这种日语小白能够勉强看懂图片，主要支持日语，汉语、英文和韩语，支持图片修补和嵌字:
+### [OnnxOCR](https://github.com/jingsongliujing/OnnxOCR)
 
-![manga-image-translator](https://images-1252557999.file.myqcloud.com/uPic/manga-image-translator.jpg)
-
-也提供了在线访问地址 [https://cotrans.touhou.ai](https://cotrans.touhou.ai/)。 
-
-### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
-
-通过网络收集整理的中文歌词数据库, 包含:
-
-- 绝大多数华语歌手在2019年之前的歌曲
-- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
-- 102197首歌曲, 平均每人25.4首歌
-
-作者基于此数据库做了两个歌词生成器：
-
-- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
-- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
+基于 `PaddleOCR` 重构，并且脱离PaddlePaddle深度学习训练框架的轻量级 `OCR`，推理速度超快。 
 
 ## 🤖 软件 
 
-### [aniyomi](https://github.com/aniyomiorg/aniyomi)
+### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-读者推荐，`aniyomi` 不单单可以看漫画还可以看动漫，而且也支持[插件](https://aniyomi.org/extensions/)，更厉害的是，这个 APP 可以关联漫画进度记录网站，比如 Bangumi、MyAnimeList 等：
+监控你的应用流量，跨平台：
 
-![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
+![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
 
-### [crow-translate](https://github.com/crow-translate/crow-translate)
+### [V2EX_Polish](https://github.com/coolpace/V2EX_Polish)
 
-一个简单而轻巧的翻译器，可以使用 `Google、Yandex Bing、LibreTranslate&Lingva` 来翻译和朗读文本：
+专业的 V2EX 浏览器扩展，集合了众多实用功能，重塑你的浏览体验！
 
-![crow-translate](https://images-1252557999.file.myqcloud.com/uPic/crow-translate.png) 
+- 🪄 界面美化：UI 设计更现代化，为你带来愉悦的视觉体验。
+- 📥 评论回复嵌套层级：主题下的评论回复支持层级展示，可以更轻松地跟踪和回复其他用户的评论。
+- 🔥 热门回复展示：自动筛选出最受欢迎的回复，第一时间追上热评。
+- 😀 表情回复支持：评论输入框可以选择表情，让回复更加生动和有趣。
+- 📃 长回复优化：智能折叠长篇回复，一键展开查看完整内容。
+- 📰 内置主题列表：无需打开网页，插件内即可快速获取最热、最新的主题列表和消息通知。
 
-### [azusa-player-mobile](https://github.com/lovegaoshi/azusa-player-mobile)
+![v2p](https://images-1252557999.file.myqcloud.com/uPic/v2p.png) 
 
-一个 `Bilibili` 第三方音频播放器：
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
-![azusa-player-mobile](https://images-1252557999.file.myqcloud.com/uPic/azusa-player-mobile.jpg) 
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
 ## 👀 资料 
 
-### [uxbaike](https://uxbaike.com/)
+### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
-UX 百科，属于设计师的专业知识库：
+> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
 
-![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
+本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
 
-### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
+![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
 
-打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
+### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
 
-![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
+为初学者整理的免费 `CSS` 课程：
 
-### [qianguyihao/Web](https://github.com/qianguyihao/Web)
+![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
 
-千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师:
+### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 
-- 网上的大部分入门教程，都不太适合初学者，本项目争取照顾到每一位前端入门者的同理心。即使你完全不懂前端，甚至不懂编程，通过这个教程，也能让小白入门。
-- 帮助前端同学提供一个精品学习资源和路线，提高学习效率，少走很多弯路。
+PyTorch 从0到精通教程：
 
-![qianguyihao](https://images-1252557999.file.myqcloud.com/uPic/qianguyihao.jpg)
-
-可以当做前端字典，随时翻阅，查漏补缺，在线观看地址：[web.qianguyihao.com](https://web.qianguyihao.com/)。 
+![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
 
 ## 🕸 网站 
 
-### [caesium-image-compressor](https://caesium.app/)
+### [ray.so/icon](https://ray.so/icon)
 
-免费开源的图片压缩工具：
+`Raycast` 出品的图标设计工具：
 
-![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.png)
+![rayso](https://images-1252557999.file.myqcloud.com/uPic/rayso.jpg) 
 
-还支持[桌面端](https://github.com/Lymphatus/caesium-image-compressor)：
+### [svg-path-editor](https://yqnn.github.io/svg-path-editor/)
 
-![caesium-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/caesium-image-compressor.png) 
+在线编辑创建 `SVG`，同时开源在 [github-svg-path-editor](https://github.com/Yqnn/svg-path-editor)：
 
-### [ixinqing](http://www.ixinqing.com/)
+![svg-path-editor](https://images-1252557999.file.myqcloud.com/uPic/svg-path-editor.jpg) 
 
-心晴 · 专注于心理学入门与自我成长:
+### [xiaobot.so](https://www.xiaobot.so/)
 
-![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
+老胡团队整的一个小报童专栏导航网站（测试一两周后就会开源，有兴趣可期待），和其他小报童导航相比：
 
-### [myfirstnft](https://myfirstnft.info/)
+- AI 自动打标签
+- 增加订阅用户&文章更新数量趋势统计
+- 增加专栏内页，有利于 SEO
+- 更漂亮<持保留态度，但老胡是实打实请设计师帮忙设计的>
 
-我的第一个NFT，在这个网站，你可以：
+![xiaobot_so](https://images-1252557999.file.myqcloud.com/uPic/xiaobot_so.jpg)
 
-- 理解NFT的价值
-- 铸造一个免费的NFT
-- 了解Web3.0
-
-![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
+如果有你适合的专栏，可以购买支持下～ 
 
 ## ✍️ 说明
 
