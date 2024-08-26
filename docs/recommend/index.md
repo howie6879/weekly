@@ -5,96 +5,91 @@
 
 ## 🎯 项目 
 
-### [metersphere](https://github.com/metersphere/metersphere)
+### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
 
-[MeterSphere](https://metersphere.io/) 是一站式开源持续测试平台, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter、Selenium` 等主流开源标准，有效助力开发和测试团队充分利用云弹性进行高度可扩展的自动化测试，加速高质量的软件交付：
+开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
 
-![metersphere](https://images-1252557999.file.myqcloud.com/uPic/metersphere.jpeg) 
+![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
 
-### [ProxiTok](https://github.com/pablouser1/ProxiTok)
+### [excalidraw](https://github.com/excalidraw/excalidraw)
 
-`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
+免费开源的白板绘图工具（默认提供手绘风格），官方也提供了 `Web` [在线使用](https://excalidraw.com/)版：
 
-![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
+![excalidraw](https://images-1252557999.file.myqcloud.com/uPic/excalidraw.jpg) 
 
-### [hoppscotch](https://github.com/hoppscotch/hoppscotch)
+### [floccus](https://github.com/floccusaddon/floccus)
 
-`Hoppscotch`对标的是`Postman`，相信涉及到后端接口这块大家都对`Postman`非常熟悉，但`Postman`自从收费后，评价就慢慢开始不行了，而且软件也越来越重，我本人也是同感，不然我也没有动机找到`hoppscotch`来替换。
+`Floccus` 是一个开源的浏览器书签同步项目，它支持 `Firefox、Chrome、Edge`等浏览器书签同步：
 
-有恶龙就有勇士，有位印度裔小哥`Liyas Thomas`坐不住了，对`Postman`非常不爽，于是他自己开发了`Postwoman`，看这个名字也知道是干嘛的，后面改名为`Hoppscotch`。
-
-开源的魅力就在这里，永远有人做出让大家欢呼的贡献，所以`Hoppscotch`在社区获得非常高的认可度（目前已经30K Star+），其提供了非常丰富的特性，部署也很方便，有兴趣的可以尝试使用看看：
-
-![hoppscotch](https://images-1252557999.file.myqcloud.com/uPic/sPde7J.png) 
+![floccus](https://images-1252557999.file.myqcloud.com/uPic/floccus.jpg) 
 
 ## 🤖 软件 
 
-### [box](https://github.com/liu673cn/box)
+### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 
-TVBox 开源版:
+短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
 
-- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
-- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
-- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
-- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
-- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
-- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
-- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
-- 配置地址---输入站源---确定即可 URL站源规则
+![SmsForwarder](https://images-1252557999.file.myqcloud.com/uPic/v6owv0.jpg)
+如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
 
-![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
+### [Responsively](https://github.com/responsively-org/responsively-app)
 
-### [GodMode](https://github.com/smol-ai/GodMode/)
+一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
 
-`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
+![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
 
-![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
+### [Bangumi](https://github.com/czy0729/Bangumi)
 
-### [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
+一个基于 `React-Native` 的无广告、以爱好为驱动、不以盈利为目的 [Bangumi](https://bgm.tv/) 第三方客户端，简单比喻就是专门做 `ACG` 的类似豆瓣的应用：
 
-使用 Android 原生开发的电视直播软件：
-
-![mytv-android](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/mytv-android.jpg)
-
-老胡试了不是很稳定，大家可根据地域使用测试。 
+![Bangumi](https://images-1252557999.file.myqcloud.com/uPic/Bangumi.jpg) 
 
 ## 👀 资料 
 
-### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
+### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
 
-此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
+张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
 
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
 
-30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
+### [计算机底层的秘密](https://github.com/webxiaohua/gitbook)
 
-![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
+以图解的方式通俗易懂地讲解计算机系统中各项技术的本质，包括编程语言的本质是什么、操作系统、进程线程协程等的本质是什么、到底什么是内存、什么是堆区栈区、内存分配等是怎么一回事、怎样从晶体管构建出CPU、I/O是如何实现的等等，从根源出发，一步步讲解一项技术到底是怎么来的，同时内容可视化——辅助大量精心设计的插图，几乎做到了平均一页有一图，把对技术的理解门槛尽量降低-[在线阅读](https://www.bookstack.cn/read/webxiaohua-gitbook/1.-ni-guan-zhe-po-wan-yi-jiao-cpu.md)(需要pdf可联系我私发)：
 
-### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
+![计算机底层的秘密](https://images-1252557999.file.myqcloud.com/uPic/计算机底层的秘密.jpg) 
 
-一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
+### [uxbaike](https://uxbaike.com/)
 
-![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
+UX 百科，属于设计师的专业知识库：
+
+![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
 
 ## 🕸 网站 
 
-### [mlsub](https://mlsub.net/)
+### [阳光志愿](https://gaokao.chsi.com.cn/zyck/)
 
-一个专注哆啦A梦和蜡笔小新的动漫网站：
+家里有参加高考的，可以参考：
 
-![mlsub](https://images-1252557999.file.myqcloud.com/uPic/mlsub.jpg) 
+- 院校查询
+- 专业查询
+- 支援参考
+- 心理测评
+- 职业前景
+- 报考指南
 
-### [flowgpt](https://flowgpt.com/)
+![zyck](https://images-1252557999.file.myqcloud.com/uPic/zyck.jpg) 
 
-一个分享ChatGPT提示的网站：
+### [wantquotes.net](https://wantquotes.net/)
 
-![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
+清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
 
-### [sayhello](https://beta.sayhello.so/)
+![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
 
-面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
+### [pixian.ai](https://pixian.ai/)
 
-![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+免登录图片背景消除网页，2023-07-21 当前属于测试期间，是免费的：
+
+![pixian](https://images-1252557999.file.myqcloud.com/uPic/pixian.jpg) 
 
 ## ✍️ 说明
 
