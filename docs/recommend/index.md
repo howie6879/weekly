@@ -5,100 +5,83 @@
 
 ## 🎯 项目 
 
-### [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua)
+### [quivr](https://github.com/stangirard/quivr)
 
-中华新华字典数据库和 API 。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
+`Quivr` 是您在云中的第二个大脑，让您轻松存储和检索非结构化信息，通过索引你电脑上各种类型的文件，然后通过 `LLM` 处理，最后进行问答：
 
-![chinese-xinhua](https://images-1252557999.file.myqcloud.com/uPic/pOd5nk.png) 
+![quivr_qa](https://images-1252557999.file.myqcloud.com/uPic/quivr_qa.jpg) 
 
-### [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo "MoneyPrinterTurbo")
+### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
 
-只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频：
+🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
 
-![MoneyPrinterTurbo](https://images-1252557999.file.myqcloud.com/uPic/MoneyPrinterTurbo.jpeg) 
+![Real-CUGAN](https://images-1252557999.file.myqcloud.com/uPic/hWiOCH.jpg) 
 
-### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
+### [certd](https://github.com/certd/certd)
 
-`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
+`CertD` 是一个免费全自动申请和部署 `SSL` 证书的工具，免费通配符域名 `SSL` 证书全自动申请、续期、部署，支持部署到阿里云、腾讯云、`ssh` 主机：
 
-![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
+![certd](https://images-1252557999.file.myqcloud.com/uPic/certd.png) 
 
 ## 🤖 软件 
 
-### [EcoPaste](https://github.com/ayangweb/EcoPaste)
+### [wowtab](https://wowtab.microsoft.com/)
 
-一款开源的跨平台剪切板管理工具：
+微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：
 
-- 使用 Tauri 构建项目，使其更加小巧精致，资源占用更少，同时适配多个平台。
-- 应用常驻后台，通过自定义快捷键一键唤醒，节省时间，提高效率。
-- 所有剪切板内容均在本地存储，确保数据隐私和安全。
-- 支持纯文本、富文本、HTML、图片和文件类型。
-- 根据剪切板内容类型自动进行分组，便于高效管理。
-- 支持收藏剪切板内容，便于快速访问和管理重要信息。
-- 内置搜索功能，轻松找到剪切板上的任何内容。
-- 图片内置系统 OCR 功能，支持文本和二维码识别。
-- 提供丰富的右键菜单，增强操作便捷性。
+![wowtab](https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg) 
 
-![EcoPaste](https://images-1252557999.file.myqcloud.com/uPic/EcoPaste.jpg) 
+### [gpt4all](https://github.com/nomic-ai/gpt4all)
 
-### [Obtainium](https://github.com/ImranR98/Obtainium)
+`GPT4All` 是一个生态系统，用于在消费级 `CPU` 和任何 `GPU` 上本地运行强大且定制化的大型语言模型。请注意，您的 `CPU` 需要支持 `AVX` 或 `AVX2` 指令。
 
-聚合安卓应用源，然后获取程序更新，`Obtainium` 允许用户直接从发布页面安装和更新应用程序，并在发布新版本时接收通知：
+![gpt4all](https://images-1252557999.file.myqcloud.com/uPic/gpt4all.jpg) 
 
-![Obtainium](https://images-1252557999.file.myqcloud.com/uPic/Obtainium.jpg) 
+### [PeaZip](https://github.com/peazip/PeaZip)
 
-### [linearmouse](https://github.com/linearmouse/linearmouse)
+PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
 
-`Mac` 的鼠标和触控板实用工具，可以为你的鼠标和触控板定制不同的参数：
-
-![linearmouse](https://images-1252557999.file.myqcloud.com/uPic/linearmouse.jpg) 
+![peazip](https://images-1252557999.file.myqcloud.com/uPic/peazip.png) 
 
 ## 👀 资料 
 
-### [事实核查手册](https://chinafactcheck.com/?p=11465)
+### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
 
-虚假信息泛滥已成世界性难题，简体中文内容市场亦难置身事外。作为应对手段之一，事实核查在中国开始萌芽。
+《Linear Algebra for Everyone》公开课的图解笔记：
 
-本手册以案例的形式介绍了常用的文字、图片和视频核查工具，也涉及事实核查的工作流程、信源评估，并译介了国际事实核查机构惯用的职业准则与实践，希望能为中国的事实核查业者和观察者提供一定的参考。
+![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
 
-![事实核查手册](https://images-1252557999.file.myqcloud.com/uPic/事实核查手册.jpg) 
+### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
 
-### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
+为初学者整理的免费 `CSS` 课程：
 
-互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
+![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
 
-### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
+### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
 
-机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
+`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
 
-![openmlsys](https://images-1252557999.file.myqcloud.com/uPic/openmlsys.jpg) 
+![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
 
 ## 🕸 网站 
 
-### [文学网](https://www.hwxnet.com/)
+### [openfarm.cc](https://openfarm.cc/)
 
-文学相关工具在线网站：
+[`OpenFarm`](https://github.com/openfarmcc/OpenFarm) 是一个开源项目，目标是教你如何种植农作物：
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
+![openfarm](https://images-1252557999.file.myqcloud.com/uPic/openfarm.jpg) 
 
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+### [AnyBT](https://anybt.eth.limo/)
 
-### [zerossl](https://zerossl.com/)
+种子搜索引擎，下载你想要的资源：
 
-一个可以免费签 IP 地址 SSL 证书的网站：
+![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
 
-![zerossl](https://images-1252557999.file.myqcloud.com/uPic/zerossl.jpg) 
+### [transhumans](https://www.transhumans.xyz/)
 
-### [apitracker](https://apitracker.io/)
+免费可商用的人物插图：
 
-发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
-
-![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
+![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
 
 ## ✍️ 说明
 
