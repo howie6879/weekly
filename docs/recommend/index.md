@@ -5,106 +5,85 @@
 
 ## 🎯 项目 
 
-### [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
+### [Kyoo](https://github.com/zoriya/Kyoo)
 
-最近在开发一款微信小程序，第一次上手，发现还是很有意思的。这个项目收集了小程序开发的方方面面，如：工具、插件、组件、Demo等。
+`Kyoo` 是一款开源媒体浏览器，可让您流式传输电影、电视节目或动漫。它是 `Plex、Emby or Jellyfin` 的替代品：
 
-基本上只要找一个开源的小程序，找一个示例跟着写，哪怕你没基础，也能很快开发一款自己的小程序出来，推荐。 
+![kyoo](https://images-1252557999.file.myqcloud.com/uPic/kyoo.jpg)
 
-### [duf](https://github.com/sigoden/duf)
+目前产品形态只有 `Web` 和 `Android`。 
 
-一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
+### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
 
-- 静态文件伺服
-- 下载目录为 zip 文件
-- 上传文件 /目录 (支持拖拽)
-- 搜索
-- 并发下载，断续下载
-- 权限保护
-- 支持 https
-- 支持 webdav
-- 方便 curl 调用 
+🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
 
-### [FastGPT](https://github.com/labring/FastGPT)
+![Real-CUGAN](https://images-1252557999.file.myqcloud.com/uPic/hWiOCH.jpg) 
 
-`FastGPT` 是一个基于 `LLM` 大语言模型的知识库问答系统，提供开箱即用的数据处理、模型调用等能力。同时可以通过 `Flow` 可视化进行工作流编排，从而实现复杂的问答场景：
+### [DailyHotApi](https://github.com/imsyy/DailyHotApi)
 
-![FastGPT](https://images-1252557999.file.myqcloud.com/uPic/FastGPT.jpg) 
+今日热榜 `API`，一个聚合热门数据的 `API` 接口，支持 `Vercel` 部署：
+
+![DailyHot](https://images-1252557999.file.myqcloud.com/uPic/DailyHot.jpg) 
 
 ## 🤖 软件 
 
-### [automa](https://github.com/Kholid060/automa)
+### [vnote](https://github.com/vnotex/vnote)
 
-`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
+VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
 
-![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
+![vnote](https://images-1252557999.file.myqcloud.com/uPic/vnote.png) 
 
-### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
+### [Nuclear](https://github.com/nukeop/nuclear)
 
-`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
+`Nuclear` 是一款完全免费的跨平台音乐流媒体桌面程序，内容来源于互联网，界面UI精美，它专注于音乐本身，非常不错（比较麻烦的还是网络问题）：
 
-![Miao](https://images-1252557999.file.myqcloud.com/uPic/Miao.png) 
+![nucler](https://images-1252557999.file.myqcloud.com/uPic/nucler.jpg)
 
-### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
+项目还在持续开发，我们可以保持期待。 
 
-类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
+### [AdAway](https://github.com/AdAway/AdAway)
 
-![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
+是一款免费且开源的 `Android` 广告拦截器：
+
+![AdAway](https://images-1252557999.file.myqcloud.com/uPic/AdAway.jpg) 
 
 ## 👀 资料 
 
-### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
+### [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)
 
-这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
+从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 `PDF`:
 
-- 👋 入门
-- 💬 大语言模型
-	- 💡 提示工程
-	- 🔧 大语言模型实践
-	- 🔬 大语言模型理论
-- 🎨 AI绘画
-- 🔊 AI音频
-- 🌈 多模态
-- 🧠 深度学习
-- 💻 AI系统 
+![what_are_embeddings](https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg) 
 
-### [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
 
-这个仓库收集了各种日常工作中使用的材料和工具，包括 CLI 工具、GUI 工具、Web 工具、系统服务、网络、容器编排、手册教程、博客资源、黑客测试等内容。适合系统管理员、网络管理员、DevOps、渗透测试者和安全研究人员使用。 
+《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
 
-### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
+![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
 
-这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
+### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
 
-之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.com/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
+该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
 
 ## 🕸 网站 
 
-### [removerized](https://removerized.tech/)
+### [websequencediagrams](https://www.websequencediagrams.com/)
 
-开源免费的图片去背景工具网站，交互体验还不错：
+提供在线绘制时序图的网站：
 
-![removerized](https://images-1252557999.file.myqcloud.com/uPic/removerized.jpg)
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
-当然了，模型效果对一些图片比不上一些收费的。 
+### [smartexcel](https://www.smartexcel.cc/)
 
-### [FRE321](https://www.fre321.com/)
+使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
 
-原本 fre123.com 被污染了，所以 301 到新的域名 [https://www.fre321.com](https://www.fre321.com) 一直在用的朋友请收藏下哈，老胡也再次和大家介绍下目前的功能：
+![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
 
-- 首页影视、动漫、软件、电子书、音乐等资源导航
-- 番剧搜索
-- 技术、新闻信息流
-- 周刊聚合页面
-- 新功能持续开发中
+### [regexlearn](https://regexlearn.com)
 
-![FRE321](https://images-1252557999.file.myqcloud.com/uPic/FRE321.jpg) 
+一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
 
-### [cikeee](https://www.cikeee.com/)
-
-每天推荐一部优秀的电影：
-
-![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
+![regexlearn](https://images-1252557999.file.myqcloud.com/uPic/yUZ5N4.png) 
 
 ## ✍️ 说明
 
