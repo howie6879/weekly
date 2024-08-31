@@ -5,85 +5,100 @@
 
 ## 🎯 项目 
 
-### [Kyoo](https://github.com/zoriya/Kyoo)
+### [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi)
 
-`Kyoo` 是一款开源媒体浏览器，可让您流式传输电影、电视节目或动漫。它是 `Plex、Emby or Jellyfin` 的替代品：
+基于 `Mikan Project、qBittorrent` 的全自动追番整理下载工具。只需要在 `Mikan Project` 上订阅番剧，就可以全自动追番。并且整理完成的名称和目录可以直接被 `Plex、Jellyfin` 等媒体库软件识别，无需二次刮削：
 
-![kyoo](https://images-1252557999.file.myqcloud.com/uPic/kyoo.jpg)
+![Auto_Bangumi](https://images-1252557999.file.myqcloud.com/uPic/Auto_Bangumi.png) 
 
-目前产品形态只有 `Web` 和 `Android`。 
+### [paper-qa](https://github.com/whitead/paper-qa)
 
-### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
+用 `GPT-3` 来解读论文的开源项目：
 
-🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
+![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
 
-![Real-CUGAN](https://images-1252557999.file.myqcloud.com/uPic/hWiOCH.jpg) 
+### [open-interpreter](https://github.com/KillianLucas/open-interpreter)
 
-### [DailyHotApi](https://github.com/imsyy/DailyHotApi)
+基于 `LLM` 为你提供一种新的方式来控制电脑，本地运行：
 
-今日热榜 `API`，一个聚合热门数据的 `API` 接口，支持 `Vercel` 部署：
-
-![DailyHot](https://images-1252557999.file.myqcloud.com/uPic/DailyHot.jpg) 
+![open_interpreter](https://images-1252557999.file.myqcloud.com/uPic/open_interpreter.jpg) 
 
 ## 🤖 软件 
 
-### [vnote](https://github.com/vnotex/vnote)
+### [SyncClipboard](https://github.com/Jeric-X/SyncClipboard)
 
-VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
+跨平台剪贴板同步方案，包含服务端客户端：
 
-![vnote](https://images-1252557999.file.myqcloud.com/uPic/vnote.png) 
+- 剪贴板同步，支持文字、图片和文件。服务器/客户端架构，可以使用客户端内置服务器、独立部署服务器，也可以使用支持WebDAV的网盘作为服务器
+- 优化图片类型的剪贴板，功能有：
+	- 从任意位置复制图片时，可以直接向文件系统粘贴图片文件，反之亦然
+	- 从浏览器复制图片后，后台下载原图到本地，解决无法从浏览器拷贝动态图的问题（大多网站有认证，适用范围有限，支持bilibili动态图片）
+	- 从文件系统复制较新格式类型的图片文件时（webp/heic等），在剪贴板内储存gif或jpg格式，用于直接向支持图片的文本框粘贴图片
 
-### [Nuclear](https://github.com/nukeop/nuclear)
+![SyncClipboard](https://images-1252557999.file.myqcloud.com/uPic/SyncClipboard.jpg)
 
-`Nuclear` 是一款完全免费的跨平台音乐流媒体桌面程序，内容来源于互联网，界面UI精美，它专注于音乐本身，非常不错（比较麻烦的还是网络问题）：
+这个软件解决了老胡多台电脑间的复制同步问题，非常好用，强推，配置也不麻烦。 
 
-![nucler](https://images-1252557999.file.myqcloud.com/uPic/nucler.jpg)
+### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
 
-项目还在持续开发，我们可以保持期待。 
+安全、快速与轻量的远程桌面&文件管理工具：
 
-### [AdAway](https://github.com/AdAway/AdAway)
+![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
 
-是一款免费且开源的 `Android` 广告拦截器：
+### [MediaBox](https://github.com/RyensX/MediaBox)
 
-![AdAway](https://images-1252557999.file.myqcloud.com/uPic/AdAway.jpg) 
+全能媒体容器，插件化网罗天下媒体，畅快学习软件开发。实现了类似微信小程序的框架，只需要简单实现插件API提供数据到容器即可快速成型，方便学习爬虫、APP开发等。容器主要为插件提供以下服务：
+
+- 数据自动渲染到UI(视图组件)
+- 媒体收藏/历史记录
+- 周期性媒体数据检查服务(插件只需要实现媒体检查更新组件即可被主动检查更新)
+- 视频播放组件(播放器)，支持手势控制/夜间模式/弹幕/倍速控制/多集聚合/横竖旋转适应等
+- 私有可视化KV存储(插件私有配置)
+- 个人数据/插件云端备份(WebDav,开发中)
+
+简单来说，这款软件能看什么取决与你用什么插件：
+
+![MediaBox](https://images-1252557999.file.myqcloud.com/uPic/MediaBox.jpg) 
 
 ## 👀 资料 
 
-### [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)
+### [PDF Explained](https://github.com/zxyle/PDF-Explained)
 
-从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 `PDF`:
+ `PDF` 无处不在，无论是在线形式还是印刷形式，但很少有人利用这些有用的功能或掌握这种格式的细微差别。 这本简明的书籍为程序员，高级用户提供了世界领先的页面描述语言(pdf)的动手实践。以及搜索，电子出版和印刷行业的专业人士， 有大量示例，本书是你完全理解PDF所需的文档。
+ 
+ ![PDF-Explained](https://images-1252557999.file.myqcloud.com/uPic/PDF-Explained.jpg) 
 
-![what_are_embeddings](https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg) 
+### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
 
-### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
+`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
 
-《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
+![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
 
-![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
+### [reversing](https://0xinfection.github.io/reversing/)
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+免费电子书，面向所有人的逆向工程：
 
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+![reversing](https://images-1252557999.file.myqcloud.com/uPic/reversing.jpg) 
 
 ## 🕸 网站 
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+### [BriefGPT](https://briefgpt.xyz/)
 
-提供在线绘制时序图的网站：
+`AI` 论文速递，每日更新 `Arxiv` 论文，第一时间了解 `AI` 最新动态：
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+![briefgpt](https://images-1252557999.file.myqcloud.com/uPic/briefgpt.jpg) 
 
-### [smartexcel](https://www.smartexcel.cc/)
+### [openart.ai](https://openart.ai/)
 
-使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
+基于 `DALL E 2、Midjourney、SD` 生成的1000多万图片搜索网站：
 
-![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
+![openart](https://images-1252557999.file.myqcloud.com/uPic/openart.jpg) 
 
-### [regexlearn](https://regexlearn.com)
+### [aitdk](https://aitdk.com/zh-CN/)
 
-一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
+AI标题、描述和关键词生成器，为您的网站生成SEO友好的标题、描述和关键词：
 
-![regexlearn](https://images-1252557999.file.myqcloud.com/uPic/yUZ5N4.png) 
+![aitdk](https://images-1252557999.file.myqcloud.com/uPic/aitdk.jpg) 
 
 ## ✍️ 说明
 
