@@ -5,67 +5,88 @@
 
 ## 🎯 项目 
 
-### [bore](https://github.com/ekzhang/bore)
+### [homelab](https://github.com/khuedoan/homelab)
 
-`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
+一个开源的家用自托管基础设施项目，支持自动配置、操作和更新各类自托管服务，可用于打造自己的家庭开发实验室。其中包括代码自托管、证书管理、CI/CD 持续集成与交付、K8s 自动化安装和管理、实时聊天系统、应用监控面板等功能。
 
-![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
+![homelab](https://images-1252557999.file.myqcloud.com/uPic/gB9qTV.jpg) 
 
-### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
+### [webvm](https://github.com/leaningtech/webvm)
 
-读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
+基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：[webvm.io](https://webvm.io/)。
 
-![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
+![webvm](https://images-1252557999.file.myqcloud.com/uPic/1yRQBe.png)
 
-### [terminalizer](https://github.com/faressoft/terminalizer)
+详细的介绍文章见：[WebVM: server-less x86 virtual machines in the browser](https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361)。 
 
-录制终端操作并生成 `gif` 动图：
+### [LLM-Red-Team](https://github.com/LLM-Red-Team)
 
-![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
+`LLM Red Team` 意为 `LLM` 大模型红队，对各大模型进行逆向然后提供 API 接口，方便开发者调用测试：
+
+![LLM-Red-Team](https://images-1252557999.file.myqcloud.com/uPic/LLM-Red-Team.jpg) 
 
 ## 🤖 软件 
 
-### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
+### [datastation](https://github.com/multiprocessio/datastation)
 
-一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
+`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
 
-![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
+![datastation](https://images-1252557999.file.myqcloud.com/uPic/datastation.jpg) 
 
-### [memreduct](https://github.com/henrypp/memreduct)
+### [Mist](https://github.com/ninxsoft/Mist)
 
-轻量优雅的 `Windows` 内存管理工具，让用户实时监控计算机内存和清理系统缓存，体积小(6MB)、内存释放效果明显，兼容 `Windows XP` 及更高版本：
+一个自动下载 `macOS` 固件/安装程序的 `Mac` 实用工具，`macOS` 安装程序超级工具：
 
-![memreduct](https://images-1252557999.file.myqcloud.com/uPic/memreduct.jpg) 
+![Mist](https://images-1252557999.file.myqcloud.com/uPic/Mist.png) 
 
-### [spotube](https://github.com/KRTirtho/spotube)
+### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 
-`Spotube` 可用于所有主要平台，包括 `Linux、Android、Windows & MacOS`，它利用 `Spotify` 和 `YouTube` 的公共 `API` 作为音频源，不需要 `Spotify Premium`，没有广告，可下载歌曲，实时同步歌词，支持匿名或访客登录：
+`AnotherRedisDesktopManager` 是一个快速稳定好用的 `Redis` 跨平台桌面管理软件，更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值：
 
-![spotube](https://images-1252557999.file.myqcloud.com/uPic/spotube.jpg) 
+![AnotherRedisDesktopManager](https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png) 
 
 ## 👀 资料 
 
-### [Sora 学习手册](https://yunyinghui.feishu.cn/wiki/BaCEwe3AliqYERkc9dVcfW0BnXg)
+### [现代 JavaScript 教程](https://zh.javascript.info/)
 
-基于飞书文档发布，包含一些 `Sora` 介绍，第三方技术拆解分享，研究报告，案例等内容，比较浅显但是可以作为了解的途径，里面的联系方式**慎加**。 
+以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识：
 
-### [How-to-use-Transformers](https://github.com/jsksxs360/How-to-use-Transformers)
+![javascript_info](https://images-1252557999.file.myqcloud.com/uPic/javascript_info.jpg) 
 
-Transformers 库快速入门[教程](https://transformers.run/)：
+### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
 
-![How-to-use-Transformers](https://images-1252557999.file.myqcloud.com/uPic/How-to-use-Transformers.jpg) 
+该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
 
-### [JavaScript30](https://github.com/wesbos/JavaScript30)
+### [sideproject](https://sideproject.guide/)
 
-30 天 JS 挑战，助力学习提升 JS 技巧：
+`Side Project` 指南：
 
-![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
+
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
 
 ## 🕸 网站 
 
-### [w2solo](https://w2solo.com/)
+### [gooddesign](https://www.gooddesign.tools/)
 
-独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
+优质设计师工具导航网站：
+
+![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
+
+### [onemodel](https://www.onemodel.app/)
+
+为软件工程师量身定制的绘图工具，网站提供很多软件架构的图标、素材、模板：
+
+![onemodel](https://images-1252557999.file.myqcloud.com/uPic/onemodel.png)
+
+同类开源产品推荐如下：
+
+- [jgraph/drawio](https://github.com/jgraph/drawio)：经典流程绘图工具
+- [excalidraw](https://github.com/excalidraw/excalidraw)：白板绘图工具
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams)：用代码的形式生成架构图 
 
 ### [文学网](https://www.hwxnet.com/)
 
@@ -79,12 +100,6 @@ Transformers 库快速入门[教程](https://transformers.run/)：
 - 繁体字转换
 
 ![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
-
-### [linggle](https://linggle.com/)
-
-免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
-
-![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
 
 ## ✍️ 说明
 
