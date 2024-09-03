@@ -5,101 +5,93 @@
 
 ## 🎯 项目 
 
-### [homelab](https://github.com/khuedoan/homelab)
+### [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)
 
-一个开源的家用自托管基础设施项目，支持自动配置、操作和更新各类自托管服务，可用于打造自己的家庭开发实验室。其中包括代码自托管、证书管理、CI/CD 持续集成与交付、K8s 自动化安装和管理、实时聊天系统、应用监控面板等功能。
+一个 `Calibre` 插件，可以将电子书翻译成指定的语言：
 
-![homelab](https://images-1252557999.file.myqcloud.com/uPic/gB9qTV.jpg) 
+支持所选翻- 译引擎所支持的语言（如 Google 翻译支持 134 种）
+- 支持多种翻译引擎，包括 Google 翻译、ChatGPT 以及 DeepL
+- 支持自定义翻译引擎（支持解析 JSON 和 XML 格式响应）
+- 支持所有 Calibre 所支持的电子书格式（输入格式 48 种，输出格式 20 种）
+- 支持批量翻译电子书，每本书的翻译过程同时进行互不影响
+- 支持缓存翻译内容，在请求失败或网络中断后无需重新翻译
+- 提供大量自定义设置，如将翻译的电子书存到 Calibre 书库或指定位置
 
-### [webvm](https://github.com/leaningtech/webvm)
+![Ebook-Translator-Calibre-Plugin](https://images-1252557999.file.myqcloud.com/uPic/Ebook-Translator-Calibre-Plugin.png) 
 
-基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：[webvm.io](https://webvm.io/)。
+### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
 
-![webvm](https://images-1252557999.file.myqcloud.com/uPic/1yRQBe.png)
+🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
 
-详细的介绍文章见：[WebVM: server-less x86 virtual machines in the browser](https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361)。 
+| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
+| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
+| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
+| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
+| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
 
-### [LLM-Red-Team](https://github.com/LLM-Red-Team)
+### [QRec](https://github.com/Coder-Yu/QRec)
 
-`LLM Red Team` 意为 `LLM` 大模型红队，对各大模型进行逆向然后提供 API 接口，方便开发者调用测试：
-
-![LLM-Red-Team](https://images-1252557999.file.myqcloud.com/uPic/LLM-Red-Team.jpg) 
+Python编写的推荐系统快速实践框架（基于TF），和之前推荐的[gorse](https://weekly.howie6879.com/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E6%8E%A8%E8%8D%90#gorse)有点类似，但不同的是QRec提供了领先的推荐系统模型用于实践。 
 
 ## 🤖 软件 
 
-### [datastation](https://github.com/multiprocessio/datastation)
+### [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor)
 
-`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
+`Caesium` 是一款图像压缩软件，可帮助您存储、发送和共享数字图片，支持 `JPG、PNG&WebP` 格式：
 
-![datastation](https://images-1252557999.file.myqcloud.com/uPic/datastation.jpg) 
+![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.jpg) 
 
-### [Mist](https://github.com/ninxsoft/Mist)
+### [ShareX](https://github.com/ShareX/ShareX)
 
-一个自动下载 `macOS` 固件/安装程序的 `Mac` 实用工具，`macOS` 安装程序超级工具：
+`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
 
-![Mist](https://images-1252557999.file.myqcloud.com/uPic/Mist.png) 
+![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
 
-### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+### [automa](https://github.com/Kholid060/automa)
 
-`AnotherRedisDesktopManager` 是一个快速稳定好用的 `Redis` 跨平台桌面管理软件，更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值：
+`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
 
-![AnotherRedisDesktopManager](https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png) 
+![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
 
 ## 👀 资料 
 
-### [现代 JavaScript 教程](https://zh.javascript.info/)
+### [archbase](https://github.com/foxsen/archbase)
 
-以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识：
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
 
-![javascript_info](https://images-1252557999.file.myqcloud.com/uPic/javascript_info.jpg) 
+![archbase](https://images-1252557999.file.myqcloud.com/uPic/dUVvGI.png) 
 
-### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
+### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
 
-该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
+《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
 
-### [sideproject](https://sideproject.guide/)
+![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
 
-`Side Project` 指南：
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+《Mastering GO》中文译本，《玩转 GO》：
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
 ## 🕸 网站 
 
-### [gooddesign](https://www.gooddesign.tools/)
+### [lexica.art](https://lexica.art/)
 
-优质设计师工具导航网站：
+可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
 
-![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
+![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
 
-### [onemodel](https://www.onemodel.app/)
+### [renwuzhi.wiki](https://renwuzhi.wiki/)
 
-为软件工程师量身定制的绘图工具，网站提供很多软件架构的图标、素材、模板：
+网站收集了各个朝代人物介绍：
 
-![onemodel](https://images-1252557999.file.myqcloud.com/uPic/onemodel.png)
+![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
 
-同类开源产品推荐如下：
+### [waytoagi](https://www.waytoagi.com/)
 
-- [jgraph/drawio](https://github.com/jgraph/drawio)：经典流程绘图工具
-- [excalidraw](https://github.com/excalidraw/excalidraw)：白板绘图工具
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams)：用代码的形式生成架构图 
+`AI` 知识库和工具站：
 
-### [文学网](https://www.hwxnet.com/)
-
-文学相关工具在线网站：
-
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
-
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+![waytoagi](https://images-1252557999.file.myqcloud.com/uPic/waytoagi.jpg) 
 
 ## ✍️ 说明
 
