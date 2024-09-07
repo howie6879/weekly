@@ -5,100 +5,87 @@
 
 ## 🎯 项目 
 
-### [amprobe](https://github.com/amuluze/amprobe)
+### [LapisCV](https://github.com/BingyanStudio/LapisCV "LapisCV")
 
-`Amprobe` 是一款轻量级主机及 `Docker` 容器监控工具，它可以轻松的帮助我们完成以下几方面的工作：
+📃 开箱即用的 `Obsidian / Typora` 简历，基于 `Markdown` 格式，易于编辑，所见即所得。风格简洁正式，支持多页，适用于大部分求职 / 求学场景：
 
-- 监控主机的 CPU、内存、磁盘 IO、网络 IO情况
-- 监控部署于主机上 Docker 容器的运行状态、CPU、内存使用情况
-- 实时查看 Docker 容器的日志，并支持日志下载
-- 针对管理员用户提供简单的 Docker 容器、镜像运维操作
-- 操作日志记录
+![LapisCV](https://images-1252557999.file.myqcloud.com/uPic/LapisCV.png) 
 
-暂时还不支持多机器关联，期待作者更新：
+### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
 
-![amprobe](https://images-1252557999.file.myqcloud.com/uPic/amprobe.png) 
+基于 `SOTA AI` 模型的图片免费开源修补工具：
 
-### [ChatGPT](https://chat.openai.com/chat)
+![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
 
-本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
+### [devika](https://github.com/stitionai/devika "devika")
 
-- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
-- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
-- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
-- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
-- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
-- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
-- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
-- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
+Devika 是一名 Agentic AI 软件工程师，可以理解高级人类指令并将其分解到各个步骤，然后研究相关信息，并编写代码以实现给定的目标。
 
-### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
+![devika](https://images-1252557999.file.myqcloud.com/uPic/devika.png)
 
-`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
-
-![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
+Devika 旨在成为 Cognition AI 的 Devin 的竞争性开源替代品。 
 
 ## 🤖 软件 
 
-### [Files](https://github.com/files-community/Files)
+### [little-rat](https://github.com/dnakov/little-rat)
 
-一个现代化的文件管理软件(Windows用户专属)：
+Little Rat 是一款开源的 Chrome 扩展，用于实时监测其它的 Chrome 扩展联网情况，并可以选择阻止联网，防止恶意扩展：
 
-![files_windows](https://images-1252557999.file.myqcloud.com/uPic/files_windows.jpg) 
+![little-rat](https://images-1252557999.file.myqcloud.com/uPic/little-rat.webp) 
 
-### [radishes](https://github.com/radishes-music/radishes)
+### mizu
 
-跨平台的无版权音乐平台，支持 `windows / macos / linux / web`：
+微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/radishes.jpeg) 
+![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
 
-### [PicGo](https://github.com/Molunerfinn/PicGo)
+### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
 
-一个用于快速上传图片并获取图片 `URL` 链接的工具，和之前推荐的 [uPic](https://github.com/gee1k/uPic) 类似，但这个是跨平台的且有自己的插件体系：
+`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
 
-![PicGo](https://images-1252557999.file.myqcloud.com/uPic/PicGo.jpg)
-
-如果想在终端环境进行图片上传，可以参考：[upgit](https://github.com/pluveto/upgit)。 
+![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
 
 ## 👀 资料 
 
-### [通识千书书单-聪明的阅读者](https://docs.qq.com/sheet/DY2RmcVVMVE9Qd3JV?tab=BB08J2)
+### [paper-reading](https://github.com/mli/paper-reading)
 
-汇总聪明的阅读者里面出现的书单，可以选择最小单位的书单阅读：
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-![聪明的阅读者](https://images-1252557999.file.myqcloud.com/uPic/聪明的阅读者.jpg) 
+![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
 
-### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
+### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
 
-《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
+深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
 
-![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
+### [事实核查手册](https://chinafactcheck.com/?p=11465)
 
-### [linux-command](https://github.com/jaywcjlove/linux-command)
+虚假信息泛滥已成世界性难题，简体中文内容市场亦难置身事外。作为应对手段之一，事实核查在中国开始萌芽。
 
-Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
+本手册以案例的形式介绍了常用的文字、图片和视频核查工具，也涉及事实核查的工作流程、信源评估，并译介了国际事实核查机构惯用的职业准则与实践，希望能为中国的事实核查业者和观察者提供一定的参考。
 
-![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
+![事实核查手册](https://images-1252557999.file.myqcloud.com/uPic/事实核查手册.jpg) 
 
 ## 🕸 网站 
 
-### [tailspark](https://tailspark.co/)
+### [zzollo](https://github.com/Sanix-Darker/zzollo)
 
-`300+` 免费的 `TailwindCSS` 组件和模板，让您在几分钟内构建网站，颜值也非常高：
+开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
 
-![tailspark](https://images-1252557999.file.myqcloud.com/uPic/tailspark.jpg) 
+![zzollo](https://images-1252557999.file.myqcloud.com/uPic/NJXulr.png) 
 
-### [tldraw](https://www.tldraw.com/)
+### [squoosh](https://squoosh.app/)
 
-小巧强大的在线绘图工具：
+免费漂亮的在线图片压缩网站：
 
-![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
+![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
 
-### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
+其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
 
-一个搜索 git 常用 emoji 的网站:
+### [compressjpeg](https://compressjpeg.com/zh/)
 
-![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
+一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
+
+![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg) 
 
 ## ✍️ 说明
 
