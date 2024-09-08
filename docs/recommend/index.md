@@ -5,51 +5,40 @@
 
 ## 🎯 项目 
 
-### [onenav](https://github.com/helloxz/onenav)
+### [inpaint-web](https://github.com/lxfater/inpaint-web)
 
-使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问：
+基于 `WebGPU` 技术和 `wasm` 技术的免费开源图片修复&图片高清化工具, 纯浏览器端实现：
 
-支持后台管- 理
-- 支持私有链接
-- 支持Chrome/Firefox/Edge书签批量导入
-- 支持多种主题风格
-- 支持链接信息自动识别
-- 支持API
-- 支持Docker部署
-- 支持uTools插件
-- 支持二级分类
-- 支持Chromium内核的浏览器扩展（插件）
-- 支持在线更新
-- 手机版后台
+![inpaint-web](https://images-1252557999.file.myqcloud.com/uPic/inpaint-web.jpg) 
 
-![onenav](https://images-1252557999.file.myqcloud.com/uPic/onenav.png) 
+### [logto](https://github.com/logto-io/logto)
 
-### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
+`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
 
-一键免费部署你的私人 `ChatGPT` 网页应用：
+核心功能：
 
-- 在 1 分钟内使用 Vercel  **免费一键部署**
-- 精心设计的 UI，响应式设计，支持深色模式
-- 极快的首屏加载速度（~85kb）
-- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
-- 一键导出聊天记录，完整的 Markdown 支持
-- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
+- 一个基于 `OIDC` 的身份服务
+- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
+- 动态短信/邮件验证码登录/注册
+- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
+- 基于 web 的图形化管理控制台
+- 可扩展的多语言支持
 
-![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
+![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
 
-### [DweebUI](https://github.com/lllllllillllllillll/DweebUI)
+### [excalidraw](https://github.com/excalidraw/excalidraw)
 
-用于管理容器的免费开源 `WebUI`，颜值不错，但是功能还不大够，值得期待：
+免费开源的白板绘图工具（默认提供手绘风格），官方也提供了 `Web` [在线使用](https://excalidraw.com/)版：
 
-![DweebUI](https://images-1252557999.file.myqcloud.com/uPic/DweebUI.png) 
+![excalidraw](https://images-1252557999.file.myqcloud.com/uPic/excalidraw.jpg) 
 
 ## 🤖 软件 
 
-### [ToastFish](https://github.com/Uahh/ToastFish)
+### [Kazumi](https://github.com/Predidit/Kazumi)
 
-这是一个利用 `Windows` 通知栏背单词的软件，可以让你在上班、上课等环境下安全地背单词：
+基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，非常强大：
 
-![ToastFish](https://images-1252557999.file.myqcloud.com/uPic/ToastFish.gif) 
+![Kazumi](https://images-1252557999.file.myqcloud.com/uPic/Kazumi.jpg) 
 
 ### [PicHoro](https://github.com/Kuingsmile/PicHoro "PicHoro")
 
@@ -61,47 +50,54 @@
 
 ![PicHoro](https://images-1252557999.file.myqcloud.com/uPic/PicHoro.jpg) 
 
-### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
+### [copybook-generator](https://github.com/jaywcjlove/copybook-generator)
 
-腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+「宝宝字帖」是一款功能强大的字帖生成工具，专为满足不同用户的书写练习需求而设计：
 
-![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
+![copybook-generator](https://images-1252557999.file.myqcloud.com/uPic/copybook-generator.jpg) 
 
 ## 👀 资料 
 
-### [企业如何拥抱 AI（周鸿祎）](https://mcgr3mdbak.feishu.cn/docx/NxjvdvYmLoXOvgxBP1ocFwRbn5g)
+### [Midjourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
 
-![qyybai](https://images-1252557999.file.myqcloud.com/uPic/yjvbm2.png) 
+一份 `Midjourney` 学习教程：
 
-### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
+![midjourney-learning-path](https://images-1252557999.file.myqcloud.com/uPic/midjourney-learning-path.jpg) 
 
-深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
+### [sql-mother](https://github.com/liyupi/sql-mother)
 
-### 认知偏差知识手册
+免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
 
-字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+![sqlmother](https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg)
 
-![cb](https://images-1252557999.file.myqcloud.com/uPic/cb.jpg) 
+在线网站点[这里](http://sqlmother.yupi.icu/#/learn)。 
+
+### [JavaScript30](https://github.com/wesbos/JavaScript30)
+
+30 天 JS 挑战，助力学习提升 JS 技巧：
+
+![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
 
 ## 🕸 网站 
 
-### [apivault.dev](https://apivault.dev/)
+### [万词王](https://github.com/thunlp/WantWords)
 
-免费开源的公共 `API` 网站：
+万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
 
-![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
+![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
+官方访问地址：[wantwords.net](https://wantwords.net/)。 
 
-### [privacytools.io](https://www.privacytools.io/)
+### [ray.so](https://ray.so/)
 
-大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
+之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
 
-![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
+![ray.so](https://images-1252557999.file.myqcloud.com/uPic/ray.so.jpg) 
 
-### [grep.app](https://grep.app/)
+### [ICO converter](https://www.icoconverter.com/)
 
-从 50 万个开源仓库中搜索你需要的代码片段，搜索速度很快：
+`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
 
-![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
+![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
 
 ## ✍️ 说明
 
