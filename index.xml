@@ -12,7 +12,65 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 01 Sep 2024 05:22:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 09:22:01 +0000</lastBuildDate>
+    <item>
+      <title>09-02~09-07.老胡的周刊（第158期）.md</title>
+      <link>https://weekly.howie6879.com/2024/09-02~09-07.老胡的周刊（第158期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/09-02~09-07.老胡的周刊（第158期）.html"&gt;09-02~09-07.老胡的周刊（第158期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Zeyi-Lin/HivisionIDPhotos"&gt;HivisionIDPhotos&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个轻量级的AI证件照制作算法：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;轻量级抠图（纯离线，仅需 CPU 即可快速推理）&lt;/li&gt;
+&lt;li&gt;根据不同尺寸规格生成不同的标准证件照、六寸排版照&lt;/li&gt;
+&lt;li&gt;支持 纯离线 或 端云 推理&lt;/li&gt;
+&lt;li&gt;美颜（waiting）&lt;/li&gt;
+&lt;li&gt;智能换正装（waiting）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="HivisionIDPhotos" src="https://images-1252557999.file.myqcloud.com/uPic/gPE06c.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/usual2970/certimate"&gt;certimate&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="certimate" src="https://images-1252557999.file.myqcloud.com/uPic/W29Eof.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/obsproject/obs-studio"&gt;obs-studio&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;免费开源的专业屏幕录制+视频串流直播软件，包含视频录制、屏幕录像、音频录制、直播推流等功能。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="obs-studio" src="https://images-1252557999.file.myqcloud.com/uPic/2asRCI.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/pakerwreah/Calendr"&gt;Calendr&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源的菜单栏日历应用程序，专为 macOS 设计，提供了一个简洁的界面来查看和管理日程。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Calendr" src="https://images-1252557999.file.myqcloud.com/uPic/TsGyZ0.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/johnfactotum/foliate"&gt;foliate&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Linux&lt;/code&gt; 最佳电子书阅读器：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="foliate" src="https://images-1252557999.file.myqcloud.com/uPic/BAy1B7.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/schwabe/ics-openvpn"&gt;ics-openvpn&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;ics-openvpn&lt;/code&gt; 是一个适用 &lt;code&gt;Android&lt;/code&gt;  的 &lt;code&gt;OpenVPN&lt;/code&gt; 客户端项目，它允许用户在不需要 &lt;code&gt;root&lt;/code&gt; 权限的情况下通过 &lt;code&gt;Android&lt;/code&gt; 的 &lt;code&gt;VPNService API&lt;/code&gt; 使用 &lt;code&gt;VPN&lt;/code&gt; 服务：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ics-openvpn" src="https://images-1252557999.file.myqcloud.com/uPic/g0QLis.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://vvyst0z7tes.feishu.cn/wiki/HQuawZepyiwNiNkImw6c00IXnmc"&gt;英语提升指南&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于南加州大学的荣休教授斯蒂芬.克拉申（Stephen D。Krashen）博士的假说理论，为不同水平的英语自学者提供了结构化的学习路径。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="英语提升指南" src="https://images-1252557999.file.myqcloud.com/uPic/uxM2zV.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://emojispark.com/"&gt;emojispark&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Emoji&lt;/code&gt; 搜索网站：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="emojispark" src="https://images-1252557999.file.myqcloud.com/uPic/d8ed41.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.pingli.app/"&gt;pingli.app&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;说出你们的分歧，让7位 &lt;code&gt;AI&lt;/code&gt; 裁判评评理，挺有意思：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pingli.app" src="https://images-1252557999.file.myqcloud.com/uPic/1gX0NC.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">09-02~09-07.老胡的周刊（第158期）.md</guid>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>08-26~09-01.老胡的周刊（第157期）.md</title>
       <link>https://weekly.howie6879.com/2024/08-26~09-01.老胡的周刊（第157期）.html</link>
@@ -1266,97 +1324,6 @@ curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/rel
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">04-22~04-28.老胡的周刊（第139期）.md</guid>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>04-15~04-21.老胡的周刊（第138期）.md</title>
-      <link>https://weekly.howie6879.com/2024/04-15~04-21.老胡的周刊（第138期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/04-15~04-21.老胡的周刊（第138期）.html"&gt;04-15~04-21.老胡的周刊（第138期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/meta-llama/llama3"&gt;llama3&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Meta 正式发布开源大模型 &lt;code&gt;Llama 3&lt;/code&gt; ，其提供两个版本：&lt;code&gt;8B&lt;/code&gt; 版本适合在消费级 &lt;code&gt;GPU&lt;/code&gt; 上高效部署和开发；&lt;code&gt;70B&lt;/code&gt; 版本则专为大规模 &lt;code&gt;AI&lt;/code&gt; 应用设计。每个版本都包括基础和指令调优两种形式。此外，基于 &lt;code&gt;Llama 3 8B&lt;/code&gt; 微调后的 &lt;code&gt;Llama Guard&lt;/code&gt; 新版本也已作为 &lt;code&gt;Llama Guard 2&lt;/code&gt;（安全微调版本）发布：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="hc_llama3" src="https://images-1252557999.file.myqcloud.com/uPic/hc_llama3.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;你可以在 &lt;a href="https://huggingface.co/chat"&gt;Hugging Chat&lt;/a&gt; 上面体验，其他相关优秀的衍生开源项目老胡顺便做了个整理：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/meta-llama/llama"&gt;llama&lt;/a&gt;|&lt;a href="https://github.com/ggerganov/llama.cpp"&gt;llama.cpp&lt;/a&gt;|&lt;a href="https://github.com/Mozilla-Ocho/llamafile"&gt;llamafile&lt;/a&gt;|&lt;a href="https://github.com/meta-llama/codellama"&gt;codellama&lt;/a&gt;|&lt;a href="https://github.com/mlabonne/llm-course"&gt;llm-course&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;问答系统：&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/labring/FastGPT"&gt;FastGPT&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/Mintplex-Labs/anything-llm"&gt;anything-llm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/1Panel-dev/MaxKB"&gt;MaxKB&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/QuivrHQ/quivr"&gt;quivr&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/chatchat-space/Langchain-Chatchat"&gt;Langchain-Chatchat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/netease-youdao/QAnything"&gt;QAnything&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/zylon-ai/private-gpt"&gt;private-gpt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/developersdigest/llm-answer-engine"&gt;llm-answer-engine&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;WebUI：&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web"&gt;ChatGPT-Next-Web&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/lobehub/lobe-chat"&gt;lobe-chat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/GaiZhenbiao/ChuanhuChatGPT"&gt;ChuanhuChatGPT&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/open-webui/open-webui"&gt;open-webui&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/sugarforever/chat-ollama"&gt;chat-ollama&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/huggingface/chat-ui"&gt;chat-ui&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/sigoden/aichat"&gt;aichat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/open-webui/open-webui"&gt;open-webui2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/mudler/LocalAI"&gt;LocalAI&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;APP：&lt;a href="https://lmstudio.ai/"&gt;LM Studio&lt;/a&gt;|&lt;a href="https://github.com/janhq/jan"&gt;jan&lt;/a&gt;||&lt;a href="https://github.com/ollama/ollama"&gt;ollama&lt;/a&gt;|&lt;a href="https://github.com/Bin-Huang/chatbox"&gt;chatbox&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;应用开发：&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/langchain-ai/langchain"&gt;langchain&lt;/a&gt;：为AI开发者提供工具，将语言模型与外部数据源连接起来，辅助构建 AI 应用程序&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/geekan/MetaGPT"&gt;MetaGPT&lt;/a&gt;：Multi-Agent 框架&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://docs.dify.ai/"&gt;Dify&lt;/a&gt;：开源的大语言模型(LLM) 应用开发平台&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/hiyouga/LLaMA-Factory"&gt;LLaMA-Factory&lt;/a&gt;：让大模型微调更简单&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/FlowiseAI/Flowise"&gt;Flowise&lt;/a&gt;：轻松构建 LLM 应用程序&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/pathwaycom/llm-app"&gt;llm-app&lt;/a&gt;：30 行代码构建你的 LLM 应用程序&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.vellum.ai/llm-leaderboard"&gt;LLM Leaderboard&lt;/a&gt;：各大主流 LLMs 评比&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;a href="https://github.com/drawdb-io/drawdb"&gt;drawdb&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;免费、简单且直观的在线数据库设计工具和 &lt;code&gt;SQL&lt;/code&gt; 生成器：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="drawdb" src="https://images-1252557999.file.myqcloud.com/uPic/drawdb.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Bin-Huang/chatbox"&gt;chatbox&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;跨平台大模型客户端：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="chatbox" src="https://images-1252557999.file.myqcloud.com/uPic/chatbox.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://beta.epubkit.app/"&gt;epubkit&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;挺多人有这种需求的，将网页转化成电子书：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="epubkit" src="https://images-1252557999.file.myqcloud.com/uPic/epubkit.png" /&gt;&lt;/p&gt;
-&lt;p&gt;之前推荐的 &lt;a href="https://epub.press/"&gt;EpubPress&lt;/a&gt; 也是类似功能，可以结合在一起体验试试。&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://t16jzwqrzjx.feishu.cn/wiki/EsvowFAqFiTiYDkJgE0cWquPnWb"&gt;Al精选工具库&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;18 个模块 100 个 AI 工具：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ai_tools" src="https://images-1252557999.file.myqcloud.com/uPic/ai_tools.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://linux-kernel-labs-zh.xyz/"&gt;Linux 内核教学&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;本文档包含一系列 &lt;code&gt;Linux&lt;/code&gt; 内核主题的课程和实验，课程侧重于理论和 &lt;code&gt;Linux&lt;/code&gt; 内核探索。实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引&lt;/li&gt;
-&lt;li&gt;实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="linux-kernel-labs-zh" src="https://images-1252557999.file.myqcloud.com/uPic/linux-kernel-labs-zh.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://www.chess.com/"&gt;chess.com&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;在线国际象棋：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="chess" src="https://images-1252557999.file.myqcloud.com/uPic/chess.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://llm.juejin.cn/view"&gt;稀土掘金大模型子站&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;大模型相关产品导航：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="llm_juejin" src="https://images-1252557999.file.myqcloud.com/uPic/llm_juejin.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">04-15~04-21.老胡的周刊（第138期）.md</guid>
-      <pubDate>Sun, 21 Apr 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
