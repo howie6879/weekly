@@ -5,87 +5,103 @@
 
 ## 🎯 项目 
 
-### [LapisCV](https://github.com/BingyanStudio/LapisCV "LapisCV")
+### [onenav](https://github.com/helloxz/onenav)
 
-📃 开箱即用的 `Obsidian / Typora` 简历，基于 `Markdown` 格式，易于编辑，所见即所得。风格简洁正式，支持多页，适用于大部分求职 / 求学场景：
+使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问：
 
-![LapisCV](https://images-1252557999.file.myqcloud.com/uPic/LapisCV.png) 
+支持后台管- 理
+- 支持私有链接
+- 支持Chrome/Firefox/Edge书签批量导入
+- 支持多种主题风格
+- 支持链接信息自动识别
+- 支持API
+- 支持Docker部署
+- 支持uTools插件
+- 支持二级分类
+- 支持Chromium内核的浏览器扩展（插件）
+- 支持在线更新
+- 手机版后台
 
-### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
+![onenav](https://images-1252557999.file.myqcloud.com/uPic/onenav.png) 
 
-基于 `SOTA AI` 模型的图片免费开源修补工具：
+### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
 
-![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
+一键免费部署你的私人 `ChatGPT` 网页应用：
 
-### [devika](https://github.com/stitionai/devika "devika")
+- 在 1 分钟内使用 Vercel  **免费一键部署**
+- 精心设计的 UI，响应式设计，支持深色模式
+- 极快的首屏加载速度（~85kb）
+- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
+- 一键导出聊天记录，完整的 Markdown 支持
+- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
 
-Devika 是一名 Agentic AI 软件工程师，可以理解高级人类指令并将其分解到各个步骤，然后研究相关信息，并编写代码以实现给定的目标。
+![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
 
-![devika](https://images-1252557999.file.myqcloud.com/uPic/devika.png)
+### [DweebUI](https://github.com/lllllllillllllillll/DweebUI)
 
-Devika 旨在成为 Cognition AI 的 Devin 的竞争性开源替代品。 
+用于管理容器的免费开源 `WebUI`，颜值不错，但是功能还不大够，值得期待：
+
+![DweebUI](https://images-1252557999.file.myqcloud.com/uPic/DweebUI.png) 
 
 ## 🤖 软件 
 
-### [little-rat](https://github.com/dnakov/little-rat)
+### [ToastFish](https://github.com/Uahh/ToastFish)
 
-Little Rat 是一款开源的 Chrome 扩展，用于实时监测其它的 Chrome 扩展联网情况，并可以选择阻止联网，防止恶意扩展：
+这是一个利用 `Windows` 通知栏背单词的软件，可以让你在上班、上课等环境下安全地背单词：
 
-![little-rat](https://images-1252557999.file.myqcloud.com/uPic/little-rat.webp) 
+![ToastFish](https://images-1252557999.file.myqcloud.com/uPic/ToastFish.gif) 
 
-### mizu
+### [PicHoro](https://github.com/Kuingsmile/PicHoro "PicHoro")
 
-微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
+多功能云存储管理工具，集图床管理、文件传输于一体。支持多平台且功能全面：
 
-![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
+- 直接管理多种云存储平台
+- 便捷上传和下载文件
+- 兼容 S3 API，轻松集成现有系统
 
-### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
+![PicHoro](https://images-1252557999.file.myqcloud.com/uPic/PicHoro.jpg) 
 
-`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
-![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
 ## 👀 资料 
 
-### [paper-reading](https://github.com/mli/paper-reading)
+### [企业如何拥抱 AI（周鸿祎）](https://mcgr3mdbak.feishu.cn/docx/NxjvdvYmLoXOvgxBP1ocFwRbn5g)
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
-
-![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
+![qyybai](https://images-1252557999.file.myqcloud.com/uPic/yjvbm2.png) 
 
 ### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
 
 深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
 
-### [事实核查手册](https://chinafactcheck.com/?p=11465)
+### 认知偏差知识手册
 
-虚假信息泛滥已成世界性难题，简体中文内容市场亦难置身事外。作为应对手段之一，事实核查在中国开始萌芽。
+字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
 
-本手册以案例的形式介绍了常用的文字、图片和视频核查工具，也涉及事实核查的工作流程、信源评估，并译介了国际事实核查机构惯用的职业准则与实践，希望能为中国的事实核查业者和观察者提供一定的参考。
-
-![事实核查手册](https://images-1252557999.file.myqcloud.com/uPic/事实核查手册.jpg) 
+![cb](https://images-1252557999.file.myqcloud.com/uPic/cb.jpg) 
 
 ## 🕸 网站 
 
-### [zzollo](https://github.com/Sanix-Darker/zzollo)
+### [apivault.dev](https://apivault.dev/)
 
-开源项目搜索引擎，支持`Github, GitLab, Bitbucket `，在网地址访问地址为[zzollo.co](https://zzollo.co/)：
+免费开源的公共 `API` 网站：
 
-![zzollo](https://images-1252557999.file.myqcloud.com/uPic/NJXulr.png) 
+![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
 
-### [squoosh](https://squoosh.app/)
+### [privacytools.io](https://www.privacytools.io/)
 
-免费漂亮的在线图片压缩网站：
+大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
 
-![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
+![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
 
-其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
+### [grep.app](https://grep.app/)
 
-### [compressjpeg](https://compressjpeg.com/zh/)
+从 50 万个开源仓库中搜索你需要的代码片段，搜索速度很快：
 
-一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
-
-![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg) 
+![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
 
 ## ✍️ 说明
 
