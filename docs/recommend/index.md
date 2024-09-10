@@ -5,92 +5,97 @@
 
 ## 🎯 项目 
 
-### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
+### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 
-抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
+一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
 
-![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
+![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
 
-### [Kyoo](https://github.com/zoriya/Kyoo)
+### [privaxy](https://github.com/Barre/privaxy)
 
-`Kyoo` 是一款开源媒体浏览器，可让您流式传输电影、电视节目或动漫。它是 `Plex、Emby or Jellyfin` 的替代品：
+Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
 
-![kyoo](https://images-1252557999.file.myqcloud.com/uPic/kyoo.jpg)
+![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
 
-目前产品形态只有 `Web` 和 `Android`。 
+还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
 
-### [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
+### [zinc](https://github.com/prabhatsharma/zinc)
 
-作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。
+`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
 
-项目列表如下：
+- 全文索引能力
+- 快速运行，多平台支持
+- 基于Vue的Web UI
+- 兼容ES API
+- 开箱即用的验证功能
+- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
 
-![bigdata_analyse](https://images-1252557999.file.myqcloud.com/uPic/klC8AA.png) 
+![zinc](https://images-1252557999.file.myqcloud.com/uPic/P9OAA1.jpg) 
 
 ## 🤖 软件 
 
-### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
+### [CuteGIF](https://github.com/tasy5kg/CuteGIF)
 
-安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
+小萌 `GIF` 是一款简洁好用的 `Android` 端视频转 `GIF` 工具：
 
-- [美团买菜版本](https://github.com/qulingyuan/robVeg)
-- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
+![CuteGIF](https://images-1252557999.file.myqcloud.com/uPic/CuteGIF.jpg) 
 
-### [obs-studio](https://github.com/obsproject/obs-studio)
+### [Plash](https://github.com/sindresorhus/Plash)
 
-免费开源的专业屏幕录制+视频串流直播软件，包含视频录制、屏幕录像、音频录制、直播推流等功能。
+将网站变成 Mac 桌面壁纸，支持将多种网站设置为壁纸，这些网站并不局限于图片网站，还可以是新闻、气象等站点：
 
-![obs-studio](https://images-1252557999.file.myqcloud.com/uPic/2asRCI.png) 
+![Plash](https://images-1252557999.file.myqcloud.com/uPic/Plash.jpeg) 
 
-### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+### [PicList](https://github.com/Kuingsmile/PicList)
 
-`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+`PicList` 是一款高效的跨平台云存储和图床平台管理工具，在 `PicGo` 的基础上经过深度的二次开发，不仅完整保留了 `PicGo` 的所有功能，还增添了许多新的特性：例如：
 
-![appflowy](https://images-1252557999.file.myqcloud.com/uPic/JhzdLT.jpg) 
+- 相册支持同步云端删除文件
+- 内置图床额外添加了 `WebDav`、本地图床和 `SFTP`
+- 增加了完整的云存储管理功能
+- 等等
+
+![PicList](https://images-1252557999.file.myqcloud.com/uPic/PicList.jpg) 
 
 ## 👀 资料 
 
-### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
+### [sql-mother](https://github.com/liyupi/sql-mother)
 
-基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
+免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
 
-- NLP
-- CV
-- Time Series
+![sqlmother](https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg)
 
-目录概览：
+在线网站点[这里](http://sqlmother.yupi.icu/#/learn)。 
 
-![Pytorch](https://images-1252557999.file.myqcloud.com/uPic/kSUA40.png) 
+### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
 
-### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
+`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
 
-该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
+![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
 
-### [svg-tutorial](https://svg-tutorial.com/)
+### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
-学习如何使用 `SVG` 在 `HTML` 中编写图像代码：
-
-![svg-tutorial](https://images-1252557999.file.myqcloud.com/uPic/svg-tutorial.jpg) 
+命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
 
 ## 🕸 网站 
 
-### [star-history](https://star-history.com/)
+### [svg-path-editor](https://yqnn.github.io/svg-path-editor/)
 
-在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
+在线编辑创建 `SVG`，同时开源在 [github-svg-path-editor](https://github.com/Yqnn/svg-path-editor)：
 
-![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
+![svg-path-editor](https://images-1252557999.file.myqcloud.com/uPic/svg-path-editor.jpg) 
 
-### [jpghi](https://jpghi.com/)
+### [calmcode](https://calmcode.io/)
 
-jpgHi 支持各种类型图片高清无损放大，为模糊不清的图片增加极致细节，提升图片质感：
+非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
 
-![jpghi](https://images-1252557999.file.myqcloud.com/uPic/jpghi.jpg) 
+![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
 
-### [BriefGPT](https://briefgpt.xyz/)
+### [nona](https://www.nona.de/)
 
-`AI` 论文速递，每日更新 `Arxiv` 论文，第一时间了解 `AI` 最新动态：
+德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
 
-![briefgpt](https://images-1252557999.file.myqcloud.com/uPic/briefgpt.jpg) 
+![nona](https://images-1252557999.file.myqcloud.com/uPic/1nN2lu.png) 
 
 ## ✍️ 说明
 
