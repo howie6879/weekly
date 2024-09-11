@@ -5,97 +5,96 @@
 
 ## 🎯 项目 
 
-### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
 
-一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
+Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
 
-![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
+### [BGmi](https://github.com/BGmi/BGmi)
 
-### [privaxy](https://github.com/Barre/privaxy)
+`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
 
-Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
+![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
 
-![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
+### [plasmo](https://github.com/PlasmoHQ/plasmo)
 
-还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
+`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
 
-### [zinc](https://github.com/prabhatsharma/zinc)
+- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
+- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
+- 热重载
+- [`.env*`  文件](https://docs.plasmo.com/framework/env)
+- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
+- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
+- 还有更多!  🚀
 
-`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
+![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
 
-- 全文索引能力
-- 快速运行，多平台支持
-- 基于Vue的Web UI
-- 兼容ES API
-- 开箱即用的验证功能
-- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
-
-![zinc](https://images-1252557999.file.myqcloud.com/uPic/P9OAA1.jpg) 
+更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
 
 ## 🤖 软件 
 
-### [CuteGIF](https://github.com/tasy5kg/CuteGIF)
+### [optimizer](https://github.com/hellzerg/optimizer)
 
-小萌 `GIF` 是一款简洁好用的 `Android` 端视频转 `GIF` 工具：
+开源软件，让你的 `Windows` 电脑保持最大程度上的纯净，保证电脑性能：
 
-![CuteGIF](https://images-1252557999.file.myqcloud.com/uPic/CuteGIF.jpg) 
+![optimizer](https://images-1252557999.file.myqcloud.com/uPic/optimizer.jpg) 
 
-### [Plash](https://github.com/sindresorhus/Plash)
+### [Wox](https://github.com/Wox-launcher/Wox)
 
-将网站变成 Mac 桌面壁纸，支持将多种网站设置为壁纸，这些网站并不局限于图片网站，还可以是新闻、气象等站点：
+Wox 是一款10年前开源的跨平台快速启动器，之前已经停更，最近开始更新了，计划在年底完成v2版本，新版本会跨平台，期待！
 
-![Plash](https://images-1252557999.file.myqcloud.com/uPic/Plash.jpeg) 
+![wox](https://images-1252557999.file.myqcloud.com/uPic/wox.jpg) 
 
-### [PicList](https://github.com/Kuingsmile/PicList)
+### [CotEditor](https://github.com/coteditor/CotEditor)
 
-`PicList` 是一款高效的跨平台云存储和图床平台管理工具，在 `PicGo` 的基础上经过深度的二次开发，不仅完整保留了 `PicGo` 的所有功能，还增添了许多新的特性：例如：
+开源的`macOS` 纯文本编辑器：
 
-- 相册支持同步云端删除文件
-- 内置图床额外添加了 `WebDav`、本地图床和 `SFTP`
-- 增加了完整的云存储管理功能
-- 等等
-
-![PicList](https://images-1252557999.file.myqcloud.com/uPic/PicList.jpg) 
+![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
 
 ## 👀 资料 
 
-### [sql-mother](https://github.com/liyupi/sql-mother)
+### [LearnData-开源笔记](https://newzone.top/)
 
-免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
+一份关于开源工具、效率方法、心理学探索的自我提升笔记：
 
-![sqlmother](https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg)
+![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
 
-在线网站点[这里](http://sqlmother.yupi.icu/#/learn)。 
+### [tuning_playbook_zh_cn](https://github.com/schrodingercatss/tuning_playbook_zh_cn)
 
-### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
+深度学习调优指南中文版，一本系统地教你将深度学习模型的性能最大化的战术手册：
 
-`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
+![tuning_playbook_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/tuning_playbook_zh_cn.jpg) 
 
-![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
+### [学习CSS布局](https://zh.learnlayout.com/)
 
-### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+本站教授的是现在广泛使用于网站布局领域的CSS基础：
 
-命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
+![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
 
 ## 🕸 网站 
 
-### [svg-path-editor](https://yqnn.github.io/svg-path-editor/)
+### [echoserver](https://echoserver.dev/)
 
-在线编辑创建 `SVG`，同时开源在 [github-svg-path-editor](https://github.com/Yqnn/svg-path-editor)：
+一个用于测试 `HTTP` 客户端的简单服务器，可生成 `URL` 并返回您想要的生成响应：
 
-![svg-path-editor](https://images-1252557999.file.myqcloud.com/uPic/svg-path-editor.jpg) 
+![echoserver](https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg) 
 
-### [calmcode](https://calmcode.io/)
+### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
 
-非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
+`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
 
-![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
+- 可视化组件配置栏
+- 随机生成头像，有一定概率触发彩蛋
+- 撤销/还原*更改*
+- 国际化多语言
 
-### [nona](https://www.nona.de/)
+![vue-color-avatar](https://images-1252557999.file.myqcloud.com/uPic/n3gXb6.png) 
 
-德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
+### [caniuse](https://caniuse.com/)
 
-![nona](https://images-1252557999.file.myqcloud.com/uPic/1nN2lu.png) 
+网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
+
+![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
 
 ## ✍️ 说明
 
