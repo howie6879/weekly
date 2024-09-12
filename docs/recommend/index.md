@@ -5,96 +5,98 @@
 
 ## 🎯 项目 
 
-### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
+### [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
 
-Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
+强大的少样本语音转换与语音合成Web用户界面，低成本 AI 语音克隆项目，感兴趣可以查看介绍[视频](https://www.bilibili.com/video/BV12g4y1m7Uw/) 。
 
-### [BGmi](https://github.com/BGmi/BGmi)
+![GPT-SoVITS](https://images-1252557999.file.myqcloud.com/uPic/GPT-SoVITS.jpg) 
 
-`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
+### [laf](https://github.com/labring/laf)
 
-![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
+laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
 
-### [plasmo](https://github.com/PlasmoHQ/plasmo)
+- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
+- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
+- 云数据库，为应用开发提供开箱即用的数据库服务
+- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
+- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
+- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
+- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
+- WebSocket，应用支持长连接，业务无死角
 
-`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
+![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
 
-- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
-- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
-- 热重载
-- [`.env*`  文件](https://docs.plasmo.com/framework/env)
-- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
-- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
-- 还有更多!  🚀
+### [MaxKB](https://github.com/1Panel-dev/MaxKB)
 
-![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
+💬 基于 `LLM` 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，`1Panel` 官方出品：
 
-更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
+开箱即用：支持直接上传文档、自动爬取在线文档，支持文本自动拆分、向量化，智能问答交互体验好；
+无缝嵌入：支持零编码快速嵌入到第三方业务系统；
+多模型支持：支持对接主流的大模型，包括本地私有大模型（如 Llama 2）、Azure OpenAI 和百度千帆大模型等。
+
+![MaxKB](https://images-1252557999.file.myqcloud.com/uPic/MaxKB.jpg) 
 
 ## 🤖 软件 
 
-### [optimizer](https://github.com/hellzerg/optimizer)
+### [Librum](https://github.com/Librum-Reader/Librum)
 
-开源软件，让你的 `Windows` 电脑保持最大程度上的纯净，保证电脑性能：
+`Librum` 是一个旨在让每个人都能轻松愉快地阅读的应用程序。它不仅仅是一个电子书阅读器，更是一个功能强大的工具。
 
-![optimizer](https://images-1252557999.file.myqcloud.com/uPic/optimizer.jpg) 
+使用 `Librum`，您可以随时随地管理您的在线书库，并且可以从任何设备方便地访问它。此外，`Librum` 还提供了多种功能，如笔记、书签和文本突出显示等，同时还允许您自定义界面，使其完全适应您的需求和喜好：
 
-### [Wox](https://github.com/Wox-launcher/Wox)
+![Librum](https://images-1252557999.file.myqcloud.com/uPic/Librum.png) 
 
-Wox 是一款10年前开源的跨平台快速启动器，之前已经停更，最近开始更新了，计划在年底完成v2版本，新版本会跨平台，期待！
+### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
 
-![wox](https://images-1252557999.file.myqcloud.com/uPic/wox.jpg) 
+B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
 
-### [CotEditor](https://github.com/coteditor/CotEditor)
+![](https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg) 
 
-开源的`macOS` 纯文本编辑器：
+### [AdAway](https://github.com/AdAway/AdAway)
 
-![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
+是一款免费且开源的 `Android` 广告拦截器：
+
+![AdAway](https://images-1252557999.file.myqcloud.com/uPic/AdAway.jpg) 
 
 ## 👀 资料 
 
-### [LearnData-开源笔记](https://newzone.top/)
+### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
 
-一份关于开源工具、效率方法、心理学探索的自我提升笔记：
+有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
 
-![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
+![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
 
-### [tuning_playbook_zh_cn](https://github.com/schrodingercatss/tuning_playbook_zh_cn)
+### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
 
-深度学习调优指南中文版，一本系统地教你将深度学习模型的性能最大化的战术手册：
+这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
 
-![tuning_playbook_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/tuning_playbook_zh_cn.jpg) 
+![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
 
-### [学习CSS布局](https://zh.learnlayout.com/)
+### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 
-本站教授的是现在广泛使用于网站布局领域的CSS基础：
+PyTorch 从0到精通教程：
 
-![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
+![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
 
 ## 🕸 网站 
 
-### [echoserver](https://echoserver.dev/)
+### [devtool.tech](https://devtool.tech/)
 
-一个用于测试 `HTTP` 客户端的简单服务器，可生成 `URL` 并返回您想要的生成响应：
+开发者武器库，作者提供了83个开发者常用的工具：
 
-![echoserver](https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/ZlVqam.png) 
 
-### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
+### [linegraphmaker](https://linegraphmaker.co/)
 
-`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
+在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
 
-- 可视化组件配置栏
-- 随机生成头像，有一定概率触发彩蛋
-- 撤销/还原*更改*
-- 国际化多语言
+![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
 
-![vue-color-avatar](https://images-1252557999.file.myqcloud.com/uPic/n3gXb6.png) 
+### [photo2poem](https://photo2poem.top/)
 
-### [caniuse](https://caniuse.com/)
+每一张照片，都对应一首诗，很有意思：
 
-网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
-
-![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
+![photo2poem](https://images-1252557999.file.myqcloud.com/uPic/photo2poem.jpg) 
 
 ## ✍️ 说明
 
