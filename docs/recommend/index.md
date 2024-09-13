@@ -5,98 +5,107 @@
 
 ## 🎯 项目 
 
-### [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+### [Docusaurus](https://github.com/facebook/docusaurus)
 
-强大的少样本语音转换与语音合成Web用户界面，低成本 AI 语音克隆项目，感兴趣可以查看介绍[视频](https://www.bilibili.com/video/BV12g4y1m7Uw/) 。
+`Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
 
-![GPT-SoVITS](https://images-1252557999.file.myqcloud.com/uPic/GPT-SoVITS.jpg) 
+![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
 
-### [laf](https://github.com/labring/laf)
+### [ChatGPT](https://chat.openai.com/chat)
 
-laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
+本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
 
-- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
-- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
-- 云数据库，为应用开发提供开箱即用的数据库服务
-- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
-- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
-- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
-- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
-- WebSocket，应用支持长连接，业务无死角
+- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
+- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
+- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
+- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
+- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
+- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
+- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
 
-![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
+### [flet](https://github.com/flet-dev/flet)
 
-### [MaxKB](https://github.com/1Panel-dev/MaxKB)
+用 `Python` 开发跨平台 `Flutter` 应用：
 
-💬 基于 `LLM` 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，`1Panel` 官方出品：
-
-开箱即用：支持直接上传文档、自动爬取在线文档，支持文本自动拆分、向量化，智能问答交互体验好；
-无缝嵌入：支持零编码快速嵌入到第三方业务系统；
-多模型支持：支持对接主流的大模型，包括本地私有大模型（如 Llama 2）、Azure OpenAI 和百度千帆大模型等。
-
-![MaxKB](https://images-1252557999.file.myqcloud.com/uPic/MaxKB.jpg) 
+![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
 
 ## 🤖 软件 
 
-### [Librum](https://github.com/Librum-Reader/Librum)
+### [spacedrive](https://www.spacedrive.com/)
 
-`Librum` 是一个旨在让每个人都能轻松愉快地阅读的应用程序。它不仅仅是一个电子书阅读器，更是一个功能强大的工具。
+`Spacedrive` 是一个基于 `Rust` 的开源跨平台文件管理器，它采用了虚拟分布式文件系统，通过一个 `API` 来操作访问多设备上的文件。
 
-使用 `Librum`，您可以随时随地管理您的在线书库，并且可以从任何设备方便地访问它。此外，`Librum` 还提供了多种功能，如笔记、书签和文本突出显示等，同时还允许您自定义界面，使其完全适应您的需求和喜好：
+它可以管理分布在多端的文件，在一个地方整理多个设备上的文件。
 
-![Librum](https://images-1252557999.file.myqcloud.com/uPic/Librum.png) 
+无论是云端还是离线硬盘，进而生成你独有的个人分布式云，简单又方便：
 
-### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+![spacedrive](https://images-1252557999.file.myqcloud.com/uPic/spacedrive.webp) 
 
-B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
+### [feed-flow](https://github.com/prof18/feed-flow)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg) 
+`FeedFlow` 是一款极简主义的 `RSS` 阅读器，可在 `Android、iOS&macOS`上使用：
 
-### [AdAway](https://github.com/AdAway/AdAway)
+![feedflow](https://images-1252557999.file.myqcloud.com/uPic/feedflow.jpg) 
 
-是一款免费且开源的 `Android` 广告拦截器：
+### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
 
-![AdAway](https://images-1252557999.file.myqcloud.com/uPic/AdAway.jpg) 
+适用于Android的免费开源漫画阅读器，流畅丝滑：
+
+![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
+
+之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
 
 ## 👀 资料 
 
-### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
+### [rust-course](https://github.com/sunface/rust-course)
 
-有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
+> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
 
-![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
+![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
 
-### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
+阅读地址见[course.rs](https://course.rs)。 
 
-这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
+### [svg-tutorial](https://svg-tutorial.com/)
 
-![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
+学习如何使用 `SVG` 在 `HTML` 中编写图像代码：
 
-### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
+![svg-tutorial](https://images-1252557999.file.myqcloud.com/uPic/svg-tutorial.jpg) 
 
-PyTorch 从0到精通教程：
+### [GoGuide](https://github.com/coderit666/GoGuide)
 
-![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
+`Go Guide` 致力于打造最易懂的 `Go` 语言教程：
+
+![GoGuide](https://images-1252557999.file.myqcloud.com/uPic/GoGuide.png) 
 
 ## 🕸 网站 
 
-### [devtool.tech](https://devtool.tech/)
+### [apitracker](https://apitracker.io/)
 
-开发者武器库，作者提供了83个开发者常用的工具：
+发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/ZlVqam.png) 
+![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
 
-### [linegraphmaker](https://linegraphmaker.co/)
+### [aiwallpaper](https://aiwallpaper.shop/)
 
-在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
+`AI` 生成高清壁纸，项目开源在：[all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper)。
 
-![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
+开源代码包括：
 
-### [photo2poem](https://photo2poem.top/)
+- nextjs 全栈开发 API 和 Web 
+- dalle-3 绘图对接 
+- aws s3 图片上传 
+- postgres 数据读写 
+- 谷歌登录 
+- stripe
 
-每一张照片，都对应一首诗，很有意思：
+非常适合参考学习，用来做一些小而美的 `AI` 应用。 
 
-![photo2poem](https://images-1252557999.file.myqcloud.com/uPic/photo2poem.jpg) 
+### [watermark](https://watermark.liumingye.cn/)
+
+短视频/图集在线去水印解析：
+
+![watermark](https://images-1252557999.file.myqcloud.com/uPic/watermark.jpg) 
 
 ## ✍️ 说明
 
