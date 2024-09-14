@@ -5,107 +5,89 @@
 
 ## 🎯 项目 
 
-### [Docusaurus](https://github.com/facebook/docusaurus)
+### [free-api](https://github.com/fangzesheng/free-api)
 
-`Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
+作者创建此开源项目的目的如下：
 
-![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
+> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
 
-### [ChatGPT](https://chat.openai.com/chat)
+包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
 
-本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
+![free-api](https://images-1252557999.file.myqcloud.com/uPic/VvapMO.png) 
 
-- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
-- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
-- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
-- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
-- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
-- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
-- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
-- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
+### [outline](https://github.com/outline/outline)
 
-### [flet](https://github.com/flet-dev/flet)
+使用 `React &Node.js` 构建的协作知识库，支持团队协作，样式美观，可自建：
 
-用 `Python` 开发跨平台 `Flutter` 应用：
+![outline](https://images-1252557999.file.myqcloud.com/uPic/outline.jpg) 
 
-![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
+### [puter](https://github.com/HeyPuter/puter)
+
+`Puter` 是一个在浏览器中运行的开源桌面环境，可用于构建远程桌面、与云服务交互或作为其他云存储平台的替代品，旨在以轻量级的方式直接在浏览器中带来桌面体验。
+
+![Puter](https://images-1252557999.file.myqcloud.com/uPic/Puter.webp) 
 
 ## 🤖 软件 
 
-### [spacedrive](https://www.spacedrive.com/)
+### [Sequel-Ace](https://sequel-ace.com/)
 
-`Spacedrive` 是一个基于 `Rust` 的开源跨平台文件管理器，它采用了虚拟分布式文件系统，通过一个 `API` 来操作访问多设备上的文件。
+原生的 `MySQL/MariaDB` 数据库管理软件：
 
-它可以管理分布在多端的文件，在一个地方整理多个设备上的文件。
+![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
 
-无论是云端还是离线硬盘，进而生成你独有的个人分布式云，简单又方便：
+### [TTime](https://github.com/inkTimeRecord/TTime)
 
-![spacedrive](https://images-1252557999.file.myqcloud.com/uPic/spacedrive.webp) 
+🚀 一款简洁高效的跨平台输入、截图、划词翻译软件：
 
-### [feed-flow](https://github.com/prof18/feed-flow)
+![TTime](https://images-1252557999.file.myqcloud.com/uPic/TTime.jpg)
 
-`FeedFlow` 是一款极简主义的 `RSS` 阅读器，可在 `Android、iOS&macOS`上使用：
+[Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#bob) 算是这类软件的鼻祖，之前我也推荐过 [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=pot#pot-desktop) ，大家酌情选择即可。 
 
-![feedflow](https://images-1252557999.file.myqcloud.com/uPic/feedflow.jpg) 
+### [copybook-generator](https://github.com/jaywcjlove/copybook-generator)
 
-### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
+「宝宝字帖」是一款功能强大的字帖生成工具，专为满足不同用户的书写练习需求而设计：
 
-适用于Android的免费开源漫画阅读器，流畅丝滑：
-
-![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
-
-之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
+![copybook-generator](https://images-1252557999.file.myqcloud.com/uPic/copybook-generator.jpg) 
 
 ## 👀 资料 
 
-### [rust-course](https://github.com/sunface/rust-course)
+### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
 
-> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
+《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
 
-![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
+![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
 
-阅读地址见[course.rs](https://course.rs)。 
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-### [svg-tutorial](https://svg-tutorial.com/)
+《Mastering GO》中文译本，《玩转 GO》：
 
-学习如何使用 `SVG` 在 `HTML` 中编写图像代码：
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
-![svg-tutorial](https://images-1252557999.file.myqcloud.com/uPic/svg-tutorial.jpg) 
+### [note-architect](https://zq99299.github.io/note-architect/hc/)
 
-### [GoGuide](https://github.com/coderit666/GoGuide)
+高并发系统设计 40 问，一份架构师学习笔记：
 
-`Go Guide` 致力于打造最易懂的 `Go` 语言教程：
-
-![GoGuide](https://images-1252557999.file.myqcloud.com/uPic/GoGuide.png) 
+![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
 
 ## 🕸 网站 
 
-### [apitracker](https://apitracker.io/)
+### [designer.microsoft.com](https://designer.microsoft.com/)
 
-发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
+基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
 
-![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
+![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
 
-### [aiwallpaper](https://aiwallpaper.shop/)
+### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
 
-`AI` 生成高清壁纸，项目开源在：[all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper)。
+配置高性能、安全、稳定的NGINX服务器的最简单方法：
 
-开源代码包括：
+![nginx_web](https://images-1252557999.file.myqcloud.com/uPic/N7Yp8R.png) 
 
-- nextjs 全栈开发 API 和 Web 
-- dalle-3 绘图对接 
-- aws s3 图片上传 
-- postgres 数据读写 
-- 谷歌登录 
-- stripe
+### [jsonvisio](https://jsonvisio.com/editor)
 
-非常适合参考学习，用来做一些小而美的 `AI` 应用。 
+将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
 
-### [watermark](https://watermark.liumingye.cn/)
-
-短视频/图集在线去水印解析：
-
-![watermark](https://images-1252557999.file.myqcloud.com/uPic/watermark.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/jsonvisio.jpg) 
 
 ## ✍️ 说明
 
