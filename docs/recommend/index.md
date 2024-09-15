@@ -5,89 +5,90 @@
 
 ## 🎯 项目 
 
-### [free-api](https://github.com/fangzesheng/free-api)
+### [wewe-rss](https://github.com/cooderl/wewe-rss)
 
-作者创建此开源项目的目的如下：
+更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。
 
-> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
+之前老胡也研究过这种方式，是可行的，但操作频繁依旧会被**风控**，目前看 `Issue` 有人被关了小黑屋，所以大家使用的话还是需要注意。
 
-包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
+![wewe-rss](https://images-1252557999.file.myqcloud.com/uPic/wewe-rss.jpg)
 
-![free-api](https://images-1252557999.file.myqcloud.com/uPic/VvapMO.png) 
+注意：项目并非 **100%** 完全开源。 
 
-### [outline](https://github.com/outline/outline)
+### [termtyper](https://github.com/kraanzu/termtyper)
 
-使用 `React &Node.js` 构建的协作知识库，支持团队协作，样式美观，可自建：
+一个终端打字应用程序，以提高你的手指水平！
 
-![outline](https://images-1252557999.file.myqcloud.com/uPic/outline.jpg) 
+![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
 
-### [puter](https://github.com/HeyPuter/puter)
+### [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 
-`Puter` 是一个在浏览器中运行的开源桌面环境，可用于构建远程桌面、与云服务交互或作为其他云存储平台的替代品，旨在以轻量级的方式直接在浏览器中带来桌面体验。
+`ChatGPT` 中文调教指南，各种场景使用指南，学习怎么让它听你的话：
 
-![Puter](https://images-1252557999.file.myqcloud.com/uPic/Puter.webp) 
+![acpz](https://images-1252557999.file.myqcloud.com/uPic/acpz.jpg) 
 
 ## 🤖 软件 
 
-### [Sequel-Ace](https://sequel-ace.com/)
+### [chatbox](https://github.com/Bin-Huang/chatbox)
 
-原生的 `MySQL/MariaDB` 数据库管理软件：
+开源的 `ChatGPT API (OpenAI API)` 桌面客户端，`Prompt` 的调试与管理工具，支持 `Windows、Mac 和 Linux`：
 
-![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
+![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.png) 
 
-### [TTime](https://github.com/inkTimeRecord/TTime)
+### [xplorer](https://github.com/kimlimjustin/xplorer)
 
-🚀 一款简洁高效的跨平台输入、截图、划词翻译软件：
+支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
 
-![TTime](https://images-1252557999.file.myqcloud.com/uPic/TTime.jpg)
+- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
+- 现代化且易用
+- 多种格式文件预览，音频也可以
+- ...
 
-[Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#bob) 算是这类软件的鼻祖，之前我也推荐过 [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=pot#pot-desktop) ，大家酌情选择即可。 
+![xplorer](https://images-1252557999.file.myqcloud.com/uPic/iLpUeJ.jpg)
 
-### [copybook-generator](https://github.com/jaywcjlove/copybook-generator)
+在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
 
-「宝宝字帖」是一款功能强大的字帖生成工具，专为满足不同用户的书写练习需求而设计：
+### [HandBrake](https://github.com/HandBrake/HandBrake)
 
-![copybook-generator](https://images-1252557999.file.myqcloud.com/uPic/copybook-generator.jpg) 
+`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
+
+![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
 
 ## 👀 资料 
 
-### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
+### [fun-rec](https://github.com/datawhalechina/fun-rec/)
 
-《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
+本[教程](https://datawhalechina.github.io/fun-rec/#/)主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。
 
-![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
+![fun-rec](https://images-1252557999.file.myqcloud.com/uPic/fun-rec.jpg) 
 
-### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
+### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
-《Mastering GO》中文译本，《玩转 GO》：
+一个在YouTube上发现最新机器学习课程的项目。 
 
-![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
+### [programming-math-science](https://github.com/bobeff/programming-math-science) 
 
-### [note-architect](https://zq99299.github.io/note-architect/hc/)
-
-高并发系统设计 40 问，一份架构师学习笔记：
-
-![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
+国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
 ## 🕸 网站 
 
-### [designer.microsoft.com](https://designer.microsoft.com/)
+### [contrib.rocks](https://contrib.rocks/)
 
-基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
+为你的Github开源项目生成贡献者头像集合：
 
-![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
+![contrib](https://images-1252557999.file.myqcloud.com/uPic/contrib.jpg) 
 
-### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
+### [aspoem](https://aspoem.com/)
 
-配置高性能、安全、稳定的NGINX服务器的最简单方法：
+现代化中国诗词学习网站 - 更加注重 UI、阅读体验：
 
-![nginx_web](https://images-1252557999.file.myqcloud.com/uPic/N7Yp8R.png) 
+![aspoem](https://images-1252557999.file.myqcloud.com/uPic/aspoem.png) 
 
-### [jsonvisio](https://jsonvisio.com/editor)
+### [userscloud](https://userscloud.com/)
 
-将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
+免费使用的云空间分享网页：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/jsonvisio.jpg) 
+![userscloud](https://images-1252557999.file.myqcloud.com/uPic/userscloud.jpg) 
 
 ## ✍️ 说明
 
