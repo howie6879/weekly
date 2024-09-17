@@ -5,81 +5,92 @@
 
 ## 🎯 项目 
 
-### [cal.com](https://github.com/calcom/cal.com)
+### [Super_Mario](https://github.com/BadagalaAdarsh/Super_Mario)
 
-一个管理日程安排和预约的工具，可以说是 `Calendly` 的开源替代方案：
+这是一个很有意思的项目，相信大家都玩过马里奥，这个项目可以让你用身体控制马里奥进行游戏，可以锻炼身体哈哈：
 
-![cal_com](https://images-1252557999.file.myqcloud.com/uPic/cal_com.jpg) 
+![mario](https://images-1252557999.file.myqcloud.com/uPic/mario.gif) 
 
-### [rss-proxy](https://github.com/damoeb/rss-proxy)
+### [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)
 
-通过分析用户提供的静态页面自动创建RSS订阅源：
+`Neovim` 针对 `ChatGPT` 的插件：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/APrAbH.png) 
+![ChatGPT.nvim](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT.nvim.png) 
 
-### [markmap](https://github.com/gera2ld/markmap)
+### [greppo](https://github.com/greppo-io/greppo)
 
-可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
+快速轻松地构建部署地理空间应用程序：
 
-![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
+![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
 
 ## 🤖 软件 
 
-### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+### [MissionBackup](https://github.com/Hellager/MissionBackup)
 
-B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
+本地备份软件：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg) 
+- 基于 Tauri，兼顾了 web 前端和 rust 后端
+- 5MB 的安装包，15MB 的程序，多平台可用
+- 基于 cron 和 notify 实现对目标定时/监控备份
+- 可自定义备份保存时长和空间
+- 通过图表直观展示备份情况
+- 完善的文档支持
 
-### [哔哩](https://github.com/Richasy/Bili.Uwp)
+![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
 
-一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
+### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
 
-![bili](https://images-1252557999.file.myqcloud.com/uPic/lnDWzU.jpg) 
+`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
 
-### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
+![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
 
-一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
+### [marktext](https://github.com/marktext/marktext)
 
-![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+
+![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
 
 ## 👀 资料 
 
-### [eloquentjavascript](https://eloquentjavascript.net/)
+### [大模型交叉研讨课](https://www.openbmb.org/community/course)
 
-作者是 `Marijn Haverbeke`，世界级 `JavaScript` 程序员，本书免费开源，中英文评分都很高，学起来吧：
+OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：
 
-![eloquentjavascript](https://images-1252557999.file.myqcloud.com/uPic/eloquentjavascript.jpg) 
+![openbmb_course](https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg) 
 
-### [MySQL&PG 数据库教程](https://www.sjkjc.com/mysql/)
+### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
 
-一个专门讲数据库教程的资料网站：
+一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
 
-![sjkjc](https://images-1252557999.file.myqcloud.com/uPic/sjkjc.jpg) 
+![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
 
-### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
+### [unplugged](https://github.com/liuxinyu95/unplugged)
 
-对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
+刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
+
+![unplugged](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-10-23_21-49-37.jpg)
+
+如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
 
 ## 🕸 网站 
 
-### [aitdk](https://aitdk.com/zh-CN/)
+### [theonestopradio](https://theonestopradio.com/)
 
-AI标题、描述和关键词生成器，为您的网站生成SEO友好的标题、描述和关键词：
+发现你可能喜欢的电台：
 
-![aitdk](https://images-1252557999.file.myqcloud.com/uPic/aitdk.jpg) 
+![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
 
-### [musicforprogramming](https://musicforprogramming.net/latest/)
+### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
 
-非常极客的背景音乐网站：
+一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
 
-![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
+![shanshui-inf](https://images-1252557999.file.myqcloud.com/uPic/shanshui-inf.jpg) 
 
-### [upstract](https://upstract.com/)
+### [v0.dev](https://v0.dev/)
 
-比较全面的新闻聚合平台：
+描述生成 UI，一个 AI 大模型驱动的 UI 设计网站，很不错：
 
-![upstract](https://images-1252557999.file.myqcloud.com/uPic/upstract.jpg) 
+![v0_dev](https://images-1252557999.file.myqcloud.com/uPic/v0_dev.jpg) 
 
 ## ✍️ 说明
 
