@@ -5,96 +5,89 @@
 
 ## 🎯 项目 
 
-### [toolbox](https://github.com/aoaostar/toolbox)
+### [typora-community-plugin](https://github.com/typora-community-plugin/typora-community-plugin)
 
-🚀傲星工具箱，一个在线工具箱：
+一款增强 `Typora` 编辑体验的社区插件系统，目前是跨平台支持，体验到最后还是觉得 `Typora` 编辑体验最好，这个插件的插件体系不错:
 
-![toolbox](https://images-1252557999.file.myqcloud.com/uPic/toolbox.png) 
+![typora-plugin](https://images-1252557999.file.myqcloud.com/uPic/typora-plugin.jpg)
 
-### [stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
+然后推荐一款主题插件 [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)。 
 
-基于 `Docker` 的一站式 `Stable Diffusion`（最近很火的 AI 文字生成图片的模型）安装包，可提供以下多个 `UI` 可选：
+### [DataEase](https://github.com/dataease/dataease)
 
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
-- [sygil-webui](https://github.com/Sygil-Dev/sygil-webui)
+DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
 
-![sd_ui_docker](https://images-1252557999.file.myqcloud.com/uPic/sd_ui_docker.jpg) 
+### [certd](https://github.com/certd/certd)
 
-### [jina](https://github.com/jina-ai/jina)
+`CertD` 是一个免费全自动申请和部署 `SSL` 证书的工具，免费通配符域名 `SSL` 证书全自动申请、续期、部署，支持部署到阿里云、腾讯云、`ssh` 主机：
 
-![jina](https://images-1252557999.file.myqcloud.com/uPic/9MHbAU.png)
-
-云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
-
-相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
+![certd](https://images-1252557999.file.myqcloud.com/uPic/certd.png) 
 
 ## 🤖 软件 
 
-### [yarr](https://github.com/nkanaev/yarr)
+### [ntchat](https://github.com/smallevilbeast/ntchat)
 
-基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
+微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
 
-```shell
-mkdir -p ./yarr/data
-docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
-```
+- 基于pc微信的api接口, 类似itchat项目
+- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
+- 支持好友和群管理 
 
-总体来说还是挺简洁轻量的：
+### [LawRefBook](https://github.com/RanKKI/LawRefBook)
 
-![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
+开源的法律知识速查手册：
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+![LawRefBook](https://images-1252557999.file.myqcloud.com/uPic/LawRefBook.png) 
 
-LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
+### [Imagine](https://github.com/meowtec/Imagine)
 
-![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
+全平台支持的图片压缩软件：
 
-### [uncle-novel](https://github.com/unclezs/uncle-novel)
+![Imagine](https://images-1252557999.file.myqcloud.com/uPic/KrSb9L.png)
 
-一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
-
-![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
+看看这86%的压缩率还是挺上头的，而且效果很好。 
 
 ## 👀 资料 
 
-### [visualize-ml](https://github.com/visualize-ml)
+### [free-educa](https://github.com/free-educa/books)
 
-鸢尾花书：从加减乘除到机器学习，全套7册。
+`free-educa/books` 是一个开源书籍分享项目，提供了一个精选的编程和开发相关书籍收藏，涵盖了多种编程语言、网页开发、移动应用开发、软件工程、数据科学、DevOps、软件架构和网络安全等主题，鼓励社区成员贡献和共享资源。
 
-![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
+老胡将所有电子书打包好了 👉 https://pan.quark.cn/s/a3cf52f67ec0
 
-### [Getting Real](https://basecamp.com/gettingreal)
+![free-educa](https://images-1252557999.file.myqcloud.com/uPic/free-educa.jpg) 
 
-`Basecamp` 的在线电子书，关于通过更智能、更快、更简单的方式，构建  `web` 应用程序的教程：
+### [Web Development History](https://webdevelopmenthistory.com/index/)
 
-![gettingreal](https://images-1252557999.file.myqcloud.com/uPic/gettingreal.jpg) 
+`Web` 开发发展史文章系列：
 
-### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
+![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
 
-[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
+### [learnmoderncpp](https://learnmoderncpp.com/)
 
-![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
+现代 C++学习教程：
+
+![learnmoderncpp](https://images-1252557999.file.myqcloud.com/uPic/learnmoderncpp.jpg) 
 
 ## 🕸 网站 
 
-### [codrops](https://tympanus.net/codrops/demos/)
+### [zerogpt](https://www.zerogpt.com/)
 
-可免费下载使用的原型动画 UI 布局（ 500+ free demos）：
+由 `ZeroGPT` 开发的 `GPT-4，ChatGPT` AI 内容检测器：
 
-![6690d09244aa9](https://img.fre123.com/i/2024/07/12/6690d09244aa9.jpg) 
+![zerogpt](https://images-1252557999.file.myqcloud.com/uPic/zerogpt.jpg) 
 
-### [书葵網](https://www.shukui.net/)
+### [futurecoder](https://futurecoder.io/course/#ide)
 
-读者可以在此查询本馆的图书、期刊、古籍等信息。检索条件会自动匹配书名、作者、出版社、ISBN搜索，返回最优匹配结果：
+一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
 
-![shukui](https://images-1252557999.file.myqcloud.com/uPic/shukui.jpg) 
+![futurecoder](https://images-1252557999.file.myqcloud.com/uPic/futurecoder.jpg) 
 
-### [readme.so](https://readme.so/)
+### [batnoter](https://batnoter.com/)
 
-一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-![readme_so](https://images-1252557999.file.myqcloud.com/uPic/readme_so.jpg) 
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
 ## ✍️ 说明
 
