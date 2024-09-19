@@ -12,7 +12,56 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 08 Sep 2024 09:22:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 23:45:21 +0000</lastBuildDate>
+    <item>
+      <title>09-09~09-16.老胡的周刊（第159期）.md</title>
+      <link>https://weekly.howie6879.com/2024/09-09~09-16.老胡的周刊（第159期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/09-09~09-16.老胡的周刊（第159期）.html"&gt;09-09~09-16.老胡的周刊（第159期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/eryajf/cloud_dns_exporter"&gt;cloud_dns_exporter&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;周刊群友&lt;strong&gt;二丫讲梵&lt;/strong&gt;的开源项目，自动获取 DNS 提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为 Prometheus Metrics。已支持：Tencent，Aliyun，Godaddy，Aws：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="G6dYsS" src="https://images-1252557999.file.myqcloud.com/uPic/G6dYsS.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/linyqh/NarratoAI"&gt;NarratoAI&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;利用AI大模型，一键解说并剪辑视频；&lt;/p&gt;
+&lt;p&gt;&lt;img alt="GehnG3" src="https://images-1252557999.file.myqcloud.com/uPic/GehnG3.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/will-moss/isaiah"&gt;isaiah&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Isaiah&lt;/code&gt; 是一个开源的 Web 应用程序，它允许用户通过浏览器管理和监控 &lt;code&gt;Docker&lt;/code&gt; 环境。它提供了与 &lt;code&gt;lazydocker&lt;/code&gt; 类似的功能：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="H2icEX" src="https://images-1252557999.file.myqcloud.com/uPic/H2icEX.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/alienator88/Pearcleaner"&gt;Pearcleaner&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个专为 &lt;code&gt;Mac&lt;/code&gt; 设计的应用卸载工具：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="baJDOT" src="https://images-1252557999.file.myqcloud.com/uPic/baJDOT.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/rememberber/MooTool"&gt;MooTool&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开发者常备小工具：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ceVEdx" src="https://images-1252557999.file.myqcloud.com/uPic/ceVEdx.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Nain57/Smart-AutoClicker"&gt;Smart-AutoClicker&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Smart-AutoClicker&lt;/code&gt; 是一个开源的自动点击软件，专为 &lt;code&gt;Android&lt;/code&gt; 设备设计，能够基于图像检测来自动化重复性任务，同时提供了传统的自动点击功能：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="44OJR2" src="https://images-1252557999.file.myqcloud.com/uPic/44OJR2.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/princehuang/overseas-website-note"&gt;overseas-website-note&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本项目记录作者开发海外网站和设立跨境业务过程中的实践经验。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/svcvit/Awesome-Dify-Workflow"&gt;Awesome-Dify-Workflow&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一些好用的 Dify 工作流集合，括了中英文翻译、知识库聊天、搜索大师、爆款标题、文章仿写、运营一条龙、聊天机器人、代码生成等工作流。&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://visalist.io"&gt;visalist&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;网站交互样式都还不错，主要提供旅游签证、过境签证、数字游民签证等信息：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ybt76d" src="https://images-1252557999.file.myqcloud.com/uPic/ybt76d.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">09-09~09-16.老胡的周刊（第159期）.md</guid>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>09-02~09-07.老胡的周刊（第158期）.md</title>
       <link>https://weekly.howie6879.com/2024/09-02~09-07.老胡的周刊（第158期）.html</link>
@@ -1247,83 +1296,6 @@ curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/rel
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">04-29~05-05.老胡的周刊（第140期）.md</guid>
       <pubDate>Sun, 05 May 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>04-22~04-28.老胡的周刊（第139期）.md</title>
-      <link>https://weekly.howie6879.com/2024/04-22~04-28.老胡的周刊（第139期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/04-22~04-28.老胡的周刊（第139期）.html"&gt;04-22~04-28.老胡的周刊（第139期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/lrhh123/ChatGPT-On-CS"&gt;ChatGPT-On-CS&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ChatGPT-On-CS" src="https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-On-CS.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/lxfater/inpaint-web"&gt;inpaint-web&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;基于 &lt;code&gt;WebGPU&lt;/code&gt; 技术和 &lt;code&gt;wasm&lt;/code&gt; 技术的免费开源图片修复&amp;amp;图片高清化工具, 纯浏览器端实现：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="inpaint-web" src="https://images-1252557999.file.myqcloud.com/uPic/inpaint-web.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/amuluze/amprobe"&gt;amprobe&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Amprobe&lt;/code&gt; 是一款轻量级主机及 &lt;code&gt;Docker&lt;/code&gt; 容器监控工具，它可以轻松的帮助我们完成以下几方面的工作：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;监控主机的 CPU、内存、磁盘 IO、网络 IO情况&lt;/li&gt;
-&lt;li&gt;监控部署于主机上 Docker 容器的运行状态、CPU、内存使用情况&lt;/li&gt;
-&lt;li&gt;实时查看 Docker 容器的日志，并支持日志下载&lt;/li&gt;
-&lt;li&gt;针对管理员用户提供简单的 Docker 容器、镜像运维操作&lt;/li&gt;
-&lt;li&gt;操作日志记录&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;暂时还不支持多机器关联，期待作者更新：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="amprobe" src="https://images-1252557999.file.myqcloud.com/uPic/amprobe.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/lihaoyun6/QuickRecorder"&gt;QuickRecorder&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;基于 &lt;code&gt;ScreenCapture Kit&lt;/code&gt; 的轻量化多功能 &lt;code&gt;macOS&lt;/code&gt; 录屏工具：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="QuickRecorder" src="https://images-1252557999.file.myqcloud.com/uPic/QuickRecorder.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Anxcye/anx-reader"&gt;anx-reader&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;安读是一款专注于阅读的应用，不包含任何在线推广内容，它可以帮助你更专注于阅读，提高阅读效率：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;自动记录阅读进度，每次打开可以回到上次的进度。&lt;/li&gt;
-&lt;li&gt;丰富且可自定义的阅读配色，让您的阅读更舒适。&lt;/li&gt;
-&lt;li&gt;丰富的阅读设置，包括字号、行间距、字间距等，让阅读更轻松。&lt;/li&gt;
-&lt;li&gt;随时在书中划线，多种样式和配色，随时回顾。&lt;/li&gt;
-&lt;li&gt;强大的阅读统计，记录您的每一次阅读。&lt;/li&gt;
-&lt;li&gt;丰富的阅读笔记功能，让您的阅读更深入。&lt;/li&gt;
-&lt;li&gt;安读可自定义多种色彩主题，满足您的不同需求。&lt;/li&gt;
-&lt;li&gt;想在夜晚更舒适的阅读？安读可以适配系统 深/浅 色模式，或手动切换。&lt;/li&gt;
-&lt;li&gt;安读现已支持多语言（中、英），自动适配系统语言，亦可手动选择。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="anx-reader" src="https://images-1252557999.file.myqcloud.com/uPic/anx-reader.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/DamascenoRafael/reminders-menubar"&gt;reminders-menubar&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;简单的 macOS 菜单栏应用程序，可以方便地和 &lt;code&gt;Reminders&lt;/code&gt; 进行交互，使用 &lt;code&gt;SwiftUI&lt;/code&gt; 开发，并使用 &lt;code&gt;Apple&lt;/code&gt; 提醒事项作为数据源：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="reminders-menubar" src="https://images-1252557999.file.myqcloud.com/uPic/reminders-menubar.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc"&gt;llama3 全套学习资料&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;这个文档是 &lt;code&gt;llama&lt;/code&gt; 中文社区官方发布的关于 &lt;code&gt;llama3&lt;/code&gt; 的最新学习资料：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="llama3" src="https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://llmbook-zh.github.io/"&gt;LLMBook-zh&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的&lt;a href="https://pan.quark.cn/s/51a168b3d789"&gt;网盘地址&lt;/a&gt;下载即可：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="llmbook" src="https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://namebeta.com/"&gt;namebeta&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;输入你想要的域名，各方比价：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="namebeta_web" src="https://images-1252557999.file.myqcloud.com/uPic/namebeta_web.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://duckduckgo.com/?q=DuckDuckGo&amp;amp;ia=chat"&gt;duckduckgo-chat&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;DuckDuckGo&lt;/code&gt; 开放了免费的 &lt;code&gt;AI&lt;/code&gt; 聊天机器人，支持模型有：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;GPT-3.5 Turbo&lt;/li&gt;
-&lt;li&gt;Claude 1.2 Instant&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="duckduckgo_chat" src="https://images-1252557999.file.myqcloud.com/uPic/duckduckgo_chat.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">04-22~04-28.老胡的周刊（第139期）.md</guid>
-      <pubDate>Sun, 28 Apr 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
