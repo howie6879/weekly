@@ -5,89 +5,105 @@
 
 ## 🎯 项目 
 
-### [typora-community-plugin](https://github.com/typora-community-plugin/typora-community-plugin)
+### [safeline](https://github.com/chaitin/safeline)
 
-一款增强 `Typora` 编辑体验的社区插件系统，目前是跨平台支持，体验到最后还是觉得 `Typora` 编辑体验最好，这个插件的插件体系不错:
+一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
 
-![typora-plugin](https://images-1252557999.file.myqcloud.com/uPic/typora-plugin.jpg)
+- 便捷性：采用容器化部署，一条命令即可完成安装，0 成本上手。安全配置开箱即用，无需人工维护，可实现安全躺平式管理。
+- 安全性：首创业内领先的智能语义分析算法，精准检测、低误报、难绕过。语义分析算法无规则，面对未知特征的 0day 攻击不再手足无措。
+- 高性能：无规则引擎，线性安全检测算法，平均请求检测延迟在 1 毫秒级别。并发能力强，单核轻松检测 2000+ TPS，只要硬件足够强，可支撑的流量规模无上限。
+- 高可用：流量处理引擎基于 Nginx 开发，性能与稳定性均可得到保障。内置完善的健康检查机制，服务可用性高达 99.99%。
 
-然后推荐一款主题插件 [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)。 
+![safeline](https://images-1252557999.file.myqcloud.com/uPic/safeline.png) 
 
-### [DataEase](https://github.com/dataease/dataease)
+### [wallabag](https://github.com/wallabag/wallabag)
 
-DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
+一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
 
-### [certd](https://github.com/certd/certd)
+- 浏览器插件收集网页信息
+- 安卓/IOS/网页端阅读以及管理
 
-`CertD` 是一个免费全自动申请和部署 `SSL` 证书的工具，免费通配符域名 `SSL` 证书全自动申请、续期、部署，支持部署到阿里云、腾讯云、`ssh` 主机：
+![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
 
-![certd](https://images-1252557999.file.myqcloud.com/uPic/certd.png) 
+### [py12306](https://github.com/pjialin/py12306)
+
+🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理：
+
+![py12306](https://images-1252557999.file.myqcloud.com/uPic/py12306.jpg)
+
+如果实在抢不到，试下这个项目通过补票或者多买一站来解决：[12306spy](https://github.com/elroy93/12306spy)，这类项目每到假期就会火一把。 
 
 ## 🤖 软件 
 
-### [ntchat](https://github.com/smallevilbeast/ntchat)
+### [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)
 
-微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
+基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
 
-- 基于pc微信的api接口, 类似itchat项目
-- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
-- 支持好友和群管理 
+![bob-plugin-openai-translator](https://images-1252557999.file.myqcloud.com/uPic/bob-plugin-openai-translator.jpg) 
 
-### [LawRefBook](https://github.com/RanKKI/LawRefBook)
+### [Sequel-Ace](https://sequel-ace.com/)
 
-开源的法律知识速查手册：
+原生的 `MySQL/MariaDB` 数据库管理软件：
 
-![LawRefBook](https://images-1252557999.file.myqcloud.com/uPic/LawRefBook.png) 
+![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
 
-### [Imagine](https://github.com/meowtec/Imagine)
+### [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop)
 
-全平台支持的图片压缩软件：
+`AirPods` 桌面用户体验增强程序(仅支持 Windows)：
 
-![Imagine](https://images-1252557999.file.myqcloud.com/uPic/KrSb9L.png)
+- 🔋 电池信息显示
+- 👂 自动人耳检测
+- 🚀 低音频延迟模式
+- 🌈 精美的动画
 
-看看这86%的压缩率还是挺上头的，而且效果很好。 
+![AirPodsDesktop](https://images-1252557999.file.myqcloud.com/uPic/AirPodsDesktop.gif) 
 
 ## 👀 资料 
 
-### [free-educa](https://github.com/free-educa/books)
+### RustBook
 
-`free-educa/books` 是一个开源书籍分享项目，提供了一个精选的编程和开发相关书籍收藏，涵盖了多种编程语言、网页开发、移动应用开发、软件工程、数据科学、DevOps、软件架构和网络安全等主题，鼓励社区成员贡献和共享资源。
+一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
 
-老胡将所有电子书打包好了 👉 https://pan.quark.cn/s/a3cf52f67ec0
+![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg) 
 
-![free-educa](https://images-1252557999.file.myqcloud.com/uPic/free-educa.jpg) 
+### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
 
-### [Web Development History](https://webdevelopmenthistory.com/index/)
+吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
 
-`Web` 开发发展史文章系列：
+![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
 
-![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
+### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
 
-### [learnmoderncpp](https://learnmoderncpp.com/)
-
-现代 C++学习教程：
-
-![learnmoderncpp](https://images-1252557999.file.myqcloud.com/uPic/learnmoderncpp.jpg) 
+Go语言实战: 编写可维护Go语言代码建议。 
 
 ## 🕸 网站 
 
-### [zerogpt](https://www.zerogpt.com/)
+### [小鱼速读](http://www.xysudu.com/)
 
-由 `ZeroGPT` 开发的 `GPT-4，ChatGPT` AI 内容检测器：
+该网站收藏了B站上各位大佬发布的经典速读视频：
 
-![zerogpt](https://images-1252557999.file.myqcloud.com/uPic/zerogpt.jpg) 
+- 书籍：大类包括豆瓣总榜、科幻小说、推理悬疑、科学普及、历史经典、政治经济……11大类，一共667本经典书籍
+- 影视：大类包括内地剧、美剧、动漫、港剧、日剧、韩剧
 
-### [futurecoder](https://futurecoder.io/course/#ide)
+![xysudu](https://images-1252557999.file.myqcloud.com/uPic/xysudu.jpg) 
 
-一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
+### [123apps](https://123apps.com/cn/)
 
-![futurecoder](https://images-1252557999.file.myqcloud.com/uPic/futurecoder.jpg) 
+网站提供了一系列的小工具，包含分类：
 
-### [batnoter](https://batnoter.com/)
+- 视频工具
+- 音频工具
+- PDF 工具
+- 转换器
+- ......
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+![123apps](https://images-1252557999.file.myqcloud.com/uPic/123apps.jpg) 
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+### [studyhard](https://studyhard.cf/)
+
+📚各大高校课程资源汇总，在 `Github` 上大学：
+
+![studyhard](https://images-1252557999.file.myqcloud.com/uPic/studyhard.jpg) 
 
 ## ✍️ 说明
 
