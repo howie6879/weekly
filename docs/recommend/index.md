@@ -5,105 +5,85 @@
 
 ## 🎯 项目 
 
-### [safeline](https://github.com/chaitin/safeline)
+### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
 
-一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
+`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
 
-- 便捷性：采用容器化部署，一条命令即可完成安装，0 成本上手。安全配置开箱即用，无需人工维护，可实现安全躺平式管理。
-- 安全性：首创业内领先的智能语义分析算法，精准检测、低误报、难绕过。语义分析算法无规则，面对未知特征的 0day 攻击不再手足无措。
-- 高性能：无规则引擎，线性安全检测算法，平均请求检测延迟在 1 毫秒级别。并发能力强，单核轻松检测 2000+ TPS，只要硬件足够强，可支撑的流量规模无上限。
-- 高可用：流量处理引擎基于 Nginx 开发，性能与稳定性均可得到保障。内置完善的健康检查机制，服务可用性高达 99.99%。
+![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
 
-![safeline](https://images-1252557999.file.myqcloud.com/uPic/safeline.png) 
+### [ChatGPT-On-CS](https://github.com/lrhh123/ChatGPT-On-CS)
 
-### [wallabag](https://github.com/wallabag/wallabag)
+基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用：
 
-一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
+![ChatGPT-On-CS](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-On-CS.jpg) 
 
-- 浏览器插件收集网页信息
-- 安卓/IOS/网页端阅读以及管理
+### [open-webui](https://github.com/open-webui/open-webui)
 
-![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
+将 `LLMs` 操作搬到了 `Web`，用户操作界面相当友好，值得体验，API兼容包括Ollama和OpenAI的API。
 
-### [py12306](https://github.com/pjialin/py12306)
-
-🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理：
-
-![py12306](https://images-1252557999.file.myqcloud.com/uPic/py12306.jpg)
-
-如果实在抢不到，试下这个项目通过补票或者多买一站来解决：[12306spy](https://github.com/elroy93/12306spy)，这类项目每到假期就会火一把。 
+![openwebui](https://images-1252557999.file.myqcloud.com/uPic/openwebui.jpg) 
 
 ## 🤖 软件 
 
-### [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)
+### [Alock](https://github.com/luoxuhai/Alock)
 
-基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
+Alock 是一款免费用于隐藏指定 App 的应用。使用 Alock 可以彻底地从 iPhone/iPad 上隐藏指定的 App，隐藏后的 App 在主屏幕、App资料库、搜索、系统设置中均不可见。最大程度保护您的隐私：
 
-![bob-plugin-openai-translator](https://images-1252557999.file.myqcloud.com/uPic/bob-plugin-openai-translator.jpg) 
+![Alock](https://images-1252557999.file.myqcloud.com/uPic/Alock.jpg) 
 
-### [Sequel-Ace](https://sequel-ace.com/)
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-原生的 `MySQL/MariaDB` 数据库管理软件：
+LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
 
-![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
+![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
 
-### [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop)
+### [Itsycal](https://www.mowglii.com/itsycal/)
 
-`AirPods` 桌面用户体验增强程序(仅支持 Windows)：
+一款简单优雅的 Macos 菜单栏日历：
 
-- 🔋 电池信息显示
-- 👂 自动人耳检测
-- 🚀 低音频延迟模式
-- 🌈 精美的动画
-
-![AirPodsDesktop](https://images-1252557999.file.myqcloud.com/uPic/AirPodsDesktop.gif) 
+![itsycal](https://images-1252557999.file.myqcloud.com/uPic/itsycal.png) 
 
 ## 👀 资料 
 
-### RustBook
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg) 
+![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
 
-### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
+### [云安全攻防入门](https://lzcloudsecurity.gitbook.io/yun-an-quan-gong-fang-ru-men/)
 
-吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
+关于云安全攻防的基础知识：
 
-![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
+![yun-an-quan-gong-fang-ru-men](https://images-1252557999.file.myqcloud.com/uPic/yun-an-quan-gong-fang-ru-men.jpg) 
 
-### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
+### [tmplink/ipv6](https://github.com/tmplink/ipv6)
 
-Go语言实战: 编写可维护Go语言代码建议。 
+本文档主要讲解 IPv6 的一些皮毛知识，主要是让读者理解 IPv6 地址的一些概念，诸如前缀，子网，接口。 
 
 ## 🕸 网站 
 
-### [小鱼速读](http://www.xysudu.com/)
+### [myfirstnft](https://myfirstnft.info/)
 
-该网站收藏了B站上各位大佬发布的经典速读视频：
+我的第一个NFT，在这个网站，你可以：
 
-- 书籍：大类包括豆瓣总榜、科幻小说、推理悬疑、科学普及、历史经典、政治经济……11大类，一共667本经典书籍
-- 影视：大类包括内地剧、美剧、动漫、港剧、日剧、韩剧
+- 理解NFT的价值
+- 铸造一个免费的NFT
+- 了解Web3.0
 
-![xysudu](https://images-1252557999.file.myqcloud.com/uPic/xysudu.jpg) 
+![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
 
-### [123apps](https://123apps.com/cn/)
+### [dbbqb](https://www.dbbqb.com/)
 
-网站提供了一系列的小工具，包含分类：
+专业的表情包搜索网站：
 
-- 视频工具
-- 音频工具
-- PDF 工具
-- 转换器
-- ......
+![dbbqb](https://images-1252557999.file.myqcloud.com/uPic/dbbqb.jpg) 
 
-![123apps](https://images-1252557999.file.myqcloud.com/uPic/123apps.jpg) 
+### [archive.today](https://archive.today/)
 
-### [studyhard](https://studyhard.cf/)
+提供任何网站存档查询的网站：
 
-📚各大高校课程资源汇总，在 `Github` 上大学：
-
-![studyhard](https://images-1252557999.file.myqcloud.com/uPic/studyhard.jpg) 
+![archive](https://images-1252557999.file.myqcloud.com/uPic/archive.jpg) 
 
 ## ✍️ 说明
 
