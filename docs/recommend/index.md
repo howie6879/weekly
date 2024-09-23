@@ -5,61 +5,53 @@
 
 ## 🎯 项目 
 
-### [EdgeGPT](https://github.com/acheong08/EdgeGPT)
+### [MDGJX](https://github.com/work7z/MDGJX)
 
-微软 `Bing Chat` 的逆向工程 `API`：
+秒达工具箱，借助独创高效的输入方式，让您可以快速呼出各类工具、文档及笔记等资源，免费安全无广告：
 
-![EdgeGPT](https://images-1252557999.file.myqcloud.com/uPic/EdgeGPT.jpg) 
+![MDGJX](https://images-1252557999.file.myqcloud.com/uPic/MDGJX.png) 
 
-### [nas-tools](https://github.com/jxxghp/nas-tools)
+### [typikon](https://github.com/auula/typikon)
 
-NAS媒体库资源归集、整理自动化工具：
+Typikon 是一个将 Markdown 转换为在线书籍的工具，类似于 mdbook 和 gitbook，但更易于使用，颜值也很不错：
 
-![nas_tool](https://images-1252557999.file.myqcloud.com/uPic/nas_tool.jpg) 
+![typikon](https://images-1252557999.file.myqcloud.com/uPic/typikon.jpg) 
 
-### [GFPGAN](https://github.com/TencentARC/GFPGAN)
+### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
 
-腾讯开源的老照片修复项目：
+最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
 
-![GFPGAN](https://images-1252557999.file.myqcloud.com/uPic/UOiwSK.jpg) 
+- 提取文本
+- 提取图片
+- 提取表格
+- 提取链接
+- 对PDF进行相关编辑操作 
 
 ## 🤖 软件 
 
-### [onepoint](https://github.com/onepointAI/onepoint)
+### [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
 
-Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
+旨在为不受苹果支持的 `Mac` 提供 `macOS Big Sur` 等更新版本的安装和使用，让你的旧 Mac 电脑可以体验最新的 macOS 系统：
 
-借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
+![OpenCore-Legacy-Patcher](https://images-1252557999.file.myqcloud.com/uPic/OpenCore-Legacy-Patcher.jpg) 
 
-![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
+### [polyglot](https://github.com/liou666/polyglot)
 
-### [Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT)
+Polyglot是一款多平台的桌面端应用程序。基于ChatGPT和Azure人工智能语言模型作为底层服务，使用Vue3+TS技术栈构建，旨在提供一个易于使用的语言练习平台，方便进行多语种的口语练习：
 
-一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频:
+![polyglot](https://images-1252557999.file.myqcloud.com/uPic/polyglot.png) 
 
-![Chenyme-AAVT](https://images-1252557999.file.myqcloud.com/uPic/Chenyme-AAVT.jpg) 
+### [pot-desktop](https://github.com/pot-app/pot-desktop)
 
-### [LibreraReader](https://github.com/foobnix/LibreraReader)
+🌈 一个跨平台的划词翻译软件，对标 Bob：
 
-安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
-
-![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
+![pot-desktop](https://images-1252557999.file.myqcloud.com/uPic/pot-desktop.jpg) 
 
 ## 👀 资料 
 
-### [note-hack](https://github.com/xdite/note-hack)
+### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
-《打造超人笔记》是一本关于如何有效记录和整理笔记的书籍。
-
-作者认为，笔记是一个看起来复杂但实际上比学习和阅读更简单的问题。通过拆解笔记的流程，作者发现主要问题的结构变得非常简单。此外，随着科技的发展，许多快速记录工具和笔记整理软件已经被发明出来，使笔记搜寻变得更加容易。
-
-在本书中，作者探讨了如何通过做笔记和整理笔记来挖掘和整理自己对一个领域的各种答案。通过阅读本书，读者可以学习到如何使用各种工具和方法来提高自己的笔记能力，成为一个笔记超人。 
-
-### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
-
-有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
-
-![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
+本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
 
 ### [unplugged](https://github.com/liuxinyu95/unplugged)
 
@@ -69,25 +61,31 @@ Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌
 
 如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
 
+### [Getting Real](https://basecamp.com/gettingreal)
+
+`Basecamp` 的在线电子书，关于通过更智能、更快、更简单的方式，构建  `web` 应用程序的教程：
+
+![gettingreal](https://images-1252557999.file.myqcloud.com/uPic/gettingreal.jpg) 
+
 ## 🕸 网站 
 
-### [LLM Visualization](https://bbycroft.net/llm)
+### [photo2poem](https://photo2poem.top/)
 
-将 GPT LLM 大模型进行可视化分析：
+每一张照片，都对应一首诗，很有意思：
 
-![bbycroft](https://images-1252557999.file.myqcloud.com/uPic/bbycroft.jpg) 
+![photo2poem](https://images-1252557999.file.myqcloud.com/uPic/photo2poem.jpg) 
 
-### [staticrypt](https://github.com/robinmoisson/staticrypt)
+### [SearchEmoji](https://searchemoji.app/)
 
-一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
+`Emoji` 表情搜索网站，点击即可复制，颜值也不错海开源：
 
-![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
+![searchemoji](https://images-1252557999.file.myqcloud.com/uPic/searchemoji.jpeg) 
 
-### [zhongguose](http://zhongguose.com/)
+### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
 
-一个中国传统颜色的配色网站：
+软件镜像站：
 
-![zhongguose](https://images-1252557999.file.myqcloud.com/uPic/zhongguose.jpg) 
+![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
 
 ## ✍️ 说明
 
