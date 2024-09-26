@@ -5,98 +5,100 @@
 
 ## 🎯 项目 
 
-### [tduck-front](https://github.com/TDuckCloud/tduck-front)
+### [WeChatMsg](https://github.com/LC044/WeChatMsg)
 
-`Tduck` 填鸭表单是一款自定义表单工具，支持问卷调查、数据收集等功能。采用无代码理念支持开发自定义组件，简单拖拽即可生成表单，完成数据收集。采用 `SpringBoot+Vue+ElementUI` 技术栈，功能强大界面清新，支持一键部署：
+提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告：
 
-![tduck-front](https://images-1252557999.file.myqcloud.com/uPic/tduck-front.png)
+![WeChatMsg](https://images-1252557999.file.myqcloud.com/uPic/WeChatMsg.png) 
 
-滴滴也开源了一套轻量、安全的问卷系统基座，提供面向个人和企业的一站式产品级解决方案，快速满足各类线上调研场景👉[xiaoju-survey](https://github.com/didi/xiaoju-survey)。 
+### [coolify](https://github.com/coollabsio/coolify)
 
-### [metersphere](https://github.com/metersphere/metersphere)
+> `Vercel Netlify Heroku` 开源替代品
 
-[MeterSphere](https://metersphere.io/) 是一站式开源持续测试平台, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter、Selenium` 等主流开源标准，有效助力开发和测试团队充分利用云弹性进行高度可扩展的自动化测试，加速高质量的软件交付：
+![coolify](https://images-1252557999.file.myqcloud.com/uPic/coolify.jpeg)
 
-![metersphere](https://images-1252557999.file.myqcloud.com/uPic/metersphere.jpeg) 
+还可以使用这个项目：[dokploy](https://github.com/dokploy/dokploy)
 
-### [BookStack](https://github.com/BookStackApp/BookStack)
+![dokploy](https://images-1252557999.file.myqcloud.com/uPic/dokploy.png) 
 
-一个开源的`documentation/wik`文档管理平台，其核心特性如下：
+### [statping](https://github.com/statping/statping)
 
-- 免费开源可自建
-- 简单易用的交互界面
-- 全文检索以及文档互联
-- 可配置
-- 强大的编辑功能，MD支持
-- 等
+一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
 
-![BookStack](https://images-1252557999.file.myqcloud.com/uPic/vdoSqZ.jpg)
-
-有兴趣的话，可以利用[docker-bookstack](https://github.com/solidnerd/docker-bookstack)项目进行快速试用。 
+![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
 
 ## 🤖 软件 
 
-### [pot-desktop](https://github.com/pot-app/pot-desktop)
+### [MissionBackup](https://github.com/Hellager/MissionBackup)
 
-🌈 一个跨平台的划词翻译软件，对标 Bob：
+本地备份软件：
 
-![pot-desktop](https://images-1252557999.file.myqcloud.com/uPic/pot-desktop.jpg) 
+- 基于 Tauri，兼顾了 web 前端和 rust 后端
+- 5MB 的安装包，15MB 的程序，多平台可用
+- 基于 cron 和 notify 实现对目标定时/监控备份
+- 可自定义备份保存时长和空间
+- 通过图表直观展示备份情况
+- 完善的文档支持
 
-### [cursor](https://github.com/getcursor/cursor)
+![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
 
-一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
+LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
 
-### [spacedrive](https://www.spacedrive.com/)
+![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
 
-`Spacedrive` 是一个基于 `Rust` 的开源跨平台文件管理器，它采用了虚拟分布式文件系统，通过一个 `API` 来操作访问多设备上的文件。
+### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 
-它可以管理分布在多端的文件，在一个地方整理多个设备上的文件。
+短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
 
-无论是云端还是离线硬盘，进而生成你独有的个人分布式云，简单又方便：
-
-![spacedrive](https://images-1252557999.file.myqcloud.com/uPic/spacedrive.webp) 
+![SmsForwarder](https://images-1252557999.file.myqcloud.com/uPic/v6owv0.jpg)
+如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
 
 ## 👀 资料 
 
-### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
+### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
 
-一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
+收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
 
-![NhkQDk](https://images-1252557999.file.myqcloud.com/uPic/NhkQDk.jpg) 
+![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
 
-### [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
+### [一人企业方法论](https://github.com/easychen/one-person-businesses-methodology-v2.0)
 
-《[初创公司CTO手册](https://docs.google.com/document/d/147KVarJdNQ2ZdmDHOSsd7W39anejRu2NfxEWCzwl0IU/edit?pli=1)》是一本涵盖软件工程团队领导力、管理和技术主题的书籍。旨在为技术团队领导力提供指导，内容涵盖业务流程、人员管理、招聘面试、入职培训、绩效管理、团队构成、领导责任等多个方面：
+《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群：
 
-![ctohb](https://images-1252557999.file.myqcloud.com/uPic/ctohb.jpg) 
+![opb-quick-start](https://images-1252557999.file.myqcloud.com/uPic/opb-quick-start.jpg) 
 
-### [英语提升指南](https://vvyst0z7tes.feishu.cn/wiki/HQuawZepyiwNiNkImw6c00IXnmc)
+### [aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
 
-基于南加州大学的荣休教授斯蒂芬.克拉申（Stephen D。Krashen）博士的假说理论，为不同水平的英语自学者提供了结构化的学习路径。
+这是一个ai副业赚钱资讯信息的大合集，将在全网搜索并整理ai副业赚钱的相关方法、技术、工具、以及一些可以赚钱的平台和渠道。 期望能在AI时代，打破信息茧房，让大家都能在这个时代利用AI智能化做副业，赚取工作之余的额外收益。
 
-![英语提升指南](https://images-1252557999.file.myqcloud.com/uPic/uxM2zV.png) 
+![aimoneyhunter](https://images-1252557999.file.myqcloud.com/uPic/aimoneyhunter.png) 
 
 ## 🕸 网站 
 
-### [jsont.run](https://www.jsont.run/)
+### [aicolors](https://aicolors.co/)
 
-一个简洁的在线 `JSON` 解析器：
+通过提示词，基于 AI 生成配色方案：
 
-![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
+![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
 
-### [transhumans](https://www.transhumans.xyz/)
+### [yima.me](https://yima.me/)
 
-免费可商用的人物插图：
+免费生成 `AI` 艺术二维码：
 
-![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
+![yima](https://images-1252557999.file.myqcloud.com/uPic/yima.png) 
 
-### [antimkd](https://antimkd.com/)
+### [tinypng](https://tinypng.com/)
 
-无套路的软件下载网站：
+比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
 
-![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
+![tinypng](https://images-1252557999.file.myqcloud.com/uPic/8s8ltr.png)
+
+如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
+
+- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
+- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
 
 ## ✍️ 说明
 
