@@ -5,100 +5,94 @@
 
 ## 🎯 项目 
 
-### [WeChatMsg](https://github.com/LC044/WeChatMsg)
+### [van-blog](https://github.com/Mereithhh/van-blog)
 
-提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告：
+一款简洁实用优雅的高性能个人博客系统：
 
-![WeChatMsg](https://images-1252557999.file.myqcloud.com/uPic/WeChatMsg.png) 
+![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
 
-### [coolify](https://github.com/coollabsio/coolify)
+### [paopao-ce](https://github.com/rocboss/paopao-ce)
 
-> `Vercel Netlify Heroku` 开源替代品
+🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
 
-![coolify](https://images-1252557999.file.myqcloud.com/uPic/coolify.jpeg)
+- [Go](https://go.dev/)
+- [Gin](https://gin-gonic.com/)
+- [Zinc](https://zinclabs.io/)
+- [Naive UI](https://www.naiveui.com/)
+- [Vue.js](https://vuejs.org/)
+- [Vite.js](https://vitejs.dev/)
 
-还可以使用这个项目：[dokploy](https://github.com/dokploy/dokploy)
+![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
 
-![dokploy](https://images-1252557999.file.myqcloud.com/uPic/dokploy.png) 
+网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
 
-### [statping](https://github.com/statping/statping)
+### [rembg](https://github.com/danielgatis/rembg)
 
-一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
+之前有介绍过一个去除图片背景的网站-[remove.bg](https://www.remove.bg/zh)，这网站虽然免费，但是高清版本的图片下载需要收费，现在这个开源的图片背景去除项目将完全解决这个问题：
 
-![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
+![rembg](https://images-1252557999.file.myqcloud.com/uPic/rembg.jpg)
+
+你可以作为第三方库使用，也在终端以及启用服务化来使用。 
 
 ## 🤖 软件 
 
-### [MissionBackup](https://github.com/Hellager/MissionBackup)
+### [Focalboard](https://github.com/mattermost/focalboard)
 
-本地备份软件：
+`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
 
-- 基于 Tauri，兼顾了 web 前端和 rust 后端
-- 5MB 的安装包，15MB 的程序，多平台可用
-- 基于 cron 和 notify 实现对目标定时/监控备份
-- 可自定义备份保存时长和空间
-- 通过图表直观展示备份情况
-- 完善的文档支持
+![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
 
-![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
+### [podman-desktop](https://github.com/containers/podman-desktop)
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+ `Podman` 的桌面版：
+ 
+ ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
 
-LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
+### [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
-![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
+`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
 
-### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
-
-短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
-
-![SmsForwarder](https://images-1252557999.file.myqcloud.com/uPic/v6owv0.jpg)
-如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
+![appflowy](https://images-1252557999.file.myqcloud.com/uPic/JhzdLT.jpg) 
 
 ## 👀 资料 
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+### [法律文库](https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html)
 
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。
 
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+![justlaws](https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg) 
 
-### [一人企业方法论](https://github.com/easychen/one-person-businesses-methodology-v2.0)
+### developer-roadmap
 
-《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群：
+开发人员学习成长路线图：
 
-![opb-quick-start](https://images-1252557999.file.myqcloud.com/uPic/opb-quick-start.jpg) 
+![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
 
-### [aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
+### [C++服务器开发精髓](https://cppguide.cn/pages/92255f/)
 
-这是一个ai副业赚钱资讯信息的大合集，将在全网搜索并整理ai副业赚钱的相关方法、技术、工具、以及一些可以赚钱的平台和渠道。 期望能在AI时代，打破信息茧房，让大家都能在这个时代利用AI智能化做副业，赚取工作之余的额外收益。
+开源电子书籍，本书从操作系统原理角度讲解进行C++服务器开发所需掌握的技术栈：
 
-![aimoneyhunter](https://images-1252557999.file.myqcloud.com/uPic/aimoneyhunter.png) 
+![cppguide](https://images-1252557999.file.myqcloud.com/uPic/cppguide.jpg) 
 
 ## 🕸 网站 
 
-### [aicolors](https://aicolors.co/)
+### [chatpdf](https://www.chatpdf.com/)
 
-通过提示词，基于 AI 生成配色方案：
+和任何 PDF 进行沟通交流：
 
-![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
+![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
 
-### [yima.me](https://yima.me/)
+### [workout](https://workout.lol/)
 
-免费生成 `AI` 艺术二维码：
+免费[开源-workout-lol](https://github.com/workout-lol/workout-lol)的健身网站，选择你拥有的器材、锻炼的肌肉位置，网站便会为你制定锻炼计划：
 
-![yima](https://images-1252557999.file.myqcloud.com/uPic/yima.png) 
+![workout](https://images-1252557999.file.myqcloud.com/uPic/workout.jpg) 
 
-### [tinypng](https://tinypng.com/)
+### [zerogpt](https://www.zerogpt.com/)
 
-比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
+由 `ZeroGPT` 开发的 `GPT-4，ChatGPT` AI 内容检测器：
 
-![tinypng](https://images-1252557999.file.myqcloud.com/uPic/8s8ltr.png)
-
-如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
-
-- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
-- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
+![zerogpt](https://images-1252557999.file.myqcloud.com/uPic/zerogpt.jpg) 
 
 ## ✍️ 说明
 
