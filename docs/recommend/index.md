@@ -5,99 +5,130 @@
 
 ## 🎯 项目 
 
-### [xiaomusic](https://github.com/hanxi/xiaomusic)
+### [llama3](https://github.com/meta-llama/llama3)
 
-使用小爱/红米音箱播放音乐，音乐使用 `yt-dlp` 下载：
+Meta 正式发布开源大模型 `Llama 3` ，其提供两个版本：`8B` 版本适合在消费级 `GPU` 上高效部署和开发；`70B` 版本则专为大规模 `AI` 应用设计。每个版本都包括基础和指令调优两种形式。此外，基于 `Llama 3 8B` 微调后的 `Llama Guard` 新版本也已作为 `Llama Guard 2`（安全微调版本）发布：
 
-- 播放歌曲
-- 播放歌曲+歌名 比如：播放歌曲周杰伦晴天
-- 下一首
-- 单曲循环
-- 全部循环
+![hc_llama3](https://images-1252557999.file.myqcloud.com/uPic/hc_llama3.jpg)
 
-支持 `Docker` 部署和简单管理界面。 
+你可以在 [Hugging Chat](https://huggingface.co/chat) 上面体验，其他相关优秀的衍生开源项目老胡顺便做了个整理：
 
-### [oh-my-rime](https://github.com/Mintimate/oh-my-rime)
+- [llama](https://github.com/meta-llama/llama)|[llama.cpp](https://github.com/ggerganov/llama.cpp)|[llamafile](https://github.com/Mozilla-Ocho/llamafile)|[codellama](https://github.com/meta-llama/codellama)|[llm-course](https://github.com/mlabonne/llm-course)
+- 问答系统：
+	- [FastGPT](https://github.com/labring/FastGPT)
+	- [anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+	- [MaxKB](https://github.com/1Panel-dev/MaxKB)
+	- [quivr](https://github.com/QuivrHQ/quivr)
+	- [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
+	- [QAnything](https://github.com/netease-youdao/QAnything)
+	- [private-gpt](https://github.com/zylon-ai/private-gpt)
+	- [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine)
+- WebUI：
+	- [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
+	- [lobe-chat](https://github.com/lobehub/lobe-chat)
+	- [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
+	- [open-webui](https://github.com/open-webui/open-webui)
+	- [chat-ollama](https://github.com/sugarforever/chat-ollama)
+	- [chat-ui](https://github.com/huggingface/chat-ui)
+	- [aichat](https://github.com/sigoden/aichat)
+	- [open-webui2](https://github.com/open-webui/open-webui)
+	- [LocalAI](https://github.com/mudler/LocalAI)
+- APP：[LM Studio](https://lmstudio.ai/)|[jan](https://github.com/janhq/jan)||[ollama](https://github.com/ollama/ollama)|[chatbox](https://github.com/Bin-Huang/chatbox)
+- 应用开发：
+	- [langchain](https://github.com/langchain-ai/langchain)：为AI开发者提供工具，将语言模型与外部数据源连接起来，辅助构建 AI 应用程序
+	- [MetaGPT](https://github.com/geekan/MetaGPT)：Multi-Agent 框架
+	- [Dify](https://docs.dify.ai/)：开源的大语言模型(LLM) 应用开发平台
+	- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)：让大模型微调更简单
+	- [Flowise](https://github.com/FlowiseAI/Flowise)：轻松构建 LLM 应用程序
+	- [llm-app](https://github.com/pathwaycom/llm-app)：30 行代码构建你的 LLM 应用程序
+- [LLM Leaderboard](https://www.vellum.ai/llm-leaderboard)：各大主流 LLMs 评比 
 
-一套快速初始化开源输入法 `Rime` 的模板方案，跨平台支持 `Win macOS Linux`：
+### [filebrowser](https://github.com/filebrowser/filebrowser)
 
-![oh-my-rime](https://images-1252557999.file.myqcloud.com/uPic/oh-my-rime.webp) 
+这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
 
-### [markmap](https://github.com/gera2ld/markmap)
+除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
 
-可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
+![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
 
-![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
+### [glance](https://github.com/glanceapp/glance)
+
+`Glance` 可以将你所有的订阅源聚合到一个页面中，支持多种小部件，可以自定义主题：
+
+![glance](https://images-1252557999.file.myqcloud.com/uPic/glance.jpg) 
 
 ## 🤖 软件 
 
-### [natpass](https://github.com/lwch/natpass)
+### [VeraCrypt](https://veracrypt.fr/en/Home.html)
 
-新一代 NAT 内网穿透+shell+vnc 工具：
+`VeraCrypt` 是一款著名的跨平台、开源磁盘加密工具：
 
-![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
+![VeraCrypt](https://images-1252557999.file.myqcloud.com/uPic/VeraCrypt.jpg) 
 
-### [notepad--](https://github.com/cxasm/notepad--)
+### [MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop)
 
-这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
+一个插件化、定制化、无广告的免费音乐播放器:
 
-> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
+- 插件化：本软件仅仅是一个播放器，本身并不集成任何平台的任何音源，所有的搜索、播放、歌单导入等功能全部基于插件
+- 插件支持的功能：搜索（音乐、专辑、作者、歌单）、播放、查看专辑、查看作者详细信息、导入单曲、导入歌单、获取歌词等
+- 定制化：本软件可以通过主题包定义软件外观及背景，详见下方主题包一节
+- 无广告：基于 GPL3.0 协议开源，将会保持免费
+- 隐私：软件所有数据存储在本地，本软件不会上传你的个人信息。
 
-![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
+![MusicFreeDesktop](https://images-1252557999.file.myqcloud.com/uPic/MusicFreeDesktop.png) 
 
-### [mCollection](https://github.com/hunmer/mCollection)
+### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 
-🎉开源，可扩展，可自定义的素材管理库：
+一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
 
--  sqlite3存储结构，允许自定义关联表
--  没有限制的扩展插件，事件广播多
--  模块化设计，各个功能互不干扰
--  标签页设计，切换更便捷
--  内置全局呼出搜索
--  代码热更新
--  前后端分离，支持部署私人素材库
+- 隐藏桌面图标
+- 番茄钟
+- 快速进入夜间模式
+- 隐藏刘海
+- 保持唤醒
+- 清理 Xcode 缓存
+- 支持快捷方式库，可以自己开发
+- ...
 
-![mCollection](https://images-1252557999.file.myqcloud.com/uPic/mCollection.png) 
+![OnlySwitch](https://images-1252557999.file.myqcloud.com/uPic/OnlySwitch.png) 
 
 ## 👀 资料 
 
-### [self-llm](https://github.com/datawhalechina/self-llm)
+### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
 
-本项目是一个围绕开源大模型、针对国内初学者、基于 AutoDL 平台的中国宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，让更多的普通学生、研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普通学习者的生活中。
+非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
 
-可以结合 [llm-universe](https://github.com/datawhalechina/llm-universe) 一起看看。 
+### [rework](https://github.com/livid/rework)
 
-### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+这是一本来自 `37signals` 的关于商业和创意执行的书，由 `OLIVIDA` 翻译，在线阅读地址见[这里](https://www.v2ex.com/rework)：
 
-《Software Engineering at Google》的中文翻译版本：
+![rework](https://images-1252557999.file.myqcloud.com/uPic/rework.jpg) 
 
-![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
+### [rust-by-practice](https://github.com/sunface/rust-by-practice)
 
-### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
+通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
 
-30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
-
-![30-Days-Of-React](https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/f4zLoa.png) 
 
 ## 🕸 网站 
 
-### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
+### [chirper.ai](https://chirper.ai/zh)
 
-一个搜索 git 常用 emoji 的网站:
+一个只允许 AI 发帖的网站，所有内容由 AI 产生：
 
-![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
+![chirper](https://images-1252557999.file.myqcloud.com/uPic/chirper.jpg) 
 
-### [Ben Eater](https://eater.net/)
+### [codrops](https://tympanus.net/codrops/demos/)
 
-博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
+可免费下载使用的原型动画 UI 布局（ 500+ free demos）：
 
-![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
+![6690d09244aa9](https://img.fre123.com/i/2024/07/12/6690d09244aa9.jpg) 
 
-### [coze](https://www.coze.cn/)
+### [flomoapp](https://flomoapp.com/)
 
-扣子为你提供了一站式 AI 开发平台，无需编程，你的创新理念都能迅速化身为下一代的 AI 应用，字节跳动此前是在海外推出 [Coze](https://www.coze.com/)，国内扣子与其分开运营：
+flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
 
-![coze](https://images-1252557999.file.myqcloud.com/uPic/coze.jpg) 
+![flomoapp](https://images-1252557999.file.myqcloud.com/uPic/6G6qrd.jpg) 
 
 ## ✍️ 说明
 
