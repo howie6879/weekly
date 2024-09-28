@@ -12,7 +12,66 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Thu, 19 Sep 2024 23:45:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 14:18:10 +0000</lastBuildDate>
+    <item>
+      <title>09-17~09-22.老胡的周刊（第160期）.md</title>
+      <link>https://weekly.howie6879.com/2024/09-17~09-22.老胡的周刊（第160期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/09-17~09-22.老胡的周刊（第160期）.html"&gt;09-17~09-22.老胡的周刊（第160期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/usual2970/certimate"&gt;certimate&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="certimate" src="https://images-1252557999.file.myqcloud.com/uPic/slnLnQ.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/unclecode/crawl4ai"&gt;crawl4ai&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Crawl4AI&lt;/code&gt; 是一个免费且开源的网络爬虫工具，专为大型语言模型（LLMs）和 AI 应用设计，支持多种输出格式，如 JSON、HTML 和 markdown。它能够同时处理多个 URL，提取媒体标签（图片、音频和视频），以及内外链接和网页元数据。&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/canxin121/app_rhyme"&gt;app_rhyme&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;使用 &lt;code&gt;Flutter&lt;/code&gt; 和 &lt;code&gt;Rust&lt;/code&gt; 开发的跨平台自定义音源音乐播放器：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="app_rhyme" src="https://images-1252557999.file.myqcloud.com/uPic/hGPRWI.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/termux/termux-app"&gt;termux-app&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Termux&lt;/code&gt; 是一个为 &lt;code&gt;Android&lt;/code&gt; 操作系统设计的终端模拟器应用程序，它可以通过各种软件包进行扩展，支持 &lt;code&gt;Linux&lt;/code&gt; 环境：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="termux-app" src="https://images-1252557999.file.myqcloud.com/uPic/tMfcxO.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/xjunz/AutoTask"&gt;AutoTask&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一款支持 &lt;a href="https://github.com/RikkaApps/Shizuku"&gt;Shizuku&lt;/a&gt; 和辅助功能的自动任务工具，本应用专注于帮助您执行自动任务，相比于其他同类产品，本应用具有以下特点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;支持多种启动模式（Shizuku和辅助功能）&lt;/li&gt;
+&lt;li&gt;支持自定义常驻任务任务和一次性任务&lt;/li&gt;
+&lt;li&gt;支持手势录制，审查布局树等&lt;/li&gt;
+&lt;li&gt;不需要刻意保活便可常驻后台（两种模式默认系统保活）&lt;/li&gt;
+&lt;li&gt;省电且占用系统资源较少（事件驱动+协程，执行长时间任务也不阻塞CPU）&lt;/li&gt;
+&lt;li&gt;代码开源，安全可信&lt;/li&gt;
+&lt;li&gt;Material 3 风格UI，实用美观&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="AutoTask" src="https://images-1252557999.file.myqcloud.com/uPic/o9SYLa.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/sxzxs/Real-time-translation-typing"&gt;Real-time-translation-typing&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Real-time-translation-typing" src="https://images-1252557999.file.myqcloud.com/uPic/Y0Cv8U.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/TheOdinProject/curriculum"&gt;curriculum&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;The Odin Project&lt;/code&gt;（简称 TOP）是一个开源的全栈 web 开发教育课程，旨在通过一系列课程和项目帮助学习者掌握前端和后端技能：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="k6tcen" src="https://images-1252557999.file.myqcloud.com/uPic/k6tcen.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/FudanSELab/Agent4SE-Paper-List"&gt;FudanSELab/Agent4SE-Paper-List&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;该仓库由复旦大学软件工程实验室（FudanSELab）创建的，旨在为大型语言模型（LLMs）基础的软件工程代理（Agent）领域提供一个系统的文献综述：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Agent4SE-Paper-List" src="https://images-1252557999.file.myqcloud.com/uPic/uFo2bN.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://watermark.chiloh.cn/"&gt;水印宝&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://github.com/chilohwei/watermark-tool"&gt;开源&lt;/a&gt;的图片加水印网页：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="watermark" src="https://images-1252557999.file.myqcloud.com/uPic/jiPUF2.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">09-17~09-22.老胡的周刊（第160期）.md</guid>
+      <pubDate>Sun, 22 Sep 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>09-09~09-16.老胡的周刊（第159期）.md</title>
       <link>https://weekly.howie6879.com/2024/09-09~09-16.老胡的周刊（第159期）.html</link>
@@ -1239,63 +1298,6 @@ curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/rel
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">05-06~05-12.老胡的周刊（第141期）.md</guid>
       <pubDate>Sun, 12 May 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>04-29~05-05.老胡的周刊（第140期）.md</title>
-      <link>https://weekly.howie6879.com/2024/04-29~05-05.老胡的周刊（第140期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/04-29~05-05.老胡的周刊（第140期）.html"&gt;04-29~05-05.老胡的周刊（第140期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/coollabsio/coolify"&gt;coolify&lt;/a&gt;&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;code&gt;Vercel Netlify Heroku&lt;/code&gt; 开源替代品&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt="coolify" src="https://images-1252557999.file.myqcloud.com/uPic/coolify.jpeg" /&gt;&lt;/p&gt;
-&lt;p&gt;还可以使用这个项目：&lt;a href="https://github.com/dokploy/dokploy"&gt;dokploy&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="dokploy" src="https://images-1252557999.file.myqcloud.com/uPic/dokploy.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/pjialin/py12306"&gt;py12306&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="py12306" src="https://images-1252557999.file.myqcloud.com/uPic/py12306.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;如果实在抢不到，试下这个项目通过补票或者多买一站来解决：&lt;a href="https://github.com/elroy93/12306spy"&gt;12306spy&lt;/a&gt;，这类项目每到假期就会火一把。&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/PlayCover/PlayCover"&gt;PlayCover&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;让你的 Apple Silicon Mac 能够运行 IOS 游戏和应用：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="PlayCover" src="https://images-1252557999.file.myqcloud.com/uPic/PlayCover.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;源的话推荐：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;https://decrypt.day/library&lt;/li&gt;
-&lt;li&gt;https://ipa.store/&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;就是有些 APP 偶尔会崩溃。&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/aniyomiorg/aniyomi"&gt;aniyomi&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;读者推荐，&lt;code&gt;aniyomi&lt;/code&gt; 不单单可以看漫画还可以看动漫，而且也支持&lt;a href="https://aniyomi.org/extensions/"&gt;插件&lt;/a&gt;，更厉害的是，这个 APP 可以关联漫画进度记录网站，比如 Bangumi、MyAnimeList 等：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="aniyomi" src="https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://chinafactcheck.com/?p=11465"&gt;事实核查手册&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;虚假信息泛滥已成世界性难题，简体中文内容市场亦难置身事外。作为应对手段之一，事实核查在中国开始萌芽。&lt;/p&gt;
-&lt;p&gt;本手册以案例的形式介绍了常用的文字、图片和视频核查工具，也涉及事实核查的工作流程、信源评估，并译介了国际事实核查机构惯用的职业准则与实践，希望能为中国的事实核查业者和观察者提供一定的参考。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="事实核查手册" src="https://images-1252557999.file.myqcloud.com/uPic/事实核查手册.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/datawhalechina/so-large-lm"&gt;大模型基础&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;本项目旨在作为一个大规模预训练语言模型的教程，从数据准备、模型构建、训练策略到模型评估与改进，以及模型在安全、隐私、环境和法律道德方面的方面来提供开源知识。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="so-large-lm" src="https://images-1252557999.file.myqcloud.com/uPic/so-large-lm.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://ipa.store/"&gt;ipa.store&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;IPA&lt;/code&gt; 商店：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ipa_store" src="https://images-1252557999.file.myqcloud.com/uPic/ipa_store.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">04-29~05-05.老胡的周刊（第140期）.md</guid>
-      <pubDate>Sun, 05 May 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
