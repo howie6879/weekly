@@ -5,130 +5,95 @@
 
 ## 🎯 项目 
 
-### [llama3](https://github.com/meta-llama/llama3)
+### [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
 
-Meta 正式发布开源大模型 `Llama 3` ，其提供两个版本：`8B` 版本适合在消费级 `GPU` 上高效部署和开发；`70B` 版本则专为大规模 `AI` 应用设计。每个版本都包括基础和指令调优两种形式。此外，基于 `Llama 3 8B` 微调后的 `Llama Guard` 新版本也已作为 `Llama Guard 2`（安全微调版本）发布：
+使用 `Next.js、Type Script & Tailwind CSS` 构建的 `ChatGPT` 交互界面：
 
-![hc_llama3](https://images-1252557999.file.myqcloud.com/uPic/hc_llama3.jpg)
+![chatbot-ui](https://images-1252557999.file.myqcloud.com/uPic/chatbot-ui.png) 
 
-你可以在 [Hugging Chat](https://huggingface.co/chat) 上面体验，其他相关优秀的衍生开源项目老胡顺便做了个整理：
+### [pi-hole](https://pi-hole.net/)
 
-- [llama](https://github.com/meta-llama/llama)|[llama.cpp](https://github.com/ggerganov/llama.cpp)|[llamafile](https://github.com/Mozilla-Ocho/llamafile)|[codellama](https://github.com/meta-llama/codellama)|[llm-course](https://github.com/mlabonne/llm-course)
-- 问答系统：
-	- [FastGPT](https://github.com/labring/FastGPT)
-	- [anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-	- [MaxKB](https://github.com/1Panel-dev/MaxKB)
-	- [quivr](https://github.com/QuivrHQ/quivr)
-	- [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
-	- [QAnything](https://github.com/netease-youdao/QAnything)
-	- [private-gpt](https://github.com/zylon-ai/private-gpt)
-	- [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine)
-- WebUI：
-	- [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
-	- [lobe-chat](https://github.com/lobehub/lobe-chat)
-	- [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
-	- [open-webui](https://github.com/open-webui/open-webui)
-	- [chat-ollama](https://github.com/sugarforever/chat-ollama)
-	- [chat-ui](https://github.com/huggingface/chat-ui)
-	- [aichat](https://github.com/sigoden/aichat)
-	- [open-webui2](https://github.com/open-webui/open-webui)
-	- [LocalAI](https://github.com/mudler/LocalAI)
-- APP：[LM Studio](https://lmstudio.ai/)|[jan](https://github.com/janhq/jan)||[ollama](https://github.com/ollama/ollama)|[chatbox](https://github.com/Bin-Huang/chatbox)
-- 应用开发：
-	- [langchain](https://github.com/langchain-ai/langchain)：为AI开发者提供工具，将语言模型与外部数据源连接起来，辅助构建 AI 应用程序
-	- [MetaGPT](https://github.com/geekan/MetaGPT)：Multi-Agent 框架
-	- [Dify](https://docs.dify.ai/)：开源的大语言模型(LLM) 应用开发平台
-	- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)：让大模型微调更简单
-	- [Flowise](https://github.com/FlowiseAI/Flowise)：轻松构建 LLM 应用程序
-	- [llm-app](https://github.com/pathwaycom/llm-app)：30 行代码构建你的 LLM 应用程序
-- [LLM Leaderboard](https://www.vellum.ai/llm-leaderboard)：各大主流 LLMs 评比 
+一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
 
-### [filebrowser](https://github.com/filebrowser/filebrowser)
+![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
 
-这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
+### [pic-smaller](https://github.com/joye61/pic-smaller)
 
-除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
+图小小是一个图片压缩工具，基于 `Vite+React` 技术栈开发，它可以完全取代类似 `TinyPNG` 之类的在线图片压缩工具，且压缩之后视觉表现效果往往更好。但图小小有个更大的优势：通过图小小进行图片压缩完全是基于浏览器本地的，没有任何服务端交互，图片不会上传到远程服务器，所以非常安全，不用担心隐私图片被泄露。
 
-![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
-
-### [glance](https://github.com/glanceapp/glance)
-
-`Glance` 可以将你所有的订阅源聚合到一个页面中，支持多种小部件，可以自定义主题：
-
-![glance](https://images-1252557999.file.myqcloud.com/uPic/glance.jpg) 
+![pic-smaller](https://images-1252557999.file.myqcloud.com/uPic/pic-smaller.png) 
 
 ## 🤖 软件 
 
-### [VeraCrypt](https://veracrypt.fr/en/Home.html)
+### [EpubPress](https://epub.press/)
 
-`VeraCrypt` 是一款著名的跨平台、开源磁盘加密工具：
+`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
 
-![VeraCrypt](https://images-1252557999.file.myqcloud.com/uPic/VeraCrypt.jpg) 
+![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
 
-### [MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop)
+### [mangerlahn-latest](https://github.com/mangerlahn/latest)
 
-一个插件化、定制化、无广告的免费音乐播放器:
+一款免费开源的macOS应用程序，专门设计用于保持您的所有应用程序处于最新状态。它能够检查您的每一个应用程序，确保您始终拥有最新的更新和功能。
 
-- 插件化：本软件仅仅是一个播放器，本身并不集成任何平台的任何音源，所有的搜索、播放、歌单导入等功能全部基于插件
-- 插件支持的功能：搜索（音乐、专辑、作者、歌单）、播放、查看专辑、查看作者详细信息、导入单曲、导入歌单、获取歌词等
-- 定制化：本软件可以通过主题包定义软件外观及背景，详见下方主题包一节
-- 无广告：基于 GPL3.0 协议开源，将会保持免费
-- 隐私：软件所有数据存储在本地，本软件不会上传你的个人信息。
+![mac_latest](https://images-1252557999.file.myqcloud.com/uPic/mac_latest.jpg) 
 
-![MusicFreeDesktop](https://images-1252557999.file.myqcloud.com/uPic/MusicFreeDesktop.png) 
+### [V2EX_Polish](https://github.com/coolpace/V2EX_Polish)
 
-### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
+专业的 V2EX 浏览器扩展，集合了众多实用功能，重塑你的浏览体验！
 
-一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
+- 🪄 界面美化：UI 设计更现代化，为你带来愉悦的视觉体验。
+- 📥 评论回复嵌套层级：主题下的评论回复支持层级展示，可以更轻松地跟踪和回复其他用户的评论。
+- 🔥 热门回复展示：自动筛选出最受欢迎的回复，第一时间追上热评。
+- 😀 表情回复支持：评论输入框可以选择表情，让回复更加生动和有趣。
+- 📃 长回复优化：智能折叠长篇回复，一键展开查看完整内容。
+- 📰 内置主题列表：无需打开网页，插件内即可快速获取最热、最新的主题列表和消息通知。
 
-- 隐藏桌面图标
-- 番茄钟
-- 快速进入夜间模式
-- 隐藏刘海
-- 保持唤醒
-- 清理 Xcode 缓存
-- 支持快捷方式库，可以自己开发
-- ...
-
-![OnlySwitch](https://images-1252557999.file.myqcloud.com/uPic/OnlySwitch.png) 
+![v2p](https://images-1252557999.file.myqcloud.com/uPic/v2p.png) 
 
 ## 👀 资料 
 
-### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
+### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
 
-非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
+《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
 
-### [rework](https://github.com/livid/rework)
+![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
 
-这是一本来自 `37signals` 的关于商业和创意执行的书，由 `OLIVIDA` 翻译，在线阅读地址见[这里](https://www.v2ex.com/rework)：
+### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
 
-![rework](https://images-1252557999.file.myqcloud.com/uPic/rework.jpg) 
+陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
 
-### [rust-by-practice](https://github.com/sunface/rust-by-practice)
+![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
 
-通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
+### [qianguyihao/Web](https://github.com/qianguyihao/Web)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/f4zLoa.png) 
+千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师:
+
+- 网上的大部分入门教程，都不太适合初学者，本项目争取照顾到每一位前端入门者的同理心。即使你完全不懂前端，甚至不懂编程，通过这个教程，也能让小白入门。
+- 帮助前端同学提供一个精品学习资源和路线，提高学习效率，少走很多弯路。
+
+![qianguyihao](https://images-1252557999.file.myqcloud.com/uPic/qianguyihao.jpg)
+
+可以当做前端字典，随时翻阅，查漏补缺，在线观看地址：[web.qianguyihao.com](https://web.qianguyihao.com/)。 
 
 ## 🕸 网站 
 
-### [chirper.ai](https://chirper.ai/zh)
+### [regex.ai](https://regex.ai/)
 
-一个只允许 AI 发帖的网站，所有内容由 AI 产生：
+`regex.ai` 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：
 
-![chirper](https://images-1252557999.file.myqcloud.com/uPic/chirper.jpg) 
+![regex_ai](https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg) 
 
-### [codrops](https://tympanus.net/codrops/demos/)
+### [FRE123-动漫搜索引擎](https://www.fre123.com/anime/s)
 
-可免费下载使用的原型动画 UI 布局（ 500+ free demos）：
+`FRE123` 周末新上了个动漫番剧搜索引擎，主要是汇集一些比较好的番剧网站资源，提供搜索服务，让用户更快速找到自己想看到的番剧，欢迎提意见：
 
-![6690d09244aa9](https://img.fre123.com/i/2024/07/12/6690d09244aa9.jpg) 
+![fre123_anime](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime.jpg) 
 
-### [flomoapp](https://flomoapp.com/)
+### [gh-card.dev](https://gh-card.dev/)
 
-flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
+免费为你的 `Github` 开源项目生成卡片的网站：
 
-![flomoapp](https://images-1252557999.file.myqcloud.com/uPic/6G6qrd.jpg) 
+![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
 
 ## ✍️ 说明
 
