@@ -5,94 +5,99 @@
 
 ## 🎯 项目 
 
-### [van-blog](https://github.com/Mereithhh/van-blog)
+### [xiaomusic](https://github.com/hanxi/xiaomusic)
 
-一款简洁实用优雅的高性能个人博客系统：
+使用小爱/红米音箱播放音乐，音乐使用 `yt-dlp` 下载：
 
-![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
+- 播放歌曲
+- 播放歌曲+歌名 比如：播放歌曲周杰伦晴天
+- 下一首
+- 单曲循环
+- 全部循环
 
-### [paopao-ce](https://github.com/rocboss/paopao-ce)
+支持 `Docker` 部署和简单管理界面。 
 
-🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
+### [oh-my-rime](https://github.com/Mintimate/oh-my-rime)
 
-- [Go](https://go.dev/)
-- [Gin](https://gin-gonic.com/)
-- [Zinc](https://zinclabs.io/)
-- [Naive UI](https://www.naiveui.com/)
-- [Vue.js](https://vuejs.org/)
-- [Vite.js](https://vitejs.dev/)
+一套快速初始化开源输入法 `Rime` 的模板方案，跨平台支持 `Win macOS Linux`：
 
-![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
+![oh-my-rime](https://images-1252557999.file.myqcloud.com/uPic/oh-my-rime.webp) 
 
-网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
+### [markmap](https://github.com/gera2ld/markmap)
 
-### [rembg](https://github.com/danielgatis/rembg)
+可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
 
-之前有介绍过一个去除图片背景的网站-[remove.bg](https://www.remove.bg/zh)，这网站虽然免费，但是高清版本的图片下载需要收费，现在这个开源的图片背景去除项目将完全解决这个问题：
-
-![rembg](https://images-1252557999.file.myqcloud.com/uPic/rembg.jpg)
-
-你可以作为第三方库使用，也在终端以及启用服务化来使用。 
+![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
 
 ## 🤖 软件 
 
-### [Focalboard](https://github.com/mattermost/focalboard)
+### [natpass](https://github.com/lwch/natpass)
 
-`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
+新一代 NAT 内网穿透+shell+vnc 工具：
 
-![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
+![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
 
-### [podman-desktop](https://github.com/containers/podman-desktop)
+### [notepad--](https://github.com/cxasm/notepad--)
 
- `Podman` 的桌面版：
- 
- ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
+这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
 
-### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
 
-`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
 
-![appflowy](https://images-1252557999.file.myqcloud.com/uPic/JhzdLT.jpg) 
+### [mCollection](https://github.com/hunmer/mCollection)
+
+🎉开源，可扩展，可自定义的素材管理库：
+
+-  sqlite3存储结构，允许自定义关联表
+-  没有限制的扩展插件，事件广播多
+-  模块化设计，各个功能互不干扰
+-  标签页设计，切换更便捷
+-  内置全局呼出搜索
+-  代码热更新
+-  前后端分离，支持部署私人素材库
+
+![mCollection](https://images-1252557999.file.myqcloud.com/uPic/mCollection.png) 
 
 ## 👀 资料 
 
-### [法律文库](https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html)
+### [self-llm](https://github.com/datawhalechina/self-llm)
 
-以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。
+本项目是一个围绕开源大模型、针对国内初学者、基于 AutoDL 平台的中国宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，让更多的普通学生、研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普通学习者的生活中。
 
-![justlaws](https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg) 
+可以结合 [llm-universe](https://github.com/datawhalechina/llm-universe) 一起看看。 
 
-### developer-roadmap
+### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
 
-开发人员学习成长路线图：
+《Software Engineering at Google》的中文翻译版本：
 
-![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
+![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
 
-### [C++服务器开发精髓](https://cppguide.cn/pages/92255f/)
+### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
 
-开源电子书籍，本书从操作系统原理角度讲解进行C++服务器开发所需掌握的技术栈：
+30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
 
-![cppguide](https://images-1252557999.file.myqcloud.com/uPic/cppguide.jpg) 
+![30-Days-Of-React](https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg) 
 
 ## 🕸 网站 
 
-### [chatpdf](https://www.chatpdf.com/)
+### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
 
-和任何 PDF 进行沟通交流：
+一个搜索 git 常用 emoji 的网站:
 
-![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
+![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
 
-### [workout](https://workout.lol/)
+### [Ben Eater](https://eater.net/)
 
-免费[开源-workout-lol](https://github.com/workout-lol/workout-lol)的健身网站，选择你拥有的器材、锻炼的肌肉位置，网站便会为你制定锻炼计划：
+博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
 
-![workout](https://images-1252557999.file.myqcloud.com/uPic/workout.jpg) 
+![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
 
-### [zerogpt](https://www.zerogpt.com/)
+### [coze](https://www.coze.cn/)
 
-由 `ZeroGPT` 开发的 `GPT-4，ChatGPT` AI 内容检测器：
+扣子为你提供了一站式 AI 开发平台，无需编程，你的创新理念都能迅速化身为下一代的 AI 应用，字节跳动此前是在海外推出 [Coze](https://www.coze.com/)，国内扣子与其分开运营：
 
-![zerogpt](https://images-1252557999.file.myqcloud.com/uPic/zerogpt.jpg) 
+![coze](https://images-1252557999.file.myqcloud.com/uPic/coze.jpg) 
 
 ## ✍️ 说明
 
