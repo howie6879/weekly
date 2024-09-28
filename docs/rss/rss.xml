@@ -12,7 +12,55 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sat, 28 Sep 2024 14:18:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 14:21:09 +0000</lastBuildDate>
+    <item>
+      <title>09-23~09-29.老胡的周刊（第161期）.md</title>
+      <link>https://weekly.howie6879.com/2024/09-23~09-29.老胡的周刊（第161期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/09-23~09-29.老胡的周刊（第161期）.html"&gt;09-23~09-29.老胡的周刊（第161期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ddean2009/MoneyPrinterPlus"&gt;MoneyPrinterPlus&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;MoneyPrinterPlus&lt;/code&gt; 是一个基于 &lt;code&gt;AI&lt;/code&gt; 技术的项目，能够一键批量生成和混剪短视频，并自动发布到多个视频平台，如抖音、快手、小红书和视频号，极大地简化了视频内容创作和发布的流程：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="MoneyPrinterPlus" src="https://images-1252557999.file.myqcloud.com/uPic/fXzX2S.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/MrXujiang/h5-Dooring"&gt;H5-Dooring&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;让 H5 制作像搭积木一样简单，轻松搭建 H5 页面：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="H5-Dooring" src="https://images-1252557999.file.myqcloud.com/uPic/QtWiIc.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/mazzzystar/tinymind"&gt;tinymind&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Tinymind&lt;/code&gt; 是一个将 &lt;code&gt;GitHub&lt;/code&gt; 作为数据存储平台的博客工具，允许用户通过 &lt;code&gt;OAuth&lt;/code&gt; 授权直接在自己的公共仓库中写作和同步文章，无需搭建服务器：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="tinymind" src="https://images-1252557999.file.myqcloud.com/uPic/BZLdkZ.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/niuhuan/kobi"&gt;kobi&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个简洁大方的跨平台漫画客户端：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="0ZQlSW" src="https://images-1252557999.file.myqcloud.com/uPic/0ZQlSW.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/deniscerri/ytdlnis"&gt;ytdlnis&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;ytdlnis&lt;/code&gt; 是一个免费且开源的 Android 应用，它使用 yt-dlp 来下载视频和音频。该应用支持多种功能，包括从超过 1000 个网站下载内容、处理播放列表。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ytdlnis" src="https://images-1252557999.file.myqcloud.com/uPic/pMXT1j.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/berryjam/mastering-bitcoin-3rd"&gt;mastering-bitcoin-3rd&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;《精通比特币》第三版翻译：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="mastering-bitcoin-3rd" src="https://images-1252557999.file.myqcloud.com/uPic/ZwD0Jl.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://devpedia.pages.dev/"&gt;devpedia.pages.dev&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Dev Encyclopedia&lt;/code&gt; 是一个为开发者提供广泛技术术语、概念和工具解释的在线百科全书：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="devpedia" src="https://images-1252557999.file.myqcloud.com/uPic/L7S0qZ.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://tianya.at/"&gt;tianya.at&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;天涯帖子备份网站：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="tianya" src="https://images-1252557999.file.myqcloud.com/uPic/y1oe44.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">09-23~09-29.老胡的周刊（第161期）.md</guid>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>09-17~09-22.老胡的周刊（第160期）.md</title>
       <link>https://weekly.howie6879.com/2024/09-17~09-22.老胡的周刊（第160期）.html</link>
@@ -1229,75 +1277,6 @@ curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/rel
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">05-13~05-19.老胡的周刊（第142期）.md</guid>
       <pubDate>Sun, 19 May 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>05-06~05-12.老胡的周刊（第141期）.md</title>
-      <link>https://weekly.howie6879.com/2024/05-06~05-12.老胡的周刊（第141期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/05-06~05-12.老胡的周刊（第141期）.html"&gt;05-06~05-12.老胡的周刊（第141期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://koishi.chat/zh-CN/"&gt;koishi&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;周刊群友推荐，创建跨平台、可扩展、高性能的机器人，插件丰富，&lt;code&gt;Koishi&lt;/code&gt; 提供了高度便利的控制台，让你无需基础让你在几分钟之内搭建自己的聊天机器人。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;提供在线插件市场，即使没有任何编程基础，也能轻松在控制台中下载安装插件&lt;/li&gt;
-&lt;li&gt;支持 QQ，Telegram，Discord，飞书等主流聊天平台，支持多账户和跨平台数据互通&lt;/li&gt;
-&lt;li&gt;随时随地通过控制面板监控运行状态，控制机器人的行为，甚至上号聊天&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="koishi" src="https://images-1252557999.file.myqcloud.com/uPic/koishi.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/nocodb/nocodb"&gt;NocoDB&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;将 &lt;code&gt;MySQL、PostgreSQL、SQL Server、SQLite 、MariaDB&lt;/code&gt; 转换为智能电子表格：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="NocoDB" src="https://images-1252557999.file.myqcloud.com/uPic/NocoDB.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/lana-k/sqliteviz"&gt;sqliteviz&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;sqliteviz&lt;/code&gt; 是一款功能强大且易于使用的离线数据可视化工具，具有易于使用、性能出色的特点，非常适合数据分析人员、学生和开发人员使用。&lt;/p&gt;
-&lt;p&gt;在线体验地址：&lt;a href="https://sqliteviz.com/app"&gt;https://sqliteviz.com/app&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="sqliteviz" src="https://images-1252557999.file.myqcloud.com/uPic/sqliteviz.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/alyssaxuu/screenity"&gt;Screenity&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;🎥 免费且隐私友好的录屏工具，功能特性使用无限制：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Screenity" src="https://images-1252557999.file.myqcloud.com/uPic/Screenity.png" /&gt;&lt;/p&gt;
-&lt;p&gt;还有其他推荐的：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;https://github.com/lihaoyun6/QuickRecorder&lt;/li&gt;
-&lt;li&gt;https://github.com/wulkano/Kap&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;a href="https://github.com/hellzerg/optimizer"&gt;optimizer&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;开源软件，让你的 &lt;code&gt;Windows&lt;/code&gt; 电脑保持最大程度上的纯净，保证电脑性能：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="optimizer" src="https://images-1252557999.file.myqcloud.com/uPic/optimizer.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://eloquentjavascript.net/"&gt;eloquentjavascript&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;作者是 &lt;code&gt;Marijn Haverbeke&lt;/code&gt;，世界级 &lt;code&gt;JavaScript&lt;/code&gt; 程序员，本书免费开源，中英文评分都很高，学起来吧：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="eloquentjavascript" src="https://images-1252557999.file.myqcloud.com/uPic/eloquentjavascript.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://cppguide.cn/pages/92255f/"&gt;C++服务器开发精髓&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;开源电子书籍，本书从操作系统原理角度讲解进行C++服务器开发所需掌握的技术栈：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="cppguide" src="https://images-1252557999.file.myqcloud.com/uPic/cppguide.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://www.fre321.com/"&gt;FRE321&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;原本 fre123.com 被污染了，所以 301 到新的域名 &lt;a href="https://www.fre321.com"&gt;https://www.fre321.com&lt;/a&gt; 一直在用的朋友请收藏下哈，老胡也再次和大家介绍下目前的功能：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;首页影视、动漫、软件、电子书、音乐等资源导航&lt;/li&gt;
-&lt;li&gt;番剧搜索&lt;/li&gt;
-&lt;li&gt;技术、新闻信息流&lt;/li&gt;
-&lt;li&gt;周刊聚合页面&lt;/li&gt;
-&lt;li&gt;新功能持续开发中&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="FRE321" src="https://images-1252557999.file.myqcloud.com/uPic/FRE321.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://www.quark.so/"&gt;quark.so&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;这是一个资源全面，界面简洁无广告的夸克网盘搜索引擎：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="quarkso" src="https://images-1252557999.file.myqcloud.com/uPic/quarkso.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">05-06~05-12.老胡的周刊（第141期）.md</guid>
-      <pubDate>Sun, 12 May 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
