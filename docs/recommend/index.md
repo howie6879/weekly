@@ -5,95 +5,111 @@
 
 ## 🎯 项目 
 
-### [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
+### [paopao-ce](https://github.com/rocboss/paopao-ce)
 
-使用 `Next.js、Type Script & Tailwind CSS` 构建的 `ChatGPT` 交互界面：
+🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
 
-![chatbot-ui](https://images-1252557999.file.myqcloud.com/uPic/chatbot-ui.png) 
+- [Go](https://go.dev/)
+- [Gin](https://gin-gonic.com/)
+- [Zinc](https://zinclabs.io/)
+- [Naive UI](https://www.naiveui.com/)
+- [Vue.js](https://vuejs.org/)
+- [Vite.js](https://vitejs.dev/)
 
-### [pi-hole](https://pi-hole.net/)
+![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
 
-一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
+网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
 
-![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
+### [notion-avatar](https://github.com/Mayandev/notion-avatar)
 
-### [pic-smaller](https://github.com/joye61/pic-smaller)
+如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
 
-图小小是一个图片压缩工具，基于 `Vite+React` 技术栈开发，它可以完全取代类似 `TinyPNG` 之类的在线图片压缩工具，且压缩之后视觉表现效果往往更好。但图小小有个更大的优势：通过图小小进行图片压缩完全是基于浏览器本地的，没有任何服务端交互，图片不会上传到远程服务器，所以非常安全，不用担心隐私图片被泄露。
+![notion-avatar](https://images-1252557999.file.myqcloud.com/uPic/OrjQK2.jpg) 
 
-![pic-smaller](https://images-1252557999.file.myqcloud.com/uPic/pic-smaller.png) 
+### [chathub](https://github.com/chathub-dev/chathub)
+
+`ChatHub` 是款全能聊天机器人客户端:
+
+- 🤖 在一个应用中使用不同的聊天机器人，目前支持 ChatGPT、新的 Bing Chat、Google Bard、Claude（通过 Poe）、Alpaca、Vicuna、ChatGLM，并将来会集成更多的机器人
+- 💬 同时与多个聊天机器人进行对话，方便比较它们的回答
+- 🚀 支持 ChatGPT API 和 GPT-4 浏览
+- 🔍 快捷方式，可在浏览器的任何位置快速激活应用
+- 🎨 支持 Markdown 和代码高亮显示
+- 📚 自定义提示和社区提示的提示库
+- 💾 本地保存对话历史
+- 📥 导出和导入所有数据
+- 🔗 将对话转为 Markdown 并分享
+- 🌙 暗黑模式
+
+![chathub](https://images-1252557999.file.myqcloud.com/uPic/chathub.png) 
 
 ## 🤖 软件 
 
-### [EpubPress](https://epub.press/)
+### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 
-`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
+`Diffusion Bee`是在 `M1 Mac`上本地运行 `Stable Diffusion` 的最简单方法，附带一键安装程序，不需要依赖性或技术知识：
 
-![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
+![diffusionbee](https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg) 
 
-### [mangerlahn-latest](https://github.com/mangerlahn/latest)
+### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
 
-一款免费开源的macOS应用程序，专门设计用于保持您的所有应用程序处于最新状态。它能够检查您的每一个应用程序，确保您始终拥有最新的更新和功能。
+免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
 
-![mac_latest](https://images-1252557999.file.myqcloud.com/uPic/mac_latest.jpg) 
+![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
 
-### [V2EX_Polish](https://github.com/coolpace/V2EX_Polish)
+### [enchanted](https://github.com/AugustDev/enchanted)
 
-专业的 V2EX 浏览器扩展，集合了众多实用功能，重塑你的浏览体验！
+一个开源的 `macOS/iOS/visionOS` 应用程序，专为与私人托管模型（如 `Llama 2、Mistral、Vicuna、Starling` 等）一起工作而设计。它的界面类似于 `ChatGPT` 应用，可连接到您的私人模型：
 
-- 🪄 界面美化：UI 设计更现代化，为你带来愉悦的视觉体验。
-- 📥 评论回复嵌套层级：主题下的评论回复支持层级展示，可以更轻松地跟踪和回复其他用户的评论。
-- 🔥 热门回复展示：自动筛选出最受欢迎的回复，第一时间追上热评。
-- 😀 表情回复支持：评论输入框可以选择表情，让回复更加生动和有趣。
-- 📃 长回复优化：智能折叠长篇回复，一键展开查看完整内容。
-- 📰 内置主题列表：无需打开网页，插件内即可快速获取最热、最新的主题列表和消息通知。
-
-![v2p](https://images-1252557999.file.myqcloud.com/uPic/v2p.png) 
+![enchanted](https://img.fre123.com/i/2024/07/12/6690f54b93ccc.jpg) 
 
 ## 👀 资料 
 
-### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
+### [free-for-dev](https://github.com/ripienaar/free-for-dev)
 
-《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
+对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
 
-![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
+![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
 
-### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
+### [comflowy](https://www.comflowy.com/zh-CN)
 
-陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
+作者认为 `AI` 生图领域的未来一定是围绕 `Stable Diffusion` 展开，而 `ComfyUI` 相比于 `Stable Diffusion WebUI` 等其他开源产品具备非常强的差异化能力，它具备高度的扩展性和应用可能性，真正做到了让开发者和用户能够根据自己的需求打造个性化的生图流程。
 
-![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
+![comflowy](https://images-1252557999.file.myqcloud.com/uPic/comflowy.jpg) 
 
-### [qianguyihao/Web](https://github.com/qianguyihao/Web)
+### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
 
-千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师:
-
-- 网上的大部分入门教程，都不太适合初学者，本项目争取照顾到每一位前端入门者的同理心。即使你完全不懂前端，甚至不懂编程，通过这个教程，也能让小白入门。
-- 帮助前端同学提供一个精品学习资源和路线，提高学习效率，少走很多弯路。
-
-![qianguyihao](https://images-1252557999.file.myqcloud.com/uPic/qianguyihao.jpg)
-
-可以当做前端字典，随时翻阅，查漏补缺，在线观看地址：[web.qianguyihao.com](https://web.qianguyihao.com/)。 
+本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
 
 ## 🕸 网站 
 
-### [regex.ai](https://regex.ai/)
+### [caesium-image-compressor](https://caesium.app/)
 
-`regex.ai` 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：
+免费开源的图片压缩工具：
 
-![regex_ai](https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg) 
+![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.png)
 
-### [FRE123-动漫搜索引擎](https://www.fre123.com/anime/s)
+还支持[桌面端](https://github.com/Lymphatus/caesium-image-compressor)：
 
-`FRE123` 周末新上了个动漫番剧搜索引擎，主要是汇集一些比较好的番剧网站资源，提供搜索服务，让用户更快速找到自己想看到的番剧，欢迎提意见：
+![caesium-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/caesium-image-compressor.png) 
 
-![fre123_anime](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime.jpg) 
+### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
 
-### [gh-card.dev](https://gh-card.dev/)
+软件镜像站：
 
-免费为你的 `Github` 开源项目生成卡片的网站：
+![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
 
-![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
+### [FRE321](https://www.fre321.com/)
+
+原本 fre123.com 被污染了，所以 301 到新的域名 [https://www.fre321.com](https://www.fre321.com) 一直在用的朋友请收藏下哈，老胡也再次和大家介绍下目前的功能：
+
+- 首页影视、动漫、软件、电子书、音乐等资源导航
+- 番剧搜索
+- 技术、新闻信息流
+- 周刊聚合页面
+- 新功能持续开发中
+
+![FRE321](https://images-1252557999.file.myqcloud.com/uPic/FRE321.jpg) 
 
 ## ✍️ 说明
 
