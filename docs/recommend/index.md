@@ -5,111 +5,107 @@
 
 ## 🎯 项目 
 
-### [paopao-ce](https://github.com/rocboss/paopao-ce)
+### [omnivore](https://github.com/omnivore-app/omnivore)
 
-🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
+无干扰、注重隐私、免费开源专为知识工作者和终身学习者而设计的稍后阅读工具：
 
-- [Go](https://go.dev/)
-- [Gin](https://gin-gonic.com/)
-- [Zinc](https://zinclabs.io/)
-- [Naive UI](https://www.naiveui.com/)
-- [Vue.js](https://vuejs.org/)
-- [Vite.js](https://vitejs.dev/)
+![omnivore](https://images-1252557999.file.myqcloud.com/uPic/omnivore.png) 
 
-![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
+### [form-create](https://github.com/xaboy/form-create)
 
-网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
+强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
 
-### [notion-avatar](https://github.com/Mayandev/notion-avatar)
+![form-create](https://images-1252557999.file.myqcloud.com/uPic/demo-live3.gif) 
 
-如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
+### [runtipi](https://github.com/meienberger/runtipi)
 
-![notion-avatar](https://images-1252557999.file.myqcloud.com/uPic/OrjQK2.jpg) 
+自托管的开源家庭应用服务管理工具，比如你可以在你的服务器上面一键安装任何自托管的应用：
 
-### [chathub](https://github.com/chathub-dev/chathub)
-
-`ChatHub` 是款全能聊天机器人客户端:
-
-- 🤖 在一个应用中使用不同的聊天机器人，目前支持 ChatGPT、新的 Bing Chat、Google Bard、Claude（通过 Poe）、Alpaca、Vicuna、ChatGLM，并将来会集成更多的机器人
-- 💬 同时与多个聊天机器人进行对话，方便比较它们的回答
-- 🚀 支持 ChatGPT API 和 GPT-4 浏览
-- 🔍 快捷方式，可在浏览器的任何位置快速激活应用
-- 🎨 支持 Markdown 和代码高亮显示
-- 📚 自定义提示和社区提示的提示库
-- 💾 本地保存对话历史
-- 📥 导出和导入所有数据
-- 🔗 将对话转为 Markdown 并分享
-- 🌙 暗黑模式
-
-![chathub](https://images-1252557999.file.myqcloud.com/uPic/chathub.png) 
+![runtipi](https://images-1252557999.file.myqcloud.com/uPic/runtipi.png) 
 
 ## 🤖 软件 
 
-### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
+### [FixTim](https://github.com/Lakr233/FixTim)
 
-`Diffusion Bee`是在 `M1 Mac`上本地运行 `Stable Diffusion` 的最简单方法，附带一键安装程序，不需要依赖性或技术知识：
+在很多情况下，我们可能需要重新启动 `Mac` 来纠正故障。这个工具旨在解决大多数运行时错误，而无需完全重新启动系统，并且它可以将您的应用程序恢复到问题出现之前的状态：
 
-![diffusionbee](https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg) 
+![FixTim](https://images-1252557999.file.myqcloud.com/uPic/FixTim.gif) 
 
-### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
+### [Screenity](https://github.com/alyssaxuu/screenity)
 
-免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
+🎥 免费且隐私友好的录屏工具，功能特性使用无限制：
 
-![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
+![Screenity](https://images-1252557999.file.myqcloud.com/uPic/Screenity.png)
 
-### [enchanted](https://github.com/AugustDev/enchanted)
+还有其他推荐的：
 
-一个开源的 `macOS/iOS/visionOS` 应用程序，专为与私人托管模型（如 `Llama 2、Mistral、Vicuna、Starling` 等）一起工作而设计。它的界面类似于 `ChatGPT` 应用，可连接到您的私人模型：
+- https://github.com/lihaoyun6/QuickRecorder
+- https://github.com/wulkano/Kap 
 
-![enchanted](https://img.fre123.com/i/2024/07/12/6690f54b93ccc.jpg) 
+### [EcoPaste](https://github.com/ayangweb/EcoPaste)
+
+一款开源的跨平台剪切板管理工具：
+
+- 使用 Tauri 构建项目，使其更加小巧精致，资源占用更少，同时适配多个平台。
+- 应用常驻后台，通过自定义快捷键一键唤醒，节省时间，提高效率。
+- 所有剪切板内容均在本地存储，确保数据隐私和安全。
+- 支持纯文本、富文本、HTML、图片和文件类型。
+- 根据剪切板内容类型自动进行分组，便于高效管理。
+- 支持收藏剪切板内容，便于快速访问和管理重要信息。
+- 内置搜索功能，轻松找到剪切板上的任何内容。
+- 图片内置系统 OCR 功能，支持文本和二维码识别。
+- 提供丰富的右键菜单，增强操作便捷性。
+
+![EcoPaste](https://images-1252557999.file.myqcloud.com/uPic/EcoPaste.jpg) 
 
 ## 👀 资料 
 
-### [free-for-dev](https://github.com/ripienaar/free-for-dev)
+### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
 
-对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
+一本基于`python&matplotlib`进行科学可视化的开源书籍：
 
-![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
+![scientific-visualization-book](https://images-1252557999.file.myqcloud.com/uPic/scientific-visualization-book.jpg) 
 
-### [comflowy](https://www.comflowy.com/zh-CN)
+### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
-作者认为 `AI` 生图领域的未来一定是围绕 `Stable Diffusion` 展开，而 `ComfyUI` 相比于 `Stable Diffusion WebUI` 等其他开源产品具备非常强的差异化能力，它具备高度的扩展性和应用可能性，真正做到了让开发者和用户能够根据自己的需求打造个性化的生图流程。
+微软开源的一份全面的数据科学课程，20个课时，历时10周：
 
-![comflowy](https://images-1252557999.file.myqcloud.com/uPic/comflowy.jpg) 
+![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
 
-### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
+### [FudanSELab/Agent4SE-Paper-List](https://github.com/FudanSELab/Agent4SE-Paper-List)
 
-本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
+该仓库由复旦大学软件工程实验室（FudanSELab）创建的，旨在为大型语言模型（LLMs）基础的软件工程代理（Agent）领域提供一个系统的文献综述：
+
+![Agent4SE-Paper-List](https://images-1252557999.file.myqcloud.com/uPic/uFo2bN.png) 
 
 ## 🕸 网站 
 
-### [caesium-image-compressor](https://caesium.app/)
+### [aiwallpaper](https://aiwallpaper.shop/)
 
-免费开源的图片压缩工具：
+`AI` 生成高清壁纸，项目开源在：[all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper)。
 
-![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.png)
+开源代码包括：
 
-还支持[桌面端](https://github.com/Lymphatus/caesium-image-compressor)：
+- nextjs 全栈开发 API 和 Web 
+- dalle-3 绘图对接 
+- aws s3 图片上传 
+- postgres 数据读写 
+- 谷歌登录 
+- stripe
 
-![caesium-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/caesium-image-compressor.png) 
+非常适合参考学习，用来做一些小而美的 `AI` 应用。 
 
-### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
+### [cook](https://github.com/YunYouJun/cook)
 
-软件镜像站：
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
+![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
 
-### [FRE321](https://www.fre321.com/)
+### [workout](https://workout.lol/)
 
-原本 fre123.com 被污染了，所以 301 到新的域名 [https://www.fre321.com](https://www.fre321.com) 一直在用的朋友请收藏下哈，老胡也再次和大家介绍下目前的功能：
+免费[开源-workout-lol](https://github.com/workout-lol/workout-lol)的健身网站，选择你拥有的器材、锻炼的肌肉位置，网站便会为你制定锻炼计划：
 
-- 首页影视、动漫、软件、电子书、音乐等资源导航
-- 番剧搜索
-- 技术、新闻信息流
-- 周刊聚合页面
-- 新功能持续开发中
-
-![FRE321](https://images-1252557999.file.myqcloud.com/uPic/FRE321.jpg) 
+![workout](https://images-1252557999.file.myqcloud.com/uPic/workout.jpg) 
 
 ## ✍️ 说明
 
