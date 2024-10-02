@@ -5,86 +5,90 @@
 
 ## 🎯 项目 
 
-### [outline](https://github.com/outline/outline)
+### [photoprism](https://github.com/photoprism/photoprism)
 
-使用 `React &Node.js` 构建的协作知识库，支持团队协作，样式美观，可自建：
+基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
 
-![outline](https://images-1252557999.file.myqcloud.com/uPic/outline.jpg) 
+![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
 
-### [Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)
+### [laf](https://github.com/labring/laf)
 
-该扩展程序允许您阅读实施付费墙的（支持的）网站上的文章。您还可以将域名添加为自定义网站，并尝试绕过付费墙。类似之前推荐过的：
+laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
 
-- https://github.com/everywall/ladder
-- https://12ft.io/
-- https://1ft.io/ 
+- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
+- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
+- 云数据库，为应用开发提供开箱即用的数据库服务
+- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
+- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
+- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
+- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
+- WebSocket，应用支持长连接，业务无死角
 
-### [KillWxapkg](https://github.com/Ackites/KillWxapkg)
+![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
 
-一个用于自动化反编译微信小程序的工具，小程序安全利器，自动解密，解包，可最大程度还原工程目录。 
+### [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)
+
+基于 `ChatGPT` 实现的代码解释器，只需向 `OpenAI` 模型提出请求，它就会为您生成并执行代码：
+
+![gpt-code-ui](https://images-1252557999.file.myqcloud.com/uPic/gpt-code-ui.png) 
 
 ## 🤖 软件 
 
-### [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
+### [Robo 3T](https://github.com/Studio3T/robomongo)
 
-安卓的 `BiliBili、NicoNico、YouTube` 替换客户端，支持弹幕、评论、登录下载：
+本人常用的一款MongoDB跨平台管理软件，开源免费：
 
-![pipepipe](https://images-1252557999.file.myqcloud.com/uPic/pipepipe.jpg) 
+![robomongo](https://images-1252557999.file.myqcloud.com/uPic/robomongo.jpg) 
 
-### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
+### [polyglot](https://github.com/liou666/polyglot)
 
-基于 Electron + Vue + ffmpeg 的 GUI：
+Polyglot是一款多平台的桌面端应用程序。基于ChatGPT和Azure人工智能语言模型作为底层服务，使用Vue3+TS技术栈构建，旨在提供一个易于使用的语言练习平台，方便进行多语种的口语练习：
 
-![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
+![polyglot](https://images-1252557999.file.myqcloud.com/uPic/polyglot.png) 
 
-### [Pearcleaner](https://github.com/alienator88/Pearcleaner)
+### [JPEGView](https://github.com/sylikc/jpegview)
 
-一个专为 `Mac` 设计的应用卸载工具：
-
-![baJDOT](https://images-1252557999.file.myqcloud.com/uPic/baJDOT.png) 
+`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
 
 ## 👀 资料 
 
-### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
+### [2d2d](https://2d2d.io/)
 
-一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
+《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建议开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
 
-![NhkQDk](https://images-1252557999.file.myqcloud.com/uPic/NhkQDk.jpg) 
+![2d2d](https://images-1252557999.file.myqcloud.com/uPic/2d2d.jpg) 
 
-### [现代 JavaScript 教程](https://zh.javascript.info/)
+### [moderncss](https://moderncss.dev/)
 
-以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识：
+一份现代 `CSS` 教程，偏向有 `CSS` 的基础的前端开发者：
 
-![javascript_info](https://images-1252557999.file.myqcloud.com/uPic/javascript_info.jpg) 
+![moderncss](https://images-1252557999.file.myqcloud.com/uPic/moderncss.jpg) 
 
-### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
+### [promptingguide.ai](https://www.promptingguide.ai/zh)
 
-《TCP/IP网络编程》(韩-尹圣雨)学习笔记
+关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
 
-![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
+![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
 
 ## 🕸 网站 
 
-### [scribblediffusion.com](https://scribblediffusion.com/)
+### [codrops](https://tympanus.net/codrops/demos/)
 
-随便画一画，生成美观的图片：
+可免费下载使用的原型动画 UI 布局（ 500+ free demos）：
 
-![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
+![6690d09244aa9](https://img.fre123.com/i/2024/07/12/6690d09244aa9.jpg) 
 
-### [tgscan](https://tgscan.xyz/)
+### [workout](https://workout.lol/)
 
-免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
+免费[开源-workout-lol](https://github.com/workout-lol/workout-lol)的健身网站，选择你拥有的器材、锻炼的肌肉位置，网站便会为你制定锻炼计划：
 
-- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
-- 网页：[tgscan.xyz](https://tgscan.xyz/)
+![workout](https://images-1252557999.file.myqcloud.com/uPic/workout.jpg) 
 
-![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
+### [Kimi](https://kimi.moonshot.cn/ "Kimi")
 
-### [sayhello](https://beta.sayhello.so/)
+当前挺火的国产 AI 大模型问答网站，免费使用，已经支持 200 万字上下文：
 
-面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
-
-![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+![kimi](https://images-1252557999.file.myqcloud.com/uPic/kimi.jpg) 
 
 ## ✍️ 说明
 
