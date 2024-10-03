@@ -5,90 +5,89 @@
 
 ## 🎯 项目 
 
-### [photoprism](https://github.com/photoprism/photoprism)
+### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
 
-基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
+一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
 
-![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
+![ikea-low-price](https://images-1252557999.file.myqcloud.com/uPic/ikea-low-price.png) 
 
-### [laf](https://github.com/labring/laf)
+### [instantbox](https://github.com/instantbox/instantbox)
 
-laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
+可以在任意浏览器中快速启动临时 `Linux` 系统并提供即时 `webshell` 访问，它可用于演示、教学、灵感迸发时提供干净环境、设备管理、开源项目实验及软件性能测试等多种用途。支持的 Linux 发行版包括 Ubuntu、CentOS、Arch Linux、Debian、Fedora 和 Alpine。
 
-- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
-- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
-- 云数据库，为应用开发提供开箱即用的数据库服务
-- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
-- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
-- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
-- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
-- WebSocket，应用支持长连接，业务无死角
+![instantbox](https://images-1252557999.file.myqcloud.com/uPic/instantbox.jpg) 
 
-![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
+### [cadvisor](https://github.com/google/cadvisor)
 
-### [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)
+一个免费开源的容器监控工具，可以实时统计容器运行时占用的资源：
 
-基于 `ChatGPT` 实现的代码解释器，只需向 `OpenAI` 模型提出请求，它就会为您生成并执行代码：
+- CPU 利用率
+- 内存使用量
+- 网络传输等信息
 
-![gpt-code-ui](https://images-1252557999.file.myqcloud.com/uPic/gpt-code-ui.png) 
+同时提供了 Web 可视化页面，支持 `prometheus` 格式输出，非常优秀。
+
+![cadvisor](https://images-1252557999.file.myqcloud.com/uPic/cadvisor.jpg)
+
+如果使用过程有镜像代理问题，可以参考 [gcr.io_mirror](https://github.com/anjia0532/gcr.io_mirror) 项目。 
 
 ## 🤖 软件 
 
-### [Robo 3T](https://github.com/Studio3T/robomongo)
+### [B站录播姬](https://rec.danmuji.org/)
 
-本人常用的一款MongoDB跨平台管理软件，开源免费：
+一个方便好用免费开源的哔哩哔哩直播录制工具：
 
-![robomongo](https://images-1252557999.file.myqcloud.com/uPic/robomongo.jpg) 
+![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
 
-### [polyglot](https://github.com/liou666/polyglot)
+### [Olauncher](https://github.com/tanujnotes/Olauncher)
 
-Polyglot是一款多平台的桌面端应用程序。基于ChatGPT和Azure人工智能语言模型作为底层服务，使用Vue3+TS技术栈构建，旨在提供一个易于使用的语言练习平台，方便进行多语种的口语练习：
+适用于 `Android` 的最小 `AF` 启动器。减少您在屏幕上浪费的时间，提供日常壁纸，非常优雅简洁，效果上来看适合英文用户：
 
-![polyglot](https://images-1252557999.file.myqcloud.com/uPic/polyglot.png) 
+![Olauncher](https://images-1252557999.file.myqcloud.com/uPic/Olauncher.jpg) 
 
-### [JPEGView](https://github.com/sylikc/jpegview)
+### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
 
-`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
+基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
+
+![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
 
 ## 👀 资料 
 
-### [2d2d](https://2d2d.io/)
+### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
 
-《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建议开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
+收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
 
-![2d2d](https://images-1252557999.file.myqcloud.com/uPic/2d2d.jpg) 
+![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
 
-### [moderncss](https://moderncss.dev/)
+### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
 
-一份现代 `CSS` 教程，偏向有 `CSS` 的基础的前端开发者：
+《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
 
-![moderncss](https://images-1252557999.file.myqcloud.com/uPic/moderncss.jpg) 
+![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
 
-### [promptingguide.ai](https://www.promptingguide.ai/zh)
+### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
 
-关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
-
-![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
+这里有比较全面的时间序列数据相关资源。 
 
 ## 🕸 网站 
 
-### [codrops](https://tympanus.net/codrops/demos/)
+### [yesicon.app](https://yesicon.app/)
 
-可免费下载使用的原型动画 UI 布局（ 500+ free demos）：
+开源图标库聚合网站：
 
-![6690d09244aa9](https://img.fre123.com/i/2024/07/12/6690d09244aa9.jpg) 
+![yesicon](https://images-1252557999.file.myqcloud.com/uPic/yesicon.jpg) 
 
-### [workout](https://workout.lol/)
+### [mlsub](https://mlsub.net/)
 
-免费[开源-workout-lol](https://github.com/workout-lol/workout-lol)的健身网站，选择你拥有的器材、锻炼的肌肉位置，网站便会为你制定锻炼计划：
+一个专注哆啦A梦和蜡笔小新的动漫网站：
 
-![workout](https://images-1252557999.file.myqcloud.com/uPic/workout.jpg) 
+![mlsub](https://images-1252557999.file.myqcloud.com/uPic/mlsub.jpg) 
 
-### [Kimi](https://kimi.moonshot.cn/ "Kimi")
+### [jellylade](https://app.jellylade.com/)
 
-当前挺火的国产 AI 大模型问答网站，免费使用，已经支持 200 万字上下文：
+美化截图，可以选择各种设备：
 
-![kimi](https://images-1252557999.file.myqcloud.com/uPic/kimi.jpg) 
+![jellylade](https://images-1252557999.file.myqcloud.com/uPic/jellylade.jpg) 
 
 ## ✍️ 说明
 
