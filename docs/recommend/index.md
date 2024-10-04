@@ -5,89 +5,101 @@
 
 ## 🎯 项目 
 
-### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
+### [floccus](https://github.com/floccusaddon/floccus)
 
-一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
+`Floccus` 是一个开源的浏览器书签同步项目，它支持 `Firefox、Chrome、Edge`等浏览器书签同步：
 
-![ikea-low-price](https://images-1252557999.file.myqcloud.com/uPic/ikea-low-price.png) 
+![floccus](https://images-1252557999.file.myqcloud.com/uPic/floccus.jpg) 
 
-### [instantbox](https://github.com/instantbox/instantbox)
+### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
 
-可以在任意浏览器中快速启动临时 `Linux` 系统并提供即时 `webshell` 访问，它可用于演示、教学、灵感迸发时提供干净环境、设备管理、开源项目实验及软件性能测试等多种用途。支持的 Linux 发行版包括 Ubuntu、CentOS、Arch Linux、Debian、Fedora 和 Alpine。
+如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
 
-![instantbox](https://images-1252557999.file.myqcloud.com/uPic/instantbox.jpg) 
+- 教程
+- 软件
+- 工具&服务
+- 社区
+- ......
 
-### [cadvisor](https://github.com/google/cadvisor)
+你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
 
-一个免费开源的容器监控工具，可以实时统计容器运行时占用的资源：
+- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
+- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
 
-- CPU 利用率
-- 内存使用量
-- 网络传输等信息
+![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
 
-同时提供了 Web 可视化页面，支持 `prometheus` 格式输出，非常优秀。
+### [yacd](https://github.com/haishanh/yacd)
 
-![cadvisor](https://images-1252557999.file.myqcloud.com/uPic/cadvisor.jpg)
+一个 `Clash` 仪表盘项目：
 
-如果使用过程有镜像代理问题，可以参考 [gcr.io_mirror](https://github.com/anjia0532/gcr.io_mirror) 项目。 
+![yacd](https://images-1252557999.file.myqcloud.com/uPic/yacd.png) 
 
 ## 🤖 软件 
 
-### [B站录播姬](https://rec.danmuji.org/)
+### [paperlib](https://github.com/GeoffreyChen777/paperlib)
 
-一个方便好用免费开源的哔哩哔哩直播录制工具：
+面向计算机科学的简单开源学术论文管理工具：
 
-![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
+![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
 
-### [Olauncher](https://github.com/tanujnotes/Olauncher)
+### [licecap](https://github.com/justinfrankel/licecap)
 
-适用于 `Android` 的最小 `AF` 启动器。减少您在屏幕上浪费的时间，提供日常壁纸，非常优雅简洁，效果上来看适合英文用户：
+LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
 
-![Olauncher](https://images-1252557999.file.myqcloud.com/uPic/Olauncher.jpg) 
+### [UTM](https://github.com/utmapp/UTM)
 
-### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
+开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
 
-基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
-
-![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
+![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
 
 ## 👀 资料 
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
 
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
 
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
 
-### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
+### [easy_rust](https://github.com/Dhghomon/easy_rust)
 
-《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
+现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
 
-![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
+你可以用以下方式浏览：
 
-### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
+- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
+- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
+- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
 
-这里有比较全面的时间序列数据相关资源。 
+![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
+
+### [大规模并行处理器编程实战第四版](https://fancyerii.github.io/2024/02/20/pmpp/)
+
+关于并行计算的重要参考书籍，这是博客翻译的第四版。介绍了学生和专业人员都适合的并行编程与gpu体系结构的基本概念，详细剖析了编写并行程序所需的各种技术，用案例研究说明了并行程序设计的整个开发过程，即从计算思想开始，直到最终实现高效可行的并行程序。 
 
 ## 🕸 网站 
 
-### [yesicon.app](https://yesicon.app/)
+### [xyzrank.com](https://xyzrank.com/)
 
-开源图标库聚合网站：
+中文播客榜单：
 
-![yesicon](https://images-1252557999.file.myqcloud.com/uPic/yesicon.jpg) 
+![xyzrank](https://images-1252557999.file.myqcloud.com/uPic/xyzrank.jpg) 
 
-### [mlsub](https://mlsub.net/)
+### [programcreek](https://www.programcreek.com/)
 
-一个专注哆啦A梦和蜡笔小新的动漫网站：
+网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
 
-![mlsub](https://images-1252557999.file.myqcloud.com/uPic/mlsub.jpg) 
+- [Python](https://www.programcreek.com/python/)
+- [Java](https://www.programcreek.com/java-api-examples/)
+- [C++](https://www.programcreek.com/cpp/)
+- [Scala](https://www.programcreek.com/scala/)
 
-### [jellylade](https://app.jellylade.com/)
+![programcreek](https://images-1252557999.file.myqcloud.com/uPic/YdAEPq.png) 
 
-美化截图，可以选择各种设备：
+### [红白机游戏盒](https://nes.heheda.top/ "红白机游戏盒")
 
-![jellylade](https://images-1252557999.file.myqcloud.com/uPic/jellylade.jpg) 
+在线畅玩经典小游戏：
+
+![heheda](https://images-1252557999.file.myqcloud.com/uPic/heheda.jpg) 
 
 ## ✍️ 说明
 
