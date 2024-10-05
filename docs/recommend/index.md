@@ -5,101 +5,87 @@
 
 ## 🎯 项目 
 
-### [floccus](https://github.com/floccusaddon/floccus)
+### [lavague](https://docs.lavague.ai/)
 
-`Floccus` 是一个开源的浏览器书签同步项目，它支持 `Firefox、Chrome、Edge`等浏览器书签同步：
+`lavague` 是 `AI Web Agents` 开发框架，它可以作为你的一个基于浏览器的助手来辅助工作，能做什么就取决于你的想象力，老胡目前用来做一些数据自动抓取格式化的工作：
 
-![floccus](https://images-1252557999.file.myqcloud.com/uPic/floccus.jpg) 
+![lavague](https://images-1252557999.file.myqcloud.com/uPic/lavague.jpg) 
 
-### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
+### [vtracer](https://github.com/visioncortex/vtracer)
 
-如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
+可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
 
-- 教程
-- 软件
-- 工具&服务
-- 社区
-- ......
+![vtracer](https://images-1252557999.file.myqcloud.com/uPic/y9m1F5.jpg) 
 
-你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
+### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 
-- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
-- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
+`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
 
-![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
-
-### [yacd](https://github.com/haishanh/yacd)
-
-一个 `Clash` 仪表盘项目：
-
-![yacd](https://images-1252557999.file.myqcloud.com/uPic/yacd.png) 
+![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
 
 ## 🤖 软件 
 
-### [paperlib](https://github.com/GeoffreyChen777/paperlib)
+### [VeraCrypt](https://veracrypt.fr/en/Home.html)
 
-面向计算机科学的简单开源学术论文管理工具：
+`VeraCrypt` 是一款著名的跨平台、开源磁盘加密工具：
 
-![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
+![VeraCrypt](https://images-1252557999.file.myqcloud.com/uPic/VeraCrypt.jpg) 
 
-### [licecap](https://github.com/justinfrankel/licecap)
+### [tiny-rdm](https://github.com/tiny-craft/tiny-rdm)
 
-LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
+`Tiny RDM` 是一款适用于 `Mac、 Windows & Linux` 的现代轻量级跨平台 `Redis` 桌面管理器：
 
-### [UTM](https://github.com/utmapp/UTM)
+![tiny-rdm](https://images-1252557999.file.myqcloud.com/uPic/tiny-rdm.png)
 
-开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
+同类型软件还推荐[AnotherRedisDesktopManager](https://weekly.howie6879.com/2022/04-25~05-01.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC037%E6%9C%9F%EF%BC%89.html#anotherredisdesktopmanager)。 
 
-![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
+### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
+
+`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
+
+![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
 
 ## 👀 资料 
 
-### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
+### [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 
-陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
+微软免费课程：12堂课入门生成式AI，从而开始构建你自己的生成式人工智能应用程序：
 
-![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
+![generative-ai-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/generative-ai-for-beginners.png) 
 
-### [easy_rust](https://github.com/Dhghomon/easy_rust)
+### [MySQL&PG 数据库教程](https://www.sjkjc.com/mysql/)
 
-现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
+一个专门讲数据库教程的资料网站：
 
-你可以用以下方式浏览：
+![sjkjc](https://images-1252557999.file.myqcloud.com/uPic/sjkjc.jpg) 
 
-- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
-- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
-- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
+### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
 
-![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
+一份循序渐进的 `k8s` 教程：
 
-### [大规模并行处理器编程实战第四版](https://fancyerii.github.io/2024/02/20/pmpp/)
-
-关于并行计算的重要参考书籍，这是博客翻译的第四版。介绍了学生和专业人员都适合的并行编程与gpu体系结构的基本概念，详细剖析了编写并行程序所需的各种技术，用案例研究说明了并行程序设计的整个开发过程，即从计算思想开始，直到最终实现高效可行的并行程序。 
+![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
 
 ## 🕸 网站 
 
-### [xyzrank.com](https://xyzrank.com/)
+### [网道](https://wangdoc.com/)
 
-中文播客榜单：
+前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
 
-![xyzrank](https://images-1252557999.file.myqcloud.com/uPic/xyzrank.jpg) 
+目前提供了不少教程，对于初学者是非常友好的：
 
-### [programcreek](https://www.programcreek.com/)
+![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
 
-网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
+### [LLM Visualization](https://bbycroft.net/llm)
 
-- [Python](https://www.programcreek.com/python/)
-- [Java](https://www.programcreek.com/java-api-examples/)
-- [C++](https://www.programcreek.com/cpp/)
-- [Scala](https://www.programcreek.com/scala/)
+将 GPT LLM 大模型进行可视化分析：
 
-![programcreek](https://images-1252557999.file.myqcloud.com/uPic/YdAEPq.png) 
+![bbycroft](https://images-1252557999.file.myqcloud.com/uPic/bbycroft.jpg) 
 
-### [红白机游戏盒](https://nes.heheda.top/ "红白机游戏盒")
+### [namebeta](https://namebeta.com/)
 
-在线畅玩经典小游戏：
+输入你想要的域名，各方比价：
 
-![heheda](https://images-1252557999.file.myqcloud.com/uPic/heheda.jpg) 
+![namebeta_web](https://images-1252557999.file.myqcloud.com/uPic/namebeta_web.jpg) 
 
 ## ✍️ 说明
 
