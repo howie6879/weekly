@@ -5,87 +5,87 @@
 
 ## 🎯 项目 
 
-### [lavague](https://docs.lavague.ai/)
+### [sonic](https://github.com/go-sonic/sonic)
 
-`lavague` 是 `AI Web Agents` 开发框架，它可以作为你的一个基于浏览器的助手来辅助工作，能做什么就取决于你的想象力，老胡目前用来做一些数据自动抓取格式化的工作：
+`Sonic` 是 `Go` 开发的博客平台，简单而强大：
 
-![lavague](https://images-1252557999.file.myqcloud.com/uPic/lavague.jpg) 
+![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
 
-### [vtracer](https://github.com/visioncortex/vtracer)
+### [WeChatMsg](https://github.com/LC044/WeChatMsg)
 
-可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
+提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告：
 
-![vtracer](https://images-1252557999.file.myqcloud.com/uPic/y9m1F5.jpg) 
+![WeChatMsg](https://images-1252557999.file.myqcloud.com/uPic/WeChatMsg.png) 
 
-### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
+### [law-cn-ai](https://github.com/lvwzhen/law-cn-ai)
 
-`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
+AI 法律助手:
 
-![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
+![law-cn-ai](https://images-1252557999.file.myqcloud.com/uPic/law-cn-ai.jpg)
+
+也可以[在线](https://law-cn-ai.vercel.app/)访问。 
 
 ## 🤖 软件 
 
-### [VeraCrypt](https://veracrypt.fr/en/Home.html)
+### [IconChanger](https://github.com/underthestars-zhy/IconChanger)
 
-`VeraCrypt` 是一款著名的跨平台、开源磁盘加密工具：
+`IconChanger` 是一个可以更换App图标的应用程序，它简化了你更换图标的流程：
 
-![VeraCrypt](https://images-1252557999.file.myqcloud.com/uPic/VeraCrypt.jpg) 
+![IconChanger](https://images-1252557999.file.myqcloud.com/uPic/IconChanger.png) 
 
-### [tiny-rdm](https://github.com/tiny-craft/tiny-rdm)
+### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-`Tiny RDM` 是一款适用于 `Mac、 Windows & Linux` 的现代轻量级跨平台 `Redis` 桌面管理器：
+监控你的应用流量，跨平台：
 
-![tiny-rdm](https://images-1252557999.file.myqcloud.com/uPic/tiny-rdm.png)
+![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
 
-同类型软件还推荐[AnotherRedisDesktopManager](https://weekly.howie6879.com/2022/04-25~05-01.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC037%E6%9C%9F%EF%BC%89.html#anotherredisdesktopmanager)。 
+### [pho](https://github.com/fregie/pho)
 
-### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
+一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
 
-`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
-
-![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
+![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
 
 ## 👀 资料 
 
-### [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 
-微软免费课程：12堂课入门生成式AI，从而开始构建你自己的生成式人工智能应用程序：
+微软设计的机器学习课程，完全面向新手：
 
-![generative-ai-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/generative-ai-for-beginners.png) 
+- 时间：12周
+- 课程：25课
+- 实验：50个 
 
-### [MySQL&PG 数据库教程](https://www.sjkjc.com/mysql/)
+### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
 
-一个专门讲数据库教程的资料网站：
+读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
 
-![sjkjc](https://images-1252557999.file.myqcloud.com/uPic/sjkjc.jpg) 
+![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
 
-### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
+### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
 
-一份循序渐进的 `k8s` 教程：
-
-![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
+本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
 
 ## 🕸 网站 
 
-### [网道](https://wangdoc.com/)
+### [短剧搜索引擎](https://www.fre123.com/sp?ref=weekly)
 
-前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
+比较全面的短剧搜索引擎，数据在夸克网盘，转存即可免费观看全部：
 
-目前提供了不少教程，对于初学者是非常友好的：
+![sp](https://images-1252557999.file.myqcloud.com/uPic/sp.jpg) 
 
-![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
+### [qrgpt.io](https://www.qrgpt.io/)
 
-### [LLM Visualization](https://bbycroft.net/llm)
+`QRGPT` 使您能够在几秒钟内免费生成漂亮的 `AI` 二维码，非常简单：
 
-将 GPT LLM 大模型进行可视化分析：
+![qrgpt](https://images-1252557999.file.myqcloud.com/uPic/qrgpt.jpg) 
 
-![bbycroft](https://images-1252557999.file.myqcloud.com/uPic/bbycroft.jpg) 
+### [squoosh](https://squoosh.app/)
 
-### [namebeta](https://namebeta.com/)
+免费漂亮的在线图片压缩网站：
 
-输入你想要的域名，各方比价：
+![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
 
-![namebeta_web](https://images-1252557999.file.myqcloud.com/uPic/namebeta_web.jpg) 
+其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
 
 ## ✍️ 说明
 
