@@ -23,8 +23,8 @@ document.addEventListener("DOMContentLoaded", function () {
   // link.href = "https://www.fre123.com/weekly?from=weekly";
   // link.textContent = "🔥 老胡精选周刊大全>>>";
 
-  link.href = "https://www.xiaobot.so?ref=weekly";
-  link.textContent = "🔥 老胡整了个小报童专栏导航>>>";
+  link.href = "https://www.moneysou.com/zsms/8u37db";
+  link.textContent = "🔥 免费搭建小报童专栏导航>>>";
 
   link.target = "_blank";
   popup.appendChild(link);

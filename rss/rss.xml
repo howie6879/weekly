@@ -12,7 +12,65 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sat, 28 Sep 2024 14:21:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 15:25:07 +0000</lastBuildDate>
+    <item>
+      <title>09-30~10-06.老胡的周刊（第162期）.md</title>
+      <link>https://weekly.howie6879.com/2024/09-30~10-06.老胡的周刊（第162期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/09-30~10-06.老胡的周刊（第162期）.html"&gt;09-30~10-06.老胡的周刊（第162期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ccbikai/BroadcastChannel"&gt;BroadcastChannel&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;将你的 &lt;code&gt;Telegram Channel&lt;/code&gt; 转为微博客：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="BroadcastChannel" src="https://images-1252557999.file.myqcloud.com/uPic/Aj9mwD.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ccbikai/Sink"&gt;Sink&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;在 &lt;code&gt;Cloudflare&lt;/code&gt; 上运行的简单、快速、安全的短链项目，还带有分析统计功能：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Sink" src="https://images-1252557999.file.myqcloud.com/uPic/aJnlZg.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/screego/server"&gt;screego&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个开源的屏幕共享工具，专为开发者设计，支持多用户屏幕共享，通过 WebRTC 提供安全传输，具有低延迟和高分辨率的特点，可以通过 Docker 或单个二进制文件简单安装：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="screego" src="https://images-1252557999.file.myqcloud.com/uPic/ijkWli.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/XengShi/materialYouNewTab"&gt;materialYouNewTab&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个简单的新标签（浏览器主页）插件，灵感来自谷歌的 MD 设计，挺漂亮的：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="materialYouNewTab" src="https://images-1252557999.file.myqcloud.com/uPic/MWwtoG.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/MuntashirAkon/AppManager"&gt;AppManager&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个功能全面的 &lt;code&gt;Android&lt;/code&gt; 包管理器和应用查看器，支持复制自由软件的功能，提供了丰富的应用管理和操作功能，如列出应用信息、安装 / 卸载 &lt;code&gt;APK&lt;/code&gt;、备份 / 恢复应用、查看日志等，同时支持根权限和 &lt;code&gt;ADB&lt;/code&gt; 命令，以实现更高级的操作，如撤销权限、修改 &lt;code&gt;APP&lt;/code&gt; 操作模式等：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="AppManager" src="https://images-1252557999.file.myqcloud.com/uPic/zIgjSp.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://beej.us/guide/bgc/"&gt;BGC&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;面向初学者的 C 语言教程：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="BGC" src="https://images-1252557999.file.myqcloud.com/uPic/CtN8CN.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://json4u.cn/"&gt;json4u&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个功能非常强大的 json 可视化和处理工具，提供图形和表格视图模式，支持结构化和文本比较、错误上下文验证、嵌套解析等功能，并且具有用户友好的界面设计：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;图形和表格视图模式&lt;/li&gt;
+&lt;li&gt;结构化和文本比较&lt;/li&gt;
+&lt;li&gt;使用错误上下文进行验证&lt;/li&gt;
+&lt;li&gt;嵌套解析&lt;/li&gt;
+&lt;li&gt;支持jq&lt;/li&gt;
+&lt;li&gt;导入和导出CSV文件&lt;/li&gt;
+&lt;li&gt;设计良好且易于使用的UI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="json4u" src="https://images-1252557999.file.myqcloud.com/uPic/gr5lnQ.png" /&gt;&lt;/p&gt;
+&lt;p&gt;代码是&lt;a href="https://github.com/loggerhead/json4u/"&gt;开源&lt;/a&gt;的。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://selfh.st/"&gt;selfh&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;网站提供了可自建项目的动态，每周更新：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="selfh" src="https://images-1252557999.file.myqcloud.com/uPic/jVlzyp.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">09-30~10-06.老胡的周刊（第162期）.md</guid>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>09-23~09-29.老胡的周刊（第161期）.md</title>
       <link>https://weekly.howie6879.com/2024/09-23~09-29.老胡的周刊（第161期）.html</link>
@@ -1213,70 +1271,6 @@ curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/rel
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">05-20~05-26.老胡的周刊（第143期）.md</guid>
       <pubDate>Sun, 26 May 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>05-13~05-19.老胡的周刊（第142期）.md</title>
-      <link>https://weekly.howie6879.com/2024/05-13~05-19.老胡的周刊（第142期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/05-13~05-19.老胡的周刊（第142期）.html"&gt;05-13~05-19.老胡的周刊（第142期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/TagStudioDev/TagStudio"&gt;TagStudio&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个以用户为中心的照片和文件管理系统：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="TagStudio" src="https://images-1252557999.file.myqcloud.com/uPic/TagStudio.jpeg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/joye61/pic-smaller"&gt;pic-smaller&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;图小小是一个图片压缩工具，基于 &lt;code&gt;Vite+React&lt;/code&gt; 技术栈开发，它可以完全取代类似 &lt;code&gt;TinyPNG&lt;/code&gt; 之类的在线图片压缩工具，且压缩之后视觉表现效果往往更好。但图小小有个更大的优势：通过图小小进行图片压缩完全是基于浏览器本地的，没有任何服务端交互，图片不会上传到远程服务器，所以非常安全，不用担心隐私图片被泄露。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="pic-smaller" src="https://images-1252557999.file.myqcloud.com/uPic/pic-smaller.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/NaiboWang/EasySpider"&gt;EasySpider&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个可视化浏览器自动化测试/数据采集/爬虫软件，可以使用图形化界面，无代码可视化的设计和执行任务。只需要在网页上选择自己想要操作的内容并根据提示框操作即可完成任务的设计和执行。同时软件还可以单独以命令行的方式进行执行，从而可以很方便的嵌入到其他系统中。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="EasySpider" src="https://images-1252557999.file.myqcloud.com/uPic/EasySpider.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Jeric-X/SyncClipboard"&gt;SyncClipboard&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;跨平台剪贴板同步方案，包含服务端客户端：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;剪贴板同步，支持文字、图片和文件。服务器/客户端架构，可以使用客户端内置服务器、独立部署服务器，也可以使用支持WebDAV的网盘作为服务器&lt;/li&gt;
-&lt;li&gt;优化图片类型的剪贴板，功能有：&lt;ul&gt;
-&lt;li&gt;从任意位置复制图片时，可以直接向文件系统粘贴图片文件，反之亦然&lt;/li&gt;
-&lt;li&gt;从浏览器复制图片后，后台下载原图到本地，解决无法从浏览器拷贝动态图的问题（大多网站有认证，适用范围有限，支持bilibili动态图片）&lt;/li&gt;
-&lt;li&gt;从文件系统复制较新格式类型的图片文件时（webp/heic等），在剪贴板内储存gif或jpg格式，用于直接向支持图片的文本框粘贴图片&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="SyncClipboard" src="https://images-1252557999.file.myqcloud.com/uPic/SyncClipboard.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;这个软件解决了老胡多台电脑间的复制同步问题，非常好用，强推，配置也不麻烦。&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/hiddify/hiddify-next"&gt;Hiddify&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;挺好用的网络代理软件，现在主用这个：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="hiddify" src="https://images-1252557999.file.myqcloud.com/uPic/hiddify.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/HandBrake/HandBrake"&gt;HandBrake&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;HandBrake&lt;/code&gt; 是一款开源视频转码器，适用于 &lt;code&gt;Linux、Mac&amp;amp;Windows&lt;/code&gt; 操作系统，老胡仅仅用来做压缩：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="HandBrake" src="https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/staxrip/staxrip"&gt;staxrip&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;StaxRip&lt;/code&gt; 是一个强大的用于 &lt;code&gt;Windows&lt;/code&gt; 的视频/音频编码图形用户界面。
-它执行和控制诸如 &lt;code&gt;x265、mkvmerge、ffmpeg&lt;/code&gt; 等控制台应用程序，并使用基于脚本的帧服务器 A&lt;code&gt;viSynth+和VapourSynth&lt;/code&gt; 进行视频处理。每个项目还可以通过各种事件和设置进行扩展：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="staxrip" src="https://images-1252557999.file.myqcloud.com/uPic/staxrip.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://jeroenjanssens.com/dsatcl/"&gt;Data Science at the Command Line&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;命令行的数据科学，本书演示了如何通过命令行的灵活性帮你成为更高效、更有生产力的数据科学家。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="telegram-cloud-photo-size-5-6181558086683180904-y" src="https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6181558086683180904-y.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://fancyerii.github.io/2024/02/20/pmpp/"&gt;大规模并行处理器编程实战第四版&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;关于并行计算的重要参考书籍，这是博客翻译的第四版。介绍了学生和专业人员都适合的并行编程与gpu体系结构的基本概念，详细剖析了编写并行程序所需的各种技术，用案例研究说明了并行程序设计的整个开发过程，即从计算思想开始，直到最终实现高效可行的并行程序。&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://www.morphic.sh/"&gt;morphic.sh&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个开源的 AI 搜索引擎，支持 &lt;code&gt;Vercel&lt;/code&gt; 自建部署，可选 &lt;code&gt;OpenAI、Gemini&lt;/code&gt;，以及最新的 &lt;code&gt;Llama3&lt;/code&gt; 大模型，网站开源 &lt;a href="https://github.com/miurla/morphic"&gt;morphic&lt;/a&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="morphic" src="https://images-1252557999.file.myqcloud.com/uPic/morphic.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">05-13~05-19.老胡的周刊（第142期）.md</guid>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
