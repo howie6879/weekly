@@ -5,87 +5,92 @@
 
 ## 🎯 项目 
 
-### [sonic](https://github.com/go-sonic/sonic)
+### [floccus](https://github.com/floccusaddon/floccus)
 
-`Sonic` 是 `Go` 开发的博客平台，简单而强大：
+`Floccus` 是一个开源的浏览器书签同步项目，它支持 `Firefox、Chrome、Edge`等浏览器书签同步：
 
-![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
+![floccus](https://images-1252557999.file.myqcloud.com/uPic/floccus.jpg) 
 
-### [WeChatMsg](https://github.com/LC044/WeChatMsg)
+### [docker-wechat](https://github.com/huan/docker-wechat)
 
-提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告：
+盒装微信，在linux下基于Docker技术使用微信客户端：
 
-![WeChatMsg](https://images-1252557999.file.myqcloud.com/uPic/WeChatMsg.png) 
+![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
 
-### [law-cn-ai](https://github.com/lvwzhen/law-cn-ai)
+### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
 
-AI 法律助手:
+阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
 
-![law-cn-ai](https://images-1252557999.file.myqcloud.com/uPic/law-cn-ai.jpg)
+如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
 
-也可以[在线](https://law-cn-ai.vercel.app/)访问。 
+![Infuse](https://images-1252557999.file.myqcloud.com/uPic/Fbred5.png) 
 
 ## 🤖 软件 
 
-### [IconChanger](https://github.com/underthestars-zhy/IconChanger)
+### [CuteGIF](https://github.com/tasy5kg/CuteGIF)
 
-`IconChanger` 是一个可以更换App图标的应用程序，它简化了你更换图标的流程：
+小萌 `GIF` 是一款简洁好用的 `Android` 端视频转 `GIF` 工具：
 
-![IconChanger](https://images-1252557999.file.myqcloud.com/uPic/IconChanger.png) 
+![CuteGIF](https://images-1252557999.file.myqcloud.com/uPic/CuteGIF.jpg) 
 
-### [sniffnet](https://github.com/GyulyVGC/sniffnet)
+### [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)
 
-监控你的应用流量，跨平台：
+基于 `ScreenCapture Kit` 的轻量化多功能 `macOS` 录屏工具：
 
-![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
+![QuickRecorder](https://images-1252557999.file.myqcloud.com/uPic/QuickRecorder.jpg) 
 
-### [pho](https://github.com/fregie/pho)
+### [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
 
-一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
+`ZoomIt` 是一款用于屏幕缩放、注释和录制的演示工具，微软出品（大小仅 1M）：
 
-![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
+![ZoomIt](https://images-1252557999.file.myqcloud.com/uPic/ZoomIt.jpg) 
 
 ## 👀 资料 
 
-### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
 
-微软设计的机器学习课程，完全面向新手：
+一本开源的专门讲解面试关键路径的书籍：
 
-- 时间：12周
-- 课程：25课
-- 实验：50个 
+![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
 
-### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
+夯实计算机基础，该怎么学，这个项目给出了答案：
 
-![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
+![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
 
-### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
+### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
-本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
+吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
+
+- 学习应用开发所需的 prompt engineering 最佳实践
+- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
+- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
+
+![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
 
 ## 🕸 网站 
 
-### [短剧搜索引擎](https://www.fre123.com/sp?ref=weekly)
+### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
 
-比较全面的短剧搜索引擎，数据在夸克网盘，转存即可免费观看全部：
+作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
 
-![sp](https://images-1252557999.file.myqcloud.com/uPic/sp.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/bdd-3d.png)
 
-### [qrgpt.io](https://www.qrgpt.io/)
 
-`QRGPT` 使您能够在几秒钟内免费生成漂亮的 `AI` 二维码，非常简单：
+感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
 
-![qrgpt](https://images-1252557999.file.myqcloud.com/uPic/qrgpt.jpg) 
+### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
 
-### [squoosh](https://squoosh.app/)
+一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
 
-免费漂亮的在线图片压缩网站：
+![shanshui-inf](https://images-1252557999.file.myqcloud.com/uPic/shanshui-inf.jpg) 
 
-![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
+### [ocr.plantree.me](https://ocr.plantree.me/ocr)
 
-其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
+一个基于 `Tesseract` 的简单 `OCR` 软件：
+
+![plantree](https://images-1252557999.file.myqcloud.com/uPic/plantree.jpg) 
 
 ## ✍️ 说明
 
