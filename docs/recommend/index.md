@@ -5,124 +5,106 @@
 
 ## 🎯 项目 
 
-### [sql-studio](https://github.com/frectonz/sql-studio)
+### [czkawka](https://github.com/qarmin/czkawka)
 
-SQL 数据库浏览器，支持 `SQLite、libSQL、PostgreSQL、MySQL&DuckDB`，可以理解成一个简洁轻量的数据库客户端，安装使用也很简单：
+一款简单、快速和免费的开源跨平台应用程序，可以从您的计算机中删除不必要的文件。
 
-```shell
-curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/releases/download/0.1.23/sql-studio-installer.sh | sh
-# 以周刊数据库为例
-sql-studio --address=0.0.0.0:3030 sqlite /Users/howie/Documents/workspace/weekly/weekly.db
-```
+支持扫描计算机上重复、空文件夹、大文件、相似图像/视频/音乐、无效/损坏文件等内容，扫描速度极快。
 
-这样通过 Web 即可查看数据库信息：
+![czkawka](https://images-1252557999.file.myqcloud.com/uPic/czkawka.jpg) 
 
-- 数据库整体元数据信息概览
-- 表格数据浏览
-- 自定义查询（提示不全面，如果能接入 AI 感觉会更好）
+### [apitable](https://github.com/apitable/apitable)
 
-![sql-studio](https://images-1252557999.file.myqcloud.com/uPic/sql-studio.jpg) 
+> [vika](https://vika.cn/?home=1) 维格表作为新一代数据生产力平台，是一款面向 API 的智能多维表格。
+> 它将复杂的可视化数据库、电子表格、实时在线协同、低代码开发技术四合为一，就连一行代码都不懂的普通职员都能轻松上手获得 IT 能力，从而极大降低企业数字化成本。
 
-### [outline](https://github.com/outline/outline)
+ [vika](https://vika.cn/?home=1) 维格表推出的开源社区版——「[APITable](https://github.com/apitable/apitable)」，这意味着，你可以通过免费开源的多维表格技术去创造更多有趣的事物，可以看出这家公司格局很大：
+ 
+ ![apitable](https://images-1252557999.file.myqcloud.com/uPic/apitable.png) 
 
-使用 `React &Node.js` 构建的协作知识库，支持团队协作，样式美观，可自建：
+### [DataEase](https://github.com/dataease/dataease)
 
-![outline](https://images-1252557999.file.myqcloud.com/uPic/outline.jpg) 
-
-### [neko](https://github.com/m1k1o/neko)
-
-可在服务器上运行的浏览器，核心功能如下：
-
-- 娱乐层面可以在你的服务器上面部署这个虚拟浏览器，你会很**自由**
-- 公司层面，有一些服务和限制你搭建 VPN 的话，你可以开放虚拟浏览器来进行内部服务访问，保证安全性
-- 还有权限管理，也很方便远程演示，操作也还是很流畅的
-
-![neko](https://images-1252557999.file.myqcloud.com/uPic/neko.jpg) 
+DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
 
 ## 🤖 软件 
 
-### [EyesGuard](https://github.com/avestura/EyesGuard)
+### [Tran](https://github.com/Borber/Tran)
 
-`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
+简洁, 快速, 划词翻译：
 
-![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
+- 开箱即用
+- 永久免费使用
+- 谷歌翻译镜像
 
-### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
+![Tran](https://images-1252557999.file.myqcloud.com/uPic/Tran.jpg)
 
-`TinyPNG`的`Mac`客户端：
+其他开源划词翻译软件推荐：
 
-![TinyPNG4Mac](https://images-1252557999.file.myqcloud.com/uPic/TinyPNG4Mac.png) 
+- [pot-desktop](https://github.com/pot-app/pot-desktop)：🌈一个跨平台的划词翻译和OCR软件
+- [Easydict](https://github.com/tisfeng/Easydict)：一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。
+- [TTime](https://github.com/inkTimeRecord/TTime)：🚀 一款简洁高效的输入、截图、划词翻译软件 
 
-### [yarr](https://github.com/nkanaev/yarr)
+### [SwitchHosts](https://github.com/oldj/SwitchHosts)
 
-基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
+`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
 
-```shell
-mkdir -p ./yarr/data
-docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
-```
+![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
+和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
 
-总体来说还是挺简洁轻量的：
+### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
 
-![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
+超方便的微信视频号下载器：
+
+- 支持实时捕获视频号的视频地址
+- 捕获后，可进行预览和下载
+- 支持 Win/Mac
+
+![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
 
 ## 👀 资料 
 
-### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
+### [curriculum](https://github.com/TheOdinProject/curriculum)
 
-清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
+`The Odin Project`（简称 TOP）是一个开源的全栈 web 开发教育课程，旨在通过一系列课程和项目帮助学习者掌握前端和后端技能：
 
-更新记录如下：
+![k6tcen](https://images-1252557999.file.myqcloud.com/uPic/k6tcen.png) 
 
-- 2020-11-03：环境搭建完成，开始着手编写文档。
-- 2020-11-13：第一章完成。
-- 2020-11-27：第二章完成。
-- 2020-12-20：前七章代码完成。
-- 2021-01-10：第三章完成。
-- 2021-01-18：加入第零章。
-- 2021-01-30：第四章完成。
-- 2021-02-16：第五章完成。
-- 2021-02-20：第六章完成。
-- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
-- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
+### [Recommender_System](https://github.com/solidglue/Recommender_System)
 
-热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
+推荐系统入门指南，全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。 
 
-### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
+### [Ahrefs Blog SEO 文章列表](https://xuxuyu.notion.site/1468d1c9ea65473b934917d8ab25979b?v=dcaec075d4b34a8e8af5be0bc9a259a0)
 
-机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
+对 `SEO` 有兴趣可以看看：
 
-![openmlsys](https://images-1252557999.file.myqcloud.com/uPic/openmlsys.jpg) 
-
-### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
-
-《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
-
-![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
+![Ahrefs](https://images-1252557999.file.myqcloud.com/uPic/Ahrefs.jpg) 
 
 ## 🕸 网站 
 
-### [picdiet.eula.club](https://picdiet.eula.club/)
+### [free-font](https://free-font.vercel.app/)
 
-`Picdiet` 是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏：
+收录商用免费汉字字体，还包括开源英文字体 `Free Font`:
 
-![picdiet](https://images-1252557999.file.myqcloud.com/uPic/picdiet.jpg) 
+![free-font](https://images-1252557999.file.myqcloud.com/uPic/free-font.png)
 
-### [send.internxt.com](https://send.internxt.com/)
+项目开源在 [github](https://github.com/jaywcjlove/free-font)。 
 
-文件上传分享网站，如果有临时文件传输的场景，可以使用：
+### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
 
-![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
+一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
 
-### [caesium-image-compressor](https://caesium.app/)
+![shanshui-inf](https://images-1252557999.file.myqcloud.com/uPic/shanshui-inf.jpg) 
 
-免费开源的图片压缩工具：
+### [appbaseio/mirage](https://opensource.appbase.io/mirage/)
 
-![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.png)
+这是一个用于简化 `ES` 查询语句编写的开源项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句：
 
-还支持[桌面端](https://github.com/Lymphatus/caesium-image-compressor)：
+- 开源代码地址：[https://github.com/appbaseio/mirage](https://github.com/appbaseio/mirage)
+- 访问地址： [https://opensource.appbase.io/mirage/](https://opensource.appbase.io/mirage/)
 
-![caesium-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/caesium-image-compressor.png) 
+当然你也可以本机自行部署，非常方便，比较遗憾的是目前只支持到 `-v7.x`：
+
+![mirage](https://images-1252557999.file.myqcloud.com/uPic/mirage.png) 
 
 ## ✍️ 说明
 
