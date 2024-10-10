@@ -5,106 +5,111 @@
 
 ## 🎯 项目 
 
-### [czkawka](https://github.com/qarmin/czkawka)
+### [TheTNB_panel](https://github.com/TheTNB/panel)
 
-一款简单、快速和免费的开源跨平台应用程序，可以从您的计算机中删除不必要的文件。
+耗子面板是使用 `Golang + Vue` 开发的开源轻量 Linux 服务器运维管理面板:
 
-支持扫描计算机上重复、空文件夹、大文件、相似图像/视频/音乐、无效/损坏文件等内容，扫描速度极快。
+- 极低占用: 在 Debian 12 下部署面板 + LNMP 环境，内存占用不到 500 MB，遥遥领先于使用容器化的其他面板。
+- 低破坏性: 面板的设计理念是尽可能减少对系统的额外修改，在同类面板中，我们对系统的修改最少。
+- 追随时代: 面板所有组件均走在时代前沿，更新快，功能强大，安全性有保障。
+- 高效运维: 面板 UI 界面简洁，操作简单，无需繁琐的配置，即可快速部署各类环境、调整应用设置。
+- 离线运行: 面板运行可不依赖任何外部服务，你甚至可以在部署完成后停止面板进程，不会对已部署服务造成任何影响。
+- 久经考验: 我们生产环境自 2022 年即开始使用，已稳定运行 1 年以上无事故。
+- 开源开放: 面板开源，你可以自由修改、审计面板源码，安全性有保障。
 
-![czkawka](https://images-1252557999.file.myqcloud.com/uPic/czkawka.jpg) 
+![panel](https://images-1252557999.file.myqcloud.com/uPic/panel.png) 
 
-### [apitable](https://github.com/apitable/apitable)
+### [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)
 
-> [vika](https://vika.cn/?home=1) 维格表作为新一代数据生产力平台，是一款面向 API 的智能多维表格。
-> 它将复杂的可视化数据库、电子表格、实时在线协同、低代码开发技术四合为一，就连一行代码都不懂的普通职员都能轻松上手获得 IT 能力，从而极大降低企业数字化成本。
+`Stable Diffusion`（最近很火的 AI 文字生成图片的模型）在我之前好几期周刊都出现过，这次带来的是首个将 `Stable Diffusion Model` 扩展到浏览器环境部署运行的项目：
 
- [vika](https://vika.cn/?home=1) 维格表推出的开源社区版——「[APITable](https://github.com/apitable/apitable)」，这意味着，你可以通过免费开源的多维表格技术去创造更多有趣的事物，可以看出这家公司格局很大：
- 
- ![apitable](https://images-1252557999.file.myqcloud.com/uPic/apitable.png) 
+![web-stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/web-stable-diffusion.jpg) 
 
-### [DataEase](https://github.com/dataease/dataease)
+### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
 
-DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
+一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
+
+![ikea-low-price](https://images-1252557999.file.myqcloud.com/uPic/ikea-low-price.png) 
 
 ## 🤖 软件 
 
-### [Tran](https://github.com/Borber/Tran)
+### [哔哩](https://github.com/Richasy/Bili.Uwp)
 
-简洁, 快速, 划词翻译：
+一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
 
-- 开箱即用
-- 永久免费使用
-- 谷歌翻译镜像
+![bili](https://images-1252557999.file.myqcloud.com/uPic/lnDWzU.jpg) 
 
-![Tran](https://images-1252557999.file.myqcloud.com/uPic/Tran.jpg)
+### [ponymusic](https://github.com/wangchenyan/ponymusic)
 
-其他开源划词翻译软件推荐：
+使用「网易云音乐API」的安卓在线音乐播放器：
 
-- [pot-desktop](https://github.com/pot-app/pot-desktop)：🌈一个跨平台的划词翻译和OCR软件
-- [Easydict](https://github.com/tisfeng/Easydict)：一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。
-- [TTime](https://github.com/inkTimeRecord/TTime)：🚀 一款简洁高效的输入、截图、划词翻译软件 
+- 网易云音乐基本功能
+- 添加和播放本地音乐文件
+- 专辑封面显示
+- 歌词显示，支持拖动歌词调节播放进度
+- 通知栏控制
+- 夜间模式
+- 定时关闭
 
-### [SwitchHosts](https://github.com/oldj/SwitchHosts)
+![ponymusic](https://images-1252557999.file.myqcloud.com/uPic/ponymusic.jpg) 
 
-`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
+### [EcoPaste](https://github.com/ayangweb/EcoPaste)
 
-![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
-和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
+一款开源的跨平台剪切板管理工具：
 
-### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
+- 使用 Tauri 构建项目，使其更加小巧精致，资源占用更少，同时适配多个平台。
+- 应用常驻后台，通过自定义快捷键一键唤醒，节省时间，提高效率。
+- 所有剪切板内容均在本地存储，确保数据隐私和安全。
+- 支持纯文本、富文本、HTML、图片和文件类型。
+- 根据剪切板内容类型自动进行分组，便于高效管理。
+- 支持收藏剪切板内容，便于快速访问和管理重要信息。
+- 内置搜索功能，轻松找到剪切板上的任何内容。
+- 图片内置系统 OCR 功能，支持文本和二维码识别。
+- 提供丰富的右键菜单，增强操作便捷性。
 
-超方便的微信视频号下载器：
-
-- 支持实时捕获视频号的视频地址
-- 捕获后，可进行预览和下载
-- 支持 Win/Mac
-
-![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
+![EcoPaste](https://images-1252557999.file.myqcloud.com/uPic/EcoPaste.jpg) 
 
 ## 👀 资料 
 
-### [curriculum](https://github.com/TheOdinProject/curriculum)
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
 
-`The Odin Project`（简称 TOP）是一个开源的全栈 web 开发教育课程，旨在通过一系列课程和项目帮助学习者掌握前端和后端技能：
+站点可靠性工作手册：
 
-![k6tcen](https://images-1252557999.file.myqcloud.com/uPic/k6tcen.png) 
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
-### [Recommender_System](https://github.com/solidglue/Recommender_System)
+### [rust-by-practice](https://github.com/sunface/rust-by-practice)
 
-推荐系统入门指南，全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。 
+通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
 
-### [Ahrefs Blog SEO 文章列表](https://xuxuyu.notion.site/1468d1c9ea65473b934917d8ab25979b?v=dcaec075d4b34a8e8af5be0bc9a259a0)
+![](https://images-1252557999.file.myqcloud.com/uPic/f4zLoa.png) 
 
-对 `SEO` 有兴趣可以看看：
+### [rust-course](https://github.com/sunface/rust-course)
 
-![Ahrefs](https://images-1252557999.file.myqcloud.com/uPic/Ahrefs.jpg) 
+> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
+
+![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
+
+阅读地址见[course.rs](https://course.rs)。 
 
 ## 🕸 网站 
 
-### [free-font](https://free-font.vercel.app/)
+### [haitang](https://github.com/javayhu/haitang)
 
-收录商用免费汉字字体，还包括开源英文字体 `Free Font`:
+海棠诗社，提供古诗词的数字化收集，可以按照不同方式检索和分类，项目代码完全[开源](https://github.com/javayhu/haitang)：
 
-![free-font](https://images-1252557999.file.myqcloud.com/uPic/free-font.png)
+![haitang](https://images-1252557999.file.myqcloud.com/uPic/haitang.jpg) 
 
-项目开源在 [github](https://github.com/jaywcjlove/free-font)。 
+### [etempmail](https://etempmail.com/zh)
 
-### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
+一个免费提供临时电子邮件服务的网站，可以用来注册并获取需要教育邮箱才能获取的福利。
 
-一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
+![edu_mail](https://images-1252557999.file.myqcloud.com/uPic/edu_mail.png) 
 
-![shanshui-inf](https://images-1252557999.file.myqcloud.com/uPic/shanshui-inf.jpg) 
+### [LLM Visualization](https://bbycroft.net/llm)
 
-### [appbaseio/mirage](https://opensource.appbase.io/mirage/)
+将 GPT LLM 大模型进行可视化分析：
 
-这是一个用于简化 `ES` 查询语句编写的开源项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句：
-
-- 开源代码地址：[https://github.com/appbaseio/mirage](https://github.com/appbaseio/mirage)
-- 访问地址： [https://opensource.appbase.io/mirage/](https://opensource.appbase.io/mirage/)
-
-当然你也可以本机自行部署，非常方便，比较遗憾的是目前只支持到 `-v7.x`：
-
-![mirage](https://images-1252557999.file.myqcloud.com/uPic/mirage.png) 
+![bbycroft](https://images-1252557999.file.myqcloud.com/uPic/bbycroft.jpg) 
 
 ## ✍️ 说明
 
