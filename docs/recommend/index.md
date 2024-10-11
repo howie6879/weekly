@@ -5,111 +5,103 @@
 
 ## 🎯 项目 
 
-### [TheTNB_panel](https://github.com/TheTNB/panel)
+### [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
 
-耗子面板是使用 `Golang + Vue` 开发的开源轻量 Linux 服务器运维管理面板:
+`ArchiveBox` 是一个强大的、可自建的互联网归档解决方案，可以收集、保存和查看你想离线保存的网站：
 
-- 极低占用: 在 Debian 12 下部署面板 + LNMP 环境，内存占用不到 500 MB，遥遥领先于使用容器化的其他面板。
-- 低破坏性: 面板的设计理念是尽可能减少对系统的额外修改，在同类面板中，我们对系统的修改最少。
-- 追随时代: 面板所有组件均走在时代前沿，更新快，功能强大，安全性有保障。
-- 高效运维: 面板 UI 界面简洁，操作简单，无需繁琐的配置，即可快速部署各类环境、调整应用设置。
-- 离线运行: 面板运行可不依赖任何外部服务，你甚至可以在部署完成后停止面板进程，不会对已部署服务造成任何影响。
-- 久经考验: 我们生产环境自 2022 年即开始使用，已稳定运行 1 年以上无事故。
-- 开源开放: 面板开源，你可以自由修改、审计面板源码，安全性有保障。
+![ArchiveBox](https://images-1252557999.file.myqcloud.com/uPic/ArchiveBox.jpg) 
 
-![panel](https://images-1252557999.file.myqcloud.com/uPic/panel.png) 
+### [lobe-chat](https://github.com/lobehub/lobe-chat)
 
-### [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)
+`LobeChat` 是一个开源的、可扩展的（Function Calling）高性能聊天机器人框架，它支持一键免费部署私人 `ChatGPT/LLM` 网页应用程序：
 
-`Stable Diffusion`（最近很火的 AI 文字生成图片的模型）在我之前好几期周刊都出现过，这次带来的是首个将 `Stable Diffusion Model` 扩展到浏览器环境部署运行的项目：
+- 💨 快速部署：支持 Vercel 平台
+-  💎 精致 UI 设计
+-  🗣️ 流畅的对话体验
+-  🧩 支持插件与自定义插件开发
+-  🔒 隐私安全
+-  🤖 自定义助手角色
+-  🌐 自定义域名
+-  🏬 角色市场
 
-![web-stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/web-stable-diffusion.jpg) 
+![lobe-chat](https://images-1252557999.file.myqcloud.com/uPic/lobe-chat.webp) 
 
-### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
+### [LiTiaotiao](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
 
-一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
+前段时间，自动跳过开屏广告 App，**李跳跳**作者遭大厂警告，产品无限期停更。
 
-![ikea-low-price](https://images-1252557999.file.myqcloud.com/uPic/ikea-low-price.png) 
+这是一个收集适用于**李跳跳**的 `App` 自定义规则：
+
+- 基础规则：关闭应用内广告、更新弹窗、青少年模式弹窗、权限索取提示等
+- 增强规则：自动化操作等
+
+也算变相复活李跳跳了，不方便下载的可以关注公众号加我微信我传给你。 
 
 ## 🤖 软件 
 
-### [哔哩](https://github.com/Richasy/Bili.Uwp)
+### [Quake](https://github.com/phodal/quake)
 
-一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
+Quake 是面向极客的知识管理元框架，它可以：
 
-![bili](https://images-1252557999.file.myqcloud.com/uPic/lnDWzU.jpg) 
+- 自由的文本内容管理。Todo 清单、文章管理、书评、笔记等。
+- 构建知识网络体系。定制化 markdown 链接
+- 抓住稍纵即逝的灵感。支持快速启动（CLI、TUI）与全局搜索
+- 自由的呈现画布。DSL 与自由画板
 
-### [ponymusic](https://github.com/wangchenyan/ponymusic)
+![quake](https://images-1252557999.file.myqcloud.com/uPic/quake.gif) 
 
-使用「网易云音乐API」的安卓在线音乐播放器：
+### [bdash](https://github.com/bdash-app/bdash)
 
-- 网易云音乐基本功能
-- 添加和播放本地音乐文件
-- 专辑封面显示
-- 歌词显示，支持拖动歌词调节播放进度
-- 通知栏控制
-- 夜间模式
-- 定时关闭
+用于数据分析的简单 `SQL` 客户端：
 
-![ponymusic](https://images-1252557999.file.myqcloud.com/uPic/ponymusic.jpg) 
+![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
 
-### [EcoPaste](https://github.com/ayangweb/EcoPaste)
+### [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
 
-一款开源的跨平台剪切板管理工具：
+简单的 macOS 菜单栏应用程序，可以方便地和 `Reminders` 进行交互，使用 `SwiftUI` 开发，并使用 `Apple` 提醒事项作为数据源：
 
-- 使用 Tauri 构建项目，使其更加小巧精致，资源占用更少，同时适配多个平台。
-- 应用常驻后台，通过自定义快捷键一键唤醒，节省时间，提高效率。
-- 所有剪切板内容均在本地存储，确保数据隐私和安全。
-- 支持纯文本、富文本、HTML、图片和文件类型。
-- 根据剪切板内容类型自动进行分组，便于高效管理。
-- 支持收藏剪切板内容，便于快速访问和管理重要信息。
-- 内置搜索功能，轻松找到剪切板上的任何内容。
-- 图片内置系统 OCR 功能，支持文本和二维码识别。
-- 提供丰富的右键菜单，增强操作便捷性。
-
-![EcoPaste](https://images-1252557999.file.myqcloud.com/uPic/EcoPaste.jpg) 
+![reminders-menubar](https://images-1252557999.file.myqcloud.com/uPic/reminders-menubar.jpg) 
 
 ## 👀 资料 
 
-### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+### [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
 
-站点可靠性工作手册：
+[《Effective Modern C++ 》](https://cntransgroup.github.io/EffectiveModernCppChinese/)翻译：
 
-![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
+![EffectiveModernCppChinese](https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg) 
 
-### [rust-by-practice](https://github.com/sunface/rust-by-practice)
+### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
 
-通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
+非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/f4zLoa.png) 
+### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
 
-### [rust-course](https://github.com/sunface/rust-course)
-
-> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
-
-![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
-
-阅读地址见[course.rs](https://course.rs)。 
+本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
 
 ## 🕸 网站 
 
-### [haitang](https://github.com/javayhu/haitang)
+### [极简番茄](https://t.kuaitu.cc/)
 
-海棠诗社，提供古诗词的数字化收集，可以按照不同方式检索和分类，项目代码完全[开源](https://github.com/javayhu/haitang)：
+极简优雅的番茄时钟软件，适合做屏保：
 
-![haitang](https://images-1252557999.file.myqcloud.com/uPic/haitang.jpg) 
+![kuaitu](https://images-1252557999.file.myqcloud.com/uPic/kuaitu.jpg) 
 
-### [etempmail](https://etempmail.com/zh)
+### [quanxin](https://quanxin.org/)
 
-一个免费提供临时电子邮件服务的网站，可以用来注册并获取需要教育邮箱才能获取的福利。
+快速、优雅、免费的在线工具，比如：
 
-![edu_mail](https://images-1252557999.file.myqcloud.com/uPic/edu_mail.png) 
+- [IP地址查询](https://quanxin.org/ip)
+- [代码截图工具](https://quanxin.org/code-snapshot)
+- [HTTP 状态码参考表](https://quanxin.org/http-status-code)
+- [Favicon ico图标生成器](https://quanxin.org/favicon)
 
-### [LLM Visualization](https://bbycroft.net/llm)
+![](https://images-1252557999.file.myqcloud.com/uPic/i6hqlr.png) 
 
-将 GPT LLM 大模型进行可视化分析：
+### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
 
-![bbycroft](https://images-1252557999.file.myqcloud.com/uPic/bbycroft.jpg) 
+@妙才投稿，在线学习git命令的网站：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
 
 ## ✍️ 说明
 
