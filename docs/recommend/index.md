@@ -5,103 +5,83 @@
 
 ## 🎯 项目 
 
-### [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
+### [cnchar](https://github.com/theajack/cnchar)
 
-`ArchiveBox` 是一个强大的、可自建的互联网归档解决方案，可以收集、保存和查看你想离线保存的网站：
+功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
 
-![ArchiveBox](https://images-1252557999.file.myqcloud.com/uPic/ArchiveBox.jpg) 
+![cnchar](https://images-1252557999.file.myqcloud.com/uPic/cnchar.jpeg) 
 
-### [lobe-chat](https://github.com/lobehub/lobe-chat)
+### [plane](https://github.com/makeplane/plane)
 
-`LobeChat` 是一个开源的、可扩展的（Function Calling）高性能聊天机器人框架，它支持一键免费部署私人 `ChatGPT/LLM` 网页应用程序：
+概念比较新的项目管理工具，开源的 `JIRA，Linear & Height` 的替代品，`Plane` 以最简单的方式帮助您跟踪问题、冲刺和产品路线图：
 
-- 💨 快速部署：支持 Vercel 平台
--  💎 精致 UI 设计
--  🗣️ 流畅的对话体验
--  🧩 支持插件与自定义插件开发
--  🔒 隐私安全
--  🤖 自定义助手角色
--  🌐 自定义域名
--  🏬 角色市场
+![plane](https://images-1252557999.file.myqcloud.com/uPic/plane.webp) 
 
-![lobe-chat](https://images-1252557999.file.myqcloud.com/uPic/lobe-chat.webp) 
+### [answer](https://github.com/answerdev/answer)
 
-### [LiTiaotiao](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
+基于自己的产品或者项目快速打造一个问答社区：
 
-前段时间，自动跳过开屏广告 App，**李跳跳**作者遭大厂警告，产品无限期停更。
-
-这是一个收集适用于**李跳跳**的 `App` 自定义规则：
-
-- 基础规则：关闭应用内广告、更新弹窗、青少年模式弹窗、权限索取提示等
-- 增强规则：自动化操作等
-
-也算变相复活李跳跳了，不方便下载的可以关注公众号加我微信我传给你。 
+![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
 
 ## 🤖 软件 
 
-### [Quake](https://github.com/phodal/quake)
+### [Gif123](https://github.com/aardio/Gif123)
 
-Quake 是面向极客的知识管理元框架，它可以：
+非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
 
-- 自由的文本内容管理。Todo 清单、文章管理、书评、笔记等。
-- 构建知识网络体系。定制化 markdown 链接
-- 抓住稍纵即逝的灵感。支持快速启动（CLI、TUI）与全局搜索
-- 自由的呈现画布。DSL 与自由画板
+![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg) 
 
-![quake](https://images-1252557999.file.myqcloud.com/uPic/quake.gif) 
+### [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
 
-### [bdash](https://github.com/bdash-app/bdash)
+Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端，首页、书影音、小组、市集及个人中心：
 
-用于数据分析的简单 `SQL` 客户端：
+![FlutterDouBan](https://images-1252557999.file.myqcloud.com/uPic/FlutterDouBan.jpg) 
 
-![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
+### [UTM](https://github.com/utmapp/UTM)
 
-### [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
+开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
 
-简单的 macOS 菜单栏应用程序，可以方便地和 `Reminders` 进行交互，使用 `SwiftUI` 开发，并使用 `Apple` 提醒事项作为数据源：
-
-![reminders-menubar](https://images-1252557999.file.myqcloud.com/uPic/reminders-menubar.jpg) 
+![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
 
 ## 👀 资料 
 
-### [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
+### [Nginx 开发从入门到精通](https://tengine.taobao.org/book/)
 
-[《Effective Modern C++ 》](https://cntransgroup.github.io/EffectiveModernCppChinese/)翻译：
+淘宝团队出品的关于 `Nginx` 模块开发以及内部原理的书：
 
-![EffectiveModernCppChinese](https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg) 
+![tb_nginx](https://images-1252557999.file.myqcloud.com/uPic/tb_nginx.jpg) 
 
-### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
+### [llm-course](https://github.com/mlabonne/llm-course)
 
-非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
+与大型语言模型(LLM)相关的笔记本和文章清单：
 
-### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
+![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
 
-本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
+### [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+
+《Python for Data Analysis》第三版，该书详细介绍了如何使用 `Python` 进行数据分析和数据处理的方法和技巧，适合那些希望使用Python进行数据分析的初学者和有经验的数据分析师：
+
+![wesmckinney](https://images-1252557999.file.myqcloud.com/uPic/wesmckinney.jpg) 
 
 ## 🕸 网站 
 
-### [极简番茄](https://t.kuaitu.cc/)
+### [historyline.online](https://github.com/liujuntao123/chines-history-video)
 
-极简优雅的番茄时钟软件，适合做屏保：
+中国历朝代历史视频讲解，汇聚了B站上综合数据（点赞，播放，投币，收藏）最高的一个/几个视频：
 
-![kuaitu](https://images-1252557999.file.myqcloud.com/uPic/kuaitu.jpg) 
+![historyline](https://images-1252557999.file.myqcloud.com/uPic/historyline.jpg) 
 
-### [quanxin](https://quanxin.org/)
+### [regex.ai](https://regex.ai/)
 
-快速、优雅、免费的在线工具，比如：
+`regex.ai` 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：
 
-- [IP地址查询](https://quanxin.org/ip)
-- [代码截图工具](https://quanxin.org/code-snapshot)
-- [HTTP 状态码参考表](https://quanxin.org/http-status-code)
-- [Favicon ico图标生成器](https://quanxin.org/favicon)
+![regex_ai](https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/i6hqlr.png) 
+### [photo2poem](https://photo2poem.top/)
 
-### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
+每一张照片，都对应一首诗，很有意思：
 
-@妙才投稿，在线学习git命令的网站：
-
-![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
+![photo2poem](https://images-1252557999.file.myqcloud.com/uPic/photo2poem.jpg) 
 
 ## ✍️ 说明
 
