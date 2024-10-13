@@ -5,85 +5,93 @@
 
 ## 🎯 项目 
 
-### [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
+### [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)
 
-用 `Express` 和 `Vue3` 搭建的 `ChatGPT` 演示网页：
+`Stable Diffusion`（最近很火的 AI 文字生成图片的模型）在我之前好几期周刊都出现过，这次带来的是首个将 `Stable Diffusion Model` 扩展到浏览器环境部署运行的项目：
 
-![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
+![web-stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/web-stable-diffusion.jpg) 
 
-### [NocoDB](https://github.com/nocodb/nocodb)
+### [jspaint](https://github.com/1j01/jspaint)
 
-将 `MySQL、PostgreSQL、SQL Server、SQLite 、MariaDB` 转换为智能电子表格：
+怀旧画板项目，`JS Paint` 高度逼真地再现了 `MS Paint` 的每一个工具和菜单，甚至是鲜为人知的功能，它支持主题、附加文件类型和辅助功能，如眼睛凝视模式和语音识别：
 
-![NocoDB](https://images-1252557999.file.myqcloud.com/uPic/NocoDB.png) 
+![jspaint](https://images-1252557999.file.myqcloud.com/uPic/jspaint.jpg)
 
-### [coolify](https://github.com/coollabsio/coolify)
+直接在线体验 👉 [jspaint.app](https://jspaint.app/) 
 
-> `Vercel Netlify Heroku` 开源替代品
+### [icefox](https://github.com/xiaopanglian/icefox)
 
-![coolify](https://images-1252557999.file.myqcloud.com/uPic/coolify.jpeg)
+`Typecho` 微信朋友圈主题:
 
-还可以使用这个项目：[dokploy](https://github.com/dokploy/dokploy)
-
-![dokploy](https://images-1252557999.file.myqcloud.com/uPic/dokploy.png) 
+![icefox](https://images-1252557999.file.myqcloud.com/uPic/icefox.jpg) 
 
 ## 🤖 软件 
 
-### [my-tv](https://github.com/lizongying/my-tv)
+### [GitUp](https://github.com/git-up/GitUp)
 
-安卓电视直播软件，内置直播源：
+简洁的 `Git` 客户端：
 
-![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/GitUp.jpg) 
 
-### [LawRefBook](https://github.com/RanKKI/LawRefBook)
+### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
 
-开源的法律知识速查手册：
+跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
 
-![LawRefBook](https://images-1252557999.file.myqcloud.com/uPic/LawRefBook.png) 
+![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
 
-### [mangerlahn-latest](https://github.com/mangerlahn/latest)
+### [gushi_namer](https://github.com/holynova/gushi_namer)
 
-一款免费开源的macOS应用程序，专门设计用于保持您的所有应用程序处于最新状态。它能够检查您的每一个应用程序，确保您始终拥有最新的更新和功能。
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
 
-![mac_latest](https://images-1252557999.file.myqcloud.com/uPic/mac_latest.jpg) 
+![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
 ## 👀 资料 
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
 
-### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
+- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
+- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
+- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
 
-全面的Webpack教程《深入浅出Webpack》电子书：
+![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
 
-![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
+### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
 
-### [visualize-ml](https://github.com/visualize-ml)
+对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
 
-鸢尾花书：从加减乘除到机器学习，全套7册。
+### [paper-reading](https://github.com/mli/paper-reading)
 
-![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+
+![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
 
 ## 🕸 网站 
 
-### [ossinsight](https://ossinsight.io/)
+### [myfirstnft](https://myfirstnft.info/)
 
-`GitHub` 曾经发通知说在未来某个时间下架 `GitHub Trending`，由于反对声音比较大，所以还保留着 [ossinsight.io](https://ossinsight.io/) 就是做的比较好的替代品：
+我的第一个NFT，在这个网站，你可以：
 
-![ossinsight](https://images-1252557999.file.myqcloud.com/uPic/ossinsight.jpg) 
+- 理解NFT的价值
+- 铸造一个免费的NFT
+- 了解Web3.0
 
-### [mlsub](https://mlsub.net/)
+![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
 
-一个专注哆啦A梦和蜡笔小新的动漫网站：
+### [jpghi](https://jpghi.com/)
 
-![mlsub](https://images-1252557999.file.myqcloud.com/uPic/mlsub.jpg) 
+jpgHi 支持各种类型图片高清无损放大，为模糊不清的图片增加极致细节，提升图片质感：
 
-### [fulltime.ai](https://fulltime.ai/spaces/)
+![jpghi](https://images-1252557999.file.myqcloud.com/uPic/jpghi.jpg) 
 
-搜索体验 288个 `HuggingFace` 空间 `GPU` 上运行的项目：
+### [piqsels](https://www.piqsels.com/)
 
-![fulltime_ai](https://images-1252557999.file.myqcloud.com/uPic/fulltime_ai.jpg) 
+`Piqsels` 是又一个免版权的图库，免费商用：
+
+![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
 
 ## ✍️ 说明
 
