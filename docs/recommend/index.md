@@ -5,83 +5,85 @@
 
 ## 🎯 项目 
 
-### [cnchar](https://github.com/theajack/cnchar)
+### [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
 
-功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
+用 `Express` 和 `Vue3` 搭建的 `ChatGPT` 演示网页：
 
-![cnchar](https://images-1252557999.file.myqcloud.com/uPic/cnchar.jpeg) 
+![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
 
-### [plane](https://github.com/makeplane/plane)
+### [NocoDB](https://github.com/nocodb/nocodb)
 
-概念比较新的项目管理工具，开源的 `JIRA，Linear & Height` 的替代品，`Plane` 以最简单的方式帮助您跟踪问题、冲刺和产品路线图：
+将 `MySQL、PostgreSQL、SQL Server、SQLite 、MariaDB` 转换为智能电子表格：
 
-![plane](https://images-1252557999.file.myqcloud.com/uPic/plane.webp) 
+![NocoDB](https://images-1252557999.file.myqcloud.com/uPic/NocoDB.png) 
 
-### [answer](https://github.com/answerdev/answer)
+### [coolify](https://github.com/coollabsio/coolify)
 
-基于自己的产品或者项目快速打造一个问答社区：
+> `Vercel Netlify Heroku` 开源替代品
 
-![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
+![coolify](https://images-1252557999.file.myqcloud.com/uPic/coolify.jpeg)
+
+还可以使用这个项目：[dokploy](https://github.com/dokploy/dokploy)
+
+![dokploy](https://images-1252557999.file.myqcloud.com/uPic/dokploy.png) 
 
 ## 🤖 软件 
 
-### [Gif123](https://github.com/aardio/Gif123)
+### [my-tv](https://github.com/lizongying/my-tv)
 
-非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
+安卓电视直播软件，内置直播源：
 
-![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg) 
+![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
 
-### [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
+### [LawRefBook](https://github.com/RanKKI/LawRefBook)
 
-Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端，首页、书影音、小组、市集及个人中心：
+开源的法律知识速查手册：
 
-![FlutterDouBan](https://images-1252557999.file.myqcloud.com/uPic/FlutterDouBan.jpg) 
+![LawRefBook](https://images-1252557999.file.myqcloud.com/uPic/LawRefBook.png) 
 
-### [UTM](https://github.com/utmapp/UTM)
+### [mangerlahn-latest](https://github.com/mangerlahn/latest)
 
-开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
+一款免费开源的macOS应用程序，专门设计用于保持您的所有应用程序处于最新状态。它能够检查您的每一个应用程序，确保您始终拥有最新的更新和功能。
 
-![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
+![mac_latest](https://images-1252557999.file.myqcloud.com/uPic/mac_latest.jpg) 
 
 ## 👀 资料 
 
-### [Nginx 开发从入门到精通](https://tengine.taobao.org/book/)
+### [Student-resources](https://github.com/ivmm/Student-resources)
 
-淘宝团队出品的关于 `Nginx` 模块开发以及内部原理的书：
+本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
 
-![tb_nginx](https://images-1252557999.file.myqcloud.com/uPic/tb_nginx.jpg) 
+### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
 
-### [llm-course](https://github.com/mlabonne/llm-course)
+全面的Webpack教程《深入浅出Webpack》电子书：
 
-与大型语言模型(LLM)相关的笔记本和文章清单：
+![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
 
-![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
+### [visualize-ml](https://github.com/visualize-ml)
 
-### [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+鸢尾花书：从加减乘除到机器学习，全套7册。
 
-《Python for Data Analysis》第三版，该书详细介绍了如何使用 `Python` 进行数据分析和数据处理的方法和技巧，适合那些希望使用Python进行数据分析的初学者和有经验的数据分析师：
-
-![wesmckinney](https://images-1252557999.file.myqcloud.com/uPic/wesmckinney.jpg) 
+![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
 
 ## 🕸 网站 
 
-### [historyline.online](https://github.com/liujuntao123/chines-history-video)
+### [ossinsight](https://ossinsight.io/)
 
-中国历朝代历史视频讲解，汇聚了B站上综合数据（点赞，播放，投币，收藏）最高的一个/几个视频：
+`GitHub` 曾经发通知说在未来某个时间下架 `GitHub Trending`，由于反对声音比较大，所以还保留着 [ossinsight.io](https://ossinsight.io/) 就是做的比较好的替代品：
 
-![historyline](https://images-1252557999.file.myqcloud.com/uPic/historyline.jpg) 
+![ossinsight](https://images-1252557999.file.myqcloud.com/uPic/ossinsight.jpg) 
 
-### [regex.ai](https://regex.ai/)
+### [mlsub](https://mlsub.net/)
 
-`regex.ai` 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：
+一个专注哆啦A梦和蜡笔小新的动漫网站：
 
-![regex_ai](https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg) 
+![mlsub](https://images-1252557999.file.myqcloud.com/uPic/mlsub.jpg) 
 
-### [photo2poem](https://photo2poem.top/)
+### [fulltime.ai](https://fulltime.ai/spaces/)
 
-每一张照片，都对应一首诗，很有意思：
+搜索体验 288个 `HuggingFace` 空间 `GPU` 上运行的项目：
 
-![photo2poem](https://images-1252557999.file.myqcloud.com/uPic/photo2poem.jpg) 
+![fulltime_ai](https://images-1252557999.file.myqcloud.com/uPic/fulltime_ai.jpg) 
 
 ## ✍️ 说明
 
