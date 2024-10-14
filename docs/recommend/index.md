@@ -5,93 +5,91 @@
 
 ## 🎯 项目 
 
-### [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 
-`Stable Diffusion`（最近很火的 AI 文字生成图片的模型）在我之前好几期周刊都出现过，这次带来的是首个将 `Stable Diffusion Model` 扩展到浏览器环境部署运行的项目：
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
 
-![web-stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/web-stable-diffusion.jpg) 
+![AI-Writer](https://images-1252557999.file.myqcloud.com/uPic/AI-Writer.jpeg) 
 
-### [jspaint](https://github.com/1j01/jspaint)
+### [AudioNotes](https://github.com/harry0703/AudioNotes)
 
-怀旧画板项目，`JS Paint` 高度逼真地再现了 `MS Paint` 的每一个工具和菜单，甚至是鲜为人知的功能，它支持主题、附加文件类型和辅助功能，如眼睛凝视模式和语音识别：
+基于 `FunASR&Qwen2` 构建的音视频转结构化笔记系统，能够快速提取音视频的内容，并且调用大模型进行整理，成为一份结构化的 `markdown` 笔记，方便快速阅读：
 
-![jspaint](https://images-1252557999.file.myqcloud.com/uPic/jspaint.jpg)
+![AudioNotes](https://images-1252557999.file.myqcloud.com/uPic/AudioNotes.jpg) 
 
-直接在线体验 👉 [jspaint.app](https://jspaint.app/) 
+### [bitwarden](https://github.com/bitwarden)
 
-### [icefox](https://github.com/xiaopanglian/icefox)
+一个开源，免费，跨平台，安全易管理，，能自动填充密码可自建的密码管理解决方案：
 
-`Typecho` 微信朋友圈主题:
-
-![icefox](https://images-1252557999.file.myqcloud.com/uPic/icefox.jpg) 
+![bitwarden](https://images-1252557999.file.myqcloud.com/uPic/bitwarden.jpg) 
 
 ## 🤖 软件 
 
-### [GitUp](https://github.com/git-up/GitUp)
+### [alisthelper](https://github.com/Xmarmalade/alisthelper)
 
-简洁的 `Git` 客户端：
+Alist Helper是一款使用Flutter开发的应用程序，旨在简化桌面版alist的使用。它可以管理alist，让您更轻松地开启、关闭alist程序:
 
-![](https://images-1252557999.file.myqcloud.com/uPic/GitUp.jpg) 
+- 自动启动alist
+- 最小化至系统托盘
+- 开机自启和开机静默启动
+- 能够快速查看alist的版本和管理员信息
+- 可调整的alist启动参数。你可以可以根据自己的特定需求和偏好来自定义启动参数
 
-### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
+关键点：这个官方也在做，然后需要付费~
 
-跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
+![alisthelper](https://images-1252557999.file.myqcloud.com/uPic/alisthelper.jpg) 
 
-![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
+### [OFGB](https://github.com/xM4ddy/OFGB)
 
-### [gushi_namer](https://github.com/holynova/gushi_namer)
+`GUI` 工具删除 `Windows 11` 不同位置的广告：
 
-古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
+![OFGB](https://images-1252557999.file.myqcloud.com/uPic/OFGB.jpg) 
 
-![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+### NewPipe
 
-从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
+`NewPipe` 是一款 Android 下的第三方 `YouTube` 客户端，支持画中画、后台播放、变速播放、可查看留言、可导入订阅频道、可使用 `Kodi` 播放，是一款功能非常完善的油管客户端：
+
+![NewPipe](https://images-1252557999.file.myqcloud.com/uPic/NewPipe.jpg) 
 
 ## 👀 资料 
 
-### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
+### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
 
-本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
+本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
 
-- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
-- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
-- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
+我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
 
-![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
+无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
 
-### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
+### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
 
-对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
+从零开始学习Kubernetes的路线图（初级到高级）：
 
-### [paper-reading](https://github.com/mli/paper-reading)
+![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
 
-![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
+深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
 
 ## 🕸 网站 
 
-### [myfirstnft](https://myfirstnft.info/)
+### [dll-files](https://cn.dll-files.com/)
 
-我的第一个NFT，在这个网站，你可以：
+最近一些工作在 Windows 系统上完成，有一些软件总是提示：无法找到xxxx.dll文件...，这个网站很好地解决了我的问题：
 
-- 理解NFT的价值
-- 铸造一个免费的NFT
-- 了解Web3.0
+![dll-files](https://images-1252557999.file.myqcloud.com/uPic/dll-files.jpg) 
 
-![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
+### [BriefGPT](https://briefgpt.xyz/)
 
-### [jpghi](https://jpghi.com/)
+`AI` 论文速递，每日更新 `Arxiv` 论文，第一时间了解 `AI` 最新动态：
 
-jpgHi 支持各种类型图片高清无损放大，为模糊不清的图片增加极致细节，提升图片质感：
+![briefgpt](https://images-1252557999.file.myqcloud.com/uPic/briefgpt.jpg) 
 
-![jpghi](https://images-1252557999.file.myqcloud.com/uPic/jpghi.jpg) 
+### [extractcss](http://extractcss.com/)
 
-### [piqsels](https://www.piqsels.com/)
+提取 `html` 结构里面的 `css` 代码：
 
-`Piqsels` 是又一个免版权的图库，免费商用：
-
-![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
+![extractcss](https://images-1252557999.file.myqcloud.com/uPic/extractcss.jpg) 
 
 ## ✍️ 说明
 
