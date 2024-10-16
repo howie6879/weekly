@@ -5,106 +5,102 @@
 
 ## 🎯 项目 
 
-### [pushdeer](https://github.com/easychen/pushdeer)
+### [logto](https://github.com/logto-io/logto)
 
-开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备：
+`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
 
-![pushdeer](https://images-1252557999.file.myqcloud.com/uPic/pushdeer.jpg) 
+核心功能：
 
-### [Gallery-Portfolio](https://github.com/linyuxuanlin/Gallery-Portfolio)
+- 一个基于 `OIDC` 的身份服务
+- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
+- 动态短信/邮件验证码登录/注册
+- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
+- 基于 web 的图形化管理控制台
+- 可扩展的多语言支持
 
-一个简单的摄影作品展示站，你只需要将图片存放在免费的 `Cloudflare R2` 上（或其他支持 AWS S3 的对象存储），即可在这里展现你的精选图片。在这里你可以通过 瀑布流 的形式浏览图片，也可以 点开大图 ，查看光圈 / 快门 / ISO 等 EXIF 信息。网站基于 Node.js，使用 Material Design 风格的 响应式设计，支持 日夜间模式 切换，在不同的设备上都有不错的视觉效果：
+![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
 
-![Gallery-Portfolio](https://images-1252557999.file.myqcloud.com/uPic/Gallery-Portfolio.png) 
+### [CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077)
 
-### [autocorrect](https://github.com/huacnlee/autocorrect)
+`CyberScraper-2077` 是一个由 OpenAI 和 Ollama 支持的强大的 AI 驱动网页爬虫工具，提供了多种特性和功能，如用户友好的 Streamlit 界面、多格式数据导出、隐身模式、异步操作、智能解析等，旨在高效、隐蔽地从网络中提取数据：
 
-AutoCorrect 是一个基于 Rust 编写的工具，用于「自动纠正」或「检查并建议」文案，给 CJK（中文、日语、韩语）与英文混写的场景，补充正确的空格，纠正单词，同时尝试以安全的方式自动纠正标点符号等等。
+![CyberScraper](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-09-01_11-56-36.jpg) 
 
-类似 ESlint、Rubocop、Gofmt 等工具，AutoCorrect 可以用于 CI 环境，它提供 Lint 功能，能便捷的检测出项目中有问题的文案，起到统一规范的作用。
+### [50projects50days](https://github.com/bradtraversy/50projects50days)
 
-支持各种类型源代码文件，能自动识别文件名，并准确找到字符串、注释做自动纠正。
+50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
 
-![autocorrect](https://images-1252557999.file.myqcloud.com/uPic/autocorrect.png) 
+![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
 
 ## 🤖 软件 
 
-### [FreeControl](https://github.com/pdone/FreeControl)
+### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
 
-在 `PC` 上控制 `Android` 设备，基于开源项目<ins>**scrcpy**</ins>，提供简洁的交互界面。
+`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
 
-- 编码语言 `C#`
-- 开发工具 `Visual Studio 2022`
-- 运行环境 `.NET Framework 4.7.2`
+![Miao](https://images-1252557999.file.myqcloud.com/uPic/Miao.png) 
 
-![FreeControl](https://images-1252557999.file.myqcloud.com/uPic/FreeControl.gif) 
+### [Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing)
 
-### [wowtab](https://wowtab.microsoft.com/)
+实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字：
 
-微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：
+![Real-time-translation-typing](https://images-1252557999.file.myqcloud.com/uPic/Y0Cv8U.png) 
 
-![wowtab](https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg) 
+### [anx-reader](https://github.com/Anxcye/anx-reader)
 
-### [feed-flow](https://github.com/prof18/feed-flow)
+安读是一款专注于阅读的应用，不包含任何在线推广内容，它可以帮助你更专注于阅读，提高阅读效率：
 
-`FeedFlow` 是一款极简主义的 `RSS` 阅读器，可在 `Android、iOS&macOS`上使用：
+- 自动记录阅读进度，每次打开可以回到上次的进度。
+- 丰富且可自定义的阅读配色，让您的阅读更舒适。
+- 丰富的阅读设置，包括字号、行间距、字间距等，让阅读更轻松。
+- 随时在书中划线，多种样式和配色，随时回顾。
+- 强大的阅读统计，记录您的每一次阅读。
+- 丰富的阅读笔记功能，让您的阅读更深入。
+- 安读可自定义多种色彩主题，满足您的不同需求。
+- 想在夜晚更舒适的阅读？安读可以适配系统 深/浅 色模式，或手动切换。
+- 安读现已支持多语言（中、英），自动适配系统语言，亦可手动选择。
 
-![feedflow](https://images-1252557999.file.myqcloud.com/uPic/feedflow.jpg) 
+![anx-reader](https://images-1252557999.file.myqcloud.com/uPic/anx-reader.jpg) 
 
 ## 👀 资料 
 
-### [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
+### [BGC](https://beej.us/guide/bgc/)
 
-这个项目包含了数据工程师领域需要的一些资料，对于拓展国际视野很有帮助：
+面向初学者的 C 语言教程：
 
-- 书籍课程
-- 社区
-- YouTube 频道等各大平台
-- Newsletters
-- ......
+![BGC](https://images-1252557999.file.myqcloud.com/uPic/CtN8CN.png) 
 
-![data-engineer-handbook](https://images-1252557999.file.myqcloud.com/uPic/data-engineer-handbook.png) 
+### [under-the-hood](https://golang.design/under-the-hood/)
 
-### [高并发的哲学原理](https://github.com/johnlui/PPHC)
+`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
 
-![banner](https://images-1252557999.file.myqcloud.com/uPic/banner.jpg)
+![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
 
-`PPHC` 将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCI-E 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。 
+### [rust-by-practice](https://github.com/sunface/rust-by-practice)
 
-### [note-architect](https://zq99299.github.io/note-architect/hc/)
+通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
 
-高并发系统设计 40 问，一份架构师学习笔记：
-
-![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/f4zLoa.png) 
 
 ## 🕸 网站 
 
-### [yalijuda](https://www.yalijuda.com)
+### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
 
-简单快捷的图片压缩体验，多种压缩模式可选，压缩图片清晰无锯齿：
+文字生成图片网站，效果和速度都还可以：
 
-![www.yalijuda.com_yalijuda_sq0onjIiVg](https://images-1252557999.file.myqcloud.com/uPic/www.yalijuda.com_yalijuda_sq0onjIiVg.jpg) 
+![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
 
-### [LLM Visualization](https://bbycroft.net/llm)
+### [sysmini](https://www.sysmini.com/)
 
-将 GPT LLM 大模型进行可视化分析：
+站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
 
-![bbycroft](https://images-1252557999.file.myqcloud.com/uPic/bbycroft.jpg) 
+![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
 
-### [aiwallpaper](https://aiwallpaper.shop/)
+### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
 
-`AI` 生成高清壁纸，项目开源在：[all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper)。
+软件镜像站：
 
-开源代码包括：
-
-- nextjs 全栈开发 API 和 Web 
-- dalle-3 绘图对接 
-- aws s3 图片上传 
-- postgres 数据读写 
-- 谷歌登录 
-- stripe
-
-非常适合参考学习，用来做一些小而美的 `AI` 应用。 
+![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
 
 ## ✍️ 说明
 
