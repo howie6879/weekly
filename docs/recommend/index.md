@@ -5,102 +5,89 @@
 
 ## 🎯 项目 
 
-### [logto](https://github.com/logto-io/logto)
+### [KillWxapkg](https://github.com/Ackites/KillWxapkg)
 
-`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
+一个用于自动化反编译微信小程序的工具，小程序安全利器，自动解密，解包，可最大程度还原工程目录。 
 
-核心功能：
+### [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)
 
-- 一个基于 `OIDC` 的身份服务
-- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
-- 动态短信/邮件验证码登录/注册
-- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
-- 基于 web 的图形化管理控制台
-- 可扩展的多语言支持
+基于微软 `New Bing` 简单定制，拥有一致的 `UI` 体验，支持 `ChatGPT` 提示词，国内可用，基本兼容微软 `Bing AI` 所有功能，无需登录即可畅聊：
 
-![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
+![go-proxy-bingai](https://images-1252557999.file.myqcloud.com/uPic/go-proxy-bingai.png) 
 
-### [CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077)
+### [Message-Push-Nest](https://github.com/engigu/Message-Push-Nest)
 
-`CyberScraper-2077` 是一个由 OpenAI 和 Ollama 支持的强大的 AI 驱动网页爬虫工具，提供了多种特性和功能，如用户友好的 Streamlit 界面、多格式数据导出、隐身模式、异步操作、智能解析等，旨在高效、隐蔽地从网络中提取数据：
+打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义 `webhook` 等多种通知方式。定制你的消息，让通知方式更灵活多样。
 
-![CyberScraper](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-09-01_11-56-36.jpg) 
 
-### [50projects50days](https://github.com/bradtraversy/50projects50days)
-
-50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
-
-![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
+![Message-Push-Nest](https://images-1252557999.file.myqcloud.com/uPic/Message-Push-Nest.jpg) 
 
 ## 🤖 软件 
 
-### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
+### [SwitchHosts](https://github.com/oldj/SwitchHosts)
 
-`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
+`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
 
-![Miao](https://images-1252557999.file.myqcloud.com/uPic/Miao.png) 
+![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
+和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
 
-### [Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing)
+### [video2blog](https://github.com/aehyok/video2blog)
 
-实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字：
+视频转图文 AI 跨平台客户端：
 
-![Real-time-translation-typing](https://images-1252557999.file.myqcloud.com/uPic/Y0Cv8U.png) 
+- 输入视频url之后
+- 先通过yt-dlp解析视频url获取视频信息
+- 通过yt-dlp下载视频
+- 如果存在字幕，则直接进行下载
+- 可能是非中文字幕，则需要进行翻译字幕
+- 如果不存在字幕，则通过whisper来生成字幕文件，并翻译为中文
+- 然后通过gemini将字幕转换为文章。并将视频中的图片进行提取，手动插入到文章中 
 
-### [anx-reader](https://github.com/Anxcye/anx-reader)
+### [lapce](https://github.com/lapce/lapce)
 
-安读是一款专注于阅读的应用，不包含任何在线推广内容，它可以帮助你更专注于阅读，提高阅读效率：
+基于`Rust`的强大、轻量快速的代码编辑器：
 
-- 自动记录阅读进度，每次打开可以回到上次的进度。
-- 丰富且可自定义的阅读配色，让您的阅读更舒适。
-- 丰富的阅读设置，包括字号、行间距、字间距等，让阅读更轻松。
-- 随时在书中划线，多种样式和配色，随时回顾。
-- 强大的阅读统计，记录您的每一次阅读。
-- 丰富的阅读笔记功能，让您的阅读更深入。
-- 安读可自定义多种色彩主题，满足您的不同需求。
-- 想在夜晚更舒适的阅读？安读可以适配系统 深/浅 色模式，或手动切换。
-- 安读现已支持多语言（中、英），自动适配系统语言，亦可手动选择。
-
-![anx-reader](https://images-1252557999.file.myqcloud.com/uPic/anx-reader.jpg) 
+![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
 
 ## 👀 资料 
 
-### [BGC](https://beej.us/guide/bgc/)
+### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 
-面向初学者的 C 语言教程：
+GitHub开源项目维护协作指南：
 
-![BGC](https://images-1252557999.file.myqcloud.com/uPic/CtN8CN.png) 
+![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
 
-### [under-the-hood](https://golang.design/under-the-hood/)
+### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 
-`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
+C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
 
-![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
+![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
 
-### [rust-by-practice](https://github.com/sunface/rust-by-practice)
+### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
-通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
+这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/f4zLoa.png) 
+![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
 
 ## 🕸 网站 
 
-### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
+### [emojispark](https://emojispark.com/)
 
-文字生成图片网站，效果和速度都还可以：
+`Emoji` 搜索网站：
 
-![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
+![emojispark](https://images-1252557999.file.myqcloud.com/uPic/d8ed41.png) 
 
-### [sysmini](https://www.sysmini.com/)
+### [ossinsight](https://ossinsight.io/)
 
-站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
+`GitHub` 曾经发通知说在未来某个时间下架 `GitHub Trending`，由于反对声音比较大，所以还保留着 [ossinsight.io](https://ossinsight.io/) 就是做的比较好的替代品：
 
-![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
+![ossinsight](https://images-1252557999.file.myqcloud.com/uPic/ossinsight.jpg) 
 
-### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
+### [icon.kitchen](https://icon.kitchen/)
 
-软件镜像站：
+一次性生成 `Android、IOS、WEB` 三端 `icon` 图标，可直接预览，效果非常好：
 
-![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
+![icon_kitchen](https://images-1252557999.file.myqcloud.com/uPic/icon_kitchen.jpg) 
 
 ## ✍️ 说明
 
