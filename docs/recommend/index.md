@@ -5,89 +5,86 @@
 
 ## 🎯 项目 
 
-### [KillWxapkg](https://github.com/Ackites/KillWxapkg)
+### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
 
-一个用于自动化反编译微信小程序的工具，小程序安全利器，自动解密，解包，可最大程度还原工程目录。 
+短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
 
-### [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)
+![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
 
-基于微软 `New Bing` 简单定制，拥有一致的 `UI` 体验，支持 `ChatGPT` 提示词，国内可用，基本兼容微软 `Bing AI` 所有功能，无需登录即可畅聊：
+### [lsky-pro](https://github.com/lsky-org/lsky-pro)
 
-![go-proxy-bingai](https://images-1252557999.file.myqcloud.com/uPic/go-proxy-bingai.png) 
+非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
 
-### [Message-Push-Nest](https://github.com/engigu/Message-Push-Nest)
+![vps_lsky_01](https://images-1252557999.file.myqcloud.com/uPic/vps_lsky_01.jpg) 
 
-打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义 `webhook` 等多种通知方式。定制你的消息，让通知方式更灵活多样。
+### [ui-buttons/core](https://github.com/ui-buttons/core)
 
+CSS 按钮样式集合，此项目实现了 100 种不同的现代化的样式按钮：
 
-![Message-Push-Nest](https://images-1252557999.file.myqcloud.com/uPic/Message-Push-Nest.jpg) 
+![ui-buttons](https://images-1252557999.file.myqcloud.com/uPic/ui-buttons.png) 
 
 ## 🤖 软件 
 
-### [SwitchHosts](https://github.com/oldj/SwitchHosts)
+### [gitify](https://github.com/gitify-app/gitify)
 
-`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
+在你的菜单栏上显示 `GitHub` 通知，跨平台：
 
-![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
-和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
+![gitify](https://images-1252557999.file.myqcloud.com/uPic/gitify.png) 
 
-### [video2blog](https://github.com/aehyok/video2blog)
+### [Speechless](https://github.com/meterscao/Speechless)
 
-视频转图文 AI 跨平台客户端：
+`Speechless` 是一个帮助新浪微博用户，把微博内容导出成 `PDF` 进行本地备份的 `Chrome Extension`：
 
-- 输入视频url之后
-- 先通过yt-dlp解析视频url获取视频信息
-- 通过yt-dlp下载视频
-- 如果存在字幕，则直接进行下载
-- 可能是非中文字幕，则需要进行翻译字幕
-- 如果不存在字幕，则通过whisper来生成字幕文件，并翻译为中文
-- 然后通过gemini将字幕转换为文章。并将视频中的图片进行提取，手动插入到文章中 
+![Speechless](https://images-1252557999.file.myqcloud.com/uPic/Speechless.jpeg) 
 
-### [lapce](https://github.com/lapce/lapce)
+### [Malware-Patch](https://github.com/the1812/Malware-Patch)
 
-基于`Rust`的强大、轻量快速的代码编辑器：
+阻止中国流氓软件的管理员授权，无需后台运行：
 
-![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
+![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
 
 ## 👀 资料 
 
-### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
 
-GitHub开源项目维护协作指南：
+学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
 
-![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
+![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
 
-### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+### [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
 
-C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
+这个项目的目标是带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来，每周更新两篇，有兴趣的朋友可以追更下，架构图：
 
-![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
+![linux0.11-talk](https://images-1252557999.file.myqcloud.com/uPic/P4ekdG.jpg) 
 
-### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
+《Mastering GO》中文译本，《玩转 GO》：
 
-![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
 ## 🕸 网站 
 
-### [emojispark](https://emojispark.com/)
+### [小鱼速读](http://www.xysudu.com/)
 
-`Emoji` 搜索网站：
+该网站收藏了B站上各位大佬发布的经典速读视频：
 
-![emojispark](https://images-1252557999.file.myqcloud.com/uPic/d8ed41.png) 
+- 书籍：大类包括豆瓣总榜、科幻小说、推理悬疑、科学普及、历史经典、政治经济……11大类，一共667本经典书籍
+- 影视：大类包括内地剧、美剧、动漫、港剧、日剧、韩剧
 
-### [ossinsight](https://ossinsight.io/)
+![xysudu](https://images-1252557999.file.myqcloud.com/uPic/xysudu.jpg) 
 
-`GitHub` 曾经发通知说在未来某个时间下架 `GitHub Trending`，由于反对声音比较大，所以还保留着 [ossinsight.io](https://ossinsight.io/) 就是做的比较好的替代品：
+### [star-history](https://star-history.com/)
 
-![ossinsight](https://images-1252557999.file.myqcloud.com/uPic/ossinsight.jpg) 
+在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
 
-### [icon.kitchen](https://icon.kitchen/)
+![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
 
-一次性生成 `Android、IOS、WEB` 三端 `icon` 图标，可直接预览，效果非常好：
+### [flatuicolors](https://flatuicolors.com/)
 
-![icon_kitchen](https://images-1252557999.file.myqcloud.com/uPic/icon_kitchen.jpg) 
+`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
+
+![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
 
 ## ✍️ 说明
 
