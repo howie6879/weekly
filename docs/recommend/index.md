@@ -5,86 +5,102 @@
 
 ## 🎯 项目 
 
-### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
+### [melody](https://github.com/foamzou/melody)
 
-短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
+你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
 
-![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
+主要特性为：
 
-### [lsky-pro](https://github.com/lsky-org/lsky-pro)
+- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
+- 用链接搜索歌曲
+- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
 
-非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
+比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
 
-![vps_lsky_01](https://images-1252557999.file.myqcloud.com/uPic/vps_lsky_01.jpg) 
+![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
 
-### [ui-buttons/core](https://github.com/ui-buttons/core)
+### [social-auto-upload](https://github.com/dreammis/social-auto-upload)
 
-CSS 按钮样式集合，此项目实现了 100 种不同的现代化的样式按钮：
+自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili：
 
-![ui-buttons](https://images-1252557999.file.myqcloud.com/uPic/ui-buttons.png) 
+![social-auto-upload](https://images-1252557999.file.myqcloud.com/uPic/social-auto-upload.jpg) 
+
+### [reader-s](https://github.com/hectorqin/reader)
+
+阅读3服务器版，不需要手机，可以体验下在web上追更你的小说：
+
+![reader-s](https://images-1252557999.file.myqcloud.com/uPic/reader-s.jpg) 
 
 ## 🤖 软件 
 
-### [gitify](https://github.com/gitify-app/gitify)
+### [MediaBox](https://github.com/RyensX/MediaBox)
 
-在你的菜单栏上显示 `GitHub` 通知，跨平台：
+全能媒体容器，插件化网罗天下媒体，畅快学习软件开发。实现了类似微信小程序的框架，只需要简单实现插件API提供数据到容器即可快速成型，方便学习爬虫、APP开发等。容器主要为插件提供以下服务：
 
-![gitify](https://images-1252557999.file.myqcloud.com/uPic/gitify.png) 
+- 数据自动渲染到UI(视图组件)
+- 媒体收藏/历史记录
+- 周期性媒体数据检查服务(插件只需要实现媒体检查更新组件即可被主动检查更新)
+- 视频播放组件(播放器)，支持手势控制/夜间模式/弹幕/倍速控制/多集聚合/横竖旋转适应等
+- 私有可视化KV存储(插件私有配置)
+- 个人数据/插件云端备份(WebDav,开发中)
 
-### [Speechless](https://github.com/meterscao/Speechless)
+简单来说，这款软件能看什么取决与你用什么插件：
 
-`Speechless` 是一个帮助新浪微博用户，把微博内容导出成 `PDF` 进行本地备份的 `Chrome Extension`：
+![MediaBox](https://images-1252557999.file.myqcloud.com/uPic/MediaBox.jpg) 
 
-![Speechless](https://images-1252557999.file.myqcloud.com/uPic/Speechless.jpeg) 
+### [legado](https://github.com/gedoor/legado)
 
-### [Malware-Patch](https://github.com/the1812/Malware-Patch)
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-阻止中国流氓软件的管理员授权，无需后台运行：
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
 
-![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
+![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
+
+### [buster](https://github.com/dessant/buster)
+
+`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
+
+![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
 
 ## 👀 资料 
 
-### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
 
-学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
+带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
 
-![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
+![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
 
-### [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
+### [uxbaike](https://uxbaike.com/)
 
-这个项目的目标是带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来，每周更新两篇，有兴趣的朋友可以追更下，架构图：
+UX 百科，属于设计师的专业知识库：
 
-![linux0.11-talk](https://images-1252557999.file.myqcloud.com/uPic/P4ekdG.jpg) 
+![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
 
-### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
+### [一人企业方法论](https://github.com/easychen/one-person-businesses-methodology-v2.0)
 
-《Mastering GO》中文译本，《玩转 GO》：
+《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群：
 
-![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
+![opb-quick-start](https://images-1252557999.file.myqcloud.com/uPic/opb-quick-start.jpg) 
 
 ## 🕸 网站 
 
-### [小鱼速读](http://www.xysudu.com/)
+### [dll-files](https://cn.dll-files.com/)
 
-该网站收藏了B站上各位大佬发布的经典速读视频：
+最近一些工作在 Windows 系统上完成，有一些软件总是提示：无法找到xxxx.dll文件...，这个网站很好地解决了我的问题：
 
-- 书籍：大类包括豆瓣总榜、科幻小说、推理悬疑、科学普及、历史经典、政治经济……11大类，一共667本经典书籍
-- 影视：大类包括内地剧、美剧、动漫、港剧、日剧、韩剧
+![dll-files](https://images-1252557999.file.myqcloud.com/uPic/dll-files.jpg) 
 
-![xysudu](https://images-1252557999.file.myqcloud.com/uPic/xysudu.jpg) 
+### [sov2ex.com](https://www.sov2ex.com/)
 
-### [star-history](https://star-history.com/)
+[SOV2EX](https://github.com/Bynil/sov2ex) - 一个便捷的 [V2EX](https://v2ex.com/) 站内搜索引擎[开源]：
 
-在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
+![sov2ex](https://images-1252557999.file.myqcloud.com/uPic/sov2ex.jpg) 
 
-![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
+### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
 
-### [flatuicolors](https://flatuicolors.com/)
+文字生成图片网站，效果和速度都还可以：
 
-`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
-
-![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
+![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
 
 ## ✍️ 说明
 
