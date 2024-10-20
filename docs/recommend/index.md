@@ -5,102 +5,100 @@
 
 ## 🎯 项目 
 
-### [melody](https://github.com/foamzou/melody)
+### [orpington-news](https://github.com/frysztak/orpington-news)
 
-你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
+可自部署的 `RSS` 阅读器，支持 `PWA`：
 
-主要特性为：
+![orpington-news](https://images-1252557999.file.myqcloud.com/uPic/orpington-news.png) 
 
-- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
-- 用链接搜索歌曲
-- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
+### [MyIP](https://github.com/jason5ng32/MyIP)
 
-比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
+这是一个完全开源的 IP 信息查看器，可以查询本机 IP、查询任意 IP、查询国内外网站可用性等，70%代码由 `GPT` 实现。它可以查看IP、IP 信息（代理前后）、检查 DNS 泄露、检查 WebRTC 连接、测试网站可用性。
 
-![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
+![myip](https://images-1252557999.file.myqcloud.com/uPic/myip.jpg) 
 
-### [social-auto-upload](https://github.com/dreammis/social-auto-upload)
+### [luxirty-search](https://github.com/KoriIku/luxirty-search)
 
-自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili：
+一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快：
 
-![social-auto-upload](https://images-1252557999.file.myqcloud.com/uPic/social-auto-upload.jpg) 
-
-### [reader-s](https://github.com/hectorqin/reader)
-
-阅读3服务器版，不需要手机，可以体验下在web上追更你的小说：
-
-![reader-s](https://images-1252557999.file.myqcloud.com/uPic/reader-s.jpg) 
+![luxirty-search](https://images-1252557999.file.myqcloud.com/uPic/TSeOpC.png) 
 
 ## 🤖 软件 
 
-### [MediaBox](https://github.com/RyensX/MediaBox)
+### [radishes](https://github.com/radishes-music/radishes)
 
-全能媒体容器，插件化网罗天下媒体，畅快学习软件开发。实现了类似微信小程序的框架，只需要简单实现插件API提供数据到容器即可快速成型，方便学习爬虫、APP开发等。容器主要为插件提供以下服务：
+跨平台的无版权音乐平台，支持 `windows / macos / linux / web`：
 
-- 数据自动渲染到UI(视图组件)
-- 媒体收藏/历史记录
-- 周期性媒体数据检查服务(插件只需要实现媒体检查更新组件即可被主动检查更新)
-- 视频播放组件(播放器)，支持手势控制/夜间模式/弹幕/倍速控制/多集聚合/横竖旋转适应等
-- 私有可视化KV存储(插件私有配置)
-- 个人数据/插件云端备份(WebDav,开发中)
+![](https://images-1252557999.file.myqcloud.com/uPic/radishes.jpeg) 
 
-简单来说，这款软件能看什么取决与你用什么插件：
+### [lively](https://github.com/rocksdanister/lively)
 
-![MediaBox](https://images-1252557999.file.myqcloud.com/uPic/MediaBox.jpg) 
+针对 `Windows` 的开源的动态壁纸软件：
 
-### [legado](https://github.com/gedoor/legado)
+![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
 
-阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 
-简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
+一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
 
-![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
+- 隐藏桌面图标
+- 番茄钟
+- 快速进入夜间模式
+- 隐藏刘海
+- 保持唤醒
+- 清理 Xcode 缓存
+- 支持快捷方式库，可以自己开发
+- ...
 
-### [buster](https://github.com/dessant/buster)
-
-`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
-
-![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
+![OnlySwitch](https://images-1252557999.file.myqcloud.com/uPic/OnlySwitch.png) 
 
 ## 👀 资料 
 
-### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
+### [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 
-带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
+微软免费课程：12堂课入门生成式AI，从而开始构建你自己的生成式人工智能应用程序：
 
-![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
+![generative-ai-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/generative-ai-for-beginners.png) 
 
-### [uxbaike](https://uxbaike.com/)
+### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
 
-UX 百科，属于设计师的专业知识库：
+本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
 
-![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
+- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
+- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
+- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
 
-### [一人企业方法论](https://github.com/easychen/one-person-businesses-methodology-v2.0)
+![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
 
-《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群：
+### [事实核查手册](https://chinafactcheck.com/?p=11465)
 
-![opb-quick-start](https://images-1252557999.file.myqcloud.com/uPic/opb-quick-start.jpg) 
+虚假信息泛滥已成世界性难题，简体中文内容市场亦难置身事外。作为应对手段之一，事实核查在中国开始萌芽。
+
+本手册以案例的形式介绍了常用的文字、图片和视频核查工具，也涉及事实核查的工作流程、信源评估，并译介了国际事实核查机构惯用的职业准则与实践，希望能为中国的事实核查业者和观察者提供一定的参考。
+
+![事实核查手册](https://images-1252557999.file.myqcloud.com/uPic/事实核查手册.jpg) 
 
 ## 🕸 网站 
 
-### [dll-files](https://cn.dll-files.com/)
+### [opensource-heroes](https://opensource-heroes.com/)
 
-最近一些工作在 Windows 系统上完成，有一些软件总是提示：无法找到xxxx.dll文件...，这个网站很好地解决了我的问题：
+星标数最多的开源开发者、组织以及仓库排行榜单：
 
-![dll-files](https://images-1252557999.file.myqcloud.com/uPic/dll-files.jpg) 
+![opensource-heroes](https://images-1252557999.file.myqcloud.com/uPic/opensource-heroes.jpg) 
 
-### [sov2ex.com](https://www.sov2ex.com/)
+### [svg-path-editor](https://yqnn.github.io/svg-path-editor/)
 
-[SOV2EX](https://github.com/Bynil/sov2ex) - 一个便捷的 [V2EX](https://v2ex.com/) 站内搜索引擎[开源]：
+在线编辑创建 `SVG`，同时开源在 [github-svg-path-editor](https://github.com/Yqnn/svg-path-editor)：
 
-![sov2ex](https://images-1252557999.file.myqcloud.com/uPic/sov2ex.jpg) 
+![svg-path-editor](https://images-1252557999.file.myqcloud.com/uPic/svg-path-editor.jpg) 
 
-### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
+### [网道](https://wangdoc.com/)
 
-文字生成图片网站，效果和速度都还可以：
+前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
 
-![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
+目前提供了不少教程，对于初学者是非常友好的：
+
+![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
 
 ## ✍️ 说明
 
