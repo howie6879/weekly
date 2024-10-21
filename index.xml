@@ -12,7 +12,62 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 13 Oct 2024 14:56:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 08:11:28 +0000</lastBuildDate>
+    <item>
+      <title>10-14~10-20.老胡的周刊（第164期）.md</title>
+      <link>https://weekly.howie6879.com/2024/10-14~10-20.老胡的周刊（第164期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/10-14~10-20.老胡的周刊（第164期）.html"&gt;10-14~10-20.老胡的周刊（第164期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/mbecker20/komodo"&gt;komodo&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个用于在多个服务器上构建和部署软件的工具，非常强大，有好看的 &lt;code&gt;UI&lt;/code&gt; 以及 &lt;code&gt;Docker&lt;/code&gt; 管理、资源同步等：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="komodo" src="https://images-1252557999.file.myqcloud.com/uPic/h82QqC.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/donknap/dpanel"&gt;dpanel&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Docker&lt;/code&gt; 可视化面板系统，提供完善的 &lt;code&gt;Docker&lt;/code&gt; 管理功能：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="dpanel" src="https://images-1252557999.file.myqcloud.com/uPic/2rE2AN.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/iovxw/rssbot"&gt;rssbot&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;用于消息通知的轻量级 &lt;code&gt;Telegram RSS&lt;/code&gt; 机器人。&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/WEIFENG2333/AsrTools"&gt;AsrTools&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;智能语音转字幕文本工具，对比 &lt;code&gt;Github&lt;/code&gt; 目前多数的音频转换文字项目（通过调用 &lt;code&gt;Wishper&lt;/code&gt; 等模型），本项目最大区别和优势就是无需 &lt;code&gt;GPU&lt;/code&gt; 和繁琐的本地配置：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🚀 无需复杂配置：无需 GPU 和繁琐的本地配置，小白也能轻松使用。&lt;/li&gt;
+&lt;li&gt;🖥️ 高颜值界面：基于 PyQt5 和 qfluentwidgets，界面美观且用户友好。&lt;/li&gt;
+&lt;li&gt;⚡ 效率超人：多线程并发 + 批量处理，文字转换快如闪电。&lt;/li&gt;
+&lt;li&gt;📄 多格式支持：支持生成 .srt 和 .txt 字幕文件，满足不同需求。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="AsrTools" src="https://images-1252557999.file.myqcloud.com/uPic/rAXR7m.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/lujunji4113/cloud-document-converter/tree/main"&gt;Cloud Document Converter&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个 &lt;code&gt;Chrome&lt;/code&gt; 扩展， 支持下载、复制飞书云文档为 &lt;code&gt;Markdown&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Cloud Document Converter" src="https://images-1252557999.file.myqcloud.com/uPic/ATwWi4.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://chaiknows.feishu.cn/docx/IbTBdjiQWoi2cvx21SmcrL1pn3f"&gt;医保怎样用最省钱&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一份医保省钱指南，省钱就是赚钱：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ybsq" src="https://images-1252557999.file.myqcloud.com/uPic/F6m1jR.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://open-slum.org/"&gt;open-slum.org&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;SLUM&lt;/code&gt; 网站实时监控多个流行的隐蔽图书馆（如 Anna's Archive、Library Genesis、Sci-Hub 等）的可用性，并提供这些服务的运行状况、证书有效期以及最近的更新时间。&lt;/p&gt;
+&lt;p&gt;因为这些网站经常&lt;strong&gt;意外&lt;/strong&gt;失效，也很容易被钓鱼，所以这个网站很有用：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="open-slum.org" src="https://images-1252557999.file.myqcloud.com/uPic/PzpYfd.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Nutlope/blinkshot"&gt;blinkshot&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;Flux&lt;/code&gt; 通过 &lt;code&gt;Together.ai&lt;/code&gt; 提供的图像模型和推理能力实现的一个开源的实时 AI 图像生成器：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="blinkshot" src="https://images-1252557999.file.myqcloud.com/uPic/WT8nAl.png" /&gt;&lt;/p&gt;
+&lt;p&gt;体验后，效果一般，这是模型原因并不是项目本身原因，因为 100% 开源～&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">10-14~10-20.老胡的周刊（第164期）.md</guid>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>10-07~10-13.老胡的周刊（第163期）.md</title>
       <link>https://weekly.howie6879.com/2024/10-07~10-13.老胡的周刊（第163期）.html</link>
@@ -1223,67 +1278,6 @@ curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/rel
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">06-03~06-10.老胡的周刊（第145期）.md</guid>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>05-27~06-02.老胡的周刊（第144期）.md</title>
-      <link>https://weekly.howie6879.com/2024/05-27~06-02.老胡的周刊（第144期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/05-27~06-02.老胡的周刊（第144期）.html"&gt;05-27~06-02.老胡的周刊（第144期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/2noise/ChatTTS"&gt;ChatTTS&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;ChatTTS&lt;/code&gt; 是专门为对话场景设计的文本转语音模型，例如 &lt;code&gt;LLM&lt;/code&gt; 助手对话任务，它支持英文和中文两种语言，最大的模型使用了10万小时以上的中英文数据进行训练：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;对话式 TTS: ChatTTS针对对话式任务进行了优化，实现了自然流畅的语音合成，同时支持多说话人。&lt;/li&gt;
-&lt;li&gt;细粒度控制: 该模型能够预测和控制细粒度的韵律特征，包括笑声、停顿和插入词等。&lt;/li&gt;
-&lt;li&gt;更好的韵律: ChatTTS在韵律方面超越了大部分开源TTS模型。同时提供预训练模型，支持进一步的研究。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;效果挺好的，相关 &lt;code&gt;Web UI&lt;/code&gt; 有 &lt;a href="https://github.com/jianchang512/ChatTTS-ui"&gt;ChatTTS-ui&lt;/a&gt; 项目：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ChatTTS" src="https://images-1252557999.file.myqcloud.com/uPic/ChatTTS.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/linyuxuanlin/Gallery-Portfolio"&gt;Gallery-Portfolio&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个简单的摄影作品展示站，你只需要将图片存放在免费的 &lt;code&gt;Cloudflare R2&lt;/code&gt; 上（或其他支持 AWS S3 的对象存储），即可在这里展现你的精选图片。在这里你可以通过 瀑布流 的形式浏览图片，也可以 点开大图 ，查看光圈 / 快门 / ISO 等 EXIF 信息。网站基于 Node.js，使用 Material Design 风格的 响应式设计，支持 日夜间模式 切换，在不同的设备上都有不错的视觉效果：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Gallery-Portfolio" src="https://images-1252557999.file.myqcloud.com/uPic/Gallery-Portfolio.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/TDuckCloud/tduck-front"&gt;tduck-front&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Tduck&lt;/code&gt; 填鸭表单是一款自定义表单工具，支持问卷调查、数据收集等功能。采用无代码理念支持开发自定义组件，简单拖拽即可生成表单，完成数据收集。采用 &lt;code&gt;SpringBoot+Vue+ElementUI&lt;/code&gt; 技术栈，功能强大界面清新，支持一键部署：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="tduck-front" src="https://images-1252557999.file.myqcloud.com/uPic/tduck-front.png" /&gt;&lt;/p&gt;
-&lt;p&gt;滴滴也开源了一套轻量、安全的问卷系统基座，提供面向个人和企业的一站式产品级解决方案，快速满足各类线上调研场景👉&lt;a href="https://github.com/didi/xiaoju-survey"&gt;xiaoju-survey&lt;/a&gt;。&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/web1n/wechat-universal-flatpak"&gt;wechat-universal-flatpak&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;基于微信 &lt;code&gt;Linux Universal&lt;/code&gt; 版打包，无发行版限制：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="wechat-universal-flatpak" src="https://images-1252557999.file.myqcloud.com/uPic/wechat-universal-flatpak.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/M2Team/NanaZip"&gt;NanaZip&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;NanaZip&lt;/code&gt; 是一个面向现代 &lt;code&gt;Windows&lt;/code&gt; 体验的开源文件压缩工具，基于知名的开源文件压缩工具 &lt;code&gt;7-Zip&lt;/code&gt; 的源代码：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="NanaZip" src="https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/gitify-app/gitify"&gt;gitify&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;在你的菜单栏上显示 &lt;code&gt;GitHub&lt;/code&gt; 通知，跨平台：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="gitify" src="https://images-1252557999.file.myqcloud.com/uPic/gitify.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/AdAway/AdAway"&gt;AdAway&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;是一款免费且开源的 &lt;code&gt;Android&lt;/code&gt; 广告拦截器：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="AdAway" src="https://images-1252557999.file.myqcloud.com/uPic/AdAway.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://svg-tutorial.com/"&gt;svg-tutorial&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;学习如何使用 &lt;code&gt;SVG&lt;/code&gt; 在 &lt;code&gt;HTML&lt;/code&gt; 中编写图像代码：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="svg-tutorial" src="https://images-1252557999.file.myqcloud.com/uPic/svg-tutorial.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/datawhalechina/llms-from-scratch-cn"&gt;动手实现LLM中文版&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;该项目提供了一个如何从头开始实现类似 &lt;code&gt;ChatGPT&lt;/code&gt; 的大语言模型（LLM）的详细教程：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="tllms-from-scratch-cn" src="https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6242161922065677933-y.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://extract.pics/"&gt;extract.pics&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;输入网站地址，提取网站图片资源：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="extract_pics" src="https://images-1252557999.file.myqcloud.com/uPic/extract_pics.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">05-27~06-02.老胡的周刊（第144期）.md</guid>
-      <pubDate>Sun, 02 Jun 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
