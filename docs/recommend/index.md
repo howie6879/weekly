@@ -5,100 +5,85 @@
 
 ## 🎯 项目 
 
-### [orpington-news](https://github.com/frysztak/orpington-news)
+### [bitwarden](https://github.com/bitwarden)
 
-可自部署的 `RSS` 阅读器，支持 `PWA`：
+一个开源，免费，跨平台，安全易管理，，能自动填充密码可自建的密码管理解决方案：
 
-![orpington-news](https://images-1252557999.file.myqcloud.com/uPic/orpington-news.png) 
+![bitwarden](https://images-1252557999.file.myqcloud.com/uPic/bitwarden.jpg) 
 
-### [MyIP](https://github.com/jason5ng32/MyIP)
+### [Navidrome](https://github.com/navidrome/navidrome)
 
-这是一个完全开源的 IP 信息查看器，可以查询本机 IP、查询任意 IP、查询国内外网站可用性等，70%代码由 `GPT` 实现。它可以查看IP、IP 信息（代理前后）、检查 DNS 泄露、检查 WebRTC 连接、测试网站可用性。
+`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
 
-![myip](https://images-1252557999.file.myqcloud.com/uPic/myip.jpg) 
+![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
 
-### [luxirty-search](https://github.com/KoriIku/luxirty-search)
+### [tiptop](https://github.com/nschloe/tiptop)
 
-一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快：
+类似`htop`的命令行系统资源监控工具：
 
-![luxirty-search](https://images-1252557999.file.myqcloud.com/uPic/TSeOpC.png) 
+![tiptop](https://images-1252557999.file.myqcloud.com/uPic/tiptop.png) 
 
 ## 🤖 软件 
 
-### [radishes](https://github.com/radishes-music/radishes)
+### [dbgate](https://github.com/dbgate/dbgate)
 
-跨平台的无版权音乐平台，支持 `windows / macos / linux / web`：
+支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/radishes.jpeg) 
+![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
 
-### [lively](https://github.com/rocksdanister/lively)
+### [marktext](https://github.com/marktext/marktext)
 
-针对 `Windows` 的开源的动态壁纸软件：
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
 
-![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
+![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
 
-### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
+### [localsend](https://github.com/localsend/localsend)
 
-一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
+`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
 
-- 隐藏桌面图标
-- 番茄钟
-- 快速进入夜间模式
-- 隐藏刘海
-- 保持唤醒
-- 清理 Xcode 缓存
-- 支持快捷方式库，可以自己开发
-- ...
-
-![OnlySwitch](https://images-1252557999.file.myqcloud.com/uPic/OnlySwitch.png) 
+![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
 
 ## 👀 资料 
 
-### [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+### [企业如何拥抱 AI（周鸿祎）](https://mcgr3mdbak.feishu.cn/docx/NxjvdvYmLoXOvgxBP1ocFwRbn5g)
 
-微软免费课程：12堂课入门生成式AI，从而开始构建你自己的生成式人工智能应用程序：
+![qyybai](https://images-1252557999.file.myqcloud.com/uPic/yjvbm2.png) 
 
-![generative-ai-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/generative-ai-for-beginners.png) 
+### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 
-### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
+PyTorch 从0到精通教程：
 
-本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
+![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
 
-- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
-- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
-- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
+### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 
-![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
+本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
 
-### [事实核查手册](https://chinafactcheck.com/?p=11465)
+基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
+配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
+测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
 
-虚假信息泛滥已成世界性难题，简体中文内容市场亦难置身事外。作为应对手段之一，事实核查在中国开始萌芽。
-
-本手册以案例的形式介绍了常用的文字、图片和视频核查工具，也涉及事实核查的工作流程、信源评估，并译介了国际事实核查机构惯用的职业准则与实践，希望能为中国的事实核查业者和观察者提供一定的参考。
-
-![事实核查手册](https://images-1252557999.file.myqcloud.com/uPic/事实核查手册.jpg) 
+![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [opensource-heroes](https://opensource-heroes.com/)
+### [pixabay](https://pixabay.com/)
 
-星标数最多的开源开发者、组织以及仓库排行榜单：
+`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
 
-![opensource-heroes](https://images-1252557999.file.myqcloud.com/uPic/opensource-heroes.jpg) 
+![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
 
-### [svg-path-editor](https://yqnn.github.io/svg-path-editor/)
+### [freelancethings](https://www.freelancethings.co/)
 
-在线编辑创建 `SVG`，同时开源在 [github-svg-path-editor](https://github.com/Yqnn/svg-path-editor)：
+为自由职业者精心挑选的资源，涉及到社区、工具、文章、书籍、视频等，这些都帮助你在自由职业之旅中获得更多帮助，订阅后每周发送到您的收件箱:
 
-![svg-path-editor](https://images-1252557999.file.myqcloud.com/uPic/svg-path-editor.jpg) 
+![freelancethings](https://images-1252557999.file.myqcloud.com/uPic/freelancethings.jpg) 
 
-### [网道](https://wangdoc.com/)
+### [最佳平替](https://www.pingti.xyz/)
 
-前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
+同一件商品，不同的搜索词，价格可能会天差地别。这个工具旨在帮助你找到最便宜的搜索词: 输入你想搜索的商品名，AI会给出低价的替代品，结果可能不准，开心就好：）
 
-目前提供了不少教程，对于初学者是非常友好的：
-
-![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
+![pingti](https://images-1252557999.file.myqcloud.com/uPic/pingti.jpg) 
 
 ## ✍️ 说明
 
