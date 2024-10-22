@@ -5,86 +5,97 @@
 
 ## 🎯 项目 
 
-### [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+### [pic-smaller](https://github.com/joye61/pic-smaller)
 
-基于 `playwright` 的小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 | 评论爬虫、微博帖子 | 评论爬虫：
+图小小是一个图片压缩工具，基于 `Vite+React` 技术栈开发，它可以完全取代类似 `TinyPNG` 之类的在线图片压缩工具，且压缩之后视觉表现效果往往更好。但图小小有个更大的优势：通过图小小进行图片压缩完全是基于浏览器本地的，没有任何服务端交互，图片不会上传到远程服务器，所以非常安全，不用担心隐私图片被泄露。
 
-![MediaCrawler](https://images-1252557999.file.myqcloud.com/uPic/MediaCrawler.jpg) 
+![pic-smaller](https://images-1252557999.file.myqcloud.com/uPic/pic-smaller.png) 
 
-### [manifest](https://github.com/jonathontoon/manifest)
+### crontab-ui
 
-本周最喜欢的一个项目，这是一个基于网格的即时便签板，可随时在浏览器中记笔记，相当于浏览器便签，虽然项目不更新了，但是功能基本完成，值得一试：
+提供简单安全的方式来管理 `crontab`:
 
-![manifest](https://images-1252557999.file.myqcloud.com/uPic/manifest.jpg) 
+![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
 
-### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
+### [markwhen](https://github.com/mark-when/markwhen)
 
-该项目支持将微信聊天记录导出并生成网页浏览。 
+`Markwhen` 是一个交互式的文本到时间轴工具，`用户只需要编写类似于Markdown` 的文本，它就会转换成一个漂亮的级联时间轴：
+
+![markwhen](https://images-1252557999.file.myqcloud.com/uPic/markwhen.jpg) 
 
 ## 🤖 软件 
 
-### [OFGB](https://github.com/xM4ddy/OFGB)
+### [PicList](https://github.com/Kuingsmile/PicList)
 
-`GUI` 工具删除 `Windows 11` 不同位置的广告：
+`PicList` 是一款高效的跨平台云存储和图床平台管理工具，在 `PicGo` 的基础上经过深度的二次开发，不仅完整保留了 `PicGo` 的所有功能，还增添了许多新的特性：例如：
 
-![OFGB](https://images-1252557999.file.myqcloud.com/uPic/OFGB.jpg) 
+- 相册支持同步云端删除文件
+- 内置图床额外添加了 `WebDav`、本地图床和 `SFTP`
+- 增加了完整的云存储管理功能
+- 等等
 
-### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
+![PicList](https://images-1252557999.file.myqcloud.com/uPic/PicList.jpg) 
 
-基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
+### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 
-- 干净简洁的UI
-- 内置效果可实现准确的男声和女声
-- 创建&加载自定义预设的能力
-- 创建自己的临时虚拟输入设备
+适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
 
-![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
+- **免费**：本项目所有代码开源，完全免费。
+- **方便**：解压即用，无需安装。不需要网络。
+- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
+- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
 
-### [tunnelblick](https://tunnelblick.net/)
+![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
 
-免费开源的`openvpn`客户端：
+### [listen1_desktop](https://github.com/listen1/listen1_desktop)
 
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单，支持音乐平台：
+
+- 网易云音乐
+- QQ 音乐
+- 酷狗音乐
+- 酷我音乐
+- bilibili
+- 咪咕音乐
+- 千千音乐
+
+![listen1_desktop](https://images-1252557999.file.myqcloud.com/uPic/listen1_desktop.png) 
 
 ## 👀 资料 
 
-### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
+### [大规模并行处理器编程实战第四版](https://fancyerii.github.io/2024/02/20/pmpp/)
 
-这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
+关于并行计算的重要参考书籍，这是博客翻译的第四版。介绍了学生和专业人员都适合的并行编程与gpu体系结构的基本概念，详细剖析了编写并行程序所需的各种技术，用案例研究说明了并行程序设计的整个开发过程，即从计算思想开始，直到最终实现高效可行的并行程序。 
 
-该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
+### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
 
-![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
+左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
 
-### [1000h by 李笑来](https://1000h.org/)
+### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
 
-通过投入1000小时的注意力，你可以掌握任何你需要的东西：
+有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
 
-![1000h](https://images-1252557999.file.myqcloud.com/uPic/1000h.jpg) 
-
-### [提示词 0-1入门](https://j1ohuigiiff.feishu.cn/wiki/RTVbwi6d9ivhyBka2rRcrNNgnye)
-
-提示词（Prompt）编写速成指南，教大家如何无痛写出一个贴合需求、达到商用级的 `Prompt` 。 
+![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
 
 ## 🕸 网站 
 
-### [aitdk](https://aitdk.com/zh-CN/)
+### [oss.gallery](https://oss.gallery/)
 
-AI标题、描述和关键词生成器，为您的网站生成SEO友好的标题、描述和关键词：
+`OSS Gallery` 提供了一个展示和探索各种领域最佳开源项目的窗口。用户可以通过这个平台，获取到开源社区中值得关注的项目，这些项目涵盖了从软件开发、数据科学到设计等多个领域。平台的目的是为开源项目提供更多的曝光机会，同时也为开发者和用户提供一个学习和交流的场所。
 
-![aitdk](https://images-1252557999.file.myqcloud.com/uPic/aitdk.jpg) 
+![oss_gallery](https://images-1252557999.file.myqcloud.com/uPic/oss_gallery.jpg) 
 
-### [chuhai.tools](https://chuhai.tools/)
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
 
-独立开发者出海技术栈和工具集合:
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
 
-![chuhai](https://images-1252557999.file.myqcloud.com/uPic/chuhai.jpg) 
+![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
 
-### [即时工具](https://www.67tool.com/)
+### [calmcode](https://calmcode.io/)
 
-该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
+非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
 
-![67tool](https://images-1252557999.file.myqcloud.com/uPic/mhrsW0.jpg) 
+![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
 
 ## ✍️ 说明
 
