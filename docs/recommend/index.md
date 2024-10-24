@@ -5,85 +5,93 @@
 
 ## 🎯 项目 
 
-### [docker-cronicle](https://github.com/soulteary/docker-cronicle)
+### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
 
-`Cronjob` 定时任务 `Docker` 解决方案，提供了一个简介漂亮且轻量的 `WEB UI`：
+该项目支持将微信聊天记录导出并生成网页浏览。 
 
-![docker-cronicle](https://images-1252557999.file.myqcloud.com/uPic/docker-cronicle.png) 
+### [ChatGPT-On-CS](https://github.com/lrhh123/ChatGPT-On-CS)
 
-### [v2rayA](https://github.com/v2rayA/v2rayA)
+基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用：
 
-`v2rayA` 是一个支持全局透明代理的 `V2Ray` 客户端，同时兼容 `SS、SSR、Trojan(trojan-go)、Tuic & Juicity` 协议， 致力于提供最简单的操作，满足绝大部分需求，得益于 Web 客户端的优势，你不仅可以将其用于本地计算机，还可以轻松地将它部署在路由器或 NAS 上。
+![ChatGPT-On-CS](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-On-CS.jpg) 
 
-![v2rayA](https://images-1252557999.file.myqcloud.com/uPic/v2rayA.png) 
+### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
 
-### [album-ai](https://github.com/gcui-art/album-ai)
-
-挺有想法的项目，基于 `gpt-4o-mini` 作为视觉模型，自动识别出相册中图像文件的元信息，然后借助 `RAG` 技术，实现了与相册对话的能力：
-
-![album-ai](https://images-1252557999.file.myqcloud.com/uPic/album-ai.jpg) 
+让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
 
 ## 🤖 软件 
 
-### [tvapk](https://github.com/Archmage83/tvapk)
+### [VeraCrypt](https://veracrypt.fr/en/Home.html)
 
-收集各大 `AndroidTV` 的 `apk` 应用，可免费看各种vip和国外电影电视：
+`VeraCrypt` 是一款著名的跨平台、开源磁盘加密工具：
 
-![tvapk](https://images-1252557999.file.myqcloud.com/uPic/tvapk.png) 
+![VeraCrypt](https://images-1252557999.file.myqcloud.com/uPic/VeraCrypt.jpg) 
 
-### [NotepadNext](https://github.com/dail8859/NotepadNext)
+### [NetNewsWire](https://netnewswire.com/)
 
-`Notepad++`的跨平台开源实现：
+适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
 
-![NotepadNext](https://images-1252557999.file.myqcloud.com/uPic/NotepadNext.png) 
+- 支持 Safari 扩展
+- 订阅源下载
+- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
+- 主题设置
+- 多窗口支持
 
-### [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
+![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
 
-一个用于显示当前网速、CPU及内存利用率的 Windows 桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤:
+### [Raptor](https://github.com/InfpHub/Raptor)
 
-![TrafficMonitor](https://images-1252557999.file.myqcloud.com/uPic/TrafficMonitor.jpg) 
+使用 `Qt` 和 `C++` 构建的低内存、小而美的第三方阿里云盘 `Windows` 桌面应用客户端🚀
+
+- 🧬 用户 - 持久化登录，多用户登录，多用户切换
+- 📉 文件（夹） - 创建/多级创建文件夹/重命名/搜索
+- 💅 文件（夹） - 移动/复制
+- ✅ 文件（夹） - 上传/下载/唤起第三方下载器下载
+- 🎪 视频 - MPV/VLC/PotPlayer
+- 💸 分享 - 创建分享/导入分享
+- 🦹🏻‍♀️ 秒传 - 创建秒传/导入秒传
+- ⭐️ 收藏 - 收藏/取消收藏/搜索
+- 🕵️‍♂️ 回收站 - 清空/删除/恢复
+- 📚 Plus - 跨网盘文件复制
+- 🏅 UI - 可自由修改的字体，图标与主题 
 
 ## 👀 资料 
 
-### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
+### [xjq7/books](https://github.com/xjq7/books)
 
-Kubernetes 中文指南/云原生应用架构实战手册：
+电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
 
-![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
+### [svg-tutorial](https://svg-tutorial.com/)
 
-### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
+学习如何使用 `SVG` 在 `HTML` 中编写图像代码：
 
-编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
+![svg-tutorial](https://images-1252557999.file.myqcloud.com/uPic/svg-tutorial.jpg) 
 
-### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
+### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
 
-本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
-
-基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
-配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
-测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
-
-![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
+该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
 
 ## 🕸 网站 
 
-### [visalist](https://visalist.io)
+### [macosicons](https://macosicons.com/)
 
-网站交互样式都还不错，主要提供旅游签证、过境签证、数字游民签证等信息：
+网站基本上覆盖了热门`Mac APP`图标，你可以选择自己喜欢的图标进行替换，让自己的`Mac`更加漂亮且个性化。
 
-![ybt76d](https://images-1252557999.file.myqcloud.com/uPic/ybt76d.png) 
+![macosicons](https://images-1252557999.file.myqcloud.com/uPic/macosicons.png) 
 
-### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
+### [网道](https://wangdoc.com/)
 
-Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
+前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
 
-![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
+目前提供了不少教程，对于初学者是非常友好的：
 
-### [ocr.plantree.me](https://ocr.plantree.me/ocr)
+![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
 
-一个基于 `Tesseract` 的简单 `OCR` 软件：
+### [smartexcel](https://www.smartexcel.cc/)
 
-![plantree](https://images-1252557999.file.myqcloud.com/uPic/plantree.jpg) 
+使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
+
+![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
 
 ## ✍️ 说明
 
