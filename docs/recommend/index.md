@@ -5,93 +5,83 @@
 
 ## 🎯 项目 
 
-### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
+### [reader-s](https://github.com/hectorqin/reader)
 
-该项目支持将微信聊天记录导出并生成网页浏览。 
+阅读3服务器版，不需要手机，可以体验下在web上追更你的小说：
 
-### [ChatGPT-On-CS](https://github.com/lrhh123/ChatGPT-On-CS)
+![reader-s](https://images-1252557999.file.myqcloud.com/uPic/reader-s.jpg) 
 
-基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用：
+### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
 
-![ChatGPT-On-CS](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-On-CS.jpg) 
+短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
 
-### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
+![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
 
-让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
+### [MyIP](https://github.com/jason5ng32/MyIP)
+
+这是一个完全开源的 IP 信息查看器，可以查询本机 IP、查询任意 IP、查询国内外网站可用性等，70%代码由 `GPT` 实现。它可以查看IP、IP 信息（代理前后）、检查 DNS 泄露、检查 WebRTC 连接、测试网站可用性。
+
+![myip](https://images-1252557999.file.myqcloud.com/uPic/myip.jpg) 
 
 ## 🤖 软件 
 
-### [VeraCrypt](https://veracrypt.fr/en/Home.html)
+### [PicGo](https://github.com/Molunerfinn/PicGo)
 
-`VeraCrypt` 是一款著名的跨平台、开源磁盘加密工具：
+一个用于快速上传图片并获取图片 `URL` 链接的工具，和之前推荐的 [uPic](https://github.com/gee1k/uPic) 类似，但这个是跨平台的且有自己的插件体系：
 
-![VeraCrypt](https://images-1252557999.file.myqcloud.com/uPic/VeraCrypt.jpg) 
+![PicGo](https://images-1252557999.file.myqcloud.com/uPic/PicGo.jpg)
 
-### [NetNewsWire](https://netnewswire.com/)
+如果想在终端环境进行图片上传，可以参考：[upgit](https://github.com/pluveto/upgit)。 
 
-适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
+### [ElevenClock](https://github.com/marticliment/ElevenClock)
 
-- 支持 Safari 扩展
-- 订阅源下载
-- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
-- 主题设置
-- 多窗口支持
+自定义 `Windows 11` 任务栏时钟：
 
-![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
+![ElevenClock](https://images-1252557999.file.myqcloud.com/uPic/ElevenClock.jpg) 
 
-### [Raptor](https://github.com/InfpHub/Raptor)
+### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
 
-使用 `Qt` 和 `C++` 构建的低内存、小而美的第三方阿里云盘 `Windows` 桌面应用客户端🚀
+`Android` 平台下 `MD` 风格的文件管理器:
 
-- 🧬 用户 - 持久化登录，多用户登录，多用户切换
-- 📉 文件（夹） - 创建/多级创建文件夹/重命名/搜索
-- 💅 文件（夹） - 移动/复制
-- ✅ 文件（夹） - 上传/下载/唤起第三方下载器下载
-- 🎪 视频 - MPV/VLC/PotPlayer
-- 💸 分享 - 创建分享/导入分享
-- 🦹🏻‍♀️ 秒传 - 创建秒传/导入秒传
-- ⭐️ 收藏 - 收藏/取消收藏/搜索
-- 🕵️‍♂️ 回收站 - 清空/删除/恢复
-- 📚 Plus - 跨网盘文件复制
-- 🏅 UI - 可自由修改的字体，图标与主题 
+![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
 
 ## 👀 资料 
 
-### [xjq7/books](https://github.com/xjq7/books)
+### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
 
-电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
+一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
 
-### [svg-tutorial](https://svg-tutorial.com/)
+### [MDN Web Docs](https://github.com/mdn/translated-content)
 
-学习如何使用 `SVG` 在 `HTML` 中编写图像代码：
+`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
 
-![svg-tutorial](https://images-1252557999.file.myqcloud.com/uPic/svg-tutorial.jpg) 
+![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
 
-### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
+### [LLMBook-zh](https://llmbook-zh.github.io/)
 
-该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
+大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
+
+![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
 
 ## 🕸 网站 
 
-### [macosicons](https://macosicons.com/)
+### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
 
-网站基本上覆盖了热门`Mac APP`图标，你可以选择自己喜欢的图标进行替换，让自己的`Mac`更加漂亮且个性化。
+中国少年儿童新闻出版总社免费开放的少儿绘本网站：
 
-![macosicons](https://images-1252557999.file.myqcloud.com/uPic/macosicons.png) 
+![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
 
-### [网道](https://wangdoc.com/)
+### [ifixit](https://zh.ifixit.com/)
 
-前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
+一个免费教授人们如何修理任何物品的网站：
 
-目前提供了不少教程，对于初学者是非常友好的：
+![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
 
-![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
+### [meow.tg](https://meow.tg/)
 
-### [smartexcel](https://www.smartexcel.cc/)
+TG喵-可能是最懂你的Telegram资源搜索引擎:
 
-使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
-
-![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
+![meow](https://images-1252557999.file.myqcloud.com/uPic/meow.jpg) 
 
 ## ✍️ 说明
 
