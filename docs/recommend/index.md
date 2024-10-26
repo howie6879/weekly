@@ -5,83 +5,88 @@
 
 ## 🎯 项目 
 
-### [reader-s](https://github.com/hectorqin/reader)
+### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
 
-阅读3服务器版，不需要手机，可以体验下在web上追更你的小说：
+相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
 
-![reader-s](https://images-1252557999.file.myqcloud.com/uPic/reader-s.jpg) 
+如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
 
-### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
+### [lsky-pro](https://github.com/lsky-org/lsky-pro)
 
-短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
+非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
 
-![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
+![vps_lsky_01](https://images-1252557999.file.myqcloud.com/uPic/vps_lsky_01.jpg) 
 
-### [MyIP](https://github.com/jason5ng32/MyIP)
+### [open-interpreter](https://github.com/KillianLucas/open-interpreter)
 
-这是一个完全开源的 IP 信息查看器，可以查询本机 IP、查询任意 IP、查询国内外网站可用性等，70%代码由 `GPT` 实现。它可以查看IP、IP 信息（代理前后）、检查 DNS 泄露、检查 WebRTC 连接、测试网站可用性。
+基于 `LLM` 为你提供一种新的方式来控制电脑，本地运行：
 
-![myip](https://images-1252557999.file.myqcloud.com/uPic/myip.jpg) 
+![open_interpreter](https://images-1252557999.file.myqcloud.com/uPic/open_interpreter.jpg) 
 
 ## 🤖 软件 
 
-### [PicGo](https://github.com/Molunerfinn/PicGo)
+### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 
-一个用于快速上传图片并获取图片 `URL` 链接的工具，和之前推荐的 [uPic](https://github.com/gee1k/uPic) 类似，但这个是跨平台的且有自己的插件体系：
+适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
 
-![PicGo](https://images-1252557999.file.myqcloud.com/uPic/PicGo.jpg)
+- **免费**：本项目所有代码开源，完全免费。
+- **方便**：解压即用，无需安装。不需要网络。
+- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
+- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
 
-如果想在终端环境进行图片上传，可以参考：[upgit](https://github.com/pluveto/upgit)。 
+![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
 
-### [ElevenClock](https://github.com/marticliment/ElevenClock)
+### [Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT)
 
-自定义 `Windows 11` 任务栏时钟：
+一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频:
 
-![ElevenClock](https://images-1252557999.file.myqcloud.com/uPic/ElevenClock.jpg) 
+![Chenyme-AAVT](https://images-1252557999.file.myqcloud.com/uPic/Chenyme-AAVT.jpg) 
 
-### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+### [shotcut](https://github.com/mltframework/shotcut)
 
-`Android` 平台下 `MD` 风格的文件管理器:
+`Shotcut` 是一个开源免费跨平台的视频编辑器，可以对录制的视频进行剪切、添加特效、添加文字、添加滤镜、改变色彩等一系列操作：
 
-![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
+![shotcut](https://images-1252557999.file.myqcloud.com/uPic/shotcut.png) 
 
 ## 👀 资料 
 
-### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
+### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
 
-一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
+Kubernetes 中文指南/云原生应用架构实战手册：
 
-### [MDN Web Docs](https://github.com/mdn/translated-content)
+![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
 
-`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
+### [learn-javascript](https://github.com/sumn2u/learn-javascript)
 
-![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
+学习 `javascript` 的开源书籍：
 
-### [LLMBook-zh](https://llmbook-zh.github.io/)
+![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
 
-大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
+### [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
-![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
+《Python for Data Analysis》第三版，该书详细介绍了如何使用 `Python` 进行数据分析和数据处理的方法和技巧，适合那些希望使用Python进行数据分析的初学者和有经验的数据分析师：
+
+![wesmckinney](https://images-1252557999.file.myqcloud.com/uPic/wesmckinney.jpg) 
 
 ## 🕸 网站 
 
-### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
+### [waytoagi](https://www.waytoagi.com/)
 
-中国少年儿童新闻出版总社免费开放的少儿绘本网站：
+`AI` 知识库和工具站：
 
-![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
+![waytoagi](https://images-1252557999.file.myqcloud.com/uPic/waytoagi.jpg) 
 
-### [ifixit](https://zh.ifixit.com/)
+### [alleyread](https://alleyread.com/)
 
-一个免费教授人们如何修理任何物品的网站：
+发现优质 `Newsletter`：
 
-![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
+![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
 
-### [meow.tg](https://meow.tg/)
+### [archive.today](https://archive.today/)
 
-TG喵-可能是最懂你的Telegram资源搜索引擎:
+提供任何网站存档查询的网站：
 
-![meow](https://images-1252557999.file.myqcloud.com/uPic/meow.jpg) 
+![archive](https://images-1252557999.file.myqcloud.com/uPic/archive.jpg) 
 
 ## ✍️ 说明
 
