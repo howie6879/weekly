@@ -12,7 +12,74 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Mon, 21 Oct 2024 08:11:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 13:15:03 +0000</lastBuildDate>
+    <item>
+      <title>10-21~10-27.老胡的周刊（第165期）.md</title>
+      <link>https://weekly.howie6879.com/2024/10-21~10-27.老胡的周刊（第165期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/10-21~10-27.老胡的周刊（第165期）.html"&gt;10-21~10-27.老胡的周刊（第165期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/AgibotTech/agibot_x1_infer"&gt;agibot_x1_infer&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;稚晖君开源的智元家灵犀X1，智元人形机器人，全套资料全球开源，包括设计图纸和代码：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;开发指南链接&lt;/strong&gt;: &lt;a href="https://www.zhiyuan-robot.com/DOCS/OS/X1-PDG"&gt;开发指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;设计资料百度云盘&lt;/strong&gt; (提取码：1234): &lt;a href="https://pan.baidu.com/s/1UEdeDBTJiXRmIqMKwmO5RA?pwd=1234"&gt;百度云盘链接&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;设计资料谷歌云盘&lt;/strong&gt;: &lt;a href="https://drive.google.com/drive/folders/1MECbyKRJbnc_XKWsdUbn-70xmYFmw9FW?usp=sharing"&gt;谷歌云盘链接&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;推理代码&lt;/strong&gt;: &lt;a href="https://github.com/AgibotTech/agibot_x1_infer"&gt;推理代码链接&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;训练代码&lt;/strong&gt;: &lt;a href="https://github.com/AgibotTech/agibot_x1_train"&gt;训练代码链接&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="agibot_x1_infer" src="https://images-1252557999.file.myqcloud.com/uPic/QchElr.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/nepsyn/minaplay"&gt;minaplay&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个用于追番/追剧的个人媒体库，&lt;code&gt;MinaPlay&lt;/code&gt; 根据用户创建的 &lt;code&gt;RSS&lt;/code&gt; 订阅源、订阅规则自动下载媒体文件并生成描述信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;追番/追剧服务，个性化配置 RSS 订阅源、下载规则，打造独一无二属于自己的追番/追剧管家。&lt;/li&gt;
+&lt;li&gt;同步观影放映室，支持聊天消息和多人语音，叫上好朋友一起观影共享欢乐。&lt;/li&gt;
+&lt;li&gt;通知服务高度可拓展、可自定义模板，新内容的更新时间不再错过。&lt;/li&gt;
+&lt;li&gt;插件系统简单易用，像使用命令行一样调用各种插件提供的服务。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="minaplay" src="https://images-1252557999.file.myqcloud.com/uPic/mLBst8.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/wanghongenpin/proxypin"&gt;proxypin&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 Flutter 开发的跨平台抓包软件，界面美观，交互简单：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="proxypin" src="https://images-1252557999.file.myqcloud.com/uPic/vGVbRn.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/1Remote/1Remote"&gt;1Remote&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;1Remote&lt;/code&gt; 是一款现代化的个人远程会话管理员和启动器，使用它你可以管理从一个入口管理多种远程会话：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;⭐ 开源且免费&lt;/li&gt;
+&lt;li&gt;⭐ 支持 RDP, SSH, VNC, Telnet, (S)FTP, RemoteApp 等多种协议&lt;/li&gt;
+&lt;li&gt;⭐ 多屏幕、高分辨率的 RDP 支持&lt;/li&gt;
+&lt;li&gt;⭐ 一键打开你的远程连接 (Alt + M)&lt;/li&gt;
+&lt;li&gt;⭐ 单个服务器配置中允许存储多个地址和账号&lt;/li&gt;
+&lt;li&gt;⭐ 基于选项卡的远程桌面界面、多语言、可自定义颜色主题&lt;/li&gt;
+&lt;li&gt;⭐ 易于部署，仅需解压就能运行&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="1Remote" src="https://images-1252557999.file.myqcloud.com/uPic/dgLzJC.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.jmeiners.com/lc3-vm/"&gt;lc3-vm&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;教程主要介绍了如何编写自己的虚拟机（VM），以运行 LC-3 架构的汇编语言程序，旨在帮助程序员更深入地理解计算机内部运作和编程语言的工作原理：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="lc3-vm" src="https://images-1252557999.file.myqcloud.com/uPic/rtzTGT.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/datawhalechina/whale-quant"&gt;whale-quant&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用 &lt;code&gt;Python&lt;/code&gt; 进行量化开发的能力：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="whale-quant" src="https://images-1252557999.file.myqcloud.com/uPic/a4aLmH.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://openbookshongkong.com/book/"&gt;openbookshongkong&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开讀计劃由香港中文大学、香港城市大学和香港大学的图书馆与出版社共同发起，是香港首个开放取用图书计划。该计划于 2024 年 7 月 17 日推出了由三家大学出版社出版的九本中文图书，这些图书免费开放给公众，涵盖历史、哲学、宗教、法学、人类学、性别研究等领域。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="openbookshongkong" src="https://images-1252557999.file.myqcloud.com/uPic/gM7dMk.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">10-21~10-27.老胡的周刊（第165期）.md</guid>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>10-14~10-20.老胡的周刊（第164期）.md</title>
       <link>https://weekly.howie6879.com/2024/10-14~10-20.老胡的周刊（第164期）.html</link>
@@ -1207,77 +1274,6 @@ curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/rel
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">06-11~06-16.老胡的周刊（第146期）.md</guid>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>06-03~06-10.老胡的周刊（第145期）.md</title>
-      <link>https://weekly.howie6879.com/2024/06-03~06-10.老胡的周刊（第145期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/06-03~06-10.老胡的周刊（第145期）.html"&gt;06-03~06-10.老胡的周刊（第145期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/OXeu/Rin"&gt;Rin&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;⚡️&lt;code&gt;Rin&lt;/code&gt; 是一个基于 &lt;code&gt;Cloudflare Pages + Workers + D1 + R2&lt;/code&gt; 全家桶的博客，无需服务器无需备案，只需要一个解析到 &lt;code&gt;Cloudflare&lt;/code&gt; 的域名即可部署：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Rin" src="https://images-1252557999.file.myqcloud.com/uPic/Rin.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/duckdb/duckdb"&gt;duckdb&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;DuckDB&lt;/code&gt; 是一个具有内存优化、低延迟和 &lt;code&gt;SQL&lt;/code&gt; 兼容性的分析型数据库。 它通过优化的查询性能和存储空间效率，为数据分析和处理任务提供了高效的解决方案：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="duckdb" src="https://images-1252557999.file.myqcloud.com/uPic/duckdb.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/fruitbars/simple-one-api"&gt;simple-one-api&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用。&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://www.uukei.com/help/?p=h"&gt;UU 浏览器&lt;/a&gt;&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;UU浏览器在满足用户的需求上，延续了谷歌的简洁，摒弃了如 Edge 过多功能的臃肿。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;这是老胡的朋友，独立开发运营两三年的一款浏览器，主打纯净美观&amp;amp;个性化，核心功能点如下：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;优化去冗余、内存占用少&lt;/li&gt;
-&lt;li&gt;简洁高效率、年轻个性化&lt;/li&gt;
-&lt;li&gt;最大程度隐私安全&lt;/li&gt;
-&lt;li&gt;纯净不打扰&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;在以上基本特性持续开发小功能提升用户效率，大家可以提意见哈：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;💫 自带整页翻译&lt;/li&gt;
-&lt;li&gt;📚 灵活新标签页&lt;/li&gt;
-&lt;li&gt;📋 多功能侧边栏&lt;/li&gt;
-&lt;li&gt;🧩 扩展安装方便&lt;/li&gt;
-&lt;li&gt;📟 夜间护眼模式&lt;/li&gt;
-&lt;li&gt;📈 多线程下载&lt;/li&gt;
-&lt;li&gt;👉 支持鼠标手势&lt;/li&gt;
-&lt;li&gt;✔️ 网页一键保存为图片或PDF&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="uu" src="https://images-1252557999.file.myqcloud.com/uPic/uu.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;有兴趣欢迎了解体验👉&lt;a href="https://www.uukei.com/help/?p=h"&gt;UU 浏览器&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/BloopAI/bloop"&gt;bloop&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;bloop&lt;/code&gt; 是一个用 Rust 编写的快速代码搜索引擎，内部集成 &lt;code&gt;LLM&lt;/code&gt; 大模型，可以快速让你导入一个代码仓库以自然语言形式进行问答，想快速上手一个项目或者文档不怎么够的项目，力荐👀：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="bloop" src="https://images-1252557999.file.myqcloud.com/uPic/bloop.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://hcplab-sysu.github.io/Book-of-MLM/"&gt;Book-of-MLM&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;本书以深入浅出的方式全面地介绍了多模态大模型的核心技术与典型应用，并围绕新一代人工智能技术范式，详细阐述了因果推理、世界模型、超级智能体与具身智能等前沿技术。希望本书能够为学术界和工业界提供一个清晰的视角，以帮助人工智能科研工作者更全面地了解多模态大模型的技术和新一代人工智能的发展方向。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Book-of-MLM" src="https://images-1252557999.file.myqcloud.com/uPic/Book-of-MLM.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/SmartFlowAI/Llama3-Tutorial"&gt;Llama3-Tutorial&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Llama3-Tutorial" src="https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://apk.bot/"&gt;apk.bot&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;免费无广告的 &lt;code&gt;APK&lt;/code&gt; 下载网站：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="apk_bot" src="https://images-1252557999.file.myqcloud.com/uPic/apk_bot.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://iphub.info/"&gt;iphub.info&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;检测 &lt;code&gt;IP&lt;/code&gt; 质量和安全性：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="iphub" src="https://images-1252557999.file.myqcloud.com/uPic/iphub.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">06-03~06-10.老胡的周刊（第145期）.md</guid>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
