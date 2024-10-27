@@ -5,92 +5,88 @@
 
 ## 🎯 项目 
 
-### [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+### [QRec](https://github.com/Coder-Yu/QRec)
 
-强大的少样本语音转换与语音合成Web用户界面，低成本 AI 语音克隆项目，感兴趣可以查看介绍[视频](https://www.bilibili.com/video/BV12g4y1m7Uw/) 。
+Python编写的推荐系统快速实践框架（基于TF），和之前推荐的[gorse](https://weekly.howie6879.com/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E6%8E%A8%E8%8D%90#gorse)有点类似，但不同的是QRec提供了领先的推荐系统模型用于实践。 
 
-![GPT-SoVITS](https://images-1252557999.file.myqcloud.com/uPic/GPT-SoVITS.jpg) 
+### [mongo-express](https://github.com/mongo-express/mongo-express)
 
-### [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
+基于 `Web` 的 `MongoDB` 管理界面，使用 `Node.js` 和 `Express` 编写：
 
-🎨 一键拥有你自己的 `ChatGPT+Midjourney` 网页服务：
+![mongo-express](https://images-1252557999.file.myqcloud.com/uPic/mongo-express.png)
+同类型基于 `Web` 的 `Mongo GUI` 还推荐：
 
--  原ChatGPT-Next-Web所有功能
--  midjourney imagin 想象
--  midjourney upscale 放大
--  midjourney variation 变幻
--  midjourney describe 识图
--  midjourney blend 混图
--  midjourney 垫图
--  绘图进度百分比、实时图像显示
+- [mongo-gui](https://github.com/arunbandari/mongo-gui)
+- [Mongoku](https://github.com/huggingface/Mongoku)
+- [mongood](https://github.com/renzholy/mongood) 
 
-![ChatGPT-Midjourney](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Midjourney.png) 
+### [law-cn-ai](https://github.com/lvwzhen/law-cn-ai)
 
-### [screenshot-to-code](https://github.com/abi/screenshot-to-code)
+AI 法律助手:
 
-依赖 `GPT-4 Vision` 特性，允许用户将屏幕截图作为输入，然后将其转换为整洁的HTML/Tailwind/JS代码，和上一期推荐的 [draw-a-ui](https://weekly.howie6879.com/2023/11-06~11-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC115%E6%9C%9F%EF%BC%89.html) 有异曲同工之妙。
+![law-cn-ai](https://images-1252557999.file.myqcloud.com/uPic/law-cn-ai.jpg)
 
-![screenshot-to-code](https://images-1252557999.file.myqcloud.com/uPic/screenshot-to-code.jpg) 
+也可以[在线](https://law-cn-ai.vercel.app/)访问。 
 
 ## 🤖 软件 
 
-### [logseq](https://github.com/logseq/logseq)
+### [Files](https://github.com/files-community/Files)
 
-Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
+一个现代化的文件管理软件(Windows用户专属)：
 
-![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
+![files_windows](https://images-1252557999.file.myqcloud.com/uPic/files_windows.jpg) 
 
-### [ShareX](https://github.com/ShareX/ShareX)
+### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
 
-`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
+一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
 
-![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
+![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
 
-### [onepoint](https://github.com/onepointAI/onepoint)
+### [ruzz](https://github.com/vlts1/ruzz)
 
-Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
+`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
 
-借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
-
-![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
+![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
 
 ## 👀 资料 
 
-### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
 
-自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
+站点可靠性工作手册：
 
-![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
-### [医保怎样用最省钱](https://chaiknows.feishu.cn/docx/IbTBdjiQWoi2cvx21SmcrL1pn3f)
+### [papers-we-love](https://github.com/papers-we-love/papers-we-love)
 
-一份医保省钱指南，省钱就是赚钱：
+项目收集了计算机科学领域值得一读的论文：
 
-![ybsq](https://images-1252557999.file.myqcloud.com/uPic/F6m1jR.png) 
+![papers-we-love](https://images-1252557999.file.myqcloud.com/uPic/FiYqA1.png)
 
-### [how-web-works](https://github.com/vasanthk/how-web-works)
+还有一个开发者列出了他喜欢的论文，具体见：[my-favorite-papers](https://ordep.dev/posts/my-favorite-papers)，其中包括了LSM Tree， Kafka， Zookeeper，数字签名，等一些很经典的分布式领域的论文。 
 
-当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
+### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
+
+教程：小型金融知识图谱流程示范。 
 
 ## 🕸 网站 
 
-### [LLM Visualization](https://bbycroft.net/llm)
+### [alternativeto](https://alternativeto.net/)
 
-将 GPT LLM 大模型进行可视化分析：
+常用软件替代品查询网站：
 
-![bbycroft](https://images-1252557999.file.myqcloud.com/uPic/bbycroft.jpg) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
-### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+### [mindmap-scanner](https://xmind.cn/mindmap-scanner/)
 
-人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
+用 `AI` 将思维导图图片转为可编辑的 `Xmind` 文件：
 
-![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
+![mindmap-scanner](https://images-1252557999.file.myqcloud.com/uPic/mindmap-scanner.jpg) 
 
-### [devpedia.pages.dev](https://devpedia.pages.dev/)
+### [icon.kitchen](https://icon.kitchen/)
 
-`Dev Encyclopedia` 是一个为开发者提供广泛技术术语、概念和工具解释的在线百科全书：
+一次性生成 `Android、IOS、WEB` 三端 `icon` 图标，可直接预览，效果非常好：
 
-![devpedia](https://images-1252557999.file.myqcloud.com/uPic/L7S0qZ.png) 
+![icon_kitchen](https://images-1252557999.file.myqcloud.com/uPic/icon_kitchen.jpg) 
 
 ## ✍️ 说明
 
