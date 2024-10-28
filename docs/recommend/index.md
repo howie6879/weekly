@@ -5,88 +5,96 @@
 
 ## 🎯 项目 
 
-### [QRec](https://github.com/Coder-Yu/QRec)
+### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
 
-Python编写的推荐系统快速实践框架（基于TF），和之前推荐的[gorse](https://weekly.howie6879.com/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E6%8E%A8%E8%8D%90#gorse)有点类似，但不同的是QRec提供了领先的推荐系统模型用于实践。 
+基于 `SOTA AI` 模型的图片免费开源修补工具：
 
-### [mongo-express](https://github.com/mongo-express/mongo-express)
+![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
 
-基于 `Web` 的 `MongoDB` 管理界面，使用 `Node.js` 和 `Express` 编写：
+### [floccus](https://github.com/floccusaddon/floccus)
 
-![mongo-express](https://images-1252557999.file.myqcloud.com/uPic/mongo-express.png)
-同类型基于 `Web` 的 `Mongo GUI` 还推荐：
+`Floccus` 是一个开源的浏览器书签同步项目，它支持 `Firefox、Chrome、Edge`等浏览器书签同步：
 
-- [mongo-gui](https://github.com/arunbandari/mongo-gui)
-- [Mongoku](https://github.com/huggingface/Mongoku)
-- [mongood](https://github.com/renzholy/mongood) 
+![floccus](https://images-1252557999.file.myqcloud.com/uPic/floccus.jpg) 
 
-### [law-cn-ai](https://github.com/lvwzhen/law-cn-ai)
+### [ladder](https://github.com/everywall/ladder)
 
-AI 法律助手:
+[12ft.io](https://12ft.io/) 的开源替代品，助你越过付费墙，也可以给你干净的阅读体验。
 
-![law-cn-ai](https://images-1252557999.file.myqcloud.com/uPic/law-cn-ai.jpg)
-
-也可以[在线](https://law-cn-ai.vercel.app/)访问。 
+![ladder](https://images-1252557999.file.myqcloud.com/uPic/ladder.jpg) 
 
 ## 🤖 软件 
 
-### [Files](https://github.com/files-community/Files)
+### [BetterNCM](https://github.com/MicroCBer/BetterNCM)
 
-一个现代化的文件管理软件(Windows用户专属)：
+`BetterNCM` 是一个由一群热爱网易云音乐的云村村友开发的 `PC` 版网易云音乐扩展工具，工具通过DLL注入，以插件形式加载至网易云音乐客户端，具有更改主题、增强操作、精简客户端等实用功能：
 
-![files_windows](https://images-1252557999.file.myqcloud.com/uPic/files_windows.jpg) 
+![BetterNCM](https://images-1252557999.file.myqcloud.com/uPic/BetterNCM.png) 
 
-### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
+### [koodo-reader](https://github.com/troyeguo/koodo-reader)
 
-一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
+一个跨平台的电子书阅读器：
 
-![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
+- 支持多达 15 种主流电子书格
+- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
+- 备份数据到  **Dropbox**  和  **Webdav**
+- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
+- 双页模式，单页模式，滚动模式
+- 听书功能，翻译功能，触控屏支持，批量导入图书
+- 支持目录，书签，笔记，高亮，书架，标签
+- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
+- 黑夜模式和主题色设置
 
-### [ruzz](https://github.com/vlts1/ruzz)
+![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
 
-`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
+### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
 
-![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
+安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
+
+- [美团买菜版本](https://github.com/qulingyuan/robVeg)
+- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
 
 ## 👀 资料 
 
-### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+### [动手实现LLM中文版](https://github.com/datawhalechina/llms-from-scratch-cn)
 
-站点可靠性工作手册：
+该项目提供了一个如何从头开始实现类似 `ChatGPT` 的大语言模型（LLM）的详细教程：
 
-![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
+![tllms-from-scratch-cn](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6242161922065677933-y.jpg) 
 
-### [papers-we-love](https://github.com/papers-we-love/papers-we-love)
+### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
 
-项目收集了计算机科学领域值得一读的论文：
+自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
 
-![papers-we-love](https://images-1252557999.file.myqcloud.com/uPic/FiYqA1.png)
+![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
 
-还有一个开发者列出了他喜欢的论文，具体见：[my-favorite-papers](https://ordep.dev/posts/my-favorite-papers)，其中包括了LSM Tree， Kafka， Zookeeper，数字签名，等一些很经典的分布式领域的论文。 
+### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
 
-### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
+开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
 
-教程：小型金融知识图谱流程示范。 
+![fullstackopen](https://images-1252557999.file.myqcloud.com/uPic/p1g8z3.png) 
 
 ## 🕸 网站 
 
-### [alternativeto](https://alternativeto.net/)
+### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
 
-常用软件替代品查询网站：
+目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
 
-### [mindmap-scanner](https://xmind.cn/mindmap-scanner/)
+![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
 
-用 `AI` 将思维导图图片转为可编辑的 `Xmind` 文件：
+### [即时工具](https://www.67tool.com/)
 
-![mindmap-scanner](https://images-1252557999.file.myqcloud.com/uPic/mindmap-scanner.jpg) 
+该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
 
-### [icon.kitchen](https://icon.kitchen/)
+![67tool](https://images-1252557999.file.myqcloud.com/uPic/mhrsW0.jpg) 
 
-一次性生成 `Android、IOS、WEB` 三端 `icon` 图标，可直接预览，效果非常好：
+### [staticrypt](https://github.com/robinmoisson/staticrypt)
 
-![icon_kitchen](https://images-1252557999.file.myqcloud.com/uPic/icon_kitchen.jpg) 
+一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
+
+![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
 
 ## ✍️ 说明
 
