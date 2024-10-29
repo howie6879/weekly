@@ -5,96 +5,114 @@
 
 ## 🎯 项目 
 
-### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
+### [mdx-editor](https://github.com/maqi1520/mdx-editor)
 
-基于 `SOTA AI` 模型的图片免费开源修补工具：
+一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
 
-![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
+![mdx-editor](https://images-1252557999.file.myqcloud.com/uPic/mdx-editor.jpg) 
 
-### [floccus](https://github.com/floccusaddon/floccus)
+### [fusion](https://github.com/0x2E/fusion)
 
-`Floccus` 是一个开源的浏览器书签同步项目，它支持 `Firefox、Chrome、Edge`等浏览器书签同步：
+开源、轻量可自建，用户友好的 RSS 聚合阅读器：
 
-![floccus](https://images-1252557999.file.myqcloud.com/uPic/floccus.jpg) 
+- 轻量级和自托管，支持 Docker
+- 功能丰富
+- 跨平台和响应式设计
+- 多种安装和配置方式
+- 技术栈和社区支持
+- 资源消耗低
 
-### [ladder](https://github.com/everywall/ladder)
+![fusion](https://images-1252557999.file.myqcloud.com/uPic/fusion.png) 
 
-[12ft.io](https://12ft.io/) 的开源替代品，助你越过付费墙，也可以给你干净的阅读体验。
+### [nginx-ui](https://github.com/0xJacky/nginx-ui)
 
-![ladder](https://images-1252557999.file.myqcloud.com/uPic/ladder.jpg) 
+Nginx 后台管理UI：
+
+- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
+- 在线 ChatGPT 助理
+- 一键申请和自动续签 Lets encrypt 证书
+- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
+- 在线查看 Nginx 日志
+- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
+- 保存配置后自动测试配置文件并重载 Nginx
+- 基于网页浏览器的高级命令行终端
+- 支持深色模式
+- 自适应网页设计
+
+![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
 
 ## 🤖 软件 
 
-### [BetterNCM](https://github.com/MicroCBer/BetterNCM)
+### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
 
-`BetterNCM` 是一个由一群热爱网易云音乐的云村村友开发的 `PC` 版网易云音乐扩展工具，工具通过DLL注入，以插件形式加载至网易云音乐客户端，具有更改主题、增强操作、精简客户端等实用功能：
+自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
 
-![BetterNCM](https://images-1252557999.file.myqcloud.com/uPic/BetterNCM.png) 
+![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
 
-### [koodo-reader](https://github.com/troyeguo/koodo-reader)
+### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
 
-一个跨平台的电子书阅读器：
+M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
 
-- 支持多达 15 种主流电子书格
-- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
-- 备份数据到  **Dropbox**  和  **Webdav**
-- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
-- 双页模式，单页模式，滚动模式
-- 听书功能，翻译功能，触控屏支持，批量导入图书
-- 支持目录，书签，笔记，高亮，书架，标签
-- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
-- 黑夜模式和主题色设置
+| 功能                 | 支持       |
+| -------------------- | ---------- |
+| HLS协议点播源        | ✓          |
+| 自定义Http协议头下载 | ✓          |
+| 自定义KEY和IV解密    | ✓          |
+| 本地M3U8文件下载     | ✓          |
+| M3U8 直播源          | ✓          |
+| 标准 AES-128-CBC加密 | ✓          |
+| 标准 AES-196-CBC加密 | ✓          |
+| 标准 AES-256-CBC加密 | ✓          |
+| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
+| 网页嗅探视频源       | ✓          |
 
-![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
+![HLSDownloadShow](https://images-1252557999.file.myqcloud.com/uPic/HLSDownloadShow.gif) 
 
-### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
+### [enchanted](https://github.com/AugustDev/enchanted)
 
-安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
+一个开源的 `macOS/iOS/visionOS` 应用程序，专为与私人托管模型（如 `Llama 2、Mistral、Vicuna、Starling` 等）一起工作而设计。它的界面类似于 `ChatGPT` 应用，可连接到您的私人模型：
 
-- [美团买菜版本](https://github.com/qulingyuan/robVeg)
-- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
+![enchanted](https://img.fre123.com/i/2024/07/12/6690f54b93ccc.jpg) 
 
 ## 👀 资料 
 
-### [动手实现LLM中文版](https://github.com/datawhalechina/llms-from-scratch-cn)
+### [zju-icicles](https://github.com/QSCTech/zju-icicles)
 
-该项目提供了一个如何从头开始实现类似 `ChatGPT` 的大语言模型（LLM）的详细教程：
+浙江大学课程攻略共享计划：
 
-![tllms-from-scratch-cn](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6242161922065677933-y.jpg) 
+![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
 
-### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
+### [How-to-use-Transformers](https://github.com/jsksxs360/How-to-use-Transformers)
 
-自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
+Transformers 库快速入门[教程](https://transformers.run/)：
 
-![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
+![How-to-use-Transformers](https://images-1252557999.file.myqcloud.com/uPic/How-to-use-Transformers.jpg) 
 
-### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
+### [whys-the-design](https://draven.co/whys-the-design/)
 
-开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
+为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
 
-![fullstackopen](https://images-1252557999.file.myqcloud.com/uPic/p1g8z3.png) 
+![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
 
 ## 🕸 网站 
 
-### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
+### [allthingsai](https://allthingsai.com/)
 
-目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
+提供完整的 `AI` 相关工具&服务资源：
 
-![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
+![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
 
-![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
+### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
 
-### [即时工具](https://www.67tool.com/)
+这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
 
-该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
+![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
 
-![67tool](https://images-1252557999.file.myqcloud.com/uPic/mhrsW0.jpg) 
+### [caniuse](https://caniuse.com/)
 
-### [staticrypt](https://github.com/robinmoisson/staticrypt)
+网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
 
-一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
-
-![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
+![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
 
 ## ✍️ 说明
 
