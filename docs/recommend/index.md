@@ -5,94 +5,92 @@
 
 ## 🎯 项目 
 
-### [WeChatMsg](https://github.com/LC044/WeChatMsg)
+### [halo](https://github.com/halo-dev/halo)
 
-提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告：
+✍ 一款现代化的开源博客& `CMS` 系统：
 
-![WeChatMsg](https://images-1252557999.file.myqcloud.com/uPic/WeChatMsg.png) 
+![halo](https://images-1252557999.file.myqcloud.com/uPic/halo.jpg) 
 
-### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
+### [MinerU](https://github.com/opendatalab/MinerU)
 
-可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
+`MinerU` 是一款一站式、开源、高质量的数据提取工具，主要包含以下功能:
 
-类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
+- Magic-PDF PDF文档提取
+- Magic-Doc 网页与电子书提取
 
-![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
+对于有 PDF 转换 MD 需求的朋友可以尝试下：
 
-### [album-ai](https://github.com/gcui-art/album-ai)
+![MinerU](https://images-1252557999.file.myqcloud.com/uPic/MinerU.png) 
 
-挺有想法的项目，基于 `gpt-4o-mini` 作为视觉模型，自动识别出相册中图像文件的元信息，然后借助 `RAG` 技术，实现了与相册对话的能力：
+### [openui](https://github.com/wandb/openui)
 
-![album-ai](https://images-1252557999.file.myqcloud.com/uPic/album-ai.jpg) 
+将你脑中的页面通过文本描述来自动实时生成，非常方便，但是实用性具体如何还需要探索，期待这个项目持续迭代：
+
+![openui](https://images-1252557999.file.myqcloud.com/uPic/openui.jpg)
+
+它甚至可以帮助你将HTML转换成 `React、Svelte or Web Components` 等格式。 
 
 ## 🤖 软件 
 
-### [Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)
+### [Vieb](https://vieb.dev/)
 
-由于在 `QQ` 和微信中发送 `APK` 文件时，文件名会被腾讯添加后缀.1，此 `App` 可以省去重命名步骤，直接安装：
+开源免费的全平台（PC）`Vim`风格电子浏览器：
 
-- 获取安装权限（不需要读取存储权限）
-- 在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序 
+![Vieb](https://images-1252557999.file.myqcloud.com/uPic/BqyWaK.png) 
 
-### [balenaEtcher](https://github.com/balena-io/etcher)
+### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
 
-balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
+免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
 
-![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
+![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
 
-### [bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)
+### [Tailor](https://github.com/FutureUniant/Tailor)
 
-一款基于 `Flutter` 开发的跨平台面端 B 站视频下载器：
+Tailor（中文简称：泰勒）是一款视频智能裁剪、视频生成和视频优化的工具。目前该项目包括了视频剪辑、视频生成和视频优化3大类视频处理方向，共10种方法。Tailor使用方法简单，点点鼠标即可使用最先进的人工智能进行视频处理工作，省时省力，若使用安装版本Tailor，所有的环境配置都可省掉，对用户特别友好。
 
-![bilivideo_down](https://images-1252557999.file.myqcloud.com/uPic/bilivideo_down.jpg) 
+![Tailor](https://images-1252557999.file.myqcloud.com/uPic/Tailor.png) 
 
 ## 👀 资料 
 
-### [rosedb](https://github.com/flower-corp/rosedb)
+### [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
 
-`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
+本仓库是手册《简单粗暴LaTeX》的开源仓库。本书涵盖了LaTeX的基本使用场景，以简明的例子来展现各命令的用法：
 
-![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
+![Note-by-LaTeX](https://images-1252557999.file.myqcloud.com/uPic/Note-by-LaTeX.jpg)
 
-作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
+在开源仓库可直接下载阅读。 
 
-### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
+![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
 
-![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
+### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
 
-### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
+30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
 
-本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
-
-- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
-- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
-- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
-
-![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
+![30-Days-Of-React](https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg) 
 
 ## 🕸 网站 
 
-### [douyin.wtf](https://douyin.wtf/)
+### [learngpt.com](https://www.learngpt.com/)
 
-网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
+`ChatGPT` 最佳用例分享网站：
 
-![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
+![learngpt](https://images-1252557999.file.myqcloud.com/uPic/learngpt.jpg) 
 
-### [chess.com](https://www.chess.com/)
+### [web-check](https://web-check.xyz/)
 
-在线国际象棋：
+输入目标网址，分析该网站各项 `web` 检查信息，非常详细：
 
-![chess](https://images-1252557999.file.myqcloud.com/uPic/chess.jpg) 
+![web-check](https://images-1252557999.file.myqcloud.com/uPic/web-check.jpg) 
 
-### [稀土掘金大模型子站](https://llm.juejin.cn/view)
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
 
-大模型相关产品导航：
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
 
-![llm_juejin](https://images-1252557999.file.myqcloud.com/uPic/llm_juejin.jpg) 
+![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
 
 ## ✍️ 说明
 
