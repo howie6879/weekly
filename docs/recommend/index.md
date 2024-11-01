@@ -5,92 +5,96 @@
 
 ## 🎯 项目 
 
-### [halo](https://github.com/halo-dev/halo)
+### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
 
-✍ 一款现代化的开源博客& `CMS` 系统：
+抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
 
-![halo](https://images-1252557999.file.myqcloud.com/uPic/halo.jpg) 
+![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
 
-### [MinerU](https://github.com/opendatalab/MinerU)
+### [Docusaurus](https://github.com/facebook/docusaurus)
 
-`MinerU` 是一款一站式、开源、高质量的数据提取工具，主要包含以下功能:
+`Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
 
-- Magic-PDF PDF文档提取
-- Magic-Doc 网页与电子书提取
+![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
 
-对于有 PDF 转换 MD 需求的朋友可以尝试下：
+### [500lines](https://github.com/aosabook/500lines)
 
-![MinerU](https://images-1252557999.file.myqcloud.com/uPic/MinerU.png) 
+如果工作中用`Python`比较多的朋友，应该会听过[500lines](https://github.com/aosabook/500lines)项目，它是**aosabook**项目（下面网站部分有介绍）的第四本书。
 
-### [openui](https://github.com/wandb/openui)
+这个项目由 18 个独立的章节组成，每个章节都是由该领域的大牛完成，每个章节都试图用 500 行或者更少的代码，让大家了解一个功能或需求的简单实现，比如有：
 
-将你脑中的页面通过文本描述来自动实时生成，非常方便，但是实用性具体如何还需要探索，期待这个项目持续迭代：
+- 持续集成系统
+- 分布式系统
+- 异步爬虫
+- 等等
 
-![openui](https://images-1252557999.file.myqcloud.com/uPic/openui.jpg)
-
-它甚至可以帮助你将HTML转换成 `React、Svelte or Web Components` 等格式。 
+如果想阅读中文，见[500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)项目，但是还没有完全翻译完毕。 
 
 ## 🤖 软件 
 
-### [Vieb](https://vieb.dev/)
+### [listen1_desktop](https://github.com/listen1/listen1_desktop)
 
-开源免费的全平台（PC）`Vim`风格电子浏览器：
+Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单，支持音乐平台：
 
-![Vieb](https://images-1252557999.file.myqcloud.com/uPic/BqyWaK.png) 
+- 网易云音乐
+- QQ 音乐
+- 酷狗音乐
+- 酷我音乐
+- bilibili
+- 咪咕音乐
+- 千千音乐
 
-### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
+![listen1_desktop](https://images-1252557999.file.myqcloud.com/uPic/listen1_desktop.png) 
 
-免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
+### [Screenbox](https://github.com/huynhsontung/Screenbox)
 
-![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
+Screenbox 是一款现代视频播放器，构建在 LibVLCSharp 和通用 Windows 平台 (UWP) 之上，颜值颇高，同时又快速、轻量级。支持在 Windows 10 版本 1903+、Windows 11 和 Xbox 主机上使用:
 
-### [Tailor](https://github.com/FutureUniant/Tailor)
+![Screenbox](https://images-1252557999.file.myqcloud.com/uPic/Screenbox.jpg) 
 
-Tailor（中文简称：泰勒）是一款视频智能裁剪、视频生成和视频优化的工具。目前该项目包括了视频剪辑、视频生成和视频优化3大类视频处理方向，共10种方法。Tailor使用方法简单，点点鼠标即可使用最先进的人工智能进行视频处理工作，省时省力，若使用安装版本Tailor，所有的环境配置都可省掉，对用户特别友好。
+### [breezy-weather](https://github.com/breezy-weather/breezy-weather/)
 
-![Tailor](https://images-1252557999.file.myqcloud.com/uPic/Tailor.png) 
+`Breezy Weather` 是一款全面采用 `Material Design` 设计风格的天气应用，其注重设计，UI简洁，动画效果流畅：
+
+![breezy-weather](https://images-1252557999.file.myqcloud.com/uPic/breezy-weather.jpg) 
 
 ## 👀 资料 
 
-### [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
+### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
 
-本仓库是手册《简单粗暴LaTeX》的开源仓库。本书涵盖了LaTeX的基本使用场景，以简明的例子来展现各命令的用法：
+阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
 
-![Note-by-LaTeX](https://images-1252557999.file.myqcloud.com/uPic/Note-by-LaTeX.jpg)
+![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
 
-在开源仓库可直接下载阅读。 
+### [fun-rec](https://github.com/datawhalechina/fun-rec/)
 
-### [miaosha](https://github.com/qiurunze123/miaosha)
+本[教程](https://datawhalechina.github.io/fun-rec/#/)主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。
 
-高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
+![fun-rec](https://images-1252557999.file.myqcloud.com/uPic/fun-rec.jpg) 
 
-![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
+### [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial)
 
-### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
-
-30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
-
-![30-Days-Of-React](https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg) 
+一份用 `Python` 编写 `systemd` 服务的教程。 
 
 ## 🕸 网站 
 
-### [learngpt.com](https://www.learngpt.com/)
+### [pandagpt.io](https://www.pandagpt.io/)
 
-`ChatGPT` 最佳用例分享网站：
+基于  `ChatGPT` 的 `AI` 文档机器人：
 
-![learngpt](https://images-1252557999.file.myqcloud.com/uPic/learngpt.jpg) 
+![pandagpt](https://images-1252557999.file.myqcloud.com/uPic/pandagpt.jpg) 
 
-### [web-check](https://web-check.xyz/)
+### [FRE123-动漫搜索引擎](https://www.fre123.com/anime/s)
 
-输入目标网址，分析该网站各项 `web` 检查信息，非常详细：
+`FRE123` 周末新上了个动漫番剧搜索引擎，主要是汇集一些比较好的番剧网站资源，提供搜索服务，让用户更快速找到自己想看到的番剧，欢迎提意见：
 
-![web-check](https://images-1252557999.file.myqcloud.com/uPic/web-check.jpg) 
+![fre123_anime](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime.jpg) 
 
-### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+### [fancymacbook](https://fancymacbook.app/)
 
-人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
+提供技术向软件搜索然后输出 `brew` 命令安装：
 
-![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
+![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
 
 ## ✍️ 说明
 
