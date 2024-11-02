@@ -5,96 +5,98 @@
 
 ## 🎯 项目 
 
-### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
+### [Chat2DB](https://github.com/chat2db/Chat2DB)
 
-抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
+`Chat2DB` 是一款有开源免费的智能且多功能的SQL客户端和报表工具，适用于各种数据库：
 
-![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
+- 🌈 AI智能助手，支持自然语言转SQL、SQL转自然语言、SQL优化建议
+- 🔥 SQL查询、AI查询和数据报表完美集成的一体化解决方案设计与实现
+- 👭 支持团队协作，研发无需知道线上数据库密码，解决企业数据库账号安全问题
+- ⚙️ 强大的数据管理能力，支持数据表、视图、存储过程、函数、触发器、索引、序列、用户、角色、授权等管理
+- 🔌 强大的扩展能力，目前已经支持MySQL、PostgreSQL、Oracle、SQLServer、ClickHouse、OceanBase、H2、SQLite等等，未来会支持更多的数据库
+- 🛡 前端使用 Electron 开发，提供 Windows、Mac、Linux 客户端、网页版本一体化的解决方案
+- 🎁 支持环境隔离、线上、日常数据权限分离
 
-### [Docusaurus](https://github.com/facebook/docusaurus)
+![Chat2DB](https://images-1252557999.file.myqcloud.com/uPic/Chat2DB.png) 
 
-`Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
+### [tabler](https://github.com/tabler/tabler)
 
-![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
+基于 `Bootstrap` 的免费开源的 `Dashboard UI` 工具包：
 
-### [500lines](https://github.com/aosabook/500lines)
+![tabler-preview](https://images-1252557999.file.myqcloud.com/uPic/tabler-preview.png) 
 
-如果工作中用`Python`比较多的朋友，应该会听过[500lines](https://github.com/aosabook/500lines)项目，它是**aosabook**项目（下面网站部分有介绍）的第四本书。
+### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
 
-这个项目由 18 个独立的章节组成，每个章节都是由该领域的大牛完成，每个章节都试图用 500 行或者更少的代码，让大家了解一个功能或需求的简单实现，比如有：
+通过网络收集整理的中文歌词数据库, 包含:
 
-- 持续集成系统
-- 分布式系统
-- 异步爬虫
-- 等等
+- 绝大多数华语歌手在2019年之前的歌曲
+- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
+- 102197首歌曲, 平均每人25.4首歌
 
-如果想阅读中文，见[500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)项目，但是还没有完全翻译完毕。 
+作者基于此数据库做了两个歌词生成器：
+
+- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
+- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
 
 ## 🤖 软件 
 
-### [listen1_desktop](https://github.com/listen1/listen1_desktop)
+### [Übersicht](https://github.com/felixhageloh/uebersicht)
 
-Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单，支持音乐平台：
+构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
 
-- 网易云音乐
-- QQ 音乐
-- 酷狗音乐
-- 酷我音乐
-- bilibili
-- 咪咕音乐
-- 千千音乐
+![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
 
-![listen1_desktop](https://images-1252557999.file.myqcloud.com/uPic/listen1_desktop.png) 
+### [jingmo](https://github.com/hefengbao/jingmo)
 
-### [Screenbox](https://github.com/huynhsontung/Screenbox)
+『京墨』开源免费的古诗词文（名句）、歇后语、成语、传统节日、绕口令等的阅读 `APP`：
 
-Screenbox 是一款现代视频播放器，构建在 LibVLCSharp 和通用 Windows 平台 (UWP) 之上，颜值颇高，同时又快速、轻量级。支持在 Windows 10 版本 1903+、Windows 11 和 Xbox 主机上使用:
+![jingmo](https://images-1252557999.file.myqcloud.com/uPic/EL9mYu.png) 
 
-![Screenbox](https://images-1252557999.file.myqcloud.com/uPic/Screenbox.jpg) 
+### [weektodo](https://weektodo.me/)
 
-### [breezy-weather](https://github.com/breezy-weather/breezy-weather/)
+`WeekToDo` 是一个免费且开源&跨平台的极简周计划软件，您可以以简单直观的方式定义和管理您的周计划和任务，从而提高您的工作效率：
 
-`Breezy Weather` 是一款全面采用 `Material Design` 设计风格的天气应用，其注重设计，UI简洁，动画效果流畅：
-
-![breezy-weather](https://images-1252557999.file.myqcloud.com/uPic/breezy-weather.jpg) 
+![weektodo](https://images-1252557999.file.myqcloud.com/uPic/weektodo.jpg) 
 
 ## 👀 资料 
 
-### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
+### [meetup](https://github.com/baiyutang/meetup)
 
-阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
+【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
 
-![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
+![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
 
-### [fun-rec](https://github.com/datawhalechina/fun-rec/)
+### [under-the-hood](https://golang.design/under-the-hood/)
 
-本[教程](https://datawhalechina.github.io/fun-rec/#/)主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。
+`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
 
-![fun-rec](https://images-1252557999.file.myqcloud.com/uPic/fun-rec.jpg) 
+![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
 
-### [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial)
+### [Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
 
-一份用 `Python` 编写 `systemd` 服务的教程。 
+一些好用的 Dify 工作流集合，括了中英文翻译、知识库聊天、搜索大师、爆款标题、文章仿写、运营一条龙、聊天机器人、代码生成等工作流。 
 
 ## 🕸 网站 
 
-### [pandagpt.io](https://www.pandagpt.io/)
+### [小纸条-gitcafe](https://u.gitcafe.net/)
 
-基于  `ChatGPT` 的 `AI` 文档机器人：
+开放纯粹的资源网站：
 
-![pandagpt](https://images-1252557999.file.myqcloud.com/uPic/pandagpt.jpg) 
+![gitcafe](https://images-1252557999.file.myqcloud.com/uPic/gitcafe.jpg) 
 
-### [FRE123-动漫搜索引擎](https://www.fre123.com/anime/s)
+### [musicforprogramming](https://musicforprogramming.net/latest/)
 
-`FRE123` 周末新上了个动漫番剧搜索引擎，主要是汇集一些比较好的番剧网站资源，提供搜索服务，让用户更快速找到自己想看到的番剧，欢迎提意见：
+非常极客的背景音乐网站：
 
-![fre123_anime](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime.jpg) 
+![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
 
-### [fancymacbook](https://fancymacbook.app/)
+### [handsome-css](https://www.handsome-css.com/)
 
-提供技术向软件搜索然后输出 `brew` 命令安装：
+网站主旨在于收集网上仅靠 `CSS` 与 `HTML` 就可以实现的动效 `UI`，目的是为了提高开发者的审美和技术：
 
-![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
+![handsome-css3](https://images-1252557999.file.myqcloud.com/uPic/handsome-css3.jpg)
+
+项目开源在：[handsome-css3-lib](https://github.com/ZiYi0414/handsome-css3-lib)。 
 
 ## ✍️ 说明
 
