@@ -5,95 +5,81 @@
 
 ## 🎯 项目 
 
-### [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)
+### [NarratoAI](https://github.com/linyqh/NarratoAI)
 
-`ChatGPT` 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制：
+利用AI大模型，一键解说并剪辑视频；
 
-![aishort](https://images-1252557999.file.myqcloud.com/uPic/aishort.jpg) 
+![GehnG3](https://images-1252557999.file.myqcloud.com/uPic/GehnG3.png) 
 
-### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
+### [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)
 
-`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
+将 `Github Copilot Chat` 请求转换为 `ChatGPT` 请求，免费使用 `GPT-4` 模型：
 
-![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
+![copilot-gpt4-service](https://images-1252557999.file.myqcloud.com/uPic/copilot-gpt4-service.png) 
 
-### [alist](https://github.com/Xhofe/alist)
+### [EasySpider](https://github.com/NaiboWang/EasySpider)
 
-一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
+一个可视化浏览器自动化测试/数据采集/爬虫软件，可以使用图形化界面，无代码可视化的设计和执行任务。只需要在网页上选择自己想要操作的内容并根据提示框操作即可完成任务的设计和执行。同时软件还可以单独以命令行的方式进行执行，从而可以很方便的嵌入到其他系统中。
 
-![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
-
-简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
+![EasySpider](https://images-1252557999.file.myqcloud.com/uPic/EasySpider.jpg) 
 
 ## 🤖 软件 
 
-### [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
+### [HandBrake](https://github.com/HandBrake/HandBrake)
 
-`Bulk Crap Uninstaller` 是一款免费开源的 `Windows` 卸载软件，它能够快速删除大量不需要的应用程序，甚至是便携或未注册的程序与游戏，并且能自动扫描残留文件、注册表遗留内容等：
+`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
 
-![Bulk-Crap-Uninstaller](https://images-1252557999.file.myqcloud.com/uPic/Bulk-Crap-Uninstaller.png) 
+![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
 
-### [RedFish](https://github.com/Kuari/RedFish)
+### [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)
 
-一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
+基于 `ScreenCapture Kit` 的轻量化多功能 `macOS` 录屏工具：
 
-![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
+![QuickRecorder](https://images-1252557999.file.myqcloud.com/uPic/QuickRecorder.jpg) 
 
-### [Speechless](https://github.com/meterscao/Speechless)
+### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
 
-`Speechless` 是一个帮助新浪微博用户，把微博内容导出成 `PDF` 进行本地备份的 `Chrome Extension`：
+`TinyPNG`的`Mac`客户端：
 
-![Speechless](https://images-1252557999.file.myqcloud.com/uPic/Speechless.jpeg) 
+![TinyPNG4Mac](https://images-1252557999.file.myqcloud.com/uPic/TinyPNG4Mac.png) 
 
 ## 👀 资料 
 
-### [rosedb](https://github.com/flower-corp/rosedb)
+### [1000h by 李笑来](https://1000h.org/)
 
-`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
+通过投入1000小时的注意力，你可以掌握任何你需要的东西：
 
-![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
+![1000h](https://images-1252557999.file.myqcloud.com/uPic/1000h.jpg) 
 
-作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
+### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
 
-### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
+精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
 
-本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
+### [动手实现LLM中文版](https://github.com/datawhalechina/llms-from-scratch-cn)
 
-![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
+该项目提供了一个如何从头开始实现类似 `ChatGPT` 的大语言模型（LLM）的详细教程：
 
-### [TLCL](https://billie66.github.io/TLCL/book/)
-
-`The Linux Command Line` 中文翻译：
-
-![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
+![tllms-from-scratch-cn](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6242161922065677933-y.jpg) 
 
 ## 🕸 网站 
 
-### [devhints](https://devhints.io/)
+### [sayhello](https://beta.sayhello.so/)
 
-一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-![devhints](https://images-1252557999.file.myqcloud.com/uPic/Wl8r0C.png) 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
-### [historyline.online](https://github.com/liujuntao123/chines-history-video)
+### [cook](https://github.com/YunYouJun/cook)
 
-中国历朝代历史视频讲解，汇聚了B站上综合数据（点赞，播放，投币，收藏）最高的一个/几个视频：
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-![historyline](https://images-1252557999.file.myqcloud.com/uPic/historyline.jpg) 
+![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
 
-### [腾讯 ARC](https://arc.tencent.com/zh/ai-demos/faceRestoration)
+### [up-6.com](https://www.up-6.com/)
 
-腾讯 `ARC Lab` 被称为腾讯 `PCG` 的「侦察兵」、「特种兵」，站在腾讯探索挑战智能媒体相关前沿技术的第一线。
+一个英语学习导航网站：
 
-这个 `Demo` 网页允许用户进行：
-
-- 人像修复
-- 人像抠图
-- 动漫增强
-
-模型，免费实用。
-
-![faceRestoration](https://images-1252557999.file.myqcloud.com/uPic/faceRestoration.jpg) 
+![up-6](https://images-1252557999.file.myqcloud.com/uPic/up-6.jpg) 
 
 ## ✍️ 说明
 
