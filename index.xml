@@ -12,7 +12,61 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 27 Oct 2024 13:15:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 06:33:23 +0000</lastBuildDate>
+    <item>
+      <title>10-28~11-03.老胡的周刊（第166期）.md</title>
+      <link>https://weekly.howie6879.com/2024/10-28~11-03.老胡的周刊（第166期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/10-28~11-03.老胡的周刊（第166期）.html"&gt;10-28~11-03.老胡的周刊（第166期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/lovasoa/whitebophir"&gt;whitebophir&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个简单、免费、易于使用和部署的在线协作白板。该白板允许多个用户同时实时绘图，并且可以保存白板状态：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="whitebophir" src="https://images-1252557999.file.myqcloud.com/uPic/KZgRku.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/kuangdd2024/auto-video-generateor?tab=readme-ov-file"&gt;auto-video-generateor&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;自动视频生成器，给定主题，自动生成解说视频。用户输入主题文字，系统调用大语言模型生成故事或解说的文字，然后进一步调用语音合成接口生成解说的语音，调用文生图接口生成契合文字内容的配图，最后融合语音和配图生成解说视频。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="auto-video-generateor" src="https://images-1252557999.file.myqcloud.com/uPic/KHPaGI.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/JLinMr/Mini-Cover"&gt;Mini-Cover&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Mini-Cover" src="https://images-1252557999.file.myqcloud.com/uPic/OGMrle.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/amir1376/ab-download-manager"&gt;ab-download-manager&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;旨在提供比传统下载方式更快下载速度的开源跨平台下载器，界面非常现代化：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ab-download-manager" src="https://images-1252557999.file.myqcloud.com/uPic/ECGYnu.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/jinweijie/notify-me"&gt;notify-me&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源免费的 &lt;code&gt;Android&lt;/code&gt; 应用，自动捕获来电和短信，并通过电子邮件或 &lt;code&gt;Webhook&lt;/code&gt; 转发至 &lt;code&gt;Bark&lt;/code&gt; 服务器。用户可在其他设备上通过 Bark 应用接收通知，确保及时获取重要信息，解决多设备信息聚合的问题：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="notify-me" src="https://images-1252557999.file.myqcloud.com/uPic/oSr8cn.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/lanyeeee/bilibili-manga-downloader"&gt;bilibili-manga-downloader&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个用于哔哩哔哩漫画的多线程下载器，带图形界面，支持特典下载，下载速度飞快:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bilibili-manga-downloader" src="https://images-1252557999.file.myqcloud.com/uPic/ZqukK1.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/hanydd/BilibiliSponsorBlock"&gt;BilibiliSponsorBlock&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一款跳过B站视频中恰饭片段的浏览器插件，移植自 &lt;a href="https://github.com/ajayyy/SponsorBlock"&gt;SponsorBlock&lt;/a&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="BilibiliSponsorBlock" src="https://images-1252557999.file.myqcloud.com/uPic/3iEbMD.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/AIGeniusInstitute/AI-Agent-In-Action"&gt;AI-Agent-In-Action&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源的 &lt;code&gt;AI Agent&lt;/code&gt; 开发实战书籍：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="AI-Agent-In-Action" src="https://images-1252557999.file.myqcloud.com/uPic/VkUaD9.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.beiancx.com/"&gt;beiancx&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;域名备案查询工具网站：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="beiancx" src="https://images-1252557999.file.myqcloud.com/uPic/7X7Kkn.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://zhale.me/"&gt;zhale.me&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;这是一款为运维人员和站长设计的在线网络测试工具，拥有超过1000个全球节点。它可以模拟用户访问特定的域名或IP地址，免费提供网站速度测试、网络速度检测、多地区在线ping测试、DNS查询、路由跟踪以及IPv6网站测试等多种站长工具：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="zhale.me" src="https://images-1252557999.file.myqcloud.com/uPic/rwk3mb.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">10-28~11-03.老胡的周刊（第166期）.md</guid>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>10-21~10-27.老胡的周刊（第165期）.md</title>
       <link>https://weekly.howie6879.com/2024/10-21~10-27.老胡的周刊（第165期）.html</link>
@@ -1207,73 +1261,6 @@ curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/rel
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">06-17~06-23.老胡的周刊（第147期）.md</guid>
       <pubDate>Sun, 23 Jun 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>06-11~06-16.老胡的周刊（第146期）.md</title>
-      <link>https://weekly.howie6879.com/2024/06-11~06-16.老胡的周刊（第146期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/06-11~06-16.老胡的周刊（第146期）.html"&gt;06-11~06-16.老胡的周刊（第146期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/stonith404/pingvin-share"&gt;pingvin-share&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Pingvin Share&lt;/code&gt; 是一个可自建的文件分享平台，是 &lt;code&gt;WeTransfer&lt;/code&gt; 的一个替代品：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;通过可自定义后缀的链接分享文件&lt;/li&gt;
-&lt;li&gt;可自定义任意大小的文件上传限制 (受制于托管所在的硬盘大小)&lt;/li&gt;
-&lt;li&gt;对共享链接设置有效期限&lt;/li&gt;
-&lt;li&gt;对共享链接设置访问次数和访问密码&lt;/li&gt;
-&lt;li&gt;通过邮件自动发送共享链接&lt;/li&gt;
-&lt;li&gt;整合 ClamAV 进行反病毒检查&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="pingvin-share" src="https://images-1252557999.file.myqcloud.com/uPic/pingvin-share.png" /&gt;
-还有个类似的开源项目&lt;a href="https://github.com/bitiful/send"&gt;奶油快传-bitiful/send&lt;/a&gt;，相对轻量，但也没有 &lt;code&gt;pingvin-share&lt;/code&gt; 成熟：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="bitiful" src="https://images-1252557999.file.myqcloud.com/uPic/bitiful.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/ArchiveBox/ArchiveBox"&gt;ArchiveBox&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;ArchiveBox&lt;/code&gt; 是一个强大的、可自建的互联网归档解决方案，可以收集、保存和查看你想离线保存的网站：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ArchiveBox" src="https://images-1252557999.file.myqcloud.com/uPic/ArchiveBox.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/zoriya/Kyoo"&gt;Kyoo&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Kyoo&lt;/code&gt; 是一款开源媒体浏览器，可让您流式传输电影、电视节目或动漫。它是 &lt;code&gt;Plex、Emby or Jellyfin&lt;/code&gt; 的替代品：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="kyoo" src="https://images-1252557999.file.myqcloud.com/uPic/kyoo.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;目前产品形态只有 &lt;code&gt;Web&lt;/code&gt; 和 &lt;code&gt;Android&lt;/code&gt;。&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/jordanbaird/Ice"&gt;Ice&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Mac&lt;/code&gt; 桌面顶部菜单图标管理工具，可以控制哪些展示，哪些隐藏，&lt;code&gt;Bartender&lt;/code&gt; 的开源免费替代产品：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Ice" src="https://images-1252557999.file.myqcloud.com/uPic/Ice.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/getseabird/seabird"&gt;seabird&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Seabird&lt;/code&gt; 是一个原生的跨平台 &lt;code&gt;Kubernetes&lt;/code&gt; 桌面客户端，它可以非常容易地探索集群的资源：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="seabird" src="https://images-1252557999.file.myqcloud.com/uPic/seabird.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/10miaomiao/bilimiao2"&gt;bilimiao2&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一款安卓上的哔哩哔哩的第三方APP：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="bilimiao2" src="https://images-1252557999.file.myqcloud.com/uPic/bilimiao2.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/qianguyihao/Web"&gt;qianguyihao/Web&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;网上的大部分入门教程，都不太适合初学者，本项目争取照顾到每一位前端入门者的同理心。即使你完全不懂前端，甚至不懂编程，通过这个教程，也能让小白入门。&lt;/li&gt;
-&lt;li&gt;帮助前端同学提供一个精品学习资源和路线，提高学习效率，少走很多弯路。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="qianguyihao" src="https://images-1252557999.file.myqcloud.com/uPic/qianguyihao.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;可以当做前端字典，随时翻阅，查漏补缺，在线观看地址：&lt;a href="https://web.qianguyihao.com/"&gt;web.qianguyihao.com&lt;/a&gt;。&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://hotkeycheatsheet.com/zh"&gt;hotkeycheatsheet&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;常用软件的快捷键备忘录：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="hotkeycheatsheet" src="https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://cn.dll-files.com/"&gt;dll-files&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;最近一些工作在 Windows 系统上完成，有一些软件总是提示：无法找到xxxx.dll文件...，这个网站很好地解决了我的问题：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="dll-files" src="https://images-1252557999.file.myqcloud.com/uPic/dll-files.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">06-11~06-16.老胡的周刊（第146期）.md</guid>
-      <pubDate>Sun, 16 Jun 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
