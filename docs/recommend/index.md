@@ -5,81 +5,103 @@
 
 ## 🎯 项目 
 
-### [NarratoAI](https://github.com/linyqh/NarratoAI)
+### [novu](https://github.com/novuhq/novu)
 
-利用AI大模型，一键解说并剪辑视频；
+这是一个开源的基础设施项目，用于快速搭建通知中心，`Novu` 提供了一个统一的 `API`，使通过多个通道（包括应用内、推送、电子邮件、短信和聊天）发送通知变得简单：
 
-![GehnG3](https://images-1252557999.file.myqcloud.com/uPic/GehnG3.png) 
+![novu](https://images-1252557999.file.myqcloud.com/uPic/novu.jpg) 
 
-### [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)
+### [FastGPT](https://github.com/labring/FastGPT)
 
-将 `Github Copilot Chat` 请求转换为 `ChatGPT` 请求，免费使用 `GPT-4` 模型：
+`FastGPT` 是一个基于 `LLM` 大语言模型的知识库问答系统，提供开箱即用的数据处理、模型调用等能力。同时可以通过 `Flow` 可视化进行工作流编排，从而实现复杂的问答场景：
 
-![copilot-gpt4-service](https://images-1252557999.file.myqcloud.com/uPic/copilot-gpt4-service.png) 
+![FastGPT](https://images-1252557999.file.myqcloud.com/uPic/FastGPT.jpg) 
 
-### [EasySpider](https://github.com/NaiboWang/EasySpider)
+### [stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
 
-一个可视化浏览器自动化测试/数据采集/爬虫软件，可以使用图形化界面，无代码可视化的设计和执行任务。只需要在网页上选择自己想要操作的内容并根据提示框操作即可完成任务的设计和执行。同时软件还可以单独以命令行的方式进行执行，从而可以很方便的嵌入到其他系统中。
+基于 `Docker` 的一站式 `Stable Diffusion`（最近很火的 AI 文字生成图片的模型）安装包，可提供以下多个 `UI` 可选：
 
-![EasySpider](https://images-1252557999.file.myqcloud.com/uPic/EasySpider.jpg) 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
+- [sygil-webui](https://github.com/Sygil-Dev/sygil-webui)
+
+![sd_ui_docker](https://images-1252557999.file.myqcloud.com/uPic/sd_ui_docker.jpg) 
 
 ## 🤖 软件 
 
-### [HandBrake](https://github.com/HandBrake/HandBrake)
+### [yarr](https://github.com/nkanaev/yarr)
 
-`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
+基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
 
-![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
+```shell
+mkdir -p ./yarr/data
+docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
+```
 
-### [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)
+总体来说还是挺简洁轻量的：
 
-基于 `ScreenCapture Kit` 的轻量化多功能 `macOS` 录屏工具：
+![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
 
-![QuickRecorder](https://images-1252557999.file.myqcloud.com/uPic/QuickRecorder.jpg) 
+### [BlackHole](https://github.com/Sangwan5688/BlackHole)
 
-### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
+一个适用于您所有需求的开源音乐播放器应用，高颜值、无广告、免费音乐播放器，拥有歌词、专辑、艺术家、播放列表、定时关闭等功能，支持 `Android、iOS、macOS` 系统：
 
-`TinyPNG`的`Mac`客户端：
+![BlackHole](https://images-1252557999.file.myqcloud.com/uPic/BlackHole.png)
+![hole](https://images-1252557999.file.myqcloud.com/uPic/hole.jpg) 
 
-![TinyPNG4Mac](https://images-1252557999.file.myqcloud.com/uPic/TinyPNG4Mac.png) 
+### [bloop](https://github.com/BloopAI/bloop)
+
+`bloop` 是一个用 Rust 编写的快速代码搜索引擎，内部集成 `LLM` 大模型，可以快速让你导入一个代码仓库以自然语言形式进行问答，想快速上手一个项目或者文档不怎么够的项目，力荐👀：
+
+![bloop](https://images-1252557999.file.myqcloud.com/uPic/bloop.jpg) 
 
 ## 👀 资料 
 
-### [1000h by 李笑来](https://1000h.org/)
+### [Web Development History](https://webdevelopmenthistory.com/index/)
 
-通过投入1000小时的注意力，你可以掌握任何你需要的东西：
+`Web` 开发发展史文章系列：
 
-![1000h](https://images-1252557999.file.myqcloud.com/uPic/1000h.jpg) 
+![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
 
-### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
+### [qianguyihao/Web](https://github.com/qianguyihao/Web)
 
-精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
+千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师:
 
-### [动手实现LLM中文版](https://github.com/datawhalechina/llms-from-scratch-cn)
+- 网上的大部分入门教程，都不太适合初学者，本项目争取照顾到每一位前端入门者的同理心。即使你完全不懂前端，甚至不懂编程，通过这个教程，也能让小白入门。
+- 帮助前端同学提供一个精品学习资源和路线，提高学习效率，少走很多弯路。
 
-该项目提供了一个如何从头开始实现类似 `ChatGPT` 的大语言模型（LLM）的详细教程：
+![qianguyihao](https://images-1252557999.file.myqcloud.com/uPic/qianguyihao.jpg)
 
-![tllms-from-scratch-cn](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6242161922065677933-y.jpg) 
+可以当做前端字典，随时翻阅，查漏补缺，在线观看地址：[web.qianguyihao.com](https://web.qianguyihao.com/)。 
+
+### [云安全攻防入门](https://lzcloudsecurity.gitbook.io/yun-an-quan-gong-fang-ru-men/)
+
+关于云安全攻防的基础知识：
+
+![yun-an-quan-gong-fang-ru-men](https://images-1252557999.file.myqcloud.com/uPic/yun-an-quan-gong-fang-ru-men.jpg) 
 
 ## 🕸 网站 
 
-### [sayhello](https://beta.sayhello.so/)
+### [emojispark](https://emojispark.com/)
 
-面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
+`Emoji` 搜索网站：
 
-![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+![emojispark](https://images-1252557999.file.myqcloud.com/uPic/d8ed41.png) 
 
-### [cook](https://github.com/YunYouJun/cook)
+### [tailspark](https://tailspark.co/)
 
-一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
+`300+` 免费的 `TailwindCSS` 组件和模板，让您在几分钟内构建网站，颜值也非常高：
 
-![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
+![tailspark](https://images-1252557999.file.myqcloud.com/uPic/tailspark.jpg) 
 
-### [up-6.com](https://www.up-6.com/)
+### [ui.aceternity.com](https://ui.aceternity.com/components)
 
-一个英语学习导航网站：
+网站包含多种前端动态效果，可以一键复制代码使用，同类网站有：
 
-![up-6](https://images-1252557999.file.myqcloud.com/uPic/up-6.jpg) 
+- https://uiverse.io/
+- https://www.handsome-css.com/
+
+![aceternity](https://images-1252557999.file.myqcloud.com/uPic/aceternity.jpg) 
 
 ## ✍️ 说明
 
