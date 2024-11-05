@@ -5,103 +5,98 @@
 
 ## 🎯 项目 
 
-### [novu](https://github.com/novuhq/novu)
+### [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
 
-这是一个开源的基础设施项目，用于快速搭建通知中心，`Novu` 提供了一个统一的 `API`，使通过多个通道（包括应用内、推送、电子邮件、短信和聊天）发送通知变得简单：
+直播源相关资源汇总 📺 💯 IPTV、M3U，让你不用安装有线电视就可以高清无卡顿的看电视。
 
-![novu](https://images-1252557999.file.myqcloud.com/uPic/novu.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/oQ6iZ0.jpg) 
 
-### [FastGPT](https://github.com/labring/FastGPT)
+### [chatnio](https://github.com/Deeptrain-Community/chatnio)
 
-`FastGPT` 是一个基于 `LLM` 大语言模型的知识库问答系统，提供开箱即用的数据处理、模型调用等能力。同时可以通过 `Flow` 可视化进行工作流编排，从而实现复杂的问答场景：
+🚀 下一代 AI 一站式解决方案，一站式 Chat + 中转 API 站点，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
 
-![FastGPT](https://images-1252557999.file.myqcloud.com/uPic/FastGPT.jpg) 
+![chatnio](https://images-1252557999.file.myqcloud.com/uPic/chatnio.png) 
 
-### [stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
+### [mall-cook](https://github.com/wangyuan389/mall-cook)
 
-基于 `Docker` 的一站式 `Stable Diffusion`（最近很火的 AI 文字生成图片的模型）安装包，可提供以下多个 `UI` 可选：
+Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
 
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
-- [sygil-webui](https://github.com/Sygil-Dev/sygil-webui)
-
-![sd_ui_docker](https://images-1252557999.file.myqcloud.com/uPic/sd_ui_docker.jpg) 
+![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
 
 ## 🤖 软件 
 
-### [yarr](https://github.com/nkanaev/yarr)
+### [staxrip](https://github.com/staxrip/staxrip)
 
-基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
+`StaxRip` 是一个强大的用于 `Windows` 的视频/音频编码图形用户界面。
+它执行和控制诸如 `x265、mkvmerge、ffmpeg` 等控制台应用程序，并使用基于脚本的帧服务器 A`viSynth+和VapourSynth` 进行视频处理。每个项目还可以通过各种事件和设置进行扩展：
 
-```shell
-mkdir -p ./yarr/data
-docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
-```
+![staxrip](https://images-1252557999.file.myqcloud.com/uPic/staxrip.jpg) 
 
-总体来说还是挺简洁轻量的：
+### [WeChatAI](https://github.com/bingryan/WeChatAI)
 
-![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
+技术交流群的群友 **@bingryan** 开发的，推荐一下，项目目的在于打造一个All in One的个人AI聊天助手：
 
-### [BlackHole](https://github.com/Sangwan5688/BlackHole)
+![WeChatAI](https://images-1252557999.file.myqcloud.com/uPic/WeChatAI.png) 
 
-一个适用于您所有需求的开源音乐播放器应用，高颜值、无广告、免费音乐播放器，拥有歌词、专辑、艺术家、播放列表、定时关闭等功能，支持 `Android、iOS、macOS` 系统：
+### [CuteGIF](https://github.com/tasy5kg/CuteGIF)
 
-![BlackHole](https://images-1252557999.file.myqcloud.com/uPic/BlackHole.png)
-![hole](https://images-1252557999.file.myqcloud.com/uPic/hole.jpg) 
+小萌 `GIF` 是一款简洁好用的 `Android` 端视频转 `GIF` 工具：
 
-### [bloop](https://github.com/BloopAI/bloop)
-
-`bloop` 是一个用 Rust 编写的快速代码搜索引擎，内部集成 `LLM` 大模型，可以快速让你导入一个代码仓库以自然语言形式进行问答，想快速上手一个项目或者文档不怎么够的项目，力荐👀：
-
-![bloop](https://images-1252557999.file.myqcloud.com/uPic/bloop.jpg) 
+![CuteGIF](https://images-1252557999.file.myqcloud.com/uPic/CuteGIF.jpg) 
 
 ## 👀 资料 
 
-### [Web Development History](https://webdevelopmenthistory.com/index/)
+### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
 
-`Web` 开发发展史文章系列：
+清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
 
-![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
+更新记录如下：
 
-### [qianguyihao/Web](https://github.com/qianguyihao/Web)
+- 2020-11-03：环境搭建完成，开始着手编写文档。
+- 2020-11-13：第一章完成。
+- 2020-11-27：第二章完成。
+- 2020-12-20：前七章代码完成。
+- 2021-01-10：第三章完成。
+- 2021-01-18：加入第零章。
+- 2021-01-30：第四章完成。
+- 2021-02-16：第五章完成。
+- 2021-02-20：第六章完成。
+- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
+- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
 
-千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师:
+热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
 
-- 网上的大部分入门教程，都不太适合初学者，本项目争取照顾到每一位前端入门者的同理心。即使你完全不懂前端，甚至不懂编程，通过这个教程，也能让小白入门。
-- 帮助前端同学提供一个精品学习资源和路线，提高学习效率，少走很多弯路。
+### [RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide)
 
-![qianguyihao](https://images-1252557999.file.myqcloud.com/uPic/qianguyihao.jpg)
+颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南：
 
-可以当做前端字典，随时翻阅，查漏补缺，在线观看地址：[web.qianguyihao.com](https://web.qianguyihao.com/)。 
+![web-visual-bookmark@2x](https://images-1252557999.file.myqcloud.com/uPic/web-visual-bookmark@2x.png) 
 
-### [云安全攻防入门](https://lzcloudsecurity.gitbook.io/yun-an-quan-gong-fang-ru-men/)
+### [Al精选工具库](https://t16jzwqrzjx.feishu.cn/wiki/EsvowFAqFiTiYDkJgE0cWquPnWb)
 
-关于云安全攻防的基础知识：
+18 个模块 100 个 AI 工具：
 
-![yun-an-quan-gong-fang-ru-men](https://images-1252557999.file.myqcloud.com/uPic/yun-an-quan-gong-fang-ru-men.jpg) 
+![ai_tools](https://images-1252557999.file.myqcloud.com/uPic/ai_tools.jpg) 
 
 ## 🕸 网站 
 
-### [emojispark](https://emojispark.com/)
+### [即时工具](https://www.67tool.com/)
 
-`Emoji` 搜索网站：
+该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
 
-![emojispark](https://images-1252557999.file.myqcloud.com/uPic/d8ed41.png) 
+![67tool](https://images-1252557999.file.myqcloud.com/uPic/mhrsW0.jpg) 
 
-### [tailspark](https://tailspark.co/)
+### [damngood.tools](https://damngood.tools/)
 
-`300+` 免费的 `TailwindCSS` 组件和模板，让您在几分钟内构建网站，颜值也非常高：
+开源实用工具集合：
 
-![tailspark](https://images-1252557999.file.myqcloud.com/uPic/tailspark.jpg) 
+![damngood](https://images-1252557999.file.myqcloud.com/uPic/damngood.jpg) 
 
-### [ui.aceternity.com](https://ui.aceternity.com/components)
+### [visalist](https://visalist.io)
 
-网站包含多种前端动态效果，可以一键复制代码使用，同类网站有：
+网站交互样式都还不错，主要提供旅游签证、过境签证、数字游民签证等信息：
 
-- https://uiverse.io/
-- https://www.handsome-css.com/
-
-![aceternity](https://images-1252557999.file.myqcloud.com/uPic/aceternity.jpg) 
+![ybt76d](https://images-1252557999.file.myqcloud.com/uPic/ybt76d.png) 
 
 ## ✍️ 说明
 
