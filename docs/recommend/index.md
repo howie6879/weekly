@@ -5,104 +5,98 @@
 
 ## 🎯 项目 
 
-### [plane](https://github.com/makeplane/plane)
+### [favicon-downloader](https://github.com/seadfeng/favicon-downloader)
 
-概念比较新的项目管理工具，开源的 `JIRA，Linear & Height` 的替代品，`Plane` 以最简单的方式帮助您跟踪问题、冲刺和产品路线图：
+免费获取网站 `favicon` 的工具:
 
-![plane](https://images-1252557999.file.myqcloud.com/uPic/plane.webp) 
+![faviconextractor](https://images-1252557999.file.myqcloud.com/uPic/faviconextractor.jpg) 
 
-### [appsmith](https://github.com/appsmithorg/appsmith)
+### [album-ai](https://github.com/gcui-art/album-ai)
 
-低代码项目，用于构建任何自定义业务软件，如管理面板、内部工具和仪表板。使用35+个预构建的UI小部件连接到任何数据库、GraphQL或RESTAPI。
+挺有想法的项目，基于 `gpt-4o-mini` 作为视觉模型，自动识别出相册中图像文件的元信息，然后借助 `RAG` 技术，实现了与相册对话的能力：
 
-![as-widgets](https://images-1252557999.file.myqcloud.com/uPic/as-widgets.gif) 
+![album-ai](https://images-1252557999.file.myqcloud.com/uPic/album-ai.jpg) 
 
-### [gitstars](https://github.com/cfour-hi/gitstars)
+### [fusion](https://github.com/0x2E/fusion)
 
-`Github` 作为开发者的第一社交平台，拥有数不胜数的优秀开源项目，给工作和学习带来巨大方便，遇到自己需要或是喜爱的项目只需点击 Star 便可收入囊中。
+开源、轻量可自建，用户友好的 RSS 聚合阅读器：
 
-`Star is easy`，可随着 `Starred Repositories` 增长，在需要使用到某个项目时难免记不清叫什么，而 Github 又只提供简单的搜索，找到目标 `Starred Repository` 竟也成了件小小的麻烦事。
+- 轻量级和自托管，支持 Docker
+- 功能丰富
+- 跨平台和响应式设计
+- 多种安装和配置方式
+- 技术栈和社区支持
+- 资源消耗低
 
-所以拥有自己的 `Github Stars Repositories Manager` 也算是开发者的必备需求。`Gitstars` 由此诞生 💡
-
-![gitstars](https://images-1252557999.file.myqcloud.com/uPic/gitstars.png) 
+![fusion](https://images-1252557999.file.myqcloud.com/uPic/fusion.png) 
 
 ## 🤖 软件 
 
-### [Easydict](https://github.com/tisfeng/Easydict)
+### [localsend](https://github.com/localsend/localsend)
 
-`Easydict` 是一个简洁易用的词典翻译 `macOS App`，能够轻松优雅地查找单词或翻译文本。`Easydict` 开箱即用，能自动识别输入文本语言，支持输入翻译，划词翻译和 `OCR` 截图翻译，可同时查询多个翻译服务结果，目前支持有道词典，🍎苹果系统翻译，`DeepL`，谷歌，百度和火山翻译。
+`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
 
-![Easydict](https://images-1252557999.file.myqcloud.com/uPic/Easydict.jpg)
+![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
 
-可以看到这个软件是老胡之前推荐的 [Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#upic)，当然现在已经收费（老胡觉得不错已经付费支持），因为这个原因，开源界还出现了以下替代品：
+### [shottr](https://shottr.cc/)
 
-- [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=bob#pot-desktop)：🌈 一个跨平台的划词翻译软件
-- [TTime](https://weekly.howie6879.com/2023/06-12~06-17.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC095%E6%9C%9F%EF%BC%89.html?h=bob#ttime)：🚀 一款简洁高效的输入、截图、划词翻译软件
+免费截屏软件（macOS）：
 
-对于浏览器双语翻译插件，还推荐以下项目：
+![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
 
-- [kiss-translator](https://github.com/fishjar/kiss-translator)：一个简约的 双语网页翻译扩展 & 油猴脚本
-- [openai-translator](https://github.com/openai-translator/openai-translator)：基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用 
+### [apkupdater](https://github.com/rumboalla/apkupdater)
 
-### [Joplin](https://github.com/laurent22/joplin)
+`APKUpdater` 是一个开源工具，它能让你轻松追踪和更新你的 `APK` 应用。
+它提供类似于应用商店的功能，但不依赖于单一来源，而是把 `APKMirror、Aptoide、F-Droid、IzzyOnDroid、APKPure、GitLab、GitHub` 这 7 大平台的应用资源都聚合在一起：
 
-我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
-
-- 自建服务端
-- 第三方如坚果云等
-- 也可以基于云商，如腾讯云的`COS`
-
-> 这篇文章也是使用Joplin写的 
-
-### [bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)
-
-一款基于 `Flutter` 开发的跨平台面端 B 站视频下载器：
-
-![bilivideo_down](https://images-1252557999.file.myqcloud.com/uPic/bilivideo_down.jpg) 
+![apkupdater](https://images-1252557999.file.myqcloud.com/uPic/apkupdater.jpg) 
 
 ## 👀 资料 
 
-### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
+### [dockerlabs](https://github.com/collabnix/dockerlabs)
 
-对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
+Docker 学习教程：
 
-### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
+- 适用于初中高级别学习者的免费平台
+- 超过500个高度互动的Docker教程和指南
+- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
 
-打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
+![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
 
-![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
+### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 
-### [1000h by 李笑来](https://1000h.org/)
+一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
 
-通过投入1000小时的注意力，你可以掌握任何你需要的东西：
+![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
 
-![1000h](https://images-1252557999.file.myqcloud.com/uPic/1000h.jpg) 
+### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
+
+技术面试最后反问面试官的话。 
 
 ## 🕸 网站 
 
-### [tinypng](https://tinypng.com/)
+### [aosabook](http://aosabook.org/en/index.html)
 
-比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
+网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
 
-![tinypng](https://images-1252557999.file.myqcloud.com/uPic/8s8ltr.png)
+- ZeroMQ
+- Chrome
+- Nginx
+- 等等
 
-如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
+上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
 
-- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
-- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
+### [itnext](https://itnext.cn/)
 
-### [renwuzhi.wiki](https://renwuzhi.wiki/)
+一个介绍元宇宙的网站：
 
-网站收集了各个朝代人物介绍：
+![itnext](https://images-1252557999.file.myqcloud.com/uPic/yc7Zhp.png) 
 
-![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
+### [chatpdf](https://www.chatpdf.com/)
 
-### [ffmpeg-online](https://ffmpeg-online.vercel.app/?inputOptions=-i&output=output.mp4&outputOptions=)
+和任何 PDF 进行沟通交流：
 
-基于 `ffmpeg.wasm` 的在线版本，可用于在线处理音频和视频：
-
-![ffmpeg-online](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg-online.jpg) 
+![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
 
 ## ✍️ 说明
 
