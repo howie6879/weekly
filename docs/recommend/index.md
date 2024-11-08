@@ -5,98 +5,96 @@
 
 ## 🎯 项目 
 
-### [favicon-downloader](https://github.com/seadfeng/favicon-downloader)
+### [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
 
-免费获取网站 `favicon` 的工具:
+基于 `playwright` 的小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 | 评论爬虫、微博帖子 | 评论爬虫：
 
-![faviconextractor](https://images-1252557999.file.myqcloud.com/uPic/faviconextractor.jpg) 
+![MediaCrawler](https://images-1252557999.file.myqcloud.com/uPic/MediaCrawler.jpg) 
 
-### [album-ai](https://github.com/gcui-art/album-ai)
+### [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)
 
-挺有想法的项目，基于 `gpt-4o-mini` 作为视觉模型，自动识别出相册中图像文件的元信息，然后借助 `RAG` 技术，实现了与相册对话的能力：
+`Neovim` 针对 `ChatGPT` 的插件：
 
-![album-ai](https://images-1252557999.file.myqcloud.com/uPic/album-ai.jpg) 
+![ChatGPT.nvim](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT.nvim.png) 
 
-### [fusion](https://github.com/0x2E/fusion)
+### [AnimeGarden](https://github.com/yjl9903/AnimeGarden)
 
-开源、轻量可自建，用户友好的 RSS 聚合阅读器：
+動漫花園 第三方 镜像站 以及 动画 BT 资源聚合站.
 
-- 轻量级和自托管，支持 Docker
-- 功能丰富
-- 跨平台和响应式设计
-- 多种安装和配置方式
-- 技术栈和社区支持
-- 资源消耗低
+- ☁️ 为开发者准备的开放 API 接口
+- 📺 查看 动画放送时间表 来找到你喜欢的动画
+- 🔖 支持丰富的高级搜索, 例如: 葬送的芙莉莲 +简体内嵌 字幕组:桜都字幕组 类型:动画
+- 📙 自定义 RSS 订阅链接, 例如: 葬送的芙莉莲
+- ⭐ 搜索条件收藏夹和生成聚合的 RSS 订阅链接
+- 👷‍♂️ 支持与 AutoBangumi 和 AnimeSpace 集成
 
-![fusion](https://images-1252557999.file.myqcloud.com/uPic/fusion.png) 
+![AnimeGarden](https://images-1252557999.file.myqcloud.com/uPic/AnimeGarden.png) 
 
 ## 🤖 软件 
 
-### [localsend](https://github.com/localsend/localsend)
+### [Bili.Uwp](https://github.com/Richasy/Bili.Uwp)
 
-`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
+一款**哔哩哔哩**的第三方应用，使用 `UWP` 框架开发，是原生的 `Windows` 应用，支持 `Windows 10/11` 桌面系统，主打设计和易用性：
 
-![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
+![Bili.Uwp](https://images-1252557999.file.myqcloud.com/uPic/Bili.Uwp.png) 
 
-### [shottr](https://shottr.cc/)
+### [Setapp](https://go.setapp.com/invite/os8yv4jr)
 
-免费截屏软件（macOS）：
+虽然这个是个付费软件，但我还是很推荐：
 
-![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
+> Setapp是由MacPaw公司于2017年推出的订阅服务，专为macOS和iOS用户提供多款精选应用程序。用户通过月费即可无限使用旗下丰富的应用集合，覆盖各种日常任务需求，无需单独购买或更新。
 
-### [apkupdater](https://github.com/rumboalla/apkupdater)
+订阅这个软件就可以免费使用 `Setapp` 里面 **240+** 的软件（单独买要付费的那种），比如我想使用GPT-4的对话功能，我单独买会员就是要20$。我现在直接花 **9.9\$**  订阅 `Setapp` ，然后直接里面直接使用 `Typing Mind` 就可以直接使用 GPT-4 Turbo，上下文 128k，对我来说单单这个就赚回来了。
 
-`APKUpdater` 是一个开源工具，它能让你轻松追踪和更新你的 `APK` 应用。
-它提供类似于应用商店的功能，但不依赖于单一来源，而是把 `APKMirror、Aptoide、F-Droid、IzzyOnDroid、APKPure、GitLab、GitHub` 这 7 大平台的应用资源都聚合在一起：
+![setapp](https://images-1252557999.file.myqcloud.com/uPic/setapp.jpg) 
 
-![apkupdater](https://images-1252557999.file.myqcloud.com/uPic/apkupdater.jpg) 
+### [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2)
+
+这是一款可以在 `Windows` 播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 
+
+![MusicPlayer2](https://images-1252557999.file.myqcloud.com/uPic/MusicPlayer2.jpg) 
 
 ## 👀 资料 
 
-### [dockerlabs](https://github.com/collabnix/dockerlabs)
+### [rosedb](https://github.com/flower-corp/rosedb)
 
-Docker 学习教程：
+`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
 
-- 适用于初中高级别学习者的免费平台
-- 超过500个高度互动的Docker教程和指南
-- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
+![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
 
-![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
+作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
 
-### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
+### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
 
-一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
+`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
 
-![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
+![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
 
-### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
+### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
 
-技术面试最后反问面试官的话。 
+开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
+
+![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
 
 ## 🕸 网站 
 
-### [aosabook](http://aosabook.org/en/index.html)
+### [pingli.app](https://www.pingli.app/)
 
-网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
+说出你们的分歧，让7位 `AI` 裁判评评理，挺有意思：
 
-- ZeroMQ
-- Chrome
-- Nginx
-- 等等
+![pingli.app](https://images-1252557999.file.myqcloud.com/uPic/1gX0NC.png) 
 
-上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
+### [darebee](https://darebee.com/)
 
-### [itnext](https://itnext.cn/)
+一个教你正确运动姿势的网站：
 
-一个介绍元宇宙的网站：
+![darebee](https://images-1252557999.file.myqcloud.com/uPic/eIHdyQ.png) 
 
-![itnext](https://images-1252557999.file.myqcloud.com/uPic/yc7Zhp.png) 
+### [olocr.com](https://olocr.com)
 
-### [chatpdf](https://www.chatpdf.com/)
+一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
 
-和任何 PDF 进行沟通交流：
-
-![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
+![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
 
 ## ✍️ 说明
 
