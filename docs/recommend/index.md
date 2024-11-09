@@ -11,90 +11,77 @@
 
 ![MediaCrawler](https://images-1252557999.file.myqcloud.com/uPic/MediaCrawler.jpg) 
 
-### [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)
+### [FastChat](https://github.com/lm-sys/FastChat)
 
-`Neovim` 针对 `ChatGPT` 的插件：
+这是一个开放的平台，可用于训练、部署和评估基于大型语言模型的聊天机器人。也就是说，这个平台可以帮助人们创建聊天机器人，让其具备更好的语言理解能力，并提供一个可靠的方式来测试和评估这些聊天机器人的表现：
 
-![ChatGPT.nvim](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT.nvim.png) 
+![FastChat](https://images-1252557999.file.myqcloud.com/uPic/FastChat.jpg) 
 
-### [AnimeGarden](https://github.com/yjl9903/AnimeGarden)
+### [BGmi](https://github.com/BGmi/BGmi)
 
-動漫花園 第三方 镜像站 以及 动画 BT 资源聚合站.
+`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
 
-- ☁️ 为开发者准备的开放 API 接口
-- 📺 查看 动画放送时间表 来找到你喜欢的动画
-- 🔖 支持丰富的高级搜索, 例如: 葬送的芙莉莲 +简体内嵌 字幕组:桜都字幕组 类型:动画
-- 📙 自定义 RSS 订阅链接, 例如: 葬送的芙莉莲
-- ⭐ 搜索条件收藏夹和生成聚合的 RSS 订阅链接
-- 👷‍♂️ 支持与 AutoBangumi 和 AnimeSpace 集成
-
-![AnimeGarden](https://images-1252557999.file.myqcloud.com/uPic/AnimeGarden.png) 
+![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
 
 ## 🤖 软件 
 
-### [Bili.Uwp](https://github.com/Richasy/Bili.Uwp)
+### [Plash](https://github.com/sindresorhus/Plash)
 
-一款**哔哩哔哩**的第三方应用，使用 `UWP` 框架开发，是原生的 `Windows` 应用，支持 `Windows 10/11` 桌面系统，主打设计和易用性：
+将网站变成 Mac 桌面壁纸，支持将多种网站设置为壁纸，这些网站并不局限于图片网站，还可以是新闻、气象等站点：
 
-![Bili.Uwp](https://images-1252557999.file.myqcloud.com/uPic/Bili.Uwp.png) 
+![Plash](https://images-1252557999.file.myqcloud.com/uPic/Plash.jpeg) 
 
-### [Setapp](https://go.setapp.com/invite/os8yv4jr)
+### [LLMFarm](https://github.com/guinmoon/LLMFarm)
 
-虽然这个是个付费软件，但我还是很推荐：
+`LLMFarm` 是一款用于与大型语言模型（LLM）配合使用的iOS和MacOS应用程序，它允许您可以使用某些参数加载不同的 LLM：
 
-> Setapp是由MacPaw公司于2017年推出的订阅服务，专为macOS和iOS用户提供多款精选应用程序。用户通过月费即可无限使用旗下丰富的应用集合，覆盖各种日常任务需求，无需单独购买或更新。
+![LLMFarm](https://images-1252557999.file.myqcloud.com/uPic/LLMFarm.jpg) 
 
-订阅这个软件就可以免费使用 `Setapp` 里面 **240+** 的软件（单独买要付费的那种），比如我想使用GPT-4的对话功能，我单独买会员就是要20$。我现在直接花 **9.9\$**  订阅 `Setapp` ，然后直接里面直接使用 `Typing Mind` 就可以直接使用 GPT-4 Turbo，上下文 128k，对我来说单单这个就赚回来了。
+### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
 
-![setapp](https://images-1252557999.file.myqcloud.com/uPic/setapp.jpg) 
+`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
 
-### [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2)
-
-这是一款可以在 `Windows` 播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 
-
-![MusicPlayer2](https://images-1252557999.file.myqcloud.com/uPic/MusicPlayer2.jpg) 
+![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
 
 ## 👀 资料 
 
-### [rosedb](https://github.com/flower-corp/rosedb)
+### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
 
-`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
+本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
 
-![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
+![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
 
-作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
+### [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
 
-### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
+这个项目的目标是带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来，每周更新两篇，有兴趣的朋友可以追更下，架构图：
 
-`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
+![linux0.11-talk](https://images-1252557999.file.myqcloud.com/uPic/P4ekdG.jpg) 
 
-![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
+### [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/)
 
-### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+命令行的数据科学，本书演示了如何通过命令行的灵活性帮你成为更高效、更有生产力的数据科学家。
 
-开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
-
-![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
+![telegram-cloud-photo-size-5-6181558086683180904-y](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6181558086683180904-y.jpg) 
 
 ## 🕸 网站 
 
-### [pingli.app](https://www.pingli.app/)
+### [nesbox](https://nesbox.xianqiao.wang/)
 
-说出你们的分歧，让7位 `AI` 裁判评评理，挺有意思：
+找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
 
-![pingli.app](https://images-1252557999.file.myqcloud.com/uPic/1gX0NC.png) 
+![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
 
-### [darebee](https://darebee.com/)
+### [medisearch](https://medisearch.io/zh)
 
-一个教你正确运动姿势的网站：
+直接的科学为基础的医疗问答模型：
 
-![darebee](https://images-1252557999.file.myqcloud.com/uPic/eIHdyQ.png) 
+![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
 
-### [olocr.com](https://olocr.com)
+### [photo2poem](https://photo2poem.top/)
 
-一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
+每一张照片，都对应一首诗，很有意思：
 
-![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
+![photo2poem](https://images-1252557999.file.myqcloud.com/uPic/photo2poem.jpg) 
 
 ## ✍️ 说明
 
