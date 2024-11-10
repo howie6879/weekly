@@ -12,7 +12,62 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 03 Nov 2024 06:33:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 07:31:46 +0000</lastBuildDate>
+    <item>
+      <title>11-04~11-10.老胡的周刊（第167期）.md</title>
+      <link>https://weekly.howie6879.com/2024/11-04~11-10.老胡的周刊（第167期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/11-04~11-10.老胡的周刊（第167期）.html"&gt;11-04~11-10.老胡的周刊（第167期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/getmaxun/maxun"&gt;maxun&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个免费、开源的无代码网页数据提取平台，允许用户构建自定义机器人以自动化数据抓取任务，可以很方便地进行web2api：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="maxun" src="https://images-1252557999.file.myqcloud.com/uPic/Bkvnhq.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/LibraHp/GetQzonehistory"&gt;GetQzonehistory&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;通过模拟登录QQ空间来获取历史消息列表，然后进行数据分析。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/jooooock/wechat-article-exporter"&gt;wechat-article-exporter&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;在线批量导出微信公众号文章，支持阅读量、评论数据的导出，支持内嵌的音视频导出，无需搭建任何环境，可100%还原文章样式，支持私有部署。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist"&gt;uBlockOrigin-HUGE-AI-Blocklist&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;这个项目提供了一个用于过滤 AI 生成内容的大型屏蔽列表，适用于 uBlock Origin &amp;amp; uBlacklist 插件。&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/modstart-lib/linkandroid"&gt;linkandroid&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;全能手机连接助手，方便快捷的连接 Android 和电脑，连接手机后可投屏、GIF/MP4录屏、截屏、文件管理、手机操作等功能：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="linkandroid" src="https://images-1252557999.file.myqcloud.com/uPic/R9oZa7.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/hxh19950701/WebViewTvLive"&gt;WebViewTvLive&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;使用 腾讯 X5 WebView 开发的电视直播App，原理：加载直播网页，找到video标签自动全屏：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="WebViewTvLive" src="https://images-1252557999.file.myqcloud.com/uPic/JKdapa.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/jitwxs/163MusicLyrics"&gt;163MusicLyrics&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Windows 云音乐歌词获取【网易云、QQ音乐】:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="163MusicLyrics" src="https://images-1252557999.file.myqcloud.com/uPic/JElaUM.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/sheshbabu/Chital"&gt;Chital&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Chital&lt;/code&gt; 是一个针对 &lt;code&gt;macOS&lt;/code&gt; 系统开发的原生应用程序，旨在与本地大型语言模型（LLM）进行交互:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Chital" src="https://images-1252557999.file.myqcloud.com/uPic/owbXLt.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/chai2010/go-ast-book"&gt;go-ast-book&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)&lt;/p&gt;
+&lt;p&gt;&lt;img alt="go-ast-book" src="https://images-1252557999.file.myqcloud.com/uPic/MenvcC.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://zeli.app/zh"&gt;zeli.app&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;用中文读科技新闻，旨在帮你快速挑选感兴趣的文章来读：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="zeli" src="https://images-1252557999.file.myqcloud.com/uPic/dvVEf9.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://lz.qaiu.top/"&gt;lz.qaiu.top&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;NFD&lt;/code&gt; 网盘直链解析，目前支持 蓝奏云/蓝奏云优享/小飞机盘/123云盘/奶牛快传/移动云云空间/亿方云/文叔叔/QQ邮箱文件中转站：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="netdisk" src="https://images-1252557999.file.myqcloud.com/uPic/v8jmto.png" /&gt;&lt;/p&gt;
+&lt;p&gt;代码开源在：&lt;a href="https://github.com/qaiu/netdisk-fast-download?tab=readme-ov-file"&gt;netdisk-fast-download&lt;/a&gt;。&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">11-04~11-10.老胡的周刊（第167期）.md</guid>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>10-28~11-03.老胡的周刊（第166期）.md</title>
       <link>https://weekly.howie6879.com/2024/10-28~11-03.老胡的周刊（第166期）.html</link>
@@ -1197,70 +1252,6 @@ curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/rel
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">06-24~06-30.老胡的周刊（第148期）.md</guid>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>06-17~06-23.老胡的周刊（第147期）.md</title>
-      <link>https://weekly.howie6879.com/2024/06-17~06-23.老胡的周刊（第147期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/06-17~06-23.老胡的周刊（第147期）.html"&gt;06-17~06-23.老胡的周刊（第147期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/certd/certd"&gt;certd&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;CertD&lt;/code&gt; 是一个免费全自动申请和部署 &lt;code&gt;SSL&lt;/code&gt; 证书的工具，免费通配符域名 &lt;code&gt;SSL&lt;/code&gt; 证书全自动申请、续期、部署，支持部署到阿里云、腾讯云、&lt;code&gt;ssh&lt;/code&gt; 主机：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="certd" src="https://images-1252557999.file.myqcloud.com/uPic/certd.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/work7z/MDGJX"&gt;MDGJX&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;秒达工具箱，借助独创高效的输入方式，让您可以快速呼出各类工具、文档及笔记等资源，免费安全无广告：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="MDGJX" src="https://images-1252557999.file.myqcloud.com/uPic/MDGJX.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/lllllllillllllillll/DweebUI"&gt;DweebUI&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;用于管理容器的免费开源 &lt;code&gt;WebUI&lt;/code&gt;，颜值不错，但是功能还不大够，值得期待：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="DweebUI" src="https://images-1252557999.file.myqcloud.com/uPic/DweebUI.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/imsyy/SPlayer"&gt;SPlayer&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个简约的音乐播放器（基于网易云音乐），支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="SPlayer" src="https://images-1252557999.file.myqcloud.com/uPic/SPlayer.jpeg" /&gt;&lt;/p&gt;
-&lt;p&gt;还有开发者基于此项目做了二开👉&lt;a href="https://github.com/GSQZ/TuneFree"&gt;GSQZ/TuneFree&lt;/a&gt;，特点是可解析并播放网易云音乐中所有的付费资源。&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/youwen21/flybird-m3u8downloader"&gt;flybird-m3u8downloader&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;@youwen21 投稿，飞鸟 &lt;code&gt;m3u8&lt;/code&gt; 视频下载器是一款 &lt;code&gt;m3u8&lt;/code&gt; 下载工具，支持 Windows, MacOS双系统，包含功能有：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;m3u8 和直播录制和点播下载&lt;/li&gt;
-&lt;li&gt;IPTV 播放与自定义源管理&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="m3u8downloader" src="https://images-1252557999.file.myqcloud.com/uPic/m3u8downloader.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/buxuku/video-subtitle-master"&gt;video-subtitle-master&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;@buxuku 投稿，无须上传，在本地即可批量为视频生成字幕文件出来，同时也可以通过百度/火山/deeplx翻译 api 将字幕文件翻译成其它语言的字幕文件：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="video-subtitle-master" src="https://images-1252557999.file.myqcloud.com/uPic/video-subtitle-master.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://basecamp.com/gettingreal"&gt;Getting Real&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Basecamp&lt;/code&gt; 的在线电子书，关于通过更智能、更快、更简单的方式，构建  &lt;code&gt;web&lt;/code&gt; 应用程序的教程：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="gettingreal" src="https://images-1252557999.file.myqcloud.com/uPic/gettingreal.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://gaokao.chsi.com.cn/zyck/"&gt;阳光志愿&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;家里有参加高考的，可以参考：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;院校查询&lt;/li&gt;
-&lt;li&gt;专业查询&lt;/li&gt;
-&lt;li&gt;支援参考&lt;/li&gt;
-&lt;li&gt;心理测评&lt;/li&gt;
-&lt;li&gt;职业前景&lt;/li&gt;
-&lt;li&gt;报考指南&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="zyck" src="https://images-1252557999.file.myqcloud.com/uPic/zyck.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://www.fre321.com/docker_proxy_list"&gt;DockerHub 可用镜像代理&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;老胡自己从互联网收集的可用 &lt;code&gt;DockerHub&lt;/code&gt; 镜像代理：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="docker_proxy_list" src="https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">06-17~06-23.老胡的周刊（第147期）.md</guid>
-      <pubDate>Sun, 23 Jun 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
