@@ -5,83 +5,101 @@
 
 ## 🎯 项目 
 
-### [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+### [cadvisor](https://github.com/google/cadvisor)
 
-基于 `playwright` 的小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 | 评论爬虫、微博帖子 | 评论爬虫：
+一个免费开源的容器监控工具，可以实时统计容器运行时占用的资源：
 
-![MediaCrawler](https://images-1252557999.file.myqcloud.com/uPic/MediaCrawler.jpg) 
+- CPU 利用率
+- 内存使用量
+- 网络传输等信息
 
-### [FastChat](https://github.com/lm-sys/FastChat)
+同时提供了 Web 可视化页面，支持 `prometheus` 格式输出，非常优秀。
 
-这是一个开放的平台，可用于训练、部署和评估基于大型语言模型的聊天机器人。也就是说，这个平台可以帮助人们创建聊天机器人，让其具备更好的语言理解能力，并提供一个可靠的方式来测试和评估这些聊天机器人的表现：
+![cadvisor](https://images-1252557999.file.myqcloud.com/uPic/cadvisor.jpg)
 
-![FastChat](https://images-1252557999.file.myqcloud.com/uPic/FastChat.jpg) 
+如果使用过程有镜像代理问题，可以参考 [gcr.io_mirror](https://github.com/anjia0532/gcr.io_mirror) 项目。 
 
-### [BGmi](https://github.com/BGmi/BGmi)
+### [alist](https://github.com/Xhofe/alist)
 
-`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
+一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
 
-![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
+![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
+
+简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
+
+### [miniflux](https://github.com/miniflux/v2)
+
+`Miniflux` 是一个极简主义的开源 `RSS` 阅读器，它使用非常简单，可 `Docker` 部署，这样就相当于你拥有了自己的 [Feedly](https://feedly.com/) 服务，再结合一个漂亮的客户端如 [ReactFlux](https://github.com/electh/ReactFlux)，用起来就很舒服 ：
+
+![miniflux](https://images-1252557999.file.myqcloud.com/uPic/eyMYhc.png)
+
+其他类似开源有：
+
+- [Tiny Tiny RSS](https://tt-rss.org/)：一个免费且开源的基于网络的新闻订阅（RSS/Atom）阅读器和聚合器
+- [FreshRSS](https://github.com/FreshRSS/FreshRSS)：一个自托管的RSS订阅聚合器
+- 基于以上项目构建后的客户端：
+    - [fluent-reader](https://github.com/yang991178/fluent-reader)：现代化 `RSS` 阅读器
+    - [NetNewsWire](https://netnewswire.com/)：适用于 `Mac、iPhone&iPad` 的免费开源 `RSS` 阅读器
+    - 安卓 [feedme](https://github.com/seazon/FeedMe/blob/master/doc/zh/README.md)： 一个安卓 `RSS` 阅读器，支持主流 `RSS` 服务
+    - [Refeed](https://github.com/michaelkremenetsky/Refeed)：好看的现代化客户端 
 
 ## 🤖 软件 
 
-### [Plash](https://github.com/sindresorhus/Plash)
+### [termux-app](https://github.com/termux/termux-app)
 
-将网站变成 Mac 桌面壁纸，支持将多种网站设置为壁纸，这些网站并不局限于图片网站，还可以是新闻、气象等站点：
+`Termux` 是一个为 `Android` 操作系统设计的终端模拟器应用程序，它可以通过各种软件包进行扩展，支持 `Linux` 环境：
 
-![Plash](https://images-1252557999.file.myqcloud.com/uPic/Plash.jpeg) 
+![termux-app](https://images-1252557999.file.myqcloud.com/uPic/tMfcxO.png) 
 
-### [LLMFarm](https://github.com/guinmoon/LLMFarm)
+### [little-rat](https://github.com/dnakov/little-rat)
 
-`LLMFarm` 是一款用于与大型语言模型（LLM）配合使用的iOS和MacOS应用程序，它允许您可以使用某些参数加载不同的 LLM：
+Little Rat 是一款开源的 Chrome 扩展，用于实时监测其它的 Chrome 扩展联网情况，并可以选择阻止联网，防止恶意扩展：
 
-![LLMFarm](https://images-1252557999.file.myqcloud.com/uPic/LLMFarm.jpg) 
+![little-rat](https://images-1252557999.file.myqcloud.com/uPic/little-rat.webp) 
 
-### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
+### [bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)
 
-`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
+一款基于 `Flutter` 开发的跨平台面端 B 站视频下载器：
 
-![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
+![bilivideo_down](https://images-1252557999.file.myqcloud.com/uPic/bilivideo_down.jpg) 
 
 ## 👀 资料 
 
-### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
+### [Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
 
-本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
+一些好用的 Dify 工作流集合，括了中英文翻译、知识库聊天、搜索大师、爆款标题、文章仿写、运营一条龙、聊天机器人、代码生成等工作流。 
 
-![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
+### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
 
-### [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
+一本开源的专门讲解面试关键路径的书籍：
 
-这个项目的目标是带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来，每周更新两篇，有兴趣的朋友可以追更下，架构图：
+![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
 
-![linux0.11-talk](https://images-1252557999.file.myqcloud.com/uPic/P4ekdG.jpg) 
+### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
 
-### [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/)
+该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
 
-命令行的数据科学，本书演示了如何通过命令行的灵活性帮你成为更高效、更有生产力的数据科学家。
-
-![telegram-cloud-photo-size-5-6181558086683180904-y](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6181558086683180904-y.jpg) 
+![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
 
 ## 🕸 网站 
 
-### [nesbox](https://nesbox.xianqiao.wang/)
+### [antimkd](https://antimkd.com/)
 
-找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
+无套路的软件下载网站：
 
-![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
+![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
 
-### [medisearch](https://medisearch.io/zh)
+### [carbon](https://carbon.now.sh/)
 
-直接的科学为基础的医疗问答模型：
+将你的源代码转成漂亮可分享的图片：
 
-![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
+![carbon](https://images-1252557999.file.myqcloud.com/uPic/carbon.jpg) 
 
-### [photo2poem](https://photo2poem.top/)
+### [jsont.run](https://www.jsont.run/)
 
-每一张照片，都对应一首诗，很有意思：
+一个简洁的在线 `JSON` 解析器：
 
-![photo2poem](https://images-1252557999.file.myqcloud.com/uPic/photo2poem.jpg) 
+![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
 
 ## ✍️ 说明
 
