@@ -5,99 +5,85 @@
 
 ## 🎯 项目 
 
-### [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web)
+### [Monit](https://github.com/fzf404/Monit)
 
-带有用户管理和后台面板的 ChatGPT 网页应用：
+系统桌面小组件(用于展示各种信息)：
 
-![ChatGPT-Admin-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Admin-Web.jpg) 
+![Monit](https://images-1252557999.file.myqcloud.com/uPic/Monit.webp) 
 
-### [GPTs](https://github.com/linexjlin/GPTs)
+### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
 
-这个仓库收集了 GPTs 商店的的提示词，你可以用 3.5 使用，间接拥有 4 才有的功能，还有个类似的项目：[Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) 
+短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
 
-### [gorse](https://github.com/zhenghaoz/gorse)
+![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
 
-用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
+### [filebrowser](https://github.com/filebrowser/filebrowser)
 
-![gorse](https://images-1252557999.file.myqcloud.com/uPic/nP2kgE.jpg)
+这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
 
-作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
+除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
 
-![gitrec](https://images-1252557999.file.myqcloud.com/uPic/jAuEdM.jpg) 
+![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
 
 ## 🤖 软件 
 
-### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
+### [pilipala](https://github.com/guozhigq/pilipala)
 
-超方便的微信视频号下载器：
+使用 `Flutter` 开发的 `BiliBili` 第三方客户端，专为提高用户在观看BiliBili视频时的体验而设计：
 
-- 支持实时捕获视频号的视频地址
-- 捕获后，可进行预览和下载
-- 支持 Win/Mac
+![pilipala](https://images-1252557999.file.myqcloud.com/uPic/pilipala.jpg) 
 
-![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
+### [proxypin](https://github.com/wanghongenpin/proxypin)
 
-### mizu
+基于 Flutter 开发的跨平台抓包软件，界面美观，交互简单：
 
-微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
+![proxypin](https://images-1252557999.file.myqcloud.com/uPic/vGVbRn.png) 
 
-![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
+### [ElevenClock](https://github.com/marticliment/ElevenClock)
 
-### [VeraCrypt](https://veracrypt.fr/en/Home.html)
+自定义 `Windows 11` 任务栏时钟：
 
-`VeraCrypt` 是一款著名的跨平台、开源磁盘加密工具：
-
-![VeraCrypt](https://images-1252557999.file.myqcloud.com/uPic/VeraCrypt.jpg) 
+![ElevenClock](https://images-1252557999.file.myqcloud.com/uPic/ElevenClock.jpg) 
 
 ## 👀 资料 
 
-### [udlbook](https://udlbook.github.io/udlbook/)
+### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
-麻省理工出品的免费电子书《理解深度学习》：
+清华大学计算机系课程攻略：
 
-![udlbook](https://images-1252557999.file.myqcloud.com/uPic/udlbook.jpg) 
+![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
 
-### [Large Language Models Practical Course](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce)
+### [FFmpeg原理](https://ffmpeg.xianwaizhiyin.net/)
 
-开源([Large Language Models Practical Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course))的关于大型语言模型的实践课程，通过使用 `OpenAI` 和 `Hugging Face` 库的模型进行实际操作来提供实践经验，课程主要包括：
+本书《FFmpeg原理》主要讲解 FFmpeg 原理性的知识，前面几章主要讲解一些音视频开发的基础知识，例如原始数据 YUV 跟 RGB，封装格式 FLV 跟 MP4 ，压缩编码的基本概念，还有封装格式分析。
 
-- Techniques and Libraries
-- Projects
-- Enterprise Solutions
+前面几章是音视频开发，流媒体技术的基础，后面的章节主要讲解如何搭建 FFmpeg 各种调试环境，同时提供 FFmpeg API 函数的使用示例，最重要的是 分析 ffmpeg.c 跟 ffplay.c 的源码逻辑。
 
-![large-language-models-practical-course](https://images-1252557999.file.myqcloud.com/uPic/large-language-models-practical-course.jpg)
+![ffmpeg](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg.jpg) 
 
-> 附带一个 Mac 微调大模型的文章：[A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) 
+### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
 
-### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
-
-本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
-
-- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
-- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
-- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
-
-![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
+![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
 
 ## 🕸 网站 
 
-### [读书笔记](https://reading.geek-docs.com/)
+### [crxsoso](https://www.crxsoso.com/articles)
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+浏览器扩展应用周刊：
 
-![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
+![crxsoso](https://images-1252557999.file.myqcloud.com/uPic/crxsoso.jpg) 
 
-### [http.cat](https://http.cat)
+### [react-tetris](https://github.com/chvin/react-tetris)
 
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
+用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
 
-![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
+![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
 
-### [dev.to](https://dev.to/)
+### [sysmini](https://www.sysmini.com/)
 
-国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
+站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
 
-![dev_to](https://images-1252557999.file.myqcloud.com/uPic/dev_to.png) 
+![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
 
 ## ✍️ 说明
 
