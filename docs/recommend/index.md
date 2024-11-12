@@ -5,39 +5,37 @@
 
 ## 🎯 项目 
 
-### [Monit](https://github.com/fzf404/Monit)
+### [gitstars](https://github.com/cfour-hi/gitstars)
 
-系统桌面小组件(用于展示各种信息)：
+`Github` 作为开发者的第一社交平台，拥有数不胜数的优秀开源项目，给工作和学习带来巨大方便，遇到自己需要或是喜爱的项目只需点击 Star 便可收入囊中。
 
-![Monit](https://images-1252557999.file.myqcloud.com/uPic/Monit.webp) 
+`Star is easy`，可随着 `Starred Repositories` 增长，在需要使用到某个项目时难免记不清叫什么，而 Github 又只提供简单的搜索，找到目标 `Starred Repository` 竟也成了件小小的麻烦事。
 
-### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
+所以拥有自己的 `Github Stars Repositories Manager` 也算是开发者的必备需求。`Gitstars` 由此诞生 💡
 
-短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
+![gitstars](https://images-1252557999.file.myqcloud.com/uPic/gitstars.png) 
 
-![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
+### [DailyHotApi](https://github.com/imsyy/DailyHotApi)
 
-### [filebrowser](https://github.com/filebrowser/filebrowser)
+今日热榜 `API`，一个聚合热门数据的 `API` 接口，支持 `Vercel` 部署：
 
-这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
+![DailyHot](https://images-1252557999.file.myqcloud.com/uPic/DailyHot.jpg) 
 
-除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
+### [melody](https://github.com/foamzou/melody)
 
-![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
+你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
+
+主要特性为：
+
+- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
+- 用链接搜索歌曲
+- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
+
+比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
+
+![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
 
 ## 🤖 软件 
-
-### [pilipala](https://github.com/guozhigq/pilipala)
-
-使用 `Flutter` 开发的 `BiliBili` 第三方客户端，专为提高用户在观看BiliBili视频时的体验而设计：
-
-![pilipala](https://images-1252557999.file.myqcloud.com/uPic/pilipala.jpg) 
-
-### [proxypin](https://github.com/wanghongenpin/proxypin)
-
-基于 Flutter 开发的跨平台抓包软件，界面美观，交互简单：
-
-![proxypin](https://images-1252557999.file.myqcloud.com/uPic/vGVbRn.png) 
 
 ### [ElevenClock](https://github.com/marticliment/ElevenClock)
 
@@ -45,45 +43,67 @@
 
 ![ElevenClock](https://images-1252557999.file.myqcloud.com/uPic/ElevenClock.jpg) 
 
+### [feed-flow](https://github.com/prof18/feed-flow)
+
+`FeedFlow` 是一款极简主义的 `RSS` 阅读器，可在 `Android、iOS&macOS`上使用：
+
+![feedflow](https://images-1252557999.file.myqcloud.com/uPic/feedflow.jpg) 
+
+### [Seal](https://github.com/JunkFood02/Seal)
+
+一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
+
+- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
+- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
+- 播放列表下载支持
+- 内嵌字幕于视频文件中
+- 执行自定义的 yt-dlp 命令模板
+- 管理应用内下载与自定义命令模板
+- 使用简单、用户友好
+- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
+- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
+    
+![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
+
 ## 👀 资料 
 
-### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
 
-清华大学计算机系课程攻略：
+张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
 
-![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
+![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
 
-### [FFmpeg原理](https://ffmpeg.xianwaizhiyin.net/)
+### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 
-本书《FFmpeg原理》主要讲解 FFmpeg 原理性的知识，前面几章主要讲解一些音视频开发的基础知识，例如原始数据 YUV 跟 RGB，封装格式 FLV 跟 MP4 ，压缩编码的基本概念，还有封装格式分析。
+一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
 
-前面几章是音视频开发，流媒体技术的基础，后面的章节主要讲解如何搭建 FFmpeg 各种调试环境，同时提供 FFmpeg API 函数的使用示例，最重要的是 分析 ffmpeg.c 跟 ffplay.c 的源码逻辑。
+![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
 
-![ffmpeg](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg.jpg) 
+### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
 
-### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
+阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
 
-![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
+![c](https://images-1252557999.file.myqcloud.com/uPic/4uYTRJ.png) 
 
 ## 🕸 网站 
 
-### [crxsoso](https://www.crxsoso.com/articles)
+### [法律时代导航](https://yesen.cn/)
 
-浏览器扩展应用周刊：
+法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
 
-![crxsoso](https://images-1252557999.file.myqcloud.com/uPic/crxsoso.jpg) 
+![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
 
-### [react-tetris](https://github.com/chvin/react-tetris)
+### [batnoter](https://batnoter.com/)
 
-用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
-### [sysmini](https://www.sysmini.com/)
+### [ICO converter](https://www.icoconverter.com/)
 
-站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
+`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
 
-![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
+![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
 
 ## ✍️ 说明
 
