@@ -5,105 +5,89 @@
 
 ## 🎯 项目 
 
-### [gitstars](https://github.com/cfour-hi/gitstars)
+### [kafka-ui](https://github.com/provectus/kafka-ui)
 
-`Github` 作为开发者的第一社交平台，拥有数不胜数的优秀开源项目，给工作和学习带来巨大方便，遇到自己需要或是喜爱的项目只需点击 Star 便可收入囊中。
+开源的 `Apache Kafka` 管理项目（Web UI）：
 
-`Star is easy`，可随着 `Starred Repositories` 增长，在需要使用到某个项目时难免记不清叫什么，而 Github 又只提供简单的搜索，找到目标 `Starred Repository` 竟也成了件小小的麻烦事。
+![kafka-ui](https://images-1252557999.file.myqcloud.com/uPic/kafka-ui.jpg)
 
-所以拥有自己的 `Github Stars Repositories Manager` 也算是开发者的必备需求。`Gitstars` 由此诞生 💡
+同类产品还有：[kafdrop](https://github.com/obsidiandynamics/kafdrop)。 
 
-![gitstars](https://images-1252557999.file.myqcloud.com/uPic/gitstars.png) 
+### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
 
-### [DailyHotApi](https://github.com/imsyy/DailyHotApi)
+`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
 
-今日热榜 `API`，一个聚合热门数据的 `API` 接口，支持 `Vercel` 部署：
+![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
 
-![DailyHot](https://images-1252557999.file.myqcloud.com/uPic/DailyHot.jpg) 
+### [QAnything](https://github.com/netease-youdao/QAnything)
 
-### [melody](https://github.com/foamzou/melody)
+开源的企业级本地知识库问答解决方案，致力于支持任意格式文件或数据库的问答,您的任何格式的本地文件都可以往里扔，即可获得准确、快速、靠谱的问答体验。
 
-你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
+目前已支持格式: `PDF，Word(doc/docx)，PPT，Markdown，Eml，TXT`，图片，网页链接:
 
-主要特性为：
-
-- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
-- 用链接搜索歌曲
-- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
-
-比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
-
-![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
+![QAnything](https://images-1252557999.file.myqcloud.com/uPic/QAnything.png) 
 
 ## 🤖 软件 
 
-### [ElevenClock](https://github.com/marticliment/ElevenClock)
+### [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
 
-自定义 `Windows 11` 任务栏时钟：
+旨在为不受苹果支持的 `Mac` 提供 `macOS Big Sur` 等更新版本的安装和使用，让你的旧 Mac 电脑可以体验最新的 macOS 系统：
 
-![ElevenClock](https://images-1252557999.file.myqcloud.com/uPic/ElevenClock.jpg) 
+![OpenCore-Legacy-Patcher](https://images-1252557999.file.myqcloud.com/uPic/OpenCore-Legacy-Patcher.jpg) 
 
-### [feed-flow](https://github.com/prof18/feed-flow)
+### [jan](https://github.com/janhq/jan)
 
-`FeedFlow` 是一款极简主义的 `RSS` 阅读器，可在 `Android、iOS&macOS`上使用：
+`Jan` 是一个开源的 `ChatGPT` 替代品，可以在您的计算机上100%离线运行各种 `LLM`。`Jan` 适用于任何硬件。从个人电脑到多 `GPU` 集群，`Jan` 支持通用架构：
 
-![feedflow](https://images-1252557999.file.myqcloud.com/uPic/feedflow.jpg) 
+![jan](https://images-1252557999.file.myqcloud.com/uPic/jan.jpg)
 
-### [Seal](https://github.com/JunkFood02/Seal)
+目前体验这三款，这个用户体验最好。 
 
-一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
+### [Cloud Document Converter](https://github.com/lujunji4113/cloud-document-converter/tree/main)
 
-- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
-- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
-- 播放列表下载支持
-- 内嵌字幕于视频文件中
-- 执行自定义的 yt-dlp 命令模板
-- 管理应用内下载与自定义命令模板
-- 使用简单、用户友好
-- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
-- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
-    
-![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
+一个 `Chrome` 扩展， 支持下载、复制飞书云文档为 `Markdown`：
+
+![Cloud Document Converter](https://images-1252557999.file.myqcloud.com/uPic/ATwWi4.png) 
 
 ## 👀 资料 
 
-### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
+### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
 
-张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
+30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
 
-![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
+![30-Days-Of-React](https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg) 
 
-### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
+### [LLMBook-zh](https://llmbook-zh.github.io/)
 
-一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
+大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
 
-![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
+![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
 
-### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
+### [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)
 
-阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
+一本由 GPT4 生成的中英词典，涵盖 8000 高频词汇：
 
-![c](https://images-1252557999.file.myqcloud.com/uPic/4uYTRJ.png) 
+![DictionaryByGPT4](https://images-1252557999.file.myqcloud.com/uPic/DictionaryByGPT4.png) 
 
 ## 🕸 网站 
 
-### [法律时代导航](https://yesen.cn/)
+### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
 
-法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
+一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
 
-![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
+![shanshui-inf](https://images-1252557999.file.myqcloud.com/uPic/shanshui-inf.jpg) 
 
-### [batnoter](https://batnoter.com/)
+### [pandagpt.io](https://www.pandagpt.io/)
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+基于  `ChatGPT` 的 `AI` 文档机器人：
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+![pandagpt](https://images-1252557999.file.myqcloud.com/uPic/pandagpt.jpg) 
 
-### [ICO converter](https://www.icoconverter.com/)
+### [cikeee](https://www.cikeee.com/)
 
-`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
+每天推荐一部优秀的电影：
 
-![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
 ## ✍️ 说明
 
