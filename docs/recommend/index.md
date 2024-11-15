@@ -5,106 +5,112 @@
 
 ## 🎯 项目 
 
-### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+### [book-searcher](https://github.com/book-searcher-org/book-searcher)
 
-一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
+`zlib` 开源搜索方案（zlib 是全球知名的电子书分享下载网站，最近开始慢慢转入地下，因此诞生了一些留存检索方案）：
 
-![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
+![zlib_searcher](https://images-1252557999.file.myqcloud.com/uPic/zlib_searcher.jpg) 
 
-### [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
+### [TheTNB_panel](https://github.com/TheTNB/panel)
 
-为你的 `PDF` 文档打造一个 `ChatGPT` 聊天机器人，可以理解成 `ChatPDF` 的开源替代版，项目里面的代码实现可以好好研究：
+耗子面板是使用 `Golang + Vue` 开发的开源轻量 Linux 服务器运维管理面板:
 
-![chatpdf](https://images-1252557999.file.myqcloud.com/uPic/chatpdf.jpg) 
+- 极低占用: 在 Debian 12 下部署面板 + LNMP 环境，内存占用不到 500 MB，遥遥领先于使用容器化的其他面板。
+- 低破坏性: 面板的设计理念是尽可能减少对系统的额外修改，在同类面板中，我们对系统的修改最少。
+- 追随时代: 面板所有组件均走在时代前沿，更新快，功能强大，安全性有保障。
+- 高效运维: 面板 UI 界面简洁，操作简单，无需繁琐的配置，即可快速部署各类环境、调整应用设置。
+- 离线运行: 面板运行可不依赖任何外部服务，你甚至可以在部署完成后停止面板进程，不会对已部署服务造成任何影响。
+- 久经考验: 我们生产环境自 2022 年即开始使用，已稳定运行 1 年以上无事故。
+- 开源开放: 面板开源，你可以自由修改、审计面板源码，安全性有保障。
 
-### [Piwigo](https://github.com/Piwigo/Piwigo)
+![panel](https://images-1252557999.file.myqcloud.com/uPic/panel.png) 
 
- `Piwigo` 是一个开源的网络照片库软件，用于管理照片，专为组织、团队和个人设计：
- 
- ![Piwigo](https://images-1252557999.file.myqcloud.com/uPic/Piwigo.jpeg) 
+### [doocs/md](https://github.com/doocs/md)
+
+✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性：
+
+![doocs](https://images-1252557999.file.myqcloud.com/uPic/doocs.jpg)
+
+之前我也推荐过 [markdown-nice](https://weekly.howie6879.com/2022/02-15~02-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC027%E6%9C%9F%EF%BC%89.html?h=mdnice#markdown-nice) ，我构建了一键使用的镜像，也可以体验：
+
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
 
 ## 🤖 软件 
 
-### [chatd.ai](https://www.chatd.ai/)
+### [Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker)
 
-您自己的私人本地AI，可以阅读计算机上的文件然后与您的文件进行聊天，该软件目标如下：
+`Smart-AutoClicker` 是一个开源的自动点击软件，专为 `Android` 设备设计，能够基于图像检测来自动化重复性任务，同时提供了传统的自动点击功能：
 
-- 一键式下载与启动。
-- 无需额外依赖。
-- 应用文件体积最小化。
-- 设计简单的大语言模型版本控制与分发系统。
-- 兼容所有主流操作系统。
-- 利用本地运行的优势，如访问本地文件系统。
-- 用户无需调整任何设置，大语言模型在他们的系统上即插即用。
+![44OJR2](https://images-1252557999.file.myqcloud.com/uPic/44OJR2.png) 
 
-详情见介绍文章：[packaging-language-models-into-desktop-apps](https://www.bmacd.xyz/packaging-language-models-into-desktop-apps/) 
+### [EcoPaste](https://github.com/ayangweb/EcoPaste)
 
-### [koodo-reader](https://github.com/troyeguo/koodo-reader)
+一款开源的跨平台剪切板管理工具：
 
-一个跨平台的电子书阅读器：
+- 使用 Tauri 构建项目，使其更加小巧精致，资源占用更少，同时适配多个平台。
+- 应用常驻后台，通过自定义快捷键一键唤醒，节省时间，提高效率。
+- 所有剪切板内容均在本地存储，确保数据隐私和安全。
+- 支持纯文本、富文本、HTML、图片和文件类型。
+- 根据剪切板内容类型自动进行分组，便于高效管理。
+- 支持收藏剪切板内容，便于快速访问和管理重要信息。
+- 内置搜索功能，轻松找到剪切板上的任何内容。
+- 图片内置系统 OCR 功能，支持文本和二维码识别。
+- 提供丰富的右键菜单，增强操作便捷性。
 
-- 支持多达 15 种主流电子书格
-- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
-- 备份数据到  **Dropbox**  和  **Webdav**
-- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
-- 双页模式，单页模式，滚动模式
-- 听书功能，翻译功能，触控屏支持，批量导入图书
-- 支持目录，书签，笔记，高亮，书架，标签
-- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
-- 黑夜模式和主题色设置
+![EcoPaste](https://images-1252557999.file.myqcloud.com/uPic/EcoPaste.jpg) 
 
-![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
+### [jingmo](https://github.com/hefengbao/jingmo)
 
-### [Dozer](https://github.com/Mortennn/Dozer)
+『京墨』开源免费的古诗词文（名句）、歇后语、成语、传统节日、绕口令等的阅读 `APP`：
 
-隐藏菜单栏图标，使您的Mac看起来更清爽，个人一直在用的开源状态栏管理工具，`Bartender` 替代品：
-
-![Dozer](https://images-1252557999.file.myqcloud.com/uPic/Dozer.jpg) 
+![jingmo](https://images-1252557999.file.myqcloud.com/uPic/EL9mYu.png) 
 
 ## 👀 资料 
 
-### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
+### [free-educa](https://github.com/free-educa/books)
 
-Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
+`free-educa/books` 是一个开源书籍分享项目，提供了一个精选的编程和开发相关书籍收藏，涵盖了多种编程语言、网页开发、移动应用开发、软件工程、数据科学、DevOps、软件架构和网络安全等主题，鼓励社区成员贡献和共享资源。
 
-### [FFmpeg原理](https://ffmpeg.xianwaizhiyin.net/)
+老胡将所有电子书打包好了 👉 https://pan.quark.cn/s/a3cf52f67ec0
 
-本书《FFmpeg原理》主要讲解 FFmpeg 原理性的知识，前面几章主要讲解一些音视频开发的基础知识，例如原始数据 YUV 跟 RGB，封装格式 FLV 跟 MP4 ，压缩编码的基本概念，还有封装格式分析。
+![free-educa](https://images-1252557999.file.myqcloud.com/uPic/free-educa.jpg) 
 
-前面几章是音视频开发，流媒体技术的基础，后面的章节主要讲解如何搭建 FFmpeg 各种调试环境，同时提供 FFmpeg API 函数的使用示例，最重要的是 分析 ffmpeg.c 跟 ffplay.c 的源码逻辑。
+### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
 
-![ffmpeg](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg.jpg) 
+一份从头开始建立 `CDN` 知识体系的教程。 
 
-### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
+### [sideproject](https://sideproject.guide/)
 
-本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
+`Side Project` 指南：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/SBotTN.jpg)
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
 
-其他同类教程地址：
-
-- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
-- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
 
 ## 🕸 网站 
 
-### [腾讯文库](https://wenku.docs.qq.com/)
+### [uxdatabase](https://www.uxdatabase.io/)
 
-腾讯文库——专业权威的内容消费与发布平台：
+国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
 
-![wenku](https://images-1252557999.file.myqcloud.com/uPic/CL5bpt.png) 
+![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
 
-### [renwuzhi.wiki](https://renwuzhi.wiki/)
+### [trending.design](https://trending.design/)
 
-网站收集了各个朝代人物介绍：
+收集一些在 𝕏(twitter) 上的最佳设计灵感：
 
-![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
+![trending.design](https://images-1252557999.file.myqcloud.com/uPic/trending.design.jpg) 
 
-### [smalldev.tools](https://smalldev.tools/)
+### [chatpdf](https://www.chatpdf.com/)
 
-开发者常用工具集：
+和任何 PDF 进行沟通交流：
 
-![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
+![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
 
 ## ✍️ 说明
 
