@@ -5,112 +5,100 @@
 
 ## 🎯 项目 
 
-### [book-searcher](https://github.com/book-searcher-org/book-searcher)
+### [maxun](https://github.com/getmaxun/maxun)
 
-`zlib` 开源搜索方案（zlib 是全球知名的电子书分享下载网站，最近开始慢慢转入地下，因此诞生了一些留存检索方案）：
+一个免费、开源的无代码网页数据提取平台，允许用户构建自定义机器人以自动化数据抓取任务，可以很方便地进行web2api：
 
-![zlib_searcher](https://images-1252557999.file.myqcloud.com/uPic/zlib_searcher.jpg) 
+![maxun](https://images-1252557999.file.myqcloud.com/uPic/Bkvnhq.png) 
 
-### [TheTNB_panel](https://github.com/TheTNB/panel)
+### [tinysearch](https://github.com/tinysearch/tinysearch)
 
-耗子面板是使用 `Golang + Vue` 开发的开源轻量 Linux 服务器运维管理面板:
+轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
 
-- 极低占用: 在 Debian 12 下部署面板 + LNMP 环境，内存占用不到 500 MB，遥遥领先于使用容器化的其他面板。
-- 低破坏性: 面板的设计理念是尽可能减少对系统的额外修改，在同类面板中，我们对系统的修改最少。
-- 追随时代: 面板所有组件均走在时代前沿，更新快，功能强大，安全性有保障。
-- 高效运维: 面板 UI 界面简洁，操作简单，无需繁琐的配置，即可快速部署各类环境、调整应用设置。
-- 离线运行: 面板运行可不依赖任何外部服务，你甚至可以在部署完成后停止面板进程，不会对已部署服务造成任何影响。
-- 久经考验: 我们生产环境自 2022 年即开始使用，已稳定运行 1 年以上无事故。
-- 开源开放: 面板开源，你可以自由修改、审计面板源码，安全性有保障。
+### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 
-![panel](https://images-1252557999.file.myqcloud.com/uPic/panel.png) 
+一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
 
-### [doocs/md](https://github.com/doocs/md)
-
-✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性：
-
-![doocs](https://images-1252557999.file.myqcloud.com/uPic/doocs.jpg)
-
-之前我也推荐过 [markdown-nice](https://weekly.howie6879.com/2022/02-15~02-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC027%E6%9C%9F%EF%BC%89.html?h=mdnice#markdown-nice) ，我构建了一键使用的镜像，也可以体验：
-
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
+![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
 
 ## 🤖 软件 
 
-### [Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker)
+### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
-`Smart-AutoClicker` 是一个开源的自动点击软件，专为 `Android` 设备设计，能够基于图像检测来自动化重复性任务，同时提供了传统的自动点击功能：
+针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
 
-![44OJR2](https://images-1252557999.file.myqcloud.com/uPic/44OJR2.png) 
+![CodeEdit](https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png) 
 
-### [EcoPaste](https://github.com/ayangweb/EcoPaste)
+### [aidea](https://github.com/mylxsw/aidea)
 
-一款开源的跨平台剪切板管理工具：
+一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：
 
-- 使用 Tauri 构建项目，使其更加小巧精致，资源占用更少，同时适配多个平台。
-- 应用常驻后台，通过自定义快捷键一键唤醒，节省时间，提高效率。
-- 所有剪切板内容均在本地存储，确保数据隐私和安全。
-- 支持纯文本、富文本、HTML、图片和文件类型。
-- 根据剪切板内容类型自动进行分组，便于高效管理。
-- 支持收藏剪切板内容，便于快速访问和管理重要信息。
-- 内置搜索功能，轻松找到剪切板上的任何内容。
-- 图片内置系统 OCR 功能，支持文本和二维码识别。
-- 提供丰富的右键菜单，增强操作便捷性。
+- 支持 GPT-3.5/4 问答聊天
+- 支持国产模型：通义千问，文心一言
+- 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
 
-![EcoPaste](https://images-1252557999.file.myqcloud.com/uPic/EcoPaste.jpg) 
+![aidea](https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg) 
 
-### [jingmo](https://github.com/hefengbao/jingmo)
+### [ChatGPT](https://github.com/lencx/ChatGPT)
 
-『京墨』开源免费的古诗词文（名句）、歇后语、成语、传统节日、绕口令等的阅读 `APP`：
+基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
 
-![jingmo](https://images-1252557999.file.myqcloud.com/uPic/EL9mYu.png) 
+- 历史聊天记录导出(PNG, PDF & Share Link)
+- 快捷键&系统托盘
+- 集成 [chatgpt prompt](https://prompts.chat/)
+
+![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
+
+作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
 
 ## 👀 资料 
 
-### [free-educa](https://github.com/free-educa/books)
+### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
 
-`free-educa/books` 是一个开源书籍分享项目，提供了一个精选的编程和开发相关书籍收藏，涵盖了多种编程语言、网页开发、移动应用开发、软件工程、数据科学、DevOps、软件架构和网络安全等主题，鼓励社区成员贡献和共享资源。
+一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
 
-老胡将所有电子书打包好了 👉 https://pan.quark.cn/s/a3cf52f67ec0
+![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
 
-![free-educa](https://images-1252557999.file.myqcloud.com/uPic/free-educa.jpg) 
+### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
 
-### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
+30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
 
-一份从头开始建立 `CDN` 知识体系的教程。 
+![30-Days-Of-React](https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg) 
 
-### [sideproject](https://sideproject.guide/)
+### [LLM 应用开发实践笔记](https://github.com/morsoli/llm-books)
 
-`Side Project` 指南：
+利用LLM构建应用实践笔记：
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
-
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+![llm-books](https://images-1252557999.file.myqcloud.com/uPic/llm-books.jpg) 
 
 ## 🕸 网站 
 
-### [uxdatabase](https://www.uxdatabase.io/)
+### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
 
-国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
+老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
 
-![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
+![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
 
-### [trending.design](https://trending.design/)
+### [webutils](https://www.webutils.app/)
 
-收集一些在 𝕏(twitter) 上的最佳设计灵感：
+一个提供web小工具的网站，比如：
 
-![trending.design](https://images-1252557999.file.myqcloud.com/uPic/trending.design.jpg) 
+- 文本比较
+- 图片压缩
+- 图片转换
 
-### [chatpdf](https://www.chatpdf.com/)
+![webutils](https://images-1252557999.file.myqcloud.com/uPic/ijDiPA.png) 
 
-和任何 PDF 进行沟通交流：
+### [appbaseio/mirage](https://opensource.appbase.io/mirage/)
 
-![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
+这是一个用于简化 `ES` 查询语句编写的开源项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句：
+
+- 开源代码地址：[https://github.com/appbaseio/mirage](https://github.com/appbaseio/mirage)
+- 访问地址： [https://opensource.appbase.io/mirage/](https://opensource.appbase.io/mirage/)
+
+当然你也可以本机自行部署，非常方便，比较遗憾的是目前只支持到 `-v7.x`：
+
+![mirage](https://images-1252557999.file.myqcloud.com/uPic/mirage.png) 
 
 ## ✍️ 说明
 
