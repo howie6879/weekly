@@ -5,100 +5,100 @@
 
 ## 🎯 项目 
 
-### [maxun](https://github.com/getmaxun/maxun)
+### [bitwarden](https://github.com/bitwarden)
 
-一个免费、开源的无代码网页数据提取平台，允许用户构建自定义机器人以自动化数据抓取任务，可以很方便地进行web2api：
+一个开源，免费，跨平台，安全易管理，，能自动填充密码可自建的密码管理解决方案：
 
-![maxun](https://images-1252557999.file.myqcloud.com/uPic/Bkvnhq.png) 
+![bitwarden](https://images-1252557999.file.myqcloud.com/uPic/bitwarden.jpg) 
 
-### [tinysearch](https://github.com/tinysearch/tinysearch)
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 
-轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
 
-### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+![AI-Writer](https://images-1252557999.file.myqcloud.com/uPic/AI-Writer.jpeg) 
 
-一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
+### [LocalAI](https://github.com/go-skynet/LocalAI)
 
-![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
+🤖 免费、开源的 `OpenAI` 替代品。自托管、社区驱动和本地优先。可在消费级硬件上运行，作为 `OpenAI` 的即插即用替代方案。无需 `GPU`。支持运行 `ggml、gguf、GPTQ、onnx` 和 `TF` 兼容模型：`llama、llama2、rwkv、whisper、vicuna、koala、cerebras、falcon、dolly、starcoder` 等等：
+
+![localai](https://images-1252557999.file.myqcloud.com/uPic/localai.png) 
 
 ## 🤖 软件 
 
-### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+### [Nuclear](https://github.com/nukeop/nuclear)
 
-针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
+`Nuclear` 是一款完全免费的跨平台音乐流媒体桌面程序，内容来源于互联网，界面UI精美，它专注于音乐本身，非常不错（比较麻烦的还是网络问题）：
 
-![CodeEdit](https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png) 
+![nucler](https://images-1252557999.file.myqcloud.com/uPic/nucler.jpg)
 
-### [aidea](https://github.com/mylxsw/aidea)
+项目还在持续开发，我们可以保持期待。 
 
-一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：
+### [scrcpy](https://github.com/Genymobile/scrcpy)
 
-- 支持 GPT-3.5/4 问答聊天
-- 支持国产模型：通义千问，文心一言
-- 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
+在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
 
-![aidea](https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg) 
+它专注于：
 
-### [ChatGPT](https://github.com/lencx/ChatGPT)
+- 轻量 (原生，仅显示设备屏幕)
+- 性能 (30~60fps)
+- 质量 (分辨率可达 1920×1080 或更高)
+- 低延迟 (35~70ms)
+- 快速启动 (最快 1 秒内即可显示第一帧)
+- 无侵入性 (不会在设备上遗留任何程序) 
 
-基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
+### [stretchly](https://github.com/hovancik/stretchly)
 
-- 历史聊天记录导出(PNG, PDF & Share Link)
-- 快捷键&系统托盘
-- 集成 [chatgpt prompt](https://prompts.chat/)
+`Stretchly` 是一个跨平台的 `Electron` 应用程序，它的核心功能就是让你在电脑上面工作时候设定休息&提醒时间：
 
-![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
-
-作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
+![stretchly](https://images-1252557999.file.myqcloud.com/uPic/stretchly.jpg) 
 
 ## 👀 资料 
 
-### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
+### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
 
-一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
+如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
 
-![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
+这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
 
-### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
+其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
 
-30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
+![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
 
-![30-Days-Of-React](https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg) 
+### [uxbaike](https://uxbaike.com/)
 
-### [LLM 应用开发实践笔记](https://github.com/morsoli/llm-books)
+UX 百科，属于设计师的专业知识库：
 
-利用LLM构建应用实践笔记：
+![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
 
-![llm-books](https://images-1252557999.file.myqcloud.com/uPic/llm-books.jpg) 
+### [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
+
+这个项目的目标是带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来，每周更新两篇，有兴趣的朋友可以追更下，架构图：
+
+![linux0.11-talk](https://images-1252557999.file.myqcloud.com/uPic/P4ekdG.jpg) 
 
 ## 🕸 网站 
 
-### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
+### [segment-anything.com](https://segment-anything.com/)
 
-老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
+`Segment Anything Model（SAM）`：这是 `Meta AI` 推出的一款新的`AI` 模型，它可以通过单击轻松**抠出**任何图像中的任何物体。
 
-![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
+也就是说，这个模型可以用一次点击的方式，将任何图片中的任何物体分割出来。
 
-### [webutils](https://www.webutils.app/)
+![segment-anything](https://images-1252557999.file.myqcloud.com/uPic/segment-anything.jpg) 
 
-一个提供web小工具的网站，比如：
+### [yima.me](https://yima.me/)
 
-- 文本比较
-- 图片压缩
-- 图片转换
+免费生成 `AI` 艺术二维码：
 
-![webutils](https://images-1252557999.file.myqcloud.com/uPic/ijDiPA.png) 
+![yima](https://images-1252557999.file.myqcloud.com/uPic/yima.png) 
 
-### [appbaseio/mirage](https://opensource.appbase.io/mirage/)
+### [squoosh](https://squoosh.app/)
 
-这是一个用于简化 `ES` 查询语句编写的开源项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句：
+免费漂亮的在线图片压缩网站：
 
-- 开源代码地址：[https://github.com/appbaseio/mirage](https://github.com/appbaseio/mirage)
-- 访问地址： [https://opensource.appbase.io/mirage/](https://opensource.appbase.io/mirage/)
+![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
 
-当然你也可以本机自行部署，非常方便，比较遗憾的是目前只支持到 `-v7.x`：
-
-![mirage](https://images-1252557999.file.myqcloud.com/uPic/mirage.png) 
+其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
 
 ## ✍️ 说明
 
