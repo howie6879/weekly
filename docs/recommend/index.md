@@ -5,100 +5,83 @@
 
 ## 🎯 项目 
 
-### [bitwarden](https://github.com/bitwarden)
+### [invoice](https://github.com/guanshuicheng/invoice)
 
-一个开源，免费，跨平台，安全易管理，，能自动填充密码可自建的密码管理解决方案：
+增值税发票 `OCR` 识别，使用 `flask` 微服务架构，识别 `type` ：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等：
 
-![bitwarden](https://images-1252557999.file.myqcloud.com/uPic/bitwarden.jpg) 
+![invoice](https://images-1252557999.file.myqcloud.com/uPic/invoice.jpg) 
 
-### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
+### [whitebophir](https://github.com/lovasoa/whitebophir)
 
-AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+一个简单、免费、易于使用和部署的在线协作白板。该白板允许多个用户同时实时绘图，并且可以保存白板状态：
 
-![AI-Writer](https://images-1252557999.file.myqcloud.com/uPic/AI-Writer.jpeg) 
+![whitebophir](https://images-1252557999.file.myqcloud.com/uPic/KZgRku.png) 
 
-### [LocalAI](https://github.com/go-skynet/LocalAI)
+### [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 
-🤖 免费、开源的 `OpenAI` 替代品。自托管、社区驱动和本地优先。可在消费级硬件上运行，作为 `OpenAI` 的即插即用替代方案。无需 `GPU`。支持运行 `ggml、gguf、GPTQ、onnx` 和 `TF` 兼容模型：`llama、llama2、rwkv、whisper、vicuna、koala、cerebras、falcon、dolly、starcoder` 等等：
+`ChatGPT` 中文调教指南，各种场景使用指南，学习怎么让它听你的话：
 
-![localai](https://images-1252557999.file.myqcloud.com/uPic/localai.png) 
+![acpz](https://images-1252557999.file.myqcloud.com/uPic/acpz.jpg) 
 
 ## 🤖 软件 
 
-### [Nuclear](https://github.com/nukeop/nuclear)
+### [materialYouNewTab](https://github.com/XengShi/materialYouNewTab)
 
-`Nuclear` 是一款完全免费的跨平台音乐流媒体桌面程序，内容来源于互联网，界面UI精美，它专注于音乐本身，非常不错（比较麻烦的还是网络问题）：
+一个简单的新标签（浏览器主页）插件，灵感来自谷歌的 MD 设计，挺漂亮的：
 
-![nucler](https://images-1252557999.file.myqcloud.com/uPic/nucler.jpg)
+![materialYouNewTab](https://images-1252557999.file.myqcloud.com/uPic/MWwtoG.png) 
 
-项目还在持续开发，我们可以保持期待。 
+### NewPipe
 
-### [scrcpy](https://github.com/Genymobile/scrcpy)
+`NewPipe` 是一款 Android 下的第三方 `YouTube` 客户端，支持画中画、后台播放、变速播放、可查看留言、可导入订阅频道、可使用 `Kodi` 播放，是一款功能非常完善的油管客户端：
 
-在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
+![NewPipe](https://images-1252557999.file.myqcloud.com/uPic/NewPipe.jpg) 
 
-它专注于：
+### [Olauncher](https://github.com/tanujnotes/Olauncher)
 
-- 轻量 (原生，仅显示设备屏幕)
-- 性能 (30~60fps)
-- 质量 (分辨率可达 1920×1080 或更高)
-- 低延迟 (35~70ms)
-- 快速启动 (最快 1 秒内即可显示第一帧)
-- 无侵入性 (不会在设备上遗留任何程序) 
+适用于 `Android` 的最小 `AF` 启动器。减少您在屏幕上浪费的时间，提供日常壁纸，非常优雅简洁，效果上来看适合英文用户：
 
-### [stretchly](https://github.com/hovancik/stretchly)
-
-`Stretchly` 是一个跨平台的 `Electron` 应用程序，它的核心功能就是让你在电脑上面工作时候设定休息&提醒时间：
-
-![stretchly](https://images-1252557999.file.myqcloud.com/uPic/stretchly.jpg) 
+![Olauncher](https://images-1252557999.file.myqcloud.com/uPic/Olauncher.jpg) 
 
 ## 👀 资料 
 
-### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
+### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 
-如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
+每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
 
-这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
+![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
 
-其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
+### [凤凰架构](https://github.com/fenixsoft/awesome-fenix)
 
-![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
+这是一部以“**如何构建一套可靠的分布式大型软件系统**”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《[什么是凤凰架构](https://icyfenix.cn/introduction/about-the-fenix-project.html)》详细阐述了这部文档的主旨、目标与名字的来由，文章《[如何开始](https://icyfenix.cn/exploration/guide/quick-start.html)》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
 
-### [uxbaike](https://uxbaike.com/)
+![icyfenix](https://images-1252557999.file.myqcloud.com/uPic/icyfenix.jpg) 
 
-UX 百科，属于设计师的专业知识库：
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-### [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
-
-这个项目的目标是带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来，每周更新两篇，有兴趣的朋友可以追更下，架构图：
-
-![linux0.11-talk](https://images-1252557999.file.myqcloud.com/uPic/P4ekdG.jpg) 
+![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
 
 ## 🕸 网站 
 
-### [segment-anything.com](https://segment-anything.com/)
+### [chatpdf](https://www.chatpdf.com/)
 
-`Segment Anything Model（SAM）`：这是 `Meta AI` 推出的一款新的`AI` 模型，它可以通过单击轻松**抠出**任何图像中的任何物体。
+和任何 PDF 进行沟通交流：
 
-也就是说，这个模型可以用一次点击的方式，将任何图片中的任何物体分割出来。
+![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
 
-![segment-anything](https://images-1252557999.file.myqcloud.com/uPic/segment-anything.jpg) 
+### [onepdf](https://www.onepdf.online/)
 
-### [yima.me](https://yima.me/)
+免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
 
-免费生成 `AI` 艺术二维码：
+![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
 
-![yima](https://images-1252557999.file.myqcloud.com/uPic/yima.png) 
+### [http.cat](https://http.cat)
 
-### [squoosh](https://squoosh.app/)
+如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
 
-免费漂亮的在线图片压缩网站：
-
-![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
-
-其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
+![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
 
 ## ✍️ 说明
 
