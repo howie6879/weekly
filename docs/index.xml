@@ -12,7 +12,77 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 10 Nov 2024 07:31:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 09:10:14 +0000</lastBuildDate>
+    <item>
+      <title>11-11~11-17.老胡的周刊（第168期）.md</title>
+      <link>https://weekly.howie6879.com/2024/11-11~11-17.老胡的周刊（第168期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/11-11~11-17.老胡的周刊（第168期）.html"&gt;11-11~11-17.老胡的周刊（第168期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Ray-D-Song/web-archive"&gt;web-archive&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Web Archive 是一个网页归档工具，包含以下几个部分：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;浏览器插件：将网页保存为网页快照，并上传到服务端。&lt;/li&gt;
+&lt;li&gt;服务端： 接收浏览器插件上传的快照，并存储在数据库和存储桶中。&lt;/li&gt;
+&lt;li&gt;web 客户端： 查询快照并展示。&lt;/li&gt;
+&lt;li&gt;服务端基于 Cloudflare Worker 的全套服务，包含 D1 数据库、R2 存储桶。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="web-archive" src="https://images-1252557999.file.myqcloud.com/uPic/eHiOvl.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ourongxing/newsnow"&gt;newsnow&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;优雅地阅读实时热门新闻：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;优雅的设计，优雅的阅读体验，时刻关注最新最热的新闻。&lt;/li&gt;
+&lt;li&gt;支持 Github 登录，支持数据同步。&lt;/li&gt;
+&lt;li&gt;默认 30 分钟缓存，登录用户可以强制拉取最新数据。但也会根据内容源的更新间隔设置不同的爬虫间隔时间（最快两分钟），节约资源的同时避免频繁爬取而导致 IP 封禁。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="newsnow" src="https://images-1252557999.file.myqcloud.com/uPic/reaQ9I.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/JoeanAmier/XHS-Downloader"&gt;XHS-Downloader&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！&lt;/p&gt;
+&lt;p&gt;&lt;img alt="XHS-Downloader" src="https://images-1252557999.file.myqcloud.com/uPic/mjKPJU.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/bluewave-labs/bluewave-uptime"&gt;bluewave-uptime&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个开源的自托管服务器监控工具，使用 &lt;code&gt;React.js, Node.js &amp;amp; MongoDB&lt;/code&gt; 构建，用于实时跟踪服务器的在线状态、响应时间和事件，并提供美观的可视化界面和预警功能：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bluewave-uptime" src="https://images-1252557999.file.myqcloud.com/uPic/3x4lwD.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/lunu-bounir/allow-right-click"&gt;allow-right-click&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源插件，解锁被网站禁用的右键功能，支持多种浏览器：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="allow-right-click" src="https://images-1252557999.file.myqcloud.com/uPic/cyZqzu.png" /&gt;&lt;/p&gt;
+&lt;p&gt;对于这种功能的插件，一定要用开源的，太多插件先免费提供功能，然后偷偷摸摸做些个人信息售卖或者返佣等事情进行盈利。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/jaywcjlove/DevHub"&gt;DevHub&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;面向开发者的工具箱软件：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="DevHub" src="https://images-1252557999.file.myqcloud.com/uPic/N2tzTT.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/freeok/so-novel"&gt;so-novel&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;交互式小说下载器，Windows、macOS、Linux 解压即用，可根据书名、作者搜索并下载小说，支持导出格式：epub、txt、html（支持翻页），结合以下电子书阅读器使用更佳：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;电脑：&lt;a href="https://www.koodoreader.com/zh"&gt;koodo-reader&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;手机：Apple Books&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="so-novel" src="https://images-1252557999.file.myqcloud.com/uPic/h4xoJr.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/varungodbole/prompt-tuning-playbook"&gt;prompt-tuning-playbook&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;项目主要提供了一份针对后训练大型语言模型（LLMs）的有效提示技术指南，旨在帮助用户更好地理解和应用这些模型。&lt;/p&gt;
+&lt;p&gt;后训练使得 LLMs 能够更好地遵循指令、匹配现实世界、保持安全等，这些行为包括但不限于格式遵循、指令执行、事实准确性和安全性。&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://buyoncesoftware.com"&gt;buyoncesoftware.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一份满足购买一次，终身使用软件名单：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="buyoncesoftware" src="https://images-1252557999.file.myqcloud.com/uPic/HuYvwg.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://drawl.ink/"&gt;drawl.ink&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;将链接转化成好看的图片：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="drawl" src="https://images-1252557999.file.myqcloud.com/uPic/eltzuF.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">11-11~11-17.老胡的周刊（第168期）.md</guid>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>11-04~11-10.老胡的周刊（第167期）.md</title>
       <link>https://weekly.howie6879.com/2024/11-04~11-10.老胡的周刊（第167期）.html</link>
@@ -1188,70 +1258,6 @@ curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/rel
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">07-01~07-07.老胡的周刊（第149期）.md</guid>
       <pubDate>Sun, 07 Jul 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>06-24~06-30.老胡的周刊（第148期）.md</title>
-      <link>https://weekly.howie6879.com/2024/06-24~06-30.老胡的周刊（第148期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/06-24~06-30.老胡的周刊（第148期）.html"&gt;06-24~06-30.老胡的周刊（第148期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/TheTNB/panel"&gt;TheTNB_panel&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;耗子面板是使用 &lt;code&gt;Golang + Vue&lt;/code&gt; 开发的开源轻量 Linux 服务器运维管理面板:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;极低占用: 在 Debian 12 下部署面板 + LNMP 环境，内存占用不到 500 MB，遥遥领先于使用容器化的其他面板。&lt;/li&gt;
-&lt;li&gt;低破坏性: 面板的设计理念是尽可能减少对系统的额外修改，在同类面板中，我们对系统的修改最少。&lt;/li&gt;
-&lt;li&gt;追随时代: 面板所有组件均走在时代前沿，更新快，功能强大，安全性有保障。&lt;/li&gt;
-&lt;li&gt;高效运维: 面板 UI 界面简洁，操作简单，无需繁琐的配置，即可快速部署各类环境、调整应用设置。&lt;/li&gt;
-&lt;li&gt;离线运行: 面板运行可不依赖任何外部服务，你甚至可以在部署完成后停止面板进程，不会对已部署服务造成任何影响。&lt;/li&gt;
-&lt;li&gt;久经考验: 我们生产环境自 2022 年即开始使用，已稳定运行 1 年以上无事故。&lt;/li&gt;
-&lt;li&gt;开源开放: 面板开源，你可以自由修改、审计面板源码，安全性有保障。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="panel" src="https://images-1252557999.file.myqcloud.com/uPic/panel.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/LLM-Red-Team"&gt;LLM-Red-Team&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;LLM Red Team&lt;/code&gt; 意为 &lt;code&gt;LLM&lt;/code&gt; 大模型红队，对各大模型进行逆向然后提供 API 接口，方便开发者调用测试：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="LLM-Red-Team" src="https://images-1252557999.file.myqcloud.com/uPic/LLM-Red-Team.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/RubyMetric/chsrc"&gt;chsrc&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;全平台命令行换源工具，目标支持 Linux (包括麒麟、openEuler、deepin 等), Windows, macOS, BSD 等尽可能多的操作系统，龙芯、飞腾、RISC-V 等尽可能多的 CPU。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="chsrc" src="https://images-1252557999.file.myqcloud.com/uPic/0WY3Oh.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/jaywcjlove/copybook-generator"&gt;copybook-generator&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;「宝宝字帖」是一款功能强大的字帖生成工具，专为满足不同用户的书写练习需求而设计：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="copybook-generator" src="https://images-1252557999.file.myqcloud.com/uPic/copybook-generator.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/niedev/RTranslator"&gt;RTranslator&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;RTransator&lt;/code&gt; 是一个(几乎)开源的、免费的、离线的 &lt;code&gt;Android&lt;/code&gt; 实时翻译应用程序。&lt;/p&gt;
-&lt;p&gt;连接到有这个应用程序的人，连接蓝牙耳机，把手机放在你的口袋里，你就可以像对方说你的语言一样进行交谈。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="RTranslator" src="https://images-1252557999.file.myqcloud.com/uPic/RTranslator.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/kangpeiqin/bilivideo_down"&gt;bilivideo_down&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一款基于 &lt;code&gt;Flutter&lt;/code&gt; 开发的跨平台面端 B 站视频下载器：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="bilivideo_down" src="https://images-1252557999.file.myqcloud.com/uPic/bilivideo_down.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Chilfish/Weibo-archiver"&gt;Weibo-archiver&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;将微博导出备份的油猴脚本，为号被完全夹没前未雨绸缪 😭&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Weibo-archiver" src="https://images-1252557999.file.myqcloud.com/uPic/68747470733a2f2f702e6368696c666973682e746f702f776569626f2f666561747572652e77656270.webp" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Ceelog/DictionaryByGPT4"&gt;DictionaryByGPT4&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一本由 GPT4 生成的中英词典，涵盖 8000 高频词汇：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="DictionaryByGPT4" src="https://images-1252557999.file.myqcloud.com/uPic/DictionaryByGPT4.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://uilibhub.com/zh"&gt;uilibhub&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;探索最佳 &lt;code&gt;UI&lt;/code&gt; 库，助力 &lt;code&gt;React &amp;amp; Vue&lt;/code&gt; 高效开发：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="uilibhub" src="https://images-1252557999.file.myqcloud.com/uPic/uilibhub.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://www.kkdaxue.com/"&gt;kkdaxue&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;高考志愿网站，发现各专业前辈们的学习建议：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="kkdaxue" src="https://images-1252557999.file.myqcloud.com/uPic/kkdaxue.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">06-24~06-30.老胡的周刊（第148期）.md</guid>
-      <pubDate>Sun, 30 Jun 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
