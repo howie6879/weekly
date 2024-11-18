@@ -5,83 +5,96 @@
 
 ## 🎯 项目 
 
-### [invoice](https://github.com/guanshuicheng/invoice)
+### [runtipi](https://github.com/meienberger/runtipi)
 
-增值税发票 `OCR` 识别，使用 `flask` 微服务架构，识别 `type` ：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等：
+自托管的开源家庭应用服务管理工具，比如你可以在你的服务器上面一键安装任何自托管的应用：
 
-![invoice](https://images-1252557999.file.myqcloud.com/uPic/invoice.jpg) 
+![runtipi](https://images-1252557999.file.myqcloud.com/uPic/runtipi.png) 
 
-### [whitebophir](https://github.com/lovasoa/whitebophir)
+### [dub](https://github.com/steven-tey/dub)
 
-一个简单、免费、易于使用和部署的在线协作白板。该白板允许多个用户同时实时绘图，并且可以保存白板状态：
+开源的短链接服务，可以自定义域名且进行相关指标分析：
 
-![whitebophir](https://images-1252557999.file.myqcloud.com/uPic/KZgRku.png) 
+![dub](https://images-1252557999.file.myqcloud.com/uPic/dub.png)
 
-### [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+还有一个同类型的开源产品 [YOURLS](https://github.com/YOURLS/YOURLS)，也很不错，功能也能覆盖上面。 
 
-`ChatGPT` 中文调教指南，各种场景使用指南，学习怎么让它听你的话：
+### [examor](https://github.com/codeacme17/examor)
 
-![acpz](https://images-1252557999.file.myqcloud.com/uPic/acpz.jpg) 
+一个网站应用程序，借助 `ChatGPT` 让你根据自己的知识笔记进行考试，让你真正记住所学和所写：
+
+![examor](https://images-1252557999.file.myqcloud.com/uPic/examor.png) 
 
 ## 🤖 软件 
 
-### [materialYouNewTab](https://github.com/XengShi/materialYouNewTab)
+### [Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider)
 
-一个简单的新标签（浏览器主页）插件，灵感来自谷歌的 MD 设计，挺漂亮的：
+Amarok 是一款轻量级隐私保护工具，一键隐藏你的隐私文件和应用:
 
-![materialYouNewTab](https://images-1252557999.file.myqcloud.com/uPic/MWwtoG.png) 
+- 简单易用: 文件应用，一键隐藏。
+- 高速大文件隐藏: 只混淆文件名和文件签名，文件大小并不影响隐藏速度。
+- 免 Root 应用隐藏: 从桌面隐藏应用程序。目前支持 Root、Shizuku、Dhizuku 和 DSM 模式。
+- 老板键: 在紧急情况下使用浮动按钮隐藏应用和文件。
+- 快捷开关: 控制中心开关，无需打开应用即可隐藏。
+- 赏心悦目的界面: 简洁干净的 Material3 设计。
 
-### NewPipe
+![Amarok](https://images-1252557999.file.myqcloud.com/uPic/Amarok.jpg) 
 
-`NewPipe` 是一款 Android 下的第三方 `YouTube` 客户端，支持画中画、后台播放、变速播放、可查看留言、可导入订阅频道、可使用 `Kodi` 播放，是一款功能非常完善的油管客户端：
+### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-![NewPipe](https://images-1252557999.file.myqcloud.com/uPic/NewPipe.jpg) 
+监控你的应用流量，跨平台：
 
-### [Olauncher](https://github.com/tanujnotes/Olauncher)
+![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
 
-适用于 `Android` 的最小 `AF` 启动器。减少您在屏幕上浪费的时间，提供日常壁纸，非常优雅简洁，效果上来看适合英文用户：
+### [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
 
-![Olauncher](https://images-1252557999.file.myqcloud.com/uPic/Olauncher.jpg) 
+一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒：
+
+- 一键快速下载、安装、激活最新版 Microsoft Office 软件。
+- 用户可在安装 Word、PPT、Excel 的同时，根据软件提示，自助安装其它组件，包括： Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype
+- 工具可自动识别不同的操作系统架构，自动下载适配版本的 Office。
+- 本工具激活 Office 的方式为正版激活模式，不会篡改任何系统文件。
+- 当系统中存在多个冗余 Office 版本时，本工具在用户同意的情况下，可实现自动升级。 
 
 ## 👀 资料 
 
-### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+### [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
-每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
+这个仓库收集了各种日常工作中使用的材料和工具，包括 CLI 工具、GUI 工具、Web 工具、系统服务、网络、容器编排、手册教程、博客资源、黑客测试等内容。适合系统管理员、网络管理员、DevOps、渗透测试者和安全研究人员使用。 
 
-![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
+### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
 
-### [凤凰架构](https://github.com/fenixsoft/awesome-fenix)
+`Solidity` 极简入门：
 
-这是一部以“**如何构建一套可靠的分布式大型软件系统**”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《[什么是凤凰架构](https://icyfenix.cn/introduction/about-the-fenix-project.html)》详细阐述了这部文档的主旨、目标与名字的来由，文章《[如何开始](https://icyfenix.cn/exploration/guide/quick-start.html)》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
+![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
 
-![icyfenix](https://images-1252557999.file.myqcloud.com/uPic/icyfenix.jpg) 
+### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
 
-### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
+针对新人的 `CSS` 入门级教程：
 
-这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
 
-![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
+在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
 
 ## 🕸 网站 
 
-### [chatpdf](https://www.chatpdf.com/)
+### [eja.tv](https://eja.tv/?)
 
-和任何 PDF 进行沟通交流：
+提供3808个在线电视频道，包含143个国家以及82种不同语言。
 
-![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
+![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
 
-### [onepdf](https://www.onepdf.online/)
+### [openfarm.cc](https://openfarm.cc/)
 
-免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
+[`OpenFarm`](https://github.com/openfarmcc/OpenFarm) 是一个开源项目，目标是教你如何种植农作物：
 
-![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
+![openfarm](https://images-1252557999.file.myqcloud.com/uPic/openfarm.jpg) 
 
-### [http.cat](https://http.cat)
+### [ixinqing](http://www.ixinqing.com/)
 
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
+心晴 · 专注于心理学入门与自我成长:
 
-![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
+![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
 
 ## ✍️ 说明
 
