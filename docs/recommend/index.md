@@ -5,96 +5,91 @@
 
 ## 🎯 项目 
 
-### [runtipi](https://github.com/meienberger/runtipi)
+### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
 
-自托管的开源家庭应用服务管理工具，比如你可以在你的服务器上面一键安装任何自托管的应用：
+最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
 
-![runtipi](https://images-1252557999.file.myqcloud.com/uPic/runtipi.png) 
+![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
 
-### [dub](https://github.com/steven-tey/dub)
+### [JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER)
 
-开源的短链接服务，可以自定义域名且进行相关指标分析：
+京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)。
 
-![dub](https://images-1252557999.file.myqcloud.com/uPic/dub.png)
+![jd-shopper](https://images-1252557999.file.myqcloud.com/uPic/jd-shopper.jpeg) 
 
-还有一个同类型的开源产品 [YOURLS](https://github.com/YOURLS/YOURLS)，也很不错，功能也能覆盖上面。 
+### [SearXNG](https://github.com/searxng/searxng)
 
-### [examor](https://github.com/codeacme17/examor)
+`SearXNG` 是一个免费的互联网元搜索引擎，它通过整合不同的搜索服务和数据库来提供搜索结果，同时保障用户隐私不被追踪和分析。
 
-一个网站应用程序，借助 `ChatGPT` 让你根据自己的知识笔记进行考试，让你真正记住所学和所写：
-
-![examor](https://images-1252557999.file.myqcloud.com/uPic/examor.png) 
+![SearXNG](https://images-1252557999.file.myqcloud.com/uPic/SearXNG.jpg) 
 
 ## 🤖 软件 
 
-### [Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider)
+### [DevToys](https://github.com/veler/DevToys)
 
-Amarok 是一款轻量级隐私保护工具，一键隐藏你的隐私文件和应用:
+Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
 
-- 简单易用: 文件应用，一键隐藏。
-- 高速大文件隐藏: 只混淆文件名和文件签名，文件大小并不影响隐藏速度。
-- 免 Root 应用隐藏: 从桌面隐藏应用程序。目前支持 Root、Shizuku、Dhizuku 和 DSM 模式。
-- 老板键: 在紧急情况下使用浮动按钮隐藏应用和文件。
-- 快捷开关: 控制中心开关，无需打开应用即可隐藏。
-- 赏心悦目的界面: 简洁干净的 Material3 设计。
+![](https://images-1252557999.file.myqcloud.com/uPic/DevToys.png)
 
-![Amarok](https://images-1252557999.file.myqcloud.com/uPic/Amarok.jpg) 
+可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
 
-### [sniffnet](https://github.com/GyulyVGC/sniffnet)
+![](https://images-1252557999.file.myqcloud.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
 
-监控你的应用流量，跨平台：
+放心体验吧~ 
 
-![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
+### [Files](https://github.com/files-community/Files)
 
-### [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
+一个现代化的文件管理软件(Windows用户专属)：
 
-一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒：
+![files_windows](https://images-1252557999.file.myqcloud.com/uPic/files_windows.jpg) 
 
-- 一键快速下载、安装、激活最新版 Microsoft Office 软件。
-- 用户可在安装 Word、PPT、Excel 的同时，根据软件提示，自助安装其它组件，包括： Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype
-- 工具可自动识别不同的操作系统架构，自动下载适配版本的 Office。
-- 本工具激活 Office 的方式为正版激活模式，不会篡改任何系统文件。
-- 当系统中存在多个冗余 Office 版本时，本工具在用户同意的情况下，可实现自动升级。 
+### [imFile](https://github.com/imfile-io/imfile-desktop)
+
+`Motrix` 已经很长时间没有更新，同时积累了大量 `issues`，项目基于 `Motrix` 并长期维护更新。`imFile` 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源：
+
+![imfile](https://images-1252557999.file.myqcloud.com/uPic/imfile.jpg) 
 
 ## 👀 资料 
 
-### [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
 
-这个仓库收集了各种日常工作中使用的材料和工具，包括 CLI 工具、GUI 工具、Web 工具、系统服务、网络、容器编排、手册教程、博客资源、黑客测试等内容。适合系统管理员、网络管理员、DevOps、渗透测试者和安全研究人员使用。 
+从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
 
-### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
+![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
-`Solidity` 极简入门：
+### [learnprompting.org](https://learnprompting.org/zh-Hans/docs/intro)
 
-![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
+> 如何同人工智能交流，并得到你要的结果。
 
-### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
+随着最近人工智能的不断进步，提示工程这项技能变得越来越重要。本课程会聚焦于如何使用提示工程。你不需要很多机器学习相关的知识。
 
-针对新人的 `CSS` 入门级教程：
+![learnprompting](https://images-1252557999.file.myqcloud.com/uPic/learnprompting.jpg) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
+### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
+24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
+
+![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
 
 ## 🕸 网站 
 
-### [eja.tv](https://eja.tv/?)
+### [recompressor](https://zh.recompressor.com/)
 
-提供3808个在线电视频道，包含143个国家以及82种不同语言。
+免费的图片压缩工具：
 
-![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
+![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
 
-### [openfarm.cc](https://openfarm.cc/)
+### [jsont.run](https://www.jsont.run/)
 
-[`OpenFarm`](https://github.com/openfarmcc/OpenFarm) 是一个开源项目，目标是教你如何种植农作物：
+一个简洁的在线 `JSON` 解析器：
 
-![openfarm](https://images-1252557999.file.myqcloud.com/uPic/openfarm.jpg) 
+![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
 
-### [ixinqing](http://www.ixinqing.com/)
+### [rust-search-extension](https://rust.extension.sh/)
 
-心晴 · 专注于心理学入门与自我成长:
+在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
 
-![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
+![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
 
 ## ✍️ 说明
 
