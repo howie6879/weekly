@@ -5,91 +5,101 @@
 
 ## 🎯 项目 
 
-### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
+### [fre123-nav](https://github.com/fre123-com/fre123-nav)
 
-最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
+> [FRE123](https://www.fre123.com/) 免费资源共享平台导航，一键搭建你的导航网站！
 
-![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
+这是老胡上个月做的一个导航网站，不少人想基于这套进行二次开发，所以开源出来，希望能帮到大家：
 
-### [JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER)
+- [fre123-nav](https://github.com/fre123-com/fre123-nav)：导航页面源码
+- [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)：信息流页面源码
+- [Fre123 导航网站搭建教程](https://mp.weixin.qq.com/s/NEqY1Qb4dyJDhdtlYxjmaA)
 
-京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)。
+![fre123-nav](https://images-1252557999.file.myqcloud.com/uPic/fre123-nav.jpeg) 
 
-![jd-shopper](https://images-1252557999.file.myqcloud.com/uPic/jd-shopper.jpeg) 
+### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
 
-### [SearXNG](https://github.com/searxng/searxng)
+该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
 
-`SearXNG` 是一个免费的互联网元搜索引擎，它通过整合不同的搜索服务和数据库来提供搜索结果，同时保障用户隐私不被追踪和分析。
+![computer_book_list](https://images-1252557999.file.myqcloud.com/uPic/uxQa5E.png) 
 
-![SearXNG](https://images-1252557999.file.myqcloud.com/uPic/SearXNG.jpg) 
+### [pingvin-share](https://github.com/stonith404/pingvin-share)
+
+`Pingvin Share` 是一个可自建的文件分享平台，是 `WeTransfer` 的一个替代品：
+
+- 通过可自定义后缀的链接分享文件
+- 可自定义任意大小的文件上传限制 (受制于托管所在的硬盘大小)
+- 对共享链接设置有效期限
+- 对共享链接设置访问次数和访问密码
+- 通过邮件自动发送共享链接
+- 整合 ClamAV 进行反病毒检查
+
+![pingvin-share](https://images-1252557999.file.myqcloud.com/uPic/pingvin-share.png)
+还有个类似的开源项目[奶油快传-bitiful/send](https://github.com/bitiful/send)，相对轻量，但也没有 `pingvin-share` 成熟：
+
+![bitiful](https://images-1252557999.file.myqcloud.com/uPic/bitiful.jpg) 
 
 ## 🤖 软件 
 
-### [DevToys](https://github.com/veler/DevToys)
+### [HandBrake](https://github.com/HandBrake/HandBrake)
 
-Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
+`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/DevToys.png)
+![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
 
-可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
+### [notepad--](https://github.com/cxasm/notepad--)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
+这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
 
-放心体验吧~ 
+> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
 
-### [Files](https://github.com/files-community/Files)
+![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
 
-一个现代化的文件管理软件(Windows用户专属)：
+### [ambie](https://github.com/jenius-apps/ambie)
 
-![files_windows](https://images-1252557999.file.myqcloud.com/uPic/files_windows.jpg) 
+针对 `Windows` 平台的白噪音应用，挺多自然界声音，可以帮助你提升生产力：
 
-### [imFile](https://github.com/imfile-io/imfile-desktop)
-
-`Motrix` 已经很长时间没有更新，同时积累了大量 `issues`，项目基于 `Motrix` 并长期维护更新。`imFile` 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源：
-
-![imfile](https://images-1252557999.file.myqcloud.com/uPic/imfile.jpg) 
+![ambie](https://images-1252557999.file.myqcloud.com/uPic/ambie.jpg) 
 
 ## 👀 资料 
 
-### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
+### [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
 
-从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
+本仓库是手册《简单粗暴LaTeX》的开源仓库。本书涵盖了LaTeX的基本使用场景，以简明的例子来展现各命令的用法：
 
-![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
+![Note-by-LaTeX](https://images-1252557999.file.myqcloud.com/uPic/Note-by-LaTeX.jpg)
 
-### [learnprompting.org](https://learnprompting.org/zh-Hans/docs/intro)
+在开源仓库可直接下载阅读。 
 
-> 如何同人工智能交流，并得到你要的结果。
+### [one-python-craftsman](https://github.com/piglei/one-python-craftsman)
 
-随着最近人工智能的不断进步，提示工程这项技能变得越来越重要。本课程会聚焦于如何使用提示工程。你不需要很多机器学习相关的知识。
+来自一位 `Pythonista` 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面：
 
-![learnprompting](https://images-1252557999.file.myqcloud.com/uPic/learnprompting.jpg) 
+![one-python-craftsman](https://images-1252557999.file.myqcloud.com/uPic/one-python-craftsman.jpg) 
 
-### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 
-24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
+GitHub开源项目维护协作指南：
 
-![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
+![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
 
 ## 🕸 网站 
 
-### [recompressor](https://zh.recompressor.com/)
+### [w2solo](https://w2solo.com/)
 
-免费的图片压缩工具：
+独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
 
-![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
+### [freelancethings](https://www.freelancethings.co/)
 
-### [jsont.run](https://www.jsont.run/)
+为自由职业者精心挑选的资源，涉及到社区、工具、文章、书籍、视频等，这些都帮助你在自由职业之旅中获得更多帮助，订阅后每周发送到您的收件箱:
 
-一个简洁的在线 `JSON` 解析器：
+![freelancethings](https://images-1252557999.file.myqcloud.com/uPic/freelancethings.jpg) 
 
-![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
+### [RunningCode](https://github.com/tonyljx/running-leetcode)
 
-### [rust-search-extension](https://rust.extension.sh/)
+一个算法小工具网站，收录了面试最高频的算法题~ 可以按【题目类型】，【题目出处】，以及【难易程度】去索引，帮助一刷，二刷的同学快速准备算法题。数据都是基于公开数据人工整理 + GPT 进行打标签。
 
-在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
-
-![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
+![running-leetcode](https://images-1252557999.file.myqcloud.com/uPic/running-leetcode.jpg) 
 
 ## ✍️ 说明
 
