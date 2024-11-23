@@ -5,17 +5,19 @@
 
 ## 🎯 项目 
 
-### [nps](https://github.com/ehang-io/nps)
+### [dootask](https://github.com/kuaifan/dootask)
 
-一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。
+DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
 
-![nps](https://images-1252557999.file.myqcloud.com/uPic/x2AaCw.jpg) 
+![dootask](https://images-1252557999.file.myqcloud.com/uPic/tYiTA7.png) 
 
-### [Navidrome](https://github.com/navidrome/navidrome)
+### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
 
-`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
+阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
 
-![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
+如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
+
+![Infuse](https://images-1252557999.file.myqcloud.com/uPic/Fbred5.png) 
 
 ### [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
 
@@ -25,83 +27,63 @@
 
 ## 🤖 软件 
 
-### [listen1_desktop](https://github.com/listen1/listen1_desktop)
+### [NanaZip](https://github.com/M2Team/NanaZip)
 
-Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单，支持音乐平台：
+`NanaZip` 是一个面向现代 `Windows` 体验的开源文件压缩工具，基于知名的开源文件压缩工具 `7-Zip` 的源代码：
 
-- 网易云音乐
-- QQ 音乐
-- 酷狗音乐
-- 酷我音乐
-- bilibili
-- 咪咕音乐
-- 千千音乐
+![NanaZip](https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg) 
 
-![listen1_desktop](https://images-1252557999.file.myqcloud.com/uPic/listen1_desktop.png) 
+### [copybook-generator](https://github.com/jaywcjlove/copybook-generator)
 
-### [Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider)
+「宝宝字帖」是一款功能强大的字帖生成工具，专为满足不同用户的书写练习需求而设计：
 
-Amarok 是一款轻量级隐私保护工具，一键隐藏你的隐私文件和应用:
+![copybook-generator](https://images-1252557999.file.myqcloud.com/uPic/copybook-generator.jpg) 
 
-- 简单易用: 文件应用，一键隐藏。
-- 高速大文件隐藏: 只混淆文件名和文件签名，文件大小并不影响隐藏速度。
-- 免 Root 应用隐藏: 从桌面隐藏应用程序。目前支持 Root、Shizuku、Dhizuku 和 DSM 模式。
-- 老板键: 在紧急情况下使用浮动按钮隐藏应用和文件。
-- 快捷开关: 控制中心开关，无需打开应用即可隐藏。
-- 赏心悦目的界面: 简洁干净的 Material3 设计。
+### [kondo](https://github.com/tbillington/kondo)
 
-![Amarok](https://images-1252557999.file.myqcloud.com/uPic/Amarok.jpg) 
+有时候在开发的时候，会惊讶于这个语言下依赖竟然有 `xx个G` 的硬盘占用，长期下来，硬盘的空间就这样不知不觉没有了，好在发现了这个项目，帮我解决了问题：
 
-### [WeChatAI](https://github.com/bingryan/WeChatAI)
+![kondo](https://images-1252557999.file.myqcloud.com/uPic/kondo.png)
 
-技术交流群的群友 **@bingryan** 开发的，推荐一下，项目目的在于打造一个All in One的个人AI聊天助手：
-
-![WeChatAI](https://images-1252557999.file.myqcloud.com/uPic/WeChatAI.png) 
+可以看到上面 `Rust` 项目依赖确实大。 
 
 ## 👀 资料 
 
-### [Sam Altman的创业手册](https://jxp73q7qjsg.feishu.cn/docx/WCNZdKDa4o2eUrxK5ElcfBXEnah)
+### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
 
-`Sam Altman` 的创业手册文本，给YC系创始人们的建议里面最通用的一部分提炼出来变成一个创业手册。 
+带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+### [PDF Explained](https://github.com/zxyle/PDF-Explained)
 
-### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
+ `PDF` 无处不在，无论是在线形式还是印刷形式，但很少有人利用这些有用的功能或掌握这种格式的细微差别。 这本简明的书籍为程序员，高级用户提供了世界领先的页面描述语言(pdf)的动手实践。以及搜索，电子出版和印刷行业的专业人士， 有大量示例，本书是你完全理解PDF所需的文档。
+ 
+ ![PDF-Explained](https://images-1252557999.file.myqcloud.com/uPic/PDF-Explained.jpg) 
 
-Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
+ 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
 
 ## 🕸 网站 
 
-### [yima.me](https://yima.me/)
+### [watermarkremover](https://www.watermarkremover.io/)
 
-免费生成 `AI` 艺术二维码：
+通过AI技术去除图片水印：
 
-![yima](https://images-1252557999.file.myqcloud.com/uPic/yima.png) 
+![watermarkremover](https://images-1252557999.file.myqcloud.com/uPic/watermarkremover.jpg) 
 
-### [dute](https://www.dute.org/)
+### [svg-path-editor](https://yqnn.github.io/svg-path-editor/)
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
+在线编辑创建 `SVG`，同时开源在 [github-svg-path-editor](https://github.com/Yqnn/svg-path-editor)：
 
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
+![svg-path-editor](https://images-1252557999.file.myqcloud.com/uPic/svg-path-editor.jpg) 
 
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+### [star-history](https://star-history.com/)
 
-### [网道](https://wangdoc.com/)
+在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
 
-前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
-
-目前提供了不少教程，对于初学者是非常友好的：
-
-![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
+![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
 
 ## ✍️ 说明
 
