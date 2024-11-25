@@ -5,91 +5,94 @@
 
 ## 🎯 项目 
 
-### [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)
+### [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
 
-将 `Github Copilot Chat` 请求转换为 `ChatGPT` 请求，免费使用 `GPT-4` 模型：
+直播源相关资源汇总 📺 💯 IPTV、M3U，让你不用安装有线电视就可以高清无卡顿的看电视。
 
-![copilot-gpt4-service](https://images-1252557999.file.myqcloud.com/uPic/copilot-gpt4-service.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/oQ6iZ0.jpg) 
 
-### [manga-image-translator](https://github.com/zyddnys/manga-image-translator)
+### [plasmo](https://github.com/PlasmoHQ/plasmo)
 
-一键翻译各类图片内文字，针对群内、各个图站上大量不太可能会有人去翻译的图片设计，让我这种日语小白能够勉强看懂图片，主要支持日语，汉语、英文和韩语，支持图片修补和嵌字:
+`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
 
-![manga-image-translator](https://images-1252557999.file.myqcloud.com/uPic/manga-image-translator.jpg)
+- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
+- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
+- 热重载
+- [`.env*`  文件](https://docs.plasmo.com/framework/env)
+- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
+- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
+- 还有更多!  🚀
 
-也提供了在线访问地址 [https://cotrans.touhou.ai](https://cotrans.touhou.ai/)。 
+![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
 
-### [bitwarden](https://github.com/bitwarden)
+更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
 
-一个开源，免费，跨平台，安全易管理，，能自动填充密码可自建的密码管理解决方案：
+### [MDGJX](https://github.com/work7z/MDGJX)
 
-![bitwarden](https://images-1252557999.file.myqcloud.com/uPic/bitwarden.jpg) 
+秒达工具箱，借助独创高效的输入方式，让您可以快速呼出各类工具、文档及笔记等资源，免费安全无广告：
+
+![MDGJX](https://images-1252557999.file.myqcloud.com/uPic/MDGJX.png) 
 
 ## 🤖 软件 
 
-### [allow-right-click](https://github.com/lunu-bounir/allow-right-click)
+### [xplorer](https://github.com/kimlimjustin/xplorer)
 
-开源插件，解锁被网站禁用的右键功能，支持多种浏览器：
+支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
 
-![allow-right-click](https://images-1252557999.file.myqcloud.com/uPic/cyZqzu.png)
+- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
+- 现代化且易用
+- 多种格式文件预览，音频也可以
+- ...
 
-对于这种功能的插件，一定要用开源的，太多插件先免费提供功能，然后偷偷摸摸做些个人信息售卖或者返佣等事情进行盈利。 
+![xplorer](https://images-1252557999.file.myqcloud.com/uPic/iLpUeJ.jpg)
 
-### [Hacki](https://github.com/Livinglist/Hacki)
+在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
 
-基于 `Flutter` 的  `Hacker News` 客户端:
+### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
 
-![Hacki](https://images-1252557999.file.myqcloud.com/uPic/Hacki.jpg) 
+B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
 
-### [ruzz](https://github.com/vlts1/ruzz)
+![](https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg) 
 
-`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
+### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
+监控你的应用流量，跨平台：
+
+![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
 
 ## 👀 资料 
 
-### [how-web-works](https://github.com/vasanthk/how-web-works)
+### [提示词 0-1入门](https://j1ohuigiiff.feishu.cn/wiki/RTVbwi6d9ivhyBka2rRcrNNgnye)
 
-当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
+提示词（Prompt）编写速成指南，教大家如何无痛写出一个贴合需求、达到商用级的 `Prompt` 。 
 
-### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
 
-吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
+非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
 
-- 学习应用开发所需的 prompt engineering 最佳实践
-- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
-- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
+### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
 
-![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
-
-### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
-
-从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
-
-![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
+一份从头开始建立 `CDN` 知识体系的教程。 
 
 ## 🕸 网站 
 
-### [nona](https://www.nona.de/)
+### [v0.dev](https://v0.dev/)
 
-德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
+描述生成 UI，一个 AI 大模型驱动的 UI 设计网站，很不错：
 
-![nona](https://images-1252557999.file.myqcloud.com/uPic/1nN2lu.png) 
+![v0_dev](https://images-1252557999.file.myqcloud.com/uPic/v0_dev.jpg) 
 
-### [darebee](https://darebee.com/)
+### [aicolors](https://aicolors.co/)
 
-一个教你正确运动姿势的网站：
+通过提示词，基于 AI 生成配色方案：
 
-![darebee](https://images-1252557999.file.myqcloud.com/uPic/eIHdyQ.png) 
+![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
 
-### [squoosh](https://squoosh.app/)
+### [lexica.art](https://lexica.art/)
 
-免费漂亮的在线图片压缩网站：
+可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
 
-![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
-
-其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
+![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
 
 ## ✍️ 说明
 
