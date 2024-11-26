@@ -5,93 +5,103 @@
 
 ## 🎯 项目 
 
-### [wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter)
+### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 
-在线批量导出微信公众号文章，支持阅读量、评论数据的导出，支持内嵌的音视频导出，无需搭建任何环境，可100%还原文章样式，支持私有部署。 
+一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
 
-### [aigotools](https://github.com/someu/aigotools)
+![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
 
-AigoTools 可以帮助用户快速创建和管理导航站点，内置站点管理和自动收录功能，同时提供国际化、SEO、多种图片存储方案。让用户可以快速部署上线自己的导航站。
+### [greppo](https://github.com/greppo-io/greppo)
 
-- 站点管理
-- 站点信息自动采集（playwright、jina、openai）
-- 用户管理（clerk）
-- 国际化
-- 暗色/亮色主题切换
-- SEO 优化
-- 多种图片存储方案（本地minio、aws s3、腾讯云cos）
+快速轻松地构建部署地理空间应用程序：
 
-![aigotools](https://images-1252557999.file.myqcloud.com/uPic/aigotools.jpg) 
+![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
 
-### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
+### [CoverView](https://github.com/rutikwankhade/CoverView)
 
-抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
+一个开源的快速制作文章封面图的工具。
 
-![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
+![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
 
 ## 🤖 软件 
 
-### [onepoint](https://github.com/onepointAI/onepoint)
+### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
 
-Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
+FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
 
-借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
+- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
+- 基于文本的歌单，方便与朋友分享、设备之间同步
+- 提供基于 TCP 的交互控制协议
+- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
+- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
 
-![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
+![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
 
-### [NanaZip](https://github.com/M2Team/NanaZip)
+### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
 
-`NanaZip` 是一个面向现代 `Windows` 体验的开源文件压缩工具，基于知名的开源文件压缩工具 `7-Zip` 的源代码：
+使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
 
-![NanaZip](https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg) 
+- 支持下载无水印视频
+- 支持下载某个账号号的所有视频
 
-### [pilipala](https://github.com/guozhigq/pilipala)
+![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
 
-使用 `Flutter` 开发的 `BiliBili` 第三方客户端，专为提高用户在观看BiliBili视频时的体验而设计：
+### [BetterDummy](https://github.com/waydabber/BetterDummy)
 
-![pilipala](https://images-1252557999.file.myqcloud.com/uPic/pilipala.jpg) 
+`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
+
+![bd_menu](https://images-1252557999.file.myqcloud.com/uPic/bd_menu.png)
+
+如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
 
 ## 👀 资料 
 
-### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
+### [Web Development History](https://webdevelopmenthistory.com/index/)
 
-健康学习到150岁 - 人体系统调优不完全指南：
+`Web` 开发发展史文章系列：
 
-![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
+![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
 
-### [unplugged](https://github.com/liuxinyu95/unplugged)
+### [凤凰架构](https://github.com/fenixsoft/awesome-fenix)
 
-刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
+这是一部以“**如何构建一套可靠的分布式大型软件系统**”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《[什么是凤凰架构](https://icyfenix.cn/introduction/about-the-fenix-project.html)》详细阐述了这部文档的主旨、目标与名字的来由，文章《[如何开始](https://icyfenix.cn/exploration/guide/quick-start.html)》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
 
-![unplugged](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-10-23_21-49-37.jpg)
+![icyfenix](https://images-1252557999.file.myqcloud.com/uPic/icyfenix.jpg) 
 
-如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
+### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
 
-### [tuning_playbook_zh_cn](https://github.com/schrodingercatss/tuning_playbook_zh_cn)
+本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
 
-深度学习调优指南中文版，一本系统地教你将深度学习模型的性能最大化的战术手册：
+![](https://images-1252557999.file.myqcloud.com/uPic/SBotTN.jpg)
 
-![tuning_playbook_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/tuning_playbook_zh_cn.jpg) 
+其他同类教程地址：
+
+- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
+- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
 
 ## 🕸 网站 
 
-### [zeli.app](https://zeli.app/zh)
+### [webutils](https://www.webutils.app/)
 
-用中文读科技新闻，旨在帮你快速挑选感兴趣的文章来读：
+一个提供web小工具的网站，比如：
 
-![zeli](https://images-1252557999.file.myqcloud.com/uPic/dvVEf9.png) 
+- 文本比较
+- 图片压缩
+- 图片转换
 
-### [smartexcel](https://www.smartexcel.cc/)
+![webutils](https://images-1252557999.file.myqcloud.com/uPic/ijDiPA.png) 
 
-使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
+### [cryptologos](https://cryptologos.cc/)
 
-![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
+一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
 
-### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
+![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
 
-中国少年儿童新闻出版总社免费开放的少儿绘本网站：
+### [alternativeto](https://alternativeto.net/)
 
-![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
+让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
+
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
 ## ✍️ 说明
 
