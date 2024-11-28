@@ -5,109 +5,99 @@
 
 ## 🎯 项目 
 
-### [rembg](https://github.com/danielgatis/rembg)
+### [Linux-CN-archive](https://github.com/Linux-CN/archive/releases/tag/release)
 
-之前有介绍过一个去除图片背景的网站-[remove.bg](https://www.remove.bg/zh)，这网站虽然免费，但是高清版本的图片下载需要收费，现在这个开源的图片背景去除项目将完全解决这个问题：
+`Linux` 中国所有原创文章的 `Markdown` 内容备份:
 
-![rembg](https://images-1252557999.file.myqcloud.com/uPic/rembg.jpg)
+![linux_cn_archive](https://images-1252557999.file.myqcloud.com/uPic/linux_cn_archive.jpg) 
 
-你可以作为第三方库使用，也在终端以及启用服务化来使用。 
+### [mind-map](https://github.com/wanglin2/mind-map)
 
-### [LLM-Red-Team](https://github.com/LLM-Red-Team)
+在线版思维导图应用：
 
-`LLM Red Team` 意为 `LLM` 大模型红队，对各大模型进行逆向然后提供 API 接口，方便开发者调用测试：
+![mind-map](https://images-1252557999.file.myqcloud.com/uPic/mind-map.jpg) 
 
-![LLM-Red-Team](https://images-1252557999.file.myqcloud.com/uPic/LLM-Red-Team.jpg) 
+### [musicn](https://github.com/zonemeen/musicn)
 
-### [mometa](https://github.com/imcuttle/mometa)
+🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
 
-面向研发的低代码元编程，代码可视编辑，辅助编码工具，
-
-mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。
-
-**它用于解决的问题有：**
-
-- 对低代码平台不形成依赖，二次开发可以无缝进入代码开发模式
-- 同时支持所见即所得的可视编辑，用于提效，提升开发体验
-- 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
-
-![mometa](https://images-1252557999.file.myqcloud.com/uPic/snapshot.png) 
+![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
 
 ## 🤖 软件 
 
-### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 
-适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
+跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
 
-- **免费**：本项目所有代码开源，完全免费。
-- **方便**：解压即用，无需安装。不需要网络。
-- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
-- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
+- 🍕 全平台支持. Windows, Mac, Linux
+- 🍥 支持 IPTV, 卫视直播
+- 🍔 视频源支持自定义, 支持导入, 导出
+- 🍟 支持海报模式和列表模式浏览资源
+- 🌭 播放历史, 自动跳转历史进度
+- 🍿 收藏夹支持导入,导出, 支持同步追剧
+- 🥙 支持精简模式, 摸鱼划水
+- 🥪 一键搜索所有资源, 支持历史搜索记录
+- 🌮 导出资源下载链接
+- 🍣 支持第三方播放器播放
+- 🍤 显示豆瓣评分
 
-![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
+![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
 
-### [pear-rec](https://github.com/027xiguapi/pear-rec)
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
 
-`pear-rec`(梨子 rec) 是一个跨平台的截图、录屏、录音、录像软件：
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
-![pear-rec](https://images-1252557999.file.myqcloud.com/uPic/pear-rec.jpg) 
+### [bloop](https://github.com/BloopAI/bloop)
 
-### [cicada](https://github.com/mebtte/cicada)
+`bloop` 是一个用 Rust 编写的快速代码搜索引擎，内部集成 `LLM` 大模型，可以快速让你导入一个代码仓库以自然语言形式进行问答，想快速上手一个项目或者文档不怎么够的项目，力荐👀：
 
-知了, 支持多用户的开源音乐服务：
-
-- **尊重隐私, 不进行任何数据收集**
-- 支持多用户
-- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
-- 系统媒体和快捷键支持
-- 音乐支持标准音质/超高音质/伴奏以及多份歌词
-- 乐单/播放列表/播放队列音乐数量无限制
-- 支持标注音乐创作来源(翻唱)
-- 支持歌词/歌名/歌手/乐单搜索
-
-![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
+![bloop](https://images-1252557999.file.myqcloud.com/uPic/bloop.jpg) 
 
 ## 👀 资料 
 
-### [TLCL](https://billie66.github.io/TLCL/book/)
+### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
 
-`The Linux Command Line` 中文翻译：
+开源书籍，`Prometheus`  操作指南：
 
-![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
+![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
 
-### [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book)
+### [reversing](https://0xinfection.github.io/reversing/)
 
-`PeiQi` 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，`CTF` 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见。
+免费电子书，面向所有人的逆向工程：
 
-![PeiQi-WIKI-Book](https://images-1252557999.file.myqcloud.com/uPic/PeiQi-WIKI-Book.png) 
+![reversing](https://images-1252557999.file.myqcloud.com/uPic/reversing.jpg) 
 
-### [PDF Explained](https://github.com/zxyle/PDF-Explained)
+### [easy_rust](https://github.com/Dhghomon/easy_rust)
 
- `PDF` 无处不在，无论是在线形式还是印刷形式，但很少有人利用这些有用的功能或掌握这种格式的细微差别。 这本简明的书籍为程序员，高级用户提供了世界领先的页面描述语言(pdf)的动手实践。以及搜索，电子出版和印刷行业的专业人士， 有大量示例，本书是你完全理解PDF所需的文档。
- 
- ![PDF-Explained](https://images-1252557999.file.myqcloud.com/uPic/PDF-Explained.jpg) 
+现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
+
+你可以用以下方式浏览：
+
+- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
+- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
+- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
+
+![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
 
 ## 🕸 网站 
 
-### [handsome-css](https://www.handsome-css.com/)
+### [whatslink](https://whatslink.info/)
 
-网站主旨在于收集网上仅靠 `CSS` 与 `HTML` 就可以实现的动效 `UI`，目的是为了提高开发者的审美和技术：
+简单的 `DDL/Torrent/Ed2k`下载链接元数据查询服务，可以在下载之前帮助你预览目标链接内容：
 
-![handsome-css3](https://images-1252557999.file.myqcloud.com/uPic/handsome-css3.jpg)
+![whatslink](https://images-1252557999.file.myqcloud.com/uPic/whatslink.jpg) 
 
-项目开源在：[handsome-css3-lib](https://github.com/ZiYi0414/handsome-css3-lib)。 
+### [LLM Visualization](https://bbycroft.net/llm)
 
-### [screenshot](https://screenshot.rocks/)
+将 GPT LLM 大模型进行可视化分析：
 
-快速创建精美的移动和浏览器屏幕截图：
+![bbycroft](https://images-1252557999.file.myqcloud.com/uPic/bbycroft.jpg) 
 
-![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
+### [quickref](https://quickref.me/)
 
-### [neeva](https://neeva.com/search)
+开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
 
-前谷歌工程师构建的免费无广告的搜索引擎，搜索效果挺好：
-
-![neeva](https://images-1252557999.file.myqcloud.com/uPic/neeva.jpg) 
+![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
 
 ## ✍️ 说明
 
