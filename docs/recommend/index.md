@@ -5,99 +5,111 @@
 
 ## 🎯 项目 
 
-### [Linux-CN-archive](https://github.com/Linux-CN/archive/releases/tag/release)
+### [webvm](https://github.com/leaningtech/webvm)
 
-`Linux` 中国所有原创文章的 `Markdown` 内容备份:
+基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：[webvm.io](https://webvm.io/)。
 
-![linux_cn_archive](https://images-1252557999.file.myqcloud.com/uPic/linux_cn_archive.jpg) 
+![webvm](https://images-1252557999.file.myqcloud.com/uPic/1yRQBe.png)
 
-### [mind-map](https://github.com/wanglin2/mind-map)
+详细的介绍文章见：[WebVM: server-less x86 virtual machines in the browser](https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361)。 
 
-在线版思维导图应用：
+### [duf](https://github.com/sigoden/duf)
 
-![mind-map](https://images-1252557999.file.myqcloud.com/uPic/mind-map.jpg) 
+一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
 
-### [musicn](https://github.com/zonemeen/musicn)
+- 静态文件伺服
+- 下载目录为 zip 文件
+- 上传文件 /目录 (支持拖拽)
+- 搜索
+- 并发下载，断续下载
+- 权限保护
+- 支持 https
+- 支持 webdav
+- 方便 curl 调用 
 
-🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
+### [gitstars](https://github.com/cfour-hi/gitstars)
 
-![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
+`Github` 作为开发者的第一社交平台，拥有数不胜数的优秀开源项目，给工作和学习带来巨大方便，遇到自己需要或是喜爱的项目只需点击 Star 便可收入囊中。
+
+`Star is easy`，可随着 `Starred Repositories` 增长，在需要使用到某个项目时难免记不清叫什么，而 Github 又只提供简单的搜索，找到目标 `Starred Repository` 竟也成了件小小的麻烦事。
+
+所以拥有自己的 `Github Stars Repositories Manager` 也算是开发者的必备需求。`Gitstars` 由此诞生 💡
+
+![gitstars](https://images-1252557999.file.myqcloud.com/uPic/gitstars.png) 
 
 ## 🤖 软件 
 
-### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
+### [biyi](https://github.com/lijy91/biyi)
 
-跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
+比译是一个用 `Flutter` 编写的跨平台便捷翻译和词典应用：
 
-- 🍕 全平台支持. Windows, Mac, Linux
-- 🍥 支持 IPTV, 卫视直播
-- 🍔 视频源支持自定义, 支持导入, 导出
-- 🍟 支持海报模式和列表模式浏览资源
-- 🌭 播放历史, 自动跳转历史进度
-- 🍿 收藏夹支持导入,导出, 支持同步追剧
-- 🥙 支持精简模式, 摸鱼划水
-- 🥪 一键搜索所有资源, 支持历史搜索记录
-- 🌮 导出资源下载链接
-- 🍣 支持第三方播放器播放
-- 🍤 显示豆瓣评分
+![biyi](https://images-1252557999.file.myqcloud.com/uPic/biyi.jpg) 
 
-![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
+### [MiaoYan](https://github.com/tw93/MiaoYan)
 
-### [Wechatsync](https://github.com/wechatsync/Wechatsync)
+轻灵的 Markdown 笔记本伴你写出妙言：
 
-一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
+- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
+- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
+- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
+- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
 
-### [bloop](https://github.com/BloopAI/bloop)
+![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
 
-`bloop` 是一个用 Rust 编写的快速代码搜索引擎，内部集成 `LLM` 大模型，可以快速让你导入一个代码仓库以自然语言形式进行问答，想快速上手一个项目或者文档不怎么够的项目，力荐👀：
+### [TTime](https://github.com/inkTimeRecord/TTime)
 
-![bloop](https://images-1252557999.file.myqcloud.com/uPic/bloop.jpg) 
+🚀 一款简洁高效的跨平台输入、截图、划词翻译软件：
+
+![TTime](https://images-1252557999.file.myqcloud.com/uPic/TTime.jpg)
+
+[Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#bob) 算是这类软件的鼻祖，之前我也推荐过 [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=pot#pot-desktop) ，大家酌情选择即可。 
 
 ## 👀 资料 
 
-### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
+### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
 
-开源书籍，`Prometheus`  操作指南：
+开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
 
-![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
+![fullstackopen](https://images-1252557999.file.myqcloud.com/uPic/p1g8z3.png) 
 
-### [reversing](https://0xinfection.github.io/reversing/)
+### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 
-免费电子书，面向所有人的逆向工程：
+本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
 
-![reversing](https://images-1252557999.file.myqcloud.com/uPic/reversing.jpg) 
+基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
+配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
+测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
 
-### [easy_rust](https://github.com/Dhghomon/easy_rust)
+![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
 
-现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
+### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
 
-你可以用以下方式浏览：
+《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
 
-- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
-- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
-- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
-
-![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
+![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
 
 ## 🕸 网站 
 
-### [whatslink](https://whatslink.info/)
+### [短剧搜索引擎](https://www.fre123.com/sp?ref=weekly)
 
-简单的 `DDL/Torrent/Ed2k`下载链接元数据查询服务，可以在下载之前帮助你预览目标链接内容：
+比较全面的短剧搜索引擎，数据在夸克网盘，转存即可免费观看全部：
 
-![whatslink](https://images-1252557999.file.myqcloud.com/uPic/whatslink.jpg) 
+![sp](https://images-1252557999.file.myqcloud.com/uPic/sp.jpg) 
 
-### [LLM Visualization](https://bbycroft.net/llm)
+### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
 
-将 GPT LLM 大模型进行可视化分析：
+作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
 
-![bbycroft](https://images-1252557999.file.myqcloud.com/uPic/bbycroft.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/bdd-3d.png)
 
-### [quickref](https://quickref.me/)
 
-开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
+感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
 
-![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
+### [央视纪实](https://jishi.cctv.com/)
+
+央视官方纪录片大全，全部免费观看：
+
+![657d173347944](https://img.fre123.com/i/2023/12/16/657d173347944.png) 
 
 ## ✍️ 说明
 
