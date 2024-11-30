@@ -5,111 +5,98 @@
 
 ## 🎯 项目 
 
-### [webvm](https://github.com/leaningtech/webvm)
+### [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)
 
-基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：[webvm.io](https://webvm.io/)。
+将 `Github Copilot Chat` 请求转换为 `ChatGPT` 请求，免费使用 `GPT-4` 模型：
 
-![webvm](https://images-1252557999.file.myqcloud.com/uPic/1yRQBe.png)
+![copilot-gpt4-service](https://images-1252557999.file.myqcloud.com/uPic/copilot-gpt4-service.png) 
 
-详细的介绍文章见：[WebVM: server-less x86 virtual machines in the browser](https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361)。 
+### [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
 
-### [duf](https://github.com/sigoden/duf)
+强大的少样本语音转换与语音合成Web用户界面，低成本 AI 语音克隆项目，感兴趣可以查看介绍[视频](https://www.bilibili.com/video/BV12g4y1m7Uw/) 。
 
-一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
+![GPT-SoVITS](https://images-1252557999.file.myqcloud.com/uPic/GPT-SoVITS.jpg) 
 
-- 静态文件伺服
-- 下载目录为 zip 文件
-- 上传文件 /目录 (支持拖拽)
-- 搜索
-- 并发下载，断续下载
-- 权限保护
-- 支持 https
-- 支持 webdav
-- 方便 curl 调用 
+### [dbsyncer](https://github.com/86dbs/dbsyncer)
 
-### [gitstars](https://github.com/cfour-hi/gitstars)
+`DBSyncer`（简称dbs）是一款开源的数据同步中间件，提供`MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL`等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
 
-`Github` 作为开发者的第一社交平台，拥有数不胜数的优秀开源项目，给工作和学习带来巨大方便，遇到自己需要或是喜爱的项目只需点击 Star 便可收入囊中。
+- 组合驱动，自定义库同步到库组合，关系型数据库与非关系型之间组合，任意搭配表同步映射关系
+- 实时监控，驱动全量或增量实时同步运行状态、结果、同步日志和系统日志
+- 开发插件，自定义转化同步逻辑
 
-`Star is easy`，可随着 `Starred Repositories` 增长，在需要使用到某个项目时难免记不清叫什么，而 Github 又只提供简单的搜索，找到目标 `Starred Repository` 竟也成了件小小的麻烦事。
-
-所以拥有自己的 `Github Stars Repositories Manager` 也算是开发者的必备需求。`Gitstars` 由此诞生 💡
-
-![gitstars](https://images-1252557999.file.myqcloud.com/uPic/gitstars.png) 
+![dbsyncer](https://images-1252557999.file.myqcloud.com/uPic/dbsyncer.webp) 
 
 ## 🤖 软件 
 
-### [biyi](https://github.com/lijy91/biyi)
+### [Rayon](https://github.com/Lakr233/Rayon)
 
-比译是一个用 `Flutter` 编写的跨平台便捷翻译和词典应用：
+一个`macOS`的上的`SSH`客户端：
 
-![biyi](https://images-1252557999.file.myqcloud.com/uPic/biyi.jpg) 
+![rayon](https://images-1252557999.file.myqcloud.com/uPic/rayon.png)
 
-### [MiaoYan](https://github.com/tw93/MiaoYan)
+软件特性：
 
-轻灵的 Markdown 笔记本伴你写出妙言：
+- 免费&开源
+- 支持 libssh2 的主机连接
+- Linux proc 文件系统状态信息
+- 使用密码、密钥等进行身份验证...
+- xterm 终端支持
+- 批处理执行代码片段 
 
-- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
-- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
-- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
-- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
+### [orbstack](https://github.com/orbstack)
 
-![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
+来自朋友的推荐，`macOS` 上的 `Docker Desktop` 很卡很臃肿大家应该认可吧，我之前都是用 `Podman`，也算不错。这次又发现了这款在 `macOS` 上运行的 `Docker` 容器和 `Linux` 虚拟机 ，大家可以试试：
 
-### [TTime](https://github.com/inkTimeRecord/TTime)
+![orbstack](https://images-1252557999.file.myqcloud.com/uPic/orbstack.jpg) 
 
-🚀 一款简洁高效的跨平台输入、截图、划词翻译软件：
+### [Applite](https://github.com/milanvarady/Applite "Applite")
 
-![TTime](https://images-1252557999.file.myqcloud.com/uPic/TTime.jpg)
+`Applite` 为 `Homebrew Cask` 提供了一个图形化界面，实现一键安装、更新和卸载应用：
 
-[Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#bob) 算是这类软件的鼻祖，之前我也推荐过 [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=pot#pot-desktop) ，大家酌情选择即可。 
+![Applite](https://images-1252557999.file.myqcloud.com/uPic/Applite.png) 
 
 ## 👀 资料 
 
-### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
+### [云安全攻防入门](https://lzcloudsecurity.gitbook.io/yun-an-quan-gong-fang-ru-men/)
 
-开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
+关于云安全攻防的基础知识：
 
-![fullstackopen](https://images-1252557999.file.myqcloud.com/uPic/p1g8z3.png) 
+![yun-an-quan-gong-fang-ru-men](https://images-1252557999.file.myqcloud.com/uPic/yun-an-quan-gong-fang-ru-men.jpg) 
 
-### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
+### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 
-本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
+一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
 
-基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
-配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
-测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
+![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
 
-![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
+### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
 
-### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
+针对新人的 `CSS` 入门级教程：
 
-《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
+![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
 
-![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
+在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
 
 ## 🕸 网站 
 
-### [短剧搜索引擎](https://www.fre123.com/sp?ref=weekly)
+### [watermarkremover](https://www.watermarkremover.io/)
 
-比较全面的短剧搜索引擎，数据在夸克网盘，转存即可免费观看全部：
+通过AI技术去除图片水印：
 
-![sp](https://images-1252557999.file.myqcloud.com/uPic/sp.jpg) 
+![watermarkremover](https://images-1252557999.file.myqcloud.com/uPic/watermarkremover.jpg) 
 
-### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
+### [firefly](https://firefly.adobe.com/)
 
-作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
+`Adobe` 推出了的 `AI` 图像创建器 **Firefly**：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/bdd-3d.png)
+![firefly](https://images-1252557999.file.myqcloud.com/uPic/firefly.jpg) 
 
+### [quickref](https://quickref.me/)
 
-感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
+开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
 
-### [央视纪实](https://jishi.cctv.com/)
-
-央视官方纪录片大全，全部免费观看：
-
-![657d173347944](https://img.fre123.com/i/2023/12/16/657d173347944.png) 
+![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
 
 ## ✍️ 说明
 
