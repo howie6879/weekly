@@ -5,100 +5,88 @@
 
 ## 🎯 项目 
 
-### [chatnio](https://github.com/Deeptrain-Community/chatnio)
+### [OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
 
-🚀 下一代 AI 一站式解决方案，一站式 Chat + 中转 API 站点，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
+这个项目是 `OOTDiffusion` 的官方实现，快速基于你上传的模特和图片生成产品效果图，AI 模特不是梦，点击 [ootd](https://ootd.ibot.cn/) 体验：
 
-![chatnio](https://images-1252557999.file.myqcloud.com/uPic/chatnio.png) 
+![ootd](https://images-1252557999.file.myqcloud.com/uPic/ootd.jpg) 
 
-### [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
+### [upptime](https://github.com/upptime/upptime)
 
-🎨 一键拥有你自己的 `ChatGPT+Midjourney` 网页服务：
+由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
 
--  原ChatGPT-Next-Web所有功能
--  midjourney imagin 想象
--  midjourney upscale 放大
--  midjourney variation 变幻
--  midjourney describe 识图
--  midjourney blend 混图
--  midjourney 垫图
--  绘图进度百分比、实时图像显示
+![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
 
-![ChatGPT-Midjourney](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Midjourney.png) 
+### [bililive-go](https://github.com/hr3lxphr6j/bililive-go)
 
-### [flet](https://github.com/flet-dev/flet)
+`Bililive-go` 是一个支持多种直播平台的直播录制工具：
 
-用 `Python` 开发跨平台 `Flutter` 应用：
-
-![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
+![bililive-go](https://images-1252557999.file.myqcloud.com/uPic/bililive-go.webp) 
 
 ## 🤖 软件 
 
-### [onepoint](https://github.com/onepointAI/onepoint)
+### [Bluesnooze](https://github.com/odlp/bluesnooze)
 
-Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
+使用 `Bluesnooze`，蓝牙连接会在 `Mac` 睡眠时关闭，并在 `Mac` 唤醒时打开:
 
-借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
+![bluesnooze](https://images-1252557999.file.myqcloud.com/uPic/bluesnooze.png) 
 
-![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
+### [Maccy](https://github.com/p0deje/Maccy)
 
-### [Alexandria](https://github.com/btpf/Alexandria)
+轻量级macOS剪切板管理应用：
 
-一个极简的跨平台电子书阅读器，使用 `Tauri` ❤️ `Epub.js` 构建：
+![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
+使用截图如下：
 
-![Alexandria](https://images-1252557999.file.myqcloud.com/uPic/Alexandria.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
 
-### [Loop](https://github.com/MrKai77/Loop)
+### [datastation](https://github.com/multiprocessio/datastation)
 
-让窗口管理 `MacOS` 变得优雅：
+`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
 
-![Loop](https://images-1252557999.file.myqcloud.com/uPic/Loop.gif)
-
-安装好如果有权限问题，执行如下命令：
-
-```shell
-sudo xattr -cr  /Applications/Loop.app
-``` 
+![datastation](https://images-1252557999.file.myqcloud.com/uPic/datastation.jpg) 
 
 ## 👀 资料 
 
-### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+### [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)
 
-一个在YouTube上发现最新机器学习课程的项目。 
+`DotNetGuide` 技术社区是一个面向 `.NET` 开发者的开源技术社区，旨在为开发者们提供全面的 `C#/.NET/.NET Core` 相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台，可以在线[阅读](https://www.yuque.com/ysgstudyhard/da6e0c)：
 
-### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
+![DotNetGuide](https://images-1252557999.file.myqcloud.com/uPic/DotNetGuide.jpg) 
 
-一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
+### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
 
-![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
+针对新人的 `CSS` 入门级教程：
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
+在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
 
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
+### [Ahrefs Blog SEO 文章列表](https://xuxuyu.notion.site/1468d1c9ea65473b934917d8ab25979b?v=dcaec075d4b34a8e8af5be0bc9a259a0)
 
-![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
+对 `SEO` 有兴趣可以看看：
+
+![Ahrefs](https://images-1252557999.file.myqcloud.com/uPic/Ahrefs.jpg) 
 
 ## 🕸 网站 
 
-### [logo.surf](https://www.logo.surf/#generate-favicon)
+### [http.cat](https://http.cat)
 
-快速创建图标：
+如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
 
-![logo_surf](https://images-1252557999.file.myqcloud.com/uPic/logo_surf.jpg) 
+![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
 
-### [regexlearn](https://regexlearn.com)
+### [flowgpt](https://flowgpt.com/)
 
-一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
+一个分享ChatGPT提示的网站：
 
-![regexlearn](https://images-1252557999.file.myqcloud.com/uPic/yUZ5N4.png) 
+![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
 
-### [quark.so](https://www.quark.so/)
+### [devpedia.pages.dev](https://devpedia.pages.dev/)
 
-这是一个资源全面，界面简洁无广告的夸克网盘搜索引擎：
+`Dev Encyclopedia` 是一个为开发者提供广泛技术术语、概念和工具解释的在线百科全书：
 
-![quarkso](https://images-1252557999.file.myqcloud.com/uPic/quarkso.jpg) 
+![devpedia](https://images-1252557999.file.myqcloud.com/uPic/L7S0qZ.png) 
 
 ## ✍️ 说明
 
