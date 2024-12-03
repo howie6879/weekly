@@ -5,88 +5,91 @@
 
 ## 🎯 项目 
 
-### [OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
+### [Doocs-md](https://gitee.com/Doocs/md)
 
-这个项目是 `OOTDiffusion` 的官方实现，快速基于你上传的模特和图片生成产品效果图，AI 模特不是梦，点击 [ootd](https://ootd.ibot.cn/) 体验：
+✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性:
 
-![ootd](https://images-1252557999.file.myqcloud.com/uPic/ootd.jpg) 
+![doocs_md](https://images-1252557999.file.myqcloud.com/uPic/doocs_md.jpg) 
 
-### [upptime](https://github.com/upptime/upptime)
+### [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
 
-由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
+`HackBrowserData` 是一个浏览器数据（密码|历史记录|Cookie|书签|信用卡|下载记录|localStorage|浏览器插件）的导出工具，支持全平台主流浏览器：
 
-![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
+![webhbd](https://images-1252557999.file.myqcloud.com/uPic/webhbd.png) 
 
-### [bililive-go](https://github.com/hr3lxphr6j/bililive-go)
+### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
-`Bililive-go` 是一个支持多种直播平台的直播录制工具：
+Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
 
-![bililive-go](https://images-1252557999.file.myqcloud.com/uPic/bililive-go.webp) 
+你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
+
+- 🌐 利用互联网进行搜索和信息收集
+- 💾 长期和短期记忆管理
+- 🧠 GPT-4实例用于文本生成
+- 🔗 访问流行的网站和平台
+- 🗃️ 使用GPT-3.5进行文件存储和摘要
+
+![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
 
 ## 🤖 软件 
 
-### [Bluesnooze](https://github.com/odlp/bluesnooze)
+### [tunnelblick](https://tunnelblick.net/)
 
-使用 `Bluesnooze`，蓝牙连接会在 `Mac` 睡眠时关闭，并在 `Mac` 唤醒时打开:
+免费开源的`openvpn`客户端：
 
-![bluesnooze](https://images-1252557999.file.myqcloud.com/uPic/bluesnooze.png) 
+![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
 
-### [Maccy](https://github.com/p0deje/Maccy)
+### [OFGB](https://github.com/xM4ddy/OFGB)
 
-轻量级macOS剪切板管理应用：
+`GUI` 工具删除 `Windows 11` 不同位置的广告：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
-使用截图如下：
+![OFGB](https://images-1252557999.file.myqcloud.com/uPic/OFGB.jpg) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
+### [lapce](https://github.com/lapce/lapce)
 
-### [datastation](https://github.com/multiprocessio/datastation)
+基于`Rust`的强大、轻量快速的代码编辑器：
 
-`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
-
-![datastation](https://images-1252557999.file.myqcloud.com/uPic/datastation.jpg) 
+![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
 
 ## 👀 资料 
 
-### [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)
+### [动手实战人工智能](https://aibydoing.com/intro "动手实战人工智能")
 
-`DotNetGuide` 技术社区是一个面向 `.NET` 开发者的开源技术社区，旨在为开发者们提供全面的 `C#/.NET/.NET Core` 相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台，可以在线[阅读](https://www.yuque.com/ysgstudyhard/da6e0c)：
+动手实战人工智能系列教程，希望从监督学习开始，带你入门机器学习和深度学习。
 
-![DotNetGuide](https://images-1252557999.file.myqcloud.com/uPic/DotNetGuide.jpg) 
+作者深入剖析和推导了每一个基础算法的原理，并将其数学过程清晰地呈现出来。同时，作者基于 Python 代码对公式进行了逐一对应的实现，让公式和代码紧密相连，帮助你深入理解算法的运作机制。
 
-### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
+![aibydoing](https://images-1252557999.file.myqcloud.com/uPic/aibydoing.jpg) 
 
-针对新人的 `CSS` 入门级教程：
+### [leetcode](https://github.com/doocs/leetcode)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
+本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
 
-在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
+### [visualize-ml](https://github.com/visualize-ml)
 
-### [Ahrefs Blog SEO 文章列表](https://xuxuyu.notion.site/1468d1c9ea65473b934917d8ab25979b?v=dcaec075d4b34a8e8af5be0bc9a259a0)
+鸢尾花书：从加减乘除到机器学习，全套7册。
 
-对 `SEO` 有兴趣可以看看：
-
-![Ahrefs](https://images-1252557999.file.myqcloud.com/uPic/Ahrefs.jpg) 
+![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
 
 ## 🕸 网站 
 
-### [http.cat](https://http.cat)
+### [itnext](https://itnext.cn/)
 
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
+一个介绍元宇宙的网站：
 
-![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
+![itnext](https://images-1252557999.file.myqcloud.com/uPic/yc7Zhp.png) 
 
-### [flowgpt](https://flowgpt.com/)
+### [quickref](https://quickref.me/)
 
-一个分享ChatGPT提示的网站：
+开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
 
-![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
+![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
 
-### [devpedia.pages.dev](https://devpedia.pages.dev/)
+### [star-history](https://star-history.com/)
 
-`Dev Encyclopedia` 是一个为开发者提供广泛技术术语、概念和工具解释的在线百科全书：
+在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
 
-![devpedia](https://images-1252557999.file.myqcloud.com/uPic/L7S0qZ.png) 
+![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
 
 ## ✍️ 说明
 
