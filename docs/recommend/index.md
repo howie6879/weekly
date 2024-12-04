@@ -5,91 +5,99 @@
 
 ## 🎯 项目 
 
-### [Doocs-md](https://gitee.com/Doocs/md)
+### [omnivore](https://github.com/omnivore-app/omnivore)
 
-✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性:
+无干扰、注重隐私、免费开源专为知识工作者和终身学习者而设计的稍后阅读工具：
 
-![doocs_md](https://images-1252557999.file.myqcloud.com/uPic/doocs_md.jpg) 
+![omnivore](https://images-1252557999.file.myqcloud.com/uPic/omnivore.png) 
 
-### [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
+### [LightBook](https://github.com/underthestars-zhy/LightBook)
 
-`HackBrowserData` 是一个浏览器数据（密码|历史记录|Cookie|书签|信用卡|下载记录|localStorage|浏览器插件）的导出工具，支持全平台主流浏览器：
+开源的小说下载脚本项目，输出格式为 `EPUB`：
 
-![webhbd](https://images-1252557999.file.myqcloud.com/uPic/webhbd.png) 
+![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
 
-### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+### [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion)
 
-Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
+在 `MacOS` 上运行原生的 `Stable Diffusion`，本应用内置 `Apple` 的 `Core ML Stable Diffusion` 框架 以实现在搭载 `Apple` 芯片的 `Mac` 上用极低的内存占用发挥出最优性能：
 
-你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
+- 极致性能和极低内存占用 (使用神经网络引擎时 ~150MB)
+- 在所有搭载 Apple 芯片的 Mac 上充分发挥神经网络引擎的优势
+- 生成图像时无需联网
+- 图像转图像（也被称为 Image2Image）
+- 在图像的 EXIF 信息中存储所有的关键词（在访达的“显示简介”窗口中查看）
+- 使用 RealESRGAN 放大生成的图像
+- 自动保存 & 恢复图像
+- 自定义 Stable Diffusion Core ML 模型
+- 无需担心损坏的模型
+- 使用 macOS 原生框架 SwiftUI 开发
 
-- 🌐 利用互联网进行搜索和信息收集
-- 💾 长期和短期记忆管理
-- 🧠 GPT-4实例用于文本生成
-- 🔗 访问流行的网站和平台
-- 🗃️ 使用GPT-3.5进行文件存储和摘要
-
-![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
+![MochiDiffusion](https://images-1252557999.file.myqcloud.com/uPic/MochiDiffusion.jpg) 
 
 ## 🤖 软件 
 
-### [tunnelblick](https://tunnelblick.net/)
+### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
 
-免费开源的`openvpn`客户端：
+跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
 
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
 
-### [OFGB](https://github.com/xM4ddy/OFGB)
+### [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop)
 
-`GUI` 工具删除 `Windows 11` 不同位置的广告：
+`AirPods` 桌面用户体验增强程序(仅支持 Windows)：
 
-![OFGB](https://images-1252557999.file.myqcloud.com/uPic/OFGB.jpg) 
+- 🔋 电池信息显示
+- 👂 自动人耳检测
+- 🚀 低音频延迟模式
+- 🌈 精美的动画
 
-### [lapce](https://github.com/lapce/lapce)
+![AirPodsDesktop](https://images-1252557999.file.myqcloud.com/uPic/AirPodsDesktop.gif) 
 
-基于`Rust`的强大、轻量快速的代码编辑器：
+### [Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT)
 
-![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
+一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频:
+
+![Chenyme-AAVT](https://images-1252557999.file.myqcloud.com/uPic/Chenyme-AAVT.jpg) 
 
 ## 👀 资料 
 
-### [动手实战人工智能](https://aibydoing.com/intro "动手实战人工智能")
+### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
 
-动手实战人工智能系列教程，希望从监督学习开始，带你入门机器学习和深度学习。
+《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 
-作者深入剖析和推导了每一个基础算法的原理，并将其数学过程清晰地呈现出来。同时，作者基于 Python 代码对公式进行了逐一对应的实现，让公式和代码紧密相连，帮助你深入理解算法的运作机制。
+![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
 
-![aibydoing](https://images-1252557999.file.myqcloud.com/uPic/aibydoing.jpg) 
+### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
 
-### [leetcode](https://github.com/doocs/leetcode)
+带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
 
-本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
+![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
 
-### [visualize-ml](https://github.com/visualize-ml)
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-鸢尾花书：从加减乘除到机器学习，全套7册。
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
 
-![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
+![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
 
 ## 🕸 网站 
 
-### [itnext](https://itnext.cn/)
+### [untools](https://untools.co/)
 
-一个介绍元宇宙的网站：
+一个帮助你思考的集合工具&框架：
 
-![itnext](https://images-1252557999.file.myqcloud.com/uPic/yc7Zhp.png) 
+![untools](https://images-1252557999.file.myqcloud.com/uPic/hHu9aw.png) 
 
-### [quickref](https://quickref.me/)
+### [uiverse.io](https://uiverse.io/)
 
-开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
+一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
 
-![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
+![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
 
-### [star-history](https://star-history.com/)
+### [jsonvisio](https://jsonvisio.com/editor)
 
-在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
+将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
 
-![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/jsonvisio.jpg) 
 
 ## ✍️ 说明
 
