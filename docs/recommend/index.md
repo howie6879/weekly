@@ -5,99 +5,95 @@
 
 ## 🎯 项目 
 
-### [omnivore](https://github.com/omnivore-app/omnivore)
+### [chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror)
 
-无干扰、注重隐私、免费开源专为知识工作者和终身学习者而设计的稍后阅读工具：
+基于 `gpt-3.5-turbo` 的 `ChatGPT` 镜像网站（开源，可以自建）：
 
-![omnivore](https://images-1252557999.file.myqcloud.com/uPic/omnivore.png) 
+![chatgpt-mirror](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-mirror.jpg) 
 
-### [LightBook](https://github.com/underthestars-zhy/LightBook)
+### [musicn](https://github.com/zonemeen/musicn)
 
-开源的小说下载脚本项目，输出格式为 `EPUB`：
+🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
 
-![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
+![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
 
-### [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion)
+### [heti](https://github.com/sivan/heti)
 
-在 `MacOS` 上运行原生的 `Stable Diffusion`，本应用内置 `Apple` 的 `Core ML Stable Diffusion` 框架 以实现在搭载 `Apple` 芯片的 `Mac` 上用极低的内存占用发挥出最优性能：
+赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
-- 极致性能和极低内存占用 (使用神经网络引擎时 ~150MB)
-- 在所有搭载 Apple 芯片的 Mac 上充分发挥神经网络引擎的优势
-- 生成图像时无需联网
-- 图像转图像（也被称为 Image2Image）
-- 在图像的 EXIF 信息中存储所有的关键词（在访达的“显示简介”窗口中查看）
-- 使用 RealESRGAN 放大生成的图像
-- 自动保存 & 恢复图像
-- 自定义 Stable Diffusion Core ML 模型
-- 无需担心损坏的模型
-- 使用 macOS 原生框架 SwiftUI 开发
-
-![MochiDiffusion](https://images-1252557999.file.myqcloud.com/uPic/MochiDiffusion.jpg) 
+![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
 
 ## 🤖 软件 
 
-### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
+### [pho](https://github.com/fregie/pho)
 
-跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
+一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
 
-![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
+![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
 
-### [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop)
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-`AirPods` 桌面用户体验增强程序(仅支持 Windows)：
+LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
 
-- 🔋 电池信息显示
-- 👂 自动人耳检测
-- 🚀 低音频延迟模式
-- 🌈 精美的动画
+![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
 
-![AirPodsDesktop](https://images-1252557999.file.myqcloud.com/uPic/AirPodsDesktop.gif) 
+### [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop)
 
-### [Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT)
+基于 `tauri + vue3` 开发的跨平台桌面端应用，当今社会，智能化、便捷化已经成为趋势。选择 ChatGPT-Desktop，您将享受到以下优势：
 
-一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频:
+- 我们使用 tauri 构建项目，使项目包更加小巧精简，资源占用更少，同时适配多个平台。
+- 提供了配置代理的功能，您可以通过设置代理来实现更加灵活的网络访问。
+- 可以选择让 app 常驻后台，快捷键(支持自定义)一键唤醒，节省时间，提高效率。
+- 支持多 session 对话，利用 GPT-3.5-turbo 的最新特性，配合记忆模式，随时继续上一次对话。
+- 更便捷的管理和调试 prompt，构建你自己的角色预设库，使得对话更加个性化。
+- 内置丰富的导出功能，更加便利的分享结果！
+- 软件支持自动更新和手动检查更新的功能，以便大家更方便地更新软件。
+- 将所有对话存储到本地，方便随时查阅，留在身边最安心。
 
-![Chenyme-AAVT](https://images-1252557999.file.myqcloud.com/uPic/Chenyme-AAVT.jpg) 
+![ChatGPT-Desktop](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Desktop.png) 
 
 ## 👀 资料 
 
-### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
+### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
 
-《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
+精益副业：程序员如何优雅地做副业:
 
-![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
+![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
 
-### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
+### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
 
-带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
+张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
 
-![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
+![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
 
-### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
+### [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)
 
-作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
+一本由 GPT4 生成的中英词典，涵盖 8000 高频词汇：
 
-![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
+![DictionaryByGPT4](https://images-1252557999.file.myqcloud.com/uPic/DictionaryByGPT4.png) 
 
 ## 🕸 网站 
 
-### [untools](https://untools.co/)
+### [remixicon](https://remixicon.com/)
 
-一个帮助你思考的集合工具&框架：
+[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
 
-![untools](https://images-1252557999.file.myqcloud.com/uPic/hHu9aw.png) 
+![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
 
-### [uiverse.io](https://uiverse.io/)
+### [ugly-avatar](https://txstc55.github.io/ugly-avatar/ "ugly-avatar")
 
-一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
+挺有意思的项目，专门生成丑丑贱贱的头像：
 
-![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
+- 网站：https://txstc55.github.io/ugly-avatar/
+- GitHub：https://github.com/txstc55/ugly-avatar
 
-### [jsonvisio](https://jsonvisio.com/editor)
+![ugly-avatar](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-03-26_22-03-17.jpg) 
 
-将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
+### [web-check](https://web-check.xyz/)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/jsonvisio.jpg) 
+输入目标网址，分析该网站各项 `web` 检查信息，非常详细：
+
+![web-check](https://images-1252557999.file.myqcloud.com/uPic/web-check.jpg) 
 
 ## ✍️ 说明
 
