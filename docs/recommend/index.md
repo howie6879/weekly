@@ -5,100 +5,87 @@
 
 ## 🎯 项目 
 
-### [chart-gpt](https://github.com/whoiskatrin/chart-gpt)
+### [filebrowser](https://github.com/filebrowser/filebrowser)
 
-基于文本输入构建图表的人工智能工具，可以直接在官网 [https://www.chartgpt.dev](https://www.chartgpt.dev/) 体验：
+这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
 
-![chartgpt](https://images-1252557999.file.myqcloud.com/uPic/chartgpt.jpg) 
+除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
 
-### [coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy)
+![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
 
-代理 `Discord-Bot` 对话 `Coze-Bot`，实现 `API` 形式请求 `GPT4` 对话模型/微调模型：
+### [vtracer](https://github.com/visioncortex/vtracer)
 
-- 完美适配`NextChat`,`one-api`,`LobeChat`等对话面板。
-- 完美支持对话隔离。
-- 对话接口支持流式返回。
-- 支持创建 `discord`分类/频道/线程。
-- 支持和`openai`对齐的对话接口(`v1/chat/completions`)(也支持`dall-e-3`文生图)
-- 支持和`openai`对齐的图/文件生文接口(`v1/chat/completions`)(按照`GPT4V`图/文件生文接口的请求格式 \[ 支持`url`或`base64` \])。
-- 支持和`openai`对齐的`dall-e-3`文生图接口(`v1/images/generations`)。
-- 支持每日`24`点定时任务自动活跃机器人。
-- 支持配置多机器人 (通过`PROXY_SECRET`/`model`指定) 详细请看进阶配置。
+可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
 
-![coze-discord-proxy](https://images-1252557999.file.myqcloud.com/uPic/coze-discord-proxy.png) 
+![vtracer](https://images-1252557999.file.myqcloud.com/uPic/y9m1F5.jpg) 
 
-### [MRDOC](https://mrdoc.pro/)
+### [PyWxDump](https://github.com/xaoyaoo/PyWxDump)
 
-`MRDOC`觅思文档，私有云笔记、云文档和知识库系统，适合作为私有云文档、云笔记和知识管理的私有化在线文档部署方案。
+和上周推荐的 [WeChatMsg](https://weekly.howie6879.com/2023/11-27~12-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC118%E6%9C%9F%EF%BC%89.html) 项目同样类型，针对微信聊天记录，获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
 
-分为开源版和付费版，小团队可以考虑使用：
-
-![MRDOC](https://images-1252557999.file.myqcloud.com/uPic/u43buW.png) 
+![PyWxDump](https://images-1252557999.file.myqcloud.com/uPic/PyWxDump.png) 
 
 ## 🤖 软件 
 
-### [notepad--](https://github.com/cxasm/notepad--)
+### [Later](https://github.com/alyssaxuu/later)
 
-这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
+一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
 
-> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
+![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
 
-![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
+### [SketchyBar](https://github.com/FelixKratz/SketchyBar)
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
+高度可定制的macOS状态栏替代品：
 
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+![SketchyBar](https://images-1252557999.file.myqcloud.com/uPic/SketchyBar.jpg) 
 
-![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
+### [tvapk](https://github.com/Archmage83/tvapk)
 
-### [paperlib](https://github.com/GeoffreyChen777/paperlib)
+收集各大 `AndroidTV` 的 `apk` 应用，可免费看各种vip和国外电影电视：
 
-面向计算机科学的简单开源学术论文管理工具：
-
-![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
+![tvapk](https://images-1252557999.file.myqcloud.com/uPic/tvapk.png) 
 
 ## 👀 资料 
 
-### [Book-of-MLM](https://hcplab-sysu.github.io/Book-of-MLM/)
+### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
-本书以深入浅出的方式全面地介绍了多模态大模型的核心技术与典型应用，并围绕新一代人工智能技术范式，详细阐述了因果推理、世界模型、超级智能体与具身智能等前沿技术。希望本书能够为学术界和工业界提供一个清晰的视角，以帮助人工智能科研工作者更全面地了解多模态大模型的技术和新一代人工智能的发展方向。
+为忙碌的工程师准备的精选面试准备材料：
 
-![Book-of-MLM](https://images-1252557999.file.myqcloud.com/uPic/Book-of-MLM.jpg) 
+![tech-interview-handbook](https://images-1252557999.file.myqcloud.com/uPic/lAcwMK.png) 
 
-### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
+### [theByteBook](https://github.com/isno/theByteBook)
 
-《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
+深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
 
-![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
+![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
 
-### [udlbook](https://udlbook.github.io/udlbook/)
+### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
 
-麻省理工出品的免费电子书《理解深度学习》：
+本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
 
-![udlbook](https://images-1252557999.file.myqcloud.com/uPic/udlbook.jpg) 
+我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
+
+无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
 
 ## 🕸 网站 
 
-### [tanpok](https://tool.tanpok.com/#/)
+### [emojimix](https://tikolu.net/emojimix/)
 
-效果非常好的图片压缩工具：
+一个表情融合网站，图一个乐呵，效果如下：
 
-![tanpok](https://images-1252557999.file.myqcloud.com/uPic/8fZN8v.png) 
+![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
 
-### [curated.design](https://www.curated.design/)
+### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
 
-网页设计灵感目录，比较全面的设计领域导航网站：
+一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
 
-![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
+![shanshui-inf](https://images-1252557999.file.myqcloud.com/uPic/shanshui-inf.jpg) 
 
-### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
+### [morphic.sh](https://www.morphic.sh/)
 
-老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
+一个开源的 AI 搜索引擎，支持 `Vercel` 自建部署，可选 `OpenAI、Gemini`，以及最新的 `Llama3` 大模型，网站开源 [morphic](https://github.com/miurla/morphic)：
 
-- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
-- Gemini Pro 体验地址：https://gemini.fre123.com/
-
-![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
+![morphic](https://images-1252557999.file.myqcloud.com/uPic/morphic.jpg) 
 
 ## ✍️ 说明
 
