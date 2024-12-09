@@ -5,93 +5,99 @@
 
 ## 🎯 项目 
 
-### [typikon](https://github.com/auula/typikon)
+### [cloud_dns_exporter](https://github.com/eryajf/cloud_dns_exporter)
 
-Typikon 是一个将 Markdown 转换为在线书籍的工具，类似于 mdbook 和 gitbook，但更易于使用，颜值也很不错：
+周刊群友**二丫讲梵**的开源项目，自动获取 DNS 提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为 Prometheus Metrics。已支持：Tencent，Aliyun，Godaddy，Aws：
 
-![typikon](https://images-1252557999.file.myqcloud.com/uPic/typikon.jpg) 
+![G6dYsS](https://images-1252557999.file.myqcloud.com/uPic/G6dYsS.png) 
 
-### [docker-cronicle](https://github.com/soulteary/docker-cronicle)
+### [talebook](https://github.com/talebook/talebook)
 
-`Cronjob` 定时任务 `Docker` 解决方案，提供了一个简介漂亮且轻量的 `WEB UI`：
+这是一个基于Calibre的简单的个人图书管理系统，支持在线阅读。主要特点是：
 
-![docker-cronicle](https://images-1252557999.file.myqcloud.com/uPic/docker-cronicle.png) 
+- 美观的界面：由于Calibre自带的网页太丑太难用，于是基于Vue，独立编写了新的界面，支持PC访问和手机浏览；
+- 支持多用户：为了网友们更方便使用，开发了多用户功能，支持豆瓣（已废弃）、QQ、微博、Github等社交网站的登录；
+- 支持在线阅读：借助Readium.js 库，支持了网页在线阅读电子书；
+- 支持批量扫描导入书籍；
+- 支持邮件推送：可方便推送到Kindle；
+- 支持OPDS：可使用KyBooks等APP方便地读书；
+- 支持一键安装，网页版初始化配置，轻松启动网站；
+- 优化大书库时文件存放路径，可以按字母分类、或者文件名保持中文；
+- 支持快捷更新书籍信息：支持从百度百科、豆瓣搜索并导入书籍基础信息；
+- 支持私人模式：需要输入访问码，才能进入网站，便于小圈子分享网站；
 
-### [isaiah](https://github.com/will-moss/isaiah)
+![talebook](https://images-1252557999.file.myqcloud.com/uPic/VmLmag.png) 
 
-`Isaiah` 是一个开源的 Web 应用程序，它允许用户通过浏览器管理和监控 `Docker` 环境。它提供了与 `lazydocker` 类似的功能：
+### [Hakuba](https://github.com/YeungKC/Hakuba)
 
-![H2icEX](https://images-1252557999.file.myqcloud.com/uPic/H2icEX.png) 
+一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
+
+![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
 
 ## 🤖 软件 
 
-### [Alexandria](https://github.com/btpf/Alexandria)
+### [FluentRead](https://github.com/Bistutu/FluentRead)
 
-一个极简的跨平台电子书阅读器，使用 `Tauri` ❤️ `Epub.js` 构建：
+一个开源油猴脚本，拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验：
 
-![Alexandria](https://images-1252557999.file.myqcloud.com/uPic/Alexandria.png) 
+![FluentRead](https://images-1252557999.file.myqcloud.com/uPic/FluentRead.gif) 
 
-### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
+### [B站录播姬](https://rec.danmuji.org/)
 
-跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
+一个方便好用免费开源的哔哩哔哩直播录制工具：
 
-- 🍕 全平台支持. Windows, Mac, Linux
-- 🍥 支持 IPTV, 卫视直播
-- 🍔 视频源支持自定义, 支持导入, 导出
-- 🍟 支持海报模式和列表模式浏览资源
-- 🌭 播放历史, 自动跳转历史进度
-- 🍿 收藏夹支持导入,导出, 支持同步追剧
-- 🥙 支持精简模式, 摸鱼划水
-- 🥪 一键搜索所有资源, 支持历史搜索记录
-- 🌮 导出资源下载链接
-- 🍣 支持第三方播放器播放
-- 🍤 显示豆瓣评分
+![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
 
-![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
+### [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
 
-### [DevHub](https://github.com/jaywcjlove/DevHub)
+一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒：
 
-面向开发者的工具箱软件：
-
-![DevHub](https://images-1252557999.file.myqcloud.com/uPic/N2tzTT.png) 
+- 一键快速下载、安装、激活最新版 Microsoft Office 软件。
+- 用户可在安装 Word、PPT、Excel 的同时，根据软件提示，自助安装其它组件，包括： Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype
+- 工具可自动识别不同的操作系统架构，自动下载适配版本的 Office。
+- 本工具激活 Office 的方式为正版激活模式，不会篡改任何系统文件。
+- 当系统中存在多个冗余 Office 版本时，本工具在用户同意的情况下，可实现自动升级。 
 
 ## 👀 资料 
 
-### [comflowy](https://www.comflowy.com/zh-CN)
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-作者认为 `AI` 生图领域的未来一定是围绕 `Stable Diffusion` 展开，而 `ComfyUI` 相比于 `Stable Diffusion WebUI` 等其他开源产品具备非常强的差异化能力，它具备高度的扩展性和应用可能性，真正做到了让开发者和用户能够根据自己的需求打造个性化的生图流程。
+一份程序员延寿指南，目标是稳健地活得更久。 
 
-![comflowy](https://images-1252557999.file.myqcloud.com/uPic/comflowy.jpg) 
+### 认知偏差知识手册
 
-### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
 
- 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
+![cb](https://images-1252557999.file.myqcloud.com/uPic/cb.jpg) 
 
-### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
+### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
 
-本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
+一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
 
-![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
 
 ## 🕸 网站 
 
-### [openvim](https://www.openvim.com/)
+### [duckduckgo-chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
 
-交互式 `vim` 学习网站：
+`DuckDuckGo` 开放了免费的 `AI` 聊天机器人，支持模型有：
 
-![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
+- GPT-3.5 Turbo
+- Claude 1.2 Instant
 
-### [phind.com](https://www.phind.com/)
+![duckduckgo_chat](https://images-1252557999.file.myqcloud.com/uPic/duckduckgo_chat.jpg) 
 
-面向开发者的人工智能搜索引擎：
+### [ray.so/icon](https://ray.so/icon)
 
-![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
+`Raycast` 出品的图标设计工具：
 
-### [pdf.wps.cn](https://pdf.wps.cn/)
+![rayso](https://images-1252557999.file.myqcloud.com/uPic/rayso.jpg) 
 
-金山出品的 PDF 免费工具集：
+### [scribblediffusion.com](https://scribblediffusion.com/)
 
-![pdf_wps](https://images-1252557999.file.myqcloud.com/uPic/pdf_wps.jpg) 
+随便画一画，生成美观的图片：
+
+![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
 
 ## ✍️ 说明
 
