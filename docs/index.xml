@@ -12,7 +12,88 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Mon, 25 Nov 2024 15:04:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 01:09:24 +0000</lastBuildDate>
+    <item>
+      <title>11-25~12-08.老胡的周刊（第170期）.md</title>
+      <link>https://weekly.howie6879.com/2024/11-25~12-08.老胡的周刊（第170期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/11-25~12-08.老胡的周刊（第170期）.html"&gt;11-25~12-08.老胡的周刊（第170期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/likeflyme/cloudbak"&gt;cloudbak&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;云朵备份是一个微信云备份程序【仅支持 windows】，使用云朵备份可以将微信数据备份到服务器，通过浏览器访问数据，你可以像正常使用微信一样浏览数据和搜索数据（参考微信网页版）。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="cloudbak" src="https://images-1252557999.file.myqcloud.com/uPic/k1QNE0.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/MarSeventh/CloudFlare-ImgBed"&gt;CloudFlare-ImgBed&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;CloudFlare Pages&lt;/code&gt; 的免费图片托管解决方案，支持 &lt;code&gt;Telegram Bot&lt;/code&gt; 和 &lt;code&gt;Cloudflare R2&lt;/code&gt; 等多种存储方式:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="CloudFlare-ImgBed" src="https://images-1252557999.file.myqcloud.com/uPic/49JpVO.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/actualbudget/actual"&gt;actual&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;自部署的个人理财开源项目：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="actual" src="https://images-1252557999.file.myqcloud.com/uPic/jXtBXk.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Guovin/iptv-api"&gt;iptv-api&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;自定义频道，自动获取直播源接口，测速验证后生成可用的结果，默认结果包含：📺央视频道、💰央视付费频道、📡卫视频道、🏠广东频道、🌊港·澳·台频道、🎬电影频道、🎥咪咕直播、🏀体育频道、🪁动画频道、🎮游戏频道、🎵音乐频道、🏛经典剧场。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ 自定义模板，生成您想要的频道&lt;/li&gt;
+&lt;li&gt;✅ 支持多种获取源方式：组播源、酒店源、订阅源、关键字搜索&lt;/li&gt;
+&lt;li&gt;✅ 接口测速验效，响应时间、分辨率优先级，过滤无效接口&lt;/li&gt;
+&lt;li&gt;✅ 偏好设置：IPv6、接口来源排序优先级与数量配置、接口白名单&lt;/li&gt;
+&lt;li&gt;✅ 定时执行，北京时间每日 6:00 与 18:00 执行更新&lt;/li&gt;
+&lt;li&gt;✅ 支持多种运行方式：工作流、命令行、GUI 软件、Docker(amd64/arm64/arm v7)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/git-jiadong/wechatDataBackup"&gt;wechatDataBackup&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;PC微信聊天记录数据导出工具&lt;/p&gt;
+&lt;p&gt;基于- wails开发 + React前端，实现PC端微信聊天记录一键导出功能。
+- 导出后数据可以做永久化保存，即使微信停止支持，聊天记录也可以随时查看。
+- 前端界面尽量与微信界面保持一致，减少使用成本。
+- 理论上支持所有Windows 32/64位微信版本。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="wechatDataBackup" src="https://images-1252557999.file.myqcloud.com/uPic/LJBaJf.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader"&gt;icloud_photos_downloader&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个命令行工具，用于从 &lt;code&gt;iCloud&lt;/code&gt; 下载照片，支持 &lt;code&gt;Linux、Windows &amp;amp; macOS&lt;/code&gt; 系统。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/mistweaverco/bananas"&gt;bananas&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个跨平台、点对点的屏幕共享工具，支持多光标协作，无需配置即可快速使用，注重隐私保护。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bananas" src="https://images-1252557999.file.myqcloud.com/uPic/oOMgaM.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/waydabber/BetterDisplay"&gt;BetterDisplay&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;专为 &lt;code&gt;Mac&lt;/code&gt; 平台设计的专业级屏幕自定义调整工具，可通过 DDC 调整内建 / 外接显示器的各项基本参数，并提供虚拟屏、串流、画中画等丰富的高级功能，支持大多数现代显示器：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="BetterDisplay" src="https://images-1252557999.file.myqcloud.com/uPic/qLLPBM.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Steven-Luo/MasteringRAG"&gt;MasteringRAG&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本项目是一个使用LLM（大语言模型）使用RAG技术构建文档问答的项目，将会涵盖企业构建基于RAG的文档问答几乎所有的常见优化手段。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/harleyszhang/llm_note"&gt;harleyszhang/llm_note&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个关于大型语言模型（LLM）的笔记仓库，涵盖了模型推理、Transformer 模型结构、LLM 框架代码分析以及高性能计算等内容:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Transformer 模型系列：详细解读了 Transformer 模型的论文，实现代码，以及不同版本的 GPT 和 LLaMA 模型结构。&lt;/li&gt;
+&lt;li&gt;LLM 性能分析：分析了模型的参数量、计算量、显存占用以及推理延迟。&lt;/li&gt;
+&lt;li&gt;LLM 压缩技术：介绍了 SmoothQuant 和 AWQ 等模型压缩算法。&lt;/li&gt;
+&lt;li&gt;LLM 推理与部署：讨论了推理服务框架的技术总结和源码解析，包括 DeepSpeed 框架的学习笔记，以及推理优化、系统优化方法和可视化工具。&lt;/li&gt;
+&lt;li&gt;高性能计算：提供了关于 Triton 和 CUDA 的编程笔记，以及高性能计算编程的学习资料推荐。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href="https://learnku.com/docs/php-the-right-way/PHP8.0"&gt;php-the-right-way&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;PHP 入门教程，现在这块市场占有越来越少了，新项目应该都用 Go 或者 Python ，有兴趣学习的可以作为教程看看：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="php-the-right-way" src="https://images-1252557999.file.myqcloud.com/uPic/DKXw5S.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://rarebigdeal.com/"&gt;rare-big-deal&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个专门为黑五/网络星期一等活动提供软件和工具优惠的资源库。该资源库汇集了多种类别的产品和服务，包括 macOS 应用、API、浏览器插件、AI 工具、iOS 应用、设计工具、生产力工具、营销工具、SEO 工具、样板文件、学习资源、健康和健身应用、金融工具、邮件列表、专业化服务等：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="rare-big-deal" src="https://images-1252557999.file.myqcloud.com/uPic/AepRDr.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.wallpaperengine.space/"&gt;wallpaperengine.space&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个专注于提供各种动态壁纸的平台，涵盖了从 4K 分辨率到各种主题和风格的壁纸。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="wallpaperengine" src="https://images-1252557999.file.myqcloud.com/uPic/MgDa1c.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://favicon.im/"&gt;favicon.im&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;快速获取网站 LOGO:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="favicon.im" src="https://images-1252557999.file.myqcloud.com/uPic/FSVgaW.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">11-25~12-08.老胡的周刊（第170期）.md</guid>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>11-18~11-24.老胡的周刊（第169期）.md</title>
       <link>https://weekly.howie6879.com/2024/11-18~11-24.老胡的周刊（第169期）.html</link>
@@ -1189,53 +1270,6 @@ curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/rel
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">07-15~07-21.老胡的周刊（第151期）.md</guid>
       <pubDate>Sun, 21 Jul 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>07-08~07-14.老胡的周刊（第150期）.md</title>
-      <link>https://weekly.howie6879.com/2024/07-08~07-14.老胡的周刊（第150期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/07-08~07-14.老胡的周刊（第150期）.html"&gt;07-08~07-14.老胡的周刊（第150期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Bklieger/groqbook"&gt;groqbook&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;用 &lt;code&gt;Groq&lt;/code&gt; 和 &lt;code&gt;Llama3&lt;/code&gt; 快速生成一本书，它能够根据简短的提示快速生成非小说类书籍的每一章节：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="groqbook" src="https://images-1252557999.file.myqcloud.com/uPic/groqbook.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/auula/typikon"&gt;typikon&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Typikon 是一个将 Markdown 转换为在线书籍的工具，类似于 mdbook 和 gitbook，但更易于使用，颜值也很不错：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="typikon" src="https://images-1252557999.file.myqcloud.com/uPic/typikon.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://www.navicat.com.cn/download/navicat-premium-lite"&gt;Navicat Premium Lite&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Navicat 推出免费精简版—— &lt;code&gt;Navicat Premium Lite&lt;/code&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="navicat-premium-lite" src="https://img.fre123.com/i/2024/07/12/6690fb8d98f34.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/AugustDev/enchanted"&gt;enchanted&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个开源的 &lt;code&gt;macOS/iOS/visionOS&lt;/code&gt; 应用程序，专为与私人托管模型（如 &lt;code&gt;Llama 2、Mistral、Vicuna、Starling&lt;/code&gt; 等）一起工作而设计。它的界面类似于 &lt;code&gt;ChatGPT&lt;/code&gt; 应用，可连接到您的私人模型：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="enchanted" src="https://img.fre123.com/i/2024/07/12/6690f54b93ccc.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/TingsongYu/PyTorch-Tutorial-2nd"&gt;PyTorch-Tutorial-2nd&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项目应用，或是进阶工程化部署落地，在这里都有。相信在本书的帮助下，读者将能够轻松掌握 PyTorch 的使用，成为一名优秀的深度学习工程师。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="PyTorch-Tutorial-2nd" src="https://img.fre123.com/i/2024/07/12/6690fc7ae91f6.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/solidglue/Recommender_System"&gt;Recommender_System&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;推荐系统入门指南，全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://photo2poem.top/"&gt;photo2poem&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;每一张照片，都对应一首诗，很有意思：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="photo2poem" src="https://images-1252557999.file.myqcloud.com/uPic/photo2poem.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://tympanus.net/codrops/demos/"&gt;codrops&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;可免费下载使用的原型动画 UI 布局（ 500+ free demos）：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="6690d09244aa9" src="https://img.fre123.com/i/2024/07/12/6690d09244aa9.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">07-08~07-14.老胡的周刊（第150期）.md</guid>
-      <pubDate>Sun, 14 Jul 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
