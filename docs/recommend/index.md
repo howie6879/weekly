@@ -5,87 +5,93 @@
 
 ## 🎯 项目 
 
-### [filebrowser](https://github.com/filebrowser/filebrowser)
+### [typikon](https://github.com/auula/typikon)
 
-这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
+Typikon 是一个将 Markdown 转换为在线书籍的工具，类似于 mdbook 和 gitbook，但更易于使用，颜值也很不错：
 
-除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
+![typikon](https://images-1252557999.file.myqcloud.com/uPic/typikon.jpg) 
 
-![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
+### [docker-cronicle](https://github.com/soulteary/docker-cronicle)
 
-### [vtracer](https://github.com/visioncortex/vtracer)
+`Cronjob` 定时任务 `Docker` 解决方案，提供了一个简介漂亮且轻量的 `WEB UI`：
 
-可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
+![docker-cronicle](https://images-1252557999.file.myqcloud.com/uPic/docker-cronicle.png) 
 
-![vtracer](https://images-1252557999.file.myqcloud.com/uPic/y9m1F5.jpg) 
+### [isaiah](https://github.com/will-moss/isaiah)
 
-### [PyWxDump](https://github.com/xaoyaoo/PyWxDump)
+`Isaiah` 是一个开源的 Web 应用程序，它允许用户通过浏览器管理和监控 `Docker` 环境。它提供了与 `lazydocker` 类似的功能：
 
-和上周推荐的 [WeChatMsg](https://weekly.howie6879.com/2023/11-27~12-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC118%E6%9C%9F%EF%BC%89.html) 项目同样类型，针对微信聊天记录，获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
-
-![PyWxDump](https://images-1252557999.file.myqcloud.com/uPic/PyWxDump.png) 
+![H2icEX](https://images-1252557999.file.myqcloud.com/uPic/H2icEX.png) 
 
 ## 🤖 软件 
 
-### [Later](https://github.com/alyssaxuu/later)
+### [Alexandria](https://github.com/btpf/Alexandria)
 
-一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
+一个极简的跨平台电子书阅读器，使用 `Tauri` ❤️ `Epub.js` 构建：
 
-![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
+![Alexandria](https://images-1252557999.file.myqcloud.com/uPic/Alexandria.png) 
 
-### [SketchyBar](https://github.com/FelixKratz/SketchyBar)
+### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 
-高度可定制的macOS状态栏替代品：
+跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
 
-![SketchyBar](https://images-1252557999.file.myqcloud.com/uPic/SketchyBar.jpg) 
+- 🍕 全平台支持. Windows, Mac, Linux
+- 🍥 支持 IPTV, 卫视直播
+- 🍔 视频源支持自定义, 支持导入, 导出
+- 🍟 支持海报模式和列表模式浏览资源
+- 🌭 播放历史, 自动跳转历史进度
+- 🍿 收藏夹支持导入,导出, 支持同步追剧
+- 🥙 支持精简模式, 摸鱼划水
+- 🥪 一键搜索所有资源, 支持历史搜索记录
+- 🌮 导出资源下载链接
+- 🍣 支持第三方播放器播放
+- 🍤 显示豆瓣评分
 
-### [tvapk](https://github.com/Archmage83/tvapk)
+![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
 
-收集各大 `AndroidTV` 的 `apk` 应用，可免费看各种vip和国外电影电视：
+### [DevHub](https://github.com/jaywcjlove/DevHub)
 
-![tvapk](https://images-1252557999.file.myqcloud.com/uPic/tvapk.png) 
+面向开发者的工具箱软件：
+
+![DevHub](https://images-1252557999.file.myqcloud.com/uPic/N2tzTT.png) 
 
 ## 👀 资料 
 
-### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+### [comflowy](https://www.comflowy.com/zh-CN)
 
-为忙碌的工程师准备的精选面试准备材料：
+作者认为 `AI` 生图领域的未来一定是围绕 `Stable Diffusion` 展开，而 `ComfyUI` 相比于 `Stable Diffusion WebUI` 等其他开源产品具备非常强的差异化能力，它具备高度的扩展性和应用可能性，真正做到了让开发者和用户能够根据自己的需求打造个性化的生图流程。
 
-![tech-interview-handbook](https://images-1252557999.file.myqcloud.com/uPic/lAcwMK.png) 
+![comflowy](https://images-1252557999.file.myqcloud.com/uPic/comflowy.jpg) 
 
-### [theByteBook](https://github.com/isno/theByteBook)
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
+ 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
 
-![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
+### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
 
-### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
+本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
 
-本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
-
-我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
-
-无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
+![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
 
 ## 🕸 网站 
 
-### [emojimix](https://tikolu.net/emojimix/)
+### [openvim](https://www.openvim.com/)
 
-一个表情融合网站，图一个乐呵，效果如下：
+交互式 `vim` 学习网站：
 
-![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
+![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
 
-### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
+### [phind.com](https://www.phind.com/)
 
-一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
+面向开发者的人工智能搜索引擎：
 
-![shanshui-inf](https://images-1252557999.file.myqcloud.com/uPic/shanshui-inf.jpg) 
+![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
 
-### [morphic.sh](https://www.morphic.sh/)
+### [pdf.wps.cn](https://pdf.wps.cn/)
 
-一个开源的 AI 搜索引擎，支持 `Vercel` 自建部署，可选 `OpenAI、Gemini`，以及最新的 `Llama3` 大模型，网站开源 [morphic](https://github.com/miurla/morphic)：
+金山出品的 PDF 免费工具集：
 
-![morphic](https://images-1252557999.file.myqcloud.com/uPic/morphic.jpg) 
+![pdf_wps](https://images-1252557999.file.myqcloud.com/uPic/pdf_wps.jpg) 
 
 ## ✍️ 说明
 
