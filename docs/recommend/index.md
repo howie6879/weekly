@@ -5,78 +5,84 @@
 
 ## 🎯 项目 
 
-### [cloud_dns_exporter](https://github.com/eryajf/cloud_dns_exporter)
+### [upptime](https://github.com/upptime/upptime)
 
-周刊群友**二丫讲梵**的开源项目，自动获取 DNS 提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为 Prometheus Metrics。已支持：Tencent，Aliyun，Godaddy，Aws：
+由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
 
-![G6dYsS](https://images-1252557999.file.myqcloud.com/uPic/G6dYsS.png) 
+![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
 
-### [talebook](https://github.com/talebook/talebook)
+### [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua)
 
-这是一个基于Calibre的简单的个人图书管理系统，支持在线阅读。主要特点是：
+中华新华字典数据库和 API 。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
 
-- 美观的界面：由于Calibre自带的网页太丑太难用，于是基于Vue，独立编写了新的界面，支持PC访问和手机浏览；
-- 支持多用户：为了网友们更方便使用，开发了多用户功能，支持豆瓣（已废弃）、QQ、微博、Github等社交网站的登录；
-- 支持在线阅读：借助Readium.js 库，支持了网页在线阅读电子书；
-- 支持批量扫描导入书籍；
-- 支持邮件推送：可方便推送到Kindle；
-- 支持OPDS：可使用KyBooks等APP方便地读书；
-- 支持一键安装，网页版初始化配置，轻松启动网站；
-- 优化大书库时文件存放路径，可以按字母分类、或者文件名保持中文；
-- 支持快捷更新书籍信息：支持从百度百科、豆瓣搜索并导入书籍基础信息；
-- 支持私人模式：需要输入访问码，才能进入网站，便于小圈子分享网站；
+![chinese-xinhua](https://images-1252557999.file.myqcloud.com/uPic/pOd5nk.png) 
 
-![talebook](https://images-1252557999.file.myqcloud.com/uPic/VmLmag.png) 
+### [neko](https://github.com/m1k1o/neko)
 
-### [Hakuba](https://github.com/YeungKC/Hakuba)
+可在服务器上运行的浏览器，核心功能如下：
 
-一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
+- 娱乐层面可以在你的服务器上面部署这个虚拟浏览器，你会很**自由**
+- 公司层面，有一些服务和限制你搭建 VPN 的话，你可以开放虚拟浏览器来进行内部服务访问，保证安全性
+- 还有权限管理，也很方便远程演示，操作也还是很流畅的
 
-![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
+![neko](https://images-1252557999.file.myqcloud.com/uPic/neko.jpg) 
 
 ## 🤖 软件 
 
-### [FluentRead](https://github.com/Bistutu/FluentRead)
+### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
 
-一个开源油猴脚本，拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验：
+`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
 
-![FluentRead](https://images-1252557999.file.myqcloud.com/uPic/FluentRead.gif) 
+![Miao](https://images-1252557999.file.myqcloud.com/uPic/Miao.png) 
 
-### [B站录播姬](https://rec.danmuji.org/)
+### [wiliwili](https://github.com/xfangfang/wiliwili)
 
-一个方便好用免费开源的哔哩哔哩直播录制工具：
+专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和 `Nintendo Switch` 上：
 
-![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
+![wiliwili](https://images-1252557999.file.myqcloud.com/uPic/wiliwili.jpeg) 
 
-### [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
+### [memreduct](https://github.com/henrypp/memreduct)
 
-一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒：
+轻量优雅的 `Windows` 内存管理工具，让用户实时监控计算机内存和清理系统缓存，体积小(6MB)、内存释放效果明显，兼容 `Windows XP` 及更高版本：
 
-- 一键快速下载、安装、激活最新版 Microsoft Office 软件。
-- 用户可在安装 Word、PPT、Excel 的同时，根据软件提示，自助安装其它组件，包括： Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype
-- 工具可自动识别不同的操作系统架构，自动下载适配版本的 Office。
-- 本工具激活 Office 的方式为正版激活模式，不会篡改任何系统文件。
-- 当系统中存在多个冗余 Office 版本时，本工具在用户同意的情况下，可实现自动升级。 
+![memreduct](https://images-1252557999.file.myqcloud.com/uPic/memreduct.jpg) 
 
 ## 👀 资料 
 
-### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
+### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
-一份程序员延寿指南，目标是稳健地活得更久。 
+LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
 
-### 认知偏差知识手册
+### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
 
-字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
 
-![cb](https://images-1252557999.file.myqcloud.com/uPic/cb.jpg) 
+这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
 
-### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
+- 入侵排查
+- 日志分析
+- 权限维持
+- Windows实战
+- Linux实战
+- Web实战 
 
-一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
 ## 🕸 网站 
+
+### [22.do](https://22.do/)
+
+一次性 `Gmail` 临时邮箱：
+
+![22do](https://images-1252557999.file.myqcloud.com/uPic/22do.jpg) 
+
+### [gooddesign](https://www.gooddesign.tools/)
+
+优质设计师工具导航网站：
+
+![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
 
 ### [duckduckgo-chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
 
@@ -86,18 +92,6 @@
 - Claude 1.2 Instant
 
 ![duckduckgo_chat](https://images-1252557999.file.myqcloud.com/uPic/duckduckgo_chat.jpg) 
-
-### [ray.so/icon](https://ray.so/icon)
-
-`Raycast` 出品的图标设计工具：
-
-![rayso](https://images-1252557999.file.myqcloud.com/uPic/rayso.jpg) 
-
-### [scribblediffusion.com](https://scribblediffusion.com/)
-
-随便画一画，生成美观的图片：
-
-![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
 
 ## ✍️ 说明
 
