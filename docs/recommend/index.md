@@ -5,81 +5,81 @@
 
 ## 🎯 项目 
 
-### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
+### [weiboSpider](https://github.com/dataabc/weiboSpider)
 
-Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
+新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
 
-### [dpanel](https://github.com/donknap/dpanel)
+### [alist](https://github.com/Xhofe/alist)
 
-`Docker` 可视化面板系统，提供完善的 `Docker` 管理功能：
+一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
 
-![dpanel](https://images-1252557999.file.myqcloud.com/uPic/2rE2AN.png) 
+![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
 
-### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
+简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
 
-一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
+### crontab-ui
 
-![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
+提供简单安全的方式来管理 `crontab`:
 
-你可以直接[在线体验](https://letsmarkdown.com/)。 
+![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
 
 ## 🤖 软件 
 
-### [Screenbox](https://github.com/huynhsontung/Screenbox)
+### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
 
-Screenbox 是一款现代视频播放器，构建在 LibVLCSharp 和通用 Windows 平台 (UWP) 之上，颜值颇高，同时又快速、轻量级。支持在 Windows 10 版本 1903+、Windows 11 和 Xbox 主机上使用:
+> 让每个人都简单方便的使用前沿人工智能技术
 
-![Screenbox](https://images-1252557999.file.myqcloud.com/uPic/Screenbox.jpg) 
+一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
 
-LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
+### [NanaZip](https://github.com/M2Team/NanaZip)
 
-![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
+`NanaZip` 是一个面向现代 `Windows` 体验的开源文件压缩工具，基于知名的开源文件压缩工具 `7-Zip` 的源代码：
 
-### [biyi](https://github.com/lijy91/biyi)
+![NanaZip](https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg) 
 
-比译是一个用 `Flutter` 编写的跨平台便捷翻译和词典应用：
+### [Gif123](https://github.com/aardio/Gif123)
 
-![biyi](https://images-1252557999.file.myqcloud.com/uPic/biyi.jpg) 
+非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
+
+![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg) 
 
 ## 👀 资料 
 
-### [GolangStudy](https://github.com/cnymw/GolangStudy)
+### [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial)
 
-《[GolangStudy](https://golangstudy.tech/)》：从简单到难最全总结，go基础，数据结构，算法，设计模式：
+本教程供新加入 `TANGENT` 实验室的同学入门 NLP 使用，该指南主要提供了 `NLP` 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：
 
-![GolangStudy](https://images-1252557999.file.myqcloud.com/uPic/GolangStudy.jpg) 
+![pku_nlp_tutorial](https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg) 
 
-### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
+### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
 
-精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
+技术面试最后反问面试官的话。 
 
-### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
 
-微软开源的一份全面的数据科学课程，20个课时，历时10周：
-
-![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
+非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
 
 ## 🕸 网站 
 
-### [oss.gallery](https://oss.gallery/)
+### [css.gg](https://css.gg/)
 
-`OSS Gallery` 提供了一个展示和探索各种领域最佳开源项目的窗口。用户可以通过这个平台，获取到开源社区中值得关注的项目，这些项目涵盖了从软件开发、数据科学到设计等多个领域。平台的目的是为开源项目提供更多的曝光机会，同时也为开发者和用户提供一个学习和交流的场所。
+`700+` 基于 `CSS` 的图标：
 
-![oss_gallery](https://images-1252557999.file.myqcloud.com/uPic/oss_gallery.jpg) 
+![css_gg](https://images-1252557999.file.myqcloud.com/uPic/css_gg.jpg) 
 
-### [chatgpt-sites](https://github.com/lzwme/chatgpt-sites)
+### [jaywcjlove/reference](https://wangchujiang.com/reference/)
 
-搜集国内可用的 ChatGPT 在线体验免费网站列表，定时任务每日更新，点击[这里](https://lzw.me/x/chatgpt-sites/)访问：
+为开发人员分享快速参考备忘清单【速查表】，也可以直接通过 github 访问-> [jaywcjlove/reference](https://github.com/jaywcjlove/reference) :
 
-![chatgpt-sites](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-sites.jpg) 
+![reference](https://images-1252557999.file.myqcloud.com/uPic/reference.png) 
 
-### [nona](https://www.nona.de/)
+### [hotkeycheatsheet](https://hotkeycheatsheet.com/zh)
 
-德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
+常用软件的快捷键备忘录：
 
-![nona](https://images-1252557999.file.myqcloud.com/uPic/1nN2lu.png) 
+![hotkeycheatsheet](https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg) 
 
 ## ✍️ 说明
 
