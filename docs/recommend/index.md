@@ -5,85 +5,104 @@
 
 ## 🎯 项目 
 
-### [novel](https://github.com/steven-tey/novel)
+### [ddns-go](https://github.com/jeessy2/ddns-go)
 
-具有类似 `NotionAI` 自动补全功能的所见即所得编辑器，可直接在线体验 [novel.sh](https://novel.sh/) ：
+简单好用的 `DDNS`，自动更新域名解析到公网IP(支持阿里云、腾讯云 `dnspod`、`Cloudflare`、华为云、百度云、`porkbun`)：
 
-![opengraph-image](https://images-1252557999.file.myqcloud.com/uPic/opengraph-image.png) 
+![ddns-go](https://images-1252557999.file.myqcloud.com/uPic/ddns-go.png) 
 
-### [restic](https://github.com/restic/restic)
+### [privaxy](https://github.com/Barre/privaxy)
 
-`Restic` 是一个快速、高效和安全的备份程序。它支持三个主要操作系统（Linux、macOS、Windows）和一些较小众的操作系统（FreeBSD、OpenBSD）
+Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
 
-![restic](https://images-1252557999.file.myqcloud.com/uPic/restic.jpg) 
+![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
 
-### [zfile](https://github.com/zhaojun1998/zfile)
+还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
 
-基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
+### [xiaomusic](https://github.com/hanxi/xiaomusic)
 
-![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
+使用小爱/红米音箱播放音乐，音乐使用 `yt-dlp` 下载：
+
+- 播放歌曲
+- 播放歌曲+歌名 比如：播放歌曲周杰伦晴天
+- 下一首
+- 单曲循环
+- 全部循环
+
+支持 `Docker` 部署和简单管理界面。 
 
 ## 🤖 软件 
 
-### [FeHelper](https://github.com/zxlie/FeHelper)
+### [onepoint](https://github.com/onepointAI/onepoint)
 
-`FeHelper`--Web 前端助手，提供了非常多的常用开发工具，支持 `Chrome&Firefox&MS-Edge`，是我浏览器必备的一款插件：
+Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
 
-![FeHelper](https://images-1252557999.file.myqcloud.com/uPic/FeHelper.png) 
+借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
 
-### [qinglong_app](https://github.com/relax976/qinglong_app)
+![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
 
-之前推荐过 [qinglong](https://github.com/whyour/qinglong)（一款支持python3、javaScript、shell、typescript 的定时任务管理软件），这是青龙面板开源的第三方APP，之前都是要付费，现在免费开源开放出来了：
+### [Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker)
 
-![ql_app](https://images-1252557999.file.myqcloud.com/uPic/ql_app.jpg) 
+`Smart-AutoClicker` 是一个开源的自动点击软件，专为 `Android` 设备设计，能够基于图像检测来自动化重复性任务，同时提供了传统的自动点击功能：
 
-### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+![44OJR2](https://images-1252557999.file.myqcloud.com/uPic/44OJR2.png) 
 
-`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+### [MissionBackup](https://github.com/Hellager/MissionBackup)
 
-![appflowy](https://images-1252557999.file.myqcloud.com/uPic/JhzdLT.jpg) 
+本地备份软件：
+
+- 基于 Tauri，兼顾了 web 前端和 rust 后端
+- 5MB 的安装包，15MB 的程序，多平台可用
+- 基于 cron 和 notify 实现对目标定时/监控备份
+- 可自定义备份保存时长和空间
+- 通过图表直观展示备份情况
+- 完善的文档支持
+
+![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
 
 ## 👀 资料 
 
-### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
+### [bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain)
 
-Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
+它为希望构建自己的基于检索增强生成（RAG）应用程序的开发者提供了一系列的资源和指导。该项目涵盖了从基础到高级的 RAG 实现，包括多查询、自定义 RAG 管道、高级检索和重排技术。仓库中包含了一系列的教程笔记本，这些笔记本详细介绍了 RAG 架构的设置、数据预处理、嵌入生成、向量存储、多查询技术、逻辑和语义路由、查询结构化、高级索引和检索技术等。
 
-### [comprehensive-rust](https://google.github.io/comprehensive-rust/welcome.html)
+![bRAG-langchain](https://images-1252557999.file.myqcloud.com/uPic/u0SkKz.png) 
 
-谷歌出品的四天学习 `Rust` 👀
+### [grammar-club](https://github.com/llwslc/grammar-club)
 
-![comprehensive-rust](https://images-1252557999.file.myqcloud.com/uPic/comprehensive-rust.jpg) 
+旋元佑老师的语法俱乐部书籍电子版，在线阅读[地址](https://llwslc.github.io/grammar-club/content/Preface.html)：
 
-### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
+![grammar-club](https://images-1252557999.file.myqcloud.com/uPic/grammar-club.jpg) 
 
-一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-![NhkQDk](https://images-1252557999.file.myqcloud.com/uPic/NhkQDk.jpg) 
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
 ## 🕸 网站 
 
-### [buyoncesoftware.com](https://buyoncesoftware.com)
+### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
 
-一份满足购买一次，终身使用软件名单：
+老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
 
-![buyoncesoftware](https://images-1252557999.file.myqcloud.com/uPic/HuYvwg.png) 
+![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
 
-### [webutils](https://www.webutils.app/)
+### [123apps](https://123apps.com/cn/)
 
-一个提供web小工具的网站，比如：
+网站提供了一系列的小工具，包含分类：
 
-- 文本比较
-- 图片压缩
-- 图片转换
+- 视频工具
+- 音频工具
+- PDF 工具
+- 转换器
+- ......
 
-![webutils](https://images-1252557999.file.myqcloud.com/uPic/ijDiPA.png) 
+![123apps](https://images-1252557999.file.myqcloud.com/uPic/123apps.jpg) 
 
-### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
+### [transhumans](https://www.transhumans.xyz/)
 
-唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
+免费可商用的人物插图：
 
-![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
+![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
 
 ## ✍️ 说明
 
