@@ -5,74 +5,55 @@
 
 ## 🎯 项目 
 
-### [ddns-go](https://github.com/jeessy2/ddns-go)
+### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
 
-简单好用的 `DDNS`，自动更新域名解析到公网IP(支持阿里云、腾讯云 `dnspod`、`Cloudflare`、华为云、百度云、`porkbun`)：
+`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
 
-![ddns-go](https://images-1252557999.file.myqcloud.com/uPic/ddns-go.png) 
+![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
 
-### [privaxy](https://github.com/Barre/privaxy)
+### [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
 
-Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
+强大的少样本语音转换与语音合成Web用户界面，低成本 AI 语音克隆项目，感兴趣可以查看介绍[视频](https://www.bilibili.com/video/BV12g4y1m7Uw/) 。
 
-![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
+![GPT-SoVITS](https://images-1252557999.file.myqcloud.com/uPic/GPT-SoVITS.jpg) 
 
-还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
+### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
 
-### [xiaomusic](https://github.com/hanxi/xiaomusic)
+基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
 
-使用小爱/红米音箱播放音乐，音乐使用 `yt-dlp` 下载：
-
-- 播放歌曲
-- 播放歌曲+歌名 比如：播放歌曲周杰伦晴天
-- 下一首
-- 单曲循环
-- 全部循环
-
-支持 `Docker` 部署和简单管理界面。 
+![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
 
 ## 🤖 软件 
 
-### [onepoint](https://github.com/onepointAI/onepoint)
+### [wowtab](https://wowtab.microsoft.com/)
 
-Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
+微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：
 
-借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
+![wowtab](https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg) 
 
-![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
+### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
 
-### [Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker)
+针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
 
-`Smart-AutoClicker` 是一个开源的自动点击软件，专为 `Android` 设备设计，能够基于图像检测来自动化重复性任务，同时提供了传统的自动点击功能：
+![netease-music-crx](https://images-1252557999.file.myqcloud.com/uPic/rkgRfw.png) 
 
-![44OJR2](https://images-1252557999.file.myqcloud.com/uPic/44OJR2.png) 
+### [Rectangle](https://github.com/rxhanson/Rectangle)
 
-### [MissionBackup](https://github.com/Hellager/MissionBackup)
+`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
 
-本地备份软件：
-
-- 基于 Tauri，兼顾了 web 前端和 rust 后端
-- 5MB 的安装包，15MB 的程序，多平台可用
-- 基于 cron 和 notify 实现对目标定时/监控备份
-- 可自定义备份保存时长和空间
-- 通过图表直观展示备份情况
-- 完善的文档支持
-
-![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
+![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
 
 ## 👀 资料 
 
-### [bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain)
+### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
 
-它为希望构建自己的基于检索增强生成（RAG）应用程序的开发者提供了一系列的资源和指导。该项目涵盖了从基础到高级的 RAG 实现，包括多查询、自定义 RAG 管道、高级检索和重排技术。仓库中包含了一系列的教程笔记本，这些笔记本详细介绍了 RAG 架构的设置、数据预处理、嵌入生成、向量存储、多查询技术、逻辑和语义路由、查询结构化、高级索引和检索技术等。
+学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
 
-![bRAG-langchain](https://images-1252557999.file.myqcloud.com/uPic/u0SkKz.png) 
+![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
 
-### [grammar-club](https://github.com/llwslc/grammar-club)
+### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
 
-旋元佑老师的语法俱乐部书籍电子版，在线阅读[地址](https://llwslc.github.io/grammar-club/content/Preface.html)：
-
-![grammar-club](https://images-1252557999.file.myqcloud.com/uPic/grammar-club.jpg) 
+该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
 
 ### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
@@ -80,29 +61,26 @@ Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌
 
 ## 🕸 网站 
 
-### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
+### [removebg](https://www.remove.bg/zh)
 
-老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
+这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
 
-![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
+![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
 
-### [123apps](https://123apps.com/cn/)
+### [svgl.app](https://svgl.app/)
 
-网站提供了一系列的小工具，包含分类：
+漂亮的 `SVG` 图标库，使用 `Sveltekit` 和 `Tailwind CSS` 构建：
 
-- 视频工具
-- 音频工具
-- PDF 工具
-- 转换器
-- ......
+- 官网：https://svgl.app/
+- 开源：[pheralb/svgl](https://github.com/pheralb/svgl)
 
-![123apps](https://images-1252557999.file.myqcloud.com/uPic/123apps.jpg) 
+![svgl](https://images-1252557999.file.myqcloud.com/uPic/svgl.jpg) 
 
-### [transhumans](https://www.transhumans.xyz/)
+### [ossinsight](https://ossinsight.io/)
 
-免费可商用的人物插图：
+`GitHub` 曾经发通知说在未来某个时间下架 `GitHub Trending`，由于反对声音比较大，所以还保留着 [ossinsight.io](https://ossinsight.io/) 就是做的比较好的替代品：
 
-![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
+![ossinsight](https://images-1252557999.file.myqcloud.com/uPic/ossinsight.jpg) 
 
 ## ✍️ 说明
 
