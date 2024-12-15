@@ -5,82 +5,95 @@
 
 ## 🎯 项目 
 
-### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
+### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
 
-`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
+一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
 
-![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
+![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
 
-### [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+你可以直接[在线体验](https://letsmarkdown.com/)。 
 
-强大的少样本语音转换与语音合成Web用户界面，低成本 AI 语音克隆项目，感兴趣可以查看介绍[视频](https://www.bilibili.com/video/BV12g4y1m7Uw/) 。
+### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 
-![GPT-SoVITS](https://images-1252557999.file.myqcloud.com/uPic/GPT-SoVITS.jpg) 
+免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
 
-### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
+![rxresu](https://images-1252557999.file.myqcloud.com/uPic/rxresu.jpg) 
 
-基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
+### [cnchar](https://github.com/theajack/cnchar)
 
-![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
+功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
+
+![cnchar](https://images-1252557999.file.myqcloud.com/uPic/cnchar.jpeg) 
 
 ## 🤖 软件 
 
-### [wowtab](https://wowtab.microsoft.com/)
+### [epubkit](https://beta.epubkit.app/)
 
-微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：
+挺多人有这种需求的，将网页转化成电子书：
 
-![wowtab](https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg) 
+![epubkit](https://images-1252557999.file.myqcloud.com/uPic/epubkit.png)
 
-### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
+之前推荐的 [EpubPress](https://epub.press/) 也是类似功能，可以结合在一起体验试试。 
 
-针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
+### [codeapp](https://github.com/thebaselab/codeapp)
 
-![netease-music-crx](https://images-1252557999.file.myqcloud.com/uPic/rkgRfw.png) 
+为 `iPad` 构建一个成熟的代码编辑器：
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
+![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
 
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+### [UTM](https://github.com/utmapp/UTM)
 
-![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
+开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
+
+![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
 
 ## 👀 资料 
 
-### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
 
-学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
+从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
 
-![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
+![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
-### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
+### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
 
-该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
+从工程角度方方面面阐述了DevOps实施的过程:
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+
+命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
 
 ## 🕸 网站 
 
-### [removebg](https://www.remove.bg/zh)
+### [文学网](https://www.hwxnet.com/)
 
-这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
+文学相关工具在线网站：
 
-![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
 
-### [svgl.app](https://svgl.app/)
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
-漂亮的 `SVG` 图标库，使用 `Sveltekit` 和 `Tailwind CSS` 构建：
+### [LLM Visualization](https://bbycroft.net/llm)
 
-- 官网：https://svgl.app/
-- 开源：[pheralb/svgl](https://github.com/pheralb/svgl)
+将 GPT LLM 大模型进行可视化分析：
 
-![svgl](https://images-1252557999.file.myqcloud.com/uPic/svgl.jpg) 
+![bbycroft](https://images-1252557999.file.myqcloud.com/uPic/bbycroft.jpg) 
 
-### [ossinsight](https://ossinsight.io/)
+### [duckduckgo-chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
 
-`GitHub` 曾经发通知说在未来某个时间下架 `GitHub Trending`，由于反对声音比较大，所以还保留着 [ossinsight.io](https://ossinsight.io/) 就是做的比较好的替代品：
+`DuckDuckGo` 开放了免费的 `AI` 聊天机器人，支持模型有：
 
-![ossinsight](https://images-1252557999.file.myqcloud.com/uPic/ossinsight.jpg) 
+- GPT-3.5 Turbo
+- Claude 1.2 Instant
+
+![duckduckgo_chat](https://images-1252557999.file.myqcloud.com/uPic/duckduckgo_chat.jpg) 
 
 ## ✍️ 说明
 
