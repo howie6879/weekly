@@ -12,7 +12,87 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Mon, 09 Dec 2024 01:10:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 09:37:22 +0000</lastBuildDate>
+    <item>
+      <title>12-09~12-15.老胡的周刊（第171期）.md</title>
+      <link>https://weekly.howie6879.com/2024/12-09~12-15.老胡的周刊（第171期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/12-09~12-15.老胡的周刊（第171期）.html"&gt;12-09~12-15.老胡的周刊（第171期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/DioxusLabs/dioxus"&gt;dioxus&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个 &lt;code&gt;Rust&lt;/code&gt; 全栈应用框架，支持 Web、桌面、移动和更多平台的开发：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="dioxus" src="https://images-1252557999.file.myqcloud.com/uPic/GOLB2g.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/eyelly-wu/appstore-discounts"&gt;appstore-discounts&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源的 App Store 折扣信息助手，基于 GitHub Actions 实现，支持 RSS，Telegram 和钉钉通知：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;支持任意 国家或地区 的 App Store （理论上🤔）&lt;/li&gt;
+&lt;li&gt;支持追踪 应用本体 的价格和 App 内购买项目 的价格&lt;/li&gt;
+&lt;li&gt;支持多种方式订阅折扣信息&lt;/li&gt;
+&lt;li&gt;开源免费，任何人可参与贡献&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Huanshere/VideoLingo"&gt;VideoLingo&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;VideoLingo&lt;/code&gt; 是一站式视频翻译本地化配音工具，能够一键生成 &lt;code&gt;Netflix&lt;/code&gt; 级别的高质量字幕，告别生硬机翻，告别多行字幕，还能加上高质量的克隆配音，让全世界的知识能够跨越语言的障碍共享。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="VideoLingo" src="https://images-1252557999.file.myqcloud.com/uPic/zx9wH1.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/null2264/yokai"&gt;yokai&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个免费且开源的安卓漫画阅读器：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="yokai" src="https://images-1252557999.file.myqcloud.com/uPic/Qy2ZHb.png" /&gt;&lt;/p&gt;
+&lt;p&gt;之前还推荐免费漫画软件还有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/Jays2Kings/tachiyomiJ2K"&gt;tachiyomiJ2K&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/KotatsuApp/Kotatsu"&gt;Kotatsu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/niuhuan/kobi"&gt;kobi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/aniyomiorg/aniyomi"&gt;aniyomi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/aooiuu/any-reader"&gt;any-reader&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/miru-project/miru-app"&gt;miru-app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/hongchacha/cartoon"&gt;全是漫画&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;更多去周刊网站检索漫画关键词👉&lt;a href="https://weekly.howie6879.com/?q=%E6%BC%AB%E7%94%BB"&gt;周刊漫画项目推荐&lt;/a&gt;。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ZhuJHua/moodiary"&gt;moodiary&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;「心绪日记」 是一个由 Flutter 构建的开源跨平台日记应用：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;跨平台支持：🌍 兼容 Android、iOS&lt;em&gt;、Windows&lt;/em&gt;、MacOS*、Linux。&lt;/li&gt;
+&lt;li&gt;Material Design：🎨 界面直观且用户友好，遵循 Material Design 设计规范。&lt;/li&gt;
+&lt;li&gt;富文本编辑：📝 支持加粗、斜体、下划线等多种格式的文本编辑。&lt;/li&gt;
+&lt;li&gt;多媒体附件：📷 可以为你的日记添加图片、音频、视频甚至画一张画。&lt;/li&gt;
+&lt;li&gt;搜索和分类：🔍 轻松通过全文搜索及分类管理你的日记。&lt;/li&gt;
+&lt;li&gt;自定义主题：🌈 支持浅色和深色模式，以及多种配色的主题。&lt;/li&gt;
+&lt;li&gt;数据安全：🔒 通过密码来保障你的日记安全，支持通过生物识别解锁。&lt;/li&gt;
+&lt;li&gt;导出和分享：🧾 支持所有数据的导入/导出，以及单篇日记的分享。&lt;/li&gt;
+&lt;li&gt;备份与同步：☁ 支持局域网同步，快速在设备间同步数据，以及 WebDav 备份。&lt;/li&gt;
+&lt;li&gt;足迹地图：🗺️ 在地图上查看你足迹，生活中的每一步都值得被记录。&lt;/li&gt;
+&lt;li&gt;智能助手：💬 支持接入第三方大模型，提供问答、情绪分析等功能。&lt;/li&gt;
+&lt;li&gt;本地自然语言处理（NLP）：🤖 更安全的智能助手，让你的日记更懂你。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="moodiary" src="https://images-1252557999.file.myqcloud.com/uPic/plSfAq.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/souzatharsis/tamingLLMs"&gt;tamingLLMs&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一份关于如何克服大型语言模型（LLMs）实际应用中的陷阱的实用指南。该指南以 Python 示例和开源软件为基础，提供了一个介绍性而全面的参考，专注于具体问题，如处理非结构化输出、管理上下文窗口、输出长度限制、非确定性机器、幻觉现象、安全问题以及成本因素&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://devtoolstips.org/"&gt;devtoolstips&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一系列简单易懂的跨浏览器技巧和窍门，让你在使用开发者工具时更加得心应手和高效：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="devtoolstips" src="https://images-1252557999.file.myqcloud.com/uPic/vHP9UU.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://cursor.directory/"&gt;cursor.directory&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于你在用的框架或者语言，提供最好的 curson 规则。也开源在 &lt;a href="https://github.com/pontusab/cursor.directory"&gt;github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="cursor.directory" src="https://images-1252557999.file.myqcloud.com/uPic/ygOBRk.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ViggoZ/json-translate/blob/main/README.zh.md"&gt;json-translate&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;AI驱动的JSON国际化翻译工具，免费在线JSON翻译工具，支持40+种语言，由AI驱动：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="json-translate" src="https://images-1252557999.file.myqcloud.com/uPic/IzziYk.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">12-09~12-15.老胡的周刊（第171期）.md</guid>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>11-25~12-08.老胡的周刊（第170期）.md</title>
       <link>https://weekly.howie6879.com/2024/11-25~12-08.老胡的周刊（第170期）.html</link>
@@ -1194,82 +1274,6 @@ curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/rel
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">07-22~07-28.老胡的周刊（第152期）.md</guid>
       <pubDate>Sun, 28 Jul 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>07-15~07-21.老胡的周刊（第151期）.md</title>
-      <link>https://weekly.howie6879.com/2024/07-15~07-21.老胡的周刊（第151期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/07-15~07-21.老胡的周刊（第151期）.html"&gt;07-15~07-21.老胡的周刊（第151期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://docs.lavague.ai/"&gt;lavague&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;lavague&lt;/code&gt; 是 &lt;code&gt;AI Web Agents&lt;/code&gt; 开发框架，它可以作为你的一个基于浏览器的助手来辅助工作，能做什么就取决于你的想象力，老胡目前用来做一些数据自动抓取格式化的工作：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="lavague" src="https://images-1252557999.file.myqcloud.com/uPic/lavague.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/gcui-art/album-ai"&gt;album-ai&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;挺有想法的项目，基于 &lt;code&gt;gpt-4o-mini&lt;/code&gt; 作为视觉模型，自动识别出相册中图像文件的元信息，然后借助 &lt;code&gt;RAG&lt;/code&gt; 技术，实现了与相册对话的能力：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="album-ai" src="https://images-1252557999.file.myqcloud.com/uPic/album-ai.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/mindoc-org/mindoc"&gt;mindoc&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;MinDoc&lt;/code&gt; 是一款针对 &lt;code&gt;IT&lt;/code&gt; 团队开发的简单好用的文档管理系统，可以用来储存日常接口文档，数据库字典，手册说明等文档。内置项目管理，用户管理，权限管理等功能，能够满足大部分中小团队的文档管理需求。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="mindoc" src="https://images-1252557999.file.myqcloud.com/uPic/mindoc.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/jingsongliujing/OnnxOCR"&gt;OnnxOCR&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;基于 &lt;code&gt;PaddleOCR&lt;/code&gt; 重构，并且脱离PaddlePaddle深度学习训练框架的轻量级 &lt;code&gt;OCR&lt;/code&gt;，推理速度超快。&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/aooiuu/any-reader"&gt;any-reader&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;多平台自定义源资源聚合工具，支持看小说、漫画、视频等：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;跨平台: Windows、Mac、Linux&lt;/li&gt;
-&lt;li&gt;多应用: 桌面端、网页端、Docker、VSCode插件、 uTools 插件、rubick 插件&lt;/li&gt;
-&lt;li&gt;多类型：小说、漫画、视频、音频&lt;/li&gt;
-&lt;li&gt;自定义源：通过 XPath、JSONPath、CSS选择器、正则、JS等轻松编写规则&lt;/li&gt;
-&lt;li&gt;生态兼容：兼容 eso 源&lt;/li&gt;
-&lt;li&gt;资源站接入：支持导入苹果CMS、ZyPlayer&lt;/li&gt;
-&lt;li&gt;开放解析库：规则解析库分离, 你可以使用解析库开发自己的程序&lt;/li&gt;
-&lt;li&gt;本地资源支持：支持本地小说格式 TXT、Epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="any-reader" src="https://images-1252557999.file.myqcloud.com/uPic/any-reader.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/ayangweb/EcoPaste"&gt;EcoPaste&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一款开源的跨平台剪切板管理工具：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;使用 Tauri 构建项目，使其更加小巧精致，资源占用更少，同时适配多个平台。&lt;/li&gt;
-&lt;li&gt;应用常驻后台，通过自定义快捷键一键唤醒，节省时间，提高效率。&lt;/li&gt;
-&lt;li&gt;所有剪切板内容均在本地存储，确保数据隐私和安全。&lt;/li&gt;
-&lt;li&gt;支持纯文本、富文本、HTML、图片和文件类型。&lt;/li&gt;
-&lt;li&gt;根据剪切板内容类型自动进行分组，便于高效管理。&lt;/li&gt;
-&lt;li&gt;支持收藏剪切板内容，便于快速访问和管理重要信息。&lt;/li&gt;
-&lt;li&gt;内置搜索功能，轻松找到剪切板上的任何内容。&lt;/li&gt;
-&lt;li&gt;图片内置系统 OCR 功能，支持文本和二维码识别。&lt;/li&gt;
-&lt;li&gt;提供丰富的右键菜单，增强操作便捷性。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="EcoPaste" src="https://images-1252557999.file.myqcloud.com/uPic/EcoPaste.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Taiizor/Sucrose"&gt;Sucrose&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Sucrose&lt;/code&gt; 是一款开源的桌面壁纸引擎，支持轻量和深色主题，适应多屏和各种分辨率，能创建响应媒体和系统状态的动态壁纸，支持自定义主题和从社区下载主题，优化了 &lt;code&gt;CPU&lt;/code&gt; 和 &lt;code&gt;GPU&lt;/code&gt; 使用，节能模式可在笔记本电脑上自动暂停壁纸:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Sucrose" src="https://images-1252557999.file.myqcloud.com/uPic/Sucrose.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/FutureUniant/Tailor"&gt;Tailor&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Tailor（中文简称：泰勒）是一款视频智能裁剪、视频生成和视频优化的工具。目前该项目包括了视频剪辑、视频生成和视频优化3大类视频处理方向，共10种方法。Tailor使用方法简单，点点鼠标即可使用最先进的人工智能进行视频处理工作，省时省力，若使用安装版本Tailor，所有的环境配置都可省掉，对用户特别友好。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Tailor" src="https://images-1252557999.file.myqcloud.com/uPic/Tailor.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://mcgr3mdbak.feishu.cn/docx/NxjvdvYmLoXOvgxBP1ocFwRbn5g"&gt;企业如何拥抱 AI（周鸿祎）&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="qyybai" src="https://images-1252557999.file.myqcloud.com/uPic/yjvbm2.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://v0.dev/"&gt;v0.dev&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;描述生成 UI，一个 AI 大模型驱动的 UI 设计网站，很不错：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="v0_dev" src="https://images-1252557999.file.myqcloud.com/uPic/v0_dev.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://openalternative.co/"&gt;openalternative&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;网站提供了一些项目的开源选择：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="openalternative" src="https://images-1252557999.file.myqcloud.com/uPic/openalternative.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">07-15~07-21.老胡的周刊（第151期）.md</guid>
-      <pubDate>Sun, 21 Jul 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
