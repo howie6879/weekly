@@ -5,95 +5,95 @@
 
 ## 🎯 项目 
 
-### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
+### [OnnxOCR](https://github.com/jingsongliujing/OnnxOCR)
 
-一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
+基于 `PaddleOCR` 重构，并且脱离PaddlePaddle深度学习训练框架的轻量级 `OCR`，推理速度超快。 
 
-![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
+### [monaco-editor](https://github.com/microsoft/monaco-editor)
 
-你可以直接[在线体验](https://letsmarkdown.com/)。 
+微软开源的 `Web` 编辑器：
 
-### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+![monaco-editor](https://images-1252557999.file.myqcloud.com/uPic/monaco-editor.png) 
 
-免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
+### [ChatGPT 项目推荐](https://weekly.howie6879.com/2023/02-13~02-18.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC079%E6%9C%9F%EF%BC%89.html?h=chatgpt#chatgpt)
 
-![rxresu](https://images-1252557999.file.myqcloud.com/uPic/rxresu.jpg) 
+基于 `ChatGPT` 相关接口衍生的项目：
 
-### [cnchar](https://github.com/theajack/cnchar)
-
-功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等)
-
-![cnchar](https://images-1252557999.file.myqcloud.com/uPic/cnchar.jpeg) 
+- [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)：显示 `ChatGPT` 响应和 `Google` 搜索结果的浏览器扩展
+- [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)：将 `ChatGPT` 集成到互联网上的每个文本框中。
+- [周报生成器](https://weeklyreport.avemaria.fun/zh)：简单描述工作内容帮你生成完整周报
+- [README 生成器](https://readme.rustc.cloud/zh)：帮你生成完整 Github README
+- [邮件生成器](https://email-helper.vercel.app/)：几秒钟内生成多语言商务邮件
+- [Teach Anything](https://www.teach-anything.com/)：几秒钟内得到想要的答案
+- [聊天简化器](https://chat-simplifier.imzbb.cc/zh)：简化聊天记录内容
+- [SiteExplainer](https://siteexplainer.vercel.app/)：输入网址，快速总结网站内容
+- [Dear Aibby](https://www.dearaibby.com/)：来自新机器灵魂的衷心建议
+- [TextSummarizer](https://text-summarizer-seven.vercel.app/)：在几秒钟内从文本生成摘要
+- [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)：支持 `ChatGPT` 的 `Visual Studio Code` 扩展，可以与 `ChatGPT` 配对编程
+- [editGPT](https://chrome.google.com/webstore/detail/editgpt/mognjodfeldknhobgbnkoomipkmlnnhk)：利用 ChatGPT 做文案修改编辑 
 
 ## 🤖 软件 
 
-### [epubkit](https://beta.epubkit.app/)
+### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
 
-挺多人有这种需求的，将网页转化成电子书：
+一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
 
-![epubkit](https://images-1252557999.file.myqcloud.com/uPic/epubkit.png)
+![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
 
-之前推荐的 [EpubPress](https://epub.press/) 也是类似功能，可以结合在一起体验试试。 
+### [Bonjourr](https://github.com/victrme/Bonjourr)
 
-### [codeapp](https://github.com/thebaselab/codeapp)
+`Bonjourr` 是法语你好的意思，这是一个简约漂亮的起始页浏览器插件：
 
-为 `iPad` 构建一个成熟的代码编辑器：
+![Bonjourr](https://images-1252557999.file.myqcloud.com/uPic/Bonjourr.jpg) 
 
-![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
+### [Ice](https://github.com/jordanbaird/Ice)
 
-### [UTM](https://github.com/utmapp/UTM)
+`Mac` 桌面顶部菜单图标管理工具，可以控制哪些展示，哪些隐藏，`Bartender` 的开源免费替代产品：
 
-开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
-
-![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
+![Ice](https://images-1252557999.file.myqcloud.com/uPic/Ice.png) 
 
 ## 👀 资料 
 
-### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
+### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 
-从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
+以非常直观的语言介绍`pytorch`：
 
-![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
+![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
 
-### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
+作者的同类电子书还有：
 
-从工程角度方方面面阐述了DevOps实施的过程:
+- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
 
-![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
+### [opensource-f2f](https://github.com/opensource-f2f)
 
-### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+《开源面对面》是一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。
 
-命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
+![osf2f](https://images-1252557999.file.myqcloud.com/uPic/osf2f.jpg) 
+
+### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
+
+此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
 
 ## 🕸 网站 
 
-### [文学网](https://www.hwxnet.com/)
+### [visalist](https://visalist.io)
 
-文学相关工具在线网站：
+网站交互样式都还不错，主要提供旅游签证、过境签证、数字游民签证等信息：
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
+![ybt76d](https://images-1252557999.file.myqcloud.com/uPic/ybt76d.png) 
 
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+### [ocr.plantree.me](https://ocr.plantree.me/ocr)
 
-### [LLM Visualization](https://bbycroft.net/llm)
+一个基于 `Tesseract` 的简单 `OCR` 软件：
 
-将 GPT LLM 大模型进行可视化分析：
+![plantree](https://images-1252557999.file.myqcloud.com/uPic/plantree.jpg) 
 
-![bbycroft](https://images-1252557999.file.myqcloud.com/uPic/bbycroft.jpg) 
+### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
 
-### [duckduckgo-chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
+一个搜索 git 常用 emoji 的网站:
 
-`DuckDuckGo` 开放了免费的 `AI` 聊天机器人，支持模型有：
-
-- GPT-3.5 Turbo
-- Claude 1.2 Instant
-
-![duckduckgo_chat](https://images-1252557999.file.myqcloud.com/uPic/duckduckgo_chat.jpg) 
+![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
 
 ## ✍️ 说明
 
