@@ -5,95 +5,86 @@
 
 ## 🎯 项目 
 
-### [OnnxOCR](https://github.com/jingsongliujing/OnnxOCR)
+### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 
-基于 `PaddleOCR` 重构，并且脱离PaddlePaddle深度学习训练框架的轻量级 `OCR`，推理速度超快。 
+`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
 
-### [monaco-editor](https://github.com/microsoft/monaco-editor)
+![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
 
-微软开源的 `Web` 编辑器：
+### [pushdeer](https://github.com/easychen/pushdeer)
 
-![monaco-editor](https://images-1252557999.file.myqcloud.com/uPic/monaco-editor.png) 
+开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备：
 
-### [ChatGPT 项目推荐](https://weekly.howie6879.com/2023/02-13~02-18.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC079%E6%9C%9F%EF%BC%89.html?h=chatgpt#chatgpt)
+![pushdeer](https://images-1252557999.file.myqcloud.com/uPic/pushdeer.jpg) 
 
-基于 `ChatGPT` 相关接口衍生的项目：
+### [autocorrect](https://github.com/huacnlee/autocorrect)
 
-- [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)：显示 `ChatGPT` 响应和 `Google` 搜索结果的浏览器扩展
-- [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)：将 `ChatGPT` 集成到互联网上的每个文本框中。
-- [周报生成器](https://weeklyreport.avemaria.fun/zh)：简单描述工作内容帮你生成完整周报
-- [README 生成器](https://readme.rustc.cloud/zh)：帮你生成完整 Github README
-- [邮件生成器](https://email-helper.vercel.app/)：几秒钟内生成多语言商务邮件
-- [Teach Anything](https://www.teach-anything.com/)：几秒钟内得到想要的答案
-- [聊天简化器](https://chat-simplifier.imzbb.cc/zh)：简化聊天记录内容
-- [SiteExplainer](https://siteexplainer.vercel.app/)：输入网址，快速总结网站内容
-- [Dear Aibby](https://www.dearaibby.com/)：来自新机器灵魂的衷心建议
-- [TextSummarizer](https://text-summarizer-seven.vercel.app/)：在几秒钟内从文本生成摘要
-- [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)：支持 `ChatGPT` 的 `Visual Studio Code` 扩展，可以与 `ChatGPT` 配对编程
-- [editGPT](https://chrome.google.com/webstore/detail/editgpt/mognjodfeldknhobgbnkoomipkmlnnhk)：利用 ChatGPT 做文案修改编辑 
+AutoCorrect 是一个基于 Rust 编写的工具，用于「自动纠正」或「检查并建议」文案，给 CJK（中文、日语、韩语）与英文混写的场景，补充正确的空格，纠正单词，同时尝试以安全的方式自动纠正标点符号等等。
+
+类似 ESlint、Rubocop、Gofmt 等工具，AutoCorrect 可以用于 CI 环境，它提供 Lint 功能，能便捷的检测出项目中有问题的文案，起到统一规范的作用。
+
+支持各种类型源代码文件，能自动识别文件名，并准确找到字符串、注释做自动纠正。
+
+![autocorrect](https://images-1252557999.file.myqcloud.com/uPic/autocorrect.png) 
 
 ## 🤖 软件 
 
-### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
+### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
 
-一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
+一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
 
-![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
+![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
 
-### [Bonjourr](https://github.com/victrme/Bonjourr)
+### [fubukicss-tool](https://github.com/zouhangwithsweet/fubukicss-tool)
 
-`Bonjourr` 是法语你好的意思，这是一个简约漂亮的起始页浏览器插件：
+解决 `Figma` 设计图查看代码需要升级付费的问题，该项目提供一个浏览器扩展，可以一步获取来自 `Figma` 设计图的 `TailwindCSS/Unocss/CSS` 代码，加速开发：
 
-![Bonjourr](https://images-1252557999.file.myqcloud.com/uPic/Bonjourr.jpg) 
+![fubukicss-tool](https://images-1252557999.file.myqcloud.com/uPic/fubukicss-tool.jpg) 
 
-### [Ice](https://github.com/jordanbaird/Ice)
+### [BlackHole](https://github.com/Sangwan5688/BlackHole)
 
-`Mac` 桌面顶部菜单图标管理工具，可以控制哪些展示，哪些隐藏，`Bartender` 的开源免费替代产品：
+一个适用于您所有需求的开源音乐播放器应用，高颜值、无广告、免费音乐播放器，拥有歌词、专辑、艺术家、播放列表、定时关闭等功能，支持 `Android、iOS、macOS` 系统：
 
-![Ice](https://images-1252557999.file.myqcloud.com/uPic/Ice.png) 
+![BlackHole](https://images-1252557999.file.myqcloud.com/uPic/BlackHole.png)
+![hole](https://images-1252557999.file.myqcloud.com/uPic/hole.jpg) 
 
 ## 👀 资料 
 
-### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+### [linux-command](https://github.com/jaywcjlove/linux-command)
 
-以非常直观的语言介绍`pytorch`：
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
 
-![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
+![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
 
-作者的同类电子书还有：
+### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
 
-- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+ Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
 
-### [opensource-f2f](https://github.com/opensource-f2f)
+ ![rust_embedded_dev](https://images-1252557999.file.myqcloud.com/uPic/rust_embedded_dev.jpg) 
 
-《开源面对面》是一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。
+### [overseas-website-note](https://github.com/princehuang/overseas-website-note)
 
-![osf2f](https://images-1252557999.file.myqcloud.com/uPic/osf2f.jpg) 
-
-### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
-
-此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
+本项目记录作者开发海外网站和设立跨境业务过程中的实践经验。 
 
 ## 🕸 网站 
 
-### [visalist](https://visalist.io)
+### [buzzing.cc](https://www.buzzing.cc/)
 
-网站交互样式都还不错，主要提供旅游签证、过境签证、数字游民签证等信息：
+用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读：
 
-![ybt76d](https://images-1252557999.file.myqcloud.com/uPic/ybt76d.png) 
+![buzzing](https://images-1252557999.file.myqcloud.com/uPic/buzzing.jpg) 
 
-### [ocr.plantree.me](https://ocr.plantree.me/ocr)
+### [pingli.app](https://www.pingli.app/)
 
-一个基于 `Tesseract` 的简单 `OCR` 软件：
+说出你们的分歧，让7位 `AI` 裁判评评理，挺有意思：
 
-![plantree](https://images-1252557999.file.myqcloud.com/uPic/plantree.jpg) 
+![pingli.app](https://images-1252557999.file.myqcloud.com/uPic/1gX0NC.png) 
 
-### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
+### [selfh](https://selfh.st/)
 
-一个搜索 git 常用 emoji 的网站:
+网站提供了可自建项目的动态，每周更新：
 
-![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
+![selfh](https://images-1252557999.file.myqcloud.com/uPic/jVlzyp.png) 
 
 ## ✍️ 说明
 
