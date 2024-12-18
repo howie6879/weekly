@@ -5,86 +5,87 @@
 
 ## 🎯 项目 
 
-### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
+### [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
-`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
+`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
 
-![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
+![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
 
-### [pushdeer](https://github.com/easychen/pushdeer)
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备：
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-![pushdeer](https://images-1252557999.file.myqcloud.com/uPic/pushdeer.jpg) 
+ ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
 
-### [autocorrect](https://github.com/huacnlee/autocorrect)
+### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
 
-AutoCorrect 是一个基于 Rust 编写的工具，用于「自动纠正」或「检查并建议」文案，给 CJK（中文、日语、韩语）与英文混写的场景，补充正确的空格，纠正单词，同时尝试以安全的方式自动纠正标点符号等等。
+一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
 
-类似 ESlint、Rubocop、Gofmt 等工具，AutoCorrect 可以用于 CI 环境，它提供 Lint 功能，能便捷的检测出项目中有问题的文案，起到统一规范的作用。
+![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
 
-支持各种类型源代码文件，能自动识别文件名，并准确找到字符串、注释做自动纠正。
-
-![autocorrect](https://images-1252557999.file.myqcloud.com/uPic/autocorrect.png) 
+你可以直接[在线体验](https://letsmarkdown.com/)。 
 
 ## 🤖 软件 
 
-### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
+### [Ice](https://github.com/jordanbaird/Ice)
 
-一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
+`Mac` 桌面顶部菜单图标管理工具，可以控制哪些展示，哪些隐藏，`Bartender` 的开源免费替代产品：
 
-![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
+![Ice](https://images-1252557999.file.myqcloud.com/uPic/Ice.png) 
 
-### [fubukicss-tool](https://github.com/zouhangwithsweet/fubukicss-tool)
+### [WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive)
 
-解决 `Figma` 设计图查看代码需要升级付费的问题，该项目提供一个浏览器扩展，可以一步获取来自 `Figma` 设计图的 `TailwindCSS/Unocss/CSS` 代码，加速开发：
+使用 腾讯 X5 WebView 开发的电视直播App，原理：加载直播网页，找到video标签自动全屏：
 
-![fubukicss-tool](https://images-1252557999.file.myqcloud.com/uPic/fubukicss-tool.jpg) 
+![WebViewTvLive](https://images-1252557999.file.myqcloud.com/uPic/JKdapa.png) 
 
-### [BlackHole](https://github.com/Sangwan5688/BlackHole)
+### [tvapk](https://github.com/Archmage83/tvapk)
 
-一个适用于您所有需求的开源音乐播放器应用，高颜值、无广告、免费音乐播放器，拥有歌词、专辑、艺术家、播放列表、定时关闭等功能，支持 `Android、iOS、macOS` 系统：
+收集各大 `AndroidTV` 的 `apk` 应用，可免费看各种vip和国外电影电视：
 
-![BlackHole](https://images-1252557999.file.myqcloud.com/uPic/BlackHole.png)
-![hole](https://images-1252557999.file.myqcloud.com/uPic/hole.jpg) 
+![tvapk](https://images-1252557999.file.myqcloud.com/uPic/tvapk.png) 
 
 ## 👀 资料 
 
-### [linux-command](https://github.com/jaywcjlove/linux-command)
+### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
 
-Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
+2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
 
-![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/AHWB7M.jpg)
 
-### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
+更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
 
- Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
+### [穷佐罗的Linux书](https://zorrozou.github.io/)
 
- ![rust_embedded_dev](https://images-1252557999.file.myqcloud.com/uPic/rust_embedded_dev.jpg) 
+穷佐罗的Linux书，挺不错的一份`Linux`教程。
 
-### [overseas-website-note](https://github.com/princehuang/overseas-website-note)
+![zorrozou](https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg) 
 
-本项目记录作者开发海外网站和设立跨境业务过程中的实践经验。 
+### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+
+《Software Engineering at Google》的中文翻译版本：
+
+![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
 
 ## 🕸 网站 
 
-### [buzzing.cc](https://www.buzzing.cc/)
+### [calmcode](https://calmcode.io/)
 
-用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读：
+非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
 
-![buzzing](https://images-1252557999.file.myqcloud.com/uPic/buzzing.jpg) 
+![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
 
-### [pingli.app](https://www.pingli.app/)
+### [动漫新番表](https://www.fre123.com/anime/n)
 
-说出你们的分歧，让7位 `AI` 裁判评评理，挺有意思：
+继上周做了[动漫搜索引擎](https://www.fre123.com/anime/s)后，老胡这次整了个动漫新番信息记录网站，新番信息脚本和数据都是开源的👉[fre123-anime](https://github.com/fre123-com/fre123-anime)，欢迎体验：
 
-![pingli.app](https://images-1252557999.file.myqcloud.com/uPic/1gX0NC.png) 
+![fre123_anime_n](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime_n.jpg) 
 
-### [selfh](https://selfh.st/)
+### [zerogpt](https://www.zerogpt.com/)
 
-网站提供了可自建项目的动态，每周更新：
+由 `ZeroGPT` 开发的 `GPT-4，ChatGPT` AI 内容检测器：
 
-![selfh](https://images-1252557999.file.myqcloud.com/uPic/jVlzyp.png) 
+![zerogpt](https://images-1252557999.file.myqcloud.com/uPic/zerogpt.jpg) 
 
 ## ✍️ 说明
 
