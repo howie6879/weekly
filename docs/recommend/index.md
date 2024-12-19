@@ -5,87 +5,123 @@
 
 ## 🎯 项目 
 
-### [ProxiTok](https://github.com/pablouser1/ProxiTok)
+### [poster-design](https://github.com/palxiao/poster-design)
 
-`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
+一款漂亮且功能强大的在线海报图片设计器，仿稿定设计。适用于海报图片生成、电商分享图、文章长图、视频/公众号封面等多种场景，不过需要注意的是项目后端服务没有开源，特性如下：
 
-![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
+- 导入 PSD 文件解析成模板、在线导出图片下载
+- 元素拖拽、组合、缩放、层级调整、对齐等操作。
+- 图片素材插入、替换、裁剪，图片容器等功能。
+- SVG 素材颜色、透明度编辑，文字花字组合。
+- 画布自定义尺寸、滚轮缩放、自适应画布
+- 吸附对齐、辅助引导线、标尺功能。
+- 键盘快捷键、右键菜单快捷操作，复制删除等常用操作。
+- 风格二维码编辑，支持单色、渐变、自定义 logo 等。
+- 图层操作，支持拖拽变更层级。
+- 颜色调色板，原生级取色器颜色吸管（Chrome）
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
+![poster-design](https://images-1252557999.file.myqcloud.com/uPic/poster-design.jpg) 
 
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+### [onelist](https://github.com/msterzhang/onelist)
 
- ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
+一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序:
 
-### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
+- alist挂载云盘后能在网页端看视频，却没有分类，没有海报墙
+- 使用webdav挂载本地后，用jellyfin或者emby刮削会下载视频截取封面导致封号
+- 用jellyfin或者emby之类，没有大带宽公网ip，在外难以访问
 
-一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
+![onelist](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-4-5997957576333046318-y.jpg) 
 
-![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
+### [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)
 
-你可以直接[在线体验](https://letsmarkdown.com/)。 
+一个油猴脚本，让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤，还可以取消后台监管审计：
+
+- 解决了报错：NetworkError when attempting to fetch resource.
+- 解决了报错：Something went wrong. If this issue persists please contact us through our help center at help.openai.com.
+- 解决了报错：Conversation not found
+- 自由取消后台监管审计：This content may violate our content policy. If you believe this to be in error, please submit your feedback — your input will aid our research in this area.
+- 解决被频繁地打断交流
+- 解决频繁地刷新网页
+- 支持多国语言
+- 解决用户手误复制用户头像里的用户名的问题
+- 兼容移动端
+
+![KeepChatGPT](https://images-1252557999.file.myqcloud.com/uPic/KeepChatGPT.png) 
 
 ## 🤖 软件 
 
-### [Ice](https://github.com/jordanbaird/Ice)
+### [Upscayl](https://github.com/upscayl/upscayl)
 
-`Mac` 桌面顶部菜单图标管理工具，可以控制哪些展示，哪些隐藏，`Bartender` 的开源免费替代产品：
+开源免费的跨平台无损图片放大工具：
 
-![Ice](https://images-1252557999.file.myqcloud.com/uPic/Ice.png) 
+![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
 
-### [WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive)
+### [VueTube](https://github.com/VueTubeApp/VueTube)
 
-使用 腾讯 X5 WebView 开发的电视直播App，原理：加载直播网页，找到video标签自动全屏：
+轻巧的开放源代码流媒体客户端，旨在再造不同流媒体应用程序的所有功能：
 
-![WebViewTvLive](https://images-1252557999.file.myqcloud.com/uPic/JKdapa.png) 
+- 🎨  **主题**：明亮、黑暗、OLED，以及彩虹中的任何颜色！您可根据您的喜好选择强调色和背景色。
+- 🖌️  **自定义使用者界面**：自定义主题，甚至停用您不使用的一些界面，以获得最佳体验。
+- ⬆️  **自动更新**：有新版本可用时接收通知，如果您不喜欢也可以撤销更新！
+- 👁️  **追踪阻断**：VueTube 默认不会发送任何跟踪数据，亦不使用任何外部 API。隐私是必要的！
+- 📺  **自家制的 HTML5 视频播放器**：内置在应用程序的播放器，拥有您所需的任何功能，例如 16 倍速。
+- 🌍  **翻译**： 本应用程序支持超过 25 种语言！默认语言因您的设备配置而定。 
 
-### [tvapk](https://github.com/Archmage83/tvapk)
+### [ruzz](https://github.com/vlts1/ruzz)
 
-收集各大 `AndroidTV` 的 `apk` 应用，可免费看各种vip和国外电影电视：
+`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
 
-![tvapk](https://images-1252557999.file.myqcloud.com/uPic/tvapk.png) 
+![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
 
 ## 👀 资料 
 
-### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
+### [learningprompt](https://learningprompt.wiki/)
 
-2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
+![learningprompt](https://images-1252557999.file.myqcloud.com/uPic/learningprompt.jpg) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/AHWB7M.jpg)
+### [ascoders/weekly](https://github.com/ascoders/weekly)
 
-更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
+前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
 
-### [穷佐罗的Linux书](https://zorrozou.github.io/)
+- 前沿技术
+- 设计模式
+- 编译原理
+- 源码解读
+- 商业思考
+- 算法
 
-穷佐罗的Linux书，挺不错的一份`Linux`教程。
+非常全面，前端从事人员可以看看。 
 
-![zorrozou](https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg) 
+### [通往AGI之路](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
 
-### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+汇聚了互联网上的一些 `AGI` 教程，资源大家看了觉得有用即可，文章底部有微信引流，如果里面需要付费请慎重：
 
-《Software Engineering at Google》的中文翻译版本：
-
-![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
+![ywh1bkansf](https://images-1252557999.file.myqcloud.com/uPic/ywh1bkansf.jpg) 
 
 ## 🕸 网站 
 
-### [calmcode](https://calmcode.io/)
+### [nona](https://www.nona.de/)
 
-非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
+德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
 
-![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
+![nona](https://images-1252557999.file.myqcloud.com/uPic/1nN2lu.png) 
 
-### [动漫新番表](https://www.fre123.com/anime/n)
+### [lookscanned.io](https://lookscanned.io/)
 
-继上周做了[动漫搜索引擎](https://www.fre123.com/anime/s)后，老胡这次整了个动漫新番信息记录网站，新番信息脚本和数据都是开源的👉[fre123-anime](https://github.com/fre123-com/fre123-anime)，欢迎体验：
+[lookscanned.io](https://github.com/rwv/lookscanned.io) 是一个开源网页项目，依托 WebAssembly 等先进技术，无需打印之后再扫描这类繁琐的过程。仅需点击下按钮，分秒之间，你就能得到所需要的扫描件了：
 
-![fre123_anime_n](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime_n.jpg) 
+![lookscanned](https://images-1252557999.file.myqcloud.com/uPic/lookscanned.jpg) 
 
-### [zerogpt](https://www.zerogpt.com/)
+### [programcreek](https://www.programcreek.com/)
 
-由 `ZeroGPT` 开发的 `GPT-4，ChatGPT` AI 内容检测器：
+网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
 
-![zerogpt](https://images-1252557999.file.myqcloud.com/uPic/zerogpt.jpg) 
+- [Python](https://www.programcreek.com/python/)
+- [Java](https://www.programcreek.com/java-api-examples/)
+- [C++](https://www.programcreek.com/cpp/)
+- [Scala](https://www.programcreek.com/scala/)
+
+![programcreek](https://images-1252557999.file.myqcloud.com/uPic/YdAEPq.png) 
 
 ## ✍️ 说明
 
