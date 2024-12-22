@@ -5,103 +5,96 @@
 
 ## 🎯 项目 
 
-### [SoraWebui](https://github.com/SoraWebui/SoraWebui)
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 
-`SoraWebui` 是一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能：
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
 
-![SoraWebui](https://images-1252557999.file.myqcloud.com/uPic/SoraWebui.jpeg) 
+![AI-Writer](https://images-1252557999.file.myqcloud.com/uPic/AI-Writer.jpeg) 
 
-### [heyform](https://github.com/heyform/heyform)
+### [wechat-export](https://github.com/luin/wechat-export)
 
-`HeyForm` 是一个开源的表单构建器，允许任何人为调查、问卷、测验和投票创建有吸引力的对话表单并且不需要编程技巧：
+将微信聊天记录导出为HTML文件：
 
-![heyform](https://images-1252557999.file.myqcloud.com/uPic/heyform.png) 
+![wechat-export](https://images-1252557999.file.myqcloud.com/uPic/eIhKUP.jpg) 
 
-### [wtfutil](https://github.com/wtfutil/wtf)
+### [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
 
-在你的终端定制化仪表盘，提供 IP 信息、世界时间、系统信息、充电信息、系统状态、GitHub 等信息集中展示，也可以通过配置实现业务监控：
+基于 `AI` 完整保留排版的 `PDF` 文档全文双语翻译，支持 `Google/DeepL/Ollama/OpenAI` 等服务，提供 `CLI/GUI/Docker`：
 
-![wtfutil](https://images-1252557999.file.myqcloud.com/uPic/wtfutil.jpeg) 
+- 📊 保留公式、图表、目录和注释 (预览效果)
+- 🌐 支持 多种语言 和 诸多翻译服务
+- 🤖 提供 命令行工具，图形交互界面，以及 容器化部署
+
+![PDFMathTranslate](https://images-1252557999.file.myqcloud.com/uPic/m0zGEV.png) 
 
 ## 🤖 软件 
 
-### [BlogHelper](https://github.com/onblog/BlogHelper)
+### [TomatoBar](https://github.com/ivoronin/TomatoBar)
 
-帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
+你听说过番茄工作法吗？这是一种很好的技巧，可以帮助你在学习或工作期间掌握时间并保持专注。`TomatoBar` 是一款非常整洁的 `macOS` 菜单栏番茄钟：
 
-![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
+![TomatoBar](https://images-1252557999.file.myqcloud.com/uPic/TomatoBar.png) 
 
-### [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
+### [Tailor](https://github.com/FutureUniant/Tailor)
 
-就像 Mac 上的 TextEdit 一样，但专注于于 Markdown。
+Tailor（中文简称：泰勒）是一款视频智能裁剪、视频生成和视频优化的工具。目前该项目包括了视频剪辑、视频生成和视频优化3大类视频处理方向，共10种方法。Tailor使用方法简单，点点鼠标即可使用最先进的人工智能进行视频处理工作，省时省力，若使用安装版本Tailor，所有的环境配置都可省掉，对用户特别友好。
 
-`MarkEdit` 的特点：
-- 注重隐私：不收集任何用户数据
-- 原生：干净直观
-- 快速：轻松编辑10 MB文件
-- 轻量级：安装程序大小约为3 MB
+![Tailor](https://images-1252557999.file.myqcloud.com/uPic/Tailor.png) 
 
-![MarkEdit](https://images-1252557999.file.myqcloud.com/uPic/MarkEdit.png) 
+### [numi](https://github.com/nikolaeu/numi)
 
-### [ponymusic](https://github.com/wangchenyan/ponymusic)
+一款颜值颇高的 `Mac` 计算器：
 
-使用「网易云音乐API」的安卓在线音乐播放器：
-
-- 网易云音乐基本功能
-- 添加和播放本地音乐文件
-- 专辑封面显示
-- 歌词显示，支持拖动歌词调节播放进度
-- 通知栏控制
-- 夜间模式
-- 定时关闭
-
-![ponymusic](https://images-1252557999.file.myqcloud.com/uPic/ponymusic.jpg) 
+![numi](https://images-1252557999.file.myqcloud.com/uPic/numi.jpg) 
 
 ## 👀 资料 
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+### [C++服务器开发精髓](https://cppguide.cn/pages/92255f/)
 
-夯实计算机基础，该怎么学，这个项目给出了答案：
+开源电子书籍，本书从操作系统原理角度讲解进行C++服务器开发所需掌握的技术栈：
 
-![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
+![cppguide](https://images-1252557999.file.myqcloud.com/uPic/cppguide.jpg) 
 
-### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
+### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
 
-《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
+这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
 
-![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
+- 👋 入门
+- 💬 大语言模型
+	- 💡 提示工程
+	- 🔧 大语言模型实践
+	- 🔬 大语言模型理论
+- 🎨 AI绘画
+- 🔊 AI音频
+- 🌈 多模态
+- 🧠 深度学习
+- 💻 AI系统 
 
-### [大模型基础](https://github.com/datawhalechina/so-large-lm)
+### [opensource-f2f](https://github.com/opensource-f2f)
 
-本项目旨在作为一个大规模预训练语言模型的教程，从数据准备、模型构建、训练策略到模型评估与改进，以及模型在安全、隐私、环境和法律道德方面的方面来提供开源知识。
+《开源面对面》是一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。
 
-![so-large-lm](https://images-1252557999.file.myqcloud.com/uPic/so-large-lm.jpg) 
+![osf2f](https://images-1252557999.file.myqcloud.com/uPic/osf2f.jpg) 
 
 ## 🕸 网站 
 
-### [ip-api.com](http://ip-api.com/json)
+### [seekflag](https://seekflag.com/)
 
-获取当前 ip 的免费 api 接口，同类型还有：
+网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
 
-- http://ip-api.com/json
-- https://ipapi.co/json/
-- https://ipstack.com/
-- http://pv.sohu.com/cityjson
-- http://ip111.cn/ 
+![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
 
-### [open-slum.org](https://open-slum.org/)
+### [lexica.art](https://lexica.art/)
 
-`SLUM` 网站实时监控多个流行的隐蔽图书馆（如 Anna's Archive、Library Genesis、Sci-Hub 等）的可用性，并提供这些服务的运行状况、证书有效期以及最近的更新时间。
+可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
 
-因为这些网站经常**意外**失效，也很容易被钓鱼，所以这个网站很有用：
+![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
 
-![open-slum.org](https://images-1252557999.file.myqcloud.com/uPic/PzpYfd.png) 
+### [emojimix](https://tikolu.net/emojimix/)
 
-### [aicolors](https://aicolors.co/)
+一个表情融合网站，图一个乐呵，效果如下：
 
-通过提示词，基于 AI 生成配色方案：
-
-![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
+![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
 
 ## ✍️ 说明
 
