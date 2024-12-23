@@ -5,91 +5,93 @@
 
 ## 🎯 项目 
 
-### [50projects50days](https://github.com/bradtraversy/50projects50days)
+### [ui-buttons/core](https://github.com/ui-buttons/core)
 
-50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
+CSS 按钮样式集合，此项目实现了 100 种不同的现代化的样式按钮：
 
-![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
+![ui-buttons](https://images-1252557999.file.myqcloud.com/uPic/ui-buttons.png) 
 
-### [toolbox](https://github.com/aoaostar/toolbox)
+### [ChatGemini](https://github.com/bclswl0827/ChatGemini)
 
-🚀傲星工具箱，一个在线工具箱：
+`ChatGemini` 是一个基于 `Google Gemini` 的网页客户端，对标 `ChatGPT 3.5`，操作逻辑同 `ChatGPT 3.5` 一致，同时支持在聊天中上传图片，应用会自动调用 `Gemini-Pro-Vision` 模型进行识图：
 
-![toolbox](https://images-1252557999.file.myqcloud.com/uPic/toolbox.png) 
+- 适配移动端
+- 支持多 API 密钥分流
+- 操作逻辑同 ChatGPT
+- 仿 ChatGPT 3.5 界面
+- 支持多轮聊天对话
+- 支持上传图片进行识别
+- 逐字输出（SSE）回应
+- 集成 PHP 版反向代理
+- 自定义 Gemini API 地址
+- 可启用站点通行码防止滥用
+- 聊天内容导出（HTML 和 PDF）
+- 对话内容保存在 IndexedDB 中
 
-### [chathub](https://github.com/chathub-dev/chathub)
+![ChatGemini](https://images-1252557999.file.myqcloud.com/uPic/ChatGemini.jpg)
 
-`ChatHub` 是款全能聊天机器人客户端:
+如果不想部署，可以直接使用搭建好的免费 Gemini：[https://gemini-pro.chat](https://gemini-pro.chat/) 
 
-- 🤖 在一个应用中使用不同的聊天机器人，目前支持 ChatGPT、新的 Bing Chat、Google Bard、Claude（通过 Poe）、Alpaca、Vicuna、ChatGLM，并将来会集成更多的机器人
-- 💬 同时与多个聊天机器人进行对话，方便比较它们的回答
-- 🚀 支持 ChatGPT API 和 GPT-4 浏览
-- 🔍 快捷方式，可在浏览器的任何位置快速激活应用
-- 🎨 支持 Markdown 和代码高亮显示
-- 📚 自定义提示和社区提示的提示库
-- 💾 本地保存对话历史
-- 📥 导出和导入所有数据
-- 🔗 将对话转为 Markdown 并分享
-- 🌙 暗黑模式
+### [GPTs](https://github.com/linexjlin/GPTs)
 
-![chathub](https://images-1252557999.file.myqcloud.com/uPic/chathub.png) 
+这个仓库收集了 GPTs 商店的的提示词，你可以用 3.5 使用，间接拥有 4 才有的功能，还有个类似的项目：[Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) 
 
 ## 🤖 软件 
 
-### [bdash](https://github.com/bdash-app/bdash)
+### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 
-用于数据分析的简单 `SQL` 客户端：
+这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
 
-![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
+`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
 
-### [rubick](https://github.com/rubickCenter/rubick)
+- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
+  
+- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
+  
 
-基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
+![neteasy](https://images-1252557999.file.myqcloud.com/uPic/neteasy.png) 
 
-- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
-- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
-- 支持全局快捷键设置。
-- 支持剪贴板文件搜索。
-- 支持搜索本地安装的应用程序或偏好设置。
-- 支持MacOS。
-- 支持Windows。
-- 支持Linux。
+### [milky-warp](https://github.com/hugoattal/milky-warp)
 
-![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
+`Milky Warp` 是一个开源工具，技术栈是 `Tauri、Vite、Vue、Typescript`，核心功能就是按下快捷键时会显示一个放大镜：
 
-### [gitify](https://github.com/gitify-app/gitify)
+- 按下可配置的快捷键时显示放大镜
+- 支持使用鼠标滚轮进行放大和缩小
+- 跨平台：可在Windows、macOS和Linux上运行
 
-在你的菜单栏上显示 `GitHub` 通知，跨平台：
+![milky-warp](https://images-1252557999.file.myqcloud.com/uPic/milky-warp.gif) 
 
-![gitify](https://images-1252557999.file.myqcloud.com/uPic/gitify.png) 
+### [WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive)
+
+使用 腾讯 X5 WebView 开发的电视直播App，原理：加载直播网页，找到video标签自动全屏：
+
+![WebViewTvLive](https://images-1252557999.file.myqcloud.com/uPic/JKdapa.png) 
 
 ## 👀 资料 
 
-### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
+### [under-the-hood](https://golang.design/under-the-hood/)
 
-机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
+`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
 
-![openmlsys](https://images-1252557999.file.myqcloud.com/uPic/openmlsys.jpg) 
+![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
 
-### [LLMBook-zh](https://llmbook-zh.github.io/)
+### [react-illustration-series](https://github.com/7kms/react-illustration-series)
 
-大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
+图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
 
-![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
+### [developer2gwy](https://github.com/miss-mumu/developer2gwy)
 
-### [openai-cookbook](https://github.com/openai/openai-cookbook)
+公务员从入门到上岸，最佳程序员公考实践教程，一份开源公务员考试的最佳实践指南，一部解构体制工作生活的说明手册：
 
-`OpenAI API` 使用示例指南：
-
-![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
+![developer2gwy](https://images-1252557999.file.myqcloud.com/uPic/developer2gwy.jpg) 
 
 ## 🕸 网站 
 
-### [必应壁纸](https://bing.ioliu.cn/)
+### [icon.kitchen](https://icon.kitchen/)
 
-收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
+一次性生成 `Android、IOS、WEB` 三端 `icon` 图标，可直接预览，效果非常好：
 
-![bing](https://images-1252557999.file.myqcloud.com/uPic/bing.jpg) 
+![icon_kitchen](https://images-1252557999.file.myqcloud.com/uPic/icon_kitchen.jpg) 
 
 ### [webdesk](https://webdesk.pigjs.com/builder/)
 
@@ -97,11 +99,11 @@
 
 ![webdesk](https://images-1252557999.file.myqcloud.com/uPic/webdesk.jpg) 
 
-### [RunningCode](https://github.com/tonyljx/running-leetcode)
+### [http.cat](https://http.cat)
 
-一个算法小工具网站，收录了面试最高频的算法题~ 可以按【题目类型】，【题目出处】，以及【难易程度】去索引，帮助一刷，二刷的同学快速准备算法题。数据都是基于公开数据人工整理 + GPT 进行打标签。
+如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
 
-![running-leetcode](https://images-1252557999.file.myqcloud.com/uPic/running-leetcode.jpg) 
+![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
 
 ## ✍️ 说明
 
