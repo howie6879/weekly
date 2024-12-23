@@ -5,96 +5,103 @@
 
 ## 🎯 项目 
 
-### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
+### [50projects50days](https://github.com/bradtraversy/50projects50days)
 
-AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
 
-![AI-Writer](https://images-1252557999.file.myqcloud.com/uPic/AI-Writer.jpeg) 
+![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
 
-### [wechat-export](https://github.com/luin/wechat-export)
+### [toolbox](https://github.com/aoaostar/toolbox)
 
-将微信聊天记录导出为HTML文件：
+🚀傲星工具箱，一个在线工具箱：
 
-![wechat-export](https://images-1252557999.file.myqcloud.com/uPic/eIhKUP.jpg) 
+![toolbox](https://images-1252557999.file.myqcloud.com/uPic/toolbox.png) 
 
-### [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
+### [chathub](https://github.com/chathub-dev/chathub)
 
-基于 `AI` 完整保留排版的 `PDF` 文档全文双语翻译，支持 `Google/DeepL/Ollama/OpenAI` 等服务，提供 `CLI/GUI/Docker`：
+`ChatHub` 是款全能聊天机器人客户端:
 
-- 📊 保留公式、图表、目录和注释 (预览效果)
-- 🌐 支持 多种语言 和 诸多翻译服务
-- 🤖 提供 命令行工具，图形交互界面，以及 容器化部署
+- 🤖 在一个应用中使用不同的聊天机器人，目前支持 ChatGPT、新的 Bing Chat、Google Bard、Claude（通过 Poe）、Alpaca、Vicuna、ChatGLM，并将来会集成更多的机器人
+- 💬 同时与多个聊天机器人进行对话，方便比较它们的回答
+- 🚀 支持 ChatGPT API 和 GPT-4 浏览
+- 🔍 快捷方式，可在浏览器的任何位置快速激活应用
+- 🎨 支持 Markdown 和代码高亮显示
+- 📚 自定义提示和社区提示的提示库
+- 💾 本地保存对话历史
+- 📥 导出和导入所有数据
+- 🔗 将对话转为 Markdown 并分享
+- 🌙 暗黑模式
 
-![PDFMathTranslate](https://images-1252557999.file.myqcloud.com/uPic/m0zGEV.png) 
+![chathub](https://images-1252557999.file.myqcloud.com/uPic/chathub.png) 
 
 ## 🤖 软件 
 
-### [TomatoBar](https://github.com/ivoronin/TomatoBar)
+### [bdash](https://github.com/bdash-app/bdash)
 
-你听说过番茄工作法吗？这是一种很好的技巧，可以帮助你在学习或工作期间掌握时间并保持专注。`TomatoBar` 是一款非常整洁的 `macOS` 菜单栏番茄钟：
+用于数据分析的简单 `SQL` 客户端：
 
-![TomatoBar](https://images-1252557999.file.myqcloud.com/uPic/TomatoBar.png) 
+![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
 
-### [Tailor](https://github.com/FutureUniant/Tailor)
+### [rubick](https://github.com/rubickCenter/rubick)
 
-Tailor（中文简称：泰勒）是一款视频智能裁剪、视频生成和视频优化的工具。目前该项目包括了视频剪辑、视频生成和视频优化3大类视频处理方向，共10种方法。Tailor使用方法简单，点点鼠标即可使用最先进的人工智能进行视频处理工作，省时省力，若使用安装版本Tailor，所有的环境配置都可省掉，对用户特别友好。
+基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
 
-![Tailor](https://images-1252557999.file.myqcloud.com/uPic/Tailor.png) 
+- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
+- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
+- 支持全局快捷键设置。
+- 支持剪贴板文件搜索。
+- 支持搜索本地安装的应用程序或偏好设置。
+- 支持MacOS。
+- 支持Windows。
+- 支持Linux。
 
-### [numi](https://github.com/nikolaeu/numi)
+![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
 
-一款颜值颇高的 `Mac` 计算器：
+### [gitify](https://github.com/gitify-app/gitify)
 
-![numi](https://images-1252557999.file.myqcloud.com/uPic/numi.jpg) 
+在你的菜单栏上显示 `GitHub` 通知，跨平台：
+
+![gitify](https://images-1252557999.file.myqcloud.com/uPic/gitify.png) 
 
 ## 👀 资料 
 
-### [C++服务器开发精髓](https://cppguide.cn/pages/92255f/)
+### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
 
-开源电子书籍，本书从操作系统原理角度讲解进行C++服务器开发所需掌握的技术栈：
+机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
 
-![cppguide](https://images-1252557999.file.myqcloud.com/uPic/cppguide.jpg) 
+![openmlsys](https://images-1252557999.file.myqcloud.com/uPic/openmlsys.jpg) 
 
-### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
+### [LLMBook-zh](https://llmbook-zh.github.io/)
 
-这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
+大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
 
-- 👋 入门
-- 💬 大语言模型
-	- 💡 提示工程
-	- 🔧 大语言模型实践
-	- 🔬 大语言模型理论
-- 🎨 AI绘画
-- 🔊 AI音频
-- 🌈 多模态
-- 🧠 深度学习
-- 💻 AI系统 
+![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
 
-### [opensource-f2f](https://github.com/opensource-f2f)
+### [openai-cookbook](https://github.com/openai/openai-cookbook)
 
-《开源面对面》是一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。
+`OpenAI API` 使用示例指南：
 
-![osf2f](https://images-1252557999.file.myqcloud.com/uPic/osf2f.jpg) 
+![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
 
 ## 🕸 网站 
 
-### [seekflag](https://seekflag.com/)
+### [必应壁纸](https://bing.ioliu.cn/)
 
-网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
+收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
 
-![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
+![bing](https://images-1252557999.file.myqcloud.com/uPic/bing.jpg) 
 
-### [lexica.art](https://lexica.art/)
+### [webdesk](https://webdesk.pigjs.com/builder/)
 
-可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
+一键将网站转化为桌面应用程序：
 
-![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
+![webdesk](https://images-1252557999.file.myqcloud.com/uPic/webdesk.jpg) 
 
-### [emojimix](https://tikolu.net/emojimix/)
+### [RunningCode](https://github.com/tonyljx/running-leetcode)
 
-一个表情融合网站，图一个乐呵，效果如下：
+一个算法小工具网站，收录了面试最高频的算法题~ 可以按【题目类型】，【题目出处】，以及【难易程度】去索引，帮助一刷，二刷的同学快速准备算法题。数据都是基于公开数据人工整理 + GPT 进行打标签。
 
-![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
+![running-leetcode](https://images-1252557999.file.myqcloud.com/uPic/running-leetcode.jpg) 
 
 ## ✍️ 说明
 
