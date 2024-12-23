@@ -12,7 +12,76 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 15 Dec 2024 09:37:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 13:07:50 +0000</lastBuildDate>
+    <item>
+      <title>12-16~12-22.老胡的周刊（第172期）.md</title>
+      <link>https://weekly.howie6879.com/2024/12-16~12-22.老胡的周刊（第172期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/12-16~12-22.老胡的周刊（第172期）.html"&gt;12-16~12-22.老胡的周刊（第172期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/XiaoMi/ha_xiaomi_home"&gt;ha_xiaomi_home&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;米家集成是一个由小米官方提供支持的 &lt;code&gt;Home Assistant&lt;/code&gt; 的集成组件，它可以让您在 &lt;code&gt;Home Assistant&lt;/code&gt; 中使用小米 &lt;code&gt;IoT&lt;/code&gt; 智能设备：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ha_xiaomi_home" src="https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6271646644919453567-y.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/besscroft/PicImpact"&gt;PicImpact&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个摄影师专用的摄影作品展示网站，基于 &lt;code&gt;Next.js + Hono.js&lt;/code&gt; 开发：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;瀑布流相册展示图片，支持实况照片(Live Photos)，基于 LivePhotosKit JS 开发。&lt;/li&gt;
+&lt;li&gt;点击图片查看原图，浏览图片信息和 EXIF 信息，支持直链访问。&lt;/li&gt;
+&lt;li&gt;响应式设计，在 PC 和移动端都有不错的体验，支持暗黑模式。&lt;/li&gt;
+&lt;li&gt;图片存储兼容 S3 API、Cloudflare R2、AList API。&lt;/li&gt;
+&lt;li&gt;图片支持绑定标签，并且可通过标签进行交互，筛选标签下所有图片。&lt;/li&gt;
+&lt;li&gt;支持输出 RSS，可以使用 Follow 订阅，并支持订阅源所有权验证。&lt;/li&gt;
+&lt;li&gt;支持批量自动化上传，上传图片时会生成 0.3 倍率的压缩图片，以提供加载优化。&lt;/li&gt;
+&lt;li&gt;...&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="PicImpact" src="https://images-1252557999.file.myqcloud.com/uPic/NFu7vG.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/akile-network/akile_monitor"&gt;akile_monitor&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个开源的监控工具项目，提供服务器状态监控功能，并且支持前后端一键部署：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="akile_monitor" src="https://images-1252557999.file.myqcloud.com/uPic/0D0D4c.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/YaoZeyuan/stablog"&gt;stablog&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;稳部落项目是一个基于微博现有接口和 TypeScript 构建的工具，旨在为微博用户提供便捷的微博记录备份与导出服务。&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/chrox/readest"&gt;readest&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Readest&lt;/code&gt; 是一个现代化、功能丰富的电子书阅读器，旨在为读者提供无缝的跨平台访问体验、强大的工具和直观的界面，以提升阅读体验。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="readest" src="https://images-1252557999.file.myqcloud.com/uPic/v41zIg.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Tichau/FileConverter"&gt;FileConverter&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;File Converter&lt;/code&gt; 是一个简单的工具，允许用户通过 Windows 资源管理器的上下文菜单转换和压缩文件：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="FileConverter" src="https://images-1252557999.file.myqcloud.com/uPic/3Mtc4V.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/VeejaLiu/ScienceFictionCollection"&gt;ScienceFictionCollection&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;科幻小说作品集收集项目，包含以下作者的作品：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;刘慈欣 (Cixin Liu)&lt;/li&gt;
+&lt;li&gt;Frank Herbert (弗兰克・赫伯特)&lt;/li&gt;
+&lt;li&gt;Isaac Asimov (艾萨克・阿西莫夫)&lt;/li&gt;
+&lt;li&gt;Jules Gabriel Verne (儒勒・加布里埃尔・凡尔纳)&lt;/li&gt;
+&lt;li&gt;Mary Shelley (玛丽・雪莱)&lt;/li&gt;
+&lt;li&gt;Ray Douglas Bradbury (雷・道格拉斯・布拉德伯里)&lt;/li&gt;
+&lt;li&gt;Orson Scott Card (奥森・斯科特・卡德)&lt;/li&gt;
+&lt;li&gt;Ted Chiang (特德・姜)&lt;/li&gt;
+&lt;li&gt;Michael Swanwick (迈克尔・斯万维克)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href="https://github.com/WangRongsheng/awesome-LLM-resourses"&gt;WangRongsheng&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个全面的 LLM 资源汇总，旨在提供数据处理、微调、推理、评估、体验、知识库、智能体、搜索、书籍、课程、教程和论文等方面的工具和文档。&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ViggoZ/producthunt-daily-hot"&gt;producthunt-daily-hot&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Product Hunt&lt;/code&gt; 每日热榜是一个基于 &lt;code&gt;GitHub Action&lt;/code&gt; 的自动化工具，它能够每天定时生成 &lt;code&gt;Product Hunt&lt;/code&gt; 上的热门产品榜单 &lt;code&gt;Markdown&lt;/code&gt; 文件，并自动提交到 &lt;code&gt;GitHub&lt;/code&gt; 仓库中。该项目旨在帮助用户快速查看每日的 &lt;code&gt;Product Hunt&lt;/code&gt; 热门榜单，并提供更详细的产品信息。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="producthunt-daily-hot" src="https://images-1252557999.file.myqcloud.com/uPic/2vDyRf.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">12-16~12-22.老胡的周刊（第172期）.md</guid>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>12-09~12-15.老胡的周刊（第171期）.md</title>
       <link>https://weekly.howie6879.com/2024/12-09~12-15.老胡的周刊（第171期）.html</link>
@@ -1205,75 +1274,6 @@ curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/rel
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">07-29~08-04.老胡的周刊（第153期）.md</guid>
       <pubDate>Sun, 04 Aug 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>07-22~07-28.老胡的周刊（第152期）.md</title>
-      <link>https://weekly.howie6879.com/2024/07-22~07-28.老胡的周刊（第152期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/07-22~07-28.老胡的周刊（第152期）.html"&gt;07-22~07-28.老胡的周刊（第152期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/opendatalab/MinerU"&gt;MinerU&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;MinerU&lt;/code&gt; 是一款一站式、开源、高质量的数据提取工具，主要包含以下功能:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Magic-PDF PDF文档提取&lt;/li&gt;
-&lt;li&gt;Magic-Doc 网页与电子书提取&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;对于有 PDF 转换 MD 需求的朋友可以尝试下：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="MinerU" src="https://images-1252557999.file.myqcloud.com/uPic/MinerU.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/someu/aigotools"&gt;aigotools&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;AigoTools 可以帮助用户快速创建和管理导航站点，内置站点管理和自动收录功能，同时提供国际化、SEO、多种图片存储方案。让用户可以快速部署上线自己的导航站。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;站点管理&lt;/li&gt;
-&lt;li&gt;站点信息自动采集（playwright、jina、openai）&lt;/li&gt;
-&lt;li&gt;用户管理（clerk）&lt;/li&gt;
-&lt;li&gt;国际化&lt;/li&gt;
-&lt;li&gt;暗色/亮色主题切换&lt;/li&gt;
-&lt;li&gt;SEO 优化&lt;/li&gt;
-&lt;li&gt;多种图片存储方案（本地minio、aws s3、腾讯云cos）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="aigotools" src="https://images-1252557999.file.myqcloud.com/uPic/aigotools.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Nutlope/llamatutor"&gt;llamatutor&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个开源的 AI 个人专属导师，由 Llama 3 70B 和 Together.ai 提供支持：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="llamatutor" src="https://images-1252557999.file.myqcloud.com/uPic/llamatutor.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Ackites/KillWxapkg"&gt;KillWxapkg&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个用于自动化反编译微信小程序的工具，小程序安全利器，自动解密，解包，可最大程度还原工程目录。&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/revezone/revezone"&gt;revezone&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="revezone" src="https://images-1252557999.file.myqcloud.com/uPic/revezone.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/52beijixing/smartedu-download"&gt;smartedu-download&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;帮助您下载国家中小学智慧教育平台的文件，支持视频、教材（课本）、原版课件（ppt、word、pdf格式）下载：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="smartedu-download" src="https://images-1252557999.file.myqcloud.com/uPic/smartedu-download.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/pangxiaobin/image-matting"&gt;image-matting&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;基于开源模型 &lt;code&gt;briaai/RMBG-1.4&lt;/code&gt; 实现图像抠图：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image-matting" src="https://images-1252557999.file.myqcloud.com/uPic/image-matting.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;还有个闭源免费版本，可以参考进行使用&lt;a href="https://kt.94xy.com/"&gt;鲜艺AI抠图&lt;/a&gt;，免费的离线AI抠图工具。&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://0xinfection.github.io/reversing/"&gt;reversing&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;免费电子书，面向所有人的逆向工程：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="reversing" src="https://images-1252557999.file.myqcloud.com/uPic/reversing.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://removerized.tech/"&gt;removerized&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;开源免费的图片去背景工具网站，交互体验还不错：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="removerized" src="https://images-1252557999.file.myqcloud.com/uPic/removerized.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;当然了，模型效果对一些图片比不上一些收费的。&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://jpghi.com/"&gt;jpghi&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;jpgHi 支持各种类型图片高清无损放大，为模糊不清的图片增加极致细节，提升图片质感：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="jpghi" src="https://images-1252557999.file.myqcloud.com/uPic/jpghi.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">07-22~07-28.老胡的周刊（第152期）.md</guid>
-      <pubDate>Sun, 28 Jul 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
