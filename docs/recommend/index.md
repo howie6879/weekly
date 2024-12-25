@@ -5,97 +5,105 @@
 
 ## 🎯 项目 
 
-### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
+### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
-让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
+Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
 
-### [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)
+你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
 
-基于 `ChatGPT` 实现的代码解释器，只需向 `OpenAI` 模型提出请求，它就会为您生成并执行代码：
+- 🌐 利用互联网进行搜索和信息收集
+- 💾 长期和短期记忆管理
+- 🧠 GPT-4实例用于文本生成
+- 🔗 访问流行的网站和平台
+- 🗃️ 使用GPT-3.5进行文件存储和摘要
 
-![gpt-code-ui](https://images-1252557999.file.myqcloud.com/uPic/gpt-code-ui.png) 
+![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
 
-### [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)
+### [qrbtf](https://github.com/ciaochaos/qrbtf)
 
-一个 `ChatGPT` 代码解释器的开源（`LangChain`）实现：
+艺术二维码生成器：
 
-- 数据集分析、股票图表绘制、图像处理....
-- 互联网访问和自动安装Python软件包
-- 除了OpenAI API 外，所有事情在本地运行
-- 对话记忆：根据先前的输入进行回应 
+![qrbtf](https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg) 
+
+### [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
+
+`ArchiveBox` 是一个强大的、可自建的互联网归档解决方案，可以收集、保存和查看你想离线保存的网站：
+
+![ArchiveBox](https://images-1252557999.file.myqcloud.com/uPic/ArchiveBox.jpg) 
 
 ## 🤖 软件 
 
-### [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
+### [podman-desktop](https://github.com/containers/podman-desktop)
 
-简单的 macOS 菜单栏应用程序，可以方便地和 `Reminders` 进行交互，使用 `SwiftUI` 开发，并使用 `Apple` 提醒事项作为数据源：
+ `Podman` 的桌面版：
+ 
+ ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
 
-![reminders-menubar](https://images-1252557999.file.myqcloud.com/uPic/reminders-menubar.jpg) 
+### [siyuan](https://github.com/siyuan-note/siyuan)
 
-### [ChatMLX](https://github.com/johnmai-dev/ChatMLX)
+思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
 
-`ChatMLX` 是一个现代化、开源、高性能的 MacOS 聊天应用程序，它基于大型语言模型，支持多种语言和模型，并确保用户隐私和安全：
+![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
 
-![ChatMLX](https://images-1252557999.file.myqcloud.com/uPic/8WekXj.png) 
+### [RedFish](https://github.com/Kuari/RedFish)
 
-### [Rayon](https://github.com/Lakr233/Rayon)
+一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
 
-一个`macOS`的上的`SSH`客户端：
-
-![rayon](https://images-1252557999.file.myqcloud.com/uPic/rayon.png)
-
-软件特性：
-
-- 免费&开源
-- 支持 libssh2 的主机连接
-- Linux proc 文件系统状态信息
-- 使用密码、密钥等进行身份验证...
-- xterm 终端支持
-- 批处理执行代码片段 
+![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
 
 ## 👀 资料 
 
-### [v8-internals](https://github.com/plctlab/v8-internals)
+### [llm-universe](https://github.com/datawhalechina/llm-universe)
 
-面向编译器开发人员的V8内部实现文档。 
+本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：
 
-### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
+- 大模型简介，何为大模型、大模型特点是什么、LangChain 是什么，针对小白开发者的简单介绍；
+- 如何调用大模型 API，本节介绍了国内外知名大模型产品 API 的多种调用方式，包括调用原生 API、封装为 LangChain LLM、封装为 Fastapi 等调用方式，同时将包括百度文心、讯飞星火、智谱AI等多种大模型 API 进行了统一形式封装；
+- 大模型开发流程及架构，大模型应用开发的基本流程、一般思想和本项目的架构分析；
+- 数据库搭建，不同类型知识库文档的加载、处理，向量数据库的搭建；
+- Prompt 设计，如何设计 Prompt 来让大模型完成特定任务，Prompt Engineering 的原则和技巧有哪些；
+- 验证迭代，大模型开发如何实现验证迭代，一般的评估方法有什么；
+- 前后端开发，如何使用 Gradio、FastAPI 等框架快速开发大模型 Demo，展示应用能力。
 
-从零开始 `Kubernetes` 攻防:
+![llm-universe](https://images-1252557999.file.myqcloud.com/uPic/llm-universe.png) 
 
-![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
+### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
 
-### [Large Language Models Practical Course](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce)
+Kubernetes 中文指南/云原生应用架构实战手册：
 
-开源([Large Language Models Practical Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course))的关于大型语言模型的实践课程，通过使用 `OpenAI` 和 `Hugging Face` 库的模型进行实际操作来提供实践经验，课程主要包括：
+![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
 
-- Techniques and Libraries
-- Projects
-- Enterprise Solutions
+### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
-![large-language-models-practical-course](https://images-1252557999.file.myqcloud.com/uPic/large-language-models-practical-course.jpg)
+吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
 
-> 附带一个 Mac 微调大模型的文章：[A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) 
+- 学习应用开发所需的 prompt engineering 最佳实践
+- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
+- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
+
+![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
 
 ## 🕸 网站 
 
-### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
+### [removerized](https://removerized.tech/)
 
-来自阿里体系的各种技术资料，全部免费，个人非常推荐。
+开源免费的图片去背景工具网站，交互体验还不错：
 
-![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
+![removerized](https://images-1252557999.file.myqcloud.com/uPic/removerized.jpg)
 
-### [olocr.com](https://olocr.com)
+当然了，模型效果对一些图片比不上一些收费的。 
 
-一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
+### [websequencediagrams](https://www.websequencediagrams.com/)
 
-![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
+提供在线绘制时序图的网站：
 
-### [sao.fm](https://sao.fm/)
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
-一个在线听广播电台的网站：
+### [pandagpt.io](https://www.pandagpt.io/)
 
-![sao.fm](https://images-1252557999.file.myqcloud.com/uPic/sao.fm.jpg) 
+基于  `ChatGPT` 的 `AI` 文档机器人：
+
+![pandagpt](https://images-1252557999.file.myqcloud.com/uPic/pandagpt.jpg) 
 
 ## ✍️ 说明
 
