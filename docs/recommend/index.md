@@ -5,105 +5,95 @@
 
 ## 🎯 项目 
 
-### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+### [lobe-chat](https://github.com/lobehub/lobe-chat)
 
-Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
+`LobeChat` 是一个开源的、可扩展的（Function Calling）高性能聊天机器人框架，它支持一键免费部署私人 `ChatGPT/LLM` 网页应用程序：
 
-你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
+- 💨 快速部署：支持 Vercel 平台
+-  💎 精致 UI 设计
+-  🗣️ 流畅的对话体验
+-  🧩 支持插件与自定义插件开发
+-  🔒 隐私安全
+-  🤖 自定义助手角色
+-  🌐 自定义域名
+-  🏬 角色市场
 
-- 🌐 利用互联网进行搜索和信息收集
-- 💾 长期和短期记忆管理
-- 🧠 GPT-4实例用于文本生成
-- 🔗 访问流行的网站和平台
-- 🗃️ 使用GPT-3.5进行文件存储和摘要
+![lobe-chat](https://images-1252557999.file.myqcloud.com/uPic/lobe-chat.webp) 
 
-![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
+### [Piwigo](https://github.com/Piwigo/Piwigo)
 
-### [qrbtf](https://github.com/ciaochaos/qrbtf)
+ `Piwigo` 是一个开源的网络照片库软件，用于管理照片，专为组织、团队和个人设计：
+ 
+ ![Piwigo](https://images-1252557999.file.myqcloud.com/uPic/Piwigo.jpeg) 
 
-艺术二维码生成器：
+### [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
 
-![qrbtf](https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg) 
+国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。
 
-### [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
-
-`ArchiveBox` 是一个强大的、可自建的互联网归档解决方案，可以收集、保存和查看你想离线保存的网站：
-
-![ArchiveBox](https://images-1252557999.file.myqcloud.com/uPic/ArchiveBox.jpg) 
+虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！ 
 
 ## 🤖 软件 
 
-### [podman-desktop](https://github.com/containers/podman-desktop)
+### [foliate](https://github.com/johnfactotum/foliate)
 
- `Podman` 的桌面版：
- 
- ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
+`Linux` 最佳电子书阅读器：
 
-### [siyuan](https://github.com/siyuan-note/siyuan)
+![foliate](https://images-1252557999.file.myqcloud.com/uPic/BAy1B7.png) 
 
-思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
+### [Later](https://github.com/alyssaxuu/later)
 
-![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
+一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
 
-### [RedFish](https://github.com/Kuari/RedFish)
+![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
 
-一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
+### [AirBattery](https://github.com/lihaoyun6/AirBattery)
 
-![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
+在 `Mac` 上获取你所有设备的电量信息并显示在 `Dock` / 状态栏 / 小组件上：
+
+![AirBattery](https://images-1252557999.file.myqcloud.com/uPic/AirBattery.jpg) 
 
 ## 👀 资料 
 
-### [llm-universe](https://github.com/datawhalechina/llm-universe)
+### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
 
-本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：
+《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
 
-- 大模型简介，何为大模型、大模型特点是什么、LangChain 是什么，针对小白开发者的简单介绍；
-- 如何调用大模型 API，本节介绍了国内外知名大模型产品 API 的多种调用方式，包括调用原生 API、封装为 LangChain LLM、封装为 Fastapi 等调用方式，同时将包括百度文心、讯飞星火、智谱AI等多种大模型 API 进行了统一形式封装；
-- 大模型开发流程及架构，大模型应用开发的基本流程、一般思想和本项目的架构分析；
-- 数据库搭建，不同类型知识库文档的加载、处理，向量数据库的搭建；
-- Prompt 设计，如何设计 Prompt 来让大模型完成特定任务，Prompt Engineering 的原则和技巧有哪些；
-- 验证迭代，大模型开发如何实现验证迭代，一般的评估方法有什么；
-- 前后端开发，如何使用 Gradio、FastAPI 等框架快速开发大模型 Demo，展示应用能力。
+![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
 
-![llm-universe](https://images-1252557999.file.myqcloud.com/uPic/llm-universe.png) 
+### [k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)
 
-### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
+基于 `Kubernetes(K8S)` 一步步部署成 `PaaS/DevOps`（一套完整的软件研发和部署平台）——教程/学习（实战代码/欢迎讨论/大量注释/操作配图），你将习得部署如：`Kubernetes(K8S)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker` 等：
 
-Kubernetes 中文指南/云原生应用架构实战手册：
+![k8s_PaaS](https://images-1252557999.file.myqcloud.com/uPic/k8s_PaaS.png) 
 
-![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
+### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
 
-### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-
-吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
-
-- 学习应用开发所需的 prompt engineering 最佳实践
-- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
-- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
-
-![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
+Go语言实战: 编写可维护Go语言代码建议。 
 
 ## 🕸 网站 
 
-### [removerized](https://removerized.tech/)
+### [remixicon](https://remixicon.com/)
 
-开源免费的图片去背景工具网站，交互体验还不错：
+[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
 
-![removerized](https://images-1252557999.file.myqcloud.com/uPic/removerized.jpg)
+![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
 
-当然了，模型效果对一些图片比不上一些收费的。 
+### [programcreek](https://www.programcreek.com/)
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
 
-提供在线绘制时序图的网站：
+- [Python](https://www.programcreek.com/python/)
+- [Java](https://www.programcreek.com/java-api-examples/)
+- [C++](https://www.programcreek.com/cpp/)
+- [Scala](https://www.programcreek.com/scala/)
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+![programcreek](https://images-1252557999.file.myqcloud.com/uPic/YdAEPq.png) 
 
-### [pandagpt.io](https://www.pandagpt.io/)
+### [drawio](https://github.com/jgraph/drawio)
 
-基于  `ChatGPT` 的 `AI` 文档机器人：
+一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
 
-![pandagpt](https://images-1252557999.file.myqcloud.com/uPic/pandagpt.jpg) 
+![drawio](https://images-1252557999.file.myqcloud.com/uPic/drawio.jpg) 
 
 ## ✍️ 说明
 
