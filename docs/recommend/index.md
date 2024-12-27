@@ -5,95 +5,81 @@
 
 ## 🎯 项目 
 
-### [lobe-chat](https://github.com/lobehub/lobe-chat)
+### [freed](https://github.com/YuanHsing/freed)
 
-`LobeChat` 是一个开源的、可扩展的（Function Calling）高性能聊天机器人框架，它支持一键免费部署私人 `ChatGPT/LLM` 网页应用程序：
+这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
 
-- 💨 快速部署：支持 Vercel 平台
--  💎 精致 UI 设计
--  🗣️ 流畅的对话体验
--  🧩 支持插件与自定义插件开发
--  🔒 隐私安全
--  🤖 自定义助手角色
--  🌐 自定义域名
--  🏬 角色市场
+### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
 
-![lobe-chat](https://images-1252557999.file.myqcloud.com/uPic/lobe-chat.webp) 
+`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
 
-### [Piwigo](https://github.com/Piwigo/Piwigo)
+![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
 
- `Piwigo` 是一个开源的网络照片库软件，用于管理照片，专为组织、团队和个人设计：
- 
- ![Piwigo](https://images-1252557999.file.myqcloud.com/uPic/Piwigo.jpeg) 
+### [invoice](https://github.com/guanshuicheng/invoice)
 
-### [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
+增值税发票 `OCR` 识别，使用 `flask` 微服务架构，识别 `type` ：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等：
 
-国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。
-
-虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！ 
+![invoice](https://images-1252557999.file.myqcloud.com/uPic/invoice.jpg) 
 
 ## 🤖 软件 
 
-### [foliate](https://github.com/johnfactotum/foliate)
+### [podman-desktop](https://github.com/containers/podman-desktop)
 
-`Linux` 最佳电子书阅读器：
+ `Podman` 的桌面版：
+ 
+ ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
 
-![foliate](https://images-1252557999.file.myqcloud.com/uPic/BAy1B7.png) 
+### [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 
-### [Later](https://github.com/alyssaxuu/later)
+`Bulk Crap Uninstaller` 是一款免费开源的 `Windows` 卸载软件，它能够快速删除大量不需要的应用程序，甚至是便携或未注册的程序与游戏，并且能自动扫描残留文件、注册表遗留内容等：
 
-一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
+![Bulk-Crap-Uninstaller](https://images-1252557999.file.myqcloud.com/uPic/Bulk-Crap-Uninstaller.png) 
 
-![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
+### [namida](https://github.com/namidaco/namida)
 
-### [AirBattery](https://github.com/lihaoyun6/AirBattery)
+一个美观且功能丰富的音乐和视频播放器，支持 `Youtube`，基于 `Flutter` 技术构建：
 
-在 `Mac` 上获取你所有设备的电量信息并显示在 `Dock` / 状态栏 / 小组件上：
-
-![AirBattery](https://images-1252557999.file.myqcloud.com/uPic/AirBattery.jpg) 
+![namida](https://images-1252557999.file.myqcloud.com/uPic/namida.jpg) 
 
 ## 👀 资料 
 
-### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
+### [comflowy](https://www.comflowy.com/zh-CN)
 
-《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
+作者认为 `AI` 生图领域的未来一定是围绕 `Stable Diffusion` 展开，而 `ComfyUI` 相比于 `Stable Diffusion WebUI` 等其他开源产品具备非常强的差异化能力，它具备高度的扩展性和应用可能性，真正做到了让开发者和用户能够根据自己的需求打造个性化的生图流程。
 
-![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
+![comflowy](https://images-1252557999.file.myqcloud.com/uPic/comflowy.jpg) 
 
-### [k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)
+### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
 
-基于 `Kubernetes(K8S)` 一步步部署成 `PaaS/DevOps`（一套完整的软件研发和部署平台）——教程/学习（实战代码/欢迎讨论/大量注释/操作配图），你将习得部署如：`Kubernetes(K8S)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker` 等：
+一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
 
-![k8s_PaaS](https://images-1252557999.file.myqcloud.com/uPic/k8s_PaaS.png) 
+![NhkQDk](https://images-1252557999.file.myqcloud.com/uPic/NhkQDk.jpg) 
 
-### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
+### [Python源码剖析](https://fasionchan.com/python-source/)
 
-Go语言实战: 编写可维护Go语言代码建议。 
+本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
+
+![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
 
 ## 🕸 网站 
 
-### [remixicon](https://remixicon.com/)
+### [uiverse.io](https://uiverse.io/)
 
-[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
+一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
 
-![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
+![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
 
-### [programcreek](https://www.programcreek.com/)
+### [ipa.store](https://ipa.store/)
 
-网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
+`IPA` 商店：
 
-- [Python](https://www.programcreek.com/python/)
-- [Java](https://www.programcreek.com/java-api-examples/)
-- [C++](https://www.programcreek.com/cpp/)
-- [Scala](https://www.programcreek.com/scala/)
+![ipa_store](https://images-1252557999.file.myqcloud.com/uPic/ipa_store.jpg) 
 
-![programcreek](https://images-1252557999.file.myqcloud.com/uPic/YdAEPq.png) 
+### [zhongguose](http://zhongguose.com/)
 
-### [drawio](https://github.com/jgraph/drawio)
+一个中国传统颜色的配色网站：
 
-一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
-
-![drawio](https://images-1252557999.file.myqcloud.com/uPic/drawio.jpg) 
+![zhongguose](https://images-1252557999.file.myqcloud.com/uPic/zhongguose.jpg) 
 
 ## ✍️ 说明
 
