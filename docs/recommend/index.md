@@ -5,81 +5,106 @@
 
 ## 🎯 项目 
 
-### [freed](https://github.com/YuanHsing/freed)
+### [linkwarden](https://github.com/linkwarden/linkwarden)
 
-这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
+一个自托管的、开源的协作式书签管理器，用于收集、组织和归档网页:
 
-### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
+![linkwarden](https://images-1252557999.file.myqcloud.com/uPic/linkwarden.png) 
 
-`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
+### [social-auto-upload](https://github.com/dreammis/social-auto-upload)
 
-![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
+自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili：
 
-### [invoice](https://github.com/guanshuicheng/invoice)
+![social-auto-upload](https://images-1252557999.file.myqcloud.com/uPic/social-auto-upload.jpg) 
 
-增值税发票 `OCR` 识别，使用 `flask` 微服务架构，识别 `type` ：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等：
+### [docker-wechat](https://github.com/huan/docker-wechat)
 
-![invoice](https://images-1252557999.file.myqcloud.com/uPic/invoice.jpg) 
+盒装微信，在linux下基于Docker技术使用微信客户端：
+
+![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
 
 ## 🤖 软件 
 
-### [podman-desktop](https://github.com/containers/podman-desktop)
+### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
 
- `Podman` 的桌面版：
- 
- ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
+提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
 
-### [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
+![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
 
-`Bulk Crap Uninstaller` 是一款免费开源的 `Windows` 卸载软件，它能够快速删除大量不需要的应用程序，甚至是便携或未注册的程序与游戏，并且能自动扫描残留文件、注册表遗留内容等：
+### [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup)
 
-![Bulk-Crap-Uninstaller](https://images-1252557999.file.myqcloud.com/uPic/Bulk-Crap-Uninstaller.png) 
+PC微信聊天记录数据导出工具
 
-### [namida](https://github.com/namidaco/namida)
+基于- wails开发 + React前端，实现PC端微信聊天记录一键导出功能。
+- 导出后数据可以做永久化保存，即使微信停止支持，聊天记录也可以随时查看。
+- 前端界面尽量与微信界面保持一致，减少使用成本。
+- 理论上支持所有Windows 32/64位微信版本。
 
-一个美观且功能丰富的音乐和视频播放器，支持 `Youtube`，基于 `Flutter` 技术构建：
+![wechatDataBackup](https://images-1252557999.file.myqcloud.com/uPic/LJBaJf.png) 
 
-![namida](https://images-1252557999.file.myqcloud.com/uPic/namida.jpg) 
+### [SwitchHosts](https://github.com/oldj/SwitchHosts)
+
+`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
+
+![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
+和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
 
 ## 👀 资料 
 
-### [comflowy](https://www.comflowy.com/zh-CN)
+### [ascoders/weekly](https://github.com/ascoders/weekly)
 
-作者认为 `AI` 生图领域的未来一定是围绕 `Stable Diffusion` 展开，而 `ComfyUI` 相比于 `Stable Diffusion WebUI` 等其他开源产品具备非常强的差异化能力，它具备高度的扩展性和应用可能性，真正做到了让开发者和用户能够根据自己的需求打造个性化的生图流程。
+前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
 
-![comflowy](https://images-1252557999.file.myqcloud.com/uPic/comflowy.jpg) 
+- 前沿技术
+- 设计模式
+- 编译原理
+- 源码解读
+- 商业思考
+- 算法
 
-### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
+非常全面，前端从事人员可以看看。 
 
-一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
+### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
 
-![NhkQDk](https://images-1252557999.file.myqcloud.com/uPic/NhkQDk.jpg) 
+这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
 
-### [Python源码剖析](https://fasionchan.com/python-source/)
+- 👋 入门
+- 💬 大语言模型
+	- 💡 提示工程
+	- 🔧 大语言模型实践
+	- 🔬 大语言模型理论
+- 🎨 AI绘画
+- 🔊 AI音频
+- 🌈 多模态
+- 🧠 深度学习
+- 💻 AI系统 
 
-本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
+### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
 
-![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
+通过科学方法训练自己的身体，让自己更加健康：
+
+![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
 
 ## 🕸 网站 
 
-### [uiverse.io](https://uiverse.io/)
+### [12ft.io](https://12ft.io/)
 
-一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
+输入目标地址，让你浏览一个更干净的网站！删除弹出窗口、横幅和广告：
 
-![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
+![12ft.io](https://images-1252557999.file.myqcloud.com/uPic/12ft.io.jpg)
+[1ft](https://1ft.io/) 也有类似功能。 
 
-### [ipa.store](https://ipa.store/)
+### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
 
-`IPA` 商店：
+老照片修复工具，同时还提供上色和去背景功能：
 
-![ipa_store](https://images-1252557999.file.myqcloud.com/uPic/ipa_store.jpg) 
+![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
 
-### [zhongguose](http://zhongguose.com/)
+### [whatpwacando](https://whatpwacando.today/)
 
-一个中国传统颜色的配色网站：
+该网站功能用于介绍 PWA 的技术进展：
 
-![zhongguose](https://images-1252557999.file.myqcloud.com/uPic/zhongguose.jpg) 
+![whatpwacando](https://images-1252557999.file.myqcloud.com/uPic/whatpwacando.jpg) 
 
 ## ✍️ 说明
 
