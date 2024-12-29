@@ -5,106 +5,111 @@
 
 ## 🎯 项目 
 
-### [linkwarden](https://github.com/linkwarden/linkwarden)
+### [imsyy/home](https://github.com/imsyy/home)
 
-一个自托管的、开源的协作式书签管理器，用于收集、组织和归档网页:
+简单优雅的个人主页项目：
 
-![linkwarden](https://images-1252557999.file.myqcloud.com/uPic/linkwarden.png) 
+- 载入动画
+-  站点简介
+-  Hitokoto 一言
+-  日期及时间
+-  实时天气
+-  时光进度条
+-  音乐播放器
+-  移动端适配
 
-### [social-auto-upload](https://github.com/dreammis/social-auto-upload)
+![imsyy_home](https://images-1252557999.file.myqcloud.com/uPic/imsyy_home.jpeg) 
 
-自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili：
+### [wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook)
 
-![social-auto-upload](https://images-1252557999.file.myqcloud.com/uPic/social-auto-upload.jpg) 
+一个支持消息收发的微信 `Webhook` 机器人🤖，但是要注意使用限制，不然可能被Ban，特性如下：
 
-### [docker-wechat](https://github.com/huan/docker-wechat)
+- 推送消息 (发送文字 / 图片 / 文件)
+- 接收消息（文字 / 图片 / 语音 / 视频 / 文件 / 好友申请 / 公众号推文链接）
+- Docker 部署等
 
-盒装微信，在linux下基于Docker技术使用微信客户端：
+![wechatbot-webhook](https://images-1252557999.file.myqcloud.com/uPic/wechatbot-webhook.gif) 
 
-![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
+### [yuque-tools](https://github.com/vannvan/yuque-tools)
+
+玩转语雀-朴实无华的语雀工具集合，语雀知识库批量导出工具(无需Token)｜浏览器插件助手：
+
+- 个人知识库
+- 空间(团队)知识库
+- 协作知识库
+- 小记 
+
+![yuque-tools](https://images-1252557999.file.myqcloud.com/uPic/yuque-tools.jpg) 
 
 ## 🤖 软件 
 
-### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
+### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
 
-提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
+ImageOptim 是一款开源免费的本地图像压缩工具：
 
-![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
+![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
 
-### [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup)
+我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
 
-PC微信聊天记录数据导出工具
+- [Imagine](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
+- [webutils](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
+- [tinypng](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
+- [tanpok](https://weekly.howie6879.com/2021/11-15~11-21.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
+- [docsmall](https://weekly.howie6879.com/2021/10-18~10-24.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=docsma#docsmall)：提供一些图片压缩、PDF合并分割小功能的网站 
 
-基于- wails开发 + React前端，实现PC端微信聊天记录一键导出功能。
-- 导出后数据可以做永久化保存，即使微信停止支持，聊天记录也可以随时查看。
-- 前端界面尽量与微信界面保持一致，减少使用成本。
-- 理论上支持所有Windows 32/64位微信版本。
+### [Focalboard](https://github.com/mattermost/focalboard)
 
-![wechatDataBackup](https://images-1252557999.file.myqcloud.com/uPic/LJBaJf.png) 
+`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
 
-### [SwitchHosts](https://github.com/oldj/SwitchHosts)
+![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
 
-`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
+### [Bili.Uwp](https://github.com/Richasy/Bili.Uwp)
 
-![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
-和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
+一款**哔哩哔哩**的第三方应用，使用 `UWP` 框架开发，是原生的 `Windows` 应用，支持 `Windows 10/11` 桌面系统，主打设计和易用性：
+
+![Bili.Uwp](https://images-1252557999.file.myqcloud.com/uPic/Bili.Uwp.png) 
 
 ## 👀 资料 
 
-### [ascoders/weekly](https://github.com/ascoders/weekly)
+### [FFmpeg原理](https://ffmpeg.xianwaizhiyin.net/)
 
-前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
+本书《FFmpeg原理》主要讲解 FFmpeg 原理性的知识，前面几章主要讲解一些音视频开发的基础知识，例如原始数据 YUV 跟 RGB，封装格式 FLV 跟 MP4 ，压缩编码的基本概念，还有封装格式分析。
 
-- 前沿技术
-- 设计模式
-- 编译原理
-- 源码解读
-- 商业思考
-- 算法
+前面几章是音视频开发，流媒体技术的基础，后面的章节主要讲解如何搭建 FFmpeg 各种调试环境，同时提供 FFmpeg API 函数的使用示例，最重要的是 分析 ffmpeg.c 跟 ffplay.c 的源码逻辑。
 
-非常全面，前端从事人员可以看看。 
+![ffmpeg](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg.jpg) 
 
-### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
+### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
 
-这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
+自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
 
-- 👋 入门
-- 💬 大语言模型
-	- 💡 提示工程
-	- 🔧 大语言模型实践
-	- 🔬 大语言模型理论
-- 🎨 AI绘画
-- 🔊 AI音频
-- 🌈 多模态
-- 🧠 深度学习
-- 💻 AI系统 
+![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
 
-### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
+### [paper-reading](https://github.com/mli/paper-reading)
 
-通过科学方法训练自己的身体，让自己更加健康：
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
+![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
 
 ## 🕸 网站 
 
-### [12ft.io](https://12ft.io/)
+### [smalldev.tools](https://smalldev.tools/)
 
-输入目标地址，让你浏览一个更干净的网站！删除弹出窗口、横幅和广告：
+开发者常用工具集：
 
-![12ft.io](https://images-1252557999.file.myqcloud.com/uPic/12ft.io.jpg)
-[1ft](https://1ft.io/) 也有类似功能。 
+![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
 
-### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
+### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
 
-老照片修复工具，同时还提供上色和去背景功能：
+冰霜大佬的博客：
 
-![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
+![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
 
-### [whatpwacando](https://whatpwacando.today/)
+### [transhumans](https://www.transhumans.xyz/)
 
-该网站功能用于介绍 PWA 的技术进展：
+免费可商用的人物插图：
 
-![whatpwacando](https://images-1252557999.file.myqcloud.com/uPic/whatpwacando.jpg) 
+![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
 
 ## ✍️ 说明
 
