@@ -12,7 +12,49 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Mon, 23 Dec 2024 13:07:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 13:44:01 +0000</lastBuildDate>
+    <item>
+      <title>12-23~12-29.老胡的周刊（第173期）.md</title>
+      <link>https://weekly.howie6879.com/2024/12-23~12-29.老胡的周刊（第173期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/12-23~12-29.老胡的周刊（第173期）.html"&gt;12-23~12-29.老胡的周刊（第173期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/petercat-ai/petercat"&gt;petercat&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;蚂蚁集团支付宝体验技术部开源的智能答疑机器人解决方案，它允许用户通过提供 &lt;code&gt;GitHub&lt;/code&gt; 仓库地址或名称来自动创建答疑机器人，并将相关文档和 &lt;code&gt;issue&lt;/code&gt; 自动入库作为知识依据。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="petercat" src="https://images-1252557999.file.myqcloud.com/uPic/r2veXY.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/gcui-art/markdown-to-image"&gt;markdown-to-image&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;将 &lt;code&gt;Markdown&lt;/code&gt; 渲染为漂亮的社交媒体图片。此外，该项目还包括一个内置的 &lt;code&gt;WEB Editor&lt;/code&gt;，一键部署后，可以当做 &lt;code&gt;Markdown&lt;/code&gt; 转海报图片在线编辑器使用。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="markdown-to-image" src="https://images-1252557999.file.myqcloud.com/uPic/iyqemy.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/sourcegit-scm/sourcegit"&gt;sourcegit&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个跨平台的 &lt;code&gt;GUI&lt;/code&gt; 客户端：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="sourcegit" src="https://images-1252557999.file.myqcloud.com/uPic/yC8OCO.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.lookai.top/cn/cursor/instruction/instruction"&gt;Curosor 教程&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;零基础小白 &lt;code&gt;Cursor&lt;/code&gt; 学习网站：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Curosor" src="https://images-1252557999.file.myqcloud.com/uPic/YIZShF.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://cobalt.tools/"&gt;cobalt&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个专注于隐私保护和用户自由的&lt;a href="https://github.com/imputnet/cobalt"&gt;开源&lt;/a&gt;在线工具，它允许用户从各种网站上保存视频、音频、图片或 GIF，同时提供匿名请求和加密隧道技术，确保用户的隐私安全。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="cobalt" src="https://images-1252557999.file.myqcloud.com/uPic/ZwEgp6.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/copilot"&gt;github copilot&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;GitHub Copilot&lt;/code&gt; 可以免费使用了，免费用户每月有 2000 个代码建议、50 次对话。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="copilot" src="https://images-1252557999.file.myqcloud.com/uPic/648shM.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">12-23~12-29.老胡的周刊（第173期）.md</guid>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>12-16~12-22.老胡的周刊（第172期）.md</title>
       <link>https://weekly.howie6879.com/2024/12-16~12-22.老胡的周刊（第172期）.html</link>
@@ -1209,71 +1251,6 @@
 &lt;p&gt;🙌 如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">08-05~08-11.老胡的周刊（第154期）.md</guid>
       <pubDate>Sun, 11 Aug 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>07-29~08-04.老胡的周刊（第153期）.md</title>
-      <link>https://weekly.howie6879.com/2024/07-29~08-04.老胡的周刊（第153期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/07-29~08-04.老胡的周刊（第153期）.html"&gt;07-29~08-04.老胡的周刊（第153期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/frectonz/sql-studio"&gt;sql-studio&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;SQL 数据库浏览器，支持 &lt;code&gt;SQLite、libSQL、PostgreSQL、MySQL&amp;amp;DuckDB&lt;/code&gt;，可以理解成一个简洁轻量的数据库客户端，安装使用也很简单：&lt;/p&gt;
-&lt;p&gt;```shell
-curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/releases/download/0.1.23/sql-studio-installer.sh | sh&lt;/p&gt;
-&lt;h1&gt;以周刊数据库为例&lt;/h1&gt;
-&lt;p&gt;sql-studio --address=0.0.0.0:3030 sqlite /Users/howie/Documents/workspace/weekly/weekly.db
-```&lt;/p&gt;
-&lt;p&gt;这样通过 Web 即可查看数据库信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;数据库整体元数据信息概览&lt;/li&gt;
-&lt;li&gt;表格数据浏览&lt;/li&gt;
-&lt;li&gt;自定义查询（提示不全面，如果能接入 AI 感觉会更好）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="sql-studio" src="https://images-1252557999.file.myqcloud.com/uPic/sql-studio.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/tiddly-gittly/TidGi-Desktop"&gt;TidGi-Desktop&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="TidGi-Desktop" src="https://images-1252557999.file.myqcloud.com/uPic/TidGi-Desktop.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;个人笔记记录这块老胡还在坚挺着使用 &lt;a href="https://github.com/laurent22/joplin"&gt;Joplin&lt;/a&gt;，如果有特别推荐的可以评论推荐下。&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/xingpingcn/enhanced-FaaS-in-China"&gt;enhanced-FaaS-in-China&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;提升部署在 &lt;code&gt;cloudflare、vercel、netlify&lt;/code&gt; 的网页在中国的访问速度和稳定性。&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Predidit/Kazumi"&gt;Kazumi&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，非常强大：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Kazumi" src="https://images-1252557999.file.myqcloud.com/uPic/Kazumi.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Chenyme/Chenyme-AAVT"&gt;Chenyme-AAVT&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Chenyme-AAVT" src="https://images-1252557999.file.myqcloud.com/uPic/Chenyme-AAVT.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/richhost/pixzip-lite"&gt;pixzip-lite&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一款快速、免费的图片压缩软件，支持 &lt;code&gt;JPG / PNG / WebP / AVIF&lt;/code&gt; 等主流格式，支持 &lt;code&gt;Windows 10+，macOS 11+&lt;/code&gt; 操作系统。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="pixzip" src="https://images-1252557999.file.myqcloud.com/uPic/pixzip.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/llwslc/grammar-club"&gt;grammar-club&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;旋元佑老师的语法俱乐部书籍电子版，在线阅读&lt;a href="https://llwslc.github.io/grammar-club/content/Preface.html"&gt;地址&lt;/a&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="grammar-club" src="https://images-1252557999.file.myqcloud.com/uPic/grammar-club.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://askaitools.ai/"&gt;askaitools.ai&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;专为人工智能产品量身定制的尖端搜索引擎项目，快速搜索查找 1w+ AI 产品：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="askaitools" src="https://images-1252557999.file.myqcloud.com/uPic/askaitools.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://goldprice.fun/"&gt;goldprice.fun&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;查看国内国际金价，包含各金店品牌：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="goldprice" src="https://images-1252557999.file.myqcloud.com/uPic/goldprice.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://0v0.ai/rmbg/"&gt;0v0.ai&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;图片背景移除网站：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="0v0" src="https://images-1252557999.file.myqcloud.com/uPic/0v0.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">07-29~08-04.老胡的周刊（第153期）.md</guid>
-      <pubDate>Sun, 04 Aug 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
