@@ -5,107 +5,95 @@
 
 ## 🎯 项目 
 
-### [certimate](https://github.com/usual2970/certimate)
+### [typikon](https://github.com/auula/typikon)
 
-开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期：
+Typikon 是一个将 Markdown 转换为在线书籍的工具，类似于 mdbook 和 gitbook，但更易于使用，颜值也很不错：
 
-![certimate](https://images-1252557999.file.myqcloud.com/uPic/slnLnQ.png) 
+![typikon](https://images-1252557999.file.myqcloud.com/uPic/typikon.jpg) 
 
-### [DeepLX](https://github.com/OwO-Network/DeepLX)
+### [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
 
-`DeepL` 免费翻译 `API` ，无需 `Token`：
+基于 `AI` 完整保留排版的 `PDF` 文档全文双语翻译，支持 `Google/DeepL/Ollama/OpenAI` 等服务，提供 `CLI/GUI/Docker`：
 
-![deeplx](https://images-1252557999.file.myqcloud.com/uPic/deeplx.jpg)
+- 📊 保留公式、图表、目录和注释 (预览效果)
+- 🌐 支持 多种语言 和 诸多翻译服务
+- 🤖 提供 命令行工具，图形交互界面，以及 容器化部署
 
-为了防止触发 429，可使用 [DeepLX-Serverless](https://github.com/guobao2333/DeepLX-Serverless) 项目，其利用了云函数的请求 IP 不固定的特性，极大程度上避免了 429 请求太频繁报错。 
+![PDFMathTranslate](https://images-1252557999.file.myqcloud.com/uPic/m0zGEV.png) 
 
-### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
+### [sonic](https://github.com/go-sonic/sonic)
 
-一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
+`Sonic` 是 `Go` 开发的博客平台，简单而强大：
 
-![ikea-low-price](https://images-1252557999.file.myqcloud.com/uPic/ikea-low-price.png) 
+![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
 
 ## 🤖 软件 
 
-### [oneAnime](https://github.com/Predidit/oneAnime)
+### [DevToys](https://github.com/veler/DevToys)
 
-一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范：
+Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
 
-![oneAnime](https://images-1252557999.file.myqcloud.com/uPic/oneAnime.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/DevToys.png)
 
-### [FileCentipede](https://github.com/filecxx/FileCentipede)
+可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
 
-File centipede 是一款一体化互联网文件上传/下载管理器、BitTorrent 客户端、WebDAV 客户端、FTP 客户端和 SSH 客户端。
+![](https://images-1252557999.file.myqcloud.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
 
-- 快速、可定制且用户友好
-- 它支持多协议，并包含许多有用的辅助工具，例如 HTTP 请求器、文件合并和编码器
-- 通过浏览器集成，您可以从网站下载音频和视频，甚至加密的视频
+放心体验吧~ 
 
-![FileCentipede](https://images-1252557999.file.myqcloud.com/uPic/u8qNcG.png) 
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-### [NetNewsWire](https://netnewswire.com/)
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
-- 支持 Safari 扩展
-- 订阅源下载
-- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
-- 主题设置
-- 多窗口支持
+### [kopia](https://github.com/kopia/kopia)
 
-![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
+跨平台备份/还原工具，它能够将指定的文件和目录加密压缩后生成快照，然后上传到远程服务器或云存储，实现远程备份数据的功能，开箱即用支持命令行和 `GUI` 两种使用方式：
+
+![kopia](https://images-1252557999.file.myqcloud.com/uPic/kopia.webp) 
 
 ## 👀 资料 
 
-### [Sora 学习手册](https://yunyinghui.feishu.cn/wiki/BaCEwe3AliqYERkc9dVcfW0BnXg)
+### [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/)
 
-基于飞书文档发布，包含一些 `Sora` 介绍，第三方技术拆解分享，研究报告，案例等内容，比较浅显但是可以作为了解的途径，里面的联系方式**慎加**。 
+命令行的数据科学，本书演示了如何通过命令行的灵活性帮你成为更高效、更有生产力的数据科学家。
 
-### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
+![telegram-cloud-photo-size-5-6181558086683180904-y](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6181558086683180904-y.jpg) 
 
-带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
+### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
 
-![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
+《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
 
-### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
+![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
 
-清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
+### [动手实战人工智能](https://aibydoing.com/intro "动手实战人工智能")
 
-更新记录如下：
+动手实战人工智能系列教程，希望从监督学习开始，带你入门机器学习和深度学习。
 
-- 2020-11-03：环境搭建完成，开始着手编写文档。
-- 2020-11-13：第一章完成。
-- 2020-11-27：第二章完成。
-- 2020-12-20：前七章代码完成。
-- 2021-01-10：第三章完成。
-- 2021-01-18：加入第零章。
-- 2021-01-30：第四章完成。
-- 2021-02-16：第五章完成。
-- 2021-02-20：第六章完成。
-- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
-- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
+作者深入剖析和推导了每一个基础算法的原理，并将其数学过程清晰地呈现出来。同时，作者基于 Python 代码对公式进行了逐一对应的实现，让公式和代码紧密相连，帮助你深入理解算法的运作机制。
 
-热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
+![aibydoing](https://images-1252557999.file.myqcloud.com/uPic/aibydoing.jpg) 
 
 ## 🕸 网站 
 
-### [ideogram.ai](https://ideogram.ai/)
+### [haitang](https://github.com/javayhu/haitang)
 
-免费无次数限制的文字转图片网页：
+海棠诗社，提供古诗词的数字化收集，可以按照不同方式检索和分类，项目代码完全[开源](https://github.com/javayhu/haitang)：
 
-![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
+![haitang](https://images-1252557999.file.myqcloud.com/uPic/haitang.jpg) 
 
-### [the-algorithms](https://the-algorithms.com/zh_Hans)
+### [ailogo](https://ailogo.qq.com/)
 
-`GitHub` 最大的开源算法库：
+`AI` 智能生成可商用的 `LOGO`：
 
-![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
+![ailogo](https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg) 
 
-### [onlinedoctranslator](https://www.onlinedoctranslator.com/zh-CN/)
+### [bizhi1](https://bizhi1.com/)
 
-立即翻译任何文档格式为任意语言，并保持排版不变，免费：
+极简壁纸是一个由个人维护的壁纸小站，无广告，界面清爽，可以很方便地下载必应壁纸：
 
-![onlinedoctranslator](https://images-1252557999.file.myqcloud.com/uPic/onlinedoctranslator.jpg) 
+![bizhi1](https://images-1252557999.file.myqcloud.com/uPic/bizhi1.jpg) 
 
 ## ✍️ 说明
 
