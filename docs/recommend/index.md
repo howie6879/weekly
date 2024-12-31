@@ -5,95 +5,88 @@
 
 ## 🎯 项目 
 
-### [typikon](https://github.com/auula/typikon)
+### [glance](https://github.com/glanceapp/glance)
 
-Typikon 是一个将 Markdown 转换为在线书籍的工具，类似于 mdbook 和 gitbook，但更易于使用，颜值也很不错：
+`Glance` 可以将你所有的订阅源聚合到一个页面中，支持多种小部件，可以自定义主题：
 
-![typikon](https://images-1252557999.file.myqcloud.com/uPic/typikon.jpg) 
+![glance](https://images-1252557999.file.myqcloud.com/uPic/glance.jpg) 
 
-### [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
+### [PyWxDump](https://github.com/xaoyaoo/PyWxDump)
 
-基于 `AI` 完整保留排版的 `PDF` 文档全文双语翻译，支持 `Google/DeepL/Ollama/OpenAI` 等服务，提供 `CLI/GUI/Docker`：
+和上周推荐的 [WeChatMsg](https://weekly.howie6879.com/2023/11-27~12-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC118%E6%9C%9F%EF%BC%89.html) 项目同样类型，针对微信聊天记录，获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
 
-- 📊 保留公式、图表、目录和注释 (预览效果)
-- 🌐 支持 多种语言 和 诸多翻译服务
-- 🤖 提供 命令行工具，图形交互界面，以及 容器化部署
+![PyWxDump](https://images-1252557999.file.myqcloud.com/uPic/PyWxDump.png) 
 
-![PDFMathTranslate](https://images-1252557999.file.myqcloud.com/uPic/m0zGEV.png) 
+### [SoraWebui](https://github.com/SoraWebui/SoraWebui)
 
-### [sonic](https://github.com/go-sonic/sonic)
+`SoraWebui` 是一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能：
 
-`Sonic` 是 `Go` 开发的博客平台，简单而强大：
-
-![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
+![SoraWebui](https://images-1252557999.file.myqcloud.com/uPic/SoraWebui.jpeg) 
 
 ## 🤖 软件 
 
-### [DevToys](https://github.com/veler/DevToys)
+### [ics-openvpn](https://github.com/schwabe/ics-openvpn)
 
-Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
+`ics-openvpn` 是一个适用 `Android`  的 `OpenVPN` 客户端项目，它允许用户在不需要 `root` 权限的情况下通过 `Android` 的 `VPNService API` 使用 `VPN` 服务：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/DevToys.png)
+![ics-openvpn](https://images-1252557999.file.myqcloud.com/uPic/g0QLis.png) 
 
-可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
+### [FairEmail](https://github.com/M66B/FairEmail)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
+完全开源免费、具有全面功能、面向隐私的邮件App（仅支持安卓）：
 
-放心体验吧~ 
+![FairEmail](https://images-1252557999.file.myqcloud.com/uPic/FairEmail.png) 
 
-### [LANDrop](https://github.com/LANDrop/LANDrop)
+### [AltTab](https://alt-tab-macos.netlify.app/)
 
-开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
+`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
 
-![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
-
-### [kopia](https://github.com/kopia/kopia)
-
-跨平台备份/还原工具，它能够将指定的文件和目录加密压缩后生成快照，然后上传到远程服务器或云存储，实现远程备份数据的功能，开箱即用支持命令行和 `GUI` 两种使用方式：
-
-![kopia](https://images-1252557999.file.myqcloud.com/uPic/kopia.webp) 
+![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
 
 ## 👀 资料 
 
-### [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/)
+### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
 
-命令行的数据科学，本书演示了如何通过命令行的灵活性帮你成为更高效、更有生产力的数据科学家。
+这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
-![telegram-cloud-photo-size-5-6181558086683180904-y](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6181558086683180904-y.jpg) 
+之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.com/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
 
-### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
+### [穷佐罗的Linux书](https://zorrozou.github.io/)
 
-《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
+穷佐罗的Linux书，挺不错的一份`Linux`教程。
 
-![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
+![zorrozou](https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg) 
 
-### [动手实战人工智能](https://aibydoing.com/intro "动手实战人工智能")
+### [learnmoderncpp](https://learnmoderncpp.com/)
 
-动手实战人工智能系列教程，希望从监督学习开始，带你入门机器学习和深度学习。
+现代 C++学习教程：
 
-作者深入剖析和推导了每一个基础算法的原理，并将其数学过程清晰地呈现出来。同时，作者基于 Python 代码对公式进行了逐一对应的实现，让公式和代码紧密相连，帮助你深入理解算法的运作机制。
-
-![aibydoing](https://images-1252557999.file.myqcloud.com/uPic/aibydoing.jpg) 
+![learnmoderncpp](https://images-1252557999.file.myqcloud.com/uPic/learnmoderncpp.jpg) 
 
 ## 🕸 网站 
 
-### [haitang](https://github.com/javayhu/haitang)
+### [tinypng](https://tinypng.com/)
 
-海棠诗社，提供古诗词的数字化收集，可以按照不同方式检索和分类，项目代码完全[开源](https://github.com/javayhu/haitang)：
+比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
 
-![haitang](https://images-1252557999.file.myqcloud.com/uPic/haitang.jpg) 
+![tinypng](https://images-1252557999.file.myqcloud.com/uPic/8s8ltr.png)
 
-### [ailogo](https://ailogo.qq.com/)
+如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
 
-`AI` 智能生成可商用的 `LOGO`：
+- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
+- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
 
-![ailogo](https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg) 
+### [z2h 字帖](https://paper.z2h.cn/)
 
-### [bizhi1](https://bizhi1.com/)
+用正确的方法刻意练习，每个人都能写出一手漂亮的字，自定义字帖字体和内容，可打印导出练字：
 
-极简壁纸是一个由个人维护的壁纸小站，无广告，界面清爽，可以很方便地下载必应壁纸：
+![z2h](https://images-1252557999.file.myqcloud.com/uPic/z2h.jpg) 
 
-![bizhi1](https://images-1252557999.file.myqcloud.com/uPic/bizhi1.jpg) 
+### [morphic.sh](https://www.morphic.sh/)
+
+一个开源的 AI 搜索引擎，支持 `Vercel` 自建部署，可选 `OpenAI、Gemini`，以及最新的 `Llama3` 大模型，网站开源 [morphic](https://github.com/miurla/morphic)：
+
+![morphic](https://images-1252557999.file.myqcloud.com/uPic/morphic.jpg) 
 
 ## ✍️ 说明
 
