@@ -5,88 +5,101 @@
 
 ## 🎯 项目 
 
-### [glance](https://github.com/glanceapp/glance)
+### [CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077)
 
-`Glance` 可以将你所有的订阅源聚合到一个页面中，支持多种小部件，可以自定义主题：
+`CyberScraper-2077` 是一个由 OpenAI 和 Ollama 支持的强大的 AI 驱动网页爬虫工具，提供了多种特性和功能，如用户友好的 Streamlit 界面、多格式数据导出、隐身模式、异步操作、智能解析等，旨在高效、隐蔽地从网络中提取数据：
 
-![glance](https://images-1252557999.file.myqcloud.com/uPic/glance.jpg) 
+![CyberScraper](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-09-01_11-56-36.jpg) 
 
-### [PyWxDump](https://github.com/xaoyaoo/PyWxDump)
+### [upptime](https://github.com/upptime/upptime)
 
-和上周推荐的 [WeChatMsg](https://weekly.howie6879.com/2023/11-27~12-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC118%E6%9C%9F%EF%BC%89.html) 项目同样类型，针对微信聊天记录，获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
+由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
 
-![PyWxDump](https://images-1252557999.file.myqcloud.com/uPic/PyWxDump.png) 
+![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
 
-### [SoraWebui](https://github.com/SoraWebui/SoraWebui)
+### [wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook)
 
-`SoraWebui` 是一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能：
+一个支持消息收发的微信 `Webhook` 机器人🤖，但是要注意使用限制，不然可能被Ban，特性如下：
 
-![SoraWebui](https://images-1252557999.file.myqcloud.com/uPic/SoraWebui.jpeg) 
+- 推送消息 (发送文字 / 图片 / 文件)
+- 接收消息（文字 / 图片 / 语音 / 视频 / 文件 / 好友申请 / 公众号推文链接）
+- Docker 部署等
+
+![wechatbot-webhook](https://images-1252557999.file.myqcloud.com/uPic/wechatbot-webhook.gif) 
 
 ## 🤖 软件 
 
-### [ics-openvpn](https://github.com/schwabe/ics-openvpn)
+### [pilipala](https://github.com/guozhigq/pilipala)
 
-`ics-openvpn` 是一个适用 `Android`  的 `OpenVPN` 客户端项目，它允许用户在不需要 `root` 权限的情况下通过 `Android` 的 `VPNService API` 使用 `VPN` 服务：
+使用 `Flutter` 开发的 `BiliBili` 第三方客户端，专为提高用户在观看BiliBili视频时的体验而设计：
 
-![ics-openvpn](https://images-1252557999.file.myqcloud.com/uPic/g0QLis.png) 
+![pilipala](https://images-1252557999.file.myqcloud.com/uPic/pilipala.jpg) 
 
-### [FairEmail](https://github.com/M66B/FairEmail)
+### [SketchyBar](https://github.com/FelixKratz/SketchyBar)
 
-完全开源免费、具有全面功能、面向隐私的邮件App（仅支持安卓）：
+高度可定制的macOS状态栏替代品：
 
-![FairEmail](https://images-1252557999.file.myqcloud.com/uPic/FairEmail.png) 
+![SketchyBar](https://images-1252557999.file.myqcloud.com/uPic/SketchyBar.jpg) 
 
-### [AltTab](https://alt-tab-macos.netlify.app/)
+### [flutter_server_box](https://github.com/lollipopkit/flutter_server_box/blob/main/README_zh.md)
 
-`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
+使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具：
 
-![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
+-  功能
+	-  SSH 终端, SFTP
+	-  Docker & 包 管理器
+	-  状态图表
+	-  代码编辑器
+	-  Ping 和 更多
+-  本地化 ( English, 简体中文, Deutsch, 繁體中文)
+-  桌面端支持
+
+![flutter_server_box](https://images-1252557999.file.myqcloud.com/uPic/flutter_server_box.jpg) 
 
 ## 👀 资料 
 
-### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
+### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
 
-这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
+阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
 
-之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.com/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
+![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
 
-### [穷佐罗的Linux书](https://zorrozou.github.io/)
+### [Linux 内核教学](https://linux-kernel-labs-zh.xyz/)
 
-穷佐罗的Linux书，挺不错的一份`Linux`教程。
+本文档包含一系列 `Linux` 内核主题的课程和实验，课程侧重于理论和 `Linux` 内核探索。实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：
 
-![zorrozou](https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg) 
+- 主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引
+- 实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示
 
-### [learnmoderncpp](https://learnmoderncpp.com/)
+![linux-kernel-labs-zh](https://images-1252557999.file.myqcloud.com/uPic/linux-kernel-labs-zh.jpg) 
 
-现代 C++学习教程：
+### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 
-![learnmoderncpp](https://images-1252557999.file.myqcloud.com/uPic/learnmoderncpp.jpg) 
+[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
+
+**可惜永远都不会再更新了，默哀！**
+
+![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
 
 ## 🕸 网站 
 
-### [tinypng](https://tinypng.com/)
+### [trendingpapers](https://trendingpapers.com)
 
-比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
+类似于 `Github Trending` 的计算机科学论文趋势榜单：
 
-![tinypng](https://images-1252557999.file.myqcloud.com/uPic/8s8ltr.png)
+![trendingpapers](https://images-1252557999.file.myqcloud.com/uPic/trendingpapers.jpg) 
 
-如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
+### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
 
-- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
-- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
+老照片修复工具，同时还提供上色和去背景功能：
 
-### [z2h 字帖](https://paper.z2h.cn/)
+![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
 
-用正确的方法刻意练习，每个人都能写出一手漂亮的字，自定义字帖字体和内容，可打印导出练字：
+### [similarsites](https://www.similarsites.com/)
 
-![z2h](https://images-1252557999.file.myqcloud.com/uPic/z2h.jpg) 
+输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
 
-### [morphic.sh](https://www.morphic.sh/)
-
-一个开源的 AI 搜索引擎，支持 `Vercel` 自建部署，可选 `OpenAI、Gemini`，以及最新的 `Llama3` 大模型，网站开源 [morphic](https://github.com/miurla/morphic)：
-
-![morphic](https://images-1252557999.file.myqcloud.com/uPic/morphic.jpg) 
+![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
 
 ## ✍️ 说明
 
