@@ -5,101 +5,83 @@
 
 ## 🎯 项目 
 
-### [CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077)
+### [GFPGAN](https://github.com/TencentARC/GFPGAN)
 
-`CyberScraper-2077` 是一个由 OpenAI 和 Ollama 支持的强大的 AI 驱动网页爬虫工具，提供了多种特性和功能，如用户友好的 Streamlit 界面、多格式数据导出、隐身模式、异步操作、智能解析等，旨在高效、隐蔽地从网络中提取数据：
+腾讯开源的老照片修复项目：
 
-![CyberScraper](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-09-01_11-56-36.jpg) 
+![GFPGAN](https://images-1252557999.file.myqcloud.com/uPic/UOiwSK.jpg) 
 
-### [upptime](https://github.com/upptime/upptime)
+### [lsky-pro](https://github.com/lsky-org/lsky-pro)
 
-由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
+非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
 
-![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
+![vps_lsky_01](https://images-1252557999.file.myqcloud.com/uPic/vps_lsky_01.jpg) 
 
-### [wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook)
+### [penpot](https://github.com/penpot/penpot)
 
-一个支持消息收发的微信 `Webhook` 机器人🤖，但是要注意使用限制，不然可能被Ban，特性如下：
+`Penpot` 是第一个面向跨领域团队的开源设计和原型平台，基于 `Web`，对标 `Figma`:
 
-- 推送消息 (发送文字 / 图片 / 文件)
-- 接收消息（文字 / 图片 / 语音 / 视频 / 文件 / 好友申请 / 公众号推文链接）
-- Docker 部署等
-
-![wechatbot-webhook](https://images-1252557999.file.myqcloud.com/uPic/wechatbot-webhook.gif) 
+![penpot](https://images-1252557999.file.myqcloud.com/uPic/penpot.jpg) 
 
 ## 🤖 软件 
 
-### [pilipala](https://github.com/guozhigq/pilipala)
+### [Poe Client](https://poe.com/download)
 
-使用 `Flutter` 开发的 `BiliBili` 第三方客户端，专为提高用户在观看BiliBili视频时的体验而设计：
+`Poe` 客户端，让你免费体验各种 `GPT & LLM` 机器人的聚合软件，一开始是网页版👉 [poe.com](https://poe.com/)，现在有原生客户端：
 
-![pilipala](https://images-1252557999.file.myqcloud.com/uPic/pilipala.jpg) 
+![poe](https://images-1252557999.file.myqcloud.com/uPic/poe.jpg) 
 
-### [SketchyBar](https://github.com/FelixKratz/SketchyBar)
+### [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
 
-高度可定制的macOS状态栏替代品：
+Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端，首页、书影音、小组、市集及个人中心：
 
-![SketchyBar](https://images-1252557999.file.myqcloud.com/uPic/SketchyBar.jpg) 
+![FlutterDouBan](https://images-1252557999.file.myqcloud.com/uPic/FlutterDouBan.jpg) 
 
-### [flutter_server_box](https://github.com/lollipopkit/flutter_server_box/blob/main/README_zh.md)
+### [Xournal++](https://github.com/xournalpp/xournalpp)
 
-使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具：
+`Xournal++`是一款支持PDF注释的开源手写笔记软件，同样具有跨平台属性，功能挺多，有数位板的可以体验一下。
 
--  功能
-	-  SSH 终端, SFTP
-	-  Docker & 包 管理器
-	-  状态图表
-	-  代码编辑器
-	-  Ping 和 更多
--  本地化 ( English, 简体中文, Deutsch, 繁體中文)
--  桌面端支持
-
-![flutter_server_box](https://images-1252557999.file.myqcloud.com/uPic/flutter_server_box.jpg) 
+![Xournal++](https://images-1252557999.file.myqcloud.com/uPic/2DWaXR.jpg) 
 
 ## 👀 资料 
 
-### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
+### [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note)
 
-阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
+从0开始学习英语语法的开源项目：
 
-![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
+![english-note](https://images-1252557999.file.myqcloud.com/uPic/english-note.jpg) 
 
-### [Linux 内核教学](https://linux-kernel-labs-zh.xyz/)
+### [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)
 
-本文档包含一系列 `Linux` 内核主题的课程和实验，课程侧重于理论和 `Linux` 内核探索。实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：
+`eBPF` 开发者教程与知识库：通过小工具和示例一步步学习 `eBPF`，包含性能、网络、安全等多种应用场景：
 
-- 主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引
-- 实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示
+![bpf-developer-tutorial](https://images-1252557999.file.myqcloud.com/uPic/bpf-developer-tutorial.jpg) 
 
-![linux-kernel-labs-zh](https://images-1252557999.file.myqcloud.com/uPic/linux-kernel-labs-zh.jpg) 
+### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
 
-### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
+带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
 
-[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
-
-**可惜永远都不会再更新了，默哀！**
-
-![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
+![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [trendingpapers](https://trendingpapers.com)
+### [linegraphmaker](https://linegraphmaker.co/)
 
-类似于 `Github Trending` 的计算机科学论文趋势榜单：
+在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
 
-![trendingpapers](https://images-1252557999.file.myqcloud.com/uPic/trendingpapers.jpg) 
+![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
 
-### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
+### [new.space](https://new.space/)
 
-老照片修复工具，同时还提供上色和去背景功能：
+免注册多人临时文件分享工具：
 
-![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
+![new.space](https://images-1252557999.file.myqcloud.com/uPic/new.space.jpg) 
 
-### [similarsites](https://www.similarsites.com/)
+### [openfarm.cc](https://openfarm.cc/)
 
-输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
+[`OpenFarm`](https://github.com/openfarmcc/OpenFarm) 是一个开源项目，目标是教你如何种植农作物：
 
-![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
+![openfarm](https://images-1252557999.file.myqcloud.com/uPic/openfarm.jpg) 
 
 ## ✍️ 说明
 
