@@ -5,83 +5,90 @@
 
 ## 🎯 项目 
 
-### [GFPGAN](https://github.com/TencentARC/GFPGAN)
+### [showdoc](https://github.com/star7th/showdoc)
 
-腾讯开源的老照片修复项目：
+一个非常适合IT团队的在线API文档、技术文档工具:
 
-![GFPGAN](https://images-1252557999.file.myqcloud.com/uPic/UOiwSK.jpg) 
+![showdoc](https://images-1252557999.file.myqcloud.com/uPic/showdoc.jpg) 
 
-### [lsky-pro](https://github.com/lsky-org/lsky-pro)
+### [mdx-editor](https://github.com/maqi1520/mdx-editor)
 
-非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
+一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
 
-![vps_lsky_01](https://images-1252557999.file.myqcloud.com/uPic/vps_lsky_01.jpg) 
+![mdx-editor](https://images-1252557999.file.myqcloud.com/uPic/mdx-editor.jpg) 
 
-### [penpot](https://github.com/penpot/penpot)
+### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 
-`Penpot` 是第一个面向跨领域团队的开源设计和原型平台，基于 `Web`，对标 `Figma`:
+提供多款 SS 规则，拥有强劲的广告过滤功能：
 
-![penpot](https://images-1252557999.file.myqcloud.com/uPic/penpot.jpg) 
+![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
 
 ## 🤖 软件 
 
-### [Poe Client](https://poe.com/download)
+### [NetNewsWire](https://netnewswire.com/)
 
-`Poe` 客户端，让你免费体验各种 `GPT & LLM` 机器人的聚合软件，一开始是网页版👉 [poe.com](https://poe.com/)，现在有原生客户端：
+适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
 
-![poe](https://images-1252557999.file.myqcloud.com/uPic/poe.jpg) 
+- 支持 Safari 扩展
+- 订阅源下载
+- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
+- 主题设置
+- 多窗口支持
 
-### [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
+![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
 
-Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端，首页、书影音、小组、市集及个人中心：
+### [Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker)
 
-![FlutterDouBan](https://images-1252557999.file.myqcloud.com/uPic/FlutterDouBan.jpg) 
+`Smart-AutoClicker` 是一个开源的自动点击软件，专为 `Android` 设备设计，能够基于图像检测来自动化重复性任务，同时提供了传统的自动点击功能：
 
-### [Xournal++](https://github.com/xournalpp/xournalpp)
+![44OJR2](https://images-1252557999.file.myqcloud.com/uPic/44OJR2.png) 
 
-`Xournal++`是一款支持PDF注释的开源手写笔记软件，同样具有跨平台属性，功能挺多，有数位板的可以体验一下。
+### [shotcut](https://github.com/mltframework/shotcut)
 
-![Xournal++](https://images-1252557999.file.myqcloud.com/uPic/2DWaXR.jpg) 
+`Shotcut` 是一个开源免费跨平台的视频编辑器，可以对录制的视频进行剪切、添加特效、添加文字、添加滤镜、改变色彩等一系列操作：
+
+![shotcut](https://images-1252557999.file.myqcloud.com/uPic/shotcut.png) 
 
 ## 👀 资料 
 
-### [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note)
+### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
 
-从0开始学习英语语法的开源项目：
+精益副业：程序员如何优雅地做副业:
 
-![english-note](https://images-1252557999.file.myqcloud.com/uPic/english-note.jpg) 
+![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
 
-### [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)
+### [stevejobsarchive](https://book.stevejobsarchive.com/)
 
-`eBPF` 开发者教程与知识库：通过小工具和示例一步步学习 `eBPF`，包含性能、网络、安全等多种应用场景：
+乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：
 
-![bpf-developer-tutorial](https://images-1252557999.file.myqcloud.com/uPic/bpf-developer-tutorial.jpg) 
+![stevejobsarchive_zh](https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg)
+如果你需要翻译版，可以在公众号后台联系我。 
 
-### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
+### [LearnData-开源笔记](https://newzone.top/)
 
-带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
+一份关于开源工具、效率方法、心理学探索的自我提升笔记：
 
-![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
+![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
 
 ## 🕸 网站 
 
-### [linegraphmaker](https://linegraphmaker.co/)
+### [producthunt-daily-hot](https://github.com/ViggoZ/producthunt-daily-hot)
 
-在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
+`Product Hunt` 每日热榜是一个基于 `GitHub Action` 的自动化工具，它能够每天定时生成 `Product Hunt` 上的热门产品榜单 `Markdown` 文件，并自动提交到 `GitHub` 仓库中。该项目旨在帮助用户快速查看每日的 `Product Hunt` 热门榜单，并提供更详细的产品信息。
 
-![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
+![producthunt-daily-hot](https://images-1252557999.file.myqcloud.com/uPic/2vDyRf.png) 
 
-### [new.space](https://new.space/)
+### [nosh](https://nosh.rocks/)
 
-免注册多人临时文件分享工具：
+一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
 
-![new.space](https://images-1252557999.file.myqcloud.com/uPic/new.space.jpg) 
+![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
 
-### [openfarm.cc](https://openfarm.cc/)
+### [selfh](https://selfh.st/)
 
-[`OpenFarm`](https://github.com/openfarmcc/OpenFarm) 是一个开源项目，目标是教你如何种植农作物：
+网站提供了可自建项目的动态，每周更新：
 
-![openfarm](https://images-1252557999.file.myqcloud.com/uPic/openfarm.jpg) 
+![selfh](https://images-1252557999.file.myqcloud.com/uPic/jVlzyp.png) 
 
 ## ✍️ 说明
 
