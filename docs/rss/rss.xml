@@ -12,7 +12,71 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 29 Dec 2024 13:44:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 11:49:56 +0000</lastBuildDate>
+    <item>
+      <title>01-01~01-05.老胡的周刊（第174期）.md</title>
+      <link>https://weekly.howie6879.com/2025/01-01~01-05.老胡的周刊（第174期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/01-01~01-05.老胡的周刊（第174期）.html"&gt;01-01~01-05.老胡的周刊（第174期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Byaidu/PDFMathTranslate"&gt;PDFMathTranslate&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;AI&lt;/code&gt; 完整保留排版的 &lt;code&gt;PDF&lt;/code&gt; 文档全文双语翻译，支持 &lt;code&gt;Google/DeepL/Ollama/OpenAI&lt;/code&gt; 等服务，提供 &lt;code&gt;CLI/GUI/Docker&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="PDFMathTranslate" src="https://images-1252557999.file.myqcloud.com/uPic/lRCLw6.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/teableio/teable"&gt;teable&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;No-Code&lt;/code&gt; 的下一代 &lt;code&gt;Airtable&lt;/code&gt; 替代品，它提供了一个类似电子表格的界面来创建强大的数据库应用，支持实时协作，并且能够扩展到数百万行数据：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="teable" src="https://images-1252557999.file.myqcloud.com/uPic/wzL3bp.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/arkohut/pensieve"&gt;pensieve&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Pensieve&lt;/code&gt; 是一个专注于隐私的被动记录项目。它可以自动记录屏幕内容，构建智能索引，并提供便捷的 &lt;code&gt;web&lt;/code&gt; 界面来检索历史记录：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pensieve" src="https://images-1252557999.file.myqcloud.com/uPic/SFLqDw.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/APIParkLab/APIPark"&gt;APIPark&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源的一站式AI网关和API开发者门户，帮助开发者和企业轻松管理、集成和部署AI服务，可以免费商用！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;无缝接入多种大型AI模型，并将这些AI能力打包成API进行调用，从而大幅简化了AI模型的使用门槛。&lt;/li&gt;
+&lt;li&gt;管理复杂的 AI &amp;amp; API 调用关系。&lt;/li&gt;
+&lt;li&gt;管理 API 的创建、监控、安全。&lt;/li&gt;
+&lt;li&gt;故障检测和排查：简化系统问题的识别和解决。&lt;/li&gt;
+&lt;li&gt;量化数据资产价值：提升数据资产的可见性和估值。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="APIPark" src="https://images-1252557999.file.myqcloud.com/uPic/NLKcGd.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/geek-fun/dockit"&gt;dockit&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个跨平台的图形用户界面客户端，支持 &lt;code&gt;Elasticsearch&lt;/code&gt; 和 &lt;code&gt;Opensearch&lt;/code&gt; 数据库管理。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="dockit" src="https://images-1252557999.file.myqcloud.com/uPic/apAgUR.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/cyhuajuan/FreeReNamer"&gt;FreeReNamer&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;功能强大又易用的文件批量重命名软件：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="FreeReNamer" src="https://images-1252557999.file.myqcloud.com/uPic/wSK06i.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://pan.quark.cn/s/f48705d07a3f"&gt;王慧文的清华产品课笔记&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;美团元老王慧文的清华产品课笔记，涵盖产品、战略、运营、需求、供需关系等多方面内容，阅读地址：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://nanqiang.feishu.cn/wiki/wikcncDyFTq1agB5UaEZnUGZD4g"&gt;飞书在线&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pan.quark.cn/s/f48705d07a3f"&gt;PDF 下载&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.datawhale.cn/home"&gt;datawhale.cn&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Datawhale&lt;/code&gt; 通过开源学习模式，助力 &lt;code&gt;AI&lt;/code&gt; 学习者与知识连接，与人连接，与场景连接，推动 &lt;code&gt;AI&lt;/code&gt; 人才培养:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="datawhale" src="https://images-1252557999.file.myqcloud.com/uPic/plDyMy.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://removebg.one/"&gt;removebg.one&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;免费的图片背景去除网页工具：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="removebg" src="https://images-1252557999.file.myqcloud.com/uPic/s6r4xu.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://icons.pqoqubbw.dev/"&gt;pqoqubbw/icons&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;不一样的&lt;a href="https://github.com/pqoqubbw/icons"&gt;开源&lt;/a&gt;图标库，让 &lt;code&gt;Icons&lt;/code&gt; 动起来：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pqoqubbw" src="https://images-1252557999.file.myqcloud.com/uPic/zVA8VP.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">01-01~01-05.老胡的周刊（第174期）.md</guid>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>12-23~12-29.老胡的周刊（第173期）.md</title>
       <link>https://weekly.howie6879.com/2024/12-23~12-29.老胡的周刊（第173期）.html</link>
@@ -1181,76 +1245,6 @@
 &lt;p&gt;🙌 如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">08-12~08-18.老胡的周刊（第155期）.md</guid>
       <pubDate>Sun, 18 Aug 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>08-05~08-11.老胡的周刊（第154期）.md</title>
-      <link>https://weekly.howie6879.com/2024/08-05~08-11.老胡的周刊（第154期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/08-05~08-11.老胡的周刊（第154期）.html"&gt;08-05~08-11.老胡的周刊（第154期）&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1&gt;08-05~08-11.老胡的周刊（第 154 期）&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/outline/outline"&gt;outline&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;使用 &lt;code&gt;React &amp;amp;Node.js&lt;/code&gt; 构建的协作知识库，支持团队协作，样式美观，可自建：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="outline" src="https://images-1252557999.file.myqcloud.com/uPic/outline.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/harry0703/AudioNotes"&gt;AudioNotes&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;基于 &lt;code&gt;FunASR&amp;amp;Qwen2&lt;/code&gt; 构建的音视频转结构化笔记系统，能够快速提取音视频的内容，并且调用大模型进行整理，成为一份结构化的 &lt;code&gt;markdown&lt;/code&gt; 笔记，方便快速阅读：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="AudioNotes" src="https://images-1252557999.file.myqcloud.com/uPic/AudioNotes.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/nicepkg/aide/"&gt;aide&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;🔄 代码转换: 一键在任何编程语言之间转换代码。&lt;/li&gt;
-&lt;li&gt;📖 代码查看器助手: 添加详细注释以提高代码可读性。&lt;/li&gt;
-&lt;li&gt;🔀 智能粘贴: 粘贴时智能转换剪贴板内容（代码或图片）。&lt;/li&gt;
-&lt;li&gt;🤖 AI 批量处理文件: 根据自定义要求使用 AI 处理多个文件。&lt;/li&gt;
-&lt;li&gt;🏷 重命名变量: 获取 AI 建议的变量名及解释。&lt;/li&gt;
-&lt;li&gt;💬 问 AI: 对选定的文件或文件夹执行自定义 AI 命令。&lt;/li&gt;
-&lt;li&gt;📋 复制为 AI 提示词: 轻松复制文件/文件夹内容作为 AI 提示。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;a href="https://github.com/QiuChenly/InjectLib"&gt;InjectLib&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个半开源形式、任何开发者经过评审都可以参与的一个公开 &lt;code&gt;macOS&lt;/code&gt; 注入框架项目。用了就知道，还有 &lt;a href="https://github.com/wibus-wee/InjectGUI"&gt;GUI 版本&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="InjectGUI" src="https://images-1252557999.file.myqcloud.com/uPic/InjectGUI.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/deltazefiro/Amarok-Hider"&gt;Amarok-Hider&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Amarok 是一款轻量级隐私保护工具，一键隐藏你的隐私文件和应用:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;简单易用: 文件应用，一键隐藏。&lt;/li&gt;
-&lt;li&gt;高速大文件隐藏: 只混淆文件名和文件签名，文件大小并不影响隐藏速度。&lt;/li&gt;
-&lt;li&gt;免 Root 应用隐藏: 从桌面隐藏应用程序。目前支持 Root、Shizuku、Dhizuku 和 DSM 模式。&lt;/li&gt;
-&lt;li&gt;老板键: 在紧急情况下使用浮动按钮隐藏应用和文件。&lt;/li&gt;
-&lt;li&gt;快捷开关: 控制中心开关，无需打开应用即可隐藏。&lt;/li&gt;
-&lt;li&gt;赏心悦目的界面: 简洁干净的 Material3 设计。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="Amarok" src="https://images-1252557999.file.myqcloud.com/uPic/Amarok.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/hiaaryan/wora/"&gt;wora&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;开源无损音乐播放器应用。它支持管理播放列表、流式播放多种音乐格式（包括 FLAC、WAV 等），提供命令菜单快速播放，还能显示歌词并拥有优美的用户界面。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="wora" src="https://images-1252557999.file.myqcloud.com/uPic/wora.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/yaoxieyoulei/mytv-android"&gt;mytv-android&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;使用 Android 原生开发的电视直播软件：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="mytv-android" src="https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/mytv-android.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;老胡试了不是很稳定，大家可根据地域使用测试。&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/trimstray/the-book-of-secret-knowledge"&gt;the-book-of-secret-knowledge&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;这个仓库收集了各种日常工作中使用的材料和工具，包括 CLI 工具、GUI 工具、Web 工具、系统服务、网络、容器编排、手册教程、博客资源、黑客测试等内容。适合系统管理员、网络管理员、DevOps、渗透测试者和安全研究人员使用。&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://ray.so/icon"&gt;ray.so/icon&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Raycast&lt;/code&gt; 出品的图标设计工具：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="rayso" src="https://images-1252557999.file.myqcloud.com/uPic/rayso.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注 👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外 60+优质技术周刊进行信息聚合 🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌 如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">08-05~08-11.老胡的周刊（第154期）.md</guid>
-      <pubDate>Sun, 11 Aug 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
