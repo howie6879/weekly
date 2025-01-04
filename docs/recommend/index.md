@@ -5,90 +5,80 @@
 
 ## 🎯 项目 
 
-### [showdoc](https://github.com/star7th/showdoc)
+### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
 
-一个非常适合IT团队的在线API文档、技术文档工具:
+`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
 
-![showdoc](https://images-1252557999.file.myqcloud.com/uPic/showdoc.jpg) 
+![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
 
-### [mdx-editor](https://github.com/maqi1520/mdx-editor)
+### [JD\_tencent\_scf](https://github.com/cweijan/JD_tencent_scf)
 
-一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
+这个项目简化了打京豆的脚本部署流程，每个月能打1500(不确定)左右。 
 
-![mdx-editor](https://images-1252557999.file.myqcloud.com/uPic/mdx-editor.jpg) 
+### [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)
 
-### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
+`bilingual_book_maker` 是一个 `AI` 翻译工具，使用 `ChatGPT` 帮助用户制作多语言版本的 `epub` 文件和图书。该工具仅适用于翻译进入公共版权领域的 `epub` 图书，不适用于有版权的书籍。请在使用之前阅读项目的 免责声明：
 
-提供多款 SS 规则，拥有强劲的广告过滤功能：
-
-![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
+![bilingual_book_maker](https://images-1252557999.file.myqcloud.com/uPic/bilingual_book_maker.png) 
 
 ## 🤖 软件 
 
-### [NetNewsWire](https://netnewswire.com/)
+### [HandBrake](https://github.com/HandBrake/HandBrake)
 
-适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
+`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
 
-- 支持 Safari 扩展
-- 订阅源下载
-- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
-- 主题设置
-- 多窗口支持
+![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
 
-![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
+### [DevHub](https://github.com/jaywcjlove/DevHub)
 
-### [Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker)
+面向开发者的工具箱软件：
 
-`Smart-AutoClicker` 是一个开源的自动点击软件，专为 `Android` 设备设计，能够基于图像检测来自动化重复性任务，同时提供了传统的自动点击功能：
+![DevHub](https://images-1252557999.file.myqcloud.com/uPic/N2tzTT.png) 
 
-![44OJR2](https://images-1252557999.file.myqcloud.com/uPic/44OJR2.png) 
+### [eaio](https://github.com/WankkoRee/eaio)
 
-### [shotcut](https://github.com/mltframework/shotcut)
+一个通过将磁盘上所有 `Electron` 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 `pnpm` 一样:
 
-`Shotcut` 是一个开源免费跨平台的视频编辑器，可以对录制的视频进行剪切、添加特效、添加文字、添加滤镜、改变色彩等一系列操作：
-
-![shotcut](https://images-1252557999.file.myqcloud.com/uPic/shotcut.png) 
+![eaio](https://images-1252557999.file.myqcloud.com/uPic/eaio.png) 
 
 ## 👀 资料 
 
-### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
+### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
 
-精益副业：程序员如何优雅地做副业:
+该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
 
-![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
+![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
 
-### [stevejobsarchive](https://book.stevejobsarchive.com/)
+### [Nginx 开发从入门到精通](https://tengine.taobao.org/book/)
 
-乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：
+淘宝团队出品的关于 `Nginx` 模块开发以及内部原理的书：
 
-![stevejobsarchive_zh](https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg)
-如果你需要翻译版，可以在公众号后台联系我。 
+![tb_nginx](https://images-1252557999.file.myqcloud.com/uPic/tb_nginx.jpg) 
 
-### [LearnData-开源笔记](https://newzone.top/)
+### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
-一份关于开源工具、效率方法、心理学探索的自我提升笔记：
-
-![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
+一个在YouTube上发现最新机器学习课程的项目。 
 
 ## 🕸 网站 
 
-### [producthunt-daily-hot](https://github.com/ViggoZ/producthunt-daily-hot)
+### [wantquotes.net](https://wantquotes.net/)
 
-`Product Hunt` 每日热榜是一个基于 `GitHub Action` 的自动化工具，它能够每天定时生成 `Product Hunt` 上的热门产品榜单 `Markdown` 文件，并自动提交到 `GitHub` 仓库中。该项目旨在帮助用户快速查看每日的 `Product Hunt` 热门榜单，并提供更详细的产品信息。
+清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
 
-![producthunt-daily-hot](https://images-1252557999.file.myqcloud.com/uPic/2vDyRf.png) 
+![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
 
-### [nosh](https://nosh.rocks/)
+### [bloghub](https://bloghub.fun/)
 
-一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
+优质博客聚合展示项目，"子曰：有朋自远方来，不亦说乎"，希望 BlogHub 也能让大家发现更多有趣的灵魂，结交更多的朋友：
 
-![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
+![bloghub](https://images-1252557999.file.myqcloud.com/uPic/bloghub.jpg)
+项目参考数据源：[chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)：中文独立博客列表 
 
-### [selfh](https://selfh.st/)
+### [toonme](https://toonme.com)
 
-网站提供了可自建项目的动态，每周更新：
+该网站将原图绘制成可爱的卡通图片：
 
-![selfh](https://images-1252557999.file.myqcloud.com/uPic/jVlzyp.png) 
+![toonme](https://images-1252557999.file.myqcloud.com/uPic/toonme.jpg) 
 
 ## ✍️ 说明
 
