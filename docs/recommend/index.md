@@ -5,80 +5,87 @@
 
 ## 🎯 项目 
 
-### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
+### [appwrite](https://github.com/appwrite/appwrite)
 
-`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
+`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
 
-![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
+![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
 
-### [JD\_tencent\_scf](https://github.com/cweijan/JD_tencent_scf)
+### [immich](https://github.com/immich-app/immich)
 
-这个项目简化了打京豆的脚本部署流程，每个月能打1500(不确定)左右。 
+一个开源的高性能自托管照片和视频备份解决方案：
 
-### [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)
+![immich](https://images-1252557999.file.myqcloud.com/uPic/immich.jpg) 
 
-`bilingual_book_maker` 是一个 `AI` 翻译工具，使用 `ChatGPT` 帮助用户制作多语言版本的 `epub` 文件和图书。该工具仅适用于翻译进入公共版权领域的 `epub` 图书，不适用于有版权的书籍。请在使用之前阅读项目的 免责声明：
+### crontab-ui
 
-![bilingual_book_maker](https://images-1252557999.file.myqcloud.com/uPic/bilingual_book_maker.png) 
+提供简单安全的方式来管理 `crontab`:
+
+![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
 
 ## 🤖 软件 
 
-### [HandBrake](https://github.com/HandBrake/HandBrake)
+### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
 
-`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
+适用于Android的免费开源漫画阅读器，流畅丝滑：
 
-![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
+![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
 
-### [DevHub](https://github.com/jaywcjlove/DevHub)
+之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
 
-面向开发者的工具箱软件：
+### [video-subtitle-master](https://github.com/buxuku/video-subtitle-master)
 
-![DevHub](https://images-1252557999.file.myqcloud.com/uPic/N2tzTT.png) 
+@buxuku 投稿，无须上传，在本地即可批量为视频生成字幕文件出来，同时也可以通过百度/火山/deeplx翻译 api 将字幕文件翻译成其它语言的字幕文件：
 
-### [eaio](https://github.com/WankkoRee/eaio)
+![video-subtitle-master](https://images-1252557999.file.myqcloud.com/uPic/video-subtitle-master.png) 
 
-一个通过将磁盘上所有 `Electron` 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 `pnpm` 一样:
+### [LawRefBook](https://github.com/RanKKI/LawRefBook)
 
-![eaio](https://images-1252557999.file.myqcloud.com/uPic/eaio.png) 
+开源的法律知识速查手册：
+
+![LawRefBook](https://images-1252557999.file.myqcloud.com/uPic/LawRefBook.png) 
 
 ## 👀 资料 
 
-### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+### [developer2gwy](https://github.com/miss-mumu/developer2gwy)
 
-该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+公务员从入门到上岸，最佳程序员公考实践教程，一份开源公务员考试的最佳实践指南，一部解构体制工作生活的说明手册：
 
-![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
+![developer2gwy](https://images-1252557999.file.myqcloud.com/uPic/developer2gwy.jpg) 
 
-### [Nginx 开发从入门到精通](https://tengine.taobao.org/book/)
+### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
 
-淘宝团队出品的关于 `Nginx` 模块开发以及内部原理的书：
+`OpenAI` 出品的的深度强化学习教程：
 
-![tb_nginx](https://images-1252557999.file.myqcloud.com/uPic/tb_nginx.jpg) 
+![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
 
-### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
 
-一个在YouTube上发现最新机器学习课程的项目。 
+本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
+
+我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
+
+无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
 
 ## 🕸 网站 
 
-### [wantquotes.net](https://wantquotes.net/)
+### [screenshot](https://screenshot.rocks/)
 
-清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
+快速创建精美的移动和浏览器屏幕截图：
 
-![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
+![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
 
-### [bloghub](https://bloghub.fun/)
+### [uiset](https://uiset.com/)
 
-优质博客聚合展示项目，"子曰：有朋自远方来，不亦说乎"，希望 BlogHub 也能让大家发现更多有趣的灵魂，结交更多的朋友：
+共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
 
-![bloghub](https://images-1252557999.file.myqcloud.com/uPic/bloghub.jpg)
-项目参考数据源：[chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)：中文独立博客列表 
+![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
 
-### [toonme](https://toonme.com)
+### [musetransfer](https://musetransfer.com/)
 
-该网站将原图绘制成可爱的卡通图片：
+`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
 
-![toonme](https://images-1252557999.file.myqcloud.com/uPic/toonme.jpg) 
+![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
 
 ## ✍️ 说明
 
