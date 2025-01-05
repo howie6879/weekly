@@ -5,87 +5,99 @@
 
 ## 🎯 项目 
 
-### [appwrite](https://github.com/appwrite/appwrite)
+### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
 
-`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
+如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
 
-![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
+- 教程
+- 软件
+- 工具&服务
+- 社区
+- ......
 
-### [immich](https://github.com/immich-app/immich)
+你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
 
-一个开源的高性能自托管照片和视频备份解决方案：
+- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
+- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
 
-![immich](https://images-1252557999.file.myqcloud.com/uPic/immich.jpg) 
+![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
 
-### crontab-ui
+### [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)
 
-提供简单安全的方式来管理 `crontab`:
+小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！
 
-![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
+![XHS-Downloader](https://images-1252557999.file.myqcloud.com/uPic/mjKPJU.png) 
+
+### [click-prompt](https://github.com/prompt-engineering/click-prompt)
+
+ClickPrompt 是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，例如 Stable Diffusion、ChatGPT 和 GitHub Copilot 等。 使用 ClickPrompt，您可以轻松地查看、分享和一键运行这些模型，同时提供在线的 Prompt 生成器，使用户能够根据自己的需求轻松创建符合要求的 Prompt，并与其他人分享。
+
+![clickprompt](https://images-1252557999.file.myqcloud.com/uPic/clickprompt.jpg) 
 
 ## 🤖 软件 
 
-### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
+### [WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive)
 
-适用于Android的免费开源漫画阅读器，流畅丝滑：
+使用 腾讯 X5 WebView 开发的电视直播App，原理：加载直播网页，找到video标签自动全屏：
 
-![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
+![WebViewTvLive](https://images-1252557999.file.myqcloud.com/uPic/JKdapa.png) 
 
-之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
+### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
 
-### [video-subtitle-master](https://github.com/buxuku/video-subtitle-master)
+基于 Electron + Vue + ffmpeg 的 GUI：
 
-@buxuku 投稿，无须上传，在本地即可批量为视频生成字幕文件出来，同时也可以通过百度/火山/deeplx翻译 api 将字幕文件翻译成其它语言的字幕文件：
+![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
 
-![video-subtitle-master](https://images-1252557999.file.myqcloud.com/uPic/video-subtitle-master.png) 
+### [AsrTools](https://github.com/WEIFENG2333/AsrTools)
 
-### [LawRefBook](https://github.com/RanKKI/LawRefBook)
+智能语音转字幕文本工具，对比 `Github` 目前多数的音频转换文字项目（通过调用 `Wishper` 等模型），本项目最大区别和优势就是无需 `GPU` 和繁琐的本地配置：
 
-开源的法律知识速查手册：
+- 🚀 无需复杂配置：无需 GPU 和繁琐的本地配置，小白也能轻松使用。
+- 🖥️ 高颜值界面：基于 PyQt5 和 qfluentwidgets，界面美观且用户友好。
+- ⚡ 效率超人：多线程并发 + 批量处理，文字转换快如闪电。
+- 📄 多格式支持：支持生成 .srt 和 .txt 字幕文件，满足不同需求。
 
-![LawRefBook](https://images-1252557999.file.myqcloud.com/uPic/LawRefBook.png) 
+![AsrTools](https://images-1252557999.file.myqcloud.com/uPic/rAXR7m.png) 
 
 ## 👀 资料 
 
-### [developer2gwy](https://github.com/miss-mumu/developer2gwy)
+### [一人企业方法论](https://github.com/easychen/one-person-businesses-methodology-v2.0)
 
-公务员从入门到上岸，最佳程序员公考实践教程，一份开源公务员考试的最佳实践指南，一部解构体制工作生活的说明手册：
+《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群：
 
-![developer2gwy](https://images-1252557999.file.myqcloud.com/uPic/developer2gwy.jpg) 
+![opb-quick-start](https://images-1252557999.file.myqcloud.com/uPic/opb-quick-start.jpg) 
 
-### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
+### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
-`OpenAI` 出品的的深度强化学习教程：
+这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
 
-![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
+![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
 
-### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
+### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
 
-本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
+开源书籍，`Prometheus`  操作指南：
 
-我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
-
-无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
+![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
 
 ## 🕸 网站 
 
-### [screenshot](https://screenshot.rocks/)
+### [warp.dev](https://www.warp.dev/)
 
-快速创建精美的移动和浏览器屏幕截图：
+一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
 
-![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
+![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
 
-### [uiset](https://uiset.com/)
+### [watermarkremover](https://www.watermarkremover.io/)
 
-共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
+通过AI技术去除图片水印：
 
-![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
+![watermarkremover](https://images-1252557999.file.myqcloud.com/uPic/watermarkremover.jpg) 
 
-### [musetransfer](https://musetransfer.com/)
+### [openalternative](https://openalternative.co/)
 
-`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
+网站提供了一些项目的开源选择：
 
-![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
+![openalternative](https://images-1252557999.file.myqcloud.com/uPic/openalternative.jpg) 
 
 ## ✍️ 说明
 
