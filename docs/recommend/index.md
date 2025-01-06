@@ -5,99 +5,95 @@
 
 ## 🎯 项目 
 
-### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
+### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
 
-如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
+CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
 
-- 教程
-- 软件
-- 工具&服务
-- 社区
-- ......
+![CasaOS](https://images-1252557999.file.myqcloud.com/uPic/rA4tpa.jpg) 
 
-你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
-- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
+ ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
 
-### [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)
+### [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
 
-小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！
+基于 `AI` 完整保留排版的 `PDF` 文档全文双语翻译，支持 `Google/DeepL/Ollama/OpenAI` 等服务，提供 `CLI/GUI/Docker`：
 
-![XHS-Downloader](https://images-1252557999.file.myqcloud.com/uPic/mjKPJU.png) 
+- 📊 保留公式、图表、目录和注释 (预览效果)
+- 🌐 支持 多种语言 和 诸多翻译服务
+- 🤖 提供 命令行工具，图形交互界面，以及 容器化部署
 
-### [click-prompt](https://github.com/prompt-engineering/click-prompt)
-
-ClickPrompt 是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，例如 Stable Diffusion、ChatGPT 和 GitHub Copilot 等。 使用 ClickPrompt，您可以轻松地查看、分享和一键运行这些模型，同时提供在线的 Prompt 生成器，使用户能够根据自己的需求轻松创建符合要求的 Prompt，并与其他人分享。
-
-![clickprompt](https://images-1252557999.file.myqcloud.com/uPic/clickprompt.jpg) 
+![PDFMathTranslate](https://images-1252557999.file.myqcloud.com/uPic/m0zGEV.png) 
 
 ## 🤖 软件 
 
-### [WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive)
+### [ElevenClock](https://github.com/marticliment/ElevenClock)
 
-使用 腾讯 X5 WebView 开发的电视直播App，原理：加载直播网页，找到video标签自动全屏：
+自定义 `Windows 11` 任务栏时钟：
 
-![WebViewTvLive](https://images-1252557999.file.myqcloud.com/uPic/JKdapa.png) 
+![ElevenClock](https://images-1252557999.file.myqcloud.com/uPic/ElevenClock.jpg) 
 
-### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
+### [AutoTask](https://github.com/xjunz/AutoTask)
 
-基于 Electron + Vue + ffmpeg 的 GUI：
+一款支持 [Shizuku](https://github.com/RikkaApps/Shizuku) 和辅助功能的自动任务工具，本应用专注于帮助您执行自动任务，相比于其他同类产品，本应用具有以下特点：
 
-![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
+- 支持多种启动模式（Shizuku和辅助功能）
+- 支持自定义常驻任务任务和一次性任务
+- 支持手势录制，审查布局树等
+- 不需要刻意保活便可常驻后台（两种模式默认系统保活）
+- 省电且占用系统资源较少（事件驱动+协程，执行长时间任务也不阻塞CPU）
+- 代码开源，安全可信
+- Material 3 风格UI，实用美观
 
-### [AsrTools](https://github.com/WEIFENG2333/AsrTools)
+![AutoTask](https://images-1252557999.file.myqcloud.com/uPic/o9SYLa.png) 
 
-智能语音转字幕文本工具，对比 `Github` 目前多数的音频转换文字项目（通过调用 `Wishper` 等模型），本项目最大区别和优势就是无需 `GPU` 和繁琐的本地配置：
+### [buster](https://github.com/dessant/buster)
 
-- 🚀 无需复杂配置：无需 GPU 和繁琐的本地配置，小白也能轻松使用。
-- 🖥️ 高颜值界面：基于 PyQt5 和 qfluentwidgets，界面美观且用户友好。
-- ⚡ 效率超人：多线程并发 + 批量处理，文字转换快如闪电。
-- 📄 多格式支持：支持生成 .srt 和 .txt 字幕文件，满足不同需求。
+`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
 
-![AsrTools](https://images-1252557999.file.myqcloud.com/uPic/rAXR7m.png) 
+![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
 
 ## 👀 资料 
 
-### [一人企业方法论](https://github.com/easychen/one-person-businesses-methodology-v2.0)
+### [LLMs-In-China](https://github.com/wgwang/LLMs-In-China)
 
-《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群：
+记录中国大模型发展情况，同时持续深度分析开源开放的大模型以及数据集的情况，目前记录了国内188个大模型：
 
-![opb-quick-start](https://images-1252557999.file.myqcloud.com/uPic/opb-quick-start.jpg) 
+![LLMs-In-China](https://images-1252557999.file.myqcloud.com/uPic/LLMs-In-China.png) 
 
-### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+### [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
-这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
+这个仓库收集了各种日常工作中使用的材料和工具，包括 CLI 工具、GUI 工具、Web 工具、系统服务、网络、容器编排、手册教程、博客资源、黑客测试等内容。适合系统管理员、网络管理员、DevOps、渗透测试者和安全研究人员使用。 
 
-![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
+### [事实核查手册](https://chinafactcheck.com/?p=11465)
 
-### [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book)
+虚假信息泛滥已成世界性难题，简体中文内容市场亦难置身事外。作为应对手段之一，事实核查在中国开始萌芽。
 
-开源书籍，`Prometheus`  操作指南：
+本手册以案例的形式介绍了常用的文字、图片和视频核查工具，也涉及事实核查的工作流程、信源评估，并译介了国际事实核查机构惯用的职业准则与实践，希望能为中国的事实核查业者和观察者提供一定的参考。
 
-![prometheus-book](https://images-1252557999.file.myqcloud.com/uPic/prometheus-book.jpg) 
+![事实核查手册](https://images-1252557999.file.myqcloud.com/uPic/事实核查手册.jpg) 
 
 ## 🕸 网站 
 
-### [warp.dev](https://www.warp.dev/)
+### [alleyread](https://alleyread.com/)
 
-一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
+发现优质 `Newsletter`：
 
-![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
+![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
 
-### [watermarkremover](https://www.watermarkremover.io/)
+### [drawl.ink](https://drawl.ink/)
 
-通过AI技术去除图片水印：
+将链接转化成好看的图片：
 
-![watermarkremover](https://images-1252557999.file.myqcloud.com/uPic/watermarkremover.jpg) 
+![drawl](https://images-1252557999.file.myqcloud.com/uPic/eltzuF.png) 
 
-### [openalternative](https://openalternative.co/)
+### [uiset](https://uiset.com/)
 
-网站提供了一些项目的开源选择：
+共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
 
-![openalternative](https://images-1252557999.file.myqcloud.com/uPic/openalternative.jpg) 
+![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
 
 ## ✍️ 说明
 
