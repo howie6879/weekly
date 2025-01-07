@@ -5,95 +5,79 @@
 
 ## 🎯 项目 
 
-### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
+### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
 
-CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
+Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
 
-![CasaOS](https://images-1252557999.file.myqcloud.com/uPic/rA4tpa.jpg) 
+### [DocsGPT](https://github.com/arc53/DocsGPT)
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
+[DocsGPT](https://github.com/arc53/DocsGPT) 是一种前沿的开源解决方案，可简化在项目文档中查找信息的过程。通过集成强大的 GPT 模型，开发人员可以轻松地提出有关项目的问题并获得准确的答案：
 
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+![docsgpt](https://images-1252557999.file.myqcloud.com/uPic/docsgpt.jpg) 
 
- ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
+### [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)
 
-### [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
+小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！
 
-基于 `AI` 完整保留排版的 `PDF` 文档全文双语翻译，支持 `Google/DeepL/Ollama/OpenAI` 等服务，提供 `CLI/GUI/Docker`：
-
-- 📊 保留公式、图表、目录和注释 (预览效果)
-- 🌐 支持 多种语言 和 诸多翻译服务
-- 🤖 提供 命令行工具，图形交互界面，以及 容器化部署
-
-![PDFMathTranslate](https://images-1252557999.file.myqcloud.com/uPic/m0zGEV.png) 
+![XHS-Downloader](https://images-1252557999.file.myqcloud.com/uPic/mjKPJU.png) 
 
 ## 🤖 软件 
 
-### [ElevenClock](https://github.com/marticliment/ElevenClock)
+### [OFGB](https://github.com/xM4ddy/OFGB)
 
-自定义 `Windows 11` 任务栏时钟：
+`GUI` 工具删除 `Windows 11` 不同位置的广告：
 
-![ElevenClock](https://images-1252557999.file.myqcloud.com/uPic/ElevenClock.jpg) 
+![OFGB](https://images-1252557999.file.myqcloud.com/uPic/OFGB.jpg) 
 
-### [AutoTask](https://github.com/xjunz/AutoTask)
+### [dbgate](https://github.com/dbgate/dbgate)
 
-一款支持 [Shizuku](https://github.com/RikkaApps/Shizuku) 和辅助功能的自动任务工具，本应用专注于帮助您执行自动任务，相比于其他同类产品，本应用具有以下特点：
+支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
 
-- 支持多种启动模式（Shizuku和辅助功能）
-- 支持自定义常驻任务任务和一次性任务
-- 支持手势录制，审查布局树等
-- 不需要刻意保活便可常驻后台（两种模式默认系统保活）
-- 省电且占用系统资源较少（事件驱动+协程，执行长时间任务也不阻塞CPU）
-- 代码开源，安全可信
-- Material 3 风格UI，实用美观
+![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
 
-![AutoTask](https://images-1252557999.file.myqcloud.com/uPic/o9SYLa.png) 
+### [wora](https://github.com/hiaaryan/wora/)
 
-### [buster](https://github.com/dessant/buster)
+开源无损音乐播放器应用。它支持管理播放列表、流式播放多种音乐格式（包括 FLAC、WAV 等），提供命令菜单快速播放，还能显示歌词并拥有优美的用户界面。
 
-`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
-
-![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
+![wora](https://images-1252557999.file.myqcloud.com/uPic/wora.jpg) 
 
 ## 👀 资料 
 
-### [LLMs-In-China](https://github.com/wgwang/LLMs-In-China)
+### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
 
-记录中国大模型发展情况，同时持续深度分析开源开放的大模型以及数据集的情况，目前记录了国内188个大模型：
+左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
 
-![LLMs-In-China](https://images-1252557999.file.myqcloud.com/uPic/LLMs-In-China.png) 
+### [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
 
-### [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+这个项目的目标是带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来，每周更新两篇，有兴趣的朋友可以追更下，架构图：
 
-这个仓库收集了各种日常工作中使用的材料和工具，包括 CLI 工具、GUI 工具、Web 工具、系统服务、网络、容器编排、手册教程、博客资源、黑客测试等内容。适合系统管理员、网络管理员、DevOps、渗透测试者和安全研究人员使用。 
+![linux0.11-talk](https://images-1252557999.file.myqcloud.com/uPic/P4ekdG.jpg) 
 
-### [事实核查手册](https://chinafactcheck.com/?p=11465)
+### [promptingguide.ai](https://www.promptingguide.ai/zh)
 
-虚假信息泛滥已成世界性难题，简体中文内容市场亦难置身事外。作为应对手段之一，事实核查在中国开始萌芽。
+关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
 
-本手册以案例的形式介绍了常用的文字、图片和视频核查工具，也涉及事实核查的工作流程、信源评估，并译介了国际事实核查机构惯用的职业准则与实践，希望能为中国的事实核查业者和观察者提供一定的参考。
-
-![事实核查手册](https://images-1252557999.file.myqcloud.com/uPic/事实核查手册.jpg) 
+![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
 
 ## 🕸 网站 
 
-### [alleyread](https://alleyread.com/)
+### [echoserver](https://echoserver.dev/)
 
-发现优质 `Newsletter`：
+一个用于测试 `HTTP` 客户端的简单服务器，可生成 `URL` 并返回您想要的生成响应：
 
-![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
+![echoserver](https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg) 
 
-### [drawl.ink](https://drawl.ink/)
+### [sqlime](http://sqlime.org/)
 
-将链接转化成好看的图片：
+SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
 
-![drawl](https://images-1252557999.file.myqcloud.com/uPic/eltzuF.png) 
+![sqlime](https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg) 
 
-### [uiset](https://uiset.com/)
+### [ifixit](https://zh.ifixit.com/)
 
-共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
+一个免费教授人们如何修理任何物品的网站：
 
-![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
+![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
 
 ## ✍️ 说明
 
