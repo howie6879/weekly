@@ -5,79 +5,85 @@
 
 ## 🎯 项目 
 
-### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
+### [Piwigo](https://github.com/Piwigo/Piwigo)
 
-Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
+ `Piwigo` 是一个开源的网络照片库软件，用于管理照片，专为组织、团队和个人设计：
+ 
+ ![Piwigo](https://images-1252557999.file.myqcloud.com/uPic/Piwigo.jpeg) 
 
-### [DocsGPT](https://github.com/arc53/DocsGPT)
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 
-[DocsGPT](https://github.com/arc53/DocsGPT) 是一种前沿的开源解决方案，可简化在项目文档中查找信息的过程。通过集成强大的 GPT 模型，开发人员可以轻松地提出有关项目的问题并获得准确的答案：
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
 
-![docsgpt](https://images-1252557999.file.myqcloud.com/uPic/docsgpt.jpg) 
+![AI-Writer](https://images-1252557999.file.myqcloud.com/uPic/AI-Writer.jpeg) 
 
-### [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)
+### [HTTPie](https://github.com/httpie/httpie)
 
-小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！
+现代化的HTTP客户端命令行工具：
 
-![XHS-Downloader](https://images-1252557999.file.myqcloud.com/uPic/mjKPJU.png) 
+![httpie-animation](https://images-1252557999.file.myqcloud.com/uPic/httpie-animation.gif) 
 
 ## 🤖 软件 
 
-### [OFGB](https://github.com/xM4ddy/OFGB)
+### [bilimiao2](https://github.com/10miaomiao/bilimiao2)
 
-`GUI` 工具删除 `Windows 11` 不同位置的广告：
+一款安卓上的哔哩哔哩的第三方APP：
 
-![OFGB](https://images-1252557999.file.myqcloud.com/uPic/OFGB.jpg) 
+![bilimiao2](https://images-1252557999.file.myqcloud.com/uPic/bilimiao2.jpg) 
 
-### [dbgate](https://github.com/dbgate/dbgate)
+### [gitify](https://github.com/gitify-app/gitify)
 
-支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
+在你的菜单栏上显示 `GitHub` 通知，跨平台：
 
-![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
+![gitify](https://images-1252557999.file.myqcloud.com/uPic/gitify.png) 
 
-### [wora](https://github.com/hiaaryan/wora/)
+### [termux-app](https://github.com/termux/termux-app)
 
-开源无损音乐播放器应用。它支持管理播放列表、流式播放多种音乐格式（包括 FLAC、WAV 等），提供命令菜单快速播放，还能显示歌词并拥有优美的用户界面。
+`Termux` 是一个为 `Android` 操作系统设计的终端模拟器应用程序，它可以通过各种软件包进行扩展，支持 `Linux` 环境：
 
-![wora](https://images-1252557999.file.myqcloud.com/uPic/wora.jpg) 
+![termux-app](https://images-1252557999.file.myqcloud.com/uPic/tMfcxO.png) 
 
 ## 👀 资料 
 
-### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
+### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
 
-左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
+美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
 
-### [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
+![](https://images-1252557999.file.myqcloud.com/uPic/OSTEP-20220429104105382.jpg)
 
-这个项目的目标是带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来，每周更新两篇，有兴趣的朋友可以追更下，架构图：
+本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
 
-![linux0.11-talk](https://images-1252557999.file.myqcloud.com/uPic/P4ekdG.jpg) 
+### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
 
-### [promptingguide.ai](https://www.promptingguide.ai/zh)
+这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
 
-关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
+![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
 
-![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
+### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
+
+`OpenAI` 出品的的深度强化学习教程：
+
+![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
 
 ## 🕸 网站 
 
-### [echoserver](https://echoserver.dev/)
+### [ray.so/icon](https://ray.so/icon)
 
-一个用于测试 `HTTP` 客户端的简单服务器，可生成 `URL` 并返回您想要的生成响应：
+`Raycast` 出品的图标设计工具：
 
-![echoserver](https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg) 
+![rayso](https://images-1252557999.file.myqcloud.com/uPic/rayso.jpg) 
 
-### [sqlime](http://sqlime.org/)
+### [remixicon](https://remixicon.com/)
 
-SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
+[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
 
-![sqlime](https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg) 
+![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
 
-### [ifixit](https://zh.ifixit.com/)
+### [gh-card.dev](https://gh-card.dev/)
 
-一个免费教授人们如何修理任何物品的网站：
+免费为你的 `Github` 开源项目生成卡片的网站：
 
-![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
+![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
 
 ## ✍️ 说明
 
