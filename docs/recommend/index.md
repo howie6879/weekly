@@ -5,85 +5,90 @@
 
 ## 🎯 项目 
 
-### [Piwigo](https://github.com/Piwigo/Piwigo)
+### [imsyy/home](https://github.com/imsyy/home)
 
- `Piwigo` 是一个开源的网络照片库软件，用于管理照片，专为组织、团队和个人设计：
- 
- ![Piwigo](https://images-1252557999.file.myqcloud.com/uPic/Piwigo.jpeg) 
+简单优雅的个人主页项目：
 
-### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
+- 载入动画
+-  站点简介
+-  Hitokoto 一言
+-  日期及时间
+-  实时天气
+-  时光进度条
+-  音乐播放器
+-  移动端适配
 
-AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+![imsyy_home](https://images-1252557999.file.myqcloud.com/uPic/imsyy_home.jpeg) 
 
-![AI-Writer](https://images-1252557999.file.myqcloud.com/uPic/AI-Writer.jpeg) 
+### [favicon-downloader](https://github.com/seadfeng/favicon-downloader)
 
-### [HTTPie](https://github.com/httpie/httpie)
+免费获取网站 `favicon` 的工具:
 
-现代化的HTTP客户端命令行工具：
+![faviconextractor](https://images-1252557999.file.myqcloud.com/uPic/faviconextractor.jpg) 
 
-![httpie-animation](https://images-1252557999.file.myqcloud.com/uPic/httpie-animation.gif) 
+### [invoice](https://github.com/guanshuicheng/invoice)
+
+增值税发票 `OCR` 识别，使用 `flask` 微服务架构，识别 `type` ：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等：
+
+![invoice](https://images-1252557999.file.myqcloud.com/uPic/invoice.jpg) 
 
 ## 🤖 软件 
 
-### [bilimiao2](https://github.com/10miaomiao/bilimiao2)
+### [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
 
-一款安卓上的哔哩哔哩的第三方APP：
+`ZoomIt` 是一款用于屏幕缩放、注释和录制的演示工具，微软出品（大小仅 1M）：
 
-![bilimiao2](https://images-1252557999.file.myqcloud.com/uPic/bilimiao2.jpg) 
+![ZoomIt](https://images-1252557999.file.myqcloud.com/uPic/ZoomIt.jpg) 
 
-### [gitify](https://github.com/gitify-app/gitify)
+### [RustClock](https://github.com/hoothin/RustClock)
 
-在你的菜单栏上显示 `GitHub` 通知，跨平台：
+每半小时弹出一次的桌面时钟，基于 `Rust`：
 
-![gitify](https://images-1252557999.file.myqcloud.com/uPic/gitify.png) 
+![RustClock](https://images-1252557999.file.myqcloud.com/uPic/RustClock.gif) 
 
-### [termux-app](https://github.com/termux/termux-app)
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-`Termux` 是一个为 `Android` 操作系统设计的终端模拟器应用程序，它可以通过各种软件包进行扩展，支持 `Linux` 环境：
+LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
 
-![termux-app](https://images-1252557999.file.myqcloud.com/uPic/tMfcxO.png) 
+![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
 
 ## 👀 资料 
 
-### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
+### [Local-LLM-User-Guideline](https://github.com/xue160709/Local-LLM-User-Guideline/blob/main/README-zh.md)：
 
-美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
+本地 LLM 使用指南，这个构建你自己的 AI 辅助编码助手项目也不错，参考玩玩👀[build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant)：介绍如何 DIY 一个端到端（从 IDE 插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 `GitHub Copilot、JetBrains AI Assistant、AutoDev` 等。 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/OSTEP-20220429104105382.jpg)
+### 认知偏差知识手册
 
-本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
+字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
 
-### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
+![cb](https://images-1252557999.file.myqcloud.com/uPic/cb.jpg) 
 
-这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
+### [promptingguide.ai](https://www.promptingguide.ai/zh)
 
-![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
+关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
 
-### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
-
-`OpenAI` 出品的的深度强化学习教程：
-
-![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
+![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
 
 ## 🕸 网站 
 
-### [ray.so/icon](https://ray.so/icon)
+### [chess.com](https://www.chess.com/)
 
-`Raycast` 出品的图标设计工具：
+在线国际象棋：
 
-![rayso](https://images-1252557999.file.myqcloud.com/uPic/rayso.jpg) 
+![chess](https://images-1252557999.file.myqcloud.com/uPic/chess.jpg) 
 
-### [remixicon](https://remixicon.com/)
+### [xsgames](https://xsgames.co/pixelme/)
 
-[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
+免费的像素头像生成网站：
 
-![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
+![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
 
-### [gh-card.dev](https://gh-card.dev/)
+### [水印宝](https://watermark.chiloh.cn/)
 
-免费为你的 `Github` 开源项目生成卡片的网站：
+[开源](https://github.com/chilohwei/watermark-tool)的图片加水印网页：
 
-![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
+![watermark](https://images-1252557999.file.myqcloud.com/uPic/jiPUF2.png) 
 
 ## ✍️ 说明
 
