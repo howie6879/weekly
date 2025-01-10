@@ -5,90 +5,84 @@
 
 ## 🎯 项目 
 
-### [imsyy/home](https://github.com/imsyy/home)
+### [pandora](https://github.com/pengzhile/pandora)
 
-简单优雅的个人主页项目：
+潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
 
-- 载入动画
--  站点简介
--  Hitokoto 一言
--  日期及时间
--  实时天气
--  时光进度条
--  音乐播放器
--  移动端适配
+![pandora](https://images-1252557999.file.myqcloud.com/uPic/pandora.png) 
 
-![imsyy_home](https://images-1252557999.file.myqcloud.com/uPic/imsyy_home.jpeg) 
+### [fast-poster](https://github.com/psoho/fast-poster)
 
-### [favicon-downloader](https://github.com/seadfeng/favicon-downloader)
+`fastposter` 海报生成器是一款快速开发海报的工具。只需上传一张背景图，在对应的位置放上组件（文字、图片、二维码、头像）即可生成海报。 点击代码直接生成各种语言的调用代码，方便快速开发:
 
-免费获取网站 `favicon` 的工具:
+![fast-poster](https://images-1252557999.file.myqcloud.com/uPic/fast-poster.png) 
 
-![faviconextractor](https://images-1252557999.file.myqcloud.com/uPic/faviconextractor.jpg) 
+### [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
 
-### [invoice](https://github.com/guanshuicheng/invoice)
+最近在开发一款微信小程序，第一次上手，发现还是很有意思的。这个项目收集了小程序开发的方方面面，如：工具、插件、组件、Demo等。
 
-增值税发票 `OCR` 识别，使用 `flask` 微服务架构，识别 `type` ：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等：
-
-![invoice](https://images-1252557999.file.myqcloud.com/uPic/invoice.jpg) 
+基本上只要找一个开源的小程序，找一个示例跟着写，哪怕你没基础，也能很快开发一款自己的小程序出来，推荐。 
 
 ## 🤖 软件 
 
-### [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
+### [paperlib](https://github.com/GeoffreyChen777/paperlib)
 
-`ZoomIt` 是一款用于屏幕缩放、注释和录制的演示工具，微软出品（大小仅 1M）：
+面向计算机科学的简单开源学术论文管理工具：
 
-![ZoomIt](https://images-1252557999.file.myqcloud.com/uPic/ZoomIt.jpg) 
+![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
 
-### [RustClock](https://github.com/hoothin/RustClock)
+### [fideo-live-record](https://github.com/chenfan0/fideo-live-record)
 
-每半小时弹出一次的桌面时钟，基于 `Rust`：
+这是一个基于 `React Ffmpeg Electron Shadcn` 的直播录制软件。支持监控直播，可以帮助用户简单便捷对直播进行录制并保存为` MP4` 格式的视频：
 
-![RustClock](https://images-1252557999.file.myqcloud.com/uPic/RustClock.gif) 
+![fideo-live-record](https://images-1252557999.file.myqcloud.com/uPic/tCaYMt.png) 
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+### [staxrip](https://github.com/staxrip/staxrip)
 
-LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
+`StaxRip` 是一个强大的用于 `Windows` 的视频/音频编码图形用户界面。
+它执行和控制诸如 `x265、mkvmerge、ffmpeg` 等控制台应用程序，并使用基于脚本的帧服务器 A`viSynth+和VapourSynth` 进行视频处理。每个项目还可以通过各种事件和设置进行扩展：
 
-![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
+![staxrip](https://images-1252557999.file.myqcloud.com/uPic/staxrip.jpg) 
 
 ## 👀 资料 
 
-### [Local-LLM-User-Guideline](https://github.com/xue160709/Local-LLM-User-Guideline/blob/main/README-zh.md)：
+### [udlbook](https://udlbook.github.io/udlbook/)
 
-本地 LLM 使用指南，这个构建你自己的 AI 辅助编码助手项目也不错，参考玩玩👀[build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant)：介绍如何 DIY 一个端到端（从 IDE 插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 `GitHub Copilot、JetBrains AI Assistant、AutoDev` 等。 
+麻省理工出品的免费电子书《理解深度学习》：
 
-### 认知偏差知识手册
+![udlbook](https://images-1252557999.file.myqcloud.com/uPic/udlbook.jpg) 
 
-字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
 
-![cb](https://images-1252557999.file.myqcloud.com/uPic/cb.jpg) 
+自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
 
-### [promptingguide.ai](https://www.promptingguide.ai/zh)
+### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
 
-关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
+《Software Engineering at Google》的中文翻译版本：
 
-![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
+![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
 
 ## 🕸 网站 
 
-### [chess.com](https://www.chess.com/)
+### [removebg.one](https://removebg.one/)
 
-在线国际象棋：
+免费的图片背景去除网页工具：
 
-![chess](https://images-1252557999.file.myqcloud.com/uPic/chess.jpg) 
+![removebg](https://images-1252557999.file.myqcloud.com/uPic/s6r4xu.png) 
 
-### [xsgames](https://xsgames.co/pixelme/)
+### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
 
-免费的像素头像生成网站：
+目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
 
-![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
+![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
 
-### [水印宝](https://watermark.chiloh.cn/)
+![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
 
-[开源](https://github.com/chilohwei/watermark-tool)的图片加水印网页：
+### [ixinqing](http://www.ixinqing.com/)
 
-![watermark](https://images-1252557999.file.myqcloud.com/uPic/jiPUF2.png) 
+心晴 · 专注于心理学入门与自我成长:
+
+![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
 
 ## ✍️ 说明
 
