@@ -5,84 +5,93 @@
 
 ## 🎯 项目 
 
-### [pandora](https://github.com/pengzhile/pandora)
+### [heyform](https://github.com/heyform/heyform)
 
-潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
+`HeyForm` 是一个开源的表单构建器，允许任何人为调查、问卷、测验和投票创建有吸引力的对话表单并且不需要编程技巧：
 
-![pandora](https://images-1252557999.file.myqcloud.com/uPic/pandora.png) 
+![heyform](https://images-1252557999.file.myqcloud.com/uPic/heyform.png) 
 
-### [fast-poster](https://github.com/psoho/fast-poster)
+### [whodb](https://github.com/clidey/whodb)
 
-`fastposter` 海报生成器是一款快速开发海报的工具。只需上传一张背景图，在对应的位置放上组件（文字、图片、二维码、头像）即可生成海报。 点击代码直接生成各种语言的调用代码，方便快速开发:
+`WhoDB` 是一个强大且轻量级的数据库管理工具，`WhoDB` 用 `GoLang` 编写，支持 `PostgreSQL、MySQL、SQLite3、MongoDB&Redis` 等数据库。其主要特点包括交互式图表可视化数据库模式、内联编辑与预览、更好的用户界面以及卓越的性能。用户可以通过 `Docker` 快速启动和运行：
 
-![fast-poster](https://images-1252557999.file.myqcloud.com/uPic/fast-poster.png) 
+![whodb](https://images-1252557999.file.myqcloud.com/uPic/whodb.png) 
 
-### [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
+### [Kyoo](https://github.com/zoriya/Kyoo)
 
-最近在开发一款微信小程序，第一次上手，发现还是很有意思的。这个项目收集了小程序开发的方方面面，如：工具、插件、组件、Demo等。
+`Kyoo` 是一款开源媒体浏览器，可让您流式传输电影、电视节目或动漫。它是 `Plex、Emby or Jellyfin` 的替代品：
 
-基本上只要找一个开源的小程序，找一个示例跟着写，哪怕你没基础，也能很快开发一款自己的小程序出来，推荐。 
+![kyoo](https://images-1252557999.file.myqcloud.com/uPic/kyoo.jpg)
+
+目前产品形态只有 `Web` 和 `Android`。 
 
 ## 🤖 软件 
 
-### [paperlib](https://github.com/GeoffreyChen777/paperlib)
+### [lettura](https://github.com/zhanglun/lettura)
 
-面向计算机科学的简单开源学术论文管理工具：
+基于 `Tauri` 的桌面 `RSS` 阅读器：
 
-![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
+![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
 
-### [fideo-live-record](https://github.com/chenfan0/fideo-live-record)
+### [stats](https://github.com/exelban/stats)
 
-这是一个基于 `React Ffmpeg Electron Shadcn` 的直播录制软件。支持监控直播，可以帮助用户简单便捷对直播进行录制并保存为` MP4` 格式的视频：
+基于 `macOS` 菜单栏的系统监控软件：
 
-![fideo-live-record](https://images-1252557999.file.myqcloud.com/uPic/tCaYMt.png) 
+![stats](https://images-1252557999.file.myqcloud.com/uPic/stats.jpg) 
 
-### [staxrip](https://github.com/staxrip/staxrip)
+### [icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
 
-`StaxRip` 是一个强大的用于 `Windows` 的视频/音频编码图形用户界面。
-它执行和控制诸如 `x265、mkvmerge、ffmpeg` 等控制台应用程序，并使用基于脚本的帧服务器 A`viSynth+和VapourSynth` 进行视频处理。每个项目还可以通过各种事件和设置进行扩展：
-
-![staxrip](https://images-1252557999.file.myqcloud.com/uPic/staxrip.jpg) 
+一个命令行工具，用于从 `iCloud` 下载照片，支持 `Linux、Windows & macOS` 系统。 
 
 ## 👀 资料 
 
-### [udlbook](https://udlbook.github.io/udlbook/)
+### [papers-we-love](https://github.com/papers-we-love/papers-we-love)
 
-麻省理工出品的免费电子书《理解深度学习》：
+项目收集了计算机科学领域值得一读的论文：
 
-![udlbook](https://images-1252557999.file.myqcloud.com/uPic/udlbook.jpg) 
+![papers-we-love](https://images-1252557999.file.myqcloud.com/uPic/FiYqA1.png)
 
-### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
+还有一个开发者列出了他喜欢的论文，具体见：[my-favorite-papers](https://ordep.dev/posts/my-favorite-papers)，其中包括了LSM Tree， Kafka， Zookeeper，数字签名，等一些很经典的分布式领域的论文。 
 
-自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
+### [PySide6-Code-Tutorial](https://github.com/muziing/PySide6-Code-Tutorial)
 
-### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+用代码实例讲解PySide6，附优质Demos、图标库、QSS皮肤、相关文章等分享：
 
-《Software Engineering at Google》的中文翻译版本：
+![PySide6-Code-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/UqIUuM.png) 
 
-![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
+### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
+
+`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
+
+![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
 
 ## 🕸 网站 
 
-### [removebg.one](https://removebg.one/)
+### [bloghub](https://bloghub.fun/)
 
-免费的图片背景去除网页工具：
+优质博客聚合展示项目，"子曰：有朋自远方来，不亦说乎"，希望 BlogHub 也能让大家发现更多有趣的灵魂，结交更多的朋友：
 
-![removebg](https://images-1252557999.file.myqcloud.com/uPic/s6r4xu.png) 
+![bloghub](https://images-1252557999.file.myqcloud.com/uPic/bloghub.jpg)
+项目参考数据源：[chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)：中文独立博客列表 
 
-### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
+### [FRE123-动漫搜索引擎](https://www.fre123.com/anime/s)
 
-目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
+`FRE123` 周末新上了个动漫番剧搜索引擎，主要是汇集一些比较好的番剧网站资源，提供搜索服务，让用户更快速找到自己想看到的番剧，欢迎提意见：
 
-![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
+![fre123_anime](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime.jpg) 
 
-![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
+### [xiaobot.so](https://www.xiaobot.so/)
 
-### [ixinqing](http://www.ixinqing.com/)
+老胡团队整的一个小报童专栏导航网站（测试一两周后就会开源，有兴趣可期待），和其他小报童导航相比：
 
-心晴 · 专注于心理学入门与自我成长:
+- AI 自动打标签
+- 增加订阅用户&文章更新数量趋势统计
+- 增加专栏内页，有利于 SEO
+- 更漂亮<持保留态度，但老胡是实打实请设计师帮忙设计的>
 
-![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
+![xiaobot_so](https://images-1252557999.file.myqcloud.com/uPic/xiaobot_so.jpg)
+
+如果有你适合的专栏，可以购买支持下～ 
 
 ## ✍️ 说明
 
