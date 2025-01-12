@@ -5,93 +5,83 @@
 
 ## 🎯 项目 
 
-### [heyform](https://github.com/heyform/heyform)
+### [dootask](https://github.com/kuaifan/dootask)
 
-`HeyForm` 是一个开源的表单构建器，允许任何人为调查、问卷、测验和投票创建有吸引力的对话表单并且不需要编程技巧：
+DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
 
-![heyform](https://images-1252557999.file.myqcloud.com/uPic/heyform.png) 
+![dootask](https://images-1252557999.file.myqcloud.com/uPic/tYiTA7.png) 
 
-### [whodb](https://github.com/clidey/whodb)
+### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
 
-`WhoDB` 是一个强大且轻量级的数据库管理工具，`WhoDB` 用 `GoLang` 编写，支持 `PostgreSQL、MySQL、SQLite3、MongoDB&Redis` 等数据库。其主要特点包括交互式图表可视化数据库模式、内联编辑与预览、更好的用户界面以及卓越的性能。用户可以通过 `Docker` 快速启动和运行：
+`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
 
-![whodb](https://images-1252557999.file.myqcloud.com/uPic/whodb.png) 
+![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
 
-### [Kyoo](https://github.com/zoriya/Kyoo)
+### [glance](https://github.com/glanceapp/glance)
 
-`Kyoo` 是一款开源媒体浏览器，可让您流式传输电影、电视节目或动漫。它是 `Plex、Emby or Jellyfin` 的替代品：
+`Glance` 可以将你所有的订阅源聚合到一个页面中，支持多种小部件，可以自定义主题：
 
-![kyoo](https://images-1252557999.file.myqcloud.com/uPic/kyoo.jpg)
-
-目前产品形态只有 `Web` 和 `Android`。 
+![glance](https://images-1252557999.file.myqcloud.com/uPic/glance.jpg) 
 
 ## 🤖 软件 
 
-### [lettura](https://github.com/zhanglun/lettura)
+### [numi](https://github.com/nikolaeu/numi)
 
-基于 `Tauri` 的桌面 `RSS` 阅读器：
+一款颜值颇高的 `Mac` 计算器：
 
-![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
+![numi](https://images-1252557999.file.myqcloud.com/uPic/numi.jpg) 
 
-### [stats](https://github.com/exelban/stats)
+### [plain-app](https://github.com/ismartcoding/plain-app)
 
-基于 `macOS` 菜单栏的系统监控软件：
+🔥 PlainApp 是一个开源应用程序，允许您通过网络浏览器管理您的手机。使用安全、易于使用的 Web 界面从您的桌面访问文件、视频、音乐、联系人、短信、电话等！
 
-![stats](https://images-1252557999.file.myqcloud.com/uPic/stats.jpg) 
+![plain-app](https://images-1252557999.file.myqcloud.com/uPic/plain-app.jpg) 
 
-### [icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
+### [UTM](https://github.com/utmapp/UTM)
 
-一个命令行工具，用于从 `iCloud` 下载照片，支持 `Linux、Windows & macOS` 系统。 
+开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
+
+![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
 
 ## 👀 资料 
 
-### [papers-we-love](https://github.com/papers-we-love/papers-we-love)
+### [nextjs-learn-cn](https://qufei1993.github.io/nextjs-learn-cn/)
 
-项目收集了计算机科学领域值得一读的论文：
+一份 `Next.js` 中文教程：
 
-![papers-we-love](https://images-1252557999.file.myqcloud.com/uPic/FiYqA1.png)
+![nextjs-learn-c](https://images-1252557999.file.myqcloud.com/uPic/nextjs-learn-c.jpg) 
 
-还有一个开发者列出了他喜欢的论文，具体见：[my-favorite-papers](https://ordep.dev/posts/my-favorite-papers)，其中包括了LSM Tree， Kafka， Zookeeper，数字签名，等一些很经典的分布式领域的论文。 
+### [AI-System](https://github.com/microsoft/AI-System)
 
-### [PySide6-Code-Tutorial](https://github.com/muziing/PySide6-Code-Tutorial)
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
 
-用代码实例讲解PySide6，附优质Demos、图标库、QSS皮肤、相关文章等分享：
+![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
 
-![PySide6-Code-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/UqIUuM.png) 
+### [devtoolstips](https://devtoolstips.org/)
 
-### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
+一系列简单易懂的跨浏览器技巧和窍门，让你在使用开发者工具时更加得心应手和高效：
 
-`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
-
-![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
+![devtoolstips](https://images-1252557999.file.myqcloud.com/uPic/vHP9UU.png) 
 
 ## 🕸 网站 
 
-### [bloghub](https://bloghub.fun/)
+### [producthunt-daily-hot](https://github.com/ViggoZ/producthunt-daily-hot)
 
-优质博客聚合展示项目，"子曰：有朋自远方来，不亦说乎"，希望 BlogHub 也能让大家发现更多有趣的灵魂，结交更多的朋友：
+`Product Hunt` 每日热榜是一个基于 `GitHub Action` 的自动化工具，它能够每天定时生成 `Product Hunt` 上的热门产品榜单 `Markdown` 文件，并自动提交到 `GitHub` 仓库中。该项目旨在帮助用户快速查看每日的 `Product Hunt` 热门榜单，并提供更详细的产品信息。
 
-![bloghub](https://images-1252557999.file.myqcloud.com/uPic/bloghub.jpg)
-项目参考数据源：[chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)：中文独立博客列表 
+![producthunt-daily-hot](https://images-1252557999.file.myqcloud.com/uPic/2vDyRf.png) 
 
-### [FRE123-动漫搜索引擎](https://www.fre123.com/anime/s)
+### [必应壁纸](https://bing.ioliu.cn/)
 
-`FRE123` 周末新上了个动漫番剧搜索引擎，主要是汇集一些比较好的番剧网站资源，提供搜索服务，让用户更快速找到自己想看到的番剧，欢迎提意见：
+收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
 
-![fre123_anime](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime.jpg) 
+![bing](https://images-1252557999.file.myqcloud.com/uPic/bing.jpg) 
 
-### [xiaobot.so](https://www.xiaobot.so/)
+### [lucide](https://lucide.dev/)
 
-老胡团队整的一个小报童专栏导航网站（测试一两周后就会开源，有兴趣可期待），和其他小报童导航相比：
+开源图标库，可以直接下载 `SVG`：
 
-- AI 自动打标签
-- 增加订阅用户&文章更新数量趋势统计
-- 增加专栏内页，有利于 SEO
-- 更漂亮<持保留态度，但老胡是实打实请设计师帮忙设计的>
-
-![xiaobot_so](https://images-1252557999.file.myqcloud.com/uPic/xiaobot_so.jpg)
-
-如果有你适合的专栏，可以购买支持下～ 
+![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
 
 ## ✍️ 说明
 
