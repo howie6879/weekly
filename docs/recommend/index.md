@@ -5,83 +5,101 @@
 
 ## 🎯 项目 
 
-### [dootask](https://github.com/kuaifan/dootask)
+### [amprobe](https://github.com/amuluze/amprobe)
 
-DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
+`Amprobe` 是一款轻量级主机及 `Docker` 容器监控工具，它可以轻松的帮助我们完成以下几方面的工作：
 
-![dootask](https://images-1252557999.file.myqcloud.com/uPic/tYiTA7.png) 
+- 监控主机的 CPU、内存、磁盘 IO、网络 IO情况
+- 监控部署于主机上 Docker 容器的运行状态、CPU、内存使用情况
+- 实时查看 Docker 容器的日志，并支持日志下载
+- 针对管理员用户提供简单的 Docker 容器、镜像运维操作
+- 操作日志记录
 
-### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
+暂时还不支持多机器关联，期待作者更新：
 
-`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
+![amprobe](https://images-1252557999.file.myqcloud.com/uPic/amprobe.png) 
 
-![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
+### [DeepLX](https://github.com/OwO-Network/DeepLX)
 
-### [glance](https://github.com/glanceapp/glance)
+`DeepL` 免费翻译 `API` ，无需 `Token`：
 
-`Glance` 可以将你所有的订阅源聚合到一个页面中，支持多种小部件，可以自定义主题：
+![deeplx](https://images-1252557999.file.myqcloud.com/uPic/deeplx.jpg)
 
-![glance](https://images-1252557999.file.myqcloud.com/uPic/glance.jpg) 
+为了防止触发 429，可使用 [DeepLX-Serverless](https://github.com/guobao2333/DeepLX-Serverless) 项目，其利用了云函数的请求 IP 不固定的特性，极大程度上避免了 429 请求太频繁报错。 
+
+### [resume-design](https://github.com/huajian-pro/resume-design)
+
+一款开源简历设计生成器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据：
+
+![91huajian](https://images-1252557999.file.myqcloud.com/uPic/MHN7Rb.jpg) 
 
 ## 🤖 软件 
 
-### [numi](https://github.com/nikolaeu/numi)
+### [koodo-reader](https://github.com/troyeguo/koodo-reader)
 
-一款颜值颇高的 `Mac` 计算器：
+一个跨平台的电子书阅读器：
 
-![numi](https://images-1252557999.file.myqcloud.com/uPic/numi.jpg) 
+- 支持多达 15 种主流电子书格
+- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
+- 备份数据到  **Dropbox**  和  **Webdav**
+- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
+- 双页模式，单页模式，滚动模式
+- 听书功能，翻译功能，触控屏支持，批量导入图书
+- 支持目录，书签，笔记，高亮，书架，标签
+- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
+- 黑夜模式和主题色设置
 
-### [plain-app](https://github.com/ismartcoding/plain-app)
+![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
 
-🔥 PlainApp 是一个开源应用程序，允许您通过网络浏览器管理您的手机。使用安全、易于使用的 Web 界面从您的桌面访问文件、视频、音乐、联系人、短信、电话等！
+### [automa](https://github.com/Kholid060/automa)
 
-![plain-app](https://images-1252557999.file.myqcloud.com/uPic/plain-app.jpg) 
+`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
 
-### [UTM](https://github.com/utmapp/UTM)
+![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
 
-开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
+### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
 
-![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
+根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
+
+![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
 
 ## 👀 资料 
 
-### [nextjs-learn-cn](https://qufei1993.github.io/nextjs-learn-cn/)
+### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
 
-一份 `Next.js` 中文教程：
+![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
-![nextjs-learn-c](https://images-1252557999.file.myqcloud.com/uPic/nextjs-learn-c.jpg) 
+### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
 
-### [AI-System](https://github.com/microsoft/AI-System)
+作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
 
-微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
 
-![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
+### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
 
-### [devtoolstips](https://devtoolstips.org/)
+《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 
-一系列简单易懂的跨浏览器技巧和窍门，让你在使用开发者工具时更加得心应手和高效：
-
-![devtoolstips](https://images-1252557999.file.myqcloud.com/uPic/vHP9UU.png) 
+![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
 
 ## 🕸 网站 
 
-### [producthunt-daily-hot](https://github.com/ViggoZ/producthunt-daily-hot)
+### [latexlive](https://www.latexlive.com/)
 
-`Product Hunt` 每日热榜是一个基于 `GitHub Action` 的自动化工具，它能够每天定时生成 `Product Hunt` 上的热门产品榜单 `Markdown` 文件，并自动提交到 `GitHub` 仓库中。该项目旨在帮助用户快速查看每日的 `Product Hunt` 热门榜单，并提供更详细的产品信息。
+免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
 
-![producthunt-daily-hot](https://images-1252557999.file.myqcloud.com/uPic/2vDyRf.png) 
+![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
 
-### [必应壁纸](https://bing.ioliu.cn/)
+### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
 
-收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
+@妙才投稿，在线学习git命令的网站：
 
-![bing](https://images-1252557999.file.myqcloud.com/uPic/bing.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
 
-### [lucide](https://lucide.dev/)
+### [nesbox](https://nesbox.xianqiao.wang/)
 
-开源图标库，可以直接下载 `SVG`：
+找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
 
-![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
+![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
 
 ## ✍️ 说明
 
