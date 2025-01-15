@@ -5,114 +5,91 @@
 
 ## 🎯 项目 
 
-### [search_with_lepton](https://github.com/leptonai/search_with_lepton)
+### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
 
-`AI` 大神贾扬清用500行代码打造 `AI` 搜索引擎  `Demo`，登顶 `GitHub` 热榜，证明构建AI应用并非难事：
+阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
 
-![search_with_lepton](https://images-1252557999.file.myqcloud.com/uPic/search_with_lepton.png)
+如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
 
-同种类型应用参考：
+![Infuse](https://images-1252557999.file.myqcloud.com/uPic/Fbred5.png) 
 
-- https://www.perplexity.ai
-- https://devv.ai/ 
+### [c-shopping](https://github.com/huanghanzhilian/c-shopping)
 
-### [sams_helper](https://github.com/sari3l/sams_helper)
+ 基于 `Nextjs` 开发同时适配 `Desktop、Tablet、Phone` 多种设备的精美购物平台：
+ 
+ ![C-Shopping](https://images-1252557999.file.myqcloud.com/uPic/C-Shopping.png) 
 
-山姆全自动抢购：普通商品、保供套餐；支持优惠券、无货添加、数量修正、金额限制、超重拆分、黑白名单:
+### [sealos](https://github.com/fanux/sealos)
 
-![sams_helper](https://images-1252557999.file.myqcloud.com/uPic/sams_helper.jpg) 
-
-### [tiptop](https://github.com/nschloe/tiptop)
-
-类似`htop`的命令行系统资源监控工具：
-
-![tiptop](https://images-1252557999.file.myqcloud.com/uPic/tiptop.png) 
+一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
 
 ## 🤖 软件 
 
-### [Rayon](https://github.com/Lakr233/Rayon)
+### [plain-app](https://github.com/ismartcoding/plain-app)
 
-一个`macOS`的上的`SSH`客户端：
+🔥 PlainApp 是一个开源应用程序，允许您通过网络浏览器管理您的手机。使用安全、易于使用的 Web 界面从您的桌面访问文件、视频、音乐、联系人、短信、电话等！
 
-![rayon](https://images-1252557999.file.myqcloud.com/uPic/rayon.png)
+![plain-app](https://images-1252557999.file.myqcloud.com/uPic/plain-app.jpg) 
 
-软件特性：
+### [HandBrake](https://github.com/HandBrake/HandBrake)
 
-- 免费&开源
-- 支持 libssh2 的主机连接
-- Linux proc 文件系统状态信息
-- 使用密码、密钥等进行身份验证...
-- xterm 终端支持
-- 批处理执行代码片段 
+`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
 
-### [fluent-reader](https://github.com/yang991178/fluent-reader)
+![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
 
-一款拥有现代化界面的RSS阅读器，拥有以下特性：
+### [Macast](https://github.com/xfangfang/Macast)
 
-- 跨平台
-- 可同步自部署服务以及外部服务如：Inoreader, Feedbin
-- 支持OPML导入导出
-- 正则检索，状态管控，快捷键等
+Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
 
-![fluent-reader](https://images-1252557999.file.myqcloud.com/uPic/fluent-reader.png) 
-
-### [little-rat](https://github.com/dnakov/little-rat)
-
-Little Rat 是一款开源的 Chrome 扩展，用于实时监测其它的 Chrome 扩展联网情况，并可以选择阻止联网，防止恶意扩展：
-
-![little-rat](https://images-1252557999.file.myqcloud.com/uPic/little-rat.webp) 
+![Macast](https://images-1252557999.file.myqcloud.com/uPic/CXYyQX.jpg) 
 
 ## 👀 资料 
 
-### [LLMBook-zh](https://llmbook-zh.github.io/)
+### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
 
-大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
+算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
 
-![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
+![Reflection Summary](https://images-1252557999.file.myqcloud.com/uPic/WpauDu.png) 
 
-### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
+### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
 
-本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
+30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/SBotTN.jpg)
+![30-Days-Of-React](https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg) 
 
-其他同类教程地址：
+### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
 
-- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
-- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
+中国5级行政区域mysql库：
 
-### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
-
-《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
-
-![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
+- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
+- 港澳地区的数据只有3级;台湾地区4级
+- 包含大陆地区的邮政编码和经纬度信息 
 
 ## 🕸 网站 
 
-### [renwuzhi.wiki](https://renwuzhi.wiki/)
+### [huawei-od](https://huawei-od.vercel.app/)
 
-网站收集了各个朝代人物介绍：
+牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
 
-![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
+![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
 
-### [文学网](https://www.hwxnet.com/)
+### [FRE321](https://www.fre321.com/)
 
-文学相关工具在线网站：
+原本 fre123.com 被污染了，所以 301 到新的域名 [https://www.fre321.com](https://www.fre321.com) 一直在用的朋友请收藏下哈，老胡也再次和大家介绍下目前的功能：
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
+- 首页影视、动漫、软件、电子书、音乐等资源导航
+- 番剧搜索
+- 技术、新闻信息流
+- 周刊聚合页面
+- 新功能持续开发中
 
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+![FRE321](https://images-1252557999.file.myqcloud.com/uPic/FRE321.jpg) 
 
-### [antimkd](https://antimkd.com/)
+### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
 
-无套路的软件下载网站：
+这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
 
-![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
+![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
 
 ## ✍️ 说明
 
