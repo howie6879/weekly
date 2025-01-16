@@ -5,91 +5,83 @@
 
 ## 🎯 项目 
 
-### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
+### [drawdb](https://github.com/drawdb-io/drawdb)
 
-阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
+免费、简单且直观的在线数据库设计工具和 `SQL` 生成器：
 
-如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
+![drawdb](https://images-1252557999.file.myqcloud.com/uPic/drawdb.jpg) 
 
-![Infuse](https://images-1252557999.file.myqcloud.com/uPic/Fbred5.png) 
+### [easy-gate](https://github.com/r7wx/easy-gate)
 
-### [c-shopping](https://github.com/huanghanzhilian/c-shopping)
+`Easy Gate` 是一个使用 `Go` 和 `React` 构建的简单 `Web` 应用程序，它充当您自托管基础设施的主页。服务和注释从 `JSON` 文件中实时解析（无需重新启动应用程序）。可以将服务和注释分配给一个或多个组，以仅向特定用户显示项目（基于他们的 IP 地址）。
 
- 基于 `Nextjs` 开发同时适配 `Desktop、Tablet、Phone` 多种设备的精美购物平台：
- 
- ![C-Shopping](https://images-1252557999.file.myqcloud.com/uPic/C-Shopping.png) 
+![easy-gate](https://images-1252557999.file.myqcloud.com/uPic/easy-gate.png) 
 
-### [sealos](https://github.com/fanux/sealos)
+### [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)
 
-一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
+小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！
+
+![XHS-Downloader](https://images-1252557999.file.myqcloud.com/uPic/mjKPJU.png) 
 
 ## 🤖 软件 
 
-### [plain-app](https://github.com/ismartcoding/plain-app)
+### [Olauncher](https://github.com/tanujnotes/Olauncher)
 
-🔥 PlainApp 是一个开源应用程序，允许您通过网络浏览器管理您的手机。使用安全、易于使用的 Web 界面从您的桌面访问文件、视频、音乐、联系人、短信、电话等！
+适用于 `Android` 的最小 `AF` 启动器。减少您在屏幕上浪费的时间，提供日常壁纸，非常优雅简洁，效果上来看适合英文用户：
 
-![plain-app](https://images-1252557999.file.myqcloud.com/uPic/plain-app.jpg) 
+![Olauncher](https://images-1252557999.file.myqcloud.com/uPic/Olauncher.jpg) 
 
-### [HandBrake](https://github.com/HandBrake/HandBrake)
+### [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
-`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
+`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
 
-![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
+![appflowy](https://images-1252557999.file.myqcloud.com/uPic/JhzdLT.jpg) 
 
-### [Macast](https://github.com/xfangfang/Macast)
+### [IconChanger](https://github.com/underthestars-zhy/IconChanger)
 
-Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
+`IconChanger` 是一个可以更换App图标的应用程序，它简化了你更换图标的流程：
 
-![Macast](https://images-1252557999.file.myqcloud.com/uPic/CXYyQX.jpg) 
+![IconChanger](https://images-1252557999.file.myqcloud.com/uPic/IconChanger.png) 
 
 ## 👀 资料 
 
-### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
+### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
 
-算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
+这里有比较全面的时间序列数据相关资源。 
 
-![Reflection Summary](https://images-1252557999.file.myqcloud.com/uPic/WpauDu.png) 
+### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
 
-### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
+`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
 
-30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
+- [Tauri 项目](https://github.com/tauri-apps/tauri)
+- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
+- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
 
-![30-Days-Of-React](https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg) 
+### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
 
-### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
+精益副业：程序员如何优雅地做副业:
 
-中国5级行政区域mysql库：
-
-- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
-- 港澳地区的数据只有3级;台湾地区4级
-- 包含大陆地区的邮政编码和经纬度信息 
+![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
 
 ## 🕸 网站 
 
-### [huawei-od](https://huawei-od.vercel.app/)
+### [epub-manga-creator](https://github.com/wing-kai/epub-manga-creator)
 
-牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
+把一堆漫画图片打包成 `epub` 格式的 `Web GUI`：
 
-![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
+![epub-manga-creator](https://images-1252557999.file.myqcloud.com/uPic/epub-manga-creator.jpg) 
 
-### [FRE321](https://www.fre321.com/)
+### [send.internxt.com](https://send.internxt.com/)
 
-原本 fre123.com 被污染了，所以 301 到新的域名 [https://www.fre321.com](https://www.fre321.com) 一直在用的朋友请收藏下哈，老胡也再次和大家介绍下目前的功能：
+文件上传分享网站，如果有临时文件传输的场景，可以使用：
 
-- 首页影视、动漫、软件、电子书、音乐等资源导航
-- 番剧搜索
-- 技术、新闻信息流
-- 周刊聚合页面
-- 新功能持续开发中
+![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
 
-![FRE321](https://images-1252557999.file.myqcloud.com/uPic/FRE321.jpg) 
+### [github copilot](https://github.com/copilot)
 
-### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
+`GitHub Copilot` 可以免费使用了，免费用户每月有 2000 个代码建议、50 次对话。
 
-这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
-
-![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
+![copilot](https://images-1252557999.file.myqcloud.com/uPic/648shM.png) 
 
 ## ✍️ 说明
 
