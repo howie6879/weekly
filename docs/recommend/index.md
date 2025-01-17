@@ -5,83 +5,99 @@
 
 ## 🎯 项目 
 
-### [drawdb](https://github.com/drawdb-io/drawdb)
+### [DocsGPT](https://github.com/arc53/DocsGPT)
 
-免费、简单且直观的在线数据库设计工具和 `SQL` 生成器：
+[DocsGPT](https://github.com/arc53/DocsGPT) 是一种前沿的开源解决方案，可简化在项目文档中查找信息的过程。通过集成强大的 GPT 模型，开发人员可以轻松地提出有关项目的问题并获得准确的答案：
 
-![drawdb](https://images-1252557999.file.myqcloud.com/uPic/drawdb.jpg) 
+![docsgpt](https://images-1252557999.file.myqcloud.com/uPic/docsgpt.jpg) 
 
-### [easy-gate](https://github.com/r7wx/easy-gate)
+### [autocut](https://github.com/mli/autocut)
 
-`Easy Gate` 是一个使用 `Go` 和 `React` 构建的简单 `Web` 应用程序，它充当您自托管基础设施的主页。服务和注释从 `JSON` 文件中实时解析（无需重新启动应用程序）。可以将服务和注释分配给一个或多个组，以仅向特定用户显示项目（基于他们的 IP 地址）。
+`AutoCut` 对视频自动生成字幕，只需选择要保留的句子，`AutoCut` 将对视频中对应的片段裁切并保存。
 
-![easy-gate](https://images-1252557999.file.myqcloud.com/uPic/easy-gate.png) 
+![autocut](https://images-1252557999.file.myqcloud.com/uPic/autocut.jpg) 
 
-### [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)
+### [yft-design](https://github.com/dromara/yft-design)
 
-小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！
+基于 `fabric.js` 的图片设计项目，使用 `Vue3 + TypeScript + Fabric.js + Element-Plus`，支持 文字、图片、形状、线条、二维码 、条形码几种最常用的元素类型，每一种元素都拥有高度可编辑能力，缩略图显示，模板，支持导出`json，svg, image`文件，支持 Docker 部署：
 
-![XHS-Downloader](https://images-1252557999.file.myqcloud.com/uPic/mjKPJU.png) 
+![yft-design](https://images-1252557999.file.myqcloud.com/uPic/yft-design.jpg) 
 
 ## 🤖 软件 
 
-### [Olauncher](https://github.com/tanujnotes/Olauncher)
+### [DevToys](https://github.com/veler/DevToys)
 
-适用于 `Android` 的最小 `AF` 启动器。减少您在屏幕上浪费的时间，提供日常壁纸，非常优雅简洁，效果上来看适合英文用户：
+Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
 
-![Olauncher](https://images-1252557999.file.myqcloud.com/uPic/Olauncher.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/DevToys.png)
 
-### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
 
-`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+![](https://images-1252557999.file.myqcloud.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
 
-![appflowy](https://images-1252557999.file.myqcloud.com/uPic/JhzdLT.jpg) 
+放心体验吧~ 
 
-### [IconChanger](https://github.com/underthestars-zhy/IconChanger)
+### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
 
-`IconChanger` 是一个可以更换App图标的应用程序，它简化了你更换图标的流程：
+安全、快速与轻量的远程桌面&文件管理工具：
 
-![IconChanger](https://images-1252557999.file.myqcloud.com/uPic/IconChanger.png) 
+![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
+
+### [Gotcha-Rest-Client](https://github.com/WhiteCosmos/Gotcha-Rest-Client)
+
+Gotcha 是一个开源且跨平台的 API 设计和测试工具：
+
+- 无需登录注册，所有数据均存放在本地数据库(indexedDB)当中
+- 完全可视化的 API 设计功能，自由编辑请求和响应，支持 Json Schema 格式，支持大多数 OpenAPI 标准
+- 参数化 URL 编辑器，所有 URL 参数都可以通过表单形式轻松修改
+- 通过右键菜单轻松使用动态变量，包括环境变量，日期时间，引用其它接口等多种类型
+- 随时切换，修改 Cookie，支持同时使用多套 Cookie
+- 可视化 JSON 编辑器
+- 保存常用请求到请求模板
+
+![Gotcha-Rest-Client](https://images-1252557999.file.myqcloud.com/uPic/Gotcha-Rest-Client.png) 
 
 ## 👀 资料 
 
-### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
+### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 
-这里有比较全面的时间序列数据相关资源。 
+每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
 
-### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
+![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
 
-`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
+### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
 
-- [Tauri 项目](https://github.com/tauri-apps/tauri)
-- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
-- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
+一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
 
-### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
+![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
 
-精益副业：程序员如何优雅地做副业:
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+
+![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
 
 ## 🕸 网站 
 
-### [epub-manga-creator](https://github.com/wing-kai/epub-manga-creator)
+### [websequencediagrams](https://www.websequencediagrams.com/)
 
-把一堆漫画图片打包成 `epub` 格式的 `Web GUI`：
+提供在线绘制时序图的网站：
 
-![epub-manga-creator](https://images-1252557999.file.myqcloud.com/uPic/epub-manga-creator.jpg) 
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
-### [send.internxt.com](https://send.internxt.com/)
+### [free-font](https://free-font.vercel.app/)
 
-文件上传分享网站，如果有临时文件传输的场景，可以使用：
+收录商用免费汉字字体，还包括开源英文字体 `Free Font`:
 
-![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
+![free-font](https://images-1252557999.file.myqcloud.com/uPic/free-font.png)
 
-### [github copilot](https://github.com/copilot)
+项目开源在 [github](https://github.com/jaywcjlove/free-font)。 
 
-`GitHub Copilot` 可以免费使用了，免费用户每月有 2000 个代码建议、50 次对话。
+### [腾讯文库](https://wenku.docs.qq.com/)
 
-![copilot](https://images-1252557999.file.myqcloud.com/uPic/648shM.png) 
+腾讯文库——专业权威的内容消费与发布平台：
+
+![wenku](https://images-1252557999.file.myqcloud.com/uPic/CL5bpt.png) 
 
 ## ✍️ 说明
 
