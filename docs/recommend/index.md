@@ -5,99 +5,86 @@
 
 ## 🎯 项目 
 
-### [DocsGPT](https://github.com/arc53/DocsGPT)
+### [LiTiaotiao](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
 
-[DocsGPT](https://github.com/arc53/DocsGPT) 是一种前沿的开源解决方案，可简化在项目文档中查找信息的过程。通过集成强大的 GPT 模型，开发人员可以轻松地提出有关项目的问题并获得准确的答案：
+前段时间，自动跳过开屏广告 App，**李跳跳**作者遭大厂警告，产品无限期停更。
 
-![docsgpt](https://images-1252557999.file.myqcloud.com/uPic/docsgpt.jpg) 
+这是一个收集适用于**李跳跳**的 `App` 自定义规则：
 
-### [autocut](https://github.com/mli/autocut)
+- 基础规则：关闭应用内广告、更新弹窗、青少年模式弹窗、权限索取提示等
+- 增强规则：自动化操作等
 
-`AutoCut` 对视频自动生成字幕，只需选择要保留的句子，`AutoCut` 将对视频中对应的片段裁切并保存。
+也算变相复活李跳跳了，不方便下载的可以关注公众号加我微信我传给你。 
 
-![autocut](https://images-1252557999.file.myqcloud.com/uPic/autocut.jpg) 
+### [icefox](https://github.com/xiaopanglian/icefox)
 
-### [yft-design](https://github.com/dromara/yft-design)
+`Typecho` 微信朋友圈主题:
 
-基于 `fabric.js` 的图片设计项目，使用 `Vue3 + TypeScript + Fabric.js + Element-Plus`，支持 文字、图片、形状、线条、二维码 、条形码几种最常用的元素类型，每一种元素都拥有高度可编辑能力，缩略图显示，模板，支持导出`json，svg, image`文件，支持 Docker 部署：
+![icefox](https://images-1252557999.file.myqcloud.com/uPic/icefox.jpg) 
 
-![yft-design](https://images-1252557999.file.myqcloud.com/uPic/yft-design.jpg) 
+### [crawlee](https://crawlee.dev/)
+
+基于 `Node` 编写的开源网络爬虫库：
+
+![crawlee](https://images-1252557999.file.myqcloud.com/uPic/crawlee.jpg) 
 
 ## 🤖 软件 
 
-### [DevToys](https://github.com/veler/DevToys)
+### [biyi](https://github.com/lijy91/biyi)
 
-Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
+比译是一个用 `Flutter` 编写的跨平台便捷翻译和词典应用：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/DevToys.png)
+![biyi](https://images-1252557999.file.myqcloud.com/uPic/biyi.jpg) 
 
-可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
+### [PDFQFZ](https://github.com/flytkgl/PDFQFZ)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
+PDF加盖骑缝章的小工具，选择需要盖章的PDF文件或文件夹。 选择保存文件夹。 导入完整的印章图片,工具会根据PDF页数做随机分割。 设定印章大小,骑缝章位置,印章位置等 点盖章，骚等后在保存文件夹中即可看到盖好骑缝章的PDF文件。
 
-放心体验吧~ 
+![pdfqfz](https://images-1252557999.file.myqcloud.com/uPic/pdfqfz.jpg) 
 
-### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
+### [wechat-universal-flatpak](https://github.com/web1n/wechat-universal-flatpak)
 
-安全、快速与轻量的远程桌面&文件管理工具：
+基于微信 `Linux Universal` 版打包，无发行版限制：
 
-![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
-
-### [Gotcha-Rest-Client](https://github.com/WhiteCosmos/Gotcha-Rest-Client)
-
-Gotcha 是一个开源且跨平台的 API 设计和测试工具：
-
-- 无需登录注册，所有数据均存放在本地数据库(indexedDB)当中
-- 完全可视化的 API 设计功能，自由编辑请求和响应，支持 Json Schema 格式，支持大多数 OpenAPI 标准
-- 参数化 URL 编辑器，所有 URL 参数都可以通过表单形式轻松修改
-- 通过右键菜单轻松使用动态变量，包括环境变量，日期时间，引用其它接口等多种类型
-- 随时切换，修改 Cookie，支持同时使用多套 Cookie
-- 可视化 JSON 编辑器
-- 保存常用请求到请求模板
-
-![Gotcha-Rest-Client](https://images-1252557999.file.myqcloud.com/uPic/Gotcha-Rest-Client.png) 
+![wechat-universal-flatpak](https://images-1252557999.file.myqcloud.com/uPic/wechat-universal-flatpak.png) 
 
 ## 👀 资料 
 
-### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
 
-每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
+从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
 
-![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
+### [大模型基础](https://github.com/datawhalechina/so-large-lm)
 
-### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
+本项目旨在作为一个大规模预训练语言模型的教程，从数据准备、模型构建、训练策略到模型评估与改进，以及模型在安全、隐私、环境和法律道德方面的方面来提供开源知识。
 
-一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
+![so-large-lm](https://images-1252557999.file.myqcloud.com/uPic/so-large-lm.jpg) 
 
-![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
+### [docker-practice](https://vuepress.mirror.docker-practice.com/)
 
-### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
+一份面向 `Docker` 初学者的教程：
 
-这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
-
-![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
+![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
 
 ## 🕸 网站 
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+### [watermark](https://watermark.liumingye.cn/)
 
-提供在线绘制时序图的网站：
+短视频/图集在线去水印解析：
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+![watermark](https://images-1252557999.file.myqcloud.com/uPic/watermark.jpg) 
 
-### [free-font](https://free-font.vercel.app/)
+### [storyset](https://storyset.com/)
 
-收录商用免费汉字字体，还包括开源英文字体 `Free Font`:
+来自读者@妙才的投稿，这个网站提供了大量精美免费的插图，可以应用于你的项目：
 
-![free-font](https://images-1252557999.file.myqcloud.com/uPic/free-font.png)
+![storyset](https://images-1252557999.file.myqcloud.com/uPic/Jm5cJY.png) 
 
-项目开源在 [github](https://github.com/jaywcjlove/free-font)。 
+### [seesaw](https://www.seesaw.website/)
 
-### [腾讯文库](https://wenku.docs.qq.com/)
+专门收集优秀网页设计的网站，目前有 **123** 个案例：
 
-腾讯文库——专业权威的内容消费与发布平台：
-
-![wenku](https://images-1252557999.file.myqcloud.com/uPic/CL5bpt.png) 
+![seesaw](https://images-1252557999.file.myqcloud.com/uPic/seesaw.jpg) 
 
 ## ✍️ 说明
 
