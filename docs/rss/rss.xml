@@ -12,7 +12,59 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sat, 04 Jan 2025 11:49:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 13:56:03 +0000</lastBuildDate>
+    <item>
+      <title>01-06~01-19.老胡的周刊（第175期）.md</title>
+      <link>https://weekly.howie6879.com/2025/01-06~01-19.老胡的周刊（第175期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/01-06~01-19.老胡的周刊（第175期）.html"&gt;01-06~01-19.老胡的周刊（第175期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/chclt/oh-my-wechat/"&gt;oh-my-wechat&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源项目，微信消息备份与年度数据报告：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="oh-my-wechat" src="https://images-1252557999.file.myqcloud.com/uPic/JXAGlQ.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/jarvis2f/telegram-files"&gt;telegram-files&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;从 Telegram 频道和群组下载文件的开源项目，支持多账号并确保文件不会重复下载，具备下载暂停和继续的功能：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="telegram-files" src="https://images-1252557999.file.myqcloud.com/uPic/O7wvH0.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://ds4sd.github.io/docling/"&gt;docling&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;能够解析多种文档格式并导出为 &lt;code&gt;HTML、Markdown &amp;amp; JSON&lt;/code&gt; 的工具，同时具备高级的 &lt;code&gt;PDF&lt;/code&gt; 文档理解能力，包括布局、阅读顺序和表格结构。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="docling" src="https://images-1252557999.file.myqcloud.com/uPic/3Gp5NT.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/microsoft/markitdown"&gt;markitdown&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;微软出品的格式转化开源项目，它支持将多种文件格式（如 PDF、PowerPoint、Word、Excel、图片、音频、HTML、CSV、JSON、XML 以及 ZIP 文件）转换为 Markdown 格式，便于索引和文本分析等操作。用户可以通过命令行、Python API 或 Docker 容器来使用 MarkItDown。&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/nanbingxyz/5ire"&gt;5ire&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个开源的跨平台桌面 AI 助手，同时也是一个 MCP 客户端。该项目支持多种大型语言模型服务提供商，如 OpenAI、Azure OpenAI、Anthropic 等，并且能够通过 MCP 服务器连接本地知识库和工具，实现诸如文件系统访问、系统信息交互、数据库交互和远程数据访问等功能。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="5ire" src="https://images-1252557999.file.myqcloud.com/uPic/8y8k3G.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/NopeCHALLC/nopecha-extension?tab=readme-ov-file"&gt;nopecha-extension&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;免费使用的网页验证码解决方案，能够处理多种类型的 CAPTCHA，包括 reCAPTCHA、FunCAPTCHA、文本 CAPTCHA 和 Cloudflare Turnstile 等。该工具通过高级的深度学习模型通过 NopeCHA API 提供服务，同时还提供浏览器插件：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="nopecha-extension" src="https://images-1252557999.file.myqcloud.com/uPic/yYSb4x.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/XiaomingX/1000-chinese-independent-developer-plus"&gt;1000-chinese-independent-developer-plus&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;中国独立开发者项目列表，分享大家都在做什么。&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://web.archive.org/"&gt;web.archive.org&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个旨在保存互联网历史记录的平台：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="web.archive.org" src="https://images-1252557999.file.myqcloud.com/uPic/SCps8d.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://ogimage.click/"&gt;ogimage.click&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;允许用户通过选择专业模板、自定义背景、渐变、网格叠加、噪声等属性来快速生成适用于社交媒体平台（如 Twitter、Facebook 和 LinkedIn）的吸引人的分享图片。用户可以无需注册即可免费使用所有功能，生成的图片可以导出为 PNG、JPEG 或 WebP 格式，并且支持多平台的优化尺寸。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ogimage" src="https://images-1252557999.file.myqcloud.com/uPic/WLVTc7.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.nslookup.io/"&gt;nslookup.io&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个在线工具，用于查询域名的 DNS 记录，提供与命令行工具 dig 和 nslookup 相同的信息，但在浏览器中更加方便：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="nslookup" src="https://images-1252557999.file.myqcloud.com/uPic/d5hTUE.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">01-06~01-19.老胡的周刊（第175期）.md</guid>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>01-01~01-05.老胡的周刊（第174期）.md</title>
       <link>https://weekly.howie6879.com/2025/01-01~01-05.老胡的周刊（第174期）.html</link>
@@ -21,9 +73,6 @@
 &lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Byaidu/PDFMathTranslate"&gt;PDFMathTranslate&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;基于 &lt;code&gt;AI&lt;/code&gt; 完整保留排版的 &lt;code&gt;PDF&lt;/code&gt; 文档全文双语翻译，支持 &lt;code&gt;Google/DeepL/Ollama/OpenAI&lt;/code&gt; 等服务，提供 &lt;code&gt;CLI/GUI/Docker&lt;/code&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="PDFMathTranslate" src="https://images-1252557999.file.myqcloud.com/uPic/lRCLw6.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/teableio/teable"&gt;teable&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;基于 &lt;code&gt;No-Code&lt;/code&gt; 的下一代 &lt;code&gt;Airtable&lt;/code&gt; 替代品，它提供了一个类似电子表格的界面来创建强大的数据库应用，支持实时协作，并且能够扩展到数百万行数据：&lt;/p&gt;
 &lt;p&gt;&lt;img alt="teable" src="https://images-1252557999.file.myqcloud.com/uPic/wzL3bp.png" /&gt;&lt;/p&gt;
@@ -1168,83 +1217,6 @@
 &lt;p&gt;🙌 如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">08-19~08-25.老胡的周刊（第156期）.md</guid>
       <pubDate>Sun, 25 Aug 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>08-12~08-18.老胡的周刊（第155期）.md</title>
-      <link>https://weekly.howie6879.com/2024/08-12~08-18.老胡的周刊（第155期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/08-12~08-18.老胡的周刊（第155期）.html"&gt;08-12~08-18.老胡的周刊（第155期）&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1&gt;08-12~08-18.老胡的周刊（第 155 期）&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。
-老胡的周刊三周年了！🥳，感谢大家对老胡信息周刊的支持～&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/searxng/searxng"&gt;SearXNG&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;SearXNG&lt;/code&gt; 是一个免费的互联网元搜索引擎，它通过整合不同的搜索服务和数据库来提供搜索结果，同时保障用户隐私不被追踪和分析。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="SearXNG" src="https://images-1252557999.file.myqcloud.com/uPic/SearXNG.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/0x2E/fusion"&gt;fusion&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;开源、轻量可自建，用户友好的 RSS 聚合阅读器：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;轻量级和自托管，支持 Docker&lt;/li&gt;
-&lt;li&gt;功能丰富&lt;/li&gt;
-&lt;li&gt;跨平台和响应式设计&lt;/li&gt;
-&lt;li&gt;多种安装和配置方式&lt;/li&gt;
-&lt;li&gt;技术栈和社区支持&lt;/li&gt;
-&lt;li&gt;资源消耗低&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="fusion" src="https://images-1252557999.file.myqcloud.com/uPic/fusion.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/BMPixel/moffee"&gt;moffee&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;开源的 &lt;code&gt;Markdown&lt;/code&gt; 幻灯片制作工具，可以将 &lt;code&gt;Markdown&lt;/code&gt; 文档转换为专业的幻灯片。它支持简单的语法、自动分页和样式设置，用户只需专注于内容，可以通过实时网页界面预览或导出为 &lt;code&gt;PDF&lt;/code&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="moffee" src="https://images-1252557999.file.myqcloud.com/uPic/moffee.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/flameshot-org/flameshot"&gt;flameshot&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一款强大且简单易用的截图软件，支持多平台（Linux、Windows、macOS）。其主要特点包括：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;自定义外观：支持自定义截图工具和颜色。&lt;/li&gt;
-&lt;li&gt;简易使用：提供图形化界面和命令行操作。&lt;/li&gt;
-&lt;li&gt;内置编辑：可以在应用内编辑截图。&lt;/li&gt;
-&lt;li&gt;快捷键支持：支持本地和全局快捷键配置。&lt;/li&gt;
-&lt;li&gt;截图上传：支持将截图上传到 Imgur。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="flameshot" src="https://images-1252557999.file.myqcloud.com/uPic/flameshot.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/VirtualHotBar/NetMount"&gt;NetMount&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;统一管理和挂载云存储设施，免费开源，跨平台支持，基于 &lt;code&gt;Rust + TypeScript + Tauri + React + Vite&lt;/code&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="NetMount" src="https://images-1252557999.file.myqcloud.com/uPic/NetMount.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/miss-mumu/developer2gwy"&gt;developer2gwy&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;公务员从入门到上岸，最佳程序员公考实践教程，一份开源公务员考试的最佳实践指南，一部解构体制工作生活的说明手册：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="developer2gwy" src="https://images-1252557999.file.myqcloud.com/uPic/developer2gwy.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://wikipedia-semantic-search.vercel.app/"&gt;wikipedia-semantic-search&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;对整个维基百科文章进行了向量化，将 1100 万篇维基百科索引成 1.44 亿向量数据，支持包括中文在内的 11 种语言。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;网站: https://wikipedia-semantic-search.vercel.app&lt;/li&gt;
-&lt;li&gt;代码: https://github.com/upstash/wikipedia-semantic-search&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="wikipedia-semantic-search" src="https://images-1252557999.file.myqcloud.com/uPic/wikipedia-semantic-search.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://caesium.app/"&gt;caesium-image-compressor&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;免费开源的图片压缩工具：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="caesium" src="https://images-1252557999.file.myqcloud.com/uPic/caesium.png" /&gt;&lt;/p&gt;
-&lt;p&gt;还支持&lt;a href="https://github.com/Lymphatus/caesium-image-compressor"&gt;桌面端&lt;/a&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="caesium-image-compressor" src="https://images-1252557999.file.myqcloud.com/uPic/caesium-image-compressor.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://free-font.vercel.app/"&gt;free-font&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;收录商用免费汉字字体，还包括开源英文字体 &lt;code&gt;Free Font&lt;/code&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="free-font" src="https://images-1252557999.file.myqcloud.com/uPic/free-font.png" /&gt;&lt;/p&gt;
-&lt;p&gt;项目开源在 &lt;a href="https://github.com/jaywcjlove/free-font"&gt;github&lt;/a&gt;。&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注 👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外 60+优质技术周刊进行信息聚合 🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌 如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">08-12~08-18.老胡的周刊（第155期）.md</guid>
-      <pubDate>Sun, 18 Aug 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
