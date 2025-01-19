@@ -5,86 +5,85 @@
 
 ## 🎯 项目 
 
-### [LiTiaotiao](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
+### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
 
-前段时间，自动跳过开屏广告 App，**李跳跳**作者遭大厂警告，产品无限期停更。
+适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
 
-这是一个收集适用于**李跳跳**的 `App` 自定义规则：
+![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
 
-- 基础规则：关闭应用内广告、更新弹窗、青少年模式弹窗、权限索取提示等
-- 增强规则：自动化操作等
+### [pic-smaller](https://github.com/joye61/pic-smaller)
 
-也算变相复活李跳跳了，不方便下载的可以关注公众号加我微信我传给你。 
+图小小是一个图片压缩工具，基于 `Vite+React` 技术栈开发，它可以完全取代类似 `TinyPNG` 之类的在线图片压缩工具，且压缩之后视觉表现效果往往更好。但图小小有个更大的优势：通过图小小进行图片压缩完全是基于浏览器本地的，没有任何服务端交互，图片不会上传到远程服务器，所以非常安全，不用担心隐私图片被泄露。
 
-### [icefox](https://github.com/xiaopanglian/icefox)
+![pic-smaller](https://images-1252557999.file.myqcloud.com/uPic/pic-smaller.png) 
 
-`Typecho` 微信朋友圈主题:
+### [jina](https://github.com/jina-ai/jina)
 
-![icefox](https://images-1252557999.file.myqcloud.com/uPic/icefox.jpg) 
+![jina](https://images-1252557999.file.myqcloud.com/uPic/9MHbAU.png)
 
-### [crawlee](https://crawlee.dev/)
+云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
 
-基于 `Node` 编写的开源网络爬虫库：
-
-![crawlee](https://images-1252557999.file.myqcloud.com/uPic/crawlee.jpg) 
+相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
 
 ## 🤖 软件 
 
-### [biyi](https://github.com/lijy91/biyi)
+### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
 
-比译是一个用 `Flutter` 编写的跨平台便捷翻译和词典应用：
+免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
 
-![biyi](https://images-1252557999.file.myqcloud.com/uPic/biyi.jpg) 
+![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
 
-### [PDFQFZ](https://github.com/flytkgl/PDFQFZ)
+### [bananas](https://github.com/mistweaverco/bananas)
 
-PDF加盖骑缝章的小工具，选择需要盖章的PDF文件或文件夹。 选择保存文件夹。 导入完整的印章图片,工具会根据PDF页数做随机分割。 设定印章大小,骑缝章位置,印章位置等 点盖章，骚等后在保存文件夹中即可看到盖好骑缝章的PDF文件。
+一个跨平台、点对点的屏幕共享工具，支持多光标协作，无需配置即可快速使用，注重隐私保护。
 
-![pdfqfz](https://images-1252557999.file.myqcloud.com/uPic/pdfqfz.jpg) 
+![bananas](https://images-1252557999.file.myqcloud.com/uPic/oOMgaM.png) 
 
-### [wechat-universal-flatpak](https://github.com/web1n/wechat-universal-flatpak)
+### [Kazumi](https://github.com/Predidit/Kazumi)
 
-基于微信 `Linux Universal` 版打包，无发行版限制：
+基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，非常强大：
 
-![wechat-universal-flatpak](https://images-1252557999.file.myqcloud.com/uPic/wechat-universal-flatpak.png) 
+![Kazumi](https://images-1252557999.file.myqcloud.com/uPic/Kazumi.jpg) 
 
 ## 👀 资料 
 
-### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
+### [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 
-从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
+《[初创公司CTO手册](https://docs.google.com/document/d/147KVarJdNQ2ZdmDHOSsd7W39anejRu2NfxEWCzwl0IU/edit?pli=1)》是一本涵盖软件工程团队领导力、管理和技术主题的书籍。旨在为技术团队领导力提供指导，内容涵盖业务流程、人员管理、招聘面试、入职培训、绩效管理、团队构成、领导责任等多个方面：
 
-### [大模型基础](https://github.com/datawhalechina/so-large-lm)
+![ctohb](https://images-1252557999.file.myqcloud.com/uPic/ctohb.jpg) 
 
-本项目旨在作为一个大规模预训练语言模型的教程，从数据准备、模型构建、训练策略到模型评估与改进，以及模型在安全、隐私、环境和法律道德方面的方面来提供开源知识。
+### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
 
-![so-large-lm](https://images-1252557999.file.myqcloud.com/uPic/so-large-lm.jpg) 
+本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
 
-### [docker-practice](https://vuepress.mirror.docker-practice.com/)
+### [promptingguide.ai](https://www.promptingguide.ai/zh)
 
-一份面向 `Docker` 初学者的教程：
+关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
 
-![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
+![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
 
 ## 🕸 网站 
 
-### [watermark](https://watermark.liumingye.cn/)
+### [segment-anything.com](https://segment-anything.com/)
 
-短视频/图集在线去水印解析：
+`Segment Anything Model（SAM）`：这是 `Meta AI` 推出的一款新的`AI` 模型，它可以通过单击轻松**抠出**任何图像中的任何物体。
 
-![watermark](https://images-1252557999.file.myqcloud.com/uPic/watermark.jpg) 
+也就是说，这个模型可以用一次点击的方式，将任何图片中的任何物体分割出来。
 
-### [storyset](https://storyset.com/)
+![segment-anything](https://images-1252557999.file.myqcloud.com/uPic/segment-anything.jpg) 
 
-来自读者@妙才的投稿，这个网站提供了大量精美免费的插图，可以应用于你的项目：
+### [ouchn](https://le.ouchn.cn/#/home)
 
-![storyset](https://images-1252557999.file.myqcloud.com/uPic/Jm5cJY.png) 
+国家开放大学终身教育平台正式上线，面向社会免费开放。该平台汇聚国家开放大学自建学习资源，338所知名高校课程资源免费开放、10个头部平台的特色课程等共计50万门，包含生活、职场、学历、兴趣等不同领域的课程。致力于满足社会大众多元化、个性化学习需求。
 
-### [seesaw](https://www.seesaw.website/)
+![ouchn](https://images-1252557999.file.myqcloud.com/uPic/ouchn.jpg) 
 
-专门收集优秀网页设计的网站，目前有 **123** 个案例：
+### [ticompressor](https://www.ticompressor.com/online/)
 
-![seesaw](https://images-1252557999.file.myqcloud.com/uPic/seesaw.jpg) 
+速度挺快的在线&客户端图片压缩工具，完全在浏览器端执行压缩，不会上传图片，充分保护您的隐私安全：
+
+![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg) 
 
 ## ✍️ 说明
 
