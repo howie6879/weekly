@@ -5,132 +5,95 @@
 
 ## 🎯 项目 
 
-### [PanIndex](https://github.com/libsgh/PanIndex)
+### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
 
-网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
+🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
 
-- 跨平台、易部署
-- 多模式、多网盘
-- 多主题
-- 下载直链
-- 防盗链
-- 短链、分享
-- 访问控制
-- 分流
-- WebDav
+![Real-CUGAN](https://images-1252557999.file.myqcloud.com/uPic/hWiOCH.jpg) 
 
-![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
+### [certimate](https://github.com/usual2970/certimate)
 
-### [sql-studio](https://github.com/frectonz/sql-studio)
+开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期：
 
-SQL 数据库浏览器，支持 `SQLite、libSQL、PostgreSQL、MySQL&DuckDB`，可以理解成一个简洁轻量的数据库客户端，安装使用也很简单：
+![certimate](https://images-1252557999.file.myqcloud.com/uPic/slnLnQ.png) 
 
-```shell
-curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/releases/download/0.1.23/sql-studio-installer.sh | sh
-# 以周刊数据库为例
-sql-studio --address=0.0.0.0:3030 sqlite /Users/howie/Documents/workspace/weekly/weekly.db
-```
+### [py12306](https://github.com/pjialin/py12306)
 
-这样通过 Web 即可查看数据库信息：
+🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理：
 
-- 数据库整体元数据信息概览
-- 表格数据浏览
-- 自定义查询（提示不全面，如果能接入 AI 感觉会更好）
+![py12306](https://images-1252557999.file.myqcloud.com/uPic/py12306.jpg)
 
-![sql-studio](https://images-1252557999.file.myqcloud.com/uPic/sql-studio.jpg) 
-
-### [talebook](https://github.com/talebook/talebook)
-
-这是一个基于Calibre的简单的个人图书管理系统，支持在线阅读。主要特点是：
-
-- 美观的界面：由于Calibre自带的网页太丑太难用，于是基于Vue，独立编写了新的界面，支持PC访问和手机浏览；
-- 支持多用户：为了网友们更方便使用，开发了多用户功能，支持豆瓣（已废弃）、QQ、微博、Github等社交网站的登录；
-- 支持在线阅读：借助Readium.js 库，支持了网页在线阅读电子书；
-- 支持批量扫描导入书籍；
-- 支持邮件推送：可方便推送到Kindle；
-- 支持OPDS：可使用KyBooks等APP方便地读书；
-- 支持一键安装，网页版初始化配置，轻松启动网站；
-- 优化大书库时文件存放路径，可以按字母分类、或者文件名保持中文；
-- 支持快捷更新书籍信息：支持从百度百科、豆瓣搜索并导入书籍基础信息；
-- 支持私人模式：需要输入访问码，才能进入网站，便于小圈子分享网站；
-
-![talebook](https://images-1252557999.file.myqcloud.com/uPic/VmLmag.png) 
+如果实在抢不到，试下这个项目通过补票或者多买一站来解决：[12306spy](https://github.com/elroy93/12306spy)，这类项目每到假期就会火一把。 
 
 ## 🤖 软件 
 
-### [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
+### [GodMode](https://github.com/smol-ai/GodMode/)
 
-使用 Android 原生开发的电视直播软件：
+`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
 
-![mytv-android](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/mytv-android.jpg)
+![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
 
-老胡试了不是很稳定，大家可根据地域使用测试。 
+### [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
 
-### [Free-NTFS-for-Mac](https://github.com/hoochanlon/Free-NTFS-for-Mac)
+一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒：
 
-这是一款支持苹果芯片的 `Free NTFS for Mac` 小工具软件，主要是为了方便想要免费使用 `NTFS` 格式移动存储的文件拷贝与共享的苹果电脑用户：
+- 一键快速下载、安装、激活最新版 Microsoft Office 软件。
+- 用户可在安装 Word、PPT、Excel 的同时，根据软件提示，自助安装其它组件，包括： Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype
+- 工具可自动识别不同的操作系统架构，自动下载适配版本的 Office。
+- 本工具激活 Office 的方式为正版激活模式，不会篡改任何系统文件。
+- 当系统中存在多个冗余 Office 版本时，本工具在用户同意的情况下，可实现自动升级。 
 
-![Free-NTFS-for-Mac](https://images-1252557999.file.myqcloud.com/uPic/Free-NTFS-for-Mac.png) 
+### [listen1_desktop](https://github.com/listen1/listen1_desktop)
 
-### [oneAnime](https://github.com/Predidit/oneAnime)
+Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单，支持音乐平台：
 
-一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范：
+- 网易云音乐
+- QQ 音乐
+- 酷狗音乐
+- 酷我音乐
+- bilibili
+- 咪咕音乐
+- 千千音乐
 
-![oneAnime](https://images-1252557999.file.myqcloud.com/uPic/oneAnime.jpg) 
+![listen1_desktop](https://images-1252557999.file.myqcloud.com/uPic/listen1_desktop.png) 
 
 ## 👀 资料 
 
-### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
+### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
 
-清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
+golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
 
-更新记录如下：
+### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
 
-- 2020-11-03：环境搭建完成，开始着手编写文档。
-- 2020-11-13：第一章完成。
-- 2020-11-27：第二章完成。
-- 2020-12-20：前七章代码完成。
-- 2021-01-10：第三章完成。
-- 2021-01-18：加入第零章。
-- 2021-01-30：第四章完成。
-- 2021-02-16：第五章完成。
-- 2021-02-20：第六章完成。
-- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
-- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
+📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
 
-热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
+![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
 
-### [just-react](https://github.com/BetaSu/just-react)
+### [Curosor 教程](https://www.lookai.top/cn/cursor/instruction/instruction)
 
-「React技术揭秘」 一本自顶向下的React源码分析书 
+零基础小白 `Cursor` 学习网站：
 
-### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
-
-这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
-
-该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
-
-![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
+![Curosor](https://images-1252557999.file.myqcloud.com/uPic/YIZShF.png) 
 
 ## 🕸 网站 
 
-### [iconfont](https://www.iconfont.cn/)
+### [favicon.io](https://favicon.io/)
 
-阿里巴巴矢量图标库：
+免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
 
-![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
+![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
 
-### [emojiall](https://www.emojiall.com/)
+### [firefly](https://firefly.adobe.com/)
 
-网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
+`Adobe` 推出了的 `AI` 图像创建器 **Firefly**：
 
-![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg) 
+![firefly](https://images-1252557999.file.myqcloud.com/uPic/firefly.jpg) 
 
-### [uxdatabase](https://www.uxdatabase.io/)
+### [0v0.ai](https://0v0.ai/rmbg/)
 
-国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
+图片背景移除网站：
 
-![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
+![0v0](https://images-1252557999.file.myqcloud.com/uPic/0v0.jpg) 
 
 ## ✍️ 说明
 
