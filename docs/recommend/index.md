@@ -5,85 +5,132 @@
 
 ## 🎯 项目 
 
-### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+### [PanIndex](https://github.com/libsgh/PanIndex)
 
-适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
+网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
 
-![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
+- 跨平台、易部署
+- 多模式、多网盘
+- 多主题
+- 下载直链
+- 防盗链
+- 短链、分享
+- 访问控制
+- 分流
+- WebDav
 
-### [pic-smaller](https://github.com/joye61/pic-smaller)
+![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
 
-图小小是一个图片压缩工具，基于 `Vite+React` 技术栈开发，它可以完全取代类似 `TinyPNG` 之类的在线图片压缩工具，且压缩之后视觉表现效果往往更好。但图小小有个更大的优势：通过图小小进行图片压缩完全是基于浏览器本地的，没有任何服务端交互，图片不会上传到远程服务器，所以非常安全，不用担心隐私图片被泄露。
+### [sql-studio](https://github.com/frectonz/sql-studio)
 
-![pic-smaller](https://images-1252557999.file.myqcloud.com/uPic/pic-smaller.png) 
+SQL 数据库浏览器，支持 `SQLite、libSQL、PostgreSQL、MySQL&DuckDB`，可以理解成一个简洁轻量的数据库客户端，安装使用也很简单：
 
-### [jina](https://github.com/jina-ai/jina)
+```shell
+curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/releases/download/0.1.23/sql-studio-installer.sh | sh
+# 以周刊数据库为例
+sql-studio --address=0.0.0.0:3030 sqlite /Users/howie/Documents/workspace/weekly/weekly.db
+```
 
-![jina](https://images-1252557999.file.myqcloud.com/uPic/9MHbAU.png)
+这样通过 Web 即可查看数据库信息：
 
-云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
+- 数据库整体元数据信息概览
+- 表格数据浏览
+- 自定义查询（提示不全面，如果能接入 AI 感觉会更好）
 
-相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
+![sql-studio](https://images-1252557999.file.myqcloud.com/uPic/sql-studio.jpg) 
+
+### [talebook](https://github.com/talebook/talebook)
+
+这是一个基于Calibre的简单的个人图书管理系统，支持在线阅读。主要特点是：
+
+- 美观的界面：由于Calibre自带的网页太丑太难用，于是基于Vue，独立编写了新的界面，支持PC访问和手机浏览；
+- 支持多用户：为了网友们更方便使用，开发了多用户功能，支持豆瓣（已废弃）、QQ、微博、Github等社交网站的登录；
+- 支持在线阅读：借助Readium.js 库，支持了网页在线阅读电子书；
+- 支持批量扫描导入书籍；
+- 支持邮件推送：可方便推送到Kindle；
+- 支持OPDS：可使用KyBooks等APP方便地读书；
+- 支持一键安装，网页版初始化配置，轻松启动网站；
+- 优化大书库时文件存放路径，可以按字母分类、或者文件名保持中文；
+- 支持快捷更新书籍信息：支持从百度百科、豆瓣搜索并导入书籍基础信息；
+- 支持私人模式：需要输入访问码，才能进入网站，便于小圈子分享网站；
+
+![talebook](https://images-1252557999.file.myqcloud.com/uPic/VmLmag.png) 
 
 ## 🤖 软件 
 
-### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
+### [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
 
-免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
+使用 Android 原生开发的电视直播软件：
 
-![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
+![mytv-android](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/mytv-android.jpg)
 
-### [bananas](https://github.com/mistweaverco/bananas)
+老胡试了不是很稳定，大家可根据地域使用测试。 
 
-一个跨平台、点对点的屏幕共享工具，支持多光标协作，无需配置即可快速使用，注重隐私保护。
+### [Free-NTFS-for-Mac](https://github.com/hoochanlon/Free-NTFS-for-Mac)
 
-![bananas](https://images-1252557999.file.myqcloud.com/uPic/oOMgaM.png) 
+这是一款支持苹果芯片的 `Free NTFS for Mac` 小工具软件，主要是为了方便想要免费使用 `NTFS` 格式移动存储的文件拷贝与共享的苹果电脑用户：
 
-### [Kazumi](https://github.com/Predidit/Kazumi)
+![Free-NTFS-for-Mac](https://images-1252557999.file.myqcloud.com/uPic/Free-NTFS-for-Mac.png) 
 
-基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，非常强大：
+### [oneAnime](https://github.com/Predidit/oneAnime)
 
-![Kazumi](https://images-1252557999.file.myqcloud.com/uPic/Kazumi.jpg) 
+一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范：
+
+![oneAnime](https://images-1252557999.file.myqcloud.com/uPic/oneAnime.jpg) 
 
 ## 👀 资料 
 
-### [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
+### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
 
-《[初创公司CTO手册](https://docs.google.com/document/d/147KVarJdNQ2ZdmDHOSsd7W39anejRu2NfxEWCzwl0IU/edit?pli=1)》是一本涵盖软件工程团队领导力、管理和技术主题的书籍。旨在为技术团队领导力提供指导，内容涵盖业务流程、人员管理、招聘面试、入职培训、绩效管理、团队构成、领导责任等多个方面：
+清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
 
-![ctohb](https://images-1252557999.file.myqcloud.com/uPic/ctohb.jpg) 
+更新记录如下：
 
-### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
+- 2020-11-03：环境搭建完成，开始着手编写文档。
+- 2020-11-13：第一章完成。
+- 2020-11-27：第二章完成。
+- 2020-12-20：前七章代码完成。
+- 2021-01-10：第三章完成。
+- 2021-01-18：加入第零章。
+- 2021-01-30：第四章完成。
+- 2021-02-16：第五章完成。
+- 2021-02-20：第六章完成。
+- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
+- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
 
-本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
+热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
 
-### [promptingguide.ai](https://www.promptingguide.ai/zh)
+### [just-react](https://github.com/BetaSu/just-react)
 
-关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
+「React技术揭秘」 一本自顶向下的React源码分析书 
 
-![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
+### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
+
+这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
+
+该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
+
+![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
 
 ## 🕸 网站 
 
-### [segment-anything.com](https://segment-anything.com/)
+### [iconfont](https://www.iconfont.cn/)
 
-`Segment Anything Model（SAM）`：这是 `Meta AI` 推出的一款新的`AI` 模型，它可以通过单击轻松**抠出**任何图像中的任何物体。
+阿里巴巴矢量图标库：
 
-也就是说，这个模型可以用一次点击的方式，将任何图片中的任何物体分割出来。
+![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
 
-![segment-anything](https://images-1252557999.file.myqcloud.com/uPic/segment-anything.jpg) 
+### [emojiall](https://www.emojiall.com/)
 
-### [ouchn](https://le.ouchn.cn/#/home)
+网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
 
-国家开放大学终身教育平台正式上线，面向社会免费开放。该平台汇聚国家开放大学自建学习资源，338所知名高校课程资源免费开放、10个头部平台的特色课程等共计50万门，包含生活、职场、学历、兴趣等不同领域的课程。致力于满足社会大众多元化、个性化学习需求。
+![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg) 
 
-![ouchn](https://images-1252557999.file.myqcloud.com/uPic/ouchn.jpg) 
+### [uxdatabase](https://www.uxdatabase.io/)
 
-### [ticompressor](https://www.ticompressor.com/online/)
+国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
 
-速度挺快的在线&客户端图片压缩工具，完全在浏览器端执行压缩，不会上传图片，充分保护您的隐私安全：
-
-![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg) 
+![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
 
 ## ✍️ 说明
 
