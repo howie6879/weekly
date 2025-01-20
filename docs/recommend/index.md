@@ -5,95 +5,86 @@
 
 ## 🎯 项目 
 
-### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
+### [weiboSpider](https://github.com/dataabc/weiboSpider)
 
-🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
+新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
 
-![Real-CUGAN](https://images-1252557999.file.myqcloud.com/uPic/hWiOCH.jpg) 
+### [DataEase](https://github.com/dataease/dataease)
 
-### [certimate](https://github.com/usual2970/certimate)
+DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
 
-开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期：
+### [wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook)
 
-![certimate](https://images-1252557999.file.myqcloud.com/uPic/slnLnQ.png) 
+一个支持消息收发的微信 `Webhook` 机器人🤖，但是要注意使用限制，不然可能被Ban，特性如下：
 
-### [py12306](https://github.com/pjialin/py12306)
+- 推送消息 (发送文字 / 图片 / 文件)
+- 接收消息（文字 / 图片 / 语音 / 视频 / 文件 / 好友申请 / 公众号推文链接）
+- Docker 部署等
 
-🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理：
-
-![py12306](https://images-1252557999.file.myqcloud.com/uPic/py12306.jpg)
-
-如果实在抢不到，试下这个项目通过补票或者多买一站来解决：[12306spy](https://github.com/elroy93/12306spy)，这类项目每到假期就会火一把。 
+![wechatbot-webhook](https://images-1252557999.file.myqcloud.com/uPic/wechatbot-webhook.gif) 
 
 ## 🤖 软件 
 
-### [GodMode](https://github.com/smol-ai/GodMode/)
+### [seabird](https://github.com/getseabird/seabird)
 
-`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
+`Seabird` 是一个原生的跨平台 `Kubernetes` 桌面客户端，它可以非常容易地探索集群的资源：
 
-![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
+![seabird](https://images-1252557999.file.myqcloud.com/uPic/seabird.png) 
 
-### [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
+### [tiny-rdm](https://github.com/tiny-craft/tiny-rdm)
 
-一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒：
+`Tiny RDM` 是一款适用于 `Mac、 Windows & Linux` 的现代轻量级跨平台 `Redis` 桌面管理器：
 
-- 一键快速下载、安装、激活最新版 Microsoft Office 软件。
-- 用户可在安装 Word、PPT、Excel 的同时，根据软件提示，自助安装其它组件，包括： Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype
-- 工具可自动识别不同的操作系统架构，自动下载适配版本的 Office。
-- 本工具激活 Office 的方式为正版激活模式，不会篡改任何系统文件。
-- 当系统中存在多个冗余 Office 版本时，本工具在用户同意的情况下，可实现自动升级。 
+![tiny-rdm](https://images-1252557999.file.myqcloud.com/uPic/tiny-rdm.png)
 
-### [listen1_desktop](https://github.com/listen1/listen1_desktop)
+同类型软件还推荐[AnotherRedisDesktopManager](https://weekly.howie6879.com/2022/04-25~05-01.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC037%E6%9C%9F%EF%BC%89.html#anotherredisdesktopmanager)。 
 
-Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单，支持音乐平台：
+### [azusa-player-mobile](https://github.com/lovegaoshi/azusa-player-mobile)
 
-- 网易云音乐
-- QQ 音乐
-- 酷狗音乐
-- 酷我音乐
-- bilibili
-- 咪咕音乐
-- 千千音乐
+一个 `Bilibili` 第三方音频播放器：
 
-![listen1_desktop](https://images-1252557999.file.myqcloud.com/uPic/listen1_desktop.png) 
+![azusa-player-mobile](https://images-1252557999.file.myqcloud.com/uPic/azusa-player-mobile.jpg) 
 
 ## 👀 资料 
 
-### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
+### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
 
-golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
+通过科学方法训练自己的身体，让自己更加健康：
 
-### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
+![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
 
-📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
+### [LLM 应用开发实践笔记](https://github.com/morsoli/llm-books)
 
-![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
+利用LLM构建应用实践笔记：
 
-### [Curosor 教程](https://www.lookai.top/cn/cursor/instruction/instruction)
+![llm-books](https://images-1252557999.file.myqcloud.com/uPic/llm-books.jpg) 
 
-零基础小白 `Cursor` 学习网站：
+### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
 
-![Curosor](https://images-1252557999.file.myqcloud.com/uPic/YIZShF.png) 
+该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
 
 ## 🕸 网站 
 
-### [favicon.io](https://favicon.io/)
+### [seekflag](https://seekflag.com/)
 
-免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
 
-![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
+![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
 
-### [firefly](https://firefly.adobe.com/)
+### [tgscan](https://tgscan.xyz/)
 
-`Adobe` 推出了的 `AI` 图像创建器 **Firefly**：
+免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
 
-![firefly](https://images-1252557999.file.myqcloud.com/uPic/firefly.jpg) 
+- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
+- 网页：[tgscan.xyz](https://tgscan.xyz/)
 
-### [0v0.ai](https://0v0.ai/rmbg/)
+![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
 
-图片背景移除网站：
+### [removebg.one](https://removebg.one/)
 
-![0v0](https://images-1252557999.file.myqcloud.com/uPic/0v0.jpg) 
+免费的图片背景去除网页工具：
+
+![removebg](https://images-1252557999.file.myqcloud.com/uPic/s6r4xu.png) 
 
 ## ✍️ 说明
 
