@@ -5,86 +5,107 @@
 
 ## 🎯 项目 
 
-### [weiboSpider](https://github.com/dataabc/weiboSpider)
+### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
 
-新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
+读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
 
-### [DataEase](https://github.com/dataease/dataease)
+![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
 
-DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
+### [GetQzonehistory](https://github.com/LibraHp/GetQzonehistory)
 
-### [wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook)
+通过模拟登录QQ空间来获取历史消息列表，然后进行数据分析。 
 
-一个支持消息收发的微信 `Webhook` 机器人🤖，但是要注意使用限制，不然可能被Ban，特性如下：
+### [coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy)
 
-- 推送消息 (发送文字 / 图片 / 文件)
-- 接收消息（文字 / 图片 / 语音 / 视频 / 文件 / 好友申请 / 公众号推文链接）
-- Docker 部署等
+代理 `Discord-Bot` 对话 `Coze-Bot`，实现 `API` 形式请求 `GPT4` 对话模型/微调模型：
 
-![wechatbot-webhook](https://images-1252557999.file.myqcloud.com/uPic/wechatbot-webhook.gif) 
+- 完美适配`NextChat`,`one-api`,`LobeChat`等对话面板。
+- 完美支持对话隔离。
+- 对话接口支持流式返回。
+- 支持创建 `discord`分类/频道/线程。
+- 支持和`openai`对齐的对话接口(`v1/chat/completions`)(也支持`dall-e-3`文生图)
+- 支持和`openai`对齐的图/文件生文接口(`v1/chat/completions`)(按照`GPT4V`图/文件生文接口的请求格式 \[ 支持`url`或`base64` \])。
+- 支持和`openai`对齐的`dall-e-3`文生图接口(`v1/images/generations`)。
+- 支持每日`24`点定时任务自动活跃机器人。
+- 支持配置多机器人 (通过`PROXY_SECRET`/`model`指定) 详细请看进阶配置。
+
+![coze-discord-proxy](https://images-1252557999.file.myqcloud.com/uPic/coze-discord-proxy.png) 
 
 ## 🤖 软件 
 
-### [seabird](https://github.com/getseabird/seabird)
+### [so-novel](https://github.com/freeok/so-novel)
 
-`Seabird` 是一个原生的跨平台 `Kubernetes` 桌面客户端，它可以非常容易地探索集群的资源：
+交互式小说下载器，Windows、macOS、Linux 解压即用，可根据书名、作者搜索并下载小说，支持导出格式：epub、txt、html（支持翻页），结合以下电子书阅读器使用更佳：
 
-![seabird](https://images-1252557999.file.myqcloud.com/uPic/seabird.png) 
+- 电脑：[koodo-reader](https://www.koodoreader.com/zh)
+- 手机：Apple Books
 
-### [tiny-rdm](https://github.com/tiny-craft/tiny-rdm)
+![so-novel](https://images-1252557999.file.myqcloud.com/uPic/h4xoJr.png) 
 
-`Tiny RDM` 是一款适用于 `Mac、 Windows & Linux` 的现代轻量级跨平台 `Redis` 桌面管理器：
+### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
 
-![tiny-rdm](https://images-1252557999.file.myqcloud.com/uPic/tiny-rdm.png)
+安全、快速与轻量的远程桌面&文件管理工具：
 
-同类型软件还推荐[AnotherRedisDesktopManager](https://weekly.howie6879.com/2022/04-25~05-01.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC037%E6%9C%9F%EF%BC%89.html#anotherredisdesktopmanager)。 
+![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
 
-### [azusa-player-mobile](https://github.com/lovegaoshi/azusa-player-mobile)
+### [ChatGPT](https://github.com/lencx/ChatGPT)
 
-一个 `Bilibili` 第三方音频播放器：
+基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
 
-![azusa-player-mobile](https://images-1252557999.file.myqcloud.com/uPic/azusa-player-mobile.jpg) 
+- 历史聊天记录导出(PNG, PDF & Share Link)
+- 快捷键&系统托盘
+- 集成 [chatgpt prompt](https://prompts.chat/)
+
+![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
+
+作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
 
 ## 👀 资料 
 
-### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
+### [ascoders/weekly](https://github.com/ascoders/weekly)
 
-通过科学方法训练自己的身体，让自己更加健康：
+前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
 
-![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
+- 前沿技术
+- 设计模式
+- 编译原理
+- 源码解读
+- 商业思考
+- 算法
 
-### [LLM 应用开发实践笔记](https://github.com/morsoli/llm-books)
+非常全面，前端从事人员可以看看。 
 
-利用LLM构建应用实践笔记：
+### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
 
-![llm-books](https://images-1252557999.file.myqcloud.com/uPic/llm-books.jpg) 
+经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
 
-### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
+![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
 
-该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
+### [FudanSELab/Agent4SE-Paper-List](https://github.com/FudanSELab/Agent4SE-Paper-List)
+
+该仓库由复旦大学软件工程实验室（FudanSELab）创建的，旨在为大型语言模型（LLMs）基础的软件工程代理（Agent）领域提供一个系统的文献综述：
+
+![Agent4SE-Paper-List](https://images-1252557999.file.myqcloud.com/uPic/uFo2bN.png) 
 
 ## 🕸 网站 
 
-### [seekflag](https://seekflag.com/)
+### [emojimix](https://tikolu.net/emojimix/)
 
-网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
+一个表情融合网站，图一个乐呵，效果如下：
 
-![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
+![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
 
-### [tgscan](https://tgscan.xyz/)
+### [mindmap-scanner](https://xmind.cn/mindmap-scanner/)
 
-免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
+用 `AI` 将思维导图图片转为可编辑的 `Xmind` 文件：
 
-- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
-- 网页：[tgscan.xyz](https://tgscan.xyz/)
+![mindmap-scanner](https://images-1252557999.file.myqcloud.com/uPic/mindmap-scanner.jpg) 
 
-![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
+### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
 
-### [removebg.one](https://removebg.one/)
+老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
 
-免费的图片背景去除网页工具：
-
-![removebg](https://images-1252557999.file.myqcloud.com/uPic/s6r4xu.png) 
+![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
 
 ## ✍️ 说明
 
