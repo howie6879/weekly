@@ -5,107 +5,129 @@
 
 ## 🎯 项目 
 
-### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
+### [ml4a](https://github.com/ml4a/ml4a)
 
-读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
+`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
 
-![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
+![ml4a](https://images-1252557999.file.myqcloud.com/uPic/ml4a.jpg) 
 
-### [GetQzonehistory](https://github.com/LibraHp/GetQzonehistory)
+### [llama3](https://github.com/meta-llama/llama3)
 
-通过模拟登录QQ空间来获取历史消息列表，然后进行数据分析。 
+Meta 正式发布开源大模型 `Llama 3` ，其提供两个版本：`8B` 版本适合在消费级 `GPU` 上高效部署和开发；`70B` 版本则专为大规模 `AI` 应用设计。每个版本都包括基础和指令调优两种形式。此外，基于 `Llama 3 8B` 微调后的 `Llama Guard` 新版本也已作为 `Llama Guard 2`（安全微调版本）发布：
 
-### [coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy)
+![hc_llama3](https://images-1252557999.file.myqcloud.com/uPic/hc_llama3.jpg)
 
-代理 `Discord-Bot` 对话 `Coze-Bot`，实现 `API` 形式请求 `GPT4` 对话模型/微调模型：
+你可以在 [Hugging Chat](https://huggingface.co/chat) 上面体验，其他相关优秀的衍生开源项目老胡顺便做了个整理：
 
-- 完美适配`NextChat`,`one-api`,`LobeChat`等对话面板。
-- 完美支持对话隔离。
-- 对话接口支持流式返回。
-- 支持创建 `discord`分类/频道/线程。
-- 支持和`openai`对齐的对话接口(`v1/chat/completions`)(也支持`dall-e-3`文生图)
-- 支持和`openai`对齐的图/文件生文接口(`v1/chat/completions`)(按照`GPT4V`图/文件生文接口的请求格式 \[ 支持`url`或`base64` \])。
-- 支持和`openai`对齐的`dall-e-3`文生图接口(`v1/images/generations`)。
-- 支持每日`24`点定时任务自动活跃机器人。
-- 支持配置多机器人 (通过`PROXY_SECRET`/`model`指定) 详细请看进阶配置。
+- [llama](https://github.com/meta-llama/llama)|[llama.cpp](https://github.com/ggerganov/llama.cpp)|[llamafile](https://github.com/Mozilla-Ocho/llamafile)|[codellama](https://github.com/meta-llama/codellama)|[llm-course](https://github.com/mlabonne/llm-course)
+- 问答系统：
+	- [FastGPT](https://github.com/labring/FastGPT)
+	- [anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+	- [MaxKB](https://github.com/1Panel-dev/MaxKB)
+	- [quivr](https://github.com/QuivrHQ/quivr)
+	- [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
+	- [QAnything](https://github.com/netease-youdao/QAnything)
+	- [private-gpt](https://github.com/zylon-ai/private-gpt)
+	- [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine)
+- WebUI：
+	- [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
+	- [lobe-chat](https://github.com/lobehub/lobe-chat)
+	- [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
+	- [open-webui](https://github.com/open-webui/open-webui)
+	- [chat-ollama](https://github.com/sugarforever/chat-ollama)
+	- [chat-ui](https://github.com/huggingface/chat-ui)
+	- [aichat](https://github.com/sigoden/aichat)
+	- [open-webui2](https://github.com/open-webui/open-webui)
+	- [LocalAI](https://github.com/mudler/LocalAI)
+- APP：[LM Studio](https://lmstudio.ai/)|[jan](https://github.com/janhq/jan)||[ollama](https://github.com/ollama/ollama)|[chatbox](https://github.com/Bin-Huang/chatbox)
+- 应用开发：
+	- [langchain](https://github.com/langchain-ai/langchain)：为AI开发者提供工具，将语言模型与外部数据源连接起来，辅助构建 AI 应用程序
+	- [MetaGPT](https://github.com/geekan/MetaGPT)：Multi-Agent 框架
+	- [Dify](https://docs.dify.ai/)：开源的大语言模型(LLM) 应用开发平台
+	- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)：让大模型微调更简单
+	- [Flowise](https://github.com/FlowiseAI/Flowise)：轻松构建 LLM 应用程序
+	- [llm-app](https://github.com/pathwaycom/llm-app)：30 行代码构建你的 LLM 应用程序
+- [LLM Leaderboard](https://www.vellum.ai/llm-leaderboard)：各大主流 LLMs 评比 
 
-![coze-discord-proxy](https://images-1252557999.file.myqcloud.com/uPic/coze-discord-proxy.png) 
+### [oh-my-wechat](https://github.com/chclt/oh-my-wechat/)
+
+开源项目，微信消息备份与年度数据报告：
+
+![oh-my-wechat](https://images-1252557999.file.myqcloud.com/uPic/JXAGlQ.png) 
 
 ## 🤖 软件 
 
-### [so-novel](https://github.com/freeok/so-novel)
+### [Thor](https://github.com/gbammc/Thor)
 
-交互式小说下载器，Windows、macOS、Linux 解压即用，可根据书名、作者搜索并下载小说，支持导出格式：epub、txt、html（支持翻页），结合以下电子书阅读器使用更佳：
+通过快捷键快速打开应用：
 
-- 电脑：[koodo-reader](https://www.koodoreader.com/zh)
-- 手机：Apple Books
+![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
 
-![so-novel](https://images-1252557999.file.myqcloud.com/uPic/h4xoJr.png) 
+### [ani](https://github.com/open-ani/ani)
 
-### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
+集找番、追番、看番的一站式弹幕追番平台：
 
-安全、快速与轻量的远程桌面&文件管理工具：
+![ani](https://images-1252557999.file.myqcloud.com/uPic/Ff1VoV.png) 
 
-![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
+### [GestureSign](https://github.com/TransposonY/GestureSign)
 
-### [ChatGPT](https://github.com/lencx/ChatGPT)
+开源免费的 `Windows` 全局手势控制辅助增强软件神器:
 
-基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
+- 支持 `Windows 11、Win10 / 8` 等系统
+- 支持鼠标手势、触控板等手势操作
+- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
 
-- 历史聊天记录导出(PNG, PDF & Share Link)
-- 快捷键&系统托盘
-- 集成 [chatgpt prompt](https://prompts.chat/)
-
-![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
-
-作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
+![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
 
 ## 👀 资料 
 
-### [ascoders/weekly](https://github.com/ascoders/weekly)
+### [WangRongsheng](https://github.com/WangRongsheng/awesome-LLM-resourses)
 
-前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
+一个全面的 LLM 资源汇总，旨在提供数据处理、微调、推理、评估、体验、知识库、智能体、搜索、书籍、课程、教程和论文等方面的工具和文档。 
 
-- 前沿技术
-- 设计模式
-- 编译原理
-- 源码解读
-- 商业思考
-- 算法
+### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
 
-非常全面，前端从事人员可以看看。 
+自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
 
-### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
 
-经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
 
-![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
+更新记录如下：
 
-### [FudanSELab/Agent4SE-Paper-List](https://github.com/FudanSELab/Agent4SE-Paper-List)
+- 2020-11-03：环境搭建完成，开始着手编写文档。
+- 2020-11-13：第一章完成。
+- 2020-11-27：第二章完成。
+- 2020-12-20：前七章代码完成。
+- 2021-01-10：第三章完成。
+- 2021-01-18：加入第零章。
+- 2021-01-30：第四章完成。
+- 2021-02-16：第五章完成。
+- 2021-02-20：第六章完成。
+- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
+- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
 
-该仓库由复旦大学软件工程实验室（FudanSELab）创建的，旨在为大型语言模型（LLMs）基础的软件工程代理（Agent）领域提供一个系统的文献综述：
-
-![Agent4SE-Paper-List](https://images-1252557999.file.myqcloud.com/uPic/uFo2bN.png) 
+热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
 
 ## 🕸 网站 
 
-### [emojimix](https://tikolu.net/emojimix/)
+### [ifixit](https://zh.ifixit.com/)
 
-一个表情融合网站，图一个乐呵，效果如下：
+一个免费教授人们如何修理任何物品的网站：
 
-![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
+![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
 
-### [mindmap-scanner](https://xmind.cn/mindmap-scanner/)
+### [tianya.at](https://tianya.at/)
 
-用 `AI` 将思维导图图片转为可编辑的 `Xmind` 文件：
+天涯帖子备份网站：
 
-![mindmap-scanner](https://images-1252557999.file.myqcloud.com/uPic/mindmap-scanner.jpg) 
+![tianya](https://images-1252557999.file.myqcloud.com/uPic/y1oe44.png) 
 
-### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
+### [llmresourceshub](https://llmresourceshub.vercel.app/)
 
-老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
+一站式 LLM 资源合集：
 
-![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
+![llmresourceshub](https://images-1252557999.file.myqcloud.com/uPic/eSgtB8.png) 
 
 ## ✍️ 说明
 
