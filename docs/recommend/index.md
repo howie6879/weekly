@@ -5,129 +5,93 @@
 
 ## 🎯 项目 
 
-### [ml4a](https://github.com/ml4a/ml4a)
+### [DweebUI](https://github.com/lllllllillllllillll/DweebUI)
 
-`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
+用于管理容器的免费开源 `WebUI`，颜值不错，但是功能还不大够，值得期待：
 
-![ml4a](https://images-1252557999.file.myqcloud.com/uPic/ml4a.jpg) 
+![DweebUI](https://images-1252557999.file.myqcloud.com/uPic/DweebUI.png) 
 
-### [llama3](https://github.com/meta-llama/llama3)
+### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
 
-Meta 正式发布开源大模型 `Llama 3` ，其提供两个版本：`8B` 版本适合在消费级 `GPU` 上高效部署和开发；`70B` 版本则专为大规模 `AI` 应用设计。每个版本都包括基础和指令调优两种形式。此外，基于 `Llama 3 8B` 微调后的 `Llama Guard` 新版本也已作为 `Llama Guard 2`（安全微调版本）发布：
+`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
 
-![hc_llama3](https://images-1252557999.file.myqcloud.com/uPic/hc_llama3.jpg)
+![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
 
-你可以在 [Hugging Chat](https://huggingface.co/chat) 上面体验，其他相关优秀的衍生开源项目老胡顺便做了个整理：
+### [rssbot](https://github.com/iovxw/rssbot)
 
-- [llama](https://github.com/meta-llama/llama)|[llama.cpp](https://github.com/ggerganov/llama.cpp)|[llamafile](https://github.com/Mozilla-Ocho/llamafile)|[codellama](https://github.com/meta-llama/codellama)|[llm-course](https://github.com/mlabonne/llm-course)
-- 问答系统：
-	- [FastGPT](https://github.com/labring/FastGPT)
-	- [anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-	- [MaxKB](https://github.com/1Panel-dev/MaxKB)
-	- [quivr](https://github.com/QuivrHQ/quivr)
-	- [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
-	- [QAnything](https://github.com/netease-youdao/QAnything)
-	- [private-gpt](https://github.com/zylon-ai/private-gpt)
-	- [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine)
-- WebUI：
-	- [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
-	- [lobe-chat](https://github.com/lobehub/lobe-chat)
-	- [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
-	- [open-webui](https://github.com/open-webui/open-webui)
-	- [chat-ollama](https://github.com/sugarforever/chat-ollama)
-	- [chat-ui](https://github.com/huggingface/chat-ui)
-	- [aichat](https://github.com/sigoden/aichat)
-	- [open-webui2](https://github.com/open-webui/open-webui)
-	- [LocalAI](https://github.com/mudler/LocalAI)
-- APP：[LM Studio](https://lmstudio.ai/)|[jan](https://github.com/janhq/jan)||[ollama](https://github.com/ollama/ollama)|[chatbox](https://github.com/Bin-Huang/chatbox)
-- 应用开发：
-	- [langchain](https://github.com/langchain-ai/langchain)：为AI开发者提供工具，将语言模型与外部数据源连接起来，辅助构建 AI 应用程序
-	- [MetaGPT](https://github.com/geekan/MetaGPT)：Multi-Agent 框架
-	- [Dify](https://docs.dify.ai/)：开源的大语言模型(LLM) 应用开发平台
-	- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)：让大模型微调更简单
-	- [Flowise](https://github.com/FlowiseAI/Flowise)：轻松构建 LLM 应用程序
-	- [llm-app](https://github.com/pathwaycom/llm-app)：30 行代码构建你的 LLM 应用程序
-- [LLM Leaderboard](https://www.vellum.ai/llm-leaderboard)：各大主流 LLMs 评比 
-
-### [oh-my-wechat](https://github.com/chclt/oh-my-wechat/)
-
-开源项目，微信消息备份与年度数据报告：
-
-![oh-my-wechat](https://images-1252557999.file.myqcloud.com/uPic/JXAGlQ.png) 
+用于消息通知的轻量级 `Telegram RSS` 机器人。 
 
 ## 🤖 软件 
 
-### [Thor](https://github.com/gbammc/Thor)
+### [koodo-reader](https://github.com/troyeguo/koodo-reader)
 
-通过快捷键快速打开应用：
+一个跨平台的电子书阅读器：
 
-![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
+- 支持多达 15 种主流电子书格
+- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
+- 备份数据到  **Dropbox**  和  **Webdav**
+- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
+- 双页模式，单页模式，滚动模式
+- 听书功能，翻译功能，触控屏支持，批量导入图书
+- 支持目录，书签，笔记，高亮，书架，标签
+- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
+- 黑夜模式和主题色设置
 
-### [ani](https://github.com/open-ani/ani)
+![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
 
-集找番、追番、看番的一站式弹幕追番平台：
+### [VPet](https://github.com/LorisYounger/VPet)
 
-![ani](https://images-1252557999.file.myqcloud.com/uPic/Ff1VoV.png) 
+虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何 `WPF` 应用程序，支持各种互动投喂等. 开源免费并且支持创意工坊：
 
-### [GestureSign](https://github.com/TransposonY/GestureSign)
+![VPet](https://images-1252557999.file.myqcloud.com/uPic/VPet.jpg) 
 
-开源免费的 `Windows` 全局手势控制辅助增强软件神器:
+### [HandBrake](https://github.com/HandBrake/HandBrake)
 
-- 支持 `Windows 11、Win10 / 8` 等系统
-- 支持鼠标手势、触控板等手势操作
-- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
+`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
 
-![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
+![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
 
 ## 👀 资料 
 
-### [WangRongsheng](https://github.com/WangRongsheng/awesome-LLM-resourses)
+### [LLMs-In-China](https://github.com/wgwang/LLMs-In-China)
 
-一个全面的 LLM 资源汇总，旨在提供数据处理、微调、推理、评估、体验、知识库、智能体、搜索、书籍、课程、教程和论文等方面的工具和文档。 
+记录中国大模型发展情况，同时持续深度分析开源开放的大模型以及数据集的情况，目前记录了国内188个大模型：
 
-### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
+![LLMs-In-China](https://images-1252557999.file.myqcloud.com/uPic/LLMs-In-China.png) 
 
-自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
+### [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book)
 
-### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
+`PeiQi` 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，`CTF` 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见。
 
-清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
+![PeiQi-WIKI-Book](https://images-1252557999.file.myqcloud.com/uPic/PeiQi-WIKI-Book.png) 
 
-更新记录如下：
+### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
 
-- 2020-11-03：环境搭建完成，开始着手编写文档。
-- 2020-11-13：第一章完成。
-- 2020-11-27：第二章完成。
-- 2020-12-20：前七章代码完成。
-- 2021-01-10：第三章完成。
-- 2021-01-18：加入第零章。
-- 2021-01-30：第四章完成。
-- 2021-02-16：第五章完成。
-- 2021-02-20：第六章完成。
-- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
-- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
+[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
 
-热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
+![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
 
 ## 🕸 网站 
 
-### [ifixit](https://zh.ifixit.com/)
+### [web.archive.org](https://web.archive.org/)
 
-一个免费教授人们如何修理任何物品的网站：
+一个旨在保存互联网历史记录的平台：
 
-![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
+![web.archive.org](https://images-1252557999.file.myqcloud.com/uPic/SCps8d.png) 
 
-### [tianya.at](https://tianya.at/)
+### [segment-anything.com](https://segment-anything.com/)
 
-天涯帖子备份网站：
+`Segment Anything Model（SAM）`：这是 `Meta AI` 推出的一款新的`AI` 模型，它可以通过单击轻松**抠出**任何图像中的任何物体。
 
-![tianya](https://images-1252557999.file.myqcloud.com/uPic/y1oe44.png) 
+也就是说，这个模型可以用一次点击的方式，将任何图片中的任何物体分割出来。
 
-### [llmresourceshub](https://llmresourceshub.vercel.app/)
+![segment-anything](https://images-1252557999.file.myqcloud.com/uPic/segment-anything.jpg) 
 
-一站式 LLM 资源合集：
+### [必应壁纸](https://bing.ioliu.cn/)
 
-![llmresourceshub](https://images-1252557999.file.myqcloud.com/uPic/eSgtB8.png) 
+收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
+
+![bing](https://images-1252557999.file.myqcloud.com/uPic/bing.jpg) 
 
 ## ✍️ 说明
 
