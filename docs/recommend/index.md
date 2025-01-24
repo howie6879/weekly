@@ -5,93 +5,98 @@
 
 ## 🎯 项目 
 
-### [DweebUI](https://github.com/lllllllillllllillll/DweebUI)
+### [open-webui](https://github.com/open-webui/open-webui)
 
-用于管理容器的免费开源 `WebUI`，颜值不错，但是功能还不大够，值得期待：
+将 `LLMs` 操作搬到了 `Web`，用户操作界面相当友好，值得体验，API兼容包括Ollama和OpenAI的API。
 
-![DweebUI](https://images-1252557999.file.myqcloud.com/uPic/DweebUI.png) 
+![openwebui](https://images-1252557999.file.myqcloud.com/uPic/openwebui.jpg) 
 
-### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
+### [onelist](https://github.com/msterzhang/onelist)
 
-`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
+一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序:
 
-![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
+- alist挂载云盘后能在网页端看视频，却没有分类，没有海报墙
+- 使用webdav挂载本地后，用jellyfin或者emby刮削会下载视频截取封面导致封号
+- 用jellyfin或者emby之类，没有大带宽公网ip，在外难以访问
 
-### [rssbot](https://github.com/iovxw/rssbot)
+![onelist](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-4-5997957576333046318-y.jpg) 
 
-用于消息通知的轻量级 `Telegram RSS` 机器人。 
+### [bore](https://github.com/ekzhang/bore)
+
+`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
+
+![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
 
 ## 🤖 软件 
 
-### [koodo-reader](https://github.com/troyeguo/koodo-reader)
+### [avnc](https://github.com/gujjwal00/avnc)
 
-一个跨平台的电子书阅读器：
+针对 `Android` 的开源 `VNC` 客户端：
 
-- 支持多达 15 种主流电子书格
-- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
-- 备份数据到  **Dropbox**  和  **Webdav**
-- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
-- 双页模式，单页模式，滚动模式
-- 听书功能，翻译功能，触控屏支持，批量导入图书
-- 支持目录，书签，笔记，高亮，书架，标签
-- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
-- 黑夜模式和主题色设置
+![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
 
-![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
+### [icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
 
-### [VPet](https://github.com/LorisYounger/VPet)
+一个命令行工具，用于从 `iCloud` 下载照片，支持 `Linux、Windows & macOS` 系统。 
 
-虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何 `WPF` 应用程序，支持各种互动投喂等. 开源免费并且支持创意工坊：
+### [milky-warp](https://github.com/hugoattal/milky-warp)
 
-![VPet](https://images-1252557999.file.myqcloud.com/uPic/VPet.jpg) 
+`Milky Warp` 是一个开源工具，技术栈是 `Tauri、Vite、Vue、Typescript`，核心功能就是按下快捷键时会显示一个放大镜：
 
-### [HandBrake](https://github.com/HandBrake/HandBrake)
+- 按下可配置的快捷键时显示放大镜
+- 支持使用鼠标滚轮进行放大和缩小
+- 跨平台：可在Windows、macOS和Linux上运行
 
-`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
-
-![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
+![milky-warp](https://images-1252557999.file.myqcloud.com/uPic/milky-warp.gif) 
 
 ## 👀 资料 
 
-### [LLMs-In-China](https://github.com/wgwang/LLMs-In-China)
+### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
 
-记录中国大模型发展情况，同时持续深度分析开源开放的大模型以及数据集的情况，目前记录了国内188个大模型：
+这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
 
-![LLMs-In-China](https://images-1252557999.file.myqcloud.com/uPic/LLMs-In-China.png) 
+- 👋 入门
+- 💬 大语言模型
+	- 💡 提示工程
+	- 🔧 大语言模型实践
+	- 🔬 大语言模型理论
+- 🎨 AI绘画
+- 🔊 AI音频
+- 🌈 多模态
+- 🧠 深度学习
+- 💻 AI系统 
 
-### [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book)
+### [paper-reading](https://github.com/mli/paper-reading)
 
-`PeiQi` 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，`CTF` 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见。
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-![PeiQi-WIKI-Book](https://images-1252557999.file.myqcloud.com/uPic/PeiQi-WIKI-Book.png) 
+![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
 
-### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
+### [云安全攻防入门](https://lzcloudsecurity.gitbook.io/yun-an-quan-gong-fang-ru-men/)
 
-[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
+关于云安全攻防的基础知识：
 
-![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
+![yun-an-quan-gong-fang-ru-men](https://images-1252557999.file.myqcloud.com/uPic/yun-an-quan-gong-fang-ru-men.jpg) 
 
 ## 🕸 网站 
 
-### [web.archive.org](https://web.archive.org/)
+### [cobalt](https://cobalt.tools/)
 
-一个旨在保存互联网历史记录的平台：
+一个专注于隐私保护和用户自由的[开源](https://github.com/imputnet/cobalt)在线工具，它允许用户从各种网站上保存视频、音频、图片或 GIF，同时提供匿名请求和加密隧道技术，确保用户的隐私安全。
 
-![web.archive.org](https://images-1252557999.file.myqcloud.com/uPic/SCps8d.png) 
+![cobalt](https://images-1252557999.file.myqcloud.com/uPic/ZwEgp6.png) 
 
-### [segment-anything.com](https://segment-anything.com/)
+### [gemini-pro.chat](https://gemini-pro.chat/) 
 
-`Segment Anything Model（SAM）`：这是 `Meta AI` 推出的一款新的`AI` 模型，它可以通过单击轻松**抠出**任何图像中的任何物体。
+免费的谷歌 `Gemini Chat Pro`，在线网站：
 
-也就是说，这个模型可以用一次点击的方式，将任何图片中的任何物体分割出来。
+![gemini-pro.chat](https://images-1252557999.file.myqcloud.com/uPic/gemini-pro.chat.jpg) 
 
-![segment-anything](https://images-1252557999.file.myqcloud.com/uPic/segment-anything.jpg) 
+### [devpedia.pages.dev](https://devpedia.pages.dev/)
 
-### [必应壁纸](https://bing.ioliu.cn/)
+`Dev Encyclopedia` 是一个为开发者提供广泛技术术语、概念和工具解释的在线百科全书：
 
-收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
-
-![bing](https://images-1252557999.file.myqcloud.com/uPic/bing.jpg) 
+![devpedia](https://images-1252557999.file.myqcloud.com/uPic/L7S0qZ.png) 
 
 ## ✍️ 说明
 
