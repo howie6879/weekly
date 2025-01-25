@@ -5,98 +5,94 @@
 
 ## 🎯 项目 
 
+### [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)
+
+一键免费部署你的私人 AutoGPT-Next-Web 网页应用:
+
+![AutoGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png) 
+
+### [ChatGPT-On-CS](https://github.com/lrhh123/ChatGPT-On-CS)
+
+基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用：
+
+![ChatGPT-On-CS](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-On-CS.jpg) 
+
 ### [open-webui](https://github.com/open-webui/open-webui)
 
 将 `LLMs` 操作搬到了 `Web`，用户操作界面相当友好，值得体验，API兼容包括Ollama和OpenAI的API。
 
 ![openwebui](https://images-1252557999.file.myqcloud.com/uPic/openwebui.jpg) 
 
-### [onelist](https://github.com/msterzhang/onelist)
-
-一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序:
-
-- alist挂载云盘后能在网页端看视频，却没有分类，没有海报墙
-- 使用webdav挂载本地后，用jellyfin或者emby刮削会下载视频截取封面导致封号
-- 用jellyfin或者emby之类，没有大带宽公网ip，在外难以访问
-
-![onelist](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-4-5997957576333046318-y.jpg) 
-
-### [bore](https://github.com/ekzhang/bore)
-
-`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
-
-![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
-
 ## 🤖 软件 
 
-### [avnc](https://github.com/gujjwal00/avnc)
+### [GitUp](https://github.com/git-up/GitUp)
 
-针对 `Android` 的开源 `VNC` 客户端：
+简洁的 `Git` 客户端：
 
-![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/GitUp.jpg) 
 
-### [icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
+### [DBeaver](https://github.com/dbeaver/dbeaver)
 
-一个命令行工具，用于从 `iCloud` 下载照片，支持 `Linux、Windows & macOS` 系统。 
+免费的通用数据库管理工具，SQL客户端，跨平台支持：
 
-### [milky-warp](https://github.com/hugoattal/milky-warp)
+![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png) 
 
-`Milky Warp` 是一个开源工具，技术栈是 `Tauri、Vite、Vue、Typescript`，核心功能就是按下快捷键时会显示一个放大镜：
+### [cicada](https://github.com/mebtte/cicada)
 
-- 按下可配置的快捷键时显示放大镜
-- 支持使用鼠标滚轮进行放大和缩小
-- 跨平台：可在Windows、macOS和Linux上运行
+知了, 支持多用户的开源音乐服务：
 
-![milky-warp](https://images-1252557999.file.myqcloud.com/uPic/milky-warp.gif) 
+- **尊重隐私, 不进行任何数据收集**
+- 支持多用户
+- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
+- 系统媒体和快捷键支持
+- 音乐支持标准音质/超高音质/伴奏以及多份歌词
+- 乐单/播放列表/播放队列音乐数量无限制
+- 支持标注音乐创作来源(翻唱)
+- 支持歌词/歌名/歌手/乐单搜索
+
+![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
 
 ## 👀 资料 
 
-### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
+### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
 
-这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
+经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
 
-- 👋 入门
-- 💬 大语言模型
-	- 💡 提示工程
-	- 🔧 大语言模型实践
-	- 🔬 大语言模型理论
-- 🎨 AI绘画
-- 🔊 AI音频
-- 🌈 多模态
-- 🧠 深度学习
-- 💻 AI系统 
+![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
 
-### [paper-reading](https://github.com/mli/paper-reading)
+### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+这个项目收集了黑五打折的App和课程：
 
-![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
+![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
 
-### [云安全攻防入门](https://lzcloudsecurity.gitbook.io/yun-an-quan-gong-fang-ru-men/)
+### [k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)
 
-关于云安全攻防的基础知识：
+基于 `Kubernetes(K8S)` 一步步部署成 `PaaS/DevOps`（一套完整的软件研发和部署平台）——教程/学习（实战代码/欢迎讨论/大量注释/操作配图），你将习得部署如：`Kubernetes(K8S)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker` 等：
 
-![yun-an-quan-gong-fang-ru-men](https://images-1252557999.file.myqcloud.com/uPic/yun-an-quan-gong-fang-ru-men.jpg) 
+![k8s_PaaS](https://images-1252557999.file.myqcloud.com/uPic/k8s_PaaS.png) 
 
 ## 🕸 网站 
 
-### [cobalt](https://cobalt.tools/)
+### [free-font](https://free-font.vercel.app/)
 
-一个专注于隐私保护和用户自由的[开源](https://github.com/imputnet/cobalt)在线工具，它允许用户从各种网站上保存视频、音频、图片或 GIF，同时提供匿名请求和加密隧道技术，确保用户的隐私安全。
+收录商用免费汉字字体，还包括开源英文字体 `Free Font`:
 
-![cobalt](https://images-1252557999.file.myqcloud.com/uPic/ZwEgp6.png) 
+![free-font](https://images-1252557999.file.myqcloud.com/uPic/free-font.png)
 
-### [gemini-pro.chat](https://gemini-pro.chat/) 
+项目开源在 [github](https://github.com/jaywcjlove/free-font)。 
 
-免费的谷歌 `Gemini Chat Pro`，在线网站：
+### [flow](https://github.com/pacexy/flow)
 
-![gemini-pro.chat](https://images-1252557999.file.myqcloud.com/uPic/gemini-pro.chat.jpg) 
+开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
 
-### [devpedia.pages.dev](https://devpedia.pages.dev/)
+![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
 
-`Dev Encyclopedia` 是一个为开发者提供广泛技术术语、概念和工具解释的在线百科全书：
+### [gh-card.dev](https://gh-card.dev/)
 
-![devpedia](https://images-1252557999.file.myqcloud.com/uPic/L7S0qZ.png) 
+免费为你的 `Github` 开源项目生成卡片的网站：
+
+![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
 
 ## ✍️ 说明
 
