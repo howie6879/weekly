@@ -5,94 +5,85 @@
 
 ## 🎯 项目 
 
-### [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)
+### [easy-gate](https://github.com/r7wx/easy-gate)
 
-一键免费部署你的私人 AutoGPT-Next-Web 网页应用:
+`Easy Gate` 是一个使用 `Go` 和 `React` 构建的简单 `Web` 应用程序，它充当您自托管基础设施的主页。服务和注释从 `JSON` 文件中实时解析（无需重新启动应用程序）。可以将服务和注释分配给一个或多个组，以仅向特定用户显示项目（基于他们的 IP 地址）。
 
-![AutoGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png) 
+![easy-gate](https://images-1252557999.file.myqcloud.com/uPic/easy-gate.png) 
 
-### [ChatGPT-On-CS](https://github.com/lrhh123/ChatGPT-On-CS)
+### [signoz](https://github.com/signoz/signoz)
 
-基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用：
+`SigNoz` 是一套开源 `APM` 方案，用于监控应用指标和链路，可以看到调用情况、异常、trace上下链路，也可以自己定义 `Dashboard`：
 
-![ChatGPT-On-CS](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-On-CS.jpg) 
+![signoz](https://images-1252557999.file.myqcloud.com/uPic/signoz.jpg) 
 
-### [open-webui](https://github.com/open-webui/open-webui)
+### [wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter)
 
-将 `LLMs` 操作搬到了 `Web`，用户操作界面相当友好，值得体验，API兼容包括Ollama和OpenAI的API。
-
-![openwebui](https://images-1252557999.file.myqcloud.com/uPic/openwebui.jpg) 
+在线批量导出微信公众号文章，支持阅读量、评论数据的导出，支持内嵌的音视频导出，无需搭建任何环境，可100%还原文章样式，支持私有部署。 
 
 ## 🤖 软件 
 
-### [GitUp](https://github.com/git-up/GitUp)
+### [NetNewsWire](https://netnewswire.com/)
 
-简洁的 `Git` 客户端：
+适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/GitUp.jpg) 
+- 支持 Safari 扩展
+- 订阅源下载
+- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
+- 主题设置
+- 多窗口支持
 
-### [DBeaver](https://github.com/dbeaver/dbeaver)
+![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
 
-免费的通用数据库管理工具，SQL客户端，跨平台支持：
+### [bloop](https://github.com/BloopAI/bloop)
 
-![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png) 
+`bloop` 是一个用 Rust 编写的快速代码搜索引擎，内部集成 `LLM` 大模型，可以快速让你导入一个代码仓库以自然语言形式进行问答，想快速上手一个项目或者文档不怎么够的项目，力荐👀：
 
-### [cicada](https://github.com/mebtte/cicada)
+![bloop](https://images-1252557999.file.myqcloud.com/uPic/bloop.jpg) 
 
-知了, 支持多用户的开源音乐服务：
+### [CatchMouse](https://github.com/round/CatchMouse)
 
-- **尊重隐私, 不进行任何数据收集**
-- 支持多用户
-- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
-- 系统媒体和快捷键支持
-- 音乐支持标准音质/超高音质/伴奏以及多份歌词
-- 乐单/播放列表/播放队列音乐数量无限制
-- 支持标注音乐创作来源(翻唱)
-- 支持歌词/歌名/歌手/乐单搜索
-
-![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
+如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
 
 ## 👀 资料 
 
-### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
-经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
 
-![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
+### [PDF Explained](https://github.com/zxyle/PDF-Explained)
 
-### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
+ `PDF` 无处不在，无论是在线形式还是印刷形式，但很少有人利用这些有用的功能或掌握这种格式的细微差别。 这本简明的书籍为程序员，高级用户提供了世界领先的页面描述语言(pdf)的动手实践。以及搜索，电子出版和印刷行业的专业人士， 有大量示例，本书是你完全理解PDF所需的文档。
+ 
+ ![PDF-Explained](https://images-1252557999.file.myqcloud.com/uPic/PDF-Explained.jpg) 
 
-这个项目收集了黑五打折的App和课程：
+### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
 
-![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
+中国5级行政区域mysql库：
 
-### [k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)
-
-基于 `Kubernetes(K8S)` 一步步部署成 `PaaS/DevOps`（一套完整的软件研发和部署平台）——教程/学习（实战代码/欢迎讨论/大量注释/操作配图），你将习得部署如：`Kubernetes(K8S)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker` 等：
-
-![k8s_PaaS](https://images-1252557999.file.myqcloud.com/uPic/k8s_PaaS.png) 
+- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
+- 港澳地区的数据只有3级;台湾地区4级
+- 包含大陆地区的邮政编码和经纬度信息 
 
 ## 🕸 网站 
 
-### [free-font](https://free-font.vercel.app/)
+### [pixel-me](https://pixel-me.tokyo/en/)
 
-收录商用免费汉字字体，还包括开源英文字体 `Free Font`:
+将你的头像像素化，质量挺好：
 
-![free-font](https://images-1252557999.file.myqcloud.com/uPic/free-font.png)
+![](https://images-1252557999.file.myqcloud.com/uPic/gnHdoM.png) 
 
-项目开源在 [github](https://github.com/jaywcjlove/free-font)。 
+### [读者阁](https://duzhege.cn/)
 
-### [flow](https://github.com/pacexy/flow)
+可以在线阅读故事会、读者等杂志的网站：
 
-开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
+![duzhege](https://images-1252557999.file.myqcloud.com/uPic/duzhege.jpg) 
 
-![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
+### [icon.kitchen](https://icon.kitchen/)
 
-### [gh-card.dev](https://gh-card.dev/)
+一次性生成 `Android、IOS、WEB` 三端 `icon` 图标，可直接预览，效果非常好：
 
-免费为你的 `Github` 开源项目生成卡片的网站：
-
-![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
+![icon_kitchen](https://images-1252557999.file.myqcloud.com/uPic/icon_kitchen.jpg) 
 
 ## ✍️ 说明
 
