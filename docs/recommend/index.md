@@ -5,85 +5,115 @@
 
 ## 🎯 项目 
 
-### [easy-gate](https://github.com/r7wx/easy-gate)
+### [Message-Push-Nest](https://github.com/engigu/Message-Push-Nest)
 
-`Easy Gate` 是一个使用 `Go` 和 `React` 构建的简单 `Web` 应用程序，它充当您自托管基础设施的主页。服务和注释从 `JSON` 文件中实时解析（无需重新启动应用程序）。可以将服务和注释分配给一个或多个组，以仅向特定用户显示项目（基于他们的 IP 地址）。
+打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义 `webhook` 等多种通知方式。定制你的消息，让通知方式更灵活多样。
 
-![easy-gate](https://images-1252557999.file.myqcloud.com/uPic/easy-gate.png) 
 
-### [signoz](https://github.com/signoz/signoz)
+![Message-Push-Nest](https://images-1252557999.file.myqcloud.com/uPic/Message-Push-Nest.jpg) 
 
-`SigNoz` 是一套开源 `APM` 方案，用于监控应用指标和链路，可以看到调用情况、异常、trace上下链路，也可以自己定义 `Dashboard`：
+### [TheTNB_panel](https://github.com/TheTNB/panel)
 
-![signoz](https://images-1252557999.file.myqcloud.com/uPic/signoz.jpg) 
+耗子面板是使用 `Golang + Vue` 开发的开源轻量 Linux 服务器运维管理面板:
 
-### [wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter)
+- 极低占用: 在 Debian 12 下部署面板 + LNMP 环境，内存占用不到 500 MB，遥遥领先于使用容器化的其他面板。
+- 低破坏性: 面板的设计理念是尽可能减少对系统的额外修改，在同类面板中，我们对系统的修改最少。
+- 追随时代: 面板所有组件均走在时代前沿，更新快，功能强大，安全性有保障。
+- 高效运维: 面板 UI 界面简洁，操作简单，无需繁琐的配置，即可快速部署各类环境、调整应用设置。
+- 离线运行: 面板运行可不依赖任何外部服务，你甚至可以在部署完成后停止面板进程，不会对已部署服务造成任何影响。
+- 久经考验: 我们生产环境自 2022 年即开始使用，已稳定运行 1 年以上无事故。
+- 开源开放: 面板开源，你可以自由修改、审计面板源码，安全性有保障。
 
-在线批量导出微信公众号文章，支持阅读量、评论数据的导出，支持内嵌的音视频导出，无需搭建任何环境，可100%还原文章样式，支持私有部署。 
+![panel](https://images-1252557999.file.myqcloud.com/uPic/panel.png) 
+
+### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
+
+`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
+
+一个获取百度网盘分享链接下载地址的工具：
+
+![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
 
 ## 🤖 软件 
 
-### [NetNewsWire](https://netnewswire.com/)
+### [dockit](https://github.com/geek-fun/dockit)
 
-适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
+一个跨平台的图形用户界面客户端，支持 `Elasticsearch` 和 `Opensearch` 数据库管理。
 
-- 支持 Safari 扩展
-- 订阅源下载
-- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
-- 主题设置
-- 多窗口支持
+![dockit](https://images-1252557999.file.myqcloud.com/uPic/apAgUR.png) 
 
-![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
+### [ruzz](https://github.com/vlts1/ruzz)
 
-### [bloop](https://github.com/BloopAI/bloop)
+`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
 
-`bloop` 是一个用 Rust 编写的快速代码搜索引擎，内部集成 `LLM` 大模型，可以快速让你导入一个代码仓库以自然语言形式进行问答，想快速上手一个项目或者文档不怎么够的项目，力荐👀：
+![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
 
-![bloop](https://images-1252557999.file.myqcloud.com/uPic/bloop.jpg) 
+### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
 
-### [CatchMouse](https://github.com/round/CatchMouse)
+`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
 
-如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
+![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
 
 ## 👀 资料 
 
-### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+### [GoGuide](https://github.com/coderit666/GoGuide)
 
-本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
+`Go Guide` 致力于打造最易懂的 `Go` 语言教程：
 
-### [PDF Explained](https://github.com/zxyle/PDF-Explained)
+![GoGuide](https://images-1252557999.file.myqcloud.com/uPic/GoGuide.png) 
 
- `PDF` 无处不在，无论是在线形式还是印刷形式，但很少有人利用这些有用的功能或掌握这种格式的细微差别。 这本简明的书籍为程序员，高级用户提供了世界领先的页面描述语言(pdf)的动手实践。以及搜索，电子出版和印刷行业的专业人士， 有大量示例，本书是你完全理解PDF所需的文档。
- 
- ![PDF-Explained](https://images-1252557999.file.myqcloud.com/uPic/PDF-Explained.jpg) 
+### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 
-### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
+本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
 
-中国5级行政区域mysql库：
+基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
+配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
+测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
 
-- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
-- 港澳地区的数据只有3级;台湾地区4级
-- 包含大陆地区的邮政编码和经纬度信息 
+![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
+
+### [凤凰架构](https://github.com/fenixsoft/awesome-fenix)
+
+这是一部以“**如何构建一套可靠的分布式大型软件系统**”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《[什么是凤凰架构](https://icyfenix.cn/introduction/about-the-fenix-project.html)》详细阐述了这部文档的主旨、目标与名字的来由，文章《[如何开始](https://icyfenix.cn/exploration/guide/quick-start.html)》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
+
+![icyfenix](https://images-1252557999.file.myqcloud.com/uPic/icyfenix.jpg) 
 
 ## 🕸 网站 
 
-### [pixel-me](https://pixel-me.tokyo/en/)
+### [regex101](https://regex101.com/)
 
-将你的头像像素化，质量挺好：
+`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/gnHdoM.png) 
+- PHP
+- Python
+- JS
+- Go
+- Java
 
-### [读者阁](https://duzhege.cn/)
+![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
 
-可以在线阅读故事会、读者等杂志的网站：
+### [阳光志愿](https://gaokao.chsi.com.cn/zyck/)
 
-![duzhege](https://images-1252557999.file.myqcloud.com/uPic/duzhege.jpg) 
+家里有参加高考的，可以参考：
 
-### [icon.kitchen](https://icon.kitchen/)
+- 院校查询
+- 专业查询
+- 支援参考
+- 心理测评
+- 职业前景
+- 报考指南
 
-一次性生成 `Android、IOS、WEB` 三端 `icon` 图标，可直接预览，效果非常好：
+![zyck](https://images-1252557999.file.myqcloud.com/uPic/zyck.jpg) 
 
-![icon_kitchen](https://images-1252557999.file.myqcloud.com/uPic/icon_kitchen.jpg) 
+### [阿里云知行动手实验室](https://start.aliyun.com/)
+
+这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
+
+网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
+
+我选了一个`k8s`教程尝试了下，嗯，挺香的：
+
+![start-ali](https://images-1252557999.file.myqcloud.com/uPic/LIfQqw.png) 
 
 ## ✍️ 说明
 
