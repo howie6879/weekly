@@ -5,90 +5,91 @@
 
 ## 🎯 项目 
 
-### [ChatGPT-On-CS](https://github.com/lrhh123/ChatGPT-On-CS)
+### [immich](https://github.com/immich-app/immich)
 
-基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用：
+一个开源的高性能自托管照片和视频备份解决方案：
 
-![ChatGPT-On-CS](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-On-CS.jpg) 
+![immich](https://images-1252557999.file.myqcloud.com/uPic/immich.jpg) 
 
-### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
+### [kanboard](https://kanboard.org/)
 
-`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
+`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
 
-![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
+- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
+- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
+- 可评估：方便收集如任务完成数量、质量、时间等性能指标
 
-### [uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+![Kanboard](https://images-1252557999.file.myqcloud.com/uPic/76TTj6.png) 
 
-这个项目提供了一个用于过滤 AI 生成内容的大型屏蔽列表，适用于 uBlock Origin & uBlacklist 插件。 
+### [czkawka](https://github.com/qarmin/czkawka)
+
+一款简单、快速和免费的开源跨平台应用程序，可以从您的计算机中删除不必要的文件。
+
+支持扫描计算机上重复、空文件夹、大文件、相似图像/视频/音乐、无效/损坏文件等内容，扫描速度极快。
+
+![czkawka](https://images-1252557999.file.myqcloud.com/uPic/czkawka.jpg) 
 
 ## 🤖 软件 
 
-### [iina](https://github.com/iina/iina)
+### [pot-desktop](https://github.com/pot-app/pot-desktop)
 
-macOS 下的开源现代化视频播放器，我的必备软件：
+🌈 一个跨平台的划词翻译软件，对标 Bob：
 
-![iina](https://images-1252557999.file.myqcloud.com/uPic/iina.jpg) 
+![pot-desktop](https://images-1252557999.file.myqcloud.com/uPic/pot-desktop.jpg) 
 
-### [gitify](https://github.com/gitify-app/gitify)
+### [5ire](https://github.com/nanbingxyz/5ire)
 
-在你的菜单栏上显示 `GitHub` 通知，跨平台：
+一个开源的跨平台桌面 AI 助手，同时也是一个 MCP 客户端。该项目支持多种大型语言模型服务提供商，如 OpenAI、Azure OpenAI、Anthropic 等，并且能够通过 MCP 服务器连接本地知识库和工具，实现诸如文件系统访问、系统信息交互、数据库交互和远程数据访问等功能。
 
-![gitify](https://images-1252557999.file.myqcloud.com/uPic/gitify.png) 
+![5ire](https://images-1252557999.file.myqcloud.com/uPic/8y8k3G.png) 
 
-### [imFile](https://github.com/imfile-io/imfile-desktop)
+### [Sucrose](https://github.com/Taiizor/Sucrose)
 
-`Motrix` 已经很长时间没有更新，同时积累了大量 `issues`，项目基于 `Motrix` 并长期维护更新。`imFile` 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源：
+`Sucrose` 是一款开源的桌面壁纸引擎，支持轻量和深色主题，适应多屏和各种分辨率，能创建响应媒体和系统状态的动态壁纸，支持自定义主题和从社区下载主题，优化了 `CPU` 和 `GPU` 使用，节能模式可在笔记本电脑上自动暂停壁纸:
 
-![imfile](https://images-1252557999.file.myqcloud.com/uPic/imfile.jpg) 
+![Sucrose](https://images-1252557999.file.myqcloud.com/uPic/Sucrose.jpg) 
 
 ## 👀 资料 
 
-### [Easy搞定Golang设计模式](https://www.yuque.com/aceld/lfhu8y/rg6nsf)
+### [eloquentjavascript](https://eloquentjavascript.net/)
 
-一份Golang设计模式教程：
+作者是 `Marijn Haverbeke`，世界级 `JavaScript` 程序员，本书免费开源，中英文评分都很高，学起来吧：
 
-![Easy搞定Golang设计模式](https://images-1252557999.file.myqcloud.com/uPic/Easy搞定Golang设计模式.jpg) 
+![eloquentjavascript](https://images-1252557999.file.myqcloud.com/uPic/eloquentjavascript.jpg) 
 
-### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
+### [sql-mother](https://github.com/liyupi/sql-mother)
 
-这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
+免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
 
-- 👋 入门
-- 💬 大语言模型
-	- 💡 提示工程
-	- 🔧 大语言模型实践
-	- 🔬 大语言模型理论
-- 🎨 AI绘画
-- 🔊 AI音频
-- 🌈 多模态
-- 🧠 深度学习
-- 💻 AI系统 
+![sqlmother](https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg)
 
-### [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
+在线网站点[这里](http://sqlmother.yupi.icu/#/learn)。 
 
-《[初创公司CTO手册](https://docs.google.com/document/d/147KVarJdNQ2ZdmDHOSsd7W39anejRu2NfxEWCzwl0IU/edit?pli=1)》是一本涵盖软件工程团队领导力、管理和技术主题的书籍。旨在为技术团队领导力提供指导，内容涵盖业务流程、人员管理、招聘面试、入职培训、绩效管理、团队构成、领导责任等多个方面：
+### [theByteBook](https://github.com/isno/theByteBook)
 
-![ctohb](https://images-1252557999.file.myqcloud.com/uPic/ctohb.jpg) 
+深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
+
+![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
 
 ## 🕸 网站 
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+### [uipatterns](http://uipatterns.io)
 
-提供在线绘制时序图的网站：
+程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/uipatterns.jpg) 
 
-### [crxsoso](https://www.crxsoso.com/articles)
+### [zeli.app](https://zeli.app/zh)
 
-浏览器扩展应用周刊：
+用中文读科技新闻，旨在帮你快速挑选感兴趣的文章来读：
 
-![crxsoso](https://images-1252557999.file.myqcloud.com/uPic/crxsoso.jpg) 
+![zeli](https://images-1252557999.file.myqcloud.com/uPic/dvVEf9.png) 
 
-### [stockai.trade](https://stockai.trade)
+### [readme.so](https://readme.so/)
 
- `AI` 选股分析网站（基于 `ChatGPT`）完全免费，无需注册:
- 
- ![stockai](https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg) 
+一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
+
+![readme_so](https://images-1252557999.file.myqcloud.com/uPic/readme_so.jpg) 
 
 ## ✍️ 说明
 
