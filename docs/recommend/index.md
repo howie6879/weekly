@@ -5,91 +5,94 @@
 
 ## 🎯 项目 
 
-### [immich](https://github.com/immich-app/immich)
+### [Flowise](https://github.com/FlowiseAI/Flowise)
 
-一个开源的高性能自托管照片和视频备份解决方案：
+基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
 
-![immich](https://images-1252557999.file.myqcloud.com/uPic/immich.jpg) 
+![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
 
-### [kanboard](https://kanboard.org/)
+### [nginx-ui](https://github.com/0xJacky/nginx-ui)
 
-`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
+Nginx 后台管理UI：
 
-- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
-- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
-- 可评估：方便收集如任务完成数量、质量、时间等性能指标
+- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
+- 在线 ChatGPT 助理
+- 一键申请和自动续签 Lets encrypt 证书
+- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
+- 在线查看 Nginx 日志
+- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
+- 保存配置后自动测试配置文件并重载 Nginx
+- 基于网页浏览器的高级命令行终端
+- 支持深色模式
+- 自适应网页设计
 
-![Kanboard](https://images-1252557999.file.myqcloud.com/uPic/76TTj6.png) 
+![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
 
-### [czkawka](https://github.com/qarmin/czkawka)
+### [wazuh](https://github.com/wazuh/wazuh)
 
-一款简单、快速和免费的开源跨平台应用程序，可以从您的计算机中删除不必要的文件。
+`Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具。
 
-支持扫描计算机上重复、空文件夹、大文件、相似图像/视频/音乐、无效/损坏文件等内容，扫描速度极快。
-
-![czkawka](https://images-1252557999.file.myqcloud.com/uPic/czkawka.jpg) 
+![wazuh](https://images-1252557999.file.myqcloud.com/uPic/wazuh.png) 
 
 ## 🤖 软件 
 
-### [pot-desktop](https://github.com/pot-app/pot-desktop)
+### [wowtab](https://wowtab.microsoft.com/)
 
-🌈 一个跨平台的划词翻译软件，对标 Bob：
+微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：
 
-![pot-desktop](https://images-1252557999.file.myqcloud.com/uPic/pot-desktop.jpg) 
+![wowtab](https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg) 
 
-### [5ire](https://github.com/nanbingxyz/5ire)
+### [CotEditor](https://github.com/coteditor/CotEditor)
 
-一个开源的跨平台桌面 AI 助手，同时也是一个 MCP 客户端。该项目支持多种大型语言模型服务提供商，如 OpenAI、Azure OpenAI、Anthropic 等，并且能够通过 MCP 服务器连接本地知识库和工具，实现诸如文件系统访问、系统信息交互、数据库交互和远程数据访问等功能。
+开源的`macOS` 纯文本编辑器：
 
-![5ire](https://images-1252557999.file.myqcloud.com/uPic/8y8k3G.png) 
+![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
 
-### [Sucrose](https://github.com/Taiizor/Sucrose)
+### [memreduct](https://github.com/henrypp/memreduct)
 
-`Sucrose` 是一款开源的桌面壁纸引擎，支持轻量和深色主题，适应多屏和各种分辨率，能创建响应媒体和系统状态的动态壁纸，支持自定义主题和从社区下载主题，优化了 `CPU` 和 `GPU` 使用，节能模式可在笔记本电脑上自动暂停壁纸:
+轻量优雅的 `Windows` 内存管理工具，让用户实时监控计算机内存和清理系统缓存，体积小(6MB)、内存释放效果明显，兼容 `Windows XP` 及更高版本：
 
-![Sucrose](https://images-1252557999.file.myqcloud.com/uPic/Sucrose.jpg) 
+![memreduct](https://images-1252557999.file.myqcloud.com/uPic/memreduct.jpg) 
 
 ## 👀 资料 
 
-### [eloquentjavascript](https://eloquentjavascript.net/)
+### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
 
-作者是 `Marijn Haverbeke`，世界级 `JavaScript` 程序员，本书免费开源，中英文评分都很高，学起来吧：
+打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
 
-![eloquentjavascript](https://images-1252557999.file.myqcloud.com/uPic/eloquentjavascript.jpg) 
+![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
 
-### [sql-mother](https://github.com/liyupi/sql-mother)
+### [PDF Explained](https://github.com/zxyle/PDF-Explained)
 
-免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
+ `PDF` 无处不在，无论是在线形式还是印刷形式，但很少有人利用这些有用的功能或掌握这种格式的细微差别。 这本简明的书籍为程序员，高级用户提供了世界领先的页面描述语言(pdf)的动手实践。以及搜索，电子出版和印刷行业的专业人士， 有大量示例，本书是你完全理解PDF所需的文档。
+ 
+ ![PDF-Explained](https://images-1252557999.file.myqcloud.com/uPic/PDF-Explained.jpg) 
 
-![sqlmother](https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg)
+### [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 
-在线网站点[这里](http://sqlmother.yupi.icu/#/learn)。 
+《[初创公司CTO手册](https://docs.google.com/document/d/147KVarJdNQ2ZdmDHOSsd7W39anejRu2NfxEWCzwl0IU/edit?pli=1)》是一本涵盖软件工程团队领导力、管理和技术主题的书籍。旨在为技术团队领导力提供指导，内容涵盖业务流程、人员管理、招聘面试、入职培训、绩效管理、团队构成、领导责任等多个方面：
 
-### [theByteBook](https://github.com/isno/theByteBook)
-
-深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
-
-![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
+![ctohb](https://images-1252557999.file.myqcloud.com/uPic/ctohb.jpg) 
 
 ## 🕸 网站 
 
-### [uipatterns](http://uipatterns.io)
+### [myfreemp3juices](https://myfreemp3juices.cc/)
 
-程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
+可以免费在线听&下载歌曲：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/uipatterns.jpg) 
+![myfreemp3juices](https://images-1252557999.file.myqcloud.com/uPic/myfreemp3juices.jpg) 
 
-### [zeli.app](https://zeli.app/zh)
+### [ticompressor](https://www.ticompressor.com/online/)
 
-用中文读科技新闻，旨在帮你快速挑选感兴趣的文章来读：
+速度挺快的在线&客户端图片压缩工具，完全在浏览器端执行压缩，不会上传图片，充分保护您的隐私安全：
 
-![zeli](https://images-1252557999.file.myqcloud.com/uPic/dvVEf9.png) 
+![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg) 
 
-### [readme.so](https://readme.so/)
+### [cryptologos](https://cryptologos.cc/)
 
-一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
+一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
 
-![readme_so](https://images-1252557999.file.myqcloud.com/uPic/readme_so.jpg) 
+![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
 
 ## ✍️ 说明
 
