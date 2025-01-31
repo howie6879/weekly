@@ -5,94 +5,95 @@
 
 ## 🎯 项目 
 
-### [Flowise](https://github.com/FlowiseAI/Flowise)
+### [think](https://github.com/fantasticit/think)
 
-基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
+云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通：
 
-![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
+![think](https://images-1252557999.file.myqcloud.com/uPic/think.jpg) 
 
-### [nginx-ui](https://github.com/0xJacky/nginx-ui)
+### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
 
-Nginx 后台管理UI：
+🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
 
-- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
-- 在线 ChatGPT 助理
-- 一键申请和自动续签 Lets encrypt 证书
-- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
-- 在线查看 Nginx 日志
-- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
-- 保存配置后自动测试配置文件并重载 Nginx
-- 基于网页浏览器的高级命令行终端
-- 支持深色模式
-- 自适应网页设计
+| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
+| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
+| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
+| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
+| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
 
-![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
+### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
 
-### [wazuh](https://github.com/wazuh/wazuh)
-
-`Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具。
-
-![wazuh](https://images-1252557999.file.myqcloud.com/uPic/wazuh.png) 
+让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
 
 ## 🤖 软件 
 
-### [wowtab](https://wowtab.microsoft.com/)
+### [kopia](https://github.com/kopia/kopia)
 
-微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：
+跨平台备份/还原工具，它能够将指定的文件和目录加密压缩后生成快照，然后上传到远程服务器或云存储，实现远程备份数据的功能，开箱即用支持命令行和 `GUI` 两种使用方式：
 
-![wowtab](https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg) 
+![kopia](https://images-1252557999.file.myqcloud.com/uPic/kopia.webp) 
 
-### [CotEditor](https://github.com/coteditor/CotEditor)
+### [ptg](https://github.com/crossoverJie/ptg)
 
-开源的`macOS` 纯文本编辑器：
+让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
 
-![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
+![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
 
-### [memreduct](https://github.com/henrypp/memreduct)
+### [numi](https://github.com/nikolaeu/numi)
 
-轻量优雅的 `Windows` 内存管理工具，让用户实时监控计算机内存和清理系统缓存，体积小(6MB)、内存释放效果明显，兼容 `Windows XP` 及更高版本：
+一款颜值颇高的 `Mac` 计算器：
 
-![memreduct](https://images-1252557999.file.myqcloud.com/uPic/memreduct.jpg) 
+![numi](https://images-1252557999.file.myqcloud.com/uPic/numi.jpg) 
 
 ## 👀 资料 
 
-### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
+### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
 
-打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
+![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
 
-![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
+### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
 
-### [PDF Explained](https://github.com/zxyle/PDF-Explained)
+阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
 
- `PDF` 无处不在，无论是在线形式还是印刷形式，但很少有人利用这些有用的功能或掌握这种格式的细微差别。 这本简明的书籍为程序员，高级用户提供了世界领先的页面描述语言(pdf)的动手实践。以及搜索，电子出版和印刷行业的专业人士， 有大量示例，本书是你完全理解PDF所需的文档。
- 
- ![PDF-Explained](https://images-1252557999.file.myqcloud.com/uPic/PDF-Explained.jpg) 
+![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
 
-### [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
+### [uxbaike](https://uxbaike.com/)
 
-《[初创公司CTO手册](https://docs.google.com/document/d/147KVarJdNQ2ZdmDHOSsd7W39anejRu2NfxEWCzwl0IU/edit?pli=1)》是一本涵盖软件工程团队领导力、管理和技术主题的书籍。旨在为技术团队领导力提供指导，内容涵盖业务流程、人员管理、招聘面试、入职培训、绩效管理、团队构成、领导责任等多个方面：
+UX 百科，属于设计师的专业知识库：
 
-![ctohb](https://images-1252557999.file.myqcloud.com/uPic/ctohb.jpg) 
+![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
 
 ## 🕸 网站 
 
-### [myfreemp3juices](https://myfreemp3juices.cc/)
+### [文学网](https://www.hwxnet.com/)
 
-可以免费在线听&下载歌曲：
+文学相关工具在线网站：
 
-![myfreemp3juices](https://images-1252557999.file.myqcloud.com/uPic/myfreemp3juices.jpg) 
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
 
-### [ticompressor](https://www.ticompressor.com/online/)
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
-速度挺快的在线&客户端图片压缩工具，完全在浏览器端执行压缩，不会上传图片，充分保护您的隐私安全：
+### [studyhard](https://studyhard.cf/)
 
-![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg) 
+📚各大高校课程资源汇总，在 `Github` 上大学：
 
-### [cryptologos](https://cryptologos.cc/)
+![studyhard](https://images-1252557999.file.myqcloud.com/uPic/studyhard.jpg) 
 
-一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
+### [aosabook](http://aosabook.org/en/index.html)
 
-![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
+网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
+
+- ZeroMQ
+- Chrome
+- Nginx
+- 等等
+
+上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
 
 ## ✍️ 说明
 
