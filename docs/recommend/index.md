@@ -5,106 +5,92 @@
 
 ## 🎯 项目 
 
-### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
+### [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
 
-可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
+`libretranslate` 是一个免费且开源的机器翻译API项目，完全自主托管。与其他API不同，它不依赖于像谷歌或Azure这样的专有提供商来进行翻译。相反，它的翻译引擎由开源Argos Translate库驱动：
 
-类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
+![libretranslate](https://images-1252557999.file.myqcloud.com/uPic/libretranslate.jpg) 
 
-![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
+### [taskcafe](https://github.com/JordanKnott/taskcafe)
 
-### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
+带看板的开源项目管理工具:
 
-一键免费部署你的私人 `ChatGPT` 网页应用：
+- 通过看板界面管理任务（设置截止日期、标签、添加清单）
+- 通过我的任务视图查看所有当前分配的任务
+- 支持个人项目
+- 任务评论和活动
 
-- 在 1 分钟内使用 Vercel  **免费一键部署**
-- 精心设计的 UI，响应式设计，支持深色模式
-- 极快的首屏加载速度（~85kb）
-- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
-- 一键导出聊天记录，完整的 Markdown 支持
-- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
+![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
 
-![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
+### [SoraWebui](https://github.com/SoraWebui/SoraWebui)
 
-### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
+`SoraWebui` 是一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能：
 
-B站视频命令行下载工具：
-
-![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
+![SoraWebui](https://images-1252557999.file.myqcloud.com/uPic/SoraWebui.jpeg) 
 
 ## 🤖 软件 
 
-### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
+### [FeHelper](https://github.com/zxlie/FeHelper)
 
-类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
+`FeHelper`--Web 前端助手，提供了非常多的常用开发工具，支持 `Chrome&Firefox&MS-Edge`，是我浏览器必备的一款插件：
 
-![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
+![FeHelper](https://images-1252557999.file.myqcloud.com/uPic/FeHelper.png) 
 
-### [cursor](https://github.com/getcursor/cursor)
+### [Responsively](https://github.com/responsively-org/responsively-app)
 
-一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
+一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
 
-![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
+![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
 
-### [kobi](https://github.com/niuhuan/kobi)
+### [GodMode](https://github.com/smol-ai/GodMode/)
 
-一个简洁大方的跨平台漫画客户端：
+`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
 
-![0ZQlSW](https://images-1252557999.file.myqcloud.com/uPic/0ZQlSW.png) 
+![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
 
 ## 👀 资料 
 
-### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
+### [dockerlabs](https://github.com/collabnix/dockerlabs)
 
-清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
+Docker 学习教程：
 
-更新记录如下：
+- 适用于初中高级别学习者的免费平台
+- 超过500个高度互动的Docker教程和指南
+- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
 
-- 2020-11-03：环境搭建完成，开始着手编写文档。
-- 2020-11-13：第一章完成。
-- 2020-11-27：第二章完成。
-- 2020-12-20：前七章代码完成。
-- 2021-01-10：第三章完成。
-- 2021-01-18：加入第零章。
-- 2021-01-30：第四章完成。
-- 2021-02-16：第五章完成。
-- 2021-02-20：第六章完成。
-- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
-- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
+![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
 
-热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
+### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
 
-### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+中国5级行政区域mysql库：
 
-GitHub开源项目维护协作指南：
+- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
+- 港澳地区的数据只有3级;台湾地区4级
+- 包含大陆地区的邮政编码和经纬度信息 
 
-![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
+### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
 
-### [动手实现LLM中文版](https://github.com/datawhalechina/llms-from-scratch-cn)
-
-该项目提供了一个如何从头开始实现类似 `ChatGPT` 的大语言模型（LLM）的详细教程：
-
-![tllms-from-scratch-cn](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6242161922065677933-y.jpg) 
+自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
 
 ## 🕸 网站 
 
-### [水印宝](https://watermark.chiloh.cn/)
+### [cryptologos](https://cryptologos.cc/)
 
-[开源](https://github.com/chilohwei/watermark-tool)的图片加水印网页：
+一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
 
-![watermark](https://images-1252557999.file.myqcloud.com/uPic/jiPUF2.png) 
+![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
 
-### [shell.how](https://www.shell.how/)
+### [ticompressor](https://www.ticompressor.com/online/)
 
-网站用优雅的交互和排版告诉你Linux命令的作用：
+速度挺快的在线&客户端图片压缩工具，完全在浏览器端执行压缩，不会上传图片，充分保护您的隐私安全：
 
-![shell_howe](https://images-1252557999.file.myqcloud.com/uPic/shell_howe.jpg) 
+![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg) 
 
-### [tianya.at](https://tianya.at/)
+### [读书笔记](https://reading.geek-docs.com/)
 
-天涯帖子备份网站：
+网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
 
-![tianya](https://images-1252557999.file.myqcloud.com/uPic/y1oe44.png) 
+![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
 
 ## ✍️ 说明
 
