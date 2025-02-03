@@ -5,92 +5,109 @@
 
 ## 🎯 项目 
 
-### [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
+### [PanIndex](https://github.com/libsgh/PanIndex)
 
-`libretranslate` 是一个免费且开源的机器翻译API项目，完全自主托管。与其他API不同，它不依赖于像谷歌或Azure这样的专有提供商来进行翻译。相反，它的翻译引擎由开源Argos Translate库驱动：
+网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
 
-![libretranslate](https://images-1252557999.file.myqcloud.com/uPic/libretranslate.jpg) 
+- 跨平台、易部署
+- 多模式、多网盘
+- 多主题
+- 下载直链
+- 防盗链
+- 短链、分享
+- 访问控制
+- 分流
+- WebDav
 
-### [taskcafe](https://github.com/JordanKnott/taskcafe)
+![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
 
-带看板的开源项目管理工具:
+### [resume-design](https://github.com/huajian-pro/resume-design)
 
-- 通过看板界面管理任务（设置截止日期、标签、添加清单）
-- 通过我的任务视图查看所有当前分配的任务
-- 支持个人项目
-- 任务评论和活动
+一款开源简历设计生成器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据：
 
-![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
+![91huajian](https://images-1252557999.file.myqcloud.com/uPic/MHN7Rb.jpg) 
 
-### [SoraWebui](https://github.com/SoraWebui/SoraWebui)
+### [lobe-chat](https://github.com/lobehub/lobe-chat)
 
-`SoraWebui` 是一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能：
+`LobeChat` 是一个开源的、可扩展的（Function Calling）高性能聊天机器人框架，它支持一键免费部署私人 `ChatGPT/LLM` 网页应用程序：
 
-![SoraWebui](https://images-1252557999.file.myqcloud.com/uPic/SoraWebui.jpeg) 
+- 💨 快速部署：支持 Vercel 平台
+-  💎 精致 UI 设计
+-  🗣️ 流畅的对话体验
+-  🧩 支持插件与自定义插件开发
+-  🔒 隐私安全
+-  🤖 自定义助手角色
+-  🌐 自定义域名
+-  🏬 角色市场
+
+![lobe-chat](https://images-1252557999.file.myqcloud.com/uPic/lobe-chat.webp) 
 
 ## 🤖 软件 
 
-### [FeHelper](https://github.com/zxlie/FeHelper)
+### [Mos](https://github.com/Caldis/Mos)
 
-`FeHelper`--Web 前端助手，提供了非常多的常用开发工具，支持 `Chrome&Firefox&MS-Edge`，是我浏览器必备的一款插件：
+一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
 
-![FeHelper](https://images-1252557999.file.myqcloud.com/uPic/FeHelper.png) 
+![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
 
-### [Responsively](https://github.com/responsively-org/responsively-app)
+### [V2exOS](https://github.com/isaced/V2exOS)
 
-一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
+一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端：
 
-![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
+![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png) 
 
-### [GodMode](https://github.com/smol-ai/GodMode/)
+### [Quake](https://github.com/phodal/quake)
 
-`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
+Quake 是面向极客的知识管理元框架，它可以：
 
-![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
+- 自由的文本内容管理。Todo 清单、文章管理、书评、笔记等。
+- 构建知识网络体系。定制化 markdown 链接
+- 抓住稍纵即逝的灵感。支持快速启动（CLI、TUI）与全局搜索
+- 自由的呈现画布。DSL 与自由画板
+
+![quake](https://images-1252557999.file.myqcloud.com/uPic/quake.gif) 
 
 ## 👀 资料 
 
-### [dockerlabs](https://github.com/collabnix/dockerlabs)
+### [curriculum](https://github.com/TheOdinProject/curriculum)
 
-Docker 学习教程：
+`The Odin Project`（简称 TOP）是一个开源的全栈 web 开发教育课程，旨在通过一系列课程和项目帮助学习者掌握前端和后端技能：
 
-- 适用于初中高级别学习者的免费平台
-- 超过500个高度互动的Docker教程和指南
-- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
+![k6tcen](https://images-1252557999.file.myqcloud.com/uPic/k6tcen.png) 
 
-![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
+《Mastering GO》中文译本，《玩转 GO》：
 
-中国5级行政区域mysql库：
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
-- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
-- 港澳地区的数据只有3级;台湾地区4级
-- 包含大陆地区的邮政编码和经纬度信息 
+### [Al精选工具库](https://t16jzwqrzjx.feishu.cn/wiki/EsvowFAqFiTiYDkJgE0cWquPnWb)
 
-### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
+18 个模块 100 个 AI 工具：
 
-自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
+![ai_tools](https://images-1252557999.file.myqcloud.com/uPic/ai_tools.jpg) 
 
 ## 🕸 网站 
 
-### [cryptologos](https://cryptologos.cc/)
+### [uipatterns](http://uipatterns.io)
 
-一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
+程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
 
-![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/uipatterns.jpg) 
 
-### [ticompressor](https://www.ticompressor.com/online/)
+### [carbon](https://carbon.now.sh/)
 
-速度挺快的在线&客户端图片压缩工具，完全在浏览器端执行压缩，不会上传图片，充分保护您的隐私安全：
+将你的源代码转成漂亮可分享的图片：
 
-![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg) 
+![carbon](https://images-1252557999.file.myqcloud.com/uPic/carbon.jpg) 
 
-### [读书笔记](https://reading.geek-docs.com/)
+### [handsome-css](https://www.handsome-css.com/)
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+网站主旨在于收集网上仅靠 `CSS` 与 `HTML` 就可以实现的动效 `UI`，目的是为了提高开发者的审美和技术：
 
-![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
+![handsome-css3](https://images-1252557999.file.myqcloud.com/uPic/handsome-css3.jpg)
+
+项目开源在：[handsome-css3-lib](https://github.com/ZiYi0414/handsome-css3-lib)。 
 
 ## ✍️ 说明
 
