@@ -5,109 +5,83 @@
 
 ## 🎯 项目 
 
-### [PanIndex](https://github.com/libsgh/PanIndex)
+### [autocut](https://github.com/mli/autocut)
 
-网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
+`AutoCut` 对视频自动生成字幕，只需选择要保留的句子，`AutoCut` 将对视频中对应的片段裁切并保存。
 
-- 跨平台、易部署
-- 多模式、多网盘
-- 多主题
-- 下载直链
-- 防盗链
-- 短链、分享
-- 访问控制
-- 分流
-- WebDav
+![autocut](https://images-1252557999.file.myqcloud.com/uPic/autocut.jpg) 
 
-![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
+### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 
-### [resume-design](https://github.com/huajian-pro/resume-design)
+免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
 
-一款开源简历设计生成器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据：
+![rxresu](https://images-1252557999.file.myqcloud.com/uPic/rxresu.jpg) 
 
-![91huajian](https://images-1252557999.file.myqcloud.com/uPic/MHN7Rb.jpg) 
+### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
 
-### [lobe-chat](https://github.com/lobehub/lobe-chat)
+CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
 
-`LobeChat` 是一个开源的、可扩展的（Function Calling）高性能聊天机器人框架，它支持一键免费部署私人 `ChatGPT/LLM` 网页应用程序：
-
-- 💨 快速部署：支持 Vercel 平台
--  💎 精致 UI 设计
--  🗣️ 流畅的对话体验
--  🧩 支持插件与自定义插件开发
--  🔒 隐私安全
--  🤖 自定义助手角色
--  🌐 自定义域名
--  🏬 角色市场
-
-![lobe-chat](https://images-1252557999.file.myqcloud.com/uPic/lobe-chat.webp) 
+![CasaOS](https://images-1252557999.file.myqcloud.com/uPic/rA4tpa.jpg) 
 
 ## 🤖 软件 
 
-### [Mos](https://github.com/Caldis/Mos)
+### [shottr](https://shottr.cc/)
 
-一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
+免费截屏软件（macOS）：
 
-![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
+![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
 
-### [V2exOS](https://github.com/isaced/V2exOS)
+### [bloop](https://github.com/BloopAI/bloop)
 
-一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端：
+`bloop` 是一个用 Rust 编写的快速代码搜索引擎，内部集成 `LLM` 大模型，可以快速让你导入一个代码仓库以自然语言形式进行问答，想快速上手一个项目或者文档不怎么够的项目，力荐👀：
 
-![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png) 
+![bloop](https://images-1252557999.file.myqcloud.com/uPic/bloop.jpg) 
 
-### [Quake](https://github.com/phodal/quake)
+### [EpubPress](https://epub.press/)
 
-Quake 是面向极客的知识管理元框架，它可以：
+`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
 
-- 自由的文本内容管理。Todo 清单、文章管理、书评、笔记等。
-- 构建知识网络体系。定制化 markdown 链接
-- 抓住稍纵即逝的灵感。支持快速启动（CLI、TUI）与全局搜索
-- 自由的呈现画布。DSL 与自由画板
-
-![quake](https://images-1252557999.file.myqcloud.com/uPic/quake.gif) 
+![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
 
 ## 👀 资料 
 
-### [curriculum](https://github.com/TheOdinProject/curriculum)
+### [visualize-ml](https://github.com/visualize-ml)
 
-`The Odin Project`（简称 TOP）是一个开源的全栈 web 开发教育课程，旨在通过一系列课程和项目帮助学习者掌握前端和后端技能：
+鸢尾花书：从加减乘除到机器学习，全套7册。
 
-![k6tcen](https://images-1252557999.file.myqcloud.com/uPic/k6tcen.png) 
+![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
 
-### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
+### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
 
-《Mastering GO》中文译本，《玩转 GO》：
+![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
 
-![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
+### [paper-reading](https://github.com/mli/paper-reading)
 
-### [Al精选工具库](https://t16jzwqrzjx.feishu.cn/wiki/EsvowFAqFiTiYDkJgE0cWquPnWb)
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-18 个模块 100 个 AI 工具：
-
-![ai_tools](https://images-1252557999.file.myqcloud.com/uPic/ai_tools.jpg) 
+![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
 
 ## 🕸 网站 
 
-### [uipatterns](http://uipatterns.io)
+### [removerized](https://removerized.tech/)
 
-程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
+开源免费的图片去背景工具网站，交互体验还不错：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/uipatterns.jpg) 
+![removerized](https://images-1252557999.file.myqcloud.com/uPic/removerized.jpg)
 
-### [carbon](https://carbon.now.sh/)
+当然了，模型效果对一些图片比不上一些收费的。 
 
-将你的源代码转成漂亮可分享的图片：
+### [书葵網](https://www.shukui.net/)
 
-![carbon](https://images-1252557999.file.myqcloud.com/uPic/carbon.jpg) 
+读者可以在此查询本馆的图书、期刊、古籍等信息。检索条件会自动匹配书名、作者、出版社、ISBN搜索，返回最优匹配结果：
 
-### [handsome-css](https://www.handsome-css.com/)
+![shukui](https://images-1252557999.file.myqcloud.com/uPic/shukui.jpg) 
 
-网站主旨在于收集网上仅靠 `CSS` 与 `HTML` 就可以实现的动效 `UI`，目的是为了提高开发者的审美和技术：
+### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
 
-![handsome-css3](https://images-1252557999.file.myqcloud.com/uPic/handsome-css3.jpg)
+唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
 
-项目开源在：[handsome-css3-lib](https://github.com/ZiYi0414/handsome-css3-lib)。 
+![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
 
 ## ✍️ 说明
 
