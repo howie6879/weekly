@@ -5,83 +5,87 @@
 
 ## 🎯 项目 
 
-### [autocut](https://github.com/mli/autocut)
+### [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)
 
-`AutoCut` 对视频自动生成字幕，只需选择要保留的句子，`AutoCut` 将对视频中对应的片段裁切并保存。
+老胡最近整的开源项目，从[技术周刊精选](https://www.fre123.com/weekly/)到[信息流](https://www.fre123.com/tech)，和前端朋友一起梳理出了个通用的排版并开源出来，欢迎大家使用和提出建议:
 
-![autocut](https://images-1252557999.file.myqcloud.com/uPic/autocut.jpg) 
+![fre123-info-flow-demo](https://images-1252557999.file.myqcloud.com/uPic/fre123-info-flow-demo.jpg) 
 
-### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+### [TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
 
-免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
+「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。
 
-![rxresu](https://images-1252557999.file.myqcloud.com/uPic/rxresu.jpg) 
+![TidGi-Desktop](https://images-1252557999.file.myqcloud.com/uPic/TidGi-Desktop.jpg)
 
-### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
+个人笔记记录这块老胡还在坚挺着使用 [Joplin](https://github.com/laurent22/joplin)，如果有特别推荐的可以评论推荐下。 
 
-CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
+### [WeChatMsg](https://github.com/LC044/WeChatMsg)
 
-![CasaOS](https://images-1252557999.file.myqcloud.com/uPic/rA4tpa.jpg) 
+提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告：
+
+![WeChatMsg](https://images-1252557999.file.myqcloud.com/uPic/WeChatMsg.png) 
 
 ## 🤖 软件 
 
-### [shottr](https://shottr.cc/)
+### [Olauncher](https://github.com/tanujnotes/Olauncher)
 
-免费截屏软件（macOS）：
+适用于 `Android` 的最小 `AF` 启动器。减少您在屏幕上浪费的时间，提供日常壁纸，非常优雅简洁，效果上来看适合英文用户：
 
-![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
+![Olauncher](https://images-1252557999.file.myqcloud.com/uPic/Olauncher.jpg) 
 
-### [bloop](https://github.com/BloopAI/bloop)
+### [eaio](https://github.com/WankkoRee/eaio)
 
-`bloop` 是一个用 Rust 编写的快速代码搜索引擎，内部集成 `LLM` 大模型，可以快速让你导入一个代码仓库以自然语言形式进行问答，想快速上手一个项目或者文档不怎么够的项目，力荐👀：
+一个通过将磁盘上所有 `Electron` 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 `pnpm` 一样:
 
-![bloop](https://images-1252557999.file.myqcloud.com/uPic/bloop.jpg) 
+![eaio](https://images-1252557999.file.myqcloud.com/uPic/eaio.png) 
 
-### [EpubPress](https://epub.press/)
+### [Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper)
 
-`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
+李跳跳下线了，还有开源的出来，开屏跳过-安卓系统的开屏广告自动跳过助手。
 
-![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
+**开屏跳过**可以帮助用户自动跳过一些应用的开屏广告，基于Android的无障碍服务实现。
+
+使用广告跳过程序，最大的风险是个人隐私被泄露。`因为这种软件都需要开启Accessibility` 无障碍服务，可以获取屏幕上的**所有内容**，从而可以检测广告，帮助用户自动跳过。
+
+本程序是开源程序，不需要网络权限，不需要存储权限，不会收集或者上传任何信息！绝无隐私问题：
+
+![Android-Touch-Helper](https://images-1252557999.file.myqcloud.com/uPic/Android-Touch-Helper.jpg) 
 
 ## 👀 资料 
 
-### [visualize-ml](https://github.com/visualize-ml)
+### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
 
-鸢尾花书：从加减乘除到机器学习，全套7册。
+一份从头开始建立 `CDN` 知识体系的教程。 
 
-![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
+### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
-### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
+这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
 
-![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
+我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
 
-### [paper-reading](https://github.com/mli/paper-reading)
+### [MasteringRAG](https://github.com/Steven-Luo/MasteringRAG)
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
-
-![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
+本项目是一个使用LLM（大语言模型）使用RAG技术构建文档问答的项目，将会涵盖企业构建基于RAG的文档问答几乎所有的常见优化手段。 
 
 ## 🕸 网站 
 
-### [removerized](https://removerized.tech/)
+### [regex.ai](https://regex.ai/)
 
-开源免费的图片去背景工具网站，交互体验还不错：
+`regex.ai` 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：
 
-![removerized](https://images-1252557999.file.myqcloud.com/uPic/removerized.jpg)
+![regex_ai](https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg) 
 
-当然了，模型效果对一些图片比不上一些收费的。 
+### [stockai.trade](https://stockai.trade)
 
-### [书葵網](https://www.shukui.net/)
+ `AI` 选股分析网站（基于 `ChatGPT`）完全免费，无需注册:
+ 
+ ![stockai](https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg) 
 
-读者可以在此查询本馆的图书、期刊、古籍等信息。检索条件会自动匹配书名、作者、出版社、ISBN搜索，返回最优匹配结果：
+### [openfarm.cc](https://openfarm.cc/)
 
-![shukui](https://images-1252557999.file.myqcloud.com/uPic/shukui.jpg) 
+[`OpenFarm`](https://github.com/openfarmcc/OpenFarm) 是一个开源项目，目标是教你如何种植农作物：
 
-### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
-
-唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
-
-![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
+![openfarm](https://images-1252557999.file.myqcloud.com/uPic/openfarm.jpg) 
 
 ## ✍️ 说明
 
