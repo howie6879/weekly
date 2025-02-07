@@ -5,95 +5,89 @@
 
 ## 🎯 项目 
 
-### [hoarder](https://github.com/hoarder-app/hoarder)
+### [rss-proxy](https://github.com/damoeb/rss-proxy)
 
-为数据收藏者开发的管理程序，可自建，有一定 `AI` 能力：
+通过分析用户提供的静态页面自动创建RSS订阅源：
 
-![hoarder](https://images-1252557999.file.myqcloud.com/uPic/hoarder.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/APrAbH.png) 
 
-### [whoogle-search](https://github.com/benbusby/whoogle-search)
+### [carbonyl](https://github.com/fathyb/carbonyl)
 
-这个项目是这周我看到项目中最喜欢的，它是一个元搜索引擎，简单来说**元搜索引擎**就是汇总第三方搜索引擎结果的一个搜索引擎（这里主要使用的是谷歌），它具有以下特点：
+在你的终端使用 `Chromium`：
 
-- 自部署
-- 去广告
-- 去追踪
-- 自定义
+![carbonyl](https://images-1252557999.file.myqcloud.com/uPic/carbonyl.jpg) 
 
-如果你有自己的服务器，可以尝试一下，我自己用了几天，非常喜欢上面的特性，感觉特别棒，已经升级成我的默认搜索引擎了：
+### [statping](https://github.com/statping/statping)
 
-![Whoogle](https://images-1252557999.file.myqcloud.com/uPic/mUGf6O-20230909194304629.png) 
+一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
 
-### [ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine)
-
-随着 `TikTok` 和 `Youtube` 等短视频内容的兴起，比以往任何时候都有更多的知识存在于视频中。对于任何一个人来说，在数百万个视频中找到特定答案可能是困难的，而这个项目([https://avse.vercel.app/](https://avse.vercel.app/))就是针对这个问题进行探索：
-
-![ai-video-search-engine](https://images-1252557999.file.myqcloud.com/uPic/ai-video-search-engine.jpg) 
+![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
 
 ## 🤖 软件 
 
-### [TomatoBar](https://github.com/ivoronin/TomatoBar)
+### [Yank Note](https://github.com/purocean/yn)
 
-你听说过番茄工作法吗？这是一种很好的技巧，可以帮助你在学习或工作期间掌握时间并保持专注。`TomatoBar` 是一款非常整洁的 `macOS` 菜单栏番茄钟：
+一款面向程序员的 `Markdown` 笔记应用，全平台支持：
 
-![TomatoBar](https://images-1252557999.file.myqcloud.com/uPic/TomatoBar.png) 
+- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
+- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
+- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
+- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
+- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
 
-### [fideo-live-record](https://github.com/chenfan0/fideo-live-record)
+![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
 
-这是一个基于 `React Ffmpeg Electron Shadcn` 的直播录制软件。支持监控直播，可以帮助用户简单便捷对直播进行录制并保存为` MP4` 格式的视频：
+### [localsend](https://github.com/localsend/localsend)
 
-![fideo-live-record](https://images-1252557999.file.myqcloud.com/uPic/tCaYMt.png) 
+`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
 
-### [buster](https://github.com/dessant/buster)
+![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
 
-`Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码：
+### [orbstack](https://github.com/orbstack)
 
-![buster](https://images-1252557999.file.myqcloud.com/uPic/G8IbW1.jpg) 
+来自朋友的推荐，`macOS` 上的 `Docker Desktop` 很卡很臃肿大家应该认可吧，我之前都是用 `Podman`，也算不错。这次又发现了这款在 `macOS` 上运行的 `Docker` 容器和 `Linux` 虚拟机 ，大家可以试试：
+
+![orbstack](https://images-1252557999.file.myqcloud.com/uPic/orbstack.jpg) 
 
 ## 👀 资料 
 
-### [汉字激光照排小史](https://github.com/chenshuo/typeset/blob/master/wangxuan-history.pdf)
+### developer-roadmap
 
-一份 20 多页的笔记《汉字激光照排小史》：
+开发人员学习成长路线图：
 
-![typeset](https://images-1252557999.file.myqcloud.com/uPic/typeset.jpg) 
+![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
 
-### [learningprompt](https://learningprompt.wiki/)
+### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
 
-![learningprompt](https://images-1252557999.file.myqcloud.com/uPic/learningprompt.jpg) 
+📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
 
-### [theByteBook](https://github.com/isno/theByteBook)
+![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
 
-深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
+### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
 
-![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
+从工程角度方方面面阐述了DevOps实施的过程:
+
+![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
 
 ## 🕸 网站 
 
-### [icones.js.org](https://icones.js.org/)
+### [transhumans](https://www.transhumans.xyz/)
 
-免费的图标库：
+免费可商用的人物插图：
 
-![icones](https://images-1252557999.file.myqcloud.com/uPic/icones.jpg) 
+![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
 
-### [musetransfer](https://musetransfer.com/)
+### [emojiall](https://www.emojiall.com/)
 
-`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
+网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
 
-![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
+![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg) 
 
-### [文学网](https://www.hwxnet.com/)
+### [musicforprogramming](https://musicforprogramming.net/latest/)
 
-文学相关工具在线网站：
+非常极客的背景音乐网站：
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
-
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
 
 ## ✍️ 说明
 
