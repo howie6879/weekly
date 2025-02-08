@@ -5,89 +5,90 @@
 
 ## 🎯 项目 
 
-### [rss-proxy](https://github.com/damoeb/rss-proxy)
+### [actual](https://github.com/actualbudget/actual)
 
-通过分析用户提供的静态页面自动创建RSS订阅源：
+自部署的个人理财开源项目：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/APrAbH.png) 
+![actual](https://images-1252557999.file.myqcloud.com/uPic/jXtBXk.png) 
 
-### [carbonyl](https://github.com/fathyb/carbonyl)
+### [invoice](https://github.com/guanshuicheng/invoice)
 
-在你的终端使用 `Chromium`：
+增值税发票 `OCR` 识别，使用 `flask` 微服务架构，识别 `type` ：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等：
 
-![carbonyl](https://images-1252557999.file.myqcloud.com/uPic/carbonyl.jpg) 
+![invoice](https://images-1252557999.file.myqcloud.com/uPic/invoice.jpg) 
 
-### [statping](https://github.com/statping/statping)
+### [law-cn-ai](https://github.com/lvwzhen/law-cn-ai)
 
-一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
+AI 法律助手:
 
-![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
+![law-cn-ai](https://images-1252557999.file.myqcloud.com/uPic/law-cn-ai.jpg)
+
+也可以[在线](https://law-cn-ai.vercel.app/)访问。 
 
 ## 🤖 软件 
 
-### [Yank Note](https://github.com/purocean/yn)
+### [TomatoBar](https://github.com/ivoronin/TomatoBar)
 
-一款面向程序员的 `Markdown` 笔记应用，全平台支持：
+你听说过番茄工作法吗？这是一种很好的技巧，可以帮助你在学习或工作期间掌握时间并保持专注。`TomatoBar` 是一款非常整洁的 `macOS` 菜单栏番茄钟：
 
-- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
-- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
-- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
-- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
-- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
+![TomatoBar](https://images-1252557999.file.myqcloud.com/uPic/TomatoBar.png) 
 
-![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
+### [AppManager](https://github.com/MuntashirAkon/AppManager)
 
-### [localsend](https://github.com/localsend/localsend)
+一个功能全面的 `Android` 包管理器和应用查看器，支持复制自由软件的功能，提供了丰富的应用管理和操作功能，如列出应用信息、安装 / 卸载 `APK`、备份 / 恢复应用、查看日志等，同时支持根权限和 `ADB` 命令，以实现更高级的操作，如撤销权限、修改 `APP` 操作模式等：
 
-`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
+![AppManager](https://images-1252557999.file.myqcloud.com/uPic/zIgjSp.png) 
 
-![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
+### [VueTube](https://github.com/VueTubeApp/VueTube)
 
-### [orbstack](https://github.com/orbstack)
+轻巧的开放源代码流媒体客户端，旨在再造不同流媒体应用程序的所有功能：
 
-来自朋友的推荐，`macOS` 上的 `Docker Desktop` 很卡很臃肿大家应该认可吧，我之前都是用 `Podman`，也算不错。这次又发现了这款在 `macOS` 上运行的 `Docker` 容器和 `Linux` 虚拟机 ，大家可以试试：
-
-![orbstack](https://images-1252557999.file.myqcloud.com/uPic/orbstack.jpg) 
+- 🎨  **主题**：明亮、黑暗、OLED，以及彩虹中的任何颜色！您可根据您的喜好选择强调色和背景色。
+- 🖌️  **自定义使用者界面**：自定义主题，甚至停用您不使用的一些界面，以获得最佳体验。
+- ⬆️  **自动更新**：有新版本可用时接收通知，如果您不喜欢也可以撤销更新！
+- 👁️  **追踪阻断**：VueTube 默认不会发送任何跟踪数据，亦不使用任何外部 API。隐私是必要的！
+- 📺  **自家制的 HTML5 视频播放器**：内置在应用程序的播放器，拥有您所需的任何功能，例如 16 倍速。
+- 🌍  **翻译**： 本应用程序支持超过 25 种语言！默认语言因您的设备配置而定。 
 
 ## 👀 资料 
 
-### developer-roadmap
+### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
 
-开发人员学习成长路线图：
+精益副业：程序员如何优雅地做副业:
 
-![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
+![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
 
-### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
+### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
 
-📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
+Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
 
-![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
+![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
 
-### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-从工程角度方方面面阐述了DevOps实施的过程:
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
 
-![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
+![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
 
 ## 🕸 网站 
 
-### [transhumans](https://www.transhumans.xyz/)
+### [extractcss](http://extractcss.com/)
 
-免费可商用的人物插图：
+提取 `html` 结构里面的 `css` 代码：
 
-![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
+![extractcss](https://images-1252557999.file.myqcloud.com/uPic/extractcss.jpg) 
 
-### [emojiall](https://www.emojiall.com/)
+### [haitang](https://github.com/javayhu/haitang)
 
-网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
+海棠诗社，提供古诗词的数字化收集，可以按照不同方式检索和分类，项目代码完全[开源](https://github.com/javayhu/haitang)：
 
-![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg) 
+![haitang](https://images-1252557999.file.myqcloud.com/uPic/haitang.jpg) 
 
-### [musicforprogramming](https://musicforprogramming.net/latest/)
+### [watermark](https://watermark.liumingye.cn/)
 
-非常极客的背景音乐网站：
+短视频/图集在线去水印解析：
 
-![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
+![watermark](https://images-1252557999.file.myqcloud.com/uPic/watermark.jpg) 
 
 ## ✍️ 说明
 
