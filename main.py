@@ -101,7 +101,7 @@ if __name__ == "__main__":
     # exit()
     # 生成 sitemap
     # 使用 https://www.xml-sitemaps.com/ 生成 sitemap
-    gen_sitemap()
+    # gen_sitemap()
     # 持久化周刊到 DB
     parse_md()
     # 生成 RSS
