@@ -5,92 +5,102 @@
 
 ## 🎯 项目 
 
-### [jspaint](https://github.com/1j01/jspaint)
-
-怀旧画板项目，`JS Paint` 高度逼真地再现了 `MS Paint` 的每一个工具和菜单，甚至是鲜为人知的功能，它支持主题、附加文件类型和辅助功能，如眼睛凝视模式和语音识别：
-
-![jspaint](https://images-1252557999.file.myqcloud.com/uPic/jspaint.jpg)
-
-直接在线体验 👉 [jspaint.app](https://jspaint.app/) 
-
 ### [dozzle](https://github.com/amir20/dozzle)
 
 Dozzle 是一个小型轻量级应用程序，基于 Web 界面来监控 Docker 日志，不存储任何日志文件，仅用于实时监控您的容器日志：
 
 ![dozzle](https://images-1252557999.file.myqcloud.com/uPic/dozzle.jpg)s 
 
-### [tiptop](https://github.com/nschloe/tiptop)
+### [kafka-ui](https://github.com/provectus/kafka-ui)
 
-类似`htop`的命令行系统资源监控工具：
+开源的 `Apache Kafka` 管理项目（Web UI）：
 
-![tiptop](https://images-1252557999.file.myqcloud.com/uPic/tiptop.png) 
+![kafka-ui](https://images-1252557999.file.myqcloud.com/uPic/kafka-ui.jpg)
+
+同类产品还有：[kafdrop](https://github.com/obsidiandynamics/kafdrop)。 
+
+### [DweebUI](https://github.com/lllllllillllllillll/DweebUI)
+
+用于管理容器的免费开源 `WebUI`，颜值不错，但是功能还不大够，值得期待：
+
+![DweebUI](https://images-1252557999.file.myqcloud.com/uPic/DweebUI.png) 
 
 ## 🤖 软件 
 
-### [Gif123](https://github.com/aardio/Gif123)
+### [1Remote](https://github.com/1Remote/1Remote)
 
-非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
+`1Remote` 是一款现代化的个人远程会话管理员和启动器，使用它你可以管理从一个入口管理多种远程会话：
 
-![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg) 
+- ⭐ 开源且免费
+- ⭐ 支持 RDP, SSH, VNC, Telnet, (S)FTP, RemoteApp 等多种协议
+- ⭐ 多屏幕、高分辨率的 RDP 支持
+- ⭐ 一键打开你的远程连接 (Alt + M)
+- ⭐ 单个服务器配置中允许存储多个地址和账号
+- ⭐ 基于选项卡的远程桌面界面、多语言、可自定义颜色主题
+- ⭐ 易于部署，仅需解压就能运行
 
-### [Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)
+![1Remote](https://images-1252557999.file.myqcloud.com/uPic/dgLzJC.png) 
 
-由于在 `QQ` 和微信中发送 `APK` 文件时，文件名会被腾讯添加后缀.1，此 `App` 可以省去重命名步骤，直接安装：
+### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
 
-- 获取安装权限（不需要读取存储权限）
-- 在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序 
+`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
 
-### [LibreraReader](https://github.com/foobnix/LibreraReader)
+![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
 
-安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
+### [Librum](https://github.com/Librum-Reader/Librum)
 
-![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
+`Librum` 是一个旨在让每个人都能轻松愉快地阅读的应用程序。它不仅仅是一个电子书阅读器，更是一个功能强大的工具。
+
+使用 `Librum`，您可以随时随地管理您的在线书库，并且可以从任何设备方便地访问它。此外，`Librum` 还提供了多种功能，如笔记、书签和文本突出显示等，同时还允许您自定义界面，使其完全适应您的需求和喜好：
+
+![Librum](https://images-1252557999.file.myqcloud.com/uPic/Librum.png) 
 
 ## 👀 资料 
 
-### [学习CSS布局](https://zh.learnlayout.com/)
+### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 
-本站教授的是现在广泛使用于网站布局领域的CSS基础：
+微软设计的机器学习课程，完全面向新手：
 
-![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
+- 时间：12周
+- 课程：25课
+- 实验：50个 
 
-### [English-Writing](https://github.com/yzy1996/English-Writing)
+### [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/index.html)
 
-本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
+Beej 的 Git 指南教程：
 
-### [Large Language Models Practical Course](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce)
+![Beejgit](https://images-1252557999.file.myqcloud.com/uPic/UAP5Fj.png)
 
-开源([Large Language Models Practical Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course))的关于大型语言模型的实践课程，通过使用 `OpenAI` 和 `Hugging Face` 库的模型进行实际操作来提供实践经验，课程主要包括：
+之前推荐过[Beej 的 C 语言超级指南](https://beej.us/guide/bgc/html/split/)，从入门到进阶，基础语法到高级特性：
 
-- Techniques and Libraries
-- Projects
-- Enterprise Solutions
+![Beej](https://images-1252557999.file.myqcloud.com/uPic/1XOLrv.png) 
 
-![large-language-models-practical-course](https://images-1252557999.file.myqcloud.com/uPic/large-language-models-practical-course.jpg)
+### [高并发的哲学原理](https://github.com/johnlui/PPHC)
 
-> 附带一个 Mac 微调大模型的文章：[A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) 
+![banner](https://images-1252557999.file.myqcloud.com/uPic/banner.jpg)
+
+`PPHC` 将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCI-E 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。 
 
 ## 🕸 网站 
 
-### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
+### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
 
-目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
+老照片修复工具，同时还提供上色和去背景功能：
 
-![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
+![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
 
-![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
+### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
 
-### [useanimations](https://useanimations.com/)
+Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
 
-前端动态 `UI` 样式集合：
+![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
 
-![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
+### [万词王](https://github.com/thunlp/WantWords)
 
-### [damngood.tools](https://damngood.tools/)
+万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
 
-开源实用工具集合：
-
-![damngood](https://images-1252557999.file.myqcloud.com/uPic/damngood.jpg) 
+![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
+官方访问地址：[wantwords.net](https://wantwords.net/)。 
 
 ## ✍️ 说明
 
