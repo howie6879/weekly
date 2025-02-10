@@ -5,102 +5,91 @@
 
 ## 🎯 项目 
 
-### [dozzle](https://github.com/amir20/dozzle)
+### [Scrapegraph](https://github.com/VinciGit00/Scrapegraph-ai)
 
-Dozzle 是一个小型轻量级应用程序，基于 Web 界面来监控 Docker 日志，不存储任何日志文件，仅用于实时监控您的容器日志：
+基于 `LLM` 大模型的 `Python` 爬虫框架：
 
-![dozzle](https://images-1252557999.file.myqcloud.com/uPic/dozzle.jpg)s 
+![scrapegraph](https://images-1252557999.file.myqcloud.com/uPic/scrapegraph.jpg) 
 
-### [kafka-ui](https://github.com/provectus/kafka-ui)
+### [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
 
-开源的 `Apache Kafka` 管理项目（Web UI）：
+为`ChatGPT/ChatGLM/LLaMA/StableLM/MOSS`等多种 `LLM` 提供了一个轻快好用的 `Web` 图形界面：
 
-![kafka-ui](https://images-1252557999.file.myqcloud.com/uPic/kafka-ui.jpg)
+![ChuanhuChatGPT](https://images-1252557999.file.myqcloud.com/uPic/ChuanhuChatGPT.jpg) 
 
-同类产品还有：[kafdrop](https://github.com/obsidiandynamics/kafdrop)。 
+### [onelist](https://github.com/msterzhang/onelist)
 
-### [DweebUI](https://github.com/lllllllillllllillll/DweebUI)
+一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序:
 
-用于管理容器的免费开源 `WebUI`，颜值不错，但是功能还不大够，值得期待：
+- alist挂载云盘后能在网页端看视频，却没有分类，没有海报墙
+- 使用webdav挂载本地后，用jellyfin或者emby刮削会下载视频截取封面导致封号
+- 用jellyfin或者emby之类，没有大带宽公网ip，在外难以访问
 
-![DweebUI](https://images-1252557999.file.myqcloud.com/uPic/DweebUI.png) 
+![onelist](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-4-5997957576333046318-y.jpg) 
 
 ## 🤖 软件 
 
-### [1Remote](https://github.com/1Remote/1Remote)
+### [pho](https://github.com/fregie/pho)
 
-`1Remote` 是一款现代化的个人远程会话管理员和启动器，使用它你可以管理从一个入口管理多种远程会话：
+一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
 
-- ⭐ 开源且免费
-- ⭐ 支持 RDP, SSH, VNC, Telnet, (S)FTP, RemoteApp 等多种协议
-- ⭐ 多屏幕、高分辨率的 RDP 支持
-- ⭐ 一键打开你的远程连接 (Alt + M)
-- ⭐ 单个服务器配置中允许存储多个地址和账号
-- ⭐ 基于选项卡的远程桌面界面、多语言、可自定义颜色主题
-- ⭐ 易于部署，仅需解压就能运行
+![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
 
-![1Remote](https://images-1252557999.file.myqcloud.com/uPic/dgLzJC.png) 
+### [vnote](https://github.com/vnotex/vnote)
 
-### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
+VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
 
-`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
+![vnote](https://images-1252557999.file.myqcloud.com/uPic/vnote.png) 
 
-![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
+### [Tai](https://github.com/Planshit/Tai)
 
-### [Librum](https://github.com/Librum-Reader/Librum)
+👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
 
-`Librum` 是一个旨在让每个人都能轻松愉快地阅读的应用程序。它不仅仅是一个电子书阅读器，更是一个功能强大的工具。
-
-使用 `Librum`，您可以随时随地管理您的在线书库，并且可以从任何设备方便地访问它。此外，`Librum` 还提供了多种功能，如笔记、书签和文本突出显示等，同时还允许您自定义界面，使其完全适应您的需求和喜好：
-
-![Librum](https://images-1252557999.file.myqcloud.com/uPic/Librum.png) 
+![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
 
 ## 👀 资料 
 
-### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
 
-微软设计的机器学习课程，完全面向新手：
+基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
 
-- 时间：12周
-- 课程：25课
-- 实验：50个 
+- NLP
+- CV
+- Time Series
 
-### [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/index.html)
+目录概览：
 
-Beej 的 Git 指南教程：
+![Pytorch](https://images-1252557999.file.myqcloud.com/uPic/kSUA40.png) 
 
-![Beejgit](https://images-1252557999.file.myqcloud.com/uPic/UAP5Fj.png)
+### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
 
-之前推荐过[Beej 的 C 语言超级指南](https://beej.us/guide/bgc/html/split/)，从入门到进阶，基础语法到高级特性：
+Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
 
-![Beej](https://images-1252557999.file.myqcloud.com/uPic/1XOLrv.png) 
+### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
 
-### [高并发的哲学原理](https://github.com/johnlui/PPHC)
+该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
 
-![banner](https://images-1252557999.file.myqcloud.com/uPic/banner.jpg)
-
-`PPHC` 将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCI-E 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。 
+![](https://images-1252557999.file.myqcloud.com/uPic/ub1GLI.jpg) 
 
 ## 🕸 网站 
 
-### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
+### [央视纪实](https://jishi.cctv.com/)
 
-老照片修复工具，同时还提供上色和去背景功能：
+央视官方纪录片大全，全部免费观看：
 
-![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
+![657d173347944](https://img.fre123.com/i/2023/12/16/657d173347944.png) 
 
-### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
+### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
 
-Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
+中国少年儿童新闻出版总社免费开放的少儿绘本网站：
 
-![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
+![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
 
-### [万词王](https://github.com/thunlp/WantWords)
+### [musicforprogramming](https://musicforprogramming.net/latest/)
 
-万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
+非常极客的背景音乐网站：
 
-![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
-官方访问地址：[wantwords.net](https://wantwords.net/)。 
+![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
 
 ## ✍️ 说明
 
