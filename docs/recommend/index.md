@@ -5,49 +5,64 @@
 
 ## 🎯 项目 
 
-### [Scrapegraph](https://github.com/VinciGit00/Scrapegraph-ai)
+### [Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)
 
-基于 `LLM` 大模型的 `Python` 爬虫框架：
+该扩展程序允许您阅读实施付费墙的（支持的）网站上的文章。您还可以将域名添加为自定义网站，并尝试绕过付费墙。类似之前推荐过的：
 
-![scrapegraph](https://images-1252557999.file.myqcloud.com/uPic/scrapegraph.jpg) 
+- https://github.com/everywall/ladder
+- https://12ft.io/
+- https://1ft.io/ 
 
-### [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
+### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
 
-为`ChatGPT/ChatGLM/LLaMA/StableLM/MOSS`等多种 `LLM` 提供了一个轻快好用的 `Web` 图形界面：
+该项目支持将微信聊天记录导出并生成网页浏览。 
 
-![ChuanhuChatGPT](https://images-1252557999.file.myqcloud.com/uPic/ChuanhuChatGPT.jpg) 
+### [toolbox](https://github.com/aoaostar/toolbox)
 
-### [onelist](https://github.com/msterzhang/onelist)
+🚀傲星工具箱，一个在线工具箱：
 
-一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序:
-
-- alist挂载云盘后能在网页端看视频，却没有分类，没有海报墙
-- 使用webdav挂载本地后，用jellyfin或者emby刮削会下载视频截取封面导致封号
-- 用jellyfin或者emby之类，没有大带宽公网ip，在外难以访问
-
-![onelist](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-4-5997957576333046318-y.jpg) 
+![toolbox](https://images-1252557999.file.myqcloud.com/uPic/toolbox.png) 
 
 ## 🤖 软件 
 
-### [pho](https://github.com/fregie/pho)
+### [localsend](https://github.com/localsend/localsend)
 
-一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
+`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
 
-![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
+![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
 
-### [vnote](https://github.com/vnotex/vnote)
+### [EyesGuard](https://github.com/avestura/EyesGuard)
 
-VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
+`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
 
-![vnote](https://images-1252557999.file.myqcloud.com/uPic/vnote.png) 
+![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
 
-### [Tai](https://github.com/Planshit/Tai)
+### [GeekDesk](https://github.com/BookerLiu/GeekDesk)
 
-👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
+小巧、美观的桌面快速启动管理工具，同时集成了 `Everything` 搜索，仅支持 `Windows`：
 
-![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
+![GeekDesk](https://images-1252557999.file.myqcloud.com/uPic/GeekDesk.png) 
 
 ## 👀 资料 
+
+### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
+
+重新分类 Leetcode 高频题 2021 版
+
+- 题目按照面试频率降序排列
+- 增加难度分类，适合从简单开始学习
+- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
+
+### [secguide](https://github.com/Tencent/secguide)
+
+面向开发人员梳理的代码安全指南，规范索引如下：
+
+- C/C++安全指南
+- JavaScript安全指南
+- Node安全指南
+- Go安全指南
+- Java安全指南
+- Python安全指南 
 
 ### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
 
@@ -61,35 +76,25 @@ VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台
 
 ![Pytorch](https://images-1252557999.file.myqcloud.com/uPic/kSUA40.png) 
 
-### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
-
-Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
-
-### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
-
-该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
-
-![](https://images-1252557999.file.myqcloud.com/uPic/ub1GLI.jpg) 
-
 ## 🕸 网站 
 
-### [央视纪实](https://jishi.cctv.com/)
+### [中国科学技术大学测速网站](https://test.ustc.edu.cn/)
 
-央视官方纪录片大全，全部免费观看：
+测试使用网络的上传下载速度等信息：
 
-![657d173347944](https://img.fre123.com/i/2023/12/16/657d173347944.png) 
+![test-ustc](https://images-1252557999.file.myqcloud.com/uPic/test-ustc.jpg) 
 
-### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
+### [macosicongallery](https://www.macosicongallery.com/)
 
-中国少年儿童新闻出版总社免费开放的少儿绘本网站：
+专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
 
-![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
+![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
 
-### [musicforprogramming](https://musicforprogramming.net/latest/)
+### [stockai.trade](https://stockai.trade)
 
-非常极客的背景音乐网站：
-
-![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
+ `AI` 选股分析网站（基于 `ChatGPT`）完全免费，无需注册:
+ 
+ ![stockai](https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg) 
 
 ## ✍️ 说明
 
