@@ -5,96 +5,85 @@
 
 ## 🎯 项目 
 
-### [Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)
+### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
 
-该扩展程序允许您阅读实施付费墙的（支持的）网站上的文章。您还可以将域名添加为自定义网站，并尝试绕过付费墙。类似之前推荐过的：
+`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
 
-- https://github.com/everywall/ladder
-- https://12ft.io/
-- https://1ft.io/ 
+![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
 
-### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
+### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
 
-该项目支持将微信聊天记录导出并生成网页浏览。 
+抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
 
-### [toolbox](https://github.com/aoaostar/toolbox)
+![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
 
-🚀傲星工具箱，一个在线工具箱：
+### [cloud_dns_exporter](https://github.com/eryajf/cloud_dns_exporter)
 
-![toolbox](https://images-1252557999.file.myqcloud.com/uPic/toolbox.png) 
+周刊群友**二丫讲梵**的开源项目，自动获取 DNS 提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为 Prometheus Metrics。已支持：Tencent，Aliyun，Godaddy，Aws：
+
+![G6dYsS](https://images-1252557999.file.myqcloud.com/uPic/G6dYsS.png) 
 
 ## 🤖 软件 
 
-### [localsend](https://github.com/localsend/localsend)
+### [namida](https://github.com/namidaco/namida)
 
-`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
+一个美观且功能丰富的音乐和视频播放器，支持 `Youtube`，基于 `Flutter` 技术构建：
 
-![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
+![namida](https://images-1252557999.file.myqcloud.com/uPic/namida.jpg) 
 
-### [EyesGuard](https://github.com/avestura/EyesGuard)
+### [notepad--](https://github.com/cxasm/notepad--)
 
-`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
+这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
 
-![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
+> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
 
-### [GeekDesk](https://github.com/BookerLiu/GeekDesk)
+![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
 
-小巧、美观的桌面快速启动管理工具，同时集成了 `Everything` 搜索，仅支持 `Windows`：
+### [codeapp](https://github.com/thebaselab/codeapp)
 
-![GeekDesk](https://images-1252557999.file.myqcloud.com/uPic/GeekDesk.png) 
+为 `iPad` 构建一个成熟的代码编辑器：
+
+![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
 
 ## 👀 资料 
 
-### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
+### [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note)
 
-重新分类 Leetcode 高频题 2021 版
+从0开始学习英语语法的开源项目：
 
-- 题目按照面试频率降序排列
-- 增加难度分类，适合从简单开始学习
-- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
+![english-note](https://images-1252557999.file.myqcloud.com/uPic/english-note.jpg) 
 
-### [secguide](https://github.com/Tencent/secguide)
+### [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
 
-面向开发人员梳理的代码安全指南，规范索引如下：
+本仓库是手册《简单粗暴LaTeX》的开源仓库。本书涵盖了LaTeX的基本使用场景，以简明的例子来展现各命令的用法：
 
-- C/C++安全指南
-- JavaScript安全指南
-- Node安全指南
-- Go安全指南
-- Java安全指南
-- Python安全指南 
+![Note-by-LaTeX](https://images-1252557999.file.myqcloud.com/uPic/Note-by-LaTeX.jpg)
 
-### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
+在开源仓库可直接下载阅读。 
 
-基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
+### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
 
-- NLP
-- CV
-- Time Series
-
-目录概览：
-
-![Pytorch](https://images-1252557999.file.myqcloud.com/uPic/kSUA40.png) 
+从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
 
 ## 🕸 网站 
 
-### [中国科学技术大学测速网站](https://test.ustc.edu.cn/)
+### [shell.how](https://www.shell.how/)
 
-测试使用网络的上传下载速度等信息：
+网站用优雅的交互和排版告诉你Linux命令的作用：
 
-![test-ustc](https://images-1252557999.file.myqcloud.com/uPic/test-ustc.jpg) 
+![shell_howe](https://images-1252557999.file.myqcloud.com/uPic/shell_howe.jpg) 
 
-### [macosicongallery](https://www.macosicongallery.com/)
+### [CronTool](https://tool.crontap.com/cronjob-debugger)
 
-专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
+`Linux Crontab` 可视化网站：
 
-![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
+![crontap](https://images-1252557999.file.myqcloud.com/uPic/crontap.jpg) 
 
-### [stockai.trade](https://stockai.trade)
+### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
 
- `AI` 选股分析网站（基于 `ChatGPT`）完全免费，无需注册:
- 
- ![stockai](https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg) 
+@妙才投稿，在线学习git命令的网站：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
 
 ## ✍️ 说明
 
