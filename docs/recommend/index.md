@@ -5,85 +5,87 @@
 
 ## 🎯 项目 
 
-### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
+### [tiptop](https://github.com/nschloe/tiptop)
 
-`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
+类似`htop`的命令行系统资源监控工具：
 
-![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
+![tiptop](https://images-1252557999.file.myqcloud.com/uPic/tiptop.png) 
 
-### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
+### [questdb](https://github.com/questdb/questdb)
 
-抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
+QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
 
-![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
+特别是针对时间序列数据做了处理：
 
-### [cloud_dns_exporter](https://github.com/eryajf/cloud_dns_exporter)
+![questdb](https://images-1252557999.file.myqcloud.com/uPic/Sbq9WK.jpg) 
 
-周刊群友**二丫讲梵**的开源项目，自动获取 DNS 提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为 Prometheus Metrics。已支持：Tencent，Aliyun，Godaddy，Aws：
+### [Dasherr](https://github.com/erohtar/Dasherr)
 
-![G6dYsS](https://images-1252557999.file.myqcloud.com/uPic/G6dYsS.png) 
+简单轻量自部署的仪表盘工具：
+
+![Dasherr](https://images-1252557999.file.myqcloud.com/uPic/Dasherr.png) 
 
 ## 🤖 软件 
 
-### [namida](https://github.com/namidaco/namida)
+### [readest](https://github.com/chrox/readest)
 
-一个美观且功能丰富的音乐和视频播放器，支持 `Youtube`，基于 `Flutter` 技术构建：
+`Readest` 是一个现代化、功能丰富的电子书阅读器，旨在为读者提供无缝的跨平台访问体验、强大的工具和直观的界面，以提升阅读体验。
 
-![namida](https://images-1252557999.file.myqcloud.com/uPic/namida.jpg) 
+![readest](https://images-1252557999.file.myqcloud.com/uPic/v41zIg.png) 
 
-### [notepad--](https://github.com/cxasm/notepad--)
+### [linearmouse](https://github.com/linearmouse/linearmouse)
 
-这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
+`Mac` 的鼠标和触控板实用工具，可以为你的鼠标和触控板定制不同的参数：
 
-> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
+![linearmouse](https://images-1252557999.file.myqcloud.com/uPic/linearmouse.jpg) 
 
-![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
+### [Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT)
 
-### [codeapp](https://github.com/thebaselab/codeapp)
+一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频:
 
-为 `iPad` 构建一个成熟的代码编辑器：
-
-![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
+![Chenyme-AAVT](https://images-1252557999.file.myqcloud.com/uPic/Chenyme-AAVT.jpg) 
 
 ## 👀 资料 
 
-### [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note)
+### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
 
-从0开始学习英语语法的开源项目：
+有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
 
-![english-note](https://images-1252557999.file.myqcloud.com/uPic/english-note.jpg) 
+![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
 
-### [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
+### [Linux 101](https://101.lug.ustc.edu.cn/)
 
-本仓库是手册《简单粗暴LaTeX》的开源仓库。本书涵盖了LaTeX的基本使用场景，以简明的例子来展现各命令的用法：
+本书由中国科学技术大学 Linux 用户协会的数名优秀成员协力编写，用于配套和延展“Linux 101”校内社团活动。其面向 Linux 零基础读者，从计算机操作系统和 Linux 的起源讲起，深入浅出带领读者一步步逐渐掌握最必要的 Linux 实用知识，并在其中感悟到社区开源文化的魅力：
 
-![Note-by-LaTeX](https://images-1252557999.file.myqcloud.com/uPic/Note-by-LaTeX.jpg)
+![Linux101-docs](https://images-1252557999.file.myqcloud.com/uPic/Linux101-docs.jpg) 
 
-在开源仓库可直接下载阅读。 
+### [devtoolstips](https://devtoolstips.org/)
 
-### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
+一系列简单易懂的跨浏览器技巧和窍门，让你在使用开发者工具时更加得心应手和高效：
 
-从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
+![devtoolstips](https://images-1252557999.file.myqcloud.com/uPic/vHP9UU.png) 
 
 ## 🕸 网站 
 
-### [shell.how](https://www.shell.how/)
+### [it-tools](https://it-tools.tech/)
 
-网站用优雅的交互和排版告诉你Linux命令的作用：
+面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
 
-![shell_howe](https://images-1252557999.file.myqcloud.com/uPic/shell_howe.jpg) 
+![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
 
-### [CronTool](https://tool.crontap.com/cronjob-debugger)
+也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
 
-`Linux Crontab` 可视化网站：
+### [pingli.app](https://www.pingli.app/)
 
-![crontap](https://images-1252557999.file.myqcloud.com/uPic/crontap.jpg) 
+说出你们的分歧，让7位 `AI` 裁判评评理，挺有意思：
 
-### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
+![pingli.app](https://images-1252557999.file.myqcloud.com/uPic/1gX0NC.png) 
 
-@妙才投稿，在线学习git命令的网站：
+### [jsont.run](https://www.jsont.run/)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
+一个简洁的在线 `JSON` 解析器：
+
+![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
 
 ## ✍️ 说明
 
