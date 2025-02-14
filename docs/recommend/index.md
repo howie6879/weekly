@@ -5,87 +5,101 @@
 
 ## 🎯 项目 
 
-### [tiptop](https://github.com/nschloe/tiptop)
+### [carbonyl](https://github.com/fathyb/carbonyl)
 
-类似`htop`的命令行系统资源监控工具：
+在你的终端使用 `Chromium`：
 
-![tiptop](https://images-1252557999.file.myqcloud.com/uPic/tiptop.png) 
+![carbonyl](https://images-1252557999.file.myqcloud.com/uPic/carbonyl.jpg) 
 
-### [questdb](https://github.com/questdb/questdb)
+### [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
 
-QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
+一个大模型 `AI` 网关项目，只需要通过项目提供的一个接口，就可以快速连接到100多个 `LLM`：
 
-特别是针对时间序列数据做了处理：
+- 极速（快9.9倍），占用空间小（安装后约45kb）
+- 在多个模型、提供者和密钥之间进行负载均衡
+- 备选方案确保您的应用程序具有弹性
+- 默认情况下，自动重试并采用指数回退策略
+- 根据需要添加插件中间件
+- 经过1000亿次 Token 的实战考验
 
-![questdb](https://images-1252557999.file.myqcloud.com/uPic/Sbq9WK.jpg) 
+  
+![ai-gateway](https://images-1252557999.file.myqcloud.com/uPic/ai-gateway.jpg)
+  
+同类型项目可以参考：[One API👉通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 ✨](https://github.com/songquanpeng/one-api) 
 
-### [Dasherr](https://github.com/erohtar/Dasherr)
+### [Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals)
 
-简单轻量自部署的仪表盘工具：
+黑五 Mac IOS 生态相关软件打折软件汇总项目：
 
-![Dasherr](https://images-1252557999.file.myqcloud.com/uPic/Dasherr.png) 
+![Black-Friday-Deals](https://images-1252557999.file.myqcloud.com/uPic/Black-Friday-Deals.png) 
 
 ## 🤖 软件 
 
-### [readest](https://github.com/chrox/readest)
+### [listen1_desktop](https://github.com/listen1/listen1_desktop)
 
-`Readest` 是一个现代化、功能丰富的电子书阅读器，旨在为读者提供无缝的跨平台访问体验、强大的工具和直观的界面，以提升阅读体验。
+Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单，支持音乐平台：
 
-![readest](https://images-1252557999.file.myqcloud.com/uPic/v41zIg.png) 
+- 网易云音乐
+- QQ 音乐
+- 酷狗音乐
+- 酷我音乐
+- bilibili
+- 咪咕音乐
+- 千千音乐
 
-### [linearmouse](https://github.com/linearmouse/linearmouse)
+![listen1_desktop](https://images-1252557999.file.myqcloud.com/uPic/listen1_desktop.png) 
 
-`Mac` 的鼠标和触控板实用工具，可以为你的鼠标和触控板定制不同的参数：
+### [sourcegit](https://github.com/sourcegit-scm/sourcegit)
 
-![linearmouse](https://images-1252557999.file.myqcloud.com/uPic/linearmouse.jpg) 
+一个跨平台的 `GUI` 客户端：
 
-### [Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT)
+![sourcegit](https://images-1252557999.file.myqcloud.com/uPic/yC8OCO.png) 
 
-一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频:
+### [eaio](https://github.com/WankkoRee/eaio)
 
-![Chenyme-AAVT](https://images-1252557999.file.myqcloud.com/uPic/Chenyme-AAVT.jpg) 
+一个通过将磁盘上所有 `Electron` 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 `pnpm` 一样:
+
+![eaio](https://images-1252557999.file.myqcloud.com/uPic/eaio.png) 
 
 ## 👀 资料 
 
-### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
 
-![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
-### [Linux 101](https://101.lug.ustc.edu.cn/)
+### [英语提升指南](https://vvyst0z7tes.feishu.cn/wiki/HQuawZepyiwNiNkImw6c00IXnmc)
 
-本书由中国科学技术大学 Linux 用户协会的数名优秀成员协力编写，用于配套和延展“Linux 101”校内社团活动。其面向 Linux 零基础读者，从计算机操作系统和 Linux 的起源讲起，深入浅出带领读者一步步逐渐掌握最必要的 Linux 实用知识，并在其中感悟到社区开源文化的魅力：
+基于南加州大学的荣休教授斯蒂芬.克拉申（Stephen D。Krashen）博士的假说理论，为不同水平的英语自学者提供了结构化的学习路径。
 
-![Linux101-docs](https://images-1252557999.file.myqcloud.com/uPic/Linux101-docs.jpg) 
+![英语提升指南](https://images-1252557999.file.myqcloud.com/uPic/uxM2zV.png) 
 
-### [devtoolstips](https://devtoolstips.org/)
+### [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 
-一系列简单易懂的跨浏览器技巧和窍门，让你在使用开发者工具时更加得心应手和高效：
+《[初创公司CTO手册](https://docs.google.com/document/d/147KVarJdNQ2ZdmDHOSsd7W39anejRu2NfxEWCzwl0IU/edit?pli=1)》是一本涵盖软件工程团队领导力、管理和技术主题的书籍。旨在为技术团队领导力提供指导，内容涵盖业务流程、人员管理、招聘面试、入职培训、绩效管理、团队构成、领导责任等多个方面：
 
-![devtoolstips](https://images-1252557999.file.myqcloud.com/uPic/vHP9UU.png) 
+![ctohb](https://images-1252557999.file.myqcloud.com/uPic/ctohb.jpg) 
 
 ## 🕸 网站 
 
-### [it-tools](https://it-tools.tech/)
+### [onepdf](https://www.onepdf.online/)
 
-面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
+免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
 
-![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
+![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
 
-也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
+### [ouchn](https://le.ouchn.cn/#/home)
 
-### [pingli.app](https://www.pingli.app/)
+国家开放大学终身教育平台正式上线，面向社会免费开放。该平台汇聚国家开放大学自建学习资源，338所知名高校课程资源免费开放、10个头部平台的特色课程等共计50万门，包含生活、职场、学历、兴趣等不同领域的课程。致力于满足社会大众多元化、个性化学习需求。
 
-说出你们的分歧，让7位 `AI` 裁判评评理，挺有意思：
+![ouchn](https://images-1252557999.file.myqcloud.com/uPic/ouchn.jpg) 
 
-![pingli.app](https://images-1252557999.file.myqcloud.com/uPic/1gX0NC.png) 
+### [etempmail](https://etempmail.com/zh)
 
-### [jsont.run](https://www.jsont.run/)
+一个免费提供临时电子邮件服务的网站，可以用来注册并获取需要教育邮箱才能获取的福利。
 
-一个简洁的在线 `JSON` 解析器：
-
-![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
+![edu_mail](https://images-1252557999.file.myqcloud.com/uPic/edu_mail.png) 
 
 ## ✍️ 说明
 
