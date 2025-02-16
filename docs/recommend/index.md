@@ -5,92 +5,83 @@
 
 ## 🎯 项目 
 
-### [iptables-web](https://github.com/pretty66/iptables-web)
-
-`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
-
-![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
-
 ### [form-create-designer](https://github.com/xaboy/form-create-designer)
 
 `form-create-designer` 是基于 [@form-create/element-ui](https://github.com/xaboy/form-create) 实现的表单设计器组件。可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率，节省开发者的时间：
 
 ![form-create-designer](https://images-1252557999.file.myqcloud.com/uPic/form-create-designer.png) 
 
-### [picx](https://github.com/XPoet/picx "picx")
+### [hoarder](https://github.com/hoarder-app/hoarder)
 
-`PicX` 是一款基于 `GitHub API` 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务：
+为数据收藏者开发的管理程序，可自建，有一定 `AI` 能力：
 
-![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg)
+![hoarder](https://images-1252557999.file.myqcloud.com/uPic/hoarder.jpg) 
 
-类似项目：
+### [oh-my-wechat](https://github.com/chclt/oh-my-wechat/)
 
-- [telegraph](https://github.com/0-RTT/telegraph "telegraph")
-- [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image "Telegraph-Image"):免费图片托管解决方案，`Flickr/imgur` 替代品
-- [rao-pics](https://github.com/meetqy/rao-pics "rao-pics"):利用 `Eagle APP` 快速搭建图片站、
+开源项目，微信消息备份与年度数据报告：
 
-但是老胡建议不要滥用，这种也不稳定，自己偶尔测试需要可以使用一下，推荐出来也是让朋友们多个选择。我推荐自建图床：
-
-- [lsky-pro](https://github.com/lsky-org/lsky-pro "lsky-pro")：兰空图床
-- [EasyImages2.0](https://github.com/icret/EasyImages2.0 "EasyImages2.0")：简单图床 - 一款功能强大无数据库的图床 2.0 版
-- [PicList](https://github.com/Kuingsmile/PicList "PicList")：图片上传 云存储管理
-- [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed "quickly-picture-bed")：轻快图床：使用 nestjs+vue3.x+ts+vite 开发的在线图床系统，内置功能包括图片上传、图片管理、存储桶管理、相册管理、插件市场、知识库管理、数据统计等功能 
+![oh-my-wechat](https://images-1252557999.file.myqcloud.com/uPic/JXAGlQ.png) 
 
 ## 🤖 软件 
 
-### [EyesGuard](https://github.com/avestura/EyesGuard)
+### [pixzip-lite](https://github.com/richhost/pixzip-lite)
 
-`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
+一款快速、免费的图片压缩软件，支持 `JPG / PNG / WebP / AVIF` 等主流格式，支持 `Windows 10+，macOS 11+` 操作系统。
 
-![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
+![pixzip](https://images-1252557999.file.myqcloud.com/uPic/pixzip.jpg) 
 
-### [antares](https://github.com/Fabio286/antares)
+### [pho](https://github.com/fregie/pho)
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
+一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
 
-### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
+### mizu
 
-`Diffusion Bee`是在 `M1 Mac`上本地运行 `Stable Diffusion` 的最简单方法，附带一键安装程序，不需要依赖性或技术知识：
+微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
 
-![diffusionbee](https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg) 
+![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
 
 ## 👀 资料 
 
-### [SystemDesign](https://github.com/Admol/SystemDesign)
+### [LLMBook-zh](https://llmbook-zh.github.io/)
 
-系统设计面试：内幕指南：
+大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
 
-![SystemDesign](https://images-1252557999.file.myqcloud.com/uPic/PrOe1t.png) 
+![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
 
-### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
+### [Python源码剖析](https://fasionchan.com/python-source/)
 
-Go语言实战: 编写可维护Go语言代码建议。 
+本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
 
-### [Recommender_System](https://github.com/solidglue/Recommender_System)
+![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
 
-推荐系统入门指南，全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。 
+### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+
+30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
+
+![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
 
 ## 🕸 网站 
 
-### [uipatterns](http://uipatterns.io)
+### [openart.ai](https://openart.ai/)
 
-程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
+基于 `DALL E 2、Midjourney、SD` 生成的1000多万图片搜索网站：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/uipatterns.jpg) 
+![openart](https://images-1252557999.file.myqcloud.com/uPic/openart.jpg) 
 
-### [v0.dev](https://v0.dev/)
+### [动漫新番表](https://www.fre123.com/anime/n)
 
-描述生成 UI，一个 AI 大模型驱动的 UI 设计网站，很不错：
+继上周做了[动漫搜索引擎](https://www.fre123.com/anime/s)后，老胡这次整了个动漫新番信息记录网站，新番信息脚本和数据都是开源的👉[fre123-anime](https://github.com/fre123-com/fre123-anime)，欢迎体验：
 
-![v0_dev](https://images-1252557999.file.myqcloud.com/uPic/v0_dev.jpg) 
+![fre123_anime_n](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime_n.jpg) 
 
-### [fulltime.ai](https://fulltime.ai/spaces/)
+### [allthingsai](https://allthingsai.com/)
 
-搜索体验 288个 `HuggingFace` 空间 `GPU` 上运行的项目：
+提供完整的 `AI` 相关工具&服务资源：
 
-![fulltime_ai](https://images-1252557999.file.myqcloud.com/uPic/fulltime_ai.jpg) 
+![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
 
 ## ✍️ 说明
 
