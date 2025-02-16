@@ -12,7 +12,74 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 09 Feb 2025 02:39:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 09:00:49 +0000</lastBuildDate>
+    <item>
+      <title>02-10~02-16.老胡的周刊（第177期）.md</title>
+      <link>https://weekly.howie6879.com/2025/02-10~02-16.老胡的周刊（第177期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/02-10~02-16.老胡的周刊（第177期）.html"&gt;02-10~02-16.老胡的周刊（第177期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/getasterisk/deepclaude"&gt;deepclaude&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Aider&lt;/code&gt; 团队最新研究通过&lt;a href="https://aider.chat/2025/01/24/r1-sonnet.html"&gt;采用 DeepSeek R1 + Claude 3.5 Sonnet&lt;/a&gt; 可以实现最好的效果：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="deepclaude-web" src="https://images-1252557999.file.myqcloud.com/uPic/xFt7fe.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="deepclaude" src="https://images-1252557999.file.myqcloud.com/uPic/MNsnRO.png" /&gt;&lt;/p&gt;
+&lt;p&gt;相关资料：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://aider.chat/2025/01/24/r1-sonnet.html"&gt;R1+Sonnet set SOTA on aider’s polyglot benchmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/ErlichLiu/DeepClaude"&gt;第三方 Python 实现&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href="https://github.com/browser-use/web-ui"&gt;browser-use/web-ui&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;让 AI 助手控制你的浏览器，浏览器中运行 AI 代理，提供用户友好的 Web 界面，支持多种大型语言模型，并允许使用自定义浏览器进行交互：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="web-ui" src="https://images-1252557999.file.myqcloud.com/uPic/DVMAQC.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/InternLM/MindSearch"&gt;MindSearch&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源的 Web 搜索引擎框架，它利用大型语言模型（LLM）和多智能体架构来提供高级搜索功能。该项目支持多种搜索引擎，如 &lt;code&gt;DuckDuckGo、Bing、Brave &amp;amp; Google&lt;/code&gt;，您可以轻松部署它来构建您自己的搜索引擎：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="MindSearch" src="https://images-1252557999.file.myqcloud.com/uPic/8Q3zZx.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Hacker233/resume-design"&gt;resume-design&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一款开源免费的简历制作神器，支持导出超高清 PDF、图片、源码级 JSON 数据等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="resume-design" src="https://images-1252557999.file.myqcloud.com/uPic/y8rbsD.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/CherryHQ/cherry-studio"&gt;cherry-studio&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Cherry Studio&lt;/code&gt; 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="cherry-studio" src="https://images-1252557999.file.myqcloud.com/uPic/v2u7fo.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="cherry-studio-feature" src="https://images-1252557999.file.myqcloud.com/uPic/7o3Iem.png" /&gt;&lt;/p&gt;
+&lt;p&gt;好用，冲就对了。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/NitroRCr/AIaW"&gt;AIaW&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;AI as Workspace&lt;/code&gt; - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="AIaW" src="https://images-1252557999.file.myqcloud.com/uPic/n5l83s.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/DeepLifeStudio/DeepSeekAI"&gt;DeepSeekAI&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;DeepSeekAI 是一款非官方的浏览器扩展插件，基于 DeepSeek API，为用户提供智能的网页交互体验。通过简单的文本选择，即可获得 AI 驱动的实时响应，让您的网页浏览体验更加智能和高效。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="DeepSeekAI" src="https://images-1252557999.file.myqcloud.com/uPic/ip7gfT.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://books.leeao.net/"&gt;大李敖全集5.0&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;大李敖全集：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="leeao" src="https://images-1252557999.file.myqcloud.com/uPic/UDFeW1.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Acmesec/theAIMythbook"&gt;Ai迷思录&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;涵盖了人工智能的基础知识、法律法规、经典人工智能模型、漏洞与攻击、防御方法、安全开发与运维、相关框架、会议讲座以及实践技能等。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="theAIMythbook" src="https://images-1252557999.file.myqcloud.com/uPic/lPbVPg.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://deepseek-r1-online.com/chat/"&gt;deepseek-r1-online.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;免费的满血 &lt;code&gt;deepseek-r1&lt;/code&gt; 在线版，&lt;a href="https://mp.weixin.qq.com/s/dPicExymBomcksvijPNNKg"&gt;老胡 DeepSeek 信息交流群&lt;/a&gt;友情提供共享，放心使用：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="deepseek-r1-online.co" src="https://images-1252557999.file.myqcloud.com/uPic/xrfA9j.png" /&gt;&lt;/p&gt;
+&lt;p&gt;老胡也顺便整理了一些教程：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://mp.weixin.qq.com/s/dPicExymBomcksvijPNNKg"&gt;简单教程: 两步获取专属满血 DeepSeek-R1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.biji.com/note/1867969552567120872/web"&gt;DeepSeek-R1 联网功能实现方案攻略&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">02-10~02-16.老胡的周刊（第177期）.md</guid>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>01-20~02-08.老胡的周刊（第176期）.md</title>
       <link>https://weekly.howie6879.com/2025/01-20~02-08.老胡的周刊（第176期）.html</link>
@@ -1188,67 +1255,6 @@
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">09-02~09-07.老胡的周刊（第158期）.md</guid>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>08-26~09-01.老胡的周刊（第157期）.md</title>
-      <link>https://weekly.howie6879.com/2024/08-26~09-01.老胡的周刊（第157期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/08-26~09-01.老胡的周刊（第157期）.html"&gt;08-26~09-01.老胡的周刊（第157期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/dreammis/social-auto-upload"&gt;social-auto-upload&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="social-auto-upload" src="https://images-1252557999.file.myqcloud.com/uPic/social-auto-upload.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/wanglin2/mind-map"&gt;mind-map&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;在线版思维导图应用：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="mind-map" src="https://images-1252557999.file.myqcloud.com/uPic/mind-map.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/itsOwen/CyberScraper-2077"&gt;CyberScraper-2077&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;CyberScraper-2077&lt;/code&gt; 是一个由 OpenAI 和 Ollama 支持的强大的 AI 驱动网页爬虫工具，提供了多种特性和功能，如用户友好的 Streamlit 界面、多格式数据导出、隐身模式、异步操作、智能解析等，旨在高效、隐蔽地从网络中提取数据：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="CyberScraper" src="https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-09-01_11-56-36.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/seadfeng/favicon-downloader"&gt;favicon-downloader&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;免费获取网站 &lt;code&gt;favicon&lt;/code&gt; 的工具:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="faviconextractor" src="https://images-1252557999.file.myqcloud.com/uPic/faviconextractor.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Predidit/oneAnime"&gt;oneAnime&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="oneAnime" src="https://images-1252557999.file.myqcloud.com/uPic/oneAnime.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/aehyok/video2blog"&gt;video2blog&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;视频转图文 AI 跨平台客户端：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;输入视频url之后&lt;/li&gt;
-&lt;li&gt;先通过yt-dlp解析视频url获取视频信息&lt;/li&gt;
-&lt;li&gt;通过yt-dlp下载视频&lt;/li&gt;
-&lt;li&gt;如果存在字幕，则直接进行下载&lt;/li&gt;
-&lt;li&gt;可能是非中文字幕，则需要进行翻译字幕&lt;/li&gt;
-&lt;li&gt;如果不存在字幕，则通过whisper来生成字幕文件，并翻译为中文&lt;/li&gt;
-&lt;li&gt;然后通过gemini将字幕转换为文章。并将视频中的图片进行提取，手动插入到文章中&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;a href="https://github.com/flytkgl/PDFQFZ"&gt;PDFQFZ&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;PDF加盖骑缝章的小工具，选择需要盖章的PDF文件或文件夹。 选择保存文件夹。 导入完整的印章图片,工具会根据PDF页数做随机分割。 设定印章大小,骑缝章位置,印章位置等 点盖章，骚等后在保存文件夹中即可看到盖好骑缝章的PDF文件。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="pdfqfz" src="https://images-1252557999.file.myqcloud.com/uPic/pdfqfz.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/NirDiamant/RAG_Techniques"&gt;RAG_Techniques&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://readecho.cn/"&gt;readecho.cn&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;只需几步轻松获取并保存微信读书笔记，自定义你的笔记回顾方式，不错过每一个阅读瞬间，&lt;a href="https://github.com/mundane799699/readecho-web"&gt;前端代码开源&lt;/a&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="readecho" src="https://images-1252557999.file.myqcloud.com/uPic/readecho.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://www.logo.surf/#generate-favicon"&gt;logo.surf&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;快速创建图标：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="logo_surf" src="https://images-1252557999.file.myqcloud.com/uPic/logo_surf.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">08-26~09-01.老胡的周刊（第157期）.md</guid>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
