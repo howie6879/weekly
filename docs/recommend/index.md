@@ -5,91 +5,92 @@
 
 ## 🎯 项目 
 
-### [Message-Push-Nest](https://github.com/engigu/Message-Push-Nest)
+### [iptables-web](https://github.com/pretty66/iptables-web)
 
-打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义 `webhook` 等多种通知方式。定制你的消息，让通知方式更灵活多样。
+`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
 
+![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
 
-![Message-Push-Nest](https://images-1252557999.file.myqcloud.com/uPic/Message-Push-Nest.jpg) 
+### [form-create-designer](https://github.com/xaboy/form-create-designer)
 
-### [naive-ui](https://github.com/tusen-ai/naive-ui)
+`form-create-designer` 是基于 [@form-create/element-ui](https://github.com/xaboy/form-create) 实现的表单设计器组件。可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率，节省开发者的时间：
 
-一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
+![form-create-designer](https://images-1252557999.file.myqcloud.com/uPic/form-create-designer.png) 
 
-![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
+### [picx](https://github.com/XPoet/picx "picx")
 
-### [icefox](https://github.com/xiaopanglian/icefox)
+`PicX` 是一款基于 `GitHub API` 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务：
 
-`Typecho` 微信朋友圈主题:
+![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg)
 
-![icefox](https://images-1252557999.file.myqcloud.com/uPic/icefox.jpg) 
+类似项目：
+
+- [telegraph](https://github.com/0-RTT/telegraph "telegraph")
+- [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image "Telegraph-Image"):免费图片托管解决方案，`Flickr/imgur` 替代品
+- [rao-pics](https://github.com/meetqy/rao-pics "rao-pics"):利用 `Eagle APP` 快速搭建图片站、
+
+但是老胡建议不要滥用，这种也不稳定，自己偶尔测试需要可以使用一下，推荐出来也是让朋友们多个选择。我推荐自建图床：
+
+- [lsky-pro](https://github.com/lsky-org/lsky-pro "lsky-pro")：兰空图床
+- [EasyImages2.0](https://github.com/icret/EasyImages2.0 "EasyImages2.0")：简单图床 - 一款功能强大无数据库的图床 2.0 版
+- [PicList](https://github.com/Kuingsmile/PicList "PicList")：图片上传 云存储管理
+- [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed "quickly-picture-bed")：轻快图床：使用 nestjs+vue3.x+ts+vite 开发的在线图床系统，内置功能包括图片上传、图片管理、存储桶管理、相册管理、插件市场、知识库管理、数据统计等功能 
 
 ## 🤖 软件 
 
-### [marktext](https://github.com/marktext/marktext)
+### [EyesGuard](https://github.com/avestura/EyesGuard)
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
 
-![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
+![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
 
-### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+### [antares](https://github.com/Fabio286/antares)
 
-`Android` 平台下 `MD` 风格的文件管理器:
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
-### [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop)
+### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 
-基于 `tauri + vue3` 开发的跨平台桌面端应用，当今社会，智能化、便捷化已经成为趋势。选择 ChatGPT-Desktop，您将享受到以下优势：
+`Diffusion Bee`是在 `M1 Mac`上本地运行 `Stable Diffusion` 的最简单方法，附带一键安装程序，不需要依赖性或技术知识：
 
-- 我们使用 tauri 构建项目，使项目包更加小巧精简，资源占用更少，同时适配多个平台。
-- 提供了配置代理的功能，您可以通过设置代理来实现更加灵活的网络访问。
-- 可以选择让 app 常驻后台，快捷键(支持自定义)一键唤醒，节省时间，提高效率。
-- 支持多 session 对话，利用 GPT-3.5-turbo 的最新特性，配合记忆模式，随时继续上一次对话。
-- 更便捷的管理和调试 prompt，构建你自己的角色预设库，使得对话更加个性化。
-- 内置丰富的导出功能，更加便利的分享结果！
-- 软件支持自动更新和手动检查更新的功能，以便大家更方便地更新软件。
-- 将所有对话存储到本地，方便随时查阅，留在身边最安心。
-
-![ChatGPT-Desktop](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Desktop.png) 
+![diffusionbee](https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg) 
 
 ## 👀 资料 
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+### [SystemDesign](https://github.com/Admol/SystemDesign)
 
-夯实计算机基础，该怎么学，这个项目给出了答案：
+系统设计面试：内幕指南：
 
-![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
+![SystemDesign](https://images-1252557999.file.myqcloud.com/uPic/PrOe1t.png) 
 
-### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
+### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
 
-`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
+Go语言实战: 编写可维护Go语言代码建议。 
 
-![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
+### [Recommender_System](https://github.com/solidglue/Recommender_System)
 
-### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
-
-一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
+推荐系统入门指南，全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。 
 
 ## 🕸 网站 
 
-### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
+### [uipatterns](http://uipatterns.io)
 
-一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
+程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
 
-![shanshui-inf](https://images-1252557999.file.myqcloud.com/uPic/shanshui-inf.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/uipatterns.jpg) 
 
-### [selfh](https://selfh.st/)
+### [v0.dev](https://v0.dev/)
 
-网站提供了可自建项目的动态，每周更新：
+描述生成 UI，一个 AI 大模型驱动的 UI 设计网站，很不错：
 
-![selfh](https://images-1252557999.file.myqcloud.com/uPic/jVlzyp.png) 
+![v0_dev](https://images-1252557999.file.myqcloud.com/uPic/v0_dev.jpg) 
 
-### [screenshot](https://screenshot.rocks/)
+### [fulltime.ai](https://fulltime.ai/spaces/)
 
-快速创建精美的移动和浏览器屏幕截图：
+搜索体验 288个 `HuggingFace` 空间 `GPU` 上运行的项目：
 
-![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
+![fulltime_ai](https://images-1252557999.file.myqcloud.com/uPic/fulltime_ai.jpg) 
 
 ## ✍️ 说明
 
