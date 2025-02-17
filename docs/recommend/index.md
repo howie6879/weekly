@@ -5,83 +5,86 @@
 
 ## 🎯 项目 
 
-### [form-create-designer](https://github.com/xaboy/form-create-designer)
+### [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
 
-`form-create-designer` 是基于 [@form-create/element-ui](https://github.com/xaboy/form-create) 实现的表单设计器组件。可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率，节省开发者的时间：
+`libretranslate` 是一个免费且开源的机器翻译API项目，完全自主托管。与其他API不同，它不依赖于像谷歌或Azure这样的专有提供商来进行翻译。相反，它的翻译引擎由开源Argos Translate库驱动：
 
-![form-create-designer](https://images-1252557999.file.myqcloud.com/uPic/form-create-designer.png) 
+![libretranslate](https://images-1252557999.file.myqcloud.com/uPic/libretranslate.jpg) 
 
-### [hoarder](https://github.com/hoarder-app/hoarder)
+### [AudioNotes](https://github.com/harry0703/AudioNotes)
 
-为数据收藏者开发的管理程序，可自建，有一定 `AI` 能力：
+基于 `FunASR&Qwen2` 构建的音视频转结构化笔记系统，能够快速提取音视频的内容，并且调用大模型进行整理，成为一份结构化的 `markdown` 笔记，方便快速阅读：
 
-![hoarder](https://images-1252557999.file.myqcloud.com/uPic/hoarder.jpg) 
+![AudioNotes](https://images-1252557999.file.myqcloud.com/uPic/AudioNotes.jpg) 
 
-### [oh-my-wechat](https://github.com/chclt/oh-my-wechat/)
+### [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
 
-开源项目，微信消息备份与年度数据报告：
+为`ChatGPT/ChatGLM/LLaMA/StableLM/MOSS`等多种 `LLM` 提供了一个轻快好用的 `Web` 图形界面：
 
-![oh-my-wechat](https://images-1252557999.file.myqcloud.com/uPic/JXAGlQ.png) 
+![ChuanhuChatGPT](https://images-1252557999.file.myqcloud.com/uPic/ChuanhuChatGPT.jpg) 
 
 ## 🤖 软件 
 
-### [pixzip-lite](https://github.com/richhost/pixzip-lite)
+### [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
 
-一款快速、免费的图片压缩软件，支持 `JPG / PNG / WebP / AVIF` 等主流格式，支持 `Windows 10+，macOS 11+` 操作系统。
+🎉 一个 `Frp Client` 跨平台桌面端：
 
-![pixzip](https://images-1252557999.file.myqcloud.com/uPic/pixzip.jpg) 
+![](https://img.fre123.com/i/2023/12/23/6586f68db0238.jpg) 
 
-### [pho](https://github.com/fregie/pho)
+### [Dozer](https://github.com/Mortennn/Dozer)
 
-一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
+隐藏菜单栏图标，使您的Mac看起来更清爽，个人一直在用的开源状态栏管理工具，`Bartender` 替代品：
 
-![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
+![Dozer](https://images-1252557999.file.myqcloud.com/uPic/Dozer.jpg) 
 
-### mizu
+### [BlogHelper](https://github.com/onblog/BlogHelper)
 
-微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
+帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
 
-![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
+![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
 
 ## 👀 资料 
 
-### [LLMBook-zh](https://llmbook-zh.github.io/)
+### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
-大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
+命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
 
-![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-### [Python源码剖析](https://fasionchan.com/python-source/)
+深度学习入门教程资料聚合项目，包含：
 
-本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
 
-![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
+![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
 
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
 
-30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
+### [react-illustration-series](https://github.com/7kms/react-illustration-series)
 
-![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
+图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
 
 ## 🕸 网站 
 
-### [openart.ai](https://openart.ai/)
+### [untools](https://untools.co/)
 
-基于 `DALL E 2、Midjourney、SD` 生成的1000多万图片搜索网站：
+一个帮助你思考的集合工具&框架：
 
-![openart](https://images-1252557999.file.myqcloud.com/uPic/openart.jpg) 
+![untools](https://images-1252557999.file.myqcloud.com/uPic/hHu9aw.png) 
 
-### [动漫新番表](https://www.fre123.com/anime/n)
+### [fmhy.net](https://fmhy.net/)
 
-继上周做了[动漫搜索引擎](https://www.fre123.com/anime/s)后，老胡这次整了个动漫新番信息记录网站，新番信息脚本和数据都是开源的👉[fre123-anime](https://github.com/fre123-com/fre123-anime)，欢迎体验：
+帮助用户轻松找到各种免费的工具、服务和学习资源的网站：
 
-![fre123_anime_n](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime_n.jpg) 
+![fmhy.net](https://images-1252557999.file.myqcloud.com/uPic/fwWyWH.png) 
 
-### [allthingsai](https://allthingsai.com/)
+### [alternativeto](https://alternativeto.net/)
 
-提供完整的 `AI` 相关工具&服务资源：
+常用软件替代品查询网站：
 
-![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
 ## ✍️ 说明
 
