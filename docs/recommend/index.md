@@ -5,86 +5,86 @@
 
 ## 🎯 项目 
 
-### [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
+### [fast-poster](https://github.com/psoho/fast-poster)
 
-`libretranslate` 是一个免费且开源的机器翻译API项目，完全自主托管。与其他API不同，它不依赖于像谷歌或Azure这样的专有提供商来进行翻译。相反，它的翻译引擎由开源Argos Translate库驱动：
+`fastposter` 海报生成器是一款快速开发海报的工具。只需上传一张背景图，在对应的位置放上组件（文字、图片、二维码、头像）即可生成海报。 点击代码直接生成各种语言的调用代码，方便快速开发:
 
-![libretranslate](https://images-1252557999.file.myqcloud.com/uPic/libretranslate.jpg) 
+![fast-poster](https://images-1252557999.file.myqcloud.com/uPic/fast-poster.png) 
 
-### [AudioNotes](https://github.com/harry0703/AudioNotes)
+### [taskcafe](https://github.com/JordanKnott/taskcafe)
 
-基于 `FunASR&Qwen2` 构建的音视频转结构化笔记系统，能够快速提取音视频的内容，并且调用大模型进行整理，成为一份结构化的 `markdown` 笔记，方便快速阅读：
+带看板的开源项目管理工具:
 
-![AudioNotes](https://images-1252557999.file.myqcloud.com/uPic/AudioNotes.jpg) 
+- 通过看板界面管理任务（设置截止日期、标签、添加清单）
+- 通过我的任务视图查看所有当前分配的任务
+- 支持个人项目
+- 任务评论和活动
 
-### [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
+![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
 
-为`ChatGPT/ChatGLM/LLaMA/StableLM/MOSS`等多种 `LLM` 提供了一个轻快好用的 `Web` 图形界面：
+### [wtfutil](https://github.com/wtfutil/wtf)
 
-![ChuanhuChatGPT](https://images-1252557999.file.myqcloud.com/uPic/ChuanhuChatGPT.jpg) 
+在你的终端定制化仪表盘，提供 IP 信息、世界时间、系统信息、充电信息、系统状态、GitHub 等信息集中展示，也可以通过配置实现业务监控：
+
+![wtfutil](https://images-1252557999.file.myqcloud.com/uPic/wtfutil.jpeg) 
 
 ## 🤖 软件 
 
-### [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
+### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
-🎉 一个 `Frp Client` 跨平台桌面端：
+用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
 
-![](https://img.fre123.com/i/2023/12/23/6586f68db0238.jpg) 
+![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
 
-### [Dozer](https://github.com/Mortennn/Dozer)
+### [macGPT](https://github.com/hellokuls/macGPT)
 
-隐藏菜单栏图标，使您的Mac看起来更清爽，个人一直在用的开源状态栏管理工具，`Bartender` 替代品：
+一款 `ChatGPT for Mac` 原生客户端：
 
-![Dozer](https://images-1252557999.file.myqcloud.com/uPic/Dozer.jpg) 
+![macGPT](https://images-1252557999.file.myqcloud.com/uPic/macGPT.png) 
 
-### [BlogHelper](https://github.com/onblog/BlogHelper)
+### [FairEmail](https://github.com/M66B/FairEmail)
 
-帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
+完全开源免费、具有全面功能、面向隐私的邮件App（仅支持安卓）：
 
-![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
+![FairEmail](https://images-1252557999.file.myqcloud.com/uPic/FairEmail.png) 
 
 ## 👀 资料 
 
-### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+### [Sam Altman的创业手册](https://jxp73q7qjsg.feishu.cn/docx/WCNZdKDa4o2eUrxK5ElcfBXEnah)
 
-命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
+`Sam Altman` 的创业手册文本，给YC系创始人们的建议里面最通用的一部分提炼出来变成一个创业手册。 
 
-### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
-深度学习入门教程资料聚合项目，包含：
+清华大学计算机系课程攻略：
 
-- 数学基础
-- 机器学习基础
-- 深度学习基础
-- 工程能力
+![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
 
-![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
+### [C++服务器开发精髓](https://cppguide.cn/pages/92255f/)
 
-![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
+开源电子书籍，本书从操作系统原理角度讲解进行C++服务器开发所需掌握的技术栈：
 
-### [react-illustration-series](https://github.com/7kms/react-illustration-series)
-
-图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
+![cppguide](https://images-1252557999.file.myqcloud.com/uPic/cppguide.jpg) 
 
 ## 🕸 网站 
 
-### [untools](https://untools.co/)
+### [batnoter](https://batnoter.com/)
 
-一个帮助你思考的集合工具&框架：
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-![untools](https://images-1252557999.file.myqcloud.com/uPic/hHu9aw.png) 
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
-### [fmhy.net](https://fmhy.net/)
+### [similarsites](https://www.similarsites.com/)
 
-帮助用户轻松找到各种免费的工具、服务和学习资源的网站：
+输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
 
-![fmhy.net](https://images-1252557999.file.myqcloud.com/uPic/fwWyWH.png) 
+![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
 
-### [alternativeto](https://alternativeto.net/)
+### [法律时代导航](https://yesen.cn/)
 
-常用软件替代品查询网站：
+法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
 
 ## ✍️ 说明
 
