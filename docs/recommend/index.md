@@ -5,86 +5,80 @@
 
 ## 🎯 项目 
 
-### [fast-poster](https://github.com/psoho/fast-poster)
+### [certimate](https://github.com/usual2970/certimate)
 
-`fastposter` 海报生成器是一款快速开发海报的工具。只需上传一张背景图，在对应的位置放上组件（文字、图片、二维码、头像）即可生成海报。 点击代码直接生成各种语言的调用代码，方便快速开发:
+开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。
 
-![fast-poster](https://images-1252557999.file.myqcloud.com/uPic/fast-poster.png) 
+![certimate](https://images-1252557999.file.myqcloud.com/uPic/W29Eof.png) 
 
-### [taskcafe](https://github.com/JordanKnott/taskcafe)
+### [telegram-files](https://github.com/jarvis2f/telegram-files)
 
-带看板的开源项目管理工具:
+从 Telegram 频道和群组下载文件的开源项目，支持多账号并确保文件不会重复下载，具备下载暂停和继续的功能：
 
-- 通过看板界面管理任务（设置截止日期、标签、添加清单）
-- 通过我的任务视图查看所有当前分配的任务
-- 支持个人项目
-- 任务评论和活动
+![telegram-files](https://images-1252557999.file.myqcloud.com/uPic/O7wvH0.png) 
 
-![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
+### [mayfly-go](https://github.com/dromara/mayfly-go)
 
-### [wtfutil](https://github.com/wtfutil/wtf)
+web 版 linux(终端[终端回放] 文件 脚本 进程 计划任务)、数据库（mysql postgres 达梦）、redis(单机 哨兵 集群)、mongo 统一管理操作平台：
 
-在你的终端定制化仪表盘，提供 IP 信息、世界时间、系统信息、充电信息、系统状态、GitHub 等信息集中展示，也可以通过配置实现业务监控：
-
-![wtfutil](https://images-1252557999.file.myqcloud.com/uPic/wtfutil.jpeg) 
+![mayfly-go](https://images-1252557999.file.myqcloud.com/uPic/mayfly-go.jpeg) 
 
 ## 🤖 软件 
 
-### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
+### [termux-app](https://github.com/termux/termux-app)
 
-用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
+`Termux` 是一个为 `Android` 操作系统设计的终端模拟器应用程序，它可以通过各种软件包进行扩展，支持 `Linux` 环境：
 
-![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
+![termux-app](https://images-1252557999.file.myqcloud.com/uPic/tMfcxO.png) 
 
-### [macGPT](https://github.com/hellokuls/macGPT)
+### [WeChatAI](https://github.com/bingryan/WeChatAI)
 
-一款 `ChatGPT for Mac` 原生客户端：
+技术交流群的群友 **@bingryan** 开发的，推荐一下，项目目的在于打造一个All in One的个人AI聊天助手：
 
-![macGPT](https://images-1252557999.file.myqcloud.com/uPic/macGPT.png) 
+![WeChatAI](https://images-1252557999.file.myqcloud.com/uPic/WeChatAI.png) 
 
-### [FairEmail](https://github.com/M66B/FairEmail)
+### [Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)
 
-完全开源免费、具有全面功能、面向隐私的邮件App（仅支持安卓）：
+由于在 `QQ` 和微信中发送 `APK` 文件时，文件名会被腾讯添加后缀.1，此 `App` 可以省去重命名步骤，直接安装：
 
-![FairEmail](https://images-1252557999.file.myqcloud.com/uPic/FairEmail.png) 
+- 获取安装权限（不需要读取存储权限）
+- 在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序 
 
 ## 👀 资料 
 
-### [Sam Altman的创业手册](https://jxp73q7qjsg.feishu.cn/docx/WCNZdKDa4o2eUrxK5ElcfBXEnah)
+### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
 
-`Sam Altman` 的创业手册文本，给YC系创始人们的建议里面最通用的一部分提炼出来变成一个创业手册。 
+互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
 
-### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
 
-清华大学计算机系课程攻略：
+此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
 
-![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-### [C++服务器开发精髓](https://cppguide.cn/pages/92255f/)
-
-开源电子书籍，本书从操作系统原理角度讲解进行C++服务器开发所需掌握的技术栈：
-
-![cppguide](https://images-1252557999.file.myqcloud.com/uPic/cppguide.jpg) 
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
 ## 🕸 网站 
 
-### [batnoter](https://batnoter.com/)
+### [photo2poem](https://photo2poem.top/)
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+每一张照片，都对应一首诗，很有意思：
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+![photo2poem](https://images-1252557999.file.myqcloud.com/uPic/photo2poem.jpg) 
 
-### [similarsites](https://www.similarsites.com/)
+### [blinkshot](https://github.com/Nutlope/blinkshot)
 
-输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
+ 基于 `Flux` 通过 `Together.ai` 提供的图像模型和推理能力实现的一个开源的实时 AI 图像生成器：
 
-![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
+![blinkshot](https://images-1252557999.file.myqcloud.com/uPic/WT8nAl.png)
 
-### [法律时代导航](https://yesen.cn/)
+体验后，效果一般，这是模型原因并不是项目本身原因，因为 100% 开源～ 
 
-法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
+### [中国科学技术大学测速网站](https://test.ustc.edu.cn/)
 
-![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
+测试使用网络的上传下载速度等信息：
+
+![test-ustc](https://images-1252557999.file.myqcloud.com/uPic/test-ustc.jpg) 
 
 ## ✍️ 说明
 
