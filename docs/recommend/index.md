@@ -5,80 +5,107 @@
 
 ## 🎯 项目 
 
-### [certimate](https://github.com/usual2970/certimate)
+### [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)
 
-开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。
+老胡最近整的开源项目，从[技术周刊精选](https://www.fre123.com/weekly/)到[信息流](https://www.fre123.com/tech)，和前端朋友一起梳理出了个通用的排版并开源出来，欢迎大家使用和提出建议:
 
-![certimate](https://images-1252557999.file.myqcloud.com/uPic/W29Eof.png) 
+![fre123-info-flow-demo](https://images-1252557999.file.myqcloud.com/uPic/fre123-info-flow-demo.jpg) 
 
-### [telegram-files](https://github.com/jarvis2f/telegram-files)
+### [MyIP](https://github.com/jason5ng32/MyIP)
 
-从 Telegram 频道和群组下载文件的开源项目，支持多账号并确保文件不会重复下载，具备下载暂停和继续的功能：
+这是一个完全开源的 IP 信息查看器，可以查询本机 IP、查询任意 IP、查询国内外网站可用性等，70%代码由 `GPT` 实现。它可以查看IP、IP 信息（代理前后）、检查 DNS 泄露、检查 WebRTC 连接、测试网站可用性。
 
-![telegram-files](https://images-1252557999.file.myqcloud.com/uPic/O7wvH0.png) 
+![myip](https://images-1252557999.file.myqcloud.com/uPic/myip.jpg) 
 
-### [mayfly-go](https://github.com/dromara/mayfly-go)
+### [privateGPT](https://github.com/imartinez/privateGPT)
 
-web 版 linux(终端[终端回放] 文件 脚本 进程 计划任务)、数据库（mysql postgres 达梦）、redis(单机 哨兵 集群)、mongo 统一管理操作平台：
+为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
 
-![mayfly-go](https://images-1252557999.file.myqcloud.com/uPic/mayfly-go.jpeg) 
+![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
 
 ## 🤖 软件 
 
-### [termux-app](https://github.com/termux/termux-app)
+### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
 
-`Termux` 是一个为 `Android` 操作系统设计的终端模拟器应用程序，它可以通过各种软件包进行扩展，支持 `Linux` 环境：
+针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
 
-![termux-app](https://images-1252557999.file.myqcloud.com/uPic/tMfcxO.png) 
+![netease-music-crx](https://images-1252557999.file.myqcloud.com/uPic/rkgRfw.png) 
 
-### [WeChatAI](https://github.com/bingryan/WeChatAI)
+### [AniVu](https://github.com/SkyD666/AniVu)
 
-技术交流群的群友 **@bingryan** 开发的，推荐一下，项目目的在于打造一个All in One的个人AI聊天助手：
+`AniVu` 是一个集成了 `RSS` 订阅、自动更新、`BitTorrent` 下载和视频播放功能的全能型 `Android` 应用程序：
 
-![WeChatAI](https://images-1252557999.file.myqcloud.com/uPic/WeChatAI.png) 
+- 订阅 RSS、更新 RSS、阅读 RSS
+- 自动更新 RSS 订阅
+- 下载 RSS 文章中的 BT 种子或磁力链接附件（enclosure 标签）
+- 已下载文件做种
+- 播放媒体附件或已下载的媒体文件
+- 更改播放速度、设置音轨、字幕轨道等
+- 双指旋转缩放视频画面、长按视频倍速播放
+- 滑动调整音量、屏幕亮度和播放位置
+- 支持搜索已获取的 RSS 订阅或文章
+- 播放手机中的其他视频
+- 支持自定义 MPV 播放器
+- 支持通过 OPML 导入导出订阅
+- 支持深色模式
 
-### [Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)
+![AniVu](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-1-4911250770779811003-y.jpg) 
 
-由于在 `QQ` 和微信中发送 `APK` 文件时，文件名会被腾讯添加后缀.1，此 `App` 可以省去重命名步骤，直接安装：
+### [hummingbird](https://github.com/leibnizli/hummingbird)
 
-- 获取安装权限（不需要读取存储权限）
-- 在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序 
+`Hummingbird` 是一个资源(`jpg/png/webp/svg/gif/css/js/html`)压缩客户端，支持`Windows`、`Mac`：
+
+- `jpg/png/webp/svg/gif/html` 压缩后会替换掉当前文件，`css/js` 压缩后会生成一个带 `.min` 的新文件
+- 可以在在当前目录新建source文件夹并备份处理前的文件，可以在设置中开启
+
+![hummingbird](https://images-1252557999.file.myqcloud.com/uPic/hummingbird.jpg) 
 
 ## 👀 资料 
 
-### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
+### [C++服务器开发精髓](https://cppguide.cn/pages/92255f/)
 
-互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
+开源电子书籍，本书从操作系统原理角度讲解进行C++服务器开发所需掌握的技术栈：
 
-### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
+![cppguide](https://images-1252557999.file.myqcloud.com/uPic/cppguide.jpg) 
 
-此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
+### [ascoders/weekly](https://github.com/ascoders/weekly)
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+- 前沿技术
+- 设计模式
+- 编译原理
+- 源码解读
+- 商业思考
+- 算法
+
+非常全面，前端从事人员可以看看。 
+
+### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+
+《Software Engineering at Google》的中文翻译版本：
+
+![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
 
 ## 🕸 网站 
 
-### [photo2poem](https://photo2poem.top/)
+### [unDraw](https://undraw.co/illustrations)
 
-每一张照片，都对应一首诗，很有意思：
+你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
 
-![photo2poem](https://images-1252557999.file.myqcloud.com/uPic/photo2poem.jpg) 
+如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
 
-### [blinkshot](https://github.com/Nutlope/blinkshot)
+![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
 
- 基于 `Flux` 通过 `Together.ai` 提供的图像模型和推理能力实现的一个开源的实时 AI 图像生成器：
+### [aicolors](https://aicolors.co/)
 
-![blinkshot](https://images-1252557999.file.myqcloud.com/uPic/WT8nAl.png)
+通过提示词，基于 AI 生成配色方案：
 
-体验后，效果一般，这是模型原因并不是项目本身原因，因为 100% 开源～ 
+![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
 
-### [中国科学技术大学测速网站](https://test.ustc.edu.cn/)
+### [IconPark](https://iconpark.oceanengine.com/home)
 
-测试使用网络的上传下载速度等信息：
-
-![test-ustc](https://images-1252557999.file.myqcloud.com/uPic/test-ustc.jpg) 
+字节开源的一款图标库。 
 
 ## ✍️ 说明
 
