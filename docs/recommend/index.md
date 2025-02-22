@@ -5,109 +5,81 @@
 
 ## 🎯 项目 
 
-### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
+### [Scrapling](https://github.com/D4Vinci/Scrapling)
 
-短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
+`D4Vinci/Scrapling` 是一个为 `Python` 提供高性能、不易被检测、适应性强的网页爬虫库，旨在应对反爬虫保护和网页结构变化的挑战。 
 
-![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
+### [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)
 
-### [onenav](https://github.com/helloxz/onenav)
+基于 `ChatGPT` 实现的代码解释器，只需向 `OpenAI` 模型提出请求，它就会为您生成并执行代码：
 
-使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问：
+![gpt-code-ui](https://images-1252557999.file.myqcloud.com/uPic/gpt-code-ui.png) 
 
-支持后台管- 理
-- 支持私有链接
-- 支持Chrome/Firefox/Edge书签批量导入
-- 支持多种主题风格
-- 支持链接信息自动识别
-- 支持API
-- 支持Docker部署
-- 支持uTools插件
-- 支持二级分类
-- 支持Chromium内核的浏览器扩展（插件）
-- 支持在线更新
-- 手机版后台
+### [Doocs-md](https://gitee.com/Doocs/md)
 
-![onenav](https://images-1252557999.file.myqcloud.com/uPic/onenav.png) 
+✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性:
 
-### [certimate](https://github.com/usual2970/certimate)
-
-开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期：
-
-![certimate](https://images-1252557999.file.myqcloud.com/uPic/slnLnQ.png) 
+![doocs_md](https://images-1252557999.file.myqcloud.com/uPic/doocs_md.jpg) 
 
 ## 🤖 软件 
 
-### [LANDrop](https://github.com/LANDrop/LANDrop)
+### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
 
-开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
+谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
 
-![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
+![temp_mail](https://images-1252557999.file.myqcloud.com/uPic/M4DZPI.png) 
 
-### [mihon](https://github.com/mihonapp/mihon)
+### [EyesGuard](https://github.com/avestura/EyesGuard)
 
-`Mihon` 是一款安卓端的免费、开源漫画阅读器，支持漫画在线阅读与下载。 应用界面清爽干净，操作简单，纯净无广告：
+`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
 
-- 支持在线阅读、漫画下载和本地漫画阅读；
-- 支持安装全球各种漫画图源；
-- 多种阅读模式和各种自定义设置；
-- 书架、发现、分组、阅读统计、主题、追踪、自动更新及备份等功能……
+![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
 
-![mihon](https://images-1252557999.file.myqcloud.com/uPic/qkUiNU.png) 
+### [icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
 
-### [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)
-
-免费开源抓包工具，支持 `Windows、Mac、Android、IOS、Linux` 全平台系统：
-
-![network_proxy_flutter](https://images-1252557999.file.myqcloud.com/uPic/network_proxy_flutter.png) 
+一个命令行工具，用于从 `iCloud` 下载照片，支持 `Linux、Windows & macOS` 系统。 
 
 ## 👀 资料 
 
-### [prompt-tuning-playbook](https://github.com/varungodbole/prompt-tuning-playbook)
+### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
 
-项目主要提供了一份针对后训练大型语言模型（LLMs）的有效提示技术指南，旨在帮助用户更好地理解和应用这些模型。
+中国5级行政区域mysql库：
 
-后训练使得 LLMs 能够更好地遵循指令、匹配现实世界、保持安全等，这些行为包括但不限于格式遵循、指令执行、事实准确性和安全性。 
+- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
+- 港澳地区的数据只有3级;台湾地区4级
+- 包含大陆地区的邮政编码和经纬度信息 
 
-### [tamingLLMs](https://github.com/souzatharsis/tamingLLMs)
+### [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial)
 
-一份关于如何克服大型语言模型（LLMs）实际应用中的陷阱的实用指南。该指南以 Python 示例和开源软件为基础，提供了一个介绍性而全面的参考，专注于具体问题，如处理非结构化输出、管理上下文窗口、输出长度限制、非确定性机器、幻觉现象、安全问题以及成本因素 
+本教程供新加入 `TANGENT` 实验室的同学入门 NLP 使用，该指南主要提供了 `NLP` 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：
 
-### [事实核查手册](https://chinafactcheck.com/?p=11465)
+![pku_nlp_tutorial](https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg) 
 
-虚假信息泛滥已成世界性难题，简体中文内容市场亦难置身事外。作为应对手段之一，事实核查在中国开始萌芽。
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-本手册以案例的形式介绍了常用的文字、图片和视频核查工具，也涉及事实核查的工作流程、信源评估，并译介了国际事实核查机构惯用的职业准则与实践，希望能为中国的事实核查业者和观察者提供一定的参考。
+夯实计算机基础，该怎么学，这个项目给出了答案：
 
-![事实核查手册](https://images-1252557999.file.myqcloud.com/uPic/事实核查手册.jpg) 
+![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
 
 ## 🕸 网站 
 
-### [relationship](https://passer-by.com/relationship/)
+### [yima.me](https://yima.me/)
 
-中国亲戚关系计算器：
+免费生成 `AI` 艺术二维码：
 
-![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
+![yima](https://images-1252557999.file.myqcloud.com/uPic/yima.png) 
 
-### [sci-hub](https://sci-hub.se/)
+### [photoroom](https://www.photoroom.com/backgrounds/)
 
-这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
+利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
 
-> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
+![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
 
-用户可通过以下方式访问新版本：
+### [svg-path-editor](https://yqnn.github.io/svg-path-editor/)
 
-- https://sci-hub.se/
-- https://sci-hub.ru/
-- https://sci-hub.st/
+在线编辑创建 `SVG`，同时开源在 [github-svg-path-editor](https://github.com/Yqnn/svg-path-editor)：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png) 
-
-### [remixicon](https://remixicon.com/)
-
-[Remix Icon](https://github.com/Remix-Design/RemixIcon/blob/master/README_CN.md) 是一套面向设计师和开发者的开源图标库。我们在设计之初将图标风格定义为中性风格，以便适用于各种用户群的项目。与拼凑混搭的图标库不同，Remix Icon 的每一枚图标都是由设计师按照统一规范精心绘制的，并确保每一枚图标在拥有完美像素对齐的基础上风格一致且简洁易读。图标以24x24网格为基准，分为“线性图标”和“面型图标”两种风格。所有的图标均可免费用于个人项目和商业项目，Enjoy it~
-
-![remixicon](https://images-1252557999.file.myqcloud.com/uPic/remixicon.jpg) 
+![svg-path-editor](https://images-1252557999.file.myqcloud.com/uPic/svg-path-editor.jpg) 
 
 ## ✍️ 说明
 
