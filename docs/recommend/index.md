@@ -5,81 +5,85 @@
 
 ## 🎯 项目 
 
-### [Scrapling](https://github.com/D4Vinci/Scrapling)
+### [cpdf-source](https://github.com/johnwhitington/cpdf-source)
 
-`D4Vinci/Scrapling` 是一个为 `Python` 提供高性能、不易被检测、适应性强的网页爬虫库，旨在应对反爬虫保护和网页结构变化的挑战。 
+命令行处理PDF，比如拆分（支持书签）、合并等，点击这里[下载](https://coherentpdf.com/eval.html)，全平台支持。 
 
-### [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)
+### [Textual](https://github.com/Textualize/textual)
 
-基于 `ChatGPT` 实现的代码解释器，只需向 `OpenAI` 模型提出请求，它就会为您生成并执行代码：
+`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
 
-![gpt-code-ui](https://images-1252557999.file.myqcloud.com/uPic/gpt-code-ui.png) 
+![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
 
-### [Doocs-md](https://gitee.com/Doocs/md)
+### [sqliteviz](https://github.com/lana-k/sqliteviz)
 
-✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性:
+`sqliteviz` 是一款功能强大且易于使用的离线数据可视化工具，具有易于使用、性能出色的特点，非常适合数据分析人员、学生和开发人员使用。
 
-![doocs_md](https://images-1252557999.file.myqcloud.com/uPic/doocs_md.jpg) 
+在线体验地址：[https://sqliteviz.com/app](https://sqliteviz.com/app)
+
+![sqliteviz](https://images-1252557999.file.myqcloud.com/uPic/sqliteviz.jpg) 
 
 ## 🤖 软件 
 
-### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
+### [ani](https://github.com/open-ani/ani)
 
-谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
+集找番、追番、看番的一站式弹幕追番平台：
 
-![temp_mail](https://images-1252557999.file.myqcloud.com/uPic/M4DZPI.png) 
+![ani](https://images-1252557999.file.myqcloud.com/uPic/Ff1VoV.png) 
 
-### [EyesGuard](https://github.com/avestura/EyesGuard)
+### [fubukicss-tool](https://github.com/zouhangwithsweet/fubukicss-tool)
 
-`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
+解决 `Figma` 设计图查看代码需要升级付费的问题，该项目提供一个浏览器扩展，可以一步获取来自 `Figma` 设计图的 `TailwindCSS/Unocss/CSS` 代码，加速开发：
 
-![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
+![fubukicss-tool](https://images-1252557999.file.myqcloud.com/uPic/fubukicss-tool.jpg) 
 
-### [icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
+### [Weibo-archiver](https://github.com/Chilfish/Weibo-archiver)
 
-一个命令行工具，用于从 `iCloud` 下载照片，支持 `Linux、Windows & macOS` 系统。 
+将微博导出备份的油猴脚本，为号被完全夹没前未雨绸缪 😭
+
+![Weibo-archiver](https://images-1252557999.file.myqcloud.com/uPic/68747470733a2f2f702e6368696c666973682e746f702f776569626f2f666561747572652e77656270.webp) 
 
 ## 👀 资料 
 
-### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
+### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
 
-中国5级行政区域mysql库：
+`OpenAI` 出品的的深度强化学习教程：
 
-- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
-- 港澳地区的数据只有3级;台湾地区4级
-- 包含大陆地区的邮政编码和经纬度信息 
+![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
 
-### [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial)
+### [PyTorch-Tutorial-2nd](https://github.com/TingsongYu/PyTorch-Tutorial-2nd)
 
-本教程供新加入 `TANGENT` 实验室的同学入门 NLP 使用，该指南主要提供了 `NLP` 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：
+《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项目应用，或是进阶工程化部署落地，在这里都有。相信在本书的帮助下，读者将能够轻松掌握 PyTorch 的使用，成为一名优秀的深度学习工程师。
 
-![pku_nlp_tutorial](https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg) 
+![PyTorch-Tutorial-2nd](https://img.fre123.com/i/2024/07/12/6690fc7ae91f6.png) 
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
-夯实计算机基础，该怎么学，这个项目给出了答案：
+> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
 
-![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
+本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
+
+![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
 
 ## 🕸 网站 
 
-### [yima.me](https://yima.me/)
+### [ai-12348](https://ai.12348.gov.cn/pc/)
 
-免费生成 `AI` 艺术二维码：
+免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
 
-![yima](https://images-1252557999.file.myqcloud.com/uPic/yima.png) 
+![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
 
-### [photoroom](https://www.photoroom.com/backgrounds/)
+### [watermark](https://watermark.liumingye.cn/)
 
-利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
+短视频/图集在线去水印解析：
 
-![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
+![watermark](https://images-1252557999.file.myqcloud.com/uPic/watermark.jpg) 
 
-### [svg-path-editor](https://yqnn.github.io/svg-path-editor/)
+### [latexlive](https://www.latexlive.com/)
 
-在线编辑创建 `SVG`，同时开源在 [github-svg-path-editor](https://github.com/Yqnn/svg-path-editor)：
+免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
 
-![svg-path-editor](https://images-1252557999.file.myqcloud.com/uPic/svg-path-editor.jpg) 
+![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
 
 ## ✍️ 说明
 
