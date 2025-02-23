@@ -5,85 +5,88 @@
 
 ## 🎯 项目 
 
-### [cpdf-source](https://github.com/johnwhitington/cpdf-source)
+### [ml4a](https://github.com/ml4a/ml4a)
 
-命令行处理PDF，比如拆分（支持书签）、合并等，点击这里[下载](https://coherentpdf.com/eval.html)，全平台支持。 
+`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
 
-### [Textual](https://github.com/Textualize/textual)
+![ml4a](https://images-1252557999.file.myqcloud.com/uPic/ml4a.jpg) 
 
-`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
+### [cal.com](https://github.com/calcom/cal.com)
 
-![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
+一个管理日程安排和预约的工具，可以说是 `Calendly` 的开源替代方案：
 
-### [sqliteviz](https://github.com/lana-k/sqliteviz)
+![cal_com](https://images-1252557999.file.myqcloud.com/uPic/cal_com.jpg) 
 
-`sqliteviz` 是一款功能强大且易于使用的离线数据可视化工具，具有易于使用、性能出色的特点，非常适合数据分析人员、学生和开发人员使用。
+### [social-auto-upload](https://github.com/dreammis/social-auto-upload)
 
-在线体验地址：[https://sqliteviz.com/app](https://sqliteviz.com/app)
+自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili：
 
-![sqliteviz](https://images-1252557999.file.myqcloud.com/uPic/sqliteviz.jpg) 
+![social-auto-upload](https://images-1252557999.file.myqcloud.com/uPic/social-auto-upload.jpg) 
 
 ## 🤖 软件 
 
-### [ani](https://github.com/open-ani/ani)
+### [avnc](https://github.com/gujjwal00/avnc)
 
-集找番、追番、看番的一站式弹幕追番平台：
+针对 `Android` 的开源 `VNC` 客户端：
 
-![ani](https://images-1252557999.file.myqcloud.com/uPic/Ff1VoV.png) 
+![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
 
-### [fubukicss-tool](https://github.com/zouhangwithsweet/fubukicss-tool)
+### [sunnypages](https://github.com/XMuli/sunnypages)
 
-解决 `Figma` 设计图查看代码需要升级付费的问题，该项目提供一个浏览器扩展，可以一步获取来自 `Figma` 设计图的 `TailwindCSS/Unocss/CSS` 代码，加速开发：
+`Sunny` 截图是一款简洁且漂亮的截图的软件工具，支持 `Windows，MacOS，Linux` 平台。亦支持图片翻译和 `OCR`：
 
-![fubukicss-tool](https://images-1252557999.file.myqcloud.com/uPic/fubukicss-tool.jpg) 
+![sunnypages](https://images-1252557999.file.myqcloud.com/uPic/sunnypages.jpg) 
 
-### [Weibo-archiver](https://github.com/Chilfish/Weibo-archiver)
+### [腾讯交互翻译 TranSmart](https://transmart.qq.com/zh-CN/intro)
 
-将微博导出备份的油猴脚本，为号被完全夹没前未雨绸缪 😭
+腾讯交互翻译融合了腾讯人工智能实验室自研的交互式机器翻译、神经网络机器翻译、 统计机器翻译、语义理解、信息检索等技术，帮助用户更快、更好地完成翻译任务。
 
-![Weibo-archiver](https://images-1252557999.file.myqcloud.com/uPic/68747470733a2f2f702e6368696c666973682e746f702f776569626f2f666561747572652e77656270.webp) 
+包含网页、跨平台客户端、插件等使用形式，翻译质量也还不错，诚意满满：
+
+![TranSmart](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-10-16_09-57-06.jpg) 
 
 ## 👀 资料 
 
-### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
+### [unplugged](https://github.com/liuxinyu95/unplugged)
 
-`OpenAI` 出品的的深度强化学习教程：
+刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
 
-![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
+![unplugged](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-10-23_21-49-37.jpg)
 
-### [PyTorch-Tutorial-2nd](https://github.com/TingsongYu/PyTorch-Tutorial-2nd)
+如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
 
-《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项目应用，或是进阶工程化部署落地，在这里都有。相信在本书的帮助下，读者将能够轻松掌握 PyTorch 的使用，成为一名优秀的深度学习工程师。
+### [Linux 内核教学](https://linux-kernel-labs-zh.xyz/)
 
-![PyTorch-Tutorial-2nd](https://img.fre123.com/i/2024/07/12/6690fc7ae91f6.png) 
+本文档包含一系列 `Linux` 内核主题的课程和实验，课程侧重于理论和 `Linux` 内核探索。实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+- 主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引
+- 实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
+![linux-kernel-labs-zh](https://images-1252557999.file.myqcloud.com/uPic/linux-kernel-labs-zh.jpg) 
 
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
+### [learn-regex](https://github.com/ziishaned/learn-regex)
 
-![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
+开源的正则表达式教程，有中文版，有在线示例。 
 
 ## 🕸 网站 
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+### [法律时代导航](https://yesen.cn/)
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
 
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
 
-### [watermark](https://watermark.liumingye.cn/)
+### [scribblediffusion.com](https://scribblediffusion.com/)
 
-短视频/图集在线去水印解析：
+随便画一画，生成美观的图片：
 
-![watermark](https://images-1252557999.file.myqcloud.com/uPic/watermark.jpg) 
+![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
 
-### [latexlive](https://www.latexlive.com/)
+### [ray.so](https://ray.so/)
 
-免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
+之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
 
-![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
+![ray.so](https://images-1252557999.file.myqcloud.com/uPic/ray.so.jpg) 
 
 ## ✍️ 说明
 
