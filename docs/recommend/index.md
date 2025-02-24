@@ -5,88 +5,97 @@
 
 ## 🎯 项目 
 
-### [ml4a](https://github.com/ml4a/ml4a)
+### [moneynote-api](https://github.com/getmoneynote/moneynote-api)
 
-`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
+一个开源免费的记账解决方案，包括[后端](https://github.com/getmoneynote/moneynote-api)，[网页版](https://github.com/getmoneynote/moneywhere-user-fe)，[App](https://github.com/getmoneynote/moneywhere_user_flutter)，主要用于个人生活记账，开店收支记账，支持[ Docker 一键部署](https://github.com/getmoneynote/docker-compose-moneywhere)自己的记账程序：
 
-![ml4a](https://images-1252557999.file.myqcloud.com/uPic/ml4a.jpg) 
+![moneynote-api](https://images-1252557999.file.myqcloud.com/uPic/moneynote-api.png) 
 
-### [cal.com](https://github.com/calcom/cal.com)
+### [CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077)
 
-一个管理日程安排和预约的工具，可以说是 `Calendly` 的开源替代方案：
+`CyberScraper-2077` 是一个由 OpenAI 和 Ollama 支持的强大的 AI 驱动网页爬虫工具，提供了多种特性和功能，如用户友好的 Streamlit 界面、多格式数据导出、隐身模式、异步操作、智能解析等，旨在高效、隐蔽地从网络中提取数据：
 
-![cal_com](https://images-1252557999.file.myqcloud.com/uPic/cal_com.jpg) 
+![CyberScraper](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-09-01_11-56-36.jpg) 
 
-### [social-auto-upload](https://github.com/dreammis/social-auto-upload)
+### [Kavita](https://github.com/Kareadita/Kavita)
 
-自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili：
+Kavita 是一款快速、功能丰富、跨平台的阅读服务器，专为漫画爱好者设计。它旨在成为满足你所有阅读需求的全面解决方案。
 
-![social-auto-upload](https://images-1252557999.file.myqcloud.com/uPic/social-auto-upload.jpg) 
+有了 Kavita，你可以：
+
+- 支持 Manga/Webtoons/Comics 等丰富源
+- 针对各种设备上给你一流的阅读使用体验，夜间模式等
+- 丰富的元数据支持，包括过滤和搜索功能
+- 多语言支持
+- ...
+
+![Kavita](https://images-1252557999.file.myqcloud.com/uPic/Kavita.jpg) 
 
 ## 🤖 软件 
 
-### [avnc](https://github.com/gujjwal00/avnc)
+### [winlator](https://github.com/brunodev85/winlator)
 
-针对 `Android` 的开源 `VNC` 客户端：
+使用 `Wine & Box86/Box64` 的安卓应用程序，此项目特点是可以运行 `Windows` 应用程序。 
 
-![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
+### [pilipala](https://github.com/guozhigq/pilipala)
 
-### [sunnypages](https://github.com/XMuli/sunnypages)
+使用 `Flutter` 开发的 `BiliBili` 第三方客户端，专为提高用户在观看BiliBili视频时的体验而设计：
 
-`Sunny` 截图是一款简洁且漂亮的截图的软件工具，支持 `Windows，MacOS，Linux` 平台。亦支持图片翻译和 `OCR`：
+![pilipala](https://images-1252557999.file.myqcloud.com/uPic/pilipala.jpg) 
 
-![sunnypages](https://images-1252557999.file.myqcloud.com/uPic/sunnypages.jpg) 
+### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
 
-### [腾讯交互翻译 TranSmart](https://transmart.qq.com/zh-CN/intro)
+基于 Electron + Vue + ffmpeg 的 GUI：
 
-腾讯交互翻译融合了腾讯人工智能实验室自研的交互式机器翻译、神经网络机器翻译、 统计机器翻译、语义理解、信息检索等技术，帮助用户更快、更好地完成翻译任务。
-
-包含网页、跨平台客户端、插件等使用形式，翻译质量也还不错，诚意满满：
-
-![TranSmart](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-10-16_09-57-06.jpg) 
+![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
 
 ## 👀 资料 
 
-### [unplugged](https://github.com/liuxinyu95/unplugged)
+### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
 
-刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
+阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
 
-![unplugged](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-10-23_21-49-37.jpg)
+![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
 
-如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
+### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
 
-### [Linux 内核教学](https://linux-kernel-labs-zh.xyz/)
+从工程角度方方面面阐述了DevOps实施的过程:
 
-本文档包含一系列 `Linux` 内核主题的课程和实验，课程侧重于理论和 `Linux` 内核探索。实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：
+![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
 
-- 主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引
-- 实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示
+### [JavaScript30](https://github.com/wesbos/JavaScript30)
 
-![linux-kernel-labs-zh](https://images-1252557999.file.myqcloud.com/uPic/linux-kernel-labs-zh.jpg) 
+30 天 JS 挑战，助力学习提升 JS 技巧：
 
-### [learn-regex](https://github.com/ziishaned/learn-regex)
-
-开源的正则表达式教程，有中文版，有在线示例。 
+![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
 
 ## 🕸 网站 
 
-### [法律时代导航](https://yesen.cn/)
+### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
 
-法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
+老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
 
-![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
+- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
+- Gemini Pro 体验地址：https://gemini.fre123.com/
 
-### [scribblediffusion.com](https://scribblediffusion.com/)
+![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
 
-随便画一画，生成美观的图片：
+### [aosabook](http://aosabook.org/en/index.html)
 
-![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
+网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
 
-### [ray.so](https://ray.so/)
+- ZeroMQ
+- Chrome
+- Nginx
+- 等等
 
-之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
+上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
 
-![ray.so](https://images-1252557999.file.myqcloud.com/uPic/ray.so.jpg) 
+### [transhumans](https://www.transhumans.xyz/)
+
+免费可商用的人物插图：
+
+![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
 
 ## ✍️ 说明
 
