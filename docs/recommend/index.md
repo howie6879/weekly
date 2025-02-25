@@ -5,97 +5,89 @@
 
 ## 🎯 项目 
 
-### [moneynote-api](https://github.com/getmoneynote/moneynote-api)
+### [excalidraw](https://github.com/excalidraw/excalidraw)
 
-一个开源免费的记账解决方案，包括[后端](https://github.com/getmoneynote/moneynote-api)，[网页版](https://github.com/getmoneynote/moneywhere-user-fe)，[App](https://github.com/getmoneynote/moneywhere_user_flutter)，主要用于个人生活记账，开店收支记账，支持[ Docker 一键部署](https://github.com/getmoneynote/docker-compose-moneywhere)自己的记账程序：
+免费开源的白板绘图工具（默认提供手绘风格），官方也提供了 `Web` [在线使用](https://excalidraw.com/)版：
 
-![moneynote-api](https://images-1252557999.file.myqcloud.com/uPic/moneynote-api.png) 
+![excalidraw](https://images-1252557999.file.myqcloud.com/uPic/excalidraw.jpg) 
 
-### [CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077)
+### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
 
-`CyberScraper-2077` 是一个由 OpenAI 和 Ollama 支持的强大的 AI 驱动网页爬虫工具，提供了多种特性和功能，如用户友好的 Streamlit 界面、多格式数据导出、隐身模式、异步操作、智能解析等，旨在高效、隐蔽地从网络中提取数据：
+该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
 
-![CyberScraper](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-09-01_11-56-36.jpg) 
+![computer_book_list](https://images-1252557999.file.myqcloud.com/uPic/uxQa5E.png) 
 
-### [Kavita](https://github.com/Kareadita/Kavita)
+### [inpaint-web](https://github.com/lxfater/inpaint-web)
 
-Kavita 是一款快速、功能丰富、跨平台的阅读服务器，专为漫画爱好者设计。它旨在成为满足你所有阅读需求的全面解决方案。
+基于 `WebGPU` 技术和 `wasm` 技术的免费开源图片修复&图片高清化工具, 纯浏览器端实现：
 
-有了 Kavita，你可以：
-
-- 支持 Manga/Webtoons/Comics 等丰富源
-- 针对各种设备上给你一流的阅读使用体验，夜间模式等
-- 丰富的元数据支持，包括过滤和搜索功能
-- 多语言支持
-- ...
-
-![Kavita](https://images-1252557999.file.myqcloud.com/uPic/Kavita.jpg) 
+![inpaint-web](https://images-1252557999.file.myqcloud.com/uPic/inpaint-web.jpg) 
 
 ## 🤖 软件 
 
-### [winlator](https://github.com/brunodev85/winlator)
+### [natpass](https://github.com/lwch/natpass)
 
-使用 `Wine & Box86/Box64` 的安卓应用程序，此项目特点是可以运行 `Windows` 应用程序。 
+新一代 NAT 内网穿透+shell+vnc 工具：
 
-### [pilipala](https://github.com/guozhigq/pilipala)
+![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
 
-使用 `Flutter` 开发的 `BiliBili` 第三方客户端，专为提高用户在观看BiliBili视频时的体验而设计：
+### [ima.copilot](https://ima.qq.com/)
 
-![pilipala](https://images-1252557999.file.myqcloud.com/uPic/pilipala.jpg) 
+集成了腾讯混元大模型和 `DeepSeek R1` 模型的智能知识库软件，旨在通过智能搜索、阅读、写作助手等功能，提供全新的知识获取和内容创作体验：
 
-### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
+![ima.copilot](https://images-1252557999.file.myqcloud.com/uPic/k9Uo6Y.png) 
 
-基于 Electron + Vue + ffmpeg 的 GUI：
+### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
 
-![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
+针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
+
+![netease-music-crx](https://images-1252557999.file.myqcloud.com/uPic/rkgRfw.png) 
 
 ## 👀 资料 
 
-### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
+### [Linux 101](https://101.lug.ustc.edu.cn/)
 
-阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
+本书由中国科学技术大学 Linux 用户协会的数名优秀成员协力编写，用于配套和延展“Linux 101”校内社团活动。其面向 Linux 零基础读者，从计算机操作系统和 Linux 的起源讲起，深入浅出带领读者一步步逐渐掌握最必要的 Linux 实用知识，并在其中感悟到社区开源文化的魅力：
 
-![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
+![Linux101-docs](https://images-1252557999.file.myqcloud.com/uPic/Linux101-docs.jpg) 
 
-### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
+### [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
 
-从工程角度方方面面阐述了DevOps实施的过程:
+将 `DeepSeek` 大模型能力轻松接入各类软件：
 
-![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
+- 应用程序：Chatbox ChatGPT-Next-Web	留白记事等
+- AI Agent 框架
+- RAG 框架
+- Solana 框架
+- 即时通讯插件
+- 浏览器插件
+- VS Code 插件 neovim 插件JetBrains 插件 
 
-### [JavaScript30](https://github.com/wesbos/JavaScript30)
+### [css-animation-101](https://github.com/cssanimation/css-animation-101)
 
-30 天 JS 挑战，助力学习提升 JS 技巧：
+学习如何为您的网页项目添加动画效果，也有中文版👉[css-animation-101-cn](https://h-wakanda.github.io/css-animation-101-cn/)：
 
-![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
+![css-animation-101-cn](https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg) 
 
 ## 🕸 网站 
 
-### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
+### [shenyandayi](https://www.shenyandayi.com/)
 
-老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
+深言达意，懂文字更懂你：
 
-- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
-- Gemini Pro 体验地址：https://gemini.fre123.com/
+![shenyandayi](https://images-1252557999.file.myqcloud.com/uPic/shenyandayi.jpg) 
 
-![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
+### [linegraphmaker](https://linegraphmaker.co/)
 
-### [aosabook](http://aosabook.org/en/index.html)
+在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
 
-网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
+![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
 
-- ZeroMQ
-- Chrome
-- Nginx
-- 等等
+### [animatedknots](https://www.animatedknots.com/)
 
-上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
+各种给绳子打结的姿势都可以在这里找到：
 
-### [transhumans](https://www.transhumans.xyz/)
-
-免费可商用的人物插图：
-
-![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
+![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
 
 ## ✍️ 说明
 
