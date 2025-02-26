@@ -5,89 +5,95 @@
 
 ## 🎯 项目 
 
-### [excalidraw](https://github.com/excalidraw/excalidraw)
+### [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)
 
-免费开源的白板绘图工具（默认提供手绘风格），官方也提供了 `Web` [在线使用](https://excalidraw.com/)版：
+`Neovim` 针对 `ChatGPT` 的插件：
 
-![excalidraw](https://images-1252557999.file.myqcloud.com/uPic/excalidraw.jpg) 
+![ChatGPT.nvim](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT.nvim.png) 
 
-### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
+### [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt)
 
-该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
+🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 
-![computer_book_list](https://images-1252557999.file.myqcloud.com/uPic/uxQa5E.png) 
+![feishu-chatgpt](https://images-1252557999.file.myqcloud.com/uPic/feishu-chatgpt.png) 
 
-### [inpaint-web](https://github.com/lxfater/inpaint-web)
+### [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)
 
-基于 `WebGPU` 技术和 `wasm` 技术的免费开源图片修复&图片高清化工具, 纯浏览器端实现：
+基于微软 `New Bing` 简单定制，拥有一致的 `UI` 体验，支持 `ChatGPT` 提示词，国内可用，基本兼容微软 `Bing AI` 所有功能，无需登录即可畅聊：
 
-![inpaint-web](https://images-1252557999.file.myqcloud.com/uPic/inpaint-web.jpg) 
+![go-proxy-bingai](https://images-1252557999.file.myqcloud.com/uPic/go-proxy-bingai.png) 
 
 ## 🤖 软件 
 
-### [natpass](https://github.com/lwch/natpass)
+### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 
-新一代 NAT 内网穿透+shell+vnc 工具：
+适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
 
-![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
+- **免费**：本项目所有代码开源，完全免费。
+- **方便**：解压即用，无需安装。不需要网络。
+- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
+- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
 
-### [ima.copilot](https://ima.qq.com/)
+![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
 
-集成了腾讯混元大模型和 `DeepSeek R1` 模型的智能知识库软件，旨在通过智能搜索、阅读、写作助手等功能，提供全新的知识获取和内容创作体验：
+### [bilibili-manga-downloader](https://github.com/lanyeeee/bilibili-manga-downloader)
 
-![ima.copilot](https://images-1252557999.file.myqcloud.com/uPic/k9Uo6Y.png) 
+一个用于哔哩哔哩漫画的多线程下载器，带图形界面，支持特典下载，下载速度飞快:
 
-### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
+![bilibili-manga-downloader](https://images-1252557999.file.myqcloud.com/uPic/ZqukK1.png) 
 
-针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
+### [Quake](https://github.com/phodal/quake)
 
-![netease-music-crx](https://images-1252557999.file.myqcloud.com/uPic/rkgRfw.png) 
+Quake 是面向极客的知识管理元框架，它可以：
+
+- 自由的文本内容管理。Todo 清单、文章管理、书评、笔记等。
+- 构建知识网络体系。定制化 markdown 链接
+- 抓住稍纵即逝的灵感。支持快速启动（CLI、TUI）与全局搜索
+- 自由的呈现画布。DSL 与自由画板
+
+![quake](https://images-1252557999.file.myqcloud.com/uPic/quake.gif) 
 
 ## 👀 资料 
 
-### [Linux 101](https://101.lug.ustc.edu.cn/)
+### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
 
-本书由中国科学技术大学 Linux 用户协会的数名优秀成员协力编写，用于配套和延展“Linux 101”校内社团活动。其面向 Linux 零基础读者，从计算机操作系统和 Linux 的起源讲起，深入浅出带领读者一步步逐渐掌握最必要的 Linux 实用知识，并在其中感悟到社区开源文化的魅力：
+关于 `MongoDB`，最全面的免费学习向导：
 
-![Linux101-docs](https://images-1252557999.file.myqcloud.com/uPic/Linux101-docs.jpg) 
+- 学习资源：文档书籍教程等
+- 第三方库：各种编程语言的兼容库
+- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
 
-### [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
+### [reversing](https://0xinfection.github.io/reversing/)
 
-将 `DeepSeek` 大模型能力轻松接入各类软件：
+免费电子书，面向所有人的逆向工程：
 
-- 应用程序：Chatbox ChatGPT-Next-Web	留白记事等
-- AI Agent 框架
-- RAG 框架
-- Solana 框架
-- 即时通讯插件
-- 浏览器插件
-- VS Code 插件 neovim 插件JetBrains 插件 
+![reversing](https://images-1252557999.file.myqcloud.com/uPic/reversing.jpg) 
 
-### [css-animation-101](https://github.com/cssanimation/css-animation-101)
+### [Al精选工具库](https://t16jzwqrzjx.feishu.cn/wiki/EsvowFAqFiTiYDkJgE0cWquPnWb)
 
-学习如何为您的网页项目添加动画效果，也有中文版👉[css-animation-101-cn](https://h-wakanda.github.io/css-animation-101-cn/)：
+18 个模块 100 个 AI 工具：
 
-![css-animation-101-cn](https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg) 
+![ai_tools](https://images-1252557999.file.myqcloud.com/uPic/ai_tools.jpg) 
 
 ## 🕸 网站 
 
-### [shenyandayi](https://www.shenyandayi.com/)
+### [producthunt-daily-hot](https://github.com/ViggoZ/producthunt-daily-hot)
 
-深言达意，懂文字更懂你：
+`Product Hunt` 每日热榜是一个基于 `GitHub Action` 的自动化工具，它能够每天定时生成 `Product Hunt` 上的热门产品榜单 `Markdown` 文件，并自动提交到 `GitHub` 仓库中。该项目旨在帮助用户快速查看每日的 `Product Hunt` 热门榜单，并提供更详细的产品信息。
 
-![shenyandayi](https://images-1252557999.file.myqcloud.com/uPic/shenyandayi.jpg) 
+![producthunt-daily-hot](https://images-1252557999.file.myqcloud.com/uPic/2vDyRf.png) 
 
-### [linegraphmaker](https://linegraphmaker.co/)
+### [sao.fm](https://sao.fm/)
 
-在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
+一个在线听广播电台的网站：
 
-![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
+![sao.fm](https://images-1252557999.file.myqcloud.com/uPic/sao.fm.jpg) 
 
-### [animatedknots](https://www.animatedknots.com/)
+### [zeli.app](https://zeli.app/zh)
 
-各种给绳子打结的姿势都可以在这里找到：
+用中文读科技新闻，旨在帮你快速挑选感兴趣的文章来读：
 
-![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
+![zeli](https://images-1252557999.file.myqcloud.com/uPic/dvVEf9.png) 
 
 ## ✍️ 说明
 
