@@ -5,95 +5,92 @@
 
 ## 🎯 项目 
 
-### [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)
+### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
 
-`Neovim` 针对 `ChatGPT` 的插件：
+可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
 
-![ChatGPT.nvim](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT.nvim.png) 
+类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
 
-### [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt)
+![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
 
-🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+### [teable](https://github.com/teableio/teable)
 
-![feishu-chatgpt](https://images-1252557999.file.myqcloud.com/uPic/feishu-chatgpt.png) 
+基于 `No-Code` 的下一代 `Airtable` 替代品，它提供了一个类似电子表格的界面来创建强大的数据库应用，支持实时协作，并且能够扩展到数百万行数据：
 
-### [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)
+![teable](https://images-1252557999.file.myqcloud.com/uPic/wzL3bp.png) 
 
-基于微软 `New Bing` 简单定制，拥有一致的 `UI` 体验，支持 `ChatGPT` 提示词，国内可用，基本兼容微软 `Bing AI` 所有功能，无需登录即可畅聊：
+### [dpanel](https://github.com/donknap/dpanel)
 
-![go-proxy-bingai](https://images-1252557999.file.myqcloud.com/uPic/go-proxy-bingai.png) 
+`Docker` 可视化面板系统，提供完善的 `Docker` 管理功能：
+
+![dpanel](https://images-1252557999.file.myqcloud.com/uPic/2rE2AN.png) 
 
 ## 🤖 软件 
 
-### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+### [哔哩](https://github.com/Richasy/Bili.Uwp)
 
-适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
+一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
 
-- **免费**：本项目所有代码开源，完全免费。
-- **方便**：解压即用，无需安装。不需要网络。
-- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
-- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
+![bili](https://images-1252557999.file.myqcloud.com/uPic/lnDWzU.jpg) 
 
-![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
+### [jan](https://github.com/janhq/jan)
 
-### [bilibili-manga-downloader](https://github.com/lanyeeee/bilibili-manga-downloader)
+`Jan` 是一个开源的 `ChatGPT` 替代品，可以在您的计算机上100%离线运行各种 `LLM`。`Jan` 适用于任何硬件。从个人电脑到多 `GPU` 集群，`Jan` 支持通用架构：
 
-一个用于哔哩哔哩漫画的多线程下载器，带图形界面，支持特典下载，下载速度飞快:
+![jan](https://images-1252557999.file.myqcloud.com/uPic/jan.jpg)
 
-![bilibili-manga-downloader](https://images-1252557999.file.myqcloud.com/uPic/ZqukK1.png) 
+目前体验这三款，这个用户体验最好。 
 
-### [Quake](https://github.com/phodal/quake)
+### [fluent-reader](https://github.com/yang991178/fluent-reader)
 
-Quake 是面向极客的知识管理元框架，它可以：
+一款拥有现代化界面的RSS阅读器，拥有以下特性：
 
-- 自由的文本内容管理。Todo 清单、文章管理、书评、笔记等。
-- 构建知识网络体系。定制化 markdown 链接
-- 抓住稍纵即逝的灵感。支持快速启动（CLI、TUI）与全局搜索
-- 自由的呈现画布。DSL 与自由画板
+- 跨平台
+- 可同步自部署服务以及外部服务如：Inoreader, Feedbin
+- 支持OPML导入导出
+- 正则检索，状态管控，快捷键等
 
-![quake](https://images-1252557999.file.myqcloud.com/uPic/quake.gif) 
+![fluent-reader](https://images-1252557999.file.myqcloud.com/uPic/fluent-reader.png) 
 
 ## 👀 资料 
 
-### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
+### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
 
-关于 `MongoDB`，最全面的免费学习向导：
+精益副业：程序员如何优雅地做副业:
 
-- 学习资源：文档书籍教程等
-- 第三方库：各种编程语言的兼容库
-- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
+![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
 
-### [reversing](https://0xinfection.github.io/reversing/)
+### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
 
-免费电子书，面向所有人的逆向工程：
+经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
 
-![reversing](https://images-1252557999.file.myqcloud.com/uPic/reversing.jpg) 
+![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
 
-### [Al精选工具库](https://t16jzwqrzjx.feishu.cn/wiki/EsvowFAqFiTiYDkJgE0cWquPnWb)
+### [数据科学学习指南](https://github.com/amitness/learning)
 
-18 个模块 100 个 AI 工具：
+数据科学学习指南，帮你每天提升1%的数据科学技能。主要包含电子表格与数据库的数据处理、命令行工具使用、数据分析与可视化技巧、论文阅读方法，各类模型与算法讲解等知识，另外还有商业思维培养、写作与沟通技巧等非技术类内容。
 
-![ai_tools](https://images-1252557999.file.myqcloud.com/uPic/ai_tools.jpg) 
+![data-learning](https://images-1252557999.file.myqcloud.com/uPic/tlkHzW.png) 
 
 ## 🕸 网站 
 
-### [producthunt-daily-hot](https://github.com/ViggoZ/producthunt-daily-hot)
+### [apivault.dev](https://apivault.dev/)
 
-`Product Hunt` 每日热榜是一个基于 `GitHub Action` 的自动化工具，它能够每天定时生成 `Product Hunt` 上的热门产品榜单 `Markdown` 文件，并自动提交到 `GitHub` 仓库中。该项目旨在帮助用户快速查看每日的 `Product Hunt` 热门榜单，并提供更详细的产品信息。
+免费开源的公共 `API` 网站：
 
-![producthunt-daily-hot](https://images-1252557999.file.myqcloud.com/uPic/2vDyRf.png) 
+![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
 
-### [sao.fm](https://sao.fm/)
+### [db-fiddle](https://www.db-fiddle.com/)
 
-一个在线听广播电台的网站：
+免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
 
-![sao.fm](https://images-1252557999.file.myqcloud.com/uPic/sao.fm.jpg) 
+![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
 
-### [zeli.app](https://zeli.app/zh)
+### [aspoem](https://aspoem.com/)
 
-用中文读科技新闻，旨在帮你快速挑选感兴趣的文章来读：
+现代化中国诗词学习网站 - 更加注重 UI、阅读体验：
 
-![zeli](https://images-1252557999.file.myqcloud.com/uPic/dvVEf9.png) 
+![aspoem](https://images-1252557999.file.myqcloud.com/uPic/aspoem.png) 
 
 ## ✍️ 说明
 
