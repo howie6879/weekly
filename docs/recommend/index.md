@@ -5,92 +5,83 @@
 
 ## 🎯 项目 
 
-### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
+### [wazuh](https://github.com/wazuh/wazuh)
 
-可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
+`Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具。
 
-类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
+![wazuh](https://images-1252557999.file.myqcloud.com/uPic/wazuh.png) 
 
-![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
+### [mall-cook](https://github.com/wangyuan389/mall-cook)
 
-### [teable](https://github.com/teableio/teable)
+Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
 
-基于 `No-Code` 的下一代 `Airtable` 替代品，它提供了一个类似电子表格的界面来创建强大的数据库应用，支持实时协作，并且能够扩展到数百万行数据：
+![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
 
-![teable](https://images-1252557999.file.myqcloud.com/uPic/wzL3bp.png) 
+### [Hakuba](https://github.com/YeungKC/Hakuba)
 
-### [dpanel](https://github.com/donknap/dpanel)
+一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
 
-`Docker` 可视化面板系统，提供完善的 `Docker` 管理功能：
-
-![dpanel](https://images-1252557999.file.myqcloud.com/uPic/2rE2AN.png) 
+![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
 
 ## 🤖 软件 
 
-### [哔哩](https://github.com/Richasy/Bili.Uwp)
+### [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)
 
-一款 `哔哩哔哩`的第三方应用，使用 UWP 框架开发，是原生的 Windows 应用，支持 Windows 10/11 系统。主打设计和易用性，广受用户好评。
+基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
 
-![bili](https://images-1252557999.file.myqcloud.com/uPic/lnDWzU.jpg) 
+![bob-plugin-openai-translator](https://images-1252557999.file.myqcloud.com/uPic/bob-plugin-openai-translator.jpg) 
 
-### [jan](https://github.com/janhq/jan)
+### [yanhuo](https://eigenmiao.com/yanhuo)
 
-`Jan` 是一个开源的 `ChatGPT` 替代品，可以在您的计算机上100%离线运行各种 `LLM`。`Jan` 适用于任何硬件。从个人电脑到多 `GPU` 集群，`Jan` 支持通用架构：
+焰火十二卷是一款免费开源的跨平台调色板软件。它提供了多种功能来生成一组调和色彩，可以为你提供更好的色彩搭配方案。你可以通过色轮选取、图像拾色等方式轻松获得想要的色彩组合。你可以将这些色彩应用到自己的创作，或者分享给他人。
 
-![jan](https://images-1252557999.file.myqcloud.com/uPic/jan.jpg)
+![yanhuo](https://images-1252557999.file.myqcloud.com/uPic/yanhuo.jpg) 
 
-目前体验这三款，这个用户体验最好。 
+### [Hail](https://github.com/aistra0528/Hail)
 
-### [fluent-reader](https://github.com/yang991178/fluent-reader)
+雹(Hail) 是一个允许用户在没有 root 权限的情况下，通过冻结、隐藏、暂停或卸载来管理 Android 应用的自由软件：
 
-一款拥有现代化界面的RSS阅读器，拥有以下特性：
-
-- 跨平台
-- 可同步自部署服务以及外部服务如：Inoreader, Feedbin
-- 支持OPML导入导出
-- 正则检索，状态管控，快捷键等
-
-![fluent-reader](https://images-1252557999.file.myqcloud.com/uPic/fluent-reader.png) 
+![Hail](https://images-1252557999.file.myqcloud.com/uPic/nhaDp1.png) 
 
 ## 👀 资料 
 
-### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
+### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
 
-精益副业：程序员如何优雅地做副业:
+Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
 
-![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
+![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
 
-### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+### [Nginx 开发从入门到精通](https://tengine.taobao.org/book/)
 
-经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+淘宝团队出品的关于 `Nginx` 模块开发以及内部原理的书：
 
-![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
+![tb_nginx](https://images-1252557999.file.myqcloud.com/uPic/tb_nginx.jpg) 
 
-### [数据科学学习指南](https://github.com/amitness/learning)
+### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
 
-数据科学学习指南，帮你每天提升1%的数据科学技能。主要包含电子表格与数据库的数据处理、命令行工具使用、数据分析与可视化技巧、论文阅读方法，各类模型与算法讲解等知识，另外还有商业思维培养、写作与沟通技巧等非技术类内容。
+本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
 
-![data-learning](https://images-1252557999.file.myqcloud.com/uPic/tlkHzW.png) 
+![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
 
 ## 🕸 网站 
 
-### [apivault.dev](https://apivault.dev/)
+### [uipatterns](http://uipatterns.io)
 
-免费开源的公共 `API` 网站：
+程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
 
-![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/uipatterns.jpg) 
 
-### [db-fiddle](https://www.db-fiddle.com/)
+### [Python Tutor](https://pythontutor.com/?)
 
-免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
+这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
 
-![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
+![Python Tutor](https://images-1252557999.file.myqcloud.com/uPic/hIdiXA.png) 
 
-### [aspoem](https://aspoem.com/)
+### [json-to-go](https://mholt.github.io/json-to-go/)
 
-现代化中国诗词学习网站 - 更加注重 UI、阅读体验：
+在浏览器中将 `JSON` 转换为 `Go` 类型：
 
-![aspoem](https://images-1252557999.file.myqcloud.com/uPic/aspoem.png) 
+![json-to-go](https://images-1252557999.file.myqcloud.com/uPic/json-to-go.jpg) 
 
 ## ✍️ 说明
 
