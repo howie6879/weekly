@@ -5,83 +5,105 @@
 
 ## 🎯 项目 
 
-### [wazuh](https://github.com/wazuh/wazuh)
+### [mkcert](https://github.com/FiloSottile/mkcert)
 
-`Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具。
+`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
 
-![wazuh](https://images-1252557999.file.myqcloud.com/uPic/wazuh.png) 
+![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
 
-### [mall-cook](https://github.com/wangyuan389/mall-cook)
+### [simple-one-api](https://github.com/fruitbars/simple-one-api)
 
-Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
+OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用。 
 
-![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
+### [whistle](https://github.com/avwo/whistle)
 
-### [Hakuba](https://github.com/YeungKC/Hakuba)
+Whistle 是基于 Node 实现的跨平台抓包调试工具，其主要特点：
 
-一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
+- **完全跨平台**：支持 Mac、Windows 等桌面系统，且支持服务端等命令行系统
+- **功能强大（理论上可以对请求做任意修改）**：
+    - 支持作为 HTTP、HTTPS、SOCKS 代理及反向代理
+    - 支持抓包及修改 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求
+    - 支持重放及构造 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求
+    - 支持设置上游代理、PAC 脚本、Hosts、延迟（限速）请求响应等
+    - 支持查看远程页面的 console 日志及 DOM 节点
+    - 支持用 Node 开发插件扩展功能，也可以作为独立 npm 包引用
+- **操作简单**：
+    - 直接通过浏览器查看抓包、修改请求
+    - 所有修改操作都可以通过配置方式实现（类似系统 Hosts），并支持分组管理
+    - 项目可以自带代理规则配置并一键设置到本地 Whistle 代理，也可以通过定制插件简化操作
 
-![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
+![whistle](https://images-1252557999.file.myqcloud.com/uPic/whistle.png) 
 
 ## 🤖 软件 
 
-### [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)
+### [SwiftBar](https://github.com/swiftbar/SwiftBar)
 
-基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
+一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
 
-![bob-plugin-openai-translator](https://images-1252557999.file.myqcloud.com/uPic/bob-plugin-openai-translator.jpg) 
+![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
 
-### [yanhuo](https://eigenmiao.com/yanhuo)
+### [koodo-reader](https://github.com/troyeguo/koodo-reader)
 
-焰火十二卷是一款免费开源的跨平台调色板软件。它提供了多种功能来生成一组调和色彩，可以为你提供更好的色彩搭配方案。你可以通过色轮选取、图像拾色等方式轻松获得想要的色彩组合。你可以将这些色彩应用到自己的创作，或者分享给他人。
+一个跨平台的电子书阅读器：
 
-![yanhuo](https://images-1252557999.file.myqcloud.com/uPic/yanhuo.jpg) 
+- 支持多达 15 种主流电子书格
+- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
+- 备份数据到  **Dropbox**  和  **Webdav**
+- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
+- 双页模式，单页模式，滚动模式
+- 听书功能，翻译功能，触控屏支持，批量导入图书
+- 支持目录，书签，笔记，高亮，书架，标签
+- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
+- 黑夜模式和主题色设置
 
-### [Hail](https://github.com/aistra0528/Hail)
+![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
 
-雹(Hail) 是一个允许用户在没有 root 权限的情况下，通过冻结、隐藏、暂停或卸载来管理 Android 应用的自由软件：
+### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
 
-![Hail](https://images-1252557999.file.myqcloud.com/uPic/nhaDp1.png) 
+基于 Electron + Vue + ffmpeg 的 GUI：
+
+![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
 
 ## 👀 资料 
 
-### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
+### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
 
-Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
-![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
+### [reversing](https://0xinfection.github.io/reversing/)
 
-### [Nginx 开发从入门到精通](https://tengine.taobao.org/book/)
+免费电子书，面向所有人的逆向工程：
 
-淘宝团队出品的关于 `Nginx` 模块开发以及内部原理的书：
+![reversing](https://images-1252557999.file.myqcloud.com/uPic/reversing.jpg) 
 
-![tb_nginx](https://images-1252557999.file.myqcloud.com/uPic/tb_nginx.jpg) 
+### [grammar-club](https://github.com/llwslc/grammar-club)
 
-### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
+旋元佑老师的语法俱乐部书籍电子版，在线阅读[地址](https://llwslc.github.io/grammar-club/content/Preface.html)：
 
-本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
-
-![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
+![grammar-club](https://images-1252557999.file.myqcloud.com/uPic/grammar-club.jpg) 
 
 ## 🕸 网站 
 
-### [uipatterns](http://uipatterns.io)
+### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
 
-程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
+Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/uipatterns.jpg) 
+![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
 
-### [Python Tutor](https://pythontutor.com/?)
+### [relationship](https://passer-by.com/relationship/)
 
-这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
+中国亲戚关系计算器：
 
-![Python Tutor](https://images-1252557999.file.myqcloud.com/uPic/hIdiXA.png) 
+![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
 
-### [json-to-go](https://mholt.github.io/json-to-go/)
+### [duckduckgo-chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
 
-在浏览器中将 `JSON` 转换为 `Go` 类型：
+`DuckDuckGo` 开放了免费的 `AI` 聊天机器人，支持模型有：
 
-![json-to-go](https://images-1252557999.file.myqcloud.com/uPic/json-to-go.jpg) 
+- GPT-3.5 Turbo
+- Claude 1.2 Instant
+
+![duckduckgo_chat](https://images-1252557999.file.myqcloud.com/uPic/duckduckgo_chat.jpg) 
 
 ## ✍️ 说明
 
