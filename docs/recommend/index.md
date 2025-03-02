@@ -5,105 +5,91 @@
 
 ## 🎯 项目 
 
-### [mkcert](https://github.com/FiloSottile/mkcert)
+### [WeChatMsg](https://github.com/LC044/WeChatMsg)
 
-`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
+提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告：
 
-![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
+![WeChatMsg](https://images-1252557999.file.myqcloud.com/uPic/WeChatMsg.png) 
 
-### [simple-one-api](https://github.com/fruitbars/simple-one-api)
+### [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo "MoneyPrinterTurbo")
 
-OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用。 
+只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频：
 
-### [whistle](https://github.com/avwo/whistle)
+![MoneyPrinterTurbo](https://images-1252557999.file.myqcloud.com/uPic/MoneyPrinterTurbo.jpeg) 
 
-Whistle 是基于 Node 实现的跨平台抓包调试工具，其主要特点：
+### [FastChat](https://github.com/lm-sys/FastChat)
 
-- **完全跨平台**：支持 Mac、Windows 等桌面系统，且支持服务端等命令行系统
-- **功能强大（理论上可以对请求做任意修改）**：
-    - 支持作为 HTTP、HTTPS、SOCKS 代理及反向代理
-    - 支持抓包及修改 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求
-    - 支持重放及构造 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求
-    - 支持设置上游代理、PAC 脚本、Hosts、延迟（限速）请求响应等
-    - 支持查看远程页面的 console 日志及 DOM 节点
-    - 支持用 Node 开发插件扩展功能，也可以作为独立 npm 包引用
-- **操作简单**：
-    - 直接通过浏览器查看抓包、修改请求
-    - 所有修改操作都可以通过配置方式实现（类似系统 Hosts），并支持分组管理
-    - 项目可以自带代理规则配置并一键设置到本地 Whistle 代理，也可以通过定制插件简化操作
+这是一个开放的平台，可用于训练、部署和评估基于大型语言模型的聊天机器人。也就是说，这个平台可以帮助人们创建聊天机器人，让其具备更好的语言理解能力，并提供一个可靠的方式来测试和评估这些聊天机器人的表现：
 
-![whistle](https://images-1252557999.file.myqcloud.com/uPic/whistle.png) 
+![FastChat](https://images-1252557999.file.myqcloud.com/uPic/FastChat.jpg) 
 
 ## 🤖 软件 
 
-### [SwiftBar](https://github.com/swiftbar/SwiftBar)
+### [LLMFarm](https://github.com/guinmoon/LLMFarm)
 
-一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
+`LLMFarm` 是一款用于与大型语言模型（LLM）配合使用的iOS和MacOS应用程序，它允许您可以使用某些参数加载不同的 LLM：
 
-![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
+![LLMFarm](https://images-1252557999.file.myqcloud.com/uPic/LLMFarm.jpg) 
 
-### [koodo-reader](https://github.com/troyeguo/koodo-reader)
+### [Imagine](https://github.com/meowtec/Imagine)
 
-一个跨平台的电子书阅读器：
+全平台支持的图片压缩软件：
 
-- 支持多达 15 种主流电子书格
-- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
-- 备份数据到  **Dropbox**  和  **Webdav**
-- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
-- 双页模式，单页模式，滚动模式
-- 听书功能，翻译功能，触控屏支持，批量导入图书
-- 支持目录，书签，笔记，高亮，书架，标签
-- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
-- 黑夜模式和主题色设置
+![Imagine](https://images-1252557999.file.myqcloud.com/uPic/KrSb9L.png)
 
-![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
+看看这86%的压缩率还是挺上头的，而且效果很好。 
 
-### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
+### [weektodo](https://weektodo.me/)
 
-基于 Electron + Vue + ffmpeg 的 GUI：
+`WeekToDo` 是一个免费且开源&跨平台的极简周计划软件，您可以以简单直观的方式定义和管理您的周计划和任务，从而提高您的工作效率：
 
-![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
+![weektodo](https://images-1252557999.file.myqcloud.com/uPic/weektodo.jpg) 
 
 ## 👀 资料 
 
-### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
+### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
-![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
+清华大学计算机系课程攻略：
 
-### [reversing](https://0xinfection.github.io/reversing/)
+![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
 
-免费电子书，面向所有人的逆向工程：
+### [C++服务器开发精髓](https://cppguide.cn/pages/92255f/)
 
-![reversing](https://images-1252557999.file.myqcloud.com/uPic/reversing.jpg) 
+开源电子书籍，本书从操作系统原理角度讲解进行C++服务器开发所需掌握的技术栈：
 
-### [grammar-club](https://github.com/llwslc/grammar-club)
+![cppguide](https://images-1252557999.file.myqcloud.com/uPic/cppguide.jpg) 
 
-旋元佑老师的语法俱乐部书籍电子版，在线阅读[地址](https://llwslc.github.io/grammar-club/content/Preface.html)：
+### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
 
-![grammar-club](https://images-1252557999.file.myqcloud.com/uPic/grammar-club.jpg) 
+一本开源的专门讲解面试关键路径的书籍：
+
+![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
 
 ## 🕸 网站 
 
-### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
+### [devdocs](https://devdocs.io/)
 
-Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
+提供在线快速查找API接口文档的网站：
 
-![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
+![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
 
-### [relationship](https://passer-by.com/relationship/)
+### [regex101](https://regex101.com/)
 
-中国亲戚关系计算器：
+`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
 
-![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
+- PHP
+- Python
+- JS
+- Go
+- Java
 
-### [duckduckgo-chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
+![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
 
-`DuckDuckGo` 开放了免费的 `AI` 聊天机器人，支持模型有：
+### [svgsilh](https://svgsilh.com/)
 
-- GPT-3.5 Turbo
-- Claude 1.2 Instant
+免费可商用的`SVG`素材网站：
 
-![duckduckgo_chat](https://images-1252557999.file.myqcloud.com/uPic/duckduckgo_chat.jpg) 
+![svgsilh](https://images-1252557999.file.myqcloud.com/uPic/svgsilh.jpg) 
 
 ## ✍️ 说明
 
