@@ -5,91 +5,89 @@
 
 ## 🎯 项目 
 
-### [WeChatMsg](https://github.com/LC044/WeChatMsg)
+### [dioxus](https://github.com/DioxusLabs/dioxus)
 
-提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告：
+一个 `Rust` 全栈应用框架，支持 Web、桌面、移动和更多平台的开发：
 
-![WeChatMsg](https://images-1252557999.file.myqcloud.com/uPic/WeChatMsg.png) 
+![dioxus](https://images-1252557999.file.myqcloud.com/uPic/GOLB2g.png) 
 
-### [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo "MoneyPrinterTurbo")
+### [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)
 
-只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频：
+`ChatGPT` 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制：
 
-![MoneyPrinterTurbo](https://images-1252557999.file.myqcloud.com/uPic/MoneyPrinterTurbo.jpeg) 
+![aishort](https://images-1252557999.file.myqcloud.com/uPic/aishort.jpg) 
 
-### [FastChat](https://github.com/lm-sys/FastChat)
+### [OnnxOCR](https://github.com/jingsongliujing/OnnxOCR)
 
-这是一个开放的平台，可用于训练、部署和评估基于大型语言模型的聊天机器人。也就是说，这个平台可以帮助人们创建聊天机器人，让其具备更好的语言理解能力，并提供一个可靠的方式来测试和评估这些聊天机器人的表现：
-
-![FastChat](https://images-1252557999.file.myqcloud.com/uPic/FastChat.jpg) 
+基于 `PaddleOCR` 重构，并且脱离PaddlePaddle深度学习训练框架的轻量级 `OCR`，推理速度超快。 
 
 ## 🤖 软件 
 
-### [LLMFarm](https://github.com/guinmoon/LLMFarm)
+### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
 
-`LLMFarm` 是一款用于与大型语言模型（LLM）配合使用的iOS和MacOS应用程序，它允许您可以使用某些参数加载不同的 LLM：
+一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
 
-![LLMFarm](https://images-1252557999.file.myqcloud.com/uPic/LLMFarm.jpg) 
+![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
 
-### [Imagine](https://github.com/meowtec/Imagine)
+### [mCollection](https://github.com/hunmer/mCollection)
 
-全平台支持的图片压缩软件：
+🎉开源，可扩展，可自定义的素材管理库：
 
-![Imagine](https://images-1252557999.file.myqcloud.com/uPic/KrSb9L.png)
+-  sqlite3存储结构，允许自定义关联表
+-  没有限制的扩展插件，事件广播多
+-  模块化设计，各个功能互不干扰
+-  标签页设计，切换更便捷
+-  内置全局呼出搜索
+-  代码热更新
+-  前后端分离，支持部署私人素材库
 
-看看这86%的压缩率还是挺上头的，而且效果很好。 
+![mCollection](https://images-1252557999.file.myqcloud.com/uPic/mCollection.png) 
 
-### [weektodo](https://weektodo.me/)
+### [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
 
-`WeekToDo` 是一个免费且开源&跨平台的极简周计划软件，您可以以简单直观的方式定义和管理您的周计划和任务，从而提高您的工作效率：
+一个用于显示当前网速、CPU及内存利用率的 Windows 桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤:
 
-![weektodo](https://images-1252557999.file.myqcloud.com/uPic/weektodo.jpg) 
+![TrafficMonitor](https://images-1252557999.file.myqcloud.com/uPic/TrafficMonitor.jpg) 
 
 ## 👀 资料 
 
-### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+### [php-the-right-way](https://learnku.com/docs/php-the-right-way/PHP8.0)
 
-清华大学计算机系课程攻略：
+PHP 入门教程，现在这块市场占有越来越少了，新项目应该都用 Go 或者 Python ，有兴趣学习的可以作为教程看看：
 
-![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
+![php-the-right-way](https://images-1252557999.file.myqcloud.com/uPic/DKXw5S.png) 
 
-### [C++服务器开发精髓](https://cppguide.cn/pages/92255f/)
+### [PyTorch-Tutorial-2nd](https://github.com/TingsongYu/PyTorch-Tutorial-2nd)
 
-开源电子书籍，本书从操作系统原理角度讲解进行C++服务器开发所需掌握的技术栈：
+《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项目应用，或是进阶工程化部署落地，在这里都有。相信在本书的帮助下，读者将能够轻松掌握 PyTorch 的使用，成为一名优秀的深度学习工程师。
 
-![cppguide](https://images-1252557999.file.myqcloud.com/uPic/cppguide.jpg) 
+![PyTorch-Tutorial-2nd](https://img.fre123.com/i/2024/07/12/6690fc7ae91f6.png) 
 
-### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
+### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
 
-一本开源的专门讲解面试关键路径的书籍：
+学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
 
-![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
+![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
 
 ## 🕸 网站 
 
-### [devdocs](https://devdocs.io/)
+### [crashcourse](https://crashcourse.club/category)
 
-提供在线快速查找API接口文档的网站：
+`Crash Course` 10分钟速成课，是 `Hank Green & John Green` `两兄弟在Youtube` 上制作的系列免费课程，包含了历史、文学、计算机、心理学、哲学、化学、生物学、电影等奖金40中科目的速成课，值得一看：
 
-![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
+![crashcourse](https://images-1252557999.file.myqcloud.com/uPic/crashcourse.jpg) 
 
-### [regex101](https://regex101.com/)
+### [lookscanned.io](https://lookscanned.io/)
 
-`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
+[lookscanned.io](https://github.com/rwv/lookscanned.io) 是一个开源网页项目，依托 WebAssembly 等先进技术，无需打印之后再扫描这类繁琐的过程。仅需点击下按钮，分秒之间，你就能得到所需要的扫描件了：
 
-- PHP
-- Python
-- JS
-- Go
-- Java
+![lookscanned](https://images-1252557999.file.myqcloud.com/uPic/lookscanned.jpg) 
 
-![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
+### [waytoagi](https://www.waytoagi.com/)
 
-### [svgsilh](https://svgsilh.com/)
+`AI` 知识库和工具站：
 
-免费可商用的`SVG`素材网站：
-
-![svgsilh](https://images-1252557999.file.myqcloud.com/uPic/svgsilh.jpg) 
+![waytoagi](https://images-1252557999.file.myqcloud.com/uPic/waytoagi.jpg) 
 
 ## ✍️ 说明
 
