@@ -5,63 +5,57 @@
 
 ## 🎯 项目 
 
-### [dioxus](https://github.com/DioxusLabs/dioxus)
+### [metabase](https://github.com/metabase/metabase)
 
-一个 `Rust` 全栈应用框架，支持 Web、桌面、移动和更多平台的开发：
+为公司提供的快速BI数据可视化工具：
 
-![dioxus](https://images-1252557999.file.myqcloud.com/uPic/GOLB2g.png) 
+![metabase](https://images-1252557999.file.myqcloud.com/uPic/metabase.png)
 
-### [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)
+也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.com/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease) 
 
-`ChatGPT` 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制：
+### [rembg](https://github.com/danielgatis/rembg)
 
-![aishort](https://images-1252557999.file.myqcloud.com/uPic/aishort.jpg) 
+之前有介绍过一个去除图片背景的网站-[remove.bg](https://www.remove.bg/zh)，这网站虽然免费，但是高清版本的图片下载需要收费，现在这个开源的图片背景去除项目将完全解决这个问题：
 
-### [OnnxOCR](https://github.com/jingsongliujing/OnnxOCR)
+![rembg](https://images-1252557999.file.myqcloud.com/uPic/rembg.jpg)
 
-基于 `PaddleOCR` 重构，并且脱离PaddlePaddle深度学习训练框架的轻量级 `OCR`，推理速度超快。 
+你可以作为第三方库使用，也在终端以及启用服务化来使用。 
+
+### [simple-one-api](https://github.com/fruitbars/simple-one-api)
+
+OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用。 
 
 ## 🤖 软件 
 
-### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
+### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
-一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
+跨平台的 `PostgreSQL` 数据库管理软件（开源）：
 
-![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
+![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
 
-### [mCollection](https://github.com/hunmer/mCollection)
+### [Seal](https://github.com/JunkFood02/Seal)
 
-🎉开源，可扩展，可自定义的素材管理库：
+一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
 
--  sqlite3存储结构，允许自定义关联表
--  没有限制的扩展插件，事件广播多
--  模块化设计，各个功能互不干扰
--  标签页设计，切换更便捷
--  内置全局呼出搜索
--  代码热更新
--  前后端分离，支持部署私人素材库
+- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
+- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
+- 播放列表下载支持
+- 内嵌字幕于视频文件中
+- 执行自定义的 yt-dlp 命令模板
+- 管理应用内下载与自定义命令模板
+- 使用简单、用户友好
+- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
+- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
+    
+![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
 
-![mCollection](https://images-1252557999.file.myqcloud.com/uPic/mCollection.png) 
+### [Itsycal](https://www.mowglii.com/itsycal/)
 
-### [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
+一款简单优雅的 Macos 菜单栏日历：
 
-一个用于显示当前网速、CPU及内存利用率的 Windows 桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤:
-
-![TrafficMonitor](https://images-1252557999.file.myqcloud.com/uPic/TrafficMonitor.jpg) 
+![itsycal](https://images-1252557999.file.myqcloud.com/uPic/itsycal.png) 
 
 ## 👀 资料 
-
-### [php-the-right-way](https://learnku.com/docs/php-the-right-way/PHP8.0)
-
-PHP 入门教程，现在这块市场占有越来越少了，新项目应该都用 Go 或者 Python ，有兴趣学习的可以作为教程看看：
-
-![php-the-right-way](https://images-1252557999.file.myqcloud.com/uPic/DKXw5S.png) 
-
-### [PyTorch-Tutorial-2nd](https://github.com/TingsongYu/PyTorch-Tutorial-2nd)
-
-《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项目应用，或是进阶工程化部署落地，在这里都有。相信在本书的帮助下，读者将能够轻松掌握 PyTorch 的使用，成为一名优秀的深度学习工程师。
-
-![PyTorch-Tutorial-2nd](https://img.fre123.com/i/2024/07/12/6690fc7ae91f6.png) 
 
 ### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
 
@@ -69,19 +63,33 @@ PHP 入门教程，现在这块市场占有越来越少了，新项目应该都�
 
 ![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
 
+### [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
+
+《[初创公司CTO手册](https://docs.google.com/document/d/147KVarJdNQ2ZdmDHOSsd7W39anejRu2NfxEWCzwl0IU/edit?pli=1)》是一本涵盖软件工程团队领导力、管理和技术主题的书籍。旨在为技术团队领导力提供指导，内容涵盖业务流程、人员管理、招聘面试、入职培训、绩效管理、团队构成、领导责任等多个方面：
+
+![ctohb](https://images-1252557999.file.myqcloud.com/uPic/ctohb.jpg) 
+
+### [事实核查手册](https://chinafactcheck.com/?p=11465)
+
+虚假信息泛滥已成世界性难题，简体中文内容市场亦难置身事外。作为应对手段之一，事实核查在中国开始萌芽。
+
+本手册以案例的形式介绍了常用的文字、图片和视频核查工具，也涉及事实核查的工作流程、信源评估，并译介了国际事实核查机构惯用的职业准则与实践，希望能为中国的事实核查业者和观察者提供一定的参考。
+
+![事实核查手册](https://images-1252557999.file.myqcloud.com/uPic/事实核查手册.jpg) 
+
 ## 🕸 网站 
 
-### [crashcourse](https://crashcourse.club/category)
+### [apitracker](https://apitracker.io/)
 
-`Crash Course` 10分钟速成课，是 `Hank Green & John Green` `两兄弟在Youtube` 上制作的系列免费课程，包含了历史、文学、计算机、心理学、哲学、化学、生物学、电影等奖金40中科目的速成课，值得一看：
+发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
 
-![crashcourse](https://images-1252557999.file.myqcloud.com/uPic/crashcourse.jpg) 
+![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
 
-### [lookscanned.io](https://lookscanned.io/)
+### [screenshot](https://screenshot.rocks/)
 
-[lookscanned.io](https://github.com/rwv/lookscanned.io) 是一个开源网页项目，依托 WebAssembly 等先进技术，无需打印之后再扫描这类繁琐的过程。仅需点击下按钮，分秒之间，你就能得到所需要的扫描件了：
+快速创建精美的移动和浏览器屏幕截图：
 
-![lookscanned](https://images-1252557999.file.myqcloud.com/uPic/lookscanned.jpg) 
+![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
 
 ### [waytoagi](https://www.waytoagi.com/)
 
