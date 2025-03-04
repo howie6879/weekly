@@ -5,97 +5,83 @@
 
 ## 🎯 项目 
 
-### [metabase](https://github.com/metabase/metabase)
+### [rss-proxy](https://github.com/damoeb/rss-proxy)
 
-为公司提供的快速BI数据可视化工具：
+通过分析用户提供的静态页面自动创建RSS订阅源：
 
-![metabase](https://images-1252557999.file.myqcloud.com/uPic/metabase.png)
+![](https://images-1252557999.file.myqcloud.com/uPic/APrAbH.png) 
 
-也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.com/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease) 
+### [upptime](https://github.com/upptime/upptime)
 
-### [rembg](https://github.com/danielgatis/rembg)
+由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
 
-之前有介绍过一个去除图片背景的网站-[remove.bg](https://www.remove.bg/zh)，这网站虽然免费，但是高清版本的图片下载需要收费，现在这个开源的图片背景去除项目将完全解决这个问题：
+![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
 
-![rembg](https://images-1252557999.file.myqcloud.com/uPic/rembg.jpg)
+### [openui](https://github.com/wandb/openui)
 
-你可以作为第三方库使用，也在终端以及启用服务化来使用。 
+将你脑中的页面通过文本描述来自动实时生成，非常方便，但是实用性具体如何还需要探索，期待这个项目持续迭代：
 
-### [simple-one-api](https://github.com/fruitbars/simple-one-api)
+![openui](https://images-1252557999.file.myqcloud.com/uPic/openui.jpg)
 
-OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用。 
+它甚至可以帮助你将HTML转换成 `React、Svelte or Web Components` 等格式。 
 
 ## 🤖 软件 
 
-### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
+### [res-downloader](https://github.com/putyy/res-downloader)
 
-跨平台的 `PostgreSQL` 数据库管理软件（开源）：
+网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
 
-![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
+![res-downloader](https://images-1252557999.file.myqcloud.com/uPic/res-downloader.jpeg) 
 
-### [Seal](https://github.com/JunkFood02/Seal)
+### [uPic](https://github.com/gee1k/uPic)
 
-一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
+`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
 
-- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
-- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
-- 播放列表下载支持
-- 内嵌字幕于视频文件中
-- 执行自定义的 yt-dlp 命令模板
-- 管理应用内下载与自定义命令模板
-- 使用简单、用户友好
-- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
-- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
-    
-![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
+我的必备软件：
 
-### [Itsycal](https://www.mowglii.com/itsycal/)
+![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
 
-一款简单优雅的 Macos 菜单栏日历：
+### [jingmo](https://github.com/hefengbao/jingmo)
 
-![itsycal](https://images-1252557999.file.myqcloud.com/uPic/itsycal.png) 
+『京墨』开源免费的古诗词文（名句）、歇后语、成语、传统节日、绕口令等的阅读 `APP`：
+
+![jingmo](https://images-1252557999.file.myqcloud.com/uPic/EL9mYu.png) 
 
 ## 👀 资料 
 
-### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+### [learn-regex](https://github.com/ziishaned/learn-regex)
 
-学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
+开源的正则表达式教程，有中文版，有在线示例。 
 
-![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
+### [how-web-works](https://github.com/vasanthk/how-web-works)
 
-### [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
+当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
 
-《[初创公司CTO手册](https://docs.google.com/document/d/147KVarJdNQ2ZdmDHOSsd7W39anejRu2NfxEWCzwl0IU/edit?pli=1)》是一本涵盖软件工程团队领导力、管理和技术主题的书籍。旨在为技术团队领导力提供指导，内容涵盖业务流程、人员管理、招聘面试、入职培训、绩效管理、团队构成、领导责任等多个方面：
+### [现代 JavaScript 教程](https://zh.javascript.info/)
 
-![ctohb](https://images-1252557999.file.myqcloud.com/uPic/ctohb.jpg) 
+以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识：
 
-### [事实核查手册](https://chinafactcheck.com/?p=11465)
-
-虚假信息泛滥已成世界性难题，简体中文内容市场亦难置身事外。作为应对手段之一，事实核查在中国开始萌芽。
-
-本手册以案例的形式介绍了常用的文字、图片和视频核查工具，也涉及事实核查的工作流程、信源评估，并译介了国际事实核查机构惯用的职业准则与实践，希望能为中国的事实核查业者和观察者提供一定的参考。
-
-![事实核查手册](https://images-1252557999.file.myqcloud.com/uPic/事实核查手册.jpg) 
+![javascript_info](https://images-1252557999.file.myqcloud.com/uPic/javascript_info.jpg) 
 
 ## 🕸 网站 
 
-### [apitracker](https://apitracker.io/)
+### [websequencediagrams](https://www.websequencediagrams.com/)
 
-发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
+提供在线绘制时序图的网站：
 
-![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
-### [screenshot](https://screenshot.rocks/)
+### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
 
-快速创建精美的移动和浏览器屏幕截图：
+一个搜索 git 常用 emoji 的网站:
 
-![screenshot](https://images-1252557999.file.myqcloud.com/uPic/screenshot.jpg) 
+![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
 
-### [waytoagi](https://www.waytoagi.com/)
+### [archive.today](https://archive.today/)
 
-`AI` 知识库和工具站：
+提供任何网站存档查询的网站：
 
-![waytoagi](https://images-1252557999.file.myqcloud.com/uPic/waytoagi.jpg) 
+![archive](https://images-1252557999.file.myqcloud.com/uPic/archive.jpg) 
 
 ## ✍️ 说明
 
