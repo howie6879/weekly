@@ -5,83 +5,99 @@
 
 ## 🎯 项目 
 
-### [rss-proxy](https://github.com/damoeb/rss-proxy)
+### [KillWxapkg](https://github.com/Ackites/KillWxapkg)
 
-通过分析用户提供的静态页面自动创建RSS订阅源：
+一个用于自动化反编译微信小程序的工具，小程序安全利器，自动解密，解包，可最大程度还原工程目录。 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/APrAbH.png) 
+### [ceresdb](https://github.com/CeresDB/ceresdb)
 
-### [upptime](https://github.com/upptime/upptime)
+蚂蚁金服 `Rust` 实现的时序数据库正式开源，`CeresDB` 是一款高性能、分布式、`Schema-less` 的云原生时序数据库，能够同时处理时序型（time-series）以及分析型（analytics）负载。：
 
-由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
+![CeresDB](https://images-1252557999.file.myqcloud.com/uPic/CeresDB.png) 
 
-![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
+### [icefox](https://github.com/xiaopanglian/icefox)
 
-### [openui](https://github.com/wandb/openui)
+`Typecho` 微信朋友圈主题:
 
-将你脑中的页面通过文本描述来自动实时生成，非常方便，但是实用性具体如何还需要探索，期待这个项目持续迭代：
-
-![openui](https://images-1252557999.file.myqcloud.com/uPic/openui.jpg)
-
-它甚至可以帮助你将HTML转换成 `React、Svelte or Web Components` 等格式。 
+![icefox](https://images-1252557999.file.myqcloud.com/uPic/icefox.jpg) 
 
 ## 🤖 软件 
 
-### [res-downloader](https://github.com/putyy/res-downloader)
+### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
 
-网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
+跨平台的`youtube-dl`客户端：
 
-![res-downloader](https://images-1252557999.file.myqcloud.com/uPic/res-downloader.jpeg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png) 
 
-### [uPic](https://github.com/gee1k/uPic)
+### [Raptor](https://github.com/InfpHub/Raptor)
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+使用 `Qt` 和 `C++` 构建的低内存、小而美的第三方阿里云盘 `Windows` 桌面应用客户端🚀
 
-我的必备软件：
+- 🧬 用户 - 持久化登录，多用户登录，多用户切换
+- 📉 文件（夹） - 创建/多级创建文件夹/重命名/搜索
+- 💅 文件（夹） - 移动/复制
+- ✅ 文件（夹） - 上传/下载/唤起第三方下载器下载
+- 🎪 视频 - MPV/VLC/PotPlayer
+- 💸 分享 - 创建分享/导入分享
+- 🦹🏻‍♀️ 秒传 - 创建秒传/导入秒传
+- ⭐️ 收藏 - 收藏/取消收藏/搜索
+- 🕵️‍♂️ 回收站 - 清空/删除/恢复
+- 📚 Plus - 跨网盘文件复制
+- 🏅 UI - 可自由修改的字体，图标与主题 
 
-![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+### [pot-desktop](https://github.com/pot-app/pot-desktop)
 
-### [jingmo](https://github.com/hefengbao/jingmo)
+🌈 一个跨平台的划词翻译软件，对标 Bob：
 
-『京墨』开源免费的古诗词文（名句）、歇后语、成语、传统节日、绕口令等的阅读 `APP`：
-
-![jingmo](https://images-1252557999.file.myqcloud.com/uPic/EL9mYu.png) 
+![pot-desktop](https://images-1252557999.file.myqcloud.com/uPic/pot-desktop.jpg) 
 
 ## 👀 资料 
 
-### [learn-regex](https://github.com/ziishaned/learn-regex)
+### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
 
-开源的正则表达式教程，有中文版，有在线示例。 
+吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
 
-### [how-web-works](https://github.com/vasanthk/how-web-works)
+![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
 
-当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
+### [llm-universe](https://github.com/datawhalechina/llm-universe)
 
-### [现代 JavaScript 教程](https://zh.javascript.info/)
+本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：
 
-以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识：
+- 大模型简介，何为大模型、大模型特点是什么、LangChain 是什么，针对小白开发者的简单介绍；
+- 如何调用大模型 API，本节介绍了国内外知名大模型产品 API 的多种调用方式，包括调用原生 API、封装为 LangChain LLM、封装为 Fastapi 等调用方式，同时将包括百度文心、讯飞星火、智谱AI等多种大模型 API 进行了统一形式封装；
+- 大模型开发流程及架构，大模型应用开发的基本流程、一般思想和本项目的架构分析；
+- 数据库搭建，不同类型知识库文档的加载、处理，向量数据库的搭建；
+- Prompt 设计，如何设计 Prompt 来让大模型完成特定任务，Prompt Engineering 的原则和技巧有哪些；
+- 验证迭代，大模型开发如何实现验证迭代，一般的评估方法有什么；
+- 前后端开发，如何使用 Gradio、FastAPI 等框架快速开发大模型 Demo，展示应用能力。
 
-![javascript_info](https://images-1252557999.file.myqcloud.com/uPic/javascript_info.jpg) 
+![llm-universe](https://images-1252557999.file.myqcloud.com/uPic/llm-universe.png) 
+
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
+
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
+
+![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
 
 ## 🕸 网站 
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+### [morphic.sh](https://www.morphic.sh/)
 
-提供在线绘制时序图的网站：
+一个开源的 AI 搜索引擎，支持 `Vercel` 自建部署，可选 `OpenAI、Gemini`，以及最新的 `Llama3` 大模型，网站开源 [morphic](https://github.com/miurla/morphic)：
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+![morphic](https://images-1252557999.file.myqcloud.com/uPic/morphic.jpg) 
 
-### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
+### [用药助手](https://drugs.dxy.cn/pc)
 
-一个搜索 git 常用 emoji 的网站:
+丁香园旗下品牌，诊疗顾问｜搜疾病，看诊疗方案，基于循证医学的临床诊疗决策工具，为临床医生提供专业、靠谱的疾病诊疗思路和用药方案：
 
-![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
+![yyzs](https://images-1252557999.file.myqcloud.com/uPic/yyzs.jpg) 
 
-### [archive.today](https://archive.today/)
+### [onepdf](https://www.onepdf.online/)
 
-提供任何网站存档查询的网站：
+免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
 
-![archive](https://images-1252557999.file.myqcloud.com/uPic/archive.jpg) 
+![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
 
 ## ✍️ 说明
 
