@@ -5,99 +5,91 @@
 
 ## 🎯 项目 
 
-### [KillWxapkg](https://github.com/Ackites/KillWxapkg)
+### [Scrapegraph](https://github.com/VinciGit00/Scrapegraph-ai)
 
-一个用于自动化反编译微信小程序的工具，小程序安全利器，自动解密，解包，可最大程度还原工程目录。 
+基于 `LLM` 大模型的 `Python` 爬虫框架：
 
-### [ceresdb](https://github.com/CeresDB/ceresdb)
+![scrapegraph](https://images-1252557999.file.myqcloud.com/uPic/scrapegraph.jpg) 
 
-蚂蚁金服 `Rust` 实现的时序数据库正式开源，`CeresDB` 是一款高性能、分布式、`Schema-less` 的云原生时序数据库，能够同时处理时序型（time-series）以及分析型（analytics）负载。：
+### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
 
-![CeresDB](https://images-1252557999.file.myqcloud.com/uPic/CeresDB.png) 
+通过网络收集整理的中文歌词数据库, 包含:
 
-### [icefox](https://github.com/xiaopanglian/icefox)
+- 绝大多数华语歌手在2019年之前的歌曲
+- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
+- 102197首歌曲, 平均每人25.4首歌
 
-`Typecho` 微信朋友圈主题:
+作者基于此数据库做了两个歌词生成器：
 
-![icefox](https://images-1252557999.file.myqcloud.com/uPic/icefox.jpg) 
+- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
+- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
+
+### [glance](https://github.com/glanceapp/glance)
+
+`Glance` 可以将你所有的订阅源聚合到一个页面中，支持多种小部件，可以自定义主题：
+
+![glance](https://images-1252557999.file.myqcloud.com/uPic/glance.jpg) 
 
 ## 🤖 软件 
 
-### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
+### [hummingbird](https://github.com/leibnizli/hummingbird)
 
-跨平台的`youtube-dl`客户端：
+`Hummingbird` 是一个资源(`jpg/png/webp/svg/gif/css/js/html`)压缩客户端，支持`Windows`、`Mac`：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png) 
+- `jpg/png/webp/svg/gif/html` 压缩后会替换掉当前文件，`css/js` 压缩后会生成一个带 `.min` 的新文件
+- 可以在在当前目录新建source文件夹并备份处理前的文件，可以在设置中开启
 
-### [Raptor](https://github.com/InfpHub/Raptor)
+![hummingbird](https://images-1252557999.file.myqcloud.com/uPic/hummingbird.jpg) 
 
-使用 `Qt` 和 `C++` 构建的低内存、小而美的第三方阿里云盘 `Windows` 桌面应用客户端🚀
+### [localsend](https://github.com/localsend/localsend)
 
-- 🧬 用户 - 持久化登录，多用户登录，多用户切换
-- 📉 文件（夹） - 创建/多级创建文件夹/重命名/搜索
-- 💅 文件（夹） - 移动/复制
-- ✅ 文件（夹） - 上传/下载/唤起第三方下载器下载
-- 🎪 视频 - MPV/VLC/PotPlayer
-- 💸 分享 - 创建分享/导入分享
-- 🦹🏻‍♀️ 秒传 - 创建秒传/导入秒传
-- ⭐️ 收藏 - 收藏/取消收藏/搜索
-- 🕵️‍♂️ 回收站 - 清空/删除/恢复
-- 📚 Plus - 跨网盘文件复制
-- 🏅 UI - 可自由修改的字体，图标与主题 
+`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
 
-### [pot-desktop](https://github.com/pot-app/pot-desktop)
+![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
 
-🌈 一个跨平台的划词翻译软件，对标 Bob：
+### [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
 
-![pot-desktop](https://images-1252557999.file.myqcloud.com/uPic/pot-desktop.jpg) 
+安卓的 `BiliBili、NicoNico、YouTube` 替换客户端，支持弹幕、评论、登录下载：
+
+![pipepipe](https://images-1252557999.file.myqcloud.com/uPic/pipepipe.jpg) 
 
 ## 👀 资料 
 
-### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
+### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
 
-吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
+一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
 
-![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
 
-### [llm-universe](https://github.com/datawhalechina/llm-universe)
+### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
 
-本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：
+互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
 
-- 大模型简介，何为大模型、大模型特点是什么、LangChain 是什么，针对小白开发者的简单介绍；
-- 如何调用大模型 API，本节介绍了国内外知名大模型产品 API 的多种调用方式，包括调用原生 API、封装为 LangChain LLM、封装为 Fastapi 等调用方式，同时将包括百度文心、讯飞星火、智谱AI等多种大模型 API 进行了统一形式封装；
-- 大模型开发流程及架构，大模型应用开发的基本流程、一般思想和本项目的架构分析；
-- 数据库搭建，不同类型知识库文档的加载、处理，向量数据库的搭建；
-- Prompt 设计，如何设计 Prompt 来让大模型完成特定任务，Prompt Engineering 的原则和技巧有哪些；
-- 验证迭代，大模型开发如何实现验证迭代，一般的评估方法有什么；
-- 前后端开发，如何使用 Gradio、FastAPI 等框架快速开发大模型 Demo，展示应用能力。
+### [Nginx 开发从入门到精通](https://tengine.taobao.org/book/)
 
-![llm-universe](https://images-1252557999.file.myqcloud.com/uPic/llm-universe.png) 
+淘宝团队出品的关于 `Nginx` 模块开发以及内部原理的书：
 
-### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
-
-本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
-
-![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
+![tb_nginx](https://images-1252557999.file.myqcloud.com/uPic/tb_nginx.jpg) 
 
 ## 🕸 网站 
 
-### [morphic.sh](https://www.morphic.sh/)
+### [uxdatabase](https://www.uxdatabase.io/)
 
-一个开源的 AI 搜索引擎，支持 `Vercel` 自建部署，可选 `OpenAI、Gemini`，以及最新的 `Llama3` 大模型，网站开源 [morphic](https://github.com/miurla/morphic)：
+国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
 
-![morphic](https://images-1252557999.file.myqcloud.com/uPic/morphic.jpg) 
+![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
 
-### [用药助手](https://drugs.dxy.cn/pc)
+### [sqlime](http://sqlime.org/)
 
-丁香园旗下品牌，诊疗顾问｜搜疾病，看诊疗方案，基于循证医学的临床诊疗决策工具，为临床医生提供专业、靠谱的疾病诊疗思路和用药方案：
+SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
 
-![yyzs](https://images-1252557999.file.myqcloud.com/uPic/yyzs.jpg) 
+![sqlime](https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg) 
 
-### [onepdf](https://www.onepdf.online/)
+### [ipa.store](https://ipa.store/)
 
-免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
+`IPA` 商店：
 
-![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
+![ipa_store](https://images-1252557999.file.myqcloud.com/uPic/ipa_store.jpg) 
 
 ## ✍️ 说明
 
