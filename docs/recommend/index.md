@@ -5,91 +5,94 @@
 
 ## 🎯 项目 
 
-### [Scrapegraph](https://github.com/VinciGit00/Scrapegraph-ai)
+### [Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese)
 
-基于 `LLM` 大模型的 `Python` 爬虫框架：
+AI拟声: 克隆您的声音并生成任意语音内容。 
 
-![scrapegraph](https://images-1252557999.file.myqcloud.com/uPic/scrapegraph.jpg) 
+### [amprobe](https://github.com/amuluze/amprobe)
 
-### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
+`Amprobe` 是一款轻量级主机及 `Docker` 容器监控工具，它可以轻松的帮助我们完成以下几方面的工作：
 
-通过网络收集整理的中文歌词数据库, 包含:
+- 监控主机的 CPU、内存、磁盘 IO、网络 IO情况
+- 监控部署于主机上 Docker 容器的运行状态、CPU、内存使用情况
+- 实时查看 Docker 容器的日志，并支持日志下载
+- 针对管理员用户提供简单的 Docker 容器、镜像运维操作
+- 操作日志记录
 
-- 绝大多数华语歌手在2019年之前的歌曲
-- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
-- 102197首歌曲, 平均每人25.4首歌
+暂时还不支持多机器关联，期待作者更新：
 
-作者基于此数据库做了两个歌词生成器：
+![amprobe](https://images-1252557999.file.myqcloud.com/uPic/amprobe.png) 
 
-- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
-- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
+### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
 
-### [glance](https://github.com/glanceapp/glance)
+读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
 
-`Glance` 可以将你所有的订阅源聚合到一个页面中，支持多种小部件，可以自定义主题：
-
-![glance](https://images-1252557999.file.myqcloud.com/uPic/glance.jpg) 
+![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
 
 ## 🤖 软件 
 
-### [hummingbird](https://github.com/leibnizli/hummingbird)
+### [GitUp](https://github.com/git-up/GitUp)
 
-`Hummingbird` 是一个资源(`jpg/png/webp/svg/gif/css/js/html`)压缩客户端，支持`Windows`、`Mac`：
+简洁的 `Git` 客户端：
 
-- `jpg/png/webp/svg/gif/html` 压缩后会替换掉当前文件，`css/js` 压缩后会生成一个带 `.min` 的新文件
-- 可以在在当前目录新建source文件夹并备份处理前的文件，可以在设置中开启
+![](https://images-1252557999.file.myqcloud.com/uPic/GitUp.jpg) 
 
-![hummingbird](https://images-1252557999.file.myqcloud.com/uPic/hummingbird.jpg) 
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 
-### [localsend](https://github.com/localsend/localsend)
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
 
-`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
+![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
 
-![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
+### [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)
 
-### [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
+基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
 
-安卓的 `BiliBili、NicoNico、YouTube` 替换客户端，支持弹幕、评论、登录下载：
-
-![pipepipe](https://images-1252557999.file.myqcloud.com/uPic/pipepipe.jpg) 
+![bob-plugin-openai-translator](https://images-1252557999.file.myqcloud.com/uPic/bob-plugin-openai-translator.jpg) 
 
 ## 👀 资料 
 
-### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
+### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
 
-一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
+这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
-![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
+之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.com/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
 
-### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
+### [sideproject](https://sideproject.guide/)
 
-互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
+`Side Project` 指南：
 
-### [Nginx 开发从入门到精通](https://tengine.taobao.org/book/)
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
 
-淘宝团队出品的关于 `Nginx` 模块开发以及内部原理的书：
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
 
-![tb_nginx](https://images-1252557999.file.myqcloud.com/uPic/tb_nginx.jpg) 
+### [AI-Agent-In-Action](https://github.com/AIGeniusInstitute/AI-Agent-In-Action)
+
+开源的 `AI Agent` 开发实战书籍：
+
+![AI-Agent-In-Action](https://images-1252557999.file.myqcloud.com/uPic/VkUaD9.png) 
 
 ## 🕸 网站 
 
-### [uxdatabase](https://www.uxdatabase.io/)
+### [ai-12348](https://ai.12348.gov.cn/pc/)
 
-国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
+免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
 
-![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
+![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
 
-### [sqlime](http://sqlime.org/)
+### [picdiet.eula.club](https://picdiet.eula.club/)
 
-SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
+`Picdiet` 是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏：
 
-![sqlime](https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg) 
+![picdiet](https://images-1252557999.file.myqcloud.com/uPic/picdiet.jpg) 
 
-### [ipa.store](https://ipa.store/)
+### [icon.kitchen](https://icon.kitchen/)
 
-`IPA` 商店：
+一次性生成 `Android、IOS、WEB` 三端 `icon` 图标，可直接预览，效果非常好：
 
-![ipa_store](https://images-1252557999.file.myqcloud.com/uPic/ipa_store.jpg) 
+![icon_kitchen](https://images-1252557999.file.myqcloud.com/uPic/icon_kitchen.jpg) 
 
 ## ✍️ 说明
 
