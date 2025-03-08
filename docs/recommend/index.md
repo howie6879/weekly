@@ -5,94 +5,90 @@
 
 ## 🎯 项目 
 
-### [Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese)
+### [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 
-AI拟声: 克隆您的声音并生成任意语音内容。 
+`ChatGPT` 中文调教指南，各种场景使用指南，学习怎么让它听你的话：
 
-### [amprobe](https://github.com/amuluze/amprobe)
+![acpz](https://images-1252557999.file.myqcloud.com/uPic/acpz.jpg) 
 
-`Amprobe` 是一款轻量级主机及 `Docker` 容器监控工具，它可以轻松的帮助我们完成以下几方面的工作：
+### [newsnow](https://github.com/ourongxing/newsnow)
 
-- 监控主机的 CPU、内存、磁盘 IO、网络 IO情况
-- 监控部署于主机上 Docker 容器的运行状态、CPU、内存使用情况
-- 实时查看 Docker 容器的日志，并支持日志下载
-- 针对管理员用户提供简单的 Docker 容器、镜像运维操作
-- 操作日志记录
+优雅地阅读实时热门新闻：
 
-暂时还不支持多机器关联，期待作者更新：
+- 优雅的设计，优雅的阅读体验，时刻关注最新最热的新闻。
+- 支持 Github 登录，支持数据同步。
+- 默认 30 分钟缓存，登录用户可以强制拉取最新数据。但也会根据内容源的更新间隔设置不同的爬虫间隔时间（最快两分钟），节约资源的同时避免频繁爬取而导致 IP 封禁。
 
-![amprobe](https://images-1252557999.file.myqcloud.com/uPic/amprobe.png) 
+![newsnow](https://images-1252557999.file.myqcloud.com/uPic/reaQ9I.png) 
 
-### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
+### [bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
 
-读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
+一个开源的自托管服务器监控工具，使用 `React.js, Node.js & MongoDB` 构建，用于实时跟踪服务器的在线状态、响应时间和事件，并提供美观的可视化界面和预警功能：
 
-![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
+![bluewave-uptime](https://images-1252557999.file.myqcloud.com/uPic/3x4lwD.png) 
 
 ## 🤖 软件 
 
-### [GitUp](https://github.com/git-up/GitUp)
+### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
 
-简洁的 `Git` 客户端：
+科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
 
-![](https://images-1252557999.file.myqcloud.com/uPic/GitUp.jpg) 
+![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
 
-### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
+还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
 
-中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
+### [thorium-reader](https://github.com/edrlab/thorium-reader)
 
-![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
+`Thorium Reader` 是一款专为 `Windows 10/11、MacOS & Linux` 开发的电子书阅读器：
 
-### [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)
+![thorium-reader](https://images-1252557999.file.myqcloud.com/uPic/thorium-reader.png) 
 
-基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
+### [Later](https://github.com/alyssaxuu/later)
 
-![bob-plugin-openai-translator](https://images-1252557999.file.myqcloud.com/uPic/bob-plugin-openai-translator.jpg) 
+一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
+
+![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
 
 ## 👀 资料 
 
-### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
+### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
-这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
+比较全面的 `k8s` 资源收集项目：
 
-之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.com/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
+![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
 
-### [sideproject](https://sideproject.guide/)
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-`Side Project` 指南：
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+### [css-animation-101](https://github.com/cssanimation/css-animation-101)
 
-### [AI-Agent-In-Action](https://github.com/AIGeniusInstitute/AI-Agent-In-Action)
+学习如何为您的网页项目添加动画效果，也有中文版👉[css-animation-101-cn](https://h-wakanda.github.io/css-animation-101-cn/)：
 
-开源的 `AI Agent` 开发实战书籍：
-
-![AI-Agent-In-Action](https://images-1252557999.file.myqcloud.com/uPic/VkUaD9.png) 
+![css-animation-101-cn](https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg) 
 
 ## 🕸 网站 
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+### [bloghub](https://bloghub.fun/)
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+优质博客聚合展示项目，"子曰：有朋自远方来，不亦说乎"，希望 BlogHub 也能让大家发现更多有趣的灵魂，结交更多的朋友：
 
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+![bloghub](https://images-1252557999.file.myqcloud.com/uPic/bloghub.jpg)
+项目参考数据源：[chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)：中文独立博客列表 
 
-### [picdiet.eula.club](https://picdiet.eula.club/)
+### [olocr.com](https://olocr.com)
 
-`Picdiet` 是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏：
+一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
 
-![picdiet](https://images-1252557999.file.myqcloud.com/uPic/picdiet.jpg) 
+![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
 
-### [icon.kitchen](https://icon.kitchen/)
+### [alternativeto](https://alternativeto.net/)
 
-一次性生成 `Android、IOS、WEB` 三端 `icon` 图标，可直接预览，效果非常好：
+常用软件替代品查询网站：
 
-![icon_kitchen](https://images-1252557999.file.myqcloud.com/uPic/icon_kitchen.jpg) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
 ## ✍️ 说明
 
