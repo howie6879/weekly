@@ -5,90 +5,83 @@
 
 ## 🎯 项目 
 
-### [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+### [alist](https://github.com/Xhofe/alist)
 
-`ChatGPT` 中文调教指南，各种场景使用指南，学习怎么让它听你的话：
+一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
 
-![acpz](https://images-1252557999.file.myqcloud.com/uPic/acpz.jpg) 
+![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
 
-### [newsnow](https://github.com/ourongxing/newsnow)
+简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
 
-优雅地阅读实时热门新闻：
+### [floccus](https://github.com/floccusaddon/floccus)
 
-- 优雅的设计，优雅的阅读体验，时刻关注最新最热的新闻。
-- 支持 Github 登录，支持数据同步。
-- 默认 30 分钟缓存，登录用户可以强制拉取最新数据。但也会根据内容源的更新间隔设置不同的爬虫间隔时间（最快两分钟），节约资源的同时避免频繁爬取而导致 IP 封禁。
+`Floccus` 是一个开源的浏览器书签同步项目，它支持 `Firefox、Chrome、Edge`等浏览器书签同步：
 
-![newsnow](https://images-1252557999.file.myqcloud.com/uPic/reaQ9I.png) 
+![floccus](https://images-1252557999.file.myqcloud.com/uPic/floccus.jpg) 
 
-### [bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+### [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)
 
-一个开源的自托管服务器监控工具，使用 `React.js, Node.js & MongoDB` 构建，用于实时跟踪服务器的在线状态、响应时间和事件，并提供美观的可视化界面和预警功能：
+基于 `ChatGPT` 实现的代码解释器，只需向 `OpenAI` 模型提出请求，它就会为您生成并执行代码：
 
-![bluewave-uptime](https://images-1252557999.file.myqcloud.com/uPic/3x4lwD.png) 
+![gpt-code-ui](https://images-1252557999.file.myqcloud.com/uPic/gpt-code-ui.png) 
 
 ## 🤖 软件 
 
-### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+### [lively](https://github.com/rocksdanister/lively)
 
-科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
+针对 `Windows` 的开源的动态壁纸软件：
 
-![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
+![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
 
-还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
+### [logseq](https://github.com/logseq/logseq)
 
-### [thorium-reader](https://github.com/edrlab/thorium-reader)
+Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
 
-`Thorium Reader` 是一款专为 `Windows 10/11、MacOS & Linux` 开发的电子书阅读器：
+![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
 
-![thorium-reader](https://images-1252557999.file.myqcloud.com/uPic/thorium-reader.png) 
+### [tunnelblick](https://tunnelblick.net/)
 
-### [Later](https://github.com/alyssaxuu/later)
+免费开源的`openvpn`客户端：
 
-一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
-
-![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
+![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
 
 ## 👀 资料 
 
-### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+### [RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide)
 
-比较全面的 `k8s` 资源收集项目：
+颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南：
 
-![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
+![web-visual-bookmark@2x](https://images-1252557999.file.myqcloud.com/uPic/web-visual-bookmark@2x.png) 
 
-### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
+### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
-这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
 
-![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
+### [go-ast-book](https://github.com/chai2010/go-ast-book)
 
-### [css-animation-101](https://github.com/cssanimation/css-animation-101)
+《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)
 
-学习如何为您的网页项目添加动画效果，也有中文版👉[css-animation-101-cn](https://h-wakanda.github.io/css-animation-101-cn/)：
-
-![css-animation-101-cn](https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg) 
+![go-ast-book](https://images-1252557999.file.myqcloud.com/uPic/MenvcC.png) 
 
 ## 🕸 网站 
 
-### [bloghub](https://bloghub.fun/)
+### [selfh](https://selfh.st/)
 
-优质博客聚合展示项目，"子曰：有朋自远方来，不亦说乎"，希望 BlogHub 也能让大家发现更多有趣的灵魂，结交更多的朋友：
+网站提供了可自建项目的动态，每周更新：
 
-![bloghub](https://images-1252557999.file.myqcloud.com/uPic/bloghub.jpg)
-项目参考数据源：[chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)：中文独立博客列表 
-
-### [olocr.com](https://olocr.com)
-
-一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
-
-![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
+![selfh](https://images-1252557999.file.myqcloud.com/uPic/jVlzyp.png) 
 
 ### [alternativeto](https://alternativeto.net/)
 
 常用软件替代品查询网站：
 
 ![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+
+### [apivault.dev](https://apivault.dev/)
+
+免费开源的公共 `API` 网站：
+
+![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
 
 ## ✍️ 说明
 
