@@ -5,83 +5,94 @@
 
 ## 🎯 项目 
 
-### [alist](https://github.com/Xhofe/alist)
+### [tinymind](https://github.com/mazzzystar/tinymind)
 
-一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
+`Tinymind` 是一个将 `GitHub` 作为数据存储平台的博客工具，允许用户通过 `OAuth` 授权直接在自己的公共仓库中写作和同步文章，无需搭建服务器：
 
-![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
+![tinymind](https://images-1252557999.file.myqcloud.com/uPic/BZLdkZ.png) 
 
-简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
+### [gitstars](https://github.com/cfour-hi/gitstars)
 
-### [floccus](https://github.com/floccusaddon/floccus)
+`Github` 作为开发者的第一社交平台，拥有数不胜数的优秀开源项目，给工作和学习带来巨大方便，遇到自己需要或是喜爱的项目只需点击 Star 便可收入囊中。
 
-`Floccus` 是一个开源的浏览器书签同步项目，它支持 `Firefox、Chrome、Edge`等浏览器书签同步：
+`Star is easy`，可随着 `Starred Repositories` 增长，在需要使用到某个项目时难免记不清叫什么，而 Github 又只提供简单的搜索，找到目标 `Starred Repository` 竟也成了件小小的麻烦事。
 
-![floccus](https://images-1252557999.file.myqcloud.com/uPic/floccus.jpg) 
+所以拥有自己的 `Github Stars Repositories Manager` 也算是开发者的必备需求。`Gitstars` 由此诞生 💡
 
-### [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)
+![gitstars](https://images-1252557999.file.myqcloud.com/uPic/gitstars.png) 
 
-基于 `ChatGPT` 实现的代码解释器，只需向 `OpenAI` 模型提出请求，它就会为您生成并执行代码：
+### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
 
-![gpt-code-ui](https://images-1252557999.file.myqcloud.com/uPic/gpt-code-ui.png) 
+不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
 
 ## 🤖 软件 
 
-### [lively](https://github.com/rocksdanister/lively)
+### [Xit](https://github.com/Uncommon/Xit)
 
-针对 `Windows` 的开源的动态壁纸软件：
+`Mac OS`下开源免费的原生`Git`客户端 ：
 
-![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
+![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
 
-### [logseq](https://github.com/logseq/logseq)
+### [cicada](https://github.com/mebtte/cicada)
 
-Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
+知了, 支持多用户的开源音乐服务：
 
-![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
+- **尊重隐私, 不进行任何数据收集**
+- 支持多用户
+- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
+- 系统媒体和快捷键支持
+- 音乐支持标准音质/超高音质/伴奏以及多份歌词
+- 乐单/播放列表/播放队列音乐数量无限制
+- 支持标注音乐创作来源(翻唱)
+- 支持歌词/歌名/歌手/乐单搜索
 
-### [tunnelblick](https://tunnelblick.net/)
+![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
 
-免费开源的`openvpn`客户端：
+### [GitUp](https://github.com/git-up/GitUp)
 
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+简洁的 `Git` 客户端：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/GitUp.jpg) 
 
 ## 👀 资料 
 
-### [RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide)
+### [GolangStudy](https://github.com/cnymw/GolangStudy)
 
-颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南：
+《[GolangStudy](https://golangstudy.tech/)》：从简单到难最全总结，go基础，数据结构，算法，设计模式：
 
-![web-visual-bookmark@2x](https://images-1252557999.file.myqcloud.com/uPic/web-visual-bookmark@2x.png) 
+![GolangStudy](https://images-1252557999.file.myqcloud.com/uPic/GolangStudy.jpg) 
 
-### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+### [go101](https://gfw.go101.org/article/101.html)
 
-LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
+《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
 
-### [go-ast-book](https://github.com/chai2010/go-ast-book)
+![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
 
-《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)
+### [udlbook](https://udlbook.github.io/udlbook/)
 
-![go-ast-book](https://images-1252557999.file.myqcloud.com/uPic/MenvcC.png) 
+麻省理工出品的免费电子书《理解深度学习》：
+
+![udlbook](https://images-1252557999.file.myqcloud.com/uPic/udlbook.jpg) 
 
 ## 🕸 网站 
 
-### [selfh](https://selfh.st/)
+### [AnyBT](https://anybt.eth.limo/)
 
-网站提供了可自建项目的动态，每周更新：
+种子搜索引擎，下载你想要的资源：
 
-![selfh](https://images-1252557999.file.myqcloud.com/uPic/jVlzyp.png) 
+![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
 
-### [alternativeto](https://alternativeto.net/)
+### [libhunt](https://www.libhunt.com/)
 
-常用软件替代品查询网站：
+一个对开源项目进行分类并排名的网站：
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![libhunt](https://images-1252557999.file.myqcloud.com/uPic/libhunt.jpg) 
 
-### [apivault.dev](https://apivault.dev/)
+### [docsmall](https://docsmall.com/)
 
-免费开源的公共 `API` 网站：
+提供一些图片压缩、PDF合并分割小功能的网站：
 
-![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
+![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
 
 ## ✍️ 说明
 
