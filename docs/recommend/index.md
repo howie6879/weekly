@@ -5,94 +5,99 @@
 
 ## 🎯 项目 
 
-### [tinymind](https://github.com/mazzzystar/tinymind)
+### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
 
-`Tinymind` 是一个将 `GitHub` 作为数据存储平台的博客工具，允许用户通过 `OAuth` 授权直接在自己的公共仓库中写作和同步文章，无需搭建服务器：
+该项目支持将微信聊天记录导出并生成网页浏览。 
 
-![tinymind](https://images-1252557999.file.myqcloud.com/uPic/BZLdkZ.png) 
+### [miniserve](https://github.com/svenstaro/miniserve)
 
-### [gitstars](https://github.com/cfour-hi/gitstars)
+基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
 
-`Github` 作为开发者的第一社交平台，拥有数不胜数的优秀开源项目，给工作和学习带来巨大方便，遇到自己需要或是喜爱的项目只需点击 Star 便可收入囊中。
+![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
 
-`Star is easy`，可随着 `Starred Repositories` 增长，在需要使用到某个项目时难免记不清叫什么，而 Github 又只提供简单的搜索，找到目标 `Starred Repository` 竟也成了件小小的麻烦事。
+### [law-cn-ai](https://github.com/lvwzhen/law-cn-ai)
 
-所以拥有自己的 `Github Stars Repositories Manager` 也算是开发者的必备需求。`Gitstars` 由此诞生 💡
+AI 法律助手:
 
-![gitstars](https://images-1252557999.file.myqcloud.com/uPic/gitstars.png) 
+![law-cn-ai](https://images-1252557999.file.myqcloud.com/uPic/law-cn-ai.jpg)
 
-### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
-
-不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
+也可以[在线](https://law-cn-ai.vercel.app/)访问。 
 
 ## 🤖 软件 
 
-### [Xit](https://github.com/Uncommon/Xit)
+### [AniVu](https://github.com/SkyD666/AniVu)
 
-`Mac OS`下开源免费的原生`Git`客户端 ：
+`AniVu` 是一个集成了 `RSS` 订阅、自动更新、`BitTorrent` 下载和视频播放功能的全能型 `Android` 应用程序：
 
-![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
+- 订阅 RSS、更新 RSS、阅读 RSS
+- 自动更新 RSS 订阅
+- 下载 RSS 文章中的 BT 种子或磁力链接附件（enclosure 标签）
+- 已下载文件做种
+- 播放媒体附件或已下载的媒体文件
+- 更改播放速度、设置音轨、字幕轨道等
+- 双指旋转缩放视频画面、长按视频倍速播放
+- 滑动调整音量、屏幕亮度和播放位置
+- 支持搜索已获取的 RSS 订阅或文章
+- 播放手机中的其他视频
+- 支持自定义 MPV 播放器
+- 支持通过 OPML 导入导出订阅
+- 支持深色模式
 
-### [cicada](https://github.com/mebtte/cicada)
+![AniVu](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-1-4911250770779811003-y.jpg) 
 
-知了, 支持多用户的开源音乐服务：
+### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 
-- **尊重隐私, 不进行任何数据收集**
-- 支持多用户
-- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
-- 系统媒体和快捷键支持
-- 音乐支持标准音质/超高音质/伴奏以及多份歌词
-- 乐单/播放列表/播放队列音乐数量无限制
-- 支持标注音乐创作来源(翻唱)
-- 支持歌词/歌名/歌手/乐单搜索
+`AnotherRedisDesktopManager` 是一个快速稳定好用的 `Redis` 跨平台桌面管理软件，更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值：
 
-![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
+![AnotherRedisDesktopManager](https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png) 
 
-### [GitUp](https://github.com/git-up/GitUp)
+### [natpass](https://github.com/lwch/natpass)
 
-简洁的 `Git` 客户端：
+新一代 NAT 内网穿透+shell+vnc 工具：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/GitUp.jpg) 
+![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
 
 ## 👀 资料 
 
-### [GolangStudy](https://github.com/cnymw/GolangStudy)
+### [How-to-use-Transformers](https://github.com/jsksxs360/How-to-use-Transformers)
 
-《[GolangStudy](https://golangstudy.tech/)》：从简单到难最全总结，go基础，数据结构，算法，设计模式：
+Transformers 库快速入门[教程](https://transformers.run/)：
 
-![GolangStudy](https://images-1252557999.file.myqcloud.com/uPic/GolangStudy.jpg) 
+![How-to-use-Transformers](https://images-1252557999.file.myqcloud.com/uPic/How-to-use-Transformers.jpg) 
 
-### [go101](https://gfw.go101.org/article/101.html)
+### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
 
-《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
+关于 `MongoDB`，最全面的免费学习向导：
 
-![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
+- 学习资源：文档书籍教程等
+- 第三方库：各种编程语言的兼容库
+- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
 
-### [udlbook](https://udlbook.github.io/udlbook/)
+### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
 
-麻省理工出品的免费电子书《理解深度学习》：
+经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
 
-![udlbook](https://images-1252557999.file.myqcloud.com/uPic/udlbook.jpg) 
+![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
 
 ## 🕸 网站 
 
-### [AnyBT](https://anybt.eth.limo/)
+### [compressjpeg](https://compressjpeg.com/zh/)
 
-种子搜索引擎，下载你想要的资源：
+一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
 
-![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
+![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg) 
 
-### [libhunt](https://www.libhunt.com/)
+### [qrgpt.io](https://www.qrgpt.io/)
 
-一个对开源项目进行分类并排名的网站：
+`QRGPT` 使您能够在几秒钟内免费生成漂亮的 `AI` 二维码，非常简单：
 
-![libhunt](https://images-1252557999.file.myqcloud.com/uPic/libhunt.jpg) 
+![qrgpt](https://images-1252557999.file.myqcloud.com/uPic/qrgpt.jpg) 
 
-### [docsmall](https://docsmall.com/)
+### [scrnshts.club](https://scrnshts.club/)
 
-提供一些图片压缩、PDF合并分割小功能的网站：
+收集 App 在应用商店中做宣传用的截图，很有意思：
 
-![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
+![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
 
 ## ✍️ 说明
 
