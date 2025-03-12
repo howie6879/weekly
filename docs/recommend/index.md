@@ -5,99 +5,96 @@
 
 ## 🎯 项目 
 
-### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
+### [OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
 
-该项目支持将微信聊天记录导出并生成网页浏览。 
+这个项目是 `OOTDiffusion` 的官方实现，快速基于你上传的模特和图片生成产品效果图，AI 模特不是梦，点击 [ootd](https://ootd.ibot.cn/) 体验：
 
-### [miniserve](https://github.com/svenstaro/miniserve)
+![ootd](https://images-1252557999.file.myqcloud.com/uPic/ootd.jpg) 
 
-基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
+### [1Panel](https://github.com/1Panel-dev/1Panel)
 
-![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
+`1Panel` 是一个现代化、开源的 `Linux` 服务器运维管理面板。`1Panel` 的功能和优势包括：
 
-### [law-cn-ai](https://github.com/lvwzhen/law-cn-ai)
+- **快速建站**：深度集成 Wordpress 和  [Halo](https://github.com/halo-dev/halo/)，域名绑定、SSL 证书配置等一键搞定；
+- **高效管理**：通过 Web 端轻松管理 Linux 服务器，包括应用管理、主机监控、文件管理、数据库管理、容器管理等；
+- **安全可靠**：最小漏洞暴露面，提供防火墙和安全审计等功能；
+- **一键备份**：支持一键备份和恢复，备份数据云端存储，永不丢失。
 
-AI 法律助手:
+![1Panel](https://images-1252557999.file.myqcloud.com/uPic/1Panel.png) 
 
-![law-cn-ai](https://images-1252557999.file.myqcloud.com/uPic/law-cn-ai.jpg)
+### [sonic](https://github.com/go-sonic/sonic)
 
-也可以[在线](https://law-cn-ai.vercel.app/)访问。 
+`Sonic` 是 `Go` 开发的博客平台，简单而强大：
+
+![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
 
 ## 🤖 软件 
 
-### [AniVu](https://github.com/SkyD666/AniVu)
+### [GestureSign](https://github.com/TransposonY/GestureSign)
 
-`AniVu` 是一个集成了 `RSS` 订阅、自动更新、`BitTorrent` 下载和视频播放功能的全能型 `Android` 应用程序：
+开源免费的 `Windows` 全局手势控制辅助增强软件神器:
 
-- 订阅 RSS、更新 RSS、阅读 RSS
-- 自动更新 RSS 订阅
-- 下载 RSS 文章中的 BT 种子或磁力链接附件（enclosure 标签）
-- 已下载文件做种
-- 播放媒体附件或已下载的媒体文件
-- 更改播放速度、设置音轨、字幕轨道等
-- 双指旋转缩放视频画面、长按视频倍速播放
-- 滑动调整音量、屏幕亮度和播放位置
-- 支持搜索已获取的 RSS 订阅或文章
-- 播放手机中的其他视频
-- 支持自定义 MPV 播放器
-- 支持通过 OPML 导入导出订阅
-- 支持深色模式
+- 支持 `Windows 11、Win10 / 8` 等系统
+- 支持鼠标手势、触控板等手势操作
+- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
 
-![AniVu](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-1-4911250770779811003-y.jpg) 
+![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
 
-### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+### [Malware-Patch](https://github.com/the1812/Malware-Patch)
 
-`AnotherRedisDesktopManager` 是一个快速稳定好用的 `Redis` 跨平台桌面管理软件，更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值：
+阻止中国流氓软件的管理员授权，无需后台运行：
 
-![AnotherRedisDesktopManager](https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png) 
+![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
 
-### [natpass](https://github.com/lwch/natpass)
+### [Bangumi](https://github.com/czy0729/Bangumi)
 
-新一代 NAT 内网穿透+shell+vnc 工具：
+一个基于 `React-Native` 的无广告、以爱好为驱动、不以盈利为目的 [Bangumi](https://bgm.tv/) 第三方客户端，简单比喻就是专门做 `ACG` 的类似豆瓣的应用：
 
-![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
+![Bangumi](https://images-1252557999.file.myqcloud.com/uPic/Bangumi.jpg) 
 
 ## 👀 资料 
 
-### [How-to-use-Transformers](https://github.com/jsksxs360/How-to-use-Transformers)
+### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
 
-Transformers 库快速入门[教程](https://transformers.run/)：
+![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
-![How-to-use-Transformers](https://images-1252557999.file.myqcloud.com/uPic/How-to-use-Transformers.jpg) 
+### [Curosor 教程](https://www.lookai.top/cn/cursor/instruction/instruction)
 
-### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
+零基础小白 `Cursor` 学习网站：
 
-关于 `MongoDB`，最全面的免费学习向导：
+![Curosor](https://images-1252557999.file.myqcloud.com/uPic/YIZShF.png) 
 
-- 学习资源：文档书籍教程等
-- 第三方库：各种编程语言的兼容库
-- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
+### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
 
-### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+ Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
 
-经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
-
-![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
+ ![rust_embedded_dev](https://images-1252557999.file.myqcloud.com/uPic/rust_embedded_dev.jpg) 
 
 ## 🕸 网站 
 
-### [compressjpeg](https://compressjpeg.com/zh/)
+### [epub-manga-creator](https://github.com/wing-kai/epub-manga-creator)
 
-一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
+把一堆漫画图片打包成 `epub` 格式的 `Web GUI`：
 
-![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg) 
+![epub-manga-creator](https://images-1252557999.file.myqcloud.com/uPic/epub-manga-creator.jpg) 
 
-### [qrgpt.io](https://www.qrgpt.io/)
+### [123apps](https://123apps.com/cn/)
 
-`QRGPT` 使您能够在几秒钟内免费生成漂亮的 `AI` 二维码，非常简单：
+网站提供了一系列的小工具，包含分类：
 
-![qrgpt](https://images-1252557999.file.myqcloud.com/uPic/qrgpt.jpg) 
+- 视频工具
+- 音频工具
+- PDF 工具
+- 转换器
+- ......
 
-### [scrnshts.club](https://scrnshts.club/)
+![123apps](https://images-1252557999.file.myqcloud.com/uPic/123apps.jpg) 
 
-收集 App 在应用商店中做宣传用的截图，很有意思：
+### [cobalt](https://cobalt.tools/)
 
-![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
+一个专注于隐私保护和用户自由的[开源](https://github.com/imputnet/cobalt)在线工具，它允许用户从各种网站上保存视频、音频、图片或 GIF，同时提供匿名请求和加密隧道技术，确保用户的隐私安全。
+
+![cobalt](https://images-1252557999.file.myqcloud.com/uPic/ZwEgp6.png) 
 
 ## ✍️ 说明
 
