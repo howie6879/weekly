@@ -5,90 +5,96 @@
 
 ## 🎯 项目 
 
-### [fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
+### [iptv-api](https://github.com/Guovin/iptv-api)
 
-微软开源的 `Fluent Emoji` 表情包：
+自定义频道，自动获取直播源接口，测速验证后生成可用的结果，默认结果包含：📺央视频道、💰央视付费频道、📡卫视频道、🏠广东频道、🌊港·澳·台频道、🎬电影频道、🎥咪咕直播、🏀体育频道、🪁动画频道、🎮游戏频道、🎵音乐频道、🏛经典剧场。
 
-![fluentui-emoji](https://images-1252557999.file.myqcloud.com/uPic/fluentui-emoji.webp) 
+- ✅ 自定义模板，生成您想要的频道
+- ✅ 支持多种获取源方式：组播源、酒店源、订阅源、关键字搜索
+- ✅ 接口测速验效，响应时间、分辨率优先级，过滤无效接口
+- ✅ 偏好设置：IPv6、接口来源排序优先级与数量配置、接口白名单
+- ✅ 定时执行，北京时间每日 6:00 与 18:00 执行更新
+- ✅ 支持多种运行方式：工作流、命令行、GUI 软件、Docker(amd64/arm64/arm v7) 
 
-### [auto-video-generateor](https://github.com/kuangdd2024/auto-video-generateor?tab=readme-ov-file)
+### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
 
-自动视频生成器，给定主题，自动生成解说视频。用户输入主题文字，系统调用大语言模型生成故事或解说的文字，然后进一步调用语音合成接口生成解说的语音，调用文生图接口生成契合文字内容的配图，最后融合语音和配图生成解说视频。
+`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
 
-![auto-video-generateor](https://images-1252557999.file.myqcloud.com/uPic/KHPaGI.png) 
+![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
 
-### [ui-buttons/core](https://github.com/ui-buttons/core)
+### [docker-android](https://github.com/budtmo/docker-android)
 
-CSS 按钮样式集合，此项目实现了 100 种不同的现代化的样式按钮：
+`Android` 的 `Docker` 解决方案，支持 `noVNC` 和视频录制，项目提供了多个版本的 Android 镜像，包括最新版本和特定版本号的镜像，如 Android 9.0、10.0到14.0 等，以及对应的 Genymotion 镜像：
 
-![ui-buttons](https://images-1252557999.file.myqcloud.com/uPic/ui-buttons.png) 
+![docker-android](https://images-1252557999.file.myqcloud.com/uPic/docker-android.png)
+
+其他类似好玩的项目：
+
+- [docker-wechat](https://github.com/huan/docker-wechat)
+- [dockur/windows](https://github.com/dockur/windows)
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) 
 
 ## 🤖 软件 
 
-### [insomnia](https://github.com/Kong/insomnia)
+### [163MusicLyrics](https://github.com/jitwxs/163MusicLyrics)
 
-在[第009期（10-11~10-17）](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
+Windows 云音乐歌词获取【网易云、QQ音乐】:
 
-![insomnia](https://images-1252557999.file.myqcloud.com/uPic/insomnia.png)
-使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
+![163MusicLyrics](https://images-1252557999.file.myqcloud.com/uPic/JElaUM.png) 
 
-### [termux-app](https://github.com/termux/termux-app)
+### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
 
-`Termux` 是一个为 `Android` 操作系统设计的终端模拟器应用程序，它可以通过各种软件包进行扩展，支持 `Linux` 环境：
+安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
 
-![termux-app](https://images-1252557999.file.myqcloud.com/uPic/tMfcxO.png) 
+![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
 
-### [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
+### [iina](https://github.com/iina/iina)
 
-`Bulk Crap Uninstaller` 是一款免费开源的 `Windows` 卸载软件，它能够快速删除大量不需要的应用程序，甚至是便携或未注册的程序与游戏，并且能自动扫描残留文件、注册表遗留内容等：
+macOS 下的开源现代化视频播放器，我的必备软件：
 
-![Bulk-Crap-Uninstaller](https://images-1252557999.file.myqcloud.com/uPic/Bulk-Crap-Uninstaller.png) 
+![iina](https://images-1252557999.file.myqcloud.com/uPic/iina.jpg) 
 
 ## 👀 资料 
 
-### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
+### [nlp-with-transformers](https://github.com/nlp-with-transformers)
 
-这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+书籍《基于Transformers的自然语言处理》的代码仓库：
 
-![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/A6MiF5.jpg) 
 
-### [Large Language Models Practical Course](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce)
+### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
 
-开源([Large Language Models Practical Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course))的关于大型语言模型的实践课程，通过使用 `OpenAI` 和 `Hugging Face` 库的模型进行实际操作来提供实践经验，课程主要包括：
+从零开始学习Kubernetes的路线图（初级到高级）：
 
-- Techniques and Libraries
-- Projects
-- Enterprise Solutions
+![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
 
-![large-language-models-practical-course](https://images-1252557999.file.myqcloud.com/uPic/large-language-models-practical-course.jpg)
+### [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)
 
-> 附带一个 Mac 微调大模型的文章：[A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) 
+从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 `PDF`:
 
-### [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/)
-
-命令行的数据科学，本书演示了如何通过命令行的灵活性帮你成为更高效、更有生产力的数据科学家。
-
-![telegram-cloud-photo-size-5-6181558086683180904-y](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6181558086683180904-y.jpg) 
+![what_are_embeddings](https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg) 
 
 ## 🕸 网站 
 
-### [myfreemp3juices](https://myfreemp3juices.cc/)
+### [linux.pdf](https://linux.doompdf.dev/linux.pdf)
 
-可以免费在线听&下载歌曲：
+`PDF` 中运行 `Linux`，通过 `RISC-V` 架构的模拟器实现：
 
-![myfreemp3juices](https://images-1252557999.file.myqcloud.com/uPic/myfreemp3juices.jpg) 
+![linux.pdf](https://images-1252557999.file.myqcloud.com/uPic/edDIQp.png)
 
-### [shenyandayi](https://www.shenyandayi.com/)
+开源地址：[linuxpdf](https://github.com/ading2210/linuxpdf?tab=readme-ov-file) 
 
-深言达意，懂文字更懂你：
+### [tldraw](https://www.tldraw.com/)
 
-![shenyandayi](https://images-1252557999.file.myqcloud.com/uPic/shenyandayi.jpg) 
+小巧强大的在线绘图工具：
 
-### [picdiet.eula.club](https://picdiet.eula.club/)
+![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
 
-`Picdiet` 是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏：
+### [红白机游戏盒](https://nes.heheda.top/ "红白机游戏盒")
 
-![picdiet](https://images-1252557999.file.myqcloud.com/uPic/picdiet.jpg) 
+在线畅玩经典小游戏：
+
+![heheda](https://images-1252557999.file.myqcloud.com/uPic/heheda.jpg) 
 
 ## ✍️ 说明
 
