@@ -5,96 +5,79 @@
 
 ## 🎯 项目 
 
-### [iptv-api](https://github.com/Guovin/iptv-api)
+### [PyFlow](https://github.com/wonderworks-software/PyFlow)
 
-自定义频道，自动获取直播源接口，测速验证后生成可用的结果，默认结果包含：📺央视频道、💰央视付费频道、📡卫视频道、🏠广东频道、🌊港·澳·台频道、🎬电影频道、🎥咪咕直播、🏀体育频道、🪁动画频道、🎮游戏频道、🎵音乐频道、🏛经典剧场。
+可视化脚本框架：
 
-- ✅ 自定义模板，生成您想要的频道
-- ✅ 支持多种获取源方式：组播源、酒店源、订阅源、关键字搜索
-- ✅ 接口测速验效，响应时间、分辨率优先级，过滤无效接口
-- ✅ 偏好设置：IPv6、接口来源排序优先级与数量配置、接口白名单
-- ✅ 定时执行，北京时间每日 6:00 与 18:00 执行更新
-- ✅ 支持多种运行方式：工作流、命令行、GUI 软件、Docker(amd64/arm64/arm v7) 
+![PyFlow](https://images-1252557999.file.myqcloud.com/uPic/XEBUdM.jpg) 
 
-### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
+### [awesome-compose](https://github.com/docker/awesome-compose)
 
-`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
+一些 `Docker Compose` 的实践示例。 
 
-![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
+### [halo](https://github.com/halo-dev/halo)
 
-### [docker-android](https://github.com/budtmo/docker-android)
+✍ 一款现代化的开源博客& `CMS` 系统：
 
-`Android` 的 `Docker` 解决方案，支持 `noVNC` 和视频录制，项目提供了多个版本的 Android 镜像，包括最新版本和特定版本号的镜像，如 Android 9.0、10.0到14.0 等，以及对应的 Genymotion 镜像：
-
-![docker-android](https://images-1252557999.file.myqcloud.com/uPic/docker-android.png)
-
-其他类似好玩的项目：
-
-- [docker-wechat](https://github.com/huan/docker-wechat)
-- [dockur/windows](https://github.com/dockur/windows)
-- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) 
+![halo](https://images-1252557999.file.myqcloud.com/uPic/halo.jpg) 
 
 ## 🤖 软件 
 
-### [163MusicLyrics](https://github.com/jitwxs/163MusicLyrics)
+### [aniyomi](https://github.com/aniyomiorg/aniyomi)
 
-Windows 云音乐歌词获取【网易云、QQ音乐】:
+读者推荐，`aniyomi` 不单单可以看漫画还可以看动漫，而且也支持[插件](https://aniyomi.org/extensions/)，更厉害的是，这个 APP 可以关联漫画进度记录网站，比如 Bangumi、MyAnimeList 等：
 
-![163MusicLyrics](https://images-1252557999.file.myqcloud.com/uPic/JElaUM.png) 
+![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
 
-### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
+### [Hail](https://github.com/aistra0528/Hail)
 
-安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
+雹(Hail) 是一个允许用户在没有 root 权限的情况下，通过冻结、隐藏、暂停或卸载来管理 Android 应用的自由软件：
 
-![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
+![Hail](https://images-1252557999.file.myqcloud.com/uPic/nhaDp1.png) 
 
-### [iina](https://github.com/iina/iina)
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
 
-macOS 下的开源现代化视频播放器，我的必备软件：
-
-![iina](https://images-1252557999.file.myqcloud.com/uPic/iina.jpg) 
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
 ## 👀 资料 
 
-### [nlp-with-transformers](https://github.com/nlp-with-transformers)
+### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
 
-书籍《基于Transformers的自然语言处理》的代码仓库：
+`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/A6MiF5.jpg) 
+- [Tauri 项目](https://github.com/tauri-apps/tauri)
+- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
+- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
 
-### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
+### [quant-wiki](https://quant-wiki.com/)
 
-从零开始学习Kubernetes的路线图（初级到高级）：
+致力于量化知识的开源与汉化，打破国内外量化金融行业信息差：
 
-![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
+![quant](https://images-1252557999.file.myqcloud.com/uPic/kuOM0C.png) 
 
-### [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)
+### [Recommender_System](https://github.com/solidglue/Recommender_System)
 
-从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 `PDF`:
-
-![what_are_embeddings](https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg) 
+推荐系统入门指南，全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。 
 
 ## 🕸 网站 
 
-### [linux.pdf](https://linux.doompdf.dev/linux.pdf)
+### [aitdk](https://aitdk.com/zh-CN/)
 
-`PDF` 中运行 `Linux`，通过 `RISC-V` 架构的模拟器实现：
+AI标题、描述和关键词生成器，为您的网站生成SEO友好的标题、描述和关键词：
 
-![linux.pdf](https://images-1252557999.file.myqcloud.com/uPic/edDIQp.png)
+![aitdk](https://images-1252557999.file.myqcloud.com/uPic/aitdk.jpg) 
 
-开源地址：[linuxpdf](https://github.com/ading2210/linuxpdf?tab=readme-ov-file) 
+### [BriefGPT](https://briefgpt.xyz/)
 
-### [tldraw](https://www.tldraw.com/)
+`AI` 论文速递，每日更新 `Arxiv` 论文，第一时间了解 `AI` 最新动态：
 
-小巧强大的在线绘图工具：
+![briefgpt](https://images-1252557999.file.myqcloud.com/uPic/briefgpt.jpg) 
 
-![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
+### [websequencediagrams](https://www.websequencediagrams.com/)
 
-### [红白机游戏盒](https://nes.heheda.top/ "红白机游戏盒")
+提供在线绘制时序图的网站：
 
-在线畅玩经典小游戏：
-
-![heheda](https://images-1252557999.file.myqcloud.com/uPic/heheda.jpg) 
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
 ## ✍️ 说明
 
