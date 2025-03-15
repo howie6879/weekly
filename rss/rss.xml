@@ -12,7 +12,102 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 02 Mar 2025 09:45:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 14:57:07 +0000</lastBuildDate>
+    <item>
+      <title>03-03~03-15.老胡的周刊（第180期）.md</title>
+      <link>https://weekly.howie6879.com/2025/03-03~03-15.老胡的周刊（第180期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/03-03~03-15.老胡的周刊（第180期）.html"&gt;03-03~03-15.老胡的周刊（第180期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/executeautomation/mcp-playwright"&gt;mcp-playwright&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;Playwright&lt;/code&gt; 的模型上下文协议服务器，用于自动化浏览器和 &lt;code&gt;API&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="mcp-playwright" src="https://img.api123.pro/i/2025/03/15/67d500afc9275.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/reflex-dev/reflex"&gt;reflex&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Reflex&lt;/code&gt; 是一个使用纯Python构建全栈web应用的库，使用 &lt;code&gt;Python&lt;/code&gt; 创建高效且可自定义的网页应用程序，几秒钟内即可部署：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;纯Python - 前端、后端开发全都使用 &lt;code&gt;Python&lt;/code&gt;，不需要学习 &lt;code&gt;Javascript&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;完整的灵活性 - &lt;code&gt;Reflex&lt;/code&gt; 很容易上手, 并且也可以扩展到复杂的应用程序。&lt;/li&gt;
+&lt;li&gt;立即部署 - 构建后，使用单个命令就能部署应用程序；或者也可以将其托管在您自己的服务器上。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href="https://github.com/xxnuo/MTranServer"&gt;MTranServer&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个超低资源消耗超快的离线翻译服务器，英译中模型仅需 860MB 内存即可运行，无需显卡。单个请求平均响应时间 50ms。支持全世界主要语言的翻译，翻译质量与 Google 翻译相当。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="MTranServer" src="https://images-1252557999.file.myqcloud.com/uPic/KZywne.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/VikParuchuri/surya"&gt;surya&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个开源的文档 OCR 工具包，能够在 90 多种语言中进行文本识别，并且在性能上与云服务相比具有优势。它支持文本检测、版面分析、阅读顺序和表格识别等功能，适用于各种文档，包括图像、PDF、Word 文档和 PowerPoint 演示文稿。surya 提供了一个交互式的 Streamlit 应用程序，用户可以通过它来试验 OCR 功能。此外，还有一个托管的 API 服务，用于处理各种类型的文件：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="surya" src="https://img.api123.pro/i/2025/03/15/67d503208a382.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://huggingface.co/allenai/olmOCR-7B-0225-preview"&gt;olmOCR-7B&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;olmOCR&lt;/code&gt; 在250000页的数据集上微调了&lt;code&gt;Qwen2-VL-7B-Instruct&lt;/code&gt; 模型，旨在将 &lt;code&gt;PDF&lt;/code&gt; 和文档图像转换为干净且结构化的纯文本：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="olmOCR" src="https://img.api123.pro/i/2025/03/15/67d5044a829bd.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/iAJue/MoeKoeMusic"&gt;MoeKoeMusic&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一款开源简洁高颜值的酷狗第三方客户端：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ 使用 Vue.js 全家桶开发&lt;/li&gt;
+&lt;li&gt;🔴 酷狗账号登录（扫码/手机/账号登录）&lt;/li&gt;
+&lt;li&gt;📃 支持歌词显示&lt;/li&gt;
+&lt;li&gt;📻 每日推荐歌曲&lt;/li&gt;
+&lt;li&gt;🚫🤝 无任何社交功能&lt;/li&gt;
+&lt;li&gt;🔗 官方服务器直连, 无任何第三方 API&lt;/li&gt;
+&lt;li&gt;✔️ 每日自动领取VIP, 登录就是VIP&lt;/li&gt;
+&lt;li&gt;🎨 主题色切换&lt;/li&gt;
+&lt;li&gt;👋 启动问候语&lt;/li&gt;
+&lt;li&gt;⚙️ 多平台支持&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="MoeKoeMusic" src="https://images-1252557999.file.myqcloud.com/uPic/KnV77J.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/TheBoredTeam/boring.notch/"&gt;boring.notch&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;TheBoringNotch&lt;/code&gt; 项目旨在将 &lt;code&gt;MacBook&lt;/code&gt; 的 &lt;code&gt;notch&lt;/code&gt; 区域转变为一个动态的音乐控制中心，具有音乐可视化效果和完整的音乐控制功能，让用户的 &lt;code&gt;MacBook notch&lt;/code&gt; 成为屏幕上最酷的部分。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/wfql1024/MultiWeChatManager"&gt;MultiWeChatManager&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;懒得点？懒得扫码？那就交给它！🛠️ 这是一款专为 微信多开（未来也可以支持其他平台！！） 而设计的 自动化管理工具，支持 多号一键登录、全局多开、自启动登录、防撤回 等功能，是让你省心的好工具！🚀&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;本项目通过查杀微信等平台的互斥体线程而实现多开&lt;/li&gt;
+&lt;li&gt;选号登录是保存并应用微信等平台存储在本地的配置文件的过程&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="MultiWeChatManager" src="https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6215264216928076702-y.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;使用需谨慎，防止封号&lt;/strong&gt;，老胡概不负责。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/j-fbriere/squawker"&gt;squawker&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个开源的隐私导向的 &lt;code&gt;Twitter/X&lt;/code&gt; 客户端：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="squawker" src="https://images-1252557999.file.myqcloud.com/uPic/mL6QyN.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/iAmCorey/awesome-ai-directory"&gt;awesome-ai-directory&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;💡 收录优质AI工具导航及开发学习资源聚合平台，这个列表致力于收集和整理各类优秀的AI相关资源网站，包括但不限于：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AI工具收录导航&lt;/li&gt;
+&lt;li&gt;AI模型接口资源&lt;/li&gt;
+&lt;li&gt;AI学习资料资源&lt;/li&gt;
+&lt;li&gt;AI新闻趋势聚合&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="awesome-ai-directory" src="https://images-1252557999.file.myqcloud.com/uPic/0m1IbQ.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://zgcrsd6xvj.feishu.cn/docx/IoOZdVNHXohjohxDiAkccq6Vnie"&gt;播客365（2024）&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本文讨论了2024年众多播客节目的丰富内容，涵盖商业、文化、生活、科技等多个领域 。关键要点包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;商业领域：主播探究竞业协议由来与边界；提及美图2016年港股上市；蜜雪冰城和古茗递表港交所。&lt;/li&gt;
+&lt;li&gt;文化领域：嘉宾探讨《桃花源记》《逍遥游》独特见解；28家出版社编辑推荐2024新书；主播分享汉字演变知识。&lt;/li&gt;
+&lt;li&gt;生活领域：心理学家聊青少年厌学与心理健康；主播分享Vision Pro购买经历；介绍各地马拉松参赛体验。&lt;/li&gt;
+&lt;li&gt;科技领域：主播畅聊数十款AI工具；指出AI大模型在闭环场景应用快，To B产品有优势 。 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://ai-headshot-generator.net/cn"&gt;AI 头像生成器&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;在线创建最佳 AI 头像：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ai-headshot-generator.net" src="https://images-1252557999.file.myqcloud.com/uPic/DVnp5s.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://smartexcel.cc/"&gt;smartexcel&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;使用 &lt;code&gt;AI&lt;/code&gt; 在几秒钟内生成 &lt;code&gt;Excel&lt;/code&gt; 公式的工具。描述自己的需要，即可生成相应的公式。需要登录，每天 有10 个免费积分可以使用:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="smartexcel" src="https://images-1252557999.file.myqcloud.com/uPic/DXKVRR.png" /&gt;&lt;/p&gt;
+&lt;p&gt;开源地址：&lt;a href="https://github.com/weijunext/smart-excel-ai"&gt;smartexcel&lt;/a&gt;。&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">03-03~03-15.老胡的周刊（第180期）.md</guid>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>02-24~03-02.老胡的周刊（第179期）.md</title>
       <link>https://weekly.howie6879.com/2025/02-24~03-02.老胡的周刊（第179期）.html</link>
@@ -1196,65 +1291,6 @@
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">09-23~09-29.老胡的周刊（第161期）.md</guid>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>09-17~09-22.老胡的周刊（第160期）.md</title>
-      <link>https://weekly.howie6879.com/2024/09-17~09-22.老胡的周刊（第160期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/09-17~09-22.老胡的周刊（第160期）.html"&gt;09-17~09-22.老胡的周刊（第160期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/usual2970/certimate"&gt;certimate&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="certimate" src="https://images-1252557999.file.myqcloud.com/uPic/slnLnQ.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/unclecode/crawl4ai"&gt;crawl4ai&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Crawl4AI&lt;/code&gt; 是一个免费且开源的网络爬虫工具，专为大型语言模型（LLMs）和 AI 应用设计，支持多种输出格式，如 JSON、HTML 和 markdown。它能够同时处理多个 URL，提取媒体标签（图片、音频和视频），以及内外链接和网页元数据。&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/canxin121/app_rhyme"&gt;app_rhyme&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;使用 &lt;code&gt;Flutter&lt;/code&gt; 和 &lt;code&gt;Rust&lt;/code&gt; 开发的跨平台自定义音源音乐播放器：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="app_rhyme" src="https://images-1252557999.file.myqcloud.com/uPic/hGPRWI.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/termux/termux-app"&gt;termux-app&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Termux&lt;/code&gt; 是一个为 &lt;code&gt;Android&lt;/code&gt; 操作系统设计的终端模拟器应用程序，它可以通过各种软件包进行扩展，支持 &lt;code&gt;Linux&lt;/code&gt; 环境：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="termux-app" src="https://images-1252557999.file.myqcloud.com/uPic/tMfcxO.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/xjunz/AutoTask"&gt;AutoTask&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一款支持 &lt;a href="https://github.com/RikkaApps/Shizuku"&gt;Shizuku&lt;/a&gt; 和辅助功能的自动任务工具，本应用专注于帮助您执行自动任务，相比于其他同类产品，本应用具有以下特点：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;支持多种启动模式（Shizuku和辅助功能）&lt;/li&gt;
-&lt;li&gt;支持自定义常驻任务任务和一次性任务&lt;/li&gt;
-&lt;li&gt;支持手势录制，审查布局树等&lt;/li&gt;
-&lt;li&gt;不需要刻意保活便可常驻后台（两种模式默认系统保活）&lt;/li&gt;
-&lt;li&gt;省电且占用系统资源较少（事件驱动+协程，执行长时间任务也不阻塞CPU）&lt;/li&gt;
-&lt;li&gt;代码开源，安全可信&lt;/li&gt;
-&lt;li&gt;Material 3 风格UI，实用美观&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="AutoTask" src="https://images-1252557999.file.myqcloud.com/uPic/o9SYLa.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/sxzxs/Real-time-translation-typing"&gt;Real-time-translation-typing&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Real-time-translation-typing" src="https://images-1252557999.file.myqcloud.com/uPic/Y0Cv8U.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/TheOdinProject/curriculum"&gt;curriculum&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;The Odin Project&lt;/code&gt;（简称 TOP）是一个开源的全栈 web 开发教育课程，旨在通过一系列课程和项目帮助学习者掌握前端和后端技能：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="k6tcen" src="https://images-1252557999.file.myqcloud.com/uPic/k6tcen.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/FudanSELab/Agent4SE-Paper-List"&gt;FudanSELab/Agent4SE-Paper-List&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;该仓库由复旦大学软件工程实验室（FudanSELab）创建的，旨在为大型语言模型（LLMs）基础的软件工程代理（Agent）领域提供一个系统的文献综述：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Agent4SE-Paper-List" src="https://images-1252557999.file.myqcloud.com/uPic/uFo2bN.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://watermark.chiloh.cn/"&gt;水印宝&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://github.com/chilohwei/watermark-tool"&gt;开源&lt;/a&gt;的图片加水印网页：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="watermark" src="https://images-1252557999.file.myqcloud.com/uPic/jiPUF2.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">09-17~09-22.老胡的周刊（第160期）.md</guid>
-      <pubDate>Sun, 22 Sep 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
