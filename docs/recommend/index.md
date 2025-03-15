@@ -5,79 +5,96 @@
 
 ## 🎯 项目 
 
-### [PyFlow](https://github.com/wonderworks-software/PyFlow)
+### [chart-gpt](https://github.com/whoiskatrin/chart-gpt)
 
-可视化脚本框架：
+基于文本输入构建图表的人工智能工具，可以直接在官网 [https://www.chartgpt.dev](https://www.chartgpt.dev/) 体验：
 
-![PyFlow](https://images-1252557999.file.myqcloud.com/uPic/XEBUdM.jpg) 
+![chartgpt](https://images-1252557999.file.myqcloud.com/uPic/chartgpt.jpg) 
 
-### [awesome-compose](https://github.com/docker/awesome-compose)
+### [bililive-go](https://github.com/hr3lxphr6j/bililive-go)
 
-一些 `Docker Compose` 的实践示例。 
+`Bililive-go` 是一个支持多种直播平台的直播录制工具：
 
-### [halo](https://github.com/halo-dev/halo)
+![bililive-go](https://images-1252557999.file.myqcloud.com/uPic/bililive-go.webp) 
 
-✍ 一款现代化的开源博客& `CMS` 系统：
+### [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion)
 
-![halo](https://images-1252557999.file.myqcloud.com/uPic/halo.jpg) 
+在 `MacOS` 上运行原生的 `Stable Diffusion`，本应用内置 `Apple` 的 `Core ML Stable Diffusion` 框架 以实现在搭载 `Apple` 芯片的 `Mac` 上用极低的内存占用发挥出最优性能：
+
+- 极致性能和极低内存占用 (使用神经网络引擎时 ~150MB)
+- 在所有搭载 Apple 芯片的 Mac 上充分发挥神经网络引擎的优势
+- 生成图像时无需联网
+- 图像转图像（也被称为 Image2Image）
+- 在图像的 EXIF 信息中存储所有的关键词（在访达的“显示简介”窗口中查看）
+- 使用 RealESRGAN 放大生成的图像
+- 自动保存 & 恢复图像
+- 自定义 Stable Diffusion Core ML 模型
+- 无需担心损坏的模型
+- 使用 macOS 原生框架 SwiftUI 开发
+
+![MochiDiffusion](https://images-1252557999.file.myqcloud.com/uPic/MochiDiffusion.jpg) 
 
 ## 🤖 软件 
 
-### [aniyomi](https://github.com/aniyomiorg/aniyomi)
+### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
-读者推荐，`aniyomi` 不单单可以看漫画还可以看动漫，而且也支持[插件](https://aniyomi.org/extensions/)，更厉害的是，这个 APP 可以关联漫画进度记录网站，比如 Bangumi、MyAnimeList 等：
+针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
 
-![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
+![CodeEdit](https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png) 
 
-### [Hail](https://github.com/aistra0528/Hail)
+### [XHS_Downloader](https://github.com/JoeanAmier/XHS_Downloader)
 
-雹(Hail) 是一个允许用户在没有 root 权限的情况下，通过冻结、隐藏、暂停或卸载来管理 Android 应用的自由软件：
+免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具：
 
-![Hail](https://images-1252557999.file.myqcloud.com/uPic/nhaDp1.png) 
+![XHS_Downloader](https://images-1252557999.file.myqcloud.com/uPic/XHS_Downloader.png) 
 
-### [Wechatsync](https://github.com/wechatsync/Wechatsync)
+### [BetterDummy](https://github.com/waydabber/BetterDummy)
 
-一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
+`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
+
+![bd_menu](https://images-1252557999.file.myqcloud.com/uPic/bd_menu.png)
+
+如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
 
 ## 👀 资料 
 
-### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
+### [MDN Web Docs](https://github.com/mdn/translated-content)
 
-`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
+`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
 
-- [Tauri 项目](https://github.com/tauri-apps/tauri)
-- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
-- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
+![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
 
-### [quant-wiki](https://quant-wiki.com/)
+### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
 
-致力于量化知识的开源与汉化，打破国内外量化金融行业信息差：
+一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
 
-![quant](https://images-1252557999.file.myqcloud.com/uPic/kuOM0C.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
 
-### [Recommender_System](https://github.com/solidglue/Recommender_System)
+### [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial)
 
-推荐系统入门指南，全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。 
+本教程供新加入 `TANGENT` 实验室的同学入门 NLP 使用，该指南主要提供了 `NLP` 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：
+
+![pku_nlp_tutorial](https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [aitdk](https://aitdk.com/zh-CN/)
+### [photoroom](https://www.photoroom.com/backgrounds/)
 
-AI标题、描述和关键词生成器，为您的网站生成SEO友好的标题、描述和关键词：
+利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
 
-![aitdk](https://images-1252557999.file.myqcloud.com/uPic/aitdk.jpg) 
+![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
 
-### [BriefGPT](https://briefgpt.xyz/)
+### [storyset](https://storyset.com/)
 
-`AI` 论文速递，每日更新 `Arxiv` 论文，第一时间了解 `AI` 最新动态：
+来自读者@妙才的投稿，这个网站提供了大量精美免费的插图，可以应用于你的项目：
 
-![briefgpt](https://images-1252557999.file.myqcloud.com/uPic/briefgpt.jpg) 
+![storyset](https://images-1252557999.file.myqcloud.com/uPic/Jm5cJY.png) 
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+### [libhunt](https://www.libhunt.com/)
 
-提供在线绘制时序图的网站：
+一个对开源项目进行分类并排名的网站：
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+![libhunt](https://images-1252557999.file.myqcloud.com/uPic/libhunt.jpg) 
 
 ## ✍️ 说明
 
