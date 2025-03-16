@@ -5,96 +5,87 @@
 
 ## 🎯 项目 
 
-### [chart-gpt](https://github.com/whoiskatrin/chart-gpt)
+### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
 
-基于文本输入构建图表的人工智能工具，可以直接在官网 [https://www.chartgpt.dev](https://www.chartgpt.dev/) 体验：
+开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
 
-![chartgpt](https://images-1252557999.file.myqcloud.com/uPic/chartgpt.jpg) 
+![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
 
-### [bililive-go](https://github.com/hr3lxphr6j/bililive-go)
+### [restic](https://github.com/restic/restic)
 
-`Bililive-go` 是一个支持多种直播平台的直播录制工具：
+`Restic` 是一个快速、高效和安全的备份程序。它支持三个主要操作系统（Linux、macOS、Windows）和一些较小众的操作系统（FreeBSD、OpenBSD）
 
-![bililive-go](https://images-1252557999.file.myqcloud.com/uPic/bililive-go.webp) 
+![restic](https://images-1252557999.file.myqcloud.com/uPic/restic.jpg) 
 
-### [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion)
+### [answer](https://github.com/answerdev/answer)
 
-在 `MacOS` 上运行原生的 `Stable Diffusion`，本应用内置 `Apple` 的 `Core ML Stable Diffusion` 框架 以实现在搭载 `Apple` 芯片的 `Mac` 上用极低的内存占用发挥出最优性能：
+基于自己的产品或者项目快速打造一个问答社区：
 
-- 极致性能和极低内存占用 (使用神经网络引擎时 ~150MB)
-- 在所有搭载 Apple 芯片的 Mac 上充分发挥神经网络引擎的优势
-- 生成图像时无需联网
-- 图像转图像（也被称为 Image2Image）
-- 在图像的 EXIF 信息中存储所有的关键词（在访达的“显示简介”窗口中查看）
-- 使用 RealESRGAN 放大生成的图像
-- 自动保存 & 恢复图像
-- 自定义 Stable Diffusion Core ML 模型
-- 无需担心损坏的模型
-- 使用 macOS 原生框架 SwiftUI 开发
-
-![MochiDiffusion](https://images-1252557999.file.myqcloud.com/uPic/MochiDiffusion.jpg) 
+![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
 
 ## 🤖 软件 
 
-### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
 
-针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
+自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
 
-![CodeEdit](https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png) 
+![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
 
-### [XHS_Downloader](https://github.com/JoeanAmier/XHS_Downloader)
+### [squawker](https://github.com/j-fbriere/squawker)
 
-免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具：
+一个开源的隐私导向的 `Twitter/X` 客户端：
 
-![XHS_Downloader](https://images-1252557999.file.myqcloud.com/uPic/XHS_Downloader.png) 
+![squawker](https://images-1252557999.file.myqcloud.com/uPic/mL6QyN.png) 
 
-### [BetterDummy](https://github.com/waydabber/BetterDummy)
+### [thorium-reader](https://github.com/edrlab/thorium-reader)
 
-`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
+`Thorium Reader` 是一款专为 `Windows 10/11、MacOS & Linux` 开发的电子书阅读器：
 
-![bd_menu](https://images-1252557999.file.myqcloud.com/uPic/bd_menu.png)
-
-如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
+![thorium-reader](https://images-1252557999.file.myqcloud.com/uPic/thorium-reader.png) 
 
 ## 👀 资料 
 
-### [MDN Web Docs](https://github.com/mdn/translated-content)
+### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
 
-`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
+本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
 
-![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
+![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
 
-### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
+### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
 
-一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
+该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
 
-![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/ub1GLI.jpg) 
 
-### [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial)
+### [netkiller](https://www.netkiller.cn/)
 
-本教程供新加入 `TANGENT` 实验室的同学入门 NLP 使用，该指南主要提供了 `NLP` 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：
+作者持续写了将近20年的技术博文，涵盖面极广：
 
-![pku_nlp_tutorial](https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg) 
+![netkiller](https://images-1252557999.file.myqcloud.com/uPic/V7rzw3.png) 
 
 ## 🕸 网站 
 
-### [photoroom](https://www.photoroom.com/backgrounds/)
+### [nslookup.io](https://www.nslookup.io/)
 
-利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
+一个在线工具，用于查询域名的 DNS 记录，提供与命令行工具 dig 和 nslookup 相同的信息，但在浏览器中更加方便：
 
-![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
+![nslookup](https://images-1252557999.file.myqcloud.com/uPic/d5hTUE.png) 
 
-### [storyset](https://storyset.com/)
+### [caesium-image-compressor](https://caesium.app/)
 
-来自读者@妙才的投稿，这个网站提供了大量精美免费的插图，可以应用于你的项目：
+免费开源的图片压缩工具：
 
-![storyset](https://images-1252557999.file.myqcloud.com/uPic/Jm5cJY.png) 
+![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.png)
 
-### [libhunt](https://www.libhunt.com/)
+还支持[桌面端](https://github.com/Lymphatus/caesium-image-compressor)：
 
-一个对开源项目进行分类并排名的网站：
+![caesium-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/caesium-image-compressor.png) 
 
-![libhunt](https://images-1252557999.file.myqcloud.com/uPic/libhunt.jpg) 
+### [llmresourceshub](https://llmresourceshub.vercel.app/)
+
+一站式 LLM 资源合集：
+
+![llmresourceshub](https://images-1252557999.file.myqcloud.com/uPic/eSgtB8.png) 
 
 ## ✍️ 说明
 
