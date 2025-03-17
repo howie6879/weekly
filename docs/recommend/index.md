@@ -5,57 +5,59 @@
 
 ## 🎯 项目 
 
-### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
+### [surveyking](https://github.com/javahuang/surveyking)
 
-开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
+功能挺全面的一个调查问卷系统：
 
-![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
+![surveyking](https://images-1252557999.file.myqcloud.com/uPic/surveyking.jpg) 
 
-### [restic](https://github.com/restic/restic)
+### [NocoDB](https://github.com/nocodb/nocodb)
 
-`Restic` 是一个快速、高效和安全的备份程序。它支持三个主要操作系统（Linux、macOS、Windows）和一些较小众的操作系统（FreeBSD、OpenBSD）
+将 `MySQL、PostgreSQL、SQL Server、SQLite 、MariaDB` 转换为智能电子表格：
 
-![restic](https://images-1252557999.file.myqcloud.com/uPic/restic.jpg) 
+![NocoDB](https://images-1252557999.file.myqcloud.com/uPic/NocoDB.png) 
 
-### [answer](https://github.com/answerdev/answer)
+### [tduck-front](https://github.com/TDuckCloud/tduck-front)
 
-基于自己的产品或者项目快速打造一个问答社区：
+`Tduck` 填鸭表单是一款自定义表单工具，支持问卷调查、数据收集等功能。采用无代码理念支持开发自定义组件，简单拖拽即可生成表单，完成数据收集。采用 `SpringBoot+Vue+ElementUI` 技术栈，功能强大界面清新，支持一键部署：
 
-![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
+![tduck-front](https://images-1252557999.file.myqcloud.com/uPic/tduck-front.png)
+
+滴滴也开源了一套轻量、安全的问卷系统基座，提供面向个人和企业的一站式产品级解决方案，快速满足各类线上调研场景👉[xiaoju-survey](https://github.com/didi/xiaoju-survey)。 
 
 ## 🤖 软件 
 
-### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
+### NewPipe
 
-自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
+`NewPipe` 是一款 Android 下的第三方 `YouTube` 客户端，支持画中画、后台播放、变速播放、可查看留言、可导入订阅频道、可使用 `Kodi` 播放，是一款功能非常完善的油管客户端：
 
-![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
+![NewPipe](https://images-1252557999.file.myqcloud.com/uPic/NewPipe.jpg) 
 
-### [squawker](https://github.com/j-fbriere/squawker)
+### [apifox](https://www.apifox.cn/)
 
-一个开源的隐私导向的 `Twitter/X` 客户端：
+Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
 
-![squawker](https://images-1252557999.file.myqcloud.com/uPic/mL6QyN.png) 
+![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
 
-### [thorium-reader](https://github.com/edrlab/thorium-reader)
+### [notesnook](https://github.com/streetwriters/notesnook)
 
-`Thorium Reader` 是一款专为 `Windows 10/11、MacOS & Linux` 开发的电子书阅读器：
+印象笔记的开源替代品（支持端对端加密）：
 
-![thorium-reader](https://images-1252557999.file.myqcloud.com/uPic/thorium-reader.png) 
+![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
 
 ## 👀 资料 
 
-### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
+### [rework](https://github.com/livid/rework)
 
-本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
+这是一本来自 `37signals` 的关于商业和创意执行的书，由 `OLIVIDA` 翻译，在线阅读地址见[这里](https://www.v2ex.com/rework)：
 
-![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
+![rework](https://images-1252557999.file.myqcloud.com/uPic/rework.jpg) 
 
-### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
+### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
 
-该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
+精益副业：程序员如何优雅地做副业:
 
-![](https://images-1252557999.file.myqcloud.com/uPic/ub1GLI.jpg) 
+![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
 
 ### [netkiller](https://www.netkiller.cn/)
 
@@ -65,27 +67,35 @@
 
 ## 🕸 网站 
 
-### [nslookup.io](https://www.nslookup.io/)
+### [douyin.wtf](https://douyin.wtf/)
 
-一个在线工具，用于查询域名的 DNS 记录，提供与命令行工具 dig 和 nslookup 相同的信息，但在浏览器中更加方便：
+网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
 
-![nslookup](https://images-1252557999.file.myqcloud.com/uPic/d5hTUE.png) 
+![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
 
-### [caesium-image-compressor](https://caesium.app/)
+### [腾讯文库](https://wenku.docs.qq.com/)
 
-免费开源的图片压缩工具：
+腾讯文库——专业权威的内容消费与发布平台：
 
-![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.png)
+![wenku](https://images-1252557999.file.myqcloud.com/uPic/CL5bpt.png) 
 
-还支持[桌面端](https://github.com/Lymphatus/caesium-image-compressor)：
+### [ticompressor](https://www.ticompressor.com/online/)
 
-![caesium-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/caesium-image-compressor.png) 
+压缩速度极快的图片压缩软件，有网页版和软件版：
 
-### [llmresourceshub](https://llmresourceshub.vercel.app/)
+- 具有超快的压缩速度
+- 支持压缩 GB 级别的超大体积的图片
+- 支持 7 种图片格式
+- 支持深、浅色主题模式
+- 可对原始图片进行预览
+- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
+- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
+- 实时显示压缩进度
+- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
 
-一站式 LLM 资源合集：
+![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
 
-![llmresourceshub](https://images-1252557999.file.myqcloud.com/uPic/eSgtB8.png) 
+![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
 
 ## ✍️ 说明
 
