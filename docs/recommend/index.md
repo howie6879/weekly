@@ -5,97 +5,77 @@
 
 ## 🎯 项目 
 
-### [surveyking](https://github.com/javahuang/surveyking)
+### [weiboSpider](https://github.com/dataabc/weiboSpider)
 
-功能挺全面的一个调查问卷系统：
+新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
 
-![surveyking](https://images-1252557999.file.myqcloud.com/uPic/surveyking.jpg) 
+### [certimate](https://github.com/usual2970/certimate)
 
-### [NocoDB](https://github.com/nocodb/nocodb)
+开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期：
 
-将 `MySQL、PostgreSQL、SQL Server、SQLite 、MariaDB` 转换为智能电子表格：
+![certimate](https://images-1252557999.file.myqcloud.com/uPic/slnLnQ.png) 
 
-![NocoDB](https://images-1252557999.file.myqcloud.com/uPic/NocoDB.png) 
+### [van-blog](https://github.com/Mereithhh/van-blog)
 
-### [tduck-front](https://github.com/TDuckCloud/tduck-front)
+一款简洁实用优雅的高性能个人博客系统：
 
-`Tduck` 填鸭表单是一款自定义表单工具，支持问卷调查、数据收集等功能。采用无代码理念支持开发自定义组件，简单拖拽即可生成表单，完成数据收集。采用 `SpringBoot+Vue+ElementUI` 技术栈，功能强大界面清新，支持一键部署：
-
-![tduck-front](https://images-1252557999.file.myqcloud.com/uPic/tduck-front.png)
-
-滴滴也开源了一套轻量、安全的问卷系统基座，提供面向个人和企业的一站式产品级解决方案，快速满足各类线上调研场景👉[xiaoju-survey](https://github.com/didi/xiaoju-survey)。 
+![van-blog](https://images-1252557999.file.myqcloud.com/uPic/2MP7Gk.jpg) 
 
 ## 🤖 软件 
 
-### NewPipe
+### [ab-download-manager](https://github.com/amir1376/ab-download-manager)
 
-`NewPipe` 是一款 Android 下的第三方 `YouTube` 客户端，支持画中画、后台播放、变速播放、可查看留言、可导入订阅频道、可使用 `Kodi` 播放，是一款功能非常完善的油管客户端：
+旨在提供比传统下载方式更快下载速度的开源跨平台下载器，界面非常现代化：
 
-![NewPipe](https://images-1252557999.file.myqcloud.com/uPic/NewPipe.jpg) 
+![ab-download-manager](https://images-1252557999.file.myqcloud.com/uPic/ECGYnu.png) 
 
-### [apifox](https://www.apifox.cn/)
+### [ruzz](https://github.com/vlts1/ruzz)
 
-Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
+`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
 
-![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
+![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
 
-### [notesnook](https://github.com/streetwriters/notesnook)
+### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
 
-印象笔记的开源替代品（支持端对端加密）：
+`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
 
-![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
+![Miao](https://images-1252557999.file.myqcloud.com/uPic/Miao.png) 
 
 ## 👀 资料 
 
-### [rework](https://github.com/livid/rework)
+### [docker-practice](https://vuepress.mirror.docker-practice.com/)
 
-这是一本来自 `37signals` 的关于商业和创意执行的书，由 `OLIVIDA` 翻译，在线阅读地址见[这里](https://www.v2ex.com/rework)：
+一份面向 `Docker` 初学者的教程：
 
-![rework](https://images-1252557999.file.myqcloud.com/uPic/rework.jpg) 
+![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
 
-### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
+### [data_compression_course](https://github.com/jermp/data_compression_course)
 
-精益副业：程序员如何优雅地做副业:
+由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
 
-![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
+### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
-### [netkiller](https://www.netkiller.cn/)
-
-作者持续写了将近20年的技术博文，涵盖面极广：
-
-![netkiller](https://images-1252557999.file.myqcloud.com/uPic/V7rzw3.png) 
+本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
 
 ## 🕸 网站 
 
-### [douyin.wtf](https://douyin.wtf/)
+### [buzzing.cc](https://www.buzzing.cc/)
 
-网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
+用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读：
 
-![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
+![buzzing](https://images-1252557999.file.myqcloud.com/uPic/buzzing.jpg) 
 
-### [腾讯文库](https://wenku.docs.qq.com/)
+### [json-to-go](https://mholt.github.io/json-to-go/)
 
-腾讯文库——专业权威的内容消费与发布平台：
+在浏览器中将 `JSON` 转换为 `Go` 类型：
 
-![wenku](https://images-1252557999.file.myqcloud.com/uPic/CL5bpt.png) 
+![json-to-go](https://images-1252557999.file.myqcloud.com/uPic/json-to-go.jpg) 
 
-### [ticompressor](https://www.ticompressor.com/online/)
+### [动漫新番表](https://www.fre123.com/anime/n)
 
-压缩速度极快的图片压缩软件，有网页版和软件版：
+继上周做了[动漫搜索引擎](https://www.fre123.com/anime/s)后，老胡这次整了个动漫新番信息记录网站，新番信息脚本和数据都是开源的👉[fre123-anime](https://github.com/fre123-com/fre123-anime)，欢迎体验：
 
-- 具有超快的压缩速度
-- 支持压缩 GB 级别的超大体积的图片
-- 支持 7 种图片格式
-- 支持深、浅色主题模式
-- 可对原始图片进行预览
-- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
-- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
-- 实时显示压缩进度
-- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
-
-![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
-
-![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
+![fre123_anime_n](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime_n.jpg) 
 
 ## ✍️ 说明
 
