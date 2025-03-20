@@ -5,85 +5,91 @@
 
 ## 🎯 项目 
 
-### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
+### [MOSS](https://github.com/OpenLMLab/MOSS)
 
-最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
+来自复旦大学的开源工具增强型会话语言模型-MOSS:
 
-![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
+![MOSS](https://images-1252557999.file.myqcloud.com/uPic/MOSS.jpg) 
 
-### [crawl4ai](https://github.com/unclecode/crawl4ai)
+### [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)
 
-`Crawl4AI` 是一个免费且开源的网络爬虫工具，专为大型语言模型（LLMs）和 AI 应用设计，支持多种输出格式，如 JSON、HTML 和 markdown。它能够同时处理多个 URL，提取媒体标签（图片、音频和视频），以及内外链接和网页元数据。 
+朋友圈转发截图生成工具，这个项目确实解决了一些号主做活动要求发朋友圈的需求：
 
-### [icefox](https://github.com/xiaopanglian/icefox)
+![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-22_09-42-52.jpg) 
 
-`Typecho` 微信朋友圈主题:
+### [flet](https://github.com/flet-dev/flet)
 
-![icefox](https://images-1252557999.file.myqcloud.com/uPic/icefox.jpg) 
+用 `Python` 开发跨平台 `Flutter` 应用：
+
+![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
 
 ## 🤖 软件 
 
-### [onepoint](https://github.com/onepointAI/onepoint)
+### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
 
-Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
+一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
 
-借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
+![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
 
-![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
+### [oneAnime](https://github.com/Predidit/oneAnime)
 
-### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范：
 
-科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
+![oneAnime](https://images-1252557999.file.myqcloud.com/uPic/oneAnime.jpg) 
 
-![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
+### [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
 
-还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
+🎉 一个 `Frp Client` 跨平台桌面端：
 
-### [plain-app](https://github.com/ismartcoding/plain-app)
-
-🔥 PlainApp 是一个开源应用程序，允许您通过网络浏览器管理您的手机。使用安全、易于使用的 Web 界面从您的桌面访问文件、视频、音乐、联系人、短信、电话等！
-
-![plain-app](https://images-1252557999.file.myqcloud.com/uPic/plain-app.jpg) 
+![](https://img.fre123.com/i/2023/12/23/6586f68db0238.jpg) 
 
 ## 👀 资料 
 
-### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
+### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 
-自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
+GitHub开源项目维护协作指南：
 
-![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
+![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
 
-### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
+### [missing-semester-cn](https://missing-semester-cn.github.io/)
 
-阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
+计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
 
-![c](https://images-1252557999.file.myqcloud.com/uPic/4uYTRJ.png) 
+在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
 
-### [C++服务器开发精髓](https://cppguide.cn/pages/92255f/)
+![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
 
-开源电子书籍，本书从操作系统原理角度讲解进行C++服务器开发所需掌握的技术栈：
+### [GoGuide](https://github.com/coderit666/GoGuide)
 
-![cppguide](https://images-1252557999.file.myqcloud.com/uPic/cppguide.jpg) 
+`Go Guide` 致力于打造最易懂的 `Go` 语言教程：
+
+![GoGuide](https://images-1252557999.file.myqcloud.com/uPic/GoGuide.png) 
 
 ## 🕸 网站 
 
-### [zlib.pro](https://zlib.pro/)
+### [123apps](https://123apps.com/cn/)
 
-`Z-Library` 是一个书籍检索下载网站，这个网站提供了更方便的查找访问方式：
+网站提供了一系列的小工具，包含分类：
 
-![zlib-pro](https://images-1252557999.file.myqcloud.com/uPic/zlib-pro.jpg) 
+- 视频工具
+- 音频工具
+- PDF 工具
+- 转换器
+- ......
 
-### [ffmpeg-online](https://ffmpeg-online.vercel.app/?inputOptions=-i&output=output.mp4&outputOptions=)
+![123apps](https://images-1252557999.file.myqcloud.com/uPic/123apps.jpg) 
 
-基于 `ffmpeg.wasm` 的在线版本，可用于在线处理音频和视频：
+### [tanpok](https://tool.tanpok.com/#/)
 
-![ffmpeg-online](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg-online.jpg) 
+效果非常好的图片压缩工具：
 
-### [tailspark](https://tailspark.co/)
+![tanpok](https://images-1252557999.file.myqcloud.com/uPic/8fZN8v.png) 
 
-`300+` 免费的 `TailwindCSS` 组件和模板，让您在几分钟内构建网站，颜值也非常高：
+### [myfreemp3juices](https://myfreemp3juices.cc/)
 
-![tailspark](https://images-1252557999.file.myqcloud.com/uPic/tailspark.jpg) 
+可以免费在线听&下载歌曲：
+
+![myfreemp3juices](https://images-1252557999.file.myqcloud.com/uPic/myfreemp3juices.jpg) 
 
 ## ✍️ 说明
 
