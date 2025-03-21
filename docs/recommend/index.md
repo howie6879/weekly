@@ -5,91 +5,94 @@
 
 ## 🎯 项目 
 
-### [MOSS](https://github.com/OpenLMLab/MOSS)
+### [NarratoAI](https://github.com/linyqh/NarratoAI)
 
-来自复旦大学的开源工具增强型会话语言模型-MOSS:
+利用AI大模型，一键解说并剪辑视频；
 
-![MOSS](https://images-1252557999.file.myqcloud.com/uPic/MOSS.jpg) 
+![GehnG3](https://images-1252557999.file.myqcloud.com/uPic/GehnG3.png) 
 
-### [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)
+### [showdoc](https://github.com/star7th/showdoc)
 
-朋友圈转发截图生成工具，这个项目确实解决了一些号主做活动要求发朋友圈的需求：
+一个非常适合IT团队的在线API文档、技术文档工具:
 
-![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-22_09-42-52.jpg) 
+![showdoc](https://images-1252557999.file.myqcloud.com/uPic/showdoc.jpg) 
 
-### [flet](https://github.com/flet-dev/flet)
+### [wewe-rss](https://github.com/cooderl/wewe-rss)
 
-用 `Python` 开发跨平台 `Flutter` 应用：
+更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。
 
-![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
+之前老胡也研究过这种方式，是可行的，但操作频繁依旧会被**风控**，目前看 `Issue` 有人被关了小黑屋，所以大家使用的话还是需要注意。
+
+![wewe-rss](https://images-1252557999.file.myqcloud.com/uPic/wewe-rss.jpg)
+
+注意：项目并非 **100%** 完全开源。 
 
 ## 🤖 软件 
 
-### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
+### [flameshot](https://github.com/flameshot-org/flameshot)
 
-一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
+一款强大且简单易用的截图软件，支持多平台（Linux、Windows、macOS）。其主要特点包括：
 
-![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
+- 自定义外观：支持自定义截图工具和颜色。
+- 简易使用：提供图形化界面和命令行操作。
+- 内置编辑：可以在应用内编辑截图。
+- 快捷键支持：支持本地和全局快捷键配置。
+- 截图上传：支持将截图上传到 Imgur。
 
-### [oneAnime](https://github.com/Predidit/oneAnime)
+![flameshot](https://images-1252557999.file.myqcloud.com/uPic/flameshot.png) 
 
-一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范：
+### [SwitchHosts](https://github.com/oldj/SwitchHosts)
 
-![oneAnime](https://images-1252557999.file.myqcloud.com/uPic/oneAnime.jpg) 
+`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
 
-### [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
+![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
+和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
 
-🎉 一个 `Frp Client` 跨平台桌面端：
+### [JPEGView](https://github.com/sylikc/jpegview)
 
-![](https://img.fre123.com/i/2023/12/23/6586f68db0238.jpg) 
+`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
 
 ## 👀 资料 
 
-### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
 
-GitHub开源项目维护协作指南：
+一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
 
-![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
 
-### [missing-semester-cn](https://missing-semester-cn.github.io/)
+### [JavaScript30](https://github.com/wesbos/JavaScript30)
 
-计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
+30 天 JS 挑战，助力学习提升 JS 技巧：
 
-在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
+![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
 
-![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
+### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
 
-### [GoGuide](https://github.com/coderit666/GoGuide)
+打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
 
-`Go Guide` 致力于打造最易懂的 `Go` 语言教程：
-
-![GoGuide](https://images-1252557999.file.myqcloud.com/uPic/GoGuide.png) 
+![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
 
 ## 🕸 网站 
 
-### [123apps](https://123apps.com/cn/)
+### [fontawesome](https://fontawesome.com/icons/)
 
-网站提供了一系列的小工具，包含分类：
+比较完善全面的图标网站：
 
-- 视频工具
-- 音频工具
-- PDF 工具
-- 转换器
-- ......
+![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
 
-![123apps](https://images-1252557999.file.myqcloud.com/uPic/123apps.jpg) 
+### [etempmail](https://etempmail.com/zh)
 
-### [tanpok](https://tool.tanpok.com/#/)
+一个免费提供临时电子邮件服务的网站，可以用来注册并获取需要教育邮箱才能获取的福利。
 
-效果非常好的图片压缩工具：
+![edu_mail](https://images-1252557999.file.myqcloud.com/uPic/edu_mail.png) 
 
-![tanpok](https://images-1252557999.file.myqcloud.com/uPic/8fZN8v.png) 
+### [it-tools](https://it-tools.tech/)
 
-### [myfreemp3juices](https://myfreemp3juices.cc/)
+面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
 
-可以免费在线听&下载歌曲：
+![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
 
-![myfreemp3juices](https://images-1252557999.file.myqcloud.com/uPic/myfreemp3juices.jpg) 
+也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
 
 ## ✍️ 说明
 
