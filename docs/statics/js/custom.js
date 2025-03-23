@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // 动态插入统计脚本
   var script = document.createElement("script");
   script.defer = true;
-  script.src = "https://umami.metaso.site/script.js";
+  script.src = "https://umami.xinhuo.dev/script.js";
   script.setAttribute("data-website-id", "eef10855-77dc-4398-b380-cba46664665e");
   document.head.appendChild(script);
 });
