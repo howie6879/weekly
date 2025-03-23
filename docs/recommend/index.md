@@ -5,55 +5,63 @@
 
 ## 🎯 项目 
 
-### [DailyHotApi](https://github.com/imsyy/DailyHotApi)
+### [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
 
-今日热榜 `API`，一个聚合热门数据的 `API` 接口，支持 `Vercel` 部署：
+一个大模型 `AI` 网关项目，只需要通过项目提供的一个接口，就可以快速连接到100多个 `LLM`：
 
-![DailyHot](https://images-1252557999.file.myqcloud.com/uPic/DailyHot.jpg) 
+- 极速（快9.9倍），占用空间小（安装后约45kb）
+- 在多个模型、提供者和密钥之间进行负载均衡
+- 备选方案确保您的应用程序具有弹性
+- 默认情况下，自动重试并采用指数回退策略
+- 根据需要添加插件中间件
+- 经过1000亿次 Token 的实战考验
 
-### [bitwarden](https://github.com/bitwarden)
+  
+![ai-gateway](https://images-1252557999.file.myqcloud.com/uPic/ai-gateway.jpg)
+  
+同类型项目可以参考：[One API👉通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 ✨](https://github.com/songquanpeng/one-api) 
 
-一个开源，免费，跨平台，安全易管理，，能自动填充密码可自建的密码管理解决方案：
+### [Piwigo](https://github.com/Piwigo/Piwigo)
 
-![bitwarden](https://images-1252557999.file.myqcloud.com/uPic/bitwarden.jpg) 
+ `Piwigo` 是一个开源的网络照片库软件，用于管理照片，专为组织、团队和个人设计：
+ 
+ ![Piwigo](https://images-1252557999.file.myqcloud.com/uPic/Piwigo.jpeg) 
 
-### [mkcert](https://github.com/FiloSottile/mkcert)
+### [PPTist](https://github.com/pipipi-pikachu/PPTist)
 
-`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
+基于 Vue3.x + TypeScript 的[在线演示文稿](https://pipipi-pikachu.github.io/PPTist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
 
-![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
+![ppt-list](https://images-1252557999.file.myqcloud.com/uPic/ppt-list.jpg) 
 
 ## 🤖 软件 
 
-### [Mos](https://github.com/Caldis/Mos)
+### [XHS_Downloader](https://github.com/JoeanAmier/XHS_Downloader)
 
-一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
+免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具：
 
-![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
+![XHS_Downloader](https://images-1252557999.file.myqcloud.com/uPic/XHS_Downloader.png) 
 
-### [GeekDesk](https://github.com/BookerLiu/GeekDesk)
+### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
 
-小巧、美观的桌面快速启动管理工具，同时集成了 `Everything` 搜索，仅支持 `Windows`：
+`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
 
-![GeekDesk](https://images-1252557999.file.myqcloud.com/uPic/GeekDesk.png) 
+![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
 
-### [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
+### [Upscayl](https://github.com/upscayl/upscayl)
 
-`Karabiner-Elements`是一个非常强大的键盘自定义工具，非常推荐，算是我`macOS`下的基本软件。
+开源免费的跨平台无损图片放大工具：
 
-![Karabiner-Elements](https://images-1252557999.file.myqcloud.com/uPic/T3Y4AL.png) 
+![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
 
 ## 👀 资料 
 
-### [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
+### [MasteringRAG](https://github.com/Steven-Luo/MasteringRAG)
 
-[《Effective Modern C++ 》](https://cntransgroup.github.io/EffectiveModernCppChinese/)翻译：
+本项目是一个使用LLM（大语言模型）使用RAG技术构建文档问答的项目，将会涵盖企业构建基于RAG的文档问答几乎所有的常见优化手段。 
 
-![EffectiveModernCppChinese](https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg) 
+### [1000-chinese-independent-developer-plus](https://github.com/XiaomingX/1000-chinese-independent-developer-plus)
 
-### [data_compression_course](https://github.com/jermp/data_compression_course)
-
-由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
+中国独立开发者项目列表，分享大家都在做什么。 
 
 ### [企业如何拥抱 AI（周鸿祎）](https://mcgr3mdbak.feishu.cn/docx/NxjvdvYmLoXOvgxBP1ocFwRbn5g)
 
@@ -61,26 +69,23 @@
 
 ## 🕸 网站 
 
-### [cleanup.pictures](https://cleanup.pictures/)
+### [hotkeycheatsheet](https://hotkeycheatsheet.com/zh)
 
-百分百免费的一款图片橡皮擦工具，可以擦涂图片上的一些背景和无关图案，获得过`producthunt`周榜首荣誉，并且也开源在 github 值得尝试，下面是擦除前后对比：
+常用软件的快捷键备忘录：
 
-![cleanup_demo](https://images-1252557999.file.myqcloud.com/uPic/cleanup_demo.gif) 
+![hotkeycheatsheet](https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg) 
 
-### [itnext](https://itnext.cn/)
+### [读者阁](https://duzhege.cn/)
 
-一个介绍元宇宙的网站：
+可以在线阅读故事会、读者等杂志的网站：
 
-![itnext](https://images-1252557999.file.myqcloud.com/uPic/yc7Zhp.png) 
+![duzhege](https://images-1252557999.file.myqcloud.com/uPic/duzhege.jpg) 
 
-### [aicodeconvert](https://aicodeconvert.com/)
+### [transhumans](https://www.transhumans.xyz/)
 
-[开源](https://github.com/JustAIGithub/AI-Code-Convert)的的 `AI` 代码转换工具，基于 `GPT` 实现：
+免费可商用的人物插图：
 
-- 自然语言转代码，描述需求就生成对应的代码
-- 把代码一键转换为另一种代码语言实现
-
-![aicodeconvert](https://images-1252557999.file.myqcloud.com/uPic/aicodeconvert.jpg) 
+![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
 
 ## ✍️ 说明
 
