@@ -5,87 +5,107 @@
 
 ## 🎯 项目 
 
-### [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
+### [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
 
-一个大模型 `AI` 网关项目，只需要通过项目提供的一个接口，就可以快速连接到100多个 `LLM`：
+`ArchiveBox` 是一个强大的、可自建的互联网归档解决方案，可以收集、保存和查看你想离线保存的网站：
 
-- 极速（快9.9倍），占用空间小（安装后约45kb）
-- 在多个模型、提供者和密钥之间进行负载均衡
-- 备选方案确保您的应用程序具有弹性
-- 默认情况下，自动重试并采用指数回退策略
-- 根据需要添加插件中间件
-- 经过1000亿次 Token 的实战考验
+![ArchiveBox](https://images-1252557999.file.myqcloud.com/uPic/ArchiveBox.jpg) 
 
-  
-![ai-gateway](https://images-1252557999.file.myqcloud.com/uPic/ai-gateway.jpg)
-  
-同类型项目可以参考：[One API👉通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 ✨](https://github.com/songquanpeng/one-api) 
+### [AudioNotes](https://github.com/harry0703/AudioNotes)
 
-### [Piwigo](https://github.com/Piwigo/Piwigo)
+基于 `FunASR&Qwen2` 构建的音视频转结构化笔记系统，能够快速提取音视频的内容，并且调用大模型进行整理，成为一份结构化的 `markdown` 笔记，方便快速阅读：
 
- `Piwigo` 是一个开源的网络照片库软件，用于管理照片，专为组织、团队和个人设计：
- 
- ![Piwigo](https://images-1252557999.file.myqcloud.com/uPic/Piwigo.jpeg) 
+![AudioNotes](https://images-1252557999.file.myqcloud.com/uPic/AudioNotes.jpg) 
 
-### [PPTist](https://github.com/pipipi-pikachu/PPTist)
+### [cal.com](https://github.com/calcom/cal.com)
 
-基于 Vue3.x + TypeScript 的[在线演示文稿](https://pipipi-pikachu.github.io/PPTist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
+一个管理日程安排和预约的工具，可以说是 `Calendly` 的开源替代方案：
 
-![ppt-list](https://images-1252557999.file.myqcloud.com/uPic/ppt-list.jpg) 
+![cal_com](https://images-1252557999.file.myqcloud.com/uPic/cal_com.jpg) 
 
 ## 🤖 软件 
 
-### [XHS_Downloader](https://github.com/JoeanAmier/XHS_Downloader)
+### [spacedrive](https://www.spacedrive.com/)
 
-免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具：
+`Spacedrive` 是一个基于 `Rust` 的开源跨平台文件管理器，它采用了虚拟分布式文件系统，通过一个 `API` 来操作访问多设备上的文件。
 
-![XHS_Downloader](https://images-1252557999.file.myqcloud.com/uPic/XHS_Downloader.png) 
+它可以管理分布在多端的文件，在一个地方整理多个设备上的文件。
 
-### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
+无论是云端还是离线硬盘，进而生成你独有的个人分布式云，简单又方便：
 
-`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
+![spacedrive](https://images-1252557999.file.myqcloud.com/uPic/spacedrive.webp) 
 
-![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
+### [Raptor](https://github.com/InfpHub/Raptor)
 
-### [Upscayl](https://github.com/upscayl/upscayl)
+使用 `Qt` 和 `C++` 构建的低内存、小而美的第三方阿里云盘 `Windows` 桌面应用客户端🚀
 
-开源免费的跨平台无损图片放大工具：
+- 🧬 用户 - 持久化登录，多用户登录，多用户切换
+- 📉 文件（夹） - 创建/多级创建文件夹/重命名/搜索
+- 💅 文件（夹） - 移动/复制
+- ✅ 文件（夹） - 上传/下载/唤起第三方下载器下载
+- 🎪 视频 - MPV/VLC/PotPlayer
+- 💸 分享 - 创建分享/导入分享
+- 🦹🏻‍♀️ 秒传 - 创建秒传/导入秒传
+- ⭐️ 收藏 - 收藏/取消收藏/搜索
+- 🕵️‍♂️ 回收站 - 清空/删除/恢复
+- 📚 Plus - 跨网盘文件复制
+- 🏅 UI - 可自由修改的字体，图标与主题 
 
-![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
+### [Refined GitHub](https://github.com/refined-github/refined-github)
+
+一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
+
+那么`Refined GitHub`主要做了哪些工作呢，如下：
+
+- 浏览代码时候使空格可见
+- 添加一键式合并冲突修复程序
+- 添加表情评论头像
+- 在合并PR时，添加等待检查的选项
+- ...
+
+![](https://images-1252557999.file.myqcloud.com/uPic/lI0jFl.png) 
 
 ## 👀 资料 
 
-### [MasteringRAG](https://github.com/Steven-Luo/MasteringRAG)
+### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
 
-本项目是一个使用LLM（大语言模型）使用RAG技术构建文档问答的项目，将会涵盖企业构建基于RAG的文档问答几乎所有的常见优化手段。 
+深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
 
-### [1000-chinese-independent-developer-plus](https://github.com/XiaomingX/1000-chinese-independent-developer-plus)
+### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
 
-中国独立开发者项目列表，分享大家都在做什么。 
+通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
 
-### [企业如何拥抱 AI（周鸿祎）](https://mcgr3mdbak.feishu.cn/docx/NxjvdvYmLoXOvgxBP1ocFwRbn5g)
+- 通过编写测试学习 Go 语言
+- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
+- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
 
-![qyybai](https://images-1252557999.file.myqcloud.com/uPic/yjvbm2.png) 
+![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
+
+### [rust-by-practice](https://github.com/sunface/rust-by-practice)
+
+通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/f4zLoa.png) 
 
 ## 🕸 网站 
 
-### [hotkeycheatsheet](https://hotkeycheatsheet.com/zh)
+### [historyline.online](https://github.com/liujuntao123/chines-history-video)
 
-常用软件的快捷键备忘录：
+中国历朝代历史视频讲解，汇聚了B站上综合数据（点赞，播放，投币，收藏）最高的一个/几个视频：
 
-![hotkeycheatsheet](https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg) 
+![historyline](https://images-1252557999.file.myqcloud.com/uPic/historyline.jpg) 
 
-### [读者阁](https://duzhege.cn/)
+### [alternativeto](https://alternativeto.net/)
 
-可以在线阅读故事会、读者等杂志的网站：
+让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
 
-![duzhege](https://images-1252557999.file.myqcloud.com/uPic/duzhege.jpg) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
-### [transhumans](https://www.transhumans.xyz/)
+### [quark.so](https://www.quark.so/)
 
-免费可商用的人物插图：
+这是一个资源全面，界面简洁无广告的夸克网盘搜索引擎：
 
-![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
+![quarkso](https://images-1252557999.file.myqcloud.com/uPic/quarkso.jpg) 
 
 ## ✍️ 说明
 
