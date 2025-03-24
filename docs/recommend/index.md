@@ -5,107 +5,94 @@
 
 ## 🎯 项目 
 
-### [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
+### [draw-a-ui](https://github.com/SawyerHood/draw-a-ui)
 
-`ArchiveBox` 是一个强大的、可自建的互联网归档解决方案，可以收集、保存和查看你想离线保存的网站：
+利用 `tldraw + gpt-4-vision api` 将绘制的图转换成 `html` 代码：
 
-![ArchiveBox](https://images-1252557999.file.myqcloud.com/uPic/ArchiveBox.jpg) 
+![draw-a-ui](https://images-1252557999.file.myqcloud.com/uPic/draw-a-ui.gif) 
 
-### [AudioNotes](https://github.com/harry0703/AudioNotes)
+### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 
-基于 `FunASR&Qwen2` 构建的音视频转结构化笔记系统，能够快速提取音视频的内容，并且调用大模型进行整理，成为一份结构化的 `markdown` 笔记，方便快速阅读：
+免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
 
-![AudioNotes](https://images-1252557999.file.myqcloud.com/uPic/AudioNotes.jpg) 
+![rxresu](https://images-1252557999.file.myqcloud.com/uPic/rxresu.jpg) 
 
-### [cal.com](https://github.com/calcom/cal.com)
+### [laf](https://github.com/labring/laf)
 
-一个管理日程安排和预约的工具，可以说是 `Calendly` 的开源替代方案：
+laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
 
-![cal_com](https://images-1252557999.file.myqcloud.com/uPic/cal_com.jpg) 
+- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
+- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
+- 云数据库，为应用开发提供开箱即用的数据库服务
+- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
+- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
+- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
+- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
+- WebSocket，应用支持长连接，业务无死角
+
+![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
 
 ## 🤖 软件 
 
-### [spacedrive](https://www.spacedrive.com/)
+### [tiny-rdm](https://github.com/tiny-craft/tiny-rdm)
 
-`Spacedrive` 是一个基于 `Rust` 的开源跨平台文件管理器，它采用了虚拟分布式文件系统，通过一个 `API` 来操作访问多设备上的文件。
+`Tiny RDM` 是一款适用于 `Mac、 Windows & Linux` 的现代轻量级跨平台 `Redis` 桌面管理器：
 
-它可以管理分布在多端的文件，在一个地方整理多个设备上的文件。
+![tiny-rdm](https://images-1252557999.file.myqcloud.com/uPic/tiny-rdm.png)
 
-无论是云端还是离线硬盘，进而生成你独有的个人分布式云，简单又方便：
+同类型软件还推荐[AnotherRedisDesktopManager](https://weekly.howie6879.com/2022/04-25~05-01.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC037%E6%9C%9F%EF%BC%89.html#anotherredisdesktopmanager)。 
 
-![spacedrive](https://images-1252557999.file.myqcloud.com/uPic/spacedrive.webp) 
+### [AIaW](https://github.com/NitroRCr/AIaW)
 
-### [Raptor](https://github.com/InfpHub/Raptor)
+`AI as Workspace` - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步：
 
-使用 `Qt` 和 `C++` 构建的低内存、小而美的第三方阿里云盘 `Windows` 桌面应用客户端🚀
+![AIaW](https://images-1252557999.file.myqcloud.com/uPic/n5l83s.png) 
 
-- 🧬 用户 - 持久化登录，多用户登录，多用户切换
-- 📉 文件（夹） - 创建/多级创建文件夹/重命名/搜索
-- 💅 文件（夹） - 移动/复制
-- ✅ 文件（夹） - 上传/下载/唤起第三方下载器下载
-- 🎪 视频 - MPV/VLC/PotPlayer
-- 💸 分享 - 创建分享/导入分享
-- 🦹🏻‍♀️ 秒传 - 创建秒传/导入秒传
-- ⭐️ 收藏 - 收藏/取消收藏/搜索
-- 🕵️‍♂️ 回收站 - 清空/删除/恢复
-- 📚 Plus - 跨网盘文件复制
-- 🏅 UI - 可自由修改的字体，图标与主题 
+### [JPEGView](https://github.com/sylikc/jpegview)
 
-### [Refined GitHub](https://github.com/refined-github/refined-github)
-
-一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
-
-那么`Refined GitHub`主要做了哪些工作呢，如下：
-
-- 浏览代码时候使空格可见
-- 添加一键式合并冲突修复程序
-- 添加表情评论头像
-- 在合并PR时，添加等待检查的选项
-- ...
-
-![](https://images-1252557999.file.myqcloud.com/uPic/lI0jFl.png) 
+`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
 
 ## 👀 资料 
 
-### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
+### [rosedb](https://github.com/flower-corp/rosedb)
 
-深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
+`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
 
-### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
+![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
 
-通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
+作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
 
-- 通过编写测试学习 Go 语言
-- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
-- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
+### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
 
-![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
+📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
 
-### [rust-by-practice](https://github.com/sunface/rust-by-practice)
+![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
 
-通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
+### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/f4zLoa.png) 
+[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
+
+![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
 
 ## 🕸 网站 
 
-### [historyline.online](https://github.com/liujuntao123/chines-history-video)
+### [z2h 字帖](https://paper.z2h.cn/)
 
-中国历朝代历史视频讲解，汇聚了B站上综合数据（点赞，播放，投币，收藏）最高的一个/几个视频：
+用正确的方法刻意练习，每个人都能写出一手漂亮的字，自定义字帖字体和内容，可打印导出练字：
 
-![historyline](https://images-1252557999.file.myqcloud.com/uPic/historyline.jpg) 
+![z2h](https://images-1252557999.file.myqcloud.com/uPic/z2h.jpg) 
 
-### [alternativeto](https://alternativeto.net/)
+### [yima.me](https://yima.me/)
 
-让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
+免费生成 `AI` 艺术二维码：
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+![yima](https://images-1252557999.file.myqcloud.com/uPic/yima.png) 
 
-### [quark.so](https://www.quark.so/)
+### [mycolor.space](https://mycolor.space/)
 
-这是一个资源全面，界面简洁无广告的夸克网盘搜索引擎：
+渐变配色生成器，自动生成 `CSS` 代码：
 
-![quarkso](https://images-1252557999.file.myqcloud.com/uPic/quarkso.jpg) 
+![mycolor](https://images-1252557999.file.myqcloud.com/uPic/mycolor.jpg) 
 
 ## ✍️ 说明
 
