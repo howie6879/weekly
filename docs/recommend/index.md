@@ -5,32 +5,23 @@
 
 ## 🎯 项目 
 
-### [draw-a-ui](https://github.com/SawyerHood/draw-a-ui)
+### [LocalAI](https://github.com/go-skynet/LocalAI)
 
-利用 `tldraw + gpt-4-vision api` 将绘制的图转换成 `html` 代码：
+🤖 免费、开源的 `OpenAI` 替代品。自托管、社区驱动和本地优先。可在消费级硬件上运行，作为 `OpenAI` 的即插即用替代方案。无需 `GPU`。支持运行 `ggml、gguf、GPTQ、onnx` 和 `TF` 兼容模型：`llama、llama2、rwkv、whisper、vicuna、koala、cerebras、falcon、dolly、starcoder` 等等：
 
-![draw-a-ui](https://images-1252557999.file.myqcloud.com/uPic/draw-a-ui.gif) 
+![localai](https://images-1252557999.file.myqcloud.com/uPic/localai.png) 
 
-### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+### [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)
 
-免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
+小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！
 
-![rxresu](https://images-1252557999.file.myqcloud.com/uPic/rxresu.jpg) 
+![XHS-Downloader](https://images-1252557999.file.myqcloud.com/uPic/mjKPJU.png) 
 
-### [laf](https://github.com/labring/laf)
+### [pushdeer](https://github.com/easychen/pushdeer)
 
-laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单：
+开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备：
 
-- 多应用管理，新建、启停应用，无需折腾服务器，一分钟上线应用
-- 云函数，`laf` 提供的函数计算服务，可以快速的实现后端业务
-- 云数据库，为应用开发提供开箱即用的数据库服务
-- 云存储，为应用开发提供专业的文件对象存储服务，兼容 S3 和其他存储服务接口
-- WebIDE，在线写代码，完善的类型提示、代码自动完成，像写博客一样写函数，随手发布上线！
-- 静态托管，支持静态网站的托管，可以快速的上线静态网站，无需折腾 nginx
-- Client Db，支持客户端使用 [laf-client-sdk](https://github.com/labring/laf/tree/main/packages/client-sdk) “直连”数据库，通过访问策略控制访问权限，极大程度提升应用开发效率
-- WebSocket，应用支持长连接，业务无死角
-
-![laf](https://images-1252557999.file.myqcloud.com/uPic/laf.jpg) 
+![pushdeer](https://images-1252557999.file.myqcloud.com/uPic/pushdeer.jpg) 
 
 ## 🤖 软件 
 
@@ -42,57 +33,67 @@ laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一�
 
 同类型软件还推荐[AnotherRedisDesktopManager](https://weekly.howie6879.com/2022/04-25~05-01.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC037%E6%9C%9F%EF%BC%89.html#anotherredisdesktopmanager)。 
 
-### [AIaW](https://github.com/NitroRCr/AIaW)
+### [EpubPress](https://epub.press/)
 
-`AI as Workspace` - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步：
+`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
 
-![AIaW](https://images-1252557999.file.myqcloud.com/uPic/n5l83s.png) 
+![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
 
-### [JPEGView](https://github.com/sylikc/jpegview)
+### aniyomi-插件
 
-`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
+之前推荐过移动端看动漫和漫画的软件👉[aniyomi](https://github.com/aniyomiorg/aniyomi)，老胡最近也针对这个软件做了一些配置，将收集的源分享给大家：
+
+- https://github.com/GokulSamraj/aniyomi-anime-repo
+- https://github.com/Kohi-den/extensions
+
+![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
 
 ## 👀 资料 
 
-### [rosedb](https://github.com/flower-corp/rosedb)
+### [go101](https://gfw.go101.org/article/101.html)
 
-`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
+《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
 
-![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
+![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
 
-作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
+### [ascoders/weekly](https://github.com/ascoders/weekly)
 
-### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
+前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
 
-📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
+- 前沿技术
+- 设计模式
+- 编译原理
+- 源码解读
+- 商业思考
+- 算法
 
-![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
+非常全面，前端从事人员可以看看。 
 
-### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
+### [howtheytest](https://github.com/abhivaikar/howtheytest)
 
-[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
+关于软件公司如何测试其软件的公共资源集合：
 
-![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
+![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
 
 ## 🕸 网站 
 
-### [z2h 字帖](https://paper.z2h.cn/)
+### [zeli.app](https://zeli.app/zh)
 
-用正确的方法刻意练习，每个人都能写出一手漂亮的字，自定义字帖字体和内容，可打印导出练字：
+用中文读科技新闻，旨在帮你快速挑选感兴趣的文章来读：
 
-![z2h](https://images-1252557999.file.myqcloud.com/uPic/z2h.jpg) 
+![zeli](https://images-1252557999.file.myqcloud.com/uPic/dvVEf9.png) 
 
-### [yima.me](https://yima.me/)
+### [apivault.dev](https://apivault.dev/)
 
-免费生成 `AI` 艺术二维码：
+免费开源的公共 `API` 网站：
 
-![yima](https://images-1252557999.file.myqcloud.com/uPic/yima.png) 
+![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
 
-### [mycolor.space](https://mycolor.space/)
+### [icon.kitchen](https://icon.kitchen/)
 
-渐变配色生成器，自动生成 `CSS` 代码：
+一次性生成 `Android、IOS、WEB` 三端 `icon` 图标，可直接预览，效果非常好：
 
-![mycolor](https://images-1252557999.file.myqcloud.com/uPic/mycolor.jpg) 
+![icon_kitchen](https://images-1252557999.file.myqcloud.com/uPic/icon_kitchen.jpg) 
 
 ## ✍️ 说明
 
