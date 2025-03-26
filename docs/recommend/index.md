@@ -5,95 +5,92 @@
 
 ## 🎯 项目 
 
-### [LocalAI](https://github.com/go-skynet/LocalAI)
+### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
 
-🤖 免费、开源的 `OpenAI` 替代品。自托管、社区驱动和本地优先。可在消费级硬件上运行，作为 `OpenAI` 的即插即用替代方案。无需 `GPU`。支持运行 `ggml、gguf、GPTQ、onnx` 和 `TF` 兼容模型：`llama、llama2、rwkv、whisper、vicuna、koala、cerebras、falcon、dolly、starcoder` 等等：
+🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
 
-![localai](https://images-1252557999.file.myqcloud.com/uPic/localai.png) 
+| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
+| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
+| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
+| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
+| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
 
-### [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)
+### [webvm](https://github.com/leaningtech/webvm)
 
-小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！
+基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：[webvm.io](https://webvm.io/)。
 
-![XHS-Downloader](https://images-1252557999.file.myqcloud.com/uPic/mjKPJU.png) 
+![webvm](https://images-1252557999.file.myqcloud.com/uPic/1yRQBe.png)
 
-### [pushdeer](https://github.com/easychen/pushdeer)
+详细的介绍文章见：[WebVM: server-less x86 virtual machines in the browser](https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361)。 
 
-开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备：
+### [QRec](https://github.com/Coder-Yu/QRec)
 
-![pushdeer](https://images-1252557999.file.myqcloud.com/uPic/pushdeer.jpg) 
+Python编写的推荐系统快速实践框架（基于TF），和之前推荐的[gorse](https://weekly.howie6879.com/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E6%8E%A8%E8%8D%90#gorse)有点类似，但不同的是QRec提供了领先的推荐系统模型用于实践。 
 
 ## 🤖 软件 
 
-### [tiny-rdm](https://github.com/tiny-craft/tiny-rdm)
+### [AppManager](https://github.com/MuntashirAkon/AppManager)
 
-`Tiny RDM` 是一款适用于 `Mac、 Windows & Linux` 的现代轻量级跨平台 `Redis` 桌面管理器：
+一个功能全面的 `Android` 包管理器和应用查看器，支持复制自由软件的功能，提供了丰富的应用管理和操作功能，如列出应用信息、安装 / 卸载 `APK`、备份 / 恢复应用、查看日志等，同时支持根权限和 `ADB` 命令，以实现更高级的操作，如撤销权限、修改 `APP` 操作模式等：
 
-![tiny-rdm](https://images-1252557999.file.myqcloud.com/uPic/tiny-rdm.png)
+![AppManager](https://images-1252557999.file.myqcloud.com/uPic/zIgjSp.png) 
 
-同类型软件还推荐[AnotherRedisDesktopManager](https://weekly.howie6879.com/2022/04-25~05-01.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC037%E6%9C%9F%EF%BC%89.html#anotherredisdesktopmanager)。 
+### [datastation](https://github.com/multiprocessio/datastation)
 
-### [EpubPress](https://epub.press/)
+`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
 
-`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
+![datastation](https://images-1252557999.file.myqcloud.com/uPic/datastation.jpg) 
 
-![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
+### [GitUp](https://github.com/git-up/GitUp)
 
-### aniyomi-插件
+简洁的 `Git` 客户端：
 
-之前推荐过移动端看动漫和漫画的软件👉[aniyomi](https://github.com/aniyomiorg/aniyomi)，老胡最近也针对这个软件做了一些配置，将收集的源分享给大家：
-
-- https://github.com/GokulSamraj/aniyomi-anime-repo
-- https://github.com/Kohi-den/extensions
-
-![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/GitUp.jpg) 
 
 ## 👀 资料 
 
-### [go101](https://gfw.go101.org/article/101.html)
+### [sideproject](https://sideproject.guide/)
 
-《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
+`Side Project` 指南：
 
-![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
 
-### [ascoders/weekly](https://github.com/ascoders/weekly)
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
 
-前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
+### [openai-cookbook](https://github.com/openai/openai-cookbook)
 
-- 前沿技术
-- 设计模式
-- 编译原理
-- 源码解读
-- 商业思考
-- 算法
+`OpenAI API` 使用示例指南：
 
-非常全面，前端从事人员可以看看。 
+![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
 
-### [howtheytest](https://github.com/abhivaikar/howtheytest)
+### [moderncss](https://moderncss.dev/)
 
-关于软件公司如何测试其软件的公共资源集合：
+一份现代 `CSS` 教程，偏向有 `CSS` 的基础的前端开发者：
 
-![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
+![moderncss](https://images-1252557999.file.myqcloud.com/uPic/moderncss.jpg) 
 
 ## 🕸 网站 
 
-### [zeli.app](https://zeli.app/zh)
+### [zhongguose](http://zhongguose.com/)
 
-用中文读科技新闻，旨在帮你快速挑选感兴趣的文章来读：
+一个中国传统颜色的配色网站：
 
-![zeli](https://images-1252557999.file.myqcloud.com/uPic/dvVEf9.png) 
+![zhongguose](https://images-1252557999.file.myqcloud.com/uPic/zhongguose.jpg) 
 
-### [apivault.dev](https://apivault.dev/)
+### [opensource-heroes](https://opensource-heroes.com/)
 
-免费开源的公共 `API` 网站：
+星标数最多的开源开发者、组织以及仓库排行榜单：
 
-![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
+![opensource-heroes](https://images-1252557999.file.myqcloud.com/uPic/opensource-heroes.jpg) 
 
-### [icon.kitchen](https://icon.kitchen/)
+### [稀土掘金大模型子站](https://llm.juejin.cn/view)
 
-一次性生成 `Android、IOS、WEB` 三端 `icon` 图标，可直接预览，效果非常好：
+大模型相关产品导航：
 
-![icon_kitchen](https://images-1252557999.file.myqcloud.com/uPic/icon_kitchen.jpg) 
+![llm_juejin](https://images-1252557999.file.myqcloud.com/uPic/llm_juejin.jpg) 
 
 ## ✍️ 说明
 
