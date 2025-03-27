@@ -5,92 +5,83 @@
 
 ## 🎯 项目 
 
-### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
+### [MTranServer](https://github.com/xxnuo/MTranServer)
 
-🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
+一个超低资源消耗超快的离线翻译服务器，英译中模型仅需 860MB 内存即可运行，无需显卡。单个请求平均响应时间 50ms。支持全世界主要语言的翻译，翻译质量与 Google 翻译相当。
 
-| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
-| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
-| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
-| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
-| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
+![MTranServer](https://images-1252557999.file.myqcloud.com/uPic/KZywne.png) 
 
-### [webvm](https://github.com/leaningtech/webvm)
+### [sonic](https://github.com/go-sonic/sonic)
 
-基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：[webvm.io](https://webvm.io/)。
+`Sonic` 是 `Go` 开发的博客平台，简单而强大：
 
-![webvm](https://images-1252557999.file.myqcloud.com/uPic/1yRQBe.png)
+![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
 
-详细的介绍文章见：[WebVM: server-less x86 virtual machines in the browser](https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361)。 
+### [signoz](https://github.com/signoz/signoz)
 
-### [QRec](https://github.com/Coder-Yu/QRec)
+`SigNoz` 是一套开源 `APM` 方案，用于监控应用指标和链路，可以看到调用情况、异常、trace上下链路，也可以自己定义 `Dashboard`：
 
-Python编写的推荐系统快速实践框架（基于TF），和之前推荐的[gorse](https://weekly.howie6879.com/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E6%8E%A8%E8%8D%90#gorse)有点类似，但不同的是QRec提供了领先的推荐系统模型用于实践。 
+![signoz](https://images-1252557999.file.myqcloud.com/uPic/signoz.jpg) 
 
 ## 🤖 软件 
 
-### [AppManager](https://github.com/MuntashirAkon/AppManager)
+### [FileConverter](https://github.com/Tichau/FileConverter)
 
-一个功能全面的 `Android` 包管理器和应用查看器，支持复制自由软件的功能，提供了丰富的应用管理和操作功能，如列出应用信息、安装 / 卸载 `APK`、备份 / 恢复应用、查看日志等，同时支持根权限和 `ADB` 命令，以实现更高级的操作，如撤销权限、修改 `APP` 操作模式等：
+`File Converter` 是一个简单的工具，允许用户通过 Windows 资源管理器的上下文菜单转换和压缩文件：
 
-![AppManager](https://images-1252557999.file.myqcloud.com/uPic/zIgjSp.png) 
+![FileConverter](https://images-1252557999.file.myqcloud.com/uPic/3Mtc4V.png) 
 
-### [datastation](https://github.com/multiprocessio/datastation)
+### [Übersicht](https://github.com/felixhageloh/uebersicht)
 
-`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
+构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
 
-![datastation](https://images-1252557999.file.myqcloud.com/uPic/datastation.jpg) 
+![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
 
-### [GitUp](https://github.com/git-up/GitUp)
+### [Restfox](https://github.com/flawiddsouza/Restfox)
 
-简洁的 `Git` 客户端：
+可以理解成 `postman` 开源替代版本，支持网页跨平台，非常简洁，有插件体系，可以从 `postman` 导入数据：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/GitUp.jpg) 
+![restfox](https://images-1252557999.file.myqcloud.com/uPic/restfox.jpg) 
 
 ## 👀 资料 
 
-### [sideproject](https://sideproject.guide/)
+### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
-`Side Project` 指南：
+这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
 
-### [openai-cookbook](https://github.com/openai/openai-cookbook)
+作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
 
-`OpenAI API` 使用示例指南：
+![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
 
-![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
+### [SystemDesign](https://github.com/Admol/SystemDesign)
 
-### [moderncss](https://moderncss.dev/)
+系统设计面试：内幕指南：
 
-一份现代 `CSS` 教程，偏向有 `CSS` 的基础的前端开发者：
-
-![moderncss](https://images-1252557999.file.myqcloud.com/uPic/moderncss.jpg) 
+![SystemDesign](https://images-1252557999.file.myqcloud.com/uPic/PrOe1t.png) 
 
 ## 🕸 网站 
 
-### [zhongguose](http://zhongguose.com/)
+### [renwuzhi.wiki](https://renwuzhi.wiki/)
 
-一个中国传统颜色的配色网站：
+网站收集了各个朝代人物介绍：
 
-![zhongguose](https://images-1252557999.file.myqcloud.com/uPic/zhongguose.jpg) 
+![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
+
+### [smithery.ai](https://smithery.ai/)
+
+一个集成了多种 Model Context Protocol (MCP) 服务器的平台，旨于通过 MCP 服务器扩展代理（AI）的功能，使其能够访问和管理大量工具和数据，从而提高决策和解决问题的能力：
+
+![smithery](https://images-1252557999.file.myqcloud.com/uPic/F7tIpp.png) 
 
 ### [opensource-heroes](https://opensource-heroes.com/)
 
 星标数最多的开源开发者、组织以及仓库排行榜单：
 
 ![opensource-heroes](https://images-1252557999.file.myqcloud.com/uPic/opensource-heroes.jpg) 
-
-### [稀土掘金大模型子站](https://llm.juejin.cn/view)
-
-大模型相关产品导航：
-
-![llm_juejin](https://images-1252557999.file.myqcloud.com/uPic/llm_juejin.jpg) 
 
 ## ✍️ 说明
 
