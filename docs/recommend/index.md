@@ -5,83 +5,93 @@
 
 ## 🎯 项目 
 
-### [MTranServer](https://github.com/xxnuo/MTranServer)
+### [groqbook](https://github.com/Bklieger/groqbook)
 
-一个超低资源消耗超快的离线翻译服务器，英译中模型仅需 860MB 内存即可运行，无需显卡。单个请求平均响应时间 50ms。支持全世界主要语言的翻译，翻译质量与 Google 翻译相当。
+用 `Groq` 和 `Llama3` 快速生成一本书，它能够根据简短的提示快速生成非小说类书籍的每一章节：
 
-![MTranServer](https://images-1252557999.file.myqcloud.com/uPic/KZywne.png) 
+![groqbook](https://images-1252557999.file.myqcloud.com/uPic/groqbook.jpg) 
 
-### [sonic](https://github.com/go-sonic/sonic)
+### [elasticvue](https://github.com/cars10/elasticvue)
 
-`Sonic` 是 `Go` 开发的博客平台，简单而强大：
+基于 `Vue` 的 `Elasticsearch` 管理客户端，支持[浏览器插件](https://chrome.google.com/webstore/detail/elasticvue/hkedbapjpblbodpgbajblpnlpenaebaa/related?utm_source=chrome-ntp-icon)和 `Docker` 自建：
 
-![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
+- 集群信息概览
+- 索引管理
+- 快速搜索&查看
+- REST查询
+- 管理系统快照
 
-### [signoz](https://github.com/signoz/signoz)
+基本满足使用，开源强大：
 
-`SigNoz` 是一套开源 `APM` 方案，用于监控应用指标和链路，可以看到调用情况、异常、trace上下链路，也可以自己定义 `Dashboard`：
+![elasticvue](https://images-1252557999.file.myqcloud.com/uPic/elasticvue.jpg) 
 
-![signoz](https://images-1252557999.file.myqcloud.com/uPic/signoz.jpg) 
+### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
+
+读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
+
+![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
 
 ## 🤖 软件 
 
-### [FileConverter](https://github.com/Tichau/FileConverter)
+### [gopeed](https://github.com/GopeedLab/gopeed)
 
-`File Converter` 是一个简单的工具，允许用户通过 Windows 资源管理器的上下文菜单转换和压缩文件：
+`Gopeed`（全称 `Go Speed`），是一款由 `Golang+Flutter` 开发的高速下载器，支持（`HTTP、BitTorrent、Magnet`）协议下载，并且支持全平台使用：
 
-![FileConverter](https://images-1252557999.file.myqcloud.com/uPic/3Mtc4V.png) 
+![gopeed](https://images-1252557999.file.myqcloud.com/uPic/gopeed.jpg) 
 
-### [Übersicht](https://github.com/felixhageloh/uebersicht)
+### [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
 
-构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
+使用 Android 原生开发的电视直播软件：
 
-![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
+![mytv-android](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/mytv-android.jpg)
 
-### [Restfox](https://github.com/flawiddsouza/Restfox)
+老胡试了不是很稳定，大家可根据地域使用测试。 
 
-可以理解成 `postman` 开源替代版本，支持网页跨平台，非常简洁，有插件体系，可以从 `postman` 导入数据：
+### [BingGPT](https://github.com/dice2o/BingGPT)
 
-![restfox](https://images-1252557999.file.myqcloud.com/uPic/restfox.jpg) 
+必应 GPT 聊天桌面应用程序：
+
+![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
 
 ## 👀 资料 
 
-### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+### [k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)
 
-这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
+基于 `Kubernetes(K8S)` 一步步部署成 `PaaS/DevOps`（一套完整的软件研发和部署平台）——教程/学习（实战代码/欢迎讨论/大量注释/操作配图），你将习得部署如：`Kubernetes(K8S)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker` 等：
 
-![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
+![k8s_PaaS](https://images-1252557999.file.myqcloud.com/uPic/k8s_PaaS.png) 
 
-### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
+### [Nginx 开发从入门到精通](https://tengine.taobao.org/book/)
 
-作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
+淘宝团队出品的关于 `Nginx` 模块开发以及内部原理的书：
 
-![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
+![tb_nginx](https://images-1252557999.file.myqcloud.com/uPic/tb_nginx.jpg) 
 
-### [SystemDesign](https://github.com/Admol/SystemDesign)
+### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
 
-系统设计面试：内幕指南：
+一本小书《带你入门前端工程》
 
-![SystemDesign](https://images-1252557999.file.myqcloud.com/uPic/PrOe1t.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/e783TS.png) 
 
 ## 🕸 网站 
 
-### [renwuzhi.wiki](https://renwuzhi.wiki/)
+### [couplet](https://ai.binwang.me/couplet/)
 
-网站收集了各个朝代人物介绍：
+自动对联网站：
 
-![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
+![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
 
-### [smithery.ai](https://smithery.ai/)
+### [uiverse.io](https://uiverse.io/)
 
-一个集成了多种 Model Context Protocol (MCP) 服务器的平台，旨于通过 MCP 服务器扩展代理（AI）的功能，使其能够访问和管理大量工具和数据，从而提高决策和解决问题的能力：
+一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
 
-![smithery](https://images-1252557999.file.myqcloud.com/uPic/F7tIpp.png) 
+![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
 
-### [opensource-heroes](https://opensource-heroes.com/)
+### [nesbox](https://nesbox.xianqiao.wang/)
 
-星标数最多的开源开发者、组织以及仓库排行榜单：
+找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
 
-![opensource-heroes](https://images-1252557999.file.myqcloud.com/uPic/opensource-heroes.jpg) 
+![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
 
 ## ✍️ 说明
 
