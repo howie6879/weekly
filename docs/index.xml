@@ -12,7 +12,76 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 23 Mar 2025 15:43:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 09:23:37 +0000</lastBuildDate>
+    <item>
+      <title>03-24~03-30.老胡的周刊（第182期）.md</title>
+      <link>https://weekly.howie6879.com/2025/03-24~03-30.老胡的周刊（第182期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/03-24~03-30.老胡的周刊（第182期）.html"&gt;03-24~03-30.老胡的周刊（第182期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/zaidmukaddam/scira"&gt;scira&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Scira&lt;/code&gt; 是一个简约的 AI 搜索引擎，它使用 &lt;code&gt;Vercel AI SDK&lt;/code&gt; 和各种 API（如 Tavily、OpenWeather、Google Maps 等）来提供多样化的搜索功能，包括 AI 驱动的搜索、网页搜索、URL 特定搜索、天气查询、编程代码执行、地图导航、YouTube 视频搜索、学术论文搜索、X 社区帖子搜索、航班跟踪以及电影和电视节目信息获取。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="scira" src="https://images-1252557999.file.myqcloud.com/uPic/Qj6iDq.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/usekaneo/kaneo"&gt;kaneo&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Kaneo&lt;/code&gt; 提供了一个用户友好的界面，帮助团队高效地管理项目，包括任务的分配、跟踪和协作。它支持多种工作方式，适应不同团队的需求，并提供了一系列工具来提高项目管理的透明度和效率。&lt;code&gt;Kaneo&lt;/code&gt; 的目标是通过简化项目管理流程，帮助团队成员更好地专注于任务执行。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="kaneo" src="https://images-1252557999.file.myqcloud.com/uPic/FNj1fX.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/tianyaxiang/neurapress"&gt;neurapress&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;NeuraPress&lt;/code&gt; 是一个现代化的 &lt;code&gt;Markdown&lt;/code&gt; 编辑器，专注于提供优质的微信公众号排版体验。响应式设计，支持移动设备。搭配 &lt;code&gt;DeepSeek&lt;/code&gt; 和微信公众号助手使用，碎片时间也能用手机发有排版的文章了：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎨 实时预览 - 所见即所得的编辑体验&lt;/li&gt;
+&lt;li&gt;📱 移动端支持 - 支持手机上直接编辑，搭配 DeepSeek和微信公众号助手使用&lt;/li&gt;
+&lt;li&gt;🎯 微信风格 - 完美适配微信公众号样式&lt;/li&gt;
+&lt;li&gt;🔧 样式定制 - 灵活的样式配置选项&lt;/li&gt;
+&lt;li&gt;📋 一键复制 - 支持复制带格式的预览内容&lt;/li&gt;
+&lt;li&gt;🎭 模板系统 - 内置多种排版模板，一键切换&lt;/li&gt;
+&lt;li&gt;🚀 快速高效 - 基于 Next.js 构建，性能优异&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="NeuraPress" src="https://images-1252557999.file.myqcloud.com/uPic/xGyAd8.png" /&gt;
+&lt;code&gt;markdown-nice&lt;/code&gt; 也是一个不错的项目，使用  &lt;code&gt;Docker&lt;/code&gt;  一键搭建：&lt;code&gt;docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="markdown-nice" src="https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/yusing/godoxy"&gt;godoxy&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;轻巧、易用、高性能反向代理，带有主页和配置面板：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="godoxy" src="https://images-1252557999.file.myqcloud.com/uPic/7I4SVq.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/TeamWiseFlow/wiseflow"&gt;wiseflow&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;使用大模型从海量信息、各类信源中每日挖掘你真正感兴趣的信息！我们缺的不是信息，而是从海量信息中过滤噪音，从而让有价值的信息显露出来🌱看看AI情报官是如何帮您节省时间，过滤无关信息，并整理关注要点的吧！🌱&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;毕竟是基于爬虫，稳定性是个比较大的问题。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Lakr233/FlowDown-App"&gt;FlowDown&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;浮望（FlowDown）是一个速度极快、平滑的 AI/LLM 客户端应用程序。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="FlowDown" src="https://images-1252557999.file.myqcloud.com/uPic/boR71j.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/signerlabs/Klee"&gt;Klee&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;通过内置的 &lt;code&gt;RAG&lt;/code&gt; 知识库和 &lt;code&gt;Markdown&lt;/code&gt; 笔记支持，在您的桌面上安全本地人工智能：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Klee" src="https://images-1252557999.file.myqcloud.com/uPic/AYykm3.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/hamzafarooq/building-llm-applications-from-scratch"&gt;building-llm-applications-from-scratch&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;该课程由 &lt;code&gt;Hamzafarooq&lt;/code&gt; 大神提供，是一个关于如何构建基于大型语言模型（LLM）的应用程序的开源课程。该课程包括了29个详细的教程，涵盖了从M架构、搜索和检索技术，以及如何构建和部署LLM应用程。此外，还包括了6个现实世界的项目案例，以及关于如何进行有效的代码编写和模型部署的互动式直播会话。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/punkpeye/awesome-mcp-servers"&gt;awesome-mcp-servers&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开源的 &lt;code&gt;MCP servers&lt;/code&gt; 收集项目：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="awesome-mcp-servers" src="https://images-1252557999.file.myqcloud.com/uPic/DkjYJG.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://huggingface.co/spaces"&gt;huggingface-spaces&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Hugging Face Spaces&lt;/code&gt;  导航。内含 30 个 AI 分类，超 40 万个 Space，支持自然语言搜索功能：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="huggingface-spaces" src="https://images-1252557999.file.myqcloud.com/uPic/jG93mK.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://maily.to/"&gt;maily.to&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个&lt;a href="https://github.com/arikchakma/maily.to"&gt;开源邮件编辑器&lt;/a&gt;，用于制作美观的电子邮件，还可以创建模板：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="maily" src="https://images-1252557999.file.myqcloud.com/uPic/SwsHwH.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">03-24~03-30.老胡的周刊（第182期）.md</guid>
+      <pubDate>Sun, 30 Mar 2025 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>03-17~03-23.老胡的周刊（第181期）.md</title>
       <link>https://weekly.howie6879.com/2025/03-17~03-23.老胡的周刊（第181期）.html</link>
@@ -1251,64 +1320,6 @@
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">10-07~10-13.老胡的周刊（第163期）.md</guid>
       <pubDate>Sun, 13 Oct 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>09-30~10-06.老胡的周刊（第162期）.md</title>
-      <link>https://weekly.howie6879.com/2024/09-30~10-06.老胡的周刊（第162期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/09-30~10-06.老胡的周刊（第162期）.html"&gt;09-30~10-06.老胡的周刊（第162期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/ccbikai/BroadcastChannel"&gt;BroadcastChannel&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;将你的 &lt;code&gt;Telegram Channel&lt;/code&gt; 转为微博客：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="BroadcastChannel" src="https://images-1252557999.file.myqcloud.com/uPic/Aj9mwD.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/ccbikai/Sink"&gt;Sink&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;在 &lt;code&gt;Cloudflare&lt;/code&gt; 上运行的简单、快速、安全的短链项目，还带有分析统计功能：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Sink" src="https://images-1252557999.file.myqcloud.com/uPic/aJnlZg.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/screego/server"&gt;screego&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个开源的屏幕共享工具，专为开发者设计，支持多用户屏幕共享，通过 WebRTC 提供安全传输，具有低延迟和高分辨率的特点，可以通过 Docker 或单个二进制文件简单安装：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="screego" src="https://images-1252557999.file.myqcloud.com/uPic/ijkWli.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/XengShi/materialYouNewTab"&gt;materialYouNewTab&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个简单的新标签（浏览器主页）插件，灵感来自谷歌的 MD 设计，挺漂亮的：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="materialYouNewTab" src="https://images-1252557999.file.myqcloud.com/uPic/MWwtoG.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/MuntashirAkon/AppManager"&gt;AppManager&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个功能全面的 &lt;code&gt;Android&lt;/code&gt; 包管理器和应用查看器，支持复制自由软件的功能，提供了丰富的应用管理和操作功能，如列出应用信息、安装 / 卸载 &lt;code&gt;APK&lt;/code&gt;、备份 / 恢复应用、查看日志等，同时支持根权限和 &lt;code&gt;ADB&lt;/code&gt; 命令，以实现更高级的操作，如撤销权限、修改 &lt;code&gt;APP&lt;/code&gt; 操作模式等：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="AppManager" src="https://images-1252557999.file.myqcloud.com/uPic/zIgjSp.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://beej.us/guide/bgc/"&gt;BGC&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;面向初学者的 C 语言教程：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="BGC" src="https://images-1252557999.file.myqcloud.com/uPic/CtN8CN.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://json4u.cn/"&gt;json4u&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个功能非常强大的 json 可视化和处理工具，提供图形和表格视图模式，支持结构化和文本比较、错误上下文验证、嵌套解析等功能，并且具有用户友好的界面设计：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;图形和表格视图模式&lt;/li&gt;
-&lt;li&gt;结构化和文本比较&lt;/li&gt;
-&lt;li&gt;使用错误上下文进行验证&lt;/li&gt;
-&lt;li&gt;嵌套解析&lt;/li&gt;
-&lt;li&gt;支持jq&lt;/li&gt;
-&lt;li&gt;导入和导出CSV文件&lt;/li&gt;
-&lt;li&gt;设计良好且易于使用的UI&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="json4u" src="https://images-1252557999.file.myqcloud.com/uPic/gr5lnQ.png" /&gt;&lt;/p&gt;
-&lt;p&gt;代码是&lt;a href="https://github.com/loggerhead/json4u/"&gt;开源&lt;/a&gt;的。&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://selfh.st/"&gt;selfh&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;网站提供了可自建项目的动态，每周更新：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="selfh" src="https://images-1252557999.file.myqcloud.com/uPic/jVlzyp.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">09-30~10-06.老胡的周刊（第162期）.md</guid>
-      <pubDate>Sun, 06 Oct 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
