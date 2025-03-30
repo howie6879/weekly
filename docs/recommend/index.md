@@ -5,111 +5,105 @@
 
 ## 🎯 项目 
 
-### [onelist](https://github.com/msterzhang/onelist)
+### [sqliteviz](https://github.com/lana-k/sqliteviz)
 
-一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序:
+`sqliteviz` 是一款功能强大且易于使用的离线数据可视化工具，具有易于使用、性能出色的特点，非常适合数据分析人员、学生和开发人员使用。
 
-- alist挂载云盘后能在网页端看视频，却没有分类，没有海报墙
-- 使用webdav挂载本地后，用jellyfin或者emby刮削会下载视频截取封面导致封号
-- 用jellyfin或者emby之类，没有大带宽公网ip，在外难以访问
+在线体验地址：[https://sqliteviz.com/app](https://sqliteviz.com/app)
 
-![onelist](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-4-5997957576333046318-y.jpg) 
+![sqliteviz](https://images-1252557999.file.myqcloud.com/uPic/sqliteviz.jpg) 
 
-### [markdown-nice](https://github.com/mdnice/markdown-nice)
+### [Cloudreve](https://github.com/cloudreve/Cloudreve)
 
-有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
+支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
 
-> 支持主题设计的 Markdown 编辑器，让排版变 Nice
+- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
+- 📤  上传/下载 支持客户端直传，支持下载限速
+- 💾  可对接 Aria2 离线下载
+- 📚  在线 压缩/解压缩、多文件打包下载
+- 💻  覆盖全部存储策略的 WebDAV 协议支持
+- ⚡  拖拽上传、目录上传、流式上传处理
+- 🗃️  文件拖拽管理
+- 👩‍👧‍👦  多用户、用户组
+- 🔗  创建文件、目录的分享链接，可设定自动过期
+- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
+- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
+- 🚀  All-In-One 打包，开箱即用
+- 🌈  ... ...
 
-你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
+![Cloudreve](https://images-1252557999.file.myqcloud.com/uPic/opzEP2.jpg) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
+### [vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)
 
-官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
+基于 fabric.js 和 Vue 的图片海报编辑器，可自定义字体、素材、设计模板：
 
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
-
-### [cadvisor](https://github.com/google/cadvisor)
-
-一个免费开源的容器监控工具，可以实时统计容器运行时占用的资源：
-
-- CPU 利用率
-- 内存使用量
-- 网络传输等信息
-
-同时提供了 Web 可视化页面，支持 `prometheus` 格式输出，非常优秀。
-
-![cadvisor](https://images-1252557999.file.myqcloud.com/uPic/cadvisor.jpg)
-
-如果使用过程有镜像代理问题，可以参考 [gcr.io_mirror](https://github.com/anjia0532/gcr.io_mirror) 项目。 
+![vue-fabric-editor](https://images-1252557999.file.myqcloud.com/uPic/vue-fabric-editor.png) 
 
 ## 🤖 软件 
 
-### [AppManager](https://github.com/MuntashirAkon/AppManager)
+### [memreduct](https://github.com/henrypp/memreduct)
 
-一个功能全面的 `Android` 包管理器和应用查看器，支持复制自由软件的功能，提供了丰富的应用管理和操作功能，如列出应用信息、安装 / 卸载 `APK`、备份 / 恢复应用、查看日志等，同时支持根权限和 `ADB` 命令，以实现更高级的操作，如撤销权限、修改 `APP` 操作模式等：
+轻量优雅的 `Windows` 内存管理工具，让用户实时监控计算机内存和清理系统缓存，体积小(6MB)、内存释放效果明显，兼容 `Windows XP` 及更高版本：
 
-![AppManager](https://images-1252557999.file.myqcloud.com/uPic/zIgjSp.png) 
+![memreduct](https://images-1252557999.file.myqcloud.com/uPic/memreduct.jpg) 
 
-### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
+### [Gotcha-Rest-Client](https://github.com/WhiteCosmos/Gotcha-Rest-Client)
 
-`TinyPNG`的`Mac`客户端：
+Gotcha 是一个开源且跨平台的 API 设计和测试工具：
 
-![TinyPNG4Mac](https://images-1252557999.file.myqcloud.com/uPic/TinyPNG4Mac.png) 
+- 无需登录注册，所有数据均存放在本地数据库(indexedDB)当中
+- 完全可视化的 API 设计功能，自由编辑请求和响应，支持 Json Schema 格式，支持大多数 OpenAPI 标准
+- 参数化 URL 编辑器，所有 URL 参数都可以通过表单形式轻松修改
+- 通过右键菜单轻松使用动态变量，包括环境变量，日期时间，引用其它接口等多种类型
+- 随时切换，修改 Cookie，支持同时使用多套 Cookie
+- 可视化 JSON 编辑器
+- 保存常用请求到请求模板
 
-### [milky-warp](https://github.com/hugoattal/milky-warp)
+![Gotcha-Rest-Client](https://images-1252557999.file.myqcloud.com/uPic/Gotcha-Rest-Client.png) 
 
-`Milky Warp` 是一个开源工具，技术栈是 `Tauri、Vite、Vue、Typescript`，核心功能就是按下快捷键时会显示一个放大镜：
+### [VeraCrypt](https://veracrypt.fr/en/Home.html)
 
-- 按下可配置的快捷键时显示放大镜
-- 支持使用鼠标滚轮进行放大和缩小
-- 跨平台：可在Windows、macOS和Linux上运行
+`VeraCrypt` 是一款著名的跨平台、开源磁盘加密工具：
 
-![milky-warp](https://images-1252557999.file.myqcloud.com/uPic/milky-warp.gif) 
+![VeraCrypt](https://images-1252557999.file.myqcloud.com/uPic/VeraCrypt.jpg) 
 
 ## 👀 资料 
 
-### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
+### [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
 
-重新分类 Leetcode 高频题 2021 版
+[《Effective Modern C++ 》](https://cntransgroup.github.io/EffectiveModernCppChinese/)翻译：
 
-- 题目按照面试频率降序排列
-- 增加难度分类，适合从简单开始学习
-- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
+![EffectiveModernCppChinese](https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg) 
 
-### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
 
-站点可靠性工作手册：
+![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
-![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
+### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
 
-### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
+《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
 
-自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
-
-![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
+![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
 
 ## 🕸 网站 
 
-### [apivault.dev](https://apivault.dev/)
+### [uiverse.io](https://uiverse.io/)
 
-免费开源的公共 `API` 网站：
+一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
 
-![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
+![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
 
-### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
+### [go-to-library.sk](https://go-to-library.sk/#useful_link_tab)
 
-PDF Squeezer 是一款 PDF 压缩工具：
+`Z-Library` 官方入口页面：
 
-![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
+![go-to-library.sk](https://images-1252557999.file.myqcloud.com/uPic/LQr3IN.png) 
 
-### [fontawesome](https://fontawesome.com/icons/)
+### [namebeta](https://namebeta.com/)
 
-比较完善全面的图标网站：
+输入你想要的域名，各方比价：
 
-![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
+![namebeta_web](https://images-1252557999.file.myqcloud.com/uPic/namebeta_web.jpg) 
 
 ## ✍️ 说明
 
