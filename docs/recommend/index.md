@@ -5,113 +5,111 @@
 
 ## 🎯 项目 
 
-### [Chat2DB](https://github.com/chat2db/Chat2DB)
+### [onelist](https://github.com/msterzhang/onelist)
 
-`Chat2DB` 是一款有开源免费的智能且多功能的SQL客户端和报表工具，适用于各种数据库：
+一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序:
 
-- 🌈 AI智能助手，支持自然语言转SQL、SQL转自然语言、SQL优化建议
-- 🔥 SQL查询、AI查询和数据报表完美集成的一体化解决方案设计与实现
-- 👭 支持团队协作，研发无需知道线上数据库密码，解决企业数据库账号安全问题
-- ⚙️ 强大的数据管理能力，支持数据表、视图、存储过程、函数、触发器、索引、序列、用户、角色、授权等管理
-- 🔌 强大的扩展能力，目前已经支持MySQL、PostgreSQL、Oracle、SQLServer、ClickHouse、OceanBase、H2、SQLite等等，未来会支持更多的数据库
-- 🛡 前端使用 Electron 开发，提供 Windows、Mac、Linux 客户端、网页版本一体化的解决方案
-- 🎁 支持环境隔离、线上、日常数据权限分离
+- alist挂载云盘后能在网页端看视频，却没有分类，没有海报墙
+- 使用webdav挂载本地后，用jellyfin或者emby刮削会下载视频截取封面导致封号
+- 用jellyfin或者emby之类，没有大带宽公网ip，在外难以访问
 
-![Chat2DB](https://images-1252557999.file.myqcloud.com/uPic/Chat2DB.png) 
+![onelist](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-4-5997957576333046318-y.jpg) 
 
-### [mesop](https://github.com/google/mesop)
+### [markdown-nice](https://github.com/mdnice/markdown-nice)
 
-Mesop 是一个基于 Python 的 UI 框架，用于快速构建如演示和内部应用的 Web 应用程序。它提供直观的 UI 编写，支持响应式 UI 编程范式，具有热重载功能和丰富的 IDE 支持。开发者可以通过简洁的 Python 代码构建自定义 UI，无需编写 JavaScript/CSS/HTML。
+有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
 
-![mesop](https://images-1252557999.file.myqcloud.com/uPic/mesop.jpg)
-类似的 Web&桌面软件框架：
+> 支持主题设计的 Markdown 编辑器，让排版变 Nice
 
-- https://github.com/zauberzeug/nicegui
-- https://github.com/pywebio/PyWebIO
-- https://github.com/flet-dev/flet
-- https://github.com/streamlit/streamlit
-- https://github.com/python-eel/Eel
-- https://github.com/kivy/kivy
-- https://github.com/PySimpleGUI/PySimpleGUI
-- https://github.com/r0x0r/pywebview
-- https://github.com/hoffstadt/DearPyGui
-- https://github.com/Textualize/textual 
+你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
 
-### [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
+![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
 
-一个大模型 `AI` 网关项目，只需要通过项目提供的一个接口，就可以快速连接到100多个 `LLM`：
+官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
 
-- 极速（快9.9倍），占用空间小（安装后约45kb）
-- 在多个模型、提供者和密钥之间进行负载均衡
-- 备选方案确保您的应用程序具有弹性
-- 默认情况下，自动重试并采用指数回退策略
-- 根据需要添加插件中间件
-- 经过1000亿次 Token 的实战考验
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
 
-  
-![ai-gateway](https://images-1252557999.file.myqcloud.com/uPic/ai-gateway.jpg)
-  
-同类型项目可以参考：[One API👉通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 ✨](https://github.com/songquanpeng/one-api) 
+### [cadvisor](https://github.com/google/cadvisor)
+
+一个免费开源的容器监控工具，可以实时统计容器运行时占用的资源：
+
+- CPU 利用率
+- 内存使用量
+- 网络传输等信息
+
+同时提供了 Web 可视化页面，支持 `prometheus` 格式输出，非常优秀。
+
+![cadvisor](https://images-1252557999.file.myqcloud.com/uPic/cadvisor.jpg)
+
+如果使用过程有镜像代理问题，可以参考 [gcr.io_mirror](https://github.com/anjia0532/gcr.io_mirror) 项目。 
 
 ## 🤖 软件 
 
-### [cline](https://github.com/cline/cline/blob/main/locales/zh-cn/README.md)
+### [AppManager](https://github.com/MuntashirAkon/AppManager)
 
-`Cline` 是一个集成了 `AI` 助手的扩展，能够在编辑器和 CLI 中协助开发者完成复杂的软件开发任务，支持多种 API 和模型，并具备文件创建和编辑、终端命令执行、浏览器操作等功能，同时提供了 `Model Context Protocol (MCP)` 来创建新工具并扩展自身能力。 
+一个功能全面的 `Android` 包管理器和应用查看器，支持复制自由软件的功能，提供了丰富的应用管理和操作功能，如列出应用信息、安装 / 卸载 `APK`、备份 / 恢复应用、查看日志等，同时支持根权限和 `ADB` 命令，以实现更高级的操作，如撤销权限、修改 `APP` 操作模式等：
 
-### [Obtainium](https://github.com/ImranR98/Obtainium)
+![AppManager](https://images-1252557999.file.myqcloud.com/uPic/zIgjSp.png) 
 
-聚合安卓应用源，然后获取程序更新，`Obtainium` 允许用户直接从发布页面安装和更新应用程序，并在发布新版本时接收通知：
+### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
 
-![Obtainium](https://images-1252557999.file.myqcloud.com/uPic/Obtainium.jpg) 
+`TinyPNG`的`Mac`客户端：
 
-### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
+![TinyPNG4Mac](https://images-1252557999.file.myqcloud.com/uPic/TinyPNG4Mac.png) 
 
-基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
+### [milky-warp](https://github.com/hugoattal/milky-warp)
 
-![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
+`Milky Warp` 是一个开源工具，技术栈是 `Tauri、Vite、Vue、Typescript`，核心功能就是按下快捷键时会显示一个放大镜：
+
+- 按下可配置的快捷键时显示放大镜
+- 支持使用鼠标滚轮进行放大和缩小
+- 跨平台：可在Windows、macOS和Linux上运行
+
+![milky-warp](https://images-1252557999.file.myqcloud.com/uPic/milky-warp.gif) 
 
 ## 👀 资料 
 
-### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
 
-经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+重新分类 Leetcode 高频题 2021 版
 
-![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
+- 题目按照面试频率降序排列
+- 增加难度分类，适合从简单开始学习
+- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
 
-### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
 
-本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
+站点可靠性工作手册：
 
-我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
-无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
+### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
 
-### [101-rs](https://github.com/tweedegolf/101-rs)
+自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
 
-[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
-
-![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
+![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [historyline.online](https://github.com/liujuntao123/chines-history-video)
+### [apivault.dev](https://apivault.dev/)
 
-中国历朝代历史视频讲解，汇聚了B站上综合数据（点赞，播放，投币，收藏）最高的一个/几个视频：
+免费开源的公共 `API` 网站：
 
-![historyline](https://images-1252557999.file.myqcloud.com/uPic/historyline.jpg) 
+![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
 
-### [Ben Eater](https://eater.net/)
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
 
-博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
+PDF Squeezer 是一款 PDF 压缩工具：
 
-![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
-### [webdesk](https://webdesk.pigjs.com/builder/)
+### [fontawesome](https://fontawesome.com/icons/)
 
-一键将网站转化为桌面应用程序：
+比较完善全面的图标网站：
 
-![webdesk](https://images-1252557999.file.myqcloud.com/uPic/webdesk.jpg) 
+![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
 
 ## ✍️ 说明
 
