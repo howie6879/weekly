@@ -5,83 +5,89 @@
 
 ## 🎯 项目 
 
-### [quivr](https://github.com/stangirard/quivr)
+### [free-api](https://github.com/fangzesheng/free-api)
 
-`Quivr` 是您在云中的第二个大脑，让您轻松存储和检索非结构化信息，通过索引你电脑上各种类型的文件，然后通过 `LLM` 处理，最后进行问答：
+作者创建此开源项目的目的如下：
 
-![quivr_qa](https://images-1252557999.file.myqcloud.com/uPic/quivr_qa.jpg) 
+> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
 
-### [naive-ui](https://github.com/tusen-ai/naive-ui)
+包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
 
-一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
+![free-api](https://images-1252557999.file.myqcloud.com/uPic/VvapMO.png) 
 
-![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
+### [zfile](https://github.com/zhaojun1998/zfile)
 
-### [browser-use/web-ui](https://github.com/browser-use/web-ui)
+基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
 
-让 AI 助手控制你的浏览器，浏览器中运行 AI 代理，提供用户友好的 Web 界面，支持多种大型语言模型，并允许使用自定义浏览器进行交互：
+![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
 
-![web-ui](https://images-1252557999.file.myqcloud.com/uPic/DVMAQC.png) 
+### [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web)
+
+带有用户管理和后台面板的 ChatGPT 网页应用：
+
+![ChatGPT-Admin-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Admin-Web.jpg) 
 
 ## 🤖 软件 
 
-### [fideo-live-record](https://github.com/chenfan0/fideo-live-record)
+### [VeraCrypt](https://veracrypt.fr/en/Home.html)
 
-这是一个基于 `React Ffmpeg Electron Shadcn` 的直播录制软件。支持监控直播，可以帮助用户简单便捷对直播进行录制并保存为` MP4` 格式的视频：
+`VeraCrypt` 是一款著名的跨平台、开源磁盘加密工具：
 
-![fideo-live-record](https://images-1252557999.file.myqcloud.com/uPic/tCaYMt.png) 
+![VeraCrypt](https://images-1252557999.file.myqcloud.com/uPic/VeraCrypt.jpg) 
 
-### [my-tv](https://github.com/lizongying/my-tv)
+### [Olauncher](https://github.com/tanujnotes/Olauncher)
 
-安卓电视直播软件，内置直播源：
+适用于 `Android` 的最小 `AF` 启动器。减少您在屏幕上浪费的时间，提供日常壁纸，非常优雅简洁，效果上来看适合英文用户：
 
-![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
+![Olauncher](https://images-1252557999.file.myqcloud.com/uPic/Olauncher.jpg) 
 
-### [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
+### [pho](https://github.com/fregie/pho)
 
-`ZoomIt` 是一款用于屏幕缩放、注释和录制的演示工具，微软出品（大小仅 1M）：
+一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
 
-![ZoomIt](https://images-1252557999.file.myqcloud.com/uPic/ZoomIt.jpg) 
+![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
 
 ## 👀 资料 
 
-### RustBook
+### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 
-一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
+GitHub开源项目维护协作指南：
 
-![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg) 
+![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
 
-### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
+### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
-从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
+比较全面的 `k8s` 资源收集项目：
 
-![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
+![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
 
-### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
+### [Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
 
-Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+微软出品的 `GitHub Copilot` 教程：
 
-![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
+![Mastering-GitHub-Copilot-for-Paired-Programming](https://images-1252557999.file.myqcloud.com/uPic/KTSuLa.png) 
 
 ## 🕸 网站 
 
-### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
+### [mlsub](https://mlsub.net/)
 
-中国少年儿童新闻出版总社免费开放的少儿绘本网站：
+一个专注哆啦A梦和蜡笔小新的动漫网站：
 
-![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
+![mlsub](https://images-1252557999.file.myqcloud.com/uPic/mlsub.jpg) 
 
-### [读书笔记](https://reading.geek-docs.com/)
+### [toonme](https://toonme.com)
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+该网站将原图绘制成可爱的卡通图片：
 
-![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
+![toonme](https://images-1252557999.file.myqcloud.com/uPic/toonme.jpg) 
 
-### [ixinqing](http://www.ixinqing.com/)
+### [removerized](https://removerized.tech/)
 
-心晴 · 专注于心理学入门与自我成长:
+开源免费的图片去背景工具网站，交互体验还不错：
 
-![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
+![removerized](https://images-1252557999.file.myqcloud.com/uPic/removerized.jpg)
+
+当然了，模型效果对一些图片比不上一些收费的。 
 
 ## ✍️ 说明
 
