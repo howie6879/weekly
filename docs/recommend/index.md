@@ -5,89 +5,97 @@
 
 ## 🎯 项目 
 
-### [free-api](https://github.com/fangzesheng/free-api)
+### [novel](https://github.com/steven-tey/novel)
 
-作者创建此开源项目的目的如下：
+具有类似 `NotionAI` 自动补全功能的所见即所得编辑器，可直接在线体验 [novel.sh](https://novel.sh/) ：
 
-> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
+![opengraph-image](https://images-1252557999.file.myqcloud.com/uPic/opengraph-image.png) 
 
-包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
+### [slickr](https://github.com/saviomartin/slickr)
 
-![free-api](https://images-1252557999.file.myqcloud.com/uPic/VvapMO.png) 
+文章封面图生成构建工具，适合经常发布文章的朋友，顺便说句，项目作者14岁：
 
-### [zfile](https://github.com/zhaojun1998/zfile)
+![slickr](https://images-1252557999.file.myqcloud.com/uPic/slickr.gif) 
 
-基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
+### [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
 
-![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
+将视频从一种语言翻译为另一种语言，并添加配音，这个最近火出圈了：
 
-### [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web)
-
-带有用户管理和后台面板的 ChatGPT 网页应用：
-
-![ChatGPT-Admin-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Admin-Web.jpg) 
+![pyvideotrans](https://images-1252557999.file.myqcloud.com/uPic/pyvideotrans.jpg) 
 
 ## 🤖 软件 
 
-### [VeraCrypt](https://veracrypt.fr/en/Home.html)
+### [Screenity](https://github.com/alyssaxuu/screenity)
 
-`VeraCrypt` 是一款著名的跨平台、开源磁盘加密工具：
+🎥 免费且隐私友好的录屏工具，功能特性使用无限制：
 
-![VeraCrypt](https://images-1252557999.file.myqcloud.com/uPic/VeraCrypt.jpg) 
+![Screenity](https://images-1252557999.file.myqcloud.com/uPic/Screenity.png)
 
-### [Olauncher](https://github.com/tanujnotes/Olauncher)
+还有其他推荐的：
 
-适用于 `Android` 的最小 `AF` 启动器。减少您在屏幕上浪费的时间，提供日常壁纸，非常优雅简洁，效果上来看适合英文用户：
+- https://github.com/lihaoyun6/QuickRecorder
+- https://github.com/wulkano/Kap 
 
-![Olauncher](https://images-1252557999.file.myqcloud.com/uPic/Olauncher.jpg) 
+### [natpass](https://github.com/lwch/natpass)
 
-### [pho](https://github.com/fregie/pho)
+新一代 NAT 内网穿透+shell+vnc 工具：
 
-一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
+![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
 
-![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
+### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+
+B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg) 
 
 ## 👀 资料 
 
-### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 
-GitHub开源项目维护协作指南：
+C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
 
-![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
+![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
 
-### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+### [AI-System](https://github.com/microsoft/AI-System)
 
-比较全面的 `k8s` 资源收集项目：
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
 
-![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
+![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
 
-### [Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
+### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 
-微软出品的 `GitHub Copilot` 教程：
+本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
 
-![Mastering-GitHub-Copilot-for-Paired-Programming](https://images-1252557999.file.myqcloud.com/uPic/KTSuLa.png) 
+基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
+配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
+测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
+
+![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [mlsub](https://mlsub.net/)
+### [docsmall](https://docsmall.com/)
 
-一个专注哆啦A梦和蜡笔小新的动漫网站：
+提供一些图片压缩、PDF合并分割小功能的网站：
 
-![mlsub](https://images-1252557999.file.myqcloud.com/uPic/mlsub.jpg) 
+![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
 
-### [toonme](https://toonme.com)
+### [appbaseio/mirage](https://opensource.appbase.io/mirage/)
 
-该网站将原图绘制成可爱的卡通图片：
+这是一个用于简化 `ES` 查询语句编写的开源项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句：
 
-![toonme](https://images-1252557999.file.myqcloud.com/uPic/toonme.jpg) 
+- 开源代码地址：[https://github.com/appbaseio/mirage](https://github.com/appbaseio/mirage)
+- 访问地址： [https://opensource.appbase.io/mirage/](https://opensource.appbase.io/mirage/)
 
-### [removerized](https://removerized.tech/)
+当然你也可以本机自行部署，非常方便，比较遗憾的是目前只支持到 `-v7.x`：
 
-开源免费的图片去背景工具网站，交互体验还不错：
+![mirage](https://images-1252557999.file.myqcloud.com/uPic/mirage.png) 
 
-![removerized](https://images-1252557999.file.myqcloud.com/uPic/removerized.jpg)
+### [eja.tv](https://eja.tv/?)
 
-当然了，模型效果对一些图片比不上一些收费的。 
+提供3808个在线电视频道，包含143个国家以及82种不同语言。
+
+![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
 
 ## ✍️ 说明
 
