@@ -5,97 +5,85 @@
 
 ## 🎯 项目 
 
-### [novel](https://github.com/steven-tey/novel)
+### [AstrBot](https://github.com/Soulter/AstrBot)
 
-具有类似 `NotionAI` 自动补全功能的所见即所得编辑器，可直接在线体验 [novel.sh](https://novel.sh/) ：
+`AstrBot` 是一个松耦合、异步、支持多消息平台部署、具有易用的插件系统和完善的大语言模型（LLM）接入功能的聊天机器人及开发框架：
 
-![opengraph-image](https://images-1252557999.file.myqcloud.com/uPic/opengraph-image.png) 
+![AstrBot](https://images-1252557999.file.myqcloud.com/uPic/htLSql.png) 
 
-### [slickr](https://github.com/saviomartin/slickr)
+### [BroadcastChannel](https://github.com/ccbikai/BroadcastChannel)
 
-文章封面图生成构建工具，适合经常发布文章的朋友，顺便说句，项目作者14岁：
+将你的 `Telegram Channel` 转为微博客：
 
-![slickr](https://images-1252557999.file.myqcloud.com/uPic/slickr.gif) 
+![BroadcastChannel](https://images-1252557999.file.myqcloud.com/uPic/Aj9mwD.png) 
 
-### [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
+### [flet](https://github.com/flet-dev/flet)
 
-将视频从一种语言翻译为另一种语言，并添加配音，这个最近火出圈了：
+用 `Python` 开发跨平台 `Flutter` 应用：
 
-![pyvideotrans](https://images-1252557999.file.myqcloud.com/uPic/pyvideotrans.jpg) 
+![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
 
 ## 🤖 软件 
 
-### [Screenity](https://github.com/alyssaxuu/screenity)
+### [HandBrake](https://github.com/HandBrake/HandBrake)
 
-🎥 免费且隐私友好的录屏工具，功能特性使用无限制：
+`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
 
-![Screenity](https://images-1252557999.file.myqcloud.com/uPic/Screenity.png)
+![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
 
-还有其他推荐的：
+### [Readhubn](https://github.com/shensven/Readhubn)
 
-- https://github.com/lihaoyun6/QuickRecorder
-- https://github.com/wulkano/Kap 
+如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
 
-### [natpass](https://github.com/lwch/natpass)
+![readhub](https://images-1252557999.file.myqcloud.com/uPic/pZfUjT.png) 
 
-新一代 NAT 内网穿透+shell+vnc 工具：
+### [AppManager](https://github.com/MuntashirAkon/AppManager)
 
-![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
+一个功能全面的 `Android` 包管理器和应用查看器，支持复制自由软件的功能，提供了丰富的应用管理和操作功能，如列出应用信息、安装 / 卸载 `APK`、备份 / 恢复应用、查看日志等，同时支持根权限和 `ADB` 命令，以实现更高级的操作，如撤销权限、修改 `APP` 操作模式等：
 
-### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
-
-B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
-
-![](https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg) 
+![AppManager](https://images-1252557999.file.myqcloud.com/uPic/zIgjSp.png) 
 
 ## 👀 资料 
 
-### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+### [GolangStudy](https://github.com/cnymw/GolangStudy)
 
-C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
+《[GolangStudy](https://golangstudy.tech/)》：从简单到难最全总结，go基础，数据结构，算法，设计模式：
 
-![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
+![GolangStudy](https://images-1252557999.file.myqcloud.com/uPic/GolangStudy.jpg) 
 
-### [AI-System](https://github.com/microsoft/AI-System)
+### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
 
-微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+中国5级行政区域mysql库：
 
-![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
+- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
+- 港澳地区的数据只有3级;台湾地区4级
+- 包含大陆地区的邮政编码和经纬度信息 
 
-### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
+### [动手学OCR·十讲](https://aistudio.baidu.com/aistudio/course/introduce/25207)
 
-本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
+PaddleOCR的原创团队出的课程，课程内容涵盖基于深度学习的经典OCR检测识别算法、最新文档结构化技术以及千锤百炼的产业级模型与部署工具。通过广泛调研提炼了重要OCR算法的核心思想，实践部分不仅对代码重要细节做了深入分析，还会实时运行代码展示效果助大家加深理解。
 
-基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
-配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
-测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
-
-![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
+![动手学OCR](https://images-1252557999.file.myqcloud.com/uPic/tcg64l.png) 
 
 ## 🕸 网站 
 
-### [docsmall](https://docsmall.com/)
+### [uiverse.io](https://uiverse.io/)
 
-提供一些图片压缩、PDF合并分割小功能的网站：
+一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
 
-![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
+![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
 
-### [appbaseio/mirage](https://opensource.appbase.io/mirage/)
+### [ffmpeg-online](https://ffmpeg-online.vercel.app/?inputOptions=-i&output=output.mp4&outputOptions=)
 
-这是一个用于简化 `ES` 查询语句编写的开源项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句：
+基于 `ffmpeg.wasm` 的在线版本，可用于在线处理音频和视频：
 
-- 开源代码地址：[https://github.com/appbaseio/mirage](https://github.com/appbaseio/mirage)
-- 访问地址： [https://opensource.appbase.io/mirage/](https://opensource.appbase.io/mirage/)
+![ffmpeg-online](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg-online.jpg) 
 
-当然你也可以本机自行部署，非常方便，比较遗憾的是目前只支持到 `-v7.x`：
+### [huawei-od](https://huawei-od.vercel.app/)
 
-![mirage](https://images-1252557999.file.myqcloud.com/uPic/mirage.png) 
+牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
 
-### [eja.tv](https://eja.tv/?)
-
-提供3808个在线电视频道，包含143个国家以及82种不同语言。
-
-![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
+![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
 
 ## ✍️ 说明
 
