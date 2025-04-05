@@ -5,85 +5,88 @@
 
 ## 🎯 项目 
 
-### [AstrBot](https://github.com/Soulter/AstrBot)
+### [drawdb](https://github.com/drawdb-io/drawdb)
 
-`AstrBot` 是一个松耦合、异步、支持多消息平台部署、具有易用的插件系统和完善的大语言模型（LLM）接入功能的聊天机器人及开发框架：
+免费、简单且直观的在线数据库设计工具和 `SQL` 生成器：
 
-![AstrBot](https://images-1252557999.file.myqcloud.com/uPic/htLSql.png) 
+![drawdb](https://images-1252557999.file.myqcloud.com/uPic/drawdb.jpg) 
 
-### [BroadcastChannel](https://github.com/ccbikai/BroadcastChannel)
+### [illa-builder](https://github.com/illacloud/illa-builder)
 
-将你的 `Telegram Channel` 转为微博客：
+`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
 
-![BroadcastChannel](https://images-1252557999.file.myqcloud.com/uPic/Aj9mwD.png) 
+- ⚽ 实时协作： 我们可以一起实时创建内容。
+- 🛠 自定义插件： 构建自定义插件来完成你的任务。
+- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
+- 🖥 本地部署： 支持Docker和k8s
+- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
+- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
 
-### [flet](https://github.com/flet-dev/flet)
+![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
 
-用 `Python` 开发跨平台 `Flutter` 应用：
+### [paper-qa](https://github.com/whitead/paper-qa)
 
-![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
+用 `GPT-3` 来解读论文的开源项目：
+
+![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
 
 ## 🤖 软件 
 
-### [HandBrake](https://github.com/HandBrake/HandBrake)
+### [cursor](https://github.com/getcursor/cursor)
 
-`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
+一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
 
-![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
+![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
 
-### [Readhubn](https://github.com/shensven/Readhubn)
+### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
 
-如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
+安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
 
-![readhub](https://images-1252557999.file.myqcloud.com/uPic/pZfUjT.png) 
+![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
 
-### [AppManager](https://github.com/MuntashirAkon/AppManager)
+### [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
 
-一个功能全面的 `Android` 包管理器和应用查看器，支持复制自由软件的功能，提供了丰富的应用管理和操作功能，如列出应用信息、安装 / 卸载 `APK`、备份 / 恢复应用、查看日志等，同时支持根权限和 `ADB` 命令，以实现更高级的操作，如撤销权限、修改 `APP` 操作模式等：
+简单的 macOS 菜单栏应用程序，可以方便地和 `Reminders` 进行交互，使用 `SwiftUI` 开发，并使用 `Apple` 提醒事项作为数据源：
 
-![AppManager](https://images-1252557999.file.myqcloud.com/uPic/zIgjSp.png) 
+![reminders-menubar](https://images-1252557999.file.myqcloud.com/uPic/reminders-menubar.jpg) 
 
 ## 👀 资料 
 
-### [GolangStudy](https://github.com/cnymw/GolangStudy)
+### [rust-by-practice](https://github.com/sunface/rust-by-practice)
 
-《[GolangStudy](https://golangstudy.tech/)》：从简单到难最全总结，go基础，数据结构，算法，设计模式：
+通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
 
-![GolangStudy](https://images-1252557999.file.myqcloud.com/uPic/GolangStudy.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/f4zLoa.png) 
 
-### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
+### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
 
-中国5级行政区域mysql库：
+该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
 
-- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
-- 港澳地区的数据只有3级;台湾地区4级
-- 包含大陆地区的邮政编码和经纬度信息 
+### [comprehensive-rust](https://google.github.io/comprehensive-rust/welcome.html)
 
-### [动手学OCR·十讲](https://aistudio.baidu.com/aistudio/course/introduce/25207)
+谷歌出品的四天学习 `Rust` 👀
 
-PaddleOCR的原创团队出的课程，课程内容涵盖基于深度学习的经典OCR检测识别算法、最新文档结构化技术以及千锤百炼的产业级模型与部署工具。通过广泛调研提炼了重要OCR算法的核心思想，实践部分不仅对代码重要细节做了深入分析，还会实时运行代码展示效果助大家加深理解。
-
-![动手学OCR](https://images-1252557999.file.myqcloud.com/uPic/tcg64l.png) 
+![comprehensive-rust](https://images-1252557999.file.myqcloud.com/uPic/comprehensive-rust.jpg) 
 
 ## 🕸 网站 
 
-### [uiverse.io](https://uiverse.io/)
+### [cursor.directory](https://cursor.directory/)
 
-一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
+基于你在用的框架或者语言，提供最好的 curson 规则。也开源在 [github](https://github.com/pontusab/cursor.directory)
 
-![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
+![cursor.directory](https://images-1252557999.file.myqcloud.com/uPic/ygOBRk.png) 
 
-### [ffmpeg-online](https://ffmpeg-online.vercel.app/?inputOptions=-i&output=output.mp4&outputOptions=)
+### [ICO converter](https://www.icoconverter.com/)
 
-基于 `ffmpeg.wasm` 的在线版本，可用于在线处理音频和视频：
+`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
 
-![ffmpeg-online](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg-online.jpg) 
+![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
 
-### [huawei-od](https://huawei-od.vercel.app/)
+### [go-to-library.sk](https://go-to-library.sk/#useful_link_tab)
 
-牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
+`Z-Library` 官方入口页面：
 
-![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
+![go-to-library.sk](https://images-1252557999.file.myqcloud.com/uPic/LQr3IN.png) 
 
 ## ✍️ 说明
 
