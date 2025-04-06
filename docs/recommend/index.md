@@ -5,88 +5,105 @@
 
 ## 🎯 项目 
 
-### [drawdb](https://github.com/drawdb-io/drawdb)
+### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
-免费、简单且直观的在线数据库设计工具和 `SQL` 生成器：
+Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
 
-![drawdb](https://images-1252557999.file.myqcloud.com/uPic/drawdb.jpg) 
+你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
 
-### [illa-builder](https://github.com/illacloud/illa-builder)
+- 🌐 利用互联网进行搜索和信息收集
+- 💾 长期和短期记忆管理
+- 🧠 GPT-4实例用于文本生成
+- 🔗 访问流行的网站和平台
+- 🗃️ 使用GPT-3.5进行文件存储和摘要
 
-`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
+![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
 
-- ⚽ 实时协作： 我们可以一起实时创建内容。
-- 🛠 自定义插件： 构建自定义插件来完成你的任务。
-- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
-- 🖥 本地部署： 支持Docker和k8s
-- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
-- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
+### [rssbot](https://github.com/iovxw/rssbot)
 
-![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
+用于消息通知的轻量级 `Telegram RSS` 机器人。 
 
-### [paper-qa](https://github.com/whitead/paper-qa)
+### [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)
 
-用 `GPT-3` 来解读论文的开源项目：
+一个 `Calibre` 插件，可以将电子书翻译成指定的语言：
 
-![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
+支持所选翻- 译引擎所支持的语言（如 Google 翻译支持 134 种）
+- 支持多种翻译引擎，包括 Google 翻译、ChatGPT 以及 DeepL
+- 支持自定义翻译引擎（支持解析 JSON 和 XML 格式响应）
+- 支持所有 Calibre 所支持的电子书格式（输入格式 48 种，输出格式 20 种）
+- 支持批量翻译电子书，每本书的翻译过程同时进行互不影响
+- 支持缓存翻译内容，在请求失败或网络中断后无需重新翻译
+- 提供大量自定义设置，如将翻译的电子书存到 Calibre 书库或指定位置
+
+![Ebook-Translator-Calibre-Plugin](https://images-1252557999.file.myqcloud.com/uPic/Ebook-Translator-Calibre-Plugin.png) 
 
 ## 🤖 软件 
 
-### [cursor](https://github.com/getcursor/cursor)
+### [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock)
 
-一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
+一款跳过B站视频中恰饭片段的浏览器插件，移植自 [SponsorBlock](https://github.com/ajayyy/SponsorBlock)：
 
-![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
+![BilibiliSponsorBlock](https://images-1252557999.file.myqcloud.com/uPic/3iEbMD.png) 
 
-### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
+### [anx-reader](https://github.com/Anxcye/anx-reader)
 
-安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
+安读是一款专注于阅读的应用，不包含任何在线推广内容，它可以帮助你更专注于阅读，提高阅读效率：
 
-![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
+- 自动记录阅读进度，每次打开可以回到上次的进度。
+- 丰富且可自定义的阅读配色，让您的阅读更舒适。
+- 丰富的阅读设置，包括字号、行间距、字间距等，让阅读更轻松。
+- 随时在书中划线，多种样式和配色，随时回顾。
+- 强大的阅读统计，记录您的每一次阅读。
+- 丰富的阅读笔记功能，让您的阅读更深入。
+- 安读可自定义多种色彩主题，满足您的不同需求。
+- 想在夜晚更舒适的阅读？安读可以适配系统 深/浅 色模式，或手动切换。
+- 安读现已支持多语言（中、英），自动适配系统语言，亦可手动选择。
 
-### [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
+![anx-reader](https://images-1252557999.file.myqcloud.com/uPic/anx-reader.jpg) 
 
-简单的 macOS 菜单栏应用程序，可以方便地和 `Reminders` 进行交互，使用 `SwiftUI` 开发，并使用 `Apple` 提醒事项作为数据源：
+### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
 
-![reminders-menubar](https://images-1252557999.file.myqcloud.com/uPic/reminders-menubar.jpg) 
+`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
+
+![Miao](https://images-1252557999.file.myqcloud.com/uPic/Miao.png) 
 
 ## 👀 资料 
 
-### [rust-by-practice](https://github.com/sunface/rust-by-practice)
+### [reversing](https://0xinfection.github.io/reversing/)
 
-通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
+免费电子书，面向所有人的逆向工程：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/f4zLoa.png) 
+![reversing](https://images-1252557999.file.myqcloud.com/uPic/reversing.jpg) 
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
 
-### [comprehensive-rust](https://google.github.io/comprehensive-rust/welcome.html)
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
-谷歌出品的四天学习 `Rust` 👀
+### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
 
-![comprehensive-rust](https://images-1252557999.file.myqcloud.com/uPic/comprehensive-rust.jpg) 
+一份从头开始建立 `CDN` 知识体系的教程。 
 
 ## 🕸 网站 
 
-### [cursor.directory](https://cursor.directory/)
+### [rust-search-extension](https://rust.extension.sh/)
 
-基于你在用的框架或者语言，提供最好的 curson 规则。也开源在 [github](https://github.com/pontusab/cursor.directory)
+在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
 
-![cursor.directory](https://images-1252557999.file.myqcloud.com/uPic/ygOBRk.png) 
+![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
 
-### [ICO converter](https://www.icoconverter.com/)
+### [小纸条-gitcafe](https://u.gitcafe.net/)
 
-`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
+开放纯粹的资源网站：
 
-![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
+![gitcafe](https://images-1252557999.file.myqcloud.com/uPic/gitcafe.jpg) 
 
-### [go-to-library.sk](https://go-to-library.sk/#useful_link_tab)
+### [aicolors](https://aicolors.co/)
 
-`Z-Library` 官方入口页面：
+通过提示词，基于 AI 生成配色方案：
 
-![go-to-library.sk](https://images-1252557999.file.myqcloud.com/uPic/LQr3IN.png) 
+![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
 
 ## ✍️ 说明
 
