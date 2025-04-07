@@ -45,5 +45,6 @@
 }
 
 #my-popup.show {
-  display: flex; /* 显示弹窗 */
+  display: flex;
+  /* 显示弹窗 */
 }
