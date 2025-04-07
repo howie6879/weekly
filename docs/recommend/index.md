@@ -5,105 +5,99 @@
 
 ## 🎯 项目 
 
-### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+### [paper-ai](https://github.com/14790897/paper-ai)
 
-Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
+利用人工智能撰写论文
 
-你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
+- 人工智能书写功能： 点击 "AI 写作 "进行正常对话互动。人工智能将根据您的输入提供写作建议或回答问题。
+- Paper2AI功能： 点击 "Paper2AI"，根据输入的关键词在Semantic Scholar或arxiv中搜索论文。系统将把信息整合到您的论文中。
+- 介绍视频：[引用真实文献的AI写论文网站](https://www.bilibili.com/video/BV1Ya4y1k75V/)
 
-- 🌐 利用互联网进行搜索和信息收集
-- 💾 长期和短期记忆管理
-- 🧠 GPT-4实例用于文本生成
-- 🔗 访问流行的网站和平台
-- 🗃️ 使用GPT-3.5进行文件存储和摘要
+![paper-ai](https://images-1252557999.file.myqcloud.com/uPic/paper-ai.png) 
 
-![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
+### [Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals)
 
-### [rssbot](https://github.com/iovxw/rssbot)
+黑五 Mac IOS 生态相关软件打折软件汇总项目：
 
-用于消息通知的轻量级 `Telegram RSS` 机器人。 
+![Black-Friday-Deals](https://images-1252557999.file.myqcloud.com/uPic/Black-Friday-Deals.png) 
 
-### [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)
+### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
 
-一个 `Calibre` 插件，可以将电子书翻译成指定的语言：
+CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
 
-支持所选翻- 译引擎所支持的语言（如 Google 翻译支持 134 种）
-- 支持多种翻译引擎，包括 Google 翻译、ChatGPT 以及 DeepL
-- 支持自定义翻译引擎（支持解析 JSON 和 XML 格式响应）
-- 支持所有 Calibre 所支持的电子书格式（输入格式 48 种，输出格式 20 种）
-- 支持批量翻译电子书，每本书的翻译过程同时进行互不影响
-- 支持缓存翻译内容，在请求失败或网络中断后无需重新翻译
-- 提供大量自定义设置，如将翻译的电子书存到 Calibre 书库或指定位置
-
-![Ebook-Translator-Calibre-Plugin](https://images-1252557999.file.myqcloud.com/uPic/Ebook-Translator-Calibre-Plugin.png) 
+![CasaOS](https://images-1252557999.file.myqcloud.com/uPic/rA4tpa.jpg) 
 
 ## 🤖 软件 
 
-### [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock)
+### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
 
-一款跳过B站视频中恰饭片段的浏览器插件，移植自 [SponsorBlock](https://github.com/ajayyy/SponsorBlock)：
+`Clash for Android`，具有 `Clash` 的全部特性：
 
-![BilibiliSponsorBlock](https://images-1252557999.file.myqcloud.com/uPic/3iEbMD.png) 
+![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
 
-### [anx-reader](https://github.com/Anxcye/anx-reader)
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-安读是一款专注于阅读的应用，不包含任何在线推广内容，它可以帮助你更专注于阅读，提高阅读效率：
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-- 自动记录阅读进度，每次打开可以回到上次的进度。
-- 丰富且可自定义的阅读配色，让您的阅读更舒适。
-- 丰富的阅读设置，包括字号、行间距、字间距等，让阅读更轻松。
-- 随时在书中划线，多种样式和配色，随时回顾。
-- 强大的阅读统计，记录您的每一次阅读。
-- 丰富的阅读笔记功能，让您的阅读更深入。
-- 安读可自定义多种色彩主题，满足您的不同需求。
-- 想在夜晚更舒适的阅读？安读可以适配系统 深/浅 色模式，或手动切换。
-- 安读现已支持多语言（中、英），自动适配系统语言，亦可手动选择。
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
-![anx-reader](https://images-1252557999.file.myqcloud.com/uPic/anx-reader.jpg) 
+### [BBLL](https://github.com/xiaye13579/BBLL)
 
-### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
+一个第三方哔哩哔哩 `TV` 和 `Pad` 客户端，仅供学习与交流使用:
 
-`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
-
-![Miao](https://images-1252557999.file.myqcloud.com/uPic/Miao.png) 
+![BBLL](https://images-1252557999.file.myqcloud.com/uPic/BBLL.jpeg) 
 
 ## 👀 资料 
 
-### [reversing](https://0xinfection.github.io/reversing/)
+### [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
-免费电子书，面向所有人的逆向工程：
+📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
 
-![reversing](https://images-1252557999.file.myqcloud.com/uPic/reversing.jpg) 
+![CS-Notes](https://images-1252557999.file.myqcloud.com/uPic/7aMFrS.png) 
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+### [如何制作落地页](https://www.bmms.me/blog/landing-page)
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+如果你想要看到比较系统全面的落地页操作指南，这篇文章是作者小吉拆解了国内外 117 个优秀的落地页案例，总结提炼出的保姆级入门指南：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+![landing-page](https://images-1252557999.file.myqcloud.com/uPic/landing-page.jpg) 
 
-### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
+### [secguide](https://github.com/Tencent/secguide)
 
-一份从头开始建立 `CDN` 知识体系的教程。 
+面向开发人员梳理的代码安全指南，规范索引如下：
+
+- C/C++安全指南
+- JavaScript安全指南
+- Node安全指南
+- Go安全指南
+- Java安全指南
+- Python安全指南 
 
 ## 🕸 网站 
 
-### [rust-search-extension](https://rust.extension.sh/)
+### [curated.design](https://www.curated.design/)
 
-在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
+网页设计灵感目录，比较全面的设计领域导航网站：
 
-![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
+![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
 
-### [小纸条-gitcafe](https://u.gitcafe.net/)
+### [warp.dev](https://www.warp.dev/)
 
-开放纯粹的资源网站：
+一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
 
-![gitcafe](https://images-1252557999.file.myqcloud.com/uPic/gitcafe.jpg) 
+![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
 
-### [aicolors](https://aicolors.co/)
+### [xiaobot.so](https://www.xiaobot.so/)
 
-通过提示词，基于 AI 生成配色方案：
+老胡团队整的一个小报童专栏导航网站（测试一两周后就会开源，有兴趣可期待），和其他小报童导航相比：
 
-![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
+- AI 自动打标签
+- 增加订阅用户&文章更新数量趋势统计
+- 增加专栏内页，有利于 SEO
+- 更漂亮<持保留态度，但老胡是实打实请设计师帮忙设计的>
+
+![xiaobot_so](https://images-1252557999.file.myqcloud.com/uPic/xiaobot_so.jpg)
+
+如果有你适合的专栏，可以购买支持下～ 
 
 ## ✍️ 说明
 
