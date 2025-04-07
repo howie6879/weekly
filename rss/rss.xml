@@ -12,7 +12,81 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 30 Mar 2025 09:23:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 14:31:30 +0000</lastBuildDate>
+    <item>
+      <title>03-31~04-06.老胡的周刊（第183期）.md</title>
+      <link>https://weekly.howie6879.com/2025/03-31~04-06.老胡的周刊（第183期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/03-31~04-06.老胡的周刊（第183期）.html"&gt;03-31~04-06.老胡的周刊（第183期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/modoboa/modoboa"&gt;modoboa&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Modoboa&lt;/code&gt; 是一个邮件托管和管理平台，提供了一个简洁的 &lt;code&gt;Web&lt;/code&gt; 用户界面，包括管理面板、&lt;code&gt;Webmail&lt;/code&gt;、日历、地址簿等 &lt;code&gt;Sieve&lt;/code&gt; 过滤器、自动回复消息等功能：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="modoboa" src="https://images-1252557999.file.myqcloud.com/uPic/g5Spqy.png" /&gt;&lt;/p&gt;
+&lt;p&gt;其他邮件项目：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/mailcow/mailcow-dockerized"&gt;mailcow-dockerized&lt;/a&gt;：一个 Docker 环境下的邮件服务器解决方案，通过 Docker 容器化的方式，提供了一个完整的邮件服务器解决方案，包括邮件服务器的各种组件，如邮件传输、邮件存储、邮件过滤等。&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/postalserver/postal"&gt;postal&lt;/a&gt;：一个开源的邮件服务器，提供邮件接收与发送功能，可以自行搭建使用，功能齐全，类似 Sendgrid、Mailgun 或 Postmark 的服务。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href="https://github.com/sethcottle/littlelink"&gt;littlelink&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;LittleLink&lt;/code&gt; 是一个开源项目，旨在为用户提供一个简单的方式来创建和托管自己的 &lt;code&gt;Linktree&lt;/code&gt; 页面。其提供多达 100 种品牌按钮样式，通过社区共享和持续更新，同时强调易用性和可访问性。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="littlelink" src="https://images-1252557999.file.myqcloud.com/uPic/yj6EE2.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/PySpur-Dev/pyspur"&gt;pyspur&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;让用户以视觉化方式快速迭代只能图工作流程的工具，它提供了一个平台，让 AI 工程师能够在不重复基础工作的情况下，快速定义、构建、迭代和部署智能体：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pyspur" src="https://images-1252557999.file.myqcloud.com/uPic/yxko28.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pyspur-demo" src="https://images-1252557999.file.myqcloud.com/uPic/wTbNcf.png" /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ 测试驱动：构建工作流，运行测试用例，并进行迭代。&lt;/li&gt;
+&lt;li&gt;👤 人在环路中：持久化工作流，等待人工批准或拒绝。&lt;/li&gt;
+&lt;li&gt;🔄 循环：具有记忆功能的迭代工具调用。&lt;/li&gt;
+&lt;li&gt;📤 文件上传：上传文件或粘贴 URL 来处理文档。&lt;/li&gt;
+&lt;li&gt;📋 结构化输出：JSON Schema UI 编辑器。&lt;/li&gt;
+&lt;li&gt;🗃️ RAG：解析、分块、嵌入并将数据更新到向量数据库。&lt;/li&gt;
+&lt;li&gt;🖼️ 多模态：支持视频、图像、音频、文本、代码。&lt;/li&gt;
+&lt;li&gt;🧰 工具：Slack、Firecrawl.dev、Google Sheets、GitHub 等。&lt;/li&gt;
+&lt;li&gt;🧪 评估：在真实数据集上评估代理。&lt;/li&gt;
+&lt;li&gt;🚀 一键部署：发布为 API 并在任意地方集成。&lt;/li&gt;
+&lt;li&gt;🐍 基于 Python：通过创建单个 Python 文件来添加新节点。&lt;/li&gt;
+&lt;li&gt;🎛️ 供应商支持：支持超过 100 个 LLM 供应商、嵌入器和向量数据库。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/th-ch/youtube-music"&gt;youtube-music&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个 &lt;code&gt;YouTube Music&lt;/code&gt; 桌面应用程序，提供类似原生界面的 &lt;code&gt;YouTube Music&lt;/code&gt; 体验，基于 Electron 构建。&lt;/p&gt;
+&lt;p&gt;该应用集成了多种插件，包括广告屏蔽器、下载器以及其他增强功能。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;广告拦截和下载：内置广告拦截器，阻止所有广告和跟踪；支持下载音乐（如 MP3、Opus 格式）。&lt;/li&gt;
+&lt;li&gt;自定义插件：提供 31 个插件，例如 Discord 富存在、音频压缩、专辑颜色主题等，用户可一键启用或禁用。&lt;/li&gt;
+&lt;li&gt;跨平台支持：可在 Windows（提供安装版和便携版）、macOS 和 Linux（提供 AppImage、deb 等）上运行。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="youtube-music" src="https://images-1252557999.file.myqcloud.com/uPic/Zzzdlh.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/xpf0000/FlyEnv"&gt;FlyEnv&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;FlyEnv&lt;/code&gt; 是一个集成环境管理工具，支持 &lt;code&gt;macOS、Windows &amp;amp; Linux&lt;/code&gt; 系统，提供多语言和技术栈支持，包括 PHP 工具、Web 服务器、数据库、邮件服务器等，简化了开发环境的配置和切换:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="FlyEnv" src="https://images-1252557999.file.myqcloud.com/uPic/WMQbSK.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/microsoft/ai-agents-for-beginners"&gt;ai-agents-for-beginners&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;由 &lt;code&gt;Microsoft&lt;/code&gt; 提供的教程，旨在帮助初学者通过 10 个课程了解如何构建 AI 代理:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ai-agents-for-beginners" src="https://images-1252557999.file.myqcloud.com/uPic/iDWOwA.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/datawhalechina/llm-cookbook"&gt;llm-cookbook&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="llm-cookbook" src="https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://toptimeline.net/zh"&gt;toptimeline&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;探索世界最著名的流行歌手、运动员和历史人物的关键事件与个人里程碑：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="toptimeline" src="https://images-1252557999.file.myqcloud.com/uPic/crwphb.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">03-31~04-06.老胡的周刊（第183期）.md</guid>
+      <pubDate>Sun, 06 Apr 2025 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>03-24~03-30.老胡的周刊（第182期）.md</title>
       <link>https://weekly.howie6879.com/2025/03-24~03-30.老胡的周刊（第182期）.html</link>
@@ -1257,69 +1331,6 @@
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">10-14~10-20.老胡的周刊（第164期）.md</guid>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>10-07~10-13.老胡的周刊（第163期）.md</title>
-      <link>https://weekly.howie6879.com/2024/10-07~10-13.老胡的周刊（第163期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/10-07~10-13.老胡的周刊（第163期）.html"&gt;10-07~10-13.老胡的周刊（第163期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/KoriIku/luxirty-search"&gt;luxirty-search&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="luxirty-search" src="https://images-1252557999.file.myqcloud.com/uPic/TSeOpC.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/seriousm4x/UpSnap"&gt;UpSnap&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;UpSnap&lt;/code&gt; 是一个基于 &lt;code&gt;SvelteKit、Go &amp;amp; PocketBase&lt;/code&gt; 开发的简单唤醒设备（Wake-on-LAN）&lt;code&gt;Web&lt;/code&gt; 应用程序，支持自动化定时事件、端口检测、网络扫描发现设备、用户管理、国际化支持、主题选择以及 &lt;code&gt;Docker&lt;/code&gt; 部署。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="UpSnap" src="https://images-1252557999.file.myqcloud.com/uPic/tzz1z0.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/SkyD666/AniVu"&gt;AniVu&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;AniVu&lt;/code&gt; 是一个集成了 &lt;code&gt;RSS&lt;/code&gt; 订阅、自动更新、&lt;code&gt;BitTorrent&lt;/code&gt; 下载和视频播放功能的全能型 &lt;code&gt;Android&lt;/code&gt; 应用程序：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;订阅 RSS、更新 RSS、阅读 RSS&lt;/li&gt;
-&lt;li&gt;自动更新 RSS 订阅&lt;/li&gt;
-&lt;li&gt;下载 RSS 文章中的 BT 种子或磁力链接附件（enclosure 标签）&lt;/li&gt;
-&lt;li&gt;已下载文件做种&lt;/li&gt;
-&lt;li&gt;播放媒体附件或已下载的媒体文件&lt;/li&gt;
-&lt;li&gt;更改播放速度、设置音轨、字幕轨道等&lt;/li&gt;
-&lt;li&gt;双指旋转缩放视频画面、长按视频倍速播放&lt;/li&gt;
-&lt;li&gt;滑动调整音量、屏幕亮度和播放位置&lt;/li&gt;
-&lt;li&gt;支持搜索已获取的 RSS 订阅或文章&lt;/li&gt;
-&lt;li&gt;播放手机中的其他视频&lt;/li&gt;
-&lt;li&gt;支持自定义 MPV 播放器&lt;/li&gt;
-&lt;li&gt;支持通过 OPML 导入导出订阅&lt;/li&gt;
-&lt;li&gt;支持深色模式&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="AniVu" src="https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-1-4911250770779811003-y.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/open-ani/ani"&gt;ani&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;集找番、追番、看番的一站式弹幕追番平台：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ani" src="https://images-1252557999.file.myqcloud.com/uPic/Ff1VoV.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/chenfan0/fideo-live-record"&gt;fideo-live-record&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;这是一个基于 &lt;code&gt;React Ffmpeg Electron Shadcn&lt;/code&gt; 的直播录制软件。支持监控直播，可以帮助用户简单便捷对直播进行录制并保存为&lt;code&gt;MP4&lt;/code&gt; 格式的视频：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="fideo-live-record" src="https://images-1252557999.file.myqcloud.com/uPic/tCaYMt.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/muziing/PySide6-Code-Tutorial"&gt;PySide6-Code-Tutorial&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;用代码实例讲解PySide6，附优质Demos、图标库、QSS皮肤、相关文章等分享：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="PySide6-Code-Tutorial" src="https://images-1252557999.file.myqcloud.com/uPic/UqIUuM.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://open-source-license-chooser.toolsnav.top/zh/"&gt;开源许可证选择器&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;快速明确自己想要的开源许可证：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="open-source-license-chooser.toolsnav" src="https://images-1252557999.file.myqcloud.com/uPic/7Zi7pN.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://wenku.docs.qq.com/"&gt;腾讯文库&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;腾讯文库——专业权威的内容消费与发布平台：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="wenku" src="https://images-1252557999.file.myqcloud.com/uPic/CL5bpt.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">10-07~10-13.老胡的周刊（第163期）.md</guid>
-      <pubDate>Sun, 13 Oct 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
