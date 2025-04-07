@@ -5,99 +5,102 @@
 
 ## 🎯 项目 
 
-### [paper-ai](https://github.com/14790897/paper-ai)
+### [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt)
 
-利用人工智能撰写论文
+🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 
-- 人工智能书写功能： 点击 "AI 写作 "进行正常对话互动。人工智能将根据您的输入提供写作建议或回答问题。
-- Paper2AI功能： 点击 "Paper2AI"，根据输入的关键词在Semantic Scholar或arxiv中搜索论文。系统将把信息整合到您的论文中。
-- 介绍视频：[引用真实文献的AI写论文网站](https://www.bilibili.com/video/BV1Ya4y1k75V/)
+![feishu-chatgpt](https://images-1252557999.file.myqcloud.com/uPic/feishu-chatgpt.png) 
 
-![paper-ai](https://images-1252557999.file.myqcloud.com/uPic/paper-ai.png) 
+### [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
 
-### [Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals)
+🎨 一键拥有你自己的 `ChatGPT+Midjourney` 网页服务：
 
-黑五 Mac IOS 生态相关软件打折软件汇总项目：
+-  原ChatGPT-Next-Web所有功能
+-  midjourney imagin 想象
+-  midjourney upscale 放大
+-  midjourney variation 变幻
+-  midjourney describe 识图
+-  midjourney blend 混图
+-  midjourney 垫图
+-  绘图进度百分比、实时图像显示
 
-![Black-Friday-Deals](https://images-1252557999.file.myqcloud.com/uPic/Black-Friday-Deals.png) 
+![ChatGPT-Midjourney](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Midjourney.png) 
 
-### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
+### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
 
-CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
+读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
 
-![CasaOS](https://images-1252557999.file.myqcloud.com/uPic/rA4tpa.jpg) 
+![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
 
 ## 🤖 软件 
 
-### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
+### [Cider](https://github.com/ciderapp/Cider)
 
-`Clash for Android`，具有 `Clash` 的全部特性：
+一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
 
-![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
+![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
 
-### [LANDrop](https://github.com/LANDrop/LANDrop)
+### [DevToys](https://github.com/veler/DevToys)
 
-开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
+Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
 
-![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/DevToys.png)
 
-### [BBLL](https://github.com/xiaye13579/BBLL)
+可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
 
-一个第三方哔哩哔哩 `TV` 和 `Pad` 客户端，仅供学习与交流使用:
+![](https://images-1252557999.file.myqcloud.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
 
-![BBLL](https://images-1252557999.file.myqcloud.com/uPic/BBLL.jpeg) 
+放心体验吧~ 
+
+### [weektodo](https://weektodo.me/)
+
+`WeekToDo` 是一个免费且开源&跨平台的极简周计划软件，您可以以简单直观的方式定义和管理您的周计划和任务，从而提高您的工作效率：
+
+![weektodo](https://images-1252557999.file.myqcloud.com/uPic/weektodo.jpg) 
 
 ## 👀 资料 
 
-### [CS-Notes](https://github.com/CyC2018/CS-Notes)
+### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
 
-📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
+该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
 
-![CS-Notes](https://images-1252557999.file.myqcloud.com/uPic/7aMFrS.png) 
+### [easy_rust](https://github.com/Dhghomon/easy_rust)
 
-### [如何制作落地页](https://www.bmms.me/blog/landing-page)
+现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
 
-如果你想要看到比较系统全面的落地页操作指南，这篇文章是作者小吉拆解了国内外 117 个优秀的落地页案例，总结提炼出的保姆级入门指南：
+你可以用以下方式浏览：
 
-![landing-page](https://images-1252557999.file.myqcloud.com/uPic/landing-page.jpg) 
+- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
+- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
+- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
 
-### [secguide](https://github.com/Tencent/secguide)
+![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
 
-面向开发人员梳理的代码安全指南，规范索引如下：
+### [free-for-dev](https://github.com/ripienaar/free-for-dev)
 
-- C/C++安全指南
-- JavaScript安全指南
-- Node安全指南
-- Go安全指南
-- Java安全指南
-- Python安全指南 
+对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
+
+![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
 
 ## 🕸 网站 
 
-### [curated.design](https://www.curated.design/)
+### [react-tetris](https://github.com/chvin/react-tetris)
 
-网页设计灵感目录，比较全面的设计领域导航网站：
+用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
 
-![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
+![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
 
-### [warp.dev](https://www.warp.dev/)
+### [gh-card.dev](https://gh-card.dev/)
 
-一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
+免费为你的 `Github` 开源项目生成卡片的网站：
 
-![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
+![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
 
-### [xiaobot.so](https://www.xiaobot.so/)
+### [favicon.im](https://favicon.im/)
 
-老胡团队整的一个小报童专栏导航网站（测试一两周后就会开源，有兴趣可期待），和其他小报童导航相比：
+快速获取网站 LOGO:
 
-- AI 自动打标签
-- 增加订阅用户&文章更新数量趋势统计
-- 增加专栏内页，有利于 SEO
-- 更漂亮<持保留态度，但老胡是实打实请设计师帮忙设计的>
-
-![xiaobot_so](https://images-1252557999.file.myqcloud.com/uPic/xiaobot_so.jpg)
-
-如果有你适合的专栏，可以购买支持下～ 
+![favicon.im](https://images-1252557999.file.myqcloud.com/uPic/FSVgaW.png) 
 
 ## ✍️ 说明
 
