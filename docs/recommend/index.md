@@ -5,102 +5,96 @@
 
 ## 🎯 项目 
 
-### [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt)
+### [docker-wechat](https://github.com/huan/docker-wechat)
 
-🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+盒装微信，在linux下基于Docker技术使用微信客户端：
 
-![feishu-chatgpt](https://images-1252557999.file.myqcloud.com/uPic/feishu-chatgpt.png) 
+![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
 
-### [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
+### [Scrapling](https://github.com/D4Vinci/Scrapling)
 
-🎨 一键拥有你自己的 `ChatGPT+Midjourney` 网页服务：
+`D4Vinci/Scrapling` 是一个为 `Python` 提供高性能、不易被检测、适应性强的网页爬虫库，旨在应对反爬虫保护和网页结构变化的挑战。 
 
--  原ChatGPT-Next-Web所有功能
--  midjourney imagin 想象
--  midjourney upscale 放大
--  midjourney variation 变幻
--  midjourney describe 识图
--  midjourney blend 混图
--  midjourney 垫图
--  绘图进度百分比、实时图像显示
+### [novel](https://github.com/steven-tey/novel)
 
-![ChatGPT-Midjourney](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Midjourney.png) 
+具有类似 `NotionAI` 自动补全功能的所见即所得编辑器，可直接在线体验 [novel.sh](https://novel.sh/) ：
 
-### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
-
-读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
-
-![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
+![opengraph-image](https://images-1252557999.file.myqcloud.com/uPic/opengraph-image.png) 
 
 ## 🤖 软件 
 
-### [Cider](https://github.com/ciderapp/Cider)
+### [flutter_server_box](https://github.com/lollipopkit/flutter_server_box/blob/main/README_zh.md)
 
-一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
+使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具：
 
-![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
+-  功能
+	-  SSH 终端, SFTP
+	-  Docker & 包 管理器
+	-  状态图表
+	-  代码编辑器
+	-  Ping 和 更多
+-  本地化 ( English, 简体中文, Deutsch, 繁體中文)
+-  桌面端支持
 
-### [DevToys](https://github.com/veler/DevToys)
+![flutter_server_box](https://images-1252557999.file.myqcloud.com/uPic/flutter_server_box.jpg) 
 
-Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
+### [163MusicLyrics](https://github.com/jitwxs/163MusicLyrics)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/DevToys.png)
+Windows 云音乐歌词获取【网易云、QQ音乐】:
 
-可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
+![163MusicLyrics](https://images-1252557999.file.myqcloud.com/uPic/JElaUM.png) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
+### [Yank Note](https://github.com/purocean/yn)
 
-放心体验吧~ 
+一款面向程序员的 `Markdown` 笔记应用，全平台支持：
 
-### [weektodo](https://weektodo.me/)
+- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
+- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
+- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
+- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
+- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
 
-`WeekToDo` 是一个免费且开源&跨平台的极简周计划软件，您可以以简单直观的方式定义和管理您的周计划和任务，从而提高您的工作效率：
-
-![weektodo](https://images-1252557999.file.myqcloud.com/uPic/weektodo.jpg) 
+![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
 
 ## 👀 资料 
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+### [Easy搞定Golang设计模式](https://www.yuque.com/aceld/lfhu8y/rg6nsf)
 
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+一份Golang设计模式教程：
 
-### [easy_rust](https://github.com/Dhghomon/easy_rust)
+![Easy搞定Golang设计模式](https://images-1252557999.file.myqcloud.com/uPic/Easy搞定Golang设计模式.jpg) 
 
-现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
+### [one-python-craftsman](https://github.com/piglei/one-python-craftsman)
 
-你可以用以下方式浏览：
+来自一位 `Pythonista` 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面：
 
-- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
-- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
-- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
+![one-python-craftsman](https://images-1252557999.file.myqcloud.com/uPic/one-python-craftsman.jpg) 
 
-![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
+### [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)
 
-### [free-for-dev](https://github.com/ripienaar/free-for-dev)
+从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 `PDF`:
 
-对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
-
-![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
+![what_are_embeddings](https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg) 
 
 ## 🕸 网站 
 
-### [react-tetris](https://github.com/chvin/react-tetris)
+### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
 
-用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
+文字生成图片网站，效果和速度都还可以：
 
-![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
+![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
 
-### [gh-card.dev](https://gh-card.dev/)
+### [免费 LLM API 调用限制汇总](https://www.freeaihunter.com/)
 
-免费为你的 `Github` 开源项目生成卡片的网站：
+一个可以免费使用的大模型 API 合集网站：
 
-![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
+![freeaihunter](https://images-1252557999.file.myqcloud.com/uPic/ixNx89.png) 
 
-### [favicon.im](https://favicon.im/)
+### [codrops](https://tympanus.net/codrops/demos/)
 
-快速获取网站 LOGO:
+可免费下载使用的原型动画 UI 布局（ 500+ free demos）：
 
-![favicon.im](https://images-1252557999.file.myqcloud.com/uPic/FSVgaW.png) 
+![6690d09244aa9](https://img.fre123.com/i/2024/07/12/6690d09244aa9.jpg) 
 
 ## ✍️ 说明
 
