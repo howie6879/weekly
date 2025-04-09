@@ -5,96 +5,94 @@
 
 ## 🎯 项目 
 
-### [docker-wechat](https://github.com/huan/docker-wechat)
+### [olmOCR-7B](https://huggingface.co/allenai/olmOCR-7B-0225-preview)
 
-盒装微信，在linux下基于Docker技术使用微信客户端：
+`olmOCR` 在250000页的数据集上微调了`Qwen2-VL-7B-Instruct` 模型，旨在将 `PDF` 和文档图像转换为干净且结构化的纯文本：
 
-![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
+![olmOCR](https://img.api123.pro/i/2025/03/15/67d5044a829bd.png) 
 
-### [Scrapling](https://github.com/D4Vinci/Scrapling)
+### [simple-one-api](https://github.com/fruitbars/simple-one-api)
 
-`D4Vinci/Scrapling` 是一个为 `Python` 提供高性能、不易被检测、适应性强的网页爬虫库，旨在应对反爬虫保护和网页结构变化的挑战。 
+OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用。 
 
-### [novel](https://github.com/steven-tey/novel)
+### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
 
-具有类似 `NotionAI` 自动补全功能的所见即所得编辑器，可直接在线体验 [novel.sh](https://novel.sh/) ：
+该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
 
-![opengraph-image](https://images-1252557999.file.myqcloud.com/uPic/opengraph-image.png) 
+![computer_book_list](https://images-1252557999.file.myqcloud.com/uPic/uxQa5E.png) 
 
 ## 🤖 软件 
 
-### [flutter_server_box](https://github.com/lollipopkit/flutter_server_box/blob/main/README_zh.md)
+### [MyBrain](https://github.com/mhss1/MyBrain)
 
-使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具：
+开源的、多合一的生产力应用，包括任务、笔记、日历、日记和书签：
 
--  功能
-	-  SSH 终端, SFTP
-	-  Docker & 包 管理器
-	-  状态图表
-	-  代码编辑器
-	-  Ping 和 更多
--  本地化 ( English, 简体中文, Deutsch, 繁體中文)
--  桌面端支持
+- 完全私密，不收集任何数据，也没有任何互联网权限。
+- 创建具有优先级、子任务、描述、截止日期和提醒的任务。
+- 创建支持Markdown的笔记，可以使用标题、列表、链接等功能。
+- 每天记录你的心情，并通过美丽的图表查看你的心情总结。
+- 通过使用其他应用程序的共享菜单，将书签保存到稍后阅读。
+- 以现代视图查看您的日历事件，并使用漂亮的主屏幕小部件。
+- 仪表盘屏幕可一目了然地查看您的任务、日历事件等，让您了解当天的安排。
 
-![flutter_server_box](https://images-1252557999.file.myqcloud.com/uPic/flutter_server_box.jpg) 
+![mybrain](https://images-1252557999.file.myqcloud.com/uPic/mybrain.png) 
 
-### [163MusicLyrics](https://github.com/jitwxs/163MusicLyrics)
+### [MiaoProject](https://github.com/Paladinfeng/MiaoProject)
 
-Windows 云音乐歌词获取【网易云、QQ音乐】:
+`Miao Project` 为 `Bilibili` 在 `tvOS` 上的第三方的客户端，作者真是用爱发电:
 
-![163MusicLyrics](https://images-1252557999.file.myqcloud.com/uPic/JElaUM.png) 
+![Miao](https://images-1252557999.file.myqcloud.com/uPic/Miao.png) 
 
-### [Yank Note](https://github.com/purocean/yn)
+### [gitbutler](https://github.com/gitbutlerapp/gitbutler)
 
-一款面向程序员的 `Markdown` 笔记应用，全平台支持：
+Git 分支管理工具，从头开始构建，用于现代工作流：
 
-- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
-- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
-- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
-- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
-- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
-
-![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
+![gitbutler](https://images-1252557999.file.myqcloud.com/uPic/gitbutler.jpg) 
 
 ## 👀 资料 
 
-### [Easy搞定Golang设计模式](https://www.yuque.com/aceld/lfhu8y/rg6nsf)
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-一份Golang设计模式教程：
+深度学习入门教程资料聚合项目，包含：
 
-![Easy搞定Golang设计模式](https://images-1252557999.file.myqcloud.com/uPic/Easy搞定Golang设计模式.jpg) 
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
 
-### [one-python-craftsman](https://github.com/piglei/one-python-craftsman)
+![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
 
-来自一位 `Pythonista` 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面：
+![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
 
-![one-python-craftsman](https://images-1252557999.file.myqcloud.com/uPic/one-python-craftsman.jpg) 
+### [English-Writing](https://github.com/yzy1996/English-Writing)
 
-### [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)
+本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
-从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 `PDF`:
+### [穷佐罗的Linux书](https://zorrozou.github.io/)
 
-![what_are_embeddings](https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg) 
+穷佐罗的Linux书，挺不错的一份`Linux`教程。
+
+![zorrozou](https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg) 
 
 ## 🕸 网站 
 
-### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
+### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
 
-文字生成图片网站，效果和速度都还可以：
+唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
 
-![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
+![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
 
-### [免费 LLM API 调用限制汇总](https://www.freeaihunter.com/)
+### [z2h 字帖](https://paper.z2h.cn/)
 
-一个可以免费使用的大模型 API 合集网站：
+用正确的方法刻意练习，每个人都能写出一手漂亮的字，自定义字帖字体和内容，可打印导出练字：
 
-![freeaihunter](https://images-1252557999.file.myqcloud.com/uPic/ixNx89.png) 
+![z2h](https://images-1252557999.file.myqcloud.com/uPic/z2h.jpg) 
 
-### [codrops](https://tympanus.net/codrops/demos/)
+### [Python Tutor](https://pythontutor.com/?)
 
-可免费下载使用的原型动画 UI 布局（ 500+ free demos）：
+这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
 
-![6690d09244aa9](https://img.fre123.com/i/2024/07/12/6690d09244aa9.jpg) 
+![Python Tutor](https://images-1252557999.file.myqcloud.com/uPic/hIdiXA.png) 
 
 ## ✍️ 说明
 
