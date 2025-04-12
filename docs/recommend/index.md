@@ -5,117 +5,95 @@
 
 ## 🎯 项目 
 
-### [shiori](https://github.com/go-shiori/shiori)
+### [50projects50days](https://github.com/bradtraversy/50projects50days)
 
-开源自部署的书签管理服务：
+50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
 
-![shiori](https://images-1252557999.file.myqcloud.com/uPic/shiori.jpg) 
+![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
 
-### [logto](https://github.com/logto-io/logto)
+### [newsnow](https://github.com/ourongxing/newsnow)
 
-`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
+优雅地阅读实时热门新闻：
 
-核心功能：
+- 优雅的设计，优雅的阅读体验，时刻关注最新最热的新闻。
+- 支持 Github 登录，支持数据同步。
+- 默认 30 分钟缓存，登录用户可以强制拉取最新数据。但也会根据内容源的更新间隔设置不同的爬虫间隔时间（最快两分钟），节约资源的同时避免频繁爬取而导致 IP 封禁。
 
-- 一个基于 `OIDC` 的身份服务
-- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
-- 动态短信/邮件验证码登录/注册
-- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
-- 基于 web 的图形化管理控制台
-- 可扩展的多语言支持
+![newsnow](https://images-1252557999.file.myqcloud.com/uPic/reaQ9I.png) 
 
-![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
+### [TagStudio](https://github.com/TagStudioDev/TagStudio)
 
-### [ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot)
+一个以用户为中心的照片和文件管理系统：
 
-`Win PC` 微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装 `COM` 接口供 `Python、C#` 调用：
-
-- 获取通讯录
-- 发送文本、图片、文件、xml文章、名片、群艾特消息
-- 根据wxid查询好友信息
-- 根据群ID获取所有群成员wxid
-- 检测好友状态（是否好友、被删除、被拉黑）
-- 接收各类消息，可写回调函数进行处理
-- 封装COM接口，方便使用自己喜欢的语言进行调用
-- 群管理
-- 微信多开 
+![TagStudio](https://images-1252557999.file.myqcloud.com/uPic/TagStudio.jpeg) 
 
 ## 🤖 软件 
 
-### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+### [tiny-rdm](https://github.com/tiny-craft/tiny-rdm)
 
-科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
+`Tiny RDM` 是一款适用于 `Mac、 Windows & Linux` 的现代轻量级跨平台 `Redis` 桌面管理器：
 
-![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
+![tiny-rdm](https://images-1252557999.file.myqcloud.com/uPic/tiny-rdm.png)
 
-还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
+同类型软件还推荐[AnotherRedisDesktopManager](https://weekly.howie6879.com/2022/04-25~05-01.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC037%E6%9C%9F%EF%BC%89.html#anotherredisdesktopmanager)。 
 
-### [staxrip](https://github.com/staxrip/staxrip)
+### [epubkit](https://beta.epubkit.app/)
 
-`StaxRip` 是一个强大的用于 `Windows` 的视频/音频编码图形用户界面。
-它执行和控制诸如 `x265、mkvmerge、ffmpeg` 等控制台应用程序，并使用基于脚本的帧服务器 A`viSynth+和VapourSynth` 进行视频处理。每个项目还可以通过各种事件和设置进行扩展：
+挺多人有这种需求的，将网页转化成电子书：
 
-![staxrip](https://images-1252557999.file.myqcloud.com/uPic/staxrip.jpg) 
+![epubkit](https://images-1252557999.file.myqcloud.com/uPic/epubkit.png)
 
-### [enchanted](https://github.com/AugustDev/enchanted)
+之前推荐的 [EpubPress](https://epub.press/) 也是类似功能，可以结合在一起体验试试。 
 
-一个开源的 `macOS/iOS/visionOS` 应用程序，专为与私人托管模型（如 `Llama 2、Mistral、Vicuna、Starling` 等）一起工作而设计。它的界面类似于 `ChatGPT` 应用，可连接到您的私人模型：
+### [Librum](https://github.com/Librum-Reader/Librum)
 
-![enchanted](https://img.fre123.com/i/2024/07/12/6690f54b93ccc.jpg) 
+`Librum` 是一个旨在让每个人都能轻松愉快地阅读的应用程序。它不仅仅是一个电子书阅读器，更是一个功能强大的工具。
+
+使用 `Librum`，您可以随时随地管理您的在线书库，并且可以从任何设备方便地访问它。此外，`Librum` 还提供了多种功能，如笔记、书签和文本突出显示等，同时还允许您自定义界面，使其完全适应您的需求和喜好：
+
+![Librum](https://images-1252557999.file.myqcloud.com/uPic/Librum.png) 
 
 ## 👀 资料 
 
-### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
+### [moderncss](https://moderncss.dev/)
 
-这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
+一份现代 `CSS` 教程，偏向有 `CSS` 的基础的前端开发者：
 
-- 👋 入门
-- 💬 大语言模型
-	- 💡 提示工程
-	- 🔧 大语言模型实践
-	- 🔬 大语言模型理论
-- 🎨 AI绘画
-- 🔊 AI音频
-- 🌈 多模态
-- 🧠 深度学习
-- 💻 AI系统 
+![moderncss](https://images-1252557999.file.myqcloud.com/uPic/moderncss.jpg) 
 
-### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
+### [prompt-tuning-playbook](https://github.com/varungodbole/prompt-tuning-playbook)
 
-《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
+项目主要提供了一份针对后训练大型语言模型（LLMs）的有效提示技术指南，旨在帮助用户更好地理解和应用这些模型。
 
-![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
+后训练使得 LLMs 能够更好地遵循指令、匹配现实世界、保持安全等，这些行为包括但不限于格式遵循、指令执行、事实准确性和安全性。 
 
-### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
+### [agents-course](https://huggingface.co/learn/agents-course/unit0/introduction)
 
-中国5级行政区域mysql库：
+🤗 AI Agents Course 是一个旨在从基础到高级教授人工智能代理（Agents）的免费课程，涵盖理论、设计和实践，并提供使用流行库（如 smolagents、LangChain 和 LlamaIndex）的实战演练，以及通过挑战赛和社区贡献来提升学习体验。
 
-- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
-- 港澳地区的数据只有3级;台湾地区4级
-- 包含大陆地区的邮政编码和经纬度信息 
+![agents-course](https://images-1252557999.file.myqcloud.com/uPic/AcJZte.png) 
 
 ## 🕸 网站 
 
-### [aicodeconvert](https://aicodeconvert.com/)
+### [douyin.wtf](https://douyin.wtf/)
 
-[开源](https://github.com/JustAIGithub/AI-Code-Convert)的的 `AI` 代码转换工具，基于 `GPT` 实现：
+网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
 
-- 自然语言转代码，描述需求就生成对应的代码
-- 把代码一键转换为另一种代码语言实现
+![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
 
-![aicodeconvert](https://images-1252557999.file.myqcloud.com/uPic/aicodeconvert.jpg) 
+### [dbbqb](https://www.dbbqb.com/)
 
-### [trending.design](https://trending.design/)
+专业的表情包搜索网站：
 
-收集一些在 𝕏(twitter) 上的最佳设计灵感：
+![dbbqb](https://images-1252557999.file.myqcloud.com/uPic/dbbqb.jpg) 
 
-![trending.design](https://images-1252557999.file.myqcloud.com/uPic/trending.design.jpg) 
+### [unDraw](https://undraw.co/illustrations)
 
-### [khroma](https://www.khroma.co/)
+你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
 
-人工智能配色网站：
+如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
 
-![khroma](https://images-1252557999.file.myqcloud.com/uPic/khroma.jpg) 
+![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
 
 ## ✍️ 说明
 
