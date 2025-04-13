@@ -5,95 +5,92 @@
 
 ## 🎯 项目 
 
-### [50projects50days](https://github.com/bradtraversy/50projects50days)
+### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
 
-50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
+🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
 
-![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
+| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
+| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
+| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
+| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
+| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
 
-### [newsnow](https://github.com/ourongxing/newsnow)
+### [stablog](https://github.com/YaoZeyuan/stablog)
 
-优雅地阅读实时热门新闻：
+稳部落项目是一个基于微博现有接口和 TypeScript 构建的工具，旨在为微博用户提供便捷的微博记录备份与导出服务。 
 
-- 优雅的设计，优雅的阅读体验，时刻关注最新最热的新闻。
-- 支持 Github 登录，支持数据同步。
-- 默认 30 分钟缓存，登录用户可以强制拉取最新数据。但也会根据内容源的更新间隔设置不同的爬虫间隔时间（最快两分钟），节约资源的同时避免频繁爬取而导致 IP 封禁。
+### [public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
 
-![newsnow](https://images-1252557999.file.myqcloud.com/uPic/reaQ9I.png) 
+有一些 `Docker` 镜像托管在 `gcr.io`，这样国内下载就会很不方便，使用这个项目就可以快速下载，简单加个前缀就行：
 
-### [TagStudio](https://github.com/TagStudioDev/TagStudio)
+```shell
+k8s.gcr.io/coredns/coredns => m.daocloud.io/k8s.gcr.io/coredns/coredns
+```
 
-一个以用户为中心的照片和文件管理系统：
+其他资源：
 
-![TagStudio](https://images-1252557999.file.myqcloud.com/uPic/TagStudio.jpeg) 
+- 常用镜像仓库：[一些国内镜像源](https://gist.github.com/qwfys/aec4d2ab79281aeafebdb40b22d0b748)
+- [x-mirrors/gcr.io](https://github.com/x-mirrors/gcr.io) 
 
 ## 🤖 软件 
 
-### [tiny-rdm](https://github.com/tiny-craft/tiny-rdm)
+### [AdAway](https://github.com/AdAway/AdAway)
 
-`Tiny RDM` 是一款适用于 `Mac、 Windows & Linux` 的现代轻量级跨平台 `Redis` 桌面管理器：
+是一款免费且开源的 `Android` 广告拦截器：
 
-![tiny-rdm](https://images-1252557999.file.myqcloud.com/uPic/tiny-rdm.png)
+![AdAway](https://images-1252557999.file.myqcloud.com/uPic/AdAway.jpg) 
 
-同类型软件还推荐[AnotherRedisDesktopManager](https://weekly.howie6879.com/2022/04-25~05-01.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC037%E6%9C%9F%EF%BC%89.html#anotherredisdesktopmanager)。 
+### [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
 
-### [epubkit](https://beta.epubkit.app/)
+一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒：
 
-挺多人有这种需求的，将网页转化成电子书：
+- 一键快速下载、安装、激活最新版 Microsoft Office 软件。
+- 用户可在安装 Word、PPT、Excel 的同时，根据软件提示，自助安装其它组件，包括： Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype
+- 工具可自动识别不同的操作系统架构，自动下载适配版本的 Office。
+- 本工具激活 Office 的方式为正版激活模式，不会篡改任何系统文件。
+- 当系统中存在多个冗余 Office 版本时，本工具在用户同意的情况下，可实现自动升级。 
 
-![epubkit](https://images-1252557999.file.myqcloud.com/uPic/epubkit.png)
+### [breezy-weather](https://github.com/breezy-weather/breezy-weather/)
 
-之前推荐的 [EpubPress](https://epub.press/) 也是类似功能，可以结合在一起体验试试。 
+`Breezy Weather` 是一款全面采用 `Material Design` 设计风格的天气应用，其注重设计，UI简洁，动画效果流畅：
 
-### [Librum](https://github.com/Librum-Reader/Librum)
-
-`Librum` 是一个旨在让每个人都能轻松愉快地阅读的应用程序。它不仅仅是一个电子书阅读器，更是一个功能强大的工具。
-
-使用 `Librum`，您可以随时随地管理您的在线书库，并且可以从任何设备方便地访问它。此外，`Librum` 还提供了多种功能，如笔记、书签和文本突出显示等，同时还允许您自定义界面，使其完全适应您的需求和喜好：
-
-![Librum](https://images-1252557999.file.myqcloud.com/uPic/Librum.png) 
+![breezy-weather](https://images-1252557999.file.myqcloud.com/uPic/breezy-weather.jpg) 
 
 ## 👀 资料 
 
-### [moderncss](https://moderncss.dev/)
+### [tmplink/ipv6](https://github.com/tmplink/ipv6)
 
-一份现代 `CSS` 教程，偏向有 `CSS` 的基础的前端开发者：
+本文档主要讲解 IPv6 的一些皮毛知识，主要是让读者理解 IPv6 地址的一些概念，诸如前缀，子网，接口。 
 
-![moderncss](https://images-1252557999.file.myqcloud.com/uPic/moderncss.jpg) 
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-### [prompt-tuning-playbook](https://github.com/varungodbole/prompt-tuning-playbook)
+一份程序员延寿指南，目标是稳健地活得更久。 
 
-项目主要提供了一份针对后训练大型语言模型（LLMs）的有效提示技术指南，旨在帮助用户更好地理解和应用这些模型。
+### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
 
-后训练使得 LLMs 能够更好地遵循指令、匹配现实世界、保持安全等，这些行为包括但不限于格式遵循、指令执行、事实准确性和安全性。 
+一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
 
-### [agents-course](https://huggingface.co/learn/agents-course/unit0/introduction)
-
-🤗 AI Agents Course 是一个旨在从基础到高级教授人工智能代理（Agents）的免费课程，涵盖理论、设计和实践，并提供使用流行库（如 smolagents、LangChain 和 LlamaIndex）的实战演练，以及通过挑战赛和社区贡献来提升学习体验。
-
-![agents-course](https://images-1252557999.file.myqcloud.com/uPic/AcJZte.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
 
 ## 🕸 网站 
 
-### [douyin.wtf](https://douyin.wtf/)
+### [onepdf](https://www.onepdf.online/)
 
-网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
+免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
 
-![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
+![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
 
-### [dbbqb](https://www.dbbqb.com/)
+### [wantquotes.net](https://wantquotes.net/)
 
-专业的表情包搜索网站：
+清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
 
-![dbbqb](https://images-1252557999.file.myqcloud.com/uPic/dbbqb.jpg) 
+![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
 
-### [unDraw](https://undraw.co/illustrations)
+### [xiake.pro](https://xiake.pro/)
 
-你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
+虾壳是一个GitHub下载加速网站，提供GitHub文件加速服务，支持API、Git以及Releases、 Archive、gist、raw.githubusercontent.com等文件代理加速下载。
 
-如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
-
-![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
+![xiake](https://images-1252557999.file.myqcloud.com/uPic/quiQlF.png) 
 
 ## ✍️ 说明
 
