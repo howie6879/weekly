@@ -5,96 +5,104 @@
 
 ## 🎯 项目 
 
-### [markwhen](https://github.com/mark-when/markwhen)
+### [cloud_dns_exporter](https://github.com/eryajf/cloud_dns_exporter)
 
-`Markwhen` 是一个交互式的文本到时间轴工具，`用户只需要编写类似于Markdown` 的文本，它就会转换成一个漂亮的级联时间轴：
+周刊群友**二丫讲梵**的开源项目，自动获取 DNS 提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为 Prometheus Metrics。已支持：Tencent，Aliyun，Godaddy，Aws：
 
-![markwhen](https://images-1252557999.file.myqcloud.com/uPic/markwhen.jpg) 
+![G6dYsS](https://images-1252557999.file.myqcloud.com/uPic/G6dYsS.png) 
 
-### [Piwigo](https://github.com/Piwigo/Piwigo)
+### [Linux-CN-archive](https://github.com/Linux-CN/archive/releases/tag/release)
 
- `Piwigo` 是一个开源的网络照片库软件，用于管理照片，专为组织、团队和个人设计：
- 
- ![Piwigo](https://images-1252557999.file.myqcloud.com/uPic/Piwigo.jpeg) 
+`Linux` 中国所有原创文章的 `Markdown` 内容备份:
 
-### [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)
+![linux_cn_archive](https://images-1252557999.file.myqcloud.com/uPic/linux_cn_archive.jpg) 
 
-一键免费部署你的私人 AutoGPT-Next-Web 网页应用:
+### [ChatGemini](https://github.com/bclswl0827/ChatGemini)
 
-![AutoGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png) 
+`ChatGemini` 是一个基于 `Google Gemini` 的网页客户端，对标 `ChatGPT 3.5`，操作逻辑同 `ChatGPT 3.5` 一致，同时支持在聊天中上传图片，应用会自动调用 `Gemini-Pro-Vision` 模型进行识图：
+
+- 适配移动端
+- 支持多 API 密钥分流
+- 操作逻辑同 ChatGPT
+- 仿 ChatGPT 3.5 界面
+- 支持多轮聊天对话
+- 支持上传图片进行识别
+- 逐字输出（SSE）回应
+- 集成 PHP 版反向代理
+- 自定义 Gemini API 地址
+- 可启用站点通行码防止滥用
+- 聊天内容导出（HTML 和 PDF）
+- 对话内容保存在 IndexedDB 中
+
+![ChatGemini](https://images-1252557999.file.myqcloud.com/uPic/ChatGemini.jpg)
+
+如果不想部署，可以直接使用搭建好的免费 Gemini：[https://gemini-pro.chat](https://gemini-pro.chat/) 
 
 ## 🤖 软件 
 
-### [LibreraReader](https://github.com/foobnix/LibreraReader)
+### [Olauncher](https://github.com/tanujnotes/Olauncher)
 
-安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
+适用于 `Android` 的最小 `AF` 启动器。减少您在屏幕上浪费的时间，提供日常壁纸，非常优雅简洁，效果上来看适合英文用户：
 
-![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
+![Olauncher](https://images-1252557999.file.myqcloud.com/uPic/Olauncher.jpg) 
 
-### [eaio](https://github.com/WankkoRee/eaio)
+### [ShareX](https://github.com/ShareX/ShareX)
 
-一个通过将磁盘上所有 `Electron` 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 `pnpm` 一样:
+`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
 
-![eaio](https://images-1252557999.file.myqcloud.com/uPic/eaio.png) 
+![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
 
-### [pilipala](https://github.com/guozhigq/pilipala)
+### [Imagine](https://github.com/meowtec/Imagine)
 
-使用 `Flutter` 开发的 `BiliBili` 第三方客户端，专为提高用户在观看BiliBili视频时的体验而设计：
+全平台支持的图片压缩软件：
 
-![pilipala](https://images-1252557999.file.myqcloud.com/uPic/pilipala.jpg) 
+![Imagine](https://images-1252557999.file.myqcloud.com/uPic/KrSb9L.png)
+
+看看这86%的压缩率还是挺上头的，而且效果很好。 
 
 ## 👀 资料 
 
-### [papers-we-love](https://github.com/papers-we-love/papers-we-love)
+### [dockerlabs](https://github.com/collabnix/dockerlabs)
 
-项目收集了计算机科学领域值得一读的论文：
+Docker 学习教程：
 
-![papers-we-love](https://images-1252557999.file.myqcloud.com/uPic/FiYqA1.png)
+- 适用于初中高级别学习者的免费平台
+- 超过500个高度互动的Docker教程和指南
+- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
 
-还有一个开发者列出了他喜欢的论文，具体见：[my-favorite-papers](https://ordep.dev/posts/my-favorite-papers)，其中包括了LSM Tree， Kafka， Zookeeper，数字签名，等一些很经典的分布式领域的论文。 
+![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
 
-### [ascoders/weekly](https://github.com/ascoders/weekly)
+### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
 
-前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
+`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
 
-- 前沿技术
-- 设计模式
-- 编译原理
-- 源码解读
-- 商业思考
-- 算法
+![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
 
-非常全面，前端从事人员可以看看。 
+### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
 
-### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
+重新分类 Leetcode 高频题 2021 版
 
-如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
-
-这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
-
-其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
-
-![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
+- 题目按照面试频率降序排列
+- 增加难度分类，适合从简单开始学习
+- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
 
 ## 🕸 网站 
 
-### [nona](https://www.nona.de/)
+### [echoserver](https://echoserver.dev/)
 
-德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
+一个用于测试 `HTTP` 客户端的简单服务器，可生成 `URL` 并返回您想要的生成响应：
 
-![nona](https://images-1252557999.file.myqcloud.com/uPic/1nN2lu.png) 
+![echoserver](https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg) 
 
-### [22.do](https://22.do/)
+### [go-to-library.sk](https://go-to-library.sk/#useful_link_tab)
 
-一次性 `Gmail` 临时邮箱：
+`Z-Library` 官方入口页面：
 
-![22do](https://images-1252557999.file.myqcloud.com/uPic/22do.jpg) 
+![go-to-library.sk](https://images-1252557999.file.myqcloud.com/uPic/LQr3IN.png) 
 
-### [mindmap-scanner](https://xmind.cn/mindmap-scanner/)
+### [w2solo](https://w2solo.com/)
 
-用 `AI` 将思维导图图片转为可编辑的 `Xmind` 文件：
-
-![mindmap-scanner](https://images-1252557999.file.myqcloud.com/uPic/mindmap-scanner.jpg) 
+独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
 
 ## ✍️ 说明
 
