@@ -12,7 +12,66 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Mon, 07 Apr 2025 14:35:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 15:29:58 +0000</lastBuildDate>
+    <item>
+      <title>04-07~04-12.老胡的周刊（第184期）.md</title>
+      <link>https://weekly.howie6879.com/2025/04-07~04-12.老胡的周刊（第184期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/04-07~04-12.老胡的周刊（第184期）.html"&gt;04-07~04-12.老胡的周刊（第184期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/DioCrafts/OxiCloud"&gt;OxiCloud&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;OxiCloud&lt;/code&gt; 是一个轻量级的云存储服务器，它使用 &lt;code&gt;Rust&lt;/code&gt; 语言编写，旨在提供一个比传统 &lt;code&gt;PHP&lt;/code&gt; 云服务（如 &lt;code&gt;NextCloud&lt;/code&gt;）更快速、更轻量的文件存储方案。&lt;code&gt;OxiCloud&lt;/code&gt; 具有响应式的用户界面，适用于桌面和移动设备，以及使用 &lt;code&gt;Link Time Optimization（LTO）&lt;/code&gt;提高的二进制文件性能。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="OxiCloud" src="https://images-1252557999.file.myqcloud.com/uPic/dfL4Re.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/11notes/docker-kms"&gt;docker-kms&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Docker-kms&lt;/code&gt; 是用于永久激活任何版本的 &lt;code&gt;Windows&lt;/code&gt; 和 &lt;code&gt;Office&lt;/code&gt; 的 &lt;code&gt;Docker&lt;/code&gt; 容器服务：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="docker-kms" src="https://images-1252557999.file.myqcloud.com/uPic/VHsPkb.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/OpenAISpace/ai-trend-publish"&gt;ai-trend-publish&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 Deno 开发的趋势发现和内容发布系统，支持多源数据采集、智能总结和自动发布到微信公众号。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/timerring/bilive"&gt;bilive&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;极快的B站直播录制、自动切片、自动渲染弹幕以及字幕并投稿至B站，综合多种大模型，兼容超低配置机器。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bilive" src="https://images-1252557999.file.myqcloud.com/uPic/ZIix4n.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://firebase.studio/"&gt;firebase.studio&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Firebase Studio&lt;/code&gt; 是一个基于云端的代理开发环境，可帮助您构建和交付具有生产级品质的全栈 AI 应用，包括 API、后端、前端、移动应用等：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="firebase.studio" src="https://images-1252557999.file.myqcloud.com/uPic/WbajBv.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/zhiyiYo/Fluent-M3U8"&gt;Fluent-M3U8&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;PySide6&lt;/code&gt; 和 &lt;code&gt;QFluentWidgets&lt;/code&gt; 的跨平台 &lt;code&gt;m3u8&lt;/code&gt; 下载软件：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Fluent-M3U8" src="https://images-1252557999.file.myqcloud.com/uPic/T7q1jB.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/mountain-loop/yaak"&gt;yaak&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Yaak&lt;/code&gt; 是一个桌面 &lt;code&gt;API&lt;/code&gt; 客户端，专门用于与 &lt;code&gt;REST、GraphQL、WebSockets、Server Sent Events &amp;amp; gRPC API&lt;/code&gt; 进行交互。它使用 Tauri、Rust 和 ReactJS 构建，支持数据导入、多种认证方式、请求链式处理、工作空间和文件夹管理、环境变量切换、动态值生成、主题自定义、数据镜像、请求历史记录以及插件扩展功能。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="yaak" src="https://images-1252557999.file.myqcloud.com/uPic/qYKhFp.png" /&gt;&lt;/p&gt;
+&lt;p&gt;目前老胡最喜欢用的是 &lt;a href="https://github.com/usebruno/bruno"&gt;bruno&lt;/a&gt;。&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide"&gt;MCP-Chinese-Getting-Started-Guide&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Model Context Protocol(MCP) 编程极速入门：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="MCP-Chinese-Getting-Started-Guide" src="https://images-1252557999.file.myqcloud.com/uPic/ORcZa8.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/zhangchenchen/self-consistent-coder"&gt;self-consistent-coder&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;首先，这不是一本程序员的技术书籍，整本书不会提及任何一个技术词汇，这也不是一本教你如何规划职业生涯，如何在职场走个更远的书，虽然我相信大部分内容确实有助于在职场的发展。&lt;/p&gt;
+&lt;p&gt;但这本书的真正用意是想解决工作过程中碰到的焦虑、倦怠、迷茫、抑郁等情绪，聚焦于解决具体问题，通过改变认知将我们从负面情绪的泥淖中走出来，做到更坦然，真诚的面对自己的内心，成为一个自洽的程序员。&lt;/p&gt;
+&lt;p&gt;总而言之，这不是一本成功学的书，它不会教你如何赢，笔者本身也不是一个世俗意义上成功的人，而是一本帮你梳理情绪，转变心境的书。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="self-consistent-coder" src="https://images-1252557999.file.myqcloud.com/uPic/xxZILr.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://hacker-news.agi.li/"&gt;hacker-news&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="hacker-news" src="https://images-1252557999.file.myqcloud.com/uPic/MOqMxM.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://ourmacs.com/"&gt;OurMacs&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Mac Apps&lt;/code&gt; 聚合搜索和免费下载：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="OurMacs" src="https://images-1252557999.file.myqcloud.com/uPic/kO572X.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">04-07~04-12.老胡的周刊（第184期）.md</guid>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>03-31~04-06.老胡的周刊（第183期）.md</title>
       <link>https://weekly.howie6879.com/2025/03-31~04-06.老胡的周刊（第183期）.html</link>
@@ -1276,61 +1335,6 @@
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">10-21~10-27.老胡的周刊（第165期）.md</guid>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>10-14~10-20.老胡的周刊（第164期）.md</title>
-      <link>https://weekly.howie6879.com/2024/10-14~10-20.老胡的周刊（第164期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/10-14~10-20.老胡的周刊（第164期）.html"&gt;10-14~10-20.老胡的周刊（第164期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/mbecker20/komodo"&gt;komodo&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个用于在多个服务器上构建和部署软件的工具，非常强大，有好看的 &lt;code&gt;UI&lt;/code&gt; 以及 &lt;code&gt;Docker&lt;/code&gt; 管理、资源同步等：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="komodo" src="https://images-1252557999.file.myqcloud.com/uPic/h82QqC.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/donknap/dpanel"&gt;dpanel&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Docker&lt;/code&gt; 可视化面板系统，提供完善的 &lt;code&gt;Docker&lt;/code&gt; 管理功能：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="dpanel" src="https://images-1252557999.file.myqcloud.com/uPic/2rE2AN.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/iovxw/rssbot"&gt;rssbot&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;用于消息通知的轻量级 &lt;code&gt;Telegram RSS&lt;/code&gt; 机器人。&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/WEIFENG2333/AsrTools"&gt;AsrTools&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;智能语音转字幕文本工具，对比 &lt;code&gt;Github&lt;/code&gt; 目前多数的音频转换文字项目（通过调用 &lt;code&gt;Wishper&lt;/code&gt; 等模型），本项目最大区别和优势就是无需 &lt;code&gt;GPU&lt;/code&gt; 和繁琐的本地配置：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;🚀 无需复杂配置：无需 GPU 和繁琐的本地配置，小白也能轻松使用。&lt;/li&gt;
-&lt;li&gt;🖥️ 高颜值界面：基于 PyQt5 和 qfluentwidgets，界面美观且用户友好。&lt;/li&gt;
-&lt;li&gt;⚡ 效率超人：多线程并发 + 批量处理，文字转换快如闪电。&lt;/li&gt;
-&lt;li&gt;📄 多格式支持：支持生成 .srt 和 .txt 字幕文件，满足不同需求。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="AsrTools" src="https://images-1252557999.file.myqcloud.com/uPic/rAXR7m.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/lujunji4113/cloud-document-converter/tree/main"&gt;Cloud Document Converter&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个 &lt;code&gt;Chrome&lt;/code&gt; 扩展， 支持下载、复制飞书云文档为 &lt;code&gt;Markdown&lt;/code&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Cloud Document Converter" src="https://images-1252557999.file.myqcloud.com/uPic/ATwWi4.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://chaiknows.feishu.cn/docx/IbTBdjiQWoi2cvx21SmcrL1pn3f"&gt;医保怎样用最省钱&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一份医保省钱指南，省钱就是赚钱：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ybsq" src="https://images-1252557999.file.myqcloud.com/uPic/F6m1jR.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://open-slum.org/"&gt;open-slum.org&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;SLUM&lt;/code&gt; 网站实时监控多个流行的隐蔽图书馆（如 Anna's Archive、Library Genesis、Sci-Hub 等）的可用性，并提供这些服务的运行状况、证书有效期以及最近的更新时间。&lt;/p&gt;
-&lt;p&gt;因为这些网站经常&lt;strong&gt;意外&lt;/strong&gt;失效，也很容易被钓鱼，所以这个网站很有用：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="open-slum.org" src="https://images-1252557999.file.myqcloud.com/uPic/PzpYfd.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Nutlope/blinkshot"&gt;blinkshot&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;基于 &lt;code&gt;Flux&lt;/code&gt; 通过 &lt;code&gt;Together.ai&lt;/code&gt; 提供的图像模型和推理能力实现的一个开源的实时 AI 图像生成器：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="blinkshot" src="https://images-1252557999.file.myqcloud.com/uPic/WT8nAl.png" /&gt;&lt;/p&gt;
-&lt;p&gt;体验后，效果一般，这是模型原因并不是项目本身原因，因为 100% 开源～&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">10-14~10-20.老胡的周刊（第164期）.md</guid>
-      <pubDate>Sun, 20 Oct 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
