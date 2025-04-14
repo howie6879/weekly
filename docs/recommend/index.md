@@ -5,92 +5,96 @@
 
 ## 🎯 项目 
 
-### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
+### [markwhen](https://github.com/mark-when/markwhen)
 
-🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
+`Markwhen` 是一个交互式的文本到时间轴工具，`用户只需要编写类似于Markdown` 的文本，它就会转换成一个漂亮的级联时间轴：
 
-| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
-| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
-| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
-| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
-| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
+![markwhen](https://images-1252557999.file.myqcloud.com/uPic/markwhen.jpg) 
 
-### [stablog](https://github.com/YaoZeyuan/stablog)
+### [Piwigo](https://github.com/Piwigo/Piwigo)
 
-稳部落项目是一个基于微博现有接口和 TypeScript 构建的工具，旨在为微博用户提供便捷的微博记录备份与导出服务。 
+ `Piwigo` 是一个开源的网络照片库软件，用于管理照片，专为组织、团队和个人设计：
+ 
+ ![Piwigo](https://images-1252557999.file.myqcloud.com/uPic/Piwigo.jpeg) 
 
-### [public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+### [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)
 
-有一些 `Docker` 镜像托管在 `gcr.io`，这样国内下载就会很不方便，使用这个项目就可以快速下载，简单加个前缀就行：
+一键免费部署你的私人 AutoGPT-Next-Web 网页应用:
 
-```shell
-k8s.gcr.io/coredns/coredns => m.daocloud.io/k8s.gcr.io/coredns/coredns
-```
-
-其他资源：
-
-- 常用镜像仓库：[一些国内镜像源](https://gist.github.com/qwfys/aec4d2ab79281aeafebdb40b22d0b748)
-- [x-mirrors/gcr.io](https://github.com/x-mirrors/gcr.io) 
+![AutoGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png) 
 
 ## 🤖 软件 
 
-### [AdAway](https://github.com/AdAway/AdAway)
+### [LibreraReader](https://github.com/foobnix/LibreraReader)
 
-是一款免费且开源的 `Android` 广告拦截器：
+安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
 
-![AdAway](https://images-1252557999.file.myqcloud.com/uPic/AdAway.jpg) 
+![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
 
-### [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
+### [eaio](https://github.com/WankkoRee/eaio)
 
-一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒：
+一个通过将磁盘上所有 `Electron` 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 `pnpm` 一样:
 
-- 一键快速下载、安装、激活最新版 Microsoft Office 软件。
-- 用户可在安装 Word、PPT、Excel 的同时，根据软件提示，自助安装其它组件，包括： Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype
-- 工具可自动识别不同的操作系统架构，自动下载适配版本的 Office。
-- 本工具激活 Office 的方式为正版激活模式，不会篡改任何系统文件。
-- 当系统中存在多个冗余 Office 版本时，本工具在用户同意的情况下，可实现自动升级。 
+![eaio](https://images-1252557999.file.myqcloud.com/uPic/eaio.png) 
 
-### [breezy-weather](https://github.com/breezy-weather/breezy-weather/)
+### [pilipala](https://github.com/guozhigq/pilipala)
 
-`Breezy Weather` 是一款全面采用 `Material Design` 设计风格的天气应用，其注重设计，UI简洁，动画效果流畅：
+使用 `Flutter` 开发的 `BiliBili` 第三方客户端，专为提高用户在观看BiliBili视频时的体验而设计：
 
-![breezy-weather](https://images-1252557999.file.myqcloud.com/uPic/breezy-weather.jpg) 
+![pilipala](https://images-1252557999.file.myqcloud.com/uPic/pilipala.jpg) 
 
 ## 👀 资料 
 
-### [tmplink/ipv6](https://github.com/tmplink/ipv6)
+### [papers-we-love](https://github.com/papers-we-love/papers-we-love)
 
-本文档主要讲解 IPv6 的一些皮毛知识，主要是让读者理解 IPv6 地址的一些概念，诸如前缀，子网，接口。 
+项目收集了计算机科学领域值得一读的论文：
 
-### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
+![papers-we-love](https://images-1252557999.file.myqcloud.com/uPic/FiYqA1.png)
 
-一份程序员延寿指南，目标是稳健地活得更久。 
+还有一个开发者列出了他喜欢的论文，具体见：[my-favorite-papers](https://ordep.dev/posts/my-favorite-papers)，其中包括了LSM Tree， Kafka， Zookeeper，数字签名，等一些很经典的分布式领域的论文。 
 
-### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
+### [ascoders/weekly](https://github.com/ascoders/weekly)
 
-一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
+前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
+- 前沿技术
+- 设计模式
+- 编译原理
+- 源码解读
+- 商业思考
+- 算法
+
+非常全面，前端从事人员可以看看。 
+
+### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
+
+如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
+
+这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
+
+其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
+
+![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
 
 ## 🕸 网站 
 
-### [onepdf](https://www.onepdf.online/)
+### [nona](https://www.nona.de/)
 
-免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
+德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
 
-![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
+![nona](https://images-1252557999.file.myqcloud.com/uPic/1nN2lu.png) 
 
-### [wantquotes.net](https://wantquotes.net/)
+### [22.do](https://22.do/)
 
-清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
+一次性 `Gmail` 临时邮箱：
 
-![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
+![22do](https://images-1252557999.file.myqcloud.com/uPic/22do.jpg) 
 
-### [xiake.pro](https://xiake.pro/)
+### [mindmap-scanner](https://xmind.cn/mindmap-scanner/)
 
-虾壳是一个GitHub下载加速网站，提供GitHub文件加速服务，支持API、Git以及Releases、 Archive、gist、raw.githubusercontent.com等文件代理加速下载。
+用 `AI` 将思维导图图片转为可编辑的 `Xmind` 文件：
 
-![xiake](https://images-1252557999.file.myqcloud.com/uPic/quiQlF.png) 
+![mindmap-scanner](https://images-1252557999.file.myqcloud.com/uPic/mindmap-scanner.jpg) 
 
 ## ✍️ 说明
 
