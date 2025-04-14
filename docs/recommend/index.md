@@ -5,105 +5,83 @@
 
 ## 🎯 项目 
 
-### [coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy)
+### [DweebUI](https://github.com/lllllllillllllillll/DweebUI)
 
-代理 `Discord-Bot` 对话 `Coze-Bot`，实现 `API` 形式请求 `GPT4` 对话模型/微调模型：
+用于管理容器的免费开源 `WebUI`，颜值不错，但是功能还不大够，值得期待：
 
-- 完美适配`NextChat`,`one-api`,`LobeChat`等对话面板。
-- 完美支持对话隔离。
-- 对话接口支持流式返回。
-- 支持创建 `discord`分类/频道/线程。
-- 支持和`openai`对齐的对话接口(`v1/chat/completions`)(也支持`dall-e-3`文生图)
-- 支持和`openai`对齐的图/文件生文接口(`v1/chat/completions`)(按照`GPT4V`图/文件生文接口的请求格式 \[ 支持`url`或`base64` \])。
-- 支持和`openai`对齐的`dall-e-3`文生图接口(`v1/images/generations`)。
-- 支持每日`24`点定时任务自动活跃机器人。
-- 支持配置多机器人 (通过`PROXY_SECRET`/`model`指定) 详细请看进阶配置。
+![DweebUI](https://images-1252557999.file.myqcloud.com/uPic/DweebUI.png) 
 
-![coze-discord-proxy](https://images-1252557999.file.myqcloud.com/uPic/coze-discord-proxy.png) 
+### [statping](https://github.com/statping/statping)
 
-### [agibot_x1_infer](https://github.com/AgibotTech/agibot_x1_infer)
+一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
 
-稚晖君开源的智元家灵犀X1，智元人形机器人，全套资料全球开源，包括设计图纸和代码：
+![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
 
-- **开发指南链接**: [开发指南](https://www.zhiyuan-robot.com/DOCS/OS/X1-PDG)
-- **设计资料百度云盘** (提取码：1234): [百度云盘链接](https://pan.baidu.com/s/1UEdeDBTJiXRmIqMKwmO5RA?pwd=1234)
-- **设计资料谷歌云盘**: [谷歌云盘链接](https://drive.google.com/drive/folders/1MECbyKRJbnc_XKWsdUbn-70xmYFmw9FW?usp=sharing)
-- **推理代码**: [推理代码链接](https://github.com/AgibotTech/agibot_x1_infer)
-- **训练代码**: [训练代码链接](https://github.com/AgibotTech/agibot_x1_train)
+### [resume-design](https://github.com/Hacker233/resume-design)
 
-![agibot_x1_infer](https://images-1252557999.file.myqcloud.com/uPic/QchElr.png) 
+一款开源免费的简历制作神器，支持导出超高清 PDF、图片、源码级 JSON 数据等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。
 
-### [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
-
-这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。此项目从书籍、网站、工具、笔记、任务管理等角度推荐怎么提升个人生产力。 
+![resume-design](https://images-1252557999.file.myqcloud.com/uPic/y8rbsD.png) 
 
 ## 🤖 软件 
 
-### [avnc](https://github.com/gujjwal00/avnc)
+### [Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8)
 
-针对 `Android` 的开源 `VNC` 客户端：
+基于 `PySide6` 和 `QFluentWidgets` 的跨平台 `m3u8` 下载软件：
 
-![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
+![Fluent-M3U8](https://images-1252557999.file.myqcloud.com/uPic/T7q1jB.png) 
 
-### [AppManager](https://github.com/MuntashirAkon/AppManager)
+### [AirBattery](https://github.com/lihaoyun6/AirBattery)
 
-一个功能全面的 `Android` 包管理器和应用查看器，支持复制自由软件的功能，提供了丰富的应用管理和操作功能，如列出应用信息、安装 / 卸载 `APK`、备份 / 恢复应用、查看日志等，同时支持根权限和 `ADB` 命令，以实现更高级的操作，如撤销权限、修改 `APP` 操作模式等：
+在 `Mac` 上获取你所有设备的电量信息并显示在 `Dock` / 状态栏 / 小组件上：
 
-![AppManager](https://images-1252557999.file.myqcloud.com/uPic/zIgjSp.png) 
+![AirBattery](https://images-1252557999.file.myqcloud.com/uPic/AirBattery.jpg) 
 
-### [Xit](https://github.com/Uncommon/Xit)
+### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
 
-`Mac OS`下开源免费的原生`Git`客户端 ：
+> 让每个人都简单方便的使用前沿人工智能技术
 
-![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
+一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
+
+![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
 
 ## 👀 资料 
 
-### [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
+### [Student-resources](https://github.com/ivmm/Student-resources)
 
-将 `DeepSeek` 大模型能力轻松接入各类软件：
+本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
 
-- 应用程序：Chatbox ChatGPT-Next-Web	留白记事等
-- AI Agent 框架
-- RAG 框架
-- Solana 框架
-- 即时通讯插件
-- 浏览器插件
-- VS Code 插件 neovim 插件JetBrains 插件 
+### [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)
 
-### [开源软件指南](https://opensource.guide/zh-hans/)
+一本由 GPT4 生成的中英词典，涵盖 8000 高频词汇：
 
-GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+![DictionaryByGPT4](https://images-1252557999.file.myqcloud.com/uPic/DictionaryByGPT4.png) 
 
-![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
+### [RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide)
 
-### [k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)
+颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南：
 
-基于 `Kubernetes(K8S)` 一步步部署成 `PaaS/DevOps`（一套完整的软件研发和部署平台）——教程/学习（实战代码/欢迎讨论/大量注释/操作配图），你将习得部署如：`Kubernetes(K8S)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker` 等：
-
-![k8s_PaaS](https://images-1252557999.file.myqcloud.com/uPic/k8s_PaaS.png) 
+![web-visual-bookmark@2x](https://images-1252557999.file.myqcloud.com/uPic/web-visual-bookmark@2x.png) 
 
 ## 🕸 网站 
 
-### [FRE123-动漫搜索引擎](https://www.fre123.com/anime/s)
+### [apitracker](https://apitracker.io/)
 
-`FRE123` 周末新上了个动漫番剧搜索引擎，主要是汇集一些比较好的番剧网站资源，提供搜索服务，让用户更快速找到自己想看到的番剧，欢迎提意见：
+发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
 
-![fre123_anime](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime.jpg) 
+![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
 
-### [maily.to](https://maily.to/)
+### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
 
-一个[开源邮件编辑器](https://github.com/arikchakma/maily.to)，用于制作美观的电子邮件，还可以创建模板：
+一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
 
-![maily](https://images-1252557999.file.myqcloud.com/uPic/SwsHwH.png) 
+![shanshui-inf](https://images-1252557999.file.myqcloud.com/uPic/shanshui-inf.jpg) 
 
-### [open-slum.org](https://open-slum.org/)
+### [uilibhub](https://uilibhub.com/zh)
 
-`SLUM` 网站实时监控多个流行的隐蔽图书馆（如 Anna's Archive、Library Genesis、Sci-Hub 等）的可用性，并提供这些服务的运行状况、证书有效期以及最近的更新时间。
+探索最佳 `UI` 库，助力 `React & Vue` 高效开发：
 
-因为这些网站经常**意外**失效，也很容易被钓鱼，所以这个网站很有用：
-
-![open-slum.org](https://images-1252557999.file.myqcloud.com/uPic/PzpYfd.png) 
+![uilibhub](https://images-1252557999.file.myqcloud.com/uPic/uilibhub.jpg) 
 
 ## ✍️ 说明
 
