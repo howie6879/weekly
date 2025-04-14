@@ -62,10 +62,18 @@ document.addEventListener("DOMContentLoaded", function () {
   newDiv.setAttribute("data-id", "357");
   newDiv.style.maxWidth = "350px";
 
-  // 获取 body 的第一个子元素
-  var firstChild = document.body.firstChild;
+  // 当浏览器宽度 < 1300px 时 固定在右下角
+  if (window.innerWidth < 1300) {
+    newDiv.style.position = "fixed";
+    newDiv.style.right = "10px";
+    newDiv.style.bottom = "10px";
+  }
+
+  // 获取 body 的第最后一个元素
+  var lastChild = document.body.lastChild;
+  // var firstChild = document.body.firstChild;
 
   // 将新创建的 div 插入到 body 的第一行
-  document.body.insertBefore(newDiv, firstChild);
+  document.body.insertBefore(newDiv, lastChild);
 
 });
