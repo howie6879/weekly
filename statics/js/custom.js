@@ -70,10 +70,9 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   // 获取 body 的第最后一个元素
-  var lastChild = document.body.lastChild;
-  // var firstChild = document.body.firstChild;
+  var firstChild = document.body.firstChild;
 
   // 将新创建的 div 插入到 body 的第一行
-  document.body.insertBefore(newDiv, lastChild);
+  document.body.insertBefore(newDiv, firstChild);
 
 });
