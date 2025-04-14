@@ -61,6 +61,10 @@ document.addEventListener("DOMContentLoaded", function () {
   newDiv.className = "wwads-cn wwads-horizontal wwads-sticky";
   newDiv.setAttribute("data-id", "357");
   newDiv.style.maxWidth = "350px";
+  newDiv.style.position = "fixed";
+  newDiv.style.bottom = "10px";
+  newDiv.style.right = "10px";
+  newDiv.style.zIndex = "1";
 
   // 获取 body 的第最后一个元素
   var firstChild = document.body.firstChild;
