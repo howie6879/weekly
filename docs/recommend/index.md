@@ -5,94 +5,84 @@
 
 ## 🎯 项目 
 
-### [tabler](https://github.com/tabler/tabler)
+### [oh-my-wechat](https://github.com/chclt/oh-my-wechat/)
 
-基于 `Bootstrap` 的免费开源的 `Dashboard UI` 工具包：
+开源项目，微信消息备份与年度数据报告：
 
-![tabler-preview](https://images-1252557999.file.myqcloud.com/uPic/tabler-preview.png) 
+![oh-my-wechat](https://images-1252557999.file.myqcloud.com/uPic/JXAGlQ.png) 
 
-### [MinerU](https://github.com/opendatalab/MinerU)
+### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
 
-`MinerU` 是一款一站式、开源、高质量的数据提取工具，主要包含以下功能:
+`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
 
-- Magic-PDF PDF文档提取
-- Magic-Doc 网页与电子书提取
+![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
 
-对于有 PDF 转换 MD 需求的朋友可以尝试下：
+### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
 
-![MinerU](https://images-1252557999.file.myqcloud.com/uPic/MinerU.png) 
+相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
 
-### [InjectLib](https://github.com/QiuChenly/InjectLib)
-
-一个半开源形式、任何开发者经过评审都可以参与的一个公开 `macOS` 注入框架项目。用了就知道，还有 [GUI 版本](https://github.com/wibus-wee/InjectGUI)。
-
-![InjectGUI](https://images-1252557999.file.myqcloud.com/uPic/InjectGUI.jpg) 
+如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
 
 ## 🤖 软件 
 
-### [ChatGPT](https://github.com/lencx/ChatGPT)
+### [KOReader](https://github.com/koreader/koreader)
 
-基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
+KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
 
-- 历史聊天记录导出(PNG, PDF & Share Link)
-- 快捷键&系统托盘
-- 集成 [chatgpt prompt](https://prompts.chat/)
+![koreader](https://images-1252557999.file.myqcloud.com/uPic/koreader.jpg) 
 
-![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
+### [AirBattery](https://github.com/lihaoyun6/AirBattery)
 
-作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
+在 `Mac` 上获取你所有设备的电量信息并显示在 `Dock` / 状态栏 / 小组件上：
 
-### [azusa-player-mobile](https://github.com/lovegaoshi/azusa-player-mobile)
+![AirBattery](https://images-1252557999.file.myqcloud.com/uPic/AirBattery.jpg) 
 
-一个 `Bilibili` 第三方音频播放器：
+### [staxrip](https://github.com/staxrip/staxrip)
 
-![azusa-player-mobile](https://images-1252557999.file.myqcloud.com/uPic/azusa-player-mobile.jpg) 
+`StaxRip` 是一个强大的用于 `Windows` 的视频/音频编码图形用户界面。
+它执行和控制诸如 `x265、mkvmerge、ffmpeg` 等控制台应用程序，并使用基于脚本的帧服务器 A`viSynth+和VapourSynth` 进行视频处理。每个项目还可以通过各种事件和设置进行扩展：
 
-### [zen](https://github.com/anfragment/zen)
-
-简单、免费且高效的广告拦截器和隐私保护工具，适用于Windows、macOS和Linux。它通过设置代理来拦截所有应用程序发出的HTTP请求，并阻止那些提供广告、跟踪脚本（监控您行为）、恶意软件和其他不需要的内容的请求。由于在系统级别运行，Zen可以防御浏览器扩展无法处理的威胁，例如嵌入在桌面应用程序和操作系统组件中的跟踪器。
-
-![zen](https://images-1252557999.file.myqcloud.com/uPic/zen.jpg) 
+![staxrip](https://images-1252557999.file.myqcloud.com/uPic/staxrip.jpg) 
 
 ## 👀 资料 
 
-### [meetup](https://github.com/baiyutang/meetup)
+### [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note)
 
-【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
+从0开始学习英语语法的开源项目：
 
-![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
+![english-note](https://images-1252557999.file.myqcloud.com/uPic/english-note.jpg) 
 
-### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
+### [agents-course](https://huggingface.co/learn/agents-course/unit0/introduction)
 
-作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
+🤗 AI Agents Course 是一个旨在从基础到高级教授人工智能代理（Agents）的免费课程，涵盖理论、设计和实践，并提供使用流行库（如 smolagents、LangChain 和 LlamaIndex）的实战演练，以及通过挑战赛和社区贡献来提升学习体验。
 
-![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
+![agents-course](https://images-1252557999.file.myqcloud.com/uPic/AcJZte.png) 
 
-### [微信之父张小龙2351条饭否日记](https://docs.qq.com/doc/DWUVKZERkeGFLckp6?dver=)
+### [数据科学学习指南](https://github.com/amitness/learning)
 
-微信之父张小龙2351条饭否日记:
+数据科学学习指南，帮你每天提升1%的数据科学技能。主要包含电子表格与数据库的数据处理、命令行工具使用、数据分析与可视化技巧、论文阅读方法，各类模型与算法讲解等知识，另外还有商业思维培养、写作与沟通技巧等非技术类内容。
 
-![zxl_ff](https://images-1252557999.file.myqcloud.com/uPic/zxl_ff.jpg) 
+![data-learning](https://images-1252557999.file.myqcloud.com/uPic/tlkHzW.png) 
 
 ## 🕸 网站 
 
-### [flow](https://github.com/pacexy/flow)
+### [Ben Eater](https://eater.net/)
 
-开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
+博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
 
-![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
+![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
 
-### [piqsels](https://www.piqsels.com/)
+### [relationship](https://passer-by.com/relationship/)
 
-`Piqsels` 是又一个免版权的图库，免费商用：
+中国亲戚关系计算器：
 
-![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
+![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
 
-### [calmcode](https://calmcode.io/)
+### [tableconvert](https://tableconvert.com/)
 
-非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
+`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
 
-![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
+![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
 
 ## ✍️ 说明
 
