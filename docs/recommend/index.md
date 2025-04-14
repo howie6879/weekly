@@ -5,104 +5,94 @@
 
 ## 🎯 项目 
 
-### [cloud_dns_exporter](https://github.com/eryajf/cloud_dns_exporter)
+### [tabler](https://github.com/tabler/tabler)
 
-周刊群友**二丫讲梵**的开源项目，自动获取 DNS 提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为 Prometheus Metrics。已支持：Tencent，Aliyun，Godaddy，Aws：
+基于 `Bootstrap` 的免费开源的 `Dashboard UI` 工具包：
 
-![G6dYsS](https://images-1252557999.file.myqcloud.com/uPic/G6dYsS.png) 
+![tabler-preview](https://images-1252557999.file.myqcloud.com/uPic/tabler-preview.png) 
 
-### [Linux-CN-archive](https://github.com/Linux-CN/archive/releases/tag/release)
+### [MinerU](https://github.com/opendatalab/MinerU)
 
-`Linux` 中国所有原创文章的 `Markdown` 内容备份:
+`MinerU` 是一款一站式、开源、高质量的数据提取工具，主要包含以下功能:
 
-![linux_cn_archive](https://images-1252557999.file.myqcloud.com/uPic/linux_cn_archive.jpg) 
+- Magic-PDF PDF文档提取
+- Magic-Doc 网页与电子书提取
 
-### [ChatGemini](https://github.com/bclswl0827/ChatGemini)
+对于有 PDF 转换 MD 需求的朋友可以尝试下：
 
-`ChatGemini` 是一个基于 `Google Gemini` 的网页客户端，对标 `ChatGPT 3.5`，操作逻辑同 `ChatGPT 3.5` 一致，同时支持在聊天中上传图片，应用会自动调用 `Gemini-Pro-Vision` 模型进行识图：
+![MinerU](https://images-1252557999.file.myqcloud.com/uPic/MinerU.png) 
 
-- 适配移动端
-- 支持多 API 密钥分流
-- 操作逻辑同 ChatGPT
-- 仿 ChatGPT 3.5 界面
-- 支持多轮聊天对话
-- 支持上传图片进行识别
-- 逐字输出（SSE）回应
-- 集成 PHP 版反向代理
-- 自定义 Gemini API 地址
-- 可启用站点通行码防止滥用
-- 聊天内容导出（HTML 和 PDF）
-- 对话内容保存在 IndexedDB 中
+### [InjectLib](https://github.com/QiuChenly/InjectLib)
 
-![ChatGemini](https://images-1252557999.file.myqcloud.com/uPic/ChatGemini.jpg)
+一个半开源形式、任何开发者经过评审都可以参与的一个公开 `macOS` 注入框架项目。用了就知道，还有 [GUI 版本](https://github.com/wibus-wee/InjectGUI)。
 
-如果不想部署，可以直接使用搭建好的免费 Gemini：[https://gemini-pro.chat](https://gemini-pro.chat/) 
+![InjectGUI](https://images-1252557999.file.myqcloud.com/uPic/InjectGUI.jpg) 
 
 ## 🤖 软件 
 
-### [Olauncher](https://github.com/tanujnotes/Olauncher)
+### [ChatGPT](https://github.com/lencx/ChatGPT)
 
-适用于 `Android` 的最小 `AF` 启动器。减少您在屏幕上浪费的时间，提供日常壁纸，非常优雅简洁，效果上来看适合英文用户：
+基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
 
-![Olauncher](https://images-1252557999.file.myqcloud.com/uPic/Olauncher.jpg) 
+- 历史聊天记录导出(PNG, PDF & Share Link)
+- 快捷键&系统托盘
+- 集成 [chatgpt prompt](https://prompts.chat/)
 
-### [ShareX](https://github.com/ShareX/ShareX)
+![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
 
-`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
+作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
 
-![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
+### [azusa-player-mobile](https://github.com/lovegaoshi/azusa-player-mobile)
 
-### [Imagine](https://github.com/meowtec/Imagine)
+一个 `Bilibili` 第三方音频播放器：
 
-全平台支持的图片压缩软件：
+![azusa-player-mobile](https://images-1252557999.file.myqcloud.com/uPic/azusa-player-mobile.jpg) 
 
-![Imagine](https://images-1252557999.file.myqcloud.com/uPic/KrSb9L.png)
+### [zen](https://github.com/anfragment/zen)
 
-看看这86%的压缩率还是挺上头的，而且效果很好。 
+简单、免费且高效的广告拦截器和隐私保护工具，适用于Windows、macOS和Linux。它通过设置代理来拦截所有应用程序发出的HTTP请求，并阻止那些提供广告、跟踪脚本（监控您行为）、恶意软件和其他不需要的内容的请求。由于在系统级别运行，Zen可以防御浏览器扩展无法处理的威胁，例如嵌入在桌面应用程序和操作系统组件中的跟踪器。
+
+![zen](https://images-1252557999.file.myqcloud.com/uPic/zen.jpg) 
 
 ## 👀 资料 
 
-### [dockerlabs](https://github.com/collabnix/dockerlabs)
+### [meetup](https://github.com/baiyutang/meetup)
 
-Docker 学习教程：
+【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
 
-- 适用于初中高级别学习者的免费平台
-- 超过500个高度互动的Docker教程和指南
-- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
+![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
 
-![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
 
-`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
+![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
 
-![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
+### [微信之父张小龙2351条饭否日记](https://docs.qq.com/doc/DWUVKZERkeGFLckp6?dver=)
 
-### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
+微信之父张小龙2351条饭否日记:
 
-重新分类 Leetcode 高频题 2021 版
-
-- 题目按照面试频率降序排列
-- 增加难度分类，适合从简单开始学习
-- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
+![zxl_ff](https://images-1252557999.file.myqcloud.com/uPic/zxl_ff.jpg) 
 
 ## 🕸 网站 
 
-### [echoserver](https://echoserver.dev/)
+### [flow](https://github.com/pacexy/flow)
 
-一个用于测试 `HTTP` 客户端的简单服务器，可生成 `URL` 并返回您想要的生成响应：
+开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
 
-![echoserver](https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg) 
+![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
 
-### [go-to-library.sk](https://go-to-library.sk/#useful_link_tab)
+### [piqsels](https://www.piqsels.com/)
 
-`Z-Library` 官方入口页面：
+`Piqsels` 是又一个免版权的图库，免费商用：
 
-![go-to-library.sk](https://images-1252557999.file.myqcloud.com/uPic/LQr3IN.png) 
+![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
 
-### [w2solo](https://w2solo.com/)
+### [calmcode](https://calmcode.io/)
 
-独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
+非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
+
+![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
 
 ## ✍️ 说明
 
