@@ -5,84 +5,105 @@
 
 ## 🎯 项目 
 
-### [oh-my-wechat](https://github.com/chclt/oh-my-wechat/)
+### [coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy)
 
-开源项目，微信消息备份与年度数据报告：
+代理 `Discord-Bot` 对话 `Coze-Bot`，实现 `API` 形式请求 `GPT4` 对话模型/微调模型：
 
-![oh-my-wechat](https://images-1252557999.file.myqcloud.com/uPic/JXAGlQ.png) 
+- 完美适配`NextChat`,`one-api`,`LobeChat`等对话面板。
+- 完美支持对话隔离。
+- 对话接口支持流式返回。
+- 支持创建 `discord`分类/频道/线程。
+- 支持和`openai`对齐的对话接口(`v1/chat/completions`)(也支持`dall-e-3`文生图)
+- 支持和`openai`对齐的图/文件生文接口(`v1/chat/completions`)(按照`GPT4V`图/文件生文接口的请求格式 \[ 支持`url`或`base64` \])。
+- 支持和`openai`对齐的`dall-e-3`文生图接口(`v1/images/generations`)。
+- 支持每日`24`点定时任务自动活跃机器人。
+- 支持配置多机器人 (通过`PROXY_SECRET`/`model`指定) 详细请看进阶配置。
 
-### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
+![coze-discord-proxy](https://images-1252557999.file.myqcloud.com/uPic/coze-discord-proxy.png) 
 
-`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
+### [agibot_x1_infer](https://github.com/AgibotTech/agibot_x1_infer)
 
-![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
+稚晖君开源的智元家灵犀X1，智元人形机器人，全套资料全球开源，包括设计图纸和代码：
 
-### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
+- **开发指南链接**: [开发指南](https://www.zhiyuan-robot.com/DOCS/OS/X1-PDG)
+- **设计资料百度云盘** (提取码：1234): [百度云盘链接](https://pan.baidu.com/s/1UEdeDBTJiXRmIqMKwmO5RA?pwd=1234)
+- **设计资料谷歌云盘**: [谷歌云盘链接](https://drive.google.com/drive/folders/1MECbyKRJbnc_XKWsdUbn-70xmYFmw9FW?usp=sharing)
+- **推理代码**: [推理代码链接](https://github.com/AgibotTech/agibot_x1_infer)
+- **训练代码**: [训练代码链接](https://github.com/AgibotTech/agibot_x1_train)
 
-相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
+![agibot_x1_infer](https://images-1252557999.file.myqcloud.com/uPic/QchElr.png) 
 
-如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
+### [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
+
+这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。此项目从书籍、网站、工具、笔记、任务管理等角度推荐怎么提升个人生产力。 
 
 ## 🤖 软件 
 
-### [KOReader](https://github.com/koreader/koreader)
+### [avnc](https://github.com/gujjwal00/avnc)
 
-KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
+针对 `Android` 的开源 `VNC` 客户端：
 
-![koreader](https://images-1252557999.file.myqcloud.com/uPic/koreader.jpg) 
+![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
 
-### [AirBattery](https://github.com/lihaoyun6/AirBattery)
+### [AppManager](https://github.com/MuntashirAkon/AppManager)
 
-在 `Mac` 上获取你所有设备的电量信息并显示在 `Dock` / 状态栏 / 小组件上：
+一个功能全面的 `Android` 包管理器和应用查看器，支持复制自由软件的功能，提供了丰富的应用管理和操作功能，如列出应用信息、安装 / 卸载 `APK`、备份 / 恢复应用、查看日志等，同时支持根权限和 `ADB` 命令，以实现更高级的操作，如撤销权限、修改 `APP` 操作模式等：
 
-![AirBattery](https://images-1252557999.file.myqcloud.com/uPic/AirBattery.jpg) 
+![AppManager](https://images-1252557999.file.myqcloud.com/uPic/zIgjSp.png) 
 
-### [staxrip](https://github.com/staxrip/staxrip)
+### [Xit](https://github.com/Uncommon/Xit)
 
-`StaxRip` 是一个强大的用于 `Windows` 的视频/音频编码图形用户界面。
-它执行和控制诸如 `x265、mkvmerge、ffmpeg` 等控制台应用程序，并使用基于脚本的帧服务器 A`viSynth+和VapourSynth` 进行视频处理。每个项目还可以通过各种事件和设置进行扩展：
+`Mac OS`下开源免费的原生`Git`客户端 ：
 
-![staxrip](https://images-1252557999.file.myqcloud.com/uPic/staxrip.jpg) 
+![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
 
 ## 👀 资料 
 
-### [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note)
+### [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
 
-从0开始学习英语语法的开源项目：
+将 `DeepSeek` 大模型能力轻松接入各类软件：
 
-![english-note](https://images-1252557999.file.myqcloud.com/uPic/english-note.jpg) 
+- 应用程序：Chatbox ChatGPT-Next-Web	留白记事等
+- AI Agent 框架
+- RAG 框架
+- Solana 框架
+- 即时通讯插件
+- 浏览器插件
+- VS Code 插件 neovim 插件JetBrains 插件 
 
-### [agents-course](https://huggingface.co/learn/agents-course/unit0/introduction)
+### [开源软件指南](https://opensource.guide/zh-hans/)
 
-🤗 AI Agents Course 是一个旨在从基础到高级教授人工智能代理（Agents）的免费课程，涵盖理论、设计和实践，并提供使用流行库（如 smolagents、LangChain 和 LlamaIndex）的实战演练，以及通过挑战赛和社区贡献来提升学习体验。
+GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
 
-![agents-course](https://images-1252557999.file.myqcloud.com/uPic/AcJZte.png) 
+![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
 
-### [数据科学学习指南](https://github.com/amitness/learning)
+### [k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)
 
-数据科学学习指南，帮你每天提升1%的数据科学技能。主要包含电子表格与数据库的数据处理、命令行工具使用、数据分析与可视化技巧、论文阅读方法，各类模型与算法讲解等知识，另外还有商业思维培养、写作与沟通技巧等非技术类内容。
+基于 `Kubernetes(K8S)` 一步步部署成 `PaaS/DevOps`（一套完整的软件研发和部署平台）——教程/学习（实战代码/欢迎讨论/大量注释/操作配图），你将习得部署如：`Kubernetes(K8S)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker` 等：
 
-![data-learning](https://images-1252557999.file.myqcloud.com/uPic/tlkHzW.png) 
+![k8s_PaaS](https://images-1252557999.file.myqcloud.com/uPic/k8s_PaaS.png) 
 
 ## 🕸 网站 
 
-### [Ben Eater](https://eater.net/)
+### [FRE123-动漫搜索引擎](https://www.fre123.com/anime/s)
 
-博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
+`FRE123` 周末新上了个动漫番剧搜索引擎，主要是汇集一些比较好的番剧网站资源，提供搜索服务，让用户更快速找到自己想看到的番剧，欢迎提意见：
 
-![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
+![fre123_anime](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime.jpg) 
 
-### [relationship](https://passer-by.com/relationship/)
+### [maily.to](https://maily.to/)
 
-中国亲戚关系计算器：
+一个[开源邮件编辑器](https://github.com/arikchakma/maily.to)，用于制作美观的电子邮件，还可以创建模板：
 
-![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
+![maily](https://images-1252557999.file.myqcloud.com/uPic/SwsHwH.png) 
 
-### [tableconvert](https://tableconvert.com/)
+### [open-slum.org](https://open-slum.org/)
 
-`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
+`SLUM` 网站实时监控多个流行的隐蔽图书馆（如 Anna's Archive、Library Genesis、Sci-Hub 等）的可用性，并提供这些服务的运行状况、证书有效期以及最近的更新时间。
 
-![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
+因为这些网站经常**意外**失效，也很容易被钓鱼，所以这个网站很有用：
+
+![open-slum.org](https://images-1252557999.file.myqcloud.com/uPic/PzpYfd.png) 
 
 ## ✍️ 说明
 
