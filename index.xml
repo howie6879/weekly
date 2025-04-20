@@ -12,7 +12,94 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Mon, 14 Apr 2025 15:45:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 14:26:46 +0000</lastBuildDate>
+    <item>
+      <title>04-14~04-19.老胡的周刊（第185期）.md</title>
+      <link>https://weekly.howie6879.com/2025/04-14~04-19.老胡的周刊（第185期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/04-14~04-19.老胡的周刊（第185期）.html"&gt;04-14~04-19.老胡的周刊（第185期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/trycua/cua"&gt;cua&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;在 &lt;code&gt;macOS&lt;/code&gt; 上开启虚拟机，并允许 &lt;code&gt;AI&lt;/code&gt; 操作系统及应用。&lt;code&gt;Cua&lt;/code&gt; 基于 &lt;code&gt;Apple&lt;/code&gt; 的 &lt;code&gt;Virtualization.Framework&lt;/code&gt;，结合高性能虚拟化与 AI 代理能力，允许用户在 &lt;code&gt;Apple Silicon&lt;/code&gt; 上创建并运行 &lt;code&gt;macOS&lt;/code&gt; 和 &lt;code&gt;Linux&lt;/code&gt; 虚拟机：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;核心功能&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;高性能虚拟化&lt;/strong&gt;：在Apple Silicon处理器上运行macOS和Linux虚拟机，性能达到原生水平的90%。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI代理操作&lt;/strong&gt;：支持AI在虚拟机中模拟用户操作系统及应用程序，如浏览器、VS Code等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;安全隔离&lt;/strong&gt;：所有操作均在沙盒化的虚拟环境中运行，保障主机系统的安全。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;多应用支持&lt;/strong&gt;：AI能够操控虚拟机内的多种应用程序，实现复杂的工作流程。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;兼容多种大模型&lt;/strong&gt;：目前支持OpenAI和Anthropic的CUA模型，未来还将支持Ollama等本地大模型。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;MacOS 的 AI Agent 新星，本地沙盒驱动，解锁 macOS 操作新体验！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="cua" src="https://images-1252557999.file.myqcloud.com/uPic/weL6Z9.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/sjzar/chatlog"&gt;chatlog&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;微信聊天记录工具，帮助大家轻松使用自己的聊天数据：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;从本地数据库文件获取聊天数据&lt;/li&gt;
+&lt;li&gt;支持 Windows / macOS 系统&lt;/li&gt;
+&lt;li&gt;支持微信 3.x / 4.0 版本&lt;/li&gt;
+&lt;li&gt;提供 Terminal UI 界面 &amp;amp; 命令行工具&lt;/li&gt;
+&lt;li&gt;提供 HTTP API 服务，支持查询聊天记录、联系人、群聊、最近会话等信息&lt;/li&gt;
+&lt;li&gt;支持 MCP SSE 协议，可与支持 MCP 的 AI 助手无缝集成&lt;/li&gt;
+&lt;li&gt;支持多媒体消息，支持解密图片、语音&lt;/li&gt;
+&lt;li&gt;支持自动解密数据，简化使用流程&lt;/li&gt;
+&lt;li&gt;支持多账号管理，可在不同账号间切换&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="chatlog" src="https://images-1252557999.file.myqcloud.com/uPic/NSigD0.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/oomol-lab/pdf-craft"&gt;pdf-craft&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;PDF Craft&lt;/code&gt; 可以将 &lt;code&gt;PDF&lt;/code&gt; 文件转化为各种其他格式，该项目将专注于扫描书籍的 &lt;code&gt;PDF&lt;/code&gt; 文件的处理：&lt;/p&gt;
+&lt;p&gt;![&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/7Gx8lB.png"&gt;pdf-craft&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/deepshit2025/tuboshu"&gt;tuboshu&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一款桌面应用转换工具，让你用快捷键魔法般控制任何网页应用：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔥 一键网页转应用 - 将任何网站变成独立的桌面应用&lt;/li&gt;
+&lt;li&gt;🚀 账户多开 - 网站可以多开，支持账户隔离，独立运行互不干扰&lt;/li&gt;
+&lt;li&gt;⚡️ 闪电切换 - 全局快捷键快速显示/隐藏（默认 Ctrl/Cmd + H）&lt;/li&gt;
+&lt;li&gt;🎨 深度定制 - 自定义窗口尺寸、图标、快捷键,支持JS注入，定制专属自己的页面&lt;/li&gt;
+&lt;li&gt;📦 便携打包 - 生成可执行文件（支持 Windows/macOS/Linux）&lt;/li&gt;
+&lt;li&gt;🔒 隐私保护 - 本地存储配置数据，无需云端同步&lt;/li&gt;
+&lt;li&gt;🌍 多平台支持 - 完美运行于主流操作系统&lt;/li&gt;
+&lt;li&gt;🎮无需复杂配置即可自由添加站点&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="tuboshu" src="https://images-1252557999.file.myqcloud.com/uPic/d1GxMj.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/krillinai/KrillinAI"&gt;KrillinAI&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎯 一键启动：无需复杂的环境配置，自动安装依赖，立即投入使用，新增桌面版本，使用更便捷！&lt;/li&gt;
+&lt;li&gt;📥 视频获取：支持yt-dlp下载或本地文件上传&lt;/li&gt;
+&lt;li&gt;📜 精准识别：基于Whisper的高准确度语音识别&lt;/li&gt;
+&lt;li&gt;🧠 智能分段：使用LLM进行字幕分段和对齐&lt;/li&gt;
+&lt;li&gt;🔄 术语替换：一键替换专业领域词汇&lt;/li&gt;
+&lt;li&gt;🌍 专业翻译：基于LLM，段落级翻译保持语义连贯性&lt;/li&gt;
+&lt;li&gt;🎙️ 配音克隆：提供CosyVoice精选音色或自定义音色克隆&lt;/li&gt;
+&lt;li&gt;🎬 视频合成：自动处理横竖版视频和字幕排版&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="KrillinAI" src="https://images-1252557999.file.myqcloud.com/uPic/EGujdx.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/xlite-dev/CUDA-Learn-Notes"&gt;CUDA-Learn-Notes&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个 &lt;code&gt;Modern CUDA Learn Notes&lt;/code&gt; 的仓库，提供了一个现代的 &lt;code&gt;CUDA&lt;/code&gt; 学习资源库，包含了 &lt;code&gt;200+ CUDA&lt;/code&gt; 核心和 100+ 技术博客，涵盖了从基础到高级的 &lt;code&gt;CUDA&lt;/code&gt; 编程知识，以及如何使用 &lt;code&gt;PyTorch&lt;/code&gt; 等高级接口进行 &lt;code&gt;CUDA&lt;/code&gt; 编程的实践。&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://freegmail.go24.info/"&gt;freegmail&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Gmail&lt;/code&gt; 临时邮箱：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="freegmail" src="https://images-1252557999.file.myqcloud.com/uPic/EoVxAp.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://screenshot.domains/"&gt;screenshot.domains&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;将域名添加到 &lt;code&gt;URL&lt;/code&gt; 路径中，获取任何网站的截图：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="screenshot" src="https://images-1252557999.file.myqcloud.com/uPic/XzRlTu.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">04-14~04-19.老胡的周刊（第185期）.md</guid>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>04-07~04-12.老胡的周刊（第184期）.md</title>
       <link>https://weekly.howie6879.com/2025/04-07~04-12.老胡的周刊（第184期）.html</link>
@@ -1268,73 +1355,6 @@
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">10-28~11-03.老胡的周刊（第166期）.md</guid>
       <pubDate>Sun, 03 Nov 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>10-21~10-27.老胡的周刊（第165期）.md</title>
-      <link>https://weekly.howie6879.com/2024/10-21~10-27.老胡的周刊（第165期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/10-21~10-27.老胡的周刊（第165期）.html"&gt;10-21~10-27.老胡的周刊（第165期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/AgibotTech/agibot_x1_infer"&gt;agibot_x1_infer&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;稚晖君开源的智元家灵犀X1，智元人形机器人，全套资料全球开源，包括设计图纸和代码：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;开发指南链接&lt;/strong&gt;: &lt;a href="https://www.zhiyuan-robot.com/DOCS/OS/X1-PDG"&gt;开发指南&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;设计资料百度云盘&lt;/strong&gt; (提取码：1234): &lt;a href="https://pan.baidu.com/s/1UEdeDBTJiXRmIqMKwmO5RA?pwd=1234"&gt;百度云盘链接&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;设计资料谷歌云盘&lt;/strong&gt;: &lt;a href="https://drive.google.com/drive/folders/1MECbyKRJbnc_XKWsdUbn-70xmYFmw9FW?usp=sharing"&gt;谷歌云盘链接&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;推理代码&lt;/strong&gt;: &lt;a href="https://github.com/AgibotTech/agibot_x1_infer"&gt;推理代码链接&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;训练代码&lt;/strong&gt;: &lt;a href="https://github.com/AgibotTech/agibot_x1_train"&gt;训练代码链接&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="agibot_x1_infer" src="https://images-1252557999.file.myqcloud.com/uPic/QchElr.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/nepsyn/minaplay"&gt;minaplay&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个用于追番/追剧的个人媒体库，&lt;code&gt;MinaPlay&lt;/code&gt; 根据用户创建的 &lt;code&gt;RSS&lt;/code&gt; 订阅源、订阅规则自动下载媒体文件并生成描述信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;追番/追剧服务，个性化配置 RSS 订阅源、下载规则，打造独一无二属于自己的追番/追剧管家。&lt;/li&gt;
-&lt;li&gt;同步观影放映室，支持聊天消息和多人语音，叫上好朋友一起观影共享欢乐。&lt;/li&gt;
-&lt;li&gt;通知服务高度可拓展、可自定义模板，新内容的更新时间不再错过。&lt;/li&gt;
-&lt;li&gt;插件系统简单易用，像使用命令行一样调用各种插件提供的服务。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="minaplay" src="https://images-1252557999.file.myqcloud.com/uPic/mLBst8.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/wanghongenpin/proxypin"&gt;proxypin&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;基于 Flutter 开发的跨平台抓包软件，界面美观，交互简单：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="proxypin" src="https://images-1252557999.file.myqcloud.com/uPic/vGVbRn.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/1Remote/1Remote"&gt;1Remote&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;1Remote&lt;/code&gt; 是一款现代化的个人远程会话管理员和启动器，使用它你可以管理从一个入口管理多种远程会话：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;⭐ 开源且免费&lt;/li&gt;
-&lt;li&gt;⭐ 支持 RDP, SSH, VNC, Telnet, (S)FTP, RemoteApp 等多种协议&lt;/li&gt;
-&lt;li&gt;⭐ 多屏幕、高分辨率的 RDP 支持&lt;/li&gt;
-&lt;li&gt;⭐ 一键打开你的远程连接 (Alt + M)&lt;/li&gt;
-&lt;li&gt;⭐ 单个服务器配置中允许存储多个地址和账号&lt;/li&gt;
-&lt;li&gt;⭐ 基于选项卡的远程桌面界面、多语言、可自定义颜色主题&lt;/li&gt;
-&lt;li&gt;⭐ 易于部署，仅需解压就能运行&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="1Remote" src="https://images-1252557999.file.myqcloud.com/uPic/dgLzJC.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://www.jmeiners.com/lc3-vm/"&gt;lc3-vm&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;教程主要介绍了如何编写自己的虚拟机（VM），以运行 LC-3 架构的汇编语言程序，旨在帮助程序员更深入地理解计算机内部运作和编程语言的工作原理：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="lc3-vm" src="https://images-1252557999.file.myqcloud.com/uPic/rtzTGT.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/datawhalechina/whale-quant"&gt;whale-quant&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用 &lt;code&gt;Python&lt;/code&gt; 进行量化开发的能力：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="whale-quant" src="https://images-1252557999.file.myqcloud.com/uPic/a4aLmH.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://openbookshongkong.com/book/"&gt;openbookshongkong&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;开讀计劃由香港中文大学、香港城市大学和香港大学的图书馆与出版社共同发起，是香港首个开放取用图书计划。该计划于 2024 年 7 月 17 日推出了由三家大学出版社出版的九本中文图书，这些图书免费开放给公众，涵盖历史、哲学、宗教、法学、人类学、性别研究等领域。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="openbookshongkong" src="https://images-1252557999.file.myqcloud.com/uPic/gM7dMk.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">10-21~10-27.老胡的周刊（第165期）.md</guid>
-      <pubDate>Sun, 27 Oct 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
