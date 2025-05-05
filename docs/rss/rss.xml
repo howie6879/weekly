@@ -12,7 +12,82 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 20 Apr 2025 14:26:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 13:26:14 +0000</lastBuildDate>
+    <item>
+      <title>04-20~05-05.老胡的周刊（第186期）.md</title>
+      <link>https://weekly.howie6879.com/2025/04-20~05-05.老胡的周刊（第186期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/04-20~05-05.老胡的周刊（第186期）.html"&gt;04-20~05-05.老胡的周刊（第186期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/xming521/WeClone"&gt;WeClone&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;从聊天记录创造数字分身的一站式解决方案：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💫 涵盖打造数字分身的全链路方案，包括聊天数据导出、预处理、模型训练、部署&lt;/li&gt;
+&lt;li&gt;💬 使用微信聊天记录微调LLM，让大模型有“那味儿”&lt;/li&gt;
+&lt;li&gt;🎙️ 使用微信语音消息➕0.5B大模型实现高质量声音克隆 👉WeClone-audio&lt;/li&gt;
+&lt;li&gt;🔗 绑定到微信、QQ、Telegram、企微、飞书机器人，实现自己的数字分身&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href="https://github.com/funstory-ai/BabelDOC"&gt;BabelDOC&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个开源的文档翻译工具，支持多语言和多种 &lt;code&gt;PDF&lt;/code&gt; 处理选项，可以免费翻译 &lt;code&gt;PDF&lt;/code&gt; 文件中的前 1000 页内容。它提供了一个简单的命令行界面，以及 &lt;code&gt;Python API&lt;/code&gt; 的支持，主要用于集成到其他软件中，也可以直接用于简单的翻译任务：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="BabelDOC" src="https://images-1252557999.file.myqcloud.com/uPic/l8jWhb.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/supabase/supabase"&gt;supabase&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Supabase&lt;/code&gt; 是一个基于开源工具构建的 &lt;code&gt;Firebase&lt;/code&gt; 替代品，旨在通过使用企业级的开源技术，提供类似 &lt;code&gt;Firebase&lt;/code&gt; 的功能：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Supabase" src="https://images-1252557999.file.myqcloud.com/uPic/x0eIys.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/netptop/siteproxy"&gt;siteproxy&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;SiteProxy&lt;/code&gt; 是一个功能强大的在线代理工具，采用了最新的技术，提升了代理的稳定性和兼容性。我们致力于提供 简单、高效、安全 的代理服务，为用户提供最佳的互联网访问体验：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;超高速性能：采用 Hono 替代传统的Express 服务器，性能提升 4 倍，带来更流畅的使用体验。&lt;/li&gt;
+&lt;li&gt;云端部署：完美支持 Cloudflare Worker 部署，快速且高效。&lt;/li&gt;
+&lt;li&gt;AI 智能聊天：集成 DuckDuckGo AI Chat，免费提供 GPT-3.5 和 Claude 3，让你的代理服务更加智能。&lt;/li&gt;
+&lt;li&gt;高级安全保护：支持密码控制代理，只有授权用户才能访问，大幅提升安全性。&lt;/li&gt;
+&lt;li&gt;零配置使用：用户无需进行任何客户端配置，只需访问代理网址即可畅游全球互联网。&lt;/li&gt;
+&lt;li&gt;便捷登录：全面支持 GitHub 和 Telegram Web 登录，操作简单快捷。&lt;/li&gt;
+&lt;li&gt;强力加密：采用 RSA + AES 双重加密技术，保护用户登录密码，防止中间人攻击。&lt;/li&gt;
+&lt;li&gt;隐私保护：通过代理网址访问全球互联网，同时隐藏用户真实 IP，保护隐私。&lt;/li&gt;
+&lt;li&gt;无缝体验：无需任何软件安装和浏览器配置，即可立即使用，提供极致便利的用户体验。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ahmedkhaleel2004/gitdiagram"&gt;gitdiagram&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;gitdiagram&lt;/code&gt; 是一个免费、简单、快速的交互式图表生成工具，用于将任何 &lt;code&gt;GitHub&lt;/code&gt; 仓库的代码结构转换为可视化图表：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="gitdiagram" src="https://images-1252557999.file.myqcloud.com/uPic/bRhZnF.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/kubesphere/kubesphere"&gt;kubesphere&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;KubeSphere&lt;/code&gt; 愿景是打造一个以 &lt;code&gt;Kubernetes&lt;/code&gt; 为内核的 云原生分布式操作系统，它的架构可以非常方便地使第三方应用与云原生生态组件进行即插即用（plug-and-play）的集成，支持云原生应用在多云与多集群的统一分发和运维管理。&lt;code&gt;KubeSphere&lt;/code&gt; 也是一个多租户容器平台，提供全栈的 IT 自动化运维的能力，简化企业的 DevOps 工作流。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="kubesphere" src="https://images-1252557999.file.myqcloud.com/uPic/93hYoe.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/KikoPlayProject/KikoPlay"&gt;KikoPlay&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;KikoPlay&lt;/code&gt; 是一个全功能的弹幕播放器，支持流畅的 &lt;code&gt;OpenGL&lt;/code&gt; 渲染和多种播放模式，它拥有强大的树形播放列表功能，支持 &lt;code&gt;WebDAV&lt;/code&gt; 合集的添加和管理，能够搜索和下载弹幕，并具备灵活的弹幕屏蔽规则和管理功能。此外，&lt;code&gt;KikoPlay&lt;/code&gt; 还集成了每日放送、资源搜索、&lt;code&gt;aria2&lt;/code&gt; 下载等功能，并支持通过扩展 &lt;code&gt;App&lt;/code&gt; 添加更多自定义功能。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="KikoPlay" src="https://images-1252557999.file.myqcloud.com/uPic/VGvv1v.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/BHznJNs/MotionEaseTune"&gt;MotionEaseTune&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个安卓应用，通过 100Hz 声音来预防晕车症状，研究论文原文看&lt;a href="https://www.jstage.jst.go.jp/article/ehpm/30/0/30_24-00247/_html"&gt;这里&lt;/a&gt;，使用条件：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;txt
+纯音（正弦波）的频率应为 100 Hz
+声音大小：80-85 dBZ OR 60.9-65.9 dBA
+应对双耳进行声音暴露，要确保双耳接收到同等的刺激
+纯音暴露的持续时间为 1 分钟&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view"&gt;Prompt Engineering&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Google&lt;/code&gt; 官方出品的提示工程（&lt;code&gt;Prompt Engineering&lt;/code&gt;）白皮书，该书系统性介绍了 &lt;code&gt;Prompt Engineering&lt;/code&gt; 相关技术，包括 &lt;code&gt;LLMs&lt;/code&gt; 基础知识、提示技巧和诸多最佳实践。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/enhancedformysql/The-Art-of-Problem-Solving-in-Software-Engineering_How-to-Make-MySQL-Better"&gt;How to Make MySQL Better&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;通过分析 &lt;code&gt;MySQL&lt;/code&gt; 挑战案例来解决软件工程问题的方法论，旨在帮助读者更好地理解逻辑推理、数据结构、算法等通用概念，并通过实际示例和深入讨论增强对 &lt;code&gt;MySQL&lt;/code&gt; 性能优化的理解：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="How to Make MySQL Better" src="https://images-1252557999.file.myqcloud.com/uPic/OVUkJI.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://confluence.org/"&gt;confluence.org&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;网站目标是访问世界上每一个经纬度为整数的交叉点，并在每个地点拍照记录：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="confluence" src="https://images-1252557999.file.myqcloud.com/uPic/aDxPoP.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">04-20~05-05.老胡的周刊（第186期）.md</guid>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>04-14~04-19.老胡的周刊（第185期）.md</title>
       <link>https://weekly.howie6879.com/2025/04-14~04-19.老胡的周刊（第185期）.html</link>
@@ -49,7 +124,7 @@
 &lt;p&gt;&lt;img alt="chatlog" src="https://images-1252557999.file.myqcloud.com/uPic/NSigD0.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/oomol-lab/pdf-craft"&gt;pdf-craft&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;PDF Craft&lt;/code&gt; 可以将 &lt;code&gt;PDF&lt;/code&gt; 文件转化为各种其他格式，该项目将专注于扫描书籍的 &lt;code&gt;PDF&lt;/code&gt; 文件的处理：&lt;/p&gt;
-&lt;p&gt;![&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/7Gx8lB.png"&gt;pdf-craft&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pdf-craft" src="https://images-1252557999.file.myqcloud.com/uPic/7Gx8lB.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;🤖 软件&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="https://github.com/deepshit2025/tuboshu"&gt;tuboshu&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;一款桌面应用转换工具，让你用快捷键魔法般控制任何网页应用：&lt;/p&gt;
@@ -1301,60 +1376,6 @@
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">11-04~11-10.老胡的周刊（第167期）.md</guid>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>10-28~11-03.老胡的周刊（第166期）.md</title>
-      <link>https://weekly.howie6879.com/2024/10-28~11-03.老胡的周刊（第166期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/10-28~11-03.老胡的周刊（第166期）.html"&gt;10-28~11-03.老胡的周刊（第166期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/lovasoa/whitebophir"&gt;whitebophir&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个简单、免费、易于使用和部署的在线协作白板。该白板允许多个用户同时实时绘图，并且可以保存白板状态：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="whitebophir" src="https://images-1252557999.file.myqcloud.com/uPic/KZgRku.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/kuangdd2024/auto-video-generateor?tab=readme-ov-file"&gt;auto-video-generateor&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;自动视频生成器，给定主题，自动生成解说视频。用户输入主题文字，系统调用大语言模型生成故事或解说的文字，然后进一步调用语音合成接口生成解说的语音，调用文生图接口生成契合文字内容的配图，最后融合语音和配图生成解说视频。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="auto-video-generateor" src="https://images-1252557999.file.myqcloud.com/uPic/KHPaGI.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/JLinMr/Mini-Cover"&gt;Mini-Cover&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Mini-Cover" src="https://images-1252557999.file.myqcloud.com/uPic/OGMrle.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/amir1376/ab-download-manager"&gt;ab-download-manager&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;旨在提供比传统下载方式更快下载速度的开源跨平台下载器，界面非常现代化：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ab-download-manager" src="https://images-1252557999.file.myqcloud.com/uPic/ECGYnu.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/jinweijie/notify-me"&gt;notify-me&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;开源免费的 &lt;code&gt;Android&lt;/code&gt; 应用，自动捕获来电和短信，并通过电子邮件或 &lt;code&gt;Webhook&lt;/code&gt; 转发至 &lt;code&gt;Bark&lt;/code&gt; 服务器。用户可在其他设备上通过 Bark 应用接收通知，确保及时获取重要信息，解决多设备信息聚合的问题：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="notify-me" src="https://images-1252557999.file.myqcloud.com/uPic/oSr8cn.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/lanyeeee/bilibili-manga-downloader"&gt;bilibili-manga-downloader&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个用于哔哩哔哩漫画的多线程下载器，带图形界面，支持特典下载，下载速度飞快:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="bilibili-manga-downloader" src="https://images-1252557999.file.myqcloud.com/uPic/ZqukK1.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/hanydd/BilibiliSponsorBlock"&gt;BilibiliSponsorBlock&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一款跳过B站视频中恰饭片段的浏览器插件，移植自 &lt;a href="https://github.com/ajayyy/SponsorBlock"&gt;SponsorBlock&lt;/a&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="BilibiliSponsorBlock" src="https://images-1252557999.file.myqcloud.com/uPic/3iEbMD.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/AIGeniusInstitute/AI-Agent-In-Action"&gt;AI-Agent-In-Action&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;开源的 &lt;code&gt;AI Agent&lt;/code&gt; 开发实战书籍：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="AI-Agent-In-Action" src="https://images-1252557999.file.myqcloud.com/uPic/VkUaD9.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://www.beiancx.com/"&gt;beiancx&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;域名备案查询工具网站：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="beiancx" src="https://images-1252557999.file.myqcloud.com/uPic/7X7Kkn.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://zhale.me/"&gt;zhale.me&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;这是一款为运维人员和站长设计的在线网络测试工具，拥有超过1000个全球节点。它可以模拟用户访问特定的域名或IP地址，免费提供网站速度测试、网络速度检测、多地区在线ping测试、DNS查询、路由跟踪以及IPv6网站测试等多种站长工具：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="zhale.me" src="https://images-1252557999.file.myqcloud.com/uPic/rwk3mb.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">10-28~11-03.老胡的周刊（第166期）.md</guid>
-      <pubDate>Sun, 03 Nov 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
