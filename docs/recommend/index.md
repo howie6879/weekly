@@ -5,91 +5,83 @@
 
 ## 🎯 项目 
 
-### [Scrapegraph](https://github.com/VinciGit00/Scrapegraph-ai)
+### [toolbox](https://github.com/aoaostar/toolbox)
 
-基于 `LLM` 大模型的 `Python` 爬虫框架：
+🚀傲星工具箱，一个在线工具箱：
 
-![scrapegraph](https://images-1252557999.file.myqcloud.com/uPic/scrapegraph.jpg) 
+![toolbox](https://images-1252557999.file.myqcloud.com/uPic/toolbox.png) 
 
-### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
+### [EasySpider](https://github.com/NaiboWang/EasySpider)
 
-提供多款 SS 规则，拥有强劲的广告过滤功能：
+一个可视化浏览器自动化测试/数据采集/爬虫软件，可以使用图形化界面，无代码可视化的设计和执行任务。只需要在网页上选择自己想要操作的内容并根据提示框操作即可完成任务的设计和执行。同时软件还可以单独以命令行的方式进行执行，从而可以很方便的嵌入到其他系统中。
 
-![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
+![EasySpider](https://images-1252557999.file.myqcloud.com/uPic/EasySpider.jpg) 
 
-### [Free-TVUrl-Merge](https://github.com/vpei/Free-TVUrl-Merge)
+### [LightBook](https://github.com/underthestars-zhy/LightBook)
 
-免费 `TvBox` 影视站聚合，`TVBox、Pluto Player、猫影视TV` 等影视播放软件通用接口都可使用：
+开源的小说下载脚本项目，输出格式为 `EPUB`：
 
-![Free-TVUrl-Merge](https://images-1252557999.file.myqcloud.com/uPic/Free-TVUrl-Merge.png) 
+![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
 
 ## 🤖 软件 
 
-### [wiliwili](https://github.com/xfangfang/wiliwili)
+### [codeapp](https://github.com/thebaselab/codeapp)
 
-专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和 `Nintendo Switch` 上：
+为 `iPad` 构建一个成熟的代码编辑器：
 
-![wiliwili](https://images-1252557999.file.myqcloud.com/uPic/wiliwili.jpeg) 
+![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
 
-### [pdfarranger](https://github.com/pdfarranger/pdfarranger)
+### [Pearcleaner](https://github.com/alienator88/Pearcleaner)
 
-一个小巧开源免费的 `Python-GTK` 应用程序，可以帮助用户使用交互和直观的图形界面合并或拆分 `PDF` 文档，并旋转、裁剪和重新排列页面：
+一个专为 `Mac` 设计的应用卸载工具：
 
-![pdfarranger](https://images-1252557999.file.myqcloud.com/uPic/pdfarranger.png) 
+![baJDOT](https://images-1252557999.file.myqcloud.com/uPic/baJDOT.png) 
 
-### [chatd.ai](https://www.chatd.ai/)
+### [tunnelblick](https://tunnelblick.net/)
 
-您自己的私人本地AI，可以阅读计算机上的文件然后与您的文件进行聊天，该软件目标如下：
+免费开源的`openvpn`客户端：
 
-- 一键式下载与启动。
-- 无需额外依赖。
-- 应用文件体积最小化。
-- 设计简单的大语言模型版本控制与分发系统。
-- 兼容所有主流操作系统。
-- 利用本地运行的优势，如访问本地文件系统。
-- 用户无需调整任何设置，大语言模型在他们的系统上即插即用。
-
-详情见介绍文章：[packaging-language-models-into-desktop-apps](https://www.bmacd.xyz/packaging-language-models-into-desktop-apps/) 
+![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
 
 ## 👀 资料 
 
-### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+### [PySide6-Code-Tutorial](https://github.com/muziing/PySide6-Code-Tutorial)
 
-比较全面的 `k8s` 资源收集项目：
+用代码实例讲解PySide6，附优质Demos、图标库、QSS皮肤、相关文章等分享：
 
-![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
+![PySide6-Code-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/UqIUuM.png) 
 
-### [FudanSELab/Agent4SE-Paper-List](https://github.com/FudanSELab/Agent4SE-Paper-List)
+### [微信之父张小龙2351条饭否日记](https://docs.qq.com/doc/DWUVKZERkeGFLckp6?dver=)
 
-该仓库由复旦大学软件工程实验室（FudanSELab）创建的，旨在为大型语言模型（LLMs）基础的软件工程代理（Agent）领域提供一个系统的文献综述：
+微信之父张小龙2351条饭否日记:
 
-![Agent4SE-Paper-List](https://images-1252557999.file.myqcloud.com/uPic/uFo2bN.png) 
+![zxl_ff](https://images-1252557999.file.myqcloud.com/uPic/zxl_ff.jpg) 
 
-### [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+### [凤凰架构](https://github.com/fenixsoft/awesome-fenix)
 
-开源的 `MCP servers` 收集项目：
+这是一部以“**如何构建一套可靠的分布式大型软件系统**”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《[什么是凤凰架构](https://icyfenix.cn/introduction/about-the-fenix-project.html)》详细阐述了这部文档的主旨、目标与名字的来由，文章《[如何开始](https://icyfenix.cn/exploration/guide/quick-start.html)》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
 
-![awesome-mcp-servers](https://images-1252557999.file.myqcloud.com/uPic/DkjYJG.png) 
+![icyfenix](https://images-1252557999.file.myqcloud.com/uPic/icyfenix.jpg) 
 
 ## 🕸 网站 
 
-### [fancymacbook](https://fancymacbook.app/)
+### [chatplugin.top](https://www.chatplugin.top/)
 
-提供技术向软件搜索然后输出 `brew` 命令安装：
+`ChatGPT Plugin` 收录网站，并且将插件汉化：
 
-![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
+![chatplugin](https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg) 
 
-### [apivault.dev](https://apivault.dev/)
+### [linegraphmaker](https://linegraphmaker.co/)
 
-免费开源的公共 `API` 网站：
+在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
 
-![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
+![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
 
-### [db-fiddle](https://www.db-fiddle.com/)
+### [caniuse](https://caniuse.com/)
 
-免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
+网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
 
-![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
+![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
 
 ## ✍️ 说明
 
