@@ -5,83 +5,90 @@
 
 ## 🎯 项目 
 
-### [DweebUI](https://github.com/lllllllillllllillll/DweebUI)
+### [homepage](https://github.com/benphelps/homepage)
 
-用于管理容器的免费开源 `WebUI`，颜值不错，但是功能还不大够，值得期待：
+高度可定制的首页仪表板应用项目：
 
-![DweebUI](https://images-1252557999.file.myqcloud.com/uPic/DweebUI.png) 
+![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
 
-### [statping](https://github.com/statping/statping)
+### [vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)
 
-一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
+基于 fabric.js 和 Vue 的图片海报编辑器，可自定义字体、素材、设计模板：
 
-![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
+![vue-fabric-editor](https://images-1252557999.file.myqcloud.com/uPic/vue-fabric-editor.png) 
 
-### [resume-design](https://github.com/Hacker233/resume-design)
+### [Kyoo](https://github.com/zoriya/Kyoo)
 
-一款开源免费的简历制作神器，支持导出超高清 PDF、图片、源码级 JSON 数据等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。
+`Kyoo` 是一款开源媒体浏览器，可让您流式传输电影、电视节目或动漫。它是 `Plex、Emby or Jellyfin` 的替代品：
 
-![resume-design](https://images-1252557999.file.myqcloud.com/uPic/y8rbsD.png) 
+![kyoo](https://images-1252557999.file.myqcloud.com/uPic/kyoo.jpg)
+
+目前产品形态只有 `Web` 和 `Android`。 
 
 ## 🤖 软件 
 
-### [Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8)
+### [RTranslator](https://github.com/niedev/RTranslator)
 
-基于 `PySide6` 和 `QFluentWidgets` 的跨平台 `m3u8` 下载软件：
+`RTransator` 是一个(几乎)开源的、免费的、离线的 `Android` 实时翻译应用程序。
 
-![Fluent-M3U8](https://images-1252557999.file.myqcloud.com/uPic/T7q1jB.png) 
+连接到有这个应用程序的人，连接蓝牙耳机，把手机放在你的口袋里，你就可以像对方说你的语言一样进行交谈。
 
-### [AirBattery](https://github.com/lihaoyun6/AirBattery)
+![RTranslator](https://images-1252557999.file.myqcloud.com/uPic/RTranslator.jpg) 
 
-在 `Mac` 上获取你所有设备的电量信息并显示在 `Dock` / 状态栏 / 小组件上：
+### [SwitchHosts](https://github.com/oldj/SwitchHosts)
 
-![AirBattery](https://images-1252557999.file.myqcloud.com/uPic/AirBattery.jpg) 
+`SwitchHosts` 是一个管理 hosts 文件的应用，基于 `Electron 、React、UmiJS 、Chakra UI、CodeMirror` 等技术开发：
 
-### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
+![SwitchHosts](https://images-1252557999.file.myqcloud.com/uPic/SwitchHosts.png)
+和 [GitHub520](https://github.com/521xueweihan/GitHub520) 配合提升 `github` 加载速度也是挺香。 
 
-> 让每个人都简单方便的使用前沿人工智能技术
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
-一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 
-![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
 ## 👀 资料 
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+### [Al精选工具库](https://t16jzwqrzjx.feishu.cn/wiki/EsvowFAqFiTiYDkJgE0cWquPnWb)
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+18 个模块 100 个 AI 工具：
 
-### [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)
+![ai_tools](https://images-1252557999.file.myqcloud.com/uPic/ai_tools.jpg) 
 
-一本由 GPT4 生成的中英词典，涵盖 8000 高频词汇：
+### [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/)
 
-![DictionaryByGPT4](https://images-1252557999.file.myqcloud.com/uPic/DictionaryByGPT4.png) 
+命令行的数据科学，本书演示了如何通过命令行的灵活性帮你成为更高效、更有生产力的数据科学家。
 
-### [RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide)
+![telegram-cloud-photo-size-5-6181558086683180904-y](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6181558086683180904-y.jpg) 
 
-颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南：
+### [nextjs-learn-cn](https://qufei1993.github.io/nextjs-learn-cn/)
 
-![web-visual-bookmark@2x](https://images-1252557999.file.myqcloud.com/uPic/web-visual-bookmark@2x.png) 
+一份 `Next.js` 中文教程：
+
+![nextjs-learn-c](https://images-1252557999.file.myqcloud.com/uPic/nextjs-learn-c.jpg) 
 
 ## 🕸 网站 
 
-### [apitracker](https://apitracker.io/)
+### [workout](https://workout.lol/)
 
-发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
+免费[开源-workout-lol](https://github.com/workout-lol/workout-lol)的健身网站，选择你拥有的器材、锻炼的肌肉位置，网站便会为你制定锻炼计划：
 
-![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
+![workout](https://images-1252557999.file.myqcloud.com/uPic/workout.jpg) 
 
-### [shan-shui-inf](http://shan-shui-inf.lingdong.works/)
+### [1loc](https://1loc.dev/)
 
-一个在线山水画生成器，能一键生成矢量山水画，你可以自定义画卷长度，可以下载SVG，同时项目也在github开源了，具体见[shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)。
+一行 `js` 代码，可以实现哪些基础功能？这个网站做了汇总：
 
-![shanshui-inf](https://images-1252557999.file.myqcloud.com/uPic/shanshui-inf.jpg) 
+![1loc](https://images-1252557999.file.myqcloud.com/uPic/1loc.jpg) 
 
-### [uilibhub](https://uilibhub.com/zh)
+### [emojicode](https://www.emojicode.org/)
 
-探索最佳 `UI` 库，助力 `React & Vue` 高效开发：
+这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
 
-![uilibhub](https://images-1252557999.file.myqcloud.com/uPic/uilibhub.jpg) 
+![emojicode](https://images-1252557999.file.myqcloud.com/uPic/emojicode.jpg)
+
+现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
 
 ## ✍️ 说明
 
