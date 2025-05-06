@@ -5,83 +5,95 @@
 
 ## 🎯 项目 
 
-### [toolbox](https://github.com/aoaostar/toolbox)
+### [photoview](https://github.com/photoview/photoview)
 
-🚀傲星工具箱，一个在线工具箱：
+开源的相册程序，可基于Docker快速构建：
 
-![toolbox](https://images-1252557999.file.myqcloud.com/uPic/toolbox.png) 
+![photoview](https://images-1252557999.file.myqcloud.com/uPic/photoview.png) 
 
-### [EasySpider](https://github.com/NaiboWang/EasySpider)
+### [typst](https://github.com/typst/typst)
 
-一个可视化浏览器自动化测试/数据采集/爬虫软件，可以使用图形化界面，无代码可视化的设计和执行任务。只需要在网页上选择自己想要操作的内容并根据提示框操作即可完成任务的设计和执行。同时软件还可以单独以命令行的方式进行执行，从而可以很方便的嵌入到其他系统中。
+`Typst` 是一种基于标记的排版系统，旨在具备与 `LaTeX` 相当强大的功能，同时更易学习和使用：
 
-![EasySpider](https://images-1252557999.file.myqcloud.com/uPic/EasySpider.jpg) 
+- 内置常见格式任务的标记
+- 灵活的功能用于其他所有任务
+- 紧密集成的脚本系统
+- 数学排版、参考文献管理等功能
+- 通过增量编译实现快速编译时间
+- 友好错误提示以防出错
 
-### [LightBook](https://github.com/underthestars-zhy/LightBook)
+专注于您的文本，让Typst来处理布局和格式。
 
-开源的小说下载脚本项目，输出格式为 `EPUB`：
+![typst](https://images-1252557999.file.myqcloud.com/uPic/typst.jpg) 
 
-![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
+### [notion-blog](https://github.com/ijjk/notion-blog)
+
+基于 `Notion` 构建静态站点：
+
+![notion-blog](https://images-1252557999.file.myqcloud.com/uPic/notion-blog.jpg) 
 
 ## 🤖 软件 
 
-### [codeapp](https://github.com/thebaselab/codeapp)
+### [Restfox](https://github.com/flawiddsouza/Restfox)
 
-为 `iPad` 构建一个成熟的代码编辑器：
+可以理解成 `postman` 开源替代版本，支持网页跨平台，非常简洁，有插件体系，可以从 `postman` 导入数据：
 
-![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
+![restfox](https://images-1252557999.file.myqcloud.com/uPic/restfox.jpg) 
 
-### [Pearcleaner](https://github.com/alienator88/Pearcleaner)
+### [Alexandria](https://github.com/btpf/Alexandria)
 
-一个专为 `Mac` 设计的应用卸载工具：
+一个极简的跨平台电子书阅读器，使用 `Tauri` ❤️ `Epub.js` 构建：
 
-![baJDOT](https://images-1252557999.file.myqcloud.com/uPic/baJDOT.png) 
+![Alexandria](https://images-1252557999.file.myqcloud.com/uPic/Alexandria.png) 
 
-### [tunnelblick](https://tunnelblick.net/)
+### [tuboshu](https://github.com/deepshit2025/tuboshu)
 
-免费开源的`openvpn`客户端：
+一款桌面应用转换工具，让你用快捷键魔法般控制任何网页应用：
 
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+- 🔥 一键网页转应用 - 将任何网站变成独立的桌面应用
+- 🚀 账户多开 - 网站可以多开，支持账户隔离，独立运行互不干扰
+- ⚡️ 闪电切换 - 全局快捷键快速显示/隐藏（默认 Ctrl/Cmd + H）
+- 🎨 深度定制 - 自定义窗口尺寸、图标、快捷键,支持JS注入，定制专属自己的页面
+- 📦 便携打包 - 生成可执行文件（支持 Windows/macOS/Linux）
+- 🔒 隐私保护 - 本地存储配置数据，无需云端同步
+- 🌍 多平台支持 - 完美运行于主流操作系统
+- 🎮无需复杂配置即可自由添加站点
+
+![tuboshu](https://images-1252557999.file.myqcloud.com/uPic/d1GxMj.png) 
 
 ## 👀 资料 
 
-### [PySide6-Code-Tutorial](https://github.com/muziing/PySide6-Code-Tutorial)
+### [MasteringRAG](https://github.com/Steven-Luo/MasteringRAG)
 
-用代码实例讲解PySide6，附优质Demos、图标库、QSS皮肤、相关文章等分享：
+本项目是一个使用LLM（大语言模型）使用RAG技术构建文档问答的项目，将会涵盖企业构建基于RAG的文档问答几乎所有的常见优化手段。 
 
-![PySide6-Code-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/UqIUuM.png) 
+### [v8-internals](https://github.com/plctlab/v8-internals)
 
-### [微信之父张小龙2351条饭否日记](https://docs.qq.com/doc/DWUVKZERkeGFLckp6?dver=)
+面向编译器开发人员的V8内部实现文档。 
 
-微信之父张小龙2351条饭否日记:
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-![zxl_ff](https://images-1252557999.file.myqcloud.com/uPic/zxl_ff.jpg) 
-
-### [凤凰架构](https://github.com/fenixsoft/awesome-fenix)
-
-这是一部以“**如何构建一套可靠的分布式大型软件系统**”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《[什么是凤凰架构](https://icyfenix.cn/introduction/about-the-fenix-project.html)》详细阐述了这部文档的主旨、目标与名字的来由，文章《[如何开始](https://icyfenix.cn/exploration/guide/quick-start.html)》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
-
-![icyfenix](https://images-1252557999.file.myqcloud.com/uPic/icyfenix.jpg) 
+ 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
 
 ## 🕸 网站 
 
-### [chatplugin.top](https://www.chatplugin.top/)
+### [iconoir](https://iconoir.com/)
 
-`ChatGPT Plugin` 收录网站，并且将插件汉化：
+开源的SVG图标搜索引擎：
 
-![chatplugin](https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg) 
+![iconoir](https://images-1252557999.file.myqcloud.com/uPic/iconoir.jpg) 
 
-### [linegraphmaker](https://linegraphmaker.co/)
+### [favicon.io](https://favicon.io/)
 
-在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
+免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
 
-![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
+![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
 
-### [caniuse](https://caniuse.com/)
+### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
 
-网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
+Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
 
-![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
+![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
 
 ## ✍️ 说明
 
