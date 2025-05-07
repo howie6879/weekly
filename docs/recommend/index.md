@@ -5,95 +5,105 @@
 
 ## 🎯 项目 
 
-### [photoview](https://github.com/photoview/photoview)
+### [nginx-ui](https://github.com/0xJacky/nginx-ui)
 
-开源的相册程序，可基于Docker快速构建：
+Nginx 后台管理UI：
 
-![photoview](https://images-1252557999.file.myqcloud.com/uPic/photoview.png) 
+- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
+- 在线 ChatGPT 助理
+- 一键申请和自动续签 Lets encrypt 证书
+- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
+- 在线查看 Nginx 日志
+- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
+- 保存配置后自动测试配置文件并重载 Nginx
+- 基于网页浏览器的高级命令行终端
+- 支持深色模式
+- 自适应网页设计
 
-### [typst](https://github.com/typst/typst)
+![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
 
-`Typst` 是一种基于标记的排版系统，旨在具备与 `LaTeX` 相当强大的功能，同时更易学习和使用：
+### [browser-use](https://github.com/browser-use/browser-use)
 
-- 内置常见格式任务的标记
-- 灵活的功能用于其他所有任务
-- 紧密集成的脚本系统
-- 数学排版、参考文献管理等功能
-- 通过增量编译实现快速编译时间
-- 友好错误提示以防出错
+一种允许人工智能控制浏览器的解决方案，通过提取网页上所有交互元素，使得 `AI Agent` 能够更专注地执行其任务:
 
-专注于您的文本，让Typst来处理布局和格式。
+![browser-use](https://images-1252557999.file.myqcloud.com/uPic/PZHVoz.png) 
 
-![typst](https://images-1252557999.file.myqcloud.com/uPic/typst.jpg) 
+### [moffee](https://github.com/BMPixel/moffee)
 
-### [notion-blog](https://github.com/ijjk/notion-blog)
+开源的 `Markdown` 幻灯片制作工具，可以将 `Markdown` 文档转换为专业的幻灯片（PPT）。它支持简单的语法、自动分页和样式设置，用户只需专注于内容，可以通过实时网页界面预览或导出为 `PDF`：
 
-基于 `Notion` 构建静态站点：
-
-![notion-blog](https://images-1252557999.file.myqcloud.com/uPic/notion-blog.jpg) 
+![moffee](https://images-1252557999.file.myqcloud.com/uPic/moffee.png) 
 
 ## 🤖 软件 
 
-### [Restfox](https://github.com/flawiddsouza/Restfox)
+### [marktext](https://github.com/marktext/marktext)
 
-可以理解成 `postman` 开源替代版本，支持网页跨平台，非常简洁，有插件体系，可以从 `postman` 导入数据：
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
 
-![restfox](https://images-1252557999.file.myqcloud.com/uPic/restfox.jpg) 
+![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
 
-### [Alexandria](https://github.com/btpf/Alexandria)
+### [memreduct](https://github.com/henrypp/memreduct)
 
-一个极简的跨平台电子书阅读器，使用 `Tauri` ❤️ `Epub.js` 构建：
+轻量优雅的 `Windows` 内存管理工具，让用户实时监控计算机内存和清理系统缓存，体积小(6MB)、内存释放效果明显，兼容 `Windows XP` 及更高版本：
 
-![Alexandria](https://images-1252557999.file.myqcloud.com/uPic/Alexandria.png) 
+![memreduct](https://images-1252557999.file.myqcloud.com/uPic/memreduct.jpg) 
 
-### [tuboshu](https://github.com/deepshit2025/tuboshu)
+### [GestureSign](https://github.com/TransposonY/GestureSign)
 
-一款桌面应用转换工具，让你用快捷键魔法般控制任何网页应用：
+开源免费的 `Windows` 全局手势控制辅助增强软件神器:
 
-- 🔥 一键网页转应用 - 将任何网站变成独立的桌面应用
-- 🚀 账户多开 - 网站可以多开，支持账户隔离，独立运行互不干扰
-- ⚡️ 闪电切换 - 全局快捷键快速显示/隐藏（默认 Ctrl/Cmd + H）
-- 🎨 深度定制 - 自定义窗口尺寸、图标、快捷键,支持JS注入，定制专属自己的页面
-- 📦 便携打包 - 生成可执行文件（支持 Windows/macOS/Linux）
-- 🔒 隐私保护 - 本地存储配置数据，无需云端同步
-- 🌍 多平台支持 - 完美运行于主流操作系统
-- 🎮无需复杂配置即可自由添加站点
+- 支持 `Windows 11、Win10 / 8` 等系统
+- 支持鼠标手势、触控板等手势操作
+- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
 
-![tuboshu](https://images-1252557999.file.myqcloud.com/uPic/d1GxMj.png) 
+![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
 
 ## 👀 资料 
 
-### [MasteringRAG](https://github.com/Steven-Luo/MasteringRAG)
+### [Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
 
-本项目是一个使用LLM（大语言模型）使用RAG技术构建文档问答的项目，将会涵盖企业构建基于RAG的文档问答几乎所有的常见优化手段。 
+一些好用的 Dify 工作流集合，括了中英文翻译、知识库聊天、搜索大师、爆款标题、文章仿写、运营一条龙、聊天机器人、代码生成等工作流。 
 
-### [v8-internals](https://github.com/plctlab/v8-internals)
+### [MDN Web Docs](https://github.com/mdn/translated-content)
 
-面向编译器开发人员的V8内部实现文档。 
+`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
 
-### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
 
- 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
+### [harleyszhang/llm_note](https://github.com/harleyszhang/llm_note)
+
+一个关于大型语言模型（LLM）的笔记仓库，涵盖了模型推理、Transformer 模型结构、LLM 框架代码分析以及高性能计算等内容:
+
+- Transformer 模型系列：详细解读了 Transformer 模型的论文，实现代码，以及不同版本的 GPT 和 LLaMA 模型结构。
+- LLM 性能分析：分析了模型的参数量、计算量、显存占用以及推理延迟。
+- LLM 压缩技术：介绍了 SmoothQuant 和 AWQ 等模型压缩算法。
+- LLM 推理与部署：讨论了推理服务框架的技术总结和源码解析，包括 DeepSpeed 框架的学习笔记，以及推理优化、系统优化方法和可视化工具。
+- 高性能计算：提供了关于 Triton 和 CUDA 的编程笔记，以及高性能计算编程的学习资料推荐。 
 
 ## 🕸 网站 
 
-### [iconoir](https://iconoir.com/)
+### [tinypng](https://tinypng.com/)
 
-开源的SVG图标搜索引擎：
+比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
 
-![iconoir](https://images-1252557999.file.myqcloud.com/uPic/iconoir.jpg) 
+![tinypng](https://images-1252557999.file.myqcloud.com/uPic/8s8ltr.png)
 
-### [favicon.io](https://favicon.io/)
+如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
 
-免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
+- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
 
-![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
+### [vim.is](https://vim.is/#exercise)
 
-### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
+`Vim`学习网站：
 
-Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
+![vim.is](https://images-1252557999.file.myqcloud.com/uPic/iA6wxm.png) 
 
-![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
+### [whatslink](https://whatslink.info/)
+
+简单的 `DDL/Torrent/Ed2k`下载链接元数据查询服务，可以在下载之前帮助你预览目标链接内容：
+
+![whatslink](https://images-1252557999.file.myqcloud.com/uPic/whatslink.jpg) 
 
 ## ✍️ 说明
 
