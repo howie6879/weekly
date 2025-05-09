@@ -5,109 +5,98 @@
 
 ## 🎯 项目 
 
-### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
+### [duplicati](https://github.com/duplicati/duplicati)
 
-`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
+Duplicati 是一个免费的开源备份客户端，可将加密的、增量的、压缩的备份安全地存储在云存储服务和远程文件服务器上:
 
-![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
+![duplicati](https://images-1252557999.file.myqcloud.com/uPic/duplicati.jpg) 
 
-### [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
+### [immich](https://github.com/immich-app/immich)
 
-基于 `CloudFlare Pages` 的免费图片托管解决方案，支持 `Telegram Bot` 和 `Cloudflare R2` 等多种存储方式:
+一个开源的高性能自托管照片和视频备份解决方案：
 
-![CloudFlare-ImgBed](https://images-1252557999.file.myqcloud.com/uPic/49JpVO.png) 
+![immich](https://images-1252557999.file.myqcloud.com/uPic/immich.jpg) 
 
-### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
+### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
 
-`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
+动漫、电视剧的自动更新及在线观看，项目介绍：
 
-一个获取百度网盘分享链接下载地址的工具：
+- 聚合各种阿里云盘资源
+- 实现动漫、电视剧、电影的自动更新
+- 通过docker部署的Alist项目，实现影视的在线搜索及观看
 
-![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
+![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
 
 ## 🤖 软件 
 
-### [little-rat](https://github.com/dnakov/little-rat)
+### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
 
-Little Rat 是一款开源的 Chrome 扩展，用于实时监测其它的 Chrome 扩展联网情况，并可以选择阻止联网，防止恶意扩展：
+基于 Electron + Vue + ffmpeg 的 GUI：
 
-![little-rat](https://images-1252557999.file.myqcloud.com/uPic/little-rat.webp) 
+![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
 
-### [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop)
+### [postcat](https://github.com/Postcatlab/postcat)
 
-`AirPods` 桌面用户体验增强程序(仅支持 Windows)：
+`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
 
-- 🔋 电池信息显示
-- 👂 自动人耳检测
-- 🚀 低音频延迟模式
-- 🌈 精美的动画
+![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
 
-![AirPodsDesktop](https://images-1252557999.file.myqcloud.com/uPic/AirPodsDesktop.gif) 
+### [notepad--](https://github.com/cxasm/notepad--)
 
-### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
+这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
 
-安全、快速与轻量的远程桌面&文件管理工具：
+> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
 
-![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
+![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
 
 ## 👀 资料 
 
-### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
+### developer-roadmap
 
-`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
+开发人员学习成长路线图：
 
-![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
+![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
 
-`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
+### [bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain)
 
-![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
+它为希望构建自己的基于检索增强生成（RAG）应用程序的开发者提供了一系列的资源和指导。该项目涵盖了从基础到高级的 RAG 实现，包括多查询、自定义 RAG 管道、高级检索和重排技术。仓库中包含了一系列的教程笔记本，这些笔记本详细介绍了 RAG 架构的设置、数据预处理、嵌入生成、向量存储、多查询技术、逻辑和语义路由、查询结构化、高级索引和检索技术等。
 
-更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
+![bRAG-langchain](https://images-1252557999.file.myqcloud.com/uPic/u0SkKz.png) 
 
-### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
+### [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 
-《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
+微软免费课程：12堂课入门生成式AI，从而开始构建你自己的生成式人工智能应用程序：
 
-![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
-
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
-
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
-
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
-
-![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
+![generative-ai-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/generative-ai-for-beginners.png) 
 
 ## 🕸 网站 
 
-### [tgscan](https://tgscan.xyz/)
+### [calmcode](https://calmcode.io/)
 
-免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
+非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
 
-- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
-- 网页：[tgscan.xyz](https://tgscan.xyz/)
+![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
 
-![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
+### [appbaseio/mirage](https://opensource.appbase.io/mirage/)
 
-### [web.dev](https://web.dev/learn/)
+这是一个用于简化 `ES` 查询语句编写的开源项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句：
 
-谷歌团队开放的网页设计与开发课程：
+- 开源代码地址：[https://github.com/appbaseio/mirage](https://github.com/appbaseio/mirage)
+- 访问地址： [https://opensource.appbase.io/mirage/](https://opensource.appbase.io/mirage/)
 
-![web_dev](https://images-1252557999.file.myqcloud.com/uPic/web_dev.jpg) 
+当然你也可以本机自行部署，非常方便，比较遗憾的是目前只支持到 `-v7.x`：
 
-### [腾讯 ARC](https://arc.tencent.com/zh/ai-demos/faceRestoration)
+![mirage](https://images-1252557999.file.myqcloud.com/uPic/mirage.png) 
 
-腾讯 `ARC Lab` 被称为腾讯 `PCG` 的「侦察兵」、「特种兵」，站在腾讯探索挑战智能媒体相关前沿技术的第一线。
+### [webutils](https://www.webutils.app/)
 
-这个 `Demo` 网页允许用户进行：
+一个提供web小工具的网站，比如：
 
-- 人像修复
-- 人像抠图
-- 动漫增强
+- 文本比较
+- 图片压缩
+- 图片转换
 
-模型，免费实用。
-
-![faceRestoration](https://images-1252557999.file.myqcloud.com/uPic/faceRestoration.jpg) 
+![webutils](https://images-1252557999.file.myqcloud.com/uPic/ijDiPA.png) 
 
 ## ✍️ 说明
 
