@@ -5,98 +5,88 @@
 
 ## 🎯 项目 
 
-### [duplicati](https://github.com/duplicati/duplicati)
+### [heti](https://github.com/sivan/heti)
 
-Duplicati 是一个免费的开源备份客户端，可将加密的、增量的、压缩的备份安全地存储在云存储服务和远程文件服务器上:
+赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
-![duplicati](https://images-1252557999.file.myqcloud.com/uPic/duplicati.jpg) 
+![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
 
-### [immich](https://github.com/immich-app/immich)
+### [nativefier](https://github.com/nativefier/nativefier)
 
-一个开源的高性能自托管照片和视频备份解决方案：
+这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
 
-![immich](https://images-1252557999.file.myqcloud.com/uPic/immich.jpg) 
+![nativefier_walkthrough](https://images-1252557999.file.myqcloud.com/uPic/nativefier_walkthrough.gif) 
 
-### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
+### [MinerU](https://github.com/opendatalab/MinerU)
 
-动漫、电视剧的自动更新及在线观看，项目介绍：
+`MinerU` 是一款一站式、开源、高质量的数据提取工具，主要包含以下功能:
 
-- 聚合各种阿里云盘资源
-- 实现动漫、电视剧、电影的自动更新
-- 通过docker部署的Alist项目，实现影视的在线搜索及观看
+- Magic-PDF PDF文档提取
+- Magic-Doc 网页与电子书提取
 
-![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
+对于有 PDF 转换 MD 需求的朋友可以尝试下：
+
+![MinerU](https://images-1252557999.file.myqcloud.com/uPic/MinerU.png) 
 
 ## 🤖 软件 
 
-### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
+### [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
 
-基于 Electron + Vue + ffmpeg 的 GUI：
+`Karabiner-Elements`是一个非常强大的键盘自定义工具，非常推荐，算是我`macOS`下的基本软件。
 
-![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
+![Karabiner-Elements](https://images-1252557999.file.myqcloud.com/uPic/T3Y4AL.png) 
 
-### [postcat](https://github.com/Postcatlab/postcat)
+### [organicmaps](https://github.com/organicmaps/organicmaps)
 
-`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+`organicmaps` 是一款免费的 Android 和 iOS 离线地图应用程序，适用于旅行者、游客、司机、徒步旅行者和自行车骑行者。它使用众包的 OpenStreetMap 数据，由 MapsWithMe 应用程序（后来更名为 Maps.Me）的创建者和社区共同开发。没有广告，没有跟踪，没有数据收集，没有垃圾软件：
 
-![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
+![organicmaps](https://images-1252557999.file.myqcloud.com/uPic/organicmaps.jpg) 
 
-### [notepad--](https://github.com/cxasm/notepad--)
+### [ShareX](https://github.com/ShareX/ShareX)
 
-这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
+`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
 
-> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
-
-![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
+![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
 
 ## 👀 资料 
 
-### developer-roadmap
+### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
-开发人员学习成长路线图：
+这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
 
-![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
+![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
 
-### [bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain)
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-它为希望构建自己的基于检索增强生成（RAG）应用程序的开发者提供了一系列的资源和指导。该项目涵盖了从基础到高级的 RAG 实现，包括多查询、自定义 RAG 管道、高级检索和重排技术。仓库中包含了一系列的教程笔记本，这些笔记本详细介绍了 RAG 架构的设置、数据预处理、嵌入生成、向量存储、多查询技术、逻辑和语义路由、查询结构化、高级索引和检索技术等。
+《Mastering GO》中文译本，《玩转 GO》：
 
-![bRAG-langchain](https://images-1252557999.file.myqcloud.com/uPic/u0SkKz.png) 
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
-### [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+### [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
-微软免费课程：12堂课入门生成式AI，从而开始构建你自己的生成式人工智能应用程序：
+Model Context Protocol(MCP) 编程极速入门：
 
-![generative-ai-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/generative-ai-for-beginners.png) 
+![MCP-Chinese-Getting-Started-Guide](https://images-1252557999.file.myqcloud.com/uPic/ORcZa8.png) 
 
 ## 🕸 网站 
 
-### [calmcode](https://calmcode.io/)
+### [morphic.sh](https://www.morphic.sh/)
 
-非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
+一个开源的 AI 搜索引擎，支持 `Vercel` 自建部署，可选 `OpenAI、Gemini`，以及最新的 `Llama3` 大模型，网站开源 [morphic](https://github.com/miurla/morphic)：
 
-![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
+![morphic](https://images-1252557999.file.myqcloud.com/uPic/morphic.jpg) 
 
-### [appbaseio/mirage](https://opensource.appbase.io/mirage/)
+### [react-tetris](https://github.com/chvin/react-tetris)
 
-这是一个用于简化 `ES` 查询语句编写的开源项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句：
+用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
 
-- 开源代码地址：[https://github.com/appbaseio/mirage](https://github.com/appbaseio/mirage)
-- 访问地址： [https://opensource.appbase.io/mirage/](https://opensource.appbase.io/mirage/)
+![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
 
-当然你也可以本机自行部署，非常方便，比较遗憾的是目前只支持到 `-v7.x`：
+### [chatdoc](https://chatdoc.com/)
 
-![mirage](https://images-1252557999.file.myqcloud.com/uPic/mirage.png) 
+`ChatDOC` 让你可以和文档进行聊天沟通，它是一个基于 `ChatGPT` 的文件读取助手，它可以从 `PDF` 中快速提取、定位和总结信息：
 
-### [webutils](https://www.webutils.app/)
-
-一个提供web小工具的网站，比如：
-
-- 文本比较
-- 图片压缩
-- 图片转换
-
-![webutils](https://images-1252557999.file.myqcloud.com/uPic/ijDiPA.png) 
+![chatdoc](https://images-1252557999.file.myqcloud.com/uPic/chatdoc.png) 
 
 ## ✍️ 说明
 
