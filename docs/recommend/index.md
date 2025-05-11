@@ -5,88 +5,91 @@
 
 ## 🎯 项目 
 
-### [heti](https://github.com/sivan/heti)
+### [rag-web-ui](https://github.com/rag-web-ui/rag-web-ui)
 
-赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+一个基于 RAG (Retrieval-Augmented Generation) 技术的智能对话系统，它能够帮助构建基于自有知识库的智能问答系统。通过结合文档检索和大语言模型，实现了准确、可靠的知识问答服务。
 
-![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
+![rag-web-ui](https://images-1252557999.file.myqcloud.com/uPic/7um6Ks.png)
 
-### [nativefier](https://github.com/nativefier/nativefier)
+作者还提供了实现教程：零基础入门：[如何用 RAG (检索增强生成) 打造知识库 QA 系统](https://github.com/rag-web-ui/rag-web-ui/blob/main/docs/tutorial/README.md)：
 
-这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
+![ragtutorial](https://images-1252557999.file.myqcloud.com/uPic/2jXc19.png) 
 
-![nativefier_walkthrough](https://images-1252557999.file.myqcloud.com/uPic/nativefier_walkthrough.gif) 
+### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
 
-### [MinerU](https://github.com/opendatalab/MinerU)
+`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
 
-`MinerU` 是一款一站式、开源、高质量的数据提取工具，主要包含以下功能:
+![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
 
-- Magic-PDF PDF文档提取
-- Magic-Doc 网页与电子书提取
+### [Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)
 
-对于有 PDF 转换 MD 需求的朋友可以尝试下：
+该扩展程序允许您阅读实施付费墙的（支持的）网站上的文章。您还可以将域名添加为自定义网站，并尝试绕过付费墙。类似之前推荐过的：
 
-![MinerU](https://images-1252557999.file.myqcloud.com/uPic/MinerU.png) 
+- https://github.com/everywall/ladder
+- https://12ft.io/
+- https://1ft.io/ 
 
 ## 🤖 软件 
 
-### [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
+### [uncle-novel](https://github.com/unclezs/uncle-novel)
 
-`Karabiner-Elements`是一个非常强大的键盘自定义工具，非常推荐，算是我`macOS`下的基本软件。
+一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
 
-![Karabiner-Elements](https://images-1252557999.file.myqcloud.com/uPic/T3Y4AL.png) 
+![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
 
-### [organicmaps](https://github.com/organicmaps/organicmaps)
+### [foliate](https://github.com/johnfactotum/foliate)
 
-`organicmaps` 是一款免费的 Android 和 iOS 离线地图应用程序，适用于旅行者、游客、司机、徒步旅行者和自行车骑行者。它使用众包的 OpenStreetMap 数据，由 MapsWithMe 应用程序（后来更名为 Maps.Me）的创建者和社区共同开发。没有广告，没有跟踪，没有数据收集，没有垃圾软件：
+`Linux` 最佳电子书阅读器：
 
-![organicmaps](https://images-1252557999.file.myqcloud.com/uPic/organicmaps.jpg) 
+![foliate](https://images-1252557999.file.myqcloud.com/uPic/BAy1B7.png) 
 
-### [ShareX](https://github.com/ShareX/ShareX)
+### [epubkit](https://beta.epubkit.app/)
 
-`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
+挺多人有这种需求的，将网页转化成电子书：
 
-![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
+![epubkit](https://images-1252557999.file.myqcloud.com/uPic/epubkit.png)
+
+之前推荐的 [EpubPress](https://epub.press/) 也是类似功能，可以结合在一起体验试试。 
 
 ## 👀 资料 
 
-### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
 
-这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
+📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
 
-![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
+![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
 
-### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
+### [大模型交叉研讨课](https://www.openbmb.org/community/course)
 
-《Mastering GO》中文译本，《玩转 GO》：
+OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：
 
-![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
+![openbmb_course](https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg) 
 
-### [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
+### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
 
-Model Context Protocol(MCP) 编程极速入门：
+《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
 
-![MCP-Chinese-Getting-Started-Guide](https://images-1252557999.file.myqcloud.com/uPic/ORcZa8.png) 
+![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
 
 ## 🕸 网站 
 
-### [morphic.sh](https://www.morphic.sh/)
+### [websequencediagrams](https://www.websequencediagrams.com/)
 
-一个开源的 AI 搜索引擎，支持 `Vercel` 自建部署，可选 `OpenAI、Gemini`，以及最新的 `Llama3` 大模型，网站开源 [morphic](https://github.com/miurla/morphic)：
+提供在线绘制时序图的网站：
 
-![morphic](https://images-1252557999.file.myqcloud.com/uPic/morphic.jpg) 
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
-### [react-tetris](https://github.com/chvin/react-tetris)
+### [z2h 字帖](https://paper.z2h.cn/)
 
-用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
+用正确的方法刻意练习，每个人都能写出一手漂亮的字，自定义字帖字体和内容，可打印导出练字：
 
-![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
+![z2h](https://images-1252557999.file.myqcloud.com/uPic/z2h.jpg) 
 
-### [chatdoc](https://chatdoc.com/)
+### [stable-doodle](https://clipdrop.co/stable-doodle)
 
-`ChatDOC` 让你可以和文档进行聊天沟通，它是一个基于 `ChatGPT` 的文件读取助手，它可以从 `PDF` 中快速提取、定位和总结信息：
+`stability AI` 推出的 `AI` 工具, 根据涂鸦和文字描述生成图片, 类似之推荐的 [scribblediffusion.com](https://weekly.howie6879.com/2023/03-06~03-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC082%E6%9C%9F%EF%BC%89.html?h=%E7%94%BB#scribblediffusioncom)，我画了只兔子：
 
-![chatdoc](https://images-1252557999.file.myqcloud.com/uPic/chatdoc.png) 
+![stable-doodle](https://images-1252557999.file.myqcloud.com/uPic/stable-doodle.jpg) 
 
 ## ✍️ 说明
 
