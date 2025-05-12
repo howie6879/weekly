@@ -5,91 +5,100 @@
 
 ## 🎯 项目 
 
-### [rag-web-ui](https://github.com/rag-web-ui/rag-web-ui)
+### [glance](https://github.com/glanceapp/glance)
 
-一个基于 RAG (Retrieval-Augmented Generation) 技术的智能对话系统，它能够帮助构建基于自有知识库的智能问答系统。通过结合文档检索和大语言模型，实现了准确、可靠的知识问答服务。
+`Glance` 可以将你所有的订阅源聚合到一个页面中，支持多种小部件，可以自定义主题：
 
-![rag-web-ui](https://images-1252557999.file.myqcloud.com/uPic/7um6Ks.png)
+![glance](https://images-1252557999.file.myqcloud.com/uPic/glance.jpg) 
 
-作者还提供了实现教程：零基础入门：[如何用 RAG (检索增强生成) 打造知识库 QA 系统](https://github.com/rag-web-ui/rag-web-ui/blob/main/docs/tutorial/README.md)：
+### [typora_plugin](https://github.com/obgnail/typora_plugin)
 
-![ragtutorial](https://images-1252557999.file.myqcloud.com/uPic/2jXc19.png) 
+开源的 `Typora` 插件，功能增强工具，新增了三十多种功能：
 
-### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
+![typora_plugin](https://images-1252557999.file.myqcloud.com/uPic/typora_plugin.jpg) 
 
-`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
+### [public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
 
-![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
+有一些 `Docker` 镜像托管在 `gcr.io`，这样国内下载就会很不方便，使用这个项目就可以快速下载，简单加个前缀就行：
 
-### [Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)
+```shell
+k8s.gcr.io/coredns/coredns => m.daocloud.io/k8s.gcr.io/coredns/coredns
+```
 
-该扩展程序允许您阅读实施付费墙的（支持的）网站上的文章。您还可以将域名添加为自定义网站，并尝试绕过付费墙。类似之前推荐过的：
+其他资源：
 
-- https://github.com/everywall/ladder
-- https://12ft.io/
-- https://1ft.io/ 
+- 常用镜像仓库：[一些国内镜像源](https://gist.github.com/qwfys/aec4d2ab79281aeafebdb40b22d0b748)
+- [x-mirrors/gcr.io](https://github.com/x-mirrors/gcr.io) 
 
 ## 🤖 软件 
 
-### [uncle-novel](https://github.com/unclezs/uncle-novel)
+### [Maccy](https://github.com/p0deje/Maccy)
 
-一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
+轻量级macOS剪切板管理应用：
 
-![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
+使用截图如下：
 
-### [foliate](https://github.com/johnfactotum/foliate)
+![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
 
-`Linux` 最佳电子书阅读器：
+### [pilipala](https://github.com/guozhigq/pilipala)
 
-![foliate](https://images-1252557999.file.myqcloud.com/uPic/BAy1B7.png) 
+使用 `Flutter` 开发的 `BiliBili` 第三方客户端，专为提高用户在观看BiliBili视频时的体验而设计：
 
-### [epubkit](https://beta.epubkit.app/)
+![pilipala](https://images-1252557999.file.myqcloud.com/uPic/pilipala.jpg) 
 
-挺多人有这种需求的，将网页转化成电子书：
+### [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager "ContextMenuManager")
 
-![epubkit](https://images-1252557999.file.myqcloud.com/uPic/epubkit.png)
+纯粹的 `Windows` 右键菜单管理程序：
 
-之前推荐的 [EpubPress](https://epub.press/) 也是类似功能，可以结合在一起体验试试。 
+- 启用或禁用文件、文件夹、新建、发送到、打开方式、自定义文件格式、IE 浏览器、WinX 等右键菜单项目
+- 对上述场景右键菜单项目进行修改名称、修改图标、导航注册表位置、导航文件位置、永久删除等操作
+- 对上述场景右键菜单自定义添加项目，自定义菜单命令
+
+![ContextMenuManager](https://images-1252557999.file.myqcloud.com/uPic/ContextMenuManager.png) 
 
 ## 👀 资料 
 
-### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
+### [openai-cookbook](https://github.com/openai/openai-cookbook)
 
-📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
+`OpenAI API` 使用示例指南：
 
-![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
+![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
 
-### [大模型交叉研讨课](https://www.openbmb.org/community/course)
+### [learnmoderncpp](https://learnmoderncpp.com/)
 
-OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：
+现代 C++学习教程：
 
-![openbmb_course](https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg) 
+![learnmoderncpp](https://images-1252557999.file.myqcloud.com/uPic/learnmoderncpp.jpg) 
 
-### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
+### [linux-command](https://github.com/jaywcjlove/linux-command)
 
-《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
 
-![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
+![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
 
 ## 🕸 网站 
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+### [tgscan](https://tgscan.xyz/)
 
-提供在线绘制时序图的网站：
+免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
+- 网页：[tgscan.xyz](https://tgscan.xyz/)
 
-### [z2h 字帖](https://paper.z2h.cn/)
+![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
 
-用正确的方法刻意练习，每个人都能写出一手漂亮的字，自定义字帖字体和内容，可打印导出练字：
+### [cook](https://github.com/YunYouJun/cook)
 
-![z2h](https://images-1252557999.file.myqcloud.com/uPic/z2h.jpg) 
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-### [stable-doodle](https://clipdrop.co/stable-doodle)
+![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
 
-`stability AI` 推出的 `AI` 工具, 根据涂鸦和文字描述生成图片, 类似之推荐的 [scribblediffusion.com](https://weekly.howie6879.com/2023/03-06~03-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC082%E6%9C%9F%EF%BC%89.html?h=%E7%94%BB#scribblediffusioncom)，我画了只兔子：
+### [watermarkremover](https://www.watermarkremover.io/)
 
-![stable-doodle](https://images-1252557999.file.myqcloud.com/uPic/stable-doodle.jpg) 
+通过AI技术去除图片水印：
+
+![watermarkremover](https://images-1252557999.file.myqcloud.com/uPic/watermarkremover.jpg) 
 
 ## ✍️ 说明
 
