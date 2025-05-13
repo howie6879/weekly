@@ -5,100 +5,83 @@
 
 ## 🎯 项目 
 
-### [glance](https://github.com/glanceapp/glance)
+### [rss-reader](https://github.com/srcrs/rss-reader)
 
-`Glance` 可以将你所有的订阅源聚合到一个页面中，支持多种小部件，可以自定义主题：
+一个极简的 `RSS` 在线浏览工具：
 
-![glance](https://images-1252557999.file.myqcloud.com/uPic/glance.jpg) 
+![rss-reader](https://images-1252557999.file.myqcloud.com/uPic/rss-reader.png) 
 
-### [typora_plugin](https://github.com/obgnail/typora_plugin)
+### [mall-cook](https://github.com/wangyuan389/mall-cook)
 
-开源的 `Typora` 插件，功能增强工具，新增了三十多种功能：
+Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
 
-![typora_plugin](https://images-1252557999.file.myqcloud.com/uPic/typora_plugin.jpg) 
+![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
 
-### [public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+### [outline](https://github.com/outline/outline)
 
-有一些 `Docker` 镜像托管在 `gcr.io`，这样国内下载就会很不方便，使用这个项目就可以快速下载，简单加个前缀就行：
+使用 `React &Node.js` 构建的协作知识库，支持团队协作，样式美观，可自建：
 
-```shell
-k8s.gcr.io/coredns/coredns => m.daocloud.io/k8s.gcr.io/coredns/coredns
-```
-
-其他资源：
-
-- 常用镜像仓库：[一些国内镜像源](https://gist.github.com/qwfys/aec4d2ab79281aeafebdb40b22d0b748)
-- [x-mirrors/gcr.io](https://github.com/x-mirrors/gcr.io) 
+![outline](https://images-1252557999.file.myqcloud.com/uPic/outline.jpg) 
 
 ## 🤖 软件 
 
-### [Maccy](https://github.com/p0deje/Maccy)
+### [WeChatAI](https://github.com/bingryan/WeChatAI)
 
-轻量级macOS剪切板管理应用：
+技术交流群的群友 **@bingryan** 开发的，推荐一下，项目目的在于打造一个All in One的个人AI聊天助手：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
-使用截图如下：
+![WeChatAI](https://images-1252557999.file.myqcloud.com/uPic/WeChatAI.png) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-### [pilipala](https://github.com/guozhigq/pilipala)
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-使用 `Flutter` 开发的 `BiliBili` 第三方客户端，专为提高用户在观看BiliBili视频时的体验而设计：
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
-![pilipala](https://images-1252557999.file.myqcloud.com/uPic/pilipala.jpg) 
+### [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
-### [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager "ContextMenuManager")
+`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
 
-纯粹的 `Windows` 右键菜单管理程序：
-
-- 启用或禁用文件、文件夹、新建、发送到、打开方式、自定义文件格式、IE 浏览器、WinX 等右键菜单项目
-- 对上述场景右键菜单项目进行修改名称、修改图标、导航注册表位置、导航文件位置、永久删除等操作
-- 对上述场景右键菜单自定义添加项目，自定义菜单命令
-
-![ContextMenuManager](https://images-1252557999.file.myqcloud.com/uPic/ContextMenuManager.png) 
+![appflowy](https://images-1252557999.file.myqcloud.com/uPic/JhzdLT.jpg) 
 
 ## 👀 资料 
 
-### [openai-cookbook](https://github.com/openai/openai-cookbook)
+### [LLMBook-zh](https://llmbook-zh.github.io/)
 
-`OpenAI API` 使用示例指南：
+大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
 
-![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
+![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
 
-### [learnmoderncpp](https://learnmoderncpp.com/)
+### [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
 
-现代 C++学习教程：
+面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:
 
-![learnmoderncpp](https://images-1252557999.file.myqcloud.com/uPic/learnmoderncpp.jpg) 
+![llm-cookbook](https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png) 
 
-### [linux-command](https://github.com/jaywcjlove/linux-command)
+### [php-the-right-way](https://learnku.com/docs/php-the-right-way/PHP8.0)
 
-Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
+PHP 入门教程，现在这块市场占有越来越少了，新项目应该都用 Go 或者 Python ，有兴趣学习的可以作为教程看看：
 
-![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
+![php-the-right-way](https://images-1252557999.file.myqcloud.com/uPic/DKXw5S.png) 
 
 ## 🕸 网站 
 
-### [tgscan](https://tgscan.xyz/)
+### [uinotes](https://uinotes.com/)
 
-免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
+`UI Notes` 收集了大量线上优秀 `App` 的完整 `UI` 截图，只有落地设计没有飞机稿，你可以在这里探索 UI 设计的最新趋势、浏览竞品的产品设计、快速找到工作中需要的灵感：
 
-- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
-- 网页：[tgscan.xyz](https://tgscan.xyz/)
+![uinotes](https://images-1252557999.file.myqcloud.com/uPic/uinotes.jpg) 
 
-![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
+### [storyset](https://storyset.com/)
 
-### [cook](https://github.com/YunYouJun/cook)
+来自读者@妙才的投稿，这个网站提供了大量精美免费的插图，可以应用于你的项目：
 
-一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
+![storyset](https://images-1252557999.file.myqcloud.com/uPic/Jm5cJY.png) 
 
-![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
+### [uipatterns](http://uipatterns.io)
 
-### [watermarkremover](https://www.watermarkremover.io/)
+程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
 
-通过AI技术去除图片水印：
-
-![watermarkremover](https://images-1252557999.file.myqcloud.com/uPic/watermarkremover.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/uipatterns.jpg) 
 
 ## ✍️ 说明
 
