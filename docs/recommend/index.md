@@ -5,107 +5,101 @@
 
 ## 🎯 项目 
 
-### [answer](https://github.com/answerdev/answer)
+### [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)
 
-基于自己的产品或者项目快速打造一个问答社区：
+一个油猴脚本，让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤，还可以取消后台监管审计：
 
-![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
+- 解决了报错：NetworkError when attempting to fetch resource.
+- 解决了报错：Something went wrong. If this issue persists please contact us through our help center at help.openai.com.
+- 解决了报错：Conversation not found
+- 自由取消后台监管审计：This content may violate our content policy. If you believe this to be in error, please submit your feedback — your input will aid our research in this area.
+- 解决被频繁地打断交流
+- 解决频繁地刷新网页
+- 支持多国语言
+- 解决用户手误复制用户头像里的用户名的问题
+- 兼容移动端
 
-### [code-server](https://github.com/coder/code-server)
+![KeepChatGPT](https://images-1252557999.file.myqcloud.com/uPic/KeepChatGPT.png) 
 
-这是一款开源的基于 `VSCode` 的在线编辑器，它提供了一个在线 `IDE`，只要你将其部署在服务器，你就有了一个随时可用的云环境：
+### [zfile](https://github.com/zhaojun1998/zfile)
 
-![code-server](https://images-1252557999.file.myqcloud.com/uPic/code-server.png) 
+基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
 
-### Command2API
+![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
 
-这是一个可以实时获取执行命令结果的脚本，脚本原理就是一个线程开启Web服务，一个线程执行命令，通过全局变量与Web服务共享执行命令的结果。
+### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
 
-![Command2API](https://images-1252557999.file.myqcloud.com/uPic/mcMhsP.jpg) 
+`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
+
+一个获取百度网盘分享链接下载地址的工具：
+
+![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
 
 ## 🤖 软件 
 
-### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
+### [Shizuku](https://github.com/RikkaApps/Shizuku)
 
-`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
+`Shizuku` 提供了一种新的方法，允许普通应用程序通过一个带有更高权限的 Java 进程，直接使用系统 API。
 
-![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
+为部分需要更高权限的应用提供了更高效的系统级接口，并且只需 adb 调试即可开启，这比传统的方法有更多的优势，包括速度更快、更可靠、权限更高。
 
-### [yokai](https://github.com/null2264/yokai)
+![Shizuku](https://images-1252557999.file.myqcloud.com/uPic/th0ELp.png)
 
-一个免费且开源的安卓漫画阅读器：
+相关项目：
 
-![yokai](https://images-1252557999.file.myqcloud.com/uPic/Qy2ZHb.png)
+- [Dhizuku](https://github.com/iamr0s/Dhizuku)：参考 [Shizuku](https://github.com/RikkaApps/Shizuku) 的设计思想，分享 DeviceOwner (设备所有者) 权限给其余应用，另一种思路，但是生态还需要发展。
+- [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku/)：`Shizuku` 允许普通应用程序在非 Root 设备上使用 ADB 直接使用权限提升的系统 API。本列表汇集了一些已知可利用 Shizuku 功能的应用程序。
+- [ShizuTools](https://github.com/legendsayantan/ShizuTools) 是一个扩展一些常见操作的开源工具项目。 
 
-之前还推荐免费漫画软件还有：
+### [Alock](https://github.com/luoxuhai/Alock)
 
-- [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
-- [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
-- [kobi](https://github.com/niuhuan/kobi)
-- [aniyomi](https://github.com/aniyomiorg/aniyomi)
-- [any-reader](https://github.com/aooiuu/any-reader)
-- [miru-app](https://github.com/miru-project/miru-app)
-- [全是漫画](https://github.com/hongchacha/cartoon)
+Alock 是一款免费用于隐藏指定 App 的应用。使用 Alock 可以彻底地从 iPhone/iPad 上隐藏指定的 App，隐藏后的 App 在主屏幕、App资料库、搜索、系统设置中均不可见。最大程度保护您的隐私：
 
-更多去周刊网站检索漫画关键词👉[周刊漫画项目推荐](https://weekly.howie6879.com/?q=%E6%BC%AB%E7%94%BB)。 
+![Alock](https://images-1252557999.file.myqcloud.com/uPic/Alock.jpg) 
 
-### [batnoter](https://github.com/batnoter/batnoter)
+### [polyglot](https://github.com/liou666/polyglot)
 
-一个基于 `Markdown` 的开源自托管笔记应用程序：
+Polyglot是一款多平台的桌面端应用程序。基于ChatGPT和Azure人工智能语言模型作为底层服务，使用Vue3+TS技术栈构建，旨在提供一个易于使用的语言练习平台，方便进行多语种的口语练习：
 
-- 使用GitHub登录。
-- 使用简洁而漂亮的界面轻松创建、编辑、删除、组织和探索笔记。
-- 支持Markdown格式，允许用户在笔记中添加超链接、表格、标题、代码块、引用等等。
-- 编辑器允许预览Markdown。
-- 使用剪贴板按钮从代码部分快速复制代码。
-- 直接将笔记存储在根目录中，或者使用文件夹对其进行组织（支持嵌套）。
-- 单击即可从特定目录中浏览所有笔记。
-- 所有笔记都存储在用户的GitHub存储库中。
-- 为避免额外的API调用，笔记被缓存。
-- 可将URL添加为书签。
-- 支持深色/浅色模式
-
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.jpg) 
+![polyglot](https://images-1252557999.file.myqcloud.com/uPic/polyglot.png) 
 
 ## 👀 资料 
 
-### [动手实现LLM中文版](https://github.com/datawhalechina/llms-from-scratch-cn)
+### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
 
-该项目提供了一个如何从头开始实现类似 `ChatGPT` 的大语言模型（LLM）的详细教程：
+ Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
 
-![tllms-from-scratch-cn](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6242161922065677933-y.jpg) 
+ ![rust_embedded_dev](https://images-1252557999.file.myqcloud.com/uPic/rust_embedded_dev.jpg) 
 
-### [grammar-club](https://github.com/llwslc/grammar-club)
+### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
 
-旋元佑老师的语法俱乐部书籍电子版，在线阅读[地址](https://llwslc.github.io/grammar-club/content/Preface.html)：
+Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
 
-![grammar-club](https://images-1252557999.file.myqcloud.com/uPic/grammar-club.jpg) 
+### [大模型基础](https://github.com/datawhalechina/so-large-lm)
 
-### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+本项目旨在作为一个大规模预训练语言模型的教程，从数据准备、模型构建、训练策略到模型评估与改进，以及模型在安全、隐私、环境和法律道德方面的方面来提供开源知识。
 
-[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
-
-![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
+![so-large-lm](https://images-1252557999.file.myqcloud.com/uPic/so-large-lm.jpg) 
 
 ## 🕸 网站 
 
-### [熊猫速读](https://qread.xmsoushu.com/)
+### [flatuicolors](https://flatuicolors.com/)
 
-熊猫速读是一个收集精品视频读书笔记或好书分享的网站！为您推荐好书速读的视频，在您读一本书或者购买图书之前通过视频介绍先快速了解书籍的内容，根据兴趣再决定是否购买。
+`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
 
-![xmsd](https://images-1252557999.file.myqcloud.com/uPic/xmsd.jpg) 
+![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
 
-### [zhongguose](http://zhongguose.com/)
+### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
 
-一个中国传统颜色的配色网站：
+老照片修复工具，同时还提供上色和去背景功能：
 
-![zhongguose](https://images-1252557999.file.myqcloud.com/uPic/zhongguose.jpg) 
+![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
 
-### [gcopy](https://gcopy.rutron.net/zh)
+### [ifixit](https://zh.ifixit.com/)
 
-一个剪切板同步的工具, 支持文字、截图和文件，使用 `Golang` 和 `Nextjs` 开发. 完全[开源](https://github.com/llaoj/gcopy)，`GCopy` 重视您的数据隐私, 不持久化存储您的数据, 它们都在内存中 `24h` 自动删除：
+一个免费教授人们如何修理任何物品的网站：
 
-![gcopy](https://images-1252557999.file.myqcloud.com/uPic/gcopy.jpg) 
+![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
 
 ## ✍️ 说明
 
