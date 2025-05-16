@@ -5,101 +5,107 @@
 
 ## 🎯 项目 
 
-### [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)
+### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
 
-一个油猴脚本，让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤，还可以取消后台监管审计：
+适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
 
-- 解决了报错：NetworkError when attempting to fetch resource.
-- 解决了报错：Something went wrong. If this issue persists please contact us through our help center at help.openai.com.
-- 解决了报错：Conversation not found
-- 自由取消后台监管审计：This content may violate our content policy. If you believe this to be in error, please submit your feedback — your input will aid our research in this area.
-- 解决被频繁地打断交流
-- 解决频繁地刷新网页
-- 支持多国语言
-- 解决用户手误复制用户头像里的用户名的问题
-- 兼容移动端
+![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
 
-![KeepChatGPT](https://images-1252557999.file.myqcloud.com/uPic/KeepChatGPT.png) 
+### [GFPGAN](https://github.com/TencentARC/GFPGAN)
 
-### [zfile](https://github.com/zhaojun1998/zfile)
+腾讯开源的老照片修复项目：
 
-基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
+![GFPGAN](https://images-1252557999.file.myqcloud.com/uPic/UOiwSK.jpg) 
 
-![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
+### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
 
-### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
+`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
 
-`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
-
-一个获取百度网盘分享链接下载地址的工具：
-
-![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
+![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
 
 ## 🤖 软件 
 
-### [Shizuku](https://github.com/RikkaApps/Shizuku)
+### [Raptor](https://github.com/InfpHub/Raptor)
 
-`Shizuku` 提供了一种新的方法，允许普通应用程序通过一个带有更高权限的 Java 进程，直接使用系统 API。
+使用 `Qt` 和 `C++` 构建的低内存、小而美的第三方阿里云盘 `Windows` 桌面应用客户端🚀
 
-为部分需要更高权限的应用提供了更高效的系统级接口，并且只需 adb 调试即可开启，这比传统的方法有更多的优势，包括速度更快、更可靠、权限更高。
+- 🧬 用户 - 持久化登录，多用户登录，多用户切换
+- 📉 文件（夹） - 创建/多级创建文件夹/重命名/搜索
+- 💅 文件（夹） - 移动/复制
+- ✅ 文件（夹） - 上传/下载/唤起第三方下载器下载
+- 🎪 视频 - MPV/VLC/PotPlayer
+- 💸 分享 - 创建分享/导入分享
+- 🦹🏻‍♀️ 秒传 - 创建秒传/导入秒传
+- ⭐️ 收藏 - 收藏/取消收藏/搜索
+- 🕵️‍♂️ 回收站 - 清空/删除/恢复
+- 📚 Plus - 跨网盘文件复制
+- 🏅 UI - 可自由修改的字体，图标与主题 
 
-![Shizuku](https://images-1252557999.file.myqcloud.com/uPic/th0ELp.png)
+### [HandBrake](https://github.com/HandBrake/HandBrake)
 
-相关项目：
+`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
 
-- [Dhizuku](https://github.com/iamr0s/Dhizuku)：参考 [Shizuku](https://github.com/RikkaApps/Shizuku) 的设计思想，分享 DeviceOwner (设备所有者) 权限给其余应用，另一种思路，但是生态还需要发展。
-- [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku/)：`Shizuku` 允许普通应用程序在非 Root 设备上使用 ADB 直接使用权限提升的系统 API。本列表汇集了一些已知可利用 Shizuku 功能的应用程序。
-- [ShizuTools](https://github.com/legendsayantan/ShizuTools) 是一个扩展一些常见操作的开源工具项目。 
+![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
 
-### [Alock](https://github.com/luoxuhai/Alock)
+### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 
-Alock 是一款免费用于隐藏指定 App 的应用。使用 Alock 可以彻底地从 iPhone/iPad 上隐藏指定的 App，隐藏后的 App 在主屏幕、App资料库、搜索、系统设置中均不可见。最大程度保护您的隐私：
+这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
 
-![Alock](https://images-1252557999.file.myqcloud.com/uPic/Alock.jpg) 
+`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
 
-### [polyglot](https://github.com/liou666/polyglot)
+- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
+  
+- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
+  
 
-Polyglot是一款多平台的桌面端应用程序。基于ChatGPT和Azure人工智能语言模型作为底层服务，使用Vue3+TS技术栈构建，旨在提供一个易于使用的语言练习平台，方便进行多语种的口语练习：
-
-![polyglot](https://images-1252557999.file.myqcloud.com/uPic/polyglot.png) 
+![neteasy](https://images-1252557999.file.myqcloud.com/uPic/neteasy.png) 
 
 ## 👀 资料 
 
-### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
+### [sql-mother](https://github.com/liyupi/sql-mother)
 
- Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
+免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
 
- ![rust_embedded_dev](https://images-1252557999.file.myqcloud.com/uPic/rust_embedded_dev.jpg) 
+![sqlmother](https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg)
 
-### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
+在线网站点[这里](http://sqlmother.yupi.icu/#/learn)。 
 
-Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
+### [Midjourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
 
-### [大模型基础](https://github.com/datawhalechina/so-large-lm)
+一份 `Midjourney` 学习教程：
 
-本项目旨在作为一个大规模预训练语言模型的教程，从数据准备、模型构建、训练策略到模型评估与改进，以及模型在安全、隐私、环境和法律道德方面的方面来提供开源知识。
+![midjourney-learning-path](https://images-1252557999.file.myqcloud.com/uPic/midjourney-learning-path.jpg) 
 
-![so-large-lm](https://images-1252557999.file.myqcloud.com/uPic/so-large-lm.jpg) 
+### [通往AGI之路](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
+
+汇聚了互联网上的一些 `AGI` 教程，资源大家看了觉得有用即可，文章底部有微信引流，如果里面需要付费请慎重：
+
+![ywh1bkansf](https://images-1252557999.file.myqcloud.com/uPic/ywh1bkansf.jpg) 
 
 ## 🕸 网站 
 
-### [flatuicolors](https://flatuicolors.com/)
+### [v0.dev](https://v0.dev/)
 
-`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
+描述生成 UI，一个 AI 大模型驱动的 UI 设计网站，很不错：
 
-![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
+![v0_dev](https://images-1252557999.file.myqcloud.com/uPic/v0_dev.jpg) 
 
-### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
+### [coze](https://www.coze.cn/)
 
-老照片修复工具，同时还提供上色和去背景功能：
+扣子为你提供了一站式 AI 开发平台，无需编程，你的创新理念都能迅速化身为下一代的 AI 应用，字节跳动此前是在海外推出 [Coze](https://www.coze.com/)，国内扣子与其分开运营：
 
-![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
+![coze](https://images-1252557999.file.myqcloud.com/uPic/coze.jpg) 
 
-### [ifixit](https://zh.ifixit.com/)
+### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
 
-一个免费教授人们如何修理任何物品的网站：
+`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
 
-![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
+- 可视化组件配置栏
+- 随机生成头像，有一定概率触发彩蛋
+- 撤销/还原*更改*
+- 国际化多语言
+
+![vue-color-avatar](https://images-1252557999.file.myqcloud.com/uPic/n3gXb6.png) 
 
 ## ✍️ 说明
 
