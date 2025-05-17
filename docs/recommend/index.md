@@ -5,107 +5,90 @@
 
 ## 🎯 项目 
 
-### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+### [crawl4ai](https://github.com/unclecode/crawl4ai)
 
-适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
+`Crawl4AI` 是一个免费且开源的网络爬虫工具，专为大型语言模型（LLMs）和 AI 应用设计，支持多种输出格式，如 JSON、HTML 和 markdown。它能够同时处理多个 URL，提取媒体标签（图片、音频和视频），以及内外链接和网页元数据。 
 
-![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
+### [ChatGPT 项目推荐](https://weekly.howie6879.com/2023/02-13~02-18.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC079%E6%9C%9F%EF%BC%89.html?h=chatgpt#chatgpt)
 
-### [GFPGAN](https://github.com/TencentARC/GFPGAN)
+基于 `ChatGPT` 相关接口衍生的项目：
 
-腾讯开源的老照片修复项目：
+- [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)：显示 `ChatGPT` 响应和 `Google` 搜索结果的浏览器扩展
+- [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)：将 `ChatGPT` 集成到互联网上的每个文本框中。
+- [周报生成器](https://weeklyreport.avemaria.fun/zh)：简单描述工作内容帮你生成完整周报
+- [README 生成器](https://readme.rustc.cloud/zh)：帮你生成完整 Github README
+- [邮件生成器](https://email-helper.vercel.app/)：几秒钟内生成多语言商务邮件
+- [Teach Anything](https://www.teach-anything.com/)：几秒钟内得到想要的答案
+- [聊天简化器](https://chat-simplifier.imzbb.cc/zh)：简化聊天记录内容
+- [SiteExplainer](https://siteexplainer.vercel.app/)：输入网址，快速总结网站内容
+- [Dear Aibby](https://www.dearaibby.com/)：来自新机器灵魂的衷心建议
+- [TextSummarizer](https://text-summarizer-seven.vercel.app/)：在几秒钟内从文本生成摘要
+- [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)：支持 `ChatGPT` 的 `Visual Studio Code` 扩展，可以与 `ChatGPT` 配对编程
+- [editGPT](https://chrome.google.com/webstore/detail/editgpt/mognjodfeldknhobgbnkoomipkmlnnhk)：利用 ChatGPT 做文案修改编辑 
 
-![GFPGAN](https://images-1252557999.file.myqcloud.com/uPic/UOiwSK.jpg) 
+### [dato.rss](https://github.com/davidesantangelo/dato.rss)
 
-### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
+基于机器学习构建的RSS搜索引擎([datorss.com](https://datorss.com/))：
 
-`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
-
-![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
+![datorss](https://images-1252557999.file.myqcloud.com/uPic/datorss.png) 
 
 ## 🤖 软件 
 
-### [Raptor](https://github.com/InfpHub/Raptor)
+### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
-使用 `Qt` 和 `C++` 构建的低内存、小而美的第三方阿里云盘 `Windows` 桌面应用客户端🚀
+用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
 
-- 🧬 用户 - 持久化登录，多用户登录，多用户切换
-- 📉 文件（夹） - 创建/多级创建文件夹/重命名/搜索
-- 💅 文件（夹） - 移动/复制
-- ✅ 文件（夹） - 上传/下载/唤起第三方下载器下载
-- 🎪 视频 - MPV/VLC/PotPlayer
-- 💸 分享 - 创建分享/导入分享
-- 🦹🏻‍♀️ 秒传 - 创建秒传/导入秒传
-- ⭐️ 收藏 - 收藏/取消收藏/搜索
-- 🕵️‍♂️ 回收站 - 清空/删除/恢复
-- 📚 Plus - 跨网盘文件复制
-- 🏅 UI - 可自由修改的字体，图标与主题 
+![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
 
-### [HandBrake](https://github.com/HandBrake/HandBrake)
+### [Sloth](https://github.com/sveinbjornt/Sloth)
 
-`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
+`Sloth` 是一款原生的 `Mac` 应用程序，它显示系统上所有正在运行软件所有打开的文件、目录、套接字、管道和设备，用户可以很简单地掌控自己的电脑文件使用权限：
 
-![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
+![Sloth](https://images-1252557999.file.myqcloud.com/uPic/Sloth.jpeg) 
 
-### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
+### [sunnypages](https://github.com/XMuli/sunnypages)
 
-这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
+`Sunny` 截图是一款简洁且漂亮的截图的软件工具，支持 `Windows，MacOS，Linux` 平台。亦支持图片翻译和 `OCR`：
 
-`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
-
-- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
-  
-- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
-  
-
-![neteasy](https://images-1252557999.file.myqcloud.com/uPic/neteasy.png) 
+![sunnypages](https://images-1252557999.file.myqcloud.com/uPic/sunnypages.jpg) 
 
 ## 👀 资料 
 
-### [sql-mother](https://github.com/liyupi/sql-mother)
+### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
-免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
+微软开源的一份全面的数据科学课程，20个课时，历时10周：
 
-![sqlmother](https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg)
+![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
 
-在线网站点[这里](http://sqlmother.yupi.icu/#/learn)。 
+### [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/)
 
-### [Midjourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
+命令行的数据科学，本书演示了如何通过命令行的灵活性帮你成为更高效、更有生产力的数据科学家。
 
-一份 `Midjourney` 学习教程：
+![telegram-cloud-photo-size-5-6181558086683180904-y](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6181558086683180904-y.jpg) 
 
-![midjourney-learning-path](https://images-1252557999.file.myqcloud.com/uPic/midjourney-learning-path.jpg) 
+### [xjq7/books](https://github.com/xjq7/books)
 
-### [通往AGI之路](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
-
-汇聚了互联网上的一些 `AGI` 教程，资源大家看了觉得有用即可，文章底部有微信引流，如果里面需要付费请慎重：
-
-![ywh1bkansf](https://images-1252557999.file.myqcloud.com/uPic/ywh1bkansf.jpg) 
+电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
 
 ## 🕸 网站 
 
-### [v0.dev](https://v0.dev/)
+### [echoserver](https://echoserver.dev/)
 
-描述生成 UI，一个 AI 大模型驱动的 UI 设计网站，很不错：
+一个用于测试 `HTTP` 客户端的简单服务器，可生成 `URL` 并返回您想要的生成响应：
 
-![v0_dev](https://images-1252557999.file.myqcloud.com/uPic/v0_dev.jpg) 
+![echoserver](https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg) 
 
-### [coze](https://www.coze.cn/)
+### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
 
-扣子为你提供了一站式 AI 开发平台，无需编程，你的创新理念都能迅速化身为下一代的 AI 应用，字节跳动此前是在海外推出 [Coze](https://www.coze.com/)，国内扣子与其分开运营：
+冰霜大佬的博客：
 
-![coze](https://images-1252557999.file.myqcloud.com/uPic/coze.jpg) 
+![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
 
-### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
+### [github copilot](https://github.com/copilot)
 
-`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
+`GitHub Copilot` 可以免费使用了，免费用户每月有 2000 个代码建议、50 次对话。
 
-- 可视化组件配置栏
-- 随机生成头像，有一定概率触发彩蛋
-- 撤销/还原*更改*
-- 国际化多语言
-
-![vue-color-avatar](https://images-1252557999.file.myqcloud.com/uPic/n3gXb6.png) 
+![copilot](https://images-1252557999.file.myqcloud.com/uPic/648shM.png) 
 
 ## ✍️ 说明
 
