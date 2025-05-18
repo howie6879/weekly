@@ -12,7 +12,61 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Mon, 05 May 2025 13:40:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 09:21:46 +0000</lastBuildDate>
+    <item>
+      <title>05-06~05-18.老胡的周刊（第187期）.md</title>
+      <link>https://weekly.howie6879.com/2025/05-06~05-18.老胡的周刊（第187期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/05-06~05-18.老胡的周刊（第187期）.html"&gt;05-06~05-18.老胡的周刊（第187期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/allinssl/allinssl"&gt;allinssl&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;AllinSSL&lt;/code&gt; 是一个集证书申请、管理、部署和监控于一体的SSL证书全生命周期管理工具：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="AllinSSL" src="https://images-1252557999.file.myqcloud.com/uPic/vaDggI.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/AIDotNet/OpenDeepWiki"&gt;OpenDeepWiki&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;OpenDeepWiki&lt;/code&gt; 是基于&lt;a href="https://deepwiki.org"&gt;DeepWiki&lt;/a&gt;项目的开源版本，旨于提供一个强大的知识管理和协作平台:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="OpenDeepWiki" src="https://images-1252557999.file.myqcloud.com/uPic/iIA8BQ.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/linshenkx/prompt-optimizer"&gt;prompt-optimizer&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一款提示词优化器，助力于编写高质量的提示词：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="prompt-optimizer" src="https://images-1252557999.file.myqcloud.com/uPic/lWZUg2.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/OpenAgentPlatform/Dive"&gt;OpenAgentPlatform-Dive&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Dive&lt;/code&gt; 是一个开源 &lt;code&gt;MCP&lt;/code&gt; 主机桌面应用程序，可与任何支持功能调用功能的 &lt;code&gt;LLM&lt;/code&gt; 无缝集成：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="OpenAgentPlatform-Dive" src="https://images-1252557999.file.myqcloud.com/uPic/O2ZWvL.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Sjj1024/PakePlus"&gt;PakePLus&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;PakePlus&lt;/code&gt; 是一个基于 &lt;code&gt;Tauri2&lt;/code&gt; 和 &lt;code&gt;Github&lt;/code&gt; 的打包工具，只需要一个 &lt;code&gt;Github Token&lt;/code&gt; 就可以将任意网站/Vue/React 等项目的 dist 静态文件打包为跨平台桌面软件和手机软件，体积小巧(小于 5M)并且性能还高，而且 &lt;code&gt;PakePlus&lt;/code&gt; 本身也才仅仅 8M 左右：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="PakePLus" src="https://images-1252557999.file.myqcloud.com/uPic/zopl19.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/voideditor/void#readme"&gt;void&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Void&lt;/code&gt; 是一个开源的 &lt;code&gt;Cursor&lt;/code&gt; 替代项目：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="void" src="https://images-1252557999.file.myqcloud.com/uPic/ewYGFx.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/"&gt;mcp-build-rich-context-ai-apps-with-anthropic&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;吴恩达教授与 &lt;code&gt;Anthropic&lt;/code&gt; 联合推出 &lt;code&gt;MCP&lt;/code&gt; 课程：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="mcp-build-rich-context-ai-apps-with-anthropic" src="https://images-1252557999.file.myqcloud.com/uPic/aHWy0H.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/zhuima/awesome-cloudflare"&gt;awesome-cloudflare&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;⛅️ 精选的 &lt;code&gt;Cloudflare&lt;/code&gt; 工具、开源项目、指南、博客和其他资源列表，带你玩转 &lt;code&gt;Cloudflare&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="awesome-cloudflare" src="https://images-1252557999.file.myqcloud.com/uPic/12CbEQ.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://deepwiki.org/"&gt;deepwiki&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;DeepWiki&lt;/code&gt; 旨为成为一个全球性的、为每个 &lt;code&gt;GitHub&lt;/code&gt; 仓库提供可交流的文档服务的平台。它类似于 &lt;code&gt;Deep Research&lt;/code&gt;，但专注于 &lt;code&gt;GitHub&lt;/code&gt; 上的内容。&lt;code&gt;DeepWiki&lt;/code&gt; 的目标是为开发者提供一个平台，上面可以轻松地为每个项目编写和交流文档：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="deepwiki" src="https://images-1252557999.file.myqcloud.com/uPic/KXEJcj.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Ahmet-Dedeler/ai-llm-comparison"&gt;ai-llm-comparison&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;该网站旨在为用户提供一个比较各种 AI 模型的平台，帮助用户根据自己的需求选择最合适的 AI 服务：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ai-llm-comparison" src="https://images-1252557999.file.myqcloud.com/uPic/SO7NW7.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">05-06~05-18.老胡的周刊（第187期）.md</guid>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>04-20~05-05.老胡的周刊（第186期）.md</title>
       <link>https://weekly.howie6879.com/2025/04-20~05-05.老胡的周刊（第186期）.html</link>
@@ -1321,61 +1375,6 @@
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">11-11~11-17.老胡的周刊（第168期）.md</guid>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>11-04~11-10.老胡的周刊（第167期）.md</title>
-      <link>https://weekly.howie6879.com/2024/11-04~11-10.老胡的周刊（第167期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/11-04~11-10.老胡的周刊（第167期）.html"&gt;11-04~11-10.老胡的周刊（第167期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/getmaxun/maxun"&gt;maxun&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个免费、开源的无代码网页数据提取平台，允许用户构建自定义机器人以自动化数据抓取任务，可以很方便地进行web2api：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="maxun" src="https://images-1252557999.file.myqcloud.com/uPic/Bkvnhq.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/LibraHp/GetQzonehistory"&gt;GetQzonehistory&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;通过模拟登录QQ空间来获取历史消息列表，然后进行数据分析。&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/jooooock/wechat-article-exporter"&gt;wechat-article-exporter&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;在线批量导出微信公众号文章，支持阅读量、评论数据的导出，支持内嵌的音视频导出，无需搭建任何环境，可100%还原文章样式，支持私有部署。&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist"&gt;uBlockOrigin-HUGE-AI-Blocklist&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;这个项目提供了一个用于过滤 AI 生成内容的大型屏蔽列表，适用于 uBlock Origin &amp;amp; uBlacklist 插件。&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/modstart-lib/linkandroid"&gt;linkandroid&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;全能手机连接助手，方便快捷的连接 Android 和电脑，连接手机后可投屏、GIF/MP4录屏、截屏、文件管理、手机操作等功能：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="linkandroid" src="https://images-1252557999.file.myqcloud.com/uPic/R9oZa7.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/hxh19950701/WebViewTvLive"&gt;WebViewTvLive&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;使用 腾讯 X5 WebView 开发的电视直播App，原理：加载直播网页，找到video标签自动全屏：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="WebViewTvLive" src="https://images-1252557999.file.myqcloud.com/uPic/JKdapa.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/jitwxs/163MusicLyrics"&gt;163MusicLyrics&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Windows 云音乐歌词获取【网易云、QQ音乐】:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="163MusicLyrics" src="https://images-1252557999.file.myqcloud.com/uPic/JElaUM.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/sheshbabu/Chital"&gt;Chital&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Chital&lt;/code&gt; 是一个针对 &lt;code&gt;macOS&lt;/code&gt; 系统开发的原生应用程序，旨在与本地大型语言模型（LLM）进行交互:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Chital" src="https://images-1252557999.file.myqcloud.com/uPic/owbXLt.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/chai2010/go-ast-book"&gt;go-ast-book&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)&lt;/p&gt;
-&lt;p&gt;&lt;img alt="go-ast-book" src="https://images-1252557999.file.myqcloud.com/uPic/MenvcC.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://zeli.app/zh"&gt;zeli.app&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;用中文读科技新闻，旨在帮你快速挑选感兴趣的文章来读：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="zeli" src="https://images-1252557999.file.myqcloud.com/uPic/dvVEf9.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://lz.qaiu.top/"&gt;lz.qaiu.top&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;NFD&lt;/code&gt; 网盘直链解析，目前支持 蓝奏云/蓝奏云优享/小飞机盘/123云盘/奶牛快传/移动云云空间/亿方云/文叔叔/QQ邮箱文件中转站：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="netdisk" src="https://images-1252557999.file.myqcloud.com/uPic/v8jmto.png" /&gt;&lt;/p&gt;
-&lt;p&gt;代码开源在：&lt;a href="https://github.com/qaiu/netdisk-fast-download?tab=readme-ov-file"&gt;netdisk-fast-download&lt;/a&gt;。&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">11-04~11-10.老胡的周刊（第167期）.md</guid>
-      <pubDate>Sun, 10 Nov 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
