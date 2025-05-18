@@ -5,90 +5,94 @@
 
 ## 🎯 项目 
 
-### [crawl4ai](https://github.com/unclecode/crawl4ai)
+### [crawlee](https://crawlee.dev/)
 
-`Crawl4AI` 是一个免费且开源的网络爬虫工具，专为大型语言模型（LLMs）和 AI 应用设计，支持多种输出格式，如 JSON、HTML 和 markdown。它能够同时处理多个 URL，提取媒体标签（图片、音频和视频），以及内外链接和网页元数据。 
+基于 `Node` 编写的开源网络爬虫库：
 
-### [ChatGPT 项目推荐](https://weekly.howie6879.com/2023/02-13~02-18.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC079%E6%9C%9F%EF%BC%89.html?h=chatgpt#chatgpt)
+![crawlee](https://images-1252557999.file.myqcloud.com/uPic/crawlee.jpg) 
 
-基于 `ChatGPT` 相关接口衍生的项目：
+### [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
 
-- [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)：显示 `ChatGPT` 响应和 `Google` 搜索结果的浏览器扩展
-- [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)：将 `ChatGPT` 集成到互联网上的每个文本框中。
-- [周报生成器](https://weeklyreport.avemaria.fun/zh)：简单描述工作内容帮你生成完整周报
-- [README 生成器](https://readme.rustc.cloud/zh)：帮你生成完整 Github README
-- [邮件生成器](https://email-helper.vercel.app/)：几秒钟内生成多语言商务邮件
-- [Teach Anything](https://www.teach-anything.com/)：几秒钟内得到想要的答案
-- [聊天简化器](https://chat-simplifier.imzbb.cc/zh)：简化聊天记录内容
-- [SiteExplainer](https://siteexplainer.vercel.app/)：输入网址，快速总结网站内容
-- [Dear Aibby](https://www.dearaibby.com/)：来自新机器灵魂的衷心建议
-- [TextSummarizer](https://text-summarizer-seven.vercel.app/)：在几秒钟内从文本生成摘要
-- [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)：支持 `ChatGPT` 的 `Visual Studio Code` 扩展，可以与 `ChatGPT` 配对编程
-- [editGPT](https://chrome.google.com/webstore/detail/editgpt/mognjodfeldknhobgbnkoomipkmlnnhk)：利用 ChatGPT 做文案修改编辑 
+作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。
 
-### [dato.rss](https://github.com/davidesantangelo/dato.rss)
+项目列表如下：
 
-基于机器学习构建的RSS搜索引擎([datorss.com](https://datorss.com/))：
+![bigdata_analyse](https://images-1252557999.file.myqcloud.com/uPic/klC8AA.png) 
 
-![datorss](https://images-1252557999.file.myqcloud.com/uPic/datorss.png) 
+### [code-server](https://github.com/coder/code-server)
+
+这是一款开源的基于 `VSCode` 的在线编辑器，它提供了一个在线 `IDE`，只要你将其部署在服务器，你就有了一个随时可用的云环境：
+
+![code-server](https://images-1252557999.file.myqcloud.com/uPic/code-server.png) 
 
 ## 🤖 软件 
 
-### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
+### [keyviz](https://github.com/mulaRahul/keyviz)
 
-用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
+`Keyviz` 是一个免费且开源的工具，可以实时可视化您的按键⌨️和🖱️鼠标操作，比较适合录屏按键演示，基于 Flutter 开发，跨平台，颜值也不错：
 
-![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
+![keyviz](https://images-1252557999.file.myqcloud.com/uPic/keyviz.svg) 
 
-### [Sloth](https://github.com/sveinbjornt/Sloth)
+### [fideo-live-record](https://github.com/chenfan0/fideo-live-record)
 
-`Sloth` 是一款原生的 `Mac` 应用程序，它显示系统上所有正在运行软件所有打开的文件、目录、套接字、管道和设备，用户可以很简单地掌控自己的电脑文件使用权限：
+这是一个基于 `React Ffmpeg Electron Shadcn` 的直播录制软件。支持监控直播，可以帮助用户简单便捷对直播进行录制并保存为` MP4` 格式的视频：
 
-![Sloth](https://images-1252557999.file.myqcloud.com/uPic/Sloth.jpeg) 
+![fideo-live-record](https://images-1252557999.file.myqcloud.com/uPic/tCaYMt.png) 
 
-### [sunnypages](https://github.com/XMuli/sunnypages)
+### [KrillinAI](https://github.com/krillinai/KrillinAI)
 
-`Sunny` 截图是一款简洁且漂亮的截图的软件工具，支持 `Windows，MacOS，Linux` 平台。亦支持图片翻译和 `OCR`：
+基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容：
 
-![sunnypages](https://images-1252557999.file.myqcloud.com/uPic/sunnypages.jpg) 
+- 🎯 一键启动：无需复杂的环境配置，自动安装依赖，立即投入使用，新增桌面版本，使用更便捷！
+- 📥 视频获取：支持yt-dlp下载或本地文件上传
+- 📜 精准识别：基于Whisper的高准确度语音识别
+- 🧠 智能分段：使用LLM进行字幕分段和对齐
+- 🔄 术语替换：一键替换专业领域词汇
+- 🌍 专业翻译：基于LLM，段落级翻译保持语义连贯性
+- 🎙️ 配音克隆：提供CosyVoice精选音色或自定义音色克隆
+- 🎬 视频合成：自动处理横竖版视频和字幕排版
+
+![KrillinAI](https://images-1252557999.file.myqcloud.com/uPic/EGujdx.png) 
 
 ## 👀 资料 
 
-### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
 
-微软开源的一份全面的数据科学课程，20个课时，历时10周：
+本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
 
-![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
+![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
 
-### [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/)
+### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
 
-命令行的数据科学，本书演示了如何通过命令行的灵活性帮你成为更高效、更有生产力的数据科学家。
+该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
 
-![telegram-cloud-photo-size-5-6181558086683180904-y](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6181558086683180904-y.jpg) 
+![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
 
-### [xjq7/books](https://github.com/xjq7/books)
+### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
 
-电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
+ Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
+
+ ![rust_embedded_dev](https://images-1252557999.file.myqcloud.com/uPic/rust_embedded_dev.jpg) 
 
 ## 🕸 网站 
 
-### [echoserver](https://echoserver.dev/)
+### [musetransfer](https://musetransfer.com/)
 
-一个用于测试 `HTTP` 客户端的简单服务器，可生成 `URL` 并返回您想要的生成响应：
+`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
 
-![echoserver](https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg) 
+![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
 
-### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
+### [emojiall](https://www.emojiall.com/)
 
-冰霜大佬的博客：
+网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
 
-![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
+![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg) 
 
-### [github copilot](https://github.com/copilot)
+### [photoroom](https://www.photoroom.com/backgrounds/)
 
-`GitHub Copilot` 可以免费使用了，免费用户每月有 2000 个代码建议、50 次对话。
+利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
 
-![copilot](https://images-1252557999.file.myqcloud.com/uPic/648shM.png) 
+![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
 
 ## ✍️ 说明
 
