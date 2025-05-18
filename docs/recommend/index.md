@@ -5,94 +5,96 @@
 
 ## 🎯 项目 
 
-### [crawlee](https://crawlee.dev/)
+### [immich](https://github.com/immich-app/immich)
 
-基于 `Node` 编写的开源网络爬虫库：
+一个开源的高性能自托管照片和视频备份解决方案：
 
-![crawlee](https://images-1252557999.file.myqcloud.com/uPic/crawlee.jpg) 
+![immich](https://images-1252557999.file.myqcloud.com/uPic/immich.jpg) 
 
-### [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
+### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
 
-作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。
+简单描述工作内容，帮你生成完整周报：
 
-项目列表如下：
+![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
 
-![bigdata_analyse](https://images-1252557999.file.myqcloud.com/uPic/klC8AA.png) 
+### [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
 
-### [code-server](https://github.com/coder/code-server)
+🎨 一键拥有你自己的 `ChatGPT+Midjourney` 网页服务：
 
-这是一款开源的基于 `VSCode` 的在线编辑器，它提供了一个在线 `IDE`，只要你将其部署在服务器，你就有了一个随时可用的云环境：
+-  原ChatGPT-Next-Web所有功能
+-  midjourney imagin 想象
+-  midjourney upscale 放大
+-  midjourney variation 变幻
+-  midjourney describe 识图
+-  midjourney blend 混图
+-  midjourney 垫图
+-  绘图进度百分比、实时图像显示
 
-![code-server](https://images-1252557999.file.myqcloud.com/uPic/code-server.png) 
+![ChatGPT-Midjourney](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Midjourney.png) 
 
 ## 🤖 软件 
 
-### [keyviz](https://github.com/mulaRahul/keyviz)
+### [notepad--](https://github.com/cxasm/notepad--)
 
-`Keyviz` 是一个免费且开源的工具，可以实时可视化您的按键⌨️和🖱️鼠标操作，比较适合录屏按键演示，基于 Flutter 开发，跨平台，颜值也不错：
+这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
 
-![keyviz](https://images-1252557999.file.myqcloud.com/uPic/keyviz.svg) 
+> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
 
-### [fideo-live-record](https://github.com/chenfan0/fideo-live-record)
+![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
 
-这是一个基于 `React Ffmpeg Electron Shadcn` 的直播录制软件。支持监控直播，可以帮助用户简单便捷对直播进行录制并保存为` MP4` 格式的视频：
+### [materialYouNewTab](https://github.com/XengShi/materialYouNewTab)
 
-![fideo-live-record](https://images-1252557999.file.myqcloud.com/uPic/tCaYMt.png) 
+一个简单的新标签（浏览器主页）插件，灵感来自谷歌的 MD 设计，挺漂亮的：
 
-### [KrillinAI](https://github.com/krillinai/KrillinAI)
+![materialYouNewTab](https://images-1252557999.file.myqcloud.com/uPic/MWwtoG.png) 
 
-基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容：
+### [Screenbox](https://github.com/huynhsontung/Screenbox)
 
-- 🎯 一键启动：无需复杂的环境配置，自动安装依赖，立即投入使用，新增桌面版本，使用更便捷！
-- 📥 视频获取：支持yt-dlp下载或本地文件上传
-- 📜 精准识别：基于Whisper的高准确度语音识别
-- 🧠 智能分段：使用LLM进行字幕分段和对齐
-- 🔄 术语替换：一键替换专业领域词汇
-- 🌍 专业翻译：基于LLM，段落级翻译保持语义连贯性
-- 🎙️ 配音克隆：提供CosyVoice精选音色或自定义音色克隆
-- 🎬 视频合成：自动处理横竖版视频和字幕排版
+Screenbox 是一款现代视频播放器，构建在 LibVLCSharp 和通用 Windows 平台 (UWP) 之上，颜值颇高，同时又快速、轻量级。支持在 Windows 10 版本 1903+、Windows 11 和 Xbox 主机上使用:
 
-![KrillinAI](https://images-1252557999.file.myqcloud.com/uPic/EGujdx.png) 
+![Screenbox](https://images-1252557999.file.myqcloud.com/uPic/Screenbox.jpg) 
 
 ## 👀 资料 
 
-### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
+### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
 
-本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
+算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
 
-![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
+![Reflection Summary](https://images-1252557999.file.myqcloud.com/uPic/WpauDu.png) 
 
-### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+### [paper-reading](https://github.com/mli/paper-reading)
 
-该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
+![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
 
-### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
+### [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
 
- Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
+本仓库是手册《简单粗暴LaTeX》的开源仓库。本书涵盖了LaTeX的基本使用场景，以简明的例子来展现各命令的用法：
 
- ![rust_embedded_dev](https://images-1252557999.file.myqcloud.com/uPic/rust_embedded_dev.jpg) 
+![Note-by-LaTeX](https://images-1252557999.file.myqcloud.com/uPic/Note-by-LaTeX.jpg)
+
+在开源仓库可直接下载阅读。 
 
 ## 🕸 网站 
 
-### [musetransfer](https://musetransfer.com/)
+### [stable-doodle](https://clipdrop.co/stable-doodle)
 
-`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
+`stability AI` 推出的 `AI` 工具, 根据涂鸦和文字描述生成图片, 类似之推荐的 [scribblediffusion.com](https://weekly.howie6879.com/2023/03-06~03-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC082%E6%9C%9F%EF%BC%89.html?h=%E7%94%BB#scribblediffusioncom)，我画了只兔子：
 
-![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
+![stable-doodle](https://images-1252557999.file.myqcloud.com/uPic/stable-doodle.jpg) 
 
-### [emojiall](https://www.emojiall.com/)
+### [futurecoder](https://futurecoder.io/course/#ide)
 
-网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
+一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
 
-![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg) 
+![futurecoder](https://images-1252557999.file.myqcloud.com/uPic/futurecoder.jpg) 
 
-### [photoroom](https://www.photoroom.com/backgrounds/)
+### [recompressor](https://zh.recompressor.com/)
 
-利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
+免费的图片压缩工具：
 
-![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
+![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
 
 ## ✍️ 说明
 
