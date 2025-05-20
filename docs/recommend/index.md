@@ -5,106 +5,93 @@
 
 ## 🎯 项目 
 
-### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
+### [wiseflow](https://github.com/TeamWiseFlow/wiseflow)
 
-相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
+使用大模型从海量信息、各类信源中每日挖掘你真正感兴趣的信息！我们缺的不是信息，而是从海量信息中过滤噪音，从而让有价值的信息显露出来🌱看看AI情报官是如何帮您节省时间，过滤无关信息，并整理关注要点的吧！🌱
 
-如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
+> 毕竟是基于爬虫，稳定性是个比较大的问题。 
 
-### [chatlog](https://github.com/sjzar/chatlog)
+### [btop](https://github.com/aristocratos/btop)
 
-微信聊天记录工具，帮助大家轻松使用自己的聊天数据：
+一款界面酷炫的资源管理器，不过我用htop就够够的了。
 
-- 从本地数据库文件获取聊天数据
-- 支持 Windows / macOS 系统
-- 支持微信 3.x / 4.0 版本
-- 提供 Terminal UI 界面 & 命令行工具
-- 提供 HTTP API 服务，支持查询聊天记录、联系人、群聊、最近会话等信息
-- 支持 MCP SSE 协议，可与支持 MCP 的 AI 助手无缝集成
-- 支持多媒体消息，支持解密图片、语音
-- 支持自动解密数据，简化使用流程
-- 支持多账号管理，可在不同账号间切换
+![btop](https://images-1252557999.file.myqcloud.com/uPic/3eoG1g.jpg) 
 
-![chatlog](https://images-1252557999.file.myqcloud.com/uPic/NSigD0.png) 
+### [CoverView](https://github.com/rutikwankhade/CoverView)
 
-### [olmOCR-7B](https://huggingface.co/allenai/olmOCR-7B-0225-preview)
+一个开源的快速制作文章封面图的工具。
 
-`olmOCR` 在250000页的数据集上微调了`Qwen2-VL-7B-Instruct` 模型，旨在将 `PDF` 和文档图像转换为干净且结构化的纯文本：
-
-![olmOCR](https://img.api123.pro/i/2025/03/15/67d5044a829bd.png) 
+![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
 
 ## 🤖 软件 
 
-### [XHS_Downloader](https://github.com/JoeanAmier/XHS_Downloader)
+### [bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)
 
-免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具：
+一款基于 `Flutter` 开发的跨平台面端 B 站视频下载器：
 
-![XHS_Downloader](https://images-1252557999.file.myqcloud.com/uPic/XHS_Downloader.png) 
+![bilivideo_down](https://images-1252557999.file.myqcloud.com/uPic/bilivideo_down.jpg) 
 
-### [PDFQFZ](https://github.com/flytkgl/PDFQFZ)
+### [MotionEaseTune](https://github.com/BHznJNs/MotionEaseTune)
 
-PDF加盖骑缝章的小工具，选择需要盖章的PDF文件或文件夹。 选择保存文件夹。 导入完整的印章图片,工具会根据PDF页数做随机分割。 设定印章大小,骑缝章位置,印章位置等 点盖章，骚等后在保存文件夹中即可看到盖好骑缝章的PDF文件。
+一个安卓应用，通过 100Hz 声音来预防晕车症状，研究论文原文看[这里](https://www.jstage.jst.go.jp/article/ehpm/30/0/30_24-00247/_html)，使用条件：
 
-![pdfqfz](https://images-1252557999.file.myqcloud.com/uPic/pdfqfz.jpg) 
+```txt
+纯音（正弦波）的频率应为 100 Hz
+声音大小：80-85 dBZ OR 60.9-65.9 dBA
+应对双耳进行声音暴露，要确保双耳接收到同等的刺激
+纯音暴露的持续时间为 1 分钟
+``` 
 
-### [listen1_desktop](https://github.com/listen1/listen1_desktop)
+### aniyomi-插件
 
-Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单，支持音乐平台：
+之前推荐过移动端看动漫和漫画的软件👉[aniyomi](https://github.com/aniyomiorg/aniyomi)，老胡最近也针对这个软件做了一些配置，将收集的源分享给大家：
 
-- 网易云音乐
-- QQ 音乐
-- 酷狗音乐
-- 酷我音乐
-- bilibili
-- 咪咕音乐
-- 千千音乐
+- https://github.com/GokulSamraj/aniyomi-anime-repo
+- https://github.com/Kohi-den/extensions
 
-![listen1_desktop](https://images-1252557999.file.myqcloud.com/uPic/listen1_desktop.png) 
+![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
 
 ## 👀 资料 
 
-### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
+### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
 
-一份程序员延寿指南，目标是稳健地活得更久。 
+《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
 
-### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
 
-以非常直观的语言介绍`pytorch`：
+### [LearnData-开源笔记](https://newzone.top/)
 
-![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
+一份关于开源工具、效率方法、心理学探索的自我提升笔记：
 
-作者的同类电子书还有：
+![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
 
-- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+### [missing-semester-cn](https://missing-semester-cn.github.io/)
 
-### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
 
-微软设计的机器学习课程，完全面向新手：
+在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
 
-- 时间：12周
-- 课程：25课
-- 实验：50个 
+![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
 
 ## 🕸 网站 
 
-### [22.do](https://22.do/)
+### [1loc](https://1loc.dev/)
 
-一次性 `Gmail` 临时邮箱：
+一行 `js` 代码，可以实现哪些基础功能？这个网站做了汇总：
 
-![22do](https://images-1252557999.file.myqcloud.com/uPic/22do.jpg) 
+![1loc](https://images-1252557999.file.myqcloud.com/uPic/1loc.jpg) 
 
-### [cobalt](https://cobalt.tools/)
+### [xsgames](https://xsgames.co/pixelme/)
 
-一个专注于隐私保护和用户自由的[开源](https://github.com/imputnet/cobalt)在线工具，它允许用户从各种网站上保存视频、音频、图片或 GIF，同时提供匿名请求和加密隧道技术，确保用户的隐私安全。
+免费的像素头像生成网站：
 
-![cobalt](https://images-1252557999.file.myqcloud.com/uPic/ZwEgp6.png) 
+![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
 
-### [CronTool](https://tool.crontap.com/cronjob-debugger)
+### [animatedknots](https://www.animatedknots.com/)
 
-`Linux Crontab` 可视化网站：
+各种给绳子打结的姿势都可以在这里找到：
 
-![crontap](https://images-1252557999.file.myqcloud.com/uPic/crontap.jpg) 
+![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
 
 ## ✍️ 说明
 
