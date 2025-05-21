@@ -5,93 +5,99 @@
 
 ## 🎯 项目 
 
-### [wiseflow](https://github.com/TeamWiseFlow/wiseflow)
+### [form-create](https://github.com/xaboy/form-create)
 
-使用大模型从海量信息、各类信源中每日挖掘你真正感兴趣的信息！我们缺的不是信息，而是从海量信息中过滤噪音，从而让有价值的信息显露出来🌱看看AI情报官是如何帮您节省时间，过滤无关信息，并整理关注要点的吧！🌱
+强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
 
-> 毕竟是基于爬虫，稳定性是个比较大的问题。 
+![form-create](https://images-1252557999.file.myqcloud.com/uPic/demo-live3.gif) 
 
-### [btop](https://github.com/aristocratos/btop)
+### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
 
-一款界面酷炫的资源管理器，不过我用htop就够够的了。
+如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
 
-![btop](https://images-1252557999.file.myqcloud.com/uPic/3eoG1g.jpg) 
+- 教程
+- 软件
+- 工具&服务
+- 社区
+- ......
 
-### [CoverView](https://github.com/rutikwankhade/CoverView)
+你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
 
-一个开源的快速制作文章封面图的工具。
+- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
+- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
 
-![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
+![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
+
+### [public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+
+有一些 `Docker` 镜像托管在 `gcr.io`，这样国内下载就会很不方便，使用这个项目就可以快速下载，简单加个前缀就行：
+
+```shell
+k8s.gcr.io/coredns/coredns => m.daocloud.io/k8s.gcr.io/coredns/coredns
+```
+
+其他资源：
+
+- 常用镜像仓库：[一些国内镜像源](https://gist.github.com/qwfys/aec4d2ab79281aeafebdb40b22d0b748)
+- [x-mirrors/gcr.io](https://github.com/x-mirrors/gcr.io) 
 
 ## 🤖 软件 
 
-### [bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)
+### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
 
-一款基于 `Flutter` 开发的跨平台面端 B 站视频下载器：
+免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
 
-![bilivideo_down](https://images-1252557999.file.myqcloud.com/uPic/bilivideo_down.jpg) 
+![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
 
-### [MotionEaseTune](https://github.com/BHznJNs/MotionEaseTune)
+### [onepoint](https://github.com/onepointAI/onepoint)
 
-一个安卓应用，通过 100Hz 声音来预防晕车症状，研究论文原文看[这里](https://www.jstage.jst.go.jp/article/ehpm/30/0/30_24-00247/_html)，使用条件：
+Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
 
-```txt
-纯音（正弦波）的频率应为 100 Hz
-声音大小：80-85 dBZ OR 60.9-65.9 dBA
-应对双耳进行声音暴露，要确保双耳接收到同等的刺激
-纯音暴露的持续时间为 1 分钟
-``` 
+借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
 
-### aniyomi-插件
+![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
 
-之前推荐过移动端看动漫和漫画的软件👉[aniyomi](https://github.com/aniyomiorg/aniyomi)，老胡最近也针对这个软件做了一些配置，将收集的源分享给大家：
+### [Codeium](https://codeium.com/)
 
-- https://github.com/GokulSamraj/aniyomi-anime-repo
-- https://github.com/Kohi-den/extensions
+基于 `AI` 赋能的编码智能助手，自动补全代码，开发者的福音，对标 `GitHub Copilot`：
 
-![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
+![codeium](https://images-1252557999.file.myqcloud.com/uPic/codeium.jpg) 
 
 ## 👀 资料 
 
-### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
+### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
 
-《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
+精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
 
-![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
+### [Recommender_System](https://github.com/solidglue/Recommender_System)
 
-### [LearnData-开源笔记](https://newzone.top/)
+推荐系统入门指南，全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。 
 
-一份关于开源工具、效率方法、心理学探索的自我提升笔记：
+### [101-rs](https://github.com/tweedegolf/101-rs)
 
-![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
+[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
 
-### [missing-semester-cn](https://missing-semester-cn.github.io/)
-
-计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
-
-在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
-
-![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
+![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
 
 ## 🕸 网站 
 
-### [1loc](https://1loc.dev/)
+### [toolfinder](https://toolfinder.xyz/)
 
-一行 `js` 代码，可以实现哪些基础功能？这个网站做了汇总：
+生产力工具的维基百科：
 
-![1loc](https://images-1252557999.file.myqcloud.com/uPic/1loc.jpg) 
+![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
 
-### [xsgames](https://xsgames.co/pixelme/)
+### [visalist](https://visalist.io)
 
-免费的像素头像生成网站：
+网站交互样式都还不错，主要提供旅游签证、过境签证、数字游民签证等信息：
 
-![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
+![ybt76d](https://images-1252557999.file.myqcloud.com/uPic/ybt76d.png) 
 
-### [animatedknots](https://www.animatedknots.com/)
+### [pixabay](https://pixabay.com/)
 
-各种给绳子打结的姿势都可以在这里找到：
+`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
 
-![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
+![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
 
 ## ✍️ 说明
 
