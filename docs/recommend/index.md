@@ -5,99 +5,103 @@
 
 ## 🎯 项目 
 
-### [form-create](https://github.com/xaboy/form-create)
+### [ChatGPT-On-CS](https://github.com/lrhh123/ChatGPT-On-CS)
 
-强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
+基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用：
 
-![form-create](https://images-1252557999.file.myqcloud.com/uPic/demo-live3.gif) 
+![ChatGPT-On-CS](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-On-CS.jpg) 
 
-### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
+### [bilive](https://github.com/timerring/bilive)
 
-如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
+极快的B站直播录制、自动切片、自动渲染弹幕以及字幕并投稿至B站，综合多种大模型，兼容超低配置机器。
 
-- 教程
-- 软件
-- 工具&服务
-- 社区
-- ......
+![bilive](https://images-1252557999.file.myqcloud.com/uPic/ZIix4n.png) 
 
-你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
+### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
 
-- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
-- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
-
-![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
-
-### [public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
-
-有一些 `Docker` 镜像托管在 `gcr.io`，这样国内下载就会很不方便，使用这个项目就可以快速下载，简单加个前缀就行：
-
-```shell
-k8s.gcr.io/coredns/coredns => m.daocloud.io/k8s.gcr.io/coredns/coredns
-```
-
-其他资源：
-
-- 常用镜像仓库：[一些国内镜像源](https://gist.github.com/qwfys/aec4d2ab79281aeafebdb40b22d0b748)
-- [x-mirrors/gcr.io](https://github.com/x-mirrors/gcr.io) 
+不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
 
 ## 🤖 软件 
 
-### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
+### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
+监控你的应用流量，跨平台：
 
-![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
+![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
 
-### [onepoint](https://github.com/onepointAI/onepoint)
+### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 
-Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
+跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
 
-借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
+- 🍕 全平台支持. Windows, Mac, Linux
+- 🍥 支持 IPTV, 卫视直播
+- 🍔 视频源支持自定义, 支持导入, 导出
+- 🍟 支持海报模式和列表模式浏览资源
+- 🌭 播放历史, 自动跳转历史进度
+- 🍿 收藏夹支持导入,导出, 支持同步追剧
+- 🥙 支持精简模式, 摸鱼划水
+- 🥪 一键搜索所有资源, 支持历史搜索记录
+- 🌮 导出资源下载链接
+- 🍣 支持第三方播放器播放
+- 🍤 显示豆瓣评分
 
-![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
+![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
 
-### [Codeium](https://codeium.com/)
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-基于 `AI` 赋能的编码智能助手，自动补全代码，开发者的福音，对标 `GitHub Copilot`：
+`LosslessCut` 是一个强大的跨平台视频/音频编辑工具，旨在通过快速且无损的操作，提供对视频、音频、字幕等媒体文件的剪辑和处理。它支持几乎所有主流视频和音频格式的无损剪切，能够快速提取视频中的精彩片段，而无需重新编码，从而保证画质不降低。此外，它还支持合并、重新排列、添加音轨或字幕、批量处理等功能，非常适合从相机、`GoPro`、无人机等设备中处理大文件。
 
-![codeium](https://images-1252557999.file.myqcloud.com/uPic/codeium.jpg) 
+特点包括：
+- 支持大多数视频和音频格式的无损剪切
+- 快速多文件工作流程和键盘快捷键操作
+- 支持自定义时间段导出和编辑文件元数据
+- 提供黑场检测、静音检测、场景变化检测等实用工具
+
+`LosslessCut` 可以在不同操作系统上运行，并提供各种可执行文件下载选择，是处理和编辑媒体文件的理想选择。
+
+![lossless-cut](https://images-1252557999.file.myqcloud.com/uPic/lossless-cut.jpg) 
 
 ## 👀 资料 
 
-### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
+### [GPU 编程视频](https://www.youtube.com/playlist?list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j)
 
-精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
+可视化 `GPU` 编程教程：
 
-### [Recommender_System](https://github.com/solidglue/Recommender_System)
+![GPU-programming](https://images-1252557999.file.myqcloud.com/uPic/f1S0iU.png) 
 
-推荐系统入门指南，全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。 
+### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
 
-### [101-rs](https://github.com/tweedegolf/101-rs)
+一本小书《带你入门前端工程》
 
-[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
+![](https://images-1252557999.file.myqcloud.com/uPic/e783TS.png) 
 
-![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
+### [curriculum](https://github.com/TheOdinProject/curriculum)
+
+`The Odin Project`（简称 TOP）是一个开源的全栈 web 开发教育课程，旨在通过一系列课程和项目帮助学习者掌握前端和后端技能：
+
+![k6tcen](https://images-1252557999.file.myqcloud.com/uPic/k6tcen.png) 
 
 ## 🕸 网站 
 
-### [toolfinder](https://toolfinder.xyz/)
+### [open-slum.org](https://open-slum.org/)
 
-生产力工具的维基百科：
+`SLUM` 网站实时监控多个流行的隐蔽图书馆（如 Anna's Archive、Library Genesis、Sci-Hub 等）的可用性，并提供这些服务的运行状况、证书有效期以及最近的更新时间。
 
-![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
+因为这些网站经常**意外**失效，也很容易被钓鱼，所以这个网站很有用：
 
-### [visalist](https://visalist.io)
+![open-slum.org](https://images-1252557999.file.myqcloud.com/uPic/PzpYfd.png) 
 
-网站交互样式都还不错，主要提供旅游签证、过境签证、数字游民签证等信息：
+### [morphic.sh](https://www.morphic.sh/)
 
-![ybt76d](https://images-1252557999.file.myqcloud.com/uPic/ybt76d.png) 
+一个开源的 AI 搜索引擎，支持 `Vercel` 自建部署，可选 `OpenAI、Gemini`，以及最新的 `Llama3` 大模型，网站开源 [morphic](https://github.com/miurla/morphic)：
 
-### [pixabay](https://pixabay.com/)
+![morphic](https://images-1252557999.file.myqcloud.com/uPic/morphic.jpg) 
 
-`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
+### [linegraphmaker](https://linegraphmaker.co/)
 
-![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
+在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
+
+![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
 
 ## ✍️ 说明
 
