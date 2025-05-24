@@ -5,98 +5,88 @@
 
 ## 🎯 项目 
 
-### [UpSnap](https://github.com/seriousm4x/UpSnap)
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 
-`UpSnap` 是一个基于 `SvelteKit、Go & PocketBase` 开发的简单唤醒设备（Wake-on-LAN）`Web` 应用程序，支持自动化定时事件、端口检测、网络扫描发现设备、用户管理、国际化支持、主题选择以及 `Docker` 部署。
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
 
-![UpSnap](https://images-1252557999.file.myqcloud.com/uPic/tzz1z0.png) 
+![AI-Writer](https://images-1252557999.file.myqcloud.com/uPic/AI-Writer.jpeg) 
 
-### [devika](https://github.com/stitionai/devika "devika")
+### [duplicati](https://github.com/duplicati/duplicati)
 
-Devika 是一名 Agentic AI 软件工程师，可以理解高级人类指令并将其分解到各个步骤，然后研究相关信息，并编写代码以实现给定的目标。
+Duplicati 是一个免费的开源备份客户端，可将加密的、增量的、压缩的备份安全地存储在云存储服务和远程文件服务器上:
 
-![devika](https://images-1252557999.file.myqcloud.com/uPic/devika.png)
+![duplicati](https://images-1252557999.file.myqcloud.com/uPic/duplicati.jpg) 
 
-Devika 旨在成为 Cognition AI 的 Devin 的竞争性开源替代品。 
+### [nps](https://github.com/ehang-io/nps)
 
-### [chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror)
+一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。
 
-基于 `gpt-3.5-turbo` 的 `ChatGPT` 镜像网站（开源，可以自建）：
-
-![chatgpt-mirror](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-mirror.jpg) 
+![nps](https://images-1252557999.file.myqcloud.com/uPic/x2AaCw.jpg) 
 
 ## 🤖 软件 
 
-### [materialYouNewTab](https://github.com/XengShi/materialYouNewTab)
+### [any-reader](https://github.com/aooiuu/any-reader)
 
-一个简单的新标签（浏览器主页）插件，灵感来自谷歌的 MD 设计，挺漂亮的：
+多平台自定义源资源聚合工具，支持看小说、漫画、视频等：
 
-![materialYouNewTab](https://images-1252557999.file.myqcloud.com/uPic/MWwtoG.png) 
+- 跨平台: Windows、Mac、Linux
+- 多应用: 桌面端、网页端、Docker、VSCode插件、 uTools 插件、rubick 插件
+- 多类型：小说、漫画、视频、音频
+- 自定义源：通过 XPath、JSONPath、CSS选择器、正则、JS等轻松编写规则
+- 生态兼容：兼容 eso 源
+- 资源站接入：支持导入苹果CMS、ZyPlayer
+- 开放解析库：规则解析库分离, 你可以使用解析库开发自己的程序
+- 本地资源支持：支持本地小说格式 TXT、Epub
 
-### [GitUp](https://github.com/git-up/GitUp)
+![any-reader](https://images-1252557999.file.myqcloud.com/uPic/any-reader.jpg) 
 
-简洁的 `Git` 客户端：
+### [AdAway](https://github.com/AdAway/AdAway)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/GitUp.jpg) 
+是一款免费且开源的 `Android` 广告拦截器：
 
-### [onepoint](https://github.com/onepointAI/onepoint)
+![AdAway](https://images-1252557999.file.myqcloud.com/uPic/AdAway.jpg) 
 
-Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
+### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
 
-借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
+基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
 
-![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
+![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
 
 ## 👀 资料 
 
-### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
 
-24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
+精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
 
-![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
+### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
 
-### [theByteBook](https://github.com/isno/theByteBook)
+Kubernetes 中文指南/云原生应用架构实战手册：
 
-深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
+![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
 
-![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
+### [db-tutorial](https://github.com/dunwu/db-tutorial)
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
-
-强化学习中文教程：
-
-![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
+💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
 
 ## 🕸 网站 
 
-### [FRE321](https://www.fre321.com/)
+### [ICO converter](https://www.icoconverter.com/)
 
-原本 fre123.com 被污染了，所以 301 到新的域名 [https://www.fre321.com](https://www.fre321.com) 一直在用的朋友请收藏下哈，老胡也再次和大家介绍下目前的功能：
+`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
 
-- 首页影视、动漫、软件、电子书、音乐等资源导航
-- 番剧搜索
-- 技术、新闻信息流
-- 周刊聚合页面
-- 新功能持续开发中
+![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
 
-![FRE321](https://images-1252557999.file.myqcloud.com/uPic/FRE321.jpg) 
+### [uxdatabase](https://www.uxdatabase.io/)
 
-### [jellylade](https://app.jellylade.com/)
+国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
 
-美化截图，可以选择各种设备：
+![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
 
-![jellylade](https://images-1252557999.file.myqcloud.com/uPic/jellylade.jpg) 
+### [rare-big-deal](https://rarebigdeal.com/)
 
-### [tinypng](https://tinypng.com/)
+一个专门为黑五/网络星期一等活动提供软件和工具优惠的资源库。该资源库汇集了多种类别的产品和服务，包括 macOS 应用、API、浏览器插件、AI 工具、iOS 应用、设计工具、生产力工具、营销工具、SEO 工具、样板文件、学习资源、健康和健身应用、金融工具、邮件列表、专业化服务等：
 
-比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
-
-![tinypng](https://images-1252557999.file.myqcloud.com/uPic/8s8ltr.png)
-
-如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
-
-- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
-- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
+![rare-big-deal](https://images-1252557999.file.myqcloud.com/uPic/AepRDr.png) 
 
 ## ✍️ 说明
 
