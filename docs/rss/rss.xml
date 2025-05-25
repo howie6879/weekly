@@ -12,7 +12,97 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 18 May 2025 09:21:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 14:15:18 +0000</lastBuildDate>
+    <item>
+      <title>05-19~05-25.老胡的周刊（第188期）.md</title>
+      <link>https://weekly.howie6879.com/2025/05-19~05-25.老胡的周刊（第188期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/05-19~05-25.老胡的周刊（第188期）.html"&gt;05-19~05-25.老胡的周刊（第188期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/" title="老胡的信息周刊"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Fosowl/agenticSeek" title="agenticSeek"&gt;agenticSeek&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个 100% 本地替代 &lt;code&gt;Manus AI&lt;/code&gt; 的方案，这款支持语音的 AI 助理能够自主浏览网页、编写代码和规划任务，同时将所有数据保留在您的设备上。专为本地推理模型量身打造，完全在您自己的硬件上运行，确保完全的隐私保护和零云端依赖。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔒 完全本地化与隐私保护 - 所有功能都在您的设备上运行 — 无云端服务，无数据共享。您的文件、对话和搜索始终保持私密。&lt;/li&gt;
+&lt;li&gt;🌐 智能网页浏览 - AgenticSeek 能够自主浏览互联网 — 搜索、阅读、提取信息、填写网页表单 — 全程无需人工操作。&lt;/li&gt;
+&lt;li&gt;💻 自主编码助手 - 需要代码？它可以编写、调试并运行 Python、C、Go、Java 等多种语言的程序 — 全程无需监督。&lt;/li&gt;
+&lt;li&gt;🧠 智能代理选择 - 您提问，它会自动选择最适合该任务的代理。就像拥有一个随时待命的专家团队。&lt;/li&gt;
+&lt;li&gt;📋 规划与执行复杂任务 - 从旅行规划到复杂项目 — 它能将大型任务分解为步骤，并利用多个 AI 代理完成工作。&lt;/li&gt;
+&lt;li&gt;🎙️ 语音功能 - 清晰、快速、未来感十足的语音与语音转文本功能，让您能像科幻电影中一样与您的个人 AI 助手对话。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="agenticSeek" src="https://images-1252557999.file.myqcloud.com/uPic/7sShIp.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/n8n-io/n8n" title="n8n"&gt;n8n&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;n8n&lt;/code&gt; 是一款带有 &lt;code&gt;AI&lt;/code&gt; 能力的工作流程自动化工具，提供了多步骤 AI 代理集成和超过 500 个集成工具的能力，开发者可以自定义想要使用的功能和应用程序：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="n8n" src="https://images-1252557999.file.myqcloud.com/uPic/YUavwl.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ajnart/dcm" title="dcm"&gt;dcm&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;DockerComposeMaker&lt;/code&gt; (DCM) 是一个简单但强大的工具，用于帮助用户创建 docker-compose.yml 文件，该项目提供了一个选择和配置容器的平台，使得用户不再需要从文档中复制粘贴，也不需要记住正确的配置选项：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="dcm" src="https://images-1252557999.file.myqcloud.com/uPic/TC2vHv.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/microsoft/magentic-ui" title="magentic-ui"&gt;magentic-ui&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Magentic-UI&lt;/code&gt; 是一个实验性的、人工为中心的网页代理（&lt;code&gt;web agent&lt;/code&gt;），旨在通过多智能体系协助用户执行网页任务，生成和执行代码，以及生成和分析文件，微软出品：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="magentic-ui" src="https://images-1252557999.file.myqcloud.com/uPic/qhpo91.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/besscroft/PicImpact" title="PicImpact"&gt;PicImpact&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;PicImpact&lt;/code&gt; 是一个支持自部署的摄影作品展示网站：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;瀑布流相册展示图片，支持实况照片(Live Photos)，基于 LivePhotosKit JS 开发。&lt;/li&gt;
+&lt;li&gt;点击图片查看原图，浏览图片信息和 EXIF 信息，支持直链访问。&lt;/li&gt;
+&lt;li&gt;响应式设计，在 PC 和移动端都有不错的体验，支持暗黑模式。&lt;/li&gt;
+&lt;li&gt;图片存储兼容 S3 API、Cloudflare R2、AList API。&lt;/li&gt;
+&lt;li&gt;图片支持绑定标签，并且可通过标签进行交互，筛选标签下所有图片。&lt;/li&gt;
+&lt;li&gt;支持输出 RSS，可以使用 Follow 订阅，并支持订阅源所有权验证。&lt;/li&gt;
+&lt;li&gt;支持批量自动化上传，上传图片时会生成 0.3 倍率的压缩图片，以提供加载优化。&lt;/li&gt;
+&lt;li&gt;后台有图片数据统计、图片上传、图片维护、相册管理、系统设置和存储配置功能。&lt;/li&gt;
+&lt;li&gt;双因素认证功能，基于 TOTP 算法 RFC 6238，支持 Google Authenticator、Microsoft Authenticator 和 1Password 等。&lt;/li&gt;
+&lt;li&gt;基于 SSR 的混合渲染，采用状态机制，提供良好的使用体验。&lt;/li&gt;
+&lt;li&gt;基于 prisma 的自动初始化数据库和数据迁移，简化部署流程。&lt;/li&gt;
+&lt;li&gt;支持 Vercel 部署、Node.js 部署、Docker 等容器化部署，当然 k8s 也支持。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/agentcodee/cursor-free-everyday" title="cursor-free-everyday"&gt;cursor-free-everyday&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;完全免费的 &lt;code&gt;Cursor&lt;/code&gt; 助手工具，提供以下功能：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一键获取新额度&lt;/li&gt;
+&lt;li&gt;自动满额度账号&lt;/li&gt;
+&lt;li&gt;无需登录账号&lt;/li&gt;
+&lt;li&gt;解决机器码问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="cursor-free-everyday" src="https://images-1252557999.file.myqcloud.com/uPic/PihQZl.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/aingdesk/AingDesk" title="AingDesk"&gt;AingDesk&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;AingDesk&lt;/code&gt; 是一款简单好用的 AI 助手，支持知识库、模型 API、分享、联网搜索、智能体：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="AingDesk" src="https://images-1252557999.file.myqcloud.com/uPic/1DjXWY.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Brkgng/ScrollSnap" title="ScrollSnap"&gt;ScrollSnap&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;ScrollSnap&lt;/code&gt; 是开源的 Mac 滚动截图应用，支持自定义选择区域和菜单界面，用户可以定义截图区域，并将滚动截图后保存到桌面、剪贴板或预览。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ScrollSnap" src="https://images-1252557999.file.myqcloud.com/uPic/e6zQwj.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/anthropics/courses" title="anthropics/courses"&gt;anthropics/courses&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Anthropic&lt;/code&gt; 的教育课程，目前包含五个课程：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Anthropic API 基础知识：教授如何与 Claude SDK 合作，包括获取 API 密钥、处理模型参数、编写多模态提示、流式响应等。&lt;/li&gt;
+&lt;li&gt;提示工程互动教程&lt;/li&gt;
+&lt;li&gt;教授如何将提示技术应用到复杂的现实世界提示中&lt;/li&gt;
+&lt;li&gt;教授如何编写评估来测量提示的质量&lt;/li&gt;
+&lt;li&gt;教授如何在工作流程中成功使用 Claude 的工具&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://singleservingsites.cool/" title="singleservingsites.cool"&gt;singleservingsites.cool&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Single-Serving Sites 是一个展示专注于特定功能或主题的微型网站。这些网站涵盖了从二维码、倒计时、设计工具、在线棋盘游戏到个性化的 CSS 风格、产品管理工具等多种类型，每个微型网站都有其独特的功能和目的：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="singleservingsites" src="https://images-1252557999.file.myqcloud.com/uPic/lrAstx.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://www.aireadinghub.com/" title="AI Reading Hub"&gt;AI Reading Hub&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;每天精选值得读的 AI 文章：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="AI Reading Hub" src="https://images-1252557999.file.myqcloud.com/uPic/YBUidO.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg" title="老胡的储物柜"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly" title="TG 频道订阅"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注 👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly" title="聚合周刊"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外 60+优质技术周刊进行信息聚合 🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/" title="howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com" title="老胡的信息周刊"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html" title="今日推荐"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html" title="MacOS 软件推荐"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌 如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">05-19~05-25.老胡的周刊（第188期）.md</guid>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>05-06~05-18.老胡的周刊（第187期）.md</title>
       <link>https://weekly.howie6879.com/2025/05-06~05-18.老胡的周刊（第187期）.html</link>
@@ -1305,76 +1395,6 @@
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">11-18~11-24.老胡的周刊（第169期）.md</guid>
       <pubDate>Sun, 24 Nov 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>11-11~11-17.老胡的周刊（第168期）.md</title>
-      <link>https://weekly.howie6879.com/2024/11-11~11-17.老胡的周刊（第168期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/11-11~11-17.老胡的周刊（第168期）.html"&gt;11-11~11-17.老胡的周刊（第168期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Ray-D-Song/web-archive"&gt;web-archive&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Web Archive 是一个网页归档工具，包含以下几个部分：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;浏览器插件：将网页保存为网页快照，并上传到服务端。&lt;/li&gt;
-&lt;li&gt;服务端： 接收浏览器插件上传的快照，并存储在数据库和存储桶中。&lt;/li&gt;
-&lt;li&gt;web 客户端： 查询快照并展示。&lt;/li&gt;
-&lt;li&gt;服务端基于 Cloudflare Worker 的全套服务，包含 D1 数据库、R2 存储桶。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="web-archive" src="https://images-1252557999.file.myqcloud.com/uPic/eHiOvl.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/ourongxing/newsnow"&gt;newsnow&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;优雅地阅读实时热门新闻：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;优雅的设计，优雅的阅读体验，时刻关注最新最热的新闻。&lt;/li&gt;
-&lt;li&gt;支持 Github 登录，支持数据同步。&lt;/li&gt;
-&lt;li&gt;默认 30 分钟缓存，登录用户可以强制拉取最新数据。但也会根据内容源的更新间隔设置不同的爬虫间隔时间（最快两分钟），节约资源的同时避免频繁爬取而导致 IP 封禁。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="newsnow" src="https://images-1252557999.file.myqcloud.com/uPic/reaQ9I.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/JoeanAmier/XHS-Downloader"&gt;XHS-Downloader&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！&lt;/p&gt;
-&lt;p&gt;&lt;img alt="XHS-Downloader" src="https://images-1252557999.file.myqcloud.com/uPic/mjKPJU.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/bluewave-labs/bluewave-uptime"&gt;bluewave-uptime&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个开源的自托管服务器监控工具，使用 &lt;code&gt;React.js, Node.js &amp;amp; MongoDB&lt;/code&gt; 构建，用于实时跟踪服务器的在线状态、响应时间和事件，并提供美观的可视化界面和预警功能：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="bluewave-uptime" src="https://images-1252557999.file.myqcloud.com/uPic/3x4lwD.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/lunu-bounir/allow-right-click"&gt;allow-right-click&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;开源插件，解锁被网站禁用的右键功能，支持多种浏览器：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="allow-right-click" src="https://images-1252557999.file.myqcloud.com/uPic/cyZqzu.png" /&gt;&lt;/p&gt;
-&lt;p&gt;对于这种功能的插件，一定要用开源的，太多插件先免费提供功能，然后偷偷摸摸做些个人信息售卖或者返佣等事情进行盈利。&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/jaywcjlove/DevHub"&gt;DevHub&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;面向开发者的工具箱软件：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="DevHub" src="https://images-1252557999.file.myqcloud.com/uPic/N2tzTT.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/freeok/so-novel"&gt;so-novel&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;交互式小说下载器，Windows、macOS、Linux 解压即用，可根据书名、作者搜索并下载小说，支持导出格式：epub、txt、html（支持翻页），结合以下电子书阅读器使用更佳：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;电脑：&lt;a href="https://www.koodoreader.com/zh"&gt;koodo-reader&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;手机：Apple Books&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="so-novel" src="https://images-1252557999.file.myqcloud.com/uPic/h4xoJr.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/varungodbole/prompt-tuning-playbook"&gt;prompt-tuning-playbook&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;项目主要提供了一份针对后训练大型语言模型（LLMs）的有效提示技术指南，旨在帮助用户更好地理解和应用这些模型。&lt;/p&gt;
-&lt;p&gt;后训练使得 LLMs 能够更好地遵循指令、匹配现实世界、保持安全等，这些行为包括但不限于格式遵循、指令执行、事实准确性和安全性。&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://buyoncesoftware.com"&gt;buyoncesoftware.com&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一份满足购买一次，终身使用软件名单：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="buyoncesoftware" src="https://images-1252557999.file.myqcloud.com/uPic/HuYvwg.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://drawl.ink/"&gt;drawl.ink&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;将链接转化成好看的图片：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="drawl" src="https://images-1252557999.file.myqcloud.com/uPic/eltzuF.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">11-11~11-17.老胡的周刊（第168期）.md</guid>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
