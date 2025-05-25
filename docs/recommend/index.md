@@ -5,88 +5,99 @@
 
 ## 🎯 项目 
 
-### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
+### [UpSnap](https://github.com/seriousm4x/UpSnap)
 
-AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+`UpSnap` 是一个基于 `SvelteKit、Go & PocketBase` 开发的简单唤醒设备（Wake-on-LAN）`Web` 应用程序，支持自动化定时事件、端口检测、网络扫描发现设备、用户管理、国际化支持、主题选择以及 `Docker` 部署。
 
-![AI-Writer](https://images-1252557999.file.myqcloud.com/uPic/AI-Writer.jpeg) 
+![UpSnap](https://images-1252557999.file.myqcloud.com/uPic/tzz1z0.png) 
 
-### [duplicati](https://github.com/duplicati/duplicati)
+### [wtfutil](https://github.com/wtfutil/wtf)
 
-Duplicati 是一个免费的开源备份客户端，可将加密的、增量的、压缩的备份安全地存储在云存储服务和远程文件服务器上:
+在你的终端定制化仪表盘，提供 IP 信息、世界时间、系统信息、充电信息、系统状态、GitHub 等信息集中展示，也可以通过配置实现业务监控：
 
-![duplicati](https://images-1252557999.file.myqcloud.com/uPic/duplicati.jpg) 
+![wtfutil](https://images-1252557999.file.myqcloud.com/uPic/wtfutil.jpeg) 
 
-### [nps](https://github.com/ehang-io/nps)
+### [AstrBot](https://github.com/Soulter/AstrBot)
 
-一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。
+`AstrBot` 是一个松耦合、异步、支持多消息平台部署、具有易用的插件系统和完善的大语言模型（LLM）接入功能的聊天机器人及开发框架：
 
-![nps](https://images-1252557999.file.myqcloud.com/uPic/x2AaCw.jpg) 
+![AstrBot](https://images-1252557999.file.myqcloud.com/uPic/htLSql.png) 
 
 ## 🤖 软件 
 
-### [any-reader](https://github.com/aooiuu/any-reader)
+### [numi](https://github.com/nikolaeu/numi)
 
-多平台自定义源资源聚合工具，支持看小说、漫画、视频等：
+一款颜值颇高的 `Mac` 计算器：
 
-- 跨平台: Windows、Mac、Linux
-- 多应用: 桌面端、网页端、Docker、VSCode插件、 uTools 插件、rubick 插件
-- 多类型：小说、漫画、视频、音频
-- 自定义源：通过 XPath、JSONPath、CSS选择器、正则、JS等轻松编写规则
-- 生态兼容：兼容 eso 源
-- 资源站接入：支持导入苹果CMS、ZyPlayer
-- 开放解析库：规则解析库分离, 你可以使用解析库开发自己的程序
-- 本地资源支持：支持本地小说格式 TXT、Epub
+![numi](https://images-1252557999.file.myqcloud.com/uPic/numi.jpg) 
 
-![any-reader](https://images-1252557999.file.myqcloud.com/uPic/any-reader.jpg) 
+### [Raptor](https://github.com/InfpHub/Raptor)
 
-### [AdAway](https://github.com/AdAway/AdAway)
+使用 `Qt` 和 `C++` 构建的低内存、小而美的第三方阿里云盘 `Windows` 桌面应用客户端🚀
 
-是一款免费且开源的 `Android` 广告拦截器：
+- 🧬 用户 - 持久化登录，多用户登录，多用户切换
+- 📉 文件（夹） - 创建/多级创建文件夹/重命名/搜索
+- 💅 文件（夹） - 移动/复制
+- ✅ 文件（夹） - 上传/下载/唤起第三方下载器下载
+- 🎪 视频 - MPV/VLC/PotPlayer
+- 💸 分享 - 创建分享/导入分享
+- 🦹🏻‍♀️ 秒传 - 创建秒传/导入秒传
+- ⭐️ 收藏 - 收藏/取消收藏/搜索
+- 🕵️‍♂️ 回收站 - 清空/删除/恢复
+- 📚 Plus - 跨网盘文件复制
+- 🏅 UI - 可自由修改的字体，图标与主题 
 
-![AdAway](https://images-1252557999.file.myqcloud.com/uPic/AdAway.jpg) 
+### [cat-catch](https://github.com/xifangczy/cat-catch)
 
-### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
+猫抓(cat-catch) 资源嗅探扩展，能够帮你筛选列出当前页面的资源：
 
-基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
-
-![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
+![cat-catch](https://images-1252557999.file.myqcloud.com/uPic/cat-catch.png) 
 
 ## 👀 资料 
 
-### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
+### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
 
-精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
+美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
 
-### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
+![](https://images-1252557999.file.myqcloud.com/uPic/OSTEP-20220429104105382.jpg)
 
-Kubernetes 中文指南/云原生应用架构实战手册：
+本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
 
-![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
+### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
 
-### [db-tutorial](https://github.com/dunwu/db-tutorial)
+这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
 
-💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
+![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
+
+### [note-hack](https://github.com/xdite/note-hack)
+
+《打造超人笔记》是一本关于如何有效记录和整理笔记的书籍。
+
+作者认为，笔记是一个看起来复杂但实际上比学习和阅读更简单的问题。通过拆解笔记的流程，作者发现主要问题的结构变得非常简单。此外，随着科技的发展，许多快速记录工具和笔记整理软件已经被发明出来，使笔记搜寻变得更加容易。
+
+在本书中，作者探讨了如何通过做笔记和整理笔记来挖掘和整理自己对一个领域的各种答案。通过阅读本书，读者可以学习到如何使用各种工具和方法来提高自己的笔记能力，成为一个笔记超人。 
 
 ## 🕸 网站 
 
-### [ICO converter](https://www.icoconverter.com/)
+### [open-slum.org](https://open-slum.org/)
 
-`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
+`SLUM` 网站实时监控多个流行的隐蔽图书馆（如 Anna's Archive、Library Genesis、Sci-Hub 等）的可用性，并提供这些服务的运行状况、证书有效期以及最近的更新时间。
 
-![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
+因为这些网站经常**意外**失效，也很容易被钓鱼，所以这个网站很有用：
 
-### [uxdatabase](https://www.uxdatabase.io/)
+![open-slum.org](https://images-1252557999.file.myqcloud.com/uPic/PzpYfd.png) 
 
-国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
+### [medisearch](https://medisearch.io/zh)
 
-![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
+直接的科学为基础的医疗问答模型：
 
-### [rare-big-deal](https://rarebigdeal.com/)
+![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
 
-一个专门为黑五/网络星期一等活动提供软件和工具优惠的资源库。该资源库汇集了多种类别的产品和服务，包括 macOS 应用、API、浏览器插件、AI 工具、iOS 应用、设计工具、生产力工具、营销工具、SEO 工具、样板文件、学习资源、健康和健身应用、金融工具、邮件列表、专业化服务等：
+### [singleservingsites.cool](https://singleservingsites.cool/ "singleservingsites.cool")
 
-![rare-big-deal](https://images-1252557999.file.myqcloud.com/uPic/AepRDr.png) 
+Single-Serving Sites 是一个展示专注于特定功能或主题的微型网站。这些网站涵盖了从二维码、倒计时、设计工具、在线棋盘游戏到个性化的 CSS 风格、产品管理工具等多种类型，每个微型网站都有其独特的功能和目的：
+
+![singleservingsites](https://images-1252557999.file.myqcloud.com/uPic/lrAstx.png) 
 
 ## ✍️ 说明
 
