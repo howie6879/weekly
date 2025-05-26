@@ -5,36 +5,31 @@
 
 ## 🎯 项目 
 
-### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
+### [manifest](https://github.com/jonathontoon/manifest)
 
-`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
+本周最喜欢的一个项目，这是一个基于网格的即时便签板，可随时在浏览器中记笔记，相当于浏览器便签，虽然项目不更新了，但是功能基本完成，值得一试：
 
-![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
+![manifest](https://images-1252557999.file.myqcloud.com/uPic/manifest.jpg) 
 
-### [safeline](https://github.com/chaitin/safeline)
+### [akile_monitor](https://github.com/akile-network/akile_monitor)
 
-一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
+一个开源的监控工具项目，提供服务器状态监控功能，并且支持前后端一键部署：
 
-- 便捷性：采用容器化部署，一条命令即可完成安装，0 成本上手。安全配置开箱即用，无需人工维护，可实现安全躺平式管理。
-- 安全性：首创业内领先的智能语义分析算法，精准检测、低误报、难绕过。语义分析算法无规则，面对未知特征的 0day 攻击不再手足无措。
-- 高性能：无规则引擎，线性安全检测算法，平均请求检测延迟在 1 毫秒级别。并发能力强，单核轻松检测 2000+ TPS，只要硬件足够强，可支撑的流量规模无上限。
-- 高可用：流量处理引擎基于 Nginx 开发，性能与稳定性均可得到保障。内置完善的健康检查机制，服务可用性高达 99.99%。
+![akile_monitor](https://images-1252557999.file.myqcloud.com/uPic/0D0D4c.png) 
 
-![safeline](https://images-1252557999.file.myqcloud.com/uPic/safeline.png) 
+### [browser-use/web-ui](https://github.com/browser-use/web-ui)
 
-### [open-interpreter](https://github.com/KillianLucas/open-interpreter)
+让 AI 助手控制你的浏览器，浏览器中运行 AI 代理，提供用户友好的 Web 界面，支持多种大型语言模型，并允许使用自定义浏览器进行交互：
 
-基于 `LLM` 为你提供一种新的方式来控制电脑，本地运行：
-
-![open_interpreter](https://images-1252557999.file.myqcloud.com/uPic/open_interpreter.jpg) 
+![web-ui](https://images-1252557999.file.myqcloud.com/uPic/DVMAQC.png) 
 
 ## 🤖 软件 
 
-### [Olauncher](https://github.com/tanujnotes/Olauncher)
+### [Kazumi](https://github.com/Predidit/Kazumi)
 
-适用于 `Android` 的最小 `AF` 启动器。减少您在屏幕上浪费的时间，提供日常壁纸，非常优雅简洁，效果上来看适合英文用户：
+基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，非常强大：
 
-![Olauncher](https://images-1252557999.file.myqcloud.com/uPic/Olauncher.jpg) 
+![Kazumi](https://images-1252557999.file.myqcloud.com/uPic/Kazumi.jpg) 
 
 ### [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
 
@@ -48,52 +43,51 @@
 
 ![MarkEdit](https://images-1252557999.file.myqcloud.com/uPic/MarkEdit.png) 
 
-### [hummingbird](https://github.com/leibnizli/hummingbird)
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
-`Hummingbird` 是一个资源(`jpg/png/webp/svg/gif/css/js/html`)压缩客户端，支持`Windows`、`Mac`：
+`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
 
-- `jpg/png/webp/svg/gif/html` 压缩后会替换掉当前文件，`css/js` 压缩后会生成一个带 `.min` 的新文件
-- 可以在在当前目录新建source文件夹并备份处理前的文件，可以在设置中开启
-
-![hummingbird](https://images-1252557999.file.myqcloud.com/uPic/hummingbird.jpg) 
+![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
 
 ## 👀 资料 
 
-### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
+### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
 
-对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
+`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
 
-### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
+![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
 
-这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
+### [bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain)
 
-之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.com/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
+它为希望构建自己的基于检索增强生成（RAG）应用程序的开发者提供了一系列的资源和指导。该项目涵盖了从基础到高级的 RAG 实现，包括多查询、自定义 RAG 管道、高级检索和重排技术。仓库中包含了一系列的教程笔记本，这些笔记本详细介绍了 RAG 架构的设置、数据预处理、嵌入生成、向量存储、多查询技术、逻辑和语义路由、查询结构化、高级索引和检索技术等。
 
-### [missing-semester-cn](https://missing-semester-cn.github.io/)
+![bRAG-langchain](https://images-1252557999.file.myqcloud.com/uPic/u0SkKz.png) 
 
-计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
+### [统计学自学指南](https://xuankaiwang.github.io/)
 
-在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
+这是一本统计的自学指南, 也是作者在数院自学生涯的一个纪念：
 
-![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
+![XuankaiWang](https://images-1252557999.file.myqcloud.com/uPic/XuankaiWang.jpg) 
 
 ## 🕸 网站 
 
-### [caniuse](https://caniuse.com/)
+### [lookscanned.io](https://lookscanned.io/)
 
-网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
+[lookscanned.io](https://github.com/rwv/lookscanned.io) 是一个开源网页项目，依托 WebAssembly 等先进技术，无需打印之后再扫描这类繁琐的过程。仅需点击下按钮，分秒之间，你就能得到所需要的扫描件了：
 
-![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
+![lookscanned](https://images-1252557999.file.myqcloud.com/uPic/lookscanned.jpg) 
 
-### [IconPark](https://iconpark.oceanengine.com/home)
+### [zhale.me](https://zhale.me/)
 
-字节开源的一款图标库。 
+这是一款为运维人员和站长设计的在线网络测试工具，拥有超过1000个全球节点。它可以模拟用户访问特定的域名或IP地址，免费提供网站速度测试、网络速度检测、多地区在线ping测试、DNS查询、路由跟踪以及IPv6网站测试等多种站长工具：
 
-### [cobalt](https://cobalt.tools/)
+![zhale.me](https://images-1252557999.file.myqcloud.com/uPic/rwk3mb.png) 
 
-一个专注于隐私保护和用户自由的[开源](https://github.com/imputnet/cobalt)在线工具，它允许用户从各种网站上保存视频、音频、图片或 GIF，同时提供匿名请求和加密隧道技术，确保用户的隐私安全。
+### [curated.design](https://www.curated.design/)
 
-![cobalt](https://images-1252557999.file.myqcloud.com/uPic/ZwEgp6.png) 
+网页设计灵感目录，比较全面的设计领域导航网站：
+
+![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
 
 ## ✍️ 说明
 
