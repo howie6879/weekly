@@ -5,89 +5,93 @@
 
 ## 🎯 项目 
 
-### [manifest](https://github.com/jonathontoon/manifest)
+### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 
-本周最喜欢的一个项目，这是一个基于网格的即时便签板，可随时在浏览器中记笔记，相当于浏览器便签，虽然项目不更新了，但是功能基本完成，值得一试：
+提供多款 SS 规则，拥有强劲的广告过滤功能：
 
-![manifest](https://images-1252557999.file.myqcloud.com/uPic/manifest.jpg) 
+![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
 
-### [akile_monitor](https://github.com/akile-network/akile_monitor)
+### [safeline](https://github.com/chaitin/safeline)
 
-一个开源的监控工具项目，提供服务器状态监控功能，并且支持前后端一键部署：
+一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
 
-![akile_monitor](https://images-1252557999.file.myqcloud.com/uPic/0D0D4c.png) 
+- 便捷性：采用容器化部署，一条命令即可完成安装，0 成本上手。安全配置开箱即用，无需人工维护，可实现安全躺平式管理。
+- 安全性：首创业内领先的智能语义分析算法，精准检测、低误报、难绕过。语义分析算法无规则，面对未知特征的 0day 攻击不再手足无措。
+- 高性能：无规则引擎，线性安全检测算法，平均请求检测延迟在 1 毫秒级别。并发能力强，单核轻松检测 2000+ TPS，只要硬件足够强，可支撑的流量规模无上限。
+- 高可用：流量处理引擎基于 Nginx 开发，性能与稳定性均可得到保障。内置完善的健康检查机制，服务可用性高达 99.99%。
 
-### [browser-use/web-ui](https://github.com/browser-use/web-ui)
+![safeline](https://images-1252557999.file.myqcloud.com/uPic/safeline.png) 
 
-让 AI 助手控制你的浏览器，浏览器中运行 AI 代理，提供用户友好的 Web 界面，支持多种大型语言模型，并允许使用自定义浏览器进行交互：
+### [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)
 
-![web-ui](https://images-1252557999.file.myqcloud.com/uPic/DVMAQC.png) 
+一个 `ChatGPT` 代码解释器的开源（`LangChain`）实现：
+
+- 数据集分析、股票图表绘制、图像处理....
+- 互联网访问和自动安装Python软件包
+- 除了OpenAI API 外，所有事情在本地运行
+- 对话记忆：根据先前的输入进行回应 
 
 ## 🤖 软件 
 
-### [Kazumi](https://github.com/Predidit/Kazumi)
+### [Sloth](https://github.com/sveinbjornt/Sloth)
 
-基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，非常强大：
+`Sloth` 是一款原生的 `Mac` 应用程序，它显示系统上所有正在运行软件所有打开的文件、目录、套接字、管道和设备，用户可以很简单地掌控自己的电脑文件使用权限：
 
-![Kazumi](https://images-1252557999.file.myqcloud.com/uPic/Kazumi.jpg) 
+![Sloth](https://images-1252557999.file.myqcloud.com/uPic/Sloth.jpeg) 
 
-### [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
+### [tvapk](https://github.com/Archmage83/tvapk)
 
-就像 Mac 上的 TextEdit 一样，但专注于于 Markdown。
+收集各大 `AndroidTV` 的 `apk` 应用，可免费看各种vip和国外电影电视：
 
-`MarkEdit` 的特点：
-- 注重隐私：不收集任何用户数据
-- 原生：干净直观
-- 快速：轻松编辑10 MB文件
-- 轻量级：安装程序大小约为3 MB
+![tvapk](https://images-1252557999.file.myqcloud.com/uPic/tvapk.png) 
 
-![MarkEdit](https://images-1252557999.file.myqcloud.com/uPic/MarkEdit.png) 
+### [GestureSign](https://github.com/TransposonY/GestureSign)
 
-### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
+开源免费的 `Windows` 全局手势控制辅助增强软件神器:
 
-`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
+- 支持 `Windows 11、Win10 / 8` 等系统
+- 支持鼠标手势、触控板等手势操作
+- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
 
-![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
+![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
 
 ## 👀 资料 
 
-### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
+### [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)
 
-`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
+从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 `PDF`:
 
-![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
+![what_are_embeddings](https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg) 
 
-### [bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain)
+### [grammar-club](https://github.com/llwslc/grammar-club)
 
-它为希望构建自己的基于检索增强生成（RAG）应用程序的开发者提供了一系列的资源和指导。该项目涵盖了从基础到高级的 RAG 实现，包括多查询、自定义 RAG 管道、高级检索和重排技术。仓库中包含了一系列的教程笔记本，这些笔记本详细介绍了 RAG 架构的设置、数据预处理、嵌入生成、向量存储、多查询技术、逻辑和语义路由、查询结构化、高级索引和检索技术等。
+旋元佑老师的语法俱乐部书籍电子版，在线阅读[地址](https://llwslc.github.io/grammar-club/content/Preface.html)：
 
-![bRAG-langchain](https://images-1252557999.file.myqcloud.com/uPic/u0SkKz.png) 
+![grammar-club](https://images-1252557999.file.myqcloud.com/uPic/grammar-club.jpg) 
 
-### [统计学自学指南](https://xuankaiwang.github.io/)
+### [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
-这是一本统计的自学指南, 也是作者在数院自学生涯的一个纪念：
-
-![XuankaiWang](https://images-1252557999.file.myqcloud.com/uPic/XuankaiWang.jpg) 
+这个仓库收集了各种日常工作中使用的材料和工具，包括 CLI 工具、GUI 工具、Web 工具、系统服务、网络、容器编排、手册教程、博客资源、黑客测试等内容。适合系统管理员、网络管理员、DevOps、渗透测试者和安全研究人员使用。 
 
 ## 🕸 网站 
 
-### [lookscanned.io](https://lookscanned.io/)
+### [khroma](https://www.khroma.co/)
 
-[lookscanned.io](https://github.com/rwv/lookscanned.io) 是一个开源网页项目，依托 WebAssembly 等先进技术，无需打印之后再扫描这类繁琐的过程。仅需点击下按钮，分秒之间，你就能得到所需要的扫描件了：
+人工智能配色网站：
 
-![lookscanned](https://images-1252557999.file.myqcloud.com/uPic/lookscanned.jpg) 
+![khroma](https://images-1252557999.file.myqcloud.com/uPic/khroma.jpg) 
 
-### [zhale.me](https://zhale.me/)
+### [apivault.dev](https://apivault.dev/)
 
-这是一款为运维人员和站长设计的在线网络测试工具，拥有超过1000个全球节点。它可以模拟用户访问特定的域名或IP地址，免费提供网站速度测试、网络速度检测、多地区在线ping测试、DNS查询、路由跟踪以及IPv6网站测试等多种站长工具：
+免费开源的公共 `API` 网站：
 
-![zhale.me](https://images-1252557999.file.myqcloud.com/uPic/rwk3mb.png) 
+![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
 
-### [curated.design](https://www.curated.design/)
+### [LLM Visualization](https://bbycroft.net/llm)
 
-网页设计灵感目录，比较全面的设计领域导航网站：
+将 GPT LLM 大模型进行可视化分析：
 
-![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
+![bbycroft](https://images-1252557999.file.myqcloud.com/uPic/bbycroft.jpg) 
 
 ## ✍️ 说明
 
