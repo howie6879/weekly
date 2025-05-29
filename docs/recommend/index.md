@@ -5,83 +5,102 @@
 
 ## 🎯 项目 
 
-### [nn-editor](https://github.com/scarsty/nn-editor)
+### [zealot](https://github.com/tryzealot/zealot)
 
-Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经网络结构的简单编辑，或者某些特殊流程图的编辑。
+开源自部署持续集成一切跟应用有关事情，接入任意 CI 系统一切自动化处理，企业多年实战经验，独立部署提供企业打包分发流程、上传应用全套流程方案 En Taro Adun! 🖖
 
-![nn-editor](https://images-1252557999.file.myqcloud.com/uPic/By0C3O.jpg) 
+- 🌏 多平台应用托管: macOS、iOS、Android（apk/aab）、Windows、Linux 泛平台
+- 📱 测试设备一网打进: 自动同步 iOS 测试设备信息，允许一键注册新设备到苹果开发者
+- 🧑‍💻 丰富开发者套件: 提供 REST API、iOS、Android SDK 以及 fastlane 自动化构建插件
+- 💥 剖析应用内部的秘密: 解读 iOS、Android 应用或 iOS 描述文件的元信息
+- 🚨 内置多种事件通知: 数据可自定义 Income WebHook 到任意通知服务
+- 🗄 多渠道分类管理: 自由划分不同场景不同产品形态的应用渠道管理
+- 🎳 多架构部署: amd86/arm64/armv7 及各种部署方案应有尽有
+- 🔑 第三方登录: 飞书、Gitlab、Google、LDAP 和 OIDC 一键授权
+- 🌑 黑暗模式: 黑夜白昼自由切换
 
-### [OxiCloud](https://github.com/DioCrafts/OxiCloud)
+![zealot](https://images-1252557999.file.myqcloud.com/uPic/zealot.png) 
 
-`OxiCloud` 是一个轻量级的云存储服务器，它使用 `Rust` 语言编写，旨在提供一个比传统 `PHP` 云服务（如 `NextCloud`）更快速、更轻量的文件存储方案。`OxiCloud` 具有响应式的用户界面，适用于桌面和移动设备，以及使用 `Link Time Optimization（LTO）`提高的二进制文件性能。
+### [dioxus](https://github.com/DioxusLabs/dioxus)
 
-![OxiCloud](https://images-1252557999.file.myqcloud.com/uPic/dfL4Re.png) 
+一个 `Rust` 全栈应用框架，支持 Web、桌面、移动和更多平台的开发：
 
-### [SearXNG](https://github.com/searxng/searxng)
+![dioxus](https://images-1252557999.file.myqcloud.com/uPic/GOLB2g.png) 
 
-`SearXNG` 是一个免费的互联网元搜索引擎，它通过整合不同的搜索服务和数据库来提供搜索结果，同时保障用户隐私不被追踪和分析。
+### [docker-windows](https://github.com/dockur/windows)
 
-![SearXNG](https://images-1252557999.file.myqcloud.com/uPic/SearXNG.jpg) 
+`Docker` 启动 `Windows`，特性如下：
+
+- ISO downloader
+- KVM acceleration
+- Web-based viewer 
 
 ## 🤖 软件 
 
-### [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
+### [alacritty](https://github.com/alacritty/alacritty)
 
-简单的 macOS 菜单栏应用程序，可以方便地和 `Reminders` 进行交互，使用 `SwiftUI` 开发，并使用 `Apple` 提醒事项作为数据源：
+一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
 
-![reminders-menubar](https://images-1252557999.file.myqcloud.com/uPic/reminders-menubar.jpg) 
+我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
 
-### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
+![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
 
-根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
+### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
 
-![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
+`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
 
-### [XcodesApp](https://github.com/XcodesOrg/XcodesApp)
+![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
 
-通过鼠标点击这种简单方式，快速安装和切换多个版本的 `Xcode`：
+### [MotionEaseTune](https://github.com/BHznJNs/MotionEaseTune)
 
-![XcodesApp](https://images-1252557999.file.myqcloud.com/uPic/XcodesApp.jpg) 
+一个安卓应用，通过 100Hz 声音来预防晕车症状，研究论文原文看[这里](https://www.jstage.jst.go.jp/article/ehpm/30/0/30_24-00247/_html)，使用条件：
+
+```txt
+纯音（正弦波）的频率应为 100 Hz
+声音大小：80-85 dBZ OR 60.9-65.9 dBA
+应对双耳进行声音暴露，要确保双耳接收到同等的刺激
+纯音暴露的持续时间为 1 分钟
+``` 
 
 ## 👀 资料 
 
-### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
+### [archbase](https://github.com/foxsen/archbase)
 
-`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
 
-![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
+![archbase](https://images-1252557999.file.myqcloud.com/uPic/dUVvGI.png) 
 
-### [devtoolstips](https://devtoolstips.org/)
+### [svg-tutorial](https://svg-tutorial.com/)
 
-一系列简单易懂的跨浏览器技巧和窍门，让你在使用开发者工具时更加得心应手和高效：
+学习如何使用 `SVG` 在 `HTML` 中编写图像代码：
 
-![devtoolstips](https://images-1252557999.file.myqcloud.com/uPic/vHP9UU.png) 
+![svg-tutorial](https://images-1252557999.file.myqcloud.com/uPic/svg-tutorial.jpg) 
 
-### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
+### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
 
-`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
+开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
 
-![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
+![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
 
 ## 🕸 网站 
 
-### [pingli.app](https://www.pingli.app/)
+### [iphub.info](https://iphub.info/)
 
-说出你们的分歧，让7位 `AI` 裁判评评理，挺有意思：
+检测 `IP` 质量和安全性：
 
-![pingli.app](https://images-1252557999.file.myqcloud.com/uPic/1gX0NC.png) 
+![iphub](https://images-1252557999.file.myqcloud.com/uPic/iphub.jpg) 
 
-### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
+### [quickref](https://quickref.me/)
 
-@妙才投稿，在线学习git命令的网站：
+开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
+![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
 
-### [pdf.wps.cn](https://pdf.wps.cn/)
+### [AI 头像生成器](https://ai-headshot-generator.net/cn)
 
-金山出品的 PDF 免费工具集：
+在线创建最佳 AI 头像：
 
-![pdf_wps](https://images-1252557999.file.myqcloud.com/uPic/pdf_wps.jpg) 
+![ai-headshot-generator.net](https://images-1252557999.file.myqcloud.com/uPic/DVnp5s.png) 
 
 ## ✍️ 说明
 
