@@ -5,102 +5,100 @@
 
 ## 🎯 项目 
 
-### [zealot](https://github.com/tryzealot/zealot)
+### [NocoDB](https://github.com/nocodb/nocodb)
 
-开源自部署持续集成一切跟应用有关事情，接入任意 CI 系统一切自动化处理，企业多年实战经验，独立部署提供企业打包分发流程、上传应用全套流程方案 En Taro Adun! 🖖
+将 `MySQL、PostgreSQL、SQL Server、SQLite 、MariaDB` 转换为智能电子表格：
 
-- 🌏 多平台应用托管: macOS、iOS、Android（apk/aab）、Windows、Linux 泛平台
-- 📱 测试设备一网打进: 自动同步 iOS 测试设备信息，允许一键注册新设备到苹果开发者
-- 🧑‍💻 丰富开发者套件: 提供 REST API、iOS、Android SDK 以及 fastlane 自动化构建插件
-- 💥 剖析应用内部的秘密: 解读 iOS、Android 应用或 iOS 描述文件的元信息
-- 🚨 内置多种事件通知: 数据可自定义 Income WebHook 到任意通知服务
-- 🗄 多渠道分类管理: 自由划分不同场景不同产品形态的应用渠道管理
-- 🎳 多架构部署: amd86/arm64/armv7 及各种部署方案应有尽有
-- 🔑 第三方登录: 飞书、Gitlab、Google、LDAP 和 OIDC 一键授权
-- 🌑 黑暗模式: 黑夜白昼自由切换
+![NocoDB](https://images-1252557999.file.myqcloud.com/uPic/NocoDB.png) 
 
-![zealot](https://images-1252557999.file.myqcloud.com/uPic/zealot.png) 
+### [groqbook](https://github.com/Bklieger/groqbook)
 
-### [dioxus](https://github.com/DioxusLabs/dioxus)
+用 `Groq` 和 `Llama3` 快速生成一本书，它能够根据简短的提示快速生成非小说类书籍的每一章节：
 
-一个 `Rust` 全栈应用框架，支持 Web、桌面、移动和更多平台的开发：
+![groqbook](https://images-1252557999.file.myqcloud.com/uPic/groqbook.jpg) 
 
-![dioxus](https://images-1252557999.file.myqcloud.com/uPic/GOLB2g.png) 
+### [CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077)
 
-### [docker-windows](https://github.com/dockur/windows)
+`CyberScraper-2077` 是一个由 OpenAI 和 Ollama 支持的强大的 AI 驱动网页爬虫工具，提供了多种特性和功能，如用户友好的 Streamlit 界面、多格式数据导出、隐身模式、异步操作、智能解析等，旨在高效、隐蔽地从网络中提取数据：
 
-`Docker` 启动 `Windows`，特性如下：
-
-- ISO downloader
-- KVM acceleration
-- Web-based viewer 
+![CyberScraper](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-09-01_11-56-36.jpg) 
 
 ## 🤖 软件 
 
-### [alacritty](https://github.com/alacritty/alacritty)
+### [FlowDown](https://github.com/Lakr233/FlowDown-App)
 
-一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
+浮望（FlowDown）是一个速度极快、平滑的 AI/LLM 客户端应用程序。
 
-我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
+![FlowDown](https://images-1252557999.file.myqcloud.com/uPic/boR71j.png) 
 
-![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
+### [miru-app](https://github.com/miru-project/miru-app)
 
-### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
+免费、开源的 支持视频、漫画、小说扩展源的多功能应用，支持 `Android、Windows、Web`：
 
-`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
+- 支持 windows,android
+- 友好的扩展编写支持、调试日志
+- 扩展使用 JavaScript 语言，开发简单
+- 支持自定义扩展仓库
+- 官方扩展仓库提供视频源，无需编写任何扩展即可使用
+- 支持在线观看多种视频、漫画、小说源，实现多平台的统一
+- 统一系统 UI 的设计语言
+- 自动获取 TMDB 元数据信息
 
-![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
+![657c8025be23f](https://img.fre123.com/i/2023/12/16/657c8025be23f.jpg) 
 
-### [MotionEaseTune](https://github.com/BHznJNs/MotionEaseTune)
+### [KOReader](https://github.com/koreader/koreader)
 
-一个安卓应用，通过 100Hz 声音来预防晕车症状，研究论文原文看[这里](https://www.jstage.jst.go.jp/article/ehpm/30/0/30_24-00247/_html)，使用条件：
+KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
 
-```txt
-纯音（正弦波）的频率应为 100 Hz
-声音大小：80-85 dBZ OR 60.9-65.9 dBA
-应对双耳进行声音暴露，要确保双耳接收到同等的刺激
-纯音暴露的持续时间为 1 分钟
-``` 
+![koreader](https://images-1252557999.file.myqcloud.com/uPic/koreader.jpg) 
 
 ## 👀 资料 
 
-### [archbase](https://github.com/foxsen/archbase)
+### [harleyszhang/llm_note](https://github.com/harleyszhang/llm_note)
 
-这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+一个关于大型语言模型（LLM）的笔记仓库，涵盖了模型推理、Transformer 模型结构、LLM 框架代码分析以及高性能计算等内容:
 
-![archbase](https://images-1252557999.file.myqcloud.com/uPic/dUVvGI.png) 
+- Transformer 模型系列：详细解读了 Transformer 模型的论文，实现代码，以及不同版本的 GPT 和 LLaMA 模型结构。
+- LLM 性能分析：分析了模型的参数量、计算量、显存占用以及推理延迟。
+- LLM 压缩技术：介绍了 SmoothQuant 和 AWQ 等模型压缩算法。
+- LLM 推理与部署：讨论了推理服务框架的技术总结和源码解析，包括 DeepSpeed 框架的学习笔记，以及推理优化、系统优化方法和可视化工具。
+- 高性能计算：提供了关于 Triton 和 CUDA 的编程笔记，以及高性能计算编程的学习资料推荐。 
 
-### [svg-tutorial](https://svg-tutorial.com/)
+### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
 
-学习如何使用 `SVG` 在 `HTML` 中编写图像代码：
+![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
 
-![svg-tutorial](https://images-1252557999.file.myqcloud.com/uPic/svg-tutorial.jpg) 
+### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 
-### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
 
-开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
+基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
+配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
+测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
 
-![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
+![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [iphub.info](https://iphub.info/)
+### [it-tools](https://it-tools.tech/)
 
-检测 `IP` 质量和安全性：
+面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
 
-![iphub](https://images-1252557999.file.myqcloud.com/uPic/iphub.jpg) 
+![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
 
-### [quickref](https://quickref.me/)
+也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
 
-开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
+### [ailogo](https://ailogo.qq.com/)
 
-![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
+`AI` 智能生成可商用的 `LOGO`：
 
-### [AI 头像生成器](https://ai-headshot-generator.net/cn)
+![ailogo](https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg) 
 
-在线创建最佳 AI 头像：
+### [meow.tg](https://meow.tg/)
 
-![ai-headshot-generator.net](https://images-1252557999.file.myqcloud.com/uPic/DVnp5s.png) 
+TG喵-可能是最懂你的Telegram资源搜索引擎:
+
+![meow](https://images-1252557999.file.myqcloud.com/uPic/meow.jpg) 
 
 ## ✍️ 说明
 
