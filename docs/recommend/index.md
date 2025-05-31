@@ -5,100 +5,96 @@
 
 ## 🎯 项目 
 
-### [NocoDB](https://github.com/nocodb/nocodb)
+### [WeClone](https://github.com/xming521/WeClone)
 
-将 `MySQL、PostgreSQL、SQL Server、SQLite 、MariaDB` 转换为智能电子表格：
+从聊天记录创造数字分身的一站式解决方案：
 
-![NocoDB](https://images-1252557999.file.myqcloud.com/uPic/NocoDB.png) 
+- 💫 涵盖打造数字分身的全链路方案，包括聊天数据导出、预处理、模型训练、部署
+- 💬 使用微信聊天记录微调LLM，让大模型有“那味儿”
+- 🎙️ 使用微信语音消息➕0.5B大模型实现高质量声音克隆 👉WeClone-audio
+- 🔗 绑定到微信、QQ、Telegram、企微、飞书机器人，实现自己的数字分身 
 
-### [groqbook](https://github.com/Bklieger/groqbook)
+### [BroadcastChannel](https://github.com/ccbikai/BroadcastChannel)
 
-用 `Groq` 和 `Llama3` 快速生成一本书，它能够根据简短的提示快速生成非小说类书籍的每一章节：
+将你的 `Telegram Channel` 转为微博客：
 
-![groqbook](https://images-1252557999.file.myqcloud.com/uPic/groqbook.jpg) 
+![BroadcastChannel](https://images-1252557999.file.myqcloud.com/uPic/Aj9mwD.png) 
 
-### [CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077)
+### [wallabag](https://github.com/wallabag/wallabag)
 
-`CyberScraper-2077` 是一个由 OpenAI 和 Ollama 支持的强大的 AI 驱动网页爬虫工具，提供了多种特性和功能，如用户友好的 Streamlit 界面、多格式数据导出、隐身模式、异步操作、智能解析等，旨在高效、隐蔽地从网络中提取数据：
+一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
 
-![CyberScraper](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-09-01_11-56-36.jpg) 
+- 浏览器插件收集网页信息
+- 安卓/IOS/网页端阅读以及管理
+
+![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
 
 ## 🤖 软件 
 
-### [FlowDown](https://github.com/Lakr233/FlowDown-App)
+### [EyesGuard](https://github.com/avestura/EyesGuard)
 
-浮望（FlowDown）是一个速度极快、平滑的 AI/LLM 客户端应用程序。
+`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
 
-![FlowDown](https://images-1252557999.file.myqcloud.com/uPic/boR71j.png) 
+![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
 
-### [miru-app](https://github.com/miru-project/miru-app)
+### [scrcpy](https://github.com/Genymobile/scrcpy)
 
-免费、开源的 支持视频、漫画、小说扩展源的多功能应用，支持 `Android、Windows、Web`：
+在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
 
-- 支持 windows,android
-- 友好的扩展编写支持、调试日志
-- 扩展使用 JavaScript 语言，开发简单
-- 支持自定义扩展仓库
-- 官方扩展仓库提供视频源，无需编写任何扩展即可使用
-- 支持在线观看多种视频、漫画、小说源，实现多平台的统一
-- 统一系统 UI 的设计语言
-- 自动获取 TMDB 元数据信息
+它专注于：
 
-![657c8025be23f](https://img.fre123.com/i/2023/12/16/657c8025be23f.jpg) 
+- 轻量 (原生，仅显示设备屏幕)
+- 性能 (30~60fps)
+- 质量 (分辨率可达 1920×1080 或更高)
+- 低延迟 (35~70ms)
+- 快速启动 (最快 1 秒内即可显示第一帧)
+- 无侵入性 (不会在设备上遗留任何程序) 
 
-### [KOReader](https://github.com/koreader/koreader)
+### [Free-NTFS-for-Mac](https://github.com/hoochanlon/Free-NTFS-for-Mac)
 
-KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
+这是一款支持苹果芯片的 `Free NTFS for Mac` 小工具软件，主要是为了方便想要免费使用 `NTFS` 格式移动存储的文件拷贝与共享的苹果电脑用户：
 
-![koreader](https://images-1252557999.file.myqcloud.com/uPic/koreader.jpg) 
+![Free-NTFS-for-Mac](https://images-1252557999.file.myqcloud.com/uPic/Free-NTFS-for-Mac.png) 
 
 ## 👀 资料 
 
-### [harleyszhang/llm_note](https://github.com/harleyszhang/llm_note)
+### 认知偏差知识手册
 
-一个关于大型语言模型（LLM）的笔记仓库，涵盖了模型推理、Transformer 模型结构、LLM 框架代码分析以及高性能计算等内容:
+字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
 
-- Transformer 模型系列：详细解读了 Transformer 模型的论文，实现代码，以及不同版本的 GPT 和 LLaMA 模型结构。
-- LLM 性能分析：分析了模型的参数量、计算量、显存占用以及推理延迟。
-- LLM 压缩技术：介绍了 SmoothQuant 和 AWQ 等模型压缩算法。
-- LLM 推理与部署：讨论了推理服务框架的技术总结和源码解析，包括 DeepSpeed 框架的学习笔记，以及推理优化、系统优化方法和可视化工具。
-- 高性能计算：提供了关于 Triton 和 CUDA 的编程笔记，以及高性能计算编程的学习资料推荐。 
+![cb](https://images-1252557999.file.myqcloud.com/uPic/cb.jpg) 
 
-### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
 
-### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
-本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
+### [archbase](https://github.com/foxsen/archbase)
 
-基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
-配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
-测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
 
-![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
+![archbase](https://images-1252557999.file.myqcloud.com/uPic/dUVvGI.png) 
 
 ## 🕸 网站 
 
-### [it-tools](https://it-tools.tech/)
+### [cook](https://github.com/YunYouJun/cook)
 
-面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
+![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
 
-也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
+### [jpghi](https://jpghi.com/)
 
-### [ailogo](https://ailogo.qq.com/)
+jpgHi 支持各种类型图片高清无损放大，为模糊不清的图片增加极致细节，提升图片质感：
 
-`AI` 智能生成可商用的 `LOGO`：
+![jpghi](https://images-1252557999.file.myqcloud.com/uPic/jpghi.jpg) 
 
-![ailogo](https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg) 
+### [用药助手](https://drugs.dxy.cn/pc)
 
-### [meow.tg](https://meow.tg/)
+丁香园旗下品牌，诊疗顾问｜搜疾病，看诊疗方案，基于循证医学的临床诊疗决策工具，为临床医生提供专业、靠谱的疾病诊疗思路和用药方案：
 
-TG喵-可能是最懂你的Telegram资源搜索引擎:
-
-![meow](https://images-1252557999.file.myqcloud.com/uPic/meow.jpg) 
+![yyzs](https://images-1252557999.file.myqcloud.com/uPic/yyzs.jpg) 
 
 ## ✍️ 说明
 
