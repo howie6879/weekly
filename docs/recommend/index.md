@@ -5,104 +5,106 @@
 
 ## 🎯 项目 
 
-### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
+### [terminalizer](https://github.com/faressoft/terminalizer)
 
-`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
+录制终端操作并生成 `gif` 动图：
 
-![LuckysheetDemo](https://images-1252557999.file.myqcloud.com/uPic/LuckysheetDemo.gif) 
+![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
 
-### [ProxyCat](https://github.com/honmashironeko/ProxyCat)
+### [Cloudreve](https://github.com/cloudreve/Cloudreve)
 
-一款部署于云端或本地的隧道代理池中间件，可将静态代理IP灵活运用成隧道IP，提供固定请求地址，一次部署终身使用:
+支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
 
-![ProxyCat](https://images-1252557999.file.myqcloud.com/uPic/yquF9b.png) 
+- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
+- 📤  上传/下载 支持客户端直传，支持下载限速
+- 💾  可对接 Aria2 离线下载
+- 📚  在线 压缩/解压缩、多文件打包下载
+- 💻  覆盖全部存储策略的 WebDAV 协议支持
+- ⚡  拖拽上传、目录上传、流式上传处理
+- 🗃️  文件拖拽管理
+- 👩‍👧‍👦  多用户、用户组
+- 🔗  创建文件、目录的分享链接，可设定自动过期
+- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
+- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
+- 🚀  All-In-One 打包，开箱即用
+- 🌈  ... ...
 
-### [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
+![Cloudreve](https://images-1252557999.file.myqcloud.com/uPic/opzEP2.jpg) 
 
-我日常开发环境以`Mac`为主，这个项目从开发者角度出发，收集了各方各面的软件，上来看看，可能一些收费的软件在这里能找到开源的解决方案。
+### [dootask](https://github.com/kuaifan/dootask)
 
-我个人也维护了一份 [MacOS 软件清单](https://weekly.howie6879.com/soft/mac.html)，是我四五年使用 Mac 积累的一些常用软件，开源在 github，有兴趣可以关注看看。 
+DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
+
+![dootask](https://images-1252557999.file.myqcloud.com/uPic/tYiTA7.png) 
 
 ## 🤖 软件 
 
-### [KrillinAI](https://github.com/krillinai/KrillinAI)
+### [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup)
 
-基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容：
+PC微信聊天记录数据导出工具
 
-- 🎯 一键启动：无需复杂的环境配置，自动安装依赖，立即投入使用，新增桌面版本，使用更便捷！
-- 📥 视频获取：支持yt-dlp下载或本地文件上传
-- 📜 精准识别：基于Whisper的高准确度语音识别
-- 🧠 智能分段：使用LLM进行字幕分段和对齐
-- 🔄 术语替换：一键替换专业领域词汇
-- 🌍 专业翻译：基于LLM，段落级翻译保持语义连贯性
-- 🎙️ 配音克隆：提供CosyVoice精选音色或自定义音色克隆
-- 🎬 视频合成：自动处理横竖版视频和字幕排版
+基于- wails开发 + React前端，实现PC端微信聊天记录一键导出功能。
+- 导出后数据可以做永久化保存，即使微信停止支持，聊天记录也可以随时查看。
+- 前端界面尽量与微信界面保持一致，减少使用成本。
+- 理论上支持所有Windows 32/64位微信版本。
 
-![KrillinAI](https://images-1252557999.file.myqcloud.com/uPic/EGujdx.png) 
+![wechatDataBackup](https://images-1252557999.file.myqcloud.com/uPic/LJBaJf.png) 
 
-### [sourcegit](https://github.com/sourcegit-scm/sourcegit)
+### [Olauncher](https://github.com/tanujnotes/Olauncher)
 
-一个跨平台的 `GUI` 客户端：
+适用于 `Android` 的最小 `AF` 启动器。减少您在屏幕上浪费的时间，提供日常壁纸，非常优雅简洁，效果上来看适合英文用户：
 
-![sourcegit](https://images-1252557999.file.myqcloud.com/uPic/yC8OCO.png) 
+![Olauncher](https://images-1252557999.file.myqcloud.com/uPic/Olauncher.jpg) 
 
-### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
+### [kobi](https://github.com/niuhuan/kobi)
 
-基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
+一个简洁大方的跨平台漫画客户端：
 
-- 干净简洁的UI
-- 内置效果可实现准确的男声和女声
-- 创建&加载自定义预设的能力
-- 创建自己的临时虚拟输入设备
-
-![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
+![0ZQlSW](https://images-1252557999.file.myqcloud.com/uPic/0ZQlSW.png) 
 
 ## 👀 资料 
 
-### [JavaScript30](https://github.com/wesbos/JavaScript30)
+### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
 
-30 天 JS 挑战，助力学习提升 JS 技巧：
+一本小书《带你入门前端工程》
 
-![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/e783TS.png) 
 
-### [go101](https://gfw.go101.org/article/101.html)
+### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
 
-《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
+本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
 
-![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
+![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
 
-### [v8-internals](https://github.com/plctlab/v8-internals)
+### [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note)
 
-面向编译器开发人员的V8内部实现文档。 
+从0开始学习英语语法的开源项目：
+
+![english-note](https://images-1252557999.file.myqcloud.com/uPic/english-note.jpg) 
 
 ## 🕸 网站 
 
-### [阳光志愿](https://gaokao.chsi.com.cn/zyck/)
+### [fontawesome](https://fontawesome.com/icons/)
 
-家里有参加高考的，可以参考：
+比较完善全面的图标网站：
 
-- 院校查询
-- 专业查询
-- 支援参考
-- 心理测评
-- 职业前景
-- 报考指南
+![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
 
-![zyck](https://images-1252557999.file.myqcloud.com/uPic/zyck.jpg) 
+### [webutils](https://www.webutils.app/)
 
-### [datawhale.cn](https://www.datawhale.cn/home)
+一个提供web小工具的网站，比如：
 
-`Datawhale` 通过开源学习模式，助力 `AI` 学习者与知识连接，与人连接，与场景连接，推动 `AI` 人才培养:
+- 文本比较
+- 图片压缩
+- 图片转换
 
-![datawhale](https://images-1252557999.file.myqcloud.com/uPic/plDyMy.png) 
+![webutils](https://images-1252557999.file.myqcloud.com/uPic/ijDiPA.png) 
 
-### [unDraw](https://undraw.co/illustrations)
+### [uiset](https://uiset.com/)
 
-你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
+共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
 
-如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
-
-![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
+![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
 
 ## ✍️ 说明
 
