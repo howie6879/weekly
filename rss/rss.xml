@@ -12,7 +12,74 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 25 May 2025 14:15:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 09:38:05 +0000</lastBuildDate>
+    <item>
+      <title>05-26~05-31.老胡的周刊（第189期）.md</title>
+      <link>https://weekly.howie6879.com/2025/05-26~05-31.老胡的周刊（第189期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/05-26~05-31.老胡的周刊（第189期）.html"&gt;05-26~05-31.老胡的周刊（第189期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/blinkospace/blinko"&gt;blinko&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Blinko&lt;/code&gt; 是一个创新的开源项目，专为那些想要快速捕捉和组织灵感的人设计。它允许用户在灵感闪现的瞬间无缝记录想法，确保不错过任何创意火花：&lt;/li&gt;
+&lt;li&gt;🤖AI 增强笔记检索：通过 Blinko 的先进 AI 驱动的 RAG（检索增强生成）技术，你可以使用自然语言查询快速搜索和访问笔记，轻松找到所需内容。支持 OpenAI、Azure OpenAI 和 Ollama。&lt;/li&gt;
+&lt;li&gt;🔒数据所有权：你的隐私至关重要。所有笔记和数据都安全存储在你的自托管环境中，确保对信息的完全控制。&lt;/li&gt;
+&lt;li&gt;🚀高效快速：即时捕捉想法并以纯文本形式存储以便于访问，完全支持 Markdown 格式，便于快速排版和分享。&lt;/li&gt;
+&lt;li&gt;💡轻量架构，多端支持：基于 Tauri 构建的 Blinko 采用简洁轻量的架构，在保持卓越速度和效率的同时，并且支持Macos,Windows,Android,Linux等多平台。&lt;/li&gt;
+&lt;li&gt;🔓开放协作：作为开源项目，Blinko 欢迎社区贡献。所有代码都在 GitHub 上公开透明，培养协作和持续改进的精神。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="blinko" src="https://images-1252557999.file.myqcloud.com/uPic/R3axJB.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/rybbit-io/rybbit"&gt;rybbit&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Rybbit&lt;/code&gt; 是一个开源、隐私友好的网站分析工具，旨在提供比 &lt;code&gt;Google Analytics&lt;/code&gt; 更直观的用户体验：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="rybbit" src="https://images-1252557999.file.myqcloud.com/uPic/fZwu4p.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/snailyp/gemini-balance"&gt;gemini-balance&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;基于 &lt;code&gt;Python FastAPI&lt;/code&gt; 开发的 &lt;code&gt;Gemini API&lt;/code&gt; 代理和负载均衡应用，提供多 &lt;code&gt;Gemini API&lt;/code&gt; 密钥管理、负载均衡、认证、模型过滤、状态监控等功能，同时支持 &lt;code&gt;OpenAI API&lt;/code&gt; 格式的代理功能，以及图片生成和上传功能：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="gemini-balance" src="https://images-1252557999.file.myqcloud.com/uPic/H0u8mv.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/honmashironeko/ProxyCat"&gt;ProxyCat&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一款部署于云端或本地的隧道代理池中间件，可将静态代理IP灵活运用成隧道IP，提供固定请求地址，一次部署终身使用:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ProxyCat" src="https://images-1252557999.file.myqcloud.com/uPic/yquF9b.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/groupultra/telegram-search"&gt;telegram-search&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个功能强大的 &lt;code&gt;Telegram&lt;/code&gt; 聊天记录搜索工具，支持向量搜索和语义匹配：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="telegram-search" src="https://images-1252557999.file.myqcloud.com/uPic/5Xt7zS.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/saxpjexck/lsix"&gt;lsix&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个基于 &lt;code&gt;Go&lt;/code&gt; 语言开发的工具，旨在一键自动激活 &lt;code&gt;JetBrains&lt;/code&gt; 系列的 &lt;code&gt;IDE&lt;/code&gt;，简化激活流程，支持注入激活补丁和生成激活密钥，同时提供一键移除激活配置的功能。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="lsix" src="https://images-1252557999.file.myqcloud.com/uPic/Cfd4os.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/stark81/VutronMusic"&gt;VutronMusic&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;高颜值的跨平台第三方网易云播放器；支持流媒体音乐，如navidrome、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome桌面状态栏歌词显示；支持降调降速等。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="VutronMusic" src="https://images-1252557999.file.myqcloud.com/uPic/mLYjZO.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/fangyuan99/cookie-share"&gt;cookie-share&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Cookie-share&lt;/code&gt; 是一个 Chrome/Edge/Firefox 扩展 (同时也有 &lt;code&gt;Tampermonkey&lt;/code&gt; 脚本，目前更新油猴为主)，允许用户在不同设备或浏览器之间发送和接收 cookies，可以用于多账号切换、视频会员共享、星球合租等场景。后端支持自建 Cloudflare Worker 或 Node.js 服务器，保障数据安全。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="cookie-share" src="https://images-1252557999.file.myqcloud.com/uPic/6TNByF.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/datawhalechina/happy-llm"&gt;happy-llm&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本项目是一个系统性的 LLM 学习教程，将从 NLP 的基本研究方法出发，根据 LLM 的思路及原理逐层深入，依次为读者剖析 LLM 的架构基础和训练过程。同时，我们会结合目前 LLM 领域最主流的代码框架，演练如何亲手搭建、训练一个 LLM，期以实现授之以鱼，更授之以渔。希望大家能从这本书开始走入 LLM 的浩瀚世界，探索 LLM 的无尽可能。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="happy-llm" src="https://images-1252557999.file.myqcloud.com/uPic/agd2V6.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://vert.sh/"&gt;vert.sh&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;VERT.sh&lt;/code&gt; 提供了一个全面的文件转换服务，涵盖图片、音频、文档和视频等多种格式的处理。对于图片，支持的格式包括 PNG、JPEG、JPG、WEBP、GIF 等常见格式，以及 HEIC、ICO、BMP 等更多专业格式。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;音频方面，支持 MP3、WAV、FLAC、OGG 等主流格式&lt;/li&gt;
+&lt;li&gt;文档支持 DOCX、XML、DOC 等多种格式&lt;/li&gt;
+&lt;li&gt;视频转换通常在服务器上进行，支持 MKV、MP4、WEBM 等格式。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;值得注意的是，所有的图片、音频和文档处理都是在本地完成的，确保了用户数据的安全性和隐私性。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="vert.sh" src="https://images-1252557999.file.myqcloud.com/uPic/Vclo9P.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">05-26~05-31.老胡的周刊（第189期）.md</guid>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>05-19~05-25.老胡的周刊（第188期）.md</title>
       <link>https://weekly.howie6879.com/2025/05-19~05-25.老胡的周刊（第188期）.html</link>
@@ -1344,57 +1411,6 @@
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">11-25~12-08.老胡的周刊（第170期）.md</guid>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>11-18~11-24.老胡的周刊（第169期）.md</title>
-      <link>https://weekly.howie6879.com/2024/11-18~11-24.老胡的周刊（第169期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/11-18~11-24.老胡的周刊（第169期）.html"&gt;11-18~11-24.老胡的周刊（第169期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Byaidu/PDFMathTranslate"&gt;PDFMathTranslate&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;基于 &lt;code&gt;AI&lt;/code&gt; 完整保留排版的 &lt;code&gt;PDF&lt;/code&gt; 文档全文双语翻译，支持 &lt;code&gt;Google/DeepL/Ollama/OpenAI&lt;/code&gt; 等服务，提供 &lt;code&gt;CLI/GUI/Docker&lt;/code&gt;：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;📊 保留公式、图表、目录和注释 (预览效果)&lt;/li&gt;
-&lt;li&gt;🌐 支持 多种语言 和 诸多翻译服务&lt;/li&gt;
-&lt;li&gt;🤖 提供 命令行工具，图形交互界面，以及 容器化部署&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="PDFMathTranslate" src="https://images-1252557999.file.myqcloud.com/uPic/m0zGEV.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/D4Vinci/Scrapling"&gt;Scrapling&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;D4Vinci/Scrapling&lt;/code&gt; 是一个为 &lt;code&gt;Python&lt;/code&gt; 提供高性能、不易被检测、适应性强的网页爬虫库，旨在应对反爬虫保护和网页结构变化的挑战。&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/filecxx/FileCentipede"&gt;FileCentipede&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;File centipede 是一款一体化互联网文件上传/下载管理器、BitTorrent 客户端、WebDAV 客户端、FTP 客户端和 SSH 客户端。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;快速、可定制且用户友好&lt;/li&gt;
-&lt;li&gt;它支持多协议，并包含许多有用的辅助工具，例如 HTTP 请求器、文件合并和编码器&lt;/li&gt;
-&lt;li&gt;通过浏览器集成，您可以从网站下载音频和视频，甚至加密的视频&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="FileCentipede" src="https://images-1252557999.file.myqcloud.com/uPic/u8qNcG.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/johnmai-dev/ChatMLX"&gt;ChatMLX&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;ChatMLX&lt;/code&gt; 是一个现代化、开源、高性能的 MacOS 聊天应用程序，它基于大型语言模型，支持多种语言和模型，并确保用户隐私和安全：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ChatMLX" src="https://images-1252557999.file.myqcloud.com/uPic/8WekXj.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/bRAGAI/bRAG-langchain"&gt;bRAG-langchain&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;它为希望构建自己的基于检索增强生成（RAG）应用程序的开发者提供了一系列的资源和指导。该项目涵盖了从基础到高级的 RAG 实现，包括多查询、自定义 RAG 管道、高级检索和重排技术。仓库中包含了一系列的教程笔记本，这些笔记本详细介绍了 RAG 架构的设置、数据预处理、嵌入生成、向量存储、多查询技术、逻辑和语义路由、查询结构化、高级索引和检索技术等。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="bRAG-langchain" src="https://images-1252557999.file.myqcloud.com/uPic/u0SkKz.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://llmresourceshub.vercel.app/"&gt;llmresourceshub&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一站式 LLM 资源合集：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="llmresourceshub" src="https://images-1252557999.file.myqcloud.com/uPic/eSgtB8.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">11-18~11-24.老胡的周刊（第169期）.md</guid>
-      <pubDate>Sun, 24 Nov 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
