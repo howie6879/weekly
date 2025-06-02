@@ -5,111 +5,104 @@
 
 ## 🎯 项目 
 
-### [heyform](https://github.com/heyform/heyform)
+### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
 
-`HeyForm` 是一个开源的表单构建器，允许任何人为调查、问卷、测验和投票创建有吸引力的对话表单并且不需要编程技巧：
+`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
 
-![heyform](https://images-1252557999.file.myqcloud.com/uPic/heyform.png) 
+![LuckysheetDemo](https://images-1252557999.file.myqcloud.com/uPic/LuckysheetDemo.gif) 
 
-### [enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China)
+### [ProxyCat](https://github.com/honmashironeko/ProxyCat)
 
-提升部署在 `cloudflare、vercel、netlify` 的网页在中国的访问速度和稳定性。 
+一款部署于云端或本地的隧道代理池中间件，可将静态代理IP灵活运用成隧道IP，提供固定请求地址，一次部署终身使用:
 
-### [Gallery-Portfolio](https://github.com/linyuxuanlin/Gallery-Portfolio)
+![ProxyCat](https://images-1252557999.file.myqcloud.com/uPic/yquF9b.png) 
 
-一个简单的摄影作品展示站，你只需要将图片存放在免费的 `Cloudflare R2` 上（或其他支持 AWS S3 的对象存储），即可在这里展现你的精选图片。在这里你可以通过 瀑布流 的形式浏览图片，也可以 点开大图 ，查看光圈 / 快门 / ISO 等 EXIF 信息。网站基于 Node.js，使用 Material Design 风格的 响应式设计，支持 日夜间模式 切换，在不同的设备上都有不错的视觉效果：
+### [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 
-![Gallery-Portfolio](https://images-1252557999.file.myqcloud.com/uPic/Gallery-Portfolio.png) 
+我日常开发环境以`Mac`为主，这个项目从开发者角度出发，收集了各方各面的软件，上来看看，可能一些收费的软件在这里能找到开源的解决方案。
+
+我个人也维护了一份 [MacOS 软件清单](https://weekly.howie6879.com/soft/mac.html)，是我四五年使用 Mac 积累的一些常用软件，开源在 github，有兴趣可以关注看看。 
 
 ## 🤖 软件 
 
-### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
+### [KrillinAI](https://github.com/krillinai/KrillinAI)
 
-`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
+基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容：
 
-![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
+- 🎯 一键启动：无需复杂的环境配置，自动安装依赖，立即投入使用，新增桌面版本，使用更便捷！
+- 📥 视频获取：支持yt-dlp下载或本地文件上传
+- 📜 精准识别：基于Whisper的高准确度语音识别
+- 🧠 智能分段：使用LLM进行字幕分段和对齐
+- 🔄 术语替换：一键替换专业领域词汇
+- 🌍 专业翻译：基于LLM，段落级翻译保持语义连贯性
+- 🎙️ 配音克隆：提供CosyVoice精选音色或自定义音色克隆
+- 🎬 视频合成：自动处理横竖版视频和字幕排版
 
-### [batnoter](https://github.com/batnoter/batnoter)
+![KrillinAI](https://images-1252557999.file.myqcloud.com/uPic/EGujdx.png) 
 
-一个基于 `Markdown` 的开源自托管笔记应用程序：
+### [sourcegit](https://github.com/sourcegit-scm/sourcegit)
 
-- 使用GitHub登录。
-- 使用简洁而漂亮的界面轻松创建、编辑、删除、组织和探索笔记。
-- 支持Markdown格式，允许用户在笔记中添加超链接、表格、标题、代码块、引用等等。
-- 编辑器允许预览Markdown。
-- 使用剪贴板按钮从代码部分快速复制代码。
-- 直接将笔记存储在根目录中，或者使用文件夹对其进行组织（支持嵌套）。
-- 单击即可从特定目录中浏览所有笔记。
-- 所有笔记都存储在用户的GitHub存储库中。
-- 为避免额外的API调用，笔记被缓存。
-- 可将URL添加为书签。
-- 支持深色/浅色模式
+一个跨平台的 `GUI` 客户端：
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.jpg) 
+![sourcegit](https://images-1252557999.file.myqcloud.com/uPic/yC8OCO.png) 
 
-### [Joplin](https://github.com/laurent22/joplin)
+### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
 
-我推崇的一个跨平台笔记软件，更新迭代快速，插件生态也还不错，各大平台都有支持，对于数据存储，你可以：
+基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
 
-- 自建服务端
-- 第三方如坚果云等
-- 也可以基于云商，如腾讯云的`COS`
+- 干净简洁的UI
+- 内置效果可实现准确的男声和女声
+- 创建&加载自定义预设的能力
+- 创建自己的临时虚拟输入设备
 
-> 这篇文章也是使用Joplin写的 
+![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
 
 ## 👀 资料 
 
-### [aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
+### [JavaScript30](https://github.com/wesbos/JavaScript30)
 
-这是一个ai副业赚钱资讯信息的大合集，将在全网搜索并整理ai副业赚钱的相关方法、技术、工具、以及一些可以赚钱的平台和渠道。 期望能在AI时代，打破信息茧房，让大家都能在这个时代利用AI智能化做副业，赚取工作之余的额外收益。
+30 天 JS 挑战，助力学习提升 JS 技巧：
 
-![aimoneyhunter](https://images-1252557999.file.myqcloud.com/uPic/aimoneyhunter.png) 
+![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
 
-### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
+### [go101](https://gfw.go101.org/article/101.html)
 
-`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
+《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
 
-![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
+![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
 
-### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
+### [v8-internals](https://github.com/plctlab/v8-internals)
 
-清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
-
-更新记录如下：
-
-- 2020-11-03：环境搭建完成，开始着手编写文档。
-- 2020-11-13：第一章完成。
-- 2020-11-27：第二章完成。
-- 2020-12-20：前七章代码完成。
-- 2021-01-10：第三章完成。
-- 2021-01-18：加入第零章。
-- 2021-01-30：第四章完成。
-- 2021-02-16：第五章完成。
-- 2021-02-20：第六章完成。
-- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
-- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
-
-热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
+面向编译器开发人员的V8内部实现文档。 
 
 ## 🕸 网站 
 
-### [ipdetective](https://ipdetective.io/api)
+### [阳光志愿](https://gaokao.chsi.com.cn/zyck/)
 
-检测 `ip` 是否是机器人：
+家里有参加高考的，可以参考：
 
-![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
+- 院校查询
+- 专业查询
+- 支援参考
+- 心理测评
+- 职业前景
+- 报考指南
 
-### [ifixit](https://zh.ifixit.com/)
+![zyck](https://images-1252557999.file.myqcloud.com/uPic/zyck.jpg) 
 
-一个免费教授人们如何修理任何物品的网站：
+### [datawhale.cn](https://www.datawhale.cn/home)
 
-![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
+`Datawhale` 通过开源学习模式，助力 `AI` 学习者与知识连接，与人连接，与场景连接，推动 `AI` 人才培养:
 
-### [稀土掘金大模型子站](https://llm.juejin.cn/view)
+![datawhale](https://images-1252557999.file.myqcloud.com/uPic/plDyMy.png) 
 
-大模型相关产品导航：
+### [unDraw](https://undraw.co/illustrations)
 
-![llm_juejin](https://images-1252557999.file.myqcloud.com/uPic/llm_juejin.jpg) 
+你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
+
+如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
+
+![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
 
 ## ✍️ 说明
 
