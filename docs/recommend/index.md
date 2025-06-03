@@ -5,106 +5,93 @@
 
 ## 🎯 项目 
 
-### [terminalizer](https://github.com/faressoft/terminalizer)
-
-录制终端操作并生成 `gif` 动图：
-
-![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
-
-### [Cloudreve](https://github.com/cloudreve/Cloudreve)
-
-支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
-
-- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
-- 📤  上传/下载 支持客户端直传，支持下载限速
-- 💾  可对接 Aria2 离线下载
-- 📚  在线 压缩/解压缩、多文件打包下载
-- 💻  覆盖全部存储策略的 WebDAV 协议支持
-- ⚡  拖拽上传、目录上传、流式上传处理
-- 🗃️  文件拖拽管理
-- 👩‍👧‍👦  多用户、用户组
-- 🔗  创建文件、目录的分享链接，可设定自动过期
-- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
-- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
-- 🚀  All-In-One 打包，开箱即用
-- 🌈  ... ...
-
-![Cloudreve](https://images-1252557999.file.myqcloud.com/uPic/opzEP2.jpg) 
-
 ### [dootask](https://github.com/kuaifan/dootask)
 
 DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
 
 ![dootask](https://images-1252557999.file.myqcloud.com/uPic/tYiTA7.png) 
 
+### [siri-ultra](https://github.com/fatwang2/siri-ultra)
+
+`Siri Ultra` 是一个能在 `iPhone` 上使用的 AI 聊天快捷指令，无需下载任何软件即可体验到最新的大模型：
+
+- 通过 Siri 实时语音对话，也可以直接运行快捷指令进行文字对话
+- 兼容各种大模型，包括 OpenAI、Gemini、DeepSeek 等
+- 支持联网搜索（需单独配置搜索 key）
+- 支持网页总结 （链接发给快捷指令即可） 
+
+### [social-auto-upload](https://github.com/dreammis/social-auto-upload)
+
+自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili：
+
+![social-auto-upload](https://images-1252557999.file.myqcloud.com/uPic/social-auto-upload.jpg) 
+
 ## 🤖 软件 
 
-### [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup)
+### [pixzip-lite](https://github.com/richhost/pixzip-lite)
 
-PC微信聊天记录数据导出工具
+一款快速、免费的图片压缩软件，支持 `JPG / PNG / WebP / AVIF` 等主流格式，支持 `Windows 10+，macOS 11+` 操作系统。
 
-基于- wails开发 + React前端，实现PC端微信聊天记录一键导出功能。
-- 导出后数据可以做永久化保存，即使微信停止支持，聊天记录也可以随时查看。
-- 前端界面尽量与微信界面保持一致，减少使用成本。
-- 理论上支持所有Windows 32/64位微信版本。
+![pixzip](https://images-1252557999.file.myqcloud.com/uPic/pixzip.jpg) 
 
-![wechatDataBackup](https://images-1252557999.file.myqcloud.com/uPic/LJBaJf.png) 
+### [iina](https://github.com/iina/iina)
 
-### [Olauncher](https://github.com/tanujnotes/Olauncher)
+macOS 下的开源现代化视频播放器，我的必备软件：
 
-适用于 `Android` 的最小 `AF` 启动器。减少您在屏幕上浪费的时间，提供日常壁纸，非常优雅简洁，效果上来看适合英文用户：
+![iina](https://images-1252557999.file.myqcloud.com/uPic/iina.jpg) 
 
-![Olauncher](https://images-1252557999.file.myqcloud.com/uPic/Olauncher.jpg) 
+### [UTM](https://github.com/utmapp/UTM)
 
-### [kobi](https://github.com/niuhuan/kobi)
+开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
 
-一个简洁大方的跨平台漫画客户端：
-
-![0ZQlSW](https://images-1252557999.file.myqcloud.com/uPic/0ZQlSW.png) 
+![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
 
 ## 👀 资料 
 
-### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
+### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
 
-一本小书《带你入门前端工程》
+本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/e783TS.png) 
+![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
 
-### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
+### [汉字激光照排小史](https://github.com/chenshuo/typeset/blob/master/wangxuan-history.pdf)
 
-本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
+一份 20 多页的笔记《汉字激光照排小史》：
 
-![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
+![typeset](https://images-1252557999.file.myqcloud.com/uPic/typeset.jpg) 
 
-### [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note)
+### [rosedb](https://github.com/flower-corp/rosedb)
 
-从0开始学习英语语法的开源项目：
+`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
 
-![english-note](https://images-1252557999.file.myqcloud.com/uPic/english-note.jpg) 
+![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
+
+作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
 
 ## 🕸 网站 
 
-### [fontawesome](https://fontawesome.com/icons/)
+### [读者阁](https://duzhege.cn/)
 
-比较完善全面的图标网站：
+可以在线阅读故事会、读者等杂志的网站：
 
-![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
+![duzhege](https://images-1252557999.file.myqcloud.com/uPic/duzhege.jpg) 
 
-### [webutils](https://www.webutils.app/)
+### [fviewer](https://www.fviewer.com/zh)
 
-一个提供web小工具的网站，比如：
+免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
 
-- 文本比较
-- 图片压缩
-- 图片转换
+![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
 
-![webutils](https://images-1252557999.file.myqcloud.com/uPic/ijDiPA.png) 
+### [tinypng](https://tinypng.com/)
 
-### [uiset](https://uiset.com/)
+比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
 
-共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
+![tinypng](https://images-1252557999.file.myqcloud.com/uPic/8s8ltr.png)
 
-![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
+如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
+
+- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
+- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
 
 ## ✍️ 说明
 
