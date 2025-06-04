@@ -5,93 +5,93 @@
 
 ## 🎯 项目 
 
-### [dootask](https://github.com/kuaifan/dootask)
+### [dm-ticket](https://github.com/ClassmateLin/dm-ticket)
 
-DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
+大麦网自动购票, 支持 `docker` 一键部署:
 
-![dootask](https://images-1252557999.file.myqcloud.com/uPic/tYiTA7.png) 
+![dm-ticket](https://images-1252557999.file.myqcloud.com/uPic/dm-ticket.png) 
 
-### [siri-ultra](https://github.com/fatwang2/siri-ultra)
+### [Dasherr](https://github.com/erohtar/Dasherr)
 
-`Siri Ultra` 是一个能在 `iPhone` 上使用的 AI 聊天快捷指令，无需下载任何软件即可体验到最新的大模型：
+简单轻量自部署的仪表盘工具：
 
-- 通过 Siri 实时语音对话，也可以直接运行快捷指令进行文字对话
-- 兼容各种大模型，包括 OpenAI、Gemini、DeepSeek 等
-- 支持联网搜索（需单独配置搜索 key）
-- 支持网页总结 （链接发给快捷指令即可） 
+![Dasherr](https://images-1252557999.file.myqcloud.com/uPic/Dasherr.png) 
 
-### [social-auto-upload](https://github.com/dreammis/social-auto-upload)
+### [OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
 
-自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili：
+这个项目是 `OOTDiffusion` 的官方实现，快速基于你上传的模特和图片生成产品效果图，AI 模特不是梦，点击 [ootd](https://ootd.ibot.cn/) 体验：
 
-![social-auto-upload](https://images-1252557999.file.myqcloud.com/uPic/social-auto-upload.jpg) 
+![ootd](https://images-1252557999.file.myqcloud.com/uPic/ootd.jpg) 
 
 ## 🤖 软件 
 
-### [pixzip-lite](https://github.com/richhost/pixzip-lite)
+### [TomatoBar](https://github.com/ivoronin/TomatoBar)
 
-一款快速、免费的图片压缩软件，支持 `JPG / PNG / WebP / AVIF` 等主流格式，支持 `Windows 10+，macOS 11+` 操作系统。
+你听说过番茄工作法吗？这是一种很好的技巧，可以帮助你在学习或工作期间掌握时间并保持专注。`TomatoBar` 是一款非常整洁的 `macOS` 菜单栏番茄钟：
 
-![pixzip](https://images-1252557999.file.myqcloud.com/uPic/pixzip.jpg) 
+![TomatoBar](https://images-1252557999.file.myqcloud.com/uPic/TomatoBar.png) 
 
-### [iina](https://github.com/iina/iina)
+### [Obtainium](https://github.com/ImranR98/Obtainium)
 
-macOS 下的开源现代化视频播放器，我的必备软件：
+聚合安卓应用源，然后获取程序更新，`Obtainium` 允许用户直接从发布页面安装和更新应用程序，并在发布新版本时接收通知：
 
-![iina](https://images-1252557999.file.myqcloud.com/uPic/iina.jpg) 
+![Obtainium](https://images-1252557999.file.myqcloud.com/uPic/Obtainium.jpg) 
 
-### [UTM](https://github.com/utmapp/UTM)
+### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
 
-开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
+使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
 
-![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
+- 支持下载无水印视频
+- 支持下载某个账号号的所有视频
+
+![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
 
 ## 👀 资料 
 
-### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
+### [Getting Real](https://basecamp.com/gettingreal)
 
-本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
+`Basecamp` 的在线电子书，关于通过更智能、更快、更简单的方式，构建  `web` 应用程序的教程：
 
-![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
+![gettingreal](https://images-1252557999.file.myqcloud.com/uPic/gettingreal.jpg) 
 
-### [汉字激光照排小史](https://github.com/chenshuo/typeset/blob/master/wangxuan-history.pdf)
+### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 
-一份 20 多页的笔记《汉字激光照排小史》：
+以非常直观的语言介绍`pytorch`：
 
-![typeset](https://images-1252557999.file.myqcloud.com/uPic/typeset.jpg) 
+![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
 
-### [rosedb](https://github.com/flower-corp/rosedb)
+作者的同类电子书还有：
 
-`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
+- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
 
-![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
+### [AI-System](https://github.com/microsoft/AI-System)
 
-作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+
+![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
 
 ## 🕸 网站 
 
-### [读者阁](https://duzhege.cn/)
+### [喵闪字库](https://www.miao3.cn/)
 
-可以在线阅读故事会、读者等杂志的网站：
+喵闪字库是一个专业的字体下载网站，收集并分享优秀的免费商用字体、免版权字体，提供所有字体的在线预览和免费字体下载服务。
 
-![duzhege](https://images-1252557999.file.myqcloud.com/uPic/duzhege.jpg) 
+![miao3](https://images-1252557999.file.myqcloud.com/uPic/miao3.jpg) 
 
-### [fviewer](https://www.fviewer.com/zh)
+### [open-slum.org](https://open-slum.org/)
 
-免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
+`SLUM` 网站实时监控多个流行的隐蔽图书馆（如 Anna's Archive、Library Genesis、Sci-Hub 等）的可用性，并提供这些服务的运行状况、证书有效期以及最近的更新时间。
 
-![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
+因为这些网站经常**意外**失效，也很容易被钓鱼，所以这个网站很有用：
 
-### [tinypng](https://tinypng.com/)
+![open-slum.org](https://images-1252557999.file.myqcloud.com/uPic/PzpYfd.png) 
 
-比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
+### [lexica.art](https://lexica.art/)
 
-![tinypng](https://images-1252557999.file.myqcloud.com/uPic/8s8ltr.png)
+可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
 
-如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
-
-- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
-- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
+![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
 
 ## ✍️ 说明
 
