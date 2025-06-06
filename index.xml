@@ -12,7 +12,86 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Mon, 02 Jun 2025 09:38:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 16:06:21 +0000</lastBuildDate>
+    <item>
+      <title>06-02~06-08.老胡的周刊（第190期）.md</title>
+      <link>https://weekly.howie6879.com/2025/06-02~06-08.老胡的周刊（第190期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/06-02~06-08.老胡的周刊（第190期）.html"&gt;06-02~06-08.老胡的周刊（第190期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/star7th/coolmonitor"&gt;coolmonitor&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;酷监控是一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等多种监控类型，帮助开发者及运维人员实时掌握网站/接口运行状态。本项目支持Docker一键快速部署，拥有美观现代的界面设计：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;多种监控类型：支持HTTP/HTTPS网站、API接口、HTTPS证书过期、TCP端口、MySQL/Redis数据库等多种监控&lt;/li&gt;
+&lt;li&gt;推送监控：支持被动接收客户端的心跳推送，实现不可直接访问设备的监控&lt;/li&gt;
+&lt;li&gt;精美界面：深色/浅色主题切换，响应式设计适配各种设备尺寸&lt;/li&gt;
+&lt;li&gt;强大通知系统：支持邮件、Webhook、微信通知渠道等多种通知方式&lt;/li&gt;
+&lt;li&gt;数据可视化：直观的状态图表和分析功能，快速了解系统运行状况&lt;/li&gt;
+&lt;li&gt;持久化存储：使用SQLite数据库，轻量级部署无需额外依赖&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="coolmonitor" src="https://images-1252557999.file.myqcloud.com/uPic/J6L5E1.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/LibreSpark/LibreTV"&gt;LibreTV&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;LibreTV&lt;/code&gt; 是一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。无需注册，即开即用，支持多种设备访问。项目结合了前端技术和后端代理功能，可部署在支持服务端功能的各类网站托管服务上。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="LibreTV" src="https://images-1252557999.file.myqcloud.com/uPic/wklU6z.png" /&gt;&lt;/p&gt;
+&lt;p&gt;还有贡献者开发了电视版本：&lt;a href="https://github.com/laopaoer-wallet/DTV"&gt;DTV&lt;/a&gt;。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/CooperJiang/ClipLink"&gt;ClipLink&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;ClipLink&lt;/code&gt; 是一个功能强大的跨平台剪贴板内容同步工具，允许您在不同设备（如电脑和手机）之间通过网页界面共享剪贴板内容。该项目采用前后端分离架构，后端使用 Go 语言构建，数据通过 SQLite 存储并通过网络同步，前端使用 Next.js 和 React 构建。通过内置的编译脚本，可以将前端静态资源嵌入到 Go 二进制文件中，实现前后端一体化部署。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ClipLink" src="https://images-1252557999.file.myqcloud.com/uPic/zxHBQZ.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/onlook-dev/onlook"&gt;onlook&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;设计师专属的 Cursor —— 一款开源、视觉优先的代码编辑器&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;一个开源的、基于可视化编辑的代码编辑器，专为设计师而优化，旨在通过 AI 与浏览器内 DOM 的直接编辑功能，让用户能够在代码编辑器中进行设计和编码。&lt;/p&gt;
+&lt;p&gt;使用 AI 在 Next.js + TailwindCSS 中构建网站、原型和设计。通过可视化编辑器直接在浏览器 DOM 中进行编辑。实时用代码进行设计。这是 Bolt.new、Lovable、V0、Replit Agent、Figma Make、Webflow 等产品的开源替代方案。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="onlook" src="https://images-1252557999.file.myqcloud.com/uPic/b8LfDN.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/codexu/note-gen"&gt;note-gen&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;NoteGen&lt;/code&gt; 是一款跨端的 &lt;code&gt;Markdown&lt;/code&gt; 笔记应用，致力于使用 AI 建立记录和写作的桥梁，将碎片化知识整理成一篇可读的笔记：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;轻量，安装包仅20MB，免费且无任何广告，无任何捆绑。&lt;/li&gt;
+&lt;li&gt;跨端，支持 Mac、Windows、Linux，得益于 Tauri2 的跨平台能力，未来将支持 IOS、Android。&lt;/li&gt;
+&lt;li&gt;支持截图、文本、插图、文件、链接等多种记录方式，满足各类场景的碎片化记录需求。&lt;/li&gt;
+&lt;li&gt;原生 Markdown(.md) 作为存储格式，拒绝魔改，方便迁移。&lt;/li&gt;
+&lt;li&gt;默认支持本地离线使用，支持实时同步到 Github、Gitee 私有仓库，支持历史回滚，支持 WebDAV 同步。&lt;/li&gt;
+&lt;li&gt;AI 加持，可配置 ChatGPT、Gemini、Ollama、LM Studio、Grok 等多种模型，支持自定义配置使用第三方模型。&lt;/li&gt;
+&lt;li&gt;RAG 支持，你的笔记就是你的知识库，支持嵌入模型、重排序模型。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="note-gen" src="https://images-1252557999.file.myqcloud.com/uPic/hcNSuo.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/algerkong/AlgerMusicPlayer"&gt;AlgerMusicPlayer&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="AlgerMusicPlayer" src="https://images-1252557999.file.myqcloud.com/uPic/F3RBkY.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/umlx5h/LLPlayer"&gt;LLPlayer&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;LLPlayer&lt;/code&gt; 是一款专为语言学习而设计的媒体播放器，具备双字幕、AI 生成字幕、实时翻译等独特功能，&lt;code&gt;Windows&lt;/code&gt; 专属。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="LLPlayer" src="https://images-1252557999.file.myqcloud.com/uPic/6t8Ue2.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/TapXWorld/ChinaTextbook"&gt;ChinaTextbook&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;项目作者创建项目的初心：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;虽然国内教育网站已提供免费资源，但大多数普通人获取信息的途径依然受限。有些人利用这一点，在某站上销售这些带有私人水印的资源。为了应对这种情况，我计划将这些资源集中并开源，以促进义务教育的普及和消除地区间的教育贫困。
+还有一个最重要的原因是，希望海外华人能够让自己的孩子继续了解国内教育。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://choosealicense.com/"&gt;choosealicense&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;choosealicense&lt;/code&gt; 帮助您轻松选择和一键复制开源协议：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="choosealicense" src="https://images-1252557999.file.myqcloud.com/uPic/RW33E0.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://zhuangit.ababtools.com/"&gt;装个机&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个全面的电脑系统安装指南，里面不仅包含了Windows、MacOS的具体下载资源还有“手把手”的安装攻略。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="zhuangit" src="https://images-1252557999.file.myqcloud.com/uPic/IH6B8e.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">06-02~06-08.老胡的周刊（第190期）.md</guid>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>05-26~05-31.老胡的周刊（第189期）.md</title>
       <link>https://weekly.howie6879.com/2025/05-26~05-31.老胡的周刊（第189期）.html</link>
@@ -1330,87 +1409,6 @@
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">12-09~12-15.老胡的周刊（第171期）.md</guid>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>11-25~12-08.老胡的周刊（第170期）.md</title>
-      <link>https://weekly.howie6879.com/2024/11-25~12-08.老胡的周刊（第170期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/11-25~12-08.老胡的周刊（第170期）.html"&gt;11-25~12-08.老胡的周刊（第170期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/likeflyme/cloudbak"&gt;cloudbak&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;云朵备份是一个微信云备份程序【仅支持 windows】，使用云朵备份可以将微信数据备份到服务器，通过浏览器访问数据，你可以像正常使用微信一样浏览数据和搜索数据（参考微信网页版）。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="cloudbak" src="https://images-1252557999.file.myqcloud.com/uPic/k1QNE0.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/MarSeventh/CloudFlare-ImgBed"&gt;CloudFlare-ImgBed&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;基于 &lt;code&gt;CloudFlare Pages&lt;/code&gt; 的免费图片托管解决方案，支持 &lt;code&gt;Telegram Bot&lt;/code&gt; 和 &lt;code&gt;Cloudflare R2&lt;/code&gt; 等多种存储方式:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="CloudFlare-ImgBed" src="https://images-1252557999.file.myqcloud.com/uPic/49JpVO.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/actualbudget/actual"&gt;actual&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;自部署的个人理财开源项目：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="actual" src="https://images-1252557999.file.myqcloud.com/uPic/jXtBXk.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Guovin/iptv-api"&gt;iptv-api&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;自定义频道，自动获取直播源接口，测速验证后生成可用的结果，默认结果包含：📺央视频道、💰央视付费频道、📡卫视频道、🏠广东频道、🌊港·澳·台频道、🎬电影频道、🎥咪咕直播、🏀体育频道、🪁动画频道、🎮游戏频道、🎵音乐频道、🏛经典剧场。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;✅ 自定义模板，生成您想要的频道&lt;/li&gt;
-&lt;li&gt;✅ 支持多种获取源方式：组播源、酒店源、订阅源、关键字搜索&lt;/li&gt;
-&lt;li&gt;✅ 接口测速验效，响应时间、分辨率优先级，过滤无效接口&lt;/li&gt;
-&lt;li&gt;✅ 偏好设置：IPv6、接口来源排序优先级与数量配置、接口白名单&lt;/li&gt;
-&lt;li&gt;✅ 定时执行，北京时间每日 6:00 与 18:00 执行更新&lt;/li&gt;
-&lt;li&gt;✅ 支持多种运行方式：工作流、命令行、GUI 软件、Docker(amd64/arm64/arm v7)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/git-jiadong/wechatDataBackup"&gt;wechatDataBackup&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;PC微信聊天记录数据导出工具&lt;/p&gt;
-&lt;p&gt;基于- wails开发 + React前端，实现PC端微信聊天记录一键导出功能。
-- 导出后数据可以做永久化保存，即使微信停止支持，聊天记录也可以随时查看。
-- 前端界面尽量与微信界面保持一致，减少使用成本。
-- 理论上支持所有Windows 32/64位微信版本。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="wechatDataBackup" src="https://images-1252557999.file.myqcloud.com/uPic/LJBaJf.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader"&gt;icloud_photos_downloader&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个命令行工具，用于从 &lt;code&gt;iCloud&lt;/code&gt; 下载照片，支持 &lt;code&gt;Linux、Windows &amp;amp; macOS&lt;/code&gt; 系统。&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/mistweaverco/bananas"&gt;bananas&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个跨平台、点对点的屏幕共享工具，支持多光标协作，无需配置即可快速使用，注重隐私保护。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="bananas" src="https://images-1252557999.file.myqcloud.com/uPic/oOMgaM.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/waydabber/BetterDisplay"&gt;BetterDisplay&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;专为 &lt;code&gt;Mac&lt;/code&gt; 平台设计的专业级屏幕自定义调整工具，可通过 DDC 调整内建 / 外接显示器的各项基本参数，并提供虚拟屏、串流、画中画等丰富的高级功能，支持大多数现代显示器：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="BetterDisplay" src="https://images-1252557999.file.myqcloud.com/uPic/qLLPBM.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Steven-Luo/MasteringRAG"&gt;MasteringRAG&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;本项目是一个使用LLM（大语言模型）使用RAG技术构建文档问答的项目，将会涵盖企业构建基于RAG的文档问答几乎所有的常见优化手段。&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/harleyszhang/llm_note"&gt;harleyszhang/llm_note&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个关于大型语言模型（LLM）的笔记仓库，涵盖了模型推理、Transformer 模型结构、LLM 框架代码分析以及高性能计算等内容:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Transformer 模型系列：详细解读了 Transformer 模型的论文，实现代码，以及不同版本的 GPT 和 LLaMA 模型结构。&lt;/li&gt;
-&lt;li&gt;LLM 性能分析：分析了模型的参数量、计算量、显存占用以及推理延迟。&lt;/li&gt;
-&lt;li&gt;LLM 压缩技术：介绍了 SmoothQuant 和 AWQ 等模型压缩算法。&lt;/li&gt;
-&lt;li&gt;LLM 推理与部署：讨论了推理服务框架的技术总结和源码解析，包括 DeepSpeed 框架的学习笔记，以及推理优化、系统优化方法和可视化工具。&lt;/li&gt;
-&lt;li&gt;高性能计算：提供了关于 Triton 和 CUDA 的编程笔记，以及高性能计算编程的学习资料推荐。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;a href="https://learnku.com/docs/php-the-right-way/PHP8.0"&gt;php-the-right-way&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;PHP 入门教程，现在这块市场占有越来越少了，新项目应该都用 Go 或者 Python ，有兴趣学习的可以作为教程看看：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="php-the-right-way" src="https://images-1252557999.file.myqcloud.com/uPic/DKXw5S.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://rarebigdeal.com/"&gt;rare-big-deal&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个专门为黑五/网络星期一等活动提供软件和工具优惠的资源库。该资源库汇集了多种类别的产品和服务，包括 macOS 应用、API、浏览器插件、AI 工具、iOS 应用、设计工具、生产力工具、营销工具、SEO 工具、样板文件、学习资源、健康和健身应用、金融工具、邮件列表、专业化服务等：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="rare-big-deal" src="https://images-1252557999.file.myqcloud.com/uPic/AepRDr.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://www.wallpaperengine.space/"&gt;wallpaperengine.space&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个专注于提供各种动态壁纸的平台，涵盖了从 4K 分辨率到各种主题和风格的壁纸。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="wallpaperengine" src="https://images-1252557999.file.myqcloud.com/uPic/MgDa1c.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://favicon.im/"&gt;favicon.im&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;快速获取网站 LOGO:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="favicon.im" src="https://images-1252557999.file.myqcloud.com/uPic/FSVgaW.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">11-25~12-08.老胡的周刊（第170期）.md</guid>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
