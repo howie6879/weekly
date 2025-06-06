@@ -5,93 +5,95 @@
 
 ## 🎯 项目 
 
-### [dm-ticket](https://github.com/ClassmateLin/dm-ticket)
+### [pandora](https://github.com/pengzhile/pandora)
 
-大麦网自动购票, 支持 `docker` 一键部署:
+潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
 
-![dm-ticket](https://images-1252557999.file.myqcloud.com/uPic/dm-ticket.png) 
+![pandora](https://images-1252557999.file.myqcloud.com/uPic/pandora.png) 
 
-### [Dasherr](https://github.com/erohtar/Dasherr)
+### [favicon-downloader](https://github.com/seadfeng/favicon-downloader)
 
-简单轻量自部署的仪表盘工具：
+免费获取网站 `favicon` 的工具:
 
-![Dasherr](https://images-1252557999.file.myqcloud.com/uPic/Dasherr.png) 
+![faviconextractor](https://images-1252557999.file.myqcloud.com/uPic/faviconextractor.jpg) 
 
-### [OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
+### [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)
 
-这个项目是 `OOTDiffusion` 的官方实现，快速基于你上传的模特和图片生成产品效果图，AI 模特不是梦，点击 [ootd](https://ootd.ibot.cn/) 体验：
+一个油猴脚本，让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤，还可以取消后台监管审计：
 
-![ootd](https://images-1252557999.file.myqcloud.com/uPic/ootd.jpg) 
+- 解决了报错：NetworkError when attempting to fetch resource.
+- 解决了报错：Something went wrong. If this issue persists please contact us through our help center at help.openai.com.
+- 解决了报错：Conversation not found
+- 自由取消后台监管审计：This content may violate our content policy. If you believe this to be in error, please submit your feedback — your input will aid our research in this area.
+- 解决被频繁地打断交流
+- 解决频繁地刷新网页
+- 支持多国语言
+- 解决用户手误复制用户头像里的用户名的问题
+- 兼容移动端
+
+![KeepChatGPT](https://images-1252557999.file.myqcloud.com/uPic/KeepChatGPT.png) 
 
 ## 🤖 软件 
 
-### [TomatoBar](https://github.com/ivoronin/TomatoBar)
+### [avnc](https://github.com/gujjwal00/avnc)
 
-你听说过番茄工作法吗？这是一种很好的技巧，可以帮助你在学习或工作期间掌握时间并保持专注。`TomatoBar` 是一款非常整洁的 `macOS` 菜单栏番茄钟：
+针对 `Android` 的开源 `VNC` 客户端：
 
-![TomatoBar](https://images-1252557999.file.myqcloud.com/uPic/TomatoBar.png) 
+![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
 
-### [Obtainium](https://github.com/ImranR98/Obtainium)
+### [FlowDown](https://github.com/Lakr233/FlowDown-App)
 
-聚合安卓应用源，然后获取程序更新，`Obtainium` 允许用户直接从发布页面安装和更新应用程序，并在发布新版本时接收通知：
+浮望（FlowDown）是一个速度极快、平滑的 AI/LLM 客户端应用程序。
 
-![Obtainium](https://images-1252557999.file.myqcloud.com/uPic/Obtainium.jpg) 
+![FlowDown](https://images-1252557999.file.myqcloud.com/uPic/boR71j.png) 
 
-### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
+### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
 
-使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
+一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
 
-- 支持下载无水印视频
-- 支持下载某个账号号的所有视频
-
-![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
+![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
 
 ## 👀 资料 
 
-### [Getting Real](https://basecamp.com/gettingreal)
+### [mastering-bitcoin-3rd](https://github.com/berryjam/mastering-bitcoin-3rd)
 
-`Basecamp` 的在线电子书，关于通过更智能、更快、更简单的方式，构建  `web` 应用程序的教程：
+《精通比特币》第三版翻译：
 
-![gettingreal](https://images-1252557999.file.myqcloud.com/uPic/gettingreal.jpg) 
+![mastering-bitcoin-3rd](https://images-1252557999.file.myqcloud.com/uPic/ZwD0Jl.png) 
 
-### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
 
-以非常直观的语言介绍`pytorch`：
+这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
 
-![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
+该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
 
-作者的同类电子书还有：
+![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
 
-- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+### [大模型交叉研讨课](https://www.openbmb.org/community/course)
 
-### [AI-System](https://github.com/microsoft/AI-System)
+OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：
 
-微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
-
-![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
+![openbmb_course](https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg) 
 
 ## 🕸 网站 
 
-### [喵闪字库](https://www.miao3.cn/)
+### [trending.design](https://trending.design/)
 
-喵闪字库是一个专业的字体下载网站，收集并分享优秀的免费商用字体、免版权字体，提供所有字体的在线预览和免费字体下载服务。
+收集一些在 𝕏(twitter) 上的最佳设计灵感：
 
-![miao3](https://images-1252557999.file.myqcloud.com/uPic/miao3.jpg) 
+![trending.design](https://images-1252557999.file.myqcloud.com/uPic/trending.design.jpg) 
 
-### [open-slum.org](https://open-slum.org/)
+### [smalldev.tools](https://smalldev.tools/)
 
-`SLUM` 网站实时监控多个流行的隐蔽图书馆（如 Anna's Archive、Library Genesis、Sci-Hub 等）的可用性，并提供这些服务的运行状况、证书有效期以及最近的更新时间。
+开发者常用工具集：
 
-因为这些网站经常**意外**失效，也很容易被钓鱼，所以这个网站很有用：
+![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
 
-![open-slum.org](https://images-1252557999.file.myqcloud.com/uPic/PzpYfd.png) 
+### [choosealicense](https://choosealicense.com/)
 
-### [lexica.art](https://lexica.art/)
+`choosealicense` 帮助您轻松选择和一键复制开源协议：
 
-可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
-
-![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
+![choosealicense](https://images-1252557999.file.myqcloud.com/uPic/RW33E0.png) 
 
 ## ✍️ 说明
 
