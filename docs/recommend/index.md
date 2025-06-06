@@ -5,95 +5,97 @@
 
 ## 🎯 项目 
 
-### [pandora](https://github.com/pengzhile/pandora)
+### [orpington-news](https://github.com/frysztak/orpington-news)
 
-潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
+可自部署的 `RSS` 阅读器，支持 `PWA`：
 
-![pandora](https://images-1252557999.file.myqcloud.com/uPic/pandora.png) 
+![orpington-news](https://images-1252557999.file.myqcloud.com/uPic/orpington-news.png) 
 
-### [favicon-downloader](https://github.com/seadfeng/favicon-downloader)
+### [deepclaude](https://github.com/getasterisk/deepclaude)
 
-免费获取网站 `favicon` 的工具:
+`Aider` 团队最新研究通过[采用 DeepSeek R1 + Claude 3.5 Sonnet](https://aider.chat/2025/01/24/r1-sonnet.html) 可以实现最好的效果：
 
-![faviconextractor](https://images-1252557999.file.myqcloud.com/uPic/faviconextractor.jpg) 
+![deepclaude-web](https://images-1252557999.file.myqcloud.com/uPic/xFt7fe.png)
 
-### [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)
+![deepclaude](https://images-1252557999.file.myqcloud.com/uPic/MNsnRO.png)
 
-一个油猴脚本，让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤，还可以取消后台监管审计：
+相关资料：
 
-- 解决了报错：NetworkError when attempting to fetch resource.
-- 解决了报错：Something went wrong. If this issue persists please contact us through our help center at help.openai.com.
-- 解决了报错：Conversation not found
-- 自由取消后台监管审计：This content may violate our content policy. If you believe this to be in error, please submit your feedback — your input will aid our research in this area.
-- 解决被频繁地打断交流
-- 解决频繁地刷新网页
-- 支持多国语言
-- 解决用户手误复制用户头像里的用户名的问题
-- 兼容移动端
+- [R1+Sonnet set SOTA on aider’s polyglot benchmark](https://aider.chat/2025/01/24/r1-sonnet.html)
+- [第三方 Python 实现](https://github.com/ErlichLiu/DeepClaude) 
 
-![KeepChatGPT](https://images-1252557999.file.myqcloud.com/uPic/KeepChatGPT.png) 
+### [blinko](https://github.com/blinkospace/blinko)
+
+- `Blinko` 是一个创新的开源项目，专为那些想要快速捕捉和组织灵感的人设计。它允许用户在灵感闪现的瞬间无缝记录想法，确保不错过任何创意火花：
+- 🤖AI 增强笔记检索：通过 Blinko 的先进 AI 驱动的 RAG（检索增强生成）技术，你可以使用自然语言查询快速搜索和访问笔记，轻松找到所需内容。支持 OpenAI、Azure OpenAI 和 Ollama。
+- 🔒数据所有权：你的隐私至关重要。所有笔记和数据都安全存储在你的自托管环境中，确保对信息的完全控制。
+- 🚀高效快速：即时捕捉想法并以纯文本形式存储以便于访问，完全支持 Markdown 格式，便于快速排版和分享。
+- 💡轻量架构，多端支持：基于 Tauri 构建的 Blinko 采用简洁轻量的架构，在保持卓越速度和效率的同时，并且支持Macos,Windows,Android,Linux等多平台。
+- 🔓开放协作：作为开源项目，Blinko 欢迎社区贡献。所有代码都在 GitHub 上公开透明，培养协作和持续改进的精神。
+
+![blinko](https://images-1252557999.file.myqcloud.com/uPic/R3axJB.png) 
 
 ## 🤖 软件 
 
-### [avnc](https://github.com/gujjwal00/avnc)
+### [Malware-Patch](https://github.com/the1812/Malware-Patch)
 
-针对 `Android` 的开源 `VNC` 客户端：
+阻止中国流氓软件的管理员授权，无需后台运行：
 
-![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
+![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
 
-### [FlowDown](https://github.com/Lakr233/FlowDown-App)
+### [thorium-reader](https://github.com/edrlab/thorium-reader)
 
-浮望（FlowDown）是一个速度极快、平滑的 AI/LLM 客户端应用程序。
+`Thorium Reader` 是一款专为 `Windows 10/11、MacOS & Linux` 开发的电子书阅读器：
 
-![FlowDown](https://images-1252557999.file.myqcloud.com/uPic/boR71j.png) 
+![thorium-reader](https://images-1252557999.file.myqcloud.com/uPic/thorium-reader.png) 
 
-### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
+LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
 
-![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
+![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
 
 ## 👀 资料 
 
-### [mastering-bitcoin-3rd](https://github.com/berryjam/mastering-bitcoin-3rd)
+### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
 
-《精通比特币》第三版翻译：
+全面的Webpack教程《深入浅出Webpack》电子书：
 
-![mastering-bitcoin-3rd](https://images-1252557999.file.myqcloud.com/uPic/ZwD0Jl.png) 
+![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
 
-### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
+### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 
-这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
+[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
 
-该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
+**可惜永远都不会再更新了，默哀！**
 
-![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
+![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
 
-### [大模型交叉研讨课](https://www.openbmb.org/community/course)
+### [How-to-use-Transformers](https://github.com/jsksxs360/How-to-use-Transformers)
 
-OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：
+Transformers 库快速入门[教程](https://transformers.run/)：
 
-![openbmb_course](https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg) 
+![How-to-use-Transformers](https://images-1252557999.file.myqcloud.com/uPic/How-to-use-Transformers.jpg) 
 
 ## 🕸 网站 
 
-### [trending.design](https://trending.design/)
+### [morphic.sh](https://www.morphic.sh/)
 
-收集一些在 𝕏(twitter) 上的最佳设计灵感：
+一个开源的 AI 搜索引擎，支持 `Vercel` 自建部署，可选 `OpenAI、Gemini`，以及最新的 `Llama3` 大模型，网站开源 [morphic](https://github.com/miurla/morphic)：
 
-![trending.design](https://images-1252557999.file.myqcloud.com/uPic/trending.design.jpg) 
+![morphic](https://images-1252557999.file.myqcloud.com/uPic/morphic.jpg) 
 
-### [smalldev.tools](https://smalldev.tools/)
+### [shenyandayi](https://www.shenyandayi.com/)
 
-开发者常用工具集：
+深言达意，懂文字更懂你：
 
-![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
+![shenyandayi](https://images-1252557999.file.myqcloud.com/uPic/shenyandayi.jpg) 
 
-### [choosealicense](https://choosealicense.com/)
+### [svg-path-editor](https://yqnn.github.io/svg-path-editor/)
 
-`choosealicense` 帮助您轻松选择和一键复制开源协议：
+在线编辑创建 `SVG`，同时开源在 [github-svg-path-editor](https://github.com/Yqnn/svg-path-editor)：
 
-![choosealicense](https://images-1252557999.file.myqcloud.com/uPic/RW33E0.png) 
+![svg-path-editor](https://images-1252557999.file.myqcloud.com/uPic/svg-path-editor.jpg) 
 
 ## ✍️ 说明
 
