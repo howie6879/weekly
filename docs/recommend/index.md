@@ -5,97 +5,87 @@
 
 ## 🎯 项目 
 
-### [orpington-news](https://github.com/frysztak/orpington-news)
+### [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
 
-可自部署的 `RSS` 阅读器，支持 `PWA`：
+作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。
 
-![orpington-news](https://images-1252557999.file.myqcloud.com/uPic/orpington-news.png) 
+项目列表如下：
 
-### [deepclaude](https://github.com/getasterisk/deepclaude)
+![bigdata_analyse](https://images-1252557999.file.myqcloud.com/uPic/klC8AA.png) 
 
-`Aider` 团队最新研究通过[采用 DeepSeek R1 + Claude 3.5 Sonnet](https://aider.chat/2025/01/24/r1-sonnet.html) 可以实现最好的效果：
+### [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)
 
-![deepclaude-web](https://images-1252557999.file.myqcloud.com/uPic/xFt7fe.png)
+`bilingual_book_maker` 是一个 `AI` 翻译工具，使用 `ChatGPT` 帮助用户制作多语言版本的 `epub` 文件和图书。该工具仅适用于翻译进入公共版权领域的 `epub` 图书，不适用于有版权的书籍。请在使用之前阅读项目的 免责声明：
 
-![deepclaude](https://images-1252557999.file.myqcloud.com/uPic/MNsnRO.png)
+![bilingual_book_maker](https://images-1252557999.file.myqcloud.com/uPic/bilingual_book_maker.png) 
 
-相关资料：
+### [stablog](https://github.com/YaoZeyuan/stablog)
 
-- [R1+Sonnet set SOTA on aider’s polyglot benchmark](https://aider.chat/2025/01/24/r1-sonnet.html)
-- [第三方 Python 实现](https://github.com/ErlichLiu/DeepClaude) 
-
-### [blinko](https://github.com/blinkospace/blinko)
-
-- `Blinko` 是一个创新的开源项目，专为那些想要快速捕捉和组织灵感的人设计。它允许用户在灵感闪现的瞬间无缝记录想法，确保不错过任何创意火花：
-- 🤖AI 增强笔记检索：通过 Blinko 的先进 AI 驱动的 RAG（检索增强生成）技术，你可以使用自然语言查询快速搜索和访问笔记，轻松找到所需内容。支持 OpenAI、Azure OpenAI 和 Ollama。
-- 🔒数据所有权：你的隐私至关重要。所有笔记和数据都安全存储在你的自托管环境中，确保对信息的完全控制。
-- 🚀高效快速：即时捕捉想法并以纯文本形式存储以便于访问，完全支持 Markdown 格式，便于快速排版和分享。
-- 💡轻量架构，多端支持：基于 Tauri 构建的 Blinko 采用简洁轻量的架构，在保持卓越速度和效率的同时，并且支持Macos,Windows,Android,Linux等多平台。
-- 🔓开放协作：作为开源项目，Blinko 欢迎社区贡献。所有代码都在 GitHub 上公开透明，培养协作和持续改进的精神。
-
-![blinko](https://images-1252557999.file.myqcloud.com/uPic/R3axJB.png) 
+稳部落项目是一个基于微博现有接口和 TypeScript 构建的工具，旨在为微博用户提供便捷的微博记录备份与导出服务。 
 
 ## 🤖 软件 
 
-### [Malware-Patch](https://github.com/the1812/Malware-Patch)
+### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
 
-阻止中国流氓软件的管理员授权，无需后台运行：
+根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
 
-![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
+![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
 
-### [thorium-reader](https://github.com/edrlab/thorium-reader)
+### [AdAway](https://github.com/AdAway/AdAway)
 
-`Thorium Reader` 是一款专为 `Windows 10/11、MacOS & Linux` 开发的电子书阅读器：
+是一款免费且开源的 `Android` 广告拦截器：
 
-![thorium-reader](https://images-1252557999.file.myqcloud.com/uPic/thorium-reader.png) 
+![AdAway](https://images-1252557999.file.myqcloud.com/uPic/AdAway.jpg) 
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+### [sourcegit](https://github.com/sourcegit-scm/sourcegit)
 
-LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
+一个跨平台的 `GUI` 客户端：
 
-![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
+![sourcegit](https://images-1252557999.file.myqcloud.com/uPic/yC8OCO.png) 
 
 ## 👀 资料 
 
-### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
+### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
 
-全面的Webpack教程《深入浅出Webpack》电子书：
+`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
 
-![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
+![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
 
-### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
+`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
 
-[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
+![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
 
-**可惜永远都不会再更新了，默哀！**
+更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
 
-![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
+### [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
-### [How-to-use-Transformers](https://github.com/jsksxs360/How-to-use-Transformers)
+📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
 
-Transformers 库快速入门[教程](https://transformers.run/)：
+![CS-Notes](https://images-1252557999.file.myqcloud.com/uPic/7aMFrS.png) 
 
-![How-to-use-Transformers](https://images-1252557999.file.myqcloud.com/uPic/How-to-use-Transformers.jpg) 
+### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
+
+互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
 
 ## 🕸 网站 
 
-### [morphic.sh](https://www.morphic.sh/)
+### [sysmini](https://www.sysmini.com/)
 
-一个开源的 AI 搜索引擎，支持 `Vercel` 自建部署，可选 `OpenAI、Gemini`，以及最新的 `Llama3` 大模型，网站开源 [morphic](https://github.com/miurla/morphic)：
+站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
 
-![morphic](https://images-1252557999.file.myqcloud.com/uPic/morphic.jpg) 
+![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
 
-### [shenyandayi](https://www.shenyandayi.com/)
+### [eja.tv](https://eja.tv/?)
 
-深言达意，懂文字更懂你：
+提供3808个在线电视频道，包含143个国家以及82种不同语言。
 
-![shenyandayi](https://images-1252557999.file.myqcloud.com/uPic/shenyandayi.jpg) 
+![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
 
-### [svg-path-editor](https://yqnn.github.io/svg-path-editor/)
+### [openbookshongkong](https://openbookshongkong.com/book/)
 
-在线编辑创建 `SVG`，同时开源在 [github-svg-path-editor](https://github.com/Yqnn/svg-path-editor)：
+开讀计劃由香港中文大学、香港城市大学和香港大学的图书馆与出版社共同发起，是香港首个开放取用图书计划。该计划于 2024 年 7 月 17 日推出了由三家大学出版社出版的九本中文图书，这些图书免费开放给公众，涵盖历史、哲学、宗教、法学、人类学、性别研究等领域。
 
-![svg-path-editor](https://images-1252557999.file.myqcloud.com/uPic/svg-path-editor.jpg) 
+![openbookshongkong](https://images-1252557999.file.myqcloud.com/uPic/gM7dMk.png) 
 
 ## ✍️ 说明
 
