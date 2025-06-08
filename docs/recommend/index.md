@@ -5,87 +5,81 @@
 
 ## 🎯 项目 
 
-### [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
+### [univer](https://github.com/dream-num/univer)
 
-作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。
+`Univer` 是一套企业文档与数据协同解决方案，融合了电子表格、文档和幻灯片：
 
-项目列表如下：
+![univer](https://images-1252557999.file.myqcloud.com/uPic/univer.jpg) 
 
-![bigdata_analyse](https://images-1252557999.file.myqcloud.com/uPic/klC8AA.png) 
+### [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)
 
-### [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)
+老胡最近整的开源项目，从[技术周刊精选](https://www.fre123.com/weekly/)到[信息流](https://www.fre123.com/tech)，和前端朋友一起梳理出了个通用的排版并开源出来，欢迎大家使用和提出建议:
 
-`bilingual_book_maker` 是一个 `AI` 翻译工具，使用 `ChatGPT` 帮助用户制作多语言版本的 `epub` 文件和图书。该工具仅适用于翻译进入公共版权领域的 `epub` 图书，不适用于有版权的书籍。请在使用之前阅读项目的 免责声明：
+![fre123-info-flow-demo](https://images-1252557999.file.myqcloud.com/uPic/fre123-info-flow-demo.jpg) 
 
-![bilingual_book_maker](https://images-1252557999.file.myqcloud.com/uPic/bilingual_book_maker.png) 
+### [milvus](https://github.com/milvus-io/milvus)
 
-### [stablog](https://github.com/YaoZeyuan/stablog)
+`Milvus` 是一款开源的特征向量搜索引擎：
 
-稳部落项目是一个基于微博现有接口和 TypeScript 构建的工具，旨在为微博用户提供便捷的微博记录备份与导出服务。 
+![milvus](https://images-1252557999.file.myqcloud.com/uPic/milvus.jpg) 
 
 ## 🤖 软件 
 
-### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
+### [uPic](https://github.com/gee1k/uPic)
 
-根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
+`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
 
-![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
+我的必备软件：
 
-### [AdAway](https://github.com/AdAway/AdAway)
+![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
 
-是一款免费且开源的 `Android` 广告拦截器：
+### [fideo-live-record](https://github.com/chenfan0/fideo-live-record)
 
-![AdAway](https://images-1252557999.file.myqcloud.com/uPic/AdAway.jpg) 
+这是一个基于 `React Ffmpeg Electron Shadcn` 的直播录制软件。支持监控直播，可以帮助用户简单便捷对直播进行录制并保存为` MP4` 格式的视频：
 
-### [sourcegit](https://github.com/sourcegit-scm/sourcegit)
+![fideo-live-record](https://images-1252557999.file.myqcloud.com/uPic/tCaYMt.png) 
 
-一个跨平台的 `GUI` 客户端：
+### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
 
-![sourcegit](https://images-1252557999.file.myqcloud.com/uPic/yC8OCO.png) 
+类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
+
+![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
 
 ## 👀 资料 
 
-### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
+### [whys-the-design](https://draven.co/whys-the-design/)
 
-`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
+为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
 
-![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
+![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
 
-`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
+### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
 
-![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
+左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
 
-更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
+### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
 
-### [CS-Notes](https://github.com/CyC2018/CS-Notes)
-
-📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
-
-![CS-Notes](https://images-1252557999.file.myqcloud.com/uPic/7aMFrS.png) 
-
-### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
-
-互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
+![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
 ## 🕸 网站 
 
-### [sysmini](https://www.sysmini.com/)
+### [whatpwacando](https://whatpwacando.today/)
 
-站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
+该网站功能用于介绍 PWA 的技术进展：
 
-![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
+![whatpwacando](https://images-1252557999.file.myqcloud.com/uPic/whatpwacando.jpg) 
 
-### [eja.tv](https://eja.tv/?)
+### [喵闪字库](https://www.miao3.cn/)
 
-提供3808个在线电视频道，包含143个国家以及82种不同语言。
+喵闪字库是一个专业的字体下载网站，收集并分享优秀的免费商用字体、免版权字体，提供所有字体的在线预览和免费字体下载服务。
 
-![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
+![miao3](https://images-1252557999.file.myqcloud.com/uPic/miao3.jpg) 
 
-### [openbookshongkong](https://openbookshongkong.com/book/)
+### [compressjpeg](https://compressjpeg.com/zh/)
 
-开讀计劃由香港中文大学、香港城市大学和香港大学的图书馆与出版社共同发起，是香港首个开放取用图书计划。该计划于 2024 年 7 月 17 日推出了由三家大学出版社出版的九本中文图书，这些图书免费开放给公众，涵盖历史、哲学、宗教、法学、人类学、性别研究等领域。
+一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
 
-![openbookshongkong](https://images-1252557999.file.myqcloud.com/uPic/gM7dMk.png) 
+![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg) 
 
 ## ✍️ 说明
 
