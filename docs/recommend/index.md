@@ -5,81 +5,94 @@
 
 ## 🎯 项目 
 
-### [univer](https://github.com/dream-num/univer)
+### [sonic](https://github.com/go-sonic/sonic)
 
-`Univer` 是一套企业文档与数据协同解决方案，融合了电子表格、文档和幻灯片：
+`Sonic` 是 `Go` 开发的博客平台，简单而强大：
 
-![univer](https://images-1252557999.file.myqcloud.com/uPic/univer.jpg) 
+![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
 
-### [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)
+### [pushdeer](https://github.com/easychen/pushdeer)
 
-老胡最近整的开源项目，从[技术周刊精选](https://www.fre123.com/weekly/)到[信息流](https://www.fre123.com/tech)，和前端朋友一起梳理出了个通用的排版并开源出来，欢迎大家使用和提出建议:
+开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备：
 
-![fre123-info-flow-demo](https://images-1252557999.file.myqcloud.com/uPic/fre123-info-flow-demo.jpg) 
+![pushdeer](https://images-1252557999.file.myqcloud.com/uPic/pushdeer.jpg) 
 
-### [milvus](https://github.com/milvus-io/milvus)
+### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
 
-`Milvus` 是一款开源的特征向量搜索引擎：
+短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
 
-![milvus](https://images-1252557999.file.myqcloud.com/uPic/milvus.jpg) 
+![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
 
 ## 🤖 软件 
 
-### [uPic](https://github.com/gee1k/uPic)
+### [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop)
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+`AirPods` 桌面用户体验增强程序(仅支持 Windows)：
 
-我的必备软件：
+- 🔋 电池信息显示
+- 👂 自动人耳检测
+- 🚀 低音频延迟模式
+- 🌈 精美的动画
 
-![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+![AirPodsDesktop](https://images-1252557999.file.myqcloud.com/uPic/AirPodsDesktop.gif) 
 
-### [fideo-live-record](https://github.com/chenfan0/fideo-live-record)
+### [chatd.ai](https://www.chatd.ai/)
 
-这是一个基于 `React Ffmpeg Electron Shadcn` 的直播录制软件。支持监控直播，可以帮助用户简单便捷对直播进行录制并保存为` MP4` 格式的视频：
+您自己的私人本地AI，可以阅读计算机上的文件然后与您的文件进行聊天，该软件目标如下：
 
-![fideo-live-record](https://images-1252557999.file.myqcloud.com/uPic/tCaYMt.png) 
+- 一键式下载与启动。
+- 无需额外依赖。
+- 应用文件体积最小化。
+- 设计简单的大语言模型版本控制与分发系统。
+- 兼容所有主流操作系统。
+- 利用本地运行的优势，如访问本地文件系统。
+- 用户无需调整任何设置，大语言模型在他们的系统上即插即用。
 
-### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
+详情见介绍文章：[packaging-language-models-into-desktop-apps](https://www.bmacd.xyz/packaging-language-models-into-desktop-apps/) 
 
-类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
+### [Rectangle](https://github.com/rxhanson/Rectangle)
 
-![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
+`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+
+![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
 
 ## 👀 资料 
 
-### [whys-the-design](https://draven.co/whys-the-design/)
+### [通识千书书单-聪明的阅读者](https://docs.qq.com/sheet/DY2RmcVVMVE9Qd3JV?tab=BB08J2)
 
-为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
+汇总聪明的阅读者里面出现的书单，可以选择最小单位的书单阅读：
 
-![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
-
-### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
-
-左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
+![聪明的阅读者](https://images-1252557999.file.myqcloud.com/uPic/聪明的阅读者.jpg) 
 
 ### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
 
 ![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
+### [Al精选工具库](https://t16jzwqrzjx.feishu.cn/wiki/EsvowFAqFiTiYDkJgE0cWquPnWb)
+
+18 个模块 100 个 AI 工具：
+
+![ai_tools](https://images-1252557999.file.myqcloud.com/uPic/ai_tools.jpg) 
+
 ## 🕸 网站 
 
-### [whatpwacando](https://whatpwacando.today/)
+### [emojiall](https://www.emojiall.com/)
 
-该网站功能用于介绍 PWA 的技术进展：
+网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
 
-![whatpwacando](https://images-1252557999.file.myqcloud.com/uPic/whatpwacando.jpg) 
+![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg) 
 
-### [喵闪字库](https://www.miao3.cn/)
+### [musetransfer](https://musetransfer.com/)
 
-喵闪字库是一个专业的字体下载网站，收集并分享优秀的免费商用字体、免版权字体，提供所有字体的在线预览和免费字体下载服务。
+`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
 
-![miao3](https://images-1252557999.file.myqcloud.com/uPic/miao3.jpg) 
+![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
 
-### [compressjpeg](https://compressjpeg.com/zh/)
+### [datawhale.cn](https://www.datawhale.cn/home)
 
-一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
+`Datawhale` 通过开源学习模式，助力 `AI` 学习者与知识连接，与人连接，与场景连接，推动 `AI` 人才培养:
 
-![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg) 
+![datawhale](https://images-1252557999.file.myqcloud.com/uPic/plDyMy.png) 
 
 ## ✍️ 说明
 
