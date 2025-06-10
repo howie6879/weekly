@@ -5,94 +5,100 @@
 
 ## 🎯 项目 
 
-### [sonic](https://github.com/go-sonic/sonic)
+### [halo](https://github.com/halo-dev/halo)
 
-`Sonic` 是 `Go` 开发的博客平台，简单而强大：
+✍ 一款现代化的开源博客& `CMS` 系统：
 
-![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
+![halo](https://images-1252557999.file.myqcloud.com/uPic/halo.jpg) 
 
-### [pushdeer](https://github.com/easychen/pushdeer)
+### [scira](https://github.com/zaidmukaddam/scira)
 
-开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备：
+`Scira` 是一个简约的 AI 搜索引擎，它使用 `Vercel AI SDK` 和各种 API（如 Tavily、OpenWeather、Google Maps 等）来提供多样化的搜索功能，包括 AI 驱动的搜索、网页搜索、URL 特定搜索、天气查询、编程代码执行、地图导航、YouTube 视频搜索、学术论文搜索、X 社区帖子搜索、航班跟踪以及电影和电视节目信息获取。
 
-![pushdeer](https://images-1252557999.file.myqcloud.com/uPic/pushdeer.jpg) 
+![scira](https://images-1252557999.file.myqcloud.com/uPic/Qj6iDq.png) 
 
-### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
+### [social-auto-upload](https://github.com/dreammis/social-auto-upload)
 
-短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
+自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili：
 
-![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
+![social-auto-upload](https://images-1252557999.file.myqcloud.com/uPic/social-auto-upload.jpg) 
 
 ## 🤖 软件 
 
-### [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop)
+### [immersive-translate](https://github.com/immersive-translate/immersive-translate)
 
-`AirPods` 桌面用户体验增强程序(仅支持 Windows)：
+沉浸式双语网页翻译扩展：
 
-- 🔋 电池信息显示
-- 👂 自动人耳检测
-- 🚀 低音频延迟模式
-- 🌈 精美的动画
+- 智能识别网页主内容区进行翻译，区别于同类插件翻译网页所有区域的行为，降低对原网页的“侵入性”，增强译文的阅读体验，所以该扩展被命名为“沉浸式翻译”。
+- 双语显示，中文/英文对照（按照段落自然分割，或可设置为“将段落以句子分割”，实现每句话对照翻译）
+- 定制优化了常见的主流网站，比如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。
+- 支持 10 余种常见的翻译服务，包括 Deepl，谷歌，彩云小译，腾讯翻译君，百度翻译，火山翻译等。
+- 支持 PDF 文件双语翻译。
+- 支持 EPUB 电子书双语阅读，需配合 epub 在线阅读网站使用：https://epub-reader.online/  或  https://readwise.io/read
+- 提供多种译文样式选择，包括弱化、模糊、下划线、分隔线等样式，随心所欲的个性化你的翻译体验。
 
-![AirPodsDesktop](https://images-1252557999.file.myqcloud.com/uPic/AirPodsDesktop.gif) 
+![immersive-translate](https://images-1252557999.file.myqcloud.com/uPic/immersive-translate.jpg) 
 
-### [chatd.ai](https://www.chatd.ai/)
+### [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup)
 
-您自己的私人本地AI，可以阅读计算机上的文件然后与您的文件进行聊天，该软件目标如下：
+PC微信聊天记录数据导出工具
 
-- 一键式下载与启动。
-- 无需额外依赖。
-- 应用文件体积最小化。
-- 设计简单的大语言模型版本控制与分发系统。
-- 兼容所有主流操作系统。
-- 利用本地运行的优势，如访问本地文件系统。
-- 用户无需调整任何设置，大语言模型在他们的系统上即插即用。
+基于- wails开发 + React前端，实现PC端微信聊天记录一键导出功能。
+- 导出后数据可以做永久化保存，即使微信停止支持，聊天记录也可以随时查看。
+- 前端界面尽量与微信界面保持一致，减少使用成本。
+- 理论上支持所有Windows 32/64位微信版本。
 
-详情见介绍文章：[packaging-language-models-into-desktop-apps](https://www.bmacd.xyz/packaging-language-models-into-desktop-apps/) 
+![wechatDataBackup](https://images-1252557999.file.myqcloud.com/uPic/LJBaJf.png) 
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
+### [ezbookkeeping](https://github.com/mayswind/ezbookkeeping)
 
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+一个轻量级的个人记账应用程序，可以自托管，支持跨平台部署：
 
-![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
+![ezbookkeeping](https://images-1252557999.file.myqcloud.com/uPic/HRddhJ.png) 
 
 ## 👀 资料 
 
-### [通识千书书单-聪明的阅读者](https://docs.qq.com/sheet/DY2RmcVVMVE9Qd3JV?tab=BB08J2)
+### [Sora 学习手册](https://yunyinghui.feishu.cn/wiki/BaCEwe3AliqYERkc9dVcfW0BnXg)
 
-汇总聪明的阅读者里面出现的书单，可以选择最小单位的书单阅读：
+基于飞书文档发布，包含一些 `Sora` 介绍，第三方技术拆解分享，研究报告，案例等内容，比较浅显但是可以作为了解的途径，里面的联系方式**慎加**。 
 
-![聪明的阅读者](https://images-1252557999.file.myqcloud.com/uPic/聪明的阅读者.jpg) 
+### [dockerlabs](https://github.com/collabnix/dockerlabs)
 
-### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
+Docker 学习教程：
 
-![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
+- 适用于初中高级别学习者的免费平台
+- 超过500个高度互动的Docker教程和指南
+- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
 
-### [Al精选工具库](https://t16jzwqrzjx.feishu.cn/wiki/EsvowFAqFiTiYDkJgE0cWquPnWb)
+![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
 
-18 个模块 100 个 AI 工具：
+### [free-educa](https://github.com/free-educa/books)
 
-![ai_tools](https://images-1252557999.file.myqcloud.com/uPic/ai_tools.jpg) 
+`free-educa/books` 是一个开源书籍分享项目，提供了一个精选的编程和开发相关书籍收藏，涵盖了多种编程语言、网页开发、移动应用开发、软件工程、数据科学、DevOps、软件架构和网络安全等主题，鼓励社区成员贡献和共享资源。
+
+老胡将所有电子书打包好了 👉 https://pan.quark.cn/s/a3cf52f67ec0
+
+![free-educa](https://images-1252557999.file.myqcloud.com/uPic/free-educa.jpg) 
 
 ## 🕸 网站 
 
-### [emojiall](https://www.emojiall.com/)
+### [allthingsai](https://allthingsai.com/)
 
-网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
+提供完整的 `AI` 相关工具&服务资源：
 
-![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg) 
+![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
 
-### [musetransfer](https://musetransfer.com/)
+### [curated.design](https://www.curated.design/)
 
-`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
+网页设计灵感目录，比较全面的设计领域导航网站：
 
-![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
+![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
 
-### [datawhale.cn](https://www.datawhale.cn/home)
+### [装个机](https://zhuangit.ababtools.com/)
 
-`Datawhale` 通过开源学习模式，助力 `AI` 学习者与知识连接，与人连接，与场景连接，推动 `AI` 人才培养:
+一个全面的电脑系统安装指南，里面不仅包含了Windows、MacOS的具体下载资源还有“手把手”的安装攻略。
 
-![datawhale](https://images-1252557999.file.myqcloud.com/uPic/plDyMy.png) 
+![zhuangit](https://images-1252557999.file.myqcloud.com/uPic/IH6B8e.png) 
 
 ## ✍️ 说明
 
