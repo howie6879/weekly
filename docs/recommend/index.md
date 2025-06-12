@@ -5,99 +5,98 @@
 
 ## 🎯 项目 
 
-### [bore](https://github.com/ekzhang/bore)
+### [tiptop](https://github.com/nschloe/tiptop)
 
-`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
+类似`htop`的命令行系统资源监控工具：
 
-![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
+![tiptop](https://images-1252557999.file.myqcloud.com/uPic/tiptop.png) 
 
-### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
+### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
 
-如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
+阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
 
-- 教程
-- 软件
-- 工具&服务
-- 社区
-- ......
+如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
 
-你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
+![Infuse](https://images-1252557999.file.myqcloud.com/uPic/Fbred5.png) 
 
-- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
-- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
+### [kubesphere](https://github.com/kubesphere/kubesphere)
 
-![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
+`KubeSphere` 愿景是打造一个以 `Kubernetes` 为内核的 云原生分布式操作系统，它的架构可以非常方便地使第三方应用与云原生生态组件进行即插即用（plug-and-play）的集成，支持云原生应用在多云与多集群的统一分发和运维管理。`KubeSphere` 也是一个多租户容器平台，提供全栈的 IT 自动化运维的能力，简化企业的 DevOps 工作流。
 
-### [mayfly-go](https://github.com/dromara/mayfly-go)
-
-web 版 linux(终端[终端回放] 文件 脚本 进程 计划任务)、数据库（mysql postgres 达梦）、redis(单机 哨兵 集群)、mongo 统一管理操作平台：
-
-![mayfly-go](https://images-1252557999.file.myqcloud.com/uPic/mayfly-go.jpeg) 
+![kubesphere](https://images-1252557999.file.myqcloud.com/uPic/93hYoe.png) 
 
 ## 🤖 软件 
 
-### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+### [my-tv](https://github.com/lizongying/my-tv)
 
-`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+安卓电视直播软件，内置直播源：
 
-![appflowy](https://images-1252557999.file.myqcloud.com/uPic/JhzdLT.jpg) 
+![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
 
-### [Sucrose](https://github.com/Taiizor/Sucrose)
+### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
 
-`Sucrose` 是一款开源的桌面壁纸引擎，支持轻量和深色主题，适应多屏和各种分辨率，能创建响应媒体和系统状态的动态壁纸，支持自定义主题和从社区下载主题，优化了 `CPU` 和 `GPU` 使用，节能模式可在笔记本电脑上自动暂停壁纸:
+M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
 
-![Sucrose](https://images-1252557999.file.myqcloud.com/uPic/Sucrose.jpg) 
+| 功能                 | 支持       |
+| -------------------- | ---------- |
+| HLS协议点播源        | ✓          |
+| 自定义Http协议头下载 | ✓          |
+| 自定义KEY和IV解密    | ✓          |
+| 本地M3U8文件下载     | ✓          |
+| M3U8 直播源          | ✓          |
+| 标准 AES-128-CBC加密 | ✓          |
+| 标准 AES-196-CBC加密 | ✓          |
+| 标准 AES-256-CBC加密 | ✓          |
+| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
+| 网页嗅探视频源       | ✓          |
 
-### [Readhubn](https://github.com/shensven/Readhubn)
+![HLSDownloadShow](https://images-1252557999.file.myqcloud.com/uPic/HLSDownloadShow.gif) 
 
-如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
+### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
 
-![readhub](https://images-1252557999.file.myqcloud.com/uPic/pZfUjT.png) 
+跨平台的`youtube-dl`客户端：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png) 
 
 ## 👀 资料 
 
-### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
+### [LearnData-开源笔记](https://newzone.top/)
 
-从工程角度方方面面阐述了DevOps实施的过程:
+一份关于开源工具、效率方法、心理学探索的自我提升笔记：
 
-![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
+![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
 
-### [db-tutorial](https://github.com/dunwu/db-tutorial)
+### [Web Development History](https://webdevelopmenthistory.com/index/)
 
-💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
+`Web` 开发发展史文章系列：
 
-### [GolangStudy](https://github.com/cnymw/GolangStudy)
+![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
 
-《[GolangStudy](https://golangstudy.tech/)》：从简单到难最全总结，go基础，数据结构，算法，设计模式：
+### [Curosor 教程](https://www.lookai.top/cn/cursor/instruction/instruction)
 
-![GolangStudy](https://images-1252557999.file.myqcloud.com/uPic/GolangStudy.jpg) 
+零基础小白 `Cursor` 学习网站：
+
+![Curosor](https://images-1252557999.file.myqcloud.com/uPic/YIZShF.png) 
 
 ## 🕸 网站 
 
-### [userscloud](https://userscloud.com/)
+### [animatedknots](https://www.animatedknots.com/)
 
-免费使用的云空间分享网页：
+各种给绳子打结的姿势都可以在这里找到：
 
-![userscloud](https://images-1252557999.file.myqcloud.com/uPic/userscloud.jpg) 
+![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
 
-### [emojiall](https://www.emojiall.com/)
+### [sqlime](http://sqlime.org/)
 
-网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
+SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
 
-![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg) 
+![sqlime](https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg) 
 
-### [Qwerty Learner](https://qwerty.kaiyi.cool/gallery)
+### [goldprice.fun](https://goldprice.fun/)
 
-这也是一个开源项目，作者将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。
+查看国内国际金价，包含各金店品牌：
 
-网站提供了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 
-
-目前有两种方式使用这个项目：
-
-- 网站：推荐
-- VS Code插件
-
-![Qwerty](https://images-1252557999.file.myqcloud.com/uPic/tHD4ez.png) 
+![goldprice](https://images-1252557999.file.myqcloud.com/uPic/goldprice.jpg) 
 
 ## ✍️ 说明
 
