@@ -5,98 +5,108 @@
 
 ## 🎯 项目 
 
-### [tiptop](https://github.com/nschloe/tiptop)
+### [dashy](https://github.com/Lissy93/dashy)
 
-类似`htop`的命令行系统资源监控工具：
+可自我托管的个人自定义导航页：括状态检查，小部件，主题，图标包，UI编辑器等等：
 
-![tiptop](https://images-1252557999.file.myqcloud.com/uPic/tiptop.png) 
+![dashy](https://images-1252557999.file.myqcloud.com/uPic/dashy.jpg) 
 
-### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
+### [greppo](https://github.com/greppo-io/greppo)
 
-阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
+快速轻松地构建部署地理空间应用程序：
 
-如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
+![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
 
-![Infuse](https://images-1252557999.file.myqcloud.com/uPic/Fbred5.png) 
+### [devika](https://github.com/stitionai/devika "devika")
 
-### [kubesphere](https://github.com/kubesphere/kubesphere)
+Devika 是一名 Agentic AI 软件工程师，可以理解高级人类指令并将其分解到各个步骤，然后研究相关信息，并编写代码以实现给定的目标。
 
-`KubeSphere` 愿景是打造一个以 `Kubernetes` 为内核的 云原生分布式操作系统，它的架构可以非常方便地使第三方应用与云原生生态组件进行即插即用（plug-and-play）的集成，支持云原生应用在多云与多集群的统一分发和运维管理。`KubeSphere` 也是一个多租户容器平台，提供全栈的 IT 自动化运维的能力，简化企业的 DevOps 工作流。
+![devika](https://images-1252557999.file.myqcloud.com/uPic/devika.png)
 
-![kubesphere](https://images-1252557999.file.myqcloud.com/uPic/93hYoe.png) 
+Devika 旨在成为 Cognition AI 的 Devin 的竞争性开源替代品。 
 
 ## 🤖 软件 
 
-### [my-tv](https://github.com/lizongying/my-tv)
+### [NetNewsWire](https://netnewswire.com/)
 
-安卓电视直播软件，内置直播源：
+适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
 
-![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
+- 支持 Safari 扩展
+- 订阅源下载
+- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
+- 主题设置
+- 多窗口支持
 
-### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
+![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
 
-M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
+### [optimizer](https://github.com/hellzerg/optimizer)
 
-| 功能                 | 支持       |
-| -------------------- | ---------- |
-| HLS协议点播源        | ✓          |
-| 自定义Http协议头下载 | ✓          |
-| 自定义KEY和IV解密    | ✓          |
-| 本地M3U8文件下载     | ✓          |
-| M3U8 直播源          | ✓          |
-| 标准 AES-128-CBC加密 | ✓          |
-| 标准 AES-196-CBC加密 | ✓          |
-| 标准 AES-256-CBC加密 | ✓          |
-| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
-| 网页嗅探视频源       | ✓          |
+开源软件，让你的 `Windows` 电脑保持最大程度上的纯净，保证电脑性能：
 
-![HLSDownloadShow](https://images-1252557999.file.myqcloud.com/uPic/HLSDownloadShow.gif) 
+![optimizer](https://images-1252557999.file.myqcloud.com/uPic/optimizer.jpg) 
 
-### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
+### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 
-跨平台的`youtube-dl`客户端：
+这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
 
-![](https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png) 
+`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
+
+- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
+  
+- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
+  
+
+![neteasy](https://images-1252557999.file.myqcloud.com/uPic/neteasy.png) 
 
 ## 👀 资料 
 
-### [LearnData-开源笔记](https://newzone.top/)
+### [visualize-ml](https://github.com/visualize-ml)
 
-一份关于开源工具、效率方法、心理学探索的自我提升笔记：
+鸢尾花书：从加减乘除到机器学习，全套7册。
 
-![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
+![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
 
-### [Web Development History](https://webdevelopmenthistory.com/index/)
+### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
-`Web` 开发发展史文章系列：
+微软开源的一份全面的数据科学课程，20个课时，历时10周：
 
-![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
+![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
 
-### [Curosor 教程](https://www.lookai.top/cn/cursor/instruction/instruction)
+### [大李敖全集5.0](https://books.leeao.net/)
 
-零基础小白 `Cursor` 学习网站：
+大李敖全集：
 
-![Curosor](https://images-1252557999.file.myqcloud.com/uPic/YIZShF.png) 
+![leeao](https://images-1252557999.file.myqcloud.com/uPic/UDFeW1.png) 
 
 ## 🕸 网站 
 
-### [animatedknots](https://www.animatedknots.com/)
+### [transhumans](https://www.transhumans.xyz/)
 
-各种给绳子打结的姿势都可以在这里找到：
+免费可商用的人物插图：
 
-![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
+![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
 
-### [sqlime](http://sqlime.org/)
+### [flow](https://github.com/pacexy/flow)
 
-SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
+开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
 
-![sqlime](https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg) 
+![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
 
-### [goldprice.fun](https://goldprice.fun/)
+### [json4u](https://json4u.cn/)
 
-查看国内国际金价，包含各金店品牌：
+一个功能非常强大的 json 可视化和处理工具，提供图形和表格视图模式，支持结构化和文本比较、错误上下文验证、嵌套解析等功能，并且具有用户友好的界面设计：
 
-![goldprice](https://images-1252557999.file.myqcloud.com/uPic/goldprice.jpg) 
+- 图形和表格视图模式
+- 结构化和文本比较
+- 使用错误上下文进行验证
+- 嵌套解析
+- 支持jq
+- 导入和导出CSV文件
+- 设计良好且易于使用的UI
+
+![json4u](https://images-1252557999.file.myqcloud.com/uPic/gr5lnQ.png)
+
+代码是[开源](https://github.com/loggerhead/json4u/)的。 
 
 ## ✍️ 说明
 
