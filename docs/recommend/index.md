@@ -5,108 +5,85 @@
 
 ## 🎯 项目 
 
-### [dashy](https://github.com/Lissy93/dashy)
+### [notion-blog](https://github.com/ijjk/notion-blog)
 
-可自我托管的个人自定义导航页：括状态检查，小部件，主题，图标包，UI编辑器等等：
+基于 `Notion` 构建静态站点：
 
-![dashy](https://images-1252557999.file.myqcloud.com/uPic/dashy.jpg) 
+![notion-blog](https://images-1252557999.file.myqcloud.com/uPic/notion-blog.jpg) 
 
-### [greppo](https://github.com/greppo-io/greppo)
+### [draw-a-ui](https://github.com/SawyerHood/draw-a-ui)
 
-快速轻松地构建部署地理空间应用程序：
+利用 `tldraw + gpt-4-vision api` 将绘制的图转换成 `html` 代码：
 
-![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
+![draw-a-ui](https://images-1252557999.file.myqcloud.com/uPic/draw-a-ui.gif) 
 
-### [devika](https://github.com/stitionai/devika "devika")
+### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
 
-Devika 是一名 Agentic AI 软件工程师，可以理解高级人类指令并将其分解到各个步骤，然后研究相关信息，并编写代码以实现给定的目标。
+动漫、电视剧的自动更新及在线观看，项目介绍：
 
-![devika](https://images-1252557999.file.myqcloud.com/uPic/devika.png)
+- 聚合各种阿里云盘资源
+- 实现动漫、电视剧、电影的自动更新
+- 通过docker部署的Alist项目，实现影视的在线搜索及观看
 
-Devika 旨在成为 Cognition AI 的 Devin 的竞争性开源替代品。 
+![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
 
 ## 🤖 软件 
 
-### [NetNewsWire](https://netnewswire.com/)
+### [CatchMouse](https://github.com/round/CatchMouse)
 
-适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
+如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
 
-- 支持 Safari 扩展
-- 订阅源下载
-- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
-- 主题设置
-- 多窗口支持
+### [Bonjourr](https://github.com/victrme/Bonjourr)
 
-![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
+`Bonjourr` 是法语你好的意思，这是一个简约漂亮的起始页浏览器插件：
 
-### [optimizer](https://github.com/hellzerg/optimizer)
+![Bonjourr](https://images-1252557999.file.myqcloud.com/uPic/Bonjourr.jpg) 
 
-开源软件，让你的 `Windows` 电脑保持最大程度上的纯净，保证电脑性能：
+### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-![optimizer](https://images-1252557999.file.myqcloud.com/uPic/optimizer.jpg) 
+一个开源的YouTube应用程序，旨在保护隐私：
 
-### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
-
-这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
-
-`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
-
-- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
-  
-- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
-  
-
-![neteasy](https://images-1252557999.file.myqcloud.com/uPic/neteasy.png) 
+![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
 
 ## 👀 资料 
 
-### [visualize-ml](https://github.com/visualize-ml)
+### [通往AGI之路](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
 
-鸢尾花书：从加减乘除到机器学习，全套7册。
+汇聚了互联网上的一些 `AGI` 教程，资源大家看了觉得有用即可，文章底部有微信引流，如果里面需要付费请慎重：
 
-![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
+![ywh1bkansf](https://images-1252557999.file.myqcloud.com/uPic/ywh1bkansf.jpg) 
 
-### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+### [easy-rl](https://github.com/datawhalechina/easy-rl)
 
-微软开源的一份全面的数据科学课程，20个课时，历时10周：
+强化学习中文教程：
 
-![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
+![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
 
-### [大李敖全集5.0](https://books.leeao.net/)
+### [udlbook](https://udlbook.github.io/udlbook/)
 
-大李敖全集：
+麻省理工出品的免费电子书《理解深度学习》：
 
-![leeao](https://images-1252557999.file.myqcloud.com/uPic/UDFeW1.png) 
+![udlbook](https://images-1252557999.file.myqcloud.com/uPic/udlbook.jpg) 
 
 ## 🕸 网站 
 
-### [transhumans](https://www.transhumans.xyz/)
+### [ocr.plantree.me](https://ocr.plantree.me/ocr)
 
-免费可商用的人物插图：
+一个基于 `Tesseract` 的简单 `OCR` 软件：
 
-![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
+![plantree](https://images-1252557999.file.myqcloud.com/uPic/plantree.jpg) 
 
-### [flow](https://github.com/pacexy/flow)
+### [ossinsight](https://ossinsight.io/)
 
-开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
+`GitHub` 曾经发通知说在未来某个时间下架 `GitHub Trending`，由于反对声音比较大，所以还保留着 [ossinsight.io](https://ossinsight.io/) 就是做的比较好的替代品：
 
-![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
+![ossinsight](https://images-1252557999.file.myqcloud.com/uPic/ossinsight.jpg) 
 
-### [json4u](https://json4u.cn/)
+### [cook](https://github.com/YunYouJun/cook)
 
-一个功能非常强大的 json 可视化和处理工具，提供图形和表格视图模式，支持结构化和文本比较、错误上下文验证、嵌套解析等功能，并且具有用户友好的界面设计：
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-- 图形和表格视图模式
-- 结构化和文本比较
-- 使用错误上下文进行验证
-- 嵌套解析
-- 支持jq
-- 导入和导出CSV文件
-- 设计良好且易于使用的UI
-
-![json4u](https://images-1252557999.file.myqcloud.com/uPic/gr5lnQ.png)
-
-代码是[开源](https://github.com/loggerhead/json4u/)的。 
+![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
 
 ## ✍️ 说明
 
