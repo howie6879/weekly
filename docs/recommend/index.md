@@ -5,85 +5,90 @@
 
 ## 🎯 项目 
 
-### [notion-blog](https://github.com/ijjk/notion-blog)
+### [autocorrect](https://github.com/huacnlee/autocorrect)
 
-基于 `Notion` 构建静态站点：
+AutoCorrect 是一个基于 Rust 编写的工具，用于「自动纠正」或「检查并建议」文案，给 CJK（中文、日语、韩语）与英文混写的场景，补充正确的空格，纠正单词，同时尝试以安全的方式自动纠正标点符号等等。
 
-![notion-blog](https://images-1252557999.file.myqcloud.com/uPic/notion-blog.jpg) 
+类似 ESlint、Rubocop、Gofmt 等工具，AutoCorrect 可以用于 CI 环境，它提供 Lint 功能，能便捷的检测出项目中有问题的文案，起到统一规范的作用。
 
-### [draw-a-ui](https://github.com/SawyerHood/draw-a-ui)
+支持各种类型源代码文件，能自动识别文件名，并准确找到字符串、注释做自动纠正。
 
-利用 `tldraw + gpt-4-vision api` 将绘制的图转换成 `html` 代码：
+![autocorrect](https://images-1252557999.file.myqcloud.com/uPic/autocorrect.png) 
 
-![draw-a-ui](https://images-1252557999.file.myqcloud.com/uPic/draw-a-ui.gif) 
+### [docker-kms](https://github.com/11notes/docker-kms)
 
-### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
+`Docker-kms` 是用于永久激活任何版本的 `Windows` 和 `Office` 的 `Docker` 容器服务：
 
-动漫、电视剧的自动更新及在线观看，项目介绍：
+![docker-kms](https://images-1252557999.file.myqcloud.com/uPic/VHsPkb.png) 
 
-- 聚合各种阿里云盘资源
-- 实现动漫、电视剧、电影的自动更新
-- 通过docker部署的Alist项目，实现影视的在线搜索及观看
+### [statping](https://github.com/statping/statping)
 
-![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
+一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
+
+![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
 
 ## 🤖 软件 
 
-### [CatchMouse](https://github.com/round/CatchMouse)
+### [MultiWeChatManager](https://github.com/wfql1024/MultiWeChatManager)
 
-如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
+懒得点？懒得扫码？那就交给它！🛠️ 这是一款专为 微信多开（未来也可以支持其他平台！！） 而设计的 自动化管理工具，支持 多号一键登录、全局多开、自启动登录、防撤回 等功能，是让你省心的好工具！🚀
 
-### [Bonjourr](https://github.com/victrme/Bonjourr)
+- 本项目通过查杀微信等平台的互斥体线程而实现多开
+- 选号登录是保存并应用微信等平台存储在本地的配置文件的过程
 
-`Bonjourr` 是法语你好的意思，这是一个简约漂亮的起始页浏览器插件：
+![MultiWeChatManager](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6215264216928076702-y.jpg)
 
-![Bonjourr](https://images-1252557999.file.myqcloud.com/uPic/Bonjourr.jpg) 
+**使用需谨慎，防止封号**，老胡概不负责。 
 
-### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
+### [FeHelper](https://github.com/zxlie/FeHelper)
 
-一个开源的YouTube应用程序，旨在保护隐私：
+`FeHelper`--Web 前端助手，提供了非常多的常用开发工具，支持 `Chrome&Firefox&MS-Edge`，是我浏览器必备的一款插件：
 
-![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
+![FeHelper](https://images-1252557999.file.myqcloud.com/uPic/FeHelper.png) 
+
+### [AdAway](https://github.com/AdAway/AdAway)
+
+是一款免费且开源的 `Android` 广告拦截器：
+
+![AdAway](https://images-1252557999.file.myqcloud.com/uPic/AdAway.jpg) 
 
 ## 👀 资料 
 
-### [通往AGI之路](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
+### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
 
-汇聚了互联网上的一些 `AGI` 教程，资源大家看了觉得有用即可，文章底部有微信引流，如果里面需要付费请慎重：
+左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
 
-![ywh1bkansf](https://images-1252557999.file.myqcloud.com/uPic/ywh1bkansf.jpg) 
+### [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
+一本由 GPT4 生成的中英词典，涵盖 8000 高频词汇：
 
-强化学习中文教程：
+![DictionaryByGPT4](https://images-1252557999.file.myqcloud.com/uPic/DictionaryByGPT4.png) 
 
-![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
+### [bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain)
 
-### [udlbook](https://udlbook.github.io/udlbook/)
+它为希望构建自己的基于检索增强生成（RAG）应用程序的开发者提供了一系列的资源和指导。该项目涵盖了从基础到高级的 RAG 实现，包括多查询、自定义 RAG 管道、高级检索和重排技术。仓库中包含了一系列的教程笔记本，这些笔记本详细介绍了 RAG 架构的设置、数据预处理、嵌入生成、向量存储、多查询技术、逻辑和语义路由、查询结构化、高级索引和检索技术等。
 
-麻省理工出品的免费电子书《理解深度学习》：
-
-![udlbook](https://images-1252557999.file.myqcloud.com/uPic/udlbook.jpg) 
+![bRAG-langchain](https://images-1252557999.file.myqcloud.com/uPic/u0SkKz.png) 
 
 ## 🕸 网站 
 
-### [ocr.plantree.me](https://ocr.plantree.me/ocr)
+### [whatslink](https://whatslink.info/)
 
-一个基于 `Tesseract` 的简单 `OCR` 软件：
+简单的 `DDL/Torrent/Ed2k`下载链接元数据查询服务，可以在下载之前帮助你预览目标链接内容：
 
-![plantree](https://images-1252557999.file.myqcloud.com/uPic/plantree.jpg) 
+![whatslink](https://images-1252557999.file.myqcloud.com/uPic/whatslink.jpg) 
 
-### [ossinsight](https://ossinsight.io/)
+### [apitracker](https://apitracker.io/)
 
-`GitHub` 曾经发通知说在未来某个时间下架 `GitHub Trending`，由于反对声音比较大，所以还保留着 [ossinsight.io](https://ossinsight.io/) 就是做的比较好的替代品：
+发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
 
-![ossinsight](https://images-1252557999.file.myqcloud.com/uPic/ossinsight.jpg) 
+![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
 
-### [cook](https://github.com/YunYouJun/cook)
+### [grep.app](https://grep.app/)
 
-一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
+从 50 万个开源仓库中搜索你需要的代码片段，搜索速度很快：
 
-![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
+![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
 
 ## ✍️ 说明
 
