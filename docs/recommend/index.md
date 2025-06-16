@@ -5,86 +5,90 @@
 
 ## 🎯 项目 
 
-### [devika](https://github.com/stitionai/devika "devika")
+### [homepage](https://github.com/benphelps/homepage)
 
-Devika 是一名 Agentic AI 软件工程师，可以理解高级人类指令并将其分解到各个步骤，然后研究相关信息，并编写代码以实现给定的目标。
+高度可定制的首页仪表板应用项目：
 
-![devika](https://images-1252557999.file.myqcloud.com/uPic/devika.png)
+![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
 
-Devika 旨在成为 Cognition AI 的 Devin 的竞争性开源替代品。 
+### [scira](https://github.com/zaidmukaddam/scira)
 
-### [sealos](https://github.com/fanux/sealos)
+`Scira` 是一个简约的 AI 搜索引擎，它使用 `Vercel AI SDK` 和各种 API（如 Tavily、OpenWeather、Google Maps 等）来提供多样化的搜索功能，包括 AI 驱动的搜索、网页搜索、URL 特定搜索、天气查询、编程代码执行、地图导航、YouTube 视频搜索、学术论文搜索、X 社区帖子搜索、航班跟踪以及电影和电视节目信息获取。
 
-一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
+![scira](https://images-1252557999.file.myqcloud.com/uPic/Qj6iDq.png) 
 
-### [iptv-api](https://github.com/Guovin/iptv-api)
+### [think](https://github.com/fantasticit/think)
 
-自定义频道，自动获取直播源接口，测速验证后生成可用的结果，默认结果包含：📺央视频道、💰央视付费频道、📡卫视频道、🏠广东频道、🌊港·澳·台频道、🎬电影频道、🎥咪咕直播、🏀体育频道、🪁动画频道、🎮游戏频道、🎵音乐频道、🏛经典剧场。
+云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通：
 
-- ✅ 自定义模板，生成您想要的频道
-- ✅ 支持多种获取源方式：组播源、酒店源、订阅源、关键字搜索
-- ✅ 接口测速验效，响应时间、分辨率优先级，过滤无效接口
-- ✅ 偏好设置：IPv6、接口来源排序优先级与数量配置、接口白名单
-- ✅ 定时执行，北京时间每日 6:00 与 18:00 执行更新
-- ✅ 支持多种运行方式：工作流、命令行、GUI 软件、Docker(amd64/arm64/arm v7) 
+![think](https://images-1252557999.file.myqcloud.com/uPic/think.jpg) 
 
 ## 🤖 软件 
 
-### [Thor](https://github.com/gbammc/Thor)
+### [zen](https://github.com/anfragment/zen)
 
-通过快捷键快速打开应用：
+简单、免费且高效的广告拦截器和隐私保护工具，适用于Windows、macOS和Linux。它通过设置代理来拦截所有应用程序发出的HTTP请求，并阻止那些提供广告、跟踪脚本（监控您行为）、恶意软件和其他不需要的内容的请求。由于在系统级别运行，Zen可以防御浏览器扩展无法处理的威胁，例如嵌入在桌面应用程序和操作系统组件中的跟踪器。
 
-![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
+![zen](https://images-1252557999.file.myqcloud.com/uPic/zen.jpg) 
 
-### [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
+### [Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper)
 
-使用 Android 原生开发的电视直播软件：
+李跳跳下线了，还有开源的出来，开屏跳过-安卓系统的开屏广告自动跳过助手。
 
-![mytv-android](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/mytv-android.jpg)
+**开屏跳过**可以帮助用户自动跳过一些应用的开屏广告，基于Android的无障碍服务实现。
 
-老胡试了不是很稳定，大家可根据地域使用测试。 
+使用广告跳过程序，最大的风险是个人隐私被泄露。`因为这种软件都需要开启Accessibility` 无障碍服务，可以获取屏幕上的**所有内容**，从而可以检测广告，帮助用户自动跳过。
 
-### [oneAnime](https://github.com/Predidit/oneAnime)
+本程序是开源程序，不需要网络权限，不需要存储权限，不会收集或者上传任何信息！绝无隐私问题：
 
-一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范：
+![Android-Touch-Helper](https://images-1252557999.file.myqcloud.com/uPic/Android-Touch-Helper.jpg) 
 
-![oneAnime](https://images-1252557999.file.myqcloud.com/uPic/oneAnime.jpg) 
+### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
+
+跨平台的`youtube-dl`客户端：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png) 
 
 ## 👀 资料 
 
-### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
+### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
-该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
+本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
 
-### [如何制作落地页](https://www.bmms.me/blog/landing-page)
+### [react-illustration-series](https://github.com/7kms/react-illustration-series)
 
-如果你想要看到比较系统全面的落地页操作指南，这篇文章是作者小吉拆解了国内外 117 个优秀的落地页案例，总结提炼出的保姆级入门指南：
+图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
 
-![landing-page](https://images-1252557999.file.myqcloud.com/uPic/landing-page.jpg) 
+### [missing-semester-cn](https://missing-semester-cn.github.io/)
 
-### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
+计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
 
-Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
+在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
+
+![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
 
 ## 🕸 网站 
 
-### [huggingface-spaces](https://huggingface.co/spaces)
+### [装个机](https://zhuangit.ababtools.com/)
 
-`Hugging Face Spaces`  导航。内含 30 个 AI 分类，超 40 万个 Space，支持自然语言搜索功能：
+一个全面的电脑系统安装指南，里面不仅包含了Windows、MacOS的具体下载资源还有“手把手”的安装攻略。
 
-![huggingface-spaces](https://images-1252557999.file.myqcloud.com/uPic/jG93mK.png) 
+![zhuangit](https://images-1252557999.file.myqcloud.com/uPic/IH6B8e.png) 
 
-### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
+### [svgl.app](https://svgl.app/)
 
-冰霜大佬的博客：
+漂亮的 `SVG` 图标库，使用 `Sveltekit` 和 `Tailwind CSS` 构建：
 
-![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
+- 官网：https://svgl.app/
+- 开源：[pheralb/svgl](https://github.com/pheralb/svgl)
 
-### [tailspark](https://tailspark.co/)
+![svgl](https://images-1252557999.file.myqcloud.com/uPic/svgl.jpg) 
 
-`300+` 免费的 `TailwindCSS` 组件和模板，让您在几分钟内构建网站，颜值也非常高：
+### [短剧搜索引擎](https://www.fre123.com/sp?ref=weekly)
 
-![tailspark](https://images-1252557999.file.myqcloud.com/uPic/tailspark.jpg) 
+比较全面的短剧搜索引擎，数据在夸克网盘，转存即可免费观看全部：
+
+![sp](https://images-1252557999.file.myqcloud.com/uPic/sp.jpg) 
 
 ## ✍️ 说明
 
