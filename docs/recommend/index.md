@@ -5,90 +5,86 @@
 
 ## 🎯 项目 
 
-### [autocorrect](https://github.com/huacnlee/autocorrect)
+### [devika](https://github.com/stitionai/devika "devika")
 
-AutoCorrect 是一个基于 Rust 编写的工具，用于「自动纠正」或「检查并建议」文案，给 CJK（中文、日语、韩语）与英文混写的场景，补充正确的空格，纠正单词，同时尝试以安全的方式自动纠正标点符号等等。
+Devika 是一名 Agentic AI 软件工程师，可以理解高级人类指令并将其分解到各个步骤，然后研究相关信息，并编写代码以实现给定的目标。
 
-类似 ESlint、Rubocop、Gofmt 等工具，AutoCorrect 可以用于 CI 环境，它提供 Lint 功能，能便捷的检测出项目中有问题的文案，起到统一规范的作用。
+![devika](https://images-1252557999.file.myqcloud.com/uPic/devika.png)
 
-支持各种类型源代码文件，能自动识别文件名，并准确找到字符串、注释做自动纠正。
+Devika 旨在成为 Cognition AI 的 Devin 的竞争性开源替代品。 
 
-![autocorrect](https://images-1252557999.file.myqcloud.com/uPic/autocorrect.png) 
+### [sealos](https://github.com/fanux/sealos)
 
-### [docker-kms](https://github.com/11notes/docker-kms)
+一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
 
-`Docker-kms` 是用于永久激活任何版本的 `Windows` 和 `Office` 的 `Docker` 容器服务：
+### [iptv-api](https://github.com/Guovin/iptv-api)
 
-![docker-kms](https://images-1252557999.file.myqcloud.com/uPic/VHsPkb.png) 
+自定义频道，自动获取直播源接口，测速验证后生成可用的结果，默认结果包含：📺央视频道、💰央视付费频道、📡卫视频道、🏠广东频道、🌊港·澳·台频道、🎬电影频道、🎥咪咕直播、🏀体育频道、🪁动画频道、🎮游戏频道、🎵音乐频道、🏛经典剧场。
 
-### [statping](https://github.com/statping/statping)
-
-一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
-
-![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
+- ✅ 自定义模板，生成您想要的频道
+- ✅ 支持多种获取源方式：组播源、酒店源、订阅源、关键字搜索
+- ✅ 接口测速验效，响应时间、分辨率优先级，过滤无效接口
+- ✅ 偏好设置：IPv6、接口来源排序优先级与数量配置、接口白名单
+- ✅ 定时执行，北京时间每日 6:00 与 18:00 执行更新
+- ✅ 支持多种运行方式：工作流、命令行、GUI 软件、Docker(amd64/arm64/arm v7) 
 
 ## 🤖 软件 
 
-### [MultiWeChatManager](https://github.com/wfql1024/MultiWeChatManager)
+### [Thor](https://github.com/gbammc/Thor)
 
-懒得点？懒得扫码？那就交给它！🛠️ 这是一款专为 微信多开（未来也可以支持其他平台！！） 而设计的 自动化管理工具，支持 多号一键登录、全局多开、自启动登录、防撤回 等功能，是让你省心的好工具！🚀
+通过快捷键快速打开应用：
 
-- 本项目通过查杀微信等平台的互斥体线程而实现多开
-- 选号登录是保存并应用微信等平台存储在本地的配置文件的过程
+![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
 
-![MultiWeChatManager](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6215264216928076702-y.jpg)
+### [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
 
-**使用需谨慎，防止封号**，老胡概不负责。 
+使用 Android 原生开发的电视直播软件：
 
-### [FeHelper](https://github.com/zxlie/FeHelper)
+![mytv-android](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/mytv-android.jpg)
 
-`FeHelper`--Web 前端助手，提供了非常多的常用开发工具，支持 `Chrome&Firefox&MS-Edge`，是我浏览器必备的一款插件：
+老胡试了不是很稳定，大家可根据地域使用测试。 
 
-![FeHelper](https://images-1252557999.file.myqcloud.com/uPic/FeHelper.png) 
+### [oneAnime](https://github.com/Predidit/oneAnime)
 
-### [AdAway](https://github.com/AdAway/AdAway)
+一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范：
 
-是一款免费且开源的 `Android` 广告拦截器：
-
-![AdAway](https://images-1252557999.file.myqcloud.com/uPic/AdAway.jpg) 
+![oneAnime](https://images-1252557999.file.myqcloud.com/uPic/oneAnime.jpg) 
 
 ## 👀 资料 
 
-### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
+### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
 
-左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
+该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
 
-### [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)
+### [如何制作落地页](https://www.bmms.me/blog/landing-page)
 
-一本由 GPT4 生成的中英词典，涵盖 8000 高频词汇：
+如果你想要看到比较系统全面的落地页操作指南，这篇文章是作者小吉拆解了国内外 117 个优秀的落地页案例，总结提炼出的保姆级入门指南：
 
-![DictionaryByGPT4](https://images-1252557999.file.myqcloud.com/uPic/DictionaryByGPT4.png) 
+![landing-page](https://images-1252557999.file.myqcloud.com/uPic/landing-page.jpg) 
 
-### [bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain)
+### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
 
-它为希望构建自己的基于检索增强生成（RAG）应用程序的开发者提供了一系列的资源和指导。该项目涵盖了从基础到高级的 RAG 实现，包括多查询、自定义 RAG 管道、高级检索和重排技术。仓库中包含了一系列的教程笔记本，这些笔记本详细介绍了 RAG 架构的设置、数据预处理、嵌入生成、向量存储、多查询技术、逻辑和语义路由、查询结构化、高级索引和检索技术等。
-
-![bRAG-langchain](https://images-1252557999.file.myqcloud.com/uPic/u0SkKz.png) 
+Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
 
 ## 🕸 网站 
 
-### [whatslink](https://whatslink.info/)
+### [huggingface-spaces](https://huggingface.co/spaces)
 
-简单的 `DDL/Torrent/Ed2k`下载链接元数据查询服务，可以在下载之前帮助你预览目标链接内容：
+`Hugging Face Spaces`  导航。内含 30 个 AI 分类，超 40 万个 Space，支持自然语言搜索功能：
 
-![whatslink](https://images-1252557999.file.myqcloud.com/uPic/whatslink.jpg) 
+![huggingface-spaces](https://images-1252557999.file.myqcloud.com/uPic/jG93mK.png) 
 
-### [apitracker](https://apitracker.io/)
+### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
 
-发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
+冰霜大佬的博客：
 
-![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
+![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
 
-### [grep.app](https://grep.app/)
+### [tailspark](https://tailspark.co/)
 
-从 50 万个开源仓库中搜索你需要的代码片段，搜索速度很快：
+`300+` 免费的 `TailwindCSS` 组件和模板，让您在几分钟内构建网站，颜值也非常高：
 
-![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
+![tailspark](https://images-1252557999.file.myqcloud.com/uPic/tailspark.jpg) 
 
 ## ✍️ 说明
 
