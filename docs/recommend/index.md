@@ -5,90 +5,86 @@
 
 ## 🎯 项目 
 
-### [homepage](https://github.com/benphelps/homepage)
+### [qrbtf](https://github.com/ciaochaos/qrbtf)
 
-高度可定制的首页仪表板应用项目：
+艺术二维码生成器：
 
-![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
+![qrbtf](https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg) 
 
-### [scira](https://github.com/zaidmukaddam/scira)
+### [stablog](https://github.com/YaoZeyuan/stablog)
 
-`Scira` 是一个简约的 AI 搜索引擎，它使用 `Vercel AI SDK` 和各种 API（如 Tavily、OpenWeather、Google Maps 等）来提供多样化的搜索功能，包括 AI 驱动的搜索、网页搜索、URL 特定搜索、天气查询、编程代码执行、地图导航、YouTube 视频搜索、学术论文搜索、X 社区帖子搜索、航班跟踪以及电影和电视节目信息获取。
+稳部落项目是一个基于微博现有接口和 TypeScript 构建的工具，旨在为微博用户提供便捷的微博记录备份与导出服务。 
 
-![scira](https://images-1252557999.file.myqcloud.com/uPic/Qj6iDq.png) 
+### [clone-voice](https://github.com/jianchang512/clone-voice)
 
-### [think](https://github.com/fantasticit/think)
+一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频：
 
-云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通：
-
-![think](https://images-1252557999.file.myqcloud.com/uPic/think.jpg) 
+![clone-voice](https://images-1252557999.file.myqcloud.com/uPic/clone-voice.png) 
 
 ## 🤖 软件 
 
-### [zen](https://github.com/anfragment/zen)
+### [Gif123](https://github.com/aardio/Gif123)
 
-简单、免费且高效的广告拦截器和隐私保护工具，适用于Windows、macOS和Linux。它通过设置代理来拦截所有应用程序发出的HTTP请求，并阻止那些提供广告、跟踪脚本（监控您行为）、恶意软件和其他不需要的内容的请求。由于在系统级别运行，Zen可以防御浏览器扩展无法处理的威胁，例如嵌入在桌面应用程序和操作系统组件中的跟踪器。
+非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
 
-![zen](https://images-1252557999.file.myqcloud.com/uPic/zen.jpg) 
+![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg) 
 
-### [Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper)
+### [Maccy](https://github.com/p0deje/Maccy)
 
-李跳跳下线了，还有开源的出来，开屏跳过-安卓系统的开屏广告自动跳过助手。
+轻量级macOS剪切板管理应用：
 
-**开屏跳过**可以帮助用户自动跳过一些应用的开屏广告，基于Android的无障碍服务实现。
+![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
+使用截图如下：
 
-使用广告跳过程序，最大的风险是个人隐私被泄露。`因为这种软件都需要开启Accessibility` 无障碍服务，可以获取屏幕上的**所有内容**，从而可以检测广告，帮助用户自动跳过。
+![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
 
-本程序是开源程序，不需要网络权限，不需要存储权限，不会收集或者上传任何信息！绝无隐私问题：
+### [iina](https://github.com/iina/iina)
 
-![Android-Touch-Helper](https://images-1252557999.file.myqcloud.com/uPic/Android-Touch-Helper.jpg) 
+macOS 下的开源现代化视频播放器，我的必备软件：
 
-### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
-
-跨平台的`youtube-dl`客户端：
-
-![](https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png) 
+![iina](https://images-1252557999.file.myqcloud.com/uPic/iina.jpg) 
 
 ## 👀 资料 
 
-### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
 
-本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
+[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
 
-### [react-illustration-series](https://github.com/7kms/react-illustration-series)
+目前也提供了中文版：
 
-图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
+![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
 
-### [missing-semester-cn](https://missing-semester-cn.github.io/)
+### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
 
-计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
+陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
 
-在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
+![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
 
-![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
+### [one-python-craftsman](https://github.com/piglei/one-python-craftsman)
+
+来自一位 `Pythonista` 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面：
+
+![one-python-craftsman](https://images-1252557999.file.myqcloud.com/uPic/one-python-craftsman.jpg) 
 
 ## 🕸 网站 
 
-### [装个机](https://zhuangit.ababtools.com/)
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
 
-一个全面的电脑系统安装指南，里面不仅包含了Windows、MacOS的具体下载资源还有“手把手”的安装攻略。
+PDF Squeezer 是一款 PDF 压缩工具：
 
-![zhuangit](https://images-1252557999.file.myqcloud.com/uPic/IH6B8e.png) 
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
-### [svgl.app](https://svgl.app/)
+### [apivault.dev](https://apivault.dev/)
 
-漂亮的 `SVG` 图标库，使用 `Sveltekit` 和 `Tailwind CSS` 构建：
+免费开源的公共 `API` 网站：
 
-- 官网：https://svgl.app/
-- 开源：[pheralb/svgl](https://github.com/pheralb/svgl)
+![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
 
-![svgl](https://images-1252557999.file.myqcloud.com/uPic/svgl.jpg) 
+### [send.internxt.com](https://send.internxt.com/)
 
-### [短剧搜索引擎](https://www.fre123.com/sp?ref=weekly)
+文件上传分享网站，如果有临时文件传输的场景，可以使用：
 
-比较全面的短剧搜索引擎，数据在夸克网盘，转存即可免费观看全部：
-
-![sp](https://images-1252557999.file.myqcloud.com/uPic/sp.jpg) 
+![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
 
 ## ✍️ 说明
 
