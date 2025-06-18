@@ -5,86 +5,99 @@
 
 ## 🎯 项目 
 
-### [qrbtf](https://github.com/ciaochaos/qrbtf)
+### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
 
-艺术二维码生成器：
+阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
 
-![qrbtf](https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg) 
+如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
 
-### [stablog](https://github.com/YaoZeyuan/stablog)
+![Infuse](https://images-1252557999.file.myqcloud.com/uPic/Fbred5.png) 
 
-稳部落项目是一个基于微博现有接口和 TypeScript 构建的工具，旨在为微博用户提供便捷的微博记录备份与导出服务。 
+### [rembg](https://github.com/danielgatis/rembg)
 
-### [clone-voice](https://github.com/jianchang512/clone-voice)
+之前有介绍过一个去除图片背景的网站-[remove.bg](https://www.remove.bg/zh)，这网站虽然免费，但是高清版本的图片下载需要收费，现在这个开源的图片背景去除项目将完全解决这个问题：
 
-一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频：
+![rembg](https://images-1252557999.file.myqcloud.com/uPic/rembg.jpg)
 
-![clone-voice](https://images-1252557999.file.myqcloud.com/uPic/clone-voice.png) 
+你可以作为第三方库使用，也在终端以及启用服务化来使用。 
+
+### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
+
+🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
+
+![Real-CUGAN](https://images-1252557999.file.myqcloud.com/uPic/hWiOCH.jpg) 
 
 ## 🤖 软件 
 
-### [Gif123](https://github.com/aardio/Gif123)
+### [aidea](https://github.com/mylxsw/aidea)
 
-非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
+一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：
 
-![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg) 
+- 支持 GPT-3.5/4 问答聊天
+- 支持国产模型：通义千问，文心一言
+- 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
 
-### [Maccy](https://github.com/p0deje/Maccy)
+![aidea](https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg) 
 
-轻量级macOS剪切板管理应用：
+### [GeekDesk](https://github.com/BookerLiu/GeekDesk)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
-使用截图如下：
+小巧、美观的桌面快速启动管理工具，同时集成了 `Everything` 搜索，仅支持 `Windows`：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
+![GeekDesk](https://images-1252557999.file.myqcloud.com/uPic/GeekDesk.png) 
 
-### [iina](https://github.com/iina/iina)
+### [PicHoro](https://github.com/Kuingsmile/PicHoro "PicHoro")
 
-macOS 下的开源现代化视频播放器，我的必备软件：
+多功能云存储管理工具，集图床管理、文件传输于一体。支持多平台且功能全面：
 
-![iina](https://images-1252557999.file.myqcloud.com/uPic/iina.jpg) 
+- 直接管理多种云存储平台
+- 便捷上传和下载文件
+- 兼容 S3 API，轻松集成现有系统
+
+![PicHoro](https://images-1252557999.file.myqcloud.com/uPic/PicHoro.jpg) 
 
 ## 👀 资料 
 
-### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
+### [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
-[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
+Model Context Protocol(MCP) 编程极速入门：
 
-目前也提供了中文版：
+![MCP-Chinese-Getting-Started-Guide](https://images-1252557999.file.myqcloud.com/uPic/ORcZa8.png) 
 
-![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
+### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
 
-### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
+《Software Engineering at Google》的中文翻译版本：
 
-陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
+![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
 
-![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-### [one-python-craftsman](https://github.com/piglei/one-python-craftsman)
-
-来自一位 `Pythonista` 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面：
-
-![one-python-craftsman](https://images-1252557999.file.myqcloud.com/uPic/one-python-craftsman.jpg) 
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
 ## 🕸 网站 
 
-### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
+### [duckduckgo-chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
 
-PDF Squeezer 是一款 PDF 压缩工具：
+`DuckDuckGo` 开放了免费的 `AI` 聊天机器人，支持模型有：
 
-![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
+- GPT-3.5 Turbo
+- Claude 1.2 Instant
 
-### [apivault.dev](https://apivault.dev/)
+![duckduckgo_chat](https://images-1252557999.file.myqcloud.com/uPic/duckduckgo_chat.jpg) 
 
-免费开源的公共 `API` 网站：
+### [ugly-avatar](https://txstc55.github.io/ugly-avatar/ "ugly-avatar")
 
-![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
+挺有意思的项目，专门生成丑丑贱贱的头像：
 
-### [send.internxt.com](https://send.internxt.com/)
+- 网站：https://txstc55.github.io/ugly-avatar/
+- GitHub：https://github.com/txstc55/ugly-avatar
 
-文件上传分享网站，如果有临时文件传输的场景，可以使用：
+![ugly-avatar](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-03-26_22-03-17.jpg) 
 
-![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
+### [必应壁纸](https://bing.ioliu.cn/)
+
+收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
+
+![bing](https://images-1252557999.file.myqcloud.com/uPic/bing.jpg) 
 
 ## ✍️ 说明
 
