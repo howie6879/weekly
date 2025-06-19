@@ -5,99 +5,110 @@
 
 ## 🎯 项目 
 
-### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
+### [duplicati](https://github.com/duplicati/duplicati)
 
-阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
+Duplicati 是一个免费的开源备份客户端，可将加密的、增量的、压缩的备份安全地存储在云存储服务和远程文件服务器上:
 
-如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
+![duplicati](https://images-1252557999.file.myqcloud.com/uPic/duplicati.jpg) 
 
-![Infuse](https://images-1252557999.file.myqcloud.com/uPic/Fbred5.png) 
+### [plasmo](https://github.com/PlasmoHQ/plasmo)
 
-### [rembg](https://github.com/danielgatis/rembg)
+`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
 
-之前有介绍过一个去除图片背景的网站-[remove.bg](https://www.remove.bg/zh)，这网站虽然免费，但是高清版本的图片下载需要收费，现在这个开源的图片背景去除项目将完全解决这个问题：
+- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
+- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
+- 热重载
+- [`.env*`  文件](https://docs.plasmo.com/framework/env)
+- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
+- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
+- 还有更多!  🚀
 
-![rembg](https://images-1252557999.file.myqcloud.com/uPic/rembg.jpg)
+![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
 
-你可以作为第三方库使用，也在终端以及启用服务化来使用。 
+更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
 
-### [Real-CUGAN](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
+### [akile_monitor](https://github.com/akile-network/akile_monitor)
 
-🔥 Real-CUGAN🔥 是一个使用百万级动漫数据进行训练的，结构与Waifu2x兼容的通用动漫图像超分辨率模型。它支持2x\\3x\\4x倍超分辨率，其中2倍模型支持4种降噪强度与保守修复，3倍/4倍模型支持2种降噪强度与保守修复。
+一个开源的监控工具项目，提供服务器状态监控功能，并且支持前后端一键部署：
 
-![Real-CUGAN](https://images-1252557999.file.myqcloud.com/uPic/hWiOCH.jpg) 
+![akile_monitor](https://images-1252557999.file.myqcloud.com/uPic/0D0D4c.png) 
 
 ## 🤖 软件 
 
-### [aidea](https://github.com/mylxsw/aidea)
+### [openmtp](https://github.com/ganeshrvel/openmtp)
 
-一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：
+一个免费且开源的 macOS 应用程序，用于在 macOS 和 Android/MTP 设备之间安全地传输文件。它支持多种功能，包括选择内部存储和 SD 卡、传输大于 4GB 的多个文件、暗黑模式、拖放支持、分割窗口视图、文件夹导航、键盘快捷键等功能：
 
-- 支持 GPT-3.5/4 问答聊天
-- 支持国产模型：通义千问，文心一言
-- 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
+![openmtp](https://images-1252557999.file.myqcloud.com/uPic/wMiAPe.png) 
 
-![aidea](https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg) 
+### [FluentRead](https://github.com/Bistutu/FluentRead)
 
-### [GeekDesk](https://github.com/BookerLiu/GeekDesk)
+一个开源油猴脚本，拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验：
 
-小巧、美观的桌面快速启动管理工具，同时集成了 `Everything` 搜索，仅支持 `Windows`：
+![FluentRead](https://images-1252557999.file.myqcloud.com/uPic/FluentRead.gif) 
 
-![GeekDesk](https://images-1252557999.file.myqcloud.com/uPic/GeekDesk.png) 
+### [EcoPaste](https://github.com/ayangweb/EcoPaste)
 
-### [PicHoro](https://github.com/Kuingsmile/PicHoro "PicHoro")
+一款开源的跨平台剪切板管理工具：
 
-多功能云存储管理工具，集图床管理、文件传输于一体。支持多平台且功能全面：
+- 使用 Tauri 构建项目，使其更加小巧精致，资源占用更少，同时适配多个平台。
+- 应用常驻后台，通过自定义快捷键一键唤醒，节省时间，提高效率。
+- 所有剪切板内容均在本地存储，确保数据隐私和安全。
+- 支持纯文本、富文本、HTML、图片和文件类型。
+- 根据剪切板内容类型自动进行分组，便于高效管理。
+- 支持收藏剪切板内容，便于快速访问和管理重要信息。
+- 内置搜索功能，轻松找到剪切板上的任何内容。
+- 图片内置系统 OCR 功能，支持文本和二维码识别。
+- 提供丰富的右键菜单，增强操作便捷性。
 
-- 直接管理多种云存储平台
-- 便捷上传和下载文件
-- 兼容 S3 API，轻松集成现有系统
-
-![PicHoro](https://images-1252557999.file.myqcloud.com/uPic/PicHoro.jpg) 
+![EcoPaste](https://images-1252557999.file.myqcloud.com/uPic/EcoPaste.jpg) 
 
 ## 👀 资料 
 
-### [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
+### [visualize-ml](https://github.com/visualize-ml)
 
-Model Context Protocol(MCP) 编程极速入门：
+鸢尾花书：从加减乘除到机器学习，全套7册。
 
-![MCP-Chinese-Getting-Started-Guide](https://images-1252557999.file.myqcloud.com/uPic/ORcZa8.png) 
+![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
 
-### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+### [ascoders/weekly](https://github.com/ascoders/weekly)
 
-《Software Engineering at Google》的中文翻译版本：
+前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
 
-![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
+- 前沿技术
+- 设计模式
+- 编译原理
+- 源码解读
+- 商业思考
+- 算法
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+非常全面，前端从事人员可以看看。 
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+### [MDN Web Docs](https://github.com/mdn/translated-content)
+
+`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
+
+![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
 
 ## 🕸 网站 
 
-### [duckduckgo-chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
+### [即时工具](https://www.67tool.com/)
 
-`DuckDuckGo` 开放了免费的 `AI` 聊天机器人，支持模型有：
+该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
 
-- GPT-3.5 Turbo
-- Claude 1.2 Instant
+![67tool](https://images-1252557999.file.myqcloud.com/uPic/mhrsW0.jpg) 
 
-![duckduckgo_chat](https://images-1252557999.file.myqcloud.com/uPic/duckduckgo_chat.jpg) 
+### [staticrypt](https://github.com/robinmoisson/staticrypt)
 
-### [ugly-avatar](https://txstc55.github.io/ugly-avatar/ "ugly-avatar")
+一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
 
-挺有意思的项目，专门生成丑丑贱贱的头像：
+![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
 
-- 网站：https://txstc55.github.io/ugly-avatar/
-- GitHub：https://github.com/txstc55/ugly-avatar
+### [v0.dev](https://v0.dev/)
 
-![ugly-avatar](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-03-26_22-03-17.jpg) 
+描述生成 UI，一个 AI 大模型驱动的 UI 设计网站，很不错：
 
-### [必应壁纸](https://bing.ioliu.cn/)
-
-收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
-
-![bing](https://images-1252557999.file.myqcloud.com/uPic/bing.jpg) 
+![v0_dev](https://images-1252557999.file.myqcloud.com/uPic/v0_dev.jpg) 
 
 ## ✍️ 说明
 
