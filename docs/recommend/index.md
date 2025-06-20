@@ -5,110 +5,107 @@
 
 ## 🎯 项目 
 
-### [duplicati](https://github.com/duplicati/duplicati)
+### [Wallos](https://github.com/ellite/Wallos/)
 
-Duplicati 是一个免费的开源备份客户端，可将加密的、增量的、压缩的备份安全地存储在云存储服务和远程文件服务器上:
+`Wallos` 是一个强大的、开源的、自托管的 Web 应用程序，旨在让你轻松地管理你的财务。向复杂的电子表格和昂贵的财务软件说再见吧—— Wallos 简化了跟踪支出的过程，帮助你更好地控制自己的财务生活。
 
-![duplicati](https://images-1252557999.file.myqcloud.com/uPic/duplicati.jpg) 
+![Wallos](https://images-1252557999.file.myqcloud.com/uPic/Wallos.png) 
 
-### [plasmo](https://github.com/PlasmoHQ/plasmo)
+### [webvm](https://github.com/leaningtech/webvm)
 
-`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
+基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：[webvm.io](https://webvm.io/)。
 
-- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
-- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
-- 热重载
-- [`.env*`  文件](https://docs.plasmo.com/framework/env)
-- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
-- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
-- 还有更多!  🚀
+![webvm](https://images-1252557999.file.myqcloud.com/uPic/1yRQBe.png)
 
-![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
+详细的介绍文章见：[WebVM: server-less x86 virtual machines in the browser](https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361)。 
 
-更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
+### [GetQzonehistory](https://github.com/LibraHp/GetQzonehistory)
 
-### [akile_monitor](https://github.com/akile-network/akile_monitor)
-
-一个开源的监控工具项目，提供服务器状态监控功能，并且支持前后端一键部署：
-
-![akile_monitor](https://images-1252557999.file.myqcloud.com/uPic/0D0D4c.png) 
+通过模拟登录QQ空间来获取历史消息列表，然后进行数据分析。 
 
 ## 🤖 软件 
 
-### [openmtp](https://github.com/ganeshrvel/openmtp)
+### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 
-一个免费且开源的 macOS 应用程序，用于在 macOS 和 Android/MTP 设备之间安全地传输文件。它支持多种功能，包括选择内部存储和 SD 卡、传输大于 4GB 的多个文件、暗黑模式、拖放支持、分割窗口视图、文件夹导航、键盘快捷键等功能：
+适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
 
-![openmtp](https://images-1252557999.file.myqcloud.com/uPic/wMiAPe.png) 
+- **免费**：本项目所有代码开源，完全免费。
+- **方便**：解压即用，无需安装。不需要网络。
+- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
+- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
 
-### [FluentRead](https://github.com/Bistutu/FluentRead)
+![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
 
-一个开源油猴脚本，拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验：
+### [koodo-reader](https://github.com/troyeguo/koodo-reader)
 
-![FluentRead](https://images-1252557999.file.myqcloud.com/uPic/FluentRead.gif) 
+一个跨平台的电子书阅读器：
 
-### [EcoPaste](https://github.com/ayangweb/EcoPaste)
+- 支持多达 15 种主流电子书格
+- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
+- 备份数据到  **Dropbox**  和  **Webdav**
+- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
+- 双页模式，单页模式，滚动模式
+- 听书功能，翻译功能，触控屏支持，批量导入图书
+- 支持目录，书签，笔记，高亮，书架，标签
+- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
+- 黑夜模式和主题色设置
 
-一款开源的跨平台剪切板管理工具：
+![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
 
-- 使用 Tauri 构建项目，使其更加小巧精致，资源占用更少，同时适配多个平台。
-- 应用常驻后台，通过自定义快捷键一键唤醒，节省时间，提高效率。
-- 所有剪切板内容均在本地存储，确保数据隐私和安全。
-- 支持纯文本、富文本、HTML、图片和文件类型。
-- 根据剪切板内容类型自动进行分组，便于高效管理。
-- 支持收藏剪切板内容，便于快速访问和管理重要信息。
-- 内置搜索功能，轻松找到剪切板上的任何内容。
-- 图片内置系统 OCR 功能，支持文本和二维码识别。
-- 提供丰富的右键菜单，增强操作便捷性。
+### [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
 
-![EcoPaste](https://images-1252557999.file.myqcloud.com/uPic/EcoPaste.jpg) 
+`ZoomIt` 是一款用于屏幕缩放、注释和录制的演示工具，微软出品（大小仅 1M）：
+
+![ZoomIt](https://images-1252557999.file.myqcloud.com/uPic/ZoomIt.jpg) 
 
 ## 👀 资料 
 
-### [visualize-ml](https://github.com/visualize-ml)
+### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
 
-鸢尾花书：从加减乘除到机器学习，全套7册。
+Kubernetes 中文指南/云原生应用架构实战手册：
 
-![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
+![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
 
-### [ascoders/weekly](https://github.com/ascoders/weekly)
+### [missing-semester-cn](https://missing-semester-cn.github.io/)
 
-前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
+计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
 
-- 前沿技术
-- 设计模式
-- 编译原理
-- 源码解读
-- 商业思考
-- 算法
+在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
 
-非常全面，前端从事人员可以看看。 
+![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
 
-### [MDN Web Docs](https://github.com/mdn/translated-content)
+### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
 
-`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
+一本基于`python&matplotlib`进行科学可视化的开源书籍：
 
-![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
+![scientific-visualization-book](https://images-1252557999.file.myqcloud.com/uPic/scientific-visualization-book.jpg) 
 
 ## 🕸 网站 
 
-### [即时工具](https://www.67tool.com/)
+### [iconfont](https://www.iconfont.cn/)
 
-该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
+阿里巴巴矢量图标库：
 
-![67tool](https://images-1252557999.file.myqcloud.com/uPic/mhrsW0.jpg) 
+![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
 
-### [staticrypt](https://github.com/robinmoisson/staticrypt)
+### [zhaoziyuan](https://zhaoziyuan.pw/)
 
-一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
+阿里云资源搜索引擎：
 
-![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
+![zhaoziyuan](https://images-1252557999.file.myqcloud.com/uPic/zhaoziyuan-20220429095007870.jpg) 
 
-### [v0.dev](https://v0.dev/)
+### [dute](https://www.dute.org/)
 
-描述生成 UI，一个 AI 大模型驱动的 UI 设计网站，很不错：
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-![v0_dev](https://images-1252557999.file.myqcloud.com/uPic/v0_dev.jpg) 
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
+
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
 ## ✍️ 说明
 
