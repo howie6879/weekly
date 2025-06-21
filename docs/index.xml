@@ -12,7 +12,76 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Mon, 16 Jun 2025 01:46:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jun 2025 12:52:56 +0000</lastBuildDate>
+    <item>
+      <title>06-16~06-22.老胡的周刊（第192期）.md</title>
+      <link>https://weekly.howie6879.com/2025/06-16~06-22.老胡的周刊（第192期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/06-16~06-22.老胡的周刊（第192期）.html"&gt;06-16~06-22.老胡的周刊（第192期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/chaitin/PandaWiki"&gt;PandaWiki&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索 等能力。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="PandaWiki" src="https://images-1252557999.file.myqcloud.com/uPic/8YgiXm.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Seanium/FeedMe"&gt;Seanium/FeedMe&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;用 AI 重新定义你的 RSS 阅读体验，轻松部署到 &lt;code&gt;GitHub Pages / Docker&lt;/code&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;希望能够一站式了解各个信息源的新鲜事。又嫌市面上产品太"重"（不想注册登录/下载 APP/启动桌面软件...），一个静态页面正合适（响应式 / 亮暗主题，电脑手机都方便浏览）。&lt;/li&gt;
+&lt;li&gt;希望能够 TLDR 式地速览，于是做了 AI 摘要。&lt;/li&gt;
+&lt;li&gt;自由配置 RSS 源、AI 模型、更新频率。&lt;/li&gt;
+&lt;li&gt;开源、方便 Fork、零成本、轻松自部署。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="Seanium/FeedMe" src="https://images-1252557999.file.myqcloud.com/uPic/ZPhvme.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/gtsteffaniak/filebrowser"&gt;gtsteffaniak/filebrowser&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个开源的网页文件管理器，提供了文件浏览和共享的解决方案：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="gtsteffaniak/filebrowser" src="https://images-1252557999.file.myqcloud.com/uPic/iqiZtn.png" /&gt;&lt;/p&gt;
+&lt;p&gt;往期推荐过&lt;a href="https://github.com/filebrowser/filebrowser"&gt;filebrowser/filebrowser&lt;/a&gt;，可对比选择。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Safe3/openresty-manager"&gt;openresty-manager&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;主机管理面板，OpenResty Edge 的开源替代品，它可以让您轻松地安全反向代理在家或互联网上运行的网站，包括访问控制、拒绝服务攻击防护、自动申请并续期免费的SSL证书：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;支持通过HTTP-01和DNS-01挑战申请免费SSL证书并自动续期&lt;/li&gt;
+&lt;li&gt;无需了解OpenResty，即可轻松为您的网站创建反向代理&lt;/li&gt;
+&lt;li&gt;提供了多种强大安全功能，如访问控制、拒绝服务攻击防护等&lt;/li&gt;
+&lt;li&gt;简化服务器管理，为用户界面友好的终端和文件管理功能&lt;/li&gt;
+&lt;li&gt;支持基于容器的应用商店功能，大大降低建站和容器管理的难度&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="openresty-manager" src="https://images-1252557999.file.myqcloud.com/uPic/4Grbgi.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Talisik/Downlodr"&gt;Downlodr&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Downlodr&lt;/code&gt; 是一个功能强大、用户友好的视频下载解决方案，支持多达 1800 个平台，包括 &lt;code&gt;YouTube&lt;/code&gt; 和 &lt;code&gt;Vimeo&lt;/code&gt; 等。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Downlodr" src="https://images-1252557999.file.myqcloud.com/uPic/Zq1qKy.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/qingmeng1/bilijump-ai"&gt;bilijump-ai&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个使用 &lt;code&gt;AI&lt;/code&gt; 自动跳过 &lt;code&gt;Bilibili&lt;/code&gt; 视频植入广告的 &lt;code&gt;Chrome&lt;/code&gt; 扩展程序：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bilijump" src="https://images-1252557999.file.myqcloud.com/uPic/SrzNbw.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/homielab/mountmate"&gt;mountmate&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个简单的 &lt;code&gt;macOS&lt;/code&gt; 菜单栏应用程序，用于管理您的外部驱动器:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="mountmate" src="https://images-1252557999.file.myqcloud.com/uPic/idgycV.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/PKU-DAIR/Starter-Guide"&gt;PKU-DAIR/Starter-Guide&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;本仓库为PKU-DAIR团队为相关领域的新人提供全面的开源文档和技术指南。通过汇集团队的核心论文和经验分享，将帮助初学者快速熟悉数据管理(Data Management, DM) 和 人工智能(Artificial Intelligence, AI) 等前沿领域，搭建坚实的技术基础。无论你是刚入门还是希望加深理解，仓库中的资源将为你的学习和研究之旅提供有力支持。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="PKU-DAIR/Starter-Guide" src="https://images-1252557999.file.myqcloud.com/uPic/KnGu45.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/anthropics/anthropic-cookbook"&gt;anthropic-cookbook&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;《Anthropic Cookbook》提供了旨在帮助开发人员与Claude一起构建的代码和指南，提供可复制的代码片段，您可以轻松地将其集成到自己的项目中。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Paulescu/kubernetes-for-ml-engineers"&gt;kubernetes-for-ml-engineers&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;为机器学习工程师量身打造的Kubernetes入门指南。&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://labubuwallpaper.store/?ref=weekly"&gt;🔥Labubu Wallpaper&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;🔥 最近很火的 Labubu Wallpaper 免费高清壁纸下载网站，拿去给女朋友看看吧～&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Labubu Wallpaper" src="https://images-1252557999.file.myqcloud.com/uPic/r0gxfh.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">06-16~06-22.老胡的周刊（第192期）.md</guid>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>06-09~06-15.老胡的周刊（第191期）.md</title>
       <link>https://weekly.howie6879.com/2025/06-09~06-15.老胡的周刊（第191期）.html</link>
@@ -1330,75 +1399,6 @@
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">12-23~12-29.老胡的周刊（第173期）.md</guid>
       <pubDate>Sun, 29 Dec 2024 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>12-16~12-22.老胡的周刊（第172期）.md</title>
-      <link>https://weekly.howie6879.com/2024/12-16~12-22.老胡的周刊（第172期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/12-16~12-22.老胡的周刊（第172期）.html"&gt;12-16~12-22.老胡的周刊（第172期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/XiaoMi/ha_xiaomi_home"&gt;ha_xiaomi_home&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;米家集成是一个由小米官方提供支持的 &lt;code&gt;Home Assistant&lt;/code&gt; 的集成组件，它可以让您在 &lt;code&gt;Home Assistant&lt;/code&gt; 中使用小米 &lt;code&gt;IoT&lt;/code&gt; 智能设备：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ha_xiaomi_home" src="https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6271646644919453567-y.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/besscroft/PicImpact"&gt;PicImpact&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个摄影师专用的摄影作品展示网站，基于 &lt;code&gt;Next.js + Hono.js&lt;/code&gt; 开发：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;瀑布流相册展示图片，支持实况照片(Live Photos)，基于 LivePhotosKit JS 开发。&lt;/li&gt;
-&lt;li&gt;点击图片查看原图，浏览图片信息和 EXIF 信息，支持直链访问。&lt;/li&gt;
-&lt;li&gt;响应式设计，在 PC 和移动端都有不错的体验，支持暗黑模式。&lt;/li&gt;
-&lt;li&gt;图片存储兼容 S3 API、Cloudflare R2、AList API。&lt;/li&gt;
-&lt;li&gt;图片支持绑定标签，并且可通过标签进行交互，筛选标签下所有图片。&lt;/li&gt;
-&lt;li&gt;支持输出 RSS，可以使用 Follow 订阅，并支持订阅源所有权验证。&lt;/li&gt;
-&lt;li&gt;支持批量自动化上传，上传图片时会生成 0.3 倍率的压缩图片，以提供加载优化。&lt;/li&gt;
-&lt;li&gt;...&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="PicImpact" src="https://images-1252557999.file.myqcloud.com/uPic/NFu7vG.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/akile-network/akile_monitor"&gt;akile_monitor&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个开源的监控工具项目，提供服务器状态监控功能，并且支持前后端一键部署：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="akile_monitor" src="https://images-1252557999.file.myqcloud.com/uPic/0D0D4c.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/YaoZeyuan/stablog"&gt;stablog&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;稳部落项目是一个基于微博现有接口和 TypeScript 构建的工具，旨在为微博用户提供便捷的微博记录备份与导出服务。&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/chrox/readest"&gt;readest&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Readest&lt;/code&gt; 是一个现代化、功能丰富的电子书阅读器，旨在为读者提供无缝的跨平台访问体验、强大的工具和直观的界面，以提升阅读体验。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="readest" src="https://images-1252557999.file.myqcloud.com/uPic/v41zIg.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Tichau/FileConverter"&gt;FileConverter&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;File Converter&lt;/code&gt; 是一个简单的工具，允许用户通过 Windows 资源管理器的上下文菜单转换和压缩文件：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="FileConverter" src="https://images-1252557999.file.myqcloud.com/uPic/3Mtc4V.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/VeejaLiu/ScienceFictionCollection"&gt;ScienceFictionCollection&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;科幻小说作品集收集项目，包含以下作者的作品：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;刘慈欣 (Cixin Liu)&lt;/li&gt;
-&lt;li&gt;Frank Herbert (弗兰克・赫伯特)&lt;/li&gt;
-&lt;li&gt;Isaac Asimov (艾萨克・阿西莫夫)&lt;/li&gt;
-&lt;li&gt;Jules Gabriel Verne (儒勒・加布里埃尔・凡尔纳)&lt;/li&gt;
-&lt;li&gt;Mary Shelley (玛丽・雪莱)&lt;/li&gt;
-&lt;li&gt;Ray Douglas Bradbury (雷・道格拉斯・布拉德伯里)&lt;/li&gt;
-&lt;li&gt;Orson Scott Card (奥森・斯科特・卡德)&lt;/li&gt;
-&lt;li&gt;Ted Chiang (特德・姜)&lt;/li&gt;
-&lt;li&gt;Michael Swanwick (迈克尔・斯万维克)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;a href="https://github.com/WangRongsheng/awesome-LLM-resourses"&gt;WangRongsheng&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个全面的 LLM 资源汇总，旨在提供数据处理、微调、推理、评估、体验、知识库、智能体、搜索、书籍、课程、教程和论文等方面的工具和文档。&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/ViggoZ/producthunt-daily-hot"&gt;producthunt-daily-hot&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Product Hunt&lt;/code&gt; 每日热榜是一个基于 &lt;code&gt;GitHub Action&lt;/code&gt; 的自动化工具，它能够每天定时生成 &lt;code&gt;Product Hunt&lt;/code&gt; 上的热门产品榜单 &lt;code&gt;Markdown&lt;/code&gt; 文件，并自动提交到 &lt;code&gt;GitHub&lt;/code&gt; 仓库中。该项目旨在帮助用户快速查看每日的 &lt;code&gt;Product Hunt&lt;/code&gt; 热门榜单，并提供更详细的产品信息。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="producthunt-daily-hot" src="https://images-1252557999.file.myqcloud.com/uPic/2vDyRf.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">12-16~12-22.老胡的周刊（第172期）.md</guid>
-      <pubDate>Sun, 22 Dec 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
