@@ -5,86 +5,77 @@
 
 ## 🎯 项目 
 
-### [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
+### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 
-科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能：
+一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
 
-![chatgpt_academic](https://images-1252557999.file.myqcloud.com/uPic/chatgpt_academic.png) 
+![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
 
-### [godoxy](https://github.com/yusing/godoxy)
+### [freed](https://github.com/YuanHsing/freed)
 
-轻巧、易用、高性能反向代理，带有主页和配置面板：
+这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
 
-![godoxy](https://images-1252557999.file.myqcloud.com/uPic/7I4SVq.png) 
+### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
 
-### [MaxKB](https://github.com/1Panel-dev/MaxKB)
+抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
 
-💬 基于 `LLM` 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，`1Panel` 官方出品：
-
-开箱即用：支持直接上传文档、自动爬取在线文档，支持文本自动拆分、向量化，智能问答交互体验好；
-无缝嵌入：支持零编码快速嵌入到第三方业务系统；
-多模型支持：支持对接主流的大模型，包括本地私有大模型（如 Llama 2）、Azure OpenAI 和百度千帆大模型等。
-
-![MaxKB](https://images-1252557999.file.myqcloud.com/uPic/MaxKB.jpg) 
+![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
 
 ## 🤖 软件 
 
-### [codeapp](https://github.com/thebaselab/codeapp)
+### [NanaZip](https://github.com/M2Team/NanaZip)
 
-为 `iPad` 构建一个成熟的代码编辑器：
+`NanaZip` 是一个面向现代 `Windows` 体验的开源文件压缩工具，基于知名的开源文件压缩工具 `7-Zip` 的源代码：
 
-![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
+![NanaZip](https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg) 
 
-### [BlackHole](https://github.com/Sangwan5688/BlackHole)
+### [my-tv](https://github.com/lizongying/my-tv)
 
-一个适用于您所有需求的开源音乐播放器应用，高颜值、无广告、免费音乐播放器，拥有歌词、专辑、艺术家、播放列表、定时关闭等功能，支持 `Android、iOS、macOS` 系统：
+安卓电视直播软件，内置直播源：
 
-![BlackHole](https://images-1252557999.file.myqcloud.com/uPic/BlackHole.png)
-![hole](https://images-1252557999.file.myqcloud.com/uPic/hole.jpg) 
+![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
 
-### [little-rat](https://github.com/dnakov/little-rat)
+### [CatchMouse](https://github.com/round/CatchMouse)
 
-Little Rat 是一款开源的 Chrome 扩展，用于实时监测其它的 Chrome 扩展联网情况，并可以选择阻止联网，防止恶意扩展：
-
-![little-rat](https://images-1252557999.file.myqcloud.com/uPic/little-rat.webp) 
+如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
 
 ## 👀 资料 
 
-### [visualize-ml](https://github.com/visualize-ml)
+### [1000-chinese-independent-developer-plus](https://github.com/XiaomingX/1000-chinese-independent-developer-plus)
 
-鸢尾花书：从加减乘除到机器学习，全套7册。
+中国独立开发者项目列表，分享大家都在做什么。 
 
-![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
+### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
 
-### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
+阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
 
-张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
+![c](https://images-1252557999.file.myqcloud.com/uPic/4uYTRJ.png) 
 
-![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
+### [Awesome-LLM-Post-training](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training)
 
-### [Sam Altman的创业手册](https://jxp73q7qjsg.feishu.cn/docx/WCNZdKDa4o2eUrxK5ElcfBXEnah)
+一个专门收集和研究大型语言模型（LLM）后训练方法论的资源库，包括论文、代码实现、基准测试和社区资源。该资源库涵盖了从基础研究到实际应用的各个方面，包括大语言模型的 reasoning 能力、强化学习、测试时间扩展方法等。
 
-`Sam Altman` 的创业手册文本，给YC系创始人们的建议里面最通用的一部分提炼出来变成一个创业手册。 
+![Awesome-LLM-Post-training](https://images-1252557999.file.myqcloud.com/uPic/afYDaQ.png) 
 
 ## 🕸 网站 
 
-### [json-translate](https://github.com/ViggoZ/json-translate/blob/main/README.zh.md)
+### [eja.tv](https://eja.tv/?)
 
-AI驱动的JSON国际化翻译工具，免费在线JSON翻译工具，支持40+种语言，由AI驱动：
+提供3808个在线电视频道，包含143个国家以及82种不同语言。
 
-![json-translate](https://images-1252557999.file.myqcloud.com/uPic/IzziYk.png) 
+![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
 
-### [法律时代导航](https://yesen.cn/)
+### [alternativeto](https://alternativeto.net/)
 
-法律人的一站式导航网站，我们日常生活中很多事情都是可以用一些法律来维护自己的权益的，有兴趣的朋友可以多看看：
+常用软件替代品查询网站：
 
-![yesen](https://images-1252557999.file.myqcloud.com/uPic/yesen.jpg) 
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
-### [书葵網](https://www.shukui.net/)
+### [caniuse](https://caniuse.com/)
 
-读者可以在此查询本馆的图书、期刊、古籍等信息。检索条件会自动匹配书名、作者、出版社、ISBN搜索，返回最优匹配结果：
+网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
 
-![shukui](https://images-1252557999.file.myqcloud.com/uPic/shukui.jpg) 
+![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
 
 ## ✍️ 说明
 
