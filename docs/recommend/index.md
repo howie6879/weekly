@@ -5,77 +5,91 @@
 
 ## 🎯 项目 
 
-### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+### [GPTs](https://github.com/linexjlin/GPTs)
 
-一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
+这个仓库收集了 GPTs 商店的的提示词，你可以用 3.5 使用，间接拥有 4 才有的功能，还有个类似的项目：[Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) 
 
-![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
+### [floccus](https://github.com/floccusaddon/floccus)
 
-### [freed](https://github.com/YuanHsing/freed)
+`Floccus` 是一个开源的浏览器书签同步项目，它支持 `Firefox、Chrome、Edge`等浏览器书签同步：
 
-这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
+![floccus](https://images-1252557999.file.myqcloud.com/uPic/floccus.jpg) 
 
-### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
+### [MTranServer](https://github.com/xxnuo/MTranServer)
 
-抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
+一个超低资源消耗超快的离线翻译服务器，英译中模型仅需 860MB 内存即可运行，无需显卡。单个请求平均响应时间 50ms。支持全世界主要语言的翻译，翻译质量与 Google 翻译相当。
 
-![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
+![MTranServer](https://images-1252557999.file.myqcloud.com/uPic/KZywne.png) 
 
 ## 🤖 软件 
 
-### [NanaZip](https://github.com/M2Team/NanaZip)
+### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-`NanaZip` 是一个面向现代 `Windows` 体验的开源文件压缩工具，基于知名的开源文件压缩工具 `7-Zip` 的源代码：
+一个开源的YouTube应用程序，旨在保护隐私：
 
-![NanaZip](https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg) 
+![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
 
-### [my-tv](https://github.com/lizongying/my-tv)
+### [MooTool](https://github.com/rememberber/MooTool)
 
-安卓电视直播软件，内置直播源：
+开发者常备小工具：
 
-![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
+![ceVEdx](https://images-1252557999.file.myqcloud.com/uPic/ceVEdx.png) 
 
-### [CatchMouse](https://github.com/round/CatchMouse)
+### [JPEGView](https://github.com/sylikc/jpegview)
 
-如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
+`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
 
 ## 👀 资料 
 
-### [1000-chinese-independent-developer-plus](https://github.com/XiaomingX/1000-chinese-independent-developer-plus)
+### [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
 
-中国独立开发者项目列表，分享大家都在做什么。 
+由 `Microsoft` 提供的教程，旨在帮助初学者通过 10 个课程了解如何构建 AI 代理:
 
-### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
+![ai-agents-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/iDWOwA.png) 
 
-阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
+### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
-![c](https://images-1252557999.file.myqcloud.com/uPic/4uYTRJ.png) 
+吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
 
-### [Awesome-LLM-Post-training](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training)
+- 学习应用开发所需的 prompt engineering 最佳实践
+- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
+- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
 
-一个专门收集和研究大型语言模型（LLM）后训练方法论的资源库，包括论文、代码实现、基准测试和社区资源。该资源库涵盖了从基础研究到实际应用的各个方面，包括大语言模型的 reasoning 能力、强化学习、测试时间扩展方法等。
+![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
 
-![Awesome-LLM-Post-training](https://images-1252557999.file.myqcloud.com/uPic/afYDaQ.png) 
+### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
+
+美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/OSTEP-20220429104105382.jpg)
+
+本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
 
 ## 🕸 网站 
 
-### [eja.tv](https://eja.tv/?)
+### [vert.sh](https://vert.sh/)
 
-提供3808个在线电视频道，包含143个国家以及82种不同语言。
+`VERT.sh` 提供了一个全面的文件转换服务，涵盖图片、音频、文档和视频等多种格式的处理。对于图片，支持的格式包括 PNG、JPEG、JPG、WEBP、GIF 等常见格式，以及 HEIC、ICO、BMP 等更多专业格式。
 
-![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
+- 音频方面，支持 MP3、WAV、FLAC、OGG 等主流格式
+- 文档支持 DOCX、XML、DOC 等多种格式
+- 视频转换通常在服务器上进行，支持 MKV、MP4、WEBM 等格式。
 
-### [alternativeto](https://alternativeto.net/)
+值得注意的是，所有的图片、音频和文档处理都是在本地完成的，确保了用户数据的安全性和隐私性。
 
-常用软件替代品查询网站：
+![vert.sh](https://images-1252557999.file.myqcloud.com/uPic/Vclo9P.png) 
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+### [deepwiki](https://deepwiki.org/)
 
-### [caniuse](https://caniuse.com/)
+`DeepWiki` 旨为成为一个全球性的、为每个 `GitHub` 仓库提供可交流的文档服务的平台。它类似于 `Deep Research`，但专注于 `GitHub` 上的内容。`DeepWiki` 的目标是为开发者提供一个平台，上面可以轻松地为每个项目编写和交流文档：
 
-网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
+![deepwiki](https://images-1252557999.file.myqcloud.com/uPic/KXEJcj.png) 
 
-![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
+### [coze](https://www.coze.cn/)
+
+扣子为你提供了一站式 AI 开发平台，无需编程，你的创新理念都能迅速化身为下一代的 AI 应用，字节跳动此前是在海外推出 [Coze](https://www.coze.com/)，国内扣子与其分开运营：
+
+![coze](https://images-1252557999.file.myqcloud.com/uPic/coze.jpg) 
 
 ## ✍️ 说明
 
