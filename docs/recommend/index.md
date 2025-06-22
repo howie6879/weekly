@@ -5,91 +5,90 @@
 
 ## 🎯 项目 
 
-### [GPTs](https://github.com/linexjlin/GPTs)
+### [musicn](https://github.com/zonemeen/musicn)
 
-这个仓库收集了 GPTs 商店的的提示词，你可以用 3.5 使用，间接拥有 4 才有的功能，还有个类似的项目：[Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) 
+🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
 
-### [floccus](https://github.com/floccusaddon/floccus)
+![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
 
-`Floccus` 是一个开源的浏览器书签同步项目，它支持 `Firefox、Chrome、Edge`等浏览器书签同步：
+### [Message-Push-Nest](https://github.com/engigu/Message-Push-Nest)
 
-![floccus](https://images-1252557999.file.myqcloud.com/uPic/floccus.jpg) 
+打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义 `webhook` 等多种通知方式。定制你的消息，让通知方式更灵活多样。
 
-### [MTranServer](https://github.com/xxnuo/MTranServer)
 
-一个超低资源消耗超快的离线翻译服务器，英译中模型仅需 860MB 内存即可运行，无需显卡。单个请求平均响应时间 50ms。支持全世界主要语言的翻译，翻译质量与 Google 翻译相当。
+![Message-Push-Nest](https://images-1252557999.file.myqcloud.com/uPic/Message-Push-Nest.jpg) 
 
-![MTranServer](https://images-1252557999.file.myqcloud.com/uPic/KZywne.png) 
+### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
+
+`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
+
+![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
 
 ## 🤖 软件 
 
-### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
+### [kondo](https://github.com/tbillington/kondo)
 
-一个开源的YouTube应用程序，旨在保护隐私：
+有时候在开发的时候，会惊讶于这个语言下依赖竟然有 `xx个G` 的硬盘占用，长期下来，硬盘的空间就这样不知不觉没有了，好在发现了这个项目，帮我解决了问题：
 
-![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
+![kondo](https://images-1252557999.file.myqcloud.com/uPic/kondo.png)
 
-### [MooTool](https://github.com/rememberber/MooTool)
+可以看到上面 `Rust` 项目依赖确实大。 
 
-开发者常备小工具：
+### [Bluesnooze](https://github.com/odlp/bluesnooze)
 
-![ceVEdx](https://images-1252557999.file.myqcloud.com/uPic/ceVEdx.png) 
+使用 `Bluesnooze`，蓝牙连接会在 `Mac` 睡眠时关闭，并在 `Mac` 唤醒时打开:
 
-### [JPEGView](https://github.com/sylikc/jpegview)
+![bluesnooze](https://images-1252557999.file.myqcloud.com/uPic/bluesnooze.png) 
 
-`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
+### [notepad--](https://github.com/cxasm/notepad--)
+
+这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
+
+> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
+
+![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
 
 ## 👀 资料 
 
-### [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
 
-由 `Microsoft` 提供的教程，旨在帮助初学者通过 10 个课程了解如何构建 AI 代理:
+《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
 
-![ai-agents-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/iDWOwA.png) 
+![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
 
-### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+### [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
 
-吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
+这个项目的目标是带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来，每周更新两篇，有兴趣的朋友可以追更下，架构图：
 
-- 学习应用开发所需的 prompt engineering 最佳实践
-- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
-- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
+![linux0.11-talk](https://images-1252557999.file.myqcloud.com/uPic/P4ekdG.jpg) 
 
-![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
+### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
 
-### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
+从工程角度方方面面阐述了DevOps实施的过程:
 
-美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
-
-![](https://images-1252557999.file.myqcloud.com/uPic/OSTEP-20220429104105382.jpg)
-
-本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
+![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
 
 ## 🕸 网站 
 
-### [vert.sh](https://vert.sh/)
+### [smartexcel](https://smartexcel.cc/)
 
-`VERT.sh` 提供了一个全面的文件转换服务，涵盖图片、音频、文档和视频等多种格式的处理。对于图片，支持的格式包括 PNG、JPEG、JPG、WEBP、GIF 等常见格式，以及 HEIC、ICO、BMP 等更多专业格式。
+使用 `AI` 在几秒钟内生成 `Excel` 公式的工具。描述自己的需要，即可生成相应的公式。需要登录，每天 有10 个免费积分可以使用:
 
-- 音频方面，支持 MP3、WAV、FLAC、OGG 等主流格式
-- 文档支持 DOCX、XML、DOC 等多种格式
-- 视频转换通常在服务器上进行，支持 MKV、MP4、WEBM 等格式。
+![smartexcel](https://images-1252557999.file.myqcloud.com/uPic/DXKVRR.png)
 
-值得注意的是，所有的图片、音频和文档处理都是在本地完成的，确保了用户数据的安全性和隐私性。
+开源地址：[smartexcel](https://github.com/weijunext/smart-excel-ai)。 
 
-![vert.sh](https://images-1252557999.file.myqcloud.com/uPic/Vclo9P.png) 
+### [apk.bot](https://apk.bot/)
 
-### [deepwiki](https://deepwiki.org/)
+免费无广告的 `APK` 下载网站：
 
-`DeepWiki` 旨为成为一个全球性的、为每个 `GitHub` 仓库提供可交流的文档服务的平台。它类似于 `Deep Research`，但专注于 `GitHub` 上的内容。`DeepWiki` 的目标是为开发者提供一个平台，上面可以轻松地为每个项目编写和交流文档：
+![apk_bot](https://images-1252557999.file.myqcloud.com/uPic/apk_bot.jpg) 
 
-![deepwiki](https://images-1252557999.file.myqcloud.com/uPic/KXEJcj.png) 
+### [BriefGPT](https://briefgpt.xyz/)
 
-### [coze](https://www.coze.cn/)
+`AI` 论文速递，每日更新 `Arxiv` 论文，第一时间了解 `AI` 最新动态：
 
-扣子为你提供了一站式 AI 开发平台，无需编程，你的创新理念都能迅速化身为下一代的 AI 应用，字节跳动此前是在海外推出 [Coze](https://www.coze.com/)，国内扣子与其分开运营：
-
-![coze](https://images-1252557999.file.myqcloud.com/uPic/coze.jpg) 
+![briefgpt](https://images-1252557999.file.myqcloud.com/uPic/briefgpt.jpg) 
 
 ## ✍️ 说明
 
