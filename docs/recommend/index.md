@@ -5,90 +5,93 @@
 
 ## 🎯 项目 
 
-### [musicn](https://github.com/zonemeen/musicn)
+### [docker-cronicle](https://github.com/soulteary/docker-cronicle)
 
-🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
+`Cronjob` 定时任务 `Docker` 解决方案，提供了一个简介漂亮且轻量的 `WEB UI`：
 
-![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
+![docker-cronicle](https://images-1252557999.file.myqcloud.com/uPic/docker-cronicle.png) 
 
-### [Message-Push-Nest](https://github.com/engigu/Message-Push-Nest)
+### [docling](https://ds4sd.github.io/docling/)
 
-打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义 `webhook` 等多种通知方式。定制你的消息，让通知方式更灵活多样。
+能够解析多种文档格式并导出为 `HTML、Markdown & JSON` 的工具，同时具备高级的 `PDF` 文档理解能力，包括布局、阅读顺序和表格结构。
 
+![docling](https://images-1252557999.file.myqcloud.com/uPic/3Gp5NT.png) 
 
-![Message-Push-Nest](https://images-1252557999.file.myqcloud.com/uPic/Message-Push-Nest.jpg) 
+### [ChatChat](https://github.com/okisdev/ChatChat)
 
-### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
+Chat Chat，解锁你的下一级 AI 对话体验。你可以使用 OpenAI、微软 Azure、Claude、Cohere、Hugging Face 等多个 API，让你的 AI 对话体验更加丰富:
 
-`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
-
-![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
+![chatchat](https://images-1252557999.file.myqcloud.com/uPic/chatchat.jpg) 
 
 ## 🤖 软件 
 
-### [kondo](https://github.com/tbillington/kondo)
+### [NanaZip](https://github.com/M2Team/NanaZip)
 
-有时候在开发的时候，会惊讶于这个语言下依赖竟然有 `xx个G` 的硬盘占用，长期下来，硬盘的空间就这样不知不觉没有了，好在发现了这个项目，帮我解决了问题：
+`NanaZip` 是一个面向现代 `Windows` 体验的开源文件压缩工具，基于知名的开源文件压缩工具 `7-Zip` 的源代码：
 
-![kondo](https://images-1252557999.file.myqcloud.com/uPic/kondo.png)
+![NanaZip](https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg) 
 
-可以看到上面 `Rust` 项目依赖确实大。 
+### [dbgate](https://github.com/dbgate/dbgate)
 
-### [Bluesnooze](https://github.com/odlp/bluesnooze)
+支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
 
-使用 `Bluesnooze`，蓝牙连接会在 `Mac` 睡眠时关闭，并在 `Mac` 唤醒时打开:
+![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
 
-![bluesnooze](https://images-1252557999.file.myqcloud.com/uPic/bluesnooze.png) 
+### [koodo-reader](https://github.com/troyeguo/koodo-reader)
 
-### [notepad--](https://github.com/cxasm/notepad--)
+一个跨平台的电子书阅读器：
 
-这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
+- 支持多达 15 种主流电子书格
+- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
+- 备份数据到  **Dropbox**  和  **Webdav**
+- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
+- 双页模式，单页模式，滚动模式
+- 听书功能，翻译功能，触控屏支持，批量导入图书
+- 支持目录，书签，笔记，高亮，书架，标签
+- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
+- 黑夜模式和主题色设置
 
-> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
-
-![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
+![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
 
 ## 👀 资料 
 
-### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
+### [visualize-ml](https://github.com/visualize-ml)
 
-《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
+鸢尾花书：从加减乘除到机器学习，全套7册。
 
-![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
+![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
 
-### [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
+### [nlp-with-transformers](https://github.com/nlp-with-transformers)
 
-这个项目的目标是带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来，每周更新两篇，有兴趣的朋友可以追更下，架构图：
+书籍《基于Transformers的自然语言处理》的代码仓库：
 
-![linux0.11-talk](https://images-1252557999.file.myqcloud.com/uPic/P4ekdG.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/A6MiF5.jpg) 
 
-### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
+### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
 
-从工程角度方方面面阐述了DevOps实施的过程:
+一本基于`python&matplotlib`进行科学可视化的开源书籍：
 
-![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
+![scientific-visualization-book](https://images-1252557999.file.myqcloud.com/uPic/scientific-visualization-book.jpg) 
 
 ## 🕸 网站 
 
-### [smartexcel](https://smartexcel.cc/)
+### [eja.tv](https://eja.tv/?)
 
-使用 `AI` 在几秒钟内生成 `Excel` 公式的工具。描述自己的需要，即可生成相应的公式。需要登录，每天 有10 个免费积分可以使用:
+提供3808个在线电视频道，包含143个国家以及82种不同语言。
 
-![smartexcel](https://images-1252557999.file.myqcloud.com/uPic/DXKVRR.png)
+![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
 
-开源地址：[smartexcel](https://github.com/weijunext/smart-excel-ai)。 
+### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
 
-### [apk.bot](https://apk.bot/)
+一份新冠预防及治疗指南：
 
-免费无广告的 `APK` 下载网站：
+![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
 
-![apk_bot](https://images-1252557999.file.myqcloud.com/uPic/apk_bot.jpg) 
+### [studyhard](https://studyhard.cf/)
 
-### [BriefGPT](https://briefgpt.xyz/)
+📚各大高校课程资源汇总，在 `Github` 上大学：
 
-`AI` 论文速递，每日更新 `Arxiv` 论文，第一时间了解 `AI` 最新动态：
-
-![briefgpt](https://images-1252557999.file.myqcloud.com/uPic/briefgpt.jpg) 
+![studyhard](https://images-1252557999.file.myqcloud.com/uPic/studyhard.jpg) 
 
 ## ✍️ 说明
 
