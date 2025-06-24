@@ -5,93 +5,93 @@
 
 ## 🎯 项目 
 
-### [docker-cronicle](https://github.com/soulteary/docker-cronicle)
+### [MindSearch](https://github.com/InternLM/MindSearch)
 
-`Cronjob` 定时任务 `Docker` 解决方案，提供了一个简介漂亮且轻量的 `WEB UI`：
+开源的 Web 搜索引擎框架，它利用大型语言模型（LLM）和多智能体架构来提供高级搜索功能。该项目支持多种搜索引擎，如 `DuckDuckGo、Bing、Brave & Google`，您可以轻松部署它来构建您自己的搜索引擎：
 
-![docker-cronicle](https://images-1252557999.file.myqcloud.com/uPic/docker-cronicle.png) 
+![MindSearch](https://images-1252557999.file.myqcloud.com/uPic/8Q3zZx.png) 
 
-### [docling](https://ds4sd.github.io/docling/)
+### [fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
 
-能够解析多种文档格式并导出为 `HTML、Markdown & JSON` 的工具，同时具备高级的 `PDF` 文档理解能力，包括布局、阅读顺序和表格结构。
+微软开源的 `Fluent Emoji` 表情包：
 
-![docling](https://images-1252557999.file.myqcloud.com/uPic/3Gp5NT.png) 
+![fluentui-emoji](https://images-1252557999.file.myqcloud.com/uPic/fluentui-emoji.webp) 
 
-### [ChatChat](https://github.com/okisdev/ChatChat)
+### [python-mini-projects](https://github.com/Python-World/python-mini-projects)
 
-Chat Chat，解锁你的下一级 AI 对话体验。你可以使用 OpenAI、微软 Azure、Claude、Cohere、Hugging Face 等多个 API，让你的 AI 对话体验更加丰富:
+最近在热榜上挺火的一个项目，这个项目是由一个个 Python 小项目构成，可以慢慢练习，增强 Python 技巧，项目还提供了网站访问：
 
-![chatchat](https://images-1252557999.file.myqcloud.com/uPic/chatchat.jpg) 
+![python-mini-projects](https://images-1252557999.file.myqcloud.com/uPic/ILzlAD.png) 
 
 ## 🤖 软件 
 
-### [NanaZip](https://github.com/M2Team/NanaZip)
+### [paperlib](https://github.com/GeoffreyChen777/paperlib)
 
-`NanaZip` 是一个面向现代 `Windows` 体验的开源文件压缩工具，基于知名的开源文件压缩工具 `7-Zip` 的源代码：
+面向计算机科学的简单开源学术论文管理工具：
 
-![NanaZip](https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg) 
+![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
 
-### [dbgate](https://github.com/dbgate/dbgate)
+### [Chital](https://github.com/sheshbabu/Chital)
 
-支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
+`Chital` 是一个针对 `macOS` 系统开发的原生应用程序，旨在与本地大型语言模型（LLM）进行交互:
 
-![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
+![Chital](https://images-1252557999.file.myqcloud.com/uPic/owbXLt.png) 
 
-### [koodo-reader](https://github.com/troyeguo/koodo-reader)
+### [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager "ContextMenuManager")
 
-一个跨平台的电子书阅读器：
+纯粹的 `Windows` 右键菜单管理程序：
 
-- 支持多达 15 种主流电子书格
-- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
-- 备份数据到  **Dropbox**  和  **Webdav**
-- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
-- 双页模式，单页模式，滚动模式
-- 听书功能，翻译功能，触控屏支持，批量导入图书
-- 支持目录，书签，笔记，高亮，书架，标签
-- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
-- 黑夜模式和主题色设置
+- 启用或禁用文件、文件夹、新建、发送到、打开方式、自定义文件格式、IE 浏览器、WinX 等右键菜单项目
+- 对上述场景右键菜单项目进行修改名称、修改图标、导航注册表位置、导航文件位置、永久删除等操作
+- 对上述场景右键菜单自定义添加项目，自定义菜单命令
 
-![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
+![ContextMenuManager](https://images-1252557999.file.myqcloud.com/uPic/ContextMenuManager.png) 
 
 ## 👀 资料 
 
-### [visualize-ml](https://github.com/visualize-ml)
+### [Al精选工具库](https://t16jzwqrzjx.feishu.cn/wiki/EsvowFAqFiTiYDkJgE0cWquPnWb)
 
-鸢尾花书：从加减乘除到机器学习，全套7册。
+18 个模块 100 个 AI 工具：
 
-![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
+![ai_tools](https://images-1252557999.file.myqcloud.com/uPic/ai_tools.jpg) 
 
-### [nlp-with-transformers](https://github.com/nlp-with-transformers)
+### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
 
-书籍《基于Transformers的自然语言处理》的代码仓库：
+此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/A6MiF5.jpg) 
+### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
 
-### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
+从零开始学习Kubernetes的路线图（初级到高级）：
 
-一本基于`python&matplotlib`进行科学可视化的开源书籍：
-
-![scientific-visualization-book](https://images-1252557999.file.myqcloud.com/uPic/scientific-visualization-book.jpg) 
+![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
 
 ## 🕸 网站 
 
-### [eja.tv](https://eja.tv/?)
+### [icones.js.org](https://icones.js.org/)
 
-提供3808个在线电视频道，包含143个国家以及82种不同语言。
+免费的图标库：
 
-![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
+![icones](https://images-1252557999.file.myqcloud.com/uPic/icones.jpg) 
 
-### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
+### [tanpok](https://tool.tanpok.com/#/)
 
-一份新冠预防及治疗指南：
+效果非常好的图片压缩工具：
 
-![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
+![tanpok](https://images-1252557999.file.myqcloud.com/uPic/8fZN8v.png) 
 
-### [studyhard](https://studyhard.cf/)
+### [sci-hub](https://sci-hub.se/)
 
-📚各大高校课程资源汇总，在 `Github` 上大学：
+这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
 
-![studyhard](https://images-1252557999.file.myqcloud.com/uPic/studyhard.jpg) 
+> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
+
+用户可通过以下方式访问新版本：
+
+- https://sci-hub.se/
+- https://sci-hub.ru/
+- https://sci-hub.st/
+
+![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png) 
 
 ## ✍️ 说明
 
