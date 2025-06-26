@@ -5,91 +5,114 @@
 
 ## 🎯 项目 
 
-### [Rin](https://github.com/OXeu/Rin)
+### [photoprism](https://github.com/photoprism/photoprism)
 
-⚡️`Rin` 是一个基于 `Cloudflare Pages + Workers + D1 + R2` 全家桶的博客，无需服务器无需备案，只需要一个解析到 `Cloudflare` 的域名即可部署：
+基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
 
-![Rin](https://images-1252557999.file.myqcloud.com/uPic/Rin.jpg) 
+![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
 
-### [form-create-designer](https://github.com/xaboy/form-create-designer)
+### [favicon-downloader](https://github.com/seadfeng/favicon-downloader)
 
-`form-create-designer` 是基于 [@form-create/element-ui](https://github.com/xaboy/form-create) 实现的表单设计器组件。可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率，节省开发者的时间：
+免费获取网站 `favicon` 的工具:
 
-![form-create-designer](https://images-1252557999.file.myqcloud.com/uPic/form-create-designer.png) 
+![faviconextractor](https://images-1252557999.file.myqcloud.com/uPic/faviconextractor.jpg) 
 
-### [DeepLX](https://github.com/OwO-Network/DeepLX)
+### [TheTNB_panel](https://github.com/TheTNB/panel)
 
-`DeepL` 免费翻译 `API` ，无需 `Token`：
+耗子面板是使用 `Golang + Vue` 开发的开源轻量 Linux 服务器运维管理面板:
 
-![deeplx](https://images-1252557999.file.myqcloud.com/uPic/deeplx.jpg)
+- 极低占用: 在 Debian 12 下部署面板 + LNMP 环境，内存占用不到 500 MB，遥遥领先于使用容器化的其他面板。
+- 低破坏性: 面板的设计理念是尽可能减少对系统的额外修改，在同类面板中，我们对系统的修改最少。
+- 追随时代: 面板所有组件均走在时代前沿，更新快，功能强大，安全性有保障。
+- 高效运维: 面板 UI 界面简洁，操作简单，无需繁琐的配置，即可快速部署各类环境、调整应用设置。
+- 离线运行: 面板运行可不依赖任何外部服务，你甚至可以在部署完成后停止面板进程，不会对已部署服务造成任何影响。
+- 久经考验: 我们生产环境自 2022 年即开始使用，已稳定运行 1 年以上无事故。
+- 开源开放: 面板开源，你可以自由修改、审计面板源码，安全性有保障。
 
-为了防止触发 429，可使用 [DeepLX-Serverless](https://github.com/guobao2333/DeepLX-Serverless) 项目，其利用了云函数的请求 IP 不固定的特性，极大程度上避免了 429 请求太频繁报错。 
+![panel](https://images-1252557999.file.myqcloud.com/uPic/panel.png) 
 
 ## 🤖 软件 
 
-### [Readhubn](https://github.com/shensven/Readhubn)
+### [Free-NTFS-for-Mac](https://github.com/hoochanlon/Free-NTFS-for-Mac)
 
-如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
+这是一款支持苹果芯片的 `Free NTFS for Mac` 小工具软件，主要是为了方便想要免费使用 `NTFS` 格式移动存储的文件拷贝与共享的苹果电脑用户：
 
-![readhub](https://images-1252557999.file.myqcloud.com/uPic/pZfUjT.png) 
+![Free-NTFS-for-Mac](https://images-1252557999.file.myqcloud.com/uPic/Free-NTFS-for-Mac.png) 
 
-### [video2blog](https://github.com/aehyok/video2blog)
+### [Sequel-Ace](https://sequel-ace.com/)
 
-视频转图文 AI 跨平台客户端：
+原生的 `MySQL/MariaDB` 数据库管理软件：
 
-- 输入视频url之后
-- 先通过yt-dlp解析视频url获取视频信息
-- 通过yt-dlp下载视频
-- 如果存在字幕，则直接进行下载
-- 可能是非中文字幕，则需要进行翻译字幕
-- 如果不存在字幕，则通过whisper来生成字幕文件，并翻译为中文
-- 然后通过gemini将字幕转换为文章。并将视频中的图片进行提取，手动插入到文章中 
+![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
 
-### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
+### [namida](https://github.com/namidaco/namida)
 
-> 让每个人都简单方便的使用前沿人工智能技术
+一个美观且功能丰富的音乐和视频播放器，支持 `Youtube`，基于 `Flutter` 技术构建：
 
-一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
-
-![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
+![namida](https://images-1252557999.file.myqcloud.com/uPic/namida.jpg) 
 
 ## 👀 资料 
 
-### [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
+### [tuning_playbook_zh_cn](https://github.com/schrodingercatss/tuning_playbook_zh_cn)
 
-面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:
+深度学习调优指南中文版，一本系统地教你将深度学习模型的性能最大化的战术手册：
 
-![llm-cookbook](https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png) 
+![tuning_playbook_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/tuning_playbook_zh_cn.jpg) 
 
-### [tamingLLMs](https://github.com/souzatharsis/tamingLLMs)
+### [learnprompting.org](https://learnprompting.org/zh-Hans/docs/intro)
 
-一份关于如何克服大型语言模型（LLMs）实际应用中的陷阱的实用指南。该指南以 Python 示例和开源软件为基础，提供了一个介绍性而全面的参考，专注于具体问题，如处理非结构化输出、管理上下文窗口、输出长度限制、非确定性机器、幻觉现象、安全问题以及成本因素 
+> 如何同人工智能交流，并得到你要的结果。
 
-### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
+随着最近人工智能的不断进步，提示工程这项技能变得越来越重要。本课程会聚焦于如何使用提示工程。你不需要很多机器学习相关的知识。
 
-张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
+![learnprompting](https://images-1252557999.file.myqcloud.com/uPic/learnprompting.jpg) 
 
-![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
+### [rust-course](https://github.com/sunface/rust-course)
+
+> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
+
+![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
+
+阅读地址见[course.rs](https://course.rs)。 
 
 ## 🕸 网站 
 
-### [jsont.run](https://www.jsont.run/)
+### [文学网](https://www.hwxnet.com/)
 
-一个简洁的在线 `JSON` 解析器：
+文学相关工具在线网站：
 
-![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
 
-### [xyzrank.com](https://xyzrank.com/)
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
-中文播客榜单：
+### [svgrepo](https://www.svgrepo.com/)
 
-![xyzrank](https://images-1252557999.file.myqcloud.com/uPic/xyzrank.jpg) 
+提供超过 500,000 个开源许可的 SVG 矢量图标和图标的平台，用户可以搜索、探索、编辑和分享这些资源，适用于商业项目，且始终免费，无需担心遇到付费内容：
 
-### [linggle](https://linggle.com/)
+![svgrepo](https://images-1252557999.file.myqcloud.com/uPic/dPWl8l.png) 
 
-免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
+### [ticompressor](https://www.ticompressor.com/online/)
 
-![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
+压缩速度极快的图片压缩软件，有网页版和软件版：
+
+- 具有超快的压缩速度
+- 支持压缩 GB 级别的超大体积的图片
+- 支持 7 种图片格式
+- 支持深、浅色主题模式
+- 可对原始图片进行预览
+- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
+- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
+- 实时显示压缩进度
+- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
+
+![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
+
+![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
 
 ## ✍️ 说明
 
