@@ -5,90 +5,73 @@
 
 ## 🎯 项目 
 
-### [photoprism](https://github.com/photoprism/photoprism)
+### [chart-gpt](https://github.com/whoiskatrin/chart-gpt)
 
-基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
+基于文本输入构建图表的人工智能工具，可以直接在官网 [https://www.chartgpt.dev](https://www.chartgpt.dev/) 体验：
 
-![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
+![chartgpt](https://images-1252557999.file.myqcloud.com/uPic/chartgpt.jpg) 
 
-### [favicon-downloader](https://github.com/seadfeng/favicon-downloader)
+### [groqbook](https://github.com/Bklieger/groqbook)
 
-免费获取网站 `favicon` 的工具:
+用 `Groq` 和 `Llama3` 快速生成一本书，它能够根据简短的提示快速生成非小说类书籍的每一章节：
 
-![faviconextractor](https://images-1252557999.file.myqcloud.com/uPic/faviconextractor.jpg) 
+![groqbook](https://images-1252557999.file.myqcloud.com/uPic/groqbook.jpg) 
 
-### [TheTNB_panel](https://github.com/TheTNB/panel)
+### [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
 
-耗子面板是使用 `Golang + Vue` 开发的开源轻量 Linux 服务器运维管理面板:
-
-- 极低占用: 在 Debian 12 下部署面板 + LNMP 环境，内存占用不到 500 MB，遥遥领先于使用容器化的其他面板。
-- 低破坏性: 面板的设计理念是尽可能减少对系统的额外修改，在同类面板中，我们对系统的修改最少。
-- 追随时代: 面板所有组件均走在时代前沿，更新快，功能强大，安全性有保障。
-- 高效运维: 面板 UI 界面简洁，操作简单，无需繁琐的配置，即可快速部署各类环境、调整应用设置。
-- 离线运行: 面板运行可不依赖任何外部服务，你甚至可以在部署完成后停止面板进程，不会对已部署服务造成任何影响。
-- 久经考验: 我们生产环境自 2022 年即开始使用，已稳定运行 1 年以上无事故。
-- 开源开放: 面板开源，你可以自由修改、审计面板源码，安全性有保障。
-
-![panel](https://images-1252557999.file.myqcloud.com/uPic/panel.png) 
+这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。此项目从书籍、网站、工具、笔记、任务管理等角度推荐怎么提升个人生产力。 
 
 ## 🤖 软件 
 
-### [Free-NTFS-for-Mac](https://github.com/hoochanlon/Free-NTFS-for-Mac)
+### [aidea](https://github.com/mylxsw/aidea)
 
-这是一款支持苹果芯片的 `Free NTFS for Mac` 小工具软件，主要是为了方便想要免费使用 `NTFS` 格式移动存储的文件拷贝与共享的苹果电脑用户：
+一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：
 
-![Free-NTFS-for-Mac](https://images-1252557999.file.myqcloud.com/uPic/Free-NTFS-for-Mac.png) 
+- 支持 GPT-3.5/4 问答聊天
+- 支持国产模型：通义千问，文心一言
+- 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
 
-### [Sequel-Ace](https://sequel-ace.com/)
+![aidea](https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg) 
 
-原生的 `MySQL/MariaDB` 数据库管理软件：
+### [Webpilot](https://github.com/webpilot-ai/Webpilot)
 
-![Sequel-Ace](https://images-1252557999.file.myqcloud.com/uPic/Sequel-Ace.jpg) 
+开源浏览器插件，基于 `ChatGPT` 可以让您与网页进行自由对话，可以在线访问 [webpilot.ai](https://github.com/webpilot-ai/Webpilot)：
 
-### [namida](https://github.com/namidaco/namida)
+![webpilot](https://images-1252557999.file.myqcloud.com/uPic/webpilot.jpg) 
 
-一个美观且功能丰富的音乐和视频播放器，支持 `Youtube`，基于 `Flutter` 技术构建：
+### [bilijump-ai](https://github.com/qingmeng1/bilijump-ai)
 
-![namida](https://images-1252557999.file.myqcloud.com/uPic/namida.jpg) 
+一个使用 `AI` 自动跳过 `Bilibili` 视频植入广告的 `Chrome` 扩展程序：
+
+![bilijump](https://images-1252557999.file.myqcloud.com/uPic/SrzNbw.png) 
 
 ## 👀 资料 
 
-### [tuning_playbook_zh_cn](https://github.com/schrodingercatss/tuning_playbook_zh_cn)
+### developer-roadmap
 
-深度学习调优指南中文版，一本系统地教你将深度学习模型的性能最大化的战术手册：
+开发人员学习成长路线图：
 
-![tuning_playbook_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/tuning_playbook_zh_cn.jpg) 
+![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
 
-### [learnprompting.org](https://learnprompting.org/zh-Hans/docs/intro)
+### [学习CSS布局](https://zh.learnlayout.com/)
 
-> 如何同人工智能交流，并得到你要的结果。
+本站教授的是现在广泛使用于网站布局领域的CSS基础：
 
-随着最近人工智能的不断进步，提示工程这项技能变得越来越重要。本课程会聚焦于如何使用提示工程。你不需要很多机器学习相关的知识。
+![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
 
-![learnprompting](https://images-1252557999.file.myqcloud.com/uPic/learnprompting.jpg) 
+### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
 
-### [rust-course](https://github.com/sunface/rust-course)
+基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
 
-> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
+- NLP
+- CV
+- Time Series
 
-![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
+目录概览：
 
-阅读地址见[course.rs](https://course.rs)。 
+![Pytorch](https://images-1252557999.file.myqcloud.com/uPic/kSUA40.png) 
 
 ## 🕸 网站 
-
-### [文学网](https://www.hwxnet.com/)
-
-文学相关工具在线网站：
-
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
-
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
 ### [svgrepo](https://www.svgrepo.com/)
 
@@ -96,23 +79,17 @@
 
 ![svgrepo](https://images-1252557999.file.myqcloud.com/uPic/dPWl8l.png) 
 
-### [ticompressor](https://www.ticompressor.com/online/)
+### [toptimeline](https://toptimeline.net/zh)
 
-压缩速度极快的图片压缩软件，有网页版和软件版：
+探索世界最著名的流行歌手、运动员和历史人物的关键事件与个人里程碑：
 
-- 具有超快的压缩速度
-- 支持压缩 GB 级别的超大体积的图片
-- 支持 7 种图片格式
-- 支持深、浅色主题模式
-- 可对原始图片进行预览
-- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
-- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
-- 实时显示压缩进度
-- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
+![toptimeline](https://images-1252557999.file.myqcloud.com/uPic/crwphb.png) 
 
-![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
+### [cursor.directory](https://cursor.directory/)
 
-![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
+基于你在用的框架或者语言，提供最好的 curson 规则。也开源在 [github](https://github.com/pontusab/cursor.directory)
+
+![cursor.directory](https://images-1252557999.file.myqcloud.com/uPic/ygOBRk.png) 
 
 ## ✍️ 说明
 
