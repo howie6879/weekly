@@ -5,39 +5,25 @@
 
 ## 🎯 项目 
 
-### [chart-gpt](https://github.com/whoiskatrin/chart-gpt)
+### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
 
-基于文本输入构建图表的人工智能工具，可以直接在官网 [https://www.chartgpt.dev](https://www.chartgpt.dev/) 体验：
+简单描述工作内容，帮你生成完整周报：
 
-![chartgpt](https://images-1252557999.file.myqcloud.com/uPic/chartgpt.jpg) 
+![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
 
-### [groqbook](https://github.com/Bklieger/groqbook)
+### [komodo](https://github.com/mbecker20/komodo)
 
-用 `Groq` 和 `Llama3` 快速生成一本书，它能够根据简短的提示快速生成非小说类书籍的每一章节：
+一个用于在多个服务器上构建和部署软件的工具，非常强大，有好看的 `UI` 以及 `Docker` 管理、资源同步等：
 
-![groqbook](https://images-1252557999.file.myqcloud.com/uPic/groqbook.jpg) 
+![komodo](https://images-1252557999.file.myqcloud.com/uPic/h82QqC.png) 
 
-### [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
+### [Dasherr](https://github.com/erohtar/Dasherr)
 
-这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。此项目从书籍、网站、工具、笔记、任务管理等角度推荐怎么提升个人生产力。 
+简单轻量自部署的仪表盘工具：
+
+![Dasherr](https://images-1252557999.file.myqcloud.com/uPic/Dasherr.png) 
 
 ## 🤖 软件 
-
-### [aidea](https://github.com/mylxsw/aidea)
-
-一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：
-
-- 支持 GPT-3.5/4 问答聊天
-- 支持国产模型：通义千问，文心一言
-- 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
-
-![aidea](https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg) 
-
-### [Webpilot](https://github.com/webpilot-ai/Webpilot)
-
-开源浏览器插件，基于 `ChatGPT` 可以让您与网页进行自由对话，可以在线访问 [webpilot.ai](https://github.com/webpilot-ai/Webpilot)：
-
-![webpilot](https://images-1252557999.file.myqcloud.com/uPic/webpilot.jpg) 
 
 ### [bilijump-ai](https://github.com/qingmeng1/bilijump-ai)
 
@@ -45,51 +31,55 @@
 
 ![bilijump](https://images-1252557999.file.myqcloud.com/uPic/SrzNbw.png) 
 
+### [yanhuo](https://eigenmiao.com/yanhuo)
+
+焰火十二卷是一款免费开源的跨平台调色板软件。它提供了多种功能来生成一组调和色彩，可以为你提供更好的色彩搭配方案。你可以通过色轮选取、图像拾色等方式轻松获得想要的色彩组合。你可以将这些色彩应用到自己的创作，或者分享给他人。
+
+![yanhuo](https://images-1252557999.file.myqcloud.com/uPic/yanhuo.jpg) 
+
+### [EasyNotes](https://github.com/Kin69/EasyNotes)
+
+一个开源的 `Android` 笔记应用，使用 `Kotlin` 编写，采用了最新的 `Jetpack Compose MVVM` 架构，以实现流畅的笔记编辑和管理体验。该应用支持完整的 `Markdown` 格式（包括图片），提供了一个安全的、加密的笔记保险库。EasyNotes 特点包括轻量化、无需任何权限、 `Material You` 设计风格:
+
+![EasyNotes](https://images-1252557999.file.myqcloud.com/uPic/Rq8teu.png) 
+
 ## 👀 资料 
 
-### developer-roadmap
+### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
 
-开发人员学习成长路线图：
+`Solidity` 极简入门：
 
-![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
+![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
 
-### [学习CSS布局](https://zh.learnlayout.com/)
+### [统计学自学指南](https://xuankaiwang.github.io/)
 
-本站教授的是现在广泛使用于网站布局领域的CSS基础：
+这是一本统计的自学指南, 也是作者在数院自学生涯的一个纪念：
 
-![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
+![XuankaiWang](https://images-1252557999.file.myqcloud.com/uPic/XuankaiWang.jpg) 
 
-### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
+### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
 
-基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
-
-- NLP
-- CV
-- Time Series
-
-目录概览：
-
-![Pytorch](https://images-1252557999.file.myqcloud.com/uPic/kSUA40.png) 
+此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
 
 ## 🕸 网站 
 
-### [svgrepo](https://www.svgrepo.com/)
+### [免费 LLM API 调用限制汇总](https://www.freeaihunter.com/)
 
-提供超过 500,000 个开源许可的 SVG 矢量图标和图标的平台，用户可以搜索、探索、编辑和分享这些资源，适用于商业项目，且始终免费，无需担心遇到付费内容：
+一个可以免费使用的大模型 API 合集网站：
 
-![svgrepo](https://images-1252557999.file.myqcloud.com/uPic/dPWl8l.png) 
+![freeaihunter](https://images-1252557999.file.myqcloud.com/uPic/ixNx89.png) 
 
-### [toptimeline](https://toptimeline.net/zh)
+### [jsont.run](https://www.jsont.run/)
 
-探索世界最著名的流行歌手、运动员和历史人物的关键事件与个人里程碑：
+一个简洁的在线 `JSON` 解析器：
 
-![toptimeline](https://images-1252557999.file.myqcloud.com/uPic/crwphb.png) 
+![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
 
-### [cursor.directory](https://cursor.directory/)
+### [devdocs](https://devdocs.io/)
 
-基于你在用的框架或者语言，提供最好的 curson 规则。也开源在 [github](https://github.com/pontusab/cursor.directory)
+提供在线快速查找API接口文档的网站：
 
-![cursor.directory](https://images-1252557999.file.myqcloud.com/uPic/ygOBRk.png) 
+![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
 
 ## ✍️ 说明
 
