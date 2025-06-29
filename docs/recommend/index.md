@@ -5,81 +5,83 @@
 
 ## 🎯 项目 
 
-### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
+### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
 
-简单描述工作内容，帮你生成完整周报：
+该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
 
-![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
+![computer_book_list](https://images-1252557999.file.myqcloud.com/uPic/uxQa5E.png) 
 
-### [komodo](https://github.com/mbecker20/komodo)
+### [mayfly-go](https://github.com/dromara/mayfly-go)
 
-一个用于在多个服务器上构建和部署软件的工具，非常强大，有好看的 `UI` 以及 `Docker` 管理、资源同步等：
+web 版 linux(终端[终端回放] 文件 脚本 进程 计划任务)、数据库（mysql postgres 达梦）、redis(单机 哨兵 集群)、mongo 统一管理操作平台：
 
-![komodo](https://images-1252557999.file.myqcloud.com/uPic/h82QqC.png) 
+![mayfly-go](https://images-1252557999.file.myqcloud.com/uPic/mayfly-go.jpeg) 
 
-### [Dasherr](https://github.com/erohtar/Dasherr)
+### [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
 
-简单轻量自部署的仪表盘工具：
+将视频从一种语言翻译为另一种语言，并添加配音，这个最近火出圈了：
 
-![Dasherr](https://images-1252557999.file.myqcloud.com/uPic/Dasherr.png) 
+![pyvideotrans](https://images-1252557999.file.myqcloud.com/uPic/pyvideotrans.jpg) 
 
 ## 🤖 软件 
 
-### [bilijump-ai](https://github.com/qingmeng1/bilijump-ai)
+### [AirBattery](https://github.com/lihaoyun6/AirBattery)
 
-一个使用 `AI` 自动跳过 `Bilibili` 视频植入广告的 `Chrome` 扩展程序：
+在 `Mac` 上获取你所有设备的电量信息并显示在 `Dock` / 状态栏 / 小组件上：
 
-![bilijump](https://images-1252557999.file.myqcloud.com/uPic/SrzNbw.png) 
+![AirBattery](https://images-1252557999.file.myqcloud.com/uPic/AirBattery.jpg) 
 
-### [yanhuo](https://eigenmiao.com/yanhuo)
+### [void](https://github.com/voideditor/void#readme)
 
-焰火十二卷是一款免费开源的跨平台调色板软件。它提供了多种功能来生成一组调和色彩，可以为你提供更好的色彩搭配方案。你可以通过色轮选取、图像拾色等方式轻松获得想要的色彩组合。你可以将这些色彩应用到自己的创作，或者分享给他人。
+`Void` 是一个开源的 `Cursor` 替代项目：
 
-![yanhuo](https://images-1252557999.file.myqcloud.com/uPic/yanhuo.jpg) 
+![void](https://images-1252557999.file.myqcloud.com/uPic/ewYGFx.png) 
 
-### [EasyNotes](https://github.com/Kin69/EasyNotes)
+### [dbgate](https://github.com/dbgate/dbgate)
 
-一个开源的 `Android` 笔记应用，使用 `Kotlin` 编写，采用了最新的 `Jetpack Compose MVVM` 架构，以实现流畅的笔记编辑和管理体验。该应用支持完整的 `Markdown` 格式（包括图片），提供了一个安全的、加密的笔记保险库。EasyNotes 特点包括轻量化、无需任何权限、 `Material You` 设计风格:
+支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
 
-![EasyNotes](https://images-1252557999.file.myqcloud.com/uPic/Rq8teu.png) 
+![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
 
 ## 👀 资料 
 
-### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
+### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
 
-`Solidity` 极简入门：
+精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
 
-![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
+### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
 
-### [统计学自学指南](https://xuankaiwang.github.io/)
+`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
 
-这是一本统计的自学指南, 也是作者在数院自学生涯的一个纪念：
+- [Tauri 项目](https://github.com/tauri-apps/tauri)
+- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
+- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
 
-![XuankaiWang](https://images-1252557999.file.myqcloud.com/uPic/XuankaiWang.jpg) 
+### [Python源码剖析](https://fasionchan.com/python-source/)
 
-### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
+本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
 
-此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
+![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
 
 ## 🕸 网站 
 
-### [免费 LLM API 调用限制汇总](https://www.freeaihunter.com/)
+### [react-tetris](https://github.com/chvin/react-tetris)
 
-一个可以免费使用的大模型 API 合集网站：
+用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
 
-![freeaihunter](https://images-1252557999.file.myqcloud.com/uPic/ixNx89.png) 
+![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
 
-### [jsont.run](https://www.jsont.run/)
+### [svgrepo](https://www.svgrepo.com/)
 
-一个简洁的在线 `JSON` 解析器：
+提供超过 500,000 个开源许可的 SVG 矢量图标和图标的平台，用户可以搜索、探索、编辑和分享这些资源，适用于商业项目，且始终免费，无需担心遇到付费内容：
 
-![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
+![svgrepo](https://images-1252557999.file.myqcloud.com/uPic/dPWl8l.png) 
 
-### [devdocs](https://devdocs.io/)
+### [removebg](https://www.remove.bg/zh)
 
-提供在线快速查找API接口文档的网站：
+这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
 
-![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
+![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
 
 ## ✍️ 说明
 
