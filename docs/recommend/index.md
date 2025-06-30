@@ -5,90 +5,85 @@
 
 ## 🎯 项目 
 
-### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
+### [homepage](https://github.com/benphelps/homepage)
 
-提供多款 SS 规则，拥有强劲的广告过滤功能：
+高度可定制的首页仪表板应用项目：
 
-![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
+![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
 
-### [MTranServer](https://github.com/xxnuo/MTranServer)
+### [MindSearch](https://github.com/InternLM/MindSearch)
 
-一个超低资源消耗超快的离线翻译服务器，英译中模型仅需 860MB 内存即可运行，无需显卡。单个请求平均响应时间 50ms。支持全世界主要语言的翻译，翻译质量与 Google 翻译相当。
+开源的 Web 搜索引擎框架，它利用大型语言模型（LLM）和多智能体架构来提供高级搜索功能。该项目支持多种搜索引擎，如 `DuckDuckGo、Bing、Brave & Google`，您可以轻松部署它来构建您自己的搜索引擎：
 
-![MTranServer](https://images-1252557999.file.myqcloud.com/uPic/KZywne.png) 
+![MindSearch](https://images-1252557999.file.myqcloud.com/uPic/8Q3zZx.png) 
 
-### [godoxy](https://github.com/yusing/godoxy)
+### [Restfox](https://github.com/flawiddsouza/Restfox)
 
-轻巧、易用、高性能反向代理，带有主页和配置面板：
+主打离线也能运行使用的 `Web HTTP` 客户端:
 
-![godoxy](https://images-1252557999.file.myqcloud.com/uPic/7I4SVq.png) 
+![Restfox](https://images-1252557999.file.myqcloud.com/uPic/Restfox.png)
+
+之前也推荐过 [hoppscotch](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。 
 
 ## 🤖 软件 
 
-### [hetty](https://github.com/dstotijn/hetty)
+### [DBeaver](https://github.com/dbeaver/dbeaver)
 
-`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
+免费的通用数据库管理工具，SQL客户端，跨平台支持：
 
-![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
+![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png) 
 
-### [Yank Note](https://github.com/purocean/yn)
+### [balenaEtcher](https://github.com/balena-io/etcher)
 
-一款面向程序员的 `Markdown` 笔记应用，全平台支持：
+balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
 
-- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
-- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
-- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
-- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
-- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
+![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
 
-![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
+### [FreeReNamer](https://github.com/cyhuajuan/FreeReNamer)
 
-### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
+功能强大又易用的文件批量重命名软件：
 
-`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
-
-- Support Intel
-- Support Apple Silicon (M1 & M2)
-- Network
-- USB 
+![FreeReNamer](https://images-1252557999.file.myqcloud.com/uPic/wSK06i.png) 
 
 ## 👀 资料 
 
-### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
+### [Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
 
-一份程序员延寿指南，目标是稳健地活得更久。 
+微软出品的 `GitHub Copilot` 教程：
 
-### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+![Mastering-GitHub-Copilot-for-Paired-Programming](https://images-1252557999.file.myqcloud.com/uPic/KTSuLa.png) 
 
-24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
+### [linux-command](https://github.com/jaywcjlove/linux-command)
 
-![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
 
-### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
+![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
 
-该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/ub1GLI.jpg) 
+站点可靠性工作手册：
+
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
 ## 🕸 网站 
 
-### [json-to-go](https://mholt.github.io/json-to-go/)
+### [uipatterns](http://uipatterns.io)
 
-在浏览器中将 `JSON` 转换为 `Go` 类型：
+程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
 
-![json-to-go](https://images-1252557999.file.myqcloud.com/uPic/json-to-go.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/uipatterns.jpg) 
 
-### [zhongguose](http://zhongguose.com/)
+### [photoroom](https://www.photoroom.com/backgrounds/)
 
-一个中国传统颜色的配色网站：
+利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
 
-![zhongguose](https://images-1252557999.file.myqcloud.com/uPic/zhongguose.jpg) 
+![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
 
-### [uxdatabase](https://www.uxdatabase.io/)
+### [ai-12348](https://ai.12348.gov.cn/pc/)
 
-国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
+免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
 
-![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
+![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
 
 ## ✍️ 说明
 
