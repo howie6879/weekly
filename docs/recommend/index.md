@@ -5,83 +5,90 @@
 
 ## 🎯 项目 
 
-### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
+### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 
-该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
+提供多款 SS 规则，拥有强劲的广告过滤功能：
 
-![computer_book_list](https://images-1252557999.file.myqcloud.com/uPic/uxQa5E.png) 
+![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
 
-### [mayfly-go](https://github.com/dromara/mayfly-go)
+### [MTranServer](https://github.com/xxnuo/MTranServer)
 
-web 版 linux(终端[终端回放] 文件 脚本 进程 计划任务)、数据库（mysql postgres 达梦）、redis(单机 哨兵 集群)、mongo 统一管理操作平台：
+一个超低资源消耗超快的离线翻译服务器，英译中模型仅需 860MB 内存即可运行，无需显卡。单个请求平均响应时间 50ms。支持全世界主要语言的翻译，翻译质量与 Google 翻译相当。
 
-![mayfly-go](https://images-1252557999.file.myqcloud.com/uPic/mayfly-go.jpeg) 
+![MTranServer](https://images-1252557999.file.myqcloud.com/uPic/KZywne.png) 
 
-### [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
+### [godoxy](https://github.com/yusing/godoxy)
 
-将视频从一种语言翻译为另一种语言，并添加配音，这个最近火出圈了：
+轻巧、易用、高性能反向代理，带有主页和配置面板：
 
-![pyvideotrans](https://images-1252557999.file.myqcloud.com/uPic/pyvideotrans.jpg) 
+![godoxy](https://images-1252557999.file.myqcloud.com/uPic/7I4SVq.png) 
 
 ## 🤖 软件 
 
-### [AirBattery](https://github.com/lihaoyun6/AirBattery)
+### [hetty](https://github.com/dstotijn/hetty)
 
-在 `Mac` 上获取你所有设备的电量信息并显示在 `Dock` / 状态栏 / 小组件上：
+`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
 
-![AirBattery](https://images-1252557999.file.myqcloud.com/uPic/AirBattery.jpg) 
+![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
 
-### [void](https://github.com/voideditor/void#readme)
+### [Yank Note](https://github.com/purocean/yn)
 
-`Void` 是一个开源的 `Cursor` 替代项目：
+一款面向程序员的 `Markdown` 笔记应用，全平台支持：
 
-![void](https://images-1252557999.file.myqcloud.com/uPic/ewYGFx.png) 
+- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
+- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
+- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
+- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
+- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
 
-### [dbgate](https://github.com/dbgate/dbgate)
+![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
 
-支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
+### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
 
-![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
+`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
+
+- Support Intel
+- Support Apple Silicon (M1 & M2)
+- Network
+- USB 
 
 ## 👀 资料 
 
-### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
+一份程序员延寿指南，目标是稳健地活得更久。 
 
-### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
+### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
+24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
 
-- [Tauri 项目](https://github.com/tauri-apps/tauri)
-- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
-- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
+![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
 
-### [Python源码剖析](https://fasionchan.com/python-source/)
+### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
 
-本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
+该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
 
-![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/ub1GLI.jpg) 
 
 ## 🕸 网站 
 
-### [react-tetris](https://github.com/chvin/react-tetris)
+### [json-to-go](https://mholt.github.io/json-to-go/)
 
-用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
+在浏览器中将 `JSON` 转换为 `Go` 类型：
 
-![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
+![json-to-go](https://images-1252557999.file.myqcloud.com/uPic/json-to-go.jpg) 
 
-### [svgrepo](https://www.svgrepo.com/)
+### [zhongguose](http://zhongguose.com/)
 
-提供超过 500,000 个开源许可的 SVG 矢量图标和图标的平台，用户可以搜索、探索、编辑和分享这些资源，适用于商业项目，且始终免费，无需担心遇到付费内容：
+一个中国传统颜色的配色网站：
 
-![svgrepo](https://images-1252557999.file.myqcloud.com/uPic/dPWl8l.png) 
+![zhongguose](https://images-1252557999.file.myqcloud.com/uPic/zhongguose.jpg) 
 
-### [removebg](https://www.remove.bg/zh)
+### [uxdatabase](https://www.uxdatabase.io/)
 
-这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
+国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
 
-![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
+![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
 
 ## ✍️ 说明
 
