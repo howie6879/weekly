@@ -5,85 +5,90 @@
 
 ## 🎯 项目 
 
-### [homepage](https://github.com/benphelps/homepage)
+### [spy-search](https://github.com/JasonHonKL/spy-search)
 
-高度可定制的首页仪表板应用项目：
+`Spy Search` 是一个智能搜索框架，旨在提供比现有网页搜索代理更快速高效的日常搜索体验。相比 `Manus` 等月费 **$200** 的商业解决方案，`Spy Search` 基于开源模型提供经济高效的替代方案，同时保持出色的性能表现。
 
-![benphelps_homepage](https://images-1252557999.file.myqcloud.com/uPic/benphelps_homepage.png) 
+![spy-search](https://images-1252557999.file.myqcloud.com/uPic/jQyGNQ.png) 
 
-### [MindSearch](https://github.com/InternLM/MindSearch)
+### [iptables-web](https://github.com/pretty66/iptables-web)
 
-开源的 Web 搜索引擎框架，它利用大型语言模型（LLM）和多智能体架构来提供高级搜索功能。该项目支持多种搜索引擎，如 `DuckDuckGo、Bing、Brave & Google`，您可以轻松部署它来构建您自己的搜索引擎：
+`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
 
-![MindSearch](https://images-1252557999.file.myqcloud.com/uPic/8Q3zZx.png) 
+![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
 
-### [Restfox](https://github.com/flawiddsouza/Restfox)
+### [ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine)
 
-主打离线也能运行使用的 `Web HTTP` 客户端:
+随着 `TikTok` 和 `Youtube` 等短视频内容的兴起，比以往任何时候都有更多的知识存在于视频中。对于任何一个人来说，在数百万个视频中找到特定答案可能是困难的，而这个项目([https://avse.vercel.app/](https://avse.vercel.app/))就是针对这个问题进行探索：
 
-![Restfox](https://images-1252557999.file.myqcloud.com/uPic/Restfox.png)
-
-之前也推荐过 [hoppscotch](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。 
+![ai-video-search-engine](https://images-1252557999.file.myqcloud.com/uPic/ai-video-search-engine.jpg) 
 
 ## 🤖 软件 
 
-### [DBeaver](https://github.com/dbeaver/dbeaver)
+### [alacritty](https://github.com/alacritty/alacritty)
 
-免费的通用数据库管理工具，SQL客户端，跨平台支持：
+一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
 
-![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png) 
+我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
 
-### [balenaEtcher](https://github.com/balena-io/etcher)
+![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
 
-balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
+### [mihon](https://github.com/mihonapp/mihon)
 
-![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
+`Mihon` 是一款安卓端的免费、开源漫画阅读器，支持漫画在线阅读与下载。 应用界面清爽干净，操作简单，纯净无广告：
 
-### [FreeReNamer](https://github.com/cyhuajuan/FreeReNamer)
+- 支持在线阅读、漫画下载和本地漫画阅读；
+- 支持安装全球各种漫画图源；
+- 多种阅读模式和各种自定义设置；
+- 书架、发现、分组、阅读统计、主题、追踪、自动更新及备份等功能……
 
-功能强大又易用的文件批量重命名软件：
+![mihon](https://images-1252557999.file.myqcloud.com/uPic/qkUiNU.png) 
 
-![FreeReNamer](https://images-1252557999.file.myqcloud.com/uPic/wSK06i.png) 
+### [onlook](https://github.com/onlook-dev/onlook)
+
+> 设计师专属的 Cursor —— 一款开源、视觉优先的代码编辑器
+
+一个开源的、基于可视化编辑的代码编辑器，专为设计师而优化，旨在通过 AI 与浏览器内 DOM 的直接编辑功能，让用户能够在代码编辑器中进行设计和编码。
+
+使用 AI 在 Next.js + TailwindCSS 中构建网站、原型和设计。通过可视化编辑器直接在浏览器 DOM 中进行编辑。实时用代码进行设计。这是 Bolt.new、Lovable、V0、Replit Agent、Figma Make、Webflow 等产品的开源替代方案。
+
+![onlook](https://images-1252557999.file.myqcloud.com/uPic/b8LfDN.png) 
 
 ## 👀 资料 
 
-### [Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
+### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
-微软出品的 `GitHub Copilot` 教程：
+命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
 
-![Mastering-GitHub-Copilot-for-Paired-Programming](https://images-1252557999.file.myqcloud.com/uPic/KTSuLa.png) 
+### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
 
-### [linux-command](https://github.com/jaywcjlove/linux-command)
+读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
 
-Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
+![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
 
-![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
+### [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
-### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
-
-站点可靠性工作手册：
-
-![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
+这个仓库收集了各种日常工作中使用的材料和工具，包括 CLI 工具、GUI 工具、Web 工具、系统服务、网络、容器编排、手册教程、博客资源、黑客测试等内容。适合系统管理员、网络管理员、DevOps、渗透测试者和安全研究人员使用。 
 
 ## 🕸 网站 
 
-### [uipatterns](http://uipatterns.io)
+### [tldraw](https://www.tldraw.com/)
 
-程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
+小巧强大的在线绘图工具：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/uipatterns.jpg) 
+![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
 
-### [photoroom](https://www.photoroom.com/backgrounds/)
+### [zeli.app](https://zeli.app/zh)
 
-利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
+用中文读科技新闻，旨在帮你快速挑选感兴趣的文章来读：
 
-![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
+![zeli](https://images-1252557999.file.myqcloud.com/uPic/dvVEf9.png) 
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+### [ouchn](https://le.ouchn.cn/#/home)
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+国家开放大学终身教育平台正式上线，面向社会免费开放。该平台汇聚国家开放大学自建学习资源，338所知名高校课程资源免费开放、10个头部平台的特色课程等共计50万门，包含生活、职场、学历、兴趣等不同领域的课程。致力于满足社会大众多元化、个性化学习需求。
 
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+![ouchn](https://images-1252557999.file.myqcloud.com/uPic/ouchn.jpg) 
 
 ## ✍️ 说明
 
