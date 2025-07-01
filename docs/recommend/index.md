@@ -5,90 +5,86 @@
 
 ## 🎯 项目 
 
-### [spy-search](https://github.com/JasonHonKL/spy-search)
+### [SoraWebui](https://github.com/SoraWebui/SoraWebui)
 
-`Spy Search` 是一个智能搜索框架，旨在提供比现有网页搜索代理更快速高效的日常搜索体验。相比 `Manus` 等月费 **$200** 的商业解决方案，`Spy Search` 基于开源模型提供经济高效的替代方案，同时保持出色的性能表现。
+`SoraWebui` 是一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能：
 
-![spy-search](https://images-1252557999.file.myqcloud.com/uPic/jQyGNQ.png) 
+![SoraWebui](https://images-1252557999.file.myqcloud.com/uPic/SoraWebui.jpeg) 
 
-### [iptables-web](https://github.com/pretty66/iptables-web)
+### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
 
-`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
+让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
 
-![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
+### [oh-my-wechat](https://github.com/chclt/oh-my-wechat/)
 
-### [ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine)
+开源项目，微信消息备份与年度数据报告：
 
-随着 `TikTok` 和 `Youtube` 等短视频内容的兴起，比以往任何时候都有更多的知识存在于视频中。对于任何一个人来说，在数百万个视频中找到特定答案可能是困难的，而这个项目([https://avse.vercel.app/](https://avse.vercel.app/))就是针对这个问题进行探索：
-
-![ai-video-search-engine](https://images-1252557999.file.myqcloud.com/uPic/ai-video-search-engine.jpg) 
+![oh-my-wechat](https://images-1252557999.file.myqcloud.com/uPic/JXAGlQ.png) 
 
 ## 🤖 软件 
 
-### [alacritty](https://github.com/alacritty/alacritty)
+### [organicmaps](https://github.com/organicmaps/organicmaps)
 
-一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
+`organicmaps` 是一款免费的 Android 和 iOS 离线地图应用程序，适用于旅行者、游客、司机、徒步旅行者和自行车骑行者。它使用众包的 OpenStreetMap 数据，由 MapsWithMe 应用程序（后来更名为 Maps.Me）的创建者和社区共同开发。没有广告，没有跟踪，没有数据收集，没有垃圾软件：
 
-我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
+![organicmaps](https://images-1252557999.file.myqcloud.com/uPic/organicmaps.jpg) 
 
-![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
+### [bananas](https://github.com/mistweaverco/bananas)
 
-### [mihon](https://github.com/mihonapp/mihon)
+一个跨平台、点对点的屏幕共享工具，支持多光标协作，无需配置即可快速使用，注重隐私保护。
 
-`Mihon` 是一款安卓端的免费、开源漫画阅读器，支持漫画在线阅读与下载。 应用界面清爽干净，操作简单，纯净无广告：
+![bananas](https://images-1252557999.file.myqcloud.com/uPic/oOMgaM.png) 
 
-- 支持在线阅读、漫画下载和本地漫画阅读；
-- 支持安装全球各种漫画图源；
-- 多种阅读模式和各种自定义设置；
-- 书架、发现、分组、阅读统计、主题、追踪、自动更新及备份等功能……
+### [unclutter](https://github.com/lindylearn/unclutter)
 
-![mihon](https://images-1252557999.file.myqcloud.com/uPic/qkUiNU.png) 
+阅读插件，将网页内容快速转成美观的阅读模式：
 
-### [onlook](https://github.com/onlook-dev/onlook)
-
-> 设计师专属的 Cursor —— 一款开源、视觉优先的代码编辑器
-
-一个开源的、基于可视化编辑的代码编辑器，专为设计师而优化，旨在通过 AI 与浏览器内 DOM 的直接编辑功能，让用户能够在代码编辑器中进行设计和编码。
-
-使用 AI 在 Next.js + TailwindCSS 中构建网站、原型和设计。通过可视化编辑器直接在浏览器 DOM 中进行编辑。实时用代码进行设计。这是 Bolt.new、Lovable、V0、Replit Agent、Figma Make、Webflow 等产品的开源替代方案。
-
-![onlook](https://images-1252557999.file.myqcloud.com/uPic/b8LfDN.png) 
+![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
 
 ## 👀 资料 
 
-### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
 
-命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
+关于 `MongoDB`，最全面的免费学习向导：
 
-### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
+- 学习资源：文档书籍教程等
+- 第三方库：各种编程语言的兼容库
+- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
 
-读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
+### [Recommender_System](https://github.com/solidglue/Recommender_System)
 
-![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
+推荐系统入门指南，全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。 
 
-### [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+### [Ai迷思录](https://github.com/Acmesec/theAIMythbook)
 
-这个仓库收集了各种日常工作中使用的材料和工具，包括 CLI 工具、GUI 工具、Web 工具、系统服务、网络、容器编排、手册教程、博客资源、黑客测试等内容。适合系统管理员、网络管理员、DevOps、渗透测试者和安全研究人员使用。 
+涵盖了人工智能的基础知识、法律法规、经典人工智能模型、漏洞与攻击、防御方法、安全开发与运维、相关框架、会议讲座以及实践技能等。
+
+![theAIMythbook](https://images-1252557999.file.myqcloud.com/uPic/lPbVPg.png) 
 
 ## 🕸 网站 
 
-### [tldraw](https://www.tldraw.com/)
+### [aosabook](http://aosabook.org/en/index.html)
 
-小巧强大的在线绘图工具：
+网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
 
-![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
+- ZeroMQ
+- Chrome
+- Nginx
+- 等等
 
-### [zeli.app](https://zeli.app/zh)
+上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
 
-用中文读科技新闻，旨在帮你快速挑选感兴趣的文章来读：
+### [emojiall](https://www.emojiall.com/)
 
-![zeli](https://images-1252557999.file.myqcloud.com/uPic/dvVEf9.png) 
+网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
 
-### [ouchn](https://le.ouchn.cn/#/home)
+![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg) 
 
-国家开放大学终身教育平台正式上线，面向社会免费开放。该平台汇聚国家开放大学自建学习资源，338所知名高校课程资源免费开放、10个头部平台的特色课程等共计50万门，包含生活、职场、学历、兴趣等不同领域的课程。致力于满足社会大众多元化、个性化学习需求。
+### [fviewer](https://www.fviewer.com/zh)
 
-![ouchn](https://images-1252557999.file.myqcloud.com/uPic/ouchn.jpg) 
+免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
+
+![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
 
 ## ✍️ 说明
 
