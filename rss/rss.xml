@@ -12,7 +12,65 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sat, 21 Jun 2025 13:26:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:15 +0000</lastBuildDate>
+    <item>
+      <title>06-23~06-29.老胡的周刊（第193期）.md</title>
+      <link>https://weekly.howie6879.com/2025/06-23~06-29.老胡的周刊（第193期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/06-23~06-29.老胡的周刊（第193期）.html"&gt;06-23~06-29.老胡的周刊（第193期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我的信息周刊，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/google-gemini/gemini-cli"&gt;gemini-cli&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Gemini CLI&lt;/code&gt;  是谷歌开源的 &lt;code&gt;AI&lt;/code&gt; 编程工具，目前来看可以说是免费的：每分钟 60 次请求，每天 1000 次请求：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="gemini-cli" src="https://images-1252557999.file.myqcloud.com/uPic/Zs1LrM.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/yuruotong1/autoMate"&gt;autoMate&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;🤖 AI驱动的本地自动化工具 | 让电脑自己会干活，&lt;code&gt;autoMate&lt;/code&gt; 是一款革命性的 &lt;code&gt;AI+RPA&lt;/code&gt; 自动化工具，基于 &lt;code&gt;OmniParser&lt;/code&gt; 构建，它能够&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📊 理解您的需求，自动进行任务规划&lt;/li&gt;
+&lt;li&gt;🔍 智能理解屏幕内容，模拟人类视觉和操作&lt;/li&gt;
+&lt;li&gt;🧠 自主决策，根据任务需求进行判断并采取行动&lt;/li&gt;
+&lt;li&gt;💻 支持本地化部署，保护您的数据安全和隐私&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href="https://github.com/JasonHonKL/spy-search"&gt;spy-search&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Spy Search&lt;/code&gt; 是一个智能搜索框架，旨在提供比现有网页搜索代理更快速高效的日常搜索体验。相比 &lt;code&gt;Manus&lt;/code&gt; 等月费 &lt;strong&gt;$200&lt;/strong&gt; 的商业解决方案，&lt;code&gt;Spy Search&lt;/code&gt; 基于开源模型提供经济高效的替代方案，同时保持出色的性能表现。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="spy-search" src="https://images-1252557999.file.myqcloud.com/uPic/jQyGNQ.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/psviderski/unregistry"&gt;unregistry&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;直接将 &lt;code&gt;Docker&lt;/code&gt; 镜像推送到远程服务器，无需外部注册表：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="unregistry" src="https://images-1252557999.file.myqcloud.com/uPic/C2uoOc.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/getAsterisk/claudia"&gt;claudia&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个强大的 &lt;code&gt;GUI&lt;/code&gt; 应用程序和工具包，用于创建自定义 &lt;code&gt;Claude Code&lt;/code&gt; 代理、管理交互式 &lt;code&gt;Claude Code&lt;/code&gt; 会话、运行安全的后台代理等功能。&lt;/p&gt;
+&lt;p&gt;它支持 &lt;code&gt;Windows、macOS &amp;amp; Linux&lt;/code&gt; 操作系统，并且提供了一个用于管理 &lt;code&gt;Claude Code&lt;/code&gt; 会话的强大的桌面应用程序。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="claudia" src="https://images-1252557999.file.myqcloud.com/uPic/uTJEkr.png" /&gt;&lt;/p&gt;
+&lt;p&gt;PS：如果想实时监控Claude AI令牌使用情况，可以使用 &lt;a href="https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor"&gt;Claude-Code-Usage-Monitor&lt;/a&gt;。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/mikumifa/biliTickerBuy"&gt;biliTickerBuy&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;免费开源的B站会员购购票辅助工具：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="biliTickerBuy" src="https://images-1252557999.file.myqcloud.com/uPic/f4iCzf.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/AnsahMohammad/shots-studio"&gt;shots-studio&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;AI&lt;/code&gt; 驱动的截图管理工具，通过 AI 实现自动分类截图，支持搜索截图内容、自动添加或者生成标签等功能：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="shots-studio" src="https://images-1252557999.file.myqcloud.com/uPic/F4IKLL.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/hesreallyhim/awesome-claude-code"&gt;awesome-claude-code&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个精选列表，包含了用于增强 Claude Code 工作流程、生产力和氛围的各种命令、文件和工具：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="awesome-claude-code" src="https://images-1252557999.file.myqcloud.com/uPic/HMpvvc.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.self.so/"&gt;self.so&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;上传简历，基于 AI 大模型生成个人网站：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="self.so" src="https://images-1252557999.file.myqcloud.com/uPic/eKGx5T.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://fakewindowsupdatescreen.com/"&gt;fakewindowsupdatescreen.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;模拟电脑正在更新，我感觉是员工摸鱼用的，挺有意思：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="fakewindowsupdatescreen.com" src="https://images-1252557999.file.myqcloud.com/uPic/ALG1l5.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github 项目地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，如果觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;官网：&lt;a href="https://weekly.howie6879.cn/"&gt;weekly.howie6879.cn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">06-23~06-29.老胡的周刊（第193期）.md</guid>
+      <pubDate>Sun, 29 Jun 2025 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>06-16~06-22.老胡的周刊（第192期）.md</title>
       <link>https://weekly.howie6879.com/2025/06-16~06-22.老胡的周刊（第192期）.html</link>
@@ -1357,48 +1415,6 @@
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">01-01~01-05.老胡的周刊（第174期）.md</guid>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>12-23~12-29.老胡的周刊（第173期）.md</title>
-      <link>https://weekly.howie6879.com/2024/12-23~12-29.老胡的周刊（第173期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2024/12-23~12-29.老胡的周刊（第173期）.html"&gt;12-23~12-29.老胡的周刊（第173期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/petercat-ai/petercat"&gt;petercat&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;蚂蚁集团支付宝体验技术部开源的智能答疑机器人解决方案，它允许用户通过提供 &lt;code&gt;GitHub&lt;/code&gt; 仓库地址或名称来自动创建答疑机器人，并将相关文档和 &lt;code&gt;issue&lt;/code&gt; 自动入库作为知识依据。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="petercat" src="https://images-1252557999.file.myqcloud.com/uPic/r2veXY.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/gcui-art/markdown-to-image"&gt;markdown-to-image&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;将 &lt;code&gt;Markdown&lt;/code&gt; 渲染为漂亮的社交媒体图片。此外，该项目还包括一个内置的 &lt;code&gt;WEB Editor&lt;/code&gt;，一键部署后，可以当做 &lt;code&gt;Markdown&lt;/code&gt; 转海报图片在线编辑器使用。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="markdown-to-image" src="https://images-1252557999.file.myqcloud.com/uPic/iyqemy.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/sourcegit-scm/sourcegit"&gt;sourcegit&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个跨平台的 &lt;code&gt;GUI&lt;/code&gt; 客户端：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="sourcegit" src="https://images-1252557999.file.myqcloud.com/uPic/yC8OCO.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://www.lookai.top/cn/cursor/instruction/instruction"&gt;Curosor 教程&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;零基础小白 &lt;code&gt;Cursor&lt;/code&gt; 学习网站：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Curosor" src="https://images-1252557999.file.myqcloud.com/uPic/YIZShF.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://cobalt.tools/"&gt;cobalt&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个专注于隐私保护和用户自由的&lt;a href="https://github.com/imputnet/cobalt"&gt;开源&lt;/a&gt;在线工具，它允许用户从各种网站上保存视频、音频、图片或 GIF，同时提供匿名请求和加密隧道技术，确保用户的隐私安全。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="cobalt" src="https://images-1252557999.file.myqcloud.com/uPic/ZwEgp6.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/copilot"&gt;github copilot&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;GitHub Copilot&lt;/code&gt; 可以免费使用了，免费用户每月有 2000 个代码建议、50 次对话。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="copilot" src="https://images-1252557999.file.myqcloud.com/uPic/648shM.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">12-23~12-29.老胡的周刊（第173期）.md</guid>
-      <pubDate>Sun, 29 Dec 2024 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
