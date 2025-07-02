@@ -5,86 +5,90 @@
 
 ## 🎯 项目 
 
-### [SoraWebui](https://github.com/SoraWebui/SoraWebui)
+### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
 
-`SoraWebui` 是一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能：
+抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
 
-![SoraWebui](https://images-1252557999.file.myqcloud.com/uPic/SoraWebui.jpeg) 
+![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
 
-### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
+### [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi)
 
-让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
+基于 `Mikan Project、qBittorrent` 的全自动追番整理下载工具。只需要在 `Mikan Project` 上订阅番剧，就可以全自动追番。并且整理完成的名称和目录可以直接被 `Plex、Jellyfin` 等媒体库软件识别，无需二次刮削：
 
-### [oh-my-wechat](https://github.com/chclt/oh-my-wechat/)
+![Auto_Bangumi](https://images-1252557999.file.myqcloud.com/uPic/Auto_Bangumi.png) 
 
-开源项目，微信消息备份与年度数据报告：
+### [fusion](https://github.com/0x2E/fusion)
 
-![oh-my-wechat](https://images-1252557999.file.myqcloud.com/uPic/JXAGlQ.png) 
+开源、轻量可自建，用户友好的 RSS 聚合阅读器：
+
+- 轻量级和自托管，支持 Docker
+- 功能丰富
+- 跨平台和响应式设计
+- 多种安装和配置方式
+- 技术栈和社区支持
+- 资源消耗低
+
+![fusion](https://images-1252557999.file.myqcloud.com/uPic/fusion.png) 
 
 ## 🤖 软件 
 
-### [organicmaps](https://github.com/organicmaps/organicmaps)
+### [video-subtitle-master](https://github.com/buxuku/video-subtitle-master)
 
-`organicmaps` 是一款免费的 Android 和 iOS 离线地图应用程序，适用于旅行者、游客、司机、徒步旅行者和自行车骑行者。它使用众包的 OpenStreetMap 数据，由 MapsWithMe 应用程序（后来更名为 Maps.Me）的创建者和社区共同开发。没有广告，没有跟踪，没有数据收集，没有垃圾软件：
+@buxuku 投稿，无须上传，在本地即可批量为视频生成字幕文件出来，同时也可以通过百度/火山/deeplx翻译 api 将字幕文件翻译成其它语言的字幕文件：
 
-![organicmaps](https://images-1252557999.file.myqcloud.com/uPic/organicmaps.jpg) 
+![video-subtitle-master](https://images-1252557999.file.myqcloud.com/uPic/video-subtitle-master.png) 
 
-### [bananas](https://github.com/mistweaverco/bananas)
+### [pear-rec](https://github.com/027xiguapi/pear-rec)
 
-一个跨平台、点对点的屏幕共享工具，支持多光标协作，无需配置即可快速使用，注重隐私保护。
+`pear-rec`(梨子 rec) 是一个跨平台的截图、录屏、录音、录像软件：
 
-![bananas](https://images-1252557999.file.myqcloud.com/uPic/oOMgaM.png) 
+![pear-rec](https://images-1252557999.file.myqcloud.com/uPic/pear-rec.jpg) 
 
-### [unclutter](https://github.com/lindylearn/unclutter)
+### [gushi_namer](https://github.com/holynova/gushi_namer)
 
-阅读插件，将网页内容快速转成美观的阅读模式：
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
 
-![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
+![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
 ## 👀 资料 
 
-### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
+### [云安全攻防入门](https://lzcloudsecurity.gitbook.io/yun-an-quan-gong-fang-ru-men/)
 
-关于 `MongoDB`，最全面的免费学习向导：
+关于云安全攻防的基础知识：
 
-- 学习资源：文档书籍教程等
-- 第三方库：各种编程语言的兼容库
-- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
+![yun-an-quan-gong-fang-ru-men](https://images-1252557999.file.myqcloud.com/uPic/yun-an-quan-gong-fang-ru-men.jpg) 
 
-### [Recommender_System](https://github.com/solidglue/Recommender_System)
+### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
 
-推荐系统入门指南，全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。 
+一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
 
-### [Ai迷思录](https://github.com/Acmesec/theAIMythbook)
+### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
 
-涵盖了人工智能的基础知识、法律法规、经典人工智能模型、漏洞与攻击、防御方法、安全开发与运维、相关框架、会议讲座以及实践技能等。
+《Software Engineering at Google》的中文翻译版本：
 
-![theAIMythbook](https://images-1252557999.file.myqcloud.com/uPic/lPbVPg.png) 
+![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
 
 ## 🕸 网站 
 
-### [aosabook](http://aosabook.org/en/index.html)
+### [picdiet.eula.club](https://picdiet.eula.club/)
 
-网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
+`Picdiet` 是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏：
 
-- ZeroMQ
-- Chrome
-- Nginx
-- 等等
+![picdiet](https://images-1252557999.file.myqcloud.com/uPic/picdiet.jpg) 
 
-上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
+### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
 
-### [emojiall](https://www.emojiall.com/)
+一份新冠预防及治疗指南：
 
-网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
+![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
 
-![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg) 
+### [nosh](https://nosh.rocks/)
 
-### [fviewer](https://www.fviewer.com/zh)
+一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
 
-免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
-
-![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
+![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
 
 ## ✍️ 说明
 
