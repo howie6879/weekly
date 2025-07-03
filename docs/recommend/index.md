@@ -5,90 +5,100 @@
 
 ## 🎯 项目 
 
-### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
+### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
 
-抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
+`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
 
-![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
+![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
 
-### [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi)
+### [social-auto-upload](https://github.com/dreammis/social-auto-upload)
 
-基于 `Mikan Project、qBittorrent` 的全自动追番整理下载工具。只需要在 `Mikan Project` 上订阅番剧，就可以全自动追番。并且整理完成的名称和目录可以直接被 `Plex、Jellyfin` 等媒体库软件识别，无需二次刮削：
+自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili：
 
-![Auto_Bangumi](https://images-1252557999.file.myqcloud.com/uPic/Auto_Bangumi.png) 
+![social-auto-upload](https://images-1252557999.file.myqcloud.com/uPic/social-auto-upload.jpg) 
 
-### [fusion](https://github.com/0x2E/fusion)
+### [Dasherr](https://github.com/erohtar/Dasherr)
 
-开源、轻量可自建，用户友好的 RSS 聚合阅读器：
+简单轻量自部署的仪表盘工具：
 
-- 轻量级和自托管，支持 Docker
-- 功能丰富
-- 跨平台和响应式设计
-- 多种安装和配置方式
-- 技术栈和社区支持
-- 资源消耗低
-
-![fusion](https://images-1252557999.file.myqcloud.com/uPic/fusion.png) 
+![Dasherr](https://images-1252557999.file.myqcloud.com/uPic/Dasherr.png) 
 
 ## 🤖 软件 
 
-### [video-subtitle-master](https://github.com/buxuku/video-subtitle-master)
+### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
 
-@buxuku 投稿，无须上传，在本地即可批量为视频生成字幕文件出来，同时也可以通过百度/火山/deeplx翻译 api 将字幕文件翻译成其它语言的字幕文件：
+适用于Android的免费开源漫画阅读器，流畅丝滑：
 
-![video-subtitle-master](https://images-1252557999.file.myqcloud.com/uPic/video-subtitle-master.png) 
+![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
 
-### [pear-rec](https://github.com/027xiguapi/pear-rec)
+之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
 
-`pear-rec`(梨子 rec) 是一个跨平台的截图、录屏、录音、录像软件：
+### [sourcegit](https://github.com/sourcegit-scm/sourcegit)
 
-![pear-rec](https://images-1252557999.file.myqcloud.com/uPic/pear-rec.jpg) 
+一个跨平台的 `GUI` 客户端：
 
-### [gushi_namer](https://github.com/holynova/gushi_namer)
+![sourcegit](https://images-1252557999.file.myqcloud.com/uPic/yC8OCO.png) 
 
-古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
+### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
 
-![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
 
-从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
+![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
 
 ## 👀 资料 
 
-### [云安全攻防入门](https://lzcloudsecurity.gitbook.io/yun-an-quan-gong-fang-ru-men/)
+### [secguide](https://github.com/Tencent/secguide)
 
-关于云安全攻防的基础知识：
+面向开发人员梳理的代码安全指南，规范索引如下：
 
-![yun-an-quan-gong-fang-ru-men](https://images-1252557999.file.myqcloud.com/uPic/yun-an-quan-gong-fang-ru-men.jpg) 
+- C/C++安全指南
+- JavaScript安全指南
+- Node安全指南
+- Go安全指南
+- Java安全指南
+- Python安全指南 
 
-### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
+### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
 
-一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
+**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
 
-### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+- JS基础语法
+- 核心模块概述
+- 面向对象
+- DOM
+- 计算机网络
+- 设计模式
+- 等等
 
-《Software Engineering at Google》的中文翻译版本：
+对于前端开发者来说应该是一个非常好的知识库：
 
-![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
+![javascript-guidebook](https://images-1252557999.file.myqcloud.com/uPic/vIsnjD.png) 
+
+### [Flutter实战·第二版](https://book.flutterchina.club/)
+
+本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
+
+![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
 
 ## 🕸 网站 
 
-### [picdiet.eula.club](https://picdiet.eula.club/)
+### [stable-doodle](https://clipdrop.co/stable-doodle)
 
-`Picdiet` 是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏：
+`stability AI` 推出的 `AI` 工具, 根据涂鸦和文字描述生成图片, 类似之推荐的 [scribblediffusion.com](https://weekly.howie6879.com/2023/03-06~03-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC082%E6%9C%9F%EF%BC%89.html?h=%E7%94%BB#scribblediffusioncom)，我画了只兔子：
 
-![picdiet](https://images-1252557999.file.myqcloud.com/uPic/picdiet.jpg) 
+![stable-doodle](https://images-1252557999.file.myqcloud.com/uPic/stable-doodle.jpg) 
 
-### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
+### [smartexcel](https://www.smartexcel.cc/)
 
-一份新冠预防及治疗指南：
+使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
 
-![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
+![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
 
-### [nosh](https://nosh.rocks/)
+### [seekflag](https://seekflag.com/)
 
-一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
+网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
 
-![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
+![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
 
 ## ✍️ 说明
 
