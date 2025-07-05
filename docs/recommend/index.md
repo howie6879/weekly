@@ -5,94 +5,111 @@
 
 ## 🎯 项目 
 
-### [py12306](https://github.com/pjialin/py12306)
+### [browser-use](https://github.com/browser-use/browser-use)
 
-🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理：
+一种允许人工智能控制浏览器的解决方案，通过提取网页上所有交互元素，使得 `AI Agent` 能够更专注地执行其任务:
 
-![py12306](https://images-1252557999.file.myqcloud.com/uPic/py12306.jpg)
+![browser-use](https://images-1252557999.file.myqcloud.com/uPic/PZHVoz.png) 
 
-如果实在抢不到，试下这个项目通过补票或者多买一站来解决：[12306spy](https://github.com/elroy93/12306spy)，这类项目每到假期就会火一把。 
+### [simba](https://github.com/GitHamza0206/simba)
 
-### [typikon](https://github.com/auula/typikon)
+`Simba` 的目标是简化知识管理，使开发者能够专注于构建核心人工智能功能，该系统具有现代化的用户界面和模块化架构，允许开发者轻松地插入不同的向量存储、嵌入模型、分块器和解析器：
 
-Typikon 是一个将 Markdown 转换为在线书籍的工具，类似于 mdbook 和 gitbook，但更易于使用，颜值也很不错：
+![simba](https://images-1252557999.file.myqcloud.com/uPic/eDTGdu.png) 
 
-![typikon](https://images-1252557999.file.myqcloud.com/uPic/typikon.jpg) 
+### [onenav](https://github.com/helloxz/onenav)
 
-### [SearXNG](https://github.com/searxng/searxng)
+使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问：
 
-`SearXNG` 是一个免费的互联网元搜索引擎，它通过整合不同的搜索服务和数据库来提供搜索结果，同时保障用户隐私不被追踪和分析。
+支持后台管- 理
+- 支持私有链接
+- 支持Chrome/Firefox/Edge书签批量导入
+- 支持多种主题风格
+- 支持链接信息自动识别
+- 支持API
+- 支持Docker部署
+- 支持uTools插件
+- 支持二级分类
+- 支持Chromium内核的浏览器扩展（插件）
+- 支持在线更新
+- 手机版后台
 
-![SearXNG](https://images-1252557999.file.myqcloud.com/uPic/SearXNG.jpg) 
+![onenav](https://images-1252557999.file.myqcloud.com/uPic/onenav.png) 
 
 ## 🤖 软件 
 
-### [Cider](https://github.com/ciderapp/Cider)
+### [Mos](https://github.com/Caldis/Mos)
 
-一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
+一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
 
-![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
+![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
 
-### [FileConverter](https://github.com/Tichau/FileConverter)
+### [Polybar](https://github.com/polybar/polybar)
 
-`File Converter` 是一个简单的工具，允许用户通过 Windows 资源管理器的上下文菜单转换和压缩文件：
+`Polybar` 是一个用于创建个性化状态栏的工具，它支持多种桌面环境：
 
-![FileConverter](https://images-1252557999.file.myqcloud.com/uPic/3Mtc4V.png) 
+![polybar](https://images-1252557999.file.myqcloud.com/uPic/polybar.jpg) 
 
-### [rubick](https://github.com/rubickCenter/rubick)
+### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
 
-基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
+M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
 
-- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
-- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
-- 支持全局快捷键设置。
-- 支持剪贴板文件搜索。
-- 支持搜索本地安装的应用程序或偏好设置。
-- 支持MacOS。
-- 支持Windows。
-- 支持Linux。
+| 功能                 | 支持       |
+| -------------------- | ---------- |
+| HLS协议点播源        | ✓          |
+| 自定义Http协议头下载 | ✓          |
+| 自定义KEY和IV解密    | ✓          |
+| 本地M3U8文件下载     | ✓          |
+| M3U8 直播源          | ✓          |
+| 标准 AES-128-CBC加密 | ✓          |
+| 标准 AES-196-CBC加密 | ✓          |
+| 标准 AES-256-CBC加密 | ✓          |
+| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
+| 网页嗅探视频源       | ✓          |
 
-![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
+![HLSDownloadShow](https://images-1252557999.file.myqcloud.com/uPic/HLSDownloadShow.gif) 
 
 ## 👀 资料 
 
-### [法律文库](https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html)
+### [easy-rl](https://github.com/datawhalechina/easy-rl)
 
-以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。
+强化学习中文教程：
 
-![justlaws](https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg) 
+![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
 
-### [rust-by-practice](https://github.com/sunface/rust-by-practice)
+### [go-ast-book](https://github.com/chai2010/go-ast-book)
 
-通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
+《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/f4zLoa.png) 
+![go-ast-book](https://images-1252557999.file.myqcloud.com/uPic/MenvcC.png) 
 
-### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
+### [rust-course](https://github.com/sunface/rust-course)
 
-健康学习到150岁 - 人体系统调优不完全指南：
+> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
 
-![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
+![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
+
+阅读地址见[course.rs](https://course.rs)。 
 
 ## 🕸 网站 
 
-### [dll-files](https://cn.dll-files.com/)
+### [star-history](https://star-history.com/)
 
-最近一些工作在 Windows 系统上完成，有一些软件总是提示：无法找到xxxx.dll文件...，这个网站很好地解决了我的问题：
+在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
 
-![dll-files](https://images-1252557999.file.myqcloud.com/uPic/dll-files.jpg) 
+![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
 
-### [tik.fail](https://tik.fail/browse)
+### [chatplugin.top](https://www.chatplugin.top/)
 
-国内能直接刷TikTok的在线网站，支持搜索和下载：
+`ChatGPT Plugin` 收录网站，并且将插件汉化：
 
-![tik_fail](https://images-1252557999.file.myqcloud.com/uPic/tik_fail.jpg) 
+![chatplugin](https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg) 
 
-### [libhunt](https://www.libhunt.com/)
+### [ziyouziti](https://ziyouziti.com/)
 
-一个对开源项目进行分类并排名的网站：
+免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
 
-![libhunt](https://images-1252557999.file.myqcloud.com/uPic/libhunt.jpg) 
+![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
 
 ## ✍️ 说明
 
