@@ -5,111 +5,88 @@
 
 ## 🎯 项目 
 
-### [browser-use](https://github.com/browser-use/browser-use)
+### [DataEase](https://github.com/dataease/dataease)
 
-一种允许人工智能控制浏览器的解决方案，通过提取网页上所有交互元素，使得 `AI Agent` 能够更专注地执行其任务:
+DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
 
-![browser-use](https://images-1252557999.file.myqcloud.com/uPic/PZHVoz.png) 
+### [v2rayA](https://github.com/v2rayA/v2rayA)
 
-### [simba](https://github.com/GitHamza0206/simba)
+`v2rayA` 是一个支持全局透明代理的 `V2Ray` 客户端，同时兼容 `SS、SSR、Trojan(trojan-go)、Tuic & Juicity` 协议， 致力于提供最简单的操作，满足绝大部分需求，得益于 Web 客户端的优势，你不仅可以将其用于本地计算机，还可以轻松地将它部署在路由器或 NAS 上。
 
-`Simba` 的目标是简化知识管理，使开发者能够专注于构建核心人工智能功能，该系统具有现代化的用户界面和模块化架构，允许开发者轻松地插入不同的向量存储、嵌入模型、分块器和解析器：
+![v2rayA](https://images-1252557999.file.myqcloud.com/uPic/v2rayA.png) 
 
-![simba](https://images-1252557999.file.myqcloud.com/uPic/eDTGdu.png) 
+### [maxun](https://github.com/getmaxun/maxun)
 
-### [onenav](https://github.com/helloxz/onenav)
+一个免费、开源的无代码网页数据提取平台，允许用户构建自定义机器人以自动化数据抓取任务，可以很方便地进行web2api：
 
-使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问：
-
-支持后台管- 理
-- 支持私有链接
-- 支持Chrome/Firefox/Edge书签批量导入
-- 支持多种主题风格
-- 支持链接信息自动识别
-- 支持API
-- 支持Docker部署
-- 支持uTools插件
-- 支持二级分类
-- 支持Chromium内核的浏览器扩展（插件）
-- 支持在线更新
-- 手机版后台
-
-![onenav](https://images-1252557999.file.myqcloud.com/uPic/onenav.png) 
+![maxun](https://images-1252557999.file.myqcloud.com/uPic/Bkvnhq.png) 
 
 ## 🤖 软件 
 
-### [Mos](https://github.com/Caldis/Mos)
+### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
 
-一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
+基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
 
-![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
+- 干净简洁的UI
+- 内置效果可实现准确的男声和女声
+- 创建&加载自定义预设的能力
+- 创建自己的临时虚拟输入设备
 
-### [Polybar](https://github.com/polybar/polybar)
+![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
 
-`Polybar` 是一个用于创建个性化状态栏的工具，它支持多种桌面环境：
+### [SyncClipboard](https://github.com/Jeric-X/SyncClipboard)
 
-![polybar](https://images-1252557999.file.myqcloud.com/uPic/polybar.jpg) 
+跨平台剪贴板同步方案，包含服务端客户端：
 
-### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
+- 剪贴板同步，支持文字、图片和文件。服务器/客户端架构，可以使用客户端内置服务器、独立部署服务器，也可以使用支持WebDAV的网盘作为服务器
+- 优化图片类型的剪贴板，功能有：
+	- 从任意位置复制图片时，可以直接向文件系统粘贴图片文件，反之亦然
+	- 从浏览器复制图片后，后台下载原图到本地，解决无法从浏览器拷贝动态图的问题（大多网站有认证，适用范围有限，支持bilibili动态图片）
+	- 从文件系统复制较新格式类型的图片文件时（webp/heic等），在剪贴板内储存gif或jpg格式，用于直接向支持图片的文本框粘贴图片
 
-M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
+![SyncClipboard](https://images-1252557999.file.myqcloud.com/uPic/SyncClipboard.jpg)
 
-| 功能                 | 支持       |
-| -------------------- | ---------- |
-| HLS协议点播源        | ✓          |
-| 自定义Http协议头下载 | ✓          |
-| 自定义KEY和IV解密    | ✓          |
-| 本地M3U8文件下载     | ✓          |
-| M3U8 直播源          | ✓          |
-| 标准 AES-128-CBC加密 | ✓          |
-| 标准 AES-196-CBC加密 | ✓          |
-| 标准 AES-256-CBC加密 | ✓          |
-| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
-| 网页嗅探视频源       | ✓          |
+这个软件解决了老胡多台电脑间的复制同步问题，非常好用，强推，配置也不麻烦。 
 
-![HLSDownloadShow](https://images-1252557999.file.myqcloud.com/uPic/HLSDownloadShow.gif) 
+### [CatchMouse](https://github.com/round/CatchMouse)
+
+如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
 
 ## 👀 资料 
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
+### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
 
-强化学习中文教程：
+Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
 
-![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
+### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
 
-### [go-ast-book](https://github.com/chai2010/go-ast-book)
+该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
 
-《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)
+### [Ahrefs Blog SEO 文章列表](https://xuxuyu.notion.site/1468d1c9ea65473b934917d8ab25979b?v=dcaec075d4b34a8e8af5be0bc9a259a0)
 
-![go-ast-book](https://images-1252557999.file.myqcloud.com/uPic/MenvcC.png) 
+对 `SEO` 有兴趣可以看看：
 
-### [rust-course](https://github.com/sunface/rust-course)
-
-> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
-
-![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
-
-阅读地址见[course.rs](https://course.rs)。 
+![Ahrefs](https://images-1252557999.file.myqcloud.com/uPic/Ahrefs.jpg) 
 
 ## 🕸 网站 
 
-### [star-history](https://star-history.com/)
+### [upstract](https://upstract.com/)
 
-在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
+比较全面的新闻聚合平台：
 
-![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
+![upstract](https://images-1252557999.file.myqcloud.com/uPic/upstract.jpg) 
 
-### [chatplugin.top](https://www.chatplugin.top/)
+### [theonestopradio](https://theonestopradio.com/)
 
-`ChatGPT Plugin` 收录网站，并且将插件汉化：
+发现你可能喜欢的电台：
 
-![chatplugin](https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg) 
+![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
 
-### [ziyouziti](https://ziyouziti.com/)
+### [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css)
 
-免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
+前端实现的 `Pokemon` 卡片展示，非常酷炫：
 
-![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
+![pcc](https://images-1252557999.file.myqcloud.com/uPic/pcc.jpg) 
 
 ## ✍️ 说明
 
