@@ -5,97 +5,104 @@
 
 ## 🎯 项目 
 
-### [plasmo](https://github.com/PlasmoHQ/plasmo)
+### [mind-map](https://github.com/wanglin2/mind-map)
 
-`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
+在线版思维导图应用：
 
-- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
-- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
-- 热重载
-- [`.env*`  文件](https://docs.plasmo.com/framework/env)
-- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
-- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
-- 还有更多!  🚀
+![mind-map](https://images-1252557999.file.myqcloud.com/uPic/mind-map.jpg) 
 
-![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
+### [Restfox](https://github.com/flawiddsouza/Restfox)
 
-更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
+主打离线也能运行使用的 `Web HTTP` 客户端:
 
-### [manga-image-translator](https://github.com/zyddnys/manga-image-translator)
+![Restfox](https://images-1252557999.file.myqcloud.com/uPic/Restfox.png)
 
-一键翻译各类图片内文字，针对群内、各个图站上大量不太可能会有人去翻译的图片设计，让我这种日语小白能够勉强看懂图片，主要支持日语，汉语、英文和韩语，支持图片修补和嵌字:
+之前也推荐过 [hoppscotch](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。 
 
-![manga-image-translator](https://images-1252557999.file.myqcloud.com/uPic/manga-image-translator.jpg)
+### [Scrapegraph](https://github.com/VinciGit00/Scrapegraph-ai)
 
-也提供了在线访问地址 [https://cotrans.touhou.ai](https://cotrans.touhou.ai/)。 
+基于 `LLM` 大模型的 `Python` 爬虫框架：
 
-### [typora_plugin](https://github.com/obgnail/typora_plugin)
-
-开源的 `Typora` 插件，功能增强工具，新增了三十多种功能：
-
-![typora_plugin](https://images-1252557999.file.myqcloud.com/uPic/typora_plugin.jpg) 
+![scrapegraph](https://images-1252557999.file.myqcloud.com/uPic/scrapegraph.jpg) 
 
 ## 🤖 软件 
 
-### [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)
+### [Polybar](https://github.com/polybar/polybar)
 
-基于 `ScreenCapture Kit` 的轻量化多功能 `macOS` 录屏工具：
+`Polybar` 是一个用于创建个性化状态栏的工具，它支持多种桌面环境：
 
-![QuickRecorder](https://images-1252557999.file.myqcloud.com/uPic/QuickRecorder.jpg) 
+![polybar](https://images-1252557999.file.myqcloud.com/uPic/polybar.jpg) 
 
-### [boring.notch](https://github.com/TheBoredTeam/boring.notch/)
+### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
 
-`TheBoringNotch` 项目旨在将 `MacBook` 的 `notch` 区域转变为一个动态的音乐控制中心，具有音乐可视化效果和完整的音乐控制功能，让用户的 `MacBook notch` 成为屏幕上最酷的部分。 
+M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
 
-### [memreduct](https://github.com/henrypp/memreduct)
+| 功能                 | 支持       |
+| -------------------- | ---------- |
+| HLS协议点播源        | ✓          |
+| 自定义Http协议头下载 | ✓          |
+| 自定义KEY和IV解密    | ✓          |
+| 本地M3U8文件下载     | ✓          |
+| M3U8 直播源          | ✓          |
+| 标准 AES-128-CBC加密 | ✓          |
+| 标准 AES-196-CBC加密 | ✓          |
+| 标准 AES-256-CBC加密 | ✓          |
+| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
+| 网页嗅探视频源       | ✓          |
 
-轻量优雅的 `Windows` 内存管理工具，让用户实时监控计算机内存和清理系统缓存，体积小(6MB)、内存释放效果明显，兼容 `Windows XP` 及更高版本：
+![HLSDownloadShow](https://images-1252557999.file.myqcloud.com/uPic/HLSDownloadShow.gif) 
 
-![memreduct](https://images-1252557999.file.myqcloud.com/uPic/memreduct.jpg) 
+### [dockit](https://github.com/geek-fun/dockit)
+
+一个跨平台的图形用户界面客户端，支持 `Elasticsearch` 和 `Opensearch` 数据库管理。
+
+![dockit](https://images-1252557999.file.myqcloud.com/uPic/apAgUR.png) 
 
 ## 👀 资料 
 
-### [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/index.html)
+### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
 
-Beej 的 Git 指南教程：
+基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
 
-![Beejgit](https://images-1252557999.file.myqcloud.com/uPic/UAP5Fj.png)
+- NLP
+- CV
+- Time Series
 
-之前推荐过[Beej 的 C 语言超级指南](https://beej.us/guide/bgc/html/split/)，从入门到进阶，基础语法到高级特性：
+目录概览：
 
-![Beej](https://images-1252557999.file.myqcloud.com/uPic/1XOLrv.png) 
+![Pytorch](https://images-1252557999.file.myqcloud.com/uPic/kSUA40.png) 
 
-### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
+### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
 
-本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
+本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
 
-![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
+- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
+- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
+- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
 
-### [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)
+![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
 
-一本由 GPT4 生成的中英词典，涵盖 8000 高频词汇：
+### [Sam Altman的创业手册](https://jxp73q7qjsg.feishu.cn/docx/WCNZdKDa4o2eUrxK5ElcfBXEnah)
 
-![DictionaryByGPT4](https://images-1252557999.file.myqcloud.com/uPic/DictionaryByGPT4.png) 
+`Sam Altman` 的创业手册文本，给YC系创始人们的建议里面最通用的一部分提炼出来变成一个创业手册。 
 
 ## 🕸 网站 
 
-### [装个机](https://zhuangit.ababtools.com/)
+### [ray.so/icon](https://ray.so/icon)
 
-一个全面的电脑系统安装指南，里面不仅包含了Windows、MacOS的具体下载资源还有“手把手”的安装攻略。
+`Raycast` 出品的图标设计工具：
 
-![zhuangit](https://images-1252557999.file.myqcloud.com/uPic/IH6B8e.png) 
+![rayso](https://images-1252557999.file.myqcloud.com/uPic/rayso.jpg) 
 
-### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+### [IconPark](https://iconpark.oceanengine.com/home)
 
-人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
+字节开源的一款图标库。 
 
-![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
+### [tanpok](https://tool.tanpok.com/#/)
 
-### [openart.ai](https://openart.ai/)
+效果非常好的图片压缩工具：
 
-基于 `DALL E 2、Midjourney、SD` 生成的1000多万图片搜索网站：
-
-![openart](https://images-1252557999.file.myqcloud.com/uPic/openart.jpg) 
+![tanpok](https://images-1252557999.file.myqcloud.com/uPic/8fZN8v.png) 
 
 ## ✍️ 说明
 
