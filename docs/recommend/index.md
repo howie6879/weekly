@@ -5,104 +5,81 @@
 
 ## 🎯 项目 
 
-### [mind-map](https://github.com/wanglin2/mind-map)
+### [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
 
-在线版思维导图应用：
+基于 `CloudFlare Pages` 的免费图片托管解决方案，支持 `Telegram Bot` 和 `Cloudflare R2` 等多种存储方式:
 
-![mind-map](https://images-1252557999.file.myqcloud.com/uPic/mind-map.jpg) 
+![CloudFlare-ImgBed](https://images-1252557999.file.myqcloud.com/uPic/49JpVO.png) 
 
-### [Restfox](https://github.com/flawiddsouza/Restfox)
+### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
 
-主打离线也能运行使用的 `Web HTTP` 客户端:
+基于 `SOTA AI` 模型的图片免费开源修补工具：
 
-![Restfox](https://images-1252557999.file.myqcloud.com/uPic/Restfox.png)
+![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
 
-之前也推荐过 [hoppscotch](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。 
+### [Rin](https://github.com/OXeu/Rin)
 
-### [Scrapegraph](https://github.com/VinciGit00/Scrapegraph-ai)
+⚡️`Rin` 是一个基于 `Cloudflare Pages + Workers + D1 + R2` 全家桶的博客，无需服务器无需备案，只需要一个解析到 `Cloudflare` 的域名即可部署：
 
-基于 `LLM` 大模型的 `Python` 爬虫框架：
-
-![scrapegraph](https://images-1252557999.file.myqcloud.com/uPic/scrapegraph.jpg) 
+![Rin](https://images-1252557999.file.myqcloud.com/uPic/Rin.jpg) 
 
 ## 🤖 软件 
 
-### [Polybar](https://github.com/polybar/polybar)
+### [feed-flow](https://github.com/prof18/feed-flow)
 
-`Polybar` 是一个用于创建个性化状态栏的工具，它支持多种桌面环境：
+`FeedFlow` 是一款极简主义的 `RSS` 阅读器，可在 `Android、iOS&macOS`上使用：
 
-![polybar](https://images-1252557999.file.myqcloud.com/uPic/polybar.jpg) 
+![feedflow](https://images-1252557999.file.myqcloud.com/uPic/feedflow.jpg) 
 
-### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
+### [tunnelblick](https://tunnelblick.net/)
 
-M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
+免费开源的`openvpn`客户端：
 
-| 功能                 | 支持       |
-| -------------------- | ---------- |
-| HLS协议点播源        | ✓          |
-| 自定义Http协议头下载 | ✓          |
-| 自定义KEY和IV解密    | ✓          |
-| 本地M3U8文件下载     | ✓          |
-| M3U8 直播源          | ✓          |
-| 标准 AES-128-CBC加密 | ✓          |
-| 标准 AES-196-CBC加密 | ✓          |
-| 标准 AES-256-CBC加密 | ✓          |
-| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
-| 网页嗅探视频源       | ✓          |
+![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
 
-![HLSDownloadShow](https://images-1252557999.file.myqcloud.com/uPic/HLSDownloadShow.gif) 
+### [squawker](https://github.com/j-fbriere/squawker)
 
-### [dockit](https://github.com/geek-fun/dockit)
+一个开源的隐私导向的 `Twitter/X` 客户端：
 
-一个跨平台的图形用户界面客户端，支持 `Elasticsearch` 和 `Opensearch` 数据库管理。
-
-![dockit](https://images-1252557999.file.myqcloud.com/uPic/apAgUR.png) 
+![squawker](https://images-1252557999.file.myqcloud.com/uPic/mL6QyN.png) 
 
 ## 👀 资料 
 
-### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
+### [现代 JavaScript 教程](https://zh.javascript.info/)
 
-基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
+以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识：
 
-- NLP
-- CV
-- Time Series
+![javascript_info](https://images-1252557999.file.myqcloud.com/uPic/javascript_info.jpg) 
 
-目录概览：
+### [grammar-club](https://github.com/llwslc/grammar-club)
 
-![Pytorch](https://images-1252557999.file.myqcloud.com/uPic/kSUA40.png) 
+旋元佑老师的语法俱乐部书籍电子版，在线阅读[地址](https://llwslc.github.io/grammar-club/content/Preface.html)：
 
-### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
+![grammar-club](https://images-1252557999.file.myqcloud.com/uPic/grammar-club.jpg) 
 
-本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
+### [Sora 学习手册](https://yunyinghui.feishu.cn/wiki/BaCEwe3AliqYERkc9dVcfW0BnXg)
 
-- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
-- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
-- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
-
-![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
-
-### [Sam Altman的创业手册](https://jxp73q7qjsg.feishu.cn/docx/WCNZdKDa4o2eUrxK5ElcfBXEnah)
-
-`Sam Altman` 的创业手册文本，给YC系创始人们的建议里面最通用的一部分提炼出来变成一个创业手册。 
+基于飞书文档发布，包含一些 `Sora` 介绍，第三方技术拆解分享，研究报告，案例等内容，比较浅显但是可以作为了解的途径，里面的联系方式**慎加**。 
 
 ## 🕸 网站 
 
-### [ray.so/icon](https://ray.so/icon)
+### [transhumans](https://www.transhumans.xyz/)
 
-`Raycast` 出品的图标设计工具：
+免费可商用的人物插图：
 
-![rayso](https://images-1252557999.file.myqcloud.com/uPic/rayso.jpg) 
+![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
 
-### [IconPark](https://iconpark.oceanengine.com/home)
+### [22.do](https://22.do/)
 
-字节开源的一款图标库。 
+一次性 `Gmail` 临时邮箱：
 
-### [tanpok](https://tool.tanpok.com/#/)
+![22do](https://images-1252557999.file.myqcloud.com/uPic/22do.jpg) 
 
-效果非常好的图片压缩工具：
+### [libhunt](https://www.libhunt.com/)
 
-![tanpok](https://images-1252557999.file.myqcloud.com/uPic/8fZN8v.png) 
+一个对开源项目进行分类并排名的网站：
+
+![libhunt](https://images-1252557999.file.myqcloud.com/uPic/libhunt.jpg) 
 
 ## ✍️ 说明
 
