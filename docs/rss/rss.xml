@@ -12,7 +12,7 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 06 Jul 2025 14:03:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 14:11:29 +0000</lastBuildDate>
     <item>
       <title>07-01~07-06.老胡的周刊（第194期）.md</title>
       <link>https://weekly.howie6879.com/2025/07-01~07-06.老胡的周刊（第194期）.html</link>
@@ -66,6 +66,9 @@
 &lt;p&gt;&lt;code&gt;Glass&lt;/code&gt; 提供了一个轻量级、开源的桌面应用程序，能够实时监听和理解用户的上下文，将信息转化为结构化知识。在会议中，它能够主动提供行动项、摘要和即时答案。该应用程序设计为 “真正隐形”，不会出现在屏幕录制、截图或任务栏中，并且不会进行持续捕获或隐秘分享。&lt;/p&gt;
 &lt;p&gt;&lt;img alt="glass" src="https://images-1252557999.file.myqcloud.com/uPic/1SEd05.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/HW-whistleblower/True-Story-of-Pangu"&gt;True-Story-of-Pangu&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;🔥诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="True-Story-of-Pangu" src="https://images-1252557999.file.myqcloud.com/uPic/0aCPFn.png" /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://github.com/Shubhamsaboo/awesome-llm-apps"&gt;awesome-llm-apps&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;本项目精选收录了采用RAG、AI智能体、多智能体团队、MCP、语音智能体等技术构建的超赞LLM应用。本仓库展示的LLM应用使用了OpenAI、Anthropic、Google等公司的模型，以及DeepSeek、Qwen或Llama等可在本地计算机上运行的开源模型。&lt;/p&gt;
 &lt;p&gt;&lt;img alt="awesome-llm-apps" src="https://images-1252557999.file.myqcloud.com/uPic/9pE3fX.png" /&gt;&lt;/p&gt;
