@@ -5,88 +5,97 @@
 
 ## 🎯 项目 
 
-### [DataEase](https://github.com/dataease/dataease)
+### [plasmo](https://github.com/PlasmoHQ/plasmo)
 
-DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
+`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
 
-### [v2rayA](https://github.com/v2rayA/v2rayA)
+- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
+- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
+- 热重载
+- [`.env*`  文件](https://docs.plasmo.com/framework/env)
+- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
+- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
+- 还有更多!  🚀
 
-`v2rayA` 是一个支持全局透明代理的 `V2Ray` 客户端，同时兼容 `SS、SSR、Trojan(trojan-go)、Tuic & Juicity` 协议， 致力于提供最简单的操作，满足绝大部分需求，得益于 Web 客户端的优势，你不仅可以将其用于本地计算机，还可以轻松地将它部署在路由器或 NAS 上。
+![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
 
-![v2rayA](https://images-1252557999.file.myqcloud.com/uPic/v2rayA.png) 
+更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
 
-### [maxun](https://github.com/getmaxun/maxun)
+### [manga-image-translator](https://github.com/zyddnys/manga-image-translator)
 
-一个免费、开源的无代码网页数据提取平台，允许用户构建自定义机器人以自动化数据抓取任务，可以很方便地进行web2api：
+一键翻译各类图片内文字，针对群内、各个图站上大量不太可能会有人去翻译的图片设计，让我这种日语小白能够勉强看懂图片，主要支持日语，汉语、英文和韩语，支持图片修补和嵌字:
 
-![maxun](https://images-1252557999.file.myqcloud.com/uPic/Bkvnhq.png) 
+![manga-image-translator](https://images-1252557999.file.myqcloud.com/uPic/manga-image-translator.jpg)
+
+也提供了在线访问地址 [https://cotrans.touhou.ai](https://cotrans.touhou.ai/)。 
+
+### [typora_plugin](https://github.com/obgnail/typora_plugin)
+
+开源的 `Typora` 插件，功能增强工具，新增了三十多种功能：
+
+![typora_plugin](https://images-1252557999.file.myqcloud.com/uPic/typora_plugin.jpg) 
 
 ## 🤖 软件 
 
-### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
+### [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)
 
-基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
+基于 `ScreenCapture Kit` 的轻量化多功能 `macOS` 录屏工具：
 
-- 干净简洁的UI
-- 内置效果可实现准确的男声和女声
-- 创建&加载自定义预设的能力
-- 创建自己的临时虚拟输入设备
+![QuickRecorder](https://images-1252557999.file.myqcloud.com/uPic/QuickRecorder.jpg) 
 
-![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
+### [boring.notch](https://github.com/TheBoredTeam/boring.notch/)
 
-### [SyncClipboard](https://github.com/Jeric-X/SyncClipboard)
+`TheBoringNotch` 项目旨在将 `MacBook` 的 `notch` 区域转变为一个动态的音乐控制中心，具有音乐可视化效果和完整的音乐控制功能，让用户的 `MacBook notch` 成为屏幕上最酷的部分。 
 
-跨平台剪贴板同步方案，包含服务端客户端：
+### [memreduct](https://github.com/henrypp/memreduct)
 
-- 剪贴板同步，支持文字、图片和文件。服务器/客户端架构，可以使用客户端内置服务器、独立部署服务器，也可以使用支持WebDAV的网盘作为服务器
-- 优化图片类型的剪贴板，功能有：
-	- 从任意位置复制图片时，可以直接向文件系统粘贴图片文件，反之亦然
-	- 从浏览器复制图片后，后台下载原图到本地，解决无法从浏览器拷贝动态图的问题（大多网站有认证，适用范围有限，支持bilibili动态图片）
-	- 从文件系统复制较新格式类型的图片文件时（webp/heic等），在剪贴板内储存gif或jpg格式，用于直接向支持图片的文本框粘贴图片
+轻量优雅的 `Windows` 内存管理工具，让用户实时监控计算机内存和清理系统缓存，体积小(6MB)、内存释放效果明显，兼容 `Windows XP` 及更高版本：
 
-![SyncClipboard](https://images-1252557999.file.myqcloud.com/uPic/SyncClipboard.jpg)
-
-这个软件解决了老胡多台电脑间的复制同步问题，非常好用，强推，配置也不麻烦。 
-
-### [CatchMouse](https://github.com/round/CatchMouse)
-
-如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
+![memreduct](https://images-1252557999.file.myqcloud.com/uPic/memreduct.jpg) 
 
 ## 👀 资料 
 
-### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
+### [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/index.html)
 
-Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
+Beej 的 Git 指南教程：
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+![Beejgit](https://images-1252557999.file.myqcloud.com/uPic/UAP5Fj.png)
 
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+之前推荐过[Beej 的 C 语言超级指南](https://beej.us/guide/bgc/html/split/)，从入门到进阶，基础语法到高级特性：
 
-### [Ahrefs Blog SEO 文章列表](https://xuxuyu.notion.site/1468d1c9ea65473b934917d8ab25979b?v=dcaec075d4b34a8e8af5be0bc9a259a0)
+![Beej](https://images-1252557999.file.myqcloud.com/uPic/1XOLrv.png) 
 
-对 `SEO` 有兴趣可以看看：
+### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
 
-![Ahrefs](https://images-1252557999.file.myqcloud.com/uPic/Ahrefs.jpg) 
+本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
+
+![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
+
+### [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)
+
+一本由 GPT4 生成的中英词典，涵盖 8000 高频词汇：
+
+![DictionaryByGPT4](https://images-1252557999.file.myqcloud.com/uPic/DictionaryByGPT4.png) 
 
 ## 🕸 网站 
 
-### [upstract](https://upstract.com/)
+### [装个机](https://zhuangit.ababtools.com/)
 
-比较全面的新闻聚合平台：
+一个全面的电脑系统安装指南，里面不仅包含了Windows、MacOS的具体下载资源还有“手把手”的安装攻略。
 
-![upstract](https://images-1252557999.file.myqcloud.com/uPic/upstract.jpg) 
+![zhuangit](https://images-1252557999.file.myqcloud.com/uPic/IH6B8e.png) 
 
-### [theonestopradio](https://theonestopradio.com/)
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
 
-发现你可能喜欢的电台：
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
 
-![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
+![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
 
-### [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css)
+### [openart.ai](https://openart.ai/)
 
-前端实现的 `Pokemon` 卡片展示，非常酷炫：
+基于 `DALL E 2、Midjourney、SD` 生成的1000多万图片搜索网站：
 
-![pcc](https://images-1252557999.file.myqcloud.com/uPic/pcc.jpg) 
+![openart](https://images-1252557999.file.myqcloud.com/uPic/openart.jpg) 
 
 ## ✍️ 说明
 
