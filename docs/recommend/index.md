@@ -5,81 +5,89 @@
 
 ## 🎯 项目 
 
-### [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
+### [kanboard](https://kanboard.org/)
 
-基于 `CloudFlare Pages` 的免费图片托管解决方案，支持 `Telegram Bot` 和 `Cloudflare R2` 等多种存储方式:
+`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
 
-![CloudFlare-ImgBed](https://images-1252557999.file.myqcloud.com/uPic/49JpVO.png) 
+- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
+- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
+- 可评估：方便收集如任务完成数量、质量、时间等性能指标
 
-### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
+![Kanboard](https://images-1252557999.file.myqcloud.com/uPic/76TTj6.png) 
 
-基于 `SOTA AI` 模型的图片免费开源修补工具：
+### [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)
 
-![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
+将 `Github Copilot Chat` 请求转换为 `ChatGPT` 请求，免费使用 `GPT-4` 模型：
 
-### [Rin](https://github.com/OXeu/Rin)
+![copilot-gpt4-service](https://images-1252557999.file.myqcloud.com/uPic/copilot-gpt4-service.png) 
 
-⚡️`Rin` 是一个基于 `Cloudflare Pages + Workers + D1 + R2` 全家桶的博客，无需服务器无需备案，只需要一个解析到 `Cloudflare` 的域名即可部署：
+### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
 
-![Rin](https://images-1252557999.file.myqcloud.com/uPic/Rin.jpg) 
+Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
 
 ## 🤖 软件 
 
-### [feed-flow](https://github.com/prof18/feed-flow)
+### [spacedrive](https://www.spacedrive.com/)
 
-`FeedFlow` 是一款极简主义的 `RSS` 阅读器，可在 `Android、iOS&macOS`上使用：
+`Spacedrive` 是一个基于 `Rust` 的开源跨平台文件管理器，它采用了虚拟分布式文件系统，通过一个 `API` 来操作访问多设备上的文件。
 
-![feedflow](https://images-1252557999.file.myqcloud.com/uPic/feedflow.jpg) 
+它可以管理分布在多端的文件，在一个地方整理多个设备上的文件。
 
-### [tunnelblick](https://tunnelblick.net/)
+无论是云端还是离线硬盘，进而生成你独有的个人分布式云，简单又方便：
 
-免费开源的`openvpn`客户端：
+![spacedrive](https://images-1252557999.file.myqcloud.com/uPic/spacedrive.webp) 
 
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+### [Codeium](https://codeium.com/)
 
-### [squawker](https://github.com/j-fbriere/squawker)
+基于 `AI` 赋能的编码智能助手，自动补全代码，开发者的福音，对标 `GitHub Copilot`：
 
-一个开源的隐私导向的 `Twitter/X` 客户端：
+![codeium](https://images-1252557999.file.myqcloud.com/uPic/codeium.jpg) 
 
-![squawker](https://images-1252557999.file.myqcloud.com/uPic/mL6QyN.png) 
+### [revezone](https://github.com/revezone/revezone)
+
+一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具：
+
+![revezone](https://images-1252557999.file.myqcloud.com/uPic/revezone.jpg) 
 
 ## 👀 资料 
 
-### [现代 JavaScript 教程](https://zh.javascript.info/)
+### [paper-reading](https://github.com/mli/paper-reading)
 
-以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识：
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-![javascript_info](https://images-1252557999.file.myqcloud.com/uPic/javascript_info.jpg) 
+![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
 
-### [grammar-club](https://github.com/llwslc/grammar-club)
+### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
 
-旋元佑老师的语法俱乐部书籍电子版，在线阅读[地址](https://llwslc.github.io/grammar-club/content/Preface.html)：
+学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
 
-![grammar-club](https://images-1252557999.file.myqcloud.com/uPic/grammar-club.jpg) 
+![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
 
-### [Sora 学习手册](https://yunyinghui.feishu.cn/wiki/BaCEwe3AliqYERkc9dVcfW0BnXg)
+### [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 
-基于飞书文档发布，包含一些 `Sora` 介绍，第三方技术拆解分享，研究报告，案例等内容，比较浅显但是可以作为了解的途径，里面的联系方式**慎加**。 
+一个精选列表，包含了用于增强 Claude Code 工作流程、生产力和氛围的各种命令、文件和工具：
+
+![awesome-claude-code](https://images-1252557999.file.myqcloud.com/uPic/HMpvvc.png) 
 
 ## 🕸 网站 
 
-### [transhumans](https://www.transhumans.xyz/)
+### [gooddesign](https://www.gooddesign.tools/)
 
-免费可商用的人物插图：
+优质设计师工具导航网站：
 
-![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
+![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
 
-### [22.do](https://22.do/)
+### [AnyBT](https://anybt.eth.limo/)
 
-一次性 `Gmail` 临时邮箱：
+种子搜索引擎，下载你想要的资源：
 
-![22do](https://images-1252557999.file.myqcloud.com/uPic/22do.jpg) 
+![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
 
-### [libhunt](https://www.libhunt.com/)
+### [fulltime.ai](https://fulltime.ai/spaces/)
 
-一个对开源项目进行分类并排名的网站：
+搜索体验 288个 `HuggingFace` 空间 `GPU` 上运行的项目：
 
-![libhunt](https://images-1252557999.file.myqcloud.com/uPic/libhunt.jpg) 
+![fulltime_ai](https://images-1252557999.file.myqcloud.com/uPic/fulltime_ai.jpg) 
 
 ## ✍️ 说明
 
