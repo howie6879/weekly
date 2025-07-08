@@ -5,89 +5,96 @@
 
 ## 🎯 项目 
 
-### [kanboard](https://kanboard.org/)
+### [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)
 
-`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
+基于 `Docker` 的 `Web PDF` 操作工具，允许您对 `PDF` 文件执行各种操作，如拆分、合并、转换、重新组织、添加图像、旋转、压缩等：
 
-- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
-- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
-- 可评估：方便收集如任务完成数量、质量、时间等性能指标
+![Stirling-PDF](https://images-1252557999.file.myqcloud.com/uPic/Stirling-PDF.png) 
 
-![Kanboard](https://images-1252557999.file.myqcloud.com/uPic/76TTj6.png) 
+### [docker-windows](https://github.com/dockur/windows)
 
-### [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)
+`Docker` 启动 `Windows`，特性如下：
 
-将 `Github Copilot Chat` 请求转换为 `ChatGPT` 请求，免费使用 `GPT-4` 模型：
+- ISO downloader
+- KVM acceleration
+- Web-based viewer 
 
-![copilot-gpt4-service](https://images-1252557999.file.myqcloud.com/uPic/copilot-gpt4-service.png) 
+### [wallabag](https://github.com/wallabag/wallabag)
 
-### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
+一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
 
-Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
+- 浏览器插件收集网页信息
+- 安卓/IOS/网页端阅读以及管理
+
+![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
 
 ## 🤖 软件 
 
-### [spacedrive](https://www.spacedrive.com/)
+### [fubukicss-tool](https://github.com/zouhangwithsweet/fubukicss-tool)
 
-`Spacedrive` 是一个基于 `Rust` 的开源跨平台文件管理器，它采用了虚拟分布式文件系统，通过一个 `API` 来操作访问多设备上的文件。
+解决 `Figma` 设计图查看代码需要升级付费的问题，该项目提供一个浏览器扩展，可以一步获取来自 `Figma` 设计图的 `TailwindCSS/Unocss/CSS` 代码，加速开发：
 
-它可以管理分布在多端的文件，在一个地方整理多个设备上的文件。
+![fubukicss-tool](https://images-1252557999.file.myqcloud.com/uPic/fubukicss-tool.jpg) 
 
-无论是云端还是离线硬盘，进而生成你独有的个人分布式云，简单又方便：
+### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
 
-![spacedrive](https://images-1252557999.file.myqcloud.com/uPic/spacedrive.webp) 
+B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
 
-### [Codeium](https://codeium.com/)
+![](https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg) 
 
-基于 `AI` 赋能的编码智能助手，自动补全代码，开发者的福音，对标 `GitHub Copilot`：
+### [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2)
 
-![codeium](https://images-1252557999.file.myqcloud.com/uPic/codeium.jpg) 
+这是一款可以在 `Windows` 播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 
 
-### [revezone](https://github.com/revezone/revezone)
-
-一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具：
-
-![revezone](https://images-1252557999.file.myqcloud.com/uPic/revezone.jpg) 
+![MusicPlayer2](https://images-1252557999.file.myqcloud.com/uPic/MusicPlayer2.jpg) 
 
 ## 👀 资料 
 
-### [paper-reading](https://github.com/mli/paper-reading)
+### [sideproject](https://sideproject.guide/)
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+`Side Project` 指南：
 
-![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
 
-### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
 
-学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
+### [播客365（2024）](https://zgcrsd6xvj.feishu.cn/docx/IoOZdVNHXohjohxDiAkccq6Vnie)
 
-![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
+本文讨论了2024年众多播客节目的丰富内容，涵盖商业、文化、生活、科技等多个领域 。关键要点包括：
 
-### [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
+- 商业领域：主播探究竞业协议由来与边界；提及美图2016年港股上市；蜜雪冰城和古茗递表港交所。
+- 文化领域：嘉宾探讨《桃花源记》《逍遥游》独特见解；28家出版社编辑推荐2024新书；主播分享汉字演变知识。
+- 生活领域：心理学家聊青少年厌学与心理健康；主播分享Vision Pro购买经历；介绍各地马拉松参赛体验。
+- 科技领域：主播畅聊数十款AI工具；指出AI大模型在闭环场景应用快，To B产品有优势 。 
 
-一个精选列表，包含了用于增强 Claude Code 工作流程、生产力和氛围的各种命令、文件和工具：
+### [PDF Explained](https://github.com/zxyle/PDF-Explained)
 
-![awesome-claude-code](https://images-1252557999.file.myqcloud.com/uPic/HMpvvc.png) 
+ `PDF` 无处不在，无论是在线形式还是印刷形式，但很少有人利用这些有用的功能或掌握这种格式的细微差别。 这本简明的书籍为程序员，高级用户提供了世界领先的页面描述语言(pdf)的动手实践。以及搜索，电子出版和印刷行业的专业人士， 有大量示例，本书是你完全理解PDF所需的文档。
+ 
+ ![PDF-Explained](https://images-1252557999.file.myqcloud.com/uPic/PDF-Explained.jpg) 
 
 ## 🕸 网站 
 
-### [gooddesign](https://www.gooddesign.tools/)
+### [tianya.at](https://tianya.at/)
 
-优质设计师工具导航网站：
+天涯帖子备份网站：
 
-![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
+![tianya](https://images-1252557999.file.myqcloud.com/uPic/y1oe44.png) 
 
-### [AnyBT](https://anybt.eth.limo/)
+### [renwuzhi.wiki](https://renwuzhi.wiki/)
 
-种子搜索引擎，下载你想要的资源：
+网站收集了各个朝代人物介绍：
 
-![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
+![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
 
-### [fulltime.ai](https://fulltime.ai/spaces/)
+### [animatedknots](https://www.animatedknots.com/)
 
-搜索体验 288个 `HuggingFace` 空间 `GPU` 上运行的项目：
+各种给绳子打结的姿势都可以在这里找到：
 
-![fulltime_ai](https://images-1252557999.file.myqcloud.com/uPic/fulltime_ai.jpg) 
+![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
 
 ## ✍️ 说明
 
