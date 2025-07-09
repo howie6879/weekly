@@ -5,96 +5,90 @@
 
 ## 🎯 项目 
 
-### [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)
+### [gitstars](https://github.com/cfour-hi/gitstars)
 
-基于 `Docker` 的 `Web PDF` 操作工具，允许您对 `PDF` 文件执行各种操作，如拆分、合并、转换、重新组织、添加图像、旋转、压缩等：
+`Github` 作为开发者的第一社交平台，拥有数不胜数的优秀开源项目，给工作和学习带来巨大方便，遇到自己需要或是喜爱的项目只需点击 Star 便可收入囊中。
 
-![Stirling-PDF](https://images-1252557999.file.myqcloud.com/uPic/Stirling-PDF.png) 
+`Star is easy`，可随着 `Starred Repositories` 增长，在需要使用到某个项目时难免记不清叫什么，而 Github 又只提供简单的搜索，找到目标 `Starred Repository` 竟也成了件小小的麻烦事。
 
-### [docker-windows](https://github.com/dockur/windows)
+所以拥有自己的 `Github Stars Repositories Manager` 也算是开发者的必备需求。`Gitstars` 由此诞生 💡
 
-`Docker` 启动 `Windows`，特性如下：
+![gitstars](https://images-1252557999.file.myqcloud.com/uPic/gitstars.png) 
 
-- ISO downloader
-- KVM acceleration
-- Web-based viewer 
+### [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)
 
-### [wallabag](https://github.com/wallabag/wallabag)
+老胡最近整的开源项目，从[技术周刊精选](https://www.fre123.com/weekly/)到[信息流](https://www.fre123.com/tech)，和前端朋友一起梳理出了个通用的排版并开源出来，欢迎大家使用和提出建议:
 
-一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
+![fre123-info-flow-demo](https://images-1252557999.file.myqcloud.com/uPic/fre123-info-flow-demo.jpg) 
 
-- 浏览器插件收集网页信息
-- 安卓/IOS/网页端阅读以及管理
+### [godoxy](https://github.com/yusing/godoxy)
 
-![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
+轻巧、易用、高性能反向代理，带有主页和配置面板：
+
+![godoxy](https://images-1252557999.file.myqcloud.com/uPic/7I4SVq.png) 
 
 ## 🤖 软件 
 
-### [fubukicss-tool](https://github.com/zouhangwithsweet/fubukicss-tool)
+### [firebase.studio](https://firebase.studio/)
 
-解决 `Figma` 设计图查看代码需要升级付费的问题，该项目提供一个浏览器扩展，可以一步获取来自 `Figma` 设计图的 `TailwindCSS/Unocss/CSS` 代码，加速开发：
+`Firebase Studio` 是一个基于云端的代理开发环境，可帮助您构建和交付具有生产级品质的全栈 AI 应用，包括 API、后端、前端、移动应用等：
 
-![fubukicss-tool](https://images-1252557999.file.myqcloud.com/uPic/fubukicss-tool.jpg) 
+![firebase.studio](https://images-1252557999.file.myqcloud.com/uPic/WbajBv.png) 
 
-### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+### [EpubPress](https://epub.press/)
 
-B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
+`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg) 
+![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
 
-### [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2)
+### aniyomi-插件
 
-这是一款可以在 `Windows` 播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 
+之前推荐过移动端看动漫和漫画的软件👉[aniyomi](https://github.com/aniyomiorg/aniyomi)，老胡最近也针对这个软件做了一些配置，将收集的源分享给大家：
 
-![MusicPlayer2](https://images-1252557999.file.myqcloud.com/uPic/MusicPlayer2.jpg) 
+- https://github.com/GokulSamraj/aniyomi-anime-repo
+- https://github.com/Kohi-den/extensions
+
+![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
 
 ## 👀 资料 
 
-### [sideproject](https://sideproject.guide/)
+### [promptingguide.ai](https://www.promptingguide.ai/zh)
 
-`Side Project` 指南：
+关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+### [llm_engineering](https://github.com/ed-donner/llm_engineering)
 
-### [播客365（2024）](https://zgcrsd6xvj.feishu.cn/docx/IoOZdVNHXohjohxDiAkccq6Vnie)
+该项目是为了辅助 Edward Donner 的 LLM 工程课程而设立的。课程内容涵盖了 8 周的学习路径，旨在帮助学生掌握人工智能和大型语言模型（LLMs）的技能。仓库包含了课程资源、环境设置指南（适用于 PC、Mac 和 Linux 系统）以及项目文件。
 
-本文讨论了2024年众多播客节目的丰富内容，涵盖商业、文化、生活、科技等多个领域 。关键要点包括：
+![llm_engineering](https://images-1252557999.file.myqcloud.com/uPic/dtF0EE.png) 
 
-- 商业领域：主播探究竞业协议由来与边界；提及美图2016年港股上市；蜜雪冰城和古茗递表港交所。
-- 文化领域：嘉宾探讨《桃花源记》《逍遥游》独特见解；28家出版社编辑推荐2024新书；主播分享汉字演变知识。
-- 生活领域：心理学家聊青少年厌学与心理健康；主播分享Vision Pro购买经历；介绍各地马拉松参赛体验。
-- 科技领域：主播畅聊数十款AI工具；指出AI大模型在闭环场景应用快，To B产品有优势 。 
+### [pdai](https://pdai.tech/)
 
-### [PDF Explained](https://github.com/zxyle/PDF-Explained)
+Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
 
- `PDF` 无处不在，无论是在线形式还是印刷形式，但很少有人利用这些有用的功能或掌握这种格式的细微差别。 这本简明的书籍为程序员，高级用户提供了世界领先的页面描述语言(pdf)的动手实践。以及搜索，电子出版和印刷行业的专业人士， 有大量示例，本书是你完全理解PDF所需的文档。
- 
- ![PDF-Explained](https://images-1252557999.file.myqcloud.com/uPic/PDF-Explained.jpg) 
+![pdai](https://images-1252557999.file.myqcloud.com/uPic/8oZW41.png) 
 
 ## 🕸 网站 
 
-### [tianya.at](https://tianya.at/)
+### [mindmap-scanner](https://xmind.cn/mindmap-scanner/)
 
-天涯帖子备份网站：
+用 `AI` 将思维导图图片转为可编辑的 `Xmind` 文件：
 
-![tianya](https://images-1252557999.file.myqcloud.com/uPic/y1oe44.png) 
+![mindmap-scanner](https://images-1252557999.file.myqcloud.com/uPic/mindmap-scanner.jpg) 
 
-### [renwuzhi.wiki](https://renwuzhi.wiki/)
+### [gemini-pro.chat](https://gemini-pro.chat/) 
 
-网站收集了各个朝代人物介绍：
+免费的谷歌 `Gemini Chat Pro`，在线网站：
 
-![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
+![gemini-pro.chat](https://images-1252557999.file.myqcloud.com/uPic/gemini-pro.chat.jpg) 
 
-### [animatedknots](https://www.animatedknots.com/)
+### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
 
-各种给绳子打结的姿势都可以在这里找到：
+文字生成图片网站，效果和速度都还可以：
 
-![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
+![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
 
 ## ✍️ 说明
 
