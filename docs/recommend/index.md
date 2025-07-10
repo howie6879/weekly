@@ -5,90 +5,98 @@
 
 ## 🎯 项目 
 
-### [gitstars](https://github.com/cfour-hi/gitstars)
+### [py12306](https://github.com/pjialin/py12306)
 
-`Github` 作为开发者的第一社交平台，拥有数不胜数的优秀开源项目，给工作和学习带来巨大方便，遇到自己需要或是喜爱的项目只需点击 Star 便可收入囊中。
+🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理：
 
-`Star is easy`，可随着 `Starred Repositories` 增长，在需要使用到某个项目时难免记不清叫什么，而 Github 又只提供简单的搜索，找到目标 `Starred Repository` 竟也成了件小小的麻烦事。
+![py12306](https://images-1252557999.file.myqcloud.com/uPic/py12306.jpg)
 
-所以拥有自己的 `Github Stars Repositories Manager` 也算是开发者的必备需求。`Gitstars` 由此诞生 💡
+如果实在抢不到，试下这个项目通过补票或者多买一站来解决：[12306spy](https://github.com/elroy93/12306spy)，这类项目每到假期就会火一把。 
 
-![gitstars](https://images-1252557999.file.myqcloud.com/uPic/gitstars.png) 
+### [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)
 
-### [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)
+`Neovim` 针对 `ChatGPT` 的插件：
 
-老胡最近整的开源项目，从[技术周刊精选](https://www.fre123.com/weekly/)到[信息流](https://www.fre123.com/tech)，和前端朋友一起梳理出了个通用的排版并开源出来，欢迎大家使用和提出建议:
+![ChatGPT.nvim](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT.nvim.png) 
 
-![fre123-info-flow-demo](https://images-1252557999.file.myqcloud.com/uPic/fre123-info-flow-demo.jpg) 
+### [photoprism](https://github.com/photoprism/photoprism)
 
-### [godoxy](https://github.com/yusing/godoxy)
+基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
 
-轻巧、易用、高性能反向代理，带有主页和配置面板：
-
-![godoxy](https://images-1252557999.file.myqcloud.com/uPic/7I4SVq.png) 
+![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
 
 ## 🤖 软件 
 
-### [firebase.studio](https://firebase.studio/)
+### [fluent-reader](https://github.com/yang991178/fluent-reader)
 
-`Firebase Studio` 是一个基于云端的代理开发环境，可帮助您构建和交付具有生产级品质的全栈 AI 应用，包括 API、后端、前端、移动应用等：
+一款拥有现代化界面的RSS阅读器，拥有以下特性：
 
-![firebase.studio](https://images-1252557999.file.myqcloud.com/uPic/WbajBv.png) 
+- 跨平台
+- 可同步自部署服务以及外部服务如：Inoreader, Feedbin
+- 支持OPML导入导出
+- 正则检索，状态管控，快捷键等
 
-### [EpubPress](https://epub.press/)
+![fluent-reader](https://images-1252557999.file.myqcloud.com/uPic/fluent-reader.png) 
 
-`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
+### [flybird-m3u8downloader](https://github.com/youwen21/flybird-m3u8downloader)
 
-![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
+@youwen21 投稿，飞鸟 `m3u8` 视频下载器是一款 `m3u8` 下载工具，支持 Windows, MacOS双系统，包含功能有：
 
-### aniyomi-插件
+- m3u8 和直播录制和点播下载
+- IPTV 播放与自定义源管理
 
-之前推荐过移动端看动漫和漫画的软件👉[aniyomi](https://github.com/aniyomiorg/aniyomi)，老胡最近也针对这个软件做了一些配置，将收集的源分享给大家：
+![m3u8downloader](https://images-1252557999.file.myqcloud.com/uPic/m3u8downloader.png) 
 
-- https://github.com/GokulSamraj/aniyomi-anime-repo
-- https://github.com/Kohi-den/extensions
+### [gopeed](https://github.com/GopeedLab/gopeed)
 
-![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
+`Gopeed`（全称 `Go Speed`），是一款由 `Golang+Flutter` 开发的高速下载器，支持（`HTTP、BitTorrent、Magnet`）协议下载，并且支持全平台使用：
+
+![gopeed](https://images-1252557999.file.myqcloud.com/uPic/gopeed.jpg) 
 
 ## 👀 资料 
 
-### [promptingguide.ai](https://www.promptingguide.ai/zh)
+### [overseas-website-note](https://github.com/princehuang/overseas-website-note)
 
-关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
+本项目记录作者开发海外网站和设立跨境业务过程中的实践经验。 
 
-![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
+### [opensource-f2f](https://github.com/opensource-f2f)
 
-### [llm_engineering](https://github.com/ed-donner/llm_engineering)
+《开源面对面》是一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。
 
-该项目是为了辅助 Edward Donner 的 LLM 工程课程而设立的。课程内容涵盖了 8 周的学习路径，旨在帮助学生掌握人工智能和大型语言模型（LLMs）的技能。仓库包含了课程资源、环境设置指南（适用于 PC、Mac 和 Linux 系统）以及项目文件。
+![osf2f](https://images-1252557999.file.myqcloud.com/uPic/osf2f.jpg) 
 
-![llm_engineering](https://images-1252557999.file.myqcloud.com/uPic/dtF0EE.png) 
+### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
 
-### [pdai](https://pdai.tech/)
-
-Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
-
-![pdai](https://images-1252557999.file.myqcloud.com/uPic/8oZW41.png) 
+精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
 
 ## 🕸 网站 
 
-### [mindmap-scanner](https://xmind.cn/mindmap-scanner/)
+### [svgl.app](https://svgl.app/)
 
-用 `AI` 将思维导图图片转为可编辑的 `Xmind` 文件：
+漂亮的 `SVG` 图标库，使用 `Sveltekit` 和 `Tailwind CSS` 构建：
 
-![mindmap-scanner](https://images-1252557999.file.myqcloud.com/uPic/mindmap-scanner.jpg) 
+- 官网：https://svgl.app/
+- 开源：[pheralb/svgl](https://github.com/pheralb/svgl)
 
-### [gemini-pro.chat](https://gemini-pro.chat/) 
+![svgl](https://images-1252557999.file.myqcloud.com/uPic/svgl.jpg) 
 
-免费的谷歌 `Gemini Chat Pro`，在线网站：
+### [regex101](https://regex101.com/)
 
-![gemini-pro.chat](https://images-1252557999.file.myqcloud.com/uPic/gemini-pro.chat.jpg) 
+`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
 
-### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
+- PHP
+- Python
+- JS
+- Go
+- Java
 
-文字生成图片网站，效果和速度都还可以：
+![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
 
-![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
+### [upstract](https://upstract.com/)
+
+比较全面的新闻聚合平台：
+
+![upstract](https://images-1252557999.file.myqcloud.com/uPic/upstract.jpg) 
 
 ## ✍️ 说明
 
