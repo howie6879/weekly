@@ -5,98 +5,95 @@
 
 ## 🎯 项目 
 
-### [py12306](https://github.com/pjialin/py12306)
+### [OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
 
-🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理：
+这个项目是 `OOTDiffusion` 的官方实现，快速基于你上传的模特和图片生成产品效果图，AI 模特不是梦，点击 [ootd](https://ootd.ibot.cn/) 体验：
 
-![py12306](https://images-1252557999.file.myqcloud.com/uPic/py12306.jpg)
+![ootd](https://images-1252557999.file.myqcloud.com/uPic/ootd.jpg) 
 
-如果实在抢不到，试下这个项目通过补票或者多买一站来解决：[12306spy](https://github.com/elroy93/12306spy)，这类项目每到假期就会火一把。 
+### [cloud_dns_exporter](https://github.com/eryajf/cloud_dns_exporter)
 
-### [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)
+周刊群友**二丫讲梵**的开源项目，自动获取 DNS 提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为 Prometheus Metrics。已支持：Tencent，Aliyun，Godaddy，Aws：
 
-`Neovim` 针对 `ChatGPT` 的插件：
+![G6dYsS](https://images-1252557999.file.myqcloud.com/uPic/G6dYsS.png) 
 
-![ChatGPT.nvim](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT.nvim.png) 
+### [lavague](https://docs.lavague.ai/)
 
-### [photoprism](https://github.com/photoprism/photoprism)
+`lavague` 是 `AI Web Agents` 开发框架，它可以作为你的一个基于浏览器的助手来辅助工作，能做什么就取决于你的想象力，老胡目前用来做一些数据自动抓取格式化的工作：
 
-基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
-
-![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
+![lavague](https://images-1252557999.file.myqcloud.com/uPic/lavague.jpg) 
 
 ## 🤖 软件 
 
-### [fluent-reader](https://github.com/yang991178/fluent-reader)
+### [anyquery](https://github.com/julien040/anyquery)
 
-一款拥有现代化界面的RSS阅读器，拥有以下特性：
+`Anyquery` 是一个多功能的 `SQL` 查询引擎，支持对文件、数据库和多种应用程序（如 `Apple Notes、Notion` 等）进行查询，并且能够通过 `MCP` 协议与大语言模型（如 `ChatGPT、Claude` 等）连接，同时也可以作为 `MySQL` 服务器使用：
 
-- 跨平台
-- 可同步自部署服务以及外部服务如：Inoreader, Feedbin
-- 支持OPML导入导出
-- 正则检索，状态管控，快捷键等
+![anyquery](https://images-1252557999.file.myqcloud.com/uPic/bmdtIU.png) 
 
-![fluent-reader](https://images-1252557999.file.myqcloud.com/uPic/fluent-reader.png) 
+### [anx-reader](https://github.com/Anxcye/anx-reader)
 
-### [flybird-m3u8downloader](https://github.com/youwen21/flybird-m3u8downloader)
+安读是一款专注于阅读的应用，不包含任何在线推广内容，它可以帮助你更专注于阅读，提高阅读效率：
 
-@youwen21 投稿，飞鸟 `m3u8` 视频下载器是一款 `m3u8` 下载工具，支持 Windows, MacOS双系统，包含功能有：
+- 自动记录阅读进度，每次打开可以回到上次的进度。
+- 丰富且可自定义的阅读配色，让您的阅读更舒适。
+- 丰富的阅读设置，包括字号、行间距、字间距等，让阅读更轻松。
+- 随时在书中划线，多种样式和配色，随时回顾。
+- 强大的阅读统计，记录您的每一次阅读。
+- 丰富的阅读笔记功能，让您的阅读更深入。
+- 安读可自定义多种色彩主题，满足您的不同需求。
+- 想在夜晚更舒适的阅读？安读可以适配系统 深/浅 色模式，或手动切换。
+- 安读现已支持多语言（中、英），自动适配系统语言，亦可手动选择。
 
-- m3u8 和直播录制和点播下载
-- IPTV 播放与自定义源管理
+![anx-reader](https://images-1252557999.file.myqcloud.com/uPic/anx-reader.jpg) 
 
-![m3u8downloader](https://images-1252557999.file.myqcloud.com/uPic/m3u8downloader.png) 
+### [ima.copilot](https://ima.qq.com/)
 
-### [gopeed](https://github.com/GopeedLab/gopeed)
+集成了腾讯混元大模型和 `DeepSeek R1` 模型的智能知识库软件，旨在通过智能搜索、阅读、写作助手等功能，提供全新的知识获取和内容创作体验：
 
-`Gopeed`（全称 `Go Speed`），是一款由 `Golang+Flutter` 开发的高速下载器，支持（`HTTP、BitTorrent、Magnet`）协议下载，并且支持全平台使用：
-
-![gopeed](https://images-1252557999.file.myqcloud.com/uPic/gopeed.jpg) 
+![ima.copilot](https://images-1252557999.file.myqcloud.com/uPic/k9Uo6Y.png) 
 
 ## 👀 资料 
 
-### [overseas-website-note](https://github.com/princehuang/overseas-website-note)
+### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
 
-本项目记录作者开发海外网站和设立跨境业务过程中的实践经验。 
+自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
 
-### [opensource-f2f](https://github.com/opensource-f2f)
+### [AI-System](https://github.com/microsoft/AI-System)
 
-《开源面对面》是一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
 
-![osf2f](https://images-1252557999.file.myqcloud.com/uPic/osf2f.jpg) 
+![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
 
-### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
+### [self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder)
 
-精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
+首先，这不是一本程序员的技术书籍，整本书不会提及任何一个技术词汇，这也不是一本教你如何规划职业生涯，如何在职场走个更远的书，虽然我相信大部分内容确实有助于在职场的发展。
+
+但这本书的真正用意是想解决工作过程中碰到的焦虑、倦怠、迷茫、抑郁等情绪，聚焦于解决具体问题，通过改变认知将我们从负面情绪的泥淖中走出来，做到更坦然，真诚的面对自己的内心，成为一个自洽的程序员。
+
+总而言之，这不是一本成功学的书，它不会教你如何赢，笔者本身也不是一个世俗意义上成功的人，而是一本帮你梳理情绪，转变心境的书。
+
+![self-consistent-coder](https://images-1252557999.file.myqcloud.com/uPic/xxZILr.png) 
 
 ## 🕸 网站 
 
-### [svgl.app](https://svgl.app/)
+### [awesome-chatgpt-prompts](https://prompts.chat/)
 
-漂亮的 `SVG` 图标库，使用 `Sveltekit` 和 `Tailwind CSS` 构建：
+`ChatGPT` 余热不减，一周百万用户果然不是盖的，这个项目总结了 `ChatGPT` 常用姿势：
 
-- 官网：https://svgl.app/
-- 开源：[pheralb/svgl](https://github.com/pheralb/svgl)
+![prompts](https://images-1252557999.file.myqcloud.com/uPic/prompts.jpg) 
 
-![svgl](https://images-1252557999.file.myqcloud.com/uPic/svgl.jpg) 
+### [fviewer](https://www.fviewer.com/zh)
 
-### [regex101](https://regex101.com/)
+免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
 
-`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
+![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
 
-- PHP
-- Python
-- JS
-- Go
-- Java
+### [sysmini](https://www.sysmini.com/)
 
-![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
+站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
 
-### [upstract](https://upstract.com/)
-
-比较全面的新闻聚合平台：
-
-![upstract](https://images-1252557999.file.myqcloud.com/uPic/upstract.jpg) 
+![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
 
 ## ✍️ 说明
 
