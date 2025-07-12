@@ -23,8 +23,8 @@ document.addEventListener("DOMContentLoaded", function () {
   // link.href = "https://www.fre123.com/weekly?from=weekly";
   // link.textContent = "🔥 老胡精选周刊大全>>>";
 
-  link.href = "https://www.moneysou.com/zsms/8u37db";
-  link.textContent = "🔥 免费搭建小报童专栏导航>>>";
+  link.href = "https://fre123.com/doc/a6zf1cirds";
+  link.textContent = "🔥美团 9.9 抵 600 神券>>>";
 
   link.target = "_blank";
   popup.appendChild(link);
@@ -48,28 +48,28 @@ document.addEventListener("DOMContentLoaded", function () {
   script.setAttribute("data-website-id", "eef10855-77dc-4398-b380-cba46664665e");
   document.head.appendChild(script);
 
-  var script2 = document.createElement("script");
-  script2.type = "text/javascript";
-  script2.charset = "UTF-8";
-  script2.src = "https://cdn.wwads.cn/js/makemoney.js";
-  script2.async = true;
-  document.head.appendChild(script2);
+  // var script2 = document.createElement("script");
+  // script2.type = "text/javascript";
+  // script2.charset = "UTF-8";
+  // script2.src = "https://cdn.wwads.cn/js/makemoney.js";
+  // script2.async = true;
+  // document.head.appendChild(script2);
 
-  // 创建一个新的 div 元素
-  var newDiv = document.createElement("div");
-  // 设置 div 的类名、数据属性和样式
-  newDiv.className = "wwads-cn wwads-horizontal wwads-sticky";
-  newDiv.setAttribute("data-id", "357");
-  newDiv.style.maxWidth = "350px";
-  newDiv.style.position = "fixed";
-  newDiv.style.bottom = "10px";
-  newDiv.style.right = "10px";
-  newDiv.style.zIndex = "1";
+  // // 创建一个新的 div 元素
+  // var newDiv = document.createElement("div");
+  // // 设置 div 的类名、数据属性和样式
+  // newDiv.className = "wwads-cn wwads-horizontal wwads-sticky";
+  // newDiv.setAttribute("data-id", "357");
+  // newDiv.style.maxWidth = "350px";
+  // newDiv.style.position = "fixed";
+  // newDiv.style.bottom = "10px";
+  // newDiv.style.right = "10px";
+  // newDiv.style.zIndex = "1";
 
-  // 获取 body 的第最后一个元素
-  var firstChild = document.body.firstChild;
+  // // 获取 body 的第最后一个元素
+  // var firstChild = document.body.firstChild;
 
-  // 将新创建的 div 插入到 body 的第一行
-  document.body.insertBefore(newDiv, firstChild);
+  // // 将新创建的 div 插入到 body 的第一行
+  // document.body.insertBefore(newDiv, firstChild);
 
 });
