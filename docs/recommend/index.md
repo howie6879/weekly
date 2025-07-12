@@ -5,99 +5,96 @@
 
 ## 🎯 项目 
 
-### [rss-proxy](https://github.com/damoeb/rss-proxy)
+### [draw-a-ui](https://github.com/SawyerHood/draw-a-ui)
 
-通过分析用户提供的静态页面自动创建RSS订阅源：
+利用 `tldraw + gpt-4-vision api` 将绘制的图转换成 `html` 代码：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/APrAbH.png) 
+![draw-a-ui](https://images-1252557999.file.myqcloud.com/uPic/draw-a-ui.gif) 
 
-### [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
+### [LLM-Red-Team](https://github.com/LLM-Red-Team)
 
-`HackBrowserData` 是一个浏览器数据（密码|历史记录|Cookie|书签|信用卡|下载记录|localStorage|浏览器插件）的导出工具，支持全平台主流浏览器：
+`LLM Red Team` 意为 `LLM` 大模型红队，对各大模型进行逆向然后提供 API 接口，方便开发者调用测试：
 
-![webhbd](https://images-1252557999.file.myqcloud.com/uPic/webhbd.png) 
+![LLM-Red-Team](https://images-1252557999.file.myqcloud.com/uPic/LLM-Red-Team.jpg) 
 
-### [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
+### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
 
-基于 `CloudFlare Pages` 的免费图片托管解决方案，支持 `Telegram Bot` 和 `Cloudflare R2` 等多种存储方式:
+该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
 
-![CloudFlare-ImgBed](https://images-1252557999.file.myqcloud.com/uPic/49JpVO.png) 
+![computer_book_list](https://images-1252557999.file.myqcloud.com/uPic/uxQa5E.png) 
 
 ## 🤖 软件 
 
-### [onlook](https://github.com/onlook-dev/onlook)
+### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
-> 设计师专属的 Cursor —— 一款开源、视觉优先的代码编辑器
+开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
 
-一个开源的、基于可视化编辑的代码编辑器，专为设计师而优化，旨在通过 AI 与浏览器内 DOM 的直接编辑功能，让用户能够在代码编辑器中进行设计和编码。
+![hitomi](https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif) 
 
-使用 AI 在 Next.js + TailwindCSS 中构建网站、原型和设计。通过可视化编辑器直接在浏览器 DOM 中进行编辑。实时用代码进行设计。这是 Bolt.new、Lovable、V0、Replit Agent、Figma Make、Webflow 等产品的开源替代方案。
+### [RedFish](https://github.com/Kuari/RedFish)
 
-![onlook](https://images-1252557999.file.myqcloud.com/uPic/b8LfDN.png) 
+一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
 
-### [kobi](https://github.com/niuhuan/kobi)
+![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
 
-一个简洁大方的跨平台漫画客户端：
+### [moodiary](https://github.com/ZhuJHua/moodiary)
 
-![0ZQlSW](https://images-1252557999.file.myqcloud.com/uPic/0ZQlSW.png) 
+「心绪日记」 是一个由 Flutter 构建的开源跨平台日记应用：
 
-### [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
+- 跨平台支持：🌍 兼容 Android、iOS*、Windows*、MacOS*、Linux。
+- Material Design：🎨 界面直观且用户友好，遵循 Material Design 设计规范。
+- 富文本编辑：📝 支持加粗、斜体、下划线等多种格式的文本编辑。
+- 多媒体附件：📷 可以为你的日记添加图片、音频、视频甚至画一张画。
+- 搜索和分类：🔍 轻松通过全文搜索及分类管理你的日记。
+- 自定义主题：🌈 支持浅色和深色模式，以及多种配色的主题。
+- 数据安全：🔒 通过密码来保障你的日记安全，支持通过生物识别解锁。
+- 导出和分享：🧾 支持所有数据的导入/导出，以及单篇日记的分享。
+- 备份与同步：☁ 支持局域网同步，快速在设备间同步数据，以及 WebDav 备份。
+- 足迹地图：🗺️ 在地图上查看你足迹，生活中的每一步都值得被记录。
+- 智能助手：💬 支持接入第三方大模型，提供问答、情绪分析等功能。
+- 本地自然语言处理（NLP）：🤖 更安全的智能助手，让你的日记更懂你。
 
-`Sigma File Manager` 是一个免费、开源、快速发展的现代文件管理器（资源管理器/查找器）应用程序，适用于`Windows&Linux`，支持智能搜索、自定义主页、文件共享、文件下载、智能拖放、文件保护等功能：
-
-![sigma-file-manager](https://images-1252557999.file.myqcloud.com/uPic/sigma-file-manager.jpg) 
+![moodiary](https://images-1252557999.file.myqcloud.com/uPic/plSfAq.png) 
 
 ## 👀 资料 
 
-### [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
+### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
-本仓库是手册《简单粗暴LaTeX》的开源仓库。本书涵盖了LaTeX的基本使用场景，以简明的例子来展现各命令的用法：
+这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
 
-![Note-by-LaTeX](https://images-1252557999.file.myqcloud.com/uPic/Note-by-LaTeX.jpg)
+我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
 
-在开源仓库可直接下载阅读。 
+### [llm_engineering](https://github.com/ed-donner/llm_engineering)
 
-### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
+该项目是为了辅助 Edward Donner 的 LLM 工程课程而设立的。课程内容涵盖了 8 周的学习路径，旨在帮助学生掌握人工智能和大型语言模型（LLMs）的技能。仓库包含了课程资源、环境设置指南（适用于 PC、Mac 和 Linux 系统）以及项目文件。
 
-**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
+![llm_engineering](https://images-1252557999.file.myqcloud.com/uPic/dtF0EE.png) 
 
-- JS基础语法
-- 核心模块概述
-- 面向对象
-- DOM
-- 计算机网络
-- 设计模式
-- 等等
+### [101-rs](https://github.com/tweedegolf/101-rs)
 
-对于前端开发者来说应该是一个非常好的知识库：
+[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
 
-![javascript-guidebook](https://images-1252557999.file.myqcloud.com/uPic/vIsnjD.png) 
-
-### [linux-command](https://github.com/jaywcjlove/linux-command)
-
-Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
-
-![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
+![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
 
 ## 🕸 网站 
 
-### [feathericons](https://feathericons.com/)
+### [pixel](https://aqeja.github.io/pixel/)
 
-简洁漂亮的图标网站：
+一个小工具，将你的图片像素化:
 
-![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
+![pixel](https://images-1252557999.file.myqcloud.com/uPic/KfJuhM.png) 
 
-### [tanpok](https://tool.tanpok.com/#/)
+### [tik.fail](https://tik.fail/browse)
 
-效果非常好的图片压缩工具：
+国内能直接刷TikTok的在线网站，支持搜索和下载：
 
-![tanpok](https://images-1252557999.file.myqcloud.com/uPic/8fZN8v.png) 
+![tik_fail](https://images-1252557999.file.myqcloud.com/uPic/tik_fail.jpg) 
 
-### [红白机游戏盒](https://nes.heheda.top/ "红白机游戏盒")
+### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
 
-在线畅玩经典小游戏：
+冰霜大佬的博客：
 
-![heheda](https://images-1252557999.file.myqcloud.com/uPic/heheda.jpg) 
+![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
 
 ## ✍️ 说明
 
