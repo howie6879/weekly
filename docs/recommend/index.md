@@ -5,95 +5,81 @@
 
 ## 🎯 项目 
 
-### [OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
+### [chsrc](https://github.com/RubyMetric/chsrc)
 
-这个项目是 `OOTDiffusion` 的官方实现，快速基于你上传的模特和图片生成产品效果图，AI 模特不是梦，点击 [ootd](https://ootd.ibot.cn/) 体验：
+全平台命令行换源工具，目标支持 Linux (包括麒麟、openEuler、deepin 等), Windows, macOS, BSD 等尽可能多的操作系统，龙芯、飞腾、RISC-V 等尽可能多的 CPU。
 
-![ootd](https://images-1252557999.file.myqcloud.com/uPic/ootd.jpg) 
+![chsrc](https://images-1252557999.file.myqcloud.com/uPic/0WY3Oh.png) 
 
-### [cloud_dns_exporter](https://github.com/eryajf/cloud_dns_exporter)
+### [mindoc](https://github.com/mindoc-org/mindoc)
 
-周刊群友**二丫讲梵**的开源项目，自动获取 DNS 提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为 Prometheus Metrics。已支持：Tencent，Aliyun，Godaddy，Aws：
+`MinDoc` 是一款针对 `IT` 团队开发的简单好用的文档管理系统，可以用来储存日常接口文档，数据库字典，手册说明等文档。内置项目管理，用户管理，权限管理等功能，能够满足大部分中小团队的文档管理需求。
 
-![G6dYsS](https://images-1252557999.file.myqcloud.com/uPic/G6dYsS.png) 
+![mindoc](https://images-1252557999.file.myqcloud.com/uPic/mindoc.png) 
 
-### [lavague](https://docs.lavague.ai/)
+### [HowToCook](https://github.com/Anduin2017/HowToCook)
 
-`lavague` 是 `AI Web Agents` 开发框架，它可以作为你的一个基于浏览器的助手来辅助工作，能做什么就取决于你的想象力，老胡目前用来做一些数据自动抓取格式化的工作：
-
-![lavague](https://images-1252557999.file.myqcloud.com/uPic/lavague.jpg) 
+程序员在家做饭方法指南。 
 
 ## 🤖 软件 
 
-### [anyquery](https://github.com/julien040/anyquery)
+### [bilijump-ai](https://github.com/qingmeng1/bilijump-ai)
 
-`Anyquery` 是一个多功能的 `SQL` 查询引擎，支持对文件、数据库和多种应用程序（如 `Apple Notes、Notion` 等）进行查询，并且能够通过 `MCP` 协议与大语言模型（如 `ChatGPT、Claude` 等）连接，同时也可以作为 `MySQL` 服务器使用：
+一个使用 `AI` 自动跳过 `Bilibili` 视频植入广告的 `Chrome` 扩展程序：
 
-![anyquery](https://images-1252557999.file.myqcloud.com/uPic/bmdtIU.png) 
+![bilijump](https://images-1252557999.file.myqcloud.com/uPic/SrzNbw.png) 
 
-### [anx-reader](https://github.com/Anxcye/anx-reader)
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-安读是一款专注于阅读的应用，不包含任何在线推广内容，它可以帮助你更专注于阅读，提高阅读效率：
+LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
 
-- 自动记录阅读进度，每次打开可以回到上次的进度。
-- 丰富且可自定义的阅读配色，让您的阅读更舒适。
-- 丰富的阅读设置，包括字号、行间距、字间距等，让阅读更轻松。
-- 随时在书中划线，多种样式和配色，随时回顾。
-- 强大的阅读统计，记录您的每一次阅读。
-- 丰富的阅读笔记功能，让您的阅读更深入。
-- 安读可自定义多种色彩主题，满足您的不同需求。
-- 想在夜晚更舒适的阅读？安读可以适配系统 深/浅 色模式，或手动切换。
-- 安读现已支持多语言（中、英），自动适配系统语言，亦可手动选择。
+![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
 
-![anx-reader](https://images-1252557999.file.myqcloud.com/uPic/anx-reader.jpg) 
+### NewPipe
 
-### [ima.copilot](https://ima.qq.com/)
+`NewPipe` 是一款 Android 下的第三方 `YouTube` 客户端，支持画中画、后台播放、变速播放、可查看留言、可导入订阅频道、可使用 `Kodi` 播放，是一款功能非常完善的油管客户端：
 
-集成了腾讯混元大模型和 `DeepSeek R1` 模型的智能知识库软件，旨在通过智能搜索、阅读、写作助手等功能，提供全新的知识获取和内容创作体验：
-
-![ima.copilot](https://images-1252557999.file.myqcloud.com/uPic/k9Uo6Y.png) 
+![NewPipe](https://images-1252557999.file.myqcloud.com/uPic/NewPipe.jpg) 
 
 ## 👀 资料 
 
-### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
+### [PyTorch-Tutorial-2nd](https://github.com/TingsongYu/PyTorch-Tutorial-2nd)
 
-自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
+《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项目应用，或是进阶工程化部署落地，在这里都有。相信在本书的帮助下，读者将能够轻松掌握 PyTorch 的使用，成为一名优秀的深度学习工程师。
 
-### [AI-System](https://github.com/microsoft/AI-System)
+![PyTorch-Tutorial-2nd](https://img.fre123.com/i/2024/07/12/6690fc7ae91f6.png) 
 
-微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+### [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
 
-![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
+面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:
 
-### [self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder)
+![llm-cookbook](https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png) 
 
-首先，这不是一本程序员的技术书籍，整本书不会提及任何一个技术词汇，这也不是一本教你如何规划职业生涯，如何在职场走个更远的书，虽然我相信大部分内容确实有助于在职场的发展。
+### [FudanSELab/Agent4SE-Paper-List](https://github.com/FudanSELab/Agent4SE-Paper-List)
 
-但这本书的真正用意是想解决工作过程中碰到的焦虑、倦怠、迷茫、抑郁等情绪，聚焦于解决具体问题，通过改变认知将我们从负面情绪的泥淖中走出来，做到更坦然，真诚的面对自己的内心，成为一个自洽的程序员。
+该仓库由复旦大学软件工程实验室（FudanSELab）创建的，旨在为大型语言模型（LLMs）基础的软件工程代理（Agent）领域提供一个系统的文献综述：
 
-总而言之，这不是一本成功学的书，它不会教你如何赢，笔者本身也不是一个世俗意义上成功的人，而是一本帮你梳理情绪，转变心境的书。
-
-![self-consistent-coder](https://images-1252557999.file.myqcloud.com/uPic/xxZILr.png) 
+![Agent4SE-Paper-List](https://images-1252557999.file.myqcloud.com/uPic/uFo2bN.png) 
 
 ## 🕸 网站 
 
-### [awesome-chatgpt-prompts](https://prompts.chat/)
+### [ogimage.click](https://ogimage.click/)
 
-`ChatGPT` 余热不减，一周百万用户果然不是盖的，这个项目总结了 `ChatGPT` 常用姿势：
+允许用户通过选择专业模板、自定义背景、渐变、网格叠加、噪声等属性来快速生成适用于社交媒体平台（如 Twitter、Facebook 和 LinkedIn）的吸引人的分享图片。用户可以无需注册即可免费使用所有功能，生成的图片可以导出为 PNG、JPEG 或 WebP 格式，并且支持多平台的优化尺寸。
 
-![prompts](https://images-1252557999.file.myqcloud.com/uPic/prompts.jpg) 
+![ogimage](https://images-1252557999.file.myqcloud.com/uPic/WLVTc7.png) 
 
-### [fviewer](https://www.fviewer.com/zh)
+### [zerossl](https://zerossl.com/)
 
-免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
+一个可以免费签 IP 地址 SSL 证书的网站：
 
-![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
+![zerossl](https://images-1252557999.file.myqcloud.com/uPic/zerossl.jpg) 
 
-### [sysmini](https://www.sysmini.com/)
+### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
 
-站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
+`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
 
-![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
+![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
 
 ## ✍️ 说明
 
