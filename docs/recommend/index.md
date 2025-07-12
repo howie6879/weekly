@@ -5,81 +5,99 @@
 
 ## 🎯 项目 
 
-### [chsrc](https://github.com/RubyMetric/chsrc)
+### [rss-proxy](https://github.com/damoeb/rss-proxy)
 
-全平台命令行换源工具，目标支持 Linux (包括麒麟、openEuler、deepin 等), Windows, macOS, BSD 等尽可能多的操作系统，龙芯、飞腾、RISC-V 等尽可能多的 CPU。
+通过分析用户提供的静态页面自动创建RSS订阅源：
 
-![chsrc](https://images-1252557999.file.myqcloud.com/uPic/0WY3Oh.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/APrAbH.png) 
 
-### [mindoc](https://github.com/mindoc-org/mindoc)
+### [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
 
-`MinDoc` 是一款针对 `IT` 团队开发的简单好用的文档管理系统，可以用来储存日常接口文档，数据库字典，手册说明等文档。内置项目管理，用户管理，权限管理等功能，能够满足大部分中小团队的文档管理需求。
+`HackBrowserData` 是一个浏览器数据（密码|历史记录|Cookie|书签|信用卡|下载记录|localStorage|浏览器插件）的导出工具，支持全平台主流浏览器：
 
-![mindoc](https://images-1252557999.file.myqcloud.com/uPic/mindoc.png) 
+![webhbd](https://images-1252557999.file.myqcloud.com/uPic/webhbd.png) 
 
-### [HowToCook](https://github.com/Anduin2017/HowToCook)
+### [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
 
-程序员在家做饭方法指南。 
+基于 `CloudFlare Pages` 的免费图片托管解决方案，支持 `Telegram Bot` 和 `Cloudflare R2` 等多种存储方式:
+
+![CloudFlare-ImgBed](https://images-1252557999.file.myqcloud.com/uPic/49JpVO.png) 
 
 ## 🤖 软件 
 
-### [bilijump-ai](https://github.com/qingmeng1/bilijump-ai)
+### [onlook](https://github.com/onlook-dev/onlook)
 
-一个使用 `AI` 自动跳过 `Bilibili` 视频植入广告的 `Chrome` 扩展程序：
+> 设计师专属的 Cursor —— 一款开源、视觉优先的代码编辑器
 
-![bilijump](https://images-1252557999.file.myqcloud.com/uPic/SrzNbw.png) 
+一个开源的、基于可视化编辑的代码编辑器，专为设计师而优化，旨在通过 AI 与浏览器内 DOM 的直接编辑功能，让用户能够在代码编辑器中进行设计和编码。
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+使用 AI 在 Next.js + TailwindCSS 中构建网站、原型和设计。通过可视化编辑器直接在浏览器 DOM 中进行编辑。实时用代码进行设计。这是 Bolt.new、Lovable、V0、Replit Agent、Figma Make、Webflow 等产品的开源替代方案。
 
-LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
+![onlook](https://images-1252557999.file.myqcloud.com/uPic/b8LfDN.png) 
 
-![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
+### [kobi](https://github.com/niuhuan/kobi)
 
-### NewPipe
+一个简洁大方的跨平台漫画客户端：
 
-`NewPipe` 是一款 Android 下的第三方 `YouTube` 客户端，支持画中画、后台播放、变速播放、可查看留言、可导入订阅频道、可使用 `Kodi` 播放，是一款功能非常完善的油管客户端：
+![0ZQlSW](https://images-1252557999.file.myqcloud.com/uPic/0ZQlSW.png) 
 
-![NewPipe](https://images-1252557999.file.myqcloud.com/uPic/NewPipe.jpg) 
+### [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
+
+`Sigma File Manager` 是一个免费、开源、快速发展的现代文件管理器（资源管理器/查找器）应用程序，适用于`Windows&Linux`，支持智能搜索、自定义主页、文件共享、文件下载、智能拖放、文件保护等功能：
+
+![sigma-file-manager](https://images-1252557999.file.myqcloud.com/uPic/sigma-file-manager.jpg) 
 
 ## 👀 资料 
 
-### [PyTorch-Tutorial-2nd](https://github.com/TingsongYu/PyTorch-Tutorial-2nd)
+### [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
 
-《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项目应用，或是进阶工程化部署落地，在这里都有。相信在本书的帮助下，读者将能够轻松掌握 PyTorch 的使用，成为一名优秀的深度学习工程师。
+本仓库是手册《简单粗暴LaTeX》的开源仓库。本书涵盖了LaTeX的基本使用场景，以简明的例子来展现各命令的用法：
 
-![PyTorch-Tutorial-2nd](https://img.fre123.com/i/2024/07/12/6690fc7ae91f6.png) 
+![Note-by-LaTeX](https://images-1252557999.file.myqcloud.com/uPic/Note-by-LaTeX.jpg)
 
-### [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
+在开源仓库可直接下载阅读。 
 
-面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:
+### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
 
-![llm-cookbook](https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png) 
+**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
 
-### [FudanSELab/Agent4SE-Paper-List](https://github.com/FudanSELab/Agent4SE-Paper-List)
+- JS基础语法
+- 核心模块概述
+- 面向对象
+- DOM
+- 计算机网络
+- 设计模式
+- 等等
 
-该仓库由复旦大学软件工程实验室（FudanSELab）创建的，旨在为大型语言模型（LLMs）基础的软件工程代理（Agent）领域提供一个系统的文献综述：
+对于前端开发者来说应该是一个非常好的知识库：
 
-![Agent4SE-Paper-List](https://images-1252557999.file.myqcloud.com/uPic/uFo2bN.png) 
+![javascript-guidebook](https://images-1252557999.file.myqcloud.com/uPic/vIsnjD.png) 
+
+### [linux-command](https://github.com/jaywcjlove/linux-command)
+
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
+
+![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
 
 ## 🕸 网站 
 
-### [ogimage.click](https://ogimage.click/)
+### [feathericons](https://feathericons.com/)
 
-允许用户通过选择专业模板、自定义背景、渐变、网格叠加、噪声等属性来快速生成适用于社交媒体平台（如 Twitter、Facebook 和 LinkedIn）的吸引人的分享图片。用户可以无需注册即可免费使用所有功能，生成的图片可以导出为 PNG、JPEG 或 WebP 格式，并且支持多平台的优化尺寸。
+简洁漂亮的图标网站：
 
-![ogimage](https://images-1252557999.file.myqcloud.com/uPic/WLVTc7.png) 
+![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
 
-### [zerossl](https://zerossl.com/)
+### [tanpok](https://tool.tanpok.com/#/)
 
-一个可以免费签 IP 地址 SSL 证书的网站：
+效果非常好的图片压缩工具：
 
-![zerossl](https://images-1252557999.file.myqcloud.com/uPic/zerossl.jpg) 
+![tanpok](https://images-1252557999.file.myqcloud.com/uPic/8fZN8v.png) 
 
-### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
+### [红白机游戏盒](https://nes.heheda.top/ "红白机游戏盒")
 
-`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
+在线畅玩经典小游戏：
 
-![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
+![heheda](https://images-1252557999.file.myqcloud.com/uPic/heheda.jpg) 
 
 ## ✍️ 说明
 
