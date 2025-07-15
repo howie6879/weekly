@@ -5,109 +5,89 @@
 
 ## 🎯 项目 
 
-### [nps](https://github.com/ehang-io/nps)
+### [open-webui](https://github.com/open-webui/open-webui)
 
-一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。
+将 `LLMs` 操作搬到了 `Web`，用户操作界面相当友好，值得体验，API兼容包括Ollama和OpenAI的API。
 
-![nps](https://images-1252557999.file.myqcloud.com/uPic/x2AaCw.jpg) 
+![openwebui](https://images-1252557999.file.myqcloud.com/uPic/openwebui.jpg) 
 
-### [PanIndex](https://github.com/libsgh/PanIndex)
+### [resume-design](https://github.com/Hacker233/resume-design)
 
-网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
+一款开源免费的简历制作神器，支持导出超高清 PDF、图片、源码级 JSON 数据等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。
 
-- 跨平台、易部署
-- 多模式、多网盘
-- 多主题
-- 下载直链
-- 防盗链
-- 短链、分享
-- 访问控制
-- 分流
-- WebDav
+![resume-design](https://images-1252557999.file.myqcloud.com/uPic/y8rbsD.png) 
 
-![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
+### [bililive-go](https://github.com/hr3lxphr6j/bililive-go)
 
-### [50projects50days](https://github.com/bradtraversy/50projects50days)
+`Bililive-go` 是一个支持多种直播平台的直播录制工具：
 
-50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
-
-![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
+![bililive-go](https://images-1252557999.file.myqcloud.com/uPic/bililive-go.webp) 
 
 ## 🤖 软件 
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+### [Dozer](https://github.com/Mortennn/Dozer)
 
-LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
+隐藏菜单栏图标，使您的Mac看起来更清爽，个人一直在用的开源状态栏管理工具，`Bartender` 替代品：
 
-![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
+![Dozer](https://images-1252557999.file.myqcloud.com/uPic/Dozer.jpg) 
 
-### [rubick](https://github.com/rubickCenter/rubick)
+### [sourcegit](https://github.com/sourcegit-scm/sourcegit)
 
-基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
+一个跨平台的 `GUI` 客户端：
 
-- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
-- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
-- 支持全局快捷键设置。
-- 支持剪贴板文件搜索。
-- 支持搜索本地安装的应用程序或偏好设置。
-- 支持MacOS。
-- 支持Windows。
-- 支持Linux。
+![sourcegit](https://images-1252557999.file.myqcloud.com/uPic/yC8OCO.png) 
 
-![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
+### [KOReader](https://github.com/koreader/koreader)
 
-### [epubkit](https://beta.epubkit.app/)
+KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
 
-挺多人有这种需求的，将网页转化成电子书：
-
-![epubkit](https://images-1252557999.file.myqcloud.com/uPic/epubkit.png)
-
-之前推荐的 [EpubPress](https://epub.press/) 也是类似功能，可以结合在一起体验试试。 
+![koreader](https://images-1252557999.file.myqcloud.com/uPic/koreader.jpg) 
 
 ## 👀 资料 
 
-### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
+### [PyTorch-Tutorial-2nd](https://github.com/TingsongYu/PyTorch-Tutorial-2nd)
 
-如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
+《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项目应用，或是进阶工程化部署落地，在这里都有。相信在本书的帮助下，读者将能够轻松掌握 PyTorch 的使用，成为一名优秀的深度学习工程师。
 
-这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
+![PyTorch-Tutorial-2nd](https://img.fre123.com/i/2024/07/12/6690fc7ae91f6.png) 
 
-其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
+### [overseas-website-note](https://github.com/princehuang/overseas-website-note)
 
-![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
+本项目记录作者开发海外网站和设立跨境业务过程中的实践经验。 
 
-### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
+### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
 
-《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
+`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
 
-![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
-
-### [Ai迷思录](https://github.com/Acmesec/theAIMythbook)
-
-涵盖了人工智能的基础知识、法律法规、经典人工智能模型、漏洞与攻击、防御方法、安全开发与运维、相关框架、会议讲座以及实践技能等。
-
-![theAIMythbook](https://images-1252557999.file.myqcloud.com/uPic/lPbVPg.png) 
+- [Tauri 项目](https://github.com/tauri-apps/tauri)
+- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
+- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
 
 ## 🕸 网站 
 
-### [contrib.rocks](https://contrib.rocks/)
+### [free-font](https://free-font.vercel.app/)
 
-为你的Github开源项目生成贡献者头像集合：
+收录商用免费汉字字体，还包括开源英文字体 `Free Font`:
 
-![contrib](https://images-1252557999.file.myqcloud.com/uPic/contrib.jpg) 
+![free-font](https://images-1252557999.file.myqcloud.com/uPic/free-font.png)
 
-### [epub-manga-creator](https://github.com/wing-kai/epub-manga-creator)
+项目开源在 [github](https://github.com/jaywcjlove/free-font)。 
 
-把一堆漫画图片打包成 `epub` 格式的 `Web GUI`：
+### [ipdetective](https://ipdetective.io/api)
 
-![epub-manga-creator](https://images-1252557999.file.myqcloud.com/uPic/epub-manga-creator.jpg) 
+检测 `ip` 是否是机器人：
 
-### [12ft.io](https://12ft.io/)
+![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
 
-输入目标地址，让你浏览一个更干净的网站！删除弹出窗口、横幅和广告：
+### [阿里云知行动手实验室](https://start.aliyun.com/)
 
-![12ft.io](https://images-1252557999.file.myqcloud.com/uPic/12ft.io.jpg)
-[1ft](https://1ft.io/) 也有类似功能。 
+这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
+
+网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
+
+我选了一个`k8s`教程尝试了下，嗯，挺香的：
+
+![start-ali](https://images-1252557999.file.myqcloud.com/uPic/LIfQqw.png) 
 
 ## ✍️ 说明
 
