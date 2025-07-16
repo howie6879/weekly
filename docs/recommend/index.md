@@ -5,89 +5,87 @@
 
 ## 🎯 项目 
 
-### [open-webui](https://github.com/open-webui/open-webui)
+### [typora_plugin](https://github.com/obgnail/typora_plugin)
 
-将 `LLMs` 操作搬到了 `Web`，用户操作界面相当友好，值得体验，API兼容包括Ollama和OpenAI的API。
+开源的 `Typora` 插件，功能增强工具，新增了三十多种功能：
 
-![openwebui](https://images-1252557999.file.myqcloud.com/uPic/openwebui.jpg) 
+![typora_plugin](https://images-1252557999.file.myqcloud.com/uPic/typora_plugin.jpg) 
 
-### [resume-design](https://github.com/Hacker233/resume-design)
+### [telegram-files](https://github.com/jarvis2f/telegram-files)
 
-一款开源免费的简历制作神器，支持导出超高清 PDF、图片、源码级 JSON 数据等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。
+从 Telegram 频道和群组下载文件的开源项目，支持多账号并确保文件不会重复下载，具备下载暂停和继续的功能：
 
-![resume-design](https://images-1252557999.file.myqcloud.com/uPic/y8rbsD.png) 
+![telegram-files](https://images-1252557999.file.myqcloud.com/uPic/O7wvH0.png) 
 
-### [bililive-go](https://github.com/hr3lxphr6j/bililive-go)
+### [easy-gate](https://github.com/r7wx/easy-gate)
 
-`Bililive-go` 是一个支持多种直播平台的直播录制工具：
+`Easy Gate` 是一个使用 `Go` 和 `React` 构建的简单 `Web` 应用程序，它充当您自托管基础设施的主页。服务和注释从 `JSON` 文件中实时解析（无需重新启动应用程序）。可以将服务和注释分配给一个或多个组，以仅向特定用户显示项目（基于他们的 IP 地址）。
 
-![bililive-go](https://images-1252557999.file.myqcloud.com/uPic/bililive-go.webp) 
+![easy-gate](https://images-1252557999.file.myqcloud.com/uPic/easy-gate.png) 
 
 ## 🤖 软件 
 
-### [Dozer](https://github.com/Mortennn/Dozer)
+### [GestureSign](https://github.com/TransposonY/GestureSign)
 
-隐藏菜单栏图标，使您的Mac看起来更清爽，个人一直在用的开源状态栏管理工具，`Bartender` 替代品：
+开源免费的 `Windows` 全局手势控制辅助增强软件神器:
 
-![Dozer](https://images-1252557999.file.myqcloud.com/uPic/Dozer.jpg) 
+- 支持 `Windows 11、Win10 / 8` 等系统
+- 支持鼠标手势、触控板等手势操作
+- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
 
-### [sourcegit](https://github.com/sourcegit-scm/sourcegit)
+![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
 
-一个跨平台的 `GUI` 客户端：
+### [Poe Client](https://poe.com/download)
 
-![sourcegit](https://images-1252557999.file.myqcloud.com/uPic/yC8OCO.png) 
+`Poe` 客户端，让你免费体验各种 `GPT & LLM` 机器人的聚合软件，一开始是网页版👉 [poe.com](https://poe.com/)，现在有原生客户端：
 
-### [KOReader](https://github.com/koreader/koreader)
+![poe](https://images-1252557999.file.myqcloud.com/uPic/poe.jpg) 
 
-KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
+### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
 
-![koreader](https://images-1252557999.file.myqcloud.com/uPic/koreader.jpg) 
+`Clash for Android`，具有 `Clash` 的全部特性：
+
+![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
 
 ## 👀 资料 
 
-### [PyTorch-Tutorial-2nd](https://github.com/TingsongYu/PyTorch-Tutorial-2nd)
+### [GoGuide](https://github.com/coderit666/GoGuide)
 
-《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项目应用，或是进阶工程化部署落地，在这里都有。相信在本书的帮助下，读者将能够轻松掌握 PyTorch 的使用，成为一名优秀的深度学习工程师。
+`Go Guide` 致力于打造最易懂的 `Go` 语言教程：
 
-![PyTorch-Tutorial-2nd](https://img.fre123.com/i/2024/07/12/6690fc7ae91f6.png) 
+![GoGuide](https://images-1252557999.file.myqcloud.com/uPic/GoGuide.png) 
 
-### [overseas-website-note](https://github.com/princehuang/overseas-website-note)
+### [PKU-DAIR/Starter-Guide](https://github.com/PKU-DAIR/Starter-Guide)
 
-本项目记录作者开发海外网站和设立跨境业务过程中的实践经验。 
+本仓库为PKU-DAIR团队为相关领域的新人提供全面的开源文档和技术指南。通过汇集团队的核心论文和经验分享，将帮助初学者快速熟悉数据管理(Data Management, DM) 和 人工智能(Artificial Intelligence, AI) 等前沿领域，搭建坚实的技术基础。无论你是刚入门还是希望加深理解，仓库中的资源将为你的学习和研究之旅提供有力支持。
 
-### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
+![PKU-DAIR/Starter-Guide](https://images-1252557999.file.myqcloud.com/uPic/KnGu45.png) 
 
-`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
+### [PDF Explained](https://github.com/zxyle/PDF-Explained)
 
-- [Tauri 项目](https://github.com/tauri-apps/tauri)
-- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
-- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
+ `PDF` 无处不在，无论是在线形式还是印刷形式，但很少有人利用这些有用的功能或掌握这种格式的细微差别。 这本简明的书籍为程序员，高级用户提供了世界领先的页面描述语言(pdf)的动手实践。以及搜索，电子出版和印刷行业的专业人士， 有大量示例，本书是你完全理解PDF所需的文档。
+ 
+ ![PDF-Explained](https://images-1252557999.file.myqcloud.com/uPic/PDF-Explained.jpg) 
 
 ## 🕸 网站 
 
-### [free-font](https://free-font.vercel.app/)
+### [photo2poem](https://photo2poem.top/)
 
-收录商用免费汉字字体，还包括开源英文字体 `Free Font`:
+每一张照片，都对应一首诗，很有意思：
 
-![free-font](https://images-1252557999.file.myqcloud.com/uPic/free-font.png)
+![photo2poem](https://images-1252557999.file.myqcloud.com/uPic/photo2poem.jpg) 
 
-项目开源在 [github](https://github.com/jaywcjlove/free-font)。 
+### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
 
-### [ipdetective](https://ipdetective.io/api)
+一份新冠预防及治疗指南：
 
-检测 `ip` 是否是机器人：
+![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
 
-![ipdetective](https://images-1252557999.file.myqcloud.com/uPic/ipdetective.jpg) 
+### [suno.ai](https://www.suno.ai/ "suno.ai")
 
-### [阿里云知行动手实验室](https://start.aliyun.com/)
+最近很火热的的 AI 音乐生成应用，可以根据提示词生成一首 2 分钟的歌曲，还有非官方 `API` 项目 [Suno-API](https://github.com/SunoAI-API/Suno-API "Suno-API")：
 
-这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
-
-网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
-
-我选了一个`k8s`教程尝试了下，嗯，挺香的：
-
-![start-ali](https://images-1252557999.file.myqcloud.com/uPic/LIfQqw.png) 
+![suno](https://images-1252557999.file.myqcloud.com/uPic/suno.jpg) 
 
 ## ✍️ 说明
 
