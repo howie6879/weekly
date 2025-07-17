@@ -5,87 +5,96 @@
 
 ## 🎯 项目 
 
-### [typora_plugin](https://github.com/obgnail/typora_plugin)
+### [agenticSeek](https://github.com/Fosowl/agenticSeek "agenticSeek")
 
-开源的 `Typora` 插件，功能增强工具，新增了三十多种功能：
+一个 100% 本地替代 `Manus AI` 的方案，这款支持语音的 AI 助理能够自主浏览网页、编写代码和规划任务，同时将所有数据保留在您的设备上。专为本地推理模型量身打造，完全在您自己的硬件上运行，确保完全的隐私保护和零云端依赖。
 
-![typora_plugin](https://images-1252557999.file.myqcloud.com/uPic/typora_plugin.jpg) 
+- 🔒 完全本地化与隐私保护 - 所有功能都在您的设备上运行 — 无云端服务，无数据共享。您的文件、对话和搜索始终保持私密。
+- 🌐 智能网页浏览 - AgenticSeek 能够自主浏览互联网 — 搜索、阅读、提取信息、填写网页表单 — 全程无需人工操作。
+- 💻 自主编码助手 - 需要代码？它可以编写、调试并运行 Python、C、Go、Java 等多种语言的程序 — 全程无需监督。
+- 🧠 智能代理选择 - 您提问，它会自动选择最适合该任务的代理。就像拥有一个随时待命的专家团队。
+- 📋 规划与执行复杂任务 - 从旅行规划到复杂项目 — 它能将大型任务分解为步骤，并利用多个 AI 代理完成工作。
+- 🎙️ 语音功能 - 清晰、快速、未来感十足的语音与语音转文本功能，让您能像科幻电影中一样与您的个人 AI 助手对话。
 
-### [telegram-files](https://github.com/jarvis2f/telegram-files)
+![agenticSeek](https://images-1252557999.file.myqcloud.com/uPic/7sShIp.png) 
 
-从 Telegram 频道和群组下载文件的开源项目，支持多账号并确保文件不会重复下载，具备下载暂停和继续的功能：
+### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
 
-![telegram-files](https://images-1252557999.file.myqcloud.com/uPic/O7wvH0.png) 
+`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
 
-### [easy-gate](https://github.com/r7wx/easy-gate)
+![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
 
-`Easy Gate` 是一个使用 `Go` 和 `React` 构建的简单 `Web` 应用程序，它充当您自托管基础设施的主页。服务和注释从 `JSON` 文件中实时解析（无需重新启动应用程序）。可以将服务和注释分配给一个或多个组，以仅向特定用户显示项目（基于他们的 IP 地址）。
+### [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 
-![easy-gate](https://images-1252557999.file.myqcloud.com/uPic/easy-gate.png) 
+`ChatGPT` 中文调教指南，各种场景使用指南，学习怎么让它听你的话：
+
+![acpz](https://images-1252557999.file.myqcloud.com/uPic/acpz.jpg) 
 
 ## 🤖 软件 
 
-### [GestureSign](https://github.com/TransposonY/GestureSign)
+### [marktext](https://github.com/marktext/marktext)
 
-开源免费的 `Windows` 全局手势控制辅助增强软件神器:
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
 
-- 支持 `Windows 11、Win10 / 8` 等系统
-- 支持鼠标手势、触控板等手势操作
-- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
+![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
 
-![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
+### [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
 
-### [Poe Client](https://poe.com/download)
+简单的 macOS 菜单栏应用程序，可以方便地和 `Reminders` 进行交互，使用 `SwiftUI` 开发，并使用 `Apple` 提醒事项作为数据源：
 
-`Poe` 客户端，让你免费体验各种 `GPT & LLM` 机器人的聚合软件，一开始是网页版👉 [poe.com](https://poe.com/)，现在有原生客户端：
+![reminders-menubar](https://images-1252557999.file.myqcloud.com/uPic/reminders-menubar.jpg) 
 
-![poe](https://images-1252557999.file.myqcloud.com/uPic/poe.jpg) 
+### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
 
-### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
+FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
 
-`Clash for Android`，具有 `Clash` 的全部特性：
+- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
+- 基于文本的歌单，方便与朋友分享、设备之间同步
+- 提供基于 TCP 的交互控制协议
+- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
+- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
 
-![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
+![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
 
 ## 👀 资料 
 
-### [GoGuide](https://github.com/coderit666/GoGuide)
+### [easy-rl](https://github.com/datawhalechina/easy-rl)
 
-`Go Guide` 致力于打造最易懂的 `Go` 语言教程：
+强化学习中文教程：
 
-![GoGuide](https://images-1252557999.file.myqcloud.com/uPic/GoGuide.png) 
+![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
 
-### [PKU-DAIR/Starter-Guide](https://github.com/PKU-DAIR/Starter-Guide)
+### [统计学自学指南](https://xuankaiwang.github.io/)
 
-本仓库为PKU-DAIR团队为相关领域的新人提供全面的开源文档和技术指南。通过汇集团队的核心论文和经验分享，将帮助初学者快速熟悉数据管理(Data Management, DM) 和 人工智能(Artificial Intelligence, AI) 等前沿领域，搭建坚实的技术基础。无论你是刚入门还是希望加深理解，仓库中的资源将为你的学习和研究之旅提供有力支持。
+这是一本统计的自学指南, 也是作者在数院自学生涯的一个纪念：
 
-![PKU-DAIR/Starter-Guide](https://images-1252557999.file.myqcloud.com/uPic/KnGu45.png) 
+![XuankaiWang](https://images-1252557999.file.myqcloud.com/uPic/XuankaiWang.jpg) 
 
-### [PDF Explained](https://github.com/zxyle/PDF-Explained)
+### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
- `PDF` 无处不在，无论是在线形式还是印刷形式，但很少有人利用这些有用的功能或掌握这种格式的细微差别。 这本简明的书籍为程序员，高级用户提供了世界领先的页面描述语言(pdf)的动手实践。以及搜索，电子出版和印刷行业的专业人士， 有大量示例，本书是你完全理解PDF所需的文档。
- 
- ![PDF-Explained](https://images-1252557999.file.myqcloud.com/uPic/PDF-Explained.jpg) 
+比较全面的 `k8s` 资源收集项目：
+
+![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
 
 ## 🕸 网站 
 
-### [photo2poem](https://photo2poem.top/)
+### [pixian.ai](https://pixian.ai/)
 
-每一张照片，都对应一首诗，很有意思：
+免登录图片背景消除网页，2023-07-21 当前属于测试期间，是免费的：
 
-![photo2poem](https://images-1252557999.file.myqcloud.com/uPic/photo2poem.jpg) 
+![pixian](https://images-1252557999.file.myqcloud.com/uPic/pixian.jpg) 
 
-### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
+### [piqsels](https://www.piqsels.com/)
 
-一份新冠预防及治疗指南：
+`Piqsels` 是又一个免版权的图库，免费商用：
 
-![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
+![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
 
-### [suno.ai](https://www.suno.ai/ "suno.ai")
+### [gh-card.dev](https://gh-card.dev/)
 
-最近很火热的的 AI 音乐生成应用，可以根据提示词生成一首 2 分钟的歌曲，还有非官方 `API` 项目 [Suno-API](https://github.com/SunoAI-API/Suno-API "Suno-API")：
+免费为你的 `Github` 开源项目生成卡片的网站：
 
-![suno](https://images-1252557999.file.myqcloud.com/uPic/suno.jpg) 
+![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
 
 ## ✍️ 说明
 
