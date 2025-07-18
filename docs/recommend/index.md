@@ -5,96 +5,85 @@
 
 ## 🎯 项目 
 
-### [agenticSeek](https://github.com/Fosowl/agenticSeek "agenticSeek")
+### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
 
-一个 100% 本地替代 `Manus AI` 的方案，这款支持语音的 AI 助理能够自主浏览网页、编写代码和规划任务，同时将所有数据保留在您的设备上。专为本地推理模型量身打造，完全在您自己的硬件上运行，确保完全的隐私保护和零云端依赖。
+🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
 
-- 🔒 完全本地化与隐私保护 - 所有功能都在您的设备上运行 — 无云端服务，无数据共享。您的文件、对话和搜索始终保持私密。
-- 🌐 智能网页浏览 - AgenticSeek 能够自主浏览互联网 — 搜索、阅读、提取信息、填写网页表单 — 全程无需人工操作。
-- 💻 自主编码助手 - 需要代码？它可以编写、调试并运行 Python、C、Go、Java 等多种语言的程序 — 全程无需监督。
-- 🧠 智能代理选择 - 您提问，它会自动选择最适合该任务的代理。就像拥有一个随时待命的专家团队。
-- 📋 规划与执行复杂任务 - 从旅行规划到复杂项目 — 它能将大型任务分解为步骤，并利用多个 AI 代理完成工作。
-- 🎙️ 语音功能 - 清晰、快速、未来感十足的语音与语音转文本功能，让您能像科幻电影中一样与您的个人 AI 助手对话。
+| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
+| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
+| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
+| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
+| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
 
-![agenticSeek](https://images-1252557999.file.myqcloud.com/uPic/7sShIp.png) 
+### [personal-management-system](https://github.com/Volmarg/personal-management-system)
 
-### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
+该项目可以很方便的管理个人数据，如目标规划/笔记/联系人/密码/附件/图片/文件等等：
 
-`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
+![personal-management-system](https://images-1252557999.file.myqcloud.com/uPic/C6hnHx.jpg) 
 
-![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
+### [ar5iv](https://github.com/dginev/ar5iv)
 
-### [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
 
-`ChatGPT` 中文调教指南，各种场景使用指南，学习怎么让它听你的话：
-
-![acpz](https://images-1252557999.file.myqcloud.com/uPic/acpz.jpg) 
+![ar5iv](https://images-1252557999.file.myqcloud.com/uPic/ar5iv.jpg) 
 
 ## 🤖 软件 
 
-### [marktext](https://github.com/marktext/marktext)
+### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
 
-![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
+![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
 
-### [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
+### [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
-简单的 macOS 菜单栏应用程序，可以方便地和 `Reminders` 进行交互，使用 `SwiftUI` 开发，并使用 `Apple` 提醒事项作为数据源：
+`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
 
-![reminders-menubar](https://images-1252557999.file.myqcloud.com/uPic/reminders-menubar.jpg) 
+![appflowy](https://images-1252557999.file.myqcloud.com/uPic/JhzdLT.jpg) 
 
-### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
+### [breezy-weather](https://github.com/breezy-weather/breezy-weather/)
 
-FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
+`Breezy Weather` 是一款全面采用 `Material Design` 设计风格的天气应用，其注重设计，UI简洁，动画效果流畅：
 
-- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
-- 基于文本的歌单，方便与朋友分享、设备之间同步
-- 提供基于 TCP 的交互控制协议
-- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
-- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
-
-![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
+![breezy-weather](https://images-1252557999.file.myqcloud.com/uPic/breezy-weather.jpg) 
 
 ## 👀 资料 
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
+### [Book-of-MLM](https://hcplab-sysu.github.io/Book-of-MLM/)
 
-强化学习中文教程：
+本书以深入浅出的方式全面地介绍了多模态大模型的核心技术与典型应用，并围绕新一代人工智能技术范式，详细阐述了因果推理、世界模型、超级智能体与具身智能等前沿技术。希望本书能够为学术界和工业界提供一个清晰的视角，以帮助人工智能科研工作者更全面地了解多模态大模型的技术和新一代人工智能的发展方向。
 
-![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
+![Book-of-MLM](https://images-1252557999.file.myqcloud.com/uPic/Book-of-MLM.jpg) 
 
-### [统计学自学指南](https://xuankaiwang.github.io/)
+### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
-这是一本统计的自学指南, 也是作者在数院自学生涯的一个纪念：
+LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
 
-![XuankaiWang](https://images-1252557999.file.myqcloud.com/uPic/XuankaiWang.jpg) 
+### [汉字激光照排小史](https://github.com/chenshuo/typeset/blob/master/wangxuan-history.pdf)
 
-### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+一份 20 多页的笔记《汉字激光照排小史》：
 
-比较全面的 `k8s` 资源收集项目：
-
-![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
+![typeset](https://images-1252557999.file.myqcloud.com/uPic/typeset.jpg) 
 
 ## 🕸 网站 
 
-### [pixian.ai](https://pixian.ai/)
+### [producthunt-daily-hot](https://github.com/ViggoZ/producthunt-daily-hot)
 
-免登录图片背景消除网页，2023-07-21 当前属于测试期间，是免费的：
+`Product Hunt` 每日热榜是一个基于 `GitHub Action` 的自动化工具，它能够每天定时生成 `Product Hunt` 上的热门产品榜单 `Markdown` 文件，并自动提交到 `GitHub` 仓库中。该项目旨在帮助用户快速查看每日的 `Product Hunt` 热门榜单，并提供更详细的产品信息。
 
-![pixian](https://images-1252557999.file.myqcloud.com/uPic/pixian.jpg) 
+![producthunt-daily-hot](https://images-1252557999.file.myqcloud.com/uPic/2vDyRf.png) 
 
-### [piqsels](https://www.piqsels.com/)
+### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
 
-`Piqsels` 是又一个免版权的图库，免费商用：
+文字生成图片网站，效果和速度都还可以：
 
-![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
+![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
 
-### [gh-card.dev](https://gh-card.dev/)
+### [ailogo](https://ailogo.qq.com/)
 
-免费为你的 `Github` 开源项目生成卡片的网站：
+`AI` 智能生成可商用的 `LOGO`：
 
-![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
+![ailogo](https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg) 
 
 ## ✍️ 说明
 
