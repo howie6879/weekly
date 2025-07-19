@@ -5,85 +5,109 @@
 
 ## 🎯 项目 
 
-### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
+### [poster-design](https://github.com/palxiao/poster-design)
 
-🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
+一款漂亮且功能强大的在线海报图片设计器，仿稿定设计。适用于海报图片生成、电商分享图、文章长图、视频/公众号封面等多种场景，不过需要注意的是项目后端服务没有开源，特性如下：
 
-| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
-| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
-| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
-| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
-| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
+- 导入 PSD 文件解析成模板、在线导出图片下载
+- 元素拖拽、组合、缩放、层级调整、对齐等操作。
+- 图片素材插入、替换、裁剪，图片容器等功能。
+- SVG 素材颜色、透明度编辑，文字花字组合。
+- 画布自定义尺寸、滚轮缩放、自适应画布
+- 吸附对齐、辅助引导线、标尺功能。
+- 键盘快捷键、右键菜单快捷操作，复制删除等常用操作。
+- 风格二维码编辑，支持单色、渐变、自定义 logo 等。
+- 图层操作，支持拖拽变更层级。
+- 颜色调色板，原生级取色器颜色吸管（Chrome）
 
-### [personal-management-system](https://github.com/Volmarg/personal-management-system)
+![poster-design](https://images-1252557999.file.myqcloud.com/uPic/poster-design.jpg) 
 
-该项目可以很方便的管理个人数据，如目标规划/笔记/联系人/密码/附件/图片/文件等等：
+### [rybbit](https://github.com/rybbit-io/rybbit)
 
-![personal-management-system](https://images-1252557999.file.myqcloud.com/uPic/C6hnHx.jpg) 
+`Rybbit` 是一个开源、隐私友好的网站分析工具，旨在提供比 `Google Analytics` 更直观的用户体验：
 
-### [ar5iv](https://github.com/dginev/ar5iv)
+![rybbit](https://images-1252557999.file.myqcloud.com/uPic/fZwu4p.png) 
 
-`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
+### [dootask](https://github.com/kuaifan/dootask)
 
-![ar5iv](https://images-1252557999.file.myqcloud.com/uPic/ar5iv.jpg) 
+DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
+
+![dootask](https://images-1252557999.file.myqcloud.com/uPic/tYiTA7.png) 
 
 ## 🤖 软件 
 
-### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
+### [SyncClipboard](https://github.com/Jeric-X/SyncClipboard)
 
-自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
+跨平台剪贴板同步方案，包含服务端客户端：
 
-![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
+- 剪贴板同步，支持文字、图片和文件。服务器/客户端架构，可以使用客户端内置服务器、独立部署服务器，也可以使用支持WebDAV的网盘作为服务器
+- 优化图片类型的剪贴板，功能有：
+	- 从任意位置复制图片时，可以直接向文件系统粘贴图片文件，反之亦然
+	- 从浏览器复制图片后，后台下载原图到本地，解决无法从浏览器拷贝动态图的问题（大多网站有认证，适用范围有限，支持bilibili动态图片）
+	- 从文件系统复制较新格式类型的图片文件时（webp/heic等），在剪贴板内储存gif或jpg格式，用于直接向支持图片的文本框粘贴图片
 
-### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+![SyncClipboard](https://images-1252557999.file.myqcloud.com/uPic/SyncClipboard.jpg)
 
-`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+这个软件解决了老胡多台电脑间的复制同步问题，非常好用，强推，配置也不麻烦。 
 
-![appflowy](https://images-1252557999.file.myqcloud.com/uPic/JhzdLT.jpg) 
+### [Bluesnooze](https://github.com/odlp/bluesnooze)
 
-### [breezy-weather](https://github.com/breezy-weather/breezy-weather/)
+使用 `Bluesnooze`，蓝牙连接会在 `Mac` 睡眠时关闭，并在 `Mac` 唤醒时打开:
 
-`Breezy Weather` 是一款全面采用 `Material Design` 设计风格的天气应用，其注重设计，UI简洁，动画效果流畅：
+![bluesnooze](https://images-1252557999.file.myqcloud.com/uPic/bluesnooze.png) 
 
-![breezy-weather](https://images-1252557999.file.myqcloud.com/uPic/breezy-weather.jpg) 
+### [Applite](https://github.com/milanvarady/Applite "Applite")
+
+`Applite` 为 `Homebrew Cask` 提供了一个图形化界面，实现一键安装、更新和卸载应用：
+
+![Applite](https://images-1252557999.file.myqcloud.com/uPic/Applite.png) 
 
 ## 👀 资料 
 
-### [Book-of-MLM](https://hcplab-sysu.github.io/Book-of-MLM/)
+### [one-person-company](https://github.com/cyfyifanchen/one-person-company)
 
-本书以深入浅出的方式全面地介绍了多模态大模型的核心技术与典型应用，并围绕新一代人工智能技术范式，详细阐述了因果推理、世界模型、超级智能体与具身智能等前沿技术。希望本书能够为学术界和工业界提供一个清晰的视角，以帮助人工智能科研工作者更全面地了解多模态大模型的技术和新一代人工智能的发展方向。
+一人公司 AI 工具系列，有些工具是宝，有些工具是坑，本 Repo 致力于帮您踩坑，精准找宝 🤩
 
-![Book-of-MLM](https://images-1252557999.file.myqcloud.com/uPic/Book-of-MLM.jpg) 
+![one-person-company](https://images-1252557999.file.myqcloud.com/uPic/KQ5cOO.png) 
 
-### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
 
-LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
+这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
 
-### [汉字激光照排小史](https://github.com/chenshuo/typeset/blob/master/wangxuan-history.pdf)
+- 👋 入门
+- 💬 大语言模型
+	- 💡 提示工程
+	- 🔧 大语言模型实践
+	- 🔬 大语言模型理论
+- 🎨 AI绘画
+- 🔊 AI音频
+- 🌈 多模态
+- 🧠 深度学习
+- 💻 AI系统 
 
-一份 20 多页的笔记《汉字激光照排小史》：
+### [how-web-works](https://github.com/vasanthk/how-web-works)
 
-![typeset](https://images-1252557999.file.myqcloud.com/uPic/typeset.jpg) 
+当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
 
 ## 🕸 网站 
 
-### [producthunt-daily-hot](https://github.com/ViggoZ/producthunt-daily-hot)
+### [waytoagi](https://www.waytoagi.com/)
 
-`Product Hunt` 每日热榜是一个基于 `GitHub Action` 的自动化工具，它能够每天定时生成 `Product Hunt` 上的热门产品榜单 `Markdown` 文件，并自动提交到 `GitHub` 仓库中。该项目旨在帮助用户快速查看每日的 `Product Hunt` 热门榜单，并提供更详细的产品信息。
+`AI` 知识库和工具站：
 
-![producthunt-daily-hot](https://images-1252557999.file.myqcloud.com/uPic/2vDyRf.png) 
+![waytoagi](https://images-1252557999.file.myqcloud.com/uPic/waytoagi.jpg) 
 
-### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
+### [sysmini](https://www.sysmini.com/)
 
-文字生成图片网站，效果和速度都还可以：
+站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
 
-![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
+![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
 
-### [ailogo](https://ailogo.qq.com/)
+### [sayhello](https://beta.sayhello.so/)
 
-`AI` 智能生成可商用的 `LOGO`：
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-![ailogo](https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg) 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
 ## ✍️ 说明
 
