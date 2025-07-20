@@ -5,109 +5,90 @@
 
 ## 🎯 项目 
 
-### [poster-design](https://github.com/palxiao/poster-design)
+### [stablog](https://github.com/YaoZeyuan/stablog)
 
-一款漂亮且功能强大的在线海报图片设计器，仿稿定设计。适用于海报图片生成、电商分享图、文章长图、视频/公众号封面等多种场景，不过需要注意的是项目后端服务没有开源，特性如下：
+稳部落项目是一个基于微博现有接口和 TypeScript 构建的工具，旨在为微博用户提供便捷的微博记录备份与导出服务。 
 
-- 导入 PSD 文件解析成模板、在线导出图片下载
-- 元素拖拽、组合、缩放、层级调整、对齐等操作。
-- 图片素材插入、替换、裁剪，图片容器等功能。
-- SVG 素材颜色、透明度编辑，文字花字组合。
-- 画布自定义尺寸、滚轮缩放、自适应画布
-- 吸附对齐、辅助引导线、标尺功能。
-- 键盘快捷键、右键菜单快捷操作，复制删除等常用操作。
-- 风格二维码编辑，支持单色、渐变、自定义 logo 等。
-- 图层操作，支持拖拽变更层级。
-- 颜色调色板，原生级取色器颜色吸管（Chrome）
+### [invoice](https://github.com/guanshuicheng/invoice)
 
-![poster-design](https://images-1252557999.file.myqcloud.com/uPic/poster-design.jpg) 
+增值税发票 `OCR` 识别，使用 `flask` 微服务架构，识别 `type` ：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等：
 
-### [rybbit](https://github.com/rybbit-io/rybbit)
+![invoice](https://images-1252557999.file.myqcloud.com/uPic/invoice.jpg) 
 
-`Rybbit` 是一个开源、隐私友好的网站分析工具，旨在提供比 `Google Analytics` 更直观的用户体验：
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-![rybbit](https://images-1252557999.file.myqcloud.com/uPic/fZwu4p.png) 
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-### [dootask](https://github.com/kuaifan/dootask)
-
-DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
-
-![dootask](https://images-1252557999.file.myqcloud.com/uPic/tYiTA7.png) 
+ ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
 
 ## 🤖 软件 
 
-### [SyncClipboard](https://github.com/Jeric-X/SyncClipboard)
+### [milky-warp](https://github.com/hugoattal/milky-warp)
 
-跨平台剪贴板同步方案，包含服务端客户端：
+`Milky Warp` 是一个开源工具，技术栈是 `Tauri、Vite、Vue、Typescript`，核心功能就是按下快捷键时会显示一个放大镜：
 
-- 剪贴板同步，支持文字、图片和文件。服务器/客户端架构，可以使用客户端内置服务器、独立部署服务器，也可以使用支持WebDAV的网盘作为服务器
-- 优化图片类型的剪贴板，功能有：
-	- 从任意位置复制图片时，可以直接向文件系统粘贴图片文件，反之亦然
-	- 从浏览器复制图片后，后台下载原图到本地，解决无法从浏览器拷贝动态图的问题（大多网站有认证，适用范围有限，支持bilibili动态图片）
-	- 从文件系统复制较新格式类型的图片文件时（webp/heic等），在剪贴板内储存gif或jpg格式，用于直接向支持图片的文本框粘贴图片
+- 按下可配置的快捷键时显示放大镜
+- 支持使用鼠标滚轮进行放大和缩小
+- 跨平台：可在Windows、macOS和Linux上运行
 
-![SyncClipboard](https://images-1252557999.file.myqcloud.com/uPic/SyncClipboard.jpg)
+![milky-warp](https://images-1252557999.file.myqcloud.com/uPic/milky-warp.gif) 
 
-这个软件解决了老胡多台电脑间的复制同步问题，非常好用，强推，配置也不麻烦。 
+### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
 
-### [Bluesnooze](https://github.com/odlp/bluesnooze)
+一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
 
-使用 `Bluesnooze`，蓝牙连接会在 `Mac` 睡眠时关闭，并在 `Mac` 唤醒时打开:
+- 配置app启动默认输入法。
+- app来回切换，保持app切出前的使用的输入法。
+- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
+- 悬浮窗口支持
 
-![bluesnooze](https://images-1252557999.file.myqcloud.com/uPic/bluesnooze.png) 
+![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
 
-### [Applite](https://github.com/milanvarady/Applite "Applite")
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-`Applite` 为 `Homebrew Cask` 提供了一个图形化界面，实现一键安装、更新和卸载应用：
+LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
 
-![Applite](https://images-1252557999.file.myqcloud.com/uPic/Applite.png) 
+![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
 
 ## 👀 资料 
 
-### [one-person-company](https://github.com/cyfyifanchen/one-person-company)
+### [GolangStudy](https://github.com/cnymw/GolangStudy)
 
-一人公司 AI 工具系列，有些工具是宝，有些工具是坑，本 Repo 致力于帮您踩坑，精准找宝 🤩
+《[GolangStudy](https://golangstudy.tech/)》：从简单到难最全总结，go基础，数据结构，算法，设计模式：
 
-![one-person-company](https://images-1252557999.file.myqcloud.com/uPic/KQ5cOO.png) 
+![GolangStudy](https://images-1252557999.file.myqcloud.com/uPic/GolangStudy.jpg) 
 
-### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
+### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
-这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
+清华大学计算机系课程攻略：
 
-- 👋 入门
-- 💬 大语言模型
-	- 💡 提示工程
-	- 🔧 大语言模型实践
-	- 🔬 大语言模型理论
-- 🎨 AI绘画
-- 🔊 AI音频
-- 🌈 多模态
-- 🧠 深度学习
-- 💻 AI系统 
+![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
 
-### [how-web-works](https://github.com/vasanthk/how-web-works)
+### [LearnData-开源笔记](https://newzone.top/)
 
-当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
+一份关于开源工具、效率方法、心理学探索的自我提升笔记：
+
+![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
 
 ## 🕸 网站 
 
-### [waytoagi](https://www.waytoagi.com/)
+### [kanmaoxian.online](https://kanmaoxian.online)
 
-`AI` 知识库和工具站：
+基于开源项目 [LibreTV](https://github.com/LibreSpark/LibreTV) 开源项目搭建的影视在线网站，大家默默使用就好，网页打开，输入密码：**kanmaoxian**：
 
-![waytoagi](https://images-1252557999.file.myqcloud.com/uPic/waytoagi.jpg) 
+![kanmaoxian](https://images-1252557999.file.myqcloud.com/uPic/YkTBsY.png) 
 
-### [sysmini](https://www.sysmini.com/)
+### [daily-arXiv-ai-enhanced](https://dw-dengwei.github.io/daily-arXiv-ai-enhanced/)
 
-站长从 `2015` 年开始维护极简系统到现在，持续提供纯净的系统镜像和一些软件：
+每天自动从 `arXiv` 抓取最新论文，并利用 `AI` 进行总结，同时通过 `GitHub Pages` 展示这些论文：
 
-![sysmini](https://images-1252557999.file.myqcloud.com/uPic/sysmini.jpg) 
+![daily-arXiv-ai-enhanced](https://images-1252557999.file.myqcloud.com/uPic/0ICzFV.png) 
 
-### [sayhello](https://beta.sayhello.so/)
+### [一证通查](https://getsimnum.caict.ac.cn/#/)
 
-面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
+自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
 
-![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+![phone_query](https://images-1252557999.file.myqcloud.com/uPic/phone_query.png) 
 
 ## ✍️ 说明
 
