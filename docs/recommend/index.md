@@ -5,90 +5,111 @@
 
 ## 🎯 项目 
 
-### [stablog](https://github.com/YaoZeyuan/stablog)
+### [favicon-downloader](https://github.com/seadfeng/favicon-downloader)
 
-稳部落项目是一个基于微博现有接口和 TypeScript 构建的工具，旨在为微博用户提供便捷的微博记录备份与导出服务。 
+免费获取网站 `favicon` 的工具:
 
-### [invoice](https://github.com/guanshuicheng/invoice)
+![faviconextractor](https://images-1252557999.file.myqcloud.com/uPic/faviconextractor.jpg) 
 
-增值税发票 `OCR` 识别，使用 `flask` 微服务架构，识别 `type` ：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等：
+### [heti](https://github.com/sivan/heti)
 
-![invoice](https://images-1252557999.file.myqcloud.com/uPic/invoice.jpg) 
+赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
+![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
 
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+### [coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy)
 
- ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
+代理 `Discord-Bot` 对话 `Coze-Bot`，实现 `API` 形式请求 `GPT4` 对话模型/微调模型：
+
+- 完美适配`NextChat`,`one-api`,`LobeChat`等对话面板。
+- 完美支持对话隔离。
+- 对话接口支持流式返回。
+- 支持创建 `discord`分类/频道/线程。
+- 支持和`openai`对齐的对话接口(`v1/chat/completions`)(也支持`dall-e-3`文生图)
+- 支持和`openai`对齐的图/文件生文接口(`v1/chat/completions`)(按照`GPT4V`图/文件生文接口的请求格式 \[ 支持`url`或`base64` \])。
+- 支持和`openai`对齐的`dall-e-3`文生图接口(`v1/images/generations`)。
+- 支持每日`24`点定时任务自动活跃机器人。
+- 支持配置多机器人 (通过`PROXY_SECRET`/`model`指定) 详细请看进阶配置。
+
+![coze-discord-proxy](https://images-1252557999.file.myqcloud.com/uPic/coze-discord-proxy.png) 
 
 ## 🤖 软件 
 
-### [milky-warp](https://github.com/hugoattal/milky-warp)
+### [plain-app](https://github.com/ismartcoding/plain-app)
 
-`Milky Warp` 是一个开源工具，技术栈是 `Tauri、Vite、Vue、Typescript`，核心功能就是按下快捷键时会显示一个放大镜：
+🔥 PlainApp 是一个开源应用程序，允许您通过网络浏览器管理您的手机。使用安全、易于使用的 Web 界面从您的桌面访问文件、视频、音乐、联系人、短信、电话等！
 
-- 按下可配置的快捷键时显示放大镜
-- 支持使用鼠标滚轮进行放大和缩小
-- 跨平台：可在Windows、macOS和Linux上运行
+![plain-app](https://images-1252557999.file.myqcloud.com/uPic/plain-app.jpg) 
 
-![milky-warp](https://images-1252557999.file.myqcloud.com/uPic/milky-warp.gif) 
+### [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop)
 
-### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+基于 `tauri + vue3` 开发的跨平台桌面端应用，当今社会，智能化、便捷化已经成为趋势。选择 ChatGPT-Desktop，您将享受到以下优势：
 
-一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
+- 我们使用 tauri 构建项目，使项目包更加小巧精简，资源占用更少，同时适配多个平台。
+- 提供了配置代理的功能，您可以通过设置代理来实现更加灵活的网络访问。
+- 可以选择让 app 常驻后台，快捷键(支持自定义)一键唤醒，节省时间，提高效率。
+- 支持多 session 对话，利用 GPT-3.5-turbo 的最新特性，配合记忆模式，随时继续上一次对话。
+- 更便捷的管理和调试 prompt，构建你自己的角色预设库，使得对话更加个性化。
+- 内置丰富的导出功能，更加便利的分享结果！
+- 软件支持自动更新和手动检查更新的功能，以便大家更方便地更新软件。
+- 将所有对话存储到本地，方便随时查阅，留在身边最安心。
 
-- 配置app启动默认输入法。
-- app来回切换，保持app切出前的使用的输入法。
-- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
-- 悬浮窗口支持
+![ChatGPT-Desktop](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Desktop.png) 
 
-![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
+### [cicada](https://github.com/mebtte/cicada)
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+知了, 支持多用户的开源音乐服务：
 
-LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
+- **尊重隐私, 不进行任何数据收集**
+- 支持多用户
+- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
+- 系统媒体和快捷键支持
+- 音乐支持标准音质/超高音质/伴奏以及多份歌词
+- 乐单/播放列表/播放队列音乐数量无限制
+- 支持标注音乐创作来源(翻唱)
+- 支持歌词/歌名/歌手/乐单搜索
 
-![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
+![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
 
 ## 👀 资料 
 
-### [GolangStudy](https://github.com/cnymw/GolangStudy)
+### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
 
-《[GolangStudy](https://golangstudy.tech/)》：从简单到难最全总结，go基础，数据结构，算法，设计模式：
+《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
 
-![GolangStudy](https://images-1252557999.file.myqcloud.com/uPic/GolangStudy.jpg) 
+![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
 
-### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-清华大学计算机系课程攻略：
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
 
-![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
+![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
 
-### [LearnData-开源笔记](https://newzone.top/)
+### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
 
-一份关于开源工具、效率方法、心理学探索的自我提升笔记：
+一份循序渐进的 `k8s` 教程：
 
-![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
+![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
 
 ## 🕸 网站 
 
-### [kanmaoxian.online](https://kanmaoxian.online)
+### [favicon.io](https://favicon.io/)
 
-基于开源项目 [LibreTV](https://github.com/LibreSpark/LibreTV) 开源项目搭建的影视在线网站，大家默默使用就好，网页打开，输入密码：**kanmaoxian**：
+免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
 
-![kanmaoxian](https://images-1252557999.file.myqcloud.com/uPic/YkTBsY.png) 
+![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
 
-### [daily-arXiv-ai-enhanced](https://dw-dengwei.github.io/daily-arXiv-ai-enhanced/)
+### [favoree.io](https://www.favoree.io/)
 
-每天自动从 `arXiv` 抓取最新论文，并利用 `AI` 进行总结，同时通过 `GitHub Pages` 展示这些论文：
+`YT` 频道探索发现导航网站，做得很精细，用户可以对频道进行评分和评论，这有助于构建一个由社区驱动的信任体系。网站提供了简单的过滤器，使用户能够根据兴趣、内容质量、视频时长和观众情绪等因素来搜索和发现新的频道和视频。
 
-![daily-arXiv-ai-enhanced](https://images-1252557999.file.myqcloud.com/uPic/0ICzFV.png) 
+![favoree](https://images-1252557999.file.myqcloud.com/uPic/favoree.jpg) 
 
-### [一证通查](https://getsimnum.caict.ac.cn/#/)
+### [红白机游戏盒](https://nes.heheda.top/ "红白机游戏盒")
 
-自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
+在线畅玩经典小游戏：
 
-![phone_query](https://images-1252557999.file.myqcloud.com/uPic/phone_query.png) 
+![heheda](https://images-1252557999.file.myqcloud.com/uPic/heheda.jpg) 
 
 ## ✍️ 说明
 
