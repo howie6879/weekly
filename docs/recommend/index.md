@@ -5,91 +5,105 @@
 
 ## 🎯 项目 
 
-### [bitwarden](https://github.com/bitwarden)
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 
-一个开源，免费，跨平台，安全易管理，，能自动填充密码可自建的密码管理解决方案：
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
 
-![bitwarden](https://images-1252557999.file.myqcloud.com/uPic/bitwarden.jpg) 
+![AI-Writer](https://images-1252557999.file.myqcloud.com/uPic/AI-Writer.jpeg) 
 
-### [EdgeGPT](https://github.com/acheong08/EdgeGPT)
+### [stablog](https://github.com/YaoZeyuan/stablog)
 
-微软 `Bing Chat` 的逆向工程 `API`：
+稳部落项目是一个基于微博现有接口和 TypeScript 构建的工具，旨在为微博用户提供便捷的微博记录备份与导出服务。 
 
-![EdgeGPT](https://images-1252557999.file.myqcloud.com/uPic/EdgeGPT.jpg) 
+### [dashy](https://github.com/Lissy93/dashy)
 
-### [background-removal-js](https://github.com/imgly/background-removal-js)
+可自我托管的个人自定义导航页：括状态检查，小部件，主题，图标包，UI编辑器等等：
 
-在浏览器环境中直接删除图像背景，不需要额外的成本或隐私问题，在线[体验](https://img.ly/showcases/cesdk/web/background-removal/web?utm_source=github&utm_medium=project&utm_campaign=bg-removal)：
-
-![background-removal-js](https://images-1252557999.file.myqcloud.com/uPic/background-removal-js.jpg) 
+![dashy](https://images-1252557999.file.myqcloud.com/uPic/dashy.jpg) 
 
 ## 🤖 软件 
 
-### [ponymusic](https://github.com/wangchenyan/ponymusic)
+### [MissionBackup](https://github.com/Hellager/MissionBackup)
 
-使用「网易云音乐API」的安卓在线音乐播放器：
+本地备份软件：
 
-- 网易云音乐基本功能
-- 添加和播放本地音乐文件
-- 专辑封面显示
-- 歌词显示，支持拖动歌词调节播放进度
-- 通知栏控制
-- 夜间模式
-- 定时关闭
+- 基于 Tauri，兼顾了 web 前端和 rust 后端
+- 5MB 的安装包，15MB 的程序，多平台可用
+- 基于 cron 和 notify 实现对目标定时/监控备份
+- 可自定义备份保存时长和空间
+- 通过图表直观展示备份情况
+- 完善的文档支持
 
-![ponymusic](https://images-1252557999.file.myqcloud.com/uPic/ponymusic.jpg) 
+![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
 
-### [Xournal++](https://github.com/xournalpp/xournalpp)
+### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
 
-`Xournal++`是一款支持PDF注释的开源手写笔记软件，同样具有跨平台属性，功能挺多，有数位板的可以体验一下。
+安全、快速与轻量的远程桌面&文件管理工具：
 
-![Xournal++](https://images-1252557999.file.myqcloud.com/uPic/2DWaXR.jpg) 
+![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
 
-### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
+### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
 
-一个开源的YouTube应用程序，旨在保护隐私：
+安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
 
-![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
+- [美团买菜版本](https://github.com/qulingyuan/robVeg)
+- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
 
 ## 👀 资料 
 
-### [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book)
+### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
 
-`PeiQi` 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，`CTF` 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见。
+**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
 
-![PeiQi-WIKI-Book](https://images-1252557999.file.myqcloud.com/uPic/PeiQi-WIKI-Book.png) 
+- JS基础语法
+- 核心模块概述
+- 面向对象
+- DOM
+- 计算机网络
+- 设计模式
+- 等等
 
-### [php-the-right-way](https://learnku.com/docs/php-the-right-way/PHP8.0)
+对于前端开发者来说应该是一个非常好的知识库：
 
-PHP 入门教程，现在这块市场占有越来越少了，新项目应该都用 Go 或者 Python ，有兴趣学习的可以作为教程看看：
+![javascript-guidebook](https://images-1252557999.file.myqcloud.com/uPic/vIsnjD.png) 
 
-![php-the-right-way](https://images-1252557999.file.myqcloud.com/uPic/DKXw5S.png) 
+### [wangshusen/SearchEngine](https://github.com/wangshusen/SearchEngine)
 
-### 认知偏差知识手册
+开源的搜索引擎原理书籍（不方便下载的直接私聊我发 PDF），包含：
 
-字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+- 搜索引擎基础
+- 相关性
+- 其他决定用户满意度的因子
+- 查询词处理
+- 召回
+- 排序
+- 查询词推荐
 
-![cb](https://images-1252557999.file.myqcloud.com/uPic/cb.jpg) 
+![SearchEngine](https://images-1252557999.file.myqcloud.com/uPic/SearchEngine.jpg) 
+
+### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
+
+自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
 
 ## 🕸 网站 
 
-### [chatplugin.top](https://www.chatplugin.top/)
+### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
 
-`ChatGPT Plugin` 收录网站，并且将插件汉化：
+@妙才投稿，在线学习git命令的网站：
 
-![chatplugin](https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+一个搜索 git 常用 emoji 的网站:
 
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
 
-### [jaywcjlove/reference](https://wangchujiang.com/reference/)
+### [theonestopradio](https://theonestopradio.com/)
 
-为开发人员分享快速参考备忘清单【速查表】，也可以直接通过 github 访问-> [jaywcjlove/reference](https://github.com/jaywcjlove/reference) :
+发现你可能喜欢的电台：
 
-![reference](https://images-1252557999.file.myqcloud.com/uPic/reference.png) 
+![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
 
 ## ✍️ 说明
 
