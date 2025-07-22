@@ -5,105 +5,97 @@
 
 ## 🎯 项目 
 
-### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
+### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
 
-AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
 
-![AI-Writer](https://images-1252557999.file.myqcloud.com/uPic/AI-Writer.jpeg) 
+![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
 
-### [stablog](https://github.com/YaoZeyuan/stablog)
+### [upptime](https://github.com/upptime/upptime)
 
-稳部落项目是一个基于微博现有接口和 TypeScript 构建的工具，旨在为微博用户提供便捷的微博记录备份与导出服务。 
+由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
 
-### [dashy](https://github.com/Lissy93/dashy)
+![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
 
-可自我托管的个人自定义导航页：括状态检查，小部件，主题，图标包，UI编辑器等等：
+### [rathole](https://github.com/rapiz1/rathole)
 
-![dashy](https://images-1252557999.file.myqcloud.com/uPic/dashy.jpg) 
+安全、稳定、高性能的内网穿透工具，用 Rust 语言编写。 
 
 ## 🤖 软件 
 
-### [MissionBackup](https://github.com/Hellager/MissionBackup)
+### [cicada](https://github.com/mebtte/cicada)
 
-本地备份软件：
+知了, 支持多用户的开源音乐服务：
 
-- 基于 Tauri，兼顾了 web 前端和 rust 后端
-- 5MB 的安装包，15MB 的程序，多平台可用
-- 基于 cron 和 notify 实现对目标定时/监控备份
-- 可自定义备份保存时长和空间
-- 通过图表直观展示备份情况
-- 完善的文档支持
+- **尊重隐私, 不进行任何数据收集**
+- 支持多用户
+- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
+- 系统媒体和快捷键支持
+- 音乐支持标准音质/超高音质/伴奏以及多份歌词
+- 乐单/播放列表/播放队列音乐数量无限制
+- 支持标注音乐创作来源(翻唱)
+- 支持歌词/歌名/歌手/乐单搜索
 
-![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
+![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
 
-### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
+### [Pearcleaner](https://github.com/alienator88/Pearcleaner)
 
-安全、快速与轻量的远程桌面&文件管理工具：
+一个专为 `Mac` 设计的应用卸载工具：
 
-![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
+![baJDOT](https://images-1252557999.file.myqcloud.com/uPic/baJDOT.png) 
 
-### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
+### [Later](https://github.com/alyssaxuu/later)
 
-安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
+一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
 
-- [美团买菜版本](https://github.com/qulingyuan/robVeg)
-- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
+![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
 
 ## 👀 资料 
 
-### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
+### RustBook
 
-**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
+一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
 
-- JS基础语法
-- 核心模块概述
-- 面向对象
-- DOM
-- 计算机网络
+![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg) 
+
+### [ascoders/weekly](https://github.com/ascoders/weekly)
+
+前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
+
+- 前沿技术
 - 设计模式
-- 等等
+- 编译原理
+- 源码解读
+- 商业思考
+- 算法
 
-对于前端开发者来说应该是一个非常好的知识库：
+非常全面，前端从事人员可以看看。 
 
-![javascript-guidebook](https://images-1252557999.file.myqcloud.com/uPic/vIsnjD.png) 
+### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
 
-### [wangshusen/SearchEngine](https://github.com/wangshusen/SearchEngine)
+这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
 
-开源的搜索引擎原理书籍（不方便下载的直接私聊我发 PDF），包含：
-
-- 搜索引擎基础
-- 相关性
-- 其他决定用户满意度的因子
-- 查询词处理
-- 召回
-- 排序
-- 查询词推荐
-
-![SearchEngine](https://images-1252557999.file.myqcloud.com/uPic/SearchEngine.jpg) 
-
-### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
-
-自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
+![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
 
 ## 🕸 网站 
 
-### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
+### [shenyandayi](https://www.shenyandayi.com/)
 
-@妙才投稿，在线学习git命令的网站：
+深言达意，懂文字更懂你：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
+![shenyandayi](https://images-1252557999.file.myqcloud.com/uPic/shenyandayi.jpg) 
 
-### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
+### [eja.tv](https://eja.tv/?)
 
-一个搜索 git 常用 emoji 的网站:
+提供3808个在线电视频道，包含143个国家以及82种不同语言。
 
-![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
+![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
 
-### [theonestopradio](https://theonestopradio.com/)
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
 
-发现你可能喜欢的电台：
+PDF Squeezer 是一款 PDF 压缩工具：
 
-![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
 ## ✍️ 说明
 
