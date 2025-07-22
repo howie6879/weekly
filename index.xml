@@ -12,7 +12,76 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sat, 12 Jul 2025 18:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 02:42:41 +0000</lastBuildDate>
+    <item>
+      <title>07-14~07-20.老胡的周刊（第196期）.md</title>
+      <link>https://weekly.howie6879.com/2025/07-14~07-20.老胡的周刊（第196期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/07-14~07-20.老胡的周刊（第196期）.html"&gt;07-14~07-20.老胡的周刊（第196期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Meekdai/Gmeek"&gt;Gmeek&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个博客框架，超轻量级个人博客模板。完全基于 &lt;code&gt;Github Pages、Github Issues &amp;amp; Github Actions&lt;/code&gt;。不需要本地部署，从搭建到写作，只需要18秒，2步搭建好博客，第3步就是写作。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Gmeek" src="https://images-1252557999.file.myqcloud.com/uPic/KUg5Lm.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ruvnet/claude-flow"&gt;claude-flow&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Claude-Flow v2.0.0 Alpha&lt;/code&gt; 代表了人工智能驱动开发编排的革命性飞跃。它从零开始构建，具有企业级架构、先进的群体智能和无缝的 Claude Code 集成。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🐝 蜂巢思维智能：女王主导的人工智能与专门的工蜂进行协调&lt;/li&gt;
+&lt;li&gt;🧠 神经网络：27+ 种具有 WASM SIMD 加速的认知模型&lt;/li&gt;
+&lt;li&gt;🔧 87 个 MCP 工具：用于集群编排、内存和自动化的综合工具包&lt;/li&gt;
+&lt;li&gt;🔄 动态代理架构（DAA）：具有容错能力的自组织代理&lt;/li&gt;
+&lt;li&gt;💾 SQLite 内存系统：持久化存储.swarm/memory.db，包含 12 个专门的表&lt;/li&gt;
+&lt;li&gt;🪝 高级钩子系统：带有操作前/后钩子的自动化工作流程&lt;/li&gt;
+&lt;li&gt;📊 GitHub 集成：6 种专门的存储库管理模式&lt;/li&gt;
+&lt;li&gt;⚡ 性能：SWE-Bench 解决率 84.8%，速度提升 2.8-4.4 倍&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href="https://github.com/zhimaAi/chatwiki"&gt;chatwiki&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;开箱即用的基于企业私有知识库的LLM大语言模型的智能客服机器人问答系统，支持私有化部署，代码免费开源且可商用，由芝麻小客服官方推出。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="chatwiki" src="https://images-1252557999.file.myqcloud.com/uPic/pmpJzE.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/tiagorangel1/cap"&gt;cap&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Cap&lt;/code&gt; 是一个轻量级、现代的开源 &lt;code&gt;CAPTCHA&lt;/code&gt; 替代方案:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="cap" src="https://images-1252557999.file.myqcloud.com/uPic/CTyPFB.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/alpha-liu-01/SpeedyNote"&gt;SpeedyNote&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;刚毕业的大学生 Alpha Liu，是一位热爱硬件的极客。他开发了一款名为 SpeedyNote 的开源笔记软件，专为无纸化学习而生，致力于让低端设备也能拥有流畅、极致的书写体验。并将这个项目视为一份开源礼物，送给所有因硬件门槛而被挡在无纸化学习门外的同学，也为那些被遗忘的旧平板、老电脑注入了新的活力。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;一款简单的笔记应用，性能出色，支持 PDF 导入，&lt;/p&gt;
+&lt;p&gt;&lt;img alt="SpeedyNote" src="https://images-1252557999.file.myqcloud.com/uPic/aTbqHl.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/LiveContainer/LiveContainer"&gt;LiveContainer&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;不用越狱，在  &lt;code&gt;IOS&lt;/code&gt; 下通过&lt;strong&gt;容器&lt;/strong&gt;形式运行，可尝试多开：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="LiveContainer" src="https://images-1252557999.file.myqcloud.com/uPic/Fsv3cc.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/hmjz100/LinkSwift"&gt;LinkSwift&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/yarin-zhang/AI-Gist"&gt;AI-Gist&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;AI Gist&lt;/code&gt; 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="AI-Gist" src="https://images-1252557999.file.myqcloud.com/uPic/E1fX9Y.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ZJU-Turing/TuringCourses"&gt;TuringCourses&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;浙江大学图灵班各门课程的学习指南以及学习资源。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;主站：https://ZJU-Turing.github.io/TuringCourses/&lt;/li&gt;
+&lt;li&gt;存档站（CS/AI/IS 三专业版）：https://zju-turing.github.io/TuringCoursesGrave/&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://collagemaker.tools/"&gt;collagemaker.tools&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;群友 &lt;strong&gt;@37丫37&lt;/strong&gt; 开发免费在线拼图工具，纯前端客户端渲染，提供布局拼图和长图拼接两大核心模式。支持在画布自由添加、编辑、缩放和移动文字、箭头、方框、圆圈等创意对象。所有操作均在本地完成，完全免费、无需登录、注重隐私，无水印高清下载。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="collagemaker" src="https://images-1252557999.file.myqcloud.com/uPic/fl3v1N.png" /&gt;&lt;/p&gt;
+&lt;p&gt;PS:原来域名是：https://img.ops-coffee.cn/ 现在改成 https://collagemaker.tools ，看样子是更加专业且认真地在维护这个小产品。&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">07-14~07-20.老胡的周刊（第196期）.md</guid>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>07-07~07-13.老胡的周刊（第195期）.md</title>
       <link>https://weekly.howie6879.com/2025/07-07~07-13.老胡的周刊（第195期）.html</link>
@@ -1360,110 +1429,6 @@
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">02-10~02-16.老胡的周刊（第177期）.md</guid>
       <pubDate>Sun, 16 Feb 2025 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>01-20~02-08.老胡的周刊（第176期）.md</title>
-      <link>https://weekly.howie6879.com/2025/01-20~02-08.老胡的周刊（第176期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/01-20~02-08.老胡的周刊（第176期）.html"&gt;01-20~02-08.老胡的周刊（第176期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/rag-web-ui/rag-web-ui"&gt;rag-web-ui&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个基于 RAG (Retrieval-Augmented Generation) 技术的智能对话系统，它能够帮助构建基于自有知识库的智能问答系统。通过结合文档检索和大语言模型，实现了准确、可靠的知识问答服务。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="rag-web-ui" src="https://images-1252557999.file.myqcloud.com/uPic/7um6Ks.png" /&gt;&lt;/p&gt;
-&lt;p&gt;作者还提供了实现教程：零基础入门：&lt;a href="https://github.com/rag-web-ui/rag-web-ui/blob/main/docs/tutorial/README.md"&gt;如何用 RAG (检索增强生成) 打造知识库 QA 系统&lt;/a&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ragtutorial" src="https://images-1252557999.file.myqcloud.com/uPic/2jXc19.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/jingyaogong/minimind"&gt;minimind&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;大语言模型（LLM）领域，如 GPT、LLaMA、GLM 等，虽然它们效果惊艳， 但动辄10 Bilion庞大的模型参数个人设备显存远不够训练，甚至推理困难。 几乎所有人都不会只满足于用Lora等方案fine-tuing大模型学会一些新的指令， 这约等于在教牛顿玩21世纪的智能手机，然而，这远远脱离了学习物理本身的奥妙。 此外，卖课付费订阅的营销号漏洞百出的一知半解讲解AI的教程遍地， 让理解LLM的优质内容雪上加霜，严重阻碍了学习者。&lt;/p&gt;
-&lt;p&gt;因此，本项目的目标是把上手LLM的门槛无限降低， 直接从0开始训练一个极其轻量的语言模型。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="minimind" src="https://images-1252557999.file.myqcloud.com/uPic/ZvBbNK.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/panda-sandeep/epigram"&gt;epigram&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;由 AI 驱动的新闻摘要平台，提供个性化新闻源和简洁的新闻摘要：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="epigram" src="https://images-1252557999.file.myqcloud.com/uPic/8HnhXD.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/imsyy/site-status"&gt;site-status&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个简洁的站点状态检测工具：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="site-status" src="https://images-1252557999.file.myqcloud.com/uPic/RvcPlz.png" /&gt;&lt;/p&gt;
-&lt;p&gt;之前推荐过的 &lt;a href="https://github.com/louislam/uptime-kuma"&gt;Uptime Kuma&lt;/a&gt; 也是同类型开源项目。&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/RikkaApps/Shizuku"&gt;Shizuku&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Shizuku&lt;/code&gt; 提供了一种新的方法，允许普通应用程序通过一个带有更高权限的 Java 进程，直接使用系统 API。&lt;/p&gt;
-&lt;p&gt;为部分需要更高权限的应用提供了更高效的系统级接口，并且只需 adb 调试即可开启，这比传统的方法有更多的优势，包括速度更快、更可靠、权限更高。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Shizuku" src="https://images-1252557999.file.myqcloud.com/uPic/th0ELp.png" /&gt;&lt;/p&gt;
-&lt;p&gt;相关项目：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/iamr0s/Dhizuku"&gt;Dhizuku&lt;/a&gt;：参考 &lt;a href="https://github.com/RikkaApps/Shizuku"&gt;Shizuku&lt;/a&gt; 的设计思想，分享 DeviceOwner (设备所有者) 权限给其余应用，另一种思路，但是生态还需要发展。&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/timschneeb/awesome-shizuku/"&gt;awesome-shizuku&lt;/a&gt;：&lt;code&gt;Shizuku&lt;/code&gt; 允许普通应用程序在非 Root 设备上使用 ADB 直接使用权限提升的系统 API。本列表汇集了一些已知可利用 Shizuku 功能的应用程序。&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/legendsayantan/ShizuTools"&gt;ShizuTools&lt;/a&gt; 是一个扩展一些常见操作的开源工具项目。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;a href="https://github.com/anilbeesetti/nextplayer"&gt;nextplayer&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;免费开源的 Android 原生视频播放器：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="nextplayer" src="https://images-1252557999.file.myqcloud.com/uPic/Mj7TE1.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/mihonapp/mihon"&gt;mihon&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Mihon&lt;/code&gt; 是一款安卓端的免费、开源漫画阅读器，支持漫画在线阅读与下载。 应用界面清爽干净，操作简单，纯净无广告：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;支持在线阅读、漫画下载和本地漫画阅读；&lt;/li&gt;
-&lt;li&gt;支持安装全球各种漫画图源；&lt;/li&gt;
-&lt;li&gt;多种阅读模式和各种自定义设置；&lt;/li&gt;
-&lt;li&gt;书架、发现、分组、阅读统计、主题、追踪、自动更新及备份等功能……&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="mihon" src="https://images-1252557999.file.myqcloud.com/uPic/qkUiNU.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/aistra0528/Hail"&gt;Hail&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;雹(Hail) 是一个允许用户在没有 root 权限的情况下，通过冻结、隐藏、暂停或卸载来管理 Android 应用的自由软件：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Hail" src="https://images-1252557999.file.myqcloud.com/uPic/nhaDp1.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;aniyomi-插件&lt;/h3&gt;
-&lt;p&gt;之前推荐过移动端看动漫和漫画的软件👉&lt;a href="https://github.com/aniyomiorg/aniyomi"&gt;aniyomi&lt;/a&gt;，老胡最近也针对这个软件做了一些配置，将收集的源分享给大家：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;https://github.com/GokulSamraj/aniyomi-anime-repo&lt;/li&gt;
-&lt;li&gt;https://github.com/Kohi-den/extensions&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="aniyomi" src="https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/deepseek-ai/awesome-deepseek-integration"&gt;awesome-deepseek-integration&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;将 &lt;code&gt;DeepSeek&lt;/code&gt; 大模型能力轻松接入各类软件：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;应用程序：Chatbox ChatGPT-Next-Web 留白记事等&lt;/li&gt;
-&lt;li&gt;AI Agent 框架&lt;/li&gt;
-&lt;li&gt;RAG 框架&lt;/li&gt;
-&lt;li&gt;Solana 框架&lt;/li&gt;
-&lt;li&gt;即时通讯插件&lt;/li&gt;
-&lt;li&gt;浏览器插件&lt;/li&gt;
-&lt;li&gt;VS Code 插件 neovim 插件JetBrains 插件&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;a href="https://quant-wiki.com/"&gt;quant-wiki&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;致力于量化知识的开源与汉化，打破国内外量化金融行业信息差：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="quant" src="https://images-1252557999.file.myqcloud.com/uPic/kuOM0C.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Admol/SystemDesign"&gt;SystemDesign&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;系统设计面试：内幕指南：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="SystemDesign" src="https://images-1252557999.file.myqcloud.com/uPic/PrOe1t.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://beej.us/guide/bggit/html/split/index.html"&gt;Beej's Guide to Git&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Beej 的 Git 指南教程：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Beejgit" src="https://images-1252557999.file.myqcloud.com/uPic/UAP5Fj.png" /&gt;&lt;/p&gt;
-&lt;p&gt;之前推荐过&lt;a href="https://beej.us/guide/bgc/html/split/"&gt;Beej 的 C 语言超级指南&lt;/a&gt;，从入门到进阶，基础语法到高级特性：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Beej" src="https://images-1252557999.file.myqcloud.com/uPic/1XOLrv.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://nokiadesignarchive.aalto.fi/"&gt;nokiadesignarchive.aalto.fi&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;诺基亚(Nokia)设计档案，关于诺基亚从 1992 年至 2014 年的各类设计作品的档案留存：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="nokiadesignarchive" src="https://images-1252557999.file.myqcloud.com/uPic/VkI5g0.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://linux.doompdf.dev/linux.pdf"&gt;linux.pdf&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;PDF&lt;/code&gt; 中运行 &lt;code&gt;Linux&lt;/code&gt;，通过 &lt;code&gt;RISC-V&lt;/code&gt; 架构的模拟器实现：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="linux.pdf" src="https://images-1252557999.file.myqcloud.com/uPic/edDIQp.png" /&gt;&lt;/p&gt;
-&lt;p&gt;开源地址：&lt;a href="https://github.com/ading2210/linuxpdf?tab=readme-ov-file"&gt;linuxpdf&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://fmhy.net/"&gt;fmhy.net&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;帮助用户轻松找到各种免费的工具、服务和学习资源的网站：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="fmhy.net" src="https://images-1252557999.file.myqcloud.com/uPic/fwWyWH.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">01-20~02-08.老胡的周刊（第176期）.md</guid>
-      <pubDate>Sat, 08 Feb 2025 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
