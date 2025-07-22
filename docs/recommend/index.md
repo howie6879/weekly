@@ -5,111 +5,91 @@
 
 ## 🎯 项目 
 
-### [favicon-downloader](https://github.com/seadfeng/favicon-downloader)
+### [bitwarden](https://github.com/bitwarden)
 
-免费获取网站 `favicon` 的工具:
+一个开源，免费，跨平台，安全易管理，，能自动填充密码可自建的密码管理解决方案：
 
-![faviconextractor](https://images-1252557999.file.myqcloud.com/uPic/faviconextractor.jpg) 
+![bitwarden](https://images-1252557999.file.myqcloud.com/uPic/bitwarden.jpg) 
 
-### [heti](https://github.com/sivan/heti)
+### [EdgeGPT](https://github.com/acheong08/EdgeGPT)
 
-赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+微软 `Bing Chat` 的逆向工程 `API`：
 
-![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
+![EdgeGPT](https://images-1252557999.file.myqcloud.com/uPic/EdgeGPT.jpg) 
 
-### [coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy)
+### [background-removal-js](https://github.com/imgly/background-removal-js)
 
-代理 `Discord-Bot` 对话 `Coze-Bot`，实现 `API` 形式请求 `GPT4` 对话模型/微调模型：
+在浏览器环境中直接删除图像背景，不需要额外的成本或隐私问题，在线[体验](https://img.ly/showcases/cesdk/web/background-removal/web?utm_source=github&utm_medium=project&utm_campaign=bg-removal)：
 
-- 完美适配`NextChat`,`one-api`,`LobeChat`等对话面板。
-- 完美支持对话隔离。
-- 对话接口支持流式返回。
-- 支持创建 `discord`分类/频道/线程。
-- 支持和`openai`对齐的对话接口(`v1/chat/completions`)(也支持`dall-e-3`文生图)
-- 支持和`openai`对齐的图/文件生文接口(`v1/chat/completions`)(按照`GPT4V`图/文件生文接口的请求格式 \[ 支持`url`或`base64` \])。
-- 支持和`openai`对齐的`dall-e-3`文生图接口(`v1/images/generations`)。
-- 支持每日`24`点定时任务自动活跃机器人。
-- 支持配置多机器人 (通过`PROXY_SECRET`/`model`指定) 详细请看进阶配置。
-
-![coze-discord-proxy](https://images-1252557999.file.myqcloud.com/uPic/coze-discord-proxy.png) 
+![background-removal-js](https://images-1252557999.file.myqcloud.com/uPic/background-removal-js.jpg) 
 
 ## 🤖 软件 
 
-### [plain-app](https://github.com/ismartcoding/plain-app)
+### [ponymusic](https://github.com/wangchenyan/ponymusic)
 
-🔥 PlainApp 是一个开源应用程序，允许您通过网络浏览器管理您的手机。使用安全、易于使用的 Web 界面从您的桌面访问文件、视频、音乐、联系人、短信、电话等！
+使用「网易云音乐API」的安卓在线音乐播放器：
 
-![plain-app](https://images-1252557999.file.myqcloud.com/uPic/plain-app.jpg) 
+- 网易云音乐基本功能
+- 添加和播放本地音乐文件
+- 专辑封面显示
+- 歌词显示，支持拖动歌词调节播放进度
+- 通知栏控制
+- 夜间模式
+- 定时关闭
 
-### [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop)
+![ponymusic](https://images-1252557999.file.myqcloud.com/uPic/ponymusic.jpg) 
 
-基于 `tauri + vue3` 开发的跨平台桌面端应用，当今社会，智能化、便捷化已经成为趋势。选择 ChatGPT-Desktop，您将享受到以下优势：
+### [Xournal++](https://github.com/xournalpp/xournalpp)
 
-- 我们使用 tauri 构建项目，使项目包更加小巧精简，资源占用更少，同时适配多个平台。
-- 提供了配置代理的功能，您可以通过设置代理来实现更加灵活的网络访问。
-- 可以选择让 app 常驻后台，快捷键(支持自定义)一键唤醒，节省时间，提高效率。
-- 支持多 session 对话，利用 GPT-3.5-turbo 的最新特性，配合记忆模式，随时继续上一次对话。
-- 更便捷的管理和调试 prompt，构建你自己的角色预设库，使得对话更加个性化。
-- 内置丰富的导出功能，更加便利的分享结果！
-- 软件支持自动更新和手动检查更新的功能，以便大家更方便地更新软件。
-- 将所有对话存储到本地，方便随时查阅，留在身边最安心。
+`Xournal++`是一款支持PDF注释的开源手写笔记软件，同样具有跨平台属性，功能挺多，有数位板的可以体验一下。
 
-![ChatGPT-Desktop](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Desktop.png) 
+![Xournal++](https://images-1252557999.file.myqcloud.com/uPic/2DWaXR.jpg) 
 
-### [cicada](https://github.com/mebtte/cicada)
+### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-知了, 支持多用户的开源音乐服务：
+一个开源的YouTube应用程序，旨在保护隐私：
 
-- **尊重隐私, 不进行任何数据收集**
-- 支持多用户
-- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
-- 系统媒体和快捷键支持
-- 音乐支持标准音质/超高音质/伴奏以及多份歌词
-- 乐单/播放列表/播放队列音乐数量无限制
-- 支持标注音乐创作来源(翻唱)
-- 支持歌词/歌名/歌手/乐单搜索
-
-![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
+![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
 
 ## 👀 资料 
 
-### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
+### [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book)
 
-《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
+`PeiQi` 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，`CTF` 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见。
 
-![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
+![PeiQi-WIKI-Book](https://images-1252557999.file.myqcloud.com/uPic/PeiQi-WIKI-Book.png) 
 
-### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
+### [php-the-right-way](https://learnku.com/docs/php-the-right-way/PHP8.0)
 
-作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
+PHP 入门教程，现在这块市场占有越来越少了，新项目应该都用 Go 或者 Python ，有兴趣学习的可以作为教程看看：
 
-![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
+![php-the-right-way](https://images-1252557999.file.myqcloud.com/uPic/DKXw5S.png) 
 
-### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
+### 认知偏差知识手册
 
-一份循序渐进的 `k8s` 教程：
+字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
 
-![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
+![cb](https://images-1252557999.file.myqcloud.com/uPic/cb.jpg) 
 
 ## 🕸 网站 
 
-### [favicon.io](https://favicon.io/)
+### [chatplugin.top](https://www.chatplugin.top/)
 
-免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+`ChatGPT Plugin` 收录网站，并且将插件汉化：
 
-![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
+![chatplugin](https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg) 
 
-### [favoree.io](https://www.favoree.io/)
+### [ai-12348](https://ai.12348.gov.cn/pc/)
 
-`YT` 频道探索发现导航网站，做得很精细，用户可以对频道进行评分和评论，这有助于构建一个由社区驱动的信任体系。网站提供了简单的过滤器，使用户能够根据兴趣、内容质量、视频时长和观众情绪等因素来搜索和发现新的频道和视频。
+免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
 
-![favoree](https://images-1252557999.file.myqcloud.com/uPic/favoree.jpg) 
+![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
 
-### [红白机游戏盒](https://nes.heheda.top/ "红白机游戏盒")
+### [jaywcjlove/reference](https://wangchujiang.com/reference/)
 
-在线畅玩经典小游戏：
+为开发人员分享快速参考备忘清单【速查表】，也可以直接通过 github 访问-> [jaywcjlove/reference](https://github.com/jaywcjlove/reference) :
 
-![heheda](https://images-1252557999.file.myqcloud.com/uPic/heheda.jpg) 
+![reference](https://images-1252557999.file.myqcloud.com/uPic/reference.png) 
 
 ## ✍️ 说明
 
