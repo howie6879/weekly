@@ -5,97 +5,103 @@
 
 ## 🎯 项目 
 
-### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+### [SubsTracker](https://github.com/wangwangit/SubsTracker)
 
-适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
+基于 `Cloudflare Workers` 的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过 `Telegram` 发送及时提醒：
 
-![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
+- 订阅管理：添加、编辑、删除各类订阅服务
+- 智能提醒：自定义提前提醒天数，自动续订计算
+- 农历显示：支持农历日期显示，可控制开关
+- 状态管理：订阅启用/停用，过期状态自动识别
 
-### [upptime](https://github.com/upptime/upptime)
+![SubsTracker](https://images-1252557999.file.myqcloud.com/uPic/K7RxtO.png) 
 
-由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
+### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
 
-![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
+🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
 
-### [rathole](https://github.com/rapiz1/rathole)
+| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
+| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
+| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
+| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
+| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
 
-安全、稳定、高性能的内网穿透工具，用 Rust 语言编写。 
+### [chatwiki](https://github.com/zhimaAi/chatwiki)
+
+开箱即用的基于企业私有知识库的LLM大语言模型的智能客服机器人问答系统，支持私有化部署，代码免费开源且可商用，由芝麻小客服官方推出。
+
+![chatwiki](https://images-1252557999.file.myqcloud.com/uPic/pmpJzE.png) 
 
 ## 🤖 软件 
 
-### [cicada](https://github.com/mebtte/cicada)
+### [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup)
 
-知了, 支持多用户的开源音乐服务：
+PC微信聊天记录数据导出工具
 
-- **尊重隐私, 不进行任何数据收集**
-- 支持多用户
-- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
-- 系统媒体和快捷键支持
-- 音乐支持标准音质/超高音质/伴奏以及多份歌词
-- 乐单/播放列表/播放队列音乐数量无限制
-- 支持标注音乐创作来源(翻唱)
-- 支持歌词/歌名/歌手/乐单搜索
+基于- wails开发 + React前端，实现PC端微信聊天记录一键导出功能。
+- 导出后数据可以做永久化保存，即使微信停止支持，聊天记录也可以随时查看。
+- 前端界面尽量与微信界面保持一致，减少使用成本。
+- 理论上支持所有Windows 32/64位微信版本。
 
-![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
+![wechatDataBackup](https://images-1252557999.file.myqcloud.com/uPic/LJBaJf.png) 
 
-### [Pearcleaner](https://github.com/alienator88/Pearcleaner)
+### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
 
-一个专为 `Mac` 设计的应用卸载工具：
+一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
 
-![baJDOT](https://images-1252557999.file.myqcloud.com/uPic/baJDOT.png) 
+![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
 
-### [Later](https://github.com/alyssaxuu/later)
+### [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 
-一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
+`Bulk Crap Uninstaller` 是一款免费开源的 `Windows` 卸载软件，它能够快速删除大量不需要的应用程序，甚至是便携或未注册的程序与游戏，并且能自动扫描残留文件、注册表遗留内容等：
 
-![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
+![Bulk-Crap-Uninstaller](https://images-1252557999.file.myqcloud.com/uPic/Bulk-Crap-Uninstaller.png) 
 
 ## 👀 资料 
 
-### RustBook
+### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
 
-一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
+基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
 
-![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg) 
+- NLP
+- CV
+- Time Series
 
-### [ascoders/weekly](https://github.com/ascoders/weekly)
+目录概览：
 
-前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
+![Pytorch](https://images-1252557999.file.myqcloud.com/uPic/kSUA40.png) 
 
-- 前沿技术
-- 设计模式
-- 编译原理
-- 源码解读
-- 商业思考
-- 算法
+### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
 
-非常全面，前端从事人员可以看看。 
+《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
 
-### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
+![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
 
-这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
+### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
 
-![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
+精益副业：程序员如何优雅地做副业:
+
+![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
 
 ## 🕸 网站 
 
-### [shenyandayi](https://www.shenyandayi.com/)
+### [singleservingsites.cool](https://singleservingsites.cool/ "singleservingsites.cool")
 
-深言达意，懂文字更懂你：
+Single-Serving Sites 是一个展示专注于特定功能或主题的微型网站。这些网站涵盖了从二维码、倒计时、设计工具、在线棋盘游戏到个性化的 CSS 风格、产品管理工具等多种类型，每个微型网站都有其独特的功能和目的：
 
-![shenyandayi](https://images-1252557999.file.myqcloud.com/uPic/shenyandayi.jpg) 
+![singleservingsites](https://images-1252557999.file.myqcloud.com/uPic/lrAstx.png) 
 
-### [eja.tv](https://eja.tv/?)
+### [roadmap.sh](https://roadmap.sh/)
 
-提供3808个在线电视频道，包含143个国家以及82种不同语言。
+这是一个开源免费的项目，主要是提供了各种技术栈的学习路线：
 
-![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
+![roadmap](https://images-1252557999.file.myqcloud.com/uPic/roadmap.jpg) 
 
-### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
+### [ifixit](https://zh.ifixit.com/)
 
-PDF Squeezer 是一款 PDF 压缩工具：
+一个免费教授人们如何修理任何物品的网站：
 
-![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
+![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
 
 ## ✍️ 说明
 
