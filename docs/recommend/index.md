@@ -5,103 +5,88 @@
 
 ## 🎯 项目 
 
-### [SubsTracker](https://github.com/wangwangit/SubsTracker)
+### [quivr](https://github.com/stangirard/quivr)
 
-基于 `Cloudflare Workers` 的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过 `Telegram` 发送及时提醒：
+`Quivr` 是您在云中的第二个大脑，让您轻松存储和检索非结构化信息，通过索引你电脑上各种类型的文件，然后通过 `LLM` 处理，最后进行问答：
 
-- 订阅管理：添加、编辑、删除各类订阅服务
-- 智能提醒：自定义提前提醒天数，自动续订计算
-- 农历显示：支持农历日期显示，可控制开关
-- 状态管理：订阅启用/停用，过期状态自动识别
+![quivr_qa](https://images-1252557999.file.myqcloud.com/uPic/quivr_qa.jpg) 
 
-![SubsTracker](https://images-1252557999.file.myqcloud.com/uPic/K7RxtO.png) 
+### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
 
-### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
+鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
 
-🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
+![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
 
-| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
-| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
-| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
-| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
-| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
+### [heti](https://github.com/sivan/heti)
 
-### [chatwiki](https://github.com/zhimaAi/chatwiki)
+赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
-开箱即用的基于企业私有知识库的LLM大语言模型的智能客服机器人问答系统，支持私有化部署，代码免费开源且可商用，由芝麻小客服官方推出。
-
-![chatwiki](https://images-1252557999.file.myqcloud.com/uPic/pmpJzE.png) 
+![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
 
 ## 🤖 软件 
 
-### [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup)
+### [Free-NTFS-for-Mac](https://github.com/hoochanlon/Free-NTFS-for-Mac)
 
-PC微信聊天记录数据导出工具
+这是一款支持苹果芯片的 `Free NTFS for Mac` 小工具软件，主要是为了方便想要免费使用 `NTFS` 格式移动存储的文件拷贝与共享的苹果电脑用户：
 
-基于- wails开发 + React前端，实现PC端微信聊天记录一键导出功能。
-- 导出后数据可以做永久化保存，即使微信停止支持，聊天记录也可以随时查看。
-- 前端界面尽量与微信界面保持一致，减少使用成本。
-- 理论上支持所有Windows 32/64位微信版本。
+![Free-NTFS-for-Mac](https://images-1252557999.file.myqcloud.com/uPic/Free-NTFS-for-Mac.png) 
 
-![wechatDataBackup](https://images-1252557999.file.myqcloud.com/uPic/LJBaJf.png) 
+### [Parabolic](https://github.com/NickvisionApps/Parabolic)
 
-### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
+`Parabolic` 是一款免费、功能强大的网络影片下载工具，它支持从超过 1000 个网站下载媒体内容，包括 YouTube、TikTok、IG 等常见平台。用户只需复制粘贴网址，选择下载的影片格式、解析度和字幕即可完成操作。它拥有简洁易用的界面，无额外付费功能或隐藏内容，还支持多种影片和音讯格式，内建下载影片字幕功能，并能一次性执行多个下载任务，是网络影片下载保存的得力助手。
 
-一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
+![Parabolic](https://images-1252557999.file.myqcloud.com/uPic/TBRkMe.png) 
 
-![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
+### [biliTickerBuy](https://github.com/mikumifa/biliTickerBuy)
 
-### [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
+免费开源的B站会员购购票辅助工具：
 
-`Bulk Crap Uninstaller` 是一款免费开源的 `Windows` 卸载软件，它能够快速删除大量不需要的应用程序，甚至是便携或未注册的程序与游戏，并且能自动扫描残留文件、注册表遗留内容等：
-
-![Bulk-Crap-Uninstaller](https://images-1252557999.file.myqcloud.com/uPic/Bulk-Crap-Uninstaller.png) 
+![biliTickerBuy](https://images-1252557999.file.myqcloud.com/uPic/f4iCzf.png) 
 
 ## 👀 资料 
 
-### [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
+### [让你受益匪浅的名家写作经验](https://docs.qq.com/aio/DWVRkZ1RUWHRsdU1J?p=4oWLX7hAfFdfdbi4Ir5wqo)
 
-基于`Jupyter`的`PyTorch`教程，主要是使用机器学习&深度学习解决实际问题，包含如下方向：
+各文学大家的写作经验汇总：
 
-- NLP
-- CV
-- Time Series
+![让你受益匪浅的名家写作经验](https://images-1252557999.file.myqcloud.com/uPic/让你受益匪浅的名家写作经验.jpg) 
 
-目录概览：
+### [secguide](https://github.com/Tencent/secguide)
 
-![Pytorch](https://images-1252557999.file.myqcloud.com/uPic/kSUA40.png) 
+面向开发人员梳理的代码安全指南，规范索引如下：
 
-### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
+- C/C++安全指南
+- JavaScript安全指南
+- Node安全指南
+- Go安全指南
+- Java安全指南
+- Python安全指南 
 
-《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
+### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
+24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
 
-### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
-
-精益副业：程序员如何优雅地做副业:
-
-![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
+![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
 
 ## 🕸 网站 
 
-### [singleservingsites.cool](https://singleservingsites.cool/ "singleservingsites.cool")
+### [nesbox](https://nesbox.xianqiao.wang/)
 
-Single-Serving Sites 是一个展示专注于特定功能或主题的微型网站。这些网站涵盖了从二维码、倒计时、设计工具、在线棋盘游戏到个性化的 CSS 风格、产品管理工具等多种类型，每个微型网站都有其独特的功能和目的：
+找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
 
-![singleservingsites](https://images-1252557999.file.myqcloud.com/uPic/lrAstx.png) 
+![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
 
-### [roadmap.sh](https://roadmap.sh/)
+### [couplet](https://ai.binwang.me/couplet/)
 
-这是一个开源免费的项目，主要是提供了各种技术栈的学习路线：
+自动对联网站：
 
-![roadmap](https://images-1252557999.file.myqcloud.com/uPic/roadmap.jpg) 
+![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
 
-### [ifixit](https://zh.ifixit.com/)
+### [macosicongallery](https://www.macosicongallery.com/)
 
-一个免费教授人们如何修理任何物品的网站：
+专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
 
-![ifixit](https://images-1252557999.file.myqcloud.com/uPic/ifixit.jpg) 
+![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
 
 ## ✍️ 说明
 
