@@ -5,88 +5,91 @@
 
 ## 🎯 项目 
 
-### [quivr](https://github.com/stangirard/quivr)
+### [lsky-pro](https://github.com/lsky-org/lsky-pro)
 
-`Quivr` 是您在云中的第二个大脑，让您轻松存储和检索非结构化信息，通过索引你电脑上各种类型的文件，然后通过 `LLM` 处理，最后进行问答：
+非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
 
-![quivr_qa](https://images-1252557999.file.myqcloud.com/uPic/quivr_qa.jpg) 
+![vps_lsky_01](https://images-1252557999.file.myqcloud.com/uPic/vps_lsky_01.jpg) 
 
-### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
+### [cmdb](https://github.com/veops/cmdb)
 
-鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
+运维配置管理数据库，主要用来存放如服务器、应用等运维资产以及它们间的关系，是运维的权威数据库。主要功能包括模型管理和资源的查询，模型管理运维人员可以按照公司的内部的运维场景自己合理的设计，然后通过Agent自动上报和人工批量手动录入的方式写入模型对应的数据。对其他系统提供Restful API，便于做一些成本核算之类的工作。
 
-![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
+![cmdb](https://images-1252557999.file.myqcloud.com/uPic/cmdb.png) 
 
-### [heti](https://github.com/sivan/heti)
+### [docker-kms](https://github.com/11notes/docker-kms)
 
-赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+`Docker-kms` 是用于永久激活任何版本的 `Windows` 和 `Office` 的 `Docker` 容器服务：
 
-![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
+![docker-kms](https://images-1252557999.file.myqcloud.com/uPic/VHsPkb.png) 
 
 ## 🤖 软件 
 
-### [Free-NTFS-for-Mac](https://github.com/hoochanlon/Free-NTFS-for-Mac)
+### [app_rhyme](https://github.com/canxin121/app_rhyme)
 
-这是一款支持苹果芯片的 `Free NTFS for Mac` 小工具软件，主要是为了方便想要免费使用 `NTFS` 格式移动存储的文件拷贝与共享的苹果电脑用户：
+使用 `Flutter` 和 `Rust` 开发的跨平台自定义音源音乐播放器：
 
-![Free-NTFS-for-Mac](https://images-1252557999.file.myqcloud.com/uPic/Free-NTFS-for-Mac.png) 
+![app_rhyme](https://images-1252557999.file.myqcloud.com/uPic/hGPRWI.png) 
 
-### [Parabolic](https://github.com/NickvisionApps/Parabolic)
+### [gpt4all](https://github.com/nomic-ai/gpt4all)
 
-`Parabolic` 是一款免费、功能强大的网络影片下载工具，它支持从超过 1000 个网站下载媒体内容，包括 YouTube、TikTok、IG 等常见平台。用户只需复制粘贴网址，选择下载的影片格式、解析度和字幕即可完成操作。它拥有简洁易用的界面，无额外付费功能或隐藏内容，还支持多种影片和音讯格式，内建下载影片字幕功能，并能一次性执行多个下载任务，是网络影片下载保存的得力助手。
+`GPT4All` 是一个生态系统，用于在消费级 `CPU` 和任何 `GPU` 上本地运行强大且定制化的大型语言模型。请注意，您的 `CPU` 需要支持 `AVX` 或 `AVX2` 指令。
 
-![Parabolic](https://images-1252557999.file.myqcloud.com/uPic/TBRkMe.png) 
+![gpt4all](https://images-1252557999.file.myqcloud.com/uPic/gpt4all.jpg) 
 
-### [biliTickerBuy](https://github.com/mikumifa/biliTickerBuy)
+### [pho](https://github.com/fregie/pho)
 
-免费开源的B站会员购购票辅助工具：
+一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
 
-![biliTickerBuy](https://images-1252557999.file.myqcloud.com/uPic/f4iCzf.png) 
+![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
 
 ## 👀 资料 
 
-### [让你受益匪浅的名家写作经验](https://docs.qq.com/aio/DWVRkZ1RUWHRsdU1J?p=4oWLX7hAfFdfdbi4Ir5wqo)
+### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
 
-各文学大家的写作经验汇总：
+通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
 
-![让你受益匪浅的名家写作经验](https://images-1252557999.file.myqcloud.com/uPic/让你受益匪浅的名家写作经验.jpg) 
+- 通过编写测试学习 Go 语言
+- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
+- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
 
-### [secguide](https://github.com/Tencent/secguide)
+![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
 
-面向开发人员梳理的代码安全指南，规范索引如下：
+### [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 
-- C/C++安全指南
-- JavaScript安全指南
-- Node安全指南
-- Go安全指南
-- Java安全指南
-- Python安全指南 
+开源的 `MCP servers` 收集项目：
 
-### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+![awesome-mcp-servers](https://images-1252557999.file.myqcloud.com/uPic/DkjYJG.png) 
 
-24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
+### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
 
-![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
+golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
 
 ## 🕸 网站 
 
-### [nesbox](https://nesbox.xianqiao.wang/)
+### [FRE321](https://www.fre321.com/)
 
-找到你最喜欢的 NES 游戏叫上你的朋友，无论你们相距多远，都可以在 NESBox 上立即享受 NES 游戏，保存进度，下次继续：
+原本 fre123.com 被污染了，所以 301 到新的域名 [https://www.fre321.com](https://www.fre321.com) 一直在用的朋友请收藏下哈，老胡也再次和大家介绍下目前的功能：
 
-![nesbox](https://images-1252557999.file.myqcloud.com/uPic/nesbox.jpg) 
+- 首页影视、动漫、软件、电子书、音乐等资源导航
+- 番剧搜索
+- 技术、新闻信息流
+- 周刊聚合页面
+- 新功能持续开发中
 
-### [couplet](https://ai.binwang.me/couplet/)
+![FRE321](https://images-1252557999.file.myqcloud.com/uPic/FRE321.jpg) 
 
-自动对联网站：
+### [calltoinspiration](https://calltoinspiration.com/)
 
-![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
+根据不同 `UI` 下业务类型和方向进行分类，给用户展示不同效果以参考：
 
-### [macosicongallery](https://www.macosicongallery.com/)
+![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
 
-专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
+### [futurecoder](https://futurecoder.io/course/#ide)
 
-![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
+一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
+
+![futurecoder](https://images-1252557999.file.myqcloud.com/uPic/futurecoder.jpg) 
 
 ## ✍️ 说明
 
