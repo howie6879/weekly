@@ -5,91 +5,105 @@
 
 ## 🎯 项目 
 
-### [lsky-pro](https://github.com/lsky-org/lsky-pro)
+### [crawl4ai](https://github.com/unclecode/crawl4ai)
 
-非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
+`Crawl4AI` 是一个免费且开源的网络爬虫工具，专为大型语言模型（LLMs）和 AI 应用设计，支持多种输出格式，如 JSON、HTML 和 markdown。它能够同时处理多个 URL，提取媒体标签（图片、音频和视频），以及内外链接和网页元数据。 
 
-![vps_lsky_01](https://images-1252557999.file.myqcloud.com/uPic/vps_lsky_01.jpg) 
+### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
 
-### [cmdb](https://github.com/veops/cmdb)
+如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
 
-运维配置管理数据库，主要用来存放如服务器、应用等运维资产以及它们间的关系，是运维的权威数据库。主要功能包括模型管理和资源的查询，模型管理运维人员可以按照公司的内部的运维场景自己合理的设计，然后通过Agent自动上报和人工批量手动录入的方式写入模型对应的数据。对其他系统提供Restful API，便于做一些成本核算之类的工作。
+- 教程
+- 软件
+- 工具&服务
+- 社区
+- ......
 
-![cmdb](https://images-1252557999.file.myqcloud.com/uPic/cmdb.png) 
+你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
 
-### [docker-kms](https://github.com/11notes/docker-kms)
+- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
+- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
 
-`Docker-kms` 是用于永久激活任何版本的 `Windows` 和 `Office` 的 `Docker` 容器服务：
+![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
 
-![docker-kms](https://images-1252557999.file.myqcloud.com/uPic/VHsPkb.png) 
+### [Seanium/FeedMe](https://github.com/Seanium/FeedMe)
+
+用 AI 重新定义你的 RSS 阅读体验，轻松部署到 `GitHub Pages / Docker`：
+
+- 希望能够一站式了解各个信息源的新鲜事。又嫌市面上产品太"重"（不想注册登录/下载 APP/启动桌面软件...），一个静态页面正合适（响应式 / 亮暗主题，电脑手机都方便浏览）。
+- 希望能够 TLDR 式地速览，于是做了 AI 摘要。
+- 自由配置 RSS 源、AI 模型、更新频率。
+- 开源、方便 Fork、零成本、轻松自部署。
+
+![Seanium/FeedMe](https://images-1252557999.file.myqcloud.com/uPic/ZPhvme.png) 
 
 ## 🤖 软件 
 
-### [app_rhyme](https://github.com/canxin121/app_rhyme)
+### [NotepadNext](https://github.com/dail8859/NotepadNext)
 
-使用 `Flutter` 和 `Rust` 开发的跨平台自定义音源音乐播放器：
+`Notepad++`的跨平台开源实现：
 
-![app_rhyme](https://images-1252557999.file.myqcloud.com/uPic/hGPRWI.png) 
+![NotepadNext](https://images-1252557999.file.myqcloud.com/uPic/NotepadNext.png) 
 
-### [gpt4all](https://github.com/nomic-ai/gpt4all)
+### [bilimiao2](https://github.com/10miaomiao/bilimiao2)
 
-`GPT4All` 是一个生态系统，用于在消费级 `CPU` 和任何 `GPU` 上本地运行强大且定制化的大型语言模型。请注意，您的 `CPU` 需要支持 `AVX` 或 `AVX2` 指令。
+一款安卓上的哔哩哔哩的第三方APP：
 
-![gpt4all](https://images-1252557999.file.myqcloud.com/uPic/gpt4all.jpg) 
+![bilimiao2](https://images-1252557999.file.myqcloud.com/uPic/bilimiao2.jpg) 
 
-### [pho](https://github.com/fregie/pho)
+### [video2blog](https://github.com/aehyok/video2blog)
 
-一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
+视频转图文 AI 跨平台客户端：
 
-![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
+- 输入视频url之后
+- 先通过yt-dlp解析视频url获取视频信息
+- 通过yt-dlp下载视频
+- 如果存在字幕，则直接进行下载
+- 可能是非中文字幕，则需要进行翻译字幕
+- 如果不存在字幕，则通过whisper来生成字幕文件，并翻译为中文
+- 然后通过gemini将字幕转换为文章。并将视频中的图片进行提取，手动插入到文章中 
 
 ## 👀 资料 
 
-### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
+### [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
 
-通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
+由 `Microsoft` 提供的教程，旨在帮助初学者通过 10 个课程了解如何构建 AI 代理:
 
-- 通过编写测试学习 Go 语言
-- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
-- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
+![ai-agents-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/iDWOwA.png) 
 
-![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
+### [大模型交叉研讨课](https://www.openbmb.org/community/course)
 
-### [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：
 
-开源的 `MCP servers` 收集项目：
+![openbmb_course](https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg) 
 
-![awesome-mcp-servers](https://images-1252557999.file.myqcloud.com/uPic/DkjYJG.png) 
+### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
 
-### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
+Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
 
-golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
+![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
 
 ## 🕸 网站 
 
-### [FRE321](https://www.fre321.com/)
+### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
 
-原本 fre123.com 被污染了，所以 301 到新的域名 [https://www.fre321.com](https://www.fre321.com) 一直在用的朋友请收藏下哈，老胡也再次和大家介绍下目前的功能：
+一份新冠预防及治疗指南：
 
-- 首页影视、动漫、软件、电子书、音乐等资源导航
-- 番剧搜索
-- 技术、新闻信息流
-- 周刊聚合页面
-- 新功能持续开发中
+![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
 
-![FRE321](https://images-1252557999.file.myqcloud.com/uPic/FRE321.jpg) 
+### [pixel-me](https://pixel-me.tokyo/en/)
 
-### [calltoinspiration](https://calltoinspiration.com/)
+将你的头像像素化，质量挺好：
 
-根据不同 `UI` 下业务类型和方向进行分类，给用户展示不同效果以参考：
+![](https://images-1252557999.file.myqcloud.com/uPic/gnHdoM.png) 
 
-![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
+### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
 
-### [futurecoder](https://futurecoder.io/course/#ide)
+目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
 
-一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
+![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
 
-![futurecoder](https://images-1252557999.file.myqcloud.com/uPic/futurecoder.jpg) 
+![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
 
 ## ✍️ 说明
 
