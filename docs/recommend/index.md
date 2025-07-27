@@ -5,105 +5,127 @@
 
 ## 🎯 项目 
 
-### [crawl4ai](https://github.com/unclecode/crawl4ai)
+### [auto-video-generateor](https://github.com/kuangdd2024/auto-video-generateor?tab=readme-ov-file)
 
-`Crawl4AI` 是一个免费且开源的网络爬虫工具，专为大型语言模型（LLMs）和 AI 应用设计，支持多种输出格式，如 JSON、HTML 和 markdown。它能够同时处理多个 URL，提取媒体标签（图片、音频和视频），以及内外链接和网页元数据。 
+自动视频生成器，给定主题，自动生成解说视频。用户输入主题文字，系统调用大语言模型生成故事或解说的文字，然后进一步调用语音合成接口生成解说的语音，调用文生图接口生成契合文字内容的配图，最后融合语音和配图生成解说视频。
 
-### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
+![auto-video-generateor](https://images-1252557999.file.myqcloud.com/uPic/KHPaGI.png) 
 
-如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
+### [movie-web](https://github.com/movie-web/movie-web)
 
-- 教程
-- 软件
-- 工具&服务
-- 社区
-- ......
+开源可自部署的简约在线电影搜索观看项目：
 
-你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
+- 自动保存进度
+- 记录观看电影
+- 简约的界面，展示内容克制
 
-- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
-- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
+![movie-web](https://images-1252557999.file.myqcloud.com/uPic/movie-web.jpg)
 
-![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
+所有内容都是从第三方获取的，并且抓取操作在客户端完成，项目包含以下模块：
 
-### [Seanium/FeedMe](https://github.com/Seanium/FeedMe)
+- 代理
+- 前端
+- 后端
 
-用 AI 重新定义你的 RSS 阅读体验，轻松部署到 `GitHub Pages / Docker`：
+这三块全部可以自部署，文档写的也挺清晰我试了下，播放霸王别姬：
 
-- 希望能够一站式了解各个信息源的新鲜事。又嫌市面上产品太"重"（不想注册登录/下载 APP/启动桌面软件...），一个静态页面正合适（响应式 / 亮暗主题，电脑手机都方便浏览）。
-- 希望能够 TLDR 式地速览，于是做了 AI 摘要。
-- 自由配置 RSS 源、AI 模型、更新频率。
-- 开源、方便 Fork、零成本、轻松自部署。
+![movie_demo](https://images-1252557999.file.myqcloud.com/uPic/movie_demo.jpg) 
 
-![Seanium/FeedMe](https://images-1252557999.file.myqcloud.com/uPic/ZPhvme.png) 
+### [mesop](https://github.com/google/mesop)
+
+Mesop 是一个基于 Python 的 UI 框架，用于快速构建如演示和内部应用的 Web 应用程序。它提供直观的 UI 编写，支持响应式 UI 编程范式，具有热重载功能和丰富的 IDE 支持。开发者可以通过简洁的 Python 代码构建自定义 UI，无需编写 JavaScript/CSS/HTML。
+
+![mesop](https://images-1252557999.file.myqcloud.com/uPic/mesop.jpg)
+类似的 Web&桌面软件框架：
+
+- https://github.com/zauberzeug/nicegui
+- https://github.com/pywebio/PyWebIO
+- https://github.com/flet-dev/flet
+- https://github.com/streamlit/streamlit
+- https://github.com/python-eel/Eel
+- https://github.com/kivy/kivy
+- https://github.com/PySimpleGUI/PySimpleGUI
+- https://github.com/r0x0r/pywebview
+- https://github.com/hoffstadt/DearPyGui
+- https://github.com/Textualize/textual 
 
 ## 🤖 软件 
 
-### [NotepadNext](https://github.com/dail8859/NotepadNext)
+### [AniVu](https://github.com/SkyD666/AniVu)
 
-`Notepad++`的跨平台开源实现：
+`AniVu` 是一个集成了 `RSS` 订阅、自动更新、`BitTorrent` 下载和视频播放功能的全能型 `Android` 应用程序：
 
-![NotepadNext](https://images-1252557999.file.myqcloud.com/uPic/NotepadNext.png) 
+- 订阅 RSS、更新 RSS、阅读 RSS
+- 自动更新 RSS 订阅
+- 下载 RSS 文章中的 BT 种子或磁力链接附件（enclosure 标签）
+- 已下载文件做种
+- 播放媒体附件或已下载的媒体文件
+- 更改播放速度、设置音轨、字幕轨道等
+- 双指旋转缩放视频画面、长按视频倍速播放
+- 滑动调整音量、屏幕亮度和播放位置
+- 支持搜索已获取的 RSS 订阅或文章
+- 播放手机中的其他视频
+- 支持自定义 MPV 播放器
+- 支持通过 OPML 导入导出订阅
+- 支持深色模式
 
-### [bilimiao2](https://github.com/10miaomiao/bilimiao2)
+![AniVu](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-1-4911250770779811003-y.jpg) 
 
-一款安卓上的哔哩哔哩的第三方APP：
+### [sunnypages](https://github.com/XMuli/sunnypages)
 
-![bilimiao2](https://images-1252557999.file.myqcloud.com/uPic/bilimiao2.jpg) 
+`Sunny` 截图是一款简洁且漂亮的截图的软件工具，支持 `Windows，MacOS，Linux` 平台。亦支持图片翻译和 `OCR`：
 
-### [video2blog](https://github.com/aehyok/video2blog)
+![sunnypages](https://images-1252557999.file.myqcloud.com/uPic/sunnypages.jpg) 
 
-视频转图文 AI 跨平台客户端：
+### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
 
-- 输入视频url之后
-- 先通过yt-dlp解析视频url获取视频信息
-- 通过yt-dlp下载视频
-- 如果存在字幕，则直接进行下载
-- 可能是非中文字幕，则需要进行翻译字幕
-- 如果不存在字幕，则通过whisper来生成字幕文件，并翻译为中文
-- 然后通过gemini将字幕转换为文章。并将视频中的图片进行提取，手动插入到文章中 
+`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
+
+- Support Intel
+- Support Apple Silicon (M1 & M2)
+- Network
+- USB 
 
 ## 👀 资料 
 
-### [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+### [播客365（2024）](https://zgcrsd6xvj.feishu.cn/docx/IoOZdVNHXohjohxDiAkccq6Vnie)
 
-由 `Microsoft` 提供的教程，旨在帮助初学者通过 10 个课程了解如何构建 AI 代理:
+本文讨论了2024年众多播客节目的丰富内容，涵盖商业、文化、生活、科技等多个领域 。关键要点包括：
 
-![ai-agents-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/iDWOwA.png) 
+- 商业领域：主播探究竞业协议由来与边界；提及美图2016年港股上市；蜜雪冰城和古茗递表港交所。
+- 文化领域：嘉宾探讨《桃花源记》《逍遥游》独特见解；28家出版社编辑推荐2024新书；主播分享汉字演变知识。
+- 生活领域：心理学家聊青少年厌学与心理健康；主播分享Vision Pro购买经历；介绍各地马拉松参赛体验。
+- 科技领域：主播畅聊数十款AI工具；指出AI大模型在闭环场景应用快，To B产品有优势 。 
 
-### [大模型交叉研讨课](https://www.openbmb.org/community/course)
+### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
 
-OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：
+本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
 
-![openbmb_course](https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg) 
+### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 
-### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
-
-Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
-
-![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
+这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
 
 ## 🕸 网站 
 
-### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
+### [smartexcel](https://smartexcel.cc/)
 
-一份新冠预防及治疗指南：
+使用 `AI` 在几秒钟内生成 `Excel` 公式的工具。描述自己的需要，即可生成相应的公式。需要登录，每天 有10 个免费积分可以使用:
 
-![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
+![smartexcel](https://images-1252557999.file.myqcloud.com/uPic/DXKVRR.png)
 
-### [pixel-me](https://pixel-me.tokyo/en/)
+开源地址：[smartexcel](https://github.com/weijunext/smart-excel-ai)。 
 
-将你的头像像素化，质量挺好：
+### [whatslink](https://whatslink.info/)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/gnHdoM.png) 
+简单的 `DDL/Torrent/Ed2k`下载链接元数据查询服务，可以在下载之前帮助你预览目标链接内容：
 
-### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
+![whatslink](https://images-1252557999.file.myqcloud.com/uPic/whatslink.jpg) 
 
-目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
+### [tableconvert](https://tableconvert.com/)
 
-![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
+`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
 
-![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
+![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
 
 ## ✍️ 说明
 
