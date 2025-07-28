@@ -5,127 +5,101 @@
 
 ## 🎯 项目 
 
-### [auto-video-generateor](https://github.com/kuangdd2024/auto-video-generateor?tab=readme-ov-file)
+### [gorse](https://github.com/zhenghaoz/gorse)
 
-自动视频生成器，给定主题，自动生成解说视频。用户输入主题文字，系统调用大语言模型生成故事或解说的文字，然后进一步调用语音合成接口生成解说的语音，调用文生图接口生成契合文字内容的配图，最后融合语音和配图生成解说视频。
+用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
 
-![auto-video-generateor](https://images-1252557999.file.myqcloud.com/uPic/KHPaGI.png) 
+![gorse](https://images-1252557999.file.myqcloud.com/uPic/nP2kgE.jpg)
 
-### [movie-web](https://github.com/movie-web/movie-web)
+作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
 
-开源可自部署的简约在线电影搜索观看项目：
+![gitrec](https://images-1252557999.file.myqcloud.com/uPic/jAuEdM.jpg) 
 
-- 自动保存进度
-- 记录观看电影
-- 简约的界面，展示内容克制
+### [fre123-nav](https://github.com/fre123-com/fre123-nav)
 
-![movie-web](https://images-1252557999.file.myqcloud.com/uPic/movie-web.jpg)
+> [FRE123](https://www.fre123.com/) 免费资源共享平台导航，一键搭建你的导航网站！
 
-所有内容都是从第三方获取的，并且抓取操作在客户端完成，项目包含以下模块：
+这是老胡上个月做的一个导航网站，不少人想基于这套进行二次开发，所以开源出来，希望能帮到大家：
 
-- 代理
-- 前端
-- 后端
+- [fre123-nav](https://github.com/fre123-com/fre123-nav)：导航页面源码
+- [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)：信息流页面源码
+- [Fre123 导航网站搭建教程](https://mp.weixin.qq.com/s/NEqY1Qb4dyJDhdtlYxjmaA)
 
-这三块全部可以自部署，文档写的也挺清晰我试了下，播放霸王别姬：
+![fre123-nav](https://images-1252557999.file.myqcloud.com/uPic/fre123-nav.jpeg) 
 
-![movie_demo](https://images-1252557999.file.myqcloud.com/uPic/movie_demo.jpg) 
+### [go-musicfox](https://github.com/go-musicfox/go-musicfox)
 
-### [mesop](https://github.com/google/mesop)
+`go-musicfox`是用 Go 写的又一款网易云音乐命令行客户端，支持 `UnblockNeteaseMusic`、各种音质级别、`lastfm`、`MPRIS`、`MacOS` 交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）:
 
-Mesop 是一个基于 Python 的 UI 框架，用于快速构建如演示和内部应用的 Web 应用程序。它提供直观的 UI 编写，支持响应式 UI 编程范式，具有热重载功能和丰富的 IDE 支持。开发者可以通过简洁的 Python 代码构建自定义 UI，无需编写 JavaScript/CSS/HTML。
-
-![mesop](https://images-1252557999.file.myqcloud.com/uPic/mesop.jpg)
-类似的 Web&桌面软件框架：
-
-- https://github.com/zauberzeug/nicegui
-- https://github.com/pywebio/PyWebIO
-- https://github.com/flet-dev/flet
-- https://github.com/streamlit/streamlit
-- https://github.com/python-eel/Eel
-- https://github.com/kivy/kivy
-- https://github.com/PySimpleGUI/PySimpleGUI
-- https://github.com/r0x0r/pywebview
-- https://github.com/hoffstadt/DearPyGui
-- https://github.com/Textualize/textual 
+![go-musicfox](https://images-1252557999.file.myqcloud.com/uPic/go-musicfox.png) 
 
 ## 🤖 软件 
 
-### [AniVu](https://github.com/SkyD666/AniVu)
+### [lettura](https://github.com/zhanglun/lettura)
 
-`AniVu` 是一个集成了 `RSS` 订阅、自动更新、`BitTorrent` 下载和视频播放功能的全能型 `Android` 应用程序：
+基于 `Tauri` 的桌面 `RSS` 阅读器：
 
-- 订阅 RSS、更新 RSS、阅读 RSS
-- 自动更新 RSS 订阅
-- 下载 RSS 文章中的 BT 种子或磁力链接附件（enclosure 标签）
-- 已下载文件做种
-- 播放媒体附件或已下载的媒体文件
-- 更改播放速度、设置音轨、字幕轨道等
-- 双指旋转缩放视频画面、长按视频倍速播放
-- 滑动调整音量、屏幕亮度和播放位置
-- 支持搜索已获取的 RSS 订阅或文章
-- 播放手机中的其他视频
-- 支持自定义 MPV 播放器
-- 支持通过 OPML 导入导出订阅
-- 支持深色模式
+![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
 
-![AniVu](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-1-4911250770779811003-y.jpg) 
+### [Sloth](https://github.com/sveinbjornt/Sloth)
 
-### [sunnypages](https://github.com/XMuli/sunnypages)
+`Sloth` 是一款原生的 `Mac` 应用程序，它显示系统上所有正在运行软件所有打开的文件、目录、套接字、管道和设备，用户可以很简单地掌控自己的电脑文件使用权限：
 
-`Sunny` 截图是一款简洁且漂亮的截图的软件工具，支持 `Windows，MacOS，Linux` 平台。亦支持图片翻译和 `OCR`：
+![Sloth](https://images-1252557999.file.myqcloud.com/uPic/Sloth.jpeg) 
 
-![sunnypages](https://images-1252557999.file.myqcloud.com/uPic/sunnypages.jpg) 
+### [MultiWeChatManager](https://github.com/wfql1024/MultiWeChatManager)
 
-### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
+懒得点？懒得扫码？那就交给它！🛠️ 这是一款专为 微信多开（未来也可以支持其他平台！！） 而设计的 自动化管理工具，支持 多号一键登录、全局多开、自启动登录、防撤回 等功能，是让你省心的好工具！🚀
 
-`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
+- 本项目通过查杀微信等平台的互斥体线程而实现多开
+- 选号登录是保存并应用微信等平台存储在本地的配置文件的过程
 
-- Support Intel
-- Support Apple Silicon (M1 & M2)
-- Network
-- USB 
+![MultiWeChatManager](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6215264216928076702-y.jpg)
+
+**使用需谨慎，防止封号**，老胡概不负责。 
 
 ## 👀 资料 
 
-### [播客365（2024）](https://zgcrsd6xvj.feishu.cn/docx/IoOZdVNHXohjohxDiAkccq6Vnie)
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-本文讨论了2024年众多播客节目的丰富内容，涵盖商业、文化、生活、科技等多个领域 。关键要点包括：
+夯实计算机基础，该怎么学，这个项目给出了答案：
 
-- 商业领域：主播探究竞业协议由来与边界；提及美图2016年港股上市；蜜雪冰城和古茗递表港交所。
-- 文化领域：嘉宾探讨《桃花源记》《逍遥游》独特见解；28家出版社编辑推荐2024新书；主播分享汉字演变知识。
-- 生活领域：心理学家聊青少年厌学与心理健康；主播分享Vision Pro购买经历；介绍各地马拉松参赛体验。
-- 科技领域：主播畅聊数十款AI工具；指出AI大模型在闭环场景应用快，To B产品有优势 。 
+![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
 
-### [Linux操作系统内核学习笔记](https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/)
+### [css-animation-101](https://github.com/cssanimation/css-animation-101)
 
-本博文记录了Linux操作系统中的各个部分源码学习历程，是一份很好的Linux内核学习资料。 
+学习如何为您的网页项目添加动画效果，也有中文版👉[css-animation-101-cn](https://h-wakanda.github.io/css-animation-101-cn/)：
 
-### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
+![css-animation-101-cn](https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg) 
 
-这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
+### [Linux 内核教学](https://linux-kernel-labs-zh.xyz/)
+
+本文档包含一系列 `Linux` 内核主题的课程和实验，课程侧重于理论和 `Linux` 内核探索。实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：
+
+- 主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引
+- 实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示
+
+![linux-kernel-labs-zh](https://images-1252557999.file.myqcloud.com/uPic/linux-kernel-labs-zh.jpg) 
 
 ## 🕸 网站 
 
-### [smartexcel](https://smartexcel.cc/)
+### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
 
-使用 `AI` 在几秒钟内生成 `Excel` 公式的工具。描述自己的需要，即可生成相应的公式。需要登录，每天 有10 个免费积分可以使用:
+这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
 
-![smartexcel](https://images-1252557999.file.myqcloud.com/uPic/DXKVRR.png)
+![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
 
-开源地址：[smartexcel](https://github.com/weijunext/smart-excel-ai)。 
+### [quickref](https://quickref.me/)
 
-### [whatslink](https://whatslink.info/)
+开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
 
-简单的 `DDL/Torrent/Ed2k`下载链接元数据查询服务，可以在下载之前帮助你预览目标链接内容：
+![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
 
-![whatslink](https://images-1252557999.file.myqcloud.com/uPic/whatslink.jpg) 
+### [uilibhub](https://uilibhub.com/zh)
 
-### [tableconvert](https://tableconvert.com/)
+探索最佳 `UI` 库，助力 `React & Vue` 高效开发：
 
-`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
-
-![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
+![uilibhub](https://images-1252557999.file.myqcloud.com/uPic/uilibhub.jpg) 
 
 ## ✍️ 说明
 
