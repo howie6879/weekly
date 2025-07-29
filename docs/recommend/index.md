@@ -5,101 +5,93 @@
 
 ## 🎯 项目 
 
-### [gorse](https://github.com/zhenghaoz/gorse)
+### [coolmonitor](https://github.com/star7th/coolmonitor)
 
-用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
+酷监控是一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等多种监控类型，帮助开发者及运维人员实时掌握网站/接口运行状态。本项目支持Docker一键快速部署，拥有美观现代的界面设计：
 
-![gorse](https://images-1252557999.file.myqcloud.com/uPic/nP2kgE.jpg)
+- 多种监控类型：支持HTTP/HTTPS网站、API接口、HTTPS证书过期、TCP端口、MySQL/Redis数据库等多种监控
+- 推送监控：支持被动接收客户端的心跳推送，实现不可直接访问设备的监控
+- 精美界面：深色/浅色主题切换，响应式设计适配各种设备尺寸
+- 强大通知系统：支持邮件、Webhook、微信通知渠道等多种通知方式
+- 数据可视化：直观的状态图表和分析功能，快速了解系统运行状况
+- 持久化存储：使用SQLite数据库，轻量级部署无需额外依赖
 
-作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
+![coolmonitor](https://images-1252557999.file.myqcloud.com/uPic/J6L5E1.png) 
 
-![gitrec](https://images-1252557999.file.myqcloud.com/uPic/jAuEdM.jpg) 
+### [ChatGPT](https://chat.openai.com/chat)
 
-### [fre123-nav](https://github.com/fre123-com/fre123-nav)
+本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
 
-> [FRE123](https://www.fre123.com/) 免费资源共享平台导航，一键搭建你的导航网站！
+- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
+- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
+- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
+- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
+- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
+- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
+- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
 
-这是老胡上个月做的一个导航网站，不少人想基于这套进行二次开发，所以开源出来，希望能帮到大家：
+### [PyFlow](https://github.com/wonderworks-software/PyFlow)
 
-- [fre123-nav](https://github.com/fre123-com/fre123-nav)：导航页面源码
-- [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)：信息流页面源码
-- [Fre123 导航网站搭建教程](https://mp.weixin.qq.com/s/NEqY1Qb4dyJDhdtlYxjmaA)
+可视化脚本框架：
 
-![fre123-nav](https://images-1252557999.file.myqcloud.com/uPic/fre123-nav.jpeg) 
-
-### [go-musicfox](https://github.com/go-musicfox/go-musicfox)
-
-`go-musicfox`是用 Go 写的又一款网易云音乐命令行客户端，支持 `UnblockNeteaseMusic`、各种音质级别、`lastfm`、`MPRIS`、`MacOS` 交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）:
-
-![go-musicfox](https://images-1252557999.file.myqcloud.com/uPic/go-musicfox.png) 
+![PyFlow](https://images-1252557999.file.myqcloud.com/uPic/XEBUdM.jpg) 
 
 ## 🤖 软件 
 
-### [lettura](https://github.com/zhanglun/lettura)
+### [shottr](https://shottr.cc/)
 
-基于 `Tauri` 的桌面 `RSS` 阅读器：
+免费截屏软件（macOS）：
 
-![lettura](https://images-1252557999.file.myqcloud.com/uPic/SRFE8W.jpg) 
+![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
 
-### [Sloth](https://github.com/sveinbjornt/Sloth)
+### [marktext](https://github.com/marktext/marktext)
 
-`Sloth` 是一款原生的 `Mac` 应用程序，它显示系统上所有正在运行软件所有打开的文件、目录、套接字、管道和设备，用户可以很简单地掌控自己的电脑文件使用权限：
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
 
-![Sloth](https://images-1252557999.file.myqcloud.com/uPic/Sloth.jpeg) 
+![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
 
-### [MultiWeChatManager](https://github.com/wfql1024/MultiWeChatManager)
+### [EpubPress](https://epub.press/)
 
-懒得点？懒得扫码？那就交给它！🛠️ 这是一款专为 微信多开（未来也可以支持其他平台！！） 而设计的 自动化管理工具，支持 多号一键登录、全局多开、自启动登录、防撤回 等功能，是让你省心的好工具！🚀
+`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
 
-- 本项目通过查杀微信等平台的互斥体线程而实现多开
-- 选号登录是保存并应用微信等平台存储在本地的配置文件的过程
-
-![MultiWeChatManager](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6215264216928076702-y.jpg)
-
-**使用需谨慎，防止封号**，老胡概不负责。 
+![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
 
 ## 👀 资料 
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
 
-夯实计算机基础，该怎么学，这个项目给出了答案：
+《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
 
-![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
+![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
 
-### [css-animation-101](https://github.com/cssanimation/css-animation-101)
+### [Student-resources](https://github.com/ivmm/Student-resources)
 
-学习如何为您的网页项目添加动画效果，也有中文版👉[css-animation-101-cn](https://h-wakanda.github.io/css-animation-101-cn/)：
+本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
 
-![css-animation-101-cn](https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg) 
+### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
 
-### [Linux 内核教学](https://linux-kernel-labs-zh.xyz/)
-
-本文档包含一系列 `Linux` 内核主题的课程和实验，课程侧重于理论和 `Linux` 内核探索。实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：
-
-- 主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引
-- 实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示
-
-![linux-kernel-labs-zh](https://images-1252557999.file.myqcloud.com/uPic/linux-kernel-labs-zh.jpg) 
+对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
 
 ## 🕸 网站 
 
-### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
+### [macosicons](https://macosicons.com/)
 
-这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
+网站基本上覆盖了热门`Mac APP`图标，你可以选择自己喜欢的图标进行替换，让自己的`Mac`更加漂亮且个性化。
 
-![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
+![macosicons](https://images-1252557999.file.myqcloud.com/uPic/macosicons.png) 
 
-### [quickref](https://quickref.me/)
+### [uiset](https://uiset.com/)
 
-开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
+共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
 
-![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
+![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
 
-### [uilibhub](https://uilibhub.com/zh)
+### [tianya.at](https://tianya.at/)
 
-探索最佳 `UI` 库，助力 `React & Vue` 高效开发：
+天涯帖子备份网站：
 
-![uilibhub](https://images-1252557999.file.myqcloud.com/uPic/uilibhub.jpg) 
+![tianya](https://images-1252557999.file.myqcloud.com/uPic/y1oe44.png) 
 
 ## ✍️ 说明
 
