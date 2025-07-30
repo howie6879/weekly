@@ -5,93 +5,96 @@
 
 ## 🎯 项目 
 
-### [coolmonitor](https://github.com/star7th/coolmonitor)
+### [toolbox](https://github.com/aoaostar/toolbox)
 
-酷监控是一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等多种监控类型，帮助开发者及运维人员实时掌握网站/接口运行状态。本项目支持Docker一键快速部署，拥有美观现代的界面设计：
+🚀傲星工具箱，一个在线工具箱：
 
-- 多种监控类型：支持HTTP/HTTPS网站、API接口、HTTPS证书过期、TCP端口、MySQL/Redis数据库等多种监控
-- 推送监控：支持被动接收客户端的心跳推送，实现不可直接访问设备的监控
-- 精美界面：深色/浅色主题切换，响应式设计适配各种设备尺寸
-- 强大通知系统：支持邮件、Webhook、微信通知渠道等多种通知方式
-- 数据可视化：直观的状态图表和分析功能，快速了解系统运行状况
-- 持久化存储：使用SQLite数据库，轻量级部署无需额外依赖
+![toolbox](https://images-1252557999.file.myqcloud.com/uPic/toolbox.png) 
 
-![coolmonitor](https://images-1252557999.file.myqcloud.com/uPic/J6L5E1.png) 
+### [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)
 
-### [ChatGPT](https://chat.openai.com/chat)
+`Stable Diffusion`（最近很火的 AI 文字生成图片的模型）在我之前好几期周刊都出现过，这次带来的是首个将 `Stable Diffusion Model` 扩展到浏览器环境部署运行的项目：
 
-本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
+![web-stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/web-stable-diffusion.jpg) 
 
-- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
-- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
-- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
-- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
-- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
-- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
-- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
-- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
+### [TrendRadar](https://github.com/sansan0/TrendRadar)
 
-### [PyFlow](https://github.com/wonderworks-software/PyFlow)
+热门新闻聚合分析工具 - 自媒体微信公众号等新闻类文章辅助工具，支持今日头条、百度热搜、微博、抖音、知乎、B 站、财联社等11个中文热门平台，分析关键词频率，生成报告并支持飞书推送等。持续追踪热点变化。
 
-可视化脚本框架：
-
-![PyFlow](https://images-1252557999.file.myqcloud.com/uPic/XEBUdM.jpg) 
+![TrendRadar](https://images-1252557999.file.myqcloud.com/uPic/Z4m5Ox.png) 
 
 ## 🤖 软件 
 
-### [shottr](https://shottr.cc/)
+### [hummingbird](https://github.com/leibnizli/hummingbird)
 
-免费截屏软件（macOS）：
+`Hummingbird` 是一个资源(`jpg/png/webp/svg/gif/css/js/html`)压缩客户端，支持`Windows`、`Mac`：
 
-![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
+- `jpg/png/webp/svg/gif/html` 压缩后会替换掉当前文件，`css/js` 压缩后会生成一个带 `.min` 的新文件
+- 可以在在当前目录新建source文件夹并备份处理前的文件，可以在设置中开启
 
-### [marktext](https://github.com/marktext/marktext)
+![hummingbird](https://images-1252557999.file.myqcloud.com/uPic/hummingbird.jpg) 
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+### [proxypin](https://github.com/wanghongenpin/proxypin)
 
-![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
+基于 Flutter 开发的跨平台抓包软件，界面美观，交互简单：
 
-### [EpubPress](https://epub.press/)
+![proxypin](https://images-1252557999.file.myqcloud.com/uPic/vGVbRn.png) 
 
-`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
+### [yanhuo](https://eigenmiao.com/yanhuo)
 
-![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
+焰火十二卷是一款免费开源的跨平台调色板软件。它提供了多种功能来生成一组调和色彩，可以为你提供更好的色彩搭配方案。你可以通过色轮选取、图像拾色等方式轻松获得想要的色彩组合。你可以将这些色彩应用到自己的创作，或者分享给他人。
+
+![yanhuo](https://images-1252557999.file.myqcloud.com/uPic/yanhuo.jpg) 
 
 ## 👀 资料 
 
-### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
+### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
 
-《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
+经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
 
-![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
+![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+### [Building-a-Small-LLM-from-Scratch](https://github.com/KaihuaTang/Building-a-Small-LLM-from-Scratch)
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+该系列的目的是让读者可以在基础的pytorch上，不依赖任何其他现成的外部库，从零开始理解并实现一个大语言模型的所有组成部分，以及训练微调代码，因此读者仅需python，pytorch和最基础深度学习背景知识即可。 
 
-### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
+### [LLM 应用开发实践笔记](https://github.com/morsoli/llm-books)
 
-对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
+利用LLM构建应用实践笔记：
+
+![llm-books](https://images-1252557999.file.myqcloud.com/uPic/llm-books.jpg) 
 
 ## 🕸 网站 
 
-### [macosicons](https://macosicons.com/)
+### [seekflag](https://seekflag.com/)
 
-网站基本上覆盖了热门`Mac APP`图标，你可以选择自己喜欢的图标进行替换，让自己的`Mac`更加漂亮且个性化。
+网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
 
-![macosicons](https://images-1252557999.file.myqcloud.com/uPic/macosicons.png) 
+![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
 
-### [uiset](https://uiset.com/)
+### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
 
-共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
+老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
 
-![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
+- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
+- Gemini Pro 体验地址：https://gemini.fre123.com/
 
-### [tianya.at](https://tianya.at/)
+![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
 
-天涯帖子备份网站：
+### [aiwallpaper](https://aiwallpaper.shop/)
 
-![tianya](https://images-1252557999.file.myqcloud.com/uPic/y1oe44.png) 
+`AI` 生成高清壁纸，项目开源在：[all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper)。
+
+开源代码包括：
+
+- nextjs 全栈开发 API 和 Web 
+- dalle-3 绘图对接 
+- aws s3 图片上传 
+- postgres 数据读写 
+- 谷歌登录 
+- stripe
+
+非常适合参考学习，用来做一些小而美的 `AI` 应用。 
 
 ## ✍️ 说明
 
