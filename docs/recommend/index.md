@@ -5,96 +5,88 @@
 
 ## 🎯 项目 
 
-### [toolbox](https://github.com/aoaostar/toolbox)
+### [siri-ultra](https://github.com/fatwang2/siri-ultra)
 
-🚀傲星工具箱，一个在线工具箱：
+`Siri Ultra` 是一个能在 `iPhone` 上使用的 AI 聊天快捷指令，无需下载任何软件即可体验到最新的大模型：
 
-![toolbox](https://images-1252557999.file.myqcloud.com/uPic/toolbox.png) 
+- 通过 Siri 实时语音对话，也可以直接运行快捷指令进行文字对话
+- 兼容各种大模型，包括 OpenAI、Gemini、DeepSeek 等
+- 支持联网搜索（需单独配置搜索 key）
+- 支持网页总结 （链接发给快捷指令即可） 
 
-### [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)
+### [godoxy](https://github.com/yusing/godoxy)
 
-`Stable Diffusion`（最近很火的 AI 文字生成图片的模型）在我之前好几期周刊都出现过，这次带来的是首个将 `Stable Diffusion Model` 扩展到浏览器环境部署运行的项目：
+轻巧、易用、高性能反向代理，带有主页和配置面板：
 
-![web-stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/web-stable-diffusion.jpg) 
+![godoxy](https://images-1252557999.file.myqcloud.com/uPic/7I4SVq.png) 
 
-### [TrendRadar](https://github.com/sansan0/TrendRadar)
+### [questdb](https://github.com/questdb/questdb)
 
-热门新闻聚合分析工具 - 自媒体微信公众号等新闻类文章辅助工具，支持今日头条、百度热搜、微博、抖音、知乎、B 站、财联社等11个中文热门平台，分析关键词频率，生成报告并支持飞书推送等。持续追踪热点变化。
+QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
 
-![TrendRadar](https://images-1252557999.file.myqcloud.com/uPic/Z4m5Ox.png) 
+特别是针对时间序列数据做了处理：
+
+![questdb](https://images-1252557999.file.myqcloud.com/uPic/Sbq9WK.jpg) 
 
 ## 🤖 软件 
 
-### [hummingbird](https://github.com/leibnizli/hummingbird)
+### [ChatMLX](https://github.com/johnmai-dev/ChatMLX)
 
-`Hummingbird` 是一个资源(`jpg/png/webp/svg/gif/css/js/html`)压缩客户端，支持`Windows`、`Mac`：
+`ChatMLX` 是一个现代化、开源、高性能的 MacOS 聊天应用程序，它基于大型语言模型，支持多种语言和模型，并确保用户隐私和安全：
 
-- `jpg/png/webp/svg/gif/html` 压缩后会替换掉当前文件，`css/js` 压缩后会生成一个带 `.min` 的新文件
-- 可以在在当前目录新建source文件夹并备份处理前的文件，可以在设置中开启
+![ChatMLX](https://images-1252557999.file.myqcloud.com/uPic/8WekXj.png) 
 
-![hummingbird](https://images-1252557999.file.myqcloud.com/uPic/hummingbird.jpg) 
+### [Polybar](https://github.com/polybar/polybar)
 
-### [proxypin](https://github.com/wanghongenpin/proxypin)
+`Polybar` 是一个用于创建个性化状态栏的工具，它支持多种桌面环境：
 
-基于 Flutter 开发的跨平台抓包软件，界面美观，交互简单：
+![polybar](https://images-1252557999.file.myqcloud.com/uPic/polybar.jpg) 
 
-![proxypin](https://images-1252557999.file.myqcloud.com/uPic/vGVbRn.png) 
+### [nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension?tab=readme-ov-file)
 
-### [yanhuo](https://eigenmiao.com/yanhuo)
+免费使用的网页验证码解决方案，能够处理多种类型的 CAPTCHA，包括 reCAPTCHA、FunCAPTCHA、文本 CAPTCHA 和 Cloudflare Turnstile 等。该工具通过高级的深度学习模型通过 NopeCHA API 提供服务，同时还提供浏览器插件：
 
-焰火十二卷是一款免费开源的跨平台调色板软件。它提供了多种功能来生成一组调和色彩，可以为你提供更好的色彩搭配方案。你可以通过色轮选取、图像拾色等方式轻松获得想要的色彩组合。你可以将这些色彩应用到自己的创作，或者分享给他人。
-
-![yanhuo](https://images-1252557999.file.myqcloud.com/uPic/yanhuo.jpg) 
+![nopecha-extension](https://images-1252557999.file.myqcloud.com/uPic/yYSb4x.png) 
 
 ## 👀 资料 
 
-### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+### [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)
 
-经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+`eBPF` 开发者教程与知识库：通过小工具和示例一步步学习 `eBPF`，包含性能、网络、安全等多种应用场景：
 
-![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
+![bpf-developer-tutorial](https://images-1252557999.file.myqcloud.com/uPic/bpf-developer-tutorial.jpg) 
 
-### [Building-a-Small-LLM-from-Scratch](https://github.com/KaihuaTang/Building-a-Small-LLM-from-Scratch)
+### [汉字激光照排小史](https://github.com/chenshuo/typeset/blob/master/wangxuan-history.pdf)
 
-该系列的目的是让读者可以在基础的pytorch上，不依赖任何其他现成的外部库，从零开始理解并实现一个大语言模型的所有组成部分，以及训练微调代码，因此读者仅需python，pytorch和最基础深度学习背景知识即可。 
+一份 20 多页的笔记《汉字激光照排小史》：
 
-### [LLM 应用开发实践笔记](https://github.com/morsoli/llm-books)
+![typeset](https://images-1252557999.file.myqcloud.com/uPic/typeset.jpg) 
 
-利用LLM构建应用实践笔记：
+### [llm_engineering](https://github.com/ed-donner/llm_engineering)
 
-![llm-books](https://images-1252557999.file.myqcloud.com/uPic/llm-books.jpg) 
+该项目是为了辅助 Edward Donner 的 LLM 工程课程而设立的。课程内容涵盖了 8 周的学习路径，旨在帮助学生掌握人工智能和大型语言模型（LLMs）的技能。仓库包含了课程资源、环境设置指南（适用于 PC、Mac 和 Linux 系统）以及项目文件。
+
+![llm_engineering](https://images-1252557999.file.myqcloud.com/uPic/dtF0EE.png) 
 
 ## 🕸 网站 
 
-### [seekflag](https://seekflag.com/)
+### [huggingface-spaces](https://huggingface.co/spaces)
 
-网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
+`Hugging Face Spaces`  导航。内含 30 个 AI 分类，超 40 万个 Space，支持自然语言搜索功能：
 
-![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
+![huggingface-spaces](https://images-1252557999.file.myqcloud.com/uPic/jG93mK.png) 
 
-### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
+### [pixian.ai](https://pixian.ai/)
 
-老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
+免登录图片背景消除网页，2023-07-21 当前属于测试期间，是免费的：
 
-- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
-- Gemini Pro 体验地址：https://gemini.fre123.com/
+![pixian](https://images-1252557999.file.myqcloud.com/uPic/pixian.jpg) 
 
-![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
+### [ixinqing](http://www.ixinqing.com/)
 
-### [aiwallpaper](https://aiwallpaper.shop/)
+心晴 · 专注于心理学入门与自我成长:
 
-`AI` 生成高清壁纸，项目开源在：[all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper)。
-
-开源代码包括：
-
-- nextjs 全栈开发 API 和 Web 
-- dalle-3 绘图对接 
-- aws s3 图片上传 
-- postgres 数据读写 
-- 谷歌登录 
-- stripe
-
-非常适合参考学习，用来做一些小而美的 `AI` 应用。 
+![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
 
 ## ✍️ 说明
 
