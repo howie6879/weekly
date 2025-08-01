@@ -5,88 +5,115 @@
 
 ## 🎯 项目 
 
-### [siri-ultra](https://github.com/fatwang2/siri-ultra)
+### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
 
-`Siri Ultra` 是一个能在 `iPhone` 上使用的 AI 聊天快捷指令，无需下载任何软件即可体验到最新的大模型：
+可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
 
-- 通过 Siri 实时语音对话，也可以直接运行快捷指令进行文字对话
-- 兼容各种大模型，包括 OpenAI、Gemini、DeepSeek 等
-- 支持联网搜索（需单独配置搜索 key）
-- 支持网页总结 （链接发给快捷指令即可） 
+类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
 
-### [godoxy](https://github.com/yusing/godoxy)
+![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
 
-轻巧、易用、高性能反向代理，带有主页和配置面板：
+### [sams_helper](https://github.com/sari3l/sams_helper)
 
-![godoxy](https://images-1252557999.file.myqcloud.com/uPic/7I4SVq.png) 
+山姆全自动抢购：普通商品、保供套餐；支持优惠券、无货添加、数量修正、金额限制、超重拆分、黑白名单:
 
-### [questdb](https://github.com/questdb/questdb)
+![sams_helper](https://images-1252557999.file.myqcloud.com/uPic/sams_helper.jpg) 
 
-QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
+### [plasmo](https://github.com/PlasmoHQ/plasmo)
 
-特别是针对时间序列数据做了处理：
+`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
 
-![questdb](https://images-1252557999.file.myqcloud.com/uPic/Sbq9WK.jpg) 
+- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
+- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
+- 热重载
+- [`.env*`  文件](https://docs.plasmo.com/framework/env)
+- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
+- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
+- 还有更多!  🚀
+
+![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
+
+更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
 
 ## 🤖 软件 
 
-### [ChatMLX](https://github.com/johnmai-dev/ChatMLX)
+### [CuteGIF](https://github.com/tasy5kg/CuteGIF)
 
-`ChatMLX` 是一个现代化、开源、高性能的 MacOS 聊天应用程序，它基于大型语言模型，支持多种语言和模型，并确保用户隐私和安全：
+小萌 `GIF` 是一款简洁好用的 `Android` 端视频转 `GIF` 工具：
 
-![ChatMLX](https://images-1252557999.file.myqcloud.com/uPic/8WekXj.png) 
+![CuteGIF](https://images-1252557999.file.myqcloud.com/uPic/CuteGIF.jpg) 
 
-### [Polybar](https://github.com/polybar/polybar)
+### [Upscayl](https://github.com/upscayl/upscayl)
 
-`Polybar` 是一个用于创建个性化状态栏的工具，它支持多种桌面环境：
+开源免费的跨平台无损图片放大工具：
 
-![polybar](https://images-1252557999.file.myqcloud.com/uPic/polybar.jpg) 
+![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
 
-### [nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension?tab=readme-ov-file)
+### [UU 浏览器](https://www.uukei.com/help/?p=h)
 
-免费使用的网页验证码解决方案，能够处理多种类型的 CAPTCHA，包括 reCAPTCHA、FunCAPTCHA、文本 CAPTCHA 和 Cloudflare Turnstile 等。该工具通过高级的深度学习模型通过 NopeCHA API 提供服务，同时还提供浏览器插件：
+> UU浏览器在满足用户的需求上，延续了谷歌的简洁，摒弃了如 Edge 过多功能的臃肿。
 
-![nopecha-extension](https://images-1252557999.file.myqcloud.com/uPic/yYSb4x.png) 
+这是老胡的朋友，独立开发运营两三年的一款浏览器，主打纯净美观&个性化，核心功能点如下：
+
+- 优化去冗余、内存占用少
+- 简洁高效率、年轻个性化
+- 最大程度隐私安全
+- 纯净不打扰
+
+在以上基本特性持续开发小功能提升用户效率，大家可以提意见哈：
+
+- 💫 自带整页翻译
+- 📚 灵活新标签页
+- 📋 多功能侧边栏
+- 🧩 扩展安装方便
+- 📟 夜间护眼模式
+- 📈 多线程下载
+- 👉 支持鼠标手势
+- ✔️ 网页一键保存为图片或PDF
+
+![uu](https://images-1252557999.file.myqcloud.com/uPic/uu.jpg)
+
+有兴趣欢迎了解体验👉[UU 浏览器](https://www.uukei.com/help/?p=h) 
 
 ## 👀 资料 
 
-### [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)
+### [nextjs-learn-cn](https://qufei1993.github.io/nextjs-learn-cn/)
 
-`eBPF` 开发者教程与知识库：通过小工具和示例一步步学习 `eBPF`，包含性能、网络、安全等多种应用场景：
+一份 `Next.js` 中文教程：
 
-![bpf-developer-tutorial](https://images-1252557999.file.myqcloud.com/uPic/bpf-developer-tutorial.jpg) 
+![nextjs-learn-c](https://images-1252557999.file.myqcloud.com/uPic/nextjs-learn-c.jpg) 
 
-### [汉字激光照排小史](https://github.com/chenshuo/typeset/blob/master/wangxuan-history.pdf)
+### [Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
 
-一份 20 多页的笔记《汉字激光照排小史》：
+微软出品的 `GitHub Copilot` 教程：
 
-![typeset](https://images-1252557999.file.myqcloud.com/uPic/typeset.jpg) 
+![Mastering-GitHub-Copilot-for-Paired-Programming](https://images-1252557999.file.myqcloud.com/uPic/KTSuLa.png) 
 
-### [llm_engineering](https://github.com/ed-donner/llm_engineering)
+### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
 
-该项目是为了辅助 Edward Donner 的 LLM 工程课程而设立的。课程内容涵盖了 8 周的学习路径，旨在帮助学生掌握人工智能和大型语言模型（LLMs）的技能。仓库包含了课程资源、环境设置指南（适用于 PC、Mac 和 Linux 系统）以及项目文件。
+一本开源的专门讲解面试关键路径的书籍：
 
-![llm_engineering](https://images-1252557999.file.myqcloud.com/uPic/dtF0EE.png) 
+![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
 
 ## 🕸 网站 
 
-### [huggingface-spaces](https://huggingface.co/spaces)
+### [huawei-od](https://huawei-od.vercel.app/)
 
-`Hugging Face Spaces`  导航。内含 30 个 AI 分类，超 40 万个 Space，支持自然语言搜索功能：
+牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
 
-![huggingface-spaces](https://images-1252557999.file.myqcloud.com/uPic/jG93mK.png) 
+![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
 
-### [pixian.ai](https://pixian.ai/)
+### [qrcode-monkey](https://www.qrcode-monkey.com/#)
 
-免登录图片背景消除网页，2023-07-21 当前属于测试期间，是免费的：
+免费的二维码生成网站：
 
-![pixian](https://images-1252557999.file.myqcloud.com/uPic/pixian.jpg) 
+![qrcode-monkey](https://images-1252557999.file.myqcloud.com/uPic/qrcode-monkey.jpg) 
 
-### [ixinqing](http://www.ixinqing.com/)
+### [latexlive](https://www.latexlive.com/)
 
-心晴 · 专注于心理学入门与自我成长:
+免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
 
-![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
+![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
 
 ## ✍️ 说明
 
