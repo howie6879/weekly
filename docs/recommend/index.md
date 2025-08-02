@@ -5,19 +5,9 @@
 
 ## 🎯 项目 
 
-### [image-to-latex](https://github.com/kingyiusuen/image-to-latex)
+### [awesome-compose](https://github.com/docker/awesome-compose)
 
-可以将数学公式截图然后自动解析成`LaTex`输出，于我个人而言非常有用。
-
-类似的项目还有[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)，直接基于`PyQT`提供`GUI`。
-
-![1VsyuQ](https://images-1252557999.file.myqcloud.com/uPic/1VsyuQ.gif) 
-
-### [sams_helper](https://github.com/sari3l/sams_helper)
-
-山姆全自动抢购：普通商品、保供套餐；支持优惠券、无货添加、数量修正、金额限制、超重拆分、黑白名单:
-
-![sams_helper](https://images-1252557999.file.myqcloud.com/uPic/sams_helper.jpg) 
+一些 `Docker Compose` 的实践示例。 
 
 ### [plasmo](https://github.com/PlasmoHQ/plasmo)
 
@@ -35,85 +25,69 @@
 
 更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
 
+### [Flowise](https://github.com/FlowiseAI/Flowise)
+
+基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
+
+![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
+
 ## 🤖 软件 
 
-### [CuteGIF](https://github.com/tasy5kg/CuteGIF)
+### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
 
-小萌 `GIF` 是一款简洁好用的 `Android` 端视频转 `GIF` 工具：
+自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
 
-![CuteGIF](https://images-1252557999.file.myqcloud.com/uPic/CuteGIF.jpg) 
+![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
 
-### [Upscayl](https://github.com/upscayl/upscayl)
+### [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock)
 
-开源免费的跨平台无损图片放大工具：
+一款跳过B站视频中恰饭片段的浏览器插件，移植自 [SponsorBlock](https://github.com/ajayyy/SponsorBlock)：
 
-![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
+![BilibiliSponsorBlock](https://images-1252557999.file.myqcloud.com/uPic/3iEbMD.png) 
 
-### [UU 浏览器](https://www.uukei.com/help/?p=h)
+### [DBeaver](https://github.com/dbeaver/dbeaver)
 
-> UU浏览器在满足用户的需求上，延续了谷歌的简洁，摒弃了如 Edge 过多功能的臃肿。
+免费的通用数据库管理工具，SQL客户端，跨平台支持：
 
-这是老胡的朋友，独立开发运营两三年的一款浏览器，主打纯净美观&个性化，核心功能点如下：
-
-- 优化去冗余、内存占用少
-- 简洁高效率、年轻个性化
-- 最大程度隐私安全
-- 纯净不打扰
-
-在以上基本特性持续开发小功能提升用户效率，大家可以提意见哈：
-
-- 💫 自带整页翻译
-- 📚 灵活新标签页
-- 📋 多功能侧边栏
-- 🧩 扩展安装方便
-- 📟 夜间护眼模式
-- 📈 多线程下载
-- 👉 支持鼠标手势
-- ✔️ 网页一键保存为图片或PDF
-
-![uu](https://images-1252557999.file.myqcloud.com/uPic/uu.jpg)
-
-有兴趣欢迎了解体验👉[UU 浏览器](https://www.uukei.com/help/?p=h) 
+![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png) 
 
 ## 👀 资料 
 
-### [nextjs-learn-cn](https://qufei1993.github.io/nextjs-learn-cn/)
+### [agents-course](https://huggingface.co/learn/agents-course/unit0/introduction)
 
-一份 `Next.js` 中文教程：
+🤗 AI Agents Course 是一个旨在从基础到高级教授人工智能代理（Agents）的免费课程，涵盖理论、设计和实践，并提供使用流行库（如 smolagents、LangChain 和 LlamaIndex）的实战演练，以及通过挑战赛和社区贡献来提升学习体验。
 
-![nextjs-learn-c](https://images-1252557999.file.myqcloud.com/uPic/nextjs-learn-c.jpg) 
+![agents-course](https://images-1252557999.file.myqcloud.com/uPic/AcJZte.png) 
 
-### [Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
+### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
-微软出品的 `GitHub Copilot` 教程：
+本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
 
-![Mastering-GitHub-Copilot-for-Paired-Programming](https://images-1252557999.file.myqcloud.com/uPic/KTSuLa.png) 
+### [大李敖全集5.0](https://books.leeao.net/)
 
-### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
+大李敖全集：
 
-一本开源的专门讲解面试关键路径的书籍：
-
-![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
+![leeao](https://images-1252557999.file.myqcloud.com/uPic/UDFeW1.png) 
 
 ## 🕸 网站 
 
-### [huawei-od](https://huawei-od.vercel.app/)
+### [cleverpdf](https://www.cleverpdf.com/cn)
 
-牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
+几十个强大的PDF在线工具，无需注册会员，永久免费：
 
-![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
+![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
 
-### [qrcode-monkey](https://www.qrcode-monkey.com/#)
+### [waytoagi](https://www.waytoagi.com/)
 
-免费的二维码生成网站：
+`AI` 知识库和工具站：
 
-![qrcode-monkey](https://images-1252557999.file.myqcloud.com/uPic/qrcode-monkey.jpg) 
+![waytoagi](https://images-1252557999.file.myqcloud.com/uPic/waytoagi.jpg) 
 
-### [latexlive](https://www.latexlive.com/)
+### [codrops](https://tympanus.net/codrops/demos/)
 
-免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
+可免费下载使用的原型动画 UI 布局（ 500+ free demos）：
 
-![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
+![6690d09244aa9](https://img.fre123.com/i/2024/07/12/6690d09244aa9.jpg) 
 
 ## ✍️ 说明
 
