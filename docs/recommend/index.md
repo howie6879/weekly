@@ -5,89 +5,92 @@
 
 ## 🎯 项目 
 
-### [awesome-compose](https://github.com/docker/awesome-compose)
+### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
-一些 `Docker Compose` 的实践示例。 
+Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
 
-### [plasmo](https://github.com/PlasmoHQ/plasmo)
+你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
 
-`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
+- 🌐 利用互联网进行搜索和信息收集
+- 💾 长期和短期记忆管理
+- 🧠 GPT-4实例用于文本生成
+- 🔗 访问流行的网站和平台
+- 🗃️ 使用GPT-3.5进行文件存储和摘要
 
-- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
-- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
-- 热重载
-- [`.env*`  文件](https://docs.plasmo.com/framework/env)
-- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
-- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
-- 还有更多!  🚀
+![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
 
-![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
+### [hoarder](https://github.com/hoarder-app/hoarder)
 
-更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
+为数据收藏者开发的管理程序，可自建，有一定 `AI` 能力：
 
-### [Flowise](https://github.com/FlowiseAI/Flowise)
+![hoarder](https://images-1252557999.file.myqcloud.com/uPic/hoarder.jpg) 
 
-基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
+### [Mini-Cover](https://github.com/JLinMr/Mini-Cover)
 
-![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
+简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面：
+
+![Mini-Cover](https://images-1252557999.file.myqcloud.com/uPic/OGMrle.png) 
 
 ## 🤖 软件 
 
-### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
+### [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)
 
-自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
+基于 `ScreenCapture Kit` 的轻量化多功能 `macOS` 录屏工具：
 
-![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
+![QuickRecorder](https://images-1252557999.file.myqcloud.com/uPic/QuickRecorder.jpg) 
 
-### [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock)
+### [macGPT](https://github.com/hellokuls/macGPT)
 
-一款跳过B站视频中恰饭片段的浏览器插件，移植自 [SponsorBlock](https://github.com/ajayyy/SponsorBlock)：
+一款 `ChatGPT for Mac` 原生客户端：
 
-![BilibiliSponsorBlock](https://images-1252557999.file.myqcloud.com/uPic/3iEbMD.png) 
+![macGPT](https://images-1252557999.file.myqcloud.com/uPic/macGPT.png) 
 
-### [DBeaver](https://github.com/dbeaver/dbeaver)
+### [Bonjourr](https://github.com/victrme/Bonjourr)
 
-免费的通用数据库管理工具，SQL客户端，跨平台支持：
+`Bonjourr` 是法语你好的意思，这是一个简约漂亮的起始页浏览器插件：
 
-![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png) 
+![Bonjourr](https://images-1252557999.file.myqcloud.com/uPic/Bonjourr.jpg) 
 
 ## 👀 资料 
 
-### [agents-course](https://huggingface.co/learn/agents-course/unit0/introduction)
+### [C++服务器开发精髓](https://cppguide.cn/pages/92255f/)
 
-🤗 AI Agents Course 是一个旨在从基础到高级教授人工智能代理（Agents）的免费课程，涵盖理论、设计和实践，并提供使用流行库（如 smolagents、LangChain 和 LlamaIndex）的实战演练，以及通过挑战赛和社区贡献来提升学习体验。
+开源电子书籍，本书从操作系统原理角度讲解进行C++服务器开发所需掌握的技术栈：
 
-![agents-course](https://images-1252557999.file.myqcloud.com/uPic/AcJZte.png) 
+![cppguide](https://images-1252557999.file.myqcloud.com/uPic/cppguide.jpg) 
 
-### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+### [promptingguide.ai](https://www.promptingguide.ai/zh)
 
-本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
+关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
 
-### [大李敖全集5.0](https://books.leeao.net/)
+![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
 
-大李敖全集：
+### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
 
-![leeao](https://images-1252557999.file.myqcloud.com/uPic/UDFeW1.png) 
+互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
 
 ## 🕸 网站 
 
-### [cleverpdf](https://www.cleverpdf.com/cn)
+### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
 
-几十个强大的PDF在线工具，无需注册会员，永久免费：
+作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
 
-![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/bdd-3d.png)
 
-### [waytoagi](https://www.waytoagi.com/)
 
-`AI` 知识库和工具站：
+感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
 
-![waytoagi](https://images-1252557999.file.myqcloud.com/uPic/waytoagi.jpg) 
+### [chatpdf](https://www.chatpdf.com/)
 
-### [codrops](https://tympanus.net/codrops/demos/)
+和任何 PDF 进行沟通交流：
 
-可免费下载使用的原型动画 UI 布局（ 500+ free demos）：
+![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
 
-![6690d09244aa9](https://img.fre123.com/i/2024/07/12/6690d09244aa9.jpg) 
+### [recompressor](https://zh.recompressor.com/)
+
+免费的图片压缩工具：
+
+![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
 
 ## ✍️ 说明
 
