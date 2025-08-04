@@ -5,92 +5,98 @@
 
 ## 🎯 项目 
 
-### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
 
-Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
+阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
 
-你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
+如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
 
-- 🌐 利用互联网进行搜索和信息收集
-- 💾 长期和短期记忆管理
-- 🧠 GPT-4实例用于文本生成
-- 🔗 访问流行的网站和平台
-- 🗃️ 使用GPT-3.5进行文件存储和摘要
+![Infuse](https://images-1252557999.file.myqcloud.com/uPic/Fbred5.png) 
 
-![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
+### [site-status](https://github.com/imsyy/site-status)
 
-### [hoarder](https://github.com/hoarder-app/hoarder)
+一个简洁的站点状态检测工具：
 
-为数据收藏者开发的管理程序，可自建，有一定 `AI` 能力：
+![site-status](https://images-1252557999.file.myqcloud.com/uPic/RvcPlz.png)
 
-![hoarder](https://images-1252557999.file.myqcloud.com/uPic/hoarder.jpg) 
+之前推荐过的 [Uptime Kuma](https://github.com/louislam/uptime-kuma) 也是同类型开源项目。 
 
-### [Mini-Cover](https://github.com/JLinMr/Mini-Cover)
+### [carbonyl](https://github.com/fathyb/carbonyl)
 
-简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面：
+在你的终端使用 `Chromium`：
 
-![Mini-Cover](https://images-1252557999.file.myqcloud.com/uPic/OGMrle.png) 
+![carbonyl](https://images-1252557999.file.myqcloud.com/uPic/carbonyl.jpg) 
 
 ## 🤖 软件 
 
-### [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)
+### [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor)
 
-基于 `ScreenCapture Kit` 的轻量化多功能 `macOS` 录屏工具：
+`Caesium` 是一款图像压缩软件，可帮助您存储、发送和共享数字图片，支持 `JPG、PNG&WebP` 格式：
 
-![QuickRecorder](https://images-1252557999.file.myqcloud.com/uPic/QuickRecorder.jpg) 
+![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.jpg) 
 
-### [macGPT](https://github.com/hellokuls/macGPT)
+### [cicada](https://github.com/mebtte/cicada)
 
-一款 `ChatGPT for Mac` 原生客户端：
+知了, 支持多用户的开源音乐服务：
 
-![macGPT](https://images-1252557999.file.myqcloud.com/uPic/macGPT.png) 
+- **尊重隐私, 不进行任何数据收集**
+- 支持多用户
+- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
+- 系统媒体和快捷键支持
+- 音乐支持标准音质/超高音质/伴奏以及多份歌词
+- 乐单/播放列表/播放队列音乐数量无限制
+- 支持标注音乐创作来源(翻唱)
+- 支持歌词/歌名/歌手/乐单搜索
 
-### [Bonjourr](https://github.com/victrme/Bonjourr)
+![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
 
-`Bonjourr` 是法语你好的意思，这是一个简约漂亮的起始页浏览器插件：
+### [gitbutler](https://github.com/gitbutlerapp/gitbutler)
 
-![Bonjourr](https://images-1252557999.file.myqcloud.com/uPic/Bonjourr.jpg) 
+Git 分支管理工具，从头开始构建，用于现代工作流：
+
+![gitbutler](https://images-1252557999.file.myqcloud.com/uPic/gitbutler.jpg) 
 
 ## 👀 资料 
 
-### [C++服务器开发精髓](https://cppguide.cn/pages/92255f/)
+### [rosedb](https://github.com/flower-corp/rosedb)
 
-开源电子书籍，本书从操作系统原理角度讲解进行C++服务器开发所需掌握的技术栈：
+`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
 
-![cppguide](https://images-1252557999.file.myqcloud.com/uPic/cppguide.jpg) 
+![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
 
-### [promptingguide.ai](https://www.promptingguide.ai/zh)
+作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
 
-关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
+### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
 
-![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
+本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
 
-### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
+![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
 
-互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
+### [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
+
+面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:
+
+![llm-cookbook](https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png) 
 
 ## 🕸 网站 
 
-### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
+### [macosicongallery](https://www.macosicongallery.com/)
 
-作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
+专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/bdd-3d.png)
+![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
 
+### [pandagpt.io](https://www.pandagpt.io/)
 
-感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
+基于  `ChatGPT` 的 `AI` 文档机器人：
 
-### [chatpdf](https://www.chatpdf.com/)
+![pandagpt](https://images-1252557999.file.myqcloud.com/uPic/pandagpt.jpg) 
 
-和任何 PDF 进行沟通交流：
+### [nslookup.io](https://www.nslookup.io/)
 
-![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
+一个在线工具，用于查询域名的 DNS 记录，提供与命令行工具 dig 和 nslookup 相同的信息，但在浏览器中更加方便：
 
-### [recompressor](https://zh.recompressor.com/)
-
-免费的图片压缩工具：
-
-![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
+![nslookup](https://images-1252557999.file.myqcloud.com/uPic/d5hTUE.png) 
 
 ## ✍️ 说明
 
