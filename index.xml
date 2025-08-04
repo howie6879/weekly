@@ -12,7 +12,127 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Tue, 22 Jul 2025 02:45:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 17:39:14 +0000</lastBuildDate>
+    <item>
+      <title>07-21~08-03.老胡的周刊（第197期）.md</title>
+      <link>https://weekly.howie6879.com/2025/07-21~08-03.老胡的周刊（第197期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/07-21~08-03.老胡的周刊（第197期）.html"&gt;07-21~08-03.老胡的周刊（第197期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/MoonshotAI/Kimi-K2"&gt;Kimi-K2&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Kimi&lt;/code&gt; 最新发布的混合专家语言模型，拥有320亿激活参数和1万亿总参数，专为 &lt;code&gt;Agent&lt;/code&gt; 能力优化，助力高效推理、编码和工具调用。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Kimi-K2" src="https://images-1252557999.file.myqcloud.com/uPic/JMAvvn.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/dyad-sh/dyad"&gt;dyad&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;dyad-sh/dyad&lt;/code&gt; 是一个免费、本地、开源的 &lt;code&gt;AI&lt;/code&gt; 应用构建器，类似于 &lt;code&gt;Lovable、v0 &amp;amp; Bolt&lt;/code&gt;，但它能够在你的机器上运行：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="dyad" src="https://images-1252557999.file.myqcloud.com/uPic/ohro2Z.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/coze-dev"&gt;coze&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;字节的 &lt;code&gt;Coze&lt;/code&gt; 开源了，开源协议都是 Apache 2.0 许可证，任何组织和个人都可以修改和商业使用，而且修改后还无需开源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Coze Studio&lt;/code&gt;：一个可视化、全功能的 AI agent 开发平台，支持从创建、调试到部署的完整流程，可通过无/低代码方式快速打造 AI 应用或聊天机器人&lt;ul&gt;
+&lt;li&gt;Agent 构建：可视化设计机器人（agent）、设置 RAG、插件、工作流等资源&lt;/li&gt;
+&lt;li&gt;App 与 Workflow 管理：构建、发布并管理 Business Logic&lt;/li&gt;
+&lt;li&gt;模型管理：集成 OpenAI、Volcengine 等模型服务&lt;/li&gt;
+&lt;li&gt;资源管理：包括插件、知识库、数据库、Prompt 模板等&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Coze Loop&lt;/code&gt;：面向开发者的 AI agent 优化平台，覆盖 agent 的全生命周期：开发、调试、评估与运维监控&lt;ul&gt;
+&lt;li&gt;Prompt 开发与调试支持可视化 Playground、Prompt 版本管理、多模型输出对比&lt;/li&gt;
+&lt;li&gt;评估模块：系统化管理测试集、评测器、自动实验并统计指标（准确性、简洁性、合规性等）&lt;/li&gt;
+&lt;li&gt;观察追踪模块：记录 agent 执行流程的 Trace 信息（包括提示解析、模型调用、插件执行等），支持异常状态捕捉和实时跟踪&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="coze-studio" src="https://images-1252557999.file.myqcloud.com/uPic/ZMDOMS.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/dingyufei615/ai-goofish-monitor"&gt;ai-goofish-monitor&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个基于 &lt;code&gt;Playwright&lt;/code&gt; 和 &lt;code&gt;AI&lt;/code&gt; 过滤分析的闲鱼多任务实时监控与智能分析工具，配备了功能完善的 &lt;code&gt;Web&lt;/code&gt; 管理界面：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;可视化Web界面: 提供完整的Web UI，支持任务的可视化管理、AI标准在线编辑、运行日志实时查看和结果筛选浏览，无需直接操作命令行和配置文件。&lt;/li&gt;
+&lt;li&gt;AI驱动的任务创建: 只需用自然语言描述你的购买需求，即可一键创建包含复杂筛选逻辑的全新监控任务。&lt;/li&gt;
+&lt;li&gt;多任务并发: 通过 config.json 同时监控多个关键词，各任务独立运行，互不干扰。&lt;/li&gt;
+&lt;li&gt;实时流式处理: 发现新商品后，立即进入分析流程，告别批处理延迟。&lt;/li&gt;
+&lt;li&gt;深度AI分析: 集成多模态大语言模型（如 GPT-4o），结合商品图文和卖家画像进行深度分析，精准筛选。&lt;/li&gt;
+&lt;li&gt;高度可定制: 每个监控任务均可配置独立的关键词、价格范围、筛选条件和AI分析指令 (Prompt)。&lt;/li&gt;
+&lt;li&gt;即时通知: 支持通过 ntfy.sh、企业微信机器人和 Bark，将符合AI推荐的商品立即推送到你的手机或桌面。&lt;/li&gt;
+&lt;li&gt;定时任务调度: 支持 Cron 表达式，可为每个任务设置独立的定时执行计划。&lt;/li&gt;
+&lt;li&gt;Docker 一键部署: 提供 docker-compose 配置，实现快速、标准化的容器化部署。&lt;/li&gt;
+&lt;li&gt;健壮的反爬策略: 模拟真人操作，包含多种随机延迟和用户行为，提高稳定性。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="ai-goofish-monitor" src="https://images-1252557999.file.myqcloud.com/uPic/2L2y9m.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/siteboon/claudecodeui"&gt;claudecodeui&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个针对 &lt;code&gt;Claude Code&lt;/code&gt; 的免费开源前端界面，它允许用户在移动设备和网页上管理 Claude Code 的会话和项目。该项目支持响应式设计，适用于桌面、平板和手机，提供了交互式的聊天界面、集成的 shell 终端、文件资源管理器以及 Git 资源管理器等功能。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="claudecodeui" src="https://images-1252557999.file.myqcloud.com/uPic/wYbDc3.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/dqzboy/Docker-Proxy"&gt;Docker-Proxy&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;自建 &lt;code&gt;Docker&lt;/code&gt; 镜像加速服务，基于官方 &lt;code&gt;Docker Registry&lt;/code&gt;  一键部署 &lt;code&gt;Docker、K8s、Quay、Ghcr、Mcr、Nvcr&lt;/code&gt; 等镜像加速\管理服务。支持免服务器部署到 &lt;code&gt;ClawCloud\Render\Koyeb&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Docker-Proxy" src="https://images-1252557999.file.myqcloud.com/uPic/jaSnDn.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/zane-ops/zane-ops"&gt;zane-ops&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;zaneops&lt;/code&gt; 是一个自托管的平台即服务（PaaS），它提供了一个用于部署和管理 Web 应用、数据库、静态网站等的平台：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;界面美观、速度快速，完全免费且开源&lt;/li&gt;
+&lt;li&gt;支持多种服务的部署，包括但不限于 Supabase、WordPress、Ghost 等&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="zaneops" src="https://images-1252557999.file.myqcloud.com/uPic/mal2TN.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/denizsafak/abogen"&gt;abogen&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Abogen&lt;/code&gt; 是一个基于 &lt;code&gt;Kokoro-82M&lt;/code&gt; 的文本到语音转换工具，能够快速将 EPUB、PDF 或文本文件转换为具有同步字幕的高质量音频，适用于制作有声读物、社交媒体语音旁白等。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="abogen" src="https://images-1252557999.file.myqcloud.com/uPic/ZtsSUK.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/MaaAssistantArknights/MaaAssistantArknights"&gt;MaaAssistantArknights&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一款明日方舟游戏小助手，基于图像识别技术，一键完成全部日常任务：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;刷理智，掉落识别及上传 企鹅物流，一图流&lt;/li&gt;
+&lt;li&gt;智能基建换班，自动计算干员效率，单设施内最优解；同时也支持 自定义排班&lt;/li&gt;
+&lt;li&gt;自动公招，可选使用加急许可，一次全部刷完！公招数据自动上传 企鹅物流，一图流&lt;/li&gt;
+&lt;li&gt;支持手动识别公招界面，方便对高星公招做出选择 （你的这个高资回费出的是推王呢还是推王呢）&lt;/li&gt;
+&lt;li&gt;支持识别干员列表，统计已有和未有干员及潜能，并在公招识别显示&lt;/li&gt;
+&lt;li&gt;支持识别养成材料，并导出至 企鹅物流刷图规划、明日方舟工具箱、ARK-NIGHTS 干员培养表&lt;/li&gt;
+&lt;li&gt;访问好友、收取信用及购物、领取日常奖励等，一键全日常自动长草&lt;/li&gt;
+&lt;li&gt;肉鸽全自动刷源石锭和等级，自动烧水和凹直升，智能识别干员及练度&lt;/li&gt;
+&lt;li&gt;选择作业 JSON 文件，自动抄作业， 视频演示&lt;/li&gt;
+&lt;li&gt;支持 C, Python, Java, Rust, Golang, Java HTTP, Rust HTTP 等多种接口，方便集成调用，自定义你的 MAA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="MaaAssistantArknights" src="https://images-1252557999.file.myqcloud.com/uPic/YJj3rT.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/MultiboxLabs/flow-browser"&gt;flow-browser&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Flow Browser&lt;/code&gt; 是一个基于 &lt;code&gt;Electron&lt;/code&gt; 框架构建的现代化网页浏览器，它支持多个配置文件、多工作空间、侧边栏、命令面板、自定义扩展、原生广告拦截器等功能。该浏览器支持安装 &lt;code&gt;Chrome&lt;/code&gt; 网上应用店的扩展，提供了睡眠标签页功能以节省系统资源，并且支持 &lt;code&gt;Widevine&lt;/code&gt; 以便观看受版权保护的内容。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="flow-browser" src="https://images-1252557999.file.myqcloud.com/uPic/UwO7ZF.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/scriptscat/scriptcat"&gt;scriptcat&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;ScriptCat&lt;/code&gt;（脚本猫）是一个功能强大的用户脚本管理器，基于油猴的设计理念，完全兼容油猴脚本。它不仅支持传统的用户脚本，还创新性地实现了后台脚本运行框架，提供丰富的API扩展，让脚本能够完成更多强大的功能。内置优秀的代码编辑器，支持智能补全和语法检查，让脚本开发更加高效流畅，与 Tampermonkey 兼容，支持无缝迁移现有脚本库，用户可以零成本切换使用。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="scriptcat" src="https://images-1252557999.file.myqcloud.com/uPic/sgVMwI.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/NativeMindBrowser/NativeMindExtension"&gt;NativeMindExtension&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;NativeMindExtension&lt;/code&gt; 是一个开源项目，旨在提供一个完全在用户设备上运行的 AI 助手，它不依赖云服务，保证了用户隐私和数据安全。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="NativeMindExtension" src="https://images-1252557999.file.myqcloud.com/uPic/OJa7M3.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://huggingface.co/learn"&gt;HF 开源AI课程&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;HuggingFace&lt;/code&gt; 推出9门全免费开源AI课程，涵盖大模型、智能代理、视觉、3D、音频、游戏等前沿领域，助力从入门到进阶的系统化学习。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="huggingface_learn" src="https://images-1252557999.file.myqcloud.com/uPic/y3Llq2.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/gyoridavid/ai_agents_az"&gt;ai_agents_az&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;ai_agents_az&lt;/code&gt; 项目是一个专门为 AI 代理创建的资源库，其中包含了多个回放和教程，涵盖从创建药物处方代理到使用 n8n 等工具制作社交媒体内容的各种实践案例。该项目由 David Gyori 和 Kais 共同维护，主要使用 Python 语言开发。项目内容分为两个主要部分：一是包含 20 个集数的 AI 代理 A-Z 系列教程，每个集数都有相应的工作流文件和说明；二是提供了一个用于创建短视频的 MCP/REST 服务器和一个用于创建旨在的故事创作服务器。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ai_agents_az" src="https://images-1252557999.file.myqcloud.com/uPic/hZIh2V.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://gaccode.store/"&gt;gaccode.store&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;首先感谢你看到这里，我要开始写一些啰嗦的话哈哈～&lt;/p&gt;
+&lt;p&gt;这周疯狂使用 Claude Code，探索 CC 在部门团队使用的可行性，结果非常让我惊喜，初步解决完数据隐私问题，就可以投入到技术工作流程里面去。&lt;/p&gt;
+&lt;p&gt;会自动行动、思考、优化、测试的编程工具，我每晚编码到凌晨两三点，同时开三个项目：web &amp;amp; python &amp;amp; go &amp;amp; rust，我会的技术栈他都会，我不会的他也会👀。&lt;strong&gt;这也是周刊为啥停一周的原因，写代码太晚太累&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;我觉得这个工具会让有能力的人变得更厉害，让有效率的人变得更强，让有想法的人能快速进行创造。认知高度决定着 CC 可以做出怎样的东西。&lt;/p&gt;
+&lt;p&gt;工具的出现只会让厉害的人更厉害～把握住，用起来。&lt;/p&gt;
+&lt;p&gt;非常建议大家使用。这周我差不多花了接近四千块来调研（我没开官方的 Max）买的各种第三方的 &lt;code&gt;Key&lt;/code&gt;，也应次认识了不少人，大家如果在用，可以加我交流这块购买经验（可能可以给你省钱）。&lt;/p&gt;
+&lt;p&gt;然后还有朋友做类似&lt;a href="https://gaccode.com/signup?ref=ZP1MJDQ4"&gt;GAC&lt;/a&gt;的产品，目前在内测，也可以拉你进去体验。&lt;/p&gt;
+&lt;p&gt;其中 &lt;a href="https://gaccode.com/signup?ref=ZP1MJDQ4"&gt;GAC&lt;/a&gt; 算是比较大的一家（大家注册可以用我的邀请码：https://gaccode.com/signup?ref=ZP1MJDQ4）。&lt;/p&gt;
+&lt;p&gt;在购买过程中我发现了这个网站： &lt;a href="https://gaccode.store/"&gt;gaccode.store&lt;/a&gt;，可以通过比较便宜的价格购买兑换码，我从其他地方买 299 这里是 279 （网站上说前多少名购买可以降价），进群还可以不定时免费领 &lt;code&gt;gac&lt;/code&gt; 的 &lt;code&gt;key&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="GACstore" src="https://images-1252557999.file.myqcloud.com/uPic/0GqXzS.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">07-21~08-03.老胡的周刊（第197期）.md</guid>
+      <pubDate>Sun, 03 Aug 2025 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>07-14~07-20.老胡的周刊（第196期）.md</title>
       <link>https://weekly.howie6879.com/2025/07-14~07-20.老胡的周刊（第196期）.html</link>
@@ -1362,73 +1482,6 @@
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">02-17~02-23.老胡的周刊（第178期）.md</guid>
       <pubDate>Sun, 23 Feb 2025 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>02-10~02-16.老胡的周刊（第177期）.md</title>
-      <link>https://weekly.howie6879.com/2025/02-10~02-16.老胡的周刊（第177期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/02-10~02-16.老胡的周刊（第177期）.html"&gt;02-10~02-16.老胡的周刊（第177期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/getasterisk/deepclaude"&gt;deepclaude&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Aider&lt;/code&gt; 团队最新研究通过&lt;a href="https://aider.chat/2025/01/24/r1-sonnet.html"&gt;采用 DeepSeek R1 + Claude 3.5 Sonnet&lt;/a&gt; 可以实现最好的效果：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="deepclaude-web" src="https://images-1252557999.file.myqcloud.com/uPic/xFt7fe.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="deepclaude" src="https://images-1252557999.file.myqcloud.com/uPic/MNsnRO.png" /&gt;&lt;/p&gt;
-&lt;p&gt;相关资料：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://aider.chat/2025/01/24/r1-sonnet.html"&gt;R1+Sonnet set SOTA on aider’s polyglot benchmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/ErlichLiu/DeepClaude"&gt;第三方 Python 实现&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;a href="https://github.com/browser-use/web-ui"&gt;browser-use/web-ui&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;让 AI 助手控制你的浏览器，浏览器中运行 AI 代理，提供用户友好的 Web 界面，支持多种大型语言模型，并允许使用自定义浏览器进行交互：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="web-ui" src="https://images-1252557999.file.myqcloud.com/uPic/DVMAQC.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/InternLM/MindSearch"&gt;MindSearch&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;开源的 Web 搜索引擎框架，它利用大型语言模型（LLM）和多智能体架构来提供高级搜索功能。该项目支持多种搜索引擎，如 &lt;code&gt;DuckDuckGo、Bing、Brave &amp;amp; Google&lt;/code&gt;，您可以轻松部署它来构建您自己的搜索引擎：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="MindSearch" src="https://images-1252557999.file.myqcloud.com/uPic/8Q3zZx.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Hacker233/resume-design"&gt;resume-design&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一款开源免费的简历制作神器，支持导出超高清 PDF、图片、源码级 JSON 数据等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="resume-design" src="https://images-1252557999.file.myqcloud.com/uPic/y8rbsD.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/CherryHQ/cherry-studio"&gt;cherry-studio&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Cherry Studio&lt;/code&gt; 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="cherry-studio" src="https://images-1252557999.file.myqcloud.com/uPic/v2u7fo.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="cherry-studio-feature" src="https://images-1252557999.file.myqcloud.com/uPic/7o3Iem.png" /&gt;&lt;/p&gt;
-&lt;p&gt;好用，冲就对了。&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/NitroRCr/AIaW"&gt;AIaW&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;AI as Workspace&lt;/code&gt; - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="AIaW" src="https://images-1252557999.file.myqcloud.com/uPic/n5l83s.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/DeepLifeStudio/DeepSeekAI"&gt;DeepSeekAI&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;DeepSeekAI 是一款非官方的浏览器扩展插件，基于 DeepSeek API，为用户提供智能的网页交互体验。通过简单的文本选择，即可获得 AI 驱动的实时响应，让您的网页浏览体验更加智能和高效。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="DeepSeekAI" src="https://images-1252557999.file.myqcloud.com/uPic/ip7gfT.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://books.leeao.net/"&gt;大李敖全集5.0&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;大李敖全集：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="leeao" src="https://images-1252557999.file.myqcloud.com/uPic/UDFeW1.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Acmesec/theAIMythbook"&gt;Ai迷思录&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;涵盖了人工智能的基础知识、法律法规、经典人工智能模型、漏洞与攻击、防御方法、安全开发与运维、相关框架、会议讲座以及实践技能等。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="theAIMythbook" src="https://images-1252557999.file.myqcloud.com/uPic/lPbVPg.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://deepseek-r1-online.com/chat/"&gt;deepseek-r1-online.com&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;免费的满血 &lt;code&gt;deepseek-r1&lt;/code&gt; 在线版，&lt;a href="https://mp.weixin.qq.com/s/dPicExymBomcksvijPNNKg"&gt;老胡 DeepSeek 信息交流群&lt;/a&gt;友情提供共享，放心使用：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="deepseek-r1-online.co" src="https://images-1252557999.file.myqcloud.com/uPic/xrfA9j.png" /&gt;&lt;/p&gt;
-&lt;p&gt;老胡也顺便整理了一些教程：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://mp.weixin.qq.com/s/dPicExymBomcksvijPNNKg"&gt;简单教程: 两步获取专属满血 DeepSeek-R1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.biji.com/note/1867969552567120872/web"&gt;DeepSeek-R1 联网功能实现方案攻略&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">02-10~02-16.老胡的周刊（第177期）.md</guid>
-      <pubDate>Sun, 16 Feb 2025 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
