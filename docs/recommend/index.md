@@ -5,98 +5,101 @@
 
 ## 🎯 项目 
 
-### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
+### [claudecodeui](https://github.com/siteboon/claudecodeui)
 
-阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
+一个针对 `Claude Code` 的免费开源前端界面，它允许用户在移动设备和网页上管理 Claude Code 的会话和项目。该项目支持响应式设计，适用于桌面、平板和手机，提供了交互式的聊天界面、集成的 shell 终端、文件资源管理器以及 Git 资源管理器等功能。
 
-如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
+![claudecodeui](https://images-1252557999.file.myqcloud.com/uPic/wYbDc3.png) 
 
-![Infuse](https://images-1252557999.file.myqcloud.com/uPic/Fbred5.png) 
+### [kanboard](https://kanboard.org/)
 
-### [site-status](https://github.com/imsyy/site-status)
+`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
 
-一个简洁的站点状态检测工具：
+- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
+- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
+- 可评估：方便收集如任务完成数量、质量、时间等性能指标
 
-![site-status](https://images-1252557999.file.myqcloud.com/uPic/RvcPlz.png)
+![Kanboard](https://images-1252557999.file.myqcloud.com/uPic/76TTj6.png) 
 
-之前推荐过的 [Uptime Kuma](https://github.com/louislam/uptime-kuma) 也是同类型开源项目。 
+### [openui](https://github.com/wandb/openui)
 
-### [carbonyl](https://github.com/fathyb/carbonyl)
+将你脑中的页面通过文本描述来自动实时生成，非常方便，但是实用性具体如何还需要探索，期待这个项目持续迭代：
 
-在你的终端使用 `Chromium`：
+![openui](https://images-1252557999.file.myqcloud.com/uPic/openui.jpg)
 
-![carbonyl](https://images-1252557999.file.myqcloud.com/uPic/carbonyl.jpg) 
+它甚至可以帮助你将HTML转换成 `React、Svelte or Web Components` 等格式。 
 
 ## 🤖 软件 
 
-### [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor)
+### [readest](https://github.com/chrox/readest)
 
-`Caesium` 是一款图像压缩软件，可帮助您存储、发送和共享数字图片，支持 `JPG、PNG&WebP` 格式：
+`Readest` 是一个现代化、功能丰富的电子书阅读器，旨在为读者提供无缝的跨平台访问体验、强大的工具和直观的界面，以提升阅读体验。
 
-![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.jpg) 
+![readest](https://images-1252557999.file.myqcloud.com/uPic/v41zIg.png) 
 
-### [cicada](https://github.com/mebtte/cicada)
+### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
 
-知了, 支持多用户的开源音乐服务：
+这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
 
-- **尊重隐私, 不进行任何数据收集**
-- 支持多用户
-- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
-- 系统媒体和快捷键支持
-- 音乐支持标准音质/超高音质/伴奏以及多份歌词
-- 乐单/播放列表/播放队列音乐数量无限制
-- 支持标注音乐创作来源(翻唱)
-- 支持歌词/歌名/歌手/乐单搜索
+- SSH连接操作
+- Jupyter支持
+- Code Server（Web版VS Code） 支持
+- 文件管理支持
+- 自带Python：写点常用脚本不在话下
+- 上手深度学习
+- 等等
 
-![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
+这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
 
-### [gitbutler](https://github.com/gitbutlerapp/gitbutler)
+![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
 
-Git 分支管理工具，从头开始构建，用于现代工作流：
+### [ntchat](https://github.com/smallevilbeast/ntchat)
 
-![gitbutler](https://images-1252557999.file.myqcloud.com/uPic/gitbutler.jpg) 
+微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
+
+- 基于pc微信的api接口, 类似itchat项目
+- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
+- 支持好友和群管理 
 
 ## 👀 资料 
 
-### [rosedb](https://github.com/flower-corp/rosedb)
+### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
 
-`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
+吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
 
-![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
+![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
 
-作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
+### [udlbook](https://udlbook.github.io/udlbook/)
 
-### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
+麻省理工出品的免费电子书《理解深度学习》：
 
-本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
+![udlbook](https://images-1252557999.file.myqcloud.com/uPic/udlbook.jpg) 
 
-![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
+### [Building-a-Small-LLM-from-Scratch](https://github.com/KaihuaTang/Building-a-Small-LLM-from-Scratch)
 
-### [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
-
-面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:
-
-![llm-cookbook](https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png) 
+该系列的目的是让读者可以在基础的pytorch上，不依赖任何其他现成的外部库，从零开始理解并实现一个大语言模型的所有组成部分，以及训练微调代码，因此读者仅需python，pytorch和最基础深度学习背景知识即可。 
 
 ## 🕸 网站 
 
-### [macosicongallery](https://www.macosicongallery.com/)
+### [seesaw](https://www.seesaw.website/)
 
-专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
+专门收集优秀网页设计的网站，目前有 **123** 个案例：
 
-![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
+![seesaw](https://images-1252557999.file.myqcloud.com/uPic/seesaw.jpg) 
 
-### [pandagpt.io](https://www.pandagpt.io/)
+### [free-font](https://free-font.vercel.app/)
 
-基于  `ChatGPT` 的 `AI` 文档机器人：
+收录商用免费汉字字体，还包括开源英文字体 `Free Font`:
 
-![pandagpt](https://images-1252557999.file.myqcloud.com/uPic/pandagpt.jpg) 
+![free-font](https://images-1252557999.file.myqcloud.com/uPic/free-font.png)
 
-### [nslookup.io](https://www.nslookup.io/)
+项目开源在 [github](https://github.com/jaywcjlove/free-font)。 
 
-一个在线工具，用于查询域名的 DNS 记录，提供与命令行工具 dig 和 nslookup 相同的信息，但在浏览器中更加方便：
+### [staticrypt](https://github.com/robinmoisson/staticrypt)
 
-![nslookup](https://images-1252557999.file.myqcloud.com/uPic/d5hTUE.png) 
+一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
+
+![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
 
 ## ✍️ 说明
 
