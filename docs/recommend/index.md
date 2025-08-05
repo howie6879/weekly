@@ -5,101 +5,85 @@
 
 ## 🎯 项目 
 
-### [claudecodeui](https://github.com/siteboon/claudecodeui)
+### [rssbot](https://github.com/iovxw/rssbot)
 
-一个针对 `Claude Code` 的免费开源前端界面，它允许用户在移动设备和网页上管理 Claude Code 的会话和项目。该项目支持响应式设计，适用于桌面、平板和手机，提供了交互式的聊天界面、集成的 shell 终端、文件资源管理器以及 Git 资源管理器等功能。
+用于消息通知的轻量级 `Telegram RSS` 机器人。 
 
-![claudecodeui](https://images-1252557999.file.myqcloud.com/uPic/wYbDc3.png) 
+### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
 
-### [kanboard](https://kanboard.org/)
+`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
 
-`Kanboard`是一个免费开源的看板项目管理软件，为什么要引入看板：
+![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
 
-- 可视化：映射团队现有的工作成卡片工作流，让团队更加聚焦且**资源分配最大化，减少浪费**
-- 灵活且持续：没有规定阶段的持续时间且分阶段持续交付以逐步建立信任关系，核心在于`Pull System & WIP`
-- 可评估：方便收集如任务完成数量、质量、时间等性能指标
+### [metabase](https://github.com/metabase/metabase)
 
-![Kanboard](https://images-1252557999.file.myqcloud.com/uPic/76TTj6.png) 
+为公司提供的快速BI数据可视化工具：
 
-### [openui](https://github.com/wandb/openui)
+![metabase](https://images-1252557999.file.myqcloud.com/uPic/metabase.png)
 
-将你脑中的页面通过文本描述来自动实时生成，非常方便，但是实用性具体如何还需要探索，期待这个项目持续迭代：
-
-![openui](https://images-1252557999.file.myqcloud.com/uPic/openui.jpg)
-
-它甚至可以帮助你将HTML转换成 `React、Svelte or Web Components` 等格式。 
+也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.com/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease) 
 
 ## 🤖 软件 
 
-### [readest](https://github.com/chrox/readest)
+### [XcodesApp](https://github.com/XcodesOrg/XcodesApp)
 
-`Readest` 是一个现代化、功能丰富的电子书阅读器，旨在为读者提供无缝的跨平台访问体验、强大的工具和直观的界面，以提升阅读体验。
+通过鼠标点击这种简单方式，快速安装和切换多个版本的 `Xcode`：
 
-![readest](https://images-1252557999.file.myqcloud.com/uPic/v41zIg.png) 
+![XcodesApp](https://images-1252557999.file.myqcloud.com/uPic/XcodesApp.jpg) 
 
-### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
+### [kopia](https://github.com/kopia/kopia)
 
-这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
+跨平台备份/还原工具，它能够将指定的文件和目录加密压缩后生成快照，然后上传到远程服务器或云存储，实现远程备份数据的功能，开箱即用支持命令行和 `GUI` 两种使用方式：
 
-- SSH连接操作
-- Jupyter支持
-- Code Server（Web版VS Code） 支持
-- 文件管理支持
-- 自带Python：写点常用脚本不在话下
-- 上手深度学习
-- 等等
+![kopia](https://images-1252557999.file.myqcloud.com/uPic/kopia.webp) 
 
-这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
+### [Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT)
 
-![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
+一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频:
 
-### [ntchat](https://github.com/smallevilbeast/ntchat)
-
-微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
-
-- 基于pc微信的api接口, 类似itchat项目
-- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
-- 支持好友和群管理 
+![Chenyme-AAVT](https://images-1252557999.file.myqcloud.com/uPic/Chenyme-AAVT.jpg) 
 
 ## 👀 资料 
 
-### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
+### [paper-reading](https://github.com/mli/paper-reading)
 
-吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
+![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
 
-### [udlbook](https://udlbook.github.io/udlbook/)
+### [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/index.html)
 
-麻省理工出品的免费电子书《理解深度学习》：
+Beej 的 Git 指南教程：
 
-![udlbook](https://images-1252557999.file.myqcloud.com/uPic/udlbook.jpg) 
+![Beejgit](https://images-1252557999.file.myqcloud.com/uPic/UAP5Fj.png)
 
-### [Building-a-Small-LLM-from-Scratch](https://github.com/KaihuaTang/Building-a-Small-LLM-from-Scratch)
+之前推荐过[Beej 的 C 语言超级指南](https://beej.us/guide/bgc/html/split/)，从入门到进阶，基础语法到高级特性：
 
-该系列的目的是让读者可以在基础的pytorch上，不依赖任何其他现成的外部库，从零开始理解并实现一个大语言模型的所有组成部分，以及训练微调代码，因此读者仅需python，pytorch和最基础深度学习背景知识即可。 
+![Beej](https://images-1252557999.file.myqcloud.com/uPic/1XOLrv.png) 
+
+### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
+
+非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
 
 ## 🕸 网站 
 
-### [seesaw](https://www.seesaw.website/)
+### [linegraphmaker](https://linegraphmaker.co/)
 
-专门收集优秀网页设计的网站，目前有 **123** 个案例：
+在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
 
-![seesaw](https://images-1252557999.file.myqcloud.com/uPic/seesaw.jpg) 
+![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
 
-### [free-font](https://free-font.vercel.app/)
+### [favoree.io](https://www.favoree.io/)
 
-收录商用免费汉字字体，还包括开源英文字体 `Free Font`:
+`YT` 频道探索发现导航网站，做得很精细，用户可以对频道进行评分和评论，这有助于构建一个由社区驱动的信任体系。网站提供了简单的过滤器，使用户能够根据兴趣、内容质量、视频时长和观众情绪等因素来搜索和发现新的频道和视频。
 
-![free-font](https://images-1252557999.file.myqcloud.com/uPic/free-font.png)
+![favoree](https://images-1252557999.file.myqcloud.com/uPic/favoree.jpg) 
 
-项目开源在 [github](https://github.com/jaywcjlove/free-font)。 
+### [theonestopradio](https://theonestopradio.com/)
 
-### [staticrypt](https://github.com/robinmoisson/staticrypt)
+发现你可能喜欢的电台：
 
-一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
-
-![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
+![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
 
 ## ✍️ 说明
 
