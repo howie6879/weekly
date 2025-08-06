@@ -5,85 +5,87 @@
 
 ## 🎯 项目 
 
-### [rssbot](https://github.com/iovxw/rssbot)
+### [WeChatMsg](https://github.com/LC044/WeChatMsg)
 
-用于消息通知的轻量级 `Telegram RSS` 机器人。 
+提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告：
 
-### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
+![WeChatMsg](https://images-1252557999.file.myqcloud.com/uPic/WeChatMsg.png) 
 
-`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
+### [Flowise](https://github.com/FlowiseAI/Flowise)
 
-![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
+基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
 
-### [metabase](https://github.com/metabase/metabase)
+![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
 
-为公司提供的快速BI数据可视化工具：
+### [tduck-front](https://github.com/TDuckCloud/tduck-front)
 
-![metabase](https://images-1252557999.file.myqcloud.com/uPic/metabase.png)
+`Tduck` 填鸭表单是一款自定义表单工具，支持问卷调查、数据收集等功能。采用无代码理念支持开发自定义组件，简单拖拽即可生成表单，完成数据收集。采用 `SpringBoot+Vue+ElementUI` 技术栈，功能强大界面清新，支持一键部署：
 
-也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.com/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease) 
+![tduck-front](https://images-1252557999.file.myqcloud.com/uPic/tduck-front.png)
+
+滴滴也开源了一套轻量、安全的问卷系统基座，提供面向个人和企业的一站式产品级解决方案，快速满足各类线上调研场景👉[xiaoju-survey](https://github.com/didi/xiaoju-survey)。 
 
 ## 🤖 软件 
 
-### [XcodesApp](https://github.com/XcodesOrg/XcodesApp)
+### [libpag](https://github.com/Tencent/libpag)
 
-通过鼠标点击这种简单方式，快速安装和切换多个版本的 `Xcode`：
+`libpag` 是 PAG (Portable Animated Graphics) 动效文件的渲染 SDK，目前已覆盖几乎所有的主流平台，包括：iOS, Android, macOS, Windows, Linux, 以及 Web 端。
 
-![XcodesApp](https://images-1252557999.file.myqcloud.com/uPic/XcodesApp.jpg) 
+PAG 方案是一套完善的动效工作流。提供从 AE（Adobe After Effects）导出插件，到桌面预览工具 PAGViewer，再到各端的跨平台渲染 SDK。 目标是降低或消除动效研发相关的成本，打通设计师创作到素材交付上线的极简流程，不断输出运行时可编辑的高质量动效内容:
 
-### [kopia](https://github.com/kopia/kopia)
+![libpag](https://images-1252557999.file.myqcloud.com/uPic/libpag.jpg) 
 
-跨平台备份/还原工具，它能够将指定的文件和目录加密压缩后生成快照，然后上传到远程服务器或云存储，实现远程备份数据的功能，开箱即用支持命令行和 `GUI` 两种使用方式：
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 
-![kopia](https://images-1252557999.file.myqcloud.com/uPic/kopia.webp) 
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
 
-### [Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT)
+![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
 
-一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频:
+### [ambie](https://github.com/jenius-apps/ambie)
 
-![Chenyme-AAVT](https://images-1252557999.file.myqcloud.com/uPic/Chenyme-AAVT.jpg) 
+针对 `Windows` 平台的白噪音应用，挺多自然界声音，可以帮助你提升生产力：
+
+![ambie](https://images-1252557999.file.myqcloud.com/uPic/ambie.jpg) 
 
 ## 👀 资料 
 
-### [paper-reading](https://github.com/mli/paper-reading)
+### [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+微软免费课程：12堂课入门生成式AI，从而开始构建你自己的生成式人工智能应用程序：
 
-![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
+![generative-ai-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/generative-ai-for-beginners.png) 
 
-### [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/index.html)
+### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
-Beej 的 Git 指南教程：
+清华大学计算机系课程攻略：
 
-![Beejgit](https://images-1252557999.file.myqcloud.com/uPic/UAP5Fj.png)
+![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
 
-之前推荐过[Beej 的 C 语言超级指南](https://beej.us/guide/bgc/html/split/)，从入门到进阶，基础语法到高级特性：
+### [learn-javascript](https://github.com/sumn2u/learn-javascript)
 
-![Beej](https://images-1252557999.file.myqcloud.com/uPic/1XOLrv.png) 
+学习 `javascript` 的开源书籍：
 
-### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
-
-非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
+![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
 
 ## 🕸 网站 
 
-### [linegraphmaker](https://linegraphmaker.co/)
+### [0v0.ai](https://0v0.ai/rmbg/)
 
-在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
+图片背景移除网站：
 
-![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
+![0v0](https://images-1252557999.file.myqcloud.com/uPic/0v0.jpg) 
 
-### [favoree.io](https://www.favoree.io/)
+### [staticrypt](https://github.com/robinmoisson/staticrypt)
 
-`YT` 频道探索发现导航网站，做得很精细，用户可以对频道进行评分和评论，这有助于构建一个由社区驱动的信任体系。网站提供了简单的过滤器，使用户能够根据兴趣、内容质量、视频时长和观众情绪等因素来搜索和发现新的频道和视频。
+一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
 
-![favoree](https://images-1252557999.file.myqcloud.com/uPic/favoree.jpg) 
+![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
 
-### [theonestopradio](https://theonestopradio.com/)
+### [batnoter](https://batnoter.com/)
 
-发现你可能喜欢的电台：
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
 ## ✍️ 说明
 
