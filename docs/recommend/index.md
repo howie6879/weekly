@@ -5,87 +5,85 @@
 
 ## 🎯 项目 
 
-### [WeChatMsg](https://github.com/LC044/WeChatMsg)
+### [v2rayA](https://github.com/v2rayA/v2rayA)
 
-提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告：
+`v2rayA` 是一个支持全局透明代理的 `V2Ray` 客户端，同时兼容 `SS、SSR、Trojan(trojan-go)、Tuic & Juicity` 协议， 致力于提供最简单的操作，满足绝大部分需求，得益于 Web 客户端的优势，你不仅可以将其用于本地计算机，还可以轻松地将它部署在路由器或 NAS 上。
 
-![WeChatMsg](https://images-1252557999.file.myqcloud.com/uPic/WeChatMsg.png) 
+![v2rayA](https://images-1252557999.file.myqcloud.com/uPic/v2rayA.png) 
 
-### [Flowise](https://github.com/FlowiseAI/Flowise)
+### [ml4a](https://github.com/ml4a/ml4a)
 
-基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
+`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
 
-![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
+![ml4a](https://images-1252557999.file.myqcloud.com/uPic/ml4a.jpg) 
 
-### [tduck-front](https://github.com/TDuckCloud/tduck-front)
+### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
 
-`Tduck` 填鸭表单是一款自定义表单工具，支持问卷调查、数据收集等功能。采用无代码理念支持开发自定义组件，简单拖拽即可生成表单，完成数据收集。采用 `SpringBoot+Vue+ElementUI` 技术栈，功能强大界面清新，支持一键部署：
+最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
 
-![tduck-front](https://images-1252557999.file.myqcloud.com/uPic/tduck-front.png)
-
-滴滴也开源了一套轻量、安全的问卷系统基座，提供面向个人和企业的一站式产品级解决方案，快速满足各类线上调研场景👉[xiaoju-survey](https://github.com/didi/xiaoju-survey)。 
+- 提取文本
+- 提取图片
+- 提取表格
+- 提取链接
+- 对PDF进行相关编辑操作 
 
 ## 🤖 软件 
 
-### [libpag](https://github.com/Tencent/libpag)
+### [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
-`libpag` 是 PAG (Portable Animated Graphics) 动效文件的渲染 SDK，目前已覆盖几乎所有的主流平台，包括：iOS, Android, macOS, Windows, Linux, 以及 Web 端。
+使用**HWID/Ohook/KMS38/在线KMS**激活方法的 Windows 和 Office 激活工具，注重开源代码和较少的杀毒软件检测：
 
-PAG 方案是一套完善的动效工作流。提供从 AE（Adobe After Effects）导出插件，到桌面预览工具 PAGViewer，再到各端的跨平台渲染 SDK。 目标是降低或消除动效研发相关的成本，打通设计师创作到素材交付上线的极简流程，不断输出运行时可编辑的高质量动效内容:
+![Microsoft-Activation-Scripts](https://images-1252557999.file.myqcloud.com/uPic/Microsoft-Activation-Scripts.jpg) 
 
-![libpag](https://images-1252557999.file.myqcloud.com/uPic/libpag.jpg) 
+### [materialYouNewTab](https://github.com/XengShi/materialYouNewTab)
 
-### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
+一个简单的新标签（浏览器主页）插件，灵感来自谷歌的 MD 设计，挺漂亮的：
 
-中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
+![materialYouNewTab](https://images-1252557999.file.myqcloud.com/uPic/MWwtoG.png) 
 
-![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
+### [Applite](https://github.com/milanvarady/Applite "Applite")
 
-### [ambie](https://github.com/jenius-apps/ambie)
+`Applite` 为 `Homebrew Cask` 提供了一个图形化界面，实现一键安装、更新和卸载应用：
 
-针对 `Windows` 平台的白噪音应用，挺多自然界声音，可以帮助你提升生产力：
-
-![ambie](https://images-1252557999.file.myqcloud.com/uPic/ambie.jpg) 
+![Applite](https://images-1252557999.file.myqcloud.com/uPic/Applite.png) 
 
 ## 👀 资料 
 
-### [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
-微软免费课程：12堂课入门生成式AI，从而开始构建你自己的生成式人工智能应用程序：
+一个在YouTube上发现最新机器学习课程的项目。 
 
-![generative-ai-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/generative-ai-for-beginners.png) 
+### [whys-the-design](https://draven.co/whys-the-design/)
 
-### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
 
-清华大学计算机系课程攻略：
+![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
 
-![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
+### [rework](https://github.com/livid/rework)
 
-### [learn-javascript](https://github.com/sumn2u/learn-javascript)
+这是一本来自 `37signals` 的关于商业和创意执行的书，由 `OLIVIDA` 翻译，在线阅读地址见[这里](https://www.v2ex.com/rework)：
 
-学习 `javascript` 的开源书籍：
-
-![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
+![rework](https://images-1252557999.file.myqcloud.com/uPic/rework.jpg) 
 
 ## 🕸 网站 
 
-### [0v0.ai](https://0v0.ai/rmbg/)
+### [熊猫速读](https://qread.xmsoushu.com/)
 
-图片背景移除网站：
+熊猫速读是一个收集精品视频读书笔记或好书分享的网站！为您推荐好书速读的视频，在您读一本书或者购买图书之前通过视频介绍先快速了解书籍的内容，根据兴趣再决定是否购买。
 
-![0v0](https://images-1252557999.file.myqcloud.com/uPic/0v0.jpg) 
+![xmsd](https://images-1252557999.file.myqcloud.com/uPic/xmsd.jpg) 
 
-### [staticrypt](https://github.com/robinmoisson/staticrypt)
+### [红白机游戏盒](https://nes.heheda.top/ "红白机游戏盒")
 
-一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
+在线畅玩经典小游戏：
 
-![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
+![heheda](https://images-1252557999.file.myqcloud.com/uPic/heheda.jpg) 
 
-### [batnoter](https://batnoter.com/)
+### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+中国少年儿童新闻出版总社免费开放的少儿绘本网站：
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
 
 ## ✍️ 说明
 
