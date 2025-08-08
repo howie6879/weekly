@@ -5,85 +5,83 @@
 
 ## 🎯 项目 
 
-### [v2rayA](https://github.com/v2rayA/v2rayA)
+### [tabler](https://github.com/tabler/tabler)
 
-`v2rayA` 是一个支持全局透明代理的 `V2Ray` 客户端，同时兼容 `SS、SSR、Trojan(trojan-go)、Tuic & Juicity` 协议， 致力于提供最简单的操作，满足绝大部分需求，得益于 Web 客户端的优势，你不仅可以将其用于本地计算机，还可以轻松地将它部署在路由器或 NAS 上。
+基于 `Bootstrap` 的免费开源的 `Dashboard UI` 工具包：
 
-![v2rayA](https://images-1252557999.file.myqcloud.com/uPic/v2rayA.png) 
+![tabler-preview](https://images-1252557999.file.myqcloud.com/uPic/tabler-preview.png) 
 
-### [ml4a](https://github.com/ml4a/ml4a)
+### [Linux-CN-archive](https://github.com/Linux-CN/archive/releases/tag/release)
 
-`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
+`Linux` 中国所有原创文章的 `Markdown` 内容备份:
 
-![ml4a](https://images-1252557999.file.myqcloud.com/uPic/ml4a.jpg) 
+![linux_cn_archive](https://images-1252557999.file.myqcloud.com/uPic/linux_cn_archive.jpg) 
 
-### [DF-Handling-With-Python](https://github.com/prajwollamichhane11/PDF-Handling-With-Python)
+### [typora_plugin](https://github.com/obgnail/typora_plugin)
 
-最近刚开源的一款PDF编辑工具[基于Python]（这种类型的库比较少见），你可以对PDF：
+开源的 `Typora` 插件，功能增强工具，新增了三十多种功能：
 
-- 提取文本
-- 提取图片
-- 提取表格
-- 提取链接
-- 对PDF进行相关编辑操作 
+![typora_plugin](https://images-1252557999.file.myqcloud.com/uPic/typora_plugin.jpg) 
 
 ## 🤖 软件 
 
-### [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+### [proxypin](https://github.com/wanghongenpin/proxypin)
 
-使用**HWID/Ohook/KMS38/在线KMS**激活方法的 Windows 和 Office 激活工具，注重开源代码和较少的杀毒软件检测：
+基于 Flutter 开发的跨平台抓包软件，界面美观，交互简单：
 
-![Microsoft-Activation-Scripts](https://images-1252557999.file.myqcloud.com/uPic/Microsoft-Activation-Scripts.jpg) 
+![proxypin](https://images-1252557999.file.myqcloud.com/uPic/vGVbRn.png) 
 
-### [materialYouNewTab](https://github.com/XengShi/materialYouNewTab)
+### [wowtab](https://wowtab.microsoft.com/)
 
-一个简单的新标签（浏览器主页）插件，灵感来自谷歌的 MD 设计，挺漂亮的：
+微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：
 
-![materialYouNewTab](https://images-1252557999.file.myqcloud.com/uPic/MWwtoG.png) 
+![wowtab](https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg) 
 
-### [Applite](https://github.com/milanvarady/Applite "Applite")
+### [Responsively](https://github.com/responsively-org/responsively-app)
 
-`Applite` 为 `Homebrew Cask` 提供了一个图形化界面，实现一键安装、更新和卸载应用：
+一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
 
-![Applite](https://images-1252557999.file.myqcloud.com/uPic/Applite.png) 
+![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
 
 ## 👀 资料 
 
-### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+### RustBook
 
-一个在YouTube上发现最新机器学习课程的项目。 
+一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
 
-### [whys-the-design](https://draven.co/whys-the-design/)
+![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg) 
 
-为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
+### [Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
 
-![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
+一些好用的 Dify 工作流集合，括了中英文翻译、知识库聊天、搜索大师、爆款标题、文章仿写、运营一条龙、聊天机器人、代码生成等工作流。 
 
-### [rework](https://github.com/livid/rework)
+### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
 
-这是一本来自 `37signals` 的关于商业和创意执行的书，由 `OLIVIDA` 翻译，在线阅读地址见[这里](https://www.v2ex.com/rework)：
+这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
 
-![rework](https://images-1252557999.file.myqcloud.com/uPic/rework.jpg) 
+该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
+
+![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
 
 ## 🕸 网站 
 
-### [熊猫速读](https://qread.xmsoushu.com/)
+### [rust-search-extension](https://rust.extension.sh/)
 
-熊猫速读是一个收集精品视频读书笔记或好书分享的网站！为您推荐好书速读的视频，在您读一本书或者购买图书之前通过视频介绍先快速了解书籍的内容，根据兴趣再决定是否购买。
+在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
 
-![xmsd](https://images-1252557999.file.myqcloud.com/uPic/xmsd.jpg) 
+![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
 
-### [红白机游戏盒](https://nes.heheda.top/ "红白机游戏盒")
+### [regex.ai](https://regex.ai/)
 
-在线畅玩经典小游戏：
+`regex.ai` 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：
 
-![heheda](https://images-1252557999.file.myqcloud.com/uPic/heheda.jpg) 
+![regex_ai](https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg) 
 
-### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
+### [pixabay](https://pixabay.com/)
 
-中国少年儿童新闻出版总社免费开放的少儿绘本网站：
+`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
 
-![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
+![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
 
 ## ✍️ 说明
 
