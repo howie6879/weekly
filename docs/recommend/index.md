@@ -5,83 +5,97 @@
 
 ## 🎯 项目 
 
-### [tabler](https://github.com/tabler/tabler)
+### [hoppscotch](https://github.com/hoppscotch/hoppscotch)
 
-基于 `Bootstrap` 的免费开源的 `Dashboard UI` 工具包：
+`Hoppscotch`对标的是`Postman`，相信涉及到后端接口这块大家都对`Postman`非常熟悉，但`Postman`自从收费后，评价就慢慢开始不行了，而且软件也越来越重，我本人也是同感，不然我也没有动机找到`hoppscotch`来替换。
 
-![tabler-preview](https://images-1252557999.file.myqcloud.com/uPic/tabler-preview.png) 
+有恶龙就有勇士，有位印度裔小哥`Liyas Thomas`坐不住了，对`Postman`非常不爽，于是他自己开发了`Postwoman`，看这个名字也知道是干嘛的，后面改名为`Hoppscotch`。
 
-### [Linux-CN-archive](https://github.com/Linux-CN/archive/releases/tag/release)
+开源的魅力就在这里，永远有人做出让大家欢呼的贡献，所以`Hoppscotch`在社区获得非常高的认可度（目前已经30K Star+），其提供了非常丰富的特性，部署也很方便，有兴趣的可以尝试使用看看：
 
-`Linux` 中国所有原创文章的 `Markdown` 内容备份:
+![hoppscotch](https://images-1252557999.file.myqcloud.com/uPic/sPde7J.png) 
 
-![linux_cn_archive](https://images-1252557999.file.myqcloud.com/uPic/linux_cn_archive.jpg) 
+### [restic](https://github.com/restic/restic)
 
-### [typora_plugin](https://github.com/obgnail/typora_plugin)
+`Restic` 是一个快速、高效和安全的备份程序。它支持三个主要操作系统（Linux、macOS、Windows）和一些较小众的操作系统（FreeBSD、OpenBSD）
 
-开源的 `Typora` 插件，功能增强工具，新增了三十多种功能：
+![restic](https://images-1252557999.file.myqcloud.com/uPic/restic.jpg) 
 
-![typora_plugin](https://images-1252557999.file.myqcloud.com/uPic/typora_plugin.jpg) 
+### [Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese)
+
+专注于 `Llama` 模型在中文方面的优化和上层建设的高级技术社区，基于大规模中文数据，从预训练开始对 `Llama2` 模型进行中文能力的持续迭代升级，完全开源可商用：
+
+![Llama-Chinese](https://images-1252557999.file.myqcloud.com/uPic/Llama-Chinese.jpg)
+
+![atom_chatbot](https://images-1252557999.file.myqcloud.com/uPic/atom_chatbot.jpg) 
 
 ## 🤖 软件 
 
-### [proxypin](https://github.com/wanghongenpin/proxypin)
+### [dockit](https://github.com/geek-fun/dockit)
 
-基于 Flutter 开发的跨平台抓包软件，界面美观，交互简单：
+一个跨平台的图形用户界面客户端，支持 `Elasticsearch` 和 `Opensearch` 数据库管理。
 
-![proxypin](https://images-1252557999.file.myqcloud.com/uPic/vGVbRn.png) 
+![dockit](https://images-1252557999.file.myqcloud.com/uPic/apAgUR.png) 
 
-### [wowtab](https://wowtab.microsoft.com/)
+### [PicList](https://github.com/Kuingsmile/PicList)
 
-微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：
+`PicList` 是一款高效的跨平台云存储和图床平台管理工具，在 `PicGo` 的基础上经过深度的二次开发，不仅完整保留了 `PicGo` 的所有功能，还增添了许多新的特性：例如：
 
-![wowtab](https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg) 
+- 相册支持同步云端删除文件
+- 内置图床额外添加了 `WebDav`、本地图床和 `SFTP`
+- 增加了完整的云存储管理功能
+- 等等
 
-### [Responsively](https://github.com/responsively-org/responsively-app)
+![PicList](https://images-1252557999.file.myqcloud.com/uPic/PicList.jpg) 
 
-一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
+### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
 
-![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
+免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
+
+![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
 
 ## 👀 资料 
 
-### RustBook
+### [开源软件指南](https://opensource.guide/zh-hans/)
 
-一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
+GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
 
-![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg) 
+![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
 
-### [Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
+### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
 
-一些好用的 Dify 工作流集合，括了中英文翻译、知识库聊天、搜索大师、爆款标题、文章仿写、运营一条龙、聊天机器人、代码生成等工作流。 
+从零开始学习Kubernetes的路线图（初级到高级）：
 
-### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
+![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
 
-这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
+### [developer2gwy](https://github.com/miss-mumu/developer2gwy)
 
-该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
+公务员从入门到上岸，最佳程序员公考实践教程，一份开源公务员考试的最佳实践指南，一部解构体制工作生活的说明手册：
 
-![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
+![developer2gwy](https://images-1252557999.file.myqcloud.com/uPic/developer2gwy.jpg) 
 
 ## 🕸 网站 
 
-### [rust-search-extension](https://rust.extension.sh/)
+### [tgscan](https://tgscan.xyz/)
 
-在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
+免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
 
-![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
+- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
+- 网页：[tgscan.xyz](https://tgscan.xyz/)
 
-### [regex.ai](https://regex.ai/)
+![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
 
-`regex.ai` 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：
+### [send.internxt.com](https://send.internxt.com/)
 
-![regex_ai](https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg) 
+文件上传分享网站，如果有临时文件传输的场景，可以使用：
 
-### [pixabay](https://pixabay.com/)
+![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
 
-`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
+### [极简番茄](https://t.kuaitu.cc/)
 
-![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
+极简优雅的番茄时钟软件，适合做屏保：
+
+![kuaitu](https://images-1252557999.file.myqcloud.com/uPic/kuaitu.jpg) 
 
 ## ✍️ 说明
 
