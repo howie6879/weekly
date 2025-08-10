@@ -5,97 +5,100 @@
 
 ## 🎯 项目 
 
-### [hoppscotch](https://github.com/hoppscotch/hoppscotch)
+### [pi-hole](https://pi-hole.net/)
 
-`Hoppscotch`对标的是`Postman`，相信涉及到后端接口这块大家都对`Postman`非常熟悉，但`Postman`自从收费后，评价就慢慢开始不行了，而且软件也越来越重，我本人也是同感，不然我也没有动机找到`hoppscotch`来替换。
+一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
 
-有恶龙就有勇士，有位印度裔小哥`Liyas Thomas`坐不住了，对`Postman`非常不爽，于是他自己开发了`Postwoman`，看这个名字也知道是干嘛的，后面改名为`Hoppscotch`。
+![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
 
-开源的魅力就在这里，永远有人做出让大家欢呼的贡献，所以`Hoppscotch`在社区获得非常高的认可度（目前已经30K Star+），其提供了非常丰富的特性，部署也很方便，有兴趣的可以尝试使用看看：
+### [OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki)
 
-![hoppscotch](https://images-1252557999.file.myqcloud.com/uPic/sPde7J.png) 
+`OpenDeepWiki` 是基于[DeepWiki](https://deepwiki.org)项目的开源版本，旨于提供一个强大的知识管理和协作平台:
 
-### [restic](https://github.com/restic/restic)
+![OpenDeepWiki](https://images-1252557999.file.myqcloud.com/uPic/iIA8BQ.png) 
 
-`Restic` 是一个快速、高效和安全的备份程序。它支持三个主要操作系统（Linux、macOS、Windows）和一些较小众的操作系统（FreeBSD、OpenBSD）
+### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
 
-![restic](https://images-1252557999.file.myqcloud.com/uPic/restic.jpg) 
+`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
 
-### [Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese)
-
-专注于 `Llama` 模型在中文方面的优化和上层建设的高级技术社区，基于大规模中文数据，从预训练开始对 `Llama2` 模型进行中文能力的持续迭代升级，完全开源可商用：
-
-![Llama-Chinese](https://images-1252557999.file.myqcloud.com/uPic/Llama-Chinese.jpg)
-
-![atom_chatbot](https://images-1252557999.file.myqcloud.com/uPic/atom_chatbot.jpg) 
+![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
 
 ## 🤖 软件 
 
-### [dockit](https://github.com/geek-fun/dockit)
+### [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
 
-一个跨平台的图形用户界面客户端，支持 `Elasticsearch` 和 `Opensearch` 数据库管理。
+旨在为不受苹果支持的 `Mac` 提供 `macOS Big Sur` 等更新版本的安装和使用，让你的旧 Mac 电脑可以体验最新的 macOS 系统：
 
-![dockit](https://images-1252557999.file.myqcloud.com/uPic/apAgUR.png) 
+![OpenCore-Legacy-Patcher](https://images-1252557999.file.myqcloud.com/uPic/OpenCore-Legacy-Patcher.jpg) 
 
-### [PicList](https://github.com/Kuingsmile/PicList)
+### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
 
-`PicList` 是一款高效的跨平台云存储和图床平台管理工具，在 `PicGo` 的基础上经过深度的二次开发，不仅完整保留了 `PicGo` 的所有功能，还增添了许多新的特性：例如：
+基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
 
-- 相册支持同步云端删除文件
-- 内置图床额外添加了 `WebDav`、本地图床和 `SFTP`
-- 增加了完整的云存储管理功能
-- 等等
+- 干净简洁的UI
+- 内置效果可实现准确的男声和女声
+- 创建&加载自定义预设的能力
+- 创建自己的临时虚拟输入设备
 
-![PicList](https://images-1252557999.file.myqcloud.com/uPic/PicList.jpg) 
+![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
 
-### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
+### [orange](https://github.com/naaive/orange)
 
-免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
+基于`Rust`跨平台的文件搜索引擎：
 
-![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
+![Orange](https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg) 
 
 ## 👀 资料 
 
-### [开源软件指南](https://opensource.guide/zh-hans/)
+### [newsletter-list](https://github.com/chasays/newsletter-list)
 
-GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
 
-![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
+- 互联网和科技
+- 成长和思考
+- 工具和效率 
 
-### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-从零开始学习Kubernetes的路线图（初级到高级）：
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
+![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
 
-### [developer2gwy](https://github.com/miss-mumu/developer2gwy)
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-公务员从入门到上岸，最佳程序员公考实践教程，一份开源公务员考试的最佳实践指南，一部解构体制工作生活的说明手册：
+深度学习入门教程资料聚合项目，包含：
 
-![developer2gwy](https://images-1252557999.file.myqcloud.com/uPic/developer2gwy.jpg) 
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
+
+![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
+
+![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
 
 ## 🕸 网站 
 
-### [tgscan](https://tgscan.xyz/)
+### [dev.to](https://dev.to/)
 
-免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
+国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
 
-- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
-- 网页：[tgscan.xyz](https://tgscan.xyz/)
+![dev_to](https://images-1252557999.file.myqcloud.com/uPic/dev_to.png) 
 
-![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
+### [短剧搜索引擎](https://www.fre123.com/sp?ref=weekly)
 
-### [send.internxt.com](https://send.internxt.com/)
+比较全面的短剧搜索引擎，数据在夸克网盘，转存即可免费观看全部：
 
-文件上传分享网站，如果有临时文件传输的场景，可以使用：
+![sp](https://images-1252557999.file.myqcloud.com/uPic/sp.jpg) 
 
-![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
+### [aicodeconvert](https://aicodeconvert.com/)
 
-### [极简番茄](https://t.kuaitu.cc/)
+[开源](https://github.com/JustAIGithub/AI-Code-Convert)的的 `AI` 代码转换工具，基于 `GPT` 实现：
 
-极简优雅的番茄时钟软件，适合做屏保：
+- 自然语言转代码，描述需求就生成对应的代码
+- 把代码一键转换为另一种代码语言实现
 
-![kuaitu](https://images-1252557999.file.myqcloud.com/uPic/kuaitu.jpg) 
+![aicodeconvert](https://images-1252557999.file.myqcloud.com/uPic/aicodeconvert.jpg) 
 
 ## ✍️ 说明
 
