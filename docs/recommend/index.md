@@ -5,100 +5,102 @@
 
 ## 🎯 项目 
 
-### [pi-hole](https://pi-hole.net/)
+### [UIGEN-T1.1-Qwen-14B](https://huggingface.co/smirki/UIGEN-T1.1-Qwen-14)
 
-一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
+用于生成前端 `UI` 布局的模型，它具有 140 亿个参数，基于 `wen2.5-Coder-14B-Instruct` 进行微调，它旨在进行基于推理的 `UI` 生成，利用复杂的思维链方法来生成基于 HTML&CSS 代码。目前，它仅限于基本应用，如仪表板、着陆页和注册表单：
 
-![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
+![UIGEN-T1.1-Qwen-14B](https://images-1252557999.file.myqcloud.com/uPic/7lYYyz.png) 
 
-### [OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki)
+### [showdoc](https://github.com/star7th/showdoc)
 
-`OpenDeepWiki` 是基于[DeepWiki](https://deepwiki.org)项目的开源版本，旨于提供一个强大的知识管理和协作平台:
+一个非常适合IT团队的在线API文档、技术文档工具:
 
-![OpenDeepWiki](https://images-1252557999.file.myqcloud.com/uPic/iIA8BQ.png) 
+![showdoc](https://images-1252557999.file.myqcloud.com/uPic/showdoc.jpg) 
 
-### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
+### [gemini-cli](https://github.com/google-gemini/gemini-cli)
 
-`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
-
-![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
+`Gemini CLI`  是谷歌开源的 `AI` 编程工具，目前来看可以说是免费的：每分钟 60 次请求，每天 1000 次请求：
+ 
+![gemini-cli](https://images-1252557999.file.myqcloud.com/uPic/Zs1LrM.png) 
 
 ## 🤖 软件 
 
-### [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
+### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
 
-旨在为不受苹果支持的 `Mac` 提供 `macOS Big Sur` 等更新版本的安装和使用，让你的旧 Mac 电脑可以体验最新的 macOS 系统：
+超方便的微信视频号下载器：
 
-![OpenCore-Legacy-Patcher](https://images-1252557999.file.myqcloud.com/uPic/OpenCore-Legacy-Patcher.jpg) 
+- 支持实时捕获视频号的视频地址
+- 捕获后，可进行预览和下载
+- 支持 Win/Mac
 
-### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
+![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
 
-基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
+### [breezy-weather](https://github.com/breezy-weather/breezy-weather/)
 
-- 干净简洁的UI
-- 内置效果可实现准确的男声和女声
-- 创建&加载自定义预设的能力
-- 创建自己的临时虚拟输入设备
+`Breezy Weather` 是一款全面采用 `Material Design` 设计风格的天气应用，其注重设计，UI简洁，动画效果流畅：
 
-![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
+![breezy-weather](https://images-1252557999.file.myqcloud.com/uPic/breezy-weather.jpg) 
 
-### [orange](https://github.com/naaive/orange)
+### [TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer)
 
-基于`Rust`跨平台的文件搜索引擎：
+音乐播放器模仿酷狗，基于 `Qt` 和 `Qmmp` 库开发，支持 `Windows` 和 `Linux` 平台(支持网易云音乐、酷我音乐、酷狗音乐):
 
-![Orange](https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg) 
+![TTKMusicPlayer](https://images-1252557999.file.myqcloud.com/uPic/TTKMusicPlayer.jpeg) 
 
 ## 👀 资料 
 
-### [newsletter-list](https://github.com/chasays/newsletter-list)
+### [sideproject](https://sideproject.guide/)
 
-有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
+`Side Project` 指南：
 
-- 互联网和科技
-- 成长和思考
-- 工具和效率 
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
 
-### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
 
-这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
 
-深度学习入门教程资料聚合项目，包含：
+### [mastering-bitcoin-3rd](https://github.com/berryjam/mastering-bitcoin-3rd)
 
-- 数学基础
-- 机器学习基础
-- 深度学习基础
-- 工程能力
+《精通比特币》第三版翻译：
 
-![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
-
-![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
+![mastering-bitcoin-3rd](https://images-1252557999.file.myqcloud.com/uPic/ZwD0Jl.png) 
 
 ## 🕸 网站 
 
-### [dev.to](https://dev.to/)
+### [readecho.cn](https://readecho.cn/)
 
-国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
+只需几步轻松获取并保存微信读书笔记，自定义你的笔记回顾方式，不错过每一个阅读瞬间，[前端代码开源](https://github.com/mundane799699/readecho-web)：
 
-![dev_to](https://images-1252557999.file.myqcloud.com/uPic/dev_to.png) 
+![readecho](https://images-1252557999.file.myqcloud.com/uPic/readecho.jpg) 
 
-### [短剧搜索引擎](https://www.fre123.com/sp?ref=weekly)
+### [json4u](https://json4u.cn/)
 
-比较全面的短剧搜索引擎，数据在夸克网盘，转存即可免费观看全部：
+一个功能非常强大的 json 可视化和处理工具，提供图形和表格视图模式，支持结构化和文本比较、错误上下文验证、嵌套解析等功能，并且具有用户友好的界面设计：
 
-![sp](https://images-1252557999.file.myqcloud.com/uPic/sp.jpg) 
+- 图形和表格视图模式
+- 结构化和文本比较
+- 使用错误上下文进行验证
+- 嵌套解析
+- 支持jq
+- 导入和导出CSV文件
+- 设计良好且易于使用的UI
 
-### [aicodeconvert](https://aicodeconvert.com/)
+![json4u](https://images-1252557999.file.myqcloud.com/uPic/gr5lnQ.png)
 
-[开源](https://github.com/JustAIGithub/AI-Code-Convert)的的 `AI` 代码转换工具，基于 `GPT` 实现：
+代码是[开源](https://github.com/loggerhead/json4u/)的。 
 
-- 自然语言转代码，描述需求就生成对应的代码
-- 把代码一键转换为另一种代码语言实现
+### [macosicongallery](https://www.macosicongallery.com/)
 
-![aicodeconvert](https://images-1252557999.file.myqcloud.com/uPic/aicodeconvert.jpg) 
+专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
+
+![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
 
 ## ✍️ 说明
 
