@@ -5,102 +5,123 @@
 
 ## 🎯 项目 
 
-### [UIGEN-T1.1-Qwen-14B](https://huggingface.co/smirki/UIGEN-T1.1-Qwen-14)
+### [Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals)
 
-用于生成前端 `UI` 布局的模型，它具有 140 亿个参数，基于 `wen2.5-Coder-14B-Instruct` 进行微调，它旨在进行基于推理的 `UI` 生成，利用复杂的思维链方法来生成基于 HTML&CSS 代码。目前，它仅限于基本应用，如仪表板、着陆页和注册表单：
+黑五 Mac IOS 生态相关软件打折软件汇总项目：
 
-![UIGEN-T1.1-Qwen-14B](https://images-1252557999.file.myqcloud.com/uPic/7lYYyz.png) 
+![Black-Friday-Deals](https://images-1252557999.file.myqcloud.com/uPic/Black-Friday-Deals.png) 
 
-### [showdoc](https://github.com/star7th/showdoc)
+### [Seanium/FeedMe](https://github.com/Seanium/FeedMe)
 
-一个非常适合IT团队的在线API文档、技术文档工具:
+用 AI 重新定义你的 RSS 阅读体验，轻松部署到 `GitHub Pages / Docker`：
 
-![showdoc](https://images-1252557999.file.myqcloud.com/uPic/showdoc.jpg) 
+- 希望能够一站式了解各个信息源的新鲜事。又嫌市面上产品太"重"（不想注册登录/下载 APP/启动桌面软件...），一个静态页面正合适（响应式 / 亮暗主题，电脑手机都方便浏览）。
+- 希望能够 TLDR 式地速览，于是做了 AI 摘要。
+- 自由配置 RSS 源、AI 模型、更新频率。
+- 开源、方便 Fork、零成本、轻松自部署。
 
-### [gemini-cli](https://github.com/google-gemini/gemini-cli)
+![Seanium/FeedMe](https://images-1252557999.file.myqcloud.com/uPic/ZPhvme.png) 
 
-`Gemini CLI`  是谷歌开源的 `AI` 编程工具，目前来看可以说是免费的：每分钟 60 次请求，每天 1000 次请求：
- 
-![gemini-cli](https://images-1252557999.file.myqcloud.com/uPic/Zs1LrM.png) 
+### [pingvin-share](https://github.com/stonith404/pingvin-share)
+
+`Pingvin Share` 是一个可自建的文件分享平台，是 `WeTransfer` 的一个替代品：
+
+- 通过可自定义后缀的链接分享文件
+- 可自定义任意大小的文件上传限制 (受制于托管所在的硬盘大小)
+- 对共享链接设置有效期限
+- 对共享链接设置访问次数和访问密码
+- 通过邮件自动发送共享链接
+- 整合 ClamAV 进行反病毒检查
+
+![pingvin-share](https://images-1252557999.file.myqcloud.com/uPic/pingvin-share.png)
+还有个类似的开源项目[奶油快传-bitiful/send](https://github.com/bitiful/send)，相对轻量，但也没有 `pingvin-share` 成熟：
+
+![bitiful](https://images-1252557999.file.myqcloud.com/uPic/bitiful.jpg) 
 
 ## 🤖 软件 
 
-### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
+### [onepoint](https://github.com/onepointAI/onepoint)
 
-超方便的微信视频号下载器：
+Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
 
-- 支持实时捕获视频号的视频地址
-- 捕获后，可进行预览和下载
-- 支持 Win/Mac
+借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
 
-![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
+![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
 
-### [breezy-weather](https://github.com/breezy-weather/breezy-weather/)
+### [SPlayer](https://github.com/imsyy/SPlayer)
 
-`Breezy Weather` 是一款全面采用 `Material Design` 设计风格的天气应用，其注重设计，UI简洁，动画效果流畅：
+一个简约的音乐播放器（基于网易云音乐），支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配：
 
-![breezy-weather](https://images-1252557999.file.myqcloud.com/uPic/breezy-weather.jpg) 
+![SPlayer](https://images-1252557999.file.myqcloud.com/uPic/SPlayer.jpeg)
 
-### [TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer)
+还有开发者基于此项目做了二开👉[GSQZ/TuneFree](https://github.com/GSQZ/TuneFree)，特点是可解析并播放网易云音乐中所有的付费资源。 
 
-音乐播放器模仿酷狗，基于 `Qt` 和 `Qmmp` 库开发，支持 `Windows` 和 `Linux` 平台(支持网易云音乐、酷我音乐、酷狗音乐):
+### [UU 浏览器](https://www.uukei.com/help/?p=h)
 
-![TTKMusicPlayer](https://images-1252557999.file.myqcloud.com/uPic/TTKMusicPlayer.jpeg) 
+> UU浏览器在满足用户的需求上，延续了谷歌的简洁，摒弃了如 Edge 过多功能的臃肿。
+
+这是老胡的朋友，独立开发运营两三年的一款浏览器，主打纯净美观&个性化，核心功能点如下：
+
+- 优化去冗余、内存占用少
+- 简洁高效率、年轻个性化
+- 最大程度隐私安全
+- 纯净不打扰
+
+在以上基本特性持续开发小功能提升用户效率，大家可以提意见哈：
+
+- 💫 自带整页翻译
+- 📚 灵活新标签页
+- 📋 多功能侧边栏
+- 🧩 扩展安装方便
+- 📟 夜间护眼模式
+- 📈 多线程下载
+- 👉 支持鼠标手势
+- ✔️ 网页一键保存为图片或PDF
+
+![uu](https://images-1252557999.file.myqcloud.com/uPic/uu.jpg)
+
+有兴趣欢迎了解体验👉[UU 浏览器](https://www.uukei.com/help/?p=h) 
 
 ## 👀 资料 
 
-### [sideproject](https://sideproject.guide/)
+### [TuringCourses](https://github.com/ZJU-Turing/TuringCourses)
 
-`Side Project` 指南：
+浙江大学图灵班各门课程的学习指南以及学习资源。
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+- 主站：https://ZJU-Turing.github.io/TuringCourses/
+- 存档站（CS/AI/IS 三专业版）：https://zju-turing.github.io/TuringCoursesGrave/ 
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+### [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare)
 
-### [miaosha](https://github.com/qiurunze123/miaosha)
+⛅️ 精选的 `Cloudflare` 工具、开源项目、指南、博客和其他资源列表，带你玩转 `Cloudflare`：
 
-高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
+![awesome-cloudflare](https://images-1252557999.file.myqcloud.com/uPic/12CbEQ.png) 
 
-![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
+### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
 
-### [mastering-bitcoin-3rd](https://github.com/berryjam/mastering-bitcoin-3rd)
+陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
 
-《精通比特币》第三版翻译：
-
-![mastering-bitcoin-3rd](https://images-1252557999.file.myqcloud.com/uPic/ZwD0Jl.png) 
+![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
 
 ## 🕸 网站 
 
-### [readecho.cn](https://readecho.cn/)
+### [drawl.ink](https://drawl.ink/)
 
-只需几步轻松获取并保存微信读书笔记，自定义你的笔记回顾方式，不错过每一个阅读瞬间，[前端代码开源](https://github.com/mundane799699/readecho-web)：
+将链接转化成好看的图片：
 
-![readecho](https://images-1252557999.file.myqcloud.com/uPic/readecho.jpg) 
+![drawl](https://images-1252557999.file.myqcloud.com/uPic/eltzuF.png) 
 
-### [json4u](https://json4u.cn/)
+### [gcopy](https://gcopy.rutron.net/zh)
 
-一个功能非常强大的 json 可视化和处理工具，提供图形和表格视图模式，支持结构化和文本比较、错误上下文验证、嵌套解析等功能，并且具有用户友好的界面设计：
+一个剪切板同步的工具, 支持文字、截图和文件，使用 `Golang` 和 `Nextjs` 开发. 完全[开源](https://github.com/llaoj/gcopy)，`GCopy` 重视您的数据隐私, 不持久化存储您的数据, 它们都在内存中 `24h` 自动删除：
 
-- 图形和表格视图模式
-- 结构化和文本比较
-- 使用错误上下文进行验证
-- 嵌套解析
-- 支持jq
-- 导入和导出CSV文件
-- 设计良好且易于使用的UI
+![gcopy](https://images-1252557999.file.myqcloud.com/uPic/gcopy.jpg) 
 
-![json4u](https://images-1252557999.file.myqcloud.com/uPic/gr5lnQ.png)
+### [huggingface-spaces](https://huggingface.co/spaces)
 
-代码是[开源](https://github.com/loggerhead/json4u/)的。 
+`Hugging Face Spaces`  导航。内含 30 个 AI 分类，超 40 万个 Space，支持自然语言搜索功能：
 
-### [macosicongallery](https://www.macosicongallery.com/)
-
-专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
-
-![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
+![huggingface-spaces](https://images-1252557999.file.myqcloud.com/uPic/jG93mK.png) 
 
 ## ✍️ 说明
 
