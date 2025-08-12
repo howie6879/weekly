@@ -5,123 +5,93 @@
 
 ## 🎯 项目 
 
-### [Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals)
+### [pdf-craft](https://github.com/oomol-lab/pdf-craft)
 
-黑五 Mac IOS 生态相关软件打折软件汇总项目：
+`PDF Craft` 可以将 `PDF` 文件转化为各种其他格式，该项目将专注于扫描书籍的 `PDF` 文件的处理：
 
-![Black-Friday-Deals](https://images-1252557999.file.myqcloud.com/uPic/Black-Friday-Deals.png) 
+![pdf-craft](https://images-1252557999.file.myqcloud.com/uPic/7Gx8lB.png) 
 
-### [Seanium/FeedMe](https://github.com/Seanium/FeedMe)
+### [TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
 
-用 AI 重新定义你的 RSS 阅读体验，轻松部署到 `GitHub Pages / Docker`：
+「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。
 
-- 希望能够一站式了解各个信息源的新鲜事。又嫌市面上产品太"重"（不想注册登录/下载 APP/启动桌面软件...），一个静态页面正合适（响应式 / 亮暗主题，电脑手机都方便浏览）。
-- 希望能够 TLDR 式地速览，于是做了 AI 摘要。
-- 自由配置 RSS 源、AI 模型、更新频率。
-- 开源、方便 Fork、零成本、轻松自部署。
+![TidGi-Desktop](https://images-1252557999.file.myqcloud.com/uPic/TidGi-Desktop.jpg)
 
-![Seanium/FeedMe](https://images-1252557999.file.myqcloud.com/uPic/ZPhvme.png) 
+个人笔记记录这块老胡还在坚挺着使用 [Joplin](https://github.com/laurent22/joplin)，如果有特别推荐的可以评论推荐下。 
 
-### [pingvin-share](https://github.com/stonith404/pingvin-share)
+### [outline](https://github.com/outline/outline)
 
-`Pingvin Share` 是一个可自建的文件分享平台，是 `WeTransfer` 的一个替代品：
+使用 `React &Node.js` 构建的协作知识库，支持团队协作，样式美观，可自建：
 
-- 通过可自定义后缀的链接分享文件
-- 可自定义任意大小的文件上传限制 (受制于托管所在的硬盘大小)
-- 对共享链接设置有效期限
-- 对共享链接设置访问次数和访问密码
-- 通过邮件自动发送共享链接
-- 整合 ClamAV 进行反病毒检查
-
-![pingvin-share](https://images-1252557999.file.myqcloud.com/uPic/pingvin-share.png)
-还有个类似的开源项目[奶油快传-bitiful/send](https://github.com/bitiful/send)，相对轻量，但也没有 `pingvin-share` 成熟：
-
-![bitiful](https://images-1252557999.file.myqcloud.com/uPic/bitiful.jpg) 
+![outline](https://images-1252557999.file.myqcloud.com/uPic/outline.jpg) 
 
 ## 🤖 软件 
 
-### [onepoint](https://github.com/onepointAI/onepoint)
+### [linkandroid](https://github.com/modstart-lib/linkandroid)
 
-Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
+全能手机连接助手，方便快捷的连接 Android 和电脑，连接手机后可投屏、GIF/MP4录屏、截屏、文件管理、手机操作等功能：
 
-借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
+![linkandroid](https://images-1252557999.file.myqcloud.com/uPic/R9oZa7.png) 
 
-![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
+### [NanaZip](https://github.com/M2Team/NanaZip)
 
-### [SPlayer](https://github.com/imsyy/SPlayer)
+`NanaZip` 是一个面向现代 `Windows` 体验的开源文件压缩工具，基于知名的开源文件压缩工具 `7-Zip` 的源代码：
 
-一个简约的音乐播放器（基于网易云音乐），支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配：
+![NanaZip](https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg) 
 
-![SPlayer](https://images-1252557999.file.myqcloud.com/uPic/SPlayer.jpeg)
+### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
 
-还有开发者基于此项目做了二开👉[GSQZ/TuneFree](https://github.com/GSQZ/TuneFree)，特点是可解析并播放网易云音乐中所有的付费资源。 
+`Android` 平台下 `MD` 风格的文件管理器:
 
-### [UU 浏览器](https://www.uukei.com/help/?p=h)
-
-> UU浏览器在满足用户的需求上，延续了谷歌的简洁，摒弃了如 Edge 过多功能的臃肿。
-
-这是老胡的朋友，独立开发运营两三年的一款浏览器，主打纯净美观&个性化，核心功能点如下：
-
-- 优化去冗余、内存占用少
-- 简洁高效率、年轻个性化
-- 最大程度隐私安全
-- 纯净不打扰
-
-在以上基本特性持续开发小功能提升用户效率，大家可以提意见哈：
-
-- 💫 自带整页翻译
-- 📚 灵活新标签页
-- 📋 多功能侧边栏
-- 🧩 扩展安装方便
-- 📟 夜间护眼模式
-- 📈 多线程下载
-- 👉 支持鼠标手势
-- ✔️ 网页一键保存为图片或PDF
-
-![uu](https://images-1252557999.file.myqcloud.com/uPic/uu.jpg)
-
-有兴趣欢迎了解体验👉[UU 浏览器](https://www.uukei.com/help/?p=h) 
+![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
 
 ## 👀 资料 
 
-### [TuringCourses](https://github.com/ZJU-Turing/TuringCourses)
+### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
 
-浙江大学图灵班各门课程的学习指南以及学习资源。
+《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
 
-- 主站：https://ZJU-Turing.github.io/TuringCourses/
-- 存档站（CS/AI/IS 三专业版）：https://zju-turing.github.io/TuringCoursesGrave/ 
+![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
 
-### [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare)
+### [llm-universe](https://github.com/datawhalechina/llm-universe)
 
-⛅️ 精选的 `Cloudflare` 工具、开源项目、指南、博客和其他资源列表，带你玩转 `Cloudflare`：
+本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：
 
-![awesome-cloudflare](https://images-1252557999.file.myqcloud.com/uPic/12CbEQ.png) 
+- 大模型简介，何为大模型、大模型特点是什么、LangChain 是什么，针对小白开发者的简单介绍；
+- 如何调用大模型 API，本节介绍了国内外知名大模型产品 API 的多种调用方式，包括调用原生 API、封装为 LangChain LLM、封装为 Fastapi 等调用方式，同时将包括百度文心、讯飞星火、智谱AI等多种大模型 API 进行了统一形式封装；
+- 大模型开发流程及架构，大模型应用开发的基本流程、一般思想和本项目的架构分析；
+- 数据库搭建，不同类型知识库文档的加载、处理，向量数据库的搭建；
+- Prompt 设计，如何设计 Prompt 来让大模型完成特定任务，Prompt Engineering 的原则和技巧有哪些；
+- 验证迭代，大模型开发如何实现验证迭代，一般的评估方法有什么；
+- 前后端开发，如何使用 Gradio、FastAPI 等框架快速开发大模型 Demo，展示应用能力。
 
-### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
+![llm-universe](https://images-1252557999.file.myqcloud.com/uPic/llm-universe.png) 
 
-陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
+### [一人企业方法论](https://github.com/easychen/one-person-businesses-methodology-v2.0)
 
-![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
+《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群：
+
+![opb-quick-start](https://images-1252557999.file.myqcloud.com/uPic/opb-quick-start.jpg) 
 
 ## 🕸 网站 
 
-### [drawl.ink](https://drawl.ink/)
+### [AnyBT](https://anybt.eth.limo/)
 
-将链接转化成好看的图片：
+种子搜索引擎，下载你想要的资源：
 
-![drawl](https://images-1252557999.file.myqcloud.com/uPic/eltzuF.png) 
+![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
 
-### [gcopy](https://gcopy.rutron.net/zh)
+### [piqsels](https://www.piqsels.com/)
 
-一个剪切板同步的工具, 支持文字、截图和文件，使用 `Golang` 和 `Nextjs` 开发. 完全[开源](https://github.com/llaoj/gcopy)，`GCopy` 重视您的数据隐私, 不持久化存储您的数据, 它们都在内存中 `24h` 自动删除：
+`Piqsels` 是又一个免版权的图库，免费商用：
 
-![gcopy](https://images-1252557999.file.myqcloud.com/uPic/gcopy.jpg) 
+![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
 
-### [huggingface-spaces](https://huggingface.co/spaces)
+### [vim.is](https://vim.is/#exercise)
 
-`Hugging Face Spaces`  导航。内含 30 个 AI 分类，超 40 万个 Space，支持自然语言搜索功能：
+`Vim`学习网站：
 
-![huggingface-spaces](https://images-1252557999.file.myqcloud.com/uPic/jG93mK.png) 
+![vim.is](https://images-1252557999.file.myqcloud.com/uPic/iA6wxm.png) 
 
 ## ✍️ 说明
 
