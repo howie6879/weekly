@@ -5,93 +5,102 @@
 
 ## 🎯 项目 
 
-### [pdf-craft](https://github.com/oomol-lab/pdf-craft)
+### [ecapture](https://github.com/ehids/ecapture)
 
-`PDF Craft` 可以将 `PDF` 文件转化为各种其他格式，该项目将专注于扫描书籍的 `PDF` 文件的处理：
+eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
 
-![pdf-craft](https://images-1252557999.file.myqcloud.com/uPic/7Gx8lB.png) 
+![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
 
-### [TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
+### [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
 
-「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。
+强大的少样本语音转换与语音合成Web用户界面，低成本 AI 语音克隆项目，感兴趣可以查看介绍[视频](https://www.bilibili.com/video/BV12g4y1m7Uw/) 。
 
-![TidGi-Desktop](https://images-1252557999.file.myqcloud.com/uPic/TidGi-Desktop.jpg)
+![GPT-SoVITS](https://images-1252557999.file.myqcloud.com/uPic/GPT-SoVITS.jpg) 
 
-个人笔记记录这块老胡还在坚挺着使用 [Joplin](https://github.com/laurent22/joplin)，如果有特别推荐的可以评论推荐下。 
+### [ollama](https://github.com/jmorganca/ollama)
 
-### [outline](https://github.com/outline/outline)
+你可以下载 `Ollama` 在本地运行 `Llama 2` 大模型，它将模型的权重、配置、提示等一起打包：
 
-使用 `React &Node.js` 构建的协作知识库，支持团队协作，样式美观，可自建：
-
-![outline](https://images-1252557999.file.myqcloud.com/uPic/outline.jpg) 
+![ollama](https://images-1252557999.file.myqcloud.com/uPic/ollama.jpg) 
 
 ## 🤖 软件 
 
-### [linkandroid](https://github.com/modstart-lib/linkandroid)
+### [rubick](https://github.com/rubickCenter/rubick)
 
-全能手机连接助手，方便快捷的连接 Android 和电脑，连接手机后可投屏、GIF/MP4录屏、截屏、文件管理、手机操作等功能：
+基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
 
-![linkandroid](https://images-1252557999.file.myqcloud.com/uPic/R9oZa7.png) 
+- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
+- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
+- 支持全局快捷键设置。
+- 支持剪贴板文件搜索。
+- 支持搜索本地安装的应用程序或偏好设置。
+- 支持MacOS。
+- 支持Windows。
+- 支持Linux。
 
-### [NanaZip](https://github.com/M2Team/NanaZip)
+![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
 
-`NanaZip` 是一个面向现代 `Windows` 体验的开源文件压缩工具，基于知名的开源文件压缩工具 `7-Zip` 的源代码：
+### [OpenAgentPlatform-Dive](https://github.com/OpenAgentPlatform/Dive)
 
-![NanaZip](https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg) 
+`Dive` 是一个开源 `MCP` 主机桌面应用程序，可与任何支持功能调用功能的 `LLM` 无缝集成：
 
-### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+![OpenAgentPlatform-Dive](https://images-1252557999.file.myqcloud.com/uPic/O2ZWvL.png) 
 
-`Android` 平台下 `MD` 风格的文件管理器:
+### [AFFiNE](https://github.com/toeverything/AFFiNE)
 
-![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
+`AFFiNE` 是为创意思考而生的统一知识管理平台，一个注重隐私、本地优先、开源且可立即使用的 `Notion + Miro` 开源替代方案：
+
+- 同时书写、绘制和计划
+- 任意地方存储查看您的数据
+- 离线优先
+- 简洁直观的设计
+- 具备 `Markdown` 支持的现代区块编辑器
+- 团队协作
+- 多语言支持
+- 插件支持
+
+支持 `web` & 跨平台访问：
+
+![afine](https://images-1252557999.file.myqcloud.com/uPic/afine.jpg) 
 
 ## 👀 资料 
 
-### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
+### [Web Development History](https://webdevelopmenthistory.com/index/)
 
-《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
+`Web` 开发发展史文章系列：
 
-![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
+![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
 
-### [llm-universe](https://github.com/datawhalechina/llm-universe)
+### [tmplink/ipv6](https://github.com/tmplink/ipv6)
 
-本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：
+本文档主要讲解 IPv6 的一些皮毛知识，主要是让读者理解 IPv6 地址的一些概念，诸如前缀，子网，接口。 
 
-- 大模型简介，何为大模型、大模型特点是什么、LangChain 是什么，针对小白开发者的简单介绍；
-- 如何调用大模型 API，本节介绍了国内外知名大模型产品 API 的多种调用方式，包括调用原生 API、封装为 LangChain LLM、封装为 Fastapi 等调用方式，同时将包括百度文心、讯飞星火、智谱AI等多种大模型 API 进行了统一形式封装；
-- 大模型开发流程及架构，大模型应用开发的基本流程、一般思想和本项目的架构分析；
-- 数据库搭建，不同类型知识库文档的加载、处理，向量数据库的搭建；
-- Prompt 设计，如何设计 Prompt 来让大模型完成特定任务，Prompt Engineering 的原则和技巧有哪些；
-- 验证迭代，大模型开发如何实现验证迭代，一般的评估方法有什么；
-- 前后端开发，如何使用 Gradio、FastAPI 等框架快速开发大模型 Demo，展示应用能力。
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-![llm-universe](https://images-1252557999.file.myqcloud.com/uPic/llm-universe.png) 
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
 
-### [一人企业方法论](https://github.com/easychen/one-person-businesses-methodology-v2.0)
-
-《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群：
-
-![opb-quick-start](https://images-1252557999.file.myqcloud.com/uPic/opb-quick-start.jpg) 
+![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
 
 ## 🕸 网站 
 
-### [AnyBT](https://anybt.eth.limo/)
+### [ocr.plantree.me](https://ocr.plantree.me/ocr)
 
-种子搜索引擎，下载你想要的资源：
+一个基于 `Tesseract` 的简单 `OCR` 软件：
 
-![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
+![plantree](https://images-1252557999.file.myqcloud.com/uPic/plantree.jpg) 
 
-### [piqsels](https://www.piqsels.com/)
+### [央视纪实](https://jishi.cctv.com/)
 
-`Piqsels` 是又一个免版权的图库，免费商用：
+央视官方纪录片大全，全部免费观看：
 
-![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
+![657d173347944](https://img.fre123.com/i/2023/12/16/657d173347944.png) 
 
-### [vim.is](https://vim.is/#exercise)
+### [万词王](https://github.com/thunlp/WantWords)
 
-`Vim`学习网站：
+万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
 
-![vim.is](https://images-1252557999.file.myqcloud.com/uPic/iA6wxm.png) 
+![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
+官方访问地址：[wantwords.net](https://wantwords.net/)。 
 
 ## ✍️ 说明
 
