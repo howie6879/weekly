@@ -5,102 +5,90 @@
 
 ## 🎯 项目 
 
-### [ecapture](https://github.com/ehids/ecapture)
+### [godoxy](https://github.com/yusing/godoxy)
 
-eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
+轻巧、易用、高性能反向代理，带有主页和配置面板：
 
-![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
+![godoxy](https://images-1252557999.file.myqcloud.com/uPic/7I4SVq.png) 
 
-### [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
 
-强大的少样本语音转换与语音合成Web用户界面，低成本 AI 语音克隆项目，感兴趣可以查看介绍[视频](https://www.bilibili.com/video/BV12g4y1m7Uw/) 。
+CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
 
-![GPT-SoVITS](https://images-1252557999.file.myqcloud.com/uPic/GPT-SoVITS.jpg) 
+![CasaOS](https://images-1252557999.file.myqcloud.com/uPic/rA4tpa.jpg) 
 
-### [ollama](https://github.com/jmorganca/ollama)
+### [form-create](https://github.com/xaboy/form-create)
 
-你可以下载 `Ollama` 在本地运行 `Llama 2` 大模型，它将模型的权重、配置、提示等一起打包：
+强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
 
-![ollama](https://images-1252557999.file.myqcloud.com/uPic/ollama.jpg) 
+![form-create](https://images-1252557999.file.myqcloud.com/uPic/demo-live3.gif) 
 
 ## 🤖 软件 
 
-### [rubick](https://github.com/rubickCenter/rubick)
+### [GeekDesk](https://github.com/BookerLiu/GeekDesk)
 
-基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
+小巧、美观的桌面快速启动管理工具，同时集成了 `Everything` 搜索，仅支持 `Windows`：
 
-- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
-- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
-- 支持全局快捷键设置。
-- 支持剪贴板文件搜索。
-- 支持搜索本地安装的应用程序或偏好设置。
-- 支持MacOS。
-- 支持Windows。
-- 支持Linux。
+![GeekDesk](https://images-1252557999.file.myqcloud.com/uPic/GeekDesk.png) 
 
-![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
+### [SketchyBar](https://github.com/FelixKratz/SketchyBar)
 
-### [OpenAgentPlatform-Dive](https://github.com/OpenAgentPlatform/Dive)
+高度可定制的macOS状态栏替代品：
 
-`Dive` 是一个开源 `MCP` 主机桌面应用程序，可与任何支持功能调用功能的 `LLM` 无缝集成：
+![SketchyBar](https://images-1252557999.file.myqcloud.com/uPic/SketchyBar.jpg) 
 
-![OpenAgentPlatform-Dive](https://images-1252557999.file.myqcloud.com/uPic/O2ZWvL.png) 
+### [MissionBackup](https://github.com/Hellager/MissionBackup)
 
-### [AFFiNE](https://github.com/toeverything/AFFiNE)
+本地备份软件：
 
-`AFFiNE` 是为创意思考而生的统一知识管理平台，一个注重隐私、本地优先、开源且可立即使用的 `Notion + Miro` 开源替代方案：
+- 基于 Tauri，兼顾了 web 前端和 rust 后端
+- 5MB 的安装包，15MB 的程序，多平台可用
+- 基于 cron 和 notify 实现对目标定时/监控备份
+- 可自定义备份保存时长和空间
+- 通过图表直观展示备份情况
+- 完善的文档支持
 
-- 同时书写、绘制和计划
-- 任意地方存储查看您的数据
-- 离线优先
-- 简洁直观的设计
-- 具备 `Markdown` 支持的现代区块编辑器
-- 团队协作
-- 多语言支持
-- 插件支持
-
-支持 `web` & 跨平台访问：
-
-![afine](https://images-1252557999.file.myqcloud.com/uPic/afine.jpg) 
+![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
 
 ## 👀 资料 
 
-### [Web Development History](https://webdevelopmenthistory.com/index/)
+### [zju-icicles](https://github.com/QSCTech/zju-icicles)
 
-`Web` 开发发展史文章系列：
+浙江大学课程攻略共享计划：
 
-![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
+![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
 
-### [tmplink/ipv6](https://github.com/tmplink/ipv6)
+### [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 
-本文档主要讲解 IPv6 的一些皮毛知识，主要是让读者理解 IPv6 地址的一些概念，诸如前缀，子网，接口。 
+一个精选列表，包含了用于增强 Claude Code 工作流程、生产力和氛围的各种命令、文件和工具：
 
-### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
+![awesome-claude-code](https://images-1252557999.file.myqcloud.com/uPic/HMpvvc.png) 
 
-作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
+### [GolangStudy](https://github.com/cnymw/GolangStudy)
 
-![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
+《[GolangStudy](https://golangstudy.tech/)》：从简单到难最全总结，go基础，数据结构，算法，设计模式：
+
+![GolangStudy](https://images-1252557999.file.myqcloud.com/uPic/GolangStudy.jpg) 
 
 ## 🕸 网站 
 
-### [ocr.plantree.me](https://ocr.plantree.me/ocr)
+### [musetransfer](https://musetransfer.com/)
 
-一个基于 `Tesseract` 的简单 `OCR` 软件：
+`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
 
-![plantree](https://images-1252557999.file.myqcloud.com/uPic/plantree.jpg) 
+![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
 
-### [央视纪实](https://jishi.cctv.com/)
+### [freelancethings](https://www.freelancethings.co/)
 
-央视官方纪录片大全，全部免费观看：
+为自由职业者精心挑选的资源，涉及到社区、工具、文章、书籍、视频等，这些都帮助你在自由职业之旅中获得更多帮助，订阅后每周发送到您的收件箱:
 
-![657d173347944](https://img.fre123.com/i/2023/12/16/657d173347944.png) 
+![freelancethings](https://images-1252557999.file.myqcloud.com/uPic/freelancethings.jpg) 
 
-### [万词王](https://github.com/thunlp/WantWords)
+### [askaitools.ai](https://askaitools.ai/)
 
-万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
+专为人工智能产品量身定制的尖端搜索引擎项目，快速搜索查找 1w+ AI 产品：
 
-![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
-官方访问地址：[wantwords.net](https://wantwords.net/)。 
+![askaitools](https://images-1252557999.file.myqcloud.com/uPic/askaitools.jpg) 
 
 ## ✍️ 说明
 
