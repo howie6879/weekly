@@ -5,90 +5,85 @@
 
 ## 🎯 项目 
 
-### [godoxy](https://github.com/yusing/godoxy)
+### [webdav](https://github.com/hacdias/webdav)
 
-轻巧、易用、高性能反向代理，带有主页和配置面板：
+一个简单且独立部署的 `WebDAV` 服务，支持 `Docker`。 
 
-![godoxy](https://images-1252557999.file.myqcloud.com/uPic/7I4SVq.png) 
+### [floccus](https://github.com/floccusaddon/floccus)
 
-### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
+`Floccus` 是一个开源的浏览器书签同步项目，它支持 `Firefox、Chrome、Edge`等浏览器书签同步：
 
-CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
+![floccus](https://images-1252557999.file.myqcloud.com/uPic/floccus.jpg) 
 
-![CasaOS](https://images-1252557999.file.myqcloud.com/uPic/rA4tpa.jpg) 
+### [NocoDB](https://github.com/nocodb/nocodb)
 
-### [form-create](https://github.com/xaboy/form-create)
+将 `MySQL、PostgreSQL、SQL Server、SQLite 、MariaDB` 转换为智能电子表格：
 
-强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
-
-![form-create](https://images-1252557999.file.myqcloud.com/uPic/demo-live3.gif) 
+![NocoDB](https://images-1252557999.file.myqcloud.com/uPic/NocoDB.png) 
 
 ## 🤖 软件 
 
-### [GeekDesk](https://github.com/BookerLiu/GeekDesk)
+### [Gif123](https://github.com/aardio/Gif123)
 
-小巧、美观的桌面快速启动管理工具，同时集成了 `Everything` 搜索，仅支持 `Windows`：
+非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
 
-![GeekDesk](https://images-1252557999.file.myqcloud.com/uPic/GeekDesk.png) 
+![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg) 
 
-### [SketchyBar](https://github.com/FelixKratz/SketchyBar)
+### [revezone](https://github.com/revezone/revezone)
 
-高度可定制的macOS状态栏替代品：
+一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具：
 
-![SketchyBar](https://images-1252557999.file.myqcloud.com/uPic/SketchyBar.jpg) 
+![revezone](https://images-1252557999.file.myqcloud.com/uPic/revezone.jpg) 
 
-### [MissionBackup](https://github.com/Hellager/MissionBackup)
+### [Robo 3T](https://github.com/Studio3T/robomongo)
 
-本地备份软件：
+本人常用的一款MongoDB跨平台管理软件，开源免费：
 
-- 基于 Tauri，兼顾了 web 前端和 rust 后端
-- 5MB 的安装包，15MB 的程序，多平台可用
-- 基于 cron 和 notify 实现对目标定时/监控备份
-- 可自定义备份保存时长和空间
-- 通过图表直观展示备份情况
-- 完善的文档支持
-
-![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
+![robomongo](https://images-1252557999.file.myqcloud.com/uPic/robomongo.jpg) 
 
 ## 👀 资料 
 
-### [zju-icicles](https://github.com/QSCTech/zju-icicles)
+### [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
 
-浙江大学课程攻略共享计划：
+将 `DeepSeek` 大模型能力轻松接入各类软件：
 
-![zju-icicles](https://images-1252557999.file.myqcloud.com/uPic/NAELB0.png) 
+- 应用程序：Chatbox ChatGPT-Next-Web	留白记事等
+- AI Agent 框架
+- RAG 框架
+- Solana 框架
+- 即时通讯插件
+- 浏览器插件
+- VS Code 插件 neovim 插件JetBrains 插件 
 
-### [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
+### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
 
-一个精选列表，包含了用于增强 Claude Code 工作流程、生产力和氛围的各种命令、文件和工具：
+`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
 
-![awesome-claude-code](https://images-1252557999.file.myqcloud.com/uPic/HMpvvc.png) 
+![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
 
-### [GolangStudy](https://github.com/cnymw/GolangStudy)
+### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
 
-《[GolangStudy](https://golangstudy.tech/)》：从简单到难最全总结，go基础，数据结构，算法，设计模式：
-
-![GolangStudy](https://images-1252557999.file.myqcloud.com/uPic/GolangStudy.jpg) 
+该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
 
 ## 🕸 网站 
 
-### [musetransfer](https://musetransfer.com/)
+### [chatplugin.top](https://www.chatplugin.top/)
 
-`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
+`ChatGPT Plugin` 收录网站，并且将插件汉化：
 
-![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
+![chatplugin](https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg) 
 
-### [freelancethings](https://www.freelancethings.co/)
+### [cook](https://github.com/YunYouJun/cook)
 
-为自由职业者精心挑选的资源，涉及到社区、工具、文章、书籍、视频等，这些都帮助你在自由职业之旅中获得更多帮助，订阅后每周发送到您的收件箱:
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-![freelancethings](https://images-1252557999.file.myqcloud.com/uPic/freelancethings.jpg) 
+![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
 
-### [askaitools.ai](https://askaitools.ai/)
+### [coze](https://www.coze.cn/)
 
-专为人工智能产品量身定制的尖端搜索引擎项目，快速搜索查找 1w+ AI 产品：
+扣子为你提供了一站式 AI 开发平台，无需编程，你的创新理念都能迅速化身为下一代的 AI 应用，字节跳动此前是在海外推出 [Coze](https://www.coze.com/)，国内扣子与其分开运营：
 
-![askaitools](https://images-1252557999.file.myqcloud.com/uPic/askaitools.jpg) 
+![coze](https://images-1252557999.file.myqcloud.com/uPic/coze.jpg) 
 
 ## ✍️ 说明
 
