@@ -5,85 +5,99 @@
 
 ## 🎯 项目 
 
-### [webdav](https://github.com/hacdias/webdav)
+### [python-wechaty](https://github.com/wechaty/python-wechaty)
 
-一个简单且独立部署的 `WebDAV` 服务，支持 `Docker`。 
+`Wechaty` 是一个开源聊天机器人框架 `SDK`，具有高度封装、高可用的特性，支持 `NodeJs, Python, Go` 和 `Java` 等多语言版本：
 
-### [floccus](https://github.com/floccusaddon/floccus)
+![python-wechaty](https://images-1252557999.file.myqcloud.com/uPic/python-wechaty.png) 
 
-`Floccus` 是一个开源的浏览器书签同步项目，它支持 `Firefox、Chrome、Edge`等浏览器书签同步：
+### [Feeddd](https://github.com/feeddd/feeds)
 
-![floccus](https://images-1252557999.file.myqcloud.com/uPic/floccus.jpg) 
+![Feeddd](https://images-1252557999.file.myqcloud.com/uPic/5a9np8.jpg)
 
-### [NocoDB](https://github.com/nocodb/nocodb)
+一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
 
-将 `MySQL、PostgreSQL、SQL Server、SQLite 、MariaDB` 转换为智能电子表格：
+### [c-shopping](https://github.com/huanghanzhilian/c-shopping)
 
-![NocoDB](https://images-1252557999.file.myqcloud.com/uPic/NocoDB.png) 
+ 基于 `Nextjs` 开发同时适配 `Desktop、Tablet、Phone` 多种设备的精美购物平台：
+ 
+ ![C-Shopping](https://images-1252557999.file.myqcloud.com/uPic/C-Shopping.png) 
 
 ## 🤖 软件 
 
-### [Gif123](https://github.com/aardio/Gif123)
+### [proxypin](https://github.com/wanghongenpin/proxypin)
 
-非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
+基于 Flutter 开发的跨平台抓包软件，界面美观，交互简单：
 
-![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg) 
+![proxypin](https://images-1252557999.file.myqcloud.com/uPic/vGVbRn.png) 
 
-### [revezone](https://github.com/revezone/revezone)
+### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
 
-一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具：
+自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
 
-![revezone](https://images-1252557999.file.myqcloud.com/uPic/revezone.jpg) 
+![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
 
-### [Robo 3T](https://github.com/Studio3T/robomongo)
+### [ambie](https://github.com/jenius-apps/ambie)
 
-本人常用的一款MongoDB跨平台管理软件，开源免费：
+针对 `Windows` 平台的白噪音应用，挺多自然界声音，可以帮助你提升生产力：
 
-![robomongo](https://images-1252557999.file.myqcloud.com/uPic/robomongo.jpg) 
+![ambie](https://images-1252557999.file.myqcloud.com/uPic/ambie.jpg) 
 
 ## 👀 资料 
 
-### [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
+### [go101](https://gfw.go101.org/article/101.html)
 
-将 `DeepSeek` 大模型能力轻松接入各类软件：
+《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
 
-- 应用程序：Chatbox ChatGPT-Next-Web	留白记事等
-- AI Agent 框架
-- RAG 框架
-- Solana 框架
-- 即时通讯插件
-- 浏览器插件
-- VS Code 插件 neovim 插件JetBrains 插件 
+![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
 
-### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
+### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
 
-`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
+有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
 
-![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
+![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+### [whale-quant](https://github.com/datawhalechina/whale-quant)
 
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用 `Python` 进行量化开发的能力：
+
+![whale-quant](https://images-1252557999.file.myqcloud.com/uPic/a4aLmH.png) 
 
 ## 🕸 网站 
 
-### [chatplugin.top](https://www.chatplugin.top/)
+### [gaccode.store](https://gaccode.store/)
 
-`ChatGPT Plugin` 收录网站，并且将插件汉化：
+首先感谢你看到这里，我要开始写一些啰嗦的话哈哈～
 
-![chatplugin](https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg) 
+这周疯狂使用 Claude Code，探索 CC 在部门团队使用的可行性，结果非常让我惊喜，初步解决完数据隐私问题，就可以投入到技术工作流程里面去。
 
-### [cook](https://github.com/YunYouJun/cook)
+会自动行动、思考、优化、测试的编程工具，我每晚编码到凌晨两三点，同时开三个项目：web & python & go & rust，我会的技术栈他都会，我不会的他也会👀。**这也是周刊为啥停一周的原因，写代码太晚太累**。
 
-一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
+我觉得这个工具会让有能力的人变得更厉害，让有效率的人变得更强，让有想法的人能快速进行创造。认知高度决定着 CC 可以做出怎样的东西。
 
-![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
+工具的出现只会让厉害的人更厉害～把握住，用起来。
 
-### [coze](https://www.coze.cn/)
+非常建议大家使用。这周我差不多花了接近四千块来调研（我没开官方的 Max）买的各种第三方的 `Key`，也应次认识了不少人，大家如果在用，可以加我交流这块购买经验（可能可以给你省钱）。
 
-扣子为你提供了一站式 AI 开发平台，无需编程，你的创新理念都能迅速化身为下一代的 AI 应用，字节跳动此前是在海外推出 [Coze](https://www.coze.com/)，国内扣子与其分开运营：
+然后还有朋友做类似[GAC](https://gaccode.com/signup?ref=ZP1MJDQ4)的产品，目前在内测，也可以拉你进去体验。
 
-![coze](https://images-1252557999.file.myqcloud.com/uPic/coze.jpg) 
+其中 [GAC](https://gaccode.com/signup?ref=ZP1MJDQ4) 算是比较大的一家（大家注册可以用我的邀请码：https://gaccode.com/signup?ref=ZP1MJDQ4）。
+
+在购买过程中我发现了这个网站： [gaccode.store](https://gaccode.store/)，可以通过比较便宜的价格购买兑换码，我从其他地方买 299 这里是 279 （网站上说前多少名购买可以降价），进群还可以不定时免费领 `gac` 的 `key`。
+
+![GACstore](https://images-1252557999.file.myqcloud.com/uPic/0GqXzS.png) 
+
+### [读书笔记](https://reading.geek-docs.com/)
+
+网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+
+![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
+
+### [openbookshongkong](https://openbookshongkong.com/book/)
+
+开讀计劃由香港中文大学、香港城市大学和香港大学的图书馆与出版社共同发起，是香港首个开放取用图书计划。该计划于 2024 年 7 月 17 日推出了由三家大学出版社出版的九本中文图书，这些图书免费开放给公众，涵盖历史、哲学、宗教、法学、人类学、性别研究等领域。
+
+![openbookshongkong](https://images-1252557999.file.myqcloud.com/uPic/gM7dMk.png) 
 
 ## ✍️ 说明
 
