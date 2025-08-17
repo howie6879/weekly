@@ -5,99 +5,89 @@
 
 ## 🎯 项目 
 
-### [python-wechaty](https://github.com/wechaty/python-wechaty)
+### [Palmr](https://github.com/kyantech/Palmr)
 
-`Wechaty` 是一个开源聊天机器人框架 `SDK`，具有高度封装、高可用的特性，支持 `NodeJs, Python, Go` 和 `Java` 等多语言版本：
+`Palmr` 是一个开源的文件分享平台，专注于隐私和安全，提供无追踪和无限制的文件上传、管理和分享功能。
 
-![python-wechaty](https://images-1252557999.file.myqcloud.com/uPic/python-wechaty.png) 
+![Palmr](https://images-1252557999.file.myqcloud.com/uPic/lERBt8.png) 
 
-### [Feeddd](https://github.com/feeddd/feeds)
+### [yft-design](https://github.com/dromara/yft-design)
 
-![Feeddd](https://images-1252557999.file.myqcloud.com/uPic/5a9np8.jpg)
+基于 `fabric.js` 的图片设计项目，使用 `Vue3 + TypeScript + Fabric.js + Element-Plus`，支持 文字、图片、形状、线条、二维码 、条形码几种最常用的元素类型，每一种元素都拥有高度可编辑能力，缩略图显示，模板，支持导出`json，svg, image`文件，支持 Docker 部署：
 
-一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
+![yft-design](https://images-1252557999.file.myqcloud.com/uPic/yft-design.jpg) 
 
-### [c-shopping](https://github.com/huanghanzhilian/c-shopping)
+### [KillWxapkg](https://github.com/Ackites/KillWxapkg)
 
- 基于 `Nextjs` 开发同时适配 `Desktop、Tablet、Phone` 多种设备的精美购物平台：
- 
- ![C-Shopping](https://images-1252557999.file.myqcloud.com/uPic/C-Shopping.png) 
+一个用于自动化反编译微信小程序的工具，小程序安全利器，自动解密，解包，可最大程度还原工程目录。 
 
 ## 🤖 软件 
 
-### [proxypin](https://github.com/wanghongenpin/proxypin)
+### [FileConverter](https://github.com/Tichau/FileConverter)
 
-基于 Flutter 开发的跨平台抓包软件，界面美观，交互简单：
+`File Converter` 是一个简单的工具，允许用户通过 Windows 资源管理器的上下文菜单转换和压缩文件：
 
-![proxypin](https://images-1252557999.file.myqcloud.com/uPic/vGVbRn.png) 
+![FileConverter](https://images-1252557999.file.myqcloud.com/uPic/3Mtc4V.png) 
 
-### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
+### [cline](https://github.com/cline/cline/blob/main/locales/zh-cn/README.md)
 
-自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
+`Cline` 是一个集成了 `AI` 助手的扩展，能够在编辑器和 CLI 中协助开发者完成复杂的软件开发任务，支持多种 API 和模型，并具备文件创建和编辑、终端命令执行、浏览器操作等功能，同时提供了 `Model Context Protocol (MCP)` 来创建新工具并扩展自身能力。 
 
-![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
+### [cherry-studio](https://github.com/CherryHQ/cherry-studio)
 
-### [ambie](https://github.com/jenius-apps/ambie)
+`Cherry Studio` 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。
 
-针对 `Windows` 平台的白噪音应用，挺多自然界声音，可以帮助你提升生产力：
+![cherry-studio](https://images-1252557999.file.myqcloud.com/uPic/v2u7fo.png)
 
-![ambie](https://images-1252557999.file.myqcloud.com/uPic/ambie.jpg) 
+![cherry-studio-feature](https://images-1252557999.file.myqcloud.com/uPic/7o3Iem.png)
+
+好用，冲就对了。 
 
 ## 👀 资料 
 
-### [go101](https://gfw.go101.org/article/101.html)
+### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
 
-《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
+作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
 
-![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
+![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
 
-### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
+### [大规模并行处理器编程实战第四版](https://fancyerii.github.io/2024/02/20/pmpp/)
 
-有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
+关于并行计算的重要参考书籍，这是博客翻译的第四版。介绍了学生和专业人员都适合的并行编程与gpu体系结构的基本概念，详细剖析了编写并行程序所需的各种技术，用案例研究说明了并行程序设计的整个开发过程，即从计算思想开始，直到最终实现高效可行的并行程序。 
 
-![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
+### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
-### [whale-quant](https://github.com/datawhalechina/whale-quant)
-
-本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用 `Python` 进行量化开发的能力：
-
-![whale-quant](https://images-1252557999.file.myqcloud.com/uPic/a4aLmH.png) 
+LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
 
 ## 🕸 网站 
 
-### [gaccode.store](https://gaccode.store/)
+### [morphic.sh](https://www.morphic.sh/)
 
-首先感谢你看到这里，我要开始写一些啰嗦的话哈哈～
+一个开源的 AI 搜索引擎，支持 `Vercel` 自建部署，可选 `OpenAI、Gemini`，以及最新的 `Llama3` 大模型，网站开源 [morphic](https://github.com/miurla/morphic)：
 
-这周疯狂使用 Claude Code，探索 CC 在部门团队使用的可行性，结果非常让我惊喜，初步解决完数据隐私问题，就可以投入到技术工作流程里面去。
+![morphic](https://images-1252557999.file.myqcloud.com/uPic/morphic.jpg) 
 
-会自动行动、思考、优化、测试的编程工具，我每晚编码到凌晨两三点，同时开三个项目：web & python & go & rust，我会的技术栈他都会，我不会的他也会👀。**这也是周刊为啥停一周的原因，写代码太晚太累**。
+### [tReader](https://tiansh.github.io/reader/#!/read/1)
 
-我觉得这个工具会让有能力的人变得更厉害，让有效率的人变得更强，让有想法的人能快速进行创造。认知高度决定着 CC 可以做出怎样的东西。
+如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
 
-工具的出现只会让厉害的人更厉害～把握住，用起来。
+![tReader](https://images-1252557999.file.myqcloud.com/uPic/PMMlRM.jpg)
+基本功能如下：
 
-非常建议大家使用。这周我差不多花了接近四千块来调研（我没开官方的 Max）买的各种第三方的 `Key`，也应次认识了不少人，大家如果在用，可以加我交流这块购买经验（可能可以给你省钱）。
+- 手机端适配，阅读效果优秀
+- 点左上角的添加按钮可以添加文件
+- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
+- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
+- 文件列表，左滑、右键或按Delete可以显示删除按钮
+- 书签
+- 搜索
+- 目录等 
 
-然后还有朋友做类似[GAC](https://gaccode.com/signup?ref=ZP1MJDQ4)的产品，目前在内测，也可以拉你进去体验。
+### [uisdc.com](https://hao.uisdc.com/)
 
-其中 [GAC](https://gaccode.com/signup?ref=ZP1MJDQ4) 算是比较大的一家（大家注册可以用我的邀请码：https://gaccode.com/signup?ref=ZP1MJDQ4）。
+设计师网站导航：
 
-在购买过程中我发现了这个网站： [gaccode.store](https://gaccode.store/)，可以通过比较便宜的价格购买兑换码，我从其他地方买 299 这里是 279 （网站上说前多少名购买可以降价），进群还可以不定时免费领 `gac` 的 `key`。
-
-![GACstore](https://images-1252557999.file.myqcloud.com/uPic/0GqXzS.png) 
-
-### [读书笔记](https://reading.geek-docs.com/)
-
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
-
-![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
-
-### [openbookshongkong](https://openbookshongkong.com/book/)
-
-开讀计劃由香港中文大学、香港城市大学和香港大学的图书馆与出版社共同发起，是香港首个开放取用图书计划。该计划于 2024 年 7 月 17 日推出了由三家大学出版社出版的九本中文图书，这些图书免费开放给公众，涵盖历史、哲学、宗教、法学、人类学、性别研究等领域。
-
-![openbookshongkong](https://images-1252557999.file.myqcloud.com/uPic/gM7dMk.png) 
+![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
 
 ## ✍️ 说明
 
