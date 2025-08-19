@@ -12,7 +12,66 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Sun, 10 Aug 2025 17:45:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 18:25:42 +0000</lastBuildDate>
+    <item>
+      <title>08-11~08-16.老胡的周刊（第199期）.md</title>
+      <link>https://weekly.howie6879.com/2025/08-11~08-16.老胡的周刊（第199期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/08-11~08-16.老胡的周刊（第199期）.html"&gt;08-11~08-16.老胡的周刊（第199期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/emcie-co/parlant"&gt;parlant&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;parlant&lt;/code&gt; 项目是一个针对 &lt;code&gt;LLM&lt;/code&gt; 智能体的框架，旨在实现对智能体行为的精确控制，使其适用于现实世界的应用场景。该项目的核心优势在于其能够通过自然语言定义的指导原则来确保智能体遵循开发者设定的规则，从而避免了传统方法中对 LLM 的指令依赖和不可预测性。Parlant 提供了一个简单的快速开始指南，允许开发者在 60 秒内启动并运行一个遵循规则的智能体。此外，Parlant 还支持与外部 API、数据库和服务的可靠集成，提供了一系列企业级特性，如凝聚的对话旅程、动态指导原则匹配、对话分析、迭代改进、内置的保护措施以及全面的可解释性。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="parlant" src="https://images-1252557999.file.myqcloud.com/uPic/3nuqN2.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/justlovemaki/AIClient-2-API"&gt;AIClient-2-API&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;AIClient2API&lt;/code&gt;：模拟 &lt;code&gt;Gemini CLI Kiro&lt;/code&gt; 客户端请求，兼容 &lt;code&gt;OpenAI API&lt;/code&gt;。可每日千次Gemini模型请求， &lt;code&gt;免费使用Kiro&lt;/code&gt; 内置 &lt;code&gt;Claude&lt;/code&gt; 模型。通过 &lt;code&gt;API&lt;/code&gt;  轻松接入任何客户端，让AI开发更高效！&lt;/p&gt;
+&lt;p&gt;&lt;img alt="AIClient-2-API" src="https://images-1252557999.file.myqcloud.com/uPic/6DhrP3.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/ahaduoduoduo/bilibili-youtube-danmaku"&gt;bilibili-youtube-danmaku&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;🍻关注的 UP 在 Youtube 和 B 站都有投稿，想在 Youtube 看更好的画质又想看弹幕🤔？&lt;/p&gt;
+&lt;p&gt;让 YouTube 视频也能拥有 B 站的弹幕氛围！ 关联 B 站 UP 主或手动输入视频链接，同步弹幕到 YouTube 播放页面～&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bilibili-youtube-danmaku" src="https://images-1252557999.file.myqcloud.com/uPic/Z3a6RM.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/GhostenEditor/Ghosten-Player"&gt;Ghosten-Player&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Ghosten Player 是一款同时适配 📱Android Phone 和 📺Android TV 的视频播放器(未来将支持 Windows 和 macOS)。整合影视资源，自动刮削媒体信息，支持IPTV播放，优雅打造私人影视库。 界面简洁，功能丰富，开箱即用。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Ghosten-Player" src="https://images-1252557999.file.myqcloud.com/uPic/2LBxH1.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/RohitKushvaha01/TaskManager"&gt;TaskManager&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;TaskManager&lt;/code&gt; 是一个针对 &lt;code&gt;Android&lt;/code&gt; 设备的开源任务管理应用程序，它受到了 &lt;code&gt;GNOME&lt;/code&gt; 系统监视器的启发，旨在帮助用户详细了解并控制他们的设备资源。用户可以通过这个应用实时监控 &lt;code&gt;CPU&lt;/code&gt; 和内存的使用情况，同时管理正在运行的进程。为了充分使用 &lt;code&gt;TaskManager&lt;/code&gt; 的功能，用户需要安装并配合使用 &lt;code&gt;Shizuku&lt;/code&gt;，这是一个可以无需 &lt;code&gt;root&lt;/code&gt; 即可提供更多系统权限的工具。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="TaskManager" src="https://images-1252557999.file.myqcloud.com/uPic/rx7r6Z.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.bilibili.com/video/BV1k1bBzTEF5/"&gt;A Highly Agentic Coding Assistant&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;吴恩达的  Claude Code 视频教程中文版，课程核心在于全面教授如何使用 Claude Code 进行高效的软件开发工作，学完后您将掌握：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;基础技能掌握：深入学习 Claude Code 的核心功能，包括智能代码分析、自动化测试生成、代码重构优化以及高效调试技巧。&lt;/li&gt;
+&lt;li&gt;扩展能力建设：学会集成 MCP 服务器来增强开发能力，重点掌握 Playwright 自动化测试和 Figma 设计协作工具的使用方法。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href="https://github.com/kingkongshot/prompts"&gt;kingkongshot/prompts&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个精心组织的引导词集合，帮助提升AI协作效率和质量。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;X 上  @Datou 评价：
+这个暴躁linus提示词实测有效。之前大模型vibe  coding出来的代码有显存泄露的问题，让它修复它只会补丁摞补丁，又复杂又不能彻底解决问题。用上linus提示词之后大模型一下子就生猛了，重构核心函数之后问题彻底解决。而且它还很持久，20万token之后依然能保持有效输出。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img alt="prompts" src="https://images-1252557999.file.myqcloud.com/uPic/0x6gdT.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://www.claudecount.com/"&gt;claudecount.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Claude Code&lt;/code&gt; 使用排行榜：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="claudecount" src="https://images-1252557999.file.myqcloud.com/uPic/nyvqZR.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://uiprompt.art/"&gt;uiprompt.art&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;UI Prompt Explorer 网站提供了一个专注于手绘风格界面设计的展示平台，包括画册、仪表板、日程规划、作品集、电子商务和博客等多种设计模板：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="uiprompt" src="https://images-1252557999.file.myqcloud.com/uPic/x2em3D.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">08-11~08-16.老胡的周刊（第199期）.md</guid>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>08-03~08-10.老胡的周刊（第198期）.md</title>
       <link>https://weekly.howie6879.com/2025/08-03~08-10.老胡的周刊（第198期）.html</link>
@@ -1448,55 +1507,6 @@
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">03-03~03-15.老胡的周刊（第180期）.md</guid>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>02-24~03-02.老胡的周刊（第179期）.md</title>
-      <link>https://weekly.howie6879.com/2025/02-24~03-02.老胡的周刊（第179期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/02-24~03-02.老胡的周刊（第179期）.html"&gt;02-24~03-02.老胡的周刊（第179期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/GitHamza0206/simba"&gt;simba&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Simba&lt;/code&gt; 的目标是简化知识管理，使开发者能够专注于构建核心人工智能功能，该系统具有现代化的用户界面和模块化架构，允许开发者轻松地插入不同的向量存储、嵌入模型、分块器和解析器：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="simba" src="https://images-1252557999.file.myqcloud.com/uPic/eDTGdu.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Soulter/AstrBot"&gt;AstrBot&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;AstrBot&lt;/code&gt; 是一个松耦合、异步、支持多消息平台部署、具有易用的插件系统和完善的大语言模型（LLM）接入功能的聊天机器人及开发框架：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="AstrBot" src="https://images-1252557999.file.myqcloud.com/uPic/htLSql.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/LadybirdBrowser/ladybird"&gt;ladybird&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;ladybird&lt;/code&gt; 旨在打造一个完全独立的网络浏览器，它不依赖于其他主流浏览器的内核，而是采用自主研发的前端和后端技术。该浏览器强调隐私保护和安全性，提供了一系列功能，如自动化的隐私清理、防止网络追踪等。&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/hacdias/webdav"&gt;webdav&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个简单且独立部署的 &lt;code&gt;WebDAV&lt;/code&gt; 服务，支持 &lt;code&gt;Docker&lt;/code&gt;。&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Zackriya-Solutions/meeting-minutes"&gt;meeting-minutes&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个免费且开源的本地运行 AI 会议助手，能够实时捕捉会议音频、进行实时转录并生成会议摘要：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="meeting-minutes" src="https://images-1252557999.file.myqcloud.com/uPic/vIWUwe.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/Kin69/EasyNotes"&gt;EasyNotes&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个开源的 &lt;code&gt;Android&lt;/code&gt; 笔记应用，使用 &lt;code&gt;Kotlin&lt;/code&gt; 编写，采用了最新的 &lt;code&gt;Jetpack Compose MVVM&lt;/code&gt; 架构，以实现流畅的笔记编辑和管理体验。该应用支持完整的 &lt;code&gt;Markdown&lt;/code&gt; 格式（包括图片），提供了一个安全的、加密的笔记保险库。EasyNotes 特点包括轻量化、无需任何权限、 &lt;code&gt;Material You&lt;/code&gt; 设计风格:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="EasyNotes" src="https://images-1252557999.file.myqcloud.com/uPic/Rq8teu.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://www.youtube.com/playlist?list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j"&gt;GPU 编程视频&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;可视化 &lt;code&gt;GPU&lt;/code&gt; 编程教程：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="GPU-programming" src="https://images-1252557999.file.myqcloud.com/uPic/f1S0iU.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/KaihuaTang/Building-a-Small-LLM-from-Scratch"&gt;Building-a-Small-LLM-from-Scratch&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;该系列的目的是让读者可以在基础的pytorch上，不依赖任何其他现成的外部库，从零开始理解并实现一个大语言模型的所有组成部分，以及训练微调代码，因此读者仅需python，pytorch和最基础深度学习背景知识即可。&lt;/p&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://fofa.info/"&gt;FOFA&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;FOFA&lt;/code&gt; 是白帽汇推出的一款网络空间搜索引擎,它通过进行网络空间测绘,能够帮助研究人员或者企业迅速进行网络资产匹配,例如进行漏洞影响范围分析、应用分布统计、应用流行度等。&lt;/p&gt;
-&lt;p&gt;检索到的内容主要是服务器，数据库，某个网站管理后台，路由器，交换机，公共ip的打印机，网络摄像头，门禁系统，Web服务 ……&lt;/p&gt;
-&lt;p&gt;&lt;img alt="FOFA" src="https://images-1252557999.file.myqcloud.com/uPic/VmAeT1.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">02-24~03-02.老胡的周刊（第179期）.md</guid>
-      <pubDate>Sun, 02 Mar 2025 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>

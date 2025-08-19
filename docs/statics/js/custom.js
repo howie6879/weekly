@@ -23,8 +23,8 @@ document.addEventListener("DOMContentLoaded", function () {
   // link.href = "https://www.fre123.com/weekly?from=weekly";
   // link.textContent = "🔥 老胡精选周刊大全>>>";
 
-  link.href = "https://fre123.com/doc/a6zf1cirds";
-  link.textContent = "🔥美团 9.9 抵 600 神券>>>";
+  link.href = "https://gpt5plus.com/";
+  link.textContent = "🔥GPT Plus 代充129每月>>>";
 
   link.target = "_blank";
   popup.appendChild(link);
