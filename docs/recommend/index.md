@@ -5,109 +5,97 @@
 
 ## 🎯 项目 
 
-### [reader-s](https://github.com/hectorqin/reader)
+### [bitwarden](https://github.com/bitwarden)
 
-阅读3服务器版，不需要手机，可以体验下在web上追更你的小说：
+一个开源，免费，跨平台，安全易管理，，能自动填充密码可自建的密码管理解决方案：
 
-![reader-s](https://images-1252557999.file.myqcloud.com/uPic/reader-s.jpg) 
+![bitwarden](https://images-1252557999.file.myqcloud.com/uPic/bitwarden.jpg) 
 
-### [Seanium/FeedMe](https://github.com/Seanium/FeedMe)
+### [dashy](https://github.com/Lissy93/dashy)
 
-用 AI 重新定义你的 RSS 阅读体验，轻松部署到 `GitHub Pages / Docker`：
+可自我托管的个人自定义导航页：括状态检查，小部件，主题，图标包，UI编辑器等等：
 
-- 希望能够一站式了解各个信息源的新鲜事。又嫌市面上产品太"重"（不想注册登录/下载 APP/启动桌面软件...），一个静态页面正合适（响应式 / 亮暗主题，电脑手机都方便浏览）。
-- 希望能够 TLDR 式地速览，于是做了 AI 摘要。
-- 自由配置 RSS 源、AI 模型、更新频率。
-- 开源、方便 Fork、零成本、轻松自部署。
+![dashy](https://images-1252557999.file.myqcloud.com/uPic/dashy.jpg) 
 
-![Seanium/FeedMe](https://images-1252557999.file.myqcloud.com/uPic/ZPhvme.png) 
+### [ar5iv](https://github.com/dginev/ar5iv)
 
-### [UIGEN-T1.1-Qwen-14B](https://huggingface.co/smirki/UIGEN-T1.1-Qwen-14)
+`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
 
-用于生成前端 `UI` 布局的模型，它具有 140 亿个参数，基于 `wen2.5-Coder-14B-Instruct` 进行微调，它旨在进行基于推理的 `UI` 生成，利用复杂的思维链方法来生成基于 HTML&CSS 代码。目前，它仅限于基本应用，如仪表板、着陆页和注册表单：
-
-![UIGEN-T1.1-Qwen-14B](https://images-1252557999.file.myqcloud.com/uPic/7lYYyz.png) 
+![ar5iv](https://images-1252557999.file.myqcloud.com/uPic/ar5iv.jpg) 
 
 ## 🤖 软件 
 
-### [Parabolic](https://github.com/NickvisionApps/Parabolic)
+### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
 
-`Parabolic` 是一款免费、功能强大的网络影片下载工具，它支持从超过 1000 个网站下载媒体内容，包括 YouTube、TikTok、IG 等常见平台。用户只需复制粘贴网址，选择下载的影片格式、解析度和字幕即可完成操作。它拥有简洁易用的界面，无额外付费功能或隐藏内容，还支持多种影片和音讯格式，内建下载影片字幕功能，并能一次性执行多个下载任务，是网络影片下载保存的得力助手。
+这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
 
-![Parabolic](https://images-1252557999.file.myqcloud.com/uPic/TBRkMe.png) 
+- SSH连接操作
+- Jupyter支持
+- Code Server（Web版VS Code） 支持
+- 文件管理支持
+- 自带Python：写点常用脚本不在话下
+- 上手深度学习
+- 等等
 
-### [Yank Note](https://github.com/purocean/yn)
+这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
 
-一款面向程序员的 `Markdown` 笔记应用，全平台支持：
+![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
 
-- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
-- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
-- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
-- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
-- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
+### [ani](https://github.com/open-ani/ani)
 
-![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
+集找番、追番、看番的一站式弹幕追番平台：
 
-### [PlayCover](https://github.com/PlayCover/PlayCover)
+![ani](https://images-1252557999.file.myqcloud.com/uPic/Ff1VoV.png) 
 
-让你的 Apple Silicon Mac 能够运行 IOS 游戏和应用：
+### [RTranslator](https://github.com/niedev/RTranslator)
 
-![PlayCover](https://images-1252557999.file.myqcloud.com/uPic/PlayCover.jpg)
+`RTransator` 是一个(几乎)开源的、免费的、离线的 `Android` 实时翻译应用程序。
 
-源的话推荐：
+连接到有这个应用程序的人，连接蓝牙耳机，把手机放在你的口袋里，你就可以像对方说你的语言一样进行交谈。
 
-- https://decrypt.day/library
-- https://ipa.store/
-
-就是有些 APP 偶尔会崩溃。 
+![RTranslator](https://images-1252557999.file.myqcloud.com/uPic/RTranslator.jpg) 
 
 ## 👀 资料 
 
-### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
+### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
 
-[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
+中国5级行政区域mysql库：
 
-![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
+- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
+- 港澳地区的数据只有3级;台湾地区4级
+- 包含大陆地区的邮政编码和经纬度信息 
 
-### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
+### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
 
-通过科学方法训练自己的身体，让自己更加健康：
+为初学者整理的免费 `CSS` 课程：
 
-![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
+![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
 
-### [wangshusen/SearchEngine](https://github.com/wangshusen/SearchEngine)
+### [LLM 应用开发实践笔记](https://github.com/morsoli/llm-books)
 
-开源的搜索引擎原理书籍（不方便下载的直接私聊我发 PDF），包含：
+利用LLM构建应用实践笔记：
 
-- 搜索引擎基础
-- 相关性
-- 其他决定用户满意度的因子
-- 查询词处理
-- 召回
-- 排序
-- 查询词推荐
-
-![SearchEngine](https://images-1252557999.file.myqcloud.com/uPic/SearchEngine.jpg) 
+![llm-books](https://images-1252557999.file.myqcloud.com/uPic/llm-books.jpg) 
 
 ## 🕸 网站 
 
-### [chatdoc](https://chatdoc.com/)
+### [toonme](https://toonme.com)
 
-`ChatDOC` 让你可以和文档进行聊天沟通，它是一个基于 `ChatGPT` 的文件读取助手，它可以从 `PDF` 中快速提取、定位和总结信息：
+该网站将原图绘制成可爱的卡通图片：
 
-![chatdoc](https://images-1252557999.file.myqcloud.com/uPic/chatdoc.png) 
+![toonme](https://images-1252557999.file.myqcloud.com/uPic/toonme.jpg) 
 
-### [studyhard](https://studyhard.cf/)
+### [json-translate](https://github.com/ViggoZ/json-translate/blob/main/README.zh.md)
 
-📚各大高校课程资源汇总，在 `Github` 上大学：
+AI驱动的JSON国际化翻译工具，免费在线JSON翻译工具，支持40+种语言，由AI驱动：
 
-![studyhard](https://images-1252557999.file.myqcloud.com/uPic/studyhard.jpg) 
+![json-translate](https://images-1252557999.file.myqcloud.com/uPic/IzziYk.png) 
 
-### [douyin.wtf](https://douyin.wtf/)
+### [roadmap.sh](https://roadmap.sh/)
 
-网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
+这是一个开源免费的项目，主要是提供了各种技术栈的学习路线：
 
-![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
+![roadmap](https://images-1252557999.file.myqcloud.com/uPic/roadmap.jpg) 
 
 ## ✍️ 说明
 
