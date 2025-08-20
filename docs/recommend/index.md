@@ -5,122 +5,92 @@
 
 ## 🎯 项目 
 
-### [streamlit](https://github.com/streamlit/streamlit)
+### [draw-a-ui](https://github.com/SawyerHood/draw-a-ui)
 
-用 `Python` 快速构建数据应用：
+利用 `tldraw + gpt-4-vision api` 将绘制的图转换成 `html` 代码：
 
-![Streamlit_overview](https://images-1252557999.file.myqcloud.com/uPic/Streamlit_overview.gif)
-类似的选择还有 [gradio](https://github.com/gradio-app/gradio)，其更偏向AI模型的web解决方案。 
+![draw-a-ui](https://images-1252557999.file.myqcloud.com/uPic/draw-a-ui.gif) 
 
-### [KubePi](https://github.com/KubeOperator/KubePi)
+### [autoMate](https://github.com/yuruotong1/autoMate)
 
-简单易用的开源 Kubernetes 可视化管理面板，允许管理员导入多个 Kubernetes 集群，并且通过权限控制，将不同 cluster、namespace 的权限分配给指定用户。
+🤖 AI驱动的本地自动化工具 | 让电脑自己会干活，`autoMate` 是一款革命性的 `AI+RPA` 自动化工具，基于 `OmniParser` 构建，它能够
 
-它允许开发人员管理 Kubernetes 集群中运行的应用程序并对其进行故障排查，供开发人员更好地处理 Kubernetes 集群中的复杂性。 
+- 📊 理解您的需求，自动进行任务规划
+- 🔍 智能理解屏幕内容，模拟人类视觉和操作
+- 🧠 自主决策，根据任务需求进行判断并采取行动
+- 💻 支持本地化部署，保护您的数据安全和隐私 
 
-### [ChatGemini](https://github.com/bclswl0827/ChatGemini)
+### [aigotools](https://github.com/someu/aigotools)
 
-`ChatGemini` 是一个基于 `Google Gemini` 的网页客户端，对标 `ChatGPT 3.5`，操作逻辑同 `ChatGPT 3.5` 一致，同时支持在聊天中上传图片，应用会自动调用 `Gemini-Pro-Vision` 模型进行识图：
+AigoTools 可以帮助用户快速创建和管理导航站点，内置站点管理和自动收录功能，同时提供国际化、SEO、多种图片存储方案。让用户可以快速部署上线自己的导航站。
 
-- 适配移动端
-- 支持多 API 密钥分流
-- 操作逻辑同 ChatGPT
-- 仿 ChatGPT 3.5 界面
-- 支持多轮聊天对话
-- 支持上传图片进行识别
-- 逐字输出（SSE）回应
-- 集成 PHP 版反向代理
-- 自定义 Gemini API 地址
-- 可启用站点通行码防止滥用
-- 聊天内容导出（HTML 和 PDF）
-- 对话内容保存在 IndexedDB 中
+- 站点管理
+- 站点信息自动采集（playwright、jina、openai）
+- 用户管理（clerk）
+- 国际化
+- 暗色/亮色主题切换
+- SEO 优化
+- 多种图片存储方案（本地minio、aws s3、腾讯云cos）
 
-![ChatGemini](https://images-1252557999.file.myqcloud.com/uPic/ChatGemini.jpg)
-
-如果不想部署，可以直接使用搭建好的免费 Gemini：[https://gemini-pro.chat](https://gemini-pro.chat/) 
+![aigotools](https://images-1252557999.file.myqcloud.com/uPic/aigotools.jpg) 
 
 ## 🤖 软件 
 
-### [Gotcha-Rest-Client](https://github.com/WhiteCosmos/Gotcha-Rest-Client)
+### [KOReader](https://github.com/koreader/koreader)
 
-Gotcha 是一个开源且跨平台的 API 设计和测试工具：
+KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
 
-- 无需登录注册，所有数据均存放在本地数据库(indexedDB)当中
-- 完全可视化的 API 设计功能，自由编辑请求和响应，支持 Json Schema 格式，支持大多数 OpenAPI 标准
-- 参数化 URL 编辑器，所有 URL 参数都可以通过表单形式轻松修改
-- 通过右键菜单轻松使用动态变量，包括环境变量，日期时间，引用其它接口等多种类型
-- 随时切换，修改 Cookie，支持同时使用多套 Cookie
-- 可视化 JSON 编辑器
-- 保存常用请求到请求模板
+![koreader](https://images-1252557999.file.myqcloud.com/uPic/koreader.jpg) 
 
-![Gotcha-Rest-Client](https://images-1252557999.file.myqcloud.com/uPic/Gotcha-Rest-Client.png) 
+### [onepoint](https://github.com/onepointAI/onepoint)
 
-### [flameshot](https://github.com/flameshot-org/flameshot)
+Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
 
-一款强大且简单易用的截图软件，支持多平台（Linux、Windows、macOS）。其主要特点包括：
+借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
 
-- 自定义外观：支持自定义截图工具和颜色。
-- 简易使用：提供图形化界面和命令行操作。
-- 内置编辑：可以在应用内编辑截图。
-- 快捷键支持：支持本地和全局快捷键配置。
-- 截图上传：支持将截图上传到 Imgur。
+![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
 
-![flameshot](https://images-1252557999.file.myqcloud.com/uPic/flameshot.png) 
+### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-### [P2P Remote Desktop](https://github.com/miroslavpejic85/p2p)
+监控你的应用流量，跨平台：
 
-`P2P Remote Desktop` 是一个开源的远程桌面控制工具，它支持直接点对点连接，不需要任何中转服务器，因此具有较高的连接稳定性和速度：
-
-![P2P Remote Desktop](https://images-1252557999.file.myqcloud.com/uPic/ysw51U.png) 
+![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
 
 ## 👀 资料 
 
-### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
+### [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
 
-这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
+《Anthropic Cookbook》提供了旨在帮助开发人员与Claude一起构建的代码和指南，提供可复制的代码片段，您可以轻松地将其集成到自己的项目中。 
 
-- 👋 入门
-- 💬 大语言模型
-	- 💡 提示工程
-	- 🔧 大语言模型实践
-	- 🔬 大语言模型理论
-- 🎨 AI绘画
-- 🔊 AI音频
-- 🌈 多模态
-- 🧠 深度学习
-- 💻 AI系统 
+### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
-### [HF 开源AI课程](https://huggingface.co/learn)
+为忙碌的工程师准备的精选面试准备材料：
 
-`HuggingFace` 推出9门全免费开源AI课程，涵盖大模型、智能代理、视觉、3D、音频、游戏等前沿领域，助力从入门到进阶的系统化学习。
+![tech-interview-handbook](https://images-1252557999.file.myqcloud.com/uPic/lAcwMK.png) 
 
-![huggingface_learn](https://images-1252557999.file.myqcloud.com/uPic/y3Llq2.png) 
+### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
 
-### [free-for-dev](https://github.com/ripienaar/free-for-dev)
-
-对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
-
-![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
+该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
 
 ## 🕸 网站 
 
-### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
+### [gooddesign](https://www.gooddesign.tools/)
 
-老照片修复工具，同时还提供上色和去背景功能：
+优质设计师工具导航网站：
 
-![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
+![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
 
-### [smartexcel](https://www.smartexcel.cc/)
+### [stockai.trade](https://stockai.trade)
 
-使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
+ `AI` 选股分析网站（基于 `ChatGPT`）完全免费，无需注册:
+ 
+ ![stockai](https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg) 
 
-![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
+### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
 
-### [zhongguose](http://zhongguose.com/)
+老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
 
-一个中国传统颜色的配色网站：
-
-![zhongguose](https://images-1252557999.file.myqcloud.com/uPic/zhongguose.jpg) 
+![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
 
 ## ✍️ 说明
 
