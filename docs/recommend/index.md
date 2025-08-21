@@ -5,92 +5,103 @@
 
 ## 🎯 项目 
 
-### [draw-a-ui](https://github.com/SawyerHood/draw-a-ui)
+### [koishi](https://koishi.chat/zh-CN/)
 
-利用 `tldraw + gpt-4-vision api` 将绘制的图转换成 `html` 代码：
+周刊群友推荐，创建跨平台、可扩展、高性能的机器人，插件丰富，`Koishi` 提供了高度便利的控制台，让你无需基础让你在几分钟之内搭建自己的聊天机器人。
 
-![draw-a-ui](https://images-1252557999.file.myqcloud.com/uPic/draw-a-ui.gif) 
+- 提供在线插件市场，即使没有任何编程基础，也能轻松在控制台中下载安装插件
+- 支持 QQ，Telegram，Discord，飞书等主流聊天平台，支持多账户和跨平台数据互通
+- 随时随地通过控制面板监控运行状态，控制机器人的行为，甚至上号聊天
 
-### [autoMate](https://github.com/yuruotong1/autoMate)
+![koishi](https://images-1252557999.file.myqcloud.com/uPic/koishi.jpg) 
 
-🤖 AI驱动的本地自动化工具 | 让电脑自己会干活，`autoMate` 是一款革命性的 `AI+RPA` 自动化工具，基于 `OmniParser` 构建，它能够
+### [LightBook](https://github.com/underthestars-zhy/LightBook)
 
-- 📊 理解您的需求，自动进行任务规划
-- 🔍 智能理解屏幕内容，模拟人类视觉和操作
-- 🧠 自主决策，根据任务需求进行判断并采取行动
-- 💻 支持本地化部署，保护您的数据安全和隐私 
+开源的小说下载脚本项目，输出格式为 `EPUB`：
 
-### [aigotools](https://github.com/someu/aigotools)
+![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
 
-AigoTools 可以帮助用户快速创建和管理导航站点，内置站点管理和自动收录功能，同时提供国际化、SEO、多种图片存储方案。让用户可以快速部署上线自己的导航站。
+### [wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook)
 
-- 站点管理
-- 站点信息自动采集（playwright、jina、openai）
-- 用户管理（clerk）
-- 国际化
-- 暗色/亮色主题切换
-- SEO 优化
-- 多种图片存储方案（本地minio、aws s3、腾讯云cos）
+一个支持消息收发的微信 `Webhook` 机器人🤖，但是要注意使用限制，不然可能被Ban，特性如下：
 
-![aigotools](https://images-1252557999.file.myqcloud.com/uPic/aigotools.jpg) 
+- 推送消息 (发送文字 / 图片 / 文件)
+- 接收消息（文字 / 图片 / 语音 / 视频 / 文件 / 好友申请 / 公众号推文链接）
+- Docker 部署等
+
+![wechatbot-webhook](https://images-1252557999.file.myqcloud.com/uPic/wechatbot-webhook.gif) 
 
 ## 🤖 软件 
 
-### [KOReader](https://github.com/koreader/koreader)
+### [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
 
-KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
+一个用于显示当前网速、CPU及内存利用率的 Windows 桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤:
 
-![koreader](https://images-1252557999.file.myqcloud.com/uPic/koreader.jpg) 
+![TrafficMonitor](https://images-1252557999.file.myqcloud.com/uPic/TrafficMonitor.jpg) 
 
-### [onepoint](https://github.com/onepointAI/onepoint)
+### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
 
-Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
+使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
 
-借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
+- 支持下载无水印视频
+- 支持下载某个账号号的所有视频
 
-![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
+![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
 
-### [sniffnet](https://github.com/GyulyVGC/sniffnet)
+### [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2)
 
-监控你的应用流量，跨平台：
+这是一款可以在 `Windows` 播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 
 
-![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
+![MusicPlayer2](https://images-1252557999.file.myqcloud.com/uPic/MusicPlayer2.jpg) 
 
 ## 👀 资料 
 
-### [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
+### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
 
-《Anthropic Cookbook》提供了旨在帮助开发人员与Claude一起构建的代码和指南，提供可复制的代码片段，您可以轻松地将其集成到自己的项目中。 
+如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
 
-### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
 
-为忙碌的工程师准备的精选面试准备材料：
+其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
 
-![tech-interview-handbook](https://images-1252557999.file.myqcloud.com/uPic/lAcwMK.png) 
+![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
 
-### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
+
+![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
+
+### [awesome-ai-directory](https://github.com/iAmCorey/awesome-ai-directory)
+
+💡 收录优质AI工具导航及开发学习资源聚合平台，这个列表致力于收集和整理各类优秀的AI相关资源网站，包括但不限于：
+
+- AI工具收录导航
+- AI模型接口资源
+- AI学习资料资源
+- AI新闻趋势聚合
+
+![awesome-ai-directory](https://images-1252557999.file.myqcloud.com/uPic/0m1IbQ.png) 
 
 ## 🕸 网站 
 
-### [gooddesign](https://www.gooddesign.tools/)
+### [designer.microsoft.com](https://designer.microsoft.com/)
 
-优质设计师工具导航网站：
+基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
 
-![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
+![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
 
-### [stockai.trade](https://stockai.trade)
+### [aitdk](https://aitdk.com/zh-CN/)
 
- `AI` 选股分析网站（基于 `ChatGPT`）完全免费，无需注册:
- 
- ![stockai](https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg) 
+AI标题、描述和关键词生成器，为您的网站生成SEO友好的标题、描述和关键词：
 
-### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
+![aitdk](https://images-1252557999.file.myqcloud.com/uPic/aitdk.jpg) 
 
-老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
+### [z2h 字帖](https://paper.z2h.cn/)
 
-![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
+用正确的方法刻意练习，每个人都能写出一手漂亮的字，自定义字帖字体和内容，可打印导出练字：
+
+![z2h](https://images-1252557999.file.myqcloud.com/uPic/z2h.jpg) 
 
 ## ✍️ 说明
 
