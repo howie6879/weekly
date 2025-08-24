@@ -5,87 +5,102 @@
 
 ## 🎯 项目 
 
-### [appstore-discounts](https://github.com/eyelly-wu/appstore-discounts)
+### [invoice](https://github.com/guanshuicheng/invoice)
 
-开源的 App Store 折扣信息助手，基于 GitHub Actions 实现，支持 RSS，Telegram 和钉钉通知：
+增值税发票 `OCR` 识别，使用 `flask` 微服务架构，识别 `type` ：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等：
 
-- 支持任意 国家或地区 的 App Store （理论上🤔）
-- 支持追踪 应用本体 的价格和 App 内购买项目 的价格
-- 支持多种方式订阅折扣信息
-- 开源免费，任何人可参与贡献 
+![invoice](https://images-1252557999.file.myqcloud.com/uPic/invoice.jpg) 
 
-### [luxirty-search](https://github.com/KoriIku/luxirty-search)
+### [AgentGPT](https://github.com/reworkd/AgentGPT)
 
-一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快：
+🤖 在您的浏览器中组装、配置和部署自主 AI 代理，可以简单理解成 `Auto-GPT` 的网页版：
 
-![luxirty-search](https://images-1252557999.file.myqcloud.com/uPic/TSeOpC.png) 
+- 通过向量数据库实现长期记忆 🧠
+- 通过语言链具备网络浏览能力 🌐
+- 与网站和人进行交互 👨‍👩‍👦
+- 通过文档 API 具备写作能力 📄
+- 保存代理运行 💾
+- 用户和身份验证 🔐
+- Stripe 集成以提供低限制付费版本（这样我们就不用担心基础设施成本）💵
 
-### [picx](https://github.com/XPoet/picx)
+![agentgpt](https://images-1252557999.file.myqcloud.com/uPic/agentgpt.jpg) 
 
-基于 GitHub API 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！
+### [ar5iv](https://github.com/dginev/ar5iv)
 
-![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg) 
+`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
+
+![ar5iv](https://images-1252557999.file.myqcloud.com/uPic/ar5iv.jpg) 
 
 ## 🤖 软件 
 
-### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
+### [kobi](https://github.com/niuhuan/kobi)
 
-> 让每个人都简单方便的使用前沿人工智能技术
+一个简洁大方的跨平台漫画客户端：
 
-一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
+![0ZQlSW](https://images-1252557999.file.myqcloud.com/uPic/0ZQlSW.png) 
 
-![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
+### [MediaBox](https://github.com/RyensX/MediaBox)
 
-### [seabird](https://github.com/getseabird/seabird)
+全能媒体容器，插件化网罗天下媒体，畅快学习软件开发。实现了类似微信小程序的框架，只需要简单实现插件API提供数据到容器即可快速成型，方便学习爬虫、APP开发等。容器主要为插件提供以下服务：
 
-`Seabird` 是一个原生的跨平台 `Kubernetes` 桌面客户端，它可以非常容易地探索集群的资源：
+- 数据自动渲染到UI(视图组件)
+- 媒体收藏/历史记录
+- 周期性媒体数据检查服务(插件只需要实现媒体检查更新组件即可被主动检查更新)
+- 视频播放组件(播放器)，支持手势控制/夜间模式/弹幕/倍速控制/多集聚合/横竖旋转适应等
+- 私有可视化KV存储(插件私有配置)
+- 个人数据/插件云端备份(WebDav,开发中)
 
-![seabird](https://images-1252557999.file.myqcloud.com/uPic/seabird.png) 
+简单来说，这款软件能看什么取决与你用什么插件：
 
-### [163MusicLyrics](https://github.com/jitwxs/163MusicLyrics)
+![MediaBox](https://images-1252557999.file.myqcloud.com/uPic/MediaBox.jpg) 
 
-Windows 云音乐歌词获取【网易云、QQ音乐】:
+### [Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8)
 
-![163MusicLyrics](https://images-1252557999.file.myqcloud.com/uPic/JElaUM.png) 
+基于 `PySide6` 和 `QFluentWidgets` 的跨平台 `m3u8` 下载软件：
+
+![Fluent-M3U8](https://images-1252557999.file.myqcloud.com/uPic/T7q1jB.png) 
 
 ## 👀 资料 
 
-### [Reflection_Summary](https://github.com/sladesha/Reflection_Summary)
+### [opensource-f2f](https://github.com/opensource-f2f)
 
-算法理论基础知识应知应会，里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识，知识点覆盖全面，如下图：
+《开源面对面》是一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。
 
-![Reflection Summary](https://images-1252557999.file.myqcloud.com/uPic/WpauDu.png) 
+![osf2f](https://images-1252557999.file.myqcloud.com/uPic/osf2f.jpg) 
 
-### [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
 
-这个仓库收集了各种日常工作中使用的材料和工具，包括 CLI 工具、GUI 工具、Web 工具、系统服务、网络、容器编排、手册教程、博客资源、黑客测试等内容。适合系统管理员、网络管理员、DevOps、渗透测试者和安全研究人员使用。 
+`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
 
-### [Recommender_System](https://github.com/solidglue/Recommender_System)
+![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
 
-推荐系统入门指南，全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。 
+### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
+
+[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
+
+目前也提供了中文版：
+
+![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
 
 ## 🕸 网站 
 
-### [短剧搜索引擎](https://www.fre123.com/sp?ref=weekly)
+### [linegraphmaker](https://linegraphmaker.co/)
 
-比较全面的短剧搜索引擎，数据在夸克网盘，转存即可免费观看全部：
+在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
 
-![sp](https://images-1252557999.file.myqcloud.com/uPic/sp.jpg) 
+![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
 
-### [quark.so](https://www.quark.so/)
+### [crashcourse](https://crashcourse.club/category)
 
-这是一个资源全面，界面简洁无广告的夸克网盘搜索引擎：
+`Crash Course` 10分钟速成课，是 `Hank Green & John Green` `两兄弟在Youtube` 上制作的系列免费课程，包含了历史、文学、计算机、心理学、哲学、化学、生物学、电影等奖金40中科目的速成课，值得一看：
 
-![quarkso](https://images-1252557999.file.myqcloud.com/uPic/quarkso.jpg) 
+![crashcourse](https://images-1252557999.file.myqcloud.com/uPic/crashcourse.jpg) 
 
-### [tgscan](https://tgscan.xyz/)
+### [photoroom](https://www.photoroom.com/backgrounds/)
 
-免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
+利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
 
-- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
-- 网页：[tgscan.xyz](https://tgscan.xyz/)
-
-![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
+![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
 
 ## ✍️ 说明
 
