@@ -5,102 +5,90 @@
 
 ## 🎯 项目 
 
-### [invoice](https://github.com/guanshuicheng/invoice)
+### [siri-ultra](https://github.com/fatwang2/siri-ultra)
 
-增值税发票 `OCR` 识别，使用 `flask` 微服务架构，识别 `type` ：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等：
+`Siri Ultra` 是一个能在 `iPhone` 上使用的 AI 聊天快捷指令，无需下载任何软件即可体验到最新的大模型：
 
-![invoice](https://images-1252557999.file.myqcloud.com/uPic/invoice.jpg) 
+- 通过 Siri 实时语音对话，也可以直接运行快捷指令进行文字对话
+- 兼容各种大模型，包括 OpenAI、Gemini、DeepSeek 等
+- 支持联网搜索（需单独配置搜索 key）
+- 支持网页总结 （链接发给快捷指令即可） 
 
-### [AgentGPT](https://github.com/reworkd/AgentGPT)
+### [surveyking](https://github.com/javahuang/surveyking)
 
-🤖 在您的浏览器中组装、配置和部署自主 AI 代理，可以简单理解成 `Auto-GPT` 的网页版：
+功能挺全面的一个调查问卷系统：
 
-- 通过向量数据库实现长期记忆 🧠
-- 通过语言链具备网络浏览能力 🌐
-- 与网站和人进行交互 👨‍👩‍👦
-- 通过文档 API 具备写作能力 📄
-- 保存代理运行 💾
-- 用户和身份验证 🔐
-- Stripe 集成以提供低限制付费版本（这样我们就不用担心基础设施成本）💵
+![surveyking](https://images-1252557999.file.myqcloud.com/uPic/surveyking.jpg) 
 
-![agentgpt](https://images-1252557999.file.myqcloud.com/uPic/agentgpt.jpg) 
+### [markitdown](https://github.com/microsoft/markitdown)
 
-### [ar5iv](https://github.com/dginev/ar5iv)
-
-`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
-
-![ar5iv](https://images-1252557999.file.myqcloud.com/uPic/ar5iv.jpg) 
+ 微软出品的格式转化开源项目，它支持将多种文件格式（如 PDF、PowerPoint、Word、Excel、图片、音频、HTML、CSV、JSON、XML 以及 ZIP 文件）转换为 Markdown 格式，便于索引和文本分析等操作。用户可以通过命令行、Python API 或 Docker 容器来使用 MarkItDown。 
 
 ## 🤖 软件 
 
-### [kobi](https://github.com/niuhuan/kobi)
+### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-一个简洁大方的跨平台漫画客户端：
+一个开源的YouTube应用程序，旨在保护隐私：
 
-![0ZQlSW](https://images-1252557999.file.myqcloud.com/uPic/0ZQlSW.png) 
+![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
 
-### [MediaBox](https://github.com/RyensX/MediaBox)
+### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
 
-全能媒体容器，插件化网罗天下媒体，畅快学习软件开发。实现了类似微信小程序的框架，只需要简单实现插件API提供数据到容器即可快速成型，方便学习爬虫、APP开发等。容器主要为插件提供以下服务：
+跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
 
-- 数据自动渲染到UI(视图组件)
-- 媒体收藏/历史记录
-- 周期性媒体数据检查服务(插件只需要实现媒体检查更新组件即可被主动检查更新)
-- 视频播放组件(播放器)，支持手势控制/夜间模式/弹幕/倍速控制/多集聚合/横竖旋转适应等
-- 私有可视化KV存储(插件私有配置)
-- 个人数据/插件云端备份(WebDav,开发中)
+![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
 
-简单来说，这款软件能看什么取决与你用什么插件：
+### [Bob](https://github.com/ripperhe/Bob)
 
-![MediaBox](https://images-1252557999.file.myqcloud.com/uPic/MediaBox.jpg) 
+同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
 
-### [Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8)
-
-基于 `PySide6` 和 `QFluentWidgets` 的跨平台 `m3u8` 下载软件：
-
-![Fluent-M3U8](https://images-1252557999.file.myqcloud.com/uPic/T7q1jB.png) 
+- [x]   划词翻译
+- [x]   截图翻译
+- [x]   输入翻译
+- [x]   翻译多开
+- [x]   自定义插件
+- [x]   自动识别语种
+- [x]   驼峰拆分、蛇形拆分
+- [x]   AppleScript 调用
+- [x]   PopClip 调用 
 
 ## 👀 资料 
 
-### [opensource-f2f](https://github.com/opensource-f2f)
+### [Sam Altman的创业手册](https://jxp73q7qjsg.feishu.cn/docx/WCNZdKDa4o2eUrxK5ElcfBXEnah)
 
-《开源面对面》是一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。
+`Sam Altman` 的创业手册文本，给YC系创始人们的建议里面最通用的一部分提炼出来变成一个创业手册。 
 
-![osf2f](https://images-1252557999.file.myqcloud.com/uPic/osf2f.jpg) 
+### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
 
-### [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)
+《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
 
-`JYY` 是南京大学的老师，具有很深的操作系统专业知识，疫情期间给学生们录网课，顺便把视频也传到了B站上，可以访问[绿导师原谅你了](https://space.bilibili.com/202224425/channel/series)观看相关视频。
+![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
 
-![jyywiki_op](https://images-1252557999.file.myqcloud.com/uPic/jyywiki_op.jpg) 
+### [Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
 
-### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
+微软出品的 `GitHub Copilot` 教程：
 
-[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
-
-目前也提供了中文版：
-
-![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
+![Mastering-GitHub-Copilot-for-Paired-Programming](https://images-1252557999.file.myqcloud.com/uPic/KTSuLa.png) 
 
 ## 🕸 网站 
 
-### [linegraphmaker](https://linegraphmaker.co/)
+### [picdiet.eula.club](https://picdiet.eula.club/)
 
-在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
+`Picdiet` 是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏：
 
-![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
+![picdiet](https://images-1252557999.file.myqcloud.com/uPic/picdiet.jpg) 
 
-### [crashcourse](https://crashcourse.club/category)
+### [onepdf](https://www.onepdf.online/)
 
-`Crash Course` 10分钟速成课，是 `Hank Green & John Green` `两兄弟在Youtube` 上制作的系列免费课程，包含了历史、文学、计算机、心理学、哲学、化学、生物学、电影等奖金40中科目的速成课，值得一看：
+免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
 
-![crashcourse](https://images-1252557999.file.myqcloud.com/uPic/crashcourse.jpg) 
+![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
 
-### [photoroom](https://www.photoroom.com/backgrounds/)
+### [caniuse](https://caniuse.com/)
 
-利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
+网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
 
-![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
+![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
 
 ## ✍️ 说明
 
