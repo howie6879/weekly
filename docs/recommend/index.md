@@ -5,90 +5,100 @@
 
 ## 🎯 项目 
 
-### [siri-ultra](https://github.com/fatwang2/siri-ultra)
+### [tabler](https://github.com/tabler/tabler)
 
-`Siri Ultra` 是一个能在 `iPhone` 上使用的 AI 聊天快捷指令，无需下载任何软件即可体验到最新的大模型：
+基于 `Bootstrap` 的免费开源的 `Dashboard UI` 工具包：
 
-- 通过 Siri 实时语音对话，也可以直接运行快捷指令进行文字对话
-- 兼容各种大模型，包括 OpenAI、Gemini、DeepSeek 等
-- 支持联网搜索（需单独配置搜索 key）
-- 支持网页总结 （链接发给快捷指令即可） 
+![tabler-preview](https://images-1252557999.file.myqcloud.com/uPic/tabler-preview.png) 
 
-### [surveyking](https://github.com/javahuang/surveyking)
+### [sql-studio](https://github.com/frectonz/sql-studio)
 
-功能挺全面的一个调查问卷系统：
+SQL 数据库浏览器，支持 `SQLite、libSQL、PostgreSQL、MySQL&DuckDB`，可以理解成一个简洁轻量的数据库客户端，安装使用也很简单：
 
-![surveyking](https://images-1252557999.file.myqcloud.com/uPic/surveyking.jpg) 
+```shell
+curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/releases/download/0.1.23/sql-studio-installer.sh | sh
+# 以周刊数据库为例
+sql-studio --address=0.0.0.0:3030 sqlite /Users/howie/Documents/workspace/weekly/weekly.db
+```
 
-### [markitdown](https://github.com/microsoft/markitdown)
+这样通过 Web 即可查看数据库信息：
 
- 微软出品的格式转化开源项目，它支持将多种文件格式（如 PDF、PowerPoint、Word、Excel、图片、音频、HTML、CSV、JSON、XML 以及 ZIP 文件）转换为 Markdown 格式，便于索引和文本分析等操作。用户可以通过命令行、Python API 或 Docker 容器来使用 MarkItDown。 
+- 数据库整体元数据信息概览
+- 表格数据浏览
+- 自定义查询（提示不全面，如果能接入 AI 感觉会更好）
+
+![sql-studio](https://images-1252557999.file.myqcloud.com/uPic/sql-studio.jpg) 
+
+### [ecapture](https://github.com/ehids/ecapture)
+
+eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
+
+![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
 
 ## 🤖 软件 
 
-### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
+### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
 
-一个开源的YouTube应用程序，旨在保护隐私：
+适用于Android的免费开源漫画阅读器，流畅丝滑：
 
-![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
+![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
 
-### [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
+之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
 
-跨平台下载 `bilibili` 视频桌面端软件，支持 `Windows、macOS、Linux` ：
+### [jan](https://github.com/janhq/jan)
 
-![BilibiliVideoDownload](https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg) 
+`Jan` 是一个开源的 `ChatGPT` 替代品，可以在您的计算机上100%离线运行各种 `LLM`。`Jan` 适用于任何硬件。从个人电脑到多 `GPU` 集群，`Jan` 支持通用架构：
 
-### [Bob](https://github.com/ripperhe/Bob)
+![jan](https://images-1252557999.file.myqcloud.com/uPic/jan.jpg)
 
-同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
+目前体验这三款，这个用户体验最好。 
 
-- [x]   划词翻译
-- [x]   截图翻译
-- [x]   输入翻译
-- [x]   翻译多开
-- [x]   自定义插件
-- [x]   自动识别语种
-- [x]   驼峰拆分、蛇形拆分
-- [x]   AppleScript 调用
-- [x]   PopClip 调用 
+### [ToastFish](https://github.com/Uahh/ToastFish)
+
+这是一个利用 `Windows` 通知栏背单词的软件，可以让你在上班、上课等环境下安全地背单词：
+
+![ToastFish](https://images-1252557999.file.myqcloud.com/uPic/ToastFish.gif) 
 
 ## 👀 资料 
 
-### [Sam Altman的创业手册](https://jxp73q7qjsg.feishu.cn/docx/WCNZdKDa4o2eUrxK5ElcfBXEnah)
+### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
 
-`Sam Altman` 的创业手册文本，给YC系创始人们的建议里面最通用的一部分提炼出来变成一个创业手册。 
+![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
 
-### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
+### [llm-action](https://github.com/liguodongiot/llm-action)
 
-《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
+本项目旨在分享大模型相关技术原理以及实战经验，让天下没有难学的大模型：
 
-![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
+![llm-action](https://images-1252557999.file.myqcloud.com/uPic/llm-action.png) 
 
-### [Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
+### [Linux 内核教学](https://linux-kernel-labs-zh.xyz/)
 
-微软出品的 `GitHub Copilot` 教程：
+本文档包含一系列 `Linux` 内核主题的课程和实验，课程侧重于理论和 `Linux` 内核探索。实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：
 
-![Mastering-GitHub-Copilot-for-Paired-Programming](https://images-1252557999.file.myqcloud.com/uPic/KTSuLa.png) 
+- 主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引
+- 实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示
+
+![linux-kernel-labs-zh](https://images-1252557999.file.myqcloud.com/uPic/linux-kernel-labs-zh.jpg) 
 
 ## 🕸 网站 
 
-### [picdiet.eula.club](https://picdiet.eula.club/)
+### [cobalt](https://cobalt.tools/)
 
-`Picdiet` 是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏：
+一个专注于隐私保护和用户自由的[开源](https://github.com/imputnet/cobalt)在线工具，它允许用户从各种网站上保存视频、音频、图片或 GIF，同时提供匿名请求和加密隧道技术，确保用户的隐私安全。
 
-![picdiet](https://images-1252557999.file.myqcloud.com/uPic/picdiet.jpg) 
+![cobalt](https://images-1252557999.file.myqcloud.com/uPic/ZwEgp6.png) 
 
-### [onepdf](https://www.onepdf.online/)
+### [phind.com](https://www.phind.com/)
 
-免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
+面向开发者的人工智能搜索引擎：
 
-![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
+![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
 
-### [caniuse](https://caniuse.com/)
+### [chuhai.tools](https://chuhai.tools/)
 
-网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
+独立开发者出海技术栈和工具集合:
 
-![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
+![chuhai](https://images-1252557999.file.myqcloud.com/uPic/chuhai.jpg) 
 
 ## ✍️ 说明
 
