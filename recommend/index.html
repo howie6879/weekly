@@ -5357,22 +5357,22 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#siri-ultra" class="md-nav__link">
-    siri-ultra
+  <a href="#tabler" class="md-nav__link">
+    tabler
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#surveyking" class="md-nav__link">
-    surveyking
+  <a href="#sql-studio" class="md-nav__link">
+    sql-studio
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#markitdown" class="md-nav__link">
-    markitdown
+  <a href="#ecapture" class="md-nav__link">
+    ecapture
   </a>
   
 </li>
@@ -5391,22 +5391,22 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#freetube" class="md-nav__link">
-    FreeTube
+  <a href="#tachiyomij2k" class="md-nav__link">
+    tachiyomiJ2K
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#bilibilivideodownload" class="md-nav__link">
-    BilibiliVideoDownload
+  <a href="#jan" class="md-nav__link">
+    jan
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#bob" class="md-nav__link">
-    Bob
+  <a href="#toastfish" class="md-nav__link">
+    ToastFish
   </a>
   
 </li>
@@ -5425,22 +5425,22 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#sam-altman" class="md-nav__link">
-    Sam Altman的创业手册
+  <a href="#rust-based-os-comp2022" class="md-nav__link">
+    rust-based-os-comp2022
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#apple" class="md-nav__link">
-    Apple 人机界面指南
+  <a href="#llm-action" class="md-nav__link">
+    llm-action
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#mastering-github-copilot-for-paired-programming" class="md-nav__link">
-    Mastering-GitHub-Copilot-for-Paired-Programming
+  <a href="#linux" class="md-nav__link">
+    Linux 内核教学
   </a>
   
 </li>
@@ -5459,22 +5459,22 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#picdieteulaclub" class="md-nav__link">
-    picdiet.eula.club
+  <a href="#cobalt" class="md-nav__link">
+    cobalt
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#onepdf" class="md-nav__link">
-    onepdf
+  <a href="#phindcom" class="md-nav__link">
+    phind.com
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#caniuse" class="md-nav__link">
-    caniuse
+  <a href="#chuhaitools" class="md-nav__link">
+    chuhai.tools
   </a>
   
 </li>
@@ -5514,58 +5514,61 @@
 <p>老胡的信息周刊<strong>历史信息回顾</strong>，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个<strong>留存</strong>以及<strong>共享</strong>。</p>
 </blockquote>
 <h2 id="_2">🎯 项目</h2>
-<h3 id="siri-ultra"><a href="https://github.com/fatwang2/siri-ultra">siri-ultra</a></h3>
-<p><code>Siri Ultra</code> 是一个能在 <code>iPhone</code> 上使用的 AI 聊天快捷指令，无需下载任何软件即可体验到最新的大模型：</p>
+<h3 id="tabler"><a href="https://github.com/tabler/tabler">tabler</a></h3>
+<p>基于 <code>Bootstrap</code> 的免费开源的 <code>Dashboard UI</code> 工具包：</p>
+<p><img alt="tabler-preview" src="https://images-1252557999.file.myqcloud.com/uPic/tabler-preview.png" /> </p>
+<h3 id="sql-studio"><a href="https://github.com/frectonz/sql-studio">sql-studio</a></h3>
+<p>SQL 数据库浏览器，支持 <code>SQLite、libSQL、PostgreSQL、MySQL&amp;DuckDB</code>，可以理解成一个简洁轻量的数据库客户端，安装使用也很简单：</p>
+<div class="codehilite"><pre><span></span><code>curl<span class="w"> </span>--proto<span class="w"> </span><span class="s1">&#39;=https&#39;</span><span class="w"> </span>--tlsv1.2<span class="w"> </span>-LsSf<span class="w"> </span>https://github.com/frectonz/sql-studio/releases/download/0.1.23/sql-studio-installer.sh<span class="w"> </span><span class="p">|</span><span class="w"> </span>sh
+<span class="c1"># 以周刊数据库为例</span>
+sql-studio<span class="w"> </span>--address<span class="o">=</span><span class="m">0</span>.0.0.0:3030<span class="w"> </span>sqlite<span class="w"> </span>/Users/howie/Documents/workspace/weekly/weekly.db
+</code></pre></div>
+
+<p>这样通过 Web 即可查看数据库信息：</p>
 <ul>
-<li>通过 Siri 实时语音对话，也可以直接运行快捷指令进行文字对话</li>
-<li>兼容各种大模型，包括 OpenAI、Gemini、DeepSeek 等</li>
-<li>支持联网搜索（需单独配置搜索 key）</li>
-<li>支持网页总结 （链接发给快捷指令即可） </li>
+<li>数据库整体元数据信息概览</li>
+<li>表格数据浏览</li>
+<li>自定义查询（提示不全面，如果能接入 AI 感觉会更好）</li>
 </ul>
-<h3 id="surveyking"><a href="https://github.com/javahuang/surveyking">surveyking</a></h3>
-<p>功能挺全面的一个调查问卷系统：</p>
-<p><img alt="surveyking" src="https://images-1252557999.file.myqcloud.com/uPic/surveyking.jpg" /> </p>
-<h3 id="markitdown"><a href="https://github.com/microsoft/markitdown">markitdown</a></h3>
-<p>微软出品的格式转化开源项目，它支持将多种文件格式（如 PDF、PowerPoint、Word、Excel、图片、音频、HTML、CSV、JSON、XML 以及 ZIP 文件）转换为 Markdown 格式，便于索引和文本分析等操作。用户可以通过命令行、Python API 或 Docker 容器来使用 MarkItDown。 </p>
+<p><img alt="sql-studio" src="https://images-1252557999.file.myqcloud.com/uPic/sql-studio.jpg" /> </p>
+<h3 id="ecapture"><a href="https://github.com/ehids/ecapture">ecapture</a></h3>
+<p>eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。</p>
+<p><img alt="ecapture" src="https://images-1252557999.file.myqcloud.com/uPic/ecapture.png" /> </p>
 <h2 id="_3">🤖 软件</h2>
-<h3 id="freetube"><a href="https://github.com/FreeTubeApp/FreeTube">FreeTube</a></h3>
-<p>一个开源的YouTube应用程序，旨在保护隐私：</p>
-<p><img alt="FreeTube" src="https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg" /> </p>
-<h3 id="bilibilivideodownload"><a href="https://github.com/blogwy/BilibiliVideoDownload">BilibiliVideoDownload</a></h3>
-<p>跨平台下载 <code>bilibili</code> 视频桌面端软件，支持 <code>Windows、macOS、Linux</code> ：</p>
-<p><img alt="BilibiliVideoDownload" src="https://images-1252557999.file.myqcloud.com/uPic/BilibiliVideoDownload.jpg" /> </p>
-<h3 id="bob"><a href="https://github.com/ripperhe/Bob">Bob</a></h3>
-<p>同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持<strong>划词翻译</strong>、<strong>截图翻译</strong>以及手动输入翻译。</p>
-<ul>
-<li>[x]   划词翻译</li>
-<li>[x]   截图翻译</li>
-<li>[x]   输入翻译</li>
-<li>[x]   翻译多开</li>
-<li>[x]   自定义插件</li>
-<li>[x]   自动识别语种</li>
-<li>[x]   驼峰拆分、蛇形拆分</li>
-<li>[x]   AppleScript 调用</li>
-<li>[x]   PopClip 调用 </li>
-</ul>
+<h3 id="tachiyomij2k"><a href="https://github.com/Jays2Kings/tachiyomiJ2K">tachiyomiJ2K</a></h3>
+<p>适用于Android的免费开源漫画阅读器，流畅丝滑：</p>
+<p><img alt="tachiyomiJ2K" src="https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif" /></p>
+<p>之前老胡的周刊006期推荐过的漫画阅读APP<a href="https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4">全是漫画</a>也还不错。 </p>
+<h3 id="jan"><a href="https://github.com/janhq/jan">jan</a></h3>
+<p><code>Jan</code> 是一个开源的 <code>ChatGPT</code> 替代品，可以在您的计算机上100%离线运行各种 <code>LLM</code>。<code>Jan</code> 适用于任何硬件。从个人电脑到多 <code>GPU</code> 集群，<code>Jan</code> 支持通用架构：</p>
+<p><img alt="jan" src="https://images-1252557999.file.myqcloud.com/uPic/jan.jpg" /></p>
+<p>目前体验这三款，这个用户体验最好。 </p>
+<h3 id="toastfish"><a href="https://github.com/Uahh/ToastFish">ToastFish</a></h3>
+<p>这是一个利用 <code>Windows</code> 通知栏背单词的软件，可以让你在上班、上课等环境下安全地背单词：</p>
+<p><img alt="ToastFish" src="https://images-1252557999.file.myqcloud.com/uPic/ToastFish.gif" /> </p>
 <h2 id="_4">👀 资料</h2>
-<h3 id="sam-altman"><a href="https://jxp73q7qjsg.feishu.cn/docx/WCNZdKDa4o2eUrxK5ElcfBXEnah">Sam Altman的创业手册</a></h3>
-<p><code>Sam Altman</code> 的创业手册文本，给YC系创始人们的建议里面最通用的一部分提炼出来变成一个创业手册。 </p>
-<h3 id="apple"><a href="https://developer.apple.com/cn/design/human-interface-guidelines/">Apple 人机界面指南</a></h3>
-<p>《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：</p>
-<p><img alt="human-interface-guidelines" src="https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg" /> </p>
-<h3 id="mastering-github-copilot-for-paired-programming"><a href="https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming">Mastering-GitHub-Copilot-for-Paired-Programming</a></h3>
-<p>微软出品的 <code>GitHub Copilot</code> 教程：</p>
-<p><img alt="Mastering-GitHub-Copilot-for-Paired-Programming" src="https://images-1252557999.file.myqcloud.com/uPic/KTSuLa.png" /> </p>
+<h3 id="rust-based-os-comp2022"><a href="https://github.com/LearningOS/rust-based-os-comp2022">rust-based-os-comp2022</a></h3>
+<p><img alt="rust-based-os-comp2022" src="https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg" /> </p>
+<h3 id="llm-action"><a href="https://github.com/liguodongiot/llm-action">llm-action</a></h3>
+<p>本项目旨在分享大模型相关技术原理以及实战经验，让天下没有难学的大模型：</p>
+<p><img alt="llm-action" src="https://images-1252557999.file.myqcloud.com/uPic/llm-action.png" /> </p>
+<h3 id="linux"><a href="https://linux-kernel-labs-zh.xyz/">Linux 内核教学</a></h3>
+<p>本文档包含一系列 <code>Linux</code> 内核主题的课程和实验，课程侧重于理论和 <code>Linux</code> 内核探索。实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：</p>
+<ul>
+<li>主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引</li>
+<li>实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示</li>
+</ul>
+<p><img alt="linux-kernel-labs-zh" src="https://images-1252557999.file.myqcloud.com/uPic/linux-kernel-labs-zh.jpg" /> </p>
 <h2 id="_5">🕸 网站</h2>
-<h3 id="picdieteulaclub"><a href="https://picdiet.eula.club/">picdiet.eula.club</a></h3>
-<p><code>Picdiet</code> 是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏：</p>
-<p><img alt="picdiet" src="https://images-1252557999.file.myqcloud.com/uPic/picdiet.jpg" /> </p>
-<h3 id="onepdf"><a href="https://www.onepdf.online/">onepdf</a></h3>
-<p>免费的 <code>PDF</code> 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：</p>
-<p><img alt="onepdf" src="https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg" /> </p>
-<h3 id="caniuse"><a href="https://caniuse.com/">caniuse</a></h3>
-<p>网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 <code>Web</code> 浏览器上的前端技术：</p>
-<p><img alt="caniuse" src="https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg" /> </p>
+<h3 id="cobalt"><a href="https://cobalt.tools/">cobalt</a></h3>
+<p>一个专注于隐私保护和用户自由的<a href="https://github.com/imputnet/cobalt">开源</a>在线工具，它允许用户从各种网站上保存视频、音频、图片或 GIF，同时提供匿名请求和加密隧道技术，确保用户的隐私安全。</p>
+<p><img alt="cobalt" src="https://images-1252557999.file.myqcloud.com/uPic/ZwEgp6.png" /> </p>
+<h3 id="phindcom"><a href="https://www.phind.com/">phind.com</a></h3>
+<p>面向开发者的人工智能搜索引擎：</p>
+<p><img alt="phind" src="https://images-1252557999.file.myqcloud.com/uPic/phind.jpg" /> </p>
+<h3 id="chuhaitools"><a href="https://chuhai.tools/">chuhai.tools</a></h3>
+<p>独立开发者出海技术栈和工具集合:</p>
+<p><img alt="chuhai" src="https://images-1252557999.file.myqcloud.com/uPic/chuhai.jpg" /> </p>
 <h2 id="_6">✍️ 说明</h2>
 <p>周刊相关信息：</p>
 <ul>
@@ -5582,7 +5585,7 @@
   <small>
     
       最后更新:
-      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">August 25, 2025</span>
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">August 26, 2025</span>
       
     
   </small>
