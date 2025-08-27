@@ -5,100 +5,92 @@
 
 ## 🎯 项目 
 
-### [tabler](https://github.com/tabler/tabler)
+### [docker-wechat](https://github.com/huan/docker-wechat)
 
-基于 `Bootstrap` 的免费开源的 `Dashboard UI` 工具包：
+盒装微信，在linux下基于Docker技术使用微信客户端：
 
-![tabler-preview](https://images-1252557999.file.myqcloud.com/uPic/tabler-preview.png) 
+![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
 
-### [sql-studio](https://github.com/frectonz/sql-studio)
+### [Weekly Hub](https://github.com/howie6879/weeklyhub)
 
-SQL 数据库浏览器，支持 `SQLite、libSQL、PostgreSQL、MySQL&DuckDB`，可以理解成一个简洁轻量的数据库客户端，安装使用也很简单：
+汇聚优质精选技术周刊，为你提供高质量信息流，让你的学习更加高效：
 
-```shell
-curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/releases/download/0.1.23/sql-studio-installer.sh | sh
-# 以周刊数据库为例
-sql-studio --address=0.0.0.0:3030 sqlite /Users/howie/Documents/workspace/weekly/weekly.db
-```
+- 周刊文章订阅列表：[Weekly Hub](https://www.fre123.com/wk) & 文末有订阅工具推荐👀
+- 周刊文章展示地址：[weekly.fre123.com](https://www.fre123.com/weekly)
 
-这样通过 Web 即可查看数据库信息：
+![fre123_weeklyhub](https://images-1252557999.file.myqcloud.com/uPic/fre123_weeklyhub.jpg) 
 
-- 数据库整体元数据信息概览
-- 表格数据浏览
-- 自定义查询（提示不全面，如果能接入 AI 感觉会更好）
+### [browser-use](https://github.com/browser-use/browser-use)
 
-![sql-studio](https://images-1252557999.file.myqcloud.com/uPic/sql-studio.jpg) 
+一种允许人工智能控制浏览器的解决方案，通过提取网页上所有交互元素，使得 `AI Agent` 能够更专注地执行其任务:
 
-### [ecapture](https://github.com/ehids/ecapture)
-
-eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
-
-![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
+![browser-use](https://images-1252557999.file.myqcloud.com/uPic/PZHVoz.png) 
 
 ## 🤖 软件 
 
-### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
+### [MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop)
 
-适用于Android的免费开源漫画阅读器，流畅丝滑：
+一个插件化、定制化、无广告的免费音乐播放器:
 
-![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
+- 插件化：本软件仅仅是一个播放器，本身并不集成任何平台的任何音源，所有的搜索、播放、歌单导入等功能全部基于插件
+- 插件支持的功能：搜索（音乐、专辑、作者、歌单）、播放、查看专辑、查看作者详细信息、导入单曲、导入歌单、获取歌词等
+- 定制化：本软件可以通过主题包定义软件外观及背景，详见下方主题包一节
+- 无广告：基于 GPL3.0 协议开源，将会保持免费
+- 隐私：软件所有数据存储在本地，本软件不会上传你的个人信息。
 
-之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
+![MusicFreeDesktop](https://images-1252557999.file.myqcloud.com/uPic/MusicFreeDesktop.png) 
 
-### [jan](https://github.com/janhq/jan)
+### [openai-translator](https://github.com/yetone/openai-translator)
 
-`Jan` 是一个开源的 `ChatGPT` 替代品，可以在您的计算机上100%离线运行各种 `LLM`。`Jan` 适用于任何硬件。从个人电脑到多 `GPU` 集群，`Jan` 支持通用架构：
+基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用：
 
-![jan](https://images-1252557999.file.myqcloud.com/uPic/jan.jpg)
+![openai_translator](https://images-1252557999.file.myqcloud.com/uPic/openai_translator.jpg)
+如果你还使用 bob 软件进行翻译，可以考虑使用这个插件：[bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)：基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。 
 
-目前体验这三款，这个用户体验最好。 
+### [Bonjourr](https://github.com/victrme/Bonjourr)
 
-### [ToastFish](https://github.com/Uahh/ToastFish)
+`Bonjourr` 是法语你好的意思，这是一个简约漂亮的起始页浏览器插件：
 
-这是一个利用 `Windows` 通知栏背单词的软件，可以让你在上班、上课等环境下安全地背单词：
-
-![ToastFish](https://images-1252557999.file.myqcloud.com/uPic/ToastFish.gif) 
+![Bonjourr](https://images-1252557999.file.myqcloud.com/uPic/Bonjourr.jpg) 
 
 ## 👀 资料 
 
-### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
+### [Prompt Engineering](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
-![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
+ `Google` 官方出品的提示工程（`Prompt Engineering`）白皮书，该书系统性介绍了 `Prompt Engineering` 相关技术，包括 `LLMs` 基础知识、提示技巧和诸多最佳实践。 
 
-### [llm-action](https://github.com/liguodongiot/llm-action)
+### [AI-Agent-In-Action](https://github.com/AIGeniusInstitute/AI-Agent-In-Action)
 
-本项目旨在分享大模型相关技术原理以及实战经验，让天下没有难学的大模型：
+开源的 `AI Agent` 开发实战书籍：
 
-![llm-action](https://images-1252557999.file.myqcloud.com/uPic/llm-action.png) 
+![AI-Agent-In-Action](https://images-1252557999.file.myqcloud.com/uPic/VkUaD9.png) 
 
-### [Linux 内核教学](https://linux-kernel-labs-zh.xyz/)
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-本文档包含一系列 `Linux` 内核主题的课程和实验，课程侧重于理论和 `Linux` 内核探索。实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：
+《Mastering GO》中文译本，《玩转 GO》：
 
-- 主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引
-- 实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示
-
-![linux-kernel-labs-zh](https://images-1252557999.file.myqcloud.com/uPic/linux-kernel-labs-zh.jpg) 
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
 ## 🕸 网站 
 
-### [cobalt](https://cobalt.tools/)
+### [pqoqubbw/icons](https://icons.pqoqubbw.dev/)
 
-一个专注于隐私保护和用户自由的[开源](https://github.com/imputnet/cobalt)在线工具，它允许用户从各种网站上保存视频、音频、图片或 GIF，同时提供匿名请求和加密隧道技术，确保用户的隐私安全。
+不一样的[开源](https://github.com/pqoqubbw/icons)图标库，让 `Icons` 动起来：
 
-![cobalt](https://images-1252557999.file.myqcloud.com/uPic/ZwEgp6.png) 
+![pqoqubbw](https://images-1252557999.file.myqcloud.com/uPic/zVA8VP.png) 
 
-### [phind.com](https://www.phind.com/)
+### [pandagpt.io](https://www.pandagpt.io/)
 
-面向开发者的人工智能搜索引擎：
+基于  `ChatGPT` 的 `AI` 文档机器人：
 
-![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
+![pandagpt](https://images-1252557999.file.myqcloud.com/uPic/pandagpt.jpg) 
 
-### [chuhai.tools](https://chuhai.tools/)
+### [Connected Papers](https://www.connectedpapers.com/)
 
-独立开发者出海技术栈和工具集合:
+`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
 
-![chuhai](https://images-1252557999.file.myqcloud.com/uPic/chuhai.jpg) 
+![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
+是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
 
 ## ✍️ 说明
 
