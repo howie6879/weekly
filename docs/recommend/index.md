@@ -5,92 +5,97 @@
 
 ## 🎯 项目 
 
-### [docker-wechat](https://github.com/huan/docker-wechat)
+### [rssbot](https://github.com/iovxw/rssbot)
 
-盒装微信，在linux下基于Docker技术使用微信客户端：
+用于消息通知的轻量级 `Telegram RSS` 机器人。 
 
-![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
+### [siri-ultra](https://github.com/fatwang2/siri-ultra)
 
-### [Weekly Hub](https://github.com/howie6879/weeklyhub)
+`Siri Ultra` 是一个能在 `iPhone` 上使用的 AI 聊天快捷指令，无需下载任何软件即可体验到最新的大模型：
 
-汇聚优质精选技术周刊，为你提供高质量信息流，让你的学习更加高效：
+- 通过 Siri 实时语音对话，也可以直接运行快捷指令进行文字对话
+- 兼容各种大模型，包括 OpenAI、Gemini、DeepSeek 等
+- 支持联网搜索（需单独配置搜索 key）
+- 支持网页总结 （链接发给快捷指令即可） 
 
-- 周刊文章订阅列表：[Weekly Hub](https://www.fre123.com/wk) & 文末有订阅工具推荐👀
-- 周刊文章展示地址：[weekly.fre123.com](https://www.fre123.com/weekly)
+### [halo](https://github.com/halo-dev/halo)
 
-![fre123_weeklyhub](https://images-1252557999.file.myqcloud.com/uPic/fre123_weeklyhub.jpg) 
+✍ 一款现代化的开源博客& `CMS` 系统：
 
-### [browser-use](https://github.com/browser-use/browser-use)
-
-一种允许人工智能控制浏览器的解决方案，通过提取网页上所有交互元素，使得 `AI Agent` 能够更专注地执行其任务:
-
-![browser-use](https://images-1252557999.file.myqcloud.com/uPic/PZHVoz.png) 
+![halo](https://images-1252557999.file.myqcloud.com/uPic/halo.jpg) 
 
 ## 🤖 软件 
 
-### [MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop)
+### [LiveContainer](https://github.com/LiveContainer/LiveContainer)
 
-一个插件化、定制化、无广告的免费音乐播放器:
+不用越狱，在  `IOS` 下通过**容器**形式运行，可尝试多开：
 
-- 插件化：本软件仅仅是一个播放器，本身并不集成任何平台的任何音源，所有的搜索、播放、歌单导入等功能全部基于插件
-- 插件支持的功能：搜索（音乐、专辑、作者、歌单）、播放、查看专辑、查看作者详细信息、导入单曲、导入歌单、获取歌词等
-- 定制化：本软件可以通过主题包定义软件外观及背景，详见下方主题包一节
-- 无广告：基于 GPL3.0 协议开源，将会保持免费
-- 隐私：软件所有数据存储在本地，本软件不会上传你的个人信息。
+![LiveContainer](https://images-1252557999.file.myqcloud.com/uPic/Fsv3cc.png) 
 
-![MusicFreeDesktop](https://images-1252557999.file.myqcloud.com/uPic/MusicFreeDesktop.png) 
+### [MooTool](https://github.com/rememberber/MooTool)
 
-### [openai-translator](https://github.com/yetone/openai-translator)
+开发者常备小工具：
 
-基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用：
+![ceVEdx](https://images-1252557999.file.myqcloud.com/uPic/ceVEdx.png) 
 
-![openai_translator](https://images-1252557999.file.myqcloud.com/uPic/openai_translator.jpg)
-如果你还使用 bob 软件进行翻译，可以考虑使用这个插件：[bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)：基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。 
+### [feed-flow](https://github.com/prof18/feed-flow)
 
-### [Bonjourr](https://github.com/victrme/Bonjourr)
+`FeedFlow` 是一款极简主义的 `RSS` 阅读器，可在 `Android、iOS&macOS`上使用：
 
-`Bonjourr` 是法语你好的意思，这是一个简约漂亮的起始页浏览器插件：
-
-![Bonjourr](https://images-1252557999.file.myqcloud.com/uPic/Bonjourr.jpg) 
+![feedflow](https://images-1252557999.file.myqcloud.com/uPic/feedflow.jpg) 
 
 ## 👀 资料 
 
-### [Prompt Engineering](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
+### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
 
- `Google` 官方出品的提示工程（`Prompt Engineering`）白皮书，该书系统性介绍了 `Prompt Engineering` 相关技术，包括 `LLMs` 基础知识、提示技巧和诸多最佳实践。 
+张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
 
-### [AI-Agent-In-Action](https://github.com/AIGeniusInstitute/AI-Agent-In-Action)
+![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
 
-开源的 `AI Agent` 开发实战书籍：
+### [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
 
-![AI-Agent-In-Action](https://images-1252557999.file.myqcloud.com/uPic/VkUaD9.png) 
+将 `DeepSeek` 大模型能力轻松接入各类软件：
 
-### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
+- 应用程序：Chatbox ChatGPT-Next-Web	留白记事等
+- AI Agent 框架
+- RAG 框架
+- Solana 框架
+- 即时通讯插件
+- 浏览器插件
+- VS Code 插件 neovim 插件JetBrains 插件 
 
-《Mastering GO》中文译本，《玩转 GO》：
+### [ai_agents_az](https://github.com/gyoridavid/ai_agents_az)
 
-![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
+`ai_agents_az` 项目是一个专门为 AI 代理创建的资源库，其中包含了多个回放和教程，涵盖从创建药物处方代理到使用 n8n 等工具制作社交媒体内容的各种实践案例。该项目由 David Gyori 和 Kais 共同维护，主要使用 Python 语言开发。项目内容分为两个主要部分：一是包含 20 个集数的 AI 代理 A-Z 系列教程，每个集数都有相应的工作流文件和说明；二是提供了一个用于创建短视频的 MCP/REST 服务器和一个用于创建旨在的故事创作服务器。
+
+![ai_agents_az](https://images-1252557999.file.myqcloud.com/uPic/hZIh2V.png) 
 
 ## 🕸 网站 
 
-### [pqoqubbw/icons](https://icons.pqoqubbw.dev/)
+### [dute](https://www.dute.org/)
 
-不一样的[开源](https://github.com/pqoqubbw/icons)图标库，让 `Icons` 动起来：
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-![pqoqubbw](https://images-1252557999.file.myqcloud.com/uPic/zVA8VP.png) 
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
 
-### [pandagpt.io](https://www.pandagpt.io/)
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
-基于  `ChatGPT` 的 `AI` 文档机器人：
+### [devhints](https://devhints.io/)
 
-![pandagpt](https://images-1252557999.file.myqcloud.com/uPic/pandagpt.jpg) 
+一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
 
-### [Connected Papers](https://www.connectedpapers.com/)
+![devhints](https://images-1252557999.file.myqcloud.com/uPic/Wl8r0C.png) 
 
-`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
+### [waytoagi](https://www.waytoagi.com/)
 
-![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
-是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
+`AI` 知识库和工具站：
+
+![waytoagi](https://images-1252557999.file.myqcloud.com/uPic/waytoagi.jpg) 
 
 ## ✍️ 说明
 
