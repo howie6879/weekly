@@ -5,18 +5,17 @@
 
 ## 🎯 项目 
 
-### [rssbot](https://github.com/iovxw/rssbot)
+### [MOSS](https://github.com/OpenLMLab/MOSS)
 
-用于消息通知的轻量级 `Telegram RSS` 机器人。 
+来自复旦大学的开源工具增强型会话语言模型-MOSS:
 
-### [siri-ultra](https://github.com/fatwang2/siri-ultra)
+![MOSS](https://images-1252557999.file.myqcloud.com/uPic/MOSS.jpg) 
 
-`Siri Ultra` 是一个能在 `iPhone` 上使用的 AI 聊天快捷指令，无需下载任何软件即可体验到最新的大模型：
+### [littlelink](https://github.com/sethcottle/littlelink)
 
-- 通过 Siri 实时语音对话，也可以直接运行快捷指令进行文字对话
-- 兼容各种大模型，包括 OpenAI、Gemini、DeepSeek 等
-- 支持联网搜索（需单独配置搜索 key）
-- 支持网页总结 （链接发给快捷指令即可） 
+`LittleLink` 是一个开源项目，旨在为用户提供一个简单的方式来创建和托管自己的 `Linktree` 页面。其提供多达 100 种品牌按钮样式，通过社区共享和持续更新，同时强调易用性和可访问性。
+
+![littlelink](https://images-1252557999.file.myqcloud.com/uPic/yj6EE2.png) 
 
 ### [halo](https://github.com/halo-dev/halo)
 
@@ -26,76 +25,72 @@
 
 ## 🤖 软件 
 
-### [LiveContainer](https://github.com/LiveContainer/LiveContainer)
+### [SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary)
 
-不用越狱，在  `IOS` 下通过**容器**形式运行，可尝试多开：
+「侠客日记」是一个开源、跨平台的本地日记 APP，支持 Android、Windows、macOS 和 Web 等平台。其特点包括极简风格的 UI 设计、Markdown 即时渲染、隐私模式、标签分类展示、支持图片音视频、数学公式等多种格式，数据本地存储无需联网，并且支持多种格式文件导出及同一局域网下同步传输。
 
-![LiveContainer](https://images-1252557999.file.myqcloud.com/uPic/Fsv3cc.png) 
+![SwashbucklerDiary](https://images-1252557999.file.myqcloud.com/uPic/SwashbucklerDiary.jpg) 
 
-### [MooTool](https://github.com/rememberber/MooTool)
+### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
 
-开发者常备小工具：
+使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
 
-![ceVEdx](https://images-1252557999.file.myqcloud.com/uPic/ceVEdx.png) 
+- 支持下载无水印视频
+- 支持下载某个账号号的所有视频
 
-### [feed-flow](https://github.com/prof18/feed-flow)
+![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
 
-`FeedFlow` 是一款极简主义的 `RSS` 阅读器，可在 `Android、iOS&macOS`上使用：
+### [Responsively](https://github.com/responsively-org/responsively-app)
 
-![feedflow](https://images-1252557999.file.myqcloud.com/uPic/feedflow.jpg) 
+一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
+
+![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
 
 ## 👀 资料 
 
-### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
+### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
 
-张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
+如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
 
-![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
+这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
 
-### [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
+其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
 
-将 `DeepSeek` 大模型能力轻松接入各类软件：
+![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
 
-- 应用程序：Chatbox ChatGPT-Next-Web	留白记事等
-- AI Agent 框架
-- RAG 框架
-- Solana 框架
-- 即时通讯插件
-- 浏览器插件
-- VS Code 插件 neovim 插件JetBrains 插件 
+### [agents-course](https://huggingface.co/learn/agents-course/unit0/introduction)
 
-### [ai_agents_az](https://github.com/gyoridavid/ai_agents_az)
+🤗 AI Agents Course 是一个旨在从基础到高级教授人工智能代理（Agents）的免费课程，涵盖理论、设计和实践，并提供使用流行库（如 smolagents、LangChain 和 LlamaIndex）的实战演练，以及通过挑战赛和社区贡献来提升学习体验。
 
-`ai_agents_az` 项目是一个专门为 AI 代理创建的资源库，其中包含了多个回放和教程，涵盖从创建药物处方代理到使用 n8n 等工具制作社交媒体内容的各种实践案例。该项目由 David Gyori 和 Kais 共同维护，主要使用 Python 语言开发。项目内容分为两个主要部分：一是包含 20 个集数的 AI 代理 A-Z 系列教程，每个集数都有相应的工作流文件和说明；二是提供了一个用于创建短视频的 MCP/REST 服务器和一个用于创建旨在的故事创作服务器。
+![agents-course](https://images-1252557999.file.myqcloud.com/uPic/AcJZte.png) 
 
-![ai_agents_az](https://images-1252557999.file.myqcloud.com/uPic/hZIh2V.png) 
+### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+
+开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
+
+![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
 
 ## 🕸 网站 
 
-### [dute](https://www.dute.org/)
+### [纸砚双拼](https://blog.simplenaive.cn/shuangpin/#/)
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
+一个好看的双拼学习网站：
 
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
+![zy_shuangpin](https://images-1252557999.file.myqcloud.com/uPic/zy_shuangpin.jpg) 
 
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+### [dll-files](https://cn.dll-files.com/)
 
-### [devhints](https://devhints.io/)
+最近一些工作在 Windows 系统上完成，有一些软件总是提示：无法找到xxxx.dll文件...，这个网站很好地解决了我的问题：
 
-一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
+![dll-files](https://images-1252557999.file.myqcloud.com/uPic/dll-files.jpg) 
 
-![devhints](https://images-1252557999.file.myqcloud.com/uPic/Wl8r0C.png) 
+### [removerized](https://removerized.tech/)
 
-### [waytoagi](https://www.waytoagi.com/)
+开源免费的图片去背景工具网站，交互体验还不错：
 
-`AI` 知识库和工具站：
+![removerized](https://images-1252557999.file.myqcloud.com/uPic/removerized.jpg)
 
-![waytoagi](https://images-1252557999.file.myqcloud.com/uPic/waytoagi.jpg) 
+当然了，模型效果对一些图片比不上一些收费的。 
 
 ## ✍️ 说明
 
