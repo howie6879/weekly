@@ -5,92 +5,97 @@
 
 ## 🎯 项目 
 
-### [MOSS](https://github.com/OpenLMLab/MOSS)
+### [PanIndex](https://github.com/libsgh/PanIndex)
 
-来自复旦大学的开源工具增强型会话语言模型-MOSS:
+网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
 
-![MOSS](https://images-1252557999.file.myqcloud.com/uPic/MOSS.jpg) 
+- 跨平台、易部署
+- 多模式、多网盘
+- 多主题
+- 下载直链
+- 防盗链
+- 短链、分享
+- 访问控制
+- 分流
+- WebDav
 
-### [littlelink](https://github.com/sethcottle/littlelink)
+![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
 
-`LittleLink` 是一个开源项目，旨在为用户提供一个简单的方式来创建和托管自己的 `Linktree` 页面。其提供多达 100 种品牌按钮样式，通过社区共享和持续更新，同时强调易用性和可访问性。
+### [yakGPT](https://github.com/yakGPT/yakGPT)
 
-![littlelink](https://images-1252557999.file.myqcloud.com/uPic/yj6EE2.png) 
+一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
 
-### [halo](https://github.com/halo-dev/halo)
+![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
 
-✍ 一款现代化的开源博客& `CMS` 系统：
+### [form-create-designer](https://github.com/xaboy/form-create-designer)
 
-![halo](https://images-1252557999.file.myqcloud.com/uPic/halo.jpg) 
+`form-create-designer` 是基于 [@form-create/element-ui](https://github.com/xaboy/form-create) 实现的表单设计器组件。可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率，节省开发者的时间：
+
+![form-create-designer](https://images-1252557999.file.myqcloud.com/uPic/form-create-designer.png) 
 
 ## 🤖 软件 
 
-### [SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary)
+### [Free-NTFS-for-Mac](https://github.com/hoochanlon/Free-NTFS-for-Mac)
 
-「侠客日记」是一个开源、跨平台的本地日记 APP，支持 Android、Windows、macOS 和 Web 等平台。其特点包括极简风格的 UI 设计、Markdown 即时渲染、隐私模式、标签分类展示、支持图片音视频、数学公式等多种格式，数据本地存储无需联网，并且支持多种格式文件导出及同一局域网下同步传输。
+这是一款支持苹果芯片的 `Free NTFS for Mac` 小工具软件，主要是为了方便想要免费使用 `NTFS` 格式移动存储的文件拷贝与共享的苹果电脑用户：
 
-![SwashbucklerDiary](https://images-1252557999.file.myqcloud.com/uPic/SwashbucklerDiary.jpg) 
+![Free-NTFS-for-Mac](https://images-1252557999.file.myqcloud.com/uPic/Free-NTFS-for-Mac.png) 
 
-### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
+### [obs-studio](https://github.com/obsproject/obs-studio)
 
-使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
+免费开源的专业屏幕录制+视频串流直播软件，包含视频录制、屏幕录像、音频录制、直播推流等功能。
 
-- 支持下载无水印视频
-- 支持下载某个账号号的所有视频
+![obs-studio](https://images-1252557999.file.myqcloud.com/uPic/2asRCI.png) 
 
-![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
+### [SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote)
 
-### [Responsively](https://github.com/responsively-org/responsively-app)
+> 刚毕业的大学生 Alpha Liu，是一位热爱硬件的极客。他开发了一款名为 SpeedyNote 的开源笔记软件，专为无纸化学习而生，致力于让低端设备也能拥有流畅、极致的书写体验。并将这个项目视为一份开源礼物，送给所有因硬件门槛而被挡在无纸化学习门外的同学，也为那些被遗忘的旧平板、老电脑注入了新的活力。
 
-一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
+一款简单的笔记应用，性能出色，支持 PDF 导入，
 
-![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
+![SpeedyNote](https://images-1252557999.file.myqcloud.com/uPic/aTbqHl.png) 
 
 ## 👀 资料 
 
-### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
+### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
 
-如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
+《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
 
-这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
+![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
 
-其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
+### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
 
-![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
+本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
 
-### [agents-course](https://huggingface.co/learn/agents-course/unit0/introduction)
+我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
 
-🤗 AI Agents Course 是一个旨在从基础到高级教授人工智能代理（Agents）的免费课程，涵盖理论、设计和实践，并提供使用流行库（如 smolagents、LangChain 和 LlamaIndex）的实战演练，以及通过挑战赛和社区贡献来提升学习体验。
+无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
 
-![agents-course](https://images-1252557999.file.myqcloud.com/uPic/AcJZte.png) 
+### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
 
-### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
 
-开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
-
-![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
+![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
 
 ## 🕸 网站 
 
-### [纸砚双拼](https://blog.simplenaive.cn/shuangpin/#/)
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
 
-一个好看的双拼学习网站：
+PDF Squeezer 是一款 PDF 压缩工具：
 
-![zy_shuangpin](https://images-1252557999.file.myqcloud.com/uPic/zy_shuangpin.jpg) 
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
-### [dll-files](https://cn.dll-files.com/)
+### [react-tetris](https://github.com/chvin/react-tetris)
 
-最近一些工作在 Windows 系统上完成，有一些软件总是提示：无法找到xxxx.dll文件...，这个网站很好地解决了我的问题：
+用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
 
-![dll-files](https://images-1252557999.file.myqcloud.com/uPic/dll-files.jpg) 
+![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
 
-### [removerized](https://removerized.tech/)
+### [transhumans](https://www.transhumans.xyz/)
 
-开源免费的图片去背景工具网站，交互体验还不错：
+免费可商用的人物插图：
 
-![removerized](https://images-1252557999.file.myqcloud.com/uPic/removerized.jpg)
-
-当然了，模型效果对一些图片比不上一些收费的。 
+![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
 
 ## ✍️ 说明
 
