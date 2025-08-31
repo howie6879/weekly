@@ -5,97 +5,124 @@
 
 ## 🎯 项目 
 
-### [PanIndex](https://github.com/libsgh/PanIndex)
+### [DataEase](https://github.com/dataease/dataease)
 
-网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
+DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
 
-- 跨平台、易部署
-- 多模式、多网盘
-- 多主题
-- 下载直链
-- 防盗链
-- 短链、分享
-- 访问控制
-- 分流
-- WebDav
+### [aigotools](https://github.com/someu/aigotools)
 
-![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
+AigoTools 可以帮助用户快速创建和管理导航站点，内置站点管理和自动收录功能，同时提供国际化、SEO、多种图片存储方案。让用户可以快速部署上线自己的导航站。
 
-### [yakGPT](https://github.com/yakGPT/yakGPT)
+- 站点管理
+- 站点信息自动采集（playwright、jina、openai）
+- 用户管理（clerk）
+- 国际化
+- 暗色/亮色主题切换
+- SEO 优化
+- 多种图片存储方案（本地minio、aws s3、腾讯云cos）
 
-一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
+![aigotools](https://images-1252557999.file.myqcloud.com/uPic/aigotools.jpg) 
 
-![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
+### [mongo-express](https://github.com/mongo-express/mongo-express)
 
-### [form-create-designer](https://github.com/xaboy/form-create-designer)
+基于 `Web` 的 `MongoDB` 管理界面，使用 `Node.js` 和 `Express` 编写：
 
-`form-create-designer` 是基于 [@form-create/element-ui](https://github.com/xaboy/form-create) 实现的表单设计器组件。可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率，节省开发者的时间：
+![mongo-express](https://images-1252557999.file.myqcloud.com/uPic/mongo-express.png)
+同类型基于 `Web` 的 `Mongo GUI` 还推荐：
 
-![form-create-designer](https://images-1252557999.file.myqcloud.com/uPic/form-create-designer.png) 
+- [mongo-gui](https://github.com/arunbandari/mongo-gui)
+- [Mongoku](https://github.com/huggingface/Mongoku)
+- [mongood](https://github.com/renzholy/mongood) 
 
 ## 🤖 软件 
 
-### [Free-NTFS-for-Mac](https://github.com/hoochanlon/Free-NTFS-for-Mac)
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
-这是一款支持苹果芯片的 `Free NTFS for Mac` 小工具软件，主要是为了方便想要免费使用 `NTFS` 格式移动存储的文件拷贝与共享的苹果电脑用户：
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 
-![Free-NTFS-for-Mac](https://images-1252557999.file.myqcloud.com/uPic/Free-NTFS-for-Mac.png) 
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
-### [obs-studio](https://github.com/obsproject/obs-studio)
+### [yokai](https://github.com/null2264/yokai)
 
-免费开源的专业屏幕录制+视频串流直播软件，包含视频录制、屏幕录像、音频录制、直播推流等功能。
+一个免费且开源的安卓漫画阅读器：
 
-![obs-studio](https://images-1252557999.file.myqcloud.com/uPic/2asRCI.png) 
+![yokai](https://images-1252557999.file.myqcloud.com/uPic/Qy2ZHb.png)
 
-### [SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote)
+之前还推荐免费漫画软件还有：
 
-> 刚毕业的大学生 Alpha Liu，是一位热爱硬件的极客。他开发了一款名为 SpeedyNote 的开源笔记软件，专为无纸化学习而生，致力于让低端设备也能拥有流畅、极致的书写体验。并将这个项目视为一份开源礼物，送给所有因硬件门槛而被挡在无纸化学习门外的同学，也为那些被遗忘的旧平板、老电脑注入了新的活力。
+- [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
+- [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
+- [kobi](https://github.com/niuhuan/kobi)
+- [aniyomi](https://github.com/aniyomiorg/aniyomi)
+- [any-reader](https://github.com/aooiuu/any-reader)
+- [miru-app](https://github.com/miru-project/miru-app)
+- [全是漫画](https://github.com/hongchacha/cartoon)
 
-一款简单的笔记应用，性能出色，支持 PDF 导入，
+更多去周刊网站检索漫画关键词👉[周刊漫画项目推荐](https://weekly.howie6879.com/?q=%E6%BC%AB%E7%94%BB)。 
 
-![SpeedyNote](https://images-1252557999.file.myqcloud.com/uPic/aTbqHl.png) 
+### [Refined GitHub](https://github.com/refined-github/refined-github)
+
+一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
+
+那么`Refined GitHub`主要做了哪些工作呢，如下：
+
+- 浏览代码时候使空格可见
+- 添加一键式合并冲突修复程序
+- 添加表情评论头像
+- 在合并PR时，添加等待检查的选项
+- ...
+
+![](https://images-1252557999.file.myqcloud.com/uPic/lI0jFl.png) 
 
 ## 👀 资料 
 
-### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
+### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
 
-《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
+通过科学方法训练自己的身体，让自己更加健康：
 
-![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
+![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
 
-### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
+### [ScienceFictionCollection](https://github.com/VeejaLiu/ScienceFictionCollection)
 
-本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
+科幻小说作品集收集项目，包含以下作者的作品：
 
-我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
+- 刘慈欣 (Cixin Liu)
+- Frank Herbert (弗兰克・赫伯特)
+- Isaac Asimov (艾萨克・阿西莫夫)
+- Jules Gabriel Verne (儒勒・加布里埃尔・凡尔纳)
+- Mary Shelley (玛丽・雪莱)
+- Ray Douglas Bradbury (雷・道格拉斯・布拉德伯里)
+- Orson Scott Card (奥森・斯科特・卡德)
+- Ted Chiang (特德・姜)
+- Michael Swanwick (迈克尔・斯万维克) 
 
-无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
+### [Tauri 系列](https://www.zhihu.com/column/c_1519079232848785408)
 
-### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
+`Tauri` 是一款跨平台的桌面应用开发框，可以让开发者可以使用自己喜欢的前端框架( `React, Vue, Vite` )来构建自己的用户界面，历经 1 年多的时间后，Tauri 终于发布了 1.0 版本！这标志着它已经可以在生产环境正式使用，有兴趣的可以尝试：
 
-Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
-
-![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
+- [Tauri 项目](https://github.com/tauri-apps/tauri)
+- [官方中文文档](https://tauri.app/zh/v1/guides/getting-started/prerequisites/)
+- [知乎 `Tauri` 系列教程](https://www.zhihu.com/column/c_1519079232848785408) 
 
 ## 🕸 网站 
 
-### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
+### [ailogo](https://ailogo.qq.com/)
 
-PDF Squeezer 是一款 PDF 压缩工具：
+`AI` 智能生成可商用的 `LOGO`：
 
-![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
+![ailogo](https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg) 
 
-### [react-tetris](https://github.com/chvin/react-tetris)
+### [shell.how](https://www.shell.how/)
 
-用React、Redux、Immutable做俄罗斯方块，访问地址点[这里](https://chvin.github.io/react-tetris/?lan=zh)：
+网站用优雅的交互和排版告诉你Linux命令的作用：
 
-![react-tetris](https://images-1252557999.file.myqcloud.com/uPic/react-tetris.jpg) 
+![shell_howe](https://images-1252557999.file.myqcloud.com/uPic/shell_howe.jpg) 
 
-### [transhumans](https://www.transhumans.xyz/)
+### [whatpwacando](https://whatpwacando.today/)
 
-免费可商用的人物插图：
+该网站功能用于介绍 PWA 的技术进展：
 
-![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
+![whatpwacando](https://images-1252557999.file.myqcloud.com/uPic/whatpwacando.jpg) 
 
 ## ✍️ 说明
 
