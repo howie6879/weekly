@@ -5,111 +5,111 @@
 
 ## 🎯 项目 
 
-### [BookStack](https://github.com/BookStackApp/BookStack)
+### [UIGEN-T1.1-Qwen-14B](https://huggingface.co/smirki/UIGEN-T1.1-Qwen-14)
 
-一个开源的`documentation/wik`文档管理平台，其核心特性如下：
+用于生成前端 `UI` 布局的模型，它具有 140 亿个参数，基于 `wen2.5-Coder-14B-Instruct` 进行微调，它旨在进行基于推理的 `UI` 生成，利用复杂的思维链方法来生成基于 HTML&CSS 代码。目前，它仅限于基本应用，如仪表板、着陆页和注册表单：
 
-- 免费开源可自建
-- 简单易用的交互界面
-- 全文检索以及文档互联
-- 可配置
-- 强大的编辑功能，MD支持
-- 等
+![UIGEN-T1.1-Qwen-14B](https://images-1252557999.file.myqcloud.com/uPic/7lYYyz.png) 
 
-![BookStack](https://images-1252557999.file.myqcloud.com/uPic/vdoSqZ.jpg)
+### [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
 
-有兴趣的话，可以利用[docker-bookstack](https://github.com/solidnerd/docker-bookstack)项目进行快速试用。 
+一个基于MCP的聊天机器人，小智 AI 聊天机器人作为一个语音交互入口，利用 Qwen / DeepSeek 等大模型的 AI 能力，通过 MCP 协议实现多端控制：
 
-### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
+- Wi-Fi / ML307 Cat.1 4G
+- 离线语音唤醒 ESP-SR
+- 支持两种通信协议（Websocket 或 MQTT+UDP）
+- 采用 OPUS 音频编解码
+- 基于流式 ASR + LLM + TTS 架构的语音交互
+- 声纹识别，识别当前说话人的身份 3D Speaker
+- OLED / LCD 显示屏，支持表情显示
+- 电量显示与电源管理
+- 支持多语言（中文、英文、日文）
+- 支持 ESP32-C3、ESP32-S3、ESP32-P4 芯片平台
+- 通过设备端 MCP 实现设备控制（音量、灯光、电机、GPIO 等）
+- 通过云端 MCP 扩展大模型能力（智能家居控制、PC桌面操作、知识搜索、邮件收发等）
 
-一键免费部署你的私人 `ChatGPT` 网页应用：
+![xiaozhi](https://images-1252557999.file.myqcloud.com/uPic/EOJ1tL.png) 
 
-- 在 1 分钟内使用 Vercel  **免费一键部署**
-- 精心设计的 UI，响应式设计，支持深色模式
-- 极快的首屏加载速度（~85kb）
-- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
-- 一键导出聊天记录，完整的 Markdown 支持
-- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
+### [browser-use](https://github.com/browser-use/browser-use)
 
-![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
+一种允许人工智能控制浏览器的解决方案，通过提取网页上所有交互元素，使得 `AI Agent` 能够更专注地执行其任务:
 
-### [duf](https://github.com/sigoden/duf)
-
-一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
-
-- 静态文件伺服
-- 下载目录为 zip 文件
-- 上传文件 /目录 (支持拖拽)
-- 搜索
-- 并发下载，断续下载
-- 权限保护
-- 支持 https
-- 支持 webdav
-- 方便 curl 调用 
+![browser-use](https://images-1252557999.file.myqcloud.com/uPic/PZHVoz.png) 
 
 ## 🤖 软件 
 
-### [RustDesk](https://github.com/rustdesk/rustdesk)
+### [Obtainium](https://github.com/ImranR98/Obtainium)
 
-远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
+聚合安卓应用源，然后获取程序更新，`Obtainium` 允许用户直接从发布页面安装和更新应用程序，并在发布新版本时接收通知：
 
-![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
+![Obtainium](https://images-1252557999.file.myqcloud.com/uPic/Obtainium.jpg) 
 
-### [EpubPress](https://epub.press/)
+### [feed-flow](https://github.com/prof18/feed-flow)
 
-`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
+`FeedFlow` 是一款极简主义的 `RSS` 阅读器，可在 `Android、iOS&macOS`上使用：
 
-![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
+![feedflow](https://images-1252557999.file.myqcloud.com/uPic/feedflow.jpg) 
 
-### [paperlib](https://github.com/GeoffreyChen777/paperlib)
+### [MyBrain](https://github.com/mhss1/MyBrain)
 
-面向计算机科学的简单开源学术论文管理工具：
+开源的、多合一的生产力应用，包括任务、笔记、日历、日记和书签：
 
-![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
+- 完全私密，不收集任何数据，也没有任何互联网权限。
+- 创建具有优先级、子任务、描述、截止日期和提醒的任务。
+- 创建支持Markdown的笔记，可以使用标题、列表、链接等功能。
+- 每天记录你的心情，并通过美丽的图表查看你的心情总结。
+- 通过使用其他应用程序的共享菜单，将书签保存到稍后阅读。
+- 以现代视图查看您的日历事件，并使用漂亮的主屏幕小部件。
+- 仪表盘屏幕可一目了然地查看您的任务、日历事件等，让您了解当天的安排。
+
+![mybrain](https://images-1252557999.file.myqcloud.com/uPic/mybrain.png) 
 
 ## 👀 资料 
 
-### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+### [ascoders/weekly](https://github.com/ascoders/weekly)
 
-开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
+前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
 
-![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
+- 前沿技术
+- 设计模式
+- 编译原理
+- 源码解读
+- 商业思考
+- 算法
 
-### [anthropics/courses](https://github.com/anthropics/courses "anthropics/courses")
+非常全面，前端从事人员可以看看。 
 
-`Anthropic` 的教育课程，目前包含五个课程：
+### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
 
-- Anthropic API 基础知识：教授如何与 Claude SDK 合作，包括获取 API 密钥、处理模型参数、编写多模态提示、流式响应等。
-- 提示工程互动教程
-- 教授如何将提示技术应用到复杂的现实世界提示中
-- 教授如何编写评估来测量提示的质量
-- 教授如何在工作流程中成功使用 Claude 的工具 
+《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
 
-### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
 
-经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
 
-![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
+阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
+
+![c](https://images-1252557999.file.myqcloud.com/uPic/4uYTRJ.png) 
 
 ## 🕸 网站 
 
-### [ideogram.ai](https://ideogram.ai/)
+### [fakewindowsupdatescreen.com](https://fakewindowsupdatescreen.com/)
 
-免费无次数限制的文字转图片网页：
+模拟电脑正在更新，我感觉是员工摸鱼用的，挺有意思：
 
-![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
+![fakewindowsupdatescreen.com](https://images-1252557999.file.myqcloud.com/uPic/ALG1l5.png) 
 
-### [ouchn](https://le.ouchn.cn/#/home)
+### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
 
-国家开放大学终身教育平台正式上线，面向社会免费开放。该平台汇聚国家开放大学自建学习资源，338所知名高校课程资源免费开放、10个头部平台的特色课程等共计50万门，包含生活、职场、学历、兴趣等不同领域的课程。致力于满足社会大众多元化、个性化学习需求。
+软件镜像站：
 
-![ouchn](https://images-1252557999.file.myqcloud.com/uPic/ouchn.jpg) 
+![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
 
-### [douyin.wtf](https://douyin.wtf/)
+### [zhongguose](http://zhongguose.com/)
 
-网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
+一个中国传统颜色的配色网站：
 
-![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
+![zhongguose](https://images-1252557999.file.myqcloud.com/uPic/zhongguose.jpg) 
 
 ## ✍️ 说明
 
