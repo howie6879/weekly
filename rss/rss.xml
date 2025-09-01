@@ -12,7 +12,74 @@
       <title>老胡的周刊</title>
       <link>https://weekly.howie6879.com/</link>
     </image>
-    <lastBuildDate>Tue, 19 Aug 2025 18:25:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 06:14:56 +0000</lastBuildDate>
+    <item>
+      <title>08-17~08-31.老胡的周刊（第200期）.md</title>
+      <link>https://weekly.howie6879.com/2025/08-17~08-31.老胡的周刊（第200期）.html</link>
+      <description>&lt;![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/08-17~08-31.老胡的周刊（第200期）.html"&gt;08-17~08-31.老胡的周刊（第200期）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🎯 项目&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Tencent/Youtu-agent"&gt;Youtu-agent&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Youtu-agent 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，例如数据分析、文件处理和深度研究：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;验证性能：在 WebWalkerQA 上达到 71.47% 的 pass@1，在 GAIA（纯文本子集）上达到 72.8% 的 pass@1，纯粹使用 DeepSeek-V3 系列模型（不使用 Claude 或 GPT），建立了强大的开源起点。&lt;/li&gt;
+&lt;li&gt;开源友好且成本敏感：针对可访问、低成本部署进行了优化，不依赖封闭模型。&lt;/li&gt;
+&lt;li&gt;实际用例：开箱即用地支持 CSV 分析、文献综述、个人文件整理以及播客和视频生成等任务。（即将推出）&lt;/li&gt;
+&lt;li&gt;灵活的架构：基于 openai-agents 构建，可兼容各种模型 API（从 DeepSeek 到 gpt-oss）、工具集成和框架实现。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="Youtu" src="https://images-1252557999.file.myqcloud.com/uPic/Fmf3nY.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/zhinianboke/xianyu-auto-reply"&gt;xianyu-auto-reply&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;闲鱼自动回复管理系统是一个基于 &lt;code&gt;Python + FastAPI&lt;/code&gt; 开发的自动化客服系统，专为闲鱼平台设计。系统通过 &lt;code&gt;WebSocket&lt;/code&gt; 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="xianyu-auto-reply" src="https://images-1252557999.file.myqcloud.com/uPic/ca6gqG.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/huhusmang/Subscription-Management"&gt;Subscription-Management&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个现代化的订阅管理系统，帮助用户轻松管理和追踪各种订阅服务的费用和续费情况：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Subscription-Management" src="https://images-1252557999.file.myqcloud.com/uPic/QTWo56.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/QuentinFuxa/WhisperLiveKit"&gt;WhisperLiveKit&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;WhisperLiveKit&lt;/code&gt; 项目是一个集成了最新研究成果的实时语音转文本系统，包括 &lt;code&gt;SimulStreaming&lt;/code&gt;、&lt;code&gt;WhisperStreaming&lt;/code&gt;、&lt;code&gt;Streaming Sortformer&lt;/code&gt; 和 &lt;code&gt;Diart&lt;/code&gt; 等技术，支持多种语言和说话人识别。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="WhisperLiveKit" src="https://images-1252557999.file.myqcloud.com/uPic/BqNHuK.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/k1LoW/deck"&gt;deck&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;deck&lt;/code&gt; 用于将 &lt;code&gt;Markdown&lt;/code&gt; 文件转换为 &lt;code&gt;Google Slides&lt;/code&gt; 演示文稿：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="deck" src="https://images-1252557999.file.myqcloud.com/uPic/AErdHM.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🤖 软件&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/slopus/happy"&gt;slopus/happy&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;在手机&amp;amp;网页上方便地使用 Claude Code：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="happy" src="https://images-1252557999.file.myqcloud.com/uPic/vkAWfr.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/alainm23/planify"&gt;Planify&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Linux 专属的一款高颜值的任务管理软件，它专为 GNOME 桌面环境设计，支持 Todoist 和 Nextcloud 的集成。该应用程序提供了直观的视觉风格和多种功能，包括任务拖拽排序、项目进度指示器、夜间模式、自定义提醒系统以及离线 Todoist 同步等。用户可以通过快速查找功能来搜索任务，同时支持重复到期日期和提醒通知。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Planify" src="https://images-1252557999.file.myqcloud.com/uPic/HAXppV.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Warma10032/VideoAdGuard"&gt;VideoAdGuard&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;VideoAdGuard&lt;/code&gt; 是一个基于大语言模型的B站视频植入广告检测工具，能够自动识别B站视频中的植入广告内容，并提供跳过广告的功能，提供两个版本：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;浏览器插件版&lt;/li&gt;
+&lt;li&gt;油猴脚本版&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="VideoAdGuard" src="https://images-1252557999.file.myqcloud.com/uPic/E5OQTQ.png" /&gt;&lt;/p&gt;
+&lt;p&gt;和之前推荐的 &lt;a href="https://weekly.howie6879.com/2024/10-28~11-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC166%E6%9C%9F%EF%BC%89.html?h=bilibilisponsorblock#bilibilisponsorblock"&gt;BilibiliSponsorBlock&lt;/a&gt; 有点类似：&lt;/p&gt;
+&lt;h2&gt;👀 资料&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://github.com/konsheng/Sensitive-lexicon"&gt;Sensitive-lexicon&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个持续更新的中文敏感词库，帮助开发者和内容审核者快速识别并过滤不当文本，国内做需要用户评论相关业务还是很有用。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://github.com/Arindam200/awesome-ai-apps"&gt;awesome-ai-apps&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个专门收集实用的大型语言模型（LLM）应用示例、教程和食谱的资源库，用于指导开发者使用不同的 AI 框架和工具构建强大的应用程序。从简单的聊天机器人到高级 &lt;code&gt;AI Agent&lt;/code&gt;，这些项目覆盖了从基础到高级的多种 AI 应用场景。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="awesome-ai-apps" src="https://images-1252557999.file.myqcloud.com/uPic/9HwpHf.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🕸 网站&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://gpt5plus.com/"&gt;gpt5plus.com&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;一个 ChatGPT 代充服务网页，价格比较便宜：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="gpt5plus" src="https://images-1252557999.file.myqcloud.com/uPic/Uk76mA.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;✍️ 说明&lt;/h2&gt;
+&lt;p&gt;周刊相关信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
+&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
+&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
+      <guid isPermaLink="false">08-17~08-31.老胡的周刊（第200期）.md</guid>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0806</pubDate>
+    </item>
     <item>
       <title>08-11~08-16.老胡的周刊（第199期）.md</title>
       <link>https://weekly.howie6879.com/2025/08-11~08-16.老胡的周刊（第199期）.html</link>
@@ -1412,101 +1479,6 @@
 &lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
       <guid isPermaLink="false">03-17~03-23.老胡的周刊（第181期）.md</guid>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0806</pubDate>
-    </item>
-    <item>
-      <title>03-03~03-15.老胡的周刊（第180期）.md</title>
-      <link>https://weekly.howie6879.com/2025/03-03~03-15.老胡的周刊（第180期）.html</link>
-      <description>&lt;![CDATA[ &lt;blockquote&gt;
-&lt;p&gt;如果样式查看有问题，可以通过网页浏览：&lt;a href="https://weekly.howie6879.com/2025/03-03~03-15.老胡的周刊（第180期）.html"&gt;03-03~03-15.老胡的周刊（第180期）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://weekly.howie6879.com/"&gt;老胡的信息周刊&lt;/a&gt;，记录这周我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个&lt;strong&gt;留存&lt;/strong&gt;以及&lt;strong&gt;共享&lt;/strong&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🎯 项目&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/executeautomation/mcp-playwright"&gt;mcp-playwright&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;基于 &lt;code&gt;Playwright&lt;/code&gt; 的模型上下文协议服务器，用于自动化浏览器和 &lt;code&gt;API&lt;/code&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="mcp-playwright" src="https://img.api123.pro/i/2025/03/15/67d500afc9275.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/reflex-dev/reflex"&gt;reflex&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Reflex&lt;/code&gt; 是一个使用纯Python构建全栈web应用的库，使用 &lt;code&gt;Python&lt;/code&gt; 创建高效且可自定义的网页应用程序，几秒钟内即可部署：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;纯Python - 前端、后端开发全都使用 &lt;code&gt;Python&lt;/code&gt;，不需要学习 &lt;code&gt;Javascript&lt;/code&gt;。&lt;/li&gt;
-&lt;li&gt;完整的灵活性 - &lt;code&gt;Reflex&lt;/code&gt; 很容易上手, 并且也可以扩展到复杂的应用程序。&lt;/li&gt;
-&lt;li&gt;立即部署 - 构建后，使用单个命令就能部署应用程序；或者也可以将其托管在您自己的服务器上。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;a href="https://github.com/xxnuo/MTranServer"&gt;MTranServer&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个超低资源消耗超快的离线翻译服务器，英译中模型仅需 860MB 内存即可运行，无需显卡。单个请求平均响应时间 50ms。支持全世界主要语言的翻译，翻译质量与 Google 翻译相当。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="MTranServer" src="https://images-1252557999.file.myqcloud.com/uPic/KZywne.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/VikParuchuri/surya"&gt;surya&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个开源的文档 OCR 工具包，能够在 90 多种语言中进行文本识别，并且在性能上与云服务相比具有优势。它支持文本检测、版面分析、阅读顺序和表格识别等功能，适用于各种文档，包括图像、PDF、Word 文档和 PowerPoint 演示文稿。surya 提供了一个交互式的 Streamlit 应用程序，用户可以通过它来试验 OCR 功能。此外，还有一个托管的 API 服务，用于处理各种类型的文件：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="surya" src="https://img.api123.pro/i/2025/03/15/67d503208a382.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://huggingface.co/allenai/olmOCR-7B-0225-preview"&gt;olmOCR-7B&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;olmOCR&lt;/code&gt; 在250000页的数据集上微调了&lt;code&gt;Qwen2-VL-7B-Instruct&lt;/code&gt; 模型，旨在将 &lt;code&gt;PDF&lt;/code&gt; 和文档图像转换为干净且结构化的纯文本：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="olmOCR" src="https://img.api123.pro/i/2025/03/15/67d5044a829bd.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🤖 软件&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/iAJue/MoeKoeMusic"&gt;MoeKoeMusic&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一款开源简洁高颜值的酷狗第三方客户端：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;✅ 使用 Vue.js 全家桶开发&lt;/li&gt;
-&lt;li&gt;🔴 酷狗账号登录（扫码/手机/账号登录）&lt;/li&gt;
-&lt;li&gt;📃 支持歌词显示&lt;/li&gt;
-&lt;li&gt;📻 每日推荐歌曲&lt;/li&gt;
-&lt;li&gt;🚫🤝 无任何社交功能&lt;/li&gt;
-&lt;li&gt;🔗 官方服务器直连, 无任何第三方 API&lt;/li&gt;
-&lt;li&gt;✔️ 每日自动领取VIP, 登录就是VIP&lt;/li&gt;
-&lt;li&gt;🎨 主题色切换&lt;/li&gt;
-&lt;li&gt;👋 启动问候语&lt;/li&gt;
-&lt;li&gt;⚙️ 多平台支持&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="MoeKoeMusic" src="https://images-1252557999.file.myqcloud.com/uPic/KnV77J.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/TheBoredTeam/boring.notch/"&gt;boring.notch&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;TheBoringNotch&lt;/code&gt; 项目旨在将 &lt;code&gt;MacBook&lt;/code&gt; 的 &lt;code&gt;notch&lt;/code&gt; 区域转变为一个动态的音乐控制中心，具有音乐可视化效果和完整的音乐控制功能，让用户的 &lt;code&gt;MacBook notch&lt;/code&gt; 成为屏幕上最酷的部分。&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/wfql1024/MultiWeChatManager"&gt;MultiWeChatManager&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;懒得点？懒得扫码？那就交给它！🛠️ 这是一款专为 微信多开（未来也可以支持其他平台！！） 而设计的 自动化管理工具，支持 多号一键登录、全局多开、自启动登录、防撤回 等功能，是让你省心的好工具！🚀&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;本项目通过查杀微信等平台的互斥体线程而实现多开&lt;/li&gt;
-&lt;li&gt;选号登录是保存并应用微信等平台存储在本地的配置文件的过程&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="MultiWeChatManager" src="https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6215264216928076702-y.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;使用需谨慎，防止封号&lt;/strong&gt;，老胡概不负责。&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/j-fbriere/squawker"&gt;squawker&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个开源的隐私导向的 &lt;code&gt;Twitter/X&lt;/code&gt; 客户端：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="squawker" src="https://images-1252557999.file.myqcloud.com/uPic/mL6QyN.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;👀 资料&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://github.com/iAmCorey/awesome-ai-directory"&gt;awesome-ai-directory&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;💡 收录优质AI工具导航及开发学习资源聚合平台，这个列表致力于收集和整理各类优秀的AI相关资源网站，包括但不限于：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;AI工具收录导航&lt;/li&gt;
-&lt;li&gt;AI模型接口资源&lt;/li&gt;
-&lt;li&gt;AI学习资料资源&lt;/li&gt;
-&lt;li&gt;AI新闻趋势聚合&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="awesome-ai-directory" src="https://images-1252557999.file.myqcloud.com/uPic/0m1IbQ.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://zgcrsd6xvj.feishu.cn/docx/IoOZdVNHXohjohxDiAkccq6Vnie"&gt;播客365（2024）&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;本文讨论了2024年众多播客节目的丰富内容，涵盖商业、文化、生活、科技等多个领域 。关键要点包括：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;商业领域：主播探究竞业协议由来与边界；提及美图2016年港股上市；蜜雪冰城和古茗递表港交所。&lt;/li&gt;
-&lt;li&gt;文化领域：嘉宾探讨《桃花源记》《逍遥游》独特见解；28家出版社编辑推荐2024新书；主播分享汉字演变知识。&lt;/li&gt;
-&lt;li&gt;生活领域：心理学家聊青少年厌学与心理健康；主播分享Vision Pro购买经历；介绍各地马拉松参赛体验。&lt;/li&gt;
-&lt;li&gt;科技领域：主播畅聊数十款AI工具；指出AI大模型在闭环场景应用快，To B产品有优势 。 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;🕸 网站&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://ai-headshot-generator.net/cn"&gt;AI 头像生成器&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;在线创建最佳 AI 头像：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="ai-headshot-generator.net" src="https://images-1252557999.file.myqcloud.com/uPic/DVnp5s.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://smartexcel.cc/"&gt;smartexcel&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;使用 &lt;code&gt;AI&lt;/code&gt; 在几秒钟内生成 &lt;code&gt;Excel&lt;/code&gt; 公式的工具。描述自己的需要，即可生成相应的公式。需要登录，每天 有10 个免费积分可以使用:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="smartexcel" src="https://images-1252557999.file.myqcloud.com/uPic/DXKVRR.png" /&gt;&lt;/p&gt;
-&lt;p&gt;开源地址：&lt;a href="https://github.com/weijunext/smart-excel-ai"&gt;smartexcel&lt;/a&gt;。&lt;/p&gt;
-&lt;h2&gt;✍️ 说明&lt;/h2&gt;
-&lt;p&gt;周刊相关信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;公众号：&lt;a href="https://images-1252557999.file.myqcloud.com/uPic/ETIbMe.jpg"&gt;老胡的储物柜&lt;/a&gt;，欢迎加我微信进&lt;strong&gt;周刊群聊&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/howie_weekly"&gt;TG 频道订阅&lt;/a&gt;：老胡周刊 TG 信息频道，对周刊的信息补充，会分享更多的资源，欢迎关注👏&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fre321.com/weekly"&gt;聚合周刊&lt;/a&gt;：老胡收集了国内外60+优质技术周刊进行信息聚合🔥&lt;/li&gt;
-&lt;li&gt;Github 地址：&lt;a href="https://github.com/howie6879/weekly/"&gt;howie6879/weekly/&lt;/a&gt;，觉得不错麻烦给我一个&lt;strong&gt;Star&lt;/strong&gt;，谢谢 ❤️&lt;/li&gt;
-&lt;li&gt;浏览地址：&lt;a href="https://weekly.howie6879.com"&gt;老胡的信息周刊&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/recommend/index.html"&gt;今日推荐&lt;/a&gt; | &lt;a href="https://weekly.howie6879.com/soft/mac.html"&gt;MacOS 软件推荐&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;🙌如果你阅读到这里，说明我们对信息的认可区域是有一定交集的，可以说我们是&lt;strong&gt;同道中人&lt;/strong&gt;，所以如果你有自认为不错的信息获取渠道，欢迎&lt;strong&gt;留言&lt;/strong&gt;或者&lt;strong&gt;私聊&lt;/strong&gt;我，谢谢。&lt;/p&gt; ]]&gt;</description>
-      <guid isPermaLink="false">03-03~03-15.老胡的周刊（第180期）.md</guid>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 +0806</pubDate>
     </item>
   </channel>
 </rss>
