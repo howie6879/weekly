@@ -5,111 +5,97 @@
 
 ## 🎯 项目 
 
-### [UIGEN-T1.1-Qwen-14B](https://huggingface.co/smirki/UIGEN-T1.1-Qwen-14)
+### [BGmi](https://github.com/BGmi/BGmi)
 
-用于生成前端 `UI` 布局的模型，它具有 140 亿个参数，基于 `wen2.5-Coder-14B-Instruct` 进行微调，它旨在进行基于推理的 `UI` 生成，利用复杂的思维链方法来生成基于 HTML&CSS 代码。目前，它仅限于基本应用，如仪表板、着陆页和注册表单：
+`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
 
-![UIGEN-T1.1-Qwen-14B](https://images-1252557999.file.myqcloud.com/uPic/7lYYyz.png) 
+![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
 
-### [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+### [JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER)
 
-一个基于MCP的聊天机器人，小智 AI 聊天机器人作为一个语音交互入口，利用 Qwen / DeepSeek 等大模型的 AI 能力，通过 MCP 协议实现多端控制：
+京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)。
 
-- Wi-Fi / ML307 Cat.1 4G
-- 离线语音唤醒 ESP-SR
-- 支持两种通信协议（Websocket 或 MQTT+UDP）
-- 采用 OPUS 音频编解码
-- 基于流式 ASR + LLM + TTS 架构的语音交互
-- 声纹识别，识别当前说话人的身份 3D Speaker
-- OLED / LCD 显示屏，支持表情显示
-- 电量显示与电源管理
-- 支持多语言（中文、英文、日文）
-- 支持 ESP32-C3、ESP32-S3、ESP32-P4 芯片平台
-- 通过设备端 MCP 实现设备控制（音量、灯光、电机、GPIO 等）
-- 通过云端 MCP 扩展大模型能力（智能家居控制、PC桌面操作、知识搜索、邮件收发等）
+![jd-shopper](https://images-1252557999.file.myqcloud.com/uPic/jd-shopper.jpeg) 
 
-![xiaozhi](https://images-1252557999.file.myqcloud.com/uPic/EOJ1tL.png) 
+### [gemini-cli](https://github.com/google-gemini/gemini-cli)
 
-### [browser-use](https://github.com/browser-use/browser-use)
-
-一种允许人工智能控制浏览器的解决方案，通过提取网页上所有交互元素，使得 `AI Agent` 能够更专注地执行其任务:
-
-![browser-use](https://images-1252557999.file.myqcloud.com/uPic/PZHVoz.png) 
+`Gemini CLI`  是谷歌开源的 `AI` 编程工具，目前来看可以说是免费的：每分钟 60 次请求，每天 1000 次请求：
+ 
+![gemini-cli](https://images-1252557999.file.myqcloud.com/uPic/Zs1LrM.png) 
 
 ## 🤖 软件 
 
-### [Obtainium](https://github.com/ImranR98/Obtainium)
+### [sourcegit](https://github.com/sourcegit-scm/sourcegit)
 
-聚合安卓应用源，然后获取程序更新，`Obtainium` 允许用户直接从发布页面安装和更新应用程序，并在发布新版本时接收通知：
+一个跨平台的 `GUI` 客户端：
 
-![Obtainium](https://images-1252557999.file.myqcloud.com/uPic/Obtainium.jpg) 
+![sourcegit](https://images-1252557999.file.myqcloud.com/uPic/yC8OCO.png) 
 
-### [feed-flow](https://github.com/prof18/feed-flow)
+### [uPic](https://github.com/gee1k/uPic)
 
-`FeedFlow` 是一款极简主义的 `RSS` 阅读器，可在 `Android、iOS&macOS`上使用：
+`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
 
-![feedflow](https://images-1252557999.file.myqcloud.com/uPic/feedflow.jpg) 
+我的必备软件：
 
-### [MyBrain](https://github.com/mhss1/MyBrain)
+![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
 
-开源的、多合一的生产力应用，包括任务、笔记、日历、日记和书签：
+### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
 
-- 完全私密，不收集任何数据，也没有任何互联网权限。
-- 创建具有优先级、子任务、描述、截止日期和提醒的任务。
-- 创建支持Markdown的笔记，可以使用标题、列表、链接等功能。
-- 每天记录你的心情，并通过美丽的图表查看你的心情总结。
-- 通过使用其他应用程序的共享菜单，将书签保存到稍后阅读。
-- 以现代视图查看您的日历事件，并使用漂亮的主屏幕小部件。
-- 仪表盘屏幕可一目了然地查看您的任务、日历事件等，让您了解当天的安排。
+这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
 
-![mybrain](https://images-1252557999.file.myqcloud.com/uPic/mybrain.png) 
+- SSH连接操作
+- Jupyter支持
+- Code Server（Web版VS Code） 支持
+- 文件管理支持
+- 自带Python：写点常用脚本不在话下
+- 上手深度学习
+- 等等
+
+这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
+
+![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
 
 ## 👀 资料 
 
-### [ascoders/weekly](https://github.com/ascoders/weekly)
+### [prompt-tuning-playbook](https://github.com/varungodbole/prompt-tuning-playbook)
 
-前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
+项目主要提供了一份针对后训练大型语言模型（LLMs）的有效提示技术指南，旨在帮助用户更好地理解和应用这些模型。
 
-- 前沿技术
-- 设计模式
-- 编译原理
-- 源码解读
-- 商业思考
-- 算法
+后训练使得 LLMs 能够更好地遵循指令、匹配现实世界、保持安全等，这些行为包括但不限于格式遵循、指令执行、事实准确性和安全性。 
 
-非常全面，前端从事人员可以看看。 
+### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
 
-### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
+机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
 
-《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
+![openmlsys](https://images-1252557999.file.myqcloud.com/uPic/openmlsys.jpg) 
 
-![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
+### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
-### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
+30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
 
-阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
-
-![c](https://images-1252557999.file.myqcloud.com/uPic/4uYTRJ.png) 
+![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
 
 ## 🕸 网站 
 
-### [fakewindowsupdatescreen.com](https://fakewindowsupdatescreen.com/)
+### [macosicongallery](https://www.macosicongallery.com/)
 
-模拟电脑正在更新，我感觉是员工摸鱼用的，挺有意思：
+专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
 
-![fakewindowsupdatescreen.com](https://images-1252557999.file.myqcloud.com/uPic/ALG1l5.png) 
+![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
 
-### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
+### [svg-path-editor](https://yqnn.github.io/svg-path-editor/)
 
-软件镜像站：
+在线编辑创建 `SVG`，同时开源在 [github-svg-path-editor](https://github.com/Yqnn/svg-path-editor)：
 
-![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
+![svg-path-editor](https://images-1252557999.file.myqcloud.com/uPic/svg-path-editor.jpg) 
 
-### [zhongguose](http://zhongguose.com/)
+### [emojicode](https://www.emojicode.org/)
 
-一个中国传统颜色的配色网站：
+这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
 
-![zhongguose](https://images-1252557999.file.myqcloud.com/uPic/zhongguose.jpg) 
+![emojicode](https://images-1252557999.file.myqcloud.com/uPic/emojicode.jpg)
+
+现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
 
 ## ✍️ 说明
 
