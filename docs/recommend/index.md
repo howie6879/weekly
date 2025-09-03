@@ -5,97 +5,92 @@
 
 ## 🎯 项目 
 
-### [BGmi](https://github.com/BGmi/BGmi)
+### [dootask](https://github.com/kuaifan/dootask)
 
-`BGmi` 用于订阅 `bangumi` 漫画更新的项目，支持 `Web UI` 和终端：
+DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
 
-![BGmi](https://images-1252557999.file.myqcloud.com/uPic/BGmi.png) 
+![dootask](https://images-1252557999.file.myqcloud.com/uPic/tYiTA7.png) 
 
-### [JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER)
+### [chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror)
 
-京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)。
+基于 `gpt-3.5-turbo` 的 `ChatGPT` 镜像网站（开源，可以自建）：
 
-![jd-shopper](https://images-1252557999.file.myqcloud.com/uPic/jd-shopper.jpeg) 
+![chatgpt-mirror](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-mirror.jpg) 
 
-### [gemini-cli](https://github.com/google-gemini/gemini-cli)
+### [nocobase](https://github.com/nocobase/nocobase)
 
-`Gemini CLI`  是谷歌开源的 `AI` 编程工具，目前来看可以说是免费的：每分钟 60 次请求，每天 1000 次请求：
- 
-![gemini-cli](https://images-1252557999.file.myqcloud.com/uPic/Zs1LrM.png) 
+NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
+
+![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
 
 ## 🤖 软件 
 
-### [sourcegit](https://github.com/sourcegit-scm/sourcegit)
+### [obs-studio](https://github.com/obsproject/obs-studio)
 
-一个跨平台的 `GUI` 客户端：
+免费开源的专业屏幕录制+视频串流直播软件，包含视频录制、屏幕录像、音频录制、直播推流等功能。
 
-![sourcegit](https://images-1252557999.file.myqcloud.com/uPic/yC8OCO.png) 
+![obs-studio](https://images-1252557999.file.myqcloud.com/uPic/2asRCI.png) 
 
-### [uPic](https://github.com/gee1k/uPic)
+### [AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc)
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+AI 视频图文创作助手是一款 Web 工具, 基于 AI 大模型, 一键将视频和音频转化为各种风格的文档, 无需登录注册, 前后端本地部署，以极低的成本体验 AI 视频/音频转风格文档服务。
 
-我的必备软件：
+- ✅ 完全开源：MIT 协议授权，支持本地部署。
+- 🔒 隐私保护：无需登录注册，任务记录保存在本地
+- 💻 前端处理：采用 ffmpeg wasm 技术，无需本地安装 ffmpeg
+- 🎯 多种风格支持：支持小红书/公众号/知识笔记/思维导图/内容总结等多种文档风格支持。
+- 🤖 AI 对话：支持针对视频内容进行 AI 二次问答。
+- 🎬 支持字幕导出: 结果一键导出为字幕文件。
+- 🖼️ 智能截图: 基于字幕信息智能截图并插入文章, 无需视觉大模型, 实现真正的图文并茂。
+- 🎨 支持自定义 Prompt：支持在前端自定义配置 prompt。
+- 🐳 一键部署：支持 Docker 一键部署。
+- 🔒 支持设置访问密码: 后端设置访问密码之后, 前端用户需要填写该密码才可以正常使用。
 
-![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+![AI-Media2Doc](https://images-1252557999.file.myqcloud.com/uPic/j5SVEa.png) 
 
-### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
+### [ToastFish](https://github.com/Uahh/ToastFish)
 
-这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
+这是一个利用 `Windows` 通知栏背单词的软件，可以让你在上班、上课等环境下安全地背单词：
 
-- SSH连接操作
-- Jupyter支持
-- Code Server（Web版VS Code） 支持
-- 文件管理支持
-- 自带Python：写点常用脚本不在话下
-- 上手深度学习
-- 等等
-
-这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
-
-![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
+![ToastFish](https://images-1252557999.file.myqcloud.com/uPic/ToastFish.gif) 
 
 ## 👀 资料 
 
-### [prompt-tuning-playbook](https://github.com/varungodbole/prompt-tuning-playbook)
+### developer-roadmap
 
-项目主要提供了一份针对后训练大型语言模型（LLMs）的有效提示技术指南，旨在帮助用户更好地理解和应用这些模型。
+开发人员学习成长路线图：
 
-后训练使得 LLMs 能够更好地遵循指令、匹配现实世界、保持安全等，这些行为包括但不限于格式遵循、指令执行、事实准确性和安全性。 
+![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
 
-### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
+### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
 
-机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
+自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
 
-![openmlsys](https://images-1252557999.file.myqcloud.com/uPic/openmlsys.jpg) 
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
-
-![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
+![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
 
 ## 🕸 网站 
 
-### [macosicongallery](https://www.macosicongallery.com/)
+### [latexlive](https://www.latexlive.com/)
 
-专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
+免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
 
-![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
+![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
 
-### [svg-path-editor](https://yqnn.github.io/svg-path-editor/)
+### [wantquotes.net](https://wantquotes.net/)
 
-在线编辑创建 `SVG`，同时开源在 [github-svg-path-editor](https://github.com/Yqnn/svg-path-editor)：
+清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
 
-![svg-path-editor](https://images-1252557999.file.myqcloud.com/uPic/svg-path-editor.jpg) 
+![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
 
-### [emojicode](https://www.emojicode.org/)
+### [rust-search-extension](https://rust.extension.sh/)
 
-这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
+在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
 
-![emojicode](https://images-1252557999.file.myqcloud.com/uPic/emojicode.jpg)
-
-现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
+![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
 
 ## ✍️ 说明
 
