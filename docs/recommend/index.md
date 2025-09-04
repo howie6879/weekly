@@ -5,92 +5,102 @@
 
 ## 🎯 项目 
 
-### [dootask](https://github.com/kuaifan/dootask)
+### [gorse](https://github.com/zhenghaoz/gorse)
 
-DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
+用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
 
-![dootask](https://images-1252557999.file.myqcloud.com/uPic/tYiTA7.png) 
+![gorse](https://images-1252557999.file.myqcloud.com/uPic/nP2kgE.jpg)
 
-### [chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror)
+作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
 
-基于 `gpt-3.5-turbo` 的 `ChatGPT` 镜像网站（开源，可以自建）：
+![gitrec](https://images-1252557999.file.myqcloud.com/uPic/jAuEdM.jpg) 
 
-![chatgpt-mirror](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-mirror.jpg) 
+### [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)
 
-### [nocobase](https://github.com/nocobase/nocobase)
+将 `Github Copilot Chat` 请求转换为 `ChatGPT` 请求，免费使用 `GPT-4` 模型：
 
-NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
+![copilot-gpt4-service](https://images-1252557999.file.myqcloud.com/uPic/copilot-gpt4-service.png) 
 
-![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
+### [Youtu-agent](https://github.com/Tencent/Youtu-agent)
+
+Youtu-agent 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，例如数据分析、文件处理和深度研究：
+
+- 验证性能：在 WebWalkerQA 上达到 71.47% 的 pass@1，在 GAIA（纯文本子集）上达到 72.8% 的 pass@1，纯粹使用 DeepSeek-V3 系列模型（不使用 Claude 或 GPT），建立了强大的开源起点。
+- 开源友好且成本敏感：针对可访问、低成本部署进行了优化，不依赖封闭模型。
+- 实际用例：开箱即用地支持 CSV 分析、文献综述、个人文件整理以及播客和视频生成等任务。（即将推出）
+- 灵活的架构：基于 openai-agents 构建，可兼容各种模型 API（从 DeepSeek 到 gpt-oss）、工具集成和框架实现。
+
+![Youtu](https://images-1252557999.file.myqcloud.com/uPic/Fmf3nY.png) 
 
 ## 🤖 软件 
 
-### [obs-studio](https://github.com/obsproject/obs-studio)
+### [Screenity](https://github.com/alyssaxuu/screenity)
 
-免费开源的专业屏幕录制+视频串流直播软件，包含视频录制、屏幕录像、音频录制、直播推流等功能。
+🎥 免费且隐私友好的录屏工具，功能特性使用无限制：
 
-![obs-studio](https://images-1252557999.file.myqcloud.com/uPic/2asRCI.png) 
+![Screenity](https://images-1252557999.file.myqcloud.com/uPic/Screenity.png)
 
-### [AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc)
+还有其他推荐的：
 
-AI 视频图文创作助手是一款 Web 工具, 基于 AI 大模型, 一键将视频和音频转化为各种风格的文档, 无需登录注册, 前后端本地部署，以极低的成本体验 AI 视频/音频转风格文档服务。
+- https://github.com/lihaoyun6/QuickRecorder
+- https://github.com/wulkano/Kap 
 
-- ✅ 完全开源：MIT 协议授权，支持本地部署。
-- 🔒 隐私保护：无需登录注册，任务记录保存在本地
-- 💻 前端处理：采用 ffmpeg wasm 技术，无需本地安装 ffmpeg
-- 🎯 多种风格支持：支持小红书/公众号/知识笔记/思维导图/内容总结等多种文档风格支持。
-- 🤖 AI 对话：支持针对视频内容进行 AI 二次问答。
-- 🎬 支持字幕导出: 结果一键导出为字幕文件。
-- 🖼️ 智能截图: 基于字幕信息智能截图并插入文章, 无需视觉大模型, 实现真正的图文并茂。
-- 🎨 支持自定义 Prompt：支持在前端自定义配置 prompt。
-- 🐳 一键部署：支持 Docker 一键部署。
-- 🔒 支持设置访问密码: 后端设置访问密码之后, 前端用户需要填写该密码才可以正常使用。
+### [lapce](https://github.com/lapce/lapce)
 
-![AI-Media2Doc](https://images-1252557999.file.myqcloud.com/uPic/j5SVEa.png) 
+基于`Rust`的强大、轻量快速的代码编辑器：
 
-### [ToastFish](https://github.com/Uahh/ToastFish)
+![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
 
-这是一个利用 `Windows` 通知栏背单词的软件，可以让你在上班、上课等环境下安全地背单词：
+### [Rayon](https://github.com/Lakr233/Rayon)
 
-![ToastFish](https://images-1252557999.file.myqcloud.com/uPic/ToastFish.gif) 
+一个`macOS`的上的`SSH`客户端：
+
+![rayon](https://images-1252557999.file.myqcloud.com/uPic/rayon.png)
+
+软件特性：
+
+- 免费&开源
+- 支持 libssh2 的主机连接
+- Linux proc 文件系统状态信息
+- 使用密码、密钥等进行身份验证...
+- xterm 终端支持
+- 批处理执行代码片段 
 
 ## 👀 资料 
 
-### developer-roadmap
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-开发人员学习成长路线图：
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
-![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
+### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
 
-### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
+这里有比较全面的时间序列数据相关资源。 
 
-自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
+### [free-for-dev](https://github.com/ripienaar/free-for-dev)
 
-### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
+对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
 
-这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
-
-![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
+![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
 
 ## 🕸 网站 
 
-### [latexlive](https://www.latexlive.com/)
+### [cobalt](https://cobalt.tools/)
 
-免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
+一个专注于隐私保护和用户自由的[开源](https://github.com/imputnet/cobalt)在线工具，它允许用户从各种网站上保存视频、音频、图片或 GIF，同时提供匿名请求和加密隧道技术，确保用户的隐私安全。
 
-![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
+![cobalt](https://images-1252557999.file.myqcloud.com/uPic/ZwEgp6.png) 
 
-### [wantquotes.net](https://wantquotes.net/)
+### [纸砚双拼](https://blog.simplenaive.cn/shuangpin/#/)
 
-清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
+一个好看的双拼学习网站：
 
-![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
+![zy_shuangpin](https://images-1252557999.file.myqcloud.com/uPic/zy_shuangpin.jpg) 
 
-### [rust-search-extension](https://rust.extension.sh/)
+### [toptimeline](https://toptimeline.net/zh)
 
-在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
+探索世界最著名的流行歌手、运动员和历史人物的关键事件与个人里程碑：
 
-![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
+![toptimeline](https://images-1252557999.file.myqcloud.com/uPic/crwphb.png) 
 
 ## ✍️ 说明
 
