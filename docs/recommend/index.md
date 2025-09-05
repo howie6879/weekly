@@ -5,102 +5,92 @@
 
 ## 🎯 项目 
 
-### [gorse](https://github.com/zhenghaoz/gorse)
+### [DataEase](https://github.com/dataease/dataease)
 
-用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
+DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
 
-![gorse](https://images-1252557999.file.myqcloud.com/uPic/nP2kgE.jpg)
+### [tabler](https://github.com/tabler/tabler)
 
-作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
+基于 `Bootstrap` 的免费开源的 `Dashboard UI` 工具包：
 
-![gitrec](https://images-1252557999.file.myqcloud.com/uPic/jAuEdM.jpg) 
+![tabler-preview](https://images-1252557999.file.myqcloud.com/uPic/tabler-preview.png) 
 
-### [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)
+### [Navidrome](https://github.com/navidrome/navidrome)
 
-将 `Github Copilot Chat` 请求转换为 `ChatGPT` 请求，免费使用 `GPT-4` 模型：
+`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
 
-![copilot-gpt4-service](https://images-1252557999.file.myqcloud.com/uPic/copilot-gpt4-service.png) 
-
-### [Youtu-agent](https://github.com/Tencent/Youtu-agent)
-
-Youtu-agent 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，例如数据分析、文件处理和深度研究：
-
-- 验证性能：在 WebWalkerQA 上达到 71.47% 的 pass@1，在 GAIA（纯文本子集）上达到 72.8% 的 pass@1，纯粹使用 DeepSeek-V3 系列模型（不使用 Claude 或 GPT），建立了强大的开源起点。
-- 开源友好且成本敏感：针对可访问、低成本部署进行了优化，不依赖封闭模型。
-- 实际用例：开箱即用地支持 CSV 分析、文献综述、个人文件整理以及播客和视频生成等任务。（即将推出）
-- 灵活的架构：基于 openai-agents 构建，可兼容各种模型 API（从 DeepSeek 到 gpt-oss）、工具集成和框架实现。
-
-![Youtu](https://images-1252557999.file.myqcloud.com/uPic/Fmf3nY.png) 
+![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
 
 ## 🤖 软件 
 
-### [Screenity](https://github.com/alyssaxuu/screenity)
+### [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
 
-🎥 免费且隐私友好的录屏工具，功能特性使用无限制：
+`Sigma File Manager` 是一个免费、开源、快速发展的现代文件管理器（资源管理器/查找器）应用程序，适用于`Windows&Linux`，支持智能搜索、自定义主页、文件共享、文件下载、智能拖放、文件保护等功能：
 
-![Screenity](https://images-1252557999.file.myqcloud.com/uPic/Screenity.png)
+![sigma-file-manager](https://images-1252557999.file.myqcloud.com/uPic/sigma-file-manager.jpg) 
 
-还有其他推荐的：
+### [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
 
-- https://github.com/lihaoyun6/QuickRecorder
-- https://github.com/wulkano/Kap 
+使用 Android 原生开发的电视直播软件：
 
-### [lapce](https://github.com/lapce/lapce)
+![mytv-android](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/mytv-android.jpg)
 
-基于`Rust`的强大、轻量快速的代码编辑器：
+老胡试了不是很稳定，大家可根据地域使用测试。 
 
-![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
+### [PetThoughts](https://github.com/liu-ziting/PetThoughts)
 
-### [Rayon](https://github.com/Lakr233/Rayon)
+【我知道你的宠物在想什么】 是一个基于 Gemini Pro API 构建的图片识别项目，通过上传你宠物的照片，该项目能够智能分析你的宠物的表情和环境，并推测出它们可能在想些什么。
 
-一个`macOS`的上的`SSH`客户端：
+- 图片识别：利用 Gemini-pro-vision 的图像识别技术，能够准确地识别宠物的表情和环境。
+- 表情分析：通过分析宠物的表情 Gemini-pro-vision 可以推测出宠物可能的情绪状态，如开心、惊讶、困惑等。
+- 环境分析：Gemini-pro-vision 还能根据宠物所处的环境，推测出它们可能的活动场景，如户外玩耍、室内休息等。
+- 自然语言处理：结合图像识别和自然语言处理技术，Gemini-pro-vision 可以将宠物的情绪和活动场景转化为可读性高的文字描述。
+- 用户友好界面：提供简洁直观的用户界面，使用户能够轻松上传照片并获取宠物分析结果。
 
-![rayon](https://images-1252557999.file.myqcloud.com/uPic/rayon.png)
-
-软件特性：
-
-- 免费&开源
-- 支持 libssh2 的主机连接
-- Linux proc 文件系统状态信息
-- 使用密码、密钥等进行身份验证...
-- xterm 终端支持
-- 批处理执行代码片段 
+![pt](https://images-1252557999.file.myqcloud.com/uPic/pt.jpeg) 
 
 ## 👀 资料 
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
 
-### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
+![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
 
-这里有比较全面的时间序列数据相关资源。 
+### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
-### [free-for-dev](https://github.com/ripienaar/free-for-dev)
+命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
 
-对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
+### [mastering-bitcoin-3rd](https://github.com/berryjam/mastering-bitcoin-3rd)
 
-![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
+《精通比特币》第三版翻译：
+
+![mastering-bitcoin-3rd](https://images-1252557999.file.myqcloud.com/uPic/ZwD0Jl.png) 
 
 ## 🕸 网站 
 
-### [cobalt](https://cobalt.tools/)
+### [12ft.io](https://12ft.io/)
 
-一个专注于隐私保护和用户自由的[开源](https://github.com/imputnet/cobalt)在线工具，它允许用户从各种网站上保存视频、音频、图片或 GIF，同时提供匿名请求和加密隧道技术，确保用户的隐私安全。
+输入目标地址，让你浏览一个更干净的网站！删除弹出窗口、横幅和广告：
 
-![cobalt](https://images-1252557999.file.myqcloud.com/uPic/ZwEgp6.png) 
+![12ft.io](https://images-1252557999.file.myqcloud.com/uPic/12ft.io.jpg)
+[1ft](https://1ft.io/) 也有类似功能。 
 
-### [纸砚双拼](https://blog.simplenaive.cn/shuangpin/#/)
+### [极简番茄](https://t.kuaitu.cc/)
 
-一个好看的双拼学习网站：
+极简优雅的番茄时钟软件，适合做屏保：
 
-![zy_shuangpin](https://images-1252557999.file.myqcloud.com/uPic/zy_shuangpin.jpg) 
+![kuaitu](https://images-1252557999.file.myqcloud.com/uPic/kuaitu.jpg) 
 
-### [toptimeline](https://toptimeline.net/zh)
+### [阿里云知行动手实验室](https://start.aliyun.com/)
 
-探索世界最著名的流行歌手、运动员和历史人物的关键事件与个人里程碑：
+这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
 
-![toptimeline](https://images-1252557999.file.myqcloud.com/uPic/crwphb.png) 
+网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
+
+我选了一个`k8s`教程尝试了下，嗯，挺香的：
+
+![start-ali](https://images-1252557999.file.myqcloud.com/uPic/LIfQqw.png) 
 
 ## ✍️ 说明
 
