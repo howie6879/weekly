@@ -5,92 +5,83 @@
 
 ## 🎯 项目 
 
-### [DataEase](https://github.com/dataease/dataease)
+### [cal.com](https://github.com/calcom/cal.com)
 
-DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
+一个管理日程安排和预约的工具，可以说是 `Calendly` 的开源替代方案：
 
-### [tabler](https://github.com/tabler/tabler)
+![cal_com](https://images-1252557999.file.myqcloud.com/uPic/cal_com.jpg) 
 
-基于 `Bootstrap` 的免费开源的 `Dashboard UI` 工具包：
+### [epigram](https://github.com/panda-sandeep/epigram)
 
-![tabler-preview](https://images-1252557999.file.myqcloud.com/uPic/tabler-preview.png) 
+由 AI 驱动的新闻摘要平台，提供个性化新闻源和简洁的新闻摘要：
 
-### [Navidrome](https://github.com/navidrome/navidrome)
+![epigram](https://images-1252557999.file.myqcloud.com/uPic/8HnhXD.png) 
 
-`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
+### [PPTist](https://github.com/pipipi-pikachu/PPTist)
 
-![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
+基于 Vue3.x + TypeScript 的[在线演示文稿](https://pipipi-pikachu.github.io/PPTist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
+
+![ppt-list](https://images-1252557999.file.myqcloud.com/uPic/ppt-list.jpg) 
 
 ## 🤖 软件 
 
-### [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
+### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
 
-`Sigma File Manager` 是一个免费、开源、快速发展的现代文件管理器（资源管理器/查找器）应用程序，适用于`Windows&Linux`，支持智能搜索、自定义主页、文件共享、文件下载、智能拖放、文件保护等功能：
+一个开源的YouTube应用程序，旨在保护隐私：
 
-![sigma-file-manager](https://images-1252557999.file.myqcloud.com/uPic/sigma-file-manager.jpg) 
+![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
 
-### [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
+### [Tai](https://github.com/Planshit/Tai)
 
-使用 Android 原生开发的电视直播软件：
+👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
 
-![mytv-android](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/mytv-android.jpg)
+![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
 
-老胡试了不是很稳定，大家可根据地域使用测试。 
+### [XHS_Downloader](https://github.com/JoeanAmier/XHS_Downloader)
 
-### [PetThoughts](https://github.com/liu-ziting/PetThoughts)
+免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具：
 
-【我知道你的宠物在想什么】 是一个基于 Gemini Pro API 构建的图片识别项目，通过上传你宠物的照片，该项目能够智能分析你的宠物的表情和环境，并推测出它们可能在想些什么。
-
-- 图片识别：利用 Gemini-pro-vision 的图像识别技术，能够准确地识别宠物的表情和环境。
-- 表情分析：通过分析宠物的表情 Gemini-pro-vision 可以推测出宠物可能的情绪状态，如开心、惊讶、困惑等。
-- 环境分析：Gemini-pro-vision 还能根据宠物所处的环境，推测出它们可能的活动场景，如户外玩耍、室内休息等。
-- 自然语言处理：结合图像识别和自然语言处理技术，Gemini-pro-vision 可以将宠物的情绪和活动场景转化为可读性高的文字描述。
-- 用户友好界面：提供简洁直观的用户界面，使用户能够轻松上传照片并获取宠物分析结果。
-
-![pt](https://images-1252557999.file.myqcloud.com/uPic/pt.jpeg) 
+![XHS_Downloader](https://images-1252557999.file.myqcloud.com/uPic/XHS_Downloader.png) 
 
 ## 👀 资料 
 
-### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
+### [Prompt engineering overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 
-Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
+详细介绍了如何通过提示工程来最大化 Claude 4 模型的效能：
 
-![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
+![Prompt engineering overview](https://images-1252557999.file.myqcloud.com/uPic/d8RFeW.png) 
 
-### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+### [archbase](https://github.com/foxsen/archbase)
 
-命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
 
-### [mastering-bitcoin-3rd](https://github.com/berryjam/mastering-bitcoin-3rd)
+![archbase](https://images-1252557999.file.myqcloud.com/uPic/dUVvGI.png) 
 
-《精通比特币》第三版翻译：
+### [汉字激光照排小史](https://github.com/chenshuo/typeset/blob/master/wangxuan-history.pdf)
 
-![mastering-bitcoin-3rd](https://images-1252557999.file.myqcloud.com/uPic/ZwD0Jl.png) 
+一份 20 多页的笔记《汉字激光照排小史》：
+
+![typeset](https://images-1252557999.file.myqcloud.com/uPic/typeset.jpg) 
 
 ## 🕸 网站 
 
-### [12ft.io](https://12ft.io/)
+### [claudecount.com](https://www.claudecount.com/)
 
-输入目标地址，让你浏览一个更干净的网站！删除弹出窗口、横幅和广告：
+`Claude Code` 使用排行榜：
 
-![12ft.io](https://images-1252557999.file.myqcloud.com/uPic/12ft.io.jpg)
-[1ft](https://1ft.io/) 也有类似功能。 
+![claudecount](https://images-1252557999.file.myqcloud.com/uPic/nyvqZR.png) 
 
-### [极简番茄](https://t.kuaitu.cc/)
+### [designer.microsoft.com](https://designer.microsoft.com/)
 
-极简优雅的番茄时钟软件，适合做屏保：
+基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
 
-![kuaitu](https://images-1252557999.file.myqcloud.com/uPic/kuaitu.jpg) 
+![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
 
-### [阿里云知行动手实验室](https://start.aliyun.com/)
+### [docsmall](https://docsmall.com/)
 
-这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
+提供一些图片压缩、PDF合并分割小功能的网站：
 
-网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
-
-我选了一个`k8s`教程尝试了下，嗯，挺香的：
-
-![start-ali](https://images-1252557999.file.myqcloud.com/uPic/LIfQqw.png) 
+![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
 
 ## ✍️ 说明
 
