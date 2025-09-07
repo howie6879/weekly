@@ -5,83 +5,100 @@
 
 ## 🎯 项目 
 
-### [cal.com](https://github.com/calcom/cal.com)
+### [ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher)
 
-一个管理日程安排和预约的工具，可以说是 `Calendly` 的开源替代方案：
+`ollama-deep-researcher` 是一个完全本地化的网络研究和报告编写助手，能够使用 `Ollama` 托管的任何大型语言模型（`LLM`），通过迭代的搜索和总结过程，对给定主题进行深入研究。
 
-![cal_com](https://images-1252557999.file.myqcloud.com/uPic/cal_com.jpg) 
+![ollama-deep-researcher](https://images-1252557999.file.myqcloud.com/uPic/2GCi0v.png) 
 
-### [epigram](https://github.com/panda-sandeep/epigram)
+### [meowrch](https://github.com/meowrch/meowrch)
 
-由 AI 驱动的新闻摘要平台，提供个性化新闻源和简洁的新闻摘要：
+`meowrch` 为 `Arch Linux` 提供了一个完整的桌面环境配置，包括窗口管理器、状态栏、合成器等：
 
-![epigram](https://images-1252557999.file.myqcloud.com/uPic/8HnhXD.png) 
+![meowrch](https://images-1252557999.file.myqcloud.com/uPic/jSv90u.png) 
 
-### [PPTist](https://github.com/pipipi-pikachu/PPTist)
+### [chathub](https://github.com/chathub-dev/chathub)
 
-基于 Vue3.x + TypeScript 的[在线演示文稿](https://pipipi-pikachu.github.io/PPTist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
+`ChatHub` 是款全能聊天机器人客户端:
 
-![ppt-list](https://images-1252557999.file.myqcloud.com/uPic/ppt-list.jpg) 
+- 🤖 在一个应用中使用不同的聊天机器人，目前支持 ChatGPT、新的 Bing Chat、Google Bard、Claude（通过 Poe）、Alpaca、Vicuna、ChatGLM，并将来会集成更多的机器人
+- 💬 同时与多个聊天机器人进行对话，方便比较它们的回答
+- 🚀 支持 ChatGPT API 和 GPT-4 浏览
+- 🔍 快捷方式，可在浏览器的任何位置快速激活应用
+- 🎨 支持 Markdown 和代码高亮显示
+- 📚 自定义提示和社区提示的提示库
+- 💾 本地保存对话历史
+- 📥 导出和导入所有数据
+- 🔗 将对话转为 Markdown 并分享
+- 🌙 暗黑模式
+
+![chathub](https://images-1252557999.file.myqcloud.com/uPic/chathub.png) 
 
 ## 🤖 软件 
 
-### [FreeTube](https://github.com/FreeTubeApp/FreeTube)
+### [little-rat](https://github.com/dnakov/little-rat)
 
-一个开源的YouTube应用程序，旨在保护隐私：
+Little Rat 是一款开源的 Chrome 扩展，用于实时监测其它的 Chrome 扩展联网情况，并可以选择阻止联网，防止恶意扩展：
 
-![FreeTube](https://images-1252557999.file.myqcloud.com/uPic/FreeTube.jpg) 
+![little-rat](https://images-1252557999.file.myqcloud.com/uPic/little-rat.webp) 
 
-### [Tai](https://github.com/Planshit/Tai)
+### [HandBrake](https://github.com/HandBrake/HandBrake)
 
-👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
+`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
 
-![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
+![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
 
-### [XHS_Downloader](https://github.com/JoeanAmier/XHS_Downloader)
+### [Shizuku](https://github.com/RikkaApps/Shizuku)
 
-免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具：
+`Shizuku` 提供了一种新的方法，允许普通应用程序通过一个带有更高权限的 Java 进程，直接使用系统 API。
 
-![XHS_Downloader](https://images-1252557999.file.myqcloud.com/uPic/XHS_Downloader.png) 
+为部分需要更高权限的应用提供了更高效的系统级接口，并且只需 adb 调试即可开启，这比传统的方法有更多的优势，包括速度更快、更可靠、权限更高。
+
+![Shizuku](https://images-1252557999.file.myqcloud.com/uPic/th0ELp.png)
+
+相关项目：
+
+- [Dhizuku](https://github.com/iamr0s/Dhizuku)：参考 [Shizuku](https://github.com/RikkaApps/Shizuku) 的设计思想，分享 DeviceOwner (设备所有者) 权限给其余应用，另一种思路，但是生态还需要发展。
+- [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku/)：`Shizuku` 允许普通应用程序在非 Root 设备上使用 ADB 直接使用权限提升的系统 API。本列表汇集了一些已知可利用 Shizuku 功能的应用程序。
+- [ShizuTools](https://github.com/legendsayantan/ShizuTools) 是一个扩展一些常见操作的开源工具项目。 
 
 ## 👀 资料 
 
-### [Prompt engineering overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+### [fun-rec](https://github.com/datawhalechina/fun-rec/)
 
-详细介绍了如何通过提示工程来最大化 Claude 4 模型的效能：
+本[教程](https://datawhalechina.github.io/fun-rec/#/)主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。
 
-![Prompt engineering overview](https://images-1252557999.file.myqcloud.com/uPic/d8RFeW.png) 
+![fun-rec](https://images-1252557999.file.myqcloud.com/uPic/fun-rec.jpg) 
 
-### [archbase](https://github.com/foxsen/archbase)
+### [大模型基础](https://github.com/datawhalechina/so-large-lm)
 
-这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+本项目旨在作为一个大规模预训练语言模型的教程，从数据准备、模型构建、训练策略到模型评估与改进，以及模型在安全、隐私、环境和法律道德方面的方面来提供开源知识。
 
-![archbase](https://images-1252557999.file.myqcloud.com/uPic/dUVvGI.png) 
+![so-large-lm](https://images-1252557999.file.myqcloud.com/uPic/so-large-lm.jpg) 
 
-### [汉字激光照排小史](https://github.com/chenshuo/typeset/blob/master/wangxuan-history.pdf)
+### [Building-a-Small-LLM-from-Scratch](https://github.com/KaihuaTang/Building-a-Small-LLM-from-Scratch)
 
-一份 20 多页的笔记《汉字激光照排小史》：
-
-![typeset](https://images-1252557999.file.myqcloud.com/uPic/typeset.jpg) 
+该系列的目的是让读者可以在基础的pytorch上，不依赖任何其他现成的外部库，从零开始理解并实现一个大语言模型的所有组成部分，以及训练微调代码，因此读者仅需python，pytorch和最基础深度学习背景知识即可。 
 
 ## 🕸 网站 
 
-### [claudecount.com](https://www.claudecount.com/)
+### [xyzrank.com](https://xyzrank.com/)
 
-`Claude Code` 使用排行榜：
+中文播客榜单：
 
-![claudecount](https://images-1252557999.file.myqcloud.com/uPic/nyvqZR.png) 
+![xyzrank](https://images-1252557999.file.myqcloud.com/uPic/xyzrank.jpg) 
 
-### [designer.microsoft.com](https://designer.microsoft.com/)
+### [lookscanned.io](https://lookscanned.io/)
 
-基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
+[lookscanned.io](https://github.com/rwv/lookscanned.io) 是一个开源网页项目，依托 WebAssembly 等先进技术，无需打印之后再扫描这类繁琐的过程。仅需点击下按钮，分秒之间，你就能得到所需要的扫描件了：
 
-![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
+![lookscanned](https://images-1252557999.file.myqcloud.com/uPic/lookscanned.jpg) 
 
-### [docsmall](https://docsmall.com/)
+### [workout](https://workout.lol/)
 
-提供一些图片压缩、PDF合并分割小功能的网站：
+免费[开源-workout-lol](https://github.com/workout-lol/workout-lol)的健身网站，选择你拥有的器材、锻炼的肌肉位置，网站便会为你制定锻炼计划：
 
-![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
+![workout](https://images-1252557999.file.myqcloud.com/uPic/workout.jpg) 
 
 ## ✍️ 说明
 
