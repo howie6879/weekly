@@ -5,100 +5,83 @@
 
 ## 🎯 项目 
 
-### [ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher)
+### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
 
-`ollama-deep-researcher` 是一个完全本地化的网络研究和报告编写助手，能够使用 `Ollama` 托管的任何大型语言模型（`LLM`），通过迭代的搜索和总结过程，对给定主题进行深入研究。
+开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
 
-![ollama-deep-researcher](https://images-1252557999.file.myqcloud.com/uPic/2GCi0v.png) 
+![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
 
-### [meowrch](https://github.com/meowrch/meowrch)
+### [click-prompt](https://github.com/prompt-engineering/click-prompt)
 
-`meowrch` 为 `Arch Linux` 提供了一个完整的桌面环境配置，包括窗口管理器、状态栏、合成器等：
+ClickPrompt 是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，例如 Stable Diffusion、ChatGPT 和 GitHub Copilot 等。 使用 ClickPrompt，您可以轻松地查看、分享和一键运行这些模型，同时提供在线的 Prompt 生成器，使用户能够根据自己的需求轻松创建符合要求的 Prompt，并与其他人分享。
 
-![meowrch](https://images-1252557999.file.myqcloud.com/uPic/jSv90u.png) 
+![clickprompt](https://images-1252557999.file.myqcloud.com/uPic/clickprompt.jpg) 
 
-### [chathub](https://github.com/chathub-dev/chathub)
+### [chart-gpt](https://github.com/whoiskatrin/chart-gpt)
 
-`ChatHub` 是款全能聊天机器人客户端:
+基于文本输入构建图表的人工智能工具，可以直接在官网 [https://www.chartgpt.dev](https://www.chartgpt.dev/) 体验：
 
-- 🤖 在一个应用中使用不同的聊天机器人，目前支持 ChatGPT、新的 Bing Chat、Google Bard、Claude（通过 Poe）、Alpaca、Vicuna、ChatGLM，并将来会集成更多的机器人
-- 💬 同时与多个聊天机器人进行对话，方便比较它们的回答
-- 🚀 支持 ChatGPT API 和 GPT-4 浏览
-- 🔍 快捷方式，可在浏览器的任何位置快速激活应用
-- 🎨 支持 Markdown 和代码高亮显示
-- 📚 自定义提示和社区提示的提示库
-- 💾 本地保存对话历史
-- 📥 导出和导入所有数据
-- 🔗 将对话转为 Markdown 并分享
-- 🌙 暗黑模式
-
-![chathub](https://images-1252557999.file.myqcloud.com/uPic/chathub.png) 
+![chartgpt](https://images-1252557999.file.myqcloud.com/uPic/chartgpt.jpg) 
 
 ## 🤖 软件 
 
-### [little-rat](https://github.com/dnakov/little-rat)
+### [CatchMouse](https://github.com/round/CatchMouse)
 
-Little Rat 是一款开源的 Chrome 扩展，用于实时监测其它的 Chrome 扩展联网情况，并可以选择阻止联网，防止恶意扩展：
+如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
 
-![little-rat](https://images-1252557999.file.myqcloud.com/uPic/little-rat.webp) 
+### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
 
-### [HandBrake](https://github.com/HandBrake/HandBrake)
+`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
 
-`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
+![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
 
-![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
+### [SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote)
 
-### [Shizuku](https://github.com/RikkaApps/Shizuku)
+> 刚毕业的大学生 Alpha Liu，是一位热爱硬件的极客。他开发了一款名为 SpeedyNote 的开源笔记软件，专为无纸化学习而生，致力于让低端设备也能拥有流畅、极致的书写体验。并将这个项目视为一份开源礼物，送给所有因硬件门槛而被挡在无纸化学习门外的同学，也为那些被遗忘的旧平板、老电脑注入了新的活力。
 
-`Shizuku` 提供了一种新的方法，允许普通应用程序通过一个带有更高权限的 Java 进程，直接使用系统 API。
+一款简单的笔记应用，性能出色，支持 PDF 导入，
 
-为部分需要更高权限的应用提供了更高效的系统级接口，并且只需 adb 调试即可开启，这比传统的方法有更多的优势，包括速度更快、更可靠、权限更高。
-
-![Shizuku](https://images-1252557999.file.myqcloud.com/uPic/th0ELp.png)
-
-相关项目：
-
-- [Dhizuku](https://github.com/iamr0s/Dhizuku)：参考 [Shizuku](https://github.com/RikkaApps/Shizuku) 的设计思想，分享 DeviceOwner (设备所有者) 权限给其余应用，另一种思路，但是生态还需要发展。
-- [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku/)：`Shizuku` 允许普通应用程序在非 Root 设备上使用 ADB 直接使用权限提升的系统 API。本列表汇集了一些已知可利用 Shizuku 功能的应用程序。
-- [ShizuTools](https://github.com/legendsayantan/ShizuTools) 是一个扩展一些常见操作的开源工具项目。 
+![SpeedyNote](https://images-1252557999.file.myqcloud.com/uPic/aTbqHl.png) 
 
 ## 👀 资料 
 
-### [fun-rec](https://github.com/datawhalechina/fun-rec/)
+### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
 
-本[教程](https://datawhalechina.github.io/fun-rec/#/)主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。
+从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
 
-![fun-rec](https://images-1252557999.file.myqcloud.com/uPic/fun-rec.jpg) 
+![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
-### [大模型基础](https://github.com/datawhalechina/so-large-lm)
+### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
 
-本项目旨在作为一个大规模预训练语言模型的教程，从数据准备、模型构建、训练策略到模型评估与改进，以及模型在安全、隐私、环境和法律道德方面的方面来提供开源知识。
+[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
 
-![so-large-lm](https://images-1252557999.file.myqcloud.com/uPic/so-large-lm.jpg) 
+目前也提供了中文版：
 
-### [Building-a-Small-LLM-from-Scratch](https://github.com/KaihuaTang/Building-a-Small-LLM-from-Scratch)
+![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
 
-该系列的目的是让读者可以在基础的pytorch上，不依赖任何其他现成的外部库，从零开始理解并实现一个大语言模型的所有组成部分，以及训练微调代码，因此读者仅需python，pytorch和最基础深度学习背景知识即可。 
+### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
+
+编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
 
 ## 🕸 网站 
 
-### [xyzrank.com](https://xyzrank.com/)
+### [动漫新番表](https://www.fre123.com/anime/n)
 
-中文播客榜单：
+继上周做了[动漫搜索引擎](https://www.fre123.com/anime/s)后，老胡这次整了个动漫新番信息记录网站，新番信息脚本和数据都是开源的👉[fre123-anime](https://github.com/fre123-com/fre123-anime)，欢迎体验：
 
-![xyzrank](https://images-1252557999.file.myqcloud.com/uPic/xyzrank.jpg) 
+![fre123_anime_n](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime_n.jpg) 
 
-### [lookscanned.io](https://lookscanned.io/)
+### [kanmaoxian.online](https://kanmaoxian.online)
 
-[lookscanned.io](https://github.com/rwv/lookscanned.io) 是一个开源网页项目，依托 WebAssembly 等先进技术，无需打印之后再扫描这类繁琐的过程。仅需点击下按钮，分秒之间，你就能得到所需要的扫描件了：
+基于开源项目 [LibreTV](https://github.com/LibreSpark/LibreTV) 开源项目搭建的影视在线网站，大家默默使用就好，网页打开，输入密码：**kanmaoxian**：
 
-![lookscanned](https://images-1252557999.file.myqcloud.com/uPic/lookscanned.jpg) 
+![kanmaoxian](https://images-1252557999.file.myqcloud.com/uPic/YkTBsY.png) 
 
-### [workout](https://workout.lol/)
+### [untools](https://untools.co/)
 
-免费[开源-workout-lol](https://github.com/workout-lol/workout-lol)的健身网站，选择你拥有的器材、锻炼的肌肉位置，网站便会为你制定锻炼计划：
+一个帮助你思考的集合工具&框架：
 
-![workout](https://images-1252557999.file.myqcloud.com/uPic/workout.jpg) 
+![untools](https://images-1252557999.file.myqcloud.com/uPic/hHu9aw.png) 
 
 ## ✍️ 说明
 
