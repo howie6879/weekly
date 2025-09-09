@@ -5,83 +5,84 @@
 
 ## 🎯 项目 
 
-### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
+### [Palmr](https://github.com/kyantech/Palmr)
 
-开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
+`Palmr` 是一个开源的文件分享平台，专注于隐私和安全，提供无追踪和无限制的文件上传、管理和分享功能。
 
-![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
+![Palmr](https://images-1252557999.file.myqcloud.com/uPic/lERBt8.png) 
 
-### [click-prompt](https://github.com/prompt-engineering/click-prompt)
+### [novu](https://github.com/novuhq/novu)
 
-ClickPrompt 是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，例如 Stable Diffusion、ChatGPT 和 GitHub Copilot 等。 使用 ClickPrompt，您可以轻松地查看、分享和一键运行这些模型，同时提供在线的 Prompt 生成器，使用户能够根据自己的需求轻松创建符合要求的 Prompt，并与其他人分享。
+这是一个开源的基础设施项目，用于快速搭建通知中心，`Novu` 提供了一个统一的 `API`，使通过多个通道（包括应用内、推送、电子邮件、短信和聊天）发送通知变得简单：
 
-![clickprompt](https://images-1252557999.file.myqcloud.com/uPic/clickprompt.jpg) 
+![novu](https://images-1252557999.file.myqcloud.com/uPic/novu.jpg) 
 
-### [chart-gpt](https://github.com/whoiskatrin/chart-gpt)
+### [one-api](https://github.com/songquanpeng/one-api)
 
-基于文本输入构建图表的人工智能工具，可以直接在官网 [https://www.chartgpt.dev](https://www.chartgpt.dev/) 体验：
+`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
 
-![chartgpt](https://images-1252557999.file.myqcloud.com/uPic/chartgpt.jpg) 
+![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
 
 ## 🤖 软件 
 
-### [CatchMouse](https://github.com/round/CatchMouse)
+### [so-novel](https://github.com/freeok/so-novel)
 
-如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
+交互式小说下载器，Windows、macOS、Linux 解压即用，可根据书名、作者搜索并下载小说，支持导出格式：epub、txt、html（支持翻页），结合以下电子书阅读器使用更佳：
 
-### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
+- 电脑：[koodo-reader](https://www.koodoreader.com/zh)
+- 手机：Apple Books
 
-`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
+![so-novel](https://images-1252557999.file.myqcloud.com/uPic/h4xoJr.png) 
 
-![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
+### [aniyomi](https://github.com/aniyomiorg/aniyomi)
 
-### [SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote)
+读者推荐，`aniyomi` 不单单可以看漫画还可以看动漫，而且也支持[插件](https://aniyomi.org/extensions/)，更厉害的是，这个 APP 可以关联漫画进度记录网站，比如 Bangumi、MyAnimeList 等：
 
-> 刚毕业的大学生 Alpha Liu，是一位热爱硬件的极客。他开发了一款名为 SpeedyNote 的开源笔记软件，专为无纸化学习而生，致力于让低端设备也能拥有流畅、极致的书写体验。并将这个项目视为一份开源礼物，送给所有因硬件门槛而被挡在无纸化学习门外的同学，也为那些被遗忘的旧平板、老电脑注入了新的活力。
+![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
 
-一款简单的笔记应用，性能出色，支持 PDF 导入，
+### [BingGPT](https://github.com/dice2o/BingGPT)
 
-![SpeedyNote](https://images-1252557999.file.myqcloud.com/uPic/aTbqHl.png) 
+必应 GPT 聊天桌面应用程序：
+
+![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
 
 ## 👀 资料 
 
-### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
+### [tamingLLMs](https://github.com/souzatharsis/tamingLLMs)
 
-从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
+一份关于如何克服大型语言模型（LLMs）实际应用中的陷阱的实用指南。该指南以 Python 示例和开源软件为基础，提供了一个介绍性而全面的参考，专注于具体问题，如处理非结构化输出、管理上下文窗口、输出长度限制、非确定性机器、幻觉现象、安全问题以及成本因素 
 
-![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
+### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
 
-### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
+收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
 
-[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
+![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
 
-目前也提供了中文版：
+### [tuning_playbook_zh_cn](https://github.com/schrodingercatss/tuning_playbook_zh_cn)
 
-![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
+深度学习调优指南中文版，一本系统地教你将深度学习模型的性能最大化的战术手册：
 
-### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
-
-编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
+![tuning_playbook_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/tuning_playbook_zh_cn.jpg) 
 
 ## 🕸 网站 
 
-### [动漫新番表](https://www.fre123.com/anime/n)
+### [fmhy.net](https://fmhy.net/)
 
-继上周做了[动漫搜索引擎](https://www.fre123.com/anime/s)后，老胡这次整了个动漫新番信息记录网站，新番信息脚本和数据都是开源的👉[fre123-anime](https://github.com/fre123-com/fre123-anime)，欢迎体验：
+帮助用户轻松找到各种免费的工具、服务和学习资源的网站：
 
-![fre123_anime_n](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime_n.jpg) 
+![fmhy.net](https://images-1252557999.file.myqcloud.com/uPic/fwWyWH.png) 
 
-### [kanmaoxian.online](https://kanmaoxian.online)
+### [apk.bot](https://apk.bot/)
 
-基于开源项目 [LibreTV](https://github.com/LibreSpark/LibreTV) 开源项目搭建的影视在线网站，大家默默使用就好，网页打开，输入密码：**kanmaoxian**：
+免费无广告的 `APK` 下载网站：
 
-![kanmaoxian](https://images-1252557999.file.myqcloud.com/uPic/YkTBsY.png) 
+![apk_bot](https://images-1252557999.file.myqcloud.com/uPic/apk_bot.jpg) 
 
-### [untools](https://untools.co/)
+### [openalternative](https://openalternative.co/)
 
-一个帮助你思考的集合工具&框架：
+网站提供了一些项目的开源选择：
 
-![untools](https://images-1252557999.file.myqcloud.com/uPic/hHu9aw.png) 
+![openalternative](https://images-1252557999.file.myqcloud.com/uPic/openalternative.jpg) 
 
 ## ✍️ 说明
 
