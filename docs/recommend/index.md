@@ -5,84 +5,88 @@
 
 ## 🎯 项目 
 
-### [Palmr](https://github.com/kyantech/Palmr)
+### [MyIP](https://github.com/jason5ng32/MyIP)
 
-`Palmr` 是一个开源的文件分享平台，专注于隐私和安全，提供无追踪和无限制的文件上传、管理和分享功能。
+这是一个完全开源的 IP 信息查看器，可以查询本机 IP、查询任意 IP、查询国内外网站可用性等，70%代码由 `GPT` 实现。它可以查看IP、IP 信息（代理前后）、检查 DNS 泄露、检查 WebRTC 连接、测试网站可用性。
 
-![Palmr](https://images-1252557999.file.myqcloud.com/uPic/lERBt8.png) 
+![myip](https://images-1252557999.file.myqcloud.com/uPic/myip.jpg) 
 
-### [novu](https://github.com/novuhq/novu)
+### [freed](https://github.com/YuanHsing/freed)
 
-这是一个开源的基础设施项目，用于快速搭建通知中心，`Novu` 提供了一个统一的 `API`，使通过多个通道（包括应用内、推送、电子邮件、短信和聊天）发送通知变得简单：
+这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
 
-![novu](https://images-1252557999.file.myqcloud.com/uPic/novu.jpg) 
+### [TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
 
-### [one-api](https://github.com/songquanpeng/one-api)
+「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。
 
-`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
+![TidGi-Desktop](https://images-1252557999.file.myqcloud.com/uPic/TidGi-Desktop.jpg)
 
-![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
+个人笔记记录这块老胡还在坚挺着使用 [Joplin](https://github.com/laurent22/joplin)，如果有特别推荐的可以评论推荐下。 
 
 ## 🤖 软件 
 
-### [so-novel](https://github.com/freeok/so-novel)
+### [Hiddify](https://github.com/hiddify/hiddify-next)
 
-交互式小说下载器，Windows、macOS、Linux 解压即用，可根据书名、作者搜索并下载小说，支持导出格式：epub、txt、html（支持翻页），结合以下电子书阅读器使用更佳：
+挺好用的网络代理软件，现在主用这个：
 
-- 电脑：[koodo-reader](https://www.koodoreader.com/zh)
-- 手机：Apple Books
+![hiddify](https://images-1252557999.file.myqcloud.com/uPic/hiddify.jpg) 
 
-![so-novel](https://images-1252557999.file.myqcloud.com/uPic/h4xoJr.png) 
+### [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)
 
-### [aniyomi](https://github.com/aniyomiorg/aniyomi)
+免费开源抓包工具，支持 `Windows、Mac、Android、IOS、Linux` 全平台系统：
 
-读者推荐，`aniyomi` 不单单可以看漫画还可以看动漫，而且也支持[插件](https://aniyomi.org/extensions/)，更厉害的是，这个 APP 可以关联漫画进度记录网站，比如 Bangumi、MyAnimeList 等：
+![network_proxy_flutter](https://images-1252557999.file.myqcloud.com/uPic/network_proxy_flutter.png) 
 
-![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
+### [CuteGIF](https://github.com/tasy5kg/CuteGIF)
 
-### [BingGPT](https://github.com/dice2o/BingGPT)
+小萌 `GIF` 是一款简洁好用的 `Android` 端视频转 `GIF` 工具：
 
-必应 GPT 聊天桌面应用程序：
-
-![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
+![CuteGIF](https://images-1252557999.file.myqcloud.com/uPic/CuteGIF.jpg) 
 
 ## 👀 资料 
 
-### [tamingLLMs](https://github.com/souzatharsis/tamingLLMs)
+### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 
-一份关于如何克服大型语言模型（LLMs）实际应用中的陷阱的实用指南。该指南以 Python 示例和开源软件为基础，提供了一个介绍性而全面的参考，专注于具体问题，如处理非结构化输出、管理上下文窗口、输出长度限制、非确定性机器、幻觉现象、安全问题以及成本因素 
+以非常直观的语言介绍`pytorch`：
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
 
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+作者的同类电子书还有：
 
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
 
-### [tuning_playbook_zh_cn](https://github.com/schrodingercatss/tuning_playbook_zh_cn)
+### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
-深度学习调优指南中文版，一本系统地教你将深度学习模型的性能最大化的战术手册：
+比较全面的 `k8s` 资源收集项目：
 
-![tuning_playbook_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/tuning_playbook_zh_cn.jpg) 
+![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
+
+### [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note)
+
+从0开始学习英语语法的开源项目：
+
+![english-note](https://images-1252557999.file.myqcloud.com/uPic/english-note.jpg) 
 
 ## 🕸 网站 
 
-### [fmhy.net](https://fmhy.net/)
+### [self.so](https://www.self.so/)
 
-帮助用户轻松找到各种免费的工具、服务和学习资源的网站：
+上传简历，基于 AI 大模型生成个人网站：
 
-![fmhy.net](https://images-1252557999.file.myqcloud.com/uPic/fwWyWH.png) 
+![self.so](https://images-1252557999.file.myqcloud.com/uPic/eKGx5T.png) 
 
-### [apk.bot](https://apk.bot/)
+### [scribblediffusion.com](https://scribblediffusion.com/)
 
-免费无广告的 `APK` 下载网站：
+随便画一画，生成美观的图片：
 
-![apk_bot](https://images-1252557999.file.myqcloud.com/uPic/apk_bot.jpg) 
+![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
 
-### [openalternative](https://openalternative.co/)
+### [theonestopradio](https://theonestopradio.com/)
 
-网站提供了一些项目的开源选择：
+发现你可能喜欢的电台：
 
-![openalternative](https://images-1252557999.file.myqcloud.com/uPic/openalternative.jpg) 
+![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
 
 ## ✍️ 说明
 
