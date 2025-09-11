@@ -5,88 +5,97 @@
 
 ## 🎯 项目 
 
-### [MyIP](https://github.com/jason5ng32/MyIP)
+### [Free-TVUrl-Merge](https://github.com/vpei/Free-TVUrl-Merge)
 
-这是一个完全开源的 IP 信息查看器，可以查询本机 IP、查询任意 IP、查询国内外网站可用性等，70%代码由 `GPT` 实现。它可以查看IP、IP 信息（代理前后）、检查 DNS 泄露、检查 WebRTC 连接、测试网站可用性。
+免费 `TvBox` 影视站聚合，`TVBox、Pluto Player、猫影视TV` 等影视播放软件通用接口都可使用：
 
-![myip](https://images-1252557999.file.myqcloud.com/uPic/myip.jpg) 
+![Free-TVUrl-Merge](https://images-1252557999.file.myqcloud.com/uPic/Free-TVUrl-Merge.png) 
 
-### [freed](https://github.com/YuanHsing/freed)
+### [typora-community-plugin](https://github.com/typora-community-plugin/typora-community-plugin)
 
-这个项目提供了小说、漫画、影视、TV等方向的免费阅读方案。 
+一款增强 `Typora` 编辑体验的社区插件系统，目前是跨平台支持，体验到最后还是觉得 `Typora` 编辑体验最好，这个插件的插件体系不错:
 
-### [TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
+![typora-plugin](https://images-1252557999.file.myqcloud.com/uPic/typora-plugin.jpg)
 
-「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。
+然后推荐一款主题插件 [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)。 
 
-![TidGi-Desktop](https://images-1252557999.file.myqcloud.com/uPic/TidGi-Desktop.jpg)
+### [greppo](https://github.com/greppo-io/greppo)
 
-个人笔记记录这块老胡还在坚挺着使用 [Joplin](https://github.com/laurent22/joplin)，如果有特别推荐的可以评论推荐下。 
+快速轻松地构建部署地理空间应用程序：
+
+![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
 
 ## 🤖 软件 
 
-### [Hiddify](https://github.com/hiddify/hiddify-next)
+### [VideoAdGuard](https://github.com/Warma10032/VideoAdGuard)
 
-挺好用的网络代理软件，现在主用这个：
+`VideoAdGuard` 是一个基于大语言模型的B站视频植入广告检测工具，能够自动识别B站视频中的植入广告内容，并提供跳过广告的功能，提供两个版本：
 
-![hiddify](https://images-1252557999.file.myqcloud.com/uPic/hiddify.jpg) 
+- 浏览器插件版
+- 油猴脚本版
 
-### [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)
+![VideoAdGuard](https://images-1252557999.file.myqcloud.com/uPic/E5OQTQ.png)
 
-免费开源抓包工具，支持 `Windows、Mac、Android、IOS、Linux` 全平台系统：
+和之前推荐的 [BilibiliSponsorBlock](https://weekly.howie6879.com/2024/10-28~11-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC166%E6%9C%9F%EF%BC%89.html?h=bilibilisponsorblock#bilibilisponsorblock) 有点类似： 
 
-![network_proxy_flutter](https://images-1252557999.file.myqcloud.com/uPic/network_proxy_flutter.png) 
+### [Applite](https://github.com/milanvarady/Applite "Applite")
 
-### [CuteGIF](https://github.com/tasy5kg/CuteGIF)
+`Applite` 为 `Homebrew Cask` 提供了一个图形化界面，实现一键安装、更新和卸载应用：
 
-小萌 `GIF` 是一款简洁好用的 `Android` 端视频转 `GIF` 工具：
+![Applite](https://images-1252557999.file.myqcloud.com/uPic/Applite.png) 
 
-![CuteGIF](https://images-1252557999.file.myqcloud.com/uPic/CuteGIF.jpg) 
+### [VueTube](https://github.com/VueTubeApp/VueTube)
+
+轻巧的开放源代码流媒体客户端，旨在再造不同流媒体应用程序的所有功能：
+
+- 🎨  **主题**：明亮、黑暗、OLED，以及彩虹中的任何颜色！您可根据您的喜好选择强调色和背景色。
+- 🖌️  **自定义使用者界面**：自定义主题，甚至停用您不使用的一些界面，以获得最佳体验。
+- ⬆️  **自动更新**：有新版本可用时接收通知，如果您不喜欢也可以撤销更新！
+- 👁️  **追踪阻断**：VueTube 默认不会发送任何跟踪数据，亦不使用任何外部 API。隐私是必要的！
+- 📺  **自家制的 HTML5 视频播放器**：内置在应用程序的播放器，拥有您所需的任何功能，例如 16 倍速。
+- 🌍  **翻译**： 本应用程序支持超过 25 种语言！默认语言因您的设备配置而定。 
 
 ## 👀 资料 
 
-### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
 
-以非常直观的语言介绍`pytorch`：
+[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
 
-![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
+目前也提供了中文版：
 
-作者的同类电子书还有：
+![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
 
-- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+### [大规模并行处理器编程实战第四版](https://fancyerii.github.io/2024/02/20/pmpp/)
 
-### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+关于并行计算的重要参考书籍，这是博客翻译的第四版。介绍了学生和专业人员都适合的并行编程与gpu体系结构的基本概念，详细剖析了编写并行程序所需的各种技术，用案例研究说明了并行程序设计的整个开发过程，即从计算思想开始，直到最终实现高效可行的并行程序。 
 
-比较全面的 `k8s` 资源收集项目：
+### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 
-![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
+一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
 
-### [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note)
-
-从0开始学习英语语法的开源项目：
-
-![english-note](https://images-1252557999.file.myqcloud.com/uPic/english-note.jpg) 
+![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
 
 ## 🕸 网站 
 
-### [self.so](https://www.self.so/)
+### [removerized](https://removerized.tech/)
 
-上传简历，基于 AI 大模型生成个人网站：
+开源免费的图片去背景工具网站，交互体验还不错：
 
-![self.so](https://images-1252557999.file.myqcloud.com/uPic/eKGx5T.png) 
+![removerized](https://images-1252557999.file.myqcloud.com/uPic/removerized.jpg)
 
-### [scribblediffusion.com](https://scribblediffusion.com/)
+当然了，模型效果对一些图片比不上一些收费的。 
 
-随便画一画，生成美观的图片：
+### [flomoapp](https://flomoapp.com/)
 
-![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
+flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
 
-### [theonestopradio](https://theonestopradio.com/)
+![flomoapp](https://images-1252557999.file.myqcloud.com/uPic/6G6qrd.jpg) 
 
-发现你可能喜欢的电台：
+### [ray.so](https://ray.so/)
 
-![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
+之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
+
+![ray.so](https://images-1252557999.file.myqcloud.com/uPic/ray.so.jpg) 
 
 ## ✍️ 说明
 
