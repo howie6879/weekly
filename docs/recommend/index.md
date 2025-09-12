@@ -5,97 +5,103 @@
 
 ## 🎯 项目 
 
-### [Free-TVUrl-Merge](https://github.com/vpei/Free-TVUrl-Merge)
+### [go-daily-lib](https://github.com/darjun/go-daily-lib)
 
-免费 `TvBox` 影视站聚合，`TVBox、Pluto Player、猫影视TV` 等影视播放软件通用接口都可使用：
+每天学习一个 Go 语言库，内容质量相当高。
 
-![Free-TVUrl-Merge](https://images-1252557999.file.myqcloud.com/uPic/Free-TVUrl-Merge.png) 
+![go-daily-lib](https://images-1252557999.file.myqcloud.com/uPic/4Ippyf.png) 
 
-### [typora-community-plugin](https://github.com/typora-community-plugin/typora-community-plugin)
+### [lobe-chat](https://github.com/lobehub/lobe-chat)
 
-一款增强 `Typora` 编辑体验的社区插件系统，目前是跨平台支持，体验到最后还是觉得 `Typora` 编辑体验最好，这个插件的插件体系不错:
+`LobeChat` 是一个开源的、可扩展的（Function Calling）高性能聊天机器人框架，它支持一键免费部署私人 `ChatGPT/LLM` 网页应用程序：
 
-![typora-plugin](https://images-1252557999.file.myqcloud.com/uPic/typora-plugin.jpg)
+- 💨 快速部署：支持 Vercel 平台
+-  💎 精致 UI 设计
+-  🗣️ 流畅的对话体验
+-  🧩 支持插件与自定义插件开发
+-  🔒 隐私安全
+-  🤖 自定义助手角色
+-  🌐 自定义域名
+-  🏬 角色市场
 
-然后推荐一款主题插件 [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)。 
+![lobe-chat](https://images-1252557999.file.myqcloud.com/uPic/lobe-chat.webp) 
 
-### [greppo](https://github.com/greppo-io/greppo)
+### [rss-proxy](https://github.com/damoeb/rss-proxy)
 
-快速轻松地构建部署地理空间应用程序：
+通过分析用户提供的静态页面自动创建RSS订阅源：
 
-![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/APrAbH.png) 
 
 ## 🤖 软件 
 
-### [VideoAdGuard](https://github.com/Warma10032/VideoAdGuard)
+### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 
-`VideoAdGuard` 是一个基于大语言模型的B站视频植入广告检测工具，能够自动识别B站视频中的植入广告内容，并提供跳过广告的功能，提供两个版本：
+这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
 
-- 浏览器插件版
-- 油猴脚本版
+`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
 
-![VideoAdGuard](https://images-1252557999.file.myqcloud.com/uPic/E5OQTQ.png)
+- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
+  
+- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
+  
 
-和之前推荐的 [BilibiliSponsorBlock](https://weekly.howie6879.com/2024/10-28~11-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC166%E6%9C%9F%EF%BC%89.html?h=bilibilisponsorblock#bilibilisponsorblock) 有点类似： 
+![neteasy](https://images-1252557999.file.myqcloud.com/uPic/neteasy.png) 
 
-### [Applite](https://github.com/milanvarady/Applite "Applite")
+### [dockeye](https://github.com/vv9k/dockeye)
 
-`Applite` 为 `Homebrew Cask` 提供了一个图形化界面，实现一键安装、更新和卸载应用：
+基于`Rust`编写的`Docker`界面管理工具：
 
-![Applite](https://images-1252557999.file.myqcloud.com/uPic/Applite.png) 
+![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
 
-### [VueTube](https://github.com/VueTubeApp/VueTube)
+### [Rectangle](https://github.com/rxhanson/Rectangle)
 
-轻巧的开放源代码流媒体客户端，旨在再造不同流媒体应用程序的所有功能：
+`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
 
-- 🎨  **主题**：明亮、黑暗、OLED，以及彩虹中的任何颜色！您可根据您的喜好选择强调色和背景色。
-- 🖌️  **自定义使用者界面**：自定义主题，甚至停用您不使用的一些界面，以获得最佳体验。
-- ⬆️  **自动更新**：有新版本可用时接收通知，如果您不喜欢也可以撤销更新！
-- 👁️  **追踪阻断**：VueTube 默认不会发送任何跟踪数据，亦不使用任何外部 API。隐私是必要的！
-- 📺  **自家制的 HTML5 视频播放器**：内置在应用程序的播放器，拥有您所需的任何功能，例如 16 倍速。
-- 🌍  **翻译**： 本应用程序支持超过 25 种语言！默认语言因您的设备配置而定。 
+![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
 
 ## 👀 资料 
 
-### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
+### [happy-llm](https://github.com/datawhalechina/happy-llm)
 
-[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
+本项目是一个系统性的 LLM 学习教程，将从 NLP 的基本研究方法出发，根据 LLM 的思路及原理逐层深入，依次为读者剖析 LLM 的架构基础和训练过程。同时，我们会结合目前 LLM 领域最主流的代码框架，演练如何亲手搭建、训练一个 LLM，期以实现授之以鱼，更授之以渔。希望大家能从这本书开始走入 LLM 的浩瀚世界，探索 LLM 的无尽可能。
 
-目前也提供了中文版：
+![happy-llm](https://images-1252557999.file.myqcloud.com/uPic/agd2V6.png) 
 
-![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-### [大规模并行处理器编程实战第四版](https://fancyerii.github.io/2024/02/20/pmpp/)
+ 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
 
-关于并行计算的重要参考书籍，这是博客翻译的第四版。介绍了学生和专业人员都适合的并行编程与gpu体系结构的基本概念，详细剖析了编写并行程序所需的各种技术，用案例研究说明了并行程序设计的整个开发过程，即从计算思想开始，直到最终实现高效可行的并行程序。 
+### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
 
-### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
+`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
 
-一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
-
-![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
+![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
 
 ## 🕸 网站 
 
-### [removerized](https://removerized.tech/)
+### [vert.sh](https://vert.sh/)
 
-开源免费的图片去背景工具网站，交互体验还不错：
+`VERT.sh` 提供了一个全面的文件转换服务，涵盖图片、音频、文档和视频等多种格式的处理。对于图片，支持的格式包括 PNG、JPEG、JPG、WEBP、GIF 等常见格式，以及 HEIC、ICO、BMP 等更多专业格式。
 
-![removerized](https://images-1252557999.file.myqcloud.com/uPic/removerized.jpg)
+- 音频方面，支持 MP3、WAV、FLAC、OGG 等主流格式
+- 文档支持 DOCX、XML、DOC 等多种格式
+- 视频转换通常在服务器上进行，支持 MKV、MP4、WEBM 等格式。
 
-当然了，模型效果对一些图片比不上一些收费的。 
+值得注意的是，所有的图片、音频和文档处理都是在本地完成的，确保了用户数据的安全性和隐私性。
 
-### [flomoapp](https://flomoapp.com/)
+![vert.sh](https://images-1252557999.file.myqcloud.com/uPic/Vclo9P.png) 
 
-flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
+### [useanimations](https://useanimations.com/)
 
-![flomoapp](https://images-1252557999.file.myqcloud.com/uPic/6G6qrd.jpg) 
+前端动态 `UI` 样式集合：
 
-### [ray.so](https://ray.so/)
+![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
 
-之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
+### [echoserver](https://echoserver.dev/)
 
-![ray.so](https://images-1252557999.file.myqcloud.com/uPic/ray.so.jpg) 
+一个用于测试 `HTTP` 客户端的简单服务器，可生成 `URL` 并返回您想要的生成响应：
+
+![echoserver](https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg) 
 
 ## ✍️ 说明
 
