@@ -5,103 +5,90 @@
 
 ## 🎯 项目 
 
-### [go-daily-lib](https://github.com/darjun/go-daily-lib)
+### [Youtu-agent](https://github.com/Tencent/Youtu-agent)
 
-每天学习一个 Go 语言库，内容质量相当高。
+Youtu-agent 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，例如数据分析、文件处理和深度研究：
 
-![go-daily-lib](https://images-1252557999.file.myqcloud.com/uPic/4Ippyf.png) 
+- 验证性能：在 WebWalkerQA 上达到 71.47% 的 pass@1，在 GAIA（纯文本子集）上达到 72.8% 的 pass@1，纯粹使用 DeepSeek-V3 系列模型（不使用 Claude 或 GPT），建立了强大的开源起点。
+- 开源友好且成本敏感：针对可访问、低成本部署进行了优化，不依赖封闭模型。
+- 实际用例：开箱即用地支持 CSV 分析、文献综述、个人文件整理以及播客和视频生成等任务。（即将推出）
+- 灵活的架构：基于 openai-agents 构建，可兼容各种模型 API（从 DeepSeek 到 gpt-oss）、工具集成和框架实现。
 
-### [lobe-chat](https://github.com/lobehub/lobe-chat)
+![Youtu](https://images-1252557999.file.myqcloud.com/uPic/Fmf3nY.png) 
 
-`LobeChat` 是一个开源的、可扩展的（Function Calling）高性能聊天机器人框架，它支持一键免费部署私人 `ChatGPT/LLM` 网页应用程序：
+### Command2API
 
-- 💨 快速部署：支持 Vercel 平台
--  💎 精致 UI 设计
--  🗣️ 流畅的对话体验
--  🧩 支持插件与自定义插件开发
--  🔒 隐私安全
--  🤖 自定义助手角色
--  🌐 自定义域名
--  🏬 角色市场
+这是一个可以实时获取执行命令结果的脚本，脚本原理就是一个线程开启Web服务，一个线程执行命令，通过全局变量与Web服务共享执行命令的结果。
 
-![lobe-chat](https://images-1252557999.file.myqcloud.com/uPic/lobe-chat.webp) 
+![Command2API](https://images-1252557999.file.myqcloud.com/uPic/mcMhsP.jpg) 
 
-### [rss-proxy](https://github.com/damoeb/rss-proxy)
+### [llamatutor](https://github.com/Nutlope/llamatutor)
 
-通过分析用户提供的静态页面自动创建RSS订阅源：
+一个开源的 AI 个人专属导师，由 Llama 3 70B 和 Together.ai 提供支持：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/APrAbH.png) 
+![llamatutor](https://images-1252557999.file.myqcloud.com/uPic/llamatutor.png) 
 
 ## 🤖 软件 
 
-### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
+### [notify-me](https://github.com/jinweijie/notify-me)
 
-这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
+开源免费的 `Android` 应用，自动捕获来电和短信，并通过电子邮件或 `Webhook` 转发至 `Bark` 服务器。用户可在其他设备上通过 Bark 应用接收通知，确保及时获取重要信息，解决多设备信息聚合的问题：
 
-`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
+![notify-me](https://images-1252557999.file.myqcloud.com/uPic/oSr8cn.png) 
 
-- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
-  
-- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
-  
+### [Bluesnooze](https://github.com/odlp/bluesnooze)
 
-![neteasy](https://images-1252557999.file.myqcloud.com/uPic/neteasy.png) 
+使用 `Bluesnooze`，蓝牙连接会在 `Mac` 睡眠时关闭，并在 `Mac` 唤醒时打开:
 
-### [dockeye](https://github.com/vv9k/dockeye)
+![bluesnooze](https://images-1252557999.file.myqcloud.com/uPic/bluesnooze.png) 
 
-基于`Rust`编写的`Docker`界面管理工具：
+### [ChatMLX](https://github.com/johnmai-dev/ChatMLX)
 
-![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
+`ChatMLX` 是一个现代化、开源、高性能的 MacOS 聊天应用程序，它基于大型语言模型，支持多种语言和模型，并确保用户隐私和安全：
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
-
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
-
-![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
+![ChatMLX](https://images-1252557999.file.myqcloud.com/uPic/8WekXj.png) 
 
 ## 👀 资料 
 
-### [happy-llm](https://github.com/datawhalechina/happy-llm)
+### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
 
-本项目是一个系统性的 LLM 学习教程，将从 NLP 的基本研究方法出发，根据 LLM 的思路及原理逐层深入，依次为读者剖析 LLM 的架构基础和训练过程。同时，我们会结合目前 LLM 领域最主流的代码框架，演练如何亲手搭建、训练一个 LLM，期以实现授之以鱼，更授之以渔。希望大家能从这本书开始走入 LLM 的浩瀚世界，探索 LLM 的无尽可能。
+关于 `MongoDB`，最全面的免费学习向导：
 
-![happy-llm](https://images-1252557999.file.myqcloud.com/uPic/agd2V6.png) 
+- 学习资源：文档书籍教程等
+- 第三方库：各种编程语言的兼容库
+- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
 
-### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+### [Book-of-MLM](https://hcplab-sysu.github.io/Book-of-MLM/)
 
- 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
+本书以深入浅出的方式全面地介绍了多模态大模型的核心技术与典型应用，并围绕新一代人工智能技术范式，详细阐述了因果推理、世界模型、超级智能体与具身智能等前沿技术。希望本书能够为学术界和工业界提供一个清晰的视角，以帮助人工智能科研工作者更全面地了解多模态大模型的技术和新一代人工智能的发展方向。
 
-### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
+![Book-of-MLM](https://images-1252557999.file.myqcloud.com/uPic/Book-of-MLM.jpg) 
 
-`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
+### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 
-![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
+[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
+
+![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
 
 ## 🕸 网站 
 
-### [vert.sh](https://vert.sh/)
+### [logo.surf](https://www.logo.surf/#generate-favicon)
 
-`VERT.sh` 提供了一个全面的文件转换服务，涵盖图片、音频、文档和视频等多种格式的处理。对于图片，支持的格式包括 PNG、JPEG、JPG、WEBP、GIF 等常见格式，以及 HEIC、ICO、BMP 等更多专业格式。
+快速创建图标：
 
-- 音频方面，支持 MP3、WAV、FLAC、OGG 等主流格式
-- 文档支持 DOCX、XML、DOC 等多种格式
-- 视频转换通常在服务器上进行，支持 MKV、MP4、WEBM 等格式。
+![logo_surf](https://images-1252557999.file.myqcloud.com/uPic/logo_surf.jpg) 
 
-值得注意的是，所有的图片、音频和文档处理都是在本地完成的，确保了用户数据的安全性和隐私性。
+### [pika](https://pika.style/)
 
-![vert.sh](https://images-1252557999.file.myqcloud.com/uPic/Vclo9P.png) 
+[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
 
-### [useanimations](https://useanimations.com/)
+![pika](https://images-1252557999.file.myqcloud.com/uPic/pika.jpg) 
 
-前端动态 `UI` 样式集合：
+### [pandagpt.io](https://www.pandagpt.io/)
 
-![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
+基于  `ChatGPT` 的 `AI` 文档机器人：
 
-### [echoserver](https://echoserver.dev/)
-
-一个用于测试 `HTTP` 客户端的简单服务器，可生成 `URL` 并返回您想要的生成响应：
-
-![echoserver](https://images-1252557999.file.myqcloud.com/uPic/echoserver.jpg) 
+![pandagpt](https://images-1252557999.file.myqcloud.com/uPic/pandagpt.jpg) 
 
 ## ✍️ 说明
 
