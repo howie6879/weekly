@@ -5,90 +5,87 @@
 
 ## 🎯 项目 
 
-### [Youtu-agent](https://github.com/Tencent/Youtu-agent)
+### [mayfly-go](https://github.com/dromara/mayfly-go)
 
-Youtu-agent 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，例如数据分析、文件处理和深度研究：
+web 版 linux(终端[终端回放] 文件 脚本 进程 计划任务)、数据库（mysql postgres 达梦）、redis(单机 哨兵 集群)、mongo 统一管理操作平台：
 
-- 验证性能：在 WebWalkerQA 上达到 71.47% 的 pass@1，在 GAIA（纯文本子集）上达到 72.8% 的 pass@1，纯粹使用 DeepSeek-V3 系列模型（不使用 Claude 或 GPT），建立了强大的开源起点。
-- 开源友好且成本敏感：针对可访问、低成本部署进行了优化，不依赖封闭模型。
-- 实际用例：开箱即用地支持 CSV 分析、文献综述、个人文件整理以及播客和视频生成等任务。（即将推出）
-- 灵活的架构：基于 openai-agents 构建，可兼容各种模型 API（从 DeepSeek 到 gpt-oss）、工具集成和框架实现。
+![mayfly-go](https://images-1252557999.file.myqcloud.com/uPic/mayfly-go.jpeg) 
 
-![Youtu](https://images-1252557999.file.myqcloud.com/uPic/Fmf3nY.png) 
+### [chsrc](https://github.com/RubyMetric/chsrc)
 
-### Command2API
+全平台命令行换源工具，目标支持 Linux (包括麒麟、openEuler、deepin 等), Windows, macOS, BSD 等尽可能多的操作系统，龙芯、飞腾、RISC-V 等尽可能多的 CPU。
 
-这是一个可以实时获取执行命令结果的脚本，脚本原理就是一个线程开启Web服务，一个线程执行命令，通过全局变量与Web服务共享执行命令的结果。
+![chsrc](https://images-1252557999.file.myqcloud.com/uPic/0WY3Oh.png) 
 
-![Command2API](https://images-1252557999.file.myqcloud.com/uPic/mcMhsP.jpg) 
+### [DailyHotApi](https://github.com/imsyy/DailyHotApi)
 
-### [llamatutor](https://github.com/Nutlope/llamatutor)
+今日热榜 `API`，一个聚合热门数据的 `API` 接口，支持 `Vercel` 部署：
 
-一个开源的 AI 个人专属导师，由 Llama 3 70B 和 Together.ai 提供支持：
-
-![llamatutor](https://images-1252557999.file.myqcloud.com/uPic/llamatutor.png) 
+![DailyHot](https://images-1252557999.file.myqcloud.com/uPic/DailyHot.jpg) 
 
 ## 🤖 软件 
 
-### [notify-me](https://github.com/jinweijie/notify-me)
+### [aidea](https://github.com/mylxsw/aidea)
 
-开源免费的 `Android` 应用，自动捕获来电和短信，并通过电子邮件或 `Webhook` 转发至 `Bark` 服务器。用户可在其他设备上通过 Bark 应用接收通知，确保及时获取重要信息，解决多设备信息聚合的问题：
+一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：
 
-![notify-me](https://images-1252557999.file.myqcloud.com/uPic/oSr8cn.png) 
+- 支持 GPT-3.5/4 问答聊天
+- 支持国产模型：通义千问，文心一言
+- 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
 
-### [Bluesnooze](https://github.com/odlp/bluesnooze)
+![aidea](https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg) 
 
-使用 `Bluesnooze`，蓝牙连接会在 `Mac` 睡眠时关闭，并在 `Mac` 唤醒时打开:
+### [novel-disguise](https://github.com/NiaoBlush/novel-disguise)
 
-![bluesnooze](https://images-1252557999.file.myqcloud.com/uPic/bluesnooze.png) 
+将小说页面伪装成一个 `Word` 文档或 `Excel` 表格，神奇的脑回路，应该是为摸鱼而生的项目，好像还支持了 v 站：
 
-### [ChatMLX](https://github.com/johnmai-dev/ChatMLX)
+![novel-disguise](https://images-1252557999.file.myqcloud.com/uPic/bPV6Qm.png) 
 
-`ChatMLX` 是一个现代化、开源、高性能的 MacOS 聊天应用程序，它基于大型语言模型，支持多种语言和模型，并确保用户隐私和安全：
+### [kondo](https://github.com/tbillington/kondo)
 
-![ChatMLX](https://images-1252557999.file.myqcloud.com/uPic/8WekXj.png) 
+有时候在开发的时候，会惊讶于这个语言下依赖竟然有 `xx个G` 的硬盘占用，长期下来，硬盘的空间就这样不知不觉没有了，好在发现了这个项目，帮我解决了问题：
+
+![kondo](https://images-1252557999.file.myqcloud.com/uPic/kondo.png)
+
+可以看到上面 `Rust` 项目依赖确实大。 
 
 ## 👀 资料 
 
-### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
+### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 
-关于 `MongoDB`，最全面的免费学习向导：
+本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
 
-- 学习资源：文档书籍教程等
-- 第三方库：各种编程语言的兼容库
-- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
+![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
 
-### [Book-of-MLM](https://hcplab-sysu.github.io/Book-of-MLM/)
+### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
 
-本书以深入浅出的方式全面地介绍了多模态大模型的核心技术与典型应用，并围绕新一代人工智能技术范式，详细阐述了因果推理、世界模型、超级智能体与具身智能等前沿技术。希望本书能够为学术界和工业界提供一个清晰的视角，以帮助人工智能科研工作者更全面地了解多模态大模型的技术和新一代人工智能的发展方向。
+该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
 
-![Book-of-MLM](https://images-1252557999.file.myqcloud.com/uPic/Book-of-MLM.jpg) 
+### [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
 
-### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+[《Effective Modern C++ 》](https://cntransgroup.github.io/EffectiveModernCppChinese/)翻译：
 
-[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
-
-![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
+![EffectiveModernCppChinese](https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg) 
 
 ## 🕸 网站 
 
-### [logo.surf](https://www.logo.surf/#generate-favicon)
+### [favicon.io](https://favicon.io/)
 
-快速创建图标：
+免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
 
-![logo_surf](https://images-1252557999.file.myqcloud.com/uPic/logo_surf.jpg) 
+![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
 
-### [pika](https://pika.style/)
+### [mindmap-scanner](https://xmind.cn/mindmap-scanner/)
 
-[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
+用 `AI` 将思维导图图片转为可编辑的 `Xmind` 文件：
 
-![pika](https://images-1252557999.file.myqcloud.com/uPic/pika.jpg) 
+![mindmap-scanner](https://images-1252557999.file.myqcloud.com/uPic/mindmap-scanner.jpg) 
 
-### [pandagpt.io](https://www.pandagpt.io/)
+### [cook](https://github.com/YunYouJun/cook)
 
-基于  `ChatGPT` 的 `AI` 文档机器人：
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-![pandagpt](https://images-1252557999.file.myqcloud.com/uPic/pandagpt.jpg) 
+![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
 
 ## ✍️ 说明
 
