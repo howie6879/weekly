@@ -5,87 +5,102 @@
 
 ## 🎯 项目 
 
-### [mayfly-go](https://github.com/dromara/mayfly-go)
+### [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
 
-web 版 linux(终端[终端回放] 文件 脚本 进程 计划任务)、数据库（mysql postgres 达梦）、redis(单机 哨兵 集群)、mongo 统一管理操作平台：
+一个基于MCP的聊天机器人，小智 AI 聊天机器人作为一个语音交互入口，利用 Qwen / DeepSeek 等大模型的 AI 能力，通过 MCP 协议实现多端控制：
 
-![mayfly-go](https://images-1252557999.file.myqcloud.com/uPic/mayfly-go.jpeg) 
+- Wi-Fi / ML307 Cat.1 4G
+- 离线语音唤醒 ESP-SR
+- 支持两种通信协议（Websocket 或 MQTT+UDP）
+- 采用 OPUS 音频编解码
+- 基于流式 ASR + LLM + TTS 架构的语音交互
+- 声纹识别，识别当前说话人的身份 3D Speaker
+- OLED / LCD 显示屏，支持表情显示
+- 电量显示与电源管理
+- 支持多语言（中文、英文、日文）
+- 支持 ESP32-C3、ESP32-S3、ESP32-P4 芯片平台
+- 通过设备端 MCP 实现设备控制（音量、灯光、电机、GPIO 等）
+- 通过云端 MCP 扩展大模型能力（智能家居控制、PC桌面操作、知识搜索、邮件收发等）
 
-### [chsrc](https://github.com/RubyMetric/chsrc)
+![xiaozhi](https://images-1252557999.file.myqcloud.com/uPic/EOJ1tL.png) 
 
-全平台命令行换源工具，目标支持 Linux (包括麒麟、openEuler、deepin 等), Windows, macOS, BSD 等尽可能多的操作系统，龙芯、飞腾、RISC-V 等尽可能多的 CPU。
+### [telegram-files](https://github.com/jarvis2f/telegram-files)
 
-![chsrc](https://images-1252557999.file.myqcloud.com/uPic/0WY3Oh.png) 
+从 Telegram 频道和群组下载文件的开源项目，支持多账号并确保文件不会重复下载，具备下载暂停和继续的功能：
 
-### [DailyHotApi](https://github.com/imsyy/DailyHotApi)
+![telegram-files](https://images-1252557999.file.myqcloud.com/uPic/O7wvH0.png) 
 
-今日热榜 `API`，一个聚合热门数据的 `API` 接口，支持 `Vercel` 部署：
+### [plasmo](https://github.com/PlasmoHQ/plasmo)
 
-![DailyHot](https://images-1252557999.file.myqcloud.com/uPic/DailyHot.jpg) 
+`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
+
+- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
+- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
+- 热重载
+- [`.env*`  文件](https://docs.plasmo.com/framework/env)
+- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
+- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
+- 还有更多!  🚀
+
+![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
+
+更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
 
 ## 🤖 软件 
 
-### [aidea](https://github.com/mylxsw/aidea)
+### [radishes](https://github.com/radishes-music/radishes)
 
-一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：
+跨平台的无版权音乐平台，支持 `windows / macos / linux / web`：
 
-- 支持 GPT-3.5/4 问答聊天
-- 支持国产模型：通义千问，文心一言
-- 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
+![](https://images-1252557999.file.myqcloud.com/uPic/radishes.jpeg) 
 
-![aidea](https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg) 
+### [otphelper](https://github.com/jd1378/otphelper)
 
-### [novel-disguise](https://github.com/NiaoBlush/novel-disguise)
+`otphelper` 是一个开源应用程序，它可以自动从通知中复制一次性密码（OTP）和代码。
 
-将小说页面伪装成一个 `Word` 文档或 `Excel` 表格，神奇的脑回路，应该是为摸鱼而生的项目，好像还支持了 v 站：
+![otphelper](https://images-1252557999.file.myqcloud.com/uPic/OVPH03.png) 
 
-![novel-disguise](https://images-1252557999.file.myqcloud.com/uPic/bPV6Qm.png) 
+### [Parabolic](https://github.com/NickvisionApps/Parabolic)
 
-### [kondo](https://github.com/tbillington/kondo)
+`Parabolic` 是一款免费、功能强大的网络影片下载工具，它支持从超过 1000 个网站下载媒体内容，包括 YouTube、TikTok、IG 等常见平台。用户只需复制粘贴网址，选择下载的影片格式、解析度和字幕即可完成操作。它拥有简洁易用的界面，无额外付费功能或隐藏内容，还支持多种影片和音讯格式，内建下载影片字幕功能，并能一次性执行多个下载任务，是网络影片下载保存的得力助手。
 
-有时候在开发的时候，会惊讶于这个语言下依赖竟然有 `xx个G` 的硬盘占用，长期下来，硬盘的空间就这样不知不觉没有了，好在发现了这个项目，帮我解决了问题：
-
-![kondo](https://images-1252557999.file.myqcloud.com/uPic/kondo.png)
-
-可以看到上面 `Rust` 项目依赖确实大。 
+![Parabolic](https://images-1252557999.file.myqcloud.com/uPic/TBRkMe.png) 
 
 ## 👀 资料 
 
-### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
+### [The Prompt Report: A Systematic Survey of Prompt Engineering Techniques](https://arxiv.org/abs/2406.06608)
 
-本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
+这篇论文提供了关于生成人工智能系统中提示工程技术的全面调查报告，旨在建立对提示工程的结构化理解，提供了 33 个术语的详细词汇表、58 种大型语言模型提示技术的分类法以及其他模态的 40 种技术，并给出了提示工程的最佳实践和指导方针。 
 
-![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
+### [Recommender_System](https://github.com/solidglue/Recommender_System)
 
-### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
+推荐系统入门指南，全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。 
 
-该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
+### [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
-### [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
+📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
 
-[《Effective Modern C++ 》](https://cntransgroup.github.io/EffectiveModernCppChinese/)翻译：
-
-![EffectiveModernCppChinese](https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg) 
+![CS-Notes](https://images-1252557999.file.myqcloud.com/uPic/7aMFrS.png) 
 
 ## 🕸 网站 
 
-### [favicon.io](https://favicon.io/)
+### [smartexcel](https://www.smartexcel.cc/)
 
-免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
 
-![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
+![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
 
-### [mindmap-scanner](https://xmind.cn/mindmap-scanner/)
+### [llmresourceshub](https://llmresourceshub.vercel.app/)
 
-用 `AI` 将思维导图图片转为可编辑的 `Xmind` 文件：
+一站式 LLM 资源合集：
 
-![mindmap-scanner](https://images-1252557999.file.myqcloud.com/uPic/mindmap-scanner.jpg) 
+![llmresourceshub](https://images-1252557999.file.myqcloud.com/uPic/eSgtB8.png) 
 
-### [cook](https://github.com/YunYouJun/cook)
+### [LLM Visualization](https://bbycroft.net/llm)
 
-一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
+将 GPT LLM 大模型进行可视化分析：
 
-![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
+![bbycroft](https://images-1252557999.file.myqcloud.com/uPic/bbycroft.jpg) 
 
 ## ✍️ 说明
 
