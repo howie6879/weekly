@@ -5,102 +5,99 @@
 
 ## 🎯 项目 
 
-### [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+### [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)
 
-一个基于MCP的聊天机器人，小智 AI 聊天机器人作为一个语音交互入口，利用 Qwen / DeepSeek 等大模型的 AI 能力，通过 MCP 协议实现多端控制：
+一个油猴脚本，让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤，还可以取消后台监管审计：
 
-- Wi-Fi / ML307 Cat.1 4G
-- 离线语音唤醒 ESP-SR
-- 支持两种通信协议（Websocket 或 MQTT+UDP）
-- 采用 OPUS 音频编解码
-- 基于流式 ASR + LLM + TTS 架构的语音交互
-- 声纹识别，识别当前说话人的身份 3D Speaker
-- OLED / LCD 显示屏，支持表情显示
-- 电量显示与电源管理
-- 支持多语言（中文、英文、日文）
-- 支持 ESP32-C3、ESP32-S3、ESP32-P4 芯片平台
-- 通过设备端 MCP 实现设备控制（音量、灯光、电机、GPIO 等）
-- 通过云端 MCP 扩展大模型能力（智能家居控制、PC桌面操作、知识搜索、邮件收发等）
+- 解决了报错：NetworkError when attempting to fetch resource.
+- 解决了报错：Something went wrong. If this issue persists please contact us through our help center at help.openai.com.
+- 解决了报错：Conversation not found
+- 自由取消后台监管审计：This content may violate our content policy. If you believe this to be in error, please submit your feedback — your input will aid our research in this area.
+- 解决被频繁地打断交流
+- 解决频繁地刷新网页
+- 支持多国语言
+- 解决用户手误复制用户头像里的用户名的问题
+- 兼容移动端
 
-![xiaozhi](https://images-1252557999.file.myqcloud.com/uPic/EOJ1tL.png) 
+![KeepChatGPT](https://images-1252557999.file.myqcloud.com/uPic/KeepChatGPT.png) 
 
-### [telegram-files](https://github.com/jarvis2f/telegram-files)
+### [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)
 
-从 Telegram 频道和群组下载文件的开源项目，支持多账号并确保文件不会重复下载，具备下载暂停和继续的功能：
+基于 `Docker` 的 `Web PDF` 操作工具，允许您对 `PDF` 文件执行各种操作，如拆分、合并、转换、重新组织、添加图像、旋转、压缩等：
 
-![telegram-files](https://images-1252557999.file.myqcloud.com/uPic/O7wvH0.png) 
+![Stirling-PDF](https://images-1252557999.file.myqcloud.com/uPic/Stirling-PDF.png) 
 
-### [plasmo](https://github.com/PlasmoHQ/plasmo)
+### [instantbox](https://github.com/instantbox/instantbox)
 
-`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
+可以在任意浏览器中快速启动临时 `Linux` 系统并提供即时 `webshell` 访问，它可用于演示、教学、灵感迸发时提供干净环境、设备管理、开源项目实验及软件性能测试等多种用途。支持的 Linux 发行版包括 Ubuntu、CentOS、Arch Linux、Debian、Fedora 和 Alpine。
 
-- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
-- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
-- 热重载
-- [`.env*`  文件](https://docs.plasmo.com/framework/env)
-- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
-- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
-- 还有更多!  🚀
-
-![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
-
-更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
+![instantbox](https://images-1252557999.file.myqcloud.com/uPic/instantbox.jpg) 
 
 ## 🤖 软件 
 
-### [radishes](https://github.com/radishes-music/radishes)
+### [youtube-music](https://github.com/th-ch/youtube-music)
 
-跨平台的无版权音乐平台，支持 `windows / macos / linux / web`：
+一个 `YouTube Music` 桌面应用程序，提供类似原生界面的 `YouTube Music` 体验，基于 Electron 构建。
 
-![](https://images-1252557999.file.myqcloud.com/uPic/radishes.jpeg) 
+该应用集成了多种插件，包括广告屏蔽器、下载器以及其他增强功能。
 
-### [otphelper](https://github.com/jd1378/otphelper)
+- 广告拦截和下载：内置广告拦截器，阻止所有广告和跟踪；支持下载音乐（如 MP3、Opus 格式）。
+- 自定义插件：提供 31 个插件，例如 Discord 富存在、音频压缩、专辑颜色主题等，用户可一键启用或禁用。
+- 跨平台支持：可在 Windows（提供安装版和便携版）、macOS 和 Linux（提供 AppImage、deb 等）上运行。
 
-`otphelper` 是一个开源应用程序，它可以自动从通知中复制一次性密码（OTP）和代码。
+![youtube-music](https://images-1252557999.file.myqcloud.com/uPic/Zzzdlh.png) 
 
-![otphelper](https://images-1252557999.file.myqcloud.com/uPic/OVPH03.png) 
+### [social-media-copilot](https://github.com/iszhouhua/social-media-copilot)
 
-### [Parabolic](https://github.com/NickvisionApps/Parabolic)
+社媒助手 - 小红书、抖音等平台数据采集的浏览器插件。支持一键导出无水印图片/视频、评论采集、作品数据采集、达人数据采集等功能：
 
-`Parabolic` 是一款免费、功能强大的网络影片下载工具，它支持从超过 1000 个网站下载媒体内容，包括 YouTube、TikTok、IG 等常见平台。用户只需复制粘贴网址，选择下载的影片格式、解析度和字幕即可完成操作。它拥有简洁易用的界面，无额外付费功能或隐藏内容，还支持多种影片和音讯格式，内建下载影片字幕功能，并能一次性执行多个下载任务，是网络影片下载保存的得力助手。
+![social-media-copilot](https://images-1252557999.file.myqcloud.com/uPic/HvvXRg.png) 
 
-![Parabolic](https://images-1252557999.file.myqcloud.com/uPic/TBRkMe.png) 
+### [Bluesnooze](https://github.com/odlp/bluesnooze)
+
+使用 `Bluesnooze`，蓝牙连接会在 `Mac` 睡眠时关闭，并在 `Mac` 唤醒时打开:
+
+![bluesnooze](https://images-1252557999.file.myqcloud.com/uPic/bluesnooze.png) 
 
 ## 👀 资料 
 
-### [The Prompt Report: A Systematic Survey of Prompt Engineering Techniques](https://arxiv.org/abs/2406.06608)
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-这篇论文提供了关于生成人工智能系统中提示工程技术的全面调查报告，旨在建立对提示工程的结构化理解，提供了 33 个术语的详细词汇表、58 种大型语言模型提示技术的分类法以及其他模态的 40 种技术，并给出了提示工程的最佳实践和指导方针。 
+《Mastering GO》中文译本，《玩转 GO》：
 
-### [Recommender_System](https://github.com/solidglue/Recommender_System)
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
-推荐系统入门指南，全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。 
+### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
 
-### [CS-Notes](https://github.com/CyC2018/CS-Notes)
+全面的Webpack教程《深入浅出Webpack》电子书：
 
-📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
+![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
 
-![CS-Notes](https://images-1252557999.file.myqcloud.com/uPic/7aMFrS.png) 
+### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
+
+读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
+
+![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [smartexcel](https://www.smartexcel.cc/)
+### [itnext](https://itnext.cn/)
 
-使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
+一个介绍元宇宙的网站：
 
-![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
+![itnext](https://images-1252557999.file.myqcloud.com/uPic/yc7Zhp.png) 
 
-### [llmresourceshub](https://llmresourceshub.vercel.app/)
+### [favicon.im](https://favicon.im/)
 
-一站式 LLM 资源合集：
+快速获取网站 LOGO:
 
-![llmresourceshub](https://images-1252557999.file.myqcloud.com/uPic/eSgtB8.png) 
+![favicon.im](https://images-1252557999.file.myqcloud.com/uPic/FSVgaW.png) 
 
-### [LLM Visualization](https://bbycroft.net/llm)
+### [awesome-chatgpt-prompts](https://prompts.chat/)
 
-将 GPT LLM 大模型进行可视化分析：
+`ChatGPT` 余热不减，一周百万用户果然不是盖的，这个项目总结了 `ChatGPT` 常用姿势：
 
-![bbycroft](https://images-1252557999.file.myqcloud.com/uPic/bbycroft.jpg) 
+![prompts](https://images-1252557999.file.myqcloud.com/uPic/prompts.jpg) 
 
 ## ✍️ 说明
 
