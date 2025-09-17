@@ -5,99 +5,91 @@
 
 ## 🎯 项目 
 
-### [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)
+### [docker-windows](https://github.com/dockur/windows)
 
-一个油猴脚本，让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤，还可以取消后台监管审计：
+`Docker` 启动 `Windows`，特性如下：
 
-- 解决了报错：NetworkError when attempting to fetch resource.
-- 解决了报错：Something went wrong. If this issue persists please contact us through our help center at help.openai.com.
-- 解决了报错：Conversation not found
-- 自由取消后台监管审计：This content may violate our content policy. If you believe this to be in error, please submit your feedback — your input will aid our research in this area.
-- 解决被频繁地打断交流
-- 解决频繁地刷新网页
-- 支持多国语言
-- 解决用户手误复制用户头像里的用户名的问题
-- 兼容移动端
+- ISO downloader
+- KVM acceleration
+- Web-based viewer 
 
-![KeepChatGPT](https://images-1252557999.file.myqcloud.com/uPic/KeepChatGPT.png) 
+### [InjectLib](https://github.com/QiuChenly/InjectLib)
 
-### [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)
+一个半开源形式、任何开发者经过评审都可以参与的一个公开 `macOS` 注入框架项目。用了就知道，还有 [GUI 版本](https://github.com/wibus-wee/InjectGUI)。
 
-基于 `Docker` 的 `Web PDF` 操作工具，允许您对 `PDF` 文件执行各种操作，如拆分、合并、转换、重新组织、添加图像、旋转、压缩等：
+![InjectGUI](https://images-1252557999.file.myqcloud.com/uPic/InjectGUI.jpg) 
 
-![Stirling-PDF](https://images-1252557999.file.myqcloud.com/uPic/Stirling-PDF.png) 
+### [paper-ai](https://github.com/14790897/paper-ai)
 
-### [instantbox](https://github.com/instantbox/instantbox)
+利用人工智能撰写论文
 
-可以在任意浏览器中快速启动临时 `Linux` 系统并提供即时 `webshell` 访问，它可用于演示、教学、灵感迸发时提供干净环境、设备管理、开源项目实验及软件性能测试等多种用途。支持的 Linux 发行版包括 Ubuntu、CentOS、Arch Linux、Debian、Fedora 和 Alpine。
+- 人工智能书写功能： 点击 "AI 写作 "进行正常对话互动。人工智能将根据您的输入提供写作建议或回答问题。
+- Paper2AI功能： 点击 "Paper2AI"，根据输入的关键词在Semantic Scholar或arxiv中搜索论文。系统将把信息整合到您的论文中。
+- 介绍视频：[引用真实文献的AI写论文网站](https://www.bilibili.com/video/BV1Ya4y1k75V/)
 
-![instantbox](https://images-1252557999.file.myqcloud.com/uPic/instantbox.jpg) 
+![paper-ai](https://images-1252557999.file.myqcloud.com/uPic/paper-ai.png) 
 
 ## 🤖 软件 
 
-### [youtube-music](https://github.com/th-ch/youtube-music)
+### [materialYouNewTab](https://github.com/XengShi/materialYouNewTab)
 
-一个 `YouTube Music` 桌面应用程序，提供类似原生界面的 `YouTube Music` 体验，基于 Electron 构建。
+一个简单的新标签（浏览器主页）插件，灵感来自谷歌的 MD 设计，挺漂亮的：
 
-该应用集成了多种插件，包括广告屏蔽器、下载器以及其他增强功能。
+![materialYouNewTab](https://images-1252557999.file.myqcloud.com/uPic/MWwtoG.png) 
 
-- 广告拦截和下载：内置广告拦截器，阻止所有广告和跟踪；支持下载音乐（如 MP3、Opus 格式）。
-- 自定义插件：提供 31 个插件，例如 Discord 富存在、音频压缩、专辑颜色主题等，用户可一键启用或禁用。
-- 跨平台支持：可在 Windows（提供安装版和便携版）、macOS 和 Linux（提供 AppImage、deb 等）上运行。
+### [ptg](https://github.com/crossoverJie/ptg)
 
-![youtube-music](https://images-1252557999.file.myqcloud.com/uPic/Zzzdlh.png) 
+让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
 
-### [social-media-copilot](https://github.com/iszhouhua/social-media-copilot)
+![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
 
-社媒助手 - 小红书、抖音等平台数据采集的浏览器插件。支持一键导出无水印图片/视频、评论采集、作品数据采集、达人数据采集等功能：
+### [HandBrake](https://github.com/HandBrake/HandBrake)
 
-![social-media-copilot](https://images-1252557999.file.myqcloud.com/uPic/HvvXRg.png) 
+`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
 
-### [Bluesnooze](https://github.com/odlp/bluesnooze)
-
-使用 `Bluesnooze`，蓝牙连接会在 `Mac` 睡眠时关闭，并在 `Mac` 唤醒时打开:
-
-![bluesnooze](https://images-1252557999.file.myqcloud.com/uPic/bluesnooze.png) 
+![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
 
 ## 👀 资料 
 
-### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
+### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
 
-《Mastering GO》中文译本，《玩转 GO》：
+对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
 
-![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
+### [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
-### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
+本项目精选收录了采用RAG、AI智能体、多智能体团队、MCP、语音智能体等技术构建的超赞LLM应用。本仓库展示的LLM应用使用了OpenAI、Anthropic、Google等公司的模型，以及DeepSeek、Qwen或Llama等可在本地计算机上运行的开源模型。
 
-全面的Webpack教程《深入浅出Webpack》电子书：
+![awesome-llm-apps](https://images-1252557999.file.myqcloud.com/uPic/9pE3fX.png) 
 
-![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
+### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
 
-### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
+作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
 
-读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
-
-![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
+![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
 
 ## 🕸 网站 
 
-### [itnext](https://itnext.cn/)
+### [lz.qaiu.top](https://lz.qaiu.top/)
 
-一个介绍元宇宙的网站：
+`NFD` 网盘直链解析，目前支持 蓝奏云/蓝奏云优享/小飞机盘/123云盘/奶牛快传/移动云云空间/亿方云/文叔叔/QQ邮箱文件中转站：
 
-![itnext](https://images-1252557999.file.myqcloud.com/uPic/yc7Zhp.png) 
+![netdisk](https://images-1252557999.file.myqcloud.com/uPic/v8jmto.png)
 
-### [favicon.im](https://favicon.im/)
+代码开源在：[netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download?tab=readme-ov-file)。 
 
-快速获取网站 LOGO:
+### [smartexcel](https://smartexcel.cc/)
 
-![favicon.im](https://images-1252557999.file.myqcloud.com/uPic/FSVgaW.png) 
+使用 `AI` 在几秒钟内生成 `Excel` 公式的工具。描述自己的需要，即可生成相应的公式。需要登录，每天 有10 个免费积分可以使用:
 
-### [awesome-chatgpt-prompts](https://prompts.chat/)
+![smartexcel](https://images-1252557999.file.myqcloud.com/uPic/DXKVRR.png)
 
-`ChatGPT` 余热不减，一周百万用户果然不是盖的，这个项目总结了 `ChatGPT` 常用姿势：
+开源地址：[smartexcel](https://github.com/weijunext/smart-excel-ai)。 
 
-![prompts](https://images-1252557999.file.myqcloud.com/uPic/prompts.jpg) 
+### [xsgames](https://xsgames.co/pixelme/)
+
+免费的像素头像生成网站：
+
+![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
 
 ## ✍️ 说明
 
