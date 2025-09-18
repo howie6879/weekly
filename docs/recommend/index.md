@@ -5,91 +5,83 @@
 
 ## 🎯 项目 
 
-### [docker-windows](https://github.com/dockur/windows)
+### [HowToCook](https://github.com/Anduin2017/HowToCook)
 
-`Docker` 启动 `Windows`，特性如下：
+程序员在家做饭方法指南。 
 
-- ISO downloader
-- KVM acceleration
-- Web-based viewer 
+### [PandaWiki](https://github.com/chaitin/PandaWiki)
 
-### [InjectLib](https://github.com/QiuChenly/InjectLib)
+PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索 等能力。
 
-一个半开源形式、任何开发者经过评审都可以参与的一个公开 `macOS` 注入框架项目。用了就知道，还有 [GUI 版本](https://github.com/wibus-wee/InjectGUI)。
+![PandaWiki](https://images-1252557999.file.myqcloud.com/uPic/8YgiXm.png) 
 
-![InjectGUI](https://images-1252557999.file.myqcloud.com/uPic/InjectGUI.jpg) 
+### [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 
-### [paper-ai](https://github.com/14790897/paper-ai)
+基于 `Gradio Web` 实现的 UI，用于运行像 `GPT-J 6B、OPT、GALACTICA、LLaMA、Pygmalion` 这样的大型语言模型：
 
-利用人工智能撰写论文
-
-- 人工智能书写功能： 点击 "AI 写作 "进行正常对话互动。人工智能将根据您的输入提供写作建议或回答问题。
-- Paper2AI功能： 点击 "Paper2AI"，根据输入的关键词在Semantic Scholar或arxiv中搜索论文。系统将把信息整合到您的论文中。
-- 介绍视频：[引用真实文献的AI写论文网站](https://www.bilibili.com/video/BV1Ya4y1k75V/)
-
-![paper-ai](https://images-1252557999.file.myqcloud.com/uPic/paper-ai.png) 
+![text-generation-webui](https://images-1252557999.file.myqcloud.com/uPic/text-generation-webui.jpg) 
 
 ## 🤖 软件 
 
-### [materialYouNewTab](https://github.com/XengShi/materialYouNewTab)
+### [spotube](https://github.com/KRTirtho/spotube)
 
-一个简单的新标签（浏览器主页）插件，灵感来自谷歌的 MD 设计，挺漂亮的：
+`Spotube` 可用于所有主要平台，包括 `Linux、Android、Windows & MacOS`，它利用 `Spotify` 和 `YouTube` 的公共 `API` 作为音频源，不需要 `Spotify Premium`，没有广告，可下载歌曲，实时同步歌词，支持匿名或访客登录：
 
-![materialYouNewTab](https://images-1252557999.file.myqcloud.com/uPic/MWwtoG.png) 
+![spotube](https://images-1252557999.file.myqcloud.com/uPic/spotube.jpg) 
 
-### [ptg](https://github.com/crossoverJie/ptg)
+### [JPEGView](https://github.com/sylikc/jpegview)
 
-让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
+`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
 
-![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
+### [Gif123](https://github.com/aardio/Gif123)
 
-### [HandBrake](https://github.com/HandBrake/HandBrake)
+非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
 
-`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
-
-![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
+![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg) 
 
 ## 👀 资料 
 
-### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
+### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
-对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
+吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
 
-### [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- 学习应用开发所需的 prompt engineering 最佳实践
+- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
+- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
 
-本项目精选收录了采用RAG、AI智能体、多智能体团队、MCP、语音智能体等技术构建的超赞LLM应用。本仓库展示的LLM应用使用了OpenAI、Anthropic、Google等公司的模型，以及DeepSeek、Qwen或Llama等可在本地计算机上运行的开源模型。
+![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
 
-![awesome-llm-apps](https://images-1252557999.file.myqcloud.com/uPic/9pE3fX.png) 
+### [llm-action](https://github.com/liguodongiot/llm-action)
 
-### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
+本项目旨在分享大模型相关技术原理以及实战经验，让天下没有难学的大模型：
 
-作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
+![llm-action](https://images-1252557999.file.myqcloud.com/uPic/llm-action.png) 
 
-![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
+### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
+
+`OpenAI` 出品的的深度强化学习教程：
+
+![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
 
 ## 🕸 网站 
 
-### [lz.qaiu.top](https://lz.qaiu.top/)
+### [小纸条-gitcafe](https://u.gitcafe.net/)
 
-`NFD` 网盘直链解析，目前支持 蓝奏云/蓝奏云优享/小飞机盘/123云盘/奶牛快传/移动云云空间/亿方云/文叔叔/QQ邮箱文件中转站：
+开放纯粹的资源网站：
 
-![netdisk](https://images-1252557999.file.myqcloud.com/uPic/v8jmto.png)
+![gitcafe](https://images-1252557999.file.myqcloud.com/uPic/gitcafe.jpg) 
 
-代码开源在：[netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download?tab=readme-ov-file)。 
+### [askaitools.ai](https://askaitools.ai/)
 
-### [smartexcel](https://smartexcel.cc/)
+专为人工智能产品量身定制的尖端搜索引擎项目，快速搜索查找 1w+ AI 产品：
 
-使用 `AI` 在几秒钟内生成 `Excel` 公式的工具。描述自己的需要，即可生成相应的公式。需要登录，每天 有10 个免费积分可以使用:
+![askaitools](https://images-1252557999.file.myqcloud.com/uPic/askaitools.jpg) 
 
-![smartexcel](https://images-1252557999.file.myqcloud.com/uPic/DXKVRR.png)
+### [chatgpt-sites](https://github.com/lzwme/chatgpt-sites)
 
-开源地址：[smartexcel](https://github.com/weijunext/smart-excel-ai)。 
+搜集国内可用的 ChatGPT 在线体验免费网站列表，定时任务每日更新，点击[这里](https://lzw.me/x/chatgpt-sites/)访问：
 
-### [xsgames](https://xsgames.co/pixelme/)
-
-免费的像素头像生成网站：
-
-![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
+![chatgpt-sites](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-sites.jpg) 
 
 ## ✍️ 说明
 
