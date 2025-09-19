@@ -5,83 +5,109 @@
 
 ## 🎯 项目 
 
-### [HowToCook](https://github.com/Anduin2017/HowToCook)
+### [streamlit](https://github.com/streamlit/streamlit)
 
-程序员在家做饭方法指南。 
+用 `Python` 快速构建数据应用：
 
-### [PandaWiki](https://github.com/chaitin/PandaWiki)
+![Streamlit_overview](https://images-1252557999.file.myqcloud.com/uPic/Streamlit_overview.gif)
+类似的选择还有 [gradio](https://github.com/gradio-app/gradio)，其更偏向AI模型的web解决方案。 
 
-PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索 等能力。
+### [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)
 
-![PandaWiki](https://images-1252557999.file.myqcloud.com/uPic/8YgiXm.png) 
+一个 `ChatGPT` 代码解释器的开源（`LangChain`）实现：
 
-### [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+- 数据集分析、股票图表绘制、图像处理....
+- 互联网访问和自动安装Python软件包
+- 除了OpenAI API 外，所有事情在本地运行
+- 对话记忆：根据先前的输入进行回应 
 
-基于 `Gradio Web` 实现的 UI，用于运行像 `GPT-J 6B、OPT、GALACTICA、LLaMA、Pygmalion` 这样的大型语言模型：
+### [zinc](https://github.com/prabhatsharma/zinc)
 
-![text-generation-webui](https://images-1252557999.file.myqcloud.com/uPic/text-generation-webui.jpg) 
+`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
+
+- 全文索引能力
+- 快速运行，多平台支持
+- 基于Vue的Web UI
+- 兼容ES API
+- 开箱即用的验证功能
+- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
+
+![zinc](https://images-1252557999.file.myqcloud.com/uPic/P9OAA1.jpg) 
 
 ## 🤖 软件 
 
-### [spotube](https://github.com/KRTirtho/spotube)
+### [datastation](https://github.com/multiprocessio/datastation)
 
-`Spotube` 可用于所有主要平台，包括 `Linux、Android、Windows & MacOS`，它利用 `Spotify` 和 `YouTube` 的公共 `API` 作为音频源，不需要 `Spotify Premium`，没有广告，可下载歌曲，实时同步歌词，支持匿名或访客登录：
+`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
 
-![spotube](https://images-1252557999.file.myqcloud.com/uPic/spotube.jpg) 
+![datastation](https://images-1252557999.file.myqcloud.com/uPic/datastation.jpg) 
 
-### [JPEGView](https://github.com/sylikc/jpegview)
+### [NativeMindExtension](https://github.com/NativeMindBrowser/NativeMindExtension)
 
-`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
+`NativeMindExtension` 是一个开源项目，旨在提供一个完全在用户设备上运行的 AI 助手，它不依赖云服务，保证了用户隐私和数据安全。
 
-### [Gif123](https://github.com/aardio/Gif123)
+![NativeMindExtension](https://images-1252557999.file.myqcloud.com/uPic/OJa7M3.png) 
 
-非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
+### [social-media-copilot](https://github.com/iszhouhua/social-media-copilot)
 
-![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg) 
+社媒助手 - 小红书、抖音等平台数据采集的浏览器插件。支持一键导出无水印图片/视频、评论采集、作品数据采集、达人数据采集等功能：
+
+![social-media-copilot](https://images-1252557999.file.myqcloud.com/uPic/HvvXRg.png) 
 
 ## 👀 资料 
 
-### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
 
-吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
+一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
 
-- 学习应用开发所需的 prompt engineering 最佳实践
-- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
-- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
+![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
 
-![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
+### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
-### [llm-action](https://github.com/liguodongiot/llm-action)
+这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
 
-本项目旨在分享大模型相关技术原理以及实战经验，让天下没有难学的大模型：
+我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
 
-![llm-action](https://images-1252557999.file.myqcloud.com/uPic/llm-action.png) 
+### [quant-wiki](https://quant-wiki.com/)
 
-### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
+致力于量化知识的开源与汉化，打破国内外量化金融行业信息差：
 
-`OpenAI` 出品的的深度强化学习教程：
-
-![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
+![quant](https://images-1252557999.file.myqcloud.com/uPic/kuOM0C.png) 
 
 ## 🕸 网站 
 
-### [小纸条-gitcafe](https://u.gitcafe.net/)
+### [wallpaperengine.space](https://www.wallpaperengine.space/)
 
-开放纯粹的资源网站：
+一个专注于提供各种动态壁纸的平台，涵盖了从 4K 分辨率到各种主题和风格的壁纸。
 
-![gitcafe](https://images-1252557999.file.myqcloud.com/uPic/gitcafe.jpg) 
+![wallpaperengine](https://images-1252557999.file.myqcloud.com/uPic/MgDa1c.png) 
 
-### [askaitools.ai](https://askaitools.ai/)
+### [ticompressor](https://www.ticompressor.com/online/)
 
-专为人工智能产品量身定制的尖端搜索引擎项目，快速搜索查找 1w+ AI 产品：
+压缩速度极快的图片压缩软件，有网页版和软件版：
 
-![askaitools](https://images-1252557999.file.myqcloud.com/uPic/askaitools.jpg) 
+- 具有超快的压缩速度
+- 支持压缩 GB 级别的超大体积的图片
+- 支持 7 种图片格式
+- 支持深、浅色主题模式
+- 可对原始图片进行预览
+- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
+- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
+- 实时显示压缩进度
+- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
 
-### [chatgpt-sites](https://github.com/lzwme/chatgpt-sites)
+![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
 
-搜集国内可用的 ChatGPT 在线体验免费网站列表，定时任务每日更新，点击[这里](https://lzw.me/x/chatgpt-sites/)访问：
+![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
 
-![chatgpt-sites](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-sites.jpg) 
+### [svgl.app](https://svgl.app/)
+
+漂亮的 `SVG` 图标库，使用 `Sveltekit` 和 `Tailwind CSS` 构建：
+
+- 官网：https://svgl.app/
+- 开源：[pheralb/svgl](https://github.com/pheralb/svgl)
+
+![svgl](https://images-1252557999.file.myqcloud.com/uPic/svgl.jpg) 
 
 ## ✍️ 说明
 
