@@ -5,109 +5,99 @@
 
 ## 🎯 项目 
 
-### [streamlit](https://github.com/streamlit/streamlit)
+### [wg-easy](https://github.com/wg-easy/wg-easy)
 
-用 `Python` 快速构建数据应用：
+ `wg-easy` 提供一种简单的方式来运行 WireGuard VPN，并配备了 Web 管理界面。
 
-![Streamlit_overview](https://images-1252557999.file.myqcloud.com/uPic/Streamlit_overview.gif)
-类似的选择还有 [gradio](https://github.com/gradio-app/gradio)，其更偏向AI模型的web解决方案。 
+![wg-easy](https://images-1252557999.file.myqcloud.com/uPic/sXhRQS.png) 
 
-### [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)
+### [ddns-go](https://github.com/jeessy2/ddns-go)
 
-一个 `ChatGPT` 代码解释器的开源（`LangChain`）实现：
+简单好用的 `DDNS`，自动更新域名解析到公网IP(支持阿里云、腾讯云 `dnspod`、`Cloudflare`、华为云、百度云、`porkbun`)：
 
-- 数据集分析、股票图表绘制、图像处理....
-- 互联网访问和自动安装Python软件包
-- 除了OpenAI API 外，所有事情在本地运行
-- 对话记忆：根据先前的输入进行回应 
+![ddns-go](https://images-1252557999.file.myqcloud.com/uPic/ddns-go.png) 
 
-### [zinc](https://github.com/prabhatsharma/zinc)
+### [melody](https://github.com/foamzou/melody)
 
-`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
+你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
 
-- 全文索引能力
-- 快速运行，多平台支持
-- 基于Vue的Web UI
-- 兼容ES API
-- 开箱即用的验证功能
-- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
+主要特性为：
 
-![zinc](https://images-1252557999.file.myqcloud.com/uPic/P9OAA1.jpg) 
+- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
+- 用链接搜索歌曲
+- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
+
+比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
+
+![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
 
 ## 🤖 软件 
 
-### [datastation](https://github.com/multiprocessio/datastation)
+### [otphelper](https://github.com/jd1378/otphelper)
 
-`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
+`otphelper` 是一个开源应用程序，它可以自动从通知中复制一次性密码（OTP）和代码。
 
-![datastation](https://images-1252557999.file.myqcloud.com/uPic/datastation.jpg) 
+![otphelper](https://images-1252557999.file.myqcloud.com/uPic/OVPH03.png) 
 
-### [NativeMindExtension](https://github.com/NativeMindBrowser/NativeMindExtension)
+### [gpt4all](https://github.com/nomic-ai/gpt4all)
 
-`NativeMindExtension` 是一个开源项目，旨在提供一个完全在用户设备上运行的 AI 助手，它不依赖云服务，保证了用户隐私和数据安全。
+`GPT4All` 是一个生态系统，用于在消费级 `CPU` 和任何 `GPU` 上本地运行强大且定制化的大型语言模型。请注意，您的 `CPU` 需要支持 `AVX` 或 `AVX2` 指令。
 
-![NativeMindExtension](https://images-1252557999.file.myqcloud.com/uPic/OJa7M3.png) 
+![gpt4all](https://images-1252557999.file.myqcloud.com/uPic/gpt4all.jpg) 
 
-### [social-media-copilot](https://github.com/iszhouhua/social-media-copilot)
+### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-社媒助手 - 小红书、抖音等平台数据采集的浏览器插件。支持一键导出无水印图片/视频、评论采集、作品数据采集、达人数据采集等功能：
+监控你的应用流量，跨平台：
 
-![social-media-copilot](https://images-1252557999.file.myqcloud.com/uPic/HvvXRg.png) 
+![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
 
 ## 👀 资料 
 
-### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
+### [JavaScript30](https://github.com/wesbos/JavaScript30)
 
-一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
+30 天 JS 挑战，助力学习提升 JS 技巧：
 
-![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
+![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
 
-### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+### [meetup](https://github.com/baiyutang/meetup)
 
-这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
+【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
 
-我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
+![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
 
-### [quant-wiki](https://quant-wiki.com/)
+### [note-hack](https://github.com/xdite/note-hack)
 
-致力于量化知识的开源与汉化，打破国内外量化金融行业信息差：
+《打造超人笔记》是一本关于如何有效记录和整理笔记的书籍。
 
-![quant](https://images-1252557999.file.myqcloud.com/uPic/kuOM0C.png) 
+作者认为，笔记是一个看起来复杂但实际上比学习和阅读更简单的问题。通过拆解笔记的流程，作者发现主要问题的结构变得非常简单。此外，随着科技的发展，许多快速记录工具和笔记整理软件已经被发明出来，使笔记搜寻变得更加容易。
+
+在本书中，作者探讨了如何通过做笔记和整理笔记来挖掘和整理自己对一个领域的各种答案。通过阅读本书，读者可以学习到如何使用各种工具和方法来提高自己的笔记能力，成为一个笔记超人。 
 
 ## 🕸 网站 
 
-### [wallpaperengine.space](https://www.wallpaperengine.space/)
+### [pixel-me](https://pixel-me.tokyo/en/)
 
-一个专注于提供各种动态壁纸的平台，涵盖了从 4K 分辨率到各种主题和风格的壁纸。
+将你的头像像素化，质量挺好：
 
-![wallpaperengine](https://images-1252557999.file.myqcloud.com/uPic/MgDa1c.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/gnHdoM.png) 
 
-### [ticompressor](https://www.ticompressor.com/online/)
+### [RuTracker](https://rutracker.org/forum/index.php)
 
-压缩速度极快的图片压缩软件，有网页版和软件版：
+俄罗斯最大的盗版网站开放了，可以去上面找资源了：
 
-- 具有超快的压缩速度
-- 支持压缩 GB 级别的超大体积的图片
-- 支持 7 种图片格式
-- 支持深、浅色主题模式
-- 可对原始图片进行预览
-- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
-- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
-- 实时显示压缩进度
-- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
+![rutracker](https://images-1252557999.file.myqcloud.com/uPic/rutracker.jpg) 
 
-![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
+### [123apps](https://123apps.com/cn/)
 
-![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
+网站提供了一系列的小工具，包含分类：
 
-### [svgl.app](https://svgl.app/)
+- 视频工具
+- 音频工具
+- PDF 工具
+- 转换器
+- ......
 
-漂亮的 `SVG` 图标库，使用 `Sveltekit` 和 `Tailwind CSS` 构建：
-
-- 官网：https://svgl.app/
-- 开源：[pheralb/svgl](https://github.com/pheralb/svgl)
-
-![svgl](https://images-1252557999.file.myqcloud.com/uPic/svgl.jpg) 
+![123apps](https://images-1252557999.file.myqcloud.com/uPic/123apps.jpg) 
 
 ## ✍️ 说明
 
