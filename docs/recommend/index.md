@@ -5,86 +5,106 @@
 
 ## 🎯 项目 
 
-### [DailyHotApi](https://github.com/imsyy/DailyHotApi)
+### [imsyy/home](https://github.com/imsyy/home)
 
-今日热榜 `API`，一个聚合热门数据的 `API` 接口，支持 `Vercel` 部署：
+简单优雅的个人主页项目：
 
-![DailyHot](https://images-1252557999.file.myqcloud.com/uPic/DailyHot.jpg) 
+- 载入动画
+-  站点简介
+-  Hitokoto 一言
+-  日期及时间
+-  实时天气
+-  时光进度条
+-  音乐播放器
+-  移动端适配
 
-### [statping](https://github.com/statping/statping)
+![imsyy_home](https://images-1252557999.file.myqcloud.com/uPic/imsyy_home.jpeg) 
 
-一个网站和应用程序的状态监控项目，易用且提供美观的渲染页面，支持电脑手机访问查看，甚至还支持了 `Prometheus`，有应用监控需求的朋友们值得一用：
+### [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
 
-![statping](https://images-1252557999.file.myqcloud.com/uPic/statping.jpg) 
+为`ChatGPT/ChatGLM/LLaMA/StableLM/MOSS`等多种 `LLM` 提供了一个轻快好用的 `Web` 图形界面：
 
-### [mindoc](https://github.com/mindoc-org/mindoc)
+![ChuanhuChatGPT](https://images-1252557999.file.myqcloud.com/uPic/ChuanhuChatGPT.jpg) 
 
-`MinDoc` 是一款针对 `IT` 团队开发的简单好用的文档管理系统，可以用来储存日常接口文档，数据库字典，手册说明等文档。内置项目管理，用户管理，权限管理等功能，能够满足大部分中小团队的文档管理需求。
+### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
 
-![mindoc](https://images-1252557999.file.myqcloud.com/uPic/mindoc.png) 
+该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
+
+![computer_book_list](https://images-1252557999.file.myqcloud.com/uPic/uxQa5E.png) 
 
 ## 🤖 软件 
 
-### [PDFQFZ](https://github.com/flytkgl/PDFQFZ)
+### [smartedu-download](https://github.com/52beijixing/smartedu-download)
 
-PDF加盖骑缝章的小工具，选择需要盖章的PDF文件或文件夹。 选择保存文件夹。 导入完整的印章图片,工具会根据PDF页数做随机分割。 设定印章大小,骑缝章位置,印章位置等 点盖章，骚等后在保存文件夹中即可看到盖好骑缝章的PDF文件。
+帮助您下载国家中小学智慧教育平台的文件，支持视频、教材（课本）、原版课件（ppt、word、pdf格式）下载：
 
-![pdfqfz](https://images-1252557999.file.myqcloud.com/uPic/pdfqfz.jpg) 
+![smartedu-download](https://images-1252557999.file.myqcloud.com/uPic/smartedu-download.jpg) 
 
-### [CuteGIF](https://github.com/tasy5kg/CuteGIF)
+### [flameshot](https://github.com/flameshot-org/flameshot)
 
-小萌 `GIF` 是一款简洁好用的 `Android` 端视频转 `GIF` 工具：
+一款强大且简单易用的截图软件，支持多平台（Linux、Windows、macOS）。其主要特点包括：
 
-![CuteGIF](https://images-1252557999.file.myqcloud.com/uPic/CuteGIF.jpg) 
+- 自定义外观：支持自定义截图工具和颜色。
+- 简易使用：提供图形化界面和命令行操作。
+- 内置编辑：可以在应用内编辑截图。
+- 快捷键支持：支持本地和全局快捷键配置。
+- 截图上传：支持将截图上传到 Imgur。
 
-### [Polybar](https://github.com/polybar/polybar)
+![flameshot](https://images-1252557999.file.myqcloud.com/uPic/flameshot.png) 
 
-`Polybar` 是一个用于创建个性化状态栏的工具，它支持多种桌面环境：
+### aniyomi-插件
 
-![polybar](https://images-1252557999.file.myqcloud.com/uPic/polybar.jpg) 
+之前推荐过移动端看动漫和漫画的软件👉[aniyomi](https://github.com/aniyomiorg/aniyomi)，老胡最近也针对这个软件做了一些配置，将收集的源分享给大家：
+
+- https://github.com/GokulSamraj/aniyomi-anime-repo
+- https://github.com/Kohi-den/extensions
+
+![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
 
 ## 👀 资料 
 
-### [prompt-tuning-playbook](https://github.com/varungodbole/prompt-tuning-playbook)
+### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
 
-项目主要提供了一份针对后训练大型语言模型（LLMs）的有效提示技术指南，旨在帮助用户更好地理解和应用这些模型。
+[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
 
-后训练使得 LLMs 能够更好地遵循指令、匹配现实世界、保持安全等，这些行为包括但不限于格式遵循、指令执行、事实准确性和安全性。 
+目前也提供了中文版：
 
-### [Nginx 开发从入门到精通](https://tengine.taobao.org/book/)
+![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
 
-淘宝团队出品的关于 `Nginx` 模块开发以及内部原理的书：
+### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
 
-![tb_nginx](https://images-1252557999.file.myqcloud.com/uPic/tb_nginx.jpg) 
+Kubernetes 中文指南/云原生应用架构实战手册：
 
-### [数据科学学习指南](https://github.com/amitness/learning)
+![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
 
-数据科学学习指南，帮你每天提升1%的数据科学技能。主要包含电子表格与数据库的数据处理、命令行工具使用、数据分析与可视化技巧、论文阅读方法，各类模型与算法讲解等知识，另外还有商业思维培养、写作与沟通技巧等非技术类内容。
+### [moderncss](https://moderncss.dev/)
 
-![data-learning](https://images-1252557999.file.myqcloud.com/uPic/tlkHzW.png) 
+一份现代 `CSS` 教程，偏向有 `CSS` 的基础的前端开发者：
+
+![moderncss](https://images-1252557999.file.myqcloud.com/uPic/moderncss.jpg) 
 
 ## 🕸 网站 
 
-### [书葵網](https://www.shukui.net/)
+### [ui.aceternity.com](https://ui.aceternity.com/components)
 
-读者可以在此查询本馆的图书、期刊、古籍等信息。检索条件会自动匹配书名、作者、出版社、ISBN搜索，返回最优匹配结果：
+网站包含多种前端动态效果，可以一键复制代码使用，同类网站有：
 
-![shukui](https://images-1252557999.file.myqcloud.com/uPic/shukui.jpg) 
+- https://uiverse.io/
+- https://www.handsome-css.com/
 
-### [it-tools](https://it-tools.tech/)
+![aceternity](https://images-1252557999.file.myqcloud.com/uPic/aceternity.jpg) 
 
-面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
+### [0v0.ai](https://0v0.ai/rmbg/)
 
-![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
+图片背景移除网站：
 
-也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
+![0v0](https://images-1252557999.file.myqcloud.com/uPic/0v0.jpg) 
 
-### [bloghub](https://bloghub.fun/)
+### [Kimi](https://kimi.moonshot.cn/ "Kimi")
 
-优质博客聚合展示项目，"子曰：有朋自远方来，不亦说乎"，希望 BlogHub 也能让大家发现更多有趣的灵魂，结交更多的朋友：
+当前挺火的国产 AI 大模型问答网站，免费使用，已经支持 200 万字上下文：
 
-![bloghub](https://images-1252557999.file.myqcloud.com/uPic/bloghub.jpg)
-项目参考数据源：[chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)：中文独立博客列表 
+![kimi](https://images-1252557999.file.myqcloud.com/uPic/kimi.jpg) 
 
 ## ✍️ 说明
 
