@@ -5,106 +5,100 @@
 
 ## 🎯 项目 
 
-### [imsyy/home](https://github.com/imsyy/home)
+### [chatlog](https://github.com/sjzar/chatlog)
 
-简单优雅的个人主页项目：
+微信聊天记录工具，帮助大家轻松使用自己的聊天数据：
 
-- 载入动画
--  站点简介
--  Hitokoto 一言
--  日期及时间
--  实时天气
--  时光进度条
--  音乐播放器
--  移动端适配
+- 从本地数据库文件获取聊天数据
+- 支持 Windows / macOS 系统
+- 支持微信 3.x / 4.0 版本
+- 提供 Terminal UI 界面 & 命令行工具
+- 提供 HTTP API 服务，支持查询聊天记录、联系人、群聊、最近会话等信息
+- 支持 MCP SSE 协议，可与支持 MCP 的 AI 助手无缝集成
+- 支持多媒体消息，支持解密图片、语音
+- 支持自动解密数据，简化使用流程
+- 支持多账号管理，可在不同账号间切换
 
-![imsyy_home](https://images-1252557999.file.myqcloud.com/uPic/imsyy_home.jpeg) 
+![chatlog](https://images-1252557999.file.myqcloud.com/uPic/NSigD0.png) 
 
-### [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
+### [carbonyl](https://github.com/fathyb/carbonyl)
 
-为`ChatGPT/ChatGLM/LLaMA/StableLM/MOSS`等多种 `LLM` 提供了一个轻快好用的 `Web` 图形界面：
+在你的终端使用 `Chromium`：
 
-![ChuanhuChatGPT](https://images-1252557999.file.myqcloud.com/uPic/ChuanhuChatGPT.jpg) 
+![carbonyl](https://images-1252557999.file.myqcloud.com/uPic/carbonyl.jpg) 
 
-### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
+### [500lines](https://github.com/aosabook/500lines)
 
-该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
+如果工作中用`Python`比较多的朋友，应该会听过[500lines](https://github.com/aosabook/500lines)项目，它是**aosabook**项目（下面网站部分有介绍）的第四本书。
 
-![computer_book_list](https://images-1252557999.file.myqcloud.com/uPic/uxQa5E.png) 
+这个项目由 18 个独立的章节组成，每个章节都是由该领域的大牛完成，每个章节都试图用 500 行或者更少的代码，让大家了解一个功能或需求的简单实现，比如有：
+
+- 持续集成系统
+- 分布式系统
+- 异步爬虫
+- 等等
+
+如果想阅读中文，见[500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)项目，但是还没有完全翻译完毕。 
 
 ## 🤖 软件 
 
-### [smartedu-download](https://github.com/52beijixing/smartedu-download)
+### [logseq](https://github.com/logseq/logseq)
 
-帮助您下载国家中小学智慧教育平台的文件，支持视频、教材（课本）、原版课件（ppt、word、pdf格式）下载：
+Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
 
-![smartedu-download](https://images-1252557999.file.myqcloud.com/uPic/smartedu-download.jpg) 
+![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
 
-### [flameshot](https://github.com/flameshot-org/flameshot)
+### [Later](https://github.com/alyssaxuu/later)
 
-一款强大且简单易用的截图软件，支持多平台（Linux、Windows、macOS）。其主要特点包括：
+一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
 
-- 自定义外观：支持自定义截图工具和颜色。
-- 简易使用：提供图形化界面和命令行操作。
-- 内置编辑：可以在应用内编辑截图。
-- 快捷键支持：支持本地和全局快捷键配置。
-- 截图上传：支持将截图上传到 Imgur。
+![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
 
-![flameshot](https://images-1252557999.file.myqcloud.com/uPic/flameshot.png) 
+### [avnc](https://github.com/gujjwal00/avnc)
 
-### aniyomi-插件
+针对 `Android` 的开源 `VNC` 客户端：
 
-之前推荐过移动端看动漫和漫画的软件👉[aniyomi](https://github.com/aniyomiorg/aniyomi)，老胡最近也针对这个软件做了一些配置，将收集的源分享给大家：
-
-- https://github.com/GokulSamraj/aniyomi-anime-repo
-- https://github.com/Kohi-den/extensions
-
-![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
+![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
 
 ## 👀 资料 
 
-### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
+### [theByteBook](https://github.com/isno/theByteBook)
 
-[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
+深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
 
-目前也提供了中文版：
+![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
 
-![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
+### [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
-### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
+Model Context Protocol(MCP) 编程极速入门：
 
-Kubernetes 中文指南/云原生应用架构实战手册：
+![MCP-Chinese-Getting-Started-Guide](https://images-1252557999.file.myqcloud.com/uPic/ORcZa8.png) 
 
-![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-### [moderncss](https://moderncss.dev/)
+《Mastering GO》中文译本，《玩转 GO》：
 
-一份现代 `CSS` 教程，偏向有 `CSS` 的基础的前端开发者：
-
-![moderncss](https://images-1252557999.file.myqcloud.com/uPic/moderncss.jpg) 
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
 ## 🕸 网站 
 
-### [ui.aceternity.com](https://ui.aceternity.com/components)
+### [lookscanned.io](https://lookscanned.io/)
 
-网站包含多种前端动态效果，可以一键复制代码使用，同类网站有：
+[lookscanned.io](https://github.com/rwv/lookscanned.io) 是一个开源网页项目，依托 WebAssembly 等先进技术，无需打印之后再扫描这类繁琐的过程。仅需点击下按钮，分秒之间，你就能得到所需要的扫描件了：
 
-- https://uiverse.io/
-- https://www.handsome-css.com/
+![lookscanned](https://images-1252557999.file.myqcloud.com/uPic/lookscanned.jpg) 
 
-![aceternity](https://images-1252557999.file.myqcloud.com/uPic/aceternity.jpg) 
+### [web-check](https://web-check.xyz/)
 
-### [0v0.ai](https://0v0.ai/rmbg/)
+输入目标网址，分析该网站各项 `web` 检查信息，非常详细：
 
-图片背景移除网站：
+![web-check](https://images-1252557999.file.myqcloud.com/uPic/web-check.jpg) 
 
-![0v0](https://images-1252557999.file.myqcloud.com/uPic/0v0.jpg) 
+### [lucide](https://lucide.dev/)
 
-### [Kimi](https://kimi.moonshot.cn/ "Kimi")
+开源图标库，可以直接下载 `SVG`：
 
-当前挺火的国产 AI 大模型问答网站，免费使用，已经支持 200 万字上下文：
-
-![kimi](https://images-1252557999.file.myqcloud.com/uPic/kimi.jpg) 
+![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
 
 ## ✍️ 说明
 
