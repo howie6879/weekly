@@ -5,100 +5,104 @@
 
 ## 🎯 项目 
 
-### [chatlog](https://github.com/sjzar/chatlog)
+### [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
 
-微信聊天记录工具，帮助大家轻松使用自己的聊天数据：
+一个大模型 `AI` 网关项目，只需要通过项目提供的一个接口，就可以快速连接到100多个 `LLM`：
 
-- 从本地数据库文件获取聊天数据
-- 支持 Windows / macOS 系统
-- 支持微信 3.x / 4.0 版本
-- 提供 Terminal UI 界面 & 命令行工具
-- 提供 HTTP API 服务，支持查询聊天记录、联系人、群聊、最近会话等信息
-- 支持 MCP SSE 协议，可与支持 MCP 的 AI 助手无缝集成
-- 支持多媒体消息，支持解密图片、语音
-- 支持自动解密数据，简化使用流程
-- 支持多账号管理，可在不同账号间切换
+- 极速（快9.9倍），占用空间小（安装后约45kb）
+- 在多个模型、提供者和密钥之间进行负载均衡
+- 备选方案确保您的应用程序具有弹性
+- 默认情况下，自动重试并采用指数回退策略
+- 根据需要添加插件中间件
+- 经过1000亿次 Token 的实战考验
 
-![chatlog](https://images-1252557999.file.myqcloud.com/uPic/NSigD0.png) 
+  
+![ai-gateway](https://images-1252557999.file.myqcloud.com/uPic/ai-gateway.jpg)
+  
+同类型项目可以参考：[One API👉通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 ✨](https://github.com/songquanpeng/one-api) 
 
-### [carbonyl](https://github.com/fathyb/carbonyl)
+### [ddddocr](https://github.com/sml2h3/ddddocr)
 
-在你的终端使用 `Chromium`：
+一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
 
-![carbonyl](https://images-1252557999.file.myqcloud.com/uPic/carbonyl.jpg) 
+![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
 
-### [500lines](https://github.com/aosabook/500lines)
+### [go-musicfox](https://github.com/go-musicfox/go-musicfox)
 
-如果工作中用`Python`比较多的朋友，应该会听过[500lines](https://github.com/aosabook/500lines)项目，它是**aosabook**项目（下面网站部分有介绍）的第四本书。
+`go-musicfox`是用 Go 写的又一款网易云音乐命令行客户端，支持 `UnblockNeteaseMusic`、各种音质级别、`lastfm`、`MPRIS`、`MacOS` 交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）:
 
-这个项目由 18 个独立的章节组成，每个章节都是由该领域的大牛完成，每个章节都试图用 500 行或者更少的代码，让大家了解一个功能或需求的简单实现，比如有：
-
-- 持续集成系统
-- 分布式系统
-- 异步爬虫
-- 等等
-
-如果想阅读中文，见[500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)项目，但是还没有完全翻译完毕。 
+![go-musicfox](https://images-1252557999.file.myqcloud.com/uPic/go-musicfox.png) 
 
 ## 🤖 软件 
 
-### [logseq](https://github.com/logseq/logseq)
+### [SyncClipboard](https://github.com/Jeric-X/SyncClipboard)
 
-Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
+跨平台剪贴板同步方案，包含服务端客户端：
 
-![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
+- 剪贴板同步，支持文字、图片和文件。服务器/客户端架构，可以使用客户端内置服务器、独立部署服务器，也可以使用支持WebDAV的网盘作为服务器
+- 优化图片类型的剪贴板，功能有：
+	- 从任意位置复制图片时，可以直接向文件系统粘贴图片文件，反之亦然
+	- 从浏览器复制图片后，后台下载原图到本地，解决无法从浏览器拷贝动态图的问题（大多网站有认证，适用范围有限，支持bilibili动态图片）
+	- 从文件系统复制较新格式类型的图片文件时（webp/heic等），在剪贴板内储存gif或jpg格式，用于直接向支持图片的文本框粘贴图片
 
-### [Later](https://github.com/alyssaxuu/later)
+![SyncClipboard](https://images-1252557999.file.myqcloud.com/uPic/SyncClipboard.jpg)
 
-一键保存桌面所有 `Mac APPS`，也可以一键恢复，很有意思的应用：
+这个软件解决了老胡多台电脑间的复制同步问题，非常好用，强推，配置也不麻烦。 
 
-![later](https://images-1252557999.file.myqcloud.com/uPic/later.jpg) 
+### [Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing)
 
-### [avnc](https://github.com/gujjwal00/avnc)
+实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字：
 
-针对 `Android` 的开源 `VNC` 客户端：
+![Real-time-translation-typing](https://images-1252557999.file.myqcloud.com/uPic/Y0Cv8U.png) 
 
-![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
+### [Downlodr](https://github.com/Talisik/Downlodr)
+
+`Downlodr` 是一个功能强大、用户友好的视频下载解决方案，支持多达 1800 个平台，包括 `YouTube` 和 `Vimeo` 等。
+
+![Downlodr](https://images-1252557999.file.myqcloud.com/uPic/Zq1qKy.png) 
 
 ## 👀 资料 
 
-### [theByteBook](https://github.com/isno/theByteBook)
+### [programming-math-science](https://github.com/bobeff/programming-math-science) 
 
-深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
+国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
-![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
+### RustBook
 
-### [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
+一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
 
-Model Context Protocol(MCP) 编程极速入门：
+![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg) 
 
-![MCP-Chinese-Getting-Started-Guide](https://images-1252557999.file.myqcloud.com/uPic/ORcZa8.png) 
+### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 
-### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
+以非常直观的语言介绍`pytorch`：
 
-《Mastering GO》中文译本，《玩转 GO》：
+![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
 
-![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
+作者的同类电子书还有：
+
+- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
 
 ## 🕸 网站 
 
-### [lookscanned.io](https://lookscanned.io/)
+### [zhaoziyuan](https://zhaoziyuan.pw/)
 
-[lookscanned.io](https://github.com/rwv/lookscanned.io) 是一个开源网页项目，依托 WebAssembly 等先进技术，无需打印之后再扫描这类繁琐的过程。仅需点击下按钮，分秒之间，你就能得到所需要的扫描件了：
+阿里云资源搜索引擎：
 
-![lookscanned](https://images-1252557999.file.myqcloud.com/uPic/lookscanned.jpg) 
+![zhaoziyuan](https://images-1252557999.file.myqcloud.com/uPic/zhaoziyuan-20220429095007870.jpg) 
 
-### [web-check](https://web-check.xyz/)
+### [drawl.ink](https://drawl.ink/)
 
-输入目标网址，分析该网站各项 `web` 检查信息，非常详细：
+将链接转化成好看的图片：
 
-![web-check](https://images-1252557999.file.myqcloud.com/uPic/web-check.jpg) 
+![drawl](https://images-1252557999.file.myqcloud.com/uPic/eltzuF.png) 
 
-### [lucide](https://lucide.dev/)
+### [alleyread](https://alleyread.com/)
 
-开源图标库，可以直接下载 `SVG`：
+发现优质 `Newsletter`：
 
-![lucide](https://images-1252557999.file.myqcloud.com/uPic/lucide.jpg) 
+![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
 
 ## ✍️ 说明
 
