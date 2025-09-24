@@ -5,104 +5,96 @@
 
 ## 🎯 项目 
 
-### [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
+### [iptables-web](https://github.com/pretty66/iptables-web)
 
-一个大模型 `AI` 网关项目，只需要通过项目提供的一个接口，就可以快速连接到100多个 `LLM`：
+`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
 
-- 极速（快9.9倍），占用空间小（安装后约45kb）
-- 在多个模型、提供者和密钥之间进行负载均衡
-- 备选方案确保您的应用程序具有弹性
-- 默认情况下，自动重试并采用指数回退策略
-- 根据需要添加插件中间件
-- 经过1000亿次 Token 的实战考验
+![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
 
-  
-![ai-gateway](https://images-1252557999.file.myqcloud.com/uPic/ai-gateway.jpg)
-  
-同类型项目可以参考：[One API👉通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 ✨](https://github.com/songquanpeng/one-api) 
+### [tinysearch](https://github.com/tinysearch/tinysearch)
 
-### [ddddocr](https://github.com/sml2h3/ddddocr)
+轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
 
-一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
+### [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
 
-![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
+BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。
 
-### [go-musicfox](https://github.com/go-musicfox/go-musicfox)
-
-`go-musicfox`是用 Go 写的又一款网易云音乐命令行客户端，支持 `UnblockNeteaseMusic`、各种音质级别、`lastfm`、`MPRIS`、`MacOS` 交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）:
-
-![go-musicfox](https://images-1252557999.file.myqcloud.com/uPic/go-musicfox.png) 
+![BiliBiliToolPro](https://images-1252557999.file.myqcloud.com/uPic/BiliBiliToolPro.jpg) 
 
 ## 🤖 软件 
 
-### [SyncClipboard](https://github.com/Jeric-X/SyncClipboard)
+### [yanhuo](https://eigenmiao.com/yanhuo)
 
-跨平台剪贴板同步方案，包含服务端客户端：
+焰火十二卷是一款免费开源的跨平台调色板软件。它提供了多种功能来生成一组调和色彩，可以为你提供更好的色彩搭配方案。你可以通过色轮选取、图像拾色等方式轻松获得想要的色彩组合。你可以将这些色彩应用到自己的创作，或者分享给他人。
 
-- 剪贴板同步，支持文字、图片和文件。服务器/客户端架构，可以使用客户端内置服务器、独立部署服务器，也可以使用支持WebDAV的网盘作为服务器
-- 优化图片类型的剪贴板，功能有：
-	- 从任意位置复制图片时，可以直接向文件系统粘贴图片文件，反之亦然
-	- 从浏览器复制图片后，后台下载原图到本地，解决无法从浏览器拷贝动态图的问题（大多网站有认证，适用范围有限，支持bilibili动态图片）
-	- 从文件系统复制较新格式类型的图片文件时（webp/heic等），在剪贴板内储存gif或jpg格式，用于直接向支持图片的文本框粘贴图片
+![yanhuo](https://images-1252557999.file.myqcloud.com/uPic/yanhuo.jpg) 
 
-![SyncClipboard](https://images-1252557999.file.myqcloud.com/uPic/SyncClipboard.jpg)
+### [video2blog](https://github.com/aehyok/video2blog)
 
-这个软件解决了老胡多台电脑间的复制同步问题，非常好用，强推，配置也不麻烦。 
+视频转图文 AI 跨平台客户端：
 
-### [Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing)
+- 输入视频url之后
+- 先通过yt-dlp解析视频url获取视频信息
+- 通过yt-dlp下载视频
+- 如果存在字幕，则直接进行下载
+- 可能是非中文字幕，则需要进行翻译字幕
+- 如果不存在字幕，则通过whisper来生成字幕文件，并翻译为中文
+- 然后通过gemini将字幕转换为文章。并将视频中的图片进行提取，手动插入到文章中 
 
-实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字：
+### [cicada](https://github.com/mebtte/cicada)
 
-![Real-time-translation-typing](https://images-1252557999.file.myqcloud.com/uPic/Y0Cv8U.png) 
+知了, 支持多用户的开源音乐服务：
 
-### [Downlodr](https://github.com/Talisik/Downlodr)
+- **尊重隐私, 不进行任何数据收集**
+- 支持多用户
+- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
+- 系统媒体和快捷键支持
+- 音乐支持标准音质/超高音质/伴奏以及多份歌词
+- 乐单/播放列表/播放队列音乐数量无限制
+- 支持标注音乐创作来源(翻唱)
+- 支持歌词/歌名/歌手/乐单搜索
 
-`Downlodr` 是一个功能强大、用户友好的视频下载解决方案，支持多达 1800 个平台，包括 `YouTube` 和 `Vimeo` 等。
-
-![Downlodr](https://images-1252557999.file.myqcloud.com/uPic/Zq1qKy.png) 
+![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
 
 ## 👀 资料 
 
-### [programming-math-science](https://github.com/bobeff/programming-math-science) 
+### [医保怎样用最省钱](https://chaiknows.feishu.cn/docx/IbTBdjiQWoi2cvx21SmcrL1pn3f)
 
-国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
+一份医保省钱指南，省钱就是赚钱：
 
-### RustBook
+![ybsq](https://images-1252557999.file.myqcloud.com/uPic/F6m1jR.png) 
 
-一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
+### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
 
-![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg) 
+[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
 
-### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+目前也提供了中文版：
 
-以非常直观的语言介绍`pytorch`：
+![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
 
-![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
+### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
 
-作者的同类电子书还有：
-
-- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
 
 ## 🕸 网站 
 
-### [zhaoziyuan](https://zhaoziyuan.pw/)
+### [cikeee](https://www.cikeee.com/)
 
-阿里云资源搜索引擎：
+每天推荐一部优秀的电影：
 
-![zhaoziyuan](https://images-1252557999.file.myqcloud.com/uPic/zhaoziyuan-20220429095007870.jpg) 
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
-### [drawl.ink](https://drawl.ink/)
+### [meiriyiwen](https://meiriyiwen.com/)
 
-将链接转化成好看的图片：
+每天一篇随机散文：
 
-![drawl](https://images-1252557999.file.myqcloud.com/uPic/eltzuF.png) 
+![meiriyiwen](https://images-1252557999.file.myqcloud.com/uPic/meiriyiwen.jpg) 
 
-### [alleyread](https://alleyread.com/)
+### [xiake.pro](https://xiake.pro/)
 
-发现优质 `Newsletter`：
+虾壳是一个GitHub下载加速网站，提供GitHub文件加速服务，支持API、Git以及Releases、 Archive、gist、raw.githubusercontent.com等文件代理加速下载。
 
-![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
+![xiake](https://images-1252557999.file.myqcloud.com/uPic/quiQlF.png) 
 
 ## ✍️ 说明
 
