@@ -5,96 +5,101 @@
 
 ## 🎯 项目 
 
-### [iptables-web](https://github.com/pretty66/iptables-web)
+### [oh-my-rime](https://github.com/Mintimate/oh-my-rime)
 
-`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
+一套快速初始化开源输入法 `Rime` 的模板方案，跨平台支持 `Win macOS Linux`：
 
-![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
+![oh-my-rime](https://images-1252557999.file.myqcloud.com/uPic/oh-my-rime.webp) 
 
-### [tinysearch](https://github.com/tinysearch/tinysearch)
+### [MinerU](https://github.com/opendatalab/MinerU)
 
-轻量级、快速的全文检索引擎，针对静态网页，基于`Rust`编写。 
+`MinerU` 是一款一站式、开源、高质量的数据提取工具，主要包含以下功能:
 
-### [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
+- Magic-PDF PDF文档提取
+- Magic-Doc 网页与电子书提取
 
-BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。
+对于有 PDF 转换 MD 需求的朋友可以尝试下：
 
-![BiliBiliToolPro](https://images-1252557999.file.myqcloud.com/uPic/BiliBiliToolPro.jpg) 
+![MinerU](https://images-1252557999.file.myqcloud.com/uPic/MinerU.png) 
+
+### [DailyHotApi](https://github.com/imsyy/DailyHotApi)
+
+今日热榜 `API`，一个聚合热门数据的 `API` 接口，支持 `Vercel` 部署：
+
+![DailyHot](https://images-1252557999.file.myqcloud.com/uPic/DailyHot.jpg) 
 
 ## 🤖 软件 
 
-### [yanhuo](https://eigenmiao.com/yanhuo)
+### [my-tv](https://github.com/lizongying/my-tv)
 
-焰火十二卷是一款免费开源的跨平台调色板软件。它提供了多种功能来生成一组调和色彩，可以为你提供更好的色彩搭配方案。你可以通过色轮选取、图像拾色等方式轻松获得想要的色彩组合。你可以将这些色彩应用到自己的创作，或者分享给他人。
+安卓电视直播软件，内置直播源：
 
-![yanhuo](https://images-1252557999.file.myqcloud.com/uPic/yanhuo.jpg) 
+![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
 
-### [video2blog](https://github.com/aehyok/video2blog)
+### [CuteGIF](https://github.com/tasy5kg/CuteGIF)
 
-视频转图文 AI 跨平台客户端：
+小萌 `GIF` 是一款简洁好用的 `Android` 端视频转 `GIF` 工具：
 
-- 输入视频url之后
-- 先通过yt-dlp解析视频url获取视频信息
-- 通过yt-dlp下载视频
-- 如果存在字幕，则直接进行下载
-- 可能是非中文字幕，则需要进行翻译字幕
-- 如果不存在字幕，则通过whisper来生成字幕文件，并翻译为中文
-- 然后通过gemini将字幕转换为文章。并将视频中的图片进行提取，手动插入到文章中 
+![CuteGIF](https://images-1252557999.file.myqcloud.com/uPic/CuteGIF.jpg) 
 
-### [cicada](https://github.com/mebtte/cicada)
+### [moodiary](https://github.com/ZhuJHua/moodiary)
 
-知了, 支持多用户的开源音乐服务：
+「心绪日记」 是一个由 Flutter 构建的开源跨平台日记应用：
 
-- **尊重隐私, 不进行任何数据收集**
-- 支持多用户
-- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
-- 系统媒体和快捷键支持
-- 音乐支持标准音质/超高音质/伴奏以及多份歌词
-- 乐单/播放列表/播放队列音乐数量无限制
-- 支持标注音乐创作来源(翻唱)
-- 支持歌词/歌名/歌手/乐单搜索
+- 跨平台支持：🌍 兼容 Android、iOS*、Windows*、MacOS*、Linux。
+- Material Design：🎨 界面直观且用户友好，遵循 Material Design 设计规范。
+- 富文本编辑：📝 支持加粗、斜体、下划线等多种格式的文本编辑。
+- 多媒体附件：📷 可以为你的日记添加图片、音频、视频甚至画一张画。
+- 搜索和分类：🔍 轻松通过全文搜索及分类管理你的日记。
+- 自定义主题：🌈 支持浅色和深色模式，以及多种配色的主题。
+- 数据安全：🔒 通过密码来保障你的日记安全，支持通过生物识别解锁。
+- 导出和分享：🧾 支持所有数据的导入/导出，以及单篇日记的分享。
+- 备份与同步：☁ 支持局域网同步，快速在设备间同步数据，以及 WebDav 备份。
+- 足迹地图：🗺️ 在地图上查看你足迹，生活中的每一步都值得被记录。
+- 智能助手：💬 支持接入第三方大模型，提供问答、情绪分析等功能。
+- 本地自然语言处理（NLP）：🤖 更安全的智能助手，让你的日记更懂你。
 
-![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
+![moodiary](https://images-1252557999.file.myqcloud.com/uPic/plSfAq.png) 
 
 ## 👀 资料 
 
-### [医保怎样用最省钱](https://chaiknows.feishu.cn/docx/IbTBdjiQWoi2cvx21SmcrL1pn3f)
+### [meetup](https://github.com/baiyutang/meetup)
 
-一份医保省钱指南，省钱就是赚钱：
+【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
 
-![ybsq](https://images-1252557999.file.myqcloud.com/uPic/F6m1jR.png) 
+![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
 
-### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
+### [programming-math-science](https://github.com/bobeff/programming-math-science) 
 
-[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
+国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
-目前也提供了中文版：
+### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
 
-![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
+带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
 
-### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
-
-互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
+![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [cikeee](https://www.cikeee.com/)
+### [linux.pdf](https://linux.doompdf.dev/linux.pdf)
 
-每天推荐一部优秀的电影：
+`PDF` 中运行 `Linux`，通过 `RISC-V` 架构的模拟器实现：
 
-![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
+![linux.pdf](https://images-1252557999.file.myqcloud.com/uPic/edDIQp.png)
 
-### [meiriyiwen](https://meiriyiwen.com/)
+开源地址：[linuxpdf](https://github.com/ading2210/linuxpdf?tab=readme-ov-file) 
 
-每天一篇随机散文：
+### [cleverpdf](https://www.cleverpdf.com/cn)
 
-![meiriyiwen](https://images-1252557999.file.myqcloud.com/uPic/meiriyiwen.jpg) 
+几十个强大的PDF在线工具，无需注册会员，永久免费：
 
-### [xiake.pro](https://xiake.pro/)
+![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
 
-虾壳是一个GitHub下载加速网站，提供GitHub文件加速服务，支持API、Git以及Releases、 Archive、gist、raw.githubusercontent.com等文件代理加速下载。
+### [fancymacbook](https://fancymacbook.app/)
 
-![xiake](https://images-1252557999.file.myqcloud.com/uPic/quiQlF.png) 
+提供技术向软件搜索然后输出 `brew` 命令安装：
+
+![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
 
 ## ✍️ 说明
 
