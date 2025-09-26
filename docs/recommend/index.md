@@ -5,101 +5,99 @@
 
 ## 🎯 项目 
 
-### [oh-my-rime](https://github.com/Mintimate/oh-my-rime)
+### [surveyking](https://github.com/javahuang/surveyking)
 
-一套快速初始化开源输入法 `Rime` 的模板方案，跨平台支持 `Win macOS Linux`：
+功能挺全面的一个调查问卷系统：
 
-![oh-my-rime](https://images-1252557999.file.myqcloud.com/uPic/oh-my-rime.webp) 
+![surveyking](https://images-1252557999.file.myqcloud.com/uPic/surveyking.jpg) 
 
-### [MinerU](https://github.com/opendatalab/MinerU)
+### [search_with_lepton](https://github.com/leptonai/search_with_lepton)
 
-`MinerU` 是一款一站式、开源、高质量的数据提取工具，主要包含以下功能:
+`AI` 大神贾扬清用500行代码打造 `AI` 搜索引擎  `Demo`，登顶 `GitHub` 热榜，证明构建AI应用并非难事：
 
-- Magic-PDF PDF文档提取
-- Magic-Doc 网页与电子书提取
+![search_with_lepton](https://images-1252557999.file.myqcloud.com/uPic/search_with_lepton.png)
 
-对于有 PDF 转换 MD 需求的朋友可以尝试下：
+同种类型应用参考：
 
-![MinerU](https://images-1252557999.file.myqcloud.com/uPic/MinerU.png) 
+- https://www.perplexity.ai
+- https://devv.ai/ 
 
-### [DailyHotApi](https://github.com/imsyy/DailyHotApi)
+### [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion)
 
-今日热榜 `API`，一个聚合热门数据的 `API` 接口，支持 `Vercel` 部署：
+在 `MacOS` 上运行原生的 `Stable Diffusion`，本应用内置 `Apple` 的 `Core ML Stable Diffusion` 框架 以实现在搭载 `Apple` 芯片的 `Mac` 上用极低的内存占用发挥出最优性能：
 
-![DailyHot](https://images-1252557999.file.myqcloud.com/uPic/DailyHot.jpg) 
+- 极致性能和极低内存占用 (使用神经网络引擎时 ~150MB)
+- 在所有搭载 Apple 芯片的 Mac 上充分发挥神经网络引擎的优势
+- 生成图像时无需联网
+- 图像转图像（也被称为 Image2Image）
+- 在图像的 EXIF 信息中存储所有的关键词（在访达的“显示简介”窗口中查看）
+- 使用 RealESRGAN 放大生成的图像
+- 自动保存 & 恢复图像
+- 自定义 Stable Diffusion Core ML 模型
+- 无需担心损坏的模型
+- 使用 macOS 原生框架 SwiftUI 开发
+
+![MochiDiffusion](https://images-1252557999.file.myqcloud.com/uPic/MochiDiffusion.jpg) 
 
 ## 🤖 软件 
 
-### [my-tv](https://github.com/lizongying/my-tv)
+### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 
-安卓电视直播软件，内置直播源：
+`Diffusion Bee`是在 `M1 Mac`上本地运行 `Stable Diffusion` 的最简单方法，附带一键安装程序，不需要依赖性或技术知识：
 
-![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
+![diffusionbee](https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg) 
 
-### [CuteGIF](https://github.com/tasy5kg/CuteGIF)
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
-小萌 `GIF` 是一款简洁好用的 `Android` 端视频转 `GIF` 工具：
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 
-![CuteGIF](https://images-1252557999.file.myqcloud.com/uPic/CuteGIF.jpg) 
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
-### [moodiary](https://github.com/ZhuJHua/moodiary)
+### [Librum](https://github.com/Librum-Reader/Librum)
 
-「心绪日记」 是一个由 Flutter 构建的开源跨平台日记应用：
+`Librum` 是一个旨在让每个人都能轻松愉快地阅读的应用程序。它不仅仅是一个电子书阅读器，更是一个功能强大的工具。
 
-- 跨平台支持：🌍 兼容 Android、iOS*、Windows*、MacOS*、Linux。
-- Material Design：🎨 界面直观且用户友好，遵循 Material Design 设计规范。
-- 富文本编辑：📝 支持加粗、斜体、下划线等多种格式的文本编辑。
-- 多媒体附件：📷 可以为你的日记添加图片、音频、视频甚至画一张画。
-- 搜索和分类：🔍 轻松通过全文搜索及分类管理你的日记。
-- 自定义主题：🌈 支持浅色和深色模式，以及多种配色的主题。
-- 数据安全：🔒 通过密码来保障你的日记安全，支持通过生物识别解锁。
-- 导出和分享：🧾 支持所有数据的导入/导出，以及单篇日记的分享。
-- 备份与同步：☁ 支持局域网同步，快速在设备间同步数据，以及 WebDav 备份。
-- 足迹地图：🗺️ 在地图上查看你足迹，生活中的每一步都值得被记录。
-- 智能助手：💬 支持接入第三方大模型，提供问答、情绪分析等功能。
-- 本地自然语言处理（NLP）：🤖 更安全的智能助手，让你的日记更懂你。
+使用 `Librum`，您可以随时随地管理您的在线书库，并且可以从任何设备方便地访问它。此外，`Librum` 还提供了多种功能，如笔记、书签和文本突出显示等，同时还允许您自定义界面，使其完全适应您的需求和喜好：
 
-![moodiary](https://images-1252557999.file.myqcloud.com/uPic/plSfAq.png) 
+![Librum](https://images-1252557999.file.myqcloud.com/uPic/Librum.png) 
 
 ## 👀 资料 
 
-### [meetup](https://github.com/baiyutang/meetup)
+### [uxbaike](https://uxbaike.com/)
 
-【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
+UX 百科，属于设计师的专业知识库：
 
-![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
+![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
 
-### [programming-math-science](https://github.com/bobeff/programming-math-science) 
+### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
 
-国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
+精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
 
-### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
+### [under-the-hood](https://golang.design/under-the-hood/)
 
-带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
+`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
 
-![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
+![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
 
 ## 🕸 网站 
 
-### [linux.pdf](https://linux.doompdf.dev/linux.pdf)
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
 
-`PDF` 中运行 `Linux`，通过 `RISC-V` 架构的模拟器实现：
+PDF Squeezer 是一款 PDF 压缩工具：
 
-![linux.pdf](https://images-1252557999.file.myqcloud.com/uPic/edDIQp.png)
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
-开源地址：[linuxpdf](https://github.com/ading2210/linuxpdf?tab=readme-ov-file) 
+### [crxsoso](https://www.crxsoso.com/articles)
 
-### [cleverpdf](https://www.cleverpdf.com/cn)
+浏览器扩展应用周刊：
 
-几十个强大的PDF在线工具，无需注册会员，永久免费：
+![crxsoso](https://images-1252557999.file.myqcloud.com/uPic/crxsoso.jpg) 
 
-![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
+### [ai-llm-comparison](https://github.com/Ahmet-Dedeler/ai-llm-comparison)
 
-### [fancymacbook](https://fancymacbook.app/)
+该网站旨在为用户提供一个比较各种 AI 模型的平台，帮助用户根据自己的需求选择最合适的 AI 服务：
 
-提供技术向软件搜索然后输出 `brew` 命令安装：
-
-![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
+![ai-llm-comparison](https://images-1252557999.file.myqcloud.com/uPic/SO7NW7.png) 
 
 ## ✍️ 说明
 
