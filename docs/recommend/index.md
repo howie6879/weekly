@@ -5,98 +5,107 @@
 
 ## 🎯 项目 
 
-### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
+### [whoogle-search](https://github.com/benbusby/whoogle-search)
 
-短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
+这个项目是这周我看到项目中最喜欢的，它是一个元搜索引擎，简单来说**元搜索引擎**就是汇总第三方搜索引擎结果的一个搜索引擎（这里主要使用的是谷歌），它具有以下特点：
 
-![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
+- 自部署
+- 去广告
+- 去追踪
+- 自定义
 
-### [crawlee](https://crawlee.dev/)
+如果你有自己的服务器，可以尝试一下，我自己用了几天，非常喜欢上面的特性，感觉特别棒，已经升级成我的默认搜索引擎了：
 
-基于 `Node` 编写的开源网络爬虫库：
+![Whoogle](https://images-1252557999.file.myqcloud.com/uPic/mUGf6O-20230909194304629.png) 
 
-![crawlee](https://images-1252557999.file.myqcloud.com/uPic/crawlee.jpg) 
+### [one-api](https://github.com/songquanpeng/one-api)
 
-### [ChatGPT 项目推荐](https://weekly.howie6879.com/2023/02-13~02-18.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC079%E6%9C%9F%EF%BC%89.html?h=chatgpt#chatgpt)
+`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
 
-基于 `ChatGPT` 相关接口衍生的项目：
+![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
 
-- [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)：显示 `ChatGPT` 响应和 `Google` 搜索结果的浏览器扩展
-- [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)：将 `ChatGPT` 集成到互联网上的每个文本框中。
-- [周报生成器](https://weeklyreport.avemaria.fun/zh)：简单描述工作内容帮你生成完整周报
-- [README 生成器](https://readme.rustc.cloud/zh)：帮你生成完整 Github README
-- [邮件生成器](https://email-helper.vercel.app/)：几秒钟内生成多语言商务邮件
-- [Teach Anything](https://www.teach-anything.com/)：几秒钟内得到想要的答案
-- [聊天简化器](https://chat-simplifier.imzbb.cc/zh)：简化聊天记录内容
-- [SiteExplainer](https://siteexplainer.vercel.app/)：输入网址，快速总结网站内容
-- [Dear Aibby](https://www.dearaibby.com/)：来自新机器灵魂的衷心建议
-- [TextSummarizer](https://text-summarizer-seven.vercel.app/)：在几秒钟内从文本生成摘要
-- [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)：支持 `ChatGPT` 的 `Visual Studio Code` 扩展，可以与 `ChatGPT` 配对编程
-- [editGPT](https://chrome.google.com/webstore/detail/editgpt/mognjodfeldknhobgbnkoomipkmlnnhk)：利用 ChatGPT 做文案修改编辑 
+### [siri-ultra](https://github.com/fatwang2/siri-ultra)
+
+`Siri Ultra` 是一个能在 `iPhone` 上使用的 AI 聊天快捷指令，无需下载任何软件即可体验到最新的大模型：
+
+- 通过 Siri 实时语音对话，也可以直接运行快捷指令进行文字对话
+- 兼容各种大模型，包括 OpenAI、Gemini、DeepSeek 等
+- 支持联网搜索（需单独配置搜索 key）
+- 支持网页总结 （链接发给快捷指令即可） 
 
 ## 🤖 软件 
 
-### [Xournal++](https://github.com/xournalpp/xournalpp)
+### [hummingbird](https://github.com/leibnizli/hummingbird)
 
-`Xournal++`是一款支持PDF注释的开源手写笔记软件，同样具有跨平台属性，功能挺多，有数位板的可以体验一下。
+`Hummingbird` 是一个资源(`jpg/png/webp/svg/gif/css/js/html`)压缩客户端，支持`Windows`、`Mac`：
 
-![Xournal++](https://images-1252557999.file.myqcloud.com/uPic/2DWaXR.jpg) 
+- `jpg/png/webp/svg/gif/html` 压缩后会替换掉当前文件，`css/js` 压缩后会生成一个带 `.min` 的新文件
+- 可以在在当前目录新建source文件夹并备份处理前的文件，可以在设置中开启
 
-### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
+![hummingbird](https://images-1252557999.file.myqcloud.com/uPic/hummingbird.jpg) 
 
-FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
+### [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)
 
-- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
-- 基于文本的歌单，方便与朋友分享、设备之间同步
-- 提供基于 TCP 的交互控制协议
-- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
-- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
+基于 `ScreenCapture Kit` 的轻量化多功能 `macOS` 录屏工具：
 
-![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
+![QuickRecorder](https://images-1252557999.file.myqcloud.com/uPic/QuickRecorder.jpg) 
 
-### [ntchat](https://github.com/smallevilbeast/ntchat)
+### [mCollection](https://github.com/hunmer/mCollection)
 
-微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
+🎉开源，可扩展，可自定义的素材管理库：
 
-- 基于pc微信的api接口, 类似itchat项目
-- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
-- 支持好友和群管理 
+-  sqlite3存储结构，允许自定义关联表
+-  没有限制的扩展插件，事件广播多
+-  模块化设计，各个功能互不干扰
+-  标签页设计，切换更便捷
+-  内置全局呼出搜索
+-  代码热更新
+-  前后端分离，支持部署私人素材库
+
+![mCollection](https://images-1252557999.file.myqcloud.com/uPic/mCollection.png) 
 
 ## 👀 资料 
 
-### [v8-internals](https://github.com/plctlab/v8-internals)
+### [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
-面向编译器开发人员的V8内部实现文档。 
+📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
 
-### [1000-chinese-independent-developer-plus](https://github.com/XiaomingX/1000-chinese-independent-developer-plus)
+![CS-Notes](https://images-1252557999.file.myqcloud.com/uPic/7aMFrS.png) 
 
-中国独立开发者项目列表，分享大家都在做什么。 
+### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
 
-### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
+从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
 
-作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
+![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
-![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
+### [one-person-company](https://github.com/cyfyifanchen/one-person-company)
+
+一人公司 AI 工具系列，有些工具是宝，有些工具是坑，本 Repo 致力于帮您踩坑，精准找宝 🤩
+
+![one-person-company](https://images-1252557999.file.myqcloud.com/uPic/KQ5cOO.png) 
 
 ## 🕸 网站 
 
-### [读者阁](https://duzhege.cn/)
+### [wantquotes.net](https://wantquotes.net/)
 
-可以在线阅读故事会、读者等杂志的网站：
+清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
 
-![duzhege](https://images-1252557999.file.myqcloud.com/uPic/duzhege.jpg) 
+![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
 
-### [freelancethings](https://www.freelancethings.co/)
+### [choosealicense](https://choosealicense.com/)
 
-为自由职业者精心挑选的资源，涉及到社区、工具、文章、书籍、视频等，这些都帮助你在自由职业之旅中获得更多帮助，订阅后每周发送到您的收件箱:
+`choosealicense` 帮助您轻松选择和一键复制开源协议：
 
-![freelancethings](https://images-1252557999.file.myqcloud.com/uPic/freelancethings.jpg) 
+![choosealicense](https://images-1252557999.file.myqcloud.com/uPic/RW33E0.png) 
 
-### [flomoapp](https://flomoapp.com/)
+### [aicodeconvert](https://aicodeconvert.com/)
 
-flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
+[开源](https://github.com/JustAIGithub/AI-Code-Convert)的的 `AI` 代码转换工具，基于 `GPT` 实现：
 
-![flomoapp](https://images-1252557999.file.myqcloud.com/uPic/6G6qrd.jpg) 
+- 自然语言转代码，描述需求就生成对应的代码
+- 把代码一键转换为另一种代码语言实现
+
+![aicodeconvert](https://images-1252557999.file.myqcloud.com/uPic/aicodeconvert.jpg) 
 
 ## ✍️ 说明
 
