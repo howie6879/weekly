@@ -5,107 +5,103 @@
 
 ## 🎯 项目 
 
-### [whoogle-search](https://github.com/benbusby/whoogle-search)
-
-这个项目是这周我看到项目中最喜欢的，它是一个元搜索引擎，简单来说**元搜索引擎**就是汇总第三方搜索引擎结果的一个搜索引擎（这里主要使用的是谷歌），它具有以下特点：
-
-- 自部署
-- 去广告
-- 去追踪
-- 自定义
-
-如果你有自己的服务器，可以尝试一下，我自己用了几天，非常喜欢上面的特性，感觉特别棒，已经升级成我的默认搜索引擎了：
-
-![Whoogle](https://images-1252557999.file.myqcloud.com/uPic/mUGf6O-20230909194304629.png) 
-
 ### [one-api](https://github.com/songquanpeng/one-api)
 
 `OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
 
 ![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
 
-### [siri-ultra](https://github.com/fatwang2/siri-ultra)
+### [PandaWiki](https://github.com/chaitin/PandaWiki)
 
-`Siri Ultra` 是一个能在 `iPhone` 上使用的 AI 聊天快捷指令，无需下载任何软件即可体验到最新的大模型：
+PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索 等能力。
 
-- 通过 Siri 实时语音对话，也可以直接运行快捷指令进行文字对话
-- 兼容各种大模型，包括 OpenAI、Gemini、DeepSeek 等
-- 支持联网搜索（需单独配置搜索 key）
-- 支持网页总结 （链接发给快捷指令即可） 
+![PandaWiki](https://images-1252557999.file.myqcloud.com/uPic/8YgiXm.png) 
+
+### [flet](https://github.com/flet-dev/flet)
+
+用 `Python` 开发跨平台 `Flutter` 应用：
+
+![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
 
 ## 🤖 软件 
 
-### [hummingbird](https://github.com/leibnizli/hummingbird)
+### [Thor](https://github.com/gbammc/Thor)
 
-`Hummingbird` 是一个资源(`jpg/png/webp/svg/gif/css/js/html`)压缩客户端，支持`Windows`、`Mac`：
+通过快捷键快速打开应用：
 
-- `jpg/png/webp/svg/gif/html` 压缩后会替换掉当前文件，`css/js` 压缩后会生成一个带 `.min` 的新文件
-- 可以在在当前目录新建source文件夹并备份处理前的文件，可以在设置中开启
+![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
 
-![hummingbird](https://images-1252557999.file.myqcloud.com/uPic/hummingbird.jpg) 
+### [Cloud Document Converter](https://github.com/lujunji4113/cloud-document-converter/tree/main)
 
-### [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)
+一个 `Chrome` 扩展， 支持下载、复制飞书云文档为 `Markdown`：
 
-基于 `ScreenCapture Kit` 的轻量化多功能 `macOS` 录屏工具：
+![Cloud Document Converter](https://images-1252557999.file.myqcloud.com/uPic/ATwWi4.png) 
 
-![QuickRecorder](https://images-1252557999.file.myqcloud.com/uPic/QuickRecorder.jpg) 
+### [Paperlib](https://github.com/Future-Scholars/paperlib)
 
-### [mCollection](https://github.com/hunmer/mCollection)
+一个简单好用的开源论文管理工具，全平台支持：
 
-🎉开源，可扩展，可自定义的素材管理库：
+- 为多学科定制元数据搜索器，尤其是 `CS` 学科，`及其精准的会议论文metadata` 匹配。
+- `macOS spotlight` 一样的快速复制粘贴 bibtex 引用。
+- 支持插件。
+- 干净整洁的 `UI`。
+- 订阅 `RSS` 获取最新论文
+- 全文搜索，评价，星标，标签，组，`MD` 纯文本笔记等
+- 云同步，三平台支持：`macOS, Windows, Linux`
 
--  sqlite3存储结构，允许自定义关联表
--  没有限制的扩展插件，事件广播多
--  模块化设计，各个功能互不干扰
--  标签页设计，切换更便捷
--  内置全局呼出搜索
--  代码热更新
--  前后端分离，支持部署私人素材库
-
-![mCollection](https://images-1252557999.file.myqcloud.com/uPic/mCollection.png) 
+![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
 
 ## 👀 资料 
 
-### [CS-Notes](https://github.com/CyC2018/CS-Notes)
+### [wangshusen/SearchEngine](https://github.com/wangshusen/SearchEngine)
 
-📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
+开源的搜索引擎原理书籍（不方便下载的直接私聊我发 PDF），包含：
 
-![CS-Notes](https://images-1252557999.file.myqcloud.com/uPic/7aMFrS.png) 
+- 搜索引擎基础
+- 相关性
+- 其他决定用户满意度的因子
+- 查询词处理
+- 召回
+- 排序
+- 查询词推荐
 
-### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
+![SearchEngine](https://images-1252557999.file.myqcloud.com/uPic/SearchEngine.jpg) 
 
-从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
+### [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
-![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
+本项目精选收录了采用RAG、AI智能体、多智能体团队、MCP、语音智能体等技术构建的超赞LLM应用。本仓库展示的LLM应用使用了OpenAI、Anthropic、Google等公司的模型，以及DeepSeek、Qwen或Llama等可在本地计算机上运行的开源模型。
 
-### [one-person-company](https://github.com/cyfyifanchen/one-person-company)
+![awesome-llm-apps](https://images-1252557999.file.myqcloud.com/uPic/9pE3fX.png) 
 
-一人公司 AI 工具系列，有些工具是宝，有些工具是坑，本 Repo 致力于帮您踩坑，精准找宝 🤩
+### [通往AGI之路](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
 
-![one-person-company](https://images-1252557999.file.myqcloud.com/uPic/KQ5cOO.png) 
+汇聚了互联网上的一些 `AGI` 教程，资源大家看了觉得有用即可，文章底部有微信引流，如果里面需要付费请慎重：
+
+![ywh1bkansf](https://images-1252557999.file.myqcloud.com/uPic/ywh1bkansf.jpg) 
 
 ## 🕸 网站 
 
-### [wantquotes.net](https://wantquotes.net/)
+### [smartexcel](https://www.smartexcel.cc/)
 
-清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
+使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
 
-![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
+![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
 
-### [choosealicense](https://choosealicense.com/)
+### [linggle](https://linggle.com/)
 
-`choosealicense` 帮助您轻松选择和一键复制开源协议：
+免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
 
-![choosealicense](https://images-1252557999.file.myqcloud.com/uPic/RW33E0.png) 
+![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
 
-### [aicodeconvert](https://aicodeconvert.com/)
+### [myfirstnft](https://myfirstnft.info/)
 
-[开源](https://github.com/JustAIGithub/AI-Code-Convert)的的 `AI` 代码转换工具，基于 `GPT` 实现：
+我的第一个NFT，在这个网站，你可以：
 
-- 自然语言转代码，描述需求就生成对应的代码
-- 把代码一键转换为另一种代码语言实现
+- 理解NFT的价值
+- 铸造一个免费的NFT
+- 了解Web3.0
 
-![aicodeconvert](https://images-1252557999.file.myqcloud.com/uPic/aicodeconvert.jpg) 
+![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
 
 ## ✍️ 说明
 
