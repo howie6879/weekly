@@ -5,17 +5,11 @@
 
 ## 🎯 项目 
 
-### [one-api](https://github.com/songquanpeng/one-api)
+### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 
-`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
+免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
 
-![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
-
-### [PandaWiki](https://github.com/chaitin/PandaWiki)
-
-PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索 等能力。
-
-![PandaWiki](https://images-1252557999.file.myqcloud.com/uPic/8YgiXm.png) 
+![rxresu](https://images-1252557999.file.myqcloud.com/uPic/rxresu.jpg) 
 
 ### [flet](https://github.com/flet-dev/flet)
 
@@ -23,85 +17,79 @@ PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你
 
 ![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
 
+### [heti](https://github.com/sivan/heti)
+
+赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+
+![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
+
 ## 🤖 软件 
 
-### [Thor](https://github.com/gbammc/Thor)
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 
-通过快捷键快速打开应用：
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
 
-![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
+![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
 
-### [Cloud Document Converter](https://github.com/lujunji4113/cloud-document-converter/tree/main)
+### [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live)
 
-一个 `Chrome` 扩展， 支持下载、复制飞书云文档为 `Markdown`：
+简简单单的看直播，虎牙直播、斗鱼直播、哔哩哔哩直播、抖音直播：
 
-![Cloud Document Converter](https://images-1252557999.file.myqcloud.com/uPic/ATwWi4.png) 
+![dart_simple_live](https://images-1252557999.file.myqcloud.com/uPic/Lu8I9B.png) 
 
-### [Paperlib](https://github.com/Future-Scholars/paperlib)
+### [spotube](https://github.com/KRTirtho/spotube)
 
-一个简单好用的开源论文管理工具，全平台支持：
+`Spotube` 可用于所有主要平台，包括 `Linux、Android、Windows & MacOS`，它利用 `Spotify` 和 `YouTube` 的公共 `API` 作为音频源，不需要 `Spotify Premium`，没有广告，可下载歌曲，实时同步歌词，支持匿名或访客登录：
 
-- 为多学科定制元数据搜索器，尤其是 `CS` 学科，`及其精准的会议论文metadata` 匹配。
-- `macOS spotlight` 一样的快速复制粘贴 bibtex 引用。
-- 支持插件。
-- 干净整洁的 `UI`。
-- 订阅 `RSS` 获取最新论文
-- 全文搜索，评价，星标，标签，组，`MD` 纯文本笔记等
-- 云同步，三平台支持：`macOS, Windows, Linux`
-
-![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
+![spotube](https://images-1252557999.file.myqcloud.com/uPic/spotube.jpg) 
 
 ## 👀 资料 
 
-### [wangshusen/SearchEngine](https://github.com/wangshusen/SearchEngine)
+### [AI-System](https://github.com/microsoft/AI-System)
 
-开源的搜索引擎原理书籍（不方便下载的直接私聊我发 PDF），包含：
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
 
-- 搜索引擎基础
-- 相关性
-- 其他决定用户满意度的因子
-- 查询词处理
-- 召回
-- 排序
-- 查询词推荐
+![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
 
-![SearchEngine](https://images-1252557999.file.myqcloud.com/uPic/SearchEngine.jpg) 
+### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
 
-### [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
 
-本项目精选收录了采用RAG、AI智能体、多智能体团队、MCP、语音智能体等技术构建的超赞LLM应用。本仓库展示的LLM应用使用了OpenAI、Anthropic、Google等公司的模型，以及DeepSeek、Qwen或Llama等可在本地计算机上运行的开源模型。
+- 👋 入门
+- 💬 大语言模型
+	- 💡 提示工程
+	- 🔧 大语言模型实践
+	- 🔬 大语言模型理论
+- 🎨 AI绘画
+- 🔊 AI音频
+- 🌈 多模态
+- 🧠 深度学习
+- 💻 AI系统 
 
-![awesome-llm-apps](https://images-1252557999.file.myqcloud.com/uPic/9pE3fX.png) 
+### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
 
-### [通往AGI之路](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
-
-汇聚了互联网上的一些 `AGI` 教程，资源大家看了觉得有用即可，文章底部有微信引流，如果里面需要付费请慎重：
-
-![ywh1bkansf](https://images-1252557999.file.myqcloud.com/uPic/ywh1bkansf.jpg) 
+一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
 
 ## 🕸 网站 
 
-### [smartexcel](https://www.smartexcel.cc/)
+### [免费 LLM API 调用限制汇总](https://www.freeaihunter.com/)
 
-使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
+一个可以免费使用的大模型 API 合集网站：
 
-![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
+![freeaihunter](https://images-1252557999.file.myqcloud.com/uPic/ixNx89.png) 
 
-### [linggle](https://linggle.com/)
+### [Ben Eater](https://eater.net/)
 
-免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
+博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
 
-![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
+![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
 
-### [myfirstnft](https://myfirstnft.info/)
+### [万词王](https://github.com/thunlp/WantWords)
 
-我的第一个NFT，在这个网站，你可以：
+万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
 
-- 理解NFT的价值
-- 铸造一个免费的NFT
-- 了解Web3.0
-
-![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
+![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
+官方访问地址：[wantwords.net](https://wantwords.net/)。 
 
 ## ✍️ 说明
 
