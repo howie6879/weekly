@@ -5,91 +5,116 @@
 
 ## 🎯 项目 
 
-### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+### [blinko](https://github.com/blinkospace/blinko)
 
-免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
+- `Blinko` 是一个创新的开源项目，专为那些想要快速捕捉和组织灵感的人设计。它允许用户在灵感闪现的瞬间无缝记录想法，确保不错过任何创意火花：
+- 🤖AI 增强笔记检索：通过 Blinko 的先进 AI 驱动的 RAG（检索增强生成）技术，你可以使用自然语言查询快速搜索和访问笔记，轻松找到所需内容。支持 OpenAI、Azure OpenAI 和 Ollama。
+- 🔒数据所有权：你的隐私至关重要。所有笔记和数据都安全存储在你的自托管环境中，确保对信息的完全控制。
+- 🚀高效快速：即时捕捉想法并以纯文本形式存储以便于访问，完全支持 Markdown 格式，便于快速排版和分享。
+- 💡轻量架构，多端支持：基于 Tauri 构建的 Blinko 采用简洁轻量的架构，在保持卓越速度和效率的同时，并且支持Macos,Windows,Android,Linux等多平台。
+- 🔓开放协作：作为开源项目，Blinko 欢迎社区贡献。所有代码都在 GitHub 上公开透明，培养协作和持续改进的精神。
 
-![rxresu](https://images-1252557999.file.myqcloud.com/uPic/rxresu.jpg) 
+![blinko](https://images-1252557999.file.myqcloud.com/uPic/R3axJB.png) 
 
-### [flet](https://github.com/flet-dev/flet)
+### [Mini-Cover](https://github.com/JLinMr/Mini-Cover)
 
-用 `Python` 开发跨平台 `Flutter` 应用：
+简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面：
 
-![Flet](https://images-1252557999.file.myqcloud.com/uPic/Flet.jpg) 
+![Mini-Cover](https://images-1252557999.file.myqcloud.com/uPic/OGMrle.png) 
 
-### [heti](https://github.com/sivan/heti)
+### [openui](https://github.com/wandb/openui)
 
-赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+将你脑中的页面通过文本描述来自动实时生成，非常方便，但是实用性具体如何还需要探索，期待这个项目持续迭代：
 
-![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
+![openui](https://images-1252557999.file.myqcloud.com/uPic/openui.jpg)
+
+它甚至可以帮助你将HTML转换成 `React、Svelte or Web Components` 等格式。 
 
 ## 🤖 软件 
 
-### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
+### [yokai](https://github.com/null2264/yokai)
 
-中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
+一个免费且开源的安卓漫画阅读器：
 
-![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
+![yokai](https://images-1252557999.file.myqcloud.com/uPic/Qy2ZHb.png)
 
-### [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live)
+之前还推荐免费漫画软件还有：
 
-简简单单的看直播，虎牙直播、斗鱼直播、哔哩哔哩直播、抖音直播：
+- [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
+- [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
+- [kobi](https://github.com/niuhuan/kobi)
+- [aniyomi](https://github.com/aniyomiorg/aniyomi)
+- [any-reader](https://github.com/aooiuu/any-reader)
+- [miru-app](https://github.com/miru-project/miru-app)
+- [全是漫画](https://github.com/hongchacha/cartoon)
 
-![dart_simple_live](https://images-1252557999.file.myqcloud.com/uPic/Lu8I9B.png) 
+更多去周刊网站检索漫画关键词👉[周刊漫画项目推荐](https://weekly.howie6879.com/?q=%E6%BC%AB%E7%94%BB)。 
 
-### [spotube](https://github.com/KRTirtho/spotube)
+### [WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive)
 
-`Spotube` 可用于所有主要平台，包括 `Linux、Android、Windows & MacOS`，它利用 `Spotify` 和 `YouTube` 的公共 `API` 作为音频源，不需要 `Spotify Premium`，没有广告，可下载歌曲，实时同步歌词，支持匿名或访客登录：
+使用 腾讯 X5 WebView 开发的电视直播App，原理：加载直播网页，找到video标签自动全屏：
 
-![spotube](https://images-1252557999.file.myqcloud.com/uPic/spotube.jpg) 
+![WebViewTvLive](https://images-1252557999.file.myqcloud.com/uPic/JKdapa.png) 
+
+### [rubick](https://github.com/rubickCenter/rubick)
+
+基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
+
+- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
+- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
+- 支持全局快捷键设置。
+- 支持剪贴板文件搜索。
+- 支持搜索本地安装的应用程序或偏好设置。
+- 支持MacOS。
+- 支持Windows。
+- 支持Linux。
+
+![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
 
 ## 👀 资料 
 
-### [AI-System](https://github.com/microsoft/AI-System)
+### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
 
-微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+全面的Webpack教程《深入浅出Webpack》电子书：
 
-![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
+![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
 
-### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
+### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
 
-这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
+对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
 
-- 👋 入门
-- 💬 大语言模型
-	- 💡 提示工程
-	- 🔧 大语言模型实践
-	- 🔬 大语言模型理论
-- 🎨 AI绘画
-- 🔊 AI音频
-- 🌈 多模态
-- 🧠 深度学习
-- 💻 AI系统 
+### [英语提升指南](https://vvyst0z7tes.feishu.cn/wiki/HQuawZepyiwNiNkImw6c00IXnmc)
 
-### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
+基于南加州大学的荣休教授斯蒂芬.克拉申（Stephen D。Krashen）博士的假说理论，为不同水平的英语自学者提供了结构化的学习路径。
 
-一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
+![英语提升指南](https://images-1252557999.file.myqcloud.com/uPic/uxM2zV.png) 
 
 ## 🕸 网站 
 
-### [免费 LLM API 调用限制汇总](https://www.freeaihunter.com/)
+### [文学网](https://www.hwxnet.com/)
 
-一个可以免费使用的大模型 API 合集网站：
+文学相关工具在线网站：
 
-![freeaihunter](https://images-1252557999.file.myqcloud.com/uPic/ixNx89.png) 
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
 
-### [Ben Eater](https://eater.net/)
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
-博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
+### [removebg](https://www.remove.bg/zh)
 
-![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
+这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
 
-### [万词王](https://github.com/thunlp/WantWords)
+![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
 
-万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
+### [quark.so](https://www.quark.so/)
 
-![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
-官方访问地址：[wantwords.net](https://wantwords.net/)。 
+这是一个资源全面，界面简洁无广告的夸克网盘搜索引擎：
+
+![quarkso](https://images-1252557999.file.myqcloud.com/uPic/quarkso.jpg) 
 
 ## ✍️ 说明
 
