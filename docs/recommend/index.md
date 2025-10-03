@@ -5,16 +5,11 @@
 
 ## 🎯 项目 
 
-### [blinko](https://github.com/blinkospace/blinko)
+### [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
 
-- `Blinko` 是一个创新的开源项目，专为那些想要快速捕捉和组织灵感的人设计。它允许用户在灵感闪现的瞬间无缝记录想法，确保不错过任何创意火花：
-- 🤖AI 增强笔记检索：通过 Blinko 的先进 AI 驱动的 RAG（检索增强生成）技术，你可以使用自然语言查询快速搜索和访问笔记，轻松找到所需内容。支持 OpenAI、Azure OpenAI 和 Ollama。
-- 🔒数据所有权：你的隐私至关重要。所有笔记和数据都安全存储在你的自托管环境中，确保对信息的完全控制。
-- 🚀高效快速：即时捕捉想法并以纯文本形式存储以便于访问，完全支持 Markdown 格式，便于快速排版和分享。
-- 💡轻量架构，多端支持：基于 Tauri 构建的 Blinko 采用简洁轻量的架构，在保持卓越速度和效率的同时，并且支持Macos,Windows,Android,Linux等多平台。
-- 🔓开放协作：作为开源项目，Blinko 欢迎社区贡献。所有代码都在 GitHub 上公开透明，培养协作和持续改进的精神。
+将视频从一种语言翻译为另一种语言，并添加配音，这个最近火出圈了：
 
-![blinko](https://images-1252557999.file.myqcloud.com/uPic/R3axJB.png) 
+![pyvideotrans](https://images-1252557999.file.myqcloud.com/uPic/pyvideotrans.jpg) 
 
 ### [Mini-Cover](https://github.com/JLinMr/Mini-Cover)
 
@@ -22,99 +17,69 @@
 
 ![Mini-Cover](https://images-1252557999.file.myqcloud.com/uPic/OGMrle.png) 
 
-### [openui](https://github.com/wandb/openui)
+### [MoneyPrinterPlus](https://github.com/ddean2009/MoneyPrinterPlus)
 
-将你脑中的页面通过文本描述来自动实时生成，非常方便，但是实用性具体如何还需要探索，期待这个项目持续迭代：
+`MoneyPrinterPlus` 是一个基于 `AI` 技术的项目，能够一键批量生成和混剪短视频，并自动发布到多个视频平台，如抖音、快手、小红书和视频号，极大地简化了视频内容创作和发布的流程：
 
-![openui](https://images-1252557999.file.myqcloud.com/uPic/openui.jpg)
-
-它甚至可以帮助你将HTML转换成 `React、Svelte or Web Components` 等格式。 
+![MoneyPrinterPlus](https://images-1252557999.file.myqcloud.com/uPic/fXzX2S.png) 
 
 ## 🤖 软件 
 
-### [yokai](https://github.com/null2264/yokai)
+### [yaak](https://github.com/mountain-loop/yaak)
 
-一个免费且开源的安卓漫画阅读器：
+`Yaak` 是一个桌面 `API` 客户端，专门用于与 `REST、GraphQL、WebSockets、Server Sent Events & gRPC API` 进行交互。它使用 Tauri、Rust 和 ReactJS 构建，支持数据导入、多种认证方式、请求链式处理、工作空间和文件夹管理、环境变量切换、动态值生成、主题自定义、数据镜像、请求历史记录以及插件扩展功能。
 
-![yokai](https://images-1252557999.file.myqcloud.com/uPic/Qy2ZHb.png)
+![yaak](https://images-1252557999.file.myqcloud.com/uPic/qYKhFp.png)
 
-之前还推荐免费漫画软件还有：
+目前老胡最喜欢用的是 [bruno](https://github.com/usebruno/bruno)。 
 
-- [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
-- [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
-- [kobi](https://github.com/niuhuan/kobi)
-- [aniyomi](https://github.com/aniyomiorg/aniyomi)
-- [any-reader](https://github.com/aooiuu/any-reader)
-- [miru-app](https://github.com/miru-project/miru-app)
-- [全是漫画](https://github.com/hongchacha/cartoon)
+### [BlogHelper](https://github.com/onblog/BlogHelper)
 
-更多去周刊网站检索漫画关键词👉[周刊漫画项目推荐](https://weekly.howie6879.com/?q=%E6%BC%AB%E7%94%BB)。 
+帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
 
-### [WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive)
+![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
 
-使用 腾讯 X5 WebView 开发的电视直播App，原理：加载直播网页，找到video标签自动全屏：
+### [Planify](https://github.com/alainm23/planify)
 
-![WebViewTvLive](https://images-1252557999.file.myqcloud.com/uPic/JKdapa.png) 
+Linux 专属的一款高颜值的任务管理软件，它专为 GNOME 桌面环境设计，支持 Todoist 和 Nextcloud 的集成。该应用程序提供了直观的视觉风格和多种功能，包括任务拖拽排序、项目进度指示器、夜间模式、自定义提醒系统以及离线 Todoist 同步等。用户可以通过快速查找功能来搜索任务，同时支持重复到期日期和提醒通知。
 
-### [rubick](https://github.com/rubickCenter/rubick)
-
-基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
-
-- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
-- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
-- 支持全局快捷键设置。
-- 支持剪贴板文件搜索。
-- 支持搜索本地安装的应用程序或偏好设置。
-- 支持MacOS。
-- 支持Windows。
-- 支持Linux。
-
-![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
+![Planify](https://images-1252557999.file.myqcloud.com/uPic/HAXppV.png) 
 
 ## 👀 资料 
 
-### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
+### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
 
-全面的Webpack教程《深入浅出Webpack》电子书：
+带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
 
-![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
+![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
 
-### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
+一份程序员延寿指南，目标是稳健地活得更久。 
 
-### [英语提升指南](https://vvyst0z7tes.feishu.cn/wiki/HQuawZepyiwNiNkImw6c00IXnmc)
+### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
 
-基于南加州大学的荣休教授斯蒂芬.克拉申（Stephen D。Krashen）博士的假说理论，为不同水平的英语自学者提供了结构化的学习路径。
-
-![英语提升指南](https://images-1252557999.file.myqcloud.com/uPic/uxM2zV.png) 
+教程：小型金融知识图谱流程示范。 
 
 ## 🕸 网站 
 
-### [文学网](https://www.hwxnet.com/)
+### [haitang](https://github.com/javayhu/haitang)
 
-文学相关工具在线网站：
+海棠诗社，提供古诗词的数字化收集，可以按照不同方式检索和分类，项目代码完全[开源](https://github.com/javayhu/haitang)：
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
+![haitang](https://images-1252557999.file.myqcloud.com/uPic/haitang.jpg) 
 
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+### [识典古籍](https://www.shidianguji.com/)
 
-### [removebg](https://www.remove.bg/zh)
+识典古籍 – 古籍在线阅读平台，北大和抖音合作开发的古籍阅读网站：
 
-这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
+![shidianguji](https://images-1252557999.file.myqcloud.com/uPic/shidianguji.jpg) 
 
-![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
+### [macosicons](https://macosicons.com/)
 
-### [quark.so](https://www.quark.so/)
+网站基本上覆盖了热门`Mac APP`图标，你可以选择自己喜欢的图标进行替换，让自己的`Mac`更加漂亮且个性化。
 
-这是一个资源全面，界面简洁无广告的夸克网盘搜索引擎：
-
-![quarkso](https://images-1252557999.file.myqcloud.com/uPic/quarkso.jpg) 
+![macosicons](https://images-1252557999.file.myqcloud.com/uPic/macosicons.png) 
 
 ## ✍️ 说明
 
