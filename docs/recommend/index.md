@@ -5,81 +5,79 @@
 
 ## 🎯 项目 
 
-### [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
+### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
 
-将视频从一种语言翻译为另一种语言，并添加配音，这个最近火出圈了：
+相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
 
-![pyvideotrans](https://images-1252557999.file.myqcloud.com/uPic/pyvideotrans.jpg) 
+如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
 
-### [Mini-Cover](https://github.com/JLinMr/Mini-Cover)
+### [PyFlow](https://github.com/wonderworks-software/PyFlow)
 
-简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面：
+可视化脚本框架：
 
-![Mini-Cover](https://images-1252557999.file.myqcloud.com/uPic/OGMrle.png) 
+![PyFlow](https://images-1252557999.file.myqcloud.com/uPic/XEBUdM.jpg) 
 
-### [MoneyPrinterPlus](https://github.com/ddean2009/MoneyPrinterPlus)
+### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
 
-`MoneyPrinterPlus` 是一个基于 `AI` 技术的项目，能够一键批量生成和混剪短视频，并自动发布到多个视频平台，如抖音、快手、小红书和视频号，极大地简化了视频内容创作和发布的流程：
-
-![MoneyPrinterPlus](https://images-1252557999.file.myqcloud.com/uPic/fXzX2S.png) 
+Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
 
 ## 🤖 软件 
 
-### [yaak](https://github.com/mountain-loop/yaak)
+### [biyi](https://github.com/lijy91/biyi)
 
-`Yaak` 是一个桌面 `API` 客户端，专门用于与 `REST、GraphQL、WebSockets、Server Sent Events & gRPC API` 进行交互。它使用 Tauri、Rust 和 ReactJS 构建，支持数据导入、多种认证方式、请求链式处理、工作空间和文件夹管理、环境变量切换、动态值生成、主题自定义、数据镜像、请求历史记录以及插件扩展功能。
+比译是一个用 `Flutter` 编写的跨平台便捷翻译和词典应用：
 
-![yaak](https://images-1252557999.file.myqcloud.com/uPic/qYKhFp.png)
+![biyi](https://images-1252557999.file.myqcloud.com/uPic/biyi.jpg) 
 
-目前老胡最喜欢用的是 [bruno](https://github.com/usebruno/bruno)。 
+### [thorium-reader](https://github.com/edrlab/thorium-reader)
 
-### [BlogHelper](https://github.com/onblog/BlogHelper)
+`Thorium Reader` 是一款专为 `Windows 10/11、MacOS & Linux` 开发的电子书阅读器：
 
-帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
+![thorium-reader](https://images-1252557999.file.myqcloud.com/uPic/thorium-reader.png) 
 
-![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
+### [MiniSim](https://github.com/okwasniewski/MiniSim)
 
-### [Planify](https://github.com/alainm23/planify)
+一个 Mac 菜单栏软件，可以启动 iOS  或者 Android 🤖虚拟机：
 
-Linux 专属的一款高颜值的任务管理软件，它专为 GNOME 桌面环境设计，支持 Todoist 和 Nextcloud 的集成。该应用程序提供了直观的视觉风格和多种功能，包括任务拖拽排序、项目进度指示器、夜间模式、自定义提醒系统以及离线 Todoist 同步等。用户可以通过快速查找功能来搜索任务，同时支持重复到期日期和提醒通知。
-
-![Planify](https://images-1252557999.file.myqcloud.com/uPic/HAXppV.png) 
+![MiniSim](https://images-1252557999.file.myqcloud.com/uPic/MiniSim.png) 
 
 ## 👀 资料 
 
-### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
+### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 
-带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
+这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
 
-![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
+### [howtheytest](https://github.com/abhivaikar/howtheytest)
 
-### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
+关于软件公司如何测试其软件的公共资源集合：
 
-一份程序员延寿指南，目标是稳健地活得更久。 
+![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
 
-### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
+### [FudanSELab/Agent4SE-Paper-List](https://github.com/FudanSELab/Agent4SE-Paper-List)
 
-教程：小型金融知识图谱流程示范。 
+该仓库由复旦大学软件工程实验室（FudanSELab）创建的，旨在为大型语言模型（LLMs）基础的软件工程代理（Agent）领域提供一个系统的文献综述：
+
+![Agent4SE-Paper-List](https://images-1252557999.file.myqcloud.com/uPic/uFo2bN.png) 
 
 ## 🕸 网站 
 
-### [haitang](https://github.com/javayhu/haitang)
+### [gcopy](https://gcopy.rutron.net/zh)
 
-海棠诗社，提供古诗词的数字化收集，可以按照不同方式检索和分类，项目代码完全[开源](https://github.com/javayhu/haitang)：
+一个剪切板同步的工具, 支持文字、截图和文件，使用 `Golang` 和 `Nextjs` 开发. 完全[开源](https://github.com/llaoj/gcopy)，`GCopy` 重视您的数据隐私, 不持久化存储您的数据, 它们都在内存中 `24h` 自动删除：
 
-![haitang](https://images-1252557999.file.myqcloud.com/uPic/haitang.jpg) 
+![gcopy](https://images-1252557999.file.myqcloud.com/uPic/gcopy.jpg) 
 
-### [识典古籍](https://www.shidianguji.com/)
+### [开源许可证选择器](https://open-source-license-chooser.toolsnav.top/zh/)
 
-识典古籍 – 古籍在线阅读平台，北大和抖音合作开发的古籍阅读网站：
+快速明确自己想要的开源许可证：
 
-![shidianguji](https://images-1252557999.file.myqcloud.com/uPic/shidianguji.jpg) 
+![open-source-license-chooser.toolsnav](https://images-1252557999.file.myqcloud.com/uPic/7Zi7pN.png) 
 
-### [macosicons](https://macosicons.com/)
+### [nosh](https://nosh.rocks/)
 
-网站基本上覆盖了热门`Mac APP`图标，你可以选择自己喜欢的图标进行替换，让自己的`Mac`更加漂亮且个性化。
+一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
 
-![macosicons](https://images-1252557999.file.myqcloud.com/uPic/macosicons.png) 
+![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
 
 ## ✍️ 说明
 
