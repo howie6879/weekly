@@ -5,79 +5,93 @@
 
 ## 🎯 项目 
 
-### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
+### [littlelink](https://github.com/sethcottle/littlelink)
 
-相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
+`LittleLink` 是一个开源项目，旨在为用户提供一个简单的方式来创建和托管自己的 `Linktree` 页面。其提供多达 100 种品牌按钮样式，通过社区共享和持续更新，同时强调易用性和可访问性。
 
-如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
+![littlelink](https://images-1252557999.file.myqcloud.com/uPic/yj6EE2.png) 
 
-### [PyFlow](https://github.com/wonderworks-software/PyFlow)
+### [favicon-downloader](https://github.com/seadfeng/favicon-downloader)
 
-可视化脚本框架：
+免费获取网站 `favicon` 的工具:
 
-![PyFlow](https://images-1252557999.file.myqcloud.com/uPic/XEBUdM.jpg) 
+![faviconextractor](https://images-1252557999.file.myqcloud.com/uPic/faviconextractor.jpg) 
 
-### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
+### [linkding](https://github.com/sissbruecker/linkding)
 
-Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
+开源的网络书签服务，支持 Docker 部署：
+
+![linkding](https://images-1252557999.file.myqcloud.com/uPic/linkding.png) 
 
 ## 🤖 软件 
 
-### [biyi](https://github.com/lijy91/biyi)
+### [B站录播姬](https://rec.danmuji.org/)
 
-比译是一个用 `Flutter` 编写的跨平台便捷翻译和词典应用：
+一个方便好用免费开源的哔哩哔哩直播录制工具：
 
-![biyi](https://images-1252557999.file.myqcloud.com/uPic/biyi.jpg) 
+![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
 
-### [thorium-reader](https://github.com/edrlab/thorium-reader)
+### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
 
-`Thorium Reader` 是一款专为 `Windows 10/11、MacOS & Linux` 开发的电子书阅读器：
+安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
 
-![thorium-reader](https://images-1252557999.file.myqcloud.com/uPic/thorium-reader.png) 
+- [美团买菜版本](https://github.com/qulingyuan/robVeg)
+- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
 
-### [MiniSim](https://github.com/okwasniewski/MiniSim)
+### [localsend](https://github.com/localsend/localsend)
 
-一个 Mac 菜单栏软件，可以启动 iOS  或者 Android 🤖虚拟机：
+`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
 
-![MiniSim](https://images-1252557999.file.myqcloud.com/uPic/MiniSim.png) 
+![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
 
 ## 👀 资料 
 
-### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
+### [统计学自学指南](https://xuankaiwang.github.io/)
 
-这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
+这是一本统计的自学指南, 也是作者在数院自学生涯的一个纪念：
 
-### [howtheytest](https://github.com/abhivaikar/howtheytest)
+![XuankaiWang](https://images-1252557999.file.myqcloud.com/uPic/XuankaiWang.jpg) 
 
-关于软件公司如何测试其软件的公共资源集合：
+### [archbase](https://github.com/foxsen/archbase)
 
-![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
 
-### [FudanSELab/Agent4SE-Paper-List](https://github.com/FudanSELab/Agent4SE-Paper-List)
+![archbase](https://images-1252557999.file.myqcloud.com/uPic/dUVvGI.png) 
 
-该仓库由复旦大学软件工程实验室（FudanSELab）创建的，旨在为大型语言模型（LLMs）基础的软件工程代理（Agent）领域提供一个系统的文献综述：
+### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
 
-![Agent4SE-Paper-List](https://images-1252557999.file.myqcloud.com/uPic/uFo2bN.png) 
+这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
+
+- 👋 入门
+- 💬 大语言模型
+	- 💡 提示工程
+	- 🔧 大语言模型实践
+	- 🔬 大语言模型理论
+- 🎨 AI绘画
+- 🔊 AI音频
+- 🌈 多模态
+- 🧠 深度学习
+- 💻 AI系统 
 
 ## 🕸 网站 
 
-### [gcopy](https://gcopy.rutron.net/zh)
+### [screenshot.domains](https://screenshot.domains/)
 
-一个剪切板同步的工具, 支持文字、截图和文件，使用 `Golang` 和 `Nextjs` 开发. 完全[开源](https://github.com/llaoj/gcopy)，`GCopy` 重视您的数据隐私, 不持久化存储您的数据, 它们都在内存中 `24h` 自动删除：
+将域名添加到 `URL` 路径中，获取任何网站的截图：
 
-![gcopy](https://images-1252557999.file.myqcloud.com/uPic/gcopy.jpg) 
+![screenshot](https://images-1252557999.file.myqcloud.com/uPic/XzRlTu.png) 
 
-### [开源许可证选择器](https://open-source-license-chooser.toolsnav.top/zh/)
+### [iconfont](https://www.iconfont.cn/)
 
-快速明确自己想要的开源许可证：
+阿里巴巴矢量图标库：
 
-![open-source-license-chooser.toolsnav](https://images-1252557999.file.myqcloud.com/uPic/7Zi7pN.png) 
+![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
 
-### [nosh](https://nosh.rocks/)
+### [db-fiddle](https://www.db-fiddle.com/)
 
-一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
+免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
 
-![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
+![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
 
 ## ✍️ 说明
 
