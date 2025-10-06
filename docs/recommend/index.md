@@ -5,93 +5,101 @@
 
 ## 🎯 项目 
 
-### [littlelink](https://github.com/sethcottle/littlelink)
+### [qrbtf](https://github.com/ciaochaos/qrbtf)
 
-`LittleLink` 是一个开源项目，旨在为用户提供一个简单的方式来创建和托管自己的 `Linktree` 页面。其提供多达 100 种品牌按钮样式，通过社区共享和持续更新，同时强调易用性和可访问性。
+艺术二维码生成器：
 
-![littlelink](https://images-1252557999.file.myqcloud.com/uPic/yj6EE2.png) 
+![qrbtf](https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg) 
 
-### [favicon-downloader](https://github.com/seadfeng/favicon-downloader)
+### [zane-ops](https://github.com/zane-ops/zane-ops)
 
-免费获取网站 `favicon` 的工具:
+`zaneops` 是一个自托管的平台即服务（PaaS），它提供了一个用于部署和管理 Web 应用、数据库、静态网站等的平台：
 
-![faviconextractor](https://images-1252557999.file.myqcloud.com/uPic/faviconextractor.jpg) 
+- 界面美观、速度快速，完全免费且开源
+- 支持多种服务的部署，包括但不限于 Supabase、WordPress、Ghost 等
 
-### [linkding](https://github.com/sissbruecker/linkding)
+![zaneops](https://images-1252557999.file.myqcloud.com/uPic/mal2TN.png) 
 
-开源的网络书签服务，支持 Docker 部署：
+### [jspaint](https://github.com/1j01/jspaint)
 
-![linkding](https://images-1252557999.file.myqcloud.com/uPic/linkding.png) 
+怀旧画板项目，`JS Paint` 高度逼真地再现了 `MS Paint` 的每一个工具和菜单，甚至是鲜为人知的功能，它支持主题、附加文件类型和辅助功能，如眼睛凝视模式和语音识别：
+
+![jspaint](https://images-1252557999.file.myqcloud.com/uPic/jspaint.jpg)
+
+直接在线体验 👉 [jspaint.app](https://jspaint.app/) 
 
 ## 🤖 软件 
 
-### [B站录播姬](https://rec.danmuji.org/)
+### [notepad--](https://github.com/cxasm/notepad--)
 
-一个方便好用免费开源的哔哩哔哩直播录制工具：
+这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
 
-![B站录播姬](https://images-1252557999.file.myqcloud.com/uPic/B站录播姬.jpg) 
+> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
 
-### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
+![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
 
-安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
+### [Alexandria](https://github.com/btpf/Alexandria)
 
-- [美团买菜版本](https://github.com/qulingyuan/robVeg)
-- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
+一个极简的跨平台电子书阅读器，使用 `Tauri` ❤️ `Epub.js` 构建：
 
-### [localsend](https://github.com/localsend/localsend)
+![Alexandria](https://images-1252557999.file.myqcloud.com/uPic/Alexandria.png) 
 
-`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
+### [yarr](https://github.com/nkanaev/yarr)
 
-![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
+基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
+
+```shell
+mkdir -p ./yarr/data
+docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
+```
+
+总体来说还是挺简洁轻量的：
+
+![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
 
 ## 👀 资料 
 
-### [统计学自学指南](https://xuankaiwang.github.io/)
+### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
 
-这是一本统计的自学指南, 也是作者在数院自学生涯的一个纪念：
+打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
 
-![XuankaiWang](https://images-1252557999.file.myqcloud.com/uPic/XuankaiWang.jpg) 
+![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
 
-### [archbase](https://github.com/foxsen/archbase)
+### [awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)
 
-这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+一个专门收集实用的大型语言模型（LLM）应用示例、教程和食谱的资源库，用于指导开发者使用不同的 AI 框架和工具构建强大的应用程序。从简单的聊天机器人到高级 `AI Agent`，这些项目覆盖了从基础到高级的多种 AI 应用场景。
 
-![archbase](https://images-1252557999.file.myqcloud.com/uPic/dUVvGI.png) 
+![awesome-ai-apps](https://images-1252557999.file.myqcloud.com/uPic/9HwpHf.png) 
 
-### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
+### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
 
-这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
+通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
 
-- 👋 入门
-- 💬 大语言模型
-	- 💡 提示工程
-	- 🔧 大语言模型实践
-	- 🔬 大语言模型理论
-- 🎨 AI绘画
-- 🔊 AI音频
-- 🌈 多模态
-- 🧠 深度学习
-- 💻 AI系统 
+- 通过编写测试学习 Go 语言
+- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
+- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
+
+![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
 
 ## 🕸 网站 
 
-### [screenshot.domains](https://screenshot.domains/)
+### [uisdc.com](https://hao.uisdc.com/)
 
-将域名添加到 `URL` 路径中，获取任何网站的截图：
+设计师网站导航：
 
-![screenshot](https://images-1252557999.file.myqcloud.com/uPic/XzRlTu.png) 
+![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
 
-### [iconfont](https://www.iconfont.cn/)
+### [fmhy.net](https://fmhy.net/)
 
-阿里巴巴矢量图标库：
+帮助用户轻松找到各种免费的工具、服务和学习资源的网站：
 
-![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
+![fmhy.net](https://images-1252557999.file.myqcloud.com/uPic/fwWyWH.png) 
 
-### [db-fiddle](https://www.db-fiddle.com/)
+### [toptimeline](https://toptimeline.net/zh)
 
-免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
+探索世界最著名的流行歌手、运动员和历史人物的关键事件与个人里程碑：
 
-![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
+![toptimeline](https://images-1252557999.file.myqcloud.com/uPic/crwphb.png) 
 
 ## ✍️ 说明
 
