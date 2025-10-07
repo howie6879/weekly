@@ -5,101 +5,103 @@
 
 ## 🎯 项目 
 
-### [qrbtf](https://github.com/ciaochaos/qrbtf)
+### [teable](https://github.com/teableio/teable)
 
-艺术二维码生成器：
+基于 `No-Code` 的下一代 `Airtable` 替代品，它提供了一个类似电子表格的界面来创建强大的数据库应用，支持实时协作，并且能够扩展到数百万行数据：
 
-![qrbtf](https://images-1252557999.file.myqcloud.com/uPic/qrbtf.jpg) 
+![teable](https://images-1252557999.file.myqcloud.com/uPic/wzL3bp.png) 
 
-### [zane-ops](https://github.com/zane-ops/zane-ops)
+### [pi-hole](https://pi-hole.net/)
 
-`zaneops` 是一个自托管的平台即服务（PaaS），它提供了一个用于部署和管理 Web 应用、数据库、静态网站等的平台：
+一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
 
-- 界面美观、速度快速，完全免费且开源
-- 支持多种服务的部署，包括但不限于 Supabase、WordPress、Ghost 等
+![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
 
-![zaneops](https://images-1252557999.file.myqcloud.com/uPic/mal2TN.png) 
+### [KillWxapkg](https://github.com/Ackites/KillWxapkg)
 
-### [jspaint](https://github.com/1j01/jspaint)
-
-怀旧画板项目，`JS Paint` 高度逼真地再现了 `MS Paint` 的每一个工具和菜单，甚至是鲜为人知的功能，它支持主题、附加文件类型和辅助功能，如眼睛凝视模式和语音识别：
-
-![jspaint](https://images-1252557999.file.myqcloud.com/uPic/jspaint.jpg)
-
-直接在线体验 👉 [jspaint.app](https://jspaint.app/) 
+一个用于自动化反编译微信小程序的工具，小程序安全利器，自动解密，解包，可最大程度还原工程目录。 
 
 ## 🤖 软件 
 
-### [notepad--](https://github.com/cxasm/notepad--)
+### [VueTube](https://github.com/VueTubeApp/VueTube)
 
-这是一个使用 `C++` 编写的文本编辑器 `Notepad--` ,可以支持 `Win/Linux/Mac` 平台。 该项目的目标是要替换`Notepad++`，重点在国产 `Uos` 系统、`Mac` 系统上发展。
+轻巧的开放源代码流媒体客户端，旨在再造不同流媒体应用程序的所有功能：
 
-> PS: Notepad++ 作者言论引起了很多爱国主义反感，故有此项目诞生
+- 🎨  **主题**：明亮、黑暗、OLED，以及彩虹中的任何颜色！您可根据您的喜好选择强调色和背景色。
+- 🖌️  **自定义使用者界面**：自定义主题，甚至停用您不使用的一些界面，以获得最佳体验。
+- ⬆️  **自动更新**：有新版本可用时接收通知，如果您不喜欢也可以撤销更新！
+- 👁️  **追踪阻断**：VueTube 默认不会发送任何跟踪数据，亦不使用任何外部 API。隐私是必要的！
+- 📺  **自家制的 HTML5 视频播放器**：内置在应用程序的播放器，拥有您所需的任何功能，例如 16 倍速。
+- 🌍  **翻译**： 本应用程序支持超过 25 种语言！默认语言因您的设备配置而定。 
 
-![notepad--](https://images-1252557999.file.myqcloud.com/uPic/notepad--.png) 
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-### [Alexandria](https://github.com/btpf/Alexandria)
+LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
 
-一个极简的跨平台电子书阅读器，使用 `Tauri` ❤️ `Epub.js` 构建：
+![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
 
-![Alexandria](https://images-1252557999.file.myqcloud.com/uPic/Alexandria.png) 
+### [Rayon](https://github.com/Lakr233/Rayon)
 
-### [yarr](https://github.com/nkanaev/yarr)
+一个`macOS`的上的`SSH`客户端：
 
-基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
+![rayon](https://images-1252557999.file.myqcloud.com/uPic/rayon.png)
 
-```shell
-mkdir -p ./yarr/data
-docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
-```
+软件特性：
 
-总体来说还是挺简洁轻量的：
-
-![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
+- 免费&开源
+- 支持 libssh2 的主机连接
+- Linux proc 文件系统状态信息
+- 使用密码、密钥等进行身份验证...
+- xterm 终端支持
+- 批处理执行代码片段 
 
 ## 👀 资料 
 
-### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
+### [RedHat E-Book](https://developers.redhat.com/e-books)
 
-打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
+`RedHat` 开放的电子书，注册即可查看下载，质量是很不错的：
 
-![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
+![kEvVpP](https://images-1252557999.file.myqcloud.com/uPic/kEvVpP.jpg) 
 
-### [awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)
+### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
 
-一个专门收集实用的大型语言模型（LLM）应用示例、教程和食谱的资源库，用于指导开发者使用不同的 AI 框架和工具构建强大的应用程序。从简单的聊天机器人到高级 `AI Agent`，这些项目覆盖了从基础到高级的多种 AI 应用场景。
+自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
 
-![awesome-ai-apps](https://images-1252557999.file.myqcloud.com/uPic/9HwpHf.png) 
+### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
 
-### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
+**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
 
-通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
+- JS基础语法
+- 核心模块概述
+- 面向对象
+- DOM
+- 计算机网络
+- 设计模式
+- 等等
 
-- 通过编写测试学习 Go 语言
-- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
-- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
+对于前端开发者来说应该是一个非常好的知识库：
 
-![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
+![javascript-guidebook](https://images-1252557999.file.myqcloud.com/uPic/vIsnjD.png) 
 
 ## 🕸 网站 
 
-### [uisdc.com](https://hao.uisdc.com/)
+### [stockai.trade](https://stockai.trade)
 
-设计师网站导航：
+ `AI` 选股分析网站（基于 `ChatGPT`）完全免费，无需注册:
+ 
+ ![stockai](https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg) 
 
-![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
+### [couplet](https://ai.binwang.me/couplet/)
 
-### [fmhy.net](https://fmhy.net/)
+自动对联网站：
 
-帮助用户轻松找到各种免费的工具、服务和学习资源的网站：
+![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
 
-![fmhy.net](https://images-1252557999.file.myqcloud.com/uPic/fwWyWH.png) 
+### [AI Reading Hub](https://www.aireadinghub.com/ "AI Reading Hub")
 
-### [toptimeline](https://toptimeline.net/zh)
+每天精选值得读的 AI 文章：
 
-探索世界最著名的流行歌手、运动员和历史人物的关键事件与个人里程碑：
-
-![toptimeline](https://images-1252557999.file.myqcloud.com/uPic/crwphb.png) 
+![AI Reading Hub](https://images-1252557999.file.myqcloud.com/uPic/YBUidO.png) 
 
 ## ✍️ 说明
 
