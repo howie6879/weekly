@@ -5,103 +5,95 @@
 
 ## 🎯 项目 
 
-### [teable](https://github.com/teableio/teable)
+### [Hakuba](https://github.com/YeungKC/Hakuba)
 
-基于 `No-Code` 的下一代 `Airtable` 替代品，它提供了一个类似电子表格的界面来创建强大的数据库应用，支持实时协作，并且能够扩展到数百万行数据：
+一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
 
-![teable](https://images-1252557999.file.myqcloud.com/uPic/wzL3bp.png) 
+![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
 
-### [pi-hole](https://pi-hole.net/)
+### [GPTs](https://github.com/linexjlin/GPTs)
 
-一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
+这个仓库收集了 GPTs 商店的的提示词，你可以用 3.5 使用，间接拥有 4 才有的功能，还有个类似的项目：[Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) 
 
-![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
+### [MTranServer](https://github.com/xxnuo/MTranServer)
 
-### [KillWxapkg](https://github.com/Ackites/KillWxapkg)
+一个超低资源消耗超快的离线翻译服务器，英译中模型仅需 860MB 内存即可运行，无需显卡。单个请求平均响应时间 50ms。支持全世界主要语言的翻译，翻译质量与 Google 翻译相当。
 
-一个用于自动化反编译微信小程序的工具，小程序安全利器，自动解密，解包，可最大程度还原工程目录。 
+![MTranServer](https://images-1252557999.file.myqcloud.com/uPic/KZywne.png) 
 
 ## 🤖 软件 
 
-### [VueTube](https://github.com/VueTubeApp/VueTube)
+### [alacritty](https://github.com/alacritty/alacritty)
 
-轻巧的开放源代码流媒体客户端，旨在再造不同流媒体应用程序的所有功能：
+一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
 
-- 🎨  **主题**：明亮、黑暗、OLED，以及彩虹中的任何颜色！您可根据您的喜好选择强调色和背景色。
-- 🖌️  **自定义使用者界面**：自定义主题，甚至停用您不使用的一些界面，以获得最佳体验。
-- ⬆️  **自动更新**：有新版本可用时接收通知，如果您不喜欢也可以撤销更新！
-- 👁️  **追踪阻断**：VueTube 默认不会发送任何跟踪数据，亦不使用任何外部 API。隐私是必要的！
-- 📺  **自家制的 HTML5 视频播放器**：内置在应用程序的播放器，拥有您所需的任何功能，例如 16 倍速。
-- 🌍  **翻译**： 本应用程序支持超过 25 种语言！默认语言因您的设备配置而定。 
+我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
 
-LosslessCut (无损切割) 是一个开源完全免费的无损视频或音频的剪切/裁剪/分割/截取和视频合并工具，其可以无损切割大多数视频和音频格式，Windows、Mac 和 Linux都支持。
+### [meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)
 
-![lossless](https://images-1252557999.file.myqcloud.com/uPic/lossless.jpeg) 
+一个免费且开源的本地运行 AI 会议助手，能够实时捕捉会议音频、进行实时转录并生成会议摘要：
 
-### [Rayon](https://github.com/Lakr233/Rayon)
+![meeting-minutes](https://images-1252557999.file.myqcloud.com/uPic/vIWUwe.png) 
 
-一个`macOS`的上的`SSH`客户端：
+### [MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop)
 
-![rayon](https://images-1252557999.file.myqcloud.com/uPic/rayon.png)
+一个插件化、定制化、无广告的免费音乐播放器:
 
-软件特性：
+- 插件化：本软件仅仅是一个播放器，本身并不集成任何平台的任何音源，所有的搜索、播放、歌单导入等功能全部基于插件
+- 插件支持的功能：搜索（音乐、专辑、作者、歌单）、播放、查看专辑、查看作者详细信息、导入单曲、导入歌单、获取歌词等
+- 定制化：本软件可以通过主题包定义软件外观及背景，详见下方主题包一节
+- 无广告：基于 GPL3.0 协议开源，将会保持免费
+- 隐私：软件所有数据存储在本地，本软件不会上传你的个人信息。
 
-- 免费&开源
-- 支持 libssh2 的主机连接
-- Linux proc 文件系统状态信息
-- 使用密码、密钥等进行身份验证...
-- xterm 终端支持
-- 批处理执行代码片段 
+![MusicFreeDesktop](https://images-1252557999.file.myqcloud.com/uPic/MusicFreeDesktop.png) 
 
 ## 👀 资料 
 
-### [RedHat E-Book](https://developers.redhat.com/e-books)
+### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
 
-`RedHat` 开放的电子书，注册即可查看下载，质量是很不错的：
+左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
 
-![kEvVpP](https://images-1252557999.file.myqcloud.com/uPic/kEvVpP.jpg) 
+### [visualize-ml](https://github.com/visualize-ml)
 
-### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
+鸢尾花书：从加减乘除到机器学习，全套7册。
 
-自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
+![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
 
-### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
+### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
 
-**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
-
-- JS基础语法
-- 核心模块概述
-- 面向对象
-- DOM
-- 计算机网络
-- 设计模式
-- 等等
-
-对于前端开发者来说应该是一个非常好的知识库：
-
-![javascript-guidebook](https://images-1252557999.file.myqcloud.com/uPic/vIsnjD.png) 
+一份从头开始建立 `CDN` 知识体系的教程。 
 
 ## 🕸 网站 
 
-### [stockai.trade](https://stockai.trade)
+### [tReader](https://tiansh.github.io/reader/#!/read/1)
 
- `AI` 选股分析网站（基于 `ChatGPT`）完全免费，无需注册:
- 
- ![stockai](https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg) 
+如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
 
-### [couplet](https://ai.binwang.me/couplet/)
+![tReader](https://images-1252557999.file.myqcloud.com/uPic/PMMlRM.jpg)
+基本功能如下：
 
-自动对联网站：
+- 手机端适配，阅读效果优秀
+- 点左上角的添加按钮可以添加文件
+- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
+- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
+- 文件列表，左滑、右键或按Delete可以显示删除按钮
+- 书签
+- 搜索
+- 目录等 
 
-![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
+### [emojimix](https://tikolu.net/emojimix/)
 
-### [AI Reading Hub](https://www.aireadinghub.com/ "AI Reading Hub")
+一个表情融合网站，图一个乐呵，效果如下：
 
-每天精选值得读的 AI 文章：
+![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
 
-![AI Reading Hub](https://images-1252557999.file.myqcloud.com/uPic/YBUidO.png) 
+### [jsont.run](https://www.jsont.run/)
+
+一个简洁的在线 `JSON` 解析器：
+
+![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
 
 ## ✍️ 说明
 
