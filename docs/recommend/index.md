@@ -5,95 +5,88 @@
 
 ## 🎯 项目 
 
-### [Hakuba](https://github.com/YeungKC/Hakuba)
+### [btop](https://github.com/aristocratos/btop)
 
-一个非常快速的博客启动器，通过 `Github Discussion` 数据驱动：
+一款界面酷炫的资源管理器，不过我用htop就够够的了。
 
-![Hakuba](https://images-1252557999.file.myqcloud.com/uPic/Hakuba.png) 
+![btop](https://images-1252557999.file.myqcloud.com/uPic/3eoG1g.jpg) 
 
-### [GPTs](https://github.com/linexjlin/GPTs)
+### Command2API
 
-这个仓库收集了 GPTs 商店的的提示词，你可以用 3.5 使用，间接拥有 4 才有的功能，还有个类似的项目：[Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) 
+这是一个可以实时获取执行命令结果的脚本，脚本原理就是一个线程开启Web服务，一个线程执行命令，通过全局变量与Web服务共享执行命令的结果。
 
-### [MTranServer](https://github.com/xxnuo/MTranServer)
+![Command2API](https://images-1252557999.file.myqcloud.com/uPic/mcMhsP.jpg) 
 
-一个超低资源消耗超快的离线翻译服务器，英译中模型仅需 860MB 内存即可运行，无需显卡。单个请求平均响应时间 50ms。支持全世界主要语言的翻译，翻译质量与 Google 翻译相当。
+### [ladybird](https://github.com/LadybirdBrowser/ladybird)
 
-![MTranServer](https://images-1252557999.file.myqcloud.com/uPic/KZywne.png) 
+`ladybird` 旨在打造一个完全独立的网络浏览器，它不依赖于其他主流浏览器的内核，而是采用自主研发的前端和后端技术。该浏览器强调隐私保护和安全性，提供了一系列功能，如自动化的隐私清理、防止网络追踪等。 
 
 ## 🤖 软件 
 
-### [alacritty](https://github.com/alacritty/alacritty)
+### [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
 
-一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
+就像 Mac 上的 TextEdit 一样，但专注于于 Markdown。
 
-我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
+`MarkEdit` 的特点：
+- 注重隐私：不收集任何用户数据
+- 原生：干净直观
+- 快速：轻松编辑10 MB文件
+- 轻量级：安装程序大小约为3 MB
 
-![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
+![MarkEdit](https://images-1252557999.file.myqcloud.com/uPic/MarkEdit.png) 
 
-### [meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)
+### [Screenbox](https://github.com/huynhsontung/Screenbox)
 
-一个免费且开源的本地运行 AI 会议助手，能够实时捕捉会议音频、进行实时转录并生成会议摘要：
+Screenbox 是一款现代视频播放器，构建在 LibVLCSharp 和通用 Windows 平台 (UWP) 之上，颜值颇高，同时又快速、轻量级。支持在 Windows 10 版本 1903+、Windows 11 和 Xbox 主机上使用:
 
-![meeting-minutes](https://images-1252557999.file.myqcloud.com/uPic/vIWUwe.png) 
+![Screenbox](https://images-1252557999.file.myqcloud.com/uPic/Screenbox.jpg) 
 
-### [MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop)
+### [XcodesApp](https://github.com/XcodesOrg/XcodesApp)
 
-一个插件化、定制化、无广告的免费音乐播放器:
+通过鼠标点击这种简单方式，快速安装和切换多个版本的 `Xcode`：
 
-- 插件化：本软件仅仅是一个播放器，本身并不集成任何平台的任何音源，所有的搜索、播放、歌单导入等功能全部基于插件
-- 插件支持的功能：搜索（音乐、专辑、作者、歌单）、播放、查看专辑、查看作者详细信息、导入单曲、导入歌单、获取歌词等
-- 定制化：本软件可以通过主题包定义软件外观及背景，详见下方主题包一节
-- 无广告：基于 GPL3.0 协议开源，将会保持免费
-- 隐私：软件所有数据存储在本地，本软件不会上传你的个人信息。
-
-![MusicFreeDesktop](https://images-1252557999.file.myqcloud.com/uPic/MusicFreeDesktop.png) 
+![XcodesApp](https://images-1252557999.file.myqcloud.com/uPic/XcodesApp.jpg) 
 
 ## 👀 资料 
 
-### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
+### [uxbaike](https://uxbaike.com/)
 
-左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
+UX 百科，属于设计师的专业知识库：
 
-### [visualize-ml](https://github.com/visualize-ml)
+![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
 
-鸢尾花书：从加减乘除到机器学习，全套7册。
+### [programming-math-science](https://github.com/bobeff/programming-math-science) 
 
-![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
+国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
-### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
+### [react-illustration-series](https://github.com/7kms/react-illustration-series)
 
-一份从头开始建立 `CDN` 知识体系的教程。 
+图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
 
 ## 🕸 网站 
 
-### [tReader](https://tiansh.github.io/reader/#!/read/1)
+### [tinypng](https://tinypng.com/)
 
-如果你喜欢用txt看一些小说，其实没必要非要用软件，这是一个在线网站，PC和手机端都可以使用：
+比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
 
-![tReader](https://images-1252557999.file.myqcloud.com/uPic/PMMlRM.jpg)
-基本功能如下：
+![tinypng](https://images-1252557999.file.myqcloud.com/uPic/8s8ltr.png)
 
-- 手机端适配，阅读效果优秀
-- 点左上角的添加按钮可以添加文件
-- 文件可以从本机、iCloud 或者 OneDrive、MEGA 之类的地方选择
-- 如果文件打开乱码，请考虑使用 UTF-8 保存文件
-- 文件列表，左滑、右键或按Delete可以显示删除按钮
-- 书签
-- 搜索
-- 目录等 
+如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
 
-### [emojimix](https://tikolu.net/emojimix/)
+- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
+- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
 
-一个表情融合网站，图一个乐呵，效果如下：
+### [freegmail](https://freegmail.go24.info/)
 
-![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
+`Gmail` 临时邮箱：
 
-### [jsont.run](https://www.jsont.run/)
+![freegmail](https://images-1252557999.file.myqcloud.com/uPic/EoVxAp.png) 
 
-一个简洁的在线 `JSON` 解析器：
+### [smartexcel](https://www.smartexcel.cc/)
 
-![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
+使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
+
+![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
 
 ## ✍️ 说明
 
