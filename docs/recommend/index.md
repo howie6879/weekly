@@ -5,88 +5,90 @@
 
 ## 🎯 项目 
 
-### [btop](https://github.com/aristocratos/btop)
+### [Kyoo](https://github.com/zoriya/Kyoo)
 
-一款界面酷炫的资源管理器，不过我用htop就够够的了。
+`Kyoo` 是一款开源媒体浏览器，可让您流式传输电影、电视节目或动漫。它是 `Plex、Emby or Jellyfin` 的替代品：
 
-![btop](https://images-1252557999.file.myqcloud.com/uPic/3eoG1g.jpg) 
+![kyoo](https://images-1252557999.file.myqcloud.com/uPic/kyoo.jpg)
 
-### Command2API
+目前产品形态只有 `Web` 和 `Android`。 
 
-这是一个可以实时获取执行命令结果的脚本，脚本原理就是一个线程开启Web服务，一个线程执行命令，通过全局变量与Web服务共享执行命令的结果。
+### [epigram](https://github.com/panda-sandeep/epigram)
 
-![Command2API](https://images-1252557999.file.myqcloud.com/uPic/mcMhsP.jpg) 
+由 AI 驱动的新闻摘要平台，提供个性化新闻源和简洁的新闻摘要：
 
-### [ladybird](https://github.com/LadybirdBrowser/ladybird)
+![epigram](https://images-1252557999.file.myqcloud.com/uPic/8HnhXD.png) 
 
-`ladybird` 旨在打造一个完全独立的网络浏览器，它不依赖于其他主流浏览器的内核，而是采用自主研发的前端和后端技术。该浏览器强调隐私保护和安全性，提供了一系列功能，如自动化的隐私清理、防止网络追踪等。 
+### [groqbook](https://github.com/Bklieger/groqbook)
+
+用 `Groq` 和 `Llama3` 快速生成一本书，它能够根据简短的提示快速生成非小说类书籍的每一章节：
+
+![groqbook](https://images-1252557999.file.myqcloud.com/uPic/groqbook.jpg) 
 
 ## 🤖 软件 
 
-### [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
+### [radishes](https://github.com/radishes-music/radishes)
 
-就像 Mac 上的 TextEdit 一样，但专注于于 Markdown。
+跨平台的无版权音乐平台，支持 `windows / macos / linux / web`：
 
-`MarkEdit` 的特点：
-- 注重隐私：不收集任何用户数据
-- 原生：干净直观
-- 快速：轻松编辑10 MB文件
-- 轻量级：安装程序大小约为3 MB
+![](https://images-1252557999.file.myqcloud.com/uPic/radishes.jpeg) 
 
-![MarkEdit](https://images-1252557999.file.myqcloud.com/uPic/MarkEdit.png) 
+### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
 
-### [Screenbox](https://github.com/huynhsontung/Screenbox)
+`Clash for Android`，具有 `Clash` 的全部特性：
 
-Screenbox 是一款现代视频播放器，构建在 LibVLCSharp 和通用 Windows 平台 (UWP) 之上，颜值颇高，同时又快速、轻量级。支持在 Windows 10 版本 1903+、Windows 11 和 Xbox 主机上使用:
+![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
 
-![Screenbox](https://images-1252557999.file.myqcloud.com/uPic/Screenbox.jpg) 
+### [GodMode](https://github.com/smol-ai/GodMode/)
 
-### [XcodesApp](https://github.com/XcodesOrg/XcodesApp)
+`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
 
-通过鼠标点击这种简单方式，快速安装和切换多个版本的 `Xcode`：
-
-![XcodesApp](https://images-1252557999.file.myqcloud.com/uPic/XcodesApp.jpg) 
+![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
 
 ## 👀 资料 
 
-### [uxbaike](https://uxbaike.com/)
+### [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/index.html)
 
-UX 百科，属于设计师的专业知识库：
+Beej 的 Git 指南教程：
 
-![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
+![Beejgit](https://images-1252557999.file.myqcloud.com/uPic/UAP5Fj.png)
 
-### [programming-math-science](https://github.com/bobeff/programming-math-science) 
+之前推荐过[Beej 的 C 语言超级指南](https://beej.us/guide/bgc/html/split/)，从入门到进阶，基础语法到高级特性：
 
-国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
+![Beej](https://images-1252557999.file.myqcloud.com/uPic/1XOLrv.png) 
 
-### [react-illustration-series](https://github.com/7kms/react-illustration-series)
+### [A Highly Agentic Coding Assistant](https://www.bilibili.com/video/BV1k1bBzTEF5/)
 
-图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
+吴恩达的  Claude Code 视频教程中文版，课程核心在于全面教授如何使用 Claude Code 进行高效的软件开发工作，学完后您将掌握：
+
+- 基础技能掌握：深入学习 Claude Code 的核心功能，包括智能代码分析、自动化测试生成、代码重构优化以及高效调试技巧。
+- 扩展能力建设：学会集成 MCP 服务器来增强开发能力，重点掌握 Playwright 自动化测试和 Figma 设计协作工具的使用方法。 
+
+### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+
+这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
+
+我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
 
 ## 🕸 网站 
 
-### [tinypng](https://tinypng.com/)
+### [transhumans](https://www.transhumans.xyz/)
 
-比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
+免费可商用的人物插图：
 
-![tinypng](https://images-1252557999.file.myqcloud.com/uPic/8s8ltr.png)
+![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
 
-如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
+### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
 
-- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
-- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
+文字生成图片网站，效果和速度都还可以：
 
-### [freegmail](https://freegmail.go24.info/)
+![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
 
-`Gmail` 临时邮箱：
+### [itnext](https://itnext.cn/)
 
-![freegmail](https://images-1252557999.file.myqcloud.com/uPic/EoVxAp.png) 
+一个介绍元宇宙的网站：
 
-### [smartexcel](https://www.smartexcel.cc/)
-
-使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
-
-![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
+![itnext](https://images-1252557999.file.myqcloud.com/uPic/yc7Zhp.png) 
 
 ## ✍️ 说明
 
