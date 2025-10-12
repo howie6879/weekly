@@ -5,85 +5,115 @@
 
 ## 🎯 项目 
 
-### [ecapture](https://github.com/ehids/ecapture)
+### [pyspur](https://github.com/PySpur-Dev/pyspur)
 
-eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
+让用户以视觉化方式快速迭代只能图工作流程的工具，它提供了一个平台，让 AI 工程师能够在不重复基础工作的情况下，快速定义、构建、迭代和部署智能体：
 
-![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
+![pyspur](https://images-1252557999.file.myqcloud.com/uPic/yxko28.png)
 
-### [LightBook](https://github.com/underthestars-zhy/LightBook)
+![pyspur-demo](https://images-1252557999.file.myqcloud.com/uPic/wTbNcf.png)
 
-开源的小说下载脚本项目，输出格式为 `EPUB`：
+- ✅ 测试驱动：构建工作流，运行测试用例，并进行迭代。
+- 👤 人在环路中：持久化工作流，等待人工批准或拒绝。
+- 🔄 循环：具有记忆功能的迭代工具调用。
+- 📤 文件上传：上传文件或粘贴 URL 来处理文档。
+- 📋 结构化输出：JSON Schema UI 编辑器。
+- 🗃️ RAG：解析、分块、嵌入并将数据更新到向量数据库。
+- 🖼️ 多模态：支持视频、图像、音频、文本、代码。
+- 🧰 工具：Slack、Firecrawl.dev、Google Sheets、GitHub 等。
+- 🧪 评估：在真实数据集上评估代理。
+- 🚀 一键部署：发布为 API 并在任意地方集成。
+- 🐍 基于 Python：通过创建单个 Python 文件来添加新节点。
+- 🎛️ 供应商支持：支持超过 100 个 LLM 供应商、嵌入器和向量数据库。 
 
-![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
+### [heti](https://github.com/sivan/heti)
 
-### [unredacter](https://github.com/bishopfox/unredacter)
+赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
-一个还原马赛克图片的原始内容的工具：
+![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
 
-![Unredacter](https://images-1252557999.file.myqcloud.com/uPic/Unredacter.jpg) 
+### [reflex](https://github.com/reflex-dev/reflex)
+
+`Reflex` 是一个使用纯Python构建全栈web应用的库，使用 `Python` 创建高效且可自定义的网页应用程序，几秒钟内即可部署：
+
+- 纯Python - 前端、后端开发全都使用 `Python`，不需要学习 `Javascript`。
+- 完整的灵活性 - `Reflex` 很容易上手, 并且也可以扩展到复杂的应用程序。
+- 立即部署 - 构建后，使用单个命令就能部署应用程序；或者也可以将其托管在您自己的服务器上。 
 
 ## 🤖 软件 
 
-### [ab-download-manager](https://github.com/amir1376/ab-download-manager)
+### [namida](https://github.com/namidaco/namida)
 
-旨在提供比传统下载方式更快下载速度的开源跨平台下载器，界面非常现代化：
+一个美观且功能丰富的音乐和视频播放器，支持 `Youtube`，基于 `Flutter` 技术构建：
 
-![ab-download-manager](https://images-1252557999.file.myqcloud.com/uPic/ECGYnu.png) 
+![namida](https://images-1252557999.file.myqcloud.com/uPic/namida.jpg) 
 
-### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
+### [bloop](https://github.com/BloopAI/bloop)
 
-`Diffusion Bee`是在 `M1 Mac`上本地运行 `Stable Diffusion` 的最简单方法，附带一键安装程序，不需要依赖性或技术知识：
+`bloop` 是一个用 Rust 编写的快速代码搜索引擎，内部集成 `LLM` 大模型，可以快速让你导入一个代码仓库以自然语言形式进行问答，想快速上手一个项目或者文档不怎么够的项目，力荐👀：
 
-![diffusionbee](https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg) 
+![bloop](https://images-1252557999.file.myqcloud.com/uPic/bloop.jpg) 
 
-### [VutronMusic](https://github.com/stark81/VutronMusic)
+### [cicada](https://github.com/mebtte/cicada)
 
-高颜值的跨平台第三方网易云播放器；支持流媒体音乐，如navidrome、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome桌面状态栏歌词显示；支持降调降速等。
+知了, 支持多用户的开源音乐服务：
 
-![VutronMusic](https://images-1252557999.file.myqcloud.com/uPic/mLYjZO.png) 
+- **尊重隐私, 不进行任何数据收集**
+- 支持多用户
+- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
+- 系统媒体和快捷键支持
+- 音乐支持标准音质/超高音质/伴奏以及多份歌词
+- 乐单/播放列表/播放队列音乐数量无限制
+- 支持标注音乐创作来源(翻唱)
+- 支持歌词/歌名/歌手/乐单搜索
+
+![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
 
 ## 👀 资料 
 
-### [Prompt engineering overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+### [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 
-详细介绍了如何通过提示工程来最大化 Claude 4 模型的效能：
+一个精选列表，包含了用于增强 Claude Code 工作流程、生产力和氛围的各种命令、文件和工具：
 
-![Prompt engineering overview](https://images-1252557999.file.myqcloud.com/uPic/d8RFeW.png) 
+![awesome-claude-code](https://images-1252557999.file.myqcloud.com/uPic/HMpvvc.png) 
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+《Software Engineering at Google》的中文翻译版本：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
 
-### [RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide)
+### [Linux 内核教学](https://linux-kernel-labs-zh.xyz/)
 
-颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南：
+本文档包含一系列 `Linux` 内核主题的课程和实验，课程侧重于理论和 `Linux` 内核探索。实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：
 
-![web-visual-bookmark@2x](https://images-1252557999.file.myqcloud.com/uPic/web-visual-bookmark@2x.png) 
+- 主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引
+- 实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示
+
+![linux-kernel-labs-zh](https://images-1252557999.file.myqcloud.com/uPic/linux-kernel-labs-zh.jpg) 
 
 ## 🕸 网站 
 
-### [privacytools.io](https://www.privacytools.io/)
+### [RunningCode](https://github.com/tonyljx/running-leetcode)
 
-大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
+一个算法小工具网站，收录了面试最高频的算法题~ 可以按【题目类型】，【题目出处】，以及【难易程度】去索引，帮助一刷，二刷的同学快速准备算法题。数据都是基于公开数据人工整理 + GPT 进行打标签。
 
-![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
+![running-leetcode](https://images-1252557999.file.myqcloud.com/uPic/running-leetcode.jpg) 
 
-### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
+### [macosicongallery](https://www.macosicongallery.com/)
 
-目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
+专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
 
-![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
+![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
 
-![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
+### [ui.aceternity.com](https://ui.aceternity.com/components)
 
-### [crashcourse](https://crashcourse.club/category)
+网站包含多种前端动态效果，可以一键复制代码使用，同类网站有：
 
-`Crash Course` 10分钟速成课，是 `Hank Green & John Green` `两兄弟在Youtube` 上制作的系列免费课程，包含了历史、文学、计算机、心理学、哲学、化学、生物学、电影等奖金40中科目的速成课，值得一看：
+- https://uiverse.io/
+- https://www.handsome-css.com/
 
-![crashcourse](https://images-1252557999.file.myqcloud.com/uPic/crashcourse.jpg) 
+![aceternity](https://images-1252557999.file.myqcloud.com/uPic/aceternity.jpg) 
 
 ## ✍️ 说明
 
