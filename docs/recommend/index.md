@@ -5,115 +5,101 @@
 
 ## 🎯 项目 
 
-### [pyspur](https://github.com/PySpur-Dev/pyspur)
+### [gemini-cli](https://github.com/google-gemini/gemini-cli)
 
-让用户以视觉化方式快速迭代只能图工作流程的工具，它提供了一个平台，让 AI 工程师能够在不重复基础工作的情况下，快速定义、构建、迭代和部署智能体：
+`Gemini CLI`  是谷歌开源的 `AI` 编程工具，目前来看可以说是免费的：每分钟 60 次请求，每天 1000 次请求：
+ 
+![gemini-cli](https://images-1252557999.file.myqcloud.com/uPic/Zs1LrM.png) 
 
-![pyspur](https://images-1252557999.file.myqcloud.com/uPic/yxko28.png)
+### [markdown-nice](https://github.com/mdnice/markdown-nice)
 
-![pyspur-demo](https://images-1252557999.file.myqcloud.com/uPic/wTbNcf.png)
+有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
 
-- ✅ 测试驱动：构建工作流，运行测试用例，并进行迭代。
-- 👤 人在环路中：持久化工作流，等待人工批准或拒绝。
-- 🔄 循环：具有记忆功能的迭代工具调用。
-- 📤 文件上传：上传文件或粘贴 URL 来处理文档。
-- 📋 结构化输出：JSON Schema UI 编辑器。
-- 🗃️ RAG：解析、分块、嵌入并将数据更新到向量数据库。
-- 🖼️ 多模态：支持视频、图像、音频、文本、代码。
-- 🧰 工具：Slack、Firecrawl.dev、Google Sheets、GitHub 等。
-- 🧪 评估：在真实数据集上评估代理。
-- 🚀 一键部署：发布为 API 并在任意地方集成。
-- 🐍 基于 Python：通过创建单个 Python 文件来添加新节点。
-- 🎛️ 供应商支持：支持超过 100 个 LLM 供应商、嵌入器和向量数据库。 
+> 支持主题设计的 Markdown 编辑器，让排版变 Nice
 
-### [heti](https://github.com/sivan/heti)
+你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
 
-赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
 
-![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
+官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
 
-### [reflex](https://github.com/reflex-dev/reflex)
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
 
-`Reflex` 是一个使用纯Python构建全栈web应用的库，使用 `Python` 创建高效且可自定义的网页应用程序，几秒钟内即可部署：
+### [yakGPT](https://github.com/yakGPT/yakGPT)
 
-- 纯Python - 前端、后端开发全都使用 `Python`，不需要学习 `Javascript`。
-- 完整的灵活性 - `Reflex` 很容易上手, 并且也可以扩展到复杂的应用程序。
-- 立即部署 - 构建后，使用单个命令就能部署应用程序；或者也可以将其托管在您自己的服务器上。 
+一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
+
+![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
 
 ## 🤖 软件 
 
-### [namida](https://github.com/namidaco/namida)
+### [Itsycal](https://www.mowglii.com/itsycal/)
 
-一个美观且功能丰富的音乐和视频播放器，支持 `Youtube`，基于 `Flutter` 技术构建：
+一款简单优雅的 Macos 菜单栏日历：
 
-![namida](https://images-1252557999.file.myqcloud.com/uPic/namida.jpg) 
+![itsycal](https://images-1252557999.file.myqcloud.com/uPic/itsycal.png) 
 
-### [bloop](https://github.com/BloopAI/bloop)
+### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
 
-`bloop` 是一个用 Rust 编写的快速代码搜索引擎，内部集成 `LLM` 大模型，可以快速让你导入一个代码仓库以自然语言形式进行问答，想快速上手一个项目或者文档不怎么够的项目，力荐👀：
+基于 Electron + Vue + ffmpeg 的 GUI：
 
-![bloop](https://images-1252557999.file.myqcloud.com/uPic/bloop.jpg) 
+![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
 
-### [cicada](https://github.com/mebtte/cicada)
+### [Upscayl](https://github.com/upscayl/upscayl)
 
-知了, 支持多用户的开源音乐服务：
+开源免费的跨平台无损图片放大工具：
 
-- **尊重隐私, 不进行任何数据收集**
-- 支持多用户
-- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
-- 系统媒体和快捷键支持
-- 音乐支持标准音质/超高音质/伴奏以及多份歌词
-- 乐单/播放列表/播放队列音乐数量无限制
-- 支持标注音乐创作来源(翻唱)
-- 支持歌词/歌名/歌手/乐单搜索
-
-![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
+![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
 
 ## 👀 资料 
 
-### [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
+### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
 
-一个精选列表，包含了用于增强 Claude Code 工作流程、生产力和氛围的各种命令、文件和工具：
+陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
 
-![awesome-claude-code](https://images-1252557999.file.myqcloud.com/uPic/HMpvvc.png) 
+![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
 
-### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+### [dockerlabs](https://github.com/collabnix/dockerlabs)
 
-《Software Engineering at Google》的中文翻译版本：
+Docker 学习教程：
 
-![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
+- 适用于初中高级别学习者的免费平台
+- 超过500个高度互动的Docker教程和指南
+- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
 
-### [Linux 内核教学](https://linux-kernel-labs-zh.xyz/)
+![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
 
-本文档包含一系列 `Linux` 内核主题的课程和实验，课程侧重于理论和 `Linux` 内核探索。实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：
+### [rosedb](https://github.com/flower-corp/rosedb)
 
-- 主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引
-- 实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示
+`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
 
-![linux-kernel-labs-zh](https://images-1252557999.file.myqcloud.com/uPic/linux-kernel-labs-zh.jpg) 
+![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
+
+作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
 
 ## 🕸 网站 
 
-### [RunningCode](https://github.com/tonyljx/running-leetcode)
+### [最佳平替](https://www.pingti.xyz/)
 
-一个算法小工具网站，收录了面试最高频的算法题~ 可以按【题目类型】，【题目出处】，以及【难易程度】去索引，帮助一刷，二刷的同学快速准备算法题。数据都是基于公开数据人工整理 + GPT 进行打标签。
+同一件商品，不同的搜索词，价格可能会天差地别。这个工具旨在帮助你找到最便宜的搜索词: 输入你想搜索的商品名，AI会给出低价的替代品，结果可能不准，开心就好：）
 
-![running-leetcode](https://images-1252557999.file.myqcloud.com/uPic/running-leetcode.jpg) 
+![pingti](https://images-1252557999.file.myqcloud.com/uPic/pingti.jpg) 
 
-### [macosicongallery](https://www.macosicongallery.com/)
+### [goldprice.fun](https://goldprice.fun/)
 
-专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
+查看国内国际金价，包含各金店品牌：
 
-![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
+![goldprice](https://images-1252557999.file.myqcloud.com/uPic/goldprice.jpg) 
 
-### [ui.aceternity.com](https://ui.aceternity.com/components)
+### [emojicode](https://www.emojicode.org/)
 
-网站包含多种前端动态效果，可以一键复制代码使用，同类网站有：
+这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
 
-- https://uiverse.io/
-- https://www.handsome-css.com/
+![emojicode](https://images-1252557999.file.myqcloud.com/uPic/emojicode.jpg)
 
-![aceternity](https://images-1252557999.file.myqcloud.com/uPic/aceternity.jpg) 
+现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
 
 ## ✍️ 说明
 
