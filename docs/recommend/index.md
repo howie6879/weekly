@@ -5,101 +5,85 @@
 
 ## 🎯 项目 
 
-### [gemini-cli](https://github.com/google-gemini/gemini-cli)
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-`Gemini CLI`  是谷歌开源的 `AI` 编程工具，目前来看可以说是免费的：每分钟 60 次请求，每天 1000 次请求：
- 
-![gemini-cli](https://images-1252557999.file.myqcloud.com/uPic/Zs1LrM.png) 
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-### [markdown-nice](https://github.com/mdnice/markdown-nice)
+ ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
 
-有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
+### [FastGPT](https://github.com/labring/FastGPT)
 
-> 支持主题设计的 Markdown 编辑器，让排版变 Nice
+`FastGPT` 是一个基于 `LLM` 大语言模型的知识库问答系统，提供开箱即用的数据处理、模型调用等能力。同时可以通过 `Flow` 可视化进行工作流编排，从而实现复杂的问答场景：
 
-你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
+![FastGPT](https://images-1252557999.file.myqcloud.com/uPic/FastGPT.jpg) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 
-官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
 
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
-
-### [yakGPT](https://github.com/yakGPT/yakGPT)
-
-一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
-
-![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
+![AI-Writer](https://images-1252557999.file.myqcloud.com/uPic/AI-Writer.jpeg) 
 
 ## 🤖 软件 
 
-### [Itsycal](https://www.mowglii.com/itsycal/)
+### [pilipala](https://github.com/guozhigq/pilipala)
 
-一款简单优雅的 Macos 菜单栏日历：
+使用 `Flutter` 开发的 `BiliBili` 第三方客户端，专为提高用户在观看BiliBili视频时的体验而设计：
 
-![itsycal](https://images-1252557999.file.myqcloud.com/uPic/itsycal.png) 
+![pilipala](https://images-1252557999.file.myqcloud.com/uPic/pilipala.jpg) 
 
-### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
+### [allow-right-click](https://github.com/lunu-bounir/allow-right-click)
 
-基于 Electron + Vue + ffmpeg 的 GUI：
+开源插件，解锁被网站禁用的右键功能，支持多种浏览器：
 
-![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
+![allow-right-click](https://images-1252557999.file.myqcloud.com/uPic/cyZqzu.png)
 
-### [Upscayl](https://github.com/upscayl/upscayl)
+对于这种功能的插件，一定要用开源的，太多插件先免费提供功能，然后偷偷摸摸做些个人信息售卖或者返佣等事情进行盈利。 
 
-开源免费的跨平台无损图片放大工具：
+### [nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension?tab=readme-ov-file)
 
-![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
+免费使用的网页验证码解决方案，能够处理多种类型的 CAPTCHA，包括 reCAPTCHA、FunCAPTCHA、文本 CAPTCHA 和 Cloudflare Turnstile 等。该工具通过高级的深度学习模型通过 NopeCHA API 提供服务，同时还提供浏览器插件：
+
+![nopecha-extension](https://images-1252557999.file.myqcloud.com/uPic/yYSb4x.png) 
 
 ## 👀 资料 
 
-### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
+### [learn-javascript](https://github.com/sumn2u/learn-javascript)
 
-陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
+学习 `javascript` 的开源书籍：
 
-![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
+![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
 
-### [dockerlabs](https://github.com/collabnix/dockerlabs)
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-Docker 学习教程：
+《Mastering GO》中文译本，《玩转 GO》：
 
-- 适用于初中高级别学习者的免费平台
-- 超过500个高度互动的Docker教程和指南
-- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
-![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
+### [How to Make MySQL Better](https://github.com/enhancedformysql/The-Art-of-Problem-Solving-in-Software-Engineering_How-to-Make-MySQL-Better)
 
-### [rosedb](https://github.com/flower-corp/rosedb)
+通过分析 `MySQL` 挑战案例来解决软件工程问题的方法论，旨在帮助读者更好地理解逻辑推理、数据结构、算法等通用概念，并通过实际示例和深入讨论增强对 `MySQL` 性能优化的理解：
 
-`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
-
-![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
-
-作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
+![How to Make MySQL Better](https://images-1252557999.file.myqcloud.com/uPic/OVUkJI.png) 
 
 ## 🕸 网站 
 
-### [最佳平替](https://www.pingti.xyz/)
+### [olocr.com](https://olocr.com)
 
-同一件商品，不同的搜索词，价格可能会天差地别。这个工具旨在帮助你找到最便宜的搜索词: 输入你想搜索的商品名，AI会给出低价的替代品，结果可能不准，开心就好：）
+一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
 
-![pingti](https://images-1252557999.file.myqcloud.com/uPic/pingti.jpg) 
+![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
 
-### [goldprice.fun](https://goldprice.fun/)
+### [transhumans](https://www.transhumans.xyz/)
 
-查看国内国际金价，包含各金店品牌：
+免费可商用的人物插图：
 
-![goldprice](https://images-1252557999.file.myqcloud.com/uPic/goldprice.jpg) 
+![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
 
-### [emojicode](https://www.emojicode.org/)
+### [apk.bot](https://apk.bot/)
 
-这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
+免费无广告的 `APK` 下载网站：
 
-![emojicode](https://images-1252557999.file.myqcloud.com/uPic/emojicode.jpg)
-
-现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
+![apk_bot](https://images-1252557999.file.myqcloud.com/uPic/apk_bot.jpg) 
 
 ## ✍️ 说明
 
