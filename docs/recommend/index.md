@@ -5,85 +5,92 @@
 
 ## 🎯 项目 
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
+### [social-auto-upload](https://github.com/dreammis/social-auto-upload)
 
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili：
 
- ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
+![social-auto-upload](https://images-1252557999.file.myqcloud.com/uPic/social-auto-upload.jpg) 
 
-### [FastGPT](https://github.com/labring/FastGPT)
+### [ecapture](https://github.com/ehids/ecapture)
 
-`FastGPT` 是一个基于 `LLM` 大语言模型的知识库问答系统，提供开箱即用的数据处理、模型调用等能力。同时可以通过 `Flow` 可视化进行工作流编排，从而实现复杂的问答场景：
+eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
 
-![FastGPT](https://images-1252557999.file.myqcloud.com/uPic/FastGPT.jpg) 
+![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
 
-### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
+### [50projects50days](https://github.com/bradtraversy/50projects50days)
 
-AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
 
-![AI-Writer](https://images-1252557999.file.myqcloud.com/uPic/AI-Writer.jpeg) 
+![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
 
 ## 🤖 软件 
 
-### [pilipala](https://github.com/guozhigq/pilipala)
+### [uncle-novel](https://github.com/unclezs/uncle-novel)
 
-使用 `Flutter` 开发的 `BiliBili` 第三方客户端，专为提高用户在观看BiliBili视频时的体验而设计：
+一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
 
-![pilipala](https://images-1252557999.file.myqcloud.com/uPic/pilipala.jpg) 
+![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
 
-### [allow-right-click](https://github.com/lunu-bounir/allow-right-click)
+### [imFile](https://github.com/imfile-io/imfile-desktop)
 
-开源插件，解锁被网站禁用的右键功能，支持多种浏览器：
+`Motrix` 已经很长时间没有更新，同时积累了大量 `issues`，项目基于 `Motrix` 并长期维护更新。`imFile` 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源：
 
-![allow-right-click](https://images-1252557999.file.myqcloud.com/uPic/cyZqzu.png)
+![imfile](https://images-1252557999.file.myqcloud.com/uPic/imfile.jpg) 
 
-对于这种功能的插件，一定要用开源的，太多插件先免费提供功能，然后偷偷摸摸做些个人信息售卖或者返佣等事情进行盈利。 
+### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
 
-### [nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension?tab=readme-ov-file)
+类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
 
-免费使用的网页验证码解决方案，能够处理多种类型的 CAPTCHA，包括 reCAPTCHA、FunCAPTCHA、文本 CAPTCHA 和 Cloudflare Turnstile 等。该工具通过高级的深度学习模型通过 NopeCHA API 提供服务，同时还提供浏览器插件：
-
-![nopecha-extension](https://images-1252557999.file.myqcloud.com/uPic/yYSb4x.png) 
+![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
 
 ## 👀 资料 
 
-### [learn-javascript](https://github.com/sumn2u/learn-javascript)
+### [法律文库](https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html)
 
-学习 `javascript` 的开源书籍：
+以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。
 
-![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
+![justlaws](https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg) 
 
-### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
+### [Curosor 教程](https://www.lookai.top/cn/cursor/instruction/instruction)
 
-《Mastering GO》中文译本，《玩转 GO》：
+零基础小白 `Cursor` 学习网站：
 
-![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
+![Curosor](https://images-1252557999.file.myqcloud.com/uPic/YIZShF.png) 
 
-### [How to Make MySQL Better](https://github.com/enhancedformysql/The-Art-of-Problem-Solving-in-Software-Engineering_How-to-Make-MySQL-Better)
+### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
-通过分析 `MySQL` 挑战案例来解决软件工程问题的方法论，旨在帮助读者更好地理解逻辑推理、数据结构、算法等通用概念，并通过实际示例和深入讨论增强对 `MySQL` 性能优化的理解：
+代码整洁之道（javascript版本）：
 
-![How to Make MySQL Better](https://images-1252557999.file.myqcloud.com/uPic/OVUkJI.png) 
+- [英文版-clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [中文版-clean-code-js](https://github.com/alivebao/clean-code-js) 
 
 ## 🕸 网站 
 
-### [olocr.com](https://olocr.com)
+### [sci-hub](https://sci-hub.se/)
 
-一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
+这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
 
-![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
+> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
 
-### [transhumans](https://www.transhumans.xyz/)
+用户可通过以下方式访问新版本：
 
-免费可商用的人物插图：
+- https://sci-hub.se/
+- https://sci-hub.ru/
+- https://sci-hub.st/
 
-![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png) 
 
-### [apk.bot](https://apk.bot/)
+### [couplet](https://ai.binwang.me/couplet/)
 
-免费无广告的 `APK` 下载网站：
+自动对联网站：
 
-![apk_bot](https://images-1252557999.file.myqcloud.com/uPic/apk_bot.jpg) 
+![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
+
+### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
+
+这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
+
+![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
 
 ## ✍️ 说明
 
