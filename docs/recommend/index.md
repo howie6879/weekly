@@ -5,92 +5,107 @@
 
 ## 🎯 项目 
 
-### [social-auto-upload](https://github.com/dreammis/social-auto-upload)
+### [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
 
-自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili：
+`ArchiveBox` 是一个强大的、可自建的互联网归档解决方案，可以收集、保存和查看你想离线保存的网站：
 
-![social-auto-upload](https://images-1252557999.file.myqcloud.com/uPic/social-auto-upload.jpg) 
+![ArchiveBox](https://images-1252557999.file.myqcloud.com/uPic/ArchiveBox.jpg) 
 
-### [ecapture](https://github.com/ehids/ecapture)
+### [fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
 
-eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
+微软开源的 `Fluent Emoji` 表情包：
 
-![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
+![fluentui-emoji](https://images-1252557999.file.myqcloud.com/uPic/fluentui-emoji.webp) 
 
-### [50projects50days](https://github.com/bradtraversy/50projects50days)
+### [melody](https://github.com/foamzou/melody)
 
-50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
+你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
 
-![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
+主要特性为：
+
+- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
+- 用链接搜索歌曲
+- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
+
+比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
+
+![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
 
 ## 🤖 软件 
 
-### [uncle-novel](https://github.com/unclezs/uncle-novel)
+### [little-rat](https://github.com/dnakov/little-rat)
 
-一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
+Little Rat 是一款开源的 Chrome 扩展，用于实时监测其它的 Chrome 扩展联网情况，并可以选择阻止联网，防止恶意扩展：
 
-![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
+![little-rat](https://images-1252557999.file.myqcloud.com/uPic/little-rat.webp) 
 
-### [imFile](https://github.com/imfile-io/imfile-desktop)
+### [rubick](https://github.com/rubickCenter/rubick)
 
-`Motrix` 已经很长时间没有更新，同时积累了大量 `issues`，项目基于 `Motrix` 并长期维护更新。`imFile` 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源：
+基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
 
-![imfile](https://images-1252557999.file.myqcloud.com/uPic/imfile.jpg) 
+- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
+- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
+- 支持全局快捷键设置。
+- 支持剪贴板文件搜索。
+- 支持搜索本地安装的应用程序或偏好设置。
+- 支持MacOS。
+- 支持Windows。
+- 支持Linux。
 
-### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
+![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
 
-类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
+### [logseq](https://github.com/logseq/logseq)
 
-![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
+Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
+
+![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
 
 ## 👀 资料 
 
-### [法律文库](https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html)
+### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
 
-以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。
+收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
 
-![justlaws](https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg) 
+![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
 
-### [Curosor 教程](https://www.lookai.top/cn/cursor/instruction/instruction)
+### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
 
-零基础小白 `Cursor` 学习网站：
+通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
 
-![Curosor](https://images-1252557999.file.myqcloud.com/uPic/YIZShF.png) 
+- 通过编写测试学习 Go 语言
+- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
+- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
 
-### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
 
-代码整洁之道（javascript版本）：
+### [easy-rl](https://github.com/datawhalechina/easy-rl)
 
-- [英文版-clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-- [中文版-clean-code-js](https://github.com/alivebao/clean-code-js) 
+强化学习中文教程：
+
+![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
 
 ## 🕸 网站 
 
-### [sci-hub](https://sci-hub.se/)
+### [freelancethings](https://www.freelancethings.co/)
 
-这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
+为自由职业者精心挑选的资源，涉及到社区、工具、文章、书籍、视频等，这些都帮助你在自由职业之旅中获得更多帮助，订阅后每周发送到您的收件箱:
 
-> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
+![freelancethings](https://images-1252557999.file.myqcloud.com/uPic/freelancethings.jpg) 
 
-用户可通过以下方式访问新版本：
+### [tgscan](https://tgscan.xyz/)
 
-- https://sci-hub.se/
-- https://sci-hub.ru/
-- https://sci-hub.st/
+免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png) 
+- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
+- 网页：[tgscan.xyz](https://tgscan.xyz/)
 
-### [couplet](https://ai.binwang.me/couplet/)
+![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
 
-自动对联网站：
+### [cikeee](https://www.cikeee.com/)
 
-![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
+每天推荐一部优秀的电影：
 
-### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
-
-这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
-
-![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
 ## ✍️ 说明
 
