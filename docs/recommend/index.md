@@ -5,107 +5,95 @@
 
 ## 🎯 项目 
 
-### [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
+### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
 
-`ArchiveBox` 是一个强大的、可自建的互联网归档解决方案，可以收集、保存和查看你想离线保存的网站：
+`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
 
-![ArchiveBox](https://images-1252557999.file.myqcloud.com/uPic/ArchiveBox.jpg) 
+![LuckysheetDemo](https://images-1252557999.file.myqcloud.com/uPic/LuckysheetDemo.gif) 
 
-### [fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
+### [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
 
-微软开源的 `Fluent Emoji` 表情包：
+为你的 `PDF` 文档打造一个 `ChatGPT` 聊天机器人，可以理解成 `ChatPDF` 的开源替代版，项目里面的代码实现可以好好研究：
 
-![fluentui-emoji](https://images-1252557999.file.myqcloud.com/uPic/fluentui-emoji.webp) 
+![chatpdf](https://images-1252557999.file.myqcloud.com/uPic/chatpdf.jpg) 
 
-### [melody](https://github.com/foamzou/melody)
+### [cloudbak](https://github.com/likeflyme/cloudbak)
 
-你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘。
+云朵备份是一个微信云备份程序【仅支持 windows】，使用云朵备份可以将微信数据备份到服务器，通过浏览器访问数据，你可以像正常使用微信一样浏览数据和搜索数据（参考微信网页版）。
 
-主要特性为：
-
-- 支持在各大音乐和视频网站检索歌曲。目前支持 咪咕、网易云、QQ 音乐、酷狗、bilibili 等站点
-- 用链接搜索歌曲
-- 一键**解锁**无法播放的歌曲（实验性功能，目前仅支持网易云）
-
-比如搜索周杰伦的青花瓷，可以直接播放且上传到云盘：
-
-![melody](https://images-1252557999.file.myqcloud.com/uPic/melody.jpg) 
+![cloudbak](https://images-1252557999.file.myqcloud.com/uPic/k1QNE0.png) 
 
 ## 🤖 软件 
 
-### [little-rat](https://github.com/dnakov/little-rat)
+### [scrcpy](https://github.com/Genymobile/scrcpy)
 
-Little Rat 是一款开源的 Chrome 扩展，用于实时监测其它的 Chrome 扩展联网情况，并可以选择阻止联网，防止恶意扩展：
+在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
 
-![little-rat](https://images-1252557999.file.myqcloud.com/uPic/little-rat.webp) 
+它专注于：
 
-### [rubick](https://github.com/rubickCenter/rubick)
+- 轻量 (原生，仅显示设备屏幕)
+- 性能 (30~60fps)
+- 质量 (分辨率可达 1920×1080 或更高)
+- 低延迟 (35~70ms)
+- 快速启动 (最快 1 秒内即可显示第一帧)
+- 无侵入性 (不会在设备上遗留任何程序) 
 
-基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
+### [kobi](https://github.com/niuhuan/kobi)
 
-- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
-- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
-- 支持全局快捷键设置。
-- 支持剪贴板文件搜索。
-- 支持搜索本地安装的应用程序或偏好设置。
-- 支持MacOS。
-- 支持Windows。
-- 支持Linux。
+一个简洁大方的跨平台漫画客户端：
 
-![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
+![0ZQlSW](https://images-1252557999.file.myqcloud.com/uPic/0ZQlSW.png) 
 
-### [logseq](https://github.com/logseq/logseq)
+### [notesnook](https://github.com/streetwriters/notesnook)
 
-Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
+印象笔记的开源替代品（支持端对端加密）：
 
-![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
+![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
 
 ## 👀 资料 
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
 
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
 
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
 
-### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
+### [learnmoderncpp](https://learnmoderncpp.com/)
 
-通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
+现代 C++学习教程：
 
-- 通过编写测试学习 Go 语言
-- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
-- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
+![learnmoderncpp](https://images-1252557999.file.myqcloud.com/uPic/learnmoderncpp.jpg) 
 
-![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
+### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
+C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
 
-强化学习中文教程：
-
-![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
+![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
 
 ## 🕸 网站 
 
-### [freelancethings](https://www.freelancethings.co/)
+### [最佳平替](https://www.pingti.xyz/)
 
-为自由职业者精心挑选的资源，涉及到社区、工具、文章、书籍、视频等，这些都帮助你在自由职业之旅中获得更多帮助，订阅后每周发送到您的收件箱:
+同一件商品，不同的搜索词，价格可能会天差地别。这个工具旨在帮助你找到最便宜的搜索词: 输入你想搜索的商品名，AI会给出低价的替代品，结果可能不准，开心就好：）
 
-![freelancethings](https://images-1252557999.file.myqcloud.com/uPic/freelancethings.jpg) 
+![pingti](https://images-1252557999.file.myqcloud.com/uPic/pingti.jpg) 
 
-### [tgscan](https://tgscan.xyz/)
+### [appbaseio/mirage](https://opensource.appbase.io/mirage/)
 
-免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
+这是一个用于简化 `ES` 查询语句编写的开源项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句：
 
-- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
-- 网页：[tgscan.xyz](https://tgscan.xyz/)
+- 开源代码地址：[https://github.com/appbaseio/mirage](https://github.com/appbaseio/mirage)
+- 访问地址： [https://opensource.appbase.io/mirage/](https://opensource.appbase.io/mirage/)
 
-![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
+当然你也可以本机自行部署，非常方便，比较遗憾的是目前只支持到 `-v7.x`：
 
-### [cikeee](https://www.cikeee.com/)
+![mirage](https://images-1252557999.file.myqcloud.com/uPic/mirage.png) 
 
-每天推荐一部优秀的电影：
+### [emoji](https://github.com/cbh123/emoji)
 
-![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
+用人工智能制作表情符号，在线地址👉https://emojigen.com/：
+
+![emojigen](https://images-1252557999.file.myqcloud.com/uPic/emojigen.jpg) 
 
 ## ✍️ 说明
 
