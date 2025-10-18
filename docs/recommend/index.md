@@ -5,95 +5,92 @@
 
 ## 🎯 项目 
 
-### [Luckysheet](https://github.com/mengshukeji/Luckysheet)
+### [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)
 
-`Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源：
+老胡最近整的开源项目，从[技术周刊精选](https://www.fre123.com/weekly/)到[信息流](https://www.fre123.com/tech)，和前端朋友一起梳理出了个通用的排版并开源出来，欢迎大家使用和提出建议:
 
-![LuckysheetDemo](https://images-1252557999.file.myqcloud.com/uPic/LuckysheetDemo.gif) 
+![fre123-info-flow-demo](https://images-1252557999.file.myqcloud.com/uPic/fre123-info-flow-demo.jpg) 
 
-### [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
+### [siri-ultra](https://github.com/fatwang2/siri-ultra)
 
-为你的 `PDF` 文档打造一个 `ChatGPT` 聊天机器人，可以理解成 `ChatPDF` 的开源替代版，项目里面的代码实现可以好好研究：
+`Siri Ultra` 是一个能在 `iPhone` 上使用的 AI 聊天快捷指令，无需下载任何软件即可体验到最新的大模型：
 
-![chatpdf](https://images-1252557999.file.myqcloud.com/uPic/chatpdf.jpg) 
+- 通过 Siri 实时语音对话，也可以直接运行快捷指令进行文字对话
+- 兼容各种大模型，包括 OpenAI、Gemini、DeepSeek 等
+- 支持联网搜索（需单独配置搜索 key）
+- 支持网页总结 （链接发给快捷指令即可） 
 
-### [cloudbak](https://github.com/likeflyme/cloudbak)
+### [TrendRadar](https://github.com/sansan0/TrendRadar)
 
-云朵备份是一个微信云备份程序【仅支持 windows】，使用云朵备份可以将微信数据备份到服务器，通过浏览器访问数据，你可以像正常使用微信一样浏览数据和搜索数据（参考微信网页版）。
+热门新闻聚合分析工具 - 自媒体微信公众号等新闻类文章辅助工具，支持今日头条、百度热搜、微博、抖音、知乎、B 站、财联社等11个中文热门平台，分析关键词频率，生成报告并支持飞书推送等。持续追踪热点变化。
 
-![cloudbak](https://images-1252557999.file.myqcloud.com/uPic/k1QNE0.png) 
+![TrendRadar](https://images-1252557999.file.myqcloud.com/uPic/Z4m5Ox.png) 
 
 ## 🤖 软件 
 
-### [scrcpy](https://github.com/Genymobile/scrcpy)
+### [SwiftBar](https://github.com/swiftbar/SwiftBar)
 
-在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
+一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
 
-它专注于：
+![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
 
-- 轻量 (原生，仅显示设备屏幕)
-- 性能 (30~60fps)
-- 质量 (分辨率可达 1920×1080 或更高)
-- 低延迟 (35~70ms)
-- 快速启动 (最快 1 秒内即可显示第一帧)
-- 无侵入性 (不会在设备上遗留任何程序) 
+### [ntchat](https://github.com/smallevilbeast/ntchat)
 
-### [kobi](https://github.com/niuhuan/kobi)
+微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
 
-一个简洁大方的跨平台漫画客户端：
+- 基于pc微信的api接口, 类似itchat项目
+- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
+- 支持好友和群管理 
 
-![0ZQlSW](https://images-1252557999.file.myqcloud.com/uPic/0ZQlSW.png) 
+### [Hail](https://github.com/aistra0528/Hail)
 
-### [notesnook](https://github.com/streetwriters/notesnook)
+雹(Hail) 是一个允许用户在没有 root 权限的情况下，通过冻结、隐藏、暂停或卸载来管理 Android 应用的自由软件：
 
-印象笔记的开源替代品（支持端对端加密）：
-
-![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
+![Hail](https://images-1252557999.file.myqcloud.com/uPic/nhaDp1.png) 
 
 ## 👀 资料 
 
-### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
+### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
 
-《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
+本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
 
-![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
+- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
+- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
+- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
 
-### [learnmoderncpp](https://learnmoderncpp.com/)
+![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
 
-现代 C++学习教程：
+### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
 
-![learnmoderncpp](https://images-1252557999.file.myqcloud.com/uPic/learnmoderncpp.jpg) 
+[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
 
-### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+目前也提供了中文版：
 
-C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
+![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
 
-![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
+### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
+
+精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
 
 ## 🕸 网站 
 
-### [最佳平替](https://www.pingti.xyz/)
+### [ideogram.ai](https://ideogram.ai/)
 
-同一件商品，不同的搜索词，价格可能会天差地别。这个工具旨在帮助你找到最便宜的搜索词: 输入你想搜索的商品名，AI会给出低价的替代品，结果可能不准，开心就好：）
+免费无次数限制的文字转图片网页：
 
-![pingti](https://images-1252557999.file.myqcloud.com/uPic/pingti.jpg) 
+![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
 
-### [appbaseio/mirage](https://opensource.appbase.io/mirage/)
+### [freegmail](https://freegmail.go24.info/)
 
-这是一个用于简化 `ES` 查询语句编写的开源项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句：
+`Gmail` 临时邮箱：
 
-- 开源代码地址：[https://github.com/appbaseio/mirage](https://github.com/appbaseio/mirage)
-- 访问地址： [https://opensource.appbase.io/mirage/](https://opensource.appbase.io/mirage/)
+![freegmail](https://images-1252557999.file.myqcloud.com/uPic/EoVxAp.png) 
 
-当然你也可以本机自行部署，非常方便，比较遗憾的是目前只支持到 `-v7.x`：
+### [favoree.io](https://www.favoree.io/)
 
-![mirage](https://images-1252557999.file.myqcloud.com/uPic/mirage.png) 
+`YT` 频道探索发现导航网站，做得很精细，用户可以对频道进行评分和评论，这有助于构建一个由社区驱动的信任体系。网站提供了简单的过滤器，使用户能够根据兴趣、内容质量、视频时长和观众情绪等因素来搜索和发现新的频道和视频。
 
-### [emoji](https://github.com/cbh123/emoji)
-
-用人工智能制作表情符号，在线地址👉https://emojigen.com/：
-
-![emojigen](https://images-1252557999.file.myqcloud.com/uPic/emojigen.jpg) 
+![favoree](https://images-1252557999.file.myqcloud.com/uPic/favoree.jpg) 
 
 ## ✍️ 说明
 
