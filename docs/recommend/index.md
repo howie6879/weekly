@@ -5,92 +5,106 @@
 
 ## 🎯 项目 
 
-### [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)
+### [AudioNotes](https://github.com/harry0703/AudioNotes)
 
-老胡最近整的开源项目，从[技术周刊精选](https://www.fre123.com/weekly/)到[信息流](https://www.fre123.com/tech)，和前端朋友一起梳理出了个通用的排版并开源出来，欢迎大家使用和提出建议:
+基于 `FunASR&Qwen2` 构建的音视频转结构化笔记系统，能够快速提取音视频的内容，并且调用大模型进行整理，成为一份结构化的 `markdown` 笔记，方便快速阅读：
 
-![fre123-info-flow-demo](https://images-1252557999.file.myqcloud.com/uPic/fre123-info-flow-demo.jpg) 
+![AudioNotes](https://images-1252557999.file.myqcloud.com/uPic/AudioNotes.jpg) 
 
-### [siri-ultra](https://github.com/fatwang2/siri-ultra)
+### [nexus-terminal](https://github.com/Heavrnl/nexus-terminal)
 
-`Siri Ultra` 是一个能在 `iPhone` 上使用的 AI 聊天快捷指令，无需下载任何软件即可体验到最新的大模型：
+一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。
 
-- 通过 Siri 实时语音对话，也可以直接运行快捷指令进行文字对话
-- 兼容各种大模型，包括 OpenAI、Gemini、DeepSeek 等
-- 支持联网搜索（需单独配置搜索 key）
-- 支持网页总结 （链接发给快捷指令即可） 
+![nexus-terminal](https://images-1252557999.file.myqcloud.com/uPic/d56IVQ.png) 
 
-### [TrendRadar](https://github.com/sansan0/TrendRadar)
+### [ChatGemini](https://github.com/bclswl0827/ChatGemini)
 
-热门新闻聚合分析工具 - 自媒体微信公众号等新闻类文章辅助工具，支持今日头条、百度热搜、微博、抖音、知乎、B 站、财联社等11个中文热门平台，分析关键词频率，生成报告并支持飞书推送等。持续追踪热点变化。
+`ChatGemini` 是一个基于 `Google Gemini` 的网页客户端，对标 `ChatGPT 3.5`，操作逻辑同 `ChatGPT 3.5` 一致，同时支持在聊天中上传图片，应用会自动调用 `Gemini-Pro-Vision` 模型进行识图：
 
-![TrendRadar](https://images-1252557999.file.myqcloud.com/uPic/Z4m5Ox.png) 
+- 适配移动端
+- 支持多 API 密钥分流
+- 操作逻辑同 ChatGPT
+- 仿 ChatGPT 3.5 界面
+- 支持多轮聊天对话
+- 支持上传图片进行识别
+- 逐字输出（SSE）回应
+- 集成 PHP 版反向代理
+- 自定义 Gemini API 地址
+- 可启用站点通行码防止滥用
+- 聊天内容导出（HTML 和 PDF）
+- 对话内容保存在 IndexedDB 中
+
+![ChatGemini](https://images-1252557999.file.myqcloud.com/uPic/ChatGemini.jpg)
+
+如果不想部署，可以直接使用搭建好的免费 Gemini：[https://gemini-pro.chat](https://gemini-pro.chat/) 
 
 ## 🤖 软件 
 
-### [SwiftBar](https://github.com/swiftbar/SwiftBar)
+### [BetterNCM](https://github.com/MicroCBer/BetterNCM)
 
-一个开源工具，可以定制 Mac 电脑的菜单栏，通过简单的步骤在 `macOS` 上添加自定义菜单栏程序，提供大量小组件：
+`BetterNCM` 是一个由一群热爱网易云音乐的云村村友开发的 `PC` 版网易云音乐扩展工具，工具通过DLL注入，以插件形式加载至网易云音乐客户端，具有更改主题、增强操作、精简客户端等实用功能：
 
-![SwiftBar](https://images-1252557999.file.myqcloud.com/uPic/SwiftBar.jpg) 
+![BetterNCM](https://images-1252557999.file.myqcloud.com/uPic/BetterNCM.png) 
 
-### [ntchat](https://github.com/smallevilbeast/ntchat)
+### [AingDesk](https://github.com/aingdesk/AingDesk "AingDesk")
 
-微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
+`AingDesk` 是一款简单好用的 AI 助手，支持知识库、模型 API、分享、联网搜索、智能体：
 
-- 基于pc微信的api接口, 类似itchat项目
-- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
-- 支持好友和群管理 
+![AingDesk](https://images-1252557999.file.myqcloud.com/uPic/1DjXWY.png) 
 
-### [Hail](https://github.com/aistra0528/Hail)
+### [uncle-novel](https://github.com/unclezs/uncle-novel)
 
-雹(Hail) 是一个允许用户在没有 root 权限的情况下，通过冻结、隐藏、暂停或卸载来管理 Android 应用的自由软件：
+一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
 
-![Hail](https://images-1252557999.file.myqcloud.com/uPic/nhaDp1.png) 
+![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
 
 ## 👀 资料 
 
-### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
+### [awesome-ai-directory](https://github.com/iAmCorey/awesome-ai-directory)
 
-本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
+💡 收录优质AI工具导航及开发学习资源聚合平台，这个列表致力于收集和整理各类优秀的AI相关资源网站，包括但不限于：
 
-- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
-- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
-- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
+- AI工具收录导航
+- AI模型接口资源
+- AI学习资料资源
+- AI新闻趋势聚合
 
-![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
+![awesome-ai-directory](https://images-1252557999.file.myqcloud.com/uPic/0m1IbQ.png) 
 
-### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
+### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
-[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
+本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
 
-目前也提供了中文版：
+### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
 
-![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
-
-### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
-
-精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
+从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
 
 ## 🕸 网站 
 
-### [ideogram.ai](https://ideogram.ai/)
+### [collagemaker.tools](https://collagemaker.tools/)
 
-免费无次数限制的文字转图片网页：
+群友 **@37丫37** 开发免费在线拼图工具，纯前端客户端渲染，提供布局拼图和长图拼接两大核心模式。支持在画布自由添加、编辑、缩放和移动文字、箭头、方框、圆圈等创意对象。所有操作均在本地完成，完全免费、无需登录、注重隐私，无水印高清下载。
 
-![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
+![collagemaker](https://images-1252557999.file.myqcloud.com/uPic/fl3v1N.png)
 
-### [freegmail](https://freegmail.go24.info/)
+PS:原来域名是：https://img.ops-coffee.cn/ 现在改成 https://collagemaker.tools ，看样子是更加专业且认真地在维护这个小产品。 
 
-`Gmail` 临时邮箱：
+### [send.internxt.com](https://send.internxt.com/)
 
-![freegmail](https://images-1252557999.file.myqcloud.com/uPic/EoVxAp.png) 
+文件上传分享网站，如果有临时文件传输的场景，可以使用：
 
-### [favoree.io](https://www.favoree.io/)
+![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
 
-`YT` 频道探索发现导航网站，做得很精细，用户可以对频道进行评分和评论，这有助于构建一个由社区驱动的信任体系。网站提供了简单的过滤器，使用户能够根据兴趣、内容质量、视频时长和观众情绪等因素来搜索和发现新的频道和视频。
+### [aosabook](http://aosabook.org/en/index.html)
 
-![favoree](https://images-1252557999.file.myqcloud.com/uPic/favoree.jpg) 
+网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
+
+- ZeroMQ
+- Chrome
+- Nginx
+- 等等
+
+上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
 
 ## ✍️ 说明
 
