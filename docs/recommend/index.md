@@ -5,106 +5,101 @@
 
 ## 🎯 项目 
 
-### [AudioNotes](https://github.com/harry0703/AudioNotes)
+### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
 
-基于 `FunASR&Qwen2` 构建的音视频转结构化笔记系统，能够快速提取音视频的内容，并且调用大模型进行整理，成为一份结构化的 `markdown` 笔记，方便快速阅读：
+`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
 
-![AudioNotes](https://images-1252557999.file.myqcloud.com/uPic/AudioNotes.jpg) 
+![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
 
-### [nexus-terminal](https://github.com/Heavrnl/nexus-terminal)
+### [Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese)
 
-一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。
+专注于 `Llama` 模型在中文方面的优化和上层建设的高级技术社区，基于大规模中文数据，从预训练开始对 `Llama2` 模型进行中文能力的持续迭代升级，完全开源可商用：
 
-![nexus-terminal](https://images-1252557999.file.myqcloud.com/uPic/d56IVQ.png) 
+![Llama-Chinese](https://images-1252557999.file.myqcloud.com/uPic/Llama-Chinese.jpg)
 
-### [ChatGemini](https://github.com/bclswl0827/ChatGemini)
+![atom_chatbot](https://images-1252557999.file.myqcloud.com/uPic/atom_chatbot.jpg) 
 
-`ChatGemini` 是一个基于 `Google Gemini` 的网页客户端，对标 `ChatGPT 3.5`，操作逻辑同 `ChatGPT 3.5` 一致，同时支持在聊天中上传图片，应用会自动调用 `Gemini-Pro-Vision` 模型进行识图：
+### [picx](https://github.com/XPoet/picx "picx")
 
-- 适配移动端
-- 支持多 API 密钥分流
-- 操作逻辑同 ChatGPT
-- 仿 ChatGPT 3.5 界面
-- 支持多轮聊天对话
-- 支持上传图片进行识别
-- 逐字输出（SSE）回应
-- 集成 PHP 版反向代理
-- 自定义 Gemini API 地址
-- 可启用站点通行码防止滥用
-- 聊天内容导出（HTML 和 PDF）
-- 对话内容保存在 IndexedDB 中
+`PicX` 是一款基于 `GitHub API` 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务：
 
-![ChatGemini](https://images-1252557999.file.myqcloud.com/uPic/ChatGemini.jpg)
+![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg)
 
-如果不想部署，可以直接使用搭建好的免费 Gemini：[https://gemini-pro.chat](https://gemini-pro.chat/) 
+类似项目：
+
+- [telegraph](https://github.com/0-RTT/telegraph "telegraph")
+- [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image "Telegraph-Image"):免费图片托管解决方案，`Flickr/imgur` 替代品
+- [rao-pics](https://github.com/meetqy/rao-pics "rao-pics"):利用 `Eagle APP` 快速搭建图片站、
+
+但是老胡建议不要滥用，这种也不稳定，自己偶尔测试需要可以使用一下，推荐出来也是让朋友们多个选择。我推荐自建图床：
+
+- [lsky-pro](https://github.com/lsky-org/lsky-pro "lsky-pro")：兰空图床
+- [EasyImages2.0](https://github.com/icret/EasyImages2.0 "EasyImages2.0")：简单图床 - 一款功能强大无数据库的图床 2.0 版
+- [PicList](https://github.com/Kuingsmile/PicList "PicList")：图片上传 云存储管理
+- [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed "quickly-picture-bed")：轻快图床：使用 nestjs+vue3.x+ts+vite 开发的在线图床系统，内置功能包括图片上传、图片管理、存储桶管理、相册管理、插件市场、知识库管理、数据统计等功能 
 
 ## 🤖 软件 
 
-### [BetterNCM](https://github.com/MicroCBer/BetterNCM)
+### [VeraCrypt](https://veracrypt.fr/en/Home.html)
 
-`BetterNCM` 是一个由一群热爱网易云音乐的云村村友开发的 `PC` 版网易云音乐扩展工具，工具通过DLL注入，以插件形式加载至网易云音乐客户端，具有更改主题、增强操作、精简客户端等实用功能：
+`VeraCrypt` 是一款著名的跨平台、开源磁盘加密工具：
 
-![BetterNCM](https://images-1252557999.file.myqcloud.com/uPic/BetterNCM.png) 
+![VeraCrypt](https://images-1252557999.file.myqcloud.com/uPic/VeraCrypt.jpg) 
 
-### [AingDesk](https://github.com/aingdesk/AingDesk "AingDesk")
+### [chatbox](https://github.com/Bin-Huang/chatbox)
 
-`AingDesk` 是一款简单好用的 AI 助手，支持知识库、模型 API、分享、联网搜索、智能体：
+开源的 `ChatGPT API (OpenAI API)` 桌面客户端，`Prompt` 的调试与管理工具，支持 `Windows、Mac 和 Linux`：
 
-![AingDesk](https://images-1252557999.file.myqcloud.com/uPic/1DjXWY.png) 
+![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.png) 
 
-### [uncle-novel](https://github.com/unclezs/uncle-novel)
+### [bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)
 
-一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说，兼容 Windows、macOS、Linux 等操作系统。
+一款基于 `Flutter` 开发的跨平台面端 B 站视频下载器：
 
-![uncle-novel](https://images-1252557999.file.myqcloud.com/uPic/ciiKWp.jpg) 
+![bilivideo_down](https://images-1252557999.file.myqcloud.com/uPic/bilivideo_down.jpg) 
 
 ## 👀 资料 
 
-### [awesome-ai-directory](https://github.com/iAmCorey/awesome-ai-directory)
+### [linux-command](https://github.com/jaywcjlove/linux-command)
 
-💡 收录优质AI工具导航及开发学习资源聚合平台，这个列表致力于收集和整理各类优秀的AI相关资源网站，包括但不限于：
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
 
-- AI工具收录导航
-- AI模型接口资源
-- AI学习资料资源
-- AI新闻趋势聚合
+![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
 
-![awesome-ai-directory](https://images-1252557999.file.myqcloud.com/uPic/0m1IbQ.png) 
+### [visualize-ml](https://github.com/visualize-ml)
 
-### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+鸢尾花书：从加减乘除到机器学习，全套7册。
 
-本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
+![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
 
-### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
+### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
 
-从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
+这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
+
+之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.com/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
 
 ## 🕸 网站 
 
-### [collagemaker.tools](https://collagemaker.tools/)
+### [darebee](https://darebee.com/)
 
-群友 **@37丫37** 开发免费在线拼图工具，纯前端客户端渲染，提供布局拼图和长图拼接两大核心模式。支持在画布自由添加、编辑、缩放和移动文字、箭头、方框、圆圈等创意对象。所有操作均在本地完成，完全免费、无需登录、注重隐私，无水印高清下载。
+一个教你正确运动姿势的网站：
 
-![collagemaker](https://images-1252557999.file.myqcloud.com/uPic/fl3v1N.png)
+![darebee](https://images-1252557999.file.myqcloud.com/uPic/eIHdyQ.png) 
 
-PS:原来域名是：https://img.ops-coffee.cn/ 现在改成 https://collagemaker.tools ，看样子是更加专业且认真地在维护这个小产品。 
+### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
 
-### [send.internxt.com](https://send.internxt.com/)
+作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
 
-文件上传分享网站，如果有临时文件传输的场景，可以使用：
+![](https://images-1252557999.file.myqcloud.com/uPic/bdd-3d.png)
 
-![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
 
-### [aosabook](http://aosabook.org/en/index.html)
+感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
 
-网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
+### [apivault.dev](https://apivault.dev/)
 
-- ZeroMQ
-- Chrome
-- Nginx
-- 等等
+免费开源的公共 `API` 网站：
 
-上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
+![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
 
 ## ✍️ 说明
 
