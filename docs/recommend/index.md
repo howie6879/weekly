@@ -5,101 +5,100 @@
 
 ## 🎯 项目 
 
-### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
+### [cadvisor](https://github.com/google/cadvisor)
 
-`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
+一个免费开源的容器监控工具，可以实时统计容器运行时占用的资源：
 
-![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
+- CPU 利用率
+- 内存使用量
+- 网络传输等信息
 
-### [Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese)
+同时提供了 Web 可视化页面，支持 `prometheus` 格式输出，非常优秀。
 
-专注于 `Llama` 模型在中文方面的优化和上层建设的高级技术社区，基于大规模中文数据，从预训练开始对 `Llama2` 模型进行中文能力的持续迭代升级，完全开源可商用：
+![cadvisor](https://images-1252557999.file.myqcloud.com/uPic/cadvisor.jpg)
 
-![Llama-Chinese](https://images-1252557999.file.myqcloud.com/uPic/Llama-Chinese.jpg)
+如果使用过程有镜像代理问题，可以参考 [gcr.io_mirror](https://github.com/anjia0532/gcr.io_mirror) 项目。 
 
-![atom_chatbot](https://images-1252557999.file.myqcloud.com/uPic/atom_chatbot.jpg) 
+### [czkawka](https://github.com/qarmin/czkawka)
 
-### [picx](https://github.com/XPoet/picx "picx")
+一款简单、快速和免费的开源跨平台应用程序，可以从您的计算机中删除不必要的文件。
 
-`PicX` 是一款基于 `GitHub API` 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务：
+支持扫描计算机上重复、空文件夹、大文件、相似图像/视频/音乐、无效/损坏文件等内容，扫描速度极快。
 
-![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg)
+![czkawka](https://images-1252557999.file.myqcloud.com/uPic/czkawka.jpg) 
 
-类似项目：
+### [wails](https://wails.io/)
 
-- [telegraph](https://github.com/0-RTT/telegraph "telegraph")
-- [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image "Telegraph-Image"):免费图片托管解决方案，`Flickr/imgur` 替代品
-- [rao-pics](https://github.com/meetqy/rao-pics "rao-pics"):利用 `Eagle APP` 快速搭建图片站、
+最近发现不少开源软件是基于 `Go` 语言，顺藤摸瓜发现了 `[wails](https://wails.io/)`，它可以帮你使用 `Go` 构建漂亮的跨平台应用程序：
 
-但是老胡建议不要滥用，这种也不稳定，自己偶尔测试需要可以使用一下，推荐出来也是让朋友们多个选择。我推荐自建图床：
-
-- [lsky-pro](https://github.com/lsky-org/lsky-pro "lsky-pro")：兰空图床
-- [EasyImages2.0](https://github.com/icret/EasyImages2.0 "EasyImages2.0")：简单图床 - 一款功能强大无数据库的图床 2.0 版
-- [PicList](https://github.com/Kuingsmile/PicList "PicList")：图片上传 云存储管理
-- [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed "quickly-picture-bed")：轻快图床：使用 nestjs+vue3.x+ts+vite 开发的在线图床系统，内置功能包括图片上传、图片管理、存储桶管理、相册管理、插件市场、知识库管理、数据统计等功能 
+![wails](https://images-1252557999.file.myqcloud.com/uPic/wails.jpg) 
 
 ## 🤖 软件 
 
-### [VeraCrypt](https://veracrypt.fr/en/Home.html)
+### [gopeed](https://github.com/GopeedLab/gopeed)
 
-`VeraCrypt` 是一款著名的跨平台、开源磁盘加密工具：
+`Gopeed`（全称 `Go Speed`），是一款由 `Golang+Flutter` 开发的高速下载器，支持（`HTTP、BitTorrent、Magnet`）协议下载，并且支持全平台使用：
 
-![VeraCrypt](https://images-1252557999.file.myqcloud.com/uPic/VeraCrypt.jpg) 
+![gopeed](https://images-1252557999.file.myqcloud.com/uPic/gopeed.jpg) 
 
-### [chatbox](https://github.com/Bin-Huang/chatbox)
+### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
 
-开源的 `ChatGPT API (OpenAI API)` 桌面客户端，`Prompt` 的调试与管理工具，支持 `Windows、Mac 和 Linux`：
+一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
 
-![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.png) 
+- 配置app启动默认输入法。
+- app来回切换，保持app切出前的使用的输入法。
+- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
+- 悬浮窗口支持
 
-### [bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)
+![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
 
-一款基于 `Flutter` 开发的跨平台面端 B 站视频下载器：
+### [pdfarranger](https://github.com/pdfarranger/pdfarranger)
 
-![bilivideo_down](https://images-1252557999.file.myqcloud.com/uPic/bilivideo_down.jpg) 
+一个小巧开源免费的 `Python-GTK` 应用程序，可以帮助用户使用交互和直观的图形界面合并或拆分 `PDF` 文档，并旋转、裁剪和重新排列页面：
+
+![pdfarranger](https://images-1252557999.file.myqcloud.com/uPic/pdfarranger.png) 
 
 ## 👀 资料 
 
-### [linux-command](https://github.com/jaywcjlove/linux-command)
+### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 
-Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
+GitHub开源项目维护协作指南：
 
-![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
+![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
 
-### [visualize-ml](https://github.com/visualize-ml)
+### [easy-rl](https://github.com/datawhalechina/easy-rl)
 
-鸢尾花书：从加减乘除到机器学习，全套7册。
+强化学习中文教程：
 
-![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
+![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
 
-### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
+### [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
 
-这个开源项目的在于统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
+[《Effective Modern C++ 》](https://cntransgroup.github.io/EffectiveModernCppChinese/)翻译：
 
-之前也推给一个类似的项目：[中文写作风格-zh-style-guide](https://weekly.howie6879.com/2022/05-02~05-07.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC038%E6%9C%9F%EF%BC%89.html?h=%E6%8E%92%E7%89%88#zh-style-guide) 
+![EffectiveModernCppChinese](https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg) 
 
 ## 🕸 网站 
 
-### [darebee](https://darebee.com/)
+### [handsome-css](https://www.handsome-css.com/)
 
-一个教你正确运动姿势的网站：
+网站主旨在于收集网上仅靠 `CSS` 与 `HTML` 就可以实现的动效 `UI`，目的是为了提高开发者的审美和技术：
 
-![darebee](https://images-1252557999.file.myqcloud.com/uPic/eIHdyQ.png) 
+![handsome-css3](https://images-1252557999.file.myqcloud.com/uPic/handsome-css3.jpg)
 
-### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
+项目开源在：[handsome-css3-lib](https://github.com/ZiYi0414/handsome-css3-lib)。 
 
-作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
+### [AI 头像生成器](https://ai-headshot-generator.net/cn)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/bdd-3d.png)
+在线创建最佳 AI 头像：
 
+![ai-headshot-generator.net](https://images-1252557999.file.myqcloud.com/uPic/DVnp5s.png) 
 
-感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
+### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
 
-### [apivault.dev](https://apivault.dev/)
+老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
 
-免费开源的公共 `API` 网站：
-
-![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
+![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
 
 ## ✍️ 说明
 
