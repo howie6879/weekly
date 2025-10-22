@@ -5,100 +5,97 @@
 
 ## 🎯 项目 
 
-### [cadvisor](https://github.com/google/cadvisor)
+### [Youtu-agent](https://github.com/Tencent/Youtu-agent)
 
-一个免费开源的容器监控工具，可以实时统计容器运行时占用的资源：
+Youtu-agent 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，例如数据分析、文件处理和深度研究：
 
-- CPU 利用率
-- 内存使用量
-- 网络传输等信息
+- 验证性能：在 WebWalkerQA 上达到 71.47% 的 pass@1，在 GAIA（纯文本子集）上达到 72.8% 的 pass@1，纯粹使用 DeepSeek-V3 系列模型（不使用 Claude 或 GPT），建立了强大的开源起点。
+- 开源友好且成本敏感：针对可访问、低成本部署进行了优化，不依赖封闭模型。
+- 实际用例：开箱即用地支持 CSV 分析、文献综述、个人文件整理以及播客和视频生成等任务。（即将推出）
+- 灵活的架构：基于 openai-agents 构建，可兼容各种模型 API（从 DeepSeek 到 gpt-oss）、工具集成和框架实现。
 
-同时提供了 Web 可视化页面，支持 `prometheus` 格式输出，非常优秀。
+![Youtu](https://images-1252557999.file.myqcloud.com/uPic/Fmf3nY.png) 
 
-![cadvisor](https://images-1252557999.file.myqcloud.com/uPic/cadvisor.jpg)
+### [cloudbak](https://github.com/likeflyme/cloudbak)
 
-如果使用过程有镜像代理问题，可以参考 [gcr.io_mirror](https://github.com/anjia0532/gcr.io_mirror) 项目。 
+云朵备份是一个微信云备份程序【仅支持 windows】，使用云朵备份可以将微信数据备份到服务器，通过浏览器访问数据，你可以像正常使用微信一样浏览数据和搜索数据（参考微信网页版）。
 
-### [czkawka](https://github.com/qarmin/czkawka)
+![cloudbak](https://images-1252557999.file.myqcloud.com/uPic/k1QNE0.png) 
 
-一款简单、快速和免费的开源跨平台应用程序，可以从您的计算机中删除不必要的文件。
+### [picx](https://github.com/XPoet/picx "picx")
 
-支持扫描计算机上重复、空文件夹、大文件、相似图像/视频/音乐、无效/损坏文件等内容，扫描速度极快。
+`PicX` 是一款基于 `GitHub API` 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务：
 
-![czkawka](https://images-1252557999.file.myqcloud.com/uPic/czkawka.jpg) 
+![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg)
 
-### [wails](https://wails.io/)
+类似项目：
 
-最近发现不少开源软件是基于 `Go` 语言，顺藤摸瓜发现了 `[wails](https://wails.io/)`，它可以帮你使用 `Go` 构建漂亮的跨平台应用程序：
+- [telegraph](https://github.com/0-RTT/telegraph "telegraph")
+- [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image "Telegraph-Image"):免费图片托管解决方案，`Flickr/imgur` 替代品
+- [rao-pics](https://github.com/meetqy/rao-pics "rao-pics"):利用 `Eagle APP` 快速搭建图片站、
 
-![wails](https://images-1252557999.file.myqcloud.com/uPic/wails.jpg) 
+但是老胡建议不要滥用，这种也不稳定，自己偶尔测试需要可以使用一下，推荐出来也是让朋友们多个选择。我推荐自建图床：
+
+- [lsky-pro](https://github.com/lsky-org/lsky-pro "lsky-pro")：兰空图床
+- [EasyImages2.0](https://github.com/icret/EasyImages2.0 "EasyImages2.0")：简单图床 - 一款功能强大无数据库的图床 2.0 版
+- [PicList](https://github.com/Kuingsmile/PicList "PicList")：图片上传 云存储管理
+- [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed "quickly-picture-bed")：轻快图床：使用 nestjs+vue3.x+ts+vite 开发的在线图床系统，内置功能包括图片上传、图片管理、存储桶管理、相册管理、插件市场、知识库管理、数据统计等功能 
 
 ## 🤖 软件 
 
-### [gopeed](https://github.com/GopeedLab/gopeed)
+### [GodMode](https://github.com/smol-ai/GodMode/)
 
-`Gopeed`（全称 `Go Speed`），是一款由 `Golang+Flutter` 开发的高速下载器，支持（`HTTP、BitTorrent、Magnet`）协议下载，并且支持全平台使用：
+`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
 
-![gopeed](https://images-1252557999.file.myqcloud.com/uPic/gopeed.jpg) 
+![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
 
-### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+### [Xit](https://github.com/Uncommon/Xit)
 
-一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
+`Mac OS`下开源免费的原生`Git`客户端 ：
 
-- 配置app启动默认输入法。
-- app来回切换，保持app切出前的使用的输入法。
-- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
-- 悬浮窗口支持
+![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
 
-![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
+### [licecap](https://github.com/justinfrankel/licecap)
 
-### [pdfarranger](https://github.com/pdfarranger/pdfarranger)
-
-一个小巧开源免费的 `Python-GTK` 应用程序，可以帮助用户使用交互和直观的图形界面合并或拆分 `PDF` 文档，并旋转、裁剪和重新排列页面：
-
-![pdfarranger](https://images-1252557999.file.myqcloud.com/uPic/pdfarranger.png) 
+LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
 
 ## 👀 资料 
 
-### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+### [计算机底层的秘密](https://github.com/webxiaohua/gitbook)
 
-GitHub开源项目维护协作指南：
+以图解的方式通俗易懂地讲解计算机系统中各项技术的本质，包括编程语言的本质是什么、操作系统、进程线程协程等的本质是什么、到底什么是内存、什么是堆区栈区、内存分配等是怎么一回事、怎样从晶体管构建出CPU、I/O是如何实现的等等，从根源出发，一步步讲解一项技术到底是怎么来的，同时内容可视化——辅助大量精心设计的插图，几乎做到了平均一页有一图，把对技术的理解门槛尽量降低-[在线阅读](https://www.bookstack.cn/read/webxiaohua-gitbook/1.-ni-guan-zhe-po-wan-yi-jiao-cpu.md)(需要pdf可联系我私发)：
 
-![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
+![计算机底层的秘密](https://images-1252557999.file.myqcloud.com/uPic/计算机底层的秘密.jpg) 
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
+### [react-illustration-series](https://github.com/7kms/react-illustration-series)
 
-强化学习中文教程：
+图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
 
-![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
+### [大李敖全集5.0](https://books.leeao.net/)
 
-### [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
+大李敖全集：
 
-[《Effective Modern C++ 》](https://cntransgroup.github.io/EffectiveModernCppChinese/)翻译：
-
-![EffectiveModernCppChinese](https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg) 
+![leeao](https://images-1252557999.file.myqcloud.com/uPic/UDFeW1.png) 
 
 ## 🕸 网站 
 
-### [handsome-css](https://www.handsome-css.com/)
+### [aitdk](https://aitdk.com/zh-CN/)
 
-网站主旨在于收集网上仅靠 `CSS` 与 `HTML` 就可以实现的动效 `UI`，目的是为了提高开发者的审美和技术：
+AI标题、描述和关键词生成器，为您的网站生成SEO友好的标题、描述和关键词：
 
-![handsome-css3](https://images-1252557999.file.myqcloud.com/uPic/handsome-css3.jpg)
+![aitdk](https://images-1252557999.file.myqcloud.com/uPic/aitdk.jpg) 
 
-项目开源在：[handsome-css3-lib](https://github.com/ZiYi0414/handsome-css3-lib)。 
+### [lexica.art](https://lexica.art/)
 
-### [AI 头像生成器](https://ai-headshot-generator.net/cn)
+可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
 
-在线创建最佳 AI 头像：
+![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
 
-![ai-headshot-generator.net](https://images-1252557999.file.myqcloud.com/uPic/DVnp5s.png) 
+### [最佳平替](https://www.pingti.xyz/)
 
-### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
+同一件商品，不同的搜索词，价格可能会天差地别。这个工具旨在帮助你找到最便宜的搜索词: 输入你想搜索的商品名，AI会给出低价的替代品，结果可能不准，开心就好：）
 
-老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
-
-![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
+![pingti](https://images-1252557999.file.myqcloud.com/uPic/pingti.jpg) 
 
 ## ✍️ 说明
 
