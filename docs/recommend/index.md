@@ -5,6 +5,18 @@
 
 ## 🎯 项目 
 
+### [groqbook](https://github.com/Bklieger/groqbook)
+
+用 `Groq` 和 `Llama3` 快速生成一本书，它能够根据简短的提示快速生成非小说类书籍的每一章节：
+
+![groqbook](https://images-1252557999.file.myqcloud.com/uPic/groqbook.jpg) 
+
+### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
+
+`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
+
+![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
+
 ### [Youtu-agent](https://github.com/Tencent/Youtu-agent)
 
 Youtu-agent 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，例如数据分析、文件处理和深度研究：
@@ -16,86 +28,72 @@ Youtu-agent 是一个灵活、高性能的框架，用于构建、运行和评�
 
 ![Youtu](https://images-1252557999.file.myqcloud.com/uPic/Fmf3nY.png) 
 
-### [cloudbak](https://github.com/likeflyme/cloudbak)
-
-云朵备份是一个微信云备份程序【仅支持 windows】，使用云朵备份可以将微信数据备份到服务器，通过浏览器访问数据，你可以像正常使用微信一样浏览数据和搜索数据（参考微信网页版）。
-
-![cloudbak](https://images-1252557999.file.myqcloud.com/uPic/k1QNE0.png) 
-
-### [picx](https://github.com/XPoet/picx "picx")
-
-`PicX` 是一款基于 `GitHub API` 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务：
-
-![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg)
-
-类似项目：
-
-- [telegraph](https://github.com/0-RTT/telegraph "telegraph")
-- [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image "Telegraph-Image"):免费图片托管解决方案，`Flickr/imgur` 替代品
-- [rao-pics](https://github.com/meetqy/rao-pics "rao-pics"):利用 `Eagle APP` 快速搭建图片站、
-
-但是老胡建议不要滥用，这种也不稳定，自己偶尔测试需要可以使用一下，推荐出来也是让朋友们多个选择。我推荐自建图床：
-
-- [lsky-pro](https://github.com/lsky-org/lsky-pro "lsky-pro")：兰空图床
-- [EasyImages2.0](https://github.com/icret/EasyImages2.0 "EasyImages2.0")：简单图床 - 一款功能强大无数据库的图床 2.0 版
-- [PicList](https://github.com/Kuingsmile/PicList "PicList")：图片上传 云存储管理
-- [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed "quickly-picture-bed")：轻快图床：使用 nestjs+vue3.x+ts+vite 开发的在线图床系统，内置功能包括图片上传、图片管理、存储桶管理、相册管理、插件市场、知识库管理、数据统计等功能 
-
 ## 🤖 软件 
 
-### [GodMode](https://github.com/smol-ai/GodMode/)
+### [NetMount](https://github.com/VirtualHotBar/NetMount)
 
-`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
+统一管理和挂载云存储设施，免费开源，跨平台支持，基于 `Rust + TypeScript + Tauri + React + Vite`：
 
-![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
+![NetMount](https://images-1252557999.file.myqcloud.com/uPic/NetMount.png) 
 
-### [Xit](https://github.com/Uncommon/Xit)
+### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
 
-`Mac OS`下开源免费的原生`Git`客户端 ：
+> 让每个人都简单方便的使用前沿人工智能技术
 
-![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
+一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
 
-### [licecap](https://github.com/justinfrankel/licecap)
+![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
 
-LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
+### [Klee](https://github.com/signerlabs/Klee)
+
+通过内置的 `RAG` 知识库和 `Markdown` 笔记支持，在您的桌面上安全本地人工智能：
+
+![Klee](https://images-1252557999.file.myqcloud.com/uPic/AYykm3.png) 
 
 ## 👀 资料 
 
-### [计算机底层的秘密](https://github.com/webxiaohua/gitbook)
+### [True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu)
 
-以图解的方式通俗易懂地讲解计算机系统中各项技术的本质，包括编程语言的本质是什么、操作系统、进程线程协程等的本质是什么、到底什么是内存、什么是堆区栈区、内存分配等是怎么一回事、怎样从晶体管构建出CPU、I/O是如何实现的等等，从根源出发，一步步讲解一项技术到底是怎么来的，同时内容可视化——辅助大量精心设计的插图，几乎做到了平均一页有一图，把对技术的理解门槛尽量降低-[在线阅读](https://www.bookstack.cn/read/webxiaohua-gitbook/1.-ni-guan-zhe-po-wan-yi-jiao-cpu.md)(需要pdf可联系我私发)：
+🔥诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
 
-![计算机底层的秘密](https://images-1252557999.file.myqcloud.com/uPic/计算机底层的秘密.jpg) 
+![True-Story-of-Pangu](https://images-1252557999.file.myqcloud.com/uPic/0aCPFn.png) 
 
-### [react-illustration-series](https://github.com/7kms/react-illustration-series)
+### [rust-course](https://github.com/sunface/rust-course)
 
-图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
+> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
 
-### [大李敖全集5.0](https://books.leeao.net/)
+![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
 
-大李敖全集：
+阅读地址见[course.rs](https://course.rs)。 
 
-![leeao](https://images-1252557999.file.myqcloud.com/uPic/UDFeW1.png) 
+### [WangRongsheng](https://github.com/WangRongsheng/awesome-LLM-resourses)
+
+一个全面的 LLM 资源汇总，旨在提供数据处理、微调、推理、评估、体验、知识库、智能体、搜索、书籍、课程、教程和论文等方面的工具和文档。 
 
 ## 🕸 网站 
 
-### [aitdk](https://aitdk.com/zh-CN/)
+### [scrnshts.club](https://scrnshts.club/)
 
-AI标题、描述和关键词生成器，为您的网站生成SEO友好的标题、描述和关键词：
+收集 App 在应用商店中做宣传用的截图，很有意思：
 
-![aitdk](https://images-1252557999.file.myqcloud.com/uPic/aitdk.jpg) 
+![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
 
-### [lexica.art](https://lexica.art/)
+### [appbaseio/mirage](https://opensource.appbase.io/mirage/)
 
-可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
+这是一个用于简化 `ES` 查询语句编写的开源项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句：
 
-![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
+- 开源代码地址：[https://github.com/appbaseio/mirage](https://github.com/appbaseio/mirage)
+- 访问地址： [https://opensource.appbase.io/mirage/](https://opensource.appbase.io/mirage/)
 
-### [最佳平替](https://www.pingti.xyz/)
+当然你也可以本机自行部署，非常方便，比较遗憾的是目前只支持到 `-v7.x`：
 
-同一件商品，不同的搜索词，价格可能会天差地别。这个工具旨在帮助你找到最便宜的搜索词: 输入你想搜索的商品名，AI会给出低价的替代品，结果可能不准，开心就好：）
+![mirage](https://images-1252557999.file.myqcloud.com/uPic/mirage.png) 
 
-![pingti](https://images-1252557999.file.myqcloud.com/uPic/pingti.jpg) 
+### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
+
+一份新冠预防及治疗指南：
+
+![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
 
 ## ✍️ 说明
 
