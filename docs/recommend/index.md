@@ -5,95 +5,96 @@
 
 ## 🎯 项目 
 
-### [groqbook](https://github.com/Bklieger/groqbook)
+### [gorse](https://github.com/zhenghaoz/gorse)
 
-用 `Groq` 和 `Llama3` 快速生成一本书，它能够根据简短的提示快速生成非小说类书籍的每一章节：
+用 Go 编写的开源推荐系统，Gorse 的目标是成为一个通用的开源推荐系统，可以迅速地引入到各种各样的在线服务中。通过将项目、用户和交互数据导入 Gorse，系统将自动训练模型，为每个用户生成推荐。
 
-![groqbook](https://images-1252557999.file.myqcloud.com/uPic/groqbook.jpg) 
+![gorse](https://images-1252557999.file.myqcloud.com/uPic/nP2kgE.jpg)
 
-### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
+作者还基于`gorse`写了个`Python`项目示例：[gitrec](https://github.com/zhenghaoz/gitrec)，根据你历史的`Github`项目，从热榜里面推荐你可能喜欢的项目：
 
-`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
+![gitrec](https://images-1252557999.file.myqcloud.com/uPic/jAuEdM.jpg) 
 
-![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
+### [showdoc](https://github.com/star7th/showdoc)
 
-### [Youtu-agent](https://github.com/Tencent/Youtu-agent)
+一个非常适合IT团队的在线API文档、技术文档工具:
 
-Youtu-agent 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，例如数据分析、文件处理和深度研究：
+![showdoc](https://images-1252557999.file.myqcloud.com/uPic/showdoc.jpg) 
 
-- 验证性能：在 WebWalkerQA 上达到 71.47% 的 pass@1，在 GAIA（纯文本子集）上达到 72.8% 的 pass@1，纯粹使用 DeepSeek-V3 系列模型（不使用 Claude 或 GPT），建立了强大的开源起点。
-- 开源友好且成本敏感：针对可访问、低成本部署进行了优化，不依赖封闭模型。
-- 实际用例：开箱即用地支持 CSV 分析、文献综述、个人文件整理以及播客和视频生成等任务。（即将推出）
-- 灵活的架构：基于 openai-agents 构建，可兼容各种模型 API（从 DeepSeek 到 gpt-oss）、工具集成和框架实现。
+### [cloudbak](https://github.com/likeflyme/cloudbak)
 
-![Youtu](https://images-1252557999.file.myqcloud.com/uPic/Fmf3nY.png) 
+云朵备份是一个微信云备份程序【仅支持 windows】，使用云朵备份可以将微信数据备份到服务器，通过浏览器访问数据，你可以像正常使用微信一样浏览数据和搜索数据（参考微信网页版）。
+
+![cloudbak](https://images-1252557999.file.myqcloud.com/uPic/k1QNE0.png) 
 
 ## 🤖 软件 
 
-### [NetMount](https://github.com/VirtualHotBar/NetMount)
+### [obs-studio](https://github.com/obsproject/obs-studio)
 
-统一管理和挂载云存储设施，免费开源，跨平台支持，基于 `Rust + TypeScript + Tauri + React + Vite`：
+免费开源的专业屏幕录制+视频串流直播软件，包含视频录制、屏幕录像、音频录制、直播推流等功能。
 
-![NetMount](https://images-1252557999.file.myqcloud.com/uPic/NetMount.png) 
+![obs-studio](https://images-1252557999.file.myqcloud.com/uPic/2asRCI.png) 
 
-### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
+### [xplorer](https://github.com/kimlimjustin/xplorer)
 
-> 让每个人都简单方便的使用前沿人工智能技术
+支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
 
-一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
+- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
+- 现代化且易用
+- 多种格式文件预览，音频也可以
+- ...
 
-![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
+![xplorer](https://images-1252557999.file.myqcloud.com/uPic/iLpUeJ.jpg)
 
-### [Klee](https://github.com/signerlabs/Klee)
+在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
 
-通过内置的 `RAG` 知识库和 `Markdown` 笔记支持，在您的桌面上安全本地人工智能：
+### [jingmo](https://github.com/hefengbao/jingmo)
 
-![Klee](https://images-1252557999.file.myqcloud.com/uPic/AYykm3.png) 
+『京墨』开源免费的古诗词文（名句）、歇后语、成语、传统节日、绕口令等的阅读 `APP`：
+
+![jingmo](https://images-1252557999.file.myqcloud.com/uPic/EL9mYu.png) 
 
 ## 👀 资料 
 
-### [True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu)
+### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
 
-🔥诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
+重新分类 Leetcode 高频题 2021 版
 
-![True-Story-of-Pangu](https://images-1252557999.file.myqcloud.com/uPic/0aCPFn.png) 
+- 题目按照面试频率降序排列
+- 增加难度分类，适合从简单开始学习
+- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
 
-### [rust-course](https://github.com/sunface/rust-course)
+### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
 
-> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
+机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
 
-![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
+![openmlsys](https://images-1252557999.file.myqcloud.com/uPic/openmlsys.jpg) 
 
-阅读地址见[course.rs](https://course.rs)。 
+### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
 
-### [WangRongsheng](https://github.com/WangRongsheng/awesome-LLM-resourses)
+一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
 
-一个全面的 LLM 资源汇总，旨在提供数据处理、微调、推理、评估、体验、知识库、智能体、搜索、书籍、课程、教程和论文等方面的工具和文档。 
+![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
 
 ## 🕸 网站 
 
-### [scrnshts.club](https://scrnshts.club/)
+### [goldprice.fun](https://goldprice.fun/)
 
-收集 App 在应用商店中做宣传用的截图，很有意思：
+查看国内国际金价，包含各金店品牌：
 
-![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
+![goldprice](https://images-1252557999.file.myqcloud.com/uPic/goldprice.jpg) 
 
-### [appbaseio/mirage](https://opensource.appbase.io/mirage/)
+### [纸砚双拼](https://blog.simplenaive.cn/shuangpin/#/)
 
-这是一个用于简化 `ES` 查询语句编写的开源项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句：
+一个好看的双拼学习网站：
 
-- 开源代码地址：[https://github.com/appbaseio/mirage](https://github.com/appbaseio/mirage)
-- 访问地址： [https://opensource.appbase.io/mirage/](https://opensource.appbase.io/mirage/)
+![zy_shuangpin](https://images-1252557999.file.myqcloud.com/uPic/zy_shuangpin.jpg) 
 
-当然你也可以本机自行部署，非常方便，比较遗憾的是目前只支持到 `-v7.x`：
+### [svg-path-editor](https://yqnn.github.io/svg-path-editor/)
 
-![mirage](https://images-1252557999.file.myqcloud.com/uPic/mirage.png) 
+在线编辑创建 `SVG`，同时开源在 [github-svg-path-editor](https://github.com/Yqnn/svg-path-editor)：
 
-### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
-
-一份新冠预防及治疗指南：
-
-![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
+![svg-path-editor](https://images-1252557999.file.myqcloud.com/uPic/svg-path-editor.jpg) 
 
 ## ✍️ 说明
 
