@@ -5,106 +5,92 @@
 
 ## 🎯 项目 
 
-### [Openlist](https://github.com/OpenListTeam/OpenList)
+### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
 
-`OpenList` 是一款开源的网盘聚合工具，支持多种网盘服务的挂载和管理，并且完全免费。基于原  `Alist` 分支而来，解决了原来有争议的接口，去除了恶意代码，让  `Alist` 回归纯粹。 
+一键免费部署你的私人 `ChatGPT` 网页应用：
 
-### [Dasherr](https://github.com/erohtar/Dasherr)
+- 在 1 分钟内使用 Vercel  **免费一键部署**
+- 精心设计的 UI，响应式设计，支持深色模式
+- 极快的首屏加载速度（~85kb）
+- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
+- 一键导出聊天记录，完整的 Markdown 支持
+- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
 
-简单轻量自部署的仪表盘工具：
+![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
 
-![Dasherr](https://images-1252557999.file.myqcloud.com/uPic/Dasherr.png) 
+### [book-searcher](https://github.com/book-searcher-org/book-searcher)
 
-### [OxiCloud](https://github.com/DioCrafts/OxiCloud)
+`zlib` 开源搜索方案（zlib 是全球知名的电子书分享下载网站，最近开始慢慢转入地下，因此诞生了一些留存检索方案）：
 
-`OxiCloud` 是一个轻量级的云存储服务器，它使用 `Rust` 语言编写，旨在提供一个比传统 `PHP` 云服务（如 `NextCloud`）更快速、更轻量的文件存储方案。`OxiCloud` 具有响应式的用户界面，适用于桌面和移动设备，以及使用 `Link Time Optimization（LTO）`提高的二进制文件性能。
+![zlib_searcher](https://images-1252557999.file.myqcloud.com/uPic/zlib_searcher.jpg) 
 
-![OxiCloud](https://images-1252557999.file.myqcloud.com/uPic/dfL4Re.png) 
+### [Subscription-Management](https://github.com/huhusmang/Subscription-Management)
+
+一个现代化的订阅管理系统，帮助用户轻松管理和追踪各种订阅服务的费用和续费情况：
+
+![Subscription-Management](https://images-1252557999.file.myqcloud.com/uPic/QTWo56.png) 
 
 ## 🤖 软件 
 
-### [ponymusic](https://github.com/wangchenyan/ponymusic)
+### [claudia](https://github.com/getAsterisk/claudia)
 
-使用「网易云音乐API」的安卓在线音乐播放器：
+一个强大的 `GUI` 应用程序和工具包，用于创建自定义 `Claude Code` 代理、管理交互式 `Claude Code` 会话、运行安全的后台代理等功能。
 
-- 网易云音乐基本功能
-- 添加和播放本地音乐文件
-- 专辑封面显示
-- 歌词显示，支持拖动歌词调节播放进度
-- 通知栏控制
-- 夜间模式
-- 定时关闭
+它支持 `Windows、macOS & Linux` 操作系统，并且提供了一个用于管理 `Claude Code` 会话的强大的桌面应用程序。
 
-![ponymusic](https://images-1252557999.file.myqcloud.com/uPic/ponymusic.jpg) 
+![claudia](https://images-1252557999.file.myqcloud.com/uPic/uTJEkr.png)
 
-### [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup)
+PS：如果想实时监控Claude AI令牌使用情况，可以使用 [Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)。 
 
-PC微信聊天记录数据导出工具
+### [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
 
-基于- wails开发 + React前端，实现PC端微信聊天记录一键导出功能。
-- 导出后数据可以做永久化保存，即使微信停止支持，聊天记录也可以随时查看。
-- 前端界面尽量与微信界面保持一致，减少使用成本。
-- 理论上支持所有Windows 32/64位微信版本。
+`ZoomIt` 是一款用于屏幕缩放、注释和录制的演示工具，微软出品（大小仅 1M）：
 
-![wechatDataBackup](https://images-1252557999.file.myqcloud.com/uPic/LJBaJf.png) 
+![ZoomIt](https://images-1252557999.file.myqcloud.com/uPic/ZoomIt.jpg) 
 
-### [BongoCat](https://github.com/ayangweb/BongoCat)
+### [Speechless](https://github.com/meterscao/Speechless)
 
-本项目的灵感来源于 MMmmmoko 大佬开发的 [Bongo-Cat-Mver](https://github.com/MMmmmoko/Bongo-Cat-Mver)。它以独特的猫咪互动功能深受用户喜爱，但仅支持 Windows 平台。作为一名深度 macOS 用户，我特别希望在自己的设备上也能使用这款可爱的猫咪，于是我决定开发一个适配 macOS 的版本。
+`Speechless` 是一个帮助新浪微博用户，把微博内容导出成 `PDF` 进行本地备份的 `Chrome Extension`：
 
-同时，得益于 Tauri 强大的跨平台能力，本项目不仅支持 macOS，还兼容 Windows 和 Linux(x11)，让更多的用户都能与这只可爱的猫咪互动！
-
-![BongoCat](https://images-1252557999.file.myqcloud.com/uPic/GyrpLk.png) 
+![Speechless](https://images-1252557999.file.myqcloud.com/uPic/Speechless.jpeg) 
 
 ## 👀 资料 
 
-### [Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow)
+### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
 
-一些好用的 Dify 工作流集合，括了中英文翻译、知识库聊天、搜索大师、爆款标题、文章仿写、运营一条龙、聊天机器人、代码生成等工作流。 
+深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
 
-### [动手实现LLM中文版](https://github.com/datawhalechina/llms-from-scratch-cn)
+### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
 
-该项目提供了一个如何从头开始实现类似 `ChatGPT` 的大语言模型（LLM）的详细教程：
+Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
 
-![tllms-from-scratch-cn](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6242161922065677933-y.jpg) 
+![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
 
-### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
+### [learnmoderncpp](https://learnmoderncpp.com/)
 
-**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
+现代 C++学习教程：
 
-- JS基础语法
-- 核心模块概述
-- 面向对象
-- DOM
-- 计算机网络
-- 设计模式
-- 等等
-
-对于前端开发者来说应该是一个非常好的知识库：
-
-![javascript-guidebook](https://images-1252557999.file.myqcloud.com/uPic/vIsnjD.png) 
+![learnmoderncpp](https://images-1252557999.file.myqcloud.com/uPic/learnmoderncpp.jpg) 
 
 ## 🕸 网站 
 
-### [必应壁纸](https://bing.ioliu.cn/)
+### [buyoncesoftware.com](https://buyoncesoftware.com)
 
-收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
+一份满足购买一次，终身使用软件名单：
 
-![bing](https://images-1252557999.file.myqcloud.com/uPic/bing.jpg) 
+![buyoncesoftware](https://images-1252557999.file.myqcloud.com/uPic/HuYvwg.png) 
 
-### [removerized](https://removerized.tech/)
+### [gpt5plus.com](https://gpt5plus.com/)
 
-开源免费的图片去背景工具网站，交互体验还不错：
+一个 ChatGPT 代充服务网页，价格比较便宜：
 
-![removerized](https://images-1252557999.file.myqcloud.com/uPic/removerized.jpg)
+![gpt5plus](https://images-1252557999.file.myqcloud.com/uPic/Uk76mA.png) 
 
-当然了，模型效果对一些图片比不上一些收费的。 
+### [chuhai.tools](https://chuhai.tools/)
 
-### [caniuse](https://caniuse.com/)
+独立开发者出海技术栈和工具集合:
 
-网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
-
-![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
+![chuhai](https://images-1252557999.file.myqcloud.com/uPic/chuhai.jpg) 
 
 ## ✍️ 说明
 
