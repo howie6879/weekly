@@ -5,92 +5,112 @@
 
 ## 🎯 项目 
 
-### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
+### [illa-builder](https://github.com/illacloud/illa-builder)
 
-一键免费部署你的私人 `ChatGPT` 网页应用：
+`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
 
-- 在 1 分钟内使用 Vercel  **免费一键部署**
-- 精心设计的 UI，响应式设计，支持深色模式
-- 极快的首屏加载速度（~85kb）
-- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
-- 一键导出聊天记录，完整的 Markdown 支持
-- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
+- ⚽ 实时协作： 我们可以一起实时创建内容。
+- 🛠 自定义插件： 构建自定义插件来完成你的任务。
+- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
+- 🖥 本地部署： 支持Docker和k8s
+- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
+- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
 
-![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
+![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
 
-### [book-searcher](https://github.com/book-searcher-org/book-searcher)
+### [cal.com](https://github.com/calcom/cal.com)
 
-`zlib` 开源搜索方案（zlib 是全球知名的电子书分享下载网站，最近开始慢慢转入地下，因此诞生了一些留存检索方案）：
+一个管理日程安排和预约的工具，可以说是 `Calendly` 的开源替代方案：
 
-![zlib_searcher](https://images-1252557999.file.myqcloud.com/uPic/zlib_searcher.jpg) 
+![cal_com](https://images-1252557999.file.myqcloud.com/uPic/cal_com.jpg) 
 
-### [Subscription-Management](https://github.com/huhusmang/Subscription-Management)
+### [ar5iv](https://github.com/dginev/ar5iv)
 
-一个现代化的订阅管理系统，帮助用户轻松管理和追踪各种订阅服务的费用和续费情况：
+`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
 
-![Subscription-Management](https://images-1252557999.file.myqcloud.com/uPic/QTWo56.png) 
+![ar5iv](https://images-1252557999.file.myqcloud.com/uPic/ar5iv.jpg) 
 
 ## 🤖 软件 
 
-### [claudia](https://github.com/getAsterisk/claudia)
+### [bdash](https://github.com/bdash-app/bdash)
 
-一个强大的 `GUI` 应用程序和工具包，用于创建自定义 `Claude Code` 代理、管理交互式 `Claude Code` 会话、运行安全的后台代理等功能。
+用于数据分析的简单 `SQL` 客户端：
 
-它支持 `Windows、macOS & Linux` 操作系统，并且提供了一个用于管理 `Claude Code` 会话的强大的桌面应用程序。
+![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
 
-![claudia](https://images-1252557999.file.myqcloud.com/uPic/uTJEkr.png)
+### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
 
-PS：如果想实时监控Claude AI令牌使用情况，可以使用 [Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)。 
+一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
 
-### [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
+![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
 
-`ZoomIt` 是一款用于屏幕缩放、注释和录制的演示工具，微软出品（大小仅 1M）：
+### [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop)
 
-![ZoomIt](https://images-1252557999.file.myqcloud.com/uPic/ZoomIt.jpg) 
+`AirPods` 桌面用户体验增强程序(仅支持 Windows)：
 
-### [Speechless](https://github.com/meterscao/Speechless)
+- 🔋 电池信息显示
+- 👂 自动人耳检测
+- 🚀 低音频延迟模式
+- 🌈 精美的动画
 
-`Speechless` 是一个帮助新浪微博用户，把微博内容导出成 `PDF` 进行本地备份的 `Chrome Extension`：
-
-![Speechless](https://images-1252557999.file.myqcloud.com/uPic/Speechless.jpeg) 
+![AirPodsDesktop](https://images-1252557999.file.myqcloud.com/uPic/AirPodsDesktop.gif) 
 
 ## 👀 资料 
 
-### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
+### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
 
-深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
+[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
 
-### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
+![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
 
-Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
+### [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/full-stack-and-ops#kubernetes)
 
-![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
+作者花四年时间整理的文集《The Machine & Deep Learning Compendium》。主要内容是机器学习&深度学习纲要，共500个主题，覆盖机器学习算法、统计、特征选择、工程技术、深度学习、NLP、时间序列等分类。
 
-### [learnmoderncpp](https://learnmoderncpp.com/)
+![ML](https://images-1252557999.file.myqcloud.com/uPic/R26HG2.png) 
 
-现代 C++学习教程：
+### [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 
-![learnmoderncpp](https://images-1252557999.file.myqcloud.com/uPic/learnmoderncpp.jpg) 
+《[初创公司CTO手册](https://docs.google.com/document/d/147KVarJdNQ2ZdmDHOSsd7W39anejRu2NfxEWCzwl0IU/edit?pli=1)》是一本涵盖软件工程团队领导力、管理和技术主题的书籍。旨在为技术团队领导力提供指导，内容涵盖业务流程、人员管理、招聘面试、入职培训、绩效管理、团队构成、领导责任等多个方面：
+
+![ctohb](https://images-1252557999.file.myqcloud.com/uPic/ctohb.jpg) 
 
 ## 🕸 网站 
 
-### [buyoncesoftware.com](https://buyoncesoftware.com)
+### [dute](https://www.dute.org/)
 
-一份满足购买一次，终身使用软件名单：
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-![buyoncesoftware](https://images-1252557999.file.myqcloud.com/uPic/HuYvwg.png) 
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
 
-### [gpt5plus.com](https://gpt5plus.com/)
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
-一个 ChatGPT 代充服务网页，价格比较便宜：
+### [web-check](https://web-check.xyz/)
 
-![gpt5plus](https://images-1252557999.file.myqcloud.com/uPic/Uk76mA.png) 
+输入目标网址，分析该网站各项 `web` 检查信息，非常详细：
 
-### [chuhai.tools](https://chuhai.tools/)
+![web-check](https://images-1252557999.file.myqcloud.com/uPic/web-check.jpg) 
 
-独立开发者出海技术栈和工具集合:
+### [json4u](https://json4u.cn/)
 
-![chuhai](https://images-1252557999.file.myqcloud.com/uPic/chuhai.jpg) 
+一个功能非常强大的 json 可视化和处理工具，提供图形和表格视图模式，支持结构化和文本比较、错误上下文验证、嵌套解析等功能，并且具有用户友好的界面设计：
+
+- 图形和表格视图模式
+- 结构化和文本比较
+- 使用错误上下文进行验证
+- 嵌套解析
+- 支持jq
+- 导入和导出CSV文件
+- 设计良好且易于使用的UI
+
+![json4u](https://images-1252557999.file.myqcloud.com/uPic/gr5lnQ.png)
+
+代码是[开源](https://github.com/loggerhead/json4u/)的。 
 
 ## ✍️ 说明
 
