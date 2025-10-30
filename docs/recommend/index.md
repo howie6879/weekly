@@ -5,81 +5,122 @@
 
 ## 🎯 项目 
 
-### [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)
+### [sql-studio](https://github.com/frectonz/sql-studio)
 
-基于 `ChatGPT` 实现的代码解释器，只需向 `OpenAI` 模型提出请求，它就会为您生成并执行代码：
+SQL 数据库浏览器，支持 `SQLite、libSQL、PostgreSQL、MySQL&DuckDB`，可以理解成一个简洁轻量的数据库客户端，安装使用也很简单：
 
-![gpt-code-ui](https://images-1252557999.file.myqcloud.com/uPic/gpt-code-ui.png) 
+```shell
+curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/releases/download/0.1.23/sql-studio-installer.sh | sh
+# 以周刊数据库为例
+sql-studio --address=0.0.0.0:3030 sqlite /Users/howie/Documents/workspace/weekly/weekly.db
+```
 
-### [ml4a](https://github.com/ml4a/ml4a)
+这样通过 Web 即可查看数据库信息：
 
-`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
+- 数据库整体元数据信息概览
+- 表格数据浏览
+- 自定义查询（提示不全面，如果能接入 AI 感觉会更好）
 
-![ml4a](https://images-1252557999.file.myqcloud.com/uPic/ml4a.jpg) 
+![sql-studio](https://images-1252557999.file.myqcloud.com/uPic/sql-studio.jpg) 
 
-### [lsky-pro](https://github.com/lsky-org/lsky-pro)
+### [qinglong](https://github.com/whyour/qinglong)
 
-非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
+支持python3、javaScript、shell、typescript 的定时任务管理面板：
 
-![vps_lsky_01](https://images-1252557999.file.myqcloud.com/uPic/vps_lsky_01.jpg) 
+- 支持多种脚本语言（python3、javaScript、shell、typescript）
+- 支持在线管理脚本、环境变量、配置文件
+- 支持在线查看任务日志
+- 支持秒级任务设置
+- 支持系统级通知
+- 支持暗黑模式
+- 支持手机端操作
+
+![ql](https://images-1252557999.file.myqcloud.com/uPic/ql.jpg) 
+
+### [BookStack](https://github.com/BookStackApp/BookStack)
+
+一个开源的`documentation/wik`文档管理平台，其核心特性如下：
+
+- 免费开源可自建
+- 简单易用的交互界面
+- 全文检索以及文档互联
+- 可配置
+- 强大的编辑功能，MD支持
+- 等
+
+![BookStack](https://images-1252557999.file.myqcloud.com/uPic/vdoSqZ.jpg)
+
+有兴趣的话，可以利用[docker-bookstack](https://github.com/solidnerd/docker-bookstack)项目进行快速试用。 
 
 ## 🤖 软件 
 
-### [abogen](https://github.com/denizsafak/abogen)
+### [Screenbox](https://github.com/huynhsontung/Screenbox)
 
-`Abogen` 是一个基于 `Kokoro-82M` 的文本到语音转换工具，能够快速将 EPUB、PDF 或文本文件转换为具有同步字幕的高质量音频，适用于制作有声读物、社交媒体语音旁白等。
+Screenbox 是一款现代视频播放器，构建在 LibVLCSharp 和通用 Windows 平台 (UWP) 之上，颜值颇高，同时又快速、轻量级。支持在 Windows 10 版本 1903+、Windows 11 和 Xbox 主机上使用:
 
-![abogen](https://images-1252557999.file.myqcloud.com/uPic/ZtsSUK.png) 
+![Screenbox](https://images-1252557999.file.myqcloud.com/uPic/Screenbox.jpg) 
 
-### [NanaZip](https://github.com/M2Team/NanaZip)
+### [Tran](https://github.com/Borber/Tran)
 
-`NanaZip` 是一个面向现代 `Windows` 体验的开源文件压缩工具，基于知名的开源文件压缩工具 `7-Zip` 的源代码：
+简洁, 快速, 划词翻译：
 
-![NanaZip](https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg) 
+- 开箱即用
+- 永久免费使用
+- 谷歌翻译镜像
 
-### [pear-rec](https://github.com/027xiguapi/pear-rec)
+![Tran](https://images-1252557999.file.myqcloud.com/uPic/Tran.jpg)
 
-`pear-rec`(梨子 rec) 是一个跨平台的截图、录屏、录音、录像软件：
+其他开源划词翻译软件推荐：
 
-![pear-rec](https://images-1252557999.file.myqcloud.com/uPic/pear-rec.jpg) 
+- [pot-desktop](https://github.com/pot-app/pot-desktop)：🌈一个跨平台的划词翻译和OCR软件
+- [Easydict](https://github.com/tisfeng/Easydict)：一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。
+- [TTime](https://github.com/inkTimeRecord/TTime)：🚀 一款简洁高效的输入、截图、划词翻译软件 
+
+### [LibreraReader](https://github.com/foobnix/LibreraReader)
+
+安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
+
+![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
 
 ## 👀 资料 
 
-### [docker-practice](https://vuepress.mirror.docker-practice.com/)
+### [LLMs-In-China](https://github.com/wgwang/LLMs-In-China)
 
-一份面向 `Docker` 初学者的教程：
+记录中国大模型发展情况，同时持续深度分析开源开放的大模型以及数据集的情况，目前记录了国内188个大模型：
 
-![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
+![LLMs-In-China](https://images-1252557999.file.myqcloud.com/uPic/LLMs-In-China.png) 
 
-### [云安全攻防入门](https://lzcloudsecurity.gitbook.io/yun-an-quan-gong-fang-ru-men/)
+### [BGC](https://beej.us/guide/bgc/)
 
-关于云安全攻防的基础知识：
+面向初学者的 C 语言教程：
 
-![yun-an-quan-gong-fang-ru-men](https://images-1252557999.file.myqcloud.com/uPic/yun-an-quan-gong-fang-ru-men.jpg) 
+![BGC](https://images-1252557999.file.myqcloud.com/uPic/CtN8CN.png) 
 
-### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
+### [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
 
-该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
+面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:
+
+![llm-cookbook](https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png) 
 
 ## 🕸 网站 
 
-### [removebg](https://www.remove.bg/zh)
+### [flow](https://github.com/pacexy/flow)
 
-这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
+开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
 
-![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
+![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
 
-### [historyline.online](https://github.com/liujuntao123/chines-history-video)
+### [upstract](https://upstract.com/)
 
-中国历朝代历史视频讲解，汇聚了B站上综合数据（点赞，播放，投币，收藏）最高的一个/几个视频：
+比较全面的新闻聚合平台：
 
-![historyline](https://images-1252557999.file.myqcloud.com/uPic/historyline.jpg) 
+![upstract](https://images-1252557999.file.myqcloud.com/uPic/upstract.jpg) 
 
-### [wantquotes.net](https://wantquotes.net/)
+### [drawio](https://github.com/jgraph/drawio)
 
-清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
+一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
 
-![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
+![drawio](https://images-1252557999.file.myqcloud.com/uPic/drawio.jpg) 
 
 ## ✍️ 说明
 
