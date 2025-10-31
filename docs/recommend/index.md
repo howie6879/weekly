@@ -5,122 +5,101 @@
 
 ## 🎯 项目 
 
-### [sql-studio](https://github.com/frectonz/sql-studio)
+### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
 
-SQL 数据库浏览器，支持 `SQLite、libSQL、PostgreSQL、MySQL&DuckDB`，可以理解成一个简洁轻量的数据库客户端，安装使用也很简单：
+简单描述工作内容，帮你生成完整周报：
 
-```shell
-curl --proto '=https' --tlsv1.2 -LsSf https://github.com/frectonz/sql-studio/releases/download/0.1.23/sql-studio-installer.sh | sh
-# 以周刊数据库为例
-sql-studio --address=0.0.0.0:3030 sqlite /Users/howie/Documents/workspace/weekly/weekly.db
-```
+![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
 
-这样通过 Web 即可查看数据库信息：
+### [deepclaude](https://github.com/getasterisk/deepclaude)
 
-- 数据库整体元数据信息概览
-- 表格数据浏览
-- 自定义查询（提示不全面，如果能接入 AI 感觉会更好）
+`Aider` 团队最新研究通过[采用 DeepSeek R1 + Claude 3.5 Sonnet](https://aider.chat/2025/01/24/r1-sonnet.html) 可以实现最好的效果：
 
-![sql-studio](https://images-1252557999.file.myqcloud.com/uPic/sql-studio.jpg) 
+![deepclaude-web](https://images-1252557999.file.myqcloud.com/uPic/xFt7fe.png)
 
-### [qinglong](https://github.com/whyour/qinglong)
+![deepclaude](https://images-1252557999.file.myqcloud.com/uPic/MNsnRO.png)
 
-支持python3、javaScript、shell、typescript 的定时任务管理面板：
+相关资料：
 
-- 支持多种脚本语言（python3、javaScript、shell、typescript）
-- 支持在线管理脚本、环境变量、配置文件
-- 支持在线查看任务日志
-- 支持秒级任务设置
-- 支持系统级通知
-- 支持暗黑模式
-- 支持手机端操作
+- [R1+Sonnet set SOTA on aider’s polyglot benchmark](https://aider.chat/2025/01/24/r1-sonnet.html)
+- [第三方 Python 实现](https://github.com/ErlichLiu/DeepClaude) 
 
-![ql](https://images-1252557999.file.myqcloud.com/uPic/ql.jpg) 
+### [ChatTTS](https://github.com/2noise/ChatTTS)
 
-### [BookStack](https://github.com/BookStackApp/BookStack)
+`ChatTTS` 是专门为对话场景设计的文本转语音模型，例如 `LLM` 助手对话任务，它支持英文和中文两种语言，最大的模型使用了10万小时以上的中英文数据进行训练：
 
-一个开源的`documentation/wik`文档管理平台，其核心特性如下：
+- 对话式 TTS: ChatTTS针对对话式任务进行了优化，实现了自然流畅的语音合成，同时支持多说话人。
+- 细粒度控制: 该模型能够预测和控制细粒度的韵律特征，包括笑声、停顿和插入词等。
+- 更好的韵律: ChatTTS在韵律方面超越了大部分开源TTS模型。同时提供预训练模型，支持进一步的研究。
 
-- 免费开源可自建
-- 简单易用的交互界面
-- 全文检索以及文档互联
-- 可配置
-- 强大的编辑功能，MD支持
-- 等
+效果挺好的，相关 `Web UI` 有 [ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) 项目：
 
-![BookStack](https://images-1252557999.file.myqcloud.com/uPic/vdoSqZ.jpg)
-
-有兴趣的话，可以利用[docker-bookstack](https://github.com/solidnerd/docker-bookstack)项目进行快速试用。 
+![ChatTTS](https://images-1252557999.file.myqcloud.com/uPic/ChatTTS.jpg) 
 
 ## 🤖 软件 
 
-### [Screenbox](https://github.com/huynhsontung/Screenbox)
+### [dockit](https://github.com/geek-fun/dockit)
 
-Screenbox 是一款现代视频播放器，构建在 LibVLCSharp 和通用 Windows 平台 (UWP) 之上，颜值颇高，同时又快速、轻量级。支持在 Windows 10 版本 1903+、Windows 11 和 Xbox 主机上使用:
+一个跨平台的图形用户界面客户端，支持 `Elasticsearch` 和 `Opensearch` 数据库管理。
 
-![Screenbox](https://images-1252557999.file.myqcloud.com/uPic/Screenbox.jpg) 
+![dockit](https://images-1252557999.file.myqcloud.com/uPic/apAgUR.png) 
 
-### [Tran](https://github.com/Borber/Tran)
+### [NotepadNext](https://github.com/dail8859/NotepadNext)
 
-简洁, 快速, 划词翻译：
+`Notepad++`的跨平台开源实现：
 
-- 开箱即用
-- 永久免费使用
-- 谷歌翻译镜像
+![NotepadNext](https://images-1252557999.file.myqcloud.com/uPic/NotepadNext.png) 
 
-![Tran](https://images-1252557999.file.myqcloud.com/uPic/Tran.jpg)
+### [yarr](https://github.com/nkanaev/yarr)
 
-其他开源划词翻译软件推荐：
+基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
 
-- [pot-desktop](https://github.com/pot-app/pot-desktop)：🌈一个跨平台的划词翻译和OCR软件
-- [Easydict](https://github.com/tisfeng/Easydict)：一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。
-- [TTime](https://github.com/inkTimeRecord/TTime)：🚀 一款简洁高效的输入、截图、划词翻译软件 
+```shell
+mkdir -p ./yarr/data
+docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
+```
 
-### [LibreraReader](https://github.com/foobnix/LibreraReader)
+总体来说还是挺简洁轻量的：
 
-安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
-
-![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
+![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
 
 ## 👀 资料 
 
-### [LLMs-In-China](https://github.com/wgwang/LLMs-In-China)
+### [visualize-ml](https://github.com/visualize-ml)
 
-记录中国大模型发展情况，同时持续深度分析开源开放的大模型以及数据集的情况，目前记录了国内188个大模型：
+鸢尾花书：从加减乘除到机器学习，全套7册。
 
-![LLMs-In-China](https://images-1252557999.file.myqcloud.com/uPic/LLMs-In-China.png) 
+![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
 
-### [BGC](https://beej.us/guide/bgc/)
+### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
 
-面向初学者的 C 语言教程：
+该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
 
-![BGC](https://images-1252557999.file.myqcloud.com/uPic/CtN8CN.png) 
+### [Flutter实战·第二版](https://book.flutterchina.club/)
 
-### [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
+本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
 
-面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:
-
-![llm-cookbook](https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png) 
+![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
 
 ## 🕸 网站 
 
-### [flow](https://github.com/pacexy/flow)
+### [carbon](https://carbon.now.sh/)
 
-开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
+将你的源代码转成漂亮可分享的图片：
 
-![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
+![carbon](https://images-1252557999.file.myqcloud.com/uPic/carbon.jpg) 
 
-### [upstract](https://upstract.com/)
+### [ideogram.ai](https://ideogram.ai/)
 
-比较全面的新闻聚合平台：
+免费无次数限制的文字转图片网页：
 
-![upstract](https://images-1252557999.file.myqcloud.com/uPic/upstract.jpg) 
+![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
 
-### [drawio](https://github.com/jgraph/drawio)
+### [iconfont](https://www.iconfont.cn/)
 
-一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
+阿里巴巴矢量图标库：
 
-![drawio](https://images-1252557999.file.myqcloud.com/uPic/drawio.jpg) 
+![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
 
 ## ✍️ 说明
 
