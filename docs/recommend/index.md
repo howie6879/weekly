@@ -5,101 +5,85 @@
 
 ## 🎯 项目 
 
-### [weekly_report](https://github.com/guaguaguaxia/weekly_report)
+### [plane](https://github.com/makeplane/plane)
 
-简单描述工作内容，帮你生成完整周报：
+概念比较新的项目管理工具，开源的 `JIRA，Linear & Height` 的替代品，`Plane` 以最简单的方式帮助您跟踪问题、冲刺和产品路线图：
 
-![weekly_report](https://images-1252557999.file.myqcloud.com/uPic/weekly_report.jpeg) 
+![plane](https://images-1252557999.file.myqcloud.com/uPic/plane.webp) 
 
-### [deepclaude](https://github.com/getasterisk/deepclaude)
+### [chatnio](https://github.com/Deeptrain-Community/chatnio)
 
-`Aider` 团队最新研究通过[采用 DeepSeek R1 + Claude 3.5 Sonnet](https://aider.chat/2025/01/24/r1-sonnet.html) 可以实现最好的效果：
+🚀 下一代 AI 一站式解决方案，一站式 Chat + 中转 API 站点，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
 
-![deepclaude-web](https://images-1252557999.file.myqcloud.com/uPic/xFt7fe.png)
+![chatnio](https://images-1252557999.file.myqcloud.com/uPic/chatnio.png) 
 
-![deepclaude](https://images-1252557999.file.myqcloud.com/uPic/MNsnRO.png)
+### [resume-design](https://github.com/Hacker233/resume-design)
 
-相关资料：
+一款开源免费的简历制作神器，支持导出超高清 PDF、图片、源码级 JSON 数据等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。
 
-- [R1+Sonnet set SOTA on aider’s polyglot benchmark](https://aider.chat/2025/01/24/r1-sonnet.html)
-- [第三方 Python 实现](https://github.com/ErlichLiu/DeepClaude) 
-
-### [ChatTTS](https://github.com/2noise/ChatTTS)
-
-`ChatTTS` 是专门为对话场景设计的文本转语音模型，例如 `LLM` 助手对话任务，它支持英文和中文两种语言，最大的模型使用了10万小时以上的中英文数据进行训练：
-
-- 对话式 TTS: ChatTTS针对对话式任务进行了优化，实现了自然流畅的语音合成，同时支持多说话人。
-- 细粒度控制: 该模型能够预测和控制细粒度的韵律特征，包括笑声、停顿和插入词等。
-- 更好的韵律: ChatTTS在韵律方面超越了大部分开源TTS模型。同时提供预训练模型，支持进一步的研究。
-
-效果挺好的，相关 `Web UI` 有 [ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) 项目：
-
-![ChatTTS](https://images-1252557999.file.myqcloud.com/uPic/ChatTTS.jpg) 
+![resume-design](https://images-1252557999.file.myqcloud.com/uPic/y8rbsD.png) 
 
 ## 🤖 软件 
 
-### [dockit](https://github.com/geek-fun/dockit)
+### [deskflow](https://github.com/deskflow/deskflow)
 
-一个跨平台的图形用户界面客户端，支持 `Elasticsearch` 和 `Opensearch` 数据库管理。
+`Deskflow` 是一款免费开源的跨平台键盘鼠标共享工具，允许用户使用一套键盘和鼠标来控制多台计算机。它支持 Windows、macOS 和 Linux 系统，具有剪贴板共享、屏幕边缘切换、自定义热键和简单的图形化配置等功能。
 
-![dockit](https://images-1252557999.file.myqcloud.com/uPic/apAgUR.png) 
+`Deskflow` 最初是商业软件 `Synergy` 的开源上游项目，现已成为独立项目，专注于提供免费、开源的功能。
 
-### [NotepadNext](https://github.com/dail8859/NotepadNext)
+![deskflow](https://images-1252557999.file.myqcloud.com/uPic/hTXVat.png) 
 
-`Notepad++`的跨平台开源实现：
+### [datastation](https://github.com/multiprocessio/datastation)
 
-![NotepadNext](https://images-1252557999.file.myqcloud.com/uPic/NotepadNext.png) 
+`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
 
-### [yarr](https://github.com/nkanaev/yarr)
+![datastation](https://images-1252557999.file.myqcloud.com/uPic/datastation.jpg) 
 
-基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
+### [FluentHub](https://github.com/FluentHub/FluentHub)
 
-```shell
-mkdir -p ./yarr/data
-docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
-```
+界面  `UI` 时尚功能强大的 `Windows GitHub` 客户端：
 
-总体来说还是挺简洁轻量的：
-
-![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
+![FluentHub](https://images-1252557999.file.myqcloud.com/uPic/FluentHub.png) 
 
 ## 👀 资料 
 
-### [visualize-ml](https://github.com/visualize-ml)
+### [C++服务器开发精髓](https://cppguide.cn/pages/92255f/)
 
-鸢尾花书：从加减乘除到机器学习，全套7册。
+开源电子书籍，本书从操作系统原理角度讲解进行C++服务器开发所需掌握的技术栈：
 
-![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
+![cppguide](https://images-1252557999.file.myqcloud.com/uPic/cppguide.jpg) 
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+### [Web Development History](https://webdevelopmenthistory.com/index/)
 
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+`Web` 开发发展史文章系列：
 
-### [Flutter实战·第二版](https://book.flutterchina.club/)
+![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
 
-本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
+### [reversing](https://0xinfection.github.io/reversing/)
 
-![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
+免费电子书，面向所有人的逆向工程：
+
+![reversing](https://images-1252557999.file.myqcloud.com/uPic/reversing.jpg) 
 
 ## 🕸 网站 
 
-### [carbon](https://carbon.now.sh/)
+### [腾讯文库](https://wenku.docs.qq.com/)
 
-将你的源代码转成漂亮可分享的图片：
+腾讯文库——专业权威的内容消费与发布平台：
 
-![carbon](https://images-1252557999.file.myqcloud.com/uPic/carbon.jpg) 
+![wenku](https://images-1252557999.file.myqcloud.com/uPic/CL5bpt.png) 
 
-### [ideogram.ai](https://ideogram.ai/)
+### [动漫新番表](https://www.fre123.com/anime/n)
 
-免费无次数限制的文字转图片网页：
+继上周做了[动漫搜索引擎](https://www.fre123.com/anime/s)后，老胡这次整了个动漫新番信息记录网站，新番信息脚本和数据都是开源的👉[fre123-anime](https://github.com/fre123-com/fre123-anime)，欢迎体验：
 
-![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
+![fre123_anime_n](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime_n.jpg) 
 
-### [iconfont](https://www.iconfont.cn/)
+### [pixel-me](https://pixel-me.tokyo/en/)
 
-阿里巴巴矢量图标库：
+将你的头像像素化，质量挺好：
 
-![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/gnHdoM.png) 
 
 ## ✍️ 说明
 
