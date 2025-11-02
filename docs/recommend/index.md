@@ -5,85 +5,108 @@
 
 ## 🎯 项目 
 
-### [plane](https://github.com/makeplane/plane)
+### [linkwarden](https://github.com/linkwarden/linkwarden)
 
-概念比较新的项目管理工具，开源的 `JIRA，Linear & Height` 的替代品，`Plane` 以最简单的方式帮助您跟踪问题、冲刺和产品路线图：
+一个自托管的、开源的协作式书签管理器，用于收集、组织和归档网页:
 
-![plane](https://images-1252557999.file.myqcloud.com/uPic/plane.webp) 
+![linkwarden](https://images-1252557999.file.myqcloud.com/uPic/linkwarden.png) 
 
-### [chatnio](https://github.com/Deeptrain-Community/chatnio)
+### [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 
-🚀 下一代 AI 一站式解决方案，一站式 Chat + 中转 API 站点，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
+基于 `Gradio Web` 实现的 UI，用于运行像 `GPT-J 6B、OPT、GALACTICA、LLaMA、Pygmalion` 这样的大型语言模型：
 
-![chatnio](https://images-1252557999.file.myqcloud.com/uPic/chatnio.png) 
+![text-generation-webui](https://images-1252557999.file.myqcloud.com/uPic/text-generation-webui.jpg) 
 
-### [resume-design](https://github.com/Hacker233/resume-design)
+### [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
 
-一款开源免费的简历制作神器，支持导出超高清 PDF、图片、源码级 JSON 数据等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。
+最近在开发一款微信小程序，第一次上手，发现还是很有意思的。这个项目收集了小程序开发的方方面面，如：工具、插件、组件、Demo等。
 
-![resume-design](https://images-1252557999.file.myqcloud.com/uPic/y8rbsD.png) 
+基本上只要找一个开源的小程序，找一个示例跟着写，哪怕你没基础，也能很快开发一款自己的小程序出来，推荐。 
 
 ## 🤖 软件 
 
-### [deskflow](https://github.com/deskflow/deskflow)
+### [wowtab](https://wowtab.microsoft.com/)
 
-`Deskflow` 是一款免费开源的跨平台键盘鼠标共享工具，允许用户使用一套键盘和鼠标来控制多台计算机。它支持 Windows、macOS 和 Linux 系统，具有剪贴板共享、屏幕边缘切换、自定义热键和简单的图形化配置等功能。
+微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：
 
-`Deskflow` 最初是商业软件 `Synergy` 的开源上游项目，现已成为独立项目，专注于提供免费、开源的功能。
+![wowtab](https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg) 
 
-![deskflow](https://images-1252557999.file.myqcloud.com/uPic/hTXVat.png) 
+### [scrcpy](https://github.com/Genymobile/scrcpy)
 
-### [datastation](https://github.com/multiprocessio/datastation)
+在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
 
-`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
+它专注于：
 
-![datastation](https://images-1252557999.file.myqcloud.com/uPic/datastation.jpg) 
+- 轻量 (原生，仅显示设备屏幕)
+- 性能 (30~60fps)
+- 质量 (分辨率可达 1920×1080 或更高)
+- 低延迟 (35~70ms)
+- 快速启动 (最快 1 秒内即可显示第一帧)
+- 无侵入性 (不会在设备上遗留任何程序) 
 
-### [FluentHub](https://github.com/FluentHub/FluentHub)
+### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 
-界面  `UI` 时尚功能强大的 `Windows GitHub` 客户端：
+跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
 
-![FluentHub](https://images-1252557999.file.myqcloud.com/uPic/FluentHub.png) 
+- 🍕 全平台支持. Windows, Mac, Linux
+- 🍥 支持 IPTV, 卫视直播
+- 🍔 视频源支持自定义, 支持导入, 导出
+- 🍟 支持海报模式和列表模式浏览资源
+- 🌭 播放历史, 自动跳转历史进度
+- 🍿 收藏夹支持导入,导出, 支持同步追剧
+- 🥙 支持精简模式, 摸鱼划水
+- 🥪 一键搜索所有资源, 支持历史搜索记录
+- 🌮 导出资源下载链接
+- 🍣 支持第三方播放器播放
+- 🍤 显示豆瓣评分
+
+![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
 
 ## 👀 资料 
 
-### [C++服务器开发精髓](https://cppguide.cn/pages/92255f/)
+### [missing-semester-cn](https://missing-semester-cn.github.io/)
 
-开源电子书籍，本书从操作系统原理角度讲解进行C++服务器开发所需掌握的技术栈：
+计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
 
-![cppguide](https://images-1252557999.file.myqcloud.com/uPic/cppguide.jpg) 
+在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
 
-### [Web Development History](https://webdevelopmenthistory.com/index/)
+![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
 
-`Web` 开发发展史文章系列：
+### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
 
-![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
+一本小书《带你入门前端工程》
 
-### [reversing](https://0xinfection.github.io/reversing/)
+![](https://images-1252557999.file.myqcloud.com/uPic/e783TS.png) 
 
-免费电子书，面向所有人的逆向工程：
+### [llm_engineering](https://github.com/ed-donner/llm_engineering)
 
-![reversing](https://images-1252557999.file.myqcloud.com/uPic/reversing.jpg) 
+该项目是为了辅助 Edward Donner 的 LLM 工程课程而设立的。课程内容涵盖了 8 周的学习路径，旨在帮助学生掌握人工智能和大型语言模型（LLMs）的技能。仓库包含了课程资源、环境设置指南（适用于 PC、Mac 和 Linux 系统）以及项目文件。
+
+![llm_engineering](https://images-1252557999.file.myqcloud.com/uPic/dtF0EE.png) 
 
 ## 🕸 网站 
 
-### [腾讯文库](https://wenku.docs.qq.com/)
+### [emojimix](https://tikolu.net/emojimix/)
 
-腾讯文库——专业权威的内容消费与发布平台：
+一个表情融合网站，图一个乐呵，效果如下：
 
-![wenku](https://images-1252557999.file.myqcloud.com/uPic/CL5bpt.png) 
+![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
 
-### [动漫新番表](https://www.fre123.com/anime/n)
+### [bookmark.style](https://www.bookmark.style/)
 
-继上周做了[动漫搜索引擎](https://www.fre123.com/anime/s)后，老胡这次整了个动漫新番信息记录网站，新番信息脚本和数据都是开源的👉[fre123-anime](https://github.com/fre123-com/fre123-anime)，欢迎体验：
+将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
 
-![fre123_anime_n](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime_n.jpg) 
+![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
 
-### [pixel-me](https://pixel-me.tokyo/en/)
+假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
 
-将你的头像像素化，质量挺好：
+### [open-slum.org](https://open-slum.org/)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/gnHdoM.png) 
+`SLUM` 网站实时监控多个流行的隐蔽图书馆（如 Anna's Archive、Library Genesis、Sci-Hub 等）的可用性，并提供这些服务的运行状况、证书有效期以及最近的更新时间。
+
+因为这些网站经常**意外**失效，也很容易被钓鱼，所以这个网站很有用：
+
+![open-slum.org](https://images-1252557999.file.myqcloud.com/uPic/PzpYfd.png) 
 
 ## ✍️ 说明
 
