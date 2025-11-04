@@ -5,74 +5,68 @@
 
 ## 🎯 项目 
 
-### [lavague](https://docs.lavague.ai/)
+### [rembg](https://github.com/danielgatis/rembg)
 
-`lavague` 是 `AI Web Agents` 开发框架，它可以作为你的一个基于浏览器的助手来辅助工作，能做什么就取决于你的想象力，老胡目前用来做一些数据自动抓取格式化的工作：
+之前有介绍过一个去除图片背景的网站-[remove.bg](https://www.remove.bg/zh)，这网站虽然免费，但是高清版本的图片下载需要收费，现在这个开源的图片背景去除项目将完全解决这个问题：
 
-![lavague](https://images-1252557999.file.myqcloud.com/uPic/lavague.jpg) 
+![rembg](https://images-1252557999.file.myqcloud.com/uPic/rembg.jpg)
 
-### [zealot](https://github.com/tryzealot/zealot)
+你可以作为第三方库使用，也在终端以及启用服务化来使用。 
 
-开源自部署持续集成一切跟应用有关事情，接入任意 CI 系统一切自动化处理，企业多年实战经验，独立部署提供企业打包分发流程、上传应用全套流程方案 En Taro Adun! 🖖
+### [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)
 
-- 🌏 多平台应用托管: macOS、iOS、Android（apk/aab）、Windows、Linux 泛平台
-- 📱 测试设备一网打进: 自动同步 iOS 测试设备信息，允许一键注册新设备到苹果开发者
-- 🧑‍💻 丰富开发者套件: 提供 REST API、iOS、Android SDK 以及 fastlane 自动化构建插件
-- 💥 剖析应用内部的秘密: 解读 iOS、Android 应用或 iOS 描述文件的元信息
-- 🚨 内置多种事件通知: 数据可自定义 Income WebHook 到任意通知服务
-- 🗄 多渠道分类管理: 自由划分不同场景不同产品形态的应用渠道管理
-- 🎳 多架构部署: amd86/arm64/armv7 及各种部署方案应有尽有
-- 🔑 第三方登录: 飞书、Gitlab、Google、LDAP 和 OIDC 一键授权
-- 🌑 黑暗模式: 黑夜白昼自由切换
+`Stable Diffusion`（最近很火的 AI 文字生成图片的模型）在我之前好几期周刊都出现过，这次带来的是首个将 `Stable Diffusion Model` 扩展到浏览器环境部署运行的项目：
 
-![zealot](https://images-1252557999.file.myqcloud.com/uPic/zealot.png) 
+![web-stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/web-stable-diffusion.jpg) 
 
-### [nas-tools](https://github.com/jxxghp/nas-tools)
+### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
 
-NAS媒体库资源归集、整理自动化工具：
+`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
 
-![nas_tool](https://images-1252557999.file.myqcloud.com/uPic/nas_tool.jpg) 
+![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
 
 ## 🤖 软件 
 
-### [Vieb](https://vieb.dev/)
+### [Mos](https://github.com/Caldis/Mos)
 
-开源免费的全平台（PC）`Vim`风格电子浏览器：
+一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
 
-![Vieb](https://images-1252557999.file.myqcloud.com/uPic/BqyWaK.png) 
+![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
 
-### aniyomi-插件
+### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
 
-之前推荐过移动端看动漫和漫画的软件👉[aniyomi](https://github.com/aniyomiorg/aniyomi)，老胡最近也针对这个软件做了一些配置，将收集的源分享给大家：
+`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
 
-- https://github.com/GokulSamraj/aniyomi-anime-repo
-- https://github.com/Kohi-den/extensions
+![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
 
-![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
+### [Maccy](https://github.com/p0deje/Maccy)
 
-### [wechat-universal-flatpak](https://github.com/web1n/wechat-universal-flatpak)
+轻量级macOS剪切板管理应用：
 
-基于微信 `Linux Universal` 版打包，无发行版限制：
+![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
+使用截图如下：
 
-![wechat-universal-flatpak](https://images-1252557999.file.myqcloud.com/uPic/wechat-universal-flatpak.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
 
 ## 👀 资料 
 
-### [archbase](https://github.com/foxsen/archbase)
+### [BGC](https://beej.us/guide/bgc/)
 
-这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+面向初学者的 C 语言教程：
 
-![archbase](https://images-1252557999.file.myqcloud.com/uPic/dUVvGI.png) 
+![BGC](https://images-1252557999.file.myqcloud.com/uPic/CtN8CN.png) 
 
-### [tuning_playbook_zh_cn](https://github.com/schrodingercatss/tuning_playbook_zh_cn)
+### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
-深度学习调优指南中文版，一本系统地教你将深度学习模型的性能最大化的战术手册：
+这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
 
-![tuning_playbook_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/tuning_playbook_zh_cn.jpg) 
+我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
 
-### [react-illustration-series](https://github.com/7kms/react-illustration-series)
+### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
 
-图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
+这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
+
+![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
 
 ## 🕸 网站 
 
@@ -85,17 +79,19 @@ NAS媒体库资源归集、整理自动化工具：
 
 ![ugly-avatar](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-03-26_22-03-17.jpg) 
 
-### [new.space](https://new.space/)
+### [it-tools](https://it-tools.tech/)
 
-免注册多人临时文件分享工具：
+面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
 
-![new.space](https://images-1252557999.file.myqcloud.com/uPic/new.space.jpg) 
+![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
 
-### [aicolors](https://aicolors.co/)
+也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
 
-通过提示词，基于 AI 生成配色方案：
+### [favoree.io](https://www.favoree.io/)
 
-![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
+`YT` 频道探索发现导航网站，做得很精细，用户可以对频道进行评分和评论，这有助于构建一个由社区驱动的信任体系。网站提供了简单的过滤器，使用户能够根据兴趣、内容质量、视频时长和观众情绪等因素来搜索和发现新的频道和视频。
+
+![favoree](https://images-1252557999.file.myqcloud.com/uPic/favoree.jpg) 
 
 ## ✍️ 说明
 
