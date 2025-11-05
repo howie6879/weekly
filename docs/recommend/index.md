@@ -5,93 +5,97 @@
 
 ## 🎯 项目 
 
-### [rembg](https://github.com/danielgatis/rembg)
+### [UpSnap](https://github.com/seriousm4x/UpSnap)
 
-之前有介绍过一个去除图片背景的网站-[remove.bg](https://www.remove.bg/zh)，这网站虽然免费，但是高清版本的图片下载需要收费，现在这个开源的图片背景去除项目将完全解决这个问题：
+`UpSnap` 是一个基于 `SvelteKit、Go & PocketBase` 开发的简单唤醒设备（Wake-on-LAN）`Web` 应用程序，支持自动化定时事件、端口检测、网络扫描发现设备、用户管理、国际化支持、主题选择以及 `Docker` 部署。
 
-![rembg](https://images-1252557999.file.myqcloud.com/uPic/rembg.jpg)
+![UpSnap](https://images-1252557999.file.myqcloud.com/uPic/tzz1z0.png) 
 
-你可以作为第三方库使用，也在终端以及启用服务化来使用。 
+### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
 
-### [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)
+基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
 
-`Stable Diffusion`（最近很火的 AI 文字生成图片的模型）在我之前好几期周刊都出现过，这次带来的是首个将 `Stable Diffusion Model` 扩展到浏览器环境部署运行的项目：
+![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
 
-![web-stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/web-stable-diffusion.jpg) 
+### [nginx-ui](https://github.com/0xJacky/nginx-ui)
 
-### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
+Nginx 后台管理UI：
 
-`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
+- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
+- 在线 ChatGPT 助理
+- 一键申请和自动续签 Lets encrypt 证书
+- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
+- 在线查看 Nginx 日志
+- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
+- 保存配置后自动测试配置文件并重载 Nginx
+- 基于网页浏览器的高级命令行终端
+- 支持深色模式
+- 自适应网页设计
 
-![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
+![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
 
 ## 🤖 软件 
 
-### [Mos](https://github.com/Caldis/Mos)
+### [VueTube](https://github.com/VueTubeApp/VueTube)
 
-一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
+轻巧的开放源代码流媒体客户端，旨在再造不同流媒体应用程序的所有功能：
 
-![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
+- 🎨  **主题**：明亮、黑暗、OLED，以及彩虹中的任何颜色！您可根据您的喜好选择强调色和背景色。
+- 🖌️  **自定义使用者界面**：自定义主题，甚至停用您不使用的一些界面，以获得最佳体验。
+- ⬆️  **自动更新**：有新版本可用时接收通知，如果您不喜欢也可以撤销更新！
+- 👁️  **追踪阻断**：VueTube 默认不会发送任何跟踪数据，亦不使用任何外部 API。隐私是必要的！
+- 📺  **自家制的 HTML5 视频播放器**：内置在应用程序的播放器，拥有您所需的任何功能，例如 16 倍速。
+- 🌍  **翻译**： 本应用程序支持超过 25 种语言！默认语言因您的设备配置而定。 
 
-### [Squircle-CE](https://github.com/massivemadness/Squircle-CE)
+### [Bonjourr](https://github.com/victrme/Bonjourr)
 
-`Squircle CE` 是一款快速且免费的多语言代码编辑器，适用于安卓系统:
+`Bonjourr` 是法语你好的意思，这是一个简约漂亮的起始页浏览器插件：
 
-![Squircle-CE](https://images-1252557999.file.myqcloud.com/uPic/Squircle-CE.jpg) 
+![Bonjourr](https://images-1252557999.file.myqcloud.com/uPic/Bonjourr.jpg) 
 
-### [Maccy](https://github.com/p0deje/Maccy)
+### [Bangumi](https://github.com/czy0729/Bangumi)
 
-轻量级macOS剪切板管理应用：
+一个基于 `React-Native` 的无广告、以爱好为驱动、不以盈利为目的 [Bangumi](https://bgm.tv/) 第三方客户端，简单比喻就是专门做 `ACG` 的类似豆瓣的应用：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
-使用截图如下：
-
-![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
+![Bangumi](https://images-1252557999.file.myqcloud.com/uPic/Bangumi.jpg) 
 
 ## 👀 资料 
 
-### [BGC](https://beej.us/guide/bgc/)
+### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
 
-面向初学者的 C 语言教程：
+《Software Engineering at Google》的中文翻译版本：
 
-![BGC](https://images-1252557999.file.myqcloud.com/uPic/CtN8CN.png) 
+![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
 
-### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+### [programming-math-science](https://github.com/bobeff/programming-math-science) 
 
-这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
+国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
-我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
+### [Building-a-Small-LLM-from-Scratch](https://github.com/KaihuaTang/Building-a-Small-LLM-from-Scratch)
 
-### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
-
-这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
-
-![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
+该系列的目的是让读者可以在基础的pytorch上，不依赖任何其他现成的外部库，从零开始理解并实现一个大语言模型的所有组成部分，以及训练微调代码，因此读者仅需python，pytorch和最基础深度学习背景知识即可。 
 
 ## 🕸 网站 
 
-### [ugly-avatar](https://txstc55.github.io/ugly-avatar/ "ugly-avatar")
+### [gcopy](https://gcopy.rutron.net/zh)
 
-挺有意思的项目，专门生成丑丑贱贱的头像：
+一个剪切板同步的工具, 支持文字、截图和文件，使用 `Golang` 和 `Nextjs` 开发. 完全[开源](https://github.com/llaoj/gcopy)，`GCopy` 重视您的数据隐私, 不持久化存储您的数据, 它们都在内存中 `24h` 自动删除：
 
-- 网站：https://txstc55.github.io/ugly-avatar/
-- GitHub：https://github.com/txstc55/ugly-avatar
+![gcopy](https://images-1252557999.file.myqcloud.com/uPic/gcopy.jpg) 
 
-![ugly-avatar](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-03-26_22-03-17.jpg) 
+### [removebg.one](https://removebg.one/)
 
-### [it-tools](https://it-tools.tech/)
+免费的图片背景去除网页工具：
 
-面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
+![removebg](https://images-1252557999.file.myqcloud.com/uPic/s6r4xu.png) 
 
-![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
+### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
 
-也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
+目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
 
-### [favoree.io](https://www.favoree.io/)
+![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
 
-`YT` 频道探索发现导航网站，做得很精细，用户可以对频道进行评分和评论，这有助于构建一个由社区驱动的信任体系。网站提供了简单的过滤器，使用户能够根据兴趣、内容质量、视频时长和观众情绪等因素来搜索和发现新的频道和视频。
-
-![favoree](https://images-1252557999.file.myqcloud.com/uPic/favoree.jpg) 
+![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
 
 ## ✍️ 说明
 
