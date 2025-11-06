@@ -5,97 +5,101 @@
 
 ## 🎯 项目 
 
-### [UpSnap](https://github.com/seriousm4x/UpSnap)
+### [WeClone](https://github.com/xming521/WeClone)
 
-`UpSnap` 是一个基于 `SvelteKit、Go & PocketBase` 开发的简单唤醒设备（Wake-on-LAN）`Web` 应用程序，支持自动化定时事件、端口检测、网络扫描发现设备、用户管理、国际化支持、主题选择以及 `Docker` 部署。
+从聊天记录创造数字分身的一站式解决方案：
 
-![UpSnap](https://images-1252557999.file.myqcloud.com/uPic/tzz1z0.png) 
+- 💫 涵盖打造数字分身的全链路方案，包括聊天数据导出、预处理、模型训练、部署
+- 💬 使用微信聊天记录微调LLM，让大模型有“那味儿”
+- 🎙️ 使用微信语音消息➕0.5B大模型实现高质量声音克隆 👉WeClone-audio
+- 🔗 绑定到微信、QQ、Telegram、企微、飞书机器人，实现自己的数字分身 
 
-### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
+### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
 
-基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
+CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
 
-![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
+![CasaOS](https://images-1252557999.file.myqcloud.com/uPic/rA4tpa.jpg) 
 
-### [nginx-ui](https://github.com/0xJacky/nginx-ui)
+### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
 
-Nginx 后台管理UI：
+通过网络收集整理的中文歌词数据库, 包含:
 
-- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
-- 在线 ChatGPT 助理
-- 一键申请和自动续签 Lets encrypt 证书
-- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
-- 在线查看 Nginx 日志
-- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
-- 保存配置后自动测试配置文件并重载 Nginx
-- 基于网页浏览器的高级命令行终端
-- 支持深色模式
-- 自适应网页设计
+- 绝大多数华语歌手在2019年之前的歌曲
+- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
+- 102197首歌曲, 平均每人25.4首歌
 
-![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
+作者基于此数据库做了两个歌词生成器：
+
+- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
+- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
 
 ## 🤖 软件 
 
-### [VueTube](https://github.com/VueTubeApp/VueTube)
+### [copybook-generator](https://github.com/jaywcjlove/copybook-generator)
 
-轻巧的开放源代码流媒体客户端，旨在再造不同流媒体应用程序的所有功能：
+「宝宝字帖」是一款功能强大的字帖生成工具，专为满足不同用户的书写练习需求而设计：
 
-- 🎨  **主题**：明亮、黑暗、OLED，以及彩虹中的任何颜色！您可根据您的喜好选择强调色和背景色。
-- 🖌️  **自定义使用者界面**：自定义主题，甚至停用您不使用的一些界面，以获得最佳体验。
-- ⬆️  **自动更新**：有新版本可用时接收通知，如果您不喜欢也可以撤销更新！
-- 👁️  **追踪阻断**：VueTube 默认不会发送任何跟踪数据，亦不使用任何外部 API。隐私是必要的！
-- 📺  **自家制的 HTML5 视频播放器**：内置在应用程序的播放器，拥有您所需的任何功能，例如 16 倍速。
-- 🌍  **翻译**： 本应用程序支持超过 25 种语言！默认语言因您的设备配置而定。 
+![copybook-generator](https://images-1252557999.file.myqcloud.com/uPic/copybook-generator.jpg) 
 
-### [Bonjourr](https://github.com/victrme/Bonjourr)
+### [little-rat](https://github.com/dnakov/little-rat)
 
-`Bonjourr` 是法语你好的意思，这是一个简约漂亮的起始页浏览器插件：
+Little Rat 是一款开源的 Chrome 扩展，用于实时监测其它的 Chrome 扩展联网情况，并可以选择阻止联网，防止恶意扩展：
 
-![Bonjourr](https://images-1252557999.file.myqcloud.com/uPic/Bonjourr.jpg) 
+![little-rat](https://images-1252557999.file.myqcloud.com/uPic/little-rat.webp) 
 
-### [Bangumi](https://github.com/czy0729/Bangumi)
+### [FreeReNamer](https://github.com/cyhuajuan/FreeReNamer)
 
-一个基于 `React-Native` 的无广告、以爱好为驱动、不以盈利为目的 [Bangumi](https://bgm.tv/) 第三方客户端，简单比喻就是专门做 `ACG` 的类似豆瓣的应用：
+功能强大又易用的文件批量重命名软件：
 
-![Bangumi](https://images-1252557999.file.myqcloud.com/uPic/Bangumi.jpg) 
+![FreeReNamer](https://images-1252557999.file.myqcloud.com/uPic/wSK06i.png) 
 
 ## 👀 资料 
 
-### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
 
-《Software Engineering at Google》的中文翻译版本：
+开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
 
-![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
+![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
 
-### [programming-math-science](https://github.com/bobeff/programming-math-science) 
+### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
 
-国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
+有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
 
-### [Building-a-Small-LLM-from-Scratch](https://github.com/KaihuaTang/Building-a-Small-LLM-from-Scratch)
+![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
 
-该系列的目的是让读者可以在基础的pytorch上，不依赖任何其他现成的外部库，从零开始理解并实现一个大语言模型的所有组成部分，以及训练微调代码，因此读者仅需python，pytorch和最基础深度学习背景知识即可。 
+### [微信之父张小龙2351条饭否日记](https://docs.qq.com/doc/DWUVKZERkeGFLckp6?dver=)
+
+微信之父张小龙2351条饭否日记:
+
+![zxl_ff](https://images-1252557999.file.myqcloud.com/uPic/zxl_ff.jpg) 
 
 ## 🕸 网站 
 
-### [gcopy](https://gcopy.rutron.net/zh)
+### [smithery.ai](https://smithery.ai/)
 
-一个剪切板同步的工具, 支持文字、截图和文件，使用 `Golang` 和 `Nextjs` 开发. 完全[开源](https://github.com/llaoj/gcopy)，`GCopy` 重视您的数据隐私, 不持久化存储您的数据, 它们都在内存中 `24h` 自动删除：
+一个集成了多种 Model Context Protocol (MCP) 服务器的平台，旨于通过 MCP 服务器扩展代理（AI）的功能，使其能够访问和管理大量工具和数据，从而提高决策和解决问题的能力：
 
-![gcopy](https://images-1252557999.file.myqcloud.com/uPic/gcopy.jpg) 
+![smithery](https://images-1252557999.file.myqcloud.com/uPic/F7tIpp.png) 
 
-### [removebg.one](https://removebg.one/)
+### [json-translate](https://github.com/ViggoZ/json-translate/blob/main/README.zh.md)
 
-免费的图片背景去除网页工具：
+AI驱动的JSON国际化翻译工具，免费在线JSON翻译工具，支持40+种语言，由AI驱动：
 
-![removebg](https://images-1252557999.file.myqcloud.com/uPic/s6r4xu.png) 
+![json-translate](https://images-1252557999.file.myqcloud.com/uPic/IzziYk.png) 
 
-### [privacy-policy-gen](https://toolbox.yolo.blue/#/privacy-policy)
+### [腾讯 ARC](https://arc.tencent.com/zh/ai-demos/faceRestoration)
 
-目前国内上架 APP 普遍需要软件著作权、ICP 备案、公司资质等，对于隐私政策的要求也越来越严格，往往要经过多次修改才能“合规”。网站开发者在这块有较多经验于是将目前合规的版本做成模板，方便一键生成。
+腾讯 `ARC Lab` 被称为腾讯 `PCG` 的「侦察兵」、「特种兵」，站在腾讯探索挑战智能媒体相关前沿技术的第一线。
 
-![privacy-policy](https://images-1252557999.file.myqcloud.com/uPic/U5XxZE.png)
+这个 `Demo` 网页允许用户进行：
 
-![terms-and-conditions](https://images-1252557999.file.myqcloud.com/uPic/jH8Xyz.png) 
+- 人像修复
+- 人像抠图
+- 动漫增强
+
+模型，免费实用。
+
+![faceRestoration](https://images-1252557999.file.myqcloud.com/uPic/faceRestoration.jpg) 
 
 ## ✍️ 说明
 
