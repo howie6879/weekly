@@ -5,101 +5,120 @@
 
 ## 🎯 项目 
 
-### [WeClone](https://github.com/xming521/WeClone)
+### [pingvin-share](https://github.com/stonith404/pingvin-share)
 
-从聊天记录创造数字分身的一站式解决方案：
+`Pingvin Share` 是一个可自建的文件分享平台，是 `WeTransfer` 的一个替代品：
 
-- 💫 涵盖打造数字分身的全链路方案，包括聊天数据导出、预处理、模型训练、部署
-- 💬 使用微信聊天记录微调LLM，让大模型有“那味儿”
-- 🎙️ 使用微信语音消息➕0.5B大模型实现高质量声音克隆 👉WeClone-audio
-- 🔗 绑定到微信、QQ、Telegram、企微、飞书机器人，实现自己的数字分身 
+- 通过可自定义后缀的链接分享文件
+- 可自定义任意大小的文件上传限制 (受制于托管所在的硬盘大小)
+- 对共享链接设置有效期限
+- 对共享链接设置访问次数和访问密码
+- 通过邮件自动发送共享链接
+- 整合 ClamAV 进行反病毒检查
 
-### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
+![pingvin-share](https://images-1252557999.file.myqcloud.com/uPic/pingvin-share.png)
+还有个类似的开源项目[奶油快传-bitiful/send](https://github.com/bitiful/send)，相对轻量，但也没有 `pingvin-share` 成熟：
 
-CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
+![bitiful](https://images-1252557999.file.myqcloud.com/uPic/bitiful.jpg) 
 
-![CasaOS](https://images-1252557999.file.myqcloud.com/uPic/rA4tpa.jpg) 
+### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
 
-### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
+相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
 
-通过网络收集整理的中文歌词数据库, 包含:
+如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
 
-- 绝大多数华语歌手在2019年之前的歌曲
-- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
-- 102197首歌曲, 平均每人25.4首歌
+### [Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals)
 
-作者基于此数据库做了两个歌词生成器：
+黑五 Mac IOS 生态相关软件打折软件汇总项目：
 
-- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
-- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
+![Black-Friday-Deals](https://images-1252557999.file.myqcloud.com/uPic/Black-Friday-Deals.png) 
 
 ## 🤖 软件 
 
-### [copybook-generator](https://github.com/jaywcjlove/copybook-generator)
+### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
 
-「宝宝字帖」是一款功能强大的字帖生成工具，专为满足不同用户的书写练习需求而设计：
+FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
 
-![copybook-generator](https://images-1252557999.file.myqcloud.com/uPic/copybook-generator.jpg) 
+- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
+- 基于文本的歌单，方便与朋友分享、设备之间同步
+- 提供基于 TCP 的交互控制协议
+- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
+- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
 
-### [little-rat](https://github.com/dnakov/little-rat)
+![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
 
-Little Rat 是一款开源的 Chrome 扩展，用于实时监测其它的 Chrome 扩展联网情况，并可以选择阻止联网，防止恶意扩展：
+### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 
-![little-rat](https://images-1252557999.file.myqcloud.com/uPic/little-rat.webp) 
+这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
 
-### [FreeReNamer](https://github.com/cyhuajuan/FreeReNamer)
+`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
 
-功能强大又易用的文件批量重命名软件：
+- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
+  
+- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
+  
 
-![FreeReNamer](https://images-1252557999.file.myqcloud.com/uPic/wSK06i.png) 
+![neteasy](https://images-1252557999.file.myqcloud.com/uPic/neteasy.png) 
+
+### [aidea](https://github.com/mylxsw/aidea)
+
+一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：
+
+- 支持 GPT-3.5/4 问答聊天
+- 支持国产模型：通义千问，文心一言
+- 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
+
+![aidea](https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg) 
 
 ## 👀 资料 
 
-### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
 
-开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
+为初学者整理的免费 `CSS` 课程：
 
-![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
+![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
 
-### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
+### [通识千书书单-聪明的阅读者](https://docs.qq.com/sheet/DY2RmcVVMVE9Qd3JV?tab=BB08J2)
 
-有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
+汇总聪明的阅读者里面出现的书单，可以选择最小单位的书单阅读：
 
-![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
+![聪明的阅读者](https://images-1252557999.file.myqcloud.com/uPic/聪明的阅读者.jpg) 
 
-### [微信之父张小龙2351条饭否日记](https://docs.qq.com/doc/DWUVKZERkeGFLckp6?dver=)
+### [AI-Agent-In-Action](https://github.com/AIGeniusInstitute/AI-Agent-In-Action)
 
-微信之父张小龙2351条饭否日记:
+开源的 `AI Agent` 开发实战书籍：
 
-![zxl_ff](https://images-1252557999.file.myqcloud.com/uPic/zxl_ff.jpg) 
+![AI-Agent-In-Action](https://images-1252557999.file.myqcloud.com/uPic/VkUaD9.png) 
 
 ## 🕸 网站 
 
-### [smithery.ai](https://smithery.ai/)
+### [webutils](https://www.webutils.app/)
 
-一个集成了多种 Model Context Protocol (MCP) 服务器的平台，旨于通过 MCP 服务器扩展代理（AI）的功能，使其能够访问和管理大量工具和数据，从而提高决策和解决问题的能力：
+一个提供web小工具的网站，比如：
 
-![smithery](https://images-1252557999.file.myqcloud.com/uPic/F7tIpp.png) 
+- 文本比较
+- 图片压缩
+- 图片转换
 
-### [json-translate](https://github.com/ViggoZ/json-translate/blob/main/README.zh.md)
+![webutils](https://images-1252557999.file.myqcloud.com/uPic/ijDiPA.png) 
 
-AI驱动的JSON国际化翻译工具，免费在线JSON翻译工具，支持40+种语言，由AI驱动：
+### [LocallyTools](https://github.com/howie6879/weekly/issues/181)
 
-![json-translate](https://images-1252557999.file.myqcloud.com/uPic/IzziYk.png) 
+这是一个在线工具箱网站，它最大的特点是：所有工具都 100% 在用户的浏览器本地运行。图片压缩、PDF 处理等所有计算任务都在本地完成，这从根本上保证了用户的隐私和数据安全。
 
-### [腾讯 ARC](https://arc.tencent.com/zh/ai-demos/faceRestoration)
+秉持“用完即走”的原则，永久免费、无需注册登录，界面简洁，交互直接。目前有三大类常用工具：
 
-腾讯 `ARC Lab` 被称为腾讯 `PCG` 的「侦察兵」、「特种兵」，站在腾讯探索挑战智能媒体相关前沿技术的第一线。
+- 图片工具：如图片压缩、格式转换（支持 AVIF/WebP）、裁剪旋转等。
+- PDF 工具：如 PDF 合并、拆分、页面移除等。
+- 开发者工具：如 UUID 生成、JWT 解码、代码格式化（支持多种语言）等。
 
-这个 `Demo` 网页允许用户进行：
+![LocallyTools](https://images-1252557999.file.myqcloud.com/uPic/Y2rLxV.png) 
 
-- 人像修复
-- 人像抠图
-- 动漫增强
+### [uilibhub](https://uilibhub.com/zh)
 
-模型，免费实用。
+探索最佳 `UI` 库，助力 `React & Vue` 高效开发：
 
-![faceRestoration](https://images-1252557999.file.myqcloud.com/uPic/faceRestoration.jpg) 
+![uilibhub](https://images-1252557999.file.myqcloud.com/uPic/uilibhub.jpg) 
 
 ## ✍️ 说明
 
