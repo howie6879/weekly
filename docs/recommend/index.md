@@ -5,35 +5,52 @@
 
 ## 🎯 项目 
 
-### [pingvin-share](https://github.com/stonith404/pingvin-share)
+### [screenshot-to-code](https://github.com/abi/screenshot-to-code)
 
-`Pingvin Share` 是一个可自建的文件分享平台，是 `WeTransfer` 的一个替代品：
+依赖 `GPT-4 Vision` 特性，允许用户将屏幕截图作为输入，然后将其转换为整洁的HTML/Tailwind/JS代码，和上一期推荐的 [draw-a-ui](https://weekly.howie6879.com/2023/11-06~11-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC115%E6%9C%9F%EF%BC%89.html) 有异曲同工之妙。
 
-- 通过可自定义后缀的链接分享文件
-- 可自定义任意大小的文件上传限制 (受制于托管所在的硬盘大小)
-- 对共享链接设置有效期限
-- 对共享链接设置访问次数和访问密码
-- 通过邮件自动发送共享链接
-- 整合 ClamAV 进行反病毒检查
+![screenshot-to-code](https://images-1252557999.file.myqcloud.com/uPic/screenshot-to-code.jpg) 
 
-![pingvin-share](https://images-1252557999.file.myqcloud.com/uPic/pingvin-share.png)
-还有个类似的开源项目[奶油快传-bitiful/send](https://github.com/bitiful/send)，相对轻量，但也没有 `pingvin-share` 成熟：
+### [MoonTV](https://github.com/senshinya/MoonTV)
 
-![bitiful](https://images-1252557999.file.myqcloud.com/uPic/bitiful.jpg) 
+🎬 `MoonTV` 是一个开箱即用的、跨平台的影视聚合播放器。它基于 `Next.js 14 + Tailwind CSS + TypeScript` 构建，支持多资源搜索、在线播放、收藏同步、播放记录、本地/云端存储，让你可以随时随地畅享海量免费影视内容。
 
-### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
+- 🔍 多源聚合搜索：内置数十个免费资源站点，一次搜索立刻返回全源结果。
+- 📄 丰富详情页：支持剧集列表、演员、年份、简介等完整信息展示。
+- ▶️ 流畅在线播放：集成 HLS.js & VidStack。
+- ❤️ 收藏 + 继续观看：Docker 部署支持 Redis 存储，多端同步进度。
+- 📱 PWA：离线缓存、安装到桌面/主屏，移动端原生体验。
+- 🌗 响应式布局：桌面侧边栏 + 移动底部导航，自适应各种屏幕尺寸。
+- 🚀 极简部署：一条 Docker 命令即可将完整服务跑起来，或免费部署到 Vercel。
+- 👿 智能去广告：自动跳过视频中的切片广告（实验性）
 
-相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
+![MoonTV](https://images-1252557999.file.myqcloud.com/uPic/8bdYCW.png)
 
-如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
+这个和之前推荐的 [LibreTV](https://github.com/LibreSpark/LibreTV) 一样的实现思路，仅仅是界面和一些小功能有点差别，都能用。
 
-### [Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals)
+这里有个搭建好的，可直接用 [kanmaoxian.online](https://kanmaoxian.online/)，密码是: kanmaoxian 
 
-黑五 Mac IOS 生态相关软件打折软件汇总项目：
+### [LLM-Red-Team](https://github.com/LLM-Red-Team)
 
-![Black-Friday-Deals](https://images-1252557999.file.myqcloud.com/uPic/Black-Friday-Deals.png) 
+`LLM Red Team` 意为 `LLM` 大模型红队，对各大模型进行逆向然后提供 API 接口，方便开发者调用测试：
+
+![LLM-Red-Team](https://images-1252557999.file.myqcloud.com/uPic/LLM-Red-Team.jpg) 
 
 ## 🤖 软件 
+
+### [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
+
+安卓的 `BiliBili、NicoNico、YouTube` 替换客户端，支持弹幕、评论、登录下载：
+
+![pipepipe](https://images-1252557999.file.myqcloud.com/uPic/pipepipe.jpg) 
+
+### [gushi_namer](https://github.com/holynova/gushi_namer)
+
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
+
+![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
 ### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
 
@@ -47,78 +64,43 @@ FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
 
 ![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
 
-### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
-
-这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
-
-`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
-
-- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
-  
-- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
-  
-
-![neteasy](https://images-1252557999.file.myqcloud.com/uPic/neteasy.png) 
-
-### [aidea](https://github.com/mylxsw/aidea)
-
-一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：
-
-- 支持 GPT-3.5/4 问答聊天
-- 支持国产模型：通义千问，文心一言
-- 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
-
-![aidea](https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg) 
-
 ## 👀 资料 
 
-### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
+### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
 
-为初学者整理的免费 `CSS` 课程：
+该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
 
-![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
+### [统计学自学指南](https://xuankaiwang.github.io/)
 
-### [通识千书书单-聪明的阅读者](https://docs.qq.com/sheet/DY2RmcVVMVE9Qd3JV?tab=BB08J2)
+这是一本统计的自学指南, 也是作者在数院自学生涯的一个纪念：
 
-汇总聪明的阅读者里面出现的书单，可以选择最小单位的书单阅读：
+![XuankaiWang](https://images-1252557999.file.myqcloud.com/uPic/XuankaiWang.jpg) 
 
-![聪明的阅读者](https://images-1252557999.file.myqcloud.com/uPic/聪明的阅读者.jpg) 
+### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
-### [AI-Agent-In-Action](https://github.com/AIGeniusInstitute/AI-Agent-In-Action)
+为忙碌的工程师准备的精选面试准备材料：
 
-开源的 `AI Agent` 开发实战书籍：
-
-![AI-Agent-In-Action](https://images-1252557999.file.myqcloud.com/uPic/VkUaD9.png) 
+![tech-interview-handbook](https://images-1252557999.file.myqcloud.com/uPic/lAcwMK.png) 
 
 ## 🕸 网站 
 
-### [webutils](https://www.webutils.app/)
+### [macosicongallery](https://www.macosicongallery.com/)
 
-一个提供web小工具的网站，比如：
+专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
 
-- 文本比较
-- 图片压缩
-- 图片转换
+![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
 
-![webutils](https://images-1252557999.file.myqcloud.com/uPic/ijDiPA.png) 
+### [freelancethings](https://www.freelancethings.co/)
 
-### [LocallyTools](https://github.com/howie6879/weekly/issues/181)
+为自由职业者精心挑选的资源，涉及到社区、工具、文章、书籍、视频等，这些都帮助你在自由职业之旅中获得更多帮助，订阅后每周发送到您的收件箱:
 
-这是一个在线工具箱网站，它最大的特点是：所有工具都 100% 在用户的浏览器本地运行。图片压缩、PDF 处理等所有计算任务都在本地完成，这从根本上保证了用户的隐私和数据安全。
+![freelancethings](https://images-1252557999.file.myqcloud.com/uPic/freelancethings.jpg) 
 
-秉持“用完即走”的原则，永久免费、无需注册登录，界面简洁，交互直接。目前有三大类常用工具：
+### [openalternative](https://openalternative.co/)
 
-- 图片工具：如图片压缩、格式转换（支持 AVIF/WebP）、裁剪旋转等。
-- PDF 工具：如 PDF 合并、拆分、页面移除等。
-- 开发者工具：如 UUID 生成、JWT 解码、代码格式化（支持多种语言）等。
+网站提供了一些项目的开源选择：
 
-![LocallyTools](https://images-1252557999.file.myqcloud.com/uPic/Y2rLxV.png) 
-
-### [uilibhub](https://uilibhub.com/zh)
-
-探索最佳 `UI` 库，助力 `React & Vue` 高效开发：
-
-![uilibhub](https://images-1252557999.file.myqcloud.com/uPic/uilibhub.jpg) 
+![openalternative](https://images-1252557999.file.myqcloud.com/uPic/openalternative.jpg) 
 
 ## ✍️ 说明
 
