@@ -5,79 +5,94 @@
 
 ## 🎯 项目 
 
-### [OnnxOCR](https://github.com/jingsongliujing/OnnxOCR)
+### [aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse/)
 
-基于 `PaddleOCR` 重构，并且脱离PaddlePaddle深度学习训练框架的轻量级 `OCR`，推理速度超快。 
+本项目则直接通过 FUSE 实现将阿里云盘挂载为本地磁盘，非常好用，我是这个项目作者的粉丝。 
 
-### [naive-ui](https://github.com/tusen-ai/naive-ui)
+### [blinko](https://github.com/blinkospace/blinko)
 
-一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
+- `Blinko` 是一个创新的开源项目，专为那些想要快速捕捉和组织灵感的人设计。它允许用户在灵感闪现的瞬间无缝记录想法，确保不错过任何创意火花：
+- 🤖AI 增强笔记检索：通过 Blinko 的先进 AI 驱动的 RAG（检索增强生成）技术，你可以使用自然语言查询快速搜索和访问笔记，轻松找到所需内容。支持 OpenAI、Azure OpenAI 和 Ollama。
+- 🔒数据所有权：你的隐私至关重要。所有笔记和数据都安全存储在你的自托管环境中，确保对信息的完全控制。
+- 🚀高效快速：即时捕捉想法并以纯文本形式存储以便于访问，完全支持 Markdown 格式，便于快速排版和分享。
+- 💡轻量架构，多端支持：基于 Tauri 构建的 Blinko 采用简洁轻量的架构，在保持卓越速度和效率的同时，并且支持Macos,Windows,Android,Linux等多平台。
+- 🔓开放协作：作为开源项目，Blinko 欢迎社区贡献。所有代码都在 GitHub 上公开透明，培养协作和持续改进的精神。
 
-![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
+![blinko](https://images-1252557999.file.myqcloud.com/uPic/R3axJB.png) 
 
-### [memories](https://github.com/pulsejet/memories)
+### [deepclaude](https://github.com/getasterisk/deepclaude)
 
-构建于 `Nextcloud` 之上的照片管理器，基本包含了照片管理器的常见功能，值得安装体验（前提是你正在使用 Nextcloud）：
+`Aider` 团队最新研究通过[采用 DeepSeek R1 + Claude 3.5 Sonnet](https://aider.chat/2025/01/24/r1-sonnet.html) 可以实现最好的效果：
 
-![memories](https://images-1252557999.file.myqcloud.com/uPic/memories.jpeg) 
+![deepclaude-web](https://images-1252557999.file.myqcloud.com/uPic/xFt7fe.png)
+
+![deepclaude](https://images-1252557999.file.myqcloud.com/uPic/MNsnRO.png)
+
+相关资料：
+
+- [R1+Sonnet set SOTA on aider’s polyglot benchmark](https://aider.chat/2025/01/24/r1-sonnet.html)
+- [第三方 Python 实现](https://github.com/ErlichLiu/DeepClaude) 
 
 ## 🤖 软件 
 
-### [Hiddify](https://github.com/hiddify/hiddify-next)
+### [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)
 
-挺好用的网络代理软件，现在主用这个：
+一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制：
 
-![hiddify](https://images-1252557999.file.myqcloud.com/uPic/hiddify.jpg) 
+![AlgerMusicPlayer](https://images-1252557999.file.myqcloud.com/uPic/F3RBkY.png) 
 
-### [AIaW](https://github.com/NitroRCr/AIaW)
+### [P2P Remote Desktop](https://github.com/miroslavpejic85/p2p)
 
-`AI as Workspace` - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步：
+`P2P Remote Desktop` 是一个开源的远程桌面控制工具，它支持直接点对点连接，不需要任何中转服务器，因此具有较高的连接稳定性和速度：
 
-![AIaW](https://images-1252557999.file.myqcloud.com/uPic/n5l83s.png) 
+![P2P Remote Desktop](https://images-1252557999.file.myqcloud.com/uPic/ysw51U.png) 
 
-### [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
+### [Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)
 
-`Bulk Crap Uninstaller` 是一款免费开源的 `Windows` 卸载软件，它能够快速删除大量不需要的应用程序，甚至是便携或未注册的程序与游戏，并且能自动扫描残留文件、注册表遗留内容等：
+由于在 `QQ` 和微信中发送 `APK` 文件时，文件名会被腾讯添加后缀.1，此 `App` 可以省去重命名步骤，直接安装：
 
-![Bulk-Crap-Uninstaller](https://images-1252557999.file.myqcloud.com/uPic/Bulk-Crap-Uninstaller.png) 
+- 获取安装权限（不需要读取存储权限）
+- 在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序 
 
 ## 👀 资料 
 
-### [Spark权威指南-中文翻译](https://snaildove.github.io/2020/02/10/summary_of_Translation%28SparkTheDefinitiveGuide%29_online/)
+### [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)
 
-对《Spark - The Definitive Guide - Big data processing made simple》进行的中文翻译。 
+一本由 GPT4 生成的中英词典，涵盖 8000 高频词汇：
 
-### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
+![DictionaryByGPT4](https://images-1252557999.file.myqcloud.com/uPic/DictionaryByGPT4.png) 
 
-Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
 
-![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
+站点可靠性工作手册：
 
-### [C++服务器开发精髓](https://cppguide.cn/pages/92255f/)
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
-开源电子书籍，本书从操作系统原理角度讲解进行C++服务器开发所需掌握的技术栈：
+### [uxbaike](https://uxbaike.com/)
 
-![cppguide](https://images-1252557999.file.myqcloud.com/uPic/cppguide.jpg) 
+UX 百科，属于设计师的专业知识库：
+
+![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
 
 ## 🕸 网站 
 
-### [zerogpt](https://www.zerogpt.com/)
+### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
 
-由 `ZeroGPT` 开发的 `GPT-4，ChatGPT` AI 内容检测器：
+@妙才投稿，在线学习git命令的网站：
 
-![zerogpt](https://images-1252557999.file.myqcloud.com/uPic/zerogpt.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
 
-### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
+### [openalternative](https://openalternative.co/)
 
-配置高性能、安全、稳定的NGINX服务器的最简单方法：
+网站提供了一些项目的开源选择：
 
-![nginx_web](https://images-1252557999.file.myqcloud.com/uPic/N7Yp8R.png) 
+![openalternative](https://images-1252557999.file.myqcloud.com/uPic/openalternative.jpg) 
 
-### [dev.to](https://dev.to/)
+### [github copilot](https://github.com/copilot)
 
-国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
+`GitHub Copilot` 可以免费使用了，免费用户每月有 2000 个代码建议、50 次对话。
 
-![dev_to](https://images-1252557999.file.myqcloud.com/uPic/dev_to.png) 
+![copilot](https://images-1252557999.file.myqcloud.com/uPic/648shM.png) 
 
 ## ✍️ 说明
 
