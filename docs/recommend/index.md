@@ -5,94 +5,105 @@
 
 ## 🎯 项目 
 
-### [aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse/)
+### [milvus](https://github.com/milvus-io/milvus)
 
-本项目则直接通过 FUSE 实现将阿里云盘挂载为本地磁盘，非常好用，我是这个项目作者的粉丝。 
+`Milvus` 是一款开源的特征向量搜索引擎：
 
-### [blinko](https://github.com/blinkospace/blinko)
+![milvus](https://images-1252557999.file.myqcloud.com/uPic/milvus.jpg) 
 
-- `Blinko` 是一个创新的开源项目，专为那些想要快速捕捉和组织灵感的人设计。它允许用户在灵感闪现的瞬间无缝记录想法，确保不错过任何创意火花：
-- 🤖AI 增强笔记检索：通过 Blinko 的先进 AI 驱动的 RAG（检索增强生成）技术，你可以使用自然语言查询快速搜索和访问笔记，轻松找到所需内容。支持 OpenAI、Azure OpenAI 和 Ollama。
-- 🔒数据所有权：你的隐私至关重要。所有笔记和数据都安全存储在你的自托管环境中，确保对信息的完全控制。
-- 🚀高效快速：即时捕捉想法并以纯文本形式存储以便于访问，完全支持 Markdown 格式，便于快速排版和分享。
-- 💡轻量架构，多端支持：基于 Tauri 构建的 Blinko 采用简洁轻量的架构，在保持卓越速度和效率的同时，并且支持Macos,Windows,Android,Linux等多平台。
-- 🔓开放协作：作为开源项目，Blinko 欢迎社区贡献。所有代码都在 GitHub 上公开透明，培养协作和持续改进的精神。
+### [luxirty-search](https://github.com/KoriIku/luxirty-search)
 
-![blinko](https://images-1252557999.file.myqcloud.com/uPic/R3axJB.png) 
+一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快：
 
-### [deepclaude](https://github.com/getasterisk/deepclaude)
+![luxirty-search](https://images-1252557999.file.myqcloud.com/uPic/TSeOpC.png) 
 
-`Aider` 团队最新研究通过[采用 DeepSeek R1 + Claude 3.5 Sonnet](https://aider.chat/2025/01/24/r1-sonnet.html) 可以实现最好的效果：
+### [dm-ticket](https://github.com/ClassmateLin/dm-ticket)
 
-![deepclaude-web](https://images-1252557999.file.myqcloud.com/uPic/xFt7fe.png)
+大麦网自动购票, 支持 `docker` 一键部署:
 
-![deepclaude](https://images-1252557999.file.myqcloud.com/uPic/MNsnRO.png)
-
-相关资料：
-
-- [R1+Sonnet set SOTA on aider’s polyglot benchmark](https://aider.chat/2025/01/24/r1-sonnet.html)
-- [第三方 Python 实现](https://github.com/ErlichLiu/DeepClaude) 
+![dm-ticket](https://images-1252557999.file.myqcloud.com/uPic/dm-ticket.png) 
 
 ## 🤖 软件 
 
-### [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)
+### [tvapk](https://github.com/Archmage83/tvapk)
 
-一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制：
+收集各大 `AndroidTV` 的 `apk` 应用，可免费看各种vip和国外电影电视：
 
-![AlgerMusicPlayer](https://images-1252557999.file.myqcloud.com/uPic/F3RBkY.png) 
+![tvapk](https://images-1252557999.file.myqcloud.com/uPic/tvapk.png) 
 
-### [P2P Remote Desktop](https://github.com/miroslavpejic85/p2p)
+### [any-reader](https://github.com/aooiuu/any-reader)
 
-`P2P Remote Desktop` 是一个开源的远程桌面控制工具，它支持直接点对点连接，不需要任何中转服务器，因此具有较高的连接稳定性和速度：
+多平台自定义源资源聚合工具，支持看小说、漫画、视频等：
 
-![P2P Remote Desktop](https://images-1252557999.file.myqcloud.com/uPic/ysw51U.png) 
+- 跨平台: Windows、Mac、Linux
+- 多应用: 桌面端、网页端、Docker、VSCode插件、 uTools 插件、rubick 插件
+- 多类型：小说、漫画、视频、音频
+- 自定义源：通过 XPath、JSONPath、CSS选择器、正则、JS等轻松编写规则
+- 生态兼容：兼容 eso 源
+- 资源站接入：支持导入苹果CMS、ZyPlayer
+- 开放解析库：规则解析库分离, 你可以使用解析库开发自己的程序
+- 本地资源支持：支持本地小说格式 TXT、Epub
 
-### [Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)
+![any-reader](https://images-1252557999.file.myqcloud.com/uPic/any-reader.jpg) 
 
-由于在 `QQ` 和微信中发送 `APK` 文件时，文件名会被腾讯添加后缀.1，此 `App` 可以省去重命名步骤，直接安装：
+### [HandBrake](https://github.com/HandBrake/HandBrake)
 
-- 获取安装权限（不需要读取存储权限）
-- 在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序 
+`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
+
+![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
 
 ## 👀 资料 
 
-### [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)
+### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
 
-一本由 GPT4 生成的中英词典，涵盖 8000 高频词汇：
+阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
 
-![DictionaryByGPT4](https://images-1252557999.file.myqcloud.com/uPic/DictionaryByGPT4.png) 
+![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
 
-### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+### [Ai迷思录](https://github.com/Acmesec/theAIMythbook)
 
-站点可靠性工作手册：
+涵盖了人工智能的基础知识、法律法规、经典人工智能模型、漏洞与攻击、防御方法、安全开发与运维、相关框架、会议讲座以及实践技能等。
 
-![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
+![theAIMythbook](https://images-1252557999.file.myqcloud.com/uPic/lPbVPg.png) 
 
-### [uxbaike](https://uxbaike.com/)
+### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
-UX 百科，属于设计师的专业知识库：
+30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
 
-![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
+![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
 
 ## 🕸 网站 
 
-### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
+### [bloghub](https://bloghub.fun/)
 
-@妙才投稿，在线学习git命令的网站：
+优质博客聚合展示项目，"子曰：有朋自远方来，不亦说乎"，希望 BlogHub 也能让大家发现更多有趣的灵魂，结交更多的朋友：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
+![bloghub](https://images-1252557999.file.myqcloud.com/uPic/bloghub.jpg)
+项目参考数据源：[chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)：中文独立博客列表 
 
-### [openalternative](https://openalternative.co/)
+### [alleyread](https://alleyread.com/)
 
-网站提供了一些项目的开源选择：
+发现优质 `Newsletter`：
 
-![openalternative](https://images-1252557999.file.myqcloud.com/uPic/openalternative.jpg) 
+![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
 
-### [github copilot](https://github.com/copilot)
+### [ticompressor](https://www.ticompressor.com/online/)
 
-`GitHub Copilot` 可以免费使用了，免费用户每月有 2000 个代码建议、50 次对话。
+压缩速度极快的图片压缩软件，有网页版和软件版：
 
-![copilot](https://images-1252557999.file.myqcloud.com/uPic/648shM.png) 
+- 具有超快的压缩速度
+- 支持压缩 GB 级别的超大体积的图片
+- 支持 7 种图片格式
+- 支持深、浅色主题模式
+- 可对原始图片进行预览
+- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
+- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
+- 实时显示压缩进度
+- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
+
+![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
+
+![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
 
 ## ✍️ 说明
 
