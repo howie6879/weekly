@@ -5,105 +5,85 @@
 
 ## 🎯 项目 
 
-### [milvus](https://github.com/milvus-io/milvus)
+### [picx](https://github.com/XPoet/picx)
 
-`Milvus` 是一款开源的特征向量搜索引擎：
+基于 GitHub API 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！
 
-![milvus](https://images-1252557999.file.myqcloud.com/uPic/milvus.jpg) 
+![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg) 
 
-### [luxirty-search](https://github.com/KoriIku/luxirty-search)
+### [chart-gpt](https://github.com/whoiskatrin/chart-gpt)
 
-一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快：
+基于文本输入构建图表的人工智能工具，可以直接在官网 [https://www.chartgpt.dev](https://www.chartgpt.dev/) 体验：
 
-![luxirty-search](https://images-1252557999.file.myqcloud.com/uPic/TSeOpC.png) 
+![chartgpt](https://images-1252557999.file.myqcloud.com/uPic/chartgpt.jpg) 
 
-### [dm-ticket](https://github.com/ClassmateLin/dm-ticket)
+### [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo "MoneyPrinterTurbo")
 
-大麦网自动购票, 支持 `docker` 一键部署:
+只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频：
 
-![dm-ticket](https://images-1252557999.file.myqcloud.com/uPic/dm-ticket.png) 
+![MoneyPrinterTurbo](https://images-1252557999.file.myqcloud.com/uPic/MoneyPrinterTurbo.jpeg) 
 
 ## 🤖 软件 
 
-### [tvapk](https://github.com/Archmage83/tvapk)
+### [image-matting](https://github.com/pangxiaobin/image-matting)
 
-收集各大 `AndroidTV` 的 `apk` 应用，可免费看各种vip和国外电影电视：
+基于开源模型 `briaai/RMBG-1.4` 实现图像抠图：
 
-![tvapk](https://images-1252557999.file.myqcloud.com/uPic/tvapk.png) 
+![image-matting](https://images-1252557999.file.myqcloud.com/uPic/image-matting.jpg)
 
-### [any-reader](https://github.com/aooiuu/any-reader)
+还有个闭源免费版本，可以参考进行使用[鲜艺AI抠图](https://kt.94xy.com/)，免费的离线AI抠图工具。 
 
-多平台自定义源资源聚合工具，支持看小说、漫画、视频等：
+### [bilibili-manga-downloader](https://github.com/lanyeeee/bilibili-manga-downloader)
 
-- 跨平台: Windows、Mac、Linux
-- 多应用: 桌面端、网页端、Docker、VSCode插件、 uTools 插件、rubick 插件
-- 多类型：小说、漫画、视频、音频
-- 自定义源：通过 XPath、JSONPath、CSS选择器、正则、JS等轻松编写规则
-- 生态兼容：兼容 eso 源
-- 资源站接入：支持导入苹果CMS、ZyPlayer
-- 开放解析库：规则解析库分离, 你可以使用解析库开发自己的程序
-- 本地资源支持：支持本地小说格式 TXT、Epub
+一个用于哔哩哔哩漫画的多线程下载器，带图形界面，支持特典下载，下载速度飞快:
 
-![any-reader](https://images-1252557999.file.myqcloud.com/uPic/any-reader.jpg) 
+![bilibili-manga-downloader](https://images-1252557999.file.myqcloud.com/uPic/ZqukK1.png) 
 
-### [HandBrake](https://github.com/HandBrake/HandBrake)
+### [pilipala](https://github.com/guozhigq/pilipala)
 
-`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
+使用 `Flutter` 开发的 `BiliBili` 第三方客户端，专为提高用户在观看BiliBili视频时的体验而设计：
 
-![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
+![pilipala](https://images-1252557999.file.myqcloud.com/uPic/pilipala.jpg) 
 
 ## 👀 资料 
 
-### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
+### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
 
-阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
+对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
 
-![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
+### [aie-book](https://github.com/chiphuyen/aie-book)
 
-### [Ai迷思录](https://github.com/Acmesec/theAIMythbook)
+`AI` 工程师资源合集，该书涵盖了从基础模型到实际应用的整个过程，包括数据准备、模型评估、问题解决等方面。书中还提供了案例研究、误差分析、提示工程、代理构建、微调模型、数据验证、模型优化和持续改进的框架。这本书适合各种技术角色，包括 `AI` 工程师、数据科学家、工程经理和产品经理。
 
-涵盖了人工智能的基础知识、法律法规、经典人工智能模型、漏洞与攻击、防御方法、安全开发与运维、相关框架、会议讲座以及实践技能等。
+![aie-book](https://images-1252557999.file.myqcloud.com/uPic/QD4TLj.png) 
 
-![theAIMythbook](https://images-1252557999.file.myqcloud.com/uPic/lPbVPg.png) 
+### [learnprompting.org](https://learnprompting.org/zh-Hans/docs/intro)
 
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+> 如何同人工智能交流，并得到你要的结果。
 
-30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
+随着最近人工智能的不断进步，提示工程这项技能变得越来越重要。本课程会聚焦于如何使用提示工程。你不需要很多机器学习相关的知识。
 
-![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
+![learnprompting](https://images-1252557999.file.myqcloud.com/uPic/learnprompting.jpg) 
 
 ## 🕸 网站 
 
-### [bloghub](https://bloghub.fun/)
+### [fviewer](https://www.fviewer.com/zh)
 
-优质博客聚合展示项目，"子曰：有朋自远方来，不亦说乎"，希望 BlogHub 也能让大家发现更多有趣的灵魂，结交更多的朋友：
+免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
 
-![bloghub](https://images-1252557999.file.myqcloud.com/uPic/bloghub.jpg)
-项目参考数据源：[chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)：中文独立博客列表 
+![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
 
-### [alleyread](https://alleyread.com/)
+### [trendingpapers](https://trendingpapers.com)
 
-发现优质 `Newsletter`：
+类似于 `Github Trending` 的计算机科学论文趋势榜单：
 
-![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
+![trendingpapers](https://images-1252557999.file.myqcloud.com/uPic/trendingpapers.jpg) 
 
-### [ticompressor](https://www.ticompressor.com/online/)
+### [chatgpt-sites](https://github.com/lzwme/chatgpt-sites)
 
-压缩速度极快的图片压缩软件，有网页版和软件版：
+搜集国内可用的 ChatGPT 在线体验免费网站列表，定时任务每日更新，点击[这里](https://lzw.me/x/chatgpt-sites/)访问：
 
-- 具有超快的压缩速度
-- 支持压缩 GB 级别的超大体积的图片
-- 支持 7 种图片格式
-- 支持深、浅色主题模式
-- 可对原始图片进行预览
-- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
-- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
-- 实时显示压缩进度
-- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
-
-![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
-
-![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
+![chatgpt-sites](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-sites.jpg) 
 
 ## ✍️ 说明
 
