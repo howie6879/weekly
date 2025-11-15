@@ -5,97 +5,104 @@
 
 ## 🎯 项目 
 
-### [dub](https://github.com/steven-tey/dub)
+### [PicImpact](https://github.com/besscroft/PicImpact "PicImpact")
 
-开源的短链接服务，可以自定义域名且进行相关指标分析：
+`PicImpact` 是一个支持自部署的摄影作品展示网站：
 
-![dub](https://images-1252557999.file.myqcloud.com/uPic/dub.png)
+- 瀑布流相册展示图片，支持实况照片(Live Photos)，基于 LivePhotosKit JS 开发。
+- 点击图片查看原图，浏览图片信息和 EXIF 信息，支持直链访问。
+- 响应式设计，在 PC 和移动端都有不错的体验，支持暗黑模式。
+- 图片存储兼容 S3 API、Cloudflare R2、AList API。
+- 图片支持绑定标签，并且可通过标签进行交互，筛选标签下所有图片。
+- 支持输出 RSS，可以使用 Follow 订阅，并支持订阅源所有权验证。
+- 支持批量自动化上传，上传图片时会生成 0.3 倍率的压缩图片，以提供加载优化。
+- 后台有图片数据统计、图片上传、图片维护、相册管理、系统设置和存储配置功能。
+- 双因素认证功能，基于 TOTP 算法 RFC 6238，支持 Google Authenticator、Microsoft Authenticator 和 1Password 等。
+- 基于 SSR 的混合渲染，采用状态机制，提供良好的使用体验。
+- 基于 prisma 的自动初始化数据库和数据迁移，简化部署流程。
+- 支持 Vercel 部署、Node.js 部署、Docker 等容器化部署，当然 k8s 也支持。 
 
-还有一个同类型的开源产品 [YOURLS](https://github.com/YOURLS/YOURLS)，也很不错，功能也能覆盖上面。 
+### [PyWxDump](https://github.com/xaoyaoo/PyWxDump)
 
-### [dpanel](https://github.com/donknap/dpanel)
+和上周推荐的 [WeChatMsg](https://weekly.howie6879.com/2023/11-27~12-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC118%E6%9C%9F%EF%BC%89.html) 项目同样类型，针对微信聊天记录，获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
 
-`Docker` 可视化面板系统，提供完善的 `Docker` 管理功能：
+![PyWxDump](https://images-1252557999.file.myqcloud.com/uPic/PyWxDump.png) 
 
-![dpanel](https://images-1252557999.file.myqcloud.com/uPic/2rE2AN.png) 
+### [jina](https://github.com/jina-ai/jina)
 
-### [chart-gpt](https://github.com/whoiskatrin/chart-gpt)
+![jina](https://images-1252557999.file.myqcloud.com/uPic/9MHbAU.png)
 
-基于文本输入构建图表的人工智能工具，可以直接在官网 [https://www.chartgpt.dev](https://www.chartgpt.dev/) 体验：
+云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
 
-![chartgpt](https://images-1252557999.file.myqcloud.com/uPic/chartgpt.jpg) 
+相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
 
 ## 🤖 软件 
 
-### [paperlib](https://github.com/GeoffreyChen777/paperlib)
+### [Xit](https://github.com/Uncommon/Xit)
 
-面向计算机科学的简单开源学术论文管理工具：
+`Mac OS`下开源免费的原生`Git`客户端 ：
 
-![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
+![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
 
-### [koodo-reader](https://github.com/troyeguo/koodo-reader)
+### [downkyicore](https://github.com/yaobiao131/downkyicore)
 
-一个跨平台的电子书阅读器：
+哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
 
-- 支持多达 15 种主流电子书格
-- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
-- 备份数据到  **Dropbox**  和  **Webdav**
-- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
-- 双页模式，单页模式，滚动模式
-- 听书功能，翻译功能，触控屏支持，批量导入图书
-- 支持目录，书签，笔记，高亮，书架，标签
-- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
-- 黑夜模式和主题色设置
+![downkyicore](https://images-1252557999.file.myqcloud.com/uPic/downkyicore.jpg) 
 
-![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
+### mizu
 
-### [Übersicht](https://github.com/felixhageloh/uebersicht)
+微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
 
-构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
-
-![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
+![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
 
 ## 👀 资料 
 
-### [note-hack](https://github.com/xdite/note-hack)
+### [wangshusen/SearchEngine](https://github.com/wangshusen/SearchEngine)
 
-《打造超人笔记》是一本关于如何有效记录和整理笔记的书籍。
+开源的搜索引擎原理书籍（不方便下载的直接私聊我发 PDF），包含：
 
-作者认为，笔记是一个看起来复杂但实际上比学习和阅读更简单的问题。通过拆解笔记的流程，作者发现主要问题的结构变得非常简单。此外，随着科技的发展，许多快速记录工具和笔记整理软件已经被发明出来，使笔记搜寻变得更加容易。
+- 搜索引擎基础
+- 相关性
+- 其他决定用户满意度的因子
+- 查询词处理
+- 召回
+- 排序
+- 查询词推荐
 
-在本书中，作者探讨了如何通过做笔记和整理笔记来挖掘和整理自己对一个领域的各种答案。通过阅读本书，读者可以学习到如何使用各种工具和方法来提高自己的笔记能力，成为一个笔记超人。 
+![SearchEngine](https://images-1252557999.file.myqcloud.com/uPic/SearchEngine.jpg) 
 
-### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
+### [mastering-bitcoin-3rd](https://github.com/berryjam/mastering-bitcoin-3rd)
 
-为初学者整理的免费 `CSS` 课程：
+《精通比特币》第三版翻译：
 
-![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
+![mastering-bitcoin-3rd](https://images-1252557999.file.myqcloud.com/uPic/ZwD0Jl.png) 
 
-### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
+### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
 
-通过科学方法训练自己的身体，让自己更加健康：
+这个项目收集了黑五打折的App和课程：
 
-![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
+![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
 
 ## 🕸 网站 
 
-### [动漫新番表](https://www.fre123.com/anime/n)
+### [pixian.ai](https://pixian.ai/)
 
-继上周做了[动漫搜索引擎](https://www.fre123.com/anime/s)后，老胡这次整了个动漫新番信息记录网站，新番信息脚本和数据都是开源的👉[fre123-anime](https://github.com/fre123-com/fre123-anime)，欢迎体验：
+免登录图片背景消除网页，2023-07-21 当前属于测试期间，是免费的：
 
-![fre123_anime_n](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime_n.jpg) 
+![pixian](https://images-1252557999.file.myqcloud.com/uPic/pixian.jpg) 
 
-### [extract.pics](https://extract.pics/)
+### [ogimage.click](https://ogimage.click/)
 
-输入网站地址，提取网站图片资源：
+允许用户通过选择专业模板、自定义背景、渐变、网格叠加、噪声等属性来快速生成适用于社交媒体平台（如 Twitter、Facebook 和 LinkedIn）的吸引人的分享图片。用户可以无需注册即可免费使用所有功能，生成的图片可以导出为 PNG、JPEG 或 WebP 格式，并且支持多平台的优化尺寸。
 
-![extract_pics](https://images-1252557999.file.myqcloud.com/uPic/extract_pics.jpg) 
+![ogimage](https://images-1252557999.file.myqcloud.com/uPic/WLVTc7.png) 
 
-### [producthunt-daily-hot](https://github.com/ViggoZ/producthunt-daily-hot)
+### [chinesenewyear](https://chinesenewyear.net/)
 
-`Product Hunt` 每日热榜是一个基于 `GitHub Action` 的自动化工具，它能够每天定时生成 `Product Hunt` 上的热门产品榜单 `Markdown` 文件，并自动提交到 `GitHub` 仓库中。该项目旨在帮助用户快速查看每日的 `Product Hunt` 热门榜单，并提供更详细的产品信息。
+国外一个专门介绍农历春节的网站，包含了非常多关于春节的介绍信息：
 
-![producthunt-daily-hot](https://images-1252557999.file.myqcloud.com/uPic/2vDyRf.png) 
+![chinesenewyear](https://images-1252557999.file.myqcloud.com/uPic/chinesenewyear.jpg) 
 
 ## ✍️ 说明
 
