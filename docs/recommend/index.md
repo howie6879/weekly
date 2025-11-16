@@ -5,104 +5,89 @@
 
 ## 🎯 项目 
 
-### [PicImpact](https://github.com/besscroft/PicImpact "PicImpact")
+### [novu](https://github.com/novuhq/novu)
 
-`PicImpact` 是一个支持自部署的摄影作品展示网站：
+这是一个开源的基础设施项目，用于快速搭建通知中心，`Novu` 提供了一个统一的 `API`，使通过多个通道（包括应用内、推送、电子邮件、短信和聊天）发送通知变得简单：
 
-- 瀑布流相册展示图片，支持实况照片(Live Photos)，基于 LivePhotosKit JS 开发。
-- 点击图片查看原图，浏览图片信息和 EXIF 信息，支持直链访问。
-- 响应式设计，在 PC 和移动端都有不错的体验，支持暗黑模式。
-- 图片存储兼容 S3 API、Cloudflare R2、AList API。
-- 图片支持绑定标签，并且可通过标签进行交互，筛选标签下所有图片。
-- 支持输出 RSS，可以使用 Follow 订阅，并支持订阅源所有权验证。
-- 支持批量自动化上传，上传图片时会生成 0.3 倍率的压缩图片，以提供加载优化。
-- 后台有图片数据统计、图片上传、图片维护、相册管理、系统设置和存储配置功能。
-- 双因素认证功能，基于 TOTP 算法 RFC 6238，支持 Google Authenticator、Microsoft Authenticator 和 1Password 等。
-- 基于 SSR 的混合渲染，采用状态机制，提供良好的使用体验。
-- 基于 prisma 的自动初始化数据库和数据迁移，简化部署流程。
-- 支持 Vercel 部署、Node.js 部署、Docker 等容器化部署，当然 k8s 也支持。 
+![novu](https://images-1252557999.file.myqcloud.com/uPic/novu.jpg) 
 
-### [PyWxDump](https://github.com/xaoyaoo/PyWxDump)
+### [puter](https://github.com/HeyPuter/puter)
 
-和上周推荐的 [WeChatMsg](https://weekly.howie6879.com/2023/11-27~12-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC118%E6%9C%9F%EF%BC%89.html) 项目同样类型，针对微信聊天记录，获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
+`Puter` 是一个在浏览器中运行的开源桌面环境，可用于构建远程桌面、与云服务交互或作为其他云存储平台的替代品，旨在以轻量级的方式直接在浏览器中带来桌面体验。
 
-![PyWxDump](https://images-1252557999.file.myqcloud.com/uPic/PyWxDump.png) 
+![Puter](https://images-1252557999.file.myqcloud.com/uPic/Puter.webp) 
 
-### [jina](https://github.com/jina-ai/jina)
+### [ecapture](https://github.com/ehids/ecapture)
 
-![jina](https://images-1252557999.file.myqcloud.com/uPic/9MHbAU.png)
+eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
 
-云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
-
-相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
+![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
 
 ## 🤖 软件 
 
-### [Xit](https://github.com/Uncommon/Xit)
+### [linearmouse](https://github.com/linearmouse/linearmouse)
 
-`Mac OS`下开源免费的原生`Git`客户端 ：
+`Mac` 的鼠标和触控板实用工具，可以为你的鼠标和触控板定制不同的参数：
 
-![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
+![linearmouse](https://images-1252557999.file.myqcloud.com/uPic/linearmouse.jpg) 
 
-### [downkyicore](https://github.com/yaobiao131/downkyicore)
+### [licecap](https://github.com/justinfrankel/licecap)
 
-哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
+LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
 
-![downkyicore](https://images-1252557999.file.myqcloud.com/uPic/downkyicore.jpg) 
+### [seabird](https://github.com/getseabird/seabird)
 
-### mizu
+`Seabird` 是一个原生的跨平台 `Kubernetes` 桌面客户端，它可以非常容易地探索集群的资源：
 
-微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
-
-![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
+![seabird](https://images-1252557999.file.myqcloud.com/uPic/seabird.png) 
 
 ## 👀 资料 
 
-### [wangshusen/SearchEngine](https://github.com/wangshusen/SearchEngine)
+### [AI-System](https://github.com/microsoft/AI-System)
 
-开源的搜索引擎原理书籍（不方便下载的直接私聊我发 PDF），包含：
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
 
-- 搜索引擎基础
-- 相关性
-- 其他决定用户满意度的因子
-- 查询词处理
-- 召回
-- 排序
-- 查询词推荐
+![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
 
-![SearchEngine](https://images-1252557999.file.myqcloud.com/uPic/SearchEngine.jpg) 
+### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
 
-### [mastering-bitcoin-3rd](https://github.com/berryjam/mastering-bitcoin-3rd)
+该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
 
-《精通比特币》第三版翻译：
+![](https://images-1252557999.file.myqcloud.com/uPic/ub1GLI.jpg) 
 
-![mastering-bitcoin-3rd](https://images-1252557999.file.myqcloud.com/uPic/ZwD0Jl.png) 
+### [ascoders/weekly](https://github.com/ascoders/weekly)
 
-### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
+前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
 
-这个项目收集了黑五打折的App和课程：
+- 前沿技术
+- 设计模式
+- 编译原理
+- 源码解读
+- 商业思考
+- 算法
 
-![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
+非常全面，前端从事人员可以看看。 
 
 ## 🕸 网站 
 
-### [pixian.ai](https://pixian.ai/)
+### [jsonvisio](https://jsonvisio.com/editor)
 
-免登录图片背景消除网页，2023-07-21 当前属于测试期间，是免费的：
+将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
 
-![pixian](https://images-1252557999.file.myqcloud.com/uPic/pixian.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/jsonvisio.jpg) 
 
-### [ogimage.click](https://ogimage.click/)
+### [Connected Papers](https://www.connectedpapers.com/)
 
-允许用户通过选择专业模板、自定义背景、渐变、网格叠加、噪声等属性来快速生成适用于社交媒体平台（如 Twitter、Facebook 和 LinkedIn）的吸引人的分享图片。用户可以无需注册即可免费使用所有功能，生成的图片可以导出为 PNG、JPEG 或 WebP 格式，并且支持多平台的优化尺寸。
+`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
 
-![ogimage](https://images-1252557999.file.myqcloud.com/uPic/WLVTc7.png) 
+![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
+是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
 
-### [chinesenewyear](https://chinesenewyear.net/)
+### [ideogram.ai](https://ideogram.ai/)
 
-国外一个专门介绍农历春节的网站，包含了非常多关于春节的介绍信息：
+免费无次数限制的文字转图片网页：
 
-![chinesenewyear](https://images-1252557999.file.myqcloud.com/uPic/chinesenewyear.jpg) 
+![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
 
 ## ✍️ 说明
 
