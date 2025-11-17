@@ -5,89 +5,94 @@
 
 ## 🎯 项目 
 
-### [novu](https://github.com/novuhq/novu)
+### [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)
 
-这是一个开源的基础设施项目，用于快速搭建通知中心，`Novu` 提供了一个统一的 `API`，使通过多个通道（包括应用内、推送、电子邮件、短信和聊天）发送通知变得简单：
+老胡最近整的开源项目，从[技术周刊精选](https://www.fre123.com/weekly/)到[信息流](https://www.fre123.com/tech)，和前端朋友一起梳理出了个通用的排版并开源出来，欢迎大家使用和提出建议:
 
-![novu](https://images-1252557999.file.myqcloud.com/uPic/novu.jpg) 
+![fre123-info-flow-demo](https://images-1252557999.file.myqcloud.com/uPic/fre123-info-flow-demo.jpg) 
 
-### [puter](https://github.com/HeyPuter/puter)
+### [tinymind](https://github.com/mazzzystar/tinymind)
 
-`Puter` 是一个在浏览器中运行的开源桌面环境，可用于构建远程桌面、与云服务交互或作为其他云存储平台的替代品，旨在以轻量级的方式直接在浏览器中带来桌面体验。
+`Tinymind` 是一个将 `GitHub` 作为数据存储平台的博客工具，允许用户通过 `OAuth` 授权直接在自己的公共仓库中写作和同步文章，无需搭建服务器：
 
-![Puter](https://images-1252557999.file.myqcloud.com/uPic/Puter.webp) 
+![tinymind](https://images-1252557999.file.myqcloud.com/uPic/BZLdkZ.png) 
 
-### [ecapture](https://github.com/ehids/ecapture)
+### [daedalOS](https://github.com/DustinBrett/daedalOS)
 
-eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
+`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
 
-![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
+![daedalOS](https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png) 
 
 ## 🤖 软件 
 
-### [linearmouse](https://github.com/linearmouse/linearmouse)
+### [apkupdater](https://github.com/rumboalla/apkupdater)
 
-`Mac` 的鼠标和触控板实用工具，可以为你的鼠标和触控板定制不同的参数：
+`APKUpdater` 是一个开源工具，它能让你轻松追踪和更新你的 `APK` 应用。
+它提供类似于应用商店的功能，但不依赖于单一来源，而是把 `APKMirror、Aptoide、F-Droid、IzzyOnDroid、APKPure、GitLab、GitHub` 这 7 大平台的应用资源都聚合在一起：
 
-![linearmouse](https://images-1252557999.file.myqcloud.com/uPic/linearmouse.jpg) 
+![apkupdater](https://images-1252557999.file.myqcloud.com/uPic/apkupdater.jpg) 
 
-### [licecap](https://github.com/justinfrankel/licecap)
+### [cursor-free-everyday](https://github.com/agentcodee/cursor-free-everyday "cursor-free-everyday")
 
-LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
+完全免费的 `Cursor` 助手工具，提供以下功能：
 
-### [seabird](https://github.com/getseabird/seabird)
+- 一键获取新额度
+- 自动满额度账号
+- 无需登录账号
+- 解决机器码问题
 
-`Seabird` 是一个原生的跨平台 `Kubernetes` 桌面客户端，它可以非常容易地探索集群的资源：
+![cursor-free-everyday](https://images-1252557999.file.myqcloud.com/uPic/PihQZl.png) 
 
-![seabird](https://images-1252557999.file.myqcloud.com/uPic/seabird.png) 
+### [Tai](https://github.com/Planshit/Tai)
+
+👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
+
+![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
 
 ## 👀 资料 
 
-### [AI-System](https://github.com/microsoft/AI-System)
+### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
 
-微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
 
-![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
+这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
 
-### [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
+- 入侵排查
+- 日志分析
+- 权限维持
+- Windows实战
+- Linux实战
+- Web实战 
 
-该仓库主要是沉淀自学推荐系统路上学习到的一些经典算法模型和技术，并尝试用浅显易懂的语言把每个模型或者算法解释清楚！
+### [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/ub1GLI.jpg) 
+《Anthropic Cookbook》提供了旨在帮助开发人员与Claude一起构建的代码和指南，提供可复制的代码片段，您可以轻松地将其集成到自己的项目中。 
 
-### [ascoders/weekly](https://github.com/ascoders/weekly)
+### [ai_agents_az](https://github.com/gyoridavid/ai_agents_az)
 
-前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
+`ai_agents_az` 项目是一个专门为 AI 代理创建的资源库，其中包含了多个回放和教程，涵盖从创建药物处方代理到使用 n8n 等工具制作社交媒体内容的各种实践案例。该项目由 David Gyori 和 Kais 共同维护，主要使用 Python 语言开发。项目内容分为两个主要部分：一是包含 20 个集数的 AI 代理 A-Z 系列教程，每个集数都有相应的工作流文件和说明；二是提供了一个用于创建短视频的 MCP/REST 服务器和一个用于创建旨在的故事创作服务器。
 
-- 前沿技术
-- 设计模式
-- 编译原理
-- 源码解读
-- 商业思考
-- 算法
-
-非常全面，前端从事人员可以看看。 
+![ai_agents_az](https://images-1252557999.file.myqcloud.com/uPic/hZIh2V.png) 
 
 ## 🕸 网站 
 
-### [jsonvisio](https://jsonvisio.com/editor)
+### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
 
-将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
+一份新冠预防及治疗指南：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/jsonvisio.jpg) 
+![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
 
-### [Connected Papers](https://www.connectedpapers.com/)
+### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
 
-`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
+中国少年儿童新闻出版总社免费开放的少儿绘本网站：
 
-![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
-是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
+![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
 
-### [ideogram.ai](https://ideogram.ai/)
+### [ogimage.click](https://ogimage.click/)
 
-免费无次数限制的文字转图片网页：
+允许用户通过选择专业模板、自定义背景、渐变、网格叠加、噪声等属性来快速生成适用于社交媒体平台（如 Twitter、Facebook 和 LinkedIn）的吸引人的分享图片。用户可以无需注册即可免费使用所有功能，生成的图片可以导出为 PNG、JPEG 或 WebP 格式，并且支持多平台的优化尺寸。
 
-![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
+![ogimage](https://images-1252557999.file.myqcloud.com/uPic/WLVTc7.png) 
 
 ## ✍️ 说明
 
