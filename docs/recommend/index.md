@@ -5,94 +5,84 @@
 
 ## 🎯 项目 
 
-### [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)
+### [maxun](https://github.com/getmaxun/maxun)
 
-老胡最近整的开源项目，从[技术周刊精选](https://www.fre123.com/weekly/)到[信息流](https://www.fre123.com/tech)，和前端朋友一起梳理出了个通用的排版并开源出来，欢迎大家使用和提出建议:
+一个免费、开源的无代码网页数据提取平台，允许用户构建自定义机器人以自动化数据抓取任务，可以很方便地进行web2api：
 
-![fre123-info-flow-demo](https://images-1252557999.file.myqcloud.com/uPic/fre123-info-flow-demo.jpg) 
+![maxun](https://images-1252557999.file.myqcloud.com/uPic/Bkvnhq.png) 
 
-### [tinymind](https://github.com/mazzzystar/tinymind)
+### [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
 
-`Tinymind` 是一个将 `GitHub` 作为数据存储平台的博客工具，允许用户通过 `OAuth` 授权直接在自己的公共仓库中写作和同步文章，无需搭建服务器：
+基于 `CloudFlare Pages` 的免费图片托管解决方案，支持 `Telegram Bot` 和 `Cloudflare R2` 等多种存储方式:
 
-![tinymind](https://images-1252557999.file.myqcloud.com/uPic/BZLdkZ.png) 
+![CloudFlare-ImgBed](https://images-1252557999.file.myqcloud.com/uPic/49JpVO.png) 
 
-### [daedalOS](https://github.com/DustinBrett/daedalOS)
+### [browser-use/web-ui](https://github.com/browser-use/web-ui)
 
-`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
+让 AI 助手控制你的浏览器，浏览器中运行 AI 代理，提供用户友好的 Web 界面，支持多种大型语言模型，并允许使用自定义浏览器进行交互：
 
-![daedalOS](https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png) 
+![web-ui](https://images-1252557999.file.myqcloud.com/uPic/DVMAQC.png) 
 
 ## 🤖 软件 
 
-### [apkupdater](https://github.com/rumboalla/apkupdater)
+### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
 
-`APKUpdater` 是一个开源工具，它能让你轻松追踪和更新你的 `APK` 应用。
-它提供类似于应用商店的功能，但不依赖于单一来源，而是把 `APKMirror、Aptoide、F-Droid、IzzyOnDroid、APKPure、GitLab、GitHub` 这 7 大平台的应用资源都聚合在一起：
+`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
 
-![apkupdater](https://images-1252557999.file.myqcloud.com/uPic/apkupdater.jpg) 
+- Support Intel
+- Support Apple Silicon (M1 & M2)
+- Network
+- USB 
 
-### [cursor-free-everyday](https://github.com/agentcodee/cursor-free-everyday "cursor-free-everyday")
+### [SketchyBar](https://github.com/FelixKratz/SketchyBar)
 
-完全免费的 `Cursor` 助手工具，提供以下功能：
+高度可定制的macOS状态栏替代品：
 
-- 一键获取新额度
-- 自动满额度账号
-- 无需登录账号
-- 解决机器码问题
+![SketchyBar](https://images-1252557999.file.myqcloud.com/uPic/SketchyBar.jpg) 
 
-![cursor-free-everyday](https://images-1252557999.file.myqcloud.com/uPic/PihQZl.png) 
+### [biyi](https://github.com/lijy91/biyi)
 
-### [Tai](https://github.com/Planshit/Tai)
+比译是一个用 `Flutter` 编写的跨平台便捷翻译和词典应用：
 
-👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
-
-![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
+![biyi](https://images-1252557999.file.myqcloud.com/uPic/biyi.jpg) 
 
 ## 👀 资料 
 
-### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
+### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
 
-应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
+编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
 
-这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
+### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
 
-- 入侵排查
-- 日志分析
-- 权限维持
-- Windows实战
-- Linux实战
-- Web实战 
+《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
 
-### [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
+![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
 
-《Anthropic Cookbook》提供了旨在帮助开发人员与Claude一起构建的代码和指南，提供可复制的代码片段，您可以轻松地将其集成到自己的项目中。 
+### [动手学OCR·十讲](https://aistudio.baidu.com/aistudio/course/introduce/25207)
 
-### [ai_agents_az](https://github.com/gyoridavid/ai_agents_az)
+PaddleOCR的原创团队出的课程，课程内容涵盖基于深度学习的经典OCR检测识别算法、最新文档结构化技术以及千锤百炼的产业级模型与部署工具。通过广泛调研提炼了重要OCR算法的核心思想，实践部分不仅对代码重要细节做了深入分析，还会实时运行代码展示效果助大家加深理解。
 
-`ai_agents_az` 项目是一个专门为 AI 代理创建的资源库，其中包含了多个回放和教程，涵盖从创建药物处方代理到使用 n8n 等工具制作社交媒体内容的各种实践案例。该项目由 David Gyori 和 Kais 共同维护，主要使用 Python 语言开发。项目内容分为两个主要部分：一是包含 20 个集数的 AI 代理 A-Z 系列教程，每个集数都有相应的工作流文件和说明；二是提供了一个用于创建短视频的 MCP/REST 服务器和一个用于创建旨在的故事创作服务器。
-
-![ai_agents_az](https://images-1252557999.file.myqcloud.com/uPic/hZIh2V.png) 
+![动手学OCR](https://images-1252557999.file.myqcloud.com/uPic/tcg64l.png) 
 
 ## 🕸 网站 
 
-### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
+### [picdiet.eula.club](https://picdiet.eula.club/)
 
-一份新冠预防及治疗指南：
+`Picdiet` 是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏：
 
-![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
+![picdiet](https://images-1252557999.file.myqcloud.com/uPic/picdiet.jpg) 
 
-### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
+### [uisdc.com](https://hao.uisdc.com/)
 
-中国少年儿童新闻出版总社免费开放的少儿绘本网站：
+设计师网站导航：
 
-![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
+![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
 
-### [ogimage.click](https://ogimage.click/)
+### [favicon.im](https://favicon.im/)
 
-允许用户通过选择专业模板、自定义背景、渐变、网格叠加、噪声等属性来快速生成适用于社交媒体平台（如 Twitter、Facebook 和 LinkedIn）的吸引人的分享图片。用户可以无需注册即可免费使用所有功能，生成的图片可以导出为 PNG、JPEG 或 WebP 格式，并且支持多平台的优化尺寸。
+快速获取网站 LOGO:
 
-![ogimage](https://images-1252557999.file.myqcloud.com/uPic/WLVTc7.png) 
+![favicon.im](https://images-1252557999.file.myqcloud.com/uPic/FSVgaW.png) 
 
 ## ✍️ 说明
 
