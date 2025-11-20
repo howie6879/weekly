@@ -5,100 +5,110 @@
 
 ## 🎯 项目 
 
-### [yuque-tools](https://github.com/vannvan/yuque-tools)
+### [MoonTV](https://github.com/senshinya/MoonTV)
 
-玩转语雀-朴实无华的语雀工具集合，语雀知识库批量导出工具(无需Token)｜浏览器插件助手：
+🎬 `MoonTV` 是一个开箱即用的、跨平台的影视聚合播放器。它基于 `Next.js 14 + Tailwind CSS + TypeScript` 构建，支持多资源搜索、在线播放、收藏同步、播放记录、本地/云端存储，让你可以随时随地畅享海量免费影视内容。
 
-- 个人知识库
-- 空间(团队)知识库
-- 协作知识库
-- 小记 
+- 🔍 多源聚合搜索：内置数十个免费资源站点，一次搜索立刻返回全源结果。
+- 📄 丰富详情页：支持剧集列表、演员、年份、简介等完整信息展示。
+- ▶️ 流畅在线播放：集成 HLS.js & VidStack。
+- ❤️ 收藏 + 继续观看：Docker 部署支持 Redis 存储，多端同步进度。
+- 📱 PWA：离线缓存、安装到桌面/主屏，移动端原生体验。
+- 🌗 响应式布局：桌面侧边栏 + 移动底部导航，自适应各种屏幕尺寸。
+- 🚀 极简部署：一条 Docker 命令即可将完整服务跑起来，或免费部署到 Vercel。
+- 👿 智能去广告：自动跳过视频中的切片广告（实验性）
 
-![yuque-tools](https://images-1252557999.file.myqcloud.com/uPic/yuque-tools.jpg) 
+![MoonTV](https://images-1252557999.file.myqcloud.com/uPic/8bdYCW.png)
 
-### [filebrowser](https://github.com/filebrowser/filebrowser)
+这个和之前推荐的 [LibreTV](https://github.com/LibreSpark/LibreTV) 一样的实现思路，仅仅是界面和一些小功能有点差别，都能用。
 
-这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
+这里有个搭建好的，可直接用 [kanmaoxian.online](https://kanmaoxian.online/)，密码是: kanmaoxian 
 
-除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
+### [mcp-playwright](https://github.com/executeautomation/mcp-playwright)
 
-![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
+基于 `Playwright` 的模型上下文协议服务器，用于自动化浏览器和 `API`：
 
-### [dpanel](https://github.com/donknap/dpanel)
+![mcp-playwright](https://img.api123.pro/i/2025/03/15/67d500afc9275.png) 
 
-`Docker` 可视化面板系统，提供完善的 `Docker` 管理功能：
+### [actual](https://github.com/actualbudget/actual)
 
-![dpanel](https://images-1252557999.file.myqcloud.com/uPic/2rE2AN.png) 
+自部署的个人理财开源项目：
+
+![actual](https://images-1252557999.file.myqcloud.com/uPic/jXtBXk.png) 
 
 ## 🤖 软件 
 
-### [AingDesk](https://github.com/aingdesk/AingDesk "AingDesk")
+### [Klee](https://github.com/signerlabs/Klee)
 
-`AingDesk` 是一款简单好用的 AI 助手，支持知识库、模型 API、分享、联网搜索、智能体：
+通过内置的 `RAG` 知识库和 `Markdown` 笔记支持，在您的桌面上安全本地人工智能：
 
-![AingDesk](https://images-1252557999.file.myqcloud.com/uPic/1DjXWY.png) 
+![Klee](https://images-1252557999.file.myqcloud.com/uPic/AYykm3.png) 
 
-### [Obtainium](https://github.com/ImranR98/Obtainium)
+### [Calendr](https://github.com/pakerwreah/Calendr)
 
-聚合安卓应用源，然后获取程序更新，`Obtainium` 允许用户直接从发布页面安装和更新应用程序，并在发布新版本时接收通知：
+开源的菜单栏日历应用程序，专为 macOS 设计，提供了一个简洁的界面来查看和管理日程。
 
-![Obtainium](https://images-1252557999.file.myqcloud.com/uPic/Obtainium.jpg) 
+![Calendr](https://images-1252557999.file.myqcloud.com/uPic/TsGyZ0.png) 
 
-### [anyquery](https://github.com/julien040/anyquery)
+### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
 
-`Anyquery` 是一个多功能的 `SQL` 查询引擎，支持对文件、数据库和多种应用程序（如 `Apple Notes、Notion` 等）进行查询，并且能够通过 `MCP` 协议与大语言模型（如 `ChatGPT、Claude` 等）连接，同时也可以作为 `MySQL` 服务器使用：
+网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
 
-![anyquery](https://images-1252557999.file.myqcloud.com/uPic/bmdtIU.png) 
+![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
 
 ## 👀 资料 
 
-### [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
+### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
 
-将 `DeepSeek` 大模型能力轻松接入各类软件：
+《结网》作者王坚的开源新书：
 
-- 应用程序：Chatbox ChatGPT-Next-Web	留白记事等
-- AI Agent 框架
-- RAG 框架
-- Solana 框架
-- 即时通讯插件
-- 浏览器插件
-- VS Code 插件 neovim 插件JetBrains 插件 
+![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
 
-### [MasteringRAG](https://github.com/Steven-Luo/MasteringRAG)
+### [一人企业方法论](https://github.com/easychen/one-person-businesses-methodology-v2.0)
 
-本项目是一个使用LLM（大语言模型）使用RAG技术构建文档问答的项目，将会涵盖企业构建基于RAG的文档问答几乎所有的常见优化手段。 
+《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群：
 
-### [prompt-tuning-playbook](https://github.com/varungodbole/prompt-tuning-playbook)
+![opb-quick-start](https://images-1252557999.file.myqcloud.com/uPic/opb-quick-start.jpg) 
 
-项目主要提供了一份针对后训练大型语言模型（LLMs）的有效提示技术指南，旨在帮助用户更好地理解和应用这些模型。
+### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
 
-后训练使得 LLMs 能够更好地遵循指令、匹配现实世界、保持安全等，这些行为包括但不限于格式遵循、指令执行、事实准确性和安全性。 
+这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
+
+该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
+
+![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
 
 ## 🕸 网站 
 
-### [designer.microsoft.com](https://designer.microsoft.com/)
+### [ticompressor](https://www.ticompressor.com/online/)
 
-基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
+压缩速度极快的图片压缩软件，有网页版和软件版：
 
-![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
+- 具有超快的压缩速度
+- 支持压缩 GB 级别的超大体积的图片
+- 支持 7 种图片格式
+- 支持深、浅色主题模式
+- 可对原始图片进行预览
+- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
+- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
+- 实时显示压缩进度
+- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
 
-### [vert.sh](https://vert.sh/)
+![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
 
-`VERT.sh` 提供了一个全面的文件转换服务，涵盖图片、音频、文档和视频等多种格式的处理。对于图片，支持的格式包括 PNG、JPEG、JPG、WEBP、GIF 等常见格式，以及 HEIC、ICO、BMP 等更多专业格式。
+![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
 
-- 音频方面，支持 MP3、WAV、FLAC、OGG 等主流格式
-- 文档支持 DOCX、XML、DOC 等多种格式
-- 视频转换通常在服务器上进行，支持 MKV、MP4、WEBM 等格式。
+### [batnoter](https://batnoter.com/)
 
-值得注意的是，所有的图片、音频和文档处理都是在本地完成的，确保了用户数据的安全性和隐私性。
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-![vert.sh](https://images-1252557999.file.myqcloud.com/uPic/Vclo9P.png) 
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
-### [zeli.app](https://zeli.app/zh)
+### [fulltime.ai](https://fulltime.ai/spaces/)
 
-用中文读科技新闻，旨在帮你快速挑选感兴趣的文章来读：
+搜索体验 288个 `HuggingFace` 空间 `GPU` 上运行的项目：
 
-![zeli](https://images-1252557999.file.myqcloud.com/uPic/dvVEf9.png) 
+![fulltime_ai](https://images-1252557999.file.myqcloud.com/uPic/fulltime_ai.jpg) 
 
 ## ✍️ 说明
 
