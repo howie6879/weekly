@@ -5,80 +5,91 @@
 
 ## 🎯 项目 
 
-### [MoonTV](https://github.com/senshinya/MoonTV)
+### [Kyoo](https://github.com/zoriya/Kyoo)
 
-🎬 `MoonTV` 是一个开箱即用的、跨平台的影视聚合播放器。它基于 `Next.js 14 + Tailwind CSS + TypeScript` 构建，支持多资源搜索、在线播放、收藏同步、播放记录、本地/云端存储，让你可以随时随地畅享海量免费影视内容。
+`Kyoo` 是一款开源媒体浏览器，可让您流式传输电影、电视节目或动漫。它是 `Plex、Emby or Jellyfin` 的替代品：
 
-- 🔍 多源聚合搜索：内置数十个免费资源站点，一次搜索立刻返回全源结果。
-- 📄 丰富详情页：支持剧集列表、演员、年份、简介等完整信息展示。
-- ▶️ 流畅在线播放：集成 HLS.js & VidStack。
-- ❤️ 收藏 + 继续观看：Docker 部署支持 Redis 存储，多端同步进度。
-- 📱 PWA：离线缓存、安装到桌面/主屏，移动端原生体验。
-- 🌗 响应式布局：桌面侧边栏 + 移动底部导航，自适应各种屏幕尺寸。
-- 🚀 极简部署：一条 Docker 命令即可将完整服务跑起来，或免费部署到 Vercel。
-- 👿 智能去广告：自动跳过视频中的切片广告（实验性）
+![kyoo](https://images-1252557999.file.myqcloud.com/uPic/kyoo.jpg)
 
-![MoonTV](https://images-1252557999.file.myqcloud.com/uPic/8bdYCW.png)
+目前产品形态只有 `Web` 和 `Android`。 
 
-这个和之前推荐的 [LibreTV](https://github.com/LibreSpark/LibreTV) 一样的实现思路，仅仅是界面和一些小功能有点差别，都能用。
+### [markdown-nice](https://github.com/mdnice/markdown-nice)
 
-这里有个搭建好的，可直接用 [kanmaoxian.online](https://kanmaoxian.online/)，密码是: kanmaoxian 
+有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
 
-### [mcp-playwright](https://github.com/executeautomation/mcp-playwright)
+> 支持主题设计的 Markdown 编辑器，让排版变 Nice
 
-基于 `Playwright` 的模型上下文协议服务器，用于自动化浏览器和 `API`：
+你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
 
-![mcp-playwright](https://img.api123.pro/i/2025/03/15/67d500afc9275.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
 
-### [actual](https://github.com/actualbudget/actual)
+官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
 
-自部署的个人理财开源项目：
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
 
-![actual](https://images-1252557999.file.myqcloud.com/uPic/jXtBXk.png) 
+### [Flowise](https://github.com/FlowiseAI/Flowise)
+
+基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
+
+![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
 
 ## 🤖 软件 
 
-### [Klee](https://github.com/signerlabs/Klee)
+### [tunnelblick](https://tunnelblick.net/)
 
-通过内置的 `RAG` 知识库和 `Markdown` 笔记支持，在您的桌面上安全本地人工智能：
+免费开源的`openvpn`客户端：
 
-![Klee](https://images-1252557999.file.myqcloud.com/uPic/AYykm3.png) 
+![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
 
-### [Calendr](https://github.com/pakerwreah/Calendr)
+### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 
-开源的菜单栏日历应用程序，专为 macOS 设计，提供了一个简洁的界面来查看和管理日程。
+短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
 
-![Calendr](https://images-1252557999.file.myqcloud.com/uPic/TsGyZ0.png) 
+![SmsForwarder](https://images-1252557999.file.myqcloud.com/uPic/v6owv0.jpg)
+如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
 
-### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
+### [staxrip](https://github.com/staxrip/staxrip)
 
-网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
+`StaxRip` 是一个强大的用于 `Windows` 的视频/音频编码图形用户界面。
+它执行和控制诸如 `x265、mkvmerge、ffmpeg` 等控制台应用程序，并使用基于脚本的帧服务器 A`viSynth+和VapourSynth` 进行视频处理。每个项目还可以通过各种事件和设置进行扩展：
 
-![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
+![staxrip](https://images-1252557999.file.myqcloud.com/uPic/staxrip.jpg) 
 
 ## 👀 资料 
 
-### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
+### [comflowy](https://www.comflowy.com/zh-CN)
 
-《结网》作者王坚的开源新书：
+作者认为 `AI` 生图领域的未来一定是围绕 `Stable Diffusion` 展开，而 `ComfyUI` 相比于 `Stable Diffusion WebUI` 等其他开源产品具备非常强的差异化能力，它具备高度的扩展性和应用可能性，真正做到了让开发者和用户能够根据自己的需求打造个性化的生图流程。
 
-![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
+![comflowy](https://images-1252557999.file.myqcloud.com/uPic/comflowy.jpg) 
 
-### [一人企业方法论](https://github.com/easychen/one-person-businesses-methodology-v2.0)
+### [BGC](https://beej.us/guide/bgc/)
 
-《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群：
+面向初学者的 C 语言教程：
 
-![opb-quick-start](https://images-1252557999.file.myqcloud.com/uPic/opb-quick-start.jpg) 
+![BGC](https://images-1252557999.file.myqcloud.com/uPic/CtN8CN.png) 
 
-### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
+### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
 
-这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
+从零开始 `Kubernetes` 攻防:
 
-该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
-
-![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
+![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
 
 ## 🕸 网站 
+
+### [fakewindowsupdatescreen.com](https://fakewindowsupdatescreen.com/)
+
+模拟电脑正在更新，我感觉是员工摸鱼用的，挺有意思：
+
+![fakewindowsupdatescreen.com](https://images-1252557999.file.myqcloud.com/uPic/ALG1l5.png) 
+
+### [yesicon.app](https://yesicon.app/)
+
+开源图标库聚合网站：
+
+![yesicon](https://images-1252557999.file.myqcloud.com/uPic/yesicon.jpg) 
 
 ### [ticompressor](https://www.ticompressor.com/online/)
 
@@ -97,18 +108,6 @@
 ![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
 
 ![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
-
-### [batnoter](https://batnoter.com/)
-
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
-
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
-
-### [fulltime.ai](https://fulltime.ai/spaces/)
-
-搜索体验 288个 `HuggingFace` 空间 `GPU` 上运行的项目：
-
-![fulltime_ai](https://images-1252557999.file.myqcloud.com/uPic/fulltime_ai.jpg) 
 
 ## ✍️ 说明
 
