@@ -5,109 +5,101 @@
 
 ## 🎯 项目 
 
-### [Kyoo](https://github.com/zoriya/Kyoo)
+### [TagStudio](https://github.com/TagStudioDev/TagStudio)
 
-`Kyoo` 是一款开源媒体浏览器，可让您流式传输电影、电视节目或动漫。它是 `Plex、Emby or Jellyfin` 的替代品：
+一个以用户为中心的照片和文件管理系统：
 
-![kyoo](https://images-1252557999.file.myqcloud.com/uPic/kyoo.jpg)
+![TagStudio](https://images-1252557999.file.myqcloud.com/uPic/TagStudio.jpeg) 
 
-目前产品形态只有 `Web` 和 `Android`。 
+### [h-m-m](https://github.com/nadrad/h-m-m)
 
-### [markdown-nice](https://github.com/mdnice/markdown-nice)
+简单、快速、以键盘为中心处理思维导图的终端工具：
 
-有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
+![h-m-m](https://images-1252557999.file.myqcloud.com/uPic/h-m-m.png) 
 
-> 支持主题设计的 Markdown 编辑器，让排版变 Nice
+### [notion-avatar](https://github.com/Mayandev/notion-avatar)
 
-你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
+如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
-
-官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
-
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
-
-### [Flowise](https://github.com/FlowiseAI/Flowise)
-
-基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
-
-![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
+![notion-avatar](https://images-1252557999.file.myqcloud.com/uPic/OrjQK2.jpg) 
 
 ## 🤖 软件 
 
-### [tunnelblick](https://tunnelblick.net/)
+### [Planify](https://github.com/alainm23/planify)
 
-免费开源的`openvpn`客户端：
+Linux 专属的一款高颜值的任务管理软件，它专为 GNOME 桌面环境设计，支持 Todoist 和 Nextcloud 的集成。该应用程序提供了直观的视觉风格和多种功能，包括任务拖拽排序、项目进度指示器、夜间模式、自定义提醒系统以及离线 Todoist 同步等。用户可以通过快速查找功能来搜索任务，同时支持重复到期日期和提醒通知。
 
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+![Planify](https://images-1252557999.file.myqcloud.com/uPic/HAXppV.png) 
 
-### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
+### [AniVu](https://github.com/SkyD666/AniVu)
 
-短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
+`AniVu` 是一个集成了 `RSS` 订阅、自动更新、`BitTorrent` 下载和视频播放功能的全能型 `Android` 应用程序：
 
-![SmsForwarder](https://images-1252557999.file.myqcloud.com/uPic/v6owv0.jpg)
-如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
+- 订阅 RSS、更新 RSS、阅读 RSS
+- 自动更新 RSS 订阅
+- 下载 RSS 文章中的 BT 种子或磁力链接附件（enclosure 标签）
+- 已下载文件做种
+- 播放媒体附件或已下载的媒体文件
+- 更改播放速度、设置音轨、字幕轨道等
+- 双指旋转缩放视频画面、长按视频倍速播放
+- 滑动调整音量、屏幕亮度和播放位置
+- 支持搜索已获取的 RSS 订阅或文章
+- 播放手机中的其他视频
+- 支持自定义 MPV 播放器
+- 支持通过 OPML 导入导出订阅
+- 支持深色模式
 
-### [staxrip](https://github.com/staxrip/staxrip)
+![AniVu](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-1-4911250770779811003-y.jpg) 
 
-`StaxRip` 是一个强大的用于 `Windows` 的视频/音频编码图形用户界面。
-它执行和控制诸如 `x265、mkvmerge、ffmpeg` 等控制台应用程序，并使用基于脚本的帧服务器 A`viSynth+和VapourSynth` 进行视频处理。每个项目还可以通过各种事件和设置进行扩展：
+### [alisthelper](https://github.com/Xmarmalade/alisthelper)
 
-![staxrip](https://images-1252557999.file.myqcloud.com/uPic/staxrip.jpg) 
+Alist Helper是一款使用Flutter开发的应用程序，旨在简化桌面版alist的使用。它可以管理alist，让您更轻松地开启、关闭alist程序:
+
+- 自动启动alist
+- 最小化至系统托盘
+- 开机自启和开机静默启动
+- 能够快速查看alist的版本和管理员信息
+- 可调整的alist启动参数。你可以可以根据自己的特定需求和偏好来自定义启动参数
+
+关键点：这个官方也在做，然后需要付费~
+
+![alisthelper](https://images-1252557999.file.myqcloud.com/uPic/alisthelper.jpg) 
 
 ## 👀 资料 
 
-### [comflowy](https://www.comflowy.com/zh-CN)
+### [Prompt Engineering](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
-作者认为 `AI` 生图领域的未来一定是围绕 `Stable Diffusion` 展开，而 `ComfyUI` 相比于 `Stable Diffusion WebUI` 等其他开源产品具备非常强的差异化能力，它具备高度的扩展性和应用可能性，真正做到了让开发者和用户能够根据自己的需求打造个性化的生图流程。
+ `Google` 官方出品的提示工程（`Prompt Engineering`）白皮书，该书系统性介绍了 `Prompt Engineering` 相关技术，包括 `LLMs` 基础知识、提示技巧和诸多最佳实践。 
 
-![comflowy](https://images-1252557999.file.myqcloud.com/uPic/comflowy.jpg) 
+### [lc3-vm](https://www.jmeiners.com/lc3-vm/)
 
-### [BGC](https://beej.us/guide/bgc/)
+教程主要介绍了如何编写自己的虚拟机（VM），以运行 LC-3 架构的汇编语言程序，旨在帮助程序员更深入地理解计算机内部运作和编程语言的工作原理：
 
-面向初学者的 C 语言教程：
+![lc3-vm](https://images-1252557999.file.myqcloud.com/uPic/rtzTGT.png) 
 
-![BGC](https://images-1252557999.file.myqcloud.com/uPic/CtN8CN.png) 
+### [Building-a-Small-LLM-from-Scratch](https://github.com/KaihuaTang/Building-a-Small-LLM-from-Scratch)
 
-### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
-
-从零开始 `Kubernetes` 攻防:
-
-![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
+该系列的目的是让读者可以在基础的pytorch上，不依赖任何其他现成的外部库，从零开始理解并实现一个大语言模型的所有组成部分，以及训练微调代码，因此读者仅需python，pytorch和最基础深度学习背景知识即可。 
 
 ## 🕸 网站 
 
-### [fakewindowsupdatescreen.com](https://fakewindowsupdatescreen.com/)
+### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
 
-模拟电脑正在更新，我感觉是员工摸鱼用的，挺有意思：
+`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
 
-![fakewindowsupdatescreen.com](https://images-1252557999.file.myqcloud.com/uPic/ALG1l5.png) 
+![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
 
-### [yesicon.app](https://yesicon.app/)
+### [熊猫速读](https://qread.xmsoushu.com/)
 
-开源图标库聚合网站：
+熊猫速读是一个收集精品视频读书笔记或好书分享的网站！为您推荐好书速读的视频，在您读一本书或者购买图书之前通过视频介绍先快速了解书籍的内容，根据兴趣再决定是否购买。
 
-![yesicon](https://images-1252557999.file.myqcloud.com/uPic/yesicon.jpg) 
+![xmsd](https://images-1252557999.file.myqcloud.com/uPic/xmsd.jpg) 
 
-### [ticompressor](https://www.ticompressor.com/online/)
+### [batnoter](https://batnoter.com/)
 
-压缩速度极快的图片压缩软件，有网页版和软件版：
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-- 具有超快的压缩速度
-- 支持压缩 GB 级别的超大体积的图片
-- 支持 7 种图片格式
-- 支持深、浅色主题模式
-- 可对原始图片进行预览
-- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
-- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
-- 实时显示压缩进度
-- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
-
-![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
-
-![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
 ## ✍️ 说明
 
