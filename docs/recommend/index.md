@@ -5,101 +5,83 @@
 
 ## 🎯 项目 
 
-### [TagStudio](https://github.com/TagStudioDev/TagStudio)
+### [outline](https://github.com/outline/outline)
 
-一个以用户为中心的照片和文件管理系统：
+使用 `React &Node.js` 构建的协作知识库，支持团队协作，样式美观，可自建：
 
-![TagStudio](https://images-1252557999.file.myqcloud.com/uPic/TagStudio.jpeg) 
+![outline](https://images-1252557999.file.myqcloud.com/uPic/outline.jpg) 
 
-### [h-m-m](https://github.com/nadrad/h-m-m)
+### [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 
-简单、快速、以键盘为中心处理思维导图的终端工具：
+基于 `Gradio Web` 实现的 UI，用于运行像 `GPT-J 6B、OPT、GALACTICA、LLaMA、Pygmalion` 这样的大型语言模型：
 
-![h-m-m](https://images-1252557999.file.myqcloud.com/uPic/h-m-m.png) 
+![text-generation-webui](https://images-1252557999.file.myqcloud.com/uPic/text-generation-webui.jpg) 
 
-### [notion-avatar](https://github.com/Mayandev/notion-avatar)
+### [novel](https://github.com/steven-tey/novel)
 
-如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞：
+具有类似 `NotionAI` 自动补全功能的所见即所得编辑器，可直接在线体验 [novel.sh](https://novel.sh/) ：
 
-![notion-avatar](https://images-1252557999.file.myqcloud.com/uPic/OrjQK2.jpg) 
+![opengraph-image](https://images-1252557999.file.myqcloud.com/uPic/opengraph-image.png) 
 
 ## 🤖 软件 
 
-### [Planify](https://github.com/alainm23/planify)
+### [ics-openvpn](https://github.com/schwabe/ics-openvpn)
 
-Linux 专属的一款高颜值的任务管理软件，它专为 GNOME 桌面环境设计，支持 Todoist 和 Nextcloud 的集成。该应用程序提供了直观的视觉风格和多种功能，包括任务拖拽排序、项目进度指示器、夜间模式、自定义提醒系统以及离线 Todoist 同步等。用户可以通过快速查找功能来搜索任务，同时支持重复到期日期和提醒通知。
+`ics-openvpn` 是一个适用 `Android`  的 `OpenVPN` 客户端项目，它允许用户在不需要 `root` 权限的情况下通过 `Android` 的 `VPNService API` 使用 `VPN` 服务：
 
-![Planify](https://images-1252557999.file.myqcloud.com/uPic/HAXppV.png) 
+![ics-openvpn](https://images-1252557999.file.myqcloud.com/uPic/g0QLis.png) 
 
-### [AniVu](https://github.com/SkyD666/AniVu)
+### [Speechless](https://github.com/meterscao/Speechless)
 
-`AniVu` 是一个集成了 `RSS` 订阅、自动更新、`BitTorrent` 下载和视频播放功能的全能型 `Android` 应用程序：
+`Speechless` 是一个帮助新浪微博用户，把微博内容导出成 `PDF` 进行本地备份的 `Chrome Extension`：
 
-- 订阅 RSS、更新 RSS、阅读 RSS
-- 自动更新 RSS 订阅
-- 下载 RSS 文章中的 BT 种子或磁力链接附件（enclosure 标签）
-- 已下载文件做种
-- 播放媒体附件或已下载的媒体文件
-- 更改播放速度、设置音轨、字幕轨道等
-- 双指旋转缩放视频画面、长按视频倍速播放
-- 滑动调整音量、屏幕亮度和播放位置
-- 支持搜索已获取的 RSS 订阅或文章
-- 播放手机中的其他视频
-- 支持自定义 MPV 播放器
-- 支持通过 OPML 导入导出订阅
-- 支持深色模式
+![Speechless](https://images-1252557999.file.myqcloud.com/uPic/Speechless.jpeg) 
 
-![AniVu](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-1-4911250770779811003-y.jpg) 
+### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 
-### [alisthelper](https://github.com/Xmarmalade/alisthelper)
+`AnotherRedisDesktopManager` 是一个快速稳定好用的 `Redis` 跨平台桌面管理软件，更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值：
 
-Alist Helper是一款使用Flutter开发的应用程序，旨在简化桌面版alist的使用。它可以管理alist，让您更轻松地开启、关闭alist程序:
-
-- 自动启动alist
-- 最小化至系统托盘
-- 开机自启和开机静默启动
-- 能够快速查看alist的版本和管理员信息
-- 可调整的alist启动参数。你可以可以根据自己的特定需求和偏好来自定义启动参数
-
-关键点：这个官方也在做，然后需要付费~
-
-![alisthelper](https://images-1252557999.file.myqcloud.com/uPic/alisthelper.jpg) 
+![AnotherRedisDesktopManager](https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png) 
 
 ## 👀 资料 
 
-### [Prompt Engineering](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
+### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
 
- `Google` 官方出品的提示工程（`Prompt Engineering`）白皮书，该书系统性介绍了 `Prompt Engineering` 相关技术，包括 `LLMs` 基础知识、提示技巧和诸多最佳实践。 
+本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
 
-### [lc3-vm](https://www.jmeiners.com/lc3-vm/)
+![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
 
-教程主要介绍了如何编写自己的虚拟机（VM），以运行 LC-3 架构的汇编语言程序，旨在帮助程序员更深入地理解计算机内部运作和编程语言的工作原理：
+### [curriculum](https://github.com/TheOdinProject/curriculum)
 
-![lc3-vm](https://images-1252557999.file.myqcloud.com/uPic/rtzTGT.png) 
+`The Odin Project`（简称 TOP）是一个开源的全栈 web 开发教育课程，旨在通过一系列课程和项目帮助学习者掌握前端和后端技能：
 
-### [Building-a-Small-LLM-from-Scratch](https://github.com/KaihuaTang/Building-a-Small-LLM-from-Scratch)
+![k6tcen](https://images-1252557999.file.myqcloud.com/uPic/k6tcen.png) 
 
-该系列的目的是让读者可以在基础的pytorch上，不依赖任何其他现成的外部库，从零开始理解并实现一个大语言模型的所有组成部分，以及训练微调代码，因此读者仅需python，pytorch和最基础深度学习背景知识即可。 
+### [通识千书书单-聪明的阅读者](https://docs.qq.com/sheet/DY2RmcVVMVE9Qd3JV?tab=BB08J2)
+
+汇总聪明的阅读者里面出现的书单，可以选择最小单位的书单阅读：
+
+![聪明的阅读者](https://images-1252557999.file.myqcloud.com/uPic/聪明的阅读者.jpg) 
 
 ## 🕸 网站 
 
-### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
+### [onlinedoctranslator](https://www.onlinedoctranslator.com/zh-CN/)
 
-`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
+立即翻译任何文档格式为任意语言，并保持排版不变，免费：
 
-![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
+![onlinedoctranslator](https://images-1252557999.file.myqcloud.com/uPic/onlinedoctranslator.jpg) 
 
-### [熊猫速读](https://qread.xmsoushu.com/)
+### [CronTool](https://tool.crontap.com/cronjob-debugger)
 
-熊猫速读是一个收集精品视频读书笔记或好书分享的网站！为您推荐好书速读的视频，在您读一本书或者购买图书之前通过视频介绍先快速了解书籍的内容，根据兴趣再决定是否购买。
+`Linux Crontab` 可视化网站：
 
-![xmsd](https://images-1252557999.file.myqcloud.com/uPic/xmsd.jpg) 
+![crontap](https://images-1252557999.file.myqcloud.com/uPic/crontap.jpg) 
 
-### [batnoter](https://batnoter.com/)
+### [LLM Visualization](https://bbycroft.net/llm)
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+将 GPT LLM 大模型进行可视化分析：
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+![bbycroft](https://images-1252557999.file.myqcloud.com/uPic/bbycroft.jpg) 
 
 ## ✍️ 说明
 
