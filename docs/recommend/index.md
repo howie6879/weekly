@@ -5,83 +5,110 @@
 
 ## 🎯 项目 
 
-### [outline](https://github.com/outline/outline)
+### [dbsyncer](https://github.com/86dbs/dbsyncer)
 
-使用 `React &Node.js` 构建的协作知识库，支持团队协作，样式美观，可自建：
+`DBSyncer`（简称dbs）是一款开源的数据同步中间件，提供`MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL`等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
 
-![outline](https://images-1252557999.file.myqcloud.com/uPic/outline.jpg) 
+- 组合驱动，自定义库同步到库组合，关系型数据库与非关系型之间组合，任意搭配表同步映射关系
+- 实时监控，驱动全量或增量实时同步运行状态、结果、同步日志和系统日志
+- 开发插件，自定义转化同步逻辑
 
-### [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+![dbsyncer](https://images-1252557999.file.myqcloud.com/uPic/dbsyncer.webp) 
 
-基于 `Gradio Web` 实现的 UI，用于运行像 `GPT-J 6B、OPT、GALACTICA、LLaMA、Pygmalion` 这样的大型语言模型：
+### [Dasherr](https://github.com/erohtar/Dasherr)
 
-![text-generation-webui](https://images-1252557999.file.myqcloud.com/uPic/text-generation-webui.jpg) 
+简单轻量自部署的仪表盘工具：
 
-### [novel](https://github.com/steven-tey/novel)
+![Dasherr](https://images-1252557999.file.myqcloud.com/uPic/Dasherr.png) 
 
-具有类似 `NotionAI` 自动补全功能的所见即所得编辑器，可直接在线体验 [novel.sh](https://novel.sh/) ：
+### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
 
-![opengraph-image](https://images-1252557999.file.myqcloud.com/uPic/opengraph-image.png) 
+让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
 
 ## 🤖 软件 
 
-### [ics-openvpn](https://github.com/schwabe/ics-openvpn)
+### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 
-`ics-openvpn` 是一个适用 `Android`  的 `OpenVPN` 客户端项目，它允许用户在不需要 `root` 权限的情况下通过 `Android` 的 `VPNService API` 使用 `VPN` 服务：
+短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
 
-![ics-openvpn](https://images-1252557999.file.myqcloud.com/uPic/g0QLis.png) 
+![SmsForwarder](https://images-1252557999.file.myqcloud.com/uPic/v6owv0.jpg)
+如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
 
-### [Speechless](https://github.com/meterscao/Speechless)
+### [1Remote](https://github.com/1Remote/1Remote)
 
-`Speechless` 是一个帮助新浪微博用户，把微博内容导出成 `PDF` 进行本地备份的 `Chrome Extension`：
+`1Remote` 是一款现代化的个人远程会话管理员和启动器，使用它你可以管理从一个入口管理多种远程会话：
 
-![Speechless](https://images-1252557999.file.myqcloud.com/uPic/Speechless.jpeg) 
+- ⭐ 开源且免费
+- ⭐ 支持 RDP, SSH, VNC, Telnet, (S)FTP, RemoteApp 等多种协议
+- ⭐ 多屏幕、高分辨率的 RDP 支持
+- ⭐ 一键打开你的远程连接 (Alt + M)
+- ⭐ 单个服务器配置中允许存储多个地址和账号
+- ⭐ 基于选项卡的远程桌面界面、多语言、可自定义颜色主题
+- ⭐ 易于部署，仅需解压就能运行
 
-### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+![1Remote](https://images-1252557999.file.myqcloud.com/uPic/dgLzJC.png) 
 
-`AnotherRedisDesktopManager` 是一个快速稳定好用的 `Redis` 跨平台桌面管理软件，更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值：
+### [LawRefBook](https://github.com/RanKKI/LawRefBook)
 
-![AnotherRedisDesktopManager](https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png) 
+开源的法律知识速查手册：
+
+![LawRefBook](https://images-1252557999.file.myqcloud.com/uPic/LawRefBook.png) 
 
 ## 👀 资料 
 
-### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
+### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 
-本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
+一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
 
-![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
+![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
 
-### [curriculum](https://github.com/TheOdinProject/curriculum)
+### [prompt-tuning-playbook](https://github.com/varungodbole/prompt-tuning-playbook)
 
-`The Odin Project`（简称 TOP）是一个开源的全栈 web 开发教育课程，旨在通过一系列课程和项目帮助学习者掌握前端和后端技能：
+项目主要提供了一份针对后训练大型语言模型（LLMs）的有效提示技术指南，旨在帮助用户更好地理解和应用这些模型。
 
-![k6tcen](https://images-1252557999.file.myqcloud.com/uPic/k6tcen.png) 
+后训练使得 LLMs 能够更好地遵循指令、匹配现实世界、保持安全等，这些行为包括但不限于格式遵循、指令执行、事实准确性和安全性。 
 
-### [通识千书书单-聪明的阅读者](https://docs.qq.com/sheet/DY2RmcVVMVE9Qd3JV?tab=BB08J2)
+### [Python源码剖析](https://fasionchan.com/python-source/)
 
-汇总聪明的阅读者里面出现的书单，可以选择最小单位的书单阅读：
+本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
 
-![聪明的阅读者](https://images-1252557999.file.myqcloud.com/uPic/聪明的阅读者.jpg) 
+![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
 
 ## 🕸 网站 
 
-### [onlinedoctranslator](https://www.onlinedoctranslator.com/zh-CN/)
+### [gaccode.store](https://gaccode.store/)
 
-立即翻译任何文档格式为任意语言，并保持排版不变，免费：
+首先感谢你看到这里，我要开始写一些啰嗦的话哈哈～
 
-![onlinedoctranslator](https://images-1252557999.file.myqcloud.com/uPic/onlinedoctranslator.jpg) 
+这周疯狂使用 Claude Code，探索 CC 在部门团队使用的可行性，结果非常让我惊喜，初步解决完数据隐私问题，就可以投入到技术工作流程里面去。
 
-### [CronTool](https://tool.crontap.com/cronjob-debugger)
+会自动行动、思考、优化、测试的编程工具，我每晚编码到凌晨两三点，同时开三个项目：web & python & go & rust，我会的技术栈他都会，我不会的他也会👀。**这也是周刊为啥停一周的原因，写代码太晚太累**。
 
-`Linux Crontab` 可视化网站：
+我觉得这个工具会让有能力的人变得更厉害，让有效率的人变得更强，让有想法的人能快速进行创造。认知高度决定着 CC 可以做出怎样的东西。
 
-![crontap](https://images-1252557999.file.myqcloud.com/uPic/crontap.jpg) 
+工具的出现只会让厉害的人更厉害～把握住，用起来。
 
-### [LLM Visualization](https://bbycroft.net/llm)
+非常建议大家使用。这周我差不多花了接近四千块来调研（我没开官方的 Max）买的各种第三方的 `Key`，也应次认识了不少人，大家如果在用，可以加我交流这块购买经验（可能可以给你省钱）。
 
-将 GPT LLM 大模型进行可视化分析：
+然后还有朋友做类似[GAC](https://gaccode.com/signup?ref=ZP1MJDQ4)的产品，目前在内测，也可以拉你进去体验。
 
-![bbycroft](https://images-1252557999.file.myqcloud.com/uPic/bbycroft.jpg) 
+其中 [GAC](https://gaccode.com/signup?ref=ZP1MJDQ4) 算是比较大的一家（大家注册可以用我的邀请码：https://gaccode.com/signup?ref=ZP1MJDQ4）。
+
+在购买过程中我发现了这个网站： [gaccode.store](https://gaccode.store/)，可以通过比较便宜的价格购买兑换码，我从其他地方买 299 这里是 279 （网站上说前多少名购买可以降价），进群还可以不定时免费领 `gac` 的 `key`。
+
+![GACstore](https://images-1252557999.file.myqcloud.com/uPic/0GqXzS.png) 
+
+### [apitracker](https://apitracker.io/)
+
+发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
+
+![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
+
+### [mindmap-scanner](https://xmind.cn/mindmap-scanner/)
+
+用 `AI` 将思维导图图片转为可编辑的 `Xmind` 文件：
+
+![mindmap-scanner](https://images-1252557999.file.myqcloud.com/uPic/mindmap-scanner.jpg) 
 
 ## ✍️ 说明
 
