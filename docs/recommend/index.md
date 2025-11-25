@@ -5,110 +5,85 @@
 
 ## 🎯 项目 
 
-### [dbsyncer](https://github.com/86dbs/dbsyncer)
+### [stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
 
-`DBSyncer`（简称dbs）是一款开源的数据同步中间件，提供`MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL`等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
+基于 `Docker` 的一站式 `Stable Diffusion`（最近很火的 AI 文字生成图片的模型）安装包，可提供以下多个 `UI` 可选：
 
-- 组合驱动，自定义库同步到库组合，关系型数据库与非关系型之间组合，任意搭配表同步映射关系
-- 实时监控，驱动全量或增量实时同步运行状态、结果、同步日志和系统日志
-- 开发插件，自定义转化同步逻辑
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
+- [sygil-webui](https://github.com/Sygil-Dev/sygil-webui)
 
-![dbsyncer](https://images-1252557999.file.myqcloud.com/uPic/dbsyncer.webp) 
+![sd_ui_docker](https://images-1252557999.file.myqcloud.com/uPic/sd_ui_docker.jpg) 
 
-### [Dasherr](https://github.com/erohtar/Dasherr)
+### [favicon-downloader](https://github.com/seadfeng/favicon-downloader)
 
-简单轻量自部署的仪表盘工具：
+免费获取网站 `favicon` 的工具:
 
-![Dasherr](https://images-1252557999.file.myqcloud.com/uPic/Dasherr.png) 
+![faviconextractor](https://images-1252557999.file.myqcloud.com/uPic/faviconextractor.jpg) 
 
-### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
+### [lsky-pro](https://github.com/lsky-org/lsky-pro)
 
-让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
+非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
+
+![vps_lsky_01](https://images-1252557999.file.myqcloud.com/uPic/vps_lsky_01.jpg) 
 
 ## 🤖 软件 
 
-### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
+### [Webpilot](https://github.com/webpilot-ai/Webpilot)
 
-短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
+开源浏览器插件，基于 `ChatGPT` 可以让您与网页进行自由对话，可以在线访问 [webpilot.ai](https://github.com/webpilot-ai/Webpilot)：
 
-![SmsForwarder](https://images-1252557999.file.myqcloud.com/uPic/v6owv0.jpg)
-如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
+![webpilot](https://images-1252557999.file.myqcloud.com/uPic/webpilot.jpg) 
 
-### [1Remote](https://github.com/1Remote/1Remote)
+### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
-`1Remote` 是一款现代化的个人远程会话管理员和启动器，使用它你可以管理从一个入口管理多种远程会话：
+用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
 
-- ⭐ 开源且免费
-- ⭐ 支持 RDP, SSH, VNC, Telnet, (S)FTP, RemoteApp 等多种协议
-- ⭐ 多屏幕、高分辨率的 RDP 支持
-- ⭐ 一键打开你的远程连接 (Alt + M)
-- ⭐ 单个服务器配置中允许存储多个地址和账号
-- ⭐ 基于选项卡的远程桌面界面、多语言、可自定义颜色主题
-- ⭐ 易于部署，仅需解压就能运行
+![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
 
-![1Remote](https://images-1252557999.file.myqcloud.com/uPic/dgLzJC.png) 
+### [Gif123](https://github.com/aardio/Gif123)
 
-### [LawRefBook](https://github.com/RanKKI/LawRefBook)
+非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
 
-开源的法律知识速查手册：
-
-![LawRefBook](https://images-1252557999.file.myqcloud.com/uPic/LawRefBook.png) 
+![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg) 
 
 ## 👀 资料 
 
-### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
+### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
 
-一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
+精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
 
-![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
+### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
 
-### [prompt-tuning-playbook](https://github.com/varungodbole/prompt-tuning-playbook)
+《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
 
-项目主要提供了一份针对后训练大型语言模型（LLMs）的有效提示技术指南，旨在帮助用户更好地理解和应用这些模型。
+![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
 
-后训练使得 LLMs 能够更好地遵循指令、匹配现实世界、保持安全等，这些行为包括但不限于格式遵循、指令执行、事实准确性和安全性。 
+### [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
 
-### [Python源码剖析](https://fasionchan.com/python-source/)
+面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:
 
-本专栏带您深入探索 Python 3 源码，洞悉 Python 虚拟机的运行原理，并体会其中的精妙设计！
-
-![python-source](https://images-1252557999.file.myqcloud.com/uPic/python-source.jpg) 
+![llm-cookbook](https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png) 
 
 ## 🕸 网站 
 
-### [gaccode.store](https://gaccode.store/)
+### [maeda-design-room](https://dotown.maeda-design-room.net/)
 
-首先感谢你看到这里，我要开始写一些啰嗦的话哈哈～
+免费可商用的像素画素材站，由前任天堂设计师成立的前田工作室制作，有12个分类700多个素材：
 
-这周疯狂使用 Claude Code，探索 CC 在部门团队使用的可行性，结果非常让我惊喜，初步解决完数据隐私问题，就可以投入到技术工作流程里面去。
+![maeda-design-room](https://images-1252557999.file.myqcloud.com/uPic/DRpEV6.png) 
 
-会自动行动、思考、优化、测试的编程工具，我每晚编码到凌晨两三点，同时开三个项目：web & python & go & rust，我会的技术栈他都会，我不会的他也会👀。**这也是周刊为啥停一周的原因，写代码太晚太累**。
+### [CronTool](https://tool.crontap.com/cronjob-debugger)
 
-我觉得这个工具会让有能力的人变得更厉害，让有效率的人变得更强，让有想法的人能快速进行创造。认知高度决定着 CC 可以做出怎样的东西。
+`Linux Crontab` 可视化网站：
 
-工具的出现只会让厉害的人更厉害～把握住，用起来。
+![crontap](https://images-1252557999.file.myqcloud.com/uPic/crontap.jpg) 
 
-非常建议大家使用。这周我差不多花了接近四千块来调研（我没开官方的 Max）买的各种第三方的 `Key`，也应次认识了不少人，大家如果在用，可以加我交流这块购买经验（可能可以给你省钱）。
+### [the-algorithms](https://the-algorithms.com/zh_Hans)
 
-然后还有朋友做类似[GAC](https://gaccode.com/signup?ref=ZP1MJDQ4)的产品，目前在内测，也可以拉你进去体验。
+`GitHub` 最大的开源算法库：
 
-其中 [GAC](https://gaccode.com/signup?ref=ZP1MJDQ4) 算是比较大的一家（大家注册可以用我的邀请码：https://gaccode.com/signup?ref=ZP1MJDQ4）。
-
-在购买过程中我发现了这个网站： [gaccode.store](https://gaccode.store/)，可以通过比较便宜的价格购买兑换码，我从其他地方买 299 这里是 279 （网站上说前多少名购买可以降价），进群还可以不定时免费领 `gac` 的 `key`。
-
-![GACstore](https://images-1252557999.file.myqcloud.com/uPic/0GqXzS.png) 
-
-### [apitracker](https://apitracker.io/)
-
-发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
-
-![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
-
-### [mindmap-scanner](https://xmind.cn/mindmap-scanner/)
-
-用 `AI` 将思维导图图片转为可编辑的 `Xmind` 文件：
-
-![mindmap-scanner](https://images-1252557999.file.myqcloud.com/uPic/mindmap-scanner.jpg) 
+![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
 
 ## ✍️ 说明
 
