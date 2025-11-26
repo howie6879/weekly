@@ -5,85 +5,93 @@
 
 ## 🎯 项目 
 
-### [stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
+### [Weylus](https://github.com/H-M-H/Weylus)
 
-基于 `Docker` 的一站式 `Stable Diffusion`（最近很火的 AI 文字生成图片的模型）安装包，可提供以下多个 `UI` 可选：
+使用`Rust`编写的共享屏幕开源项目，将平板作为电脑触摸屏使用，全平台支持：
 
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
-- [sygil-webui](https://github.com/Sygil-Dev/sygil-webui)
+![weylus](https://images-1252557999.file.myqcloud.com/uPic/weylus.jpg) 
 
-![sd_ui_docker](https://images-1252557999.file.myqcloud.com/uPic/sd_ui_docker.jpg) 
+### [v2rayA](https://github.com/v2rayA/v2rayA)
 
-### [favicon-downloader](https://github.com/seadfeng/favicon-downloader)
+`v2rayA` 是一个支持全局透明代理的 `V2Ray` 客户端，同时兼容 `SS、SSR、Trojan(trojan-go)、Tuic & Juicity` 协议， 致力于提供最简单的操作，满足绝大部分需求，得益于 Web 客户端的优势，你不仅可以将其用于本地计算机，还可以轻松地将它部署在路由器或 NAS 上。
 
-免费获取网站 `favicon` 的工具:
+![v2rayA](https://images-1252557999.file.myqcloud.com/uPic/v2rayA.png) 
 
-![faviconextractor](https://images-1252557999.file.myqcloud.com/uPic/faviconextractor.jpg) 
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-### [lsky-pro](https://github.com/lsky-org/lsky-pro)
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
-
-![vps_lsky_01](https://images-1252557999.file.myqcloud.com/uPic/vps_lsky_01.jpg) 
+ ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
 
 ## 🤖 软件 
 
-### [Webpilot](https://github.com/webpilot-ai/Webpilot)
+### [dbgate](https://github.com/dbgate/dbgate)
 
-开源浏览器插件，基于 `ChatGPT` 可以让您与网页进行自由对话，可以在线访问 [webpilot.ai](https://github.com/webpilot-ai/Webpilot)：
+支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
 
-![webpilot](https://images-1252557999.file.myqcloud.com/uPic/webpilot.jpg) 
+![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
 
-### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
+### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
 
-用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
+FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
 
-![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
+- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
+- 基于文本的歌单，方便与朋友分享、设备之间同步
+- 提供基于 TCP 的交互控制协议
+- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
+- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
 
-### [Gif123](https://github.com/aardio/Gif123)
+![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
 
-非常轻量的GIF 录屏工具, 仅仅780k，可以方便地预览、并复制到剪贴板，兼容 XP，Vista，Win7，Win8，Win10，Win11...... 等流行桌面操作系统。
+### [res-downloader](https://github.com/putyy/res-downloader)
 
-![Gif123](https://images-1252557999.file.myqcloud.com/uPic/FQabyv.jpg) 
+网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
+
+![res-downloader](https://images-1252557999.file.myqcloud.com/uPic/res-downloader.jpeg) 
 
 ## 👀 资料 
 
-### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
+### [dockerlabs](https://github.com/collabnix/dockerlabs)
 
-精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
+Docker 学习教程：
 
-### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
+- 适用于初中高级别学习者的免费平台
+- 超过500个高度互动的Docker教程和指南
+- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
 
-《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
+![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
 
-![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
+### [note-architect](https://zq99299.github.io/note-architect/hc/)
 
-### [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
+高并发系统设计 40 问，一份架构师学习笔记：
 
-面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:
+![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
 
-![llm-cookbook](https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png) 
+### [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
+
+Model Context Protocol(MCP) 编程极速入门：
+
+![MCP-Chinese-Getting-Started-Guide](https://images-1252557999.file.myqcloud.com/uPic/ORcZa8.png) 
 
 ## 🕸 网站 
 
-### [maeda-design-room](https://dotown.maeda-design-room.net/)
+### [drawio](https://github.com/jgraph/drawio)
 
-免费可商用的像素画素材站，由前任天堂设计师成立的前田工作室制作，有12个分类700多个素材：
+一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
 
-![maeda-design-room](https://images-1252557999.file.myqcloud.com/uPic/DRpEV6.png) 
+![drawio](https://images-1252557999.file.myqcloud.com/uPic/drawio.jpg) 
 
-### [CronTool](https://tool.crontap.com/cronjob-debugger)
+### [Bing 文字创建图像](https://www.bing.com/images/create)
 
-`Linux Crontab` 可视化网站：
+微软出品的文字生成图像模型（IP不能是国内）：
 
-![crontap](https://images-1252557999.file.myqcloud.com/uPic/crontap.jpg) 
+![bing_image](https://images-1252557999.file.myqcloud.com/uPic/bing_image.jpg) 
 
-### [the-algorithms](https://the-algorithms.com/zh_Hans)
+### [alleyread](https://alleyread.com/)
 
-`GitHub` 最大的开源算法库：
+发现优质 `Newsletter`：
 
-![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
+![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
 
 ## ✍️ 说明
 
