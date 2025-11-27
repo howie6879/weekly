@@ -5,93 +5,94 @@
 
 ## 🎯 项目 
 
-### [Weylus](https://github.com/H-M-H/Weylus)
+### [wechat-export](https://github.com/luin/wechat-export)
 
-使用`Rust`编写的共享屏幕开源项目，将平板作为电脑触摸屏使用，全平台支持：
+将微信聊天记录导出为HTML文件：
 
-![weylus](https://images-1252557999.file.myqcloud.com/uPic/weylus.jpg) 
+![wechat-export](https://images-1252557999.file.myqcloud.com/uPic/eIhKUP.jpg) 
 
-### [v2rayA](https://github.com/v2rayA/v2rayA)
+### [whitebophir](https://github.com/lovasoa/whitebophir)
 
-`v2rayA` 是一个支持全局透明代理的 `V2Ray` 客户端，同时兼容 `SS、SSR、Trojan(trojan-go)、Tuic & Juicity` 协议， 致力于提供最简单的操作，满足绝大部分需求，得益于 Web 客户端的优势，你不仅可以将其用于本地计算机，还可以轻松地将它部署在路由器或 NAS 上。
+一个简单、免费、易于使用和部署的在线协作白板。该白板允许多个用户同时实时绘图，并且可以保存白板状态：
 
-![v2rayA](https://images-1252557999.file.myqcloud.com/uPic/v2rayA.png) 
+![whitebophir](https://images-1252557999.file.myqcloud.com/uPic/KZgRku.png) 
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
+### [openui](https://github.com/wandb/openui)
 
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+将你脑中的页面通过文本描述来自动实时生成，非常方便，但是实用性具体如何还需要探索，期待这个项目持续迭代：
 
- ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
+![openui](https://images-1252557999.file.myqcloud.com/uPic/openui.jpg)
+
+它甚至可以帮助你将HTML转换成 `React、Svelte or Web Components` 等格式。 
 
 ## 🤖 软件 
 
-### [dbgate](https://github.com/dbgate/dbgate)
+### [Polybar](https://github.com/polybar/polybar)
 
-支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
+`Polybar` 是一个用于创建个性化状态栏的工具，它支持多种桌面环境：
 
-![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
+![polybar](https://images-1252557999.file.myqcloud.com/uPic/polybar.jpg) 
 
-### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
+### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
 
-FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
+基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
 
-- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
-- 基于文本的歌单，方便与朋友分享、设备之间同步
-- 提供基于 TCP 的交互控制协议
-- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
-- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
+- 干净简洁的UI
+- 内置效果可实现准确的男声和女声
+- 创建&加载自定义预设的能力
+- 创建自己的临时虚拟输入设备
 
-![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
+![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
 
-### [res-downloader](https://github.com/putyy/res-downloader)
+### [HandBrake](https://github.com/HandBrake/HandBrake)
 
-网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
+`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
 
-![res-downloader](https://images-1252557999.file.myqcloud.com/uPic/res-downloader.jpeg) 
+![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
 
 ## 👀 资料 
 
-### [dockerlabs](https://github.com/collabnix/dockerlabs)
+### [MDN Web Docs](https://github.com/mdn/translated-content)
 
-Docker 学习教程：
+`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
 
-- 适用于初中高级别学习者的免费平台
-- 超过500个高度互动的Docker教程和指南
-- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
+![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
 
-![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
+### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
 
-### [note-architect](https://zq99299.github.io/note-architect/hc/)
+精益副业：程序员如何优雅地做副业:
 
-高并发系统设计 40 问，一份架构师学习笔记：
+![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
 
-![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
+### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
 
-### [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
+Kubernetes 中文指南/云原生应用架构实战手册：
 
-Model Context Protocol(MCP) 编程极速入门：
-
-![MCP-Chinese-Getting-Started-Guide](https://images-1252557999.file.myqcloud.com/uPic/ORcZa8.png) 
+![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
 
 ## 🕸 网站 
 
-### [drawio](https://github.com/jgraph/drawio)
+### [openfarm.cc](https://openfarm.cc/)
 
-一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
+[`OpenFarm`](https://github.com/openfarmcc/OpenFarm) 是一个开源项目，目标是教你如何种植农作物：
 
-![drawio](https://images-1252557999.file.myqcloud.com/uPic/drawio.jpg) 
+![openfarm](https://images-1252557999.file.myqcloud.com/uPic/openfarm.jpg) 
 
-### [Bing 文字创建图像](https://www.bing.com/images/create)
+### [myfirstnft](https://myfirstnft.info/)
 
-微软出品的文字生成图像模型（IP不能是国内）：
+我的第一个NFT，在这个网站，你可以：
 
-![bing_image](https://images-1252557999.file.myqcloud.com/uPic/bing_image.jpg) 
+- 理解NFT的价值
+- 铸造一个免费的NFT
+- 了解Web3.0
 
-### [alleyread](https://alleyread.com/)
+![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
 
-发现优质 `Newsletter`：
+### [emoji](https://github.com/cbh123/emoji)
 
-![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
+用人工智能制作表情符号，在线地址👉https://emojigen.com/：
+
+![emojigen](https://images-1252557999.file.myqcloud.com/uPic/emojigen.jpg) 
 
 ## ✍️ 说明
 
