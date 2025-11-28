@@ -5,94 +5,93 @@
 
 ## 🎯 项目 
 
-### [wechat-export](https://github.com/luin/wechat-export)
+### [btop](https://github.com/aristocratos/btop)
 
-将微信聊天记录导出为HTML文件：
+一款界面酷炫的资源管理器，不过我用htop就够够的了。
 
-![wechat-export](https://images-1252557999.file.myqcloud.com/uPic/eIhKUP.jpg) 
+![btop](https://images-1252557999.file.myqcloud.com/uPic/3eoG1g.jpg) 
 
-### [whitebophir](https://github.com/lovasoa/whitebophir)
+### [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
 
-一个简单、免费、易于使用和部署的在线协作白板。该白板允许多个用户同时实时绘图，并且可以保存白板状态：
+一个大模型 `AI` 网关项目，只需要通过项目提供的一个接口，就可以快速连接到100多个 `LLM`：
 
-![whitebophir](https://images-1252557999.file.myqcloud.com/uPic/KZgRku.png) 
+- 极速（快9.9倍），占用空间小（安装后约45kb）
+- 在多个模型、提供者和密钥之间进行负载均衡
+- 备选方案确保您的应用程序具有弹性
+- 默认情况下，自动重试并采用指数回退策略
+- 根据需要添加插件中间件
+- 经过1000亿次 Token 的实战考验
 
-### [openui](https://github.com/wandb/openui)
+  
+![ai-gateway](https://images-1252557999.file.myqcloud.com/uPic/ai-gateway.jpg)
+  
+同类型项目可以参考：[One API👉通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 ✨](https://github.com/songquanpeng/one-api) 
 
-将你脑中的页面通过文本描述来自动实时生成，非常方便，但是实用性具体如何还需要探索，期待这个项目持续迭代：
+### [ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine)
 
-![openui](https://images-1252557999.file.myqcloud.com/uPic/openui.jpg)
+随着 `TikTok` 和 `Youtube` 等短视频内容的兴起，比以往任何时候都有更多的知识存在于视频中。对于任何一个人来说，在数百万个视频中找到特定答案可能是困难的，而这个项目([https://avse.vercel.app/](https://avse.vercel.app/))就是针对这个问题进行探索：
 
-它甚至可以帮助你将HTML转换成 `React、Svelte or Web Components` 等格式。 
+![ai-video-search-engine](https://images-1252557999.file.myqcloud.com/uPic/ai-video-search-engine.jpg) 
 
 ## 🤖 软件 
 
-### [Polybar](https://github.com/polybar/polybar)
+### [void](https://github.com/voideditor/void#readme)
 
-`Polybar` 是一个用于创建个性化状态栏的工具，它支持多种桌面环境：
+`Void` 是一个开源的 `Cursor` 替代项目：
 
-![polybar](https://images-1252557999.file.myqcloud.com/uPic/polybar.jpg) 
+![void](https://images-1252557999.file.myqcloud.com/uPic/ewYGFx.png) 
 
-### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
+### [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
 
-基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
+使用 Android 原生开发的电视直播软件：
 
-- 干净简洁的UI
-- 内置效果可实现准确的男声和女声
-- 创建&加载自定义预设的能力
-- 创建自己的临时虚拟输入设备
+![mytv-android](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/mytv-android.jpg)
 
-![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
+老胡试了不是很稳定，大家可根据地域使用测试。 
 
-### [HandBrake](https://github.com/HandBrake/HandBrake)
+### [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor)
 
-`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
+`Caesium` 是一款图像压缩软件，可帮助您存储、发送和共享数字图片，支持 `JPG、PNG&WebP` 格式：
 
-![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
+![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.jpg) 
 
 ## 👀 资料 
 
-### [MDN Web Docs](https://github.com/mdn/translated-content)
+### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
 
-`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
+精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
 
-![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
+### [theByteBook](https://github.com/isno/theByteBook)
 
-### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
+深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
 
-精益副业：程序员如何优雅地做副业:
+![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
 
-![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
+### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
 
-### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
+《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
 
-Kubernetes 中文指南/云原生应用架构实战手册：
-
-![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
+![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
 
 ## 🕸 网站 
 
-### [openfarm.cc](https://openfarm.cc/)
+### [haitang](https://github.com/javayhu/haitang)
 
-[`OpenFarm`](https://github.com/openfarmcc/OpenFarm) 是一个开源项目，目标是教你如何种植农作物：
+海棠诗社，提供古诗词的数字化收集，可以按照不同方式检索和分类，项目代码完全[开源](https://github.com/javayhu/haitang)：
 
-![openfarm](https://images-1252557999.file.myqcloud.com/uPic/openfarm.jpg) 
+![haitang](https://images-1252557999.file.myqcloud.com/uPic/haitang.jpg) 
 
-### [myfirstnft](https://myfirstnft.info/)
+### [dev.to](https://dev.to/)
 
-我的第一个NFT，在这个网站，你可以：
+国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
 
-- 理解NFT的价值
-- 铸造一个免费的NFT
-- 了解Web3.0
+![dev_to](https://images-1252557999.file.myqcloud.com/uPic/dev_to.png) 
 
-![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
+### [wantquotes.net](https://wantquotes.net/)
 
-### [emoji](https://github.com/cbh123/emoji)
+清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
 
-用人工智能制作表情符号，在线地址👉https://emojigen.com/：
-
-![emojigen](https://images-1252557999.file.myqcloud.com/uPic/emojigen.jpg) 
+![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
 
 ## ✍️ 说明
 
