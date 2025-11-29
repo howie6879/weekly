@@ -5,93 +5,113 @@
 
 ## 🎯 项目 
 
-### [btop](https://github.com/aristocratos/btop)
+### [copyparty](https://github.com/9001/copyparty)
 
-一款界面酷炫的资源管理器，不过我用htop就够够的了。
+一个多功能的文件服务器应用程序，支持加速的可恢复上传、去重、WebDAV、FTP、TFTP、zeroconf、媒体索引器、缩略图生成等功能，集成了多种协议和服务，并且支持跨平台使用，无需任何依赖。
 
-![btop](https://images-1252557999.file.myqcloud.com/uPic/3eoG1g.jpg) 
+![copyparty](https://images-1252557999.file.myqcloud.com/uPic/fgTNRH.png) 
 
-### [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
+### [apitable](https://github.com/apitable/apitable)
 
-一个大模型 `AI` 网关项目，只需要通过项目提供的一个接口，就可以快速连接到100多个 `LLM`：
+> [vika](https://vika.cn/?home=1) 维格表作为新一代数据生产力平台，是一款面向 API 的智能多维表格。
+> 它将复杂的可视化数据库、电子表格、实时在线协同、低代码开发技术四合为一，就连一行代码都不懂的普通职员都能轻松上手获得 IT 能力，从而极大降低企业数字化成本。
 
-- 极速（快9.9倍），占用空间小（安装后约45kb）
-- 在多个模型、提供者和密钥之间进行负载均衡
-- 备选方案确保您的应用程序具有弹性
-- 默认情况下，自动重试并采用指数回退策略
-- 根据需要添加插件中间件
-- 经过1000亿次 Token 的实战考验
+ [vika](https://vika.cn/?home=1) 维格表推出的开源社区版——「[APITable](https://github.com/apitable/apitable)」，这意味着，你可以通过免费开源的多维表格技术去创造更多有趣的事物，可以看出这家公司格局很大：
+ 
+ ![apitable](https://images-1252557999.file.myqcloud.com/uPic/apitable.png) 
 
-  
-![ai-gateway](https://images-1252557999.file.myqcloud.com/uPic/ai-gateway.jpg)
-  
-同类型项目可以参考：[One API👉通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 ✨](https://github.com/songquanpeng/one-api) 
+### [monaco-editor](https://github.com/microsoft/monaco-editor)
 
-### [ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine)
+微软开源的 `Web` 编辑器：
 
-随着 `TikTok` 和 `Youtube` 等短视频内容的兴起，比以往任何时候都有更多的知识存在于视频中。对于任何一个人来说，在数百万个视频中找到特定答案可能是困难的，而这个项目([https://avse.vercel.app/](https://avse.vercel.app/))就是针对这个问题进行探索：
-
-![ai-video-search-engine](https://images-1252557999.file.myqcloud.com/uPic/ai-video-search-engine.jpg) 
+![monaco-editor](https://images-1252557999.file.myqcloud.com/uPic/monaco-editor.png) 
 
 ## 🤖 软件 
 
-### [void](https://github.com/voideditor/void#readme)
+### [dockit](https://github.com/geek-fun/dockit)
 
-`Void` 是一个开源的 `Cursor` 替代项目：
+一个跨平台的图形用户界面客户端，支持 `Elasticsearch` 和 `Opensearch` 数据库管理。
 
-![void](https://images-1252557999.file.myqcloud.com/uPic/ewYGFx.png) 
+![dockit](https://images-1252557999.file.myqcloud.com/uPic/apAgUR.png) 
 
-### [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
+### [cicada](https://github.com/mebtte/cicada)
 
-使用 Android 原生开发的电视直播软件：
+知了, 支持多用户的开源音乐服务：
 
-![mytv-android](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/mytv-android.jpg)
+- **尊重隐私, 不进行任何数据收集**
+- 支持多用户
+- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
+- 系统媒体和快捷键支持
+- 音乐支持标准音质/超高音质/伴奏以及多份歌词
+- 乐单/播放列表/播放队列音乐数量无限制
+- 支持标注音乐创作来源(翻唱)
+- 支持歌词/歌名/歌手/乐单搜索
 
-老胡试了不是很稳定，大家可根据地域使用测试。 
+![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
 
-### [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor)
+### [PetThoughts](https://github.com/liu-ziting/PetThoughts)
 
-`Caesium` 是一款图像压缩软件，可帮助您存储、发送和共享数字图片，支持 `JPG、PNG&WebP` 格式：
+【我知道你的宠物在想什么】 是一个基于 Gemini Pro API 构建的图片识别项目，通过上传你宠物的照片，该项目能够智能分析你的宠物的表情和环境，并推测出它们可能在想些什么。
 
-![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.jpg) 
+- 图片识别：利用 Gemini-pro-vision 的图像识别技术，能够准确地识别宠物的表情和环境。
+- 表情分析：通过分析宠物的表情 Gemini-pro-vision 可以推测出宠物可能的情绪状态，如开心、惊讶、困惑等。
+- 环境分析：Gemini-pro-vision 还能根据宠物所处的环境，推测出它们可能的活动场景，如户外玩耍、室内休息等。
+- 自然语言处理：结合图像识别和自然语言处理技术，Gemini-pro-vision 可以将宠物的情绪和活动场景转化为可读性高的文字描述。
+- 用户友好界面：提供简洁直观的用户界面，使用户能够轻松上传照片并获取宠物分析结果。
+
+![pt](https://images-1252557999.file.myqcloud.com/uPic/pt.jpeg) 
 
 ## 👀 资料 
 
-### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
+### [wangshusen/SearchEngine](https://github.com/wangshusen/SearchEngine)
 
-精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
+开源的搜索引擎原理书籍（不方便下载的直接私聊我发 PDF），包含：
 
-### [theByteBook](https://github.com/isno/theByteBook)
+- 搜索引擎基础
+- 相关性
+- 其他决定用户满意度的因子
+- 查询词处理
+- 召回
+- 排序
+- 查询词推荐
 
-深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
+![SearchEngine](https://images-1252557999.file.myqcloud.com/uPic/SearchEngine.jpg) 
 
-![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
+### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
 
-### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
+一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
 
-《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
+![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
 
-![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
+### [harleyszhang/llm_note](https://github.com/harleyszhang/llm_note)
+
+一个关于大型语言模型（LLM）的笔记仓库，涵盖了模型推理、Transformer 模型结构、LLM 框架代码分析以及高性能计算等内容:
+
+- Transformer 模型系列：详细解读了 Transformer 模型的论文，实现代码，以及不同版本的 GPT 和 LLaMA 模型结构。
+- LLM 性能分析：分析了模型的参数量、计算量、显存占用以及推理延迟。
+- LLM 压缩技术：介绍了 SmoothQuant 和 AWQ 等模型压缩算法。
+- LLM 推理与部署：讨论了推理服务框架的技术总结和源码解析，包括 DeepSpeed 框架的学习笔记，以及推理优化、系统优化方法和可视化工具。
+- 高性能计算：提供了关于 Triton 和 CUDA 的编程笔记，以及高性能计算编程的学习资料推荐。 
 
 ## 🕸 网站 
 
-### [haitang](https://github.com/javayhu/haitang)
+### [PromptPilot](https://promptpilot.volcengine.com/home)
 
-海棠诗社，提供古诗词的数字化收集，可以按照不同方式检索和分类，项目代码完全[开源](https://github.com/javayhu/haitang)：
+字节火山出品的 `Prompt` 生成助手：
 
-![haitang](https://images-1252557999.file.myqcloud.com/uPic/haitang.jpg) 
+![PromptPilot](https://images-1252557999.file.myqcloud.com/uPic/uvUy4X.png) 
 
-### [dev.to](https://dev.to/)
+### [caniuse](https://caniuse.com/)
 
-国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
+网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
 
-![dev_to](https://images-1252557999.file.myqcloud.com/uPic/dev_to.png) 
+![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
 
-### [wantquotes.net](https://wantquotes.net/)
+### [llmresourceshub](https://llmresourceshub.vercel.app/)
 
-清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
+一站式 LLM 资源合集：
 
-![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
+![llmresourceshub](https://images-1252557999.file.myqcloud.com/uPic/eSgtB8.png) 
 
 ## ✍️ 说明
 
