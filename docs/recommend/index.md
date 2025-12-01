@@ -5,109 +5,83 @@
 
 ## 🎯 项目 
 
-### [plasmo](https://github.com/PlasmoHQ/plasmo)
+### [BabelDOC](https://github.com/funstory-ai/BabelDOC)
 
-`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
+一个开源的文档翻译工具，支持多语言和多种 `PDF` 处理选项，可以免费翻译 `PDF` 文件中的前 1000 页内容。它提供了一个简单的命令行界面，以及 `Python API` 的支持，主要用于集成到其他软件中，也可以直接用于简单的翻译任务：
 
-- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
-- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
-- 热重载
-- [`.env*`  文件](https://docs.plasmo.com/framework/env)
-- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
-- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
-- 还有更多!  🚀
+![BabelDOC](https://images-1252557999.file.myqcloud.com/uPic/l8jWhb.png) 
 
-![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
+### [SoraWebui](https://github.com/SoraWebui/SoraWebui)
 
-更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
+`SoraWebui` 是一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能：
 
-### [drawdb](https://github.com/drawdb-io/drawdb)
+![SoraWebui](https://images-1252557999.file.myqcloud.com/uPic/SoraWebui.jpeg) 
 
-免费、简单且直观的在线数据库设计工具和 `SQL` 生成器：
+### [Verdaccio](https://github.com/verdaccio/verdaccio)
 
-![drawdb](https://images-1252557999.file.myqcloud.com/uPic/drawdb.jpg) 
+`Verdaccio` 是一个 `Node.js` 创建的轻量的私有 `npm proxy registry`：
 
-### [Cloudreve](https://github.com/cloudreve/Cloudreve)
-
-支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
-
-- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
-- 📤  上传/下载 支持客户端直传，支持下载限速
-- 💾  可对接 Aria2 离线下载
-- 📚  在线 压缩/解压缩、多文件打包下载
-- 💻  覆盖全部存储策略的 WebDAV 协议支持
-- ⚡  拖拽上传、目录上传、流式上传处理
-- 🗃️  文件拖拽管理
-- 👩‍👧‍👦  多用户、用户组
-- 🔗  创建文件、目录的分享链接，可设定自动过期
-- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
-- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
-- 🚀  All-In-One 打包，开箱即用
-- 🌈  ... ...
-
-![Cloudreve](https://images-1252557999.file.myqcloud.com/uPic/opzEP2.jpg) 
+![Verdaccio](https://images-1252557999.file.myqcloud.com/uPic/CRinc4.jpg) 
 
 ## 🤖 软件 
 
-### [proxypin](https://github.com/wanghongenpin/proxypin)
+### [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
 
-基于 Flutter 开发的跨平台抓包软件，界面美观，交互简单：
+`Karabiner-Elements`是一个非常强大的键盘自定义工具，非常推荐，算是我`macOS`下的基本软件。
 
-![proxypin](https://images-1252557999.file.myqcloud.com/uPic/vGVbRn.png) 
+![Karabiner-Elements](https://images-1252557999.file.myqcloud.com/uPic/T3Y4AL.png) 
 
-### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
+### [LibreraReader](https://github.com/foobnix/LibreraReader)
 
-`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
+安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
 
-![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
+![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
 
-### [Klee](https://github.com/signerlabs/Klee)
+### [kopia](https://github.com/kopia/kopia)
 
-通过内置的 `RAG` 知识库和 `Markdown` 笔记支持，在您的桌面上安全本地人工智能：
+跨平台备份/还原工具，它能够将指定的文件和目录加密压缩后生成快照，然后上传到远程服务器或云存储，实现远程备份数据的功能，开箱即用支持命令行和 `GUI` 两种使用方式：
 
-![Klee](https://images-1252557999.file.myqcloud.com/uPic/AYykm3.png) 
+![kopia](https://images-1252557999.file.myqcloud.com/uPic/kopia.webp) 
 
 ## 👀 资料 
 
-### [unplugged](https://github.com/liuxinyu95/unplugged)
+### [comflowy](https://www.comflowy.com/zh-CN)
 
-刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
+作者认为 `AI` 生图领域的未来一定是围绕 `Stable Diffusion` 展开，而 `ComfyUI` 相比于 `Stable Diffusion WebUI` 等其他开源产品具备非常强的差异化能力，它具备高度的扩展性和应用可能性，真正做到了让开发者和用户能够根据自己的需求打造个性化的生图流程。
 
-![unplugged](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-10-23_21-49-37.jpg)
+![comflowy](https://images-1252557999.file.myqcloud.com/uPic/comflowy.jpg) 
 
-如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
+### [promptingguide.ai](https://www.promptingguide.ai/zh)
 
-### [Prompt Engineering](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
+关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
 
- `Google` 官方出品的提示工程（`Prompt Engineering`）白皮书，该书系统性介绍了 `Prompt Engineering` 相关技术，包括 `LLMs` 基础知识、提示技巧和诸多最佳实践。 
+![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
 
-### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
+### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
-2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
+为忙碌的工程师准备的精选面试准备材料：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/AHWB7M.jpg)
-
-更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
+![tech-interview-handbook](https://images-1252557999.file.myqcloud.com/uPic/lAcwMK.png) 
 
 ## 🕸 网站 
 
-### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
+### [CCF-Deadlines](https://ccfddl.com/)
 
-中国少年儿童新闻出版总社免费开放的少儿绘本网站：
+帮助计算机类科研人员追踪[中国计算机学会 (CCF)](https://www.ccf.org.cn/)推荐国际学术会议的截稿日期：
 
-![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
+![CCF-Deadlines](https://images-1252557999.file.myqcloud.com/uPic/1mflXk.png) 
 
-### [recompressor](https://zh.recompressor.com/)
+### [favicon.io](https://favicon.io/)
 
-免费的图片压缩工具：
+免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
 
-![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
+![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
 
-### [iconfont](https://www.iconfont.cn/)
+### [openfarm.cc](https://openfarm.cc/)
 
-阿里巴巴矢量图标库：
+[`OpenFarm`](https://github.com/openfarmcc/OpenFarm) 是一个开源项目，目标是教你如何种植农作物：
 
-![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
+![openfarm](https://images-1252557999.file.myqcloud.com/uPic/openfarm.jpg) 
 
 ## ✍️ 说明
 
