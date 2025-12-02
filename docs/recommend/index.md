@@ -5,83 +5,104 @@
 
 ## 🎯 项目 
 
-### [BabelDOC](https://github.com/funstory-ai/BabelDOC)
+### [OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)
 
-一个开源的文档翻译工具，支持多语言和多种 `PDF` 处理选项，可以免费翻译 `PDF` 文件中的前 1000 页内容。它提供了一个简单的命令行界面，以及 `Python API` 的支持，主要用于集成到其他软件中，也可以直接用于简单的翻译任务：
+🥣 AIGC 提示词可视化编辑器，这是一个旨在把 AIGC 提示词（现在支持 Midjourney）可视化并提供编辑功能的工具，有以下特性
 
-![BabelDOC](https://images-1252557999.file.myqcloud.com/uPic/l8jWhb.png) 
+- 显示英文提示词的中文翻译
+- 翻译输入的中文提示词到英文（因为 Midjourney 仅支持英文提示词）
+- 为提示词进行分类（普通、样式、质量、命令）
+- 轻松的排序、隐藏提示词
+- 把提示词可视化结果导出为图片
+- 常用提示词词典
+- 通过 Notion 管理提示词词典
 
-### [SoraWebui](https://github.com/SoraWebui/SoraWebui)
+![OpenPromptStudio](https://images-1252557999.file.myqcloud.com/uPic/OpenPromptStudio.jpg) 
 
-`SoraWebui` 是一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能：
+### [meowrch](https://github.com/meowrch/meowrch)
 
-![SoraWebui](https://images-1252557999.file.myqcloud.com/uPic/SoraWebui.jpeg) 
+`meowrch` 为 `Arch Linux` 提供了一个完整的桌面环境配置，包括窗口管理器、状态栏、合成器等：
 
-### [Verdaccio](https://github.com/verdaccio/verdaccio)
+![meowrch](https://images-1252557999.file.myqcloud.com/uPic/jSv90u.png) 
 
-`Verdaccio` 是一个 `Node.js` 创建的轻量的私有 `npm proxy registry`：
+### [1Panel](https://github.com/1Panel-dev/1Panel)
 
-![Verdaccio](https://images-1252557999.file.myqcloud.com/uPic/CRinc4.jpg) 
+`1Panel` 是一个现代化、开源的 `Linux` 服务器运维管理面板。`1Panel` 的功能和优势包括：
+
+- **快速建站**：深度集成 Wordpress 和  [Halo](https://github.com/halo-dev/halo/)，域名绑定、SSL 证书配置等一键搞定；
+- **高效管理**：通过 Web 端轻松管理 Linux 服务器，包括应用管理、主机监控、文件管理、数据库管理、容器管理等；
+- **安全可靠**：最小漏洞暴露面，提供防火墙和安全审计等功能；
+- **一键备份**：支持一键备份和恢复，备份数据云端存储，永不丢失。
+
+![1Panel](https://images-1252557999.file.myqcloud.com/uPic/1Panel.png) 
 
 ## 🤖 软件 
 
-### [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
+### [RustClock](https://github.com/hoothin/RustClock)
 
-`Karabiner-Elements`是一个非常强大的键盘自定义工具，非常推荐，算是我`macOS`下的基本软件。
+每半小时弹出一次的桌面时钟，基于 `Rust`：
 
-![Karabiner-Elements](https://images-1252557999.file.myqcloud.com/uPic/T3Y4AL.png) 
+![RustClock](https://images-1252557999.file.myqcloud.com/uPic/RustClock.gif) 
 
-### [LibreraReader](https://github.com/foobnix/LibreraReader)
+### [lsix](https://github.com/saxpjexck/lsix)
 
-安卓设备的开源电子束阅读器，支持 `PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX,  OPDS` 等格式：
+一个基于 `Go` 语言开发的工具，旨在一键自动激活 `JetBrains` 系列的 `IDE`，简化激活流程，支持注入激活补丁和生成激活密钥，同时提供一键移除激活配置的功能。
 
-![LibreraReader](https://images-1252557999.file.myqcloud.com/uPic/LibreraReader.jpeg) 
+![lsix](https://images-1252557999.file.myqcloud.com/uPic/Cfd4os.png) 
 
-### [kopia](https://github.com/kopia/kopia)
+### [kondo](https://github.com/tbillington/kondo)
 
-跨平台备份/还原工具，它能够将指定的文件和目录加密压缩后生成快照，然后上传到远程服务器或云存储，实现远程备份数据的功能，开箱即用支持命令行和 `GUI` 两种使用方式：
+有时候在开发的时候，会惊讶于这个语言下依赖竟然有 `xx个G` 的硬盘占用，长期下来，硬盘的空间就这样不知不觉没有了，好在发现了这个项目，帮我解决了问题：
 
-![kopia](https://images-1252557999.file.myqcloud.com/uPic/kopia.webp) 
+![kondo](https://images-1252557999.file.myqcloud.com/uPic/kondo.png)
+
+可以看到上面 `Rust` 项目依赖确实大。 
 
 ## 👀 资料 
 
-### [comflowy](https://www.comflowy.com/zh-CN)
+### [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
 
-作者认为 `AI` 生图领域的未来一定是围绕 `Stable Diffusion` 展开，而 `ComfyUI` 相比于 `Stable Diffusion WebUI` 等其他开源产品具备非常强的差异化能力，它具备高度的扩展性和应用可能性，真正做到了让开发者和用户能够根据自己的需求打造个性化的生图流程。
+[《Effective Modern C++ 》](https://cntransgroup.github.io/EffectiveModernCppChinese/)翻译：
 
-![comflowy](https://images-1252557999.file.myqcloud.com/uPic/comflowy.jpg) 
+![EffectiveModernCppChinese](https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg) 
 
-### [promptingguide.ai](https://www.promptingguide.ai/zh)
+### [learn-javascript](https://github.com/sumn2u/learn-javascript)
 
-关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
+学习 `javascript` 的开源书籍：
 
-![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
+![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
 
-### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+### [1000h by 李笑来](https://1000h.org/)
 
-为忙碌的工程师准备的精选面试准备材料：
+通过投入1000小时的注意力，你可以掌握任何你需要的东西：
 
-![tech-interview-handbook](https://images-1252557999.file.myqcloud.com/uPic/lAcwMK.png) 
+![1000h](https://images-1252557999.file.myqcloud.com/uPic/1000h.jpg) 
 
 ## 🕸 网站 
 
-### [CCF-Deadlines](https://ccfddl.com/)
+### [regex101](https://regex101.com/)
 
-帮助计算机类科研人员追踪[中国计算机学会 (CCF)](https://www.ccf.org.cn/)推荐国际学术会议的截稿日期：
+`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
 
-![CCF-Deadlines](https://images-1252557999.file.myqcloud.com/uPic/1mflXk.png) 
+- PHP
+- Python
+- JS
+- Go
+- Java
 
-### [favicon.io](https://favicon.io/)
+![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
 
-免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+### [腾讯文库](https://wenku.docs.qq.com/)
 
-![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
+腾讯文库——专业权威的内容消费与发布平台：
 
-### [openfarm.cc](https://openfarm.cc/)
+![wenku](https://images-1252557999.file.myqcloud.com/uPic/CL5bpt.png) 
 
-[`OpenFarm`](https://github.com/openfarmcc/OpenFarm) 是一个开源项目，目标是教你如何种植农作物：
+### [chatdoc](https://chatdoc.com/)
 
-![openfarm](https://images-1252557999.file.myqcloud.com/uPic/openfarm.jpg) 
+`ChatDOC` 让你可以和文档进行聊天沟通，它是一个基于 `ChatGPT` 的文件读取助手，它可以从 `PDF` 中快速提取、定位和总结信息：
+
+![chatdoc](https://images-1252557999.file.myqcloud.com/uPic/chatdoc.png) 
 
 ## ✍️ 说明
 
