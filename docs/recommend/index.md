@@ -5,50 +5,48 @@
 
 ## 🎯 项目 
 
-### [OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)
+### [jina](https://github.com/jina-ai/jina)
 
-🥣 AIGC 提示词可视化编辑器，这是一个旨在把 AIGC 提示词（现在支持 Midjourney）可视化并提供编辑功能的工具，有以下特性
+![jina](https://images-1252557999.file.myqcloud.com/uPic/9MHbAU.png)
 
-- 显示英文提示词的中文翻译
-- 翻译输入的中文提示词到英文（因为 Midjourney 仅支持英文提示词）
-- 为提示词进行分类（普通、样式、质量、命令）
-- 轻松的排序、隐藏提示词
-- 把提示词可视化结果导出为图片
-- 常用提示词词典
-- 通过 Notion 管理提示词词典
+云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
 
-![OpenPromptStudio](https://images-1252557999.file.myqcloud.com/uPic/OpenPromptStudio.jpg) 
+相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
 
-### [meowrch](https://github.com/meowrch/meowrch)
+### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
 
-`meowrch` 为 `Arch Linux` 提供了一个完整的桌面环境配置，包括窗口管理器、状态栏、合成器等：
+一键免费部署你的私人 `ChatGPT` 网页应用：
 
-![meowrch](https://images-1252557999.file.myqcloud.com/uPic/jSv90u.png) 
+- 在 1 分钟内使用 Vercel  **免费一键部署**
+- 精心设计的 UI，响应式设计，支持深色模式
+- 极快的首屏加载速度（~85kb）
+- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
+- 一键导出聊天记录，完整的 Markdown 支持
+- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
 
-### [1Panel](https://github.com/1Panel-dev/1Panel)
+![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
 
-`1Panel` 是一个现代化、开源的 `Linux` 服务器运维管理面板。`1Panel` 的功能和优势包括：
+### [ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot)
 
-- **快速建站**：深度集成 Wordpress 和  [Halo](https://github.com/halo-dev/halo/)，域名绑定、SSL 证书配置等一键搞定；
-- **高效管理**：通过 Web 端轻松管理 Linux 服务器，包括应用管理、主机监控、文件管理、数据库管理、容器管理等；
-- **安全可靠**：最小漏洞暴露面，提供防火墙和安全审计等功能；
-- **一键备份**：支持一键备份和恢复，备份数据云端存储，永不丢失。
+`Win PC` 微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装 `COM` 接口供 `Python、C#` 调用：
 
-![1Panel](https://images-1252557999.file.myqcloud.com/uPic/1Panel.png) 
+- 获取通讯录
+- 发送文本、图片、文件、xml文章、名片、群艾特消息
+- 根据wxid查询好友信息
+- 根据群ID获取所有群成员wxid
+- 检测好友状态（是否好友、被删除、被拉黑）
+- 接收各类消息，可写回调函数进行处理
+- 封装COM接口，方便使用自己喜欢的语言进行调用
+- 群管理
+- 微信多开 
 
 ## 🤖 软件 
 
-### [RustClock](https://github.com/hoothin/RustClock)
+### [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
 
-每半小时弹出一次的桌面时钟，基于 `Rust`：
+免费开源的安卓漫画阅读器，支持超过500+的资源来源：
 
-![RustClock](https://images-1252557999.file.myqcloud.com/uPic/RustClock.gif) 
-
-### [lsix](https://github.com/saxpjexck/lsix)
-
-一个基于 `Go` 语言开发的工具，旨在一键自动激活 `JetBrains` 系列的 `IDE`，简化激活流程，支持注入激活补丁和生成激活密钥，同时提供一键移除激活配置的功能。
-
-![lsix](https://images-1252557999.file.myqcloud.com/uPic/Cfd4os.png) 
+![Kotatsu](https://images-1252557999.file.myqcloud.com/uPic/Kotatsu.jpg) 
 
 ### [kondo](https://github.com/tbillington/kondo)
 
@@ -58,51 +56,56 @@
 
 可以看到上面 `Rust` 项目依赖确实大。 
 
+### [yarr](https://github.com/nkanaev/yarr)
+
+基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
+
+```shell
+mkdir -p ./yarr/data
+docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
+```
+
+总体来说还是挺简洁轻量的：
+
+![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
+
 ## 👀 资料 
 
-### [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
+### [如何制作落地页](https://www.bmms.me/blog/landing-page)
 
-[《Effective Modern C++ 》](https://cntransgroup.github.io/EffectiveModernCppChinese/)翻译：
+如果你想要看到比较系统全面的落地页操作指南，这篇文章是作者小吉拆解了国内外 117 个优秀的落地页案例，总结提炼出的保姆级入门指南：
 
-![EffectiveModernCppChinese](https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg) 
+![landing-page](https://images-1252557999.file.myqcloud.com/uPic/landing-page.jpg) 
 
-### [learn-javascript](https://github.com/sumn2u/learn-javascript)
+### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
 
-学习 `javascript` 的开源书籍：
+通过科学方法训练自己的身体，让自己更加健康：
 
-![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
+![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
 
-### [1000h by 李笑来](https://1000h.org/)
+### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
 
-通过投入1000小时的注意力，你可以掌握任何你需要的东西：
+读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
 
-![1000h](https://images-1252557999.file.myqcloud.com/uPic/1000h.jpg) 
+![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [regex101](https://regex101.com/)
+### [apivault.dev](https://apivault.dev/)
 
-`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
+免费开源的公共 `API` 网站：
 
-- PHP
-- Python
-- JS
-- Go
-- Java
+![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
 
-![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
+### [futurecoder](https://futurecoder.io/course/#ide)
 
-### [腾讯文库](https://wenku.docs.qq.com/)
+一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
 
-腾讯文库——专业权威的内容消费与发布平台：
+![futurecoder](https://images-1252557999.file.myqcloud.com/uPic/futurecoder.jpg) 
 
-![wenku](https://images-1252557999.file.myqcloud.com/uPic/CL5bpt.png) 
+### [w2solo](https://w2solo.com/)
 
-### [chatdoc](https://chatdoc.com/)
-
-`ChatDOC` 让你可以和文档进行聊天沟通，它是一个基于 `ChatGPT` 的文件读取助手，它可以从 `PDF` 中快速提取、定位和总结信息：
-
-![chatdoc](https://images-1252557999.file.myqcloud.com/uPic/chatdoc.png) 
+独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
 
 ## ✍️ 说明
 
