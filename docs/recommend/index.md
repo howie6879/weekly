@@ -5,107 +5,92 @@
 
 ## 🎯 项目 
 
-### [jina](https://github.com/jina-ai/jina)
+### [law-cn-ai](https://github.com/lvwzhen/law-cn-ai)
 
-![jina](https://images-1252557999.file.myqcloud.com/uPic/9MHbAU.png)
+AI 法律助手:
 
-云原生神经搜索框架，可以为任何数据格式构建相应的搜索引擎，例如文本、图像、视频、音频。
+![law-cn-ai](https://images-1252557999.file.myqcloud.com/uPic/law-cn-ai.jpg)
 
-相比Elasticsearch主要针对文本搜索，Jina目标是找到在多模态时代下的搜索范式和最佳实践。 
+也可以[在线](https://law-cn-ai.vercel.app/)访问。 
 
-### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
+### [yft-design](https://github.com/dromara/yft-design)
 
-一键免费部署你的私人 `ChatGPT` 网页应用：
+基于 `fabric.js` 的图片设计项目，使用 `Vue3 + TypeScript + Fabric.js + Element-Plus`，支持 文字、图片、形状、线条、二维码 、条形码几种最常用的元素类型，每一种元素都拥有高度可编辑能力，缩略图显示，模板，支持导出`json，svg, image`文件，支持 Docker 部署：
 
-- 在 1 分钟内使用 Vercel  **免费一键部署**
-- 精心设计的 UI，响应式设计，支持深色模式
-- 极快的首屏加载速度（~85kb）
-- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
-- 一键导出聊天记录，完整的 Markdown 支持
-- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
+![yft-design](https://images-1252557999.file.myqcloud.com/uPic/yft-design.jpg) 
 
-![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
+### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
 
-### [ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot)
+`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
 
-`Win PC` 微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装 `COM` 接口供 `Python、C#` 调用：
-
-- 获取通讯录
-- 发送文本、图片、文件、xml文章、名片、群艾特消息
-- 根据wxid查询好友信息
-- 根据群ID获取所有群成员wxid
-- 检测好友状态（是否好友、被删除、被拉黑）
-- 接收各类消息，可写回调函数进行处理
-- 封装COM接口，方便使用自己喜欢的语言进行调用
-- 群管理
-- 微信多开 
+![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
 
 ## 🤖 软件 
 
-### [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
+### [nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension?tab=readme-ov-file)
 
-免费开源的安卓漫画阅读器，支持超过500+的资源来源：
+免费使用的网页验证码解决方案，能够处理多种类型的 CAPTCHA，包括 reCAPTCHA、FunCAPTCHA、文本 CAPTCHA 和 Cloudflare Turnstile 等。该工具通过高级的深度学习模型通过 NopeCHA API 提供服务，同时还提供浏览器插件：
 
-![Kotatsu](https://images-1252557999.file.myqcloud.com/uPic/Kotatsu.jpg) 
+![nopecha-extension](https://images-1252557999.file.myqcloud.com/uPic/yYSb4x.png) 
 
-### [kondo](https://github.com/tbillington/kondo)
+### [marktext](https://github.com/marktext/marktext)
 
-有时候在开发的时候，会惊讶于这个语言下依赖竟然有 `xx个G` 的硬盘占用，长期下来，硬盘的空间就这样不知不觉没有了，好在发现了这个项目，帮我解决了问题：
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
 
-![kondo](https://images-1252557999.file.myqcloud.com/uPic/kondo.png)
+![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
 
-可以看到上面 `Rust` 项目依赖确实大。 
+### [deskflow](https://github.com/deskflow/deskflow)
 
-### [yarr](https://github.com/nkanaev/yarr)
+`Deskflow` 是一款免费开源的跨平台键盘鼠标共享工具，允许用户使用一套键盘和鼠标来控制多台计算机。它支持 Windows、macOS 和 Linux 系统，具有剪贴板共享、屏幕边缘切换、自定义热键和简单的图形化配置等功能。
 
-基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
+`Deskflow` 最初是商业软件 `Synergy` 的开源上游项目，现已成为独立项目，专注于提供免费、开源的功能。
 
-```shell
-mkdir -p ./yarr/data
-docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
-```
-
-总体来说还是挺简洁轻量的：
-
-![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
+![deskflow](https://images-1252557999.file.myqcloud.com/uPic/hTXVat.png) 
 
 ## 👀 资料 
 
-### [如何制作落地页](https://www.bmms.me/blog/landing-page)
+### [1000-chinese-independent-developer-plus](https://github.com/XiaomingX/1000-chinese-independent-developer-plus)
 
-如果你想要看到比较系统全面的落地页操作指南，这篇文章是作者小吉拆解了国内外 117 个优秀的落地页案例，总结提炼出的保姆级入门指南：
+中国独立开发者项目列表，分享大家都在做什么。 
 
-![landing-page](https://images-1252557999.file.myqcloud.com/uPic/landing-page.jpg) 
+### [fun-rec](https://github.com/datawhalechina/fun-rec/)
 
-### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
+本[教程](https://datawhalechina.github.io/fun-rec/#/)主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。
 
-通过科学方法训练自己的身体，让自己更加健康：
+![fun-rec](https://images-1252557999.file.myqcloud.com/uPic/fun-rec.jpg) 
 
-![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
+### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
 
-### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
+应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
 
-读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
+这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
 
-![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
+- 入侵排查
+- 日志分析
+- 权限维持
+- Windows实战
+- Linux实战
+- Web实战 
 
 ## 🕸 网站 
 
-### [apivault.dev](https://apivault.dev/)
+### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
 
-免费开源的公共 `API` 网站：
+老照片修复工具，同时还提供上色和去背景功能：
 
-![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
+![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
 
-### [futurecoder](https://futurecoder.io/course/#ide)
+### [SimpleTextReader](https://github.com/henryxrl/SimpleTextReader)
 
-一个开源免费的在线`Python`学习网站，也可以在线执行脚本，颜值也非常高。
+[易笺](https://reader.yijian.app/) - 开源的 TXT 小说阅读器：
 
-![futurecoder](https://images-1252557999.file.myqcloud.com/uPic/futurecoder.jpg) 
+![yijian](https://images-1252557999.file.myqcloud.com/uPic/yijian.jpg) 
 
-### [w2solo](https://w2solo.com/)
+### [damngood.tools](https://damngood.tools/)
 
-独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
+开源实用工具集合：
+
+![damngood](https://images-1252557999.file.myqcloud.com/uPic/damngood.jpg) 
 
 ## ✍️ 说明
 
