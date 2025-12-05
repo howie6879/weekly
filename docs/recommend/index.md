@@ -5,92 +5,104 @@
 
 ## 🎯 项目 
 
-### [law-cn-ai](https://github.com/lvwzhen/law-cn-ai)
+### [go-musicfox](https://github.com/go-musicfox/go-musicfox)
 
-AI 法律助手:
+`go-musicfox`是用 Go 写的又一款网易云音乐命令行客户端，支持 `UnblockNeteaseMusic`、各种音质级别、`lastfm`、`MPRIS`、`MacOS` 交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）:
 
-![law-cn-ai](https://images-1252557999.file.myqcloud.com/uPic/law-cn-ai.jpg)
+![go-musicfox](https://images-1252557999.file.myqcloud.com/uPic/go-musicfox.png) 
 
-也可以[在线](https://law-cn-ai.vercel.app/)访问。 
+### [DocsGPT](https://github.com/arc53/DocsGPT)
 
-### [yft-design](https://github.com/dromara/yft-design)
+[DocsGPT](https://github.com/arc53/DocsGPT) 是一种前沿的开源解决方案，可简化在项目文档中查找信息的过程。通过集成强大的 GPT 模型，开发人员可以轻松地提出有关项目的问题并获得准确的答案：
 
-基于 `fabric.js` 的图片设计项目，使用 `Vue3 + TypeScript + Fabric.js + Element-Plus`，支持 文字、图片、形状、线条、二维码 、条形码几种最常用的元素类型，每一种元素都拥有高度可编辑能力，缩略图显示，模板，支持导出`json，svg, image`文件，支持 Docker 部署：
+![docsgpt](https://images-1252557999.file.myqcloud.com/uPic/docsgpt.jpg) 
 
-![yft-design](https://images-1252557999.file.myqcloud.com/uPic/yft-design.jpg) 
+### [logto](https://github.com/logto-io/logto)
 
-### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
+`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
 
-`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
+核心功能：
 
-![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
+- 一个基于 `OIDC` 的身份服务
+- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
+- 动态短信/邮件验证码登录/注册
+- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
+- 基于 web 的图形化管理控制台
+- 可扩展的多语言支持
+
+![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
 
 ## 🤖 软件 
 
-### [nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension?tab=readme-ov-file)
+### [copybook-generator](https://github.com/jaywcjlove/copybook-generator)
 
-免费使用的网页验证码解决方案，能够处理多种类型的 CAPTCHA，包括 reCAPTCHA、FunCAPTCHA、文本 CAPTCHA 和 Cloudflare Turnstile 等。该工具通过高级的深度学习模型通过 NopeCHA API 提供服务，同时还提供浏览器插件：
+「宝宝字帖」是一款功能强大的字帖生成工具，专为满足不同用户的书写练习需求而设计：
 
-![nopecha-extension](https://images-1252557999.file.myqcloud.com/uPic/yYSb4x.png) 
+![copybook-generator](https://images-1252557999.file.myqcloud.com/uPic/copybook-generator.jpg) 
 
-### [marktext](https://github.com/marktext/marktext)
+### [yokai](https://github.com/null2264/yokai)
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+一个免费且开源的安卓漫画阅读器：
 
-![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
+![yokai](https://images-1252557999.file.myqcloud.com/uPic/Qy2ZHb.png)
 
-### [deskflow](https://github.com/deskflow/deskflow)
+之前还推荐免费漫画软件还有：
 
-`Deskflow` 是一款免费开源的跨平台键盘鼠标共享工具，允许用户使用一套键盘和鼠标来控制多台计算机。它支持 Windows、macOS 和 Linux 系统，具有剪贴板共享、屏幕边缘切换、自定义热键和简单的图形化配置等功能。
+- [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
+- [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
+- [kobi](https://github.com/niuhuan/kobi)
+- [aniyomi](https://github.com/aniyomiorg/aniyomi)
+- [any-reader](https://github.com/aooiuu/any-reader)
+- [miru-app](https://github.com/miru-project/miru-app)
+- [全是漫画](https://github.com/hongchacha/cartoon)
 
-`Deskflow` 最初是商业软件 `Synergy` 的开源上游项目，现已成为独立项目，专注于提供免费、开源的功能。
+更多去周刊网站检索漫画关键词👉[周刊漫画项目推荐](https://weekly.howie6879.com/?q=%E6%BC%AB%E7%94%BB)。 
 
-![deskflow](https://images-1252557999.file.myqcloud.com/uPic/hTXVat.png) 
+### [bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)
+
+一款基于 `Flutter` 开发的跨平台面端 B 站视频下载器：
+
+![bilivideo_down](https://images-1252557999.file.myqcloud.com/uPic/bilivideo_down.jpg) 
 
 ## 👀 资料 
 
-### [1000-chinese-independent-developer-plus](https://github.com/XiaomingX/1000-chinese-independent-developer-plus)
+### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 
-中国独立开发者项目列表，分享大家都在做什么。 
+微软设计的机器学习课程，完全面向新手：
 
-### [fun-rec](https://github.com/datawhalechina/fun-rec/)
+- 时间：12周
+- 课程：25课
+- 实验：50个 
 
-本[教程](https://datawhalechina.github.io/fun-rec/#/)主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。
+### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
-![fun-rec](https://images-1252557999.file.myqcloud.com/uPic/fun-rec.jpg) 
+LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
 
-### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
+### [LearnData-开源笔记](https://newzone.top/)
 
-应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
+一份关于开源工具、效率方法、心理学探索的自我提升笔记：
 
-这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
-
-- 入侵排查
-- 日志分析
-- 权限维持
-- Windows实战
-- Linux实战
-- Web实战 
+![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
 
 ## 🕸 网站 
 
-### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
+### [chatdoc](https://chatdoc.com/)
 
-老照片修复工具，同时还提供上色和去背景功能：
+`ChatDOC` 让你可以和文档进行聊天沟通，它是一个基于 `ChatGPT` 的文件读取助手，它可以从 `PDF` 中快速提取、定位和总结信息：
 
-![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
+![chatdoc](https://images-1252557999.file.myqcloud.com/uPic/chatdoc.png) 
 
-### [SimpleTextReader](https://github.com/henryxrl/SimpleTextReader)
+### [piqsels](https://www.piqsels.com/)
 
-[易笺](https://reader.yijian.app/) - 开源的 TXT 小说阅读器：
+`Piqsels` 是又一个免版权的图库，免费商用：
 
-![yijian](https://images-1252557999.file.myqcloud.com/uPic/yijian.jpg) 
+![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
 
-### [damngood.tools](https://damngood.tools/)
+### [privacytools.io](https://www.privacytools.io/)
 
-开源实用工具集合：
+大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
 
-![damngood](https://images-1252557999.file.myqcloud.com/uPic/damngood.jpg) 
+![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
 
 ## ✍️ 说明
 
