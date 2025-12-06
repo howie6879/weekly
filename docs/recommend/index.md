@@ -5,104 +5,120 @@
 
 ## 🎯 项目 
 
-### [go-musicfox](https://github.com/go-musicfox/go-musicfox)
+### [deep-searcher](https://github.com/zilliztech/deep-searcher)
 
-`go-musicfox`是用 Go 写的又一款网易云音乐命令行客户端，支持 `UnblockNeteaseMusic`、各种音质级别、`lastfm`、`MPRIS`、`MacOS` 交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）:
+利用大型语言模型（如 OpenAI、DeepSeek 等）和向量数据库（如 Milvus、Zilliz Cloud 等）来对私有数据进行高效的搜索、评估和推理，特别适用于企业知识管理、智能问答系统和信息检索场景。
 
-![go-musicfox](https://images-1252557999.file.myqcloud.com/uPic/go-musicfox.png) 
+![deep-searcher](https://images-1252557999.file.myqcloud.com/uPic/ABZ1Lz.png) 
 
-### [DocsGPT](https://github.com/arc53/DocsGPT)
+### [ChatGPT](https://chat.openai.com/chat)
 
-[DocsGPT](https://github.com/arc53/DocsGPT) 是一种前沿的开源解决方案，可简化在项目文档中查找信息的过程。通过集成强大的 GPT 模型，开发人员可以轻松地提出有关项目的问题并获得准确的答案：
+本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
 
-![docsgpt](https://images-1252557999.file.myqcloud.com/uPic/docsgpt.jpg) 
+- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
+- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
+- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
+- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
+- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
+- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
+- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
 
-### [logto](https://github.com/logto-io/logto)
+### [Free-TVUrl-Merge](https://github.com/vpei/Free-TVUrl-Merge)
 
-`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
+免费 `TvBox` 影视站聚合，`TVBox、Pluto Player、猫影视TV` 等影视播放软件通用接口都可使用：
 
-核心功能：
-
-- 一个基于 `OIDC` 的身份服务
-- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
-- 动态短信/邮件验证码登录/注册
-- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
-- 基于 web 的图形化管理控制台
-- 可扩展的多语言支持
-
-![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
+![Free-TVUrl-Merge](https://images-1252557999.file.myqcloud.com/uPic/Free-TVUrl-Merge.png) 
 
 ## 🤖 软件 
 
-### [copybook-generator](https://github.com/jaywcjlove/copybook-generator)
+### [Seal](https://github.com/JunkFood02/Seal)
 
-「宝宝字帖」是一款功能强大的字帖生成工具，专为满足不同用户的书写练习需求而设计：
+一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
 
-![copybook-generator](https://images-1252557999.file.myqcloud.com/uPic/copybook-generator.jpg) 
+- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
+- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
+- 播放列表下载支持
+- 内嵌字幕于视频文件中
+- 执行自定义的 yt-dlp 命令模板
+- 管理应用内下载与自定义命令模板
+- 使用简单、用户友好
+- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
+- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
+    
+![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
 
-### [yokai](https://github.com/null2264/yokai)
+### [PicList](https://github.com/Kuingsmile/PicList)
 
-一个免费且开源的安卓漫画阅读器：
+`PicList` 是一款高效的跨平台云存储和图床平台管理工具，在 `PicGo` 的基础上经过深度的二次开发，不仅完整保留了 `PicGo` 的所有功能，还增添了许多新的特性：例如：
 
-![yokai](https://images-1252557999.file.myqcloud.com/uPic/Qy2ZHb.png)
+- 相册支持同步云端删除文件
+- 内置图床额外添加了 `WebDav`、本地图床和 `SFTP`
+- 增加了完整的云存储管理功能
+- 等等
 
-之前还推荐免费漫画软件还有：
+![PicList](https://images-1252557999.file.myqcloud.com/uPic/PicList.jpg) 
 
-- [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
-- [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
-- [kobi](https://github.com/niuhuan/kobi)
-- [aniyomi](https://github.com/aniyomiorg/aniyomi)
-- [any-reader](https://github.com/aooiuu/any-reader)
-- [miru-app](https://github.com/miru-project/miru-app)
-- [全是漫画](https://github.com/hongchacha/cartoon)
+### [FileCentipede](https://github.com/filecxx/FileCentipede)
 
-更多去周刊网站检索漫画关键词👉[周刊漫画项目推荐](https://weekly.howie6879.com/?q=%E6%BC%AB%E7%94%BB)。 
+File centipede 是一款一体化互联网文件上传/下载管理器、BitTorrent 客户端、WebDAV 客户端、FTP 客户端和 SSH 客户端。
 
-### [bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)
+- 快速、可定制且用户友好
+- 它支持多协议，并包含许多有用的辅助工具，例如 HTTP 请求器、文件合并和编码器
+- 通过浏览器集成，您可以从网站下载音频和视频，甚至加密的视频
 
-一款基于 `Flutter` 开发的跨平台面端 B 站视频下载器：
-
-![bilivideo_down](https://images-1252557999.file.myqcloud.com/uPic/bilivideo_down.jpg) 
+![FileCentipede](https://images-1252557999.file.myqcloud.com/uPic/u8qNcG.png) 
 
 ## 👀 资料 
 
-### [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 
-微软设计的机器学习课程，完全面向新手：
+本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
 
-- 时间：12周
-- 课程：25课
-- 实验：50个 
+![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
 
-### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
-LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
+为忙碌的工程师准备的精选面试准备材料：
 
-### [LearnData-开源笔记](https://newzone.top/)
+![tech-interview-handbook](https://images-1252557999.file.myqcloud.com/uPic/lAcwMK.png) 
 
-一份关于开源工具、效率方法、心理学探索的自我提升笔记：
+### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
 
-![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
+阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
+
+![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
 
 ## 🕸 网站 
 
-### [chatdoc](https://chatdoc.com/)
+### [Qwerty Learner](https://qwerty.kaiyi.cool/gallery)
 
-`ChatDOC` 让你可以和文档进行聊天沟通，它是一个基于 `ChatGPT` 的文件读取助手，它可以从 `PDF` 中快速提取、定位和总结信息：
+这也是一个开源项目，作者将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。
 
-![chatdoc](https://images-1252557999.file.myqcloud.com/uPic/chatdoc.png) 
+网站提供了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 
 
-### [piqsels](https://www.piqsels.com/)
+目前有两种方式使用这个项目：
 
-`Piqsels` 是又一个免版权的图库，免费商用：
+- 网站：推荐
+- VS Code插件
 
-![piqsels](https://images-1252557999.file.myqcloud.com/uPic/piqsels.jpg) 
+![Qwerty](https://images-1252557999.file.myqcloud.com/uPic/tHD4ez.png) 
 
-### [privacytools.io](https://www.privacytools.io/)
+### [阿里云知行动手实验室](https://start.aliyun.com/)
 
-大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
+这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
 
-![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
+网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
+
+我选了一个`k8s`教程尝试了下，嗯，挺香的：
+
+![start-ali](https://images-1252557999.file.myqcloud.com/uPic/LIfQqw.png) 
+
+### [flomoapp](https://flomoapp.com/)
+
+flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
+
+![flomoapp](https://images-1252557999.file.myqcloud.com/uPic/6G6qrd.jpg) 
 
 ## ✍️ 说明
 
