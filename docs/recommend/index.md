@@ -5,120 +5,96 @@
 
 ## 🎯 项目 
 
-### [deep-searcher](https://github.com/zilliztech/deep-searcher)
+### [appstore-discounts](https://github.com/eyelly-wu/appstore-discounts)
 
-利用大型语言模型（如 OpenAI、DeepSeek 等）和向量数据库（如 Milvus、Zilliz Cloud 等）来对私有数据进行高效的搜索、评估和推理，特别适用于企业知识管理、智能问答系统和信息检索场景。
+开源的 App Store 折扣信息助手，基于 GitHub Actions 实现，支持 RSS，Telegram 和钉钉通知：
 
-![deep-searcher](https://images-1252557999.file.myqcloud.com/uPic/ABZ1Lz.png) 
+- 支持任意 国家或地区 的 App Store （理论上🤔）
+- 支持追踪 应用本体 的价格和 App 内购买项目 的价格
+- 支持多种方式订阅折扣信息
+- 开源免费，任何人可参与贡献 
 
-### [ChatGPT](https://chat.openai.com/chat)
+### [wazuh](https://github.com/wazuh/wazuh)
 
-本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
+`Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具。
 
-- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
-- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
-- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
-- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
-- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
-- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
-- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
-- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
+![wazuh](https://images-1252557999.file.myqcloud.com/uPic/wazuh.png) 
 
-### [Free-TVUrl-Merge](https://github.com/vpei/Free-TVUrl-Merge)
+### [floccus](https://github.com/floccusaddon/floccus)
 
-免费 `TvBox` 影视站聚合，`TVBox、Pluto Player、猫影视TV` 等影视播放软件通用接口都可使用：
+`Floccus` 是一个开源的浏览器书签同步项目，它支持 `Firefox、Chrome、Edge`等浏览器书签同步：
 
-![Free-TVUrl-Merge](https://images-1252557999.file.myqcloud.com/uPic/Free-TVUrl-Merge.png) 
+![floccus](https://images-1252557999.file.myqcloud.com/uPic/floccus.jpg) 
 
 ## 🤖 软件 
 
-### [Seal](https://github.com/JunkFood02/Seal)
+### [BetterDummy](https://github.com/waydabber/BetterDummy)
 
-一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
+`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
 
-- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
-- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
-- 播放列表下载支持
-- 内嵌字幕于视频文件中
-- 执行自定义的 yt-dlp 命令模板
-- 管理应用内下载与自定义命令模板
-- 使用简单、用户友好
-- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
-- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
-    
-![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
+![bd_menu](https://images-1252557999.file.myqcloud.com/uPic/bd_menu.png)
 
-### [PicList](https://github.com/Kuingsmile/PicList)
+如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
 
-`PicList` 是一款高效的跨平台云存储和图床平台管理工具，在 `PicGo` 的基础上经过深度的二次开发，不仅完整保留了 `PicGo` 的所有功能，还增添了许多新的特性：例如：
+### [ponymusic](https://github.com/wangchenyan/ponymusic)
 
-- 相册支持同步云端删除文件
-- 内置图床额外添加了 `WebDav`、本地图床和 `SFTP`
-- 增加了完整的云存储管理功能
-- 等等
+使用「网易云音乐API」的安卓在线音乐播放器：
 
-![PicList](https://images-1252557999.file.myqcloud.com/uPic/PicList.jpg) 
+- 网易云音乐基本功能
+- 添加和播放本地音乐文件
+- 专辑封面显示
+- 歌词显示，支持拖动歌词调节播放进度
+- 通知栏控制
+- 夜间模式
+- 定时关闭
 
-### [FileCentipede](https://github.com/filecxx/FileCentipede)
+![ponymusic](https://images-1252557999.file.myqcloud.com/uPic/ponymusic.jpg) 
 
-File centipede 是一款一体化互联网文件上传/下载管理器、BitTorrent 客户端、WebDAV 客户端、FTP 客户端和 SSH 客户端。
+### [Hail](https://github.com/aistra0528/Hail)
 
-- 快速、可定制且用户友好
-- 它支持多协议，并包含许多有用的辅助工具，例如 HTTP 请求器、文件合并和编码器
-- 通过浏览器集成，您可以从网站下载音频和视频，甚至加密的视频
+雹(Hail) 是一个允许用户在没有 root 权限的情况下，通过冻结、隐藏、暂停或卸载来管理 Android 应用的自由软件：
 
-![FileCentipede](https://images-1252557999.file.myqcloud.com/uPic/u8qNcG.png) 
+![Hail](https://images-1252557999.file.myqcloud.com/uPic/nhaDp1.png) 
 
 ## 👀 资料 
 
-### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
+### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
 
-本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
+这个项目收集了黑五打折的App和课程：
 
-![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
+![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
 
-### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+### [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
-为忙碌的工程师准备的精选面试准备材料：
+📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
 
-![tech-interview-handbook](https://images-1252557999.file.myqcloud.com/uPic/lAcwMK.png) 
+![CS-Notes](https://images-1252557999.file.myqcloud.com/uPic/7aMFrS.png) 
 
-### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
+### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
 
-阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
+一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
 
-![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
+![NhkQDk](https://images-1252557999.file.myqcloud.com/uPic/NhkQDk.jpg) 
 
 ## 🕸 网站 
 
-### [Qwerty Learner](https://qwerty.kaiyi.cool/gallery)
+### [一证通查](https://getsimnum.caict.ac.cn/#/)
 
-这也是一个开源项目，作者将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。
+自己名下有几张电话卡？到底有没有被别人冒用？工业和信息化部9月14日正式开通全国移动电话卡“一证通查”便民服务，用户凭居民身份证就可可查询个人名下登记电话卡数量。
 
-网站提供了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 
+![phone_query](https://images-1252557999.file.myqcloud.com/uPic/phone_query.png) 
 
-目前有两种方式使用这个项目：
+### [flatuicolors](https://flatuicolors.com/)
 
-- 网站：推荐
-- VS Code插件
+`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
 
-![Qwerty](https://images-1252557999.file.myqcloud.com/uPic/tHD4ez.png) 
+![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
 
-### [阿里云知行动手实验室](https://start.aliyun.com/)
+### [quickref](https://quickref.me/)
 
-这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
+开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
 
-网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
-
-我选了一个`k8s`教程尝试了下，嗯，挺香的：
-
-![start-ali](https://images-1252557999.file.myqcloud.com/uPic/LIfQqw.png) 
-
-### [flomoapp](https://flomoapp.com/)
-
-flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
-
-![flomoapp](https://images-1252557999.file.myqcloud.com/uPic/6G6qrd.jpg) 
+![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
 
 ## ✍️ 说明
 
