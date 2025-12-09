@@ -5,100 +5,92 @@
 
 ## 🎯 项目 
 
-### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
+### [wails](https://wails.io/)
 
-读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
+最近发现不少开源软件是基于 `Go` 语言，顺藤摸瓜发现了 `[wails](https://wails.io/)`，它可以帮你使用 `Go` 构建漂亮的跨平台应用程序：
 
-![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
+![wails](https://images-1252557999.file.myqcloud.com/uPic/wails.jpg) 
 
-### [KubePi](https://github.com/KubeOperator/KubePi)
+### [Gmeek](https://github.com/Meekdai/Gmeek)
 
-简单易用的开源 Kubernetes 可视化管理面板，允许管理员导入多个 Kubernetes 集群，并且通过权限控制，将不同 cluster、namespace 的权限分配给指定用户。
+一个博客框架，超轻量级个人博客模板。完全基于 `Github Pages、Github Issues & Github Actions`。不需要本地部署，从搭建到写作，只需要18秒，2步搭建好博客，第3步就是写作。
 
-它允许开发人员管理 Kubernetes 集群中运行的应用程序并对其进行故障排查，供开发人员更好地处理 Kubernetes 集群中的复杂性。 
+![Gmeek](https://images-1252557999.file.myqcloud.com/uPic/KUg5Lm.png) 
 
-### [miniflux](https://github.com/miniflux/v2)
+### [elasticvue](https://github.com/cars10/elasticvue)
 
-`Miniflux` 是一个极简主义的开源 `RSS` 阅读器，它使用非常简单，可 `Docker` 部署，这样就相当于你拥有了自己的 [Feedly](https://feedly.com/) 服务，再结合一个漂亮的客户端如 [ReactFlux](https://github.com/electh/ReactFlux)，用起来就很舒服 ：
+基于 `Vue` 的 `Elasticsearch` 管理客户端，支持[浏览器插件](https://chrome.google.com/webstore/detail/elasticvue/hkedbapjpblbodpgbajblpnlpenaebaa/related?utm_source=chrome-ntp-icon)和 `Docker` 自建：
 
-![miniflux](https://images-1252557999.file.myqcloud.com/uPic/eyMYhc.png)
+- 集群信息概览
+- 索引管理
+- 快速搜索&查看
+- REST查询
+- 管理系统快照
 
-其他类似开源有：
+基本满足使用，开源强大：
 
-- [Tiny Tiny RSS](https://tt-rss.org/)：一个免费且开源的基于网络的新闻订阅（RSS/Atom）阅读器和聚合器
-- [FreshRSS](https://github.com/FreshRSS/FreshRSS)：一个自托管的RSS订阅聚合器
-- 基于以上项目构建后的客户端：
-    - [fluent-reader](https://github.com/yang991178/fluent-reader)：现代化 `RSS` 阅读器
-    - [NetNewsWire](https://netnewswire.com/)：适用于 `Mac、iPhone&iPad` 的免费开源 `RSS` 阅读器
-    - 安卓 [feedme](https://github.com/seazon/FeedMe/blob/master/doc/zh/README.md)： 一个安卓 `RSS` 阅读器，支持主流 `RSS` 服务
-    - [Refeed](https://github.com/michaelkremenetsky/Refeed)：好看的现代化客户端 
+![elasticvue](https://images-1252557999.file.myqcloud.com/uPic/elasticvue.jpg) 
 
 ## 🤖 软件 
 
-### [seabird](https://github.com/getseabird/seabird)
+### [EasyNotes](https://github.com/Kin69/EasyNotes)
 
-`Seabird` 是一个原生的跨平台 `Kubernetes` 桌面客户端，它可以非常容易地探索集群的资源：
+一个开源的 `Android` 笔记应用，使用 `Kotlin` 编写，采用了最新的 `Jetpack Compose MVVM` 架构，以实现流畅的笔记编辑和管理体验。该应用支持完整的 `Markdown` 格式（包括图片），提供了一个安全的、加密的笔记保险库。EasyNotes 特点包括轻量化、无需任何权限、 `Material You` 设计风格:
 
-![seabird](https://images-1252557999.file.myqcloud.com/uPic/seabird.png) 
+![EasyNotes](https://images-1252557999.file.myqcloud.com/uPic/Rq8teu.png) 
 
-### [mountmate](https://github.com/homielab/mountmate)
+### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
 
-一个简单的 `macOS` 菜单栏应用程序，用于管理您的外部驱动器:
+针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
 
-![mountmate](https://images-1252557999.file.myqcloud.com/uPic/idgycV.png) 
+![netease-music-crx](https://images-1252557999.file.myqcloud.com/uPic/rkgRfw.png) 
 
-### [AsrTools](https://github.com/WEIFENG2333/AsrTools)
+### [Xournal++](https://github.com/xournalpp/xournalpp)
 
-智能语音转字幕文本工具，对比 `Github` 目前多数的音频转换文字项目（通过调用 `Wishper` 等模型），本项目最大区别和优势就是无需 `GPU` 和繁琐的本地配置：
+`Xournal++`是一款支持PDF注释的开源手写笔记软件，同样具有跨平台属性，功能挺多，有数位板的可以体验一下。
 
-- 🚀 无需复杂配置：无需 GPU 和繁琐的本地配置，小白也能轻松使用。
-- 🖥️ 高颜值界面：基于 PyQt5 和 qfluentwidgets，界面美观且用户友好。
-- ⚡ 效率超人：多线程并发 + 批量处理，文字转换快如闪电。
-- 📄 多格式支持：支持生成 .srt 和 .txt 字幕文件，满足不同需求。
-
-![AsrTools](https://images-1252557999.file.myqcloud.com/uPic/rAXR7m.png) 
+![Xournal++](https://images-1252557999.file.myqcloud.com/uPic/2DWaXR.jpg) 
 
 ## 👀 资料 
 
-### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+### [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)
 
-清华大学计算机系课程攻略：
+`DotNetGuide` 技术社区是一个面向 `.NET` 开发者的开源技术社区，旨在为开发者们提供全面的 `C#/.NET/.NET Core` 相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台，可以在线[阅读](https://www.yuque.com/ysgstudyhard/da6e0c)：
 
-![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
+![DotNetGuide](https://images-1252557999.file.myqcloud.com/uPic/DotNetGuide.jpg) 
 
-### [learnprompting.org](https://learnprompting.org/zh-Hans/docs/intro)
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
 
-> 如何同人工智能交流，并得到你要的结果。
+站点可靠性工作手册：
 
-随着最近人工智能的不断进步，提示工程这项技能变得越来越重要。本课程会聚焦于如何使用提示工程。你不需要很多机器学习相关的知识。
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
-![learnprompting](https://images-1252557999.file.myqcloud.com/uPic/learnprompting.jpg) 
+### [王慧文的清华产品课笔记](https://pan.quark.cn/s/f48705d07a3f)
 
-### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
+美团元老王慧文的清华产品课笔记，涵盖产品、战略、运营、需求、供需关系等多方面内容，阅读地址：
 
-非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
+- [飞书在线](https://nanqiang.feishu.cn/wiki/wikcncDyFTq1agB5UaEZnUGZD4g)
+-  [PDF 下载](https://pan.quark.cn/s/f48705d07a3f) 
 
 ## 🕸 网站 
 
-### [lz.qaiu.top](https://lz.qaiu.top/)
+### [FRE123-动漫搜索引擎](https://www.fre123.com/anime/s)
 
-`NFD` 网盘直链解析，目前支持 蓝奏云/蓝奏云优享/小飞机盘/123云盘/奶牛快传/移动云云空间/亿方云/文叔叔/QQ邮箱文件中转站：
+`FRE123` 周末新上了个动漫番剧搜索引擎，主要是汇集一些比较好的番剧网站资源，提供搜索服务，让用户更快速找到自己想看到的番剧，欢迎提意见：
 
-![netdisk](https://images-1252557999.file.myqcloud.com/uPic/v8jmto.png)
+![fre123_anime](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime.jpg) 
 
-代码开源在：[netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download?tab=readme-ov-file)。 
+### [namebeta](https://namebeta.com/)
 
-### [libhunt](https://www.libhunt.com/)
+输入你想要的域名，各方比价：
 
-一个对开源项目进行分类并排名的网站：
+![namebeta_web](https://images-1252557999.file.myqcloud.com/uPic/namebeta_web.jpg) 
 
-![libhunt](https://images-1252557999.file.myqcloud.com/uPic/libhunt.jpg) 
+### [medisearch](https://medisearch.io/zh)
 
-### [免费 LLM API 调用限制汇总](https://www.freeaihunter.com/)
+直接的科学为基础的医疗问答模型：
 
-一个可以免费使用的大模型 API 合集网站：
-
-![freeaihunter](https://images-1252557999.file.myqcloud.com/uPic/ixNx89.png) 
+![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
 
 ## ✍️ 说明
 
