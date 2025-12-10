@@ -5,92 +5,115 @@
 
 ## 🎯 项目 
 
-### [wails](https://wails.io/)
+### [picx](https://github.com/XPoet/picx "picx")
 
-最近发现不少开源软件是基于 `Go` 语言，顺藤摸瓜发现了 `[wails](https://wails.io/)`，它可以帮你使用 `Go` 构建漂亮的跨平台应用程序：
+`PicX` 是一款基于 `GitHub API` 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务：
 
-![wails](https://images-1252557999.file.myqcloud.com/uPic/wails.jpg) 
+![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg)
 
-### [Gmeek](https://github.com/Meekdai/Gmeek)
+类似项目：
 
-一个博客框架，超轻量级个人博客模板。完全基于 `Github Pages、Github Issues & Github Actions`。不需要本地部署，从搭建到写作，只需要18秒，2步搭建好博客，第3步就是写作。
+- [telegraph](https://github.com/0-RTT/telegraph "telegraph")
+- [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image "Telegraph-Image"):免费图片托管解决方案，`Flickr/imgur` 替代品
+- [rao-pics](https://github.com/meetqy/rao-pics "rao-pics"):利用 `Eagle APP` 快速搭建图片站、
 
-![Gmeek](https://images-1252557999.file.myqcloud.com/uPic/KUg5Lm.png) 
+但是老胡建议不要滥用，这种也不稳定，自己偶尔测试需要可以使用一下，推荐出来也是让朋友们多个选择。我推荐自建图床：
 
-### [elasticvue](https://github.com/cars10/elasticvue)
+- [lsky-pro](https://github.com/lsky-org/lsky-pro "lsky-pro")：兰空图床
+- [EasyImages2.0](https://github.com/icret/EasyImages2.0 "EasyImages2.0")：简单图床 - 一款功能强大无数据库的图床 2.0 版
+- [PicList](https://github.com/Kuingsmile/PicList "PicList")：图片上传 云存储管理
+- [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed "quickly-picture-bed")：轻快图床：使用 nestjs+vue3.x+ts+vite 开发的在线图床系统，内置功能包括图片上传、图片管理、存储桶管理、相册管理、插件市场、知识库管理、数据统计等功能 
 
-基于 `Vue` 的 `Elasticsearch` 管理客户端，支持[浏览器插件](https://chrome.google.com/webstore/detail/elasticvue/hkedbapjpblbodpgbajblpnlpenaebaa/related?utm_source=chrome-ntp-icon)和 `Docker` 自建：
+### [novu](https://github.com/novuhq/novu)
 
-- 集群信息概览
-- 索引管理
-- 快速搜索&查看
-- REST查询
-- 管理系统快照
+这是一个开源的基础设施项目，用于快速搭建通知中心，`Novu` 提供了一个统一的 `API`，使通过多个通道（包括应用内、推送、电子邮件、短信和聊天）发送通知变得简单：
 
-基本满足使用，开源强大：
+![novu](https://images-1252557999.file.myqcloud.com/uPic/novu.jpg) 
 
-![elasticvue](https://images-1252557999.file.myqcloud.com/uPic/elasticvue.jpg) 
+### [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
+
+一个轻量级的AI证件照制作算法：
+
+- 轻量级抠图（纯离线，仅需 CPU 即可快速推理）
+- 根据不同尺寸规格生成不同的标准证件照、六寸排版照
+- 支持 纯离线 或 端云 推理
+- 美颜（waiting）
+- 智能换正装（waiting）
+
+![HivisionIDPhotos](https://images-1252557999.file.myqcloud.com/uPic/gPE06c.png) 
 
 ## 🤖 软件 
 
-### [EasyNotes](https://github.com/Kin69/EasyNotes)
+### [onepoint](https://github.com/onepointAI/onepoint)
 
-一个开源的 `Android` 笔记应用，使用 `Kotlin` 编写，采用了最新的 `Jetpack Compose MVVM` 架构，以实现流畅的笔记编辑和管理体验。该应用支持完整的 `Markdown` 格式（包括图片），提供了一个安全的、加密的笔记保险库。EasyNotes 特点包括轻量化、无需任何权限、 `Material You` 设计风格:
+Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
 
-![EasyNotes](https://images-1252557999.file.myqcloud.com/uPic/Rq8teu.png) 
+借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
 
-### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
+![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
 
-针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
+### [SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote)
 
-![netease-music-crx](https://images-1252557999.file.myqcloud.com/uPic/rkgRfw.png) 
+> 刚毕业的大学生 Alpha Liu，是一位热爱硬件的极客。他开发了一款名为 SpeedyNote 的开源笔记软件，专为无纸化学习而生，致力于让低端设备也能拥有流畅、极致的书写体验。并将这个项目视为一份开源礼物，送给所有因硬件门槛而被挡在无纸化学习门外的同学，也为那些被遗忘的旧平板、老电脑注入了新的活力。
 
-### [Xournal++](https://github.com/xournalpp/xournalpp)
+一款简单的笔记应用，性能出色，支持 PDF 导入，
 
-`Xournal++`是一款支持PDF注释的开源手写笔记软件，同样具有跨平台属性，功能挺多，有数位板的可以体验一下。
+![SpeedyNote](https://images-1252557999.file.myqcloud.com/uPic/aTbqHl.png) 
 
-![Xournal++](https://images-1252557999.file.myqcloud.com/uPic/2DWaXR.jpg) 
+### [Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider)
+
+Amarok 是一款轻量级隐私保护工具，一键隐藏你的隐私文件和应用:
+
+- 简单易用: 文件应用，一键隐藏。
+- 高速大文件隐藏: 只混淆文件名和文件签名，文件大小并不影响隐藏速度。
+- 免 Root 应用隐藏: 从桌面隐藏应用程序。目前支持 Root、Shizuku、Dhizuku 和 DSM 模式。
+- 老板键: 在紧急情况下使用浮动按钮隐藏应用和文件。
+- 快捷开关: 控制中心开关，无需打开应用即可隐藏。
+- 赏心悦目的界面: 简洁干净的 Material3 设计。
+
+![Amarok](https://images-1252557999.file.myqcloud.com/uPic/Amarok.jpg) 
 
 ## 👀 资料 
 
-### [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)
+### [rust-course](https://github.com/sunface/rust-course)
 
-`DotNetGuide` 技术社区是一个面向 `.NET` 开发者的开源技术社区，旨在为开发者们提供全面的 `C#/.NET/.NET Core` 相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台，可以在线[阅读](https://www.yuque.com/ysgstudyhard/da6e0c)：
+> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
 
-![DotNetGuide](https://images-1252557999.file.myqcloud.com/uPic/DotNetGuide.jpg) 
+![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
 
-### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+阅读地址见[course.rs](https://course.rs)。 
 
-站点可靠性工作手册：
+### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
 
-![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
+自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
 
-### [王慧文的清华产品课笔记](https://pan.quark.cn/s/f48705d07a3f)
+![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
 
-美团元老王慧文的清华产品课笔记，涵盖产品、战略、运营、需求、供需关系等多方面内容，阅读地址：
+### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
 
-- [飞书在线](https://nanqiang.feishu.cn/wiki/wikcncDyFTq1agB5UaEZnUGZD4g)
--  [PDF 下载](https://pan.quark.cn/s/f48705d07a3f) 
+从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
+
+![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [FRE123-动漫搜索引擎](https://www.fre123.com/anime/s)
+### [ziyouziti](https://ziyouziti.com/)
 
-`FRE123` 周末新上了个动漫番剧搜索引擎，主要是汇集一些比较好的番剧网站资源，提供搜索服务，让用户更快速找到自己想看到的番剧，欢迎提意见：
+免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
 
-![fre123_anime](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime.jpg) 
+![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
 
-### [namebeta](https://namebeta.com/)
+### [regexlearn](https://regexlearn.com)
 
-输入你想要的域名，各方比价：
+一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
 
-![namebeta_web](https://images-1252557999.file.myqcloud.com/uPic/namebeta_web.jpg) 
+![regexlearn](https://images-1252557999.file.myqcloud.com/uPic/yUZ5N4.png) 
 
-### [medisearch](https://medisearch.io/zh)
+### [scrnshts.club](https://scrnshts.club/)
 
-直接的科学为基础的医疗问答模型：
+收集 App 在应用商店中做宣传用的截图，很有意思：
 
-![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
+![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
 
 ## ✍️ 说明
 
