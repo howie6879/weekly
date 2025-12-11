@@ -5,115 +5,102 @@
 
 ## 🎯 项目 
 
-### [picx](https://github.com/XPoet/picx "picx")
+### [docker-wechat](https://github.com/huan/docker-wechat)
 
-`PicX` 是一款基于 `GitHub API` 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务：
+盒装微信，在linux下基于Docker技术使用微信客户端：
 
-![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg)
+![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
 
-类似项目：
+### [wtfutil](https://github.com/wtfutil/wtf)
 
-- [telegraph](https://github.com/0-RTT/telegraph "telegraph")
-- [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image "Telegraph-Image"):免费图片托管解决方案，`Flickr/imgur` 替代品
-- [rao-pics](https://github.com/meetqy/rao-pics "rao-pics"):利用 `Eagle APP` 快速搭建图片站、
+在你的终端定制化仪表盘，提供 IP 信息、世界时间、系统信息、充电信息、系统状态、GitHub 等信息集中展示，也可以通过配置实现业务监控：
 
-但是老胡建议不要滥用，这种也不稳定，自己偶尔测试需要可以使用一下，推荐出来也是让朋友们多个选择。我推荐自建图床：
+![wtfutil](https://images-1252557999.file.myqcloud.com/uPic/wtfutil.jpeg) 
 
-- [lsky-pro](https://github.com/lsky-org/lsky-pro "lsky-pro")：兰空图床
-- [EasyImages2.0](https://github.com/icret/EasyImages2.0 "EasyImages2.0")：简单图床 - 一款功能强大无数据库的图床 2.0 版
-- [PicList](https://github.com/Kuingsmile/PicList "PicList")：图片上传 云存储管理
-- [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed "quickly-picture-bed")：轻快图床：使用 nestjs+vue3.x+ts+vite 开发的在线图床系统，内置功能包括图片上传、图片管理、存储桶管理、相册管理、插件市场、知识库管理、数据统计等功能 
+### [wg-easy](https://github.com/wg-easy/wg-easy)
 
-### [novu](https://github.com/novuhq/novu)
+ `wg-easy` 提供一种简单的方式来运行 WireGuard VPN，并配备了 Web 管理界面。
 
-这是一个开源的基础设施项目，用于快速搭建通知中心，`Novu` 提供了一个统一的 `API`，使通过多个通道（包括应用内、推送、电子邮件、短信和聊天）发送通知变得简单：
-
-![novu](https://images-1252557999.file.myqcloud.com/uPic/novu.jpg) 
-
-### [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
-
-一个轻量级的AI证件照制作算法：
-
-- 轻量级抠图（纯离线，仅需 CPU 即可快速推理）
-- 根据不同尺寸规格生成不同的标准证件照、六寸排版照
-- 支持 纯离线 或 端云 推理
-- 美颜（waiting）
-- 智能换正装（waiting）
-
-![HivisionIDPhotos](https://images-1252557999.file.myqcloud.com/uPic/gPE06c.png) 
+![wg-easy](https://images-1252557999.file.myqcloud.com/uPic/sXhRQS.png) 
 
 ## 🤖 软件 
 
-### [onepoint](https://github.com/onepointAI/onepoint)
+### [PlayCover](https://github.com/PlayCover/PlayCover)
 
-Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
+让你的 Apple Silicon Mac 能够运行 IOS 游戏和应用：
 
-借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
+![PlayCover](https://images-1252557999.file.myqcloud.com/uPic/PlayCover.jpg)
 
-![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
+源的话推荐：
 
-### [SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote)
+- https://decrypt.day/library
+- https://ipa.store/
 
-> 刚毕业的大学生 Alpha Liu，是一位热爱硬件的极客。他开发了一款名为 SpeedyNote 的开源笔记软件，专为无纸化学习而生，致力于让低端设备也能拥有流畅、极致的书写体验。并将这个项目视为一份开源礼物，送给所有因硬件门槛而被挡在无纸化学习门外的同学，也为那些被遗忘的旧平板、老电脑注入了新的活力。
+就是有些 APP 偶尔会崩溃。 
 
-一款简单的笔记应用，性能出色，支持 PDF 导入，
+### NewPipe
 
-![SpeedyNote](https://images-1252557999.file.myqcloud.com/uPic/aTbqHl.png) 
+`NewPipe` 是一款 Android 下的第三方 `YouTube` 客户端，支持画中画、后台播放、变速播放、可查看留言、可导入订阅频道、可使用 `Kodi` 播放，是一款功能非常完善的油管客户端：
 
-### [Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider)
+![NewPipe](https://images-1252557999.file.myqcloud.com/uPic/NewPipe.jpg) 
 
-Amarok 是一款轻量级隐私保护工具，一键隐藏你的隐私文件和应用:
+### [ChatGPT](https://github.com/lencx/ChatGPT)
 
-- 简单易用: 文件应用，一键隐藏。
-- 高速大文件隐藏: 只混淆文件名和文件签名，文件大小并不影响隐藏速度。
-- 免 Root 应用隐藏: 从桌面隐藏应用程序。目前支持 Root、Shizuku、Dhizuku 和 DSM 模式。
-- 老板键: 在紧急情况下使用浮动按钮隐藏应用和文件。
-- 快捷开关: 控制中心开关，无需打开应用即可隐藏。
-- 赏心悦目的界面: 简洁干净的 Material3 设计。
+基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
 
-![Amarok](https://images-1252557999.file.myqcloud.com/uPic/Amarok.jpg) 
+- 历史聊天记录导出(PNG, PDF & Share Link)
+- 快捷键&系统托盘
+- 集成 [chatgpt prompt](https://prompts.chat/)
+
+![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
+
+作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
 
 ## 👀 资料 
 
-### [rust-course](https://github.com/sunface/rust-course)
+### [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)
 
-> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
+`DotNetGuide` 技术社区是一个面向 `.NET` 开发者的开源技术社区，旨在为开发者们提供全面的 `C#/.NET/.NET Core` 相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台，可以在线[阅读](https://www.yuque.com/ysgstudyhard/da6e0c)：
 
-![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
+![DotNetGuide](https://images-1252557999.file.myqcloud.com/uPic/DotNetGuide.jpg) 
 
-阅读地址见[course.rs](https://course.rs)。 
+### [Prompt Engineering](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
 
-### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
+ `Google` 官方出品的提示工程（`Prompt Engineering`）白皮书，该书系统性介绍了 `Prompt Engineering` 相关技术，包括 `LLMs` 基础知识、提示技巧和诸多最佳实践。 
 
-自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
+### [curriculum](https://github.com/TheOdinProject/curriculum)
 
-![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
+`The Odin Project`（简称 TOP）是一个开源的全栈 web 开发教育课程，旨在通过一系列课程和项目帮助学习者掌握前端和后端技能：
 
-### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
-
-从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
-
-![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
+![k6tcen](https://images-1252557999.file.myqcloud.com/uPic/k6tcen.png) 
 
 ## 🕸 网站 
 
-### [ziyouziti](https://ziyouziti.com/)
+### [ai-12348](https://ai.12348.gov.cn/pc/)
 
-免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
+免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
 
-![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
+![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
 
-### [regexlearn](https://regexlearn.com)
+### [sci-hub](https://sci-hub.se/)
 
-一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
+这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
 
-![regexlearn](https://images-1252557999.file.myqcloud.com/uPic/yUZ5N4.png) 
+> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
 
-### [scrnshts.club](https://scrnshts.club/)
+用户可通过以下方式访问新版本：
 
-收集 App 在应用商店中做宣传用的截图，很有意思：
+- https://sci-hub.se/
+- https://sci-hub.ru/
+- https://sci-hub.st/
 
-![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png) 
+
+### [读者阁](https://duzhege.cn/)
+
+可以在线阅读故事会、读者等杂志的网站：
+
+![duzhege](https://images-1252557999.file.myqcloud.com/uPic/duzhege.jpg) 
 
 ## ✍️ 说明
 
