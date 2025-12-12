@@ -5,102 +5,102 @@
 
 ## 🎯 项目 
 
-### [docker-wechat](https://github.com/huan/docker-wechat)
+### [PicImpact](https://github.com/besscroft/PicImpact)
 
-盒装微信，在linux下基于Docker技术使用微信客户端：
+一个摄影师专用的摄影作品展示网站，基于 `Next.js + Hono.js` 开发：
 
-![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
+- 瀑布流相册展示图片，支持实况照片(Live Photos)，基于 LivePhotosKit JS 开发。
+- 点击图片查看原图，浏览图片信息和 EXIF 信息，支持直链访问。
+- 响应式设计，在 PC 和移动端都有不错的体验，支持暗黑模式。
+- 图片存储兼容 S3 API、Cloudflare R2、AList API。
+- 图片支持绑定标签，并且可通过标签进行交互，筛选标签下所有图片。
+- 支持输出 RSS，可以使用 Follow 订阅，并支持订阅源所有权验证。
+- 支持批量自动化上传，上传图片时会生成 0.3 倍率的压缩图片，以提供加载优化。
+- ...
 
-### [wtfutil](https://github.com/wtfutil/wtf)
+![PicImpact](https://images-1252557999.file.myqcloud.com/uPic/NFu7vG.png) 
 
-在你的终端定制化仪表盘，提供 IP 信息、世界时间、系统信息、充电信息、系统状态、GitHub 等信息集中展示，也可以通过配置实现业务监控：
+### [Palmr](https://github.com/kyantech/Palmr)
 
-![wtfutil](https://images-1252557999.file.myqcloud.com/uPic/wtfutil.jpeg) 
+`Palmr` 是一个开源的文件分享平台，专注于隐私和安全，提供无追踪和无限制的文件上传、管理和分享功能。
 
-### [wg-easy](https://github.com/wg-easy/wg-easy)
+![Palmr](https://images-1252557999.file.myqcloud.com/uPic/lERBt8.png) 
 
- `wg-easy` 提供一种简单的方式来运行 WireGuard VPN，并配备了 Web 管理界面。
+### [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
 
-![wg-easy](https://images-1252557999.file.myqcloud.com/uPic/sXhRQS.png) 
+基于 `AI` 完整保留排版的 `PDF` 文档全文双语翻译，支持 `Google/DeepL/Ollama/OpenAI` 等服务，提供 `CLI/GUI/Docker`：
+
+- 📊 保留公式、图表、目录和注释 (预览效果)
+- 🌐 支持 多种语言 和 诸多翻译服务
+- 🤖 提供 命令行工具，图形交互界面，以及 容器化部署
+
+![PDFMathTranslate](https://images-1252557999.file.myqcloud.com/uPic/m0zGEV.png) 
 
 ## 🤖 软件 
 
-### [PlayCover](https://github.com/PlayCover/PlayCover)
+### [milky-warp](https://github.com/hugoattal/milky-warp)
 
-让你的 Apple Silicon Mac 能够运行 IOS 游戏和应用：
+`Milky Warp` 是一个开源工具，技术栈是 `Tauri、Vite、Vue、Typescript`，核心功能就是按下快捷键时会显示一个放大镜：
 
-![PlayCover](https://images-1252557999.file.myqcloud.com/uPic/PlayCover.jpg)
+- 按下可配置的快捷键时显示放大镜
+- 支持使用鼠标滚轮进行放大和缩小
+- 跨平台：可在Windows、macOS和Linux上运行
 
-源的话推荐：
+![milky-warp](https://images-1252557999.file.myqcloud.com/uPic/milky-warp.gif) 
 
-- https://decrypt.day/library
-- https://ipa.store/
+### [tunnelblick](https://tunnelblick.net/)
 
-就是有些 APP 偶尔会崩溃。 
+免费开源的`openvpn`客户端：
 
-### NewPipe
+![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
 
-`NewPipe` 是一款 Android 下的第三方 `YouTube` 客户端，支持画中画、后台播放、变速播放、可查看留言、可导入订阅频道、可使用 `Kodi` 播放，是一款功能非常完善的油管客户端：
+### [deskflow](https://github.com/deskflow/deskflow)
 
-![NewPipe](https://images-1252557999.file.myqcloud.com/uPic/NewPipe.jpg) 
+`Deskflow` 是一款免费开源的跨平台键盘鼠标共享工具，允许用户使用一套键盘和鼠标来控制多台计算机。它支持 Windows、macOS 和 Linux 系统，具有剪贴板共享、屏幕边缘切换、自定义热键和简单的图形化配置等功能。
 
-### [ChatGPT](https://github.com/lencx/ChatGPT)
+`Deskflow` 最初是商业软件 `Synergy` 的开源上游项目，现已成为独立项目，专注于提供免费、开源的功能。
 
-基于 `Tauri` 对 `ChatGPT` 网站进行封装的跨平台桌面软件，提供了很多有意思的小功能：
-
-- 历史聊天记录导出(PNG, PDF & Share Link)
-- 快捷键&系统托盘
-- 集成 [chatgpt prompt](https://prompts.chat/)
-
-![l_ChatGPT](https://images-1252557999.file.myqcloud.com/uPic/l_ChatGPT.jpg)
-
-作者也推出了一个培训课程 **[打造属于自己的跨平台桌面应用---《Rust Tauri + ChatGPT 桌面开发》](https://rustedu.com/course/117)**，有兴趣的可以试试。 
+![deskflow](https://images-1252557999.file.myqcloud.com/uPic/hTXVat.png) 
 
 ## 👀 资料 
 
-### [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)
+### [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
-`DotNetGuide` 技术社区是一个面向 `.NET` 开发者的开源技术社区，旨在为开发者们提供全面的 `C#/.NET/.NET Core` 相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台，可以在线[阅读](https://www.yuque.com/ysgstudyhard/da6e0c)：
+Model Context Protocol(MCP) 编程极速入门：
 
-![DotNetGuide](https://images-1252557999.file.myqcloud.com/uPic/DotNetGuide.jpg) 
+![MCP-Chinese-Getting-Started-Guide](https://images-1252557999.file.myqcloud.com/uPic/ORcZa8.png) 
 
-### [Prompt Engineering](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
+### [大模型基础](https://github.com/datawhalechina/so-large-lm)
 
- `Google` 官方出品的提示工程（`Prompt Engineering`）白皮书，该书系统性介绍了 `Prompt Engineering` 相关技术，包括 `LLMs` 基础知识、提示技巧和诸多最佳实践。 
+本项目旨在作为一个大规模预训练语言模型的教程，从数据准备、模型构建、训练策略到模型评估与改进，以及模型在安全、隐私、环境和法律道德方面的方面来提供开源知识。
 
-### [curriculum](https://github.com/TheOdinProject/curriculum)
+![so-large-lm](https://images-1252557999.file.myqcloud.com/uPic/so-large-lm.jpg) 
 
-`The Odin Project`（简称 TOP）是一个开源的全栈 web 开发教育课程，旨在通过一系列课程和项目帮助学习者掌握前端和后端技能：
+### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
 
-![k6tcen](https://images-1252557999.file.myqcloud.com/uPic/k6tcen.png) 
+经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+
+![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
 
 ## 🕸 网站 
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+### [PromptPilot](https://promptpilot.volcengine.com/home)
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+字节火山出品的 `Prompt` 生成助手：
 
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+![PromptPilot](https://images-1252557999.file.myqcloud.com/uPic/uvUy4X.png) 
 
-### [sci-hub](https://sci-hub.se/)
+### [meiriyiwen](https://meiriyiwen.com/)
 
-这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
+每天一篇随机散文：
 
-> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
+![meiriyiwen](https://images-1252557999.file.myqcloud.com/uPic/meiriyiwen.jpg) 
 
-用户可通过以下方式访问新版本：
+### [中国科学技术大学测速网站](https://test.ustc.edu.cn/)
 
-- https://sci-hub.se/
-- https://sci-hub.ru/
-- https://sci-hub.st/
+测试使用网络的上传下载速度等信息：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png) 
-
-### [读者阁](https://duzhege.cn/)
-
-可以在线阅读故事会、读者等杂志的网站：
-
-![duzhege](https://images-1252557999.file.myqcloud.com/uPic/duzhege.jpg) 
+![test-ustc](https://images-1252557999.file.myqcloud.com/uPic/test-ustc.jpg) 
 
 ## ✍️ 说明
 
