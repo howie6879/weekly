@@ -5,102 +5,98 @@
 
 ## 🎯 项目 
 
-### [PicImpact](https://github.com/besscroft/PicImpact)
+### [BookStack](https://github.com/BookStackApp/BookStack)
 
-一个摄影师专用的摄影作品展示网站，基于 `Next.js + Hono.js` 开发：
+一个开源的`documentation/wik`文档管理平台，其核心特性如下：
 
-- 瀑布流相册展示图片，支持实况照片(Live Photos)，基于 LivePhotosKit JS 开发。
-- 点击图片查看原图，浏览图片信息和 EXIF 信息，支持直链访问。
-- 响应式设计，在 PC 和移动端都有不错的体验，支持暗黑模式。
-- 图片存储兼容 S3 API、Cloudflare R2、AList API。
-- 图片支持绑定标签，并且可通过标签进行交互，筛选标签下所有图片。
-- 支持输出 RSS，可以使用 Follow 订阅，并支持订阅源所有权验证。
-- 支持批量自动化上传，上传图片时会生成 0.3 倍率的压缩图片，以提供加载优化。
-- ...
+- 免费开源可自建
+- 简单易用的交互界面
+- 全文检索以及文档互联
+- 可配置
+- 强大的编辑功能，MD支持
+- 等
 
-![PicImpact](https://images-1252557999.file.myqcloud.com/uPic/NFu7vG.png) 
+![BookStack](https://images-1252557999.file.myqcloud.com/uPic/vdoSqZ.jpg)
 
-### [Palmr](https://github.com/kyantech/Palmr)
+有兴趣的话，可以利用[docker-bookstack](https://github.com/solidnerd/docker-bookstack)项目进行快速试用。 
 
-`Palmr` 是一个开源的文件分享平台，专注于隐私和安全，提供无追踪和无限制的文件上传、管理和分享功能。
+### [crawl4ai](https://github.com/unclecode/crawl4ai)
 
-![Palmr](https://images-1252557999.file.myqcloud.com/uPic/lERBt8.png) 
+`Crawl4AI` 是一个免费且开源的网络爬虫工具，专为大型语言模型（LLMs）和 AI 应用设计，支持多种输出格式，如 JSON、HTML 和 markdown。它能够同时处理多个 URL，提取媒体标签（图片、音频和视频），以及内外链接和网页元数据。 
 
-### [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
+### [TagStudio](https://github.com/TagStudioDev/TagStudio)
 
-基于 `AI` 完整保留排版的 `PDF` 文档全文双语翻译，支持 `Google/DeepL/Ollama/OpenAI` 等服务，提供 `CLI/GUI/Docker`：
+一个以用户为中心的照片和文件管理系统：
 
-- 📊 保留公式、图表、目录和注释 (预览效果)
-- 🌐 支持 多种语言 和 诸多翻译服务
-- 🤖 提供 命令行工具，图形交互界面，以及 容器化部署
-
-![PDFMathTranslate](https://images-1252557999.file.myqcloud.com/uPic/m0zGEV.png) 
+![TagStudio](https://images-1252557999.file.myqcloud.com/uPic/TagStudio.jpeg) 
 
 ## 🤖 软件 
 
-### [milky-warp](https://github.com/hugoattal/milky-warp)
+### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
 
-`Milky Warp` 是一个开源工具，技术栈是 `Tauri、Vite、Vue、Typescript`，核心功能就是按下快捷键时会显示一个放大镜：
+一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
 
-- 按下可配置的快捷键时显示放大镜
-- 支持使用鼠标滚轮进行放大和缩小
-- 跨平台：可在Windows、macOS和Linux上运行
+![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
 
-![milky-warp](https://images-1252557999.file.myqcloud.com/uPic/milky-warp.gif) 
+### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
 
-### [tunnelblick](https://tunnelblick.net/)
+FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
 
-免费开源的`openvpn`客户端：
+- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
+- 基于文本的歌单，方便与朋友分享、设备之间同步
+- 提供基于 TCP 的交互控制协议
+- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
+- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
 
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
 
-### [deskflow](https://github.com/deskflow/deskflow)
+### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
 
-`Deskflow` 是一款免费开源的跨平台键盘鼠标共享工具，允许用户使用一套键盘和鼠标来控制多台计算机。它支持 Windows、macOS 和 Linux 系统，具有剪贴板共享、屏幕边缘切换、自定义热键和简单的图形化配置等功能。
+网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
 
-`Deskflow` 最初是商业软件 `Synergy` 的开源上游项目，现已成为独立项目，专注于提供免费、开源的功能。
-
-![deskflow](https://images-1252557999.file.myqcloud.com/uPic/hTXVat.png) 
+![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
 
 ## 👀 资料 
 
-### [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
+### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
 
-Model Context Protocol(MCP) 编程极速入门：
+带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
 
-![MCP-Chinese-Getting-Started-Guide](https://images-1252557999.file.myqcloud.com/uPic/ORcZa8.png) 
+![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
 
-### [大模型基础](https://github.com/datawhalechina/so-large-lm)
+### [计算机底层的秘密](https://github.com/webxiaohua/gitbook)
 
-本项目旨在作为一个大规模预训练语言模型的教程，从数据准备、模型构建、训练策略到模型评估与改进，以及模型在安全、隐私、环境和法律道德方面的方面来提供开源知识。
+以图解的方式通俗易懂地讲解计算机系统中各项技术的本质，包括编程语言的本质是什么、操作系统、进程线程协程等的本质是什么、到底什么是内存、什么是堆区栈区、内存分配等是怎么一回事、怎样从晶体管构建出CPU、I/O是如何实现的等等，从根源出发，一步步讲解一项技术到底是怎么来的，同时内容可视化——辅助大量精心设计的插图，几乎做到了平均一页有一图，把对技术的理解门槛尽量降低-[在线阅读](https://www.bookstack.cn/read/webxiaohua-gitbook/1.-ni-guan-zhe-po-wan-yi-jiao-cpu.md)(需要pdf可联系我私发)：
 
-![so-large-lm](https://images-1252557999.file.myqcloud.com/uPic/so-large-lm.jpg) 
+![计算机底层的秘密](https://images-1252557999.file.myqcloud.com/uPic/计算机底层的秘密.jpg) 
 
-### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+### [Nginx 开发从入门到精通](https://tengine.taobao.org/book/)
 
-经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+淘宝团队出品的关于 `Nginx` 模块开发以及内部原理的书：
 
-![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
+![tb_nginx](https://images-1252557999.file.myqcloud.com/uPic/tb_nginx.jpg) 
 
 ## 🕸 网站 
 
-### [PromptPilot](https://promptpilot.volcengine.com/home)
+### [smartexcel](https://smartexcel.cc/)
 
-字节火山出品的 `Prompt` 生成助手：
+使用 `AI` 在几秒钟内生成 `Excel` 公式的工具。描述自己的需要，即可生成相应的公式。需要登录，每天 有10 个免费积分可以使用:
 
-![PromptPilot](https://images-1252557999.file.myqcloud.com/uPic/uvUy4X.png) 
+![smartexcel](https://images-1252557999.file.myqcloud.com/uPic/DXKVRR.png)
 
-### [meiriyiwen](https://meiriyiwen.com/)
+开源地址：[smartexcel](https://github.com/weijunext/smart-excel-ai)。 
 
-每天一篇随机散文：
+### [linegraphmaker](https://linegraphmaker.co/)
 
-![meiriyiwen](https://images-1252557999.file.myqcloud.com/uPic/meiriyiwen.jpg) 
+在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
 
-### [中国科学技术大学测速网站](https://test.ustc.edu.cn/)
+![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
 
-测试使用网络的上传下载速度等信息：
+### [flomoapp](https://flomoapp.com/)
 
-![test-ustc](https://images-1252557999.file.myqcloud.com/uPic/test-ustc.jpg) 
+flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
+
+![flomoapp](https://images-1252557999.file.myqcloud.com/uPic/6G6qrd.jpg) 
 
 ## ✍️ 说明
 
