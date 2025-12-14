@@ -5,98 +5,90 @@
 
 ## 🎯 项目 
 
-### [BookStack](https://github.com/BookStackApp/BookStack)
+### [docker-kms](https://github.com/11notes/docker-kms)
 
-一个开源的`documentation/wik`文档管理平台，其核心特性如下：
+`Docker-kms` 是用于永久激活任何版本的 `Windows` 和 `Office` 的 `Docker` 容器服务：
 
-- 免费开源可自建
-- 简单易用的交互界面
-- 全文检索以及文档互联
-- 可配置
-- 强大的编辑功能，MD支持
-- 等
+![docker-kms](https://images-1252557999.file.myqcloud.com/uPic/VHsPkb.png) 
 
-![BookStack](https://images-1252557999.file.myqcloud.com/uPic/vdoSqZ.jpg)
+### [mometa](https://github.com/imcuttle/mometa)
 
-有兴趣的话，可以利用[docker-bookstack](https://github.com/solidnerd/docker-bookstack)项目进行快速试用。 
+面向研发的低代码元编程，代码可视编辑，辅助编码工具，
 
-### [crawl4ai](https://github.com/unclecode/crawl4ai)
+mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。
 
-`Crawl4AI` 是一个免费且开源的网络爬虫工具，专为大型语言模型（LLMs）和 AI 应用设计，支持多种输出格式，如 JSON、HTML 和 markdown。它能够同时处理多个 URL，提取媒体标签（图片、音频和视频），以及内外链接和网页元数据。 
+**它用于解决的问题有：**
 
-### [TagStudio](https://github.com/TagStudioDev/TagStudio)
+- 对低代码平台不形成依赖，二次开发可以无缝进入代码开发模式
+- 同时支持所见即所得的可视编辑，用于提效，提升开发体验
+- 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
 
-一个以用户为中心的照片和文件管理系统：
+![mometa](https://images-1252557999.file.myqcloud.com/uPic/snapshot.png) 
 
-![TagStudio](https://images-1252557999.file.myqcloud.com/uPic/TagStudio.jpeg) 
+### [heti](https://github.com/sivan/heti)
+
+赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+
+![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
 
 ## 🤖 软件 
 
-### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
+### [Xit](https://github.com/Uncommon/Xit)
 
-一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
+`Mac OS`下开源免费的原生`Git`客户端 ：
 
-![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
+![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
 
-### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
+### [GodMode](https://github.com/smol-ai/GodMode/)
 
-FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
+`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
 
-- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
-- 基于文本的歌单，方便与朋友分享、设备之间同步
-- 提供基于 TCP 的交互控制协议
-- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
-- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
+![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
 
-![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
+### [RustDesk](https://github.com/rustdesk/rustdesk)
 
-### [cloud-uploader](https://github.com/lulu-ls/cloud-uploader)
+远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
 
-网易云音乐MAC云盘上传工具，为了解决 MAC 版本网易云音乐无上传音乐至云盘的功能：
-
-![cloud-uploader](https://images-1252557999.file.myqcloud.com/uPic/cloud-uploader.jpg) 
+![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
 
 ## 👀 资料 
 
-### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
+### [nlp-with-transformers](https://github.com/nlp-with-transformers)
 
-带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
+书籍《基于Transformers的自然语言处理》的代码仓库：
 
-![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/A6MiF5.jpg) 
 
-### [计算机底层的秘密](https://github.com/webxiaohua/gitbook)
+### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
 
-以图解的方式通俗易懂地讲解计算机系统中各项技术的本质，包括编程语言的本质是什么、操作系统、进程线程协程等的本质是什么、到底什么是内存、什么是堆区栈区、内存分配等是怎么一回事、怎样从晶体管构建出CPU、I/O是如何实现的等等，从根源出发，一步步讲解一项技术到底是怎么来的，同时内容可视化——辅助大量精心设计的插图，几乎做到了平均一页有一图，把对技术的理解门槛尽量降低-[在线阅读](https://www.bookstack.cn/read/webxiaohua-gitbook/1.-ni-guan-zhe-po-wan-yi-jiao-cpu.md)(需要pdf可联系我私发)：
+![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
-![计算机底层的秘密](https://images-1252557999.file.myqcloud.com/uPic/计算机底层的秘密.jpg) 
+### [LLMBook-zh](https://llmbook-zh.github.io/)
 
-### [Nginx 开发从入门到精通](https://tengine.taobao.org/book/)
+大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
 
-淘宝团队出品的关于 `Nginx` 模块开发以及内部原理的书：
-
-![tb_nginx](https://images-1252557999.file.myqcloud.com/uPic/tb_nginx.jpg) 
+![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
 
 ## 🕸 网站 
 
-### [smartexcel](https://smartexcel.cc/)
+### [fancymacbook](https://fancymacbook.app/)
 
-使用 `AI` 在几秒钟内生成 `Excel` 公式的工具。描述自己的需要，即可生成相应的公式。需要登录，每天 有10 个免费积分可以使用:
+提供技术向软件搜索然后输出 `brew` 命令安装：
 
-![smartexcel](https://images-1252557999.file.myqcloud.com/uPic/DXKVRR.png)
+![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
 
-开源地址：[smartexcel](https://github.com/weijunext/smart-excel-ai)。 
+### [12ft.io](https://12ft.io/)
 
-### [linegraphmaker](https://linegraphmaker.co/)
+输入目标地址，让你浏览一个更干净的网站！删除弹出窗口、横幅和广告：
 
-在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
+![12ft.io](https://images-1252557999.file.myqcloud.com/uPic/12ft.io.jpg)
+[1ft](https://1ft.io/) 也有类似功能。 
 
-![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
+### [cursor.directory](https://cursor.directory/)
 
-### [flomoapp](https://flomoapp.com/)
+基于你在用的框架或者语言，提供最好的 curson 规则。也开源在 [github](https://github.com/pontusab/cursor.directory)
 
-flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
-
-![flomoapp](https://images-1252557999.file.myqcloud.com/uPic/6G6qrd.jpg) 
+![cursor.directory](https://images-1252557999.file.myqcloud.com/uPic/ygOBRk.png) 
 
 ## ✍️ 说明
 
