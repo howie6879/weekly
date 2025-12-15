@@ -5,53 +5,93 @@
 
 ## 🎯 项目 
 
-### [docker-kms](https://github.com/11notes/docker-kms)
+### [nativefier](https://github.com/nativefier/nativefier)
 
-`Docker-kms` 是用于永久激活任何版本的 `Windows` 和 `Office` 的 `Docker` 容器服务：
+这是一个开源的命令行工具，可以将任何`Web`网页打包成桌面应用，支持`macOS 10.9+ / Windows / Linux`：
 
-![docker-kms](https://images-1252557999.file.myqcloud.com/uPic/VHsPkb.png) 
+![nativefier_walkthrough](https://images-1252557999.file.myqcloud.com/uPic/nativefier_walkthrough.gif) 
 
-### [mometa](https://github.com/imcuttle/mometa)
+### [plane](https://github.com/makeplane/plane)
 
-面向研发的低代码元编程，代码可视编辑，辅助编码工具，
+概念比较新的项目管理工具，开源的 `JIRA，Linear & Height` 的替代品，`Plane` 以最简单的方式帮助您跟踪问题、冲刺和产品路线图：
 
-mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是面向研发的、代码可视设计编辑平台；它更像是 dreamweaver、gui 可视编辑 之于 程序员。
+![plane](https://images-1252557999.file.myqcloud.com/uPic/plane.webp) 
 
-**它用于解决的问题有：**
+### [llama3](https://github.com/meta-llama/llama3)
 
-- 对低代码平台不形成依赖，二次开发可以无缝进入代码开发模式
-- 同时支持所见即所得的可视编辑，用于提效，提升开发体验
-- 提供物料生态，可自定义物料，提升物料使用体验，提升复用率
+Meta 正式发布开源大模型 `Llama 3` ，其提供两个版本：`8B` 版本适合在消费级 `GPU` 上高效部署和开发；`70B` 版本则专为大规模 `AI` 应用设计。每个版本都包括基础和指令调优两种形式。此外，基于 `Llama 3 8B` 微调后的 `Llama Guard` 新版本也已作为 `Llama Guard 2`（安全微调版本）发布：
 
-![mometa](https://images-1252557999.file.myqcloud.com/uPic/snapshot.png) 
+![hc_llama3](https://images-1252557999.file.myqcloud.com/uPic/hc_llama3.jpg)
 
-### [heti](https://github.com/sivan/heti)
+你可以在 [Hugging Chat](https://huggingface.co/chat) 上面体验，其他相关优秀的衍生开源项目老胡顺便做了个整理：
 
-赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
-
-![heti](https://images-1252557999.file.myqcloud.com/uPic/WrpZDT.jpg) 
+- [llama](https://github.com/meta-llama/llama)|[llama.cpp](https://github.com/ggerganov/llama.cpp)|[llamafile](https://github.com/Mozilla-Ocho/llamafile)|[codellama](https://github.com/meta-llama/codellama)|[llm-course](https://github.com/mlabonne/llm-course)
+- 问答系统：
+	- [FastGPT](https://github.com/labring/FastGPT)
+	- [anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+	- [MaxKB](https://github.com/1Panel-dev/MaxKB)
+	- [quivr](https://github.com/QuivrHQ/quivr)
+	- [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
+	- [QAnything](https://github.com/netease-youdao/QAnything)
+	- [private-gpt](https://github.com/zylon-ai/private-gpt)
+	- [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine)
+- WebUI：
+	- [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
+	- [lobe-chat](https://github.com/lobehub/lobe-chat)
+	- [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
+	- [open-webui](https://github.com/open-webui/open-webui)
+	- [chat-ollama](https://github.com/sugarforever/chat-ollama)
+	- [chat-ui](https://github.com/huggingface/chat-ui)
+	- [aichat](https://github.com/sigoden/aichat)
+	- [open-webui2](https://github.com/open-webui/open-webui)
+	- [LocalAI](https://github.com/mudler/LocalAI)
+- APP：[LM Studio](https://lmstudio.ai/)|[jan](https://github.com/janhq/jan)||[ollama](https://github.com/ollama/ollama)|[chatbox](https://github.com/Bin-Huang/chatbox)
+- 应用开发：
+	- [langchain](https://github.com/langchain-ai/langchain)：为AI开发者提供工具，将语言模型与外部数据源连接起来，辅助构建 AI 应用程序
+	- [MetaGPT](https://github.com/geekan/MetaGPT)：Multi-Agent 框架
+	- [Dify](https://docs.dify.ai/)：开源的大语言模型(LLM) 应用开发平台
+	- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)：让大模型微调更简单
+	- [Flowise](https://github.com/FlowiseAI/Flowise)：轻松构建 LLM 应用程序
+	- [llm-app](https://github.com/pathwaycom/llm-app)：30 行代码构建你的 LLM 应用程序
+- [LLM Leaderboard](https://www.vellum.ai/llm-leaderboard)：各大主流 LLMs 评比 
 
 ## 🤖 软件 
 
-### [Xit](https://github.com/Uncommon/Xit)
+### [Loop](https://github.com/MrKai77/Loop)
 
-`Mac OS`下开源免费的原生`Git`客户端 ：
+让窗口管理 `MacOS` 变得优雅：
 
-![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
+![Loop](https://images-1252557999.file.myqcloud.com/uPic/Loop.gif)
 
-### [GodMode](https://github.com/smol-ai/GodMode/)
+安装好如果有权限问题，执行如下命令：
 
-`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
+```shell
+sudo xattr -cr  /Applications/Loop.app
+``` 
 
-![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
+### [CuteGIF](https://github.com/tasy5kg/CuteGIF)
 
-### [RustDesk](https://github.com/rustdesk/rustdesk)
+小萌 `GIF` 是一款简洁好用的 `Android` 端视频转 `GIF` 工具：
 
-远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
+![CuteGIF](https://images-1252557999.file.myqcloud.com/uPic/CuteGIF.jpg) 
 
-![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
+### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
+
+类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
+
+![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
 
 ## 👀 资料 
+
+### [v8-internals](https://github.com/plctlab/v8-internals)
+
+面向编译器开发人员的V8内部实现文档。 
+
+### [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book)
+
+`PeiQi` 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，`CTF` 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见。
+
+![PeiQi-WIKI-Book](https://images-1252557999.file.myqcloud.com/uPic/PeiQi-WIKI-Book.png) 
 
 ### [nlp-with-transformers](https://github.com/nlp-with-transformers)
 
@@ -59,36 +99,27 @@ mometa 不是传统主流的低代码平台（如 amis/云凤蝶），mometa 是
 
 ![](https://images-1252557999.file.myqcloud.com/uPic/A6MiF5.jpg) 
 
-### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
-
-![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
-
-### [LLMBook-zh](https://llmbook-zh.github.io/)
-
-大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
-
-![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
-
 ## 🕸 网站 
 
-### [fancymacbook](https://fancymacbook.app/)
+### [dev.to](https://dev.to/)
 
-提供技术向软件搜索然后输出 `brew` 命令安装：
+国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
 
-![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
+![dev_to](https://images-1252557999.file.myqcloud.com/uPic/dev_to.png) 
 
-### [12ft.io](https://12ft.io/)
+### [collagemaker.tools](https://collagemaker.tools/)
 
-输入目标地址，让你浏览一个更干净的网站！删除弹出窗口、横幅和广告：
+群友 **@37丫37** 开发免费在线拼图工具，纯前端客户端渲染，提供布局拼图和长图拼接两大核心模式。支持在画布自由添加、编辑、缩放和移动文字、箭头、方框、圆圈等创意对象。所有操作均在本地完成，完全免费、无需登录、注重隐私，无水印高清下载。
 
-![12ft.io](https://images-1252557999.file.myqcloud.com/uPic/12ft.io.jpg)
-[1ft](https://1ft.io/) 也有类似功能。 
+![collagemaker](https://images-1252557999.file.myqcloud.com/uPic/fl3v1N.png)
 
-### [cursor.directory](https://cursor.directory/)
+PS:原来域名是：https://img.ops-coffee.cn/ 现在改成 https://collagemaker.tools ，看样子是更加专业且认真地在维护这个小产品。 
 
-基于你在用的框架或者语言，提供最好的 curson 规则。也开源在 [github](https://github.com/pontusab/cursor.directory)
+### [apitracker](https://apitracker.io/)
 
-![cursor.directory](https://images-1252557999.file.myqcloud.com/uPic/ygOBRk.png) 
+发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
+
+![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
 
 ## ✍️ 说明
 
