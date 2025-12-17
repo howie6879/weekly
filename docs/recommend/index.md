@@ -5,81 +5,87 @@
 
 ## 🎯 项目 
 
-### [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)
+### [go-musicfox](https://github.com/go-musicfox/go-musicfox)
 
-老胡最近整的开源项目，从[技术周刊精选](https://www.fre123.com/weekly/)到[信息流](https://www.fre123.com/tech)，和前端朋友一起梳理出了个通用的排版并开源出来，欢迎大家使用和提出建议:
+`go-musicfox`是用 Go 写的又一款网易云音乐命令行客户端，支持 `UnblockNeteaseMusic`、各种音质级别、`lastfm`、`MPRIS`、`MacOS` 交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）:
 
-![fre123-info-flow-demo](https://images-1252557999.file.myqcloud.com/uPic/fre123-info-flow-demo.jpg) 
+![go-musicfox](https://images-1252557999.file.myqcloud.com/uPic/go-musicfox.png) 
 
-### [moneynote-api](https://github.com/getmoneynote/moneynote-api)
+### [pandora](https://github.com/pengzhile/pandora)
 
-一个开源免费的记账解决方案，包括[后端](https://github.com/getmoneynote/moneynote-api)，[网页版](https://github.com/getmoneynote/moneywhere-user-fe)，[App](https://github.com/getmoneynote/moneywhere_user_flutter)，主要用于个人生活记账，开店收支记账，支持[ Docker 一键部署](https://github.com/getmoneynote/docker-compose-moneywhere)自己的记账程序：
+潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
 
-![moneynote-api](https://images-1252557999.file.myqcloud.com/uPic/moneynote-api.png) 
+![pandora](https://images-1252557999.file.myqcloud.com/uPic/pandora.png) 
 
-### [Dasherr](https://github.com/erohtar/Dasherr)
+### [MindSearch](https://github.com/InternLM/MindSearch)
 
-简单轻量自部署的仪表盘工具：
+开源的 Web 搜索引擎框架，它利用大型语言模型（LLM）和多智能体架构来提供高级搜索功能。该项目支持多种搜索引擎，如 `DuckDuckGo、Bing、Brave & Google`，您可以轻松部署它来构建您自己的搜索引擎：
 
-![Dasherr](https://images-1252557999.file.myqcloud.com/uPic/Dasherr.png) 
+![MindSearch](https://images-1252557999.file.myqcloud.com/uPic/8Q3zZx.png) 
 
 ## 🤖 软件 
 
-### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
+### [Thor](https://github.com/gbammc/Thor)
 
-跨平台的`youtube-dl`客户端：
+通过快捷键快速打开应用：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png) 
+![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
 
-### [pear-rec](https://github.com/027xiguapi/pear-rec)
+### [listen1_desktop](https://github.com/listen1/listen1_desktop)
 
-`pear-rec`(梨子 rec) 是一个跨平台的截图、录屏、录音、录像软件：
+Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单，支持音乐平台：
 
-![pear-rec](https://images-1252557999.file.myqcloud.com/uPic/pear-rec.jpg) 
+- 网易云音乐
+- QQ 音乐
+- 酷狗音乐
+- 酷我音乐
+- bilibili
+- 咪咕音乐
+- 千千音乐
 
-### [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor)
+![listen1_desktop](https://images-1252557999.file.myqcloud.com/uPic/listen1_desktop.png) 
 
-`Caesium` 是一款图像压缩软件，可帮助您存储、发送和共享数字图片，支持 `JPG、PNG&WebP` 格式：
+### [GodMode](https://github.com/smol-ai/GodMode/)
 
-![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.jpg) 
+`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
+
+![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
 
 ## 👀 资料 
 
-### [学习CSS布局](https://zh.learnlayout.com/)
+### [reversing](https://0xinfection.github.io/reversing/)
 
-本站教授的是现在广泛使用于网站布局领域的CSS基础：
+免费电子书，面向所有人的逆向工程：
 
-![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
+![reversing](https://images-1252557999.file.myqcloud.com/uPic/reversing.jpg) 
 
-### [react-illustration-series](https://github.com/7kms/react-illustration-series)
+### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
 
-图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
+该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
 
-### [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
+### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 
-健康学习到150岁 - 人体系统调优不完全指南：
-
-![HumanSystemOptimization](https://images-1252557999.file.myqcloud.com/uPic/HumanSystemOptimization.jpg) 
+这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
 
 ## 🕸 网站 
 
-### [llmresourceshub](https://llmresourceshub.vercel.app/)
+### [huawei-od](https://huawei-od.vercel.app/)
 
-一站式 LLM 资源合集：
+牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
 
-![llmresourceshub](https://images-1252557999.file.myqcloud.com/uPic/eSgtB8.png) 
+![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
 
-### [darebee](https://darebee.com/)
+### [privacytools.io](https://www.privacytools.io/)
 
-一个教你正确运动姿势的网站：
+大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
 
-![darebee](https://images-1252557999.file.myqcloud.com/uPic/eIHdyQ.png) 
+![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
 
-### [myfreemp3juices](https://myfreemp3juices.cc/)
+### [SearchEmoji](https://searchemoji.app/)
 
-可以免费在线听&下载歌曲：
+`Emoji` 表情搜索网站，点击即可复制，颜值也不错海开源：
 
-![myfreemp3juices](https://images-1252557999.file.myqcloud.com/uPic/myfreemp3juices.jpg) 
+![searchemoji](https://images-1252557999.file.myqcloud.com/uPic/searchemoji.jpeg) 
 
 ## ✍️ 说明
 
