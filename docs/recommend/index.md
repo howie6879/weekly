@@ -5,87 +5,101 @@
 
 ## 🎯 项目 
 
-### [go-musicfox](https://github.com/go-musicfox/go-musicfox)
+### [markitdown](https://github.com/microsoft/markitdown)
 
-`go-musicfox`是用 Go 写的又一款网易云音乐命令行客户端，支持 `UnblockNeteaseMusic`、各种音质级别、`lastfm`、`MPRIS`、`MacOS` 交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）:
+ 微软出品的格式转化开源项目，它支持将多种文件格式（如 PDF、PowerPoint、Word、Excel、图片、音频、HTML、CSV、JSON、XML 以及 ZIP 文件）转换为 Markdown 格式，便于索引和文本分析等操作。用户可以通过命令行、Python API 或 Docker 容器来使用 MarkItDown。 
 
-![go-musicfox](https://images-1252557999.file.myqcloud.com/uPic/go-musicfox.png) 
+### [docker-cronicle](https://github.com/soulteary/docker-cronicle)
 
-### [pandora](https://github.com/pengzhile/pandora)
+`Cronjob` 定时任务 `Docker` 解决方案，提供了一个简介漂亮且轻量的 `WEB UI`：
 
-潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
+![docker-cronicle](https://images-1252557999.file.myqcloud.com/uPic/docker-cronicle.png) 
 
-![pandora](https://images-1252557999.file.myqcloud.com/uPic/pandora.png) 
+### [deepclaude](https://github.com/getasterisk/deepclaude)
 
-### [MindSearch](https://github.com/InternLM/MindSearch)
+`Aider` 团队最新研究通过[采用 DeepSeek R1 + Claude 3.5 Sonnet](https://aider.chat/2025/01/24/r1-sonnet.html) 可以实现最好的效果：
 
-开源的 Web 搜索引擎框架，它利用大型语言模型（LLM）和多智能体架构来提供高级搜索功能。该项目支持多种搜索引擎，如 `DuckDuckGo、Bing、Brave & Google`，您可以轻松部署它来构建您自己的搜索引擎：
+![deepclaude-web](https://images-1252557999.file.myqcloud.com/uPic/xFt7fe.png)
 
-![MindSearch](https://images-1252557999.file.myqcloud.com/uPic/8Q3zZx.png) 
+![deepclaude](https://images-1252557999.file.myqcloud.com/uPic/MNsnRO.png)
+
+相关资料：
+
+- [R1+Sonnet set SOTA on aider’s polyglot benchmark](https://aider.chat/2025/01/24/r1-sonnet.html)
+- [第三方 Python 实现](https://github.com/ErlichLiu/DeepClaude) 
 
 ## 🤖 软件 
 
-### [Thor](https://github.com/gbammc/Thor)
+### [MediaBox](https://github.com/RyensX/MediaBox)
 
-通过快捷键快速打开应用：
+全能媒体容器，插件化网罗天下媒体，畅快学习软件开发。实现了类似微信小程序的框架，只需要简单实现插件API提供数据到容器即可快速成型，方便学习爬虫、APP开发等。容器主要为插件提供以下服务：
 
-![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
+- 数据自动渲染到UI(视图组件)
+- 媒体收藏/历史记录
+- 周期性媒体数据检查服务(插件只需要实现媒体检查更新组件即可被主动检查更新)
+- 视频播放组件(播放器)，支持手势控制/夜间模式/弹幕/倍速控制/多集聚合/横竖旋转适应等
+- 私有可视化KV存储(插件私有配置)
+- 个人数据/插件云端备份(WebDav,开发中)
 
-### [listen1_desktop](https://github.com/listen1/listen1_desktop)
+简单来说，这款软件能看什么取决与你用什么插件：
 
-Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单，支持音乐平台：
+![MediaBox](https://images-1252557999.file.myqcloud.com/uPic/MediaBox.jpg) 
 
-- 网易云音乐
-- QQ 音乐
-- 酷狗音乐
-- 酷我音乐
-- bilibili
-- 咪咕音乐
-- 千千音乐
+### [my-tv](https://github.com/lizongying/my-tv)
 
-![listen1_desktop](https://images-1252557999.file.myqcloud.com/uPic/listen1_desktop.png) 
+安卓电视直播软件，内置直播源：
 
-### [GodMode](https://github.com/smol-ai/GodMode/)
+![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
 
-`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
+### [stretchly](https://github.com/hovancik/stretchly)
 
-![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
+`Stretchly` 是一个跨平台的 `Electron` 应用程序，它的核心功能就是让你在电脑上面工作时候设定休息&提醒时间：
+
+![stretchly](https://images-1252557999.file.myqcloud.com/uPic/stretchly.jpg) 
 
 ## 👀 资料 
 
-### [reversing](https://0xinfection.github.io/reversing/)
+### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
 
-免费电子书，面向所有人的逆向工程：
+ Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
 
-![reversing](https://images-1252557999.file.myqcloud.com/uPic/reversing.jpg) 
+ ![rust_embedded_dev](https://images-1252557999.file.myqcloud.com/uPic/rust_embedded_dev.jpg) 
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+### [rosedb](https://github.com/flower-corp/rosedb)
 
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
 
-### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
+![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
 
-这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
+作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
+
+### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
+
+《Linear Algebra for Everyone》公开课的图解笔记：
+
+![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
 
 ## 🕸 网站 
 
-### [huawei-od](https://huawei-od.vercel.app/)
+### [lz.qaiu.top](https://lz.qaiu.top/)
 
-牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
+`NFD` 网盘直链解析，目前支持 蓝奏云/蓝奏云优享/小飞机盘/123云盘/奶牛快传/移动云云空间/亿方云/文叔叔/QQ邮箱文件中转站：
 
-![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
+![netdisk](https://images-1252557999.file.myqcloud.com/uPic/v8jmto.png)
 
-### [privacytools.io](https://www.privacytools.io/)
+代码开源在：[netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download?tab=readme-ov-file)。 
 
-大部分软件都在监控你的一些隐私数据，这个网站基于数据安全的前提罗列了一些软件的替代品：
+### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
 
-![privacytools](https://images-1252557999.file.myqcloud.com/uPic/privacytools.jpg) 
+冰霜大佬的博客：
 
-### [SearchEmoji](https://searchemoji.app/)
+![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
 
-`Emoji` 表情搜索网站，点击即可复制，颜值也不错海开源：
+### [AI 头像生成器](https://ai-headshot-generator.net/cn)
 
-![searchemoji](https://images-1252557999.file.myqcloud.com/uPic/searchemoji.jpeg) 
+在线创建最佳 AI 头像：
+
+![ai-headshot-generator.net](https://images-1252557999.file.myqcloud.com/uPic/DVnp5s.png) 
 
 ## ✍️ 说明
 
