@@ -5,101 +5,85 @@
 
 ## 🎯 项目 
 
-### [markitdown](https://github.com/microsoft/markitdown)
+### [ddns-go](https://github.com/jeessy2/ddns-go)
 
- 微软出品的格式转化开源项目，它支持将多种文件格式（如 PDF、PowerPoint、Word、Excel、图片、音频、HTML、CSV、JSON、XML 以及 ZIP 文件）转换为 Markdown 格式，便于索引和文本分析等操作。用户可以通过命令行、Python API 或 Docker 容器来使用 MarkItDown。 
+简单好用的 `DDNS`，自动更新域名解析到公网IP(支持阿里云、腾讯云 `dnspod`、`Cloudflare`、华为云、百度云、`porkbun`)：
 
-### [docker-cronicle](https://github.com/soulteary/docker-cronicle)
+![ddns-go](https://images-1252557999.file.myqcloud.com/uPic/ddns-go.png) 
 
-`Cronjob` 定时任务 `Docker` 解决方案，提供了一个简介漂亮且轻量的 `WEB UI`：
+### [ladder](https://github.com/everywall/ladder)
 
-![docker-cronicle](https://images-1252557999.file.myqcloud.com/uPic/docker-cronicle.png) 
+[12ft.io](https://12ft.io/) 的开源替代品，助你越过付费墙，也可以给你干净的阅读体验。
 
-### [deepclaude](https://github.com/getasterisk/deepclaude)
+![ladder](https://images-1252557999.file.myqcloud.com/uPic/ladder.jpg) 
 
-`Aider` 团队最新研究通过[采用 DeepSeek R1 + Claude 3.5 Sonnet](https://aider.chat/2025/01/24/r1-sonnet.html) 可以实现最好的效果：
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 
-![deepclaude-web](https://images-1252557999.file.myqcloud.com/uPic/xFt7fe.png)
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
 
-![deepclaude](https://images-1252557999.file.myqcloud.com/uPic/MNsnRO.png)
-
-相关资料：
-
-- [R1+Sonnet set SOTA on aider’s polyglot benchmark](https://aider.chat/2025/01/24/r1-sonnet.html)
-- [第三方 Python 实现](https://github.com/ErlichLiu/DeepClaude) 
+![AI-Writer](https://images-1252557999.file.myqcloud.com/uPic/AI-Writer.jpeg) 
 
 ## 🤖 软件 
 
-### [MediaBox](https://github.com/RyensX/MediaBox)
+### [squawker](https://github.com/j-fbriere/squawker)
 
-全能媒体容器，插件化网罗天下媒体，畅快学习软件开发。实现了类似微信小程序的框架，只需要简单实现插件API提供数据到容器即可快速成型，方便学习爬虫、APP开发等。容器主要为插件提供以下服务：
+一个开源的隐私导向的 `Twitter/X` 客户端：
 
-- 数据自动渲染到UI(视图组件)
-- 媒体收藏/历史记录
-- 周期性媒体数据检查服务(插件只需要实现媒体检查更新组件即可被主动检查更新)
-- 视频播放组件(播放器)，支持手势控制/夜间模式/弹幕/倍速控制/多集聚合/横竖旋转适应等
-- 私有可视化KV存储(插件私有配置)
-- 个人数据/插件云端备份(WebDav,开发中)
+![squawker](https://images-1252557999.file.myqcloud.com/uPic/mL6QyN.png) 
 
-简单来说，这款软件能看什么取决与你用什么插件：
+### [Maccy](https://github.com/p0deje/Maccy)
 
-![MediaBox](https://images-1252557999.file.myqcloud.com/uPic/MediaBox.jpg) 
+轻量级macOS剪切板管理应用：
 
-### [my-tv](https://github.com/lizongying/my-tv)
+![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
+使用截图如下：
 
-安卓电视直播软件，内置直播源：
+![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
 
-![my-tv](https://images-1252557999.file.myqcloud.com/uPic/my-tv.jpg) 
+### [openai-translator](https://github.com/yetone/openai-translator)
 
-### [stretchly](https://github.com/hovancik/stretchly)
+基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用：
 
-`Stretchly` 是一个跨平台的 `Electron` 应用程序，它的核心功能就是让你在电脑上面工作时候设定休息&提醒时间：
-
-![stretchly](https://images-1252557999.file.myqcloud.com/uPic/stretchly.jpg) 
+![openai_translator](https://images-1252557999.file.myqcloud.com/uPic/openai_translator.jpg)
+如果你还使用 bob 软件进行翻译，可以考虑使用这个插件：[bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)：基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。 
 
 ## 👀 资料 
 
-### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
+### [Student-resources](https://github.com/ivmm/Student-resources)
 
- Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
+本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
 
- ![rust_embedded_dev](https://images-1252557999.file.myqcloud.com/uPic/rust_embedded_dev.jpg) 
+### [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/)
 
-### [rosedb](https://github.com/flower-corp/rosedb)
+命令行的数据科学，本书演示了如何通过命令行的灵活性帮你成为更高效、更有生产力的数据科学家。
 
-`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
+![telegram-cloud-photo-size-5-6181558086683180904-y](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6181558086683180904-y.jpg) 
 
-![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
+### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
 
-作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
+Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
 
-### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
-
-《Linear Algebra for Everyone》公开课的图解笔记：
-
-![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
+![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
 
 ## 🕸 网站 
 
-### [lz.qaiu.top](https://lz.qaiu.top/)
+### [yima.me](https://yima.me/)
 
-`NFD` 网盘直链解析，目前支持 蓝奏云/蓝奏云优享/小飞机盘/123云盘/奶牛快传/移动云云空间/亿方云/文叔叔/QQ邮箱文件中转站：
+免费生成 `AI` 艺术二维码：
 
-![netdisk](https://images-1252557999.file.myqcloud.com/uPic/v8jmto.png)
+![yima](https://images-1252557999.file.myqcloud.com/uPic/yima.png) 
 
-代码开源在：[netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download?tab=readme-ov-file)。 
+### [meiriyiwen](https://meiriyiwen.com/)
 
-### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
+每天一篇随机散文：
 
-冰霜大佬的博客：
+![meiriyiwen](https://images-1252557999.file.myqcloud.com/uPic/meiriyiwen.jpg) 
 
-![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
+### [kanmaoxian.online](https://kanmaoxian.online)
 
-### [AI 头像生成器](https://ai-headshot-generator.net/cn)
+基于开源项目 [LibreTV](https://github.com/LibreSpark/LibreTV) 开源项目搭建的影视在线网站，大家默默使用就好，网页打开，输入密码：**kanmaoxian**：
 
-在线创建最佳 AI 头像：
-
-![ai-headshot-generator.net](https://images-1252557999.file.myqcloud.com/uPic/DVnp5s.png) 
+![kanmaoxian](https://images-1252557999.file.myqcloud.com/uPic/YkTBsY.png) 
 
 ## ✍️ 说明
 
