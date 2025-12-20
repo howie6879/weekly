@@ -5,85 +5,84 @@
 
 ## 🎯 项目 
 
-### [ddns-go](https://github.com/jeessy2/ddns-go)
+### [zcf](https://github.com/UfoMiao/zcf)
 
-简单好用的 `DDNS`，自动更新域名解析到公网IP(支持阿里云、腾讯云 `dnspod`、`Cloudflare`、华为云、百度云、`porkbun`)：
+`UfoMiao/zcf` 是一个零配置的 `Claude` 代码流程工具，支持多语言操作，提供了一个交互式菜单来简化安装和配置流程，包括安装 `Claude Code`、导入工作流程、配置 `API` 或 `CCR` 代理、设置 `MCP` 服务、选择默认模型、配置 AI 记忆以及安装其他辅助工具等功能。
 
-![ddns-go](https://images-1252557999.file.myqcloud.com/uPic/ddns-go.png) 
+![zcf](https://images-1252557999.file.myqcloud.com/uPic/6o2Sqw.png) 
 
-### [ladder](https://github.com/everywall/ladder)
+### [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
 
-[12ft.io](https://12ft.io/) 的开源替代品，助你越过付费墙，也可以给你干净的阅读体验。
+`ArchiveBox` 是一个强大的、可自建的互联网归档解决方案，可以收集、保存和查看你想离线保存的网站：
 
-![ladder](https://images-1252557999.file.myqcloud.com/uPic/ladder.jpg) 
+![ArchiveBox](https://images-1252557999.file.myqcloud.com/uPic/ArchiveBox.jpg) 
 
-### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
+### [mcp-playwright](https://github.com/executeautomation/mcp-playwright)
 
-AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+基于 `Playwright` 的模型上下文协议服务器，用于自动化浏览器和 `API`：
 
-![AI-Writer](https://images-1252557999.file.myqcloud.com/uPic/AI-Writer.jpeg) 
+![mcp-playwright](https://img.api123.pro/i/2025/03/15/67d500afc9275.png) 
 
 ## 🤖 软件 
 
-### [squawker](https://github.com/j-fbriere/squawker)
+### [Imagine](https://github.com/meowtec/Imagine)
 
-一个开源的隐私导向的 `Twitter/X` 客户端：
+全平台支持的图片压缩软件：
 
-![squawker](https://images-1252557999.file.myqcloud.com/uPic/mL6QyN.png) 
+![Imagine](https://images-1252557999.file.myqcloud.com/uPic/KrSb9L.png)
 
-### [Maccy](https://github.com/p0deje/Maccy)
+看看这86%的压缩率还是挺上头的，而且效果很好。 
 
-轻量级macOS剪切板管理应用：
+### [dockit](https://github.com/geek-fun/dockit)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
-使用截图如下：
+一个跨平台的图形用户界面客户端，支持 `Elasticsearch` 和 `Opensearch` 数据库管理。
 
-![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
+![dockit](https://images-1252557999.file.myqcloud.com/uPic/apAgUR.png) 
 
-### [openai-translator](https://github.com/yetone/openai-translator)
+### [dockeye](https://github.com/vv9k/dockeye)
 
-基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用：
+基于`Rust`编写的`Docker`界面管理工具：
 
-![openai_translator](https://images-1252557999.file.myqcloud.com/uPic/openai_translator.jpg)
-如果你还使用 bob 软件进行翻译，可以考虑使用这个插件：[bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)：基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。 
+![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
 
 ## 👀 资料 
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+技术面试最后反问面试官的话。 
 
-### [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/)
+### [howtheytest](https://github.com/abhivaikar/howtheytest)
 
-命令行的数据科学，本书演示了如何通过命令行的灵活性帮你成为更高效、更有生产力的数据科学家。
+关于软件公司如何测试其软件的公共资源集合：
 
-![telegram-cloud-photo-size-5-6181558086683180904-y](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6181558086683180904-y.jpg) 
+![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
 
-### [Google 工程实践文档](https://jimmysong.io/eng-practices/)
+### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
-Google 在 GitHub 开源的一份工程实践文档：《Google 工程实践文档》，此文档为 Google 工程师长期累积的最佳实践，希望通过这份文档，能帮助更多开发者完成代码审查工作，为项目代码提供标准参考。
+代码整洁之道（javascript版本）：
 
-![eng-practices](https://images-1252557999.file.myqcloud.com/uPic/rDrm0R.png) 
+- [英文版-clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [中文版-clean-code-js](https://github.com/alivebao/clean-code-js) 
 
 ## 🕸 网站 
 
-### [yima.me](https://yima.me/)
+### [devdocs](https://devdocs.io/)
 
-免费生成 `AI` 艺术二维码：
+提供在线快速查找API接口文档的网站：
 
-![yima](https://images-1252557999.file.myqcloud.com/uPic/yima.png) 
+![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
 
-### [meiriyiwen](https://meiriyiwen.com/)
+### [toptimeline](https://toptimeline.net/zh)
 
-每天一篇随机散文：
+探索世界最著名的流行歌手、运动员和历史人物的关键事件与个人里程碑：
 
-![meiriyiwen](https://images-1252557999.file.myqcloud.com/uPic/meiriyiwen.jpg) 
+![toptimeline](https://images-1252557999.file.myqcloud.com/uPic/crwphb.png) 
 
-### [kanmaoxian.online](https://kanmaoxian.online)
+### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
 
-基于开源项目 [LibreTV](https://github.com/LibreSpark/LibreTV) 开源项目搭建的影视在线网站，大家默默使用就好，网页打开，输入密码：**kanmaoxian**：
+老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
 
-![kanmaoxian](https://images-1252557999.file.myqcloud.com/uPic/YkTBsY.png) 
+![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
 
 ## ✍️ 说明
 
