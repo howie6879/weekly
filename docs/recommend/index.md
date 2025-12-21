@@ -5,84 +5,105 @@
 
 ## 🎯 项目 
 
-### [zcf](https://github.com/UfoMiao/zcf)
+### [cap](https://github.com/tiagorangel1/cap)
 
-`UfoMiao/zcf` 是一个零配置的 `Claude` 代码流程工具，支持多语言操作，提供了一个交互式菜单来简化安装和配置流程，包括安装 `Claude Code`、导入工作流程、配置 `API` 或 `CCR` 代理、设置 `MCP` 服务、选择默认模型、配置 AI 记忆以及安装其他辅助工具等功能。
+`Cap` 是一个轻量级、现代的开源 `CAPTCHA` 替代方案:
 
-![zcf](https://images-1252557999.file.myqcloud.com/uPic/6o2Sqw.png) 
+![cap](https://images-1252557999.file.myqcloud.com/uPic/CTyPFB.png) 
 
-### [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
+### [zane-ops](https://github.com/zane-ops/zane-ops)
 
-`ArchiveBox` 是一个强大的、可自建的互联网归档解决方案，可以收集、保存和查看你想离线保存的网站：
+`zaneops` 是一个自托管的平台即服务（PaaS），它提供了一个用于部署和管理 Web 应用、数据库、静态网站等的平台：
 
-![ArchiveBox](https://images-1252557999.file.myqcloud.com/uPic/ArchiveBox.jpg) 
+- 界面美观、速度快速，完全免费且开源
+- 支持多种服务的部署，包括但不限于 Supabase、WordPress、Ghost 等
 
-### [mcp-playwright](https://github.com/executeautomation/mcp-playwright)
+![zaneops](https://images-1252557999.file.myqcloud.com/uPic/mal2TN.png) 
 
-基于 `Playwright` 的模型上下文协议服务器，用于自动化浏览器和 `API`：
+### [zealot](https://github.com/tryzealot/zealot)
 
-![mcp-playwright](https://img.api123.pro/i/2025/03/15/67d500afc9275.png) 
+开源自部署持续集成一切跟应用有关事情，接入任意 CI 系统一切自动化处理，企业多年实战经验，独立部署提供企业打包分发流程、上传应用全套流程方案 En Taro Adun! 🖖
+
+- 🌏 多平台应用托管: macOS、iOS、Android（apk/aab）、Windows、Linux 泛平台
+- 📱 测试设备一网打进: 自动同步 iOS 测试设备信息，允许一键注册新设备到苹果开发者
+- 🧑‍💻 丰富开发者套件: 提供 REST API、iOS、Android SDK 以及 fastlane 自动化构建插件
+- 💥 剖析应用内部的秘密: 解读 iOS、Android 应用或 iOS 描述文件的元信息
+- 🚨 内置多种事件通知: 数据可自定义 Income WebHook 到任意通知服务
+- 🗄 多渠道分类管理: 自由划分不同场景不同产品形态的应用渠道管理
+- 🎳 多架构部署: amd86/arm64/armv7 及各种部署方案应有尽有
+- 🔑 第三方登录: 飞书、Gitlab、Google、LDAP 和 OIDC 一键授权
+- 🌑 黑暗模式: 黑夜白昼自由切换
+
+![zealot](https://images-1252557999.file.myqcloud.com/uPic/zealot.png) 
 
 ## 🤖 软件 
 
-### [Imagine](https://github.com/meowtec/Imagine)
+### [weektodo](https://weektodo.me/)
 
-全平台支持的图片压缩软件：
+`WeekToDo` 是一个免费且开源&跨平台的极简周计划软件，您可以以简单直观的方式定义和管理您的周计划和任务，从而提高您的工作效率：
 
-![Imagine](https://images-1252557999.file.myqcloud.com/uPic/KrSb9L.png)
+![weektodo](https://images-1252557999.file.myqcloud.com/uPic/weektodo.jpg) 
 
-看看这86%的压缩率还是挺上头的，而且效果很好。 
+### [alacritty](https://github.com/alacritty/alacritty)
 
-### [dockit](https://github.com/geek-fun/dockit)
+一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
 
-一个跨平台的图形用户界面客户端，支持 `Elasticsearch` 和 `Opensearch` 数据库管理。
+我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
 
-![dockit](https://images-1252557999.file.myqcloud.com/uPic/apAgUR.png) 
+![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
 
-### [dockeye](https://github.com/vv9k/dockeye)
+### [biyi](https://github.com/lijy91/biyi)
 
-基于`Rust`编写的`Docker`界面管理工具：
+比译是一个用 `Flutter` 编写的跨平台便捷翻译和词典应用：
 
-![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
+![biyi](https://images-1252557999.file.myqcloud.com/uPic/biyi.jpg) 
 
 ## 👀 资料 
 
-### [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
+### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
 
-技术面试最后反问面试官的话。 
+《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
 
-### [howtheytest](https://github.com/abhivaikar/howtheytest)
+![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
 
-关于软件公司如何测试其软件的公共资源集合：
+### [GPU 编程视频](https://www.youtube.com/playlist?list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j)
 
-![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
+可视化 `GPU` 编程教程：
 
-### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+![GPU-programming](https://images-1252557999.file.myqcloud.com/uPic/f1S0iU.png) 
 
-代码整洁之道（javascript版本）：
+### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
 
-- [英文版-clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-- [中文版-clean-code-js](https://github.com/alivebao/clean-code-js) 
+本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
+
+- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
+- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
+- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
+
+![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
 
 ## 🕸 网站 
 
-### [devdocs](https://devdocs.io/)
+### [choosealicense](https://choosealicense.com/)
 
-提供在线快速查找API接口文档的网站：
+`choosealicense` 帮助您轻松选择和一键复制开源协议：
 
-![devdocs](https://images-1252557999.file.myqcloud.com/uPic/devdocs.jpg) 
+![choosealicense](https://images-1252557999.file.myqcloud.com/uPic/RW33E0.png) 
 
-### [toptimeline](https://toptimeline.net/zh)
+### [tldraw](https://www.tldraw.com/)
 
-探索世界最著名的流行歌手、运动员和历史人物的关键事件与个人里程碑：
+小巧强大的在线绘图工具：
 
-![toptimeline](https://images-1252557999.file.myqcloud.com/uPic/crwphb.png) 
+![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
 
-### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
+### [tgscan](https://tgscan.xyz/)
 
-老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
+免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
 
-![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
+- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
+- 网页：[tgscan.xyz](https://tgscan.xyz/)
+
+![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
 
 ## ✍️ 说明
 
