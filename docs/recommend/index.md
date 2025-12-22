@@ -5,105 +5,87 @@
 
 ## 🎯 项目 
 
-### [cap](https://github.com/tiagorangel1/cap)
+### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
 
-`Cap` 是一个轻量级、现代的开源 `CAPTCHA` 替代方案:
+`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
 
-![cap](https://images-1252557999.file.myqcloud.com/uPic/CTyPFB.png) 
+![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
 
-### [zane-ops](https://github.com/zane-ops/zane-ops)
+### [crawlee](https://crawlee.dev/)
 
-`zaneops` 是一个自托管的平台即服务（PaaS），它提供了一个用于部署和管理 Web 应用、数据库、静态网站等的平台：
+基于 `Node` 编写的开源网络爬虫库：
 
-- 界面美观、速度快速，完全免费且开源
-- 支持多种服务的部署，包括但不限于 Supabase、WordPress、Ghost 等
+![crawlee](https://images-1252557999.file.myqcloud.com/uPic/crawlee.jpg) 
 
-![zaneops](https://images-1252557999.file.myqcloud.com/uPic/mal2TN.png) 
+### [search_with_lepton](https://github.com/leptonai/search_with_lepton)
 
-### [zealot](https://github.com/tryzealot/zealot)
+`AI` 大神贾扬清用500行代码打造 `AI` 搜索引擎  `Demo`，登顶 `GitHub` 热榜，证明构建AI应用并非难事：
 
-开源自部署持续集成一切跟应用有关事情，接入任意 CI 系统一切自动化处理，企业多年实战经验，独立部署提供企业打包分发流程、上传应用全套流程方案 En Taro Adun! 🖖
+![search_with_lepton](https://images-1252557999.file.myqcloud.com/uPic/search_with_lepton.png)
 
-- 🌏 多平台应用托管: macOS、iOS、Android（apk/aab）、Windows、Linux 泛平台
-- 📱 测试设备一网打进: 自动同步 iOS 测试设备信息，允许一键注册新设备到苹果开发者
-- 🧑‍💻 丰富开发者套件: 提供 REST API、iOS、Android SDK 以及 fastlane 自动化构建插件
-- 💥 剖析应用内部的秘密: 解读 iOS、Android 应用或 iOS 描述文件的元信息
-- 🚨 内置多种事件通知: 数据可自定义 Income WebHook 到任意通知服务
-- 🗄 多渠道分类管理: 自由划分不同场景不同产品形态的应用渠道管理
-- 🎳 多架构部署: amd86/arm64/armv7 及各种部署方案应有尽有
-- 🔑 第三方登录: 飞书、Gitlab、Google、LDAP 和 OIDC 一键授权
-- 🌑 黑暗模式: 黑夜白昼自由切换
+同种类型应用参考：
 
-![zealot](https://images-1252557999.file.myqcloud.com/uPic/zealot.png) 
+- https://www.perplexity.ai
+- https://devv.ai/ 
 
 ## 🤖 软件 
 
-### [weektodo](https://weektodo.me/)
+### [VutronMusic](https://github.com/stark81/VutronMusic)
 
-`WeekToDo` 是一个免费且开源&跨平台的极简周计划软件，您可以以简单直观的方式定义和管理您的周计划和任务，从而提高您的工作效率：
+高颜值的跨平台第三方网易云播放器；支持流媒体音乐，如navidrome、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome桌面状态栏歌词显示；支持降调降速等。
 
-![weektodo](https://images-1252557999.file.myqcloud.com/uPic/weektodo.jpg) 
+![VutronMusic](https://images-1252557999.file.myqcloud.com/uPic/mLYjZO.png) 
 
-### [alacritty](https://github.com/alacritty/alacritty)
+### [Mist](https://github.com/ninxsoft/Mist)
 
-一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
+一个自动下载 `macOS` 固件/安装程序的 `Mac` 实用工具，`macOS` 安装程序超级工具：
 
-我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
+![Mist](https://images-1252557999.file.myqcloud.com/uPic/Mist.png) 
 
-![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
+### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
 
-### [biyi](https://github.com/lijy91/biyi)
+免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
 
-比译是一个用 `Flutter` 编写的跨平台便捷翻译和词典应用：
-
-![biyi](https://images-1252557999.file.myqcloud.com/uPic/biyi.jpg) 
+![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
 
 ## 👀 资料 
 
-### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
+### [kubernetes-for-ml-engineers](https://github.com/Paulescu/kubernetes-for-ml-engineers)
 
-《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
+为机器学习工程师量身打造的Kubernetes入门指南。 
 
-![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
+### [fun-rec](https://github.com/datawhalechina/fun-rec/)
 
-### [GPU 编程视频](https://www.youtube.com/playlist?list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j)
+本[教程](https://datawhalechina.github.io/fun-rec/#/)主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。
 
-可视化 `GPU` 编程教程：
+![fun-rec](https://images-1252557999.file.myqcloud.com/uPic/fun-rec.jpg) 
 
-![GPU-programming](https://images-1252557999.file.myqcloud.com/uPic/f1S0iU.png) 
+### [王慧文的清华产品课笔记](https://pan.quark.cn/s/f48705d07a3f)
 
-### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
+美团元老王慧文的清华产品课笔记，涵盖产品、战略、运营、需求、供需关系等多方面内容，阅读地址：
 
-本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
-
-- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
-- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
-- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
-
-![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
+- [飞书在线](https://nanqiang.feishu.cn/wiki/wikcncDyFTq1agB5UaEZnUGZD4g)
+-  [PDF 下载](https://pan.quark.cn/s/f48705d07a3f) 
 
 ## 🕸 网站 
 
-### [choosealicense](https://choosealicense.com/)
+### [uiverse.io](https://uiverse.io/)
 
-`choosealicense` 帮助您轻松选择和一键复制开源协议：
+一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
 
-![choosealicense](https://images-1252557999.file.myqcloud.com/uPic/RW33E0.png) 
+![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
 
-### [tldraw](https://www.tldraw.com/)
+### [toolfinder](https://toolfinder.xyz/)
 
-小巧强大的在线绘图工具：
+生产力工具的维基百科：
 
-![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
+![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
 
-### [tgscan](https://tgscan.xyz/)
+### [websequencediagrams](https://www.websequencediagrams.com/)
 
-免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
+提供在线绘制时序图的网站：
 
-- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
-- 网页：[tgscan.xyz](https://tgscan.xyz/)
-
-![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
 ## ✍️ 说明
 
