@@ -5,87 +5,97 @@
 
 ## 🎯 项目 
 
-### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
+### [telegram-files](https://github.com/jarvis2f/telegram-files)
 
-`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
+从 Telegram 频道和群组下载文件的开源项目，支持多账号并确保文件不会重复下载，具备下载暂停和继续的功能：
 
-![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
+![telegram-files](https://images-1252557999.file.myqcloud.com/uPic/O7wvH0.png) 
 
-### [crawlee](https://crawlee.dev/)
+### [H5-Dooring](https://github.com/MrXujiang/h5-Dooring)
 
-基于 `Node` 编写的开源网络爬虫库：
+让 H5 制作像搭积木一样简单，轻松搭建 H5 页面：
 
-![crawlee](https://images-1252557999.file.myqcloud.com/uPic/crawlee.jpg) 
+![H5-Dooring](https://images-1252557999.file.myqcloud.com/uPic/QtWiIc.png) 
 
-### [search_with_lepton](https://github.com/leptonai/search_with_lepton)
+### [instantbox](https://github.com/instantbox/instantbox)
 
-`AI` 大神贾扬清用500行代码打造 `AI` 搜索引擎  `Demo`，登顶 `GitHub` 热榜，证明构建AI应用并非难事：
+可以在任意浏览器中快速启动临时 `Linux` 系统并提供即时 `webshell` 访问，它可用于演示、教学、灵感迸发时提供干净环境、设备管理、开源项目实验及软件性能测试等多种用途。支持的 Linux 发行版包括 Ubuntu、CentOS、Arch Linux、Debian、Fedora 和 Alpine。
 
-![search_with_lepton](https://images-1252557999.file.myqcloud.com/uPic/search_with_lepton.png)
-
-同种类型应用参考：
-
-- https://www.perplexity.ai
-- https://devv.ai/ 
+![instantbox](https://images-1252557999.file.myqcloud.com/uPic/instantbox.jpg) 
 
 ## 🤖 软件 
 
-### [VutronMusic](https://github.com/stark81/VutronMusic)
+### [Speechless](https://github.com/meterscao/Speechless)
 
-高颜值的跨平台第三方网易云播放器；支持流媒体音乐，如navidrome、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome桌面状态栏歌词显示；支持降调降速等。
+`Speechless` 是一个帮助新浪微博用户，把微博内容导出成 `PDF` 进行本地备份的 `Chrome Extension`：
 
-![VutronMusic](https://images-1252557999.file.myqcloud.com/uPic/mLYjZO.png) 
+![Speechless](https://images-1252557999.file.myqcloud.com/uPic/Speechless.jpeg) 
 
-### [Mist](https://github.com/ninxsoft/Mist)
+### [weektodo](https://weektodo.me/)
 
-一个自动下载 `macOS` 固件/安装程序的 `Mac` 实用工具，`macOS` 安装程序超级工具：
+`WeekToDo` 是一个免费且开源&跨平台的极简周计划软件，您可以以简单直观的方式定义和管理您的周计划和任务，从而提高您的工作效率：
 
-![Mist](https://images-1252557999.file.myqcloud.com/uPic/Mist.png) 
+![weektodo](https://images-1252557999.file.myqcloud.com/uPic/weektodo.jpg) 
 
-### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
-免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
+`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
 
-![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
+![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
 
 ## 👀 资料 
 
-### [kubernetes-for-ml-engineers](https://github.com/Paulescu/kubernetes-for-ml-engineers)
+### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-为机器学习工程师量身打造的Kubernetes入门指南。 
+24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
 
-### [fun-rec](https://github.com/datawhalechina/fun-rec/)
+![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
 
-本[教程](https://datawhalechina.github.io/fun-rec/#/)主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。
+### [ascoders/weekly](https://github.com/ascoders/weekly)
 
-![fun-rec](https://images-1252557999.file.myqcloud.com/uPic/fun-rec.jpg) 
+前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
 
-### [王慧文的清华产品课笔记](https://pan.quark.cn/s/f48705d07a3f)
+- 前沿技术
+- 设计模式
+- 编译原理
+- 源码解读
+- 商业思考
+- 算法
 
-美团元老王慧文的清华产品课笔记，涵盖产品、战略、运营、需求、供需关系等多方面内容，阅读地址：
+非常全面，前端从事人员可以看看。 
 
-- [飞书在线](https://nanqiang.feishu.cn/wiki/wikcncDyFTq1agB5UaEZnUGZD4g)
--  [PDF 下载](https://pan.quark.cn/s/f48705d07a3f) 
+### [paper-reading](https://github.com/mli/paper-reading)
+
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
+
+![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
 
 ## 🕸 网站 
 
-### [uiverse.io](https://uiverse.io/)
+### [动漫新番表](https://www.fre123.com/anime/n)
 
-一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
+继上周做了[动漫搜索引擎](https://www.fre123.com/anime/s)后，老胡这次整了个动漫新番信息记录网站，新番信息脚本和数据都是开源的👉[fre123-anime](https://github.com/fre123-com/fre123-anime)，欢迎体验：
 
-![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
+![fre123_anime_n](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime_n.jpg) 
 
-### [toolfinder](https://toolfinder.xyz/)
+### [calmcode](https://calmcode.io/)
 
-生产力工具的维基百科：
+非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
 
-![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
+![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+### [文学网](https://www.hwxnet.com/)
 
-提供在线绘制时序图的网站：
+文学相关工具在线网站：
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
+
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
 ## ✍️ 说明
 
