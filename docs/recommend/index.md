@@ -5,97 +5,85 @@
 
 ## 🎯 项目 
 
-### [telegram-files](https://github.com/jarvis2f/telegram-files)
+### [markmap](https://github.com/gera2ld/markmap)
 
-从 Telegram 频道和群组下载文件的开源项目，支持多账号并确保文件不会重复下载，具备下载暂停和继续的功能：
+可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
 
-![telegram-files](https://images-1252557999.file.myqcloud.com/uPic/O7wvH0.png) 
+![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
 
-### [H5-Dooring](https://github.com/MrXujiang/h5-Dooring)
+### [manifest](https://github.com/jonathontoon/manifest)
 
-让 H5 制作像搭积木一样简单，轻松搭建 H5 页面：
+本周最喜欢的一个项目，这是一个基于网格的即时便签板，可随时在浏览器中记笔记，相当于浏览器便签，虽然项目不更新了，但是功能基本完成，值得一试：
 
-![H5-Dooring](https://images-1252557999.file.myqcloud.com/uPic/QtWiIc.png) 
+![manifest](https://images-1252557999.file.myqcloud.com/uPic/manifest.jpg) 
 
-### [instantbox](https://github.com/instantbox/instantbox)
+### [shiori](https://github.com/go-shiori/shiori)
 
-可以在任意浏览器中快速启动临时 `Linux` 系统并提供即时 `webshell` 访问，它可用于演示、教学、灵感迸发时提供干净环境、设备管理、开源项目实验及软件性能测试等多种用途。支持的 Linux 发行版包括 Ubuntu、CentOS、Arch Linux、Debian、Fedora 和 Alpine。
+开源自部署的书签管理服务：
 
-![instantbox](https://images-1252557999.file.myqcloud.com/uPic/instantbox.jpg) 
+![shiori](https://images-1252557999.file.myqcloud.com/uPic/shiori.jpg) 
 
 ## 🤖 软件 
 
-### [Speechless](https://github.com/meterscao/Speechless)
+### [shottr](https://shottr.cc/)
 
-`Speechless` 是一个帮助新浪微博用户，把微博内容导出成 `PDF` 进行本地备份的 `Chrome Extension`：
+免费截屏软件（macOS）：
 
-![Speechless](https://images-1252557999.file.myqcloud.com/uPic/Speechless.jpeg) 
+![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
 
-### [weektodo](https://weektodo.me/)
+### [AIaW](https://github.com/NitroRCr/AIaW)
 
-`WeekToDo` 是一个免费且开源&跨平台的极简周计划软件，您可以以简单直观的方式定义和管理您的周计划和任务，从而提高您的工作效率：
+`AI as Workspace` - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步：
 
-![weektodo](https://images-1252557999.file.myqcloud.com/uPic/weektodo.jpg) 
+![AIaW](https://images-1252557999.file.myqcloud.com/uPic/n5l83s.png) 
 
-### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
+### [bilibili-youtube-danmaku](https://github.com/ahaduoduoduo/bilibili-youtube-danmaku)
 
-`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
+🍻关注的 UP 在 Youtube 和 B 站都有投稿，想在 Youtube 看更好的画质又想看弹幕🤔？
 
-![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
+让 YouTube 视频也能拥有 B 站的弹幕氛围！ 关联 B 站 UP 主或手动输入视频链接，同步弹幕到 YouTube 播放页面～
+
+![bilibili-youtube-danmaku](https://images-1252557999.file.myqcloud.com/uPic/Z3a6RM.png) 
 
 ## 👀 资料 
 
-### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+### [pdai](https://pdai.tech/)
 
-24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
+Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
 
-![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
+![pdai](https://images-1252557999.file.myqcloud.com/uPic/8oZW41.png) 
 
-### [ascoders/weekly](https://github.com/ascoders/weekly)
+### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
-前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
+LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
 
-- 前沿技术
-- 设计模式
-- 编译原理
-- 源码解读
-- 商业思考
-- 算法
+### [nlp-with-transformers](https://github.com/nlp-with-transformers)
 
-非常全面，前端从事人员可以看看。 
+书籍《基于Transformers的自然语言处理》的代码仓库：
 
-### [paper-reading](https://github.com/mli/paper-reading)
-
-深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
-
-![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/A6MiF5.jpg) 
 
 ## 🕸 网站 
 
-### [动漫新番表](https://www.fre123.com/anime/n)
+### [sayhello](https://beta.sayhello.so/)
 
-继上周做了[动漫搜索引擎](https://www.fre123.com/anime/s)后，老胡这次整了个动漫新番信息记录网站，新番信息脚本和数据都是开源的👉[fre123-anime](https://github.com/fre123-com/fre123-anime)，欢迎体验：
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-![fre123_anime_n](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime_n.jpg) 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
-### [calmcode](https://calmcode.io/)
+### [open-slum.org](https://open-slum.org/)
 
-非常适合Python开发者的一个学习网站，里面通过短视频介绍了各种有用的工具，看了几分钟就可以上手，能快速扩充你的知识面。
+`SLUM` 网站实时监控多个流行的隐蔽图书馆（如 Anna's Archive、Library Genesis、Sci-Hub 等）的可用性，并提供这些服务的运行状况、证书有效期以及最近的更新时间。
 
-![calmcode](https://images-1252557999.file.myqcloud.com/uPic/xjvt2J.png) 
+因为这些网站经常**意外**失效，也很容易被钓鱼，所以这个网站很有用：
 
-### [文学网](https://www.hwxnet.com/)
+![open-slum.org](https://images-1252557999.file.myqcloud.com/uPic/PzpYfd.png) 
 
-文学相关工具在线网站：
+### [smartexcel](https://www.smartexcel.cc/)
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
+使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
 
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
 
 ## ✍️ 说明
 
