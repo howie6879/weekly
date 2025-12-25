@@ -5,85 +5,91 @@
 
 ## 🎯 项目 
 
-### [markmap](https://github.com/gera2ld/markmap)
+### [stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
 
-可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
+基于 `Docker` 的一站式 `Stable Diffusion`（最近很火的 AI 文字生成图片的模型）安装包，可提供以下多个 `UI` 可选：
 
-![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
+- [sygil-webui](https://github.com/Sygil-Dev/sygil-webui)
 
-### [manifest](https://github.com/jonathontoon/manifest)
+![sd_ui_docker](https://images-1252557999.file.myqcloud.com/uPic/sd_ui_docker.jpg) 
 
-本周最喜欢的一个项目，这是一个基于网格的即时便签板，可随时在浏览器中记笔记，相当于浏览器便签，虽然项目不更新了，但是功能基本完成，值得一试：
+### [webvm](https://github.com/leaningtech/webvm)
 
-![manifest](https://images-1252557999.file.myqcloud.com/uPic/manifest.jpg) 
+基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：[webvm.io](https://webvm.io/)。
 
-### [shiori](https://github.com/go-shiori/shiori)
+![webvm](https://images-1252557999.file.myqcloud.com/uPic/1yRQBe.png)
 
-开源自部署的书签管理服务：
+详细的介绍文章见：[WebVM: server-less x86 virtual machines in the browser](https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361)。 
 
-![shiori](https://images-1252557999.file.myqcloud.com/uPic/shiori.jpg) 
+### [nn-editor](https://github.com/scarsty/nn-editor)
+
+Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经网络结构的简单编辑，或者某些特殊流程图的编辑。
+
+![nn-editor](https://images-1252557999.file.myqcloud.com/uPic/By0C3O.jpg) 
 
 ## 🤖 软件 
 
-### [shottr](https://shottr.cc/)
+### [copybook-generator](https://github.com/jaywcjlove/copybook-generator)
 
-免费截屏软件（macOS）：
+「宝宝字帖」是一款功能强大的字帖生成工具，专为满足不同用户的书写练习需求而设计：
 
-![shottr](https://images-1252557999.file.myqcloud.com/uPic/shottr.jpg) 
+![copybook-generator](https://images-1252557999.file.myqcloud.com/uPic/copybook-generator.jpg) 
 
-### [AIaW](https://github.com/NitroRCr/AIaW)
+### [legado](https://github.com/gedoor/legado)
 
-`AI as Workspace` - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步：
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-![AIaW](https://images-1252557999.file.myqcloud.com/uPic/n5l83s.png) 
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
 
-### [bilibili-youtube-danmaku](https://github.com/ahaduoduoduo/bilibili-youtube-danmaku)
+![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
 
-🍻关注的 UP 在 Youtube 和 B 站都有投稿，想在 Youtube 看更好的画质又想看弹幕🤔？
+### [Malware-Patch](https://github.com/the1812/Malware-Patch)
 
-让 YouTube 视频也能拥有 B 站的弹幕氛围！ 关联 B 站 UP 主或手动输入视频链接，同步弹幕到 YouTube 播放页面～
+阻止中国流氓软件的管理员授权，无需后台运行：
 
-![bilibili-youtube-danmaku](https://images-1252557999.file.myqcloud.com/uPic/Z3a6RM.png) 
+![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
 
 ## 👀 资料 
 
-### [pdai](https://pdai.tech/)
+### [穷佐罗的Linux书](https://zorrozou.github.io/)
 
-Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
+穷佐罗的Linux书，挺不错的一份`Linux`教程。
 
-![pdai](https://images-1252557999.file.myqcloud.com/uPic/8oZW41.png) 
+![zorrozou](https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg) 
 
-### [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
 
-LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！本项目同样提供了在线访问地址：[programmercarl](https://programmercarl.com/) 
+30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
 
-### [nlp-with-transformers](https://github.com/nlp-with-transformers)
+![30-Days-Of-React](https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg) 
 
-书籍《基于Transformers的自然语言处理》的代码仓库：
+### [Ahrefs Blog SEO 文章列表](https://xuxuyu.notion.site/1468d1c9ea65473b934917d8ab25979b?v=dcaec075d4b34a8e8af5be0bc9a259a0)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/A6MiF5.jpg) 
+对 `SEO` 有兴趣可以看看：
+
+![Ahrefs](https://images-1252557999.file.myqcloud.com/uPic/Ahrefs.jpg) 
 
 ## 🕸 网站 
 
-### [sayhello](https://beta.sayhello.so/)
+### [sov2ex.com](https://www.sov2ex.com/)
 
-面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
+[SOV2EX](https://github.com/Bynil/sov2ex) - 一个便捷的 [V2EX](https://v2ex.com/) 站内搜索引擎[开源]：
 
-![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+![sov2ex](https://images-1252557999.file.myqcloud.com/uPic/sov2ex.jpg) 
 
-### [open-slum.org](https://open-slum.org/)
+### [gpt5plus.com](https://gpt5plus.com/)
 
-`SLUM` 网站实时监控多个流行的隐蔽图书馆（如 Anna's Archive、Library Genesis、Sci-Hub 等）的可用性，并提供这些服务的运行状况、证书有效期以及最近的更新时间。
+一个 ChatGPT 代充服务网页，价格比较便宜：
 
-因为这些网站经常**意外**失效，也很容易被钓鱼，所以这个网站很有用：
+![gpt5plus](https://images-1252557999.file.myqcloud.com/uPic/Uk76mA.png) 
 
-![open-slum.org](https://images-1252557999.file.myqcloud.com/uPic/PzpYfd.png) 
+### [BRIA-RMBG-1.4](https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4)
 
-### [smartexcel](https://www.smartexcel.cc/)
+[BRIA.AI](https://huggingface.co/briaai/RMBG-1.4) 下用于移除图片背景的模型，可直接在浏览器使用：
 
-使用 `ChatGPT`，在几秒钟内生成您所需的 `Excel` 公式：
-
-![smart-excel-ai](https://images-1252557999.file.myqcloud.com/uPic/smart-excel-ai.jpg) 
+![BRIA-RMBG](https://images-1252557999.file.myqcloud.com/uPic/BRIA-RMBG.jpg) 
 
 ## ✍️ 说明
 
