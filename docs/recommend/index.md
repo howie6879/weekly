@@ -5,91 +5,94 @@
 
 ## 🎯 项目 
 
-### [stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
+### [pi-hole](https://pi-hole.net/)
 
-基于 `Docker` 的一站式 `Stable Diffusion`（最近很火的 AI 文字生成图片的模型）安装包，可提供以下多个 `UI` 可选：
+一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
 
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
-- [sygil-webui](https://github.com/Sygil-Dev/sygil-webui)
+![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
 
-![sd_ui_docker](https://images-1252557999.file.myqcloud.com/uPic/sd_ui_docker.jpg) 
+### [unregistry](https://github.com/psviderski/unregistry)
 
-### [webvm](https://github.com/leaningtech/webvm)
+直接将 `Docker` 镜像推送到远程服务器，无需外部注册表：
 
-基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：[webvm.io](https://webvm.io/)。
+![unregistry](https://images-1252557999.file.myqcloud.com/uPic/C2uoOc.png) 
 
-![webvm](https://images-1252557999.file.myqcloud.com/uPic/1yRQBe.png)
+### [uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 
-详细的介绍文章见：[WebVM: server-less x86 virtual machines in the browser](https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361)。 
-
-### [nn-editor](https://github.com/scarsty/nn-editor)
-
-Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经网络结构的简单编辑，或者某些特殊流程图的编辑。
-
-![nn-editor](https://images-1252557999.file.myqcloud.com/uPic/By0C3O.jpg) 
+这个项目提供了一个用于过滤 AI 生成内容的大型屏蔽列表，适用于 uBlock Origin & uBlacklist 插件。 
 
 ## 🤖 软件 
 
-### [copybook-generator](https://github.com/jaywcjlove/copybook-generator)
+### [MotionEaseTune](https://github.com/BHznJNs/MotionEaseTune)
 
-「宝宝字帖」是一款功能强大的字帖生成工具，专为满足不同用户的书写练习需求而设计：
+一个安卓应用，通过 100Hz 声音来预防晕车症状，研究论文原文看[这里](https://www.jstage.jst.go.jp/article/ehpm/30/0/30_24-00247/_html)，使用条件：
 
-![copybook-generator](https://images-1252557999.file.myqcloud.com/uPic/copybook-generator.jpg) 
+```txt
+纯音（正弦波）的频率应为 100 Hz
+声音大小：80-85 dBZ OR 60.9-65.9 dBA
+应对双耳进行声音暴露，要确保双耳接收到同等的刺激
+纯音暴露的持续时间为 1 分钟
+``` 
 
-### [legado](https://github.com/gedoor/legado)
+### [enchanted](https://github.com/AugustDev/enchanted)
 
-阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+一个开源的 `macOS/iOS/visionOS` 应用程序，专为与私人托管模型（如 `Llama 2、Mistral、Vicuna、Starling` 等）一起工作而设计。它的界面类似于 `ChatGPT` 应用，可连接到您的私人模型：
 
-简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
+![enchanted](https://img.fre123.com/i/2024/07/12/6690f54b93ccc.jpg) 
 
-![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
+### [listen1_desktop](https://github.com/listen1/listen1_desktop)
 
-### [Malware-Patch](https://github.com/the1812/Malware-Patch)
+Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单，支持音乐平台：
 
-阻止中国流氓软件的管理员授权，无需后台运行：
+- 网易云音乐
+- QQ 音乐
+- 酷狗音乐
+- 酷我音乐
+- bilibili
+- 咪咕音乐
+- 千千音乐
 
-![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
+![listen1_desktop](https://images-1252557999.file.myqcloud.com/uPic/listen1_desktop.png) 
 
 ## 👀 资料 
 
-### [穷佐罗的Linux书](https://zorrozou.github.io/)
+### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 
-穷佐罗的Linux书，挺不错的一份`Linux`教程。
+C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
 
-![zorrozou](https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg) 
+![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
 
-### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
+### [linux-command](https://github.com/jaywcjlove/linux-command)
 
-30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
 
-![30-Days-Of-React](https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg) 
+![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
 
-### [Ahrefs Blog SEO 文章列表](https://xuxuyu.notion.site/1468d1c9ea65473b934917d8ab25979b?v=dcaec075d4b34a8e8af5be0bc9a259a0)
+### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
 
-对 `SEO` 有兴趣可以看看：
+为初学者整理的免费 `CSS` 课程：
 
-![Ahrefs](https://images-1252557999.file.myqcloud.com/uPic/Ahrefs.jpg) 
+![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
 
 ## 🕸 网站 
 
-### [sov2ex.com](https://www.sov2ex.com/)
+### [ogimage.click](https://ogimage.click/)
 
-[SOV2EX](https://github.com/Bynil/sov2ex) - 一个便捷的 [V2EX](https://v2ex.com/) 站内搜索引擎[开源]：
+允许用户通过选择专业模板、自定义背景、渐变、网格叠加、噪声等属性来快速生成适用于社交媒体平台（如 Twitter、Facebook 和 LinkedIn）的吸引人的分享图片。用户可以无需注册即可免费使用所有功能，生成的图片可以导出为 PNG、JPEG 或 WebP 格式，并且支持多平台的优化尺寸。
 
-![sov2ex](https://images-1252557999.file.myqcloud.com/uPic/sov2ex.jpg) 
+![ogimage](https://images-1252557999.file.myqcloud.com/uPic/WLVTc7.png) 
 
-### [gpt5plus.com](https://gpt5plus.com/)
+### [Baidu 一格](https://yige.baidu.com/)
 
-一个 ChatGPT 代充服务网页，价格比较便宜：
+百度出品的文字生成图像模型：
 
-![gpt5plus](https://images-1252557999.file.myqcloud.com/uPic/Uk76mA.png) 
+![yige](https://images-1252557999.file.myqcloud.com/uPic/yige.jpg) 
 
-### [BRIA-RMBG-1.4](https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4)
+### [medisearch](https://medisearch.io/zh)
 
-[BRIA.AI](https://huggingface.co/briaai/RMBG-1.4) 下用于移除图片背景的模型，可直接在浏览器使用：
+直接的科学为基础的医疗问答模型：
 
-![BRIA-RMBG](https://images-1252557999.file.myqcloud.com/uPic/BRIA-RMBG.jpg) 
+![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
 
 ## ✍️ 说明
 
