@@ -5,94 +5,87 @@
 
 ## 🎯 项目 
 
-### [pi-hole](https://pi-hole.net/)
+### [book-searcher](https://github.com/book-searcher-org/book-searcher)
 
-一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
+`zlib` 开源搜索方案（zlib 是全球知名的电子书分享下载网站，最近开始慢慢转入地下，因此诞生了一些留存检索方案）：
 
-![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
+![zlib_searcher](https://images-1252557999.file.myqcloud.com/uPic/zlib_searcher.jpg) 
 
-### [unregistry](https://github.com/psviderski/unregistry)
+### [czkawka](https://github.com/qarmin/czkawka)
 
-直接将 `Docker` 镜像推送到远程服务器，无需外部注册表：
+一款简单、快速和免费的开源跨平台应用程序，可以从您的计算机中删除不必要的文件。
 
-![unregistry](https://images-1252557999.file.myqcloud.com/uPic/C2uoOc.png) 
+支持扫描计算机上重复、空文件夹、大文件、相似图像/视频/音乐、无效/损坏文件等内容，扫描速度极快。
 
-### [uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+![czkawka](https://images-1252557999.file.myqcloud.com/uPic/czkawka.jpg) 
 
-这个项目提供了一个用于过滤 AI 生成内容的大型屏蔽列表，适用于 uBlock Origin & uBlacklist 插件。 
+### [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
+
+我日常开发环境以`Mac`为主，这个项目从开发者角度出发，收集了各方各面的软件，上来看看，可能一些收费的软件在这里能找到开源的解决方案。
+
+我个人也维护了一份 [MacOS 软件清单](https://weekly.howie6879.com/soft/mac.html)，是我四五年使用 Mac 积累的一些常用软件，开源在 github，有兴趣可以关注看看。 
 
 ## 🤖 软件 
 
-### [MotionEaseTune](https://github.com/BHznJNs/MotionEaseTune)
+### [bilibili-manga-downloader](https://github.com/lanyeeee/bilibili-manga-downloader)
 
-一个安卓应用，通过 100Hz 声音来预防晕车症状，研究论文原文看[这里](https://www.jstage.jst.go.jp/article/ehpm/30/0/30_24-00247/_html)，使用条件：
+一个用于哔哩哔哩漫画的多线程下载器，带图形界面，支持特典下载，下载速度飞快:
 
-```txt
-纯音（正弦波）的频率应为 100 Hz
-声音大小：80-85 dBZ OR 60.9-65.9 dBA
-应对双耳进行声音暴露，要确保双耳接收到同等的刺激
-纯音暴露的持续时间为 1 分钟
-``` 
+![bilibili-manga-downloader](https://images-1252557999.file.myqcloud.com/uPic/ZqukK1.png) 
 
-### [enchanted](https://github.com/AugustDev/enchanted)
+### [Obtainium](https://github.com/ImranR98/Obtainium)
 
-一个开源的 `macOS/iOS/visionOS` 应用程序，专为与私人托管模型（如 `Llama 2、Mistral、Vicuna、Starling` 等）一起工作而设计。它的界面类似于 `ChatGPT` 应用，可连接到您的私人模型：
+聚合安卓应用源，然后获取程序更新，`Obtainium` 允许用户直接从发布页面安装和更新应用程序，并在发布新版本时接收通知：
 
-![enchanted](https://img.fre123.com/i/2024/07/12/6690f54b93ccc.jpg) 
+![Obtainium](https://images-1252557999.file.myqcloud.com/uPic/Obtainium.jpg) 
 
-### [listen1_desktop](https://github.com/listen1/listen1_desktop)
+### [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
 
-Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单，支持音乐平台：
+简单的 macOS 菜单栏应用程序，可以方便地和 `Reminders` 进行交互，使用 `SwiftUI` 开发，并使用 `Apple` 提醒事项作为数据源：
 
-- 网易云音乐
-- QQ 音乐
-- 酷狗音乐
-- 酷我音乐
-- bilibili
-- 咪咕音乐
-- 千千音乐
-
-![listen1_desktop](https://images-1252557999.file.myqcloud.com/uPic/listen1_desktop.png) 
+![reminders-menubar](https://images-1252557999.file.myqcloud.com/uPic/reminders-menubar.jpg) 
 
 ## 👀 资料 
 
-### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
 
-C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
+从零开始学习Kubernetes的路线图（初级到高级）：
 
-![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
+![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
 
-### [linux-command](https://github.com/jaywcjlove/linux-command)
+### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
 
-Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
+一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
 
-![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
+![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
 
-### [CSS Mini Course](https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course)
+### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
 
-为初学者整理的免费 `CSS` 课程：
+重新分类 Leetcode 高频题 2021 版
 
-![css-mini-course](https://images-1252557999.file.myqcloud.com/uPic/css-mini-course.jpg) 
+- 题目按照面试频率降序排列
+- 增加难度分类，适合从简单开始学习
+- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
 
 ## 🕸 网站 
 
-### [ogimage.click](https://ogimage.click/)
+### [tailspark](https://tailspark.co/)
 
-允许用户通过选择专业模板、自定义背景、渐变、网格叠加、噪声等属性来快速生成适用于社交媒体平台（如 Twitter、Facebook 和 LinkedIn）的吸引人的分享图片。用户可以无需注册即可免费使用所有功能，生成的图片可以导出为 PNG、JPEG 或 WebP 格式，并且支持多平台的优化尺寸。
+`300+` 免费的 `TailwindCSS` 组件和模板，让您在几分钟内构建网站，颜值也非常高：
 
-![ogimage](https://images-1252557999.file.myqcloud.com/uPic/WLVTc7.png) 
+![tailspark](https://images-1252557999.file.myqcloud.com/uPic/tailspark.jpg) 
 
-### [Baidu 一格](https://yige.baidu.com/)
+### [ICO converter](https://www.icoconverter.com/)
 
-百度出品的文字生成图像模型：
+`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
 
-![yige](https://images-1252557999.file.myqcloud.com/uPic/yige.jpg) 
+![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
 
-### [medisearch](https://medisearch.io/zh)
+### [websequencediagrams](https://www.websequencediagrams.com/)
 
-直接的科学为基础的医疗问答模型：
+提供在线绘制时序图的网站：
 
-![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
+![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
 
 ## ✍️ 说明
 
