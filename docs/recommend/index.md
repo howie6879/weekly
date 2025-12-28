@@ -5,87 +5,97 @@
 
 ## 🎯 项目 
 
-### [book-searcher](https://github.com/book-searcher-org/book-searcher)
+### [showdoc](https://github.com/star7th/showdoc)
 
-`zlib` 开源搜索方案（zlib 是全球知名的电子书分享下载网站，最近开始慢慢转入地下，因此诞生了一些留存检索方案）：
+一个非常适合IT团队的在线API文档、技术文档工具:
 
-![zlib_searcher](https://images-1252557999.file.myqcloud.com/uPic/zlib_searcher.jpg) 
+![showdoc](https://images-1252557999.file.myqcloud.com/uPic/showdoc.jpg) 
 
-### [czkawka](https://github.com/qarmin/czkawka)
+### [simba](https://github.com/GitHamza0206/simba)
 
-一款简单、快速和免费的开源跨平台应用程序，可以从您的计算机中删除不必要的文件。
+`Simba` 的目标是简化知识管理，使开发者能够专注于构建核心人工智能功能，该系统具有现代化的用户界面和模块化架构，允许开发者轻松地插入不同的向量存储、嵌入模型、分块器和解析器：
 
-支持扫描计算机上重复、空文件夹、大文件、相似图像/视频/音乐、无效/损坏文件等内容，扫描速度极快。
+![simba](https://images-1252557999.file.myqcloud.com/uPic/eDTGdu.png) 
 
-![czkawka](https://images-1252557999.file.myqcloud.com/uPic/czkawka.jpg) 
+### [LightBook](https://github.com/underthestars-zhy/LightBook)
 
-### [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
+开源的小说下载脚本项目，输出格式为 `EPUB`：
 
-我日常开发环境以`Mac`为主，这个项目从开发者角度出发，收集了各方各面的软件，上来看看，可能一些收费的软件在这里能找到开源的解决方案。
-
-我个人也维护了一份 [MacOS 软件清单](https://weekly.howie6879.com/soft/mac.html)，是我四五年使用 Mac 积累的一些常用软件，开源在 github，有兴趣可以关注看看。 
+![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
 
 ## 🤖 软件 
 
-### [bilibili-manga-downloader](https://github.com/lanyeeee/bilibili-manga-downloader)
+### [avnc](https://github.com/gujjwal00/avnc)
 
-一个用于哔哩哔哩漫画的多线程下载器，带图形界面，支持特典下载，下载速度飞快:
+针对 `Android` 的开源 `VNC` 客户端：
 
-![bilibili-manga-downloader](https://images-1252557999.file.myqcloud.com/uPic/ZqukK1.png) 
+![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
 
-### [Obtainium](https://github.com/ImranR98/Obtainium)
+### [aidea](https://github.com/mylxsw/aidea)
 
-聚合安卓应用源，然后获取程序更新，`Obtainium` 允许用户直接从发布页面安装和更新应用程序，并在发布新版本时接收通知：
+一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：
 
-![Obtainium](https://images-1252557999.file.myqcloud.com/uPic/Obtainium.jpg) 
+- 支持 GPT-3.5/4 问答聊天
+- 支持国产模型：通义千问，文心一言
+- 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
 
-### [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
+![aidea](https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg) 
 
-简单的 macOS 菜单栏应用程序，可以方便地和 `Reminders` 进行交互，使用 `SwiftUI` 开发，并使用 `Apple` 提醒事项作为数据源：
+### [UTM](https://github.com/utmapp/UTM)
 
-![reminders-menubar](https://images-1252557999.file.myqcloud.com/uPic/reminders-menubar.jpg) 
+开源免费的虚拟机软件，`Parallels Desktop` 替代品，支持M1架构：
+
+![utm](https://images-1252557999.file.myqcloud.com/uPic/utm.png) 
 
 ## 👀 资料 
 
-### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
+### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
 
-从零开始学习Kubernetes的路线图（初级到高级）：
+本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
 
-![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
+![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
 
-### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
+### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
 
-一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
+本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
 
-![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
+我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
 
-### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
+无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
 
-重新分类 Leetcode 高频题 2021 版
+### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
-- 题目按照面试频率降序排列
-- 增加难度分类，适合从简单开始学习
-- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
+本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
 
 ## 🕸 网站 
 
-### [tailspark](https://tailspark.co/)
+### [ai-12348](https://ai.12348.gov.cn/pc/)
 
-`300+` 免费的 `TailwindCSS` 组件和模板，让您在几分钟内构建网站，颜值也非常高：
+免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
 
-![tailspark](https://images-1252557999.file.myqcloud.com/uPic/tailspark.jpg) 
+![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
 
-### [ICO converter](https://www.icoconverter.com/)
+### [workout-cool](https://workout.cool/)
 
-`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
+> 一个综合性健身指导平台，可为您创建训练计划、追踪进度，并提供包含详细说明与视频演示的丰富训练动作数据库。
 
-![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
+如果读者有印象的话，老胡之前推荐过 [workout-lol](https://github.com/workout-lol/workout-lol)，这两个项目名字很像，界面也类似，这背后作者自述故事如下：
 
-### [websequencediagrams](https://www.websequencediagrams.com/)
+- 🏗️ 原始贡献者：我曾是 workout.lol 项目的主要贡献者
+- 💼 商业挑战：原项目在健身视频合作方面遇到重大障碍（无法找到可靠的视频供应商）
+- 💰 项目出售：由于这些合作问题，该项目被出售给另一方
+- 📉 项目废弃：新所有者很快意识到健身视频授权成本高得离谱，随后开始消极对待并最终彻底放弃了整个项目
+- 🔄 复兴尝试：过去9个月里，我一直在尝试重新联系新利益相关方
+- 📧 杳无音讯：尽管进行了多次（15次）尝试，但始终未获回应
+- 🚀 全新开始：与其让这份宝贵的工作消失，我决定创建一个全新的现代化实现
 
-提供在线绘制时序图的网站：
+![workout-cool](https://images-1252557999.file.myqcloud.com/uPic/LUjWBV.png) 
 
-![websequencediagrams](https://images-1252557999.file.myqcloud.com/uPic/websequencediagrams.jpg) 
+### [waytoagi](https://www.waytoagi.com/)
+
+`AI` 知识库和工具站：
+
+![waytoagi](https://images-1252557999.file.myqcloud.com/uPic/waytoagi.jpg) 
 
 ## ✍️ 说明
 
