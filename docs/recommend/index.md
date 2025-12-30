@@ -5,97 +5,103 @@
 
 ## 🎯 项目 
 
-### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
+### [showdoc](https://github.com/star7th/showdoc)
 
-让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
+一个非常适合IT团队的在线API文档、技术文档工具:
 
-### [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
+![showdoc](https://images-1252557999.file.myqcloud.com/uPic/showdoc.jpg) 
 
-`ArchiveBox` 是一个强大的、可自建的互联网归档解决方案，可以收集、保存和查看你想离线保存的网站：
+### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
 
-![ArchiveBox](https://images-1252557999.file.myqcloud.com/uPic/ArchiveBox.jpg) 
+如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
 
-### [LibreTV](https://github.com/LibreSpark/LibreTV)
+- 教程
+- 软件
+- 工具&服务
+- 社区
+- ......
 
-`LibreTV` 是一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。无需注册，即开即用，支持多种设备访问。项目结合了前端技术和后端代理功能，可部署在支持服务端功能的各类网站托管服务上。
+你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
 
-![LibreTV](https://images-1252557999.file.myqcloud.com/uPic/wklU6z.png)
+- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
+- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
 
-还有贡献者开发了电视版本：[DTV](https://github.com/laopaoer-wallet/DTV)。 
+![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
+
+### [whitebophir](https://github.com/lovasoa/whitebophir)
+
+一个简单、免费、易于使用和部署的在线协作白板。该白板允许多个用户同时实时绘图，并且可以保存白板状态：
+
+![whitebophir](https://images-1252557999.file.myqcloud.com/uPic/KZgRku.png) 
 
 ## 🤖 软件 
 
-### [HandBrake](https://github.com/HandBrake/HandBrake)
+### [Xit](https://github.com/Uncommon/Xit)
 
-`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
+`Mac OS`下开源免费的原生`Git`客户端 ：
 
-![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
+![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
 
-### [scrcpy](https://github.com/Genymobile/scrcpy)
+### [PakePLus](https://github.com/Sjj1024/PakePlus)
 
-在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
+`PakePlus` 是一个基于 `Tauri2` 和 `Github` 的打包工具，只需要一个 `Github Token` 就可以将任意网站/Vue/React 等项目的 dist 静态文件打包为跨平台桌面软件和手机软件，体积小巧(小于 5M)并且性能还高，而且 `PakePlus` 本身也才仅仅 8M 左右：
 
-它专注于：
+![PakePLus](https://images-1252557999.file.myqcloud.com/uPic/zopl19.png) 
 
-- 轻量 (原生，仅显示设备屏幕)
-- 性能 (30~60fps)
-- 质量 (分辨率可达 1920×1080 或更高)
-- 低延迟 (35~70ms)
-- 快速启动 (最快 1 秒内即可显示第一帧)
-- 无侵入性 (不会在设备上遗留任何程序) 
+### [EpubPress](https://epub.press/)
 
-### [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)
+`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
 
-一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制：
-
-![AlgerMusicPlayer](https://images-1252557999.file.myqcloud.com/uPic/F3RBkY.png) 
+![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
 
 ## 👀 资料 
 
-### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
+### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
 
-阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
+[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
 
-![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
+![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
 
-### [ascoders/weekly](https://github.com/ascoders/weekly)
+### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
 
-前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
+学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
 
-- 前沿技术
-- 设计模式
-- 编译原理
-- 源码解读
-- 商业思考
-- 算法
+![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
 
-非常全面，前端从事人员可以看看。 
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-### [visualize-ml](https://github.com/visualize-ml)
-
-鸢尾花书：从加减乘除到机器学习，全套7册。
-
-![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
+ 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
 
 ## 🕸 网站 
 
-### [new.space](https://new.space/)
+### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
 
-免注册多人临时文件分享工具：
+老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
 
-![new.space](https://images-1252557999.file.myqcloud.com/uPic/new.space.jpg) 
+- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
+- Gemini Pro 体验地址：https://gemini.fre123.com/
 
-### [熊猫速读](https://qread.xmsoushu.com/)
+![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
 
-熊猫速读是一个收集精品视频读书笔记或好书分享的网站！为您推荐好书速读的视频，在您读一本书或者购买图书之前通过视频介绍先快速了解书籍的内容，根据兴趣再决定是否购买。
+### [gh-card.dev](https://gh-card.dev/)
 
-![xmsd](https://images-1252557999.file.myqcloud.com/uPic/xmsd.jpg) 
+免费为你的 `Github` 开源项目生成卡片的网站：
 
-### [beiancx](https://www.beiancx.com/)
+![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
 
-域名备案查询工具网站：
+### [sci-hub](https://sci-hub.se/)
 
-![beiancx](https://images-1252557999.file.myqcloud.com/uPic/7X7Kkn.png) 
+这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
+
+> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
+
+用户可通过以下方式访问新版本：
+
+- https://sci-hub.se/
+- https://sci-hub.ru/
+- https://sci-hub.st/
+
+![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png) 
 
 ## ✍️ 说明
 
