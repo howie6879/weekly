@@ -5,103 +5,98 @@
 
 ## 🎯 项目 
 
-### [showdoc](https://github.com/star7th/showdoc)
+### [privateGPT](https://github.com/imartinez/privateGPT)
 
-一个非常适合IT团队的在线API文档、技术文档工具:
+为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
 
-![showdoc](https://images-1252557999.file.myqcloud.com/uPic/showdoc.jpg) 
+![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
 
-### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
+### [epigram](https://github.com/panda-sandeep/epigram)
 
-如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
+由 AI 驱动的新闻摘要平台，提供个性化新闻源和简洁的新闻摘要：
 
-- 教程
-- 软件
-- 工具&服务
-- 社区
-- ......
+![epigram](https://images-1252557999.file.myqcloud.com/uPic/8HnhXD.png) 
 
-你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
+### [paopao-ce](https://github.com/rocboss/paopao-ce)
 
-- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
-- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
+🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
 
-![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
+- [Go](https://go.dev/)
+- [Gin](https://gin-gonic.com/)
+- [Zinc](https://zinclabs.io/)
+- [Naive UI](https://www.naiveui.com/)
+- [Vue.js](https://vuejs.org/)
+- [Vite.js](https://vitejs.dev/)
 
-### [whitebophir](https://github.com/lovasoa/whitebophir)
+![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
 
-一个简单、免费、易于使用和部署的在线协作白板。该白板允许多个用户同时实时绘图，并且可以保存白板状态：
-
-![whitebophir](https://images-1252557999.file.myqcloud.com/uPic/KZgRku.png) 
+网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
 
 ## 🤖 软件 
 
-### [Xit](https://github.com/Uncommon/Xit)
+### [vnote](https://github.com/vnotex/vnote)
 
-`Mac OS`下开源免费的原生`Git`客户端 ：
+VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
 
-![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
+![vnote](https://images-1252557999.file.myqcloud.com/uPic/vnote.png) 
 
-### [PakePLus](https://github.com/Sjj1024/PakePlus)
+### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
 
-`PakePlus` 是一个基于 `Tauri2` 和 `Github` 的打包工具，只需要一个 `Github Token` 就可以将任意网站/Vue/React 等项目的 dist 静态文件打包为跨平台桌面软件和手机软件，体积小巧(小于 5M)并且性能还高，而且 `PakePlus` 本身也才仅仅 8M 左右：
+提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
 
-![PakePLus](https://images-1252557999.file.myqcloud.com/uPic/zopl19.png) 
+![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
 
-### [EpubPress](https://epub.press/)
+### [tunnelblick](https://tunnelblick.net/)
 
-`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
+免费开源的`openvpn`客户端：
 
-![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
+![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
 
 ## 👀 资料 
 
-### [LeetCode-Py](https://github.com/itcharge/LeetCode-Py)
+### [anthropics/courses](https://github.com/anthropics/courses "anthropics/courses")
 
-[算法通关手册](https://algo.itcharge.cn/)，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
+`Anthropic` 的教育课程，目前包含五个课程：
 
-![LeetCode-Py](https://images-1252557999.file.myqcloud.com/uPic/PW0IhY.jpg) 
+- Anthropic API 基础知识：教授如何与 Claude SDK 合作，包括获取 API 密钥、处理模型参数、编写多模态提示、流式响应等。
+- 提示工程互动教程
+- 教授如何将提示技术应用到复杂的现实世界提示中
+- 教授如何编写评估来测量提示的质量
+- 教授如何在工作流程中成功使用 Claude 的工具 
 
-### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+### [theByteBook](https://github.com/isno/theByteBook)
 
-学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
+深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
 
-![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
+![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
 
-### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
 
- 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
+本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
+
+我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
+
+无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
 
 ## 🕸 网站 
 
-### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
+### [bgsub](https://bgsub.cn/webapp)
 
-老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
+消除或者替换图像背景，无需上传图像：
 
-- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
-- Gemini Pro 体验地址：https://gemini.fre123.com/
+![bgsub](https://images-1252557999.file.myqcloud.com/uPic/bgsub.jpg) 
 
-![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
+### [stockai.trade](https://stockai.trade)
 
-### [gh-card.dev](https://gh-card.dev/)
+ `AI` 选股分析网站（基于 `ChatGPT`）完全免费，无需注册:
+ 
+ ![stockai](https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg) 
 
-免费为你的 `Github` 开源项目生成卡片的网站：
+### [Baidu 一格](https://yige.baidu.com/)
 
-![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
+百度出品的文字生成图像模型：
 
-### [sci-hub](https://sci-hub.se/)
-
-这是科研界女神`Alexandra Elbakyan`做的论文下载网站，诞生以来就一直受到相关领域的打击，甚至一度即将消亡，但是作者不屈不挠这次甚至做了更新！
-
-> Elbakyan 表示：「 Sci-Hub 更新了，现在用户可以实时查看下载统计、每月统计等，并在将来会增加更多内容。」
-
-用户可通过以下方式访问新版本：
-
-- https://sci-hub.se/
-- https://sci-hub.ru/
-- https://sci-hub.st/
-
-![](https://images-1252557999.file.myqcloud.com/uPic/ISPyBJ.png) 
+![yige](https://images-1252557999.file.myqcloud.com/uPic/yige.jpg) 
 
 ## ✍️ 说明
 
