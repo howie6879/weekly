@@ -5,98 +5,90 @@
 
 ## 🎯 项目 
 
-### [privateGPT](https://github.com/imartinez/privateGPT)
+### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 
-为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
+免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
 
-![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
+![rxresu](https://images-1252557999.file.myqcloud.com/uPic/rxresu.jpg) 
 
-### [epigram](https://github.com/panda-sandeep/epigram)
+### [Restfox](https://github.com/flawiddsouza/Restfox)
 
-由 AI 驱动的新闻摘要平台，提供个性化新闻源和简洁的新闻摘要：
+主打离线也能运行使用的 `Web HTTP` 客户端:
 
-![epigram](https://images-1252557999.file.myqcloud.com/uPic/8HnhXD.png) 
+![Restfox](https://images-1252557999.file.myqcloud.com/uPic/Restfox.png)
 
-### [paopao-ce](https://github.com/rocboss/paopao-ce)
+之前也推荐过 [hoppscotch](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。 
 
-🔥一个清新文艺的微社区，PaoPao主要由以下优秀的开源项目/工具构建：
+### [free-api](https://github.com/fangzesheng/free-api)
 
-- [Go](https://go.dev/)
-- [Gin](https://gin-gonic.com/)
-- [Zinc](https://zinclabs.io/)
-- [Naive UI](https://www.naiveui.com/)
-- [Vue.js](https://vuejs.org/)
-- [Vite.js](https://vitejs.dev/)
+作者创建此开源项目的目的如下：
 
-![paopao-ce](https://images-1252557999.file.myqcloud.com/uPic/paopao-ce.jpeg)
+> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
 
-网站简洁大气，用的技术栈也很全面，有兴趣的朋友可以深入学习。 
+包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
+
+![free-api](https://images-1252557999.file.myqcloud.com/uPic/VvapMO.png) 
 
 ## 🤖 软件 
 
-### [vnote](https://github.com/vnotex/vnote)
+### [staxrip](https://github.com/staxrip/staxrip)
 
-VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
+`StaxRip` 是一个强大的用于 `Windows` 的视频/音频编码图形用户界面。
+它执行和控制诸如 `x265、mkvmerge、ffmpeg` 等控制台应用程序，并使用基于脚本的帧服务器 A`viSynth+和VapourSynth` 进行视频处理。每个项目还可以通过各种事件和设置进行扩展：
 
-![vnote](https://images-1252557999.file.myqcloud.com/uPic/vnote.png) 
+![staxrip](https://images-1252557999.file.myqcloud.com/uPic/staxrip.jpg) 
 
-### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
+### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
 
-提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
+`Android` 平台下 `MD` 风格的文件管理器:
 
-![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
+![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
 
-### [tunnelblick](https://tunnelblick.net/)
+### [Responsively](https://github.com/responsively-org/responsively-app)
 
-免费开源的`openvpn`客户端：
+一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
 
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
 
 ## 👀 资料 
 
-### [anthropics/courses](https://github.com/anthropics/courses "anthropics/courses")
+### [LLMs-In-China](https://github.com/wgwang/LLMs-In-China)
 
-`Anthropic` 的教育课程，目前包含五个课程：
+记录中国大模型发展情况，同时持续深度分析开源开放的大模型以及数据集的情况，目前记录了国内188个大模型：
 
-- Anthropic API 基础知识：教授如何与 Claude SDK 合作，包括获取 API 密钥、处理模型参数、编写多模态提示、流式响应等。
-- 提示工程互动教程
-- 教授如何将提示技术应用到复杂的现实世界提示中
-- 教授如何编写评估来测量提示的质量
-- 教授如何在工作流程中成功使用 Claude 的工具 
+![LLMs-In-China](https://images-1252557999.file.myqcloud.com/uPic/LLMs-In-China.png) 
 
-### [theByteBook](https://github.com/isno/theByteBook)
+### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
 
-深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
+`OpenAI` 出品的的深度强化学习教程：
 
-![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
+![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
 
-### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
+### [aie-book](https://github.com/chiphuyen/aie-book)
 
-本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
+`AI` 工程师资源合集，该书涵盖了从基础模型到实际应用的整个过程，包括数据准备、模型评估、问题解决等方面。书中还提供了案例研究、误差分析、提示工程、代理构建、微调模型、数据验证、模型优化和持续改进的框架。这本书适合各种技术角色，包括 `AI` 工程师、数据科学家、工程经理和产品经理。
 
-我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
-
-无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
+![aie-book](https://images-1252557999.file.myqcloud.com/uPic/QD4TLj.png) 
 
 ## 🕸 网站 
 
-### [bgsub](https://bgsub.cn/webapp)
+### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
 
-消除或者替换图像背景，无需上传图像：
+@妙才投稿，在线学习git命令的网站：
 
-![bgsub](https://images-1252557999.file.myqcloud.com/uPic/bgsub.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
 
-### [stockai.trade](https://stockai.trade)
+### [gcopy](https://gcopy.rutron.net/zh)
 
- `AI` 选股分析网站（基于 `ChatGPT`）完全免费，无需注册:
- 
- ![stockai](https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg) 
+一个剪切板同步的工具, 支持文字、截图和文件，使用 `Golang` 和 `Nextjs` 开发. 完全[开源](https://github.com/llaoj/gcopy)，`GCopy` 重视您的数据隐私, 不持久化存储您的数据, 它们都在内存中 `24h` 自动删除：
 
-### [Baidu 一格](https://yige.baidu.com/)
+![gcopy](https://images-1252557999.file.myqcloud.com/uPic/gcopy.jpg) 
 
-百度出品的文字生成图像模型：
+### [picdiet.eula.club](https://picdiet.eula.club/)
 
-![yige](https://images-1252557999.file.myqcloud.com/uPic/yige.jpg) 
+`Picdiet` 是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏：
+
+![picdiet](https://images-1252557999.file.myqcloud.com/uPic/picdiet.jpg) 
 
 ## ✍️ 说明
 
