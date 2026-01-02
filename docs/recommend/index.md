@@ -5,90 +5,83 @@
 
 ## 🎯 项目 
 
-### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+### [pushdeer](https://github.com/easychen/pushdeer)
 
-免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
+开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备：
 
-![rxresu](https://images-1252557999.file.myqcloud.com/uPic/rxresu.jpg) 
+![pushdeer](https://images-1252557999.file.myqcloud.com/uPic/pushdeer.jpg) 
 
-### [Restfox](https://github.com/flawiddsouza/Restfox)
+### [orpington-news](https://github.com/frysztak/orpington-news)
 
-主打离线也能运行使用的 `Web HTTP` 客户端:
+可自部署的 `RSS` 阅读器，支持 `PWA`：
 
-![Restfox](https://images-1252557999.file.myqcloud.com/uPic/Restfox.png)
+![orpington-news](https://images-1252557999.file.myqcloud.com/uPic/orpington-news.png) 
 
-之前也推荐过 [hoppscotch](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=post#hoppscotch)，功能类似，酌情选择。 
+### [Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals)
 
-### [free-api](https://github.com/fangzesheng/free-api)
+黑五 Mac IOS 生态相关软件打折软件汇总项目：
 
-作者创建此开源项目的目的如下：
-
-> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
-
-包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
-
-![free-api](https://images-1252557999.file.myqcloud.com/uPic/VvapMO.png) 
+![Black-Friday-Deals](https://images-1252557999.file.myqcloud.com/uPic/Black-Friday-Deals.png) 
 
 ## 🤖 软件 
 
-### [staxrip](https://github.com/staxrip/staxrip)
+### [ToastFish](https://github.com/Uahh/ToastFish)
 
-`StaxRip` 是一个强大的用于 `Windows` 的视频/音频编码图形用户界面。
-它执行和控制诸如 `x265、mkvmerge、ffmpeg` 等控制台应用程序，并使用基于脚本的帧服务器 A`viSynth+和VapourSynth` 进行视频处理。每个项目还可以通过各种事件和设置进行扩展：
+这是一个利用 `Windows` 通知栏背单词的软件，可以让你在上班、上课等环境下安全地背单词：
 
-![staxrip](https://images-1252557999.file.myqcloud.com/uPic/staxrip.jpg) 
+![ToastFish](https://images-1252557999.file.myqcloud.com/uPic/ToastFish.gif) 
 
-### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+### [cursor](https://github.com/getcursor/cursor)
 
-`Android` 平台下 `MD` 风格的文件管理器:
+一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
 
-![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
+![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
 
-### [Responsively](https://github.com/responsively-org/responsively-app)
+### [EasyNotes](https://github.com/Kin69/EasyNotes)
 
-一种二次开发过的 `web` 浏览器，有助于快速响应web开发，一次性查看网页在多端的展示效果，非常强大，关键是开源免费：
+一个开源的 `Android` 笔记应用，使用 `Kotlin` 编写，采用了最新的 `Jetpack Compose MVVM` 架构，以实现流畅的笔记编辑和管理体验。该应用支持完整的 `Markdown` 格式（包括图片），提供了一个安全的、加密的笔记保险库。EasyNotes 特点包括轻量化、无需任何权限、 `Material You` 设计风格:
 
-![Responsively](https://images-1252557999.file.myqcloud.com/uPic/Responsively.jpg) 
+![EasyNotes](https://images-1252557999.file.myqcloud.com/uPic/Rq8teu.png) 
 
 ## 👀 资料 
 
-### [LLMs-In-China](https://github.com/wgwang/LLMs-In-China)
+### [How-to-use-Transformers](https://github.com/jsksxs360/How-to-use-Transformers)
 
-记录中国大模型发展情况，同时持续深度分析开源开放的大模型以及数据集的情况，目前记录了国内188个大模型：
+Transformers 库快速入门[教程](https://transformers.run/)：
 
-![LLMs-In-China](https://images-1252557999.file.myqcloud.com/uPic/LLMs-In-China.png) 
+![How-to-use-Transformers](https://images-1252557999.file.myqcloud.com/uPic/How-to-use-Transformers.jpg) 
 
-### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
+### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
 
-`OpenAI` 出品的的深度强化学习教程：
+该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
 
-![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
+![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
 
-### [aie-book](https://github.com/chiphuyen/aie-book)
+### [English-Writing](https://github.com/yzy1996/English-Writing)
 
-`AI` 工程师资源合集，该书涵盖了从基础模型到实际应用的整个过程，包括数据准备、模型评估、问题解决等方面。书中还提供了案例研究、误差分析、提示工程、代理构建、微调模型、数据验证、模型优化和持续改进的框架。这本书适合各种技术角色，包括 `AI` 工程师、数据科学家、工程经理和产品经理。
-
-![aie-book](https://images-1252557999.file.myqcloud.com/uPic/QD4TLj.png) 
+本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
 ## 🕸 网站 
 
-### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
+### [bookmark.style](https://www.bookmark.style/)
 
-@妙才投稿，在线学习git命令的网站：
+将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
+![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
 
-### [gcopy](https://gcopy.rutron.net/zh)
+假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
 
-一个剪切板同步的工具, 支持文字、截图和文件，使用 `Golang` 和 `Nextjs` 开发. 完全[开源](https://github.com/llaoj/gcopy)，`GCopy` 重视您的数据隐私, 不持久化存储您的数据, 它们都在内存中 `24h` 自动删除：
+### [mlsub](https://mlsub.net/)
 
-![gcopy](https://images-1252557999.file.myqcloud.com/uPic/gcopy.jpg) 
+一个专注哆啦A梦和蜡笔小新的动漫网站：
 
-### [picdiet.eula.club](https://picdiet.eula.club/)
+![mlsub](https://images-1252557999.file.myqcloud.com/uPic/mlsub.jpg) 
 
-`Picdiet` 是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏：
+### [animatedknots](https://www.animatedknots.com/)
 
-![picdiet](https://images-1252557999.file.myqcloud.com/uPic/picdiet.jpg) 
+各种给绳子打结的姿势都可以在这里找到：
+
+![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
 
 ## ✍️ 说明
 
