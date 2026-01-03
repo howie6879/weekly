@@ -5,83 +5,121 @@
 
 ## 🎯 项目 
 
-### [pushdeer](https://github.com/easychen/pushdeer)
+### [picx](https://github.com/XPoet/picx "picx")
 
-开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备：
+`PicX` 是一款基于 `GitHub API` 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务：
 
-![pushdeer](https://images-1252557999.file.myqcloud.com/uPic/pushdeer.jpg) 
+![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg)
 
-### [orpington-news](https://github.com/frysztak/orpington-news)
+类似项目：
 
-可自部署的 `RSS` 阅读器，支持 `PWA`：
+- [telegraph](https://github.com/0-RTT/telegraph "telegraph")
+- [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image "Telegraph-Image"):免费图片托管解决方案，`Flickr/imgur` 替代品
+- [rao-pics](https://github.com/meetqy/rao-pics "rao-pics"):利用 `Eagle APP` 快速搭建图片站、
 
-![orpington-news](https://images-1252557999.file.myqcloud.com/uPic/orpington-news.png) 
+但是老胡建议不要滥用，这种也不稳定，自己偶尔测试需要可以使用一下，推荐出来也是让朋友们多个选择。我推荐自建图床：
 
-### [Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals)
+- [lsky-pro](https://github.com/lsky-org/lsky-pro "lsky-pro")：兰空图床
+- [EasyImages2.0](https://github.com/icret/EasyImages2.0 "EasyImages2.0")：简单图床 - 一款功能强大无数据库的图床 2.0 版
+- [PicList](https://github.com/Kuingsmile/PicList "PicList")：图片上传 云存储管理
+- [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed "quickly-picture-bed")：轻快图床：使用 nestjs+vue3.x+ts+vite 开发的在线图床系统，内置功能包括图片上传、图片管理、存储桶管理、相册管理、插件市场、知识库管理、数据统计等功能 
 
-黑五 Mac IOS 生态相关软件打折软件汇总项目：
+### [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua)
 
-![Black-Friday-Deals](https://images-1252557999.file.myqcloud.com/uPic/Black-Friday-Deals.png) 
+中华新华字典数据库和 API 。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
+
+![chinese-xinhua](https://images-1252557999.file.myqcloud.com/uPic/pOd5nk.png) 
+
+### [kafka-ui](https://github.com/provectus/kafka-ui)
+
+开源的 `Apache Kafka` 管理项目（Web UI）：
+
+![kafka-ui](https://images-1252557999.file.myqcloud.com/uPic/kafka-ui.jpg)
+
+同类产品还有：[kafdrop](https://github.com/obsidiandynamics/kafdrop)。 
 
 ## 🤖 软件 
 
-### [ToastFish](https://github.com/Uahh/ToastFish)
+### [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop)
 
-这是一个利用 `Windows` 通知栏背单词的软件，可以让你在上班、上课等环境下安全地背单词：
+基于 `tauri + vue3` 开发的跨平台桌面端应用，当今社会，智能化、便捷化已经成为趋势。选择 ChatGPT-Desktop，您将享受到以下优势：
 
-![ToastFish](https://images-1252557999.file.myqcloud.com/uPic/ToastFish.gif) 
+- 我们使用 tauri 构建项目，使项目包更加小巧精简，资源占用更少，同时适配多个平台。
+- 提供了配置代理的功能，您可以通过设置代理来实现更加灵活的网络访问。
+- 可以选择让 app 常驻后台，快捷键(支持自定义)一键唤醒，节省时间，提高效率。
+- 支持多 session 对话，利用 GPT-3.5-turbo 的最新特性，配合记忆模式，随时继续上一次对话。
+- 更便捷的管理和调试 prompt，构建你自己的角色预设库，使得对话更加个性化。
+- 内置丰富的导出功能，更加便利的分享结果！
+- 软件支持自动更新和手动检查更新的功能，以便大家更方便地更新软件。
+- 将所有对话存储到本地，方便随时查阅，留在身边最安心。
 
-### [cursor](https://github.com/getcursor/cursor)
+![ChatGPT-Desktop](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Desktop.png) 
 
-一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
+### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
 
-![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
+类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
 
-### [EasyNotes](https://github.com/Kin69/EasyNotes)
+![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
 
-一个开源的 `Android` 笔记应用，使用 `Kotlin` 编写，采用了最新的 `Jetpack Compose MVVM` 架构，以实现流畅的笔记编辑和管理体验。该应用支持完整的 `Markdown` 格式（包括图片），提供了一个安全的、加密的笔记保险库。EasyNotes 特点包括轻量化、无需任何权限、 `Material You` 设计风格:
+### [EcoPaste](https://github.com/ayangweb/EcoPaste)
 
-![EasyNotes](https://images-1252557999.file.myqcloud.com/uPic/Rq8teu.png) 
+一款开源的跨平台剪切板管理工具：
+
+- 使用 Tauri 构建项目，使其更加小巧精致，资源占用更少，同时适配多个平台。
+- 应用常驻后台，通过自定义快捷键一键唤醒，节省时间，提高效率。
+- 所有剪切板内容均在本地存储，确保数据隐私和安全。
+- 支持纯文本、富文本、HTML、图片和文件类型。
+- 根据剪切板内容类型自动进行分组，便于高效管理。
+- 支持收藏剪切板内容，便于快速访问和管理重要信息。
+- 内置搜索功能，轻松找到剪切板上的任何内容。
+- 图片内置系统 OCR 功能，支持文本和二维码识别。
+- 提供丰富的右键菜单，增强操作便捷性。
+
+![EcoPaste](https://images-1252557999.file.myqcloud.com/uPic/EcoPaste.jpg) 
 
 ## 👀 资料 
 
-### [How-to-use-Transformers](https://github.com/jsksxs360/How-to-use-Transformers)
+### [ScienceFictionCollection](https://github.com/VeejaLiu/ScienceFictionCollection)
 
-Transformers 库快速入门[教程](https://transformers.run/)：
+科幻小说作品集收集项目，包含以下作者的作品：
 
-![How-to-use-Transformers](https://images-1252557999.file.myqcloud.com/uPic/How-to-use-Transformers.jpg) 
+- 刘慈欣 (Cixin Liu)
+- Frank Herbert (弗兰克・赫伯特)
+- Isaac Asimov (艾萨克・阿西莫夫)
+- Jules Gabriel Verne (儒勒・加布里埃尔・凡尔纳)
+- Mary Shelley (玛丽・雪莱)
+- Ray Douglas Bradbury (雷・道格拉斯・布拉德伯里)
+- Orson Scott Card (奥森・斯科特・卡德)
+- Ted Chiang (特德・姜)
+- Michael Swanwick (迈克尔・斯万维克) 
 
-### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
 
-该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
 
-![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
+### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
-### [English-Writing](https://github.com/yzy1996/English-Writing)
-
-本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
+命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
 
 ## 🕸 网站 
 
-### [bookmark.style](https://www.bookmark.style/)
+### [gemini-pro.chat](https://gemini-pro.chat/) 
 
-将任意链接转换生成分享图的工具，`bookmark.style` 适用于开发者、创作者、公众号写手，它可以美化你的链接，让你的链接`开口说话`：
+免费的谷歌 `Gemini Chat Pro`，在线网站：
 
-![bookmark_weekly](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/bookmark_weekly.png)
+![gemini-pro.chat](https://images-1252557999.file.myqcloud.com/uPic/gemini-pro.chat.jpg) 
 
-假如你此时用微信看这篇周刊，用这种形式会非常方便地进行链接查看，扫一扫即可。 
+### [macosicongallery](https://www.macosicongallery.com/)
 
-### [mlsub](https://mlsub.net/)
+专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
 
-一个专注哆啦A梦和蜡笔小新的动漫网站：
+![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
 
-![mlsub](https://images-1252557999.file.myqcloud.com/uPic/mlsub.jpg) 
+### [cleverpdf](https://www.cleverpdf.com/cn)
 
-### [animatedknots](https://www.animatedknots.com/)
+几十个强大的PDF在线工具，无需注册会员，永久免费：
 
-各种给绳子打结的姿势都可以在这里找到：
-
-![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
+![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
 
 ## ✍️ 说明
 
