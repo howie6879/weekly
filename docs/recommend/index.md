@@ -5,101 +5,85 @@
 
 ## 🎯 项目 
 
-### [qinglong](https://github.com/whyour/qinglong)
+### [diagrams](https://github.com/mingrammer/diagrams)
 
-支持python3、javaScript、shell、typescript 的定时任务管理面板：
+用 `Python` 代码绘制云原生架构图：
 
-- 支持多种脚本语言（python3、javaScript、shell、typescript）
-- 支持在线管理脚本、环境变量、配置文件
-- 支持在线查看任务日志
-- 支持秒级任务设置
-- 支持系统级通知
-- 支持暗黑模式
-- 支持手机端操作
+![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
 
-![ql](https://images-1252557999.file.myqcloud.com/uPic/ql.jpg) 
+### [wechat-export](https://github.com/luin/wechat-export)
 
-### [doocs/md](https://github.com/doocs/md)
+将微信聊天记录导出为HTML文件：
 
-✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性：
+![wechat-export](https://images-1252557999.file.myqcloud.com/uPic/eIhKUP.jpg) 
 
-![doocs](https://images-1252557999.file.myqcloud.com/uPic/doocs.jpg)
+### [social-auto-upload](https://github.com/dreammis/social-auto-upload)
 
-之前我也推荐过 [markdown-nice](https://weekly.howie6879.com/2022/02-15~02-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC027%E6%9C%9F%EF%BC%89.html?h=mdnice#markdown-nice) ，我构建了一键使用的镜像，也可以体验：
+自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili：
 
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
-
-### [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
-
-为`ChatGPT/ChatGLM/LLaMA/StableLM/MOSS`等多种 `LLM` 提供了一个轻快好用的 `Web` 图形界面：
-
-![ChuanhuChatGPT](https://images-1252557999.file.myqcloud.com/uPic/ChuanhuChatGPT.jpg) 
+![social-auto-upload](https://images-1252557999.file.myqcloud.com/uPic/social-auto-upload.jpg) 
 
 ## 🤖 软件 
 
-### [stats](https://github.com/exelban/stats)
+### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
 
-基于 `macOS` 菜单栏的系统监控软件：
+类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
 
-![stats](https://images-1252557999.file.myqcloud.com/uPic/stats.jpg) 
+![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
 
-### [stretchly](https://github.com/hovancik/stretchly)
+### [aidea](https://github.com/mylxsw/aidea)
 
-`Stretchly` 是一个跨平台的 `Electron` 应用程序，它的核心功能就是让你在电脑上面工作时候设定休息&提醒时间：
+一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：
 
-![stretchly](https://images-1252557999.file.myqcloud.com/uPic/stretchly.jpg) 
+- 支持 GPT-3.5/4 问答聊天
+- 支持国产模型：通义千问，文心一言
+- 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
 
-### [Maccy](https://github.com/p0deje/Maccy)
+![aidea](https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg) 
 
-轻量级macOS剪切板管理应用：
+### [spotube](https://github.com/KRTirtho/spotube)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
-使用截图如下：
+`Spotube` 可用于所有主要平台，包括 `Linux、Android、Windows & MacOS`，它利用 `Spotify` 和 `YouTube` 的公共 `API` 作为音频源，不需要 `Spotify Premium`，没有广告，可下载歌曲，实时同步歌词，支持匿名或访客登录：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
+![spotube](https://images-1252557999.file.myqcloud.com/uPic/spotube.jpg) 
 
 ## 👀 资料 
 
-### [programming-math-science](https://github.com/bobeff/programming-math-science) 
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
+一份程序员延寿指南，目标是稳健地活得更久。 
 
-### [sideproject](https://sideproject.guide/)
+### [whys-the-design](https://draven.co/whys-the-design/)
 
-`Side Project` 指南：
+为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+### [How to Make MySQL Better](https://github.com/enhancedformysql/The-Art-of-Problem-Solving-in-Software-Engineering_How-to-Make-MySQL-Better)
 
-### [1000-chinese-independent-developer-plus](https://github.com/XiaomingX/1000-chinese-independent-developer-plus)
+通过分析 `MySQL` 挑战案例来解决软件工程问题的方法论，旨在帮助读者更好地理解逻辑推理、数据结构、算法等通用概念，并通过实际示例和深入讨论增强对 `MySQL` 性能优化的理解：
 
-中国独立开发者项目列表，分享大家都在做什么。 
+![How to Make MySQL Better](https://images-1252557999.file.myqcloud.com/uPic/OVUkJI.png) 
 
 ## 🕸 网站 
 
-### [熊猫速读](https://qread.xmsoushu.com/)
+### [zeli.app](https://zeli.app/zh)
 
-熊猫速读是一个收集精品视频读书笔记或好书分享的网站！为您推荐好书速读的视频，在您读一本书或者购买图书之前通过视频介绍先快速了解书籍的内容，根据兴趣再决定是否购买。
+用中文读科技新闻，旨在帮你快速挑选感兴趣的文章来读：
 
-![xmsd](https://images-1252557999.file.myqcloud.com/uPic/xmsd.jpg) 
+![zeli](https://images-1252557999.file.myqcloud.com/uPic/dvVEf9.png) 
 
-### [designer.microsoft.com](https://designer.microsoft.com/)
+### [chuhai.tools](https://chuhai.tools/)
 
-基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
+独立开发者出海技术栈和工具集合:
 
-![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
+![chuhai](https://images-1252557999.file.myqcloud.com/uPic/chuhai.jpg) 
 
-### [up-6.com](https://www.up-6.com/)
+### [ai-llm-comparison](https://github.com/Ahmet-Dedeler/ai-llm-comparison)
 
-一个英语学习导航网站：
+该网站旨在为用户提供一个比较各种 AI 模型的平台，帮助用户根据自己的需求选择最合适的 AI 服务：
 
-![up-6](https://images-1252557999.file.myqcloud.com/uPic/up-6.jpg) 
+![ai-llm-comparison](https://images-1252557999.file.myqcloud.com/uPic/SO7NW7.png) 
 
 ## ✍️ 说明
 
