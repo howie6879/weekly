@@ -5,85 +5,82 @@
 
 ## 🎯 项目 
 
-### [diagrams](https://github.com/mingrammer/diagrams)
+### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
 
-用 `Python` 代码绘制云原生架构图：
+该项目支持将微信聊天记录导出并生成网页浏览。 
 
-![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
+### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
 
-### [wechat-export](https://github.com/luin/wechat-export)
+`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
 
-将微信聊天记录导出为HTML文件：
+![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
 
-![wechat-export](https://images-1252557999.file.myqcloud.com/uPic/eIhKUP.jpg) 
+### [MTranServer](https://github.com/xxnuo/MTranServer)
 
-### [social-auto-upload](https://github.com/dreammis/social-auto-upload)
+一个超低资源消耗超快的离线翻译服务器，英译中模型仅需 860MB 内存即可运行，无需显卡。单个请求平均响应时间 50ms。支持全世界主要语言的翻译，翻译质量与 Google 翻译相当。
 
-自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili：
-
-![social-auto-upload](https://images-1252557999.file.myqcloud.com/uPic/social-auto-upload.jpg) 
+![MTranServer](https://images-1252557999.file.myqcloud.com/uPic/KZywne.png) 
 
 ## 🤖 软件 
 
-### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
+### [stats](https://github.com/exelban/stats)
 
-类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
+基于 `macOS` 菜单栏的系统监控软件：
 
-![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
+![stats](https://images-1252557999.file.myqcloud.com/uPic/stats.jpg) 
 
-### [aidea](https://github.com/mylxsw/aidea)
+### [GeekDesk](https://github.com/BookerLiu/GeekDesk)
 
-一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：
+小巧、美观的桌面快速启动管理工具，同时集成了 `Everything` 搜索，仅支持 `Windows`：
 
-- 支持 GPT-3.5/4 问答聊天
-- 支持国产模型：通义千问，文心一言
-- 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
+![GeekDesk](https://images-1252557999.file.myqcloud.com/uPic/GeekDesk.png) 
 
-![aidea](https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg) 
+### [insomnia](https://github.com/Kong/insomnia)
 
-### [spotube](https://github.com/KRTirtho/spotube)
+在[第009期（10-11~10-17）](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
 
-`Spotube` 可用于所有主要平台，包括 `Linux、Android、Windows & MacOS`，它利用 `Spotify` 和 `YouTube` 的公共 `API` 作为音频源，不需要 `Spotify Premium`，没有广告，可下载歌曲，实时同步歌词，支持匿名或访客登录：
-
-![spotube](https://images-1252557999.file.myqcloud.com/uPic/spotube.jpg) 
+![insomnia](https://images-1252557999.file.myqcloud.com/uPic/insomnia.png)
+使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
 
 ## 👀 资料 
 
-### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
+### [Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
 
-一份程序员延寿指南，目标是稳健地活得更久。 
+微软出品的 `GitHub Copilot` 教程：
 
-### [whys-the-design](https://draven.co/whys-the-design/)
+![Mastering-GitHub-Copilot-for-Paired-Programming](https://images-1252557999.file.myqcloud.com/uPic/KTSuLa.png) 
 
-为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
+### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
 
-![whys-the-design](https://images-1252557999.file.myqcloud.com/uPic/whys-the-design.jpg) 
+从零开始 `Kubernetes` 攻防:
 
-### [How to Make MySQL Better](https://github.com/enhancedformysql/The-Art-of-Problem-Solving-in-Software-Engineering_How-to-Make-MySQL-Better)
+![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
 
-通过分析 `MySQL` 挑战案例来解决软件工程问题的方法论，旨在帮助读者更好地理解逻辑推理、数据结构、算法等通用概念，并通过实际示例和深入讨论增强对 `MySQL` 性能优化的理解：
+### [GolangStudy](https://github.com/cnymw/GolangStudy)
 
-![How to Make MySQL Better](https://images-1252557999.file.myqcloud.com/uPic/OVUkJI.png) 
+《[GolangStudy](https://golangstudy.tech/)》：从简单到难最全总结，go基础，数据结构，算法，设计模式：
+
+![GolangStudy](https://images-1252557999.file.myqcloud.com/uPic/GolangStudy.jpg) 
 
 ## 🕸 网站 
 
-### [zeli.app](https://zeli.app/zh)
+### [iconfont](https://www.iconfont.cn/)
 
-用中文读科技新闻，旨在帮你快速挑选感兴趣的文章来读：
+阿里巴巴矢量图标库：
 
-![zeli](https://images-1252557999.file.myqcloud.com/uPic/dvVEf9.png) 
+![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
 
-### [chuhai.tools](https://chuhai.tools/)
+### [jaywcjlove/reference](https://wangchujiang.com/reference/)
 
-独立开发者出海技术栈和工具集合:
+为开发人员分享快速参考备忘清单【速查表】，也可以直接通过 github 访问-> [jaywcjlove/reference](https://github.com/jaywcjlove/reference) :
 
-![chuhai](https://images-1252557999.file.myqcloud.com/uPic/chuhai.jpg) 
+![reference](https://images-1252557999.file.myqcloud.com/uPic/reference.png) 
 
-### [ai-llm-comparison](https://github.com/Ahmet-Dedeler/ai-llm-comparison)
+### [transhumans](https://www.transhumans.xyz/)
 
-该网站旨在为用户提供一个比较各种 AI 模型的平台，帮助用户根据自己的需求选择最合适的 AI 服务：
+免费可商用的人物插图：
 
-![ai-llm-comparison](https://images-1252557999.file.myqcloud.com/uPic/SO7NW7.png) 
+![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
 
 ## ✍️ 说明
 
