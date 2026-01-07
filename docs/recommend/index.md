@@ -5,82 +5,121 @@
 
 ## 🎯 项目 
 
-### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
+### [py12306](https://github.com/pjialin/py12306)
 
-该项目支持将微信聊天记录导出并生成网页浏览。 
+🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理：
 
-### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
+![py12306](https://images-1252557999.file.myqcloud.com/uPic/py12306.jpg)
 
-`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
+如果实在抢不到，试下这个项目通过补票或者多买一站来解决：[12306spy](https://github.com/elroy93/12306spy)，这类项目每到假期就会火一把。 
 
-![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
+### [movie-web](https://github.com/movie-web/movie-web)
 
-### [MTranServer](https://github.com/xxnuo/MTranServer)
+开源可自部署的简约在线电影搜索观看项目：
 
-一个超低资源消耗超快的离线翻译服务器，英译中模型仅需 860MB 内存即可运行，无需显卡。单个请求平均响应时间 50ms。支持全世界主要语言的翻译，翻译质量与 Google 翻译相当。
+- 自动保存进度
+- 记录观看电影
+- 简约的界面，展示内容克制
 
-![MTranServer](https://images-1252557999.file.myqcloud.com/uPic/KZywne.png) 
+![movie-web](https://images-1252557999.file.myqcloud.com/uPic/movie-web.jpg)
+
+所有内容都是从第三方获取的，并且抓取操作在客户端完成，项目包含以下模块：
+
+- 代理
+- 前端
+- 后端
+
+这三块全部可以自部署，文档写的也挺清晰我试了下，播放霸王别姬：
+
+![movie_demo](https://images-1252557999.file.myqcloud.com/uPic/movie_demo.jpg) 
+
+### [chatwiki](https://github.com/zhimaAi/chatwiki)
+
+开箱即用的基于企业私有知识库的LLM大语言模型的智能客服机器人问答系统，支持私有化部署，代码免费开源且可商用，由芝麻小客服官方推出。
+
+![chatwiki](https://images-1252557999.file.myqcloud.com/uPic/pmpJzE.png) 
 
 ## 🤖 软件 
 
-### [stats](https://github.com/exelban/stats)
+### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
 
-基于 `macOS` 菜单栏的系统监控软件：
+使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
 
-![stats](https://images-1252557999.file.myqcloud.com/uPic/stats.jpg) 
+- 支持下载无水印视频
+- 支持下载某个账号号的所有视频
 
-### [GeekDesk](https://github.com/BookerLiu/GeekDesk)
+![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
 
-小巧、美观的桌面快速启动管理工具，同时集成了 `Everything` 搜索，仅支持 `Windows`：
+### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
 
-![GeekDesk](https://images-1252557999.file.myqcloud.com/uPic/GeekDesk.png) 
+跨平台的`youtube-dl`客户端：
 
-### [insomnia](https://github.com/Kong/insomnia)
+![](https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png) 
 
-在[第009期（10-11~10-17）](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html)周刊我曾推荐过[Hoppscotch](https://github.com/hoppscotch/hoppscotch)来代替评价越来越不行的`Postman`，不过`Hoppscotch`仅仅支持网页端，不少朋友认为客户端还是刚需，因此这次机缘巧合下发现了一款跨平台的开源客户端`insomnia`，其支持`GraphQL&REST&gRPC`:
+### [Maccy](https://github.com/p0deje/Maccy)
 
-![insomnia](https://images-1252557999.file.myqcloud.com/uPic/insomnia.png)
-使用一段时间后免费版本也完全可以满足我的日常需求，其中抽象出来的API环境大大提升了我的开发效率。 
+轻量级macOS剪切板管理应用：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
+使用截图如下：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
 
 ## 👀 资料 
 
-### [Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
+### [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
 
-微软出品的 `GitHub Copilot` 教程：
+《Anthropic Cookbook》提供了旨在帮助开发人员与Claude一起构建的代码和指南，提供可复制的代码片段，您可以轻松地将其集成到自己的项目中。 
 
-![Mastering-GitHub-Copilot-for-Paired-Programming](https://images-1252557999.file.myqcloud.com/uPic/KTSuLa.png) 
+### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
 
-### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
+这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
 
-从零开始 `Kubernetes` 攻防:
+- 👋 入门
+- 💬 大语言模型
+	- 💡 提示工程
+	- 🔧 大语言模型实践
+	- 🔬 大语言模型理论
+- 🎨 AI绘画
+- 🔊 AI音频
+- 🌈 多模态
+- 🧠 深度学习
+- 💻 AI系统 
 
-![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
+### [现代 JavaScript 教程](https://zh.javascript.info/)
 
-### [GolangStudy](https://github.com/cnymw/GolangStudy)
+以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识：
 
-《[GolangStudy](https://golangstudy.tech/)》：从简单到难最全总结，go基础，数据结构，算法，设计模式：
-
-![GolangStudy](https://images-1252557999.file.myqcloud.com/uPic/GolangStudy.jpg) 
+![javascript_info](https://images-1252557999.file.myqcloud.com/uPic/javascript_info.jpg) 
 
 ## 🕸 网站 
 
-### [iconfont](https://www.iconfont.cn/)
+### [chinesenewyear](https://chinesenewyear.net/)
 
-阿里巴巴矢量图标库：
+国外一个专门介绍农历春节的网站，包含了非常多关于春节的介绍信息：
 
-![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
+![chinesenewyear](https://images-1252557999.file.myqcloud.com/uPic/chinesenewyear.jpg) 
 
-### [jaywcjlove/reference](https://wangchujiang.com/reference/)
+### [squoosh](https://squoosh.app/)
 
-为开发人员分享快速参考备忘清单【速查表】，也可以直接通过 github 访问-> [jaywcjlove/reference](https://github.com/jaywcjlove/reference) :
+免费漂亮的在线图片压缩网站：
 
-![reference](https://images-1252557999.file.myqcloud.com/uPic/reference.png) 
+![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
 
-### [transhumans](https://www.transhumans.xyz/)
+其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
 
-免费可商用的人物插图：
+### [文学网](https://www.hwxnet.com/)
 
-![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
+文学相关工具在线网站：
+
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
+
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
 ## ✍️ 说明
 
