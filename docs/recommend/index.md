@@ -5,121 +5,113 @@
 
 ## 🎯 项目 
 
-### [py12306](https://github.com/pjialin/py12306)
+### [iptv-api](https://github.com/Guovin/iptv-api)
 
-🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理：
+自定义频道，自动获取直播源接口，测速验证后生成可用的结果，默认结果包含：📺央视频道、💰央视付费频道、📡卫视频道、🏠广东频道、🌊港·澳·台频道、🎬电影频道、🎥咪咕直播、🏀体育频道、🪁动画频道、🎮游戏频道、🎵音乐频道、🏛经典剧场。
 
-![py12306](https://images-1252557999.file.myqcloud.com/uPic/py12306.jpg)
+- ✅ 自定义模板，生成您想要的频道
+- ✅ 支持多种获取源方式：组播源、酒店源、订阅源、关键字搜索
+- ✅ 接口测速验效，响应时间、分辨率优先级，过滤无效接口
+- ✅ 偏好设置：IPv6、接口来源排序优先级与数量配置、接口白名单
+- ✅ 定时执行，北京时间每日 6:00 与 18:00 执行更新
+- ✅ 支持多种运行方式：工作流、命令行、GUI 软件、Docker(amd64/arm64/arm v7) 
 
-如果实在抢不到，试下这个项目通过补票或者多买一站来解决：[12306spy](https://github.com/elroy93/12306spy)，这类项目每到假期就会火一把。 
+### [siri-ultra](https://github.com/fatwang2/siri-ultra)
 
-### [movie-web](https://github.com/movie-web/movie-web)
+`Siri Ultra` 是一个能在 `iPhone` 上使用的 AI 聊天快捷指令，无需下载任何软件即可体验到最新的大模型：
 
-开源可自部署的简约在线电影搜索观看项目：
+- 通过 Siri 实时语音对话，也可以直接运行快捷指令进行文字对话
+- 兼容各种大模型，包括 OpenAI、Gemini、DeepSeek 等
+- 支持联网搜索（需单独配置搜索 key）
+- 支持网页总结 （链接发给快捷指令即可） 
 
-- 自动保存进度
-- 记录观看电影
-- 简约的界面，展示内容克制
+### [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
 
-![movie-web](https://images-1252557999.file.myqcloud.com/uPic/movie-web.jpg)
+一个大模型 `AI` 网关项目，只需要通过项目提供的一个接口，就可以快速连接到100多个 `LLM`：
 
-所有内容都是从第三方获取的，并且抓取操作在客户端完成，项目包含以下模块：
+- 极速（快9.9倍），占用空间小（安装后约45kb）
+- 在多个模型、提供者和密钥之间进行负载均衡
+- 备选方案确保您的应用程序具有弹性
+- 默认情况下，自动重试并采用指数回退策略
+- 根据需要添加插件中间件
+- 经过1000亿次 Token 的实战考验
 
-- 代理
-- 前端
-- 后端
-
-这三块全部可以自部署，文档写的也挺清晰我试了下，播放霸王别姬：
-
-![movie_demo](https://images-1252557999.file.myqcloud.com/uPic/movie_demo.jpg) 
-
-### [chatwiki](https://github.com/zhimaAi/chatwiki)
-
-开箱即用的基于企业私有知识库的LLM大语言模型的智能客服机器人问答系统，支持私有化部署，代码免费开源且可商用，由芝麻小客服官方推出。
-
-![chatwiki](https://images-1252557999.file.myqcloud.com/uPic/pmpJzE.png) 
+  
+![ai-gateway](https://images-1252557999.file.myqcloud.com/uPic/ai-gateway.jpg)
+  
+同类型项目可以参考：[One API👉通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 ✨](https://github.com/songquanpeng/one-api) 
 
 ## 🤖 软件 
 
-### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
+### [FluentHub](https://github.com/FluentHub/FluentHub)
 
-使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
+界面  `UI` 时尚功能强大的 `Windows GitHub` 客户端：
 
-- 支持下载无水印视频
-- 支持下载某个账号号的所有视频
+![FluentHub](https://images-1252557999.file.myqcloud.com/uPic/FluentHub.png) 
 
-![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
+### [Hacki](https://github.com/Livinglist/Hacki)
 
-### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
+基于 `Flutter` 的  `Hacker News` 客户端:
 
-跨平台的`youtube-dl`客户端：
+![Hacki](https://images-1252557999.file.myqcloud.com/uPic/Hacki.jpg) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png) 
+### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
 
-### [Maccy](https://github.com/p0deje/Maccy)
+ImageOptim 是一款开源免费的本地图像压缩工具：
 
-轻量级macOS剪切板管理应用：
+![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
-使用截图如下：
+我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
+- [Imagine](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
+- [webutils](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
+- [tinypng](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
+- [tanpok](https://weekly.howie6879.com/2021/11-15~11-21.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
+- [docsmall](https://weekly.howie6879.com/2021/10-18~10-24.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=docsma#docsmall)：提供一些图片压缩、PDF合并分割小功能的网站 
 
 ## 👀 资料 
 
-### [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
+### [Agentic Design Patterns](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/preview?tab=t.0)
 
-《Anthropic Cookbook》提供了旨在帮助开发人员与Claude一起构建的代码和指南，提供可复制的代码片段，您可以轻松地将其集成到自己的项目中。 
+`《Agentic Design Patterns》`是由 `Antonio Gulli` 撰写的一本关于构建智能系统的实用指南，本书详细介绍了智能体的设计模式，包括如何通过提示链（Prompt Chaining）、路由（Routing）、并行化（Parallelization）、反射（Reflection）、工具使用（Tool Use）、规划（Planning）和多智能体系统（Multi-Agent）等技术来构建智能系统。
 
-### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
+书中还涵盖了内存管理、学习与适应、模型上下文协议（MCP）、目标设定与监控等关键概念。此外，还讨论了异常处理与恢复、人在回路（Human-in-the-Loop）、知识检索（RAG）、智能体之间的通信（A2A）、资源感知优化、推理技术、守护轨迹 / 安全模式、评估与监控、优先级设定、探索与发现等高级主题。
 
-这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
+![Agentic Design Patterns](https://images-1252557999.file.myqcloud.com/uPic/JLZ4ca.png) 
 
-- 👋 入门
-- 💬 大语言模型
-	- 💡 提示工程
-	- 🔧 大语言模型实践
-	- 🔬 大语言模型理论
-- 🎨 AI绘画
-- 🔊 AI音频
-- 🌈 多模态
-- 🧠 深度学习
-- 💻 AI系统 
+### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
 
-### [现代 JavaScript 教程](https://zh.javascript.info/)
+`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
 
-以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识：
+![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
 
-![javascript_info](https://images-1252557999.file.myqcloud.com/uPic/javascript_info.jpg) 
+### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
+
+编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
 
 ## 🕸 网站 
 
-### [chinesenewyear](https://chinesenewyear.net/)
+### [caesium-image-compressor](https://caesium.app/)
 
-国外一个专门介绍农历春节的网站，包含了非常多关于春节的介绍信息：
+免费开源的图片压缩工具：
 
-![chinesenewyear](https://images-1252557999.file.myqcloud.com/uPic/chinesenewyear.jpg) 
+![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.png)
 
-### [squoosh](https://squoosh.app/)
+还支持[桌面端](https://github.com/Lymphatus/caesium-image-compressor)：
 
-免费漂亮的在线图片压缩网站：
+![caesium-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/caesium-image-compressor.png) 
 
-![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
+### [gcopy](https://gcopy.rutron.net/zh)
 
-其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
+一个剪切板同步的工具, 支持文字、截图和文件，使用 `Golang` 和 `Nextjs` 开发. 完全[开源](https://github.com/llaoj/gcopy)，`GCopy` 重视您的数据隐私, 不持久化存储您的数据, 它们都在内存中 `24h` 自动删除：
 
-### [文学网](https://www.hwxnet.com/)
+![gcopy](https://images-1252557999.file.myqcloud.com/uPic/gcopy.jpg) 
 
-文学相关工具在线网站：
+### [Bing 文字创建图像](https://www.bing.com/images/create)
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
+微软出品的文字生成图像模型（IP不能是国内）：
 
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+![bing_image](https://images-1252557999.file.myqcloud.com/uPic/bing_image.jpg) 
 
 ## ✍️ 说明
 
