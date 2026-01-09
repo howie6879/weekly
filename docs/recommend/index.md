@@ -5,113 +5,108 @@
 
 ## 🎯 项目 
 
-### [iptv-api](https://github.com/Guovin/iptv-api)
+### [LocalAI](https://github.com/go-skynet/LocalAI)
 
-自定义频道，自动获取直播源接口，测速验证后生成可用的结果，默认结果包含：📺央视频道、💰央视付费频道、📡卫视频道、🏠广东频道、🌊港·澳·台频道、🎬电影频道、🎥咪咕直播、🏀体育频道、🪁动画频道、🎮游戏频道、🎵音乐频道、🏛经典剧场。
+🤖 免费、开源的 `OpenAI` 替代品。自托管、社区驱动和本地优先。可在消费级硬件上运行，作为 `OpenAI` 的即插即用替代方案。无需 `GPU`。支持运行 `ggml、gguf、GPTQ、onnx` 和 `TF` 兼容模型：`llama、llama2、rwkv、whisper、vicuna、koala、cerebras、falcon、dolly、starcoder` 等等：
 
-- ✅ 自定义模板，生成您想要的频道
-- ✅ 支持多种获取源方式：组播源、酒店源、订阅源、关键字搜索
-- ✅ 接口测速验效，响应时间、分辨率优先级，过滤无效接口
-- ✅ 偏好设置：IPv6、接口来源排序优先级与数量配置、接口白名单
-- ✅ 定时执行，北京时间每日 6:00 与 18:00 执行更新
-- ✅ 支持多种运行方式：工作流、命令行、GUI 软件、Docker(amd64/arm64/arm v7) 
+![localai](https://images-1252557999.file.myqcloud.com/uPic/localai.png) 
 
-### [siri-ultra](https://github.com/fatwang2/siri-ultra)
+### [ssddanbrown/rss](https://github.com/ssddanbrown/rss)
 
-`Siri Ultra` 是一个能在 `iPhone` 上使用的 AI 聊天快捷指令，无需下载任何软件即可体验到最新的大模型：
+一个简单的 `Twitter-feed` 风格的 `RSS` 聚合器，使用 `PHP、Laravel、Inertia.js、Tailwind、Vue.js` 编写:
 
-- 通过 Siri 实时语音对话，也可以直接运行快捷指令进行文字对话
-- 兼容各种大模型，包括 OpenAI、Gemini、DeepSeek 等
-- 支持联网搜索（需单独配置搜索 key）
-- 支持网页总结 （链接发给快捷指令即可） 
+- 支持RSS和ATOM格式
+- 定期自动获取RSS订阅源
+- 自定义订阅名称和颜色
+- 基于内容的标签进行分类
+- 3种不同的帖子布局模式（卡片、列表、紧凑）
+- 获取页面的开放图像
+- 通过单个纯文本文件管理的订阅源
+- 基于系统的暗/亮主题
+- 帖子标题/描述搜索
+- 开箱即用的Docker镜像
+- 手机屏幕兼容
+- 清理旧的帖子数据
 
-### [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
+![ssddanbrown_rss](https://images-1252557999.file.myqcloud.com/uPic/ssddanbrown_rss.png) 
 
-一个大模型 `AI` 网关项目，只需要通过项目提供的一个接口，就可以快速连接到100多个 `LLM`：
+### [pushdeer](https://github.com/easychen/pushdeer)
 
-- 极速（快9.9倍），占用空间小（安装后约45kb）
-- 在多个模型、提供者和密钥之间进行负载均衡
-- 备选方案确保您的应用程序具有弹性
-- 默认情况下，自动重试并采用指数回退策略
-- 根据需要添加插件中间件
-- 经过1000亿次 Token 的实战考验
+开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备：
 
-  
-![ai-gateway](https://images-1252557999.file.myqcloud.com/uPic/ai-gateway.jpg)
-  
-同类型项目可以参考：[One API👉通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 ✨](https://github.com/songquanpeng/one-api) 
+![pushdeer](https://images-1252557999.file.myqcloud.com/uPic/pushdeer.jpg) 
 
 ## 🤖 软件 
 
-### [FluentHub](https://github.com/FluentHub/FluentHub)
+### [ytdlnis](https://github.com/deniscerri/ytdlnis)
 
-界面  `UI` 时尚功能强大的 `Windows GitHub` 客户端：
+`ytdlnis` 是一个免费且开源的 Android 应用，它使用 yt-dlp 来下载视频和音频。该应用支持多种功能，包括从超过 1000 个网站下载内容、处理播放列表。
 
-![FluentHub](https://images-1252557999.file.myqcloud.com/uPic/FluentHub.png) 
+![ytdlnis](https://images-1252557999.file.myqcloud.com/uPic/pMXT1j.png) 
 
-### [Hacki](https://github.com/Livinglist/Hacki)
+### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
-基于 `Flutter` 的  `Hacker News` 客户端:
+针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
 
-![Hacki](https://images-1252557999.file.myqcloud.com/uPic/Hacki.jpg) 
+![CodeEdit](https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png) 
 
-### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
+### [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
 
-ImageOptim 是一款开源免费的本地图像压缩工具：
+简单的 macOS 菜单栏应用程序，可以方便地和 `Reminders` 进行交互，使用 `SwiftUI` 开发，并使用 `Apple` 提醒事项作为数据源：
 
-![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
-
-我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
-
-- [Imagine](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
-- [webutils](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
-- [tinypng](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
-- [tanpok](https://weekly.howie6879.com/2021/11-15~11-21.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
-- [docsmall](https://weekly.howie6879.com/2021/10-18~10-24.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=docsma#docsmall)：提供一些图片压缩、PDF合并分割小功能的网站 
+![reminders-menubar](https://images-1252557999.file.myqcloud.com/uPic/reminders-menubar.jpg) 
 
 ## 👀 资料 
 
-### [Agentic Design Patterns](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/preview?tab=t.0)
+### [TLCL](https://billie66.github.io/TLCL/book/)
 
-`《Agentic Design Patterns》`是由 `Antonio Gulli` 撰写的一本关于构建智能系统的实用指南，本书详细介绍了智能体的设计模式，包括如何通过提示链（Prompt Chaining）、路由（Routing）、并行化（Parallelization）、反射（Reflection）、工具使用（Tool Use）、规划（Planning）和多智能体系统（Multi-Agent）等技术来构建智能系统。
+`The Linux Command Line` 中文翻译：
 
-书中还涵盖了内存管理、学习与适应、模型上下文协议（MCP）、目标设定与监控等关键概念。此外，还讨论了异常处理与恢复、人在回路（Human-in-the-Loop）、知识检索（RAG）、智能体之间的通信（A2A）、资源感知优化、推理技术、守护轨迹 / 安全模式、评估与监控、优先级设定、探索与发现等高级主题。
+![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
 
-![Agentic Design Patterns](https://images-1252557999.file.myqcloud.com/uPic/JLZ4ca.png) 
+### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
 
-### [iceWebGL](https://github.com/MrWeilian/iceWebGL)
+清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
 
-`WebGL` 上车指南，带你从零开始体系化学习[WebGL](https://ice-webgl.netlify.app/)：
+更新记录如下：
 
-![iceWebGL](https://images-1252557999.file.myqcloud.com/uPic/iceWebGL.png) 
+- 2020-11-03：环境搭建完成，开始着手编写文档。
+- 2020-11-13：第一章完成。
+- 2020-11-27：第二章完成。
+- 2020-12-20：前七章代码完成。
+- 2021-01-10：第三章完成。
+- 2021-01-18：加入第零章。
+- 2021-01-30：第四章完成。
+- 2021-02-16：第五章完成。
+- 2021-02-20：第六章完成。
+- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
+- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
 
-### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
+热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
 
-编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
+### [大规模并行处理器编程实战第四版](https://fancyerii.github.io/2024/02/20/pmpp/)
+
+关于并行计算的重要参考书籍，这是博客翻译的第四版。介绍了学生和专业人员都适合的并行编程与gpu体系结构的基本概念，详细剖析了编写并行程序所需的各种技术，用案例研究说明了并行程序设计的整个开发过程，即从计算思想开始，直到最终实现高效可行的并行程序。 
 
 ## 🕸 网站 
 
-### [caesium-image-compressor](https://caesium.app/)
+### [chatdoc](https://chatdoc.com/)
 
-免费开源的图片压缩工具：
+`ChatDOC` 让你可以和文档进行聊天沟通，它是一个基于 `ChatGPT` 的文件读取助手，它可以从 `PDF` 中快速提取、定位和总结信息：
 
-![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.png)
+![chatdoc](https://images-1252557999.file.myqcloud.com/uPic/chatdoc.png) 
 
-还支持[桌面端](https://github.com/Lymphatus/caesium-image-compressor)：
+### [extract.pics](https://extract.pics/)
 
-![caesium-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/caesium-image-compressor.png) 
+输入网站地址，提取网站图片资源：
 
-### [gcopy](https://gcopy.rutron.net/zh)
+![extract_pics](https://images-1252557999.file.myqcloud.com/uPic/extract_pics.jpg) 
 
-一个剪切板同步的工具, 支持文字、截图和文件，使用 `Golang` 和 `Nextjs` 开发. 完全[开源](https://github.com/llaoj/gcopy)，`GCopy` 重视您的数据隐私, 不持久化存储您的数据, 它们都在内存中 `24h` 自动删除：
+### [yima.me](https://yima.me/)
 
-![gcopy](https://images-1252557999.file.myqcloud.com/uPic/gcopy.jpg) 
+免费生成 `AI` 艺术二维码：
 
-### [Bing 文字创建图像](https://www.bing.com/images/create)
-
-微软出品的文字生成图像模型（IP不能是国内）：
-
-![bing_image](https://images-1252557999.file.myqcloud.com/uPic/bing_image.jpg) 
+![yima](https://images-1252557999.file.myqcloud.com/uPic/yima.png) 
 
 ## ✍️ 说明
 
