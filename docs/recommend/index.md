@@ -5,108 +5,99 @@
 
 ## 🎯 项目 
 
-### [LocalAI](https://github.com/go-skynet/LocalAI)
+### [ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher)
 
-🤖 免费、开源的 `OpenAI` 替代品。自托管、社区驱动和本地优先。可在消费级硬件上运行，作为 `OpenAI` 的即插即用替代方案。无需 `GPU`。支持运行 `ggml、gguf、GPTQ、onnx` 和 `TF` 兼容模型：`llama、llama2、rwkv、whisper、vicuna、koala、cerebras、falcon、dolly、starcoder` 等等：
+`ollama-deep-researcher` 是一个完全本地化的网络研究和报告编写助手，能够使用 `Ollama` 托管的任何大型语言模型（`LLM`），通过迭代的搜索和总结过程，对给定主题进行深入研究。
 
-![localai](https://images-1252557999.file.myqcloud.com/uPic/localai.png) 
+![ollama-deep-researcher](https://images-1252557999.file.myqcloud.com/uPic/2GCi0v.png) 
 
-### [ssddanbrown/rss](https://github.com/ssddanbrown/rss)
+### [oh-my-rime](https://github.com/Mintimate/oh-my-rime)
 
-一个简单的 `Twitter-feed` 风格的 `RSS` 聚合器，使用 `PHP、Laravel、Inertia.js、Tailwind、Vue.js` 编写:
+一套快速初始化开源输入法 `Rime` 的模板方案，跨平台支持 `Win macOS Linux`：
 
-- 支持RSS和ATOM格式
-- 定期自动获取RSS订阅源
-- 自定义订阅名称和颜色
-- 基于内容的标签进行分类
-- 3种不同的帖子布局模式（卡片、列表、紧凑）
-- 获取页面的开放图像
-- 通过单个纯文本文件管理的订阅源
-- 基于系统的暗/亮主题
-- 帖子标题/描述搜索
-- 开箱即用的Docker镜像
-- 手机屏幕兼容
-- 清理旧的帖子数据
+![oh-my-rime](https://images-1252557999.file.myqcloud.com/uPic/oh-my-rime.webp) 
 
-![ssddanbrown_rss](https://images-1252557999.file.myqcloud.com/uPic/ssddanbrown_rss.png) 
+### [OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)
 
-### [pushdeer](https://github.com/easychen/pushdeer)
+🥣 AIGC 提示词可视化编辑器，这是一个旨在把 AIGC 提示词（现在支持 Midjourney）可视化并提供编辑功能的工具，有以下特性
 
-开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备：
+- 显示英文提示词的中文翻译
+- 翻译输入的中文提示词到英文（因为 Midjourney 仅支持英文提示词）
+- 为提示词进行分类（普通、样式、质量、命令）
+- 轻松的排序、隐藏提示词
+- 把提示词可视化结果导出为图片
+- 常用提示词词典
+- 通过 Notion 管理提示词词典
 
-![pushdeer](https://images-1252557999.file.myqcloud.com/uPic/pushdeer.jpg) 
+![OpenPromptStudio](https://images-1252557999.file.myqcloud.com/uPic/OpenPromptStudio.jpg) 
 
 ## 🤖 软件 
 
-### [ytdlnis](https://github.com/deniscerri/ytdlnis)
+### [CotEditor](https://github.com/coteditor/CotEditor)
 
-`ytdlnis` 是一个免费且开源的 Android 应用，它使用 yt-dlp 来下载视频和音频。该应用支持多种功能，包括从超过 1000 个网站下载内容、处理播放列表。
+开源的`macOS` 纯文本编辑器：
 
-![ytdlnis](https://images-1252557999.file.myqcloud.com/uPic/pMXT1j.png) 
+![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
 
-### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+### [RTranslator](https://github.com/niedev/RTranslator)
 
-针对`macOS`的开源软件，核心目标在于提升开发者的编码体验：
+`RTransator` 是一个(几乎)开源的、免费的、离线的 `Android` 实时翻译应用程序。
 
-![CodeEdit](https://images-1252557999.file.myqcloud.com/uPic/CodeEdit.png) 
+连接到有这个应用程序的人，连接蓝牙耳机，把手机放在你的口袋里，你就可以像对方说你的语言一样进行交谈。
 
-### [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
+![RTranslator](https://images-1252557999.file.myqcloud.com/uPic/RTranslator.jpg) 
 
-简单的 macOS 菜单栏应用程序，可以方便地和 `Reminders` 进行交互，使用 `SwiftUI` 开发，并使用 `Apple` 提醒事项作为数据源：
+### [uPic](https://github.com/gee1k/uPic)
 
-![reminders-menubar](https://images-1252557999.file.myqcloud.com/uPic/reminders-menubar.jpg) 
+`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+
+我的必备软件：
+
+![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
 
 ## 👀 资料 
 
-### [TLCL](https://billie66.github.io/TLCL/book/)
+### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
 
-`The Linux Command Line` 中文翻译：
+公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
 
-![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
+### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
 
-### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
+《Linear Algebra for Everyone》公开课的图解笔记：
 
-清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
+![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
 
-更新记录如下：
+### [whale-quant](https://github.com/datawhalechina/whale-quant)
 
-- 2020-11-03：环境搭建完成，开始着手编写文档。
-- 2020-11-13：第一章完成。
-- 2020-11-27：第二章完成。
-- 2020-12-20：前七章代码完成。
-- 2021-01-10：第三章完成。
-- 2021-01-18：加入第零章。
-- 2021-01-30：第四章完成。
-- 2021-02-16：第五章完成。
-- 2021-02-20：第六章完成。
-- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
-- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
+本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用 `Python` 进行量化开发的能力：
 
-热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
-
-### [大规模并行处理器编程实战第四版](https://fancyerii.github.io/2024/02/20/pmpp/)
-
-关于并行计算的重要参考书籍，这是博客翻译的第四版。介绍了学生和专业人员都适合的并行编程与gpu体系结构的基本概念，详细剖析了编写并行程序所需的各种技术，用案例研究说明了并行程序设计的整个开发过程，即从计算思想开始，直到最终实现高效可行的并行程序。 
+![whale-quant](https://images-1252557999.file.myqcloud.com/uPic/a4aLmH.png) 
 
 ## 🕸 网站 
 
-### [chatdoc](https://chatdoc.com/)
+### [meow.tg](https://meow.tg/)
 
-`ChatDOC` 让你可以和文档进行聊天沟通，它是一个基于 `ChatGPT` 的文件读取助手，它可以从 `PDF` 中快速提取、定位和总结信息：
+TG喵-可能是最懂你的Telegram资源搜索引擎:
 
-![chatdoc](https://images-1252557999.file.myqcloud.com/uPic/chatdoc.png) 
+![meow](https://images-1252557999.file.myqcloud.com/uPic/meow.jpg) 
 
-### [extract.pics](https://extract.pics/)
+### [regex101](https://regex101.com/)
 
-输入网站地址，提取网站图片资源：
+`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
 
-![extract_pics](https://images-1252557999.file.myqcloud.com/uPic/extract_pics.jpg) 
+- PHP
+- Python
+- JS
+- Go
+- Java
 
-### [yima.me](https://yima.me/)
+![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
 
-免费生成 `AI` 艺术二维码：
+### [即时工具](https://www.67tool.com/)
 
-![yima](https://images-1252557999.file.myqcloud.com/uPic/yima.png) 
+该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
+
+![67tool](https://images-1252557999.file.myqcloud.com/uPic/mhrsW0.jpg) 
 
 ## ✍️ 说明
 
