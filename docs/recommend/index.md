@@ -5,99 +5,89 @@
 
 ## 🎯 项目 
 
-### [ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher)
+### [Gallery-Portfolio](https://github.com/linyuxuanlin/Gallery-Portfolio)
 
-`ollama-deep-researcher` 是一个完全本地化的网络研究和报告编写助手，能够使用 `Ollama` 托管的任何大型语言模型（`LLM`），通过迭代的搜索和总结过程，对给定主题进行深入研究。
+一个简单的摄影作品展示站，你只需要将图片存放在免费的 `Cloudflare R2` 上（或其他支持 AWS S3 的对象存储），即可在这里展现你的精选图片。在这里你可以通过 瀑布流 的形式浏览图片，也可以 点开大图 ，查看光圈 / 快门 / ISO 等 EXIF 信息。网站基于 Node.js，使用 Material Design 风格的 响应式设计，支持 日夜间模式 切换，在不同的设备上都有不错的视觉效果：
 
-![ollama-deep-researcher](https://images-1252557999.file.myqcloud.com/uPic/2GCi0v.png) 
+![Gallery-Portfolio](https://images-1252557999.file.myqcloud.com/uPic/Gallery-Portfolio.png) 
 
-### [oh-my-rime](https://github.com/Mintimate/oh-my-rime)
+### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
 
-一套快速初始化开源输入法 `Rime` 的模板方案，跨平台支持 `Win macOS Linux`：
+让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
 
-![oh-my-rime](https://images-1252557999.file.myqcloud.com/uPic/oh-my-rime.webp) 
+### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
 
-### [OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)
+`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
 
-🥣 AIGC 提示词可视化编辑器，这是一个旨在把 AIGC 提示词（现在支持 Midjourney）可视化并提供编辑功能的工具，有以下特性
-
-- 显示英文提示词的中文翻译
-- 翻译输入的中文提示词到英文（因为 Midjourney 仅支持英文提示词）
-- 为提示词进行分类（普通、样式、质量、命令）
-- 轻松的排序、隐藏提示词
-- 把提示词可视化结果导出为图片
-- 常用提示词词典
-- 通过 Notion 管理提示词词典
-
-![OpenPromptStudio](https://images-1252557999.file.myqcloud.com/uPic/OpenPromptStudio.jpg) 
+![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
 
 ## 🤖 软件 
 
-### [CotEditor](https://github.com/coteditor/CotEditor)
+### [Rectangle](https://github.com/rxhanson/Rectangle)
 
-开源的`macOS` 纯文本编辑器：
+`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
 
-![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
+![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
 
-### [RTranslator](https://github.com/niedev/RTranslator)
+### [PDFQFZ](https://github.com/flytkgl/PDFQFZ)
 
-`RTransator` 是一个(几乎)开源的、免费的、离线的 `Android` 实时翻译应用程序。
+PDF加盖骑缝章的小工具，选择需要盖章的PDF文件或文件夹。 选择保存文件夹。 导入完整的印章图片,工具会根据PDF页数做随机分割。 设定印章大小,骑缝章位置,印章位置等 点盖章，骚等后在保存文件夹中即可看到盖好骑缝章的PDF文件。
 
-连接到有这个应用程序的人，连接蓝牙耳机，把手机放在你的口袋里，你就可以像对方说你的语言一样进行交谈。
+![pdfqfz](https://images-1252557999.file.myqcloud.com/uPic/pdfqfz.jpg) 
 
-![RTranslator](https://images-1252557999.file.myqcloud.com/uPic/RTranslator.jpg) 
+### [onlook](https://github.com/onlook-dev/onlook)
 
-### [uPic](https://github.com/gee1k/uPic)
+> 设计师专属的 Cursor —— 一款开源、视觉优先的代码编辑器
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+一个开源的、基于可视化编辑的代码编辑器，专为设计师而优化，旨在通过 AI 与浏览器内 DOM 的直接编辑功能，让用户能够在代码编辑器中进行设计和编码。
 
-我的必备软件：
+使用 AI 在 Next.js + TailwindCSS 中构建网站、原型和设计。通过可视化编辑器直接在浏览器 DOM 中进行编辑。实时用代码进行设计。这是 Bolt.new、Lovable、V0、Replit Agent、Figma Make、Webflow 等产品的开源替代方案。
 
-![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+![onlook](https://images-1252557999.file.myqcloud.com/uPic/b8LfDN.png) 
 
 ## 👀 资料 
 
-### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
+### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
 
-公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
+`Solidity` 极简入门：
 
-### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
+![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
 
-《Linear Algebra for Everyone》公开课的图解笔记：
+### [TLCL](https://billie66.github.io/TLCL/book/)
 
-![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
+`The Linux Command Line` 中文翻译：
 
-### [whale-quant](https://github.com/datawhalechina/whale-quant)
+![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
 
-本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用 `Python` 进行量化开发的能力：
+### [self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder)
 
-![whale-quant](https://images-1252557999.file.myqcloud.com/uPic/a4aLmH.png) 
+首先，这不是一本程序员的技术书籍，整本书不会提及任何一个技术词汇，这也不是一本教你如何规划职业生涯，如何在职场走个更远的书，虽然我相信大部分内容确实有助于在职场的发展。
+
+但这本书的真正用意是想解决工作过程中碰到的焦虑、倦怠、迷茫、抑郁等情绪，聚焦于解决具体问题，通过改变认知将我们从负面情绪的泥淖中走出来，做到更坦然，真诚的面对自己的内心，成为一个自洽的程序员。
+
+总而言之，这不是一本成功学的书，它不会教你如何赢，笔者本身也不是一个世俗意义上成功的人，而是一本帮你梳理情绪，转变心境的书。
+
+![self-consistent-coder](https://images-1252557999.file.myqcloud.com/uPic/xxZILr.png) 
 
 ## 🕸 网站 
 
-### [meow.tg](https://meow.tg/)
+### [datawhale.cn](https://www.datawhale.cn/home)
 
-TG喵-可能是最懂你的Telegram资源搜索引擎:
+`Datawhale` 通过开源学习模式，助力 `AI` 学习者与知识连接，与人连接，与场景连接，推动 `AI` 人才培养:
 
-![meow](https://images-1252557999.file.myqcloud.com/uPic/meow.jpg) 
+![datawhale](https://images-1252557999.file.myqcloud.com/uPic/plDyMy.png) 
 
-### [regex101](https://regex101.com/)
+### [watermark](https://watermark.liumingye.cn/)
 
-`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
+短视频/图集在线去水印解析：
 
-- PHP
-- Python
-- JS
-- Go
-- Java
+![watermark](https://images-1252557999.file.myqcloud.com/uPic/watermark.jpg) 
 
-![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
+### [rust-search-extension](https://rust.extension.sh/)
 
-### [即时工具](https://www.67tool.com/)
+在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
 
-该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
-
-![67tool](https://images-1252557999.file.myqcloud.com/uPic/mhrsW0.jpg) 
+![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
 
 ## ✍️ 说明
 
