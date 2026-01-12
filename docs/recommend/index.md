@@ -5,89 +5,93 @@
 
 ## 🎯 项目 
 
-### [Gallery-Portfolio](https://github.com/linyuxuanlin/Gallery-Portfolio)
+### [Flowise](https://github.com/FlowiseAI/Flowise)
 
-一个简单的摄影作品展示站，你只需要将图片存放在免费的 `Cloudflare R2` 上（或其他支持 AWS S3 的对象存储），即可在这里展现你的精选图片。在这里你可以通过 瀑布流 的形式浏览图片，也可以 点开大图 ，查看光圈 / 快门 / ISO 等 EXIF 信息。网站基于 Node.js，使用 Material Design 风格的 响应式设计，支持 日夜间模式 切换，在不同的设备上都有不错的视觉效果：
+基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
 
-![Gallery-Portfolio](https://images-1252557999.file.myqcloud.com/uPic/Gallery-Portfolio.png) 
+![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
 
-### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
+### [QRec](https://github.com/Coder-Yu/QRec)
 
-让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
+Python编写的推荐系统快速实践框架（基于TF），和之前推荐的[gorse](https://weekly.howie6879.com/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E6%8E%A8%E8%8D%90#gorse)有点类似，但不同的是QRec提供了领先的推荐系统模型用于实践。 
 
-### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
+### [browser-use](https://github.com/browser-use/browser-use)
 
-`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
+一种允许人工智能控制浏览器的解决方案，通过提取网页上所有交互元素，使得 `AI Agent` 能够更专注地执行其任务:
 
-![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
+![browser-use](https://images-1252557999.file.myqcloud.com/uPic/PZHVoz.png) 
 
 ## 🤖 软件 
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
+### [cookie-share](https://github.com/fangyuan99/cookie-share)
 
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+`Cookie-share` 是一个 Chrome/Edge/Firefox 扩展 (同时也有 `Tampermonkey` 脚本，目前更新油猴为主)，允许用户在不同设备或浏览器之间发送和接收 cookies，可以用于多账号切换、视频会员共享、星球合租等场景。后端支持自建 Cloudflare Worker 或 Node.js 服务器，保障数据安全。
 
-![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
+![cookie-share](https://images-1252557999.file.myqcloud.com/uPic/6TNByF.png) 
 
-### [PDFQFZ](https://github.com/flytkgl/PDFQFZ)
+### [Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper)
 
-PDF加盖骑缝章的小工具，选择需要盖章的PDF文件或文件夹。 选择保存文件夹。 导入完整的印章图片,工具会根据PDF页数做随机分割。 设定印章大小,骑缝章位置,印章位置等 点盖章，骚等后在保存文件夹中即可看到盖好骑缝章的PDF文件。
+李跳跳下线了，还有开源的出来，开屏跳过-安卓系统的开屏广告自动跳过助手。
 
-![pdfqfz](https://images-1252557999.file.myqcloud.com/uPic/pdfqfz.jpg) 
+**开屏跳过**可以帮助用户自动跳过一些应用的开屏广告，基于Android的无障碍服务实现。
 
-### [onlook](https://github.com/onlook-dev/onlook)
+使用广告跳过程序，最大的风险是个人隐私被泄露。`因为这种软件都需要开启Accessibility` 无障碍服务，可以获取屏幕上的**所有内容**，从而可以检测广告，帮助用户自动跳过。
 
-> 设计师专属的 Cursor —— 一款开源、视觉优先的代码编辑器
+本程序是开源程序，不需要网络权限，不需要存储权限，不会收集或者上传任何信息！绝无隐私问题：
 
-一个开源的、基于可视化编辑的代码编辑器，专为设计师而优化，旨在通过 AI 与浏览器内 DOM 的直接编辑功能，让用户能够在代码编辑器中进行设计和编码。
+![Android-Touch-Helper](https://images-1252557999.file.myqcloud.com/uPic/Android-Touch-Helper.jpg) 
 
-使用 AI 在 Next.js + TailwindCSS 中构建网站、原型和设计。通过可视化编辑器直接在浏览器 DOM 中进行编辑。实时用代码进行设计。这是 Bolt.new、Lovable、V0、Replit Agent、Figma Make、Webflow 等产品的开源替代方案。
+### [alisthelper](https://github.com/Xmarmalade/alisthelper)
 
-![onlook](https://images-1252557999.file.myqcloud.com/uPic/b8LfDN.png) 
+Alist Helper是一款使用Flutter开发的应用程序，旨在简化桌面版alist的使用。它可以管理alist，让您更轻松地开启、关闭alist程序:
+
+- 自动启动alist
+- 最小化至系统托盘
+- 开机自启和开机静默启动
+- 能够快速查看alist的版本和管理员信息
+- 可调整的alist启动参数。你可以可以根据自己的特定需求和偏好来自定义启动参数
+
+关键点：这个官方也在做，然后需要付费~
+
+![alisthelper](https://images-1252557999.file.myqcloud.com/uPic/alisthelper.jpg) 
 
 ## 👀 资料 
 
-### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
+### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 
-`Solidity` 极简入门：
+这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
 
-![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
+### [数据科学学习指南](https://github.com/amitness/learning)
 
-### [TLCL](https://billie66.github.io/TLCL/book/)
+数据科学学习指南，帮你每天提升1%的数据科学技能。主要包含电子表格与数据库的数据处理、命令行工具使用、数据分析与可视化技巧、论文阅读方法，各类模型与算法讲解等知识，另外还有商业思维培养、写作与沟通技巧等非技术类内容。
 
-`The Linux Command Line` 中文翻译：
+![data-learning](https://images-1252557999.file.myqcloud.com/uPic/tlkHzW.png) 
 
-![TLCL](https://images-1252557999.file.myqcloud.com/uPic/TLCL.jpg) 
+### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
 
-### [self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder)
+该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
 
-首先，这不是一本程序员的技术书籍，整本书不会提及任何一个技术词汇，这也不是一本教你如何规划职业生涯，如何在职场走个更远的书，虽然我相信大部分内容确实有助于在职场的发展。
-
-但这本书的真正用意是想解决工作过程中碰到的焦虑、倦怠、迷茫、抑郁等情绪，聚焦于解决具体问题，通过改变认知将我们从负面情绪的泥淖中走出来，做到更坦然，真诚的面对自己的内心，成为一个自洽的程序员。
-
-总而言之，这不是一本成功学的书，它不会教你如何赢，笔者本身也不是一个世俗意义上成功的人，而是一本帮你梳理情绪，转变心境的书。
-
-![self-consistent-coder](https://images-1252557999.file.myqcloud.com/uPic/xxZILr.png) 
+![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
 
 ## 🕸 网站 
 
-### [datawhale.cn](https://www.datawhale.cn/home)
+### [sao.fm](https://sao.fm/)
 
-`Datawhale` 通过开源学习模式，助力 `AI` 学习者与知识连接，与人连接，与场景连接，推动 `AI` 人才培养:
+一个在线听广播电台的网站：
 
-![datawhale](https://images-1252557999.file.myqcloud.com/uPic/plDyMy.png) 
+![sao.fm](https://images-1252557999.file.myqcloud.com/uPic/sao.fm.jpg) 
 
-### [watermark](https://watermark.liumingye.cn/)
+### [alleyread](https://alleyread.com/)
 
-短视频/图集在线去水印解析：
+发现优质 `Newsletter`：
 
-![watermark](https://images-1252557999.file.myqcloud.com/uPic/watermark.jpg) 
+![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
 
-### [rust-search-extension](https://rust.extension.sh/)
+### [firefly](https://firefly.adobe.com/)
 
-在地址栏快速搜索 Rust 文档、crates、内置属性、官方书籍和错误码等：
+`Adobe` 推出了的 `AI` 图像创建器 **Firefly**：
 
-![rust-search-extension](https://images-1252557999.file.myqcloud.com/uPic/rust-search-extension.gif) 
+![firefly](https://images-1252557999.file.myqcloud.com/uPic/firefly.jpg) 
 
 ## ✍️ 说明
 
