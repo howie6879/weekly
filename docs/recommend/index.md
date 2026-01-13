@@ -5,93 +5,102 @@
 
 ## 🎯 项目 
 
-### [Flowise](https://github.com/FlowiseAI/Flowise)
+### [komodo](https://github.com/mbecker20/komodo)
 
-基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
+一个用于在多个服务器上构建和部署软件的工具，非常强大，有好看的 `UI` 以及 `Docker` 管理、资源同步等：
 
-![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
+![komodo](https://images-1252557999.file.myqcloud.com/uPic/h82QqC.png) 
 
-### [QRec](https://github.com/Coder-Yu/QRec)
+### [neurapress](https://github.com/tianyaxiang/neurapress)
 
-Python编写的推荐系统快速实践框架（基于TF），和之前推荐的[gorse](https://weekly.howie6879.com/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E6%8E%A8%E8%8D%90#gorse)有点类似，但不同的是QRec提供了领先的推荐系统模型用于实践。 
+`NeuraPress` 是一个现代化的 `Markdown` 编辑器，专注于提供优质的微信公众号排版体验。响应式设计，支持移动设备。搭配 `DeepSeek` 和微信公众号助手使用，碎片时间也能用手机发有排版的文章了：
 
-### [browser-use](https://github.com/browser-use/browser-use)
+- 🎨 实时预览 - 所见即所得的编辑体验
+- 📱 移动端支持 - 支持手机上直接编辑，搭配 DeepSeek和微信公众号助手使用
+- 🎯 微信风格 - 完美适配微信公众号样式
+- 🔧 样式定制 - 灵活的样式配置选项
+- 📋 一键复制 - 支持复制带格式的预览内容
+- 🎭 模板系统 - 内置多种排版模板，一键切换
+- 🚀 快速高效 - 基于 Next.js 构建，性能优异
 
-一种允许人工智能控制浏览器的解决方案，通过提取网页上所有交互元素，使得 `AI Agent` 能够更专注地执行其任务:
+![NeuraPress](https://images-1252557999.file.myqcloud.com/uPic/xGyAd8.png)
+`markdown-nice` 也是一个不错的项目，使用  `Docker`  一键搭建：`docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11`
 
-![browser-use](https://images-1252557999.file.myqcloud.com/uPic/PZHVoz.png) 
+![markdown-nice](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png) 
+
+### [univer](https://github.com/dream-num/univer)
+
+`Univer` 是一套企业文档与数据协同解决方案，融合了电子表格、文档和幻灯片：
+
+![univer](https://images-1252557999.file.myqcloud.com/uPic/univer.jpg) 
 
 ## 🤖 软件 
 
-### [cookie-share](https://github.com/fangyuan99/cookie-share)
+### [Gotcha-Rest-Client](https://github.com/WhiteCosmos/Gotcha-Rest-Client)
 
-`Cookie-share` 是一个 Chrome/Edge/Firefox 扩展 (同时也有 `Tampermonkey` 脚本，目前更新油猴为主)，允许用户在不同设备或浏览器之间发送和接收 cookies，可以用于多账号切换、视频会员共享、星球合租等场景。后端支持自建 Cloudflare Worker 或 Node.js 服务器，保障数据安全。
+Gotcha 是一个开源且跨平台的 API 设计和测试工具：
 
-![cookie-share](https://images-1252557999.file.myqcloud.com/uPic/6TNByF.png) 
+- 无需登录注册，所有数据均存放在本地数据库(indexedDB)当中
+- 完全可视化的 API 设计功能，自由编辑请求和响应，支持 Json Schema 格式，支持大多数 OpenAPI 标准
+- 参数化 URL 编辑器，所有 URL 参数都可以通过表单形式轻松修改
+- 通过右键菜单轻松使用动态变量，包括环境变量，日期时间，引用其它接口等多种类型
+- 随时切换，修改 Cookie，支持同时使用多套 Cookie
+- 可视化 JSON 编辑器
+- 保存常用请求到请求模板
 
-### [Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper)
+![Gotcha-Rest-Client](https://images-1252557999.file.myqcloud.com/uPic/Gotcha-Rest-Client.png) 
 
-李跳跳下线了，还有开源的出来，开屏跳过-安卓系统的开屏广告自动跳过助手。
+### [macGPT](https://github.com/hellokuls/macGPT)
 
-**开屏跳过**可以帮助用户自动跳过一些应用的开屏广告，基于Android的无障碍服务实现。
+一款 `ChatGPT for Mac` 原生客户端：
 
-使用广告跳过程序，最大的风险是个人隐私被泄露。`因为这种软件都需要开启Accessibility` 无障碍服务，可以获取屏幕上的**所有内容**，从而可以检测广告，帮助用户自动跳过。
+![macGPT](https://images-1252557999.file.myqcloud.com/uPic/macGPT.png) 
 
-本程序是开源程序，不需要网络权限，不需要存储权限，不会收集或者上传任何信息！绝无隐私问题：
+### [fideo-live-record](https://github.com/chenfan0/fideo-live-record)
 
-![Android-Touch-Helper](https://images-1252557999.file.myqcloud.com/uPic/Android-Touch-Helper.jpg) 
+这是一个基于 `React Ffmpeg Electron Shadcn` 的直播录制软件。支持监控直播，可以帮助用户简单便捷对直播进行录制并保存为` MP4` 格式的视频：
 
-### [alisthelper](https://github.com/Xmarmalade/alisthelper)
-
-Alist Helper是一款使用Flutter开发的应用程序，旨在简化桌面版alist的使用。它可以管理alist，让您更轻松地开启、关闭alist程序:
-
-- 自动启动alist
-- 最小化至系统托盘
-- 开机自启和开机静默启动
-- 能够快速查看alist的版本和管理员信息
-- 可调整的alist启动参数。你可以可以根据自己的特定需求和偏好来自定义启动参数
-
-关键点：这个官方也在做，然后需要付费~
-
-![alisthelper](https://images-1252557999.file.myqcloud.com/uPic/alisthelper.jpg) 
+![fideo-live-record](https://images-1252557999.file.myqcloud.com/uPic/tCaYMt.png) 
 
 ## 👀 资料 
 
-### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
+### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
 
-这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
+带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
 
-### [数据科学学习指南](https://github.com/amitness/learning)
+![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
 
-数据科学学习指南，帮你每天提升1%的数据科学技能。主要包含电子表格与数据库的数据处理、命令行工具使用、数据分析与可视化技巧、论文阅读方法，各类模型与算法讲解等知识，另外还有商业思维培养、写作与沟通技巧等非技术类内容。
+### [学习CSS布局](https://zh.learnlayout.com/)
 
-![data-learning](https://images-1252557999.file.myqcloud.com/uPic/tlkHzW.png) 
+本站教授的是现在广泛使用于网站布局领域的CSS基础：
 
-### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
 
-该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
 ## 🕸 网站 
 
-### [sao.fm](https://sao.fm/)
+### [logo.surf](https://www.logo.surf/#generate-favicon)
 
-一个在线听广播电台的网站：
+快速创建图标：
 
-![sao.fm](https://images-1252557999.file.myqcloud.com/uPic/sao.fm.jpg) 
+![logo_surf](https://images-1252557999.file.myqcloud.com/uPic/logo_surf.jpg) 
 
-### [alleyread](https://alleyread.com/)
+### [PromptPilot](https://promptpilot.volcengine.com/home)
 
-发现优质 `Newsletter`：
+字节火山出品的 `Prompt` 生成助手：
 
-![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
+![PromptPilot](https://images-1252557999.file.myqcloud.com/uPic/uvUy4X.png) 
 
-### [firefly](https://firefly.adobe.com/)
+### [RuTracker](https://rutracker.org/forum/index.php)
 
-`Adobe` 推出了的 `AI` 图像创建器 **Firefly**：
+俄罗斯最大的盗版网站开放了，可以去上面找资源了：
 
-![firefly](https://images-1252557999.file.myqcloud.com/uPic/firefly.jpg) 
+![rutracker](https://images-1252557999.file.myqcloud.com/uPic/rutracker.jpg) 
 
 ## ✍️ 说明
 
