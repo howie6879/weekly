@@ -5,102 +5,88 @@
 
 ## 🎯 项目 
 
-### [komodo](https://github.com/mbecker20/komodo)
+### [dashy](https://github.com/Lissy93/dashy)
 
-一个用于在多个服务器上构建和部署软件的工具，非常强大，有好看的 `UI` 以及 `Docker` 管理、资源同步等：
+可自我托管的个人自定义导航页：括状态检查，小部件，主题，图标包，UI编辑器等等：
 
-![komodo](https://images-1252557999.file.myqcloud.com/uPic/h82QqC.png) 
+![dashy](https://images-1252557999.file.myqcloud.com/uPic/dashy.jpg) 
 
-### [neurapress](https://github.com/tianyaxiang/neurapress)
+### [whoogle-search](https://github.com/benbusby/whoogle-search)
 
-`NeuraPress` 是一个现代化的 `Markdown` 编辑器，专注于提供优质的微信公众号排版体验。响应式设计，支持移动设备。搭配 `DeepSeek` 和微信公众号助手使用，碎片时间也能用手机发有排版的文章了：
+这个项目是这周我看到项目中最喜欢的，它是一个元搜索引擎，简单来说**元搜索引擎**就是汇总第三方搜索引擎结果的一个搜索引擎（这里主要使用的是谷歌），它具有以下特点：
 
-- 🎨 实时预览 - 所见即所得的编辑体验
-- 📱 移动端支持 - 支持手机上直接编辑，搭配 DeepSeek和微信公众号助手使用
-- 🎯 微信风格 - 完美适配微信公众号样式
-- 🔧 样式定制 - 灵活的样式配置选项
-- 📋 一键复制 - 支持复制带格式的预览内容
-- 🎭 模板系统 - 内置多种排版模板，一键切换
-- 🚀 快速高效 - 基于 Next.js 构建，性能优异
+- 自部署
+- 去广告
+- 去追踪
+- 自定义
 
-![NeuraPress](https://images-1252557999.file.myqcloud.com/uPic/xGyAd8.png)
-`markdown-nice` 也是一个不错的项目，使用  `Docker`  一键搭建：`docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11`
+如果你有自己的服务器，可以尝试一下，我自己用了几天，非常喜欢上面的特性，感觉特别棒，已经升级成我的默认搜索引擎了：
 
-![markdown-nice](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png) 
+![Whoogle](https://images-1252557999.file.myqcloud.com/uPic/mUGf6O-20230909194304629.png) 
 
-### [univer](https://github.com/dream-num/univer)
+### [simple-one-api](https://github.com/fruitbars/simple-one-api)
 
-`Univer` 是一套企业文档与数据协同解决方案，融合了电子表格、文档和幻灯片：
-
-![univer](https://images-1252557999.file.myqcloud.com/uPic/univer.jpg) 
+OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用。 
 
 ## 🤖 软件 
 
-### [Gotcha-Rest-Client](https://github.com/WhiteCosmos/Gotcha-Rest-Client)
+### [flow-browser](https://github.com/MultiboxLabs/flow-browser)
 
-Gotcha 是一个开源且跨平台的 API 设计和测试工具：
+`Flow Browser` 是一个基于 `Electron` 框架构建的现代化网页浏览器，它支持多个配置文件、多工作空间、侧边栏、命令面板、自定义扩展、原生广告拦截器等功能。该浏览器支持安装 `Chrome` 网上应用店的扩展，提供了睡眠标签页功能以节省系统资源，并且支持 `Widevine` 以便观看受版权保护的内容。
 
-- 无需登录注册，所有数据均存放在本地数据库(indexedDB)当中
-- 完全可视化的 API 设计功能，自由编辑请求和响应，支持 Json Schema 格式，支持大多数 OpenAPI 标准
-- 参数化 URL 编辑器，所有 URL 参数都可以通过表单形式轻松修改
-- 通过右键菜单轻松使用动态变量，包括环境变量，日期时间，引用其它接口等多种类型
-- 随时切换，修改 Cookie，支持同时使用多套 Cookie
-- 可视化 JSON 编辑器
-- 保存常用请求到请求模板
+![flow-browser](https://images-1252557999.file.myqcloud.com/uPic/UwO7ZF.png) 
 
-![Gotcha-Rest-Client](https://images-1252557999.file.myqcloud.com/uPic/Gotcha-Rest-Client.png) 
+### [OpenAgentPlatform-Dive](https://github.com/OpenAgentPlatform/Dive)
 
-### [macGPT](https://github.com/hellokuls/macGPT)
+`Dive` 是一个开源 `MCP` 主机桌面应用程序，可与任何支持功能调用功能的 `LLM` 无缝集成：
 
-一款 `ChatGPT for Mac` 原生客户端：
+![OpenAgentPlatform-Dive](https://images-1252557999.file.myqcloud.com/uPic/O2ZWvL.png) 
 
-![macGPT](https://images-1252557999.file.myqcloud.com/uPic/macGPT.png) 
+### [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor)
 
-### [fideo-live-record](https://github.com/chenfan0/fideo-live-record)
+`Caesium` 是一款图像压缩软件，可帮助您存储、发送和共享数字图片，支持 `JPG、PNG&WebP` 格式：
 
-这是一个基于 `React Ffmpeg Electron Shadcn` 的直播录制软件。支持监控直播，可以帮助用户简单便捷对直播进行录制并保存为` MP4` 格式的视频：
-
-![fideo-live-record](https://images-1252557999.file.myqcloud.com/uPic/tCaYMt.png) 
+![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.jpg) 
 
 ## 👀 资料 
 
-### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
+### [PKU-DAIR/Starter-Guide](https://github.com/PKU-DAIR/Starter-Guide)
 
-带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
+本仓库为PKU-DAIR团队为相关领域的新人提供全面的开源文档和技术指南。通过汇集团队的核心论文和经验分享，将帮助初学者快速熟悉数据管理(Data Management, DM) 和 人工智能(Artificial Intelligence, AI) 等前沿领域，搭建坚实的技术基础。无论你是刚入门还是希望加深理解，仓库中的资源将为你的学习和研究之旅提供有力支持。
 
-![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
+![PKU-DAIR/Starter-Guide](https://images-1252557999.file.myqcloud.com/uPic/KnGu45.png) 
 
-### [学习CSS布局](https://zh.learnlayout.com/)
+### [llm-action](https://github.com/liguodongiot/llm-action)
 
-本站教授的是现在广泛使用于网站布局领域的CSS基础：
+本项目旨在分享大模型相关技术原理以及实战经验，让天下没有难学的大模型：
 
-![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
+![llm-action](https://images-1252557999.file.myqcloud.com/uPic/llm-action.png) 
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+### [PDF Explained](https://github.com/zxyle/PDF-Explained)
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
-
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+ `PDF` 无处不在，无论是在线形式还是印刷形式，但很少有人利用这些有用的功能或掌握这种格式的细微差别。 这本简明的书籍为程序员，高级用户提供了世界领先的页面描述语言(pdf)的动手实践。以及搜索，电子出版和印刷行业的专业人士， 有大量示例，本书是你完全理解PDF所需的文档。
+ 
+ ![PDF-Explained](https://images-1252557999.file.myqcloud.com/uPic/PDF-Explained.jpg) 
 
 ## 🕸 网站 
 
-### [logo.surf](https://www.logo.surf/#generate-favicon)
+### [cursor.directory](https://cursor.directory/)
 
-快速创建图标：
+基于你在用的框架或者语言，提供最好的 curson 规则。也开源在 [github](https://github.com/pontusab/cursor.directory)
 
-![logo_surf](https://images-1252557999.file.myqcloud.com/uPic/logo_surf.jpg) 
+![cursor.directory](https://images-1252557999.file.myqcloud.com/uPic/ygOBRk.png) 
 
-### [PromptPilot](https://promptpilot.volcengine.com/home)
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
 
-字节火山出品的 `Prompt` 生成助手：
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
 
-![PromptPilot](https://images-1252557999.file.myqcloud.com/uPic/uvUy4X.png) 
+![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
 
-### [RuTracker](https://rutracker.org/forum/index.php)
+### [动漫新番表](https://www.fre123.com/anime/n)
 
-俄罗斯最大的盗版网站开放了，可以去上面找资源了：
+继上周做了[动漫搜索引擎](https://www.fre123.com/anime/s)后，老胡这次整了个动漫新番信息记录网站，新番信息脚本和数据都是开源的👉[fre123-anime](https://github.com/fre123-com/fre123-anime)，欢迎体验：
 
-![rutracker](https://images-1252557999.file.myqcloud.com/uPic/rutracker.jpg) 
+![fre123_anime_n](https://images-1252557999.file.myqcloud.com/uPic/fre123_anime_n.jpg) 
 
 ## ✍️ 说明
 
