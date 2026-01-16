@@ -5,93 +5,94 @@
 
 ## 🎯 项目 
 
-### [CasaOS](https://github.com/IceWhaleTech/CasaOS)
+### [metabase](https://github.com/metabase/metabase)
 
-CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。它致力于构建世界上最简单、易用、优雅的家庭云系统。
+为公司提供的快速BI数据可视化工具：
 
-![CasaOS](https://images-1252557999.file.myqcloud.com/uPic/rA4tpa.jpg) 
+![metabase](https://images-1252557999.file.myqcloud.com/uPic/metabase.png)
 
-### crontab-ui
+也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.com/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease) 
 
-提供简单安全的方式来管理 `crontab`:
+### [mcp-playwright](https://github.com/executeautomation/mcp-playwright)
 
-![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
+基于 `Playwright` 的模型上下文协议服务器，用于自动化浏览器和 `API`：
 
-### [form-create](https://github.com/xaboy/form-create)
+![mcp-playwright](https://img.api123.pro/i/2025/03/15/67d500afc9275.png) 
 
-强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
+### [crawl4ai](https://github.com/unclecode/crawl4ai)
 
-![form-create](https://images-1252557999.file.myqcloud.com/uPic/demo-live3.gif) 
+`Crawl4AI` 是一个免费且开源的网络爬虫工具，专为大型语言模型（LLMs）和 AI 应用设计，支持多种输出格式，如 JSON、HTML 和 markdown。它能够同时处理多个 URL，提取媒体标签（图片、音频和视频），以及内外链接和网页元数据。 
 
 ## 🤖 软件 
 
-### [postcat](https://github.com/Postcatlab/postcat)
+### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 
-`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
 
-![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
+- **免费**：本项目所有代码开源，完全免费。
+- **方便**：解压即用，无需安装。不需要网络。
+- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
+- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
 
-### [ntchat](https://github.com/smallevilbeast/ntchat)
+![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
 
-微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
+### [Hiddify](https://github.com/hiddify/hiddify-next)
 
-- 基于pc微信的api接口, 类似itchat项目
-- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
-- 支持好友和群管理 
+挺好用的网络代理软件，现在主用这个：
 
-### [ponymusic](https://github.com/wangchenyan/ponymusic)
+![hiddify](https://images-1252557999.file.myqcloud.com/uPic/hiddify.jpg) 
 
-使用「网易云音乐API」的安卓在线音乐播放器：
+### [FlowDown](https://github.com/Lakr233/FlowDown-App)
 
-- 网易云音乐基本功能
-- 添加和播放本地音乐文件
-- 专辑封面显示
-- 歌词显示，支持拖动歌词调节播放进度
-- 通知栏控制
-- 夜间模式
-- 定时关闭
+浮望（FlowDown）是一个速度极快、平滑的 AI/LLM 客户端应用程序。
 
-![ponymusic](https://images-1252557999.file.myqcloud.com/uPic/ponymusic.jpg) 
+![FlowDown](https://images-1252557999.file.myqcloud.com/uPic/boR71j.png) 
 
 ## 👀 资料 
 
-### [quant-wiki](https://quant-wiki.com/)
+### [llm_engineering](https://github.com/ed-donner/llm_engineering)
 
-致力于量化知识的开源与汉化，打破国内外量化金融行业信息差：
+该项目是为了辅助 Edward Donner 的 LLM 工程课程而设立的。课程内容涵盖了 8 周的学习路径，旨在帮助学生掌握人工智能和大型语言模型（LLMs）的技能。仓库包含了课程资源、环境设置指南（适用于 PC、Mac 和 Linux 系统）以及项目文件。
 
-![quant](https://images-1252557999.file.myqcloud.com/uPic/kuOM0C.png) 
+![llm_engineering](https://images-1252557999.file.myqcloud.com/uPic/dtF0EE.png) 
 
-### [svg-tutorial](https://svg-tutorial.com/)
+### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 
-学习如何使用 `SVG` 在 `HTML` 中编写图像代码：
+C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
 
-![svg-tutorial](https://images-1252557999.file.myqcloud.com/uPic/svg-tutorial.jpg) 
+![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
 
-### [让你受益匪浅的名家写作经验](https://docs.qq.com/aio/DWVRkZ1RUWHRsdU1J?p=4oWLX7hAfFdfdbi4Ir5wqo)
+### [fun-rec](https://github.com/datawhalechina/fun-rec/)
 
-各文学大家的写作经验汇总：
+本[教程](https://datawhalechina.github.io/fun-rec/#/)主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。
 
-![让你受益匪浅的名家写作经验](https://images-1252557999.file.myqcloud.com/uPic/让你受益匪浅的名家写作经验.jpg) 
+![fun-rec](https://images-1252557999.file.myqcloud.com/uPic/fun-rec.jpg) 
 
 ## 🕸 网站 
 
-### [devpedia.pages.dev](https://devpedia.pages.dev/)
+### [LocallyTools](https://github.com/howie6879/weekly/issues/181)
 
-`Dev Encyclopedia` 是一个为开发者提供广泛技术术语、概念和工具解释的在线百科全书：
+这是一个在线工具箱网站，它最大的特点是：所有工具都 100% 在用户的浏览器本地运行。图片压缩、PDF 处理等所有计算任务都在本地完成，这从根本上保证了用户的隐私和数据安全。
 
-![devpedia](https://images-1252557999.file.myqcloud.com/uPic/L7S0qZ.png) 
+秉持“用完即走”的原则，永久免费、无需注册登录，界面简洁，交互直接。目前有三大类常用工具：
 
-### [iconfont](https://www.iconfont.cn/)
+- 图片工具：如图片压缩、格式转换（支持 AVIF/WebP）、裁剪旋转等。
+- PDF 工具：如 PDF 合并、拆分、页面移除等。
+- 开发者工具：如 UUID 生成、JWT 解码、代码格式化（支持多种语言）等。
 
-阿里巴巴矢量图标库：
+![LocallyTools](https://images-1252557999.file.myqcloud.com/uPic/Y2rLxV.png) 
 
-![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
+### [zerossl](https://zerossl.com/)
 
-### [稀土掘金大模型子站](https://llm.juejin.cn/view)
+一个可以免费签 IP 地址 SSL 证书的网站：
 
-大模型相关产品导航：
+![zerossl](https://images-1252557999.file.myqcloud.com/uPic/zerossl.jpg) 
 
-![llm_juejin](https://images-1252557999.file.myqcloud.com/uPic/llm_juejin.jpg) 
+### [帮小忙](https://tool.browser.qq.com/)
+
+腾讯出品的小工具合集，轻松办公，工具助你一臂之力，功能一应俱全、简单好用的线上工具宝：
+
+![bxm](https://images-1252557999.file.myqcloud.com/uPic/bxm.jpg) 
 
 ## ✍️ 说明
 
