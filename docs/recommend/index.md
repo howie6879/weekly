@@ -5,94 +5,117 @@
 
 ## 🎯 项目 
 
-### [metabase](https://github.com/metabase/metabase)
+### [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
 
-为公司提供的快速BI数据可视化工具：
+基于 `CloudFlare Pages` 的免费图片托管解决方案，支持 `Telegram Bot` 和 `Cloudflare R2` 等多种存储方式:
 
-![metabase](https://images-1252557999.file.myqcloud.com/uPic/metabase.png)
+![CloudFlare-ImgBed](https://images-1252557999.file.myqcloud.com/uPic/49JpVO.png) 
 
-也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.com/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease) 
+### [zane-ops](https://github.com/zane-ops/zane-ops)
 
-### [mcp-playwright](https://github.com/executeautomation/mcp-playwright)
+`zaneops` 是一个自托管的平台即服务（PaaS），它提供了一个用于部署和管理 Web 应用、数据库、静态网站等的平台：
 
-基于 `Playwright` 的模型上下文协议服务器，用于自动化浏览器和 `API`：
+- 界面美观、速度快速，完全免费且开源
+- 支持多种服务的部署，包括但不限于 Supabase、WordPress、Ghost 等
 
-![mcp-playwright](https://img.api123.pro/i/2025/03/15/67d500afc9275.png) 
+![zaneops](https://images-1252557999.file.myqcloud.com/uPic/mal2TN.png) 
 
-### [crawl4ai](https://github.com/unclecode/crawl4ai)
+### [Super_Mario](https://github.com/BadagalaAdarsh/Super_Mario)
 
-`Crawl4AI` 是一个免费且开源的网络爬虫工具，专为大型语言模型（LLMs）和 AI 应用设计，支持多种输出格式，如 JSON、HTML 和 markdown。它能够同时处理多个 URL，提取媒体标签（图片、音频和视频），以及内外链接和网页元数据。 
+这是一个很有意思的项目，相信大家都玩过马里奥，这个项目可以让你用身体控制马里奥进行游戏，可以锻炼身体哈哈：
+
+![mario](https://images-1252557999.file.myqcloud.com/uPic/mario.gif) 
 
 ## 🤖 软件 
 
-### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+### [Sloth](https://github.com/sveinbjornt/Sloth)
 
-适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
+`Sloth` 是一款原生的 `Mac` 应用程序，它显示系统上所有正在运行软件所有打开的文件、目录、套接字、管道和设备，用户可以很简单地掌控自己的电脑文件使用权限：
 
-- **免费**：本项目所有代码开源，完全免费。
-- **方便**：解压即用，无需安装。不需要网络。
-- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
-- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
+![Sloth](https://images-1252557999.file.myqcloud.com/uPic/Sloth.jpeg) 
 
-![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
+### [1Remote](https://github.com/1Remote/1Remote)
 
-### [Hiddify](https://github.com/hiddify/hiddify-next)
+`1Remote` 是一款现代化的个人远程会话管理员和启动器，使用它你可以管理从一个入口管理多种远程会话：
 
-挺好用的网络代理软件，现在主用这个：
+- ⭐ 开源且免费
+- ⭐ 支持 RDP, SSH, VNC, Telnet, (S)FTP, RemoteApp 等多种协议
+- ⭐ 多屏幕、高分辨率的 RDP 支持
+- ⭐ 一键打开你的远程连接 (Alt + M)
+- ⭐ 单个服务器配置中允许存储多个地址和账号
+- ⭐ 基于选项卡的远程桌面界面、多语言、可自定义颜色主题
+- ⭐ 易于部署，仅需解压就能运行
 
-![hiddify](https://images-1252557999.file.myqcloud.com/uPic/hiddify.jpg) 
+![1Remote](https://images-1252557999.file.myqcloud.com/uPic/dgLzJC.png) 
 
-### [FlowDown](https://github.com/Lakr233/FlowDown-App)
+### [mCollection](https://github.com/hunmer/mCollection)
 
-浮望（FlowDown）是一个速度极快、平滑的 AI/LLM 客户端应用程序。
+🎉开源，可扩展，可自定义的素材管理库：
 
-![FlowDown](https://images-1252557999.file.myqcloud.com/uPic/boR71j.png) 
+-  sqlite3存储结构，允许自定义关联表
+-  没有限制的扩展插件，事件广播多
+-  模块化设计，各个功能互不干扰
+-  标签页设计，切换更便捷
+-  内置全局呼出搜索
+-  代码热更新
+-  前后端分离，支持部署私人素材库
+
+![mCollection](https://images-1252557999.file.myqcloud.com/uPic/mCollection.png) 
 
 ## 👀 资料 
 
-### [llm_engineering](https://github.com/ed-donner/llm_engineering)
+### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
 
-该项目是为了辅助 Edward Donner 的 LLM 工程课程而设立的。课程内容涵盖了 8 周的学习路径，旨在帮助学生掌握人工智能和大型语言模型（LLMs）的技能。仓库包含了课程资源、环境设置指南（适用于 PC、Mac 和 Linux 系统）以及项目文件。
+这本书的目标是:
 
-![llm_engineering](https://images-1252557999.file.myqcloud.com/uPic/dtF0EE.png) 
+- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
+- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
+- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
 
-### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
 
-C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
+### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
 
-![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
+这里有比较全面的时间序列数据相关资源。 
 
-### [fun-rec](https://github.com/datawhalechina/fun-rec/)
+### [dockerlabs](https://github.com/collabnix/dockerlabs)
 
-本[教程](https://datawhalechina.github.io/fun-rec/#/)主要是针对具有机器学习基础并想找推荐算法岗位的同学，由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。主要分为三个阶段，分别是推荐系统基础、推荐系统进阶和推荐算法面经。
+Docker 学习教程：
 
-![fun-rec](https://images-1252557999.file.myqcloud.com/uPic/fun-rec.jpg) 
+- 适用于初中高级别学习者的免费平台
+- 超过500个高度互动的Docker教程和指南
+- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
+
+![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
 
 ## 🕸 网站 
 
-### [LocallyTools](https://github.com/howie6879/weekly/issues/181)
+### [myfreemp3juices](https://myfreemp3juices.cc/)
 
-这是一个在线工具箱网站，它最大的特点是：所有工具都 100% 在用户的浏览器本地运行。图片压缩、PDF 处理等所有计算任务都在本地完成，这从根本上保证了用户的隐私和数据安全。
+可以免费在线听&下载歌曲：
 
-秉持“用完即走”的原则，永久免费、无需注册登录，界面简洁，交互直接。目前有三大类常用工具：
+![myfreemp3juices](https://images-1252557999.file.myqcloud.com/uPic/myfreemp3juices.jpg) 
 
-- 图片工具：如图片压缩、格式转换（支持 AVIF/WebP）、裁剪旋转等。
-- PDF 工具：如 PDF 合并、拆分、页面移除等。
-- 开发者工具：如 UUID 生成、JWT 解码、代码格式化（支持多种语言）等。
+### [aiwallpaper](https://aiwallpaper.shop/)
 
-![LocallyTools](https://images-1252557999.file.myqcloud.com/uPic/Y2rLxV.png) 
+`AI` 生成高清壁纸，项目开源在：[all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper)。
 
-### [zerossl](https://zerossl.com/)
+开源代码包括：
 
-一个可以免费签 IP 地址 SSL 证书的网站：
+- nextjs 全栈开发 API 和 Web 
+- dalle-3 绘图对接 
+- aws s3 图片上传 
+- postgres 数据读写 
+- 谷歌登录 
+- stripe
 
-![zerossl](https://images-1252557999.file.myqcloud.com/uPic/zerossl.jpg) 
+非常适合参考学习，用来做一些小而美的 `AI` 应用。 
 
-### [帮小忙](https://tool.browser.qq.com/)
+### [http.cat](https://http.cat)
 
-腾讯出品的小工具合集，轻松办公，工具助你一臂之力，功能一应俱全、简单好用的线上工具宝：
+如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
 
-![bxm](https://images-1252557999.file.myqcloud.com/uPic/bxm.jpg) 
+![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
 
 ## ✍️ 说明
 
