@@ -5,117 +5,98 @@
 
 ## 🎯 项目 
 
-### [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
+### [ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine)
 
-基于 `CloudFlare Pages` 的免费图片托管解决方案，支持 `Telegram Bot` 和 `Cloudflare R2` 等多种存储方式:
+随着 `TikTok` 和 `Youtube` 等短视频内容的兴起，比以往任何时候都有更多的知识存在于视频中。对于任何一个人来说，在数百万个视频中找到特定答案可能是困难的，而这个项目([https://avse.vercel.app/](https://avse.vercel.app/))就是针对这个问题进行探索：
 
-![CloudFlare-ImgBed](https://images-1252557999.file.myqcloud.com/uPic/49JpVO.png) 
+![ai-video-search-engine](https://images-1252557999.file.myqcloud.com/uPic/ai-video-search-engine.jpg) 
 
-### [zane-ops](https://github.com/zane-ops/zane-ops)
+### [uptime-kuma](https://github.com/louislam/uptime-kuma)
 
-`zaneops` 是一个自托管的平台即服务（PaaS），它提供了一个用于部署和管理 Web 应用、数据库、静态网站等的平台：
+一个开源可自建的网站监控工具，用于监控网站的运行状态：
 
-- 界面美观、速度快速，完全免费且开源
-- 支持多种服务的部署，包括但不限于 Supabase、WordPress、Ghost 等
+![uptime-kuma](https://images-1252557999.file.myqcloud.com/uPic/vTUcC7.jpg) 
 
-![zaneops](https://images-1252557999.file.myqcloud.com/uPic/mal2TN.png) 
+### [webdav](https://github.com/hacdias/webdav)
 
-### [Super_Mario](https://github.com/BadagalaAdarsh/Super_Mario)
-
-这是一个很有意思的项目，相信大家都玩过马里奥，这个项目可以让你用身体控制马里奥进行游戏，可以锻炼身体哈哈：
-
-![mario](https://images-1252557999.file.myqcloud.com/uPic/mario.gif) 
+一个简单且独立部署的 `WebDAV` 服务，支持 `Docker`。 
 
 ## 🤖 软件 
 
-### [Sloth](https://github.com/sveinbjornt/Sloth)
+### [AingDesk](https://github.com/aingdesk/AingDesk "AingDesk")
 
-`Sloth` 是一款原生的 `Mac` 应用程序，它显示系统上所有正在运行软件所有打开的文件、目录、套接字、管道和设备，用户可以很简单地掌控自己的电脑文件使用权限：
+`AingDesk` 是一款简单好用的 AI 助手，支持知识库、模型 API、分享、联网搜索、智能体：
 
-![Sloth](https://images-1252557999.file.myqcloud.com/uPic/Sloth.jpeg) 
+![AingDesk](https://images-1252557999.file.myqcloud.com/uPic/1DjXWY.png) 
 
-### [1Remote](https://github.com/1Remote/1Remote)
+### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
 
-`1Remote` 是一款现代化的个人远程会话管理员和启动器，使用它你可以管理从一个入口管理多种远程会话：
+一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
 
-- ⭐ 开源且免费
-- ⭐ 支持 RDP, SSH, VNC, Telnet, (S)FTP, RemoteApp 等多种协议
-- ⭐ 多屏幕、高分辨率的 RDP 支持
-- ⭐ 一键打开你的远程连接 (Alt + M)
-- ⭐ 单个服务器配置中允许存储多个地址和账号
-- ⭐ 基于选项卡的远程桌面界面、多语言、可自定义颜色主题
-- ⭐ 易于部署，仅需解压就能运行
+- 隐藏桌面图标
+- 番茄钟
+- 快速进入夜间模式
+- 隐藏刘海
+- 保持唤醒
+- 清理 Xcode 缓存
+- 支持快捷方式库，可以自己开发
+- ...
 
-![1Remote](https://images-1252557999.file.myqcloud.com/uPic/dgLzJC.png) 
+![OnlySwitch](https://images-1252557999.file.myqcloud.com/uPic/OnlySwitch.png) 
 
-### [mCollection](https://github.com/hunmer/mCollection)
+### [PicGo](https://github.com/Molunerfinn/PicGo)
 
-🎉开源，可扩展，可自定义的素材管理库：
+一个用于快速上传图片并获取图片 `URL` 链接的工具，和之前推荐的 [uPic](https://github.com/gee1k/uPic) 类似，但这个是跨平台的且有自己的插件体系：
 
--  sqlite3存储结构，允许自定义关联表
--  没有限制的扩展插件，事件广播多
--  模块化设计，各个功能互不干扰
--  标签页设计，切换更便捷
--  内置全局呼出搜索
--  代码热更新
--  前后端分离，支持部署私人素材库
+![PicGo](https://images-1252557999.file.myqcloud.com/uPic/PicGo.jpg)
 
-![mCollection](https://images-1252557999.file.myqcloud.com/uPic/mCollection.png) 
+如果想在终端环境进行图片上传，可以参考：[upgit](https://github.com/pluveto/upgit)。 
 
 ## 👀 资料 
 
-### [嵌入式Rust之书](https://logiase.github.io/The-Embedded-Rust-Book-CN/intro/index.html)
+### [PDF Explained](https://github.com/zxyle/PDF-Explained)
 
-这本书的目标是:
+ `PDF` 无处不在，无论是在线形式还是印刷形式，但很少有人利用这些有用的功能或掌握这种格式的细微差别。 这本简明的书籍为程序员，高级用户提供了世界领先的页面描述语言(pdf)的动手实践。以及搜索，电子出版和印刷行业的专业人士， 有大量示例，本书是你完全理解PDF所需的文档。
+ 
+ ![PDF-Explained](https://images-1252557999.file.myqcloud.com/uPic/PDF-Explained.jpg) 
 
-- 让开发者快速上手Rust嵌入式开发. 例如, 如何建立开发环境
-- 分享*当前*使用Rust进行嵌入式开发的最佳实践. 例如, 如何最好地使用Rust编写更加正确的嵌入式应用
-- 在某些情况下提供一个开发指南. 例如, 如何在一个项目中混用C与Rust.
+### [hello-algo](https://github.com/krahets/hello-algo)
 
-![The-Embedded-Rust-Book](https://images-1252557999.file.myqcloud.com/uPic/The-Embedded-Rust-Book.jpg) 
+[Hello 算法](https://www.hello-algo.com/)是一本动画图解、能运行、可提问的数据结构与算法入门书，本书面向数据结构与算法初学者，致力于达成以下目标：
 
-### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
+- 开源免费，所有同学都可在网上获取本书；
+- 新手友好，适合算法初学者自主学习入门；
+- 动画讲解，尽可能地保证平滑的学习曲线；
+- 代码导向，提供精简、可运行的算法代码；
+- 讨论学习，提问一般能在三日内得到回复；
 
-这里有比较全面的时间序列数据相关资源。 
+![hello-algo](https://images-1252557999.file.myqcloud.com/uPic/hello-algo.jpg) 
 
-### [dockerlabs](https://github.com/collabnix/dockerlabs)
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-Docker 学习教程：
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-- 适用于初中高级别学习者的免费平台
-- 超过500个高度互动的Docker教程和指南
-- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
-
-![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
+![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
 
 ## 🕸 网站 
 
-### [myfreemp3juices](https://myfreemp3juices.cc/)
+### [Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/getting-started.html)
 
-可以免费在线听&下载歌曲：
+这个项目意在帮助你更好地了解Vue.js，编写你自己的实用程序，或只是单纯的享受挑战的乐趣：
 
-![myfreemp3juices](https://images-1252557999.file.myqcloud.com/uPic/myfreemp3juices.jpg) 
+![vuejs-challenges](https://images-1252557999.file.myqcloud.com/uPic/vuejs-challenges.jpg) 
 
-### [aiwallpaper](https://aiwallpaper.shop/)
+### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
 
-`AI` 生成高清壁纸，项目开源在：[all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper)。
+老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
 
-开源代码包括：
+![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
 
-- nextjs 全栈开发 API 和 Web 
-- dalle-3 绘图对接 
-- aws s3 图片上传 
-- postgres 数据读写 
-- 谷歌登录 
-- stripe
+### [Baidu 一格](https://yige.baidu.com/)
 
-非常适合参考学习，用来做一些小而美的 `AI` 应用。 
+百度出品的文字生成图像模型：
 
-### [http.cat](https://http.cat)
-
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
-
-![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
+![yige](https://images-1252557999.file.myqcloud.com/uPic/yige.jpg) 
 
 ## ✍️ 说明
 
