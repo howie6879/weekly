@@ -5,97 +5,92 @@
 
 ## 🎯 项目 
 
-### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
+### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
 
-通过网络收集整理的中文歌词数据库, 包含:
+适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
 
-- 绝大多数华语歌手在2019年之前的歌曲
-- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
-- 102197首歌曲, 平均每人25.4首歌
+![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
 
-作者基于此数据库做了两个歌词生成器：
+### [olmOCR-7B](https://huggingface.co/allenai/olmOCR-7B-0225-preview)
 
-- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
-- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
+`olmOCR` 在250000页的数据集上微调了`Qwen2-VL-7B-Instruct` 模型，旨在将 `PDF` 和文档图像转换为干净且结构化的纯文本：
 
-### [screenshot-to-code](https://github.com/abi/screenshot-to-code)
+![olmOCR](https://img.api123.pro/i/2025/03/15/67d5044a829bd.png) 
 
-依赖 `GPT-4 Vision` 特性，允许用户将屏幕截图作为输入，然后将其转换为整洁的HTML/Tailwind/JS代码，和上一期推荐的 [draw-a-ui](https://weekly.howie6879.com/2023/11-06~11-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC115%E6%9C%9F%EF%BC%89.html) 有异曲同工之妙。
+### [rss-reader](https://github.com/srcrs/rss-reader)
 
-![screenshot-to-code](https://images-1252557999.file.myqcloud.com/uPic/screenshot-to-code.jpg) 
+一个极简的 `RSS` 在线浏览工具：
 
-### crontab-ui
-
-提供简单安全的方式来管理 `crontab`:
-
-![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
+![rss-reader](https://images-1252557999.file.myqcloud.com/uPic/rss-reader.png) 
 
 ## 🤖 软件 
 
-### [BingGPT](https://github.com/dice2o/BingGPT)
+### [materialYouNewTab](https://github.com/XengShi/materialYouNewTab)
 
-必应 GPT 聊天桌面应用程序：
+一个简单的新标签（浏览器主页）插件，灵感来自谷歌的 MD 设计，挺漂亮的：
 
-![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
+![materialYouNewTab](https://images-1252557999.file.myqcloud.com/uPic/MWwtoG.png) 
 
-### [fideo-live-record](https://github.com/chenfan0/fideo-live-record)
+### [RedFish](https://github.com/Kuari/RedFish)
 
-这是一个基于 `React Ffmpeg Electron Shadcn` 的直播录制软件。支持监控直播，可以帮助用户简单便捷对直播进行录制并保存为` MP4` 格式的视频：
+一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
 
-![fideo-live-record](https://images-1252557999.file.myqcloud.com/uPic/tCaYMt.png) 
+![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
 
-### [bloop](https://github.com/BloopAI/bloop)
+### [yaak](https://github.com/mountain-loop/yaak)
 
-`bloop` 是一个用 Rust 编写的快速代码搜索引擎，内部集成 `LLM` 大模型，可以快速让你导入一个代码仓库以自然语言形式进行问答，想快速上手一个项目或者文档不怎么够的项目，力荐👀：
+`Yaak` 是一个桌面 `API` 客户端，专门用于与 `REST、GraphQL、WebSockets、Server Sent Events & gRPC API` 进行交互。它使用 Tauri、Rust 和 ReactJS 构建，支持数据导入、多种认证方式、请求链式处理、工作空间和文件夹管理、环境变量切换、动态值生成、主题自定义、数据镜像、请求历史记录以及插件扩展功能。
 
-![bloop](https://images-1252557999.file.myqcloud.com/uPic/bloop.jpg) 
+![yaak](https://images-1252557999.file.myqcloud.com/uPic/qYKhFp.png)
+
+目前老胡最喜欢用的是 [bruno](https://github.com/usebruno/bruno)。 
 
 ## 👀 资料 
 
-### [PyTorch-Tutorial-2nd](https://github.com/TingsongYu/PyTorch-Tutorial-2nd)
+### [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
 
-《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项目应用，或是进阶工程化部署落地，在这里都有。相信在本书的帮助下，读者将能够轻松掌握 PyTorch 的使用，成为一名优秀的深度学习工程师。
+面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:
 
-![PyTorch-Tutorial-2nd](https://img.fre123.com/i/2024/07/12/6690fc7ae91f6.png) 
+![llm-cookbook](https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png) 
 
-### [TuringCourses](https://github.com/ZJU-Turing/TuringCourses)
+### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
 
-浙江大学图灵班各门课程的学习指南以及学习资源。
+一本小书《带你入门前端工程》
 
-- 主站：https://ZJU-Turing.github.io/TuringCourses/
-- 存档站（CS/AI/IS 三专业版）：https://zju-turing.github.io/TuringCoursesGrave/ 
+![](https://images-1252557999.file.myqcloud.com/uPic/e783TS.png) 
 
-### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
+### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
 
-`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
+学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
 
-![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
-
-`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
-
-![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
-
-更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
+![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
 
 ## 🕸 网站 
 
-### [hotkeycheatsheet](https://hotkeycheatsheet.com/zh)
+### [regexlearn](https://regexlearn.com)
 
-常用软件的快捷键备忘录：
+一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
 
-![hotkeycheatsheet](https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg) 
+![regexlearn](https://images-1252557999.file.myqcloud.com/uPic/yUZ5N4.png) 
 
-### [douyin.wtf](https://douyin.wtf/)
+### [Python Tutor](https://pythontutor.com/?)
 
-网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
+这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
 
-![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
+![Python Tutor](https://images-1252557999.file.myqcloud.com/uPic/hIdiXA.png) 
 
-### [warp.dev](https://www.warp.dev/)
+### [阳光志愿](https://gaokao.chsi.com.cn/zyck/)
 
-一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
+家里有参加高考的，可以参考：
 
-![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
+- 院校查询
+- 专业查询
+- 支援参考
+- 心理测评
+- 职业前景
+- 报考指南
+
+![zyck](https://images-1252557999.file.myqcloud.com/uPic/zyck.jpg) 
 
 ## ✍️ 说明
 
