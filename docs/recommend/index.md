@@ -5,92 +5,102 @@
 
 ## 🎯 项目 
 
-### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+### [uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 
-适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
+这个项目提供了一个用于过滤 AI 生成内容的大型屏蔽列表，适用于 uBlock Origin & uBlacklist 插件。 
 
-![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
+### [sqliteviz](https://github.com/lana-k/sqliteviz)
 
-### [olmOCR-7B](https://huggingface.co/allenai/olmOCR-7B-0225-preview)
+`sqliteviz` 是一款功能强大且易于使用的离线数据可视化工具，具有易于使用、性能出色的特点，非常适合数据分析人员、学生和开发人员使用。
 
-`olmOCR` 在250000页的数据集上微调了`Qwen2-VL-7B-Instruct` 模型，旨在将 `PDF` 和文档图像转换为干净且结构化的纯文本：
+在线体验地址：[https://sqliteviz.com/app](https://sqliteviz.com/app)
 
-![olmOCR](https://img.api123.pro/i/2025/03/15/67d5044a829bd.png) 
+![sqliteviz](https://images-1252557999.file.myqcloud.com/uPic/sqliteviz.jpg) 
 
-### [rss-reader](https://github.com/srcrs/rss-reader)
+### [onelist](https://github.com/msterzhang/onelist)
 
-一个极简的 `RSS` 在线浏览工具：
+一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序:
 
-![rss-reader](https://images-1252557999.file.myqcloud.com/uPic/rss-reader.png) 
+- alist挂载云盘后能在网页端看视频，却没有分类，没有海报墙
+- 使用webdav挂载本地后，用jellyfin或者emby刮削会下载视频截取封面导致封号
+- 用jellyfin或者emby之类，没有大带宽公网ip，在外难以访问
+
+![onelist](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-4-5997957576333046318-y.jpg) 
 
 ## 🤖 软件 
 
-### [materialYouNewTab](https://github.com/XengShi/materialYouNewTab)
+### [Webpilot](https://github.com/webpilot-ai/Webpilot)
 
-一个简单的新标签（浏览器主页）插件，灵感来自谷歌的 MD 设计，挺漂亮的：
+开源浏览器插件，基于 `ChatGPT` 可以让您与网页进行自由对话，可以在线访问 [webpilot.ai](https://github.com/webpilot-ai/Webpilot)：
 
-![materialYouNewTab](https://images-1252557999.file.myqcloud.com/uPic/MWwtoG.png) 
+![webpilot](https://images-1252557999.file.myqcloud.com/uPic/webpilot.jpg) 
 
-### [RedFish](https://github.com/Kuari/RedFish)
+### [Gotcha-Rest-Client](https://github.com/WhiteCosmos/Gotcha-Rest-Client)
 
-一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
+Gotcha 是一个开源且跨平台的 API 设计和测试工具：
 
-![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
+- 无需登录注册，所有数据均存放在本地数据库(indexedDB)当中
+- 完全可视化的 API 设计功能，自由编辑请求和响应，支持 Json Schema 格式，支持大多数 OpenAPI 标准
+- 参数化 URL 编辑器，所有 URL 参数都可以通过表单形式轻松修改
+- 通过右键菜单轻松使用动态变量，包括环境变量，日期时间，引用其它接口等多种类型
+- 随时切换，修改 Cookie，支持同时使用多套 Cookie
+- 可视化 JSON 编辑器
+- 保存常用请求到请求模板
 
-### [yaak](https://github.com/mountain-loop/yaak)
+![Gotcha-Rest-Client](https://images-1252557999.file.myqcloud.com/uPic/Gotcha-Rest-Client.png) 
 
-`Yaak` 是一个桌面 `API` 客户端，专门用于与 `REST、GraphQL、WebSockets、Server Sent Events & gRPC API` 进行交互。它使用 Tauri、Rust 和 ReactJS 构建，支持数据导入、多种认证方式、请求链式处理、工作空间和文件夹管理、环境变量切换、动态值生成、主题自定义、数据镜像、请求历史记录以及插件扩展功能。
+### [Nuclear](https://github.com/nukeop/nuclear)
 
-![yaak](https://images-1252557999.file.myqcloud.com/uPic/qYKhFp.png)
+`Nuclear` 是一款完全免费的跨平台音乐流媒体桌面程序，内容来源于互联网，界面UI精美，它专注于音乐本身，非常不错（比较麻烦的还是网络问题）：
 
-目前老胡最喜欢用的是 [bruno](https://github.com/usebruno/bruno)。 
+![nucler](https://images-1252557999.file.myqcloud.com/uPic/nucler.jpg)
+
+项目还在持续开发，我们可以保持期待。 
 
 ## 👀 资料 
 
-### [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
+### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
 
-面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:
+《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 
-![llm-cookbook](https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png) 
+![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
 
-### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
+### [PDF Explained](https://github.com/zxyle/PDF-Explained)
 
-一本小书《带你入门前端工程》
+ `PDF` 无处不在，无论是在线形式还是印刷形式，但很少有人利用这些有用的功能或掌握这种格式的细微差别。 这本简明的书籍为程序员，高级用户提供了世界领先的页面描述语言(pdf)的动手实践。以及搜索，电子出版和印刷行业的专业人士， 有大量示例，本书是你完全理解PDF所需的文档。
+ 
+ ![PDF-Explained](https://images-1252557999.file.myqcloud.com/uPic/PDF-Explained.jpg) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/e783TS.png) 
+### [nextjs-learn-cn](https://qufei1993.github.io/nextjs-learn-cn/)
 
-### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+一份 `Next.js` 中文教程：
 
-学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
-
-![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
+![nextjs-learn-c](https://images-1252557999.file.myqcloud.com/uPic/nextjs-learn-c.jpg) 
 
 ## 🕸 网站 
 
-### [regexlearn](https://regexlearn.com)
+### [readecho.cn](https://readecho.cn/)
 
-一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
+只需几步轻松获取并保存微信读书笔记，自定义你的笔记回顾方式，不错过每一个阅读瞬间，[前端代码开源](https://github.com/mundane799699/readecho-web)：
 
-![regexlearn](https://images-1252557999.file.myqcloud.com/uPic/yUZ5N4.png) 
+![readecho](https://images-1252557999.file.myqcloud.com/uPic/readecho.jpg) 
 
-### [Python Tutor](https://pythontutor.com/?)
+### [deepseek-r1-online.com](https://deepseek-r1-online.com/chat/)
 
-这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
+免费的满血 `deepseek-r1` 在线版，[老胡 DeepSeek 信息交流群](https://mp.weixin.qq.com/s/dPicExymBomcksvijPNNKg)友情提供共享，放心使用：
 
-![Python Tutor](https://images-1252557999.file.myqcloud.com/uPic/hIdiXA.png) 
+![deepseek-r1-online.co](https://images-1252557999.file.myqcloud.com/uPic/xrfA9j.png)
 
-### [阳光志愿](https://gaokao.chsi.com.cn/zyck/)
+老胡也顺便整理了一些教程：
 
-家里有参加高考的，可以参考：
+- [简单教程: 两步获取专属满血 DeepSeek-R1](https://mp.weixin.qq.com/s/dPicExymBomcksvijPNNKg)
+- [DeepSeek-R1 联网功能实现方案攻略](https://www.biji.com/note/1867969552567120872/web) 
 
-- 院校查询
-- 专业查询
-- 支援参考
-- 心理测评
-- 职业前景
-- 报考指南
+### [ziyouziti](https://ziyouziti.com/)
 
-![zyck](https://images-1252557999.file.myqcloud.com/uPic/zyck.jpg) 
+免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
+
+![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
 
 ## ✍️ 说明
 
