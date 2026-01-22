@@ -5,102 +5,96 @@
 
 ## 🎯 项目 
 
-### [uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+### [miniflux](https://github.com/miniflux/v2)
 
-这个项目提供了一个用于过滤 AI 生成内容的大型屏蔽列表，适用于 uBlock Origin & uBlacklist 插件。 
+`Miniflux` 是一个极简主义的开源 `RSS` 阅读器，它使用非常简单，可 `Docker` 部署，这样就相当于你拥有了自己的 [Feedly](https://feedly.com/) 服务，再结合一个漂亮的客户端如 [ReactFlux](https://github.com/electh/ReactFlux)，用起来就很舒服 ：
 
-### [sqliteviz](https://github.com/lana-k/sqliteviz)
+![miniflux](https://images-1252557999.file.myqcloud.com/uPic/eyMYhc.png)
 
-`sqliteviz` 是一款功能强大且易于使用的离线数据可视化工具，具有易于使用、性能出色的特点，非常适合数据分析人员、学生和开发人员使用。
+其他类似开源有：
 
-在线体验地址：[https://sqliteviz.com/app](https://sqliteviz.com/app)
+- [Tiny Tiny RSS](https://tt-rss.org/)：一个免费且开源的基于网络的新闻订阅（RSS/Atom）阅读器和聚合器
+- [FreshRSS](https://github.com/FreshRSS/FreshRSS)：一个自托管的RSS订阅聚合器
+- 基于以上项目构建后的客户端：
+    - [fluent-reader](https://github.com/yang991178/fluent-reader)：现代化 `RSS` 阅读器
+    - [NetNewsWire](https://netnewswire.com/)：适用于 `Mac、iPhone&iPad` 的免费开源 `RSS` 阅读器
+    - 安卓 [feedme](https://github.com/seazon/FeedMe/blob/master/doc/zh/README.md)： 一个安卓 `RSS` 阅读器，支持主流 `RSS` 服务
+    - [Refeed](https://github.com/michaelkremenetsky/Refeed)：好看的现代化客户端 
 
-![sqliteviz](https://images-1252557999.file.myqcloud.com/uPic/sqliteviz.jpg) 
+### [kaneo](https://github.com/usekaneo/kaneo)
 
-### [onelist](https://github.com/msterzhang/onelist)
+`Kaneo` 提供了一个用户友好的界面，帮助团队高效地管理项目，包括任务的分配、跟踪和协作。它支持多种工作方式，适应不同团队的需求，并提供了一系列工具来提高项目管理的透明度和效率。`Kaneo` 的目标是通过简化项目管理流程，帮助团队成员更好地专注于任务执行。
 
-一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序:
+![kaneo](https://images-1252557999.file.myqcloud.com/uPic/FNj1fX.png) 
 
-- alist挂载云盘后能在网页端看视频，却没有分类，没有海报墙
-- 使用webdav挂载本地后，用jellyfin或者emby刮削会下载视频截取封面导致封号
-- 用jellyfin或者emby之类，没有大带宽公网ip，在外难以访问
+### [pico.css](https://github.com/picocss/pico)
 
-![onelist](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-4-5997957576333046318-y.jpg) 
+简单优雅小巧的轻量级CSS框架，特性如下：
+
+- 尽量使用原生的HTML语义，上手简单
+- 仅使用CSS，无依赖
+- 在所有设备上都有优雅且一致的响应式排版
+- 默认支持亮/黑模式 
 
 ## 🤖 软件 
 
-### [Webpilot](https://github.com/webpilot-ai/Webpilot)
+### [EasyNotes](https://github.com/Kin69/EasyNotes)
 
-开源浏览器插件，基于 `ChatGPT` 可以让您与网页进行自由对话，可以在线访问 [webpilot.ai](https://github.com/webpilot-ai/Webpilot)：
+一个开源的 `Android` 笔记应用，使用 `Kotlin` 编写，采用了最新的 `Jetpack Compose MVVM` 架构，以实现流畅的笔记编辑和管理体验。该应用支持完整的 `Markdown` 格式（包括图片），提供了一个安全的、加密的笔记保险库。EasyNotes 特点包括轻量化、无需任何权限、 `Material You` 设计风格:
 
-![webpilot](https://images-1252557999.file.myqcloud.com/uPic/webpilot.jpg) 
+![EasyNotes](https://images-1252557999.file.myqcloud.com/uPic/Rq8teu.png) 
 
-### [Gotcha-Rest-Client](https://github.com/WhiteCosmos/Gotcha-Rest-Client)
+### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
 
-Gotcha 是一个开源且跨平台的 API 设计和测试工具：
+JetBrains 的下一代 IDE：
 
-- 无需登录注册，所有数据均存放在本地数据库(indexedDB)当中
-- 完全可视化的 API 设计功能，自由编辑请求和响应，支持 Json Schema 格式，支持大多数 OpenAPI 标准
-- 参数化 URL 编辑器，所有 URL 参数都可以通过表单形式轻松修改
-- 通过右键菜单轻松使用动态变量，包括环境变量，日期时间，引用其它接口等多种类型
-- 随时切换，修改 Cookie，支持同时使用多套 Cookie
-- 可视化 JSON 编辑器
-- 保存常用请求到请求模板
+![fleet](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
 
-![Gotcha-Rest-Client](https://images-1252557999.file.myqcloud.com/uPic/Gotcha-Rest-Client.png) 
+### [Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT)
 
-### [Nuclear](https://github.com/nukeop/nuclear)
+一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频:
 
-`Nuclear` 是一款完全免费的跨平台音乐流媒体桌面程序，内容来源于互联网，界面UI精美，它专注于音乐本身，非常不错（比较麻烦的还是网络问题）：
-
-![nucler](https://images-1252557999.file.myqcloud.com/uPic/nucler.jpg)
-
-项目还在持续开发，我们可以保持期待。 
+![Chenyme-AAVT](https://images-1252557999.file.myqcloud.com/uPic/Chenyme-AAVT.jpg) 
 
 ## 👀 资料 
 
-### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
+### [learn-regex](https://github.com/ziishaned/learn-regex)
 
-《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
+开源的正则表达式教程，有中文版，有在线示例。 
 
-![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
+### [nlp-with-transformers](https://github.com/nlp-with-transformers)
 
-### [PDF Explained](https://github.com/zxyle/PDF-Explained)
+书籍《基于Transformers的自然语言处理》的代码仓库：
 
- `PDF` 无处不在，无论是在线形式还是印刷形式，但很少有人利用这些有用的功能或掌握这种格式的细微差别。 这本简明的书籍为程序员，高级用户提供了世界领先的页面描述语言(pdf)的动手实践。以及搜索，电子出版和印刷行业的专业人士， 有大量示例，本书是你完全理解PDF所需的文档。
- 
- ![PDF-Explained](https://images-1252557999.file.myqcloud.com/uPic/PDF-Explained.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/A6MiF5.jpg) 
 
-### [nextjs-learn-cn](https://qufei1993.github.io/nextjs-learn-cn/)
+### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
 
-一份 `Next.js` 中文教程：
+自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
 
-![nextjs-learn-c](https://images-1252557999.file.myqcloud.com/uPic/nextjs-learn-c.jpg) 
+![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [readecho.cn](https://readecho.cn/)
+### [fancymacbook](https://fancymacbook.app/)
 
-只需几步轻松获取并保存微信读书笔记，自定义你的笔记回顾方式，不错过每一个阅读瞬间，[前端代码开源](https://github.com/mundane799699/readecho-web)：
+提供技术向软件搜索然后输出 `brew` 命令安装：
 
-![readecho](https://images-1252557999.file.myqcloud.com/uPic/readecho.jpg) 
+![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
 
-### [deepseek-r1-online.com](https://deepseek-r1-online.com/chat/)
+### [gh-card.dev](https://gh-card.dev/)
 
-免费的满血 `deepseek-r1` 在线版，[老胡 DeepSeek 信息交流群](https://mp.weixin.qq.com/s/dPicExymBomcksvijPNNKg)友情提供共享，放心使用：
+免费为你的 `Github` 开源项目生成卡片的网站：
 
-![deepseek-r1-online.co](https://images-1252557999.file.myqcloud.com/uPic/xrfA9j.png)
+![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
 
-老胡也顺便整理了一些教程：
+### [segment-anything.com](https://segment-anything.com/)
 
-- [简单教程: 两步获取专属满血 DeepSeek-R1](https://mp.weixin.qq.com/s/dPicExymBomcksvijPNNKg)
-- [DeepSeek-R1 联网功能实现方案攻略](https://www.biji.com/note/1867969552567120872/web) 
+`Segment Anything Model（SAM）`：这是 `Meta AI` 推出的一款新的`AI` 模型，它可以通过单击轻松**抠出**任何图像中的任何物体。
 
-### [ziyouziti](https://ziyouziti.com/)
+也就是说，这个模型可以用一次点击的方式，将任何图片中的任何物体分割出来。
 
-免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
-
-![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
+![segment-anything](https://images-1252557999.file.myqcloud.com/uPic/segment-anything.jpg) 
 
 ## ✍️ 说明
 
