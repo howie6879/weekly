@@ -5,96 +5,93 @@
 
 ## 🎯 项目 
 
-### [miniflux](https://github.com/miniflux/v2)
+### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
 
-`Miniflux` 是一个极简主义的开源 `RSS` 阅读器，它使用非常简单，可 `Docker` 部署，这样就相当于你拥有了自己的 [Feedly](https://feedly.com/) 服务，再结合一个漂亮的客户端如 [ReactFlux](https://github.com/electh/ReactFlux)，用起来就很舒服 ：
+B站视频命令行下载工具：
 
-![miniflux](https://images-1252557999.file.myqcloud.com/uPic/eyMYhc.png)
+![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
 
-其他类似开源有：
+### [Cloudreve](https://github.com/cloudreve/Cloudreve)
 
-- [Tiny Tiny RSS](https://tt-rss.org/)：一个免费且开源的基于网络的新闻订阅（RSS/Atom）阅读器和聚合器
-- [FreshRSS](https://github.com/FreshRSS/FreshRSS)：一个自托管的RSS订阅聚合器
-- 基于以上项目构建后的客户端：
-    - [fluent-reader](https://github.com/yang991178/fluent-reader)：现代化 `RSS` 阅读器
-    - [NetNewsWire](https://netnewswire.com/)：适用于 `Mac、iPhone&iPad` 的免费开源 `RSS` 阅读器
-    - 安卓 [feedme](https://github.com/seazon/FeedMe/blob/master/doc/zh/README.md)： 一个安卓 `RSS` 阅读器，支持主流 `RSS` 服务
-    - [Refeed](https://github.com/michaelkremenetsky/Refeed)：好看的现代化客户端 
+支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
 
-### [kaneo](https://github.com/usekaneo/kaneo)
+- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
+- 📤  上传/下载 支持客户端直传，支持下载限速
+- 💾  可对接 Aria2 离线下载
+- 📚  在线 压缩/解压缩、多文件打包下载
+- 💻  覆盖全部存储策略的 WebDAV 协议支持
+- ⚡  拖拽上传、目录上传、流式上传处理
+- 🗃️  文件拖拽管理
+- 👩‍👧‍👦  多用户、用户组
+- 🔗  创建文件、目录的分享链接，可设定自动过期
+- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
+- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
+- 🚀  All-In-One 打包，开箱即用
+- 🌈  ... ...
 
-`Kaneo` 提供了一个用户友好的界面，帮助团队高效地管理项目，包括任务的分配、跟踪和协作。它支持多种工作方式，适应不同团队的需求，并提供了一系列工具来提高项目管理的透明度和效率。`Kaneo` 的目标是通过简化项目管理流程，帮助团队成员更好地专注于任务执行。
+![Cloudreve](https://images-1252557999.file.myqcloud.com/uPic/opzEP2.jpg) 
 
-![kaneo](https://images-1252557999.file.myqcloud.com/uPic/FNj1fX.png) 
+### [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
 
-### [pico.css](https://github.com/picocss/pico)
-
-简单优雅小巧的轻量级CSS框架，特性如下：
-
-- 尽量使用原生的HTML语义，上手简单
-- 仅使用CSS，无依赖
-- 在所有设备上都有优雅且一致的响应式排版
-- 默认支持亮/黑模式 
+这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。此项目从书籍、网站、工具、笔记、任务管理等角度推荐怎么提升个人生产力。 
 
 ## 🤖 软件 
 
-### [EasyNotes](https://github.com/Kin69/EasyNotes)
+### [fubukicss-tool](https://github.com/zouhangwithsweet/fubukicss-tool)
 
-一个开源的 `Android` 笔记应用，使用 `Kotlin` 编写，采用了最新的 `Jetpack Compose MVVM` 架构，以实现流畅的笔记编辑和管理体验。该应用支持完整的 `Markdown` 格式（包括图片），提供了一个安全的、加密的笔记保险库。EasyNotes 特点包括轻量化、无需任何权限、 `Material You` 设计风格:
+解决 `Figma` 设计图查看代码需要升级付费的问题，该项目提供一个浏览器扩展，可以一步获取来自 `Figma` 设计图的 `TailwindCSS/Unocss/CSS` 代码，加速开发：
 
-![EasyNotes](https://images-1252557999.file.myqcloud.com/uPic/Rq8teu.png) 
+![fubukicss-tool](https://images-1252557999.file.myqcloud.com/uPic/fubukicss-tool.jpg) 
 
-### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
+### [WeChatAI](https://github.com/bingryan/WeChatAI)
 
-JetBrains 的下一代 IDE：
+技术交流群的群友 **@bingryan** 开发的，推荐一下，项目目的在于打造一个All in One的个人AI聊天助手：
 
-![fleet](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
+![WeChatAI](https://images-1252557999.file.myqcloud.com/uPic/WeChatAI.png) 
 
-### [Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT)
+### [Plash](https://github.com/sindresorhus/Plash)
 
-一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频:
+将网站变成 Mac 桌面壁纸，支持将多种网站设置为壁纸，这些网站并不局限于图片网站，还可以是新闻、气象等站点：
 
-![Chenyme-AAVT](https://images-1252557999.file.myqcloud.com/uPic/Chenyme-AAVT.jpg) 
+![Plash](https://images-1252557999.file.myqcloud.com/uPic/Plash.jpeg) 
 
 ## 👀 资料 
 
-### [learn-regex](https://github.com/ziishaned/learn-regex)
+### [v8-internals](https://github.com/plctlab/v8-internals)
 
-开源的正则表达式教程，有中文版，有在线示例。 
+面向编译器开发人员的V8内部实现文档。 
 
-### [nlp-with-transformers](https://github.com/nlp-with-transformers)
+### [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
 
-书籍《基于Transformers的自然语言处理》的代码仓库：
+由 `Microsoft` 提供的教程，旨在帮助初学者通过 10 个课程了解如何构建 AI 代理:
 
-![](https://images-1252557999.file.myqcloud.com/uPic/A6MiF5.jpg) 
+![ai-agents-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/iDWOwA.png) 
 
-### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
+### [docker-practice](https://vuepress.mirror.docker-practice.com/)
 
-自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
+一份面向 `Docker` 初学者的教程：
 
-![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
+![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
 
 ## 🕸 网站 
 
-### [fancymacbook](https://fancymacbook.app/)
+### [webdesk](https://webdesk.pigjs.com/builder/)
 
-提供技术向软件搜索然后输出 `brew` 命令安装：
+一键将网站转化为桌面应用程序：
 
-![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
+![webdesk](https://images-1252557999.file.myqcloud.com/uPic/webdesk.jpg) 
 
-### [gh-card.dev](https://gh-card.dev/)
+### [trendingpapers](https://trendingpapers.com)
 
-免费为你的 `Github` 开源项目生成卡片的网站：
+类似于 `Github Trending` 的计算机科学论文趋势榜单：
 
-![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
+![trendingpapers](https://images-1252557999.file.myqcloud.com/uPic/trendingpapers.jpg) 
 
-### [segment-anything.com](https://segment-anything.com/)
+### [macosicongallery](https://www.macosicongallery.com/)
 
-`Segment Anything Model（SAM）`：这是 `Meta AI` 推出的一款新的`AI` 模型，它可以通过单击轻松**抠出**任何图像中的任何物体。
+专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
 
-也就是说，这个模型可以用一次点击的方式，将任何图片中的任何物体分割出来。
-
-![segment-anything](https://images-1252557999.file.myqcloud.com/uPic/segment-anything.jpg) 
+![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
 
 ## ✍️ 说明
 
