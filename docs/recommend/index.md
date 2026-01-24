@@ -5,93 +5,87 @@
 
 ## 🎯 项目 
 
-### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
+### [floccus](https://github.com/floccusaddon/floccus)
 
-B站视频命令行下载工具：
+`Floccus` 是一个开源的浏览器书签同步项目，它支持 `Firefox、Chrome、Edge`等浏览器书签同步：
 
-![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
+![floccus](https://images-1252557999.file.myqcloud.com/uPic/floccus.jpg) 
 
-### [Cloudreve](https://github.com/cloudreve/Cloudreve)
+### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
 
-支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
+`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
 
-- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
-- 📤  上传/下载 支持客户端直传，支持下载限速
-- 💾  可对接 Aria2 离线下载
-- 📚  在线 压缩/解压缩、多文件打包下载
-- 💻  覆盖全部存储策略的 WebDAV 协议支持
-- ⚡  拖拽上传、目录上传、流式上传处理
-- 🗃️  文件拖拽管理
-- 👩‍👧‍👦  多用户、用户组
-- 🔗  创建文件、目录的分享链接，可设定自动过期
-- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
-- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
-- 🚀  All-In-One 打包，开箱即用
-- 🌈  ... ...
+![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
 
-![Cloudreve](https://images-1252557999.file.myqcloud.com/uPic/opzEP2.jpg) 
+### [moffee](https://github.com/BMPixel/moffee)
 
-### [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
+开源的 `Markdown` 幻灯片制作工具，可以将 `Markdown` 文档转换为专业的幻灯片（PPT）。它支持简单的语法、自动分页和样式设置，用户只需专注于内容，可以通过实时网页界面预览或导出为 `PDF`：
 
-这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。此项目从书籍、网站、工具、笔记、任务管理等角度推荐怎么提升个人生产力。 
+![moffee](https://images-1252557999.file.myqcloud.com/uPic/moffee.png) 
 
 ## 🤖 软件 
 
-### [fubukicss-tool](https://github.com/zouhangwithsweet/fubukicss-tool)
+### [OFGB](https://github.com/xM4ddy/OFGB)
 
-解决 `Figma` 设计图查看代码需要升级付费的问题，该项目提供一个浏览器扩展，可以一步获取来自 `Figma` 设计图的 `TailwindCSS/Unocss/CSS` 代码，加速开发：
+`GUI` 工具删除 `Windows 11` 不同位置的广告：
 
-![fubukicss-tool](https://images-1252557999.file.myqcloud.com/uPic/fubukicss-tool.jpg) 
+![OFGB](https://images-1252557999.file.myqcloud.com/uPic/OFGB.jpg) 
 
-### [WeChatAI](https://github.com/bingryan/WeChatAI)
+### [youtube-music](https://github.com/th-ch/youtube-music)
 
-技术交流群的群友 **@bingryan** 开发的，推荐一下，项目目的在于打造一个All in One的个人AI聊天助手：
+一个 `YouTube Music` 桌面应用程序，提供类似原生界面的 `YouTube Music` 体验，基于 Electron 构建。
 
-![WeChatAI](https://images-1252557999.file.myqcloud.com/uPic/WeChatAI.png) 
+该应用集成了多种插件，包括广告屏蔽器、下载器以及其他增强功能。
 
-### [Plash](https://github.com/sindresorhus/Plash)
+- 广告拦截和下载：内置广告拦截器，阻止所有广告和跟踪；支持下载音乐（如 MP3、Opus 格式）。
+- 自定义插件：提供 31 个插件，例如 Discord 富存在、音频压缩、专辑颜色主题等，用户可一键启用或禁用。
+- 跨平台支持：可在 Windows（提供安装版和便携版）、macOS 和 Linux（提供 AppImage、deb 等）上运行。
 
-将网站变成 Mac 桌面壁纸，支持将多种网站设置为壁纸，这些网站并不局限于图片网站，还可以是新闻、气象等站点：
+![youtube-music](https://images-1252557999.file.myqcloud.com/uPic/Zzzdlh.png) 
 
-![Plash](https://images-1252557999.file.myqcloud.com/uPic/Plash.jpeg) 
+### [clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu)
+
+`Clash Nyanpasu` 是一个基于 `Tauri` 的 `Clash` 图形用户界面（`GUI`），支持 `Clash Premium、Mihomo & Clash Rust`，提供配置文件管理和增强功能，支持提供商管理，并采用 `Google Material You Design UI`：
+
+![nyanpasu](https://images-1252557999.file.myqcloud.com/uPic/KvzWVL.png) 
 
 ## 👀 资料 
 
-### [v8-internals](https://github.com/plctlab/v8-internals)
+### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
 
-面向编译器开发人员的V8内部实现文档。 
+`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
 
-### [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
 
-由 `Microsoft` 提供的教程，旨在帮助初学者通过 10 个课程了解如何构建 AI 代理:
+### developer-roadmap
 
-![ai-agents-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/iDWOwA.png) 
+开发人员学习成长路线图：
 
-### [docker-practice](https://vuepress.mirror.docker-practice.com/)
+![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
 
-一份面向 `Docker` 初学者的教程：
+### [Sensitive-lexicon](https://github.com/konsheng/Sensitive-lexicon)
 
-![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
+一个持续更新的中文敏感词库，帮助开发者和内容审核者快速识别并过滤不当文本，国内做需要用户评论相关业务还是很有用。 
 
 ## 🕸 网站 
 
-### [webdesk](https://webdesk.pigjs.com/builder/)
+### [devtool.tech](https://devtool.tech/)
 
-一键将网站转化为桌面应用程序：
+开发者武器库，作者提供了83个开发者常用的工具：
 
-![webdesk](https://images-1252557999.file.myqcloud.com/uPic/webdesk.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/ZlVqam.png) 
 
-### [trendingpapers](https://trendingpapers.com)
+### [antimkd](https://antimkd.com/)
 
-类似于 `Github Trending` 的计算机科学论文趋势榜单：
+无套路的软件下载网站：
 
-![trendingpapers](https://images-1252557999.file.myqcloud.com/uPic/trendingpapers.jpg) 
+![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
 
-### [macosicongallery](https://www.macosicongallery.com/)
+### [carbon](https://carbon.now.sh/)
 
-专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
+将你的源代码转成漂亮可分享的图片：
 
-![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
+![carbon](https://images-1252557999.file.myqcloud.com/uPic/carbon.jpg) 
 
 ## ✍️ 说明
 
