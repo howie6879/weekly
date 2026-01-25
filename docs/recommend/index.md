@@ -5,87 +5,81 @@
 
 ## 🎯 项目 
 
-### [floccus](https://github.com/floccusaddon/floccus)
+### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
 
-`Floccus` 是一个开源的浏览器书签同步项目，它支持 `Firefox、Chrome、Edge`等浏览器书签同步：
+`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
 
-![floccus](https://images-1252557999.file.myqcloud.com/uPic/floccus.jpg) 
+![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
 
-### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
+### [Sink](https://github.com/ccbikai/Sink)
 
-`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
+在 `Cloudflare` 上运行的简单、快速、安全的短链项目，还带有分析统计功能：
 
-![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
+![Sink](https://images-1252557999.file.myqcloud.com/uPic/aJnlZg.png) 
 
-### [moffee](https://github.com/BMPixel/moffee)
+### [webdav](https://github.com/hacdias/webdav)
 
-开源的 `Markdown` 幻灯片制作工具，可以将 `Markdown` 文档转换为专业的幻灯片（PPT）。它支持简单的语法、自动分页和样式设置，用户只需专注于内容，可以通过实时网页界面预览或导出为 `PDF`：
-
-![moffee](https://images-1252557999.file.myqcloud.com/uPic/moffee.png) 
+一个简单且独立部署的 `WebDAV` 服务，支持 `Docker`。 
 
 ## 🤖 软件 
 
-### [OFGB](https://github.com/xM4ddy/OFGB)
+### [Mist](https://github.com/ninxsoft/Mist)
 
-`GUI` 工具删除 `Windows 11` 不同位置的广告：
+一个自动下载 `macOS` 固件/安装程序的 `Mac` 实用工具，`macOS` 安装程序超级工具：
 
-![OFGB](https://images-1252557999.file.myqcloud.com/uPic/OFGB.jpg) 
+![Mist](https://images-1252557999.file.myqcloud.com/uPic/Mist.png) 
 
-### [youtube-music](https://github.com/th-ch/youtube-music)
+### [readest](https://github.com/chrox/readest)
 
-一个 `YouTube Music` 桌面应用程序，提供类似原生界面的 `YouTube Music` 体验，基于 Electron 构建。
+`Readest` 是一个现代化、功能丰富的电子书阅读器，旨在为读者提供无缝的跨平台访问体验、强大的工具和直观的界面，以提升阅读体验。
 
-该应用集成了多种插件，包括广告屏蔽器、下载器以及其他增强功能。
+![readest](https://images-1252557999.file.myqcloud.com/uPic/v41zIg.png) 
 
-- 广告拦截和下载：内置广告拦截器，阻止所有广告和跟踪；支持下载音乐（如 MP3、Opus 格式）。
-- 自定义插件：提供 31 个插件，例如 Discord 富存在、音频压缩、专辑颜色主题等，用户可一键启用或禁用。
-- 跨平台支持：可在 Windows（提供安装版和便携版）、macOS 和 Linux（提供 AppImage、deb 等）上运行。
+### [BetterDummy](https://github.com/waydabber/BetterDummy)
 
-![youtube-music](https://images-1252557999.file.myqcloud.com/uPic/Zzzdlh.png) 
+`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
 
-### [clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu)
+![bd_menu](https://images-1252557999.file.myqcloud.com/uPic/bd_menu.png)
 
-`Clash Nyanpasu` 是一个基于 `Tauri` 的 `Clash` 图形用户界面（`GUI`），支持 `Clash Premium、Mihomo & Clash Rust`，提供配置文件管理和增强功能，支持提供商管理，并采用 `Google Material You Design UI`：
-
-![nyanpasu](https://images-1252557999.file.myqcloud.com/uPic/KvzWVL.png) 
+如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
 
 ## 👀 资料 
 
-### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
+### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 
-`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
+C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
 
-![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
+![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
 
-### developer-roadmap
+### [Ai迷思录](https://github.com/Acmesec/theAIMythbook)
 
-开发人员学习成长路线图：
+涵盖了人工智能的基础知识、法律法规、经典人工智能模型、漏洞与攻击、防御方法、安全开发与运维、相关框架、会议讲座以及实践技能等。
 
-![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
+![theAIMythbook](https://images-1252557999.file.myqcloud.com/uPic/lPbVPg.png) 
 
-### [Sensitive-lexicon](https://github.com/konsheng/Sensitive-lexicon)
+### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
 
-一个持续更新的中文敏感词库，帮助开发者和内容审核者快速识别并过滤不当文本，国内做需要用户评论相关业务还是很有用。 
+Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
 
 ## 🕸 网站 
 
-### [devtool.tech](https://devtool.tech/)
+### [go-to-library.sk](https://go-to-library.sk/#useful_link_tab)
 
-开发者武器库，作者提供了83个开发者常用的工具：
+`Z-Library` 官方入口页面：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/ZlVqam.png) 
+![go-to-library.sk](https://images-1252557999.file.myqcloud.com/uPic/LQr3IN.png) 
 
-### [antimkd](https://antimkd.com/)
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
 
-无套路的软件下载网站：
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
 
-![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
+![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
 
-### [carbon](https://carbon.now.sh/)
+### [pika](https://pika.style/)
 
-将你的源代码转成漂亮可分享的图片：
+[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
 
-![carbon](https://images-1252557999.file.myqcloud.com/uPic/carbon.jpg) 
+![pika](https://images-1252557999.file.myqcloud.com/uPic/pika.jpg) 
 
 ## ✍️ 说明
 
