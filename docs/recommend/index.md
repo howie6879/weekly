@@ -5,81 +5,97 @@
 
 ## 🎯 项目 
 
-### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
+### [resume-design](https://github.com/huajian-pro/resume-design)
 
-`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
+一款开源简历设计生成器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据：
 
-![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
+![91huajian](https://images-1252557999.file.myqcloud.com/uPic/MHN7Rb.jpg) 
 
-### [Sink](https://github.com/ccbikai/Sink)
+### [nocobase](https://github.com/nocobase/nocobase)
 
-在 `Cloudflare` 上运行的简单、快速、安全的短链项目，还带有分析统计功能：
+NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
 
-![Sink](https://images-1252557999.file.myqcloud.com/uPic/aJnlZg.png) 
+![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
 
-### [webdav](https://github.com/hacdias/webdav)
+### [fast-poster](https://github.com/psoho/fast-poster)
 
-一个简单且独立部署的 `WebDAV` 服务，支持 `Docker`。 
+`fastposter` 海报生成器是一款快速开发海报的工具。只需上传一张背景图，在对应的位置放上组件（文字、图片、二维码、头像）即可生成海报。 点击代码直接生成各种语言的调用代码，方便快速开发:
+
+![fast-poster](https://images-1252557999.file.myqcloud.com/uPic/fast-poster.png) 
 
 ## 🤖 软件 
 
-### [Mist](https://github.com/ninxsoft/Mist)
+### [otphelper](https://github.com/jd1378/otphelper)
 
-一个自动下载 `macOS` 固件/安装程序的 `Mac` 实用工具，`macOS` 安装程序超级工具：
+`otphelper` 是一个开源应用程序，它可以自动从通知中复制一次性密码（OTP）和代码。
 
-![Mist](https://images-1252557999.file.myqcloud.com/uPic/Mist.png) 
+![otphelper](https://images-1252557999.file.myqcloud.com/uPic/OVPH03.png) 
 
-### [readest](https://github.com/chrox/readest)
+### [organicmaps](https://github.com/organicmaps/organicmaps)
 
-`Readest` 是一个现代化、功能丰富的电子书阅读器，旨在为读者提供无缝的跨平台访问体验、强大的工具和直观的界面，以提升阅读体验。
+`organicmaps` 是一款免费的 Android 和 iOS 离线地图应用程序，适用于旅行者、游客、司机、徒步旅行者和自行车骑行者。它使用众包的 OpenStreetMap 数据，由 MapsWithMe 应用程序（后来更名为 Maps.Me）的创建者和社区共同开发。没有广告，没有跟踪，没有数据收集，没有垃圾软件：
 
-![readest](https://images-1252557999.file.myqcloud.com/uPic/v41zIg.png) 
+![organicmaps](https://images-1252557999.file.myqcloud.com/uPic/organicmaps.jpg) 
 
-### [BetterDummy](https://github.com/waydabber/BetterDummy)
+### [Yank Note](https://github.com/purocean/yn)
 
-`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
+一款面向程序员的 `Markdown` 笔记应用，全平台支持：
 
-![bd_menu](https://images-1252557999.file.myqcloud.com/uPic/bd_menu.png)
+- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
+- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
+- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
+- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
+- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
 
-如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
+![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
 
 ## 👀 资料 
 
-### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+### [云安全攻防入门](https://lzcloudsecurity.gitbook.io/yun-an-quan-gong-fang-ru-men/)
 
-C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
+关于云安全攻防的基础知识：
 
-![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
+![yun-an-quan-gong-fang-ru-men](https://images-1252557999.file.myqcloud.com/uPic/yun-an-quan-gong-fang-ru-men.jpg) 
 
-### [Ai迷思录](https://github.com/Acmesec/theAIMythbook)
+### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
 
-涵盖了人工智能的基础知识、法律法规、经典人工智能模型、漏洞与攻击、防御方法、安全开发与运维、相关框架、会议讲座以及实践技能等。
+一份从头开始建立 `CDN` 知识体系的教程。 
 
-![theAIMythbook](https://images-1252557999.file.myqcloud.com/uPic/lPbVPg.png) 
+### [Sam Altman的创业手册](https://jxp73q7qjsg.feishu.cn/docx/WCNZdKDa4o2eUrxK5ElcfBXEnah)
 
-### [Kubernetes 加固手册](https://github.com/rootsongjc/kubernetes-hardening-guidance)
-
-Kubernetes Hardening Guidance（查看英文原版 PDF） 是由美国国家安全局（NSA）于 2021 年 8 月发布的，其中文版《Kubernetes 加固指南》由 Jimmy Song 翻译。 
+`Sam Altman` 的创业手册文本，给YC系创始人们的建议里面最通用的一部分提炼出来变成一个创业手册。 
 
 ## 🕸 网站 
 
-### [go-to-library.sk](https://go-to-library.sk/#useful_link_tab)
+### [央视纪实](https://jishi.cctv.com/)
 
-`Z-Library` 官方入口页面：
+央视官方纪录片大全，全部免费观看：
 
-![go-to-library.sk](https://images-1252557999.file.myqcloud.com/uPic/LQr3IN.png) 
+![657d173347944](https://img.fre123.com/i/2023/12/16/657d173347944.png) 
 
-### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+### [ticompressor](https://www.ticompressor.com/online/)
 
-人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
+压缩速度极快的图片压缩软件，有网页版和软件版：
 
-![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
+- 具有超快的压缩速度
+- 支持压缩 GB 级别的超大体积的图片
+- 支持 7 种图片格式
+- 支持深、浅色主题模式
+- 可对原始图片进行预览
+- 可通过【鼠标拖拽】【点击选择】【ctrl + v 粘贴】 等多种方式添加图片
+- 支持添加文件夹，可自动解析文件夹内所有符合要求的图片
+- 实时显示压缩进度
+- 完全在本地执行压缩，有无网络均可，不上传图片，充分保证隐私安全
 
-### [pika](https://pika.style/)
+![ticompressor](https://images-1252557999.file.myqcloud.com/uPic/ticompressor.jpg)
 
-[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
+![topspeed-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/topspeed-image-compressor.png) 
 
-![pika](https://images-1252557999.file.myqcloud.com/uPic/pika.jpg) 
+### [douyin.wtf](https://douyin.wtf/)
+
+网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
+
+![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
 
 ## ✍️ 说明
 
