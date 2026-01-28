@@ -5,98 +5,93 @@
 
 ## 🎯 项目 
 
-### [actual](https://github.com/actualbudget/actual)
+### [Chat2DB](https://github.com/chat2db/Chat2DB)
 
-自部署的个人理财开源项目：
+`Chat2DB` 是一款有开源免费的智能且多功能的SQL客户端和报表工具，适用于各种数据库：
 
-![actual](https://images-1252557999.file.myqcloud.com/uPic/jXtBXk.png) 
+- 🌈 AI智能助手，支持自然语言转SQL、SQL转自然语言、SQL优化建议
+- 🔥 SQL查询、AI查询和数据报表完美集成的一体化解决方案设计与实现
+- 👭 支持团队协作，研发无需知道线上数据库密码，解决企业数据库账号安全问题
+- ⚙️ 强大的数据管理能力，支持数据表、视图、存储过程、函数、触发器、索引、序列、用户、角色、授权等管理
+- 🔌 强大的扩展能力，目前已经支持MySQL、PostgreSQL、Oracle、SQLServer、ClickHouse、OceanBase、H2、SQLite等等，未来会支持更多的数据库
+- 🛡 前端使用 Electron 开发，提供 Windows、Mac、Linux 客户端、网页版本一体化的解决方案
+- 🎁 支持环境隔离、线上、日常数据权限分离
 
-### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
+![Chat2DB](https://images-1252557999.file.myqcloud.com/uPic/Chat2DB.png) 
 
-一键免费部署你的私人 `ChatGPT` 网页应用：
+### [Linux-CN-archive](https://github.com/Linux-CN/archive/releases/tag/release)
 
-- 在 1 分钟内使用 Vercel  **免费一键部署**
-- 精心设计的 UI，响应式设计，支持深色模式
-- 极快的首屏加载速度（~85kb）
-- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
-- 一键导出聊天记录，完整的 Markdown 支持
-- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
+`Linux` 中国所有原创文章的 `Markdown` 内容备份:
 
-![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
+![linux_cn_archive](https://images-1252557999.file.myqcloud.com/uPic/linux_cn_archive.jpg) 
 
-### [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt)
+### [Openlist](https://github.com/OpenListTeam/OpenList)
 
-🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
-
-![feishu-chatgpt](https://images-1252557999.file.myqcloud.com/uPic/feishu-chatgpt.png) 
+`OpenList` 是一款开源的网盘聚合工具，支持多种网盘服务的挂载和管理，并且完全免费。基于原  `Alist` 分支而来，解决了原来有争议的接口，去除了恶意代码，让  `Alist` 回归纯粹。 
 
 ## 🤖 软件 
 
-### [clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu)
+### [tunnelblick](https://tunnelblick.net/)
 
-`Clash Nyanpasu` 是一个基于 `Tauri` 的 `Clash` 图形用户界面（`GUI`），支持 `Clash Premium、Mihomo & Clash Rust`，提供配置文件管理和增强功能，支持提供商管理，并采用 `Google Material You Design UI`：
+免费开源的`openvpn`客户端：
 
-![nyanpasu](https://images-1252557999.file.myqcloud.com/uPic/KvzWVL.png) 
+![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
 
-### [hummingbird](https://github.com/leibnizli/hummingbird)
+### [AIaW](https://github.com/NitroRCr/AIaW)
 
-`Hummingbird` 是一个资源(`jpg/png/webp/svg/gif/css/js/html`)压缩客户端，支持`Windows`、`Mac`：
+`AI as Workspace` - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步：
 
-- `jpg/png/webp/svg/gif/html` 压缩后会替换掉当前文件，`css/js` 压缩后会生成一个带 `.min` 的新文件
-- 可以在在当前目录新建source文件夹并备份处理前的文件，可以在设置中开启
+![AIaW](https://images-1252557999.file.myqcloud.com/uPic/n5l83s.png) 
 
-![hummingbird](https://images-1252557999.file.myqcloud.com/uPic/hummingbird.jpg) 
+### [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
 
-### [box](https://github.com/liu673cn/box)
+🎉 一个 `Frp Client` 跨平台桌面端：
 
-TVBox 开源版:
-
-- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
-- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
-- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
-- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
-- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
-- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
-- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
-- 配置地址---输入站源---确定即可 URL站源规则
-
-![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
+![](https://img.fre123.com/i/2023/12/23/6586f68db0238.jpg) 
 
 ## 👀 资料 
 
-### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
+### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
-这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
+这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
 
-![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
+![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
 
-### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+### [grammar-club](https://github.com/llwslc/grammar-club)
 
-一个在YouTube上发现最新机器学习课程的项目。 
+旋元佑老师的语法俱乐部书籍电子版，在线阅读[地址](https://llwslc.github.io/grammar-club/content/Preface.html)：
 
-### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+![grammar-club](https://images-1252557999.file.myqcloud.com/uPic/grammar-club.jpg) 
 
-比较全面的 `k8s` 资源收集项目：
+### [harleyszhang/llm_note](https://github.com/harleyszhang/llm_note)
 
-![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
+一个关于大型语言模型（LLM）的笔记仓库，涵盖了模型推理、Transformer 模型结构、LLM 框架代码分析以及高性能计算等内容:
+
+- Transformer 模型系列：详细解读了 Transformer 模型的论文，实现代码，以及不同版本的 GPT 和 LLaMA 模型结构。
+- LLM 性能分析：分析了模型的参数量、计算量、显存占用以及推理延迟。
+- LLM 压缩技术：介绍了 SmoothQuant 和 AWQ 等模型压缩算法。
+- LLM 推理与部署：讨论了推理服务框架的技术总结和源码解析，包括 DeepSpeed 框架的学习笔记，以及推理优化、系统优化方法和可视化工具。
+- 高性能计算：提供了关于 Triton 和 CUDA 的编程笔记，以及高性能计算编程的学习资料推荐。 
 
 ## 🕸 网站 
 
-### [docsmall](https://docsmall.com/)
+### [iconbuddy](https://iconbuddy.app/svg-icons)
 
-提供一些图片压缩、PDF合并分割小功能的网站：
+`SVG` 图标检索网站（目前有18万图标），可简单编辑和下载：
 
-![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
+![iconbuddy](https://images-1252557999.file.myqcloud.com/uPic/iconbuddy.jpg) 
 
-### [w2solo](https://w2solo.com/)
+### [小纸条-gitcafe](https://u.gitcafe.net/)
 
-独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
+开放纯粹的资源网站：
 
-### [macosicongallery](https://www.macosicongallery.com/)
+![gitcafe](https://images-1252557999.file.myqcloud.com/uPic/gitcafe.jpg) 
 
-专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
+### [aicolors](https://aicolors.co/)
 
-![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
+通过提示词，基于 AI 生成配色方案：
+
+![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
 
 ## ✍️ 说明
 
