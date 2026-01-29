@@ -5,93 +5,99 @@
 
 ## 🎯 项目 
 
-### [Chat2DB](https://github.com/chat2db/Chat2DB)
+### [vue3-music](https://github.com/SmallRuralDog/vue3-music)
 
-`Chat2DB` 是一款有开源免费的智能且多功能的SQL客户端和报表工具，适用于各种数据库：
+`VUE3+TS` 开发的音乐播放器，界面模仿 `QQ` 音乐客户端，支持黑夜模式：
 
-- 🌈 AI智能助手，支持自然语言转SQL、SQL转自然语言、SQL优化建议
-- 🔥 SQL查询、AI查询和数据报表完美集成的一体化解决方案设计与实现
-- 👭 支持团队协作，研发无需知道线上数据库密码，解决企业数据库账号安全问题
-- ⚙️ 强大的数据管理能力，支持数据表、视图、存储过程、函数、触发器、索引、序列、用户、角色、授权等管理
-- 🔌 强大的扩展能力，目前已经支持MySQL、PostgreSQL、Oracle、SQLServer、ClickHouse、OceanBase、H2、SQLite等等，未来会支持更多的数据库
-- 🛡 前端使用 Electron 开发，提供 Windows、Mac、Linux 客户端、网页版本一体化的解决方案
-- 🎁 支持环境隔离、线上、日常数据权限分离
+![vue3-music](https://images-1252557999.file.myqcloud.com/uPic/vue3-music.png) 
 
-![Chat2DB](https://images-1252557999.file.myqcloud.com/uPic/Chat2DB.png) 
+### [bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
 
-### [Linux-CN-archive](https://github.com/Linux-CN/archive/releases/tag/release)
+一个开源的自托管服务器监控工具，使用 `React.js, Node.js & MongoDB` 构建，用于实时跟踪服务器的在线状态、响应时间和事件，并提供美观的可视化界面和预警功能：
 
-`Linux` 中国所有原创文章的 `Markdown` 内容备份:
+![bluewave-uptime](https://images-1252557999.file.myqcloud.com/uPic/3x4lwD.png) 
 
-![linux_cn_archive](https://images-1252557999.file.myqcloud.com/uPic/linux_cn_archive.jpg) 
+### [gitstars](https://github.com/cfour-hi/gitstars)
 
-### [Openlist](https://github.com/OpenListTeam/OpenList)
+`Github` 作为开发者的第一社交平台，拥有数不胜数的优秀开源项目，给工作和学习带来巨大方便，遇到自己需要或是喜爱的项目只需点击 Star 便可收入囊中。
 
-`OpenList` 是一款开源的网盘聚合工具，支持多种网盘服务的挂载和管理，并且完全免费。基于原  `Alist` 分支而来，解决了原来有争议的接口，去除了恶意代码，让  `Alist` 回归纯粹。 
+`Star is easy`，可随着 `Starred Repositories` 增长，在需要使用到某个项目时难免记不清叫什么，而 Github 又只提供简单的搜索，找到目标 `Starred Repository` 竟也成了件小小的麻烦事。
+
+所以拥有自己的 `Github Stars Repositories Manager` 也算是开发者的必备需求。`Gitstars` 由此诞生 💡
+
+![gitstars](https://images-1252557999.file.myqcloud.com/uPic/gitstars.png) 
 
 ## 🤖 软件 
 
-### [tunnelblick](https://tunnelblick.net/)
+### [bruno](https://github.com/usebruno/bruno)
 
-免费开源的`openvpn`客户端：
+用于探索和测试 `API` 的开源 `IDE`（轻量级替代 `Postman/Insomnia`）：
 
-![tunnelblick](https://images-1252557999.file.myqcloud.com/uPic/tunnelblick.jpg) 
+![bruno](https://images-1252557999.file.myqcloud.com/uPic/bruno.jpg) 
 
-### [AIaW](https://github.com/NitroRCr/AIaW)
+### [ntchat](https://github.com/smallevilbeast/ntchat)
 
-`AI as Workspace` - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步：
+微信 `SDK, Python` 微信机器人 `SDK` , `Python` 微信 `Web API` 接口:
 
-![AIaW](https://images-1252557999.file.myqcloud.com/uPic/n5l83s.png) 
+- 基于pc微信的api接口, 类似itchat项目
+- 支持收发文本、群@、名片、图片、文件、视频、链接卡片等
+- 支持好友和群管理 
 
-### [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-🎉 一个 `Frp Client` 跨平台桌面端：
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-![](https://img.fre123.com/i/2023/12/23/6586f68db0238.jpg) 
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
 ## 👀 资料 
 
-### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+### [rust-by-practice](https://github.com/sunface/rust-by-practice)
 
-这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
+通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
 
-![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/f4zLoa.png) 
 
-### [grammar-club](https://github.com/llwslc/grammar-club)
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-旋元佑老师的语法俱乐部书籍电子版，在线阅读[地址](https://llwslc.github.io/grammar-club/content/Preface.html)：
+《Mastering GO》中文译本，《玩转 GO》：
 
-![grammar-club](https://images-1252557999.file.myqcloud.com/uPic/grammar-club.jpg) 
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
-### [harleyszhang/llm_note](https://github.com/harleyszhang/llm_note)
+### [sideproject](https://sideproject.guide/)
 
-一个关于大型语言模型（LLM）的笔记仓库，涵盖了模型推理、Transformer 模型结构、LLM 框架代码分析以及高性能计算等内容:
+`Side Project` 指南：
 
-- Transformer 模型系列：详细解读了 Transformer 模型的论文，实现代码，以及不同版本的 GPT 和 LLaMA 模型结构。
-- LLM 性能分析：分析了模型的参数量、计算量、显存占用以及推理延迟。
-- LLM 压缩技术：介绍了 SmoothQuant 和 AWQ 等模型压缩算法。
-- LLM 推理与部署：讨论了推理服务框架的技术总结和源码解析，包括 DeepSpeed 框架的学习笔记，以及推理优化、系统优化方法和可视化工具。
-- 高性能计算：提供了关于 Triton 和 CUDA 的编程笔记，以及高性能计算编程的学习资料推荐。 
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
+
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
 
 ## 🕸 网站 
 
-### [iconbuddy](https://iconbuddy.app/svg-icons)
+### [json-to-go](https://mholt.github.io/json-to-go/)
 
-`SVG` 图标检索网站（目前有18万图标），可简单编辑和下载：
+在浏览器中将 `JSON` 转换为 `Go` 类型：
 
-![iconbuddy](https://images-1252557999.file.myqcloud.com/uPic/iconbuddy.jpg) 
+![json-to-go](https://images-1252557999.file.myqcloud.com/uPic/json-to-go.jpg) 
 
-### [小纸条-gitcafe](https://u.gitcafe.net/)
+### [IconPark](https://iconpark.oceanengine.com/home)
 
-开放纯粹的资源网站：
+字节开源的一款图标库。 
 
-![gitcafe](https://images-1252557999.file.myqcloud.com/uPic/gitcafe.jpg) 
+### [dute](https://www.dute.org/)
 
-### [aicolors](https://aicolors.co/)
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-通过提示词，基于 AI 生成配色方案：
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
 
-![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
 ## ✍️ 说明
 
