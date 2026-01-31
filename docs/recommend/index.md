@@ -5,122 +5,81 @@
 
 ## 🎯 项目 
 
-### [wg-easy](https://github.com/wg-easy/wg-easy)
+### [toolbox](https://github.com/aoaostar/toolbox)
 
- `wg-easy` 提供一种简单的方式来运行 WireGuard VPN，并配备了 Web 管理界面。
+🚀傲星工具箱，一个在线工具箱：
 
-![wg-easy](https://images-1252557999.file.myqcloud.com/uPic/sXhRQS.png) 
+![toolbox](https://images-1252557999.file.myqcloud.com/uPic/toolbox.png) 
 
-### [poster-design](https://github.com/palxiao/poster-design)
+### [Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals)
 
-一款漂亮且功能强大的在线海报图片设计器，仿稿定设计。适用于海报图片生成、电商分享图、文章长图、视频/公众号封面等多种场景，不过需要注意的是项目后端服务没有开源，特性如下：
+黑五 Mac IOS 生态相关软件打折软件汇总项目：
 
-- 导入 PSD 文件解析成模板、在线导出图片下载
-- 元素拖拽、组合、缩放、层级调整、对齐等操作。
-- 图片素材插入、替换、裁剪，图片容器等功能。
-- SVG 素材颜色、透明度编辑，文字花字组合。
-- 画布自定义尺寸、滚轮缩放、自适应画布
-- 吸附对齐、辅助引导线、标尺功能。
-- 键盘快捷键、右键菜单快捷操作，复制删除等常用操作。
-- 风格二维码编辑，支持单色、渐变、自定义 logo 等。
-- 图层操作，支持拖拽变更层级。
-- 颜色调色板，原生级取色器颜色吸管（Chrome）
+![Black-Friday-Deals](https://images-1252557999.file.myqcloud.com/uPic/Black-Friday-Deals.png) 
 
-![poster-design](https://images-1252557999.file.myqcloud.com/uPic/poster-design.jpg) 
+### [MindSearch](https://github.com/InternLM/MindSearch)
 
-### [PicImpact](https://github.com/besscroft/PicImpact)
+开源的 Web 搜索引擎框架，它利用大型语言模型（LLM）和多智能体架构来提供高级搜索功能。该项目支持多种搜索引擎，如 `DuckDuckGo、Bing、Brave & Google`，您可以轻松部署它来构建您自己的搜索引擎：
 
-一个摄影师专用的摄影作品展示网站，基于 `Next.js + Hono.js` 开发：
-
-- 瀑布流相册展示图片，支持实况照片(Live Photos)，基于 LivePhotosKit JS 开发。
-- 点击图片查看原图，浏览图片信息和 EXIF 信息，支持直链访问。
-- 响应式设计，在 PC 和移动端都有不错的体验，支持暗黑模式。
-- 图片存储兼容 S3 API、Cloudflare R2、AList API。
-- 图片支持绑定标签，并且可通过标签进行交互，筛选标签下所有图片。
-- 支持输出 RSS，可以使用 Follow 订阅，并支持订阅源所有权验证。
-- 支持批量自动化上传，上传图片时会生成 0.3 倍率的压缩图片，以提供加载优化。
-- ...
-
-![PicImpact](https://images-1252557999.file.myqcloud.com/uPic/NFu7vG.png) 
+![MindSearch](https://images-1252557999.file.myqcloud.com/uPic/8Q3zZx.png) 
 
 ## 🤖 软件 
 
-### [immersive-translate](https://github.com/immersive-translate/immersive-translate)
+### [ab-download-manager](https://github.com/amir1376/ab-download-manager)
 
-沉浸式双语网页翻译扩展：
+旨在提供比传统下载方式更快下载速度的开源跨平台下载器，界面非常现代化：
 
-- 智能识别网页主内容区进行翻译，区别于同类插件翻译网页所有区域的行为，降低对原网页的“侵入性”，增强译文的阅读体验，所以该扩展被命名为“沉浸式翻译”。
-- 双语显示，中文/英文对照（按照段落自然分割，或可设置为“将段落以句子分割”，实现每句话对照翻译）
-- 定制优化了常见的主流网站，比如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。
-- 支持 10 余种常见的翻译服务，包括 Deepl，谷歌，彩云小译，腾讯翻译君，百度翻译，火山翻译等。
-- 支持 PDF 文件双语翻译。
-- 支持 EPUB 电子书双语阅读，需配合 epub 在线阅读网站使用：https://epub-reader.online/  或  https://readwise.io/read
-- 提供多种译文样式选择，包括弱化、模糊、下划线、分隔线等样式，随心所欲的个性化你的翻译体验。
+![ab-download-manager](https://images-1252557999.file.myqcloud.com/uPic/ECGYnu.png) 
 
-![immersive-translate](https://images-1252557999.file.myqcloud.com/uPic/immersive-translate.jpg) 
+### [stretchly](https://github.com/hovancik/stretchly)
 
-### [全是漫画](https://github.com/hongchacha/cartoon)
+`Stretchly` 是一个跨平台的 `Electron` 应用程序，它的核心功能就是让你在电脑上面工作时候设定休息&提醒时间：
 
-全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费，基本上覆盖了所有的漫画网站。
+![stretchly](https://images-1252557999.file.myqcloud.com/uPic/stretchly.jpg) 
 
-![comic](https://images-1252557999.file.myqcloud.com/uPic/FXXmY5.jpg) 
+### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
 
-### [AppManager](https://github.com/MuntashirAkon/AppManager)
+类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
 
-一个功能全面的 `Android` 包管理器和应用查看器，支持复制自由软件的功能，提供了丰富的应用管理和操作功能，如列出应用信息、安装 / 卸载 `APK`、备份 / 恢复应用、查看日志等，同时支持根权限和 `ADB` 命令，以实现更高级的操作，如撤销权限、修改 `APP` 操作模式等：
-
-![AppManager](https://images-1252557999.file.myqcloud.com/uPic/zIgjSp.png) 
+![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
 
 ## 👀 资料 
 
-### [llm-universe](https://github.com/datawhalechina/llm-universe)
+### [programming-math-science](https://github.com/bobeff/programming-math-science) 
 
-本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：
+国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
-- 大模型简介，何为大模型、大模型特点是什么、LangChain 是什么，针对小白开发者的简单介绍；
-- 如何调用大模型 API，本节介绍了国内外知名大模型产品 API 的多种调用方式，包括调用原生 API、封装为 LangChain LLM、封装为 Fastapi 等调用方式，同时将包括百度文心、讯飞星火、智谱AI等多种大模型 API 进行了统一形式封装；
-- 大模型开发流程及架构，大模型应用开发的基本流程、一般思想和本项目的架构分析；
-- 数据库搭建，不同类型知识库文档的加载、处理，向量数据库的搭建；
-- Prompt 设计，如何设计 Prompt 来让大模型完成特定任务，Prompt Engineering 的原则和技巧有哪些；
-- 验证迭代，大模型开发如何实现验证迭代，一般的评估方法有什么；
-- 前后端开发，如何使用 Gradio、FastAPI 等框架快速开发大模型 Demo，展示应用能力。
+### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
 
-![llm-universe](https://images-1252557999.file.myqcloud.com/uPic/llm-universe.png) 
+通过科学方法训练自己的身体，让自己更加健康：
 
-### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
+![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
 
-对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
+### [note-architect](https://zq99299.github.io/note-architect/hc/)
 
-### [qianguyihao/Web](https://github.com/qianguyihao/Web)
+高并发系统设计 40 问，一份架构师学习笔记：
 
-千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师:
-
-- 网上的大部分入门教程，都不太适合初学者，本项目争取照顾到每一位前端入门者的同理心。即使你完全不懂前端，甚至不懂编程，通过这个教程，也能让小白入门。
-- 帮助前端同学提供一个精品学习资源和路线，提高学习效率，少走很多弯路。
-
-![qianguyihao](https://images-1252557999.file.myqcloud.com/uPic/qianguyihao.jpg)
-
-可以当做前端字典，随时翻阅，查漏补缺，在线观看地址：[web.qianguyihao.com](https://web.qianguyihao.com/)。 
+![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
 
 ## 🕸 网站 
 
-### [drawl.ink](https://drawl.ink/)
+### [removebg](https://www.remove.bg/zh)
 
-将链接转化成好看的图片：
+这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
 
-![drawl](https://images-1252557999.file.myqcloud.com/uPic/eltzuF.png) 
+![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
 
-### [jsonvisio](https://jsonvisio.com/editor)
+### [ideogram.ai](https://ideogram.ai/)
 
-将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
+免费无次数限制的文字转图片网页：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/jsonvisio.jpg) 
+![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
 
-### [coze](https://www.coze.cn/)
+### [compressjpeg](https://compressjpeg.com/zh/)
 
-扣子为你提供了一站式 AI 开发平台，无需编程，你的创新理念都能迅速化身为下一代的 AI 应用，字节跳动此前是在海外推出 [Coze](https://www.coze.com/)，国内扣子与其分开运营：
+一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
 
-![coze](https://images-1252557999.file.myqcloud.com/uPic/coze.jpg) 
+![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg) 
 
 ## ✍️ 说明
 
