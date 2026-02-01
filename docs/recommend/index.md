@@ -5,81 +5,93 @@
 
 ## 🎯 项目 
 
-### [toolbox](https://github.com/aoaostar/toolbox)
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-🚀傲星工具箱，一个在线工具箱：
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-![toolbox](https://images-1252557999.file.myqcloud.com/uPic/toolbox.png) 
+ ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
 
-### [Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals)
+### [open-webui](https://github.com/open-webui/open-webui)
 
-黑五 Mac IOS 生态相关软件打折软件汇总项目：
+将 `LLMs` 操作搬到了 `Web`，用户操作界面相当友好，值得体验，API兼容包括Ollama和OpenAI的API。
 
-![Black-Friday-Deals](https://images-1252557999.file.myqcloud.com/uPic/Black-Friday-Deals.png) 
+![openwebui](https://images-1252557999.file.myqcloud.com/uPic/openwebui.jpg) 
 
-### [MindSearch](https://github.com/InternLM/MindSearch)
+### [python-wechaty](https://github.com/wechaty/python-wechaty)
 
-开源的 Web 搜索引擎框架，它利用大型语言模型（LLM）和多智能体架构来提供高级搜索功能。该项目支持多种搜索引擎，如 `DuckDuckGo、Bing、Brave & Google`，您可以轻松部署它来构建您自己的搜索引擎：
+`Wechaty` 是一个开源聊天机器人框架 `SDK`，具有高度封装、高可用的特性，支持 `NodeJs, Python, Go` 和 `Java` 等多语言版本：
 
-![MindSearch](https://images-1252557999.file.myqcloud.com/uPic/8Q3zZx.png) 
+![python-wechaty](https://images-1252557999.file.myqcloud.com/uPic/python-wechaty.png) 
 
 ## 🤖 软件 
 
-### [ab-download-manager](https://github.com/amir1376/ab-download-manager)
+### [zen](https://github.com/anfragment/zen)
 
-旨在提供比传统下载方式更快下载速度的开源跨平台下载器，界面非常现代化：
+简单、免费且高效的广告拦截器和隐私保护工具，适用于Windows、macOS和Linux。它通过设置代理来拦截所有应用程序发出的HTTP请求，并阻止那些提供广告、跟踪脚本（监控您行为）、恶意软件和其他不需要的内容的请求。由于在系统级别运行，Zen可以防御浏览器扩展无法处理的威胁，例如嵌入在桌面应用程序和操作系统组件中的跟踪器。
 
-![ab-download-manager](https://images-1252557999.file.myqcloud.com/uPic/ECGYnu.png) 
+![zen](https://images-1252557999.file.myqcloud.com/uPic/zen.jpg) 
 
-### [stretchly](https://github.com/hovancik/stretchly)
+### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
 
-`Stretchly` 是一个跨平台的 `Electron` 应用程序，它的核心功能就是让你在电脑上面工作时候设定休息&提醒时间：
+`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
 
-![stretchly](https://images-1252557999.file.myqcloud.com/uPic/stretchly.jpg) 
+![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
 
-### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
+### [tts-now](https://github.com/funnyzak/tts-now)
 
-类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
+基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
 
-![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/Se6U0t.jpg) 
 
 ## 👀 资料 
 
-### [programming-math-science](https://github.com/bobeff/programming-math-science) 
+### [微信之父张小龙2351条饭否日记](https://docs.qq.com/doc/DWUVKZERkeGFLckp6?dver=)
 
-国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
+微信之父张小龙2351条饭否日记:
 
-### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
+![zxl_ff](https://images-1252557999.file.myqcloud.com/uPic/zxl_ff.jpg) 
 
-通过科学方法训练自己的身体，让自己更加健康：
+### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
 
-![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
+30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
 
-### [note-architect](https://zq99299.github.io/note-architect/hc/)
+![30-Days-Of-React](https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg) 
 
-高并发系统设计 40 问，一份架构师学习笔记：
+### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
 
-![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
+`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
+
+![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
+
+`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
+
+![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
+
+更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
 
 ## 🕸 网站 
 
-### [removebg](https://www.remove.bg/zh)
+### [haitang](https://github.com/javayhu/haitang)
 
-这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
+海棠诗社，提供古诗词的数字化收集，可以按照不同方式检索和分类，项目代码完全[开源](https://github.com/javayhu/haitang)：
 
-![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
+![haitang](https://images-1252557999.file.myqcloud.com/uPic/haitang.jpg) 
 
-### [ideogram.ai](https://ideogram.ai/)
+### [CronTool](https://tool.crontap.com/cronjob-debugger)
 
-免费无次数限制的文字转图片网页：
+`Linux Crontab` 可视化网站：
 
-![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
+![crontap](https://images-1252557999.file.myqcloud.com/uPic/crontap.jpg) 
 
-### [compressjpeg](https://compressjpeg.com/zh/)
+### [webutils](https://www.webutils.app/)
 
-一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
+一个提供web小工具的网站，比如：
 
-![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg) 
+- 文本比较
+- 图片压缩
+- 图片转换
+
+![webutils](https://images-1252557999.file.myqcloud.com/uPic/ijDiPA.png) 
 
 ## ✍️ 说明
 
