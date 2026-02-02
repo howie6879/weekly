@@ -5,93 +5,116 @@
 
 ## 🎯 项目 
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
+### [Youtu-agent](https://github.com/Tencent/Youtu-agent)
 
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+Youtu-agent 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，例如数据分析、文件处理和深度研究：
 
- ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
+- 验证性能：在 WebWalkerQA 上达到 71.47% 的 pass@1，在 GAIA（纯文本子集）上达到 72.8% 的 pass@1，纯粹使用 DeepSeek-V3 系列模型（不使用 Claude 或 GPT），建立了强大的开源起点。
+- 开源友好且成本敏感：针对可访问、低成本部署进行了优化，不依赖封闭模型。
+- 实际用例：开箱即用地支持 CSV 分析、文献综述、个人文件整理以及播客和视频生成等任务。（即将推出）
+- 灵活的架构：基于 openai-agents 构建，可兼容各种模型 API（从 DeepSeek 到 gpt-oss）、工具集成和框架实现。
 
-### [open-webui](https://github.com/open-webui/open-webui)
+![Youtu](https://images-1252557999.file.myqcloud.com/uPic/Fmf3nY.png) 
 
-将 `LLMs` 操作搬到了 `Web`，用户操作界面相当友好，值得体验，API兼容包括Ollama和OpenAI的API。
+### [wireflow](https://github.com/vanila-io/wireflow)
 
-![openwebui](https://images-1252557999.file.myqcloud.com/uPic/openwebui.jpg) 
+一款开源的用户流程图制作工具（点击[wireflow.co](https://wireflow.co/)访问）：
 
-### [python-wechaty](https://github.com/wechaty/python-wechaty)
+![wireflow](https://images-1252557999.file.myqcloud.com/uPic/wireflow.png) 
 
-`Wechaty` 是一个开源聊天机器人框架 `SDK`，具有高度封装、高可用的特性，支持 `NodeJs, Python, Go` 和 `Java` 等多语言版本：
+### [ChatGemini](https://github.com/bclswl0827/ChatGemini)
 
-![python-wechaty](https://images-1252557999.file.myqcloud.com/uPic/python-wechaty.png) 
+`ChatGemini` 是一个基于 `Google Gemini` 的网页客户端，对标 `ChatGPT 3.5`，操作逻辑同 `ChatGPT 3.5` 一致，同时支持在聊天中上传图片，应用会自动调用 `Gemini-Pro-Vision` 模型进行识图：
+
+- 适配移动端
+- 支持多 API 密钥分流
+- 操作逻辑同 ChatGPT
+- 仿 ChatGPT 3.5 界面
+- 支持多轮聊天对话
+- 支持上传图片进行识别
+- 逐字输出（SSE）回应
+- 集成 PHP 版反向代理
+- 自定义 Gemini API 地址
+- 可启用站点通行码防止滥用
+- 聊天内容导出（HTML 和 PDF）
+- 对话内容保存在 IndexedDB 中
+
+![ChatGemini](https://images-1252557999.file.myqcloud.com/uPic/ChatGemini.jpg)
+
+如果不想部署，可以直接使用搭建好的免费 Gemini：[https://gemini-pro.chat](https://gemini-pro.chat/) 
 
 ## 🤖 软件 
 
-### [zen](https://github.com/anfragment/zen)
+### [cursor](https://github.com/getcursor/cursor)
 
-简单、免费且高效的广告拦截器和隐私保护工具，适用于Windows、macOS和Linux。它通过设置代理来拦截所有应用程序发出的HTTP请求，并阻止那些提供广告、跟踪脚本（监控您行为）、恶意软件和其他不需要的内容的请求。由于在系统级别运行，Zen可以防御浏览器扩展无法处理的威胁，例如嵌入在桌面应用程序和操作系统组件中的跟踪器。
+一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
 
-![zen](https://images-1252557999.file.myqcloud.com/uPic/zen.jpg) 
+![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
 
-### [QualityScaler](https://github.com/Djdefrag/QualityScaler)
+### [NotepadNext](https://github.com/dail8859/NotepadNext)
 
-`Qualityscaler` 是一款 `Windows` 应用程序，它使用 `BSRGAN AI` 来增强、放大和减少照片和视频中的噪音：
+`Notepad++`的跨平台开源实现：
 
-![QualityScaler](https://images-1252557999.file.myqcloud.com/uPic/QualityScaler.png) 
+![NotepadNext](https://images-1252557999.file.myqcloud.com/uPic/NotepadNext.png) 
 
-### [tts-now](https://github.com/funnyzak/tts-now)
+### [Loop](https://github.com/MrKai77/Loop)
 
-基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
+让窗口管理 `MacOS` 变得优雅：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/Se6U0t.jpg) 
+![Loop](https://images-1252557999.file.myqcloud.com/uPic/Loop.gif)
+
+安装好如果有权限问题，执行如下命令：
+
+```shell
+sudo xattr -cr  /Applications/Loop.app
+``` 
 
 ## 👀 资料 
 
-### [微信之父张小龙2351条饭否日记](https://docs.qq.com/doc/DWUVKZERkeGFLckp6?dver=)
+### [newsletter-list](https://github.com/chasays/newsletter-list)
 
-微信之父张小龙2351条饭否日记:
+有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
 
-![zxl_ff](https://images-1252557999.file.myqcloud.com/uPic/zxl_ff.jpg) 
+- 互联网和科技
+- 成长和思考
+- 工具和效率 
 
-### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
+### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
 
-30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
+2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
 
-![30-Days-Of-React](https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/AHWB7M.jpg)
 
-### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
+更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
 
-`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
+### [播客365（2024）](https://zgcrsd6xvj.feishu.cn/docx/IoOZdVNHXohjohxDiAkccq6Vnie)
 
-![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
+本文讨论了2024年众多播客节目的丰富内容，涵盖商业、文化、生活、科技等多个领域 。关键要点包括：
 
-`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
-
-![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
-
-更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
+- 商业领域：主播探究竞业协议由来与边界；提及美图2016年港股上市；蜜雪冰城和古茗递表港交所。
+- 文化领域：嘉宾探讨《桃花源记》《逍遥游》独特见解；28家出版社编辑推荐2024新书；主播分享汉字演变知识。
+- 生活领域：心理学家聊青少年厌学与心理健康；主播分享Vision Pro购买经历；介绍各地马拉松参赛体验。
+- 科技领域：主播畅聊数十款AI工具；指出AI大模型在闭环场景应用快，To B产品有优势 。 
 
 ## 🕸 网站 
 
-### [haitang](https://github.com/javayhu/haitang)
+### [calltoinspiration](https://calltoinspiration.com/)
 
-海棠诗社，提供古诗词的数字化收集，可以按照不同方式检索和分类，项目代码完全[开源](https://github.com/javayhu/haitang)：
+根据不同 `UI` 下业务类型和方向进行分类，给用户展示不同效果以参考：
 
-![haitang](https://images-1252557999.file.myqcloud.com/uPic/haitang.jpg) 
+![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
 
-### [CronTool](https://tool.crontap.com/cronjob-debugger)
+### [firefly](https://firefly.adobe.com/)
 
-`Linux Crontab` 可视化网站：
+`Adobe` 推出了的 `AI` 图像创建器 **Firefly**：
 
-![crontap](https://images-1252557999.file.myqcloud.com/uPic/crontap.jpg) 
+![firefly](https://images-1252557999.file.myqcloud.com/uPic/firefly.jpg) 
 
-### [webutils](https://www.webutils.app/)
+### [db-fiddle](https://www.db-fiddle.com/)
 
-一个提供web小工具的网站，比如：
+免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
 
-- 文本比较
-- 图片压缩
-- 图片转换
-
-![webutils](https://images-1252557999.file.myqcloud.com/uPic/ijDiPA.png) 
+![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
 
 ## ✍️ 说明
 
