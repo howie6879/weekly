@@ -5,116 +5,92 @@
 
 ## 🎯 项目 
 
-### [Youtu-agent](https://github.com/Tencent/Youtu-agent)
+### [lavague](https://docs.lavague.ai/)
 
-Youtu-agent 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，例如数据分析、文件处理和深度研究：
+`lavague` 是 `AI Web Agents` 开发框架，它可以作为你的一个基于浏览器的助手来辅助工作，能做什么就取决于你的想象力，老胡目前用来做一些数据自动抓取格式化的工作：
 
-- 验证性能：在 WebWalkerQA 上达到 71.47% 的 pass@1，在 GAIA（纯文本子集）上达到 72.8% 的 pass@1，纯粹使用 DeepSeek-V3 系列模型（不使用 Claude 或 GPT），建立了强大的开源起点。
-- 开源友好且成本敏感：针对可访问、低成本部署进行了优化，不依赖封闭模型。
-- 实际用例：开箱即用地支持 CSV 分析、文献综述、个人文件整理以及播客和视频生成等任务。（即将推出）
-- 灵活的架构：基于 openai-agents 构建，可兼容各种模型 API（从 DeepSeek 到 gpt-oss）、工具集成和框架实现。
+![lavague](https://images-1252557999.file.myqcloud.com/uPic/lavague.jpg) 
 
-![Youtu](https://images-1252557999.file.myqcloud.com/uPic/Fmf3nY.png) 
+### [album-ai](https://github.com/gcui-art/album-ai)
 
-### [wireflow](https://github.com/vanila-io/wireflow)
+挺有想法的项目，基于 `gpt-4o-mini` 作为视觉模型，自动识别出相册中图像文件的元信息，然后借助 `RAG` 技术，实现了与相册对话的能力：
 
-一款开源的用户流程图制作工具（点击[wireflow.co](https://wireflow.co/)访问）：
+![album-ai](https://images-1252557999.file.myqcloud.com/uPic/album-ai.jpg) 
 
-![wireflow](https://images-1252557999.file.myqcloud.com/uPic/wireflow.png) 
+### [Mini-Cover](https://github.com/JLinMr/Mini-Cover)
 
-### [ChatGemini](https://github.com/bclswl0827/ChatGemini)
+简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面：
 
-`ChatGemini` 是一个基于 `Google Gemini` 的网页客户端，对标 `ChatGPT 3.5`，操作逻辑同 `ChatGPT 3.5` 一致，同时支持在聊天中上传图片，应用会自动调用 `Gemini-Pro-Vision` 模型进行识图：
-
-- 适配移动端
-- 支持多 API 密钥分流
-- 操作逻辑同 ChatGPT
-- 仿 ChatGPT 3.5 界面
-- 支持多轮聊天对话
-- 支持上传图片进行识别
-- 逐字输出（SSE）回应
-- 集成 PHP 版反向代理
-- 自定义 Gemini API 地址
-- 可启用站点通行码防止滥用
-- 聊天内容导出（HTML 和 PDF）
-- 对话内容保存在 IndexedDB 中
-
-![ChatGemini](https://images-1252557999.file.myqcloud.com/uPic/ChatGemini.jpg)
-
-如果不想部署，可以直接使用搭建好的免费 Gemini：[https://gemini-pro.chat](https://gemini-pro.chat/) 
+![Mini-Cover](https://images-1252557999.file.myqcloud.com/uPic/OGMrle.png) 
 
 ## 🤖 软件 
 
-### [cursor](https://github.com/getcursor/cursor)
+### [Obtainium](https://github.com/ImranR98/Obtainium)
 
-一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
+聚合安卓应用源，然后获取程序更新，`Obtainium` 允许用户直接从发布页面安装和更新应用程序，并在发布新版本时接收通知：
 
-![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
+![Obtainium](https://images-1252557999.file.myqcloud.com/uPic/Obtainium.jpg) 
 
-### [NotepadNext](https://github.com/dail8859/NotepadNext)
+### [Xit](https://github.com/Uncommon/Xit)
 
-`Notepad++`的跨平台开源实现：
+`Mac OS`下开源免费的原生`Git`客户端 ：
 
-![NotepadNext](https://images-1252557999.file.myqcloud.com/uPic/NotepadNext.png) 
+![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
 
-### [Loop](https://github.com/MrKai77/Loop)
+### [cicada](https://github.com/mebtte/cicada)
 
-让窗口管理 `MacOS` 变得优雅：
+知了, 支持多用户的开源音乐服务：
 
-![Loop](https://images-1252557999.file.myqcloud.com/uPic/Loop.gif)
+- **尊重隐私, 不进行任何数据收集**
+- 支持多用户
+- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
+- 系统媒体和快捷键支持
+- 音乐支持标准音质/超高音质/伴奏以及多份歌词
+- 乐单/播放列表/播放队列音乐数量无限制
+- 支持标注音乐创作来源(翻唱)
+- 支持歌词/歌名/歌手/乐单搜索
 
-安装好如果有权限问题，执行如下命令：
-
-```shell
-sudo xattr -cr  /Applications/Loop.app
-``` 
+![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
 
 ## 👀 资料 
 
-### [newsletter-list](https://github.com/chasays/newsletter-list)
+### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
 
-有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
+一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
 
-- 互联网和科技
-- 成长和思考
-- 工具和效率 
+![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
 
-### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
+### [MySQL&PG 数据库教程](https://www.sjkjc.com/mysql/)
 
-2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
+一个专门讲数据库教程的资料网站：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/AHWB7M.jpg)
+![sjkjc](https://images-1252557999.file.myqcloud.com/uPic/sjkjc.jpg) 
 
-更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
+### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
 
-### [播客365（2024）](https://zgcrsd6xvj.feishu.cn/docx/IoOZdVNHXohjohxDiAkccq6Vnie)
+开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
 
-本文讨论了2024年众多播客节目的丰富内容，涵盖商业、文化、生活、科技等多个领域 。关键要点包括：
-
-- 商业领域：主播探究竞业协议由来与边界；提及美图2016年港股上市；蜜雪冰城和古茗递表港交所。
-- 文化领域：嘉宾探讨《桃花源记》《逍遥游》独特见解；28家出版社编辑推荐2024新书；主播分享汉字演变知识。
-- 生活领域：心理学家聊青少年厌学与心理健康；主播分享Vision Pro购买经历；介绍各地马拉松参赛体验。
-- 科技领域：主播畅聊数十款AI工具；指出AI大模型在闭环场景应用快，To B产品有优势 。 
+![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
 
 ## 🕸 网站 
 
-### [calltoinspiration](https://calltoinspiration.com/)
+### [musetransfer](https://musetransfer.com/)
 
-根据不同 `UI` 下业务类型和方向进行分类，给用户展示不同效果以参考：
+`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
 
-![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
+![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
 
-### [firefly](https://firefly.adobe.com/)
+### [fmhy.net](https://fmhy.net/)
 
-`Adobe` 推出了的 `AI` 图像创建器 **Firefly**：
+帮助用户轻松找到各种免费的工具、服务和学习资源的网站：
 
-![firefly](https://images-1252557999.file.myqcloud.com/uPic/firefly.jpg) 
+![fmhy.net](https://images-1252557999.file.myqcloud.com/uPic/fwWyWH.png) 
 
-### [db-fiddle](https://www.db-fiddle.com/)
+### [水印宝](https://watermark.chiloh.cn/)
 
-免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
+[开源](https://github.com/chilohwei/watermark-tool)的图片加水印网页：
 
-![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
+![watermark](https://images-1252557999.file.myqcloud.com/uPic/jiPUF2.png) 
 
 ## ✍️ 说明
 
