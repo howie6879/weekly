@@ -5,92 +5,87 @@
 
 ## 🎯 项目 
 
-### [lavague](https://docs.lavague.ai/)
+### [certimate](https://github.com/usual2970/certimate)
 
-`lavague` 是 `AI Web Agents` 开发框架，它可以作为你的一个基于浏览器的助手来辅助工作，能做什么就取决于你的想象力，老胡目前用来做一些数据自动抓取格式化的工作：
+开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。
 
-![lavague](https://images-1252557999.file.myqcloud.com/uPic/lavague.jpg) 
+![certimate](https://images-1252557999.file.myqcloud.com/uPic/W29Eof.png) 
 
-### [album-ai](https://github.com/gcui-art/album-ai)
+### [akile_monitor](https://github.com/akile-network/akile_monitor)
 
-挺有想法的项目，基于 `gpt-4o-mini` 作为视觉模型，自动识别出相册中图像文件的元信息，然后借助 `RAG` 技术，实现了与相册对话的能力：
+一个开源的监控工具项目，提供服务器状态监控功能，并且支持前后端一键部署：
 
-![album-ai](https://images-1252557999.file.myqcloud.com/uPic/album-ai.jpg) 
+![akile_monitor](https://images-1252557999.file.myqcloud.com/uPic/0D0D4c.png) 
 
-### [Mini-Cover](https://github.com/JLinMr/Mini-Cover)
+### [nas-tools](https://github.com/jxxghp/nas-tools)
 
-简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面：
+NAS媒体库资源归集、整理自动化工具：
 
-![Mini-Cover](https://images-1252557999.file.myqcloud.com/uPic/OGMrle.png) 
+![nas_tool](https://images-1252557999.file.myqcloud.com/uPic/nas_tool.jpg) 
 
 ## 🤖 软件 
 
-### [Obtainium](https://github.com/ImranR98/Obtainium)
+### [openai-translator](https://github.com/yetone/openai-translator)
 
-聚合安卓应用源，然后获取程序更新，`Obtainium` 允许用户直接从发布页面安装和更新应用程序，并在发布新版本时接收通知：
+基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用：
 
-![Obtainium](https://images-1252557999.file.myqcloud.com/uPic/Obtainium.jpg) 
+![openai_translator](https://images-1252557999.file.myqcloud.com/uPic/openai_translator.jpg)
+如果你还使用 bob 软件进行翻译，可以考虑使用这个插件：[bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)：基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。 
 
-### [Xit](https://github.com/Uncommon/Xit)
+### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
 
-`Mac OS`下开源免费的原生`Git`客户端 ：
+腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 
-![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
+![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
 
-### [cicada](https://github.com/mebtte/cicada)
+### [smartedu-download](https://github.com/52beijixing/smartedu-download)
 
-知了, 支持多用户的开源音乐服务：
+帮助您下载国家中小学智慧教育平台的文件，支持视频、教材（课本）、原版课件（ppt、word、pdf格式）下载：
 
-- **尊重隐私, 不进行任何数据收集**
-- 支持多用户
-- 支持 [PWA](https://developer.mozilla.org/docs/Web/Progressive_web_apps), UI 同时支持桌面端和移动端
-- 系统媒体和快捷键支持
-- 音乐支持标准音质/超高音质/伴奏以及多份歌词
-- 乐单/播放列表/播放队列音乐数量无限制
-- 支持标注音乐创作来源(翻唱)
-- 支持歌词/歌名/歌手/乐单搜索
-
-![cicada](https://images-1252557999.file.myqcloud.com/uPic/cicada.png) 
+![smartedu-download](https://images-1252557999.file.myqcloud.com/uPic/smartedu-download.jpg) 
 
 ## 👀 资料 
 
-### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
+### [nextjs-learn-cn](https://qufei1993.github.io/nextjs-learn-cn/)
 
-一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
+一份 `Next.js` 中文教程：
 
-![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
+![nextjs-learn-c](https://images-1252557999.file.myqcloud.com/uPic/nextjs-learn-c.jpg) 
 
-### [MySQL&PG 数据库教程](https://www.sjkjc.com/mysql/)
+### [JavaScript30](https://github.com/wesbos/JavaScript30)
 
-一个专门讲数据库教程的资料网站：
+30 天 JS 挑战，助力学习提升 JS 技巧：
 
-![sjkjc](https://images-1252557999.file.myqcloud.com/uPic/sjkjc.jpg) 
+![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
 
-### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+### [quant-wiki](https://quant-wiki.com/)
 
-开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
+致力于量化知识的开源与汉化，打破国内外量化金融行业信息差：
 
-![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
+![quant](https://images-1252557999.file.myqcloud.com/uPic/kuOM0C.png) 
 
 ## 🕸 网站 
 
-### [musetransfer](https://musetransfer.com/)
+### [Bing 文字创建图像](https://www.bing.com/images/create)
 
-`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
+微软出品的文字生成图像模型（IP不能是国内）：
 
-![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
+![bing_image](https://images-1252557999.file.myqcloud.com/uPic/bing_image.jpg) 
 
-### [fmhy.net](https://fmhy.net/)
+### [chatpdf](https://www.chatpdf.com/)
 
-帮助用户轻松找到各种免费的工具、服务和学习资源的网站：
+和任何 PDF 进行沟通交流：
 
-![fmhy.net](https://images-1252557999.file.myqcloud.com/uPic/fwWyWH.png) 
+![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
 
-### [水印宝](https://watermark.chiloh.cn/)
+### [duckduckgo-chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
 
-[开源](https://github.com/chilohwei/watermark-tool)的图片加水印网页：
+`DuckDuckGo` 开放了免费的 `AI` 聊天机器人，支持模型有：
 
-![watermark](https://images-1252557999.file.myqcloud.com/uPic/jiPUF2.png) 
+- GPT-3.5 Turbo
+- Claude 1.2 Instant
+
+![duckduckgo_chat](https://images-1252557999.file.myqcloud.com/uPic/duckduckgo_chat.jpg) 
 
 ## ✍️ 说明
 
