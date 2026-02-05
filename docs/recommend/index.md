@@ -5,87 +5,97 @@
 
 ## 🎯 项目 
 
-### [certimate](https://github.com/usual2970/certimate)
+### [mesop](https://github.com/google/mesop)
 
-开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。
+Mesop 是一个基于 Python 的 UI 框架，用于快速构建如演示和内部应用的 Web 应用程序。它提供直观的 UI 编写，支持响应式 UI 编程范式，具有热重载功能和丰富的 IDE 支持。开发者可以通过简洁的 Python 代码构建自定义 UI，无需编写 JavaScript/CSS/HTML。
 
-![certimate](https://images-1252557999.file.myqcloud.com/uPic/W29Eof.png) 
+![mesop](https://images-1252557999.file.myqcloud.com/uPic/mesop.jpg)
+类似的 Web&桌面软件框架：
 
-### [akile_monitor](https://github.com/akile-network/akile_monitor)
+- https://github.com/zauberzeug/nicegui
+- https://github.com/pywebio/PyWebIO
+- https://github.com/flet-dev/flet
+- https://github.com/streamlit/streamlit
+- https://github.com/python-eel/Eel
+- https://github.com/kivy/kivy
+- https://github.com/PySimpleGUI/PySimpleGUI
+- https://github.com/r0x0r/pywebview
+- https://github.com/hoffstadt/DearPyGui
+- https://github.com/Textualize/textual 
 
-一个开源的监控工具项目，提供服务器状态监控功能，并且支持前后端一键部署：
+### [restic](https://github.com/restic/restic)
 
-![akile_monitor](https://images-1252557999.file.myqcloud.com/uPic/0D0D4c.png) 
+`Restic` 是一个快速、高效和安全的备份程序。它支持三个主要操作系统（Linux、macOS、Windows）和一些较小众的操作系统（FreeBSD、OpenBSD）
 
-### [nas-tools](https://github.com/jxxghp/nas-tools)
+![restic](https://images-1252557999.file.myqcloud.com/uPic/restic.jpg) 
 
-NAS媒体库资源归集、整理自动化工具：
+### [Casdoor](https://github.com/casdoor/casdoor)
 
-![nas_tool](https://images-1252557999.file.myqcloud.com/uPic/nas_tool.jpg) 
+Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
+
+![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
 
 ## 🤖 软件 
 
-### [openai-translator](https://github.com/yetone/openai-translator)
+### [cline](https://github.com/cline/cline/blob/main/locales/zh-cn/README.md)
 
-基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用：
+`Cline` 是一个集成了 `AI` 助手的扩展，能够在编辑器和 CLI 中协助开发者完成复杂的软件开发任务，支持多种 API 和模型，并具备文件创建和编辑、终端命令执行、浏览器操作等功能，同时提供了 `Model Context Protocol (MCP)` 来创建新工具并扩展自身能力。 
 
-![openai_translator](https://images-1252557999.file.myqcloud.com/uPic/openai_translator.jpg)
-如果你还使用 bob 软件进行翻译，可以考虑使用这个插件：[bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)：基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。 
+### [BetterDummy](https://github.com/waydabber/BetterDummy)
 
-### [lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
+`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
 
-腾讯柠檬清理是针对 `macOS` 系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+![bd_menu](https://images-1252557999.file.myqcloud.com/uPic/bd_menu.png)
 
-![lemon_app](https://images-1252557999.file.myqcloud.com/uPic/lemon_app.png) 
+如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
 
-### [smartedu-download](https://github.com/52beijixing/smartedu-download)
+### [image-matting](https://github.com/pangxiaobin/image-matting)
 
-帮助您下载国家中小学智慧教育平台的文件，支持视频、教材（课本）、原版课件（ppt、word、pdf格式）下载：
+基于开源模型 `briaai/RMBG-1.4` 实现图像抠图：
 
-![smartedu-download](https://images-1252557999.file.myqcloud.com/uPic/smartedu-download.jpg) 
+![image-matting](https://images-1252557999.file.myqcloud.com/uPic/image-matting.jpg)
+
+还有个闭源免费版本，可以参考进行使用[鲜艺AI抠图](https://kt.94xy.com/)，免费的离线AI抠图工具。 
 
 ## 👀 资料 
 
-### [nextjs-learn-cn](https://qufei1993.github.io/nextjs-learn-cn/)
+### [SystemDesign](https://github.com/Admol/SystemDesign)
 
-一份 `Next.js` 中文教程：
+系统设计面试：内幕指南：
 
-![nextjs-learn-c](https://images-1252557999.file.myqcloud.com/uPic/nextjs-learn-c.jpg) 
+![SystemDesign](https://images-1252557999.file.myqcloud.com/uPic/PrOe1t.png) 
 
-### [JavaScript30](https://github.com/wesbos/JavaScript30)
+### [How to Make MySQL Better](https://github.com/enhancedformysql/The-Art-of-Problem-Solving-in-Software-Engineering_How-to-Make-MySQL-Better)
 
-30 天 JS 挑战，助力学习提升 JS 技巧：
+通过分析 `MySQL` 挑战案例来解决软件工程问题的方法论，旨在帮助读者更好地理解逻辑推理、数据结构、算法等通用概念，并通过实际示例和深入讨论增强对 `MySQL` 性能优化的理解：
 
-![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
+![How to Make MySQL Better](https://images-1252557999.file.myqcloud.com/uPic/OVUkJI.png) 
 
-### [quant-wiki](https://quant-wiki.com/)
+### [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
 
-致力于量化知识的开源与汉化，打破国内外量化金融行业信息差：
+面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:
 
-![quant](https://images-1252557999.file.myqcloud.com/uPic/kuOM0C.png) 
+![llm-cookbook](https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png) 
 
 ## 🕸 网站 
 
-### [Bing 文字创建图像](https://www.bing.com/images/create)
+### [极简番茄](https://t.kuaitu.cc/)
 
-微软出品的文字生成图像模型（IP不能是国内）：
+极简优雅的番茄时钟软件，适合做屏保：
 
-![bing_image](https://images-1252557999.file.myqcloud.com/uPic/bing_image.jpg) 
+![kuaitu](https://images-1252557999.file.myqcloud.com/uPic/kuaitu.jpg) 
 
-### [chatpdf](https://www.chatpdf.com/)
+### [jpghi](https://jpghi.com/)
 
-和任何 PDF 进行沟通交流：
+jpgHi 支持各种类型图片高清无损放大，为模糊不清的图片增加极致细节，提升图片质感：
 
-![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
+![jpghi](https://images-1252557999.file.myqcloud.com/uPic/jpghi.jpg) 
 
-### [duckduckgo-chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
+### [uiset](https://uiset.com/)
 
-`DuckDuckGo` 开放了免费的 `AI` 聊天机器人，支持模型有：
+共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
 
-- GPT-3.5 Turbo
-- Claude 1.2 Instant
-
-![duckduckgo_chat](https://images-1252557999.file.myqcloud.com/uPic/duckduckgo_chat.jpg) 
+![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
 
 ## ✍️ 说明
 
