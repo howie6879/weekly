@@ -5,97 +5,90 @@
 
 ## 🎯 项目 
 
-### [mesop](https://github.com/google/mesop)
+### [metersphere](https://github.com/metersphere/metersphere)
 
-Mesop 是一个基于 Python 的 UI 框架，用于快速构建如演示和内部应用的 Web 应用程序。它提供直观的 UI 编写，支持响应式 UI 编程范式，具有热重载功能和丰富的 IDE 支持。开发者可以通过简洁的 Python 代码构建自定义 UI，无需编写 JavaScript/CSS/HTML。
+[MeterSphere](https://metersphere.io/) 是一站式开源持续测试平台, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter、Selenium` 等主流开源标准，有效助力开发和测试团队充分利用云弹性进行高度可扩展的自动化测试，加速高质量的软件交付：
 
-![mesop](https://images-1252557999.file.myqcloud.com/uPic/mesop.jpg)
-类似的 Web&桌面软件框架：
+![metersphere](https://images-1252557999.file.myqcloud.com/uPic/metersphere.jpeg) 
 
-- https://github.com/zauberzeug/nicegui
-- https://github.com/pywebio/PyWebIO
-- https://github.com/flet-dev/flet
-- https://github.com/streamlit/streamlit
-- https://github.com/python-eel/Eel
-- https://github.com/kivy/kivy
-- https://github.com/PySimpleGUI/PySimpleGUI
-- https://github.com/r0x0r/pywebview
-- https://github.com/hoffstadt/DearPyGui
-- https://github.com/Textualize/textual 
+### [tinymind](https://github.com/mazzzystar/tinymind)
 
-### [restic](https://github.com/restic/restic)
+`Tinymind` 是一个将 `GitHub` 作为数据存储平台的博客工具，允许用户通过 `OAuth` 授权直接在自己的公共仓库中写作和同步文章，无需搭建服务器：
 
-`Restic` 是一个快速、高效和安全的备份程序。它支持三个主要操作系统（Linux、macOS、Windows）和一些较小众的操作系统（FreeBSD、OpenBSD）
+![tinymind](https://images-1252557999.file.myqcloud.com/uPic/BZLdkZ.png) 
 
-![restic](https://images-1252557999.file.myqcloud.com/uPic/restic.jpg) 
+### [zyronon/douyin](https://github.com/zyronon/douyin)
 
-### [Casdoor](https://github.com/casdoor/casdoor)
+这是一个模仿 抖音|TikTok 的移动端短视频项目，它基于 `Vue、Vite` 实现，使用了最新的 `Vue` 全家桶技术栈：
 
-Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
-
-![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
+![zyronon_dy](https://images-1252557999.file.myqcloud.com/uPic/zyronon_dy.jpg) 
 
 ## 🤖 软件 
 
-### [cline](https://github.com/cline/cline/blob/main/locales/zh-cn/README.md)
+### [biyi](https://github.com/lijy91/biyi)
 
-`Cline` 是一个集成了 `AI` 助手的扩展，能够在编辑器和 CLI 中协助开发者完成复杂的软件开发任务，支持多种 API 和模型，并具备文件创建和编辑、终端命令执行、浏览器操作等功能，同时提供了 `Model Context Protocol (MCP)` 来创建新工具并扩展自身能力。 
+比译是一个用 `Flutter` 编写的跨平台便捷翻译和词典应用：
 
-### [BetterDummy](https://github.com/waydabber/BetterDummy)
+![biyi](https://images-1252557999.file.myqcloud.com/uPic/biyi.jpg) 
 
-`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
+### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
 
-![bd_menu](https://images-1252557999.file.myqcloud.com/uPic/bd_menu.png)
+> 让每个人都简单方便的使用前沿人工智能技术
 
-如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
+一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
 
-### [image-matting](https://github.com/pangxiaobin/image-matting)
+![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
 
-基于开源模型 `briaai/RMBG-1.4` 实现图像抠图：
+### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
 
-![image-matting](https://images-1252557999.file.myqcloud.com/uPic/image-matting.jpg)
+`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
 
-还有个闭源免费版本，可以参考进行使用[鲜艺AI抠图](https://kt.94xy.com/)，免费的离线AI抠图工具。 
+![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
 
 ## 👀 资料 
 
-### [SystemDesign](https://github.com/Admol/SystemDesign)
+### [AI-System](https://github.com/microsoft/AI-System)
 
-系统设计面试：内幕指南：
+微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
 
-![SystemDesign](https://images-1252557999.file.myqcloud.com/uPic/PrOe1t.png) 
+![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
 
-### [How to Make MySQL Better](https://github.com/enhancedformysql/The-Art-of-Problem-Solving-in-Software-Engineering_How-to-Make-MySQL-Better)
+### [微信之父张小龙2351条饭否日记](https://docs.qq.com/doc/DWUVKZERkeGFLckp6?dver=)
 
-通过分析 `MySQL` 挑战案例来解决软件工程问题的方法论，旨在帮助读者更好地理解逻辑推理、数据结构、算法等通用概念，并通过实际示例和深入讨论增强对 `MySQL` 性能优化的理解：
+微信之父张小龙2351条饭否日记:
 
-![How to Make MySQL Better](https://images-1252557999.file.myqcloud.com/uPic/OVUkJI.png) 
+![zxl_ff](https://images-1252557999.file.myqcloud.com/uPic/zxl_ff.jpg) 
 
-### [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
+### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
 
-面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:
+有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
 
-![llm-cookbook](https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png) 
+![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
 
 ## 🕸 网站 
 
-### [极简番茄](https://t.kuaitu.cc/)
+### [scrnshts.club](https://scrnshts.club/)
 
-极简优雅的番茄时钟软件，适合做屏保：
+收集 App 在应用商店中做宣传用的截图，很有意思：
 
-![kuaitu](https://images-1252557999.file.myqcloud.com/uPic/kuaitu.jpg) 
+![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
 
-### [jpghi](https://jpghi.com/)
+### [learngpt.com](https://www.learngpt.com/)
 
-jpgHi 支持各种类型图片高清无损放大，为模糊不清的图片增加极致细节，提升图片质感：
+`ChatGPT` 最佳用例分享网站：
 
-![jpghi](https://images-1252557999.file.myqcloud.com/uPic/jpghi.jpg) 
+![learngpt](https://images-1252557999.file.myqcloud.com/uPic/learngpt.jpg) 
 
-### [uiset](https://uiset.com/)
+### [tinypng](https://tinypng.com/)
 
-共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
+比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
 
-![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
+![tinypng](https://images-1252557999.file.myqcloud.com/uPic/8s8ltr.png)
+
+如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
+
+- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
+- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
 
 ## ✍️ 说明
 
