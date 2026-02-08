@@ -5,29 +5,17 @@
 
 ## 🎯 项目 
 
-### [lightnovel_epub](https://github.com/JeffersonQin/lightnovel_epub)
+### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
 
-🍭 epub generator for (light)novels (轻)小说 epub 生成器，支持站点：轻之国度、轻小说文库：
+该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
 
-| 站点                                           | 单页 | 合集 | 详细说明                                                                                              |
-| ---------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------- |
-| [轻之国度](https://www.lightnovel.us/)         | ✅    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6)          |
-| 轻之国度 App                                   | ✅    | ❌    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-app)      |
-| [轻小说文库](https://www.wenku8.net/index.php) | ❌    | ✅    | [说明](https://github.com/JeffersonQin/lightnovel_epub#%E8%BD%BB%E5%B0%8F%E8%AF%B4%E6%96%87%E5%BA%93) | 
+![computer_book_list](https://images-1252557999.file.myqcloud.com/uPic/uxQa5E.png) 
 
-### [duf](https://github.com/sigoden/duf)
+### crontab-ui
 
-一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
+提供简单安全的方式来管理 `crontab`:
 
-- 静态文件伺服
-- 下载目录为 zip 文件
-- 上传文件 /目录 (支持拖拽)
-- 搜索
-- 并发下载，断续下载
-- 权限保护
-- 支持 https
-- 支持 webdav
-- 方便 curl 调用 
+![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
 
 ### [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
 
@@ -35,83 +23,68 @@
 
 ## 🤖 软件 
 
-### [PDFQFZ](https://github.com/flytkgl/PDFQFZ)
+### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
 
-PDF加盖骑缝章的小工具，选择需要盖章的PDF文件或文件夹。 选择保存文件夹。 导入完整的印章图片,工具会根据PDF页数做随机分割。 设定印章大小,骑缝章位置,印章位置等 点盖章，骚等后在保存文件夹中即可看到盖好骑缝章的PDF文件。
+`Clash for Android`，具有 `Clash` 的全部特性：
 
-![pdfqfz](https://images-1252557999.file.myqcloud.com/uPic/pdfqfz.jpg) 
+![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
 
-### [image-matting](https://github.com/pangxiaobin/image-matting)
+### [pixzip-lite](https://github.com/richhost/pixzip-lite)
 
-基于开源模型 `briaai/RMBG-1.4` 实现图像抠图：
+一款快速、免费的图片压缩软件，支持 `JPG / PNG / WebP / AVIF` 等主流格式，支持 `Windows 10+，macOS 11+` 操作系统。
 
-![image-matting](https://images-1252557999.file.myqcloud.com/uPic/image-matting.jpg)
+![pixzip](https://images-1252557999.file.myqcloud.com/uPic/pixzip.jpg) 
 
-还有个闭源免费版本，可以参考进行使用[鲜艺AI抠图](https://kt.94xy.com/)，免费的离线AI抠图工具。 
+### [spacedrive](https://www.spacedrive.com/)
 
-### [P2P Remote Desktop](https://github.com/miroslavpejic85/p2p)
+`Spacedrive` 是一个基于 `Rust` 的开源跨平台文件管理器，它采用了虚拟分布式文件系统，通过一个 `API` 来操作访问多设备上的文件。
 
-`P2P Remote Desktop` 是一个开源的远程桌面控制工具，它支持直接点对点连接，不需要任何中转服务器，因此具有较高的连接稳定性和速度：
+它可以管理分布在多端的文件，在一个地方整理多个设备上的文件。
 
-![P2P Remote Desktop](https://images-1252557999.file.myqcloud.com/uPic/ysw51U.png) 
+无论是云端还是离线硬盘，进而生成你独有的个人分布式云，简单又方便：
+
+![spacedrive](https://images-1252557999.file.myqcloud.com/uPic/spacedrive.webp) 
 
 ## 👀 资料 
 
-### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
+### [王慧文的清华产品课笔记](https://pan.quark.cn/s/f48705d07a3f)
 
-30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
+美团元老王慧文的清华产品课笔记，涵盖产品、战略、运营、需求、供需关系等多方面内容，阅读地址：
 
-![30-Days-Of-React](https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg) 
+- [飞书在线](https://nanqiang.feishu.cn/wiki/wikcncDyFTq1agB5UaEZnUGZD4g)
+-  [PDF 下载](https://pan.quark.cn/s/f48705d07a3f) 
 
-### [PySide6-Code-Tutorial](https://github.com/muziing/PySide6-Code-Tutorial)
+### [aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
 
-用代码实例讲解PySide6，附优质Demos、图标库、QSS皮肤、相关文章等分享：
+这是一个ai副业赚钱资讯信息的大合集，将在全网搜索并整理ai副业赚钱的相关方法、技术、工具、以及一些可以赚钱的平台和渠道。 期望能在AI时代，打破信息茧房，让大家都能在这个时代利用AI智能化做副业，赚取工作之余的额外收益。
 
-![PySide6-Code-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/UqIUuM.png) 
+![aimoneyhunter](https://images-1252557999.file.myqcloud.com/uPic/aimoneyhunter.png) 
 
-### [FudanSELab/Agent4SE-Paper-List](https://github.com/FudanSELab/Agent4SE-Paper-List)
+### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
-该仓库由复旦大学软件工程实验室（FudanSELab）创建的，旨在为大型语言模型（LLMs）基础的软件工程代理（Agent）领域提供一个系统的文献综述：
+30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
 
-![Agent4SE-Paper-List](https://images-1252557999.file.myqcloud.com/uPic/uFo2bN.png) 
+![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
 
 ## 🕸 网站 
 
-### [gaccode.store](https://gaccode.store/)
+### [compressjpeg](https://compressjpeg.com/zh/)
 
-首先感谢你看到这里，我要开始写一些啰嗦的话哈哈～
+一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
 
-这周疯狂使用 Claude Code，探索 CC 在部门团队使用的可行性，结果非常让我惊喜，初步解决完数据隐私问题，就可以投入到技术工作流程里面去。
+![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg) 
 
-会自动行动、思考、优化、测试的编程工具，我每晚编码到凌晨两三点，同时开三个项目：web & python & go & rust，我会的技术栈他都会，我不会的他也会👀。**这也是周刊为啥停一周的原因，写代码太晚太累**。
+### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
 
-我觉得这个工具会让有能力的人变得更厉害，让有效率的人变得更强，让有想法的人能快速进行创造。认知高度决定着 CC 可以做出怎样的东西。
+软件镜像站：
 
-工具的出现只会让厉害的人更厉害～把握住，用起来。
+![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
 
-非常建议大家使用。这周我差不多花了接近四千块来调研（我没开官方的 Max）买的各种第三方的 `Key`，也应次认识了不少人，大家如果在用，可以加我交流这块购买经验（可能可以给你省钱）。
+### [apk.bot](https://apk.bot/)
 
-然后还有朋友做类似[GAC](https://gaccode.com/signup?ref=ZP1MJDQ4)的产品，目前在内测，也可以拉你进去体验。
+免费无广告的 `APK` 下载网站：
 
-其中 [GAC](https://gaccode.com/signup?ref=ZP1MJDQ4) 算是比较大的一家（大家注册可以用我的邀请码：https://gaccode.com/signup?ref=ZP1MJDQ4）。
-
-在购买过程中我发现了这个网站： [gaccode.store](https://gaccode.store/)，可以通过比较便宜的价格购买兑换码，我从其他地方买 299 这里是 279 （网站上说前多少名购买可以降价），进群还可以不定时免费领 `gac` 的 `key`。
-
-![GACstore](https://images-1252557999.file.myqcloud.com/uPic/0GqXzS.png) 
-
-### [handsome-css](https://www.handsome-css.com/)
-
-网站主旨在于收集网上仅靠 `CSS` 与 `HTML` 就可以实现的动效 `UI`，目的是为了提高开发者的审美和技术：
-
-![handsome-css3](https://images-1252557999.file.myqcloud.com/uPic/handsome-css3.jpg)
-
-项目开源在：[handsome-css3-lib](https://github.com/ZiYi0414/handsome-css3-lib)。 
-
-### [the-algorithms](https://the-algorithms.com/zh_Hans)
-
-`GitHub` 最大的开源算法库：
-
-![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
+![apk_bot](https://images-1252557999.file.myqcloud.com/uPic/apk_bot.jpg) 
 
 ## ✍️ 说明
 
