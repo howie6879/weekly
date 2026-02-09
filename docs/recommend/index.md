@@ -5,86 +5,88 @@
 
 ## 🎯 项目 
 
-### [computer\_book\_list](https://github.com/slidoooor/computer_book_list)
+### [DeepLX](https://github.com/OwO-Network/DeepLX)
 
-该项目整理了豆瓣和goodreads的和计算机，互联网有关的几乎所有书籍。根据不同版本，两个平台的总评价人数和评分求出平均分，按从高到低排列，为寻找经典计算机书籍的朋友提供帮助。
+`DeepL` 免费翻译 `API` ，无需 `Token`：
 
-![computer_book_list](https://images-1252557999.file.myqcloud.com/uPic/uxQa5E.png) 
+![deeplx](https://images-1252557999.file.myqcloud.com/uPic/deeplx.jpg)
 
-### crontab-ui
+为了防止触发 429，可使用 [DeepLX-Serverless](https://github.com/guobao2333/DeepLX-Serverless) 项目，其利用了云函数的请求 IP 不固定的特性，极大程度上避免了 429 请求太频繁报错。 
 
-提供简单安全的方式来管理 `crontab`:
+### [JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER)
 
-![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
+京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)。
 
-### [awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
+![jd-shopper](https://images-1252557999.file.myqcloud.com/uPic/jd-shopper.jpeg) 
 
-这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。此项目从书籍、网站、工具、笔记、任务管理等角度推荐怎么提升个人生产力。 
+### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
+
+抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
+
+![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
 
 ## 🤖 软件 
 
-### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
+### [Itsycal](https://www.mowglii.com/itsycal/)
 
-`Clash for Android`，具有 `Clash` 的全部特性：
+一款简单优雅的 Macos 菜单栏日历：
 
-![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
+![itsycal](https://images-1252557999.file.myqcloud.com/uPic/itsycal.png) 
 
-### [pixzip-lite](https://github.com/richhost/pixzip-lite)
+### [LawRefBook](https://github.com/RanKKI/LawRefBook)
 
-一款快速、免费的图片压缩软件，支持 `JPG / PNG / WebP / AVIF` 等主流格式，支持 `Windows 10+，macOS 11+` 操作系统。
+开源的法律知识速查手册：
 
-![pixzip](https://images-1252557999.file.myqcloud.com/uPic/pixzip.jpg) 
+![LawRefBook](https://images-1252557999.file.myqcloud.com/uPic/LawRefBook.png) 
 
-### [spacedrive](https://www.spacedrive.com/)
+### [RustClock](https://github.com/hoothin/RustClock)
 
-`Spacedrive` 是一个基于 `Rust` 的开源跨平台文件管理器，它采用了虚拟分布式文件系统，通过一个 `API` 来操作访问多设备上的文件。
+每半小时弹出一次的桌面时钟，基于 `Rust`：
 
-它可以管理分布在多端的文件，在一个地方整理多个设备上的文件。
-
-无论是云端还是离线硬盘，进而生成你独有的个人分布式云，简单又方便：
-
-![spacedrive](https://images-1252557999.file.myqcloud.com/uPic/spacedrive.webp) 
+![RustClock](https://images-1252557999.file.myqcloud.com/uPic/RustClock.gif) 
 
 ## 👀 资料 
 
-### [王慧文的清华产品课笔记](https://pan.quark.cn/s/f48705d07a3f)
+### [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)
 
-美团元老王慧文的清华产品课笔记，涵盖产品、战略、运营、需求、供需关系等多方面内容，阅读地址：
+`DotNetGuide` 技术社区是一个面向 `.NET` 开发者的开源技术社区，旨在为开发者们提供全面的 `C#/.NET/.NET Core` 相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台，可以在线[阅读](https://www.yuque.com/ysgstudyhard/da6e0c)：
 
-- [飞书在线](https://nanqiang.feishu.cn/wiki/wikcncDyFTq1agB5UaEZnUGZD4g)
--  [PDF 下载](https://pan.quark.cn/s/f48705d07a3f) 
+![DotNetGuide](https://images-1252557999.file.myqcloud.com/uPic/DotNetGuide.jpg) 
 
-### [aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
+### [under-the-hood](https://golang.design/under-the-hood/)
 
-这是一个ai副业赚钱资讯信息的大合集，将在全网搜索并整理ai副业赚钱的相关方法、技术、工具、以及一些可以赚钱的平台和渠道。 期望能在AI时代，打破信息茧房，让大家都能在这个时代利用AI智能化做副业，赚取工作之余的额外收益。
+`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
 
-![aimoneyhunter](https://images-1252557999.file.myqcloud.com/uPic/aimoneyhunter.png) 
+![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
 
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+### [Linux 101](https://101.lug.ustc.edu.cn/)
 
-30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
+本书由中国科学技术大学 Linux 用户协会的数名优秀成员协力编写，用于配套和延展“Linux 101”校内社团活动。其面向 Linux 零基础读者，从计算机操作系统和 Linux 的起源讲起，深入浅出带领读者一步步逐渐掌握最必要的 Linux 实用知识，并在其中感悟到社区开源文化的魅力：
 
-![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
+![Linux101-docs](https://images-1252557999.file.myqcloud.com/uPic/Linux101-docs.jpg) 
 
 ## 🕸 网站 
 
-### [compressjpeg](https://compressjpeg.com/zh/)
+### [smithery.ai](https://smithery.ai/)
 
-一个图片压缩网站，最多可压缩20张照片，可手动选择压缩率：
+一个集成了多种 Model Context Protocol (MCP) 服务器的平台，旨于通过 MCP 服务器扩展代理（AI）的功能，使其能够访问和管理大量工具和数据，从而提高决策和解决问题的能力：
 
-![compressjpeg](https://images-1252557999.file.myqcloud.com/uPic/compressjpeg.jpg) 
+![smithery](https://images-1252557999.file.myqcloud.com/uPic/F7tIpp.png) 
 
-### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
+### [wallpaperengine.space](https://www.wallpaperengine.space/)
 
-软件镜像站：
+一个专注于提供各种动态壁纸的平台，涵盖了从 4K 分辨率到各种主题和风格的壁纸。
 
-![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
+![wallpaperengine](https://images-1252557999.file.myqcloud.com/uPic/MgDa1c.png) 
 
-### [apk.bot](https://apk.bot/)
+### [duckduckgo-chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
 
-免费无广告的 `APK` 下载网站：
+`DuckDuckGo` 开放了免费的 `AI` 聊天机器人，支持模型有：
 
-![apk_bot](https://images-1252557999.file.myqcloud.com/uPic/apk_bot.jpg) 
+- GPT-3.5 Turbo
+- Claude 1.2 Instant
+
+![duckduckgo_chat](https://images-1252557999.file.myqcloud.com/uPic/duckduckgo_chat.jpg) 
 
 ## ✍️ 说明
 
