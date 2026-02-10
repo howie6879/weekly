@@ -5,88 +5,91 @@
 
 ## 🎯 项目 
 
-### [DeepLX](https://github.com/OwO-Network/DeepLX)
+### [Textual](https://github.com/Textualize/textual)
 
-`DeepL` 免费翻译 `API` ，无需 `Token`：
+`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
 
-![deeplx](https://images-1252557999.file.myqcloud.com/uPic/deeplx.jpg)
+![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
 
-为了防止触发 429，可使用 [DeepLX-Serverless](https://github.com/guobao2333/DeepLX-Serverless) 项目，其利用了云函数的请求 IP 不固定的特性，极大程度上避免了 429 请求太频繁报错。 
+### [form-create-designer](https://github.com/xaboy/form-create-designer)
 
-### [JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER)
+`form-create-designer` 是基于 [@form-create/element-ui](https://github.com/xaboy/form-create) 实现的表单设计器组件。可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率，节省开发者的时间：
 
-京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)。
+![form-create-designer](https://images-1252557999.file.myqcloud.com/uPic/form-create-designer.png) 
 
-![jd-shopper](https://images-1252557999.file.myqcloud.com/uPic/jd-shopper.jpeg) 
+### [crawl4ai](https://github.com/unclecode/crawl4ai)
 
-### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
-
-抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
-
-![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
+`Crawl4AI` 是一个免费且开源的网络爬虫工具，专为大型语言模型（LLMs）和 AI 应用设计，支持多种输出格式，如 JSON、HTML 和 markdown。它能够同时处理多个 URL，提取媒体标签（图片、音频和视频），以及内外链接和网页元数据。 
 
 ## 🤖 软件 
 
-### [Itsycal](https://www.mowglii.com/itsycal/)
+### [Bili.Uwp](https://github.com/Richasy/Bili.Uwp)
 
-一款简单优雅的 Macos 菜单栏日历：
+一款**哔哩哔哩**的第三方应用，使用 `UWP` 框架开发，是原生的 `Windows` 应用，支持 `Windows 10/11` 桌面系统，主打设计和易用性：
 
-![itsycal](https://images-1252557999.file.myqcloud.com/uPic/itsycal.png) 
+![Bili.Uwp](https://images-1252557999.file.myqcloud.com/uPic/Bili.Uwp.png) 
 
-### [LawRefBook](https://github.com/RanKKI/LawRefBook)
+### [Dashboard](https://github.com/leon-kfd/Dashboard)
 
-开源的法律知识速查手册：
+开源的浏览器插件，用于自定义你的浏览器启动页：
 
-![LawRefBook](https://images-1252557999.file.myqcloud.com/uPic/LawRefBook.png) 
+![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
 
-### [RustClock](https://github.com/hoothin/RustClock)
+### [immersive-translate](https://github.com/immersive-translate/immersive-translate)
 
-每半小时弹出一次的桌面时钟，基于 `Rust`：
+沉浸式双语网页翻译扩展：
 
-![RustClock](https://images-1252557999.file.myqcloud.com/uPic/RustClock.gif) 
+- 智能识别网页主内容区进行翻译，区别于同类插件翻译网页所有区域的行为，降低对原网页的“侵入性”，增强译文的阅读体验，所以该扩展被命名为“沉浸式翻译”。
+- 双语显示，中文/英文对照（按照段落自然分割，或可设置为“将段落以句子分割”，实现每句话对照翻译）
+- 定制优化了常见的主流网站，比如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。
+- 支持 10 余种常见的翻译服务，包括 Deepl，谷歌，彩云小译，腾讯翻译君，百度翻译，火山翻译等。
+- 支持 PDF 文件双语翻译。
+- 支持 EPUB 电子书双语阅读，需配合 epub 在线阅读网站使用：https://epub-reader.online/  或  https://readwise.io/read
+- 提供多种译文样式选择，包括弱化、模糊、下划线、分隔线等样式，随心所欲的个性化你的翻译体验。
+
+![immersive-translate](https://images-1252557999.file.myqcloud.com/uPic/immersive-translate.jpg) 
 
 ## 👀 资料 
 
-### [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)
+### [RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide)
 
-`DotNetGuide` 技术社区是一个面向 `.NET` 开发者的开源技术社区，旨在为开发者们提供全面的 `C#/.NET/.NET Core` 相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台，可以在线[阅读](https://www.yuque.com/ysgstudyhard/da6e0c)：
+颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南：
 
-![DotNetGuide](https://images-1252557999.file.myqcloud.com/uPic/DotNetGuide.jpg) 
+![web-visual-bookmark@2x](https://images-1252557999.file.myqcloud.com/uPic/web-visual-bookmark@2x.png) 
 
-### [under-the-hood](https://golang.design/under-the-hood/)
+### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
 
-`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
+吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
 
-![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
+![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
 
-### [Linux 101](https://101.lug.ustc.edu.cn/)
+### [opensource-f2f](https://github.com/opensource-f2f)
 
-本书由中国科学技术大学 Linux 用户协会的数名优秀成员协力编写，用于配套和延展“Linux 101”校内社团活动。其面向 Linux 零基础读者，从计算机操作系统和 Linux 的起源讲起，深入浅出带领读者一步步逐渐掌握最必要的 Linux 实用知识，并在其中感悟到社区开源文化的魅力：
+《开源面对面》是一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。
 
-![Linux101-docs](https://images-1252557999.file.myqcloud.com/uPic/Linux101-docs.jpg) 
+![osf2f](https://images-1252557999.file.myqcloud.com/uPic/osf2f.jpg) 
 
 ## 🕸 网站 
 
-### [smithery.ai](https://smithery.ai/)
+### [ouchn](https://le.ouchn.cn/#/home)
 
-一个集成了多种 Model Context Protocol (MCP) 服务器的平台，旨于通过 MCP 服务器扩展代理（AI）的功能，使其能够访问和管理大量工具和数据，从而提高决策和解决问题的能力：
+国家开放大学终身教育平台正式上线，面向社会免费开放。该平台汇聚国家开放大学自建学习资源，338所知名高校课程资源免费开放、10个头部平台的特色课程等共计50万门，包含生活、职场、学历、兴趣等不同领域的课程。致力于满足社会大众多元化、个性化学习需求。
 
-![smithery](https://images-1252557999.file.myqcloud.com/uPic/F7tIpp.png) 
+![ouchn](https://images-1252557999.file.myqcloud.com/uPic/ouchn.jpg) 
 
-### [wallpaperengine.space](https://www.wallpaperengine.space/)
+### [fviewer](https://www.fviewer.com/zh)
 
-一个专注于提供各种动态壁纸的平台，涵盖了从 4K 分辨率到各种主题和风格的壁纸。
+免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
 
-![wallpaperengine](https://images-1252557999.file.myqcloud.com/uPic/MgDa1c.png) 
+![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
 
-### [duckduckgo-chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
+### [emojicode](https://www.emojicode.org/)
 
-`DuckDuckGo` 开放了免费的 `AI` 聊天机器人，支持模型有：
+这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
 
-- GPT-3.5 Turbo
-- Claude 1.2 Instant
+![emojicode](https://images-1252557999.file.myqcloud.com/uPic/emojicode.jpg)
 
-![duckduckgo_chat](https://images-1252557999.file.myqcloud.com/uPic/duckduckgo_chat.jpg) 
+现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
 
 ## ✍️ 说明
 
