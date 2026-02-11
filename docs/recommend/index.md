@@ -5,91 +5,103 @@
 
 ## 🎯 项目 
 
-### [Textual](https://github.com/Textualize/textual)
+### [ChatALL](https://github.com/sunner/ChatALL)
 
-`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
+同时与所有 AI 机器人聊天，然后发现最佳选择：
 
-![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
+![ChatALL](https://images-1252557999.file.myqcloud.com/uPic/ChatALL.png) 
 
-### [form-create-designer](https://github.com/xaboy/form-create-designer)
+### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 
-`form-create-designer` 是基于 [@form-create/element-ui](https://github.com/xaboy/form-create) 实现的表单设计器组件。可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率，节省开发者的时间：
+提供多款 SS 规则，拥有强劲的广告过滤功能：
 
-![form-create-designer](https://images-1252557999.file.myqcloud.com/uPic/form-create-designer.png) 
+![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
 
-### [crawl4ai](https://github.com/unclecode/crawl4ai)
+### [50projects50days](https://github.com/bradtraversy/50projects50days)
 
-`Crawl4AI` 是一个免费且开源的网络爬虫工具，专为大型语言模型（LLMs）和 AI 应用设计，支持多种输出格式，如 JSON、HTML 和 markdown。它能够同时处理多个 URL，提取媒体标签（图片、音频和视频），以及内外链接和网页元数据。 
+50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
+
+![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
 
 ## 🤖 软件 
 
-### [Bili.Uwp](https://github.com/Richasy/Bili.Uwp)
+### [mangerlahn-latest](https://github.com/mangerlahn/latest)
 
-一款**哔哩哔哩**的第三方应用，使用 `UWP` 框架开发，是原生的 `Windows` 应用，支持 `Windows 10/11` 桌面系统，主打设计和易用性：
+一款免费开源的macOS应用程序，专门设计用于保持您的所有应用程序处于最新状态。它能够检查您的每一个应用程序，确保您始终拥有最新的更新和功能。
 
-![Bili.Uwp](https://images-1252557999.file.myqcloud.com/uPic/Bili.Uwp.png) 
+![mac_latest](https://images-1252557999.file.myqcloud.com/uPic/mac_latest.jpg) 
 
-### [Dashboard](https://github.com/leon-kfd/Dashboard)
+### [Refined GitHub](https://github.com/refined-github/refined-github)
 
-开源的浏览器插件，用于自定义你的浏览器启动页：
+一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
 
-![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
+那么`Refined GitHub`主要做了哪些工作呢，如下：
 
-### [immersive-translate](https://github.com/immersive-translate/immersive-translate)
+- 浏览代码时候使空格可见
+- 添加一键式合并冲突修复程序
+- 添加表情评论头像
+- 在合并PR时，添加等待检查的选项
+- ...
 
-沉浸式双语网页翻译扩展：
+![](https://images-1252557999.file.myqcloud.com/uPic/lI0jFl.png) 
 
-- 智能识别网页主内容区进行翻译，区别于同类插件翻译网页所有区域的行为，降低对原网页的“侵入性”，增强译文的阅读体验，所以该扩展被命名为“沉浸式翻译”。
-- 双语显示，中文/英文对照（按照段落自然分割，或可设置为“将段落以句子分割”，实现每句话对照翻译）
-- 定制优化了常见的主流网站，比如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。
-- 支持 10 余种常见的翻译服务，包括 Deepl，谷歌，彩云小译，腾讯翻译君，百度翻译，火山翻译等。
-- 支持 PDF 文件双语翻译。
-- 支持 EPUB 电子书双语阅读，需配合 epub 在线阅读网站使用：https://epub-reader.online/  或  https://readwise.io/read
-- 提供多种译文样式选择，包括弱化、模糊、下划线、分隔线等样式，随心所欲的个性化你的翻译体验。
+### [koodo-reader](https://github.com/troyeguo/koodo-reader)
 
-![immersive-translate](https://images-1252557999.file.myqcloud.com/uPic/immersive-translate.jpg) 
+一个跨平台的电子书阅读器：
+
+- 支持多达 15 种主流电子书格
+- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
+- 备份数据到  **Dropbox**  和  **Webdav**
+- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
+- 双页模式，单页模式，滚动模式
+- 听书功能，翻译功能，触控屏支持，批量导入图书
+- 支持目录，书签，笔记，高亮，书架，标签
+- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
+- 黑夜模式和主题色设置
+
+![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
 
 ## 👀 资料 
 
-### [RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide)
+### [How-to-use-Transformers](https://github.com/jsksxs360/How-to-use-Transformers)
 
-颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南：
+Transformers 库快速入门[教程](https://transformers.run/)：
 
-![web-visual-bookmark@2x](https://images-1252557999.file.myqcloud.com/uPic/web-visual-bookmark@2x.png) 
+![How-to-use-Transformers](https://images-1252557999.file.myqcloud.com/uPic/How-to-use-Transformers.jpg) 
 
-### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
+### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 
-吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
+[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
 
-![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
+**可惜永远都不会再更新了，默哀！**
 
-### [opensource-f2f](https://github.com/opensource-f2f)
+![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
 
-《开源面对面》是一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。
+### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
 
-![osf2f](https://images-1252557999.file.myqcloud.com/uPic/osf2f.jpg) 
+《结网》作者王坚的开源新书：
+
+![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
 
 ## 🕸 网站 
 
-### [ouchn](https://le.ouchn.cn/#/home)
+### [oss.gallery](https://oss.gallery/)
 
-国家开放大学终身教育平台正式上线，面向社会免费开放。该平台汇聚国家开放大学自建学习资源，338所知名高校课程资源免费开放、10个头部平台的特色课程等共计50万门，包含生活、职场、学历、兴趣等不同领域的课程。致力于满足社会大众多元化、个性化学习需求。
+`OSS Gallery` 提供了一个展示和探索各种领域最佳开源项目的窗口。用户可以通过这个平台，获取到开源社区中值得关注的项目，这些项目涵盖了从软件开发、数据科学到设计等多个领域。平台的目的是为开源项目提供更多的曝光机会，同时也为开发者和用户提供一个学习和交流的场所。
 
-![ouchn](https://images-1252557999.file.myqcloud.com/uPic/ouchn.jpg) 
+![oss_gallery](https://images-1252557999.file.myqcloud.com/uPic/oss_gallery.jpg) 
 
-### [fviewer](https://www.fviewer.com/zh)
+### [腾讯文库](https://wenku.docs.qq.com/)
 
-免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
+腾讯文库——专业权威的内容消费与发布平台：
 
-![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
+![wenku](https://images-1252557999.file.myqcloud.com/uPic/CL5bpt.png) 
 
-### [emojicode](https://www.emojicode.org/)
+### [coze](https://www.coze.cn/)
 
-这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
+扣子为你提供了一站式 AI 开发平台，无需编程，你的创新理念都能迅速化身为下一代的 AI 应用，字节跳动此前是在海外推出 [Coze](https://www.coze.com/)，国内扣子与其分开运营：
 
-![emojicode](https://images-1252557999.file.myqcloud.com/uPic/emojicode.jpg)
-
-现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
+![coze](https://images-1252557999.file.myqcloud.com/uPic/coze.jpg) 
 
 ## ✍️ 说明
 
