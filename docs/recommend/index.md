@@ -5,103 +5,99 @@
 
 ## 🎯 项目 
 
-### [ChatALL](https://github.com/sunner/ChatALL)
+### [mdx-editor](https://github.com/maqi1520/mdx-editor)
 
-同时与所有 AI 机器人聊天，然后发现最佳选择：
+一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
 
-![ChatALL](https://images-1252557999.file.myqcloud.com/uPic/ChatALL.png) 
+![mdx-editor](https://images-1252557999.file.myqcloud.com/uPic/mdx-editor.jpg) 
 
-### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
+### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 
-提供多款 SS 规则，拥有强劲的广告过滤功能：
+一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
 
-![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
+![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
 
-### [50projects50days](https://github.com/bradtraversy/50projects50days)
+### [parlant](https://github.com/emcie-co/parlant)
 
-50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
+`parlant` 项目是一个针对 `LLM` 智能体的框架，旨在实现对智能体行为的精确控制，使其适用于现实世界的应用场景。该项目的核心优势在于其能够通过自然语言定义的指导原则来确保智能体遵循开发者设定的规则，从而避免了传统方法中对 LLM 的指令依赖和不可预测性。Parlant 提供了一个简单的快速开始指南，允许开发者在 60 秒内启动并运行一个遵循规则的智能体。此外，Parlant 还支持与外部 API、数据库和服务的可靠集成，提供了一系列企业级特性，如凝聚的对话旅程、动态指导原则匹配、对话分析、迭代改进、内置的保护措施以及全面的可解释性。
 
-![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
+![parlant](https://images-1252557999.file.myqcloud.com/uPic/3nuqN2.png) 
 
 ## 🤖 软件 
 
-### [mangerlahn-latest](https://github.com/mangerlahn/latest)
+### [Seal](https://github.com/JunkFood02/Seal)
 
-一款免费开源的macOS应用程序，专门设计用于保持您的所有应用程序处于最新状态。它能够检查您的每一个应用程序，确保您始终拥有最新的更新和功能。
+一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
 
-![mac_latest](https://images-1252557999.file.myqcloud.com/uPic/mac_latest.jpg) 
+- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
+- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
+- 播放列表下载支持
+- 内嵌字幕于视频文件中
+- 执行自定义的 yt-dlp 命令模板
+- 管理应用内下载与自定义命令模板
+- 使用简单、用户友好
+- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
+- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
+    
+![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
 
-### [Refined GitHub](https://github.com/refined-github/refined-github)
+### [FlowDown](https://github.com/Lakr233/FlowDown-App)
 
-一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
+浮望（FlowDown）是一个速度极快、平滑的 AI/LLM 客户端应用程序。
 
-那么`Refined GitHub`主要做了哪些工作呢，如下：
+![FlowDown](https://images-1252557999.file.myqcloud.com/uPic/boR71j.png) 
 
-- 浏览代码时候使空格可见
-- 添加一键式合并冲突修复程序
-- 添加表情评论头像
-- 在合并PR时，添加等待检查的选项
-- ...
+### [ponymusic](https://github.com/wangchenyan/ponymusic)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/lI0jFl.png) 
+使用「网易云音乐API」的安卓在线音乐播放器：
 
-### [koodo-reader](https://github.com/troyeguo/koodo-reader)
+- 网易云音乐基本功能
+- 添加和播放本地音乐文件
+- 专辑封面显示
+- 歌词显示，支持拖动歌词调节播放进度
+- 通知栏控制
+- 夜间模式
+- 定时关闭
 
-一个跨平台的电子书阅读器：
-
-- 支持多达 15 种主流电子书格
-- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
-- 备份数据到  **Dropbox**  和  **Webdav**
-- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
-- 双页模式，单页模式，滚动模式
-- 听书功能，翻译功能，触控屏支持，批量导入图书
-- 支持目录，书签，笔记，高亮，书架，标签
-- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
-- 黑夜模式和主题色设置
-
-![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
+![ponymusic](https://images-1252557999.file.myqcloud.com/uPic/ponymusic.jpg) 
 
 ## 👀 资料 
 
-### [How-to-use-Transformers](https://github.com/jsksxs360/How-to-use-Transformers)
+### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
 
-Transformers 库快速入门[教程](https://transformers.run/)：
+一份从头开始建立 `CDN` 知识体系的教程。 
 
-![How-to-use-Transformers](https://images-1252557999.file.myqcloud.com/uPic/How-to-use-Transformers.jpg) 
+### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
 
-### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
+《TCP/IP网络编程》(韩-尹圣雨)学习笔记
 
-[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
+![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
 
-**可惜永远都不会再更新了，默哀！**
+### [paper-reading](https://github.com/mli/paper-reading)
 
-![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
+深度学习经典、新论文逐段精读，李沐大佬的项目，非常详细：
 
-### [产品经理的无限游戏](https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/)
-
-《结网》作者王坚的开源新书：
-
-![产品经理的无线游戏](https://images-1252557999.file.myqcloud.com/uPic/产品经理的无线游戏.jpg) 
+![paper-reading](https://images-1252557999.file.myqcloud.com/uPic/7e52UU.png) 
 
 ## 🕸 网站 
 
-### [oss.gallery](https://oss.gallery/)
+### [sao.fm](https://sao.fm/)
 
-`OSS Gallery` 提供了一个展示和探索各种领域最佳开源项目的窗口。用户可以通过这个平台，获取到开源社区中值得关注的项目，这些项目涵盖了从软件开发、数据科学到设计等多个领域。平台的目的是为开源项目提供更多的曝光机会，同时也为开发者和用户提供一个学习和交流的场所。
+一个在线听广播电台的网站：
 
-![oss_gallery](https://images-1252557999.file.myqcloud.com/uPic/oss_gallery.jpg) 
+![sao.fm](https://images-1252557999.file.myqcloud.com/uPic/sao.fm.jpg) 
 
-### [腾讯文库](https://wenku.docs.qq.com/)
+### [producthunt-daily-hot](https://github.com/ViggoZ/producthunt-daily-hot)
 
-腾讯文库——专业权威的内容消费与发布平台：
+`Product Hunt` 每日热榜是一个基于 `GitHub Action` 的自动化工具，它能够每天定时生成 `Product Hunt` 上的热门产品榜单 `Markdown` 文件，并自动提交到 `GitHub` 仓库中。该项目旨在帮助用户快速查看每日的 `Product Hunt` 热门榜单，并提供更详细的产品信息。
 
-![wenku](https://images-1252557999.file.myqcloud.com/uPic/CL5bpt.png) 
+![producthunt-daily-hot](https://images-1252557999.file.myqcloud.com/uPic/2vDyRf.png) 
 
-### [coze](https://www.coze.cn/)
+### [hacker-news](https://hacker-news.agi.li/)
 
-扣子为你提供了一站式 AI 开发平台，无需编程，你的创新理念都能迅速化身为下一代的 AI 应用，字节跳动此前是在海外推出 [Coze](https://www.coze.com/)，国内扣子与其分开运营：
+一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 
-![coze](https://images-1252557999.file.myqcloud.com/uPic/coze.jpg) 
+![hacker-news](https://images-1252557999.file.myqcloud.com/uPic/MOqMxM.png) 
 
 ## ✍️ 说明
 
