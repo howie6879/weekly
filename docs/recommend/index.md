@@ -5,121 +5,105 @@
 
 ## 🎯 项目 
 
-### [ns-emu-tools](https://github.com/triwinds/ns-emu-tools)
+### [ssddanbrown/rss](https://github.com/ssddanbrown/rss)
 
-一个用于安装/更新 NS 模拟器的工具：
-- 支持安装 Yuzu EA/正式 版模拟器
-- 支持 Yuzu 版本检测及更新
-- 支持安装 Ryujinx Ava/正式/LDN 版模拟器
-- 支持 Ryujinx 版本检测及更新
-- 自动检测并安装 msvc 运行库
-- 支持安装及更新 NS 固件至模拟器
-- 支持固件版本检测
-- 管理模拟器密钥
-- Yuzu 金手指管理
-- aria2 多线程下载
+一个简单的 `Twitter-feed` 风格的 `RSS` 聚合器，使用 `PHP、Laravel、Inertia.js、Tailwind、Vue.js` 编写:
 
-关于模拟器项目：
-- [Yuzu](https://github.com/yuzu-emu/yuzu)  \- Yuzu 模拟器
-- [Ryujinx](https://github.com/Ryujinx/Ryujinx)  \- Ryujinx 模拟器
-- [hactool](https://github.com/SciresM/hactool)  \- NS 固件解析
-- [aria2](https://github.com/aria2/aria2)  \- aria2 下载器
+- 支持RSS和ATOM格式
+- 定期自动获取RSS订阅源
+- 自定义订阅名称和颜色
+- 基于内容的标签进行分类
+- 3种不同的帖子布局模式（卡片、列表、紧凑）
+- 获取页面的开放图像
+- 通过单个纯文本文件管理的订阅源
+- 基于系统的暗/亮主题
+- 帖子标题/描述搜索
+- 开箱即用的Docker镜像
+- 手机屏幕兼容
+- 清理旧的帖子数据
 
-![Ryujinx](https://images-1252557999.file.myqcloud.com/uPic/Ryujinx.png) 
+![ssddanbrown_rss](https://images-1252557999.file.myqcloud.com/uPic/ssddanbrown_rss.png) 
 
-### [ChatGPT 项目推荐](https://weekly.howie6879.com/2023/02-13~02-18.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC079%E6%9C%9F%EF%BC%89.html?h=chatgpt#chatgpt)
+### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
 
-基于 `ChatGPT` 相关接口衍生的项目：
+`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
 
-- [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)：显示 `ChatGPT` 响应和 `Google` 搜索结果的浏览器扩展
-- [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)：将 `ChatGPT` 集成到互联网上的每个文本框中。
-- [周报生成器](https://weeklyreport.avemaria.fun/zh)：简单描述工作内容帮你生成完整周报
-- [README 生成器](https://readme.rustc.cloud/zh)：帮你生成完整 Github README
-- [邮件生成器](https://email-helper.vercel.app/)：几秒钟内生成多语言商务邮件
-- [Teach Anything](https://www.teach-anything.com/)：几秒钟内得到想要的答案
-- [聊天简化器](https://chat-simplifier.imzbb.cc/zh)：简化聊天记录内容
-- [SiteExplainer](https://siteexplainer.vercel.app/)：输入网址，快速总结网站内容
-- [Dear Aibby](https://www.dearaibby.com/)：来自新机器灵魂的衷心建议
-- [TextSummarizer](https://text-summarizer-seven.vercel.app/)：在几秒钟内从文本生成摘要
-- [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)：支持 `ChatGPT` 的 `Visual Studio Code` 扩展，可以与 `ChatGPT` 配对编程
-- [editGPT](https://chrome.google.com/webstore/detail/editgpt/mognjodfeldknhobgbnkoomipkmlnnhk)：利用 ChatGPT 做文案修改编辑 
+![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
 
-### [questdb](https://github.com/questdb/questdb)
+### [Scrapegraph](https://github.com/VinciGit00/Scrapegraph-ai)
 
-QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
+基于 `LLM` 大模型的 `Python` 爬虫框架：
 
-特别是针对时间序列数据做了处理：
-
-![questdb](https://images-1252557999.file.myqcloud.com/uPic/Sbq9WK.jpg) 
+![scrapegraph](https://images-1252557999.file.myqcloud.com/uPic/scrapegraph.jpg) 
 
 ## 🤖 软件 
 
-### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
+### [Tailor](https://github.com/FutureUniant/Tailor)
 
-免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
+Tailor（中文简称：泰勒）是一款视频智能裁剪、视频生成和视频优化的工具。目前该项目包括了视频剪辑、视频生成和视频优化3大类视频处理方向，共10种方法。Tailor使用方法简单，点点鼠标即可使用最先进的人工智能进行视频处理工作，省时省力，若使用安装版本Tailor，所有的环境配置都可省掉，对用户特别友好。
 
-![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
+![Tailor](https://images-1252557999.file.myqcloud.com/uPic/Tailor.png) 
 
-### [MyBrain](https://github.com/mhss1/MyBrain)
+### [obs-studio](https://github.com/obsproject/obs-studio)
 
-开源的、多合一的生产力应用，包括任务、笔记、日历、日记和书签：
+免费开源的专业屏幕录制+视频串流直播软件，包含视频录制、屏幕录像、音频录制、直播推流等功能。
 
-- 完全私密，不收集任何数据，也没有任何互联网权限。
-- 创建具有优先级、子任务、描述、截止日期和提醒的任务。
-- 创建支持Markdown的笔记，可以使用标题、列表、链接等功能。
-- 每天记录你的心情，并通过美丽的图表查看你的心情总结。
-- 通过使用其他应用程序的共享菜单，将书签保存到稍后阅读。
-- 以现代视图查看您的日历事件，并使用漂亮的主屏幕小部件。
-- 仪表盘屏幕可一目了然地查看您的任务、日历事件等，让您了解当天的安排。
+![obs-studio](https://images-1252557999.file.myqcloud.com/uPic/2asRCI.png) 
 
-![mybrain](https://images-1252557999.file.myqcloud.com/uPic/mybrain.png) 
+### [AFFiNE](https://github.com/toeverything/AFFiNE)
 
-### [codeapp](https://github.com/thebaselab/codeapp)
+`AFFiNE` 是为创意思考而生的统一知识管理平台，一个注重隐私、本地优先、开源且可立即使用的 `Notion + Miro` 开源替代方案：
 
-为 `iPad` 构建一个成熟的代码编辑器：
+- 同时书写、绘制和计划
+- 任意地方存储查看您的数据
+- 离线优先
+- 简洁直观的设计
+- 具备 `Markdown` 支持的现代区块编辑器
+- 团队协作
+- 多语言支持
+- 插件支持
 
-![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
+支持 `web` & 跨平台访问：
+
+![afine](https://images-1252557999.file.myqcloud.com/uPic/afine.jpg) 
 
 ## 👀 资料 
 
-### [Sensitive-lexicon](https://github.com/konsheng/Sensitive-lexicon)
+### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
 
-一个持续更新的中文敏感词库，帮助开发者和内容审核者快速识别并过滤不当文本，国内做需要用户评论相关业务还是很有用。 
+作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
+![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
 
-强化学习中文教程：
+### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
 
-![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
+本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
 
-### [stevejobsarchive](https://book.stevejobsarchive.com/)
+### [whale-quant](https://github.com/datawhalechina/whale-quant)
 
-乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：
+本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用 `Python` 进行量化开发的能力：
 
-![stevejobsarchive_zh](https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg)
-如果你需要翻译版，可以在公众号后台联系我。 
+![whale-quant](https://images-1252557999.file.myqcloud.com/uPic/a4aLmH.png) 
 
 ## 🕸 网站 
 
-### [gooddesign](https://www.gooddesign.tools/)
+### [tableconvert](https://tableconvert.com/)
 
-优质设计师工具导航网站：
+`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
 
-![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
+![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
 
-### [emojicode](https://www.emojicode.org/)
+### [emojiall](https://www.emojiall.com/)
 
-这是一个有意思的编程语言官网，让你用表情符号来写代码，好玩。项目开源在[emojicode](https://github.com/emojicode/emojicode)，有兴趣的大佬可以看看：
+网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
 
-![emojicode](https://images-1252557999.file.myqcloud.com/uPic/emojicode.jpg)
+![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg) 
 
-现在这个项目已经到了`1.0 beta 2`，也有比较完善的[教程](https://www.emojicode.org/docs/guides/install.html)。 
+### [singleservingsites.cool](https://singleservingsites.cool/ "singleservingsites.cool")
 
-### [antimkd](https://antimkd.com/)
+Single-Serving Sites 是一个展示专注于特定功能或主题的微型网站。这些网站涵盖了从二维码、倒计时、设计工具、在线棋盘游戏到个性化的 CSS 风格、产品管理工具等多种类型，每个微型网站都有其独特的功能和目的：
 
-无套路的软件下载网站：
-
-![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
+![singleservingsites](https://images-1252557999.file.myqcloud.com/uPic/lrAstx.png) 
 
 ## ✍️ 说明
 
