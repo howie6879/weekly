@@ -5,105 +5,94 @@
 
 ## 🎯 项目 
 
-### [ssddanbrown/rss](https://github.com/ssddanbrown/rss)
+### [ProxyCat](https://github.com/honmashironeko/ProxyCat)
 
-一个简单的 `Twitter-feed` 风格的 `RSS` 聚合器，使用 `PHP、Laravel、Inertia.js、Tailwind、Vue.js` 编写:
+一款部署于云端或本地的隧道代理池中间件，可将静态代理IP灵活运用成隧道IP，提供固定请求地址，一次部署终身使用:
 
-- 支持RSS和ATOM格式
-- 定期自动获取RSS订阅源
-- 自定义订阅名称和颜色
-- 基于内容的标签进行分类
-- 3种不同的帖子布局模式（卡片、列表、紧凑）
-- 获取页面的开放图像
-- 通过单个纯文本文件管理的订阅源
-- 基于系统的暗/亮主题
-- 帖子标题/描述搜索
-- 开箱即用的Docker镜像
-- 手机屏幕兼容
-- 清理旧的帖子数据
+![ProxyCat](https://images-1252557999.file.myqcloud.com/uPic/yquF9b.png) 
 
-![ssddanbrown_rss](https://images-1252557999.file.myqcloud.com/uPic/ssddanbrown_rss.png) 
+### [metersphere](https://github.com/metersphere/metersphere)
 
-### [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)
+[MeterSphere](https://metersphere.io/) 是一站式开源持续测试平台, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter、Selenium` 等主流开源标准，有效助力开发和测试团队充分利用云弹性进行高度可扩展的自动化测试，加速高质量的软件交付：
 
-`rhubarb-lip-sync`是一个让真实录音和动漫人物嘴唇同步的命令行工具，这个应用场景还是挺丰富的，比如：游戏、卡通动漫、视频制作等。
+![metersphere](https://images-1252557999.file.myqcloud.com/uPic/metersphere.jpeg) 
 
-![rhubarb-lip-sync](https://images-1252557999.file.myqcloud.com/uPic/fgYlDU.jpg) 
+### [Message-Push-Nest](https://github.com/engigu/Message-Push-Nest)
 
-### [Scrapegraph](https://github.com/VinciGit00/Scrapegraph-ai)
+打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义 `webhook` 等多种通知方式。定制你的消息，让通知方式更灵活多样。
 
-基于 `LLM` 大模型的 `Python` 爬虫框架：
 
-![scrapegraph](https://images-1252557999.file.myqcloud.com/uPic/scrapegraph.jpg) 
+![Message-Push-Nest](https://images-1252557999.file.myqcloud.com/uPic/Message-Push-Nest.jpg) 
 
 ## 🤖 软件 
 
-### [Tailor](https://github.com/FutureUniant/Tailor)
+### [hummingbird](https://github.com/leibnizli/hummingbird)
 
-Tailor（中文简称：泰勒）是一款视频智能裁剪、视频生成和视频优化的工具。目前该项目包括了视频剪辑、视频生成和视频优化3大类视频处理方向，共10种方法。Tailor使用方法简单，点点鼠标即可使用最先进的人工智能进行视频处理工作，省时省力，若使用安装版本Tailor，所有的环境配置都可省掉，对用户特别友好。
+`Hummingbird` 是一个资源(`jpg/png/webp/svg/gif/css/js/html`)压缩客户端，支持`Windows`、`Mac`：
 
-![Tailor](https://images-1252557999.file.myqcloud.com/uPic/Tailor.png) 
+- `jpg/png/webp/svg/gif/html` 压缩后会替换掉当前文件，`css/js` 压缩后会生成一个带 `.min` 的新文件
+- 可以在在当前目录新建source文件夹并备份处理前的文件，可以在设置中开启
 
-### [obs-studio](https://github.com/obsproject/obs-studio)
+![hummingbird](https://images-1252557999.file.myqcloud.com/uPic/hummingbird.jpg) 
 
-免费开源的专业屏幕录制+视频串流直播软件，包含视频录制、屏幕录像、音频录制、直播推流等功能。
+### [腾讯交互翻译 TranSmart](https://transmart.qq.com/zh-CN/intro)
 
-![obs-studio](https://images-1252557999.file.myqcloud.com/uPic/2asRCI.png) 
+腾讯交互翻译融合了腾讯人工智能实验室自研的交互式机器翻译、神经网络机器翻译、 统计机器翻译、语义理解、信息检索等技术，帮助用户更快、更好地完成翻译任务。
 
-### [AFFiNE](https://github.com/toeverything/AFFiNE)
+包含网页、跨平台客户端、插件等使用形式，翻译质量也还不错，诚意满满：
 
-`AFFiNE` 是为创意思考而生的统一知识管理平台，一个注重隐私、本地优先、开源且可立即使用的 `Notion + Miro` 开源替代方案：
+![TranSmart](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-10-16_09-57-06.jpg) 
 
-- 同时书写、绘制和计划
-- 任意地方存储查看您的数据
-- 离线优先
-- 简洁直观的设计
-- 具备 `Markdown` 支持的现代区块编辑器
-- 团队协作
-- 多语言支持
-- 插件支持
+### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
 
-支持 `web` & 跨平台访问：
+`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
 
-![afine](https://images-1252557999.file.myqcloud.com/uPic/afine.jpg) 
+- Support Intel
+- Support Apple Silicon (M1 & M2)
+- Network
+- USB 
 
 ## 👀 资料 
 
-### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
+### [nlp-with-transformers](https://github.com/nlp-with-transformers)
 
-作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
+书籍《基于Transformers的自然语言处理》的代码仓库：
 
-![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/A6MiF5.jpg) 
 
-### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
+### [Getting Real](https://basecamp.com/gettingreal)
 
-本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
+`Basecamp` 的在线电子书，关于通过更智能、更快、更简单的方式，构建  `web` 应用程序的教程：
 
-### [whale-quant](https://github.com/datawhalechina/whale-quant)
+![gettingreal](https://images-1252557999.file.myqcloud.com/uPic/gettingreal.jpg) 
 
-本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用 `Python` 进行量化开发的能力：
+### [GoGuide](https://github.com/coderit666/GoGuide)
 
-![whale-quant](https://images-1252557999.file.myqcloud.com/uPic/a4aLmH.png) 
+`Go Guide` 致力于打造最易懂的 `Go` 语言教程：
+
+![GoGuide](https://images-1252557999.file.myqcloud.com/uPic/GoGuide.png) 
 
 ## 🕸 网站 
 
-### [tableconvert](https://tableconvert.com/)
+### [lz.qaiu.top](https://lz.qaiu.top/)
 
-`tableconvert`是一个功能强大的规范格式转换网站，比如你想把`Json`转成`CSV`或者`CSV`等，都可以在`tableconvert`上完成。
+`NFD` 网盘直链解析，目前支持 蓝奏云/蓝奏云优享/小飞机盘/123云盘/奶牛快传/移动云云空间/亿方云/文叔叔/QQ邮箱文件中转站：
 
-![tableconvert](https://images-1252557999.file.myqcloud.com/uPic/ruTm94.png) 
+![netdisk](https://images-1252557999.file.myqcloud.com/uPic/v8jmto.png)
 
-### [emojiall](https://www.emojiall.com/)
+代码开源在：[netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download?tab=readme-ov-file)。 
 
-网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
+### [allthingsai](https://allthingsai.com/)
 
-![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg) 
+提供完整的 `AI` 相关工具&服务资源：
 
-### [singleservingsites.cool](https://singleservingsites.cool/ "singleservingsites.cool")
+![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
 
-Single-Serving Sites 是一个展示专注于特定功能或主题的微型网站。这些网站涵盖了从二维码、倒计时、设计工具、在线棋盘游戏到个性化的 CSS 风格、产品管理工具等多种类型，每个微型网站都有其独特的功能和目的：
+### [logo.surf](https://www.logo.surf/#generate-favicon)
 
-![singleservingsites](https://images-1252557999.file.myqcloud.com/uPic/lrAstx.png) 
+快速创建图标：
+
+![logo_surf](https://images-1252557999.file.myqcloud.com/uPic/logo_surf.jpg) 
 
 ## ✍️ 说明
 
