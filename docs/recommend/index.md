@@ -5,94 +5,97 @@
 
 ## 🎯 项目 
 
+### [duplicati](https://github.com/duplicati/duplicati)
+
+Duplicati 是一个免费的开源备份客户端，可将加密的、增量的、压缩的备份安全地存储在云存储服务和远程文件服务器上:
+
+![duplicati](https://images-1252557999.file.myqcloud.com/uPic/duplicati.jpg) 
+
 ### [ProxyCat](https://github.com/honmashironeko/ProxyCat)
 
 一款部署于云端或本地的隧道代理池中间件，可将静态代理IP灵活运用成隧道IP，提供固定请求地址，一次部署终身使用:
 
 ![ProxyCat](https://images-1252557999.file.myqcloud.com/uPic/yquF9b.png) 
 
-### [metersphere](https://github.com/metersphere/metersphere)
+### [MDGJX](https://github.com/work7z/MDGJX)
 
-[MeterSphere](https://metersphere.io/) 是一站式开源持续测试平台, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter、Selenium` 等主流开源标准，有效助力开发和测试团队充分利用云弹性进行高度可扩展的自动化测试，加速高质量的软件交付：
+秒达工具箱，借助独创高效的输入方式，让您可以快速呼出各类工具、文档及笔记等资源，免费安全无广告：
 
-![metersphere](https://images-1252557999.file.myqcloud.com/uPic/metersphere.jpeg) 
-
-### [Message-Push-Nest](https://github.com/engigu/Message-Push-Nest)
-
-打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义 `webhook` 等多种通知方式。定制你的消息，让通知方式更灵活多样。
-
-
-![Message-Push-Nest](https://images-1252557999.file.myqcloud.com/uPic/Message-Push-Nest.jpg) 
+![MDGJX](https://images-1252557999.file.myqcloud.com/uPic/MDGJX.png) 
 
 ## 🤖 软件 
 
-### [hummingbird](https://github.com/leibnizli/hummingbird)
+### [wechat-universal-flatpak](https://github.com/web1n/wechat-universal-flatpak)
 
-`Hummingbird` 是一个资源(`jpg/png/webp/svg/gif/css/js/html`)压缩客户端，支持`Windows`、`Mac`：
+基于微信 `Linux Universal` 版打包，无发行版限制：
 
-- `jpg/png/webp/svg/gif/html` 压缩后会替换掉当前文件，`css/js` 压缩后会生成一个带 `.min` 的新文件
-- 可以在在当前目录新建source文件夹并备份处理前的文件，可以在设置中开启
+![wechat-universal-flatpak](https://images-1252557999.file.myqcloud.com/uPic/wechat-universal-flatpak.png) 
 
-![hummingbird](https://images-1252557999.file.myqcloud.com/uPic/hummingbird.jpg) 
+### [postcat](https://github.com/Postcatlab/postcat)
 
-### [腾讯交互翻译 TranSmart](https://transmart.qq.com/zh-CN/intro)
+`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
 
-腾讯交互翻译融合了腾讯人工智能实验室自研的交互式机器翻译、神经网络机器翻译、 统计机器翻译、语义理解、信息检索等技术，帮助用户更快、更好地完成翻译任务。
+![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
 
-包含网页、跨平台客户端、插件等使用形式，翻译质量也还不错，诚意满满：
+### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
 
-![TranSmart](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-10-16_09-57-06.jpg) 
+一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
 
-### [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
+- 配置app启动默认输入法。
+- app来回切换，保持app切出前的使用的输入法。
+- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
+- 悬浮窗口支持
 
-`Parallels Desktop for macOS` 破解版(18.0.1-53056)：
-
-- Support Intel
-- Support Apple Silicon (M1 & M2)
-- Network
-- USB 
+![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
 
 ## 👀 资料 
 
-### [nlp-with-transformers](https://github.com/nlp-with-transformers)
+### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
-书籍《基于Transformers的自然语言处理》的代码仓库：
+吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/A6MiF5.jpg) 
+- 学习应用开发所需的 prompt engineering 最佳实践
+- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
+- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
 
-### [Getting Real](https://basecamp.com/gettingreal)
+![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
 
-`Basecamp` 的在线电子书，关于通过更智能、更快、更简单的方式，构建  `web` 应用程序的教程：
+### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
 
-![gettingreal](https://images-1252557999.file.myqcloud.com/uPic/gettingreal.jpg) 
+这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
 
-### [GoGuide](https://github.com/coderit666/GoGuide)
+- 👋 入门
+- 💬 大语言模型
+	- 💡 提示工程
+	- 🔧 大语言模型实践
+	- 🔬 大语言模型理论
+- 🎨 AI绘画
+- 🔊 AI音频
+- 🌈 多模态
+- 🧠 深度学习
+- 💻 AI系统 
 
-`Go Guide` 致力于打造最易懂的 `Go` 语言教程：
+### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
 
-![GoGuide](https://images-1252557999.file.myqcloud.com/uPic/GoGuide.png) 
+公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
 
 ## 🕸 网站 
 
-### [lz.qaiu.top](https://lz.qaiu.top/)
+### [w2solo](https://w2solo.com/)
 
-`NFD` 网盘直链解析，目前支持 蓝奏云/蓝奏云优享/小飞机盘/123云盘/奶牛快传/移动云云空间/亿方云/文叔叔/QQ邮箱文件中转站：
+独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
 
-![netdisk](https://images-1252557999.file.myqcloud.com/uPic/v8jmto.png)
+### [uiprompt.art](https://uiprompt.art/)
 
-代码开源在：[netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download?tab=readme-ov-file)。 
+UI Prompt Explorer 网站提供了一个专注于手绘风格界面设计的展示平台，包括画册、仪表板、日程规划、作品集、电子商务和博客等多种设计模板：
 
-### [allthingsai](https://allthingsai.com/)
+![uiprompt](https://images-1252557999.file.myqcloud.com/uPic/x2em3D.png) 
 
-提供完整的 `AI` 相关工具&服务资源：
+### [pixel-me](https://pixel-me.tokyo/en/)
 
-![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
+将你的头像像素化，质量挺好：
 
-### [logo.surf](https://www.logo.surf/#generate-favicon)
-
-快速创建图标：
-
-![logo_surf](https://images-1252557999.file.myqcloud.com/uPic/logo_surf.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/gnHdoM.png) 
 
 ## ✍️ 说明
 
