@@ -5,97 +5,94 @@
 
 ## 🎯 项目 
 
-### [duplicati](https://github.com/duplicati/duplicati)
+### [TrendRadar](https://github.com/sansan0/TrendRadar)
 
-Duplicati 是一个免费的开源备份客户端，可将加密的、增量的、压缩的备份安全地存储在云存储服务和远程文件服务器上:
+热门新闻聚合分析工具 - 自媒体微信公众号等新闻类文章辅助工具，支持今日头条、百度热搜、微博、抖音、知乎、B 站、财联社等11个中文热门平台，分析关键词频率，生成报告并支持飞书推送等。持续追踪热点变化。
 
-![duplicati](https://images-1252557999.file.myqcloud.com/uPic/duplicati.jpg) 
+![TrendRadar](https://images-1252557999.file.myqcloud.com/uPic/Z4m5Ox.png) 
 
-### [ProxyCat](https://github.com/honmashironeko/ProxyCat)
+### [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
 
-一款部署于云端或本地的隧道代理池中间件，可将静态代理IP灵活运用成隧道IP，提供固定请求地址，一次部署终身使用:
+自建Claude code镜像服务，同时支持Gemini cli、Codex中转，支持多账户切换、自定义API密钥、Claude API、OPENAI兼容格式、能有效规避封号，OAuth集成可快捷添加账号池。
 
-![ProxyCat](https://images-1252557999.file.myqcloud.com/uPic/yquF9b.png) 
+类似项目还有：[yushangxiao/claude2api](https://github.com/yushangxiao/claude2api)。
 
-### [MDGJX](https://github.com/work7z/MDGJX)
+这些项目的核心需求是用户想让自己的账号转成 API 让更多人用，网上一些拼车也类似这些，如果有动手能力，可以试试，如果没有，可以去往上买现成的中转站。
 
-秒达工具箱，借助独创高效的输入方式，让您可以快速呼出各类工具、文档及笔记等资源，免费安全无广告：
+老胡这边也有朋友做，可以加我根据你当前使用的厂商进行推荐，有优惠。
 
-![MDGJX](https://images-1252557999.file.myqcloud.com/uPic/MDGJX.png) 
+![claude-relay-service](https://images-1252557999.file.myqcloud.com/uPic/Fw6Rgi.png) 
+
+### [winboat](https://github.com/TibixDev/winboat)
+
+`TibixDev/winboat` 项目旨在通过容器化方法在 `Linux` 系统上运行 `Windows` 应用程序，实现与原生桌面环境无缝集成。
+
+![winboat](https://images-1252557999.file.myqcloud.com/uPic/spn7Mb.png) 
 
 ## 🤖 软件 
 
-### [wechat-universal-flatpak](https://github.com/web1n/wechat-universal-flatpak)
+### [AppManager](https://github.com/MuntashirAkon/AppManager)
 
-基于微信 `Linux Universal` 版打包，无发行版限制：
+一个功能全面的 `Android` 包管理器和应用查看器，支持复制自由软件的功能，提供了丰富的应用管理和操作功能，如列出应用信息、安装 / 卸载 `APK`、备份 / 恢复应用、查看日志等，同时支持根权限和 `ADB` 命令，以实现更高级的操作，如撤销权限、修改 `APP` 操作模式等：
 
-![wechat-universal-flatpak](https://images-1252557999.file.myqcloud.com/uPic/wechat-universal-flatpak.png) 
+![AppManager](https://images-1252557999.file.myqcloud.com/uPic/zIgjSp.png) 
 
-### [postcat](https://github.com/Postcatlab/postcat)
+### [Screenity](https://github.com/alyssaxuu/screenity)
 
-`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+🎥 免费且隐私友好的录屏工具，功能特性使用无限制：
 
-![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
+![Screenity](https://images-1252557999.file.myqcloud.com/uPic/Screenity.png)
 
-### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+还有其他推荐的：
 
-一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
+- https://github.com/lihaoyun6/QuickRecorder
+- https://github.com/wulkano/Kap 
 
-- 配置app启动默认输入法。
-- app来回切换，保持app切出前的使用的输入法。
-- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
-- 悬浮窗口支持
+### [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix)
 
-![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
+一个针对macos下鼠标控制的开源软件，让您的鼠标更用：
+
+![mac-mouse-fix](https://images-1252557999.file.myqcloud.com/uPic/mac-mouse-fix.jpg) 
 
 ## 👀 资料 
 
-### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
 
-吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
+从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
 
-- 学习应用开发所需的 prompt engineering 最佳实践
-- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
-- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
+![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
-![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
+### [医保怎样用最省钱](https://chaiknows.feishu.cn/docx/IbTBdjiQWoi2cvx21SmcrL1pn3f)
 
-### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
+一份医保省钱指南，省钱就是赚钱：
 
-这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
+![ybsq](https://images-1252557999.file.myqcloud.com/uPic/F6m1jR.png) 
 
-- 👋 入门
-- 💬 大语言模型
-	- 💡 提示工程
-	- 🔧 大语言模型实践
-	- 🔬 大语言模型理论
-- 🎨 AI绘画
-- 🔊 AI音频
-- 🌈 多模态
-- 🧠 深度学习
-- 💻 AI系统 
+### developer-roadmap
 
-### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
+开发人员学习成长路线图：
 
-公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
+![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
 
 ## 🕸 网站 
 
-### [w2solo](https://w2solo.com/)
+### [ixinqing](http://www.ixinqing.com/)
 
-独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
+心晴 · 专注于心理学入门与自我成长:
 
-### [uiprompt.art](https://uiprompt.art/)
+![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
 
-UI Prompt Explorer 网站提供了一个专注于手绘风格界面设计的展示平台，包括画册、仪表板、日程规划、作品集、电子商务和博客等多种设计模板：
+### [yalijuda](https://www.yalijuda.com)
 
-![uiprompt](https://images-1252557999.file.myqcloud.com/uPic/x2em3D.png) 
+简单快捷的图片压缩体验，多种压缩模式可选，压缩图片清晰无锯齿：
 
-### [pixel-me](https://pixel-me.tokyo/en/)
+![www.yalijuda.com_yalijuda_sq0onjIiVg](https://images-1252557999.file.myqcloud.com/uPic/www.yalijuda.com_yalijuda_sq0onjIiVg.jpg) 
 
-将你的头像像素化，质量挺好：
+### [selfh](https://selfh.st/)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/gnHdoM.png) 
+网站提供了可自建项目的动态，每周更新：
+
+![selfh](https://images-1252557999.file.myqcloud.com/uPic/jVlzyp.png) 
 
 ## ✍️ 说明
 
