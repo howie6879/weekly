@@ -5,105 +5,102 @@
 
 ## 🎯 项目 
 
-### [MinerU](https://github.com/opendatalab/MinerU)
+### [openresty-manager](https://github.com/Safe3/openresty-manager)
 
-`MinerU` 是一款一站式、开源、高质量的数据提取工具，主要包含以下功能:
+主机管理面板，OpenResty Edge 的开源替代品，它可以让您轻松地安全反向代理在家或互联网上运行的网站，包括访问控制、拒绝服务攻击防护、自动申请并续期免费的SSL证书：
 
-- Magic-PDF PDF文档提取
-- Magic-Doc 网页与电子书提取
+- 支持通过HTTP-01和DNS-01挑战申请免费SSL证书并自动续期
+- 无需了解OpenResty，即可轻松为您的网站创建反向代理
+- 提供了多种强大安全功能，如访问控制、拒绝服务攻击防护等
+- 简化服务器管理，为用户界面友好的终端和文件管理功能
+- 支持基于容器的应用商店功能，大大降低建站和容器管理的难度
 
-对于有 PDF 转换 MD 需求的朋友可以尝试下：
+![openresty-manager](https://images-1252557999.file.myqcloud.com/uPic/4Grbgi.png) 
 
-![MinerU](https://images-1252557999.file.myqcloud.com/uPic/MinerU.png) 
+### [wallabag](https://github.com/wallabag/wallabag)
 
-### [weiboSpider](https://github.com/dataabc/weiboSpider)
+一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
 
-新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
+- 浏览器插件收集网页信息
+- 安卓/IOS/网页端阅读以及管理
 
-### [open-webui](https://github.com/open-webui/open-webui)
+![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
 
-将 `LLMs` 操作搬到了 `Web`，用户操作界面相当友好，值得体验，API兼容包括Ollama和OpenAI的API。
+### [resume-design](https://github.com/huajian-pro/resume-design)
 
-![openwebui](https://images-1252557999.file.myqcloud.com/uPic/openwebui.jpg) 
+一款开源简历设计生成器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据：
+
+![91huajian](https://images-1252557999.file.myqcloud.com/uPic/MHN7Rb.jpg) 
 
 ## 🤖 软件 
 
-### [yokai](https://github.com/null2264/yokai)
+### [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
 
-一个免费且开源的安卓漫画阅读器：
+免费开源的安卓漫画阅读器，支持超过500+的资源来源：
 
-![yokai](https://images-1252557999.file.myqcloud.com/uPic/Qy2ZHb.png)
+![Kotatsu](https://images-1252557999.file.myqcloud.com/uPic/Kotatsu.jpg) 
 
-之前还推荐免费漫画软件还有：
+### [Navicat Premium Lite](https://www.navicat.com.cn/download/navicat-premium-lite)
 
-- [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
-- [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
-- [kobi](https://github.com/niuhuan/kobi)
-- [aniyomi](https://github.com/aniyomiorg/aniyomi)
-- [any-reader](https://github.com/aooiuu/any-reader)
-- [miru-app](https://github.com/miru-project/miru-app)
-- [全是漫画](https://github.com/hongchacha/cartoon)
+Navicat 推出免费精简版—— `Navicat Premium Lite`：
 
-更多去周刊网站检索漫画关键词👉[周刊漫画项目推荐](https://weekly.howie6879.com/?q=%E6%BC%AB%E7%94%BB)。 
+![navicat-premium-lite](https://img.fre123.com/i/2024/07/12/6690fb8d98f34.jpg) 
 
-### [marktext](https://github.com/marktext/marktext)
+### [youtube-music](https://github.com/th-ch/youtube-music)
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+一个 `YouTube Music` 桌面应用程序，提供类似原生界面的 `YouTube Music` 体验，基于 Electron 构建。
 
-![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
+该应用集成了多种插件，包括广告屏蔽器、下载器以及其他增强功能。
 
-### [Dashboard](https://github.com/leon-kfd/Dashboard)
+- 广告拦截和下载：内置广告拦截器，阻止所有广告和跟踪；支持下载音乐（如 MP3、Opus 格式）。
+- 自定义插件：提供 31 个插件，例如 Discord 富存在、音频压缩、专辑颜色主题等，用户可一键启用或禁用。
+- 跨平台支持：可在 Windows（提供安装版和便携版）、macOS 和 Linux（提供 AppImage、deb 等）上运行。
 
-开源的浏览器插件，用于自定义你的浏览器启动页：
-
-![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
+![youtube-music](https://images-1252557999.file.myqcloud.com/uPic/Zzzdlh.png) 
 
 ## 👀 资料 
 
-### [Awesome-LLM-Post-training](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training)
+### [汉字激光照排小史](https://github.com/chenshuo/typeset/blob/master/wangxuan-history.pdf)
 
-一个专门收集和研究大型语言模型（LLM）后训练方法论的资源库，包括论文、代码实现、基准测试和社区资源。该资源库涵盖了从基础研究到实际应用的各个方面，包括大语言模型的 reasoning 能力、强化学习、测试时间扩展方法等。
+一份 20 多页的笔记《汉字激光照排小史》：
 
-![Awesome-LLM-Post-training](https://images-1252557999.file.myqcloud.com/uPic/afYDaQ.png) 
+![typeset](https://images-1252557999.file.myqcloud.com/uPic/typeset.jpg) 
 
-### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
+### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
 
-互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
+本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
 
-### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
+- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
+- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
 
-C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
+![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
 
-![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
+### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
+
+有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
+
+![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
 
 ## 🕸 网站 
 
-### [openalternative](https://openalternative.co/)
+### [batnoter](https://batnoter.com/)
 
-网站提供了一些项目的开源选择：
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-![openalternative](https://images-1252557999.file.myqcloud.com/uPic/openalternative.jpg) 
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
-### [tinypng](https://tinypng.com/)
+### [stable-doodle](https://clipdrop.co/stable-doodle)
 
-比较受欢迎的图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积。
+`stability AI` 推出的 `AI` 工具, 根据涂鸦和文字描述生成图片, 类似之推荐的 [scribblediffusion.com](https://weekly.howie6879.com/2023/03-06~03-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC082%E6%9C%9F%EF%BC%89.html?h=%E7%94%BB#scribblediffusioncom)，我画了只兔子：
 
-![tinypng](https://images-1252557999.file.myqcloud.com/uPic/8s8ltr.png)
+![stable-doodle](https://images-1252557999.file.myqcloud.com/uPic/stable-doodle.jpg) 
 
-如果你不喜欢在网页上操作，开源社区提供了各种版本的支持：
+### [BRIA-RMBG-1.4](https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4)
 
-- [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac/blob/master/README_ZH.md): Mac客户端
-- [TinyGUI](https://github.com/chenjing1294/TinyGUI): Windows客户端 
+[BRIA.AI](https://huggingface.co/briaai/RMBG-1.4) 下用于移除图片背景的模型，可直接在浏览器使用：
 
-### [webutils](https://www.webutils.app/)
-
-一个提供web小工具的网站，比如：
-
-- 文本比较
-- 图片压缩
-- 图片转换
-
-![webutils](https://images-1252557999.file.myqcloud.com/uPic/ijDiPA.png) 
+![BRIA-RMBG](https://images-1252557999.file.myqcloud.com/uPic/BRIA-RMBG.jpg) 
 
 ## ✍️ 说明
 
