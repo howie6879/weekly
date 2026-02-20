@@ -5,102 +5,104 @@
 
 ## 🎯 项目 
 
-### [openresty-manager](https://github.com/Safe3/openresty-manager)
+### [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
 
-主机管理面板，OpenResty Edge 的开源替代品，它可以让您轻松地安全反向代理在家或互联网上运行的网站，包括访问控制、拒绝服务攻击防护、自动申请并续期免费的SSL证书：
+自建Claude code镜像服务，同时支持Gemini cli、Codex中转，支持多账户切换、自定义API密钥、Claude API、OPENAI兼容格式、能有效规避封号，OAuth集成可快捷添加账号池。
 
-- 支持通过HTTP-01和DNS-01挑战申请免费SSL证书并自动续期
-- 无需了解OpenResty，即可轻松为您的网站创建反向代理
-- 提供了多种强大安全功能，如访问控制、拒绝服务攻击防护等
-- 简化服务器管理，为用户界面友好的终端和文件管理功能
-- 支持基于容器的应用商店功能，大大降低建站和容器管理的难度
+类似项目还有：[yushangxiao/claude2api](https://github.com/yushangxiao/claude2api)。
 
-![openresty-manager](https://images-1252557999.file.myqcloud.com/uPic/4Grbgi.png) 
+这些项目的核心需求是用户想让自己的账号转成 API 让更多人用，网上一些拼车也类似这些，如果有动手能力，可以试试，如果没有，可以去往上买现成的中转站。
 
-### [wallabag](https://github.com/wallabag/wallabag)
+老胡这边也有朋友做，可以加我根据你当前使用的厂商进行推荐，有优惠。
 
-一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
+![claude-relay-service](https://images-1252557999.file.myqcloud.com/uPic/Fw6Rgi.png) 
 
-- 浏览器插件收集网页信息
-- 安卓/IOS/网页端阅读以及管理
+### [deepclaude](https://github.com/getasterisk/deepclaude)
 
-![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
+`Aider` 团队最新研究通过[采用 DeepSeek R1 + Claude 3.5 Sonnet](https://aider.chat/2025/01/24/r1-sonnet.html) 可以实现最好的效果：
 
-### [resume-design](https://github.com/huajian-pro/resume-design)
+![deepclaude-web](https://images-1252557999.file.myqcloud.com/uPic/xFt7fe.png)
 
-一款开源简历设计生成器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据：
+![deepclaude](https://images-1252557999.file.myqcloud.com/uPic/MNsnRO.png)
 
-![91huajian](https://images-1252557999.file.myqcloud.com/uPic/MHN7Rb.jpg) 
+相关资料：
+
+- [R1+Sonnet set SOTA on aider’s polyglot benchmark](https://aider.chat/2025/01/24/r1-sonnet.html)
+- [第三方 Python 实现](https://github.com/ErlichLiu/DeepClaude) 
+
+### [diagrams](https://github.com/mingrammer/diagrams)
+
+用 `Python` 代码绘制云原生架构图：
+
+![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
 
 ## 🤖 软件 
 
-### [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
+### [fideo-live-record](https://github.com/chenfan0/fideo-live-record)
 
-免费开源的安卓漫画阅读器，支持超过500+的资源来源：
+这是一个基于 `React Ffmpeg Electron Shadcn` 的直播录制软件。支持监控直播，可以帮助用户简单便捷对直播进行录制并保存为` MP4` 格式的视频：
 
-![Kotatsu](https://images-1252557999.file.myqcloud.com/uPic/Kotatsu.jpg) 
+![fideo-live-record](https://images-1252557999.file.myqcloud.com/uPic/tCaYMt.png) 
 
-### [Navicat Premium Lite](https://www.navicat.com.cn/download/navicat-premium-lite)
+### [oneAnime](https://github.com/Predidit/oneAnime)
 
-Navicat 推出免费精简版—— `Navicat Premium Lite`：
+一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范：
 
-![navicat-premium-lite](https://img.fre123.com/i/2024/07/12/6690fb8d98f34.jpg) 
+![oneAnime](https://images-1252557999.file.myqcloud.com/uPic/oneAnime.jpg) 
 
-### [youtube-music](https://github.com/th-ch/youtube-music)
+### [Shizuku](https://github.com/RikkaApps/Shizuku)
 
-一个 `YouTube Music` 桌面应用程序，提供类似原生界面的 `YouTube Music` 体验，基于 Electron 构建。
+`Shizuku` 提供了一种新的方法，允许普通应用程序通过一个带有更高权限的 Java 进程，直接使用系统 API。
 
-该应用集成了多种插件，包括广告屏蔽器、下载器以及其他增强功能。
+为部分需要更高权限的应用提供了更高效的系统级接口，并且只需 adb 调试即可开启，这比传统的方法有更多的优势，包括速度更快、更可靠、权限更高。
 
-- 广告拦截和下载：内置广告拦截器，阻止所有广告和跟踪；支持下载音乐（如 MP3、Opus 格式）。
-- 自定义插件：提供 31 个插件，例如 Discord 富存在、音频压缩、专辑颜色主题等，用户可一键启用或禁用。
-- 跨平台支持：可在 Windows（提供安装版和便携版）、macOS 和 Linux（提供 AppImage、deb 等）上运行。
+![Shizuku](https://images-1252557999.file.myqcloud.com/uPic/th0ELp.png)
 
-![youtube-music](https://images-1252557999.file.myqcloud.com/uPic/Zzzdlh.png) 
+相关项目：
+
+- [Dhizuku](https://github.com/iamr0s/Dhizuku)：参考 [Shizuku](https://github.com/RikkaApps/Shizuku) 的设计思想，分享 DeviceOwner (设备所有者) 权限给其余应用，另一种思路，但是生态还需要发展。
+- [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku/)：`Shizuku` 允许普通应用程序在非 Root 设备上使用 ADB 直接使用权限提升的系统 API。本列表汇集了一些已知可利用 Shizuku 功能的应用程序。
+- [ShizuTools](https://github.com/legendsayantan/ShizuTools) 是一个扩展一些常见操作的开源工具项目。 
 
 ## 👀 资料 
 
-### [汉字激光照排小史](https://github.com/chenshuo/typeset/blob/master/wangxuan-history.pdf)
+### [pdai](https://pdai.tech/)
 
-一份 20 多页的笔记《汉字激光照排小史》：
+Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
 
-![typeset](https://images-1252557999.file.myqcloud.com/uPic/typeset.jpg) 
+![pdai](https://images-1252557999.file.myqcloud.com/uPic/8oZW41.png) 
 
-### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
+### [开源软件指南](https://opensource.guide/zh-hans/)
 
-本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
+GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
 
-- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
-- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
-- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
+![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
 
-![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
+### [nlp-with-transformers](https://github.com/nlp-with-transformers)
 
-### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
+书籍《基于Transformers的自然语言处理》的代码仓库：
 
-有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
-
-![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/A6MiF5.jpg) 
 
 ## 🕸 网站 
 
-### [batnoter](https://batnoter.com/)
+### [readecho.cn](https://readecho.cn/)
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+只需几步轻松获取并保存微信读书笔记，自定义你的笔记回顾方式，不错过每一个阅读瞬间，[前端代码开源](https://github.com/mundane799699/readecho-web)：
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+![readecho](https://images-1252557999.file.myqcloud.com/uPic/readecho.jpg) 
 
-### [stable-doodle](https://clipdrop.co/stable-doodle)
+### [screenshot.domains](https://screenshot.domains/)
 
-`stability AI` 推出的 `AI` 工具, 根据涂鸦和文字描述生成图片, 类似之推荐的 [scribblediffusion.com](https://weekly.howie6879.com/2023/03-06~03-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC082%E6%9C%9F%EF%BC%89.html?h=%E7%94%BB#scribblediffusioncom)，我画了只兔子：
+将域名添加到 `URL` 路径中，获取任何网站的截图：
 
-![stable-doodle](https://images-1252557999.file.myqcloud.com/uPic/stable-doodle.jpg) 
+![screenshot](https://images-1252557999.file.myqcloud.com/uPic/XzRlTu.png) 
 
-### [BRIA-RMBG-1.4](https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4)
+### [docsmall](https://docsmall.com/)
 
-[BRIA.AI](https://huggingface.co/briaai/RMBG-1.4) 下用于移除图片背景的模型，可直接在浏览器使用：
+提供一些图片压缩、PDF合并分割小功能的网站：
 
-![BRIA-RMBG](https://images-1252557999.file.myqcloud.com/uPic/BRIA-RMBG.jpg) 
+![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
 
 ## ✍️ 说明
 
