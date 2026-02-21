@@ -5,104 +5,107 @@
 
 ## 🎯 项目 
 
-### [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
+### [daedalOS](https://github.com/DustinBrett/daedalOS)
 
-自建Claude code镜像服务，同时支持Gemini cli、Codex中转，支持多账户切换、自定义API密钥、Claude API、OPENAI兼容格式、能有效规避封号，OAuth集成可快捷添加账号池。
+`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
 
-类似项目还有：[yushangxiao/claude2api](https://github.com/yushangxiao/claude2api)。
+![daedalOS](https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png) 
 
-这些项目的核心需求是用户想让自己的账号转成 API 让更多人用，网上一些拼车也类似这些，如果有动手能力，可以试试，如果没有，可以去往上买现成的中转站。
+### [typora_plugin](https://github.com/obgnail/typora_plugin)
 
-老胡这边也有朋友做，可以加我根据你当前使用的厂商进行推荐，有优惠。
+开源的 `Typora` 插件，功能增强工具，新增了三十多种功能：
 
-![claude-relay-service](https://images-1252557999.file.myqcloud.com/uPic/Fw6Rgi.png) 
+![typora_plugin](https://images-1252557999.file.myqcloud.com/uPic/typora_plugin.jpg) 
 
-### [deepclaude](https://github.com/getasterisk/deepclaude)
+### [agenticSeek](https://github.com/Fosowl/agenticSeek "agenticSeek")
 
-`Aider` 团队最新研究通过[采用 DeepSeek R1 + Claude 3.5 Sonnet](https://aider.chat/2025/01/24/r1-sonnet.html) 可以实现最好的效果：
+一个 100% 本地替代 `Manus AI` 的方案，这款支持语音的 AI 助理能够自主浏览网页、编写代码和规划任务，同时将所有数据保留在您的设备上。专为本地推理模型量身打造，完全在您自己的硬件上运行，确保完全的隐私保护和零云端依赖。
 
-![deepclaude-web](https://images-1252557999.file.myqcloud.com/uPic/xFt7fe.png)
+- 🔒 完全本地化与隐私保护 - 所有功能都在您的设备上运行 — 无云端服务，无数据共享。您的文件、对话和搜索始终保持私密。
+- 🌐 智能网页浏览 - AgenticSeek 能够自主浏览互联网 — 搜索、阅读、提取信息、填写网页表单 — 全程无需人工操作。
+- 💻 自主编码助手 - 需要代码？它可以编写、调试并运行 Python、C、Go、Java 等多种语言的程序 — 全程无需监督。
+- 🧠 智能代理选择 - 您提问，它会自动选择最适合该任务的代理。就像拥有一个随时待命的专家团队。
+- 📋 规划与执行复杂任务 - 从旅行规划到复杂项目 — 它能将大型任务分解为步骤，并利用多个 AI 代理完成工作。
+- 🎙️ 语音功能 - 清晰、快速、未来感十足的语音与语音转文本功能，让您能像科幻电影中一样与您的个人 AI 助手对话。
 
-![deepclaude](https://images-1252557999.file.myqcloud.com/uPic/MNsnRO.png)
-
-相关资料：
-
-- [R1+Sonnet set SOTA on aider’s polyglot benchmark](https://aider.chat/2025/01/24/r1-sonnet.html)
-- [第三方 Python 实现](https://github.com/ErlichLiu/DeepClaude) 
-
-### [diagrams](https://github.com/mingrammer/diagrams)
-
-用 `Python` 代码绘制云原生架构图：
-
-![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
+![agenticSeek](https://images-1252557999.file.myqcloud.com/uPic/7sShIp.png) 
 
 ## 🤖 软件 
 
-### [fideo-live-record](https://github.com/chenfan0/fideo-live-record)
+### [cherry-studio](https://github.com/CherryHQ/cherry-studio)
 
-这是一个基于 `React Ffmpeg Electron Shadcn` 的直播录制软件。支持监控直播，可以帮助用户简单便捷对直播进行录制并保存为` MP4` 格式的视频：
+`Cherry Studio` 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。
 
-![fideo-live-record](https://images-1252557999.file.myqcloud.com/uPic/tCaYMt.png) 
+![cherry-studio](https://images-1252557999.file.myqcloud.com/uPic/v2u7fo.png)
 
-### [oneAnime](https://github.com/Predidit/oneAnime)
+![cherry-studio-feature](https://images-1252557999.file.myqcloud.com/uPic/7o3Iem.png)
 
-一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范：
+好用，冲就对了。 
 
-![oneAnime](https://images-1252557999.file.myqcloud.com/uPic/oneAnime.jpg) 
+### [LiveContainer](https://github.com/LiveContainer/LiveContainer)
 
-### [Shizuku](https://github.com/RikkaApps/Shizuku)
+不用越狱，在  `IOS` 下通过**容器**形式运行，可尝试多开：
 
-`Shizuku` 提供了一种新的方法，允许普通应用程序通过一个带有更高权限的 Java 进程，直接使用系统 API。
+![LiveContainer](https://images-1252557999.file.myqcloud.com/uPic/Fsv3cc.png) 
 
-为部分需要更高权限的应用提供了更高效的系统级接口，并且只需 adb 调试即可开启，这比传统的方法有更多的优势，包括速度更快、更可靠、权限更高。
+### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
 
-![Shizuku](https://images-1252557999.file.myqcloud.com/uPic/th0ELp.png)
+FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
 
-相关项目：
+- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
+- 基于文本的歌单，方便与朋友分享、设备之间同步
+- 提供基于 TCP 的交互控制协议
+- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
+- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
 
-- [Dhizuku](https://github.com/iamr0s/Dhizuku)：参考 [Shizuku](https://github.com/RikkaApps/Shizuku) 的设计思想，分享 DeviceOwner (设备所有者) 权限给其余应用，另一种思路，但是生态还需要发展。
-- [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku/)：`Shizuku` 允许普通应用程序在非 Root 设备上使用 ADB 直接使用权限提升的系统 API。本列表汇集了一些已知可利用 Shizuku 功能的应用程序。
-- [ShizuTools](https://github.com/legendsayantan/ShizuTools) 是一个扩展一些常见操作的开源工具项目。 
+![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
 
 ## 👀 资料 
 
-### [pdai](https://pdai.tech/)
+### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
 
-Java 全栈知识体系，包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
+经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
 
-![pdai](https://images-1252557999.file.myqcloud.com/uPic/8oZW41.png) 
+![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
 
-### [开源软件指南](https://opensource.guide/zh-hans/)
+### [k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)
 
-GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+基于 `Kubernetes(K8S)` 一步步部署成 `PaaS/DevOps`（一套完整的软件研发和部署平台）——教程/学习（实战代码/欢迎讨论/大量注释/操作配图），你将习得部署如：`Kubernetes(K8S)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker` 等：
 
-![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
+![k8s_PaaS](https://images-1252557999.file.myqcloud.com/uPic/k8s_PaaS.png) 
 
-### [nlp-with-transformers](https://github.com/nlp-with-transformers)
+### [anthropics/courses](https://github.com/anthropics/courses "anthropics/courses")
 
-书籍《基于Transformers的自然语言处理》的代码仓库：
+`Anthropic` 的教育课程，目前包含五个课程：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/A6MiF5.jpg) 
+- Anthropic API 基础知识：教授如何与 Claude SDK 合作，包括获取 API 密钥、处理模型参数、编写多模态提示、流式响应等。
+- 提示工程互动教程
+- 教授如何将提示技术应用到复杂的现实世界提示中
+- 教授如何编写评估来测量提示的质量
+- 教授如何在工作流程中成功使用 Claude 的工具 
 
 ## 🕸 网站 
 
-### [readecho.cn](https://readecho.cn/)
+### [trendingpapers](https://trendingpapers.com)
 
-只需几步轻松获取并保存微信读书笔记，自定义你的笔记回顾方式，不错过每一个阅读瞬间，[前端代码开源](https://github.com/mundane799699/readecho-web)：
+类似于 `Github Trending` 的计算机科学论文趋势榜单：
 
-![readecho](https://images-1252557999.file.myqcloud.com/uPic/readecho.jpg) 
+![trendingpapers](https://images-1252557999.file.myqcloud.com/uPic/trendingpapers.jpg) 
 
-### [screenshot.domains](https://screenshot.domains/)
+### [sao.fm](https://sao.fm/)
 
-将域名添加到 `URL` 路径中，获取任何网站的截图：
+一个在线听广播电台的网站：
 
-![screenshot](https://images-1252557999.file.myqcloud.com/uPic/XzRlTu.png) 
+![sao.fm](https://images-1252557999.file.myqcloud.com/uPic/sao.fm.jpg) 
 
-### [docsmall](https://docsmall.com/)
+### [ui.aceternity.com](https://ui.aceternity.com/components)
 
-提供一些图片压缩、PDF合并分割小功能的网站：
+网站包含多种前端动态效果，可以一键复制代码使用，同类网站有：
 
-![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
+- https://uiverse.io/
+- https://www.handsome-css.com/
+
+![aceternity](https://images-1252557999.file.myqcloud.com/uPic/aceternity.jpg) 
 
 ## ✍️ 说明
 
