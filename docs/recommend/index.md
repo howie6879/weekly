@@ -5,107 +5,97 @@
 
 ## 🎯 项目 
 
-### [daedalOS](https://github.com/DustinBrett/daedalOS)
+### [GPTs](https://github.com/linexjlin/GPTs)
 
-`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
+这个仓库收集了 GPTs 商店的的提示词，你可以用 3.5 使用，间接拥有 4 才有的功能，还有个类似的项目：[Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) 
 
-![daedalOS](https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png) 
+### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 
-### [typora_plugin](https://github.com/obgnail/typora_plugin)
+提供多款 SS 规则，拥有强劲的广告过滤功能：
 
-开源的 `Typora` 插件，功能增强工具，新增了三十多种功能：
+![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
 
-![typora_plugin](https://images-1252557999.file.myqcloud.com/uPic/typora_plugin.jpg) 
+### [ml4a](https://github.com/ml4a/ml4a)
 
-### [agenticSeek](https://github.com/Fosowl/agenticSeek "agenticSeek")
+`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
 
-一个 100% 本地替代 `Manus AI` 的方案，这款支持语音的 AI 助理能够自主浏览网页、编写代码和规划任务，同时将所有数据保留在您的设备上。专为本地推理模型量身打造，完全在您自己的硬件上运行，确保完全的隐私保护和零云端依赖。
-
-- 🔒 完全本地化与隐私保护 - 所有功能都在您的设备上运行 — 无云端服务，无数据共享。您的文件、对话和搜索始终保持私密。
-- 🌐 智能网页浏览 - AgenticSeek 能够自主浏览互联网 — 搜索、阅读、提取信息、填写网页表单 — 全程无需人工操作。
-- 💻 自主编码助手 - 需要代码？它可以编写、调试并运行 Python、C、Go、Java 等多种语言的程序 — 全程无需监督。
-- 🧠 智能代理选择 - 您提问，它会自动选择最适合该任务的代理。就像拥有一个随时待命的专家团队。
-- 📋 规划与执行复杂任务 - 从旅行规划到复杂项目 — 它能将大型任务分解为步骤，并利用多个 AI 代理完成工作。
-- 🎙️ 语音功能 - 清晰、快速、未来感十足的语音与语音转文本功能，让您能像科幻电影中一样与您的个人 AI 助手对话。
-
-![agenticSeek](https://images-1252557999.file.myqcloud.com/uPic/7sShIp.png) 
+![ml4a](https://images-1252557999.file.myqcloud.com/uPic/ml4a.jpg) 
 
 ## 🤖 软件 
 
-### [cherry-studio](https://github.com/CherryHQ/cherry-studio)
+### [anx-reader](https://github.com/Anxcye/anx-reader)
 
-`Cherry Studio` 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。
+安读是一款专注于阅读的应用，不包含任何在线推广内容，它可以帮助你更专注于阅读，提高阅读效率：
 
-![cherry-studio](https://images-1252557999.file.myqcloud.com/uPic/v2u7fo.png)
+- 自动记录阅读进度，每次打开可以回到上次的进度。
+- 丰富且可自定义的阅读配色，让您的阅读更舒适。
+- 丰富的阅读设置，包括字号、行间距、字间距等，让阅读更轻松。
+- 随时在书中划线，多种样式和配色，随时回顾。
+- 强大的阅读统计，记录您的每一次阅读。
+- 丰富的阅读笔记功能，让您的阅读更深入。
+- 安读可自定义多种色彩主题，满足您的不同需求。
+- 想在夜晚更舒适的阅读？安读可以适配系统 深/浅 色模式，或手动切换。
+- 安读现已支持多语言（中、英），自动适配系统语言，亦可手动选择。
 
-![cherry-studio-feature](https://images-1252557999.file.myqcloud.com/uPic/7o3Iem.png)
+![anx-reader](https://images-1252557999.file.myqcloud.com/uPic/anx-reader.jpg) 
 
-好用，冲就对了。 
+### [uPic](https://github.com/gee1k/uPic)
 
-### [LiveContainer](https://github.com/LiveContainer/LiveContainer)
+`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
 
-不用越狱，在  `IOS` 下通过**容器**形式运行，可尝试多开：
+我的必备软件：
 
-![LiveContainer](https://images-1252557999.file.myqcloud.com/uPic/Fsv3cc.png) 
+![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
 
-### [FeelUOwn](https://github.com/feeluown/FeelUOwn)
+### [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)
 
-FeelUOwn 是一个稳定、用户友好以及高度可定制的音乐播放器:
+一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制：
 
-- 安装简单，新手友好，默认提供国内各音乐平台插件（网易云、虾米、QQ）
-- 基于文本的歌单，方便与朋友分享、设备之间同步
-- 提供基于 TCP 的交互控制协议
-- 类似  `.vimrc`  和  `.emacs`  的配置文件  `.fuorc`
-- 有友善的开发上手文档，核心模块有较好的文档和测试覆盖
-
-![FeelUOwn](https://images-1252557999.file.myqcloud.com/uPic/FeelUOwn.png) 
+![AlgerMusicPlayer](https://images-1252557999.file.myqcloud.com/uPic/F3RBkY.png) 
 
 ## 👀 资料 
 
-### [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
 
-经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送)，支持epub、mobi、pdf格式，内容分类如下：
+Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
 
-![the-economist-ebooks](https://images-1252557999.file.myqcloud.com/uPic/the-economist-ebooks.jpg) 
+![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
 
-### [k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)
+### [programming-math-science](https://github.com/bobeff/programming-math-science) 
 
-基于 `Kubernetes(K8S)` 一步步部署成 `PaaS/DevOps`（一套完整的软件研发和部署平台）——教程/学习（实战代码/欢迎讨论/大量注释/操作配图），你将习得部署如：`Kubernetes(K8S)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker` 等：
+国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
-![k8s_PaaS](https://images-1252557999.file.myqcloud.com/uPic/k8s_PaaS.png) 
+### [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
 
-### [anthropics/courses](https://github.com/anthropics/courses "anthropics/courses")
+这个项目包含了数据工程师领域需要的一些资料，对于拓展国际视野很有帮助：
 
-`Anthropic` 的教育课程，目前包含五个课程：
+- 书籍课程
+- 社区
+- YouTube 频道等各大平台
+- Newsletters
+- ......
 
-- Anthropic API 基础知识：教授如何与 Claude SDK 合作，包括获取 API 密钥、处理模型参数、编写多模态提示、流式响应等。
-- 提示工程互动教程
-- 教授如何将提示技术应用到复杂的现实世界提示中
-- 教授如何编写评估来测量提示的质量
-- 教授如何在工作流程中成功使用 Claude 的工具 
+![data-engineer-handbook](https://images-1252557999.file.myqcloud.com/uPic/data-engineer-handbook.png) 
 
 ## 🕸 网站 
 
-### [trendingpapers](https://trendingpapers.com)
+### [upstract](https://upstract.com/)
 
-类似于 `Github Trending` 的计算机科学论文趋势榜单：
+比较全面的新闻聚合平台：
 
-![trendingpapers](https://images-1252557999.file.myqcloud.com/uPic/trendingpapers.jpg) 
+![upstract](https://images-1252557999.file.myqcloud.com/uPic/upstract.jpg) 
 
-### [sao.fm](https://sao.fm/)
+### [emojiall](https://www.emojiall.com/)
 
-一个在线听广播电台的网站：
+网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
 
-![sao.fm](https://images-1252557999.file.myqcloud.com/uPic/sao.fm.jpg) 
+![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg) 
 
-### [ui.aceternity.com](https://ui.aceternity.com/components)
+### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
 
-网站包含多种前端动态效果，可以一键复制代码使用，同类网站有：
+一个搜索 git 常用 emoji 的网站:
 
-- https://uiverse.io/
-- https://www.handsome-css.com/
-
-![aceternity](https://images-1252557999.file.myqcloud.com/uPic/aceternity.jpg) 
+![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
 
 ## ✍️ 说明
 
