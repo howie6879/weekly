@@ -5,97 +5,98 @@
 
 ## 🎯 项目 
 
-### [GPTs](https://github.com/linexjlin/GPTs)
+### [ddns-go](https://github.com/jeessy2/ddns-go)
 
-这个仓库收集了 GPTs 商店的的提示词，你可以用 3.5 使用，间接拥有 4 才有的功能，还有个类似的项目：[Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) 
+简单好用的 `DDNS`，自动更新域名解析到公网IP(支持阿里云、腾讯云 `dnspod`、`Cloudflare`、华为云、百度云、`porkbun`)：
 
-### [Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
+![ddns-go](https://images-1252557999.file.myqcloud.com/uPic/ddns-go.png) 
 
-提供多款 SS 规则，拥有强劲的广告过滤功能：
+### [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)
 
-![Shadowrocket-ADBlock-Rules-Forever](https://images-1252557999.file.myqcloud.com/uPic/Shadowrocket-ADBlock-Rules-Forever.png) 
+将 `Github Copilot Chat` 请求转换为 `ChatGPT` 请求，免费使用 `GPT-4` 模型：
 
-### [ml4a](https://github.com/ml4a/ml4a)
+![copilot-gpt4-service](https://images-1252557999.file.myqcloud.com/uPic/copilot-gpt4-service.png) 
 
-`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
+### [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
 
-![ml4a](https://images-1252557999.file.myqcloud.com/uPic/ml4a.jpg) 
+`libretranslate` 是一个免费且开源的机器翻译API项目，完全自主托管。与其他API不同，它不依赖于像谷歌或Azure这样的专有提供商来进行翻译。相反，它的翻译引擎由开源Argos Translate库驱动：
+
+![libretranslate](https://images-1252557999.file.myqcloud.com/uPic/libretranslate.jpg) 
 
 ## 🤖 软件 
 
-### [anx-reader](https://github.com/Anxcye/anx-reader)
+### [BingGPT](https://github.com/dice2o/BingGPT)
 
-安读是一款专注于阅读的应用，不包含任何在线推广内容，它可以帮助你更专注于阅读，提高阅读效率：
+必应 GPT 聊天桌面应用程序：
 
-- 自动记录阅读进度，每次打开可以回到上次的进度。
-- 丰富且可自定义的阅读配色，让您的阅读更舒适。
-- 丰富的阅读设置，包括字号、行间距、字间距等，让阅读更轻松。
-- 随时在书中划线，多种样式和配色，随时回顾。
-- 强大的阅读统计，记录您的每一次阅读。
-- 丰富的阅读笔记功能，让您的阅读更深入。
-- 安读可自定义多种色彩主题，满足您的不同需求。
-- 想在夜晚更舒适的阅读？安读可以适配系统 深/浅 色模式，或手动切换。
-- 安读现已支持多语言（中、英），自动适配系统语言，亦可手动选择。
+![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
 
-![anx-reader](https://images-1252557999.file.myqcloud.com/uPic/anx-reader.jpg) 
+### [PlayCover](https://github.com/PlayCover/PlayCover)
 
-### [uPic](https://github.com/gee1k/uPic)
+让你的 Apple Silicon Mac 能够运行 IOS 游戏和应用：
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+![PlayCover](https://images-1252557999.file.myqcloud.com/uPic/PlayCover.jpg)
 
-我的必备软件：
+源的话推荐：
 
-![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+- https://decrypt.day/library
+- https://ipa.store/
 
-### [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)
+就是有些 APP 偶尔会崩溃。 
 
-一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制：
+### [NetNewsWire](https://netnewswire.com/)
 
-![AlgerMusicPlayer](https://images-1252557999.file.myqcloud.com/uPic/F3RBkY.png) 
+适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
+
+- 支持 Safari 扩展
+- 订阅源下载
+- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
+- 主题设置
+- 多窗口支持
+
+![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
 
 ## 👀 资料 
 
-### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
+### [rust-course](https://github.com/sunface/rust-course)
 
-Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
+> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
 
-![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
+![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
 
-### [programming-math-science](https://github.com/bobeff/programming-math-science) 
+阅读地址见[course.rs](https://course.rs)。 
 
-国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
+### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
 
-### [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
+该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
 
-这个项目包含了数据工程师领域需要的一些资料，对于拓展国际视野很有帮助：
+![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
 
-- 书籍课程
-- 社区
-- YouTube 频道等各大平台
-- Newsletters
-- ......
+### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
 
-![data-engineer-handbook](https://images-1252557999.file.myqcloud.com/uPic/data-engineer-handbook.png) 
+作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
+
+![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
 
 ## 🕸 网站 
 
-### [upstract](https://upstract.com/)
+### [latexlive](https://www.latexlive.com/)
 
-比较全面的新闻聚合平台：
+免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
 
-![upstract](https://images-1252557999.file.myqcloud.com/uPic/upstract.jpg) 
+![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
 
-### [emojiall](https://www.emojiall.com/)
+### [docsmall](https://docsmall.com/)
 
-网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
+提供一些图片压缩、PDF合并分割小功能的网站：
 
-![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg) 
+![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
 
-### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
+### [qrcode-monkey](https://www.qrcode-monkey.com/#)
 
-一个搜索 git 常用 emoji 的网站:
+免费的二维码生成网站：
 
-![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
+![qrcode-monkey](https://images-1252557999.file.myqcloud.com/uPic/qrcode-monkey.jpg) 
 
 ## ✍️ 说明
 
