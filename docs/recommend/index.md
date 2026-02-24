@@ -5,98 +5,106 @@
 
 ## 🎯 项目 
 
-### [ddns-go](https://github.com/jeessy2/ddns-go)
+### [autocorrect](https://github.com/huacnlee/autocorrect)
 
-简单好用的 `DDNS`，自动更新域名解析到公网IP(支持阿里云、腾讯云 `dnspod`、`Cloudflare`、华为云、百度云、`porkbun`)：
+AutoCorrect 是一个基于 Rust 编写的工具，用于「自动纠正」或「检查并建议」文案，给 CJK（中文、日语、韩语）与英文混写的场景，补充正确的空格，纠正单词，同时尝试以安全的方式自动纠正标点符号等等。
 
-![ddns-go](https://images-1252557999.file.myqcloud.com/uPic/ddns-go.png) 
+类似 ESlint、Rubocop、Gofmt 等工具，AutoCorrect 可以用于 CI 环境，它提供 Lint 功能，能便捷的检测出项目中有问题的文案，起到统一规范的作用。
 
-### [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)
+支持各种类型源代码文件，能自动识别文件名，并准确找到字符串、注释做自动纠正。
 
-将 `Github Copilot Chat` 请求转换为 `ChatGPT` 请求，免费使用 `GPT-4` 模型：
+![autocorrect](https://images-1252557999.file.myqcloud.com/uPic/autocorrect.png) 
 
-![copilot-gpt4-service](https://images-1252557999.file.myqcloud.com/uPic/copilot-gpt4-service.png) 
+### [supabase](https://github.com/supabase/supabase)
 
-### [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
+`Supabase` 是一个基于开源工具构建的 `Firebase` 替代品，旨在通过使用企业级的开源技术，提供类似 `Firebase` 的功能：
 
-`libretranslate` 是一个免费且开源的机器翻译API项目，完全自主托管。与其他API不同，它不依赖于像谷歌或Azure这样的专有提供商来进行翻译。相反，它的翻译引擎由开源Argos Translate库驱动：
+![Supabase](https://images-1252557999.file.myqcloud.com/uPic/x0eIys.png) 
 
-![libretranslate](https://images-1252557999.file.myqcloud.com/uPic/libretranslate.jpg) 
+### [markdown-nice](https://github.com/mdnice/markdown-nice)
+
+有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
+
+> 支持主题设计的 Markdown 编辑器，让排版变 Nice
+
+你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
+
+官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
+
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
 
 ## 🤖 软件 
 
-### [BingGPT](https://github.com/dice2o/BingGPT)
+### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
 
-必应 GPT 聊天桌面应用程序：
+根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
 
-![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
+![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
 
-### [PlayCover](https://github.com/PlayCover/PlayCover)
+### [AltTab](https://alt-tab-macos.netlify.app/)
 
-让你的 Apple Silicon Mac 能够运行 IOS 游戏和应用：
+`AltTab`将`Windows`的`Alt-Tab`窗口切换器的电源带到`Mac OS`：
 
-![PlayCover](https://images-1252557999.file.myqcloud.com/uPic/PlayCover.jpg)
+![AltTab](https://images-1252557999.file.myqcloud.com/uPic/6YohNK.jpg) 
 
-源的话推荐：
+### [Plash](https://github.com/sindresorhus/Plash)
 
-- https://decrypt.day/library
-- https://ipa.store/
+将网站变成 Mac 桌面壁纸，支持将多种网站设置为壁纸，这些网站并不局限于图片网站，还可以是新闻、气象等站点：
 
-就是有些 APP 偶尔会崩溃。 
-
-### [NetNewsWire](https://netnewswire.com/)
-
-适用于 `Mac iPad iPhone` 的 `RSS` 阅读客户端：
-
-- 支持 Safari 扩展
-- 订阅源下载
-- 同步：Cloud, Feedbin, Feedly, BazQux, Inoreader, NewsBlur, The Old Reader,  FreshRSS
-- 主题设置
-- 多窗口支持
-
-![NetNewsWire](https://images-1252557999.file.myqcloud.com/uPic/NetNewsWire.jpg) 
+![Plash](https://images-1252557999.file.myqcloud.com/uPic/Plash.jpeg) 
 
 ## 👀 资料 
 
-### [rust-course](https://github.com/sunface/rust-course)
+### [learnprompting.org](https://learnprompting.org/zh-Hans/docs/intro)
 
-> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
+> 如何同人工智能交流，并得到你要的结果。
 
-![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
+随着最近人工智能的不断进步，提示工程这项技能变得越来越重要。本课程会聚焦于如何使用提示工程。你不需要很多机器学习相关的知识。
 
-阅读地址见[course.rs](https://course.rs)。 
+![learnprompting](https://images-1252557999.file.myqcloud.com/uPic/learnprompting.jpg) 
 
-### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+### [Ai迷思录](https://github.com/Acmesec/theAIMythbook)
 
-该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+涵盖了人工智能的基础知识、法律法规、经典人工智能模型、漏洞与攻击、防御方法、安全开发与运维、相关框架、会议讲座以及实践技能等。
 
-![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
+![theAIMythbook](https://images-1252557999.file.myqcloud.com/uPic/lPbVPg.png) 
 
-### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
+### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
 
-作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
+这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
 
-![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
+该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
+
+![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
 
 ## 🕸 网站 
 
-### [latexlive](https://www.latexlive.com/)
+### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
 
-免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
+`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
 
-![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
+- 可视化组件配置栏
+- 随机生成头像，有一定概率触发彩蛋
+- 撤销/还原*更改*
+- 国际化多语言
 
-### [docsmall](https://docsmall.com/)
+![vue-color-avatar](https://images-1252557999.file.myqcloud.com/uPic/n3gXb6.png) 
 
-提供一些图片压缩、PDF合并分割小功能的网站：
+### [apitracker](https://apitracker.io/)
 
-![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
+发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
 
-### [qrcode-monkey](https://www.qrcode-monkey.com/#)
+![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
 
-免费的二维码生成网站：
+### [awesome-chatgpt-prompts](https://prompts.chat/)
 
-![qrcode-monkey](https://images-1252557999.file.myqcloud.com/uPic/qrcode-monkey.jpg) 
+`ChatGPT` 余热不减，一周百万用户果然不是盖的，这个项目总结了 `ChatGPT` 常用姿势：
+
+![prompts](https://images-1252557999.file.myqcloud.com/uPic/prompts.jpg) 
 
 ## ✍️ 说明
 
