@@ -5,127 +5,88 @@
 
 ## 🎯 项目 
 
-### [koishi](https://koishi.chat/zh-CN/)
+### [HTTPie](https://github.com/httpie/httpie)
 
-周刊群友推荐，创建跨平台、可扩展、高性能的机器人，插件丰富，`Koishi` 提供了高度便利的控制台，让你无需基础让你在几分钟之内搭建自己的聊天机器人。
+现代化的HTTP客户端命令行工具：
 
-- 提供在线插件市场，即使没有任何编程基础，也能轻松在控制台中下载安装插件
-- 支持 QQ，Telegram，Discord，飞书等主流聊天平台，支持多账户和跨平台数据互通
-- 随时随地通过控制面板监控运行状态，控制机器人的行为，甚至上号聊天
+![httpie-animation](https://images-1252557999.file.myqcloud.com/uPic/httpie-animation.gif) 
 
-![koishi](https://images-1252557999.file.myqcloud.com/uPic/koishi.jpg) 
+### [bililive-go](https://github.com/hr3lxphr6j/bililive-go)
 
-### [nocobase](https://github.com/nocobase/nocobase)
+`Bililive-go` 是一个支持多种直播平台的直播录制工具：
 
-NocoBase 是一个极易扩展的开源无代码开发平台。 无需编程，使用 NocoBase 搭建自己的协作平台、管理系统，只需要几分钟时间。
+![bililive-go](https://images-1252557999.file.myqcloud.com/uPic/bililive-go.webp) 
 
-![nocobase](https://images-1252557999.file.myqcloud.com/uPic/nocobase.png) 
+### Command2API
 
-### [hoppscotch](https://github.com/hoppscotch/hoppscotch)
+这是一个可以实时获取执行命令结果的脚本，脚本原理就是一个线程开启Web服务，一个线程执行命令，通过全局变量与Web服务共享执行命令的结果。
 
-`Hoppscotch`对标的是`Postman`，相信涉及到后端接口这块大家都对`Postman`非常熟悉，但`Postman`自从收费后，评价就慢慢开始不行了，而且软件也越来越重，我本人也是同感，不然我也没有动机找到`hoppscotch`来替换。
-
-有恶龙就有勇士，有位印度裔小哥`Liyas Thomas`坐不住了，对`Postman`非常不爽，于是他自己开发了`Postwoman`，看这个名字也知道是干嘛的，后面改名为`Hoppscotch`。
-
-开源的魅力就在这里，永远有人做出让大家欢呼的贡献，所以`Hoppscotch`在社区获得非常高的认可度（目前已经30K Star+），其提供了非常丰富的特性，部署也很方便，有兴趣的可以尝试使用看看：
-
-![hoppscotch](https://images-1252557999.file.myqcloud.com/uPic/sPde7J.png) 
+![Command2API](https://images-1252557999.file.myqcloud.com/uPic/mcMhsP.jpg) 
 
 ## 🤖 软件 
 
-### [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
+### [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)
 
-使用 Android 原生开发的电视直播软件：
+一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制：
 
-![mytv-android](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/mytv-android.jpg)
+![AlgerMusicPlayer](https://images-1252557999.file.myqcloud.com/uPic/F3RBkY.png) 
 
-老胡试了不是很稳定，大家可根据地域使用测试。 
+### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
 
-### [Shizuku](https://github.com/RikkaApps/Shizuku)
+一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
 
-`Shizuku` 提供了一种新的方法，允许普通应用程序通过一个带有更高权限的 Java 进程，直接使用系统 API。
+- 配置app启动默认输入法。
+- app来回切换，保持app切出前的使用的输入法。
+- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
+- 悬浮窗口支持
 
-为部分需要更高权限的应用提供了更高效的系统级接口，并且只需 adb 调试即可开启，这比传统的方法有更多的优势，包括速度更快、更可靠、权限更高。
+![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
 
-![Shizuku](https://images-1252557999.file.myqcloud.com/uPic/th0ELp.png)
+### [linearmouse](https://github.com/linearmouse/linearmouse)
 
-相关项目：
+`Mac` 的鼠标和触控板实用工具，可以为你的鼠标和触控板定制不同的参数：
 
-- [Dhizuku](https://github.com/iamr0s/Dhizuku)：参考 [Shizuku](https://github.com/RikkaApps/Shizuku) 的设计思想，分享 DeviceOwner (设备所有者) 权限给其余应用，另一种思路，但是生态还需要发展。
-- [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku/)：`Shizuku` 允许普通应用程序在非 Root 设备上使用 ADB 直接使用权限提升的系统 API。本列表汇集了一些已知可利用 Shizuku 功能的应用程序。
-- [ShizuTools](https://github.com/legendsayantan/ShizuTools) 是一个扩展一些常见操作的开源工具项目。 
-
-### [Raptor](https://github.com/InfpHub/Raptor)
-
-使用 `Qt` 和 `C++` 构建的低内存、小而美的第三方阿里云盘 `Windows` 桌面应用客户端🚀
-
-- 🧬 用户 - 持久化登录，多用户登录，多用户切换
-- 📉 文件（夹） - 创建/多级创建文件夹/重命名/搜索
-- 💅 文件（夹） - 移动/复制
-- ✅ 文件（夹） - 上传/下载/唤起第三方下载器下载
-- 🎪 视频 - MPV/VLC/PotPlayer
-- 💸 分享 - 创建分享/导入分享
-- 🦹🏻‍♀️ 秒传 - 创建秒传/导入秒传
-- ⭐️ 收藏 - 收藏/取消收藏/搜索
-- 🕵️‍♂️ 回收站 - 清空/删除/恢复
-- 📚 Plus - 跨网盘文件复制
-- 🏅 UI - 可自由修改的字体，图标与主题 
+![linearmouse](https://images-1252557999.file.myqcloud.com/uPic/linearmouse.jpg) 
 
 ## 👀 资料 
 
-### [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
+### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
 
-《Anthropic Cookbook》提供了旨在帮助开发人员与Claude一起构建的代码和指南，提供可复制的代码片段，您可以轻松地将其集成到自己的项目中。 
+一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
 
-### [meetup](https://github.com/baiyutang/meetup)
+![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
 
-【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
+### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
 
-![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
+《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
 
-### [Web Development History](https://webdevelopmenthistory.com/index/)
+![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
 
-`Web` 开发发展史文章系列：
+### [高并发的哲学原理](https://github.com/johnlui/PPHC)
 
-![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
+![banner](https://images-1252557999.file.myqcloud.com/uPic/banner.jpg)
+
+`PPHC` 将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCI-E 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。 
 
 ## 🕸 网站 
 
-### [grep.app](https://grep.app/)
+### [animatedknots](https://www.animatedknots.com/)
 
-从 50 万个开源仓库中搜索你需要的代码片段，搜索速度很快：
+各种给绳子打结的姿势都可以在这里找到：
 
-![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
+![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
 
-### [designer.microsoft.com](https://designer.microsoft.com/)
+### [红白机游戏盒](https://nes.heheda.top/ "红白机游戏盒")
 
-基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
+在线畅玩经典小游戏：
 
-![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
+![heheda](https://images-1252557999.file.myqcloud.com/uPic/heheda.jpg) 
 
-### [weekly.fre123.com](https://weekly.fre123.com/)
+### [Ben Eater](https://eater.net/)
 
-老胡我周末产出的一个页面，不清楚缘由参考之前写的文章👉[推荐！一份技术周刊RSS大全，总有你需要的](https://mp.weixin.qq.com/s/lW0Uz224MkURjM7Pru8soA)。
+博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
 
-我首先做了个页面收集一些优质的周刊 RSS 源--[https://www.fre123.com/wk](https://www.fre123.com/wk)：
-
-![wk](https://images-1252557999.file.myqcloud.com/uPic/wk.jpg)
-
-最后直接基于这些周刊 RSS 源实现了周刊信息流更新汇总页，我感觉还是有用的，欢迎大家使用：
-
-![weekly_fre123](https://images-1252557999.file.myqcloud.com/uPic/weekly_fre123.jpg)
-
-最后再推荐下各端 RSS 工具软件资源：
-
-| 名称                                                                                                                                                                         | 描述                                                                |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [fluent-reader](https://sourl.cn/6xkd2u)                                                                                                                                     | 我在用的跨平台rss阅读器                                             |
-| [NetNewsWire](https://sourl.cn/ZBzhDA)                                                                                                                                       | 适用于 Mac iPad iPhone 的 RSS 阅读客户端                            |
-| [ReadYou](https://sourl.cn/3YMB2W)                                                                                                                                           | 一个以 Material You 风格呈现的 Android RSS 阅读器                   |
-| [lettura](https://sourl.cn/WaYnJf)                                                                                                                                           | 基于 Tauri 跨平台的桌面 RSS 阅读器                                  |
-| [feed-flow](https://sourl.cn/mPZ9wQ)                                                                                                                                         | FeedFlow 是一款极简主义的 RSS 阅读器，可在 Android、iOS&macOS上使用 |
-| [FreshRSS](https://weekly.howie6879.com/2022/08-15~08-21.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%20%EF%BC%88%E7%AC%AC053%E6%9C%9F%EF%BC%89.html?h=freshrss#freshrss)   | FreshRSS 是一款自由免费的自部署 RSS 订阅器，界面美观                |
-| [ALL-about-RSS](https://weekly.howie6879.com/2021/08-23~08-27.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC002%E6%9C%9F%EF%BC%89.html?h=rss#all-about-rss) | 一份与RSS相关的清单：工具、服务、社区和教程                         | 
+![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
 
 ## ✍️ 说明
 
