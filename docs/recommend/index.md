@@ -5,88 +5,103 @@
 
 ## 🎯 项目 
 
-### [HTTPie](https://github.com/httpie/httpie)
+### [immich](https://github.com/immich-app/immich)
 
-现代化的HTTP客户端命令行工具：
+一个开源的高性能自托管照片和视频备份解决方案：
 
-![httpie-animation](https://images-1252557999.file.myqcloud.com/uPic/httpie-animation.gif) 
+![immich](https://images-1252557999.file.myqcloud.com/uPic/immich.jpg) 
 
-### [bililive-go](https://github.com/hr3lxphr6j/bililive-go)
+### [samila](https://github.com/sepandhaghighi/samila)
 
-`Bililive-go` 是一个支持多种直播平台的直播录制工具：
+艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
 
-![bililive-go](https://images-1252557999.file.myqcloud.com/uPic/bililive-go.webp) 
+![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
 
-### Command2API
+### [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
 
-这是一个可以实时获取执行命令结果的脚本，脚本原理就是一个线程开启Web服务，一个线程执行命令，通过全局变量与Web服务共享执行命令的结果。
+最近在开发一款微信小程序，第一次上手，发现还是很有意思的。这个项目收集了小程序开发的方方面面，如：工具、插件、组件、Demo等。
 
-![Command2API](https://images-1252557999.file.myqcloud.com/uPic/mcMhsP.jpg) 
+基本上只要找一个开源的小程序，找一个示例跟着写，哪怕你没基础，也能很快开发一款自己的小程序出来，推荐。 
 
 ## 🤖 软件 
 
-### [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)
+### [box](https://github.com/liu673cn/box)
 
-一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制：
+TVBox 开源版:
 
-![AlgerMusicPlayer](https://images-1252557999.file.myqcloud.com/uPic/F3RBkY.png) 
+- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
+- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
+- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
+- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
+- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
+- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
+- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
+- 配置地址---输入站源---确定即可 URL站源规则
 
-### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
 
-一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
+### [wora](https://github.com/hiaaryan/wora/)
 
-- 配置app启动默认输入法。
-- app来回切换，保持app切出前的使用的输入法。
-- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
-- 悬浮窗口支持
+开源无损音乐播放器应用。它支持管理播放列表、流式播放多种音乐格式（包括 FLAC、WAV 等），提供命令菜单快速播放，还能显示歌词并拥有优美的用户界面。
 
-![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
+![wora](https://images-1252557999.file.myqcloud.com/uPic/wora.jpg) 
 
-### [linearmouse](https://github.com/linearmouse/linearmouse)
+### [licecap](https://github.com/justinfrankel/licecap)
 
-`Mac` 的鼠标和触控板实用工具，可以为你的鼠标和触控板定制不同的参数：
-
-![linearmouse](https://images-1252557999.file.myqcloud.com/uPic/linearmouse.jpg) 
+LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
 
 ## 👀 资料 
 
-### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
+### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
-一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
+> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
 
-![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
+本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
 
-### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
+![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
 
-《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
+### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
 
-![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
+《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
 
-### [高并发的哲学原理](https://github.com/johnlui/PPHC)
+![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
 
-![banner](https://images-1252557999.file.myqcloud.com/uPic/banner.jpg)
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-`PPHC` 将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCI-E 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。 
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
 ## 🕸 网站 
 
-### [animatedknots](https://www.animatedknots.com/)
+### [FRE321](https://www.fre321.com/)
 
-各种给绳子打结的姿势都可以在这里找到：
+原本 fre123.com 被污染了，所以 301 到新的域名 [https://www.fre321.com](https://www.fre321.com) 一直在用的朋友请收藏下哈，老胡也再次和大家介绍下目前的功能：
 
-![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
+- 首页影视、动漫、软件、电子书、音乐等资源导航
+- 番剧搜索
+- 技术、新闻信息流
+- 周刊聚合页面
+- 新功能持续开发中
 
-### [红白机游戏盒](https://nes.heheda.top/ "红白机游戏盒")
+![FRE321](https://images-1252557999.file.myqcloud.com/uPic/FRE321.jpg) 
 
-在线畅玩经典小游戏：
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
 
-![heheda](https://images-1252557999.file.myqcloud.com/uPic/heheda.jpg) 
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
 
-### [Ben Eater](https://eater.net/)
+![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
 
-博主是个极客，网站里面放了各种教程，比如第一个就是教你怎么用面包板搭建一个八位的`CPU`。
+### [Qwerty Learner](https://qwerty.kaiyi.cool/gallery)
 
-![Xnip2021-08-20_11-59-19](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-20_11-59-19.jpg) 
+这也是一个开源项目，作者将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。
+
+网站提供了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 
+
+目前有两种方式使用这个项目：
+
+- 网站：推荐
+- VS Code插件
+
+![Qwerty](https://images-1252557999.file.myqcloud.com/uPic/tHD4ez.png) 
 
 ## ✍️ 说明
 
