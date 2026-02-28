@@ -5,103 +5,88 @@
 
 ## 🎯 项目 
 
-### [immich](https://github.com/immich-app/immich)
+### [MinerU](https://github.com/opendatalab/MinerU)
 
-一个开源的高性能自托管照片和视频备份解决方案：
+`MinerU` 是一款一站式、开源、高质量的数据提取工具，主要包含以下功能:
 
-![immich](https://images-1252557999.file.myqcloud.com/uPic/immich.jpg) 
+- Magic-PDF PDF文档提取
+- Magic-Doc 网页与电子书提取
 
-### [samila](https://github.com/sepandhaghighi/samila)
+对于有 PDF 转换 MD 需求的朋友可以尝试下：
 
-艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
+![MinerU](https://images-1252557999.file.myqcloud.com/uPic/MinerU.png) 
 
-![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
+### [UpSnap](https://github.com/seriousm4x/UpSnap)
 
-### [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
+`UpSnap` 是一个基于 `SvelteKit、Go & PocketBase` 开发的简单唤醒设备（Wake-on-LAN）`Web` 应用程序，支持自动化定时事件、端口检测、网络扫描发现设备、用户管理、国际化支持、主题选择以及 `Docker` 部署。
 
-最近在开发一款微信小程序，第一次上手，发现还是很有意思的。这个项目收集了小程序开发的方方面面，如：工具、插件、组件、Demo等。
+![UpSnap](https://images-1252557999.file.myqcloud.com/uPic/tzz1z0.png) 
 
-基本上只要找一个开源的小程序，找一个示例跟着写，哪怕你没基础，也能很快开发一款自己的小程序出来，推荐。 
+### [websocketd](https://github.com/joewalnes/websocketd)
+
+将任何使用 `STDIN/STDOUT` 的程序转换为 `WebSocket` 服务器：
+
+![websocketd](https://images-1252557999.file.myqcloud.com/uPic/websocketd.jpg) 
 
 ## 🤖 软件 
 
-### [box](https://github.com/liu673cn/box)
+### [dockit](https://github.com/geek-fun/dockit)
 
-TVBox 开源版:
+一个跨平台的图形用户界面客户端，支持 `Elasticsearch` 和 `Opensearch` 数据库管理。
 
-- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
-- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
-- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
-- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
-- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
-- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
-- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
-- 配置地址---输入站源---确定即可 URL站源规则
+![dockit](https://images-1252557999.file.myqcloud.com/uPic/apAgUR.png) 
 
-![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
+### [Poe Client](https://poe.com/download)
 
-### [wora](https://github.com/hiaaryan/wora/)
+`Poe` 客户端，让你免费体验各种 `GPT & LLM` 机器人的聚合软件，一开始是网页版👉 [poe.com](https://poe.com/)，现在有原生客户端：
 
-开源无损音乐播放器应用。它支持管理播放列表、流式播放多种音乐格式（包括 FLAC、WAV 等），提供命令菜单快速播放，还能显示歌词并拥有优美的用户界面。
+![poe](https://images-1252557999.file.myqcloud.com/uPic/poe.jpg) 
 
-![wora](https://images-1252557999.file.myqcloud.com/uPic/wora.jpg) 
+### [Sucrose](https://github.com/Taiizor/Sucrose)
 
-### [licecap](https://github.com/justinfrankel/licecap)
+`Sucrose` 是一款开源的桌面壁纸引擎，支持轻量和深色主题，适应多屏和各种分辨率，能创建响应媒体和系统状态的动态壁纸，支持自定义主题和从社区下载主题，优化了 `CPU` 和 `GPU` 使用，节能模式可在笔记本电脑上自动暂停壁纸:
 
-LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
+![Sucrose](https://images-1252557999.file.myqcloud.com/uPic/Sucrose.jpg) 
 
 ## 👀 资料 
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+### [Curosor 教程](https://www.lookai.top/cn/cursor/instruction/instruction)
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
+零基础小白 `Cursor` 学习网站：
 
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
+![Curosor](https://images-1252557999.file.myqcloud.com/uPic/YIZShF.png) 
 
-![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
+### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
 
-### [JavaScript 权威指南中英对照](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh)
+《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
 
-《JavaScript 权威指南第七版》中英对照，在线阅读：https://js.okten.cn/
+![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
 
-![JavaScript-The-Definitive-Guide-7th-zh](https://images-1252557999.file.myqcloud.com/uPic/JavaScript-The-Definitive-Guide-7th-zh.jpg) 
+### [promptingguide.ai](https://www.promptingguide.ai/zh)
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
 
 ## 🕸 网站 
 
-### [FRE321](https://www.fre321.com/)
+### [AI 头像生成器](https://ai-headshot-generator.net/cn)
 
-原本 fre123.com 被污染了，所以 301 到新的域名 [https://www.fre321.com](https://www.fre321.com) 一直在用的朋友请收藏下哈，老胡也再次和大家介绍下目前的功能：
+在线创建最佳 AI 头像：
 
-- 首页影视、动漫、软件、电子书、音乐等资源导航
-- 番剧搜索
-- 技术、新闻信息流
-- 周刊聚合页面
-- 新功能持续开发中
+![ai-headshot-generator.net](https://images-1252557999.file.myqcloud.com/uPic/DVnp5s.png) 
 
-![FRE321](https://images-1252557999.file.myqcloud.com/uPic/FRE321.jpg) 
+### [iconfont](https://www.iconfont.cn/)
 
-### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+阿里巴巴矢量图标库：
 
-人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
+![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
 
-![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
+### [bgsub](https://bgsub.cn/webapp)
 
-### [Qwerty Learner](https://qwerty.kaiyi.cool/gallery)
+消除或者替换图像背景，无需上传图像：
 
-这也是一个开源项目，作者将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。
-
-网站提供了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 
-
-目前有两种方式使用这个项目：
-
-- 网站：推荐
-- VS Code插件
-
-![Qwerty](https://images-1252557999.file.myqcloud.com/uPic/tHD4ez.png) 
+![bgsub](https://images-1252557999.file.myqcloud.com/uPic/bgsub.jpg) 
 
 ## ✍️ 说明
 
