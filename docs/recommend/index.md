@@ -5,88 +5,101 @@
 
 ## 🎯 项目 
 
-### [MinerU](https://github.com/opendatalab/MinerU)
+### [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
 
-`MinerU` 是一款一站式、开源、高质量的数据提取工具，主要包含以下功能:
+一款提示词优化器，助力于编写高质量的提示词：
 
-- Magic-PDF PDF文档提取
-- Magic-Doc 网页与电子书提取
+![prompt-optimizer](https://images-1252557999.file.myqcloud.com/uPic/lWZUg2.png) 
 
-对于有 PDF 转换 MD 需求的朋友可以尝试下：
+### [open-webui](https://github.com/open-webui/open-webui)
 
-![MinerU](https://images-1252557999.file.myqcloud.com/uPic/MinerU.png) 
+将 `LLMs` 操作搬到了 `Web`，用户操作界面相当友好，值得体验，API兼容包括Ollama和OpenAI的API。
 
-### [UpSnap](https://github.com/seriousm4x/UpSnap)
+![openwebui](https://images-1252557999.file.myqcloud.com/uPic/openwebui.jpg) 
 
-`UpSnap` 是一个基于 `SvelteKit、Go & PocketBase` 开发的简单唤醒设备（Wake-on-LAN）`Web` 应用程序，支持自动化定时事件、端口检测、网络扫描发现设备、用户管理、国际化支持、主题选择以及 `Docker` 部署。
+### [nn-editor](https://github.com/scarsty/nn-editor)
 
-![UpSnap](https://images-1252557999.file.myqcloud.com/uPic/tzz1z0.png) 
+Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经网络结构的简单编辑，或者某些特殊流程图的编辑。
 
-### [websocketd](https://github.com/joewalnes/websocketd)
-
-将任何使用 `STDIN/STDOUT` 的程序转换为 `WebSocket` 服务器：
-
-![websocketd](https://images-1252557999.file.myqcloud.com/uPic/websocketd.jpg) 
+![nn-editor](https://images-1252557999.file.myqcloud.com/uPic/By0C3O.jpg) 
 
 ## 🤖 软件 
 
-### [dockit](https://github.com/geek-fun/dockit)
+### [ima.copilot](https://ima.qq.com/)
 
-一个跨平台的图形用户界面客户端，支持 `Elasticsearch` 和 `Opensearch` 数据库管理。
+集成了腾讯混元大模型和 `DeepSeek R1` 模型的智能知识库软件，旨在通过智能搜索、阅读、写作助手等功能，提供全新的知识获取和内容创作体验：
 
-![dockit](https://images-1252557999.file.myqcloud.com/uPic/apAgUR.png) 
+![ima.copilot](https://images-1252557999.file.myqcloud.com/uPic/k9Uo6Y.png) 
 
-### [Poe Client](https://poe.com/download)
+### [AFFiNE](https://github.com/toeverything/AFFiNE)
 
-`Poe` 客户端，让你免费体验各种 `GPT & LLM` 机器人的聚合软件，一开始是网页版👉 [poe.com](https://poe.com/)，现在有原生客户端：
+`AFFiNE` 是为创意思考而生的统一知识管理平台，一个注重隐私、本地优先、开源且可立即使用的 `Notion + Miro` 开源替代方案：
 
-![poe](https://images-1252557999.file.myqcloud.com/uPic/poe.jpg) 
+- 同时书写、绘制和计划
+- 任意地方存储查看您的数据
+- 离线优先
+- 简洁直观的设计
+- 具备 `Markdown` 支持的现代区块编辑器
+- 团队协作
+- 多语言支持
+- 插件支持
 
-### [Sucrose](https://github.com/Taiizor/Sucrose)
+支持 `web` & 跨平台访问：
 
-`Sucrose` 是一款开源的桌面壁纸引擎，支持轻量和深色主题，适应多屏和各种分辨率，能创建响应媒体和系统状态的动态壁纸，支持自定义主题和从社区下载主题，优化了 `CPU` 和 `GPU` 使用，节能模式可在笔记本电脑上自动暂停壁纸:
+![afine](https://images-1252557999.file.myqcloud.com/uPic/afine.jpg) 
 
-![Sucrose](https://images-1252557999.file.myqcloud.com/uPic/Sucrose.jpg) 
+### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
+
+使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
+
+- 支持下载无水印视频
+- 支持下载某个账号号的所有视频
+
+![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
 
 ## 👀 资料 
 
-### [Curosor 教程](https://www.lookai.top/cn/cursor/instruction/instruction)
+### [programming-math-science](https://github.com/bobeff/programming-math-science) 
 
-零基础小白 `Cursor` 学习网站：
+国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
 
-![Curosor](https://images-1252557999.file.myqcloud.com/uPic/YIZShF.png) 
+### [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
 
-### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
+[《Effective Modern C++ 》](https://cntransgroup.github.io/EffectiveModernCppChinese/)翻译：
 
-《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
+![EffectiveModernCppChinese](https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg) 
 
-![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
+### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
 
-### [promptingguide.ai](https://www.promptingguide.ai/zh)
+`OpenAI` 出品的的深度强化学习教程：
 
-关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
-
-![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
+![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
 
 ## 🕸 网站 
 
-### [AI 头像生成器](https://ai-headshot-generator.net/cn)
+### [vert.sh](https://vert.sh/)
 
-在线创建最佳 AI 头像：
+`VERT.sh` 提供了一个全面的文件转换服务，涵盖图片、音频、文档和视频等多种格式的处理。对于图片，支持的格式包括 PNG、JPEG、JPG、WEBP、GIF 等常见格式，以及 HEIC、ICO、BMP 等更多专业格式。
 
-![ai-headshot-generator.net](https://images-1252557999.file.myqcloud.com/uPic/DVnp5s.png) 
+- 音频方面，支持 MP3、WAV、FLAC、OGG 等主流格式
+- 文档支持 DOCX、XML、DOC 等多种格式
+- 视频转换通常在服务器上进行，支持 MKV、MP4、WEBM 等格式。
 
-### [iconfont](https://www.iconfont.cn/)
+值得注意的是，所有的图片、音频和文档处理都是在本地完成的，确保了用户数据的安全性和隐私性。
 
-阿里巴巴矢量图标库：
+![vert.sh](https://images-1252557999.file.myqcloud.com/uPic/Vclo9P.png) 
 
-![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
+### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
 
-### [bgsub](https://bgsub.cn/webapp)
+@妙才投稿，在线学习git命令的网站：
 
-消除或者替换图像背景，无需上传图像：
+![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
 
-![bgsub](https://images-1252557999.file.myqcloud.com/uPic/bgsub.jpg) 
+### [yesicon.app](https://yesicon.app/)
+
+开源图标库聚合网站：
+
+![yesicon](https://images-1252557999.file.myqcloud.com/uPic/yesicon.jpg) 
 
 ## ✍️ 说明
 
