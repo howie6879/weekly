@@ -5,101 +5,85 @@
 
 ## 🎯 项目 
 
-### [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
+### [certimate](https://github.com/usual2970/certimate)
 
-一款提示词优化器，助力于编写高质量的提示词：
+开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。
 
-![prompt-optimizer](https://images-1252557999.file.myqcloud.com/uPic/lWZUg2.png) 
+![certimate](https://images-1252557999.file.myqcloud.com/uPic/W29Eof.png) 
 
-### [open-webui](https://github.com/open-webui/open-webui)
+### [instantbox](https://github.com/instantbox/instantbox)
 
-将 `LLMs` 操作搬到了 `Web`，用户操作界面相当友好，值得体验，API兼容包括Ollama和OpenAI的API。
+可以在任意浏览器中快速启动临时 `Linux` 系统并提供即时 `webshell` 访问，它可用于演示、教学、灵感迸发时提供干净环境、设备管理、开源项目实验及软件性能测试等多种用途。支持的 Linux 发行版包括 Ubuntu、CentOS、Arch Linux、Debian、Fedora 和 Alpine。
 
-![openwebui](https://images-1252557999.file.myqcloud.com/uPic/openwebui.jpg) 
+![instantbox](https://images-1252557999.file.myqcloud.com/uPic/instantbox.jpg) 
 
-### [nn-editor](https://github.com/scarsty/nn-editor)
+### [markitdown](https://github.com/microsoft/markitdown)
 
-Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经网络结构的简单编辑，或者某些特殊流程图的编辑。
-
-![nn-editor](https://images-1252557999.file.myqcloud.com/uPic/By0C3O.jpg) 
+ 微软出品的格式转化开源项目，它支持将多种文件格式（如 PDF、PowerPoint、Word、Excel、图片、音频、HTML、CSV、JSON、XML 以及 ZIP 文件）转换为 Markdown 格式，便于索引和文本分析等操作。用户可以通过命令行、Python API 或 Docker 容器来使用 MarkItDown。 
 
 ## 🤖 软件 
 
-### [ima.copilot](https://ima.qq.com/)
+### [vnote](https://github.com/vnotex/vnote)
 
-集成了腾讯混元大模型和 `DeepSeek R1` 模型的智能知识库软件，旨在通过智能搜索、阅读、写作助手等功能，提供全新的知识获取和内容创作体验：
+VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
 
-![ima.copilot](https://images-1252557999.file.myqcloud.com/uPic/k9Uo6Y.png) 
+![vnote](https://images-1252557999.file.myqcloud.com/uPic/vnote.png) 
 
-### [AFFiNE](https://github.com/toeverything/AFFiNE)
+### [onlook](https://github.com/onlook-dev/onlook)
 
-`AFFiNE` 是为创意思考而生的统一知识管理平台，一个注重隐私、本地优先、开源且可立即使用的 `Notion + Miro` 开源替代方案：
+> 设计师专属的 Cursor —— 一款开源、视觉优先的代码编辑器
 
-- 同时书写、绘制和计划
-- 任意地方存储查看您的数据
-- 离线优先
-- 简洁直观的设计
-- 具备 `Markdown` 支持的现代区块编辑器
-- 团队协作
-- 多语言支持
-- 插件支持
+一个开源的、基于可视化编辑的代码编辑器，专为设计师而优化，旨在通过 AI 与浏览器内 DOM 的直接编辑功能，让用户能够在代码编辑器中进行设计和编码。
 
-支持 `web` & 跨平台访问：
+使用 AI 在 Next.js + TailwindCSS 中构建网站、原型和设计。通过可视化编辑器直接在浏览器 DOM 中进行编辑。实时用代码进行设计。这是 Bolt.new、Lovable、V0、Replit Agent、Figma Make、Webflow 等产品的开源替代方案。
 
-![afine](https://images-1252557999.file.myqcloud.com/uPic/afine.jpg) 
+![onlook](https://images-1252557999.file.myqcloud.com/uPic/b8LfDN.png) 
 
-### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
+### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
 
-使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
+安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
 
-- 支持下载无水印视频
-- 支持下载某个账号号的所有视频
-
-![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
+![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
 
 ## 👀 资料 
 
-### [programming-math-science](https://github.com/bobeff/programming-math-science) 
+### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
-国外一位开发者近期在 GitHub 上开源的资料仓库：《编程、数学、科学》，里面收录了编程、数学、科学领域相关的工具、书籍、网站等内容，涵盖算法、命令行工具、数据库、设计模式、GUI 编程、操作系统、文本编辑器等分支。 
+微软开源的一份全面的数据科学课程，20个课时，历时10周：
 
-### [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
+![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
 
-[《Effective Modern C++ 》](https://cntransgroup.github.io/EffectiveModernCppChinese/)翻译：
+### [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial)
 
-![EffectiveModernCppChinese](https://images-1252557999.file.myqcloud.com/uPic/EffectiveModernCppChinese.jpg) 
+本教程供新加入 `TANGENT` 实验室的同学入门 NLP 使用，该指南主要提供了 `NLP` 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：
 
-### [openai spinningup](https://spinningup.openai.com/en/latest/user/introduction.html)
+![pku_nlp_tutorial](https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg) 
 
-`OpenAI` 出品的的深度强化学习教程：
+### [Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
 
-![spinningup](https://images-1252557999.file.myqcloud.com/uPic/spinningup.jpg) 
+微软出品的 `GitHub Copilot` 教程：
+
+![Mastering-GitHub-Copilot-for-Paired-Programming](https://images-1252557999.file.myqcloud.com/uPic/KTSuLa.png) 
 
 ## 🕸 网站 
 
-### [vert.sh](https://vert.sh/)
+### [chess.com](https://www.chess.com/)
 
-`VERT.sh` 提供了一个全面的文件转换服务，涵盖图片、音频、文档和视频等多种格式的处理。对于图片，支持的格式包括 PNG、JPEG、JPG、WEBP、GIF 等常见格式，以及 HEIC、ICO、BMP 等更多专业格式。
+在线国际象棋：
 
-- 音频方面，支持 MP3、WAV、FLAC、OGG 等主流格式
-- 文档支持 DOCX、XML、DOC 等多种格式
-- 视频转换通常在服务器上进行，支持 MKV、MP4、WEBM 等格式。
+![chess](https://images-1252557999.file.myqcloud.com/uPic/chess.jpg) 
 
-值得注意的是，所有的图片、音频和文档处理都是在本地完成的，确保了用户数据的安全性和隐私性。
+### [removebg.one](https://removebg.one/)
 
-![vert.sh](https://images-1252557999.file.myqcloud.com/uPic/Vclo9P.png) 
+免费的图片背景去除网页工具：
 
-### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
+![removebg](https://images-1252557999.file.myqcloud.com/uPic/s6r4xu.png) 
 
-@妙才投稿，在线学习git命令的网站：
+### [meiriyiwen](https://meiriyiwen.com/)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
+每天一篇随机散文：
 
-### [yesicon.app](https://yesicon.app/)
-
-开源图标库聚合网站：
-
-![yesicon](https://images-1252557999.file.myqcloud.com/uPic/yesicon.jpg) 
+![meiriyiwen](https://images-1252557999.file.myqcloud.com/uPic/meiriyiwen.jpg) 
 
 ## ✍️ 说明
 
