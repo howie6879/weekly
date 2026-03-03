@@ -5,85 +5,92 @@
 
 ## 🎯 项目 
 
-### [certimate](https://github.com/usual2970/certimate)
+### [50projects50days](https://github.com/bradtraversy/50projects50days)
 
-开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。
+50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
 
-![certimate](https://images-1252557999.file.myqcloud.com/uPic/W29Eof.png) 
+![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
 
-### [instantbox](https://github.com/instantbox/instantbox)
+### [zealot](https://github.com/tryzealot/zealot)
 
-可以在任意浏览器中快速启动临时 `Linux` 系统并提供即时 `webshell` 访问，它可用于演示、教学、灵感迸发时提供干净环境、设备管理、开源项目实验及软件性能测试等多种用途。支持的 Linux 发行版包括 Ubuntu、CentOS、Arch Linux、Debian、Fedora 和 Alpine。
+开源自部署持续集成一切跟应用有关事情，接入任意 CI 系统一切自动化处理，企业多年实战经验，独立部署提供企业打包分发流程、上传应用全套流程方案 En Taro Adun! 🖖
 
-![instantbox](https://images-1252557999.file.myqcloud.com/uPic/instantbox.jpg) 
+- 🌏 多平台应用托管: macOS、iOS、Android（apk/aab）、Windows、Linux 泛平台
+- 📱 测试设备一网打进: 自动同步 iOS 测试设备信息，允许一键注册新设备到苹果开发者
+- 🧑‍💻 丰富开发者套件: 提供 REST API、iOS、Android SDK 以及 fastlane 自动化构建插件
+- 💥 剖析应用内部的秘密: 解读 iOS、Android 应用或 iOS 描述文件的元信息
+- 🚨 内置多种事件通知: 数据可自定义 Income WebHook 到任意通知服务
+- 🗄 多渠道分类管理: 自由划分不同场景不同产品形态的应用渠道管理
+- 🎳 多架构部署: amd86/arm64/armv7 及各种部署方案应有尽有
+- 🔑 第三方登录: 飞书、Gitlab、Google、LDAP 和 OIDC 一键授权
+- 🌑 黑暗模式: 黑夜白昼自由切换
 
-### [markitdown](https://github.com/microsoft/markitdown)
+![zealot](https://images-1252557999.file.myqcloud.com/uPic/zealot.png) 
 
- 微软出品的格式转化开源项目，它支持将多种文件格式（如 PDF、PowerPoint、Word、Excel、图片、音频、HTML、CSV、JSON、XML 以及 ZIP 文件）转换为 Markdown 格式，便于索引和文本分析等操作。用户可以通过命令行、Python API 或 Docker 容器来使用 MarkItDown。 
+### [langmanus](https://github.com/langmanus/langmanus/blob/main/README_zh.md)
+
+`LangManus` 社区驱动的 AI 自动化框架，致力于将语 语言模型与网络搜索、爬虫技术和 Python 代码执行等专业工具相结合。该项目的目标是通过回馈社区，使这些高级技术得以广泛应用于各种场景，同时维护和推进开源社区的发展。
+
+![langmanus](https://images-1252557999.file.myqcloud.com/uPic/JO0vAz.png) 
 
 ## 🤖 软件 
 
-### [vnote](https://github.com/vnotex/vnote)
+### [void](https://github.com/voideditor/void#readme)
 
-VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
+`Void` 是一个开源的 `Cursor` 替代项目：
 
-![vnote](https://images-1252557999.file.myqcloud.com/uPic/vnote.png) 
+![void](https://images-1252557999.file.myqcloud.com/uPic/ewYGFx.png) 
 
-### [onlook](https://github.com/onlook-dev/onlook)
+### [Itsycal](https://www.mowglii.com/itsycal/)
 
-> 设计师专属的 Cursor —— 一款开源、视觉优先的代码编辑器
+一款简单优雅的 Macos 菜单栏日历：
 
-一个开源的、基于可视化编辑的代码编辑器，专为设计师而优化，旨在通过 AI 与浏览器内 DOM 的直接编辑功能，让用户能够在代码编辑器中进行设计和编码。
+![itsycal](https://images-1252557999.file.myqcloud.com/uPic/itsycal.png) 
 
-使用 AI 在 Next.js + TailwindCSS 中构建网站、原型和设计。通过可视化编辑器直接在浏览器 DOM 中进行编辑。实时用代码进行设计。这是 Bolt.new、Lovable、V0、Replit Agent、Figma Make、Webflow 等产品的开源替代方案。
+### [natpass](https://github.com/lwch/natpass)
 
-![onlook](https://images-1252557999.file.myqcloud.com/uPic/b8LfDN.png) 
+新一代 NAT 内网穿透+shell+vnc 工具：
 
-### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
-
-安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
-
-![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
+![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
 
 ## 👀 资料 
 
-### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+### [note-architect](https://zq99299.github.io/note-architect/hc/)
 
-微软开源的一份全面的数据科学课程，20个课时，历时10周：
+高并发系统设计 40 问，一份架构师学习笔记：
 
-![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
+![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
 
-### [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial)
+### [leetcode](https://github.com/doocs/leetcode)
 
-本教程供新加入 `TANGENT` 实验室的同学入门 NLP 使用，该指南主要提供了 `NLP` 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：
+本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
 
-![pku_nlp_tutorial](https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg) 
+### [how-web-works](https://github.com/vasanthk/how-web-works)
 
-### [Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
-
-微软出品的 `GitHub Copilot` 教程：
-
-![Mastering-GitHub-Copilot-for-Paired-Programming](https://images-1252557999.file.myqcloud.com/uPic/KTSuLa.png) 
+当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
 
 ## 🕸 网站 
 
-### [chess.com](https://www.chess.com/)
+### [pixel](https://aqeja.github.io/pixel/)
 
-在线国际象棋：
+一个小工具，将你的图片像素化:
 
-![chess](https://images-1252557999.file.myqcloud.com/uPic/chess.jpg) 
+![pixel](https://images-1252557999.file.myqcloud.com/uPic/KfJuhM.png) 
 
-### [removebg.one](https://removebg.one/)
+### [tik.fail](https://tik.fail/browse)
 
-免费的图片背景去除网页工具：
+国内能直接刷TikTok的在线网站，支持搜索和下载：
 
-![removebg](https://images-1252557999.file.myqcloud.com/uPic/s6r4xu.png) 
+![tik_fail](https://images-1252557999.file.myqcloud.com/uPic/tik_fail.jpg) 
 
-### [meiriyiwen](https://meiriyiwen.com/)
+### [tgscan](https://tgscan.xyz/)
 
-每天一篇随机散文：
+免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
 
-![meiriyiwen](https://images-1252557999.file.myqcloud.com/uPic/meiriyiwen.jpg) 
+- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
+- 网页：[tgscan.xyz](https://tgscan.xyz/)
+
+![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
 
 ## ✍️ 说明
 
