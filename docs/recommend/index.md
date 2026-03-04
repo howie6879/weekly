@@ -5,92 +5,98 @@
 
 ## 🎯 项目 
 
-### [50projects50days](https://github.com/bradtraversy/50projects50days)
+### [duf](https://github.com/sigoden/duf)
 
-50多个使用HTML、CSS和JS的小型web项目，包含很多实用的效果实现：
+一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
 
-![50projects50days](https://images-1252557999.file.myqcloud.com/uPic/50projects50days.jpg) 
+- 静态文件伺服
+- 下载目录为 zip 文件
+- 上传文件 /目录 (支持拖拽)
+- 搜索
+- 并发下载，断续下载
+- 权限保护
+- 支持 https
+- 支持 webdav
+- 方便 curl 调用 
 
-### [zealot](https://github.com/tryzealot/zealot)
+### [uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 
-开源自部署持续集成一切跟应用有关事情，接入任意 CI 系统一切自动化处理，企业多年实战经验，独立部署提供企业打包分发流程、上传应用全套流程方案 En Taro Adun! 🖖
+这个项目提供了一个用于过滤 AI 生成内容的大型屏蔽列表，适用于 uBlock Origin & uBlacklist 插件。 
 
-- 🌏 多平台应用托管: macOS、iOS、Android（apk/aab）、Windows、Linux 泛平台
-- 📱 测试设备一网打进: 自动同步 iOS 测试设备信息，允许一键注册新设备到苹果开发者
-- 🧑‍💻 丰富开发者套件: 提供 REST API、iOS、Android SDK 以及 fastlane 自动化构建插件
-- 💥 剖析应用内部的秘密: 解读 iOS、Android 应用或 iOS 描述文件的元信息
-- 🚨 内置多种事件通知: 数据可自定义 Income WebHook 到任意通知服务
-- 🗄 多渠道分类管理: 自由划分不同场景不同产品形态的应用渠道管理
-- 🎳 多架构部署: amd86/arm64/armv7 及各种部署方案应有尽有
-- 🔑 第三方登录: 飞书、Gitlab、Google、LDAP 和 OIDC 一键授权
-- 🌑 黑暗模式: 黑夜白昼自由切换
+### [outline](https://github.com/outline/outline)
 
-![zealot](https://images-1252557999.file.myqcloud.com/uPic/zealot.png) 
+使用 `React &Node.js` 构建的协作知识库，支持团队协作，样式美观，可自建：
 
-### [langmanus](https://github.com/langmanus/langmanus/blob/main/README_zh.md)
-
-`LangManus` 社区驱动的 AI 自动化框架，致力于将语 语言模型与网络搜索、爬虫技术和 Python 代码执行等专业工具相结合。该项目的目标是通过回馈社区，使这些高级技术得以广泛应用于各种场景，同时维护和推进开源社区的发展。
-
-![langmanus](https://images-1252557999.file.myqcloud.com/uPic/JO0vAz.png) 
+![outline](https://images-1252557999.file.myqcloud.com/uPic/outline.jpg) 
 
 ## 🤖 软件 
 
-### [void](https://github.com/voideditor/void#readme)
+### [ambie](https://github.com/jenius-apps/ambie)
 
-`Void` 是一个开源的 `Cursor` 替代项目：
+针对 `Windows` 平台的白噪音应用，挺多自然界声音，可以帮助你提升生产力：
 
-![void](https://images-1252557999.file.myqcloud.com/uPic/ewYGFx.png) 
+![ambie](https://images-1252557999.file.myqcloud.com/uPic/ambie.jpg) 
 
-### [Itsycal](https://www.mowglii.com/itsycal/)
+### [Speechless](https://github.com/meterscao/Speechless)
 
-一款简单优雅的 Macos 菜单栏日历：
+`Speechless` 是一个帮助新浪微博用户，把微博内容导出成 `PDF` 进行本地备份的 `Chrome Extension`：
 
-![itsycal](https://images-1252557999.file.myqcloud.com/uPic/itsycal.png) 
+![Speechless](https://images-1252557999.file.myqcloud.com/uPic/Speechless.jpeg) 
 
-### [natpass](https://github.com/lwch/natpass)
+### [box](https://github.com/liu673cn/box)
 
-新一代 NAT 内网穿透+shell+vnc 工具：
+TVBox 开源版:
 
-![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
+- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
+- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
+- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
+- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
+- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
+- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
+- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
+- 配置地址---输入站源---确定即可 URL站源规则
+
+![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
 
 ## 👀 资料 
 
-### [note-architect](https://zq99299.github.io/note-architect/hc/)
+### [self-llm](https://github.com/datawhalechina/self-llm)
 
-高并发系统设计 40 问，一份架构师学习笔记：
+本项目是一个围绕开源大模型、针对国内初学者、基于 AutoDL 平台的中国宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，让更多的普通学生、研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普通学习者的生活中。
 
-![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
+可以结合 [llm-universe](https://github.com/datawhalechina/llm-universe) 一起看看。 
 
-### [leetcode](https://github.com/doocs/leetcode)
+### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
 
-本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
+重新分类 Leetcode 高频题 2021 版
 
-### [how-web-works](https://github.com/vasanthk/how-web-works)
+- 题目按照面试频率降序排列
+- 增加难度分类，适合从简单开始学习
+- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
 
-当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
+### [Prompt Engineering](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
+
+ `Google` 官方出品的提示工程（`Prompt Engineering`）白皮书，该书系统性介绍了 `Prompt Engineering` 相关技术，包括 `LLMs` 基础知识、提示技巧和诸多最佳实践。 
 
 ## 🕸 网站 
 
-### [pixel](https://aqeja.github.io/pixel/)
+### [shenyandayi](https://www.shenyandayi.com/)
 
-一个小工具，将你的图片像素化:
+深言达意，懂文字更懂你：
 
-![pixel](https://images-1252557999.file.myqcloud.com/uPic/KfJuhM.png) 
+![shenyandayi](https://images-1252557999.file.myqcloud.com/uPic/shenyandayi.jpg) 
 
-### [tik.fail](https://tik.fail/browse)
+### [AI Reading Hub](https://www.aireadinghub.com/ "AI Reading Hub")
 
-国内能直接刷TikTok的在线网站，支持搜索和下载：
+每天精选值得读的 AI 文章：
 
-![tik_fail](https://images-1252557999.file.myqcloud.com/uPic/tik_fail.jpg) 
+![AI Reading Hub](https://images-1252557999.file.myqcloud.com/uPic/YBUidO.png) 
 
-### [tgscan](https://tgscan.xyz/)
+### [pqoqubbw/icons](https://icons.pqoqubbw.dev/)
 
-免费开源的 `Telegram` 搜索：让你轻松找到频道、群组和聊天记录：
+不一样的[开源](https://github.com/pqoqubbw/icons)图标库，让 `Icons` 动起来：
 
-- github：[tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan)
-- 网页：[tgscan.xyz](https://tgscan.xyz/)
-
-![tgscan](https://images-1252557999.file.myqcloud.com/uPic/tgscan.jpg) 
+![pqoqubbw](https://images-1252557999.file.myqcloud.com/uPic/zVA8VP.png) 
 
 ## ✍️ 说明
 
