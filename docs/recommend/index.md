@@ -5,98 +5,87 @@
 
 ## 🎯 项目 
 
-### [duf](https://github.com/sigoden/duf)
+### [Seanium/FeedMe](https://github.com/Seanium/FeedMe)
 
-一款基于 `Rust` 编写的简单文件服务器， 支持静态文件服务、上传、下载、`webdav` 云盘：
+用 AI 重新定义你的 RSS 阅读体验，轻松部署到 `GitHub Pages / Docker`：
 
-- 静态文件伺服
-- 下载目录为 zip 文件
-- 上传文件 /目录 (支持拖拽)
-- 搜索
-- 并发下载，断续下载
-- 权限保护
-- 支持 https
-- 支持 webdav
-- 方便 curl 调用 
+- 希望能够一站式了解各个信息源的新鲜事。又嫌市面上产品太"重"（不想注册登录/下载 APP/启动桌面软件...），一个静态页面正合适（响应式 / 亮暗主题，电脑手机都方便浏览）。
+- 希望能够 TLDR 式地速览，于是做了 AI 摘要。
+- 自由配置 RSS 源、AI 模型、更新频率。
+- 开源、方便 Fork、零成本、轻松自部署。
 
-### [uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+![Seanium/FeedMe](https://images-1252557999.file.myqcloud.com/uPic/ZPhvme.png) 
 
-这个项目提供了一个用于过滤 AI 生成内容的大型屏蔽列表，适用于 uBlock Origin & uBlacklist 插件。 
+### [fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
 
-### [outline](https://github.com/outline/outline)
+微软开源的 `Fluent Emoji` 表情包：
 
-使用 `React &Node.js` 构建的协作知识库，支持团队协作，样式美观，可自建：
+![fluentui-emoji](https://images-1252557999.file.myqcloud.com/uPic/fluentui-emoji.webp) 
 
-![outline](https://images-1252557999.file.myqcloud.com/uPic/outline.jpg) 
+### [streamlit](https://github.com/streamlit/streamlit)
+
+用 `Python` 快速构建数据应用：
+
+![Streamlit_overview](https://images-1252557999.file.myqcloud.com/uPic/Streamlit_overview.gif)
+类似的选择还有 [gradio](https://github.com/gradio-app/gradio)，其更偏向AI模型的web解决方案。 
 
 ## 🤖 软件 
 
-### [ambie](https://github.com/jenius-apps/ambie)
+### [obs-studio](https://github.com/obsproject/obs-studio)
 
-针对 `Windows` 平台的白噪音应用，挺多自然界声音，可以帮助你提升生产力：
+免费开源的专业屏幕录制+视频串流直播软件，包含视频录制、屏幕录像、音频录制、直播推流等功能。
 
-![ambie](https://images-1252557999.file.myqcloud.com/uPic/ambie.jpg) 
+![obs-studio](https://images-1252557999.file.myqcloud.com/uPic/2asRCI.png) 
 
-### [Speechless](https://github.com/meterscao/Speechless)
+### [foliate](https://github.com/johnfactotum/foliate)
 
-`Speechless` 是一个帮助新浪微博用户，把微博内容导出成 `PDF` 进行本地备份的 `Chrome Extension`：
+`Linux` 最佳电子书阅读器：
 
-![Speechless](https://images-1252557999.file.myqcloud.com/uPic/Speechless.jpeg) 
+![foliate](https://images-1252557999.file.myqcloud.com/uPic/BAy1B7.png) 
 
-### [box](https://github.com/liu673cn/box)
+### [FairEmail](https://github.com/M66B/FairEmail)
 
-TVBox 开源版:
+完全开源免费、具有全面功能、面向隐私的邮件App（仅支持安卓）：
 
-- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
-- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
-- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
-- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
-- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
-- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
-- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
-- 配置地址---输入站源---确定即可 URL站源规则
-
-![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
+![FairEmail](https://images-1252557999.file.myqcloud.com/uPic/FairEmail.png) 
 
 ## 👀 资料 
 
-### [self-llm](https://github.com/datawhalechina/self-llm)
+### [C++服务器开发精髓](https://cppguide.cn/pages/92255f/)
 
-本项目是一个围绕开源大模型、针对国内初学者、基于 AutoDL 平台的中国宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，让更多的普通学生、研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普通学习者的生活中。
+开源电子书籍，本书从操作系统原理角度讲解进行C++服务器开发所需掌握的技术栈：
 
-可以结合 [llm-universe](https://github.com/datawhalechina/llm-universe) 一起看看。 
+![cppguide](https://images-1252557999.file.myqcloud.com/uPic/cppguide.jpg) 
 
-### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
+### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
 
-重新分类 Leetcode 高频题 2021 版
+一本开源的专门讲解面试关键路径的书籍：
 
-- 题目按照面试频率降序排列
-- 增加难度分类，适合从简单开始学习
-- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
+![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
 
-### [Prompt Engineering](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
+### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
 
- `Google` 官方出品的提示工程（`Prompt Engineering`）白皮书，该书系统性介绍了 `Prompt Engineering` 相关技术，包括 `LLMs` 基础知识、提示技巧和诸多最佳实践。 
+本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
 
 ## 🕸 网站 
 
-### [shenyandayi](https://www.shenyandayi.com/)
+### [nokiadesignarchive.aalto.fi](https://nokiadesignarchive.aalto.fi/)
 
-深言达意，懂文字更懂你：
+诺基亚(Nokia)设计档案，关于诺基亚从 1992 年至 2014 年的各类设计作品的档案留存：
 
-![shenyandayi](https://images-1252557999.file.myqcloud.com/uPic/shenyandayi.jpg) 
+![nokiadesignarchive](https://images-1252557999.file.myqcloud.com/uPic/VkI5g0.png) 
 
-### [AI Reading Hub](https://www.aireadinghub.com/ "AI Reading Hub")
+### [pixel-me](https://pixel-me.tokyo/en/)
 
-每天精选值得读的 AI 文章：
+将你的头像像素化，质量挺好：
 
-![AI Reading Hub](https://images-1252557999.file.myqcloud.com/uPic/YBUidO.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/gnHdoM.png) 
 
-### [pqoqubbw/icons](https://icons.pqoqubbw.dev/)
+### [datawhale.cn](https://www.datawhale.cn/home)
 
-不一样的[开源](https://github.com/pqoqubbw/icons)图标库，让 `Icons` 动起来：
+`Datawhale` 通过开源学习模式，助力 `AI` 学习者与知识连接，与人连接，与场景连接，推动 `AI` 人才培养:
 
-![pqoqubbw](https://images-1252557999.file.myqcloud.com/uPic/zVA8VP.png) 
+![datawhale](https://images-1252557999.file.myqcloud.com/uPic/plDyMy.png) 
 
 ## ✍️ 说明
 
