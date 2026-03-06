@@ -5,87 +5,95 @@
 
 ## 🎯 项目 
 
-### [Seanium/FeedMe](https://github.com/Seanium/FeedMe)
+### [mesop](https://github.com/google/mesop)
 
-用 AI 重新定义你的 RSS 阅读体验，轻松部署到 `GitHub Pages / Docker`：
+Mesop 是一个基于 Python 的 UI 框架，用于快速构建如演示和内部应用的 Web 应用程序。它提供直观的 UI 编写，支持响应式 UI 编程范式，具有热重载功能和丰富的 IDE 支持。开发者可以通过简洁的 Python 代码构建自定义 UI，无需编写 JavaScript/CSS/HTML。
 
-- 希望能够一站式了解各个信息源的新鲜事。又嫌市面上产品太"重"（不想注册登录/下载 APP/启动桌面软件...），一个静态页面正合适（响应式 / 亮暗主题，电脑手机都方便浏览）。
-- 希望能够 TLDR 式地速览，于是做了 AI 摘要。
-- 自由配置 RSS 源、AI 模型、更新频率。
-- 开源、方便 Fork、零成本、轻松自部署。
+![mesop](https://images-1252557999.file.myqcloud.com/uPic/mesop.jpg)
+类似的 Web&桌面软件框架：
 
-![Seanium/FeedMe](https://images-1252557999.file.myqcloud.com/uPic/ZPhvme.png) 
+- https://github.com/zauberzeug/nicegui
+- https://github.com/pywebio/PyWebIO
+- https://github.com/flet-dev/flet
+- https://github.com/streamlit/streamlit
+- https://github.com/python-eel/Eel
+- https://github.com/kivy/kivy
+- https://github.com/PySimpleGUI/PySimpleGUI
+- https://github.com/r0x0r/pywebview
+- https://github.com/hoffstadt/DearPyGui
+- https://github.com/Textualize/textual 
 
-### [fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
+### [oh-my-rime](https://github.com/Mintimate/oh-my-rime)
 
-微软开源的 `Fluent Emoji` 表情包：
+一套快速初始化开源输入法 `Rime` 的模板方案，跨平台支持 `Win macOS Linux`：
 
-![fluentui-emoji](https://images-1252557999.file.myqcloud.com/uPic/fluentui-emoji.webp) 
+![oh-my-rime](https://images-1252557999.file.myqcloud.com/uPic/oh-my-rime.webp) 
 
-### [streamlit](https://github.com/streamlit/streamlit)
+### [ClipLink](https://github.com/CooperJiang/ClipLink)
 
-用 `Python` 快速构建数据应用：
+`ClipLink` 是一个功能强大的跨平台剪贴板内容同步工具，允许您在不同设备（如电脑和手机）之间通过网页界面共享剪贴板内容。该项目采用前后端分离架构，后端使用 Go 语言构建，数据通过 SQLite 存储并通过网络同步，前端使用 Next.js 和 React 构建。通过内置的编译脚本，可以将前端静态资源嵌入到 Go 二进制文件中，实现前后端一体化部署。
 
-![Streamlit_overview](https://images-1252557999.file.myqcloud.com/uPic/Streamlit_overview.gif)
-类似的选择还有 [gradio](https://github.com/gradio-app/gradio)，其更偏向AI模型的web解决方案。 
+![ClipLink](https://images-1252557999.file.myqcloud.com/uPic/zxHBQZ.png) 
 
 ## 🤖 软件 
 
-### [obs-studio](https://github.com/obsproject/obs-studio)
+### [downkyicore](https://github.com/yaobiao131/downkyicore)
 
-免费开源的专业屏幕录制+视频串流直播软件，包含视频录制、屏幕录像、音频录制、直播推流等功能。
+哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
 
-![obs-studio](https://images-1252557999.file.myqcloud.com/uPic/2asRCI.png) 
+![downkyicore](https://images-1252557999.file.myqcloud.com/uPic/downkyicore.jpg) 
 
-### [foliate](https://github.com/johnfactotum/foliate)
+### [bruno](https://github.com/usebruno/bruno)
 
-`Linux` 最佳电子书阅读器：
+用于探索和测试 `API` 的开源 `IDE`（轻量级替代 `Postman/Insomnia`）：
 
-![foliate](https://images-1252557999.file.myqcloud.com/uPic/BAy1B7.png) 
+![bruno](https://images-1252557999.file.myqcloud.com/uPic/bruno.jpg) 
 
-### [FairEmail](https://github.com/M66B/FairEmail)
+### [keyviz](https://github.com/mulaRahul/keyviz)
 
-完全开源免费、具有全面功能、面向隐私的邮件App（仅支持安卓）：
+`Keyviz` 是一个免费且开源的工具，可以实时可视化您的按键⌨️和🖱️鼠标操作，比较适合录屏按键演示，基于 Flutter 开发，跨平台，颜值也不错：
 
-![FairEmail](https://images-1252557999.file.myqcloud.com/uPic/FairEmail.png) 
+![keyviz](https://images-1252557999.file.myqcloud.com/uPic/keyviz.svg) 
 
 ## 👀 资料 
 
-### [C++服务器开发精髓](https://cppguide.cn/pages/92255f/)
+### [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
 
-开源电子书籍，本书从操作系统原理角度讲解进行C++服务器开发所需掌握的技术栈：
+由 `Microsoft` 提供的教程，旨在帮助初学者通过 10 个课程了解如何构建 AI 代理:
 
-![cppguide](https://images-1252557999.file.myqcloud.com/uPic/cppguide.jpg) 
+![ai-agents-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/iDWOwA.png) 
 
-### [剑指前端 Offer](https://github.com/hzfe/awesome-interview)
+### [php-the-right-way](https://learnku.com/docs/php-the-right-way/PHP8.0)
 
-一本开源的专门讲解面试关键路径的书籍：
+PHP 入门教程，现在这块市场占有越来越少了，新项目应该都用 Go 或者 Python ，有兴趣学习的可以作为教程看看：
 
-![剑指前端Offer](https://images-1252557999.file.myqcloud.com/uPic/%E5%89%91%E6%8C%87%E5%89%8D%E7%AB%AF%20Offer.jpg) 
+![php-the-right-way](https://images-1252557999.file.myqcloud.com/uPic/DKXw5S.png) 
 
-### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+
+![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
 
 ## 🕸 网站 
 
-### [nokiadesignarchive.aalto.fi](https://nokiadesignarchive.aalto.fi/)
+### [chatplugin.top](https://www.chatplugin.top/)
 
-诺基亚(Nokia)设计档案，关于诺基亚从 1992 年至 2014 年的各类设计作品的档案留存：
+`ChatGPT Plugin` 收录网站，并且将插件汉化：
 
-![nokiadesignarchive](https://images-1252557999.file.myqcloud.com/uPic/VkI5g0.png) 
+![chatplugin](https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg) 
 
-### [pixel-me](https://pixel-me.tokyo/en/)
+### [CronTool](https://tool.crontap.com/cronjob-debugger)
 
-将你的头像像素化，质量挺好：
+`Linux Crontab` 可视化网站：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/gnHdoM.png) 
+![crontap](https://images-1252557999.file.myqcloud.com/uPic/crontap.jpg) 
 
-### [datawhale.cn](https://www.datawhale.cn/home)
+### [iconoir](https://iconoir.com/)
 
-`Datawhale` 通过开源学习模式，助力 `AI` 学习者与知识连接，与人连接，与场景连接，推动 `AI` 人才培养:
+开源的SVG图标搜索引擎：
 
-![datawhale](https://images-1252557999.file.myqcloud.com/uPic/plDyMy.png) 
+![iconoir](https://images-1252557999.file.myqcloud.com/uPic/iconoir.jpg) 
 
 ## ✍️ 说明
 
