@@ -5,95 +5,109 @@
 
 ## 🎯 项目 
 
-### [mesop](https://github.com/google/mesop)
+### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
 
-Mesop 是一个基于 Python 的 UI 框架，用于快速构建如演示和内部应用的 Web 应用程序。它提供直观的 UI 编写，支持响应式 UI 编程范式，具有热重载功能和丰富的 IDE 支持。开发者可以通过简洁的 Python 代码构建自定义 UI，无需编写 JavaScript/CSS/HTML。
+基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
 
-![mesop](https://images-1252557999.file.myqcloud.com/uPic/mesop.jpg)
-类似的 Web&桌面软件框架：
+![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
 
-- https://github.com/zauberzeug/nicegui
-- https://github.com/pywebio/PyWebIO
-- https://github.com/flet-dev/flet
-- https://github.com/streamlit/streamlit
-- https://github.com/python-eel/Eel
-- https://github.com/kivy/kivy
-- https://github.com/PySimpleGUI/PySimpleGUI
-- https://github.com/r0x0r/pywebview
-- https://github.com/hoffstadt/DearPyGui
-- https://github.com/Textualize/textual 
+### [stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
 
-### [oh-my-rime](https://github.com/Mintimate/oh-my-rime)
+基于 `Docker` 的一站式 `Stable Diffusion`（最近很火的 AI 文字生成图片的模型）安装包，可提供以下多个 `UI` 可选：
 
-一套快速初始化开源输入法 `Rime` 的模板方案，跨平台支持 `Win macOS Linux`：
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
+- [sygil-webui](https://github.com/Sygil-Dev/sygil-webui)
 
-![oh-my-rime](https://images-1252557999.file.myqcloud.com/uPic/oh-my-rime.webp) 
+![sd_ui_docker](https://images-1252557999.file.myqcloud.com/uPic/sd_ui_docker.jpg) 
 
-### [ClipLink](https://github.com/CooperJiang/ClipLink)
+### [one-api](https://github.com/songquanpeng/one-api)
 
-`ClipLink` 是一个功能强大的跨平台剪贴板内容同步工具，允许您在不同设备（如电脑和手机）之间通过网页界面共享剪贴板内容。该项目采用前后端分离架构，后端使用 Go 语言构建，数据通过 SQLite 存储并通过网络同步，前端使用 Next.js 和 React 构建。通过内置的编译脚本，可以将前端静态资源嵌入到 Go 二进制文件中，实现前后端一体化部署。
+`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
 
-![ClipLink](https://images-1252557999.file.myqcloud.com/uPic/zxHBQZ.png) 
+![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
 
 ## 🤖 软件 
 
-### [downkyicore](https://github.com/yaobiao131/downkyicore)
+### [AniVu](https://github.com/SkyD666/AniVu)
 
-哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
+`AniVu` 是一个集成了 `RSS` 订阅、自动更新、`BitTorrent` 下载和视频播放功能的全能型 `Android` 应用程序：
 
-![downkyicore](https://images-1252557999.file.myqcloud.com/uPic/downkyicore.jpg) 
+- 订阅 RSS、更新 RSS、阅读 RSS
+- 自动更新 RSS 订阅
+- 下载 RSS 文章中的 BT 种子或磁力链接附件（enclosure 标签）
+- 已下载文件做种
+- 播放媒体附件或已下载的媒体文件
+- 更改播放速度、设置音轨、字幕轨道等
+- 双指旋转缩放视频画面、长按视频倍速播放
+- 滑动调整音量、屏幕亮度和播放位置
+- 支持搜索已获取的 RSS 订阅或文章
+- 播放手机中的其他视频
+- 支持自定义 MPV 播放器
+- 支持通过 OPML 导入导出订阅
+- 支持深色模式
 
-### [bruno](https://github.com/usebruno/bruno)
+![AniVu](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-1-4911250770779811003-y.jpg) 
 
-用于探索和测试 `API` 的开源 `IDE`（轻量级替代 `Postman/Insomnia`）：
+### [PetThoughts](https://github.com/liu-ziting/PetThoughts)
 
-![bruno](https://images-1252557999.file.myqcloud.com/uPic/bruno.jpg) 
+【我知道你的宠物在想什么】 是一个基于 Gemini Pro API 构建的图片识别项目，通过上传你宠物的照片，该项目能够智能分析你的宠物的表情和环境，并推测出它们可能在想些什么。
 
-### [keyviz](https://github.com/mulaRahul/keyviz)
+- 图片识别：利用 Gemini-pro-vision 的图像识别技术，能够准确地识别宠物的表情和环境。
+- 表情分析：通过分析宠物的表情 Gemini-pro-vision 可以推测出宠物可能的情绪状态，如开心、惊讶、困惑等。
+- 环境分析：Gemini-pro-vision 还能根据宠物所处的环境，推测出它们可能的活动场景，如户外玩耍、室内休息等。
+- 自然语言处理：结合图像识别和自然语言处理技术，Gemini-pro-vision 可以将宠物的情绪和活动场景转化为可读性高的文字描述。
+- 用户友好界面：提供简洁直观的用户界面，使用户能够轻松上传照片并获取宠物分析结果。
 
-`Keyviz` 是一个免费且开源的工具，可以实时可视化您的按键⌨️和🖱️鼠标操作，比较适合录屏按键演示，基于 Flutter 开发，跨平台，颜值也不错：
+![pt](https://images-1252557999.file.myqcloud.com/uPic/pt.jpeg) 
 
-![keyviz](https://images-1252557999.file.myqcloud.com/uPic/keyviz.svg) 
+### [BlackHole](https://github.com/Sangwan5688/BlackHole)
+
+一个适用于您所有需求的开源音乐播放器应用，高颜值、无广告、免费音乐播放器，拥有歌词、专辑、艺术家、播放列表、定时关闭等功能，支持 `Android、iOS、macOS` 系统：
+
+![BlackHole](https://images-1252557999.file.myqcloud.com/uPic/BlackHole.png)
+![hole](https://images-1252557999.file.myqcloud.com/uPic/hole.jpg) 
 
 ## 👀 资料 
 
-### [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+### [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
-由 `Microsoft` 提供的教程，旨在帮助初学者通过 10 个课程了解如何构建 AI 代理:
+📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
 
-![ai-agents-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/iDWOwA.png) 
+![CS-Notes](https://images-1252557999.file.myqcloud.com/uPic/7aMFrS.png) 
 
-### [php-the-right-way](https://learnku.com/docs/php-the-right-way/PHP8.0)
+### [穷佐罗的Linux书](https://zorrozou.github.io/)
 
-PHP 入门教程，现在这块市场占有越来越少了，新项目应该都用 Go 或者 Python ，有兴趣学习的可以作为教程看看：
+穷佐罗的Linux书，挺不错的一份`Linux`教程。
 
-![php-the-right-way](https://images-1252557999.file.myqcloud.com/uPic/DKXw5S.png) 
+![zorrozou](https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg) 
 
-### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
+### [王慧文的清华产品课笔记](https://pan.quark.cn/s/f48705d07a3f)
 
-这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+美团元老王慧文的清华产品课笔记，涵盖产品、战略、运营、需求、供需关系等多方面内容，阅读地址：
 
-![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
+- [飞书在线](https://nanqiang.feishu.cn/wiki/wikcncDyFTq1agB5UaEZnUGZD4g)
+-  [PDF 下载](https://pan.quark.cn/s/f48705d07a3f) 
 
 ## 🕸 网站 
 
-### [chatplugin.top](https://www.chatplugin.top/)
+### [removebg](https://www.remove.bg/zh)
 
-`ChatGPT Plugin` 收录网站，并且将插件汉化：
+这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
 
-![chatplugin](https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg) 
+![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
 
-### [CronTool](https://tool.crontap.com/cronjob-debugger)
+### [kanmaoxian.online](https://kanmaoxian.online)
 
-`Linux Crontab` 可视化网站：
+基于开源项目 [LibreTV](https://github.com/LibreSpark/LibreTV) 开源项目搭建的影视在线网站，大家默默使用就好，网页打开，输入密码：**kanmaoxian**：
 
-![crontap](https://images-1252557999.file.myqcloud.com/uPic/crontap.jpg) 
+![kanmaoxian](https://images-1252557999.file.myqcloud.com/uPic/YkTBsY.png) 
 
-### [iconoir](https://iconoir.com/)
+### [stable-doodle](https://clipdrop.co/stable-doodle)
 
-开源的SVG图标搜索引擎：
+`stability AI` 推出的 `AI` 工具, 根据涂鸦和文字描述生成图片, 类似之推荐的 [scribblediffusion.com](https://weekly.howie6879.com/2023/03-06~03-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC082%E6%9C%9F%EF%BC%89.html?h=%E7%94%BB#scribblediffusioncom)，我画了只兔子：
 
-![iconoir](https://images-1252557999.file.myqcloud.com/uPic/iconoir.jpg) 
+![stable-doodle](https://images-1252557999.file.myqcloud.com/uPic/stable-doodle.jpg) 
 
 ## ✍️ 说明
 
