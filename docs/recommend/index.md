@@ -5,109 +5,83 @@
 
 ## 🎯 项目 
 
-### [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage)
+### [novu](https://github.com/novuhq/novu)
 
-基于openresty的API网关，支持负载均衡，健康检查，服务熔断，服务限流，waf过滤，黑白名单，动态SSL证书，自定义插件，多级缓存，可视化管理，动态配置，数据统计，数据展示，集群部署：
+这是一个开源的基础设施项目，用于快速搭建通知中心，`Novu` 提供了一个统一的 `API`，使通过多个通道（包括应用内、推送、电子邮件、短信和聊天）发送通知变得简单：
 
-![tlops](https://images-1252557999.file.myqcloud.com/uPic/tlops.jpg) 
+![novu](https://images-1252557999.file.myqcloud.com/uPic/novu.jpg) 
 
-### [stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
+### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
 
-基于 `Docker` 的一站式 `Stable Diffusion`（最近很火的 AI 文字生成图片的模型）安装包，可提供以下多个 `UI` 可选：
+`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
 
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
-- [sygil-webui](https://github.com/Sygil-Dev/sygil-webui)
+![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
 
-![sd_ui_docker](https://images-1252557999.file.myqcloud.com/uPic/sd_ui_docker.jpg) 
+### [btop](https://github.com/aristocratos/btop)
 
-### [one-api](https://github.com/songquanpeng/one-api)
+一款界面酷炫的资源管理器，不过我用htop就够够的了。
 
-`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
-
-![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
+![btop](https://images-1252557999.file.myqcloud.com/uPic/3eoG1g.jpg) 
 
 ## 🤖 软件 
 
-### [AniVu](https://github.com/SkyD666/AniVu)
+### [app_rhyme](https://github.com/canxin121/app_rhyme)
 
-`AniVu` 是一个集成了 `RSS` 订阅、自动更新、`BitTorrent` 下载和视频播放功能的全能型 `Android` 应用程序：
+使用 `Flutter` 和 `Rust` 开发的跨平台自定义音源音乐播放器：
 
-- 订阅 RSS、更新 RSS、阅读 RSS
-- 自动更新 RSS 订阅
-- 下载 RSS 文章中的 BT 种子或磁力链接附件（enclosure 标签）
-- 已下载文件做种
-- 播放媒体附件或已下载的媒体文件
-- 更改播放速度、设置音轨、字幕轨道等
-- 双指旋转缩放视频画面、长按视频倍速播放
-- 滑动调整音量、屏幕亮度和播放位置
-- 支持搜索已获取的 RSS 订阅或文章
-- 播放手机中的其他视频
-- 支持自定义 MPV 播放器
-- 支持通过 OPML 导入导出订阅
-- 支持深色模式
+![app_rhyme](https://images-1252557999.file.myqcloud.com/uPic/hGPRWI.png) 
 
-![AniVu](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-1-4911250770779811003-y.jpg) 
+### [Bili.Uwp](https://github.com/Richasy/Bili.Uwp)
 
-### [PetThoughts](https://github.com/liu-ziting/PetThoughts)
+一款**哔哩哔哩**的第三方应用，使用 `UWP` 框架开发，是原生的 `Windows` 应用，支持 `Windows 10/11` 桌面系统，主打设计和易用性：
 
-【我知道你的宠物在想什么】 是一个基于 Gemini Pro API 构建的图片识别项目，通过上传你宠物的照片，该项目能够智能分析你的宠物的表情和环境，并推测出它们可能在想些什么。
+![Bili.Uwp](https://images-1252557999.file.myqcloud.com/uPic/Bili.Uwp.png) 
 
-- 图片识别：利用 Gemini-pro-vision 的图像识别技术，能够准确地识别宠物的表情和环境。
-- 表情分析：通过分析宠物的表情 Gemini-pro-vision 可以推测出宠物可能的情绪状态，如开心、惊讶、困惑等。
-- 环境分析：Gemini-pro-vision 还能根据宠物所处的环境，推测出它们可能的活动场景，如户外玩耍、室内休息等。
-- 自然语言处理：结合图像识别和自然语言处理技术，Gemini-pro-vision 可以将宠物的情绪和活动场景转化为可读性高的文字描述。
-- 用户友好界面：提供简洁直观的用户界面，使用户能够轻松上传照片并获取宠物分析结果。
+### [FluentHub](https://github.com/FluentHub/FluentHub)
 
-![pt](https://images-1252557999.file.myqcloud.com/uPic/pt.jpeg) 
+界面  `UI` 时尚功能强大的 `Windows GitHub` 客户端：
 
-### [BlackHole](https://github.com/Sangwan5688/BlackHole)
-
-一个适用于您所有需求的开源音乐播放器应用，高颜值、无广告、免费音乐播放器，拥有歌词、专辑、艺术家、播放列表、定时关闭等功能，支持 `Android、iOS、macOS` 系统：
-
-![BlackHole](https://images-1252557999.file.myqcloud.com/uPic/BlackHole.png)
-![hole](https://images-1252557999.file.myqcloud.com/uPic/hole.jpg) 
+![FluentHub](https://images-1252557999.file.myqcloud.com/uPic/FluentHub.png) 
 
 ## 👀 资料 
 
-### [CS-Notes](https://github.com/CyC2018/CS-Notes)
+### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
 
-📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
+吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
 
-![CS-Notes](https://images-1252557999.file.myqcloud.com/uPic/7aMFrS.png) 
+![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
 
-### [穷佐罗的Linux书](https://zorrozou.github.io/)
+### [tuning_playbook_zh_cn](https://github.com/schrodingercatss/tuning_playbook_zh_cn)
 
-穷佐罗的Linux书，挺不错的一份`Linux`教程。
+深度学习调优指南中文版，一本系统地教你将深度学习模型的性能最大化的战术手册：
 
-![zorrozou](https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg) 
+![tuning_playbook_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/tuning_playbook_zh_cn.jpg) 
 
-### [王慧文的清华产品课笔记](https://pan.quark.cn/s/f48705d07a3f)
+### [mastering-bitcoin-3rd](https://github.com/berryjam/mastering-bitcoin-3rd)
 
-美团元老王慧文的清华产品课笔记，涵盖产品、战略、运营、需求、供需关系等多方面内容，阅读地址：
+《精通比特币》第三版翻译：
 
-- [飞书在线](https://nanqiang.feishu.cn/wiki/wikcncDyFTq1agB5UaEZnUGZD4g)
--  [PDF 下载](https://pan.quark.cn/s/f48705d07a3f) 
+![mastering-bitcoin-3rd](https://images-1252557999.file.myqcloud.com/uPic/ZwD0Jl.png) 
 
 ## 🕸 网站 
 
-### [removebg](https://www.remove.bg/zh)
+### [rare-big-deal](https://rarebigdeal.com/)
 
-这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
+一个专门为黑五/网络星期一等活动提供软件和工具优惠的资源库。该资源库汇集了多种类别的产品和服务，包括 macOS 应用、API、浏览器插件、AI 工具、iOS 应用、设计工具、生产力工具、营销工具、SEO 工具、样板文件、学习资源、健康和健身应用、金融工具、邮件列表、专业化服务等：
 
-![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
+![rare-big-deal](https://images-1252557999.file.myqcloud.com/uPic/AepRDr.png) 
 
-### [kanmaoxian.online](https://kanmaoxian.online)
+### [watermark](https://watermark.liumingye.cn/)
 
-基于开源项目 [LibreTV](https://github.com/LibreSpark/LibreTV) 开源项目搭建的影视在线网站，大家默默使用就好，网页打开，输入密码：**kanmaoxian**：
+短视频/图集在线去水印解析：
 
-![kanmaoxian](https://images-1252557999.file.myqcloud.com/uPic/YkTBsY.png) 
+![watermark](https://images-1252557999.file.myqcloud.com/uPic/watermark.jpg) 
 
-### [stable-doodle](https://clipdrop.co/stable-doodle)
+### [BRIA-RMBG-1.4](https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4)
 
-`stability AI` 推出的 `AI` 工具, 根据涂鸦和文字描述生成图片, 类似之推荐的 [scribblediffusion.com](https://weekly.howie6879.com/2023/03-06~03-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC082%E6%9C%9F%EF%BC%89.html?h=%E7%94%BB#scribblediffusioncom)，我画了只兔子：
+[BRIA.AI](https://huggingface.co/briaai/RMBG-1.4) 下用于移除图片背景的模型，可直接在浏览器使用：
 
-![stable-doodle](https://images-1252557999.file.myqcloud.com/uPic/stable-doodle.jpg) 
+![BRIA-RMBG](https://images-1252557999.file.myqcloud.com/uPic/BRIA-RMBG.jpg) 
 
 ## ✍️ 说明
 
