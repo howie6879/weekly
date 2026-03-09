@@ -5,83 +5,89 @@
 
 ## 🎯 项目 
 
-### [novu](https://github.com/novuhq/novu)
+### [spy-search](https://github.com/JasonHonKL/spy-search)
 
-这是一个开源的基础设施项目，用于快速搭建通知中心，`Novu` 提供了一个统一的 `API`，使通过多个通道（包括应用内、推送、电子邮件、短信和聊天）发送通知变得简单：
+`Spy Search` 是一个智能搜索框架，旨在提供比现有网页搜索代理更快速高效的日常搜索体验。相比 `Manus` 等月费 **$200** 的商业解决方案，`Spy Search` 基于开源模型提供经济高效的替代方案，同时保持出色的性能表现。
 
-![novu](https://images-1252557999.file.myqcloud.com/uPic/novu.jpg) 
+![spy-search](https://images-1252557999.file.myqcloud.com/uPic/jQyGNQ.png) 
 
-### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
+### [JD\_tencent\_scf](https://github.com/cweijan/JD_tencent_scf)
 
-`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
+这个项目简化了打京豆的脚本部署流程，每个月能打1500(不确定)左右。 
 
-![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
+### [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
 
-### [btop](https://github.com/aristocratos/btop)
+直播源相关资源汇总 📺 💯 IPTV、M3U，让你不用安装有线电视就可以高清无卡顿的看电视。
 
-一款界面酷炫的资源管理器，不过我用htop就够够的了。
-
-![btop](https://images-1252557999.file.myqcloud.com/uPic/3eoG1g.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/oQ6iZ0.jpg) 
 
 ## 🤖 软件 
 
-### [app_rhyme](https://github.com/canxin121/app_rhyme)
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-使用 `Flutter` 和 `Rust` 开发的跨平台自定义音源音乐播放器：
+`LosslessCut` 是一个强大的跨平台视频/音频编辑工具，旨在通过快速且无损的操作，提供对视频、音频、字幕等媒体文件的剪辑和处理。它支持几乎所有主流视频和音频格式的无损剪切，能够快速提取视频中的精彩片段，而无需重新编码，从而保证画质不降低。此外，它还支持合并、重新排列、添加音轨或字幕、批量处理等功能，非常适合从相机、`GoPro`、无人机等设备中处理大文件。
 
-![app_rhyme](https://images-1252557999.file.myqcloud.com/uPic/hGPRWI.png) 
+特点包括：
+- 支持大多数视频和音频格式的无损剪切
+- 快速多文件工作流程和键盘快捷键操作
+- 支持自定义时间段导出和编辑文件元数据
+- 提供黑场检测、静音检测、场景变化检测等实用工具
 
-### [Bili.Uwp](https://github.com/Richasy/Bili.Uwp)
+`LosslessCut` 可以在不同操作系统上运行，并提供各种可执行文件下载选择，是处理和编辑媒体文件的理想选择。
 
-一款**哔哩哔哩**的第三方应用，使用 `UWP` 框架开发，是原生的 `Windows` 应用，支持 `Windows 10/11` 桌面系统，主打设计和易用性：
+![lossless-cut](https://images-1252557999.file.myqcloud.com/uPic/lossless-cut.jpg) 
 
-![Bili.Uwp](https://images-1252557999.file.myqcloud.com/uPic/Bili.Uwp.png) 
+### [Nuclear](https://github.com/nukeop/nuclear)
 
-### [FluentHub](https://github.com/FluentHub/FluentHub)
+`Nuclear` 是一款完全免费的跨平台音乐流媒体桌面程序，内容来源于互联网，界面UI精美，它专注于音乐本身，非常不错（比较麻烦的还是网络问题）：
 
-界面  `UI` 时尚功能强大的 `Windows GitHub` 客户端：
+![nucler](https://images-1252557999.file.myqcloud.com/uPic/nucler.jpg)
 
-![FluentHub](https://images-1252557999.file.myqcloud.com/uPic/FluentHub.png) 
+项目还在持续开发，我们可以保持期待。 
+
+### [bilibili-manga-downloader](https://github.com/lanyeeee/bilibili-manga-downloader)
+
+一个用于哔哩哔哩漫画的多线程下载器，带图形界面，支持特典下载，下载速度飞快:
+
+![bilibili-manga-downloader](https://images-1252557999.file.myqcloud.com/uPic/ZqukK1.png) 
 
 ## 👀 资料 
 
-### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
+### [awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)
 
-吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
+一个专门收集实用的大型语言模型（LLM）应用示例、教程和食谱的资源库，用于指导开发者使用不同的 AI 框架和工具构建强大的应用程序。从简单的聊天机器人到高级 `AI Agent`，这些项目覆盖了从基础到高级的多种 AI 应用场景。
 
-![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
+![awesome-ai-apps](https://images-1252557999.file.myqcloud.com/uPic/9HwpHf.png) 
 
-### [tuning_playbook_zh_cn](https://github.com/schrodingercatss/tuning_playbook_zh_cn)
+### [llm-course](https://github.com/mlabonne/llm-course)
 
-深度学习调优指南中文版，一本系统地教你将深度学习模型的性能最大化的战术手册：
+与大型语言模型(LLM)相关的笔记本和文章清单：
 
-![tuning_playbook_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/tuning_playbook_zh_cn.jpg) 
+![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
 
-### [mastering-bitcoin-3rd](https://github.com/berryjam/mastering-bitcoin-3rd)
+### [v8-internals](https://github.com/plctlab/v8-internals)
 
-《精通比特币》第三版翻译：
-
-![mastering-bitcoin-3rd](https://images-1252557999.file.myqcloud.com/uPic/ZwD0Jl.png) 
+面向编译器开发人员的V8内部实现文档。 
 
 ## 🕸 网站 
 
-### [rare-big-deal](https://rarebigdeal.com/)
+### [pika](https://pika.style/)
 
-一个专门为黑五/网络星期一等活动提供软件和工具优惠的资源库。该资源库汇集了多种类别的产品和服务，包括 macOS 应用、API、浏览器插件、AI 工具、iOS 应用、设计工具、生产力工具、营销工具、SEO 工具、样板文件、学习资源、健康和健身应用、金融工具、邮件列表、专业化服务等：
+[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
 
-![rare-big-deal](https://images-1252557999.file.myqcloud.com/uPic/AepRDr.png) 
+![pika](https://images-1252557999.file.myqcloud.com/uPic/pika.jpg) 
 
-### [watermark](https://watermark.liumingye.cn/)
+### [huggingface-spaces](https://huggingface.co/spaces)
 
-短视频/图集在线去水印解析：
+`Hugging Face Spaces`  导航。内含 30 个 AI 分类，超 40 万个 Space，支持自然语言搜索功能：
 
-![watermark](https://images-1252557999.file.myqcloud.com/uPic/watermark.jpg) 
+![huggingface-spaces](https://images-1252557999.file.myqcloud.com/uPic/jG93mK.png) 
 
-### [BRIA-RMBG-1.4](https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4)
+### [fviewer](https://www.fviewer.com/zh)
 
-[BRIA.AI](https://huggingface.co/briaai/RMBG-1.4) 下用于移除图片背景的模型，可直接在浏览器使用：
+免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
 
-![BRIA-RMBG](https://images-1252557999.file.myqcloud.com/uPic/BRIA-RMBG.jpg) 
+![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
 
 ## ✍️ 说明
 
