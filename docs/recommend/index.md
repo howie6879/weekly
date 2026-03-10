@@ -5,89 +5,91 @@
 
 ## 🎯 项目 
 
-### [spy-search](https://github.com/JasonHonKL/spy-search)
+### [olmOCR-7B](https://huggingface.co/allenai/olmOCR-7B-0225-preview)
 
-`Spy Search` 是一个智能搜索框架，旨在提供比现有网页搜索代理更快速高效的日常搜索体验。相比 `Manus` 等月费 **$200** 的商业解决方案，`Spy Search` 基于开源模型提供经济高效的替代方案，同时保持出色的性能表现。
+`olmOCR` 在250000页的数据集上微调了`Qwen2-VL-7B-Instruct` 模型，旨在将 `PDF` 和文档图像转换为干净且结构化的纯文本：
 
-![spy-search](https://images-1252557999.file.myqcloud.com/uPic/jQyGNQ.png) 
+![olmOCR](https://img.api123.pro/i/2025/03/15/67d5044a829bd.png) 
 
-### [JD\_tencent\_scf](https://github.com/cweijan/JD_tencent_scf)
+### [crawl4ai](https://github.com/unclecode/crawl4ai)
 
-这个项目简化了打京豆的脚本部署流程，每个月能打1500(不确定)左右。 
+`Crawl4AI` 是一个免费且开源的网络爬虫工具，专为大型语言模型（LLMs）和 AI 应用设计，支持多种输出格式，如 JSON、HTML 和 markdown。它能够同时处理多个 URL，提取媒体标签（图片、音频和视频），以及内外链接和网页元数据。 
 
-### [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
+### [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin)
 
-直播源相关资源汇总 📺 💯 IPTV、M3U，让你不用安装有线电视就可以高清无卡顿的看电视。
+`Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端）：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/oQ6iZ0.jpg) 
+![vue-pure-admin](https://images-1252557999.file.myqcloud.com/uPic/vue-pure-admin.jpg) 
 
 ## 🤖 软件 
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+### [LLMFarm](https://github.com/guinmoon/LLMFarm)
 
-`LosslessCut` 是一个强大的跨平台视频/音频编辑工具，旨在通过快速且无损的操作，提供对视频、音频、字幕等媒体文件的剪辑和处理。它支持几乎所有主流视频和音频格式的无损剪切，能够快速提取视频中的精彩片段，而无需重新编码，从而保证画质不降低。此外，它还支持合并、重新排列、添加音轨或字幕、批量处理等功能，非常适合从相机、`GoPro`、无人机等设备中处理大文件。
+`LLMFarm` 是一款用于与大型语言模型（LLM）配合使用的iOS和MacOS应用程序，它允许您可以使用某些参数加载不同的 LLM：
 
-特点包括：
-- 支持大多数视频和音频格式的无损剪切
-- 快速多文件工作流程和键盘快捷键操作
-- 支持自定义时间段导出和编辑文件元数据
-- 提供黑场检测、静音检测、场景变化检测等实用工具
+![LLMFarm](https://images-1252557999.file.myqcloud.com/uPic/LLMFarm.jpg) 
 
-`LosslessCut` 可以在不同操作系统上运行，并提供各种可执行文件下载选择，是处理和编辑媒体文件的理想选择。
+### [readest](https://github.com/chrox/readest)
 
-![lossless-cut](https://images-1252557999.file.myqcloud.com/uPic/lossless-cut.jpg) 
+`Readest` 是一个现代化、功能丰富的电子书阅读器，旨在为读者提供无缝的跨平台访问体验、强大的工具和直观的界面，以提升阅读体验。
 
-### [Nuclear](https://github.com/nukeop/nuclear)
+![readest](https://images-1252557999.file.myqcloud.com/uPic/v41zIg.png) 
 
-`Nuclear` 是一款完全免费的跨平台音乐流媒体桌面程序，内容来源于互联网，界面UI精美，它专注于音乐本身，非常不错（比较麻烦的还是网络问题）：
+### [AutoTask](https://github.com/xjunz/AutoTask)
 
-![nucler](https://images-1252557999.file.myqcloud.com/uPic/nucler.jpg)
+一款支持 [Shizuku](https://github.com/RikkaApps/Shizuku) 和辅助功能的自动任务工具，本应用专注于帮助您执行自动任务，相比于其他同类产品，本应用具有以下特点：
 
-项目还在持续开发，我们可以保持期待。 
+- 支持多种启动模式（Shizuku和辅助功能）
+- 支持自定义常驻任务任务和一次性任务
+- 支持手势录制，审查布局树等
+- 不需要刻意保活便可常驻后台（两种模式默认系统保活）
+- 省电且占用系统资源较少（事件驱动+协程，执行长时间任务也不阻塞CPU）
+- 代码开源，安全可信
+- Material 3 风格UI，实用美观
 
-### [bilibili-manga-downloader](https://github.com/lanyeeee/bilibili-manga-downloader)
-
-一个用于哔哩哔哩漫画的多线程下载器，带图形界面，支持特典下载，下载速度飞快:
-
-![bilibili-manga-downloader](https://images-1252557999.file.myqcloud.com/uPic/ZqukK1.png) 
+![AutoTask](https://images-1252557999.file.myqcloud.com/uPic/o9SYLa.png) 
 
 ## 👀 资料 
 
-### [awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)
+### [统计学自学指南](https://xuankaiwang.github.io/)
 
-一个专门收集实用的大型语言模型（LLM）应用示例、教程和食谱的资源库，用于指导开发者使用不同的 AI 框架和工具构建强大的应用程序。从简单的聊天机器人到高级 `AI Agent`，这些项目覆盖了从基础到高级的多种 AI 应用场景。
+这是一本统计的自学指南, 也是作者在数院自学生涯的一个纪念：
 
-![awesome-ai-apps](https://images-1252557999.file.myqcloud.com/uPic/9HwpHf.png) 
+![XuankaiWang](https://images-1252557999.file.myqcloud.com/uPic/XuankaiWang.jpg) 
 
-### [llm-course](https://github.com/mlabonne/llm-course)
+### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
 
-与大型语言模型(LLM)相关的笔记本和文章清单：
+阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
 
-![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
+![c](https://images-1252557999.file.myqcloud.com/uPic/4uYTRJ.png) 
 
-### [v8-internals](https://github.com/plctlab/v8-internals)
+### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
 
-面向编译器开发人员的V8内部实现文档。 
+本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
+
+我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
+
+无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
 
 ## 🕸 网站 
 
-### [pika](https://pika.style/)
+### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
 
-[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
+一份新冠预防及治疗指南：
 
-![pika](https://images-1252557999.file.myqcloud.com/uPic/pika.jpg) 
+![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
 
-### [huggingface-spaces](https://huggingface.co/spaces)
+### [huawei-od](https://huawei-od.vercel.app/)
 
-`Hugging Face Spaces`  导航。内含 30 个 AI 分类，超 40 万个 Space，支持自然语言搜索功能：
+牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
 
-![huggingface-spaces](https://images-1252557999.file.myqcloud.com/uPic/jG93mK.png) 
+![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
 
-### [fviewer](https://www.fviewer.com/zh)
+### [fontawesome](https://fontawesome.com/icons/)
 
-免费，在线，免安装，免下载的云文档查看器，共支持12种格式文件。文件格式包括：`AI,PSD,DICOM,SVG,TIFF,VSD,CR2,OFFICE(DOC,XLS,PPT,DOCX,XLSX,PPTX),EPS,XPS,CDR,DJVU,EPUB`
+比较完善全面的图标网站：
 
-![fviewer](https://images-1252557999.file.myqcloud.com/uPic/fviewer.jpg) 
+![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
 
 ## ✍️ 说明
 
