@@ -5,96 +5,99 @@
 
 ## 🎯 项目 
 
-### [WeClone](https://github.com/xming521/WeClone)
+### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
 
-从聊天记录创造数字分身的一站式解决方案：
+AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
 
-- 💫 涵盖打造数字分身的全链路方案，包括聊天数据导出、预处理、模型训练、部署
-- 💬 使用微信聊天记录微调LLM，让大模型有“那味儿”
-- 🎙️ 使用微信语音消息➕0.5B大模型实现高质量声音克隆 👉WeClone-audio
-- 🔗 绑定到微信、QQ、Telegram、企微、飞书机器人，实现自己的数字分身 
+![AI-Writer](https://images-1252557999.file.myqcloud.com/uPic/AI-Writer.jpeg) 
 
-### [musicn](https://github.com/zonemeen/musicn)
+### [pic-smaller](https://github.com/joye61/pic-smaller)
 
-🎵 一个下载高品质音乐的命令行工具，读者 **@云袭** 自荐：
+图小小是一个图片压缩工具，基于 `Vite+React` 技术栈开发，它可以完全取代类似 `TinyPNG` 之类的在线图片压缩工具，且压缩之后视觉表现效果往往更好。但图小小有个更大的优势：通过图小小进行图片压缩完全是基于浏览器本地的，没有任何服务端交互，图片不会上传到远程服务器，所以非常安全，不用担心隐私图片被泄露。
 
-![musicn](https://images-1252557999.file.myqcloud.com/uPic/musicn.gif) 
+![pic-smaller](https://images-1252557999.file.myqcloud.com/uPic/pic-smaller.png) 
 
-### [Seanium/FeedMe](https://github.com/Seanium/FeedMe)
+### [PicImpact](https://github.com/besscroft/PicImpact)
 
-用 AI 重新定义你的 RSS 阅读体验，轻松部署到 `GitHub Pages / Docker`：
+一个摄影师专用的摄影作品展示网站，基于 `Next.js + Hono.js` 开发：
 
-- 希望能够一站式了解各个信息源的新鲜事。又嫌市面上产品太"重"（不想注册登录/下载 APP/启动桌面软件...），一个静态页面正合适（响应式 / 亮暗主题，电脑手机都方便浏览）。
-- 希望能够 TLDR 式地速览，于是做了 AI 摘要。
-- 自由配置 RSS 源、AI 模型、更新频率。
-- 开源、方便 Fork、零成本、轻松自部署。
+- 瀑布流相册展示图片，支持实况照片(Live Photos)，基于 LivePhotosKit JS 开发。
+- 点击图片查看原图，浏览图片信息和 EXIF 信息，支持直链访问。
+- 响应式设计，在 PC 和移动端都有不错的体验，支持暗黑模式。
+- 图片存储兼容 S3 API、Cloudflare R2、AList API。
+- 图片支持绑定标签，并且可通过标签进行交互，筛选标签下所有图片。
+- 支持输出 RSS，可以使用 Follow 订阅，并支持订阅源所有权验证。
+- 支持批量自动化上传，上传图片时会生成 0.3 倍率的压缩图片，以提供加载优化。
+- ...
 
-![Seanium/FeedMe](https://images-1252557999.file.myqcloud.com/uPic/ZPhvme.png) 
+![PicImpact](https://images-1252557999.file.myqcloud.com/uPic/NFu7vG.png) 
 
 ## 🤖 软件 
 
-### [fubukicss-tool](https://github.com/zouhangwithsweet/fubukicss-tool)
+### [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)
 
-解决 `Figma` 设计图查看代码需要升级付费的问题，该项目提供一个浏览器扩展，可以一步获取来自 `Figma` 设计图的 `TailwindCSS/Unocss/CSS` 代码，加速开发：
+一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制：
 
-![fubukicss-tool](https://images-1252557999.file.myqcloud.com/uPic/fubukicss-tool.jpg) 
+![AlgerMusicPlayer](https://images-1252557999.file.myqcloud.com/uPic/F3RBkY.png) 
 
-### [FluentRead](https://github.com/Bistutu/FluentRead)
+### [licecap](https://github.com/justinfrankel/licecap)
 
-一个开源油猴脚本，拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验：
+LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
 
-![FluentRead](https://images-1252557999.file.myqcloud.com/uPic/FluentRead.gif) 
+### [antares](https://github.com/Fabio286/antares)
 
-### [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live)
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-简简单单的看直播，虎牙直播、斗鱼直播、哔哩哔哩直播、抖音直播：
-
-![dart_simple_live](https://images-1252557999.file.myqcloud.com/uPic/Lu8I9B.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
 ## 👀 资料 
 
-### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
+### [go-ast-book](https://github.com/chai2010/go-ast-book)
 
-读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
+《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)
 
-![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
+![go-ast-book](https://images-1252557999.file.myqcloud.com/uPic/MenvcC.png) 
 
-### [sideproject](https://sideproject.guide/)
+### [rust-by-practice](https://github.com/sunface/rust-by-practice)
 
-`Side Project` 指南：
+通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+![](https://images-1252557999.file.myqcloud.com/uPic/f4zLoa.png) 
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+### [统计学自学指南](https://xuankaiwang.github.io/)
 
-### [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
+这是一本统计的自学指南, 也是作者在数院自学生涯的一个纪念：
 
-由 `Microsoft` 提供的教程，旨在帮助初学者通过 10 个课程了解如何构建 AI 代理:
-
-![ai-agents-for-beginners](https://images-1252557999.file.myqcloud.com/uPic/iDWOwA.png) 
+![XuankaiWang](https://images-1252557999.file.myqcloud.com/uPic/XuankaiWang.jpg) 
 
 ## 🕸 网站 
 
-### [识典古籍](https://www.shidianguji.com/)
+### [阳光志愿](https://gaokao.chsi.com.cn/zyck/)
 
-识典古籍 – 古籍在线阅读平台，北大和抖音合作开发的古籍阅读网站：
+家里有参加高考的，可以参考：
 
-![shidianguji](https://images-1252557999.file.myqcloud.com/uPic/shidianguji.jpg) 
+- 院校查询
+- 专业查询
+- 支援参考
+- 心理测评
+- 职业前景
+- 报考指南
 
-### [douyin.wtf](https://douyin.wtf/)
+![zyck](https://images-1252557999.file.myqcloud.com/uPic/zyck.jpg) 
 
-网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
+### [OurMacs](https://ourmacs.com/)
 
-![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
+`Mac Apps` 聚合搜索和免费下载：
 
-### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
+![OurMacs](https://images-1252557999.file.myqcloud.com/uPic/kO572X.png) 
 
-老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
+### [squoosh](https://squoosh.app/)
 
-![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
+免费漂亮的在线图片压缩网站：
+
+![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
+
+其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
 
 ## ✍️ 说明
 
