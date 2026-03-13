@@ -5,99 +5,89 @@
 
 ## 🎯 项目 
 
-### [AI-Writer](https://github.com/BlinkDL/AI-Writer)
+### [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)
 
-AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 。
+一键免费部署你的私人 AutoGPT-Next-Web 网页应用:
 
-![AI-Writer](https://images-1252557999.file.myqcloud.com/uPic/AI-Writer.jpeg) 
+![AutoGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png) 
 
-### [pic-smaller](https://github.com/joye61/pic-smaller)
+### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
 
-图小小是一个图片压缩工具，基于 `Vite+React` 技术栈开发，它可以完全取代类似 `TinyPNG` 之类的在线图片压缩工具，且压缩之后视觉表现效果往往更好。但图小小有个更大的优势：通过图小小进行图片压缩完全是基于浏览器本地的，没有任何服务端交互，图片不会上传到远程服务器，所以非常安全，不用担心隐私图片被泄露。
+一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
 
-![pic-smaller](https://images-1252557999.file.myqcloud.com/uPic/pic-smaller.png) 
+![ikea-low-price](https://images-1252557999.file.myqcloud.com/uPic/ikea-low-price.png) 
 
-### [PicImpact](https://github.com/besscroft/PicImpact)
+### [ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)
 
-一个摄影师专用的摄影作品展示网站，基于 `Next.js + Hono.js` 开发：
+[ComfyUI](https://github.com/comfyanonymous/ComfyUI) 是一个基于节点的 `Stable Diffusion GUI`，你可以通过将不同的块链接在一起来构建图像生成工作流程：
 
-- 瀑布流相册展示图片，支持实况照片(Live Photos)，基于 LivePhotosKit JS 开发。
-- 点击图片查看原图，浏览图片信息和 EXIF 信息，支持直链访问。
-- 响应式设计，在 PC 和移动端都有不错的体验，支持暗黑模式。
-- 图片存储兼容 S3 API、Cloudflare R2、AList API。
-- 图片支持绑定标签，并且可通过标签进行交互，筛选标签下所有图片。
-- 支持输出 RSS，可以使用 Follow 订阅，并支持订阅源所有权验证。
-- 支持批量自动化上传，上传图片时会生成 0.3 倍率的压缩图片，以提供加载优化。
-- ...
+![ComfyUI-Workflows-ZHO](https://images-1252557999.file.myqcloud.com/uPic/ComfyUI-Workflows-ZHO.jpg)
 
-![PicImpact](https://images-1252557999.file.myqcloud.com/uPic/NFu7vG.png) 
+老胡之前也推荐过 [Comflowy](https://www.comflowy.com/zh-CN) 的社区，致力于提供系统成熟的教程和经验文档。 
 
 ## 🤖 软件 
 
-### [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)
+### [kopia](https://github.com/kopia/kopia)
 
-一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制：
+跨平台备份/还原工具，它能够将指定的文件和目录加密压缩后生成快照，然后上传到远程服务器或云存储，实现远程备份数据的功能，开箱即用支持命令行和 `GUI` 两种使用方式：
 
-![AlgerMusicPlayer](https://images-1252557999.file.myqcloud.com/uPic/F3RBkY.png) 
+![kopia](https://images-1252557999.file.myqcloud.com/uPic/kopia.webp) 
 
-### [licecap](https://github.com/justinfrankel/licecap)
+### [jingmo](https://github.com/hefengbao/jingmo)
 
-LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
+『京墨』开源免费的古诗词文（名句）、歇后语、成语、传统节日、绕口令等的阅读 `APP`：
 
-### [antares](https://github.com/Fabio286/antares)
+![jingmo](https://images-1252557999.file.myqcloud.com/uPic/EL9mYu.png) 
 
-Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
+### [legado](https://github.com/gedoor/legado)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
+
+![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
 
 ## 👀 资料 
 
-### [go-ast-book](https://github.com/chai2010/go-ast-book)
+### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
 
-《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)
+作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
 
-![go-ast-book](https://images-1252557999.file.myqcloud.com/uPic/MenvcC.png) 
+![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
 
-### [rust-by-practice](https://github.com/sunface/rust-by-practice)
+### [学习CSS布局](https://zh.learnlayout.com/)
 
-通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者：
+本站教授的是现在广泛使用于网站布局领域的CSS基础：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/f4zLoa.png) 
+![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
 
-### [统计学自学指南](https://xuankaiwang.github.io/)
+### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 
-这是一本统计的自学指南, 也是作者在数院自学生涯的一个纪念：
+本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
 
-![XuankaiWang](https://images-1252557999.file.myqcloud.com/uPic/XuankaiWang.jpg) 
+![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
 
 ## 🕸 网站 
 
-### [阳光志愿](https://gaokao.chsi.com.cn/zyck/)
+### [smartexcel](https://smartexcel.cc/)
 
-家里有参加高考的，可以参考：
+使用 `AI` 在几秒钟内生成 `Excel` 公式的工具。描述自己的需要，即可生成相应的公式。需要登录，每天 有10 个免费积分可以使用:
 
-- 院校查询
-- 专业查询
-- 支援参考
-- 心理测评
-- 职业前景
-- 报考指南
+![smartexcel](https://images-1252557999.file.myqcloud.com/uPic/DXKVRR.png)
 
-![zyck](https://images-1252557999.file.myqcloud.com/uPic/zyck.jpg) 
+开源地址：[smartexcel](https://github.com/weijunext/smart-excel-ai)。 
 
-### [OurMacs](https://ourmacs.com/)
+### [极简番茄](https://t.kuaitu.cc/)
 
-`Mac Apps` 聚合搜索和免费下载：
+极简优雅的番茄时钟软件，适合做屏保：
 
-![OurMacs](https://images-1252557999.file.myqcloud.com/uPic/kO572X.png) 
+![kuaitu](https://images-1252557999.file.myqcloud.com/uPic/kuaitu.jpg) 
 
-### [squoosh](https://squoosh.app/)
+### [SearchEmoji](https://searchemoji.app/)
 
-免费漂亮的在线图片压缩网站：
+`Emoji` 表情搜索网站，点击即可复制，颜值也不错海开源：
 
-![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
-
-其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
+![searchemoji](https://images-1252557999.file.myqcloud.com/uPic/searchemoji.jpeg) 
 
 ## ✍️ 说明
 
