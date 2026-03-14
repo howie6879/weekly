@@ -5,89 +5,110 @@
 
 ## 🎯 项目 
 
-### [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)
+### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
 
-一键免费部署你的私人 AutoGPT-Next-Web 网页应用:
+如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
 
-![AutoGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png) 
+- 教程
+- 软件
+- 工具&服务
+- 社区
+- ......
 
-### [ikea-low-price](https://github.com/Mayandev/ikea-low-price)
+你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
 
-一个宜家低价清单展示项目，数据每周自动同步，网页访问见：[ikea-lp](https://ikea-lp.netlify.app/):
+- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
+- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
 
-![ikea-low-price](https://images-1252557999.file.myqcloud.com/uPic/ikea-low-price.png) 
+![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
 
-### [ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO)
+### [maxun](https://github.com/getmaxun/maxun)
 
-[ComfyUI](https://github.com/comfyanonymous/ComfyUI) 是一个基于节点的 `Stable Diffusion GUI`，你可以通过将不同的块链接在一起来构建图像生成工作流程：
+一个免费、开源的无代码网页数据提取平台，允许用户构建自定义机器人以自动化数据抓取任务，可以很方便地进行web2api：
 
-![ComfyUI-Workflows-ZHO](https://images-1252557999.file.myqcloud.com/uPic/ComfyUI-Workflows-ZHO.jpg)
+![maxun](https://images-1252557999.file.myqcloud.com/uPic/Bkvnhq.png) 
 
-老胡之前也推荐过 [Comflowy](https://www.comflowy.com/zh-CN) 的社区，致力于提供系统成熟的教程和经验文档。 
+### [naive-ui](https://github.com/tusen-ai/naive-ui)
+
+一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
+
+![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
 
 ## 🤖 软件 
 
-### [kopia](https://github.com/kopia/kopia)
+### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
 
-跨平台备份/还原工具，它能够将指定的文件和目录加密压缩后生成快照，然后上传到远程服务器或云存储，实现远程备份数据的功能，开箱即用支持命令行和 `GUI` 两种使用方式：
+> 让每个人都简单方便的使用前沿人工智能技术
 
-![kopia](https://images-1252557999.file.myqcloud.com/uPic/kopia.webp) 
+一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
 
-### [jingmo](https://github.com/hefengbao/jingmo)
+![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
 
-『京墨』开源免费的古诗词文（名句）、歇后语、成语、传统节日、绕口令等的阅读 `APP`：
+### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 
-![jingmo](https://images-1252557999.file.myqcloud.com/uPic/EL9mYu.png) 
+这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
 
-### [legado](https://github.com/gedoor/legado)
+`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
 
-阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
+  
+- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
+  
 
-简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
+![neteasy](https://images-1252557999.file.myqcloud.com/uPic/neteasy.png) 
 
-![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
+### [Dashboard](https://github.com/leon-kfd/Dashboard)
+
+开源的浏览器插件，用于自定义你的浏览器启动页：
+
+![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
 
 ## 👀 资料 
 
-### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
+### [qianguyihao/Web](https://github.com/qianguyihao/Web)
 
-作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
+千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师:
 
-![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
+- 网上的大部分入门教程，都不太适合初学者，本项目争取照顾到每一位前端入门者的同理心。即使你完全不懂前端，甚至不懂编程，通过这个教程，也能让小白入门。
+- 帮助前端同学提供一个精品学习资源和路线，提高学习效率，少走很多弯路。
 
-### [学习CSS布局](https://zh.learnlayout.com/)
+![qianguyihao](https://images-1252557999.file.myqcloud.com/uPic/qianguyihao.jpg)
 
-本站教授的是现在广泛使用于网站布局领域的CSS基础：
+可以当做前端字典，随时翻阅，查漏补缺，在线观看地址：[web.qianguyihao.com](https://web.qianguyihao.com/)。 
 
-![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
+### [bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain)
 
-### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
+它为希望构建自己的基于检索增强生成（RAG）应用程序的开发者提供了一系列的资源和指导。该项目涵盖了从基础到高级的 RAG 实现，包括多查询、自定义 RAG 管道、高级检索和重排技术。仓库中包含了一系列的教程笔记本，这些笔记本详细介绍了 RAG 架构的设置、数据预处理、嵌入生成、向量存储、多查询技术、逻辑和语义路由、查询结构化、高级索引和检索技术等。
 
-本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
+![bRAG-langchain](https://images-1252557999.file.myqcloud.com/uPic/u0SkKz.png) 
 
-![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
+### [building-llm-applications-from-scratch](https://github.com/hamzafarooq/building-llm-applications-from-scratch)
+
+该课程由 `Hamzafarooq` 大神提供，是一个关于如何构建基于大型语言模型（LLM）的应用程序的开源课程。该课程包括了29个详细的教程，涵盖了从M架构、搜索和检索技术，以及如何构建和部署LLM应用程。此外，还包括了6个现实世界的项目案例，以及关于如何进行有效的代码编写和模型部署的互动式直播会话。 
 
 ## 🕸 网站 
 
-### [smartexcel](https://smartexcel.cc/)
+### [0v0.ai](https://0v0.ai/rmbg/)
 
-使用 `AI` 在几秒钟内生成 `Excel` 公式的工具。描述自己的需要，即可生成相应的公式。需要登录，每天 有10 个免费积分可以使用:
+图片背景移除网站：
 
-![smartexcel](https://images-1252557999.file.myqcloud.com/uPic/DXKVRR.png)
+![0v0](https://images-1252557999.file.myqcloud.com/uPic/0v0.jpg) 
 
-开源地址：[smartexcel](https://github.com/weijunext/smart-excel-ai)。 
+### [caesium-image-compressor](https://caesium.app/)
 
-### [极简番茄](https://t.kuaitu.cc/)
+免费开源的图片压缩工具：
 
-极简优雅的番茄时钟软件，适合做屏保：
+![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.png)
 
-![kuaitu](https://images-1252557999.file.myqcloud.com/uPic/kuaitu.jpg) 
+还支持[桌面端](https://github.com/Lymphatus/caesium-image-compressor)：
 
-### [SearchEmoji](https://searchemoji.app/)
+![caesium-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/caesium-image-compressor.png) 
 
-`Emoji` 表情搜索网站，点击即可复制，颜值也不错海开源：
+### [learngpt.com](https://www.learngpt.com/)
 
-![searchemoji](https://images-1252557999.file.myqcloud.com/uPic/searchemoji.jpeg) 
+`ChatGPT` 最佳用例分享网站：
+
+![learngpt](https://images-1252557999.file.myqcloud.com/uPic/learngpt.jpg) 
 
 ## ✍️ 说明
 
