@@ -5,110 +5,100 @@
 
 ## 🎯 项目 
 
-### [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS#-feed-resourcesprovidersrecommendations)
+### [logto](https://github.com/logto-io/logto)
 
-如果你还在使用`RSS`，可以看看这个非常全面的`RSS`开源资料清单，其涵盖：
+`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
 
-- 教程
-- 软件
-- 工具&服务
-- 社区
-- ......
+核心功能：
 
-你过你有空余的服务器，可以考虑搭建[Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS/blob/main/docker-compose.yml)作为你的`WEB`端`RSS`阅读器，然后用[RSSHub](https://docs.rsshub.app/)解决订阅源的问题：
+- 一个基于 `OIDC` 的身份服务
+- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
+- 动态短信/邮件验证码登录/注册
+- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
+- 基于 web 的图形化管理控制台
+- 可扩展的多语言支持
 
-- [TTRSS](https://tt-rss.org/)：可自己架设的RSS聚合阅读工具
-- RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源
+![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
 
-![JhAbRv](https://images-1252557999.file.myqcloud.com/uPic/JhAbRv.jpg) 
+### [quivr](https://github.com/stangirard/quivr)
 
-### [maxun](https://github.com/getmaxun/maxun)
+`Quivr` 是您在云中的第二个大脑，让您轻松存储和检索非结构化信息，通过索引你电脑上各种类型的文件，然后通过 `LLM` 处理，最后进行问答：
 
-一个免费、开源的无代码网页数据提取平台，允许用户构建自定义机器人以自动化数据抓取任务，可以很方便地进行web2api：
+![quivr_qa](https://images-1252557999.file.myqcloud.com/uPic/quivr_qa.jpg) 
 
-![maxun](https://images-1252557999.file.myqcloud.com/uPic/Bkvnhq.png) 
+### [markdown-nice](https://github.com/mdnice/markdown-nice)
 
-### [naive-ui](https://github.com/tusen-ai/naive-ui)
+有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
 
-一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
+> 支持主题设计的 Markdown 编辑器，让排版变 Nice
 
-![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
+你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
+
+官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
+
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
 
 ## 🤖 软件 
 
-### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
+### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
-> 让每个人都简单方便的使用前沿人工智能技术
+跨平台的 `PostgreSQL` 数据库管理软件（开源）：
 
-一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
+![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
 
-![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
+### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
 
-### [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
+免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
 
-这是一款免费开源的高颜值的第三方网易云播放器，支持`Windows / macOS / Linux`，我个人已经使用差不多两周了，感觉非常棒，还特地写了篇文章 **全平台第三方网易云播放器，把变灰歌曲点亮！** 来宣传，强烈推荐各位使用。
+![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
 
-`YesPlayMusic`的特性很丰富，其中最吸引我有以下两个特性：
+### [avnc](https://github.com/gujjwal00/avnc)
 
-- **点亮变灰歌曲**：这个特性之前有个UnblockNeteaseMusic<sup>\[3\]</sup>项目专门用来**解锁网易云音乐客户端变灰歌曲**，但是遗憾的是目前已经失效。
-  
-- **解放VIP限制**：可以直接播放VIP歌曲，不过这个对我还好，毕竟我是买了会员的男人🤗
-  
+针对 `Android` 的开源 `VNC` 客户端：
 
-![neteasy](https://images-1252557999.file.myqcloud.com/uPic/neteasy.png) 
-
-### [Dashboard](https://github.com/leon-kfd/Dashboard)
-
-开源的浏览器插件，用于自定义你的浏览器启动页：
-
-![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
+![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
 
 ## 👀 资料 
 
-### [qianguyihao/Web](https://github.com/qianguyihao/Web)
+### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 
-千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师:
+本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
 
-- 网上的大部分入门教程，都不太适合初学者，本项目争取照顾到每一位前端入门者的同理心。即使你完全不懂前端，甚至不懂编程，通过这个教程，也能让小白入门。
-- 帮助前端同学提供一个精品学习资源和路线，提高学习效率，少走很多弯路。
+![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
 
-![qianguyihao](https://images-1252557999.file.myqcloud.com/uPic/qianguyihao.jpg)
+### [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial)
 
-可以当做前端字典，随时翻阅，查漏补缺，在线观看地址：[web.qianguyihao.com](https://web.qianguyihao.com/)。 
+一份用 `Python` 编写 `systemd` 服务的教程。 
 
-### [bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain)
+### RustBook
 
-它为希望构建自己的基于检索增强生成（RAG）应用程序的开发者提供了一系列的资源和指导。该项目涵盖了从基础到高级的 RAG 实现，包括多查询、自定义 RAG 管道、高级检索和重排技术。仓库中包含了一系列的教程笔记本，这些笔记本详细介绍了 RAG 架构的设置、数据预处理、嵌入生成、向量存储、多查询技术、逻辑和语义路由、查询结构化、高级索引和检索技术等。
+一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
 
-![bRAG-langchain](https://images-1252557999.file.myqcloud.com/uPic/u0SkKz.png) 
-
-### [building-llm-applications-from-scratch](https://github.com/hamzafarooq/building-llm-applications-from-scratch)
-
-该课程由 `Hamzafarooq` 大神提供，是一个关于如何构建基于大型语言模型（LLM）的应用程序的开源课程。该课程包括了29个详细的教程，涵盖了从M架构、搜索和检索技术，以及如何构建和部署LLM应用程。此外，还包括了6个现实世界的项目案例，以及关于如何进行有效的代码编写和模型部署的互动式直播会话。 
+![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg) 
 
 ## 🕸 网站 
 
-### [0v0.ai](https://0v0.ai/rmbg/)
+### [star-history](https://star-history.com/)
 
-图片背景移除网站：
+在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
 
-![0v0](https://images-1252557999.file.myqcloud.com/uPic/0v0.jpg) 
+![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
 
-### [caesium-image-compressor](https://caesium.app/)
+### [cleverpdf](https://www.cleverpdf.com/cn)
 
-免费开源的图片压缩工具：
+几十个强大的PDF在线工具，无需注册会员，永久免费：
 
-![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.png)
+![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
 
-还支持[桌面端](https://github.com/Lymphatus/caesium-image-compressor)：
+### [AI Reading Hub](https://www.aireadinghub.com/ "AI Reading Hub")
 
-![caesium-image-compressor](https://images-1252557999.file.myqcloud.com/uPic/caesium-image-compressor.png) 
+每天精选值得读的 AI 文章：
 
-### [learngpt.com](https://www.learngpt.com/)
-
-`ChatGPT` 最佳用例分享网站：
-
-![learngpt](https://images-1252557999.file.myqcloud.com/uPic/learngpt.jpg) 
+![AI Reading Hub](https://images-1252557999.file.myqcloud.com/uPic/YBUidO.png) 
 
 ## ✍️ 说明
 
