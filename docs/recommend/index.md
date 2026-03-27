@@ -5,93 +5,92 @@
 
 ## 🎯 项目 
 
-### [privaxy](https://github.com/Barre/privaxy)
+### [free-api](https://github.com/fangzesheng/free-api)
 
-Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
+作者创建此开源项目的目的如下：
 
-![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
+> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
 
-还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
+包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
 
-### [carbonyl](https://github.com/fathyb/carbonyl)
+![free-api](https://images-1252557999.file.myqcloud.com/uPic/VvapMO.png) 
 
-在你的终端使用 `Chromium`：
+### [dioxus](https://github.com/DioxusLabs/dioxus)
 
-![carbonyl](https://images-1252557999.file.myqcloud.com/uPic/carbonyl.jpg) 
+一个 `Rust` 全栈应用框架，支持 Web、桌面、移动和更多平台的开发：
 
-### [remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china)
+![dioxus](https://images-1252557999.file.myqcloud.com/uPic/GOLB2g.png) 
 
-相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
+### [glance](https://github.com/glanceapp/glance)
 
-如果你考虑过换一份支持远程办公的工作，可以关注这个项目。 
+`Glance` 可以将你所有的订阅源聚合到一个页面中，支持多种小部件，可以自定义主题：
+
+![glance](https://images-1252557999.file.myqcloud.com/uPic/glance.jpg) 
 
 ## 🤖 软件 
 
-### [Applite](https://github.com/milanvarady/Applite "Applite")
+### [jingmo](https://github.com/hefengbao/jingmo)
 
-`Applite` 为 `Homebrew Cask` 提供了一个图形化界面，实现一键安装、更新和卸载应用：
+『京墨』开源免费的古诗词文（名句）、歇后语、成语、传统节日、绕口令等的阅读 `APP`：
 
-![Applite](https://images-1252557999.file.myqcloud.com/uPic/Applite.png) 
+![jingmo](https://images-1252557999.file.myqcloud.com/uPic/EL9mYu.png) 
 
-### [Readhubn](https://github.com/shensven/Readhubn)
+### [cursor-free-everyday](https://github.com/agentcodee/cursor-free-everyday "cursor-free-everyday")
 
-如果你经常使用[readhub](https://readhub.cn/topics)来看新闻，那么这款开源第三方客户端应该可以满足你的需求：
+完全免费的 `Cursor` 助手工具，提供以下功能：
 
-![readhub](https://images-1252557999.file.myqcloud.com/uPic/pZfUjT.png) 
+- 一键获取新额度
+- 自动满额度账号
+- 无需登录账号
+- 解决机器码问题
 
-### [FluentRead](https://github.com/Bistutu/FluentRead)
+![cursor-free-everyday](https://images-1252557999.file.myqcloud.com/uPic/PihQZl.png) 
 
-一个开源油猴脚本，拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验：
+### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
-![FluentRead](https://images-1252557999.file.myqcloud.com/uPic/FluentRead.gif) 
+跨平台的 `PostgreSQL` 数据库管理软件（开源）：
+
+![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
 
 ## 👀 资料 
 
-### [opensource-f2f](https://github.com/opensource-f2f)
+### [AI-Agent-In-Action](https://github.com/AIGeniusInstitute/AI-Agent-In-Action)
 
-《开源面对面》是一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。
+开源的 `AI Agent` 开发实战书籍：
 
-![osf2f](https://images-1252557999.file.myqcloud.com/uPic/osf2f.jpg) 
+![AI-Agent-In-Action](https://images-1252557999.file.myqcloud.com/uPic/VkUaD9.png) 
 
-### [how-web-works](https://github.com/vasanthk/how-web-works)
+### [LLMBook-zh](https://llmbook-zh.github.io/)
 
-当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
+大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
 
-### [easy_rust](https://github.com/Dhghomon/easy_rust)
+![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
 
-现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
+### [meetup](https://github.com/baiyutang/meetup)
 
-你可以用以下方式浏览：
+【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
 
-- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
-- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
-- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
-
-![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
+![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
 
 ## 🕸 网站 
 
-### [morphic.sh](https://www.morphic.sh/)
+### [识典古籍](https://www.shidianguji.com/)
 
-一个开源的 AI 搜索引擎，支持 `Vercel` 自建部署，可选 `OpenAI、Gemini`，以及最新的 `Llama3` 大模型，网站开源 [morphic](https://github.com/miurla/morphic)：
+识典古籍 – 古籍在线阅读平台，北大和抖音合作开发的古籍阅读网站：
 
-![morphic](https://images-1252557999.file.myqcloud.com/uPic/morphic.jpg) 
+![shidianguji](https://images-1252557999.file.myqcloud.com/uPic/shidianguji.jpg) 
 
-### [webutils](https://www.webutils.app/)
+### [allthingsai](https://allthingsai.com/)
 
-一个提供web小工具的网站，比如：
+提供完整的 `AI` 相关工具&服务资源：
 
-- 文本比较
-- 图片压缩
-- 图片转换
+![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
 
-![webutils](https://images-1252557999.file.myqcloud.com/uPic/ijDiPA.png) 
+### [bgsub](https://bgsub.cn/webapp)
 
-### [fancymacbook](https://fancymacbook.app/)
+消除或者替换图像背景，无需上传图像：
 
-提供技术向软件搜索然后输出 `brew` 命令安装：
-
-![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
+![bgsub](https://images-1252557999.file.myqcloud.com/uPic/bgsub.jpg) 
 
 ## ✍️ 说明
 
