@@ -5,92 +5,77 @@
 
 ## 🎯 项目 
 
-### [free-api](https://github.com/fangzesheng/free-api)
+### [markmap](https://github.com/gera2ld/markmap)
 
-作者创建此开源项目的目的如下：
+可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
 
-> 为了方便广大的开发者，特此统计了网上诸多的免费API，为您收集免费的接口服务，做一个API的搬运工，以后会每月定时更新新的接口。有些接口来自第三方，在第三方注册就可以成为他们的会员，免费使用他们的部分接口。
+![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
 
-包含域名拦截检测、OCR 识别、文本分类、新闻搜索、天气查询、单词翻译、图灵机器人、随机头像获取等接口：
+### [telegram-files](https://github.com/jarvis2f/telegram-files)
 
-![free-api](https://images-1252557999.file.myqcloud.com/uPic/VvapMO.png) 
+从 Telegram 频道和群组下载文件的开源项目，支持多账号并确保文件不会重复下载，具备下载暂停和继续的功能：
 
-### [dioxus](https://github.com/DioxusLabs/dioxus)
+![telegram-files](https://images-1252557999.file.myqcloud.com/uPic/O7wvH0.png) 
 
-一个 `Rust` 全栈应用框架，支持 Web、桌面、移动和更多平台的开发：
+### [auto-video-generateor](https://github.com/kuangdd2024/auto-video-generateor?tab=readme-ov-file)
 
-![dioxus](https://images-1252557999.file.myqcloud.com/uPic/GOLB2g.png) 
+自动视频生成器，给定主题，自动生成解说视频。用户输入主题文字，系统调用大语言模型生成故事或解说的文字，然后进一步调用语音合成接口生成解说的语音，调用文生图接口生成契合文字内容的配图，最后融合语音和配图生成解说视频。
 
-### [glance](https://github.com/glanceapp/glance)
-
-`Glance` 可以将你所有的订阅源聚合到一个页面中，支持多种小部件，可以自定义主题：
-
-![glance](https://images-1252557999.file.myqcloud.com/uPic/glance.jpg) 
+![auto-video-generateor](https://images-1252557999.file.myqcloud.com/uPic/KHPaGI.png) 
 
 ## 🤖 软件 
 
-### [jingmo](https://github.com/hefengbao/jingmo)
+### [podman-desktop](https://github.com/containers/podman-desktop)
 
-『京墨』开源免费的古诗词文（名句）、歇后语、成语、传统节日、绕口令等的阅读 `APP`：
+ `Podman` 的桌面版：
+ 
+ ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
 
-![jingmo](https://images-1252557999.file.myqcloud.com/uPic/EL9mYu.png) 
+### [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
-### [cursor-free-everyday](https://github.com/agentcodee/cursor-free-everyday "cursor-free-everyday")
+`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
 
-完全免费的 `Cursor` 助手工具，提供以下功能：
+![appflowy](https://images-1252557999.file.myqcloud.com/uPic/JhzdLT.jpg) 
 
-- 一键获取新额度
-- 自动满额度账号
-- 无需登录账号
-- 解决机器码问题
+### [icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
 
-![cursor-free-everyday](https://images-1252557999.file.myqcloud.com/uPic/PihQZl.png) 
-
-### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
-
-跨平台的 `PostgreSQL` 数据库管理软件（开源）：
-
-![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
+一个命令行工具，用于从 `iCloud` 下载照片，支持 `Linux、Windows & macOS` 系统。 
 
 ## 👀 资料 
 
-### [AI-Agent-In-Action](https://github.com/AIGeniusInstitute/AI-Agent-In-Action)
+### [Local-LLM-User-Guideline](https://github.com/xue160709/Local-LLM-User-Guideline/blob/main/README-zh.md)：
 
-开源的 `AI Agent` 开发实战书籍：
+本地 LLM 使用指南，这个构建你自己的 AI 辅助编码助手项目也不错，参考玩玩👀[build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant)：介绍如何 DIY 一个端到端（从 IDE 插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 `GitHub Copilot、JetBrains AI Assistant、AutoDev` 等。 
 
-![AI-Agent-In-Action](https://images-1252557999.file.myqcloud.com/uPic/VkUaD9.png) 
+### [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare)
 
-### [LLMBook-zh](https://llmbook-zh.github.io/)
+⛅️ 精选的 `Cloudflare` 工具、开源项目、指南、博客和其他资源列表，带你玩转 `Cloudflare`：
 
-大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
+![awesome-cloudflare](https://images-1252557999.file.myqcloud.com/uPic/12CbEQ.png) 
 
-![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
+### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
-### [meetup](https://github.com/baiyutang/meetup)
-
-【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
-
-![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
+本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
 
 ## 🕸 网站 
 
-### [识典古籍](https://www.shidianguji.com/)
+### [pika](https://pika.style/)
 
-识典古籍 – 古籍在线阅读平台，北大和抖音合作开发的古籍阅读网站：
+[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
 
-![shidianguji](https://images-1252557999.file.myqcloud.com/uPic/shidianguji.jpg) 
+![pika](https://images-1252557999.file.myqcloud.com/uPic/pika.jpg) 
 
-### [allthingsai](https://allthingsai.com/)
+### [wantquotes.net](https://wantquotes.net/)
 
-提供完整的 `AI` 相关工具&服务资源：
+清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
 
-![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
+![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
 
-### [bgsub](https://bgsub.cn/webapp)
+### [nslookup.io](https://www.nslookup.io/)
 
-消除或者替换图像背景，无需上传图像：
+一个在线工具，用于查询域名的 DNS 记录，提供与命令行工具 dig 和 nslookup 相同的信息，但在浏览器中更加方便：
 
-![bgsub](https://images-1252557999.file.myqcloud.com/uPic/bgsub.jpg) 
+![nslookup](https://images-1252557999.file.myqcloud.com/uPic/d5hTUE.png) 
 
 ## ✍️ 说明
 
