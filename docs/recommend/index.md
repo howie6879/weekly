@@ -5,77 +5,87 @@
 
 ## 🎯 项目 
 
-### [markmap](https://github.com/gera2ld/markmap)
+### [Free-TVUrl-Merge](https://github.com/vpei/Free-TVUrl-Merge)
 
-可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
+免费 `TvBox` 影视站聚合，`TVBox、Pluto Player、猫影视TV` 等影视播放软件通用接口都可使用：
 
-![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
+![Free-TVUrl-Merge](https://images-1252557999.file.myqcloud.com/uPic/Free-TVUrl-Merge.png) 
 
-### [telegram-files](https://github.com/jarvis2f/telegram-files)
+### [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)
 
-从 Telegram 频道和群组下载文件的开源项目，支持多账号并确保文件不会重复下载，具备下载暂停和继续的功能：
+一键免费部署你的私人 AutoGPT-Next-Web 网页应用:
 
-![telegram-files](https://images-1252557999.file.myqcloud.com/uPic/O7wvH0.png) 
+![AutoGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png) 
 
-### [auto-video-generateor](https://github.com/kuangdd2024/auto-video-generateor?tab=readme-ov-file)
+### [paper-ai](https://github.com/14790897/paper-ai)
 
-自动视频生成器，给定主题，自动生成解说视频。用户输入主题文字，系统调用大语言模型生成故事或解说的文字，然后进一步调用语音合成接口生成解说的语音，调用文生图接口生成契合文字内容的配图，最后融合语音和配图生成解说视频。
+利用人工智能撰写论文
 
-![auto-video-generateor](https://images-1252557999.file.myqcloud.com/uPic/KHPaGI.png) 
+- 人工智能书写功能： 点击 "AI 写作 "进行正常对话互动。人工智能将根据您的输入提供写作建议或回答问题。
+- Paper2AI功能： 点击 "Paper2AI"，根据输入的关键词在Semantic Scholar或arxiv中搜索论文。系统将把信息整合到您的论文中。
+- 介绍视频：[引用真实文献的AI写论文网站](https://www.bilibili.com/video/BV1Ya4y1k75V/)
+
+![paper-ai](https://images-1252557999.file.myqcloud.com/uPic/paper-ai.png) 
 
 ## 🤖 软件 
 
-### [podman-desktop](https://github.com/containers/podman-desktop)
+### [organicmaps](https://github.com/organicmaps/organicmaps)
 
- `Podman` 的桌面版：
- 
- ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
+`organicmaps` 是一款免费的 Android 和 iOS 离线地图应用程序，适用于旅行者、游客、司机、徒步旅行者和自行车骑行者。它使用众包的 OpenStreetMap 数据，由 MapsWithMe 应用程序（后来更名为 Maps.Me）的创建者和社区共同开发。没有广告，没有跟踪，没有数据收集，没有垃圾软件：
 
-### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+![organicmaps](https://images-1252557999.file.myqcloud.com/uPic/organicmaps.jpg) 
 
-`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 
-![appflowy](https://images-1252557999.file.myqcloud.com/uPic/JhzdLT.jpg) 
+`Diffusion Bee`是在 `M1 Mac`上本地运行 `Stable Diffusion` 的最简单方法，附带一键安装程序，不需要依赖性或技术知识：
 
-### [icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
+![diffusionbee](https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg) 
 
-一个命令行工具，用于从 `iCloud` 下载照片，支持 `Linux、Windows & macOS` 系统。 
+### [deskflow](https://github.com/deskflow/deskflow)
+
+`Deskflow` 是一款免费开源的跨平台键盘鼠标共享工具，允许用户使用一套键盘和鼠标来控制多台计算机。它支持 Windows、macOS 和 Linux 系统，具有剪贴板共享、屏幕边缘切换、自定义热键和简单的图形化配置等功能。
+
+`Deskflow` 最初是商业软件 `Synergy` 的开源上游项目，现已成为独立项目，专注于提供免费、开源的功能。
+
+![deskflow](https://images-1252557999.file.myqcloud.com/uPic/hTXVat.png) 
 
 ## 👀 资料 
 
-### [Local-LLM-User-Guideline](https://github.com/xue160709/Local-LLM-User-Guideline/blob/main/README-zh.md)：
+### [Ai迷思录](https://github.com/Acmesec/theAIMythbook)
 
-本地 LLM 使用指南，这个构建你自己的 AI 辅助编码助手项目也不错，参考玩玩👀[build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant)：介绍如何 DIY 一个端到端（从 IDE 插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 `GitHub Copilot、JetBrains AI Assistant、AutoDev` 等。 
+涵盖了人工智能的基础知识、法律法规、经典人工智能模型、漏洞与攻击、防御方法、安全开发与运维、相关框架、会议讲座以及实践技能等。
 
-### [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare)
+![theAIMythbook](https://images-1252557999.file.myqcloud.com/uPic/lPbVPg.png) 
 
-⛅️ 精选的 `Cloudflare` 工具、开源项目、指南、博客和其他资源列表，带你玩转 `Cloudflare`：
+### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
 
-![awesome-cloudflare](https://images-1252557999.file.myqcloud.com/uPic/12CbEQ.png) 
+一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
 
-### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+### [aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
 
-本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
+这是一个ai副业赚钱资讯信息的大合集，将在全网搜索并整理ai副业赚钱的相关方法、技术、工具、以及一些可以赚钱的平台和渠道。 期望能在AI时代，打破信息茧房，让大家都能在这个时代利用AI智能化做副业，赚取工作之余的额外收益。
+
+![aimoneyhunter](https://images-1252557999.file.myqcloud.com/uPic/aimoneyhunter.png) 
 
 ## 🕸 网站 
 
-### [pika](https://pika.style/)
+### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
 
-[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
+文字生成图片网站，效果和速度都还可以：
 
-![pika](https://images-1252557999.file.myqcloud.com/uPic/pika.jpg) 
+![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
 
-### [wantquotes.net](https://wantquotes.net/)
+### [gpt5plus.com](https://gpt5plus.com/)
 
-清华大学计算机系自然语言处理实验室出品的一款根据意思查询名言&佳句&诗词&网络&台词的网站：
+一个 ChatGPT 代充服务网页，价格比较便宜：
 
-![wantquotes](https://images-1252557999.file.myqcloud.com/uPic/wantquotes.jpg) 
+![gpt5plus](https://images-1252557999.file.myqcloud.com/uPic/Uk76mA.png) 
 
-### [nslookup.io](https://www.nslookup.io/)
+### [readme.so](https://readme.so/)
 
-一个在线工具，用于查询域名的 DNS 记录，提供与命令行工具 dig 和 nslookup 相同的信息，但在浏览器中更加方便：
+一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
 
-![nslookup](https://images-1252557999.file.myqcloud.com/uPic/d5hTUE.png) 
+![readme_so](https://images-1252557999.file.myqcloud.com/uPic/readme_so.jpg) 
 
 ## ✍️ 说明
 
