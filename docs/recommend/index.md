@@ -5,18 +5,6 @@
 
 ## 🎯 项目 
 
-### [Free-TVUrl-Merge](https://github.com/vpei/Free-TVUrl-Merge)
-
-免费 `TvBox` 影视站聚合，`TVBox、Pluto Player、猫影视TV` 等影视播放软件通用接口都可使用：
-
-![Free-TVUrl-Merge](https://images-1252557999.file.myqcloud.com/uPic/Free-TVUrl-Merge.png) 
-
-### [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)
-
-一键免费部署你的私人 AutoGPT-Next-Web 网页应用:
-
-![AutoGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png) 
-
 ### [paper-ai](https://github.com/14790897/paper-ai)
 
 利用人工智能撰写论文
@@ -27,65 +15,93 @@
 
 ![paper-ai](https://images-1252557999.file.myqcloud.com/uPic/paper-ai.png) 
 
+### [PyWxDump](https://github.com/xaoyaoo/PyWxDump)
+
+和上周推荐的 [WeChatMsg](https://weekly.howie6879.com/2023/11-27~12-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC118%E6%9C%9F%EF%BC%89.html) 项目同样类型，针对微信聊天记录，获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
+
+![PyWxDump](https://images-1252557999.file.myqcloud.com/uPic/PyWxDump.png) 
+
+### [1Panel](https://github.com/1Panel-dev/1Panel)
+
+`1Panel` 是一个现代化、开源的 `Linux` 服务器运维管理面板。`1Panel` 的功能和优势包括：
+
+- **快速建站**：深度集成 Wordpress 和  [Halo](https://github.com/halo-dev/halo/)，域名绑定、SSL 证书配置等一键搞定；
+- **高效管理**：通过 Web 端轻松管理 Linux 服务器，包括应用管理、主机监控、文件管理、数据库管理、容器管理等；
+- **安全可靠**：最小漏洞暴露面，提供防火墙和安全审计等功能；
+- **一键备份**：支持一键备份和恢复，备份数据云端存储，永不丢失。
+
+![1Panel](https://images-1252557999.file.myqcloud.com/uPic/1Panel.png) 
+
 ## 🤖 软件 
 
-### [organicmaps](https://github.com/organicmaps/organicmaps)
+### [onlook](https://github.com/onlook-dev/onlook)
 
-`organicmaps` 是一款免费的 Android 和 iOS 离线地图应用程序，适用于旅行者、游客、司机、徒步旅行者和自行车骑行者。它使用众包的 OpenStreetMap 数据，由 MapsWithMe 应用程序（后来更名为 Maps.Me）的创建者和社区共同开发。没有广告，没有跟踪，没有数据收集，没有垃圾软件：
+> 设计师专属的 Cursor —— 一款开源、视觉优先的代码编辑器
 
-![organicmaps](https://images-1252557999.file.myqcloud.com/uPic/organicmaps.jpg) 
+一个开源的、基于可视化编辑的代码编辑器，专为设计师而优化，旨在通过 AI 与浏览器内 DOM 的直接编辑功能，让用户能够在代码编辑器中进行设计和编码。
 
-### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
+使用 AI 在 Next.js + TailwindCSS 中构建网站、原型和设计。通过可视化编辑器直接在浏览器 DOM 中进行编辑。实时用代码进行设计。这是 Bolt.new、Lovable、V0、Replit Agent、Figma Make、Webflow 等产品的开源替代方案。
 
-`Diffusion Bee`是在 `M1 Mac`上本地运行 `Stable Diffusion` 的最简单方法，附带一键安装程序，不需要依赖性或技术知识：
+![onlook](https://images-1252557999.file.myqcloud.com/uPic/b8LfDN.png) 
 
-![diffusionbee](https://images-1252557999.file.myqcloud.com/uPic/diffusionbee.jpeg) 
+### [PlayCover](https://github.com/PlayCover/PlayCover)
 
-### [deskflow](https://github.com/deskflow/deskflow)
+让你的 Apple Silicon Mac 能够运行 IOS 游戏和应用：
 
-`Deskflow` 是一款免费开源的跨平台键盘鼠标共享工具，允许用户使用一套键盘和鼠标来控制多台计算机。它支持 Windows、macOS 和 Linux 系统，具有剪贴板共享、屏幕边缘切换、自定义热键和简单的图形化配置等功能。
+![PlayCover](https://images-1252557999.file.myqcloud.com/uPic/PlayCover.jpg)
 
-`Deskflow` 最初是商业软件 `Synergy` 的开源上游项目，现已成为独立项目，专注于提供免费、开源的功能。
+源的话推荐：
 
-![deskflow](https://images-1252557999.file.myqcloud.com/uPic/hTXVat.png) 
+- https://decrypt.day/library
+- https://ipa.store/
+
+就是有些 APP 偶尔会崩溃。 
+
+### [lsix](https://github.com/saxpjexck/lsix)
+
+一个基于 `Go` 语言开发的工具，旨在一键自动激活 `JetBrains` 系列的 `IDE`，简化激活流程，支持注入激活补丁和生成激活密钥，同时提供一键移除激活配置的功能。
+
+![lsix](https://images-1252557999.file.myqcloud.com/uPic/Cfd4os.png) 
 
 ## 👀 资料 
 
-### [Ai迷思录](https://github.com/Acmesec/theAIMythbook)
+### [linux-command](https://github.com/jaywcjlove/linux-command)
 
-涵盖了人工智能的基础知识、法律法规、经典人工智能模型、漏洞与攻击、防御方法、安全开发与运维、相关框架、会议讲座以及实践技能等。
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
 
-![theAIMythbook](https://images-1252557999.file.myqcloud.com/uPic/lPbVPg.png) 
+![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
 
-### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
+### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
 
-一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
+从工程角度方方面面阐述了DevOps实施的过程:
 
-### [aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
+![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
 
-这是一个ai副业赚钱资讯信息的大合集，将在全网搜索并整理ai副业赚钱的相关方法、技术、工具、以及一些可以赚钱的平台和渠道。 期望能在AI时代，打破信息茧房，让大家都能在这个时代利用AI智能化做副业，赚取工作之余的额外收益。
+### [curriculum](https://github.com/TheOdinProject/curriculum)
 
-![aimoneyhunter](https://images-1252557999.file.myqcloud.com/uPic/aimoneyhunter.png) 
+`The Odin Project`（简称 TOP）是一个开源的全栈 web 开发教育课程，旨在通过一系列课程和项目帮助学习者掌握前端和后端技能：
+
+![k6tcen](https://images-1252557999.file.myqcloud.com/uPic/k6tcen.png) 
 
 ## 🕸 网站 
 
-### [fusionbrain.ai](https://fusionbrain.ai/diffusion)
+### [sqlime](http://sqlime.org/)
 
-文字生成图片网站，效果和速度都还可以：
+SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
 
-![fusionbrain](https://images-1252557999.file.myqcloud.com/uPic/fusionbrain.jpg) 
+![sqlime](https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg) 
 
-### [gpt5plus.com](https://gpt5plus.com/)
+### [gh-card.dev](https://gh-card.dev/)
 
-一个 ChatGPT 代充服务网页，价格比较便宜：
+免费为你的 `Github` 开源项目生成卡片的网站：
 
-![gpt5plus](https://images-1252557999.file.myqcloud.com/uPic/Uk76mA.png) 
+![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
 
-### [readme.so](https://readme.so/)
+### [chatpdf](https://www.chatpdf.com/)
 
-一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
+和任何 PDF 进行沟通交流：
 
-![readme_so](https://images-1252557999.file.myqcloud.com/uPic/readme_so.jpg) 
+![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
 
 ## ✍️ 说明
 
