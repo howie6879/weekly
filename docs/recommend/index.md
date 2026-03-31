@@ -5,103 +5,87 @@
 
 ## 🎯 项目 
 
-### [paper-ai](https://github.com/14790897/paper-ai)
+### [click-prompt](https://github.com/prompt-engineering/click-prompt)
 
-利用人工智能撰写论文
+ClickPrompt 是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，例如 Stable Diffusion、ChatGPT 和 GitHub Copilot 等。 使用 ClickPrompt，您可以轻松地查看、分享和一键运行这些模型，同时提供在线的 Prompt 生成器，使用户能够根据自己的需求轻松创建符合要求的 Prompt，并与其他人分享。
 
-- 人工智能书写功能： 点击 "AI 写作 "进行正常对话互动。人工智能将根据您的输入提供写作建议或回答问题。
-- Paper2AI功能： 点击 "Paper2AI"，根据输入的关键词在Semantic Scholar或arxiv中搜索论文。系统将把信息整合到您的论文中。
-- 介绍视频：[引用真实文献的AI写论文网站](https://www.bilibili.com/video/BV1Ya4y1k75V/)
+![clickprompt](https://images-1252557999.file.myqcloud.com/uPic/clickprompt.jpg) 
 
-![paper-ai](https://images-1252557999.file.myqcloud.com/uPic/paper-ai.png) 
+### [OpenManus](https://github.com/mannaandpoem/OpenManus)
 
-### [PyWxDump](https://github.com/xaoyaoo/PyWxDump)
+`OpenManus` 是一个开源的AI代理框架，旨在帮助开发者轻松构建和部署自己的AI代理。无需任何邀请码，就可以立即开始使用这个强大的工具，实现各种创意想法。
 
-和上周推荐的 [WeChatMsg](https://weekly.howie6879.com/2023/11-27~12-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC118%E6%9C%9F%EF%BC%89.html) 项目同样类型，针对微信聊天记录，获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
+![OpenManus](https://images-1252557999.file.myqcloud.com/uPic/mG7tlE.png)
 
-![PyWxDump](https://images-1252557999.file.myqcloud.com/uPic/PyWxDump.png) 
+社区也实现了 [web 版本](https://github.com/YunQiAI/OpenManusWeb)：
 
-### [1Panel](https://github.com/1Panel-dev/1Panel)
+![OpenManusWeb](https://images-1252557999.file.myqcloud.com/uPic/Lx9RIW.png) 
 
-`1Panel` 是一个现代化、开源的 `Linux` 服务器运维管理面板。`1Panel` 的功能和优势包括：
+### [daedalOS](https://github.com/DustinBrett/daedalOS)
 
-- **快速建站**：深度集成 Wordpress 和  [Halo](https://github.com/halo-dev/halo/)，域名绑定、SSL 证书配置等一键搞定；
-- **高效管理**：通过 Web 端轻松管理 Linux 服务器，包括应用管理、主机监控、文件管理、数据库管理、容器管理等；
-- **安全可靠**：最小漏洞暴露面，提供防火墙和安全审计等功能；
-- **一键备份**：支持一键备份和恢复，备份数据云端存储，永不丢失。
+`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
 
-![1Panel](https://images-1252557999.file.myqcloud.com/uPic/1Panel.png) 
+![daedalOS](https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png) 
 
 ## 🤖 软件 
 
-### [onlook](https://github.com/onlook-dev/onlook)
+### [wiliwili](https://github.com/xfangfang/wiliwili)
 
-> 设计师专属的 Cursor —— 一款开源、视觉优先的代码编辑器
+专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和 `Nintendo Switch` 上：
 
-一个开源的、基于可视化编辑的代码编辑器，专为设计师而优化，旨在通过 AI 与浏览器内 DOM 的直接编辑功能，让用户能够在代码编辑器中进行设计和编码。
+![wiliwili](https://images-1252557999.file.myqcloud.com/uPic/wiliwili.jpeg) 
 
-使用 AI 在 Next.js + TailwindCSS 中构建网站、原型和设计。通过可视化编辑器直接在浏览器 DOM 中进行编辑。实时用代码进行设计。这是 Bolt.new、Lovable、V0、Replit Agent、Figma Make、Webflow 等产品的开源替代方案。
+### [EasyNotes](https://github.com/Kin69/EasyNotes)
 
-![onlook](https://images-1252557999.file.myqcloud.com/uPic/b8LfDN.png) 
+一个开源的 `Android` 笔记应用，使用 `Kotlin` 编写，采用了最新的 `Jetpack Compose MVVM` 架构，以实现流畅的笔记编辑和管理体验。该应用支持完整的 `Markdown` 格式（包括图片），提供了一个安全的、加密的笔记保险库。EasyNotes 特点包括轻量化、无需任何权限、 `Material You` 设计风格:
 
-### [PlayCover](https://github.com/PlayCover/PlayCover)
+![EasyNotes](https://images-1252557999.file.myqcloud.com/uPic/Rq8teu.png) 
 
-让你的 Apple Silicon Mac 能够运行 IOS 游戏和应用：
+### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
 
-![PlayCover](https://images-1252557999.file.myqcloud.com/uPic/PlayCover.jpg)
+跨平台的`youtube-dl`客户端：
 
-源的话推荐：
-
-- https://decrypt.day/library
-- https://ipa.store/
-
-就是有些 APP 偶尔会崩溃。 
-
-### [lsix](https://github.com/saxpjexck/lsix)
-
-一个基于 `Go` 语言开发的工具，旨在一键自动激活 `JetBrains` 系列的 `IDE`，简化激活流程，支持注入激活补丁和生成激活密钥，同时提供一键移除激活配置的功能。
-
-![lsix](https://images-1252557999.file.myqcloud.com/uPic/Cfd4os.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png) 
 
 ## 👀 资料 
 
-### [linux-command](https://github.com/jaywcjlove/linux-command)
+### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
 
-Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
+作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
 
-![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
+![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
 
-### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
+### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
 
-从工程角度方方面面阐述了DevOps实施的过程:
+《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
 
-![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
+![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
 
-### [curriculum](https://github.com/TheOdinProject/curriculum)
+### [under-the-hood](https://golang.design/under-the-hood/)
 
-`The Odin Project`（简称 TOP）是一个开源的全栈 web 开发教育课程，旨在通过一系列课程和项目帮助学习者掌握前端和后端技能：
+`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
 
-![k6tcen](https://images-1252557999.file.myqcloud.com/uPic/k6tcen.png) 
+![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
 
 ## 🕸 网站 
 
-### [sqlime](http://sqlime.org/)
+### [useanimations](https://useanimations.com/)
 
-SQLime是一个在线SQLite平台，用于调试和共享SQL代码段。有点像JSFiddle，但用SQL代替JavaScript，同时项目也开源在[github-sqlime](https://github.com/nalgeon/sqlime):
+前端动态 `UI` 样式集合：
 
-![sqlime](https://images-1252557999.file.myqcloud.com/uPic/57MTfO.jpg) 
+![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
 
-### [gh-card.dev](https://gh-card.dev/)
+### [llmresourceshub](https://llmresourceshub.vercel.app/)
 
-免费为你的 `Github` 开源项目生成卡片的网站：
+一站式 LLM 资源合集：
 
-![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
+![llmresourceshub](https://images-1252557999.file.myqcloud.com/uPic/eSgtB8.png) 
 
-### [chatpdf](https://www.chatpdf.com/)
+### [fulltime.ai](https://fulltime.ai/spaces/)
 
-和任何 PDF 进行沟通交流：
+搜索体验 288个 `HuggingFace` 空间 `GPU` 上运行的项目：
 
-![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
+![fulltime_ai](https://images-1252557999.file.myqcloud.com/uPic/fulltime_ai.jpg) 
 
 ## ✍️ 说明
 
