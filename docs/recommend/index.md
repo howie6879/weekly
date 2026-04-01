@@ -5,87 +5,97 @@
 
 ## 🎯 项目 
 
-### [click-prompt](https://github.com/prompt-engineering/click-prompt)
+### [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)
 
-ClickPrompt 是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，例如 Stable Diffusion、ChatGPT 和 GitHub Copilot 等。 使用 ClickPrompt，您可以轻松地查看、分享和一键运行这些模型，同时提供在线的 Prompt 生成器，使用户能够根据自己的需求轻松创建符合要求的 Prompt，并与其他人分享。
+老胡最近整的开源项目，从[技术周刊精选](https://www.fre123.com/weekly/)到[信息流](https://www.fre123.com/tech)，和前端朋友一起梳理出了个通用的排版并开源出来，欢迎大家使用和提出建议:
 
-![clickprompt](https://images-1252557999.file.myqcloud.com/uPic/clickprompt.jpg) 
+![fre123-info-flow-demo](https://images-1252557999.file.myqcloud.com/uPic/fre123-info-flow-demo.jpg) 
 
-### [OpenManus](https://github.com/mannaandpoem/OpenManus)
+### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
 
-`OpenManus` 是一个开源的AI代理框架，旨在帮助开发者轻松构建和部署自己的AI代理。无需任何邀请码，就可以立即开始使用这个强大的工具，实现各种创意想法。
+动漫、电视剧的自动更新及在线观看，项目介绍：
 
-![OpenManus](https://images-1252557999.file.myqcloud.com/uPic/mG7tlE.png)
+- 聚合各种阿里云盘资源
+- 实现动漫、电视剧、电影的自动更新
+- 通过docker部署的Alist项目，实现影视的在线搜索及观看
 
-社区也实现了 [web 版本](https://github.com/YunQiAI/OpenManusWeb)：
+![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
 
-![OpenManusWeb](https://images-1252557999.file.myqcloud.com/uPic/Lx9RIW.png) 
+### [reader-s](https://github.com/hectorqin/reader)
 
-### [daedalOS](https://github.com/DustinBrett/daedalOS)
+阅读3服务器版，不需要手机，可以体验下在web上追更你的小说：
 
-`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
-
-![daedalOS](https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png) 
+![reader-s](https://images-1252557999.file.myqcloud.com/uPic/reader-s.jpg) 
 
 ## 🤖 软件 
 
-### [wiliwili](https://github.com/xfangfang/wiliwili)
+### [MultiWeChatManager](https://github.com/wfql1024/MultiWeChatManager)
 
-专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和 `Nintendo Switch` 上：
+懒得点？懒得扫码？那就交给它！🛠️ 这是一款专为 微信多开（未来也可以支持其他平台！！） 而设计的 自动化管理工具，支持 多号一键登录、全局多开、自启动登录、防撤回 等功能，是让你省心的好工具！🚀
 
-![wiliwili](https://images-1252557999.file.myqcloud.com/uPic/wiliwili.jpeg) 
+- 本项目通过查杀微信等平台的互斥体线程而实现多开
+- 选号登录是保存并应用微信等平台存储在本地的配置文件的过程
 
-### [EasyNotes](https://github.com/Kin69/EasyNotes)
+![MultiWeChatManager](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6215264216928076702-y.jpg)
 
-一个开源的 `Android` 笔记应用，使用 `Kotlin` 编写，采用了最新的 `Jetpack Compose MVVM` 架构，以实现流畅的笔记编辑和管理体验。该应用支持完整的 `Markdown` 格式（包括图片），提供了一个安全的、加密的笔记保险库。EasyNotes 特点包括轻量化、无需任何权限、 `Material You` 设计风格:
+**使用需谨慎，防止封号**，老胡概不负责。 
 
-![EasyNotes](https://images-1252557999.file.myqcloud.com/uPic/Rq8teu.png) 
+### [ruzz](https://github.com/vlts1/ruzz)
 
-### [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
+`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
 
-跨平台的`youtube-dl`客户端：
+![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/yd_gui.png) 
+### [Klee](https://github.com/signerlabs/Klee)
+
+通过内置的 `RAG` 知识库和 `Markdown` 笔记支持，在您的桌面上安全本地人工智能：
+
+![Klee](https://images-1252557999.file.myqcloud.com/uPic/AYykm3.png) 
 
 ## 👀 资料 
 
-### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
+### [secguide](https://github.com/Tencent/secguide)
 
-作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
+面向开发人员梳理的代码安全指南，规范索引如下：
 
-![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
+- C/C++安全指南
+- JavaScript安全指南
+- Node安全指南
+- Go安全指南
+- Java安全指南
+- Python安全指南 
 
-### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
+### [LearnData-开源笔记](https://newzone.top/)
 
-《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
+一份关于开源工具、效率方法、心理学探索的自我提升笔记：
 
-![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
+![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
 
-### [under-the-hood](https://golang.design/under-the-hood/)
+### [Prompt engineering overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 
-`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
+详细介绍了如何通过提示工程来最大化 Claude 4 模型的效能：
 
-![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
+![Prompt engineering overview](https://images-1252557999.file.myqcloud.com/uPic/d8RFeW.png) 
 
 ## 🕸 网站 
 
-### [useanimations](https://useanimations.com/)
+### [roadmap.sh](https://roadmap.sh/)
 
-前端动态 `UI` 样式集合：
+这是一个开源免费的项目，主要是提供了各种技术栈的学习路线：
 
-![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
+![roadmap](https://images-1252557999.file.myqcloud.com/uPic/roadmap.jpg) 
 
-### [llmresourceshub](https://llmresourceshub.vercel.app/)
+### [smithery.ai](https://smithery.ai/)
 
-一站式 LLM 资源合集：
+一个集成了多种 Model Context Protocol (MCP) 服务器的平台，旨于通过 MCP 服务器扩展代理（AI）的功能，使其能够访问和管理大量工具和数据，从而提高决策和解决问题的能力：
 
-![llmresourceshub](https://images-1252557999.file.myqcloud.com/uPic/eSgtB8.png) 
+![smithery](https://images-1252557999.file.myqcloud.com/uPic/F7tIpp.png) 
 
-### [fulltime.ai](https://fulltime.ai/spaces/)
+### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
 
-搜索体验 288个 `HuggingFace` 空间 `GPU` 上运行的项目：
+软件镜像站：
 
-![fulltime_ai](https://images-1252557999.file.myqcloud.com/uPic/fulltime_ai.jpg) 
+![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
 
 ## ✍️ 说明
 
