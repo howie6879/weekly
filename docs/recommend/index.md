@@ -5,97 +5,95 @@
 
 ## 🎯 项目 
 
-### [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)
+### [uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 
-老胡最近整的开源项目，从[技术周刊精选](https://www.fre123.com/weekly/)到[信息流](https://www.fre123.com/tech)，和前端朋友一起梳理出了个通用的排版并开源出来，欢迎大家使用和提出建议:
+这个项目提供了一个用于过滤 AI 生成内容的大型屏蔽列表，适用于 uBlock Origin & uBlacklist 插件。 
 
-![fre123-info-flow-demo](https://images-1252557999.file.myqcloud.com/uPic/fre123-info-flow-demo.jpg) 
+### [ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher)
 
-### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
+`ollama-deep-researcher` 是一个完全本地化的网络研究和报告编写助手，能够使用 `Ollama` 托管的任何大型语言模型（`LLM`），通过迭代的搜索和总结过程，对给定主题进行深入研究。
 
-动漫、电视剧的自动更新及在线观看，项目介绍：
+![ollama-deep-researcher](https://images-1252557999.file.myqcloud.com/uPic/2GCi0v.png) 
 
-- 聚合各种阿里云盘资源
-- 实现动漫、电视剧、电影的自动更新
-- 通过docker部署的Alist项目，实现影视的在线搜索及观看
+### [greppo](https://github.com/greppo-io/greppo)
 
-![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
+快速轻松地构建部署地理空间应用程序：
 
-### [reader-s](https://github.com/hectorqin/reader)
-
-阅读3服务器版，不需要手机，可以体验下在web上追更你的小说：
-
-![reader-s](https://images-1252557999.file.myqcloud.com/uPic/reader-s.jpg) 
+![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
 
 ## 🤖 软件 
 
-### [MultiWeChatManager](https://github.com/wfql1024/MultiWeChatManager)
+### [FileConverter](https://github.com/Tichau/FileConverter)
 
-懒得点？懒得扫码？那就交给它！🛠️ 这是一款专为 微信多开（未来也可以支持其他平台！！） 而设计的 自动化管理工具，支持 多号一键登录、全局多开、自启动登录、防撤回 等功能，是让你省心的好工具！🚀
+`File Converter` 是一个简单的工具，允许用户通过 Windows 资源管理器的上下文菜单转换和压缩文件：
 
-- 本项目通过查杀微信等平台的互斥体线程而实现多开
-- 选号登录是保存并应用微信等平台存储在本地的配置文件的过程
+![FileConverter](https://images-1252557999.file.myqcloud.com/uPic/3Mtc4V.png) 
 
-![MultiWeChatManager](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6215264216928076702-y.jpg)
+### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
 
-**使用需谨慎，防止封号**，老胡概不负责。 
+自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
 
-### [ruzz](https://github.com/vlts1/ruzz)
+![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
 
-`Ruzz` 是一个免费的开源应用程序，它用于跟踪流行的编程语言、框架、库和编辑器的新特性和变化:
+### [v2ex](https://v2ex.com/)
 
-![ruzz](https://images-1252557999.file.myqcloud.com/uPic/ruzz.jpg) 
+`V2EX` 的使命是为创意工作者打造一个最好的社区，他们在这里可以获得灵感，分享想法，找到伙伴，获得通向目标的加速度，程序员群体必备，如果你不知道 `V2EX`，可以访问玩玩。
 
-### [Klee](https://github.com/signerlabs/Klee)
+开源客户端推荐：
 
-通过内置的 `RAG` 知识库和 `Markdown` 笔记支持，在您的桌面上安全本地人工智能：
+- [V2ex-Swift](https://github.com/Finb/V2ex-Swift)：比较老牌的 `V2EX IOS` 第三方客户端
+- [V2Compose](https://github.com/cooaer/V2Compose)：使用 `Compose` 构建的一个 `V2ex` 的 `Android` 客户端
+- [V2Fun](https://github.com/liaoliao666/v2ex)：`V2EX` 好看的第三方客户端（Android&IOS），支持夜间模式
+- [V2exOS](https://github.com/isaced/V2exOS)：一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端
+- [react-native-v2ex](https://github.com/funnyzak/react-native-v2ex)：
 
-![Klee](https://images-1252557999.file.myqcloud.com/uPic/AYykm3.png) 
+相关软件截图：
+
+![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png)
+
+![V2Compose](https://images-1252557999.file.myqcloud.com/uPic/V2Compose.jpg)
+
+![react-native-v2ex](https://images-1252557999.file.myqcloud.com/uPic/react-native-v2ex.jpeg) 
 
 ## 👀 资料 
 
-### [secguide](https://github.com/Tencent/secguide)
+### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
 
-面向开发人员梳理的代码安全指南，规范索引如下：
+一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
 
-- C/C++安全指南
-- JavaScript安全指南
-- Node安全指南
-- Go安全指南
-- Java安全指南
-- Python安全指南 
+![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
 
-### [LearnData-开源笔记](https://newzone.top/)
+### [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
 
-一份关于开源工具、效率方法、心理学探索的自我提升笔记：
+面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:
 
-![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
+![llm-cookbook](https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png) 
 
-### [Prompt engineering overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+### [HF 开源AI课程](https://huggingface.co/learn)
 
-详细介绍了如何通过提示工程来最大化 Claude 4 模型的效能：
+`HuggingFace` 推出9门全免费开源AI课程，涵盖大模型、智能代理、视觉、3D、音频、游戏等前沿领域，助力从入门到进阶的系统化学习。
 
-![Prompt engineering overview](https://images-1252557999.file.myqcloud.com/uPic/d8RFeW.png) 
+![huggingface_learn](https://images-1252557999.file.myqcloud.com/uPic/y3Llq2.png) 
 
 ## 🕸 网站 
 
-### [roadmap.sh](https://roadmap.sh/)
+### [devhints](https://devhints.io/)
 
-这是一个开源免费的项目，主要是提供了各种技术栈的学习路线：
+一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
 
-![roadmap](https://images-1252557999.file.myqcloud.com/uPic/roadmap.jpg) 
+![devhints](https://images-1252557999.file.myqcloud.com/uPic/Wl8r0C.png) 
 
-### [smithery.ai](https://smithery.ai/)
+### [calltoinspiration](https://calltoinspiration.com/)
 
-一个集成了多种 Model Context Protocol (MCP) 服务器的平台，旨于通过 MCP 服务器扩展代理（AI）的功能，使其能够访问和管理大量工具和数据，从而提高决策和解决问题的能力：
+根据不同 `UI` 下业务类型和方向进行分类，给用户展示不同效果以参考：
 
-![smithery](https://images-1252557999.file.myqcloud.com/uPic/F7tIpp.png) 
+![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
 
-### [mirrors.quickso.cn](https://mirrors.quickso.cn/)
+### [trending.design](https://trending.design/)
 
-软件镜像站：
+收集一些在 𝕏(twitter) 上的最佳设计灵感：
 
-![mirrors_qs](https://images-1252557999.file.myqcloud.com/uPic/mirrors_qs.jpg) 
+![trending.design](https://images-1252557999.file.myqcloud.com/uPic/trending.design.jpg) 
 
 ## ✍️ 说明
 
