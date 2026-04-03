@@ -5,95 +5,91 @@
 
 ## 🎯 项目 
 
-### [uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+### [appstore-discounts](https://github.com/eyelly-wu/appstore-discounts)
 
-这个项目提供了一个用于过滤 AI 生成内容的大型屏蔽列表，适用于 uBlock Origin & uBlacklist 插件。 
+开源的 App Store 折扣信息助手，基于 GitHub Actions 实现，支持 RSS，Telegram 和钉钉通知：
 
-### [ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher)
+- 支持任意 国家或地区 的 App Store （理论上🤔）
+- 支持追踪 应用本体 的价格和 App 内购买项目 的价格
+- 支持多种方式订阅折扣信息
+- 开源免费，任何人可参与贡献 
 
-`ollama-deep-researcher` 是一个完全本地化的网络研究和报告编写助手，能够使用 `Ollama` 托管的任何大型语言模型（`LLM`），通过迭代的搜索和总结过程，对给定主题进行深入研究。
+### [go-musicfox](https://github.com/go-musicfox/go-musicfox)
 
-![ollama-deep-researcher](https://images-1252557999.file.myqcloud.com/uPic/2GCi0v.png) 
+`go-musicfox`是用 Go 写的又一款网易云音乐命令行客户端，支持 `UnblockNeteaseMusic`、各种音质级别、`lastfm`、`MPRIS`、`MacOS` 交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）:
 
-### [greppo](https://github.com/greppo-io/greppo)
+![go-musicfox](https://images-1252557999.file.myqcloud.com/uPic/go-musicfox.png) 
 
-快速轻松地构建部署地理空间应用程序：
+### [glance](https://github.com/glanceapp/glance)
 
-![greppo](https://images-1252557999.file.myqcloud.com/uPic/IzNSxY.jpg) 
+`Glance` 可以将你所有的订阅源聚合到一个页面中，支持多种小部件，可以自定义主题：
+
+![glance](https://images-1252557999.file.myqcloud.com/uPic/glance.jpg) 
 
 ## 🤖 软件 
 
-### [FileConverter](https://github.com/Tichau/FileConverter)
+### [app_rhyme](https://github.com/canxin121/app_rhyme)
 
-`File Converter` 是一个简单的工具，允许用户通过 Windows 资源管理器的上下文菜单转换和压缩文件：
+使用 `Flutter` 和 `Rust` 开发的跨平台自定义音源音乐播放器：
 
-![FileConverter](https://images-1252557999.file.myqcloud.com/uPic/3Mtc4V.png) 
+![app_rhyme](https://images-1252557999.file.myqcloud.com/uPic/hGPRWI.png) 
 
-### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
+### [void](https://github.com/voideditor/void#readme)
 
-自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
+`Void` 是一个开源的 `Cursor` 替代项目：
 
-![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
+![void](https://images-1252557999.file.myqcloud.com/uPic/ewYGFx.png) 
 
-### [v2ex](https://v2ex.com/)
+### [Maccy](https://github.com/p0deje/Maccy)
 
-`V2EX` 的使命是为创意工作者打造一个最好的社区，他们在这里可以获得灵感，分享想法，找到伙伴，获得通向目标的加速度，程序员群体必备，如果你不知道 `V2EX`，可以访问玩玩。
+轻量级macOS剪切板管理应用：
 
-开源客户端推荐：
+![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
+使用截图如下：
 
-- [V2ex-Swift](https://github.com/Finb/V2ex-Swift)：比较老牌的 `V2EX IOS` 第三方客户端
-- [V2Compose](https://github.com/cooaer/V2Compose)：使用 `Compose` 构建的一个 `V2ex` 的 `Android` 客户端
-- [V2Fun](https://github.com/liaoliao666/v2ex)：`V2EX` 好看的第三方客户端（Android&IOS），支持夜间模式
-- [V2exOS](https://github.com/isaced/V2exOS)：一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端
-- [react-native-v2ex](https://github.com/funnyzak/react-native-v2ex)：
-
-相关软件截图：
-
-![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png)
-
-![V2Compose](https://images-1252557999.file.myqcloud.com/uPic/V2Compose.jpg)
-
-![react-native-v2ex](https://images-1252557999.file.myqcloud.com/uPic/react-native-v2ex.jpeg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
 
 ## 👀 资料 
 
-### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
+### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
-一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
+30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
 
-![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
+![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
 
-### [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
+### [easy-rl](https://github.com/datawhalechina/easy-rl)
 
-面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:
+强化学习中文教程：
 
-![llm-cookbook](https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png) 
+![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
 
-### [HF 开源AI课程](https://huggingface.co/learn)
+### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
 
-`HuggingFace` 推出9门全免费开源AI课程，涵盖大模型、智能代理、视觉、3D、音频、游戏等前沿领域，助力从入门到进阶的系统化学习。
+从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
 
-![huggingface_learn](https://images-1252557999.file.myqcloud.com/uPic/y3Llq2.png) 
+![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [devhints](https://devhints.io/)
+### [vim.is](https://vim.is/#exercise)
 
-一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
+`Vim`学习网站：
 
-![devhints](https://images-1252557999.file.myqcloud.com/uPic/Wl8r0C.png) 
+![vim.is](https://images-1252557999.file.myqcloud.com/uPic/iA6wxm.png) 
 
-### [calltoinspiration](https://calltoinspiration.com/)
+### [flowgpt](https://flowgpt.com/)
 
-根据不同 `UI` 下业务类型和方向进行分类，给用户展示不同效果以参考：
+一个分享ChatGPT提示的网站：
 
-![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
+![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
 
-### [trending.design](https://trending.design/)
+### [blinkshot](https://github.com/Nutlope/blinkshot)
 
-收集一些在 𝕏(twitter) 上的最佳设计灵感：
+ 基于 `Flux` 通过 `Together.ai` 提供的图像模型和推理能力实现的一个开源的实时 AI 图像生成器：
 
-![trending.design](https://images-1252557999.file.myqcloud.com/uPic/trending.design.jpg) 
+![blinkshot](https://images-1252557999.file.myqcloud.com/uPic/WT8nAl.png)
+
+体验后，效果一般，这是模型原因并不是项目本身原因，因为 100% 开源～ 
 
 ## ✍️ 说明
 
