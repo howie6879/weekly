@@ -5,91 +5,93 @@
 
 ## 🎯 项目 
 
-### [appstore-discounts](https://github.com/eyelly-wu/appstore-discounts)
+### [hoppscotch](https://github.com/hoppscotch/hoppscotch)
 
-开源的 App Store 折扣信息助手，基于 GitHub Actions 实现，支持 RSS，Telegram 和钉钉通知：
+`Hoppscotch`对标的是`Postman`，相信涉及到后端接口这块大家都对`Postman`非常熟悉，但`Postman`自从收费后，评价就慢慢开始不行了，而且软件也越来越重，我本人也是同感，不然我也没有动机找到`hoppscotch`来替换。
 
-- 支持任意 国家或地区 的 App Store （理论上🤔）
-- 支持追踪 应用本体 的价格和 App 内购买项目 的价格
-- 支持多种方式订阅折扣信息
-- 开源免费，任何人可参与贡献 
+有恶龙就有勇士，有位印度裔小哥`Liyas Thomas`坐不住了，对`Postman`非常不爽，于是他自己开发了`Postwoman`，看这个名字也知道是干嘛的，后面改名为`Hoppscotch`。
 
-### [go-musicfox](https://github.com/go-musicfox/go-musicfox)
+开源的魅力就在这里，永远有人做出让大家欢呼的贡献，所以`Hoppscotch`在社区获得非常高的认可度（目前已经30K Star+），其提供了非常丰富的特性，部署也很方便，有兴趣的可以尝试使用看看：
 
-`go-musicfox`是用 Go 写的又一款网易云音乐命令行客户端，支持 `UnblockNeteaseMusic`、各种音质级别、`lastfm`、`MPRIS`、`MacOS` 交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）:
+![hoppscotch](https://images-1252557999.file.myqcloud.com/uPic/sPde7J.png) 
 
-![go-musicfox](https://images-1252557999.file.myqcloud.com/uPic/go-musicfox.png) 
+### [enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China)
 
-### [glance](https://github.com/glanceapp/glance)
+提升部署在 `cloudflare、vercel、netlify` 的网页在中国的访问速度和稳定性。 
 
-`Glance` 可以将你所有的订阅源聚合到一个页面中，支持多种小部件，可以自定义主题：
+### [instantbox](https://github.com/instantbox/instantbox)
 
-![glance](https://images-1252557999.file.myqcloud.com/uPic/glance.jpg) 
+可以在任意浏览器中快速启动临时 `Linux` 系统并提供即时 `webshell` 访问，它可用于演示、教学、灵感迸发时提供干净环境、设备管理、开源项目实验及软件性能测试等多种用途。支持的 Linux 发行版包括 Ubuntu、CentOS、Arch Linux、Debian、Fedora 和 Alpine。
+
+![instantbox](https://images-1252557999.file.myqcloud.com/uPic/instantbox.jpg) 
 
 ## 🤖 软件 
 
-### [app_rhyme](https://github.com/canxin121/app_rhyme)
+### [biyi](https://github.com/lijy91/biyi)
 
-使用 `Flutter` 和 `Rust` 开发的跨平台自定义音源音乐播放器：
+比译是一个用 `Flutter` 编写的跨平台便捷翻译和词典应用：
 
-![app_rhyme](https://images-1252557999.file.myqcloud.com/uPic/hGPRWI.png) 
+![biyi](https://images-1252557999.file.myqcloud.com/uPic/biyi.jpg) 
 
-### [void](https://github.com/voideditor/void#readme)
+### [Tran](https://github.com/Borber/Tran)
 
-`Void` 是一个开源的 `Cursor` 替代项目：
+简洁, 快速, 划词翻译：
 
-![void](https://images-1252557999.file.myqcloud.com/uPic/ewYGFx.png) 
+- 开箱即用
+- 永久免费使用
+- 谷歌翻译镜像
 
-### [Maccy](https://github.com/p0deje/Maccy)
+![Tran](https://images-1252557999.file.myqcloud.com/uPic/Tran.jpg)
 
-轻量级macOS剪切板管理应用：
+其他开源划词翻译软件推荐：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
-使用截图如下：
+- [pot-desktop](https://github.com/pot-app/pot-desktop)：🌈一个跨平台的划词翻译和OCR软件
+- [Easydict](https://github.com/tisfeng/Easydict)：一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。
+- [TTime](https://github.com/inkTimeRecord/TTime)：🚀 一款简洁高效的输入、截图、划词翻译软件 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
+### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
+
+基于 Electron + Vue + ffmpeg 的 GUI：
+
+![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
 
 ## 👀 资料 
 
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+### [Web Development History](https://webdevelopmenthistory.com/index/)
 
-30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
+`Web` 开发发展史文章系列：
 
-![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
+![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
+### [react-illustration-series](https://github.com/7kms/react-illustration-series)
 
-强化学习中文教程：
+图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
 
-![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
+### [Flutter实战·第二版](https://book.flutterchina.club/)
 
-### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
+本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
 
-从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
-
-![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
+![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
 
 ## 🕸 网站 
 
-### [vim.is](https://vim.is/#exercise)
+### [warp.dev](https://www.warp.dev/)
 
-`Vim`学习网站：
+一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
 
-![vim.is](https://images-1252557999.file.myqcloud.com/uPic/iA6wxm.png) 
+![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
 
-### [flowgpt](https://flowgpt.com/)
+### [freelancethings](https://www.freelancethings.co/)
 
-一个分享ChatGPT提示的网站：
+为自由职业者精心挑选的资源，涉及到社区、工具、文章、书籍、视频等，这些都帮助你在自由职业之旅中获得更多帮助，订阅后每周发送到您的收件箱:
 
-![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
+![freelancethings](https://images-1252557999.file.myqcloud.com/uPic/freelancethings.jpg) 
 
-### [blinkshot](https://github.com/Nutlope/blinkshot)
+### [stockai.trade](https://stockai.trade)
 
- 基于 `Flux` 通过 `Together.ai` 提供的图像模型和推理能力实现的一个开源的实时 AI 图像生成器：
-
-![blinkshot](https://images-1252557999.file.myqcloud.com/uPic/WT8nAl.png)
-
-体验后，效果一般，这是模型原因并不是项目本身原因，因为 100% 开源～ 
+ `AI` 选股分析网站（基于 `ChatGPT`）完全免费，无需注册:
+ 
+ ![stockai](https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg) 
 
 ## ✍️ 说明
 
