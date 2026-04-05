@@ -5,93 +5,111 @@
 
 ## 🎯 项目 
 
-### [hoppscotch](https://github.com/hoppscotch/hoppscotch)
+### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 
-`Hoppscotch`对标的是`Postman`，相信涉及到后端接口这块大家都对`Postman`非常熟悉，但`Postman`自从收费后，评价就慢慢开始不行了，而且软件也越来越重，我本人也是同感，不然我也没有动机找到`hoppscotch`来替换。
+`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
 
-有恶龙就有勇士，有位印度裔小哥`Liyas Thomas`坐不住了，对`Postman`非常不爽，于是他自己开发了`Postwoman`，看这个名字也知道是干嘛的，后面改名为`Hoppscotch`。
+![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
 
-开源的魅力就在这里，永远有人做出让大家欢呼的贡献，所以`Hoppscotch`在社区获得非常高的认可度（目前已经30K Star+），其提供了非常丰富的特性，部署也很方便，有兴趣的可以尝试使用看看：
+### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
 
-![hoppscotch](https://images-1252557999.file.myqcloud.com/uPic/sPde7J.png) 
+适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
 
-### [enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China)
+![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
 
-提升部署在 `cloudflare、vercel、netlify` 的网页在中国的访问速度和稳定性。 
+### [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)
 
-### [instantbox](https://github.com/instantbox/instantbox)
+一个 `Calibre` 插件，可以将电子书翻译成指定的语言：
 
-可以在任意浏览器中快速启动临时 `Linux` 系统并提供即时 `webshell` 访问，它可用于演示、教学、灵感迸发时提供干净环境、设备管理、开源项目实验及软件性能测试等多种用途。支持的 Linux 发行版包括 Ubuntu、CentOS、Arch Linux、Debian、Fedora 和 Alpine。
+支持所选翻- 译引擎所支持的语言（如 Google 翻译支持 134 种）
+- 支持多种翻译引擎，包括 Google 翻译、ChatGPT 以及 DeepL
+- 支持自定义翻译引擎（支持解析 JSON 和 XML 格式响应）
+- 支持所有 Calibre 所支持的电子书格式（输入格式 48 种，输出格式 20 种）
+- 支持批量翻译电子书，每本书的翻译过程同时进行互不影响
+- 支持缓存翻译内容，在请求失败或网络中断后无需重新翻译
+- 提供大量自定义设置，如将翻译的电子书存到 Calibre 书库或指定位置
 
-![instantbox](https://images-1252557999.file.myqcloud.com/uPic/instantbox.jpg) 
+![Ebook-Translator-Calibre-Plugin](https://images-1252557999.file.myqcloud.com/uPic/Ebook-Translator-Calibre-Plugin.png) 
 
 ## 🤖 软件 
 
-### [biyi](https://github.com/lijy91/biyi)
+### [TTime](https://github.com/inkTimeRecord/TTime)
 
-比译是一个用 `Flutter` 编写的跨平台便捷翻译和词典应用：
+🚀 一款简洁高效的跨平台输入、截图、划词翻译软件：
 
-![biyi](https://images-1252557999.file.myqcloud.com/uPic/biyi.jpg) 
+![TTime](https://images-1252557999.file.myqcloud.com/uPic/TTime.jpg)
 
-### [Tran](https://github.com/Borber/Tran)
+[Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#bob) 算是这类软件的鼻祖，之前我也推荐过 [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=pot#pot-desktop) ，大家酌情选择即可。 
 
-简洁, 快速, 划词翻译：
+### [NanaZip](https://github.com/M2Team/NanaZip)
 
-- 开箱即用
-- 永久免费使用
-- 谷歌翻译镜像
+`NanaZip` 是一个面向现代 `Windows` 体验的开源文件压缩工具，基于知名的开源文件压缩工具 `7-Zip` 的源代码：
 
-![Tran](https://images-1252557999.file.myqcloud.com/uPic/Tran.jpg)
+![NanaZip](https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg) 
 
-其他开源划词翻译软件推荐：
+### [Focalboard](https://github.com/mattermost/focalboard)
 
-- [pot-desktop](https://github.com/pot-app/pot-desktop)：🌈一个跨平台的划词翻译和OCR软件
-- [Easydict](https://github.com/tisfeng/Easydict)：一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。
-- [TTime](https://github.com/inkTimeRecord/TTime)：🚀 一款简洁高效的输入、截图、划词翻译软件 
+`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
 
-### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
-
-基于 Electron + Vue + ffmpeg 的 GUI：
-
-![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
+![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
 
 ## 👀 资料 
 
-### [Web Development History](https://webdevelopmenthistory.com/index/)
+### [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/index.html)
 
-`Web` 开发发展史文章系列：
+Beej 的 Git 指南教程：
 
-![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
+![Beejgit](https://images-1252557999.file.myqcloud.com/uPic/UAP5Fj.png)
 
-### [react-illustration-series](https://github.com/7kms/react-illustration-series)
+之前推荐过[Beej 的 C 语言超级指南](https://beej.us/guide/bgc/html/split/)，从入门到进阶，基础语法到高级特性：
 
-图解react->基于react@17.0.2源码, 用大量配图的方式, 致力于将react原理表述清楚。 
+![Beej](https://images-1252557999.file.myqcloud.com/uPic/1XOLrv.png) 
 
-### [Flutter实战·第二版](https://book.flutterchina.club/)
+### [aie-book](https://github.com/chiphuyen/aie-book)
 
-本书是Flutter中国开源项目 (opens new window)发起人杜文（网名wendux） 创作的一本系统介绍Flutter技术的中文书籍，旨在帮助开发者系统地、循序渐进地了解Flutter技术：
+`AI` 工程师资源合集，该书涵盖了从基础模型到实际应用的整个过程，包括数据准备、模型评估、问题解决等方面。书中还提供了案例研究、误差分析、提示工程、代理构建、微调模型、数据验证、模型优化和持续改进的框架。这本书适合各种技术角色，包括 `AI` 工程师、数据科学家、工程经理和产品经理。
 
-![Flutter实战·第二版](https://images-1252557999.file.myqcloud.com/uPic/Flutter实战·第二版.jpg) 
+![aie-book](https://images-1252557999.file.myqcloud.com/uPic/QD4TLj.png) 
+
+### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
+
+从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
+
+![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [warp.dev](https://www.warp.dev/)
+### [appbaseio/mirage](https://opensource.appbase.io/mirage/)
 
-一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
+这是一个用于简化 `ES` 查询语句编写的开源项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句：
 
-![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
+- 开源代码地址：[https://github.com/appbaseio/mirage](https://github.com/appbaseio/mirage)
+- 访问地址： [https://opensource.appbase.io/mirage/](https://opensource.appbase.io/mirage/)
 
-### [freelancethings](https://www.freelancethings.co/)
+当然你也可以本机自行部署，非常方便，比较遗憾的是目前只支持到 `-v7.x`：
 
-为自由职业者精心挑选的资源，涉及到社区、工具、文章、书籍、视频等，这些都帮助你在自由职业之旅中获得更多帮助，订阅后每周发送到您的收件箱:
+![mirage](https://images-1252557999.file.myqcloud.com/uPic/mirage.png) 
 
-![freelancethings](https://images-1252557999.file.myqcloud.com/uPic/freelancethings.jpg) 
+### [smartexcel](https://smartexcel.cc/)
 
-### [stockai.trade](https://stockai.trade)
+使用 `AI` 在几秒钟内生成 `Excel` 公式的工具。描述自己的需要，即可生成相应的公式。需要登录，每天 有10 个免费积分可以使用:
 
- `AI` 选股分析网站（基于 `ChatGPT`）完全免费，无需注册:
- 
- ![stockai](https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg) 
+![smartexcel](https://images-1252557999.file.myqcloud.com/uPic/DXKVRR.png)
+
+开源地址：[smartexcel](https://github.com/weijunext/smart-excel-ai)。 
+
+### [文学网](https://www.hwxnet.com/)
+
+文学相关工具在线网站：
+
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
+
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
 ## ✍️ 说明
 
