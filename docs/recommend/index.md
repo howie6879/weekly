@@ -5,111 +5,98 @@
 
 ## 🎯 项目 
 
-### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
+### [Strapi](https://github.com/strapi/strapi)
 
-`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
+`Strapi` 是一个开源的头部 `CMS`，它允许开发者使用 `JavaScript` 或 `TypeScript` 来构建和定制项目。它是为开发者设计的，提供了完全的自定义能力和灵活性：
 
-![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
+![Strapi](https://images-1252557999.file.myqcloud.com/uPic/lKNHVM.png) 
 
-### [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+### [Casdoor](https://github.com/casdoor/casdoor)
 
-适用于`Windows`下`PC`版`微信/QQ/TIM`的防撤回补丁。支持最新版`微信/QQ/TIM`，其中微信能够选择安装多开功能。
+Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
 
-![RevokeMsgPatcher](https://images-1252557999.file.myqcloud.com/uPic/RevokeMsgPatcher.png) 
+![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
 
-### [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)
+### [spy-search](https://github.com/JasonHonKL/spy-search)
 
-一个 `Calibre` 插件，可以将电子书翻译成指定的语言：
+Spy Search 是一个智能搜索框架，旨在提供比现有网页搜索代理更快速高效的日常搜索体验：
 
-支持所选翻- 译引擎所支持的语言（如 Google 翻译支持 134 种）
-- 支持多种翻译引擎，包括 Google 翻译、ChatGPT 以及 DeepL
-- 支持自定义翻译引擎（支持解析 JSON 和 XML 格式响应）
-- 支持所有 Calibre 所支持的电子书格式（输入格式 48 种，输出格式 20 种）
-- 支持批量翻译电子书，每本书的翻译过程同时进行互不影响
-- 支持缓存翻译内容，在请求失败或网络中断后无需重新翻译
-- 提供大量自定义设置，如将翻译的电子书存到 Calibre 书库或指定位置
-
-![Ebook-Translator-Calibre-Plugin](https://images-1252557999.file.myqcloud.com/uPic/Ebook-Translator-Calibre-Plugin.png) 
+![spy-search](https://images-1252557999.file.myqcloud.com/uPic/wT1XyL.png) 
 
 ## 🤖 软件 
 
-### [TTime](https://github.com/inkTimeRecord/TTime)
+### [SPlayer](https://github.com/imsyy/SPlayer)
 
-🚀 一款简洁高效的跨平台输入、截图、划词翻译软件：
+一个简约的音乐播放器（基于网易云音乐），支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配：
 
-![TTime](https://images-1252557999.file.myqcloud.com/uPic/TTime.jpg)
+![SPlayer](https://images-1252557999.file.myqcloud.com/uPic/SPlayer.jpeg)
 
-[Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#bob) 算是这类软件的鼻祖，之前我也推荐过 [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=pot#pot-desktop) ，大家酌情选择即可。 
+还有开发者基于此项目做了二开👉[GSQZ/TuneFree](https://github.com/GSQZ/TuneFree)，特点是可解析并播放网易云音乐中所有的付费资源。 
 
-### [NanaZip](https://github.com/M2Team/NanaZip)
+### [chatbox](https://github.com/Bin-Huang/chatbox)
 
-`NanaZip` 是一个面向现代 `Windows` 体验的开源文件压缩工具，基于知名的开源文件压缩工具 `7-Zip` 的源代码：
+开源的 `ChatGPT API (OpenAI API)` 桌面客户端，`Prompt` 的调试与管理工具，支持 `Windows、Mac 和 Linux`：
 
-![NanaZip](https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg) 
+![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.png) 
 
-### [Focalboard](https://github.com/mattermost/focalboard)
+### [MediaBox](https://github.com/RyensX/MediaBox)
 
-`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
+全能媒体容器，插件化网罗天下媒体，畅快学习软件开发。实现了类似微信小程序的框架，只需要简单实现插件API提供数据到容器即可快速成型，方便学习爬虫、APP开发等。容器主要为插件提供以下服务：
 
-![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
+- 数据自动渲染到UI(视图组件)
+- 媒体收藏/历史记录
+- 周期性媒体数据检查服务(插件只需要实现媒体检查更新组件即可被主动检查更新)
+- 视频播放组件(播放器)，支持手势控制/夜间模式/弹幕/倍速控制/多集聚合/横竖旋转适应等
+- 私有可视化KV存储(插件私有配置)
+- 个人数据/插件云端备份(WebDav,开发中)
+
+简单来说，这款软件能看什么取决与你用什么插件：
+
+![MediaBox](https://images-1252557999.file.myqcloud.com/uPic/MediaBox.jpg) 
 
 ## 👀 资料 
 
-### [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/index.html)
+### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
 
-Beej 的 Git 指南教程：
+《Software Engineering at Google》的中文翻译版本：
 
-![Beejgit](https://images-1252557999.file.myqcloud.com/uPic/UAP5Fj.png)
+![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
 
-之前推荐过[Beej 的 C 语言超级指南](https://beej.us/guide/bgc/html/split/)，从入门到进阶，基础语法到高级特性：
+### [udlbook](https://udlbook.github.io/udlbook/)
 
-![Beej](https://images-1252557999.file.myqcloud.com/uPic/1XOLrv.png) 
+麻省理工出品的免费电子书《理解深度学习》：
 
-### [aie-book](https://github.com/chiphuyen/aie-book)
+![udlbook](https://images-1252557999.file.myqcloud.com/uPic/udlbook.jpg) 
 
-`AI` 工程师资源合集，该书涵盖了从基础模型到实际应用的整个过程，包括数据准备、模型评估、问题解决等方面。书中还提供了案例研究、误差分析、提示工程、代理构建、微调模型、数据验证、模型优化和持续改进的框架。这本书适合各种技术角色，包括 `AI` 工程师、数据科学家、工程经理和产品经理。
+### [self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder)
 
-![aie-book](https://images-1252557999.file.myqcloud.com/uPic/QD4TLj.png) 
+首先，这不是一本程序员的技术书籍，整本书不会提及任何一个技术词汇，这也不是一本教你如何规划职业生涯，如何在职场走个更远的书，虽然我相信大部分内容确实有助于在职场的发展。
 
-### [mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial)
+但这本书的真正用意是想解决工作过程中碰到的焦虑、倦怠、迷茫、抑郁等情绪，聚焦于解决具体问题，通过改变认知将我们从负面情绪的泥淖中走出来，做到更坦然，真诚的面对自己的内心，成为一个自洽的程序员。
 
-从零开始学习MySQL，主要是面向MySQL数据库管理系统初学者：
+总而言之，这不是一本成功学的书，它不会教你如何赢，笔者本身也不是一个世俗意义上成功的人，而是一本帮你梳理情绪，转变心境的书。
 
-![mysql-tutorial](https://images-1252557999.file.myqcloud.com/uPic/mysql-tutorial.jpg) 
+![self-consistent-coder](https://images-1252557999.file.myqcloud.com/uPic/xxZILr.png) 
 
 ## 🕸 网站 
 
-### [appbaseio/mirage](https://opensource.appbase.io/mirage/)
+### [uiset](https://uiset.com/)
 
-这是一个用于简化 `ES` 查询语句编写的开源项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句：
+共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
 
-- 开源代码地址：[https://github.com/appbaseio/mirage](https://github.com/appbaseio/mirage)
-- 访问地址： [https://opensource.appbase.io/mirage/](https://opensource.appbase.io/mirage/)
+![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
 
-当然你也可以本机自行部署，非常方便，比较遗憾的是目前只支持到 `-v7.x`：
+### [z2h 字帖](https://paper.z2h.cn/)
 
-![mirage](https://images-1252557999.file.myqcloud.com/uPic/mirage.png) 
+用正确的方法刻意练习，每个人都能写出一手漂亮的字，自定义字帖字体和内容，可打印导出练字：
 
-### [smartexcel](https://smartexcel.cc/)
+![z2h](https://images-1252557999.file.myqcloud.com/uPic/z2h.jpg) 
 
-使用 `AI` 在几秒钟内生成 `Excel` 公式的工具。描述自己的需要，即可生成相应的公式。需要登录，每天 有10 个免费积分可以使用:
+### [removebg](https://www.remove.bg/zh)
 
-![smartexcel](https://images-1252557999.file.myqcloud.com/uPic/DXKVRR.png)
+这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
 
-开源地址：[smartexcel](https://github.com/weijunext/smart-excel-ai)。 
-
-### [文学网](https://www.hwxnet.com/)
-
-文学相关工具在线网站：
-
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
-
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
 
 ## ✍️ 说明
 
