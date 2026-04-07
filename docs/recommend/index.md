@@ -5,98 +5,85 @@
 
 ## 🎯 项目 
 
-### [Strapi](https://github.com/strapi/strapi)
+### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
 
-`Strapi` 是一个开源的头部 `CMS`，它允许开发者使用 `JavaScript` 或 `TypeScript` 来构建和定制项目。它是为开发者设计的，提供了完全的自定义能力和灵活性：
+阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
 
-![Strapi](https://images-1252557999.file.myqcloud.com/uPic/lKNHVM.png) 
+如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
 
-### [Casdoor](https://github.com/casdoor/casdoor)
+![Infuse](https://images-1252557999.file.myqcloud.com/uPic/Fbred5.png) 
 
-Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
+### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
 
-![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
+读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
 
-### [spy-search](https://github.com/JasonHonKL/spy-search)
+![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
 
-Spy Search 是一个智能搜索框架，旨在提供比现有网页搜索代理更快速高效的日常搜索体验：
+### [docker-wechat](https://github.com/huan/docker-wechat)
 
-![spy-search](https://images-1252557999.file.myqcloud.com/uPic/wT1XyL.png) 
+盒装微信，在linux下基于Docker技术使用微信客户端：
+
+![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
 
 ## 🤖 软件 
 
-### [SPlayer](https://github.com/imsyy/SPlayer)
+### [163MusicLyrics](https://github.com/jitwxs/163MusicLyrics)
 
-一个简约的音乐播放器（基于网易云音乐），支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配：
+Windows 云音乐歌词获取【网易云、QQ音乐】:
 
-![SPlayer](https://images-1252557999.file.myqcloud.com/uPic/SPlayer.jpeg)
+![163MusicLyrics](https://images-1252557999.file.myqcloud.com/uPic/JElaUM.png) 
 
-还有开发者基于此项目做了二开👉[GSQZ/TuneFree](https://github.com/GSQZ/TuneFree)，特点是可解析并播放网易云音乐中所有的付费资源。 
+### [FluentHub](https://github.com/FluentHub/FluentHub)
 
-### [chatbox](https://github.com/Bin-Huang/chatbox)
+界面  `UI` 时尚功能强大的 `Windows GitHub` 客户端：
 
-开源的 `ChatGPT API (OpenAI API)` 桌面客户端，`Prompt` 的调试与管理工具，支持 `Windows、Mac 和 Linux`：
+![FluentHub](https://images-1252557999.file.myqcloud.com/uPic/FluentHub.png) 
 
-![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.png) 
+### [hyprnote](https://github.com/fastrepl/hyprnote)
 
-### [MediaBox](https://github.com/RyensX/MediaBox)
+`Hyprnote` 是一个专为连续会议的参与者设计的本地优先 `AI` 笔记软件。它能够在你记录会议时，同时聆听会议内容并制作智能摘要。`Hyprnote` 支持完全离线运行，使用开源模型如 `Whisper` 或 `HyprLLM`。软件不需要互联网连接，所有数据都保存在用户的设备上，确保数据不会外泄。
 
-全能媒体容器，插件化网罗天下媒体，畅快学习软件开发。实现了类似微信小程序的框架，只需要简单实现插件API提供数据到容器即可快速成型，方便学习爬虫、APP开发等。容器主要为插件提供以下服务：
-
-- 数据自动渲染到UI(视图组件)
-- 媒体收藏/历史记录
-- 周期性媒体数据检查服务(插件只需要实现媒体检查更新组件即可被主动检查更新)
-- 视频播放组件(播放器)，支持手势控制/夜间模式/弹幕/倍速控制/多集聚合/横竖旋转适应等
-- 私有可视化KV存储(插件私有配置)
-- 个人数据/插件云端备份(WebDav,开发中)
-
-简单来说，这款软件能看什么取决与你用什么插件：
-
-![MediaBox](https://images-1252557999.file.myqcloud.com/uPic/MediaBox.jpg) 
+![hyprnote](https://images-1252557999.file.myqcloud.com/uPic/vnfVro.png) 
 
 ## 👀 资料 
 
-### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+### [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
 
-《Software Engineering at Google》的中文翻译版本：
+面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:
 
-![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
+![llm-cookbook](https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png) 
 
-### [udlbook](https://udlbook.github.io/udlbook/)
+### [llm-course](https://github.com/mlabonne/llm-course)
 
-麻省理工出品的免费电子书《理解深度学习》：
+与大型语言模型(LLM)相关的笔记本和文章清单：
 
-![udlbook](https://images-1252557999.file.myqcloud.com/uPic/udlbook.jpg) 
+![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
 
-### [self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder)
+### [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
-首先，这不是一本程序员的技术书籍，整本书不会提及任何一个技术词汇，这也不是一本教你如何规划职业生涯，如何在职场走个更远的书，虽然我相信大部分内容确实有助于在职场的发展。
+Model Context Protocol(MCP) 编程极速入门：
 
-但这本书的真正用意是想解决工作过程中碰到的焦虑、倦怠、迷茫、抑郁等情绪，聚焦于解决具体问题，通过改变认知将我们从负面情绪的泥淖中走出来，做到更坦然，真诚的面对自己的内心，成为一个自洽的程序员。
-
-总而言之，这不是一本成功学的书，它不会教你如何赢，笔者本身也不是一个世俗意义上成功的人，而是一本帮你梳理情绪，转变心境的书。
-
-![self-consistent-coder](https://images-1252557999.file.myqcloud.com/uPic/xxZILr.png) 
+![MCP-Chinese-Getting-Started-Guide](https://images-1252557999.file.myqcloud.com/uPic/ORcZa8.png) 
 
 ## 🕸 网站 
 
-### [uiset](https://uiset.com/)
+### [confluence.org](https://confluence.org/)
 
-共收集 95 个免费优质的 UI 资源，包括插图、图标、颜色、图案、头像、表情、美化等领域的项目：
+网站目标是访问世界上每一个经纬度为整数的交叉点，并在每个地点拍照记录：
 
-![uiset](https://images-1252557999.file.myqcloud.com/uPic/uiset.jpg) 
+![confluence](https://images-1252557999.file.myqcloud.com/uPic/aDxPoP.png) 
 
-### [z2h 字帖](https://paper.z2h.cn/)
+### [zerogpt](https://www.zerogpt.com/)
 
-用正确的方法刻意练习，每个人都能写出一手漂亮的字，自定义字帖字体和内容，可打印导出练字：
+由 `ZeroGPT` 开发的 `GPT-4，ChatGPT` AI 内容检测器：
 
-![z2h](https://images-1252557999.file.myqcloud.com/uPic/z2h.jpg) 
+![zerogpt](https://images-1252557999.file.myqcloud.com/uPic/zerogpt.jpg) 
 
-### [removebg](https://www.remove.bg/zh)
+### [browserless.io](https://www.browserless.io/)
 
-这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
+`Browserless` 是一个提供浏览器自动化和绕过机器人检测器的服务，它通过自家开发的 `BrowserQL` 技术帮助用户绕过 `CAPTCHA` 和其他反爬虫机制，并且提供了一个由数千个浏览器组成的池子来扩展自动化任务，无需用户管理浏览器版本更新和其他技术细节。
 
-![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
+![browserless.io](https://images-1252557999.file.myqcloud.com/uPic/VUUtRz.png) 
 
 ## ✍️ 说明
 
