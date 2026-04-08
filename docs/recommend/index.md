@@ -5,85 +5,83 @@
 
 ## 🎯 项目 
 
-### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
+### [Casdoor](https://github.com/casdoor/casdoor)
 
-阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
+Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大。
 
-如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
+![Casdoor](https://images-1252557999.file.myqcloud.com/uPic/veByqa.png) 
 
-![Infuse](https://images-1252557999.file.myqcloud.com/uPic/Fbred5.png) 
+### [manga-image-translator](https://github.com/zyddnys/manga-image-translator)
 
-### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
+一键翻译各类图片内文字，针对群内、各个图站上大量不太可能会有人去翻译的图片设计，让我这种日语小白能够勉强看懂图片，主要支持日语，汉语、英文和韩语，支持图片修补和嵌字:
 
-读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
+![manga-image-translator](https://images-1252557999.file.myqcloud.com/uPic/manga-image-translator.jpg)
 
-![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
+也提供了在线访问地址 [https://cotrans.touhou.ai](https://cotrans.touhou.ai/)。 
 
-### [docker-wechat](https://github.com/huan/docker-wechat)
+### [Palmr](https://github.com/kyantech/Palmr)
 
-盒装微信，在linux下基于Docker技术使用微信客户端：
+`Palmr` 是一个开源的文件分享平台，专注于隐私和安全，提供无追踪和无限制的文件上传、管理和分享功能。
 
-![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
+![Palmr](https://images-1252557999.file.myqcloud.com/uPic/lERBt8.png) 
 
 ## 🤖 软件 
 
-### [163MusicLyrics](https://github.com/jitwxs/163MusicLyrics)
+### [paperlib](https://github.com/GeoffreyChen777/paperlib)
 
-Windows 云音乐歌词获取【网易云、QQ音乐】:
+面向计算机科学的简单开源学术论文管理工具：
 
-![163MusicLyrics](https://images-1252557999.file.myqcloud.com/uPic/JElaUM.png) 
+![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
 
-### [FluentHub](https://github.com/FluentHub/FluentHub)
+### [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
 
-界面  `UI` 时尚功能强大的 `Windows GitHub` 客户端：
+`Clash for Android`，具有 `Clash` 的全部特性：
 
-![FluentHub](https://images-1252557999.file.myqcloud.com/uPic/FluentHub.png) 
+![ClashForAndroid](https://images-1252557999.file.myqcloud.com/uPic/ClashForAndroid.jpg) 
 
-### [hyprnote](https://github.com/fastrepl/hyprnote)
+### [Nuclear](https://github.com/nukeop/nuclear)
 
-`Hyprnote` 是一个专为连续会议的参与者设计的本地优先 `AI` 笔记软件。它能够在你记录会议时，同时聆听会议内容并制作智能摘要。`Hyprnote` 支持完全离线运行，使用开源模型如 `Whisper` 或 `HyprLLM`。软件不需要互联网连接，所有数据都保存在用户的设备上，确保数据不会外泄。
+`Nuclear` 是一款完全免费的跨平台音乐流媒体桌面程序，内容来源于互联网，界面UI精美，它专注于音乐本身，非常不错（比较麻烦的还是网络问题）：
 
-![hyprnote](https://images-1252557999.file.myqcloud.com/uPic/vnfVro.png) 
+![nucler](https://images-1252557999.file.myqcloud.com/uPic/nucler.jpg)
+
+项目还在持续开发，我们可以保持期待。 
 
 ## 👀 资料 
 
-### [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:
+一份程序员延寿指南，目标是稳健地活得更久。 
 
-![llm-cookbook](https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png) 
+### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
 
-### [llm-course](https://github.com/mlabonne/llm-course)
+从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
 
-与大型语言模型(LLM)相关的笔记本和文章清单：
+### [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
 
-![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
+`PyTorch handbook` 是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行：
 
-### [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
-
-Model Context Protocol(MCP) 编程极速入门：
-
-![MCP-Chinese-Getting-Started-Guide](https://images-1252557999.file.myqcloud.com/uPic/ORcZa8.png) 
+![pytorch-handbook](https://images-1252557999.file.myqcloud.com/uPic/pytorch-handbook.jpg) 
 
 ## 🕸 网站 
 
-### [confluence.org](https://confluence.org/)
+### [deepwiki](https://deepwiki.org/)
 
-网站目标是访问世界上每一个经纬度为整数的交叉点，并在每个地点拍照记录：
+`DeepWiki` 旨为成为一个全球性的、为每个 `GitHub` 仓库提供可交流的文档服务的平台。它类似于 `Deep Research`，但专注于 `GitHub` 上的内容。`DeepWiki` 的目标是为开发者提供一个平台，上面可以轻松地为每个项目编写和交流文档：
 
-![confluence](https://images-1252557999.file.myqcloud.com/uPic/aDxPoP.png) 
+![deepwiki](https://images-1252557999.file.myqcloud.com/uPic/KXEJcj.png) 
 
-### [zerogpt](https://www.zerogpt.com/)
+### [chatplugin.top](https://www.chatplugin.top/)
 
-由 `ZeroGPT` 开发的 `GPT-4，ChatGPT` AI 内容检测器：
+`ChatGPT Plugin` 收录网站，并且将插件汉化：
 
-![zerogpt](https://images-1252557999.file.myqcloud.com/uPic/zerogpt.jpg) 
+![chatplugin](https://images-1252557999.file.myqcloud.com/uPic/chatplugin.jpg) 
 
-### [browserless.io](https://www.browserless.io/)
+### [smalldev.tools](https://smalldev.tools/)
 
-`Browserless` 是一个提供浏览器自动化和绕过机器人检测器的服务，它通过自家开发的 `BrowserQL` 技术帮助用户绕过 `CAPTCHA` 和其他反爬虫机制，并且提供了一个由数千个浏览器组成的池子来扩展自动化任务，无需用户管理浏览器版本更新和其他技术细节。
+开发者常用工具集：
 
-![browserless.io](https://images-1252557999.file.myqcloud.com/uPic/VUUtRz.png) 
+![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
 
 ## ✍️ 说明
 
