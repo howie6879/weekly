@@ -5,99 +5,100 @@
 
 ## 🎯 项目 
 
-### [questdb](https://github.com/questdb/questdb)
+### [simple-one-api](https://github.com/fruitbars/simple-one-api)
 
-QuestDB 是一个高性能、开源的 SQL 数据库，适用于金融服务、物联网、机器学习 、DevOps 和可观测性应用。
+OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用。 
 
-特别是针对时间序列数据做了处理：
+### [whitebophir](https://github.com/lovasoa/whitebophir)
 
-![questdb](https://images-1252557999.file.myqcloud.com/uPic/Sbq9WK.jpg) 
+一个简单、免费、易于使用和部署的在线协作白板。该白板允许多个用户同时实时绘图，并且可以保存白板状态：
 
-### [ossart](https://github.com/djyde/ossart)
+![whitebophir](https://images-1252557999.file.myqcloud.com/uPic/KZgRku.png) 
 
-这是一个娱乐性质的项目，可以将你最近 6年的 GitHub 活跃图打印成摆件，在官网[getoss](https://getoss.art/)填写你的用户名即可：
+### [agibot_x1_infer](https://github.com/AgibotTech/agibot_x1_infer)
 
-![ossart](https://images-1252557999.file.myqcloud.com/uPic/5SYY8P.jpg) 
+稚晖君开源的智元家灵犀X1，智元人形机器人，全套资料全球开源，包括设计图纸和代码：
 
-### [openresty-manager](https://github.com/Safe3/openresty-manager)
+- **开发指南链接**: [开发指南](https://www.zhiyuan-robot.com/DOCS/OS/X1-PDG)
+- **设计资料百度云盘** (提取码：1234): [百度云盘链接](https://pan.baidu.com/s/1UEdeDBTJiXRmIqMKwmO5RA?pwd=1234)
+- **设计资料谷歌云盘**: [谷歌云盘链接](https://drive.google.com/drive/folders/1MECbyKRJbnc_XKWsdUbn-70xmYFmw9FW?usp=sharing)
+- **推理代码**: [推理代码链接](https://github.com/AgibotTech/agibot_x1_infer)
+- **训练代码**: [训练代码链接](https://github.com/AgibotTech/agibot_x1_train)
 
-主机管理面板，OpenResty Edge 的开源替代品，它可以让您轻松地安全反向代理在家或互联网上运行的网站，包括访问控制、拒绝服务攻击防护、自动申请并续期免费的SSL证书：
-
-- 支持通过HTTP-01和DNS-01挑战申请免费SSL证书并自动续期
-- 无需了解OpenResty，即可轻松为您的网站创建反向代理
-- 提供了多种强大安全功能，如访问控制、拒绝服务攻击防护等
-- 简化服务器管理，为用户界面友好的终端和文件管理功能
-- 支持基于容器的应用商店功能，大大降低建站和容器管理的难度
-
-![openresty-manager](https://images-1252557999.file.myqcloud.com/uPic/4Grbgi.png) 
+![agibot_x1_infer](https://images-1252557999.file.myqcloud.com/uPic/QchElr.png) 
 
 ## 🤖 软件 
 
-### [SyncClipboard](https://github.com/Jeric-X/SyncClipboard)
+### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
 
-跨平台剪贴板同步方案，包含服务端客户端：
+M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
 
-- 剪贴板同步，支持文字、图片和文件。服务器/客户端架构，可以使用客户端内置服务器、独立部署服务器，也可以使用支持WebDAV的网盘作为服务器
-- 优化图片类型的剪贴板，功能有：
-	- 从任意位置复制图片时，可以直接向文件系统粘贴图片文件，反之亦然
-	- 从浏览器复制图片后，后台下载原图到本地，解决无法从浏览器拷贝动态图的问题（大多网站有认证，适用范围有限，支持bilibili动态图片）
-	- 从文件系统复制较新格式类型的图片文件时（webp/heic等），在剪贴板内储存gif或jpg格式，用于直接向支持图片的文本框粘贴图片
+| 功能                 | 支持       |
+| -------------------- | ---------- |
+| HLS协议点播源        | ✓          |
+| 自定义Http协议头下载 | ✓          |
+| 自定义KEY和IV解密    | ✓          |
+| 本地M3U8文件下载     | ✓          |
+| M3U8 直播源          | ✓          |
+| 标准 AES-128-CBC加密 | ✓          |
+| 标准 AES-196-CBC加密 | ✓          |
+| 标准 AES-256-CBC加密 | ✓          |
+| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
+| 网页嗅探视频源       | ✓          |
 
-![SyncClipboard](https://images-1252557999.file.myqcloud.com/uPic/SyncClipboard.jpg)
+![HLSDownloadShow](https://images-1252557999.file.myqcloud.com/uPic/HLSDownloadShow.gif) 
 
-这个软件解决了老胡多台电脑间的复制同步问题，非常好用，强推，配置也不麻烦。 
+### [Dashboard](https://github.com/leon-kfd/Dashboard)
 
-### [Navicat Premium Lite](https://www.navicat.com.cn/download/navicat-premium-lite)
+开源的浏览器插件，用于自定义你的浏览器启动页：
 
-Navicat 推出免费精简版—— `Navicat Premium Lite`：
+![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
 
-![navicat-premium-lite](https://img.fre123.com/i/2024/07/12/6690fb8d98f34.jpg) 
+### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-### [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)
+监控你的应用流量，跨平台：
 
-基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
-
-![bob-plugin-openai-translator](https://images-1252557999.file.myqcloud.com/uPic/bob-plugin-openai-translator.jpg) 
+![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
 
 ## 👀 资料 
 
-### [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)
+### [JavaScript30](https://github.com/wesbos/JavaScript30)
 
-机器学习系统：设计和实现，本开源项目试图给读者讲解现代机器学习系统的设计原理和实现经验。
+30 天 JS 挑战，助力学习提升 JS 技巧：
 
-![openmlsys](https://images-1252557999.file.myqcloud.com/uPic/openmlsys.jpg) 
+![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
 
-### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
+### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
 
-本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
+本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
 
-![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
+![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
 
-### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
+### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
 
-吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
+收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
 
-![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
+![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
 
 ## 🕸 网站 
 
-### [最佳平替](https://www.pingti.xyz/)
+### [ai-llm-comparison](https://github.com/Ahmet-Dedeler/ai-llm-comparison)
 
-同一件商品，不同的搜索词，价格可能会天差地别。这个工具旨在帮助你找到最便宜的搜索词: 输入你想搜索的商品名，AI会给出低价的替代品，结果可能不准，开心就好：）
+该网站旨在为用户提供一个比较各种 AI 模型的平台，帮助用户根据自己的需求选择最合适的 AI 服务：
 
-![pingti](https://images-1252557999.file.myqcloud.com/uPic/pingti.jpg) 
+![ai-llm-comparison](https://images-1252557999.file.myqcloud.com/uPic/SO7NW7.png) 
 
-### [flowgpt](https://flowgpt.com/)
+### [firefly](https://firefly.adobe.com/)
 
-一个分享ChatGPT提示的网站：
+`Adobe` 推出了的 `AI` 图像创建器 **Firefly**：
 
-![flowgpt](https://images-1252557999.file.myqcloud.com/uPic/flowgpt.jpg) 
+![firefly](https://images-1252557999.file.myqcloud.com/uPic/firefly.jpg) 
 
-### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
+### [uisdc.com](https://hao.uisdc.com/)
 
-Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
+设计师网站导航：
 
-![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
+![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
 
 ## ✍️ 说明
 
