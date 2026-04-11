@@ -5,100 +5,90 @@
 
 ## 🎯 项目 
 
-### [simple-one-api](https://github.com/fruitbars/simple-one-api)
+### [AnimeGarden](https://github.com/yjl9903/AnimeGarden)
 
-OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用。 
+動漫花園 第三方 镜像站 以及 动画 BT 资源聚合站.
 
-### [whitebophir](https://github.com/lovasoa/whitebophir)
+- ☁️ 为开发者准备的开放 API 接口
+- 📺 查看 动画放送时间表 来找到你喜欢的动画
+- 🔖 支持丰富的高级搜索, 例如: 葬送的芙莉莲 +简体内嵌 字幕组:桜都字幕组 类型:动画
+- 📙 自定义 RSS 订阅链接, 例如: 葬送的芙莉莲
+- ⭐ 搜索条件收藏夹和生成聚合的 RSS 订阅链接
+- 👷‍♂️ 支持与 AutoBangumi 和 AnimeSpace 集成
 
-一个简单、免费、易于使用和部署的在线协作白板。该白板允许多个用户同时实时绘图，并且可以保存白板状态：
+![AnimeGarden](https://images-1252557999.file.myqcloud.com/uPic/AnimeGarden.png) 
 
-![whitebophir](https://images-1252557999.file.myqcloud.com/uPic/KZgRku.png) 
+### [ecapture](https://github.com/ehids/ecapture)
 
-### [agibot_x1_infer](https://github.com/AgibotTech/agibot_x1_infer)
+eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
 
-稚晖君开源的智元家灵犀X1，智元人形机器人，全套资料全球开源，包括设计图纸和代码：
+![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
 
-- **开发指南链接**: [开发指南](https://www.zhiyuan-robot.com/DOCS/OS/X1-PDG)
-- **设计资料百度云盘** (提取码：1234): [百度云盘链接](https://pan.baidu.com/s/1UEdeDBTJiXRmIqMKwmO5RA?pwd=1234)
-- **设计资料谷歌云盘**: [谷歌云盘链接](https://drive.google.com/drive/folders/1MECbyKRJbnc_XKWsdUbn-70xmYFmw9FW?usp=sharing)
-- **推理代码**: [推理代码链接](https://github.com/AgibotTech/agibot_x1_infer)
-- **训练代码**: [训练代码链接](https://github.com/AgibotTech/agibot_x1_train)
+### Command2API
 
-![agibot_x1_infer](https://images-1252557999.file.myqcloud.com/uPic/QchElr.png) 
+这是一个可以实时获取执行命令结果的脚本，脚本原理就是一个线程开启Web服务，一个线程执行命令，通过全局变量与Web服务共享执行命令的结果。
+
+![Command2API](https://images-1252557999.file.myqcloud.com/uPic/mcMhsP.jpg) 
 
 ## 🤖 软件 
 
-### [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)
+### [HandBrake](https://github.com/HandBrake/HandBrake)
 
-M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
+`HandBrake` 是一款开源视频转码器，适用于 `Linux、Mac&Windows` 操作系统，老胡仅仅用来做压缩：
 
-| 功能                 | 支持       |
-| -------------------- | ---------- |
-| HLS协议点播源        | ✓          |
-| 自定义Http协议头下载 | ✓          |
-| 自定义KEY和IV解密    | ✓          |
-| 本地M3U8文件下载     | ✓          |
-| M3U8 直播源          | ✓          |
-| 标准 AES-128-CBC加密 | ✓          |
-| 标准 AES-196-CBC加密 | ✓          |
-| 标准 AES-256-CBC加密 | ✓          |
-| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
-| 网页嗅探视频源       | ✓          |
+![HandBrake](https://images-1252557999.file.myqcloud.com/uPic/HandBrake.jpg) 
 
-![HLSDownloadShow](https://images-1252557999.file.myqcloud.com/uPic/HLSDownloadShow.gif) 
+### [biliTickerBuy](https://github.com/mikumifa/biliTickerBuy)
 
-### [Dashboard](https://github.com/leon-kfd/Dashboard)
+免费开源的B站会员购购票辅助工具：
 
-开源的浏览器插件，用于自定义你的浏览器启动页：
+![biliTickerBuy](https://images-1252557999.file.myqcloud.com/uPic/f4iCzf.png) 
 
-![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
+### [apifox](https://www.apifox.cn/)
 
-### [sniffnet](https://github.com/GyulyVGC/sniffnet)
+Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
 
-监控你的应用流量，跨平台：
-
-![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
+![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
 
 ## 👀 资料 
 
-### [JavaScript30](https://github.com/wesbos/JavaScript30)
+### [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)
 
-30 天 JS 挑战，助力学习提升 JS 技巧：
+一本由 GPT4 生成的中英词典，涵盖 8000 高频词汇：
 
-![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
+![DictionaryByGPT4](https://images-1252557999.file.myqcloud.com/uPic/DictionaryByGPT4.png) 
 
-### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
+### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 
-本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
+C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
 
-![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
+![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
 
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
 
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
 
 ## 🕸 网站 
 
-### [ai-llm-comparison](https://github.com/Ahmet-Dedeler/ai-llm-comparison)
+### [watermark](https://watermark.liumingye.cn/)
 
-该网站旨在为用户提供一个比较各种 AI 模型的平台，帮助用户根据自己的需求选择最合适的 AI 服务：
+短视频/图集在线去水印解析：
 
-![ai-llm-comparison](https://images-1252557999.file.myqcloud.com/uPic/SO7NW7.png) 
+![watermark](https://images-1252557999.file.myqcloud.com/uPic/watermark.jpg) 
 
-### [firefly](https://firefly.adobe.com/)
+### [devhints](https://devhints.io/)
 
-`Adobe` 推出了的 `AI` 图像创建器 **Firefly**：
+一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
 
-![firefly](https://images-1252557999.file.myqcloud.com/uPic/firefly.jpg) 
+![devhints](https://images-1252557999.file.myqcloud.com/uPic/Wl8r0C.png) 
 
-### [uisdc.com](https://hao.uisdc.com/)
+### [web.dev](https://web.dev/learn/)
 
-设计师网站导航：
+谷歌团队开放的网页设计与开发课程：
 
-![uisdc](https://images-1252557999.file.myqcloud.com/uPic/uisdc.jpg) 
+![web_dev](https://images-1252557999.file.myqcloud.com/uPic/web_dev.jpg) 
 
 ## ✍️ 说明
 
