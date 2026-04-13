@@ -5,101 +5,100 @@
 
 ## 🎯 项目 
 
-### [lobe-chat](https://github.com/lobehub/lobe-chat)
+### [MDGJX](https://github.com/work7z/MDGJX)
 
-`LobeChat` 是一个开源的、可扩展的（Function Calling）高性能聊天机器人框架，它支持一键免费部署私人 `ChatGPT/LLM` 网页应用程序：
+秒达工具箱，借助独创高效的输入方式，让您可以快速呼出各类工具、文档及笔记等资源，免费安全无广告：
 
-- 💨 快速部署：支持 Vercel 平台
--  💎 精致 UI 设计
--  🗣️ 流畅的对话体验
--  🧩 支持插件与自定义插件开发
--  🔒 隐私安全
--  🤖 自定义助手角色
--  🌐 自定义域名
--  🏬 角色市场
+![MDGJX](https://images-1252557999.file.myqcloud.com/uPic/MDGJX.png) 
 
-![lobe-chat](https://images-1252557999.file.myqcloud.com/uPic/lobe-chat.webp) 
+### [n8n](https://github.com/n8n-io/n8n "n8n")
 
-### [Flowise](https://github.com/FlowiseAI/Flowise)
+`n8n` 是一款带有 `AI` 能力的工作流程自动化工具，提供了多步骤 AI 代理集成和超过 500 个集成工具的能力，开发者可以自定义想要使用的功能和应用程序：
 
-基于 `LangchainJS`，简单拖拽就可以实现你的 `LLM` 流：
+![n8n](https://images-1252557999.file.myqcloud.com/uPic/YUavwl.png) 
 
-![Flowise](https://images-1252557999.file.myqcloud.com/uPic/Flowise.jpg) 
+### [PanIndex](https://github.com/libsgh/PanIndex)
 
-### [Subscription-Management](https://github.com/huhusmang/Subscription-Management)
+网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
 
-一个现代化的订阅管理系统，帮助用户轻松管理和追踪各种订阅服务的费用和续费情况：
+- 跨平台、易部署
+- 多模式、多网盘
+- 多主题
+- 下载直链
+- 防盗链
+- 短链、分享
+- 访问控制
+- 分流
+- WebDav
 
-![Subscription-Management](https://images-1252557999.file.myqcloud.com/uPic/QTWo56.png) 
+![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
 
 ## 🤖 软件 
 
-### [Weibo-archiver](https://github.com/Chilfish/Weibo-archiver)
+### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
 
-将微博导出备份的油猴脚本，为号被完全夹没前未雨绸缪 😭
+适用于Android的免费开源漫画阅读器，流畅丝滑：
 
-![Weibo-archiver](https://images-1252557999.file.myqcloud.com/uPic/68747470733a2f2f702e6368696c666973682e746f702f776569626f2f666561747572652e77656270.webp) 
+![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
 
-### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
+之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
 
-用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
+### [pho](https://github.com/fregie/pho)
 
-![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
+一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
 
-### [MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
 
-一款明日方舟游戏小助手，基于图像识别技术，一键完成全部日常任务：
+### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
 
-- 刷理智，掉落识别及上传 企鹅物流，一图流
-- 智能基建换班，自动计算干员效率，单设施内最优解；同时也支持 自定义排班
-- 自动公招，可选使用加急许可，一次全部刷完！公招数据自动上传 企鹅物流，一图流
-- 支持手动识别公招界面，方便对高星公招做出选择 （你的这个高资回费出的是推王呢还是推王呢）
-- 支持识别干员列表，统计已有和未有干员及潜能，并在公招识别显示
-- 支持识别养成材料，并导出至 企鹅物流刷图规划、明日方舟工具箱、ARK-NIGHTS 干员培养表
-- 访问好友、收取信用及购物、领取日常奖励等，一键全日常自动长草
-- 肉鸽全自动刷源石锭和等级，自动烧水和凹直升，智能识别干员及练度
-- 选择作业 JSON 文件，自动抄作业， 视频演示
-- 支持 C, Python, Java, Rust, Golang, Java HTTP, Rust HTTP 等多种接口，方便集成调用，自定义你的 MAA
+使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
 
-![MaaAssistantArknights](https://images-1252557999.file.myqcloud.com/uPic/YJj3rT.png) 
+- 支持下载无水印视频
+- 支持下载某个账号号的所有视频
+
+![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
 
 ## 👀 资料 
 
-### [1000-chinese-independent-developer-plus](https://github.com/XiaomingX/1000-chinese-independent-developer-plus)
+### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
 
-中国独立开发者项目列表，分享大家都在做什么。 
+互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
 
-### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
+### [self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder)
 
-阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
+首先，这不是一本程序员的技术书籍，整本书不会提及任何一个技术词汇，这也不是一本教你如何规划职业生涯，如何在职场走个更远的书，虽然我相信大部分内容确实有助于在职场的发展。
 
-![c](https://images-1252557999.file.myqcloud.com/uPic/4uYTRJ.png) 
+但这本书的真正用意是想解决工作过程中碰到的焦虑、倦怠、迷茫、抑郁等情绪，聚焦于解决具体问题，通过改变认知将我们从负面情绪的泥淖中走出来，做到更坦然，真诚的面对自己的内心，成为一个自洽的程序员。
 
-### [Rust嵌入式开发入门](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
+总而言之，这不是一本成功学的书，它不会教你如何赢，笔者本身也不是一个世俗意义上成功的人，而是一本帮你梳理情绪，转变心境的书。
 
- Rust嵌入式开发入门视频教程系列，由 Rust 中文社区 myrfy 来制作，其中也包含了一些非嵌入式领域需要懂的基础知识，比如链接脚本工作机制，视频教程持续更新中：
+![self-consistent-coder](https://images-1252557999.file.myqcloud.com/uPic/xxZILr.png) 
 
- ![rust_embedded_dev](https://images-1252557999.file.myqcloud.com/uPic/rust_embedded_dev.jpg) 
+### [comflowy](https://www.comflowy.com/zh-CN)
+
+作者认为 `AI` 生图领域的未来一定是围绕 `Stable Diffusion` 展开，而 `ComfyUI` 相比于 `Stable Diffusion WebUI` 等其他开源产品具备非常强的差异化能力，它具备高度的扩展性和应用可能性，真正做到了让开发者和用户能够根据自己的需求打造个性化的生图流程。
+
+![comflowy](https://images-1252557999.file.myqcloud.com/uPic/comflowy.jpg) 
 
 ## 🕸 网站 
 
-### [picdiet.eula.club](https://picdiet.eula.club/)
+### [RunningCode](https://github.com/tonyljx/running-leetcode)
 
-`Picdiet` 是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏：
+一个算法小工具网站，收录了面试最高频的算法题~ 可以按【题目类型】，【题目出处】，以及【难易程度】去索引，帮助一刷，二刷的同学快速准备算法题。数据都是基于公开数据人工整理 + GPT 进行打标签。
 
-![picdiet](https://images-1252557999.file.myqcloud.com/uPic/picdiet.jpg) 
+![running-leetcode](https://images-1252557999.file.myqcloud.com/uPic/running-leetcode.jpg) 
 
-### [0v0.ai](https://0v0.ai/rmbg/)
+### [qrgpt.io](https://www.qrgpt.io/)
 
-图片背景移除网站：
+`QRGPT` 使您能够在几秒钟内免费生成漂亮的 `AI` 二维码，非常简单：
 
-![0v0](https://images-1252557999.file.myqcloud.com/uPic/0v0.jpg) 
+![qrgpt](https://images-1252557999.file.myqcloud.com/uPic/qrgpt.jpg) 
 
-### [极简番茄](https://t.kuaitu.cc/)
+### [cikeee](https://www.cikeee.com/)
 
-极简优雅的番茄时钟软件，适合做屏保：
+每天推荐一部优秀的电影：
 
-![kuaitu](https://images-1252557999.file.myqcloud.com/uPic/kuaitu.jpg) 
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
 ## ✍️ 说明
 
