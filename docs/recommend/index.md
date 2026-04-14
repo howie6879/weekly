@@ -5,100 +5,107 @@
 
 ## 🎯 项目 
 
-### [MDGJX](https://github.com/work7z/MDGJX)
+### [one-api](https://github.com/songquanpeng/one-api)
 
-秒达工具箱，借助独创高效的输入方式，让您可以快速呼出各类工具、文档及笔记等资源，免费安全无广告：
+`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
 
-![MDGJX](https://images-1252557999.file.myqcloud.com/uPic/MDGJX.png) 
+![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
 
-### [n8n](https://github.com/n8n-io/n8n "n8n")
+### [outline](https://github.com/outline/outline)
 
-`n8n` 是一款带有 `AI` 能力的工作流程自动化工具，提供了多步骤 AI 代理集成和超过 500 个集成工具的能力，开发者可以自定义想要使用的功能和应用程序：
+使用 `React &Node.js` 构建的协作知识库，支持团队协作，样式美观，可自建：
 
-![n8n](https://images-1252557999.file.myqcloud.com/uPic/YUavwl.png) 
+![outline](https://images-1252557999.file.myqcloud.com/uPic/outline.jpg) 
 
-### [PanIndex](https://github.com/libsgh/PanIndex)
+### [koishi](https://koishi.chat/zh-CN/)
 
-网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
+周刊群友推荐，创建跨平台、可扩展、高性能的机器人，插件丰富，`Koishi` 提供了高度便利的控制台，让你无需基础让你在几分钟之内搭建自己的聊天机器人。
 
-- 跨平台、易部署
-- 多模式、多网盘
-- 多主题
-- 下载直链
-- 防盗链
-- 短链、分享
-- 访问控制
-- 分流
-- WebDav
+- 提供在线插件市场，即使没有任何编程基础，也能轻松在控制台中下载安装插件
+- 支持 QQ，Telegram，Discord，飞书等主流聊天平台，支持多账户和跨平台数据互通
+- 随时随地通过控制面板监控运行状态，控制机器人的行为，甚至上号聊天
 
-![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
+![koishi](https://images-1252557999.file.myqcloud.com/uPic/koishi.jpg) 
 
 ## 🤖 软件 
 
-### [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
+### [dbgate](https://github.com/dbgate/dbgate)
 
-适用于Android的免费开源漫画阅读器，流畅丝滑：
+支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
 
-![tachiyomiJ2K](https://images-1252557999.file.myqcloud.com/uPic/tachiyomiJ2K.gif)
+![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
 
-之前老胡的周刊006期推荐过的漫画阅读APP[全是漫画](https://weekly.howie6879.com/2021/09-19~09-24.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC006%E6%9C%9F%EF%BC%89.html?h=%E6%BC%AB%E7%94%BB#_4)也还不错。 
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-### [pho](https://github.com/fregie/pho)
+`LosslessCut` 是一个强大的跨平台视频/音频编辑工具，旨在通过快速且无损的操作，提供对视频、音频、字幕等媒体文件的剪辑和处理。它支持几乎所有主流视频和音频格式的无损剪切，能够快速提取视频中的精彩片段，而无需重新编码，从而保证画质不降低。此外，它还支持合并、重新排列、添加音轨或字幕、批量处理等功能，非常适合从相机、`GoPro`、无人机等设备中处理大文件。
 
-一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
+特点包括：
+- 支持大多数视频和音频格式的无损剪切
+- 快速多文件工作流程和键盘快捷键操作
+- 支持自定义时间段导出和编辑文件元数据
+- 提供黑场检测、静音检测、场景变化检测等实用工具
 
-![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
+`LosslessCut` 可以在不同操作系统上运行，并提供各种可执行文件下载选择，是处理和编辑媒体文件的理想选择。
 
-### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
+![lossless-cut](https://images-1252557999.file.myqcloud.com/uPic/lossless-cut.jpg) 
 
-使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
+### [EcoPaste](https://github.com/ayangweb/EcoPaste)
 
-- 支持下载无水印视频
-- 支持下载某个账号号的所有视频
+一款开源的跨平台剪切板管理工具：
 
-![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
+- 使用 Tauri 构建项目，使其更加小巧精致，资源占用更少，同时适配多个平台。
+- 应用常驻后台，通过自定义快捷键一键唤醒，节省时间，提高效率。
+- 所有剪切板内容均在本地存储，确保数据隐私和安全。
+- 支持纯文本、富文本、HTML、图片和文件类型。
+- 根据剪切板内容类型自动进行分组，便于高效管理。
+- 支持收藏剪切板内容，便于快速访问和管理重要信息。
+- 内置搜索功能，轻松找到剪切板上的任何内容。
+- 图片内置系统 OCR 功能，支持文本和二维码识别。
+- 提供丰富的右键菜单，增强操作便捷性。
+
+![EcoPaste](https://images-1252557999.file.myqcloud.com/uPic/EcoPaste.jpg) 
 
 ## 👀 资料 
 
-### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
+### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
 
-互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
+《Linear Algebra for Everyone》公开课的图解笔记：
 
-### [self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder)
+![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
 
-首先，这不是一本程序员的技术书籍，整本书不会提及任何一个技术词汇，这也不是一本教你如何规划职业生涯，如何在职场走个更远的书，虽然我相信大部分内容确实有助于在职场的发展。
+### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
 
-但这本书的真正用意是想解决工作过程中碰到的焦虑、倦怠、迷茫、抑郁等情绪，聚焦于解决具体问题，通过改变认知将我们从负面情绪的泥淖中走出来，做到更坦然，真诚的面对自己的内心，成为一个自洽的程序员。
+关于 `MongoDB`，最全面的免费学习向导：
 
-总而言之，这不是一本成功学的书，它不会教你如何赢，笔者本身也不是一个世俗意义上成功的人，而是一本帮你梳理情绪，转变心境的书。
+- 学习资源：文档书籍教程等
+- 第三方库：各种编程语言的兼容库
+- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
 
-![self-consistent-coder](https://images-1252557999.file.myqcloud.com/uPic/xxZILr.png) 
+### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
-### [comflowy](https://www.comflowy.com/zh-CN)
+比较全面的 `k8s` 资源收集项目：
 
-作者认为 `AI` 生图领域的未来一定是围绕 `Stable Diffusion` 展开，而 `ComfyUI` 相比于 `Stable Diffusion WebUI` 等其他开源产品具备非常强的差异化能力，它具备高度的扩展性和应用可能性，真正做到了让开发者和用户能够根据自己的需求打造个性化的生图流程。
-
-![comflowy](https://images-1252557999.file.myqcloud.com/uPic/comflowy.jpg) 
+![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
 
 ## 🕸 网站 
 
-### [RunningCode](https://github.com/tonyljx/running-leetcode)
+### [chuhai.tools](https://chuhai.tools/)
 
-一个算法小工具网站，收录了面试最高频的算法题~ 可以按【题目类型】，【题目出处】，以及【难易程度】去索引，帮助一刷，二刷的同学快速准备算法题。数据都是基于公开数据人工整理 + GPT 进行打标签。
+独立开发者出海技术栈和工具集合:
 
-![running-leetcode](https://images-1252557999.file.myqcloud.com/uPic/running-leetcode.jpg) 
+![chuhai](https://images-1252557999.file.myqcloud.com/uPic/chuhai.jpg) 
 
-### [qrgpt.io](https://www.qrgpt.io/)
+### [gh-card.dev](https://gh-card.dev/)
 
-`QRGPT` 使您能够在几秒钟内免费生成漂亮的 `AI` 二维码，非常简单：
+免费为你的 `Github` 开源项目生成卡片的网站：
 
-![qrgpt](https://images-1252557999.file.myqcloud.com/uPic/qrgpt.jpg) 
+![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
 
-### [cikeee](https://www.cikeee.com/)
+### [musetransfer](https://musetransfer.com/)
 
-每天推荐一部优秀的电影：
+`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
 
-![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
+![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
 
 ## ✍️ 说明
 
