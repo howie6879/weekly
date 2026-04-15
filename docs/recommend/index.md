@@ -5,107 +5,88 @@
 
 ## 🎯 项目 
 
-### [one-api](https://github.com/songquanpeng/one-api)
+### [answer](https://github.com/answerdev/answer)
 
-`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
+基于自己的产品或者项目快速打造一个问答社区：
 
-![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
+![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
 
-### [outline](https://github.com/outline/outline)
+### [zinc](https://github.com/prabhatsharma/zinc)
 
-使用 `React &Node.js` 构建的协作知识库，支持团队协作，样式美观，可自建：
+`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
 
-![outline](https://images-1252557999.file.myqcloud.com/uPic/outline.jpg) 
+- 全文索引能力
+- 快速运行，多平台支持
+- 基于Vue的Web UI
+- 兼容ES API
+- 开箱即用的验证功能
+- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
 
-### [koishi](https://koishi.chat/zh-CN/)
+![zinc](https://images-1252557999.file.myqcloud.com/uPic/P9OAA1.jpg) 
 
-周刊群友推荐，创建跨平台、可扩展、高性能的机器人，插件丰富，`Koishi` 提供了高度便利的控制台，让你无需基础让你在几分钟之内搭建自己的聊天机器人。
+### [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
 
-- 提供在线插件市场，即使没有任何编程基础，也能轻松在控制台中下载安装插件
-- 支持 QQ，Telegram，Discord，飞书等主流聊天平台，支持多账户和跨平台数据互通
-- 随时随地通过控制面板监控运行状态，控制机器人的行为，甚至上号聊天
+科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能：
 
-![koishi](https://images-1252557999.file.myqcloud.com/uPic/koishi.jpg) 
+![chatgpt_academic](https://images-1252557999.file.myqcloud.com/uPic/chatgpt_academic.png) 
 
 ## 🤖 软件 
 
-### [dbgate](https://github.com/dbgate/dbgate)
+### [cursor](https://github.com/getcursor/cursor)
 
-支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
+一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
 
-![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
+![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+### [thorium-reader](https://github.com/edrlab/thorium-reader)
 
-`LosslessCut` 是一个强大的跨平台视频/音频编辑工具，旨在通过快速且无损的操作，提供对视频、音频、字幕等媒体文件的剪辑和处理。它支持几乎所有主流视频和音频格式的无损剪切，能够快速提取视频中的精彩片段，而无需重新编码，从而保证画质不降低。此外，它还支持合并、重新排列、添加音轨或字幕、批量处理等功能，非常适合从相机、`GoPro`、无人机等设备中处理大文件。
+`Thorium Reader` 是一款专为 `Windows 10/11、MacOS & Linux` 开发的电子书阅读器：
 
-特点包括：
-- 支持大多数视频和音频格式的无损剪切
-- 快速多文件工作流程和键盘快捷键操作
-- 支持自定义时间段导出和编辑文件元数据
-- 提供黑场检测、静音检测、场景变化检测等实用工具
+![thorium-reader](https://images-1252557999.file.myqcloud.com/uPic/thorium-reader.png) 
 
-`LosslessCut` 可以在不同操作系统上运行，并提供各种可执行文件下载选择，是处理和编辑媒体文件的理想选择。
+### [Rectangle](https://github.com/rxhanson/Rectangle)
 
-![lossless-cut](https://images-1252557999.file.myqcloud.com/uPic/lossless-cut.jpg) 
+`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
 
-### [EcoPaste](https://github.com/ayangweb/EcoPaste)
-
-一款开源的跨平台剪切板管理工具：
-
-- 使用 Tauri 构建项目，使其更加小巧精致，资源占用更少，同时适配多个平台。
-- 应用常驻后台，通过自定义快捷键一键唤醒，节省时间，提高效率。
-- 所有剪切板内容均在本地存储，确保数据隐私和安全。
-- 支持纯文本、富文本、HTML、图片和文件类型。
-- 根据剪切板内容类型自动进行分组，便于高效管理。
-- 支持收藏剪切板内容，便于快速访问和管理重要信息。
-- 内置搜索功能，轻松找到剪切板上的任何内容。
-- 图片内置系统 OCR 功能，支持文本和二维码识别。
-- 提供丰富的右键菜单，增强操作便捷性。
-
-![EcoPaste](https://images-1252557999.file.myqcloud.com/uPic/EcoPaste.jpg) 
+![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
 
 ## 👀 资料 
 
-### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
+### [xjq7/books](https://github.com/xjq7/books)
 
-《Linear Algebra for Everyone》公开课的图解笔记：
+电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
 
-![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
+### [docker-practice](https://vuepress.mirror.docker-practice.com/)
 
-### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
+一份面向 `Docker` 初学者的教程：
 
-关于 `MongoDB`，最全面的免费学习向导：
+![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
 
-- 学习资源：文档书籍教程等
-- 第三方库：各种编程语言的兼容库
-- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
+### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
 
-### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
 
-比较全面的 `k8s` 资源收集项目：
-
-![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
+![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
 
 ## 🕸 网站 
 
-### [chuhai.tools](https://chuhai.tools/)
+### [itnext](https://itnext.cn/)
 
-独立开发者出海技术栈和工具集合:
+一个介绍元宇宙的网站：
 
-![chuhai](https://images-1252557999.file.myqcloud.com/uPic/chuhai.jpg) 
+![itnext](https://images-1252557999.file.myqcloud.com/uPic/yc7Zhp.png) 
 
-### [gh-card.dev](https://gh-card.dev/)
+### [favicon.io](https://favicon.io/)
 
-免费为你的 `Github` 开源项目生成卡片的网站：
+免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
 
-![gh-card.dev](https://images-1252557999.file.myqcloud.com/uPic/gh-card.dev.jpg) 
+![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
 
-### [musetransfer](https://musetransfer.com/)
+### [firefly](https://firefly.adobe.com/)
 
-`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
+`Adobe` 推出了的 `AI` 图像创建器 **Firefly**：
 
-![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
+![firefly](https://images-1252557999.file.myqcloud.com/uPic/firefly.jpg) 
 
 ## ✍️ 说明
 
