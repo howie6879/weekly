@@ -5,88 +5,105 @@
 
 ## 🎯 项目 
 
-### [answer](https://github.com/answerdev/answer)
+### [OnnxOCR](https://github.com/jingsongliujing/OnnxOCR)
 
-基于自己的产品或者项目快速打造一个问答社区：
+基于 `PaddleOCR` 重构，并且脱离PaddlePaddle深度学习训练框架的轻量级 `OCR`，推理速度超快。 
 
-![answer](https://images-1252557999.file.myqcloud.com/uPic/answer.png) 
+### [ChatGPT-On-CS](https://github.com/lrhh123/ChatGPT-On-CS)
 
-### [zinc](https://github.com/prabhatsharma/zinc)
+基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用：
 
-`zinc`的目的是让用户可以方便快速地使用全文搜索引擎，其特性有：
+![ChatGPT-On-CS](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-On-CS.jpg) 
 
-- 全文索引能力
-- 快速运行，多平台支持
-- 基于Vue的Web UI
-- 兼容ES API
-- 开箱即用的验证功能
-- 无需预先定义模式，同一索引中的不同文档可以有不同的字段
+### [movie-web](https://github.com/movie-web/movie-web)
 
-![zinc](https://images-1252557999.file.myqcloud.com/uPic/P9OAA1.jpg) 
+开源可自部署的简约在线电影搜索观看项目：
 
-### [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
+- 自动保存进度
+- 记录观看电影
+- 简约的界面，展示内容克制
 
-科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能：
+![movie-web](https://images-1252557999.file.myqcloud.com/uPic/movie-web.jpg)
 
-![chatgpt_academic](https://images-1252557999.file.myqcloud.com/uPic/chatgpt_academic.png) 
+所有内容都是从第三方获取的，并且抓取操作在客户端完成，项目包含以下模块：
+
+- 代理
+- 前端
+- 后端
+
+这三块全部可以自部署，文档写的也挺清晰我试了下，播放霸王别姬：
+
+![movie_demo](https://images-1252557999.file.myqcloud.com/uPic/movie_demo.jpg) 
 
 ## 🤖 软件 
 
-### [cursor](https://github.com/getcursor/cursor)
+### [ponymusic](https://github.com/wangchenyan/ponymusic)
 
-一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
+使用「网易云音乐API」的安卓在线音乐播放器：
 
-![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
+- 网易云音乐基本功能
+- 添加和播放本地音乐文件
+- 专辑封面显示
+- 歌词显示，支持拖动歌词调节播放进度
+- 通知栏控制
+- 夜间模式
+- 定时关闭
 
-### [thorium-reader](https://github.com/edrlab/thorium-reader)
+![ponymusic](https://images-1252557999.file.myqcloud.com/uPic/ponymusic.jpg) 
 
-`Thorium Reader` 是一款专为 `Windows 10/11、MacOS & Linux` 开发的电子书阅读器：
+### [wowtab](https://wowtab.microsoft.com/)
 
-![thorium-reader](https://images-1252557999.file.myqcloud.com/uPic/thorium-reader.png) 
+微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
+![wowtab](https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg) 
 
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+### [RTranslator](https://github.com/niedev/RTranslator)
 
-![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
+`RTransator` 是一个(几乎)开源的、免费的、离线的 `Android` 实时翻译应用程序。
+
+连接到有这个应用程序的人，连接蓝牙耳机，把手机放在你的口袋里，你就可以像对方说你的语言一样进行交谈。
+
+![RTranslator](https://images-1252557999.file.myqcloud.com/uPic/RTranslator.jpg) 
 
 ## 👀 资料 
 
-### [xjq7/books](https://github.com/xjq7/books)
+### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
 
-电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
+带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
 
-### [docker-practice](https://vuepress.mirror.docker-practice.com/)
+![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
 
-一份面向 `Docker` 初学者的教程：
+### [free-educa](https://github.com/free-educa/books)
 
-![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
+`free-educa/books` 是一个开源书籍分享项目，提供了一个精选的编程和开发相关书籍收藏，涵盖了多种编程语言、网页开发、移动应用开发、软件工程、数据科学、DevOps、软件架构和网络安全等主题，鼓励社区成员贡献和共享资源。
 
-### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
+老胡将所有电子书打包好了 👉 https://pan.quark.cn/s/a3cf52f67ec0
 
-这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
+![free-educa](https://images-1252557999.file.myqcloud.com/uPic/free-educa.jpg) 
 
-![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
+### [learn-regex](https://github.com/ziishaned/learn-regex)
+
+开源的正则表达式教程，有中文版，有在线示例。 
 
 ## 🕸 网站 
 
-### [itnext](https://itnext.cn/)
+### [drawio](https://github.com/jgraph/drawio)
 
-一个介绍元宇宙的网站：
+一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
 
-![itnext](https://images-1252557999.file.myqcloud.com/uPic/yc7Zhp.png) 
+![drawio](https://images-1252557999.file.myqcloud.com/uPic/drawio.jpg) 
 
-### [favicon.io](https://favicon.io/)
+### [producthunt-daily-hot](https://github.com/ViggoZ/producthunt-daily-hot)
 
-免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+`Product Hunt` 每日热榜是一个基于 `GitHub Action` 的自动化工具，它能够每天定时生成 `Product Hunt` 上的热门产品榜单 `Markdown` 文件，并自动提交到 `GitHub` 仓库中。该项目旨在帮助用户快速查看每日的 `Product Hunt` 热门榜单，并提供更详细的产品信息。
 
-![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
+![producthunt-daily-hot](https://images-1252557999.file.myqcloud.com/uPic/2vDyRf.png) 
 
-### [firefly](https://firefly.adobe.com/)
+### [singleservingsites.cool](https://singleservingsites.cool/ "singleservingsites.cool")
 
-`Adobe` 推出了的 `AI` 图像创建器 **Firefly**：
+Single-Serving Sites 是一个展示专注于特定功能或主题的微型网站。这些网站涵盖了从二维码、倒计时、设计工具、在线棋盘游戏到个性化的 CSS 风格、产品管理工具等多种类型，每个微型网站都有其独特的功能和目的：
 
-![firefly](https://images-1252557999.file.myqcloud.com/uPic/firefly.jpg) 
+![singleservingsites](https://images-1252557999.file.myqcloud.com/uPic/lrAstx.png) 
 
 ## ✍️ 说明
 
