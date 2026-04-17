@@ -5,105 +5,110 @@
 
 ## 🎯 项目 
 
-### [OnnxOCR](https://github.com/jingsongliujing/OnnxOCR)
+### [AgentGPT](https://github.com/reworkd/AgentGPT)
 
-基于 `PaddleOCR` 重构，并且脱离PaddlePaddle深度学习训练框架的轻量级 `OCR`，推理速度超快。 
+🤖 在您的浏览器中组装、配置和部署自主 AI 代理，可以简单理解成 `Auto-GPT` 的网页版：
 
-### [ChatGPT-On-CS](https://github.com/lrhh123/ChatGPT-On-CS)
+- 通过向量数据库实现长期记忆 🧠
+- 通过语言链具备网络浏览能力 🌐
+- 与网站和人进行交互 👨‍👩‍👦
+- 通过文档 API 具备写作能力 📄
+- 保存代理运行 💾
+- 用户和身份验证 🔐
+- Stripe 集成以提供低限制付费版本（这样我们就不用担心基础设施成本）💵
 
-基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用：
+![agentgpt](https://images-1252557999.file.myqcloud.com/uPic/agentgpt.jpg) 
 
-![ChatGPT-On-CS](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-On-CS.jpg) 
+### [HTTPie](https://github.com/httpie/httpie)
 
-### [movie-web](https://github.com/movie-web/movie-web)
+现代化的HTTP客户端命令行工具：
 
-开源可自部署的简约在线电影搜索观看项目：
+![httpie-animation](https://images-1252557999.file.myqcloud.com/uPic/httpie-animation.gif) 
 
-- 自动保存进度
-- 记录观看电影
-- 简约的界面，展示内容克制
+### [ssddanbrown/rss](https://github.com/ssddanbrown/rss)
 
-![movie-web](https://images-1252557999.file.myqcloud.com/uPic/movie-web.jpg)
+一个简单的 `Twitter-feed` 风格的 `RSS` 聚合器，使用 `PHP、Laravel、Inertia.js、Tailwind、Vue.js` 编写:
 
-所有内容都是从第三方获取的，并且抓取操作在客户端完成，项目包含以下模块：
+- 支持RSS和ATOM格式
+- 定期自动获取RSS订阅源
+- 自定义订阅名称和颜色
+- 基于内容的标签进行分类
+- 3种不同的帖子布局模式（卡片、列表、紧凑）
+- 获取页面的开放图像
+- 通过单个纯文本文件管理的订阅源
+- 基于系统的暗/亮主题
+- 帖子标题/描述搜索
+- 开箱即用的Docker镜像
+- 手机屏幕兼容
+- 清理旧的帖子数据
 
-- 代理
-- 前端
-- 后端
-
-这三块全部可以自部署，文档写的也挺清晰我试了下，播放霸王别姬：
-
-![movie_demo](https://images-1252557999.file.myqcloud.com/uPic/movie_demo.jpg) 
+![ssddanbrown_rss](https://images-1252557999.file.myqcloud.com/uPic/ssddanbrown_rss.png) 
 
 ## 🤖 软件 
 
-### [ponymusic](https://github.com/wangchenyan/ponymusic)
+### [BlackHole](https://github.com/Sangwan5688/BlackHole)
 
-使用「网易云音乐API」的安卓在线音乐播放器：
+一个适用于您所有需求的开源音乐播放器应用，高颜值、无广告、免费音乐播放器，拥有歌词、专辑、艺术家、播放列表、定时关闭等功能，支持 `Android、iOS、macOS` 系统：
 
-- 网易云音乐基本功能
-- 添加和播放本地音乐文件
-- 专辑封面显示
-- 歌词显示，支持拖动歌词调节播放进度
-- 通知栏控制
-- 夜间模式
-- 定时关闭
+![BlackHole](https://images-1252557999.file.myqcloud.com/uPic/BlackHole.png)
+![hole](https://images-1252557999.file.myqcloud.com/uPic/hole.jpg) 
 
-![ponymusic](https://images-1252557999.file.myqcloud.com/uPic/ponymusic.jpg) 
+### [Malware-Patch](https://github.com/the1812/Malware-Patch)
 
-### [wowtab](https://wowtab.microsoft.com/)
+阻止中国流氓软件的管理员授权，无需后台运行：
 
-微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：
+![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
 
-![wowtab](https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg) 
+### [Olauncher](https://github.com/tanujnotes/Olauncher)
 
-### [RTranslator](https://github.com/niedev/RTranslator)
+适用于 `Android` 的最小 `AF` 启动器。减少您在屏幕上浪费的时间，提供日常壁纸，非常优雅简洁，效果上来看适合英文用户：
 
-`RTransator` 是一个(几乎)开源的、免费的、离线的 `Android` 实时翻译应用程序。
-
-连接到有这个应用程序的人，连接蓝牙耳机，把手机放在你的口袋里，你就可以像对方说你的语言一样进行交谈。
-
-![RTranslator](https://images-1252557999.file.myqcloud.com/uPic/RTranslator.jpg) 
+![Olauncher](https://images-1252557999.file.myqcloud.com/uPic/Olauncher.jpg) 
 
 ## 👀 资料 
 
-### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
+### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
 
-带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
+教程：小型金融知识图谱流程示范。 
 
-![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-### [free-educa](https://github.com/free-educa/books)
+深度学习入门教程资料聚合项目，包含：
 
-`free-educa/books` 是一个开源书籍分享项目，提供了一个精选的编程和开发相关书籍收藏，涵盖了多种编程语言、网页开发、移动应用开发、软件工程、数据科学、DevOps、软件架构和网络安全等主题，鼓励社区成员贡献和共享资源。
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
 
-老胡将所有电子书打包好了 👉 https://pan.quark.cn/s/a3cf52f67ec0
+![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
 
-![free-educa](https://images-1252557999.file.myqcloud.com/uPic/free-educa.jpg) 
+![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
 
-### [learn-regex](https://github.com/ziishaned/learn-regex)
+### [Ai迷思录](https://github.com/Acmesec/theAIMythbook)
 
-开源的正则表达式教程，有中文版，有在线示例。 
+涵盖了人工智能的基础知识、法律法规、经典人工智能模型、漏洞与攻击、防御方法、安全开发与运维、相关框架、会议讲座以及实践技能等。
+
+![theAIMythbook](https://images-1252557999.file.myqcloud.com/uPic/lPbVPg.png) 
 
 ## 🕸 网站 
 
-### [drawio](https://github.com/jgraph/drawio)
+### [pandagpt.io](https://www.pandagpt.io/)
 
-一款开源的流程图绘制项目，可直接在[网页上](https://www.diagrams.net/)访问：
+基于  `ChatGPT` 的 `AI` 文档机器人：
 
-![drawio](https://images-1252557999.file.myqcloud.com/uPic/drawio.jpg) 
+![pandagpt](https://images-1252557999.file.myqcloud.com/uPic/pandagpt.jpg) 
 
-### [producthunt-daily-hot](https://github.com/ViggoZ/producthunt-daily-hot)
+### [AI 头像生成器](https://ai-headshot-generator.net/cn)
 
-`Product Hunt` 每日热榜是一个基于 `GitHub Action` 的自动化工具，它能够每天定时生成 `Product Hunt` 上的热门产品榜单 `Markdown` 文件，并自动提交到 `GitHub` 仓库中。该项目旨在帮助用户快速查看每日的 `Product Hunt` 热门榜单，并提供更详细的产品信息。
+在线创建最佳 AI 头像：
 
-![producthunt-daily-hot](https://images-1252557999.file.myqcloud.com/uPic/2vDyRf.png) 
+![ai-headshot-generator.net](https://images-1252557999.file.myqcloud.com/uPic/DVnp5s.png) 
 
-### [singleservingsites.cool](https://singleservingsites.cool/ "singleservingsites.cool")
+### [emojimix](https://tikolu.net/emojimix/)
 
-Single-Serving Sites 是一个展示专注于特定功能或主题的微型网站。这些网站涵盖了从二维码、倒计时、设计工具、在线棋盘游戏到个性化的 CSS 风格、产品管理工具等多种类型，每个微型网站都有其独特的功能和目的：
+一个表情融合网站，图一个乐呵，效果如下：
 
-![singleservingsites](https://images-1252557999.file.myqcloud.com/uPic/lrAstx.png) 
+![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
 
 ## ✍️ 说明
 
