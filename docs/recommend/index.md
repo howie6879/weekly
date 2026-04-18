@@ -5,110 +5,109 @@
 
 ## 🎯 项目 
 
-### [AgentGPT](https://github.com/reworkd/AgentGPT)
+### [dbsyncer](https://github.com/86dbs/dbsyncer)
 
-🤖 在您的浏览器中组装、配置和部署自主 AI 代理，可以简单理解成 `Auto-GPT` 的网页版：
+`DBSyncer`（简称dbs）是一款开源的数据同步中间件，提供`MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL`等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
 
-- 通过向量数据库实现长期记忆 🧠
-- 通过语言链具备网络浏览能力 🌐
-- 与网站和人进行交互 👨‍👩‍👦
-- 通过文档 API 具备写作能力 📄
-- 保存代理运行 💾
-- 用户和身份验证 🔐
-- Stripe 集成以提供低限制付费版本（这样我们就不用担心基础设施成本）💵
+- 组合驱动，自定义库同步到库组合，关系型数据库与非关系型之间组合，任意搭配表同步映射关系
+- 实时监控，驱动全量或增量实时同步运行状态、结果、同步日志和系统日志
+- 开发插件，自定义转化同步逻辑
 
-![agentgpt](https://images-1252557999.file.myqcloud.com/uPic/agentgpt.jpg) 
+![dbsyncer](https://images-1252557999.file.myqcloud.com/uPic/dbsyncer.webp) 
 
-### [HTTPie](https://github.com/httpie/httpie)
+### [plasmo](https://github.com/PlasmoHQ/plasmo)
 
-现代化的HTTP客户端命令行工具：
+`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
 
-![httpie-animation](https://images-1252557999.file.myqcloud.com/uPic/httpie-animation.gif) 
+- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
+- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
+- 热重载
+- [`.env*`  文件](https://docs.plasmo.com/framework/env)
+- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
+- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
+- 还有更多!  🚀
 
-### [ssddanbrown/rss](https://github.com/ssddanbrown/rss)
+![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
 
-一个简单的 `Twitter-feed` 风格的 `RSS` 聚合器，使用 `PHP、Laravel、Inertia.js、Tailwind、Vue.js` 编写:
+更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
 
-- 支持RSS和ATOM格式
-- 定期自动获取RSS订阅源
-- 自定义订阅名称和颜色
-- 基于内容的标签进行分类
-- 3种不同的帖子布局模式（卡片、列表、紧凑）
-- 获取页面的开放图像
-- 通过单个纯文本文件管理的订阅源
-- 基于系统的暗/亮主题
-- 帖子标题/描述搜索
-- 开箱即用的Docker镜像
-- 手机屏幕兼容
-- 清理旧的帖子数据
+### [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
 
-![ssddanbrown_rss](https://images-1252557999.file.myqcloud.com/uPic/ssddanbrown_rss.png) 
+一个基于MCP的聊天机器人，小智 AI 聊天机器人作为一个语音交互入口，利用 Qwen / DeepSeek 等大模型的 AI 能力，通过 MCP 协议实现多端控制：
+
+- Wi-Fi / ML307 Cat.1 4G
+- 离线语音唤醒 ESP-SR
+- 支持两种通信协议（Websocket 或 MQTT+UDP）
+- 采用 OPUS 音频编解码
+- 基于流式 ASR + LLM + TTS 架构的语音交互
+- 声纹识别，识别当前说话人的身份 3D Speaker
+- OLED / LCD 显示屏，支持表情显示
+- 电量显示与电源管理
+- 支持多语言（中文、英文、日文）
+- 支持 ESP32-C3、ESP32-S3、ESP32-P4 芯片平台
+- 通过设备端 MCP 实现设备控制（音量、灯光、电机、GPIO 等）
+- 通过云端 MCP 扩展大模型能力（智能家居控制、PC桌面操作、知识搜索、邮件收发等）
+
+![xiaozhi](https://images-1252557999.file.myqcloud.com/uPic/EOJ1tL.png) 
 
 ## 🤖 软件 
 
-### [BlackHole](https://github.com/Sangwan5688/BlackHole)
+### [CatchMouse](https://github.com/round/CatchMouse)
 
-一个适用于您所有需求的开源音乐播放器应用，高颜值、无广告、免费音乐播放器，拥有歌词、专辑、艺术家、播放列表、定时关闭等功能，支持 `Android、iOS、macOS` 系统：
+如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
 
-![BlackHole](https://images-1252557999.file.myqcloud.com/uPic/BlackHole.png)
-![hole](https://images-1252557999.file.myqcloud.com/uPic/hole.jpg) 
+### [aniyomi](https://github.com/aniyomiorg/aniyomi)
 
-### [Malware-Patch](https://github.com/the1812/Malware-Patch)
+读者推荐，`aniyomi` 不单单可以看漫画还可以看动漫，而且也支持[插件](https://aniyomi.org/extensions/)，更厉害的是，这个 APP 可以关联漫画进度记录网站，比如 Bangumi、MyAnimeList 等：
 
-阻止中国流氓软件的管理员授权，无需后台运行：
+![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
 
-![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
+### [bilijump-ai](https://github.com/qingmeng1/bilijump-ai)
 
-### [Olauncher](https://github.com/tanujnotes/Olauncher)
+一个使用 `AI` 自动跳过 `Bilibili` 视频植入广告的 `Chrome` 扩展程序：
 
-适用于 `Android` 的最小 `AF` 启动器。减少您在屏幕上浪费的时间，提供日常壁纸，非常优雅简洁，效果上来看适合英文用户：
-
-![Olauncher](https://images-1252557999.file.myqcloud.com/uPic/Olauncher.jpg) 
+![bilijump](https://images-1252557999.file.myqcloud.com/uPic/SrzNbw.png) 
 
 ## 👀 资料 
 
-### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
+### [法律文库](https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html)
 
-教程：小型金融知识图谱流程示范。 
+以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。
 
-### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+![justlaws](https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg) 
 
-深度学习入门教程资料聚合项目，包含：
+### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
 
-- 数学基础
-- 机器学习基础
-- 深度学习基础
-- 工程能力
+互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
 
-![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
+### [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial)
 
-![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
-
-### [Ai迷思录](https://github.com/Acmesec/theAIMythbook)
-
-涵盖了人工智能的基础知识、法律法规、经典人工智能模型、漏洞与攻击、防御方法、安全开发与运维、相关框架、会议讲座以及实践技能等。
-
-![theAIMythbook](https://images-1252557999.file.myqcloud.com/uPic/lPbVPg.png) 
+一份用 `Python` 编写 `systemd` 服务的教程。 
 
 ## 🕸 网站 
 
-### [pandagpt.io](https://www.pandagpt.io/)
+### [hotkeycheatsheet](https://hotkeycheatsheet.com/zh)
 
-基于  `ChatGPT` 的 `AI` 文档机器人：
+常用软件的快捷键备忘录：
 
-![pandagpt](https://images-1252557999.file.myqcloud.com/uPic/pandagpt.jpg) 
+![hotkeycheatsheet](https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg) 
 
-### [AI 头像生成器](https://ai-headshot-generator.net/cn)
+### [zhongguose](http://zhongguose.com/)
 
-在线创建最佳 AI 头像：
+一个中国传统颜色的配色网站：
 
-![ai-headshot-generator.net](https://images-1252557999.file.myqcloud.com/uPic/DVnp5s.png) 
+![zhongguose](https://images-1252557999.file.myqcloud.com/uPic/zhongguose.jpg) 
 
-### [emojimix](https://tikolu.net/emojimix/)
+### [quanxin](https://quanxin.org/)
 
-一个表情融合网站，图一个乐呵，效果如下：
+快速、优雅、免费的在线工具，比如：
 
-![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
+- [IP地址查询](https://quanxin.org/ip)
+- [代码截图工具](https://quanxin.org/code-snapshot)
+- [HTTP 状态码参考表](https://quanxin.org/http-status-code)
+- [Favicon ico图标生成器](https://quanxin.org/favicon)
+
+![](https://images-1252557999.file.myqcloud.com/uPic/i6hqlr.png) 
 
 ## ✍️ 说明
 
