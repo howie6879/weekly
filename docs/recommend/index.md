@@ -5,109 +5,98 @@
 
 ## 🎯 项目 
 
-### [dbsyncer](https://github.com/86dbs/dbsyncer)
+### [siteproxy](https://github.com/netptop/siteproxy)
 
-`DBSyncer`（简称dbs）是一款开源的数据同步中间件，提供`MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL`等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
+`SiteProxy` 是一个功能强大的在线代理工具，采用了最新的技术，提升了代理的稳定性和兼容性。我们致力于提供 简单、高效、安全 的代理服务，为用户提供最佳的互联网访问体验：
 
-- 组合驱动，自定义库同步到库组合，关系型数据库与非关系型之间组合，任意搭配表同步映射关系
-- 实时监控，驱动全量或增量实时同步运行状态、结果、同步日志和系统日志
-- 开发插件，自定义转化同步逻辑
+- 超高速性能：采用 Hono 替代传统的Express 服务器，性能提升 4 倍，带来更流畅的使用体验。
+- 云端部署：完美支持 Cloudflare Worker 部署，快速且高效。
+- AI 智能聊天：集成 DuckDuckGo AI Chat，免费提供 GPT-3.5 和 Claude 3，让你的代理服务更加智能。
+- 高级安全保护：支持密码控制代理，只有授权用户才能访问，大幅提升安全性。
+- 零配置使用：用户无需进行任何客户端配置，只需访问代理网址即可畅游全球互联网。
+- 便捷登录：全面支持 GitHub 和 Telegram Web 登录，操作简单快捷。
+- 强力加密：采用 RSA + AES 双重加密技术，保护用户登录密码，防止中间人攻击。
+- 隐私保护：通过代理网址访问全球互联网，同时隐藏用户真实 IP，保护隐私。
+- 无缝体验：无需任何软件安装和浏览器配置，即可立即使用，提供极致便利的用户体验。 
 
-![dbsyncer](https://images-1252557999.file.myqcloud.com/uPic/dbsyncer.webp) 
+### [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
 
-### [plasmo](https://github.com/PlasmoHQ/plasmo)
+一个轻量级的AI证件照制作算法：
 
-`Plasmo` 框架是骇客为骇客制作的一个强力的浏览器扩展 `SDK`。构建您的产品，无需担心配置文件编写和构建浏览器扩展时的奇怪特性：
+- 轻量级抠图（纯离线，仅需 CPU 即可快速推理）
+- 根据不同尺寸规格生成不同的标准证件照、六寸排版照
+- 支持 纯离线 或 端云 推理
+- 美颜（waiting）
+- 智能换正装（waiting）
 
-- 对  [React](https://reactjs.org/)  +  [Typescript](https://www.typescriptlang.org/)  的一等支持
-- [声明式开发，自动生成  `manifest.json`  (MV3)](https://docs.plasmo.com/framework#where-is-the-manifestjson-file)
-- 热重载
-- [`.env*`  文件](https://docs.plasmo.com/framework/env)
-- [远程代码打包](https://docs.plasmo.com/framework/workflows/remote-code)  (例如：使用 gtag4 )
-- 自动部署 (通过  [BPP](https://docs.plasmo.com/framework/workflows/submit))
-- 还有更多!  🚀
+![HivisionIDPhotos](https://images-1252557999.file.myqcloud.com/uPic/gPE06c.png) 
 
-![plasmo](https://images-1252557999.file.myqcloud.com/uPic/plasmo.jpg)
+### [Strapi](https://github.com/strapi/strapi)
 
-更多介绍建议参考这篇文章：Plasmo Framework：[次世代的浏览器插件开发框架](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495694&idx=1&sn=3b2a4682265ccc150a3e72d37d30ddae&chksm=c160036ef6178a7889b26cb561a53b15b2aad75ca7b2f3dfc4293ca686d1dad378c4e65476b4&token=1395032296&lang=zh_CN#rd) 
+`Strapi` 是一个开源的头部 `CMS`，它允许开发者使用 `JavaScript` 或 `TypeScript` 来构建和定制项目。它是为开发者设计的，提供了完全的自定义能力和灵活性：
 
-### [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
-
-一个基于MCP的聊天机器人，小智 AI 聊天机器人作为一个语音交互入口，利用 Qwen / DeepSeek 等大模型的 AI 能力，通过 MCP 协议实现多端控制：
-
-- Wi-Fi / ML307 Cat.1 4G
-- 离线语音唤醒 ESP-SR
-- 支持两种通信协议（Websocket 或 MQTT+UDP）
-- 采用 OPUS 音频编解码
-- 基于流式 ASR + LLM + TTS 架构的语音交互
-- 声纹识别，识别当前说话人的身份 3D Speaker
-- OLED / LCD 显示屏，支持表情显示
-- 电量显示与电源管理
-- 支持多语言（中文、英文、日文）
-- 支持 ESP32-C3、ESP32-S3、ESP32-P4 芯片平台
-- 通过设备端 MCP 实现设备控制（音量、灯光、电机、GPIO 等）
-- 通过云端 MCP 扩展大模型能力（智能家居控制、PC桌面操作、知识搜索、邮件收发等）
-
-![xiaozhi](https://images-1252557999.file.myqcloud.com/uPic/EOJ1tL.png) 
+![Strapi](https://images-1252557999.file.myqcloud.com/uPic/lKNHVM.png) 
 
 ## 🤖 软件 
 
-### [CatchMouse](https://github.com/round/CatchMouse)
+### [Tai](https://github.com/Planshit/Tai)
 
-如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
+👻 在 Windows 上统计软件使用时长，类似于 iPhone 的屏幕使用时长一样，Tai 负责统计你每一个软件的使用时长。需要注意的是，使用时长并不是软件的存活时间，而是软件从获得焦点时开始到失去焦点后这段时间：
 
-### [aniyomi](https://github.com/aniyomiorg/aniyomi)
+![Tai](https://images-1252557999.file.myqcloud.com/uPic/Tai.jpeg) 
 
-读者推荐，`aniyomi` 不单单可以看漫画还可以看动漫，而且也支持[插件](https://aniyomi.org/extensions/)，更厉害的是，这个 APP 可以关联漫画进度记录网站，比如 Bangumi、MyAnimeList 等：
+### [keyviz](https://github.com/mulaRahul/keyviz)
 
-![aniyomi](https://images-1252557999.file.myqcloud.com/uPic/aniyomi.jpg) 
+`Keyviz` 是一个免费且开源的工具，可以实时可视化您的按键⌨️和🖱️鼠标操作，比较适合录屏按键演示，基于 Flutter 开发，跨平台，颜值也不错：
 
-### [bilijump-ai](https://github.com/qingmeng1/bilijump-ai)
+![keyviz](https://images-1252557999.file.myqcloud.com/uPic/keyviz.svg) 
 
-一个使用 `AI` 自动跳过 `Bilibili` 视频植入广告的 `Chrome` 扩展程序：
+### [codeapp](https://github.com/thebaselab/codeapp)
 
-![bilijump](https://images-1252557999.file.myqcloud.com/uPic/SrzNbw.png) 
+为 `iPad` 构建一个成熟的代码编辑器：
+
+![codeapp](https://images-1252557999.file.myqcloud.com/uPic/codeapp.png) 
 
 ## 👀 资料 
 
-### [法律文库](https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html)
+### [reversing](https://0xinfection.github.io/reversing/)
 
-以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。
+免费电子书，面向所有人的逆向工程：
 
-![justlaws](https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg) 
+![reversing](https://images-1252557999.file.myqcloud.com/uPic/reversing.jpg) 
 
-### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
+### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
 
-互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
+对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
 
-### [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial)
+### [动手实现LLM中文版](https://github.com/datawhalechina/llms-from-scratch-cn)
 
-一份用 `Python` 编写 `systemd` 服务的教程。 
+该项目提供了一个如何从头开始实现类似 `ChatGPT` 的大语言模型（LLM）的详细教程：
+
+![tllms-from-scratch-cn](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6242161922065677933-y.jpg) 
 
 ## 🕸 网站 
 
-### [hotkeycheatsheet](https://hotkeycheatsheet.com/zh)
+### [pixel-me](https://pixel-me.tokyo/en/)
 
-常用软件的快捷键备忘录：
+将你的头像像素化，质量挺好：
 
-![hotkeycheatsheet](https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/gnHdoM.png) 
 
-### [zhongguose](http://zhongguose.com/)
+### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
 
-一个中国传统颜色的配色网站：
+老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
 
-![zhongguose](https://images-1252557999.file.myqcloud.com/uPic/zhongguose.jpg) 
+- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
+- Gemini Pro 体验地址：https://gemini.fre123.com/
 
-### [quanxin](https://quanxin.org/)
+![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
 
-快速、优雅、免费的在线工具，比如：
+### [stable-doodle](https://clipdrop.co/stable-doodle)
 
-- [IP地址查询](https://quanxin.org/ip)
-- [代码截图工具](https://quanxin.org/code-snapshot)
-- [HTTP 状态码参考表](https://quanxin.org/http-status-code)
-- [Favicon ico图标生成器](https://quanxin.org/favicon)
+`stability AI` 推出的 `AI` 工具, 根据涂鸦和文字描述生成图片, 类似之推荐的 [scribblediffusion.com](https://weekly.howie6879.com/2023/03-06~03-11.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC082%E6%9C%9F%EF%BC%89.html?h=%E7%94%BB#scribblediffusioncom)，我画了只兔子：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/i6hqlr.png) 
+![stable-doodle](https://images-1252557999.file.myqcloud.com/uPic/stable-doodle.jpg) 
 
 ## ✍️ 说明
 
