@@ -5,92 +5,91 @@
 
 ## 🎯 项目 
 
-### [click-prompt](https://github.com/prompt-engineering/click-prompt)
+### [markmap](https://github.com/gera2ld/markmap)
 
-ClickPrompt 是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，例如 Stable Diffusion、ChatGPT 和 GitHub Copilot 等。 使用 ClickPrompt，您可以轻松地查看、分享和一键运行这些模型，同时提供在线的 Prompt 生成器，使用户能够根据自己的需求轻松创建符合要求的 Prompt，并与其他人分享。
+可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
 
-![clickprompt](https://images-1252557999.file.myqcloud.com/uPic/clickprompt.jpg) 
+![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
 
-### [signoz](https://github.com/signoz/signoz)
+### [openresty-manager](https://github.com/Safe3/openresty-manager)
 
-`SigNoz` 是一套开源 `APM` 方案，用于监控应用指标和链路，可以看到调用情况、异常、trace上下链路，也可以自己定义 `Dashboard`：
+主机管理面板，OpenResty Edge 的开源替代品，它可以让您轻松地安全反向代理在家或互联网上运行的网站，包括访问控制、拒绝服务攻击防护、自动申请并续期免费的SSL证书：
 
-![signoz](https://images-1252557999.file.myqcloud.com/uPic/signoz.jpg) 
+- 支持通过HTTP-01和DNS-01挑战申请免费SSL证书并自动续期
+- 无需了解OpenResty，即可轻松为您的网站创建反向代理
+- 提供了多种强大安全功能，如访问控制、拒绝服务攻击防护等
+- 简化服务器管理，为用户界面友好的终端和文件管理功能
+- 支持基于容器的应用商店功能，大大降低建站和容器管理的难度
 
-### [resume-design](https://github.com/Hacker233/resume-design)
+![openresty-manager](https://images-1252557999.file.myqcloud.com/uPic/4Grbgi.png) 
 
-一款开源免费的简历制作神器，支持导出超高清 PDF、图片、源码级 JSON 数据等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。
+### [c-shopping](https://github.com/huanghanzhilian/c-shopping)
 
-![resume-design](https://images-1252557999.file.myqcloud.com/uPic/y8rbsD.png) 
+ 基于 `Nextjs` 开发同时适配 `Desktop、Tablet、Phone` 多种设备的精美购物平台：
+ 
+ ![C-Shopping](https://images-1252557999.file.myqcloud.com/uPic/C-Shopping.png) 
 
 ## 🤖 软件 
 
-### [rubick](https://github.com/rubickCenter/rubick)
+### [Mos](https://github.com/Caldis/Mos)
 
-基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
+一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
 
-- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
-- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
-- 支持全局快捷键设置。
-- 支持剪贴板文件搜索。
-- 支持搜索本地安装的应用程序或偏好设置。
-- 支持MacOS。
-- 支持Windows。
-- 支持Linux。
+![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
 
-![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
+### [hetty](https://github.com/dstotijn/hetty)
 
-### [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)
+`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
 
-免费开源抓包工具，支持 `Windows、Mac、Android、IOS、Linux` 全平台系统：
+![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
 
-![network_proxy_flutter](https://images-1252557999.file.myqcloud.com/uPic/network_proxy_flutter.png) 
+### [yanhuo](https://eigenmiao.com/yanhuo)
 
-### [linkandroid](https://github.com/modstart-lib/linkandroid)
+焰火十二卷是一款免费开源的跨平台调色板软件。它提供了多种功能来生成一组调和色彩，可以为你提供更好的色彩搭配方案。你可以通过色轮选取、图像拾色等方式轻松获得想要的色彩组合。你可以将这些色彩应用到自己的创作，或者分享给他人。
 
-全能手机连接助手，方便快捷的连接 Android 和电脑，连接手机后可投屏、GIF/MP4录屏、截屏、文件管理、手机操作等功能：
-
-![linkandroid](https://images-1252557999.file.myqcloud.com/uPic/R9oZa7.png) 
+![yanhuo](https://images-1252557999.file.myqcloud.com/uPic/yanhuo.jpg) 
 
 ## 👀 资料 
 
-### [newsletter-list](https://github.com/chasays/newsletter-list)
+### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
 
-有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
+教程：小型金融知识图谱流程示范。 
 
-- 互联网和科技
-- 成长和思考
-- 工具和效率 
+### [llm-action](https://github.com/liguodongiot/llm-action)
 
-### [leetcode](https://github.com/doocs/leetcode)
+本项目旨在分享大模型相关技术原理以及实战经验，让天下没有难学的大模型：
 
-本项目包含 LeetCode、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。所有题解均由多种编程语言实现，包括但不限于：Java、Python、C++、JavaScript、C#、Go，日常更新。 
+![llm-action](https://images-1252557999.file.myqcloud.com/uPic/llm-action.png) 
 
-### [curriculum](https://github.com/TheOdinProject/curriculum)
+### [Midjourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
 
-`The Odin Project`（简称 TOP）是一个开源的全栈 web 开发教育课程，旨在通过一系列课程和项目帮助学习者掌握前端和后端技能：
+一份 `Midjourney` 学习教程：
 
-![k6tcen](https://images-1252557999.file.myqcloud.com/uPic/k6tcen.png) 
+![midjourney-learning-path](https://images-1252557999.file.myqcloud.com/uPic/midjourney-learning-path.jpg) 
 
 ## 🕸 网站 
 
-### [cook](https://github.com/YunYouJun/cook)
+### [myfirstnft](https://myfirstnft.info/)
 
-一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
+我的第一个NFT，在这个网站，你可以：
 
-![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
+- 理解NFT的价值
+- 铸造一个免费的NFT
+- 了解Web3.0
 
-### [claudecount.com](https://www.claudecount.com/)
+![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
 
-`Claude Code` 使用排行榜：
+### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
 
-![claudecount](https://images-1252557999.file.myqcloud.com/uPic/nyvqZR.png) 
+一份新冠预防及治疗指南：
 
-### [tailspark](https://tailspark.co/)
+![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
 
-`300+` 免费的 `TailwindCSS` 组件和模板，让您在几分钟内构建网站，颜值也非常高：
+### [chatgpt-sites](https://github.com/lzwme/chatgpt-sites)
 
-![tailspark](https://images-1252557999.file.myqcloud.com/uPic/tailspark.jpg) 
+搜集国内可用的 ChatGPT 在线体验免费网站列表，定时任务每日更新，点击[这里](https://lzw.me/x/chatgpt-sites/)访问：
+
+![chatgpt-sites](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-sites.jpg) 
 
 ## ✍️ 说明
 
