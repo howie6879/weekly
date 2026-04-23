@@ -5,91 +5,105 @@
 
 ## 🎯 项目 
 
-### [markmap](https://github.com/gera2ld/markmap)
+### [markitdown](https://github.com/microsoft/markitdown)
 
-可快速将 Markdown 文档转为直观可视化的思维导图，并且能集成到 VSCode 上，访问地址：[markmap.js.org](https://markmap.js.org/)。
+ 微软出品的格式转化开源项目，它支持将多种文件格式（如 PDF、PowerPoint、Word、Excel、图片、音频、HTML、CSV、JSON、XML 以及 ZIP 文件）转换为 Markdown 格式，便于索引和文本分析等操作。用户可以通过命令行、Python API 或 Docker 容器来使用 MarkItDown。 
 
-![markmap](https://images-1252557999.file.myqcloud.com/uPic/5dh1I6.png) 
+### [photoprism](https://github.com/photoprism/photoprism)
 
-### [openresty-manager](https://github.com/Safe3/openresty-manager)
+基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
 
-主机管理面板，OpenResty Edge 的开源替代品，它可以让您轻松地安全反向代理在家或互联网上运行的网站，包括访问控制、拒绝服务攻击防护、自动申请并续期免费的SSL证书：
+![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
 
-- 支持通过HTTP-01和DNS-01挑战申请免费SSL证书并自动续期
-- 无需了解OpenResty，即可轻松为您的网站创建反向代理
-- 提供了多种强大安全功能，如访问控制、拒绝服务攻击防护等
-- 简化服务器管理，为用户界面友好的终端和文件管理功能
-- 支持基于容器的应用商店功能，大大降低建站和容器管理的难度
+### [v2rayA](https://github.com/v2rayA/v2rayA)
 
-![openresty-manager](https://images-1252557999.file.myqcloud.com/uPic/4Grbgi.png) 
+`v2rayA` 是一个支持全局透明代理的 `V2Ray` 客户端，同时兼容 `SS、SSR、Trojan(trojan-go)、Tuic & Juicity` 协议， 致力于提供最简单的操作，满足绝大部分需求，得益于 Web 客户端的优势，你不仅可以将其用于本地计算机，还可以轻松地将它部署在路由器或 NAS 上。
 
-### [c-shopping](https://github.com/huanghanzhilian/c-shopping)
-
- 基于 `Nextjs` 开发同时适配 `Desktop、Tablet、Phone` 多种设备的精美购物平台：
- 
- ![C-Shopping](https://images-1252557999.file.myqcloud.com/uPic/C-Shopping.png) 
+![v2rayA](https://images-1252557999.file.myqcloud.com/uPic/v2rayA.png) 
 
 ## 🤖 软件 
 
-### [Mos](https://github.com/Caldis/Mos)
+### [novel-disguise](https://github.com/NiaoBlush/novel-disguise)
 
-一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
+将小说页面伪装成一个 `Word` 文档或 `Excel` 表格，神奇的脑回路，应该是为摸鱼而生的项目，好像还支持了 v 站：
 
-![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
+![novel-disguise](https://images-1252557999.file.myqcloud.com/uPic/bPV6Qm.png) 
 
-### [hetty](https://github.com/dstotijn/hetty)
+### [AutoTask](https://github.com/xjunz/AutoTask)
 
-`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
+一款支持 [Shizuku](https://github.com/RikkaApps/Shizuku) 和辅助功能的自动任务工具，本应用专注于帮助您执行自动任务，相比于其他同类产品，本应用具有以下特点：
 
-![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
+- 支持多种启动模式（Shizuku和辅助功能）
+- 支持自定义常驻任务任务和一次性任务
+- 支持手势录制，审查布局树等
+- 不需要刻意保活便可常驻后台（两种模式默认系统保活）
+- 省电且占用系统资源较少（事件驱动+协程，执行长时间任务也不阻塞CPU）
+- 代码开源，安全可信
+- Material 3 风格UI，实用美观
 
-### [yanhuo](https://eigenmiao.com/yanhuo)
+![AutoTask](https://images-1252557999.file.myqcloud.com/uPic/o9SYLa.png) 
 
-焰火十二卷是一款免费开源的跨平台调色板软件。它提供了多种功能来生成一组调和色彩，可以为你提供更好的色彩搭配方案。你可以通过色轮选取、图像拾色等方式轻松获得想要的色彩组合。你可以将这些色彩应用到自己的创作，或者分享给他人。
+### [polyglot](https://github.com/liou666/polyglot)
 
-![yanhuo](https://images-1252557999.file.myqcloud.com/uPic/yanhuo.jpg) 
+Polyglot是一款多平台的桌面端应用程序。基于ChatGPT和Azure人工智能语言模型作为底层服务，使用Vue3+TS技术栈构建，旨在提供一个易于使用的语言练习平台，方便进行多语种的口语练习：
+
+![polyglot](https://images-1252557999.file.myqcloud.com/uPic/polyglot.png) 
 
 ## 👀 资料 
 
-### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
+### [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 
-教程：小型金融知识图谱流程示范。 
+开源的 `MCP servers` 收集项目：
 
-### [llm-action](https://github.com/liguodongiot/llm-action)
+![awesome-mcp-servers](https://images-1252557999.file.myqcloud.com/uPic/DkjYJG.png) 
 
-本项目旨在分享大模型相关技术原理以及实战经验，让天下没有难学的大模型：
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
 
-![llm-action](https://images-1252557999.file.myqcloud.com/uPic/llm-action.png) 
+站点可靠性工作手册：
 
-### [Midjourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
-一份 `Midjourney` 学习教程：
+### [Large Language Models Practical Course](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce)
 
-![midjourney-learning-path](https://images-1252557999.file.myqcloud.com/uPic/midjourney-learning-path.jpg) 
+开源([Large Language Models Practical Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course))的关于大型语言模型的实践课程，通过使用 `OpenAI` 和 `Hugging Face` 库的模型进行实际操作来提供实践经验，课程主要包括：
+
+- Techniques and Libraries
+- Projects
+- Enterprise Solutions
+
+![large-language-models-practical-course](https://images-1252557999.file.myqcloud.com/uPic/large-language-models-practical-course.jpg)
+
+> 附带一个 Mac 微调大模型的文章：[A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) 
 
 ## 🕸 网站 
 
-### [myfirstnft](https://myfirstnft.info/)
+### [chess.com](https://www.chess.com/)
 
-我的第一个NFT，在这个网站，你可以：
+在线国际象棋：
 
-- 理解NFT的价值
-- 铸造一个免费的NFT
-- 了解Web3.0
+![chess](https://images-1252557999.file.myqcloud.com/uPic/chess.jpg) 
 
-![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
+### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
 
-### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
+Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
 
-一份新冠预防及治疗指南：
+![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
 
-![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
+### [workout-cool](https://workout.cool/)
 
-### [chatgpt-sites](https://github.com/lzwme/chatgpt-sites)
+> 一个综合性健身指导平台，可为您创建训练计划、追踪进度，并提供包含详细说明与视频演示的丰富训练动作数据库。
 
-搜集国内可用的 ChatGPT 在线体验免费网站列表，定时任务每日更新，点击[这里](https://lzw.me/x/chatgpt-sites/)访问：
+如果读者有印象的话，老胡之前推荐过 [workout-lol](https://github.com/workout-lol/workout-lol)，这两个项目名字很像，界面也类似，这背后作者自述故事如下：
 
-![chatgpt-sites](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-sites.jpg) 
+- 🏗️ 原始贡献者：我曾是 workout.lol 项目的主要贡献者
+- 💼 商业挑战：原项目在健身视频合作方面遇到重大障碍（无法找到可靠的视频供应商）
+- 💰 项目出售：由于这些合作问题，该项目被出售给另一方
+- 📉 项目废弃：新所有者很快意识到健身视频授权成本高得离谱，随后开始消极对待并最终彻底放弃了整个项目
+- 🔄 复兴尝试：过去9个月里，我一直在尝试重新联系新利益相关方
+- 📧 杳无音讯：尽管进行了多次（15次）尝试，但始终未获回应
+- 🚀 全新开始：与其让这份宝贵的工作消失，我决定创建一个全新的现代化实现
+
+![workout-cool](https://images-1252557999.file.myqcloud.com/uPic/LUjWBV.png) 
 
 ## ✍️ 说明
 
