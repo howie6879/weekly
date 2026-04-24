@@ -5,105 +5,98 @@
 
 ## 🎯 项目 
 
-### [markitdown](https://github.com/microsoft/markitdown)
+### [reader-s](https://github.com/hectorqin/reader)
 
- 微软出品的格式转化开源项目，它支持将多种文件格式（如 PDF、PowerPoint、Word、Excel、图片、音频、HTML、CSV、JSON、XML 以及 ZIP 文件）转换为 Markdown 格式，便于索引和文本分析等操作。用户可以通过命令行、Python API 或 Docker 容器来使用 MarkItDown。 
+阅读3服务器版，不需要手机，可以体验下在web上追更你的小说：
 
-### [photoprism](https://github.com/photoprism/photoprism)
+![reader-s](https://images-1252557999.file.myqcloud.com/uPic/reader-s.jpg) 
 
-基于深度学习的图片管理项目，适合有自建图片托管服务的朋友：
+### [pensieve](https://github.com/arkohut/pensieve)
 
-![photoprism](https://images-1252557999.file.myqcloud.com/uPic/ZiTbsh.jpg) 
+`Pensieve` 是一个专注于隐私的被动记录项目。它可以自动记录屏幕内容，构建智能索引，并提供便捷的 `web` 界面来检索历史记录：
 
-### [v2rayA](https://github.com/v2rayA/v2rayA)
+![pensieve](https://images-1252557999.file.myqcloud.com/uPic/SFLqDw.png) 
 
-`v2rayA` 是一个支持全局透明代理的 `V2Ray` 客户端，同时兼容 `SS、SSR、Trojan(trojan-go)、Tuic & Juicity` 协议， 致力于提供最简单的操作，满足绝大部分需求，得益于 Web 客户端的优势，你不仅可以将其用于本地计算机，还可以轻松地将它部署在路由器或 NAS 上。
+### [agibot_x1_infer](https://github.com/AgibotTech/agibot_x1_infer)
 
-![v2rayA](https://images-1252557999.file.myqcloud.com/uPic/v2rayA.png) 
+稚晖君开源的智元家灵犀X1，智元人形机器人，全套资料全球开源，包括设计图纸和代码：
+
+- **开发指南链接**: [开发指南](https://www.zhiyuan-robot.com/DOCS/OS/X1-PDG)
+- **设计资料百度云盘** (提取码：1234): [百度云盘链接](https://pan.baidu.com/s/1UEdeDBTJiXRmIqMKwmO5RA?pwd=1234)
+- **设计资料谷歌云盘**: [谷歌云盘链接](https://drive.google.com/drive/folders/1MECbyKRJbnc_XKWsdUbn-70xmYFmw9FW?usp=sharing)
+- **推理代码**: [推理代码链接](https://github.com/AgibotTech/agibot_x1_infer)
+- **训练代码**: [训练代码链接](https://github.com/AgibotTech/agibot_x1_train)
+
+![agibot_x1_infer](https://images-1252557999.file.myqcloud.com/uPic/QchElr.png) 
 
 ## 🤖 软件 
 
-### [novel-disguise](https://github.com/NiaoBlush/novel-disguise)
+### [MediaBox](https://github.com/RyensX/MediaBox)
 
-将小说页面伪装成一个 `Word` 文档或 `Excel` 表格，神奇的脑回路，应该是为摸鱼而生的项目，好像还支持了 v 站：
+全能媒体容器，插件化网罗天下媒体，畅快学习软件开发。实现了类似微信小程序的框架，只需要简单实现插件API提供数据到容器即可快速成型，方便学习爬虫、APP开发等。容器主要为插件提供以下服务：
 
-![novel-disguise](https://images-1252557999.file.myqcloud.com/uPic/bPV6Qm.png) 
+- 数据自动渲染到UI(视图组件)
+- 媒体收藏/历史记录
+- 周期性媒体数据检查服务(插件只需要实现媒体检查更新组件即可被主动检查更新)
+- 视频播放组件(播放器)，支持手势控制/夜间模式/弹幕/倍速控制/多集聚合/横竖旋转适应等
+- 私有可视化KV存储(插件私有配置)
+- 个人数据/插件云端备份(WebDav,开发中)
 
-### [AutoTask](https://github.com/xjunz/AutoTask)
+简单来说，这款软件能看什么取决与你用什么插件：
 
-一款支持 [Shizuku](https://github.com/RikkaApps/Shizuku) 和辅助功能的自动任务工具，本应用专注于帮助您执行自动任务，相比于其他同类产品，本应用具有以下特点：
+![MediaBox](https://images-1252557999.file.myqcloud.com/uPic/MediaBox.jpg) 
 
-- 支持多种启动模式（Shizuku和辅助功能）
-- 支持自定义常驻任务任务和一次性任务
-- 支持手势录制，审查布局树等
-- 不需要刻意保活便可常驻后台（两种模式默认系统保活）
-- 省电且占用系统资源较少（事件驱动+协程，执行长时间任务也不阻塞CPU）
-- 代码开源，安全可信
-- Material 3 风格UI，实用美观
+### [stats](https://github.com/exelban/stats)
 
-![AutoTask](https://images-1252557999.file.myqcloud.com/uPic/o9SYLa.png) 
+基于 `macOS` 菜单栏的系统监控软件：
 
-### [polyglot](https://github.com/liou666/polyglot)
+![stats](https://images-1252557999.file.myqcloud.com/uPic/stats.jpg) 
 
-Polyglot是一款多平台的桌面端应用程序。基于ChatGPT和Azure人工智能语言模型作为底层服务，使用Vue3+TS技术栈构建，旨在提供一个易于使用的语言练习平台，方便进行多语种的口语练习：
+### [biliTickerBuy](https://github.com/mikumifa/biliTickerBuy)
 
-![polyglot](https://images-1252557999.file.myqcloud.com/uPic/polyglot.png) 
+免费开源的B站会员购购票辅助工具：
+
+![biliTickerBuy](https://images-1252557999.file.myqcloud.com/uPic/f4iCzf.png) 
 
 ## 👀 资料 
 
-### [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+### [comprehensive-rust](https://google.github.io/comprehensive-rust/welcome.html)
 
-开源的 `MCP servers` 收集项目：
+谷歌出品的四天学习 `Rust` 👀
 
-![awesome-mcp-servers](https://images-1252557999.file.myqcloud.com/uPic/DkjYJG.png) 
+![comprehensive-rust](https://images-1252557999.file.myqcloud.com/uPic/comprehensive-rust.jpg) 
 
-### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
 
-站点可靠性工作手册：
+作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
 
-![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
+![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
 
-### [Large Language Models Practical Course](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce)
+### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
 
-开源([Large Language Models Practical Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course))的关于大型语言模型的实践课程，通过使用 `OpenAI` 和 `Hugging Face` 库的模型进行实际操作来提供实践经验，课程主要包括：
+本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
 
-- Techniques and Libraries
-- Projects
-- Enterprise Solutions
-
-![large-language-models-practical-course](https://images-1252557999.file.myqcloud.com/uPic/large-language-models-practical-course.jpg)
-
-> 附带一个 Mac 微调大模型的文章：[A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) 
+![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
 
 ## 🕸 网站 
 
-### [chess.com](https://www.chess.com/)
+### [suno.ai](https://www.suno.ai/ "suno.ai")
 
-在线国际象棋：
+最近很火热的的 AI 音乐生成应用，可以根据提示词生成一首 2 分钟的歌曲，还有非官方 `API` 项目 [Suno-API](https://github.com/SunoAI-API/Suno-API "Suno-API")：
 
-![chess](https://images-1252557999.file.myqcloud.com/uPic/chess.jpg) 
+![suno](https://images-1252557999.file.myqcloud.com/uPic/suno.jpg) 
 
-### [谷歌开发者学习路线](https://www.cloudskillsboost.google/paths)
+### [uiverse.io](https://uiverse.io/)
 
-Google为数据、机器学习工程师、架构师、分析师等提供的免费学习路线：
+一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
 
-![google_path](https://images-1252557999.file.myqcloud.com/uPic/google_path.jpg) 
+![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
 
-### [workout-cool](https://workout.cool/)
+### [gpt5plus.com](https://gpt5plus.com/)
 
-> 一个综合性健身指导平台，可为您创建训练计划、追踪进度，并提供包含详细说明与视频演示的丰富训练动作数据库。
+一个 ChatGPT 代充服务网页，价格比较便宜：
 
-如果读者有印象的话，老胡之前推荐过 [workout-lol](https://github.com/workout-lol/workout-lol)，这两个项目名字很像，界面也类似，这背后作者自述故事如下：
-
-- 🏗️ 原始贡献者：我曾是 workout.lol 项目的主要贡献者
-- 💼 商业挑战：原项目在健身视频合作方面遇到重大障碍（无法找到可靠的视频供应商）
-- 💰 项目出售：由于这些合作问题，该项目被出售给另一方
-- 📉 项目废弃：新所有者很快意识到健身视频授权成本高得离谱，随后开始消极对待并最终彻底放弃了整个项目
-- 🔄 复兴尝试：过去9个月里，我一直在尝试重新联系新利益相关方
-- 📧 杳无音讯：尽管进行了多次（15次）尝试，但始终未获回应
-- 🚀 全新开始：与其让这份宝贵的工作消失，我决定创建一个全新的现代化实现
-
-![workout-cool](https://images-1252557999.file.myqcloud.com/uPic/LUjWBV.png) 
+![gpt5plus](https://images-1252557999.file.myqcloud.com/uPic/Uk76mA.png) 
 
 ## ✍️ 说明
 
