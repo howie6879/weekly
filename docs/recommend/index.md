@@ -5,98 +5,96 @@
 
 ## 🎯 项目 
 
-### [reader-s](https://github.com/hectorqin/reader)
+### [wewe-rss](https://github.com/cooderl/wewe-rss)
 
-阅读3服务器版，不需要手机，可以体验下在web上追更你的小说：
+更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。
 
-![reader-s](https://images-1252557999.file.myqcloud.com/uPic/reader-s.jpg) 
+之前老胡也研究过这种方式，是可行的，但操作频繁依旧会被**风控**，目前看 `Issue` 有人被关了小黑屋，所以大家使用的话还是需要注意。
 
-### [pensieve](https://github.com/arkohut/pensieve)
+![wewe-rss](https://images-1252557999.file.myqcloud.com/uPic/wewe-rss.jpg)
 
-`Pensieve` 是一个专注于隐私的被动记录项目。它可以自动记录屏幕内容，构建智能索引，并提供便捷的 `web` 界面来检索历史记录：
+注意：项目并非 **100%** 完全开源。 
 
-![pensieve](https://images-1252557999.file.myqcloud.com/uPic/SFLqDw.png) 
+### [HTTPie](https://github.com/httpie/httpie)
 
-### [agibot_x1_infer](https://github.com/AgibotTech/agibot_x1_infer)
+现代化的HTTP客户端命令行工具：
 
-稚晖君开源的智元家灵犀X1，智元人形机器人，全套资料全球开源，包括设计图纸和代码：
+![httpie-animation](https://images-1252557999.file.myqcloud.com/uPic/httpie-animation.gif) 
 
-- **开发指南链接**: [开发指南](https://www.zhiyuan-robot.com/DOCS/OS/X1-PDG)
-- **设计资料百度云盘** (提取码：1234): [百度云盘链接](https://pan.baidu.com/s/1UEdeDBTJiXRmIqMKwmO5RA?pwd=1234)
-- **设计资料谷歌云盘**: [谷歌云盘链接](https://drive.google.com/drive/folders/1MECbyKRJbnc_XKWsdUbn-70xmYFmw9FW?usp=sharing)
-- **推理代码**: [推理代码链接](https://github.com/AgibotTech/agibot_x1_infer)
-- **训练代码**: [训练代码链接](https://github.com/AgibotTech/agibot_x1_train)
+### [ar5iv](https://github.com/dginev/ar5iv)
 
-![agibot_x1_infer](https://images-1252557999.file.myqcloud.com/uPic/QchElr.png) 
+`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
+
+![ar5iv](https://images-1252557999.file.myqcloud.com/uPic/ar5iv.jpg) 
 
 ## 🤖 软件 
 
-### [MediaBox](https://github.com/RyensX/MediaBox)
+### [jingmo](https://github.com/hefengbao/jingmo)
 
-全能媒体容器，插件化网罗天下媒体，畅快学习软件开发。实现了类似微信小程序的框架，只需要简单实现插件API提供数据到容器即可快速成型，方便学习爬虫、APP开发等。容器主要为插件提供以下服务：
+『京墨』开源免费的古诗词文（名句）、歇后语、成语、传统节日、绕口令等的阅读 `APP`：
 
-- 数据自动渲染到UI(视图组件)
-- 媒体收藏/历史记录
-- 周期性媒体数据检查服务(插件只需要实现媒体检查更新组件即可被主动检查更新)
-- 视频播放组件(播放器)，支持手势控制/夜间模式/弹幕/倍速控制/多集聚合/横竖旋转适应等
-- 私有可视化KV存储(插件私有配置)
-- 个人数据/插件云端备份(WebDav,开发中)
+![jingmo](https://images-1252557999.file.myqcloud.com/uPic/EL9mYu.png) 
 
-简单来说，这款软件能看什么取决与你用什么插件：
+### [pixzip-lite](https://github.com/richhost/pixzip-lite)
 
-![MediaBox](https://images-1252557999.file.myqcloud.com/uPic/MediaBox.jpg) 
+一款快速、免费的图片压缩软件，支持 `JPG / PNG / WebP / AVIF` 等主流格式，支持 `Windows 10+，macOS 11+` 操作系统。
 
-### [stats](https://github.com/exelban/stats)
+![pixzip](https://images-1252557999.file.myqcloud.com/uPic/pixzip.jpg) 
 
-基于 `macOS` 菜单栏的系统监控软件：
+### [readest](https://github.com/chrox/readest)
 
-![stats](https://images-1252557999.file.myqcloud.com/uPic/stats.jpg) 
+`Readest` 是一个现代化、功能丰富的电子书阅读器，旨在为读者提供无缝的跨平台访问体验、强大的工具和直观的界面，以提升阅读体验。
 
-### [biliTickerBuy](https://github.com/mikumifa/biliTickerBuy)
-
-免费开源的B站会员购购票辅助工具：
-
-![biliTickerBuy](https://images-1252557999.file.myqcloud.com/uPic/f4iCzf.png) 
+![readest](https://images-1252557999.file.myqcloud.com/uPic/v41zIg.png) 
 
 ## 👀 资料 
 
-### [comprehensive-rust](https://google.github.io/comprehensive-rust/welcome.html)
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-谷歌出品的四天学习 `Rust` 👀
+夯实计算机基础，该怎么学，这个项目给出了答案：
 
-![comprehensive-rust](https://images-1252557999.file.myqcloud.com/uPic/comprehensive-rust.jpg) 
+![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
 
-### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
+### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
 
-作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
+这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
 
-![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
+- 👋 入门
+- 💬 大语言模型
+	- 💡 提示工程
+	- 🔧 大语言模型实践
+	- 🔬 大语言模型理论
+- 🎨 AI绘画
+- 🔊 AI音频
+- 🌈 多模态
+- 🧠 深度学习
+- 💻 AI系统 
 
-### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
+### [让你受益匪浅的名家写作经验](https://docs.qq.com/aio/DWVRkZ1RUWHRsdU1J?p=4oWLX7hAfFdfdbi4Ir5wqo)
 
-本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
+各文学大家的写作经验汇总：
 
-![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
+![让你受益匪浅的名家写作经验](https://images-1252557999.file.myqcloud.com/uPic/让你受益匪浅的名家写作经验.jpg) 
 
 ## 🕸 网站 
 
-### [suno.ai](https://www.suno.ai/ "suno.ai")
+### [bizhi1](https://bizhi1.com/)
 
-最近很火热的的 AI 音乐生成应用，可以根据提示词生成一首 2 分钟的歌曲，还有非官方 `API` 项目 [Suno-API](https://github.com/SunoAI-API/Suno-API "Suno-API")：
+极简壁纸是一个由个人维护的壁纸小站，无广告，界面清爽，可以很方便地下载必应壁纸：
 
-![suno](https://images-1252557999.file.myqcloud.com/uPic/suno.jpg) 
+![bizhi1](https://images-1252557999.file.myqcloud.com/uPic/bizhi1.jpg) 
 
-### [uiverse.io](https://uiverse.io/)
+### [开源许可证选择器](https://open-source-license-chooser.toolsnav.top/zh/)
 
-一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
+快速明确自己想要的开源许可证：
 
-![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
+![open-source-license-chooser.toolsnav](https://images-1252557999.file.myqcloud.com/uPic/7Zi7pN.png) 
 
-### [gpt5plus.com](https://gpt5plus.com/)
+### [ailogo](https://ailogo.qq.com/)
 
-一个 ChatGPT 代充服务网页，价格比较便宜：
+`AI` 智能生成可商用的 `LOGO`：
 
-![gpt5plus](https://images-1252557999.file.myqcloud.com/uPic/Uk76mA.png) 
+![ailogo](https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg) 
 
 ## ✍️ 说明
 
