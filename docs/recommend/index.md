@@ -5,96 +5,91 @@
 
 ## 🎯 项目 
 
-### [wewe-rss](https://github.com/cooderl/wewe-rss)
+### [zdir](https://github.com/helloxz/zdir)
 
-更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。
+使用 `Golang + Vue3` 开发的轻量级目录列表程序，支持 `Linux、Docker、Windows` 部署，适合个人或初创公司文件分享使用，亦可作为轻量级网盘使用。
 
-之前老胡也研究过这种方式，是可行的，但操作频繁依旧会被**风控**，目前看 `Issue` 有人被关了小黑屋，所以大家使用的话还是需要注意。
+![zdir](https://images-1252557999.file.myqcloud.com/uPic/zdir.jpg) 
 
-![wewe-rss](https://images-1252557999.file.myqcloud.com/uPic/wewe-rss.jpg)
+### [ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot)
 
-注意：项目并非 **100%** 完全开源。 
+`Win PC` 微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装 `COM` 接口供 `Python、C#` 调用：
 
-### [HTTPie](https://github.com/httpie/httpie)
+- 获取通讯录
+- 发送文本、图片、文件、xml文章、名片、群艾特消息
+- 根据wxid查询好友信息
+- 根据群ID获取所有群成员wxid
+- 检测好友状态（是否好友、被删除、被拉黑）
+- 接收各类消息，可写回调函数进行处理
+- 封装COM接口，方便使用自己喜欢的语言进行调用
+- 群管理
+- 微信多开 
 
-现代化的HTTP客户端命令行工具：
+### [EasySpider](https://github.com/NaiboWang/EasySpider)
 
-![httpie-animation](https://images-1252557999.file.myqcloud.com/uPic/httpie-animation.gif) 
+一个可视化浏览器自动化测试/数据采集/爬虫软件，可以使用图形化界面，无代码可视化的设计和执行任务。只需要在网页上选择自己想要操作的内容并根据提示框操作即可完成任务的设计和执行。同时软件还可以单独以命令行的方式进行执行，从而可以很方便的嵌入到其他系统中。
 
-### [ar5iv](https://github.com/dginev/ar5iv)
-
-`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
-
-![ar5iv](https://images-1252557999.file.myqcloud.com/uPic/ar5iv.jpg) 
+![EasySpider](https://images-1252557999.file.myqcloud.com/uPic/EasySpider.jpg) 
 
 ## 🤖 软件 
 
-### [jingmo](https://github.com/hefengbao/jingmo)
+### [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock)
 
-『京墨』开源免费的古诗词文（名句）、歇后语、成语、传统节日、绕口令等的阅读 `APP`：
+一款跳过B站视频中恰饭片段的浏览器插件，移植自 [SponsorBlock](https://github.com/ajayyy/SponsorBlock)：
 
-![jingmo](https://images-1252557999.file.myqcloud.com/uPic/EL9mYu.png) 
+![BilibiliSponsorBlock](https://images-1252557999.file.myqcloud.com/uPic/3iEbMD.png) 
 
-### [pixzip-lite](https://github.com/richhost/pixzip-lite)
+### [ReadYou](https://github.com/Ashinch/ReadYou)
 
-一款快速、免费的图片压缩软件，支持 `JPG / PNG / WebP / AVIF` 等主流格式，支持 `Windows 10+，macOS 11+` 操作系统。
+这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
 
-![pixzip](https://images-1252557999.file.myqcloud.com/uPic/pixzip.jpg) 
+![ReadYou](https://images-1252557999.file.myqcloud.com/uPic/ReadYou.jpg) 
 
-### [readest](https://github.com/chrox/readest)
+### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
 
-`Readest` 是一个现代化、功能丰富的电子书阅读器，旨在为读者提供无缝的跨平台访问体验、强大的工具和直观的界面，以提升阅读体验。
+类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
 
-![readest](https://images-1252557999.file.myqcloud.com/uPic/v41zIg.png) 
+![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
 
 ## 👀 资料 
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
 
-夯实计算机基础，该怎么学，这个项目给出了答案：
+从零开始 `Kubernetes` 攻防:
 
-![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
+![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
 
-### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
+### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
-这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
+这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
 
-- 👋 入门
-- 💬 大语言模型
-	- 💡 提示工程
-	- 🔧 大语言模型实践
-	- 🔬 大语言模型理论
-- 🎨 AI绘画
-- 🔊 AI音频
-- 🌈 多模态
-- 🧠 深度学习
-- 💻 AI系统 
+我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
 
-### [让你受益匪浅的名家写作经验](https://docs.qq.com/aio/DWVRkZ1RUWHRsdU1J?p=4oWLX7hAfFdfdbi4Ir5wqo)
+### [visualize-ml](https://github.com/visualize-ml)
 
-各文学大家的写作经验汇总：
+鸢尾花书：从加减乘除到机器学习，全套7册。
 
-![让你受益匪浅的名家写作经验](https://images-1252557999.file.myqcloud.com/uPic/让你受益匪浅的名家写作经验.jpg) 
+![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
 
 ## 🕸 网站 
 
-### [bizhi1](https://bizhi1.com/)
+### [oss.gallery](https://oss.gallery/)
 
-极简壁纸是一个由个人维护的壁纸小站，无广告，界面清爽，可以很方便地下载必应壁纸：
+`OSS Gallery` 提供了一个展示和探索各种领域最佳开源项目的窗口。用户可以通过这个平台，获取到开源社区中值得关注的项目，这些项目涵盖了从软件开发、数据科学到设计等多个领域。平台的目的是为开源项目提供更多的曝光机会，同时也为开发者和用户提供一个学习和交流的场所。
 
-![bizhi1](https://images-1252557999.file.myqcloud.com/uPic/bizhi1.jpg) 
+![oss_gallery](https://images-1252557999.file.myqcloud.com/uPic/oss_gallery.jpg) 
 
-### [开源许可证选择器](https://open-source-license-chooser.toolsnav.top/zh/)
+### [ixinqing](http://www.ixinqing.com/)
 
-快速明确自己想要的开源许可证：
+心晴 · 专注于心理学入门与自我成长:
 
-![open-source-license-chooser.toolsnav](https://images-1252557999.file.myqcloud.com/uPic/7Zi7pN.png) 
+![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
 
-### [ailogo](https://ailogo.qq.com/)
+### [eja.tv](https://eja.tv/?)
 
-`AI` 智能生成可商用的 `LOGO`：
+提供3808个在线电视频道，包含143个国家以及82种不同语言。
 
-![ailogo](https://images-1252557999.file.myqcloud.com/uPic/ailogo.jpg) 
+![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
 
 ## ✍️ 说明
 
