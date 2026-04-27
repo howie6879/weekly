@@ -5,85 +5,84 @@
 
 ## 🎯 项目 
 
-### [zdir](https://github.com/helloxz/zdir)
+### [magentic-ui](https://github.com/microsoft/magentic-ui "magentic-ui")
 
-使用 `Golang + Vue3` 开发的轻量级目录列表程序，支持 `Linux、Docker、Windows` 部署，适合个人或初创公司文件分享使用，亦可作为轻量级网盘使用。
+`Magentic-UI` 是一个实验性的、人工为中心的网页代理（`web agent`），旨在通过多智能体系协助用户执行网页任务，生成和执行代码，以及生成和分析文件，微软出品：
 
-![zdir](https://images-1252557999.file.myqcloud.com/uPic/zdir.jpg) 
+![magentic-ui](https://images-1252557999.file.myqcloud.com/uPic/qhpo91.png) 
 
-### [ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot)
+### [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)
 
-`Win PC` 微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装 `COM` 接口供 `Python、C#` 调用：
+`Stable Diffusion`（最近很火的 AI 文字生成图片的模型）在我之前好几期周刊都出现过，这次带来的是首个将 `Stable Diffusion Model` 扩展到浏览器环境部署运行的项目：
 
-- 获取通讯录
-- 发送文本、图片、文件、xml文章、名片、群艾特消息
-- 根据wxid查询好友信息
-- 根据群ID获取所有群成员wxid
-- 检测好友状态（是否好友、被删除、被拉黑）
-- 接收各类消息，可写回调函数进行处理
-- 封装COM接口，方便使用自己喜欢的语言进行调用
-- 群管理
-- 微信多开 
+![web-stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/web-stable-diffusion.jpg) 
 
-### [EasySpider](https://github.com/NaiboWang/EasySpider)
+### [1Panel](https://github.com/1Panel-dev/1Panel)
 
-一个可视化浏览器自动化测试/数据采集/爬虫软件，可以使用图形化界面，无代码可视化的设计和执行任务。只需要在网页上选择自己想要操作的内容并根据提示框操作即可完成任务的设计和执行。同时软件还可以单独以命令行的方式进行执行，从而可以很方便的嵌入到其他系统中。
+`1Panel` 是一个现代化、开源的 `Linux` 服务器运维管理面板。`1Panel` 的功能和优势包括：
 
-![EasySpider](https://images-1252557999.file.myqcloud.com/uPic/EasySpider.jpg) 
+- **快速建站**：深度集成 Wordpress 和  [Halo](https://github.com/halo-dev/halo/)，域名绑定、SSL 证书配置等一键搞定；
+- **高效管理**：通过 Web 端轻松管理 Linux 服务器，包括应用管理、主机监控、文件管理、数据库管理、容器管理等；
+- **安全可靠**：最小漏洞暴露面，提供防火墙和安全审计等功能；
+- **一键备份**：支持一键备份和恢复，备份数据云端存储，永不丢失。
+
+![1Panel](https://images-1252557999.file.myqcloud.com/uPic/1Panel.png) 
 
 ## 🤖 软件 
 
-### [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock)
+### [mountmate](https://github.com/homielab/mountmate)
 
-一款跳过B站视频中恰饭片段的浏览器插件，移植自 [SponsorBlock](https://github.com/ajayyy/SponsorBlock)：
+一个简单的 `macOS` 菜单栏应用程序，用于管理您的外部驱动器:
 
-![BilibiliSponsorBlock](https://images-1252557999.file.myqcloud.com/uPic/3iEbMD.png) 
+![mountmate](https://images-1252557999.file.myqcloud.com/uPic/idgycV.png) 
 
-### [ReadYou](https://github.com/Ashinch/ReadYou)
+### [ambie](https://github.com/jenius-apps/ambie)
 
-这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
+针对 `Windows` 平台的白噪音应用，挺多自然界声音，可以帮助你提升生产力：
 
-![ReadYou](https://images-1252557999.file.myqcloud.com/uPic/ReadYou.jpg) 
+![ambie](https://images-1252557999.file.myqcloud.com/uPic/ambie.jpg) 
 
-### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
+### [shots-studio](https://github.com/AnsahMohammad/shots-studio)
 
-类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
+`AI` 驱动的截图管理工具，通过 AI 实现自动分类截图，支持搜索截图内容、自动添加或者生成标签等功能：
 
-![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
+![shots-studio](https://images-1252557999.file.myqcloud.com/uPic/F4IKLL.png) 
 
 ## 👀 资料 
 
-### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
+### [learnprompting.org](https://learnprompting.org/zh-Hans/docs/intro)
 
-从零开始 `Kubernetes` 攻防:
+> 如何同人工智能交流，并得到你要的结果。
 
-![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
+随着最近人工智能的不断进步，提示工程这项技能变得越来越重要。本课程会聚焦于如何使用提示工程。你不需要很多机器学习相关的知识。
 
-### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+![learnprompting](https://images-1252557999.file.myqcloud.com/uPic/learnprompting.jpg) 
 
-这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
+### [动手学OCR·十讲](https://aistudio.baidu.com/aistudio/course/introduce/25207)
 
-我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
+PaddleOCR的原创团队出的课程，课程内容涵盖基于深度学习的经典OCR检测识别算法、最新文档结构化技术以及千锤百炼的产业级模型与部署工具。通过广泛调研提炼了重要OCR算法的核心思想，实践部分不仅对代码重要细节做了深入分析，还会实时运行代码展示效果助大家加深理解。
 
-### [visualize-ml](https://github.com/visualize-ml)
+![动手学OCR](https://images-1252557999.file.myqcloud.com/uPic/tcg64l.png) 
 
-鸢尾花书：从加减乘除到机器学习，全套7册。
+### [tuning_playbook_zh_cn](https://github.com/schrodingercatss/tuning_playbook_zh_cn)
 
-![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
+深度学习调优指南中文版，一本系统地教你将深度学习模型的性能最大化的战术手册：
+
+![tuning_playbook_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/tuning_playbook_zh_cn.jpg) 
 
 ## 🕸 网站 
 
-### [oss.gallery](https://oss.gallery/)
+### [dev.to](https://dev.to/)
 
-`OSS Gallery` 提供了一个展示和探索各种领域最佳开源项目的窗口。用户可以通过这个平台，获取到开源社区中值得关注的项目，这些项目涵盖了从软件开发、数据科学到设计等多个领域。平台的目的是为开源项目提供更多的曝光机会，同时也为开发者和用户提供一个学习和交流的场所。
+国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
 
-![oss_gallery](https://images-1252557999.file.myqcloud.com/uPic/oss_gallery.jpg) 
+![dev_to](https://images-1252557999.file.myqcloud.com/uPic/dev_to.png) 
 
-### [ixinqing](http://www.ixinqing.com/)
+### [producthunt-daily-hot](https://github.com/ViggoZ/producthunt-daily-hot)
 
-心晴 · 专注于心理学入门与自我成长:
+`Product Hunt` 每日热榜是一个基于 `GitHub Action` 的自动化工具，它能够每天定时生成 `Product Hunt` 上的热门产品榜单 `Markdown` 文件，并自动提交到 `GitHub` 仓库中。该项目旨在帮助用户快速查看每日的 `Product Hunt` 热门榜单，并提供更详细的产品信息。
 
-![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
+![producthunt-daily-hot](https://images-1252557999.file.myqcloud.com/uPic/2vDyRf.png) 
 
 ### [eja.tv](https://eja.tv/?)
 
