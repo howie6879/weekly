@@ -5,90 +5,96 @@
 
 ## 🎯 项目 
 
-### [magentic-ui](https://github.com/microsoft/magentic-ui "magentic-ui")
+### [kafka-ui](https://github.com/provectus/kafka-ui)
 
-`Magentic-UI` 是一个实验性的、人工为中心的网页代理（`web agent`），旨在通过多智能体系协助用户执行网页任务，生成和执行代码，以及生成和分析文件，微软出品：
+开源的 `Apache Kafka` 管理项目（Web UI）：
 
-![magentic-ui](https://images-1252557999.file.myqcloud.com/uPic/qhpo91.png) 
+![kafka-ui](https://images-1252557999.file.myqcloud.com/uPic/kafka-ui.jpg)
 
-### [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)
+同类产品还有：[kafdrop](https://github.com/obsidiandynamics/kafdrop)。 
 
-`Stable Diffusion`（最近很火的 AI 文字生成图片的模型）在我之前好几期周刊都出现过，这次带来的是首个将 `Stable Diffusion Model` 扩展到浏览器环境部署运行的项目：
+### [xqdoo00o-chatgpt-web](https://github.com/xqdoo00o/chatgpt-web)
 
-![web-stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/web-stable-diffusion.jpg) 
+纯 `JS` 实现的 `ChatGPT` 项目，基于 `OpenAI API`，其优势在于可以直接部署一个 `HTML` 文件即可，轻量实用：
 
-### [1Panel](https://github.com/1Panel-dev/1Panel)
+![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
 
-`1Panel` 是一个现代化、开源的 `Linux` 服务器运维管理面板。`1Panel` 的功能和优势包括：
+### [InjectLib](https://github.com/QiuChenly/InjectLib)
 
-- **快速建站**：深度集成 Wordpress 和  [Halo](https://github.com/halo-dev/halo/)，域名绑定、SSL 证书配置等一键搞定；
-- **高效管理**：通过 Web 端轻松管理 Linux 服务器，包括应用管理、主机监控、文件管理、数据库管理、容器管理等；
-- **安全可靠**：最小漏洞暴露面，提供防火墙和安全审计等功能；
-- **一键备份**：支持一键备份和恢复，备份数据云端存储，永不丢失。
+一个半开源形式、任何开发者经过评审都可以参与的一个公开 `macOS` 注入框架项目。用了就知道，还有 [GUI 版本](https://github.com/wibus-wee/InjectGUI)。
 
-![1Panel](https://images-1252557999.file.myqcloud.com/uPic/1Panel.png) 
+![InjectGUI](https://images-1252557999.file.myqcloud.com/uPic/InjectGUI.jpg) 
 
 ## 🤖 软件 
 
-### [mountmate](https://github.com/homielab/mountmate)
+### [FluentHub](https://github.com/FluentHub/FluentHub)
 
-一个简单的 `macOS` 菜单栏应用程序，用于管理您的外部驱动器:
+界面  `UI` 时尚功能强大的 `Windows GitHub` 客户端：
 
-![mountmate](https://images-1252557999.file.myqcloud.com/uPic/idgycV.png) 
+![FluentHub](https://images-1252557999.file.myqcloud.com/uPic/FluentHub.png) 
 
-### [ambie](https://github.com/jenius-apps/ambie)
+### [imFile](https://github.com/imfile-io/imfile-desktop)
 
-针对 `Windows` 平台的白噪音应用，挺多自然界声音，可以帮助你提升生产力：
+`Motrix` 已经很长时间没有更新，同时积累了大量 `issues`，项目基于 `Motrix` 并长期维护更新。`imFile` 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源：
 
-![ambie](https://images-1252557999.file.myqcloud.com/uPic/ambie.jpg) 
+![imfile](https://images-1252557999.file.myqcloud.com/uPic/imfile.jpg) 
 
-### [shots-studio](https://github.com/AnsahMohammad/shots-studio)
+### [BongoCat](https://github.com/ayangweb/BongoCat)
 
-`AI` 驱动的截图管理工具，通过 AI 实现自动分类截图，支持搜索截图内容、自动添加或者生成标签等功能：
+本项目的灵感来源于 MMmmmoko 大佬开发的 [Bongo-Cat-Mver](https://github.com/MMmmmoko/Bongo-Cat-Mver)。它以独特的猫咪互动功能深受用户喜爱，但仅支持 Windows 平台。作为一名深度 macOS 用户，我特别希望在自己的设备上也能使用这款可爱的猫咪，于是我决定开发一个适配 macOS 的版本。
 
-![shots-studio](https://images-1252557999.file.myqcloud.com/uPic/F4IKLL.png) 
+同时，得益于 Tauri 强大的跨平台能力，本项目不仅支持 macOS，还兼容 Windows 和 Linux(x11)，让更多的用户都能与这只可爱的猫咪互动！
+
+![BongoCat](https://images-1252557999.file.myqcloud.com/uPic/GyrpLk.png) 
 
 ## 👀 资料 
 
-### [learnprompting.org](https://learnprompting.org/zh-Hans/docs/intro)
+### [Student-resources](https://github.com/ivmm/Student-resources)
 
-> 如何同人工智能交流，并得到你要的结果。
+本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
 
-随着最近人工智能的不断进步，提示工程这项技能变得越来越重要。本课程会聚焦于如何使用提示工程。你不需要很多机器学习相关的知识。
+### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
-![learnprompting](https://images-1252557999.file.myqcloud.com/uPic/learnprompting.jpg) 
+本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
 
-### [动手学OCR·十讲](https://aistudio.baidu.com/aistudio/course/introduce/25207)
+### [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
 
-PaddleOCR的原创团队出的课程，课程内容涵盖基于深度学习的经典OCR检测识别算法、最新文档结构化技术以及千锤百炼的产业级模型与部署工具。通过广泛调研提炼了重要OCR算法的核心思想，实践部分不仅对代码重要细节做了深入分析，还会实时运行代码展示效果助大家加深理解。
+这个项目包含了数据工程师领域需要的一些资料，对于拓展国际视野很有帮助：
 
-![动手学OCR](https://images-1252557999.file.myqcloud.com/uPic/tcg64l.png) 
+- 书籍课程
+- 社区
+- YouTube 频道等各大平台
+- Newsletters
+- ......
 
-### [tuning_playbook_zh_cn](https://github.com/schrodingercatss/tuning_playbook_zh_cn)
-
-深度学习调优指南中文版，一本系统地教你将深度学习模型的性能最大化的战术手册：
-
-![tuning_playbook_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/tuning_playbook_zh_cn.jpg) 
+![data-engineer-handbook](https://images-1252557999.file.myqcloud.com/uPic/data-engineer-handbook.png) 
 
 ## 🕸 网站 
 
-### [dev.to](https://dev.to/)
+### [阳光志愿](https://gaokao.chsi.com.cn/zyck/)
 
-国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
+家里有参加高考的，可以参考：
 
-![dev_to](https://images-1252557999.file.myqcloud.com/uPic/dev_to.png) 
+- 院校查询
+- 专业查询
+- 支援参考
+- 心理测评
+- 职业前景
+- 报考指南
 
-### [producthunt-daily-hot](https://github.com/ViggoZ/producthunt-daily-hot)
+![zyck](https://images-1252557999.file.myqcloud.com/uPic/zyck.jpg) 
 
-`Product Hunt` 每日热榜是一个基于 `GitHub Action` 的自动化工具，它能够每天定时生成 `Product Hunt` 上的热门产品榜单 `Markdown` 文件，并自动提交到 `GitHub` 仓库中。该项目旨在帮助用户快速查看每日的 `Product Hunt` 热门榜单，并提供更详细的产品信息。
+### [web.archive.org](https://web.archive.org/)
 
-![producthunt-daily-hot](https://images-1252557999.file.myqcloud.com/uPic/2vDyRf.png) 
+一个旨在保存互联网历史记录的平台：
 
-### [eja.tv](https://eja.tv/?)
+![web.archive.org](https://images-1252557999.file.myqcloud.com/uPic/SCps8d.png) 
 
-提供3808个在线电视频道，包含143个国家以及82种不同语言。
+### [chirper.ai](https://chirper.ai/zh)
 
-![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
+一个只允许 AI 发帖的网站，所有内容由 AI 产生：
+
+![chirper](https://images-1252557999.file.myqcloud.com/uPic/chirper.jpg) 
 
 ## ✍️ 说明
 
