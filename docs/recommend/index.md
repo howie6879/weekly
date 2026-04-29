@@ -5,96 +5,102 @@
 
 ## 🎯 项目 
 
-### [kafka-ui](https://github.com/provectus/kafka-ui)
+### [slickr](https://github.com/saviomartin/slickr)
 
-开源的 `Apache Kafka` 管理项目（Web UI）：
+文章封面图生成构建工具，适合经常发布文章的朋友，顺便说句，项目作者14岁：
 
-![kafka-ui](https://images-1252557999.file.myqcloud.com/uPic/kafka-ui.jpg)
+![slickr](https://images-1252557999.file.myqcloud.com/uPic/slickr.gif) 
 
-同类产品还有：[kafdrop](https://github.com/obsidiandynamics/kafdrop)。 
+### [supabase](https://github.com/supabase/supabase)
 
-### [xqdoo00o-chatgpt-web](https://github.com/xqdoo00o/chatgpt-web)
+`Supabase` 是一个基于开源工具构建的 `Firebase` 替代品，旨在通过使用企业级的开源技术，提供类似 `Firebase` 的功能：
 
-纯 `JS` 实现的 `ChatGPT` 项目，基于 `OpenAI API`，其优势在于可以直接部署一个 `HTML` 文件即可，轻量实用：
+![Supabase](https://images-1252557999.file.myqcloud.com/uPic/x0eIys.png) 
 
-![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
+### [pyspur](https://github.com/PySpur-Dev/pyspur)
 
-### [InjectLib](https://github.com/QiuChenly/InjectLib)
+让用户以视觉化方式快速迭代只能图工作流程的工具，它提供了一个平台，让 AI 工程师能够在不重复基础工作的情况下，快速定义、构建、迭代和部署智能体：
 
-一个半开源形式、任何开发者经过评审都可以参与的一个公开 `macOS` 注入框架项目。用了就知道，还有 [GUI 版本](https://github.com/wibus-wee/InjectGUI)。
+![pyspur](https://images-1252557999.file.myqcloud.com/uPic/yxko28.png)
 
-![InjectGUI](https://images-1252557999.file.myqcloud.com/uPic/InjectGUI.jpg) 
+![pyspur-demo](https://images-1252557999.file.myqcloud.com/uPic/wTbNcf.png)
+
+- ✅ 测试驱动：构建工作流，运行测试用例，并进行迭代。
+- 👤 人在环路中：持久化工作流，等待人工批准或拒绝。
+- 🔄 循环：具有记忆功能的迭代工具调用。
+- 📤 文件上传：上传文件或粘贴 URL 来处理文档。
+- 📋 结构化输出：JSON Schema UI 编辑器。
+- 🗃️ RAG：解析、分块、嵌入并将数据更新到向量数据库。
+- 🖼️ 多模态：支持视频、图像、音频、文本、代码。
+- 🧰 工具：Slack、Firecrawl.dev、Google Sheets、GitHub 等。
+- 🧪 评估：在真实数据集上评估代理。
+- 🚀 一键部署：发布为 API 并在任意地方集成。
+- 🐍 基于 Python：通过创建单个 Python 文件来添加新节点。
+- 🎛️ 供应商支持：支持超过 100 个 LLM 供应商、嵌入器和向量数据库。 
 
 ## 🤖 软件 
 
-### [FluentHub](https://github.com/FluentHub/FluentHub)
+### [social-media-copilot](https://github.com/iszhouhua/social-media-copilot)
 
-界面  `UI` 时尚功能强大的 `Windows GitHub` 客户端：
+社媒助手 - 小红书、抖音等平台数据采集的浏览器插件。支持一键导出无水印图片/视频、评论采集、作品数据采集、达人数据采集等功能：
 
-![FluentHub](https://images-1252557999.file.myqcloud.com/uPic/FluentHub.png) 
+![social-media-copilot](https://images-1252557999.file.myqcloud.com/uPic/HvvXRg.png) 
 
-### [imFile](https://github.com/imfile-io/imfile-desktop)
+### [gpt4all](https://github.com/nomic-ai/gpt4all)
 
-`Motrix` 已经很长时间没有更新，同时积累了大量 `issues`，项目基于 `Motrix` 并长期维护更新。`imFile` 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源：
+`GPT4All` 是一个生态系统，用于在消费级 `CPU` 和任何 `GPU` 上本地运行强大且定制化的大型语言模型。请注意，您的 `CPU` 需要支持 `AVX` 或 `AVX2` 指令。
 
-![imfile](https://images-1252557999.file.myqcloud.com/uPic/imfile.jpg) 
+![gpt4all](https://images-1252557999.file.myqcloud.com/uPic/gpt4all.jpg) 
 
-### [BongoCat](https://github.com/ayangweb/BongoCat)
+### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
 
-本项目的灵感来源于 MMmmmoko 大佬开发的 [Bongo-Cat-Mver](https://github.com/MMmmmoko/Bongo-Cat-Mver)。它以独特的猫咪互动功能深受用户喜爱，但仅支持 Windows 平台。作为一名深度 macOS 用户，我特别希望在自己的设备上也能使用这款可爱的猫咪，于是我决定开发一个适配 macOS 的版本。
+一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
 
-同时，得益于 Tauri 强大的跨平台能力，本项目不仅支持 macOS，还兼容 Windows 和 Linux(x11)，让更多的用户都能与这只可爱的猫咪互动！
+- 配置app启动默认输入法。
+- app来回切换，保持app切出前的使用的输入法。
+- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
+- 悬浮窗口支持
 
-![BongoCat](https://images-1252557999.file.myqcloud.com/uPic/GyrpLk.png) 
+![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
 
 ## 👀 资料 
 
-### [Student-resources](https://github.com/ivmm/Student-resources)
+### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
 
-本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。 
+公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
 
-### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+### [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
-本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
+本项目精选收录了采用RAG、AI智能体、多智能体团队、MCP、语音智能体等技术构建的超赞LLM应用。本仓库展示的LLM应用使用了OpenAI、Anthropic、Google等公司的模型，以及DeepSeek、Qwen或Llama等可在本地计算机上运行的开源模型。
 
-### [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
+![awesome-llm-apps](https://images-1252557999.file.myqcloud.com/uPic/9pE3fX.png) 
 
-这个项目包含了数据工程师领域需要的一些资料，对于拓展国际视野很有帮助：
+### [promptingguide.ai](https://www.promptingguide.ai/zh)
 
-- 书籍课程
-- 社区
-- YouTube 频道等各大平台
-- Newsletters
-- ......
+关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
 
-![data-engineer-handbook](https://images-1252557999.file.myqcloud.com/uPic/data-engineer-handbook.png) 
+![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
 
 ## 🕸 网站 
 
-### [阳光志愿](https://gaokao.chsi.com.cn/zyck/)
+### [kkdaxue](https://www.kkdaxue.com/)
 
-家里有参加高考的，可以参考：
+高考志愿网站，发现各专业前辈们的学习建议：
 
-- 院校查询
-- 专业查询
-- 支援参考
-- 心理测评
-- 职业前景
-- 报考指南
+![kkdaxue](https://images-1252557999.file.myqcloud.com/uPic/kkdaxue.jpg) 
 
-![zyck](https://images-1252557999.file.myqcloud.com/uPic/zyck.jpg) 
+### [Connected Papers](https://www.connectedpapers.com/)
 
-### [web.archive.org](https://web.archive.org/)
+`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
 
-一个旨在保存互联网历史记录的平台：
+![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
+是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
 
-![web.archive.org](https://images-1252557999.file.myqcloud.com/uPic/SCps8d.png) 
+### [archive.today](https://archive.today/)
 
-### [chirper.ai](https://chirper.ai/zh)
+提供任何网站存档查询的网站：
 
-一个只允许 AI 发帖的网站，所有内容由 AI 产生：
-
-![chirper](https://images-1252557999.file.myqcloud.com/uPic/chirper.jpg) 
+![archive](https://images-1252557999.file.myqcloud.com/uPic/archive.jpg) 
 
 ## ✍️ 说明
 
