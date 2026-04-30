@@ -5,102 +5,92 @@
 
 ## 🎯 项目 
 
-### [slickr](https://github.com/saviomartin/slickr)
+### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
 
-文章封面图生成构建工具，适合经常发布文章的朋友，顺便说句，项目作者14岁：
+B站视频命令行下载工具：
 
-![slickr](https://images-1252557999.file.myqcloud.com/uPic/slickr.gif) 
+![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
 
-### [supabase](https://github.com/supabase/supabase)
+### [typora_plugin](https://github.com/obgnail/typora_plugin)
 
-`Supabase` 是一个基于开源工具构建的 `Firebase` 替代品，旨在通过使用企业级的开源技术，提供类似 `Firebase` 的功能：
+开源的 `Typora` 插件，功能增强工具，新增了三十多种功能：
 
-![Supabase](https://images-1252557999.file.myqcloud.com/uPic/x0eIys.png) 
+![typora_plugin](https://images-1252557999.file.myqcloud.com/uPic/typora_plugin.jpg) 
 
-### [pyspur](https://github.com/PySpur-Dev/pyspur)
+### [bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
 
-让用户以视觉化方式快速迭代只能图工作流程的工具，它提供了一个平台，让 AI 工程师能够在不重复基础工作的情况下，快速定义、构建、迭代和部署智能体：
+一个开源的自托管服务器监控工具，使用 `React.js, Node.js & MongoDB` 构建，用于实时跟踪服务器的在线状态、响应时间和事件，并提供美观的可视化界面和预警功能：
 
-![pyspur](https://images-1252557999.file.myqcloud.com/uPic/yxko28.png)
-
-![pyspur-demo](https://images-1252557999.file.myqcloud.com/uPic/wTbNcf.png)
-
-- ✅ 测试驱动：构建工作流，运行测试用例，并进行迭代。
-- 👤 人在环路中：持久化工作流，等待人工批准或拒绝。
-- 🔄 循环：具有记忆功能的迭代工具调用。
-- 📤 文件上传：上传文件或粘贴 URL 来处理文档。
-- 📋 结构化输出：JSON Schema UI 编辑器。
-- 🗃️ RAG：解析、分块、嵌入并将数据更新到向量数据库。
-- 🖼️ 多模态：支持视频、图像、音频、文本、代码。
-- 🧰 工具：Slack、Firecrawl.dev、Google Sheets、GitHub 等。
-- 🧪 评估：在真实数据集上评估代理。
-- 🚀 一键部署：发布为 API 并在任意地方集成。
-- 🐍 基于 Python：通过创建单个 Python 文件来添加新节点。
-- 🎛️ 供应商支持：支持超过 100 个 LLM 供应商、嵌入器和向量数据库。 
+![bluewave-uptime](https://images-1252557999.file.myqcloud.com/uPic/3x4lwD.png) 
 
 ## 🤖 软件 
 
-### [social-media-copilot](https://github.com/iszhouhua/social-media-copilot)
+### [EpubPress](https://epub.press/)
 
-社媒助手 - 小红书、抖音等平台数据采集的浏览器插件。支持一键导出无水印图片/视频、评论采集、作品数据采集、达人数据采集等功能：
+`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
 
-![social-media-copilot](https://images-1252557999.file.myqcloud.com/uPic/HvvXRg.png) 
+![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
 
-### [gpt4all](https://github.com/nomic-ai/gpt4all)
+### [mihon](https://github.com/mihonapp/mihon)
 
-`GPT4All` 是一个生态系统，用于在消费级 `CPU` 和任何 `GPU` 上本地运行强大且定制化的大型语言模型。请注意，您的 `CPU` 需要支持 `AVX` 或 `AVX2` 指令。
+`Mihon` 是一款安卓端的免费、开源漫画阅读器，支持漫画在线阅读与下载。 应用界面清爽干净，操作简单，纯净无广告：
 
-![gpt4all](https://images-1252557999.file.myqcloud.com/uPic/gpt4all.jpg) 
+- 支持在线阅读、漫画下载和本地漫画阅读；
+- 支持安装全球各种漫画图源；
+- 多种阅读模式和各种自定义设置；
+- 书架、发现、分组、阅读统计、主题、追踪、自动更新及备份等功能……
 
-### [KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+![mihon](https://images-1252557999.file.myqcloud.com/uPic/qkUiNU.png) 
 
-一款补足 `macOS` 自带有一个**自动切换到文稿到输入法**功能遗憾的软件：
+### [staxrip](https://github.com/staxrip/staxrip)
 
-- 配置app启动默认输入法。
-- app来回切换，保持app切出前的使用的输入法。
-- 自定义配置app默认输入法，可锁定每次切入使用默认输入法。
-- 悬浮窗口支持
+`StaxRip` 是一个强大的用于 `Windows` 的视频/音频编码图形用户界面。
+它执行和控制诸如 `x265、mkvmerge、ffmpeg` 等控制台应用程序，并使用基于脚本的帧服务器 A`viSynth+和VapourSynth` 进行视频处理。每个项目还可以通过各种事件和设置进行扩展：
 
-![keyboardholder](https://images-1252557999.file.myqcloud.com/uPic/keyboardholder.jpg) 
+![staxrip](https://images-1252557999.file.myqcloud.com/uPic/staxrip.jpg) 
 
 ## 👀 资料 
 
-### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
+### [Prompt engineering overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 
-公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
+详细介绍了如何通过提示工程来最大化 Claude 4 模型的效能：
 
-### [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+![Prompt engineering overview](https://images-1252557999.file.myqcloud.com/uPic/d8RFeW.png) 
 
-本项目精选收录了采用RAG、AI智能体、多智能体团队、MCP、语音智能体等技术构建的超赞LLM应用。本仓库展示的LLM应用使用了OpenAI、Anthropic、Google等公司的模型，以及DeepSeek、Qwen或Llama等可在本地计算机上运行的开源模型。
+### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 
-![awesome-llm-apps](https://images-1252557999.file.myqcloud.com/uPic/9pE3fX.png) 
+以非常直观的语言介绍`pytorch`：
 
-### [promptingguide.ai](https://www.promptingguide.ai/zh)
+![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
 
-关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
+作者的同类电子书还有：
 
-![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
+- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+
+### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
+
+互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
 
 ## 🕸 网站 
+
+### [khroma](https://www.khroma.co/)
+
+人工智能配色网站：
+
+![khroma](https://images-1252557999.file.myqcloud.com/uPic/khroma.jpg) 
+
+### [json-translate](https://github.com/ViggoZ/json-translate/blob/main/README.zh.md)
+
+AI驱动的JSON国际化翻译工具，免费在线JSON翻译工具，支持40+种语言，由AI驱动：
+
+![json-translate](https://images-1252557999.file.myqcloud.com/uPic/IzziYk.png) 
 
 ### [kkdaxue](https://www.kkdaxue.com/)
 
 高考志愿网站，发现各专业前辈们的学习建议：
 
 ![kkdaxue](https://images-1252557999.file.myqcloud.com/uPic/kkdaxue.jpg) 
-
-### [Connected Papers](https://www.connectedpapers.com/)
-
-`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
-
-![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
-是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
-
-### [archive.today](https://archive.today/)
-
-提供任何网站存档查询的网站：
-
-![archive](https://images-1252557999.file.myqcloud.com/uPic/archive.jpg) 
 
 ## ✍️ 说明
 
