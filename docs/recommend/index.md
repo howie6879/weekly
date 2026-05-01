@@ -5,92 +5,97 @@
 
 ## 🎯 项目 
 
-### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
+### [sealos](https://github.com/fanux/sealos)
 
-B站视频命令行下载工具：
+一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗。 
 
-![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
+### [PandaWiki](https://github.com/chaitin/PandaWiki)
 
-### [typora_plugin](https://github.com/obgnail/typora_plugin)
+PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索 等能力。
 
-开源的 `Typora` 插件，功能增强工具，新增了三十多种功能：
+![PandaWiki](https://images-1252557999.file.myqcloud.com/uPic/8YgiXm.png) 
 
-![typora_plugin](https://images-1252557999.file.myqcloud.com/uPic/typora_plugin.jpg) 
+### [olmOCR-7B](https://huggingface.co/allenai/olmOCR-7B-0225-preview)
 
-### [bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime)
+`olmOCR` 在250000页的数据集上微调了`Qwen2-VL-7B-Instruct` 模型，旨在将 `PDF` 和文档图像转换为干净且结构化的纯文本：
 
-一个开源的自托管服务器监控工具，使用 `React.js, Node.js & MongoDB` 构建，用于实时跟踪服务器的在线状态、响应时间和事件，并提供美观的可视化界面和预警功能：
-
-![bluewave-uptime](https://images-1252557999.file.myqcloud.com/uPic/3x4lwD.png) 
+![olmOCR](https://img.api123.pro/i/2025/03/15/67d5044a829bd.png) 
 
 ## 🤖 软件 
 
-### [EpubPress](https://epub.press/)
+### [stretchly](https://github.com/hovancik/stretchly)
 
-`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
+`Stretchly` 是一个跨平台的 `Electron` 应用程序，它的核心功能就是让你在电脑上面工作时候设定休息&提醒时间：
 
-![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
+![stretchly](https://images-1252557999.file.myqcloud.com/uPic/stretchly.jpg) 
 
-### [mihon](https://github.com/mihonapp/mihon)
+### [yokai](https://github.com/null2264/yokai)
 
-`Mihon` 是一款安卓端的免费、开源漫画阅读器，支持漫画在线阅读与下载。 应用界面清爽干净，操作简单，纯净无广告：
+一个免费且开源的安卓漫画阅读器：
 
-- 支持在线阅读、漫画下载和本地漫画阅读；
-- 支持安装全球各种漫画图源；
-- 多种阅读模式和各种自定义设置；
-- 书架、发现、分组、阅读统计、主题、追踪、自动更新及备份等功能……
+![yokai](https://images-1252557999.file.myqcloud.com/uPic/Qy2ZHb.png)
 
-![mihon](https://images-1252557999.file.myqcloud.com/uPic/qkUiNU.png) 
+之前还推荐免费漫画软件还有：
 
-### [staxrip](https://github.com/staxrip/staxrip)
+- [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
+- [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
+- [kobi](https://github.com/niuhuan/kobi)
+- [aniyomi](https://github.com/aniyomiorg/aniyomi)
+- [any-reader](https://github.com/aooiuu/any-reader)
+- [miru-app](https://github.com/miru-project/miru-app)
+- [全是漫画](https://github.com/hongchacha/cartoon)
 
-`StaxRip` 是一个强大的用于 `Windows` 的视频/音频编码图形用户界面。
-它执行和控制诸如 `x265、mkvmerge、ffmpeg` 等控制台应用程序，并使用基于脚本的帧服务器 A`viSynth+和VapourSynth` 进行视频处理。每个项目还可以通过各种事件和设置进行扩展：
+更多去周刊网站检索漫画关键词👉[周刊漫画项目推荐](https://weekly.howie6879.com/?q=%E6%BC%AB%E7%94%BB)。 
 
-![staxrip](https://images-1252557999.file.myqcloud.com/uPic/staxrip.jpg) 
+### [gushi_namer](https://github.com/holynova/gushi_namer)
+
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
+
+![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
+
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
 ## 👀 资料 
 
-### [Prompt engineering overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
 
-详细介绍了如何通过提示工程来最大化 Claude 4 模型的效能：
+针对新人的 `CSS` 入门级教程：
 
-![Prompt engineering overview](https://images-1252557999.file.myqcloud.com/uPic/d8RFeW.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
 
-### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
 
-以非常直观的语言介绍`pytorch`：
+### [Apple 人机界面指南](https://developer.apple.com/cn/design/human-interface-guidelines/)
 
-![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
+《人机界面指南》包含可帮助你为任何 Apple 平台设计优秀使用体验的指南和最佳实践：
 
-作者的同类电子书还有：
+![human-interface-guidelines](https://images-1252557999.file.myqcloud.com/uPic/human-interface-guidelines.jpg) 
 
-- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+### [大模型基础](https://github.com/datawhalechina/so-large-lm)
 
-### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
+本项目旨在作为一个大规模预训练语言模型的教程，从数据准备、模型构建、训练策略到模型评估与改进，以及模型在安全、隐私、环境和法律道德方面的方面来提供开源知识。
 
-互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
+![so-large-lm](https://images-1252557999.file.myqcloud.com/uPic/so-large-lm.jpg) 
 
 ## 🕸 网站 
 
-### [khroma](https://www.khroma.co/)
+### [ideogram.ai](https://ideogram.ai/)
 
-人工智能配色网站：
+免费无次数限制的文字转图片网页：
 
-![khroma](https://images-1252557999.file.myqcloud.com/uPic/khroma.jpg) 
+![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
 
-### [json-translate](https://github.com/ViggoZ/json-translate/blob/main/README.zh.md)
+### [nosh](https://nosh.rocks/)
 
-AI驱动的JSON国际化翻译工具，免费在线JSON翻译工具，支持40+种语言，由AI驱动：
+一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
 
-![json-translate](https://images-1252557999.file.myqcloud.com/uPic/IzziYk.png) 
+![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
 
-### [kkdaxue](https://www.kkdaxue.com/)
+### [最佳平替](https://www.pingti.xyz/)
 
-高考志愿网站，发现各专业前辈们的学习建议：
+同一件商品，不同的搜索词，价格可能会天差地别。这个工具旨在帮助你找到最便宜的搜索词: 输入你想搜索的商品名，AI会给出低价的替代品，结果可能不准，开心就好：）
 
-![kkdaxue](https://images-1252557999.file.myqcloud.com/uPic/kkdaxue.jpg) 
+![pingti](https://images-1252557999.file.myqcloud.com/uPic/pingti.jpg) 
 
 ## ✍️ 说明
 
