@@ -5,35 +5,21 @@
 
 ## 🎯 项目 
 
-### [rss-reader](https://github.com/srcrs/rss-reader)
+### [Openlist](https://github.com/OpenListTeam/OpenList)
 
-一个极简的 `RSS` 在线浏览工具：
+`OpenList` 是一款开源的网盘聚合工具，支持多种网盘服务的挂载和管理，并且完全免费。基于原  `Alist` 分支而来，解决了原来有争议的接口，去除了恶意代码，让  `Alist` 回归纯粹。 
 
-![rss-reader](https://images-1252557999.file.myqcloud.com/uPic/rss-reader.png) 
+### [gemini-cli](https://github.com/google-gemini/gemini-cli)
 
-### [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
+`Gemini CLI`  是谷歌开源的 `AI` 编程工具，目前来看可以说是免费的：每分钟 60 次请求，每天 1000 次请求：
+ 
+![gemini-cli](https://images-1252557999.file.myqcloud.com/uPic/Zs1LrM.png) 
 
-`ArchiveBox` 是一个强大的、可自建的互联网归档解决方案，可以收集、保存和查看你想离线保存的网站：
+### [OnnxOCR](https://github.com/jingsongliujing/OnnxOCR)
 
-![ArchiveBox](https://images-1252557999.file.myqcloud.com/uPic/ArchiveBox.jpg) 
-
-### [mkcert](https://github.com/FiloSottile/mkcert)
-
-`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
-
-![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
+基于 `PaddleOCR` 重构，并且脱离PaddlePaddle深度学习训练框架的轻量级 `OCR`，推理速度超快。 
 
 ## 🤖 软件 
-
-### [Setapp](https://go.setapp.com/invite/os8yv4jr)
-
-虽然这个是个付费软件，但我还是很推荐：
-
-> Setapp是由MacPaw公司于2017年推出的订阅服务，专为macOS和iOS用户提供多款精选应用程序。用户通过月费即可无限使用旗下丰富的应用集合，覆盖各种日常任务需求，无需单独购买或更新。
-
-订阅这个软件就可以免费使用 `Setapp` 里面 **240+** 的软件（单独买要付费的那种），比如我想使用GPT-4的对话功能，我单独买会员就是要20$。我现在直接花 **9.9\$**  订阅 `Setapp` ，然后直接里面直接使用 `Typing Mind` 就可以直接使用 GPT-4 Turbo，上下文 128k，对我来说单单这个就赚回来了。
-
-![setapp](https://images-1252557999.file.myqcloud.com/uPic/setapp.jpg) 
 
 ### [alisthelper](https://github.com/Xmarmalade/alisthelper)
 
@@ -49,58 +35,62 @@ Alist Helper是一款使用Flutter开发的应用程序，旨在简化桌面版a
 
 ![alisthelper](https://images-1252557999.file.myqcloud.com/uPic/alisthelper.jpg) 
 
-### [ab-download-manager](https://github.com/amir1376/ab-download-manager)
+### [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
 
-旨在提供比传统下载方式更快下载速度的开源跨平台下载器，界面非常现代化：
+使用 Android 原生开发的电视直播软件：
 
-![ab-download-manager](https://images-1252557999.file.myqcloud.com/uPic/ECGYnu.png) 
+![mytv-android](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/mytv-android.jpg)
+
+老胡试了不是很稳定，大家可根据地域使用测试。 
+
+### [gitbutler](https://github.com/gitbutlerapp/gitbutler)
+
+Git 分支管理工具，从头开始构建，用于现代工作流：
+
+![gitbutler](https://images-1252557999.file.myqcloud.com/uPic/gitbutler.jpg) 
 
 ## 👀 资料 
 
-### [missing-semester-cn](https://missing-semester-cn.github.io/)
+### [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
 
-计算机教育中缺失的一课，翻译自麻省理工的《The Missing Semester of Your CS Education》。
+项目作者创建项目的初心：
 
-在传统的计算机科学课程中，从操作系统、编程语言到机器学习，这些高大上课程和主题已经非常多了。 然而有一个至关重要的主题却很少被专门讲授，而是留给学生们自己去探索。 这部分内容就是：精通工具。
+> 虽然国内教育网站已提供免费资源，但大多数普通人获取信息的途径依然受限。有些人利用这一点，在某站上销售这些带有私人水印的资源。为了应对这种情况，我计划将这些资源集中并开源，以促进义务教育的普及和消除地区间的教育贫困。
+> 还有一个最重要的原因是，希望海外华人能够让自己的孩子继续了解国内教育。 
 
-![missing-semester-cn](https://images-1252557999.file.myqcloud.com/uPic/Vs1K4g.png) 
+### [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
 
-### [comprehensive-rust](https://google.github.io/comprehensive-rust/welcome.html)
+《Anthropic Cookbook》提供了旨在帮助开发人员与Claude一起构建的代码和指南，提供可复制的代码片段，您可以轻松地将其集成到自己的项目中。 
 
-谷歌出品的四天学习 `Rust` 👀
+### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
 
-![comprehensive-rust](https://images-1252557999.file.myqcloud.com/uPic/comprehensive-rust.jpg) 
+开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
 
-### [theByteBook](https://github.com/isno/theByteBook)
-
-深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
-
-![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
+![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
 
 ## 🕸 网站 
 
-### [free-font](https://free-font.vercel.app/)
+### [webutils](https://www.webutils.app/)
 
-收录商用免费汉字字体，还包括开源英文字体 `Free Font`:
+一个提供web小工具的网站，比如：
 
-![free-font](https://images-1252557999.file.myqcloud.com/uPic/free-font.png)
+- 文本比较
+- 图片压缩
+- 图片转换
 
-项目开源在 [github](https://github.com/jaywcjlove/free-font)。 
+![webutils](https://images-1252557999.file.myqcloud.com/uPic/ijDiPA.png) 
 
-### [nosh](https://nosh.rocks/)
+### [gooddesign](https://www.gooddesign.tools/)
 
-一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
+优质设计师工具导航网站：
 
-![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
+![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
 
-### [ui.aceternity.com](https://ui.aceternity.com/components)
+### [sayhello](https://beta.sayhello.so/)
 
-网站包含多种前端动态效果，可以一键复制代码使用，同类网站有：
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-- https://uiverse.io/
-- https://www.handsome-css.com/
-
-![aceternity](https://images-1252557999.file.myqcloud.com/uPic/aceternity.jpg) 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
 ## ✍️ 说明
 
