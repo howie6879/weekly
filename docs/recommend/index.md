@@ -5,92 +5,102 @@
 
 ## 🎯 项目 
 
-### [Openlist](https://github.com/OpenListTeam/OpenList)
+### [zyronon/douyin](https://github.com/zyronon/douyin)
 
-`OpenList` 是一款开源的网盘聚合工具，支持多种网盘服务的挂载和管理，并且完全免费。基于原  `Alist` 分支而来，解决了原来有争议的接口，去除了恶意代码，让  `Alist` 回归纯粹。 
+这是一个模仿 抖音|TikTok 的移动端短视频项目，它基于 `Vue、Vite` 实现，使用了最新的 `Vue` 全家桶技术栈：
 
-### [gemini-cli](https://github.com/google-gemini/gemini-cli)
+![zyronon_dy](https://images-1252557999.file.myqcloud.com/uPic/zyronon_dy.jpg) 
 
-`Gemini CLI`  是谷歌开源的 `AI` 编程工具，目前来看可以说是免费的：每分钟 60 次请求，每天 1000 次请求：
- 
-![gemini-cli](https://images-1252557999.file.myqcloud.com/uPic/Zs1LrM.png) 
+### [OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki)
 
-### [OnnxOCR](https://github.com/jingsongliujing/OnnxOCR)
+`OpenDeepWiki` 是基于[DeepWiki](https://deepwiki.org)项目的开源版本，旨于提供一个强大的知识管理和协作平台:
 
-基于 `PaddleOCR` 重构，并且脱离PaddlePaddle深度学习训练框架的轻量级 `OCR`，推理速度超快。 
+![OpenDeepWiki](https://images-1252557999.file.myqcloud.com/uPic/iIA8BQ.png) 
+
+### [illa-builder](https://github.com/illacloud/illa-builder)
+
+`ILLA` 是一个强大的开源低代码平台，供开发人员构建内部工具。 通过使用 ILLA 的组件和操作库，开发人员可以节省大量构建工具的时间，核心特性如下：
+
+- ⚽ 实时协作： 我们可以一起实时创建内容。
+- 🛠 自定义插件： 构建自定义插件来完成你的任务。
+- 🤖 自动化支持： 连接一切组件，并在 5 秒内实现自动化。
+- 🖥 本地部署： 支持Docker和k8s
+- 📝 Page支持： 创建内容丰富且 UI 友好的工具的基础。
+- 🎨 由 ILLA Design 提供支持： 组件不应限制您的想象力。
+
+![illa](https://images-1252557999.file.myqcloud.com/uPic/illa.png) 
 
 ## 🤖 软件 
 
-### [alisthelper](https://github.com/Xmarmalade/alisthelper)
+### [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
 
-Alist Helper是一款使用Flutter开发的应用程序，旨在简化桌面版alist的使用。它可以管理alist，让您更轻松地开启、关闭alist程序:
+`Sigma File Manager` 是一个免费、开源、快速发展的现代文件管理器（资源管理器/查找器）应用程序，适用于`Windows&Linux`，支持智能搜索、自定义主页、文件共享、文件下载、智能拖放、文件保护等功能：
 
-- 自动启动alist
-- 最小化至系统托盘
-- 开机自启和开机静默启动
-- 能够快速查看alist的版本和管理员信息
-- 可调整的alist启动参数。你可以可以根据自己的特定需求和偏好来自定义启动参数
+![sigma-file-manager](https://images-1252557999.file.myqcloud.com/uPic/sigma-file-manager.jpg) 
 
-关键点：这个官方也在做，然后需要付费~
+### [EcoPaste](https://github.com/ayangweb/EcoPaste)
 
-![alisthelper](https://images-1252557999.file.myqcloud.com/uPic/alisthelper.jpg) 
+一款开源的跨平台剪切板管理工具：
 
-### [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
+- 使用 Tauri 构建项目，使其更加小巧精致，资源占用更少，同时适配多个平台。
+- 应用常驻后台，通过自定义快捷键一键唤醒，节省时间，提高效率。
+- 所有剪切板内容均在本地存储，确保数据隐私和安全。
+- 支持纯文本、富文本、HTML、图片和文件类型。
+- 根据剪切板内容类型自动进行分组，便于高效管理。
+- 支持收藏剪切板内容，便于快速访问和管理重要信息。
+- 内置搜索功能，轻松找到剪切板上的任何内容。
+- 图片内置系统 OCR 功能，支持文本和二维码识别。
+- 提供丰富的右键菜单，增强操作便捷性。
 
-使用 Android 原生开发的电视直播软件：
+![EcoPaste](https://images-1252557999.file.myqcloud.com/uPic/EcoPaste.jpg) 
 
-![mytv-android](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/mytv-android.jpg)
+### [hyprnote](https://github.com/fastrepl/hyprnote)
 
-老胡试了不是很稳定，大家可根据地域使用测试。 
+`Hyprnote` 是一个专为连续会议的参与者设计的本地优先 `AI` 笔记软件。它能够在你记录会议时，同时聆听会议内容并制作智能摘要。`Hyprnote` 支持完全离线运行，使用开源模型如 `Whisper` 或 `HyprLLM`。软件不需要互联网连接，所有数据都保存在用户的设备上，确保数据不会外泄。
 
-### [gitbutler](https://github.com/gitbutlerapp/gitbutler)
-
-Git 分支管理工具，从头开始构建，用于现代工作流：
-
-![gitbutler](https://images-1252557999.file.myqcloud.com/uPic/gitbutler.jpg) 
+![hyprnote](https://images-1252557999.file.myqcloud.com/uPic/vnfVro.png) 
 
 ## 👀 资料 
 
-### [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+### [云安全攻防入门](https://lzcloudsecurity.gitbook.io/yun-an-quan-gong-fang-ru-men/)
 
-项目作者创建项目的初心：
+关于云安全攻防的基础知识：
 
-> 虽然国内教育网站已提供免费资源，但大多数普通人获取信息的途径依然受限。有些人利用这一点，在某站上销售这些带有私人水印的资源。为了应对这种情况，我计划将这些资源集中并开源，以促进义务教育的普及和消除地区间的教育贫困。
-> 还有一个最重要的原因是，希望海外华人能够让自己的孩子继续了解国内教育。 
+![yun-an-quan-gong-fang-ru-men](https://images-1252557999.file.myqcloud.com/uPic/yun-an-quan-gong-fang-ru-men.jpg) 
 
-### [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
+### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
 
-《Anthropic Cookbook》提供了旨在帮助开发人员与Claude一起构建的代码和指南，提供可复制的代码片段，您可以轻松地将其集成到自己的项目中。 
+吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
 
-### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
 
-开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
+### [rosedb](https://github.com/flower-corp/rosedb)
 
-![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
+`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
+
+![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
+
+作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
 
 ## 🕸 网站 
 
-### [webutils](https://www.webutils.app/)
+### [apitracker](https://apitracker.io/)
 
-一个提供web小工具的网站，比如：
+发现最佳的API接口和开发人员资源，覆盖社交媒体、金融、新闻、游戏、人工智能、音视频等领域：
 
-- 文本比较
-- 图片压缩
-- 图片转换
+![apitracker](https://images-1252557999.file.myqcloud.com/uPic/apitracker.jpg) 
 
-![webutils](https://images-1252557999.file.myqcloud.com/uPic/ijDiPA.png) 
+### [PromptPilot](https://promptpilot.volcengine.com/home)
 
-### [gooddesign](https://www.gooddesign.tools/)
+字节火山出品的 `Prompt` 生成助手：
 
-优质设计师工具导航网站：
+![PromptPilot](https://images-1252557999.file.myqcloud.com/uPic/uvUy4X.png) 
 
-![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
+### [trendingpapers](https://trendingpapers.com)
 
-### [sayhello](https://beta.sayhello.so/)
+类似于 `Github Trending` 的计算机科学论文趋势榜单：
 
-面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
-
-![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+![trendingpapers](https://images-1252557999.file.myqcloud.com/uPic/trendingpapers.jpg) 
 
 ## ✍️ 说明
 
