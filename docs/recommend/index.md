@@ -5,95 +5,101 @@
 
 ## 🎯 项目 
 
-### [Super_Mario](https://github.com/BadagalaAdarsh/Super_Mario)
+### [mcp-playwright](https://github.com/executeautomation/mcp-playwright)
 
-这是一个很有意思的项目，相信大家都玩过马里奥，这个项目可以让你用身体控制马里奥进行游戏，可以锻炼身体哈哈：
+基于 `Playwright` 的模型上下文协议服务器，用于自动化浏览器和 `API`：
 
-![mario](https://images-1252557999.file.myqcloud.com/uPic/mario.gif) 
+![mcp-playwright](https://img.api123.pro/i/2025/03/15/67d500afc9275.png) 
 
-### [gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
+### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
 
-`gitdiagram` 是一个免费、简单、快速的交互式图表生成工具，用于将任何 `GitHub` 仓库的代码结构转换为可视化图表：
+开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
 
-![gitdiagram](https://images-1252557999.file.myqcloud.com/uPic/bRhZnF.png) 
+![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
 
-### [TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop)
+### [whistle](https://github.com/avwo/whistle)
 
-「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。
+Whistle 是基于 Node 实现的跨平台抓包调试工具，其主要特点：
 
-![TidGi-Desktop](https://images-1252557999.file.myqcloud.com/uPic/TidGi-Desktop.jpg)
+- **完全跨平台**：支持 Mac、Windows 等桌面系统，且支持服务端等命令行系统
+- **功能强大（理论上可以对请求做任意修改）**：
+    - 支持作为 HTTP、HTTPS、SOCKS 代理及反向代理
+    - 支持抓包及修改 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求
+    - 支持重放及构造 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求
+    - 支持设置上游代理、PAC 脚本、Hosts、延迟（限速）请求响应等
+    - 支持查看远程页面的 console 日志及 DOM 节点
+    - 支持用 Node 开发插件扩展功能，也可以作为独立 npm 包引用
+- **操作简单**：
+    - 直接通过浏览器查看抓包、修改请求
+    - 所有修改操作都可以通过配置方式实现（类似系统 Hosts），并支持分组管理
+    - 项目可以自带代理规则配置并一键设置到本地 Whistle 代理，也可以通过定制插件简化操作
 
-个人笔记记录这块老胡还在坚挺着使用 [Joplin](https://github.com/laurent22/joplin)，如果有特别推荐的可以评论推荐下。 
+![whistle](https://images-1252557999.file.myqcloud.com/uPic/whistle.png) 
 
 ## 🤖 软件 
 
-### [bananas](https://github.com/mistweaverco/bananas)
+### [AppManager](https://github.com/MuntashirAkon/AppManager)
 
-一个跨平台、点对点的屏幕共享工具，支持多光标协作，无需配置即可快速使用，注重隐私保护。
+一个功能全面的 `Android` 包管理器和应用查看器，支持复制自由软件的功能，提供了丰富的应用管理和操作功能，如列出应用信息、安装 / 卸载 `APK`、备份 / 恢复应用、查看日志等，同时支持根权限和 `ADB` 命令，以实现更高级的操作，如撤销权限、修改 `APP` 操作模式等：
 
-![bananas](https://images-1252557999.file.myqcloud.com/uPic/oOMgaM.png) 
+![AppManager](https://images-1252557999.file.myqcloud.com/uPic/zIgjSp.png) 
 
-### [Equinox](https://github.com/rlxone/Equinox)
+### [gkd](https://github.com/gkd-kit/gkd)
 
-开源的 `Mac` 应用程序，能帮助你创建动态桌面背景：
+基于 **无障碍** + **高级选择器** + **订阅规则** 的自定义屏幕点击 `APP`：
 
-![Equinox](https://images-1252557999.file.myqcloud.com/uPic/Equinox.png) 
+- 点击跳过任意开屏广告/点击关闭应用内部任意弹窗广告, 如关闭百度贴吧帖子广告卡片/知乎回答底部推荐广告卡片
+- 一些快捷操作, 如微信电脑登录自动同意/微信扫描登录自动同意/微信抢红包
 
-### [RustDesk](https://github.com/rustdesk/rustdesk)
+开源版李跳跳：
 
-远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
+![www.yalijuda.com_gkd_sXGlMJqpfS](https://images-1252557999.file.myqcloud.com/uPic/www.yalijuda.com_gkd_sXGlMJqpfS.jpg) 
 
-![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
+### [enchanted](https://github.com/AugustDev/enchanted)
+
+一个开源的 `macOS/iOS/visionOS` 应用程序，专为与私人托管模型（如 `Llama 2、Mistral、Vicuna、Starling` 等）一起工作而设计。它的界面类似于 `ChatGPT` 应用，可连接到您的私人模型：
+
+![enchanted](https://img.fre123.com/i/2024/07/12/6690f54b93ccc.jpg) 
 
 ## 👀 资料 
 
-### [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)
+### [one-python-craftsman](https://github.com/piglei/one-python-craftsman)
 
-`DotNetGuide` 技术社区是一个面向 `.NET` 开发者的开源技术社区，旨在为开发者们提供全面的 `C#/.NET/.NET Core` 相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台，可以在线[阅读](https://www.yuque.com/ysgstudyhard/da6e0c)：
+来自一位 `Pythonista` 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面：
 
-![DotNetGuide](https://images-1252557999.file.myqcloud.com/uPic/DotNetGuide.jpg) 
+![one-python-craftsman](https://images-1252557999.file.myqcloud.com/uPic/one-python-craftsman.jpg) 
 
-### [一人企业方法论](https://github.com/easychen/one-person-businesses-methodology-v2.0)
+### [php-the-right-way](https://learnku.com/docs/php-the-right-way/PHP8.0)
 
-《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群：
+PHP 入门教程，现在这块市场占有越来越少了，新项目应该都用 Go 或者 Python ，有兴趣学习的可以作为教程看看：
 
-![opb-quick-start](https://images-1252557999.file.myqcloud.com/uPic/opb-quick-start.jpg) 
+![php-the-right-way](https://images-1252557999.file.myqcloud.com/uPic/DKXw5S.png) 
 
-### developer-roadmap
+### [openai-cookbook](https://github.com/openai/openai-cookbook)
 
-开发人员学习成长路线图：
+`OpenAI API` 使用示例指南：
 
-![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
+![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
 
 ## 🕸 网站 
 
-### [pixabay](https://pixabay.com/)
+### [icones.js.org](https://icones.js.org/)
 
-`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
+免费的图标库：
 
-![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
+![icones](https://images-1252557999.file.myqcloud.com/uPic/icones.jpg) 
 
-### [json4u](https://json4u.cn/)
+### [screenshot.domains](https://screenshot.domains/)
 
-一个功能非常强大的 json 可视化和处理工具，提供图形和表格视图模式，支持结构化和文本比较、错误上下文验证、嵌套解析等功能，并且具有用户友好的界面设计：
+将域名添加到 `URL` 路径中，获取任何网站的截图：
 
-- 图形和表格视图模式
-- 结构化和文本比较
-- 使用错误上下文进行验证
-- 嵌套解析
-- 支持jq
-- 导入和导出CSV文件
-- 设计良好且易于使用的UI
+![screenshot](https://images-1252557999.file.myqcloud.com/uPic/XzRlTu.png) 
 
-![json4u](https://images-1252557999.file.myqcloud.com/uPic/gr5lnQ.png)
+### [tanpok](https://tool.tanpok.com/#/)
 
-代码是[开源](https://github.com/loggerhead/json4u/)的。 
+效果非常好的图片压缩工具：
 
-### [xyzrank.com](https://xyzrank.com/)
-
-中文播客榜单：
-
-![xyzrank](https://images-1252557999.file.myqcloud.com/uPic/xyzrank.jpg) 
+![tanpok](https://images-1252557999.file.myqcloud.com/uPic/8fZN8v.png) 
 
 ## ✍️ 说明
 
