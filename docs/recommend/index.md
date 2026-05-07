@@ -5,101 +5,94 @@
 
 ## 🎯 项目 
 
-### [mcp-playwright](https://github.com/executeautomation/mcp-playwright)
+### [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo "MoneyPrinterTurbo")
 
-基于 `Playwright` 的模型上下文协议服务器，用于自动化浏览器和 `API`：
+只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频：
 
-![mcp-playwright](https://img.api123.pro/i/2025/03/15/67d500afc9275.png) 
+![MoneyPrinterTurbo](https://images-1252557999.file.myqcloud.com/uPic/MoneyPrinterTurbo.jpeg) 
 
-### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
+### [terminalizer](https://github.com/faressoft/terminalizer)
 
-开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
+录制终端操作并生成 `gif` 动图：
 
-![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
+![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
 
-### [whistle](https://github.com/avwo/whistle)
+### [logto](https://github.com/logto-io/logto)
 
-Whistle 是基于 Node 实现的跨平台抓包调试工具，其主要特点：
+`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
 
-- **完全跨平台**：支持 Mac、Windows 等桌面系统，且支持服务端等命令行系统
-- **功能强大（理论上可以对请求做任意修改）**：
-    - 支持作为 HTTP、HTTPS、SOCKS 代理及反向代理
-    - 支持抓包及修改 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求
-    - 支持重放及构造 HTTP、HTTPS、HTTP2、WebSocket、TCP 请求
-    - 支持设置上游代理、PAC 脚本、Hosts、延迟（限速）请求响应等
-    - 支持查看远程页面的 console 日志及 DOM 节点
-    - 支持用 Node 开发插件扩展功能，也可以作为独立 npm 包引用
-- **操作简单**：
-    - 直接通过浏览器查看抓包、修改请求
-    - 所有修改操作都可以通过配置方式实现（类似系统 Hosts），并支持分组管理
-    - 项目可以自带代理规则配置并一键设置到本地 Whistle 代理，也可以通过定制插件简化操作
+核心功能：
 
-![whistle](https://images-1252557999.file.myqcloud.com/uPic/whistle.png) 
+- 一个基于 `OIDC` 的身份服务
+- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
+- 动态短信/邮件验证码登录/注册
+- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
+- 基于 web 的图形化管理控制台
+- 可扩展的多语言支持
+
+![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
 
 ## 🤖 软件 
 
-### [AppManager](https://github.com/MuntashirAkon/AppManager)
+### [bananas](https://github.com/mistweaverco/bananas)
 
-一个功能全面的 `Android` 包管理器和应用查看器，支持复制自由软件的功能，提供了丰富的应用管理和操作功能，如列出应用信息、安装 / 卸载 `APK`、备份 / 恢复应用、查看日志等，同时支持根权限和 `ADB` 命令，以实现更高级的操作，如撤销权限、修改 `APP` 操作模式等：
+一个跨平台、点对点的屏幕共享工具，支持多光标协作，无需配置即可快速使用，注重隐私保护。
 
-![AppManager](https://images-1252557999.file.myqcloud.com/uPic/zIgjSp.png) 
+![bananas](https://images-1252557999.file.myqcloud.com/uPic/oOMgaM.png) 
 
-### [gkd](https://github.com/gkd-kit/gkd)
+### [CuteGIF](https://github.com/tasy5kg/CuteGIF)
 
-基于 **无障碍** + **高级选择器** + **订阅规则** 的自定义屏幕点击 `APP`：
+小萌 `GIF` 是一款简洁好用的 `Android` 端视频转 `GIF` 工具：
 
-- 点击跳过任意开屏广告/点击关闭应用内部任意弹窗广告, 如关闭百度贴吧帖子广告卡片/知乎回答底部推荐广告卡片
-- 一些快捷操作, 如微信电脑登录自动同意/微信扫描登录自动同意/微信抢红包
+![CuteGIF](https://images-1252557999.file.myqcloud.com/uPic/CuteGIF.jpg) 
 
-开源版李跳跳：
+### [jan](https://github.com/janhq/jan)
 
-![www.yalijuda.com_gkd_sXGlMJqpfS](https://images-1252557999.file.myqcloud.com/uPic/www.yalijuda.com_gkd_sXGlMJqpfS.jpg) 
+`Jan` 是一个开源的 `ChatGPT` 替代品，可以在您的计算机上100%离线运行各种 `LLM`。`Jan` 适用于任何硬件。从个人电脑到多 `GPU` 集群，`Jan` 支持通用架构：
 
-### [enchanted](https://github.com/AugustDev/enchanted)
+![jan](https://images-1252557999.file.myqcloud.com/uPic/jan.jpg)
 
-一个开源的 `macOS/iOS/visionOS` 应用程序，专为与私人托管模型（如 `Llama 2、Mistral、Vicuna、Starling` 等）一起工作而设计。它的界面类似于 `ChatGPT` 应用，可连接到您的私人模型：
-
-![enchanted](https://img.fre123.com/i/2024/07/12/6690f54b93ccc.jpg) 
+目前体验这三款，这个用户体验最好。 
 
 ## 👀 资料 
 
-### [one-python-craftsman](https://github.com/piglei/one-python-craftsman)
+### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-来自一位 `Pythonista` 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面：
+24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
 
-![one-python-craftsman](https://images-1252557999.file.myqcloud.com/uPic/one-python-craftsman.jpg) 
+![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
 
-### [php-the-right-way](https://learnku.com/docs/php-the-right-way/PHP8.0)
+### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 
-PHP 入门教程，现在这块市场占有越来越少了，新项目应该都用 Go 或者 Python ，有兴趣学习的可以作为教程看看：
+PyTorch 从0到精通教程：
 
-![php-the-right-way](https://images-1252557999.file.myqcloud.com/uPic/DKXw5S.png) 
+![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
 
-### [openai-cookbook](https://github.com/openai/openai-cookbook)
+### [llm_engineering](https://github.com/ed-donner/llm_engineering)
 
-`OpenAI API` 使用示例指南：
+该项目是为了辅助 Edward Donner 的 LLM 工程课程而设立的。课程内容涵盖了 8 周的学习路径，旨在帮助学生掌握人工智能和大型语言模型（LLMs）的技能。仓库包含了课程资源、环境设置指南（适用于 PC、Mac 和 Linux 系统）以及项目文件。
 
-![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
+![llm_engineering](https://images-1252557999.file.myqcloud.com/uPic/dtF0EE.png) 
 
 ## 🕸 网站 
 
-### [icones.js.org](https://icones.js.org/)
+### [goldprice.fun](https://goldprice.fun/)
 
-免费的图标库：
+查看国内国际金价，包含各金店品牌：
 
-![icones](https://images-1252557999.file.myqcloud.com/uPic/icones.jpg) 
+![goldprice](https://images-1252557999.file.myqcloud.com/uPic/goldprice.jpg) 
 
-### [screenshot.domains](https://screenshot.domains/)
+### [nslookup.io](https://www.nslookup.io/)
 
-将域名添加到 `URL` 路径中，获取任何网站的截图：
+一个在线工具，用于查询域名的 DNS 记录，提供与命令行工具 dig 和 nslookup 相同的信息，但在浏览器中更加方便：
 
-![screenshot](https://images-1252557999.file.myqcloud.com/uPic/XzRlTu.png) 
+![nslookup](https://images-1252557999.file.myqcloud.com/uPic/d5hTUE.png) 
 
-### [tanpok](https://tool.tanpok.com/#/)
+### [up-6.com](https://www.up-6.com/)
 
-效果非常好的图片压缩工具：
+一个英语学习导航网站：
 
-![tanpok](https://images-1252557999.file.myqcloud.com/uPic/8fZN8v.png) 
+![up-6](https://images-1252557999.file.myqcloud.com/uPic/up-6.jpg) 
 
 ## ✍️ 说明
 
