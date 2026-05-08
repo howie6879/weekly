@@ -5,94 +5,90 @@
 
 ## 🎯 项目 
 
-### [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo "MoneyPrinterTurbo")
+### [resume-design](https://github.com/huajian-pro/resume-design)
 
-只需提供一个视频 主题 或 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频：
+一款开源简历设计生成器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据：
 
-![MoneyPrinterTurbo](https://images-1252557999.file.myqcloud.com/uPic/MoneyPrinterTurbo.jpeg) 
+![91huajian](https://images-1252557999.file.myqcloud.com/uPic/MHN7Rb.jpg) 
 
-### [terminalizer](https://github.com/faressoft/terminalizer)
+### [cmdb](https://github.com/veops/cmdb)
 
-录制终端操作并生成 `gif` 动图：
+运维配置管理数据库，主要用来存放如服务器、应用等运维资产以及它们间的关系，是运维的权威数据库。主要功能包括模型管理和资源的查询，模型管理运维人员可以按照公司的内部的运维场景自己合理的设计，然后通过Agent自动上报和人工批量手动录入的方式写入模型对应的数据。对其他系统提供Restful API，便于做一些成本核算之类的工作。
 
-![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
+![cmdb](https://images-1252557999.file.myqcloud.com/uPic/cmdb.png) 
 
-### [logto](https://github.com/logto-io/logto)
+### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
 
-`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
+通过网络收集整理的中文歌词数据库, 包含:
 
-核心功能：
+- 绝大多数华语歌手在2019年之前的歌曲
+- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
+- 102197首歌曲, 平均每人25.4首歌
 
-- 一个基于 `OIDC` 的身份服务
-- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
-- 动态短信/邮件验证码登录/注册
-- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
-- 基于 web 的图形化管理控制台
-- 可扩展的多语言支持
+作者基于此数据库做了两个歌词生成器：
 
-![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
+- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
+- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
 
 ## 🤖 软件 
 
-### [bananas](https://github.com/mistweaverco/bananas)
+### [kopia](https://github.com/kopia/kopia)
 
-一个跨平台、点对点的屏幕共享工具，支持多光标协作，无需配置即可快速使用，注重隐私保护。
+跨平台备份/还原工具，它能够将指定的文件和目录加密压缩后生成快照，然后上传到远程服务器或云存储，实现远程备份数据的功能，开箱即用支持命令行和 `GUI` 两种使用方式：
 
-![bananas](https://images-1252557999.file.myqcloud.com/uPic/oOMgaM.png) 
+![kopia](https://images-1252557999.file.myqcloud.com/uPic/kopia.webp) 
 
-### [CuteGIF](https://github.com/tasy5kg/CuteGIF)
+### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
 
-小萌 `GIF` 是一款简洁好用的 `Android` 端视频转 `GIF` 工具：
+`TinyPNG`的`Mac`客户端：
 
-![CuteGIF](https://images-1252557999.file.myqcloud.com/uPic/CuteGIF.jpg) 
+![TinyPNG4Mac](https://images-1252557999.file.myqcloud.com/uPic/TinyPNG4Mac.png) 
 
-### [jan](https://github.com/janhq/jan)
+### [firebase.studio](https://firebase.studio/)
 
-`Jan` 是一个开源的 `ChatGPT` 替代品，可以在您的计算机上100%离线运行各种 `LLM`。`Jan` 适用于任何硬件。从个人电脑到多 `GPU` 集群，`Jan` 支持通用架构：
+`Firebase Studio` 是一个基于云端的代理开发环境，可帮助您构建和交付具有生产级品质的全栈 AI 应用，包括 API、后端、前端、移动应用等：
 
-![jan](https://images-1252557999.file.myqcloud.com/uPic/jan.jpg)
-
-目前体验这三款，这个用户体验最好。 
+![firebase.studio](https://images-1252557999.file.myqcloud.com/uPic/WbajBv.png) 
 
 ## 👀 资料 
 
-### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+### [医保怎样用最省钱](https://chaiknows.feishu.cn/docx/IbTBdjiQWoi2cvx21SmcrL1pn3f)
 
-24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
+一份医保省钱指南，省钱就是赚钱：
 
-![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
+![ybsq](https://images-1252557999.file.myqcloud.com/uPic/F6m1jR.png) 
 
-### [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
+### [agents-course](https://huggingface.co/learn/agents-course/unit0/introduction)
 
-PyTorch 从0到精通教程：
+🤗 AI Agents Course 是一个旨在从基础到高级教授人工智能代理（Agents）的免费课程，涵盖理论、设计和实践，并提供使用流行库（如 smolagents、LangChain 和 LlamaIndex）的实战演练，以及通过挑战赛和社区贡献来提升学习体验。
 
-![pytorch-deep-learning](https://images-1252557999.file.myqcloud.com/uPic/pytorch-deep-learning.jpeg) 
+![agents-course](https://images-1252557999.file.myqcloud.com/uPic/AcJZte.png) 
 
-### [llm_engineering](https://github.com/ed-donner/llm_engineering)
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-该项目是为了辅助 Edward Donner 的 LLM 工程课程而设立的。课程内容涵盖了 8 周的学习路径，旨在帮助学生掌握人工智能和大型语言模型（LLMs）的技能。仓库包含了课程资源、环境设置指南（适用于 PC、Mac 和 Linux 系统）以及项目文件。
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-![llm_engineering](https://images-1252557999.file.myqcloud.com/uPic/dtF0EE.png) 
+![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
 
 ## 🕸 网站 
 
-### [goldprice.fun](https://goldprice.fun/)
+### [中国科学技术大学测速网站](https://test.ustc.edu.cn/)
 
-查看国内国际金价，包含各金店品牌：
+测试使用网络的上传下载速度等信息：
 
-![goldprice](https://images-1252557999.file.myqcloud.com/uPic/goldprice.jpg) 
+![test-ustc](https://images-1252557999.file.myqcloud.com/uPic/test-ustc.jpg) 
 
-### [nslookup.io](https://www.nslookup.io/)
+### [qrgpt.io](https://www.qrgpt.io/)
 
-一个在线工具，用于查询域名的 DNS 记录，提供与命令行工具 dig 和 nslookup 相同的信息，但在浏览器中更加方便：
+`QRGPT` 使您能够在几秒钟内免费生成漂亮的 `AI` 二维码，非常简单：
 
-![nslookup](https://images-1252557999.file.myqcloud.com/uPic/d5hTUE.png) 
+![qrgpt](https://images-1252557999.file.myqcloud.com/uPic/qrgpt.jpg) 
 
-### [up-6.com](https://www.up-6.com/)
+### [studyhard](https://studyhard.cf/)
 
-一个英语学习导航网站：
+📚各大高校课程资源汇总，在 `Github` 上大学：
 
-![up-6](https://images-1252557999.file.myqcloud.com/uPic/up-6.jpg) 
+![studyhard](https://images-1252557999.file.myqcloud.com/uPic/studyhard.jpg) 
 
 ## ✍️ 说明
 
