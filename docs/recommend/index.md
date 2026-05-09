@@ -5,90 +5,90 @@
 
 ## 🎯 项目 
 
-### [resume-design](https://github.com/huajian-pro/resume-design)
+### [SubsTracker](https://github.com/wangwangit/SubsTracker)
 
-一款开源简历设计生成器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据：
+基于 `Cloudflare Workers` 的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过 `Telegram` 发送及时提醒：
 
-![91huajian](https://images-1252557999.file.myqcloud.com/uPic/MHN7Rb.jpg) 
+- 订阅管理：添加、编辑、删除各类订阅服务
+- 智能提醒：自定义提前提醒天数，自动续订计算
+- 农历显示：支持农历日期显示，可控制开关
+- 状态管理：订阅启用/停用，过期状态自动识别
 
-### [cmdb](https://github.com/veops/cmdb)
+![SubsTracker](https://images-1252557999.file.myqcloud.com/uPic/K7RxtO.png) 
 
-运维配置管理数据库，主要用来存放如服务器、应用等运维资产以及它们间的关系，是运维的权威数据库。主要功能包括模型管理和资源的查询，模型管理运维人员可以按照公司的内部的运维场景自己合理的设计，然后通过Agent自动上报和人工批量手动录入的方式写入模型对应的数据。对其他系统提供Restful API，便于做一些成本核算之类的工作。
+### [AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)
 
-![cmdb](https://images-1252557999.file.myqcloud.com/uPic/cmdb.png) 
+`AIClient2API`：模拟 `Gemini CLI Kiro` 客户端请求，兼容 `OpenAI API`。可每日千次Gemini模型请求， `免费使用Kiro` 内置 `Claude` 模型。通过 `API`  轻松接入任何客户端，让AI开发更高效！
 
-### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
+![AIClient-2-API](https://images-1252557999.file.myqcloud.com/uPic/6DhrP3.png) 
 
-通过网络收集整理的中文歌词数据库, 包含:
+### [coolify](https://github.com/coollabsio/coolify)
 
-- 绝大多数华语歌手在2019年之前的歌曲
-- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
-- 102197首歌曲, 平均每人25.4首歌
+> `Vercel Netlify Heroku` 开源替代品
 
-作者基于此数据库做了两个歌词生成器：
+![coolify](https://images-1252557999.file.myqcloud.com/uPic/coolify.jpeg)
 
-- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
-- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
+还可以使用这个项目：[dokploy](https://github.com/dokploy/dokploy)
+
+![dokploy](https://images-1252557999.file.myqcloud.com/uPic/dokploy.png) 
 
 ## 🤖 软件 
 
-### [kopia](https://github.com/kopia/kopia)
+### [BlogHelper](https://github.com/onblog/BlogHelper)
 
-跨平台备份/还原工具，它能够将指定的文件和目录加密压缩后生成快照，然后上传到远程服务器或云存储，实现远程备份数据的功能，开箱即用支持命令行和 `GUI` 两种使用方式：
+帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
 
-![kopia](https://images-1252557999.file.myqcloud.com/uPic/kopia.webp) 
+![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
 
-### [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)
+### [automa](https://github.com/Kholid060/automa)
 
-`TinyPNG`的`Mac`客户端：
+`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
 
-![TinyPNG4Mac](https://images-1252557999.file.myqcloud.com/uPic/TinyPNG4Mac.png) 
+![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
 
-### [firebase.studio](https://firebase.studio/)
+### [icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
 
-`Firebase Studio` 是一个基于云端的代理开发环境，可帮助您构建和交付具有生产级品质的全栈 AI 应用，包括 API、后端、前端、移动应用等：
-
-![firebase.studio](https://images-1252557999.file.myqcloud.com/uPic/WbajBv.png) 
+一个命令行工具，用于从 `iCloud` 下载照片，支持 `Linux、Windows & macOS` 系统。 
 
 ## 👀 资料 
 
-### [医保怎样用最省钱](https://chaiknows.feishu.cn/docx/IbTBdjiQWoi2cvx21SmcrL1pn3f)
+### [云安全攻防入门](https://lzcloudsecurity.gitbook.io/yun-an-quan-gong-fang-ru-men/)
 
-一份医保省钱指南，省钱就是赚钱：
+关于云安全攻防的基础知识：
 
-![ybsq](https://images-1252557999.file.myqcloud.com/uPic/F6m1jR.png) 
+![yun-an-quan-gong-fang-ru-men](https://images-1252557999.file.myqcloud.com/uPic/yun-an-quan-gong-fang-ru-men.jpg) 
 
-### [agents-course](https://huggingface.co/learn/agents-course/unit0/introduction)
+### [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
-🤗 AI Agents Course 是一个旨在从基础到高级教授人工智能代理（Agents）的免费课程，涵盖理论、设计和实践，并提供使用流行库（如 smolagents、LangChain 和 LlamaIndex）的实战演练，以及通过挑战赛和社区贡献来提升学习体验。
+本项目精选收录了采用RAG、AI智能体、多智能体团队、MCP、语音智能体等技术构建的超赞LLM应用。本仓库展示的LLM应用使用了OpenAI、Anthropic、Google等公司的模型，以及DeepSeek、Qwen或Llama等可在本地计算机上运行的开源模型。
 
-![agents-course](https://images-1252557999.file.myqcloud.com/uPic/AcJZte.png) 
+![awesome-llm-apps](https://images-1252557999.file.myqcloud.com/uPic/9pE3fX.png) 
 
-### [miaosha](https://github.com/qiurunze123/miaosha)
+### [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
-高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
+📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
 
-![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
+![CS-Notes](https://images-1252557999.file.myqcloud.com/uPic/7aMFrS.png) 
 
 ## 🕸 网站 
 
-### [中国科学技术大学测速网站](https://test.ustc.edu.cn/)
+### [smithery.ai](https://smithery.ai/)
 
-测试使用网络的上传下载速度等信息：
+一个集成了多种 Model Context Protocol (MCP) 服务器的平台，旨于通过 MCP 服务器扩展代理（AI）的功能，使其能够访问和管理大量工具和数据，从而提高决策和解决问题的能力：
 
-![test-ustc](https://images-1252557999.file.myqcloud.com/uPic/test-ustc.jpg) 
+![smithery](https://images-1252557999.file.myqcloud.com/uPic/F7tIpp.png) 
 
-### [qrgpt.io](https://www.qrgpt.io/)
+### [photo2poem](https://photo2poem.top/)
 
-`QRGPT` 使您能够在几秒钟内免费生成漂亮的 `AI` 二维码，非常简单：
+每一张照片，都对应一首诗，很有意思：
 
-![qrgpt](https://images-1252557999.file.myqcloud.com/uPic/qrgpt.jpg) 
+![photo2poem](https://images-1252557999.file.myqcloud.com/uPic/photo2poem.jpg) 
 
-### [studyhard](https://studyhard.cf/)
+### [1loc](https://1loc.dev/)
 
-📚各大高校课程资源汇总，在 `Github` 上大学：
+一行 `js` 代码，可以实现哪些基础功能？这个网站做了汇总：
 
-![studyhard](https://images-1252557999.file.myqcloud.com/uPic/studyhard.jpg) 
+![1loc](https://images-1252557999.file.myqcloud.com/uPic/1loc.jpg) 
 
 ## ✍️ 说明
 
