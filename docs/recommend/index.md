@@ -5,52 +5,90 @@
 
 ## 🎯 项目 
 
-### [SubsTracker](https://github.com/wangwangit/SubsTracker)
+### [zealot](https://github.com/tryzealot/zealot)
 
-基于 `Cloudflare Workers` 的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过 `Telegram` 发送及时提醒：
+开源自部署持续集成一切跟应用有关事情，接入任意 CI 系统一切自动化处理，企业多年实战经验，独立部署提供企业打包分发流程、上传应用全套流程方案 En Taro Adun! 🖖
 
-- 订阅管理：添加、编辑、删除各类订阅服务
-- 智能提醒：自定义提前提醒天数，自动续订计算
-- 农历显示：支持农历日期显示，可控制开关
-- 状态管理：订阅启用/停用，过期状态自动识别
+- 🌏 多平台应用托管: macOS、iOS、Android（apk/aab）、Windows、Linux 泛平台
+- 📱 测试设备一网打进: 自动同步 iOS 测试设备信息，允许一键注册新设备到苹果开发者
+- 🧑‍💻 丰富开发者套件: 提供 REST API、iOS、Android SDK 以及 fastlane 自动化构建插件
+- 💥 剖析应用内部的秘密: 解读 iOS、Android 应用或 iOS 描述文件的元信息
+- 🚨 内置多种事件通知: 数据可自定义 Income WebHook 到任意通知服务
+- 🗄 多渠道分类管理: 自由划分不同场景不同产品形态的应用渠道管理
+- 🎳 多架构部署: amd86/arm64/armv7 及各种部署方案应有尽有
+- 🔑 第三方登录: 飞书、Gitlab、Google、LDAP 和 OIDC 一键授权
+- 🌑 黑暗模式: 黑夜白昼自由切换
 
-![SubsTracker](https://images-1252557999.file.myqcloud.com/uPic/K7RxtO.png) 
+![zealot](https://images-1252557999.file.myqcloud.com/uPic/zealot.png) 
 
-### [AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)
+### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
 
-`AIClient2API`：模拟 `Gemini CLI Kiro` 客户端请求，兼容 `OpenAI API`。可每日千次Gemini模型请求， `免费使用Kiro` 内置 `Claude` 模型。通过 `API`  轻松接入任何客户端，让AI开发更高效！
+通过网络收集整理的中文歌词数据库, 包含:
 
-![AIClient-2-API](https://images-1252557999.file.myqcloud.com/uPic/6DhrP3.png) 
+- 绝大多数华语歌手在2019年之前的歌曲
+- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
+- 102197首歌曲, 平均每人25.4首歌
 
-### [coolify](https://github.com/coollabsio/coolify)
+作者基于此数据库做了两个歌词生成器：
 
-> `Vercel Netlify Heroku` 开源替代品
+- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
+- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
 
-![coolify](https://images-1252557999.file.myqcloud.com/uPic/coolify.jpeg)
+### [markwhen](https://github.com/mark-when/markwhen)
 
-还可以使用这个项目：[dokploy](https://github.com/dokploy/dokploy)
+`Markwhen` 是一个交互式的文本到时间轴工具，`用户只需要编写类似于Markdown` 的文本，它就会转换成一个漂亮的级联时间轴：
 
-![dokploy](https://images-1252557999.file.myqcloud.com/uPic/dokploy.png) 
+![markwhen](https://images-1252557999.file.myqcloud.com/uPic/markwhen.jpg) 
 
 ## 🤖 软件 
 
-### [BlogHelper](https://github.com/onblog/BlogHelper)
+### [so-novel](https://github.com/freeok/so-novel)
 
-帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
+交互式小说下载器，Windows、macOS、Linux 解压即用，可根据书名、作者搜索并下载小说，支持导出格式：epub、txt、html（支持翻页），结合以下电子书阅读器使用更佳：
 
-![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
+- 电脑：[koodo-reader](https://www.koodoreader.com/zh)
+- 手机：Apple Books
 
-### [automa](https://github.com/Kholid060/automa)
+![so-novel](https://images-1252557999.file.myqcloud.com/uPic/h4xoJr.png) 
 
-`automa`实现了浏览器上的工作流自动化，工作流可以实践的方向有：执行表单填写、屏幕截图、网站数据抓取等各种重复性工作。
+### [yokai](https://github.com/null2264/yokai)
 
-![automa](https://images-1252557999.file.myqcloud.com/uPic/Ku7psp.jpg) 
+一个免费且开源的安卓漫画阅读器：
 
-### [icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
+![yokai](https://images-1252557999.file.myqcloud.com/uPic/Qy2ZHb.png)
 
-一个命令行工具，用于从 `iCloud` 下载照片，支持 `Linux、Windows & macOS` 系统。 
+之前还推荐免费漫画软件还有：
+
+- [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
+- [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
+- [kobi](https://github.com/niuhuan/kobi)
+- [aniyomi](https://github.com/aniyomiorg/aniyomi)
+- [any-reader](https://github.com/aooiuu/any-reader)
+- [miru-app](https://github.com/miru-project/miru-app)
+- [全是漫画](https://github.com/hongchacha/cartoon)
+
+更多去周刊网站检索漫画关键词👉[周刊漫画项目推荐](https://weekly.howie6879.com/?q=%E6%BC%AB%E7%94%BB)。 
+
+### [TomatoBar](https://github.com/ivoronin/TomatoBar)
+
+你听说过番茄工作法吗？这是一种很好的技巧，可以帮助你在学习或工作期间掌握时间并保持专注。`TomatoBar` 是一款非常整洁的 `macOS` 菜单栏番茄钟：
+
+![TomatoBar](https://images-1252557999.file.myqcloud.com/uPic/TomatoBar.png) 
 
 ## 👀 资料 
+
+### [Midjourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
+
+一份 `Midjourney` 学习教程：
+
+![midjourney-learning-path](https://images-1252557999.file.myqcloud.com/uPic/midjourney-learning-path.jpg) 
+
+### [stevejobsarchive](https://book.stevejobsarchive.com/)
+
+乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：
+
+![stevejobsarchive_zh](https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg)
+如果你需要翻译版，可以在公众号后台联系我。 
 
 ### [云安全攻防入门](https://lzcloudsecurity.gitbook.io/yun-an-quan-gong-fang-ru-men/)
 
@@ -58,37 +96,32 @@
 
 ![yun-an-quan-gong-fang-ru-men](https://images-1252557999.file.myqcloud.com/uPic/yun-an-quan-gong-fang-ru-men.jpg) 
 
-### [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-
-本项目精选收录了采用RAG、AI智能体、多智能体团队、MCP、语音智能体等技术构建的超赞LLM应用。本仓库展示的LLM应用使用了OpenAI、Anthropic、Google等公司的模型，以及DeepSeek、Qwen或Llama等可在本地计算机上运行的开源模型。
-
-![awesome-llm-apps](https://images-1252557999.file.myqcloud.com/uPic/9pE3fX.png) 
-
-### [CS-Notes](https://github.com/CyC2018/CS-Notes)
-
-📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
-
-![CS-Notes](https://images-1252557999.file.myqcloud.com/uPic/7aMFrS.png) 
-
 ## 🕸 网站 
 
-### [smithery.ai](https://smithery.ai/)
+### [chatgpt-sites](https://github.com/lzwme/chatgpt-sites)
 
-一个集成了多种 Model Context Protocol (MCP) 服务器的平台，旨于通过 MCP 服务器扩展代理（AI）的功能，使其能够访问和管理大量工具和数据，从而提高决策和解决问题的能力：
+搜集国内可用的 ChatGPT 在线体验免费网站列表，定时任务每日更新，点击[这里](https://lzw.me/x/chatgpt-sites/)访问：
 
-![smithery](https://images-1252557999.file.myqcloud.com/uPic/F7tIpp.png) 
+![chatgpt-sites](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-sites.jpg) 
 
-### [photo2poem](https://photo2poem.top/)
+### [dute](https://www.dute.org/)
 
-每一张照片，都对应一首诗，很有意思：
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-![photo2poem](https://images-1252557999.file.myqcloud.com/uPic/photo2poem.jpg) 
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
 
-### [1loc](https://1loc.dev/)
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
-一行 `js` 代码，可以实现哪些基础功能？这个网站做了汇总：
+### [gemini-pro.chat](https://gemini-pro.chat/) 
 
-![1loc](https://images-1252557999.file.myqcloud.com/uPic/1loc.jpg) 
+免费的谷歌 `Gemini Chat Pro`，在线网站：
+
+![gemini-pro.chat](https://images-1252557999.file.myqcloud.com/uPic/gemini-pro.chat.jpg) 
 
 ## ✍️ 说明
 
