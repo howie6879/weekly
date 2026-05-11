@@ -5,123 +5,98 @@
 
 ## 🎯 项目 
 
-### [zealot](https://github.com/tryzealot/zealot)
+### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
 
-开源自部署持续集成一切跟应用有关事情，接入任意 CI 系统一切自动化处理，企业多年实战经验，独立部署提供企业打包分发流程、上传应用全套流程方案 En Taro Adun! 🖖
+读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
 
-- 🌏 多平台应用托管: macOS、iOS、Android（apk/aab）、Windows、Linux 泛平台
-- 📱 测试设备一网打进: 自动同步 iOS 测试设备信息，允许一键注册新设备到苹果开发者
-- 🧑‍💻 丰富开发者套件: 提供 REST API、iOS、Android SDK 以及 fastlane 自动化构建插件
-- 💥 剖析应用内部的秘密: 解读 iOS、Android 应用或 iOS 描述文件的元信息
-- 🚨 内置多种事件通知: 数据可自定义 Income WebHook 到任意通知服务
-- 🗄 多渠道分类管理: 自由划分不同场景不同产品形态的应用渠道管理
-- 🎳 多架构部署: amd86/arm64/armv7 及各种部署方案应有尽有
-- 🔑 第三方登录: 飞书、Gitlab、Google、LDAP 和 OIDC 一键授权
-- 🌑 黑暗模式: 黑夜白昼自由切换
+![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
 
-![zealot](https://images-1252557999.file.myqcloud.com/uPic/zealot.png) 
+### [TagStudio](https://github.com/TagStudioDev/TagStudio)
 
-### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
+一个以用户为中心的照片和文件管理系统：
 
-通过网络收集整理的中文歌词数据库, 包含:
+![TagStudio](https://images-1252557999.file.myqcloud.com/uPic/TagStudio.jpeg) 
 
-- 绝大多数华语歌手在2019年之前的歌曲
-- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
-- 102197首歌曲, 平均每人25.4首歌
+### [taskcafe](https://github.com/JordanKnott/taskcafe)
 
-作者基于此数据库做了两个歌词生成器：
+带看板的开源项目管理工具:
 
-- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
-- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
+- 通过看板界面管理任务（设置截止日期、标签、添加清单）
+- 通过我的任务视图查看所有当前分配的任务
+- 支持个人项目
+- 任务评论和活动
 
-### [markwhen](https://github.com/mark-when/markwhen)
-
-`Markwhen` 是一个交互式的文本到时间轴工具，`用户只需要编写类似于Markdown` 的文本，它就会转换成一个漂亮的级联时间轴：
-
-![markwhen](https://images-1252557999.file.myqcloud.com/uPic/markwhen.jpg) 
+![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
 
 ## 🤖 软件 
 
-### [so-novel](https://github.com/freeok/so-novel)
+### [Robo 3T](https://github.com/Studio3T/robomongo)
 
-交互式小说下载器，Windows、macOS、Linux 解压即用，可根据书名、作者搜索并下载小说，支持导出格式：epub、txt、html（支持翻页），结合以下电子书阅读器使用更佳：
+本人常用的一款MongoDB跨平台管理软件，开源免费：
 
-- 电脑：[koodo-reader](https://www.koodoreader.com/zh)
-- 手机：Apple Books
+![robomongo](https://images-1252557999.file.myqcloud.com/uPic/robomongo.jpg) 
 
-![so-novel](https://images-1252557999.file.myqcloud.com/uPic/h4xoJr.png) 
+### [Raptor](https://github.com/InfpHub/Raptor)
 
-### [yokai](https://github.com/null2264/yokai)
+使用 `Qt` 和 `C++` 构建的低内存、小而美的第三方阿里云盘 `Windows` 桌面应用客户端🚀
 
-一个免费且开源的安卓漫画阅读器：
+- 🧬 用户 - 持久化登录，多用户登录，多用户切换
+- 📉 文件（夹） - 创建/多级创建文件夹/重命名/搜索
+- 💅 文件（夹） - 移动/复制
+- ✅ 文件（夹） - 上传/下载/唤起第三方下载器下载
+- 🎪 视频 - MPV/VLC/PotPlayer
+- 💸 分享 - 创建分享/导入分享
+- 🦹🏻‍♀️ 秒传 - 创建秒传/导入秒传
+- ⭐️ 收藏 - 收藏/取消收藏/搜索
+- 🕵️‍♂️ 回收站 - 清空/删除/恢复
+- 📚 Plus - 跨网盘文件复制
+- 🏅 UI - 可自由修改的字体，图标与主题 
 
-![yokai](https://images-1252557999.file.myqcloud.com/uPic/Qy2ZHb.png)
+### [video-subtitle-master](https://github.com/buxuku/video-subtitle-master)
 
-之前还推荐免费漫画软件还有：
+@buxuku 投稿，无须上传，在本地即可批量为视频生成字幕文件出来，同时也可以通过百度/火山/deeplx翻译 api 将字幕文件翻译成其它语言的字幕文件：
 
-- [tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)
-- [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
-- [kobi](https://github.com/niuhuan/kobi)
-- [aniyomi](https://github.com/aniyomiorg/aniyomi)
-- [any-reader](https://github.com/aooiuu/any-reader)
-- [miru-app](https://github.com/miru-project/miru-app)
-- [全是漫画](https://github.com/hongchacha/cartoon)
-
-更多去周刊网站检索漫画关键词👉[周刊漫画项目推荐](https://weekly.howie6879.com/?q=%E6%BC%AB%E7%94%BB)。 
-
-### [TomatoBar](https://github.com/ivoronin/TomatoBar)
-
-你听说过番茄工作法吗？这是一种很好的技巧，可以帮助你在学习或工作期间掌握时间并保持专注。`TomatoBar` 是一款非常整洁的 `macOS` 菜单栏番茄钟：
-
-![TomatoBar](https://images-1252557999.file.myqcloud.com/uPic/TomatoBar.png) 
+![video-subtitle-master](https://images-1252557999.file.myqcloud.com/uPic/video-subtitle-master.png) 
 
 ## 👀 资料 
 
-### [Midjourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-一份 `Midjourney` 学习教程：
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-![midjourney-learning-path](https://images-1252557999.file.myqcloud.com/uPic/midjourney-learning-path.jpg) 
+![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
 
-### [stevejobsarchive](https://book.stevejobsarchive.com/)
+### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
 
-乔布斯档案库公开发布了电子书《Make Something Wonderful, Steve Jobs in his own words》，这本书是乔布斯的演讲、采访和通信的精选集，让您了解世界上最具创造力的企业家之一如何处理他的生活和工作：
+精益副业：程序员如何优雅地做副业:
 
-![stevejobsarchive_zh](https://images-1252557999.file.myqcloud.com/uPic/stevejobsarchive_zh.jpg)
-如果你需要翻译版，可以在公众号后台联系我。 
+![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
 
-### [云安全攻防入门](https://lzcloudsecurity.gitbook.io/yun-an-quan-gong-fang-ru-men/)
+### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
 
-关于云安全攻防的基础知识：
+美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
 
-![yun-an-quan-gong-fang-ru-men](https://images-1252557999.file.myqcloud.com/uPic/yun-an-quan-gong-fang-ru-men.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/OSTEP-20220429104105382.jpg)
+
+本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
 
 ## 🕸 网站 
 
-### [chatgpt-sites](https://github.com/lzwme/chatgpt-sites)
+### [buyoncesoftware.com](https://buyoncesoftware.com)
 
-搜集国内可用的 ChatGPT 在线体验免费网站列表，定时任务每日更新，点击[这里](https://lzw.me/x/chatgpt-sites/)访问：
+一份满足购买一次，终身使用软件名单：
 
-![chatgpt-sites](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-sites.jpg) 
+![buyoncesoftware](https://images-1252557999.file.myqcloud.com/uPic/HuYvwg.png) 
 
-### [dute](https://www.dute.org/)
+### [svgrepo](https://www.svgrepo.com/)
 
-独特工具箱，提供免费在线工具，涉及工具类别有：
+提供超过 500,000 个开源许可的 SVG 矢量图标和图标的平台，用户可以搜索、探索、编辑和分享这些资源，适用于商业项目，且始终免费，无需担心遇到付费内容：
 
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
+![svgrepo](https://images-1252557999.file.myqcloud.com/uPic/dPWl8l.png) 
 
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+### [w2solo](https://w2solo.com/)
 
-### [gemini-pro.chat](https://gemini-pro.chat/) 
-
-免费的谷歌 `Gemini Chat Pro`，在线网站：
-
-![gemini-pro.chat](https://images-1252557999.file.myqcloud.com/uPic/gemini-pro.chat.jpg) 
+独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
 
 ## ✍️ 说明
 
