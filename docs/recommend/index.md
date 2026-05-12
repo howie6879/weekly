@@ -5,98 +5,87 @@
 
 ## 🎯 项目 
 
-### [notification-gateway-lite](https://github.com/LeslieLeung/notification-gateway-lite)
+### [typora_plugin](https://github.com/obgnail/typora_plugin)
 
-读者 **@LeslieLeung** 自荐，`notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行：
+开源的 `Typora` 插件，功能增强工具，新增了三十多种功能：
 
-![notification-gateway-lite](https://images-1252557999.file.myqcloud.com/uPic/notification-gateway-lite.jpg) 
+![typora_plugin](https://images-1252557999.file.myqcloud.com/uPic/typora_plugin.jpg) 
 
-### [TagStudio](https://github.com/TagStudioDev/TagStudio)
+### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 
-一个以用户为中心的照片和文件管理系统：
+一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
 
-![TagStudio](https://images-1252557999.file.myqcloud.com/uPic/TagStudio.jpeg) 
+![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
 
-### [taskcafe](https://github.com/JordanKnott/taskcafe)
+### [bore](https://github.com/ekzhang/bore)
 
-带看板的开源项目管理工具:
+`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
 
-- 通过看板界面管理任务（设置截止日期、标签、添加清单）
-- 通过我的任务视图查看所有当前分配的任务
-- 支持个人项目
-- 任务评论和活动
-
-![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
+![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
 
 ## 🤖 软件 
 
-### [Robo 3T](https://github.com/Studio3T/robomongo)
+### [bilibili-manga-downloader](https://github.com/lanyeeee/bilibili-manga-downloader)
 
-本人常用的一款MongoDB跨平台管理软件，开源免费：
+一个用于哔哩哔哩漫画的多线程下载器，带图形界面，支持特典下载，下载速度飞快:
 
-![robomongo](https://images-1252557999.file.myqcloud.com/uPic/robomongo.jpg) 
+![bilibili-manga-downloader](https://images-1252557999.file.myqcloud.com/uPic/ZqukK1.png) 
 
-### [Raptor](https://github.com/InfpHub/Raptor)
+### [crow-translate](https://github.com/crow-translate/crow-translate)
 
-使用 `Qt` 和 `C++` 构建的低内存、小而美的第三方阿里云盘 `Windows` 桌面应用客户端🚀
+一个简单而轻巧的翻译器，可以使用 `Google、Yandex Bing、LibreTranslate&Lingva` 来翻译和朗读文本：
 
-- 🧬 用户 - 持久化登录，多用户登录，多用户切换
-- 📉 文件（夹） - 创建/多级创建文件夹/重命名/搜索
-- 💅 文件（夹） - 移动/复制
-- ✅ 文件（夹） - 上传/下载/唤起第三方下载器下载
-- 🎪 视频 - MPV/VLC/PotPlayer
-- 💸 分享 - 创建分享/导入分享
-- 🦹🏻‍♀️ 秒传 - 创建秒传/导入秒传
-- ⭐️ 收藏 - 收藏/取消收藏/搜索
-- 🕵️‍♂️ 回收站 - 清空/删除/恢复
-- 📚 Plus - 跨网盘文件复制
-- 🏅 UI - 可自由修改的字体，图标与主题 
+![crow-translate](https://images-1252557999.file.myqcloud.com/uPic/crow-translate.png) 
 
-### [video-subtitle-master](https://github.com/buxuku/video-subtitle-master)
+### [lively](https://github.com/rocksdanister/lively)
 
-@buxuku 投稿，无须上传，在本地即可批量为视频生成字幕文件出来，同时也可以通过百度/火山/deeplx翻译 api 将字幕文件翻译成其它语言的字幕文件：
+针对 `Windows` 的开源的动态壁纸软件：
 
-![video-subtitle-master](https://images-1252557999.file.myqcloud.com/uPic/video-subtitle-master.png) 
+![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
 
 ## 👀 资料 
 
-### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
+### [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial)
 
-这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+一份用 `Python` 编写 `systemd` 服务的教程。 
 
-![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
+### [Linux 内核教学](https://linux-kernel-labs-zh.xyz/)
 
-### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
+本文档包含一系列 `Linux` 内核主题的课程和实验，课程侧重于理论和 `Linux` 内核探索。实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：
 
-精益副业：程序员如何优雅地做副业:
+- 主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引
+- 实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示
 
-![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
+![linux-kernel-labs-zh](https://images-1252557999.file.myqcloud.com/uPic/linux-kernel-labs-zh.jpg) 
 
-### [OSTEP-操作系统导论](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)
+### [事实核查手册](https://chinafactcheck.com/?p=11465)
 
-美国威斯康星大学课程的教材。本书围绕虚拟化、并发和持久性这三个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。本书以对话形式引入所介绍的主题概念，行文诙谐幽默却又鞭辟入里，力求帮助读者理解操作系统中虚拟化、并发和持久性的原理：
+虚假信息泛滥已成世界性难题，简体中文内容市场亦难置身事外。作为应对手段之一，事实核查在中国开始萌芽。
 
-![](https://images-1252557999.file.myqcloud.com/uPic/OSTEP-20220429104105382.jpg)
+本手册以案例的形式介绍了常用的文字、图片和视频核查工具，也涉及事实核查的工作流程、信源评估，并译介了国际事实核查机构惯用的职业准则与实践，希望能为中国的事实核查业者和观察者提供一定的参考。
 
-本书有[中文](https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/)|[英文](https://pages.cs.wisc.edu/~remzi/OSTEP/)版本。 
+![事实核查手册](https://images-1252557999.file.myqcloud.com/uPic/事实核查手册.jpg) 
 
 ## 🕸 网站 
 
-### [buyoncesoftware.com](https://buyoncesoftware.com)
+### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
 
-一份满足购买一次，终身使用软件名单：
+老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
 
-![buyoncesoftware](https://images-1252557999.file.myqcloud.com/uPic/HuYvwg.png) 
+![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
 
-### [svgrepo](https://www.svgrepo.com/)
+### [ICO converter](https://www.icoconverter.com/)
 
-提供超过 500,000 个开源许可的 SVG 矢量图标和图标的平台，用户可以搜索、探索、编辑和分享这些资源，适用于商业项目，且始终免费，无需担心遇到付费内容：
+`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
 
-![svgrepo](https://images-1252557999.file.myqcloud.com/uPic/dPWl8l.png) 
+![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
 
-### [w2solo](https://w2solo.com/)
+### [万词王](https://github.com/thunlp/WantWords)
 
-独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
+万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
+
+![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
+官方访问地址：[wantwords.net](https://wantwords.net/)。 
 
 ## ✍️ 说明
 
