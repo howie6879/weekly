@@ -5,87 +5,93 @@
 
 ## 🎯 项目 
 
-### [typora_plugin](https://github.com/obgnail/typora_plugin)
+### [Sink](https://github.com/ccbikai/Sink)
 
-开源的 `Typora` 插件，功能增强工具，新增了三十多种功能：
+在 `Cloudflare` 上运行的简单、快速、安全的短链项目，还带有分析统计功能：
 
-![typora_plugin](https://images-1252557999.file.myqcloud.com/uPic/typora_plugin.jpg) 
+![Sink](https://images-1252557999.file.myqcloud.com/uPic/aJnlZg.png) 
 
-### [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+### [surveyking](https://github.com/javahuang/surveyking)
 
-一个自托管用于监控网页变化的项目，可以日常监控一些关注的信网站信息：
+功能挺全面的一个调查问卷系统：
 
-![changedetection](https://images-1252557999.file.myqcloud.com/uPic/changedetection.png) 
+![surveyking](https://images-1252557999.file.myqcloud.com/uPic/surveyking.jpg) 
 
-### [bore](https://github.com/ekzhang/bore)
+### [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
 
-`bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上：
+一个开源的网页文件管理器，提供了文件浏览和共享的解决方案：
 
-![bore](https://images-1252557999.file.myqcloud.com/uPic/bore.gif) 
+![gtsteffaniak/filebrowser](https://images-1252557999.file.myqcloud.com/uPic/iqiZtn.png)
+
+往期推荐过[filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)，可对比选择。 
 
 ## 🤖 软件 
 
-### [bilibili-manga-downloader](https://github.com/lanyeeee/bilibili-manga-downloader)
+### [NanaZip](https://github.com/M2Team/NanaZip)
 
-一个用于哔哩哔哩漫画的多线程下载器，带图形界面，支持特典下载，下载速度飞快:
+`NanaZip` 是一个面向现代 `Windows` 体验的开源文件压缩工具，基于知名的开源文件压缩工具 `7-Zip` 的源代码：
 
-![bilibili-manga-downloader](https://images-1252557999.file.myqcloud.com/uPic/ZqukK1.png) 
+![NanaZip](https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg) 
 
-### [crow-translate](https://github.com/crow-translate/crow-translate)
+### [spotube](https://github.com/KRTirtho/spotube)
 
-一个简单而轻巧的翻译器，可以使用 `Google、Yandex Bing、LibreTranslate&Lingva` 来翻译和朗读文本：
+`Spotube` 可用于所有主要平台，包括 `Linux、Android、Windows & MacOS`，它利用 `Spotify` 和 `YouTube` 的公共 `API` 作为音频源，不需要 `Spotify Premium`，没有广告，可下载歌曲，实时同步歌词，支持匿名或访客登录：
 
-![crow-translate](https://images-1252557999.file.myqcloud.com/uPic/crow-translate.png) 
+![spotube](https://images-1252557999.file.myqcloud.com/uPic/spotube.jpg) 
 
-### [lively](https://github.com/rocksdanister/lively)
+### [Gotcha-Rest-Client](https://github.com/WhiteCosmos/Gotcha-Rest-Client)
 
-针对 `Windows` 的开源的动态壁纸软件：
+Gotcha 是一个开源且跨平台的 API 设计和测试工具：
 
-![lively](https://images-1252557999.file.myqcloud.com/uPic/lively.jpeg) 
+- 无需登录注册，所有数据均存放在本地数据库(indexedDB)当中
+- 完全可视化的 API 设计功能，自由编辑请求和响应，支持 Json Schema 格式，支持大多数 OpenAPI 标准
+- 参数化 URL 编辑器，所有 URL 参数都可以通过表单形式轻松修改
+- 通过右键菜单轻松使用动态变量，包括环境变量，日期时间，引用其它接口等多种类型
+- 随时切换，修改 Cookie，支持同时使用多套 Cookie
+- 可视化 JSON 编辑器
+- 保存常用请求到请求模板
+
+![Gotcha-Rest-Client](https://images-1252557999.file.myqcloud.com/uPic/Gotcha-Rest-Client.png) 
 
 ## 👀 资料 
 
-### [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial)
+### [提示词 0-1入门](https://j1ohuigiiff.feishu.cn/wiki/RTVbwi6d9ivhyBka2rRcrNNgnye)
 
-一份用 `Python` 编写 `systemd` 服务的教程。 
+提示词（Prompt）编写速成指南，教大家如何无痛写出一个贴合需求、达到商用级的 `Prompt` 。 
 
-### [Linux 内核教学](https://linux-kernel-labs-zh.xyz/)
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-本文档包含一系列 `Linux` 内核主题的课程和实验，课程侧重于理论和 `Linux` 内核探索。实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：
+ 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
 
-- 主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引
-- 实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示
+### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
 
-![linux-kernel-labs-zh](https://images-1252557999.file.myqcloud.com/uPic/linux-kernel-labs-zh.jpg) 
+本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
 
-### [事实核查手册](https://chinafactcheck.com/?p=11465)
+- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
+- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
+- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
 
-虚假信息泛滥已成世界性难题，简体中文内容市场亦难置身事外。作为应对手段之一，事实核查在中国开始萌芽。
-
-本手册以案例的形式介绍了常用的文字、图片和视频核查工具，也涉及事实核查的工作流程、信源评估，并译介了国际事实核查机构惯用的职业准则与实践，希望能为中国的事实核查业者和观察者提供一定的参考。
-
-![事实核查手册](https://images-1252557999.file.myqcloud.com/uPic/事实核查手册.jpg) 
+![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
 
 ## 🕸 网站 
 
-### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
+### [ai-12348](https://ai.12348.gov.cn/pc/)
 
-老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
+免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
 
-![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
+![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
 
-### [ICO converter](https://www.icoconverter.com/)
+### [chuhai.tools](https://chuhai.tools/)
 
-`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
+独立开发者出海技术栈和工具集合:
 
-![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
+![chuhai](https://images-1252557999.file.myqcloud.com/uPic/chuhai.jpg) 
 
-### [万词王](https://github.com/thunlp/WantWords)
+### [lexica.art](https://lexica.art/)
 
-万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
+可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
 
-![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
-官方访问地址：[wantwords.net](https://wantwords.net/)。 
+![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
 
 ## ✍️ 说明
 
