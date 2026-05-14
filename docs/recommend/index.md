@@ -5,93 +5,112 @@
 
 ## 🎯 项目 
 
-### [Sink](https://github.com/ccbikai/Sink)
+### [code-server](https://github.com/coder/code-server)
 
-在 `Cloudflare` 上运行的简单、快速、安全的短链项目，还带有分析统计功能：
+这是一款开源的基于 `VSCode` 的在线编辑器，它提供了一个在线 `IDE`，只要你将其部署在服务器，你就有了一个随时可用的云环境：
 
-![Sink](https://images-1252557999.file.myqcloud.com/uPic/aJnlZg.png) 
+![code-server](https://images-1252557999.file.myqcloud.com/uPic/code-server.png) 
 
-### [surveyking](https://github.com/javahuang/surveyking)
+### [ProxyCat](https://github.com/honmashironeko/ProxyCat)
 
-功能挺全面的一个调查问卷系统：
+一款部署于云端或本地的隧道代理池中间件，可将静态代理IP灵活运用成隧道IP，提供固定请求地址，一次部署终身使用:
 
-![surveyking](https://images-1252557999.file.myqcloud.com/uPic/surveyking.jpg) 
+![ProxyCat](https://images-1252557999.file.myqcloud.com/uPic/yquF9b.png) 
 
-### [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
+### [MyIP](https://github.com/jason5ng32/MyIP)
 
-一个开源的网页文件管理器，提供了文件浏览和共享的解决方案：
+这是一个完全开源的 IP 信息查看器，可以查询本机 IP、查询任意 IP、查询国内外网站可用性等，70%代码由 `GPT` 实现。它可以查看IP、IP 信息（代理前后）、检查 DNS 泄露、检查 WebRTC 连接、测试网站可用性。
 
-![gtsteffaniak/filebrowser](https://images-1252557999.file.myqcloud.com/uPic/iqiZtn.png)
-
-往期推荐过[filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)，可对比选择。 
+![myip](https://images-1252557999.file.myqcloud.com/uPic/myip.jpg) 
 
 ## 🤖 软件 
 
-### [NanaZip](https://github.com/M2Team/NanaZip)
+### [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup)
 
-`NanaZip` 是一个面向现代 `Windows` 体验的开源文件压缩工具，基于知名的开源文件压缩工具 `7-Zip` 的源代码：
+PC微信聊天记录数据导出工具
 
-![NanaZip](https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg) 
+基于- wails开发 + React前端，实现PC端微信聊天记录一键导出功能。
+- 导出后数据可以做永久化保存，即使微信停止支持，聊天记录也可以随时查看。
+- 前端界面尽量与微信界面保持一致，减少使用成本。
+- 理论上支持所有Windows 32/64位微信版本。
 
-### [spotube](https://github.com/KRTirtho/spotube)
+![wechatDataBackup](https://images-1252557999.file.myqcloud.com/uPic/LJBaJf.png) 
 
-`Spotube` 可用于所有主要平台，包括 `Linux、Android、Windows & MacOS`，它利用 `Spotify` 和 `YouTube` 的公共 `API` 作为音频源，不需要 `Spotify Premium`，没有广告，可下载歌曲，实时同步歌词，支持匿名或访客登录：
+### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
 
-![spotube](https://images-1252557999.file.myqcloud.com/uPic/spotube.jpg) 
+这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
 
-### [Gotcha-Rest-Client](https://github.com/WhiteCosmos/Gotcha-Rest-Client)
+- SSH连接操作
+- Jupyter支持
+- Code Server（Web版VS Code） 支持
+- 文件管理支持
+- 自带Python：写点常用脚本不在话下
+- 上手深度学习
+- 等等
 
-Gotcha 是一个开源且跨平台的 API 设计和测试工具：
+这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
 
-- 无需登录注册，所有数据均存放在本地数据库(indexedDB)当中
-- 完全可视化的 API 设计功能，自由编辑请求和响应，支持 Json Schema 格式，支持大多数 OpenAPI 标准
-- 参数化 URL 编辑器，所有 URL 参数都可以通过表单形式轻松修改
-- 通过右键菜单轻松使用动态变量，包括环境变量，日期时间，引用其它接口等多种类型
-- 随时切换，修改 Cookie，支持同时使用多套 Cookie
-- 可视化 JSON 编辑器
-- 保存常用请求到请求模板
+![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
 
-![Gotcha-Rest-Client](https://images-1252557999.file.myqcloud.com/uPic/Gotcha-Rest-Client.png) 
+### [lossless-cut](https://github.com/mifi/lossless-cut)
+
+`LosslessCut` 是一个强大的跨平台视频/音频编辑工具，旨在通过快速且无损的操作，提供对视频、音频、字幕等媒体文件的剪辑和处理。它支持几乎所有主流视频和音频格式的无损剪切，能够快速提取视频中的精彩片段，而无需重新编码，从而保证画质不降低。此外，它还支持合并、重新排列、添加音轨或字幕、批量处理等功能，非常适合从相机、`GoPro`、无人机等设备中处理大文件。
+
+特点包括：
+- 支持大多数视频和音频格式的无损剪切
+- 快速多文件工作流程和键盘快捷键操作
+- 支持自定义时间段导出和编辑文件元数据
+- 提供黑场检测、静音检测、场景变化检测等实用工具
+
+`LosslessCut` 可以在不同操作系统上运行，并提供各种可执行文件下载选择，是处理和编辑媒体文件的理想选择。
+
+![lossless-cut](https://images-1252557999.file.myqcloud.com/uPic/lossless-cut.jpg) 
 
 ## 👀 资料 
 
-### [提示词 0-1入门](https://j1ohuigiiff.feishu.cn/wiki/RTVbwi6d9ivhyBka2rRcrNNgnye)
+### [self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder)
 
-提示词（Prompt）编写速成指南，教大家如何无痛写出一个贴合需求、达到商用级的 `Prompt` 。 
+首先，这不是一本程序员的技术书籍，整本书不会提及任何一个技术词汇，这也不是一本教你如何规划职业生涯，如何在职场走个更远的书，虽然我相信大部分内容确实有助于在职场的发展。
 
-### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+但这本书的真正用意是想解决工作过程中碰到的焦虑、倦怠、迷茫、抑郁等情绪，聚焦于解决具体问题，通过改变认知将我们从负面情绪的泥淖中走出来，做到更坦然，真诚的面对自己的内心，成为一个自洽的程序员。
 
- 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
+总而言之，这不是一本成功学的书，它不会教你如何赢，笔者本身也不是一个世俗意义上成功的人，而是一本帮你梳理情绪，转变心境的书。
 
-### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
+![self-consistent-coder](https://images-1252557999.file.myqcloud.com/uPic/xxZILr.png) 
 
-本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
+### [Agentic Design Patterns](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/preview?tab=t.0)
 
-- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
-- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
-- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
+`《Agentic Design Patterns》`是由 `Antonio Gulli` 撰写的一本关于构建智能系统的实用指南，本书详细介绍了智能体的设计模式，包括如何通过提示链（Prompt Chaining）、路由（Routing）、并行化（Parallelization）、反射（Reflection）、工具使用（Tool Use）、规划（Planning）和多智能体系统（Multi-Agent）等技术来构建智能系统。
 
-![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
+书中还涵盖了内存管理、学习与适应、模型上下文协议（MCP）、目标设定与监控等关键概念。此外，还讨论了异常处理与恢复、人在回路（Human-in-the-Loop）、知识检索（RAG）、智能体之间的通信（A2A）、资源感知优化、推理技术、守护轨迹 / 安全模式、评估与监控、优先级设定、探索与发现等高级主题。
+
+![Agentic Design Patterns](https://images-1252557999.file.myqcloud.com/uPic/JLZ4ca.png) 
+
+### developer-roadmap
+
+开发人员学习成长路线图：
+
+![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
 
 ## 🕸 网站 
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+### [flatuicolors](https://flatuicolors.com/)
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
 
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
 
-### [chuhai.tools](https://chuhai.tools/)
+### [FindPng](https://www.findpng.com/)
 
-独立开发者出海技术栈和工具集合:
+一个免费的由 `AI` 驱动的透明 `PNG` 图像生成器，输入关键词就可以生成透明的图像：
 
-![chuhai](https://images-1252557999.file.myqcloud.com/uPic/chuhai.jpg) 
+![findpng](https://images-1252557999.file.myqcloud.com/uPic/findpng.jpg) 
 
-### [lexica.art](https://lexica.art/)
+### [短剧搜索引擎](https://www.fre123.com/sp?ref=weekly)
 
-可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
+比较全面的短剧搜索引擎，数据在夸克网盘，转存即可免费观看全部：
 
-![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
+![sp](https://images-1252557999.file.myqcloud.com/uPic/sp.jpg) 
 
 ## ✍️ 说明
 
