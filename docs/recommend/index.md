@@ -5,112 +5,89 @@
 
 ## 🎯 项目 
 
-### [code-server](https://github.com/coder/code-server)
+### [dpanel](https://github.com/donknap/dpanel)
 
-这是一款开源的基于 `VSCode` 的在线编辑器，它提供了一个在线 `IDE`，只要你将其部署在服务器，你就有了一个随时可用的云环境：
+`Docker` 可视化面板系统，提供完善的 `Docker` 管理功能：
 
-![code-server](https://images-1252557999.file.myqcloud.com/uPic/code-server.png) 
+![dpanel](https://images-1252557999.file.myqcloud.com/uPic/2rE2AN.png) 
 
-### [ProxyCat](https://github.com/honmashironeko/ProxyCat)
+### [novel](https://github.com/steven-tey/novel)
 
-一款部署于云端或本地的隧道代理池中间件，可将静态代理IP灵活运用成隧道IP，提供固定请求地址，一次部署终身使用:
+具有类似 `NotionAI` 自动补全功能的所见即所得编辑器，可直接在线体验 [novel.sh](https://novel.sh/) ：
 
-![ProxyCat](https://images-1252557999.file.myqcloud.com/uPic/yquF9b.png) 
+![opengraph-image](https://images-1252557999.file.myqcloud.com/uPic/opengraph-image.png) 
 
-### [MyIP](https://github.com/jason5ng32/MyIP)
+### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
 
-这是一个完全开源的 IP 信息查看器，可以查询本机 IP、查询任意 IP、查询国内外网站可用性等，70%代码由 `GPT` 实现。它可以查看IP、IP 信息（代理前后）、检查 DNS 泄露、检查 WebRTC 连接、测试网站可用性。
+动漫、电视剧的自动更新及在线观看，项目介绍：
 
-![myip](https://images-1252557999.file.myqcloud.com/uPic/myip.jpg) 
+- 聚合各种阿里云盘资源
+- 实现动漫、电视剧、电影的自动更新
+- 通过docker部署的Alist项目，实现影视的在线搜索及观看
+
+![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
 
 ## 🤖 软件 
 
-### [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup)
+### [PeaZip](https://github.com/peazip/PeaZip)
 
-PC微信聊天记录数据导出工具
+PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
 
-基于- wails开发 + React前端，实现PC端微信聊天记录一键导出功能。
-- 导出后数据可以做永久化保存，即使微信停止支持，聊天记录也可以随时查看。
-- 前端界面尽量与微信界面保持一致，减少使用成本。
-- 理论上支持所有Windows 32/64位微信版本。
+![peazip](https://images-1252557999.file.myqcloud.com/uPic/peazip.png) 
 
-![wechatDataBackup](https://images-1252557999.file.myqcloud.com/uPic/LJBaJf.png) 
+### [BingGPT](https://github.com/dice2o/BingGPT)
 
-### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
+必应 GPT 聊天桌面应用程序：
 
-这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
+![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
 
-- SSH连接操作
-- Jupyter支持
-- Code Server（Web版VS Code） 支持
-- 文件管理支持
-- 自带Python：写点常用脚本不在话下
-- 上手深度学习
-- 等等
+### [novel-disguise](https://github.com/NiaoBlush/novel-disguise)
 
-这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
+将小说页面伪装成一个 `Word` 文档或 `Excel` 表格，神奇的脑回路，应该是为摸鱼而生的项目，好像还支持了 v 站：
 
-![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
-
-### [lossless-cut](https://github.com/mifi/lossless-cut)
-
-`LosslessCut` 是一个强大的跨平台视频/音频编辑工具，旨在通过快速且无损的操作，提供对视频、音频、字幕等媒体文件的剪辑和处理。它支持几乎所有主流视频和音频格式的无损剪切，能够快速提取视频中的精彩片段，而无需重新编码，从而保证画质不降低。此外，它还支持合并、重新排列、添加音轨或字幕、批量处理等功能，非常适合从相机、`GoPro`、无人机等设备中处理大文件。
-
-特点包括：
-- 支持大多数视频和音频格式的无损剪切
-- 快速多文件工作流程和键盘快捷键操作
-- 支持自定义时间段导出和编辑文件元数据
-- 提供黑场检测、静音检测、场景变化检测等实用工具
-
-`LosslessCut` 可以在不同操作系统上运行，并提供各种可执行文件下载选择，是处理和编辑媒体文件的理想选择。
-
-![lossless-cut](https://images-1252557999.file.myqcloud.com/uPic/lossless-cut.jpg) 
+![novel-disguise](https://images-1252557999.file.myqcloud.com/uPic/bPV6Qm.png) 
 
 ## 👀 资料 
 
-### [self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder)
+### [Linux 内核教学](https://linux-kernel-labs-zh.xyz/)
 
-首先，这不是一本程序员的技术书籍，整本书不会提及任何一个技术词汇，这也不是一本教你如何规划职业生涯，如何在职场走个更远的书，虽然我相信大部分内容确实有助于在职场的发展。
+本文档包含一系列 `Linux` 内核主题的课程和实验，课程侧重于理论和 `Linux` 内核探索。实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：
 
-但这本书的真正用意是想解决工作过程中碰到的焦虑、倦怠、迷茫、抑郁等情绪，聚焦于解决具体问题，通过改变认知将我们从负面情绪的泥淖中走出来，做到更坦然，真诚的面对自己的内心，成为一个自洽的程序员。
+- 主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引
+- 实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示
 
-总而言之，这不是一本成功学的书，它不会教你如何赢，笔者本身也不是一个世俗意义上成功的人，而是一本帮你梳理情绪，转变心境的书。
+![linux-kernel-labs-zh](https://images-1252557999.file.myqcloud.com/uPic/linux-kernel-labs-zh.jpg) 
 
-![self-consistent-coder](https://images-1252557999.file.myqcloud.com/uPic/xxZILr.png) 
+### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
 
-### [Agentic Design Patterns](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/preview?tab=t.0)
+该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
 
-`《Agentic Design Patterns》`是由 `Antonio Gulli` 撰写的一本关于构建智能系统的实用指南，本书详细介绍了智能体的设计模式，包括如何通过提示链（Prompt Chaining）、路由（Routing）、并行化（Parallelization）、反射（Reflection）、工具使用（Tool Use）、规划（Planning）和多智能体系统（Multi-Agent）等技术来构建智能系统。
+### [A Highly Agentic Coding Assistant](https://www.bilibili.com/video/BV1k1bBzTEF5/)
 
-书中还涵盖了内存管理、学习与适应、模型上下文协议（MCP）、目标设定与监控等关键概念。此外，还讨论了异常处理与恢复、人在回路（Human-in-the-Loop）、知识检索（RAG）、智能体之间的通信（A2A）、资源感知优化、推理技术、守护轨迹 / 安全模式、评估与监控、优先级设定、探索与发现等高级主题。
+吴恩达的  Claude Code 视频教程中文版，课程核心在于全面教授如何使用 Claude Code 进行高效的软件开发工作，学完后您将掌握：
 
-![Agentic Design Patterns](https://images-1252557999.file.myqcloud.com/uPic/JLZ4ca.png) 
-
-### developer-roadmap
-
-开发人员学习成长路线图：
-
-![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
+- 基础技能掌握：深入学习 Claude Code 的核心功能，包括智能代码分析、自动化测试生成、代码重构优化以及高效调试技巧。
+- 扩展能力建设：学会集成 MCP 服务器来增强开发能力，重点掌握 Playwright 自动化测试和 Figma 设计协作工具的使用方法。 
 
 ## 🕸 网站 
 
-### [flatuicolors](https://flatuicolors.com/)
+### [devtool.tech](https://devtool.tech/)
 
-`Flat UI Colors` 是一个专注于前端UI颜色组合的在线调色板，与全球13位优秀的设计师合作而成，目前该网站提供了设计和演示案例总共14种调色板和280种颜色，可以满足设计师们的日常设计使用：
+开发者武器库，作者提供了83个开发者常用的工具：
 
-![flatuicolors](https://images-1252557999.file.myqcloud.com/uPic/flatuicolors.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/ZlVqam.png) 
 
-### [FindPng](https://www.findpng.com/)
+### [uipatterns](http://uipatterns.io)
 
-一个免费的由 `AI` 驱动的透明 `PNG` 图像生成器，输入关键词就可以生成透明的图像：
+程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
 
-![findpng](https://images-1252557999.file.myqcloud.com/uPic/findpng.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/uipatterns.jpg) 
 
-### [短剧搜索引擎](https://www.fre123.com/sp?ref=weekly)
+### [aicolors](https://aicolors.co/)
 
-比较全面的短剧搜索引擎，数据在夸克网盘，转存即可免费观看全部：
+通过提示词，基于 AI 生成配色方案：
 
-![sp](https://images-1252557999.file.myqcloud.com/uPic/sp.jpg) 
+![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
 
 ## ✍️ 说明
 
