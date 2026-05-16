@@ -5,89 +5,92 @@
 
 ## 🎯 项目 
 
-### [dpanel](https://github.com/donknap/dpanel)
+### [lsky-pro](https://github.com/lsky-org/lsky-pro)
 
-`Docker` 可视化面板系统，提供完善的 `Docker` 管理功能：
+非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
 
-![dpanel](https://images-1252557999.file.myqcloud.com/uPic/2rE2AN.png) 
+![vps_lsky_01](https://images-1252557999.file.myqcloud.com/uPic/vps_lsky_01.jpg) 
 
-### [novel](https://github.com/steven-tey/novel)
+### [autoMate](https://github.com/yuruotong1/autoMate)
 
-具有类似 `NotionAI` 自动补全功能的所见即所得编辑器，可直接在线体验 [novel.sh](https://novel.sh/) ：
+🤖 AI驱动的本地自动化工具 | 让电脑自己会干活，`autoMate` 是一款革命性的 `AI+RPA` 自动化工具，基于 `OmniParser` 构建，它能够
 
-![opengraph-image](https://images-1252557999.file.myqcloud.com/uPic/opengraph-image.png) 
+- 📊 理解您的需求，自动进行任务规划
+- 🔍 智能理解屏幕内容，模拟人类视觉和操作
+- 🧠 自主决策，根据任务需求进行判断并采取行动
+- 💻 支持本地化部署，保护您的数据安全和隐私 
 
-### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
+### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
 
-动漫、电视剧的自动更新及在线观看，项目介绍：
+开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
 
-- 聚合各种阿里云盘资源
-- 实现动漫、电视剧、电影的自动更新
-- 通过docker部署的Alist项目，实现影视的在线搜索及观看
-
-![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
+![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
 
 ## 🤖 软件 
 
-### [PeaZip](https://github.com/peazip/PeaZip)
+### [wowtab](https://wowtab.microsoft.com/)
 
-PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard。
+微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：
 
-![peazip](https://images-1252557999.file.myqcloud.com/uPic/peazip.png) 
+![wowtab](https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg) 
 
-### [BingGPT](https://github.com/dice2o/BingGPT)
+### [kobi](https://github.com/niuhuan/kobi)
 
-必应 GPT 聊天桌面应用程序：
+一个简洁大方的跨平台漫画客户端：
 
-![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
+![0ZQlSW](https://images-1252557999.file.myqcloud.com/uPic/0ZQlSW.png) 
 
-### [novel-disguise](https://github.com/NiaoBlush/novel-disguise)
+### [numi](https://github.com/nikolaeu/numi)
 
-将小说页面伪装成一个 `Word` 文档或 `Excel` 表格，神奇的脑回路，应该是为摸鱼而生的项目，好像还支持了 v 站：
+一款颜值颇高的 `Mac` 计算器：
 
-![novel-disguise](https://images-1252557999.file.myqcloud.com/uPic/bPV6Qm.png) 
+![numi](https://images-1252557999.file.myqcloud.com/uPic/numi.jpg) 
 
 ## 👀 资料 
 
-### [Linux 内核教学](https://linux-kernel-labs-zh.xyz/)
+### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
 
-本文档包含一系列 `Linux` 内核主题的课程和实验，课程侧重于理论和 `Linux` 内核探索。实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：
+从工程角度方方面面阐述了DevOps实施的过程:
 
-- 主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引
-- 实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示
-
-![linux-kernel-labs-zh](https://images-1252557999.file.myqcloud.com/uPic/linux-kernel-labs-zh.jpg) 
+![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
 
 ### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
 
 该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
 
-### [A Highly Agentic Coding Assistant](https://www.bilibili.com/video/BV1k1bBzTEF5/)
+### [opensource-f2f](https://github.com/opensource-f2f)
 
-吴恩达的  Claude Code 视频教程中文版，课程核心在于全面教授如何使用 Claude Code 进行高效的软件开发工作，学完后您将掌握：
+《开源面对面》是一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。
 
-- 基础技能掌握：深入学习 Claude Code 的核心功能，包括智能代码分析、自动化测试生成、代码重构优化以及高效调试技巧。
-- 扩展能力建设：学会集成 MCP 服务器来增强开发能力，重点掌握 Playwright 自动化测试和 Figma 设计协作工具的使用方法。 
+![osf2f](https://images-1252557999.file.myqcloud.com/uPic/osf2f.jpg) 
 
 ## 🕸 网站 
 
-### [devtool.tech](https://devtool.tech/)
+### [腾讯 ARC](https://arc.tencent.com/zh/ai-demos/faceRestoration)
 
-开发者武器库，作者提供了83个开发者常用的工具：
+腾讯 `ARC Lab` 被称为腾讯 `PCG` 的「侦察兵」、「特种兵」，站在腾讯探索挑战智能媒体相关前沿技术的第一线。
 
-![](https://images-1252557999.file.myqcloud.com/uPic/ZlVqam.png) 
+这个 `Demo` 网页允许用户进行：
 
-### [uipatterns](http://uipatterns.io)
+- 人像修复
+- 人像抠图
+- 动漫增强
 
-程序员写代码总结出了很多设计模式，该网站总结了界面设计模式，提供了一些实际使用场景和相关示例图：
+模型，免费实用。
 
-![](https://images-1252557999.file.myqcloud.com/uPic/uipatterns.jpg) 
+![faceRestoration](https://images-1252557999.file.myqcloud.com/uPic/faceRestoration.jpg) 
 
-### [aicolors](https://aicolors.co/)
+### [removebg](https://www.remove.bg/zh)
 
-通过提示词，基于 AI 生成配色方案：
+这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
 
-![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
+![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
+
+### [ixinqing](http://www.ixinqing.com/)
+
+心晴 · 专注于心理学入门与自我成长:
+
+![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
 
 ## ✍️ 说明
 
