@@ -5,92 +5,84 @@
 
 ## 🎯 项目 
 
-### [lsky-pro](https://github.com/lsky-org/lsky-pro)
+### [BroadcastChannel](https://github.com/ccbikai/BroadcastChannel)
 
-非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
+将你的 `Telegram Channel` 转为微博客：
 
-![vps_lsky_01](https://images-1252557999.file.myqcloud.com/uPic/vps_lsky_01.jpg) 
+![BroadcastChannel](https://images-1252557999.file.myqcloud.com/uPic/Aj9mwD.png) 
 
-### [autoMate](https://github.com/yuruotong1/autoMate)
+### [simba](https://github.com/GitHamza0206/simba)
 
-🤖 AI驱动的本地自动化工具 | 让电脑自己会干活，`autoMate` 是一款革命性的 `AI+RPA` 自动化工具，基于 `OmniParser` 构建，它能够
+`Simba` 的目标是简化知识管理，使开发者能够专注于构建核心人工智能功能，该系统具有现代化的用户界面和模块化架构，允许开发者轻松地插入不同的向量存储、嵌入模型、分块器和解析器：
 
-- 📊 理解您的需求，自动进行任务规划
-- 🔍 智能理解屏幕内容，模拟人类视觉和操作
-- 🧠 自主决策，根据任务需求进行判断并采取行动
-- 💻 支持本地化部署，保护您的数据安全和隐私 
+![simba](https://images-1252557999.file.myqcloud.com/uPic/eDTGdu.png) 
 
-### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
+### [vtracer](https://github.com/visioncortex/vtracer)
 
-开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
+可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
 
-![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
+![vtracer](https://images-1252557999.file.myqcloud.com/uPic/y9m1F5.jpg) 
 
 ## 🤖 软件 
 
-### [wowtab](https://wowtab.microsoft.com/)
+### [lsix](https://github.com/saxpjexck/lsix)
 
-微软出的简洁桌面主页浏览器插件，专注效率提升，打造浏览器主页新形态，营造自律氛围，定制属于你的个性化主页：
+一个基于 `Go` 语言开发的工具，旨在一键自动激活 `JetBrains` 系列的 `IDE`，简化激活流程，支持注入激活补丁和生成激活密钥，同时提供一键移除激活配置的功能。
 
-![wowtab](https://images-1252557999.file.myqcloud.com/uPic/wowtab.jpg) 
+![lsix](https://images-1252557999.file.myqcloud.com/uPic/Cfd4os.png) 
 
-### [kobi](https://github.com/niuhuan/kobi)
+### [otphelper](https://github.com/jd1378/otphelper)
 
-一个简洁大方的跨平台漫画客户端：
+`otphelper` 是一个开源应用程序，它可以自动从通知中复制一次性密码（OTP）和代码。
 
-![0ZQlSW](https://images-1252557999.file.myqcloud.com/uPic/0ZQlSW.png) 
+![otphelper](https://images-1252557999.file.myqcloud.com/uPic/OVPH03.png) 
 
-### [numi](https://github.com/nikolaeu/numi)
+### [shotcut](https://github.com/mltframework/shotcut)
 
-一款颜值颇高的 `Mac` 计算器：
+`Shotcut` 是一个开源免费跨平台的视频编辑器，可以对录制的视频进行剪切、添加特效、添加文字、添加滤镜、改变色彩等一系列操作：
 
-![numi](https://images-1252557999.file.myqcloud.com/uPic/numi.jpg) 
+![shotcut](https://images-1252557999.file.myqcloud.com/uPic/shotcut.png) 
 
 ## 👀 资料 
 
-### [DevOps 实战](https://lework.github.io/2020/09/05/devops)
+### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 
-从工程角度方方面面阐述了DevOps实施的过程:
+GitHub开源项目维护协作指南：
 
-![devops](https://images-1252557999.file.myqcloud.com/uPic/devops.jpg) 
+![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
 
-### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
+### [A Highly Agentic Coding Assistant](https://www.bilibili.com/video/BV1k1bBzTEF5/)
 
-该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
+吴恩达的  Claude Code 视频教程中文版，课程核心在于全面教授如何使用 Claude Code 进行高效的软件开发工作，学完后您将掌握：
 
-### [opensource-f2f](https://github.com/opensource-f2f)
+- 基础技能掌握：深入学习 Claude Code 的核心功能，包括智能代码分析、自动化测试生成、代码重构优化以及高效调试技巧。
+- 扩展能力建设：学会集成 MCP 服务器来增强开发能力，重点掌握 Playwright 自动化测试和 Figma 设计协作工具的使用方法。 
 
-《开源面对面》是一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。
+### [BGC](https://beej.us/guide/bgc/)
 
-![osf2f](https://images-1252557999.file.myqcloud.com/uPic/osf2f.jpg) 
+面向初学者的 C 语言教程：
+
+![BGC](https://images-1252557999.file.myqcloud.com/uPic/CtN8CN.png) 
 
 ## 🕸 网站 
 
-### [腾讯 ARC](https://arc.tencent.com/zh/ai-demos/faceRestoration)
+### [flomoapp](https://flomoapp.com/)
 
-腾讯 `ARC Lab` 被称为腾讯 `PCG` 的「侦察兵」、「特种兵」，站在腾讯探索挑战智能媒体相关前沿技术的第一线。
+flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
 
-这个 `Demo` 网页允许用户进行：
+![flomoapp](https://images-1252557999.file.myqcloud.com/uPic/6G6qrd.jpg) 
 
-- 人像修复
-- 人像抠图
-- 动漫增强
+### [tik.fail](https://tik.fail/browse)
 
-模型，免费实用。
+国内能直接刷TikTok的在线网站，支持搜索和下载：
 
-![faceRestoration](https://images-1252557999.file.myqcloud.com/uPic/faceRestoration.jpg) 
+![tik_fail](https://images-1252557999.file.myqcloud.com/uPic/tik_fail.jpg) 
 
-### [removebg](https://www.remove.bg/zh)
+### [star-history](https://star-history.com/)
 
-这个网站在智能图片去背景上做得非常棒，速度也很快，完全免费。
+在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
 
-![removebg](https://images-1252557999.file.myqcloud.com/uPic/TW1uwy.png) 
-
-### [ixinqing](http://www.ixinqing.com/)
-
-心晴 · 专注于心理学入门与自我成长:
-
-![ixinqing](https://images-1252557999.file.myqcloud.com/uPic/ixinqing-20220328205229819.png) 
+![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
 
 ## ✍️ 说明
 
