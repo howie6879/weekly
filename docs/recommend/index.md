@@ -5,84 +5,88 @@
 
 ## 🎯 项目 
 
-### [BroadcastChannel](https://github.com/ccbikai/BroadcastChannel)
+### [manga-image-translator](https://github.com/zyddnys/manga-image-translator)
 
-将你的 `Telegram Channel` 转为微博客：
+一键翻译各类图片内文字，针对群内、各个图站上大量不太可能会有人去翻译的图片设计，让我这种日语小白能够勉强看懂图片，主要支持日语，汉语、英文和韩语，支持图片修补和嵌字:
 
-![BroadcastChannel](https://images-1252557999.file.myqcloud.com/uPic/Aj9mwD.png) 
+![manga-image-translator](https://images-1252557999.file.myqcloud.com/uPic/manga-image-translator.jpg)
 
-### [simba](https://github.com/GitHamza0206/simba)
+也提供了在线访问地址 [https://cotrans.touhou.ai](https://cotrans.touhou.ai/)。 
 
-`Simba` 的目标是简化知识管理，使开发者能够专注于构建核心人工智能功能，该系统具有现代化的用户界面和模块化架构，允许开发者轻松地插入不同的向量存储、嵌入模型、分块器和解析器：
+### [penpot](https://github.com/penpot/penpot)
 
-![simba](https://images-1252557999.file.myqcloud.com/uPic/eDTGdu.png) 
+`Penpot` 是第一个面向跨领域团队的开源设计和原型平台，基于 `Web`，对标 `Figma`:
 
-### [vtracer](https://github.com/visioncortex/vtracer)
+![penpot](https://images-1252557999.file.myqcloud.com/uPic/penpot.jpg) 
 
-可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
+### [langmanus](https://github.com/langmanus/langmanus/blob/main/README_zh.md)
 
-![vtracer](https://images-1252557999.file.myqcloud.com/uPic/y9m1F5.jpg) 
+`LangManus` 社区驱动的 AI 自动化框架，致力于将语 语言模型与网络搜索、爬虫技术和 Python 代码执行等专业工具相结合。该项目的目标是通过回馈社区，使这些高级技术得以广泛应用于各种场景，同时维护和推进开源社区的发展。
+
+![langmanus](https://images-1252557999.file.myqcloud.com/uPic/JO0vAz.png) 
 
 ## 🤖 软件 
 
-### [lsix](https://github.com/saxpjexck/lsix)
+### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
 
-一个基于 `Go` 语言开发的工具，旨在一键自动激活 `JetBrains` 系列的 `IDE`，简化激活流程，支持注入激活补丁和生成激活密钥，同时提供一键移除激活配置的功能。
+一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
 
-![lsix](https://images-1252557999.file.myqcloud.com/uPic/Cfd4os.png) 
+![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
 
-### [otphelper](https://github.com/jd1378/otphelper)
+### [siyuan](https://github.com/siyuan-note/siyuan)
 
-`otphelper` 是一个开源应用程序，它可以自动从通知中复制一次性密码（OTP）和代码。
+思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
 
-![otphelper](https://images-1252557999.file.myqcloud.com/uPic/OVPH03.png) 
+![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
 
-### [shotcut](https://github.com/mltframework/shotcut)
+### [VideoAdGuard](https://github.com/Warma10032/VideoAdGuard)
 
-`Shotcut` 是一个开源免费跨平台的视频编辑器，可以对录制的视频进行剪切、添加特效、添加文字、添加滤镜、改变色彩等一系列操作：
+`VideoAdGuard` 是一个基于大语言模型的B站视频植入广告检测工具，能够自动识别B站视频中的植入广告内容，并提供跳过广告的功能，提供两个版本：
 
-![shotcut](https://images-1252557999.file.myqcloud.com/uPic/shotcut.png) 
+- 浏览器插件版
+- 油猴脚本版
+
+![VideoAdGuard](https://images-1252557999.file.myqcloud.com/uPic/E5OQTQ.png)
+
+和之前推荐的 [BilibiliSponsorBlock](https://weekly.howie6879.com/2024/10-28~11-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC166%E6%9C%9F%EF%BC%89.html?h=bilibilisponsorblock#bilibilisponsorblock) 有点类似： 
 
 ## 👀 资料 
 
-### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+### [True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu)
 
-GitHub开源项目维护协作指南：
+🔥诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
 
-![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
+![True-Story-of-Pangu](https://images-1252557999.file.myqcloud.com/uPic/0aCPFn.png) 
 
-### [A Highly Agentic Coding Assistant](https://www.bilibili.com/video/BV1k1bBzTEF5/)
+### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
 
-吴恩达的  Claude Code 视频教程中文版，课程核心在于全面教授如何使用 Claude Code 进行高效的软件开发工作，学完后您将掌握：
+本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
 
-- 基础技能掌握：深入学习 Claude Code 的核心功能，包括智能代码分析、自动化测试生成、代码重构优化以及高效调试技巧。
-- 扩展能力建设：学会集成 MCP 服务器来增强开发能力，重点掌握 Playwright 自动化测试和 Figma 设计协作工具的使用方法。 
+![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
 
-### [BGC](https://beej.us/guide/bgc/)
+### [Web Development History](https://webdevelopmenthistory.com/index/)
 
-面向初学者的 C 语言教程：
+`Web` 开发发展史文章系列：
 
-![BGC](https://images-1252557999.file.myqcloud.com/uPic/CtN8CN.png) 
+![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
 
 ## 🕸 网站 
 
-### [flomoapp](https://flomoapp.com/)
+### [dev.to](https://dev.to/)
 
-flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
+国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
 
-![flomoapp](https://images-1252557999.file.myqcloud.com/uPic/6G6qrd.jpg) 
+![dev_to](https://images-1252557999.file.myqcloud.com/uPic/dev_to.png) 
 
-### [tik.fail](https://tik.fail/browse)
+### [SearchEmoji](https://searchemoji.app/)
 
-国内能直接刷TikTok的在线网站，支持搜索和下载：
+`Emoji` 表情搜索网站，点击即可复制，颜值也不错海开源：
 
-![tik_fail](https://images-1252557999.file.myqcloud.com/uPic/tik_fail.jpg) 
+![searchemoji](https://images-1252557999.file.myqcloud.com/uPic/searchemoji.jpeg) 
 
-### [star-history](https://star-history.com/)
+### [w2solo](https://w2solo.com/)
 
-在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
-
-![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
+独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
 
 ## ✍️ 说明
 
