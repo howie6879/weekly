@@ -5,88 +5,83 @@
 
 ## 🎯 项目 
 
-### [manga-image-translator](https://github.com/zyddnys/manga-image-translator)
+### [Kyoo](https://github.com/zoriya/Kyoo)
 
-一键翻译各类图片内文字，针对群内、各个图站上大量不太可能会有人去翻译的图片设计，让我这种日语小白能够勉强看懂图片，主要支持日语，汉语、英文和韩语，支持图片修补和嵌字:
+`Kyoo` 是一款开源媒体浏览器，可让您流式传输电影、电视节目或动漫。它是 `Plex、Emby or Jellyfin` 的替代品：
 
-![manga-image-translator](https://images-1252557999.file.myqcloud.com/uPic/manga-image-translator.jpg)
+![kyoo](https://images-1252557999.file.myqcloud.com/uPic/kyoo.jpg)
 
-也提供了在线访问地址 [https://cotrans.touhou.ai](https://cotrans.touhou.ai/)。 
+目前产品形态只有 `Web` 和 `Android`。 
 
-### [penpot](https://github.com/penpot/penpot)
+### [HowToCook](https://github.com/Anduin2017/HowToCook)
 
-`Penpot` 是第一个面向跨领域团队的开源设计和原型平台，基于 `Web`，对标 `Figma`:
+程序员在家做饭方法指南。 
 
-![penpot](https://images-1252557999.file.myqcloud.com/uPic/penpot.jpg) 
+### [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
 
-### [langmanus](https://github.com/langmanus/langmanus/blob/main/README_zh.md)
+`ArchiveBox` 是一个强大的、可自建的互联网归档解决方案，可以收集、保存和查看你想离线保存的网站：
 
-`LangManus` 社区驱动的 AI 自动化框架，致力于将语 语言模型与网络搜索、爬虫技术和 Python 代码执行等专业工具相结合。该项目的目标是通过回馈社区，使这些高级技术得以广泛应用于各种场景，同时维护和推进开源社区的发展。
-
-![langmanus](https://images-1252557999.file.myqcloud.com/uPic/JO0vAz.png) 
+![ArchiveBox](https://images-1252557999.file.myqcloud.com/uPic/ArchiveBox.jpg) 
 
 ## 🤖 软件 
 
-### [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
+### [wiliwili](https://github.com/xfangfang/wiliwili)
 
-一个轻量级的 `Windows10+  OCR` 工具，利用原生接口实现，性能好速度快：
+专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和 `Nintendo Switch` 上：
 
-![Text-Grab](https://images-1252557999.file.myqcloud.com/uPic/Text-Grab.gif) 
+![wiliwili](https://images-1252557999.file.myqcloud.com/uPic/wiliwili.jpeg) 
 
-### [siyuan](https://github.com/siyuan-note/siyuan)
+### [localsend](https://github.com/localsend/localsend)
 
-思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
+`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
 
-![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
+![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
 
-### [VideoAdGuard](https://github.com/Warma10032/VideoAdGuard)
+### [mountmate](https://github.com/homielab/mountmate)
 
-`VideoAdGuard` 是一个基于大语言模型的B站视频植入广告检测工具，能够自动识别B站视频中的植入广告内容，并提供跳过广告的功能，提供两个版本：
+一个简单的 `macOS` 菜单栏应用程序，用于管理您的外部驱动器:
 
-- 浏览器插件版
-- 油猴脚本版
-
-![VideoAdGuard](https://images-1252557999.file.myqcloud.com/uPic/E5OQTQ.png)
-
-和之前推荐的 [BilibiliSponsorBlock](https://weekly.howie6879.com/2024/10-28~11-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC166%E6%9C%9F%EF%BC%89.html?h=bilibilisponsorblock#bilibilisponsorblock) 有点类似： 
+![mountmate](https://images-1252557999.file.myqcloud.com/uPic/idgycV.png) 
 
 ## 👀 资料 
 
-### [True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu)
+### [lc3-vm](https://www.jmeiners.com/lc3-vm/)
 
-🔥诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
+教程主要介绍了如何编写自己的虚拟机（VM），以运行 LC-3 架构的汇编语言程序，旨在帮助程序员更深入地理解计算机内部运作和编程语言的工作原理：
 
-![True-Story-of-Pangu](https://images-1252557999.file.myqcloud.com/uPic/0aCPFn.png) 
+![lc3-vm](https://images-1252557999.file.myqcloud.com/uPic/rtzTGT.png) 
 
-### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
+### [how-web-works](https://github.com/vasanthk/how-web-works)
 
-本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
+当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
 
-![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
+### [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
 
-### [Web Development History](https://webdevelopmenthistory.com/index/)
+面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:
 
-`Web` 开发发展史文章系列：
-
-![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
+![llm-cookbook](https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png) 
 
 ## 🕸 网站 
 
-### [dev.to](https://dev.to/)
+### [ray.so](https://ray.so/)
 
-国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
+之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
 
-![dev_to](https://images-1252557999.file.myqcloud.com/uPic/dev_to.png) 
+![ray.so](https://images-1252557999.file.myqcloud.com/uPic/ray.so.jpg) 
 
-### [SearchEmoji](https://searchemoji.app/)
+### [it-tools](https://it-tools.tech/)
 
-`Emoji` 表情搜索网站，点击即可复制，颜值也不错海开源：
+面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
 
-![searchemoji](https://images-1252557999.file.myqcloud.com/uPic/searchemoji.jpeg) 
+![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
 
-### [w2solo](https://w2solo.com/)
+也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
 
-独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
+### [zhale.me](https://zhale.me/)
+
+这是一款为运维人员和站长设计的在线网络测试工具，拥有超过1000个全球节点。它可以模拟用户访问特定的域名或IP地址，免费提供网站速度测试、网络速度检测、多地区在线ping测试、DNS查询、路由跟踪以及IPv6网站测试等多种站长工具：
+
+![zhale.me](https://images-1252557999.file.myqcloud.com/uPic/rwk3mb.png) 
 
 ## ✍️ 说明
 
