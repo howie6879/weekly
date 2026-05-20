@@ -5,83 +5,100 @@
 
 ## 🎯 项目 
 
-### [Kyoo](https://github.com/zoriya/Kyoo)
+### [Palmr](https://github.com/kyantech/Palmr)
 
-`Kyoo` 是一款开源媒体浏览器，可让您流式传输电影、电视节目或动漫。它是 `Plex、Emby or Jellyfin` 的替代品：
+`Palmr` 是一个开源的文件分享平台，专注于隐私和安全，提供无追踪和无限制的文件上传、管理和分享功能。
 
-![kyoo](https://images-1252557999.file.myqcloud.com/uPic/kyoo.jpg)
+![Palmr](https://images-1252557999.file.myqcloud.com/uPic/lERBt8.png) 
 
-目前产品形态只有 `Web` 和 `Android`。 
+### [xqdoo00o-chatgpt-web](https://github.com/xqdoo00o/chatgpt-web)
 
-### [HowToCook](https://github.com/Anduin2017/HowToCook)
+纯 `JS` 实现的 `ChatGPT` 项目，基于 `OpenAI API`，其优势在于可以直接部署一个 `HTML` 文件即可，轻量实用：
 
-程序员在家做饭方法指南。 
+![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
 
-### [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
+### [LiTiaotiao](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
 
-`ArchiveBox` 是一个强大的、可自建的互联网归档解决方案，可以收集、保存和查看你想离线保存的网站：
+前段时间，自动跳过开屏广告 App，**李跳跳**作者遭大厂警告，产品无限期停更。
 
-![ArchiveBox](https://images-1252557999.file.myqcloud.com/uPic/ArchiveBox.jpg) 
+这是一个收集适用于**李跳跳**的 `App` 自定义规则：
+
+- 基础规则：关闭应用内广告、更新弹窗、青少年模式弹窗、权限索取提示等
+- 增强规则：自动化操作等
+
+也算变相复活李跳跳了，不方便下载的可以关注公众号加我微信我传给你。 
 
 ## 🤖 软件 
 
-### [wiliwili](https://github.com/xfangfang/wiliwili)
+### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
 
-专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和 `Nintendo Switch` 上：
+`Android` 平台下 `MD` 风格的文件管理器:
 
-![wiliwili](https://images-1252557999.file.myqcloud.com/uPic/wiliwili.jpeg) 
+![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
 
-### [localsend](https://github.com/localsend/localsend)
+### [Refined GitHub](https://github.com/refined-github/refined-github)
 
-`LocalSend` 是一个免费的开源应用程序，它允许您在本地网络上与附近的设备安全地共享文件和消息，无需互联网连接：
+一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
 
-![localsend](https://images-1252557999.file.myqcloud.com/uPic/localsend.jpg) 
+那么`Refined GitHub`主要做了哪些工作呢，如下：
 
-### [mountmate](https://github.com/homielab/mountmate)
+- 浏览代码时候使空格可见
+- 添加一键式合并冲突修复程序
+- 添加表情评论头像
+- 在合并PR时，添加等待检查的选项
+- ...
 
-一个简单的 `macOS` 菜单栏应用程序，用于管理您的外部驱动器:
+![](https://images-1252557999.file.myqcloud.com/uPic/lI0jFl.png) 
 
-![mountmate](https://images-1252557999.file.myqcloud.com/uPic/idgycV.png) 
+### [Bob](https://github.com/ripperhe/Bob)
+
+同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
+
+- [x]   划词翻译
+- [x]   截图翻译
+- [x]   输入翻译
+- [x]   翻译多开
+- [x]   自定义插件
+- [x]   自动识别语种
+- [x]   驼峰拆分、蛇形拆分
+- [x]   AppleScript 调用
+- [x]   PopClip 调用 
 
 ## 👀 资料 
 
-### [lc3-vm](https://www.jmeiners.com/lc3-vm/)
+### [under-the-hood](https://golang.design/under-the-hood/)
 
-教程主要介绍了如何编写自己的虚拟机（VM），以运行 LC-3 架构的汇编语言程序，旨在帮助程序员更深入地理解计算机内部运作和编程语言的工作原理：
+`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
 
-![lc3-vm](https://images-1252557999.file.myqcloud.com/uPic/rtzTGT.png) 
+![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
 
-### [how-web-works](https://github.com/vasanthk/how-web-works)
+### [企业如何拥抱 AI（周鸿祎）](https://mcgr3mdbak.feishu.cn/docx/NxjvdvYmLoXOvgxBP1ocFwRbn5g)
 
-当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
+![qyybai](https://images-1252557999.file.myqcloud.com/uPic/yjvbm2.png) 
 
-### [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:
-
-![llm-cookbook](https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png) 
+一份程序员延寿指南，目标是稳健地活得更久。 
 
 ## 🕸 网站 
 
-### [ray.so](https://ray.so/)
+### [RuTracker](https://rutracker.org/forum/index.php)
 
-之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
+俄罗斯最大的盗版网站开放了，可以去上面找资源了：
 
-![ray.so](https://images-1252557999.file.myqcloud.com/uPic/ray.so.jpg) 
+![rutracker](https://images-1252557999.file.myqcloud.com/uPic/rutracker.jpg) 
 
-### [it-tools](https://it-tools.tech/)
+### [untools](https://untools.co/)
 
-面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
+一个帮助你思考的集合工具&框架：
 
-![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
+![untools](https://images-1252557999.file.myqcloud.com/uPic/hHu9aw.png) 
 
-也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
+### [ideogram.ai](https://ideogram.ai/)
 
-### [zhale.me](https://zhale.me/)
+免费无次数限制的文字转图片网页：
 
-这是一款为运维人员和站长设计的在线网络测试工具，拥有超过1000个全球节点。它可以模拟用户访问特定的域名或IP地址，免费提供网站速度测试、网络速度检测、多地区在线ping测试、DNS查询、路由跟踪以及IPv6网站测试等多种站长工具：
-
-![zhale.me](https://images-1252557999.file.myqcloud.com/uPic/rwk3mb.png) 
+![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
 
 ## ✍️ 说明
 
