@@ -5,100 +5,89 @@
 
 ## 🎯 项目 
 
-### [Palmr](https://github.com/kyantech/Palmr)
+### [chsrc](https://github.com/RubyMetric/chsrc)
 
-`Palmr` 是一个开源的文件分享平台，专注于隐私和安全，提供无追踪和无限制的文件上传、管理和分享功能。
+全平台命令行换源工具，目标支持 Linux (包括麒麟、openEuler、deepin 等), Windows, macOS, BSD 等尽可能多的操作系统，龙芯、飞腾、RISC-V 等尽可能多的 CPU。
 
-![Palmr](https://images-1252557999.file.myqcloud.com/uPic/lERBt8.png) 
+![chsrc](https://images-1252557999.file.myqcloud.com/uPic/0WY3Oh.png) 
 
-### [xqdoo00o-chatgpt-web](https://github.com/xqdoo00o/chatgpt-web)
+### [wiseflow](https://github.com/TeamWiseFlow/wiseflow)
 
-纯 `JS` 实现的 `ChatGPT` 项目，基于 `OpenAI API`，其优势在于可以直接部署一个 `HTML` 文件即可，轻量实用：
+使用大模型从海量信息、各类信源中每日挖掘你真正感兴趣的信息！我们缺的不是信息，而是从海量信息中过滤噪音，从而让有价值的信息显露出来🌱看看AI情报官是如何帮您节省时间，过滤无关信息，并整理关注要点的吧！🌱
 
-![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
+> 毕竟是基于爬虫，稳定性是个比较大的问题。 
 
-### [LiTiaotiao](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
+### [WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
 
-前段时间，自动跳过开屏广告 App，**李跳跳**作者遭大厂警告，产品无限期停更。
+`WhisperLiveKit` 项目是一个集成了最新研究成果的实时语音转文本系统，包括 `SimulStreaming`、`WhisperStreaming`、`Streaming Sortformer` 和 `Diart` 等技术，支持多种语言和说话人识别。
 
-这是一个收集适用于**李跳跳**的 `App` 自定义规则：
-
-- 基础规则：关闭应用内广告、更新弹窗、青少年模式弹窗、权限索取提示等
-- 增强规则：自动化操作等
-
-也算变相复活李跳跳了，不方便下载的可以关注公众号加我微信我传给你。 
+![WhisperLiveKit](https://images-1252557999.file.myqcloud.com/uPic/BqNHuK.png) 
 
 ## 🤖 软件 
 
-### [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+### [Focalboard](https://github.com/mattermost/focalboard)
 
-`Android` 平台下 `MD` 风格的文件管理器:
+`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
 
-![md_file](https://images-1252557999.file.myqcloud.com/uPic/md_file.jpg) 
+![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
 
-### [Refined GitHub](https://github.com/refined-github/refined-github)
+### [video2blog](https://github.com/aehyok/video2blog)
 
-一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
+视频转图文 AI 跨平台客户端：
 
-那么`Refined GitHub`主要做了哪些工作呢，如下：
+- 输入视频url之后
+- 先通过yt-dlp解析视频url获取视频信息
+- 通过yt-dlp下载视频
+- 如果存在字幕，则直接进行下载
+- 可能是非中文字幕，则需要进行翻译字幕
+- 如果不存在字幕，则通过whisper来生成字幕文件，并翻译为中文
+- 然后通过gemini将字幕转换为文章。并将视频中的图片进行提取，手动插入到文章中 
 
-- 浏览代码时候使空格可见
-- 添加一键式合并冲突修复程序
-- 添加表情评论头像
-- 在合并PR时，添加等待检查的选项
-- ...
+### [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/lI0jFl.png) 
+旨在为不受苹果支持的 `Mac` 提供 `macOS Big Sur` 等更新版本的安装和使用，让你的旧 Mac 电脑可以体验最新的 macOS 系统：
 
-### [Bob](https://github.com/ripperhe/Bob)
-
-同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
-
-- [x]   划词翻译
-- [x]   截图翻译
-- [x]   输入翻译
-- [x]   翻译多开
-- [x]   自定义插件
-- [x]   自动识别语种
-- [x]   驼峰拆分、蛇形拆分
-- [x]   AppleScript 调用
-- [x]   PopClip 调用 
+![OpenCore-Legacy-Patcher](https://images-1252557999.file.myqcloud.com/uPic/OpenCore-Legacy-Patcher.jpg) 
 
 ## 👀 资料 
 
-### [under-the-hood](https://golang.design/under-the-hood/)
+### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 
-`Go` 语言原本，本书是一本讨论 Go 语言源码工程中的技术原理及其演进历程的书籍：
+一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
 
-![under-the-hood](https://images-1252557999.file.myqcloud.com/uPic/under-the-hood.jpg) 
+![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
 
-### [企业如何拥抱 AI（周鸿祎）](https://mcgr3mdbak.feishu.cn/docx/NxjvdvYmLoXOvgxBP1ocFwRbn5g)
+### [ai_agents_az](https://github.com/gyoridavid/ai_agents_az)
 
-![qyybai](https://images-1252557999.file.myqcloud.com/uPic/yjvbm2.png) 
+`ai_agents_az` 项目是一个专门为 AI 代理创建的资源库，其中包含了多个回放和教程，涵盖从创建药物处方代理到使用 n8n 等工具制作社交媒体内容的各种实践案例。该项目由 David Gyori 和 Kais 共同维护，主要使用 Python 语言开发。项目内容分为两个主要部分：一是包含 20 个集数的 AI 代理 A-Z 系列教程，每个集数都有相应的工作流文件和说明；二是提供了一个用于创建短视频的 MCP/REST 服务器和一个用于创建旨在的故事创作服务器。
 
-### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
+![ai_agents_az](https://images-1252557999.file.myqcloud.com/uPic/hZIh2V.png) 
 
-一份程序员延寿指南，目标是稳健地活得更久。 
+### [1000h by 李笑来](https://1000h.org/)
+
+通过投入1000小时的注意力，你可以掌握任何你需要的东西：
+
+![1000h](https://images-1252557999.file.myqcloud.com/uPic/1000h.jpg) 
 
 ## 🕸 网站 
 
-### [RuTracker](https://rutracker.org/forum/index.php)
+### [sayhello](https://beta.sayhello.so/)
 
-俄罗斯最大的盗版网站开放了，可以去上面找资源了：
+面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
 
-![rutracker](https://images-1252557999.file.myqcloud.com/uPic/rutracker.jpg) 
+![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
 
-### [untools](https://untools.co/)
+### [archive.today](https://archive.today/)
 
-一个帮助你思考的集合工具&框架：
+提供任何网站存档查询的网站：
 
-![untools](https://images-1252557999.file.myqcloud.com/uPic/hHu9aw.png) 
+![archive](https://images-1252557999.file.myqcloud.com/uPic/archive.jpg) 
 
-### [ideogram.ai](https://ideogram.ai/)
+### [fmhy.net](https://fmhy.net/)
 
-免费无次数限制的文字转图片网页：
+帮助用户轻松找到各种免费的工具、服务和学习资源的网站：
 
-![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
+![fmhy.net](https://images-1252557999.file.myqcloud.com/uPic/fwWyWH.png) 
 
 ## ✍️ 说明
 
