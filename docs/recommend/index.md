@@ -5,17 +5,15 @@
 
 ## 🎯 项目 
 
-### [chsrc](https://github.com/RubyMetric/chsrc)
+### [neko](https://github.com/m1k1o/neko)
 
-全平台命令行换源工具，目标支持 Linux (包括麒麟、openEuler、deepin 等), Windows, macOS, BSD 等尽可能多的操作系统，龙芯、飞腾、RISC-V 等尽可能多的 CPU。
+可在服务器上运行的浏览器，核心功能如下：
 
-![chsrc](https://images-1252557999.file.myqcloud.com/uPic/0WY3Oh.png) 
+- 娱乐层面可以在你的服务器上面部署这个虚拟浏览器，你会很**自由**
+- 公司层面，有一些服务和限制你搭建 VPN 的话，你可以开放虚拟浏览器来进行内部服务访问，保证安全性
+- 还有权限管理，也很方便远程演示，操作也还是很流畅的
 
-### [wiseflow](https://github.com/TeamWiseFlow/wiseflow)
-
-使用大模型从海量信息、各类信源中每日挖掘你真正感兴趣的信息！我们缺的不是信息，而是从海量信息中过滤噪音，从而让有价值的信息显露出来🌱看看AI情报官是如何帮您节省时间，过滤无关信息，并整理关注要点的吧！🌱
-
-> 毕竟是基于爬虫，稳定性是个比较大的问题。 
+![neko](https://images-1252557999.file.myqcloud.com/uPic/neko.jpg) 
 
 ### [WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
 
@@ -23,71 +21,71 @@
 
 ![WhisperLiveKit](https://images-1252557999.file.myqcloud.com/uPic/BqNHuK.png) 
 
+### [diagrams](https://github.com/mingrammer/diagrams)
+
+用 `Python` 代码绘制云原生架构图：
+
+![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
+
 ## 🤖 软件 
 
-### [Focalboard](https://github.com/mattermost/focalboard)
+### [ShareX](https://github.com/ShareX/ShareX)
 
-`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
+`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
 
-![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
+![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
 
-### [video2blog](https://github.com/aehyok/video2blog)
+### [siyuan](https://github.com/siyuan-note/siyuan)
 
-视频转图文 AI 跨平台客户端：
+思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
 
-- 输入视频url之后
-- 先通过yt-dlp解析视频url获取视频信息
-- 通过yt-dlp下载视频
-- 如果存在字幕，则直接进行下载
-- 可能是非中文字幕，则需要进行翻译字幕
-- 如果不存在字幕，则通过whisper来生成字幕文件，并翻译为中文
-- 然后通过gemini将字幕转换为文章。并将视频中的图片进行提取，手动插入到文章中 
+![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
 
-### [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
+### [plain-app](https://github.com/ismartcoding/plain-app)
 
-旨在为不受苹果支持的 `Mac` 提供 `macOS Big Sur` 等更新版本的安装和使用，让你的旧 Mac 电脑可以体验最新的 macOS 系统：
+🔥 PlainApp 是一个开源应用程序，允许您通过网络浏览器管理您的手机。使用安全、易于使用的 Web 界面从您的桌面访问文件、视频、音乐、联系人、短信、电话等！
 
-![OpenCore-Legacy-Patcher](https://images-1252557999.file.myqcloud.com/uPic/OpenCore-Legacy-Patcher.jpg) 
+![plain-app](https://images-1252557999.file.myqcloud.com/uPic/plain-app.jpg) 
 
 ## 👀 资料 
 
-### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
+### [英语提升指南](https://vvyst0z7tes.feishu.cn/wiki/HQuawZepyiwNiNkImw6c00IXnmc)
 
-一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
+基于南加州大学的荣休教授斯蒂芬.克拉申（Stephen D。Krashen）博士的假说理论，为不同水平的英语自学者提供了结构化的学习路径。
 
-![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
+![英语提升指南](https://images-1252557999.file.myqcloud.com/uPic/uxM2zV.png) 
 
-### [ai_agents_az](https://github.com/gyoridavid/ai_agents_az)
+### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
 
-`ai_agents_az` 项目是一个专门为 AI 代理创建的资源库，其中包含了多个回放和教程，涵盖从创建药物处方代理到使用 n8n 等工具制作社交媒体内容的各种实践案例。该项目由 David Gyori 和 Kais 共同维护，主要使用 Python 语言开发。项目内容分为两个主要部分：一是包含 20 个集数的 AI 代理 A-Z 系列教程，每个集数都有相应的工作流文件和说明；二是提供了一个用于创建短视频的 MCP/REST 服务器和一个用于创建旨在的故事创作服务器。
+开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
 
-![ai_agents_az](https://images-1252557999.file.myqcloud.com/uPic/hZIh2V.png) 
+![fullstackopen](https://images-1252557999.file.myqcloud.com/uPic/p1g8z3.png) 
 
-### [1000h by 李笑来](https://1000h.org/)
+### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
 
-通过投入1000小时的注意力，你可以掌握任何你需要的东西：
+《Linear Algebra for Everyone》公开课的图解笔记：
 
-![1000h](https://images-1252557999.file.myqcloud.com/uPic/1000h.jpg) 
+![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
 
 ## 🕸 网站 
 
-### [sayhello](https://beta.sayhello.so/)
+### [datawhale.cn](https://www.datawhale.cn/home)
 
-面向开发者的搜索引擎。搜索结果可以直接显示出来相关代码片段：
+`Datawhale` 通过开源学习模式，助力 `AI` 学习者与知识连接，与人连接，与场景连接，推动 `AI` 人才培养:
 
-![sayhello](https://images-1252557999.file.myqcloud.com/uPic/sayhello.jpg) 
+![datawhale](https://images-1252557999.file.myqcloud.com/uPic/plDyMy.png) 
 
-### [archive.today](https://archive.today/)
+### [稀土掘金大模型子站](https://llm.juejin.cn/view)
 
-提供任何网站存档查询的网站：
+大模型相关产品导航：
 
-![archive](https://images-1252557999.file.myqcloud.com/uPic/archive.jpg) 
+![llm_juejin](https://images-1252557999.file.myqcloud.com/uPic/llm_juejin.jpg) 
 
-### [fmhy.net](https://fmhy.net/)
+### [pixel](https://aqeja.github.io/pixel/)
 
-帮助用户轻松找到各种免费的工具、服务和学习资源的网站：
+一个小工具，将你的图片像素化:
 
-![fmhy.net](https://images-1252557999.file.myqcloud.com/uPic/fwWyWH.png) 
+![pixel](https://images-1252557999.file.myqcloud.com/uPic/KfJuhM.png) 
 
 ## ✍️ 说明
 
