@@ -5,87 +5,90 @@
 
 ## 🎯 项目 
 
-### [neko](https://github.com/m1k1o/neko)
+### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
 
-可在服务器上运行的浏览器，核心功能如下：
+阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
 
-- 娱乐层面可以在你的服务器上面部署这个虚拟浏览器，你会很**自由**
-- 公司层面，有一些服务和限制你搭建 VPN 的话，你可以开放虚拟浏览器来进行内部服务访问，保证安全性
-- 还有权限管理，也很方便远程演示，操作也还是很流畅的
+如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
 
-![neko](https://images-1252557999.file.myqcloud.com/uPic/neko.jpg) 
+![Infuse](https://images-1252557999.file.myqcloud.com/uPic/Fbred5.png) 
 
-### [WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
+### [GPTs](https://github.com/linexjlin/GPTs)
 
-`WhisperLiveKit` 项目是一个集成了最新研究成果的实时语音转文本系统，包括 `SimulStreaming`、`WhisperStreaming`、`Streaming Sortformer` 和 `Diart` 等技术，支持多种语言和说话人识别。
+这个仓库收集了 GPTs 商店的的提示词，你可以用 3.5 使用，间接拥有 4 才有的功能，还有个类似的项目：[Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) 
 
-![WhisperLiveKit](https://images-1252557999.file.myqcloud.com/uPic/BqNHuK.png) 
+### [LibreTV](https://github.com/LibreSpark/LibreTV)
 
-### [diagrams](https://github.com/mingrammer/diagrams)
+`LibreTV` 是一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。无需注册，即开即用，支持多种设备访问。项目结合了前端技术和后端代理功能，可部署在支持服务端功能的各类网站托管服务上。
 
-用 `Python` 代码绘制云原生架构图：
+![LibreTV](https://images-1252557999.file.myqcloud.com/uPic/wklU6z.png)
 
-![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
+还有贡献者开发了电视版本：[DTV](https://github.com/laopaoer-wallet/DTV)。 
 
 ## 🤖 软件 
 
-### [ShareX](https://github.com/ShareX/ShareX)
+### [douyin-downloader](https://github.com/lecepin/douyin-downloader)
 
-`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
+使用非常简单的抖音视频无水印下载工具，支持下单个视频，以及下载某个人的所有视频（采用rust+tauri编写，安装包非常小）：
 
-![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
+- 支持下载无水印视频
+- 支持下载某个账号号的所有视频
 
-### [siyuan](https://github.com/siyuan-note/siyuan)
+![douyin-downloader](https://images-1252557999.file.myqcloud.com/uPic/douyin-downloader.png) 
 
-思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
-![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
+`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
 
-### [plain-app](https://github.com/ismartcoding/plain-app)
+![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
 
-🔥 PlainApp 是一个开源应用程序，允许您通过网络浏览器管理您的手机。使用安全、易于使用的 Web 界面从您的桌面访问文件、视频、音乐、联系人、短信、电话等！
+### [TTime](https://github.com/inkTimeRecord/TTime)
 
-![plain-app](https://images-1252557999.file.myqcloud.com/uPic/plain-app.jpg) 
+🚀 一款简洁高效的跨平台输入、截图、划词翻译软件：
+
+![TTime](https://images-1252557999.file.myqcloud.com/uPic/TTime.jpg)
+
+[Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#bob) 算是这类软件的鼻祖，之前我也推荐过 [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=pot#pot-desktop) ，大家酌情选择即可。 
 
 ## 👀 资料 
 
-### [英语提升指南](https://vvyst0z7tes.feishu.cn/wiki/HQuawZepyiwNiNkImw6c00IXnmc)
+### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 
-基于南加州大学的荣休教授斯蒂芬.克拉申（Stephen D。Krashen）博士的假说理论，为不同水平的英语自学者提供了结构化的学习路径。
+本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
 
-![英语提升指南](https://images-1252557999.file.myqcloud.com/uPic/uxM2zV.png) 
+![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
 
-### [fullstackopen](https://fullstackopen.com/zh/#course-contents)
+### [让你受益匪浅的名家写作经验](https://docs.qq.com/aio/DWVRkZ1RUWHRsdU1J?p=4oWLX7hAfFdfdbi4Ir5wqo)
 
-开源技术教程：《深入浅出现代化Web编程》，一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）。
+各文学大家的写作经验汇总：
 
-![fullstackopen](https://images-1252557999.file.myqcloud.com/uPic/p1g8z3.png) 
+![让你受益匪浅的名家写作经验](https://images-1252557999.file.myqcloud.com/uPic/让你受益匪浅的名家写作经验.jpg) 
 
-### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
+### [rework](https://github.com/livid/rework)
 
-《Linear Algebra for Everyone》公开课的图解笔记：
+这是一本来自 `37signals` 的关于商业和创意执行的书，由 `OLIVIDA` 翻译，在线阅读地址见[这里](https://www.v2ex.com/rework)：
 
-![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
+![rework](https://images-1252557999.file.myqcloud.com/uPic/rework.jpg) 
 
 ## 🕸 网站 
 
-### [datawhale.cn](https://www.datawhale.cn/home)
+### [uinotes](https://uinotes.com/)
 
-`Datawhale` 通过开源学习模式，助力 `AI` 学习者与知识连接，与人连接，与场景连接，推动 `AI` 人才培养:
+`UI Notes` 收集了大量线上优秀 `App` 的完整 `UI` 截图，只有落地设计没有飞机稿，你可以在这里探索 UI 设计的最新趋势、浏览竞品的产品设计、快速找到工作中需要的灵感：
 
-![datawhale](https://images-1252557999.file.myqcloud.com/uPic/plDyMy.png) 
+![uinotes](https://images-1252557999.file.myqcloud.com/uPic/uinotes.jpg) 
 
-### [稀土掘金大模型子站](https://llm.juejin.cn/view)
+### [choosealicense](https://choosealicense.com/)
 
-大模型相关产品导航：
+`choosealicense` 帮助您轻松选择和一键复制开源协议：
 
-![llm_juejin](https://images-1252557999.file.myqcloud.com/uPic/llm_juejin.jpg) 
+![choosealicense](https://images-1252557999.file.myqcloud.com/uPic/RW33E0.png) 
 
-### [pixel](https://aqeja.github.io/pixel/)
+### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
 
-一个小工具，将你的图片像素化:
+配置高性能、安全、稳定的NGINX服务器的最简单方法：
 
-![pixel](https://images-1252557999.file.myqcloud.com/uPic/KfJuhM.png) 
+![nginx_web](https://images-1252557999.file.myqcloud.com/uPic/N7Yp8R.png) 
 
 ## ✍️ 说明
 
