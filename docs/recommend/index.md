@@ -5,102 +5,88 @@
 
 ## 🎯 项目 
 
-### [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
+### [linkwarden](https://github.com/linkwarden/linkwarden)
 
-一键免费部署你的私人 `ChatGPT` 网页应用：
+一个自托管的、开源的协作式书签管理器，用于收集、组织和归档网页:
 
-- 在 1 分钟内使用 Vercel  **免费一键部署**
-- 精心设计的 UI，响应式设计，支持深色模式
-- 极快的首屏加载速度（~85kb）
-- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
-- 一键导出聊天记录，完整的 Markdown 支持
-- 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
+![linkwarden](https://images-1252557999.file.myqcloud.com/uPic/linkwarden.png) 
 
-![ChatGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Next-Web.png) 
+### [drawdb](https://github.com/drawdb-io/drawdb)
 
-### [TrendRadar](https://github.com/sansan0/TrendRadar)
+免费、简单且直观的在线数据库设计工具和 `SQL` 生成器：
 
-热门新闻聚合分析工具 - 自媒体微信公众号等新闻类文章辅助工具，支持今日头条、百度热搜、微博、抖音、知乎、B 站、财联社等11个中文热门平台，分析关键词频率，生成报告并支持飞书推送等。持续追踪热点变化。
+![drawdb](https://images-1252557999.file.myqcloud.com/uPic/drawdb.jpg) 
 
-![TrendRadar](https://images-1252557999.file.myqcloud.com/uPic/Z4m5Ox.png) 
+### [cpdf-source](https://github.com/johnwhitington/cpdf-source)
 
-### [CoverView](https://github.com/rutikwankhade/CoverView)
-
-一个开源的快速制作文章封面图的工具。
-
-![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
+命令行处理PDF，比如拆分（支持书签）、合并等，点击这里[下载](https://coherentpdf.com/eval.html)，全平台支持。 
 
 ## 🤖 软件 
 
-### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
+### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
 
-超方便的微信视频号下载器：
+一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
 
-- 支持实时捕获视频号的视频地址
-- 捕获后，可进行预览和下载
-- 支持 Win/Mac
+![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
 
-![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
+### [apkupdater](https://github.com/rumboalla/apkupdater)
 
-### [onepoint](https://github.com/onepointAI/onepoint)
+`APKUpdater` 是一个开源工具，它能让你轻松追踪和更新你的 `APK` 应用。
+它提供类似于应用商店的功能，但不依赖于单一来源，而是把 `APKMirror、Aptoide、F-Droid、IzzyOnDroid、APKPure、GitLab、GitHub` 这 7 大平台的应用资源都聚合在一起：
 
-Onepoint 是一款基于 Electron 的开源 AI 助手，旨在打造极致的桌面端效能工具，最初的目标是实现一个类似苹果的智能辅助悬浮窗，在使用时不占用桌面空间和系统性能，并通过快捷键全局呼起，方便用户随时使用。
+![apkupdater](https://images-1252557999.file.myqcloud.com/uPic/apkupdater.jpg) 
 
-借助 ChatGPT 技术，用户可以通过对 Onepoint 不断调教，使其生成和重构的内容更加精确到位（onpoint），从而帮助用户提高效率。Onepoint 目前可以在各种编辑场景(如 VSCode、Pages、Microsoft Word 和 Email 等)下使用，同时也覆盖了 Safari 和 Chrome 等阅读场景，真正实现了全场景智能覆盖。
+### [Planify](https://github.com/alainm23/planify)
 
-![onepoint](https://images-1252557999.file.myqcloud.com/uPic/onepoint.jpg) 
+Linux 专属的一款高颜值的任务管理软件，它专为 GNOME 桌面环境设计，支持 Todoist 和 Nextcloud 的集成。该应用程序提供了直观的视觉风格和多种功能，包括任务拖拽排序、项目进度指示器、夜间模式、自定义提醒系统以及离线 Todoist 同步等。用户可以通过快速查找功能来搜索任务，同时支持重复到期日期和提醒通知。
 
-### [Speechless](https://github.com/meterscao/Speechless)
-
-`Speechless` 是一个帮助新浪微博用户，把微博内容导出成 `PDF` 进行本地备份的 `Chrome Extension`：
-
-![Speechless](https://images-1252557999.file.myqcloud.com/uPic/Speechless.jpeg) 
+![Planify](https://images-1252557999.file.myqcloud.com/uPic/HAXppV.png) 
 
 ## 👀 资料 
 
-### [Large Language Models Practical Course](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce)
+### [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
 
-开源([Large Language Models Practical Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course))的关于大型语言模型的实践课程，通过使用 `OpenAI` 和 `Hugging Face` 库的模型进行实际操作来提供实践经验，课程主要包括：
+这个项目包含了数据工程师领域需要的一些资料，对于拓展国际视野很有帮助：
 
-- Techniques and Libraries
-- Projects
-- Enterprise Solutions
+- 书籍课程
+- 社区
+- YouTube 频道等各大平台
+- Newsletters
+- ......
 
-![large-language-models-practical-course](https://images-1252557999.file.myqcloud.com/uPic/large-language-models-practical-course.jpg)
+![data-engineer-handbook](https://images-1252557999.file.myqcloud.com/uPic/data-engineer-handbook.png) 
 
-> 附带一个 Mac 微调大模型的文章：[A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) 
+### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
 
-### [云安全攻防入门](https://lzcloudsecurity.gitbook.io/yun-an-quan-gong-fang-ru-men/)
+从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
 
-关于云安全攻防的基础知识：
+### [微信之父张小龙2351条饭否日记](https://docs.qq.com/doc/DWUVKZERkeGFLckp6?dver=)
 
-![yun-an-quan-gong-fang-ru-men](https://images-1252557999.file.myqcloud.com/uPic/yun-an-quan-gong-fang-ru-men.jpg) 
+微信之父张小龙2351条饭否日记:
 
-### [openai-cookbook](https://github.com/openai/openai-cookbook)
-
-`OpenAI API` 使用示例指南：
-
-![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
+![zxl_ff](https://images-1252557999.file.myqcloud.com/uPic/zxl_ff.jpg) 
 
 ## 🕸 网站 
 
-### [photoroom](https://www.photoroom.com/backgrounds/)
+### [Anthropic](https://docs.anthropic.com/claude/prompt-library)
 
-利用人工智能生成背景图片（基于Stable Diffusion license），还提供了智能去除图片背景的功能：
+Anthropic 公司推出的提示词库，里面有 `Anthropic` 提供的非常多的示例提示词，非常方便：
 
-![photoroom](https://images-1252557999.file.myqcloud.com/uPic/photoroom.jpg) 
+![anthropic](https://images-1252557999.file.myqcloud.com/uPic/anthropic.jpg) 
 
-### [squoosh](https://squoosh.app/)
+### [quickref](https://quickref.me/)
 
-免费漂亮的在线图片压缩网站：
+开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
 
-![squoosh](https://images-1252557999.file.myqcloud.com/uPic/squoosh.jpg)
+![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
 
-其特点在于所有压缩在本地浏览器完成，保证数据的私密性。 
+### [collagemaker.tools](https://collagemaker.tools/)
 
-### [IconPark](https://iconpark.oceanengine.com/home)
+群友 **@37丫37** 开发免费在线拼图工具，纯前端客户端渲染，提供布局拼图和长图拼接两大核心模式。支持在画布自由添加、编辑、缩放和移动文字、箭头、方框、圆圈等创意对象。所有操作均在本地完成，完全免费、无需登录、注重隐私，无水印高清下载。
 
-字节开源的一款图标库。 
+![collagemaker](https://images-1252557999.file.myqcloud.com/uPic/fl3v1N.png)
+
+PS:原来域名是：https://img.ops-coffee.cn/ 现在改成 https://collagemaker.tools ，看样子是更加专业且认真地在维护这个小产品。 
 
 ## ✍️ 说明
 
