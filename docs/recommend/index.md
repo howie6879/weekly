@@ -5,88 +5,97 @@
 
 ## 🎯 项目 
 
-### [linkwarden](https://github.com/linkwarden/linkwarden)
+### [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
 
-一个自托管的、开源的协作式书签管理器，用于收集、组织和归档网页:
+`libretranslate` 是一个免费且开源的机器翻译API项目，完全自主托管。与其他API不同，它不依赖于像谷歌或Azure这样的专有提供商来进行翻译。相反，它的翻译引擎由开源Argos Translate库驱动：
 
-![linkwarden](https://images-1252557999.file.myqcloud.com/uPic/linkwarden.png) 
+![libretranslate](https://images-1252557999.file.myqcloud.com/uPic/libretranslate.jpg) 
 
-### [drawdb](https://github.com/drawdb-io/drawdb)
+### [Navidrome](https://github.com/navidrome/navidrome)
 
-免费、简单且直观的在线数据库设计工具和 `SQL` 生成器：
+`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
 
-![drawdb](https://images-1252557999.file.myqcloud.com/uPic/drawdb.jpg) 
+![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
 
-### [cpdf-source](https://github.com/johnwhitington/cpdf-source)
+### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
 
-命令行处理PDF，比如拆分（支持书签）、合并等，点击这里[下载](https://coherentpdf.com/eval.html)，全平台支持。 
+`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
+
+一个获取百度网盘分享链接下载地址的工具：
+
+![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
 
 ## 🤖 软件 
 
-### [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
+### [social-media-copilot](https://github.com/iszhouhua/social-media-copilot)
 
-一款浏览器扩展，可通过网络结果增强您的ChatGPT提示：
+社媒助手 - 小红书、抖音等平台数据采集的浏览器插件。支持一键导出无水印图片/视频、评论采集、作品数据采集、达人数据采集等功能：
 
-![chatgpt-advanced](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-advanced.jpeg) 
+![social-media-copilot](https://images-1252557999.file.myqcloud.com/uPic/HvvXRg.png) 
 
-### [apkupdater](https://github.com/rumboalla/apkupdater)
+### [milky-warp](https://github.com/hugoattal/milky-warp)
 
-`APKUpdater` 是一个开源工具，它能让你轻松追踪和更新你的 `APK` 应用。
-它提供类似于应用商店的功能，但不依赖于单一来源，而是把 `APKMirror、Aptoide、F-Droid、IzzyOnDroid、APKPure、GitLab、GitHub` 这 7 大平台的应用资源都聚合在一起：
+`Milky Warp` 是一个开源工具，技术栈是 `Tauri、Vite、Vue、Typescript`，核心功能就是按下快捷键时会显示一个放大镜：
 
-![apkupdater](https://images-1252557999.file.myqcloud.com/uPic/apkupdater.jpg) 
+- 按下可配置的快捷键时显示放大镜
+- 支持使用鼠标滚轮进行放大和缩小
+- 跨平台：可在Windows、macOS和Linux上运行
 
-### [Planify](https://github.com/alainm23/planify)
+![milky-warp](https://images-1252557999.file.myqcloud.com/uPic/milky-warp.gif) 
 
-Linux 专属的一款高颜值的任务管理软件，它专为 GNOME 桌面环境设计，支持 Todoist 和 Nextcloud 的集成。该应用程序提供了直观的视觉风格和多种功能，包括任务拖拽排序、项目进度指示器、夜间模式、自定义提醒系统以及离线 Todoist 同步等。用户可以通过快速查找功能来搜索任务，同时支持重复到期日期和提醒通知。
+### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
 
-![Planify](https://images-1252557999.file.myqcloud.com/uPic/HAXppV.png) 
+ImageOptim 是一款开源免费的本地图像压缩工具：
+
+![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
+
+我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
+
+- [Imagine](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
+- [webutils](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
+- [tinypng](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
+- [tanpok](https://weekly.howie6879.com/2021/11-15~11-21.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
+- [docsmall](https://weekly.howie6879.com/2021/10-18~10-24.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=docsma#docsmall)：提供一些图片压缩、PDF合并分割小功能的网站 
 
 ## 👀 资料 
 
-### [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
+### [archbase](https://github.com/foxsen/archbase)
 
-这个项目包含了数据工程师领域需要的一些资料，对于拓展国际视野很有帮助：
+这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
 
-- 书籍课程
-- 社区
-- YouTube 频道等各大平台
-- Newsletters
-- ......
+![archbase](https://images-1252557999.file.myqcloud.com/uPic/dUVvGI.png) 
 
-![data-engineer-handbook](https://images-1252557999.file.myqcloud.com/uPic/data-engineer-handbook.png) 
+### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
 
-### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
+通过科学方法训练自己的身体，让自己更加健康：
 
-从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
+![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
 
-### [微信之父张小龙2351条饭否日记](https://docs.qq.com/doc/DWUVKZERkeGFLckp6?dver=)
+### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
 
-微信之父张小龙2351条饭否日记:
+从零开始学习Kubernetes的路线图（初级到高级）：
 
-![zxl_ff](https://images-1252557999.file.myqcloud.com/uPic/zxl_ff.jpg) 
+![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
 
 ## 🕸 网站 
 
-### [Anthropic](https://docs.anthropic.com/claude/prompt-library)
+### [useanimations](https://useanimations.com/)
 
-Anthropic 公司推出的提示词库，里面有 `Anthropic` 提供的非常多的示例提示词，非常方便：
+前端动态 `UI` 样式集合：
 
-![anthropic](https://images-1252557999.file.myqcloud.com/uPic/anthropic.jpg) 
+![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
 
-### [quickref](https://quickref.me/)
+### [必应壁纸](https://bing.ioliu.cn/)
 
-开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
+收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
 
-![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
+![bing](https://images-1252557999.file.myqcloud.com/uPic/bing.jpg) 
 
-### [collagemaker.tools](https://collagemaker.tools/)
+### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
 
-群友 **@37丫37** 开发免费在线拼图工具，纯前端客户端渲染，提供布局拼图和长图拼接两大核心模式。支持在画布自由添加、编辑、缩放和移动文字、箭头、方框、圆圈等创意对象。所有操作均在本地完成，完全免费、无需登录、注重隐私，无水印高清下载。
+中国少年儿童新闻出版总社免费开放的少儿绘本网站：
 
-![collagemaker](https://images-1252557999.file.myqcloud.com/uPic/fl3v1N.png)
-
-PS:原来域名是：https://img.ops-coffee.cn/ 现在改成 https://collagemaker.tools ，看样子是更加专业且认真地在维护这个小产品。 
+![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
 
 ## ✍️ 说明
 
