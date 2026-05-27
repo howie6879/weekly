@@ -5,97 +5,123 @@
 
 ## 🎯 项目 
 
-### [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
+### [memos](https://github.com/justmemos/memos)
 
-`libretranslate` 是一个免费且开源的机器翻译API项目，完全自主托管。与其他API不同，它不依赖于像谷歌或Azure这样的专有提供商来进行翻译。相反，它的翻译引擎由开源Argos Translate库驱动：
+Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
 
-![libretranslate](https://images-1252557999.file.myqcloud.com/uPic/libretranslate.jpg) 
+**🎯 产品意图**:
 
-### [Navidrome](https://github.com/navidrome/navidrome)
+- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
+- 🏗️ 代替了微信“文件传输助手”
+- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
 
-`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
+### [12306spy](https://github.com/elroy93/12306spy)
 
-![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
+从12306购票，从A点到B点没有票，但是可以补票或者多买一段票。这个项目可以让你通过这种方式买到票：
 
-### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
+![12306spy](https://images-1252557999.file.myqcloud.com/uPic/12306spy.jpg) 
 
-`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
+### [xqdoo00o-chatgpt-web](https://github.com/xqdoo00o/chatgpt-web)
 
-一个获取百度网盘分享链接下载地址的工具：
+纯 `JS` 实现的 `ChatGPT` 项目，基于 `OpenAI API`，其优势在于可以直接部署一个 `HTML` 文件即可，轻量实用：
 
-![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
+![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
 
 ## 🤖 软件 
 
-### [social-media-copilot](https://github.com/iszhouhua/social-media-copilot)
+### [SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary)
 
-社媒助手 - 小红书、抖音等平台数据采集的浏览器插件。支持一键导出无水印图片/视频、评论采集、作品数据采集、达人数据采集等功能：
+「侠客日记」是一个开源、跨平台的本地日记 APP，支持 Android、Windows、macOS 和 Web 等平台。其特点包括极简风格的 UI 设计、Markdown 即时渲染、隐私模式、标签分类展示、支持图片音视频、数学公式等多种格式，数据本地存储无需联网，并且支持多种格式文件导出及同一局域网下同步传输。
 
-![social-media-copilot](https://images-1252557999.file.myqcloud.com/uPic/HvvXRg.png) 
+![SwashbucklerDiary](https://images-1252557999.file.myqcloud.com/uPic/SwashbucklerDiary.jpg) 
 
-### [milky-warp](https://github.com/hugoattal/milky-warp)
+### [163MusicLyrics](https://github.com/jitwxs/163MusicLyrics)
 
-`Milky Warp` 是一个开源工具，技术栈是 `Tauri、Vite、Vue、Typescript`，核心功能就是按下快捷键时会显示一个放大镜：
+Windows 云音乐歌词获取【网易云、QQ音乐】:
 
-- 按下可配置的快捷键时显示放大镜
-- 支持使用鼠标滚轮进行放大和缩小
-- 跨平台：可在Windows、macOS和Linux上运行
+![163MusicLyrics](https://images-1252557999.file.myqcloud.com/uPic/JElaUM.png) 
 
-![milky-warp](https://images-1252557999.file.myqcloud.com/uPic/milky-warp.gif) 
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
+`LosslessCut` 是一个强大的跨平台视频/音频编辑工具，旨在通过快速且无损的操作，提供对视频、音频、字幕等媒体文件的剪辑和处理。它支持几乎所有主流视频和音频格式的无损剪切，能够快速提取视频中的精彩片段，而无需重新编码，从而保证画质不降低。此外，它还支持合并、重新排列、添加音轨或字幕、批量处理等功能，非常适合从相机、`GoPro`、无人机等设备中处理大文件。
 
-ImageOptim 是一款开源免费的本地图像压缩工具：
+特点包括：
+- 支持大多数视频和音频格式的无损剪切
+- 快速多文件工作流程和键盘快捷键操作
+- 支持自定义时间段导出和编辑文件元数据
+- 提供黑场检测、静音检测、场景变化检测等实用工具
 
-![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
+`LosslessCut` 可以在不同操作系统上运行，并提供各种可执行文件下载选择，是处理和编辑媒体文件的理想选择。
 
-我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
-
-- [Imagine](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
-- [webutils](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
-- [tinypng](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
-- [tanpok](https://weekly.howie6879.com/2021/11-15~11-21.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
-- [docsmall](https://weekly.howie6879.com/2021/10-18~10-24.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=docsma#docsmall)：提供一些图片压缩、PDF合并分割小功能的网站 
+![lossless-cut](https://images-1252557999.file.myqcloud.com/uPic/lossless-cut.jpg) 
 
 ## 👀 资料 
 
-### [archbase](https://github.com/foxsen/archbase)
+### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
 
-这是龙芯团队胡伟武老师等人编写的《计算机体系结构基础》（第三版）的开源版本，作者从微处理器设计的角度出发，充分考虑计算机体系结构的学科完整性，强调体系结构、基础软件、电路和器件的融会贯通。全书共分12章，包括指令系统结构、计算机硬件结构、CPU微结构、并行处理结构、计算机性能分析等主要内容，重点放在作为软硬件界面的指令系统结构，以及包含CPU、GPU、南北桥协同的计算机硬件结构。本书可作为高等学校“计算机体系结构”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
 
-![archbase](https://images-1252557999.file.myqcloud.com/uPic/dUVvGI.png) 
+![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
 
-### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
+### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
 
-通过科学方法训练自己的身体，让自己更加健康：
+一份循序渐进的 `k8s` 教程：
 
-![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
+![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
 
-### [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
+### [1000h by 李笑来](https://1000h.org/)
 
-从零开始学习Kubernetes的路线图（初级到高级）：
+通过投入1000小时的注意力，你可以掌握任何你需要的东西：
 
-![kubernetes-learning-path](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-learning-path.jpg) 
+![1000h](https://images-1252557999.file.myqcloud.com/uPic/1000h.jpg) 
 
 ## 🕸 网站 
 
-### [useanimations](https://useanimations.com/)
+### [weekly.fre123.com](https://weekly.fre123.com/)
 
-前端动态 `UI` 样式集合：
+老胡我周末产出的一个页面，不清楚缘由参考之前写的文章👉[推荐！一份技术周刊RSS大全，总有你需要的](https://mp.weixin.qq.com/s/lW0Uz224MkURjM7Pru8soA)。
 
-![useanimations](https://images-1252557999.file.myqcloud.com/uPic/useanimations.jpg) 
+我首先做了个页面收集一些优质的周刊 RSS 源--[https://www.fre123.com/wk](https://www.fre123.com/wk)：
 
-### [必应壁纸](https://bing.ioliu.cn/)
+![wk](https://images-1252557999.file.myqcloud.com/uPic/wk.jpg)
 
-收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
+最后直接基于这些周刊 RSS 源实现了周刊信息流更新汇总页，我感觉还是有用的，欢迎大家使用：
 
-![bing](https://images-1252557999.file.myqcloud.com/uPic/bing.jpg) 
+![weekly_fre123](https://images-1252557999.file.myqcloud.com/uPic/weekly_fre123.jpg)
 
-### [中少绘本](http://banan.huiben.61read.com/Home/HuibenVideo)
+最后再推荐下各端 RSS 工具软件资源：
 
-中国少年儿童新闻出版总社免费开放的少儿绘本网站：
+| 名称                                                                                                                                                                         | 描述                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [fluent-reader](https://sourl.cn/6xkd2u)                                                                                                                                     | 我在用的跨平台rss阅读器                                             |
+| [NetNewsWire](https://sourl.cn/ZBzhDA)                                                                                                                                       | 适用于 Mac iPad iPhone 的 RSS 阅读客户端                            |
+| [ReadYou](https://sourl.cn/3YMB2W)                                                                                                                                           | 一个以 Material You 风格呈现的 Android RSS 阅读器                   |
+| [lettura](https://sourl.cn/WaYnJf)                                                                                                                                           | 基于 Tauri 跨平台的桌面 RSS 阅读器                                  |
+| [feed-flow](https://sourl.cn/mPZ9wQ)                                                                                                                                         | FeedFlow 是一款极简主义的 RSS 阅读器，可在 Android、iOS&macOS上使用 |
+| [FreshRSS](https://weekly.howie6879.com/2022/08-15~08-21.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%20%EF%BC%88%E7%AC%AC053%E6%9C%9F%EF%BC%89.html?h=freshrss#freshrss)   | FreshRSS 是一款自由免费的自部署 RSS 订阅器，界面美观                |
+| [ALL-about-RSS](https://weekly.howie6879.com/2021/08-23~08-27.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC002%E6%9C%9F%EF%BC%89.html?h=rss#all-about-rss) | 一份与RSS相关的清单：工具、服务、社区和教程                         | 
 
-![huiben](https://images-1252557999.file.myqcloud.com/uPic/huiben.jpg) 
+### [json4u](https://json4u.cn/)
+
+一个功能非常强大的 json 可视化和处理工具，提供图形和表格视图模式，支持结构化和文本比较、错误上下文验证、嵌套解析等功能，并且具有用户友好的界面设计：
+
+- 图形和表格视图模式
+- 结构化和文本比较
+- 使用错误上下文进行验证
+- 嵌套解析
+- 支持jq
+- 导入和导出CSV文件
+- 设计良好且易于使用的UI
+
+![json4u](https://images-1252557999.file.myqcloud.com/uPic/gr5lnQ.png)
+
+代码是[开源](https://github.com/loggerhead/json4u/)的。 
+
+### [oss.gallery](https://oss.gallery/)
+
+`OSS Gallery` 提供了一个展示和探索各种领域最佳开源项目的窗口。用户可以通过这个平台，获取到开源社区中值得关注的项目，这些项目涵盖了从软件开发、数据科学到设计等多个领域。平台的目的是为开源项目提供更多的曝光机会，同时也为开发者和用户提供一个学习和交流的场所。
+
+![oss_gallery](https://images-1252557999.file.myqcloud.com/uPic/oss_gallery.jpg) 
 
 ## ✍️ 说明
 
