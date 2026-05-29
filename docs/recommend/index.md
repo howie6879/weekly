@@ -5,104 +5,92 @@
 
 ## 🎯 项目 
 
-### [gitstars](https://github.com/cfour-hi/gitstars)
+### [privaxy](https://github.com/Barre/privaxy)
 
-`Github` 作为开发者的第一社交平台，拥有数不胜数的优秀开源项目，给工作和学习带来巨大方便，遇到自己需要或是喜爱的项目只需点击 Star 便可收入囊中。
+Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
 
-`Star is easy`，可随着 `Starred Repositories` 增长，在需要使用到某个项目时难免记不清叫什么，而 Github 又只提供简单的搜索，找到目标 `Starred Repository` 竟也成了件小小的麻烦事。
+![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
 
-所以拥有自己的 `Github Stars Repositories Manager` 也算是开发者的必备需求。`Gitstars` 由此诞生 💡
+还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
 
-![gitstars](https://images-1252557999.file.myqcloud.com/uPic/gitstars.png) 
+### [oh-my-wechat](https://github.com/chclt/oh-my-wechat/)
 
-### [reflex](https://github.com/reflex-dev/reflex)
+开源项目，微信消息备份与年度数据报告：
 
-`Reflex` 是一个使用纯Python构建全栈web应用的库，使用 `Python` 创建高效且可自定义的网页应用程序，几秒钟内即可部署：
+![oh-my-wechat](https://images-1252557999.file.myqcloud.com/uPic/JXAGlQ.png) 
 
-- 纯Python - 前端、后端开发全都使用 `Python`，不需要学习 `Javascript`。
-- 完整的灵活性 - `Reflex` 很容易上手, 并且也可以扩展到复杂的应用程序。
-- 立即部署 - 构建后，使用单个命令就能部署应用程序；或者也可以将其托管在您自己的服务器上。 
+### [podman](https://github.com/containers/podman)
 
-### [MaxKB](https://github.com/1Panel-dev/MaxKB)
+`Podman` 是从 `CRI-O` 独立出来的一个项目，这是一个无守护进程的开源Linux 原生工具，旨在使用开放容器协议 (OCI) 容器和容器镜像轻松查找、运行、构建、共享和部署应用程序。
 
-💬 基于 `LLM` 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，`1Panel` 官方出品：
+受不了 Docker 桌面版的可以直接用这个替换，软件部分也介绍了 `Podman` 的桌面版 [podman-desktop](https://github.com/containers/podman-desktop)。
 
-开箱即用：支持直接上传文档、自动爬取在线文档，支持文本自动拆分、向量化，智能问答交互体验好；
-无缝嵌入：支持零编码快速嵌入到第三方业务系统；
-多模型支持：支持对接主流的大模型，包括本地私有大模型（如 Llama 2）、Azure OpenAI 和百度千帆大模型等。
-
-![MaxKB](https://images-1252557999.file.myqcloud.com/uPic/MaxKB.jpg) 
+![podman](https://images-1252557999.file.myqcloud.com/uPic/podman.jpg) 
 
 ## 🤖 软件 
 
-### [Planify](https://github.com/alainm23/planify)
+### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
 
-Linux 专属的一款高颜值的任务管理软件，它专为 GNOME 桌面环境设计，支持 Todoist 和 Nextcloud 的集成。该应用程序提供了直观的视觉风格和多种功能，包括任务拖拽排序、项目进度指示器、夜间模式、自定义提醒系统以及离线 Todoist 同步等。用户可以通过快速查找功能来搜索任务，同时支持重复到期日期和提醒通知。
+安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
 
-![Planify](https://images-1252557999.file.myqcloud.com/uPic/HAXppV.png) 
+![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
 
-### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
+### [yarr](https://github.com/nkanaev/yarr)
 
-短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
+基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
 
-![SmsForwarder](https://images-1252557999.file.myqcloud.com/uPic/v6owv0.jpg)
-如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
+```shell
+mkdir -p ./yarr/data
+docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
+```
 
-### [rubick](https://github.com/rubickCenter/rubick)
+总体来说还是挺简洁轻量的：
 
-基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
+![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
 
-- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
-- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
-- 支持全局快捷键设置。
-- 支持剪贴板文件搜索。
-- 支持搜索本地安装的应用程序或偏好设置。
-- 支持MacOS。
-- 支持Windows。
-- 支持Linux。
+### [BetterNCM](https://github.com/MicroCBer/BetterNCM)
 
-![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
+`BetterNCM` 是一个由一群热爱网易云音乐的云村村友开发的 `PC` 版网易云音乐扩展工具，工具通过DLL注入，以插件形式加载至网易云音乐客户端，具有更改主题、增强操作、精简客户端等实用功能：
+
+![BetterNCM](https://images-1252557999.file.myqcloud.com/uPic/BetterNCM.png) 
 
 ## 👀 资料 
 
-### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
+### [svg-tutorial](https://svg-tutorial.com/)
 
-![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
+学习如何使用 `SVG` 在 `HTML` 中编写图像代码：
 
-### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+![svg-tutorial](https://images-1252557999.file.myqcloud.com/uPic/svg-tutorial.jpg) 
 
-代码整洁之道（javascript版本）：
+### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
 
-- [英文版-clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-- [中文版-clean-code-js](https://github.com/alivebao/clean-code-js) 
+30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
 
-### [曾鸣智能商业二十讲](https://eiod72qfhj.feishu.cn/wiki/Ayc2wATVuiQYipkOfEXcgCepnZf)
+![30-Days-Of-React](https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg) 
 
-曾鸣智能商业二十讲：
+### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
 
-![曾鸣智能商业二十讲](https://images-1252557999.file.myqcloud.com/uPic/ndupDi.png) 
+![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
 
 ## 🕸 网站 
 
-### [smartexcel](https://smartexcel.cc/)
+### [devhints](https://devhints.io/)
 
-使用 `AI` 在几秒钟内生成 `Excel` 公式的工具。描述自己的需要，即可生成相应的公式。需要登录，每天 有10 个免费积分可以使用:
+一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
 
-![smartexcel](https://images-1252557999.file.myqcloud.com/uPic/DXKVRR.png)
+![devhints](https://images-1252557999.file.myqcloud.com/uPic/Wl8r0C.png) 
 
-开源地址：[smartexcel](https://github.com/weijunext/smart-excel-ai)。 
+### [cleverpdf](https://www.cleverpdf.com/cn)
 
-### [ffmpeg-online](https://ffmpeg-online.vercel.app/?inputOptions=-i&output=output.mp4&outputOptions=)
+几十个强大的PDF在线工具，无需注册会员，永久免费：
 
-基于 `ffmpeg.wasm` 的在线版本，可用于在线处理音频和视频：
+![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
 
-![ffmpeg-online](https://images-1252557999.file.myqcloud.com/uPic/ffmpeg-online.jpg) 
+### [jellylade](https://app.jellylade.com/)
 
-### [musicforprogramming](https://musicforprogramming.net/latest/)
+美化截图，可以选择各种设备：
 
-非常极客的背景音乐网站：
-
-![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
+![jellylade](https://images-1252557999.file.myqcloud.com/uPic/jellylade.jpg) 
 
 ## ✍️ 说明
 
