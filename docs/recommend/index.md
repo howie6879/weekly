@@ -5,92 +5,103 @@
 
 ## 🎯 项目 
 
-### [privaxy](https://github.com/Barre/privaxy)
+### [manga-image-translator](https://github.com/zyddnys/manga-image-translator)
 
-Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
+一键翻译各类图片内文字，针对群内、各个图站上大量不太可能会有人去翻译的图片设计，让我这种日语小白能够勉强看懂图片，主要支持日语，汉语、英文和韩语，支持图片修补和嵌字:
 
-![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
+![manga-image-translator](https://images-1252557999.file.myqcloud.com/uPic/manga-image-translator.jpg)
 
-还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
+也提供了在线访问地址 [https://cotrans.touhou.ai](https://cotrans.touhou.ai/)。 
 
-### [oh-my-wechat](https://github.com/chclt/oh-my-wechat/)
+### [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
 
-开源项目，微信消息备份与年度数据报告：
+🎨 一键拥有你自己的 `ChatGPT+Midjourney` 网页服务：
 
-![oh-my-wechat](https://images-1252557999.file.myqcloud.com/uPic/JXAGlQ.png) 
+-  原ChatGPT-Next-Web所有功能
+-  midjourney imagin 想象
+-  midjourney upscale 放大
+-  midjourney variation 变幻
+-  midjourney describe 识图
+-  midjourney blend 混图
+-  midjourney 垫图
+-  绘图进度百分比、实时图像显示
 
-### [podman](https://github.com/containers/podman)
+![ChatGPT-Midjourney](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Midjourney.png) 
 
-`Podman` 是从 `CRI-O` 独立出来的一个项目，这是一个无守护进程的开源Linux 原生工具，旨在使用开放容器协议 (OCI) 容器和容器镜像轻松查找、运行、构建、共享和部署应用程序。
+### [devika](https://github.com/stitionai/devika "devika")
 
-受不了 Docker 桌面版的可以直接用这个替换，软件部分也介绍了 `Podman` 的桌面版 [podman-desktop](https://github.com/containers/podman-desktop)。
+Devika 是一名 Agentic AI 软件工程师，可以理解高级人类指令并将其分解到各个步骤，然后研究相关信息，并编写代码以实现给定的目标。
 
-![podman](https://images-1252557999.file.myqcloud.com/uPic/podman.jpg) 
+![devika](https://images-1252557999.file.myqcloud.com/uPic/devika.png)
+
+Devika 旨在成为 Cognition AI 的 Devin 的竞争性开源替代品。 
 
 ## 🤖 软件 
 
-### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
+### [avnc](https://github.com/gujjwal00/avnc)
 
-安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
+针对 `Android` 的开源 `VNC` 客户端：
 
-![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
+![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
 
-### [yarr](https://github.com/nkanaev/yarr)
+### [nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension?tab=readme-ov-file)
 
-基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
+免费使用的网页验证码解决方案，能够处理多种类型的 CAPTCHA，包括 reCAPTCHA、FunCAPTCHA、文本 CAPTCHA 和 Cloudflare Turnstile 等。该工具通过高级的深度学习模型通过 NopeCHA API 提供服务，同时还提供浏览器插件：
 
-```shell
-mkdir -p ./yarr/data
-docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
-```
+![nopecha-extension](https://images-1252557999.file.myqcloud.com/uPic/yYSb4x.png) 
 
-总体来说还是挺简洁轻量的：
+### [linkandroid](https://github.com/modstart-lib/linkandroid)
 
-![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
+全能手机连接助手，方便快捷的连接 Android 和电脑，连接手机后可投屏、GIF/MP4录屏、截屏、文件管理、手机操作等功能：
 
-### [BetterNCM](https://github.com/MicroCBer/BetterNCM)
-
-`BetterNCM` 是一个由一群热爱网易云音乐的云村村友开发的 `PC` 版网易云音乐扩展工具，工具通过DLL注入，以插件形式加载至网易云音乐客户端，具有更改主题、增强操作、精简客户端等实用功能：
-
-![BetterNCM](https://images-1252557999.file.myqcloud.com/uPic/BetterNCM.png) 
+![linkandroid](https://images-1252557999.file.myqcloud.com/uPic/R9oZa7.png) 
 
 ## 👀 资料 
 
-### [svg-tutorial](https://svg-tutorial.com/)
+### [moderncss](https://moderncss.dev/)
 
-学习如何使用 `SVG` 在 `HTML` 中编写图像代码：
+一份现代 `CSS` 教程，偏向有 `CSS` 的基础的前端开发者：
 
-![svg-tutorial](https://images-1252557999.file.myqcloud.com/uPic/svg-tutorial.jpg) 
+![moderncss](https://images-1252557999.file.myqcloud.com/uPic/moderncss.jpg) 
 
-### [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
+### [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 
-30天学习`React`，一份免费的开源教程，在`Github`快上万`Star`了，有兴趣的可以试试：
+一个精选列表，包含了用于增强 Claude Code 工作流程、生产力和氛围的各种命令、文件和工具：
 
-![30-Days-Of-React](https://images-1252557999.file.myqcloud.com/uPic/GeYfjR.jpg) 
+![awesome-claude-code](https://images-1252557999.file.myqcloud.com/uPic/HMpvvc.png) 
 
-### [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022)
+### [SystemDesign](https://github.com/Admol/SystemDesign)
 
-![rust-based-os-comp2022](https://images-1252557999.file.myqcloud.com/uPic/rust-based-os-comp2022.jpg) 
+系统设计面试：内幕指南：
+
+![SystemDesign](https://images-1252557999.file.myqcloud.com/uPic/PrOe1t.png) 
 
 ## 🕸 网站 
 
-### [devhints](https://devhints.io/)
+### [sov2ex.com](https://www.sov2ex.com/)
 
-一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
+[SOV2EX](https://github.com/Bynil/sov2ex) - 一个便捷的 [V2EX](https://v2ex.com/) 站内搜索引擎[开源]：
 
-![devhints](https://images-1252557999.file.myqcloud.com/uPic/Wl8r0C.png) 
+![sov2ex](https://images-1252557999.file.myqcloud.com/uPic/sov2ex.jpg) 
 
-### [cleverpdf](https://www.cleverpdf.com/cn)
+### [devpedia.pages.dev](https://devpedia.pages.dev/)
 
-几十个强大的PDF在线工具，无需注册会员，永久免费：
+`Dev Encyclopedia` 是一个为开发者提供广泛技术术语、概念和工具解释的在线百科全书：
 
-![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
+![devpedia](https://images-1252557999.file.myqcloud.com/uPic/L7S0qZ.png) 
 
-### [jellylade](https://app.jellylade.com/)
+### [文学网](https://www.hwxnet.com/)
 
-美化截图，可以选择各种设备：
+文学相关工具在线网站：
 
-![jellylade](https://images-1252557999.file.myqcloud.com/uPic/jellylade.jpg) 
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
+
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
 ## ✍️ 说明
 
