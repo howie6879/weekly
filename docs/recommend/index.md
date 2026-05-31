@@ -5,103 +5,90 @@
 
 ## 🎯 项目 
 
-### [manga-image-translator](https://github.com/zyddnys/manga-image-translator)
+### [PandaWiki](https://github.com/chaitin/PandaWiki)
 
-一键翻译各类图片内文字，针对群内、各个图站上大量不太可能会有人去翻译的图片设计，让我这种日语小白能够勉强看懂图片，主要支持日语，汉语、英文和韩语，支持图片修补和嵌字:
+PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索 等能力。
 
-![manga-image-translator](https://images-1252557999.file.myqcloud.com/uPic/manga-image-translator.jpg)
+![PandaWiki](https://images-1252557999.file.myqcloud.com/uPic/8YgiXm.png) 
 
-也提供了在线访问地址 [https://cotrans.touhou.ai](https://cotrans.touhou.ai/)。 
+### [webdav](https://github.com/hacdias/webdav)
 
-### [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
+一个简单且独立部署的 `WebDAV` 服务，支持 `Docker`。 
 
-🎨 一键拥有你自己的 `ChatGPT+Midjourney` 网页服务：
+### [coolify](https://github.com/coollabsio/coolify)
 
--  原ChatGPT-Next-Web所有功能
--  midjourney imagin 想象
--  midjourney upscale 放大
--  midjourney variation 变幻
--  midjourney describe 识图
--  midjourney blend 混图
--  midjourney 垫图
--  绘图进度百分比、实时图像显示
+> `Vercel Netlify Heroku` 开源替代品
 
-![ChatGPT-Midjourney](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Midjourney.png) 
+![coolify](https://images-1252557999.file.myqcloud.com/uPic/coolify.jpeg)
 
-### [devika](https://github.com/stitionai/devika "devika")
+还可以使用这个项目：[dokploy](https://github.com/dokploy/dokploy)
 
-Devika 是一名 Agentic AI 软件工程师，可以理解高级人类指令并将其分解到各个步骤，然后研究相关信息，并编写代码以实现给定的目标。
-
-![devika](https://images-1252557999.file.myqcloud.com/uPic/devika.png)
-
-Devika 旨在成为 Cognition AI 的 Devin 的竞争性开源替代品。 
+![dokploy](https://images-1252557999.file.myqcloud.com/uPic/dokploy.png) 
 
 ## 🤖 软件 
 
-### [avnc](https://github.com/gujjwal00/avnc)
+### [squawker](https://github.com/j-fbriere/squawker)
 
-针对 `Android` 的开源 `VNC` 客户端：
+一个开源的隐私导向的 `Twitter/X` 客户端：
 
-![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
+![squawker](https://images-1252557999.file.myqcloud.com/uPic/mL6QyN.png) 
 
-### [nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension?tab=readme-ov-file)
+### [Robo 3T](https://github.com/Studio3T/robomongo)
 
-免费使用的网页验证码解决方案，能够处理多种类型的 CAPTCHA，包括 reCAPTCHA、FunCAPTCHA、文本 CAPTCHA 和 Cloudflare Turnstile 等。该工具通过高级的深度学习模型通过 NopeCHA API 提供服务，同时还提供浏览器插件：
+本人常用的一款MongoDB跨平台管理软件，开源免费：
 
-![nopecha-extension](https://images-1252557999.file.myqcloud.com/uPic/yYSb4x.png) 
+![robomongo](https://images-1252557999.file.myqcloud.com/uPic/robomongo.jpg) 
 
-### [linkandroid](https://github.com/modstart-lib/linkandroid)
+### [postcat](https://github.com/Postcatlab/postcat)
 
-全能手机连接助手，方便快捷的连接 Android 和电脑，连接手机后可投屏、GIF/MP4录屏、截屏、文件管理、手机操作等功能：
+`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
 
-![linkandroid](https://images-1252557999.file.myqcloud.com/uPic/R9oZa7.png) 
+![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
 
 ## 👀 资料 
 
-### [moderncss](https://moderncss.dev/)
+### [lc3-vm](https://www.jmeiners.com/lc3-vm/)
 
-一份现代 `CSS` 教程，偏向有 `CSS` 的基础的前端开发者：
+教程主要介绍了如何编写自己的虚拟机（VM），以运行 LC-3 架构的汇编语言程序，旨在帮助程序员更深入地理解计算机内部运作和编程语言的工作原理：
 
-![moderncss](https://images-1252557999.file.myqcloud.com/uPic/moderncss.jpg) 
+![lc3-vm](https://images-1252557999.file.myqcloud.com/uPic/rtzTGT.png) 
 
-### [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
+### [True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu)
 
-一个精选列表，包含了用于增强 Claude Code 工作流程、生产力和氛围的各种命令、文件和工具：
+🔥诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
 
-![awesome-claude-code](https://images-1252557999.file.myqcloud.com/uPic/HMpvvc.png) 
+![True-Story-of-Pangu](https://images-1252557999.file.myqcloud.com/uPic/0aCPFn.png) 
 
-### [SystemDesign](https://github.com/Admol/SystemDesign)
+### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 
-系统设计面试：内幕指南：
+以非常直观的语言介绍`pytorch`：
 
-![SystemDesign](https://images-1252557999.file.myqcloud.com/uPic/PrOe1t.png) 
+![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
+
+作者的同类电子书还有：
+
+- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
 
 ## 🕸 网站 
 
-### [sov2ex.com](https://www.sov2ex.com/)
+### [buyoncesoftware.com](https://buyoncesoftware.com)
 
-[SOV2EX](https://github.com/Bynil/sov2ex) - 一个便捷的 [V2EX](https://v2ex.com/) 站内搜索引擎[开源]：
+一份满足购买一次，终身使用软件名单：
 
-![sov2ex](https://images-1252557999.file.myqcloud.com/uPic/sov2ex.jpg) 
+![buyoncesoftware](https://images-1252557999.file.myqcloud.com/uPic/HuYvwg.png) 
 
-### [devpedia.pages.dev](https://devpedia.pages.dev/)
+### [scribblediffusion.com](https://scribblediffusion.com/)
 
-`Dev Encyclopedia` 是一个为开发者提供广泛技术术语、概念和工具解释的在线百科全书：
+随便画一画，生成美观的图片：
 
-![devpedia](https://images-1252557999.file.myqcloud.com/uPic/L7S0qZ.png) 
+![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
 
-### [文学网](https://www.hwxnet.com/)
+### [aicolors](https://aicolors.co/)
 
-文学相关工具在线网站：
+通过提示词，基于 AI 生成配色方案：
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
-
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
 
 ## ✍️ 说明
 
