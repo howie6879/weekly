@@ -5,90 +5,87 @@
 
 ## 🎯 项目 
 
-### [PandaWiki](https://github.com/chaitin/PandaWiki)
+### [akile_monitor](https://github.com/akile-network/akile_monitor)
 
-PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索 等能力。
+一个开源的监控工具项目，提供服务器状态监控功能，并且支持前后端一键部署：
 
-![PandaWiki](https://images-1252557999.file.myqcloud.com/uPic/8YgiXm.png) 
+![akile_monitor](https://images-1252557999.file.myqcloud.com/uPic/0D0D4c.png) 
 
-### [webdav](https://github.com/hacdias/webdav)
+### [v2rayA](https://github.com/v2rayA/v2rayA)
 
-一个简单且独立部署的 `WebDAV` 服务，支持 `Docker`。 
+`v2rayA` 是一个支持全局透明代理的 `V2Ray` 客户端，同时兼容 `SS、SSR、Trojan(trojan-go)、Tuic & Juicity` 协议， 致力于提供最简单的操作，满足绝大部分需求，得益于 Web 客户端的优势，你不仅可以将其用于本地计算机，还可以轻松地将它部署在路由器或 NAS 上。
 
-### [coolify](https://github.com/coollabsio/coolify)
+![v2rayA](https://images-1252557999.file.myqcloud.com/uPic/v2rayA.png) 
 
-> `Vercel Netlify Heroku` 开源替代品
+### [btop](https://github.com/aristocratos/btop)
 
-![coolify](https://images-1252557999.file.myqcloud.com/uPic/coolify.jpeg)
+一款界面酷炫的资源管理器，不过我用htop就够够的了。
 
-还可以使用这个项目：[dokploy](https://github.com/dokploy/dokploy)
-
-![dokploy](https://images-1252557999.file.myqcloud.com/uPic/dokploy.png) 
+![btop](https://images-1252557999.file.myqcloud.com/uPic/3eoG1g.jpg) 
 
 ## 🤖 软件 
 
-### [squawker](https://github.com/j-fbriere/squawker)
+### [Rectangle](https://github.com/rxhanson/Rectangle)
 
-一个开源的隐私导向的 `Twitter/X` 客户端：
+`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
 
-![squawker](https://images-1252557999.file.myqcloud.com/uPic/mL6QyN.png) 
+![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
 
-### [Robo 3T](https://github.com/Studio3T/robomongo)
+### [legado](https://github.com/gedoor/legado)
 
-本人常用的一款MongoDB跨平台管理软件，开源免费：
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-![robomongo](https://images-1252557999.file.myqcloud.com/uPic/robomongo.jpg) 
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
 
-### [postcat](https://github.com/Postcatlab/postcat)
+![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
 
-`Postcat` 是一个可扩展的 `API` 工具平台，集合基础的 `API` 管理和测试功能，并且可以通过插件简化你的 `API` 开发工作，让你可以更快更好地创建 `API`：
+### [bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)
 
-![postcat](https://images-1252557999.file.myqcloud.com/uPic/postcat.png) 
+一款基于 `Flutter` 开发的跨平台面端 B 站视频下载器：
+
+![bilivideo_down](https://images-1252557999.file.myqcloud.com/uPic/bilivideo_down.jpg) 
 
 ## 👀 资料 
 
-### [lc3-vm](https://www.jmeiners.com/lc3-vm/)
+### RustBook
 
-教程主要介绍了如何编写自己的虚拟机（VM），以运行 LC-3 架构的汇编语言程序，旨在帮助程序员更深入地理解计算机内部运作和编程语言的工作原理：
+一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
 
-![lc3-vm](https://images-1252557999.file.myqcloud.com/uPic/rtzTGT.png) 
+![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg) 
 
-### [True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu)
+### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
 
-🔥诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
+阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
 
-![True-Story-of-Pangu](https://images-1252557999.file.myqcloud.com/uPic/0aCPFn.png) 
+![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
 
-### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+### [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
-以非常直观的语言介绍`pytorch`：
+📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
 
-![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
-
-作者的同类电子书还有：
-
-- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+![CS-Notes](https://images-1252557999.file.myqcloud.com/uPic/7aMFrS.png) 
 
 ## 🕸 网站 
 
-### [buyoncesoftware.com](https://buyoncesoftware.com)
+### [smartexcel](https://smartexcel.cc/)
 
-一份满足购买一次，终身使用软件名单：
+使用 `AI` 在几秒钟内生成 `Excel` 公式的工具。描述自己的需要，即可生成相应的公式。需要登录，每天 有10 个免费积分可以使用:
 
-![buyoncesoftware](https://images-1252557999.file.myqcloud.com/uPic/HuYvwg.png) 
+![smartexcel](https://images-1252557999.file.myqcloud.com/uPic/DXKVRR.png)
 
-### [scribblediffusion.com](https://scribblediffusion.com/)
+开源地址：[smartexcel](https://github.com/weijunext/smart-excel-ai)。 
 
-随便画一画，生成美观的图片：
+### [iconbuddy](https://iconbuddy.app/svg-icons)
 
-![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
+`SVG` 图标检索网站（目前有18万图标），可简单编辑和下载：
 
-### [aicolors](https://aicolors.co/)
+![iconbuddy](https://images-1252557999.file.myqcloud.com/uPic/iconbuddy.jpg) 
 
-通过提示词，基于 AI 生成配色方案：
+### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
 
-![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
+一个搜索 git 常用 emoji 的网站:
+
+![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
 
 ## ✍️ 说明
 
