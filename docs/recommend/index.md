@@ -5,87 +5,115 @@
 
 ## 🎯 项目 
 
-### [akile_monitor](https://github.com/akile-network/akile_monitor)
+### [websocketd](https://github.com/joewalnes/websocketd)
 
-一个开源的监控工具项目，提供服务器状态监控功能，并且支持前后端一键部署：
+将任何使用 `STDIN/STDOUT` 的程序转换为 `WebSocket` 服务器：
 
-![akile_monitor](https://images-1252557999.file.myqcloud.com/uPic/0D0D4c.png) 
+![websocketd](https://images-1252557999.file.myqcloud.com/uPic/websocketd.jpg) 
 
-### [v2rayA](https://github.com/v2rayA/v2rayA)
+### [PPTist](https://github.com/pipipi-pikachu/PPTist)
 
-`v2rayA` 是一个支持全局透明代理的 `V2Ray` 客户端，同时兼容 `SS、SSR、Trojan(trojan-go)、Tuic & Juicity` 协议， 致力于提供最简单的操作，满足绝大部分需求，得益于 Web 客户端的优势，你不仅可以将其用于本地计算机，还可以轻松地将它部署在路由器或 NAS 上。
+基于 Vue3.x + TypeScript 的[在线演示文稿](https://pipipi-pikachu.github.io/PPTist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
 
-![v2rayA](https://images-1252557999.file.myqcloud.com/uPic/v2rayA.png) 
+![ppt-list](https://images-1252557999.file.myqcloud.com/uPic/ppt-list.jpg) 
 
-### [btop](https://github.com/aristocratos/btop)
+### [autoMate](https://github.com/yuruotong1/autoMate)
 
-一款界面酷炫的资源管理器，不过我用htop就够够的了。
+🤖 AI驱动的本地自动化工具 | 让电脑自己会干活，`autoMate` 是一款革命性的 `AI+RPA` 自动化工具，基于 `OmniParser` 构建，它能够
 
-![btop](https://images-1252557999.file.myqcloud.com/uPic/3eoG1g.jpg) 
+- 📊 理解您的需求，自动进行任务规划
+- 🔍 智能理解屏幕内容，模拟人类视觉和操作
+- 🧠 自主决策，根据任务需求进行判断并采取行动
+- 💻 支持本地化部署，保护您的数据安全和隐私 
 
 ## 🤖 软件 
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
+### [Seal](https://github.com/JunkFood02/Seal)
 
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
 
-![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
+- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
+- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
+- 播放列表下载支持
+- 内嵌字幕于视频文件中
+- 执行自定义的 yt-dlp 命令模板
+- 管理应用内下载与自定义命令模板
+- 使用简单、用户友好
+- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
+- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
+    
+![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
 
-### [legado](https://github.com/gedoor/legado)
+### [EpubPress](https://epub.press/)
 
-阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
 
-简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
+![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
 
-![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
+### [iina](https://github.com/iina/iina)
 
-### [bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)
+macOS 下的开源现代化视频播放器，我的必备软件：
 
-一款基于 `Flutter` 开发的跨平台面端 B 站视频下载器：
-
-![bilivideo_down](https://images-1252557999.file.myqcloud.com/uPic/bilivideo_down.jpg) 
+![iina](https://images-1252557999.file.myqcloud.com/uPic/iina.jpg) 
 
 ## 👀 资料 
 
-### RustBook
+### [anthropics/courses](https://github.com/anthropics/courses "anthropics/courses")
 
-一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
+`Anthropic` 的教育课程，目前包含五个课程：
 
-![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg) 
+- Anthropic API 基础知识：教授如何与 Claude SDK 合作，包括获取 API 密钥、处理模型参数、编写多模态提示、流式响应等。
+- 提示工程互动教程
+- 教授如何将提示技术应用到复杂的现实世界提示中
+- 教授如何编写评估来测量提示的质量
+- 教授如何在工作流程中成功使用 Claude 的工具 
 
-### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
+### [ScienceFictionCollection](https://github.com/VeejaLiu/ScienceFictionCollection)
 
-阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
+科幻小说作品集收集项目，包含以下作者的作品：
 
-![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
+- 刘慈欣 (Cixin Liu)
+- Frank Herbert (弗兰克・赫伯特)
+- Isaac Asimov (艾萨克・阿西莫夫)
+- Jules Gabriel Verne (儒勒・加布里埃尔・凡尔纳)
+- Mary Shelley (玛丽・雪莱)
+- Ray Douglas Bradbury (雷・道格拉斯・布拉德伯里)
+- Orson Scott Card (奥森・斯科特・卡德)
+- Ted Chiang (特德・姜)
+- Michael Swanwick (迈克尔・斯万维克) 
 
-### [CS-Notes](https://github.com/CyC2018/CS-Notes)
+### [ascoders/weekly](https://github.com/ascoders/weekly)
 
-📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计:
+前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
 
-![CS-Notes](https://images-1252557999.file.myqcloud.com/uPic/7aMFrS.png) 
+- 前沿技术
+- 设计模式
+- 编译原理
+- 源码解读
+- 商业思考
+- 算法
+
+非常全面，前端从事人员可以看看。 
 
 ## 🕸 网站 
 
-### [smartexcel](https://smartexcel.cc/)
+### [flomoapp](https://flomoapp.com/)
 
-使用 `AI` 在几秒钟内生成 `Excel` 公式的工具。描述自己的需要，即可生成相应的公式。需要登录，每天 有10 个免费积分可以使用:
+flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
 
-![smartexcel](https://images-1252557999.file.myqcloud.com/uPic/DXKVRR.png)
+![flomoapp](https://images-1252557999.file.myqcloud.com/uPic/6G6qrd.jpg) 
 
-开源地址：[smartexcel](https://github.com/weijunext/smart-excel-ai)。 
+### [icones.js.org](https://icones.js.org/)
 
-### [iconbuddy](https://iconbuddy.app/svg-icons)
+免费的图标库：
 
-`SVG` 图标检索网站（目前有18万图标），可简单编辑和下载：
+![icones](https://images-1252557999.file.myqcloud.com/uPic/icones.jpg) 
 
-![iconbuddy](https://images-1252557999.file.myqcloud.com/uPic/iconbuddy.jpg) 
+### [css.gg](https://css.gg/)
 
-### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
+`700+` 基于 `CSS` 的图标：
 
-一个搜索 git 常用 emoji 的网站:
-
-![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
+![css_gg](https://images-1252557999.file.myqcloud.com/uPic/css_gg.jpg) 
 
 ## ✍️ 说明
 
