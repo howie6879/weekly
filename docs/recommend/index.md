@@ -5,115 +5,89 @@
 
 ## 🎯 项目 
 
-### [websocketd](https://github.com/joewalnes/websocketd)
+### [ProxyCat](https://github.com/honmashironeko/ProxyCat)
 
-将任何使用 `STDIN/STDOUT` 的程序转换为 `WebSocket` 服务器：
+一款部署于云端或本地的隧道代理池中间件，可将静态代理IP灵活运用成隧道IP，提供固定请求地址，一次部署终身使用:
 
-![websocketd](https://images-1252557999.file.myqcloud.com/uPic/websocketd.jpg) 
+![ProxyCat](https://images-1252557999.file.myqcloud.com/uPic/yquF9b.png) 
 
-### [PPTist](https://github.com/pipipi-pikachu/PPTist)
+### [personal-management-system](https://github.com/Volmarg/personal-management-system)
 
-基于 Vue3.x + TypeScript 的[在线演示文稿](https://pipipi-pikachu.github.io/PPTist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件。
+该项目可以很方便的管理个人数据，如目标规划/笔记/联系人/密码/附件/图片/文件等等：
 
-![ppt-list](https://images-1252557999.file.myqcloud.com/uPic/ppt-list.jpg) 
+![personal-management-system](https://images-1252557999.file.myqcloud.com/uPic/C6hnHx.jpg) 
 
-### [autoMate](https://github.com/yuruotong1/autoMate)
+### crontab-ui
 
-🤖 AI驱动的本地自动化工具 | 让电脑自己会干活，`autoMate` 是一款革命性的 `AI+RPA` 自动化工具，基于 `OmniParser` 构建，它能够
+提供简单安全的方式来管理 `crontab`:
 
-- 📊 理解您的需求，自动进行任务规划
-- 🔍 智能理解屏幕内容，模拟人类视觉和操作
-- 🧠 自主决策，根据任务需求进行判断并采取行动
-- 💻 支持本地化部署，保护您的数据安全和隐私 
+![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
 
 ## 🤖 软件 
 
-### [Seal](https://github.com/JunkFood02/Seal)
+### [bilijump-ai](https://github.com/qingmeng1/bilijump-ai)
 
-一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
+一个使用 `AI` 自动跳过 `Bilibili` 视频植入广告的 `Chrome` 扩展程序：
 
-- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
-- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
-- 播放列表下载支持
-- 内嵌字幕于视频文件中
-- 执行自定义的 yt-dlp 命令模板
-- 管理应用内下载与自定义命令模板
-- 使用简单、用户友好
-- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
-- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
-    
-![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
+![bilijump](https://images-1252557999.file.myqcloud.com/uPic/SrzNbw.png) 
 
-### [EpubPress](https://epub.press/)
+### [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
 
-`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
+就像 Mac 上的 TextEdit 一样，但专注于于 Markdown。
 
-![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
+`MarkEdit` 的特点：
+- 注重隐私：不收集任何用户数据
+- 原生：干净直观
+- 快速：轻松编辑10 MB文件
+- 轻量级：安装程序大小约为3 MB
 
-### [iina](https://github.com/iina/iina)
+![MarkEdit](https://images-1252557999.file.myqcloud.com/uPic/MarkEdit.png) 
 
-macOS 下的开源现代化视频播放器，我的必备软件：
+### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
 
-![iina](https://images-1252557999.file.myqcloud.com/uPic/iina.jpg) 
+JetBrains 的下一代 IDE：
+
+![fleet](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
 
 ## 👀 资料 
 
-### [anthropics/courses](https://github.com/anthropics/courses "anthropics/courses")
+### [unplugged](https://github.com/liuxinyu95/unplugged)
 
-`Anthropic` 的教育课程，目前包含五个课程：
+刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
 
-- Anthropic API 基础知识：教授如何与 Claude SDK 合作，包括获取 API 密钥、处理模型参数、编写多模态提示、流式响应等。
-- 提示工程互动教程
-- 教授如何将提示技术应用到复杂的现实世界提示中
-- 教授如何编写评估来测量提示的质量
-- 教授如何在工作流程中成功使用 Claude 的工具 
+![unplugged](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-10-23_21-49-37.jpg)
 
-### [ScienceFictionCollection](https://github.com/VeejaLiu/ScienceFictionCollection)
+如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
 
-科幻小说作品集收集项目，包含以下作者的作品：
+### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
-- 刘慈欣 (Cixin Liu)
-- Frank Herbert (弗兰克・赫伯特)
-- Isaac Asimov (艾萨克・阿西莫夫)
-- Jules Gabriel Verne (儒勒・加布里埃尔・凡尔纳)
-- Mary Shelley (玛丽・雪莱)
-- Ray Douglas Bradbury (雷・道格拉斯・布拉德伯里)
-- Orson Scott Card (奥森・斯科特・卡德)
-- Ted Chiang (特德・姜)
-- Michael Swanwick (迈克尔・斯万维克) 
+ 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
 
-### [ascoders/weekly](https://github.com/ascoders/weekly)
+### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
 
-前端精读周刊，帮你理解最前沿、实用的技术。在老胡的周刊里面推荐周刊👏哈哈，其中内容涉及：
+《Mastering GO》中文译本，《玩转 GO》：
 
-- 前沿技术
-- 设计模式
-- 编译原理
-- 源码解读
-- 商业思考
-- 算法
-
-非常全面，前端从事人员可以看看。 
+![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
 
 ## 🕸 网站 
 
-### [flomoapp](https://flomoapp.com/)
+### [nosh](https://nosh.rocks/)
 
-flomo是一款「思维工具」，主要目的是帮助你「记录想法的川流」，我个人用了大半年了，经常会在上面记录自己生活工作中的各种思考，于我而言非常有用，可以静静地输出自己的思考，而且其回顾功能会让我定期复盘再次思考，介意大家都来试试，可以点这里进行[注册](https://flomoapp.com/register2/?NDgzNTM)。
+一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
 
-![flomoapp](https://images-1252557999.file.myqcloud.com/uPic/6G6qrd.jpg) 
+![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
 
-### [icones.js.org](https://icones.js.org/)
+### [22.do](https://22.do/)
 
-免费的图标库：
+一次性 `Gmail` 临时邮箱：
 
-![icones](https://images-1252557999.file.myqcloud.com/uPic/icones.jpg) 
+![22do](https://images-1252557999.file.myqcloud.com/uPic/22do.jpg) 
 
-### [css.gg](https://css.gg/)
+### [gpt5plus.com](https://gpt5plus.com/)
 
-`700+` 基于 `CSS` 的图标：
+一个 ChatGPT 代充服务网页，价格比较便宜：
 
-![css_gg](https://images-1252557999.file.myqcloud.com/uPic/css_gg.jpg) 
+![gpt5plus](https://images-1252557999.file.myqcloud.com/uPic/Uk76mA.png) 
 
 ## ✍️ 说明
 
