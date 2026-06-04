@@ -5,89 +5,91 @@
 
 ## 🎯 项目 
 
-### [ProxyCat](https://github.com/honmashironeko/ProxyCat)
+### [filebrowser](https://github.com/filebrowser/filebrowser)
 
-一款部署于云端或本地的隧道代理池中间件，可将静态代理IP灵活运用成隧道IP，提供固定请求地址，一次部署终身使用:
+这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
 
-![ProxyCat](https://images-1252557999.file.myqcloud.com/uPic/yquF9b.png) 
+除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
 
-### [personal-management-system](https://github.com/Volmarg/personal-management-system)
+![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
 
-该项目可以很方便的管理个人数据，如目标规划/笔记/联系人/密码/附件/图片/文件等等：
+### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
 
-![personal-management-system](https://images-1252557999.file.myqcloud.com/uPic/C6hnHx.jpg) 
+让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
 
-### crontab-ui
+### [ladybird](https://github.com/LadybirdBrowser/ladybird)
 
-提供简单安全的方式来管理 `crontab`:
-
-![crontab-ui](https://images-1252557999.file.myqcloud.com/uPic/crontab-ui.gif) 
+`ladybird` 旨在打造一个完全独立的网络浏览器，它不依赖于其他主流浏览器的内核，而是采用自主研发的前端和后端技术。该浏览器强调隐私保护和安全性，提供了一系列功能，如自动化的隐私清理、防止网络追踪等。 
 
 ## 🤖 软件 
 
-### [bilijump-ai](https://github.com/qingmeng1/bilijump-ai)
+### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
 
-一个使用 `AI` 自动跳过 `Bilibili` 视频植入广告的 `Chrome` 扩展程序：
+基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
 
-![bilijump](https://images-1252557999.file.myqcloud.com/uPic/SrzNbw.png) 
+- 干净简洁的UI
+- 内置效果可实现准确的男声和女声
+- 创建&加载自定义预设的能力
+- 创建自己的临时虚拟输入设备
 
-### [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
+![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
 
-就像 Mac 上的 TextEdit 一样，但专注于于 Markdown。
+### [Cider](https://github.com/ciderapp/Cider)
 
-`MarkEdit` 的特点：
-- 注重隐私：不收集任何用户数据
-- 原生：干净直观
-- 快速：轻松编辑10 MB文件
-- 轻量级：安装程序大小约为3 MB
+一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
 
-![MarkEdit](https://images-1252557999.file.myqcloud.com/uPic/MarkEdit.png) 
+![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
 
-### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
+### [VideoAdGuard](https://github.com/Warma10032/VideoAdGuard)
 
-JetBrains 的下一代 IDE：
+`VideoAdGuard` 是一个基于大语言模型的B站视频植入广告检测工具，能够自动识别B站视频中的植入广告内容，并提供跳过广告的功能，提供两个版本：
 
-![fleet](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
+- 浏览器插件版
+- 油猴脚本版
+
+![VideoAdGuard](https://images-1252557999.file.myqcloud.com/uPic/E5OQTQ.png)
+
+和之前推荐的 [BilibiliSponsorBlock](https://weekly.howie6879.com/2024/10-28~11-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC166%E6%9C%9F%EF%BC%89.html?h=bilibilisponsorblock#bilibilisponsorblock) 有点类似： 
 
 ## 👀 资料 
 
-### [unplugged](https://github.com/liuxinyu95/unplugged)
+### [free-educa](https://github.com/free-educa/books)
 
-刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
+`free-educa/books` 是一个开源书籍分享项目，提供了一个精选的编程和开发相关书籍收藏，涵盖了多种编程语言、网页开发、移动应用开发、软件工程、数据科学、DevOps、软件架构和网络安全等主题，鼓励社区成员贡献和共享资源。
 
-![unplugged](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-10-23_21-49-37.jpg)
+老胡将所有电子书打包好了 👉 https://pan.quark.cn/s/a3cf52f67ec0
 
-如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
+![free-educa](https://images-1252557999.file.myqcloud.com/uPic/free-educa.jpg) 
 
-### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+### [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
- 免费的计算机编程类中文书籍，该项目收集了编程领域各个方向的免费书籍，适合学习过程中找免费资料的朋友。 
+Model Context Protocol(MCP) 编程极速入门：
 
-### [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN)
+![MCP-Chinese-Getting-Started-Guide](https://images-1252557999.file.myqcloud.com/uPic/ORcZa8.png) 
 
-《Mastering GO》中文译本，《玩转 GO》：
+### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
 
-![mastering-go-second](https://images-1252557999.file.myqcloud.com/uPic/mastering-go-second.jpg) 
+公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
 
 ## 🕸 网站 
 
-### [nosh](https://nosh.rocks/)
+### [similarsites](https://www.similarsites.com/)
 
-一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
+输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
 
-![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
+![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
 
-### [22.do](https://22.do/)
+### [latexlive](https://www.latexlive.com/)
 
-一次性 `Gmail` 临时邮箱：
+免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
 
-![22do](https://images-1252557999.file.myqcloud.com/uPic/22do.jpg) 
+![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
 
-### [gpt5plus.com](https://gpt5plus.com/)
+### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
 
-一个 ChatGPT 代充服务网页，价格比较便宜：
+@妙才投稿，在线学习git命令的网站：
 
-![gpt5plus](https://images-1252557999.file.myqcloud.com/uPic/Uk76mA.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
 
 ## ✍️ 说明
 
