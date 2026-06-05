@@ -5,91 +5,83 @@
 
 ## 🎯 项目 
 
-### [filebrowser](https://github.com/filebrowser/filebrowser)
+### [puter](https://github.com/HeyPuter/puter)
 
-这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
+`Puter` 是一个在浏览器中运行的开源桌面环境，可用于构建远程桌面、与云服务交互或作为其他云存储平台的替代品，旨在以轻量级的方式直接在浏览器中带来桌面体验。
 
-除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
+![Puter](https://images-1252557999.file.myqcloud.com/uPic/Puter.webp) 
 
-![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
+### [Mini-Cover](https://github.com/JLinMr/Mini-Cover)
 
-### [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)
+简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面：
 
-让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化。 
+![Mini-Cover](https://images-1252557999.file.myqcloud.com/uPic/OGMrle.png) 
 
-### [ladybird](https://github.com/LadybirdBrowser/ladybird)
+### [go-musicfox](https://github.com/go-musicfox/go-musicfox)
 
-`ladybird` 旨在打造一个完全独立的网络浏览器，它不依赖于其他主流浏览器的内核，而是采用自主研发的前端和后端技术。该浏览器强调隐私保护和安全性，提供了一系列功能，如自动化的隐私清理、防止网络追踪等。 
+`go-musicfox`是用 Go 写的又一款网易云音乐命令行客户端，支持 `UnblockNeteaseMusic`、各种音质级别、`lastfm`、`MPRIS`、`MacOS` 交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）:
+
+![go-musicfox](https://images-1252557999.file.myqcloud.com/uPic/go-musicfox.png) 
 
 ## 🤖 软件 
 
-### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
+### [KikoPlay](https://github.com/KikoPlayProject/KikoPlay)
 
-基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
+`KikoPlay` 是一个全功能的弹幕播放器，支持流畅的 `OpenGL` 渲染和多种播放模式，它拥有强大的树形播放列表功能，支持 `WebDAV` 合集的添加和管理，能够搜索和下载弹幕，并具备灵活的弹幕屏蔽规则和管理功能。此外，`KikoPlay` 还集成了每日放送、资源搜索、`aria2` 下载等功能，并支持通过扩展 `App` 添加更多自定义功能。
 
-- 干净简洁的UI
-- 内置效果可实现准确的男声和女声
-- 创建&加载自定义预设的能力
-- 创建自己的临时虚拟输入设备
+![KikoPlay](https://images-1252557999.file.myqcloud.com/uPic/VGvv1v.png) 
 
-![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
+### [apifox](https://www.apifox.cn/)
 
-### [Cider](https://github.com/ciderapp/Cider)
+Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
 
-一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
+![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
 
-![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
+### [seabird](https://github.com/getseabird/seabird)
 
-### [VideoAdGuard](https://github.com/Warma10032/VideoAdGuard)
+`Seabird` 是一个原生的跨平台 `Kubernetes` 桌面客户端，它可以非常容易地探索集群的资源：
 
-`VideoAdGuard` 是一个基于大语言模型的B站视频植入广告检测工具，能够自动识别B站视频中的植入广告内容，并提供跳过广告的功能，提供两个版本：
-
-- 浏览器插件版
-- 油猴脚本版
-
-![VideoAdGuard](https://images-1252557999.file.myqcloud.com/uPic/E5OQTQ.png)
-
-和之前推荐的 [BilibiliSponsorBlock](https://weekly.howie6879.com/2024/10-28~11-03.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC166%E6%9C%9F%EF%BC%89.html?h=bilibilisponsorblock#bilibilisponsorblock) 有点类似： 
+![seabird](https://images-1252557999.file.myqcloud.com/uPic/seabird.png) 
 
 ## 👀 资料 
 
-### [free-educa](https://github.com/free-educa/books)
+### [rust-course](https://github.com/sunface/rust-course)
 
-`free-educa/books` 是一个开源书籍分享项目，提供了一个精选的编程和开发相关书籍收藏，涵盖了多种编程语言、网页开发、移动应用开发、软件工程、数据科学、DevOps、软件架构和网络安全等主题，鼓励社区成员贡献和共享资源。
+> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
 
-老胡将所有电子书打包好了 👉 https://pan.quark.cn/s/a3cf52f67ec0
+![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
 
-![free-educa](https://images-1252557999.file.myqcloud.com/uPic/free-educa.jpg) 
+阅读地址见[course.rs](https://course.rs)。 
 
-### [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
+### [learn-regex](https://github.com/ziishaned/learn-regex)
 
-Model Context Protocol(MCP) 编程极速入门：
+开源的正则表达式教程，有中文版，有在线示例。 
 
-![MCP-Chinese-Getting-Started-Guide](https://images-1252557999.file.myqcloud.com/uPic/ORcZa8.png) 
+### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
 
-### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
+阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
 
-公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
+![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
 
 ## 🕸 网站 
 
-### [similarsites](https://www.similarsites.com/)
+### [regexlearn](https://regexlearn.com)
 
-输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
+一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
 
-![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
+![regexlearn](https://images-1252557999.file.myqcloud.com/uPic/yUZ5N4.png) 
 
-### [latexlive](https://www.latexlive.com/)
+### [ossinsight](https://ossinsight.io/)
 
-免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
+`GitHub` 曾经发通知说在未来某个时间下架 `GitHub Trending`，由于反对声音比较大，所以还保留着 [ossinsight.io](https://ossinsight.io/) 就是做的比较好的替代品：
 
-![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
+![ossinsight](https://images-1252557999.file.myqcloud.com/uPic/ossinsight.jpg) 
 
-### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
+### [freelancethings](https://www.freelancethings.co/)
 
-@妙才投稿，在线学习git命令的网站：
+为自由职业者精心挑选的资源，涉及到社区、工具、文章、书籍、视频等，这些都帮助你在自由职业之旅中获得更多帮助，订阅后每周发送到您的收件箱:
 
-![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
+![freelancethings](https://images-1252557999.file.myqcloud.com/uPic/freelancethings.jpg) 
 
 ## ✍️ 说明
 
