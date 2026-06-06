@@ -5,83 +5,89 @@
 
 ## 🎯 项目 
 
-### [puter](https://github.com/HeyPuter/puter)
+### [OpenHands](https://github.com/All-Hands-AI/OpenHands)
 
-`Puter` 是一个在浏览器中运行的开源桌面环境，可用于构建远程桌面、与云服务交互或作为其他云存储平台的替代品，旨在以轻量级的方式直接在浏览器中带来桌面体验。
+`OpenHands` 是由 `AI` 驱动的软件开发代理平台，该项目可以完成人类开发者能做的所有事情：修改代码、运行命令、浏览网页、调用 `API`，甚至还能从 `StackOverflow` 复制代码片段：
 
-![Puter](https://images-1252557999.file.myqcloud.com/uPic/Puter.webp) 
+![OpenHands](https://images-1252557999.file.myqcloud.com/uPic/mOLAg2.png) 
 
-### [Mini-Cover](https://github.com/JLinMr/Mini-Cover)
+### [dashy](https://github.com/Lissy93/dashy)
 
-简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面：
+可自我托管的个人自定义导航页：括状态检查，小部件，主题，图标包，UI编辑器等等：
 
-![Mini-Cover](https://images-1252557999.file.myqcloud.com/uPic/OGMrle.png) 
+![dashy](https://images-1252557999.file.myqcloud.com/uPic/dashy.jpg) 
 
-### [go-musicfox](https://github.com/go-musicfox/go-musicfox)
+### [TagStudio](https://github.com/TagStudioDev/TagStudio)
 
-`go-musicfox`是用 Go 写的又一款网易云音乐命令行客户端，支持 `UnblockNeteaseMusic`、各种音质级别、`lastfm`、`MPRIS`、`MacOS` 交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）:
+一个以用户为中心的照片和文件管理系统：
 
-![go-musicfox](https://images-1252557999.file.myqcloud.com/uPic/go-musicfox.png) 
+![TagStudio](https://images-1252557999.file.myqcloud.com/uPic/TagStudio.jpeg) 
 
 ## 🤖 软件 
 
-### [KikoPlay](https://github.com/KikoPlayProject/KikoPlay)
+### [hyprnote](https://github.com/fastrepl/hyprnote)
 
-`KikoPlay` 是一个全功能的弹幕播放器，支持流畅的 `OpenGL` 渲染和多种播放模式，它拥有强大的树形播放列表功能，支持 `WebDAV` 合集的添加和管理，能够搜索和下载弹幕，并具备灵活的弹幕屏蔽规则和管理功能。此外，`KikoPlay` 还集成了每日放送、资源搜索、`aria2` 下载等功能，并支持通过扩展 `App` 添加更多自定义功能。
+`Hyprnote` 是一个专为连续会议的参与者设计的本地优先 `AI` 笔记软件。它能够在你记录会议时，同时聆听会议内容并制作智能摘要。`Hyprnote` 支持完全离线运行，使用开源模型如 `Whisper` 或 `HyprLLM`。软件不需要互联网连接，所有数据都保存在用户的设备上，确保数据不会外泄。
 
-![KikoPlay](https://images-1252557999.file.myqcloud.com/uPic/VGvv1v.png) 
+![hyprnote](https://images-1252557999.file.myqcloud.com/uPic/vnfVro.png) 
 
-### [apifox](https://www.apifox.cn/)
+### [5ire](https://github.com/nanbingxyz/5ire)
 
-Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。通过一套系统、一份数据，解决多个系统之间的数据同步问题。只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。高效、及时、准确！
+一个开源的跨平台桌面 AI 助手，同时也是一个 MCP 客户端。该项目支持多种大型语言模型服务提供商，如 OpenAI、Azure OpenAI、Anthropic 等，并且能够通过 MCP 服务器连接本地知识库和工具，实现诸如文件系统访问、系统信息交互、数据库交互和远程数据访问等功能。
 
-![C7q2Vh](https://images-1252557999.file.myqcloud.com/uPic/C7q2Vh.png) 
+![5ire](https://images-1252557999.file.myqcloud.com/uPic/8y8k3G.png) 
 
-### [seabird](https://github.com/getseabird/seabird)
+### [AsrTools](https://github.com/WEIFENG2333/AsrTools)
 
-`Seabird` 是一个原生的跨平台 `Kubernetes` 桌面客户端，它可以非常容易地探索集群的资源：
+智能语音转字幕文本工具，对比 `Github` 目前多数的音频转换文字项目（通过调用 `Wishper` 等模型），本项目最大区别和优势就是无需 `GPU` 和繁琐的本地配置：
 
-![seabird](https://images-1252557999.file.myqcloud.com/uPic/seabird.png) 
+- 🚀 无需复杂配置：无需 GPU 和繁琐的本地配置，小白也能轻松使用。
+- 🖥️ 高颜值界面：基于 PyQt5 和 qfluentwidgets，界面美观且用户友好。
+- ⚡ 效率超人：多线程并发 + 批量处理，文字转换快如闪电。
+- 📄 多格式支持：支持生成 .srt 和 .txt 字幕文件，满足不同需求。
+
+![AsrTools](https://images-1252557999.file.myqcloud.com/uPic/rAXR7m.png) 
 
 ## 👀 资料 
 
-### [rust-course](https://github.com/sunface/rust-course)
+### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
 
-> Rust语言圣经(Rust Course)，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。
+有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
 
-![rust-course](https://images-1252557999.file.myqcloud.com/uPic/3kamdy.png)
+![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
 
-阅读地址见[course.rs](https://course.rs)。 
+### [TuringCourses](https://github.com/ZJU-Turing/TuringCourses)
 
-### [learn-regex](https://github.com/ziishaned/learn-regex)
+浙江大学图灵班各门课程的学习指南以及学习资源。
 
-开源的正则表达式教程，有中文版，有在线示例。 
+- 主站：https://ZJU-Turing.github.io/TuringCourses/
+- 存档站（CS/AI/IS 三专业版）：https://zju-turing.github.io/TuringCoursesGrave/ 
 
-### [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial)
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-阮一峰出的 `TypeScript` 开源教程，介绍基本概念和用法，面向初学者：
+夯实计算机基础，该怎么学，这个项目给出了答案：
 
-![wangdoc_ts](https://images-1252557999.file.myqcloud.com/uPic/wangdoc_ts.jpg) 
+![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
 
 ## 🕸 网站 
 
-### [regexlearn](https://regexlearn.com)
+### [BRIA-RMBG-1.4](https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4)
 
-一个正则表达式学习网站，一步一步带你从新手到高级阶段，值得一试：
+[BRIA.AI](https://huggingface.co/briaai/RMBG-1.4) 下用于移除图片背景的模型，可直接在浏览器使用：
 
-![regexlearn](https://images-1252557999.file.myqcloud.com/uPic/yUZ5N4.png) 
+![BRIA-RMBG](https://images-1252557999.file.myqcloud.com/uPic/BRIA-RMBG.jpg) 
 
-### [ossinsight](https://ossinsight.io/)
+### [stockai.trade](https://stockai.trade)
 
-`GitHub` 曾经发通知说在未来某个时间下架 `GitHub Trending`，由于反对声音比较大，所以还保留着 [ossinsight.io](https://ossinsight.io/) 就是做的比较好的替代品：
+ `AI` 选股分析网站（基于 `ChatGPT`）完全免费，无需注册:
+ 
+ ![stockai](https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg) 
 
-![ossinsight](https://images-1252557999.file.myqcloud.com/uPic/ossinsight.jpg) 
+### [央视纪实](https://jishi.cctv.com/)
 
-### [freelancethings](https://www.freelancethings.co/)
+央视官方纪录片大全，全部免费观看：
 
-为自由职业者精心挑选的资源，涉及到社区、工具、文章、书籍、视频等，这些都帮助你在自由职业之旅中获得更多帮助，订阅后每周发送到您的收件箱:
-
-![freelancethings](https://images-1252557999.file.myqcloud.com/uPic/freelancethings.jpg) 
+![657d173347944](https://img.fre123.com/i/2023/12/16/657d173347944.png) 
 
 ## ✍️ 说明
 
