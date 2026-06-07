@@ -5,89 +5,96 @@
 
 ## 🎯 项目 
 
-### [OpenHands](https://github.com/All-Hands-AI/OpenHands)
+### [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
 
-`OpenHands` 是由 `AI` 驱动的软件开发代理平台，该项目可以完成人类开发者能做的所有事情：修改代码、运行命令、浏览网页、调用 `API`，甚至还能从 `StackOverflow` 复制代码片段：
+BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。
 
-![OpenHands](https://images-1252557999.file.myqcloud.com/uPic/mOLAg2.png) 
+![BiliBiliToolPro](https://images-1252557999.file.myqcloud.com/uPic/BiliBiliToolPro.jpg) 
 
-### [dashy](https://github.com/Lissy93/dashy)
+### [Dasherr](https://github.com/erohtar/Dasherr)
 
-可自我托管的个人自定义导航页：括状态检查，小部件，主题，图标包，UI编辑器等等：
+简单轻量自部署的仪表盘工具：
 
-![dashy](https://images-1252557999.file.myqcloud.com/uPic/dashy.jpg) 
+![Dasherr](https://images-1252557999.file.myqcloud.com/uPic/Dasherr.png) 
 
-### [TagStudio](https://github.com/TagStudioDev/TagStudio)
+### [pdf-craft](https://github.com/oomol-lab/pdf-craft)
 
-一个以用户为中心的照片和文件管理系统：
+`PDF Craft` 可以将 `PDF` 文件转化为各种其他格式，该项目将专注于扫描书籍的 `PDF` 文件的处理：
 
-![TagStudio](https://images-1252557999.file.myqcloud.com/uPic/TagStudio.jpeg) 
+![pdf-craft](https://images-1252557999.file.myqcloud.com/uPic/7Gx8lB.png) 
 
 ## 🤖 软件 
 
-### [hyprnote](https://github.com/fastrepl/hyprnote)
+### [vnote](https://github.com/vnotex/vnote)
 
-`Hyprnote` 是一个专为连续会议的参与者设计的本地优先 `AI` 笔记软件。它能够在你记录会议时，同时聆听会议内容并制作智能摘要。`Hyprnote` 支持完全离线运行，使用开源模型如 `Whisper` 或 `HyprLLM`。软件不需要互联网连接，所有数据都保存在用户的设备上，确保数据不会外泄。
+VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
 
-![hyprnote](https://images-1252557999.file.myqcloud.com/uPic/vnfVro.png) 
+![vnote](https://images-1252557999.file.myqcloud.com/uPic/vnote.png) 
 
-### [5ire](https://github.com/nanbingxyz/5ire)
+### [BetterDisplay](https://github.com/waydabber/BetterDisplay)
 
-一个开源的跨平台桌面 AI 助手，同时也是一个 MCP 客户端。该项目支持多种大型语言模型服务提供商，如 OpenAI、Azure OpenAI、Anthropic 等，并且能够通过 MCP 服务器连接本地知识库和工具，实现诸如文件系统访问、系统信息交互、数据库交互和远程数据访问等功能。
+专为 `Mac` 平台设计的专业级屏幕自定义调整工具，可通过 DDC 调整内建 / 外接显示器的各项基本参数，并提供虚拟屏、串流、画中画等丰富的高级功能，支持大多数现代显示器：
 
-![5ire](https://images-1252557999.file.myqcloud.com/uPic/8y8k3G.png) 
+![BetterDisplay](https://images-1252557999.file.myqcloud.com/uPic/qLLPBM.png) 
 
-### [AsrTools](https://github.com/WEIFENG2333/AsrTools)
+### [licecap](https://github.com/justinfrankel/licecap)
 
-智能语音转字幕文本工具，对比 `Github` 目前多数的音频转换文字项目（通过调用 `Wishper` 等模型），本项目最大区别和优势就是无需 `GPU` 和繁琐的本地配置：
-
-- 🚀 无需复杂配置：无需 GPU 和繁琐的本地配置，小白也能轻松使用。
-- 🖥️ 高颜值界面：基于 PyQt5 和 qfluentwidgets，界面美观且用户友好。
-- ⚡ 效率超人：多线程并发 + 批量处理，文字转换快如闪电。
-- 📄 多格式支持：支持生成 .srt 和 .txt 字幕文件，满足不同需求。
-
-![AsrTools](https://images-1252557999.file.myqcloud.com/uPic/rAXR7m.png) 
+LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
 
 ## 👀 资料 
 
-### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
+### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
 
-有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
+重新分类 Leetcode 高频题 2021 版
 
-![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
+- 题目按照面试频率降序排列
+- 增加难度分类，适合从简单开始学习
+- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
 
-### [TuringCourses](https://github.com/ZJU-Turing/TuringCourses)
+### [learnprompting.org](https://learnprompting.org/zh-Hans/docs/intro)
 
-浙江大学图灵班各门课程的学习指南以及学习资源。
+> 如何同人工智能交流，并得到你要的结果。
 
-- 主站：https://ZJU-Turing.github.io/TuringCourses/
-- 存档站（CS/AI/IS 三专业版）：https://zju-turing.github.io/TuringCoursesGrave/ 
+随着最近人工智能的不断进步，提示工程这项技能变得越来越重要。本课程会聚焦于如何使用提示工程。你不需要很多机器学习相关的知识。
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+![learnprompting](https://images-1252557999.file.myqcloud.com/uPic/learnprompting.jpg) 
 
-夯实计算机基础，该怎么学，这个项目给出了答案：
+### [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
 
-![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
+这个项目包含了数据工程师领域需要的一些资料，对于拓展国际视野很有帮助：
+
+- 书籍课程
+- 社区
+- YouTube 频道等各大平台
+- Newsletters
+- ......
+
+![data-engineer-handbook](https://images-1252557999.file.myqcloud.com/uPic/data-engineer-handbook.png) 
 
 ## 🕸 网站 
 
-### [BRIA-RMBG-1.4](https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4)
+### [nslookup.io](https://www.nslookup.io/)
 
-[BRIA.AI](https://huggingface.co/briaai/RMBG-1.4) 下用于移除图片背景的模型，可直接在浏览器使用：
+一个在线工具，用于查询域名的 DNS 记录，提供与命令行工具 dig 和 nslookup 相同的信息，但在浏览器中更加方便：
 
-![BRIA-RMBG](https://images-1252557999.file.myqcloud.com/uPic/BRIA-RMBG.jpg) 
+![nslookup](https://images-1252557999.file.myqcloud.com/uPic/d5hTUE.png) 
 
-### [stockai.trade](https://stockai.trade)
+### [小鱼速读](http://www.xysudu.com/)
 
- `AI` 选股分析网站（基于 `ChatGPT`）完全免费，无需注册:
- 
- ![stockai](https://images-1252557999.file.myqcloud.com/uPic/stockai.jpg) 
+该网站收藏了B站上各位大佬发布的经典速读视频：
 
-### [央视纪实](https://jishi.cctv.com/)
+- 书籍：大类包括豆瓣总榜、科幻小说、推理悬疑、科学普及、历史经典、政治经济……11大类，一共667本经典书籍
+- 影视：大类包括内地剧、美剧、动漫、港剧、日剧、韩剧
 
-央视官方纪录片大全，全部免费观看：
+![xysudu](https://images-1252557999.file.myqcloud.com/uPic/xysudu.jpg) 
 
-![657d173347944](https://img.fre123.com/i/2023/12/16/657d173347944.png) 
+### [linux.pdf](https://linux.doompdf.dev/linux.pdf)
+
+`PDF` 中运行 `Linux`，通过 `RISC-V` 架构的模拟器实现：
+
+![linux.pdf](https://images-1252557999.file.myqcloud.com/uPic/edDIQp.png)
+
+开源地址：[linuxpdf](https://github.com/ading2210/linuxpdf?tab=readme-ov-file) 
 
 ## ✍️ 说明
 
