@@ -5,96 +5,90 @@
 
 ## 🎯 项目 
 
-### [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
+### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
 
-BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。
+`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
 
-![BiliBiliToolPro](https://images-1252557999.file.myqcloud.com/uPic/BiliBiliToolPro.jpg) 
+![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
 
-### [Dasherr](https://github.com/erohtar/Dasherr)
+### [Gmeek](https://github.com/Meekdai/Gmeek)
 
-简单轻量自部署的仪表盘工具：
+一个博客框架，超轻量级个人博客模板。完全基于 `Github Pages、Github Issues & Github Actions`。不需要本地部署，从搭建到写作，只需要18秒，2步搭建好博客，第3步就是写作。
 
-![Dasherr](https://images-1252557999.file.myqcloud.com/uPic/Dasherr.png) 
+![Gmeek](https://images-1252557999.file.myqcloud.com/uPic/KUg5Lm.png) 
 
-### [pdf-craft](https://github.com/oomol-lab/pdf-craft)
+### [deepclaude](https://github.com/getasterisk/deepclaude)
 
-`PDF Craft` 可以将 `PDF` 文件转化为各种其他格式，该项目将专注于扫描书籍的 `PDF` 文件的处理：
+`Aider` 团队最新研究通过[采用 DeepSeek R1 + Claude 3.5 Sonnet](https://aider.chat/2025/01/24/r1-sonnet.html) 可以实现最好的效果：
 
-![pdf-craft](https://images-1252557999.file.myqcloud.com/uPic/7Gx8lB.png) 
+![deepclaude-web](https://images-1252557999.file.myqcloud.com/uPic/xFt7fe.png)
+
+![deepclaude](https://images-1252557999.file.myqcloud.com/uPic/MNsnRO.png)
+
+相关资料：
+
+- [R1+Sonnet set SOTA on aider’s polyglot benchmark](https://aider.chat/2025/01/24/r1-sonnet.html)
+- [第三方 Python 实现](https://github.com/ErlichLiu/DeepClaude) 
 
 ## 🤖 软件 
 
-### [vnote](https://github.com/vnotex/vnote)
+### [seabird](https://github.com/getseabird/seabird)
 
-VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持）
+`Seabird` 是一个原生的跨平台 `Kubernetes` 桌面客户端，它可以非常容易地探索集群的资源：
 
-![vnote](https://images-1252557999.file.myqcloud.com/uPic/vnote.png) 
+![seabird](https://images-1252557999.file.myqcloud.com/uPic/seabird.png) 
 
-### [BetterDisplay](https://github.com/waydabber/BetterDisplay)
+### [social-media-copilot](https://github.com/iszhouhua/social-media-copilot)
 
-专为 `Mac` 平台设计的专业级屏幕自定义调整工具，可通过 DDC 调整内建 / 外接显示器的各项基本参数，并提供虚拟屏、串流、画中画等丰富的高级功能，支持大多数现代显示器：
+社媒助手 - 小红书、抖音等平台数据采集的浏览器插件。支持一键导出无水印图片/视频、评论采集、作品数据采集、达人数据采集等功能：
 
-![BetterDisplay](https://images-1252557999.file.myqcloud.com/uPic/qLLPBM.png) 
+![social-media-copilot](https://images-1252557999.file.myqcloud.com/uPic/HvvXRg.png) 
 
-### [licecap](https://github.com/justinfrankel/licecap)
+### [novel-disguise](https://github.com/NiaoBlush/novel-disguise)
 
-LICEcap 是一款轻量简单的gif录屏工具，支持`MacOS`和`Windows`，效果挺好，算是我的必备软件，下载地址点[这里](https://www.cockos.com/licecap/)。 
+将小说页面伪装成一个 `Word` 文档或 `Excel` 表格，神奇的脑回路，应该是为摸鱼而生的项目，好像还支持了 v 站：
+
+![novel-disguise](https://images-1252557999.file.myqcloud.com/uPic/bPV6Qm.png) 
 
 ## 👀 资料 
 
-### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
+### [php-the-right-way](https://learnku.com/docs/php-the-right-way/PHP8.0)
 
-重新分类 Leetcode 高频题 2021 版
+PHP 入门教程，现在这块市场占有越来越少了，新项目应该都用 Go 或者 Python ，有兴趣学习的可以作为教程看看：
 
-- 题目按照面试频率降序排列
-- 增加难度分类，适合从简单开始学习
-- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
+![php-the-right-way](https://images-1252557999.file.myqcloud.com/uPic/DKXw5S.png) 
 
-### [learnprompting.org](https://learnprompting.org/zh-Hans/docs/intro)
+### [Curosor 教程](https://www.lookai.top/cn/cursor/instruction/instruction)
 
-> 如何同人工智能交流，并得到你要的结果。
+零基础小白 `Cursor` 学习网站：
 
-随着最近人工智能的不断进步，提示工程这项技能变得越来越重要。本课程会聚焦于如何使用提示工程。你不需要很多机器学习相关的知识。
+![Curosor](https://images-1252557999.file.myqcloud.com/uPic/YIZShF.png) 
 
-![learnprompting](https://images-1252557999.file.myqcloud.com/uPic/learnprompting.jpg) 
+### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
-### [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook)
+微软开源的一份全面的数据科学课程，20个课时，历时10周：
 
-这个项目包含了数据工程师领域需要的一些资料，对于拓展国际视野很有帮助：
-
-- 书籍课程
-- 社区
-- YouTube 频道等各大平台
-- Newsletters
-- ......
-
-![data-engineer-handbook](https://images-1252557999.file.myqcloud.com/uPic/data-engineer-handbook.png) 
+![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
 
 ## 🕸 网站 
 
-### [nslookup.io](https://www.nslookup.io/)
+### [self.so](https://www.self.so/)
 
-一个在线工具，用于查询域名的 DNS 记录，提供与命令行工具 dig 和 nslookup 相同的信息，但在浏览器中更加方便：
+上传简历，基于 AI 大模型生成个人网站：
 
-![nslookup](https://images-1252557999.file.myqcloud.com/uPic/d5hTUE.png) 
+![self.so](https://images-1252557999.file.myqcloud.com/uPic/eKGx5T.png) 
 
-### [小鱼速读](http://www.xysudu.com/)
+### [drawl.ink](https://drawl.ink/)
 
-该网站收藏了B站上各位大佬发布的经典速读视频：
+将链接转化成好看的图片：
 
-- 书籍：大类包括豆瓣总榜、科幻小说、推理悬疑、科学普及、历史经典、政治经济……11大类，一共667本经典书籍
-- 影视：大类包括内地剧、美剧、动漫、港剧、日剧、韩剧
+![drawl](https://images-1252557999.file.myqcloud.com/uPic/eltzuF.png) 
 
-![xysudu](https://images-1252557999.file.myqcloud.com/uPic/xysudu.jpg) 
+### [alleyread](https://alleyread.com/)
 
-### [linux.pdf](https://linux.doompdf.dev/linux.pdf)
+发现优质 `Newsletter`：
 
-`PDF` 中运行 `Linux`，通过 `RISC-V` 架构的模拟器实现：
-
-![linux.pdf](https://images-1252557999.file.myqcloud.com/uPic/edDIQp.png)
-
-开源地址：[linuxpdf](https://github.com/ading2210/linuxpdf?tab=readme-ov-file) 
+![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
 
 ## ✍️ 说明
 
