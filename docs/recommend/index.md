@@ -5,90 +5,106 @@
 
 ## 🎯 项目 
 
-### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
+### [copyparty](https://github.com/9001/copyparty)
 
-`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
+一个多功能的文件服务器应用程序，支持加速的可恢复上传、去重、WebDAV、FTP、TFTP、zeroconf、媒体索引器、缩略图生成等功能，集成了多种协议和服务，并且支持跨平台使用，无需任何依赖。
 
-![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
+![copyparty](https://images-1252557999.file.myqcloud.com/uPic/fgTNRH.png) 
 
-### [Gmeek](https://github.com/Meekdai/Gmeek)
+### [fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
 
-一个博客框架，超轻量级个人博客模板。完全基于 `Github Pages、Github Issues & Github Actions`。不需要本地部署，从搭建到写作，只需要18秒，2步搭建好博客，第3步就是写作。
+微软开源的 `Fluent Emoji` 表情包：
 
-![Gmeek](https://images-1252557999.file.myqcloud.com/uPic/KUg5Lm.png) 
+![fluentui-emoji](https://images-1252557999.file.myqcloud.com/uPic/fluentui-emoji.webp) 
 
-### [deepclaude](https://github.com/getasterisk/deepclaude)
+### [metersphere](https://github.com/metersphere/metersphere)
 
-`Aider` 团队最新研究通过[采用 DeepSeek R1 + Claude 3.5 Sonnet](https://aider.chat/2025/01/24/r1-sonnet.html) 可以实现最好的效果：
+[MeterSphere](https://metersphere.io/) 是一站式开源持续测试平台, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter、Selenium` 等主流开源标准，有效助力开发和测试团队充分利用云弹性进行高度可扩展的自动化测试，加速高质量的软件交付：
 
-![deepclaude-web](https://images-1252557999.file.myqcloud.com/uPic/xFt7fe.png)
-
-![deepclaude](https://images-1252557999.file.myqcloud.com/uPic/MNsnRO.png)
-
-相关资料：
-
-- [R1+Sonnet set SOTA on aider’s polyglot benchmark](https://aider.chat/2025/01/24/r1-sonnet.html)
-- [第三方 Python 实现](https://github.com/ErlichLiu/DeepClaude) 
+![metersphere](https://images-1252557999.file.myqcloud.com/uPic/metersphere.jpeg) 
 
 ## 🤖 软件 
 
-### [seabird](https://github.com/getseabird/seabird)
+### [tuboshu](https://github.com/deepshit2025/tuboshu)
 
-`Seabird` 是一个原生的跨平台 `Kubernetes` 桌面客户端，它可以非常容易地探索集群的资源：
+一款桌面应用转换工具，让你用快捷键魔法般控制任何网页应用：
 
-![seabird](https://images-1252557999.file.myqcloud.com/uPic/seabird.png) 
+- 🔥 一键网页转应用 - 将任何网站变成独立的桌面应用
+- 🚀 账户多开 - 网站可以多开，支持账户隔离，独立运行互不干扰
+- ⚡️ 闪电切换 - 全局快捷键快速显示/隐藏（默认 Ctrl/Cmd + H）
+- 🎨 深度定制 - 自定义窗口尺寸、图标、快捷键,支持JS注入，定制专属自己的页面
+- 📦 便携打包 - 生成可执行文件（支持 Windows/macOS/Linux）
+- 🔒 隐私保护 - 本地存储配置数据，无需云端同步
+- 🌍 多平台支持 - 完美运行于主流操作系统
+- 🎮无需复杂配置即可自由添加站点
 
-### [social-media-copilot](https://github.com/iszhouhua/social-media-copilot)
+![tuboshu](https://images-1252557999.file.myqcloud.com/uPic/d1GxMj.png) 
 
-社媒助手 - 小红书、抖音等平台数据采集的浏览器插件。支持一键导出无水印图片/视频、评论采集、作品数据采集、达人数据采集等功能：
+### [flybird-m3u8downloader](https://github.com/youwen21/flybird-m3u8downloader)
 
-![social-media-copilot](https://images-1252557999.file.myqcloud.com/uPic/HvvXRg.png) 
+@youwen21 投稿，飞鸟 `m3u8` 视频下载器是一款 `m3u8` 下载工具，支持 Windows, MacOS双系统，包含功能有：
 
-### [novel-disguise](https://github.com/NiaoBlush/novel-disguise)
+- m3u8 和直播录制和点播下载
+- IPTV 播放与自定义源管理
 
-将小说页面伪装成一个 `Word` 文档或 `Excel` 表格，神奇的脑回路，应该是为摸鱼而生的项目，好像还支持了 v 站：
+![m3u8downloader](https://images-1252557999.file.myqcloud.com/uPic/m3u8downloader.png) 
 
-![novel-disguise](https://images-1252557999.file.myqcloud.com/uPic/bPV6Qm.png) 
+### [flutter_server_box](https://github.com/lollipopkit/flutter_server_box/blob/main/README_zh.md)
+
+使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具：
+
+-  功能
+	-  SSH 终端, SFTP
+	-  Docker & 包 管理器
+	-  状态图表
+	-  代码编辑器
+	-  Ping 和 更多
+-  本地化 ( English, 简体中文, Deutsch, 繁體中文)
+-  桌面端支持
+
+![flutter_server_box](https://images-1252557999.file.myqcloud.com/uPic/flutter_server_box.jpg) 
 
 ## 👀 资料 
 
-### [php-the-right-way](https://learnku.com/docs/php-the-right-way/PHP8.0)
+### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
 
-PHP 入门教程，现在这块市场占有越来越少了，新项目应该都用 Go 或者 Python ，有兴趣学习的可以作为教程看看：
+一本基于`python&matplotlib`进行科学可视化的开源书籍：
 
-![php-the-right-way](https://images-1252557999.file.myqcloud.com/uPic/DKXw5S.png) 
+![scientific-visualization-book](https://images-1252557999.file.myqcloud.com/uPic/scientific-visualization-book.jpg) 
 
-### [Curosor 教程](https://www.lookai.top/cn/cursor/instruction/instruction)
+### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 
-零基础小白 `Cursor` 学习网站：
+[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
 
-![Curosor](https://images-1252557999.file.myqcloud.com/uPic/YIZShF.png) 
+**可惜永远都不会再更新了，默哀！**
 
-### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
 
-微软开源的一份全面的数据科学课程，20个课时，历时10周：
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
 ## 🕸 网站 
 
-### [self.so](https://www.self.so/)
+### [warp.dev](https://www.warp.dev/)
 
-上传简历，基于 AI 大模型生成个人网站：
+一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
 
-![self.so](https://images-1252557999.file.myqcloud.com/uPic/eKGx5T.png) 
+![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
 
-### [drawl.ink](https://drawl.ink/)
+### [yalijuda](https://www.yalijuda.com)
 
-将链接转化成好看的图片：
+简单快捷的图片压缩体验，多种压缩模式可选，压缩图片清晰无锯齿：
 
-![drawl](https://images-1252557999.file.myqcloud.com/uPic/eltzuF.png) 
+![www.yalijuda.com_yalijuda_sq0onjIiVg](https://images-1252557999.file.myqcloud.com/uPic/www.yalijuda.com_yalijuda_sq0onjIiVg.jpg) 
 
-### [alleyread](https://alleyread.com/)
+### [svgsilh](https://svgsilh.com/)
 
-发现优质 `Newsletter`：
+免费可商用的`SVG`素材网站：
 
-![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
+![svgsilh](https://images-1252557999.file.myqcloud.com/uPic/svgsilh.jpg) 
 
 ## ✍️ 说明
 
