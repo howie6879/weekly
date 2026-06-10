@@ -5,106 +5,88 @@
 
 ## 🎯 项目 
 
-### [copyparty](https://github.com/9001/copyparty)
+### [ossart](https://github.com/djyde/ossart)
 
-一个多功能的文件服务器应用程序，支持加速的可恢复上传、去重、WebDAV、FTP、TFTP、zeroconf、媒体索引器、缩略图生成等功能，集成了多种协议和服务，并且支持跨平台使用，无需任何依赖。
+这是一个娱乐性质的项目，可以将你最近 6年的 GitHub 活跃图打印成摆件，在官网[getoss](https://getoss.art/)填写你的用户名即可：
 
-![copyparty](https://images-1252557999.file.myqcloud.com/uPic/fgTNRH.png) 
+![ossart](https://images-1252557999.file.myqcloud.com/uPic/5SYY8P.jpg) 
 
-### [fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
+### [Textual](https://github.com/Textualize/textual)
 
-微软开源的 `Fluent Emoji` 表情包：
+`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
 
-![fluentui-emoji](https://images-1252557999.file.myqcloud.com/uPic/fluentui-emoji.webp) 
+![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
 
-### [metersphere](https://github.com/metersphere/metersphere)
+### [magentic-ui](https://github.com/microsoft/magentic-ui "magentic-ui")
 
-[MeterSphere](https://metersphere.io/) 是一站式开源持续测试平台, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter、Selenium` 等主流开源标准，有效助力开发和测试团队充分利用云弹性进行高度可扩展的自动化测试，加速高质量的软件交付：
+`Magentic-UI` 是一个实验性的、人工为中心的网页代理（`web agent`），旨在通过多智能体系协助用户执行网页任务，生成和执行代码，以及生成和分析文件，微软出品：
 
-![metersphere](https://images-1252557999.file.myqcloud.com/uPic/metersphere.jpeg) 
+![magentic-ui](https://images-1252557999.file.myqcloud.com/uPic/qhpo91.png) 
 
 ## 🤖 软件 
 
-### [tuboshu](https://github.com/deepshit2025/tuboshu)
+### [dockit](https://github.com/geek-fun/dockit)
 
-一款桌面应用转换工具，让你用快捷键魔法般控制任何网页应用：
+一个跨平台的图形用户界面客户端，支持 `Elasticsearch` 和 `Opensearch` 数据库管理。
 
-- 🔥 一键网页转应用 - 将任何网站变成独立的桌面应用
-- 🚀 账户多开 - 网站可以多开，支持账户隔离，独立运行互不干扰
-- ⚡️ 闪电切换 - 全局快捷键快速显示/隐藏（默认 Ctrl/Cmd + H）
-- 🎨 深度定制 - 自定义窗口尺寸、图标、快捷键,支持JS注入，定制专属自己的页面
-- 📦 便携打包 - 生成可执行文件（支持 Windows/macOS/Linux）
-- 🔒 隐私保护 - 本地存储配置数据，无需云端同步
-- 🌍 多平台支持 - 完美运行于主流操作系统
-- 🎮无需复杂配置即可自由添加站点
+![dockit](https://images-1252557999.file.myqcloud.com/uPic/apAgUR.png) 
 
-![tuboshu](https://images-1252557999.file.myqcloud.com/uPic/d1GxMj.png) 
+### [FixTim](https://github.com/Lakr233/FixTim)
 
-### [flybird-m3u8downloader](https://github.com/youwen21/flybird-m3u8downloader)
+在很多情况下，我们可能需要重新启动 `Mac` 来纠正故障。这个工具旨在解决大多数运行时错误，而无需完全重新启动系统，并且它可以将您的应用程序恢复到问题出现之前的状态：
 
-@youwen21 投稿，飞鸟 `m3u8` 视频下载器是一款 `m3u8` 下载工具，支持 Windows, MacOS双系统，包含功能有：
+![FixTim](https://images-1252557999.file.myqcloud.com/uPic/FixTim.gif) 
 
-- m3u8 和直播录制和点播下载
-- IPTV 播放与自定义源管理
+### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
 
-![m3u8downloader](https://images-1252557999.file.myqcloud.com/uPic/m3u8downloader.png) 
+基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
 
-### [flutter_server_box](https://github.com/lollipopkit/flutter_server_box/blob/main/README_zh.md)
+- 干净简洁的UI
+- 内置效果可实现准确的男声和女声
+- 创建&加载自定义预设的能力
+- 创建自己的临时虚拟输入设备
 
-使用 `Flutter` 开发的 `Linux` 服务器工具箱，提供服务器状态图表和管理工具：
-
--  功能
-	-  SSH 终端, SFTP
-	-  Docker & 包 管理器
-	-  状态图表
-	-  代码编辑器
-	-  Ping 和 更多
--  本地化 ( English, 简体中文, Deutsch, 繁體中文)
--  桌面端支持
-
-![flutter_server_box](https://images-1252557999.file.myqcloud.com/uPic/flutter_server_box.jpg) 
+![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
 
 ## 👀 资料 
 
-### [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
+### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
 
-一本基于`python&matplotlib`进行科学可视化的开源书籍：
+Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
 
-![scientific-visualization-book](https://images-1252557999.file.myqcloud.com/uPic/scientific-visualization-book.jpg) 
+![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
 
-### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
+### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
 
-[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
+带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
 
-**可惜永远都不会再更新了，默哀！**
+![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
 
-![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
+### [css-animation-101](https://github.com/cssanimation/css-animation-101)
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+学习如何为您的网页项目添加动画效果，也有中文版👉[css-animation-101-cn](https://h-wakanda.github.io/css-animation-101-cn/)：
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
-
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+![css-animation-101-cn](https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg) 
 
 ## 🕸 网站 
 
-### [warp.dev](https://www.warp.dev/)
+### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
 
-一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
+老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
 
-![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
+![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
 
-### [yalijuda](https://www.yalijuda.com)
+### [cikeee](https://www.cikeee.com/)
 
-简单快捷的图片压缩体验，多种压缩模式可选，压缩图片清晰无锯齿：
+每天推荐一部优秀的电影：
 
-![www.yalijuda.com_yalijuda_sq0onjIiVg](https://images-1252557999.file.myqcloud.com/uPic/www.yalijuda.com_yalijuda_sq0onjIiVg.jpg) 
+![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
 
-### [svgsilh](https://svgsilh.com/)
+### [pixel](https://aqeja.github.io/pixel/)
 
-免费可商用的`SVG`素材网站：
+一个小工具，将你的图片像素化:
 
-![svgsilh](https://images-1252557999.file.myqcloud.com/uPic/svgsilh.jpg) 
+![pixel](https://images-1252557999.file.myqcloud.com/uPic/KfJuhM.png) 
 
 ## ✍️ 说明
 
