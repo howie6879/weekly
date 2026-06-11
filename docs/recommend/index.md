@@ -5,88 +5,84 @@
 
 ## 🎯 项目 
 
-### [ossart](https://github.com/djyde/ossart)
+### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 
-这是一个娱乐性质的项目，可以将你最近 6年的 GitHub 活跃图打印成摆件，在官网[getoss](https://getoss.art/)填写你的用户名即可：
+`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
 
-![ossart](https://images-1252557999.file.myqcloud.com/uPic/5SYY8P.jpg) 
+![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
 
-### [Textual](https://github.com/Textualize/textual)
+### [gemini-balance](https://github.com/snailyp/gemini-balance)
 
-`Textual` 是一个 TUI (文本用户界面)的 Python 框架，灵感来自于现代 web 开发。
+基于 `Python FastAPI` 开发的 `Gemini API` 代理和负载均衡应用，提供多 `Gemini API` 密钥管理、负载均衡、认证、模型过滤、状态监控等功能，同时支持 `OpenAI API` 格式的代理功能，以及图片生成和上传功能：
 
-![Textual](https://images-1252557999.file.myqcloud.com/uPic/Textual.png) 
+![gemini-balance](https://images-1252557999.file.myqcloud.com/uPic/H0u8mv.png) 
 
-### [magentic-ui](https://github.com/microsoft/magentic-ui "magentic-ui")
+### [deck](https://github.com/k1LoW/deck)
 
-`Magentic-UI` 是一个实验性的、人工为中心的网页代理（`web agent`），旨在通过多智能体系协助用户执行网页任务，生成和执行代码，以及生成和分析文件，微软出品：
+`deck` 用于将 `Markdown` 文件转换为 `Google Slides` 演示文稿：
 
-![magentic-ui](https://images-1252557999.file.myqcloud.com/uPic/qhpo91.png) 
+![deck](https://images-1252557999.file.myqcloud.com/uPic/AErdHM.png) 
 
 ## 🤖 软件 
 
-### [dockit](https://github.com/geek-fun/dockit)
+### [pdfarranger](https://github.com/pdfarranger/pdfarranger)
 
-一个跨平台的图形用户界面客户端，支持 `Elasticsearch` 和 `Opensearch` 数据库管理。
+一个小巧开源免费的 `Python-GTK` 应用程序，可以帮助用户使用交互和直观的图形界面合并或拆分 `PDF` 文档，并旋转、裁剪和重新排列页面：
 
-![dockit](https://images-1252557999.file.myqcloud.com/uPic/apAgUR.png) 
+![pdfarranger](https://images-1252557999.file.myqcloud.com/uPic/pdfarranger.png) 
 
-### [FixTim](https://github.com/Lakr233/FixTim)
+### [datastation](https://github.com/multiprocessio/datastation)
 
-在很多情况下，我们可能需要重新启动 `Mac` 来纠正故障。这个工具旨在解决大多数运行时错误，而无需完全重新启动系统，并且它可以将您的应用程序恢复到问题出现之前的状态：
+`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
 
-![FixTim](https://images-1252557999.file.myqcloud.com/uPic/FixTim.gif) 
+![datastation](https://images-1252557999.file.myqcloud.com/uPic/datastation.jpg) 
 
-### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
+### [podman-desktop](https://github.com/containers/podman-desktop)
 
-基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
-
-- 干净简洁的UI
-- 内置效果可实现准确的男声和女声
-- 创建&加载自定义预设的能力
-- 创建自己的临时虚拟输入设备
-
-![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
+ `Podman` 的桌面版：
+ 
+ ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
 
 ## 👀 资料 
 
-### [Rust 程序设计语言](https://github.com/KaiserY/trpl-zh-cn)
+### [Easy搞定Golang设计模式](https://www.yuque.com/aceld/lfhu8y/rg6nsf)
 
-Rust 中文社区翻译的[《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/)：
+一份Golang设计模式教程：
 
-![trpl-zh-cn](https://images-1252557999.file.myqcloud.com/uPic/trpl-zh-cn.jpg) 
+![Easy搞定Golang设计模式](https://images-1252557999.file.myqcloud.com/uPic/Easy搞定Golang设计模式.jpg) 
 
-### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
+### [prompt-tuning-playbook](https://github.com/varungodbole/prompt-tuning-playbook)
 
-带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
+项目主要提供了一份针对后训练大型语言模型（LLMs）的有效提示技术指南，旨在帮助用户更好地理解和应用这些模型。
 
-![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
+后训练使得 LLMs 能够更好地遵循指令、匹配现实世界、保持安全等，这些行为包括但不限于格式遵循、指令执行、事实准确性和安全性。 
 
-### [css-animation-101](https://github.com/cssanimation/css-animation-101)
+### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
-学习如何为您的网页项目添加动画效果，也有中文版👉[css-animation-101-cn](https://h-wakanda.github.io/css-animation-101-cn/)：
+微软开源的一份全面的数据科学课程，20个课时，历时10周：
 
-![css-animation-101-cn](https://images-1252557999.file.myqcloud.com/uPic/css-animation-101-cn.jpg) 
+![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
 
 ## 🕸 网站 
 
-### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
+### [apivault.dev](https://apivault.dev/)
 
-老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
+免费开源的公共 `API` 网站：
 
-![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
+![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
 
-### [cikeee](https://www.cikeee.com/)
+### [万词王](https://github.com/thunlp/WantWords)
 
-每天推荐一部优秀的电影：
+万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
 
-![cikeee](https://images-1252557999.file.myqcloud.com/uPic/cikeee.jpg) 
+![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
+官方访问地址：[wantwords.net](https://wantwords.net/)。 
 
-### [pixel](https://aqeja.github.io/pixel/)
+### [icones.js.org](https://icones.js.org/)
 
-一个小工具，将你的图片像素化:
+免费的图标库：
 
-![pixel](https://images-1252557999.file.myqcloud.com/uPic/KfJuhM.png) 
+![icones](https://images-1252557999.file.myqcloud.com/uPic/icones.jpg) 
 
 ## ✍️ 说明
 
