@@ -5,84 +5,111 @@
 
 ## 🎯 项目 
 
-### [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
+### [ddns-go](https://github.com/jeessy2/ddns-go)
 
-`nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx`：
+简单好用的 `DDNS`，自动更新域名解析到公网IP(支持阿里云、腾讯云 `dnspod`、`Cloudflare`、华为云、百度云、`porkbun`)：
 
-![nginxproxymanager](https://images-1252557999.file.myqcloud.com/uPic/nginxproxymanager.jpg) 
+![ddns-go](https://images-1252557999.file.myqcloud.com/uPic/ddns-go.png) 
 
-### [gemini-balance](https://github.com/snailyp/gemini-balance)
+### [crawl4ai](https://github.com/unclecode/crawl4ai)
 
-基于 `Python FastAPI` 开发的 `Gemini API` 代理和负载均衡应用，提供多 `Gemini API` 密钥管理、负载均衡、认证、模型过滤、状态监控等功能，同时支持 `OpenAI API` 格式的代理功能，以及图片生成和上传功能：
+`Crawl4AI` 是一个免费且开源的网络爬虫工具，专为大型语言模型（LLMs）和 AI 应用设计，支持多种输出格式，如 JSON、HTML 和 markdown。它能够同时处理多个 URL，提取媒体标签（图片、音频和视频），以及内外链接和网页元数据。 
 
-![gemini-balance](https://images-1252557999.file.myqcloud.com/uPic/H0u8mv.png) 
+### [mesop](https://github.com/google/mesop)
 
-### [deck](https://github.com/k1LoW/deck)
+Mesop 是一个基于 Python 的 UI 框架，用于快速构建如演示和内部应用的 Web 应用程序。它提供直观的 UI 编写，支持响应式 UI 编程范式，具有热重载功能和丰富的 IDE 支持。开发者可以通过简洁的 Python 代码构建自定义 UI，无需编写 JavaScript/CSS/HTML。
 
-`deck` 用于将 `Markdown` 文件转换为 `Google Slides` 演示文稿：
+![mesop](https://images-1252557999.file.myqcloud.com/uPic/mesop.jpg)
+类似的 Web&桌面软件框架：
 
-![deck](https://images-1252557999.file.myqcloud.com/uPic/AErdHM.png) 
+- https://github.com/zauberzeug/nicegui
+- https://github.com/pywebio/PyWebIO
+- https://github.com/flet-dev/flet
+- https://github.com/streamlit/streamlit
+- https://github.com/python-eel/Eel
+- https://github.com/kivy/kivy
+- https://github.com/PySimpleGUI/PySimpleGUI
+- https://github.com/r0x0r/pywebview
+- https://github.com/hoffstadt/DearPyGui
+- https://github.com/Textualize/textual 
 
 ## 🤖 软件 
 
-### [pdfarranger](https://github.com/pdfarranger/pdfarranger)
+### [rubick](https://github.com/rubickCenter/rubick)
 
-一个小巧开源免费的 `Python-GTK` 应用程序，可以帮助用户使用交互和直观的图形界面合并或拆分 `PDF` 文档，并旋转、裁剪和重新排列页面：
+基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
 
-![pdfarranger](https://images-1252557999.file.myqcloud.com/uPic/pdfarranger.png) 
+- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
+- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
+- 支持全局快捷键设置。
+- 支持剪贴板文件搜索。
+- 支持搜索本地安装的应用程序或偏好设置。
+- 支持MacOS。
+- 支持Windows。
+- 支持Linux。
 
-### [datastation](https://github.com/multiprocessio/datastation)
+![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
 
-`DataStation` 是一款面向开发者的跨平台开源数据 IDE，其允许你从SQL、日志、指标数据、HTTP 服务数据甚至文本中提取关键数据并创建表格以及可视化：
+### [biliTickerBuy](https://github.com/mikumifa/biliTickerBuy)
 
-![datastation](https://images-1252557999.file.myqcloud.com/uPic/datastation.jpg) 
+免费开源的B站会员购购票辅助工具：
 
-### [podman-desktop](https://github.com/containers/podman-desktop)
+![biliTickerBuy](https://images-1252557999.file.myqcloud.com/uPic/f4iCzf.png) 
 
- `Podman` 的桌面版：
- 
- ![podman-desktop](https://images-1252557999.file.myqcloud.com/uPic/podman-desktop.jpg) 
+### [any-reader](https://github.com/aooiuu/any-reader)
+
+多平台自定义源资源聚合工具，支持看小说、漫画、视频等：
+
+- 跨平台: Windows、Mac、Linux
+- 多应用: 桌面端、网页端、Docker、VSCode插件、 uTools 插件、rubick 插件
+- 多类型：小说、漫画、视频、音频
+- 自定义源：通过 XPath、JSONPath、CSS选择器、正则、JS等轻松编写规则
+- 生态兼容：兼容 eso 源
+- 资源站接入：支持导入苹果CMS、ZyPlayer
+- 开放解析库：规则解析库分离, 你可以使用解析库开发自己的程序
+- 本地资源支持：支持本地小说格式 TXT、Epub
+
+![any-reader](https://images-1252557999.file.myqcloud.com/uPic/any-reader.jpg) 
 
 ## 👀 资料 
 
-### [Easy搞定Golang设计模式](https://www.yuque.com/aceld/lfhu8y/rg6nsf)
+### [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
-一份Golang设计模式教程：
+这个项目对于机器学习领域的工程师来说算是比较全面的最佳实践，作者通过10篇[博文](hhttps://www.ravirajag.dev/)，详细介绍了数据获取、分析、建模、上线、监控一整条链路，非常值得借鉴。
 
-![Easy搞定Golang设计模式](https://images-1252557999.file.myqcloud.com/uPic/Easy搞定Golang设计模式.jpg) 
+我之前就在团队调研过一站式机器学习云开发平台，可以再考虑加上`Ops`相关组件，这对团队的开发效率提升是非常大的。 
 
-### [prompt-tuning-playbook](https://github.com/varungodbole/prompt-tuning-playbook)
+### [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
 
-项目主要提供了一份针对后训练大型语言模型（LLMs）的有效提示技术指南，旨在帮助用户更好地理解和应用这些模型。
+一份免费的简单易懂的 `Git` 入门教程，分为入门篇和高级篇：
 
-后训练使得 LLMs 能够更好地遵循指令、匹配现实世界、保持安全等，这些行为包括但不限于格式遵循、指令执行、事实准确性和安全性。 
+![m-git-tutoria](https://images-1252557999.file.myqcloud.com/uPic/m-git-tutoria.jpg) 
 
-### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
 
-微软开源的一份全面的数据科学课程，20个课时，历时10周：
-
-![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
+本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
 
 ## 🕸 网站 
 
-### [apivault.dev](https://apivault.dev/)
+### [it-tools](https://it-tools.tech/)
 
-免费开源的公共 `API` 网站：
+面向开发者的实用在线工具集合，拥有出色的用户体验，非常漂亮的程序员工具箱聚合网站：
 
-![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
+![it-tools](https://images-1252557999.file.myqcloud.com/uPic/it-tools.jpg)
 
-### [万词王](https://github.com/thunlp/WantWords)
+也可以在线访问：[it-tools.tech](https://it-tools.tech/)。 
 
-万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词:
+### [watermarkremover](https://www.watermarkremover.io/)
 
-![wantwords](https://images-1252557999.file.myqcloud.com/uPic/jaL3z5.png)
-官方访问地址：[wantwords.net](https://wantwords.net/)。 
+通过AI技术去除图片水印：
 
-### [icones.js.org](https://icones.js.org/)
+![watermarkremover](https://images-1252557999.file.myqcloud.com/uPic/watermarkremover.jpg) 
 
-免费的图标库：
+### [phind.com](https://www.phind.com/)
 
-![icones](https://images-1252557999.file.myqcloud.com/uPic/icones.jpg) 
+面向开发者的人工智能搜索引擎：
+
+![phind](https://images-1252557999.file.myqcloud.com/uPic/phind.jpg) 
 
 ## ✍️ 说明
 
