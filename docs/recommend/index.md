@@ -5,90 +5,71 @@
 
 ## 🎯 项目 
 
-### [album-ai](https://github.com/gcui-art/album-ai)
+### [pdf-craft](https://github.com/oomol-lab/pdf-craft)
 
-挺有想法的项目，基于 `gpt-4o-mini` 作为视觉模型，自动识别出相册中图像文件的元信息，然后借助 `RAG` 技术，实现了与相册对话的能力：
+`PDF Craft` 可以将 `PDF` 文件转化为各种其他格式，该项目将专注于扫描书籍的 `PDF` 文件的处理：
 
-![album-ai](https://images-1252557999.file.myqcloud.com/uPic/album-ai.jpg) 
+![pdf-craft](https://images-1252557999.file.myqcloud.com/uPic/7Gx8lB.png) 
 
-### [H5-Dooring](https://github.com/MrXujiang/h5-Dooring)
+### [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
 
-让 H5 制作像搭积木一样简单，轻松搭建 H5 页面：
+一款提示词优化器，助力于编写高质量的提示词：
 
-![H5-Dooring](https://images-1252557999.file.myqcloud.com/uPic/QtWiIc.png) 
+![prompt-optimizer](https://images-1252557999.file.myqcloud.com/uPic/lWZUg2.png) 
 
-### [streamlit](https://github.com/streamlit/streamlit)
+### [showdoc](https://github.com/star7th/showdoc)
 
-用 `Python` 快速构建数据应用：
+一个非常适合IT团队的在线API文档、技术文档工具:
 
-![Streamlit_overview](https://images-1252557999.file.myqcloud.com/uPic/Streamlit_overview.gif)
-类似的选择还有 [gradio](https://github.com/gradio-app/gradio)，其更偏向AI模型的web解决方案。 
+![showdoc](https://images-1252557999.file.myqcloud.com/uPic/showdoc.jpg) 
 
 ## 🤖 软件 
 
-### [fluent-reader](https://github.com/yang991178/fluent-reader)
+### [FairEmail](https://github.com/M66B/FairEmail)
 
-一款拥有现代化界面的RSS阅读器，拥有以下特性：
+完全开源免费、具有全面功能、面向隐私的邮件App（仅支持安卓）：
 
-- 跨平台
-- 可同步自部署服务以及外部服务如：Inoreader, Feedbin
-- 支持OPML导入导出
-- 正则检索，状态管控，快捷键等
+![FairEmail](https://images-1252557999.file.myqcloud.com/uPic/FairEmail.png) 
 
-![fluent-reader](https://images-1252557999.file.myqcloud.com/uPic/fluent-reader.png) 
+### [breezy-weather](https://github.com/breezy-weather/breezy-weather/)
 
-### [unclutter](https://github.com/lindylearn/unclutter)
+`Breezy Weather` 是一款全面采用 `Material Design` 设计风格的天气应用，其注重设计，UI简洁，动画效果流畅：
 
-阅读插件，将网页内容快速转成美观的阅读模式：
+![breezy-weather](https://images-1252557999.file.myqcloud.com/uPic/breezy-weather.jpg) 
 
-![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
+### [Bob](https://github.com/ripperhe/Bob)
 
-### [rubick](https://github.com/rubickCenter/rubick)
+同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
 
-基于 `Electron` 的开源工具箱，自由集成丰富插件，可以简单理解为 `uTool` 的开源替代品：
-
-- 基于npm包模式的插件管理，安装插件就像安装npm包一样容易。
-- 支持系统插件，在rubick运行的情况下，插件随时可以使用。
-- 支持全局快捷键设置。
-- 支持剪贴板文件搜索。
-- 支持搜索本地安装的应用程序或偏好设置。
-- 支持MacOS。
-- 支持Windows。
-- 支持Linux。
-
-![rubick](https://images-1252557999.file.myqcloud.com/uPic/rubick.jpg) 
+- [x]   划词翻译
+- [x]   截图翻译
+- [x]   输入翻译
+- [x]   翻译多开
+- [x]   自定义插件
+- [x]   自动识别语种
+- [x]   驼峰拆分、蛇形拆分
+- [x]   AppleScript 调用
+- [x]   PopClip 调用 
 
 ## 👀 资料 
 
-### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
+### [GPU 编程视频](https://www.youtube.com/playlist?list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j)
 
-自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
+可视化 `GPU` 编程教程：
 
-![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
+![GPU-programming](https://images-1252557999.file.myqcloud.com/uPic/f1S0iU.png) 
 
-### [overseas-website-note](https://github.com/princehuang/overseas-website-note)
+### [comprehensive-rust](https://google.github.io/comprehensive-rust/welcome.html)
 
-本项目记录作者开发海外网站和设立跨境业务过程中的实践经验。 
+谷歌出品的四天学习 `Rust` 👀
 
-### [rework](https://github.com/livid/rework)
+![comprehensive-rust](https://images-1252557999.file.myqcloud.com/uPic/comprehensive-rust.jpg) 
 
-这是一本来自 `37signals` 的关于商业和创意执行的书，由 `OLIVIDA` 翻译，在线阅读地址见[这里](https://www.v2ex.com/rework)：
+### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
 
-![rework](https://images-1252557999.file.myqcloud.com/uPic/rework.jpg) 
+公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
 
 ## 🕸 网站 
-
-### [uilibhub](https://uilibhub.com/zh)
-
-探索最佳 `UI` 库，助力 `React & Vue` 高效开发：
-
-![uilibhub](https://images-1252557999.file.myqcloud.com/uPic/uilibhub.jpg) 
-
-### [cursor.directory](https://cursor.directory/)
-
-基于你在用的框架或者语言，提供最好的 curson 规则。也开源在 [github](https://github.com/pontusab/cursor.directory)
-
-![cursor.directory](https://images-1252557999.file.myqcloud.com/uPic/ygOBRk.png) 
 
 ### [网道](https://wangdoc.com/)
 
@@ -97,6 +78,20 @@
 目前提供了不少教程，对于初学者是非常友好的：
 
 ![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
+
+### [huawei-od](https://huawei-od.vercel.app/)
+
+牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
+
+![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
+
+### [segment-anything.com](https://segment-anything.com/)
+
+`Segment Anything Model（SAM）`：这是 `Meta AI` 推出的一款新的`AI` 模型，它可以通过单击轻松**抠出**任何图像中的任何物体。
+
+也就是说，这个模型可以用一次点击的方式，将任何图片中的任何物体分割出来。
+
+![segment-anything](https://images-1252557999.file.myqcloud.com/uPic/segment-anything.jpg) 
 
 ## ✍️ 说明
 
