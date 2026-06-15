@@ -5,93 +5,87 @@
 
 ## 🎯 项目 
 
-### [pdf-craft](https://github.com/oomol-lab/pdf-craft)
+### [LightBook](https://github.com/underthestars-zhy/LightBook)
 
-`PDF Craft` 可以将 `PDF` 文件转化为各种其他格式，该项目将专注于扫描书籍的 `PDF` 文件的处理：
+开源的小说下载脚本项目，输出格式为 `EPUB`：
 
-![pdf-craft](https://images-1252557999.file.myqcloud.com/uPic/7Gx8lB.png) 
+![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
 
-### [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
+### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
 
-一款提示词优化器，助力于编写高质量的提示词：
+`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
 
-![prompt-optimizer](https://images-1252557999.file.myqcloud.com/uPic/lWZUg2.png) 
+![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
 
-### [showdoc](https://github.com/star7th/showdoc)
+### [n8n](https://github.com/n8n-io/n8n "n8n")
 
-一个非常适合IT团队的在线API文档、技术文档工具:
+`n8n` 是一款带有 `AI` 能力的工作流程自动化工具，提供了多步骤 AI 代理集成和超过 500 个集成工具的能力，开发者可以自定义想要使用的功能和应用程序：
 
-![showdoc](https://images-1252557999.file.myqcloud.com/uPic/showdoc.jpg) 
+![n8n](https://images-1252557999.file.myqcloud.com/uPic/YUavwl.png) 
 
 ## 🤖 软件 
 
-### [FairEmail](https://github.com/M66B/FairEmail)
+### [Calendr](https://github.com/pakerwreah/Calendr)
 
-完全开源免费、具有全面功能、面向隐私的邮件App（仅支持安卓）：
+开源的菜单栏日历应用程序，专为 macOS 设计，提供了一个简洁的界面来查看和管理日程。
 
-![FairEmail](https://images-1252557999.file.myqcloud.com/uPic/FairEmail.png) 
+![Calendr](https://images-1252557999.file.myqcloud.com/uPic/TsGyZ0.png) 
 
-### [breezy-weather](https://github.com/breezy-weather/breezy-weather/)
+### NewPipe
 
-`Breezy Weather` 是一款全面采用 `Material Design` 设计风格的天气应用，其注重设计，UI简洁，动画效果流畅：
+`NewPipe` 是一款 Android 下的第三方 `YouTube` 客户端，支持画中画、后台播放、变速播放、可查看留言、可导入订阅频道、可使用 `Kodi` 播放，是一款功能非常完善的油管客户端：
 
-![breezy-weather](https://images-1252557999.file.myqcloud.com/uPic/breezy-weather.jpg) 
+![NewPipe](https://images-1252557999.file.myqcloud.com/uPic/NewPipe.jpg) 
 
-### [Bob](https://github.com/ripperhe/Bob)
+### [Refined GitHub](https://github.com/refined-github/refined-github)
 
-同样是我的必备软件，Bob 是一款 Mac 端翻译软件，支持**划词翻译**、**截图翻译**以及手动输入翻译。
+一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
 
-- [x]   划词翻译
-- [x]   截图翻译
-- [x]   输入翻译
-- [x]   翻译多开
-- [x]   自定义插件
-- [x]   自动识别语种
-- [x]   驼峰拆分、蛇形拆分
-- [x]   AppleScript 调用
-- [x]   PopClip 调用 
+那么`Refined GitHub`主要做了哪些工作呢，如下：
+
+- 浏览代码时候使空格可见
+- 添加一键式合并冲突修复程序
+- 添加表情评论头像
+- 在合并PR时，添加等待检查的选项
+- ...
+
+![](https://images-1252557999.file.myqcloud.com/uPic/lI0jFl.png) 
 
 ## 👀 资料 
 
-### [GPU 编程视频](https://www.youtube.com/playlist?list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j)
+### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
 
-可视化 `GPU` 编程教程：
+此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
 
-![GPU-programming](https://images-1252557999.file.myqcloud.com/uPic/f1S0iU.png) 
+### [llm-course](https://github.com/mlabonne/llm-course)
 
-### [comprehensive-rust](https://google.github.io/comprehensive-rust/welcome.html)
+与大型语言模型(LLM)相关的笔记本和文章清单：
 
-谷歌出品的四天学习 `Rust` 👀
+![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
 
-![comprehensive-rust](https://images-1252557999.file.myqcloud.com/uPic/comprehensive-rust.jpg) 
+### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
 
-### [Company-Names-Corpus](https://github.com/wainshine/Company-Names-Corpus)
-
-公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 
+![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
 ## 🕸 网站 
 
-### [网道](https://wangdoc.com/)
+### [识典古籍](https://www.shidianguji.com/)
 
-前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
+识典古籍 – 古籍在线阅读平台，北大和抖音合作开发的古籍阅读网站：
 
-目前提供了不少教程，对于初学者是非常友好的：
+![shidianguji](https://images-1252557999.file.myqcloud.com/uPic/shidianguji.jpg) 
 
-![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
+### [allthingsai](https://allthingsai.com/)
 
-### [huawei-od](https://huawei-od.vercel.app/)
+提供完整的 `AI` 相关工具&服务资源：
 
-牛客网华为 OJ 机试题题解分享，你可以在这里找到作者对所有机试题的 JavaScript 版本题解和代码思路解析。
+![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
 
-![huawei-od](https://images-1252557999.file.myqcloud.com/uPic/VNo0C5.png) 
+### [choosealicense](https://choosealicense.com/)
 
-### [segment-anything.com](https://segment-anything.com/)
+`choosealicense` 帮助您轻松选择和一键复制开源协议：
 
-`Segment Anything Model（SAM）`：这是 `Meta AI` 推出的一款新的`AI` 模型，它可以通过单击轻松**抠出**任何图像中的任何物体。
-
-也就是说，这个模型可以用一次点击的方式，将任何图片中的任何物体分割出来。
-
-![segment-anything](https://images-1252557999.file.myqcloud.com/uPic/segment-anything.jpg) 
+![choosealicense](https://images-1252557999.file.myqcloud.com/uPic/RW33E0.png) 
 
 ## ✍️ 说明
 
