@@ -5,87 +5,85 @@
 
 ## 🎯 项目 
 
-### [LightBook](https://github.com/underthestars-zhy/LightBook)
+### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
 
-开源的小说下载脚本项目，输出格式为 `EPUB`：
+不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
 
-![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
+### [umami](https://github.com/umami-software/umami)
 
-### [Real-ESRGAN](https://www.appinn.com/real-esrgan/)
+`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
 
-`Real-ESRGA`目标是做一款针对照片、动画图片的分辨率放大工具，其内置了一个预训练模型，可以提升 4 倍分辨率，具体效果大家可以看看下面的截图：
+![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
 
-![Real-ESRGAN](https://images-1252557999.file.myqcloud.com/uPic/DBST14.jpg) 
+### [gemini-balance](https://github.com/snailyp/gemini-balance)
 
-### [n8n](https://github.com/n8n-io/n8n "n8n")
+基于 `Python FastAPI` 开发的 `Gemini API` 代理和负载均衡应用，提供多 `Gemini API` 密钥管理、负载均衡、认证、模型过滤、状态监控等功能，同时支持 `OpenAI API` 格式的代理功能，以及图片生成和上传功能：
 
-`n8n` 是一款带有 `AI` 能力的工作流程自动化工具，提供了多步骤 AI 代理集成和超过 500 个集成工具的能力，开发者可以自定义想要使用的功能和应用程序：
-
-![n8n](https://images-1252557999.file.myqcloud.com/uPic/YUavwl.png) 
+![gemini-balance](https://images-1252557999.file.myqcloud.com/uPic/H0u8mv.png) 
 
 ## 🤖 软件 
 
-### [Calendr](https://github.com/pakerwreah/Calendr)
+### [JPEGView](https://github.com/sylikc/jpegview)
 
-开源的菜单栏日历应用程序，专为 macOS 设计，提供了一个简洁的界面来查看和管理日程。
+`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
 
-![Calendr](https://images-1252557999.file.myqcloud.com/uPic/TsGyZ0.png) 
+### [VeraCrypt](https://veracrypt.fr/en/Home.html)
 
-### NewPipe
+`VeraCrypt` 是一款著名的跨平台、开源磁盘加密工具：
 
-`NewPipe` 是一款 Android 下的第三方 `YouTube` 客户端，支持画中画、后台播放、变速播放、可查看留言、可导入订阅频道、可使用 `Kodi` 播放，是一款功能非常完善的油管客户端：
+![VeraCrypt](https://images-1252557999.file.myqcloud.com/uPic/VeraCrypt.jpg) 
 
-![NewPipe](https://images-1252557999.file.myqcloud.com/uPic/NewPipe.jpg) 
+### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
 
-### [Refined GitHub](https://github.com/refined-github/refined-github)
+B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
 
-一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
-
-那么`Refined GitHub`主要做了哪些工作呢，如下：
-
-- 浏览代码时候使空格可见
-- 添加一键式合并冲突修复程序
-- 添加表情评论头像
-- 在合并PR时，添加等待检查的选项
-- ...
-
-![](https://images-1252557999.file.myqcloud.com/uPic/lI0jFl.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg) 
 
 ## 👀 资料 
 
-### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
+### [developer2gwy](https://github.com/miss-mumu/developer2gwy)
 
-此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
+公务员从入门到上岸，最佳程序员公考实践教程，一份开源公务员考试的最佳实践指南，一部解构体制工作生活的说明手册：
 
-### [llm-course](https://github.com/mlabonne/llm-course)
+![developer2gwy](https://images-1252557999.file.myqcloud.com/uPic/developer2gwy.jpg) 
 
-与大型语言模型(LLM)相关的笔记本和文章清单：
+### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
 
-![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
+这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
 
-### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
+该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
 
-![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
+![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
+
+### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
+
+通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
+
+- 通过编写测试学习 Go 语言
+- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
+- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
+
+![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
 
 ## 🕸 网站 
 
-### [识典古籍](https://www.shidianguji.com/)
+### [nona](https://www.nona.de/)
 
-识典古籍 – 古籍在线阅读平台，北大和抖音合作开发的古籍阅读网站：
+德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
 
-![shidianguji](https://images-1252557999.file.myqcloud.com/uPic/shidianguji.jpg) 
+![nona](https://images-1252557999.file.myqcloud.com/uPic/1nN2lu.png) 
 
-### [allthingsai](https://allthingsai.com/)
+### [picdiet.eula.club](https://picdiet.eula.club/)
 
-提供完整的 `AI` 相关工具&服务资源：
+`Picdiet` 是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏：
 
-![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
+![picdiet](https://images-1252557999.file.myqcloud.com/uPic/picdiet.jpg) 
 
-### [choosealicense](https://choosealicense.com/)
+### [shell.how](https://www.shell.how/)
 
-`choosealicense` 帮助您轻松选择和一键复制开源协议：
+网站用优雅的交互和排版告诉你Linux命令的作用：
 
-![choosealicense](https://images-1252557999.file.myqcloud.com/uPic/RW33E0.png) 
+![shell_howe](https://images-1252557999.file.myqcloud.com/uPic/shell_howe.jpg) 
 
 ## ✍️ 说明
 
