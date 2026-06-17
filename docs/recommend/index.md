@@ -5,85 +5,92 @@
 
 ## 🎯 项目 
 
-### [jd\_tb\_auto](https://github.com/czj2369/jd_tb_auto)
+### [SoraWebui](https://github.com/SoraWebui/SoraWebui)
 
-不多说，懂得都懂，如果有闲置服务器的小伙伴可以搭建起来用用，挂在那里每月百来块收益还是有的。我自己在树莓派上面挂着，至少电费赚回来了。。。 
+`SoraWebui` 是一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能：
 
-### [umami](https://github.com/umami-software/umami)
+![SoraWebui](https://images-1252557999.file.myqcloud.com/uPic/SoraWebui.jpeg) 
 
-`umami`  是一个简单、方便部署的自建网页数据收集分析的开源项目，其目标在于替换 `Google Analytics` 且更专注数据隐私：
+### [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)
 
-![umami](https://images-1252557999.file.myqcloud.com/uPic/umami.jpg) 
+基于 `ChatGPT` 实现的代码解释器，只需向 `OpenAI` 模型提出请求，它就会为您生成并执行代码：
 
-### [gemini-balance](https://github.com/snailyp/gemini-balance)
+![gpt-code-ui](https://images-1252557999.file.myqcloud.com/uPic/gpt-code-ui.png) 
 
-基于 `Python FastAPI` 开发的 `Gemini API` 代理和负载均衡应用，提供多 `Gemini API` 密钥管理、负载均衡、认证、模型过滤、状态监控等功能，同时支持 `OpenAI API` 格式的代理功能，以及图片生成和上传功能：
+### [lobe-chat](https://github.com/lobehub/lobe-chat)
 
-![gemini-balance](https://images-1252557999.file.myqcloud.com/uPic/H0u8mv.png) 
+`LobeChat` 是一个开源的、可扩展的（Function Calling）高性能聊天机器人框架，它支持一键免费部署私人 `ChatGPT/LLM` 网页应用程序：
+
+- 💨 快速部署：支持 Vercel 平台
+-  💎 精致 UI 设计
+-  🗣️ 流畅的对话体验
+-  🧩 支持插件与自定义插件开发
+-  🔒 隐私安全
+-  🤖 自定义助手角色
+-  🌐 自定义域名
+-  🏬 角色市场
+
+![lobe-chat](https://images-1252557999.file.myqcloud.com/uPic/lobe-chat.webp) 
 
 ## 🤖 软件 
 
-### [JPEGView](https://github.com/sylikc/jpegview)
+### [lapce](https://github.com/lapce/lapce)
 
-`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
+基于`Rust`的强大、轻量快速的代码编辑器：
 
-### [VeraCrypt](https://veracrypt.fr/en/Home.html)
+![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
 
-`VeraCrypt` 是一款著名的跨平台、开源磁盘加密工具：
+### [NanaZip](https://github.com/M2Team/NanaZip)
 
-![VeraCrypt](https://images-1252557999.file.myqcloud.com/uPic/VeraCrypt.jpg) 
+`NanaZip` 是一个面向现代 `Windows` 体验的开源文件压缩工具，基于知名的开源文件压缩工具 `7-Zip` 的源代码：
 
-### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+![NanaZip](https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg) 
 
-B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
+### [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg) 
+一个用于显示当前网速、CPU及内存利用率的 Windows 桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤:
+
+![TrafficMonitor](https://images-1252557999.file.myqcloud.com/uPic/TrafficMonitor.jpg) 
 
 ## 👀 资料 
 
-### [developer2gwy](https://github.com/miss-mumu/developer2gwy)
+### [开源软件指南](https://opensource.guide/zh-hans/)
 
-公务员从入门到上岸，最佳程序员公考实践教程，一份开源公务员考试的最佳实践指南，一部解构体制工作生活的说明手册：
+GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
 
-![developer2gwy](https://images-1252557999.file.myqcloud.com/uPic/developer2gwy.jpg) 
+![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
 
-### [craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh)
+### [如何制作落地页](https://www.bmms.me/blog/landing-page)
 
-这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
+如果你想要看到比较系统全面的落地页操作指南，这篇文章是作者小吉拆解了国内外 117 个优秀的落地页案例，总结提炼出的保姆级入门指南：
 
-该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器：
+![landing-page](https://images-1252557999.file.myqcloud.com/uPic/landing-page.jpg) 
 
-![craftinginterpreters](https://images-1252557999.file.myqcloud.com/uPic/craftinginterpreters.jpg) 
+### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
 
-### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
+《Linear Algebra for Everyone》公开课的图解笔记：
 
-通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
-
-- 通过编写测试学习 Go 语言
-- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
-- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
-
-![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
+![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
 
 ## 🕸 网站 
 
-### [nona](https://www.nona.de/)
+### [carbon](https://carbon.now.sh/)
 
-德国搜索引擎，效果目前使用感觉不错，满足日常使用，速度也挺快：
+将你的源代码转成漂亮可分享的图片：
 
-![nona](https://images-1252557999.file.myqcloud.com/uPic/1nN2lu.png) 
+![carbon](https://images-1252557999.file.myqcloud.com/uPic/carbon.jpg) 
 
-### [picdiet.eula.club](https://picdiet.eula.club/)
+### [db-fiddle](https://www.db-fiddle.com/)
 
-`Picdiet` 是一款在线批量压缩图片神器，它不需要后端服务器或者API的支持，仅通过你的浏览器来压缩图片大小，这意味着它压缩图片极快并且不会导致隐私或敏感图片泄漏：
+免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
 
-![picdiet](https://images-1252557999.file.myqcloud.com/uPic/picdiet.jpg) 
+![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
 
-### [shell.how](https://www.shell.how/)
+### [iconoir](https://iconoir.com/)
 
-网站用优雅的交互和排版告诉你Linux命令的作用：
+开源的SVG图标搜索引擎：
 
-![shell_howe](https://images-1252557999.file.myqcloud.com/uPic/shell_howe.jpg) 
+![iconoir](https://images-1252557999.file.myqcloud.com/uPic/iconoir.jpg) 
 
 ## ✍️ 说明
 
