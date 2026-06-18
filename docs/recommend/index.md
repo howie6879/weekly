@@ -5,92 +5,96 @@
 
 ## 🎯 项目 
 
-### [SoraWebui](https://github.com/SoraWebui/SoraWebui)
+### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
 
-`SoraWebui` 是一个开源项目，允许用户使用 `OpenAI` 的 `Sora` 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能：
+`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
 
-![SoraWebui](https://images-1252557999.file.myqcloud.com/uPic/SoraWebui.jpeg) 
+![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
 
-### [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)
+### [FreshRSS](https://github.com/FreshRSS/FreshRSS)
 
-基于 `ChatGPT` 实现的代码解释器，只需向 `OpenAI` 模型提出请求，它就会为您生成并执行代码：
+`FreshRSS` 是一款自由免费的 `RSS` 订阅器，界面美观，支持导入/导出为 `OPML` 文件、过滤、标记、搜索等:
 
-![gpt-code-ui](https://images-1252557999.file.myqcloud.com/uPic/gpt-code-ui.png) 
+![FreshRSS](https://images-1252557999.file.myqcloud.com/uPic/FreshRSS.png) 
 
-### [lobe-chat](https://github.com/lobehub/lobe-chat)
+### [filebrowser](https://github.com/filebrowser/filebrowser)
 
-`LobeChat` 是一个开源的、可扩展的（Function Calling）高性能聊天机器人框架，它支持一键免费部署私人 `ChatGPT/LLM` 网页应用程序：
+这是一个web文件管理项目，它可以用来上传、删除、分享、预览、重命名和编辑文件，支持多用户。
 
-- 💨 快速部署：支持 Vercel 平台
--  💎 精致 UI 设计
--  🗣️ 流畅的对话体验
--  🧩 支持插件与自定义插件开发
--  🔒 隐私安全
--  🤖 自定义助手角色
--  🌐 自定义域名
--  🏬 角色市场
+除了直接自己在服务部署作为私人网盘用，现在很多开源平台中文件管理这块都直接引入`filebrowser`作为中间件使用。
 
-![lobe-chat](https://images-1252557999.file.myqcloud.com/uPic/lobe-chat.webp) 
+![hM31Fw](https://images-1252557999.file.myqcloud.com/uPic/hM31Fw.jpg) 
 
 ## 🤖 软件 
 
-### [lapce](https://github.com/lapce/lapce)
+### [BlogHelper](https://github.com/onblog/BlogHelper)
 
-基于`Rust`的强大、轻量快速的代码编辑器：
+帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
 
-![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
+![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
 
-### [NanaZip](https://github.com/M2Team/NanaZip)
+### [gitbutler](https://github.com/gitbutlerapp/gitbutler)
 
-`NanaZip` 是一个面向现代 `Windows` 体验的开源文件压缩工具，基于知名的开源文件压缩工具 `7-Zip` 的源代码：
+Git 分支管理工具，从头开始构建，用于现代工作流：
 
-![NanaZip](https://images-1252557999.file.myqcloud.com/uPic/NanaZip.jpg) 
+![gitbutler](https://images-1252557999.file.myqcloud.com/uPic/gitbutler.jpg) 
 
-### [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
+### [MoeKoeMusic](https://github.com/iAJue/MoeKoeMusic)
 
-一个用于显示当前网速、CPU及内存利用率的 Windows 桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤:
+一款开源简洁高颜值的酷狗第三方客户端：
 
-![TrafficMonitor](https://images-1252557999.file.myqcloud.com/uPic/TrafficMonitor.jpg) 
+- ✅ 使用 Vue.js 全家桶开发
+- 🔴 酷狗账号登录（扫码/手机/账号登录）
+- 📃 支持歌词显示
+- 📻 每日推荐歌曲
+- 🚫🤝 无任何社交功能
+- 🔗 官方服务器直连, 无任何第三方 API
+- ✔️ 每日自动领取VIP, 登录就是VIP
+- 🎨 主题色切换
+- 👋 启动问候语
+- ⚙️ 多平台支持
+
+![MoeKoeMusic](https://images-1252557999.file.myqcloud.com/uPic/KnV77J.png) 
 
 ## 👀 资料 
 
-### [开源软件指南](https://opensource.guide/zh-hans/)
+### [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings)
 
-GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+从基础开始深入探讨嵌入技术，非常好的开源免费教程，可以直接接下载 `PDF`:
 
-![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
+![what_are_embeddings](https://images-1252557999.file.myqcloud.com/uPic/what_are_embeddings.jpg) 
 
-### [如何制作落地页](https://www.bmms.me/blog/landing-page)
+### [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
 
-如果你想要看到比较系统全面的落地页操作指南，这篇文章是作者小吉拆解了国内外 117 个优秀的落地页案例，总结提炼出的保姆级入门指南：
+这个项目的目标是带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来，每周更新两篇，有兴趣的朋友可以追更下，架构图：
 
-![landing-page](https://images-1252557999.file.myqcloud.com/uPic/landing-page.jpg) 
+![linux0.11-talk](https://images-1252557999.file.myqcloud.com/uPic/P4ekdG.jpg) 
 
-### [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
+### [db-tutorial](https://github.com/dunwu/db-tutorial)
 
-《Linear Algebra for Everyone》公开课的图解笔记：
-
-![The-Art-of-Linear-Algebra](https://images-1252557999.file.myqcloud.com/uPic/The-Art-of-Linear-Algebra.png) 
+💾 db-tutorial 是一个数据库教程，主要提供了MySQL、Redis、HBase等数据库教程，在线阅读地址见[这里](https://dunwu.github.io/db-tutorial/)。 
 
 ## 🕸 网站 
 
-### [carbon](https://carbon.now.sh/)
+### [buyoncesoftware.com](https://buyoncesoftware.com)
 
-将你的源代码转成漂亮可分享的图片：
+一份满足购买一次，终身使用软件名单：
 
-![carbon](https://images-1252557999.file.myqcloud.com/uPic/carbon.jpg) 
+![buyoncesoftware](https://images-1252557999.file.myqcloud.com/uPic/HuYvwg.png) 
 
-### [db-fiddle](https://www.db-fiddle.com/)
+### [zhongguose](http://zhongguose.com/)
 
-免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
+一个中国传统颜色的配色网站：
 
-![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
+![zhongguose](https://images-1252557999.file.myqcloud.com/uPic/zhongguose.jpg) 
 
-### [iconoir](https://iconoir.com/)
+### [网道](https://wangdoc.com/)
 
-开源的SVG图标搜索引擎：
+前面资料部分有介绍阮一峰老师的c语言教程，其实那个教程属于这个网道项目的一部分，这个项目的目标是，提供高质量的、拥有自主版权的、可以自由使用的中文软件文档。
 
-![iconoir](https://images-1252557999.file.myqcloud.com/uPic/iconoir.jpg) 
+目前提供了不少教程，对于初学者是非常友好的：
+
+![网道](https://images-1252557999.file.myqcloud.com/uPic/PP2xqR.png) 
 
 ## ✍️ 说明
 
