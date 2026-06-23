@@ -5,92 +5,88 @@
 
 ## 🎯 项目 
 
-### [akile_monitor](https://github.com/akile-network/akile_monitor)
+### [immich](https://github.com/immich-app/immich)
 
-一个开源的监控工具项目，提供服务器状态监控功能，并且支持前后端一键部署：
+一个开源的高性能自托管照片和视频备份解决方案：
 
-![akile_monitor](https://images-1252557999.file.myqcloud.com/uPic/0D0D4c.png) 
+![immich](https://images-1252557999.file.myqcloud.com/uPic/immich.jpg) 
 
-### [book-searcher](https://github.com/book-searcher-org/book-searcher)
+### [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)
 
-`zlib` 开源搜索方案（zlib 是全球知名的电子书分享下载网站，最近开始慢慢转入地下，因此诞生了一些留存检索方案）：
+`Neovim` 针对 `ChatGPT` 的插件：
 
-![zlib_searcher](https://images-1252557999.file.myqcloud.com/uPic/zlib_searcher.jpg) 
+![ChatGPT.nvim](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT.nvim.png) 
 
-### [lsky-pro](https://github.com/lsky-org/lsky-pro)
+### [oh-my-wechat](https://github.com/chclt/oh-my-wechat/)
 
-非常优秀的图床开源项目，如果你手头有服务器，那么可以考虑自建图床服务：
+开源项目，微信消息备份与年度数据报告：
 
-![vps_lsky_01](https://images-1252557999.file.myqcloud.com/uPic/vps_lsky_01.jpg) 
+![oh-my-wechat](https://images-1252557999.file.myqcloud.com/uPic/JXAGlQ.png) 
 
 ## 🤖 软件 
 
-### [gitify](https://github.com/gitify-app/gitify)
+### [BBLL](https://github.com/xiaye13579/BBLL)
 
-在你的菜单栏上显示 `GitHub` 通知，跨平台：
+一个第三方哔哩哔哩 `TV` 和 `Pad` 客户端，仅供学习与交流使用:
 
-![gitify](https://images-1252557999.file.myqcloud.com/uPic/gitify.png) 
+![BBLL](https://images-1252557999.file.myqcloud.com/uPic/BBLL.jpeg) 
 
-### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+### [GodMode](https://github.com/smol-ai/GodMode/)
 
-适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
+`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
 
-- **免费**：本项目所有代码开源，完全免费。
-- **方便**：解压即用，无需安装。不需要网络。
-- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
-- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
+![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
 
-![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
+### [hetty](https://github.com/dstotijn/hetty)
 
-### [flameshot](https://github.com/flameshot-org/flameshot)
+`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
 
-一款强大且简单易用的截图软件，支持多平台（Linux、Windows、macOS）。其主要特点包括：
-
-- 自定义外观：支持自定义截图工具和颜色。
-- 简易使用：提供图形化界面和命令行操作。
-- 内置编辑：可以在应用内编辑截图。
-- 快捷键支持：支持本地和全局快捷键配置。
-- 截图上传：支持将截图上传到 Imgur。
-
-![flameshot](https://images-1252557999.file.myqcloud.com/uPic/flameshot.png) 
+![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
 
 ## 👀 资料 
 
-### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
+### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
 
-对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
+本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+![](https://images-1252557999.file.myqcloud.com/uPic/SBotTN.jpg)
 
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+其他同类教程地址：
 
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
+- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
 
-### [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
+### [让你受益匪浅的名家写作经验](https://docs.qq.com/aio/DWVRkZ1RUWHRsdU1J?p=4oWLX7hAfFdfdbi4Ir5wqo)
 
-📚 《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题(完稿)：
+各文学大家的写作经验汇总：
 
-![agpb](https://images-1252557999.file.myqcloud.com/uPic/agpb.png) 
+![让你受益匪浅的名家写作经验](https://images-1252557999.file.myqcloud.com/uPic/让你受益匪浅的名家写作经验.jpg) 
+
+### [quant-wiki](https://quant-wiki.com/)
+
+致力于量化知识的开源与汉化，打破国内外量化金融行业信息差：
+
+![quant](https://images-1252557999.file.myqcloud.com/uPic/kuOM0C.png) 
 
 ## 🕸 网站 
 
-### [免费 LLM API 调用限制汇总](https://www.freeaihunter.com/)
+### [css.gg](https://css.gg/)
 
-一个可以免费使用的大模型 API 合集网站：
+`700+` 基于 `CSS` 的图标：
 
-![freeaihunter](https://images-1252557999.file.myqcloud.com/uPic/ixNx89.png) 
+![css_gg](https://images-1252557999.file.myqcloud.com/uPic/css_gg.jpg) 
 
-### [codrops](https://tympanus.net/codrops/demos/)
+### [devhints](https://devhints.io/)
 
-可免费下载使用的原型动画 UI 布局（ 500+ free demos）：
+一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
 
-![6690d09244aa9](https://img.fre123.com/i/2024/07/12/6690d09244aa9.jpg) 
+![devhints](https://images-1252557999.file.myqcloud.com/uPic/Wl8r0C.png) 
 
-### [fontawesome](https://fontawesome.com/icons/)
+### [grep.app](https://grep.app/)
 
-比较完善全面的图标网站：
+从 50 万个开源仓库中搜索你需要的代码片段，搜索速度很快：
 
-![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
+![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
 
 ## ✍️ 说明
 
