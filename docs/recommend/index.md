@@ -5,88 +5,128 @@
 
 ## 🎯 项目 
 
-### [immich](https://github.com/immich-app/immich)
+### [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
 
-一个开源的高性能自托管照片和视频备份解决方案：
+一个大模型 `AI` 网关项目，只需要通过项目提供的一个接口，就可以快速连接到100多个 `LLM`：
 
-![immich](https://images-1252557999.file.myqcloud.com/uPic/immich.jpg) 
+- 极速（快9.9倍），占用空间小（安装后约45kb）
+- 在多个模型、提供者和密钥之间进行负载均衡
+- 备选方案确保您的应用程序具有弹性
+- 默认情况下，自动重试并采用指数回退策略
+- 根据需要添加插件中间件
+- 经过1000亿次 Token 的实战考验
 
-### [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)
+  
+![ai-gateway](https://images-1252557999.file.myqcloud.com/uPic/ai-gateway.jpg)
+  
+同类型项目可以参考：[One API👉通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 ✨](https://github.com/songquanpeng/one-api) 
 
-`Neovim` 针对 `ChatGPT` 的插件：
+### [simba](https://github.com/GitHamza0206/simba)
 
-![ChatGPT.nvim](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT.nvim.png) 
+`Simba` 的目标是简化知识管理，使开发者能够专注于构建核心人工智能功能，该系统具有现代化的用户界面和模块化架构，允许开发者轻松地插入不同的向量存储、嵌入模型、分块器和解析器：
 
-### [oh-my-wechat](https://github.com/chclt/oh-my-wechat/)
+![simba](https://images-1252557999.file.myqcloud.com/uPic/eDTGdu.png) 
 
-开源项目，微信消息备份与年度数据报告：
+### [pandas-ai](https://github.com/sinaptik-ai/pandas-ai)
 
-![oh-my-wechat](https://images-1252557999.file.myqcloud.com/uPic/JXAGlQ.png) 
+通过使用大语言模型（LLMs）和基于检索的生成模型（RAG），让开发者与数据库或数据湖（比如 SQL、CSV、parquet 格式）的互动变得像聊天一样简单，从而大大简化了数据分析的过程：
+
+![pandas-ai](https://images-1252557999.file.myqcloud.com/uPic/CJtrpq.png) 
 
 ## 🤖 软件 
 
-### [BBLL](https://github.com/xiaye13579/BBLL)
+### [XHS_Downloader](https://github.com/JoeanAmier/XHS_Downloader)
 
-一个第三方哔哩哔哩 `TV` 和 `Pad` 客户端，仅供学习与交流使用:
+免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具：
 
-![BBLL](https://images-1252557999.file.myqcloud.com/uPic/BBLL.jpeg) 
+![XHS_Downloader](https://images-1252557999.file.myqcloud.com/uPic/XHS_Downloader.png) 
 
-### [GodMode](https://github.com/smol-ai/GodMode/)
+### [note-gen](https://github.com/codexu/note-gen)
 
-`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
+`NoteGen` 是一款跨端的 `Markdown` 笔记应用，致力于使用 AI 建立记录和写作的桥梁，将碎片化知识整理成一篇可读的笔记：
 
-![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
+- 轻量，安装包仅20MB，免费且无任何广告，无任何捆绑。
+- 跨端，支持 Mac、Windows、Linux，得益于 Tauri2 的跨平台能力，未来将支持 IOS、Android。
+- 支持截图、文本、插图、文件、链接等多种记录方式，满足各类场景的碎片化记录需求。
+- 原生 Markdown(.md) 作为存储格式，拒绝魔改，方便迁移。
+- 默认支持本地离线使用，支持实时同步到 Github、Gitee 私有仓库，支持历史回滚，支持 WebDAV 同步。
+- AI 加持，可配置 ChatGPT、Gemini、Ollama、LM Studio、Grok 等多种模型，支持自定义配置使用第三方模型。
+- RAG 支持，你的笔记就是你的知识库，支持嵌入模型、重排序模型。
 
-### [hetty](https://github.com/dstotijn/hetty)
+![note-gen](https://images-1252557999.file.myqcloud.com/uPic/hcNSuo.png) 
 
-`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
+### [koodo-reader](https://github.com/troyeguo/koodo-reader)
 
-![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
+一个跨平台的电子书阅读器：
+
+- 支持多达 15 种主流电子书格
+- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
+- 备份数据到  **Dropbox**  和  **Webdav**
+- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
+- 双页模式，单页模式，滚动模式
+- 听书功能，翻译功能，触控屏支持，批量导入图书
+- 支持目录，书签，笔记，高亮，书架，标签
+- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
+- 黑夜模式和主题色设置
+
+![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
 
 ## 👀 资料 
 
-### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
+### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
 
-本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
+应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
 
-![](https://images-1252557999.file.myqcloud.com/uPic/SBotTN.jpg)
+这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
 
-其他同类教程地址：
+- 入侵排查
+- 日志分析
+- 权限维持
+- Windows实战
+- Linux实战
+- Web实战 
 
-- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
-- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
+### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
-### [让你受益匪浅的名家写作经验](https://docs.qq.com/aio/DWVRkZ1RUWHRsdU1J?p=4oWLX7hAfFdfdbi4Ir5wqo)
+一个在YouTube上发现最新机器学习课程的项目。 
 
-各文学大家的写作经验汇总：
+### [llm-universe](https://github.com/datawhalechina/llm-universe)
 
-![让你受益匪浅的名家写作经验](https://images-1252557999.file.myqcloud.com/uPic/让你受益匪浅的名家写作经验.jpg) 
+本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：
 
-### [quant-wiki](https://quant-wiki.com/)
+- 大模型简介，何为大模型、大模型特点是什么、LangChain 是什么，针对小白开发者的简单介绍；
+- 如何调用大模型 API，本节介绍了国内外知名大模型产品 API 的多种调用方式，包括调用原生 API、封装为 LangChain LLM、封装为 Fastapi 等调用方式，同时将包括百度文心、讯飞星火、智谱AI等多种大模型 API 进行了统一形式封装；
+- 大模型开发流程及架构，大模型应用开发的基本流程、一般思想和本项目的架构分析；
+- 数据库搭建，不同类型知识库文档的加载、处理，向量数据库的搭建；
+- Prompt 设计，如何设计 Prompt 来让大模型完成特定任务，Prompt Engineering 的原则和技巧有哪些；
+- 验证迭代，大模型开发如何实现验证迭代，一般的评估方法有什么；
+- 前后端开发，如何使用 Gradio、FastAPI 等框架快速开发大模型 Demo，展示应用能力。
 
-致力于量化知识的开源与汉化，打破国内外量化金融行业信息差：
-
-![quant](https://images-1252557999.file.myqcloud.com/uPic/kuOM0C.png) 
+![llm-universe](https://images-1252557999.file.myqcloud.com/uPic/llm-universe.png) 
 
 ## 🕸 网站 
 
-### [css.gg](https://css.gg/)
+### [haitang](https://github.com/javayhu/haitang)
 
-`700+` 基于 `CSS` 的图标：
+海棠诗社，提供古诗词的数字化收集，可以按照不同方式检索和分类，项目代码完全[开源](https://github.com/javayhu/haitang)：
 
-![css_gg](https://images-1252557999.file.myqcloud.com/uPic/css_gg.jpg) 
+![haitang](https://images-1252557999.file.myqcloud.com/uPic/haitang.jpg) 
 
-### [devhints](https://devhints.io/)
+### [阿里云知行动手实验室](https://start.aliyun.com/)
 
-一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
+这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
 
-![devhints](https://images-1252557999.file.myqcloud.com/uPic/Wl8r0C.png) 
+网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
 
-### [grep.app](https://grep.app/)
+我选了一个`k8s`教程尝试了下，嗯，挺香的：
 
-从 50 万个开源仓库中搜索你需要的代码片段，搜索速度很快：
+![start-ali](https://images-1252557999.file.myqcloud.com/uPic/LIfQqw.png) 
 
-![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
+### [transhumans](https://www.transhumans.xyz/)
+
+免费可商用的人物插图：
+
+![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
 
 ## ✍️ 说明
 
