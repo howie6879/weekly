@@ -5,128 +5,111 @@
 
 ## 🎯 项目 
 
-### [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
+### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
 
-一个大模型 `AI` 网关项目，只需要通过项目提供的一个接口，就可以快速连接到100多个 `LLM`：
+`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
 
-- 极速（快9.9倍），占用空间小（安装后约45kb）
-- 在多个模型、提供者和密钥之间进行负载均衡
-- 备选方案确保您的应用程序具有弹性
-- 默认情况下，自动重试并采用指数回退策略
-- 根据需要添加插件中间件
-- 经过1000亿次 Token 的实战考验
+![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
 
-  
-![ai-gateway](https://images-1252557999.file.myqcloud.com/uPic/ai-gateway.jpg)
-  
-同类型项目可以参考：[One API👉通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 ✨](https://github.com/songquanpeng/one-api) 
+### [ar5iv](https://github.com/dginev/ar5iv)
 
-### [simba](https://github.com/GitHamza0206/simba)
+`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
 
-`Simba` 的目标是简化知识管理，使开发者能够专注于构建核心人工智能功能，该系统具有现代化的用户界面和模块化架构，允许开发者轻松地插入不同的向量存储、嵌入模型、分块器和解析器：
+![ar5iv](https://images-1252557999.file.myqcloud.com/uPic/ar5iv.jpg) 
 
-![simba](https://images-1252557999.file.myqcloud.com/uPic/eDTGdu.png) 
+### [OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
 
-### [pandas-ai](https://github.com/sinaptik-ai/pandas-ai)
+这个项目是 `OOTDiffusion` 的官方实现，快速基于你上传的模特和图片生成产品效果图，AI 模特不是梦，点击 [ootd](https://ootd.ibot.cn/) 体验：
 
-通过使用大语言模型（LLMs）和基于检索的生成模型（RAG），让开发者与数据库或数据湖（比如 SQL、CSV、parquet 格式）的互动变得像聊天一样简单，从而大大简化了数据分析的过程：
-
-![pandas-ai](https://images-1252557999.file.myqcloud.com/uPic/CJtrpq.png) 
+![ootd](https://images-1252557999.file.myqcloud.com/uPic/ootd.jpg) 
 
 ## 🤖 软件 
 
-### [XHS_Downloader](https://github.com/JoeanAmier/XHS_Downloader)
+### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
 
-免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具：
+谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
 
-![XHS_Downloader](https://images-1252557999.file.myqcloud.com/uPic/XHS_Downloader.png) 
+![temp_mail](https://images-1252557999.file.myqcloud.com/uPic/M4DZPI.png) 
 
-### [note-gen](https://github.com/codexu/note-gen)
+### [spotube](https://github.com/KRTirtho/spotube)
 
-`NoteGen` 是一款跨端的 `Markdown` 笔记应用，致力于使用 AI 建立记录和写作的桥梁，将碎片化知识整理成一篇可读的笔记：
+`Spotube` 可用于所有主要平台，包括 `Linux、Android、Windows & MacOS`，它利用 `Spotify` 和 `YouTube` 的公共 `API` 作为音频源，不需要 `Spotify Premium`，没有广告，可下载歌曲，实时同步歌词，支持匿名或访客登录：
 
-- 轻量，安装包仅20MB，免费且无任何广告，无任何捆绑。
-- 跨端，支持 Mac、Windows、Linux，得益于 Tauri2 的跨平台能力，未来将支持 IOS、Android。
-- 支持截图、文本、插图、文件、链接等多种记录方式，满足各类场景的碎片化记录需求。
-- 原生 Markdown(.md) 作为存储格式，拒绝魔改，方便迁移。
-- 默认支持本地离线使用，支持实时同步到 Github、Gitee 私有仓库，支持历史回滚，支持 WebDAV 同步。
-- AI 加持，可配置 ChatGPT、Gemini、Ollama、LM Studio、Grok 等多种模型，支持自定义配置使用第三方模型。
-- RAG 支持，你的笔记就是你的知识库，支持嵌入模型、重排序模型。
+![spotube](https://images-1252557999.file.myqcloud.com/uPic/spotube.jpg) 
 
-![note-gen](https://images-1252557999.file.myqcloud.com/uPic/hcNSuo.png) 
+### [BetterDummy](https://github.com/waydabber/BetterDummy)
 
-### [koodo-reader](https://github.com/troyeguo/koodo-reader)
+`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
 
-一个跨平台的电子书阅读器：
+![bd_menu](https://images-1252557999.file.myqcloud.com/uPic/bd_menu.png)
 
-- 支持多达 15 种主流电子书格
-- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
-- 备份数据到  **Dropbox**  和  **Webdav**
-- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
-- 双页模式，单页模式，滚动模式
-- 听书功能，翻译功能，触控屏支持，批量导入图书
-- 支持目录，书签，笔记，高亮，书架，标签
-- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
-- 黑夜模式和主题色设置
-
-![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
+如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
 
 ## 👀 资料 
 
-### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
+深度学习入门教程资料聚合项目，包含：
 
-这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
 
-- 入侵排查
-- 日志分析
-- 权限维持
-- Windows实战
-- Linux实战
-- Web实战 
+![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
 
-### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
 
-一个在YouTube上发现最新机器学习课程的项目。 
+### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
 
-### [llm-universe](https://github.com/datawhalechina/llm-universe)
+本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
 
-本项目是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：
+![](https://images-1252557999.file.myqcloud.com/uPic/SBotTN.jpg)
 
-- 大模型简介，何为大模型、大模型特点是什么、LangChain 是什么，针对小白开发者的简单介绍；
-- 如何调用大模型 API，本节介绍了国内外知名大模型产品 API 的多种调用方式，包括调用原生 API、封装为 LangChain LLM、封装为 Fastapi 等调用方式，同时将包括百度文心、讯飞星火、智谱AI等多种大模型 API 进行了统一形式封装；
-- 大模型开发流程及架构，大模型应用开发的基本流程、一般思想和本项目的架构分析；
-- 数据库搭建，不同类型知识库文档的加载、处理，向量数据库的搭建；
-- Prompt 设计，如何设计 Prompt 来让大模型完成特定任务，Prompt Engineering 的原则和技巧有哪些；
-- 验证迭代，大模型开发如何实现验证迭代，一般的评估方法有什么；
-- 前后端开发，如何使用 Gradio、FastAPI 等框架快速开发大模型 Demo，展示应用能力。
+其他同类教程地址：
 
-![llm-universe](https://images-1252557999.file.myqcloud.com/uPic/llm-universe.png) 
+- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
+- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
+
+### [linux-command](https://github.com/jaywcjlove/linux-command)
+
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
+
+![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
 
 ## 🕸 网站 
 
-### [haitang](https://github.com/javayhu/haitang)
+### [warp.dev](https://www.warp.dev/)
 
-海棠诗社，提供古诗词的数字化收集，可以按照不同方式检索和分类，项目代码完全[开源](https://github.com/javayhu/haitang)：
+一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
 
-![haitang](https://images-1252557999.file.myqcloud.com/uPic/haitang.jpg) 
+![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
 
-### [阿里云知行动手实验室](https://start.aliyun.com/)
+### [xiaobot.so](https://www.xiaobot.so/)
 
-这个网站解决了学习过程中环境搭建的痛点，特别是在云原生这块，搭建还是挺麻烦的，阿里云知行动手实验室完美地解决了这个问题。
+老胡团队整的一个小报童专栏导航网站（测试一两周后就会开源，有兴趣可期待），和其他小报童导航相比：
 
-网站集文档、terminal、编辑器三个窗口为一体，动动鼠标在浏览器中学习最新云原生开源技术。
+- AI 自动打标签
+- 增加订阅用户&文章更新数量趋势统计
+- 增加专栏内页，有利于 SEO
+- 更漂亮<持保留态度，但老胡是实打实请设计师帮忙设计的>
 
-我选了一个`k8s`教程尝试了下，嗯，挺香的：
+![xiaobot_so](https://images-1252557999.file.myqcloud.com/uPic/xiaobot_so.jpg)
 
-![start-ali](https://images-1252557999.file.myqcloud.com/uPic/LIfQqw.png) 
+如果有你适合的专栏，可以购买支持下～ 
 
-### [transhumans](https://www.transhumans.xyz/)
+### [dute](https://www.dute.org/)
 
-免费可商用的人物插图：
+独特工具箱，提供免费在线工具，涉及工具类别有：
 
-![transhumans](https://images-1252557999.file.myqcloud.com/uPic/transhumans.jpg) 
+- 图片工具
+- 文本&语言工具
+- 开发工具
+- 站长工具
+- 电商工具
+- 等
+
+![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
 
 ## ✍️ 说明
 
