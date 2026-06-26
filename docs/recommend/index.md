@@ -5,111 +5,85 @@
 
 ## 🎯 项目 
 
-### [helm-dashboard](https://github.com/komodorio/helm-dashboard)
+### [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
 
-`Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts`：
+强大的少样本语音转换与语音合成Web用户界面，低成本 AI 语音克隆项目，感兴趣可以查看介绍[视频](https://www.bilibili.com/video/BV12g4y1m7Uw/) 。
 
-![helm-dashboard](https://images-1252557999.file.myqcloud.com/uPic/helm-dashboard.png) 
+![GPT-SoVITS](https://images-1252557999.file.myqcloud.com/uPic/GPT-SoVITS.jpg) 
 
-### [ar5iv](https://github.com/dginev/ar5iv)
+### [privaxy](https://github.com/Barre/privaxy)
 
-`Rust`实现的一个`web`在线服务：[ar5iv](https://ar5iv.org/)，可以把`arXiv.org`论文转成网页:
+Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
 
-![ar5iv](https://images-1252557999.file.myqcloud.com/uPic/ar5iv.jpg) 
+![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
 
-### [OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
+还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
 
-这个项目是 `OOTDiffusion` 的官方实现，快速基于你上传的模特和图片生成产品效果图，AI 模特不是梦，点击 [ootd](https://ootd.ibot.cn/) 体验：
+### [AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate)
 
-![ootd](https://images-1252557999.file.myqcloud.com/uPic/ootd.jpg) 
+动漫、电视剧的自动更新及在线观看，项目介绍：
+
+- 聚合各种阿里云盘资源
+- 实现动漫、电视剧、电影的自动更新
+- 通过docker部署的Alist项目，实现影视的在线搜索及观看
+
+![AnimationAutoUpdate](https://images-1252557999.file.myqcloud.com/uPic/AnimationAutoUpdate.jpg) 
 
 ## 🤖 软件 
 
-### [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj)
+### [Parabolic](https://github.com/NickvisionApps/Parabolic)
 
-谷歌插件，可以获取匿名邮箱，做一些验证码接收还是挺不错的：
+`Parabolic` 是一款免费、功能强大的网络影片下载工具，它支持从超过 1000 个网站下载媒体内容，包括 YouTube、TikTok、IG 等常见平台。用户只需复制粘贴网址，选择下载的影片格式、解析度和字幕即可完成操作。它拥有简洁易用的界面，无额外付费功能或隐藏内容，还支持多种影片和音讯格式，内建下载影片字幕功能，并能一次性执行多个下载任务，是网络影片下载保存的得力助手。
 
-![temp_mail](https://images-1252557999.file.myqcloud.com/uPic/M4DZPI.png) 
+![Parabolic](https://images-1252557999.file.myqcloud.com/uPic/TBRkMe.png) 
 
-### [spotube](https://github.com/KRTirtho/spotube)
+### [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)
 
-`Spotube` 可用于所有主要平台，包括 `Linux、Android、Windows & MacOS`，它利用 `Spotify` 和 `YouTube` 的公共 `API` 作为音频源，不需要 `Spotify Premium`，没有广告，可下载歌曲，实时同步歌词，支持匿名或访客登录：
+基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
 
-![spotube](https://images-1252557999.file.myqcloud.com/uPic/spotube.jpg) 
+![bob-plugin-openai-translator](https://images-1252557999.file.myqcloud.com/uPic/bob-plugin-openai-translator.jpg) 
 
-### [BetterDummy](https://github.com/waydabber/BetterDummy)
+### [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 
-`BetterDummy` 可以让 `M1` 系列芯片的 `Mac` 拥有自定义的 `HiDPI` 缩放分辨率，而不用再使用额外的硬件或占用其它接口来实现。而且，通过 `BetterDummy` 实现的 `HiDPI`，还不用关闭系统保护，也不会出现像是鼠标抖动这类通过外接硬件设备方案会遇到的问题。
+`Bulk Crap Uninstaller` 是一款免费开源的 `Windows` 卸载软件，它能够快速删除大量不需要的应用程序，甚至是便携或未注册的程序与游戏，并且能自动扫描残留文件、注册表遗留内容等：
 
-![bd_menu](https://images-1252557999.file.myqcloud.com/uPic/bd_menu.png)
-
-如果你使用之前版本的`Mac`，可以使用开源项目[one-key-hidpi](https://github.com/xzhih/one-key-hidpi)为中低分辨率的屏幕开启 `HiDPI` 选项，并且具有原生的 `HiDPI` 设置，不需要 [RDM](https://github.com/avibrazil/RDM) 软件即可在系统显示器设置中设置。 
+![Bulk-Crap-Uninstaller](https://images-1252557999.file.myqcloud.com/uPic/Bulk-Crap-Uninstaller.png) 
 
 ## 👀 资料 
 
-### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
 
-深度学习入门教程资料聚合项目，包含：
+互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
 
-- 数学基础
-- 机器学习基础
-- 深度学习基础
-- 工程能力
+### [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
 
-![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
+面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:
 
-![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
+![llm-cookbook](https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png) 
 
-### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
+### [大规模并行处理器编程实战第四版](https://fancyerii.github.io/2024/02/20/pmpp/)
 
-本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
-
-![](https://images-1252557999.file.myqcloud.com/uPic/SBotTN.jpg)
-
-其他同类教程地址：
-
-- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
-- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
-
-### [linux-command](https://github.com/jaywcjlove/linux-command)
-
-Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
-
-![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
+关于并行计算的重要参考书籍，这是博客翻译的第四版。介绍了学生和专业人员都适合的并行编程与gpu体系结构的基本概念，详细剖析了编写并行程序所需的各种技术，用案例研究说明了并行程序设计的整个开发过程，即从计算思想开始，直到最终实现高效可行的并行程序。 
 
 ## 🕸 网站 
 
-### [warp.dev](https://www.warp.dev/)
+### [xyzrank.com](https://xyzrank.com/)
 
-一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
+中文播客榜单：
 
-![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
+![xyzrank](https://images-1252557999.file.myqcloud.com/uPic/xyzrank.jpg) 
 
-### [xiaobot.so](https://www.xiaobot.so/)
+### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
 
-老胡团队整的一个小报童专栏导航网站（测试一两周后就会开源，有兴趣可期待），和其他小报童导航相比：
+冰霜大佬的博客：
 
-- AI 自动打标签
-- 增加订阅用户&文章更新数量趋势统计
-- 增加专栏内页，有利于 SEO
-- 更漂亮<持保留态度，但老胡是实打实请设计师帮忙设计的>
+![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
 
-![xiaobot_so](https://images-1252557999.file.myqcloud.com/uPic/xiaobot_so.jpg)
+### [oss.gallery](https://oss.gallery/)
 
-如果有你适合的专栏，可以购买支持下～ 
+`OSS Gallery` 提供了一个展示和探索各种领域最佳开源项目的窗口。用户可以通过这个平台，获取到开源社区中值得关注的项目，这些项目涵盖了从软件开发、数据科学到设计等多个领域。平台的目的是为开源项目提供更多的曝光机会，同时也为开发者和用户提供一个学习和交流的场所。
 
-### [dute](https://www.dute.org/)
-
-独特工具箱，提供免费在线工具，涉及工具类别有：
-
-- 图片工具
-- 文本&语言工具
-- 开发工具
-- 站长工具
-- 电商工具
-- 等
-
-![dute](https://images-1252557999.file.myqcloud.com/uPic/dute.jpg) 
+![oss_gallery](https://images-1252557999.file.myqcloud.com/uPic/oss_gallery.jpg) 
 
 ## ✍️ 说明
 
