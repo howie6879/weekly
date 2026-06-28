@@ -5,107 +5,101 @@
 
 ## 🎯 项目 
 
-### [vtracer](https://github.com/visioncortex/vtracer)
+### [terminalizer](https://github.com/faressoft/terminalizer)
 
-可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
+录制终端操作并生成 `gif` 动图：
 
-![vtracer](https://images-1252557999.file.myqcloud.com/uPic/y9m1F5.jpg) 
+![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
 
-### [Youtu-agent](https://github.com/Tencent/Youtu-agent)
+### [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
 
-Youtu-agent 是一个灵活、高性能的框架，用于构建、运行和评估自主智能体。除了在基准测试中名列前茅，该框架还提供了强大的智能体能力，例如数据分析、文件处理和深度研究：
+基于 Deno 开发的趋势发现和内容发布系统，支持多源数据采集、智能总结和自动发布到微信公众号。 
 
-- 验证性能：在 WebWalkerQA 上达到 71.47% 的 pass@1，在 GAIA（纯文本子集）上达到 72.8% 的 pass@1，纯粹使用 DeepSeek-V3 系列模型（不使用 Claude 或 GPT），建立了强大的开源起点。
-- 开源友好且成本敏感：针对可访问、低成本部署进行了优化，不依赖封闭模型。
-- 实际用例：开箱即用地支持 CSV 分析、文献综述、个人文件整理以及播客和视频生成等任务。（即将推出）
-- 灵活的架构：基于 openai-agents 构建，可兼容各种模型 API（从 DeepSeek 到 gpt-oss）、工具集成和框架实现。
+### [ChatGemini](https://github.com/bclswl0827/ChatGemini)
 
-![Youtu](https://images-1252557999.file.myqcloud.com/uPic/Fmf3nY.png) 
+`ChatGemini` 是一个基于 `Google Gemini` 的网页客户端，对标 `ChatGPT 3.5`，操作逻辑同 `ChatGPT 3.5` 一致，同时支持在聊天中上传图片，应用会自动调用 `Gemini-Pro-Vision` 模型进行识图：
 
-### [minimind](https://github.com/jingyaogong/minimind)
+- 适配移动端
+- 支持多 API 密钥分流
+- 操作逻辑同 ChatGPT
+- 仿 ChatGPT 3.5 界面
+- 支持多轮聊天对话
+- 支持上传图片进行识别
+- 逐字输出（SSE）回应
+- 集成 PHP 版反向代理
+- 自定义 Gemini API 地址
+- 可启用站点通行码防止滥用
+- 聊天内容导出（HTML 和 PDF）
+- 对话内容保存在 IndexedDB 中
 
-大语言模型（LLM）领域，如 GPT、LLaMA、GLM 等，虽然它们效果惊艳， 但动辄10 Bilion庞大的模型参数个人设备显存远不够训练，甚至推理困难。 几乎所有人都不会只满足于用Lora等方案fine-tuing大模型学会一些新的指令， 这约等于在教牛顿玩21世纪的智能手机，然而，这远远脱离了学习物理本身的奥妙。 此外，卖课付费订阅的营销号漏洞百出的一知半解讲解AI的教程遍地， 让理解LLM的优质内容雪上加霜，严重阻碍了学习者。
+![ChatGemini](https://images-1252557999.file.myqcloud.com/uPic/ChatGemini.jpg)
 
-因此，本项目的目标是把上手LLM的门槛无限降低， 直接从0开始训练一个极其轻量的语言模型。
-
-![minimind](https://images-1252557999.file.myqcloud.com/uPic/ZvBbNK.png) 
+如果不想部署，可以直接使用搭建好的免费 Gemini：[https://gemini-pro.chat](https://gemini-pro.chat/) 
 
 ## 🤖 软件 
 
-### [alacritty](https://github.com/alacritty/alacritty)
+### [chatbox](https://github.com/Bin-Huang/chatbox)
 
-一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
+开源的 `ChatGPT API (OpenAI API)` 桌面客户端，`Prompt` 的调试与管理工具，支持 `Windows、Mac 和 Linux`：
 
-我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
+![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.png) 
 
-![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
+### [Files](https://github.com/files-community/Files)
 
-### [Focalboard](https://github.com/mattermost/focalboard)
+一个现代化的文件管理软件(Windows用户专属)：
 
-`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
+![files_windows](https://images-1252557999.file.myqcloud.com/uPic/files_windows.jpg) 
 
-![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
+### [nextplayer](https://github.com/anilbeesetti/nextplayer)
 
-### [Tran](https://github.com/Borber/Tran)
+免费开源的 Android 原生视频播放器：
 
-简洁, 快速, 划词翻译：
-
-- 开箱即用
-- 永久免费使用
-- 谷歌翻译镜像
-
-![Tran](https://images-1252557999.file.myqcloud.com/uPic/Tran.jpg)
-
-其他开源划词翻译软件推荐：
-
-- [pot-desktop](https://github.com/pot-app/pot-desktop)：🌈一个跨平台的划词翻译和OCR软件
-- [Easydict](https://github.com/tisfeng/Easydict)：一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。
-- [TTime](https://github.com/inkTimeRecord/TTime)：🚀 一款简洁高效的输入、截图、划词翻译软件 
+![nextplayer](https://images-1252557999.file.myqcloud.com/uPic/Mj7TE1.png) 
 
 ## 👀 资料 
 
-### [C++服务器开发精髓](https://cppguide.cn/pages/92255f/)
+### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
-开源电子书籍，本书从操作系统原理角度讲解进行C++服务器开发所需掌握的技术栈：
+微软开源的一份全面的数据科学课程，20个课时，历时10周：
 
-![cppguide](https://images-1252557999.file.myqcloud.com/uPic/cppguide.jpg) 
+![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
 
-### [sideproject](https://sideproject.guide/)
+### [secguide](https://github.com/Tencent/secguide)
 
-`Side Project` 指南：
+面向开发人员梳理的代码安全指南，规范索引如下：
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+- C/C++安全指南
+- JavaScript安全指南
+- Node安全指南
+- Go安全指南
+- Java安全指南
+- Python安全指南 
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+### [Linux 101](https://101.lug.ustc.edu.cn/)
 
-### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
+本书由中国科学技术大学 Linux 用户协会的数名优秀成员协力编写，用于配套和延展“Linux 101”校内社团活动。其面向 Linux 零基础读者，从计算机操作系统和 Linux 的起源讲起，深入浅出带领读者一步步逐渐掌握最必要的 Linux 实用知识，并在其中感悟到社区开源文化的魅力：
 
-一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
-
-![NhkQDk](https://images-1252557999.file.myqcloud.com/uPic/NhkQDk.jpg) 
+![Linux101-docs](https://images-1252557999.file.myqcloud.com/uPic/Linux101-docs.jpg) 
 
 ## 🕸 网站 
 
-### [ICO converter](https://www.icoconverter.com/)
+### [sov2ex.com](https://www.sov2ex.com/)
 
-`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
+[SOV2EX](https://github.com/Bynil/sov2ex) - 一个便捷的 [V2EX](https://v2ex.com/) 站内搜索引擎[开源]：
 
-![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
+![sov2ex](https://images-1252557999.file.myqcloud.com/uPic/sov2ex.jpg) 
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+### [uilibhub](https://uilibhub.com/zh)
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+探索最佳 `UI` 库，助力 `React & Vue` 高效开发：
 
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+![uilibhub](https://images-1252557999.file.myqcloud.com/uPic/uilibhub.jpg) 
 
-### [chatpdf](https://www.chatpdf.com/)
+### [装个机](https://zhuangit.ababtools.com/)
 
-和任何 PDF 进行沟通交流：
+一个全面的电脑系统安装指南，里面不仅包含了Windows、MacOS的具体下载资源还有“手把手”的安装攻略。
 
-![chatpdf_com](https://images-1252557999.file.myqcloud.com/uPic/chatpdf_com.jpg) 
+![zhuangit](https://images-1252557999.file.myqcloud.com/uPic/IH6B8e.png) 
 
 ## ✍️ 说明
 
