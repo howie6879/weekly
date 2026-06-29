@@ -5,101 +5,81 @@
 
 ## 🎯 项目 
 
-### [terminalizer](https://github.com/faressoft/terminalizer)
+### [Gallery-Portfolio](https://github.com/linyuxuanlin/Gallery-Portfolio)
 
-录制终端操作并生成 `gif` 动图：
+一个简单的摄影作品展示站，你只需要将图片存放在免费的 `Cloudflare R2` 上（或其他支持 AWS S3 的对象存储），即可在这里展现你的精选图片。在这里你可以通过 瀑布流 的形式浏览图片，也可以 点开大图 ，查看光圈 / 快门 / ISO 等 EXIF 信息。网站基于 Node.js，使用 Material Design 风格的 响应式设计，支持 日夜间模式 切换，在不同的设备上都有不错的视觉效果：
 
-![terminalizer](https://images-1252557999.file.myqcloud.com/uPic/terminalizer.gif) 
+![Gallery-Portfolio](https://images-1252557999.file.myqcloud.com/uPic/Gallery-Portfolio.png) 
 
-### [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
+### [NarratoAI](https://github.com/linyqh/NarratoAI)
 
-基于 Deno 开发的趋势发现和内容发布系统，支持多源数据采集、智能总结和自动发布到微信公众号。 
+利用AI大模型，一键解说并剪辑视频；
 
-### [ChatGemini](https://github.com/bclswl0827/ChatGemini)
+![GehnG3](https://images-1252557999.file.myqcloud.com/uPic/GehnG3.png) 
 
-`ChatGemini` 是一个基于 `Google Gemini` 的网页客户端，对标 `ChatGPT 3.5`，操作逻辑同 `ChatGPT 3.5` 一致，同时支持在聊天中上传图片，应用会自动调用 `Gemini-Pro-Vision` 模型进行识图：
+### [yakGPT](https://github.com/yakGPT/yakGPT)
 
-- 适配移动端
-- 支持多 API 密钥分流
-- 操作逻辑同 ChatGPT
-- 仿 ChatGPT 3.5 界面
-- 支持多轮聊天对话
-- 支持上传图片进行识别
-- 逐字输出（SSE）回应
-- 集成 PHP 版反向代理
-- 自定义 Gemini API 地址
-- 可启用站点通行码防止滥用
-- 聊天内容导出（HTML 和 PDF）
-- 对话内容保存在 IndexedDB 中
+一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
 
-![ChatGemini](https://images-1252557999.file.myqcloud.com/uPic/ChatGemini.jpg)
-
-如果不想部署，可以直接使用搭建好的免费 Gemini：[https://gemini-pro.chat](https://gemini-pro.chat/) 
+![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
 
 ## 🤖 软件 
 
-### [chatbox](https://github.com/Bin-Huang/chatbox)
+### [Webpilot](https://github.com/webpilot-ai/Webpilot)
 
-开源的 `ChatGPT API (OpenAI API)` 桌面客户端，`Prompt` 的调试与管理工具，支持 `Windows、Mac 和 Linux`：
+开源浏览器插件，基于 `ChatGPT` 可以让您与网页进行自由对话，可以在线访问 [webpilot.ai](https://github.com/webpilot-ai/Webpilot)：
 
-![chatbox](https://images-1252557999.file.myqcloud.com/uPic/chatbox.png) 
+![webpilot](https://images-1252557999.file.myqcloud.com/uPic/webpilot.jpg) 
 
-### [Files](https://github.com/files-community/Files)
+### [boring.notch](https://github.com/TheBoredTeam/boring.notch/)
 
-一个现代化的文件管理软件(Windows用户专属)：
+`TheBoringNotch` 项目旨在将 `MacBook` 的 `notch` 区域转变为一个动态的音乐控制中心，具有音乐可视化效果和完整的音乐控制功能，让用户的 `MacBook notch` 成为屏幕上最酷的部分。 
 
-![files_windows](https://images-1252557999.file.myqcloud.com/uPic/files_windows.jpg) 
+### [TTime](https://github.com/inkTimeRecord/TTime)
 
-### [nextplayer](https://github.com/anilbeesetti/nextplayer)
+🚀 一款简洁高效的跨平台输入、截图、划词翻译软件：
 
-免费开源的 Android 原生视频播放器：
+![TTime](https://images-1252557999.file.myqcloud.com/uPic/TTime.jpg)
 
-![nextplayer](https://images-1252557999.file.myqcloud.com/uPic/Mj7TE1.png) 
+[Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#bob) 算是这类软件的鼻祖，之前我也推荐过 [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=pot#pot-desktop) ，大家酌情选择即可。 
 
 ## 👀 资料 
 
-### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+### [learn-javascript](https://github.com/sumn2u/learn-javascript)
 
-微软开源的一份全面的数据科学课程，20个课时，历时10周：
+学习 `javascript` 的开源书籍：
 
-![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
+![learn-javascript](https://images-1252557999.file.myqcloud.com/uPic/learn-javascript.jpg) 
 
-### [secguide](https://github.com/Tencent/secguide)
+### [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
 
-面向开发人员梳理的代码安全指南，规范索引如下：
+该存储库展示了用于检索增强生成（RAG）系统的各种高级技术。 
 
-- C/C++安全指南
-- JavaScript安全指南
-- Node安全指南
-- Go安全指南
-- Java安全指南
-- Python安全指南 
+### [ETCD源码剖析](https://csunny.gitbook.io/etcd/)
 
-### [Linux 101](https://101.lug.ustc.edu.cn/)
-
-本书由中国科学技术大学 Linux 用户协会的数名优秀成员协力编写，用于配套和延展“Linux 101”校内社团活动。其面向 Linux 零基础读者，从计算机操作系统和 Linux 的起源讲起，深入浅出带领读者一步步逐渐掌握最必要的 Linux 实用知识，并在其中感悟到社区开源文化的魅力：
-
-![Linux101-docs](https://images-1252557999.file.myqcloud.com/uPic/Linux101-docs.jpg) 
+![etcd_book](https://images-1252557999.file.myqcloud.com/uPic/etcd_book.jpg) 
 
 ## 🕸 网站 
 
-### [sov2ex.com](https://www.sov2ex.com/)
+### [blinkshot](https://github.com/Nutlope/blinkshot)
 
-[SOV2EX](https://github.com/Bynil/sov2ex) - 一个便捷的 [V2EX](https://v2ex.com/) 站内搜索引擎[开源]：
+ 基于 `Flux` 通过 `Together.ai` 提供的图像模型和推理能力实现的一个开源的实时 AI 图像生成器：
 
-![sov2ex](https://images-1252557999.file.myqcloud.com/uPic/sov2ex.jpg) 
+![blinkshot](https://images-1252557999.file.myqcloud.com/uPic/WT8nAl.png)
 
-### [uilibhub](https://uilibhub.com/zh)
+体验后，效果一般，这是模型原因并不是项目本身原因，因为 100% 开源～ 
 
-探索最佳 `UI` 库，助力 `React & Vue` 高效开发：
+### [calltoinspiration](https://calltoinspiration.com/)
 
-![uilibhub](https://images-1252557999.file.myqcloud.com/uPic/uilibhub.jpg) 
+根据不同 `UI` 下业务类型和方向进行分类，给用户展示不同效果以参考：
 
-### [装个机](https://zhuangit.ababtools.com/)
+![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
 
-一个全面的电脑系统安装指南，里面不仅包含了Windows、MacOS的具体下载资源还有“手把手”的安装攻略。
+### [curated.design](https://www.curated.design/)
 
-![zhuangit](https://images-1252557999.file.myqcloud.com/uPic/IH6B8e.png) 
+网页设计灵感目录，比较全面的设计领域导航网站：
+
+![curated](https://images-1252557999.file.myqcloud.com/uPic/curated.jpg) 
 
 ## ✍️ 说明
 
