@@ -5,107 +5,110 @@
 
 ## 🎯 项目 
 
-### [chatnio](https://github.com/Deeptrain-Community/chatnio)
+### [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
 
-🚀 下一代 AI 一站式解决方案，一站式 Chat + 中转 API 站点，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
+`HackBrowserData` 是一个浏览器数据（密码|历史记录|Cookie|书签|信用卡|下载记录|localStorage|浏览器插件）的导出工具，支持全平台主流浏览器：
 
-![chatnio](https://images-1252557999.file.myqcloud.com/uPic/chatnio.png) 
+![webhbd](https://images-1252557999.file.myqcloud.com/uPic/webhbd.png) 
 
-### [checkcle](https://github.com/operacle/checkcle)
+### [memos](https://github.com/justmemos/memos)
 
-`CheckCle` 提供了一个自托管的解决方案，用于实时监控和管理全栈系统、应用程序和基础设施。它支持对 HTTP、DNS、Ping 协议的监控，以及对 TCP 服务和 API 接口（如 FTP、SMTP、HTTP）的监控。
+Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
 
-![checkcle](https://images-1252557999.file.myqcloud.com/uPic/0aiiq4.png) 
+**🎯 产品意图**:
 
-### [privaxy](https://github.com/Barre/privaxy)
+- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
+- 🏗️ 代替了微信“文件传输助手”
+- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
 
-Privaxy 是一个 MITM HTTP代理，位于 HTTP 会话应用程序（例如 Web 浏览器和 HTTP 服务器，例如为网站提供服务的应用程序）之间。通过在两端之间建立双向隧道，Privaxy 能够基于 URL 模式阻止网络请求，并将脚本和样式注入 HTML 文档：
+### [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 
-![privaxy](https://images-1252557999.file.myqcloud.com/uPic/privaxy.png)
+最近很火的`AI Art` 生成模型：
 
-还有一款Go实现的[go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy)也值得推荐尝试。 
+![stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/SMqeoF.jpg)
+
+还有可直接使用的的 `Web UI` 版本 `stable-diffusion-webui` ：
+
+- [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui)
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
+![stable-diffusion-webui](https://images-1252557999.file.myqcloud.com/uPic/KwTGpC.jpg) 
 
 ## 🤖 软件 
 
-### [GestureSign](https://github.com/TransposonY/GestureSign)
+### [balenaEtcher](https://github.com/balena-io/etcher)
 
-开源免费的 `Windows` 全局手势控制辅助增强软件神器:
+balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
 
-- 支持 `Windows 11、Win10 / 8` 等系统
-- 支持鼠标手势、触控板等手势操作
-- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
+![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
 
-![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
+### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
 
-### [ImageOptim](https://github.com/ImageOptim/ImageOptim)
+基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
 
-ImageOptim 是一款开源免费的本地图像压缩工具：
+![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
 
-![ImageOptim](https://images-1252557999.file.myqcloud.com/uPic/ImageOptim.jpg)
+### [lossless-cut](https://github.com/mifi/lossless-cut)
 
-我在写一些博客文章的时候，截图过大时避免不了使用图片压缩工具，周刊前期介绍的相关工具有：
+`LosslessCut` 是一个强大的跨平台视频/音频编辑工具，旨在通过快速且无损的操作，提供对视频、音频、字幕等媒体文件的剪辑和处理。它支持几乎所有主流视频和音频格式的无损剪切，能够快速提取视频中的精彩片段，而无需重新编码，从而保证画质不降低。此外，它还支持合并、重新排列、添加音轨或字幕、批量处理等功能，非常适合从相机、`GoPro`、无人机等设备中处理大文件。
 
-- [Imagine](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#imagine)：全平台支持的图片压缩软件
-- [webutils](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#webutils)：提供包含图片文本等压缩功能的网页工具
-- [tinypng](https://weekly.howie6879.com/2022/01-31~02-05.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC025%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tinypng)：比较受欢迎的网页图片压缩工具，官方给出的数据显示，PNG 文件最高能减小 70%的体积
-- [tanpok](https://weekly.howie6879.com/2021/11-15~11-21.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E5%8E%8B%E7%BC%A9#tanpok)：效果极佳的本地图片网页压缩工具
-- [docsmall](https://weekly.howie6879.com/2021/10-18~10-24.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC010%E6%9C%9F%EF%BC%89.html?h=docsma#docsmall)：提供一些图片压缩、PDF合并分割小功能的网站 
+特点包括：
+- 支持大多数视频和音频格式的无损剪切
+- 快速多文件工作流程和键盘快捷键操作
+- 支持自定义时间段导出和编辑文件元数据
+- 提供黑场检测、静音检测、场景变化检测等实用工具
 
-### [scrcpy](https://github.com/Genymobile/scrcpy)
+`LosslessCut` 可以在不同操作系统上运行，并提供各种可执行文件下载选择，是处理和编辑媒体文件的理想选择。
 
-在`GNU/Linux, Windows 和 macOS`上显示并控制通过 USB (或 TCP/IP) 连接的安卓设备，不需要任何 root 权限。
-
-它专注于：
-
-- 轻量 (原生，仅显示设备屏幕)
-- 性能 (30~60fps)
-- 质量 (分辨率可达 1920×1080 或更高)
-- 低延迟 (35~70ms)
-- 快速启动 (最快 1 秒内即可显示第一帧)
-- 无侵入性 (不会在设备上遗留任何程序) 
+![lossless-cut](https://images-1252557999.file.myqcloud.com/uPic/lossless-cut.jpg) 
 
 ## 👀 资料 
 
-### [Nginx 开发从入门到精通](https://tengine.taobao.org/book/)
+### [note-architect](https://zq99299.github.io/note-architect/hc/)
 
-淘宝团队出品的关于 `Nginx` 模块开发以及内部原理的书：
+高并发系统设计 40 问，一份架构师学习笔记：
 
-![tb_nginx](https://images-1252557999.file.myqcloud.com/uPic/tb_nginx.jpg) 
+![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
 
-### [TuringCourses](https://github.com/ZJU-Turing/TuringCourses)
+### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
-浙江大学图灵班各门课程的学习指南以及学习资源。
+命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
 
-- 主站：https://ZJU-Turing.github.io/TuringCourses/
-- 存档站（CS/AI/IS 三专业版）：https://zju-turing.github.io/TuringCoursesGrave/ 
+### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
-### [free-educa](https://github.com/free-educa/books)
+30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
 
-`free-educa/books` 是一个开源书籍分享项目，提供了一个精选的编程和开发相关书籍收藏，涵盖了多种编程语言、网页开发、移动应用开发、软件工程、数据科学、DevOps、软件架构和网络安全等主题，鼓励社区成员贡献和共享资源。
-
-老胡将所有电子书打包好了 👉 https://pan.quark.cn/s/a3cf52f67ec0
-
-![free-educa](https://images-1252557999.file.myqcloud.com/uPic/free-educa.jpg) 
+![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
 
 ## 🕸 网站 
 
-### [mindmap-scanner](https://xmind.cn/mindmap-scanner/)
+### [gpt5plus.com](https://gpt5plus.com/)
 
-用 `AI` 将思维导图图片转为可编辑的 `Xmind` 文件：
+一个 ChatGPT 代充服务网页，价格比较便宜：
 
-![mindmap-scanner](https://images-1252557999.file.myqcloud.com/uPic/mindmap-scanner.jpg) 
+![gpt5plus](https://images-1252557999.file.myqcloud.com/uPic/Uk76mA.png) 
 
-### [douyin.wtf](https://douyin.wtf/)
+### [帮小忙](https://tool.browser.qq.com/)
 
-网站基于开源项目 [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) ，用于 TikTok 数据爬取工具，支持 API 调用，在线批量解析及下载：
+腾讯出品的小工具合集，轻松办公，工具助你一臂之力，功能一应俱全、简单好用的线上工具宝：
 
-![douyin.wtf](https://images-1252557999.file.myqcloud.com/uPic/douyin.wtf.jpg) 
+![bxm](https://images-1252557999.file.myqcloud.com/uPic/bxm.jpg) 
 
-### [ai-llm-comparison](https://github.com/Ahmet-Dedeler/ai-llm-comparison)
+### [workout-cool](https://workout.cool/)
 
-该网站旨在为用户提供一个比较各种 AI 模型的平台，帮助用户根据自己的需求选择最合适的 AI 服务：
+> 一个综合性健身指导平台，可为您创建训练计划、追踪进度，并提供包含详细说明与视频演示的丰富训练动作数据库。
 
-![ai-llm-comparison](https://images-1252557999.file.myqcloud.com/uPic/SO7NW7.png) 
+如果读者有印象的话，老胡之前推荐过 [workout-lol](https://github.com/workout-lol/workout-lol)，这两个项目名字很像，界面也类似，这背后作者自述故事如下：
+
+- 🏗️ 原始贡献者：我曾是 workout.lol 项目的主要贡献者
+- 💼 商业挑战：原项目在健身视频合作方面遇到重大障碍（无法找到可靠的视频供应商）
+- 💰 项目出售：由于这些合作问题，该项目被出售给另一方
+- 📉 项目废弃：新所有者很快意识到健身视频授权成本高得离谱，随后开始消极对待并最终彻底放弃了整个项目
+- 🔄 复兴尝试：过去9个月里，我一直在尝试重新联系新利益相关方
+- 📧 杳无音讯：尽管进行了多次（15次）尝试，但始终未获回应
+- 🚀 全新开始：与其让这份宝贵的工作消失，我决定创建一个全新的现代化实现
+
+![workout-cool](https://images-1252557999.file.myqcloud.com/uPic/LUjWBV.png) 
 
 ## ✍️ 说明
 
