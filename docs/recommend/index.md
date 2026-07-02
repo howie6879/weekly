@@ -5,110 +5,96 @@
 
 ## 🎯 项目 
 
-### [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
+### [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)
 
-`HackBrowserData` 是一个浏览器数据（密码|历史记录|Cookie|书签|信用卡|下载记录|localStorage|浏览器插件）的导出工具，支持全平台主流浏览器：
+一个 `ChatGPT` 代码解释器的开源（`LangChain`）实现：
 
-![webhbd](https://images-1252557999.file.myqcloud.com/uPic/webhbd.png) 
+- 数据集分析、股票图表绘制、图像处理....
+- 互联网访问和自动安装Python软件包
+- 除了OpenAI API 外，所有事情在本地运行
+- 对话记忆：根据先前的输入进行回应 
 
-### [memos](https://github.com/justmemos/memos)
+### [vtracer](https://github.com/visioncortex/vtracer)
 
-Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
+可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
 
-**🎯 产品意图**:
+![vtracer](https://images-1252557999.file.myqcloud.com/uPic/y9m1F5.jpg) 
 
-- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
-- 🏗️ 代替了微信“文件传输助手”
-- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
+### [BabelDOC](https://github.com/funstory-ai/BabelDOC)
 
-### [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+一个开源的文档翻译工具，支持多语言和多种 `PDF` 处理选项，可以免费翻译 `PDF` 文件中的前 1000 页内容。它提供了一个简单的命令行界面，以及 `Python API` 的支持，主要用于集成到其他软件中，也可以直接用于简单的翻译任务：
 
-最近很火的`AI Art` 生成模型：
-
-![stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/SMqeoF.jpg)
-
-还有可直接使用的的 `Web UI` 版本 `stable-diffusion-webui` ：
-
-- [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui)
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-
-![stable-diffusion-webui](https://images-1252557999.file.myqcloud.com/uPic/KwTGpC.jpg) 
+![BabelDOC](https://images-1252557999.file.myqcloud.com/uPic/l8jWhb.png) 
 
 ## 🤖 软件 
 
-### [balenaEtcher](https://github.com/balena-io/etcher)
+### [aidea](https://github.com/mylxsw/aidea)
 
-balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
+一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：
 
-![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
+- 支持 GPT-3.5/4 问答聊天
+- 支持国产模型：通义千问，文心一言
+- 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
 
-### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
+![aidea](https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg) 
 
-基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
+### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
 
-![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
+安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
 
-### [lossless-cut](https://github.com/mifi/lossless-cut)
+![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
 
-`LosslessCut` 是一个强大的跨平台视频/音频编辑工具，旨在通过快速且无损的操作，提供对视频、音频、字幕等媒体文件的剪辑和处理。它支持几乎所有主流视频和音频格式的无损剪切，能够快速提取视频中的精彩片段，而无需重新编码，从而保证画质不降低。此外，它还支持合并、重新排列、添加音轨或字幕、批量处理等功能，非常适合从相机、`GoPro`、无人机等设备中处理大文件。
+### [spacedrive](https://www.spacedrive.com/)
 
-特点包括：
-- 支持大多数视频和音频格式的无损剪切
-- 快速多文件工作流程和键盘快捷键操作
-- 支持自定义时间段导出和编辑文件元数据
-- 提供黑场检测、静音检测、场景变化检测等实用工具
+`Spacedrive` 是一个基于 `Rust` 的开源跨平台文件管理器，它采用了虚拟分布式文件系统，通过一个 `API` 来操作访问多设备上的文件。
 
-`LosslessCut` 可以在不同操作系统上运行，并提供各种可执行文件下载选择，是处理和编辑媒体文件的理想选择。
+它可以管理分布在多端的文件，在一个地方整理多个设备上的文件。
 
-![lossless-cut](https://images-1252557999.file.myqcloud.com/uPic/lossless-cut.jpg) 
+无论是云端还是离线硬盘，进而生成你独有的个人分布式云，简单又方便：
+
+![spacedrive](https://images-1252557999.file.myqcloud.com/uPic/spacedrive.webp) 
 
 ## 👀 资料 
 
-### [note-architect](https://zq99299.github.io/note-architect/hc/)
+### [moderncss](https://moderncss.dev/)
 
-高并发系统设计 40 问，一份架构师学习笔记：
+一份现代 `CSS` 教程，偏向有 `CSS` 的基础的前端开发者：
 
-![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
+![moderncss](https://images-1252557999.file.myqcloud.com/uPic/moderncss.jpg) 
 
-### [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+### [LearnData-开源笔记](https://newzone.top/)
 
-命令行的艺术，熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 
+一份关于开源工具、效率方法、心理学探索的自我提升笔记：
 
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
 
-30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
+### [howtheytest](https://github.com/abhivaikar/howtheytest)
 
-![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
+关于软件公司如何测试其软件的公共资源集合：
+
+![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
 
 ## 🕸 网站 
 
-### [gpt5plus.com](https://gpt5plus.com/)
+### [collagemaker.tools](https://collagemaker.tools/)
 
-一个 ChatGPT 代充服务网页，价格比较便宜：
+群友 **@37丫37** 开发免费在线拼图工具，纯前端客户端渲染，提供布局拼图和长图拼接两大核心模式。支持在画布自由添加、编辑、缩放和移动文字、箭头、方框、圆圈等创意对象。所有操作均在本地完成，完全免费、无需登录、注重隐私，无水印高清下载。
 
-![gpt5plus](https://images-1252557999.file.myqcloud.com/uPic/Uk76mA.png) 
+![collagemaker](https://images-1252557999.file.myqcloud.com/uPic/fl3v1N.png)
 
-### [帮小忙](https://tool.browser.qq.com/)
+PS:原来域名是：https://img.ops-coffee.cn/ 现在改成 https://collagemaker.tools ，看样子是更加专业且认真地在维护这个小产品。 
 
-腾讯出品的小工具合集，轻松办公，工具助你一臂之力，功能一应俱全、简单好用的线上工具宝：
+### [zlib.pro](https://zlib.pro/)
 
-![bxm](https://images-1252557999.file.myqcloud.com/uPic/bxm.jpg) 
+`Z-Library` 是一个书籍检索下载网站，这个网站提供了更方便的查找访问方式：
 
-### [workout-cool](https://workout.cool/)
+![zlib-pro](https://images-1252557999.file.myqcloud.com/uPic/zlib-pro.jpg) 
 
-> 一个综合性健身指导平台，可为您创建训练计划、追踪进度，并提供包含详细说明与视频演示的丰富训练动作数据库。
+### [feathericons](https://feathericons.com/)
 
-如果读者有印象的话，老胡之前推荐过 [workout-lol](https://github.com/workout-lol/workout-lol)，这两个项目名字很像，界面也类似，这背后作者自述故事如下：
+简洁漂亮的图标网站：
 
-- 🏗️ 原始贡献者：我曾是 workout.lol 项目的主要贡献者
-- 💼 商业挑战：原项目在健身视频合作方面遇到重大障碍（无法找到可靠的视频供应商）
-- 💰 项目出售：由于这些合作问题，该项目被出售给另一方
-- 📉 项目废弃：新所有者很快意识到健身视频授权成本高得离谱，随后开始消极对待并最终彻底放弃了整个项目
-- 🔄 复兴尝试：过去9个月里，我一直在尝试重新联系新利益相关方
-- 📧 杳无音讯：尽管进行了多次（15次）尝试，但始终未获回应
-- 🚀 全新开始：与其让这份宝贵的工作消失，我决定创建一个全新的现代化实现
-
-![workout-cool](https://images-1252557999.file.myqcloud.com/uPic/LUjWBV.png) 
+![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
 
 ## ✍️ 说明
 
