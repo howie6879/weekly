@@ -5,96 +5,89 @@
 
 ## 🎯 项目 
 
-### [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)
+### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
 
-一个 `ChatGPT` 代码解释器的开源（`LangChain`）实现：
+开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
 
-- 数据集分析、股票图表绘制、图像处理....
-- 互联网访问和自动安装Python软件包
-- 除了OpenAI API 外，所有事情在本地运行
-- 对话记忆：根据先前的输入进行回应 
+![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
 
-### [vtracer](https://github.com/visioncortex/vtracer)
+### [typora_plugin](https://github.com/obgnail/typora_plugin)
 
-可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
+开源的 `Typora` 插件，功能增强工具，新增了三十多种功能：
 
-![vtracer](https://images-1252557999.file.myqcloud.com/uPic/y9m1F5.jpg) 
+![typora_plugin](https://images-1252557999.file.myqcloud.com/uPic/typora_plugin.jpg) 
 
-### [BabelDOC](https://github.com/funstory-ai/BabelDOC)
+### [hoppscotch](https://github.com/hoppscotch/hoppscotch)
 
-一个开源的文档翻译工具，支持多语言和多种 `PDF` 处理选项，可以免费翻译 `PDF` 文件中的前 1000 页内容。它提供了一个简单的命令行界面，以及 `Python API` 的支持，主要用于集成到其他软件中，也可以直接用于简单的翻译任务：
+`Hoppscotch`对标的是`Postman`，相信涉及到后端接口这块大家都对`Postman`非常熟悉，但`Postman`自从收费后，评价就慢慢开始不行了，而且软件也越来越重，我本人也是同感，不然我也没有动机找到`hoppscotch`来替换。
 
-![BabelDOC](https://images-1252557999.file.myqcloud.com/uPic/l8jWhb.png) 
+有恶龙就有勇士，有位印度裔小哥`Liyas Thomas`坐不住了，对`Postman`非常不爽，于是他自己开发了`Postwoman`，看这个名字也知道是干嘛的，后面改名为`Hoppscotch`。
+
+开源的魅力就在这里，永远有人做出让大家欢呼的贡献，所以`Hoppscotch`在社区获得非常高的认可度（目前已经30K Star+），其提供了非常丰富的特性，部署也很方便，有兴趣的可以尝试使用看看：
+
+![hoppscotch](https://images-1252557999.file.myqcloud.com/uPic/sPde7J.png) 
 
 ## 🤖 软件 
 
-### [aidea](https://github.com/mylxsw/aidea)
+### [res-downloader](https://github.com/putyy/res-downloader)
 
-一款集成了主流大语言模型以及绘图模型的 APP， 采用 Flutter 开发，代码完全开源，支持以下功能：
+网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
 
-- 支持 GPT-3.5/4 问答聊天
-- 支持国产模型：通义千问，文心一言
-- 支持文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0
+![res-downloader](https://images-1252557999.file.myqcloud.com/uPic/res-downloader.jpeg) 
 
-![aidea](https://images-1252557999.file.myqcloud.com/uPic/aidea.jpg) 
+### [iina](https://github.com/iina/iina)
 
-### [EasyWatermark](https://github.com/rosuH/EasyWatermark)
+macOS 下的开源现代化视频播放器，我的必备软件：
 
-安全、简单地为你的敏感照片添加水印，防止被其他人泄露、利用：
+![iina](https://images-1252557999.file.myqcloud.com/uPic/iina.jpg) 
 
-![EasyWatermark](https://images-1252557999.file.myqcloud.com/uPic/EasyWatermark.png) 
+### [thorium-reader](https://github.com/edrlab/thorium-reader)
 
-### [spacedrive](https://www.spacedrive.com/)
+`Thorium Reader` 是一款专为 `Windows 10/11、MacOS & Linux` 开发的电子书阅读器：
 
-`Spacedrive` 是一个基于 `Rust` 的开源跨平台文件管理器，它采用了虚拟分布式文件系统，通过一个 `API` 来操作访问多设备上的文件。
-
-它可以管理分布在多端的文件，在一个地方整理多个设备上的文件。
-
-无论是云端还是离线硬盘，进而生成你独有的个人分布式云，简单又方便：
-
-![spacedrive](https://images-1252557999.file.myqcloud.com/uPic/spacedrive.webp) 
+![thorium-reader](https://images-1252557999.file.myqcloud.com/uPic/thorium-reader.png) 
 
 ## 👀 资料 
 
-### [moderncss](https://moderncss.dev/)
+### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
 
-一份现代 `CSS` 教程，偏向有 `CSS` 的基础的前端开发者：
+作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
 
-![moderncss](https://images-1252557999.file.myqcloud.com/uPic/moderncss.jpg) 
+![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
 
-### [LearnData-开源笔记](https://newzone.top/)
+### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
 
-一份关于开源工具、效率方法、心理学探索的自我提升笔记：
+关于 `MongoDB`，最全面的免费学习向导：
 
-![newzone](https://images-1252557999.file.myqcloud.com/uPic/6pjcgz.png) 
+- 学习资源：文档书籍教程等
+- 第三方库：各种编程语言的兼容库
+- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
 
-### [howtheytest](https://github.com/abhivaikar/howtheytest)
+### [法律文库](https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html)
 
-关于软件公司如何测试其软件的公共资源集合：
+以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。
 
-![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
+![justlaws](https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg) 
 
 ## 🕸 网站 
 
-### [collagemaker.tools](https://collagemaker.tools/)
+### [uiprompt.art](https://uiprompt.art/)
 
-群友 **@37丫37** 开发免费在线拼图工具，纯前端客户端渲染，提供布局拼图和长图拼接两大核心模式。支持在画布自由添加、编辑、缩放和移动文字、箭头、方框、圆圈等创意对象。所有操作均在本地完成，完全免费、无需登录、注重隐私，无水印高清下载。
+UI Prompt Explorer 网站提供了一个专注于手绘风格界面设计的展示平台，包括画册、仪表板、日程规划、作品集、电子商务和博客等多种设计模板：
 
-![collagemaker](https://images-1252557999.file.myqcloud.com/uPic/fl3v1N.png)
+![uiprompt](https://images-1252557999.file.myqcloud.com/uPic/x2em3D.png) 
 
-PS:原来域名是：https://img.ops-coffee.cn/ 现在改成 https://collagemaker.tools ，看样子是更加专业且认真地在维护这个小产品。 
+### [askaitools.ai](https://askaitools.ai/)
 
-### [zlib.pro](https://zlib.pro/)
+专为人工智能产品量身定制的尖端搜索引擎项目，快速搜索查找 1w+ AI 产品：
 
-`Z-Library` 是一个书籍检索下载网站，这个网站提供了更方便的查找访问方式：
+![askaitools](https://images-1252557999.file.myqcloud.com/uPic/askaitools.jpg) 
 
-![zlib-pro](https://images-1252557999.file.myqcloud.com/uPic/zlib-pro.jpg) 
+### [gooddesign](https://www.gooddesign.tools/)
 
-### [feathericons](https://feathericons.com/)
+优质设计师工具导航网站：
 
-简洁漂亮的图标网站：
-
-![feathericons](https://images-1252557999.file.myqcloud.com/uPic/feathericons.jpg) 
+![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
 
 ## ✍️ 说明
 
