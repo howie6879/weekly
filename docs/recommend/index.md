@@ -5,89 +5,87 @@
 
 ## 🎯 项目 
 
-### [FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
+### [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
 
-开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
+最近在开发一款微信小程序，第一次上手，发现还是很有意思的。这个项目收集了小程序开发的方方面面，如：工具、插件、组件、Demo等。
 
-![FeatureProbe](https://images-1252557999.file.myqcloud.com/uPic/FeatureProbe.png) 
+基本上只要找一个开源的小程序，找一个示例跟着写，哪怕你没基础，也能很快开发一款自己的小程序出来，推荐。 
 
-### [typora_plugin](https://github.com/obgnail/typora_plugin)
+### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
 
-开源的 `Typora` 插件，功能增强工具，新增了三十多种功能：
+`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
 
-![typora_plugin](https://images-1252557999.file.myqcloud.com/uPic/typora_plugin.jpg) 
+一个获取百度网盘分享链接下载地址的工具：
 
-### [hoppscotch](https://github.com/hoppscotch/hoppscotch)
+![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
 
-`Hoppscotch`对标的是`Postman`，相信涉及到后端接口这块大家都对`Postman`非常熟悉，但`Postman`自从收费后，评价就慢慢开始不行了，而且软件也越来越重，我本人也是同感，不然我也没有动机找到`hoppscotch`来替换。
+### [coolify](https://github.com/coollabsio/coolify)
 
-有恶龙就有勇士，有位印度裔小哥`Liyas Thomas`坐不住了，对`Postman`非常不爽，于是他自己开发了`Postwoman`，看这个名字也知道是干嘛的，后面改名为`Hoppscotch`。
+> `Vercel Netlify Heroku` 开源替代品
 
-开源的魅力就在这里，永远有人做出让大家欢呼的贡献，所以`Hoppscotch`在社区获得非常高的认可度（目前已经30K Star+），其提供了非常丰富的特性，部署也很方便，有兴趣的可以尝试使用看看：
+![coolify](https://images-1252557999.file.myqcloud.com/uPic/coolify.jpeg)
 
-![hoppscotch](https://images-1252557999.file.myqcloud.com/uPic/sPde7J.png) 
+还可以使用这个项目：[dokploy](https://github.com/dokploy/dokploy)
+
+![dokploy](https://images-1252557999.file.myqcloud.com/uPic/dokploy.png) 
 
 ## 🤖 软件 
 
-### [res-downloader](https://github.com/putyy/res-downloader)
+### [ReadYou](https://github.com/Ashinch/ReadYou)
 
-网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
+这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
 
-![res-downloader](https://images-1252557999.file.myqcloud.com/uPic/res-downloader.jpeg) 
+![ReadYou](https://images-1252557999.file.myqcloud.com/uPic/ReadYou.jpg) 
 
-### [iina](https://github.com/iina/iina)
+### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
 
-macOS 下的开源现代化视频播放器，我的必备软件：
+B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
 
-![iina](https://images-1252557999.file.myqcloud.com/uPic/iina.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg) 
 
-### [thorium-reader](https://github.com/edrlab/thorium-reader)
+### [clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu)
 
-`Thorium Reader` 是一款专为 `Windows 10/11、MacOS & Linux` 开发的电子书阅读器：
+`Clash Nyanpasu` 是一个基于 `Tauri` 的 `Clash` 图形用户界面（`GUI`），支持 `Clash Premium、Mihomo & Clash Rust`，提供配置文件管理和增强功能，支持提供商管理，并采用 `Google Material You Design UI`：
 
-![thorium-reader](https://images-1252557999.file.myqcloud.com/uPic/thorium-reader.png) 
+![nyanpasu](https://images-1252557999.file.myqcloud.com/uPic/KvzWVL.png) 
 
 ## 👀 资料 
 
-### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
+### [building-llm-applications-from-scratch](https://github.com/hamzafarooq/building-llm-applications-from-scratch)
 
-作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
+该课程由 `Hamzafarooq` 大神提供，是一个关于如何构建基于大型语言模型（LLM）的应用程序的开源课程。该课程包括了29个详细的教程，涵盖了从M架构、搜索和检索技术，以及如何构建和部署LLM应用程。此外，还包括了6个现实世界的项目案例，以及关于如何进行有效的代码编写和模型部署的互动式直播会话。 
 
-![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
+### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
 
-### [awesome-mongodb](https://github.com/ramnes/awesome-mongodb)
+《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
 
-关于 `MongoDB`，最全面的免费学习向导：
+![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
 
-- 学习资源：文档书籍教程等
-- 第三方库：各种编程语言的兼容库
-- 各种工具：比如桌面应用、`Web GUI`、迁移工具等 
+### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
 
-### [法律文库](https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html)
+开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
 
-以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。
-
-![justlaws](https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg) 
+![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
 
 ## 🕸 网站 
 
-### [uiprompt.art](https://uiprompt.art/)
+### [pixel-me](https://pixel-me.tokyo/en/)
 
-UI Prompt Explorer 网站提供了一个专注于手绘风格界面设计的展示平台，包括画册、仪表板、日程规划、作品集、电子商务和博客等多种设计模板：
+将你的头像像素化，质量挺好：
 
-![uiprompt](https://images-1252557999.file.myqcloud.com/uPic/x2em3D.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/gnHdoM.png) 
 
-### [askaitools.ai](https://askaitools.ai/)
+### [historyline.online](https://github.com/liujuntao123/chines-history-video)
 
-专为人工智能产品量身定制的尖端搜索引擎项目，快速搜索查找 1w+ AI 产品：
+中国历朝代历史视频讲解，汇聚了B站上综合数据（点赞，播放，投币，收藏）最高的一个/几个视频：
 
-![askaitools](https://images-1252557999.file.myqcloud.com/uPic/askaitools.jpg) 
+![historyline](https://images-1252557999.file.myqcloud.com/uPic/historyline.jpg) 
 
-### [gooddesign](https://www.gooddesign.tools/)
+### [fancymacbook](https://fancymacbook.app/)
 
-优质设计师工具导航网站：
+提供技术向软件搜索然后输出 `brew` 命令安装：
 
-![gooddesign](https://images-1252557999.file.myqcloud.com/uPic/gooddesign.jpg) 
+![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
 
 ## ✍️ 说明
 
