@@ -5,87 +5,87 @@
 
 ## 🎯 项目 
 
-### [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
+### [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
 
-最近在开发一款微信小程序，第一次上手，发现还是很有意思的。这个项目收集了小程序开发的方方面面，如：工具、插件、组件、Demo等。
+将视频从一种语言翻译为另一种语言，并添加配音，这个最近火出圈了：
 
-基本上只要找一个开源的小程序，找一个示例跟着写，哪怕你没基础，也能很快开发一款自己的小程序出来，推荐。 
+![pyvideotrans](https://images-1252557999.file.myqcloud.com/uPic/pyvideotrans.jpg) 
 
-### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
+### [site-status](https://github.com/imsyy/site-status)
 
-`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
+一个简洁的站点状态检测工具：
 
-一个获取百度网盘分享链接下载地址的工具：
+![site-status](https://images-1252557999.file.myqcloud.com/uPic/RvcPlz.png)
 
-![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
+之前推荐过的 [Uptime Kuma](https://github.com/louislam/uptime-kuma) 也是同类型开源项目。 
 
-### [coolify](https://github.com/coollabsio/coolify)
+### [claudecodeui](https://github.com/siteboon/claudecodeui)
 
-> `Vercel Netlify Heroku` 开源替代品
+一个针对 `Claude Code` 的免费开源前端界面，它允许用户在移动设备和网页上管理 Claude Code 的会话和项目。该项目支持响应式设计，适用于桌面、平板和手机，提供了交互式的聊天界面、集成的 shell 终端、文件资源管理器以及 Git 资源管理器等功能。
 
-![coolify](https://images-1252557999.file.myqcloud.com/uPic/coolify.jpeg)
-
-还可以使用这个项目：[dokploy](https://github.com/dokploy/dokploy)
-
-![dokploy](https://images-1252557999.file.myqcloud.com/uPic/dokploy.png) 
+![claudecodeui](https://images-1252557999.file.myqcloud.com/uPic/wYbDc3.png) 
 
 ## 🤖 软件 
 
-### [ReadYou](https://github.com/Ashinch/ReadYou)
+### [mangerlahn-latest](https://github.com/mangerlahn/latest)
 
-这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
+一款免费开源的macOS应用程序，专门设计用于保持您的所有应用程序处于最新状态。它能够检查您的每一个应用程序，确保您始终拥有最新的更新和功能。
 
-![ReadYou](https://images-1252557999.file.myqcloud.com/uPic/ReadYou.jpg) 
+![mac_latest](https://images-1252557999.file.myqcloud.com/uPic/mac_latest.jpg) 
 
-### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
 
-B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
+自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg) 
+![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
 
-### [clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu)
+### [stretchly](https://github.com/hovancik/stretchly)
 
-`Clash Nyanpasu` 是一个基于 `Tauri` 的 `Clash` 图形用户界面（`GUI`），支持 `Clash Premium、Mihomo & Clash Rust`，提供配置文件管理和增强功能，支持提供商管理，并采用 `Google Material You Design UI`：
+`Stretchly` 是一个跨平台的 `Electron` 应用程序，它的核心功能就是让你在电脑上面工作时候设定休息&提醒时间：
 
-![nyanpasu](https://images-1252557999.file.myqcloud.com/uPic/KvzWVL.png) 
+![stretchly](https://images-1252557999.file.myqcloud.com/uPic/stretchly.jpg) 
 
 ## 👀 资料 
 
-### [building-llm-applications-from-scratch](https://github.com/hamzafarooq/building-llm-applications-from-scratch)
+### [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/index.html)
 
-该课程由 `Hamzafarooq` 大神提供，是一个关于如何构建基于大型语言模型（LLM）的应用程序的开源课程。该课程包括了29个详细的教程，涵盖了从M架构、搜索和检索技术，以及如何构建和部署LLM应用程。此外，还包括了6个现实世界的项目案例，以及关于如何进行有效的代码编写和模型部署的互动式直播会话。 
+Beej 的 Git 指南教程：
 
-### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
+![Beejgit](https://images-1252557999.file.myqcloud.com/uPic/UAP5Fj.png)
 
-《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
+之前推荐过[Beej 的 C 语言超级指南](https://beej.us/guide/bgc/html/split/)，从入门到进阶，基础语法到高级特性：
 
-![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
+![Beej](https://images-1252557999.file.myqcloud.com/uPic/1XOLrv.png) 
 
-### [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai)
+### [Recommender_System](https://github.com/solidglue/Recommender_System)
 
-开源的技术教程：深度学习面试，全书近 400 页，收录了数百道深度学习面试题与答案，附带有精美的插图和图表，可以点[这里](https://arxiv.org/abs/2201.00650)下载。
+推荐系统入门指南，全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。 
 
-![interviews.ai](https://images-1252557999.file.myqcloud.com/uPic/jxae9m.jpg) 
+### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
+
+左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
 
 ## 🕸 网站 
 
-### [pixel-me](https://pixel-me.tokyo/en/)
+### [namebeta](https://namebeta.com/)
 
-将你的头像像素化，质量挺好：
+输入你想要的域名，各方比价：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/gnHdoM.png) 
+![namebeta_web](https://images-1252557999.file.myqcloud.com/uPic/namebeta_web.jpg) 
 
-### [historyline.online](https://github.com/liujuntao123/chines-history-video)
+### [FOFA](https://fofa.info/)
 
-中国历朝代历史视频讲解，汇聚了B站上综合数据（点赞，播放，投币，收藏）最高的一个/几个视频：
+`FOFA` 是白帽汇推出的一款网络空间搜索引擎,它通过进行网络空间测绘,能够帮助研究人员或者企业迅速进行网络资产匹配,例如进行漏洞影响范围分析、应用分布统计、应用流行度等。
 
-![historyline](https://images-1252557999.file.myqcloud.com/uPic/historyline.jpg) 
+检索到的内容主要是服务器，数据库，某个网站管理后台，路由器，交换机，公共ip的打印机，网络摄像头，门禁系统，Web服务 ……
 
-### [fancymacbook](https://fancymacbook.app/)
+![FOFA](https://images-1252557999.file.myqcloud.com/uPic/VmAeT1.png) 
 
-提供技术向软件搜索然后输出 `brew` 命令安装：
+### [帮小忙](https://tool.browser.qq.com/)
 
-![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
+腾讯出品的小工具合集，轻松办公，工具助你一臂之力，功能一应俱全、简单好用的线上工具宝：
+
+![bxm](https://images-1252557999.file.myqcloud.com/uPic/bxm.jpg) 
 
 ## ✍️ 说明
 
