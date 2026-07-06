@@ -5,87 +5,88 @@
 
 ## 🎯 项目 
 
-### [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
+### [OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki)
 
-将视频从一种语言翻译为另一种语言，并添加配音，这个最近火出圈了：
+`OpenDeepWiki` 是基于[DeepWiki](https://deepwiki.org)项目的开源版本，旨于提供一个强大的知识管理和协作平台:
 
-![pyvideotrans](https://images-1252557999.file.myqcloud.com/uPic/pyvideotrans.jpg) 
+![OpenDeepWiki](https://images-1252557999.file.myqcloud.com/uPic/iIA8BQ.png) 
 
-### [site-status](https://github.com/imsyy/site-status)
+### [Docker-Proxy](https://github.com/dqzboy/Docker-Proxy)
 
-一个简洁的站点状态检测工具：
+自建 `Docker` 镜像加速服务，基于官方 `Docker Registry`  一键部署 `Docker、K8s、Quay、Ghcr、Mcr、Nvcr` 等镜像加速\管理服务。支持免服务器部署到 `ClawCloud\Render\Koyeb`：
 
-![site-status](https://images-1252557999.file.myqcloud.com/uPic/RvcPlz.png)
+![Docker-Proxy](https://images-1252557999.file.myqcloud.com/uPic/jaSnDn.png) 
 
-之前推荐过的 [Uptime Kuma](https://github.com/louislam/uptime-kuma) 也是同类型开源项目。 
+### [xiaomusic](https://github.com/hanxi/xiaomusic)
 
-### [claudecodeui](https://github.com/siteboon/claudecodeui)
+使用小爱/红米音箱播放音乐，音乐使用 `yt-dlp` 下载：
 
-一个针对 `Claude Code` 的免费开源前端界面，它允许用户在移动设备和网页上管理 Claude Code 的会话和项目。该项目支持响应式设计，适用于桌面、平板和手机，提供了交互式的聊天界面、集成的 shell 终端、文件资源管理器以及 Git 资源管理器等功能。
+- 播放歌曲
+- 播放歌曲+歌名 比如：播放歌曲周杰伦晴天
+- 下一首
+- 单曲循环
+- 全部循环
 
-![claudecodeui](https://images-1252557999.file.myqcloud.com/uPic/wYbDc3.png) 
+支持 `Docker` 部署和简单管理界面。 
 
 ## 🤖 软件 
 
-### [mangerlahn-latest](https://github.com/mangerlahn/latest)
+### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
 
-一款免费开源的macOS应用程序，专门设计用于保持您的所有应用程序处于最新状态。它能够检查您的每一个应用程序，确保您始终拥有最新的更新和功能。
+安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
 
-![mac_latest](https://images-1252557999.file.myqcloud.com/uPic/mac_latest.jpg) 
+- [美团买菜版本](https://github.com/qulingyuan/robVeg)
+- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
 
-### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
+### [downkyicore](https://github.com/yaobiao131/downkyicore)
 
-自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
+哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
 
-![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
+![downkyicore](https://images-1252557999.file.myqcloud.com/uPic/downkyicore.jpg) 
 
-### [stretchly](https://github.com/hovancik/stretchly)
+### [Thor](https://github.com/gbammc/Thor)
 
-`Stretchly` 是一个跨平台的 `Electron` 应用程序，它的核心功能就是让你在电脑上面工作时候设定休息&提醒时间：
+通过快捷键快速打开应用：
 
-![stretchly](https://images-1252557999.file.myqcloud.com/uPic/stretchly.jpg) 
+![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
 
 ## 👀 资料 
 
-### [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/index.html)
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-Beej 的 Git 指南教程：
+夯实计算机基础，该怎么学，这个项目给出了答案：
 
-![Beejgit](https://images-1252557999.file.myqcloud.com/uPic/UAP5Fj.png)
+![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
 
-之前推荐过[Beej 的 C 语言超级指南](https://beej.us/guide/bgc/html/split/)，从入门到进阶，基础语法到高级特性：
+### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
-![Beej](https://images-1252557999.file.myqcloud.com/uPic/1XOLrv.png) 
+本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
 
-### [Recommender_System](https://github.com/solidglue/Recommender_System)
+### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
 
-推荐系统入门指南，全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。 
+全面的Webpack教程《深入浅出Webpack》电子书：
 
-### [algorithm-note](https://github.com/Dairongpeng/algorithm-note)
-
-左神算法课笔记记录，作者增加了总结性的内容；可以让人随时查阅，基于`java`。 
+![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
 
 ## 🕸 网站 
 
-### [namebeta](https://namebeta.com/)
+### [photo2poem](https://photo2poem.top/)
 
-输入你想要的域名，各方比价：
+每一张照片，都对应一首诗，很有意思：
 
-![namebeta_web](https://images-1252557999.file.myqcloud.com/uPic/namebeta_web.jpg) 
+![photo2poem](https://images-1252557999.file.myqcloud.com/uPic/photo2poem.jpg) 
 
-### [FOFA](https://fofa.info/)
+### [up-6.com](https://www.up-6.com/)
 
-`FOFA` 是白帽汇推出的一款网络空间搜索引擎,它通过进行网络空间测绘,能够帮助研究人员或者企业迅速进行网络资产匹配,例如进行漏洞影响范围分析、应用分布统计、应用流行度等。
+一个英语学习导航网站：
 
-检索到的内容主要是服务器，数据库，某个网站管理后台，路由器，交换机，公共ip的打印机，网络摄像头，门禁系统，Web服务 ……
+![up-6](https://images-1252557999.file.myqcloud.com/uPic/up-6.jpg) 
 
-![FOFA](https://images-1252557999.file.myqcloud.com/uPic/VmAeT1.png) 
+### [grep.app](https://grep.app/)
 
-### [帮小忙](https://tool.browser.qq.com/)
+从 50 万个开源仓库中搜索你需要的代码片段，搜索速度很快：
 
-腾讯出品的小工具合集，轻松办公，工具助你一臂之力，功能一应俱全、简单好用的线上工具宝：
-
-![bxm](https://images-1252557999.file.myqcloud.com/uPic/bxm.jpg) 
+![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
 
 ## ✍️ 说明
 
