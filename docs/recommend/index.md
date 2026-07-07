@@ -5,88 +5,93 @@
 
 ## 🎯 项目 
 
-### [OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki)
+### [safeline](https://github.com/chaitin/safeline)
 
-`OpenDeepWiki` 是基于[DeepWiki](https://deepwiki.org)项目的开源版本，旨于提供一个强大的知识管理和协作平台:
+一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
 
-![OpenDeepWiki](https://images-1252557999.file.myqcloud.com/uPic/iIA8BQ.png) 
+- 便捷性：采用容器化部署，一条命令即可完成安装，0 成本上手。安全配置开箱即用，无需人工维护，可实现安全躺平式管理。
+- 安全性：首创业内领先的智能语义分析算法，精准检测、低误报、难绕过。语义分析算法无规则，面对未知特征的 0day 攻击不再手足无措。
+- 高性能：无规则引擎，线性安全检测算法，平均请求检测延迟在 1 毫秒级别。并发能力强，单核轻松检测 2000+ TPS，只要硬件足够强，可支撑的流量规模无上限。
+- 高可用：流量处理引擎基于 Nginx 开发，性能与稳定性均可得到保障。内置完善的健康检查机制，服务可用性高达 99.99%。
 
-### [Docker-Proxy](https://github.com/dqzboy/Docker-Proxy)
+![safeline](https://images-1252557999.file.myqcloud.com/uPic/safeline.png) 
 
-自建 `Docker` 镜像加速服务，基于官方 `Docker Registry`  一键部署 `Docker、K8s、Quay、Ghcr、Mcr、Nvcr` 等镜像加速\管理服务。支持免服务器部署到 `ClawCloud\Render\Koyeb`：
+### [taskcafe](https://github.com/JordanKnott/taskcafe)
 
-![Docker-Proxy](https://images-1252557999.file.myqcloud.com/uPic/jaSnDn.png) 
+带看板的开源项目管理工具:
 
-### [xiaomusic](https://github.com/hanxi/xiaomusic)
+- 通过看板界面管理任务（设置截止日期、标签、添加清单）
+- 通过我的任务视图查看所有当前分配的任务
+- 支持个人项目
+- 任务评论和活动
 
-使用小爱/红米音箱播放音乐，音乐使用 `yt-dlp` 下载：
+![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
 
-- 播放歌曲
-- 播放歌曲+歌名 比如：播放歌曲周杰伦晴天
-- 下一首
-- 单曲循环
-- 全部循环
+### [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
 
-支持 `Docker` 部署和简单管理界面。 
+基于 `CloudFlare Pages` 的免费图片托管解决方案，支持 `Telegram Bot` 和 `Cloudflare R2` 等多种存储方式:
+
+![CloudFlare-ImgBed](https://images-1252557999.file.myqcloud.com/uPic/49JpVO.png) 
 
 ## 🤖 软件 
 
-### [DingDongHelper](https://github.com/Skykai521/DingDongHelper)
+### [bruno](https://github.com/usebruno/bruno)
 
-安卓叮咚买菜抢菜插件，作者是个有大爱的人，针对上海疫情，开源了这款抢菜插件，在上海的朋友们，如果你买菜困难，可以用起来，同类型项目：
+用于探索和测试 `API` 的开源 `IDE`（轻量级替代 `Postman/Insomnia`）：
 
-- [美团买菜版本](https://github.com/qulingyuan/robVeg)
-- [叮咚买菜运力监控](https://github.com/jozhn/ddmc.monitor) 
+![bruno](https://images-1252557999.file.myqcloud.com/uPic/bruno.jpg) 
 
-### [downkyicore](https://github.com/yaobiao131/downkyicore)
+### [GodMode](https://github.com/smol-ai/GodMode/)
 
-哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
+`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
 
-![downkyicore](https://images-1252557999.file.myqcloud.com/uPic/downkyicore.jpg) 
+![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
 
-### [Thor](https://github.com/gbammc/Thor)
+### [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
 
-通过快捷键快速打开应用：
+旨在为不受苹果支持的 `Mac` 提供 `macOS Big Sur` 等更新版本的安装和使用，让你的旧 Mac 电脑可以体验最新的 macOS 系统：
 
-![Thor](https://images-1252557999.file.myqcloud.com/uPic/Thor.png) 
+![OpenCore-Legacy-Patcher](https://images-1252557999.file.myqcloud.com/uPic/OpenCore-Legacy-Patcher.jpg) 
 
 ## 👀 资料 
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+### [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book)
 
-夯实计算机基础，该怎么学，这个项目给出了答案：
+`PeiQi` 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，`CTF` 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见。
 
-![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
+![PeiQi-WIKI-Book](https://images-1252557999.file.myqcloud.com/uPic/PeiQi-WIKI-Book.png) 
 
-### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+### [howtheytest](https://github.com/abhivaikar/howtheytest)
 
-本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
+关于软件公司如何测试其软件的公共资源集合：
 
-### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
+![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
 
-全面的Webpack教程《深入浅出Webpack》电子书：
+### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
 
-![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
+《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
+
+![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
 
 ## 🕸 网站 
 
-### [photo2poem](https://photo2poem.top/)
+### [z2h 字帖](https://paper.z2h.cn/)
 
-每一张照片，都对应一首诗，很有意思：
+用正确的方法刻意练习，每个人都能写出一手漂亮的字，自定义字帖字体和内容，可打印导出练字：
 
-![photo2poem](https://images-1252557999.file.myqcloud.com/uPic/photo2poem.jpg) 
+![z2h](https://images-1252557999.file.myqcloud.com/uPic/z2h.jpg) 
 
-### [up-6.com](https://www.up-6.com/)
+### [AnyBT](https://anybt.eth.limo/)
 
-一个英语学习导航网站：
+种子搜索引擎，下载你想要的资源：
 
-![up-6](https://images-1252557999.file.myqcloud.com/uPic/up-6.jpg) 
+![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
 
-### [grep.app](https://grep.app/)
+### [emoji](https://github.com/cbh123/emoji)
 
-从 50 万个开源仓库中搜索你需要的代码片段，搜索速度很快：
+用人工智能制作表情符号，在线地址👉https://emojigen.com/：
 
-![grep_app](https://images-1252557999.file.myqcloud.com/uPic/grep_app.jpg) 
+![emojigen](https://images-1252557999.file.myqcloud.com/uPic/emojigen.jpg) 
 
 ## ✍️ 说明
 
