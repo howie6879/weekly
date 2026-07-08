@@ -5,93 +5,85 @@
 
 ## 🎯 项目 
 
-### [safeline](https://github.com/chaitin/safeline)
+### [pi-hole](https://pi-hole.net/)
 
-一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
+一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
 
-- 便捷性：采用容器化部署，一条命令即可完成安装，0 成本上手。安全配置开箱即用，无需人工维护，可实现安全躺平式管理。
-- 安全性：首创业内领先的智能语义分析算法，精准检测、低误报、难绕过。语义分析算法无规则，面对未知特征的 0day 攻击不再手足无措。
-- 高性能：无规则引擎，线性安全检测算法，平均请求检测延迟在 1 毫秒级别。并发能力强，单核轻松检测 2000+ TPS，只要硬件足够强，可支撑的流量规模无上限。
-- 高可用：流量处理引擎基于 Nginx 开发，性能与稳定性均可得到保障。内置完善的健康检查机制，服务可用性高达 99.99%。
+![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
 
-![safeline](https://images-1252557999.file.myqcloud.com/uPic/safeline.png) 
+### [notion-blog](https://github.com/ijjk/notion-blog)
 
-### [taskcafe](https://github.com/JordanKnott/taskcafe)
+基于 `Notion` 构建静态站点：
 
-带看板的开源项目管理工具:
+![notion-blog](https://images-1252557999.file.myqcloud.com/uPic/notion-blog.jpg) 
 
-- 通过看板界面管理任务（设置截止日期、标签、添加清单）
-- 通过我的任务视图查看所有当前分配的任务
-- 支持个人项目
-- 任务评论和活动
+### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
 
-![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
+一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
 
-### [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
+![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
 
-基于 `CloudFlare Pages` 的免费图片托管解决方案，支持 `Telegram Bot` 和 `Cloudflare R2` 等多种存储方式:
-
-![CloudFlare-ImgBed](https://images-1252557999.file.myqcloud.com/uPic/49JpVO.png) 
+你可以直接[在线体验](https://letsmarkdown.com/)。 
 
 ## 🤖 软件 
 
-### [bruno](https://github.com/usebruno/bruno)
+### [onlook](https://github.com/onlook-dev/onlook)
 
-用于探索和测试 `API` 的开源 `IDE`（轻量级替代 `Postman/Insomnia`）：
+> 设计师专属的 Cursor —— 一款开源、视觉优先的代码编辑器
 
-![bruno](https://images-1252557999.file.myqcloud.com/uPic/bruno.jpg) 
+一个开源的、基于可视化编辑的代码编辑器，专为设计师而优化，旨在通过 AI 与浏览器内 DOM 的直接编辑功能，让用户能够在代码编辑器中进行设计和编码。
 
-### [GodMode](https://github.com/smol-ai/GodMode/)
+使用 AI 在 Next.js + TailwindCSS 中构建网站、原型和设计。通过可视化编辑器直接在浏览器 DOM 中进行编辑。实时用代码进行设计。这是 Bolt.new、Lovable、V0、Replit Agent、Figma Make、Webflow 等产品的开源替代方案。
 
-`AI` 聊天浏览器（跨平台），可快速、完整地访问各种大模型，如 `ChatGPT、Claude2、Bing、Bard、Llama2、HuggingChat` 等当下多个主流 AI 大模型，适用于多种不同的应用场景：
+![onlook](https://images-1252557999.file.myqcloud.com/uPic/b8LfDN.png) 
 
-![GodMode](https://images-1252557999.file.myqcloud.com/uPic/GodMode.png) 
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 
-### [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
 
-旨在为不受苹果支持的 `Mac` 提供 `macOS Big Sur` 等更新版本的安装和使用，让你的旧 Mac 电脑可以体验最新的 macOS 系统：
+![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
 
-![OpenCore-Legacy-Patcher](https://images-1252557999.file.myqcloud.com/uPic/OpenCore-Legacy-Patcher.jpg) 
+### [Offset Explorer](https://www.kafkatool.com/download.html)
+
+个人免费的跨平台 `Kafka` 界面管理工具：
+
+![offset-explorer](https://images-1252557999.file.myqcloud.com/uPic/offset-explorer.jpg) 
 
 ## 👀 资料 
 
-### [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book)
+### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
 
-`PeiQi` 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，`CTF` 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见。
+Go语言实战: 编写可维护Go语言代码建议。 
 
-![PeiQi-WIKI-Book](https://images-1252557999.file.myqcloud.com/uPic/PeiQi-WIKI-Book.png) 
+### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
-### [howtheytest](https://github.com/abhivaikar/howtheytest)
+本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
 
-关于软件公司如何测试其软件的公共资源集合：
+### [aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
 
-![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
+这是一个ai副业赚钱资讯信息的大合集，将在全网搜索并整理ai副业赚钱的相关方法、技术、工具、以及一些可以赚钱的平台和渠道。 期望能在AI时代，打破信息茧房，让大家都能在这个时代利用AI智能化做副业，赚取工作之余的额外收益。
 
-### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
-
-《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
-
-![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
+![aimoneyhunter](https://images-1252557999.file.myqcloud.com/uPic/aimoneyhunter.png) 
 
 ## 🕸 网站 
 
-### [z2h 字帖](https://paper.z2h.cn/)
+### [alleyread](https://alleyread.com/)
 
-用正确的方法刻意练习，每个人都能写出一手漂亮的字，自定义字帖字体和内容，可打印导出练字：
+发现优质 `Newsletter`：
 
-![z2h](https://images-1252557999.file.myqcloud.com/uPic/z2h.jpg) 
+![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
 
-### [AnyBT](https://anybt.eth.limo/)
+### [ai-12348](https://ai.12348.gov.cn/pc/)
 
-种子搜索引擎，下载你想要的资源：
+免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
 
-![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
+![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
 
-### [emoji](https://github.com/cbh123/emoji)
+### [pixian.ai](https://pixian.ai/)
 
-用人工智能制作表情符号，在线地址👉https://emojigen.com/：
+免登录图片背景消除网页，2023-07-21 当前属于测试期间，是免费的：
 
-![emojigen](https://images-1252557999.file.myqcloud.com/uPic/emojigen.jpg) 
+![pixian](https://images-1252557999.file.myqcloud.com/uPic/pixian.jpg) 
 
 ## ✍️ 说明
 
