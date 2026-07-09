@@ -5,85 +5,110 @@
 
 ## 🎯 项目 
 
-### [pi-hole](https://pi-hole.net/)
+### [dub](https://github.com/steven-tey/dub)
 
-一款开源且免费的 `DNS` 服务器，可以不用安装任何软件屏蔽广告等网络内容屏蔽服务，简单易用，如果家里有树莓派那就挺配的：
+开源的短链接服务，可以自定义域名且进行相关指标分析：
 
-![pi-hole](https://images-1252557999.file.myqcloud.com/uPic/pi-hole.png) 
+![dub](https://images-1252557999.file.myqcloud.com/uPic/dub.png)
 
-### [notion-blog](https://github.com/ijjk/notion-blog)
+还有一个同类型的开源产品 [YOURLS](https://github.com/YOURLS/YOURLS)，也很不错，功能也能覆盖上面。 
 
-基于 `Notion` 构建静态站点：
+### [AstrBot](https://github.com/Soulter/AstrBot)
 
-![notion-blog](https://images-1252557999.file.myqcloud.com/uPic/notion-blog.jpg) 
+`AstrBot` 是一个松耦合、异步、支持多消息平台部署、具有易用的插件系统和完善的大语言模型（LLM）接入功能的聊天机器人及开发框架：
 
-### [LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
+![AstrBot](https://images-1252557999.file.myqcloud.com/uPic/htLSql.png) 
 
-一个使用 Rust、WebAssembly 和 Typescript 构建的协作共享Markdown开源编辑器。
+### [ssddanbrown/rss](https://github.com/ssddanbrown/rss)
 
-![LetsMarkdown](https://images-1252557999.file.myqcloud.com/uPic/LetsMarkdown.jpg)
+一个简单的 `Twitter-feed` 风格的 `RSS` 聚合器，使用 `PHP、Laravel、Inertia.js、Tailwind、Vue.js` 编写:
 
-你可以直接[在线体验](https://letsmarkdown.com/)。 
+- 支持RSS和ATOM格式
+- 定期自动获取RSS订阅源
+- 自定义订阅名称和颜色
+- 基于内容的标签进行分类
+- 3种不同的帖子布局模式（卡片、列表、紧凑）
+- 获取页面的开放图像
+- 通过单个纯文本文件管理的订阅源
+- 基于系统的暗/亮主题
+- 帖子标题/描述搜索
+- 开箱即用的Docker镜像
+- 手机屏幕兼容
+- 清理旧的帖子数据
+
+![ssddanbrown_rss](https://images-1252557999.file.myqcloud.com/uPic/ssddanbrown_rss.png) 
 
 ## 🤖 软件 
 
-### [onlook](https://github.com/onlook-dev/onlook)
+### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
 
-> 设计师专属的 Cursor —— 一款开源、视觉优先的代码编辑器
+超方便的微信视频号下载器：
 
-一个开源的、基于可视化编辑的代码编辑器，专为设计师而优化，旨在通过 AI 与浏览器内 DOM 的直接编辑功能，让用户能够在代码编辑器中进行设计和编码。
+- 支持实时捕获视频号的视频地址
+- 捕获后，可进行预览和下载
+- 支持 Win/Mac
 
-使用 AI 在 Next.js + TailwindCSS 中构建网站、原型和设计。通过可视化编辑器直接在浏览器 DOM 中进行编辑。实时用代码进行设计。这是 Bolt.new、Lovable、V0、Replit Agent、Figma Make、Webflow 等产品的开源替代方案。
+![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
 
-![onlook](https://images-1252557999.file.myqcloud.com/uPic/b8LfDN.png) 
+### [Loop](https://github.com/MrKai77/Loop)
 
-### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
+让窗口管理 `MacOS` 变得优雅：
 
-中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
+![Loop](https://images-1252557999.file.myqcloud.com/uPic/Loop.gif)
 
-![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
+安装好如果有权限问题，执行如下命令：
 
-### [Offset Explorer](https://www.kafkatool.com/download.html)
+```shell
+sudo xattr -cr  /Applications/Loop.app
+``` 
 
-个人免费的跨平台 `Kafka` 界面管理工具：
+### [azusa-player-mobile](https://github.com/lovegaoshi/azusa-player-mobile)
 
-![offset-explorer](https://images-1252557999.file.myqcloud.com/uPic/offset-explorer.jpg) 
+一个 `Bilibili` 第三方音频播放器：
+
+![azusa-player-mobile](https://images-1252557999.file.myqcloud.com/uPic/azusa-player-mobile.jpg) 
 
 ## 👀 资料 
 
-### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
+### [china\_area\_mysql](https://github.com/kakuilan/china_area_mysql)
 
-Go语言实战: 编写可维护Go语言代码建议。 
+中国5级行政区域mysql库：
 
-### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+- 爬取国家统计局官网的行政区域数据,包括省市县镇村5个层级
+- 港澳地区的数据只有3级;台湾地区4级
+- 包含大陆地区的邮政编码和经纬度信息 
 
-本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
+### [Al精选工具库](https://t16jzwqrzjx.feishu.cn/wiki/EsvowFAqFiTiYDkJgE0cWquPnWb)
 
-### [aimoneyhunter](https://github.com/bleedline/aimoneyhunter)
+18 个模块 100 个 AI 工具：
 
-这是一个ai副业赚钱资讯信息的大合集，将在全网搜索并整理ai副业赚钱的相关方法、技术、工具、以及一些可以赚钱的平台和渠道。 期望能在AI时代，打破信息茧房，让大家都能在这个时代利用AI智能化做副业，赚取工作之余的额外收益。
+![ai_tools](https://images-1252557999.file.myqcloud.com/uPic/ai_tools.jpg) 
 
-![aimoneyhunter](https://images-1252557999.file.myqcloud.com/uPic/aimoneyhunter.png) 
+### [AI-Agent-In-Action](https://github.com/AIGeniusInstitute/AI-Agent-In-Action)
+
+开源的 `AI Agent` 开发实战书籍：
+
+![AI-Agent-In-Action](https://images-1252557999.file.myqcloud.com/uPic/VkUaD9.png) 
 
 ## 🕸 网站 
 
-### [alleyread](https://alleyread.com/)
+### [kanmaoxian.online](https://kanmaoxian.online)
 
-发现优质 `Newsletter`：
+基于开源项目 [LibreTV](https://github.com/LibreSpark/LibreTV) 开源项目搭建的影视在线网站，大家默默使用就好，网页打开，输入密码：**kanmaoxian**：
 
-![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
+![kanmaoxian](https://images-1252557999.file.myqcloud.com/uPic/YkTBsY.png) 
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+### [couplet](https://ai.binwang.me/couplet/)
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+自动对联网站：
 
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+![couplet](https://images-1252557999.file.myqcloud.com/uPic/couplet.jpg) 
 
-### [pixian.ai](https://pixian.ai/)
+### [webdesk](https://webdesk.pigjs.com/builder/)
 
-免登录图片背景消除网页，2023-07-21 当前属于测试期间，是免费的：
+一键将网站转化为桌面应用程序：
 
-![pixian](https://images-1252557999.file.myqcloud.com/uPic/pixian.jpg) 
+![webdesk](https://images-1252557999.file.myqcloud.com/uPic/webdesk.jpg) 
 
 ## ✍️ 说明
 
