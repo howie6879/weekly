@@ -5,96 +5,101 @@
 
 ## 🎯 项目 
 
-### [WeClone](https://github.com/xming521/WeClone)
+### [web-archive](https://github.com/Ray-D-Song/web-archive)
 
-从聊天记录创造数字分身的一站式解决方案：
+Web Archive 是一个网页归档工具，包含以下几个部分：
 
-- 💫 涵盖打造数字分身的全链路方案，包括聊天数据导出、预处理、模型训练、部署
-- 💬 使用微信聊天记录微调LLM，让大模型有“那味儿”
-- 🎙️ 使用微信语音消息➕0.5B大模型实现高质量声音克隆 👉WeClone-audio
-- 🔗 绑定到微信、QQ、Telegram、企微、飞书机器人，实现自己的数字分身 
+- 浏览器插件：将网页保存为网页快照，并上传到服务端。
+- 服务端： 接收浏览器插件上传的快照，并存储在数据库和存储桶中。
+- web 客户端： 查询快照并展示。
+- 服务端基于 Cloudflare Worker 的全套服务，包含 D1 数据库、R2 存储桶。
 
-### [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+![web-archive](https://images-1252557999.file.myqcloud.com/uPic/eHiOvl.png) 
 
-Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4语言模型的功能。该程序由 GPT-4驱动，将 LLM 的**思想**链接在一起，以自主地实现您设定的任何目标。作为 GPT-4完全自主运行的第一个例子，Auto-GPT 拓展了 AI 的可能性。
+### [docker-windows](https://github.com/dockur/windows)
 
-你只需要告诉 `AutoGPT` 最终目标是什么，他就会自己不断尝试以完成目标：
+`Docker` 启动 `Windows`，特性如下：
 
-- 🌐 利用互联网进行搜索和信息收集
-- 💾 长期和短期记忆管理
-- 🧠 GPT-4实例用于文本生成
-- 🔗 访问流行的网站和平台
-- 🗃️ 使用GPT-3.5进行文件存储和摘要
+- ISO downloader
+- KVM acceleration
+- Web-based viewer 
 
-![Auto-GPT](https://images-1252557999.file.myqcloud.com/uPic/Auto-GPT.jpg) 
+### [DweebUI](https://github.com/lllllllillllllillll/DweebUI)
 
-### [mkcert](https://github.com/FiloSottile/mkcert)
+用于管理容器的免费开源 `WebUI`，颜值不错，但是功能还不大够，值得期待：
 
-`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
-
-![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
+![DweebUI](https://images-1252557999.file.myqcloud.com/uPic/DweebUI.png) 
 
 ## 🤖 软件 
 
-### [DBeaver](https://github.com/dbeaver/dbeaver)
+### [BlogHelper](https://github.com/onblog/BlogHelper)
 
-免费的通用数据库管理工具，SQL客户端，跨平台支持：
+帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
 
-![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png) 
+![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
 
-### [Malware-Patch](https://github.com/the1812/Malware-Patch)
+### [TaskManager](https://github.com/RohitKushvaha01/TaskManager)
 
-阻止中国流氓软件的管理员授权，无需后台运行：
+`TaskManager` 是一个针对 `Android` 设备的开源任务管理应用程序，它受到了 `GNOME` 系统监视器的启发，旨在帮助用户详细了解并控制他们的设备资源。用户可以通过这个应用实时监控 `CPU` 和内存的使用情况，同时管理正在运行的进程。为了充分使用 `TaskManager` 的功能，用户需要安装并配合使用 `Shizuku`，这是一个可以无需 `root` 即可提供更多系统权限的工具。
 
-![Malware-Patch](https://images-1252557999.file.myqcloud.com/uPic/Malware-Patch.png) 
+![TaskManager](https://images-1252557999.file.myqcloud.com/uPic/rx7r6Z.png) 
 
-### [ToastFish](https://github.com/Uahh/ToastFish)
+### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
 
-这是一个利用 `Windows` 通知栏背单词的软件，可以让你在上班、上课等环境下安全地背单词：
+JetBrains 的下一代 IDE：
 
-![ToastFish](https://images-1252557999.file.myqcloud.com/uPic/ToastFish.gif) 
+![fleet](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
 
 ## 👀 资料 
 
-### [云安全攻防入门](https://lzcloudsecurity.gitbook.io/yun-an-quan-gong-fang-ru-men/)
+### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
-关于云安全攻防的基础知识：
+一个在YouTube上发现最新机器学习课程的项目。 
 
-![yun-an-quan-gong-fang-ru-men](https://images-1252557999.file.myqcloud.com/uPic/yun-an-quan-gong-fang-ru-men.jpg) 
+### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
 
-### [comprehensive-rust](https://google.github.io/comprehensive-rust/welcome.html)
+**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
 
-谷歌出品的四天学习 `Rust` 👀
+- JS基础语法
+- 核心模块概述
+- 面向对象
+- DOM
+- 计算机网络
+- 设计模式
+- 等等
 
-![comprehensive-rust](https://images-1252557999.file.myqcloud.com/uPic/comprehensive-rust.jpg) 
+对于前端开发者来说应该是一个非常好的知识库：
 
-### [sql-mother](https://github.com/liyupi/sql-mother)
+![javascript-guidebook](https://images-1252557999.file.myqcloud.com/uPic/vIsnjD.png) 
 
-免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
+### [统计学自学指南](https://xuankaiwang.github.io/)
 
-![sqlmother](https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg)
+这是一本统计的自学指南, 也是作者在数院自学生涯的一个纪念：
 
-在线网站点[这里](http://sqlmother.yupi.icu/#/learn)。 
+![XuankaiWang](https://images-1252557999.file.myqcloud.com/uPic/XuankaiWang.jpg) 
 
 ## 🕸 网站 
 
-### [pika](https://pika.style/)
+### [flow](https://github.com/pacexy/flow)
 
-[pika](https://github.com/rishimohan/pika)是一个开源项目，可以快速将你的截图变得漂亮：
+开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
 
-![pika](https://images-1252557999.file.myqcloud.com/uPic/pika.jpg) 
+![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
 
-### [即时工具](https://www.67tool.com/)
+### [wikipedia-semantic-search](https://wikipedia-semantic-search.vercel.app/)
 
-该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
+对整个维基百科文章进行了向量化，将 1100 万篇维基百科索引成 1.44 亿向量数据，支持包括中文在内的 11 种语言。
 
-![67tool](https://images-1252557999.file.myqcloud.com/uPic/mhrsW0.jpg) 
+- 网站: https://wikipedia-semantic-search.vercel.app
+- 代码: https://github.com/upstash/wikipedia-semantic-search
 
-### [devpedia.pages.dev](https://devpedia.pages.dev/)
+![wikipedia-semantic-search](https://images-1252557999.file.myqcloud.com/uPic/wikipedia-semantic-search.jpg) 
 
-`Dev Encyclopedia` 是一个为开发者提供广泛技术术语、概念和工具解释的在线百科全书：
+### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
 
-![devpedia](https://images-1252557999.file.myqcloud.com/uPic/L7S0qZ.png) 
+一份新冠预防及治疗指南：
+
+![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
 
 ## ✍️ 说明
 
