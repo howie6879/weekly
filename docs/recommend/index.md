@@ -5,101 +5,90 @@
 
 ## 🎯 项目 
 
-### [web-archive](https://github.com/Ray-D-Song/web-archive)
+### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
 
-Web Archive 是一个网页归档工具，包含以下几个部分：
+抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
 
-- 浏览器插件：将网页保存为网页快照，并上传到服务端。
-- 服务端： 接收浏览器插件上传的快照，并存储在数据库和存储桶中。
-- web 客户端： 查询快照并展示。
-- 服务端基于 Cloudflare Worker 的全套服务，包含 D1 数据库、R2 存储桶。
+![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
 
-![web-archive](https://images-1252557999.file.myqcloud.com/uPic/eHiOvl.png) 
+### [sonic](https://github.com/go-sonic/sonic)
 
-### [docker-windows](https://github.com/dockur/windows)
+`Sonic` 是 `Go` 开发的博客平台，简单而强大：
 
-`Docker` 启动 `Windows`，特性如下：
+![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
 
-- ISO downloader
-- KVM acceleration
-- Web-based viewer 
+### [bilive](https://github.com/timerring/bilive)
 
-### [DweebUI](https://github.com/lllllllillllllillll/DweebUI)
+极快的B站直播录制、自动切片、自动渲染弹幕以及字幕并投稿至B站，综合多种大模型，兼容超低配置机器。
 
-用于管理容器的免费开源 `WebUI`，颜值不错，但是功能还不大够，值得期待：
-
-![DweebUI](https://images-1252557999.file.myqcloud.com/uPic/DweebUI.png) 
+![bilive](https://images-1252557999.file.myqcloud.com/uPic/ZIix4n.png) 
 
 ## 🤖 软件 
 
-### [BlogHelper](https://github.com/onblog/BlogHelper)
+### [unclutter](https://github.com/lindylearn/unclutter)
 
-帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
+阅读插件，将网页内容快速转成美观的阅读模式：
 
-![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
+![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
 
-### [TaskManager](https://github.com/RohitKushvaha01/TaskManager)
+### [ab-download-manager](https://github.com/amir1376/ab-download-manager)
 
-`TaskManager` 是一个针对 `Android` 设备的开源任务管理应用程序，它受到了 `GNOME` 系统监视器的启发，旨在帮助用户详细了解并控制他们的设备资源。用户可以通过这个应用实时监控 `CPU` 和内存的使用情况，同时管理正在运行的进程。为了充分使用 `TaskManager` 的功能，用户需要安装并配合使用 `Shizuku`，这是一个可以无需 `root` 即可提供更多系统权限的工具。
+旨在提供比传统下载方式更快下载速度的开源跨平台下载器，界面非常现代化：
 
-![TaskManager](https://images-1252557999.file.myqcloud.com/uPic/rx7r6Z.png) 
+![ab-download-manager](https://images-1252557999.file.myqcloud.com/uPic/ECGYnu.png) 
 
-### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
+### [kobi](https://github.com/niuhuan/kobi)
 
-JetBrains 的下一代 IDE：
+一个简洁大方的跨平台漫画客户端：
 
-![fleet](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
+![0ZQlSW](https://images-1252557999.file.myqcloud.com/uPic/0ZQlSW.png) 
 
 ## 👀 资料 
 
-### [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+### [theByteBook](https://github.com/isno/theByteBook)
 
-一个在YouTube上发现最新机器学习课程的项目。 
+深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
 
-### [javascript-guidebook](https://github.com/tsejx/javascript-guidebook)
+![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
 
-**来自读者@妙才投稿**，JavaScript 前端知识图谱，整理自各大技术社区和权威书籍的前端技术图谱，方向涵盖：
+### [让你受益匪浅的名家写作经验](https://docs.qq.com/aio/DWVRkZ1RUWHRsdU1J?p=4oWLX7hAfFdfdbi4Ir5wqo)
 
-- JS基础语法
-- 核心模块概述
-- 面向对象
-- DOM
-- 计算机网络
-- 设计模式
-- 等等
+各文学大家的写作经验汇总：
 
-对于前端开发者来说应该是一个非常好的知识库：
+![让你受益匪浅的名家写作经验](https://images-1252557999.file.myqcloud.com/uPic/让你受益匪浅的名家写作经验.jpg) 
 
-![javascript-guidebook](https://images-1252557999.file.myqcloud.com/uPic/vIsnjD.png) 
+### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
 
-### [统计学自学指南](https://xuankaiwang.github.io/)
+通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
 
-这是一本统计的自学指南, 也是作者在数院自学生涯的一个纪念：
+- 通过编写测试学习 Go 语言
+- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
+- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
 
-![XuankaiWang](https://images-1252557999.file.myqcloud.com/uPic/XuankaiWang.jpg) 
+![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
 
 ## 🕸 网站 
 
-### [flow](https://github.com/pacexy/flow)
+### [regex.ai](https://regex.ai/)
 
-开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
+`regex.ai` 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：
 
-![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
+![regex_ai](https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg) 
 
-### [wikipedia-semantic-search](https://wikipedia-semantic-search.vercel.app/)
+### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
 
-对整个维基百科文章进行了向量化，将 1100 万篇维基百科索引成 1.44 亿向量数据，支持包括中文在内的 11 种语言。
+作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
 
-- 网站: https://wikipedia-semantic-search.vercel.app
-- 代码: https://github.com/upstash/wikipedia-semantic-search
+![](https://images-1252557999.file.myqcloud.com/uPic/bdd-3d.png)
 
-![wikipedia-semantic-search](https://images-1252557999.file.myqcloud.com/uPic/wikipedia-semantic-search.jpg) 
 
-### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
+感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
 
-一份新冠预防及治疗指南：
+### [antimkd](https://antimkd.com/)
 
-![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
+无套路的软件下载网站：
+
+![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
 
 ## ✍️ 说明
 
