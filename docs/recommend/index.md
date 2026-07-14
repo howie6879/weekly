@@ -5,90 +5,83 @@
 
 ## 🎯 项目 
 
-### [lingva-translate](https://github.com/thedaviddelta/lingva-translate)
+### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
 
-抓取谷歌翻译结果但去除广告追踪，在当前国内谷歌翻译用不了的情况，这个项目是一个绝佳的替代品 [lingva.ml](https://lingva.ml/) ：
+该项目支持将微信聊天记录导出并生成网页浏览。 
 
-![lingva](https://images-1252557999.file.myqcloud.com/uPic/lingva.jpg) 
+### [markwhen](https://github.com/mark-when/markwhen)
 
-### [sonic](https://github.com/go-sonic/sonic)
+`Markwhen` 是一个交互式的文本到时间轴工具，`用户只需要编写类似于Markdown` 的文本，它就会转换成一个漂亮的级联时间轴：
 
-`Sonic` 是 `Go` 开发的博客平台，简单而强大：
+![markwhen](https://images-1252557999.file.myqcloud.com/uPic/markwhen.jpg) 
 
-![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
+### [pensieve](https://github.com/arkohut/pensieve)
 
-### [bilive](https://github.com/timerring/bilive)
+`Pensieve` 是一个专注于隐私的被动记录项目。它可以自动记录屏幕内容，构建智能索引，并提供便捷的 `web` 界面来检索历史记录：
 
-极快的B站直播录制、自动切片、自动渲染弹幕以及字幕并投稿至B站，综合多种大模型，兼容超低配置机器。
-
-![bilive](https://images-1252557999.file.myqcloud.com/uPic/ZIix4n.png) 
+![pensieve](https://images-1252557999.file.myqcloud.com/uPic/SFLqDw.png) 
 
 ## 🤖 软件 
 
-### [unclutter](https://github.com/lindylearn/unclutter)
+### [sunnypages](https://github.com/XMuli/sunnypages)
 
-阅读插件，将网页内容快速转成美观的阅读模式：
+`Sunny` 截图是一款简洁且漂亮的截图的软件工具，支持 `Windows，MacOS，Linux` 平台。亦支持图片翻译和 `OCR`：
 
-![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
+![sunnypages](https://images-1252557999.file.myqcloud.com/uPic/sunnypages.jpg) 
 
-### [ab-download-manager](https://github.com/amir1376/ab-download-manager)
+### [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor)
 
-旨在提供比传统下载方式更快下载速度的开源跨平台下载器，界面非常现代化：
+`Caesium` 是一款图像压缩软件，可帮助您存储、发送和共享数字图片，支持 `JPG、PNG&WebP` 格式：
 
-![ab-download-manager](https://images-1252557999.file.myqcloud.com/uPic/ECGYnu.png) 
+![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.jpg) 
 
-### [kobi](https://github.com/niuhuan/kobi)
+### [bilimiao2](https://github.com/10miaomiao/bilimiao2)
 
-一个简洁大方的跨平台漫画客户端：
+一款安卓上的哔哩哔哩的第三方APP：
 
-![0ZQlSW](https://images-1252557999.file.myqcloud.com/uPic/0ZQlSW.png) 
+![bilimiao2](https://images-1252557999.file.myqcloud.com/uPic/bilimiao2.jpg) 
 
 ## 👀 资料 
 
-### [theByteBook](https://github.com/isno/theByteBook)
+### [sql-mother](https://github.com/liyupi/sql-mother)
 
-深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
+免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
 
-![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
+![sqlmother](https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg)
 
-### [让你受益匪浅的名家写作经验](https://docs.qq.com/aio/DWVRkZ1RUWHRsdU1J?p=4oWLX7hAfFdfdbi4Ir5wqo)
+在线网站点[这里](http://sqlmother.yupi.icu/#/learn)。 
 
-各文学大家的写作经验汇总：
+### [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
 
-![让你受益匪浅的名家写作经验](https://images-1252557999.file.myqcloud.com/uPic/让你受益匪浅的名家写作经验.jpg) 
+本仓库是手册《简单粗暴LaTeX》的开源仓库。本书涵盖了LaTeX的基本使用场景，以简明的例子来展现各命令的用法：
 
-### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
+![Note-by-LaTeX](https://images-1252557999.file.myqcloud.com/uPic/Note-by-LaTeX.jpg)
 
-通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
+在开源仓库可直接下载阅读。 
 
-- 通过编写测试学习 Go 语言
-- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
-- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
+### [WangRongsheng](https://github.com/WangRongsheng/awesome-LLM-resourses)
 
-![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
+一个全面的 LLM 资源汇总，旨在提供数据处理、微调、推理、评估、体验、知识库、智能体、搜索、书籍、课程、教程和论文等方面的工具和文档。 
 
 ## 🕸 网站 
 
-### [regex.ai](https://regex.ai/)
+### [lookscanned.io](https://lookscanned.io/)
 
-`regex.ai` 利用人工智能根据用户输入生成定制的正则表达式，分析提供的文本块和高亮部分，生成最合适的正则表达式：
+[lookscanned.io](https://github.com/rwv/lookscanned.io) 是一个开源网页项目，依托 WebAssembly 等先进技术，无需打印之后再扫描这类繁琐的过程。仅需点击下按钮，分秒之间，你就能得到所需要的扫描件了：
 
-![regex_ai](https://images-1252557999.file.myqcloud.com/uPic/regex_ai.jpg) 
+![lookscanned](https://images-1252557999.file.myqcloud.com/uPic/lookscanned.jpg) 
 
-### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
+### [readecho.cn](https://readecho.cn/)
 
-作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
+只需几步轻松获取并保存微信读书笔记，自定义你的笔记回顾方式，不错过每一个阅读瞬间，[前端代码开源](https://github.com/mundane799699/readecho-web)：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/bdd-3d.png)
+![readecho](https://images-1252557999.file.myqcloud.com/uPic/readecho.jpg) 
 
+### [animatedknots](https://www.animatedknots.com/)
 
-感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
+各种给绳子打结的姿势都可以在这里找到：
 
-### [antimkd](https://antimkd.com/)
-
-无套路的软件下载网站：
-
-![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
+![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
 
 ## ✍️ 说明
 
