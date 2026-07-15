@@ -5,83 +5,99 @@
 
 ## 🎯 项目 
 
-### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
+### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
 
-该项目支持将微信聊天记录导出并生成网页浏览。 
+微信 macOS 客户端撤回拦截与多开工具，主要功能有：
 
-### [markwhen](https://github.com/mark-when/markwhen)
+- 阻止消息撤回
+    - 消息列表通知
+    - 系统通知
+    - 正常撤回自己发出的消息
+- 客户端无限多开
+    - 右键 Dock icon 登录新的微信账号
+    - 命令行执行：`open -n /Applications/WeChat.app`
+- 消息处理增强
+    - 支持任意表情导出
+    - 支持二维码识别
+    - 支持右键直接复制链接
+    - 支持由系统默认浏览器直接打开
+- UI界面设置面板
+- 支持 Alfred workflow
+- 支持 Launchbar action
 
-`Markwhen` 是一个交互式的文本到时间轴工具，`用户只需要编写类似于Markdown` 的文本，它就会转换成一个漂亮的级联时间轴：
+**项目挺好，但是使用过程中需要注意被封号的风险。** 
 
-![markwhen](https://images-1252557999.file.myqcloud.com/uPic/markwhen.jpg) 
+### [vtracer](https://github.com/visioncortex/vtracer)
 
-### [pensieve](https://github.com/arkohut/pensieve)
+可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
 
-`Pensieve` 是一个专注于隐私的被动记录项目。它可以自动记录屏幕内容，构建智能索引，并提供便捷的 `web` 界面来检索历史记录：
+![vtracer](https://images-1252557999.file.myqcloud.com/uPic/y9m1F5.jpg) 
 
-![pensieve](https://images-1252557999.file.myqcloud.com/uPic/SFLqDw.png) 
+### [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt)
+
+🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+
+![feishu-chatgpt](https://images-1252557999.file.myqcloud.com/uPic/feishu-chatgpt.png) 
 
 ## 🤖 软件 
 
-### [sunnypages](https://github.com/XMuli/sunnypages)
+### [bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)
 
-`Sunny` 截图是一款简洁且漂亮的截图的软件工具，支持 `Windows，MacOS，Linux` 平台。亦支持图片翻译和 `OCR`：
+一款基于 `Flutter` 开发的跨平台面端 B 站视频下载器：
 
-![sunnypages](https://images-1252557999.file.myqcloud.com/uPic/sunnypages.jpg) 
+![bilivideo_down](https://images-1252557999.file.myqcloud.com/uPic/bilivideo_down.jpg) 
 
-### [caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor)
+### [weektodo](https://weektodo.me/)
 
-`Caesium` 是一款图像压缩软件，可帮助您存储、发送和共享数字图片，支持 `JPG、PNG&WebP` 格式：
+`WeekToDo` 是一个免费且开源&跨平台的极简周计划软件，您可以以简单直观的方式定义和管理您的周计划和任务，从而提高您的工作效率：
 
-![caesium](https://images-1252557999.file.myqcloud.com/uPic/caesium.jpg) 
+![weektodo](https://images-1252557999.file.myqcloud.com/uPic/weektodo.jpg) 
 
-### [bilimiao2](https://github.com/10miaomiao/bilimiao2)
+### [dockeye](https://github.com/vv9k/dockeye)
 
-一款安卓上的哔哩哔哩的第三方APP：
+基于`Rust`编写的`Docker`界面管理工具：
 
-![bilimiao2](https://images-1252557999.file.myqcloud.com/uPic/bilimiao2.jpg) 
+![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
 
 ## 👀 资料 
 
-### [sql-mother](https://github.com/liyupi/sql-mother)
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-![sqlmother](https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg)
+![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
 
-在线网站点[这里](http://sqlmother.yupi.icu/#/learn)。 
+### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
 
-### [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
+这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
 
-本仓库是手册《简单粗暴LaTeX》的开源仓库。本书涵盖了LaTeX的基本使用场景，以简明的例子来展现各命令的用法：
+![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
 
-![Note-by-LaTeX](https://images-1252557999.file.myqcloud.com/uPic/Note-by-LaTeX.jpg)
+### [one-person-company](https://github.com/cyfyifanchen/one-person-company)
 
-在开源仓库可直接下载阅读。 
+一人公司 AI 工具系列，有些工具是宝，有些工具是坑，本 Repo 致力于帮您踩坑，精准找宝 🤩
 
-### [WangRongsheng](https://github.com/WangRongsheng/awesome-LLM-resourses)
-
-一个全面的 LLM 资源汇总，旨在提供数据处理、微调、推理、评估、体验、知识库、智能体、搜索、书籍、课程、教程和论文等方面的工具和文档。 
+![one-person-company](https://images-1252557999.file.myqcloud.com/uPic/KQ5cOO.png) 
 
 ## 🕸 网站 
 
-### [lookscanned.io](https://lookscanned.io/)
+### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
 
-[lookscanned.io](https://github.com/rwv/lookscanned.io) 是一个开源网页项目，依托 WebAssembly 等先进技术，无需打印之后再扫描这类繁琐的过程。仅需点击下按钮，分秒之间，你就能得到所需要的扫描件了：
+来自阿里体系的各种技术资料，全部免费，个人非常推荐。
 
-![lookscanned](https://images-1252557999.file.myqcloud.com/uPic/lookscanned.jpg) 
+![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
 
-### [readecho.cn](https://readecho.cn/)
+### [pingli.app](https://www.pingli.app/)
 
-只需几步轻松获取并保存微信读书笔记，自定义你的笔记回顾方式，不错过每一个阅读瞬间，[前端代码开源](https://github.com/mundane799699/readecho-web)：
+说出你们的分歧，让7位 `AI` 裁判评评理，挺有意思：
 
-![readecho](https://images-1252557999.file.myqcloud.com/uPic/readecho.jpg) 
+![pingli.app](https://images-1252557999.file.myqcloud.com/uPic/1gX0NC.png) 
 
-### [animatedknots](https://www.animatedknots.com/)
+### [openbookshongkong](https://openbookshongkong.com/book/)
 
-各种给绳子打结的姿势都可以在这里找到：
+开讀计劃由香港中文大学、香港城市大学和香港大学的图书馆与出版社共同发起，是香港首个开放取用图书计划。该计划于 2024 年 7 月 17 日推出了由三家大学出版社出版的九本中文图书，这些图书免费开放给公众，涵盖历史、哲学、宗教、法学、人类学、性别研究等领域。
 
-![animatedknots](https://images-1252557999.file.myqcloud.com/uPic/animatedknots.jpg) 
+![openbookshongkong](https://images-1252557999.file.myqcloud.com/uPic/gM7dMk.png) 
 
 ## ✍️ 说明
 
