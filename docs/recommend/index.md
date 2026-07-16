@@ -5,99 +5,111 @@
 
 ## 🎯 项目 
 
-### [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)
+### [siteproxy](https://github.com/netptop/siteproxy)
 
-微信 macOS 客户端撤回拦截与多开工具，主要功能有：
+`SiteProxy` 是一个功能强大的在线代理工具，采用了最新的技术，提升了代理的稳定性和兼容性。我们致力于提供 简单、高效、安全 的代理服务，为用户提供最佳的互联网访问体验：
 
-- 阻止消息撤回
-    - 消息列表通知
-    - 系统通知
-    - 正常撤回自己发出的消息
-- 客户端无限多开
-    - 右键 Dock icon 登录新的微信账号
-    - 命令行执行：`open -n /Applications/WeChat.app`
-- 消息处理增强
-    - 支持任意表情导出
-    - 支持二维码识别
-    - 支持右键直接复制链接
-    - 支持由系统默认浏览器直接打开
-- UI界面设置面板
-- 支持 Alfred workflow
-- 支持 Launchbar action
+- 超高速性能：采用 Hono 替代传统的Express 服务器，性能提升 4 倍，带来更流畅的使用体验。
+- 云端部署：完美支持 Cloudflare Worker 部署，快速且高效。
+- AI 智能聊天：集成 DuckDuckGo AI Chat，免费提供 GPT-3.5 和 Claude 3，让你的代理服务更加智能。
+- 高级安全保护：支持密码控制代理，只有授权用户才能访问，大幅提升安全性。
+- 零配置使用：用户无需进行任何客户端配置，只需访问代理网址即可畅游全球互联网。
+- 便捷登录：全面支持 GitHub 和 Telegram Web 登录，操作简单快捷。
+- 强力加密：采用 RSA + AES 双重加密技术，保护用户登录密码，防止中间人攻击。
+- 隐私保护：通过代理网址访问全球互联网，同时隐藏用户真实 IP，保护隐私。
+- 无缝体验：无需任何软件安装和浏览器配置，即可立即使用，提供极致便利的用户体验。 
 
-**项目挺好，但是使用过程中需要注意被封号的风险。** 
+### [wallabag](https://github.com/wallabag/wallabag)
 
-### [vtracer](https://github.com/visioncortex/vtracer)
+一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
 
-可快速将 JPG、PNG 等格式的图片快速转换为 SVG 矢量图，并支持过滤斑点、色彩精度、曲线拟合等多种参数配置，支持在线访问[vtracer/](https://www.visioncortex.org/vtracer/)：
+- 浏览器插件收集网页信息
+- 安卓/IOS/网页端阅读以及管理
 
-![vtracer](https://images-1252557999.file.myqcloud.com/uPic/y9m1F5.jpg) 
+![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
 
-### [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt)
+### [pushdeer](https://github.com/easychen/pushdeer)
 
-🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备：
 
-![feishu-chatgpt](https://images-1252557999.file.myqcloud.com/uPic/feishu-chatgpt.png) 
+![pushdeer](https://images-1252557999.file.myqcloud.com/uPic/pushdeer.jpg) 
 
 ## 🤖 软件 
 
-### [bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)
+### [miru-app](https://github.com/miru-project/miru-app)
 
-一款基于 `Flutter` 开发的跨平台面端 B 站视频下载器：
+免费、开源的 支持视频、漫画、小说扩展源的多功能应用，支持 `Android、Windows、Web`：
 
-![bilivideo_down](https://images-1252557999.file.myqcloud.com/uPic/bilivideo_down.jpg) 
+- 支持 windows,android
+- 友好的扩展编写支持、调试日志
+- 扩展使用 JavaScript 语言，开发简单
+- 支持自定义扩展仓库
+- 官方扩展仓库提供视频源，无需编写任何扩展即可使用
+- 支持在线观看多种视频、漫画、小说源，实现多平台的统一
+- 统一系统 UI 的设计语言
+- 自动获取 TMDB 元数据信息
 
-### [weektodo](https://weektodo.me/)
+![657c8025be23f](https://img.fre123.com/i/2023/12/16/657c8025be23f.jpg) 
 
-`WeekToDo` 是一个免费且开源&跨平台的极简周计划软件，您可以以简单直观的方式定义和管理您的周计划和任务，从而提高您的工作效率：
+### [youtube-music](https://github.com/th-ch/youtube-music)
 
-![weektodo](https://images-1252557999.file.myqcloud.com/uPic/weektodo.jpg) 
+一个 `YouTube Music` 桌面应用程序，提供类似原生界面的 `YouTube Music` 体验，基于 Electron 构建。
 
-### [dockeye](https://github.com/vv9k/dockeye)
+该应用集成了多种插件，包括广告屏蔽器、下载器以及其他增强功能。
 
-基于`Rust`编写的`Docker`界面管理工具：
+- 广告拦截和下载：内置广告拦截器，阻止所有广告和跟踪；支持下载音乐（如 MP3、Opus 格式）。
+- 自定义插件：提供 31 个插件，例如 Discord 富存在、音频压缩、专辑颜色主题等，用户可一键启用或禁用。
+- 跨平台支持：可在 Windows（提供安装版和便携版）、macOS 和 Linux（提供 AppImage、deb 等）上运行。
 
-![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
+![youtube-music](https://images-1252557999.file.myqcloud.com/uPic/Zzzdlh.png) 
+
+### [TaskManager](https://github.com/RohitKushvaha01/TaskManager)
+
+`TaskManager` 是一个针对 `Android` 设备的开源任务管理应用程序，它受到了 `GNOME` 系统监视器的启发，旨在帮助用户详细了解并控制他们的设备资源。用户可以通过这个应用实时监控 `CPU` 和内存的使用情况，同时管理正在运行的进程。为了充分使用 `TaskManager` 的功能，用户需要安装并配合使用 `Shizuku`，这是一个可以无需 `root` 即可提供更多系统权限的工具。
+
+![TaskManager](https://images-1252557999.file.myqcloud.com/uPic/rx7r6Z.png) 
 
 ## 👀 资料 
 
-### [miaosha](https://github.com/qiurunze123/miaosha)
+### [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 
-高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
+一个精选列表，包含了用于增强 Claude Code 工作流程、生产力和氛围的各种命令、文件和工具：
 
-![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
+![awesome-claude-code](https://images-1252557999.file.myqcloud.com/uPic/HMpvvc.png) 
 
-### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
+### [事实核查手册](https://chinafactcheck.com/?p=11465)
 
-这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
+虚假信息泛滥已成世界性难题，简体中文内容市场亦难置身事外。作为应对手段之一，事实核查在中国开始萌芽。
 
-![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
+本手册以案例的形式介绍了常用的文字、图片和视频核查工具，也涉及事实核查的工作流程、信源评估，并译介了国际事实核查机构惯用的职业准则与实践，希望能为中国的事实核查业者和观察者提供一定的参考。
 
-### [one-person-company](https://github.com/cyfyifanchen/one-person-company)
+![事实核查手册](https://images-1252557999.file.myqcloud.com/uPic/事实核查手册.jpg) 
 
-一人公司 AI 工具系列，有些工具是宝，有些工具是坑，本 Repo 致力于帮您踩坑，精准找宝 🤩
+### [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
 
-![one-person-company](https://images-1252557999.file.myqcloud.com/uPic/KQ5cOO.png) 
+精益副业：程序员如何优雅地做副业:
+
+![lean-side-bussiness](https://images-1252557999.file.myqcloud.com/uPic/lean-side-bussiness.jpg) 
 
 ## 🕸 网站 
 
-### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
+### [readecho.cn](https://readecho.cn/)
 
-来自阿里体系的各种技术资料，全部免费，个人非常推荐。
+只需几步轻松获取并保存微信读书笔记，自定义你的笔记回顾方式，不错过每一个阅读瞬间，[前端代码开源](https://github.com/mundane799699/readecho-web)：
 
-![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
+![readecho](https://images-1252557999.file.myqcloud.com/uPic/readecho.jpg) 
 
-### [pingli.app](https://www.pingli.app/)
+### [jsont.run](https://www.jsont.run/)
 
-说出你们的分歧，让7位 `AI` 裁判评评理，挺有意思：
+一个简洁的在线 `JSON` 解析器：
 
-![pingli.app](https://images-1252557999.file.myqcloud.com/uPic/1gX0NC.png) 
+![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
 
-### [openbookshongkong](https://openbookshongkong.com/book/)
+### [svgsilh](https://svgsilh.com/)
 
-开讀计劃由香港中文大学、香港城市大学和香港大学的图书馆与出版社共同发起，是香港首个开放取用图书计划。该计划于 2024 年 7 月 17 日推出了由三家大学出版社出版的九本中文图书，这些图书免费开放给公众，涵盖历史、哲学、宗教、法学、人类学、性别研究等领域。
+免费可商用的`SVG`素材网站：
 
-![openbookshongkong](https://images-1252557999.file.myqcloud.com/uPic/gM7dMk.png) 
+![svgsilh](https://images-1252557999.file.myqcloud.com/uPic/svgsilh.jpg) 
 
 ## ✍️ 说明
 
