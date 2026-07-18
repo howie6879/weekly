@@ -5,93 +5,93 @@
 
 ## 🎯 项目 
 
-### [mesop](https://github.com/google/mesop)
+### [OnnxOCR](https://github.com/jingsongliujing/OnnxOCR)
 
-Mesop 是一个基于 Python 的 UI 框架，用于快速构建如演示和内部应用的 Web 应用程序。它提供直观的 UI 编写，支持响应式 UI 编程范式，具有热重载功能和丰富的 IDE 支持。开发者可以通过简洁的 Python 代码构建自定义 UI，无需编写 JavaScript/CSS/HTML。
+基于 `PaddleOCR` 重构，并且脱离PaddlePaddle深度学习训练框架的轻量级 `OCR`，推理速度超快。 
 
-![mesop](https://images-1252557999.file.myqcloud.com/uPic/mesop.jpg)
-类似的 Web&桌面软件框架：
+### [agibot_x1_infer](https://github.com/AgibotTech/agibot_x1_infer)
 
-- https://github.com/zauberzeug/nicegui
-- https://github.com/pywebio/PyWebIO
-- https://github.com/flet-dev/flet
-- https://github.com/streamlit/streamlit
-- https://github.com/python-eel/Eel
-- https://github.com/kivy/kivy
-- https://github.com/PySimpleGUI/PySimpleGUI
-- https://github.com/r0x0r/pywebview
-- https://github.com/hoffstadt/DearPyGui
-- https://github.com/Textualize/textual 
+稚晖君开源的智元家灵犀X1，智元人形机器人，全套资料全球开源，包括设计图纸和代码：
 
-### [weiboSpider](https://github.com/dataabc/weiboSpider)
+- **开发指南链接**: [开发指南](https://www.zhiyuan-robot.com/DOCS/OS/X1-PDG)
+- **设计资料百度云盘** (提取码：1234): [百度云盘链接](https://pan.baidu.com/s/1UEdeDBTJiXRmIqMKwmO5RA?pwd=1234)
+- **设计资料谷歌云盘**: [谷歌云盘链接](https://drive.google.com/drive/folders/1MECbyKRJbnc_XKWsdUbn-70xmYFmw9FW?usp=sharing)
+- **推理代码**: [推理代码链接](https://github.com/AgibotTech/agibot_x1_infer)
+- **训练代码**: [训练代码链接](https://github.com/AgibotTech/agibot_x1_train)
 
-新浪微博爬虫，用python爬取新浪微博数据，基本上用户关注的信息都能爬取，项目持续维护中。 
+![agibot_x1_infer](https://images-1252557999.file.myqcloud.com/uPic/QchElr.png) 
 
-### [Scrapegraph](https://github.com/VinciGit00/Scrapegraph-ai)
+### [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
 
-基于 `LLM` 大模型的 `Python` 爬虫框架：
+最近在开发一款微信小程序，第一次上手，发现还是很有意思的。这个项目收集了小程序开发的方方面面，如：工具、插件、组件、Demo等。
 
-![scrapegraph](https://images-1252557999.file.myqcloud.com/uPic/scrapegraph.jpg) 
+基本上只要找一个开源的小程序，找一个示例跟着写，哪怕你没基础，也能很快开发一款自己的小程序出来，推荐。 
 
 ## 🤖 软件 
 
-### [KikoPlay](https://github.com/KikoPlayProject/KikoPlay)
+### [Yank Note](https://github.com/purocean/yn)
 
-`KikoPlay` 是一个全功能的弹幕播放器，支持流畅的 `OpenGL` 渲染和多种播放模式，它拥有强大的树形播放列表功能，支持 `WebDAV` 合集的添加和管理，能够搜索和下载弹幕，并具备灵活的弹幕屏蔽规则和管理功能。此外，`KikoPlay` 还集成了每日放送、资源搜索、`aria2` 下载等功能，并支持通过扩展 `App` 添加更多自定义功能。
+一款面向程序员的 `Markdown` 笔记应用，全平台支持：
 
-![KikoPlay](https://images-1252557999.file.myqcloud.com/uPic/VGvv1v.png) 
+- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
+- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
+- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
+- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
+- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
 
-### [PicGo](https://github.com/Molunerfinn/PicGo)
+![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
 
-一个用于快速上传图片并获取图片 `URL` 链接的工具，和之前推荐的 [uPic](https://github.com/gee1k/uPic) 类似，但这个是跨平台的且有自己的插件体系：
+### [paperlib](https://github.com/GeoffreyChen777/paperlib)
 
-![PicGo](https://images-1252557999.file.myqcloud.com/uPic/PicGo.jpg)
+面向计算机科学的简单开源学术论文管理工具：
 
-如果想在终端环境进行图片上传，可以参考：[upgit](https://github.com/pluveto/upgit)。 
+![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
 
-### [pilipala](https://github.com/guozhigq/pilipala)
+### [AIaW](https://github.com/NitroRCr/AIaW)
 
-使用 `Flutter` 开发的 `BiliBili` 第三方客户端，专为提高用户在观看BiliBili视频时的体验而设计：
+`AI as Workspace` - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步：
 
-![pilipala](https://images-1252557999.file.myqcloud.com/uPic/pilipala.jpg) 
+![AIaW](https://images-1252557999.file.myqcloud.com/uPic/n5l83s.png) 
 
 ## 👀 资料 
 
-### [lc3-vm](https://www.jmeiners.com/lc3-vm/)
+### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
-教程主要介绍了如何编写自己的虚拟机（VM），以运行 LC-3 架构的汇编语言程序，旨在帮助程序员更深入地理解计算机内部运作和编程语言的工作原理：
+微软开源的一份全面的数据科学课程，20个课时，历时10周：
 
-![lc3-vm](https://images-1252557999.file.myqcloud.com/uPic/rtzTGT.png) 
+![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
 
-### [llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
+### [GoGuide](https://github.com/coderit666/GoGuide)
 
-面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版，本项目是一个面向开发者的大模型手册，针对国内开发者的实际需求，主打 LLM 全方位入门实践。本项目基于吴恩达老师大模型系列课程内容，对原课程内容进行筛选、翻译、复现和调优，覆盖从 Prompt Engineering 到 RAG 开发、模型微调的全部流程，用最适合国内学习者的方式，指导国内开发者如何学习、入门 LLM 相关项目:
+`Go Guide` 致力于打造最易懂的 `Go` 语言教程：
 
-![llm-cookbook](https://images-1252557999.file.myqcloud.com/uPic/DZKjkW.png) 
+![GoGuide](https://images-1252557999.file.myqcloud.com/uPic/GoGuide.png) 
 
-### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
+### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
 
-对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
+吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
+
+![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
 
 ## 🕸 网站 
 
-### [devhints](https://devhints.io/)
+### [hotkeycheatsheet](https://hotkeycheatsheet.com/zh)
 
-一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
+常用软件的快捷键备忘录：
 
-![devhints](https://images-1252557999.file.myqcloud.com/uPic/Wl8r0C.png) 
+![hotkeycheatsheet](https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg) 
 
-### [namebeta](https://namebeta.com/)
+### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
 
-输入你想要的域名，各方比价：
+一个搜索 git 常用 emoji 的网站:
 
-![namebeta_web](https://images-1252557999.file.myqcloud.com/uPic/namebeta_web.jpg) 
+![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
 
-### [db-fiddle](https://www.db-fiddle.com/)
+### [favicon.io](https://favicon.io/)
 
-免费在线SQL数据库，针对机器上没有相关环境但是要学习测试的情况，此网站支持：MySQL、PostgreSQL、SQLite。
+免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
 
-![db-fiddle](https://images-1252557999.file.myqcloud.com/uPic/db-fiddle.jpg) 
+![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
 
 ## ✍️ 说明
 
