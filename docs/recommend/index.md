@@ -5,81 +5,77 @@
 
 ## 🎯 项目 
 
-### [OnnxOCR](https://github.com/jingsongliujing/OnnxOCR)
+### [ChatGPT-On-CS](https://github.com/lrhh123/ChatGPT-On-CS)
 
-基于 `PaddleOCR` 重构，并且脱离PaddlePaddle深度学习训练框架的轻量级 `OCR`，推理速度超快。 
+基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用：
 
-### [agibot_x1_infer](https://github.com/AgibotTech/agibot_x1_infer)
+![ChatGPT-On-CS](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-On-CS.jpg) 
 
-稚晖君开源的智元家灵犀X1，智元人形机器人，全套资料全球开源，包括设计图纸和代码：
+### [magentic-ui](https://github.com/microsoft/magentic-ui "magentic-ui")
 
-- **开发指南链接**: [开发指南](https://www.zhiyuan-robot.com/DOCS/OS/X1-PDG)
-- **设计资料百度云盘** (提取码：1234): [百度云盘链接](https://pan.baidu.com/s/1UEdeDBTJiXRmIqMKwmO5RA?pwd=1234)
-- **设计资料谷歌云盘**: [谷歌云盘链接](https://drive.google.com/drive/folders/1MECbyKRJbnc_XKWsdUbn-70xmYFmw9FW?usp=sharing)
-- **推理代码**: [推理代码链接](https://github.com/AgibotTech/agibot_x1_infer)
-- **训练代码**: [训练代码链接](https://github.com/AgibotTech/agibot_x1_train)
+`Magentic-UI` 是一个实验性的、人工为中心的网页代理（`web agent`），旨在通过多智能体系协助用户执行网页任务，生成和执行代码，以及生成和分析文件，微软出品：
 
-![agibot_x1_infer](https://images-1252557999.file.myqcloud.com/uPic/QchElr.png) 
+![magentic-ui](https://images-1252557999.file.myqcloud.com/uPic/qhpo91.png) 
 
-### [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
+### [stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
 
-最近在开发一款微信小程序，第一次上手，发现还是很有意思的。这个项目收集了小程序开发的方方面面，如：工具、插件、组件、Demo等。
+基于 `Docker` 的一站式 `Stable Diffusion`（最近很火的 AI 文字生成图片的模型）安装包，可提供以下多个 `UI` 可选：
 
-基本上只要找一个开源的小程序，找一个示例跟着写，哪怕你没基础，也能很快开发一款自己的小程序出来，推荐。 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
+- [sygil-webui](https://github.com/Sygil-Dev/sygil-webui)
+
+![sd_ui_docker](https://images-1252557999.file.myqcloud.com/uPic/sd_ui_docker.jpg) 
 
 ## 🤖 软件 
 
-### [Yank Note](https://github.com/purocean/yn)
+### [antares](https://github.com/Fabio286/antares)
 
-一款面向程序员的 `Markdown` 笔记应用，全平台支持：
+Antares是一个基于Electron.js和Vue.js的SQL客户端，其旨在成为一个有用的、现代化且美观的工具。
 
-- **使用方便**：使用 Monaco 内核，专为 Markdown 优化，拥有和 VSCode 一样的编辑体验。
-- **功能强大**：支持历史版本回溯；可在文档中嵌入小工具、可运行的代码块、表格、PlantUML 图形、Drawio 图形、宏替换等；支持接入  [OpenAI](https://openai.com/)  自动补全。
-- **兼容性强**：数据保存为本地 Markdown 文件；拓展功能尽量用 Markdown 原有的语法实现。
-- **插件拓展**：支持用户编写自己的插件来拓展编辑器的功能。
-- **支持加密**：用来保存账号等隐私文件，文件可单独设置密码。
+![](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-02-19_15-24-00.jpg) 
 
-![yn](https://images-1252557999.file.myqcloud.com/uPic/yn.png) 
+### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
 
-### [paperlib](https://github.com/GeoffreyChen777/paperlib)
+类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
 
-面向计算机科学的简单开源学术论文管理工具：
+![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
 
-![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
+### [legado](https://github.com/gedoor/legado)
 
-### [AIaW](https://github.com/NitroRCr/AIaW)
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-`AI as Workspace` - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步：
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
 
-![AIaW](https://images-1252557999.file.myqcloud.com/uPic/n5l83s.png) 
+![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
 
 ## 👀 资料 
 
-### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
 
-微软开源的一份全面的数据科学课程，20个课时，历时10周：
+这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
 
-![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
+![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
 
-### [GoGuide](https://github.com/coderit666/GoGuide)
+### [reversing](https://0xinfection.github.io/reversing/)
 
-`Go Guide` 致力于打造最易懂的 `Go` 语言教程：
+免费电子书，面向所有人的逆向工程：
 
-![GoGuide](https://images-1252557999.file.myqcloud.com/uPic/GoGuide.png) 
+![reversing](https://images-1252557999.file.myqcloud.com/uPic/reversing.jpg) 
 
-### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
+### [现代 JavaScript 教程](https://zh.javascript.info/)
 
-吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
+以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识：
 
-![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
+![javascript_info](https://images-1252557999.file.myqcloud.com/uPic/javascript_info.jpg) 
 
 ## 🕸 网站 
 
-### [hotkeycheatsheet](https://hotkeycheatsheet.com/zh)
+### [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/)
 
-常用软件的快捷键备忘录：
+PDF Squeezer 是一款 PDF 压缩工具：
 
-![hotkeycheatsheet](https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg) 
+![PDFSqueezer](https://images-1252557999.file.myqcloud.com/uPic/PDF%20Squeezer.jpg) 
 
 ### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
 
@@ -87,11 +83,11 @@
 
 ![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
 
-### [favicon.io](https://favicon.io/)
+### [quark.so](https://www.quark.so/)
 
-免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+这是一个资源全面，界面简洁无广告的夸克网盘搜索引擎：
 
-![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
+![quarkso](https://images-1252557999.file.myqcloud.com/uPic/quarkso.jpg) 
 
 ## ✍️ 说明
 
