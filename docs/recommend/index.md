@@ -5,88 +5,110 @@
 
 ## 🎯 项目 
 
-### [BookStack](https://github.com/BookStackApp/BookStack)
+### [mesop](https://github.com/google/mesop)
 
-一个开源的`documentation/wik`文档管理平台，其核心特性如下：
+Mesop 是一个基于 Python 的 UI 框架，用于快速构建如演示和内部应用的 Web 应用程序。它提供直观的 UI 编写，支持响应式 UI 编程范式，具有热重载功能和丰富的 IDE 支持。开发者可以通过简洁的 Python 代码构建自定义 UI，无需编写 JavaScript/CSS/HTML。
 
-- 免费开源可自建
-- 简单易用的交互界面
-- 全文检索以及文档互联
-- 可配置
-- 强大的编辑功能，MD支持
-- 等
+![mesop](https://images-1252557999.file.myqcloud.com/uPic/mesop.jpg)
+类似的 Web&桌面软件框架：
 
-![BookStack](https://images-1252557999.file.myqcloud.com/uPic/vdoSqZ.jpg)
+- https://github.com/zauberzeug/nicegui
+- https://github.com/pywebio/PyWebIO
+- https://github.com/flet-dev/flet
+- https://github.com/streamlit/streamlit
+- https://github.com/python-eel/Eel
+- https://github.com/kivy/kivy
+- https://github.com/PySimpleGUI/PySimpleGUI
+- https://github.com/r0x0r/pywebview
+- https://github.com/hoffstadt/DearPyGui
+- https://github.com/Textualize/textual 
 
-有兴趣的话，可以利用[docker-bookstack](https://github.com/solidnerd/docker-bookstack)项目进行快速试用。 
+### [cloudbak](https://github.com/likeflyme/cloudbak)
 
-### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
+云朵备份是一个微信云备份程序【仅支持 windows】，使用云朵备份可以将微信数据备份到服务器，通过浏览器访问数据，你可以像正常使用微信一样浏览数据和搜索数据（参考微信网页版）。
 
-Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
+![cloudbak](https://images-1252557999.file.myqcloud.com/uPic/k1QNE0.png) 
 
-### [reader-s](https://github.com/hectorqin/reader)
+### [dashy](https://github.com/Lissy93/dashy)
 
-阅读3服务器版，不需要手机，可以体验下在web上追更你的小说：
+可自我托管的个人自定义导航页：括状态检查，小部件，主题，图标包，UI编辑器等等：
 
-![reader-s](https://images-1252557999.file.myqcloud.com/uPic/reader-s.jpg) 
+![dashy](https://images-1252557999.file.myqcloud.com/uPic/dashy.jpg) 
 
 ## 🤖 软件 
 
-### [novel-disguise](https://github.com/NiaoBlush/novel-disguise)
+### [kobi](https://github.com/niuhuan/kobi)
 
-将小说页面伪装成一个 `Word` 文档或 `Excel` 表格，神奇的脑回路，应该是为摸鱼而生的项目，好像还支持了 v 站：
+一个简洁大方的跨平台漫画客户端：
 
-![novel-disguise](https://images-1252557999.file.myqcloud.com/uPic/bPV6Qm.png) 
+![0ZQlSW](https://images-1252557999.file.myqcloud.com/uPic/0ZQlSW.png) 
 
-### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
+### [ptg](https://github.com/crossoverJie/ptg)
 
-自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
+让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
 
-![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
+![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
 
-### [ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI)
+### [Refined GitHub](https://github.com/refined-github/refined-github)
 
-基于 Electron + Vue + ffmpeg 的 GUI：
+一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
 
-![ffmpegGUI](https://images-1252557999.file.myqcloud.com/uPic/ffmpegGUI.jpeg) 
+那么`Refined GitHub`主要做了哪些工作呢，如下：
+
+- 浏览代码时候使空格可见
+- 添加一键式合并冲突修复程序
+- 添加表情评论头像
+- 在合并PR时，添加等待检查的选项
+- ...
+
+![](https://images-1252557999.file.myqcloud.com/uPic/lI0jFl.png) 
 
 ## 👀 资料 
 
-### [free-for-dev](https://github.com/ripienaar/free-for-dev)
+### [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)
 
-对于开发人员来说，并不清楚现有软件生态在 `SaaS、PaaS、IaaS` 提供了许多免费服务，这个项目给了一份列表让开发人员使用：
+一本由 GPT4 生成的中英词典，涵盖 8000 高频词汇：
 
-![free-for.dev](https://images-1252557999.file.myqcloud.com/uPic/free-for.dev.jpg) 
+![DictionaryByGPT4](https://images-1252557999.file.myqcloud.com/uPic/DictionaryByGPT4.png) 
 
-### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
+### [数据科学学习指南](https://github.com/amitness/learning)
 
-golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
+数据科学学习指南，帮你每天提升1%的数据科学技能。主要包含电子表格与数据库的数据处理、命令行工具使用、数据分析与可视化技巧、论文阅读方法，各类模型与算法讲解等知识，另外还有商业思维培养、写作与沟通技巧等非技术类内容。
 
-### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+![data-learning](https://images-1252557999.file.myqcloud.com/uPic/tlkHzW.png) 
 
-GitHub开源项目维护协作指南：
+### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
-![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
+微软开源的一份全面的数据科学课程，20个课时，历时10周：
+
+![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
 
 ## 🕸 网站 
 
-### [红白机游戏盒](https://nes.heheda.top/ "红白机游戏盒")
+### [apk.bot](https://apk.bot/)
 
-在线畅玩经典小游戏：
+免费无广告的 `APK` 下载网站：
 
-![heheda](https://images-1252557999.file.myqcloud.com/uPic/heheda.jpg) 
+![apk_bot](https://images-1252557999.file.myqcloud.com/uPic/apk_bot.jpg) 
 
-### [linegraphmaker](https://linegraphmaker.co/)
+### [帮小忙](https://tool.browser.qq.com/)
 
-在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
+腾讯出品的小工具合集，轻松办公，工具助你一臂之力，功能一应俱全、简单好用的线上工具宝：
 
-![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
+![bxm](https://images-1252557999.file.myqcloud.com/uPic/bxm.jpg) 
 
-### [firefly](https://firefly.adobe.com/)
+### [文学网](https://www.hwxnet.com/)
 
-`Adobe` 推出了的 `AI` 图像创建器 **Firefly**：
+文学相关工具在线网站：
 
-![firefly](https://images-1252557999.file.myqcloud.com/uPic/firefly.jpg) 
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
+
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
 ## ✍️ 说明
 
