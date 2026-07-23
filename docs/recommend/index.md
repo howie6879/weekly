@@ -5,110 +5,101 @@
 
 ## 🎯 项目 
 
-### [mesop](https://github.com/google/mesop)
+### [Sink](https://github.com/ccbikai/Sink)
 
-Mesop 是一个基于 Python 的 UI 框架，用于快速构建如演示和内部应用的 Web 应用程序。它提供直观的 UI 编写，支持响应式 UI 编程范式，具有热重载功能和丰富的 IDE 支持。开发者可以通过简洁的 Python 代码构建自定义 UI，无需编写 JavaScript/CSS/HTML。
+在 `Cloudflare` 上运行的简单、快速、安全的短链项目，还带有分析统计功能：
 
-![mesop](https://images-1252557999.file.myqcloud.com/uPic/mesop.jpg)
-类似的 Web&桌面软件框架：
+![Sink](https://images-1252557999.file.myqcloud.com/uPic/aJnlZg.png) 
 
-- https://github.com/zauberzeug/nicegui
-- https://github.com/pywebio/PyWebIO
-- https://github.com/flet-dev/flet
-- https://github.com/streamlit/streamlit
-- https://github.com/python-eel/Eel
-- https://github.com/kivy/kivy
-- https://github.com/PySimpleGUI/PySimpleGUI
-- https://github.com/r0x0r/pywebview
-- https://github.com/hoffstadt/DearPyGui
-- https://github.com/Textualize/textual 
+### [gitrec](https://github.com/gorse-io/gitrec)
 
-### [cloudbak](https://github.com/likeflyme/cloudbak)
+作者自己维护的Gorse推荐系统，开发了一款 Chrome 插件：
 
-云朵备份是一个微信云备份程序【仅支持 windows】，使用云朵备份可以将微信数据备份到服务器，通过浏览器访问数据，你可以像正常使用微信一样浏览数据和搜索数据（参考微信网页版）。
+- 推荐每个热门项目的相似或者相关仓库；
+- 用 [Gorse](https://github.com/gorse-io/gorse) 生成的个性化推荐仓库替换 GitHub 官方的推荐结果。
 
-![cloudbak](https://images-1252557999.file.myqcloud.com/uPic/k1QNE0.png) 
+目前支持 Chrome 和 Edge 两款浏览器：
 
-### [dashy](https://github.com/Lissy93/dashy)
+![gorse](https://images-1252557999.file.myqcloud.com/uPic/gorse.png) 
 
-可自我托管的个人自定义导航页：括状态检查，小部件，主题，图标包，UI编辑器等等：
+### [appsmith](https://github.com/appsmithorg/appsmith)
 
-![dashy](https://images-1252557999.file.myqcloud.com/uPic/dashy.jpg) 
+低代码项目，用于构建任何自定义业务软件，如管理面板、内部工具和仪表板。使用35+个预构建的UI小部件连接到任何数据库、GraphQL或RESTAPI。
+
+![as-widgets](https://images-1252557999.file.myqcloud.com/uPic/as-widgets.gif) 
 
 ## 🤖 软件 
 
-### [kobi](https://github.com/niuhuan/kobi)
+### [macGPT](https://github.com/hellokuls/macGPT)
 
-一个简洁大方的跨平台漫画客户端：
+一款 `ChatGPT for Mac` 原生客户端：
 
-![0ZQlSW](https://images-1252557999.file.myqcloud.com/uPic/0ZQlSW.png) 
+![macGPT](https://images-1252557999.file.myqcloud.com/uPic/macGPT.png) 
 
-### [ptg](https://github.com/crossoverJie/ptg)
+### [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop)
 
-让你在测试 `gRPC` 时拥有 `postman` 一样的使用体验：
+基于 `tauri + vue3` 开发的跨平台桌面端应用，当今社会，智能化、便捷化已经成为趋势。选择 ChatGPT-Desktop，您将享受到以下优势：
 
-![ptg](https://images-1252557999.file.myqcloud.com/uPic/ptg.gif) 
+- 我们使用 tauri 构建项目，使项目包更加小巧精简，资源占用更少，同时适配多个平台。
+- 提供了配置代理的功能，您可以通过设置代理来实现更加灵活的网络访问。
+- 可以选择让 app 常驻后台，快捷键(支持自定义)一键唤醒，节省时间，提高效率。
+- 支持多 session 对话，利用 GPT-3.5-turbo 的最新特性，配合记忆模式，随时继续上一次对话。
+- 更便捷的管理和调试 prompt，构建你自己的角色预设库，使得对话更加个性化。
+- 内置丰富的导出功能，更加便利的分享结果！
+- 软件支持自动更新和手动检查更新的功能，以便大家更方便地更新软件。
+- 将所有对话存储到本地，方便随时查阅，留在身边最安心。
 
-### [Refined GitHub](https://github.com/refined-github/refined-github)
+![ChatGPT-Desktop](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Desktop.png) 
 
-一个浏览器扩展并专注于简化GitHub界面并添加有用功能，所有主流浏览器都做了支持。
+### [hetty](https://github.com/dstotijn/hetty)
 
-那么`Refined GitHub`主要做了哪些工作呢，如下：
+`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
 
-- 浏览代码时候使空格可见
-- 添加一键式合并冲突修复程序
-- 添加表情评论头像
-- 在合并PR时，添加等待检查的选项
-- ...
-
-![](https://images-1252557999.file.myqcloud.com/uPic/lI0jFl.png) 
+![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
 
 ## 👀 资料 
 
-### [DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)
+### [Ahrefs Blog SEO 文章列表](https://xuxuyu.notion.site/1468d1c9ea65473b934917d8ab25979b?v=dcaec075d4b34a8e8af5be0bc9a259a0)
 
-一本由 GPT4 生成的中英词典，涵盖 8000 高频词汇：
+对 `SEO` 有兴趣可以看看：
 
-![DictionaryByGPT4](https://images-1252557999.file.myqcloud.com/uPic/DictionaryByGPT4.png) 
+![Ahrefs](https://images-1252557999.file.myqcloud.com/uPic/Ahrefs.jpg) 
 
-### [数据科学学习指南](https://github.com/amitness/learning)
+### [C++服务器开发精髓](https://cppguide.cn/pages/92255f/)
 
-数据科学学习指南，帮你每天提升1%的数据科学技能。主要包含电子表格与数据库的数据处理、命令行工具使用、数据分析与可视化技巧、论文阅读方法，各类模型与算法讲解等知识，另外还有商业思维培养、写作与沟通技巧等非技术类内容。
+开源电子书籍，本书从操作系统原理角度讲解进行C++服务器开发所需掌握的技术栈：
 
-![data-learning](https://images-1252557999.file.myqcloud.com/uPic/tlkHzW.png) 
+![cppguide](https://images-1252557999.file.myqcloud.com/uPic/cppguide.jpg) 
 
-### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 
-微软开源的一份全面的数据科学课程，20个课时，历时10周：
+本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
 
-![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
+基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
+配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
+测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
+
+![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [apk.bot](https://apk.bot/)
+### [daily-arXiv-ai-enhanced](https://dw-dengwei.github.io/daily-arXiv-ai-enhanced/)
 
-免费无广告的 `APK` 下载网站：
+每天自动从 `arXiv` 抓取最新论文，并利用 `AI` 进行总结，同时通过 `GitHub Pages` 展示这些论文：
 
-![apk_bot](https://images-1252557999.file.myqcloud.com/uPic/apk_bot.jpg) 
+![daily-arXiv-ai-enhanced](https://images-1252557999.file.myqcloud.com/uPic/0ICzFV.png) 
 
-### [帮小忙](https://tool.browser.qq.com/)
+### [docsmall](https://docsmall.com/)
 
-腾讯出品的小工具合集，轻松办公，工具助你一臂之力，功能一应俱全、简单好用的线上工具宝：
+提供一些图片压缩、PDF合并分割小功能的网站：
 
-![bxm](https://images-1252557999.file.myqcloud.com/uPic/bxm.jpg) 
+![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
 
-### [文学网](https://www.hwxnet.com/)
+### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
 
-文学相关工具在线网站：
+`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
 
-- 在线新华字典
-- 汉语词典
-- 成语词典
-- 中文转拼音
-- 文言文字典
-- 繁体字转换
-
-![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
+![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
 
 ## ✍️ 说明
 
