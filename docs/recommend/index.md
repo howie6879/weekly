@@ -5,101 +5,114 @@
 
 ## 🎯 项目 
 
-### [Sink](https://github.com/ccbikai/Sink)
+### [luxirty-search](https://github.com/KoriIku/luxirty-search)
 
-在 `Cloudflare` 上运行的简单、快速、安全的短链项目，还带有分析统计功能：
+一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快：
 
-![Sink](https://images-1252557999.file.myqcloud.com/uPic/aJnlZg.png) 
+![luxirty-search](https://images-1252557999.file.myqcloud.com/uPic/TSeOpC.png) 
 
-### [gitrec](https://github.com/gorse-io/gitrec)
+### [deepclaude](https://github.com/getasterisk/deepclaude)
 
-作者自己维护的Gorse推荐系统，开发了一款 Chrome 插件：
+`Aider` 团队最新研究通过[采用 DeepSeek R1 + Claude 3.5 Sonnet](https://aider.chat/2025/01/24/r1-sonnet.html) 可以实现最好的效果：
 
-- 推荐每个热门项目的相似或者相关仓库；
-- 用 [Gorse](https://github.com/gorse-io/gorse) 生成的个性化推荐仓库替换 GitHub 官方的推荐结果。
+![deepclaude-web](https://images-1252557999.file.myqcloud.com/uPic/xFt7fe.png)
 
-目前支持 Chrome 和 Edge 两款浏览器：
+![deepclaude](https://images-1252557999.file.myqcloud.com/uPic/MNsnRO.png)
 
-![gorse](https://images-1252557999.file.myqcloud.com/uPic/gorse.png) 
+相关资料：
 
-### [appsmith](https://github.com/appsmithorg/appsmith)
+- [R1+Sonnet set SOTA on aider’s polyglot benchmark](https://aider.chat/2025/01/24/r1-sonnet.html)
+- [第三方 Python 实现](https://github.com/ErlichLiu/DeepClaude) 
 
-低代码项目，用于构建任何自定义业务软件，如管理面板、内部工具和仪表板。使用35+个预构建的UI小部件连接到任何数据库、GraphQL或RESTAPI。
+### [movie-web](https://github.com/movie-web/movie-web)
 
-![as-widgets](https://images-1252557999.file.myqcloud.com/uPic/as-widgets.gif) 
+开源可自部署的简约在线电影搜索观看项目：
+
+- 自动保存进度
+- 记录观看电影
+- 简约的界面，展示内容克制
+
+![movie-web](https://images-1252557999.file.myqcloud.com/uPic/movie-web.jpg)
+
+所有内容都是从第三方获取的，并且抓取操作在客户端完成，项目包含以下模块：
+
+- 代理
+- 前端
+- 后端
+
+这三块全部可以自部署，文档写的也挺清晰我试了下，播放霸王别姬：
+
+![movie_demo](https://images-1252557999.file.myqcloud.com/uPic/movie_demo.jpg) 
 
 ## 🤖 软件 
 
-### [macGPT](https://github.com/hellokuls/macGPT)
+### [FlyEnv](https://github.com/xpf0000/FlyEnv)
 
-一款 `ChatGPT for Mac` 原生客户端：
+`FlyEnv` 是一个集成环境管理工具，支持 `macOS、Windows & Linux` 系统，提供多语言和技术栈支持，包括 PHP 工具、Web 服务器、数据库、邮件服务器等，简化了开发环境的配置和切换:
 
-![macGPT](https://images-1252557999.file.myqcloud.com/uPic/macGPT.png) 
+![FlyEnv](https://images-1252557999.file.myqcloud.com/uPic/WMQbSK.png) 
 
-### [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop)
+### [cursor](https://github.com/getcursor/cursor)
 
-基于 `tauri + vue3` 开发的跨平台桌面端应用，当今社会，智能化、便捷化已经成为趋势。选择 ChatGPT-Desktop，您将享受到以下优势：
+一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
 
-- 我们使用 tauri 构建项目，使项目包更加小巧精简，资源占用更少，同时适配多个平台。
-- 提供了配置代理的功能，您可以通过设置代理来实现更加灵活的网络访问。
-- 可以选择让 app 常驻后台，快捷键(支持自定义)一键唤醒，节省时间，提高效率。
-- 支持多 session 对话，利用 GPT-3.5-turbo 的最新特性，配合记忆模式，随时继续上一次对话。
-- 更便捷的管理和调试 prompt，构建你自己的角色预设库，使得对话更加个性化。
-- 内置丰富的导出功能，更加便利的分享结果！
-- 软件支持自动更新和手动检查更新的功能，以便大家更方便地更新软件。
-- 将所有对话存储到本地，方便随时查阅，留在身边最安心。
+![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
 
-![ChatGPT-Desktop](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Desktop.png) 
+### [anx-reader](https://github.com/Anxcye/anx-reader)
 
-### [hetty](https://github.com/dstotijn/hetty)
+安读是一款专注于阅读的应用，不包含任何在线推广内容，它可以帮助你更专注于阅读，提高阅读效率：
 
-`Hetty` 是用于安全性研究的 `HTTP` 工具包。它的目标是成为 `Burp Suite Pro` 这样的商业软件的开源替代品，其强大的功能是根据信息安全和漏洞奖励社区的需要量身定制的：
+- 自动记录阅读进度，每次打开可以回到上次的进度。
+- 丰富且可自定义的阅读配色，让您的阅读更舒适。
+- 丰富的阅读设置，包括字号、行间距、字间距等，让阅读更轻松。
+- 随时在书中划线，多种样式和配色，随时回顾。
+- 强大的阅读统计，记录您的每一次阅读。
+- 丰富的阅读笔记功能，让您的阅读更深入。
+- 安读可自定义多种色彩主题，满足您的不同需求。
+- 想在夜晚更舒适的阅读？安读可以适配系统 深/浅 色模式，或手动切换。
+- 安读现已支持多语言（中、英），自动适配系统语言，亦可手动选择。
 
-![hetty](https://images-1252557999.file.myqcloud.com/uPic/hetty.png) 
+![anx-reader](https://images-1252557999.file.myqcloud.com/uPic/anx-reader.jpg) 
 
 ## 👀 资料 
 
-### [Ahrefs Blog SEO 文章列表](https://xuxuyu.notion.site/1468d1c9ea65473b934917d8ab25979b?v=dcaec075d4b34a8e8af5be0bc9a259a0)
+### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
 
-对 `SEO` 有兴趣可以看看：
+自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
 
-![Ahrefs](https://images-1252557999.file.myqcloud.com/uPic/Ahrefs.jpg) 
+![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
 
-### [C++服务器开发精髓](https://cppguide.cn/pages/92255f/)
+### [go101](https://gfw.go101.org/article/101.html)
 
-开源电子书籍，本书从操作系统原理角度讲解进行C++服务器开发所需掌握的技术栈：
+《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
 
-![cppguide](https://images-1252557999.file.myqcloud.com/uPic/cppguide.jpg) 
+![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
 
-### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
+### [llm_engineering](https://github.com/ed-donner/llm_engineering)
 
-本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
+该项目是为了辅助 Edward Donner 的 LLM 工程课程而设立的。课程内容涵盖了 8 周的学习路径，旨在帮助学生掌握人工智能和大型语言模型（LLMs）的技能。仓库包含了课程资源、环境设置指南（适用于 PC、Mac 和 Linux 系统）以及项目文件。
 
-基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
-配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
-测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
-
-![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
+![llm_engineering](https://images-1252557999.file.myqcloud.com/uPic/dtF0EE.png) 
 
 ## 🕸 网站 
 
-### [daily-arXiv-ai-enhanced](https://dw-dengwei.github.io/daily-arXiv-ai-enhanced/)
+### [meiriyiwen](https://meiriyiwen.com/)
 
-每天自动从 `arXiv` 抓取最新论文，并利用 `AI` 进行总结，同时通过 `GitHub Pages` 展示这些论文：
+每天一篇随机散文：
 
-![daily-arXiv-ai-enhanced](https://images-1252557999.file.myqcloud.com/uPic/0ICzFV.png) 
+![meiriyiwen](https://images-1252557999.file.myqcloud.com/uPic/meiriyiwen.jpg) 
 
-### [docsmall](https://docsmall.com/)
+### [macosicongallery](https://www.macosicongallery.com/)
 
-提供一些图片压缩、PDF合并分割小功能的网站：
+专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
 
-![docsmall](https://images-1252557999.file.myqcloud.com/uPic/smalldoc.png) 
+![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
 
-### [fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker)
+### [cryptologos](https://cryptologos.cc/)
 
-`ddiu8081` 基于本周刊项目下面的 `fluentui-emoji` 微软表情包做的 `Fluent` 风格 `Emoji` 表情生成器，访问官网点[这里](https://fluent-emoji.ddiu.io/)：
+一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
 
-![fluent-emoji-maker](https://images-1252557999.file.myqcloud.com/uPic/fluent-emoji-maker.jpg) 
+![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
 
 ## ✍️ 说明
 
