@@ -5,114 +5,101 @@
 
 ## 🎯 项目 
 
-### [luxirty-search](https://github.com/KoriIku/luxirty-search)
+### [agenticSeek](https://github.com/Fosowl/agenticSeek "agenticSeek")
 
-一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快：
+一个 100% 本地替代 `Manus AI` 的方案，这款支持语音的 AI 助理能够自主浏览网页、编写代码和规划任务，同时将所有数据保留在您的设备上。专为本地推理模型量身打造，完全在您自己的硬件上运行，确保完全的隐私保护和零云端依赖。
 
-![luxirty-search](https://images-1252557999.file.myqcloud.com/uPic/TSeOpC.png) 
+- 🔒 完全本地化与隐私保护 - 所有功能都在您的设备上运行 — 无云端服务，无数据共享。您的文件、对话和搜索始终保持私密。
+- 🌐 智能网页浏览 - AgenticSeek 能够自主浏览互联网 — 搜索、阅读、提取信息、填写网页表单 — 全程无需人工操作。
+- 💻 自主编码助手 - 需要代码？它可以编写、调试并运行 Python、C、Go、Java 等多种语言的程序 — 全程无需监督。
+- 🧠 智能代理选择 - 您提问，它会自动选择最适合该任务的代理。就像拥有一个随时待命的专家团队。
+- 📋 规划与执行复杂任务 - 从旅行规划到复杂项目 — 它能将大型任务分解为步骤，并利用多个 AI 代理完成工作。
+- 🎙️ 语音功能 - 清晰、快速、未来感十足的语音与语音转文本功能，让您能像科幻电影中一样与您的个人 AI 助手对话。
 
-### [deepclaude](https://github.com/getasterisk/deepclaude)
+![agenticSeek](https://images-1252557999.file.myqcloud.com/uPic/7sShIp.png) 
 
-`Aider` 团队最新研究通过[采用 DeepSeek R1 + Claude 3.5 Sonnet](https://aider.chat/2025/01/24/r1-sonnet.html) 可以实现最好的效果：
+### [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics)
 
-![deepclaude-web](https://images-1252557999.file.myqcloud.com/uPic/xFt7fe.png)
+通过网络收集整理的中文歌词数据库, 包含:
 
-![deepclaude](https://images-1252557999.file.myqcloud.com/uPic/MNsnRO.png)
+- 绝大多数华语歌手在2019年之前的歌曲
+- 4019位歌手, 其中作品数20首以上的1086人, 100首以上233人
+- 102197首歌曲, 平均每人25.4首歌
 
-相关资料：
+作者基于此数据库做了两个歌词生成器：
 
-- [R1+Sonnet set SOTA on aider’s polyglot benchmark](https://aider.chat/2025/01/24/r1-sonnet.html)
-- [第三方 Python 实现](https://github.com/ErlichLiu/DeepClaude) 
+- [TensorFlow版本](https://github.com/dengxiuqi/Lyricist-tensorflow)
+- [PyTorch版本](https://github.com/dengxiuqi/Lyricist-torch) 
 
-### [movie-web](https://github.com/movie-web/movie-web)
+### [podman](https://github.com/containers/podman)
 
-开源可自部署的简约在线电影搜索观看项目：
+`Podman` 是从 `CRI-O` 独立出来的一个项目，这是一个无守护进程的开源Linux 原生工具，旨在使用开放容器协议 (OCI) 容器和容器镜像轻松查找、运行、构建、共享和部署应用程序。
 
-- 自动保存进度
-- 记录观看电影
-- 简约的界面，展示内容克制
+受不了 Docker 桌面版的可以直接用这个替换，软件部分也介绍了 `Podman` 的桌面版 [podman-desktop](https://github.com/containers/podman-desktop)。
 
-![movie-web](https://images-1252557999.file.myqcloud.com/uPic/movie-web.jpg)
-
-所有内容都是从第三方获取的，并且抓取操作在客户端完成，项目包含以下模块：
-
-- 代理
-- 前端
-- 后端
-
-这三块全部可以自部署，文档写的也挺清晰我试了下，播放霸王别姬：
-
-![movie_demo](https://images-1252557999.file.myqcloud.com/uPic/movie_demo.jpg) 
+![podman](https://images-1252557999.file.myqcloud.com/uPic/podman.jpg) 
 
 ## 🤖 软件 
 
-### [FlyEnv](https://github.com/xpf0000/FlyEnv)
+### [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)
 
-`FlyEnv` 是一个集成环境管理工具，支持 `macOS、Windows & Linux` 系统，提供多语言和技术栈支持，包括 PHP 工具、Web 服务器、数据库、邮件服务器等，简化了开发环境的配置和切换:
+基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
 
-![FlyEnv](https://images-1252557999.file.myqcloud.com/uPic/WMQbSK.png) 
+![bob-plugin-openai-translator](https://images-1252557999.file.myqcloud.com/uPic/bob-plugin-openai-translator.jpg) 
 
-### [cursor](https://github.com/getcursor/cursor)
+### [downkyi](https://github.com/leiurayer/downkyi)
 
-一个专为AI协作编程而设计的编辑器，可以通过聊天的形式生成代码，也可以基于一段代码让 `AI` 进行理解然后进行沟通交流：
+Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
 
-![cursor](https://images-1252557999.file.myqcloud.com/uPic/cursor.png) 
+![downkyi](https://images-1252557999.file.myqcloud.com/uPic/downkyi.png) 
 
-### [anx-reader](https://github.com/Anxcye/anx-reader)
+### [Ice](https://github.com/jordanbaird/Ice)
 
-安读是一款专注于阅读的应用，不包含任何在线推广内容，它可以帮助你更专注于阅读，提高阅读效率：
+`Mac` 桌面顶部菜单图标管理工具，可以控制哪些展示，哪些隐藏，`Bartender` 的开源免费替代产品：
 
-- 自动记录阅读进度，每次打开可以回到上次的进度。
-- 丰富且可自定义的阅读配色，让您的阅读更舒适。
-- 丰富的阅读设置，包括字号、行间距、字间距等，让阅读更轻松。
-- 随时在书中划线，多种样式和配色，随时回顾。
-- 强大的阅读统计，记录您的每一次阅读。
-- 丰富的阅读笔记功能，让您的阅读更深入。
-- 安读可自定义多种色彩主题，满足您的不同需求。
-- 想在夜晚更舒适的阅读？安读可以适配系统 深/浅 色模式，或手动切换。
-- 安读现已支持多语言（中、英），自动适配系统语言，亦可手动选择。
-
-![anx-reader](https://images-1252557999.file.myqcloud.com/uPic/anx-reader.jpg) 
+![Ice](https://images-1252557999.file.myqcloud.com/uPic/Ice.png) 
 
 ## 👀 资料 
 
-### [nlp-tutorial](https://github.com/shibing624/nlp-tutorial)
+### [papers-we-love](https://github.com/papers-we-love/papers-we-love)
 
-自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。
+项目收集了计算机科学领域值得一读的论文：
 
-![nlp-tutorial](https://images-1252557999.file.myqcloud.com/uPic/nlp-tutorial.jpg) 
+![papers-we-love](https://images-1252557999.file.myqcloud.com/uPic/FiYqA1.png)
 
-### [go101](https://gfw.go101.org/article/101.html)
+还有一个开发者列出了他喜欢的论文，具体见：[my-favorite-papers](https://ordep.dev/posts/my-favorite-papers)，其中包括了LSM Tree， Kafka， Zookeeper，数字签名，等一些很经典的分布式领域的论文。 
 
-《Go语言101》是一本着墨于Go语法语义以及运行时相关知识点的编程指导书（Go 1.17 就绪）。 此书旨在尽可能地帮助Go程序员更深更全面地理解Go语言。 此书也搜集了Go语言和Go编程中的很多细节，其中有一些在官方文档中从未提及。 此书同时适合Go初学者和有一定经验的Go程序员阅读。
+### [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial)
 
-![Go语言101](https://images-1252557999.file.myqcloud.com/uPic/aPSFYR.png) 
+本教程供新加入 `TANGENT` 实验室的同学入门 NLP 使用，该指南主要提供了 `NLP` 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容：
 
-### [llm_engineering](https://github.com/ed-donner/llm_engineering)
+![pku_nlp_tutorial](https://images-1252557999.file.myqcloud.com/uPic/pku_nlp_tutorial.jpg) 
 
-该项目是为了辅助 Edward Donner 的 LLM 工程课程而设立的。课程内容涵盖了 8 周的学习路径，旨在帮助学生掌握人工智能和大型语言模型（LLMs）的技能。仓库包含了课程资源、环境设置指南（适用于 PC、Mac 和 Linux 系统）以及项目文件。
+### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
 
-![llm_engineering](https://images-1252557999.file.myqcloud.com/uPic/dtF0EE.png) 
+吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
+
+![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
 
 ## 🕸 网站 
 
-### [meiriyiwen](https://meiriyiwen.com/)
+### [medisearch](https://medisearch.io/zh)
 
-每天一篇随机散文：
+直接的科学为基础的医疗问答模型：
 
-![meiriyiwen](https://images-1252557999.file.myqcloud.com/uPic/meiriyiwen.jpg) 
+![medisearch](https://images-1252557999.file.myqcloud.com/uPic/medisearch.jpg) 
 
-### [macosicongallery](https://www.macosicongallery.com/)
+### [cursor.directory](https://cursor.directory/)
 
-专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
+基于你在用的框架或者语言，提供最好的 curson 规则。也开源在 [github](https://github.com/pontusab/cursor.directory)
 
-![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
+![cursor.directory](https://images-1252557999.file.myqcloud.com/uPic/ygOBRk.png) 
 
-### [cryptologos](https://cryptologos.cc/)
+### [antimkd](https://antimkd.com/)
 
-一个收录加密货币LOGO的免费图库，为设计师、开发者提供完整的加密货币图标：
+无套路的软件下载网站：
 
-![cryptologos](https://images-1252557999.file.myqcloud.com/uPic/cryptologos.jpg) 
+![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
 
 ## ✍️ 说明
 
