@@ -5,98 +5,96 @@
 
 ## 🎯 项目 
 
-### [mall-cook](https://github.com/wangyuan389/mall-cook)
+### [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 
-Mall-Cook是一个基于vue开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。
+最近很火的`AI Art` 生成模型：
 
-![mall-cook](https://images-1252557999.file.myqcloud.com/uPic/mall-cook.gif) 
+![stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/SMqeoF.jpg)
 
-### [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
+还有可直接使用的的 `Web UI` 版本 `stable-diffusion-webui` ：
 
-作者提供了全面的大数据实践教程，每个项目都包含一个友好的说明文档，用来阐述和展示整个开发流程，同时也会提供相关的数据集，以供下载练习。
+- [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui)
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
-项目列表如下：
+![stable-diffusion-webui](https://images-1252557999.file.myqcloud.com/uPic/KwTGpC.jpg) 
 
-![bigdata_analyse](https://images-1252557999.file.myqcloud.com/uPic/klC8AA.png) 
+### [koishi](https://koishi.chat/zh-CN/)
 
-### [cadvisor](https://github.com/google/cadvisor)
+周刊群友推荐，创建跨平台、可扩展、高性能的机器人，插件丰富，`Koishi` 提供了高度便利的控制台，让你无需基础让你在几分钟之内搭建自己的聊天机器人。
 
-一个免费开源的容器监控工具，可以实时统计容器运行时占用的资源：
+- 提供在线插件市场，即使没有任何编程基础，也能轻松在控制台中下载安装插件
+- 支持 QQ，Telegram，Discord，飞书等主流聊天平台，支持多账户和跨平台数据互通
+- 随时随地通过控制面板监控运行状态，控制机器人的行为，甚至上号聊天
 
-- CPU 利用率
-- 内存使用量
-- 网络传输等信息
+![koishi](https://images-1252557999.file.myqcloud.com/uPic/koishi.jpg) 
 
-同时提供了 Web 可视化页面，支持 `prometheus` 格式输出，非常优秀。
+### [nn-editor](https://github.com/scarsty/nn-editor)
 
-![cadvisor](https://images-1252557999.file.myqcloud.com/uPic/cadvisor.jpg)
+Neural Net Editor 神经网络编辑器，目前的主要功能是用于神经网络结构的简单编辑，或者某些特殊流程图的编辑。
 
-如果使用过程有镜像代理问题，可以参考 [gcr.io_mirror](https://github.com/anjia0532/gcr.io_mirror) 项目。 
+![nn-editor](https://images-1252557999.file.myqcloud.com/uPic/By0C3O.jpg) 
 
 ## 🤖 软件 
 
-### [VutronMusic](https://github.com/stark81/VutronMusic)
+### [breezy-weather](https://github.com/breezy-weather/breezy-weather/)
 
-高颜值的跨平台第三方网易云播放器；支持流媒体音乐，如navidrome、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome桌面状态栏歌词显示；支持降调降速等。
+`Breezy Weather` 是一款全面采用 `Material Design` 设计风格的天气应用，其注重设计，UI简洁，动画效果流畅：
 
-![VutronMusic](https://images-1252557999.file.myqcloud.com/uPic/mLYjZO.png) 
+![breezy-weather](https://images-1252557999.file.myqcloud.com/uPic/breezy-weather.jpg) 
 
-### [netease-music-crx](https://github.com/sigoden/netease-music-crx)
+### [alacritty](https://github.com/alacritty/alacritty)
 
-针对谷歌浏览器开发的插件，可以收听VIP或变灰歌曲的网易云音乐播放器，如果有桌面端需求，可以参考[第008期](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)的[YesPlayMusic](https://github.com/qier222/YesPlayMusic)。
+一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
 
-![netease-music-crx](https://images-1252557999.file.myqcloud.com/uPic/rkgRfw.png) 
+我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
 
-### [mangerlahn-latest](https://github.com/mangerlahn/latest)
+![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
 
-一款免费开源的macOS应用程序，专门设计用于保持您的所有应用程序处于最新状态。它能够检查您的每一个应用程序，确保您始终拥有最新的更新和功能。
+### [BetterNCM](https://github.com/MicroCBer/BetterNCM)
 
-![mac_latest](https://images-1252557999.file.myqcloud.com/uPic/mac_latest.jpg) 
+`BetterNCM` 是一个由一群热爱网易云音乐的云村村友开发的 `PC` 版网易云音乐扩展工具，工具通过DLL注入，以插件形式加载至网易云音乐客户端，具有更改主题、增强操作、精简客户端等实用功能：
+
+![BetterNCM](https://images-1252557999.file.myqcloud.com/uPic/BetterNCM.png) 
 
 ## 👀 资料 
 
-### [qianguyihao/Web](https://github.com/qianguyihao/Web)
+### [Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
 
-千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师:
+微软出品的 `GitHub Copilot` 教程：
 
-- 网上的大部分入门教程，都不太适合初学者，本项目争取照顾到每一位前端入门者的同理心。即使你完全不懂前端，甚至不懂编程，通过这个教程，也能让小白入门。
-- 帮助前端同学提供一个精品学习资源和路线，提高学习效率，少走很多弯路。
+![Mastering-GitHub-Copilot-for-Paired-Programming](https://images-1252557999.file.myqcloud.com/uPic/KTSuLa.png) 
 
-![qianguyihao](https://images-1252557999.file.myqcloud.com/uPic/qianguyihao.jpg)
+### [大规模并行处理器编程实战第四版](https://fancyerii.github.io/2024/02/20/pmpp/)
 
-可以当做前端字典，随时翻阅，查漏补缺，在线观看地址：[web.qianguyihao.com](https://web.qianguyihao.com/)。 
+关于并行计算的重要参考书籍，这是博客翻译的第四版。介绍了学生和专业人员都适合的并行编程与gpu体系结构的基本概念，详细剖析了编写并行程序所需的各种技术，用案例研究说明了并行程序设计的整个开发过程，即从计算思想开始，直到最终实现高效可行的并行程序。 
 
-### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
+### [101-rs](https://github.com/tweedegolf/101-rs)
 
-《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
+[Rust 101](https://101-rs.tweede.golf/) 是一门面向计算机科学专业学生的大学课程，介绍了 Rust 编程语言，适用于任何想要教授 Rust 的人:
 
-![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
-
-### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
-
-本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
-
-![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
+![101-rs](https://images-1252557999.file.myqcloud.com/uPic/101-rs.jpg) 
 
 ## 🕸 网站 
 
-### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
+### [ocr.plantree.me](https://ocr.plantree.me/ocr)
 
-@妙才投稿，在线学习git命令的网站：
+一个基于 `Tesseract` 的简单 `OCR` 软件：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
+![plantree](https://images-1252557999.file.myqcloud.com/uPic/plantree.jpg) 
 
-### [eja.tv](https://eja.tv/?)
+### [free-font](https://free-font.vercel.app/)
 
-提供3808个在线电视频道，包含143个国家以及82种不同语言。
+收录商用免费汉字字体，还包括开源英文字体 `Free Font`:
 
-![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
+![free-font](https://images-1252557999.file.myqcloud.com/uPic/free-font.png)
 
-### [quickref](https://quickref.me/)
+项目开源在 [github](https://github.com/jaywcjlove/free-font)。 
 
-开发人员速查表，类似之前周刊提到的 [jaywcjlove/reference](https://github.com/jaywcjlove/reference)：
+### [dev.to](https://dev.to/)
 
-![quickref](https://images-1252557999.file.myqcloud.com/uPic/quickref.jpg) 
+国外的一个文章分享社区，内容质量都还不错，没事看看可快速把握新技术方向：
+
+![dev_to](https://images-1252557999.file.myqcloud.com/uPic/dev_to.png) 
 
 ## ✍️ 说明
 
