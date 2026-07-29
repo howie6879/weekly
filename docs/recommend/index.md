@@ -5,85 +5,104 @@
 
 ## 🎯 项目 
 
-### [daedalOS](https://github.com/DustinBrett/daedalOS)
+### [album-ai](https://github.com/gcui-art/album-ai)
 
-`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
+挺有想法的项目，基于 `gpt-4o-mini` 作为视觉模型，自动识别出相册中图像文件的元信息，然后借助 `RAG` 技术，实现了与相册对话的能力：
 
-![daedalOS](https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png) 
+![album-ai](https://images-1252557999.file.myqcloud.com/uPic/album-ai.jpg) 
 
-### [Monit](https://github.com/fzf404/Monit)
+### [ChatGemini](https://github.com/bclswl0827/ChatGemini)
 
-系统桌面小组件(用于展示各种信息)：
+`ChatGemini` 是一个基于 `Google Gemini` 的网页客户端，对标 `ChatGPT 3.5`，操作逻辑同 `ChatGPT 3.5` 一致，同时支持在聊天中上传图片，应用会自动调用 `Gemini-Pro-Vision` 模型进行识图：
 
-![Monit](https://images-1252557999.file.myqcloud.com/uPic/Monit.webp) 
+- 适配移动端
+- 支持多 API 密钥分流
+- 操作逻辑同 ChatGPT
+- 仿 ChatGPT 3.5 界面
+- 支持多轮聊天对话
+- 支持上传图片进行识别
+- 逐字输出（SSE）回应
+- 集成 PHP 版反向代理
+- 自定义 Gemini API 地址
+- 可启用站点通行码防止滥用
+- 聊天内容导出（HTML 和 PDF）
+- 对话内容保存在 IndexedDB 中
 
-### [zfile](https://github.com/zhaojun1998/zfile)
+![ChatGemini](https://images-1252557999.file.myqcloud.com/uPic/ChatGemini.jpg)
 
-基于 `Java` 的在线网盘程序，支持对接 `S3、OneDrive、SharePoint、FTP、SFTP`、又拍云、本地存储等存储源，支持在线浏览图片、播放音视频，文本文件等文件类型。
+如果不想部署，可以直接使用搭建好的免费 Gemini：[https://gemini-pro.chat](https://gemini-pro.chat/) 
 
-![zfile](https://images-1252557999.file.myqcloud.com/uPic/zfile.png) 
+### [ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot)
+
+`Win PC` 微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装 `COM` 接口供 `Python、C#` 调用：
+
+- 获取通讯录
+- 发送文本、图片、文件、xml文章、名片、群艾特消息
+- 根据wxid查询好友信息
+- 根据群ID获取所有群成员wxid
+- 检测好友状态（是否好友、被删除、被拉黑）
+- 接收各类消息，可写回调函数进行处理
+- 封装COM接口，方便使用自己喜欢的语言进行调用
+- 群管理
+- 微信多开 
 
 ## 🤖 软件 
 
-### [CatchMouse](https://github.com/round/CatchMouse)
+### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
-如果你在工作过程中有两个及以上显示器，那么可能在日常会经常移动鼠标到对应屏幕，这个过程是耗时的，可以使用`CatchMouse`快速解决这个问题，分别为每个显示器设置快捷键即可。 
+开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
 
-### [gpt4all](https://github.com/nomic-ai/gpt4all)
+![hitomi](https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif) 
 
-`GPT4All` 是一个生态系统，用于在消费级 `CPU` 和任何 `GPU` 上本地运行强大且定制化的大型语言模型。请注意，您的 `CPU` 需要支持 `AVX` 或 `AVX2` 指令。
+### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
 
-![gpt4all](https://images-1252557999.file.myqcloud.com/uPic/gpt4all.jpg) 
+B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
 
-### [uPic](https://github.com/gee1k/uPic)
+![](https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg) 
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+### [pho](https://github.com/fregie/pho)
 
-我的必备软件：
+一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
 
-![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
 
 ## 👀 资料 
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
+### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
 
-强化学习中文教程：
+一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
 
-![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
+### [通往AGI之路](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
 
-### [Web性能权威指南](https://hpbn.co/?continueFlag=14fc3d10297cd201ac62a1c9ee47b24a)
+汇聚了互联网上的一些 `AGI` 教程，资源大家看了觉得有用即可，文章底部有微信引流，如果里面需要付费请慎重：
 
-本书是谷歌公司高性能团队核心成员的权威之作，本书目标是涵盖Web 开发者技术体系中应该掌握的所有网络及性能优化知识。全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。
+![ywh1bkansf](https://images-1252557999.file.myqcloud.com/uPic/ywh1bkansf.jpg) 
 
-![Web性能权威指南](https://images-1252557999.file.myqcloud.com/uPic/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.jpg) 
+### [mastering-bitcoin-3rd](https://github.com/berryjam/mastering-bitcoin-3rd)
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+《精通比特币》第三版翻译：
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
-
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+![mastering-bitcoin-3rd](https://images-1252557999.file.myqcloud.com/uPic/ZwD0Jl.png) 
 
 ## 🕸 网站 
 
-### [kanmaoxian.online](https://kanmaoxian.online)
+### [go-to-library.sk](https://go-to-library.sk/#useful_link_tab)
 
-基于开源项目 [LibreTV](https://github.com/LibreSpark/LibreTV) 开源项目搭建的影视在线网站，大家默默使用就好，网页打开，输入密码：**kanmaoxian**：
+`Z-Library` 官方入口页面：
 
-![kanmaoxian](https://images-1252557999.file.myqcloud.com/uPic/YkTBsY.png) 
+![go-to-library.sk](https://images-1252557999.file.myqcloud.com/uPic/LQr3IN.png) 
 
-### [wallpaperengine.space](https://www.wallpaperengine.space/)
+### [opensource-heroes](https://opensource-heroes.com/)
 
-一个专注于提供各种动态壁纸的平台，涵盖了从 4K 分辨率到各种主题和风格的壁纸。
+星标数最多的开源开发者、组织以及仓库排行榜单：
 
-![wallpaperengine](https://images-1252557999.file.myqcloud.com/uPic/MgDa1c.png) 
+![opensource-heroes](https://images-1252557999.file.myqcloud.com/uPic/opensource-heroes.jpg) 
 
-### [collagemaker.tools](https://collagemaker.tools/)
+### [cook](https://github.com/YunYouJun/cook)
 
-群友 **@37丫37** 开发免费在线拼图工具，纯前端客户端渲染，提供布局拼图和长图拼接两大核心模式。支持在画布自由添加、编辑、缩放和移动文字、箭头、方框、圆圈等创意对象。所有操作均在本地完成，完全免费、无需登录、注重隐私，无水印高清下载。
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-![collagemaker](https://images-1252557999.file.myqcloud.com/uPic/fl3v1N.png)
-
-PS:原来域名是：https://img.ops-coffee.cn/ 现在改成 https://collagemaker.tools ，看样子是更加专业且认真地在维护这个小产品。 
+![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
 
 ## ✍️ 说明
 
