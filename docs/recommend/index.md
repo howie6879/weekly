@@ -5,104 +5,93 @@
 
 ## 🎯 项目 
 
-### [album-ai](https://github.com/gcui-art/album-ai)
+### [Docusaurus](https://github.com/facebook/docusaurus)
 
-挺有想法的项目，基于 `gpt-4o-mini` 作为视觉模型，自动识别出相册中图像文件的元信息，然后借助 `RAG` 技术，实现了与相册对话的能力：
+`Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
 
-![album-ai](https://images-1252557999.file.myqcloud.com/uPic/album-ai.jpg) 
+![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
 
-### [ChatGemini](https://github.com/bclswl0827/ChatGemini)
+### [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
 
-`ChatGemini` 是一个基于 `Google Gemini` 的网页客户端，对标 `ChatGPT 3.5`，操作逻辑同 `ChatGPT 3.5` 一致，同时支持在聊天中上传图片，应用会自动调用 `Gemini-Pro-Vision` 模型进行识图：
+一个大模型 `AI` 网关项目，只需要通过项目提供的一个接口，就可以快速连接到100多个 `LLM`：
 
-- 适配移动端
-- 支持多 API 密钥分流
-- 操作逻辑同 ChatGPT
-- 仿 ChatGPT 3.5 界面
-- 支持多轮聊天对话
-- 支持上传图片进行识别
-- 逐字输出（SSE）回应
-- 集成 PHP 版反向代理
-- 自定义 Gemini API 地址
-- 可启用站点通行码防止滥用
-- 聊天内容导出（HTML 和 PDF）
-- 对话内容保存在 IndexedDB 中
+- 极速（快9.9倍），占用空间小（安装后约45kb）
+- 在多个模型、提供者和密钥之间进行负载均衡
+- 备选方案确保您的应用程序具有弹性
+- 默认情况下，自动重试并采用指数回退策略
+- 根据需要添加插件中间件
+- 经过1000亿次 Token 的实战考验
 
-![ChatGemini](https://images-1252557999.file.myqcloud.com/uPic/ChatGemini.jpg)
+  
+![ai-gateway](https://images-1252557999.file.myqcloud.com/uPic/ai-gateway.jpg)
+  
+同类型项目可以参考：[One API👉通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 ✨](https://github.com/songquanpeng/one-api) 
 
-如果不想部署，可以直接使用搭建好的免费 Gemini：[https://gemini-pro.chat](https://gemini-pro.chat/) 
+### [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
 
-### [ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot)
+为你的 `PDF` 文档打造一个 `ChatGPT` 聊天机器人，可以理解成 `ChatPDF` 的开源替代版，项目里面的代码实现可以好好研究：
 
-`Win PC` 微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装 `COM` 接口供 `Python、C#` 调用：
-
-- 获取通讯录
-- 发送文本、图片、文件、xml文章、名片、群艾特消息
-- 根据wxid查询好友信息
-- 根据群ID获取所有群成员wxid
-- 检测好友状态（是否好友、被删除、被拉黑）
-- 接收各类消息，可写回调函数进行处理
-- 封装COM接口，方便使用自己喜欢的语言进行调用
-- 群管理
-- 微信多开 
+![chatpdf](https://images-1252557999.file.myqcloud.com/uPic/chatpdf.jpg) 
 
 ## 🤖 软件 
 
-### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+### [hyprnote](https://github.com/fastrepl/hyprnote)
 
-开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
+`Hyprnote` 是一个专为连续会议的参与者设计的本地优先 `AI` 笔记软件。它能够在你记录会议时，同时聆听会议内容并制作智能摘要。`Hyprnote` 支持完全离线运行，使用开源模型如 `Whisper` 或 `HyprLLM`。软件不需要互联网连接，所有数据都保存在用户的设备上，确保数据不会外泄。
 
-![hitomi](https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif) 
+![hyprnote](https://images-1252557999.file.myqcloud.com/uPic/vnfVro.png) 
 
-### [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+### [dockit](https://github.com/geek-fun/dockit)
 
-B站增强脚本，需要浏览器装有 [Tampermonkey](https://www.tampermonkey.net/) 插件：
+一个跨平台的图形用户界面客户端，支持 `Elasticsearch` 和 `Opensearch` 数据库管理。
 
-![](https://images-1252557999.file.myqcloud.com/uPic/F42ndl.jpg) 
+![dockit](https://images-1252557999.file.myqcloud.com/uPic/apAgUR.png) 
 
-### [pho](https://github.com/fregie/pho)
+### [orbstack](https://github.com/orbstack)
 
-一个用于查看和上传照片的无服务端应用，该应用的目的是替代手机上的自带相册应用，并且能够将照片同步到网络储存：
+来自朋友的推荐，`macOS` 上的 `Docker Desktop` 很卡很臃肿大家应该认可吧，我之前都是用 `Podman`，也算不错。这次又发现了这款在 `macOS` 上运行的 `Docker` 容器和 `Linux` 虚拟机 ，大家可以试试：
 
-![pho](https://images-1252557999.file.myqcloud.com/uPic/pho.jpg) 
+![orbstack](https://images-1252557999.file.myqcloud.com/uPic/orbstack.jpg) 
 
 ## 👀 资料 
 
-### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
+### [llm-action](https://github.com/liguodongiot/llm-action)
 
-一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
+本项目旨在分享大模型相关技术原理以及实战经验，让天下没有难学的大模型：
 
-### [通往AGI之路](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
+![llm-action](https://images-1252557999.file.myqcloud.com/uPic/llm-action.png) 
 
-汇聚了互联网上的一些 `AGI` 教程，资源大家看了觉得有用即可，文章底部有微信引流，如果里面需要付费请慎重：
+### [udlbook](https://udlbook.github.io/udlbook/)
 
-![ywh1bkansf](https://images-1252557999.file.myqcloud.com/uPic/ywh1bkansf.jpg) 
+麻省理工出品的免费电子书《理解深度学习》：
 
-### [mastering-bitcoin-3rd](https://github.com/berryjam/mastering-bitcoin-3rd)
+![udlbook](https://images-1252557999.file.myqcloud.com/uPic/udlbook.jpg) 
 
-《精通比特币》第三版翻译：
+### [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare)
 
-![mastering-bitcoin-3rd](https://images-1252557999.file.myqcloud.com/uPic/ZwD0Jl.png) 
+⛅️ 精选的 `Cloudflare` 工具、开源项目、指南、博客和其他资源列表，带你玩转 `Cloudflare`：
+
+![awesome-cloudflare](https://images-1252557999.file.myqcloud.com/uPic/12CbEQ.png) 
 
 ## 🕸 网站 
 
-### [go-to-library.sk](https://go-to-library.sk/#useful_link_tab)
+### [webdesk](https://webdesk.pigjs.com/builder/)
 
-`Z-Library` 官方入口页面：
+一键将网站转化为桌面应用程序：
 
-![go-to-library.sk](https://images-1252557999.file.myqcloud.com/uPic/LQr3IN.png) 
+![webdesk](https://images-1252557999.file.myqcloud.com/uPic/webdesk.jpg) 
 
-### [opensource-heroes](https://opensource-heroes.com/)
+### [wanqu.co](https://www.wanqu.co/)
 
-星标数最多的开源开发者、组织以及仓库排行榜单：
+湾区日报. 关注创业，互联网，技术。就像是你远方的老朋友每天推荐几篇优质英文文章，一起每天进步一点点:
 
-![opensource-heroes](https://images-1252557999.file.myqcloud.com/uPic/opensource-heroes.jpg) 
+![wanqu](https://images-1252557999.file.myqcloud.com/uPic/wanqu.jpg) 
 
-### [cook](https://github.com/YunYouJun/cook)
+### [jaywcjlove/reference](https://wangchujiang.com/reference/)
 
-一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
+为开发人员分享快速参考备忘清单【速查表】，也可以直接通过 github 访问-> [jaywcjlove/reference](https://github.com/jaywcjlove/reference) :
 
-![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
+![reference](https://images-1252557999.file.myqcloud.com/uPic/reference.png) 
 
 ## ✍️ 说明
 
