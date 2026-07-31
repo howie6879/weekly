@@ -5,93 +5,87 @@
 
 ## 🎯 项目 
 
-### [Docusaurus](https://github.com/facebook/docusaurus)
+### [agibot_x1_infer](https://github.com/AgibotTech/agibot_x1_infer)
 
-`Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点:
+稚晖君开源的智元家灵犀X1，智元人形机器人，全套资料全球开源，包括设计图纸和代码：
 
-![Docusaurus](https://images-1252557999.file.myqcloud.com/uPic/Docusaurus.svg) 
+- **开发指南链接**: [开发指南](https://www.zhiyuan-robot.com/DOCS/OS/X1-PDG)
+- **设计资料百度云盘** (提取码：1234): [百度云盘链接](https://pan.baidu.com/s/1UEdeDBTJiXRmIqMKwmO5RA?pwd=1234)
+- **设计资料谷歌云盘**: [谷歌云盘链接](https://drive.google.com/drive/folders/1MECbyKRJbnc_XKWsdUbn-70xmYFmw9FW?usp=sharing)
+- **推理代码**: [推理代码链接](https://github.com/AgibotTech/agibot_x1_infer)
+- **训练代码**: [训练代码链接](https://github.com/AgibotTech/agibot_x1_train)
 
-### [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
+![agibot_x1_infer](https://images-1252557999.file.myqcloud.com/uPic/QchElr.png) 
 
-一个大模型 `AI` 网关项目，只需要通过项目提供的一个接口，就可以快速连接到100多个 `LLM`：
+### [MindSearch](https://github.com/InternLM/MindSearch)
 
-- 极速（快9.9倍），占用空间小（安装后约45kb）
-- 在多个模型、提供者和密钥之间进行负载均衡
-- 备选方案确保您的应用程序具有弹性
-- 默认情况下，自动重试并采用指数回退策略
-- 根据需要添加插件中间件
-- 经过1000亿次 Token 的实战考验
+开源的 Web 搜索引擎框架，它利用大型语言模型（LLM）和多智能体架构来提供高级搜索功能。该项目支持多种搜索引擎，如 `DuckDuckGo、Bing、Brave & Google`，您可以轻松部署它来构建您自己的搜索引擎：
 
-  
-![ai-gateway](https://images-1252557999.file.myqcloud.com/uPic/ai-gateway.jpg)
-  
-同类型项目可以参考：[One API👉通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 ✨](https://github.com/songquanpeng/one-api) 
+![MindSearch](https://images-1252557999.file.myqcloud.com/uPic/8Q3zZx.png) 
 
-### [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
+### [crawlee](https://crawlee.dev/)
 
-为你的 `PDF` 文档打造一个 `ChatGPT` 聊天机器人，可以理解成 `ChatPDF` 的开源替代版，项目里面的代码实现可以好好研究：
+基于 `Node` 编写的开源网络爬虫库：
 
-![chatpdf](https://images-1252557999.file.myqcloud.com/uPic/chatpdf.jpg) 
+![crawlee](https://images-1252557999.file.myqcloud.com/uPic/crawlee.jpg) 
 
 ## 🤖 软件 
 
-### [hyprnote](https://github.com/fastrepl/hyprnote)
+### [nextplayer](https://github.com/anilbeesetti/nextplayer)
 
-`Hyprnote` 是一个专为连续会议的参与者设计的本地优先 `AI` 笔记软件。它能够在你记录会议时，同时聆听会议内容并制作智能摘要。`Hyprnote` 支持完全离线运行，使用开源模型如 `Whisper` 或 `HyprLLM`。软件不需要互联网连接，所有数据都保存在用户的设备上，确保数据不会外泄。
+免费开源的 Android 原生视频播放器：
 
-![hyprnote](https://images-1252557999.file.myqcloud.com/uPic/vnfVro.png) 
+![nextplayer](https://images-1252557999.file.myqcloud.com/uPic/Mj7TE1.png) 
 
-### [dockit](https://github.com/geek-fun/dockit)
+### [WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive)
 
-一个跨平台的图形用户界面客户端，支持 `Elasticsearch` 和 `Opensearch` 数据库管理。
+使用 腾讯 X5 WebView 开发的电视直播App，原理：加载直播网页，找到video标签自动全屏：
 
-![dockit](https://images-1252557999.file.myqcloud.com/uPic/apAgUR.png) 
+![WebViewTvLive](https://images-1252557999.file.myqcloud.com/uPic/JKdapa.png) 
 
-### [orbstack](https://github.com/orbstack)
+### [appflowy](https://github.com/AppFlowy-IO/appflowy)
 
-来自朋友的推荐，`macOS` 上的 `Docker Desktop` 很卡很臃肿大家应该认可吧，我之前都是用 `Podman`，也算不错。这次又发现了这款在 `macOS` 上运行的 `Docker` 容器和 `Linux` 虚拟机 ，大家可以试试：
+`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
 
-![orbstack](https://images-1252557999.file.myqcloud.com/uPic/orbstack.jpg) 
+![appflowy](https://images-1252557999.file.myqcloud.com/uPic/JhzdLT.jpg) 
 
 ## 👀 资料 
 
-### [llm-action](https://github.com/liguodongiot/llm-action)
+### [Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
 
-本项目旨在分享大模型相关技术原理以及实战经验，让天下没有难学的大模型：
+微软出品的 `GitHub Copilot` 教程：
 
-![llm-action](https://images-1252557999.file.myqcloud.com/uPic/llm-action.png) 
+![Mastering-GitHub-Copilot-for-Paired-Programming](https://images-1252557999.file.myqcloud.com/uPic/KTSuLa.png) 
 
-### [udlbook](https://udlbook.github.io/udlbook/)
+### [Sensitive-lexicon](https://github.com/konsheng/Sensitive-lexicon)
 
-麻省理工出品的免费电子书《理解深度学习》：
+一个持续更新的中文敏感词库，帮助开发者和内容审核者快速识别并过滤不当文本，国内做需要用户评论相关业务还是很有用。 
 
-![udlbook](https://images-1252557999.file.myqcloud.com/uPic/udlbook.jpg) 
+### [grammar-club](https://github.com/llwslc/grammar-club)
 
-### [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare)
+旋元佑老师的语法俱乐部书籍电子版，在线阅读[地址](https://llwslc.github.io/grammar-club/content/Preface.html)：
 
-⛅️ 精选的 `Cloudflare` 工具、开源项目、指南、博客和其他资源列表，带你玩转 `Cloudflare`：
-
-![awesome-cloudflare](https://images-1252557999.file.myqcloud.com/uPic/12CbEQ.png) 
+![grammar-club](https://images-1252557999.file.myqcloud.com/uPic/grammar-club.jpg) 
 
 ## 🕸 网站 
 
-### [webdesk](https://webdesk.pigjs.com/builder/)
+### [BRIA-RMBG-1.4](https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4)
 
-一键将网站转化为桌面应用程序：
+[BRIA.AI](https://huggingface.co/briaai/RMBG-1.4) 下用于移除图片背景的模型，可直接在浏览器使用：
 
-![webdesk](https://images-1252557999.file.myqcloud.com/uPic/webdesk.jpg) 
+![BRIA-RMBG](https://images-1252557999.file.myqcloud.com/uPic/BRIA-RMBG.jpg) 
 
-### [wanqu.co](https://www.wanqu.co/)
+### [huggingface-spaces](https://huggingface.co/spaces)
 
-湾区日报. 关注创业，互联网，技术。就像是你远方的老朋友每天推荐几篇优质英文文章，一起每天进步一点点:
+`Hugging Face Spaces`  导航。内含 30 个 AI 分类，超 40 万个 Space，支持自然语言搜索功能：
 
-![wanqu](https://images-1252557999.file.myqcloud.com/uPic/wanqu.jpg) 
+![huggingface-spaces](https://images-1252557999.file.myqcloud.com/uPic/jG93mK.png) 
 
-### [jaywcjlove/reference](https://wangchujiang.com/reference/)
+### [archive.today](https://archive.today/)
 
-为开发人员分享快速参考备忘清单【速查表】，也可以直接通过 github 访问-> [jaywcjlove/reference](https://github.com/jaywcjlove/reference) :
+提供任何网站存档查询的网站：
 
-![reference](https://images-1252557999.file.myqcloud.com/uPic/reference.png) 
+![archive](https://images-1252557999.file.myqcloud.com/uPic/archive.jpg) 
 
 ## ✍️ 说明
 
