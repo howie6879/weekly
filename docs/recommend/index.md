@@ -5,87 +5,94 @@
 
 ## 🎯 项目 
 
-### [agibot_x1_infer](https://github.com/AgibotTech/agibot_x1_infer)
+### [tabby](https://github.com/TabbyML/tabby)
 
-稚晖君开源的智元家灵犀X1，智元人形机器人，全套资料全球开源，包括设计图纸和代码：
+自托管的 `AI` 编码助手，是 `GitHub Copilot` 的开源/本地替代方案：
 
-- **开发指南链接**: [开发指南](https://www.zhiyuan-robot.com/DOCS/OS/X1-PDG)
-- **设计资料百度云盘** (提取码：1234): [百度云盘链接](https://pan.baidu.com/s/1UEdeDBTJiXRmIqMKwmO5RA?pwd=1234)
-- **设计资料谷歌云盘**: [谷歌云盘链接](https://drive.google.com/drive/folders/1MECbyKRJbnc_XKWsdUbn-70xmYFmw9FW?usp=sharing)
-- **推理代码**: [推理代码链接](https://github.com/AgibotTech/agibot_x1_infer)
-- **训练代码**: [训练代码链接](https://github.com/AgibotTech/agibot_x1_train)
+![tabby](https://images-1252557999.file.myqcloud.com/uPic/tabby.gif)
 
-![agibot_x1_infer](https://images-1252557999.file.myqcloud.com/uPic/QchElr.png) 
+免费方案还可以尝试的有：
 
-### [MindSearch](https://github.com/InternLM/MindSearch)
+- [Cursor](https://weekly.howie6879.com/2023/03-20~03-25.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC084%E6%9C%9F%EF%BC%89.html?h=cursor#cursor)：一个专为 AI 协作编程而设计的编辑器，可以通过聊天的形式生成代码
+- [Amazon CodeWhisperer](https://aws.amazon.com/cn/codewhisperer/)：使用您的 AI 编码配套应用程序更快、更安全地构建应用程序
 
-开源的 Web 搜索引擎框架，它利用大型语言模型（LLM）和多智能体架构来提供高级搜索功能。该项目支持多种搜索引擎，如 `DuckDuckGo、Bing、Brave & Google`，您可以轻松部署它来构建您自己的搜索引擎：
+![cursor_code](https://images-1252557999.file.myqcloud.com/uPic/cursor_code.png)
 
-![MindSearch](https://images-1252557999.file.myqcloud.com/uPic/8Q3zZx.png) 
+![codewhisperer](https://images-1252557999.file.myqcloud.com/uPic/codewhisperer.jpg) 
 
-### [crawlee](https://crawlee.dev/)
+### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
 
-基于 `Node` 编写的开源网络爬虫库：
+`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
 
-![crawlee](https://images-1252557999.file.myqcloud.com/uPic/crawlee.jpg) 
+一个获取百度网盘分享链接下载地址的工具：
+
+![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
+
+### [mkcert](https://github.com/FiloSottile/mkcert)
+
+`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
+
+![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
 
 ## 🤖 软件 
 
-### [nextplayer](https://github.com/anilbeesetti/nextplayer)
+### [Pearcleaner](https://github.com/alienator88/Pearcleaner)
 
-免费开源的 Android 原生视频播放器：
+一个专为 `Mac` 设计的应用卸载工具：
 
-![nextplayer](https://images-1252557999.file.myqcloud.com/uPic/Mj7TE1.png) 
+![baJDOT](https://images-1252557999.file.myqcloud.com/uPic/baJDOT.png) 
 
-### [WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive)
+### [gitbutler](https://github.com/gitbutlerapp/gitbutler)
 
-使用 腾讯 X5 WebView 开发的电视直播App，原理：加载直播网页，找到video标签自动全屏：
+Git 分支管理工具，从头开始构建，用于现代工作流：
 
-![WebViewTvLive](https://images-1252557999.file.myqcloud.com/uPic/JKdapa.png) 
+![gitbutler](https://images-1252557999.file.myqcloud.com/uPic/gitbutler.jpg) 
 
-### [appflowy](https://github.com/AppFlowy-IO/appflowy)
+### [LLMFarm](https://github.com/guinmoon/LLMFarm)
 
-`appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下：
+`LLMFarm` 是一款用于与大型语言模型（LLM）配合使用的iOS和MacOS应用程序，它允许您可以使用某些参数加载不同的 LLM：
 
-![appflowy](https://images-1252557999.file.myqcloud.com/uPic/JhzdLT.jpg) 
+![LLMFarm](https://images-1252557999.file.myqcloud.com/uPic/LLMFarm.jpg) 
 
 ## 👀 资料 
 
-### [Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
+### [agents-course](https://huggingface.co/learn/agents-course/unit0/introduction)
 
-微软出品的 `GitHub Copilot` 教程：
+🤗 AI Agents Course 是一个旨在从基础到高级教授人工智能代理（Agents）的免费课程，涵盖理论、设计和实践，并提供使用流行库（如 smolagents、LangChain 和 LlamaIndex）的实战演练，以及通过挑战赛和社区贡献来提升学习体验。
 
-![Mastering-GitHub-Copilot-for-Paired-Programming](https://images-1252557999.file.myqcloud.com/uPic/KTSuLa.png) 
+![agents-course](https://images-1252557999.file.myqcloud.com/uPic/AcJZte.png) 
 
-### [Sensitive-lexicon](https://github.com/konsheng/Sensitive-lexicon)
+### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
 
-一个持续更新的中文敏感词库，帮助开发者和内容审核者快速识别并过滤不当文本，国内做需要用户评论相关业务还是很有用。 
+有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
 
-### [grammar-club](https://github.com/llwslc/grammar-club)
+![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
 
-旋元佑老师的语法俱乐部书籍电子版，在线阅读[地址](https://llwslc.github.io/grammar-club/content/Preface.html)：
+### 认知偏差知识手册
 
-![grammar-club](https://images-1252557999.file.myqcloud.com/uPic/grammar-club.jpg) 
+字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+
+![cb](https://images-1252557999.file.myqcloud.com/uPic/cb.jpg) 
 
 ## 🕸 网站 
 
-### [BRIA-RMBG-1.4](https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4)
+### [AnyBT](https://anybt.eth.limo/)
 
-[BRIA.AI](https://huggingface.co/briaai/RMBG-1.4) 下用于移除图片背景的模型，可直接在浏览器使用：
+种子搜索引擎，下载你想要的资源：
 
-![BRIA-RMBG](https://images-1252557999.file.myqcloud.com/uPic/BRIA-RMBG.jpg) 
+![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
 
-### [huggingface-spaces](https://huggingface.co/spaces)
+### [水印宝](https://watermark.chiloh.cn/)
 
-`Hugging Face Spaces`  导航。内含 30 个 AI 分类，超 40 万个 Space，支持自然语言搜索功能：
+[开源](https://github.com/chilohwei/watermark-tool)的图片加水印网页：
 
-![huggingface-spaces](https://images-1252557999.file.myqcloud.com/uPic/jG93mK.png) 
+![watermark](https://images-1252557999.file.myqcloud.com/uPic/jiPUF2.png) 
 
-### [archive.today](https://archive.today/)
+### [yima.me](https://yima.me/)
 
-提供任何网站存档查询的网站：
+免费生成 `AI` 艺术二维码：
 
-![archive](https://images-1252557999.file.myqcloud.com/uPic/archive.jpg) 
+![yima](https://images-1252557999.file.myqcloud.com/uPic/yima.png) 
 
 ## ✍️ 说明
 
