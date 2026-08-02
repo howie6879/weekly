@@ -5,94 +5,94 @@
 
 ## 🎯 项目 
 
-### [tabby](https://github.com/TabbyML/tabby)
+### [MDGJX](https://github.com/work7z/MDGJX)
 
-自托管的 `AI` 编码助手，是 `GitHub Copilot` 的开源/本地替代方案：
+秒达工具箱，借助独创高效的输入方式，让您可以快速呼出各类工具、文档及笔记等资源，免费安全无广告：
 
-![tabby](https://images-1252557999.file.myqcloud.com/uPic/tabby.gif)
+![MDGJX](https://images-1252557999.file.myqcloud.com/uPic/MDGJX.png) 
 
-免费方案还可以尝试的有：
+### [Sink](https://github.com/ccbikai/Sink)
 
-- [Cursor](https://weekly.howie6879.com/2023/03-20~03-25.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC084%E6%9C%9F%EF%BC%89.html?h=cursor#cursor)：一个专为 AI 协作编程而设计的编辑器，可以通过聊天的形式生成代码
-- [Amazon CodeWhisperer](https://aws.amazon.com/cn/codewhisperer/)：使用您的 AI 编码配套应用程序更快、更安全地构建应用程序
+在 `Cloudflare` 上运行的简单、快速、安全的短链项目，还带有分析统计功能：
 
-![cursor_code](https://images-1252557999.file.myqcloud.com/uPic/cursor_code.png)
+![Sink](https://images-1252557999.file.myqcloud.com/uPic/aJnlZg.png) 
 
-![codewhisperer](https://images-1252557999.file.myqcloud.com/uPic/codewhisperer.jpg) 
+### [JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER)
 
-### [baiduwp-php](https://github.com/yuantuo666/baiduwp-php)
+京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)。
 
-`PanDownload` 网页复刻版，`PHP` 语言版。通过curl获取网盘文件信息，处理后显示在网页中。通过api接口以及SVIP账号的Cookie(BDUSS)获取高速下载链接，本质就是用会员账号获取下载地址并发送给访客。
-
-一个获取百度网盘分享链接下载地址的工具：
-
-![baiduwp-php](https://images-1252557999.file.myqcloud.com/uPic/baiduwp-php.jpg) 
-
-### [mkcert](https://github.com/FiloSottile/mkcert)
-
-`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
-
-![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
+![jd-shopper](https://images-1252557999.file.myqcloud.com/uPic/jd-shopper.jpeg) 
 
 ## 🤖 软件 
 
-### [Pearcleaner](https://github.com/alienator88/Pearcleaner)
+### [PlayCover](https://github.com/PlayCover/PlayCover)
 
-一个专为 `Mac` 设计的应用卸载工具：
+让你的 Apple Silicon Mac 能够运行 IOS 游戏和应用：
 
-![baJDOT](https://images-1252557999.file.myqcloud.com/uPic/baJDOT.png) 
+![PlayCover](https://images-1252557999.file.myqcloud.com/uPic/PlayCover.jpg)
 
-### [gitbutler](https://github.com/gitbutlerapp/gitbutler)
+源的话推荐：
 
-Git 分支管理工具，从头开始构建，用于现代工作流：
+- https://decrypt.day/library
+- https://ipa.store/
 
-![gitbutler](https://images-1252557999.file.myqcloud.com/uPic/gitbutler.jpg) 
+就是有些 APP 偶尔会崩溃。 
 
-### [LLMFarm](https://github.com/guinmoon/LLMFarm)
+### [Planify](https://github.com/alainm23/planify)
 
-`LLMFarm` 是一款用于与大型语言模型（LLM）配合使用的iOS和MacOS应用程序，它允许您可以使用某些参数加载不同的 LLM：
+Linux 专属的一款高颜值的任务管理软件，它专为 GNOME 桌面环境设计，支持 Todoist 和 Nextcloud 的集成。该应用程序提供了直观的视觉风格和多种功能，包括任务拖拽排序、项目进度指示器、夜间模式、自定义提醒系统以及离线 Todoist 同步等。用户可以通过快速查找功能来搜索任务，同时支持重复到期日期和提醒通知。
 
-![LLMFarm](https://images-1252557999.file.myqcloud.com/uPic/LLMFarm.jpg) 
+![Planify](https://images-1252557999.file.myqcloud.com/uPic/HAXppV.png) 
+
+### [kondo](https://github.com/tbillington/kondo)
+
+有时候在开发的时候，会惊讶于这个语言下依赖竟然有 `xx个G` 的硬盘占用，长期下来，硬盘的空间就这样不知不觉没有了，好在发现了这个项目，帮我解决了问题：
+
+![kondo](https://images-1252557999.file.myqcloud.com/uPic/kondo.png)
+
+可以看到上面 `Rust` 项目依赖确实大。 
 
 ## 👀 资料 
 
-### [agents-course](https://huggingface.co/learn/agents-course/unit0/introduction)
+### [newsletter-list](https://github.com/chasays/newsletter-list)
 
-🤗 AI Agents Course 是一个旨在从基础到高级教授人工智能代理（Agents）的免费课程，涵盖理论、设计和实践，并提供使用流行库（如 smolagents、LangChain 和 LlamaIndex）的实战演练，以及通过挑战赛和社区贡献来提升学习体验。
+有趣，免费的`newsletter`收集项目，在这上面的都是真正的思考者，订阅长读一定会学到很多东西，项目包含了以下方向的优质文章源，：
 
-![agents-course](https://images-1252557999.file.myqcloud.com/uPic/AcJZte.png) 
+- 互联网和科技
+- 成长和思考
+- 工具和效率 
 
-### [有赞SaaS工作手册](https://qima.feishu.cn/docs/doccnX2YXEjp4P9pvFtBgiWBOpd#R7aWb2)
+### [openai-cookbook](https://github.com/openai/openai-cookbook)
 
-有赞CEO用飞书文档写的书，《有赞Saas工作手册》暨Saas创业十年的一些教训和经验总结：
+`OpenAI API` 使用示例指南：
 
-![youzan](https://images-1252557999.file.myqcloud.com/uPic/youzan.jpg) 
+![openapi-cookbook](https://images-1252557999.file.myqcloud.com/uPic/openapi-cookbook.jpg) 
 
-### 认知偏差知识手册
+### developer-roadmap
 
-字节·飞书设计团队出的《认知偏差知识手册》，总结了 67 种行为偏差和示例解析，值得一看
+开发人员学习成长路线图：
 
-![cb](https://images-1252557999.file.myqcloud.com/uPic/cb.jpg) 
+![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
 
 ## 🕸 网站 
 
-### [AnyBT](https://anybt.eth.limo/)
+### [musetransfer](https://musetransfer.com/)
 
-种子搜索引擎，下载你想要的资源：
+`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
 
-![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
+![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
 
-### [水印宝](https://watermark.chiloh.cn/)
+### [ogimage.click](https://ogimage.click/)
 
-[开源](https://github.com/chilohwei/watermark-tool)的图片加水印网页：
+允许用户通过选择专业模板、自定义背景、渐变、网格叠加、噪声等属性来快速生成适用于社交媒体平台（如 Twitter、Facebook 和 LinkedIn）的吸引人的分享图片。用户可以无需注册即可免费使用所有功能，生成的图片可以导出为 PNG、JPEG 或 WebP 格式，并且支持多平台的优化尺寸。
 
-![watermark](https://images-1252557999.file.myqcloud.com/uPic/jiPUF2.png) 
+![ogimage](https://images-1252557999.file.myqcloud.com/uPic/WLVTc7.png) 
 
-### [yima.me](https://yima.me/)
+### [ai-llm-comparison](https://github.com/Ahmet-Dedeler/ai-llm-comparison)
 
-免费生成 `AI` 艺术二维码：
+该网站旨在为用户提供一个比较各种 AI 模型的平台，帮助用户根据自己的需求选择最合适的 AI 服务：
 
-![yima](https://images-1252557999.file.myqcloud.com/uPic/yima.png) 
+![ai-llm-comparison](https://images-1252557999.file.myqcloud.com/uPic/SO7NW7.png) 
 
 ## ✍️ 说明
 
