@@ -5,109 +5,93 @@
 
 ## 🎯 项目 
 
-### [talebook](https://github.com/talebook/talebook)
+### [cmdb](https://github.com/veops/cmdb)
 
-这是一个基于Calibre的简单的个人图书管理系统，支持在线阅读。主要特点是：
+运维配置管理数据库，主要用来存放如服务器、应用等运维资产以及它们间的关系，是运维的权威数据库。主要功能包括模型管理和资源的查询，模型管理运维人员可以按照公司的内部的运维场景自己合理的设计，然后通过Agent自动上报和人工批量手动录入的方式写入模型对应的数据。对其他系统提供Restful API，便于做一些成本核算之类的工作。
 
-- 美观的界面：由于Calibre自带的网页太丑太难用，于是基于Vue，独立编写了新的界面，支持PC访问和手机浏览；
-- 支持多用户：为了网友们更方便使用，开发了多用户功能，支持豆瓣（已废弃）、QQ、微博、Github等社交网站的登录；
-- 支持在线阅读：借助Readium.js 库，支持了网页在线阅读电子书；
-- 支持批量扫描导入书籍；
-- 支持邮件推送：可方便推送到Kindle；
-- 支持OPDS：可使用KyBooks等APP方便地读书；
-- 支持一键安装，网页版初始化配置，轻松启动网站；
-- 优化大书库时文件存放路径，可以按字母分类、或者文件名保持中文；
-- 支持快捷更新书籍信息：支持从百度百科、豆瓣搜索并导入书籍基础信息；
-- 支持私人模式：需要输入访问码，才能进入网站，便于小圈子分享网站；
+![cmdb](https://images-1252557999.file.myqcloud.com/uPic/cmdb.png) 
 
-![talebook](https://images-1252557999.file.myqcloud.com/uPic/VmLmag.png) 
+### [ui-buttons/core](https://github.com/ui-buttons/core)
 
-### [mind-map](https://github.com/wanglin2/mind-map)
+CSS 按钮样式集合，此项目实现了 100 种不同的现代化的样式按钮：
 
-在线版思维导图应用：
+![ui-buttons](https://images-1252557999.file.myqcloud.com/uPic/ui-buttons.png) 
 
-![mind-map](https://images-1252557999.file.myqcloud.com/uPic/mind-map.jpg) 
+### [naive-ui](https://github.com/tusen-ai/naive-ui)
 
-### [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
 
-最近很火的`AI Art` 生成模型：
-
-![stable-diffusion](https://images-1252557999.file.myqcloud.com/uPic/SMqeoF.jpg)
-
-还有可直接使用的的 `Web UI` 版本 `stable-diffusion-webui` ：
-
-- [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui)
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-
-![stable-diffusion-webui](https://images-1252557999.file.myqcloud.com/uPic/KwTGpC.jpg) 
+![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
 
 ## 🤖 软件 
 
-### [EpubPress](https://epub.press/)
+### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
 
-`EpubPress` 是一个适用于 `Chrome&Firefox` 的浏览器扩展，可以将您喜爱的网络内容转换为电子书：
+提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
 
-![EpubPress](https://images-1252557999.file.myqcloud.com/uPic/EpubPress.jpg) 
+![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
 
-### [LLMFarm](https://github.com/guinmoon/LLMFarm)
+### [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
 
-`LLMFarm` 是一款用于与大型语言模型（LLM）配合使用的iOS和MacOS应用程序，它允许您可以使用某些参数加载不同的 LLM：
+就像 Mac 上的 TextEdit 一样，但专注于于 Markdown。
 
-![LLMFarm](https://images-1252557999.file.myqcloud.com/uPic/LLMFarm.jpg) 
+`MarkEdit` 的特点：
+- 注重隐私：不收集任何用户数据
+- 原生：干净直观
+- 快速：轻松编辑10 MB文件
+- 轻量级：安装程序大小约为3 MB
 
-### [anyquery](https://github.com/julien040/anyquery)
+![MarkEdit](https://images-1252557999.file.myqcloud.com/uPic/MarkEdit.png) 
 
-`Anyquery` 是一个多功能的 `SQL` 查询引擎，支持对文件、数据库和多种应用程序（如 `Apple Notes、Notion` 等）进行查询，并且能够通过 `MCP` 协议与大语言模型（如 `ChatGPT、Claude` 等）连接，同时也可以作为 `MySQL` 服务器使用：
+### [onlook](https://github.com/onlook-dev/onlook)
 
-![anyquery](https://images-1252557999.file.myqcloud.com/uPic/bmdtIU.png) 
+> 设计师专属的 Cursor —— 一款开源、视觉优先的代码编辑器
+
+一个开源的、基于可视化编辑的代码编辑器，专为设计师而优化，旨在通过 AI 与浏览器内 DOM 的直接编辑功能，让用户能够在代码编辑器中进行设计和编码。
+
+使用 AI 在 Next.js + TailwindCSS 中构建网站、原型和设计。通过可视化编辑器直接在浏览器 DOM 中进行编辑。实时用代码进行设计。这是 Bolt.new、Lovable、V0、Replit Agent、Figma Make、Webflow 等产品的开源替代方案。
+
+![onlook](https://images-1252557999.file.myqcloud.com/uPic/b8LfDN.png) 
 
 ## 👀 资料 
 
-### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
 
-[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
+通过科学方法训练自己的身体，让自己更加健康：
 
-![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
+![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
 
-### [ScienceFictionCollection](https://github.com/VeejaLiu/ScienceFictionCollection)
+### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
 
-科幻小说作品集收集项目，包含以下作者的作品：
+一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
 
-- 刘慈欣 (Cixin Liu)
-- Frank Herbert (弗兰克・赫伯特)
-- Isaac Asimov (艾萨克・阿西莫夫)
-- Jules Gabriel Verne (儒勒・加布里埃尔・凡尔纳)
-- Mary Shelley (玛丽・雪莱)
-- Ray Douglas Bradbury (雷・道格拉斯・布拉德伯里)
-- Orson Scott Card (奥森・斯科特・卡德)
-- Ted Chiang (特德・姜)
-- Michael Swanwick (迈克尔・斯万维克) 
+### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
 
-### [Book-of-MLM](https://hcplab-sysu.github.io/Book-of-MLM/)
+针对新人的 `CSS` 入门级教程：
 
-本书以深入浅出的方式全面地介绍了多模态大模型的核心技术与典型应用，并围绕新一代人工智能技术范式，详细阐述了因果推理、世界模型、超级智能体与具身智能等前沿技术。希望本书能够为学术界和工业界提供一个清晰的视角，以帮助人工智能科研工作者更全面地了解多模态大模型的技术和新一代人工智能的发展方向。
+![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
 
-![Book-of-MLM](https://images-1252557999.file.myqcloud.com/uPic/Book-of-MLM.jpg) 
+在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
 
 ## 🕸 网站 
 
-### [红白机游戏盒](https://nes.heheda.top/ "红白机游戏盒")
+### [读书笔记](https://reading.geek-docs.com/)
 
-在线畅玩经典小游戏：
+网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
 
-![heheda](https://images-1252557999.file.myqcloud.com/uPic/heheda.jpg) 
+![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
 
-### [flow](https://github.com/pacexy/flow)
+### [ideogram.ai](https://ideogram.ai/)
 
-开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
+免费无次数限制的文字转图片网页：
 
-![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
+![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
 
-### [roadmap.sh](https://roadmap.sh/)
+### [batnoter](https://batnoter.com/)
 
-这是一个开源免费的项目，主要是提供了各种技术栈的学习路线：
+开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
 
-![roadmap](https://images-1252557999.file.myqcloud.com/uPic/roadmap.jpg) 
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
 
 ## ✍️ 说明
 
