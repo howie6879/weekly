@@ -5,93 +5,99 @@
 
 ## 🎯 项目 
 
-### [cmdb](https://github.com/veops/cmdb)
+### [metersphere](https://github.com/metersphere/metersphere)
 
-运维配置管理数据库，主要用来存放如服务器、应用等运维资产以及它们间的关系，是运维的权威数据库。主要功能包括模型管理和资源的查询，模型管理运维人员可以按照公司的内部的运维场景自己合理的设计，然后通过Agent自动上报和人工批量手动录入的方式写入模型对应的数据。对其他系统提供Restful API，便于做一些成本核算之类的工作。
+[MeterSphere](https://metersphere.io/) 是一站式开源持续测试平台, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter、Selenium` 等主流开源标准，有效助力开发和测试团队充分利用云弹性进行高度可扩展的自动化测试，加速高质量的软件交付：
 
-![cmdb](https://images-1252557999.file.myqcloud.com/uPic/cmdb.png) 
+![metersphere](https://images-1252557999.file.myqcloud.com/uPic/metersphere.jpeg) 
 
-### [ui-buttons/core](https://github.com/ui-buttons/core)
+### [CoverView](https://github.com/rutikwankhade/CoverView)
 
-CSS 按钮样式集合，此项目实现了 100 种不同的现代化的样式按钮：
+一个开源的快速制作文章封面图的工具。
 
-![ui-buttons](https://images-1252557999.file.myqcloud.com/uPic/ui-buttons.png) 
+![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
 
-### [naive-ui](https://github.com/tusen-ai/naive-ui)
+### [yft-design](https://github.com/dromara/yft-design)
 
-一个比较完整的 `Vue 3` 组件库，有超过 80 个组件，使用 TypeScript，速度快，可以[在线访问](https://www.naiveui.com/)：
+基于 `fabric.js` 的图片设计项目，使用 `Vue3 + TypeScript + Fabric.js + Element-Plus`，支持 文字、图片、形状、线条、二维码 、条形码几种最常用的元素类型，每一种元素都拥有高度可编辑能力，缩略图显示，模板，支持导出`json，svg, image`文件，支持 Docker 部署：
 
-![naiveui](https://images-1252557999.file.myqcloud.com/uPic/naiveui.jpg) 
+![yft-design](https://images-1252557999.file.myqcloud.com/uPic/yft-design.jpg) 
 
 ## 🤖 软件 
 
-### [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
+### [xplorer](https://github.com/kimlimjustin/xplorer)
 
-提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用：
+支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
 
-![7kvkAI](https://images-1252557999.file.myqcloud.com/uPic/7kvkAI.jpg) 
+- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
+- 现代化且易用
+- 多种格式文件预览，音频也可以
+- ...
 
-### [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
+![xplorer](https://images-1252557999.file.myqcloud.com/uPic/iLpUeJ.jpg)
 
-就像 Mac 上的 TextEdit 一样，但专注于于 Markdown。
+在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
 
-`MarkEdit` 的特点：
-- 注重隐私：不收集任何用户数据
-- 原生：干净直观
-- 快速：轻松编辑10 MB文件
-- 轻量级：安装程序大小约为3 MB
+### [yarr](https://github.com/nkanaev/yarr)
 
-![MarkEdit](https://images-1252557999.file.myqcloud.com/uPic/MarkEdit.png) 
+基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
 
-### [onlook](https://github.com/onlook-dev/onlook)
+```shell
+mkdir -p ./yarr/data
+docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
+```
 
-> 设计师专属的 Cursor —— 一款开源、视觉优先的代码编辑器
+总体来说还是挺简洁轻量的：
 
-一个开源的、基于可视化编辑的代码编辑器，专为设计师而优化，旨在通过 AI 与浏览器内 DOM 的直接编辑功能，让用户能够在代码编辑器中进行设计和编码。
+![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
 
-使用 AI 在 Next.js + TailwindCSS 中构建网站、原型和设计。通过可视化编辑器直接在浏览器 DOM 中进行编辑。实时用代码进行设计。这是 Bolt.new、Lovable、V0、Replit Agent、Figma Make、Webflow 等产品的开源替代方案。
+### [pot-desktop](https://github.com/pot-app/pot-desktop)
 
-![onlook](https://images-1252557999.file.myqcloud.com/uPic/b8LfDN.png) 
+🌈 一个跨平台的划词翻译软件，对标 Bob：
+
+![pot-desktop](https://images-1252557999.file.myqcloud.com/uPic/pot-desktop.jpg) 
 
 ## 👀 资料 
 
-### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
+### [howtheytest](https://github.com/abhivaikar/howtheytest)
 
-通过科学方法训练自己的身体，让自己更加健康：
+关于软件公司如何测试其软件的公共资源集合：
 
-![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
+![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
 
-### [design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn)
+### [动手实战人工智能](https://aibydoing.com/intro "动手实战人工智能")
 
-一份超全的设计模式指南，共包含 23 种设计模式的讲解，是开源项目[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)的中文版。 
+动手实战人工智能系列教程，希望从监督学习开始，带你入门机器学习和深度学习。
 
-### [css-tutorial](https://github.com/pengfeiw/css-tutorial)
+作者深入剖析和推导了每一个基础算法的原理，并将其数学过程清晰地呈现出来。同时，作者基于 Python 代码对公式进行了逐一对应的实现，让公式和代码紧密相连，帮助你深入理解算法的运作机制。
 
-针对新人的 `CSS` 入门级教程：
+![aibydoing](https://images-1252557999.file.myqcloud.com/uPic/aibydoing.jpg) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/EnSWJn.png)
+### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
 
-在线阅读地址见[css-tutorial](https://pengfeixc.com/tutorial/css/introduction)。 
+一本小书《带你入门前端工程》
+
+![](https://images-1252557999.file.myqcloud.com/uPic/e783TS.png) 
 
 ## 🕸 网站 
 
-### [读书笔记](https://reading.geek-docs.com/)
+### [aitdk](https://aitdk.com/zh-CN/)
 
-网站提供了各类型书籍的详细读书笔记，每篇笔记带有详细的思维导图：
+AI标题、描述和关键词生成器，为您的网站生成SEO友好的标题、描述和关键词：
 
-![reading](https://images-1252557999.file.myqcloud.com/uPic/nfN4XL.png) 
+![aitdk](https://images-1252557999.file.myqcloud.com/uPic/aitdk.jpg) 
 
-### [ideogram.ai](https://ideogram.ai/)
+### [confluence.org](https://confluence.org/)
 
-免费无次数限制的文字转图片网页：
+网站目标是访问世界上每一个经纬度为整数的交叉点，并在每个地点拍照记录：
 
-![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
+![confluence](https://images-1252557999.file.myqcloud.com/uPic/aDxPoP.png) 
 
-### [batnoter](https://batnoter.com/)
+### [iconfont](https://www.iconfont.cn/)
 
-开源自托管基于 `Markdown` 的在线笔记记录网站，用 `GitHub` 账号登录，可以把数据存储、同步到 `GitHub` 里：
+阿里巴巴矢量图标库：
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.gif) 
+![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
 
 ## ✍️ 说明
 
