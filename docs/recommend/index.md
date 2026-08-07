@@ -5,99 +5,93 @@
 
 ## 🎯 项目 
 
-### [metersphere](https://github.com/metersphere/metersphere)
+### [MinerU](https://github.com/opendatalab/MinerU)
 
-[MeterSphere](https://metersphere.io/) 是一站式开源持续测试平台, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter、Selenium` 等主流开源标准，有效助力开发和测试团队充分利用云弹性进行高度可扩展的自动化测试，加速高质量的软件交付：
+`MinerU` 是一款一站式、开源、高质量的数据提取工具，主要包含以下功能:
 
-![metersphere](https://images-1252557999.file.myqcloud.com/uPic/metersphere.jpeg) 
+- Magic-PDF PDF文档提取
+- Magic-Doc 网页与电子书提取
 
-### [CoverView](https://github.com/rutikwankhade/CoverView)
+对于有 PDF 转换 MD 需求的朋友可以尝试下：
 
-一个开源的快速制作文章封面图的工具。
+![MinerU](https://images-1252557999.file.myqcloud.com/uPic/MinerU.png) 
 
-![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
+### [sams_helper](https://github.com/sari3l/sams_helper)
 
-### [yft-design](https://github.com/dromara/yft-design)
+山姆全自动抢购：普通商品、保供套餐；支持优惠券、无货添加、数量修正、金额限制、超重拆分、黑白名单:
 
-基于 `fabric.js` 的图片设计项目，使用 `Vue3 + TypeScript + Fabric.js + Element-Plus`，支持 文字、图片、形状、线条、二维码 、条形码几种最常用的元素类型，每一种元素都拥有高度可编辑能力，缩略图显示，模板，支持导出`json，svg, image`文件，支持 Docker 部署：
+![sams_helper](https://images-1252557999.file.myqcloud.com/uPic/sams_helper.jpg) 
 
-![yft-design](https://images-1252557999.file.myqcloud.com/uPic/yft-design.jpg) 
+### [RustFS](https://github.com/rustfs/rustfs)
+
+`RustFS` 是一个使用 `Rust` 构建的高性能分布式对象存储软件，与 MinIO 一样，它具有简单性、S3 兼容性、开源特性以及对数据湖、AI 和大数据的支持等一系列优势。此外，与其他存储系统相比，它采用 Apache 许可证构建，拥有更好、更用户友好的开源许可证。由于以 Rust 为基础，RustFS 为高性能对象存储提供了更快的速度和更安全的分布式功能。
+
+- 高性能：使用 Rust 构建，确保速度和效率。
+- 分布式架构：可扩展且容错的设计，适用于大规模部署。
+- S3 兼容性：与现有 S3 兼容应用程序无缝集成。
+- 数据湖支持：针对大数据和 AI 工作负载进行了优化。
+- 开源：采用 Apache 2.0 许可证，鼓励社区贡献和透明度。
+- 用户友好：设计简单，易于部署和管理。 
 
 ## 🤖 软件 
 
-### [xplorer](https://github.com/kimlimjustin/xplorer)
+### [Bluesnooze](https://github.com/odlp/bluesnooze)
 
-支持用户自定义、开源的现代化文件浏览器，作者`kimlim`还是一名高中生，相关特性如下：
+使用 `Bluesnooze`，蓝牙连接会在 `Mac` 睡眠时关闭，并在 `Mac` 唤醒时打开:
 
-- 跨平台：支持 Windows、Linux、macOS 等主流桌面系统
-- 现代化且易用
-- 多种格式文件预览，音频也可以
-- ...
+![bluesnooze](https://images-1252557999.file.myqcloud.com/uPic/bluesnooze.png) 
 
-![xplorer](https://images-1252557999.file.myqcloud.com/uPic/iLpUeJ.jpg)
+### [copybook-generator](https://github.com/jaywcjlove/copybook-generator)
 
-在老胡的周刊（第005期）中介绍的 [filebrowser](https://github.com/filebrowser/filebrowser) 提供了网页端的文件管理方式，可以结合使用场景进行选择。 
+「宝宝字帖」是一款功能强大的字帖生成工具，专为满足不同用户的书写练习需求而设计：
 
-### [yarr](https://github.com/nkanaev/yarr)
+![copybook-generator](https://images-1252557999.file.myqcloud.com/uPic/copybook-generator.jpg) 
 
-基于 `Web` 的 `RSS` 阅读器，可使用 `Docker` 快速体验：
+### [LLPlayer](https://github.com/umlx5h/LLPlayer)
 
-```shell
-mkdir -p ./yarr/data
-docker run -it -p 7070:7070 -v $(pwd)/yarr/data:/data wbsu2003/yarr
-```
+`LLPlayer` 是一款专为语言学习而设计的媒体播放器，具备双字幕、AI 生成字幕、实时翻译等独特功能，`Windows` 专属。
 
-总体来说还是挺简洁轻量的：
-
-![yarr](https://images-1252557999.file.myqcloud.com/uPic/yarr.jpg) 
-
-### [pot-desktop](https://github.com/pot-app/pot-desktop)
-
-🌈 一个跨平台的划词翻译软件，对标 Bob：
-
-![pot-desktop](https://images-1252557999.file.myqcloud.com/uPic/pot-desktop.jpg) 
+![LLPlayer](https://images-1252557999.file.myqcloud.com/uPic/6t8Ue2.png) 
 
 ## 👀 资料 
 
-### [howtheytest](https://github.com/abhivaikar/howtheytest)
+### [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note)
 
-关于软件公司如何测试其软件的公共资源集合：
+从0开始学习英语语法的开源项目：
 
-![howtheytest](https://images-1252557999.file.myqcloud.com/uPic/howtheytest.jpg) 
+![english-note](https://images-1252557999.file.myqcloud.com/uPic/english-note.jpg) 
 
-### [动手实战人工智能](https://aibydoing.com/intro "动手实战人工智能")
+### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
 
-动手实战人工智能系列教程，希望从监督学习开始，带你入门机器学习和深度学习。
+Kubernetes 中文指南/云原生应用架构实战手册：
 
-作者深入剖析和推导了每一个基础算法的原理，并将其数学过程清晰地呈现出来。同时，作者基于 Python 代码对公式进行了逐一对应的实现，让公式和代码紧密相连，帮助你深入理解算法的运作机制。
+![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
 
-![aibydoing](https://images-1252557999.file.myqcloud.com/uPic/aibydoing.jpg) 
+### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
 
-### [introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)
+本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
 
-一本小书《带你入门前端工程》
-
-![](https://images-1252557999.file.myqcloud.com/uPic/e783TS.png) 
+![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
 
 ## 🕸 网站 
 
-### [aitdk](https://aitdk.com/zh-CN/)
+### [designer.microsoft.com](https://designer.microsoft.com/)
 
-AI标题、描述和关键词生成器，为您的网站生成SEO友好的标题、描述和关键词：
+基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
 
-![aitdk](https://images-1252557999.file.myqcloud.com/uPic/aitdk.jpg) 
+![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
 
-### [confluence.org](https://confluence.org/)
+### [linegraphmaker](https://linegraphmaker.co/)
 
-网站目标是访问世界上每一个经纬度为整数的交叉点，并在每个地点拍照记录：
+在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
 
-![confluence](https://images-1252557999.file.myqcloud.com/uPic/aDxPoP.png) 
+![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
 
-### [iconfont](https://www.iconfont.cn/)
+### [uilibhub](https://uilibhub.com/zh)
 
-阿里巴巴矢量图标库：
+探索最佳 `UI` 库，助力 `React & Vue` 高效开发：
 
-![iconfont](https://images-1252557999.file.myqcloud.com/uPic/iconfont.jpg) 
+![uilibhub](https://images-1252557999.file.myqcloud.com/uPic/uilibhub.jpg) 
 
 ## ✍️ 说明
 
