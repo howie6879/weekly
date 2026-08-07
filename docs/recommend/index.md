@@ -5,93 +5,85 @@
 
 ## 🎯 项目 
 
-### [MinerU](https://github.com/opendatalab/MinerU)
+### [linkding](https://github.com/sissbruecker/linkding)
 
-`MinerU` 是一款一站式、开源、高质量的数据提取工具，主要包含以下功能:
+开源的网络书签服务，支持 Docker 部署：
 
-- Magic-PDF PDF文档提取
-- Magic-Doc 网页与电子书提取
+![linkding](https://images-1252557999.file.myqcloud.com/uPic/linkding.png) 
 
-对于有 PDF 转换 MD 需求的朋友可以尝试下：
+### [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
 
-![MinerU](https://images-1252557999.file.myqcloud.com/uPic/MinerU.png) 
+BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。
 
-### [sams_helper](https://github.com/sari3l/sams_helper)
+![BiliBiliToolPro](https://images-1252557999.file.myqcloud.com/uPic/BiliBiliToolPro.jpg) 
 
-山姆全自动抢购：普通商品、保供套餐；支持优惠券、无货添加、数量修正、金额限制、超重拆分、黑白名单:
+### [PandaWiki](https://github.com/chaitin/PandaWiki)
 
-![sams_helper](https://images-1252557999.file.myqcloud.com/uPic/sams_helper.jpg) 
+PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索 等能力。
 
-### [RustFS](https://github.com/rustfs/rustfs)
-
-`RustFS` 是一个使用 `Rust` 构建的高性能分布式对象存储软件，与 MinIO 一样，它具有简单性、S3 兼容性、开源特性以及对数据湖、AI 和大数据的支持等一系列优势。此外，与其他存储系统相比，它采用 Apache 许可证构建，拥有更好、更用户友好的开源许可证。由于以 Rust 为基础，RustFS 为高性能对象存储提供了更快的速度和更安全的分布式功能。
-
-- 高性能：使用 Rust 构建，确保速度和效率。
-- 分布式架构：可扩展且容错的设计，适用于大规模部署。
-- S3 兼容性：与现有 S3 兼容应用程序无缝集成。
-- 数据湖支持：针对大数据和 AI 工作负载进行了优化。
-- 开源：采用 Apache 2.0 许可证，鼓励社区贡献和透明度。
-- 用户友好：设计简单，易于部署和管理。 
+![PandaWiki](https://images-1252557999.file.myqcloud.com/uPic/8YgiXm.png) 
 
 ## 🤖 软件 
 
-### [Bluesnooze](https://github.com/odlp/bluesnooze)
+### [gitbutler](https://github.com/gitbutlerapp/gitbutler)
 
-使用 `Bluesnooze`，蓝牙连接会在 `Mac` 睡眠时关闭，并在 `Mac` 唤醒时打开:
+Git 分支管理工具，从头开始构建，用于现代工作流：
 
-![bluesnooze](https://images-1252557999.file.myqcloud.com/uPic/bluesnooze.png) 
+![gitbutler](https://images-1252557999.file.myqcloud.com/uPic/gitbutler.jpg) 
 
-### [copybook-generator](https://github.com/jaywcjlove/copybook-generator)
+### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
 
-「宝宝字帖」是一款功能强大的字帖生成工具，专为满足不同用户的书写练习需求而设计：
+基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
 
-![copybook-generator](https://images-1252557999.file.myqcloud.com/uPic/copybook-generator.jpg) 
+![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
 
-### [LLPlayer](https://github.com/umlx5h/LLPlayer)
+### [qinglong_app](https://github.com/relax976/qinglong_app)
 
-`LLPlayer` 是一款专为语言学习而设计的媒体播放器，具备双字幕、AI 生成字幕、实时翻译等独特功能，`Windows` 专属。
+之前推荐过 [qinglong](https://github.com/whyour/qinglong)（一款支持python3、javaScript、shell、typescript 的定时任务管理软件），这是青龙面板开源的第三方APP，之前都是要付费，现在免费开源开放出来了：
 
-![LLPlayer](https://images-1252557999.file.myqcloud.com/uPic/6t8Ue2.png) 
+![ql_app](https://images-1252557999.file.myqcloud.com/uPic/ql_app.jpg) 
 
 ## 👀 资料 
 
-### [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note)
+### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 
-从0开始学习英语语法的开源项目：
+本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
 
-![english-note](https://images-1252557999.file.myqcloud.com/uPic/english-note.jpg) 
+![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
 
-### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
+### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
 
-Kubernetes 中文指南/云原生应用架构实战手册：
+对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
 
-![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
+### [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
-### [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)
+《Python for Data Analysis》第三版，该书详细介绍了如何使用 `Python` 进行数据分析和数据处理的方法和技巧，适合那些希望使用Python进行数据分析的初学者和有经验的数据分析师：
 
-本指南是关于 `Stable Diffusion WebUi` 的使用及围绕相关技术展开的应用指导型 `Wiki`，访问地址 [stable-diffusion-book](https://stable-diffusion-book.vercel.app/)：
-
-![StableDiffusionBook](https://images-1252557999.file.myqcloud.com/uPic/StableDiffusionBook.jpg) 
+![wesmckinney](https://images-1252557999.file.myqcloud.com/uPic/wesmckinney.jpg) 
 
 ## 🕸 网站 
 
-### [designer.microsoft.com](https://designer.microsoft.com/)
+### [myfirstnft](https://myfirstnft.info/)
 
-基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
+我的第一个NFT，在这个网站，你可以：
 
-![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
+- 理解NFT的价值
+- 铸造一个免费的NFT
+- 了解Web3.0
 
-### [linegraphmaker](https://linegraphmaker.co/)
+![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
 
-在线图表制作工具，支持折线图、柱形图、饼图、雷达图等多种类型：
+### [alternativeto](https://alternativeto.net/)
 
-![linegraphmaker](https://images-1252557999.file.myqcloud.com/uPic/linegraphmaker.jpg) 
+让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
 
-### [uilibhub](https://uilibhub.com/zh)
+![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
 
-探索最佳 `UI` 库，助力 `React & Vue` 高效开发：
+### [jpghi](https://jpghi.com/)
 
-![uilibhub](https://images-1252557999.file.myqcloud.com/uPic/uilibhub.jpg) 
+jpgHi 支持各种类型图片高清无损放大，为模糊不清的图片增加极致细节，提升图片质感：
+
+![jpghi](https://images-1252557999.file.myqcloud.com/uPic/jpghi.jpg) 
 
 ## ✍️ 说明
 
