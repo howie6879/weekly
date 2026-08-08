@@ -5,85 +5,91 @@
 
 ## 🎯 项目 
 
-### [linkding](https://github.com/sissbruecker/linkding)
+### [QRec](https://github.com/Coder-Yu/QRec)
 
-开源的网络书签服务，支持 Docker 部署：
+Python编写的推荐系统快速实践框架（基于TF），和之前推荐的[gorse](https://weekly.howie6879.com/2021/11-15~11-21.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC014%E6%9C%9F%EF%BC%89.html?h=%E6%8E%A8%E8%8D%90#gorse)有点类似，但不同的是QRec提供了领先的推荐系统模型用于实践。 
 
-![linkding](https://images-1252557999.file.myqcloud.com/uPic/linkding.png) 
+### [nexus-terminal](https://github.com/Heavrnl/nexus-terminal)
 
-### [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
+一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。
 
-BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。
+![nexus-terminal](https://images-1252557999.file.myqcloud.com/uPic/d56IVQ.png) 
 
-![BiliBiliToolPro](https://images-1252557999.file.myqcloud.com/uPic/BiliBiliToolPro.jpg) 
+### [aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse/)
 
-### [PandaWiki](https://github.com/chaitin/PandaWiki)
-
-PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索 等能力。
-
-![PandaWiki](https://images-1252557999.file.myqcloud.com/uPic/8YgiXm.png) 
+本项目则直接通过 FUSE 实现将阿里云盘挂载为本地磁盘，非常好用，我是这个项目作者的粉丝。 
 
 ## 🤖 软件 
 
-### [gitbutler](https://github.com/gitbutlerapp/gitbutler)
+### [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)
 
-Git 分支管理工具，从头开始构建，用于现代工作流：
+一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制：
 
-![gitbutler](https://images-1252557999.file.myqcloud.com/uPic/gitbutler.jpg) 
+![AlgerMusicPlayer](https://images-1252557999.file.myqcloud.com/uPic/F3RBkY.png) 
 
-### [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
+### [tuboshu](https://github.com/deepshit2025/tuboshu)
 
-基于 `Windows` 的快速文件搜索和应用程序启动器，社区也提供了丰富的插件：
+一款桌面应用转换工具，让你用快捷键魔法般控制任何网页应用：
 
-![flow_launcher](https://images-1252557999.file.myqcloud.com/uPic/flow_launcher.jpg) 
+- 🔥 一键网页转应用 - 将任何网站变成独立的桌面应用
+- 🚀 账户多开 - 网站可以多开，支持账户隔离，独立运行互不干扰
+- ⚡️ 闪电切换 - 全局快捷键快速显示/隐藏（默认 Ctrl/Cmd + H）
+- 🎨 深度定制 - 自定义窗口尺寸、图标、快捷键,支持JS注入，定制专属自己的页面
+- 📦 便携打包 - 生成可执行文件（支持 Windows/macOS/Linux）
+- 🔒 隐私保护 - 本地存储配置数据，无需云端同步
+- 🌍 多平台支持 - 完美运行于主流操作系统
+- 🎮无需复杂配置即可自由添加站点
 
-### [qinglong_app](https://github.com/relax976/qinglong_app)
+![tuboshu](https://images-1252557999.file.myqcloud.com/uPic/d1GxMj.png) 
 
-之前推荐过 [qinglong](https://github.com/whyour/qinglong)（一款支持python3、javaScript、shell、typescript 的定时任务管理软件），这是青龙面板开源的第三方APP，之前都是要付费，现在免费开源开放出来了：
+### [Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT)
 
-![ql_app](https://images-1252557999.file.myqcloud.com/uPic/ql_app.jpg) 
+一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频:
+
+![Chenyme-AAVT](https://images-1252557999.file.myqcloud.com/uPic/Chenyme-AAVT.jpg) 
 
 ## 👀 资料 
 
-### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
+### [统计学自学指南](https://xuankaiwang.github.io/)
 
-本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
+这是一本统计的自学指南, 也是作者在数院自学生涯的一个纪念：
 
-![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
+![XuankaiWang](https://images-1252557999.file.myqcloud.com/uPic/XuankaiWang.jpg) 
 
-### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
+### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
 
-对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
+深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
 
-### [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+### [大李敖全集5.0](https://books.leeao.net/)
 
-《Python for Data Analysis》第三版，该书详细介绍了如何使用 `Python` 进行数据分析和数据处理的方法和技巧，适合那些希望使用Python进行数据分析的初学者和有经验的数据分析师：
+大李敖全集：
 
-![wesmckinney](https://images-1252557999.file.myqcloud.com/uPic/wesmckinney.jpg) 
+![leeao](https://images-1252557999.file.myqcloud.com/uPic/UDFeW1.png) 
 
 ## 🕸 网站 
 
-### [myfirstnft](https://myfirstnft.info/)
+### [deepseek-r1-online.com](https://deepseek-r1-online.com/chat/)
 
-我的第一个NFT，在这个网站，你可以：
+免费的满血 `deepseek-r1` 在线版，[老胡 DeepSeek 信息交流群](https://mp.weixin.qq.com/s/dPicExymBomcksvijPNNKg)友情提供共享，放心使用：
 
-- 理解NFT的价值
-- 铸造一个免费的NFT
-- 了解Web3.0
+![deepseek-r1-online.co](https://images-1252557999.file.myqcloud.com/uPic/xrfA9j.png)
 
-![myfirstnft](https://images-1252557999.file.myqcloud.com/uPic/myfirstnft.jpg) 
+老胡也顺便整理了一些教程：
 
-### [alternativeto](https://alternativeto.net/)
+- [简单教程: 两步获取专属满血 DeepSeek-R1](https://mp.weixin.qq.com/s/dPicExymBomcksvijPNNKg)
+- [DeepSeek-R1 联网功能实现方案攻略](https://www.biji.com/note/1867969552567120872/web) 
 
-让你使用的工具多一种选择，比如一些付费软件，有没有同类型比较优秀的产品：
+### [ray.so](https://ray.so/)
 
-![alternativeto](https://images-1252557999.file.myqcloud.com/uPic/alternativeto.jpg) 
+之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
 
-### [jpghi](https://jpghi.com/)
+![ray.so](https://images-1252557999.file.myqcloud.com/uPic/ray.so.jpg) 
 
-jpgHi 支持各种类型图片高清无损放大，为模糊不清的图片增加极致细节，提升图片质感：
+### [upstract](https://upstract.com/)
 
-![jpghi](https://images-1252557999.file.myqcloud.com/uPic/jpghi.jpg) 
+比较全面的新闻聚合平台：
+
+![upstract](https://images-1252557999.file.myqcloud.com/uPic/upstract.jpg) 
 
 ## ✍️ 说明
 
