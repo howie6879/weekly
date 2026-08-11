@@ -5,89 +5,106 @@
 
 ## 🎯 项目 
 
-### [daedalOS](https://github.com/DustinBrett/daedalOS)
+### [memos](https://github.com/justmemos/memos)
 
-`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
+Memos 是一款开源的 [flomo](https://flomoapp.com/) （下面网页项目推荐有介绍）替代工具，为了快速方便的部署属于自己的碎片化知识管理工具。
 
-![daedalOS](https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png) 
+**🎯 产品意图**:
 
-### [SubsTracker](https://github.com/wangwangit/SubsTracker)
+- 📅 用于记录：每日/周计划、💡  突发奇想、📕  读后感...
+- 🏗️ 代替了微信“文件传输助手”
+- 📒 打造一个属于自己的轻量化“卡片”笔记簿。 
 
-基于 `Cloudflare Workers` 的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过 `Telegram` 发送及时提醒：
+### [jspaint](https://github.com/1j01/jspaint)
 
-- 订阅管理：添加、编辑、删除各类订阅服务
-- 智能提醒：自定义提前提醒天数，自动续订计算
-- 农历显示：支持农历日期显示，可控制开关
-- 状态管理：订阅启用/停用，过期状态自动识别
+怀旧画板项目，`JS Paint` 高度逼真地再现了 `MS Paint` 的每一个工具和菜单，甚至是鲜为人知的功能，它支持主题、附加文件类型和辅助功能，如眼睛凝视模式和语音识别：
 
-![SubsTracker](https://images-1252557999.file.myqcloud.com/uPic/K7RxtO.png) 
+![jspaint](https://images-1252557999.file.myqcloud.com/uPic/jspaint.jpg)
 
-### [go-daily-lib](https://github.com/darjun/go-daily-lib)
+直接在线体验 👉 [jspaint.app](https://jspaint.app/) 
 
-每天学习一个 Go 语言库，内容质量相当高。
+### [dbsyncer](https://github.com/86dbs/dbsyncer)
 
-![go-daily-lib](https://images-1252557999.file.myqcloud.com/uPic/4Ippyf.png) 
+`DBSyncer`（简称dbs）是一款开源的数据同步中间件，提供`MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL`等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
+
+- 组合驱动，自定义库同步到库组合，关系型数据库与非关系型之间组合，任意搭配表同步映射关系
+- 实时监控，驱动全量或增量实时同步运行状态、结果、同步日志和系统日志
+- 开发插件，自定义转化同步逻辑
+
+![dbsyncer](https://images-1252557999.file.myqcloud.com/uPic/dbsyncer.webp) 
 
 ## 🤖 软件 
 
-### [wiliwili](https://github.com/xfangfang/wiliwili)
+### [Seal](https://github.com/JunkFood02/Seal)
 
-专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和 `Nintendo Switch` 上：
+一个简单的 `Android` 视频/音频下载器，使用 `Jetpack Compose` 进行开发：
 
-![wiliwili](https://images-1252557999.file.myqcloud.com/uPic/wiliwili.jpeg) 
+- 从  [yt-dlp](https://github.com/yt-dlp/yt-dlp)  所支持的数千个视频平台下载视频与音频
+- 提取媒体元数据与专辑封面，调用  [mutagen](https://github.com/quodlibet/mutagen)  嵌入到提取的音频文件中
+- 播放列表下载支持
+- 内嵌字幕于视频文件中
+- 执行自定义的 yt-dlp 命令模板
+- 管理应用内下载与自定义命令模板
+- 使用简单、用户友好
+- 遵循  [Material Design 3](https://m3.material.io/)  设计规范，实现了  [动态色彩](https://m3.material.io/foundations/customization)  主题的应用界面
+- MAD：完全使用 Kotlin 构造界面与编写逻辑，单 Activity + Compose Navigation 应用结构
+    
+![Seal](https://images-1252557999.file.myqcloud.com/uPic/Seal.jpg) 
 
-### [milky-warp](https://github.com/hugoattal/milky-warp)
+### [LLPlayer](https://github.com/umlx5h/LLPlayer)
 
-`Milky Warp` 是一个开源工具，技术栈是 `Tauri、Vite、Vue、Typescript`，核心功能就是按下快捷键时会显示一个放大镜：
+`LLPlayer` 是一款专为语言学习而设计的媒体播放器，具备双字幕、AI 生成字幕、实时翻译等独特功能，`Windows` 专属。
 
-- 按下可配置的快捷键时显示放大镜
-- 支持使用鼠标滚轮进行放大和缩小
-- 跨平台：可在Windows、macOS和Linux上运行
+![LLPlayer](https://images-1252557999.file.myqcloud.com/uPic/6t8Ue2.png) 
 
-![milky-warp](https://images-1252557999.file.myqcloud.com/uPic/milky-warp.gif) 
+### [JetBrains Fleet](https://www.jetbrains.com/fleet/#distributive)
 
-### [staxrip](https://github.com/staxrip/staxrip)
+JetBrains 的下一代 IDE：
 
-`StaxRip` 是一个强大的用于 `Windows` 的视频/音频编码图形用户界面。
-它执行和控制诸如 `x265、mkvmerge、ffmpeg` 等控制台应用程序，并使用基于脚本的帧服务器 A`viSynth+和VapourSynth` 进行视频处理。每个项目还可以通过各种事件和设置进行扩展：
-
-![staxrip](https://images-1252557999.file.myqcloud.com/uPic/staxrip.jpg) 
+![fleet](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6165663082735579054-y.jpg) 
 
 ## 👀 资料 
 
-### [The Prompt Report: A Systematic Survey of Prompt Engineering Techniques](https://arxiv.org/abs/2406.06608)
+### [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
 
-这篇论文提供了关于生成人工智能系统中提示工程技术的全面调查报告，旨在建立对提示工程的结构化理解，提供了 33 个术语的详细词汇表、58 种大型语言模型提示技术的分类法以及其他模态的 40 种技术，并给出了提示工程的最佳实践和指导方针。 
+《Anthropic Cookbook》提供了旨在帮助开发人员与Claude一起构建的代码和指南，提供可复制的代码片段，您可以轻松地将其集成到自己的项目中。 
 
-### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
+### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
-精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
+这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
 
-### [one-python-craftsman](https://github.com/piglei/one-python-craftsman)
+![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
 
-来自一位 `Pythonista` 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面：
+### [Docker 从入门到实践](https://github.com/yeasy/docker_practice)
 
-![one-python-craftsman](https://images-1252557999.file.myqcloud.com/uPic/one-python-craftsman.jpg) 
+本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍包括数据管理、网络等高级操作；第 10 ~ 12 章介绍了容器生态中的几个核心项目；13、14 章讨论了关于 Docker 安全和实现技术等高级话题。后续章节则分别介绍包括 Etcd、Fedora CoreOS、Kubernetes、容器云等相关热门开源项目。最后，还展示了使用容器技术的典型的应用场景和实践案例。
+
+![docker_practice](https://images-1252557999.file.myqcloud.com/uPic/GFlVsV.png) 
 
 ## 🕸 网站 
 
-### [emojiall](https://www.emojiall.com/)
+### [vue-color-avatar](https://vue-color-avatar.vercel.app/)
 
-网站提供了最新、完整的 `Emoji` 搜索和相关信息， 包括表情符号含义、使用示例、`Unicode` 代码点、高分辨率图片、复制和粘贴， 以及 `Emoji` 大数据排名等：
+`Vue3 + Vite` 开发的纯前端在线头像生成网站，具有如下功能：
 
-![emojiall](https://images-1252557999.file.myqcloud.com/uPic/emojiall.jpg) 
+- 可视化组件配置栏
+- 随机生成头像，有一定概率触发彩蛋
+- 撤销/还原*更改*
+- 国际化多语言
 
-### [selfh](https://selfh.st/)
+![vue-color-avatar](https://images-1252557999.file.myqcloud.com/uPic/n3gXb6.png) 
 
-网站提供了可自建项目的动态，每周更新：
+### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
 
-![selfh](https://images-1252557999.file.myqcloud.com/uPic/jVlzyp.png) 
+配置高性能、安全、稳定的NGINX服务器的最简单方法：
 
-### [22.do](https://22.do/)
+![nginx_web](https://images-1252557999.file.myqcloud.com/uPic/N7Yp8R.png) 
 
-一次性 `Gmail` 临时邮箱：
+### [huggingface-spaces](https://huggingface.co/spaces)
 
-![22do](https://images-1252557999.file.myqcloud.com/uPic/22do.jpg) 
+`Hugging Face Spaces`  导航。内含 30 个 AI 分类，超 40 万个 Space，支持自然语言搜索功能：
+
+![huggingface-spaces](https://images-1252557999.file.myqcloud.com/uPic/jG93mK.png) 
 
 ## ✍️ 说明
 
