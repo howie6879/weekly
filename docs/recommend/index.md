@@ -5,101 +5,102 @@
 
 ## 🎯 项目 
 
-### [nginx-ui](https://github.com/0xJacky/nginx-ui)
+### [500lines](https://github.com/aosabook/500lines)
 
-Nginx 后台管理UI：
+如果工作中用`Python`比较多的朋友，应该会听过[500lines](https://github.com/aosabook/500lines)项目，它是**aosabook**项目（下面网站部分有介绍）的第四本书。
 
-- 在线查看服务器 CPU、内存、系统负载、磁盘使用率等指标
-- 在线 ChatGPT 助理
-- 一键申请和自动续签 Lets encrypt 证书
-- 在线编辑 Nginx 配置文件，编辑器支持 Nginx 配置语法高亮
-- 在线查看 Nginx 日志
-- 使用 Go 和 Vue 开发，发行版本为单个可执行的二进制文件
-- 保存配置后自动测试配置文件并重载 Nginx
-- 基于网页浏览器的高级命令行终端
-- 支持深色模式
-- 自适应网页设计
+这个项目由 18 个独立的章节组成，每个章节都是由该领域的大牛完成，每个章节都试图用 500 行或者更少的代码，让大家了解一个功能或需求的简单实现，比如有：
 
-![nginx-ui](https://images-1252557999.file.myqcloud.com/uPic/nginx-ui.png) 
+- 持续集成系统
+- 分布式系统
+- 异步爬虫
+- 等等
 
-### [xqdoo00o-chatgpt-web](https://github.com/xqdoo00o/chatgpt-web)
+如果想阅读中文，见[500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)项目，但是还没有完全翻译完毕。 
 
-纯 `JS` 实现的 `ChatGPT` 项目，基于 `OpenAI API`，其优势在于可以直接部署一个 `HTML` 文件即可，轻量实用：
+### [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion)
 
-![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
+在 `MacOS` 上运行原生的 `Stable Diffusion`，本应用内置 `Apple` 的 `Core ML Stable Diffusion` 框架 以实现在搭载 `Apple` 芯片的 `Mac` 上用极低的内存占用发挥出最优性能：
 
-### [law-cn-ai](https://github.com/lvwzhen/law-cn-ai)
+- 极致性能和极低内存占用 (使用神经网络引擎时 ~150MB)
+- 在所有搭载 Apple 芯片的 Mac 上充分发挥神经网络引擎的优势
+- 生成图像时无需联网
+- 图像转图像（也被称为 Image2Image）
+- 在图像的 EXIF 信息中存储所有的关键词（在访达的“显示简介”窗口中查看）
+- 使用 RealESRGAN 放大生成的图像
+- 自动保存 & 恢复图像
+- 自定义 Stable Diffusion Core ML 模型
+- 无需担心损坏的模型
+- 使用 macOS 原生框架 SwiftUI 开发
 
-AI 法律助手:
+![MochiDiffusion](https://images-1252557999.file.myqcloud.com/uPic/MochiDiffusion.jpg) 
 
-![law-cn-ai](https://images-1252557999.file.myqcloud.com/uPic/law-cn-ai.jpg)
+### [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
 
-也可以[在线](https://law-cn-ai.vercel.app/)访问。 
+`HackBrowserData` 是一个浏览器数据（密码|历史记录|Cookie|书签|信用卡|下载记录|localStorage|浏览器插件）的导出工具，支持全平台主流浏览器：
+
+![webhbd](https://images-1252557999.file.myqcloud.com/uPic/webhbd.png) 
 
 ## 🤖 软件 
 
-### [MonitorControl](https://github.com/MonitorControl/MonitorControl)
+### [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
-控制外部显示器的亮度和音量（macOS）：
+使用**HWID/Ohook/KMS38/在线KMS**激活方法的 Windows 和 Office 激活工具，注重开源代码和较少的杀毒软件检测：
 
-![MonitorControl](https://images-1252557999.file.myqcloud.com/uPic/MonitorControl.png) 
+![Microsoft-Activation-Scripts](https://images-1252557999.file.myqcloud.com/uPic/Microsoft-Activation-Scripts.jpg) 
 
-### [MiaoYan](https://github.com/tw93/MiaoYan)
+### [Hiddify](https://github.com/hiddify/hiddify-next)
 
-轻灵的 Markdown 笔记本伴你写出妙言：
+挺好用的网络代理软件，现在主用这个：
 
-- 🪂  **妙**：纯本地使用、安全、语法高亮、黑暗模式、源文件保存、国际化、演示模式、[PPT 模式](https://github.com/tw93/MiaoYan#%E5%A6%99%E8%A8%80-ppt)、单独编辑模式、文档自动排版、文档导出、内部跳转、图床、LaTeX、Mermaid、PlantUML
-- 🐶  **美**：极简的设计风格，文件夹 \+ 文件列表 \+ 编辑器方式 3 列模式
-- 🏌🏽‍♂️  **快**：使用 Swift5 原生开发，相比 Web 套壳方式性能体验好
-- 🩴  **简**：很轻巧，纯编辑器输入体验，众多快捷键助你快人一步
+![hiddify](https://images-1252557999.file.myqcloud.com/uPic/hiddify.jpg) 
 
-![MiaoYan](https://images-1252557999.file.myqcloud.com/uPic/MiaoYan.gif) 
+### [ima.copilot](https://ima.qq.com/)
 
-### [CotEditor](https://github.com/coteditor/CotEditor)
+集成了腾讯混元大模型和 `DeepSeek R1` 模型的智能知识库软件，旨在通过智能搜索、阅读、写作助手等功能，提供全新的知识获取和内容创作体验：
 
-开源的`macOS` 纯文本编辑器：
-
-![CotEditor](https://images-1252557999.file.myqcloud.com/uPic/CotEditor.png) 
+![ima.copilot](https://images-1252557999.file.myqcloud.com/uPic/k9Uo6Y.png) 
 
 ## 👀 资料 
 
-### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+### [A Highly Agentic Coding Assistant](https://www.bilibili.com/video/BV1k1bBzTEF5/)
 
-该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+吴恩达的  Claude Code 视频教程中文版，课程核心在于全面教授如何使用 Claude Code 进行高效的软件开发工作，学完后您将掌握：
 
-![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
+- 基础技能掌握：深入学习 Claude Code 的核心功能，包括智能代码分析、自动化测试生成、代码重构优化以及高效调试技巧。
+- 扩展能力建设：学会集成 MCP 服务器来增强开发能力，重点掌握 Playwright 自动化测试和 Figma 设计协作工具的使用方法。 
 
-### [云安全攻防入门](https://lzcloudsecurity.gitbook.io/yun-an-quan-gong-fang-ru-men/)
+### [GolangStudy](https://github.com/cnymw/GolangStudy)
 
-关于云安全攻防的基础知识：
+《[GolangStudy](https://golangstudy.tech/)》：从简单到难最全总结，go基础，数据结构，算法，设计模式：
 
-![yun-an-quan-gong-fang-ru-men](https://images-1252557999.file.myqcloud.com/uPic/yun-an-quan-gong-fang-ru-men.jpg) 
+![GolangStudy](https://images-1252557999.file.myqcloud.com/uPic/GolangStudy.jpg) 
 
-### [MySQL&PG 数据库教程](https://www.sjkjc.com/mysql/)
+### developer-roadmap
 
-一个专门讲数据库教程的资料网站：
+开发人员学习成长路线图：
 
-![sjkjc](https://images-1252557999.file.myqcloud.com/uPic/sjkjc.jpg) 
+![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
 
 ## 🕸 网站 
 
-### [tailspark](https://tailspark.co/)
+### [aicolors](https://aicolors.co/)
 
-`300+` 免费的 `TailwindCSS` 组件和模板，让您在几分钟内构建网站，颜值也非常高：
+通过提示词，基于 AI 生成配色方案：
 
-![tailspark](https://images-1252557999.file.myqcloud.com/uPic/tailspark.jpg) 
+![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
 
-### [chess.com](https://www.chess.com/)
+### [AnyBT](https://anybt.eth.limo/)
 
-在线国际象棋：
+种子搜索引擎，下载你想要的资源：
 
-![chess](https://images-1252557999.file.myqcloud.com/uPic/chess.jpg) 
+![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
 
-### [书葵網](https://www.shukui.net/)
+### [emoji](https://github.com/cbh123/emoji)
 
-读者可以在此查询本馆的图书、期刊、古籍等信息。检索条件会自动匹配书名、作者、出版社、ISBN搜索，返回最优匹配结果：
+用人工智能制作表情符号，在线地址👉https://emojigen.com/：
 
-![shukui](https://images-1252557999.file.myqcloud.com/uPic/shukui.jpg) 
+![emojigen](https://images-1252557999.file.myqcloud.com/uPic/emojigen.jpg) 
 
 ## ✍️ 说明
 
