@@ -5,102 +5,118 @@
 
 ## 🎯 项目 
 
-### [500lines](https://github.com/aosabook/500lines)
+### [Navidrome](https://github.com/navidrome/navidrome)
 
-如果工作中用`Python`比较多的朋友，应该会听过[500lines](https://github.com/aosabook/500lines)项目，它是**aosabook**项目（下面网站部分有介绍）的第四本书。
+`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
 
-这个项目由 18 个独立的章节组成，每个章节都是由该领域的大牛完成，每个章节都试图用 500 行或者更少的代码，让大家了解一个功能或需求的简单实现，比如有：
+![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
 
-- 持续集成系统
-- 分布式系统
-- 异步爬虫
-- 等等
+### [glance](https://github.com/glanceapp/glance)
 
-如果想阅读中文，见[500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)项目，但是还没有完全翻译完毕。 
+`Glance` 可以将你所有的订阅源聚合到一个页面中，支持多种小部件，可以自定义主题：
 
-### [MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion)
+![glance](https://images-1252557999.file.myqcloud.com/uPic/glance.jpg) 
 
-在 `MacOS` 上运行原生的 `Stable Diffusion`，本应用内置 `Apple` 的 `Core ML Stable Diffusion` 框架 以实现在搭载 `Apple` 芯片的 `Mac` 上用极低的内存占用发挥出最优性能：
+### [LightBook](https://github.com/underthestars-zhy/LightBook)
 
-- 极致性能和极低内存占用 (使用神经网络引擎时 ~150MB)
-- 在所有搭载 Apple 芯片的 Mac 上充分发挥神经网络引擎的优势
-- 生成图像时无需联网
-- 图像转图像（也被称为 Image2Image）
-- 在图像的 EXIF 信息中存储所有的关键词（在访达的“显示简介”窗口中查看）
-- 使用 RealESRGAN 放大生成的图像
-- 自动保存 & 恢复图像
-- 自定义 Stable Diffusion Core ML 模型
-- 无需担心损坏的模型
-- 使用 macOS 原生框架 SwiftUI 开发
+开源的小说下载脚本项目，输出格式为 `EPUB`：
 
-![MochiDiffusion](https://images-1252557999.file.myqcloud.com/uPic/MochiDiffusion.jpg) 
-
-### [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
-
-`HackBrowserData` 是一个浏览器数据（密码|历史记录|Cookie|书签|信用卡|下载记录|localStorage|浏览器插件）的导出工具，支持全平台主流浏览器：
-
-![webhbd](https://images-1252557999.file.myqcloud.com/uPic/webhbd.png) 
+![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
 
 ## 🤖 软件 
 
-### [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+### [ponymusic](https://github.com/wangchenyan/ponymusic)
 
-使用**HWID/Ohook/KMS38/在线KMS**激活方法的 Windows 和 Office 激活工具，注重开源代码和较少的杀毒软件检测：
+使用「网易云音乐API」的安卓在线音乐播放器：
 
-![Microsoft-Activation-Scripts](https://images-1252557999.file.myqcloud.com/uPic/Microsoft-Activation-Scripts.jpg) 
+- 网易云音乐基本功能
+- 添加和播放本地音乐文件
+- 专辑封面显示
+- 歌词显示，支持拖动歌词调节播放进度
+- 通知栏控制
+- 夜间模式
+- 定时关闭
 
-### [Hiddify](https://github.com/hiddify/hiddify-next)
+![ponymusic](https://images-1252557999.file.myqcloud.com/uPic/ponymusic.jpg) 
 
-挺好用的网络代理软件，现在主用这个：
+### [v2ex](https://v2ex.com/)
 
-![hiddify](https://images-1252557999.file.myqcloud.com/uPic/hiddify.jpg) 
+`V2EX` 的使命是为创意工作者打造一个最好的社区，他们在这里可以获得灵感，分享想法，找到伙伴，获得通向目标的加速度，程序员群体必备，如果你不知道 `V2EX`，可以访问玩玩。
 
-### [ima.copilot](https://ima.qq.com/)
+开源客户端推荐：
 
-集成了腾讯混元大模型和 `DeepSeek R1` 模型的智能知识库软件，旨在通过智能搜索、阅读、写作助手等功能，提供全新的知识获取和内容创作体验：
+- [V2ex-Swift](https://github.com/Finb/V2ex-Swift)：比较老牌的 `V2EX IOS` 第三方客户端
+- [V2Compose](https://github.com/cooaer/V2Compose)：使用 `Compose` 构建的一个 `V2ex` 的 `Android` 客户端
+- [V2Fun](https://github.com/liaoliao666/v2ex)：`V2EX` 好看的第三方客户端（Android&IOS），支持夜间模式
+- [V2exOS](https://github.com/isaced/V2exOS)：一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端
+- [react-native-v2ex](https://github.com/funnyzak/react-native-v2ex)：
 
-![ima.copilot](https://images-1252557999.file.myqcloud.com/uPic/k9Uo6Y.png) 
+相关软件截图：
+
+![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png)
+
+![V2Compose](https://images-1252557999.file.myqcloud.com/uPic/V2Compose.jpg)
+
+![react-native-v2ex](https://images-1252557999.file.myqcloud.com/uPic/react-native-v2ex.jpeg) 
+
+### [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager "ContextMenuManager")
+
+纯粹的 `Windows` 右键菜单管理程序：
+
+- 启用或禁用文件、文件夹、新建、发送到、打开方式、自定义文件格式、IE 浏览器、WinX 等右键菜单项目
+- 对上述场景右键菜单项目进行修改名称、修改图标、导航注册表位置、导航文件位置、永久删除等操作
+- 对上述场景右键菜单自定义添加项目，自定义菜单命令
+
+![ContextMenuManager](https://images-1252557999.file.myqcloud.com/uPic/ContextMenuManager.png) 
 
 ## 👀 资料 
 
-### [A Highly Agentic Coding Assistant](https://www.bilibili.com/video/BV1k1bBzTEF5/)
+### [播客365（2024）](https://zgcrsd6xvj.feishu.cn/docx/IoOZdVNHXohjohxDiAkccq6Vnie)
 
-吴恩达的  Claude Code 视频教程中文版，课程核心在于全面教授如何使用 Claude Code 进行高效的软件开发工作，学完后您将掌握：
+本文讨论了2024年众多播客节目的丰富内容，涵盖商业、文化、生活、科技等多个领域 。关键要点包括：
 
-- 基础技能掌握：深入学习 Claude Code 的核心功能，包括智能代码分析、自动化测试生成、代码重构优化以及高效调试技巧。
-- 扩展能力建设：学会集成 MCP 服务器来增强开发能力，重点掌握 Playwright 自动化测试和 Figma 设计协作工具的使用方法。 
+- 商业领域：主播探究竞业协议由来与边界；提及美图2016年港股上市；蜜雪冰城和古茗递表港交所。
+- 文化领域：嘉宾探讨《桃花源记》《逍遥游》独特见解；28家出版社编辑推荐2024新书；主播分享汉字演变知识。
+- 生活领域：心理学家聊青少年厌学与心理健康；主播分享Vision Pro购买经历；介绍各地马拉松参赛体验。
+- 科技领域：主播畅聊数十款AI工具；指出AI大模型在闭环场景应用快，To B产品有优势 。 
 
-### [GolangStudy](https://github.com/cnymw/GolangStudy)
+### [building-llm-applications-from-scratch](https://github.com/hamzafarooq/building-llm-applications-from-scratch)
 
-《[GolangStudy](https://golangstudy.tech/)》：从简单到难最全总结，go基础，数据结构，算法，设计模式：
+该课程由 `Hamzafarooq` 大神提供，是一个关于如何构建基于大型语言模型（LLM）的应用程序的开源课程。该课程包括了29个详细的教程，涵盖了从M架构、搜索和检索技术，以及如何构建和部署LLM应用程。此外，还包括了6个现实世界的项目案例，以及关于如何进行有效的代码编写和模型部署的互动式直播会话。 
 
-![GolangStudy](https://images-1252557999.file.myqcloud.com/uPic/GolangStudy.jpg) 
+### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
 
-### developer-roadmap
-
-开发人员学习成长路线图：
-
-![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
+非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
 
 ## 🕸 网站 
 
-### [aicolors](https://aicolors.co/)
+### [kkdaxue](https://www.kkdaxue.com/)
 
-通过提示词，基于 AI 生成配色方案：
+高考志愿网站，发现各专业前辈们的学习建议：
 
-![aicolors](https://images-1252557999.file.myqcloud.com/uPic/aicolors.jpg) 
+![kkdaxue](https://images-1252557999.file.myqcloud.com/uPic/kkdaxue.jpg) 
 
-### [AnyBT](https://anybt.eth.limo/)
+### [json4u](https://json4u.cn/)
 
-种子搜索引擎，下载你想要的资源：
+一个功能非常强大的 json 可视化和处理工具，提供图形和表格视图模式，支持结构化和文本比较、错误上下文验证、嵌套解析等功能，并且具有用户友好的界面设计：
 
-![anybt](https://images-1252557999.file.myqcloud.com/uPic/anybt.jpg) 
+- 图形和表格视图模式
+- 结构化和文本比较
+- 使用错误上下文进行验证
+- 嵌套解析
+- 支持jq
+- 导入和导出CSV文件
+- 设计良好且易于使用的UI
 
-### [emoji](https://github.com/cbh123/emoji)
+![json4u](https://images-1252557999.file.myqcloud.com/uPic/gr5lnQ.png)
 
-用人工智能制作表情符号，在线地址👉https://emojigen.com/：
+代码是[开源](https://github.com/loggerhead/json4u/)的。 
 
-![emojigen](https://images-1252557999.file.myqcloud.com/uPic/emojigen.jpg) 
+### [historyline.online](https://github.com/liujuntao123/chines-history-video)
+
+中国历朝代历史视频讲解，汇聚了B站上综合数据（点赞，播放，投币，收藏）最高的一个/几个视频：
+
+![historyline](https://images-1252557999.file.myqcloud.com/uPic/historyline.jpg) 
 
 ## ✍️ 说明
 
