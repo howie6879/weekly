@@ -5,118 +5,96 @@
 
 ## 🎯 项目 
 
-### [Navidrome](https://github.com/navidrome/navidrome)
+### [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
 
-`Navidrome` 是一个自托管的开源音乐服务器和流媒体，它让您可以自由地从任何浏览器或移动设备收听您收藏的音乐：
+基于 `AI` 完整保留排版的 `PDF` 文档全文双语翻译，支持 `Google/DeepL/Ollama/OpenAI` 等服务，提供 `CLI/GUI/Docker`：
 
-![navidrome](https://images-1252557999.file.myqcloud.com/uPic/navidrome.jpg) 
+- 📊 保留公式、图表、目录和注释 (预览效果)
+- 🌐 支持 多种语言 和 诸多翻译服务
+- 🤖 提供 命令行工具，图形交互界面，以及 容器化部署
 
-### [glance](https://github.com/glanceapp/glance)
+![PDFMathTranslate](https://images-1252557999.file.myqcloud.com/uPic/m0zGEV.png) 
 
-`Glance` 可以将你所有的订阅源聚合到一个页面中，支持多种小部件，可以自定义主题：
+### [godoxy](https://github.com/yusing/godoxy)
 
-![glance](https://images-1252557999.file.myqcloud.com/uPic/glance.jpg) 
+轻巧、易用、高性能反向代理，带有主页和配置面板：
 
-### [LightBook](https://github.com/underthestars-zhy/LightBook)
+![godoxy](https://images-1252557999.file.myqcloud.com/uPic/7I4SVq.png) 
 
-开源的小说下载脚本项目，输出格式为 `EPUB`：
+### [paper-qa](https://github.com/whitead/paper-qa)
 
-![LightBook](https://images-1252557999.file.myqcloud.com/uPic/LightBook.jpeg) 
+用 `GPT-3` 来解读论文的开源项目：
+
+![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
 
 ## 🤖 软件 
 
-### [ponymusic](https://github.com/wangchenyan/ponymusic)
+### [Restfox](https://github.com/flawiddsouza/Restfox)
 
-使用「网易云音乐API」的安卓在线音乐播放器：
+可以理解成 `postman` 开源替代版本，支持网页跨平台，非常简洁，有插件体系，可以从 `postman` 导入数据：
 
-- 网易云音乐基本功能
-- 添加和播放本地音乐文件
-- 专辑封面显示
-- 歌词显示，支持拖动歌词调节播放进度
-- 通知栏控制
-- 夜间模式
-- 定时关闭
+![restfox](https://images-1252557999.file.myqcloud.com/uPic/restfox.jpg) 
 
-![ponymusic](https://images-1252557999.file.myqcloud.com/uPic/ponymusic.jpg) 
+### [winlator](https://github.com/brunodev85/winlator)
 
-### [v2ex](https://v2ex.com/)
+使用 `Wine & Box86/Box64` 的安卓应用程序，此项目特点是可以运行 `Windows` 应用程序。 
 
-`V2EX` 的使命是为创意工作者打造一个最好的社区，他们在这里可以获得灵感，分享想法，找到伙伴，获得通向目标的加速度，程序员群体必备，如果你不知道 `V2EX`，可以访问玩玩。
+### [RTranslator](https://github.com/niedev/RTranslator)
 
-开源客户端推荐：
+`RTransator` 是一个(几乎)开源的、免费的、离线的 `Android` 实时翻译应用程序。
 
-- [V2ex-Swift](https://github.com/Finb/V2ex-Swift)：比较老牌的 `V2EX IOS` 第三方客户端
-- [V2Compose](https://github.com/cooaer/V2Compose)：使用 `Compose` 构建的一个 `V2ex` 的 `Android` 客户端
-- [V2Fun](https://github.com/liaoliao666/v2ex)：`V2EX` 好看的第三方客户端（Android&IOS），支持夜间模式
-- [V2exOS](https://github.com/isaced/V2exOS)：一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端
-- [react-native-v2ex](https://github.com/funnyzak/react-native-v2ex)：
+连接到有这个应用程序的人，连接蓝牙耳机，把手机放在你的口袋里，你就可以像对方说你的语言一样进行交谈。
 
-相关软件截图：
-
-![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png)
-
-![V2Compose](https://images-1252557999.file.myqcloud.com/uPic/V2Compose.jpg)
-
-![react-native-v2ex](https://images-1252557999.file.myqcloud.com/uPic/react-native-v2ex.jpeg) 
-
-### [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager "ContextMenuManager")
-
-纯粹的 `Windows` 右键菜单管理程序：
-
-- 启用或禁用文件、文件夹、新建、发送到、打开方式、自定义文件格式、IE 浏览器、WinX 等右键菜单项目
-- 对上述场景右键菜单项目进行修改名称、修改图标、导航注册表位置、导航文件位置、永久删除等操作
-- 对上述场景右键菜单自定义添加项目，自定义菜单命令
-
-![ContextMenuManager](https://images-1252557999.file.myqcloud.com/uPic/ContextMenuManager.png) 
+![RTranslator](https://images-1252557999.file.myqcloud.com/uPic/RTranslator.jpg) 
 
 ## 👀 资料 
 
-### [播客365（2024）](https://zgcrsd6xvj.feishu.cn/docx/IoOZdVNHXohjohxDiAkccq6Vnie)
+### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
-本文讨论了2024年众多播客节目的丰富内容，涵盖商业、文化、生活、科技等多个领域 。关键要点包括：
+吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
 
-- 商业领域：主播探究竞业协议由来与边界；提及美图2016年港股上市；蜜雪冰城和古茗递表港交所。
-- 文化领域：嘉宾探讨《桃花源记》《逍遥游》独特见解；28家出版社编辑推荐2024新书；主播分享汉字演变知识。
-- 生活领域：心理学家聊青少年厌学与心理健康；主播分享Vision Pro购买经历；介绍各地马拉松参赛体验。
-- 科技领域：主播畅聊数十款AI工具；指出AI大模型在闭环场景应用快，To B产品有优势 。 
+- 学习应用开发所需的 prompt engineering 最佳实践
+- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
+- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
 
-### [building-llm-applications-from-scratch](https://github.com/hamzafarooq/building-llm-applications-from-scratch)
+![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
 
-该课程由 `Hamzafarooq` 大神提供，是一个关于如何构建基于大型语言模型（LLM）的应用程序的开源课程。该课程包括了29个详细的教程，涵盖了从M架构、搜索和检索技术，以及如何构建和部署LLM应用程。此外，还包括了6个现实世界的项目案例，以及关于如何进行有效的代码编写和模型部署的互动式直播会话。 
+### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 
-### [Classical-Modern](https://github.com/NiuTrans/Classical-Modern)
+以非常直观的语言介绍`pytorch`：
 
-非常全的文言文（古文）-现代文平行语料，基本涵盖了大部分经典古籍著作。 
+![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
+
+作者的同类电子书还有：
+
+- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+
+### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+
+每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
+
+![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
 
 ## 🕸 网站 
 
-### [kkdaxue](https://www.kkdaxue.com/)
+### [deepwiki](https://deepwiki.org/)
 
-高考志愿网站，发现各专业前辈们的学习建议：
+`DeepWiki` 旨为成为一个全球性的、为每个 `GitHub` 仓库提供可交流的文档服务的平台。它类似于 `Deep Research`，但专注于 `GitHub` 上的内容。`DeepWiki` 的目标是为开发者提供一个平台，上面可以轻松地为每个项目编写和交流文档：
 
-![kkdaxue](https://images-1252557999.file.myqcloud.com/uPic/kkdaxue.jpg) 
+![deepwiki](https://images-1252557999.file.myqcloud.com/uPic/KXEJcj.png) 
 
-### [json4u](https://json4u.cn/)
+### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
 
-一个功能非常强大的 json 可视化和处理工具，提供图形和表格视图模式，支持结构化和文本比较、错误上下文验证、嵌套解析等功能，并且具有用户友好的界面设计：
+老照片修复工具，同时还提供上色和去背景功能：
 
-- 图形和表格视图模式
-- 结构化和文本比较
-- 使用错误上下文进行验证
-- 嵌套解析
-- 支持jq
-- 导入和导出CSV文件
-- 设计良好且易于使用的UI
+![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
 
-![json4u](https://images-1252557999.file.myqcloud.com/uPic/gr5lnQ.png)
+### [calltoinspiration](https://calltoinspiration.com/)
 
-代码是[开源](https://github.com/loggerhead/json4u/)的。 
+根据不同 `UI` 下业务类型和方向进行分类，给用户展示不同效果以参考：
 
-### [historyline.online](https://github.com/liujuntao123/chines-history-video)
-
-中国历朝代历史视频讲解，汇聚了B站上综合数据（点赞，播放，投币，收藏）最高的一个/几个视频：
-
-![historyline](https://images-1252557999.file.myqcloud.com/uPic/historyline.jpg) 
+![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
 
 ## ✍️ 说明
 
