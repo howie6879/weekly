@@ -5,96 +5,93 @@
 
 ## 🎯 项目 
 
-### [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
+### [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 
-基于 `AI` 完整保留排版的 `PDF` 文档全文双语翻译，支持 `Google/DeepL/Ollama/OpenAI` 等服务，提供 `CLI/GUI/Docker`：
+`ChatGPT` 中文调教指南，各种场景使用指南，学习怎么让它听你的话：
 
-- 📊 保留公式、图表、目录和注释 (预览效果)
-- 🌐 支持 多种语言 和 诸多翻译服务
-- 🤖 提供 命令行工具，图形交互界面，以及 容器化部署
+![acpz](https://images-1252557999.file.myqcloud.com/uPic/acpz.jpg) 
 
-![PDFMathTranslate](https://images-1252557999.file.myqcloud.com/uPic/m0zGEV.png) 
+### [shiori](https://github.com/go-shiori/shiori)
 
-### [godoxy](https://github.com/yusing/godoxy)
+开源自部署的书签管理服务：
 
-轻巧、易用、高性能反向代理，带有主页和配置面板：
+![shiori](https://images-1252557999.file.myqcloud.com/uPic/shiori.jpg) 
 
-![godoxy](https://images-1252557999.file.myqcloud.com/uPic/7I4SVq.png) 
+### [AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)
 
-### [paper-qa](https://github.com/whitead/paper-qa)
+`AIClient2API`：模拟 `Gemini CLI Kiro` 客户端请求，兼容 `OpenAI API`。可每日千次Gemini模型请求， `免费使用Kiro` 内置 `Claude` 模型。通过 `API`  轻松接入任何客户端，让AI开发更高效！
 
-用 `GPT-3` 来解读论文的开源项目：
-
-![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
+![AIClient-2-API](https://images-1252557999.file.myqcloud.com/uPic/6DhrP3.png) 
 
 ## 🤖 软件 
 
-### [Restfox](https://github.com/flawiddsouza/Restfox)
+### [bdash](https://github.com/bdash-app/bdash)
 
-可以理解成 `postman` 开源替代版本，支持网页跨平台，非常简洁，有插件体系，可以从 `postman` 导入数据：
+用于数据分析的简单 `SQL` 客户端：
 
-![restfox](https://images-1252557999.file.myqcloud.com/uPic/restfox.jpg) 
+![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
 
-### [winlator](https://github.com/brunodev85/winlator)
+### [BingGPT](https://github.com/dice2o/BingGPT)
 
-使用 `Wine & Box86/Box64` 的安卓应用程序，此项目特点是可以运行 `Windows` 应用程序。 
+必应 GPT 聊天桌面应用程序：
 
-### [RTranslator](https://github.com/niedev/RTranslator)
+![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
 
-`RTransator` 是一个(几乎)开源的、免费的、离线的 `Android` 实时翻译应用程序。
+### [staxrip](https://github.com/staxrip/staxrip)
 
-连接到有这个应用程序的人，连接蓝牙耳机，把手机放在你的口袋里，你就可以像对方说你的语言一样进行交谈。
+`StaxRip` 是一个强大的用于 `Windows` 的视频/音频编码图形用户界面。
+它执行和控制诸如 `x265、mkvmerge、ffmpeg` 等控制台应用程序，并使用基于脚本的帧服务器 A`viSynth+和VapourSynth` 进行视频处理。每个项目还可以通过各种事件和设置进行扩展：
 
-![RTranslator](https://images-1252557999.file.myqcloud.com/uPic/RTranslator.jpg) 
+![staxrip](https://images-1252557999.file.myqcloud.com/uPic/staxrip.jpg) 
 
 ## 👀 资料 
 
-### [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
 
-吴恩达和 `OpenAI` 一起制作的关于 `ChatGPT Prompt Engineering` 的免费课程，该课程长度总共一个半小时左右，旨在帮助开发者们：
+Go语言实战: 编写可维护Go语言代码建议。 
 
-- 学习应用开发所需的 prompt engineering 最佳实践
-- 发现使用 LLM 的新方法，包括如何构建自己的自定义聊天机器人
-- 获得使用 OpenAI API 编写和迭代 prompt 的实践经验
+### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
 
-![chatgpt-prompt-engineering-for-developers](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-prompt-engineering-for-developers.jpg) 
+这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
 
-### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+- 👋 入门
+- 💬 大语言模型
+	- 💡 提示工程
+	- 🔧 大语言模型实践
+	- 🔬 大语言模型理论
+- 🎨 AI绘画
+- 🔊 AI音频
+- 🌈 多模态
+- 🧠 深度学习
+- 💻 AI系统 
 
-以非常直观的语言介绍`pytorch`：
+### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
-![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
+> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
 
-作者的同类电子书还有：
+本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
 
-- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
-
-### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
-
-每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识：
-
-![90DaysOfDevOps](https://images-1252557999.file.myqcloud.com/uPic/90DaysOfDevOps.jpg) 
+![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
 
 ## 🕸 网站 
 
-### [deepwiki](https://deepwiki.org/)
+### [uinotes](https://uinotes.com/)
 
-`DeepWiki` 旨为成为一个全球性的、为每个 `GitHub` 仓库提供可交流的文档服务的平台。它类似于 `Deep Research`，但专注于 `GitHub` 上的内容。`DeepWiki` 的目标是为开发者提供一个平台，上面可以轻松地为每个项目编写和交流文档：
+`UI Notes` 收集了大量线上优秀 `App` 的完整 `UI` 截图，只有落地设计没有飞机稿，你可以在这里探索 UI 设计的最新趋势、浏览竞品的产品设计、快速找到工作中需要的灵感：
 
-![deepwiki](https://images-1252557999.file.myqcloud.com/uPic/KXEJcj.png) 
+![uinotes](https://images-1252557999.file.myqcloud.com/uPic/uinotes.jpg) 
 
-### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
+### [daily-arXiv-ai-enhanced](https://dw-dengwei.github.io/daily-arXiv-ai-enhanced/)
 
-老照片修复工具，同时还提供上色和去背景功能：
+每天自动从 `arXiv` 抓取最新论文，并利用 `AI` 进行总结，同时通过 `GitHub Pages` 展示这些论文：
 
-![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
+![daily-arXiv-ai-enhanced](https://images-1252557999.file.myqcloud.com/uPic/0ICzFV.png) 
 
-### [calltoinspiration](https://calltoinspiration.com/)
+### [lexica.art](https://lexica.art/)
 
-根据不同 `UI` 下业务类型和方向进行分类，给用户展示不同效果以参考：
+可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
 
-![calltoinspiration](https://images-1252557999.file.myqcloud.com/uPic/calltoinspiration.jpg) 
+![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
 
 ## ✍️ 说明
 
