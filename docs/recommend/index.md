@@ -5,93 +5,91 @@
 
 ## 🎯 项目 
 
-### [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+### [yuque-tools](https://github.com/vannvan/yuque-tools)
 
-`ChatGPT` 中文调教指南，各种场景使用指南，学习怎么让它听你的话：
+玩转语雀-朴实无华的语雀工具集合，语雀知识库批量导出工具(无需Token)｜浏览器插件助手：
 
-![acpz](https://images-1252557999.file.myqcloud.com/uPic/acpz.jpg) 
+- 个人知识库
+- 空间(团队)知识库
+- 协作知识库
+- 小记 
 
-### [shiori](https://github.com/go-shiori/shiori)
+![yuque-tools](https://images-1252557999.file.myqcloud.com/uPic/yuque-tools.jpg) 
 
-开源自部署的书签管理服务：
+### [telegram-files](https://github.com/jarvis2f/telegram-files)
 
-![shiori](https://images-1252557999.file.myqcloud.com/uPic/shiori.jpg) 
+从 Telegram 频道和群组下载文件的开源项目，支持多账号并确保文件不会重复下载，具备下载暂停和继续的功能：
 
-### [AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)
+![telegram-files](https://images-1252557999.file.myqcloud.com/uPic/O7wvH0.png) 
 
-`AIClient2API`：模拟 `Gemini CLI Kiro` 客户端请求，兼容 `OpenAI API`。可每日千次Gemini模型请求， `免费使用Kiro` 内置 `Claude` 模型。通过 `API`  轻松接入任何客户端，让AI开发更高效！
+### [OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
 
-![AIClient-2-API](https://images-1252557999.file.myqcloud.com/uPic/6DhrP3.png) 
+这个项目是 `OOTDiffusion` 的官方实现，快速基于你上传的模特和图片生成产品效果图，AI 模特不是梦，点击 [ootd](https://ootd.ibot.cn/) 体验：
+
+![ootd](https://images-1252557999.file.myqcloud.com/uPic/ootd.jpg) 
 
 ## 🤖 软件 
 
-### [bdash](https://github.com/bdash-app/bdash)
+### [FlyEnv](https://github.com/xpf0000/FlyEnv)
 
-用于数据分析的简单 `SQL` 客户端：
+`FlyEnv` 是一个集成环境管理工具，支持 `macOS、Windows & Linux` 系统，提供多语言和技术栈支持，包括 PHP 工具、Web 服务器、数据库、邮件服务器等，简化了开发环境的配置和切换:
 
-![bdash](https://images-1252557999.file.myqcloud.com/uPic/bdash.png) 
+![FlyEnv](https://images-1252557999.file.myqcloud.com/uPic/WMQbSK.png) 
 
-### [BingGPT](https://github.com/dice2o/BingGPT)
+### [Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player)
 
-必应 GPT 聊天桌面应用程序：
+Ghosten Player 是一款同时适配 📱Android Phone 和 📺Android TV 的视频播放器(未来将支持 Windows 和 macOS)。整合影视资源，自动刮削媒体信息，支持IPTV播放，优雅打造私人影视库。 界面简洁，功能丰富，开箱即用。
 
-![BingGPT](https://images-1252557999.file.myqcloud.com/uPic/BingGPT.png) 
+![Ghosten-Player](https://images-1252557999.file.myqcloud.com/uPic/2LBxH1.png) 
 
-### [staxrip](https://github.com/staxrip/staxrip)
+### [fluent-reader](https://github.com/yang991178/fluent-reader)
 
-`StaxRip` 是一个强大的用于 `Windows` 的视频/音频编码图形用户界面。
-它执行和控制诸如 `x265、mkvmerge、ffmpeg` 等控制台应用程序，并使用基于脚本的帧服务器 A`viSynth+和VapourSynth` 进行视频处理。每个项目还可以通过各种事件和设置进行扩展：
+一款拥有现代化界面的RSS阅读器，拥有以下特性：
 
-![staxrip](https://images-1252557999.file.myqcloud.com/uPic/staxrip.jpg) 
+- 跨平台
+- 可同步自部署服务以及外部服务如：Inoreader, Feedbin
+- 支持OPML导入导出
+- 正则检索，状态管控，快捷键等
+
+![fluent-reader](https://images-1252557999.file.myqcloud.com/uPic/fluent-reader.png) 
 
 ## 👀 资料 
 
-### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
+### RustBook
 
-Go语言实战: 编写可维护Go语言代码建议。 
+一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
 
-### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
+![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg) 
 
-这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-- 👋 入门
-- 💬 大语言模型
-	- 💡 提示工程
-	- 🔧 大语言模型实践
-	- 🔬 大语言模型理论
-- 🎨 AI绘画
-- 🔊 AI音频
-- 🌈 多模态
-- 🧠 深度学习
-- 💻 AI系统 
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
+### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
 
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
-
-![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
+编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
 
 ## 🕸 网站 
 
-### [uinotes](https://uinotes.com/)
+### [读者阁](https://duzhege.cn/)
 
-`UI Notes` 收集了大量线上优秀 `App` 的完整 `UI` 截图，只有落地设计没有飞机稿，你可以在这里探索 UI 设计的最新趋势、浏览竞品的产品设计、快速找到工作中需要的灵感：
+可以在线阅读故事会、读者等杂志的网站：
 
-![uinotes](https://images-1252557999.file.myqcloud.com/uPic/uinotes.jpg) 
+![duzhege](https://images-1252557999.file.myqcloud.com/uPic/duzhege.jpg) 
 
-### [daily-arXiv-ai-enhanced](https://dw-dengwei.github.io/daily-arXiv-ai-enhanced/)
+### [22.do](https://22.do/)
 
-每天自动从 `arXiv` 抓取最新论文，并利用 `AI` 进行总结，同时通过 `GitHub Pages` 展示这些论文：
+一次性 `Gmail` 临时邮箱：
 
-![daily-arXiv-ai-enhanced](https://images-1252557999.file.myqcloud.com/uPic/0ICzFV.png) 
+![22do](https://images-1252557999.file.myqcloud.com/uPic/22do.jpg) 
 
-### [lexica.art](https://lexica.art/)
+### [theonestopradio](https://theonestopradio.com/)
 
-可以在这个网站搜索超过10M + `Stable Diffusion` 图像和 `Prompts`：
+发现你可能喜欢的电台：
 
-![lexica](https://images-1252557999.file.myqcloud.com/uPic/Bo0Qb9.jpg) 
+![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
 
 ## ✍️ 说明
 
