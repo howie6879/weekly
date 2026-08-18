@@ -5,91 +5,94 @@
 
 ## 🎯 项目 
 
-### [yuque-tools](https://github.com/vannvan/yuque-tools)
+### [wechat-export](https://github.com/luin/wechat-export)
 
-玩转语雀-朴实无华的语雀工具集合，语雀知识库批量导出工具(无需Token)｜浏览器插件助手：
+将微信聊天记录导出为HTML文件：
 
-- 个人知识库
-- 空间(团队)知识库
-- 协作知识库
-- 小记 
+![wechat-export](https://images-1252557999.file.myqcloud.com/uPic/eIhKUP.jpg) 
 
-![yuque-tools](https://images-1252557999.file.myqcloud.com/uPic/yuque-tools.jpg) 
+### [v2rayA](https://github.com/v2rayA/v2rayA)
 
-### [telegram-files](https://github.com/jarvis2f/telegram-files)
+`v2rayA` 是一个支持全局透明代理的 `V2Ray` 客户端，同时兼容 `SS、SSR、Trojan(trojan-go)、Tuic & Juicity` 协议， 致力于提供最简单的操作，满足绝大部分需求，得益于 Web 客户端的优势，你不仅可以将其用于本地计算机，还可以轻松地将它部署在路由器或 NAS 上。
 
-从 Telegram 频道和群组下载文件的开源项目，支持多账号并确保文件不会重复下载，具备下载暂停和继续的功能：
+![v2rayA](https://images-1252557999.file.myqcloud.com/uPic/v2rayA.png) 
 
-![telegram-files](https://images-1252557999.file.myqcloud.com/uPic/O7wvH0.png) 
+### [godoxy](https://github.com/yusing/godoxy)
 
-### [OOTDiffusion](https://github.com/levihsu/OOTDiffusion)
+轻巧、易用、高性能反向代理，带有主页和配置面板：
 
-这个项目是 `OOTDiffusion` 的官方实现，快速基于你上传的模特和图片生成产品效果图，AI 模特不是梦，点击 [ootd](https://ootd.ibot.cn/) 体验：
-
-![ootd](https://images-1252557999.file.myqcloud.com/uPic/ootd.jpg) 
+![godoxy](https://images-1252557999.file.myqcloud.com/uPic/7I4SVq.png) 
 
 ## 🤖 软件 
 
-### [FlyEnv](https://github.com/xpf0000/FlyEnv)
+### [flameshot](https://github.com/flameshot-org/flameshot)
 
-`FlyEnv` 是一个集成环境管理工具，支持 `macOS、Windows & Linux` 系统，提供多语言和技术栈支持，包括 PHP 工具、Web 服务器、数据库、邮件服务器等，简化了开发环境的配置和切换:
+一款强大且简单易用的截图软件，支持多平台（Linux、Windows、macOS）。其主要特点包括：
 
-![FlyEnv](https://images-1252557999.file.myqcloud.com/uPic/WMQbSK.png) 
+- 自定义外观：支持自定义截图工具和颜色。
+- 简易使用：提供图形化界面和命令行操作。
+- 内置编辑：可以在应用内编辑截图。
+- 快捷键支持：支持本地和全局快捷键配置。
+- 截图上传：支持将截图上传到 Imgur。
 
-### [Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player)
+![flameshot](https://images-1252557999.file.myqcloud.com/uPic/flameshot.png) 
 
-Ghosten Player 是一款同时适配 📱Android Phone 和 📺Android TV 的视频播放器(未来将支持 Windows 和 macOS)。整合影视资源，自动刮削媒体信息，支持IPTV播放，优雅打造私人影视库。 界面简洁，功能丰富，开箱即用。
+### [natpass](https://github.com/lwch/natpass)
 
-![Ghosten-Player](https://images-1252557999.file.myqcloud.com/uPic/2LBxH1.png) 
+新一代 NAT 内网穿透+shell+vnc 工具：
 
-### [fluent-reader](https://github.com/yang991178/fluent-reader)
+![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
 
-一款拥有现代化界面的RSS阅读器，拥有以下特性：
+### [bloop](https://github.com/BloopAI/bloop)
 
-- 跨平台
-- 可同步自部署服务以及外部服务如：Inoreader, Feedbin
-- 支持OPML导入导出
-- 正则检索，状态管控，快捷键等
+`bloop` 是一个用 Rust 编写的快速代码搜索引擎，内部集成 `LLM` 大模型，可以快速让你导入一个代码仓库以自然语言形式进行问答，想快速上手一个项目或者文档不怎么够的项目，力荐👀：
 
-![fluent-reader](https://images-1252557999.file.myqcloud.com/uPic/fluent-reader.png) 
+![bloop](https://images-1252557999.file.myqcloud.com/uPic/bloop.jpg) 
 
 ## 👀 资料 
 
-### RustBook
+### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
 
-一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
+`Solidity` 极简入门：
 
-![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg) 
+![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
 
-### [miaosha](https://github.com/qiurunze123/miaosha)
+### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
-高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
+深度学习入门教程资料聚合项目，包含：
 
-![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
+- 数学基础
+- 机器学习基础
+- 深度学习基础
+- 工程能力
 
-### [itdevbooks/pdf](https://github.com/itdevbooks/pdf)
+![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
 
-编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 
+![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
+
+### [xjq7/books](https://github.com/xjq7/books)
+
+电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
 
 ## 🕸 网站 
 
-### [读者阁](https://duzhege.cn/)
+### [similarsites](https://www.similarsites.com/)
 
-可以在线阅读故事会、读者等杂志的网站：
+输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
 
-![duzhege](https://images-1252557999.file.myqcloud.com/uPic/duzhege.jpg) 
+![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
 
-### [22.do](https://22.do/)
+### [ICO converter](https://www.icoconverter.com/)
 
-一次性 `Gmail` 临时邮箱：
+`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
 
-![22do](https://images-1252557999.file.myqcloud.com/uPic/22do.jpg) 
+![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
 
-### [theonestopradio](https://theonestopradio.com/)
+### [uiprompt.art](https://uiprompt.art/)
 
-发现你可能喜欢的电台：
+UI Prompt Explorer 网站提供了一个专注于手绘风格界面设计的展示平台，包括画册、仪表板、日程规划、作品集、电子商务和博客等多种设计模板：
 
-![theonestopradio](https://images-1252557999.file.myqcloud.com/uPic/theonestopradio.jpg) 
+![uiprompt](https://images-1252557999.file.myqcloud.com/uPic/x2em3D.png) 
 
 ## ✍️ 说明
 
