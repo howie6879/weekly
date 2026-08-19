@@ -5,94 +5,79 @@
 
 ## 🎯 项目 
 
-### [wechat-export](https://github.com/luin/wechat-export)
+### [enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China)
 
-将微信聊天记录导出为HTML文件：
+提升部署在 `cloudflare、vercel、netlify` 的网页在中国的访问速度和稳定性。 
 
-![wechat-export](https://images-1252557999.file.myqcloud.com/uPic/eIhKUP.jpg) 
+### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
 
-### [v2rayA](https://github.com/v2rayA/v2rayA)
+鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
 
-`v2rayA` 是一个支持全局透明代理的 `V2Ray` 客户端，同时兼容 `SS、SSR、Trojan(trojan-go)、Tuic & Juicity` 协议， 致力于提供最简单的操作，满足绝大部分需求，得益于 Web 客户端的优势，你不仅可以将其用于本地计算机，还可以轻松地将它部署在路由器或 NAS 上。
+![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
 
-![v2rayA](https://images-1252557999.file.myqcloud.com/uPic/v2rayA.png) 
+### [zdir](https://github.com/helloxz/zdir)
 
-### [godoxy](https://github.com/yusing/godoxy)
+使用 `Golang + Vue3` 开发的轻量级目录列表程序，支持 `Linux、Docker、Windows` 部署，适合个人或初创公司文件分享使用，亦可作为轻量级网盘使用。
 
-轻巧、易用、高性能反向代理，带有主页和配置面板：
-
-![godoxy](https://images-1252557999.file.myqcloud.com/uPic/7I4SVq.png) 
+![zdir](https://images-1252557999.file.myqcloud.com/uPic/zdir.jpg) 
 
 ## 🤖 软件 
 
-### [flameshot](https://github.com/flameshot-org/flameshot)
+### [Obtainium](https://github.com/ImranR98/Obtainium)
 
-一款强大且简单易用的截图软件，支持多平台（Linux、Windows、macOS）。其主要特点包括：
+聚合安卓应用源，然后获取程序更新，`Obtainium` 允许用户直接从发布页面安装和更新应用程序，并在发布新版本时接收通知：
 
-- 自定义外观：支持自定义截图工具和颜色。
-- 简易使用：提供图形化界面和命令行操作。
-- 内置编辑：可以在应用内编辑截图。
-- 快捷键支持：支持本地和全局快捷键配置。
-- 截图上传：支持将截图上传到 Imgur。
+![Obtainium](https://images-1252557999.file.myqcloud.com/uPic/Obtainium.jpg) 
 
-![flameshot](https://images-1252557999.file.myqcloud.com/uPic/flameshot.png) 
+### [RedFish](https://github.com/Kuari/RedFish)
 
-### [natpass](https://github.com/lwch/natpass)
+一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
 
-新一代 NAT 内网穿透+shell+vnc 工具：
+![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
 
-![natpass](https://images-1252557999.file.myqcloud.com/uPic/MjvkNd.jpg) 
+### [glass](https://github.com/pickle-com/glass)
 
-### [bloop](https://github.com/BloopAI/bloop)
+`Glass` 提供了一个轻量级、开源的桌面应用程序，能够实时监听和理解用户的上下文，将信息转化为结构化知识。在会议中，它能够主动提供行动项、摘要和即时答案。该应用程序设计为 “真正隐形”，不会出现在屏幕录制、截图或任务栏中，并且不会进行持续捕获或隐秘分享。
 
-`bloop` 是一个用 Rust 编写的快速代码搜索引擎，内部集成 `LLM` 大模型，可以快速让你导入一个代码仓库以自然语言形式进行问答，想快速上手一个项目或者文档不怎么够的项目，力荐👀：
-
-![bloop](https://images-1252557999.file.myqcloud.com/uPic/bloop.jpg) 
+![glass](https://images-1252557999.file.myqcloud.com/uPic/1SEd05.png) 
 
 ## 👀 资料 
 
-### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
+### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 
-`Solidity` 极简入门：
+这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
 
-![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
+### [BGC](https://beej.us/guide/bgc/)
 
-### [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+面向初学者的 C 语言教程：
 
-深度学习入门教程资料聚合项目，包含：
+![BGC](https://images-1252557999.file.myqcloud.com/uPic/CtN8CN.png) 
 
-- 数学基础
-- 机器学习基础
-- 深度学习基础
-- 工程能力
+### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
-![dl01](https://images-1252557999.file.myqcloud.com/uPic/532ono.jpg)
+这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
 
-![dl02](https://images-1252557999.file.myqcloud.com/uPic/7I7Luc.jpg) 
-
-### [xjq7/books](https://github.com/xjq7/books)
-
-电子书(计算机类，经济学，数学), 格式，pdf、mobi、epub，挺全面的计算机书籍资源。 
+![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
 
 ## 🕸 网站 
 
-### [similarsites](https://www.similarsites.com/)
+### [0v0.ai](https://0v0.ai/rmbg/)
 
-输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
+图片背景移除网站：
 
-![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
+![0v0](https://images-1252557999.file.myqcloud.com/uPic/0v0.jpg) 
 
-### [ICO converter](https://www.icoconverter.com/)
+### [musetransfer](https://musetransfer.com/)
 
-`ICO converter` 是一款免费的在线图标格式转换工具，专门用于将 .png 等常见格式的图片转换生成 .ico 文件：
+`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
 
-![icoconverter](https://images-1252557999.file.myqcloud.com/uPic/icoconverter.jpg) 
+![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
 
-### [uiprompt.art](https://uiprompt.art/)
+### [uxdatabase](https://www.uxdatabase.io/)
 
-UI Prompt Explorer 网站提供了一个专注于手绘风格界面设计的展示平台，包括画册、仪表板、日程规划、作品集、电子商务和博客等多种设计模板：
+国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
 
-![uiprompt](https://images-1252557999.file.myqcloud.com/uPic/x2em3D.png) 
+![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
 
 ## ✍️ 说明
 
