@@ -5,79 +5,87 @@
 
 ## 🎯 项目 
 
-### [enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China)
+### [ml4a](https://github.com/ml4a/ml4a)
 
-提升部署在 `cloudflare、vercel、netlify` 的网页在中国的访问速度和稳定性。 
+`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
 
-### [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper)
+![ml4a](https://images-1252557999.file.myqcloud.com/uPic/ml4a.jpg) 
 
-鉴于Kindle宣布退出中国，就产生了书籍留存的需求，此开源项目可以方便地将Kindle里面的书籍进行下载：
+### [LibreTV](https://github.com/LibreSpark/LibreTV)
 
-![Kindle_download_helper](https://images-1252557999.file.myqcloud.com/uPic/Kindle_download_helper.png) 
+`LibreTV` 是一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。无需注册，即开即用，支持多种设备访问。项目结合了前端技术和后端代理功能，可部署在支持服务端功能的各类网站托管服务上。
 
-### [zdir](https://github.com/helloxz/zdir)
+![LibreTV](https://images-1252557999.file.myqcloud.com/uPic/wklU6z.png)
 
-使用 `Golang + Vue3` 开发的轻量级目录列表程序，支持 `Linux、Docker、Windows` 部署，适合个人或初创公司文件分享使用，亦可作为轻量级网盘使用。
+还有贡献者开发了电视版本：[DTV](https://github.com/laopaoer-wallet/DTV)。 
 
-![zdir](https://images-1252557999.file.myqcloud.com/uPic/zdir.jpg) 
+### [heyform](https://github.com/heyform/heyform)
+
+`HeyForm` 是一个开源的表单构建器，允许任何人为调查、问卷、测验和投票创建有吸引力的对话表单并且不需要编程技巧：
+
+![heyform](https://images-1252557999.file.myqcloud.com/uPic/heyform.png) 
 
 ## 🤖 软件 
 
-### [Obtainium](https://github.com/ImranR98/Obtainium)
+### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
 
-聚合安卓应用源，然后获取程序更新，`Obtainium` 允许用户直接从发布页面安装和更新应用程序，并在发布新版本时接收通知：
+`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
 
-![Obtainium](https://images-1252557999.file.myqcloud.com/uPic/Obtainium.jpg) 
+![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
 
-### [RedFish](https://github.com/Kuari/RedFish)
+### [V2exOS](https://github.com/isaced/V2exOS)
 
-一款便捷、跨平台、专注于数据的 `Redis GUI` 客户端：
+一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端：
 
-![RedFish](https://images-1252557999.file.myqcloud.com/uPic/RedFish.png) 
+![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png) 
 
-### [glass](https://github.com/pickle-com/glass)
+### [NativeMindExtension](https://github.com/NativeMindBrowser/NativeMindExtension)
 
-`Glass` 提供了一个轻量级、开源的桌面应用程序，能够实时监听和理解用户的上下文，将信息转化为结构化知识。在会议中，它能够主动提供行动项、摘要和即时答案。该应用程序设计为 “真正隐形”，不会出现在屏幕录制、截图或任务栏中，并且不会进行持续捕获或隐秘分享。
+`NativeMindExtension` 是一个开源项目，旨在提供一个完全在用户设备上运行的 AI 助手，它不依赖云服务，保证了用户隐私和数据安全。
 
-![glass](https://images-1252557999.file.myqcloud.com/uPic/1SEd05.png) 
+![NativeMindExtension](https://images-1252557999.file.myqcloud.com/uPic/OJa7M3.png) 
 
 ## 👀 资料 
 
-### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
+### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
-这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
+清华大学计算机系课程攻略：
 
-### [BGC](https://beej.us/guide/bgc/)
+![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
 
-面向初学者的 C 语言教程：
+### [meetup](https://github.com/baiyutang/meetup)
 
-![BGC](https://images-1252557999.file.myqcloud.com/uPic/CtN8CN.png) 
+【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
 
-### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
 
-这是一个很有意思的项目，你可以选择你喜欢的技术重新构造一个你喜欢的东西，非常极客，比如用 `Python` 实现一个 `Git、Redis、Docker`，弄一个聊天机器人甚至实现自己的操作系统等（编程语言随意选）：
+### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
-![codecrafters](https://images-1252557999.file.myqcloud.com/uPic/codecrafters.jpg) 
+> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
+
+本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
+
+![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
 
 ## 🕸 网站 
+
+### [ideogram.ai](https://ideogram.ai/)
+
+免费无次数限制的文字转图片网页：
+
+![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
+
+### [recompressor](https://zh.recompressor.com/)
+
+免费的图片压缩工具：
+
+![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
 
 ### [0v0.ai](https://0v0.ai/rmbg/)
 
 图片背景移除网站：
 
 ![0v0](https://images-1252557999.file.myqcloud.com/uPic/0v0.jpg) 
-
-### [musetransfer](https://musetransfer.com/)
-
-`MuseTransfer` 是一款轻便高效的大文件在线传输工具，无需注册登录，打开网页即可免费全速上传或下载超大文件：
-
-![musetransfer](https://images-1252557999.file.myqcloud.com/uPic/musetransfer.jpg) 
-
-### [uxdatabase](https://www.uxdatabase.io/)
-
-国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
-
-![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
 
 ## ✍️ 说明
 
