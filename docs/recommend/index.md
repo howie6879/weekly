@@ -5,87 +5,87 @@
 
 ## 🎯 项目 
 
-### [ml4a](https://github.com/ml4a/ml4a)
+### [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
 
-`Ml4a` 是一个工具和教育资源的集合，作者将 AI 艺术创作类的开源项目整合到了一起。
+直播源相关资源汇总 📺 💯 IPTV、M3U，让你不用安装有线电视就可以高清无卡顿的看电视。
 
-![ml4a](https://images-1252557999.file.myqcloud.com/uPic/ml4a.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/oQ6iZ0.jpg) 
 
-### [LibreTV](https://github.com/LibreSpark/LibreTV)
+### [kafka-ui](https://github.com/provectus/kafka-ui)
 
-`LibreTV` 是一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。无需注册，即开即用，支持多种设备访问。项目结合了前端技术和后端代理功能，可部署在支持服务端功能的各类网站托管服务上。
+开源的 `Apache Kafka` 管理项目（Web UI）：
 
-![LibreTV](https://images-1252557999.file.myqcloud.com/uPic/wklU6z.png)
+![kafka-ui](https://images-1252557999.file.myqcloud.com/uPic/kafka-ui.jpg)
 
-还有贡献者开发了电视版本：[DTV](https://github.com/laopaoer-wallet/DTV)。 
+同类产品还有：[kafdrop](https://github.com/obsidiandynamics/kafdrop)。 
 
-### [heyform](https://github.com/heyform/heyform)
+### [pandora](https://github.com/pengzhile/pandora)
 
-`HeyForm` 是一个开源的表单构建器，允许任何人为调查、问卷、测验和投票创建有吸引力的对话表单并且不需要编程技巧：
+潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
 
-![heyform](https://images-1252557999.file.myqcloud.com/uPic/heyform.png) 
+![pandora](https://images-1252557999.file.myqcloud.com/uPic/pandora.png) 
 
 ## 🤖 软件 
 
-### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
+### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
 
-`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
+类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
 
-![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
+![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
 
-### [V2exOS](https://github.com/isaced/V2exOS)
+### [EyesGuard](https://github.com/avestura/EyesGuard)
 
-一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端：
+`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
 
-![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png) 
+![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
 
-### [NativeMindExtension](https://github.com/NativeMindBrowser/NativeMindExtension)
+### [TomatoBar](https://github.com/ivoronin/TomatoBar)
 
-`NativeMindExtension` 是一个开源项目，旨在提供一个完全在用户设备上运行的 AI 助手，它不依赖云服务，保证了用户隐私和数据安全。
+你听说过番茄工作法吗？这是一种很好的技巧，可以帮助你在学习或工作期间掌握时间并保持专注。`TomatoBar` 是一款非常整洁的 `macOS` 菜单栏番茄钟：
 
-![NativeMindExtension](https://images-1252557999.file.myqcloud.com/uPic/OJa7M3.png) 
+![TomatoBar](https://images-1252557999.file.myqcloud.com/uPic/TomatoBar.png) 
 
 ## 👀 资料 
 
-### [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+### [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare)
 
-清华大学计算机系课程攻略：
+⛅️ 精选的 `Cloudflare` 工具、开源项目、指南、博客和其他资源列表，带你玩转 `Cloudflare`：
 
-![REKCARC-TSC-UHT](https://images-1252557999.file.myqcloud.com/uPic/HbPARG.png) 
+![awesome-cloudflare](https://images-1252557999.file.myqcloud.com/uPic/12CbEQ.png) 
 
-### [meetup](https://github.com/baiyutang/meetup)
+### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
 
-【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
+重新分类 Leetcode 高频题 2021 版
 
-![meetup](https://images-1252557999.file.myqcloud.com/uPic/meetup.jpg) 
+- 题目按照面试频率降序排列
+- 增加难度分类，适合从简单开始学习
+- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
 
-### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
+### [self-llm](https://github.com/datawhalechina/self-llm)
 
-> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
+本项目是一个围绕开源大模型、针对国内初学者、基于 AutoDL 平台的中国宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，让更多的普通学生、研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普通学习者的生活中。
 
-本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
-
-![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
+可以结合 [llm-universe](https://github.com/datawhalechina/llm-universe) 一起看看。 
 
 ## 🕸 网站 
 
-### [ideogram.ai](https://ideogram.ai/)
+### [whatpwacando](https://whatpwacando.today/)
 
-免费无次数限制的文字转图片网页：
+该网站功能用于介绍 PWA 的技术进展：
 
-![ideogram](https://images-1252557999.file.myqcloud.com/uPic/ideogram.jpg) 
+![whatpwacando](https://images-1252557999.file.myqcloud.com/uPic/whatpwacando.jpg) 
 
-### [recompressor](https://zh.recompressor.com/)
+### [iconbuddy](https://iconbuddy.app/svg-icons)
 
-免费的图片压缩工具：
+`SVG` 图标检索网站（目前有18万图标），可简单编辑和下载：
 
-![recompressor](https://images-1252557999.file.myqcloud.com/uPic/recompressor.jpg) 
+![iconbuddy](https://images-1252557999.file.myqcloud.com/uPic/iconbuddy.jpg) 
 
-### [0v0.ai](https://0v0.ai/rmbg/)
+### [Python Tutor](https://pythontutor.com/?)
 
-图片背景移除网站：
+这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
 
-![0v0](https://images-1252557999.file.myqcloud.com/uPic/0v0.jpg) 
+![Python Tutor](https://images-1252557999.file.myqcloud.com/uPic/hIdiXA.png) 
 
 ## ✍️ 说明
 
