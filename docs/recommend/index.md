@@ -5,87 +5,100 @@
 
 ## 🎯 项目 
 
-### [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
+### [UIGEN-T1.1-Qwen-14B](https://huggingface.co/smirki/UIGEN-T1.1-Qwen-14)
 
-直播源相关资源汇总 📺 💯 IPTV、M3U，让你不用安装有线电视就可以高清无卡顿的看电视。
+用于生成前端 `UI` 布局的模型，它具有 140 亿个参数，基于 `wen2.5-Coder-14B-Instruct` 进行微调，它旨在进行基于推理的 `UI` 生成，利用复杂的思维链方法来生成基于 HTML&CSS 代码。目前，它仅限于基本应用，如仪表板、着陆页和注册表单：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/oQ6iZ0.jpg) 
+![UIGEN-T1.1-Qwen-14B](https://images-1252557999.file.myqcloud.com/uPic/7lYYyz.png) 
 
-### [kafka-ui](https://github.com/provectus/kafka-ui)
+### [toolbox](https://github.com/aoaostar/toolbox)
 
-开源的 `Apache Kafka` 管理项目（Web UI）：
+🚀傲星工具箱，一个在线工具箱：
 
-![kafka-ui](https://images-1252557999.file.myqcloud.com/uPic/kafka-ui.jpg)
+![toolbox](https://images-1252557999.file.myqcloud.com/uPic/toolbox.png) 
 
-同类产品还有：[kafdrop](https://github.com/obsidiandynamics/kafdrop)。 
+### [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)
 
-### [pandora](https://github.com/pengzhile/pandora)
+一个 `ChatGPT` 代码解释器的开源（`LangChain`）实现：
 
-潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
-
-![pandora](https://images-1252557999.file.myqcloud.com/uPic/pandora.png) 
+- 数据集分析、股票图表绘制、图像处理....
+- 互联网访问和自动安装Python软件包
+- 除了OpenAI API 外，所有事情在本地运行
+- 对话记忆：根据先前的输入进行回应 
 
 ## 🤖 软件 
 
-### [KeymouseGo](https://github.com/taojy123/KeymouseGo)
+### [Tailor](https://github.com/FutureUniant/Tailor)
 
-类似按键精灵的鼠标键盘录制和自动化操作来模拟点击和键入，记录用户的鼠标键盘操作，通过触发按钮自动执行之前记录的操作，可设定执行的次数，可以理解为精简绿色版的按键精灵：
+Tailor（中文简称：泰勒）是一款视频智能裁剪、视频生成和视频优化的工具。目前该项目包括了视频剪辑、视频生成和视频优化3大类视频处理方向，共10种方法。Tailor使用方法简单，点点鼠标即可使用最先进的人工智能进行视频处理工作，省时省力，若使用安装版本Tailor，所有的环境配置都可省掉，对用户特别友好。
 
-![KeymouseGo](https://images-1252557999.file.myqcloud.com/uPic/KeymouseGo.png) 
+![Tailor](https://images-1252557999.file.myqcloud.com/uPic/Tailor.png) 
 
-### [EyesGuard](https://github.com/avestura/EyesGuard)
+### [Seelen-UI](https://github.com/eythaann/Seelen-UI)
 
-`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
+`Seelen-UI` 是一个专为 `Windows 10/11` 设计的桌面环境，它提供了丰富的定制选项，允许用户根据个人喜好和需求调整菜单、小部件、图标等界面元素。该工具集成了平滑的多任务管理功能，如自动排列窗口的窗口管理器，以及与大多数音乐播放器兼容的内置媒体模块，使用户能够无需打开额外窗口即可控制音乐播放。此外，`Seelen-UI` 还提供了一个类似于 `Linux` 中 `Rofi` 启动器的应用程序启动器，以及一个直观的配置界面，让用户能够轻松地调整主题、任务栏布局等设置。
 
-![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
+![Seelen-UI](https://images-1252557999.file.myqcloud.com/uPic/ugiS4u.png) 
 
-### [TomatoBar](https://github.com/ivoronin/TomatoBar)
+### [v2ex](https://v2ex.com/)
 
-你听说过番茄工作法吗？这是一种很好的技巧，可以帮助你在学习或工作期间掌握时间并保持专注。`TomatoBar` 是一款非常整洁的 `macOS` 菜单栏番茄钟：
+`V2EX` 的使命是为创意工作者打造一个最好的社区，他们在这里可以获得灵感，分享想法，找到伙伴，获得通向目标的加速度，程序员群体必备，如果你不知道 `V2EX`，可以访问玩玩。
 
-![TomatoBar](https://images-1252557999.file.myqcloud.com/uPic/TomatoBar.png) 
+开源客户端推荐：
+
+- [V2ex-Swift](https://github.com/Finb/V2ex-Swift)：比较老牌的 `V2EX IOS` 第三方客户端
+- [V2Compose](https://github.com/cooaer/V2Compose)：使用 `Compose` 构建的一个 `V2ex` 的 `Android` 客户端
+- [V2Fun](https://github.com/liaoliao666/v2ex)：`V2EX` 好看的第三方客户端（Android&IOS），支持夜间模式
+- [V2exOS](https://github.com/isaced/V2exOS)：一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端
+- [react-native-v2ex](https://github.com/funnyzak/react-native-v2ex)：
+
+相关软件截图：
+
+![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png)
+
+![V2Compose](https://images-1252557999.file.myqcloud.com/uPic/V2Compose.jpg)
+
+![react-native-v2ex](https://images-1252557999.file.myqcloud.com/uPic/react-native-v2ex.jpeg) 
 
 ## 👀 资料 
 
-### [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare)
+### [Book-of-MLM](https://hcplab-sysu.github.io/Book-of-MLM/)
 
-⛅️ 精选的 `Cloudflare` 工具、开源项目、指南、博客和其他资源列表，带你玩转 `Cloudflare`：
+本书以深入浅出的方式全面地介绍了多模态大模型的核心技术与典型应用，并围绕新一代人工智能技术范式，详细阐述了因果推理、世界模型、超级智能体与具身智能等前沿技术。希望本书能够为学术界和工业界提供一个清晰的视角，以帮助人工智能科研工作者更全面地了解多模态大模型的技术和新一代人工智能的发展方向。
 
-![awesome-cloudflare](https://images-1252557999.file.myqcloud.com/uPic/12CbEQ.png) 
+![Book-of-MLM](https://images-1252557999.file.myqcloud.com/uPic/Book-of-MLM.jpg) 
 
-### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
+### [note-architect](https://zq99299.github.io/note-architect/hc/)
 
-重新分类 Leetcode 高频题 2021 版
+高并发系统设计 40 问，一份架构师学习笔记：
 
-- 题目按照面试频率降序排列
-- 增加难度分类，适合从简单开始学习
-- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
+![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
 
-### [self-llm](https://github.com/datawhalechina/self-llm)
+### [reversing](https://0xinfection.github.io/reversing/)
 
-本项目是一个围绕开源大模型、针对国内初学者、基于 AutoDL 平台的中国宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，让更多的普通学生、研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普通学习者的生活中。
+免费电子书，面向所有人的逆向工程：
 
-可以结合 [llm-universe](https://github.com/datawhalechina/llm-universe) 一起看看。 
+![reversing](https://images-1252557999.file.myqcloud.com/uPic/reversing.jpg) 
 
 ## 🕸 网站 
 
-### [whatpwacando](https://whatpwacando.today/)
+### [favicon.io](https://favicon.io/)
 
-该网站功能用于介绍 PWA 的技术进展：
+免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
 
-![whatpwacando](https://images-1252557999.file.myqcloud.com/uPic/whatpwacando.jpg) 
+![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
 
-### [iconbuddy](https://iconbuddy.app/svg-icons)
+### [wanqu.co](https://www.wanqu.co/)
 
-`SVG` 图标检索网站（目前有18万图标），可简单编辑和下载：
+湾区日报. 关注创业，互联网，技术。就像是你远方的老朋友每天推荐几篇优质英文文章，一起每天进步一点点:
 
-![iconbuddy](https://images-1252557999.file.myqcloud.com/uPic/iconbuddy.jpg) 
+![wanqu](https://images-1252557999.file.myqcloud.com/uPic/wanqu.jpg) 
 
-### [Python Tutor](https://pythontutor.com/?)
+### [quark.so](https://www.quark.so/)
 
-这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
+这是一个资源全面，界面简洁无广告的夸克网盘搜索引擎：
 
-![Python Tutor](https://images-1252557999.file.myqcloud.com/uPic/hIdiXA.png) 
+![quarkso](https://images-1252557999.file.myqcloud.com/uPic/quarkso.jpg) 
 
 ## ✍️ 说明
 
