@@ -5,100 +5,101 @@
 
 ## 🎯 项目 
 
-### [UIGEN-T1.1-Qwen-14B](https://huggingface.co/smirki/UIGEN-T1.1-Qwen-14)
+### [LibreTV](https://github.com/LibreSpark/LibreTV)
 
-用于生成前端 `UI` 布局的模型，它具有 140 亿个参数，基于 `wen2.5-Coder-14B-Instruct` 进行微调，它旨在进行基于推理的 `UI` 生成，利用复杂的思维链方法来生成基于 HTML&CSS 代码。目前，它仅限于基本应用，如仪表板、着陆页和注册表单：
+`LibreTV` 是一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。无需注册，即开即用，支持多种设备访问。项目结合了前端技术和后端代理功能，可部署在支持服务端功能的各类网站托管服务上。
 
-![UIGEN-T1.1-Qwen-14B](https://images-1252557999.file.myqcloud.com/uPic/7lYYyz.png) 
+![LibreTV](https://images-1252557999.file.myqcloud.com/uPic/wklU6z.png)
 
-### [toolbox](https://github.com/aoaostar/toolbox)
+还有贡献者开发了电视版本：[DTV](https://github.com/laopaoer-wallet/DTV)。 
 
-🚀傲星工具箱，一个在线工具箱：
+### [upptime](https://github.com/upptime/upptime)
 
-![toolbox](https://images-1252557999.file.myqcloud.com/uPic/toolbox.png) 
+由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
 
-### [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)
+![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
 
-一个 `ChatGPT` 代码解释器的开源（`LangChain`）实现：
+### [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
 
-- 数据集分析、股票图表绘制、图像处理....
-- 互联网访问和自动安装Python软件包
-- 除了OpenAI API 外，所有事情在本地运行
-- 对话记忆：根据先前的输入进行回应 
+基于 `AI` 完整保留排版的 `PDF` 文档全文双语翻译，支持 `Google/DeepL/Ollama/OpenAI` 等服务，提供 `CLI/GUI/Docker`：
+
+- 📊 保留公式、图表、目录和注释 (预览效果)
+- 🌐 支持 多种语言 和 诸多翻译服务
+- 🤖 提供 命令行工具，图形交互界面，以及 容器化部署
+
+![PDFMathTranslate](https://images-1252557999.file.myqcloud.com/uPic/m0zGEV.png) 
 
 ## 🤖 软件 
 
-### [Tailor](https://github.com/FutureUniant/Tailor)
+### [BongoCat](https://github.com/ayangweb/BongoCat)
 
-Tailor（中文简称：泰勒）是一款视频智能裁剪、视频生成和视频优化的工具。目前该项目包括了视频剪辑、视频生成和视频优化3大类视频处理方向，共10种方法。Tailor使用方法简单，点点鼠标即可使用最先进的人工智能进行视频处理工作，省时省力，若使用安装版本Tailor，所有的环境配置都可省掉，对用户特别友好。
+本项目的灵感来源于 MMmmmoko 大佬开发的 [Bongo-Cat-Mver](https://github.com/MMmmmoko/Bongo-Cat-Mver)。它以独特的猫咪互动功能深受用户喜爱，但仅支持 Windows 平台。作为一名深度 macOS 用户，我特别希望在自己的设备上也能使用这款可爱的猫咪，于是我决定开发一个适配 macOS 的版本。
 
-![Tailor](https://images-1252557999.file.myqcloud.com/uPic/Tailor.png) 
+同时，得益于 Tauri 强大的跨平台能力，本项目不仅支持 macOS，还兼容 Windows 和 Linux(x11)，让更多的用户都能与这只可爱的猫咪互动！
 
-### [Seelen-UI](https://github.com/eythaann/Seelen-UI)
+![BongoCat](https://images-1252557999.file.myqcloud.com/uPic/GyrpLk.png) 
 
-`Seelen-UI` 是一个专为 `Windows 10/11` 设计的桌面环境，它提供了丰富的定制选项，允许用户根据个人喜好和需求调整菜单、小部件、图标等界面元素。该工具集成了平滑的多任务管理功能，如自动排列窗口的窗口管理器，以及与大多数音乐播放器兼容的内置媒体模块，使用户能够无需打开额外窗口即可控制音乐播放。此外，`Seelen-UI` 还提供了一个类似于 `Linux` 中 `Rofi` 启动器的应用程序启动器，以及一个直观的配置界面，让用户能够轻松地调整主题、任务栏布局等设置。
+### [notesnook](https://github.com/streetwriters/notesnook)
 
-![Seelen-UI](https://images-1252557999.file.myqcloud.com/uPic/ugiS4u.png) 
+印象笔记的开源替代品（支持端对端加密）：
 
-### [v2ex](https://v2ex.com/)
+![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
 
-`V2EX` 的使命是为创意工作者打造一个最好的社区，他们在这里可以获得灵感，分享想法，找到伙伴，获得通向目标的加速度，程序员群体必备，如果你不知道 `V2EX`，可以访问玩玩。
+### [uPic](https://github.com/gee1k/uPic)
 
-开源客户端推荐：
+`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
 
-- [V2ex-Swift](https://github.com/Finb/V2ex-Swift)：比较老牌的 `V2EX IOS` 第三方客户端
-- [V2Compose](https://github.com/cooaer/V2Compose)：使用 `Compose` 构建的一个 `V2ex` 的 `Android` 客户端
-- [V2Fun](https://github.com/liaoliao666/v2ex)：`V2EX` 好看的第三方客户端（Android&IOS），支持夜间模式
-- [V2exOS](https://github.com/isaced/V2exOS)：一个用 `SwiftUI` 编写的 `V2ex macOS` 客户端
-- [react-native-v2ex](https://github.com/funnyzak/react-native-v2ex)：
+我的必备软件：
 
-相关软件截图：
-
-![V2exOS](https://images-1252557999.file.myqcloud.com/uPic/V2exOS.png)
-
-![V2Compose](https://images-1252557999.file.myqcloud.com/uPic/V2Compose.jpg)
-
-![react-native-v2ex](https://images-1252557999.file.myqcloud.com/uPic/react-native-v2ex.jpeg) 
+![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
 
 ## 👀 资料 
 
-### [Book-of-MLM](https://hcplab-sysu.github.io/Book-of-MLM/)
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-本书以深入浅出的方式全面地介绍了多模态大模型的核心技术与典型应用，并围绕新一代人工智能技术范式，详细阐述了因果推理、世界模型、超级智能体与具身智能等前沿技术。希望本书能够为学术界和工业界提供一个清晰的视角，以帮助人工智能科研工作者更全面地了解多模态大模型的技术和新一代人工智能的发展方向。
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
 
-![Book-of-MLM](https://images-1252557999.file.myqcloud.com/uPic/Book-of-MLM.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
-### [note-architect](https://zq99299.github.io/note-architect/hc/)
+### [Large Language Models Practical Course](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce)
 
-高并发系统设计 40 问，一份架构师学习笔记：
+开源([Large Language Models Practical Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course))的关于大型语言模型的实践课程，通过使用 `OpenAI` 和 `Hugging Face` 库的模型进行实际操作来提供实践经验，课程主要包括：
 
-![note-architect](https://images-1252557999.file.myqcloud.com/uPic/note-architect.jpg) 
+- Techniques and Libraries
+- Projects
+- Enterprise Solutions
 
-### [reversing](https://0xinfection.github.io/reversing/)
+![large-language-models-practical-course](https://images-1252557999.file.myqcloud.com/uPic/large-language-models-practical-course.jpg)
 
-免费电子书，面向所有人的逆向工程：
+> 附带一个 Mac 微调大模型的文章：[A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) 
 
-![reversing](https://images-1252557999.file.myqcloud.com/uPic/reversing.jpg) 
+### [docker-practice](https://vuepress.mirror.docker-practice.com/)
+
+一份面向 `Docker` 初学者的教程：
+
+![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
 
 ## 🕸 网站 
 
-### [favicon.io](https://favicon.io/)
+### [emojimix](https://tikolu.net/emojimix/)
 
-免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
+一个表情融合网站，图一个乐呵，效果如下：
 
-![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
+![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
 
-### [wanqu.co](https://www.wanqu.co/)
+### [devpedia.pages.dev](https://devpedia.pages.dev/)
 
-湾区日报. 关注创业，互联网，技术。就像是你远方的老朋友每天推荐几篇优质英文文章，一起每天进步一点点:
+`Dev Encyclopedia` 是一个为开发者提供广泛技术术语、概念和工具解释的在线百科全书：
 
-![wanqu](https://images-1252557999.file.myqcloud.com/uPic/wanqu.jpg) 
+![devpedia](https://images-1252557999.file.myqcloud.com/uPic/L7S0qZ.png) 
 
-### [quark.so](https://www.quark.so/)
+### [unDraw](https://undraw.co/illustrations)
 
-这是一个资源全面，界面简洁无广告的夸克网盘搜索引擎：
+你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
 
-![quarkso](https://images-1252557999.file.myqcloud.com/uPic/quarkso.jpg) 
+如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
+
+![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
 
 ## ✍️ 说明
 
