@@ -5,101 +5,101 @@
 
 ## 🎯 项目 
 
-### [LibreTV](https://github.com/LibreSpark/LibreTV)
+### [PanIndex](https://github.com/libsgh/PanIndex)
 
-`LibreTV` 是一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。无需注册，即开即用，支持多种设备访问。项目结合了前端技术和后端代理功能，可部署在支持服务端功能的各类网站托管服务上。
+网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
 
-![LibreTV](https://images-1252557999.file.myqcloud.com/uPic/wklU6z.png)
+- 跨平台、易部署
+- 多模式、多网盘
+- 多主题
+- 下载直链
+- 防盗链
+- 短链、分享
+- 访问控制
+- 分流
+- WebDav
 
-还有贡献者开发了电视版本：[DTV](https://github.com/laopaoer-wallet/DTV)。 
+![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
 
-### [upptime](https://github.com/upptime/upptime)
+### [yakGPT](https://github.com/yakGPT/yakGPT)
 
-由 `GitHub` 提供支持的免费网站运行状态监控服务，之前推荐过类似功能的[uptime-kuma](https://weekly.howie6879.com/2021/10-11~10-17.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC009%E6%9C%9F%EF%BC%89.html?h=up#uptime-kuma)：
+一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
 
-![upptime](https://images-1252557999.file.myqcloud.com/uPic/upptime.png) 
+![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
 
-### [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
+### [one-api](https://github.com/songquanpeng/one-api)
 
-基于 `AI` 完整保留排版的 `PDF` 文档全文双语翻译，支持 `Google/DeepL/Ollama/OpenAI` 等服务，提供 `CLI/GUI/Docker`：
+`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
 
-- 📊 保留公式、图表、目录和注释 (预览效果)
-- 🌐 支持 多种语言 和 诸多翻译服务
-- 🤖 提供 命令行工具，图形交互界面，以及 容器化部署
-
-![PDFMathTranslate](https://images-1252557999.file.myqcloud.com/uPic/m0zGEV.png) 
+![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
 
 ## 🤖 软件 
 
-### [BongoCat](https://github.com/ayangweb/BongoCat)
+### [VutronMusic](https://github.com/stark81/VutronMusic)
 
-本项目的灵感来源于 MMmmmoko 大佬开发的 [Bongo-Cat-Mver](https://github.com/MMmmmoko/Bongo-Cat-Mver)。它以独特的猫咪互动功能深受用户喜爱，但仅支持 Windows 平台。作为一名深度 macOS 用户，我特别希望在自己的设备上也能使用这款可爱的猫咪，于是我决定开发一个适配 macOS 的版本。
+高颜值的跨平台第三方网易云播放器；支持流媒体音乐，如navidrome、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome桌面状态栏歌词显示；支持降调降速等。
 
-同时，得益于 Tauri 强大的跨平台能力，本项目不仅支持 macOS，还兼容 Windows 和 Linux(x11)，让更多的用户都能与这只可爱的猫咪互动！
+![VutronMusic](https://images-1252557999.file.myqcloud.com/uPic/mLYjZO.png) 
 
-![BongoCat](https://images-1252557999.file.myqcloud.com/uPic/GyrpLk.png) 
+### [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
 
-### [notesnook](https://github.com/streetwriters/notesnook)
+就像 Mac 上的 TextEdit 一样，但专注于于 Markdown。
 
-印象笔记的开源替代品（支持端对端加密）：
+`MarkEdit` 的特点：
+- 注重隐私：不收集任何用户数据
+- 原生：干净直观
+- 快速：轻松编辑10 MB文件
+- 轻量级：安装程序大小约为3 MB
 
-![notesnook](https://images-1252557999.file.myqcloud.com/uPic/notesnook.webp) 
+![MarkEdit](https://images-1252557999.file.myqcloud.com/uPic/MarkEdit.png) 
 
-### [uPic](https://github.com/gee1k/uPic)
+### [Bili.Uwp](https://github.com/Richasy/Bili.Uwp)
 
-`uPic`是原生强大且美观的`MacOS`图床软件，支持多种图片上传方式：smms, UPYUN USS, qiniu KODO, Aliyun OSS, TencentCloud COS, BaiduCloud BOS, Weibo, Github, Gitee, Amazon S3, Imgur, custom upload api, ...
+一款**哔哩哔哩**的第三方应用，使用 `UWP` 框架开发，是原生的 `Windows` 应用，支持 `Windows 10/11` 桌面系统，主打设计和易用性：
 
-我的必备软件：
-
-![upic](https://images-1252557999.file.myqcloud.com/uPic/upic.gif) 
+![Bili.Uwp](https://images-1252557999.file.myqcloud.com/uPic/Bili.Uwp.png) 
 
 ## 👀 资料 
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+### [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+本仓库是手册《简单粗暴LaTeX》的开源仓库。本书涵盖了LaTeX的基本使用场景，以简明的例子来展现各命令的用法：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+![Note-by-LaTeX](https://images-1252557999.file.myqcloud.com/uPic/Note-by-LaTeX.jpg)
 
-### [Large Language Models Practical Course](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce)
+在开源仓库可直接下载阅读。 
 
-开源([Large Language Models Practical Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course))的关于大型语言模型的实践课程，通过使用 `OpenAI` 和 `Hugging Face` 库的模型进行实际操作来提供实践经验，课程主要包括：
+### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
 
-- Techniques and Libraries
-- Projects
-- Enterprise Solutions
+作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
 
-![large-language-models-practical-course](https://images-1252557999.file.myqcloud.com/uPic/large-language-models-practical-course.jpg)
+![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
 
-> 附带一个 Mac 微调大模型的文章：[A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) 
+### [PDF Explained](https://github.com/zxyle/PDF-Explained)
 
-### [docker-practice](https://vuepress.mirror.docker-practice.com/)
-
-一份面向 `Docker` 初学者的教程：
-
-![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
+ `PDF` 无处不在，无论是在线形式还是印刷形式，但很少有人利用这些有用的功能或掌握这种格式的细微差别。 这本简明的书籍为程序员，高级用户提供了世界领先的页面描述语言(pdf)的动手实践。以及搜索，电子出版和印刷行业的专业人士， 有大量示例，本书是你完全理解PDF所需的文档。
+ 
+ ![PDF-Explained](https://images-1252557999.file.myqcloud.com/uPic/PDF-Explained.jpg) 
 
 ## 🕸 网站 
 
-### [emojimix](https://tikolu.net/emojimix/)
+### [designer.microsoft.com](https://designer.microsoft.com/)
 
-一个表情融合网站，图一个乐呵，效果如下：
+基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
 
-![emojimix](https://images-1252557999.file.myqcloud.com/uPic/MLvKN0.png) 
+![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
 
-### [devpedia.pages.dev](https://devpedia.pages.dev/)
+### [aspoem](https://aspoem.com/)
 
-`Dev Encyclopedia` 是一个为开发者提供广泛技术术语、概念和工具解释的在线百科全书：
+现代化中国诗词学习网站 - 更加注重 UI、阅读体验：
 
-![devpedia](https://images-1252557999.file.myqcloud.com/uPic/L7S0qZ.png) 
+![aspoem](https://images-1252557999.file.myqcloud.com/uPic/aspoem.png) 
 
-### [unDraw](https://undraw.co/illustrations)
+### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
 
-你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
+人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
 
-如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
-
-![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
+![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
 
 ## ✍️ 说明
 
