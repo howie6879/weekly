@@ -5,101 +5,83 @@
 
 ## 🎯 项目 
 
-### [PanIndex](https://github.com/libsgh/PanIndex)
+### [open-interpreter](https://github.com/KillianLucas/open-interpreter)
 
-网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等：
+基于 `LLM` 为你提供一种新的方式来控制电脑，本地运行：
 
-- 跨平台、易部署
-- 多模式、多网盘
-- 多主题
-- 下载直链
-- 防盗链
-- 短链、分享
-- 访问控制
-- 分流
-- WebDav
+![open_interpreter](https://images-1252557999.file.myqcloud.com/uPic/open_interpreter.jpg) 
 
-![PanIndex](https://images-1252557999.file.myqcloud.com/uPic/PanIndex.jpg) 
+### [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
 
-### [yakGPT](https://github.com/yakGPT/yakGPT)
+用 `Express` 和 `Vue3` 搭建的 `ChatGPT` 演示网页：
 
-一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
+![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
 
-![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
+### [DweebUI](https://github.com/lllllllillllllillll/DweebUI)
 
-### [one-api](https://github.com/songquanpeng/one-api)
+用于管理容器的免费开源 `WebUI`，颜值不错，但是功能还不大够，值得期待：
 
-`OpenAI` 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用：
-
-![one-api](https://images-1252557999.file.myqcloud.com/uPic/one-api.png) 
+![DweebUI](https://images-1252557999.file.myqcloud.com/uPic/DweebUI.png) 
 
 ## 🤖 软件 
 
-### [VutronMusic](https://github.com/stark81/VutronMusic)
+### [KOReader](https://github.com/koreader/koreader)
 
-高颜值的跨平台第三方网易云播放器；支持流媒体音乐，如navidrome、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome桌面状态栏歌词显示；支持降调降速等。
+KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
 
-![VutronMusic](https://images-1252557999.file.myqcloud.com/uPic/mLYjZO.png) 
+![koreader](https://images-1252557999.file.myqcloud.com/uPic/koreader.jpg) 
 
-### [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
+### [Dozer](https://github.com/Mortennn/Dozer)
 
-就像 Mac 上的 TextEdit 一样，但专注于于 Markdown。
+隐藏菜单栏图标，使您的Mac看起来更清爽，个人一直在用的开源状态栏管理工具，`Bartender` 替代品：
 
-`MarkEdit` 的特点：
-- 注重隐私：不收集任何用户数据
-- 原生：干净直观
-- 快速：轻松编辑10 MB文件
-- 轻量级：安装程序大小约为3 MB
+![Dozer](https://images-1252557999.file.myqcloud.com/uPic/Dozer.jpg) 
 
-![MarkEdit](https://images-1252557999.file.myqcloud.com/uPic/MarkEdit.png) 
+### [ReadYou](https://github.com/Ashinch/ReadYou)
 
-### [Bili.Uwp](https://github.com/Richasy/Bili.Uwp)
+这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
 
-一款**哔哩哔哩**的第三方应用，使用 `UWP` 框架开发，是原生的 `Windows` 应用，支持 `Windows 10/11` 桌面系统，主打设计和易用性：
-
-![Bili.Uwp](https://images-1252557999.file.myqcloud.com/uPic/Bili.Uwp.png) 
+![ReadYou](https://images-1252557999.file.myqcloud.com/uPic/ReadYou.jpg) 
 
 ## 👀 资料 
 
-### [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
+### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 
-本仓库是手册《简单粗暴LaTeX》的开源仓库。本书涵盖了LaTeX的基本使用场景，以简明的例子来展现各命令的用法：
+[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
 
-![Note-by-LaTeX](https://images-1252557999.file.myqcloud.com/uPic/Note-by-LaTeX.jpg)
+![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
 
-在开源仓库可直接下载阅读。 
+### [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note)
 
-### [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
+从0开始学习英语语法的开源项目：
 
-作者整理了自己学习过程中产生的笔记，需要快速学一些东西或者查找资源的时候可以看看：
+![english-note](https://images-1252557999.file.myqcloud.com/uPic/english-note.jpg) 
 
-![jaywcjlove_handbook](https://images-1252557999.file.myqcloud.com/uPic/jaywcjlove_handbook.jpg) 
+### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
 
-### [PDF Explained](https://github.com/zxyle/PDF-Explained)
+《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
 
- `PDF` 无处不在，无论是在线形式还是印刷形式，但很少有人利用这些有用的功能或掌握这种格式的细微差别。 这本简明的书籍为程序员，高级用户提供了世界领先的页面描述语言(pdf)的动手实践。以及搜索，电子出版和印刷行业的专业人士， 有大量示例，本书是你完全理解PDF所需的文档。
- 
- ![PDF-Explained](https://images-1252557999.file.myqcloud.com/uPic/PDF-Explained.jpg) 
+![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
 
 ## 🕸 网站 
 
-### [designer.microsoft.com](https://designer.microsoft.com/)
+### [namebeta](https://namebeta.com/)
 
-基于 DALL.E 2.5 模型进行 AI 绘图，微软出品的免费 AI 设计工具网站：
+输入你想要的域名，各方比价：
 
-![ms_designer](https://images-1252557999.file.myqcloud.com/uPic/ms_designer.jpg) 
+![namebeta_web](https://images-1252557999.file.myqcloud.com/uPic/namebeta_web.jpg) 
 
-### [aspoem](https://aspoem.com/)
+### [识典古籍](https://www.shidianguji.com/)
 
-现代化中国诗词学习网站 - 更加注重 UI、阅读体验：
+识典古籍 – 古籍在线阅读平台，北大和抖音合作开发的古籍阅读网站：
 
-![aspoem](https://images-1252557999.file.myqcloud.com/uPic/aspoem.png) 
+![shidianguji](https://images-1252557999.file.myqcloud.com/uPic/shidianguji.jpg) 
 
-### [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)
+### [iphub.info](https://iphub.info/)
 
-人人影视bot，完全对接人人影视全部无删减资源，用户除了通过浏览器访问，还可以通知[TG](https://t.me/yyets_bot)访问：
+检测 `IP` 质量和安全性：
 
-![YYeTsBot](https://images-1252557999.file.myqcloud.com/uPic/5bwPfx.jpg) 
+![iphub](https://images-1252557999.file.myqcloud.com/uPic/iphub.jpg) 
 
 ## ✍️ 说明
 
