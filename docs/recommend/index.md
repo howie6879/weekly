@@ -5,83 +5,83 @@
 
 ## 🎯 项目 
 
-### [open-interpreter](https://github.com/KillianLucas/open-interpreter)
+### [sonic](https://github.com/go-sonic/sonic)
 
-基于 `LLM` 为你提供一种新的方式来控制电脑，本地运行：
+`Sonic` 是 `Go` 开发的博客平台，简单而强大：
 
-![open_interpreter](https://images-1252557999.file.myqcloud.com/uPic/open_interpreter.jpg) 
+![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
 
-### [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
+### [osquery](https://github.com/osquery/osquery)
 
-用 `Express` 和 `Vue3` 搭建的 `ChatGPT` 演示网页：
+像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
 
-![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
+![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
 
-### [DweebUI](https://github.com/lllllllillllllillll/DweebUI)
+### [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
 
-用于管理容器的免费开源 `WebUI`，颜值不错，但是功能还不大够，值得期待：
+基于 `CloudFlare Pages` 的免费图片托管解决方案，支持 `Telegram Bot` 和 `Cloudflare R2` 等多种存储方式:
 
-![DweebUI](https://images-1252557999.file.myqcloud.com/uPic/DweebUI.png) 
+![CloudFlare-ImgBed](https://images-1252557999.file.myqcloud.com/uPic/49JpVO.png) 
 
 ## 🤖 软件 
 
-### [KOReader](https://github.com/koreader/koreader)
+### [balenaEtcher](https://github.com/balena-io/etcher)
 
-KOReader 是一个针对基于 Linux 操作系统的电子墨水屏幕设备的文档阅读器。它支持的格式包括： PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZIP。
+balenaEtcher 是一个免费开源的 macOS 启动盘制作工具（镜像烧录），可以用来制作 `macOS、Linux、CentOS` 等系统的启动盘，此工具不可制作Windows系统启动盘。
 
-![koreader](https://images-1252557999.file.myqcloud.com/uPic/koreader.jpg) 
+![balenaEtcher](https://images-1252557999.file.myqcloud.com/uPic/balenaEtcher.jpg) 
 
-### [Dozer](https://github.com/Mortennn/Dozer)
+### [Imagine](https://github.com/meowtec/Imagine)
 
-隐藏菜单栏图标，使您的Mac看起来更清爽，个人一直在用的开源状态栏管理工具，`Bartender` 替代品：
+全平台支持的图片压缩软件：
 
-![Dozer](https://images-1252557999.file.myqcloud.com/uPic/Dozer.jpg) 
+![Imagine](https://images-1252557999.file.myqcloud.com/uPic/KrSb9L.png)
 
-### [ReadYou](https://github.com/Ashinch/ReadYou)
+看看这86%的压缩率还是挺上头的，而且效果很好。 
 
-这是一个在 Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的 RSS 阅读器：
+### [Cider](https://github.com/ciderapp/Cider)
 
-![ReadYou](https://images-1252557999.file.myqcloud.com/uPic/ReadYou.jpg) 
+一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
+
+![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
 
 ## 👀 资料 
 
-### [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+### [计算机底层的秘密](https://github.com/webxiaohua/gitbook)
 
-[计算机自学指南](https://pkuflyingpig.github.io/cs-self-learning/)，作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在2-3年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的Project的洗礼，掌握至少C/C++/Java/JS/Python/Go/Rust等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web开发、云服务、超算等等方面均有所涉猎的全能程序员。
+以图解的方式通俗易懂地讲解计算机系统中各项技术的本质，包括编程语言的本质是什么、操作系统、进程线程协程等的本质是什么、到底什么是内存、什么是堆区栈区、内存分配等是怎么一回事、怎样从晶体管构建出CPU、I/O是如何实现的等等，从根源出发，一步步讲解一项技术到底是怎么来的，同时内容可视化——辅助大量精心设计的插图，几乎做到了平均一页有一图，把对技术的理解门槛尽量降低-[在线阅读](https://www.bookstack.cn/read/webxiaohua-gitbook/1.-ni-guan-zhe-po-wan-yi-jiao-cpu.md)(需要pdf可联系我私发)：
 
-![cs-self-learning](https://images-1252557999.file.myqcloud.com/uPic/iuimNz.png) 
+![计算机底层的秘密](https://images-1252557999.file.myqcloud.com/uPic/计算机底层的秘密.jpg) 
 
-### [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note)
+### [WangRongsheng](https://github.com/WangRongsheng/awesome-LLM-resourses)
 
-从0开始学习英语语法的开源项目：
+一个全面的 LLM 资源汇总，旨在提供数据处理、微调、推理、评估、体验、知识库、智能体、搜索、书籍、课程、教程和论文等方面的工具和文档。 
 
-![english-note](https://images-1252557999.file.myqcloud.com/uPic/english-note.jpg) 
+### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
 
-### [3DProgramPattern](https://github.com/yyc-git/3DProgramPattern)
+吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
 
-《3D编程模式》-本书罗列了从实战项目中提炼出来的关于3D编程（主要包括“3D引擎/游戏引擎”、“编辑器”开发）的各种编程模式：
-
-![3dProgramPattern](https://images-1252557999.file.myqcloud.com/uPic/3dProgramPattern.jpg) 
+![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
 
 ## 🕸 网站 
 
-### [namebeta](https://namebeta.com/)
+### [flow](https://github.com/pacexy/flow)
 
-输入你想要的域名，各方比价：
+开源的基于浏览器端的 `ePub` 阅读器，在线访问地址见 [flowoss.com](https://www.flowoss.com/zh-CN):
 
-![namebeta_web](https://images-1252557999.file.myqcloud.com/uPic/namebeta_web.jpg) 
+![flowoss](https://images-1252557999.file.myqcloud.com/uPic/flowoss.png) 
 
-### [识典古籍](https://www.shidianguji.com/)
+### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
 
-识典古籍 – 古籍在线阅读平台，北大和抖音合作开发的古籍阅读网站：
+老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
 
-![shidianguji](https://images-1252557999.file.myqcloud.com/uPic/shidianguji.jpg) 
+![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
 
-### [iphub.info](https://iphub.info/)
+### [linggle](https://linggle.com/)
 
-检测 `IP` 质量和安全性：
+免费的在线语料库，用来解决想知道某个搭配地不地道而词典上查不到的问题：
 
-![iphub](https://images-1252557999.file.myqcloud.com/uPic/iphub.jpg) 
+![linggle](https://images-1252557999.file.myqcloud.com/uPic/linggle.jpg) 
 
 ## ✍️ 说明
 
