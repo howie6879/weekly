@@ -5,104 +5,85 @@
 
 ## 🎯 项目 
 
-### [agenticSeek](https://github.com/Fosowl/agenticSeek "agenticSeek")
+### [epigram](https://github.com/panda-sandeep/epigram)
 
-一个 100% 本地替代 `Manus AI` 的方案，这款支持语音的 AI 助理能够自主浏览网页、编写代码和规划任务，同时将所有数据保留在您的设备上。专为本地推理模型量身打造，完全在您自己的硬件上运行，确保完全的隐私保护和零云端依赖。
+由 AI 驱动的新闻摘要平台，提供个性化新闻源和简洁的新闻摘要：
 
-- 🔒 完全本地化与隐私保护 - 所有功能都在您的设备上运行 — 无云端服务，无数据共享。您的文件、对话和搜索始终保持私密。
-- 🌐 智能网页浏览 - AgenticSeek 能够自主浏览互联网 — 搜索、阅读、提取信息、填写网页表单 — 全程无需人工操作。
-- 💻 自主编码助手 - 需要代码？它可以编写、调试并运行 Python、C、Go、Java 等多种语言的程序 — 全程无需监督。
-- 🧠 智能代理选择 - 您提问，它会自动选择最适合该任务的代理。就像拥有一个随时待命的专家团队。
-- 📋 规划与执行复杂任务 - 从旅行规划到复杂项目 — 它能将大型任务分解为步骤，并利用多个 AI 代理完成工作。
-- 🎙️ 语音功能 - 清晰、快速、未来感十足的语音与语音转文本功能，让您能像科幻电影中一样与您的个人 AI 助手对话。
+![epigram](https://images-1252557999.file.myqcloud.com/uPic/8HnhXD.png) 
 
-![agenticSeek](https://images-1252557999.file.myqcloud.com/uPic/7sShIp.png) 
+### [JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER)
 
-### [GFPGAN](https://github.com/TencentARC/GFPGAN)
+京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)。
 
-腾讯开源的老照片修复项目：
+![jd-shopper](https://images-1252557999.file.myqcloud.com/uPic/jd-shopper.jpeg) 
 
-![GFPGAN](https://images-1252557999.file.myqcloud.com/uPic/UOiwSK.jpg) 
+### [ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home)
 
-### [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
+米家集成是一个由小米官方提供支持的 `Home Assistant` 的集成组件，它可以让您在 `Home Assistant` 中使用小米 `IoT` 智能设备：
 
-BiliBiliTool 是一个自动执行任务的工具，当我们忘记做某项任务时，它会像一个贴心小助手，按照我们预先吩咐它的命令，在指定频率、时间范围内帮助我们完成计划的任务。
-
-![BiliBiliToolPro](https://images-1252557999.file.myqcloud.com/uPic/BiliBiliToolPro.jpg) 
+![ha_xiaomi_home](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6271646644919453567-y.jpg) 
 
 ## 🤖 软件 
 
-### [EyesGuard](https://github.com/avestura/EyesGuard)
+### [sniffnet](https://github.com/GyulyVGC/sniffnet)
 
-`Eyes Guard` 在你使用电脑时，根据设置的时间提醒你休息、保护眼睛（Windows）：
+监控你的应用流量，跨平台：
 
-![EyesGuard](https://images-1252557999.file.myqcloud.com/uPic/EyesGuard.jpeg) 
+![sniffnet](https://images-1252557999.file.myqcloud.com/uPic/sniffnet.jpg) 
 
-### [koodo-reader](https://github.com/troyeguo/koodo-reader)
+### [Upscayl](https://github.com/upscayl/upscayl)
 
-一个跨平台的电子书阅读器：
+开源免费的跨平台无损图片放大工具：
 
-- 支持多达 15 种主流电子书格
-- 支持  **Windows**，**macOS**，**Linux**  和  **网页版**
-- 备份数据到  **Dropbox**  和  **Webdav**
-- 自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步
-- 双页模式，单页模式，滚动模式
-- 听书功能，翻译功能，触控屏支持，批量导入图书
-- 支持目录，书签，笔记，高亮，书架，标签
-- 自定义字体，字体大小，行间距，段落间距，阅读背景色，文字颜色，屏幕亮度，文字下划线、斜体、文字阴影、字体粗细
-- 黑夜模式和主题色设置
+![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
 
-![koodo-reader](https://images-1252557999.file.myqcloud.com/uPic/koodo-reader.png) 
+### [radishes](https://github.com/radishes-music/radishes)
 
-### [void](https://github.com/voideditor/void#readme)
+跨平台的无版权音乐平台，支持 `windows / macos / linux / web`：
 
-`Void` 是一个开源的 `Cursor` 替代项目：
-
-![void](https://images-1252557999.file.myqcloud.com/uPic/ewYGFx.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/radishes.jpeg) 
 
 ## 👀 资料 
 
-### [Nginx 开发从入门到精通](https://tengine.taobao.org/book/)
+### [Vue3入门指南与实战案例](https://vue3.chengpeiquan.com/upgrade.html)
 
-淘宝团队出品的关于 `Nginx` 模块开发以及内部原理的书：
+本书以 Vue.js 的 3.0 版本为核心技术栈，围绕 “前端工程化” 和 TypeScript 的知识点展开讲解，读者可以收获到：
 
-![tb_nginx](https://images-1252557999.file.myqcloud.com/uPic/tb_nginx.jpg) 
+- 了解如何入门前端工程化开发，掌握 Node.js 和 npm 的使用
+- 掌握前端领域多年来趋势走高、带有类型支持的 TypeScript 语言
+- 上手主流前端框架 Vue.js 的全新版本，并且在遇到常见问题时知道如何解决
 
-### [k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials)
+![vue3_gp](https://images-1252557999.file.myqcloud.com/uPic/vue3_gp.jpg) 
 
-一份循序渐进的 `k8s` 教程：
+### [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
-![k8s-tutorials](https://images-1252557999.file.myqcloud.com/uPic/k8s-tutorials.jpg) 
+这个仓库收集了各种日常工作中使用的材料和工具，包括 CLI 工具、GUI 工具、Web 工具、系统服务、网络、容器编排、手册教程、博客资源、黑客测试等内容。适合系统管理员、网络管理员、DevOps、渗透测试者和安全研究人员使用。 
 
-### [hello-algo](https://github.com/krahets/hello-algo)
+### [linux-command](https://github.com/jaywcjlove/linux-command)
 
-[Hello 算法](https://www.hello-algo.com/)是一本动画图解、能运行、可提问的数据结构与算法入门书，本书面向数据结构与算法初学者，致力于达成以下目标：
+Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集:
 
-- 开源免费，所有同学都可在网上获取本书；
-- 新手友好，适合算法初学者自主学习入门；
-- 动画讲解，尽可能地保证平滑的学习曲线；
-- 代码导向，提供精简、可运行的算法代码；
-- 讨论学习，提问一般能在三日内得到回复；
-
-![hello-algo](https://images-1252557999.file.myqcloud.com/uPic/hello-algo.jpg) 
+![linux-command](https://images-1252557999.file.myqcloud.com/uPic/linux-command.jpg) 
 
 ## 🕸 网站 
 
-### [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
+### [22.do](https://22.do/)
 
-@妙才投稿，在线学习git命令的网站：
+一次性 `Gmail` 临时邮箱：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/YSiAVW.png) 
+![22do](https://images-1252557999.file.myqcloud.com/uPic/22do.jpg) 
 
-### [cobalt](https://cobalt.tools/)
+### [Python Tutor](https://pythontutor.com/?)
 
-一个专注于隐私保护和用户自由的[开源](https://github.com/imputnet/cobalt)在线工具，它允许用户从各种网站上保存视频、音频、图片或 GIF，同时提供匿名请求和加密隧道技术，确保用户的隐私安全。
+这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
 
-![cobalt](https://images-1252557999.file.myqcloud.com/uPic/ZwEgp6.png) 
+![Python Tutor](https://images-1252557999.file.myqcloud.com/uPic/hIdiXA.png) 
 
-### [w2solo](https://w2solo.com/)
+### [smithery.ai](https://smithery.ai/)
 
-独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
+一个集成了多种 Model Context Protocol (MCP) 服务器的平台，旨于通过 MCP 服务器扩展代理（AI）的功能，使其能够访问和管理大量工具和数据，从而提高决策和解决问题的能力：
+
+![smithery](https://images-1252557999.file.myqcloud.com/uPic/F7tIpp.png) 
 
 ## ✍️ 说明
 
