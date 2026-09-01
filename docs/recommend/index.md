@@ -5,107 +5,100 @@
 
 ## 🎯 项目 
 
-### [nexus-terminal](https://github.com/Heavrnl/nexus-terminal)
+### [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)
 
-一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。
+小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！
 
-![nexus-terminal](https://images-1252557999.file.myqcloud.com/uPic/d56IVQ.png) 
+![XHS-Downloader](https://images-1252557999.file.myqcloud.com/uPic/mjKPJU.png) 
 
-### [resume-design](https://github.com/Hacker233/resume-design)
+### [OxiCloud](https://github.com/DioCrafts/OxiCloud)
 
-一款开源免费的简历制作神器，支持导出超高清 PDF、图片、源码级 JSON 数据等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。
+`OxiCloud` 是一个轻量级的云存储服务器，它使用 `Rust` 语言编写，旨在提供一个比传统 `PHP` 云服务（如 `NextCloud`）更快速、更轻量的文件存储方案。`OxiCloud` 具有响应式的用户界面，适用于桌面和移动设备，以及使用 `Link Time Optimization（LTO）`提高的二进制文件性能。
 
-![resume-design](https://images-1252557999.file.myqcloud.com/uPic/y8rbsD.png) 
+![OxiCloud](https://images-1252557999.file.myqcloud.com/uPic/dfL4Re.png) 
 
-### [zane-ops](https://github.com/zane-ops/zane-ops)
+### [onenav](https://github.com/helloxz/onenav)
 
-`zaneops` 是一个自托管的平台即服务（PaaS），它提供了一个用于部署和管理 Web 应用、数据库、静态网站等的平台：
+使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问：
 
-- 界面美观、速度快速，完全免费且开源
-- 支持多种服务的部署，包括但不限于 Supabase、WordPress、Ghost 等
+支持后台管- 理
+- 支持私有链接
+- 支持Chrome/Firefox/Edge书签批量导入
+- 支持多种主题风格
+- 支持链接信息自动识别
+- 支持API
+- 支持Docker部署
+- 支持uTools插件
+- 支持二级分类
+- 支持Chromium内核的浏览器扩展（插件）
+- 支持在线更新
+- 手机版后台
 
-![zaneops](https://images-1252557999.file.myqcloud.com/uPic/mal2TN.png) 
+![onenav](https://images-1252557999.file.myqcloud.com/uPic/onenav.png) 
 
 ## 🤖 软件 
 
-### [onlook](https://github.com/onlook-dev/onlook)
+### [flow-browser](https://github.com/MultiboxLabs/flow-browser)
 
-> 设计师专属的 Cursor —— 一款开源、视觉优先的代码编辑器
+`Flow Browser` 是一个基于 `Electron` 框架构建的现代化网页浏览器，它支持多个配置文件、多工作空间、侧边栏、命令面板、自定义扩展、原生广告拦截器等功能。该浏览器支持安装 `Chrome` 网上应用店的扩展，提供了睡眠标签页功能以节省系统资源，并且支持 `Widevine` 以便观看受版权保护的内容。
 
-一个开源的、基于可视化编辑的代码编辑器，专为设计师而优化，旨在通过 AI 与浏览器内 DOM 的直接编辑功能，让用户能够在代码编辑器中进行设计和编码。
+![flow-browser](https://images-1252557999.file.myqcloud.com/uPic/UwO7ZF.png) 
 
-使用 AI 在 Next.js + TailwindCSS 中构建网站、原型和设计。通过可视化编辑器直接在浏览器 DOM 中进行编辑。实时用代码进行设计。这是 Bolt.new、Lovable、V0、Replit Agent、Figma Make、Webflow 等产品的开源替代方案。
+### [novel-disguise](https://github.com/NiaoBlush/novel-disguise)
 
-![onlook](https://images-1252557999.file.myqcloud.com/uPic/b8LfDN.png) 
+将小说页面伪装成一个 `Word` 文档或 `Excel` 表格，神奇的脑回路，应该是为摸鱼而生的项目，好像还支持了 v 站：
 
-### [AFFiNE](https://github.com/toeverything/AFFiNE)
+![novel-disguise](https://images-1252557999.file.myqcloud.com/uPic/bPV6Qm.png) 
 
-`AFFiNE` 是为创意思考而生的统一知识管理平台，一个注重隐私、本地优先、开源且可立即使用的 `Notion + Miro` 开源替代方案：
+### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
 
-- 同时书写、绘制和计划
-- 任意地方存储查看您的数据
-- 离线优先
-- 简洁直观的设计
-- 具备 `Markdown` 支持的现代区块编辑器
-- 团队协作
-- 多语言支持
-- 插件支持
+Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
 
-支持 `web` & 跨平台访问：
+Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
 
-![afine](https://images-1252557999.file.myqcloud.com/uPic/afine.jpg) 
+支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
 
-### [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager "ContextMenuManager")
-
-纯粹的 `Windows` 右键菜单管理程序：
-
-- 启用或禁用文件、文件夹、新建、发送到、打开方式、自定义文件格式、IE 浏览器、WinX 等右键菜单项目
-- 对上述场景右键菜单项目进行修改名称、修改图标、导航注册表位置、导航文件位置、永久删除等操作
-- 对上述场景右键菜单自定义添加项目，自定义菜单命令
-
-![ContextMenuManager](https://images-1252557999.file.myqcloud.com/uPic/ContextMenuManager.png) 
+![hammerscholar](https://images-1252557999.file.myqcloud.com/uPic/4UQ5Ha.png) 
 
 ## 👀 资料 
 
-### [learnprompting.org](https://learnprompting.org/zh-Hans/docs/intro)
+### [tuning_playbook_zh_cn](https://github.com/schrodingercatss/tuning_playbook_zh_cn)
 
-> 如何同人工智能交流，并得到你要的结果。
+深度学习调优指南中文版，一本系统地教你将深度学习模型的性能最大化的战术手册：
 
-随着最近人工智能的不断进步，提示工程这项技能变得越来越重要。本课程会聚焦于如何使用提示工程。你不需要很多机器学习相关的知识。
+![tuning_playbook_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/tuning_playbook_zh_cn.jpg) 
 
-![learnprompting](https://images-1252557999.file.myqcloud.com/uPic/learnprompting.jpg) 
+### [GolangStudy](https://github.com/cnymw/GolangStudy)
 
-### [FudanSELab/Agent4SE-Paper-List](https://github.com/FudanSELab/Agent4SE-Paper-List)
+《[GolangStudy](https://golangstudy.tech/)》：从简单到难最全总结，go基础，数据结构，算法，设计模式：
 
-该仓库由复旦大学软件工程实验室（FudanSELab）创建的，旨在为大型语言模型（LLMs）基础的软件工程代理（Agent）领域提供一个系统的文献综述：
+![GolangStudy](https://images-1252557999.file.myqcloud.com/uPic/GolangStudy.jpg) 
 
-![Agent4SE-Paper-List](https://images-1252557999.file.myqcloud.com/uPic/uFo2bN.png) 
+### [DON’T DIE 不要死](https://protocol.bryanjohnson.com/ "DON’T DIE 不要死")
 
-### [动手学OCR·十讲](https://aistudio.baidu.com/aistudio/course/introduce/25207)
+通过科学方法训练自己的身体，让自己更加健康：
 
-PaddleOCR的原创团队出的课程，课程内容涵盖基于深度学习的经典OCR检测识别算法、最新文档结构化技术以及千锤百炼的产业级模型与部署工具。通过广泛调研提炼了重要OCR算法的核心思想，实践部分不仅对代码重要细节做了深入分析，还会实时运行代码展示效果助大家加深理解。
-
-![动手学OCR](https://images-1252557999.file.myqcloud.com/uPic/tcg64l.png) 
+![bryanjohnson](https://images-1252557999.file.myqcloud.com/uPic/bryanjohnson.jpg) 
 
 ## 🕸 网站 
 
-### [AI Reading Hub](https://www.aireadinghub.com/ "AI Reading Hub")
+### [removebg.one](https://removebg.one/)
 
-每天精选值得读的 AI 文章：
+免费的图片背景去除网页工具：
 
-![AI Reading Hub](https://images-1252557999.file.myqcloud.com/uPic/YBUidO.png) 
+![removebg](https://images-1252557999.file.myqcloud.com/uPic/s6r4xu.png) 
 
-### [即时工具](https://www.67tool.com/)
+### [cook](https://github.com/YunYouJun/cook)
 
-该网站提供了视频工具、音频工具、图片工具、PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等工具共计 200 多款，无需登录无任何限制免费试用。
+一个开源的做菜项目，作者提供了[做菜网页版](https://cook.yunyoujun.cn/)让用户可以很方便地进行交互，比如我选择番茄，下面就会有很多选项：
 
-![67tool](https://images-1252557999.file.myqcloud.com/uPic/mhrsW0.jpg) 
+![cook](https://images-1252557999.file.myqcloud.com/uPic/cook.jpg) 
 
-### [seekflag](https://seekflag.com/)
+### [hotkeycheatsheet](https://hotkeycheatsheet.com/zh)
 
-网站提供下载所有国家的国旗 `SVG` 和 `PNG` 大图：
+常用软件的快捷键备忘录：
 
-![seekflag](https://images-1252557999.file.myqcloud.com/uPic/seekflag.jpg) 
+![hotkeycheatsheet](https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg) 
 
 ## ✍️ 说明
 
