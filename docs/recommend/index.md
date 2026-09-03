@@ -5,95 +5,96 @@
 
 ## 🎯 项目 
 
-### [Weekly Hub](https://github.com/howie6879/weeklyhub)
+### [modoboa](https://github.com/modoboa/modoboa)
 
-汇聚优质精选技术周刊，为你提供高质量信息流，让你的学习更加高效：
+`Modoboa` 是一个邮件托管和管理平台，提供了一个简洁的 `Web` 用户界面，包括管理面板、`Webmail`、日历、地址簿等 `Sieve` 过滤器、自动回复消息等功能：
 
-- 周刊文章订阅列表：[Weekly Hub](https://www.fre123.com/wk) & 文末有订阅工具推荐👀
-- 周刊文章展示地址：[weekly.fre123.com](https://www.fre123.com/weekly)
+![modoboa](https://images-1252557999.file.myqcloud.com/uPic/g5Spqy.png)
 
-![fre123_weeklyhub](https://images-1252557999.file.myqcloud.com/uPic/fre123_weeklyhub.jpg) 
+其他邮件项目：
 
-### [dootask](https://github.com/kuaifan/dootask)
+- [mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)：一个 Docker 环境下的邮件服务器解决方案，通过 Docker 容器化的方式，提供了一个完整的邮件服务器解决方案，包括邮件服务器的各种组件，如邮件传输、邮件存储、邮件过滤等。
+- [postal](https://github.com/postalserver/postal)：一个开源的邮件服务器，提供邮件接收与发送功能，可以自行搭建使用，功能齐全，类似 Sendgrid、Mailgun 或 Postmark 的服务。 
 
-DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。
+### [shiori](https://github.com/go-shiori/shiori)
 
-![dootask](https://images-1252557999.file.myqcloud.com/uPic/tYiTA7.png) 
+开源自部署的书签管理服务：
 
-### [easy-gate](https://github.com/r7wx/easy-gate)
+![shiori](https://images-1252557999.file.myqcloud.com/uPic/shiori.jpg) 
 
-`Easy Gate` 是一个使用 `Go` 和 `React` 构建的简单 `Web` 应用程序，它充当您自托管基础设施的主页。服务和注释从 `JSON` 文件中实时解析（无需重新启动应用程序）。可以将服务和注释分配给一个或多个组，以仅向特定用户显示项目（基于他们的 IP 地址）。
+### [form-create](https://github.com/xaboy/form-create)
 
-![easy-gate](https://images-1252557999.file.myqcloud.com/uPic/easy-gate.png) 
+强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
+
+![form-create](https://images-1252557999.file.myqcloud.com/uPic/demo-live3.gif) 
 
 ## 🤖 软件 
 
-### [ShareX](https://github.com/ShareX/ShareX)
+### [winlator](https://github.com/brunodev85/winlator)
 
-`ShareX` 是一款优秀且功能丰富的 `Windows` 开源免费截图/录屏软件 + 文字/文件上传分享的效率工具：
+使用 `Wine & Box86/Box64` 的安卓应用程序，此项目特点是可以运行 `Windows` 应用程序。 
 
-![ShareX](https://images-1252557999.file.myqcloud.com/uPic/ShareX.png) 
+### [paperlib](https://github.com/GeoffreyChen777/paperlib)
 
-### [MirrorX](https://github.com/MirrorX-Desktop/MirrorX)
+面向计算机科学的简单开源学术论文管理工具：
 
-安全、快速与轻量的远程桌面&文件管理工具：
+![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
 
-![MirrorX](https://images-1252557999.file.myqcloud.com/uPic/MirrorX.png) 
+### [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
-### [box](https://github.com/liu673cn/box)
+使用**HWID/Ohook/KMS38/在线KMS**激活方法的 Windows 和 Office 激活工具，注重开源代码和较少的杀毒软件检测：
 
-TVBox 开源版:
-
-- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
-- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
-- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
-- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
-- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
-- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
-- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
-- 配置地址---输入站源---确定即可 URL站源规则
-
-![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
+![Microsoft-Activation-Scripts](https://images-1252557999.file.myqcloud.com/uPic/Microsoft-Activation-Scripts.jpg) 
 
 ## 👀 资料 
 
-### [devtoolstips](https://devtoolstips.org/)
+### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
-一系列简单易懂的跨浏览器技巧和窍门，让你在使用开发者工具时更加得心应手和高效：
+**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
 
-![devtoolstips](https://images-1252557999.file.myqcloud.com/uPic/vHP9UU.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
 
-### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
+### [LLMBook-zh](https://llmbook-zh.github.io/)
 
-一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
+大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
 
-![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
+![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
 
-### [Ahrefs Blog SEO 文章列表](https://xuxuyu.notion.site/1468d1c9ea65473b934917d8ab25979b?v=dcaec075d4b34a8e8af5be0bc9a259a0)
+### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
 
-对 `SEO` 有兴趣可以看看：
+本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
 
-![Ahrefs](https://images-1252557999.file.myqcloud.com/uPic/Ahrefs.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/SBotTN.jpg)
+
+其他同类教程地址：
+
+- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
+- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
 
 ## 🕸 网站 
 
-### [claudecount.com](https://www.claudecount.com/)
+### [programcreek](https://www.programcreek.com/)
 
-`Claude Code` 使用排行榜：
+网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
 
-![claudecount](https://images-1252557999.file.myqcloud.com/uPic/nyvqZR.png) 
+- [Python](https://www.programcreek.com/python/)
+- [Java](https://www.programcreek.com/java-api-examples/)
+- [C++](https://www.programcreek.com/cpp/)
+- [Scala](https://www.programcreek.com/scala/)
 
-### [onlinedoctranslator](https://www.onlinedoctranslator.com/zh-CN/)
+![programcreek](https://images-1252557999.file.myqcloud.com/uPic/YdAEPq.png) 
 
-立即翻译任何文档格式为任意语言，并保持排版不变，免费：
+### [ziyouziti](https://ziyouziti.com/)
 
-![onlinedoctranslator](https://images-1252557999.file.myqcloud.com/uPic/onlinedoctranslator.jpg) 
+免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
 
-### [web-check](https://web-check.xyz/)
+![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
 
-输入目标网址，分析该网站各项 `web` 检查信息，非常详细：
+### [neeva](https://neeva.com/search)
 
-![web-check](https://images-1252557999.file.myqcloud.com/uPic/web-check.jpg) 
+前谷歌工程师构建的免费无广告的搜索引擎，搜索效果挺好：
+
+![neeva](https://images-1252557999.file.myqcloud.com/uPic/neeva.jpg) 
 
 ## ✍️ 说明
 
