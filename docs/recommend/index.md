@@ -5,96 +5,83 @@
 
 ## 🎯 项目 
 
-### [modoboa](https://github.com/modoboa/modoboa)
+### [form-create-designer](https://github.com/xaboy/form-create-designer)
 
-`Modoboa` 是一个邮件托管和管理平台，提供了一个简洁的 `Web` 用户界面，包括管理面板、`Webmail`、日历、地址簿等 `Sieve` 过滤器、自动回复消息等功能：
+`form-create-designer` 是基于 [@form-create/element-ui](https://github.com/xaboy/form-create) 实现的表单设计器组件。可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率，节省开发者的时间：
 
-![modoboa](https://images-1252557999.file.myqcloud.com/uPic/g5Spqy.png)
+![form-create-designer](https://images-1252557999.file.myqcloud.com/uPic/form-create-designer.png) 
 
-其他邮件项目：
+### [linkding](https://github.com/sissbruecker/linkding)
 
-- [mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)：一个 Docker 环境下的邮件服务器解决方案，通过 Docker 容器化的方式，提供了一个完整的邮件服务器解决方案，包括邮件服务器的各种组件，如邮件传输、邮件存储、邮件过滤等。
-- [postal](https://github.com/postalserver/postal)：一个开源的邮件服务器，提供邮件接收与发送功能，可以自行搭建使用，功能齐全，类似 Sendgrid、Mailgun 或 Postmark 的服务。 
+开源的网络书签服务，支持 Docker 部署：
 
-### [shiori](https://github.com/go-shiori/shiori)
+![linkding](https://images-1252557999.file.myqcloud.com/uPic/linkding.png) 
 
-开源自部署的书签管理服务：
+### [kubesphere](https://github.com/kubesphere/kubesphere)
 
-![shiori](https://images-1252557999.file.myqcloud.com/uPic/shiori.jpg) 
+`KubeSphere` 愿景是打造一个以 `Kubernetes` 为内核的 云原生分布式操作系统，它的架构可以非常方便地使第三方应用与云原生生态组件进行即插即用（plug-and-play）的集成，支持云原生应用在多云与多集群的统一分发和运维管理。`KubeSphere` 也是一个多租户容器平台，提供全栈的 IT 自动化运维的能力，简化企业的 DevOps 工作流。
 
-### [form-create](https://github.com/xaboy/form-create)
-
-强大的动态表单生成，通过json生成表单，很强大，适合需要快速构建表单的场景：
-
-![form-create](https://images-1252557999.file.myqcloud.com/uPic/demo-live3.gif) 
+![kubesphere](https://images-1252557999.file.myqcloud.com/uPic/93hYoe.png) 
 
 ## 🤖 软件 
 
-### [winlator](https://github.com/brunodev85/winlator)
+### [Alock](https://github.com/luoxuhai/Alock)
 
-使用 `Wine & Box86/Box64` 的安卓应用程序，此项目特点是可以运行 `Windows` 应用程序。 
+Alock 是一款免费用于隐藏指定 App 的应用。使用 Alock 可以彻底地从 iPhone/iPad 上隐藏指定的 App，隐藏后的 App 在主屏幕、App资料库、搜索、系统设置中均不可见。最大程度保护您的隐私：
 
-### [paperlib](https://github.com/GeoffreyChen777/paperlib)
+![Alock](https://images-1252557999.file.myqcloud.com/uPic/Alock.jpg) 
 
-面向计算机科学的简单开源学术论文管理工具：
+### [bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)
 
-![paperlib](https://images-1252557999.file.myqcloud.com/uPic/paperlib.png) 
+一款基于 `Flutter` 开发的跨平台面端 B 站视频下载器：
 
-### [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+![bilivideo_down](https://images-1252557999.file.myqcloud.com/uPic/bilivideo_down.jpg) 
 
-使用**HWID/Ohook/KMS38/在线KMS**激活方法的 Windows 和 Office 激活工具，注重开源代码和较少的杀毒软件检测：
+### [dockeye](https://github.com/vv9k/dockeye)
 
-![Microsoft-Activation-Scripts](https://images-1252557999.file.myqcloud.com/uPic/Microsoft-Activation-Scripts.jpg) 
+基于`Rust`编写的`Docker`界面管理工具：
+
+![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
 
 ## 👀 资料 
 
-### [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
+### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
 
-**跟我一起写Makefile**是陈皓发表在其CSDN博客上的系列文章。该系列文章翻译整理自 GNU Make Manual ，一直受到读者的推荐，是很多人学习Makefile的首选文档。
+一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/7guTp6.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
 
-### [LLMBook-zh](https://llmbook-zh.github.io/)
+### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
 
-大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
+带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
 
-![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
+![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
 
-### [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
+### [llm-course](https://github.com/mlabonne/llm-course)
 
-本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。
+与大型语言模型(LLM)相关的笔记本和文章清单：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/SBotTN.jpg)
-
-其他同类教程地址：
-
-- NLP百面百搭[微信阅读地址](https://mp.weixin.qq.com/s/8JtYRsUQhQCRnhNfbl0sFQ) | [论文学习笔记(nlp\_paper\_study)](https://github.com/km1994/nlp_paper_study)
-- 推荐系统百面百搭：[github-RES-Interview-Notes](https://github.com/km1994/RES-Interview-Notes) | [论文学习笔记(RS\_paper\_study)](https://github.com/km1994/RS_paper_study) 
+![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
 
 ## 🕸 网站 
 
-### [programcreek](https://www.programcreek.com/)
+### [opensource-heroes](https://opensource-heroes.com/)
 
-网站提供了一些语言比较出名lib的使用示例代码，让开发者可以快速上手，访问地址有：
+星标数最多的开源开发者、组织以及仓库排行榜单：
 
-- [Python](https://www.programcreek.com/python/)
-- [Java](https://www.programcreek.com/java-api-examples/)
-- [C++](https://www.programcreek.com/cpp/)
-- [Scala](https://www.programcreek.com/scala/)
+![opensource-heroes](https://images-1252557999.file.myqcloud.com/uPic/opensource-heroes.jpg) 
 
-![programcreek](https://images-1252557999.file.myqcloud.com/uPic/YdAEPq.png) 
+### [tailspark](https://tailspark.co/)
 
-### [ziyouziti](https://ziyouziti.com/)
+`300+` 免费的 `TailwindCSS` 组件和模板，让您在几分钟内构建网站，颜值也非常高：
 
-免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
+![tailspark](https://images-1252557999.file.myqcloud.com/uPic/tailspark.jpg) 
 
-![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
+### [askaitools.ai](https://askaitools.ai/)
 
-### [neeva](https://neeva.com/search)
+专为人工智能产品量身定制的尖端搜索引擎项目，快速搜索查找 1w+ AI 产品：
 
-前谷歌工程师构建的免费无广告的搜索引擎，搜索效果挺好：
-
-![neeva](https://images-1252557999.file.myqcloud.com/uPic/neeva.jpg) 
+![askaitools](https://images-1252557999.file.myqcloud.com/uPic/askaitools.jpg) 
 
 ## ✍️ 说明
 
