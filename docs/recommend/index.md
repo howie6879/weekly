@@ -5,83 +5,108 @@
 
 ## 🎯 项目 
 
-### [form-create-designer](https://github.com/xaboy/form-create-designer)
+### [Message-Push-Nest](https://github.com/engigu/Message-Push-Nest)
 
-`form-create-designer` 是基于 [@form-create/element-ui](https://github.com/xaboy/form-create) 实现的表单设计器组件。可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率，节省开发者的时间：
+打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义 `webhook` 等多种通知方式。定制你的消息，让通知方式更灵活多样。
 
-![form-create-designer](https://images-1252557999.file.myqcloud.com/uPic/form-create-designer.png) 
 
-### [linkding](https://github.com/sissbruecker/linkding)
+![Message-Push-Nest](https://images-1252557999.file.myqcloud.com/uPic/Message-Push-Nest.jpg) 
 
-开源的网络书签服务，支持 Docker 部署：
+### [taskcafe](https://github.com/JordanKnott/taskcafe)
 
-![linkding](https://images-1252557999.file.myqcloud.com/uPic/linkding.png) 
+带看板的开源项目管理工具:
 
-### [kubesphere](https://github.com/kubesphere/kubesphere)
+- 通过看板界面管理任务（设置截止日期、标签、添加清单）
+- 通过我的任务视图查看所有当前分配的任务
+- 支持个人项目
+- 任务评论和活动
 
-`KubeSphere` 愿景是打造一个以 `Kubernetes` 为内核的 云原生分布式操作系统，它的架构可以非常方便地使第三方应用与云原生生态组件进行即插即用（plug-and-play）的集成，支持云原生应用在多云与多集群的统一分发和运维管理。`KubeSphere` 也是一个多租户容器平台，提供全栈的 IT 自动化运维的能力，简化企业的 DevOps 工作流。
+![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
 
-![kubesphere](https://images-1252557999.file.myqcloud.com/uPic/93hYoe.png) 
+### [monaco-editor](https://github.com/microsoft/monaco-editor)
+
+微软开源的 `Web` 编辑器：
+
+![monaco-editor](https://images-1252557999.file.myqcloud.com/uPic/monaco-editor.png) 
 
 ## 🤖 软件 
 
-### [Alock](https://github.com/luoxuhai/Alock)
+### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
 
-Alock 是一款免费用于隐藏指定 App 的应用。使用 Alock 可以彻底地从 iPhone/iPad 上隐藏指定的 App，隐藏后的 App 在主屏幕、App资料库、搜索、系统设置中均不可见。最大程度保护您的隐私：
+这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
 
-![Alock](https://images-1252557999.file.myqcloud.com/uPic/Alock.jpg) 
+- SSH连接操作
+- Jupyter支持
+- Code Server（Web版VS Code） 支持
+- 文件管理支持
+- 自带Python：写点常用脚本不在话下
+- 上手深度学习
+- 等等
 
-### [bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)
+这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
 
-一款基于 `Flutter` 开发的跨平台面端 B 站视频下载器：
+![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
 
-![bilivideo_down](https://images-1252557999.file.myqcloud.com/uPic/bilivideo_down.jpg) 
+### [notify-me](https://github.com/jinweijie/notify-me)
 
-### [dockeye](https://github.com/vv9k/dockeye)
+开源免费的 `Android` 应用，自动捕获来电和短信，并通过电子邮件或 `Webhook` 转发至 `Bark` 服务器。用户可在其他设备上通过 Bark 应用接收通知，确保及时获取重要信息，解决多设备信息聚合的问题：
 
-基于`Rust`编写的`Docker`界面管理工具：
+![notify-me](https://images-1252557999.file.myqcloud.com/uPic/oSr8cn.png) 
 
-![dockeye](https://images-1252557999.file.myqcloud.com/uPic/Y6s09g.jpg) 
+### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
+
+> 让每个人都简单方便的使用前沿人工智能技术
+
+一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
+
+![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
 
 ## 👀 资料 
 
-### [hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)
+### [JavaScript30](https://github.com/wesbos/JavaScript30)
 
-一位在杭州工作的程序员写的2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料：
+30 天 JS 挑战，助力学习提升 JS 技巧：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/96wIDJ.png) 
+![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
 
-### [Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial)
+### [PKU-DAIR/Starter-Guide](https://github.com/PKU-DAIR/Starter-Guide)
 
-带大家熟悉 Llama 3 微调、量化部署、评测全链路（基于书生·浦语大模型工具链）：
+本仓库为PKU-DAIR团队为相关领域的新人提供全面的开源文档和技术指南。通过汇集团队的核心论文和经验分享，将帮助初学者快速熟悉数据管理(Data Management, DM) 和 人工智能(Artificial Intelligence, AI) 等前沿领域，搭建坚实的技术基础。无论你是刚入门还是希望加深理解，仓库中的资源将为你的学习和研究之旅提供有力支持。
 
-![Llama3-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/Llama3-Tutorial.jpg) 
+![PKU-DAIR/Starter-Guide](https://images-1252557999.file.myqcloud.com/uPic/KnGu45.png) 
 
-### [llm-course](https://github.com/mlabonne/llm-course)
+### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
 
-与大型语言模型(LLM)相关的笔记本和文章清单：
-
-![llm-course](https://images-1252557999.file.myqcloud.com/uPic/llm-course.jpg) 
+互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
 
 ## 🕸 网站 
 
-### [opensource-heroes](https://opensource-heroes.com/)
+### [vert.sh](https://vert.sh/)
 
-星标数最多的开源开发者、组织以及仓库排行榜单：
+`VERT.sh` 提供了一个全面的文件转换服务，涵盖图片、音频、文档和视频等多种格式的处理。对于图片，支持的格式包括 PNG、JPEG、JPG、WEBP、GIF 等常见格式，以及 HEIC、ICO、BMP 等更多专业格式。
 
-![opensource-heroes](https://images-1252557999.file.myqcloud.com/uPic/opensource-heroes.jpg) 
+- 音频方面，支持 MP3、WAV、FLAC、OGG 等主流格式
+- 文档支持 DOCX、XML、DOC 等多种格式
+- 视频转换通常在服务器上进行，支持 MKV、MP4、WEBM 等格式。
 
-### [tailspark](https://tailspark.co/)
+值得注意的是，所有的图片、音频和文档处理都是在本地完成的，确保了用户数据的安全性和隐私性。
 
-`300+` 免费的 `TailwindCSS` 组件和模板，让您在几分钟内构建网站，颜值也非常高：
+![vert.sh](https://images-1252557999.file.myqcloud.com/uPic/Vclo9P.png) 
 
-![tailspark](https://images-1252557999.file.myqcloud.com/uPic/tailspark.jpg) 
+### [duckduckgo-chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
 
-### [askaitools.ai](https://askaitools.ai/)
+`DuckDuckGo` 开放了免费的 `AI` 聊天机器人，支持模型有：
 
-专为人工智能产品量身定制的尖端搜索引擎项目，快速搜索查找 1w+ AI 产品：
+- GPT-3.5 Turbo
+- Claude 1.2 Instant
 
-![askaitools](https://images-1252557999.file.myqcloud.com/uPic/askaitools.jpg) 
+![duckduckgo_chat](https://images-1252557999.file.myqcloud.com/uPic/duckduckgo_chat.jpg) 
+
+### [CronTool](https://tool.crontap.com/cronjob-debugger)
+
+`Linux Crontab` 可视化网站：
+
+![crontap](https://images-1252557999.file.myqcloud.com/uPic/crontap.jpg) 
 
 ## ✍️ 说明
 
