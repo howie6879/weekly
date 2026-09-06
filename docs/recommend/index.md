@@ -5,108 +5,90 @@
 
 ## 🎯 项目 
 
-### [Message-Push-Nest](https://github.com/engigu/Message-Push-Nest)
+### [actual](https://github.com/actualbudget/actual)
 
-打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义 `webhook` 等多种通知方式。定制你的消息，让通知方式更灵活多样。
+自部署的个人理财开源项目：
 
+![actual](https://images-1252557999.file.myqcloud.com/uPic/jXtBXk.png) 
 
-![Message-Push-Nest](https://images-1252557999.file.myqcloud.com/uPic/Message-Push-Nest.jpg) 
+### [click-prompt](https://github.com/prompt-engineering/click-prompt)
 
-### [taskcafe](https://github.com/JordanKnott/taskcafe)
+ClickPrompt 是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，例如 Stable Diffusion、ChatGPT 和 GitHub Copilot 等。 使用 ClickPrompt，您可以轻松地查看、分享和一键运行这些模型，同时提供在线的 Prompt 生成器，使用户能够根据自己的需求轻松创建符合要求的 Prompt，并与其他人分享。
 
-带看板的开源项目管理工具:
+![clickprompt](https://images-1252557999.file.myqcloud.com/uPic/clickprompt.jpg) 
 
-- 通过看板界面管理任务（设置截止日期、标签、添加清单）
-- 通过我的任务视图查看所有当前分配的任务
-- 支持个人项目
-- 任务评论和活动
+### [logto](https://github.com/logto-io/logto)
 
-![taskcafe](https://images-1252557999.file.myqcloud.com/uPic/taskcafe.png) 
+`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
 
-### [monaco-editor](https://github.com/microsoft/monaco-editor)
+核心功能：
 
-微软开源的 `Web` 编辑器：
+- 一个基于 `OIDC` 的身份服务
+- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
+- 动态短信/邮件验证码登录/注册
+- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
+- 基于 web 的图形化管理控制台
+- 可扩展的多语言支持
 
-![monaco-editor](https://images-1252557999.file.myqcloud.com/uPic/monaco-editor.png) 
+![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
 
 ## 🤖 软件 
 
-### [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)
+### [Xournal++](https://github.com/xournalpp/xournalpp)
 
-这是一款开源的安卓端软件，其核心功能就是**将你的手机打造成Linux**，经过两年的发展，目前这款`app`已经做到开箱即用，支持如下功能：
+`Xournal++`是一款支持PDF注释的开源手写笔记软件，同样具有跨平台属性，功能挺多，有数位板的可以体验一下。
 
-- SSH连接操作
-- Jupyter支持
-- Code Server（Web版VS Code） 支持
-- 文件管理支持
-- 自带Python：写点常用脚本不在话下
-- 上手深度学习
-- 等等
+![Xournal++](https://images-1252557999.file.myqcloud.com/uPic/2DWaXR.jpg) 
 
-这项目还是挺有意思，大家可以挖掘一下，把手机的性能榨干，在电脑上可以通过网页操作：
+### [BBLL](https://github.com/xiaye13579/BBLL)
 
-![PCypgC01](https://images-1252557999.file.myqcloud.com/uPic/PCypgC01.png) 
+一个第三方哔哩哔哩 `TV` 和 `Pad` 客户端，仅供学习与交流使用:
 
-### [notify-me](https://github.com/jinweijie/notify-me)
+![BBLL](https://images-1252557999.file.myqcloud.com/uPic/BBLL.jpeg) 
 
-开源免费的 `Android` 应用，自动捕获来电和短信，并通过电子邮件或 `Webhook` 转发至 `Bark` 服务器。用户可在其他设备上通过 Bark 应用接收通知，确保及时获取重要信息，解决多设备信息聚合的问题：
+### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
-![notify-me](https://images-1252557999.file.myqcloud.com/uPic/oSr8cn.png) 
+跨平台的 `PostgreSQL` 数据库管理软件（开源）：
 
-### [Paper2GUI](https://github.com/Baiyuetribe/paper2gui)
-
-> 让每个人都简单方便的使用前沿人工智能技术
-
-一款面向普通人的AI桌面APP工具箱，免安装即开即用，已支持18+AI模型，内容涵盖语音合成、视频补帧、视频超分、目标检测、图片风格化、OCR识别等领域。支持Windows、Mac、Linux系统，未来还将适配安卓和苹果设备，另外还有小程序。
-
-![paper2gui](https://images-1252557999.file.myqcloud.com/uPic/paper2gui.png) 
+![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
 
 ## 👀 资料 
 
-### [JavaScript30](https://github.com/wesbos/JavaScript30)
+### [lc3-vm](https://www.jmeiners.com/lc3-vm/)
 
-30 天 JS 挑战，助力学习提升 JS 技巧：
+教程主要介绍了如何编写自己的虚拟机（VM），以运行 LC-3 架构的汇编语言程序，旨在帮助程序员更深入地理解计算机内部运作和编程语言的工作原理：
 
-![JavaScript30](https://images-1252557999.file.myqcloud.com/uPic/JavaScript30.png) 
+![lc3-vm](https://images-1252557999.file.myqcloud.com/uPic/rtzTGT.png) 
 
-### [PKU-DAIR/Starter-Guide](https://github.com/PKU-DAIR/Starter-Guide)
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-本仓库为PKU-DAIR团队为相关领域的新人提供全面的开源文档和技术指南。通过汇集团队的核心论文和经验分享，将帮助初学者快速熟悉数据管理(Data Management, DM) 和 人工智能(Artificial Intelligence, AI) 等前沿领域，搭建坚实的技术基础。无论你是刚入门还是希望加深理解，仓库中的资源将为你的学习和研究之旅提供有力支持。
+夯实计算机基础，该怎么学，这个项目给出了答案：
 
-![PKU-DAIR/Starter-Guide](https://images-1252557999.file.myqcloud.com/uPic/KnGu45.png) 
+![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
 
-### [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
+### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
 
-互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构。 
+互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
 
 ## 🕸 网站 
 
-### [vert.sh](https://vert.sh/)
+### [熊猫速读](https://qread.xmsoushu.com/)
 
-`VERT.sh` 提供了一个全面的文件转换服务，涵盖图片、音频、文档和视频等多种格式的处理。对于图片，支持的格式包括 PNG、JPEG、JPG、WEBP、GIF 等常见格式，以及 HEIC、ICO、BMP 等更多专业格式。
+熊猫速读是一个收集精品视频读书笔记或好书分享的网站！为您推荐好书速读的视频，在您读一本书或者购买图书之前通过视频介绍先快速了解书籍的内容，根据兴趣再决定是否购买。
 
-- 音频方面，支持 MP3、WAV、FLAC、OGG 等主流格式
-- 文档支持 DOCX、XML、DOC 等多种格式
-- 视频转换通常在服务器上进行，支持 MKV、MP4、WEBM 等格式。
+![xmsd](https://images-1252557999.file.myqcloud.com/uPic/xmsd.jpg) 
 
-值得注意的是，所有的图片、音频和文档处理都是在本地完成的，确保了用户数据的安全性和隐私性。
+### [devv.ai](https://devv.ai/)
 
-![vert.sh](https://images-1252557999.file.myqcloud.com/uPic/Vclo9P.png) 
+`Devv AI` 是面向开发者的新一代 `AI` 搜索引擎，类似 `Bing AI` 的使用体验，针对程序员这块做了优化，背后使用的是 `GPT3.5`：
 
-### [duckduckgo-chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
+![devv](https://images-1252557999.file.myqcloud.com/uPic/devv.jpg) 
 
-`DuckDuckGo` 开放了免费的 `AI` 聊天机器人，支持模型有：
+### [http.cat](https://http.cat)
 
-- GPT-3.5 Turbo
-- Claude 1.2 Instant
+如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
 
-![duckduckgo_chat](https://images-1252557999.file.myqcloud.com/uPic/duckduckgo_chat.jpg) 
-
-### [CronTool](https://tool.crontap.com/cronjob-debugger)
-
-`Linux Crontab` 可视化网站：
-
-![crontap](https://images-1252557999.file.myqcloud.com/uPic/crontap.jpg) 
+![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
 
 ## ✍️ 说明
 
