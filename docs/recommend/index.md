@@ -5,90 +5,104 @@
 
 ## 🎯 项目 
 
-### [actual](https://github.com/actualbudget/actual)
+### [carbonyl](https://github.com/fathyb/carbonyl)
 
-自部署的个人理财开源项目：
+在你的终端使用 `Chromium`：
 
-![actual](https://images-1252557999.file.myqcloud.com/uPic/jXtBXk.png) 
+![carbonyl](https://images-1252557999.file.myqcloud.com/uPic/carbonyl.jpg) 
 
-### [click-prompt](https://github.com/prompt-engineering/click-prompt)
+### [devika](https://github.com/stitionai/devika "devika")
 
-ClickPrompt 是一款专为 Prompt 编写者设计的工具，它支持多种基于 Prompt 的 AI 应用，例如 Stable Diffusion、ChatGPT 和 GitHub Copilot 等。 使用 ClickPrompt，您可以轻松地查看、分享和一键运行这些模型，同时提供在线的 Prompt 生成器，使用户能够根据自己的需求轻松创建符合要求的 Prompt，并与其他人分享。
+Devika 是一名 Agentic AI 软件工程师，可以理解高级人类指令并将其分解到各个步骤，然后研究相关信息，并编写代码以实现给定的目标。
 
-![clickprompt](https://images-1252557999.file.myqcloud.com/uPic/clickprompt.jpg) 
+![devika](https://images-1252557999.file.myqcloud.com/uPic/devika.png)
 
-### [logto](https://github.com/logto-io/logto)
+Devika 旨在成为 Cognition AI 的 Devin 的竞争性开源替代品。 
 
-`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
+### [appstore-discounts](https://github.com/eyelly-wu/appstore-discounts)
 
-核心功能：
+开源的 App Store 折扣信息助手，基于 GitHub Actions 实现，支持 RSS，Telegram 和钉钉通知：
 
-- 一个基于 `OIDC` 的身份服务
-- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
-- 动态短信/邮件验证码登录/注册
-- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
-- 基于 web 的图形化管理控制台
-- 可扩展的多语言支持
-
-![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
+- 支持任意 国家或地区 的 App Store （理论上🤔）
+- 支持追踪 应用本体 的价格和 App 内购买项目 的价格
+- 支持多种方式订阅折扣信息
+- 开源免费，任何人可参与贡献 
 
 ## 🤖 软件 
 
-### [Xournal++](https://github.com/xournalpp/xournalpp)
+### [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop)
 
-`Xournal++`是一款支持PDF注释的开源手写笔记软件，同样具有跨平台属性，功能挺多，有数位板的可以体验一下。
+基于 `tauri + vue3` 开发的跨平台桌面端应用，当今社会，智能化、便捷化已经成为趋势。选择 ChatGPT-Desktop，您将享受到以下优势：
 
-![Xournal++](https://images-1252557999.file.myqcloud.com/uPic/2DWaXR.jpg) 
+- 我们使用 tauri 构建项目，使项目包更加小巧精简，资源占用更少，同时适配多个平台。
+- 提供了配置代理的功能，您可以通过设置代理来实现更加灵活的网络访问。
+- 可以选择让 app 常驻后台，快捷键(支持自定义)一键唤醒，节省时间，提高效率。
+- 支持多 session 对话，利用 GPT-3.5-turbo 的最新特性，配合记忆模式，随时继续上一次对话。
+- 更便捷的管理和调试 prompt，构建你自己的角色预设库，使得对话更加个性化。
+- 内置丰富的导出功能，更加便利的分享结果！
+- 软件支持自动更新和手动检查更新的功能，以便大家更方便地更新软件。
+- 将所有对话存储到本地，方便随时查阅，留在身边最安心。
 
-### [BBLL](https://github.com/xiaye13579/BBLL)
+![ChatGPT-Desktop](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Desktop.png) 
 
-一个第三方哔哩哔哩 `TV` 和 `Pad` 客户端，仅供学习与交流使用:
+### [FlyEnv](https://github.com/xpf0000/FlyEnv)
 
-![BBLL](https://images-1252557999.file.myqcloud.com/uPic/BBLL.jpeg) 
+`FlyEnv` 是一个集成环境管理工具，支持 `macOS、Windows & Linux` 系统，提供多语言和技术栈支持，包括 PHP 工具、Web 服务器、数据库、邮件服务器等，简化了开发环境的配置和切换:
 
-### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
+![FlyEnv](https://images-1252557999.file.myqcloud.com/uPic/WMQbSK.png) 
 
-跨平台的 `PostgreSQL` 数据库管理软件（开源）：
+### [fubukicss-tool](https://github.com/zouhangwithsweet/fubukicss-tool)
 
-![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
+解决 `Figma` 设计图查看代码需要升级付费的问题，该项目提供一个浏览器扩展，可以一步获取来自 `Figma` 设计图的 `TailwindCSS/Unocss/CSS` 代码，加速开发：
+
+![fubukicss-tool](https://images-1252557999.file.myqcloud.com/uPic/fubukicss-tool.jpg) 
 
 ## 👀 资料 
 
-### [lc3-vm](https://www.jmeiners.com/lc3-vm/)
+### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
-教程主要介绍了如何编写自己的虚拟机（VM），以运行 LC-3 架构的汇编语言程序，旨在帮助程序员更深入地理解计算机内部运作和编程语言的工作原理：
+30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
 
-![lc3-vm](https://images-1252557999.file.myqcloud.com/uPic/rtzTGT.png) 
+![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+### [English-Writing](https://github.com/yzy1996/English-Writing)
 
-夯实计算机基础，该怎么学，这个项目给出了答案：
+本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
 
-![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
+### [tmplink/ipv6](https://github.com/tmplink/ipv6)
 
-### [coder2gwy](https://github.com/coder2gwy/coder2gwy)
-
-互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 
+本文档主要讲解 IPv6 的一些皮毛知识，主要是让读者理解 IPv6 地址的一些概念，诸如前缀，子网，接口。 
 
 ## 🕸 网站 
 
-### [熊猫速读](https://qread.xmsoushu.com/)
+### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
 
-熊猫速读是一个收集精品视频读书笔记或好书分享的网站！为您推荐好书速读的视频，在您读一本书或者购买图书之前通过视频介绍先快速了解书籍的内容，根据兴趣再决定是否购买。
+老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
 
-![xmsd](https://images-1252557999.file.myqcloud.com/uPic/xmsd.jpg) 
+- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
+- Gemini Pro 体验地址：https://gemini.fre123.com/
 
-### [devv.ai](https://devv.ai/)
+![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
 
-`Devv AI` 是面向开发者的新一代 `AI` 搜索引擎，类似 `Bing AI` 的使用体验，针对程序员这块做了优化，背后使用的是 `GPT3.5`：
+### [ui.aceternity.com](https://ui.aceternity.com/components)
 
-![devv](https://images-1252557999.file.myqcloud.com/uPic/devv.jpg) 
+网站包含多种前端动态效果，可以一键复制代码使用，同类网站有：
 
-### [http.cat](https://http.cat)
+- https://uiverse.io/
+- https://www.handsome-css.com/
 
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
+![aceternity](https://images-1252557999.file.myqcloud.com/uPic/aceternity.jpg) 
 
-![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
+### [appbaseio/mirage](https://opensource.appbase.io/mirage/)
+
+这是一个用于简化 `ES` 查询语句编写的开源项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句：
+
+- 开源代码地址：[https://github.com/appbaseio/mirage](https://github.com/appbaseio/mirage)
+- 访问地址： [https://opensource.appbase.io/mirage/](https://opensource.appbase.io/mirage/)
+
+当然你也可以本机自行部署，非常方便，比较遗憾的是目前只支持到 `-v7.x`：
+
+![mirage](https://images-1252557999.file.myqcloud.com/uPic/mirage.png) 
 
 ## ✍️ 说明
 
