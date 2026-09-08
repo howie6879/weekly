@@ -5,104 +5,86 @@
 
 ## 🎯 项目 
 
-### [carbonyl](https://github.com/fathyb/carbonyl)
+### [osquery](https://github.com/osquery/osquery)
 
-在你的终端使用 `Chromium`：
+像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
 
-![carbonyl](https://images-1252557999.file.myqcloud.com/uPic/carbonyl.jpg) 
+![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
 
-### [devika](https://github.com/stitionai/devika "devika")
+### [wtfutil](https://github.com/wtfutil/wtf)
 
-Devika 是一名 Agentic AI 软件工程师，可以理解高级人类指令并将其分解到各个步骤，然后研究相关信息，并编写代码以实现给定的目标。
+在你的终端定制化仪表盘，提供 IP 信息、世界时间、系统信息、充电信息、系统状态、GitHub 等信息集中展示，也可以通过配置实现业务监控：
 
-![devika](https://images-1252557999.file.myqcloud.com/uPic/devika.png)
+![wtfutil](https://images-1252557999.file.myqcloud.com/uPic/wtfutil.jpeg) 
 
-Devika 旨在成为 Cognition AI 的 Devin 的竞争性开源替代品。 
+### [linkwarden](https://github.com/linkwarden/linkwarden)
 
-### [appstore-discounts](https://github.com/eyelly-wu/appstore-discounts)
+一个自托管的、开源的协作式书签管理器，用于收集、组织和归档网页:
 
-开源的 App Store 折扣信息助手，基于 GitHub Actions 实现，支持 RSS，Telegram 和钉钉通知：
-
-- 支持任意 国家或地区 的 App Store （理论上🤔）
-- 支持追踪 应用本体 的价格和 App 内购买项目 的价格
-- 支持多种方式订阅折扣信息
-- 开源免费，任何人可参与贡献 
+![linkwarden](https://images-1252557999.file.myqcloud.com/uPic/linkwarden.png) 
 
 ## 🤖 软件 
 
-### [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop)
+### [apkupdater](https://github.com/rumboalla/apkupdater)
 
-基于 `tauri + vue3` 开发的跨平台桌面端应用，当今社会，智能化、便捷化已经成为趋势。选择 ChatGPT-Desktop，您将享受到以下优势：
+`APKUpdater` 是一个开源工具，它能让你轻松追踪和更新你的 `APK` 应用。
+它提供类似于应用商店的功能，但不依赖于单一来源，而是把 `APKMirror、Aptoide、F-Droid、IzzyOnDroid、APKPure、GitLab、GitHub` 这 7 大平台的应用资源都聚合在一起：
 
-- 我们使用 tauri 构建项目，使项目包更加小巧精简，资源占用更少，同时适配多个平台。
-- 提供了配置代理的功能，您可以通过设置代理来实现更加灵活的网络访问。
-- 可以选择让 app 常驻后台，快捷键(支持自定义)一键唤醒，节省时间，提高效率。
-- 支持多 session 对话，利用 GPT-3.5-turbo 的最新特性，配合记忆模式，随时继续上一次对话。
-- 更便捷的管理和调试 prompt，构建你自己的角色预设库，使得对话更加个性化。
-- 内置丰富的导出功能，更加便利的分享结果！
-- 软件支持自动更新和手动检查更新的功能，以便大家更方便地更新软件。
-- 将所有对话存储到本地，方便随时查阅，留在身边最安心。
+![apkupdater](https://images-1252557999.file.myqcloud.com/uPic/apkupdater.jpg) 
 
-![ChatGPT-Desktop](https://images-1252557999.file.myqcloud.com/uPic/ChatGPT-Desktop.png) 
+### [SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote)
 
-### [FlyEnv](https://github.com/xpf0000/FlyEnv)
+> 刚毕业的大学生 Alpha Liu，是一位热爱硬件的极客。他开发了一款名为 SpeedyNote 的开源笔记软件，专为无纸化学习而生，致力于让低端设备也能拥有流畅、极致的书写体验。并将这个项目视为一份开源礼物，送给所有因硬件门槛而被挡在无纸化学习门外的同学，也为那些被遗忘的旧平板、老电脑注入了新的活力。
 
-`FlyEnv` 是一个集成环境管理工具，支持 `macOS、Windows & Linux` 系统，提供多语言和技术栈支持，包括 PHP 工具、Web 服务器、数据库、邮件服务器等，简化了开发环境的配置和切换:
+一款简单的笔记应用，性能出色，支持 PDF 导入，
 
-![FlyEnv](https://images-1252557999.file.myqcloud.com/uPic/WMQbSK.png) 
+![SpeedyNote](https://images-1252557999.file.myqcloud.com/uPic/aTbqHl.png) 
 
-### [fubukicss-tool](https://github.com/zouhangwithsweet/fubukicss-tool)
+### [LLPlayer](https://github.com/umlx5h/LLPlayer)
 
-解决 `Figma` 设计图查看代码需要升级付费的问题，该项目提供一个浏览器扩展，可以一步获取来自 `Figma` 设计图的 `TailwindCSS/Unocss/CSS` 代码，加速开发：
+`LLPlayer` 是一款专为语言学习而设计的媒体播放器，具备双字幕、AI 生成字幕、实时翻译等独特功能，`Windows` 专属。
 
-![fubukicss-tool](https://images-1252557999.file.myqcloud.com/uPic/fubukicss-tool.jpg) 
+![LLPlayer](https://images-1252557999.file.myqcloud.com/uPic/6t8Ue2.png) 
 
 ## 👀 资料 
 
-### [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+### [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial)
 
-30天`JavaScript`编程挑战，带你一步一步熟悉掌握JS：
+一份用 `Python` 编写 `systemd` 服务的教程。 
 
-![30-Days-Of-JavaScript](https://images-1252557999.file.myqcloud.com/uPic/ez5bI4.png) 
+### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
 
-### [English-Writing](https://github.com/yzy1996/English-Writing)
+2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
 
-本项目收录作者在阅读论文的过程中收集整理的一些好的**英语用法**。 
+![](https://images-1252557999.file.myqcloud.com/uPic/AHWB7M.jpg)
 
-### [tmplink/ipv6](https://github.com/tmplink/ipv6)
+更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
 
-本文档主要讲解 IPv6 的一些皮毛知识，主要是让读者理解 IPv6 地址的一些概念，诸如前缀，子网，接口。 
+### [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
+
+这个项目的目标是带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来，每周更新两篇，有兴趣的朋友可以追更下，架构图：
+
+![linux0.11-talk](https://images-1252557999.file.myqcloud.com/uPic/P4ekdG.jpg) 
 
 ## 🕸 网站 
 
-### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
+### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
 
-老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
+来自阿里体系的各种技术资料，全部免费，个人非常推荐。
 
-- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
-- Gemini Pro 体验地址：https://gemini.fre123.com/
+![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
 
-![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
+### [chess.com](https://www.chess.com/)
 
-### [ui.aceternity.com](https://ui.aceternity.com/components)
+在线国际象棋：
 
-网站包含多种前端动态效果，可以一键复制代码使用，同类网站有：
+![chess](https://images-1252557999.file.myqcloud.com/uPic/chess.jpg) 
 
-- https://uiverse.io/
-- https://www.handsome-css.com/
+### [onepdf](https://www.onepdf.online/)
 
-![aceternity](https://images-1252557999.file.myqcloud.com/uPic/aceternity.jpg) 
+免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
 
-### [appbaseio/mirage](https://opensource.appbase.io/mirage/)
-
-这是一个用于简化 `ES` 查询语句编写的开源项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句：
-
-- 开源代码地址：[https://github.com/appbaseio/mirage](https://github.com/appbaseio/mirage)
-- 访问地址： [https://opensource.appbase.io/mirage/](https://opensource.appbase.io/mirage/)
-
-当然你也可以本机自行部署，非常方便，比较遗憾的是目前只支持到 `-v7.x`：
-
-![mirage](https://images-1252557999.file.myqcloud.com/uPic/mirage.png) 
+![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
 
 ## ✍️ 说明
 
