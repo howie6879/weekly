@@ -5,86 +5,88 @@
 
 ## 🎯 项目 
 
-### [osquery](https://github.com/osquery/osquery)
+### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 
-像操作 `SQL` 一样操作你的电脑，适用于Linux、macOS和Windows：
+免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
 
-![osquery](https://images-1252557999.file.myqcloud.com/uPic/osquery.jpg) 
+![rxresu](https://images-1252557999.file.myqcloud.com/uPic/rxresu.jpg) 
 
-### [wtfutil](https://github.com/wtfutil/wtf)
+### [awesome-compose](https://github.com/docker/awesome-compose)
 
-在你的终端定制化仪表盘，提供 IP 信息、世界时间、系统信息、充电信息、系统状态、GitHub 等信息集中展示，也可以通过配置实现业务监控：
+一些 `Docker Compose` 的实践示例。 
 
-![wtfutil](https://images-1252557999.file.myqcloud.com/uPic/wtfutil.jpeg) 
+### [Gmeek](https://github.com/Meekdai/Gmeek)
 
-### [linkwarden](https://github.com/linkwarden/linkwarden)
+一个博客框架，超轻量级个人博客模板。完全基于 `Github Pages、Github Issues & Github Actions`。不需要本地部署，从搭建到写作，只需要18秒，2步搭建好博客，第3步就是写作。
 
-一个自托管的、开源的协作式书签管理器，用于收集、组织和归档网页:
-
-![linkwarden](https://images-1252557999.file.myqcloud.com/uPic/linkwarden.png) 
+![Gmeek](https://images-1252557999.file.myqcloud.com/uPic/KUg5Lm.png) 
 
 ## 🤖 软件 
 
-### [apkupdater](https://github.com/rumboalla/apkupdater)
+### [腾讯交互翻译 TranSmart](https://transmart.qq.com/zh-CN/intro)
 
-`APKUpdater` 是一个开源工具，它能让你轻松追踪和更新你的 `APK` 应用。
-它提供类似于应用商店的功能，但不依赖于单一来源，而是把 `APKMirror、Aptoide、F-Droid、IzzyOnDroid、APKPure、GitLab、GitHub` 这 7 大平台的应用资源都聚合在一起：
+腾讯交互翻译融合了腾讯人工智能实验室自研的交互式机器翻译、神经网络机器翻译、 统计机器翻译、语义理解、信息检索等技术，帮助用户更快、更好地完成翻译任务。
 
-![apkupdater](https://images-1252557999.file.myqcloud.com/uPic/apkupdater.jpg) 
+包含网页、跨平台客户端、插件等使用形式，翻译质量也还不错，诚意满满：
 
-### [SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote)
+![TranSmart](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-10-16_09-57-06.jpg) 
 
-> 刚毕业的大学生 Alpha Liu，是一位热爱硬件的极客。他开发了一款名为 SpeedyNote 的开源笔记软件，专为无纸化学习而生，致力于让低端设备也能拥有流畅、极致的书写体验。并将这个项目视为一份开源礼物，送给所有因硬件门槛而被挡在无纸化学习门外的同学，也为那些被遗忘的旧平板、老电脑注入了新的活力。
+### [TomatoBar](https://github.com/ivoronin/TomatoBar)
 
-一款简单的笔记应用，性能出色，支持 PDF 导入，
+你听说过番茄工作法吗？这是一种很好的技巧，可以帮助你在学习或工作期间掌握时间并保持专注。`TomatoBar` 是一款非常整洁的 `macOS` 菜单栏番茄钟：
 
-![SpeedyNote](https://images-1252557999.file.myqcloud.com/uPic/aTbqHl.png) 
+![TomatoBar](https://images-1252557999.file.myqcloud.com/uPic/TomatoBar.png) 
 
-### [LLPlayer](https://github.com/umlx5h/LLPlayer)
+### [FreeReNamer](https://github.com/cyhuajuan/FreeReNamer)
 
-`LLPlayer` 是一款专为语言学习而设计的媒体播放器，具备双字幕、AI 生成字幕、实时翻译等独特功能，`Windows` 专属。
+功能强大又易用的文件批量重命名软件：
 
-![LLPlayer](https://images-1252557999.file.myqcloud.com/uPic/6t8Ue2.png) 
+![FreeReNamer](https://images-1252557999.file.myqcloud.com/uPic/wSK06i.png) 
 
 ## 👀 资料 
 
-### [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial)
+### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
 
-一份用 `Python` 编写 `systemd` 服务的教程。 
+吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
 
-### [魔都防疫指南](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
+![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
 
-2022年3月，新冠疫情再度爆发，上海成为主战场。为帮助群众更好地解决特殊时期生活问题，温州和上海两地志愿者合作编写《魔都防疫指南》，按照「志愿者花时间，帮群众省时间」原则，收集、审核、汇总、发布最新信息，以问答方式，提供求助、防疫、看病、买菜、身心、社区等方面实用资讯，并附上链接和推荐人。
+### [qianguyihao/Web](https://github.com/qianguyihao/Web)
 
-![](https://images-1252557999.file.myqcloud.com/uPic/AHWB7M.jpg)
+千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师:
 
-更多信息请访问：[疫情封控期物资信息共享互助平台](https://helpshanghai.com/) 
+- 网上的大部分入门教程，都不太适合初学者，本项目争取照顾到每一位前端入门者的同理心。即使你完全不懂前端，甚至不懂编程，通过这个教程，也能让小白入门。
+- 帮助前端同学提供一个精品学习资源和路线，提高学习效率，少走很多弯路。
 
-### [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
+![qianguyihao](https://images-1252557999.file.myqcloud.com/uPic/qianguyihao.jpg)
 
-这个项目的目标是带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来，每周更新两篇，有兴趣的朋友可以追更下，架构图：
+可以当做前端字典，随时翻阅，查漏补缺，在线观看地址：[web.qianguyihao.com](https://web.qianguyihao.com/)。 
 
-![linux0.11-talk](https://images-1252557999.file.myqcloud.com/uPic/P4ekdG.jpg) 
+### [大模型基础](https://github.com/datawhalechina/so-large-lm)
+
+本项目旨在作为一个大规模预训练语言模型的教程，从数据准备、模型构建、训练策略到模型评估与改进，以及模型在安全、隐私、环境和法律道德方面的方面来提供开源知识。
+
+![so-large-lm](https://images-1252557999.file.myqcloud.com/uPic/so-large-lm.jpg) 
 
 ## 🕸 网站 
 
-### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
+### [必应壁纸](https://bing.ioliu.cn/)
 
-来自阿里体系的各种技术资料，全部免费，个人非常推荐。
+收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
 
-![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
+![bing](https://images-1252557999.file.myqcloud.com/uPic/bing.jpg) 
 
-### [chess.com](https://www.chess.com/)
+### [allthingsai](https://allthingsai.com/)
 
-在线国际象棋：
+提供完整的 `AI` 相关工具&服务资源：
 
-![chess](https://images-1252557999.file.myqcloud.com/uPic/chess.jpg) 
+![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
 
-### [onepdf](https://www.onepdf.online/)
+### [rare-big-deal](https://rarebigdeal.com/)
 
-免费的 `PDF` 格式转换网站，支持PDF 转 Word 、PDF 转 Excel 、PDF 转 PPT 、PDF 转 JPG 、PDF 转 PNG 、Word 转 PDF 、Excel 转 PDF 、PPT 转 PDF 、JPG 转 PDF 、PNG 转 PDF 、CAD 转 PDF 功能：
+一个专门为黑五/网络星期一等活动提供软件和工具优惠的资源库。该资源库汇集了多种类别的产品和服务，包括 macOS 应用、API、浏览器插件、AI 工具、iOS 应用、设计工具、生产力工具、营销工具、SEO 工具、样板文件、学习资源、健康和健身应用、金融工具、邮件列表、专业化服务等：
 
-![onepdf](https://images-1252557999.file.myqcloud.com/uPic/onepdf.jpg) 
+![rare-big-deal](https://images-1252557999.file.myqcloud.com/uPic/AepRDr.png) 
 
 ## ✍️ 说明
 
