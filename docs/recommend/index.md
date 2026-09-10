@@ -5,88 +5,91 @@
 
 ## 🎯 项目 
 
-### [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+### [ClipLink](https://github.com/CooperJiang/ClipLink)
 
-免费开源的简历生成器，支持包括中文在内的十几种语言，让你可以快速生成漂亮的简历：
+`ClipLink` 是一个功能强大的跨平台剪贴板内容同步工具，允许您在不同设备（如电脑和手机）之间通过网页界面共享剪贴板内容。该项目采用前后端分离架构，后端使用 Go 语言构建，数据通过 SQLite 存储并通过网络同步，前端使用 Next.js 和 React 构建。通过内置的编译脚本，可以将前端静态资源嵌入到 Go 二进制文件中，实现前后端一体化部署。
 
-![rxresu](https://images-1252557999.file.myqcloud.com/uPic/rxresu.jpg) 
+![ClipLink](https://images-1252557999.file.myqcloud.com/uPic/zxHBQZ.png) 
 
-### [awesome-compose](https://github.com/docker/awesome-compose)
+### [teable](https://github.com/teableio/teable)
 
-一些 `Docker Compose` 的实践示例。 
+基于 `No-Code` 的下一代 `Airtable` 替代品，它提供了一个类似电子表格的界面来创建强大的数据库应用，支持实时协作，并且能够扩展到数百万行数据：
 
-### [Gmeek](https://github.com/Meekdai/Gmeek)
+![teable](https://images-1252557999.file.myqcloud.com/uPic/wzL3bp.png) 
 
-一个博客框架，超轻量级个人博客模板。完全基于 `Github Pages、Github Issues & Github Actions`。不需要本地部署，从搭建到写作，只需要18秒，2步搭建好博客，第3步就是写作。
+### [duckdb](https://github.com/duckdb/duckdb)
 
-![Gmeek](https://images-1252557999.file.myqcloud.com/uPic/KUg5Lm.png) 
+`DuckDB` 是一个具有内存优化、低延迟和 `SQL` 兼容性的分析型数据库。 它通过优化的查询性能和存储空间效率，为数据分析和处理任务提供了高效的解决方案：
+
+![duckdb](https://images-1252557999.file.myqcloud.com/uPic/duckdb.jpg) 
 
 ## 🤖 软件 
 
-### [腾讯交互翻译 TranSmart](https://transmart.qq.com/zh-CN/intro)
+### [Maccy](https://github.com/p0deje/Maccy)
 
-腾讯交互翻译融合了腾讯人工智能实验室自研的交互式机器翻译、神经网络机器翻译、 统计机器翻译、语义理解、信息检索等技术，帮助用户更快、更好地完成翻译任务。
+轻量级macOS剪切板管理应用：
 
-包含网页、跨平台客户端、插件等使用形式，翻译质量也还不错，诚意满满：
+![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
+使用截图如下：
 
-![TranSmart](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-10-16_09-57-06.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
 
-### [TomatoBar](https://github.com/ivoronin/TomatoBar)
+### [GestureSign](https://github.com/TransposonY/GestureSign)
 
-你听说过番茄工作法吗？这是一种很好的技巧，可以帮助你在学习或工作期间掌握时间并保持专注。`TomatoBar` 是一款非常整洁的 `macOS` 菜单栏番茄钟：
+开源免费的 `Windows` 全局手势控制辅助增强软件神器:
 
-![TomatoBar](https://images-1252557999.file.myqcloud.com/uPic/TomatoBar.png) 
+- 支持 `Windows 11、Win10 / 8` 等系统
+- 支持鼠标手势、触控板等手势操作
+- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
 
-### [FreeReNamer](https://github.com/cyhuajuan/FreeReNamer)
+![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
 
-功能强大又易用的文件批量重命名软件：
+### [orange](https://github.com/naaive/orange)
 
-![FreeReNamer](https://images-1252557999.file.myqcloud.com/uPic/wSK06i.png) 
+基于`Rust`跨平台的文件搜索引擎：
+
+![Orange](https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg) 
 
 ## 👀 资料 
 
-### [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
+### [promptingguide.ai](https://www.promptingguide.ai/zh)
 
-吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，[视频地址](https://www.bilibili.com/video/BV1Bo4y1A7FU)，主要内容为指导开发者如何构建 Prompt 并基于 OpenAI API 构建新的、基于 LLM 的应用：
+关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
 
-![prompt-engineering-for-developers-zh](https://images-1252557999.file.myqcloud.com/uPic/prompt-engineering-for-developers-zh.jpeg) 
+![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
 
-### [qianguyihao/Web](https://github.com/qianguyihao/Web)
+### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
 
-千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师:
+一份从头开始建立 `CDN` 知识体系的教程。 
 
-- 网上的大部分入门教程，都不太适合初学者，本项目争取照顾到每一位前端入门者的同理心。即使你完全不懂前端，甚至不懂编程，通过这个教程，也能让小白入门。
-- 帮助前端同学提供一个精品学习资源和路线，提高学习效率，少走很多弯路。
+### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
 
-![qianguyihao](https://images-1252557999.file.myqcloud.com/uPic/qianguyihao.jpg)
+一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
 
-可以当做前端字典，随时翻阅，查漏补缺，在线观看地址：[web.qianguyihao.com](https://web.qianguyihao.com/)。 
-
-### [大模型基础](https://github.com/datawhalechina/so-large-lm)
-
-本项目旨在作为一个大规模预训练语言模型的教程，从数据准备、模型构建、训练策略到模型评估与改进，以及模型在安全、隐私、环境和法律道德方面的方面来提供开源知识。
-
-![so-large-lm](https://images-1252557999.file.myqcloud.com/uPic/so-large-lm.jpg) 
+![NhkQDk](https://images-1252557999.file.myqcloud.com/uPic/NhkQDk.jpg) 
 
 ## 🕸 网站 
 
-### [必应壁纸](https://bing.ioliu.cn/)
+### [scribblediffusion.com](https://scribblediffusion.com/)
 
-收集并展示每日必应壁纸，如果对必应官网的壁纸感兴趣，可以看看这个网站：
+随便画一画，生成美观的图片：
 
-![bing](https://images-1252557999.file.myqcloud.com/uPic/bing.jpg) 
+![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
 
-### [allthingsai](https://allthingsai.com/)
+### [uinotes](https://uinotes.com/)
 
-提供完整的 `AI` 相关工具&服务资源：
+`UI Notes` 收集了大量线上优秀 `App` 的完整 `UI` 截图，只有落地设计没有飞机稿，你可以在这里探索 UI 设计的最新趋势、浏览竞品的产品设计、快速找到工作中需要的灵感：
 
-![allthingsai](https://images-1252557999.file.myqcloud.com/uPic/allthingsai.jpg) 
+![uinotes](https://images-1252557999.file.myqcloud.com/uPic/uinotes.jpg) 
 
-### [rare-big-deal](https://rarebigdeal.com/)
+### [duckduckgo-chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
 
-一个专门为黑五/网络星期一等活动提供软件和工具优惠的资源库。该资源库汇集了多种类别的产品和服务，包括 macOS 应用、API、浏览器插件、AI 工具、iOS 应用、设计工具、生产力工具、营销工具、SEO 工具、样板文件、学习资源、健康和健身应用、金融工具、邮件列表、专业化服务等：
+`DuckDuckGo` 开放了免费的 `AI` 聊天机器人，支持模型有：
 
-![rare-big-deal](https://images-1252557999.file.myqcloud.com/uPic/AepRDr.png) 
+- GPT-3.5 Turbo
+- Claude 1.2 Instant
+
+![duckduckgo_chat](https://images-1252557999.file.myqcloud.com/uPic/duckduckgo_chat.jpg) 
 
 ## ✍️ 说明
 
