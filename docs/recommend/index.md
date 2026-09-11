@@ -5,91 +5,95 @@
 
 ## 🎯 项目 
 
-### [ClipLink](https://github.com/CooperJiang/ClipLink)
+### [oh-my-rime](https://github.com/Mintimate/oh-my-rime)
 
-`ClipLink` 是一个功能强大的跨平台剪贴板内容同步工具，允许您在不同设备（如电脑和手机）之间通过网页界面共享剪贴板内容。该项目采用前后端分离架构，后端使用 Go 语言构建，数据通过 SQLite 存储并通过网络同步，前端使用 Next.js 和 React 构建。通过内置的编译脚本，可以将前端静态资源嵌入到 Go 二进制文件中，实现前后端一体化部署。
+一套快速初始化开源输入法 `Rime` 的模板方案，跨平台支持 `Win macOS Linux`：
 
-![ClipLink](https://images-1252557999.file.myqcloud.com/uPic/zxHBQZ.png) 
+![oh-my-rime](https://images-1252557999.file.myqcloud.com/uPic/oh-my-rime.webp) 
 
-### [teable](https://github.com/teableio/teable)
+### [actual](https://github.com/actualbudget/actual)
 
-基于 `No-Code` 的下一代 `Airtable` 替代品，它提供了一个类似电子表格的界面来创建强大的数据库应用，支持实时协作，并且能够扩展到数百万行数据：
+自部署的个人理财开源项目：
 
-![teable](https://images-1252557999.file.myqcloud.com/uPic/wzL3bp.png) 
+![actual](https://images-1252557999.file.myqcloud.com/uPic/jXtBXk.png) 
 
-### [duckdb](https://github.com/duckdb/duckdb)
+### [metersphere](https://github.com/metersphere/metersphere)
 
-`DuckDB` 是一个具有内存优化、低延迟和 `SQL` 兼容性的分析型数据库。 它通过优化的查询性能和存储空间效率，为数据分析和处理任务提供了高效的解决方案：
+[MeterSphere](https://metersphere.io/) 是一站式开源持续测试平台, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter、Selenium` 等主流开源标准，有效助力开发和测试团队充分利用云弹性进行高度可扩展的自动化测试，加速高质量的软件交付：
 
-![duckdb](https://images-1252557999.file.myqcloud.com/uPic/duckdb.jpg) 
+![metersphere](https://images-1252557999.file.myqcloud.com/uPic/metersphere.jpeg) 
 
 ## 🤖 软件 
 
-### [Maccy](https://github.com/p0deje/Maccy)
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-轻量级macOS剪切板管理应用：
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/t3XNpU.png)
-使用截图如下：
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
-![](https://images-1252557999.file.myqcloud.com/uPic/SWZ6kJ.png) 
+### [batnoter](https://github.com/batnoter/batnoter)
 
-### [GestureSign](https://github.com/TransposonY/GestureSign)
+一个基于 `Markdown` 的开源自托管笔记应用程序：
 
-开源免费的 `Windows` 全局手势控制辅助增强软件神器:
+- 使用GitHub登录。
+- 使用简洁而漂亮的界面轻松创建、编辑、删除、组织和探索笔记。
+- 支持Markdown格式，允许用户在笔记中添加超链接、表格、标题、代码块、引用等等。
+- 编辑器允许预览Markdown。
+- 使用剪贴板按钮从代码部分快速复制代码。
+- 直接将笔记存储在根目录中，或者使用文件夹对其进行组织（支持嵌套）。
+- 单击即可从特定目录中浏览所有笔记。
+- 所有笔记都存储在用户的GitHub存储库中。
+- 为避免额外的API调用，笔记被缓存。
+- 可将URL添加为书签。
+- 支持深色/浅色模式
 
-- 支持 `Windows 11、Win10 / 8` 等系统
-- 支持鼠标手势、触控板等手势操作
-- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
+![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.jpg) 
 
-![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
+### [glass](https://github.com/pickle-com/glass)
 
-### [orange](https://github.com/naaive/orange)
+`Glass` 提供了一个轻量级、开源的桌面应用程序，能够实时监听和理解用户的上下文，将信息转化为结构化知识。在会议中，它能够主动提供行动项、摘要和即时答案。该应用程序设计为 “真正隐形”，不会出现在屏幕录制、截图或任务栏中，并且不会进行持续捕获或隐秘分享。
 
-基于`Rust`跨平台的文件搜索引擎：
-
-![Orange](https://images-1252557999.file.myqcloud.com/uPic/Orange.jpg) 
+![glass](https://images-1252557999.file.myqcloud.com/uPic/1SEd05.png) 
 
 ## 👀 资料 
 
-### [promptingguide.ai](https://www.promptingguide.ai/zh)
+### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-关于 `Prompt` 工程的指南、论文、讲座、笔记本和资源：
+24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
 
-![promptingguide](https://images-1252557999.file.myqcloud.com/uPic/promptingguide.jpg) 
+![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
 
-### [cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running)
+### [汉字激光照排小史](https://github.com/chenshuo/typeset/blob/master/wangxuan-history.pdf)
 
-一份从头开始建立 `CDN` 知识体系的教程。 
+一份 20 多页的笔记《汉字激光照排小史》：
 
-### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
+![typeset](https://images-1252557999.file.myqcloud.com/uPic/typeset.jpg) 
 
-一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
+### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
 
-![NhkQDk](https://images-1252557999.file.myqcloud.com/uPic/NhkQDk.jpg) 
+GitHub开源项目维护协作指南：
+
+![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
 
 ## 🕸 网站 
 
-### [scribblediffusion.com](https://scribblediffusion.com/)
+### [aitdk](https://aitdk.com/zh-CN/)
 
-随便画一画，生成美观的图片：
+AI标题、描述和关键词生成器，为您的网站生成SEO友好的标题、描述和关键词：
 
-![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
+![aitdk](https://images-1252557999.file.myqcloud.com/uPic/aitdk.jpg) 
 
-### [uinotes](https://uinotes.com/)
+### [yima.me](https://yima.me/)
 
-`UI Notes` 收集了大量线上优秀 `App` 的完整 `UI` 截图，只有落地设计没有飞机稿，你可以在这里探索 UI 设计的最新趋势、浏览竞品的产品设计、快速找到工作中需要的灵感：
+免费生成 `AI` 艺术二维码：
 
-![uinotes](https://images-1252557999.file.myqcloud.com/uPic/uinotes.jpg) 
+![yima](https://images-1252557999.file.myqcloud.com/uPic/yima.png) 
 
-### [duckduckgo-chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
+### [roadmap.sh](https://roadmap.sh/)
 
-`DuckDuckGo` 开放了免费的 `AI` 聊天机器人，支持模型有：
+这是一个开源免费的项目，主要是提供了各种技术栈的学习路线：
 
-- GPT-3.5 Turbo
-- Claude 1.2 Instant
-
-![duckduckgo_chat](https://images-1252557999.file.myqcloud.com/uPic/duckduckgo_chat.jpg) 
+![roadmap](https://images-1252557999.file.myqcloud.com/uPic/roadmap.jpg) 
 
 ## ✍️ 说明
 
