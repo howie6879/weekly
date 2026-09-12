@@ -5,95 +5,94 @@
 
 ## 🎯 项目 
 
-### [oh-my-rime](https://github.com/Mintimate/oh-my-rime)
+### [CoverView](https://github.com/rutikwankhade/CoverView)
 
-一套快速初始化开源输入法 `Rime` 的模板方案，跨平台支持 `Win macOS Linux`：
+一个开源的快速制作文章封面图的工具。
 
-![oh-my-rime](https://images-1252557999.file.myqcloud.com/uPic/oh-my-rime.webp) 
+![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
 
-### [actual](https://github.com/actualbudget/actual)
+### [samila](https://github.com/sepandhaghighi/samila)
 
-自部署的个人理财开源项目：
+艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
 
-![actual](https://images-1252557999.file.myqcloud.com/uPic/jXtBXk.png) 
+![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
 
-### [metersphere](https://github.com/metersphere/metersphere)
+### [alist](https://github.com/Xhofe/alist)
 
-[MeterSphere](https://metersphere.io/) 是一站式开源持续测试平台, 涵盖测试跟踪、接口测试、`UI` 测试和性能测试等功能，全面兼容 `JMeter、Selenium` 等主流开源标准，有效助力开发和测试团队充分利用云弹性进行高度可扩展的自动化测试，加速高质量的软件交付：
+一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
 
-![metersphere](https://images-1252557999.file.myqcloud.com/uPic/metersphere.jpeg) 
+![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
+
+简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
 
 ## 🤖 软件 
 
-### [LANDrop](https://github.com/LANDrop/LANDrop)
+### [XcodesApp](https://github.com/XcodesOrg/XcodesApp)
 
-开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
+通过鼠标点击这种简单方式，快速安装和切换多个版本的 `Xcode`：
 
-![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
+![XcodesApp](https://images-1252557999.file.myqcloud.com/uPic/XcodesApp.jpg) 
 
-### [batnoter](https://github.com/batnoter/batnoter)
+### [tuboshu](https://github.com/deepshit2025/tuboshu)
 
-一个基于 `Markdown` 的开源自托管笔记应用程序：
+一款桌面应用转换工具，让你用快捷键魔法般控制任何网页应用：
 
-- 使用GitHub登录。
-- 使用简洁而漂亮的界面轻松创建、编辑、删除、组织和探索笔记。
-- 支持Markdown格式，允许用户在笔记中添加超链接、表格、标题、代码块、引用等等。
-- 编辑器允许预览Markdown。
-- 使用剪贴板按钮从代码部分快速复制代码。
-- 直接将笔记存储在根目录中，或者使用文件夹对其进行组织（支持嵌套）。
-- 单击即可从特定目录中浏览所有笔记。
-- 所有笔记都存储在用户的GitHub存储库中。
-- 为避免额外的API调用，笔记被缓存。
-- 可将URL添加为书签。
-- 支持深色/浅色模式
+- 🔥 一键网页转应用 - 将任何网站变成独立的桌面应用
+- 🚀 账户多开 - 网站可以多开，支持账户隔离，独立运行互不干扰
+- ⚡️ 闪电切换 - 全局快捷键快速显示/隐藏（默认 Ctrl/Cmd + H）
+- 🎨 深度定制 - 自定义窗口尺寸、图标、快捷键,支持JS注入，定制专属自己的页面
+- 📦 便携打包 - 生成可执行文件（支持 Windows/macOS/Linux）
+- 🔒 隐私保护 - 本地存储配置数据，无需云端同步
+- 🌍 多平台支持 - 完美运行于主流操作系统
+- 🎮无需复杂配置即可自由添加站点
 
-![batnoter](https://images-1252557999.file.myqcloud.com/uPic/batnoter.jpg) 
+![tuboshu](https://images-1252557999.file.myqcloud.com/uPic/d1GxMj.png) 
 
-### [glass](https://github.com/pickle-com/glass)
+### [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
-`Glass` 提供了一个轻量级、开源的桌面应用程序，能够实时监听和理解用户的上下文，将信息转化为结构化知识。在会议中，它能够主动提供行动项、摘要和即时答案。该应用程序设计为 “真正隐形”，不会出现在屏幕录制、截图或任务栏中，并且不会进行持续捕获或隐秘分享。
+使用**HWID/Ohook/KMS38/在线KMS**激活方法的 Windows 和 Office 激活工具，注重开源代码和较少的杀毒软件检测：
 
-![glass](https://images-1252557999.file.myqcloud.com/uPic/1SEd05.png) 
+![Microsoft-Activation-Scripts](https://images-1252557999.file.myqcloud.com/uPic/Microsoft-Activation-Scripts.jpg) 
 
 ## 👀 资料 
 
-### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 
-24节课，12周，开始成为一名Wbe开发者吧！本项目由微软开源，在线访问地址点[这里](https://microsoft.github.io/Web-Dev-For-Beginners/#/)。
+C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
 
-![Web-Dev-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/Web-Dev-For-Beginners.jpg) 
+![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
 
-### [汉字激光照排小史](https://github.com/chenshuo/typeset/blob/master/wangxuan-history.pdf)
+### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
 
-一份 20 多页的笔记《汉字激光照排小史》：
+阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
 
-![typeset](https://images-1252557999.file.myqcloud.com/uPic/typeset.jpg) 
+![c](https://images-1252557999.file.myqcloud.com/uPic/4uYTRJ.png) 
 
-### [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)
+### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 
-GitHub开源项目维护协作指南：
+夯实计算机基础，该怎么学，这个项目给出了答案：
 
-![HowToStartOpenSource](https://images-1252557999.file.myqcloud.com/uPic/HowToStartOpenSource.jpg) 
+![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
 
 ## 🕸 网站 
 
-### [aitdk](https://aitdk.com/zh-CN/)
+### [ai-12348](https://ai.12348.gov.cn/pc/)
 
-AI标题、描述和关键词生成器，为您的网站生成SEO友好的标题、描述和关键词：
+免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
 
-![aitdk](https://images-1252557999.file.myqcloud.com/uPic/aitdk.jpg) 
+![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
 
-### [yima.me](https://yima.me/)
+### [OurMacs](https://ourmacs.com/)
 
-免费生成 `AI` 艺术二维码：
+`Mac Apps` 聚合搜索和免费下载：
 
-![yima](https://images-1252557999.file.myqcloud.com/uPic/yima.png) 
+![OurMacs](https://images-1252557999.file.myqcloud.com/uPic/kO572X.png) 
 
-### [roadmap.sh](https://roadmap.sh/)
+### [antimkd](https://antimkd.com/)
 
-这是一个开源免费的项目，主要是提供了各种技术栈的学习路线：
+无套路的软件下载网站：
 
-![roadmap](https://images-1252557999.file.myqcloud.com/uPic/roadmap.jpg) 
+![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
 
 ## ✍️ 说明
 
