@@ -5,94 +5,94 @@
 
 ## 🎯 项目 
 
-### [CoverView](https://github.com/rutikwankhade/CoverView)
+### [mcp-playwright](https://github.com/executeautomation/mcp-playwright)
 
-一个开源的快速制作文章封面图的工具。
+基于 `Playwright` 的模型上下文协议服务器，用于自动化浏览器和 `API`：
 
-![coverview](https://images-1252557999.file.myqcloud.com/uPic/coverview.jpg) 
+![mcp-playwright](https://img.api123.pro/i/2025/03/15/67d500afc9275.png) 
 
-### [samila](https://github.com/sepandhaghighi/samila)
+### [DeepLX](https://github.com/OwO-Network/DeepLX)
 
-艺术照生成器，家里房子装修可以生成几张出来，整点文化气息：
+`DeepL` 免费翻译 `API` ，无需 `Token`：
 
-![samila](https://images-1252557999.file.myqcloud.com/uPic/pHS7Co.png) 
+![deeplx](https://images-1252557999.file.myqcloud.com/uPic/deeplx.jpg)
 
-### [alist](https://github.com/Xhofe/alist)
+为了防止触发 429，可使用 [DeepLX-Serverless](https://github.com/guobao2333/DeepLX-Serverless) 项目，其利用了云函数的请求 IP 不固定的特性，极大程度上避免了 429 请求太频繁报错。 
 
-一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react`:
+### [siri-ultra](https://github.com/fatwang2/siri-ultra)
 
-![alist](https://images-1252557999.file.myqcloud.com/uPic/alist-20220429094521145.png)
+`Siri Ultra` 是一个能在 `iPhone` 上使用的 AI 聊天快捷指令，无需下载任何软件即可体验到最新的大模型：
 
-简单说就是将多家云盘如百度、阿里云盘，整一起聚合起来让你用，具体看[alist官网教程](https://alist-doc.nn.ci/docs/intro)。 
+- 通过 Siri 实时语音对话，也可以直接运行快捷指令进行文字对话
+- 兼容各种大模型，包括 OpenAI、Gemini、DeepSeek 等
+- 支持联网搜索（需单独配置搜索 key）
+- 支持网页总结 （链接发给快捷指令即可） 
 
 ## 🤖 软件 
 
-### [XcodesApp](https://github.com/XcodesOrg/XcodesApp)
+### [foliate](https://github.com/johnfactotum/foliate)
 
-通过鼠标点击这种简单方式，快速安装和切换多个版本的 `Xcode`：
+`Linux` 最佳电子书阅读器：
 
-![XcodesApp](https://images-1252557999.file.myqcloud.com/uPic/XcodesApp.jpg) 
+![foliate](https://images-1252557999.file.myqcloud.com/uPic/BAy1B7.png) 
 
-### [tuboshu](https://github.com/deepshit2025/tuboshu)
+### [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
 
-一款桌面应用转换工具，让你用快捷键魔法般控制任何网页应用：
+一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒：
 
-- 🔥 一键网页转应用 - 将任何网站变成独立的桌面应用
-- 🚀 账户多开 - 网站可以多开，支持账户隔离，独立运行互不干扰
-- ⚡️ 闪电切换 - 全局快捷键快速显示/隐藏（默认 Ctrl/Cmd + H）
-- 🎨 深度定制 - 自定义窗口尺寸、图标、快捷键,支持JS注入，定制专属自己的页面
-- 📦 便携打包 - 生成可执行文件（支持 Windows/macOS/Linux）
-- 🔒 隐私保护 - 本地存储配置数据，无需云端同步
-- 🌍 多平台支持 - 完美运行于主流操作系统
-- 🎮无需复杂配置即可自由添加站点
+- 一键快速下载、安装、激活最新版 Microsoft Office 软件。
+- 用户可在安装 Word、PPT、Excel 的同时，根据软件提示，自助安装其它组件，包括： Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype
+- 工具可自动识别不同的操作系统架构，自动下载适配版本的 Office。
+- 本工具激活 Office 的方式为正版激活模式，不会篡改任何系统文件。
+- 当系统中存在多个冗余 Office 版本时，本工具在用户同意的情况下，可实现自动升级。 
 
-![tuboshu](https://images-1252557999.file.myqcloud.com/uPic/d1GxMj.png) 
+### [epubkit](https://beta.epubkit.app/)
 
-### [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+挺多人有这种需求的，将网页转化成电子书：
 
-使用**HWID/Ohook/KMS38/在线KMS**激活方法的 Windows 和 Office 激活工具，注重开源代码和较少的杀毒软件检测：
+![epubkit](https://images-1252557999.file.myqcloud.com/uPic/epubkit.png)
 
-![Microsoft-Activation-Scripts](https://images-1252557999.file.myqcloud.com/uPic/Microsoft-Activation-Scripts.jpg) 
+之前推荐的 [EpubPress](https://epub.press/) 也是类似功能，可以结合在一起体验试试。 
 
 ## 👀 资料 
 
-### [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
 
-C++ 匠心之作 从0到1入门资料，还配有视频，有兴趣可以看看：
+本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
 
-![Cpp-0-1-Resource](https://images-1252557999.file.myqcloud.com/uPic/rM99nS.png) 
+![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
 
-### [阮一峰-clang-tutorial](https://github.com/wangdoc/clang-tutorial)
+### [Al精选工具库](https://t16jzwqrzjx.feishu.cn/wiki/EsvowFAqFiTiYDkJgE0cWquPnWb)
 
-阮一峰老师的技术文写得浅显易懂，这周他完成了c语言教程，有兴趣的看看：
+18 个模块 100 个 AI 工具：
 
-![c](https://images-1252557999.file.myqcloud.com/uPic/4uYTRJ.png) 
+![ai_tools](https://images-1252557999.file.myqcloud.com/uPic/ai_tools.jpg) 
 
-### [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
 
-夯实计算机基础，该怎么学，这个项目给出了答案：
+张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
 
-![TeachYourselfCS](https://images-1252557999.file.myqcloud.com/uPic/hKl2yK.png) 
+![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
 
 ## 🕸 网站 
 
-### [ai-12348](https://ai.12348.gov.cn/pc/)
+### [devhints](https://devhints.io/)
 
-免费在线出具法律意见书，遇到租房、劳务、房屋买卖等纠纷，不懂的都可以先用用这个，很多法律问题都能得到有效解答。
+一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
 
-![ai-12348](https://images-1252557999.file.myqcloud.com/uPic/dyXpgX.png) 
+![devhints](https://images-1252557999.file.myqcloud.com/uPic/Wl8r0C.png) 
 
-### [OurMacs](https://ourmacs.com/)
+### [new.space](https://new.space/)
 
-`Mac Apps` 聚合搜索和免费下载：
+免注册多人临时文件分享工具：
 
-![OurMacs](https://images-1252557999.file.myqcloud.com/uPic/kO572X.png) 
+![new.space](https://images-1252557999.file.myqcloud.com/uPic/new.space.jpg) 
 
-### [antimkd](https://antimkd.com/)
+### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
 
-无套路的软件下载网站：
+老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
 
-![antimkd](https://images-1252557999.file.myqcloud.com/uPic/antimkd.jpg) 
+![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
 
 ## ✍️ 说明
 
