@@ -5,94 +5,84 @@
 
 ## 🎯 项目 
 
-### [mcp-playwright](https://github.com/executeautomation/mcp-playwright)
+### [stablog](https://github.com/YaoZeyuan/stablog)
 
-基于 `Playwright` 的模型上下文协议服务器，用于自动化浏览器和 `API`：
+稳部落项目是一个基于微博现有接口和 TypeScript 构建的工具，旨在为微博用户提供便捷的微博记录备份与导出服务。 
 
-![mcp-playwright](https://img.api123.pro/i/2025/03/15/67d500afc9275.png) 
+### [Docker-Proxy](https://github.com/dqzboy/Docker-Proxy)
 
-### [DeepLX](https://github.com/OwO-Network/DeepLX)
+自建 `Docker` 镜像加速服务，基于官方 `Docker Registry`  一键部署 `Docker、K8s、Quay、Ghcr、Mcr、Nvcr` 等镜像加速\管理服务。支持免服务器部署到 `ClawCloud\Render\Koyeb`：
 
-`DeepL` 免费翻译 `API` ，无需 `Token`：
+![Docker-Proxy](https://images-1252557999.file.myqcloud.com/uPic/jaSnDn.png) 
 
-![deeplx](https://images-1252557999.file.myqcloud.com/uPic/deeplx.jpg)
+### [sonic](https://github.com/go-sonic/sonic)
 
-为了防止触发 429，可使用 [DeepLX-Serverless](https://github.com/guobao2333/DeepLX-Serverless) 项目，其利用了云函数的请求 IP 不固定的特性，极大程度上避免了 429 请求太频繁报错。 
+`Sonic` 是 `Go` 开发的博客平台，简单而强大：
 
-### [siri-ultra](https://github.com/fatwang2/siri-ultra)
-
-`Siri Ultra` 是一个能在 `iPhone` 上使用的 AI 聊天快捷指令，无需下载任何软件即可体验到最新的大模型：
-
-- 通过 Siri 实时语音对话，也可以直接运行快捷指令进行文字对话
-- 兼容各种大模型，包括 OpenAI、Gemini、DeepSeek 等
-- 支持联网搜索（需单独配置搜索 key）
-- 支持网页总结 （链接发给快捷指令即可） 
+![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
 
 ## 🤖 软件 
 
-### [foliate](https://github.com/johnfactotum/foliate)
+### [siyuan](https://github.com/siyuan-note/siyuan)
 
-`Linux` 最佳电子书阅读器：
+思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
 
-![foliate](https://images-1252557999.file.myqcloud.com/uPic/BAy1B7.png) 
+![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
 
-### [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
 
-一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒：
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
-- 一键快速下载、安装、激活最新版 Microsoft Office 软件。
-- 用户可在安装 Word、PPT、Excel 的同时，根据软件提示，自助安装其它组件，包括： Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype
-- 工具可自动识别不同的操作系统架构，自动下载适配版本的 Office。
-- 本工具激活 Office 的方式为正版激活模式，不会篡改任何系统文件。
-- 当系统中存在多个冗余 Office 版本时，本工具在用户同意的情况下，可实现自动升级。 
+### [qinglong_app](https://github.com/relax976/qinglong_app)
 
-### [epubkit](https://beta.epubkit.app/)
+之前推荐过 [qinglong](https://github.com/whyour/qinglong)（一款支持python3、javaScript、shell、typescript 的定时任务管理软件），这是青龙面板开源的第三方APP，之前都是要付费，现在免费开源开放出来了：
 
-挺多人有这种需求的，将网页转化成电子书：
-
-![epubkit](https://images-1252557999.file.myqcloud.com/uPic/epubkit.png)
-
-之前推荐的 [EpubPress](https://epub.press/) 也是类似功能，可以结合在一起体验试试。 
+![ql_app](https://images-1252557999.file.myqcloud.com/uPic/ql_app.jpg) 
 
 ## 👀 资料 
 
-### [rcore_step_by_step_webdoc](https://learningos.github.io/rcore_step_by_step_webdoc)
+### [sideproject](https://sideproject.guide/)
 
-本系列文章记录了使用 `Rust` 编程语言编写一个小型操作系统的详细过程。每篇文章包含所需所有所需代码和相关知识点讲解：
+`Side Project` 指南：
 
-![rcore_step_by_step_webdoc](https://images-1252557999.file.myqcloud.com/uPic/rcore_step_by_step_webdoc.jpg) 
+- 如何判断点子的好坏
+- 如何快速实现`Side Project`
+- 如何让更多的人知道
+- 如何转化成收入
 
-### [Al精选工具库](https://t16jzwqrzjx.feishu.cn/wiki/EsvowFAqFiTiYDkJgE0cWquPnWb)
+![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
 
-18 个模块 100 个 AI 工具：
+### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
 
-![ai_tools](https://images-1252557999.file.myqcloud.com/uPic/ai_tools.jpg) 
+Kubernetes 中文指南/云原生应用架构实战手册：
 
-### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
+![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
 
-张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
+### [aie-book](https://github.com/chiphuyen/aie-book)
 
-![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
+`AI` 工程师资源合集，该书涵盖了从基础模型到实际应用的整个过程，包括数据准备、模型评估、问题解决等方面。书中还提供了案例研究、误差分析、提示工程、代理构建、微调模型、数据验证、模型优化和持续改进的框架。这本书适合各种技术角色，包括 `AI` 工程师、数据科学家、工程经理和产品经理。
+
+![aie-book](https://images-1252557999.file.myqcloud.com/uPic/QD4TLj.png) 
 
 ## 🕸 网站 
-
-### [devhints](https://devhints.io/)
-
-一个优雅的`cheatsheet`大全网站，为开发者提供各种开发文档的速查功能，比如我这里查询`vscode`，就会有相关速查表出来，能很大提升效率。
-
-![devhints](https://images-1252557999.file.myqcloud.com/uPic/Wl8r0C.png) 
-
-### [new.space](https://new.space/)
-
-免注册多人临时文件分享工具：
-
-![new.space](https://images-1252557999.file.myqcloud.com/uPic/new.space.jpg) 
 
 ### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
 
 老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
 
 ![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
+
+### [olocr.com](https://olocr.com)
+
+一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
+
+![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
+
+### [renwuzhi.wiki](https://renwuzhi.wiki/)
+
+网站收集了各个朝代人物介绍：
+
+![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
 
 ## ✍️ 说明
 
