@@ -5,84 +5,87 @@
 
 ## 🎯 项目 
 
-### [stablog](https://github.com/YaoZeyuan/stablog)
+### [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
 
-稳部落项目是一个基于微博现有接口和 TypeScript 构建的工具，旨在为微博用户提供便捷的微博记录备份与导出服务。 
+国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。
 
-### [Docker-Proxy](https://github.com/dqzboy/Docker-Proxy)
+虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！ 
 
-自建 `Docker` 镜像加速服务，基于官方 `Docker Registry`  一键部署 `Docker、K8s、Quay、Ghcr、Mcr、Nvcr` 等镜像加速\管理服务。支持免服务器部署到 `ClawCloud\Render\Koyeb`：
+### [openui](https://github.com/wandb/openui)
 
-![Docker-Proxy](https://images-1252557999.file.myqcloud.com/uPic/jaSnDn.png) 
+将你脑中的页面通过文本描述来自动实时生成，非常方便，但是实用性具体如何还需要探索，期待这个项目持续迭代：
 
-### [sonic](https://github.com/go-sonic/sonic)
+![openui](https://images-1252557999.file.myqcloud.com/uPic/openui.jpg)
 
-`Sonic` 是 `Go` 开发的博客平台，简单而强大：
+它甚至可以帮助你将HTML转换成 `React、Svelte or Web Components` 等格式。 
 
-![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
+### [olmOCR-7B](https://huggingface.co/allenai/olmOCR-7B-0225-preview)
+
+`olmOCR` 在250000页的数据集上微调了`Qwen2-VL-7B-Instruct` 模型，旨在将 `PDF` 和文档图像转换为干净且结构化的纯文本：
+
+![olmOCR](https://img.api123.pro/i/2025/03/15/67d5044a829bd.png) 
 
 ## 🤖 软件 
 
-### [siyuan](https://github.com/siyuan-note/siyuan)
+### [feed-flow](https://github.com/prof18/feed-flow)
 
-思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。
+`FeedFlow` 是一款极简主义的 `RSS` 阅读器，可在 `Android、iOS&macOS`上使用：
 
-![siyuan](https://images-1252557999.file.myqcloud.com/uPic/tcg6u0.jpg) 
+![feedflow](https://images-1252557999.file.myqcloud.com/uPic/feedflow.jpg) 
 
-### [Wechatsync](https://github.com/wechatsync/Wechatsync)
+### [biyi](https://github.com/lijy91/biyi)
 
-一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
+比译是一个用 `Flutter` 编写的跨平台便捷翻译和词典应用：
 
-### [qinglong_app](https://github.com/relax976/qinglong_app)
+![biyi](https://images-1252557999.file.myqcloud.com/uPic/biyi.jpg) 
 
-之前推荐过 [qinglong](https://github.com/whyour/qinglong)（一款支持python3、javaScript、shell、typescript 的定时任务管理软件），这是青龙面板开源的第三方APP，之前都是要付费，现在免费开源开放出来了：
+### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
-![ql_app](https://images-1252557999.file.myqcloud.com/uPic/ql_app.jpg) 
+跨平台的 `PostgreSQL` 数据库管理软件（开源）：
+
+![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
 
 ## 👀 资料 
 
-### [sideproject](https://sideproject.guide/)
+### [Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn)
 
-`Side Project` 指南：
+> 学习 Vim（智能方式） 是一本学习Vim中优秀部分知识的书。
 
-- 如何判断点子的好坏
-- 如何快速实现`Side Project`
-- 如何让更多的人知道
-- 如何转化成收入
+本指南同时为初学者和高级Vim用户撰写。它从宽泛而简单的概念开始讲，最后落在特殊的、进阶的技巧上。如果您已经是一名进阶用户，我还是鼓励您从头到尾阅读本指南，因为您将了解到一些新的东西。
 
-![sideproject](https://images-1252557999.file.myqcloud.com/uPic/sideproject.jpg) 
+![Learn-Vim_zh_cn](https://images-1252557999.file.myqcloud.com/uPic/AgGats.png) 
 
-### [kubernetes-handbook](https://lib.jimmysong.io/kubernetes-handbook/)
+### [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/)
 
-Kubernetes 中文指南/云原生应用架构实战手册：
+张汉东老师专门为了丰富 Rust 社区成员的学习文化生活而特别推出的月刊，目前已经更新了十个月，每篇月刊都诚意十足，可以让开发者从更加全面的角度来看待Rust的发展与最新消息:
 
-![kubernetes-handbook](https://images-1252557999.file.myqcloud.com/uPic/kubernetes-handbook.jpg) 
+![rust_magazine](https://images-1252557999.file.myqcloud.com/uPic/FvKrE4.png) 
 
-### [aie-book](https://github.com/chiphuyen/aie-book)
+### [让你受益匪浅的名家写作经验](https://docs.qq.com/aio/DWVRkZ1RUWHRsdU1J?p=4oWLX7hAfFdfdbi4Ir5wqo)
 
-`AI` 工程师资源合集，该书涵盖了从基础模型到实际应用的整个过程，包括数据准备、模型评估、问题解决等方面。书中还提供了案例研究、误差分析、提示工程、代理构建、微调模型、数据验证、模型优化和持续改进的框架。这本书适合各种技术角色，包括 `AI` 工程师、数据科学家、工程经理和产品经理。
+各文学大家的写作经验汇总：
 
-![aie-book](https://images-1252557999.file.myqcloud.com/uPic/QD4TLj.png) 
+![让你受益匪浅的名家写作经验](https://images-1252557999.file.myqcloud.com/uPic/让你受益匪浅的名家写作经验.jpg) 
 
 ## 🕸 网站 
 
-### [DockerHub 可用镜像代理](https://www.fre321.com/docker_proxy_list)
+### [dll-files](https://cn.dll-files.com/)
 
-老胡自己从互联网收集的可用 `DockerHub` 镜像代理：
+最近一些工作在 Windows 系统上完成，有一些软件总是提示：无法找到xxxx.dll文件...，这个网站很好地解决了我的问题：
 
-![docker_proxy_list](https://images-1252557999.file.myqcloud.com/uPic/docker_proxy_list.jpg) 
+![dll-files](https://images-1252557999.file.myqcloud.com/uPic/dll-files.jpg) 
 
-### [olocr.com](https://olocr.com)
+### [uiprompt.art](https://uiprompt.art/)
 
-一个在线免费的 `OCR` 识别网站，支持 `PDF` 和 图片：
+UI Prompt Explorer 网站提供了一个专注于手绘风格界面设计的展示平台，包括画册、仪表板、日程规划、作品集、电子商务和博客等多种设计模板：
 
-![olocr](https://images-1252557999.file.myqcloud.com/uPic/olocr.jpg) 
+![uiprompt](https://images-1252557999.file.myqcloud.com/uPic/x2em3D.png) 
 
-### [renwuzhi.wiki](https://renwuzhi.wiki/)
+### [cursor.directory](https://cursor.directory/)
 
-网站收集了各个朝代人物介绍：
+基于你在用的框架或者语言，提供最好的 curson 规则。也开源在 [github](https://github.com/pontusab/cursor.directory)
 
-![renwuzhi](https://images-1252557999.file.myqcloud.com/uPic/renwuzhi.jpg) 
+![cursor.directory](https://images-1252557999.file.myqcloud.com/uPic/ygOBRk.png) 
 
 ## ✍️ 说明
 
