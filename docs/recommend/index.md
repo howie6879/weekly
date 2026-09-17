@@ -5,99 +5,97 @@
 
 ## 🎯 项目 
 
-### [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
+### [appstore-discounts](https://github.com/eyelly-wu/appstore-discounts)
 
-国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。
+开源的 App Store 折扣信息助手，基于 GitHub Actions 实现，支持 RSS，Telegram 和钉钉通知：
 
-虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！ 
+- 支持任意 国家或地区 的 App Store （理论上🤔）
+- 支持追踪 应用本体 的价格和 App 内购买项目 的价格
+- 支持多种方式订阅折扣信息
+- 开源免费，任何人可参与贡献 
 
-### [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)
+### [PicImpact](https://github.com/besscroft/PicImpact "PicImpact")
 
-阿里云盘 WebDAV 服务，主要使用场景为配合支持 WebDAV 协议的客户端 App 如 Infuse 等实现在电视上直接观看云盘视频内容。
+`PicImpact` 是一个支持自部署的摄影作品展示网站：
 
-如果你的阿里云盘不少视频，每次播放没必要下载下来，用这个构建一个基于阿里云盘的 WebDAV 服务，然后就可以通过 WebDAV 协议在相关视频软件上播放，我这里就利用 Infuse 连接上了，可以直接看阿里云的相关视频：
+- 瀑布流相册展示图片，支持实况照片(Live Photos)，基于 LivePhotosKit JS 开发。
+- 点击图片查看原图，浏览图片信息和 EXIF 信息，支持直链访问。
+- 响应式设计，在 PC 和移动端都有不错的体验，支持暗黑模式。
+- 图片存储兼容 S3 API、Cloudflare R2、AList API。
+- 图片支持绑定标签，并且可通过标签进行交互，筛选标签下所有图片。
+- 支持输出 RSS，可以使用 Follow 订阅，并支持订阅源所有权验证。
+- 支持批量自动化上传，上传图片时会生成 0.3 倍率的压缩图片，以提供加载优化。
+- 后台有图片数据统计、图片上传、图片维护、相册管理、系统设置和存储配置功能。
+- 双因素认证功能，基于 TOTP 算法 RFC 6238，支持 Google Authenticator、Microsoft Authenticator 和 1Password 等。
+- 基于 SSR 的混合渲染，采用状态机制，提供良好的使用体验。
+- 基于 prisma 的自动初始化数据库和数据迁移，简化部署流程。
+- 支持 Vercel 部署、Node.js 部署、Docker 等容器化部署，当然 k8s 也支持。 
 
-![Infuse](https://images-1252557999.file.myqcloud.com/uPic/Fbred5.png) 
+### [wtfutil](https://github.com/wtfutil/wtf)
 
-### [yakGPT](https://github.com/yakGPT/yakGPT)
+在你的终端定制化仪表盘，提供 IP 信息、世界时间、系统信息、充电信息、系统状态、GitHub 等信息集中展示，也可以通过配置实现业务监控：
 
-一个简单的，本地运行的 `ChatGPT` 用户界面，使您的文本生成更快，聊天更有吸引力！
-
-![yakGPT](https://images-1252557999.file.myqcloud.com/uPic/yakGPT.jpg) 
+![wtfutil](https://images-1252557999.file.myqcloud.com/uPic/wtfutil.jpeg) 
 
 ## 🤖 软件 
 
-### [dbgate](https://github.com/dbgate/dbgate)
+### [otphelper](https://github.com/jd1378/otphelper)
 
-支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac  Web` 下运行，还有插件体系：
+`otphelper` 是一个开源应用程序，它可以自动从通知中复制一次性密码（OTP）和代码。
 
-![dbgate](https://images-1252557999.file.myqcloud.com/uPic/dbgate.jpg) 
+![otphelper](https://images-1252557999.file.myqcloud.com/uPic/OVPH03.png) 
 
-### [box](https://github.com/liu673cn/box)
+### [unclutter](https://github.com/lindylearn/unclutter)
 
-TVBox 开源版:
+阅读插件，将网页内容快速转成美观的阅读模式：
 
-- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
-- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
-- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
-- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
-- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
-- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
-- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
-- 配置地址---输入站源---确定即可 URL站源规则
+![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
 
-![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
+### [ElevenClock](https://github.com/marticliment/ElevenClock)
 
-### [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
+自定义 `Windows 11` 任务栏时钟：
 
-`Sigma File Manager` 是一个免费、开源、快速发展的现代文件管理器（资源管理器/查找器）应用程序，适用于`Windows&Linux`，支持智能搜索、自定义主页、文件共享、文件下载、智能拖放、文件保护等功能：
-
-![sigma-file-manager](https://images-1252557999.file.myqcloud.com/uPic/sigma-file-manager.jpg) 
+![ElevenClock](https://images-1252557999.file.myqcloud.com/uPic/ElevenClock.jpg) 
 
 ## 👀 资料 
 
-### [A Highly Agentic Coding Assistant](https://www.bilibili.com/video/BV1k1bBzTEF5/)
+### [data_compression_course](https://github.com/jermp/data_compression_course)
 
-吴恩达的  Claude Code 视频教程中文版，课程核心在于全面教授如何使用 Claude Code 进行高效的软件开发工作，学完后您将掌握：
+由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
 
-- 基础技能掌握：深入学习 Claude Code 的核心功能，包括智能代码分析、自动化测试生成、代码重构优化以及高效调试技巧。
-- 扩展能力建设：学会集成 MCP 服务器来增强开发能力，重点掌握 Playwright 自动化测试和 Figma 设计协作工具的使用方法。 
+### [大模型基础](https://github.com/datawhalechina/so-large-lm)
 
-### [self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder)
+本项目旨在作为一个大规模预训练语言模型的教程，从数据准备、模型构建、训练策略到模型评估与改进，以及模型在安全、隐私、环境和法律道德方面的方面来提供开源知识。
 
-首先，这不是一本程序员的技术书籍，整本书不会提及任何一个技术词汇，这也不是一本教你如何规划职业生涯，如何在职场走个更远的书，虽然我相信大部分内容确实有助于在职场的发展。
+![so-large-lm](https://images-1252557999.file.myqcloud.com/uPic/so-large-lm.jpg) 
 
-但这本书的真正用意是想解决工作过程中碰到的焦虑、倦怠、迷茫、抑郁等情绪，聚焦于解决具体问题，通过改变认知将我们从负面情绪的泥淖中走出来，做到更坦然，真诚的面对自己的内心，成为一个自洽的程序员。
+### [visualize-ml](https://github.com/visualize-ml)
 
-总而言之，这不是一本成功学的书，它不会教你如何赢，笔者本身也不是一个世俗意义上成功的人，而是一本帮你梳理情绪，转变心境的书。
+鸢尾花书：从加减乘除到机器学习，全套7册。
 
-![self-consistent-coder](https://images-1252557999.file.myqcloud.com/uPic/xxZILr.png) 
-
-### [Flask 入门教程](https://github.com/helloflask/flask-tutorial)
-
-读者@**后海大章鱼**投稿，一个不错的Python Flask的开源免费的电子书，有在线阅读和离线阅读PDF两种，内容深入浅出还有案例和开源代码，对于Python初学者来说是学完Python入门后，再去一个Web2.0学习入门的好手册，讲解了不少Web端的知识比如模板引擎、数据库、ORM框架等。
-
-![flask-tutorial](https://images-1252557999.file.myqcloud.com/uPic/flask-tutorial.jpg) 
+![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
 
 ## 🕸 网站 
 
-### [smithery.ai](https://smithery.ai/)
+### [装个机](https://zhuangit.ababtools.com/)
 
-一个集成了多种 Model Context Protocol (MCP) 服务器的平台，旨于通过 MCP 服务器扩展代理（AI）的功能，使其能够访问和管理大量工具和数据，从而提高决策和解决问题的能力：
+一个全面的电脑系统安装指南，里面不仅包含了Windows、MacOS的具体下载资源还有“手把手”的安装攻略。
 
-![smithery](https://images-1252557999.file.myqcloud.com/uPic/F7tIpp.png) 
+![zhuangit](https://images-1252557999.file.myqcloud.com/uPic/IH6B8e.png) 
 
-### [openalternative](https://openalternative.co/)
+### [uiverse.io](https://uiverse.io/)
 
-网站提供了一些项目的开源选择：
+一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
 
-![openalternative](https://images-1252557999.file.myqcloud.com/uPic/openalternative.jpg) 
+![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
 
-### [freegmail](https://freegmail.go24.info/)
+### [free-font](https://free-font.vercel.app/)
 
-`Gmail` 临时邮箱：
+收录商用免费汉字字体，还包括开源英文字体 `Free Font`:
 
-![freegmail](https://images-1252557999.file.myqcloud.com/uPic/EoVxAp.png) 
+![free-font](https://images-1252557999.file.myqcloud.com/uPic/free-font.png)
+
+项目开源在 [github](https://github.com/jaywcjlove/free-font)。 
 
 ## ✍️ 说明
 
