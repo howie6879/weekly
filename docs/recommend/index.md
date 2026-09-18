@@ -5,97 +5,95 @@
 
 ## 🎯 项目 
 
-### [appstore-discounts](https://github.com/eyelly-wu/appstore-discounts)
+### [docker-wechat](https://github.com/huan/docker-wechat)
 
-开源的 App Store 折扣信息助手，基于 GitHub Actions 实现，支持 RSS，Telegram 和钉钉通知：
+盒装微信，在linux下基于Docker技术使用微信客户端：
 
-- 支持任意 国家或地区 的 App Store （理论上🤔）
-- 支持追踪 应用本体 的价格和 App 内购买项目 的价格
-- 支持多种方式订阅折扣信息
-- 开源免费，任何人可参与贡献 
+![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
 
-### [PicImpact](https://github.com/besscroft/PicImpact "PicImpact")
+### [ProxiTok](https://github.com/pablouser1/ProxiTok)
 
-`PicImpact` 是一个支持自部署的摄影作品展示网站：
+`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
 
-- 瀑布流相册展示图片，支持实况照片(Live Photos)，基于 LivePhotosKit JS 开发。
-- 点击图片查看原图，浏览图片信息和 EXIF 信息，支持直链访问。
-- 响应式设计，在 PC 和移动端都有不错的体验，支持暗黑模式。
-- 图片存储兼容 S3 API、Cloudflare R2、AList API。
-- 图片支持绑定标签，并且可通过标签进行交互，筛选标签下所有图片。
-- 支持输出 RSS，可以使用 Follow 订阅，并支持订阅源所有权验证。
-- 支持批量自动化上传，上传图片时会生成 0.3 倍率的压缩图片，以提供加载优化。
-- 后台有图片数据统计、图片上传、图片维护、相册管理、系统设置和存储配置功能。
-- 双因素认证功能，基于 TOTP 算法 RFC 6238，支持 Google Authenticator、Microsoft Authenticator 和 1Password 等。
-- 基于 SSR 的混合渲染，采用状态机制，提供良好的使用体验。
-- 基于 prisma 的自动初始化数据库和数据迁移，简化部署流程。
-- 支持 Vercel 部署、Node.js 部署、Docker 等容器化部署，当然 k8s 也支持。 
+![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
 
-### [wtfutil](https://github.com/wtfutil/wtf)
+### [cua](https://github.com/trycua/cua)
 
-在你的终端定制化仪表盘，提供 IP 信息、世界时间、系统信息、充电信息、系统状态、GitHub 等信息集中展示，也可以通过配置实现业务监控：
+在 `macOS` 上开启虚拟机，并允许 `AI` 操作系统及应用。`Cua` 基于 `Apple` 的 `Virtualization.Framework`，结合高性能虚拟化与 AI 代理能力，允许用户在 `Apple Silicon` 上创建并运行 `macOS` 和 `Linux` 虚拟机：
 
-![wtfutil](https://images-1252557999.file.myqcloud.com/uPic/wtfutil.jpeg) 
+**核心功能**：
+
+- **高性能虚拟化**：在Apple Silicon处理器上运行macOS和Linux虚拟机，性能达到原生水平的90%。
+- **AI代理操作**：支持AI在虚拟机中模拟用户操作系统及应用程序，如浏览器、VS Code等。
+- **安全隔离**：所有操作均在沙盒化的虚拟环境中运行，保障主机系统的安全。
+- **多应用支持**：AI能够操控虚拟机内的多种应用程序，实现复杂的工作流程。
+- **兼容多种大模型**：目前支持OpenAI和Anthropic的CUA模型，未来还将支持Ollama等本地大模型。
+
+**MacOS 的 AI Agent 新星，本地沙盒驱动，解锁 macOS 操作新体验！**
+
+![cua](https://images-1252557999.file.myqcloud.com/uPic/weL6Z9.png) 
 
 ## 🤖 软件 
 
-### [otphelper](https://github.com/jd1378/otphelper)
+### [namida](https://github.com/namidaco/namida)
 
-`otphelper` 是一个开源应用程序，它可以自动从通知中复制一次性密码（OTP）和代码。
+一个美观且功能丰富的音乐和视频播放器，支持 `Youtube`，基于 `Flutter` 技术构建：
 
-![otphelper](https://images-1252557999.file.myqcloud.com/uPic/OVPH03.png) 
+![namida](https://images-1252557999.file.myqcloud.com/uPic/namida.jpg) 
 
-### [unclutter](https://github.com/lindylearn/unclutter)
+### [allow-right-click](https://github.com/lunu-bounir/allow-right-click)
 
-阅读插件，将网页内容快速转成美观的阅读模式：
+开源插件，解锁被网站禁用的右键功能，支持多种浏览器：
 
-![unclutter](https://images-1252557999.file.myqcloud.com/uPic/unclutter.png) 
+![allow-right-click](https://images-1252557999.file.myqcloud.com/uPic/cyZqzu.png)
 
-### [ElevenClock](https://github.com/marticliment/ElevenClock)
+对于这种功能的插件，一定要用开源的，太多插件先免费提供功能，然后偷偷摸摸做些个人信息售卖或者返佣等事情进行盈利。 
 
-自定义 `Windows 11` 任务栏时钟：
+### [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
 
-![ElevenClock](https://images-1252557999.file.myqcloud.com/uPic/ElevenClock.jpg) 
+一个用于显示当前网速、CPU及内存利用率的 Windows 桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤:
+
+![TrafficMonitor](https://images-1252557999.file.myqcloud.com/uPic/TrafficMonitor.jpg) 
 
 ## 👀 资料 
 
-### [data_compression_course](https://github.com/jermp/data_compression_course)
+### [The Prompt Report: A Systematic Survey of Prompt Engineering Techniques](https://arxiv.org/abs/2406.06608)
 
-由于每天产生的数据不断增长，以压缩形式存储数据的需求变得越来越重要，本项目提供了数据压缩这方面的速成教程。 
+这篇论文提供了关于生成人工智能系统中提示工程技术的全面调查报告，旨在建立对提示工程的结构化理解，提供了 33 个术语的详细词汇表、58 种大型语言模型提示技术的分类法以及其他模态的 40 种技术，并给出了提示工程的最佳实践和指导方针。 
 
-### [大模型基础](https://github.com/datawhalechina/so-large-lm)
+### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
 
-本项目旨在作为一个大规模预训练语言模型的教程，从数据准备、模型构建、训练策略到模型评估与改进，以及模型在安全、隐私、环境和法律道德方面的方面来提供开源知识。
+从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
 
-![so-large-lm](https://images-1252557999.file.myqcloud.com/uPic/so-large-lm.jpg) 
+### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
 
-### [visualize-ml](https://github.com/visualize-ml)
+如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
 
-鸢尾花书：从加减乘除到机器学习，全套7册。
+这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
 
-![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
+其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
+
+![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
 
 ## 🕸 网站 
 
-### [装个机](https://zhuangit.ababtools.com/)
+### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
 
-一个全面的电脑系统安装指南，里面不仅包含了Windows、MacOS的具体下载资源还有“手把手”的安装攻略。
+唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
 
-![zhuangit](https://images-1252557999.file.myqcloud.com/uPic/IH6B8e.png) 
+![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
 
-### [uiverse.io](https://uiverse.io/)
+### [SearchEmoji](https://searchemoji.app/)
 
-一个好看的组件库网站，由`HTML&CSS`组成，代码可以免费使用：
+`Emoji` 表情搜索网站，点击即可复制，颜值也不错海开源：
 
-![uiverse](https://images-1252557999.file.myqcloud.com/uPic/uiverse.jpg) 
+![searchemoji](https://images-1252557999.file.myqcloud.com/uPic/searchemoji.jpeg) 
 
-### [free-font](https://free-font.vercel.app/)
+### [zerossl](https://zerossl.com/)
 
-收录商用免费汉字字体，还包括开源英文字体 `Free Font`:
+一个可以免费签 IP 地址 SSL 证书的网站：
 
-![free-font](https://images-1252557999.file.myqcloud.com/uPic/free-font.png)
-
-项目开源在 [github](https://github.com/jaywcjlove/free-font)。 
+![zerossl](https://images-1252557999.file.myqcloud.com/uPic/zerossl.jpg) 
 
 ## ✍️ 说明
 
