@@ -5,95 +5,106 @@
 
 ## 🎯 项目 
 
-### [docker-wechat](https://github.com/huan/docker-wechat)
+### [jspaint](https://github.com/1j01/jspaint)
 
-盒装微信，在linux下基于Docker技术使用微信客户端：
+怀旧画板项目，`JS Paint` 高度逼真地再现了 `MS Paint` 的每一个工具和菜单，甚至是鲜为人知的功能，它支持主题、附加文件类型和辅助功能，如眼睛凝视模式和语音识别：
 
-![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
+![jspaint](https://images-1252557999.file.myqcloud.com/uPic/jspaint.jpg)
 
-### [ProxiTok](https://github.com/pablouser1/ProxiTok)
+直接在线体验 👉 [jspaint.app](https://jspaint.app/) 
 
-`ProxiTok` 是一款基于 PHP 的开源第三方网页版 `TikTok`，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 `TikTok` 用户发布的视频。支持 `RSS` 订阅、支持自托管：
+### [ChatGPT](https://chat.openai.com/chat)
 
-![proxitok](https://images-1252557999.file.myqcloud.com/uPic/proxitok.jpg) 
+本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
 
-### [cua](https://github.com/trycua/cua)
+- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
+- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
+- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
+- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
+- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
+- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
+- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
 
-在 `macOS` 上开启虚拟机，并允许 `AI` 操作系统及应用。`Cua` 基于 `Apple` 的 `Virtualization.Framework`，结合高性能虚拟化与 AI 代理能力，允许用户在 `Apple Silicon` 上创建并运行 `macOS` 和 `Linux` 虚拟机：
+### [OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)
 
-**核心功能**：
+🥣 AIGC 提示词可视化编辑器，这是一个旨在把 AIGC 提示词（现在支持 Midjourney）可视化并提供编辑功能的工具，有以下特性
 
-- **高性能虚拟化**：在Apple Silicon处理器上运行macOS和Linux虚拟机，性能达到原生水平的90%。
-- **AI代理操作**：支持AI在虚拟机中模拟用户操作系统及应用程序，如浏览器、VS Code等。
-- **安全隔离**：所有操作均在沙盒化的虚拟环境中运行，保障主机系统的安全。
-- **多应用支持**：AI能够操控虚拟机内的多种应用程序，实现复杂的工作流程。
-- **兼容多种大模型**：目前支持OpenAI和Anthropic的CUA模型，未来还将支持Ollama等本地大模型。
+- 显示英文提示词的中文翻译
+- 翻译输入的中文提示词到英文（因为 Midjourney 仅支持英文提示词）
+- 为提示词进行分类（普通、样式、质量、命令）
+- 轻松的排序、隐藏提示词
+- 把提示词可视化结果导出为图片
+- 常用提示词词典
+- 通过 Notion 管理提示词词典
 
-**MacOS 的 AI Agent 新星，本地沙盒驱动，解锁 macOS 操作新体验！**
-
-![cua](https://images-1252557999.file.myqcloud.com/uPic/weL6Z9.png) 
+![OpenPromptStudio](https://images-1252557999.file.myqcloud.com/uPic/OpenPromptStudio.jpg) 
 
 ## 🤖 软件 
 
-### [namida](https://github.com/namidaco/namida)
+### [sunnypages](https://github.com/XMuli/sunnypages)
 
-一个美观且功能丰富的音乐和视频播放器，支持 `Youtube`，基于 `Flutter` 技术构建：
+`Sunny` 截图是一款简洁且漂亮的截图的软件工具，支持 `Windows，MacOS，Linux` 平台。亦支持图片翻译和 `OCR`：
 
-![namida](https://images-1252557999.file.myqcloud.com/uPic/namida.jpg) 
+![sunnypages](https://images-1252557999.file.myqcloud.com/uPic/sunnypages.jpg) 
 
-### [allow-right-click](https://github.com/lunu-bounir/allow-right-click)
+### [Wechatsync](https://github.com/wechatsync/Wechatsync)
 
-开源插件，解锁被网站禁用的右键功能，支持多种浏览器：
+一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力。 
 
-![allow-right-click](https://images-1252557999.file.myqcloud.com/uPic/cyZqzu.png)
+### [AutoTask](https://github.com/xjunz/AutoTask)
 
-对于这种功能的插件，一定要用开源的，太多插件先免费提供功能，然后偷偷摸摸做些个人信息售卖或者返佣等事情进行盈利。 
+一款支持 [Shizuku](https://github.com/RikkaApps/Shizuku) 和辅助功能的自动任务工具，本应用专注于帮助您执行自动任务，相比于其他同类产品，本应用具有以下特点：
 
-### [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
+- 支持多种启动模式（Shizuku和辅助功能）
+- 支持自定义常驻任务任务和一次性任务
+- 支持手势录制，审查布局树等
+- 不需要刻意保活便可常驻后台（两种模式默认系统保活）
+- 省电且占用系统资源较少（事件驱动+协程，执行长时间任务也不阻塞CPU）
+- 代码开源，安全可信
+- Material 3 风格UI，实用美观
 
-一个用于显示当前网速、CPU及内存利用率的 Windows 桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤:
-
-![TrafficMonitor](https://images-1252557999.file.myqcloud.com/uPic/TrafficMonitor.jpg) 
+![AutoTask](https://images-1252557999.file.myqcloud.com/uPic/o9SYLa.png) 
 
 ## 👀 资料 
 
-### [The Prompt Report: A Systematic Survey of Prompt Engineering Techniques](https://arxiv.org/abs/2406.06608)
+### [PyTorch-Tutorial-2nd](https://github.com/TingsongYu/PyTorch-Tutorial-2nd)
 
-这篇论文提供了关于生成人工智能系统中提示工程技术的全面调查报告，旨在建立对提示工程的结构化理解，提供了 33 个术语的详细词汇表、58 种大型语言模型提示技术的分类法以及其他模态的 40 种技术，并给出了提示工程的最佳实践和指导方针。 
+《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项目应用，或是进阶工程化部署落地，在这里都有。相信在本书的帮助下，读者将能够轻松掌握 PyTorch 的使用，成为一名优秀的深度学习工程师。
 
-### [IoT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide)
+![PyTorch-Tutorial-2nd](https://img.fre123.com/i/2024/07/12/6690fc7ae91f6.png) 
 
-从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析。 
+### [C++服务器开发精髓](https://cppguide.cn/pages/92255f/)
 
-### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
+开源电子书籍，本书从操作系统原理角度讲解进行C++服务器开发所需掌握的技术栈：
 
-如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
+![cppguide](https://images-1252557999.file.myqcloud.com/uPic/cppguide.jpg) 
 
-这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
+### [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
-其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
+《Python for Data Analysis》第三版，该书详细介绍了如何使用 `Python` 进行数据分析和数据处理的方法和技巧，适合那些希望使用Python进行数据分析的初学者和有经验的数据分析师：
 
-![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
+![wesmckinney](https://images-1252557999.file.myqcloud.com/uPic/wesmckinney.jpg) 
 
 ## 🕸 网站 
 
-### [2dogz.cn](https://2dogz.cn/tool/poem-tang/)
+### [ray.so](https://ray.so/)
 
-唐诗宋词查询，包含有32万首唐宋诗，15万首宋词：
+之前在[老胡的周刊（第032期）](https://weekly.howie6879.com/2022/03-21~03-27.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC032%E6%9C%9F%EF%BC%89.html?h=carbon#_4)介绍过[carbon](https://carbon.now.sh/)，可以将你的源代码转成漂亮可分享的图片，`ray.so`也具有相同的功能:
 
-![2dogz.cn](https://images-1252557999.file.myqcloud.com/uPic/2dogz.cn.jpg) 
+![ray.so](https://images-1252557999.file.myqcloud.com/uPic/ray.so.jpg) 
 
-### [SearchEmoji](https://searchemoji.app/)
+### [fontawesome](https://fontawesome.com/icons/)
 
-`Emoji` 表情搜索网站，点击即可复制，颜值也不错海开源：
+比较完善全面的图标网站：
 
-![searchemoji](https://images-1252557999.file.myqcloud.com/uPic/searchemoji.jpeg) 
+![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
 
-### [zerossl](https://zerossl.com/)
+### [eja.tv](https://eja.tv/?)
 
-一个可以免费签 IP 地址 SSL 证书的网站：
+提供3808个在线电视频道，包含143个国家以及82种不同语言。
 
-![zerossl](https://images-1252557999.file.myqcloud.com/uPic/zerossl.jpg) 
+![eja_tv](https://images-1252557999.file.myqcloud.com/uPic/eja_tv-min.png) 
 
 ## ✍️ 说明
 
