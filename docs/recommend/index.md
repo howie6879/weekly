@@ -5,83 +5,88 @@
 
 ## 🎯 项目 
 
-### [Piwigo](https://github.com/Piwigo/Piwigo)
+### [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
 
- `Piwigo` 是一个开源的网络照片库软件，用于管理照片，专为组织、团队和个人设计：
- 
- ![Piwigo](https://images-1252557999.file.myqcloud.com/uPic/Piwigo.jpeg) 
+基于 `CloudFlare Pages` 的免费图片托管解决方案，支持 `Telegram Bot` 和 `Cloudflare R2` 等多种存储方式:
 
-### [dub](https://github.com/steven-tey/dub)
+![CloudFlare-ImgBed](https://images-1252557999.file.myqcloud.com/uPic/49JpVO.png) 
 
-开源的短链接服务，可以自定义域名且进行相关指标分析：
+### [12306spy](https://github.com/elroy93/12306spy)
 
-![dub](https://images-1252557999.file.myqcloud.com/uPic/dub.png)
+从12306购票，从A点到B点没有票，但是可以补票或者多买一段票。这个项目可以让你通过这种方式买到票：
 
-还有一个同类型的开源产品 [YOURLS](https://github.com/YOURLS/YOURLS)，也很不错，功能也能覆盖上面。 
+![12306spy](https://images-1252557999.file.myqcloud.com/uPic/12306spy.jpg) 
 
-### [dicebear](https://github.com/dicebear/dicebear)
+### [amprobe](https://github.com/amuluze/amprobe)
 
-供设计师和开发者使用的头像库。可根据传入的字符串，自动生成对应用户头像的库：
+`Amprobe` 是一款轻量级主机及 `Docker` 容器监控工具，它可以轻松的帮助我们完成以下几方面的工作：
 
-![dicebear](https://images-1252557999.file.myqcloud.com/uPic/dicebear.jpg) 
+- 监控主机的 CPU、内存、磁盘 IO、网络 IO情况
+- 监控部署于主机上 Docker 容器的运行状态、CPU、内存使用情况
+- 实时查看 Docker 容器的日志，并支持日志下载
+- 针对管理员用户提供简单的 Docker 容器、镜像运维操作
+- 操作日志记录
+
+暂时还不支持多机器关联，期待作者更新：
+
+![amprobe](https://images-1252557999.file.myqcloud.com/uPic/amprobe.png) 
 
 ## 🤖 软件 
 
-### [scriptcat](https://github.com/scriptscat/scriptcat)
+### [openai-translator](https://github.com/yetone/openai-translator)
 
-`ScriptCat`（脚本猫）是一个功能强大的用户脚本管理器，基于油猴的设计理念，完全兼容油猴脚本。它不仅支持传统的用户脚本，还创新性地实现了后台脚本运行框架，提供丰富的API扩展，让脚本能够完成更多强大的功能。内置优秀的代码编辑器，支持智能补全和语法检查，让脚本开发更加高效流畅，与 Tampermonkey 兼容，支持无缝迁移现有脚本库，用户可以零成本切换使用。
+基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用：
 
-![scriptcat](https://images-1252557999.file.myqcloud.com/uPic/sgVMwI.png) 
+![openai_translator](https://images-1252557999.file.myqcloud.com/uPic/openai_translator.jpg)
+如果你还使用 bob 软件进行翻译，可以考虑使用这个插件：[bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)：基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。 
 
-### [allow-right-click](https://github.com/lunu-bounir/allow-right-click)
+### [ima.copilot](https://ima.qq.com/)
 
-开源插件，解锁被网站禁用的右键功能，支持多种浏览器：
+集成了腾讯混元大模型和 `DeepSeek R1` 模型的智能知识库软件，旨在通过智能搜索、阅读、写作助手等功能，提供全新的知识获取和内容创作体验：
 
-![allow-right-click](https://images-1252557999.file.myqcloud.com/uPic/cyZqzu.png)
+![ima.copilot](https://images-1252557999.file.myqcloud.com/uPic/k9Uo6Y.png) 
 
-对于这种功能的插件，一定要用开源的，太多插件先免费提供功能，然后偷偷摸摸做些个人信息售卖或者返佣等事情进行盈利。 
+### [tvapk](https://github.com/Archmage83/tvapk)
 
-### [pear-rec](https://github.com/027xiguapi/pear-rec)
+收集各大 `AndroidTV` 的 `apk` 应用，可免费看各种vip和国外电影电视：
 
-`pear-rec`(梨子 rec) 是一个跨平台的截图、录屏、录音、录像软件：
-
-![pear-rec](https://images-1252557999.file.myqcloud.com/uPic/pear-rec.jpg) 
+![tvapk](https://images-1252557999.file.myqcloud.com/uPic/tvapk.png) 
 
 ## 👀 资料 
 
-### [open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth)
+### [一人企业方法论](https://github.com/easychen/one-person-businesses-methodology-v2.0)
 
-深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。 
+《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群：
 
-### [theByteBook](https://github.com/isno/theByteBook)
+![opb-quick-start](https://images-1252557999.file.myqcloud.com/uPic/opb-quick-start.jpg) 
 
-深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，整个系列的内容主要集中在 网络、集群以及服务治理、FinOps 这三个主题，这也代表着基础架构的几个核心：稳定、效率、成本：
+### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
 
-![thebyte](https://images-1252557999.file.myqcloud.com/uPic/thebyte.jpg) 
+精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
 
-### [just-react](https://github.com/BetaSu/just-react)
+### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
-「React技术揭秘」 一本自顶向下的React源码分析书 
+本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
 
 ## 🕸 网站 
 
-### [bizhi1](https://bizhi1.com/)
+### [alleyread](https://alleyread.com/)
 
-极简壁纸是一个由个人维护的壁纸小站，无广告，界面清爽，可以很方便地下载必应壁纸：
+发现优质 `Newsletter`：
 
-![bizhi1](https://images-1252557999.file.myqcloud.com/uPic/bizhi1.jpg) 
+![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
 
-### [OurMacs](https://ourmacs.com/)
+### [toolfinder](https://toolfinder.xyz/)
 
-`Mac Apps` 聚合搜索和免费下载：
+生产力工具的维基百科：
 
-![OurMacs](https://images-1252557999.file.myqcloud.com/uPic/kO572X.png) 
+![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
 
-### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
+### [favoree.io](https://www.favoree.io/)
 
-冰霜大佬的博客：
+`YT` 频道探索发现导航网站，做得很精细，用户可以对频道进行评分和评论，这有助于构建一个由社区驱动的信任体系。网站提供了简单的过滤器，使用户能够根据兴趣、内容质量、视频时长和观众情绪等因素来搜索和发现新的频道和视频。
 
-![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
+![favoree](https://images-1252557999.file.myqcloud.com/uPic/favoree.jpg) 
 
 ## ✍️ 说明
 
