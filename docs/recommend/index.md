@@ -5,88 +5,106 @@
 
 ## 🎯 项目 
 
-### [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
+### [docker-windows](https://github.com/dockur/windows)
 
-基于 `CloudFlare Pages` 的免费图片托管解决方案，支持 `Telegram Bot` 和 `Cloudflare R2` 等多种存储方式:
+`Docker` 启动 `Windows`，特性如下：
 
-![CloudFlare-ImgBed](https://images-1252557999.file.myqcloud.com/uPic/49JpVO.png) 
+- ISO downloader
+- KVM acceleration
+- Web-based viewer 
 
-### [12306spy](https://github.com/elroy93/12306spy)
+### [Cloudreve](https://github.com/cloudreve/Cloudreve)
 
-从12306购票，从A点到B点没有票，但是可以补票或者多买一段票。这个项目可以让你通过这种方式买到票：
+支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
 
-![12306spy](https://images-1252557999.file.myqcloud.com/uPic/12306spy.jpg) 
+- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
+- 📤  上传/下载 支持客户端直传，支持下载限速
+- 💾  可对接 Aria2 离线下载
+- 📚  在线 压缩/解压缩、多文件打包下载
+- 💻  覆盖全部存储策略的 WebDAV 协议支持
+- ⚡  拖拽上传、目录上传、流式上传处理
+- 🗃️  文件拖拽管理
+- 👩‍👧‍👦  多用户、用户组
+- 🔗  创建文件、目录的分享链接，可设定自动过期
+- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
+- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
+- 🚀  All-In-One 打包，开箱即用
+- 🌈  ... ...
 
-### [amprobe](https://github.com/amuluze/amprobe)
+![Cloudreve](https://images-1252557999.file.myqcloud.com/uPic/opzEP2.jpg) 
 
-`Amprobe` 是一款轻量级主机及 `Docker` 容器监控工具，它可以轻松的帮助我们完成以下几方面的工作：
+### [cloud_dns_exporter](https://github.com/eryajf/cloud_dns_exporter)
 
-- 监控主机的 CPU、内存、磁盘 IO、网络 IO情况
-- 监控部署于主机上 Docker 容器的运行状态、CPU、内存使用情况
-- 实时查看 Docker 容器的日志，并支持日志下载
-- 针对管理员用户提供简单的 Docker 容器、镜像运维操作
-- 操作日志记录
+周刊群友**二丫讲梵**的开源项目，自动获取 DNS 提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为 Prometheus Metrics。已支持：Tencent，Aliyun，Godaddy，Aws：
 
-暂时还不支持多机器关联，期待作者更新：
-
-![amprobe](https://images-1252557999.file.myqcloud.com/uPic/amprobe.png) 
+![G6dYsS](https://images-1252557999.file.myqcloud.com/uPic/G6dYsS.png) 
 
 ## 🤖 软件 
 
-### [openai-translator](https://github.com/yetone/openai-translator)
+### [Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)
 
-基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用：
+由于在 `QQ` 和微信中发送 `APK` 文件时，文件名会被腾讯添加后缀.1，此 `App` 可以省去重命名步骤，直接安装：
 
-![openai_translator](https://images-1252557999.file.myqcloud.com/uPic/openai_translator.jpg)
-如果你还使用 bob 软件进行翻译，可以考虑使用这个插件：[bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)：基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件。 
+- 获取安装权限（不需要读取存储权限）
+- 在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序 
 
-### [ima.copilot](https://ima.qq.com/)
+### [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
 
-集成了腾讯混元大模型和 `DeepSeek R1` 模型的智能知识库软件，旨在通过智能搜索、阅读、写作助手等功能，提供全新的知识获取和内容创作体验：
+就像 Mac 上的 TextEdit 一样，但专注于于 Markdown。
 
-![ima.copilot](https://images-1252557999.file.myqcloud.com/uPic/k9Uo6Y.png) 
+`MarkEdit` 的特点：
+- 注重隐私：不收集任何用户数据
+- 原生：干净直观
+- 快速：轻松编辑10 MB文件
+- 轻量级：安装程序大小约为3 MB
 
-### [tvapk](https://github.com/Archmage83/tvapk)
+![MarkEdit](https://images-1252557999.file.myqcloud.com/uPic/MarkEdit.png) 
 
-收集各大 `AndroidTV` 的 `apk` 应用，可免费看各种vip和国外电影电视：
+### [5ire](https://github.com/nanbingxyz/5ire)
 
-![tvapk](https://images-1252557999.file.myqcloud.com/uPic/tvapk.png) 
+一个开源的跨平台桌面 AI 助手，同时也是一个 MCP 客户端。该项目支持多种大型语言模型服务提供商，如 OpenAI、Azure OpenAI、Anthropic 等，并且能够通过 MCP 服务器连接本地知识库和工具，实现诸如文件系统访问、系统信息交互、数据库交互和远程数据访问等功能。
+
+![5ire](https://images-1252557999.file.myqcloud.com/uPic/8y8k3G.png) 
 
 ## 👀 资料 
 
-### [一人企业方法论](https://github.com/easychen/one-person-businesses-methodology-v2.0)
+### [ai_agents_az](https://github.com/gyoridavid/ai_agents_az)
 
-《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群：
+`ai_agents_az` 项目是一个专门为 AI 代理创建的资源库，其中包含了多个回放和教程，涵盖从创建药物处方代理到使用 n8n 等工具制作社交媒体内容的各种实践案例。该项目由 David Gyori 和 Kais 共同维护，主要使用 Python 语言开发。项目内容分为两个主要部分：一是包含 20 个集数的 AI 代理 A-Z 系列教程，每个集数都有相应的工作流文件和说明；二是提供了一个用于创建短视频的 MCP/REST 服务器和一个用于创建旨在的故事创作服务器。
 
-![opb-quick-start](https://images-1252557999.file.myqcloud.com/uPic/opb-quick-start.jpg) 
+![ai_agents_az](https://images-1252557999.file.myqcloud.com/uPic/hZIh2V.png) 
 
-### [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
+### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
 
-精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理。 
+从零开始 `Kubernetes` 攻防:
 
-### [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
 
-本文原文由知名 `Hacker Eric S. Raymond` 所撰写，教你如何正确地提出技术问题并获得你满意的答案。 
+### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
+
+《TCP/IP网络编程》(韩-尹圣雨)学习笔记
+
+![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
 
 ## 🕸 网站 
 
-### [alleyread](https://alleyread.com/)
+### [央视纪实](https://jishi.cctv.com/)
 
-发现优质 `Newsletter`：
+央视官方纪录片大全，全部免费观看：
 
-![alleyread](https://images-1252557999.file.myqcloud.com/uPic/alleyread.jpg) 
+![657d173347944](https://img.fre123.com/i/2023/12/16/657d173347944.png) 
 
-### [toolfinder](https://toolfinder.xyz/)
+### [opensource-heroes](https://opensource-heroes.com/)
 
-生产力工具的维基百科：
+星标数最多的开源开发者、组织以及仓库排行榜单：
 
-![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
+![opensource-heroes](https://images-1252557999.file.myqcloud.com/uPic/opensource-heroes.jpg) 
 
-### [favoree.io](https://www.favoree.io/)
+### [deepwiki](https://deepwiki.org/)
 
-`YT` 频道探索发现导航网站，做得很精细，用户可以对频道进行评分和评论，这有助于构建一个由社区驱动的信任体系。网站提供了简单的过滤器，使用户能够根据兴趣、内容质量、视频时长和观众情绪等因素来搜索和发现新的频道和视频。
+`DeepWiki` 旨为成为一个全球性的、为每个 `GitHub` 仓库提供可交流的文档服务的平台。它类似于 `Deep Research`，但专注于 `GitHub` 上的内容。`DeepWiki` 的目标是为开发者提供一个平台，上面可以轻松地为每个项目编写和交流文档：
 
-![favoree](https://images-1252557999.file.myqcloud.com/uPic/favoree.jpg) 
+![deepwiki](https://images-1252557999.file.myqcloud.com/uPic/KXEJcj.png) 
 
 ## ✍️ 说明
 
