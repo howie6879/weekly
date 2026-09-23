@@ -5,13 +5,17 @@
 
 ## 🎯 项目 
 
-### [docker-windows](https://github.com/dockur/windows)
+### [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
 
-`Docker` 启动 `Windows`，特性如下：
+用 `Express` 和 `Vue3` 搭建的 `ChatGPT` 演示网页：
 
-- ISO downloader
-- KVM acceleration
-- Web-based viewer 
+![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
+
+### [paper-qa](https://github.com/whitead/paper-qa)
+
+用 `GPT-3` 来解读论文的开源项目：
+
+![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
 
 ### [Cloudreve](https://github.com/cloudreve/Cloudreve)
 
@@ -33,78 +37,66 @@
 
 ![Cloudreve](https://images-1252557999.file.myqcloud.com/uPic/opzEP2.jpg) 
 
-### [cloud_dns_exporter](https://github.com/eryajf/cloud_dns_exporter)
-
-周刊群友**二丫讲梵**的开源项目，自动获取 DNS 提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为 Prometheus Metrics。已支持：Tencent，Aliyun，Godaddy，Aws：
-
-![G6dYsS](https://images-1252557999.file.myqcloud.com/uPic/G6dYsS.png) 
-
 ## 🤖 软件 
 
-### [Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)
+### [image-matting](https://github.com/pangxiaobin/image-matting)
 
-由于在 `QQ` 和微信中发送 `APK` 文件时，文件名会被腾讯添加后缀.1，此 `App` 可以省去重命名步骤，直接安装：
+基于开源模型 `briaai/RMBG-1.4` 实现图像抠图：
 
-- 获取安装权限（不需要读取存储权限）
-- 在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序 
+![image-matting](https://images-1252557999.file.myqcloud.com/uPic/image-matting.jpg)
 
-### [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
+还有个闭源免费版本，可以参考进行使用[鲜艺AI抠图](https://kt.94xy.com/)，免费的离线AI抠图工具。 
 
-就像 Mac 上的 TextEdit 一样，但专注于于 Markdown。
+### [pot-desktop](https://github.com/pot-app/pot-desktop)
 
-`MarkEdit` 的特点：
-- 注重隐私：不收集任何用户数据
-- 原生：干净直观
-- 快速：轻松编辑10 MB文件
-- 轻量级：安装程序大小约为3 MB
+🌈 一个跨平台的划词翻译软件，对标 Bob：
 
-![MarkEdit](https://images-1252557999.file.myqcloud.com/uPic/MarkEdit.png) 
+![pot-desktop](https://images-1252557999.file.myqcloud.com/uPic/pot-desktop.jpg) 
 
-### [5ire](https://github.com/nanbingxyz/5ire)
+### [BlackHole](https://github.com/Sangwan5688/BlackHole)
 
-一个开源的跨平台桌面 AI 助手，同时也是一个 MCP 客户端。该项目支持多种大型语言模型服务提供商，如 OpenAI、Azure OpenAI、Anthropic 等，并且能够通过 MCP 服务器连接本地知识库和工具，实现诸如文件系统访问、系统信息交互、数据库交互和远程数据访问等功能。
+一个适用于您所有需求的开源音乐播放器应用，高颜值、无广告、免费音乐播放器，拥有歌词、专辑、艺术家、播放列表、定时关闭等功能，支持 `Android、iOS、macOS` 系统：
 
-![5ire](https://images-1252557999.file.myqcloud.com/uPic/8y8k3G.png) 
+![BlackHole](https://images-1252557999.file.myqcloud.com/uPic/BlackHole.png)
+![hole](https://images-1252557999.file.myqcloud.com/uPic/hole.jpg) 
 
 ## 👀 资料 
 
-### [ai_agents_az](https://github.com/gyoridavid/ai_agents_az)
+### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 
-`ai_agents_az` 项目是一个专门为 AI 代理创建的资源库，其中包含了多个回放和教程，涵盖从创建药物处方代理到使用 n8n 等工具制作社交媒体内容的各种实践案例。该项目由 David Gyori 和 Kais 共同维护，主要使用 Python 语言开发。项目内容分为两个主要部分：一是包含 20 个集数的 AI 代理 A-Z 系列教程，每个集数都有相应的工作流文件和说明；二是提供了一个用于创建短视频的 MCP/REST 服务器和一个用于创建旨在的故事创作服务器。
+一份程序员延寿指南，目标是稳健地活得更久。 
 
-![ai_agents_az](https://images-1252557999.file.myqcloud.com/uPic/hZIh2V.png) 
+### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
 
-### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
+学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
 
-从零开始 `Kubernetes` 攻防:
+![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
 
-![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
+### [2d2d](https://2d2d.io/)
 
-### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
+《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建议开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
 
-《TCP/IP网络编程》(韩-尹圣雨)学习笔记
-
-![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
+![2d2d](https://images-1252557999.file.myqcloud.com/uPic/2d2d.jpg) 
 
 ## 🕸 网站 
 
-### [央视纪实](https://jishi.cctv.com/)
+### [jsont.run](https://www.jsont.run/)
 
-央视官方纪录片大全，全部免费观看：
+一个简洁的在线 `JSON` 解析器：
 
-![657d173347944](https://img.fre123.com/i/2023/12/16/657d173347944.png) 
+![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
 
-### [opensource-heroes](https://opensource-heroes.com/)
+### [AI Reading Hub](https://www.aireadinghub.com/ "AI Reading Hub")
 
-星标数最多的开源开发者、组织以及仓库排行榜单：
+每天精选值得读的 AI 文章：
 
-![opensource-heroes](https://images-1252557999.file.myqcloud.com/uPic/opensource-heroes.jpg) 
+![AI Reading Hub](https://images-1252557999.file.myqcloud.com/uPic/YBUidO.png) 
 
-### [deepwiki](https://deepwiki.org/)
+### [the-algorithms](https://the-algorithms.com/zh_Hans)
 
-`DeepWiki` 旨为成为一个全球性的、为每个 `GitHub` 仓库提供可交流的文档服务的平台。它类似于 `Deep Research`，但专注于 `GitHub` 上的内容。`DeepWiki` 的目标是为开发者提供一个平台，上面可以轻松地为每个项目编写和交流文档：
+`GitHub` 最大的开源算法库：
 
-![deepwiki](https://images-1252557999.file.myqcloud.com/uPic/KXEJcj.png) 
+![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
 
 ## ✍️ 说明
 
