@@ -5,98 +5,90 @@
 
 ## 🎯 项目 
 
-### [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
+### [Feeddd](https://github.com/feeddd/feeds)
 
-用 `Express` 和 `Vue3` 搭建的 `ChatGPT` 演示网页：
+![Feeddd](https://images-1252557999.file.myqcloud.com/uPic/5a9np8.jpg)
 
-![chatgpt-web](https://images-1252557999.file.myqcloud.com/uPic/chatgpt-web.png) 
+一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
 
-### [paper-qa](https://github.com/whitead/paper-qa)
+### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
 
-用 `GPT-3` 来解读论文的开源项目：
+该项目支持将微信聊天记录导出并生成网页浏览。 
 
-![paper-qa](https://images-1252557999.file.myqcloud.com/uPic/paper-qa.png) 
+### [chsrc](https://github.com/RubyMetric/chsrc)
 
-### [Cloudreve](https://github.com/cloudreve/Cloudreve)
+全平台命令行换源工具，目标支持 Linux (包括麒麟、openEuler、deepin 等), Windows, macOS, BSD 等尽可能多的操作系统，龙芯、飞腾、RISC-V 等尽可能多的 CPU。
 
-支持多家云存储的云盘系统，如果你有云盘需求，可以尝鲜试试，特性如下：
-
-- ☁️  支持本机、从机、七牛、阿里云 OSS、腾讯云 COS、又拍云、OneDrive (包括世纪互联版) 作为存储端
-- 📤  上传/下载 支持客户端直传，支持下载限速
-- 💾  可对接 Aria2 离线下载
-- 📚  在线 压缩/解压缩、多文件打包下载
-- 💻  覆盖全部存储策略的 WebDAV 协议支持
-- ⚡  拖拽上传、目录上传、流式上传处理
-- 🗃️  文件拖拽管理
-- 👩‍👧‍👦  多用户、用户组
-- 🔗  创建文件、目录的分享链接，可设定自动过期
-- 👁️‍🗨️  视频、图像、音频、文本、Office 文档在线预览
-- 🎨  自定义配色、黑暗模式、PWA 应用、全站单页应用
-- 🚀  All-In-One 打包，开箱即用
-- 🌈  ... ...
-
-![Cloudreve](https://images-1252557999.file.myqcloud.com/uPic/opzEP2.jpg) 
+![chsrc](https://images-1252557999.file.myqcloud.com/uPic/0WY3Oh.png) 
 
 ## 🤖 软件 
 
-### [image-matting](https://github.com/pangxiaobin/image-matting)
+### [ab-download-manager](https://github.com/amir1376/ab-download-manager)
 
-基于开源模型 `briaai/RMBG-1.4` 实现图像抠图：
+旨在提供比传统下载方式更快下载速度的开源跨平台下载器，界面非常现代化：
 
-![image-matting](https://images-1252557999.file.myqcloud.com/uPic/image-matting.jpg)
+![ab-download-manager](https://images-1252557999.file.myqcloud.com/uPic/ECGYnu.png) 
 
-还有个闭源免费版本，可以参考进行使用[鲜艺AI抠图](https://kt.94xy.com/)，免费的离线AI抠图工具。 
+### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
 
-### [pot-desktop](https://github.com/pot-app/pot-desktop)
+Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
 
-🌈 一个跨平台的划词翻译软件，对标 Bob：
+Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
 
-![pot-desktop](https://images-1252557999.file.myqcloud.com/uPic/pot-desktop.jpg) 
+支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
 
-### [BlackHole](https://github.com/Sangwan5688/BlackHole)
+![hammerscholar](https://images-1252557999.file.myqcloud.com/uPic/4UQ5Ha.png) 
 
-一个适用于您所有需求的开源音乐播放器应用，高颜值、无广告、免费音乐播放器，拥有歌词、专辑、艺术家、播放列表、定时关闭等功能，支持 `Android、iOS、macOS` 系统：
+### [smartedu-download](https://github.com/52beijixing/smartedu-download)
 
-![BlackHole](https://images-1252557999.file.myqcloud.com/uPic/BlackHole.png)
-![hole](https://images-1252557999.file.myqcloud.com/uPic/hole.jpg) 
+帮助您下载国家中小学智慧教育平台的文件，支持视频、教材（课本）、原版课件（ppt、word、pdf格式）下载：
+
+![smartedu-download](https://images-1252557999.file.myqcloud.com/uPic/smartedu-download.jpg) 
 
 ## 👀 资料 
 
-### [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
+### [Ahrefs Blog SEO 文章列表](https://xuxuyu.notion.site/1468d1c9ea65473b934917d8ab25979b?v=dcaec075d4b34a8e8af5be0bc9a259a0)
 
-一份程序员延寿指南，目标是稳健地活得更久。 
+对 `SEO` 有兴趣可以看看：
 
-### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+![Ahrefs](https://images-1252557999.file.myqcloud.com/uPic/Ahrefs.jpg) 
 
-学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
+### [moderncss](https://moderncss.dev/)
 
-![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
+一份现代 `CSS` 教程，偏向有 `CSS` 的基础的前端开发者：
 
-### [2d2d](https://2d2d.io/)
+![moderncss](https://images-1252557999.file.myqcloud.com/uPic/moderncss.jpg) 
 
-《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建议开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
+### [comflowy](https://www.comflowy.com/zh-CN)
 
-![2d2d](https://images-1252557999.file.myqcloud.com/uPic/2d2d.jpg) 
+作者认为 `AI` 生图领域的未来一定是围绕 `Stable Diffusion` 展开，而 `ComfyUI` 相比于 `Stable Diffusion WebUI` 等其他开源产品具备非常强的差异化能力，它具备高度的扩展性和应用可能性，真正做到了让开发者和用户能够根据自己的需求打造个性化的生图流程。
+
+![comflowy](https://images-1252557999.file.myqcloud.com/uPic/comflowy.jpg) 
 
 ## 🕸 网站 
 
-### [jsont.run](https://www.jsont.run/)
+### [aosabook](http://aosabook.org/en/index.html)
 
-一个简洁的在线 `JSON` 解析器：
+网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
 
-![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
+- ZeroMQ
+- Chrome
+- Nginx
+- 等等
 
-### [AI Reading Hub](https://www.aireadinghub.com/ "AI Reading Hub")
+上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
 
-每天精选值得读的 AI 文章：
+### [extract.pics](https://extract.pics/)
 
-![AI Reading Hub](https://images-1252557999.file.myqcloud.com/uPic/YBUidO.png) 
+输入网站地址，提取网站图片资源：
 
-### [the-algorithms](https://the-algorithms.com/zh_Hans)
+![extract_pics](https://images-1252557999.file.myqcloud.com/uPic/extract_pics.jpg) 
 
-`GitHub` 最大的开源算法库：
+### [staticrypt](https://github.com/robinmoisson/staticrypt)
 
-![the-algorithms](https://images-1252557999.file.myqcloud.com/uPic/the-algorithms.jpg) 
+一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
+
+![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
 
 ## ✍️ 说明
 
