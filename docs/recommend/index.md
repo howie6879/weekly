@@ -5,90 +5,105 @@
 
 ## 🎯 项目 
 
-### [Feeddd](https://github.com/feeddd/feeds)
+### [ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot)
 
-![Feeddd](https://images-1252557999.file.myqcloud.com/uPic/5a9np8.jpg)
+`Win PC` 微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装 `COM` 接口供 `Python、C#` 调用：
 
-一个新的免费的公众号 RSS，之前也介绍过一个公众号RSS，不过因为大家都知道的原因没有活下来，但这个东西是春风吹又生的东西，所以最近Feeddd诞生了，大家就且用且珍惜吧。 
+- 获取通讯录
+- 发送文本、图片、文件、xml文章、名片、群艾特消息
+- 根据wxid查询好友信息
+- 根据群ID获取所有群成员wxid
+- 检测好友状态（是否好友、被删除、被拉黑）
+- 接收各类消息，可写回调函数进行处理
+- 封装COM接口，方便使用自己喜欢的语言进行调用
+- 群管理
+- 微信多开 
 
-### [WechatExporter](https://github.com/BlueMatthew/WechatExporter)
+### [LiTiaotiao](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
 
-该项目支持将微信聊天记录导出并生成网页浏览。 
+前段时间，自动跳过开屏广告 App，**李跳跳**作者遭大厂警告，产品无限期停更。
 
-### [chsrc](https://github.com/RubyMetric/chsrc)
+这是一个收集适用于**李跳跳**的 `App` 自定义规则：
 
-全平台命令行换源工具，目标支持 Linux (包括麒麟、openEuler、deepin 等), Windows, macOS, BSD 等尽可能多的操作系统，龙芯、飞腾、RISC-V 等尽可能多的 CPU。
+- 基础规则：关闭应用内广告、更新弹窗、青少年模式弹窗、权限索取提示等
+- 增强规则：自动化操作等
 
-![chsrc](https://images-1252557999.file.myqcloud.com/uPic/0WY3Oh.png) 
+也算变相复活李跳跳了，不方便下载的可以关注公众号加我微信我传给你。 
+
+### [minimind](https://github.com/jingyaogong/minimind)
+
+大语言模型（LLM）领域，如 GPT、LLaMA、GLM 等，虽然它们效果惊艳， 但动辄10 Bilion庞大的模型参数个人设备显存远不够训练，甚至推理困难。 几乎所有人都不会只满足于用Lora等方案fine-tuing大模型学会一些新的指令， 这约等于在教牛顿玩21世纪的智能手机，然而，这远远脱离了学习物理本身的奥妙。 此外，卖课付费订阅的营销号漏洞百出的一知半解讲解AI的教程遍地， 让理解LLM的优质内容雪上加霜，严重阻碍了学习者。
+
+因此，本项目的目标是把上手LLM的门槛无限降低， 直接从0开始训练一个极其轻量的语言模型。
+
+![minimind](https://images-1252557999.file.myqcloud.com/uPic/ZvBbNK.png) 
 
 ## 🤖 软件 
 
-### [ab-download-manager](https://github.com/amir1376/ab-download-manager)
+### [腾讯交互翻译 TranSmart](https://transmart.qq.com/zh-CN/intro)
 
-旨在提供比传统下载方式更快下载速度的开源跨平台下载器，界面非常现代化：
+腾讯交互翻译融合了腾讯人工智能实验室自研的交互式机器翻译、神经网络机器翻译、 统计机器翻译、语义理解、信息检索等技术，帮助用户更快、更好地完成翻译任务。
 
-![ab-download-manager](https://images-1252557999.file.myqcloud.com/uPic/ECGYnu.png) 
+包含网页、跨平台客户端、插件等使用形式，翻译质量也还不错，诚意满满：
 
-### [Smart-Scientific-Reader](https://github.com/HammerPDF/Smart-Scientific-Reader)
+![TranSmart](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-10-16_09-57-06.jpg) 
 
-Hammer PDF，一款由北京理工大学计算机学院 DataHammer 研究组开发维护的全新科技智能阅读器，能够快速分析 PDF 学术文献，实时提供可靠的学术信息。增进科研生产力就看这里！
+### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
 
-Hammer PDF 将论文、作者、报告视频、数据集、代码、博客等学术资源通过数据关联和知识挖掘等手段组成一个有机整体，不仅提供基础的 PDF 阅读功能，还支持信息抽取、语义分析等自然语言处理任务，大大扩展传统 PDF 阅读器的功能，为研究人员提供最新可靠的扩展信息，显著提升学术研究的工作效率。
+基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
 
-支持[网页端](https://pdf.hammerscholar.net/)、[桌面端](https://github.com/HammerPDF/Smart-Scientific-Reader/releases)，非常强大。
+- 干净简洁的UI
+- 内置效果可实现准确的男声和女声
+- 创建&加载自定义预设的能力
+- 创建自己的临时虚拟输入设备
 
-![hammerscholar](https://images-1252557999.file.myqcloud.com/uPic/4UQ5Ha.png) 
+![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
 
-### [smartedu-download](https://github.com/52beijixing/smartedu-download)
+### [Bonjourr](https://github.com/victrme/Bonjourr)
 
-帮助您下载国家中小学智慧教育平台的文件，支持视频、教材（课本）、原版课件（ppt、word、pdf格式）下载：
+`Bonjourr` 是法语你好的意思，这是一个简约漂亮的起始页浏览器插件：
 
-![smartedu-download](https://images-1252557999.file.myqcloud.com/uPic/smartedu-download.jpg) 
+![Bonjourr](https://images-1252557999.file.myqcloud.com/uPic/Bonjourr.jpg) 
 
 ## 👀 资料 
 
-### [Ahrefs Blog SEO 文章列表](https://xuxuyu.notion.site/1468d1c9ea65473b934917d8ab25979b?v=dcaec075d4b34a8e8af5be0bc9a259a0)
+### [Web Development History](https://webdevelopmenthistory.com/index/)
 
-对 `SEO` 有兴趣可以看看：
+`Web` 开发发展史文章系列：
 
-![Ahrefs](https://images-1252557999.file.myqcloud.com/uPic/Ahrefs.jpg) 
+![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
 
-### [moderncss](https://moderncss.dev/)
+### [2d2d](https://2d2d.io/)
 
-一份现代 `CSS` 教程，偏向有 `CSS` 的基础的前端开发者：
+《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建议开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
 
-![moderncss](https://images-1252557999.file.myqcloud.com/uPic/moderncss.jpg) 
+![2d2d](https://images-1252557999.file.myqcloud.com/uPic/2d2d.jpg) 
 
-### [comflowy](https://www.comflowy.com/zh-CN)
+### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
 
-作者认为 `AI` 生图领域的未来一定是围绕 `Stable Diffusion` 展开，而 `ComfyUI` 相比于 `Stable Diffusion WebUI` 等其他开源产品具备非常强的差异化能力，它具备高度的扩展性和应用可能性，真正做到了让开发者和用户能够根据自己的需求打造个性化的生图流程。
+《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
 
-![comflowy](https://images-1252557999.file.myqcloud.com/uPic/comflowy.jpg) 
+![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
 
 ## 🕸 网站 
 
-### [aosabook](http://aosabook.org/en/index.html)
+### [openvim](https://www.openvim.com/)
 
-网站全名👉`Architecture of Open Source Applications`，当前已经诞生了四本优秀的书籍，章节内容汇集了当今优秀开源软件的架构，如：
+交互式 `vim` 学习网站：
 
-- ZeroMQ
-- Chrome
-- Nginx
-- 等等
+![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
 
-上面**项目**栏目介绍的`500lines`项目就是`aosabook`系列第四本书的源码。 
+### [awesome-chatgpt-prompts](https://prompts.chat/)
 
-### [extract.pics](https://extract.pics/)
+`ChatGPT` 余热不减，一周百万用户果然不是盖的，这个项目总结了 `ChatGPT` 常用姿势：
 
-输入网站地址，提取网站图片资源：
+![prompts](https://images-1252557999.file.myqcloud.com/uPic/prompts.jpg) 
 
-![extract_pics](https://images-1252557999.file.myqcloud.com/uPic/extract_pics.jpg) 
+### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
 
-### [staticrypt](https://github.com/robinmoisson/staticrypt)
+冰霜大佬的博客：
 
-一个开源的静态 `HTML` 页面进行密码加密保护的项目。很有意思 -> [robinmoisson.github.io/staticrypt](https://robinmoisson.github.io/staticrypt/)：
-
-![staticrypt](https://images-1252557999.file.myqcloud.com/uPic/staticrypt.jpg) 
+![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
 
 ## ✍️ 说明
 
