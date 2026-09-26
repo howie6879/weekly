@@ -5,105 +5,88 @@
 
 ## 🎯 项目 
 
-### [ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot)
+### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
 
-`Win PC` 微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装 `COM` 接口供 `Python、C#` 调用：
+B站视频命令行下载工具：
 
-- 获取通讯录
-- 发送文本、图片、文件、xml文章、名片、群艾特消息
-- 根据wxid查询好友信息
-- 根据群ID获取所有群成员wxid
-- 检测好友状态（是否好友、被删除、被拉黑）
-- 接收各类消息，可写回调函数进行处理
-- 封装COM接口，方便使用自己喜欢的语言进行调用
-- 群管理
-- 微信多开 
+![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
 
-### [LiTiaotiao](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
+### [appsmith](https://github.com/appsmithorg/appsmith)
 
-前段时间，自动跳过开屏广告 App，**李跳跳**作者遭大厂警告，产品无限期停更。
+低代码项目，用于构建任何自定义业务软件，如管理面板、内部工具和仪表板。使用35+个预构建的UI小部件连接到任何数据库、GraphQL或RESTAPI。
 
-这是一个收集适用于**李跳跳**的 `App` 自定义规则：
+![as-widgets](https://images-1252557999.file.myqcloud.com/uPic/as-widgets.gif) 
 
-- 基础规则：关闭应用内广告、更新弹窗、青少年模式弹窗、权限索取提示等
-- 增强规则：自动化操作等
+### [metabase](https://github.com/metabase/metabase)
 
-也算变相复活李跳跳了，不方便下载的可以关注公众号加我微信我传给你。 
+为公司提供的快速BI数据可视化工具：
 
-### [minimind](https://github.com/jingyaogong/minimind)
+![metabase](https://images-1252557999.file.myqcloud.com/uPic/metabase.png)
 
-大语言模型（LLM）领域，如 GPT、LLaMA、GLM 等，虽然它们效果惊艳， 但动辄10 Bilion庞大的模型参数个人设备显存远不够训练，甚至推理困难。 几乎所有人都不会只满足于用Lora等方案fine-tuing大模型学会一些新的指令， 这约等于在教牛顿玩21世纪的智能手机，然而，这远远脱离了学习物理本身的奥妙。 此外，卖课付费订阅的营销号漏洞百出的一知半解讲解AI的教程遍地， 让理解LLM的优质内容雪上加霜，严重阻碍了学习者。
-
-因此，本项目的目标是把上手LLM的门槛无限降低， 直接从0开始训练一个极其轻量的语言模型。
-
-![minimind](https://images-1252557999.file.myqcloud.com/uPic/ZvBbNK.png) 
+也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.com/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease) 
 
 ## 🤖 软件 
 
-### [腾讯交互翻译 TranSmart](https://transmart.qq.com/zh-CN/intro)
+### [LiveContainer](https://github.com/LiveContainer/LiveContainer)
 
-腾讯交互翻译融合了腾讯人工智能实验室自研的交互式机器翻译、神经网络机器翻译、 统计机器翻译、语义理解、信息检索等技术，帮助用户更快、更好地完成翻译任务。
+不用越狱，在  `IOS` 下通过**容器**形式运行，可尝试多开：
 
-包含网页、跨平台客户端、插件等使用形式，翻译质量也还不错，诚意满满：
+![LiveContainer](https://images-1252557999.file.myqcloud.com/uPic/Fsv3cc.png) 
 
-![TranSmart](https://images-1252557999.file.myqcloud.com/uPic/Xnip2022-10-16_09-57-06.jpg) 
+### [ytdlnis](https://github.com/deniscerri/ytdlnis)
 
-### [lyrebird](https://github.com/lyrebird-voice-changer/lyrebird)
+`ytdlnis` 是一个免费且开源的 Android 应用，它使用 yt-dlp 来下载视频和音频。该应用支持多种功能，包括从超过 1000 个网站下载内容、处理播放列表。
 
-基于 `Python` 和 `GTK` 编写的变声器，专门适用于 `Linux` 系列：
+![ytdlnis](https://images-1252557999.file.myqcloud.com/uPic/pMXT1j.png) 
 
-- 干净简洁的UI
-- 内置效果可实现准确的男声和女声
-- 创建&加载自定义预设的能力
-- 创建自己的临时虚拟输入设备
+### [revezone](https://github.com/revezone/revezone)
 
-![lyrebird](https://images-1252557999.file.myqcloud.com/uPic/lyrebird.png) 
+一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具：
 
-### [Bonjourr](https://github.com/victrme/Bonjourr)
-
-`Bonjourr` 是法语你好的意思，这是一个简约漂亮的起始页浏览器插件：
-
-![Bonjourr](https://images-1252557999.file.myqcloud.com/uPic/Bonjourr.jpg) 
+![revezone](https://images-1252557999.file.myqcloud.com/uPic/revezone.jpg) 
 
 ## 👀 资料 
 
-### [Web Development History](https://webdevelopmenthistory.com/index/)
+### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
-`Web` 开发发展史文章系列：
+微软开源的一份全面的数据科学课程，20个课时，历时10周：
 
-![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
+![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
 
-### [2d2d](https://2d2d.io/)
+### [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
 
-《TO-D 杂志》- 一份专注于开发者的杂志，作者在字节跳动内部跟一位同事经常沟通探讨全球开发者领域的事情，因此被同事建议开一个 To-D 专栏分享一下这方面的内容，目前已经连载到第二季，访问信息见[Github 地址](https://github.com/zineland/2d2d)&[官网](https://2d2d.io/)：
+本仓库是手册《简单粗暴LaTeX》的开源仓库。本书涵盖了LaTeX的基本使用场景，以简明的例子来展现各命令的用法：
 
-![2d2d](https://images-1252557999.file.myqcloud.com/uPic/2d2d.jpg) 
+![Note-by-LaTeX](https://images-1252557999.file.myqcloud.com/uPic/Note-by-LaTeX.jpg)
 
-### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
+在开源仓库可直接下载阅读。 
 
-《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
+### [easy-rl](https://github.com/datawhalechina/easy-rl)
 
-![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
+强化学习中文教程：
+
+![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
 
 ## 🕸 网站 
 
-### [openvim](https://www.openvim.com/)
+### [oss.gallery](https://oss.gallery/)
 
-交互式 `vim` 学习网站：
+`OSS Gallery` 提供了一个展示和探索各种领域最佳开源项目的窗口。用户可以通过这个平台，获取到开源社区中值得关注的项目，这些项目涵盖了从软件开发、数据科学到设计等多个领域。平台的目的是为开源项目提供更多的曝光机会，同时也为开发者和用户提供一个学习和交流的场所。
 
-![openvim](https://images-1252557999.file.myqcloud.com/uPic/openvim.jpg) 
+![oss_gallery](https://images-1252557999.file.myqcloud.com/uPic/oss_gallery.jpg) 
 
-### [awesome-chatgpt-prompts](https://prompts.chat/)
+### [roadmap.sh](https://roadmap.sh/)
 
-`ChatGPT` 余热不减，一周百万用户果然不是盖的，这个项目总结了 `ChatGPT` 常用姿势：
+这是一个开源免费的项目，主要是提供了各种技术栈的学习路线：
 
-![prompts](https://images-1252557999.file.myqcloud.com/uPic/prompts.jpg) 
+![roadmap](https://images-1252557999.file.myqcloud.com/uPic/roadmap.jpg) 
 
-### [Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
+### [Connected Papers](https://www.connectedpapers.com/)
 
-冰霜大佬的博客：
+`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
 
-![halfrost](https://images-1252557999.file.myqcloud.com/uPic/halfrost.jpg) 
+![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
+是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
 
 ## ✍️ 说明
 
