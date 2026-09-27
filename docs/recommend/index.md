@@ -5,88 +5,93 @@
 
 ## 🎯 项目 
 
-### [bilibili2local](https://github.com/sansui-orz/bilibili2local)
+### [rybbit](https://github.com/rybbit-io/rybbit)
 
-B站视频命令行下载工具：
+`Rybbit` 是一个开源、隐私友好的网站分析工具，旨在提供比 `Google Analytics` 更直观的用户体验：
 
-![b2l](https://images-1252557999.file.myqcloud.com/uPic/b2l.gif) 
+![rybbit](https://images-1252557999.file.myqcloud.com/uPic/fZwu4p.png) 
 
-### [appsmith](https://github.com/appsmithorg/appsmith)
+### [wallabag](https://github.com/wallabag/wallabag)
 
-低代码项目，用于构建任何自定义业务软件，如管理面板、内部工具和仪表板。使用35+个预构建的UI小部件连接到任何数据库、GraphQL或RESTAPI。
+一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
 
-![as-widgets](https://images-1252557999.file.myqcloud.com/uPic/as-widgets.gif) 
+- 浏览器插件收集网页信息
+- 安卓/IOS/网页端阅读以及管理
 
-### [metabase](https://github.com/metabase/metabase)
+![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
 
-为公司提供的快速BI数据可视化工具：
+### [BroadcastChannel](https://github.com/ccbikai/BroadcastChannel)
 
-![metabase](https://images-1252557999.file.myqcloud.com/uPic/metabase.png)
+将你的 `Telegram Channel` 转为微博客：
 
-也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.com/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease) 
+![BroadcastChannel](https://images-1252557999.file.myqcloud.com/uPic/Aj9mwD.png) 
 
 ## 🤖 软件 
 
-### [LiveContainer](https://github.com/LiveContainer/LiveContainer)
+### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
 
-不用越狱，在  `IOS` 下通过**容器**形式运行，可尝试多开：
+超方便的微信视频号下载器：
 
-![LiveContainer](https://images-1252557999.file.myqcloud.com/uPic/Fsv3cc.png) 
+- 支持实时捕获视频号的视频地址
+- 捕获后，可进行预览和下载
+- 支持 Win/Mac
 
-### [ytdlnis](https://github.com/deniscerri/ytdlnis)
+![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
 
-`ytdlnis` 是一个免费且开源的 Android 应用，它使用 yt-dlp 来下载视频和音频。该应用支持多种功能，包括从超过 1000 个网站下载内容、处理播放列表。
+### [squawker](https://github.com/j-fbriere/squawker)
 
-![ytdlnis](https://images-1252557999.file.myqcloud.com/uPic/pMXT1j.png) 
+一个开源的隐私导向的 `Twitter/X` 客户端：
 
-### [revezone](https://github.com/revezone/revezone)
+![squawker](https://images-1252557999.file.myqcloud.com/uPic/mL6QyN.png) 
 
-一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具：
+### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
 
-![revezone](https://images-1252557999.file.myqcloud.com/uPic/revezone.jpg) 
+自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
+
+![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
 
 ## 👀 资料 
 
-### [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+### [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)
 
-微软开源的一份全面的数据科学课程，20个课时，历时10周：
+`DotNetGuide` 技术社区是一个面向 `.NET` 开发者的开源技术社区，旨在为开发者们提供全面的 `C#/.NET/.NET Core` 相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台，可以在线[阅读](https://www.yuque.com/ysgstudyhard/da6e0c)：
 
-![Data-Science-For-Beginners](https://images-1252557999.file.myqcloud.com/uPic/JnGevA.jpg) 
+![DotNetGuide](https://images-1252557999.file.myqcloud.com/uPic/DotNetGuide.jpg) 
 
-### [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
+### [Ahrefs Blog SEO 文章列表](https://xuxuyu.notion.site/1468d1c9ea65473b934917d8ab25979b?v=dcaec075d4b34a8e8af5be0bc9a259a0)
 
-本仓库是手册《简单粗暴LaTeX》的开源仓库。本书涵盖了LaTeX的基本使用场景，以简明的例子来展现各命令的用法：
+对 `SEO` 有兴趣可以看看：
 
-![Note-by-LaTeX](https://images-1252557999.file.myqcloud.com/uPic/Note-by-LaTeX.jpg)
+![Ahrefs](https://images-1252557999.file.myqcloud.com/uPic/Ahrefs.jpg) 
 
-在开源仓库可直接下载阅读。 
+### [kingkongshot/prompts](https://github.com/kingkongshot/prompts)
 
-### [easy-rl](https://github.com/datawhalechina/easy-rl)
+一个精心组织的引导词集合，帮助提升AI协作效率和质量。
 
-强化学习中文教程：
+>X 上  @Datou 评价：
+>这个暴躁linus提示词实测有效。之前大模型vibe  coding出来的代码有显存泄露的问题，让它修复它只会补丁摞补丁，又复杂又不能彻底解决问题。用上linus提示词之后大模型一下子就生猛了，重构核心函数之后问题彻底解决。而且它还很持久，20万token之后依然能保持有效输出。
 
-![easy_rl](https://images-1252557999.file.myqcloud.com/uPic/easy_rl.jpg) 
+![prompts](https://images-1252557999.file.myqcloud.com/uPic/0x6gdT.png) 
 
 ## 🕸 网站 
 
-### [oss.gallery](https://oss.gallery/)
+### [hotkeycheatsheet](https://hotkeycheatsheet.com/zh)
 
-`OSS Gallery` 提供了一个展示和探索各种领域最佳开源项目的窗口。用户可以通过这个平台，获取到开源社区中值得关注的项目，这些项目涵盖了从软件开发、数据科学到设计等多个领域。平台的目的是为开源项目提供更多的曝光机会，同时也为开发者和用户提供一个学习和交流的场所。
+常用软件的快捷键备忘录：
 
-![oss_gallery](https://images-1252557999.file.myqcloud.com/uPic/oss_gallery.jpg) 
+![hotkeycheatsheet](https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg) 
 
-### [roadmap.sh](https://roadmap.sh/)
+### [selfh](https://selfh.st/)
 
-这是一个开源免费的项目，主要是提供了各种技术栈的学习路线：
+网站提供了可自建项目的动态，每周更新：
 
-![roadmap](https://images-1252557999.file.myqcloud.com/uPic/roadmap.jpg) 
+![selfh](https://images-1252557999.file.myqcloud.com/uPic/jVlzyp.png) 
 
-### [Connected Papers](https://www.connectedpapers.com/)
+### [visalist](https://visalist.io)
 
-`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
+网站交互样式都还不错，主要提供旅游签证、过境签证、数字游民签证等信息：
 
-![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
-是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
+![ybt76d](https://images-1252557999.file.myqcloud.com/uPic/ybt76d.png) 
 
 ## ✍️ 说明
 
