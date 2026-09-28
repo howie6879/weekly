@@ -5,93 +5,102 @@
 
 ## 🎯 项目 
 
-### [rybbit](https://github.com/rybbit-io/rybbit)
+### [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)
 
-`Rybbit` 是一个开源、隐私友好的网站分析工具，旨在提供比 `Google Analytics` 更直观的用户体验：
+基于微软 `New Bing` 简单定制，拥有一致的 `UI` 体验，支持 `ChatGPT` 提示词，国内可用，基本兼容微软 `Bing AI` 所有功能，无需登录即可畅聊：
 
-![rybbit](https://images-1252557999.file.myqcloud.com/uPic/fZwu4p.png) 
+![go-proxy-bingai](https://images-1252557999.file.myqcloud.com/uPic/go-proxy-bingai.png) 
 
-### [wallabag](https://github.com/wallabag/wallabag)
+### [DeepLX](https://github.com/OwO-Network/DeepLX)
 
-一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
+`DeepL` 免费翻译 `API` ，无需 `Token`：
 
-- 浏览器插件收集网页信息
-- 安卓/IOS/网页端阅读以及管理
+![deeplx](https://images-1252557999.file.myqcloud.com/uPic/deeplx.jpg)
 
-![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
+为了防止触发 429，可使用 [DeepLX-Serverless](https://github.com/guobao2333/DeepLX-Serverless) 项目，其利用了云函数的请求 IP 不固定的特性，极大程度上避免了 429 请求太频繁报错。 
 
-### [BroadcastChannel](https://github.com/ccbikai/BroadcastChannel)
+### [heyform](https://github.com/heyform/heyform)
 
-将你的 `Telegram Channel` 转为微博客：
+`HeyForm` 是一个开源的表单构建器，允许任何人为调查、问卷、测验和投票创建有吸引力的对话表单并且不需要编程技巧：
 
-![BroadcastChannel](https://images-1252557999.file.myqcloud.com/uPic/Aj9mwD.png) 
+![heyform](https://images-1252557999.file.myqcloud.com/uPic/heyform.png) 
 
 ## 🤖 软件 
 
-### [WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
+### [avnc](https://github.com/gujjwal00/avnc)
 
-超方便的微信视频号下载器：
+针对 `Android` 的开源 `VNC` 客户端：
 
-- 支持实时捕获视频号的视频地址
-- 捕获后，可进行预览和下载
-- 支持 Win/Mac
+![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
 
-![WeChatVideoDownloader](https://images-1252557999.file.myqcloud.com/uPic/WeChatVideoDownloader.png) 
+### [Rayon](https://github.com/Lakr233/Rayon)
 
-### [squawker](https://github.com/j-fbriere/squawker)
+一个`macOS`的上的`SSH`客户端：
 
-一个开源的隐私导向的 `Twitter/X` 客户端：
+![rayon](https://images-1252557999.file.myqcloud.com/uPic/rayon.png)
 
-![squawker](https://images-1252557999.file.myqcloud.com/uPic/mL6QyN.png) 
+软件特性：
 
-### [CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
+- 免费&开源
+- 支持 libssh2 的主机连接
+- Linux proc 文件系统状态信息
+- 使用密码、密钥等进行身份验证...
+- xterm 终端支持
+- 批处理执行代码片段 
 
-自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间：
+### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
-![CleanMyWechat](https://images-1252557999.file.myqcloud.com/uPic/CleanMyWechat.jpeg) 
+用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
+
+![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
 
 ## 👀 资料 
 
-### [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)
+### [MDN Web Docs](https://github.com/mdn/translated-content)
 
-`DotNetGuide` 技术社区是一个面向 `.NET` 开发者的开源技术社区，旨在为开发者们提供全面的 `C#/.NET/.NET Core` 相关学习资料、技术分享和咨询、项目推荐、招聘资讯和解决问题的平台，可以在线[阅读](https://www.yuque.com/ysgstudyhard/da6e0c)：
+`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
 
-![DotNetGuide](https://images-1252557999.file.myqcloud.com/uPic/DotNetGuide.jpg) 
+![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
 
-### [Ahrefs Blog SEO 文章列表](https://xuxuyu.notion.site/1468d1c9ea65473b934917d8ab25979b?v=dcaec075d4b34a8e8af5be0bc9a259a0)
+### [wangshusen/SearchEngine](https://github.com/wangshusen/SearchEngine)
 
-对 `SEO` 有兴趣可以看看：
+开源的搜索引擎原理书籍（不方便下载的直接私聊我发 PDF），包含：
 
-![Ahrefs](https://images-1252557999.file.myqcloud.com/uPic/Ahrefs.jpg) 
+- 搜索引擎基础
+- 相关性
+- 其他决定用户满意度的因子
+- 查询词处理
+- 召回
+- 排序
+- 查询词推荐
 
-### [kingkongshot/prompts](https://github.com/kingkongshot/prompts)
+![SearchEngine](https://images-1252557999.file.myqcloud.com/uPic/SearchEngine.jpg) 
 
-一个精心组织的引导词集合，帮助提升AI协作效率和质量。
+### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
 
->X 上  @Datou 评价：
->这个暴躁linus提示词实测有效。之前大模型vibe  coding出来的代码有显存泄露的问题，让它修复它只会补丁摞补丁，又复杂又不能彻底解决问题。用上linus提示词之后大模型一下子就生猛了，重构核心函数之后问题彻底解决。而且它还很持久，20万token之后依然能保持有效输出。
+一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
 
-![prompts](https://images-1252557999.file.myqcloud.com/uPic/0x6gdT.png) 
+![NhkQDk](https://images-1252557999.file.myqcloud.com/uPic/NhkQDk.jpg) 
 
 ## 🕸 网站 
 
-### [hotkeycheatsheet](https://hotkeycheatsheet.com/zh)
+### [historyline.online](https://github.com/liujuntao123/chines-history-video)
 
-常用软件的快捷键备忘录：
+中国历朝代历史视频讲解，汇聚了B站上综合数据（点赞，播放，投币，收藏）最高的一个/几个视频：
 
-![hotkeycheatsheet](https://images-1252557999.file.myqcloud.com/uPic/hotkeycheatsheet.jpg) 
+![historyline](https://images-1252557999.file.myqcloud.com/uPic/historyline.jpg) 
 
-### [selfh](https://selfh.st/)
+### [pixabay](https://pixabay.com/)
 
-网站提供了可自建项目的动态，每周更新：
+`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
 
-![selfh](https://images-1252557999.file.myqcloud.com/uPic/jVlzyp.png) 
+![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
 
-### [visalist](https://visalist.io)
+### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
 
-网站交互样式都还不错，主要提供旅游签证、过境签证、数字游民签证等信息：
+老照片修复工具，同时还提供上色和去背景功能：
 
-![ybt76d](https://images-1252557999.file.myqcloud.com/uPic/ybt76d.png) 
+![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
 
 ## ✍️ 说明
 
