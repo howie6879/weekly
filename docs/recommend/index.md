@@ -5,102 +5,93 @@
 
 ## 🎯 项目 
 
-### [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)
+### [dashy](https://github.com/Lissy93/dashy)
 
-基于微软 `New Bing` 简单定制，拥有一致的 `UI` 体验，支持 `ChatGPT` 提示词，国内可用，基本兼容微软 `Bing AI` 所有功能，无需登录即可畅聊：
+可自我托管的个人自定义导航页：括状态检查，小部件，主题，图标包，UI编辑器等等：
 
-![go-proxy-bingai](https://images-1252557999.file.myqcloud.com/uPic/go-proxy-bingai.png) 
+![dashy](https://images-1252557999.file.myqcloud.com/uPic/dashy.jpg) 
 
-### [DeepLX](https://github.com/OwO-Network/DeepLX)
+### [btop](https://github.com/aristocratos/btop)
 
-`DeepL` 免费翻译 `API` ，无需 `Token`：
+一款界面酷炫的资源管理器，不过我用htop就够够的了。
 
-![deeplx](https://images-1252557999.file.myqcloud.com/uPic/deeplx.jpg)
+![btop](https://images-1252557999.file.myqcloud.com/uPic/3eoG1g.jpg) 
 
-为了防止触发 429，可使用 [DeepLX-Serverless](https://github.com/guobao2333/DeepLX-Serverless) 项目，其利用了云函数的请求 IP 不固定的特性，极大程度上避免了 429 请求太频繁报错。 
+### [LocalAI](https://github.com/go-skynet/LocalAI)
 
-### [heyform](https://github.com/heyform/heyform)
+🤖 免费、开源的 `OpenAI` 替代品。自托管、社区驱动和本地优先。可在消费级硬件上运行，作为 `OpenAI` 的即插即用替代方案。无需 `GPU`。支持运行 `ggml、gguf、GPTQ、onnx` 和 `TF` 兼容模型：`llama、llama2、rwkv、whisper、vicuna、koala、cerebras、falcon、dolly、starcoder` 等等：
 
-`HeyForm` 是一个开源的表单构建器，允许任何人为调查、问卷、测验和投票创建有吸引力的对话表单并且不需要编程技巧：
-
-![heyform](https://images-1252557999.file.myqcloud.com/uPic/heyform.png) 
+![localai](https://images-1252557999.file.myqcloud.com/uPic/localai.png) 
 
 ## 🤖 软件 
 
-### [avnc](https://github.com/gujjwal00/avnc)
+### [Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT)
 
-针对 `Android` 的开源 `VNC` 客户端：
+一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频:
 
-![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
+![Chenyme-AAVT](https://images-1252557999.file.myqcloud.com/uPic/Chenyme-AAVT.jpg) 
 
-### [Rayon](https://github.com/Lakr233/Rayon)
+### [gushi_namer](https://github.com/holynova/gushi_namer)
 
-一个`macOS`的上的`SSH`客户端：
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
 
-![rayon](https://images-1252557999.file.myqcloud.com/uPic/rayon.png)
+![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
 
-软件特性：
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
-- 免费&开源
-- 支持 libssh2 的主机连接
-- Linux proc 文件系统状态信息
-- 使用密码、密钥等进行身份验证...
-- xterm 终端支持
-- 批处理执行代码片段 
+### [chatd.ai](https://www.chatd.ai/)
 
-### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
+您自己的私人本地AI，可以阅读计算机上的文件然后与您的文件进行聊天，该软件目标如下：
 
-用于在 macOS 10.15及更高版本上为 `macOS` 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具:
+- 一键式下载与启动。
+- 无需额外依赖。
+- 应用文件体积最小化。
+- 设计简单的大语言模型版本控制与分发系统。
+- 兼容所有主流操作系统。
+- 利用本地运行的优势，如访问本地文件系统。
+- 用户无需调整任何设置，大语言模型在他们的系统上即插即用。
 
-![SourceCodeSyntaxHighlight](https://images-1252557999.file.myqcloud.com/uPic/SourceCodeSyntaxHighlight.jpg) 
+详情见介绍文章：[packaging-language-models-into-desktop-apps](https://www.bmacd.xyz/packaging-language-models-into-desktop-apps/) 
 
 ## 👀 资料 
 
-### [MDN Web Docs](https://github.com/mdn/translated-content)
+### [GolangStudy](https://github.com/cnymw/GolangStudy)
 
-`MDN Web Docs` 翻译项目，其是一个Web相关的开源协作项目，记录自2005年以来的网络技术，包括CSS、HTML和JavaScript，支持多国语言，比如[中文网站MDN](https://developer.mozilla.org/zh-CN/)。
+《[GolangStudy](https://golangstudy.tech/)》：从简单到难最全总结，go基础，数据结构，算法，设计模式：
 
-![MDN](https://images-1252557999.file.myqcloud.com/uPic/MDN.jpg) 
+![GolangStudy](https://images-1252557999.file.myqcloud.com/uPic/GolangStudy.jpg) 
 
-### [wangshusen/SearchEngine](https://github.com/wangshusen/SearchEngine)
+### [法律文库](https://www.justlaws.cn/constitution/%E5%BA%8F%E8%A8%80.html)
 
-开源的搜索引擎原理书籍（不方便下载的直接私聊我发 PDF），包含：
+以文档的风格展示每一部法律，结构清晰、界面整洁，带来优雅、纯净、极致的阅读体验。
 
-- 搜索引擎基础
-- 相关性
-- 其他决定用户满意度的因子
-- 查询词处理
-- 召回
-- 排序
-- 查询词推荐
+![justlaws](https://images-1252557999.file.myqcloud.com/uPic/justlaws.jpg) 
 
-![SearchEngine](https://images-1252557999.file.myqcloud.com/uPic/SearchEngine.jpg) 
+### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
 
-### [es6-tutorial](https://github.com/wangdoc/es6-tutorial)
+该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
 
-一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性，在线阅读地址点[这里](https://wangdoc.com/es6/)。
-
-![NhkQDk](https://images-1252557999.file.myqcloud.com/uPic/NhkQDk.jpg) 
+![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
 
 ## 🕸 网站 
 
-### [historyline.online](https://github.com/liujuntao123/chines-history-video)
+### [aspoem](https://aspoem.com/)
 
-中国历朝代历史视频讲解，汇聚了B站上综合数据（点赞，播放，投币，收藏）最高的一个/几个视频：
+现代化中国诗词学习网站 - 更加注重 UI、阅读体验：
 
-![historyline](https://images-1252557999.file.myqcloud.com/uPic/historyline.jpg) 
+![aspoem](https://images-1252557999.file.myqcloud.com/uPic/aspoem.png) 
 
-### [pixabay](https://pixabay.com/)
+### [红白机游戏盒](https://nes.heheda.top/ "红白机游戏盒")
 
-`Pixabay` 是全球知名的图库网站及充满活力的创意社区，拥有上百万张免费正版高清图片素材，涵盖照片、插画、矢量图、视频等分类，你可以在任何地方使用 `Pixabay` 图库中的素材，无惧版权风险：
+在线畅玩经典小游戏：
 
-![pixabay](https://images-1252557999.file.myqcloud.com/uPic/pixabay.jpg) 
+![heheda](https://images-1252557999.file.myqcloud.com/uPic/heheda.jpg) 
 
-### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
+### [daily-arXiv-ai-enhanced](https://dw-dengwei.github.io/daily-arXiv-ai-enhanced/)
 
-老照片修复工具，同时还提供上色和去背景功能：
+每天自动从 `arXiv` 抓取最新论文，并利用 `AI` 进行总结，同时通过 `GitHub Pages` 展示这些论文：
 
-![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
+![daily-arXiv-ai-enhanced](https://images-1252557999.file.myqcloud.com/uPic/0ICzFV.png) 
 
 ## ✍️ 说明
 
