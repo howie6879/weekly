@@ -5,97 +5,106 @@
 
 ## 🎯 项目 
 
-### [album-ai](https://github.com/gcui-art/album-ai)
+### [zealot](https://github.com/tryzealot/zealot)
 
-挺有想法的项目，基于 `gpt-4o-mini` 作为视觉模型，自动识别出相册中图像文件的元信息，然后借助 `RAG` 技术，实现了与相册对话的能力：
+开源自部署持续集成一切跟应用有关事情，接入任意 CI 系统一切自动化处理，企业多年实战经验，独立部署提供企业打包分发流程、上传应用全套流程方案 En Taro Adun! 🖖
 
-![album-ai](https://images-1252557999.file.myqcloud.com/uPic/album-ai.jpg) 
+- 🌏 多平台应用托管: macOS、iOS、Android（apk/aab）、Windows、Linux 泛平台
+- 📱 测试设备一网打进: 自动同步 iOS 测试设备信息，允许一键注册新设备到苹果开发者
+- 🧑‍💻 丰富开发者套件: 提供 REST API、iOS、Android SDK 以及 fastlane 自动化构建插件
+- 💥 剖析应用内部的秘密: 解读 iOS、Android 应用或 iOS 描述文件的元信息
+- 🚨 内置多种事件通知: 数据可自定义 Income WebHook 到任意通知服务
+- 🗄 多渠道分类管理: 自由划分不同场景不同产品形态的应用渠道管理
+- 🎳 多架构部署: amd86/arm64/armv7 及各种部署方案应有尽有
+- 🔑 第三方登录: 飞书、Gitlab、Google、LDAP 和 OIDC 一键授权
+- 🌑 黑暗模式: 黑夜白昼自由切换
 
-### [metabase](https://github.com/metabase/metabase)
+![zealot](https://images-1252557999.file.myqcloud.com/uPic/zealot.png) 
 
-为公司提供的快速BI数据可视化工具：
+### [ollama](https://github.com/jmorganca/ollama)
 
-![metabase](https://images-1252557999.file.myqcloud.com/uPic/metabase.png)
+你可以下载 `Ollama` 在本地运行 `Llama 2` 大模型，它将模型的权重、配置、提示等一起打包：
 
-也可以参考之前推荐的数据可视化开源项目：[DataEase](https://weekly.howie6879.com/2021/08-16~08-20.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC001%E6%9C%9F%EF%BC%89.html?h=dataea#dataease) 
+![ollama](https://images-1252557999.file.myqcloud.com/uPic/ollama.jpg) 
 
-### [MaxKB](https://github.com/1Panel-dev/MaxKB)
+### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
 
-💬 基于 `LLM` 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，`1Panel` 官方出品：
+短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
 
-开箱即用：支持直接上传文档、自动爬取在线文档，支持文本自动拆分、向量化，智能问答交互体验好；
-无缝嵌入：支持零编码快速嵌入到第三方业务系统；
-多模型支持：支持对接主流的大模型，包括本地私有大模型（如 Llama 2）、Azure OpenAI 和百度千帆大模型等。
-
-![MaxKB](https://images-1252557999.file.myqcloud.com/uPic/MaxKB.jpg) 
+![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
 
 ## 🤖 软件 
 
-### [wiliwili](https://github.com/xfangfang/wiliwili)
+### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 
-专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和 `Nintendo Switch` 上：
+跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
 
-![wiliwili](https://images-1252557999.file.myqcloud.com/uPic/wiliwili.jpeg) 
+- 🍕 全平台支持. Windows, Mac, Linux
+- 🍥 支持 IPTV, 卫视直播
+- 🍔 视频源支持自定义, 支持导入, 导出
+- 🍟 支持海报模式和列表模式浏览资源
+- 🌭 播放历史, 自动跳转历史进度
+- 🍿 收藏夹支持导入,导出, 支持同步追剧
+- 🥙 支持精简模式, 摸鱼划水
+- 🥪 一键搜索所有资源, 支持历史搜索记录
+- 🌮 导出资源下载链接
+- 🍣 支持第三方播放器播放
+- 🍤 显示豆瓣评分
 
-### [Macast](https://github.com/xfangfang/Macast)
+![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
 
-Macast是一个跨平台的 菜单栏\状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。
+### [gitbutler](https://github.com/gitbutlerapp/gitbutler)
 
-![Macast](https://images-1252557999.file.myqcloud.com/uPic/CXYyQX.jpg) 
+Git 分支管理工具，从头开始构建，用于现代工作流：
 
-### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
+![gitbutler](https://images-1252557999.file.myqcloud.com/uPic/gitbutler.jpg) 
 
-`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
+### [Cider](https://github.com/ciderapp/Cider)
 
-![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
+一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
+
+![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
 
 ## 👀 资料 
 
-### [building-llm-applications-from-scratch](https://github.com/hamzafarooq/building-llm-applications-from-scratch)
+### [A Highly Agentic Coding Assistant](https://www.bilibili.com/video/BV1k1bBzTEF5/)
 
-该课程由 `Hamzafarooq` 大神提供，是一个关于如何构建基于大型语言模型（LLM）的应用程序的开源课程。该课程包括了29个详细的教程，涵盖了从M架构、搜索和检索技术，以及如何构建和部署LLM应用程。此外，还包括了6个现实世界的项目案例，以及关于如何进行有效的代码编写和模型部署的互动式直播会话。 
+吴恩达的  Claude Code 视频教程中文版，课程核心在于全面教授如何使用 Claude Code 进行高效的软件开发工作，学完后您将掌握：
 
-### [Large Language Models Practical Course](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce)
+- 基础技能掌握：深入学习 Claude Code 的核心功能，包括智能代码分析、自动化测试生成、代码重构优化以及高效调试技巧。
+- 扩展能力建设：学会集成 MCP 服务器来增强开发能力，重点掌握 Playwright 自动化测试和 Figma 设计协作工具的使用方法。 
 
-开源([Large Language Models Practical Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course))的关于大型语言模型的实践课程，通过使用 `OpenAI` 和 `Hugging Face` 库的模型进行实际操作来提供实践经验，课程主要包括：
+### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
 
-- Techniques and Libraries
-- Projects
-- Enterprise Solutions
+这个项目收集了黑五打折的App和课程：
 
-![large-language-models-practical-course](https://images-1252557999.file.myqcloud.com/uPic/large-language-models-practical-course.jpg)
+![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
 
-> 附带一个 Mac 微调大模型的文章：[A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) 
+### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
-### [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
+比较全面的 `k8s` 资源收集项目：
 
-如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么；如果你不知道如何更好地使用 OpenAI 提供的 API；那本教程应该能帮到你。
-
-这是一份教你如何更好地使用 ChatGPT 和其他 AI 产品的免费教程。
-
-其实之前也推荐过，不过那时候作为资料教程他还没有开源，作者真是一个非常有贡献精神的人，我认为这个项目值得再推荐一次：
-
-![Learning-Prompt](https://images-1252557999.file.myqcloud.com/uPic/Learning-Prompt.jpg) 
+![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
 
 ## 🕸 网站 
 
-### [readme.so](https://readme.so/)
+### [musicforprogramming](https://musicforprogramming.net/latest/)
 
-一个辅助生成 `README` 文档的工具，对于搞开源项目的新手有不错的参考价值：
+非常极客的背景音乐网站：
 
-![readme_so](https://images-1252557999.file.myqcloud.com/uPic/readme_so.jpg) 
+![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
 
-### [Python Tutor](https://pythontutor.com/?)
+### [scribblediffusion.com](https://scribblediffusion.com/)
 
-这个网站可以将Python代码执行并可视化展示，目前共支持`Python、Java、C、C++、JavaScript、Ruby `等编程语言，新手教学、教程编写可以引用可视化结果来方便理解：
+随便画一画，生成美观的图片：
 
-![Python Tutor](https://images-1252557999.file.myqcloud.com/uPic/hIdiXA.png) 
+![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
 
-### [ouchn](https://le.ouchn.cn/#/home)
+### [emojispark](https://emojispark.com/)
 
-国家开放大学终身教育平台正式上线，面向社会免费开放。该平台汇聚国家开放大学自建学习资源，338所知名高校课程资源免费开放、10个头部平台的特色课程等共计50万门，包含生活、职场、学历、兴趣等不同领域的课程。致力于满足社会大众多元化、个性化学习需求。
+`Emoji` 搜索网站：
 
-![ouchn](https://images-1252557999.file.myqcloud.com/uPic/ouchn.jpg) 
+![emojispark](https://images-1252557999.file.myqcloud.com/uPic/d8ed41.png) 
 
 ## ✍️ 说明
 
