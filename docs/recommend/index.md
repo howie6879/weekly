@@ -5,106 +5,83 @@
 
 ## 🎯 项目 
 
-### [zealot](https://github.com/tryzealot/zealot)
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-开源自部署持续集成一切跟应用有关事情，接入任意 CI 系统一切自动化处理，企业多年实战经验，独立部署提供企业打包分发流程、上传应用全套流程方案 En Taro Adun! 🖖
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-- 🌏 多平台应用托管: macOS、iOS、Android（apk/aab）、Windows、Linux 泛平台
-- 📱 测试设备一网打进: 自动同步 iOS 测试设备信息，允许一键注册新设备到苹果开发者
-- 🧑‍💻 丰富开发者套件: 提供 REST API、iOS、Android SDK 以及 fastlane 自动化构建插件
-- 💥 剖析应用内部的秘密: 解读 iOS、Android 应用或 iOS 描述文件的元信息
-- 🚨 内置多种事件通知: 数据可自定义 Income WebHook 到任意通知服务
-- 🗄 多渠道分类管理: 自由划分不同场景不同产品形态的应用渠道管理
-- 🎳 多架构部署: amd86/arm64/armv7 及各种部署方案应有尽有
-- 🔑 第三方登录: 飞书、Gitlab、Google、LDAP 和 OIDC 一键授权
-- 🌑 黑暗模式: 黑夜白昼自由切换
+ ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
 
-![zealot](https://images-1252557999.file.myqcloud.com/uPic/zealot.png) 
+### [nexus-terminal](https://github.com/Heavrnl/nexus-terminal)
 
-### [ollama](https://github.com/jmorganca/ollama)
+一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。
 
-你可以下载 `Ollama` 在本地运行 `Llama 2` 大模型，它将模型的权重、配置、提示等一起打包：
+![nexus-terminal](https://images-1252557999.file.myqcloud.com/uPic/d56IVQ.png) 
 
-![ollama](https://images-1252557999.file.myqcloud.com/uPic/ollama.jpg) 
+### [gemini-cli](https://github.com/google-gemini/gemini-cli)
 
-### [SMSBoom](https://github.com/WhaleFell/SMSBoom)
-
-短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
-
-![SMSBoom](https://images-1252557999.file.myqcloud.com/uPic/SMSBoom.jpg) 
+`Gemini CLI`  是谷歌开源的 `AI` 编程工具，目前来看可以说是免费的：每分钟 60 次请求，每天 1000 次请求：
+ 
+![gemini-cli](https://images-1252557999.file.myqcloud.com/uPic/Zs1LrM.png) 
 
 ## 🤖 软件 
 
-### [ZY-Player](https://github.com/Hunlongyu/ZY-Player)
+### NewPipe
 
-跨平台桌面端视频资源播放器，简洁无广告，免费高颜值：
+`NewPipe` 是一款 Android 下的第三方 `YouTube` 客户端，支持画中画、后台播放、变速播放、可查看留言、可导入订阅频道、可使用 `Kodi` 播放，是一款功能非常完善的油管客户端：
 
-- 🍕 全平台支持. Windows, Mac, Linux
-- 🍥 支持 IPTV, 卫视直播
-- 🍔 视频源支持自定义, 支持导入, 导出
-- 🍟 支持海报模式和列表模式浏览资源
-- 🌭 播放历史, 自动跳转历史进度
-- 🍿 收藏夹支持导入,导出, 支持同步追剧
-- 🥙 支持精简模式, 摸鱼划水
-- 🥪 一键搜索所有资源, 支持历史搜索记录
-- 🌮 导出资源下载链接
-- 🍣 支持第三方播放器播放
-- 🍤 显示豆瓣评分
+![NewPipe](https://images-1252557999.file.myqcloud.com/uPic/NewPipe.jpg) 
 
-![ZY-Player](https://images-1252557999.file.myqcloud.com/uPic/ZY-Player.png) 
+### [VutronMusic](https://github.com/stark81/VutronMusic)
 
-### [gitbutler](https://github.com/gitbutlerapp/gitbutler)
+高颜值的跨平台第三方网易云播放器；支持流媒体音乐，如navidrome、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome桌面状态栏歌词显示；支持降调降速等。
 
-Git 分支管理工具，从头开始构建，用于现代工作流：
+![VutronMusic](https://images-1252557999.file.myqcloud.com/uPic/mLYjZO.png) 
 
-![gitbutler](https://images-1252557999.file.myqcloud.com/uPic/gitbutler.jpg) 
+### [Upscayl](https://github.com/upscayl/upscayl)
 
-### [Cider](https://github.com/ciderapp/Cider)
+开源免费的跨平台无损图片放大工具：
 
-一款开源跨平台的第三方 `Apple Music` 客户端。基于 `Electron` 和 `Vue.js`：
-
-![cider](https://images-1252557999.file.myqcloud.com/uPic/cider.jpg) 
+![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
 
 ## 👀 资料 
 
-### [A Highly Agentic Coding Assistant](https://www.bilibili.com/video/BV1k1bBzTEF5/)
+### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
 
-吴恩达的  Claude Code 视频教程中文版，课程核心在于全面教授如何使用 Claude Code 进行高效的软件开发工作，学完后您将掌握：
+《Software Engineering at Google》的中文翻译版本：
 
-- 基础技能掌握：深入学习 Claude Code 的核心功能，包括智能代码分析、自动化测试生成、代码重构优化以及高效调试技巧。
-- 扩展能力建设：学会集成 MCP 服务器来增强开发能力，重点掌握 Playwright 自动化测试和 Figma 设计协作工具的使用方法。 
+![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
 
-### [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
+### [just-react](https://github.com/BetaSu/just-react)
 
-这个项目收集了黑五打折的App和课程：
+「React技术揭秘」 一本自顶向下的React源码分析书 
 
-![Awesome-Black-Friday-Cyber-Monday](https://images-1252557999.file.myqcloud.com/uPic/Awesome-Black-Friday-Cyber-Monday.jpg) 
+### [学习CSS布局](https://zh.learnlayout.com/)
 
-### [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+本站教授的是现在广泛使用于网站布局领域的CSS基础：
 
-比较全面的 `k8s` 资源收集项目：
-
-![awesome-kubernetes](https://images-1252557999.file.myqcloud.com/uPic/awesome-kubernetes.jpg) 
+![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
 
 ## 🕸 网站 
 
-### [musicforprogramming](https://musicforprogramming.net/latest/)
+### [unDraw](https://undraw.co/illustrations)
 
-非常极客的背景音乐网站：
+你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
 
-![musicforprogramming](https://images-1252557999.file.myqcloud.com/uPic/musicforprogramming.jpg) 
+如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
 
-### [scribblediffusion.com](https://scribblediffusion.com/)
+![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
 
-随便画一画，生成美观的图片：
+### [similarsites](https://www.similarsites.com/)
 
-![scribblediffusion](https://images-1252557999.file.myqcloud.com/uPic/scribblediffusion.jpg) 
+输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
 
-### [emojispark](https://emojispark.com/)
+![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
 
-`Emoji` 搜索网站：
+### [iconoir](https://iconoir.com/)
 
-![emojispark](https://images-1252557999.file.myqcloud.com/uPic/d8ed41.png) 
+开源的SVG图标搜索引擎：
+
+![iconoir](https://images-1252557999.file.myqcloud.com/uPic/iconoir.jpg) 
 
 ## ✍️ 说明
 
