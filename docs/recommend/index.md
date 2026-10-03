@@ -5,83 +5,104 @@
 
 ## 🎯 项目 
 
-### [mm-wiki](https://github.com/phachon/mm-wiki)
+### [akile_monitor](https://github.com/akile-network/akile_monitor)
 
- 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
+一个开源的监控工具项目，提供服务器状态监控功能，并且支持前后端一键部署：
 
- ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
+![akile_monitor](https://images-1252557999.file.myqcloud.com/uPic/0D0D4c.png) 
 
-### [nexus-terminal](https://github.com/Heavrnl/nexus-terminal)
+### [mongo-express](https://github.com/mongo-express/mongo-express)
 
-一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。
+基于 `Web` 的 `MongoDB` 管理界面，使用 `Node.js` 和 `Express` 编写：
 
-![nexus-terminal](https://images-1252557999.file.myqcloud.com/uPic/d56IVQ.png) 
+![mongo-express](https://images-1252557999.file.myqcloud.com/uPic/mongo-express.png)
+同类型基于 `Web` 的 `Mongo GUI` 还推荐：
 
-### [gemini-cli](https://github.com/google-gemini/gemini-cli)
+- [mongo-gui](https://github.com/arunbandari/mongo-gui)
+- [Mongoku](https://github.com/huggingface/Mongoku)
+- [mongood](https://github.com/renzholy/mongood) 
 
-`Gemini CLI`  是谷歌开源的 `AI` 编程工具，目前来看可以说是免费的：每分钟 60 次请求，每天 1000 次请求：
- 
-![gemini-cli](https://images-1252557999.file.myqcloud.com/uPic/Zs1LrM.png) 
+### [MyIP](https://github.com/jason5ng32/MyIP)
+
+这是一个完全开源的 IP 信息查看器，可以查询本机 IP、查询任意 IP、查询国内外网站可用性等，70%代码由 `GPT` 实现。它可以查看IP、IP 信息（代理前后）、检查 DNS 泄露、检查 WebRTC 连接、测试网站可用性。
+
+![myip](https://images-1252557999.file.myqcloud.com/uPic/myip.jpg) 
 
 ## 🤖 软件 
 
-### NewPipe
+### [ambie](https://github.com/jenius-apps/ambie)
 
-`NewPipe` 是一款 Android 下的第三方 `YouTube` 客户端，支持画中画、后台播放、变速播放、可查看留言、可导入订阅频道、可使用 `Kodi` 播放，是一款功能非常完善的油管客户端：
+针对 `Windows` 平台的白噪音应用，挺多自然界声音，可以帮助你提升生产力：
 
-![NewPipe](https://images-1252557999.file.myqcloud.com/uPic/NewPipe.jpg) 
+![ambie](https://images-1252557999.file.myqcloud.com/uPic/ambie.jpg) 
 
-### [VutronMusic](https://github.com/stark81/VutronMusic)
+### [bilibili-youtube-danmaku](https://github.com/ahaduoduoduo/bilibili-youtube-danmaku)
 
-高颜值的跨平台第三方网易云播放器；支持流媒体音乐，如navidrome、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome桌面状态栏歌词显示；支持降调降速等。
+🍻关注的 UP 在 Youtube 和 B 站都有投稿，想在 Youtube 看更好的画质又想看弹幕🤔？
 
-![VutronMusic](https://images-1252557999.file.myqcloud.com/uPic/mLYjZO.png) 
+让 YouTube 视频也能拥有 B 站的弹幕氛围！ 关联 B 站 UP 主或手动输入视频链接，同步弹幕到 YouTube 播放页面～
 
-### [Upscayl](https://github.com/upscayl/upscayl)
+![bilibili-youtube-danmaku](https://images-1252557999.file.myqcloud.com/uPic/Z3a6RM.png) 
 
-开源免费的跨平台无损图片放大工具：
+### [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
 
-![upscayl](https://images-1252557999.file.myqcloud.com/uPic/upscayl.png) 
+使用 Android 原生开发的电视直播软件：
+
+![mytv-android](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/mytv-android.jpg)
+
+老胡试了不是很稳定，大家可根据地域使用测试。 
 
 ## 👀 资料 
 
-### [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+### [v8-internals](https://github.com/plctlab/v8-internals)
 
-《Software Engineering at Google》的中文翻译版本：
+面向编译器开发人员的V8内部实现文档。 
 
-![Software-Engineering-at-Google](https://images-1252557999.file.myqcloud.com/uPic/Software-Engineering-at-Google.jpg) 
+### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
 
-### [just-react](https://github.com/BetaSu/just-react)
+清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
 
-「React技术揭秘」 一本自顶向下的React源码分析书 
+更新记录如下：
 
-### [学习CSS布局](https://zh.learnlayout.com/)
+- 2020-11-03：环境搭建完成，开始着手编写文档。
+- 2020-11-13：第一章完成。
+- 2020-11-27：第二章完成。
+- 2020-12-20：前七章代码完成。
+- 2021-01-10：第三章完成。
+- 2021-01-18：加入第零章。
+- 2021-01-30：第四章完成。
+- 2021-02-16：第五章完成。
+- 2021-02-20：第六章完成。
+- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
+- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
 
-本站教授的是现在广泛使用于网站布局领域的CSS基础：
+热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
 
-![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
+### [visualize-ml](https://github.com/visualize-ml)
+
+鸢尾花书：从加减乘除到机器学习，全套7册。
+
+![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
 
 ## 🕸 网站 
 
-### [unDraw](https://undraw.co/illustrations)
+### [libhunt](https://www.libhunt.com/)
 
-你可以在这个网站根据需求搜索目标插图，然后自行配色，最终形成自己的插图。关键点是免费下载、开放版权。
+一个对开源项目进行分类并排名的网站：
 
-如果你写文章或者PPT需要插图，这是个好去处，这篇推送的首图就是用这个网站生成的。
+![libhunt](https://images-1252557999.file.myqcloud.com/uPic/libhunt.jpg) 
 
-![uz5BVL](https://images-1252557999.file.myqcloud.com/uPic/uz5BVL.png) 
+### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
 
-### [similarsites](https://www.similarsites.com/)
+老照片修复工具，同时还提供上色和去背景功能：
 
-输入一个网站获取其他相关度比较高的网站，很有意思，还提供了浏览器插件：
+![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
 
-![similarsites](https://images-1252557999.file.myqcloud.com/uPic/similarsites.jpg) 
+### [fulltime.ai](https://fulltime.ai/spaces/)
 
-### [iconoir](https://iconoir.com/)
+搜索体验 288个 `HuggingFace` 空间 `GPU` 上运行的项目：
 
-开源的SVG图标搜索引擎：
-
-![iconoir](https://images-1252557999.file.myqcloud.com/uPic/iconoir.jpg) 
+![fulltime_ai](https://images-1252557999.file.myqcloud.com/uPic/fulltime_ai.jpg) 
 
 ## ✍️ 说明
 
