@@ -5,104 +5,105 @@
 
 ## 🎯 项目 
 
-### [akile_monitor](https://github.com/akile-network/akile_monitor)
+### [picx](https://github.com/XPoet/picx "picx")
 
-一个开源的监控工具项目，提供服务器状态监控功能，并且支持前后端一键部署：
+`PicX` 是一款基于 `GitHub API` 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务：
 
-![akile_monitor](https://images-1252557999.file.myqcloud.com/uPic/0D0D4c.png) 
+![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg)
 
-### [mongo-express](https://github.com/mongo-express/mongo-express)
+类似项目：
 
-基于 `Web` 的 `MongoDB` 管理界面，使用 `Node.js` 和 `Express` 编写：
+- [telegraph](https://github.com/0-RTT/telegraph "telegraph")
+- [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image "Telegraph-Image"):免费图片托管解决方案，`Flickr/imgur` 替代品
+- [rao-pics](https://github.com/meetqy/rao-pics "rao-pics"):利用 `Eagle APP` 快速搭建图片站、
 
-![mongo-express](https://images-1252557999.file.myqcloud.com/uPic/mongo-express.png)
-同类型基于 `Web` 的 `Mongo GUI` 还推荐：
+但是老胡建议不要滥用，这种也不稳定，自己偶尔测试需要可以使用一下，推荐出来也是让朋友们多个选择。我推荐自建图床：
 
-- [mongo-gui](https://github.com/arunbandari/mongo-gui)
-- [Mongoku](https://github.com/huggingface/Mongoku)
-- [mongood](https://github.com/renzholy/mongood) 
+- [lsky-pro](https://github.com/lsky-org/lsky-pro "lsky-pro")：兰空图床
+- [EasyImages2.0](https://github.com/icret/EasyImages2.0 "EasyImages2.0")：简单图床 - 一款功能强大无数据库的图床 2.0 版
+- [PicList](https://github.com/Kuingsmile/PicList "PicList")：图片上传 云存储管理
+- [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed "quickly-picture-bed")：轻快图床：使用 nestjs+vue3.x+ts+vite 开发的在线图床系统，内置功能包括图片上传、图片管理、存储桶管理、相册管理、插件市场、知识库管理、数据统计等功能 
 
-### [MyIP](https://github.com/jason5ng32/MyIP)
+### [clone-voice](https://github.com/jianchang512/clone-voice)
 
-这是一个完全开源的 IP 信息查看器，可以查询本机 IP、查询任意 IP、查询国内外网站可用性等，70%代码由 `GPT` 实现。它可以查看IP、IP 信息（代理前后）、检查 DNS 泄露、检查 WebRTC 连接、测试网站可用性。
+一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频：
 
-![myip](https://images-1252557999.file.myqcloud.com/uPic/myip.jpg) 
+![clone-voice](https://images-1252557999.file.myqcloud.com/uPic/clone-voice.png) 
+
+### [appwrite](https://github.com/appwrite/appwrite)
+
+`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
+
+![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
 
 ## 🤖 软件 
 
-### [ambie](https://github.com/jenius-apps/ambie)
+### [listen1_desktop](https://github.com/listen1/listen1_desktop)
 
-针对 `Windows` 平台的白噪音应用，挺多自然界声音，可以帮助你提升生产力：
+Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单，支持音乐平台：
 
-![ambie](https://images-1252557999.file.myqcloud.com/uPic/ambie.jpg) 
+- 网易云音乐
+- QQ 音乐
+- 酷狗音乐
+- 酷我音乐
+- bilibili
+- 咪咕音乐
+- 千千音乐
 
-### [bilibili-youtube-danmaku](https://github.com/ahaduoduoduo/bilibili-youtube-danmaku)
+![listen1_desktop](https://images-1252557999.file.myqcloud.com/uPic/listen1_desktop.png) 
 
-🍻关注的 UP 在 Youtube 和 B 站都有投稿，想在 Youtube 看更好的画质又想看弹幕🤔？
+### [Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)
 
-让 YouTube 视频也能拥有 B 站的弹幕氛围！ 关联 B 站 UP 主或手动输入视频链接，同步弹幕到 YouTube 播放页面～
+由于在 `QQ` 和微信中发送 `APK` 文件时，文件名会被腾讯添加后缀.1，此 `App` 可以省去重命名步骤，直接安装：
 
-![bilibili-youtube-danmaku](https://images-1252557999.file.myqcloud.com/uPic/Z3a6RM.png) 
+- 获取安装权限（不需要读取存储权限）
+- 在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序 
 
-### [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
+### [legado](https://github.com/gedoor/legado)
 
-使用 Android 原生开发的电视直播软件：
+阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-![mytv-android](https://cdn.jsdelivr.net/gh/howie6879/oss/uPic/mytv-android.jpg)
+简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
 
-老胡试了不是很稳定，大家可根据地域使用测试。 
+![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
 
 ## 👀 资料 
 
-### [v8-internals](https://github.com/plctlab/v8-internals)
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-面向编译器开发人员的V8内部实现文档。 
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-### [rCore-Tutorial-Book 第三版](https://rcore-os.github.io/rCore-Tutorial-Book-v3/index.html)
+![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
 
-清华大学的开源教程，这本教程旨在一步一步展示如何从零开始用 Rust 语言写一个基于 RISC-V 架构的 类 Unix 内核，值得注意的是，本项目不仅支持模拟器环境（如 Qemu/terminus 等），还支持在真实硬件平台 Kendryte K210 上运行。
+### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
 
-更新记录如下：
+作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
 
-- 2020-11-03：环境搭建完成，开始着手编写文档。
-- 2020-11-13：第一章完成。
-- 2020-11-27：第二章完成。
-- 2020-12-20：前七章代码完成。
-- 2021-01-10：第三章完成。
-- 2021-01-18：加入第零章。
-- 2021-01-30：第四章完成。
-- 2021-02-16：第五章完成。
-- 2021-02-20：第六章完成。
-- 2021-03-06：第七章完成。到这里为止第一版初稿就已经完成了。
-- 2021-10-20：第八章代码于前段时间完成。开始更新前面章节文档及完成第八章文档。
+![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
 
-热乎着，有兴趣可以试试。热乎着，有兴趣可以试试，这里一份[读书笔记](https://github.com/hemashushu/practice-toy-os-riscv-rust)可以参考。 
+### [大规模并行处理器编程实战第四版](https://fancyerii.github.io/2024/02/20/pmpp/)
 
-### [visualize-ml](https://github.com/visualize-ml)
-
-鸢尾花书：从加减乘除到机器学习，全套7册。
-
-![visualize-ml](https://images-1252557999.file.myqcloud.com/uPic/visualize-ml.jpg) 
+关于并行计算的重要参考书籍，这是博客翻译的第四版。介绍了学生和专业人员都适合的并行编程与gpu体系结构的基本概念，详细剖析了编写并行程序所需的各种技术，用案例研究说明了并行程序设计的整个开发过程，即从计算思想开始，直到最终实现高效可行的并行程序。 
 
 ## 🕸 网站 
 
-### [libhunt](https://www.libhunt.com/)
+### [maily.to](https://maily.to/)
 
-一个对开源项目进行分类并排名的网站：
+一个[开源邮件编辑器](https://github.com/arikchakma/maily.to)，用于制作美观的电子邮件，还可以创建模板：
 
-![libhunt](https://images-1252557999.file.myqcloud.com/uPic/libhunt.jpg) 
+![maily](https://images-1252557999.file.myqcloud.com/uPic/SwsHwH.png) 
 
-### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
+### [toptimeline](https://toptimeline.net/zh)
 
-老照片修复工具，同时还提供上色和去背景功能：
+探索世界最著名的流行歌手、运动员和历史人物的关键事件与个人里程碑：
 
-![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
+![toptimeline](https://images-1252557999.file.myqcloud.com/uPic/crwphb.png) 
 
-### [fulltime.ai](https://fulltime.ai/spaces/)
+### [caniuse](https://caniuse.com/)
 
-搜索体验 288个 `HuggingFace` 空间 `GPU` 上运行的项目：
+网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
 
-![fulltime_ai](https://images-1252557999.file.myqcloud.com/uPic/fulltime_ai.jpg) 
+![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
 
 ## ✍️ 说明
 
