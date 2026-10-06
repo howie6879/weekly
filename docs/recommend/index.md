@@ -5,105 +5,92 @@
 
 ## 🎯 项目 
 
-### [picx](https://github.com/XPoet/picx "picx")
+### [mm-wiki](https://github.com/phachon/mm-wiki)
 
-`PicX` 是一款基于 `GitHub API` 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务：
+ 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。
 
-![picx](https://images-1252557999.file.myqcloud.com/uPic/picx.jpg)
+ ![mm_wiki](https://images-1252557999.file.myqcloud.com/uPic/mm_wiki.png) 
 
-类似项目：
+### [amis](https://github.com/baidu/amis)
 
-- [telegraph](https://github.com/0-RTT/telegraph "telegraph")
-- [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image "Telegraph-Image"):免费图片托管解决方案，`Flickr/imgur` 替代品
-- [rao-pics](https://github.com/meetqy/rao-pics "rao-pics"):利用 `Eagle APP` 快速搭建图片站、
+前端低代码框架，通过 JSON 配置就能生成各种页面。 
 
-但是老胡建议不要滥用，这种也不稳定，自己偶尔测试需要可以使用一下，推荐出来也是让朋友们多个选择。我推荐自建图床：
+### [dioxus](https://github.com/DioxusLabs/dioxus)
 
-- [lsky-pro](https://github.com/lsky-org/lsky-pro "lsky-pro")：兰空图床
-- [EasyImages2.0](https://github.com/icret/EasyImages2.0 "EasyImages2.0")：简单图床 - 一款功能强大无数据库的图床 2.0 版
-- [PicList](https://github.com/Kuingsmile/PicList "PicList")：图片上传 云存储管理
-- [quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed "quickly-picture-bed")：轻快图床：使用 nestjs+vue3.x+ts+vite 开发的在线图床系统，内置功能包括图片上传、图片管理、存储桶管理、相册管理、插件市场、知识库管理、数据统计等功能 
+一个 `Rust` 全栈应用框架，支持 Web、桌面、移动和更多平台的开发：
 
-### [clone-voice](https://github.com/jianchang512/clone-voice)
-
-一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频：
-
-![clone-voice](https://images-1252557999.file.myqcloud.com/uPic/clone-voice.png) 
-
-### [appwrite](https://github.com/appwrite/appwrite)
-
-`Appwrite` 是一个基于 `Docker` 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。`Appwrite` 通过视觉化界面极简了从零编写 `API` 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。
-
-![appwrite](https://images-1252557999.file.myqcloud.com/uPic/appwrite.png) 
+![dioxus](https://images-1252557999.file.myqcloud.com/uPic/GOLB2g.png) 
 
 ## 🤖 软件 
 
-### [listen1_desktop](https://github.com/listen1/listen1_desktop)
+### [radishes](https://github.com/radishes-music/radishes)
 
-Listen 1 可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单，支持音乐平台：
+跨平台的无版权音乐平台，支持 `windows / macos / linux / web`：
 
-- 网易云音乐
-- QQ 音乐
-- 酷狗音乐
-- 酷我音乐
-- bilibili
-- 咪咕音乐
-- 千千音乐
+![](https://images-1252557999.file.myqcloud.com/uPic/radishes.jpeg) 
 
-![listen1_desktop](https://images-1252557999.file.myqcloud.com/uPic/listen1_desktop.png) 
+### [Easydict](https://github.com/tisfeng/Easydict)
 
-### [Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)
+`Easydict` 是一个简洁易用的词典翻译 `macOS App`，能够轻松优雅地查找单词或翻译文本。`Easydict` 开箱即用，能自动识别输入文本语言，支持输入翻译，划词翻译和 `OCR` 截图翻译，可同时查询多个翻译服务结果，目前支持有道词典，🍎苹果系统翻译，`DeepL`，谷歌，百度和火山翻译。
 
-由于在 `QQ` 和微信中发送 `APK` 文件时，文件名会被腾讯添加后缀.1，此 `App` 可以省去重命名步骤，直接安装：
+![Easydict](https://images-1252557999.file.myqcloud.com/uPic/Easydict.jpg)
 
-- 获取安装权限（不需要读取存储权限）
-- 在QQ或微信里点击文件 → 用其他应用打开 → Apk.1 安装器 → 软件安装程序 
+可以看到这个软件是老胡之前推荐的 [Bob](https://weekly.howie6879.com/2021/12-26~12-31.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC020%E6%9C%9F%EF%BC%89.html?h=bob#upic)，当然现在已经收费（老胡觉得不错已经付费支持），因为这个原因，开源界还出现了以下替代品：
 
-### [legado](https://github.com/gedoor/legado)
+- [pot-desktop](https://weekly.howie6879.com/2023/05-15~05-20.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC091%E6%9C%9F%EF%BC%89.html?h=bob#pot-desktop)：🌈 一个跨平台的划词翻译软件
+- [TTime](https://weekly.howie6879.com/2023/06-12~06-17.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC095%E6%9C%9F%EF%BC%89.html?h=bob#ttime)：🚀 一款简洁高效的输入、截图、划词翻译软件
 
-阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+对于浏览器双语翻译插件，还推荐以下项目：
 
-简单说就是一款开源免费的阅读工具，可以看小说、漫画甚至视频：
+- [kiss-translator](https://github.com/fishjar/kiss-translator)：一个简约的 双语网页翻译扩展 & 油猴脚本
+- [openai-translator](https://github.com/openai-translator/openai-translator)：基于 `ChatGPT API` 的划词翻译浏览器插件和跨平台桌面端应用 
 
-![legado](https://images-1252557999.file.myqcloud.com/uPic/jSEBJ9.png) 
+### [notify-me](https://github.com/jinweijie/notify-me)
+
+开源免费的 `Android` 应用，自动捕获来电和短信，并通过电子邮件或 `Webhook` 转发至 `Bark` 服务器。用户可在其他设备上通过 Bark 应用接收通知，确保及时获取重要信息，解决多设备信息聚合的问题：
+
+![notify-me](https://images-1252557999.file.myqcloud.com/uPic/oSr8cn.png) 
 
 ## 👀 资料 
 
-### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
+### [Web Development History](https://webdevelopmenthistory.com/index/)
 
-这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+`Web` 开发发展史文章系列：
 
-![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
+![wdh](https://images-1252557999.file.myqcloud.com/uPic/wdh.jpg) 
 
-### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
+### [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
-作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
+这个仓库收集了各种日常工作中使用的材料和工具，包括 CLI 工具、GUI 工具、Web 工具、系统服务、网络、容器编排、手册教程、博客资源、黑客测试等内容。适合系统管理员、网络管理员、DevOps、渗透测试者和安全研究人员使用。 
 
-![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
+### [nlp-paper](https://github.com/DengBoCong/nlp-paper)
 
-### [大规模并行处理器编程实战第四版](https://fancyerii.github.io/2024/02/20/pmpp/)
-
-关于并行计算的重要参考书籍，这是博客翻译的第四版。介绍了学生和专业人员都适合的并行编程与gpu体系结构的基本概念，详细剖析了编写并行程序所需的各种技术，用案例研究说明了并行程序设计的整个开发过程，即从计算思想开始，直到最终实现高效可行的并行程序。 
+自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）。 
 
 ## 🕸 网站 
 
-### [maily.to](https://maily.to/)
+### [deepseek-r1-online.com](https://deepseek-r1-online.com/chat/)
 
-一个[开源邮件编辑器](https://github.com/arikchakma/maily.to)，用于制作美观的电子邮件，还可以创建模板：
+免费的满血 `deepseek-r1` 在线版，[老胡 DeepSeek 信息交流群](https://mp.weixin.qq.com/s/dPicExymBomcksvijPNNKg)友情提供共享，放心使用：
 
-![maily](https://images-1252557999.file.myqcloud.com/uPic/SwsHwH.png) 
+![deepseek-r1-online.co](https://images-1252557999.file.myqcloud.com/uPic/xrfA9j.png)
 
-### [toptimeline](https://toptimeline.net/zh)
+老胡也顺便整理了一些教程：
 
-探索世界最著名的流行歌手、运动员和历史人物的关键事件与个人里程碑：
+- [简单教程: 两步获取专属满血 DeepSeek-R1](https://mp.weixin.qq.com/s/dPicExymBomcksvijPNNKg)
+- [DeepSeek-R1 联网功能实现方案攻略](https://www.biji.com/note/1867969552567120872/web) 
 
-![toptimeline](https://images-1252557999.file.myqcloud.com/uPic/crwphb.png) 
+### [relationship](https://passer-by.com/relationship/)
 
-### [caniuse](https://caniuse.com/)
+中国亲戚关系计算器：
 
-网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
+![relationship](https://images-1252557999.file.myqcloud.com/uPic/relationship.jpg) 
 
-![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
+### [fontawesome](https://fontawesome.com/icons/)
+
+比较完善全面的图标网站：
+
+![fontawesome](https://images-1252557999.file.myqcloud.com/uPic/fontawesome.jpg) 
 
 ## ✍️ 说明
 
