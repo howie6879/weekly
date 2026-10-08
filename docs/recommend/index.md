@@ -5,83 +5,106 @@
 
 ## 🎯 项目 
 
-### [FastGPT](https://github.com/labring/FastGPT)
+### [fre123-nav](https://github.com/fre123-com/fre123-nav)
 
-`FastGPT` 是一个基于 `LLM` 大语言模型的知识库问答系统，提供开箱即用的数据处理、模型调用等能力。同时可以通过 `Flow` 可视化进行工作流编排，从而实现复杂的问答场景：
+> [FRE123](https://www.fre123.com/) 免费资源共享平台导航，一键搭建你的导航网站！
 
-![FastGPT](https://images-1252557999.file.myqcloud.com/uPic/FastGPT.jpg) 
+这是老胡上个月做的一个导航网站，不少人想基于这套进行二次开发，所以开源出来，希望能帮到大家：
 
-### [ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home)
+- [fre123-nav](https://github.com/fre123-com/fre123-nav)：导航页面源码
+- [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)：信息流页面源码
+- [Fre123 导航网站搭建教程](https://mp.weixin.qq.com/s/NEqY1Qb4dyJDhdtlYxjmaA)
 
-米家集成是一个由小米官方提供支持的 `Home Assistant` 的集成组件，它可以让您在 `Home Assistant` 中使用小米 `IoT` 智能设备：
+![fre123-nav](https://images-1252557999.file.myqcloud.com/uPic/fre123-nav.jpeg) 
 
-![ha_xiaomi_home](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6271646644919453567-y.jpg) 
+### [go-musicfox](https://github.com/go-musicfox/go-musicfox)
 
-### [yacd](https://github.com/haishanh/yacd)
+`go-musicfox`是用 Go 写的又一款网易云音乐命令行客户端，支持 `UnblockNeteaseMusic`、各种音质级别、`lastfm`、`MPRIS`、`MacOS` 交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）:
 
-一个 `Clash` 仪表盘项目：
+![go-musicfox](https://images-1252557999.file.myqcloud.com/uPic/go-musicfox.png) 
 
-![yacd](https://images-1252557999.file.myqcloud.com/uPic/yacd.png) 
+### [appstore-discounts](https://github.com/eyelly-wu/appstore-discounts)
+
+开源的 App Store 折扣信息助手，基于 GitHub Actions 实现，支持 RSS，Telegram 和钉钉通知：
+
+- 支持任意 国家或地区 的 App Store （理论上🤔）
+- 支持追踪 应用本体 的价格和 App 内购买项目 的价格
+- 支持多种方式订阅折扣信息
+- 开源免费，任何人可参与贡献 
 
 ## 🤖 软件 
 
-### [oneAnime](https://github.com/Predidit/oneAnime)
+### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 
-一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范：
+短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
 
-![oneAnime](https://images-1252557999.file.myqcloud.com/uPic/oneAnime.jpg) 
+![SmsForwarder](https://images-1252557999.file.myqcloud.com/uPic/v6owv0.jpg)
+如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
 
-### [Ice](https://github.com/jordanbaird/Ice)
+### [milky-warp](https://github.com/hugoattal/milky-warp)
 
-`Mac` 桌面顶部菜单图标管理工具，可以控制哪些展示，哪些隐藏，`Bartender` 的开源免费替代产品：
+`Milky Warp` 是一个开源工具，技术栈是 `Tauri、Vite、Vue、Typescript`，核心功能就是按下快捷键时会显示一个放大镜：
 
-![Ice](https://images-1252557999.file.myqcloud.com/uPic/Ice.png) 
+- 按下可配置的快捷键时显示放大镜
+- 支持使用鼠标滚轮进行放大和缩小
+- 跨平台：可在Windows、macOS和Linux上运行
 
-### [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)
+![milky-warp](https://images-1252557999.file.myqcloud.com/uPic/milky-warp.gif) 
 
-基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
+### [TomatoBar](https://github.com/ivoronin/TomatoBar)
 
-![bob-plugin-openai-translator](https://images-1252557999.file.myqcloud.com/uPic/bob-plugin-openai-translator.jpg) 
+你听说过番茄工作法吗？这是一种很好的技巧，可以帮助你在学习或工作期间掌握时间并保持专注。`TomatoBar` 是一款非常整洁的 `macOS` 菜单栏番茄钟：
+
+![TomatoBar](https://images-1252557999.file.myqcloud.com/uPic/TomatoBar.png) 
 
 ## 👀 资料 
 
-### [AI-System](https://github.com/microsoft/AI-System)
+### [one-python-craftsman](https://github.com/piglei/one-python-craftsman)
 
-微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+来自一位 `Pythonista` 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面：
 
-![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
+![one-python-craftsman](https://images-1252557999.file.myqcloud.com/uPic/one-python-craftsman.jpg) 
 
-### [数据密集型应用系统设计](https://github.com/Vonng/ddia)
+### [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
 
-《Designing Data-Intensive Application》DDIA中文翻译，这本书在豆瓣评分高达9.7，其实早有大佬在github进行了翻译，欢迎阅读：
+这个项目的目标是带大家把 Linux 0.11 核心代码与操作系统的设计思想啃下来，每周更新两篇，有兴趣的朋友可以追更下，架构图：
 
-![ddia](https://images-1252557999.file.myqcloud.com/uPic/H2Z04g.png) 
+![linux0.11-talk](https://images-1252557999.file.myqcloud.com/uPic/P4ekdG.jpg) 
 
-### [深入分析LINUX内核源码](http://www.kerneltravel.net/book/)
+### [Linux 内核教学](https://linux-kernel-labs-zh.xyz/)
 
-陈莉君老师二十多年来专注Linux内核研究，业余时间主办的Linux内核之旅网站，为Linux爱好者默默提供着无私的帮助，值得一提的是，把自己2002年撰写的《深入分析Linux内核源代码》一书，因为绝版而全文公布于网络，这为嵌入式开发者和Linux内核爱好者提供了触手可得的资料。
+本文档包含一系列 `Linux` 内核主题的课程和实验，课程侧重于理论和 `Linux` 内核探索。实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：
 
-![kerneltravel](https://images-1252557999.file.myqcloud.com/uPic/kerneltravel.jpg) 
+- 主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引
+- 实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示
+
+![linux-kernel-labs-zh](https://images-1252557999.file.myqcloud.com/uPic/linux-kernel-labs-zh.jpg) 
 
 ## 🕸 网站 
 
-### [upstract](https://upstract.com/)
+### [favicon.io](https://favicon.io/)
 
-比较全面的新闻聚合平台：
+免费的`favicon`生成工具，可以把 PNG、文字、emoji 转成 favicon：
 
-![upstract](https://images-1252557999.file.myqcloud.com/uPic/upstract.jpg) 
+![favicon](https://images-1252557999.file.myqcloud.com/uPic/favicon.jpg) 
 
-### [choosealicense](https://choosealicense.com/)
+### [RuTracker](https://rutracker.org/forum/index.php)
 
-`choosealicense` 帮助您轻松选择和一键复制开源协议：
+俄罗斯最大的盗版网站开放了，可以去上面找资源了：
 
-![choosealicense](https://images-1252557999.file.myqcloud.com/uPic/RW33E0.png) 
+![rutracker](https://images-1252557999.file.myqcloud.com/uPic/rutracker.jpg) 
 
-### [极简番茄](https://t.kuaitu.cc/)
+### [regex101](https://regex101.com/)
 
-极简优雅的番茄时钟软件，适合做屏保：
+`regex101`主要解决的是不同语言开发时怎么快速测试正则表达式的问题，目前网站支持以下语言：
 
-![kuaitu](https://images-1252557999.file.myqcloud.com/uPic/kuaitu.jpg) 
+- PHP
+- Python
+- JS
+- Go
+- Java
+
+![regex101](https://images-1252557999.file.myqcloud.com/uPic/Fz15mf.png) 
 
 ## ✍️ 说明
 
