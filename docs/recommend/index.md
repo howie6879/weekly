@@ -5,99 +5,85 @@
 
 ## 🎯 项目 
 
-### [fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)
+### [LibreTV](https://github.com/LibreSpark/LibreTV)
 
-老胡最近整的开源项目，从[技术周刊精选](https://www.fre123.com/weekly/)到[信息流](https://www.fre123.com/tech)，和前端朋友一起梳理出了个通用的排版并开源出来，欢迎大家使用和提出建议:
+`LibreTV` 是一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。无需注册，即开即用，支持多种设备访问。项目结合了前端技术和后端代理功能，可部署在支持服务端功能的各类网站托管服务上。
 
-![fre123-info-flow-demo](https://images-1252557999.file.myqcloud.com/uPic/fre123-info-flow-demo.jpg) 
+![LibreTV](https://images-1252557999.file.myqcloud.com/uPic/wklU6z.png)
 
-### [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+还有贡献者开发了电视版本：[DTV](https://github.com/laopaoer-wallet/DTV)。 
 
-`ChatGPT` 中文调教指南，各种场景使用指南，学习怎么让它听你的话：
+### [reader-s](https://github.com/hectorqin/reader)
 
-![acpz](https://images-1252557999.file.myqcloud.com/uPic/acpz.jpg) 
+阅读3服务器版，不需要手机，可以体验下在web上追更你的小说：
 
-### [autoMate](https://github.com/yuruotong1/autoMate)
+![reader-s](https://images-1252557999.file.myqcloud.com/uPic/reader-s.jpg) 
 
-🤖 AI驱动的本地自动化工具 | 让电脑自己会干活，`autoMate` 是一款革命性的 `AI+RPA` 自动化工具，基于 `OmniParser` 构建，它能够
+### [easy-gate](https://github.com/r7wx/easy-gate)
 
-- 📊 理解您的需求，自动进行任务规划
-- 🔍 智能理解屏幕内容，模拟人类视觉和操作
-- 🧠 自主决策，根据任务需求进行判断并采取行动
-- 💻 支持本地化部署，保护您的数据安全和隐私 
+`Easy Gate` 是一个使用 `Go` 和 `React` 构建的简单 `Web` 应用程序，它充当您自托管基础设施的主页。服务和注释从 `JSON` 文件中实时解析（无需重新启动应用程序）。可以将服务和注释分配给一个或多个组，以仅向特定用户显示项目（基于他们的 IP 地址）。
+
+![easy-gate](https://images-1252557999.file.myqcloud.com/uPic/easy-gate.png) 
 
 ## 🤖 软件 
 
-### [downkyi](https://github.com/leiurayer/downkyi)
+### [BetterDisplay](https://github.com/waydabber/BetterDisplay)
 
-Windows桌面软件，哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
+专为 `Mac` 平台设计的专业级屏幕自定义调整工具，可通过 DDC 调整内建 / 外接显示器的各项基本参数，并提供虚拟屏、串流、画中画等丰富的高级功能，支持大多数现代显示器：
 
-![downkyi](https://images-1252557999.file.myqcloud.com/uPic/downkyi.png) 
+![BetterDisplay](https://images-1252557999.file.myqcloud.com/uPic/qLLPBM.png) 
 
-### [flameshot](https://github.com/flameshot-org/flameshot)
+### [copybook-generator](https://github.com/jaywcjlove/copybook-generator)
 
-一款强大且简单易用的截图软件，支持多平台（Linux、Windows、macOS）。其主要特点包括：
+「宝宝字帖」是一款功能强大的字帖生成工具，专为满足不同用户的书写练习需求而设计：
 
-- 自定义外观：支持自定义截图工具和颜色。
-- 简易使用：提供图形化界面和命令行操作。
-- 内置编辑：可以在应用内编辑截图。
-- 快捷键支持：支持本地和全局快捷键配置。
-- 截图上传：支持将截图上传到 Imgur。
+![copybook-generator](https://images-1252557999.file.myqcloud.com/uPic/copybook-generator.jpg) 
 
-![flameshot](https://images-1252557999.file.myqcloud.com/uPic/flameshot.png) 
+### [Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT)
 
-### [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)
+一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频:
 
-一款开源的 `macOS` 状态栏一键设置工具，可以轻松对系统的常用功能进行设置，如：
-
-- 隐藏桌面图标
-- 番茄钟
-- 快速进入夜间模式
-- 隐藏刘海
-- 保持唤醒
-- 清理 Xcode 缓存
-- 支持快捷方式库，可以自己开发
-- ...
-
-![OnlySwitch](https://images-1252557999.file.myqcloud.com/uPic/OnlySwitch.png) 
+![Chenyme-AAVT](https://images-1252557999.file.myqcloud.com/uPic/Chenyme-AAVT.jpg) 
 
 ## 👀 资料 
 
-### [imroc.cc/kubernetes](https://imroc.cc/kubernetes/)
+### [self-llm](https://github.com/datawhalechina/self-llm)
 
-作者整理了个人在 `k8s` 的实战经验与总结，助你成为一名云原生老司机：
+本项目是一个围绕开源大模型、针对国内初学者、基于 AutoDL 平台的中国宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，让更多的普通学生、研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普通学习者的生活中。
 
-![imroc_k8s](https://images-1252557999.file.myqcloud.com/uPic/imroc_k8s.jpg) 
+可以结合 [llm-universe](https://github.com/datawhalechina/llm-universe) 一起看看。 
 
-### [企业如何拥抱 AI（周鸿祎）](https://mcgr3mdbak.feishu.cn/docx/NxjvdvYmLoXOvgxBP1ocFwRbn5g)
+### [prompt-tuning-playbook](https://github.com/varungodbole/prompt-tuning-playbook)
 
-![qyybai](https://images-1252557999.file.myqcloud.com/uPic/yjvbm2.png) 
+项目主要提供了一份针对后训练大型语言模型（LLMs）的有效提示技术指南，旨在帮助用户更好地理解和应用这些模型。
 
-### [mcp-build-rich-context-ai-apps-with-anthropic](https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/)
+后训练使得 LLMs 能够更好地遵循指令、匹配现实世界、保持安全等，这些行为包括但不限于格式遵循、指令执行、事实准确性和安全性。 
 
-吴恩达教授与 `Anthropic` 联合推出 `MCP` 课程：
+### [大模型交叉研讨课](https://www.openbmb.org/community/course)
 
-![mcp-build-rich-context-ai-apps-with-anthropic](https://images-1252557999.file.myqcloud.com/uPic/aHWy0H.png) 
+OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：
+
+![openbmb_course](https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg) 
 
 ## 🕸 网站 
 
-### [PromptPilot](https://promptpilot.volcengine.com/home)
+### [svgrepo](https://www.svgrepo.com/)
 
-字节火山出品的 `Prompt` 生成助手：
+提供超过 500,000 个开源许可的 SVG 矢量图标和图标的平台，用户可以搜索、探索、编辑和分享这些资源，适用于商业项目，且始终免费，无需担心遇到付费内容：
 
-![PromptPilot](https://images-1252557999.file.myqcloud.com/uPic/uvUy4X.png) 
+![svgrepo](https://images-1252557999.file.myqcloud.com/uPic/dPWl8l.png) 
 
-### [BriefGPT](https://briefgpt.xyz/)
+### [toolfinder](https://toolfinder.xyz/)
 
-`AI` 论文速递，每日更新 `Arxiv` 论文，第一时间了解 `AI` 最新动态：
+生产力工具的维基百科：
 
-![briefgpt](https://images-1252557999.file.myqcloud.com/uPic/briefgpt.jpg) 
+![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
 
-### [zerogpt](https://www.zerogpt.com/)
+### [openart.ai](https://openart.ai/)
 
-由 `ZeroGPT` 开发的 `GPT-4，ChatGPT` AI 内容检测器：
+基于 `DALL E 2、Midjourney、SD` 生成的1000多万图片搜索网站：
 
-![zerogpt](https://images-1252557999.file.myqcloud.com/uPic/zerogpt.jpg) 
+![openart](https://images-1252557999.file.myqcloud.com/uPic/openart.jpg) 
 
 ## ✍️ 说明
 
