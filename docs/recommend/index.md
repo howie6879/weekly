@@ -5,85 +5,98 @@
 
 ## 🎯 项目 
 
-### [LibreTV](https://github.com/LibreSpark/LibreTV)
+### [rag-web-ui](https://github.com/rag-web-ui/rag-web-ui)
 
-`LibreTV` 是一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。无需注册，即开即用，支持多种设备访问。项目结合了前端技术和后端代理功能，可部署在支持服务端功能的各类网站托管服务上。
+一个基于 RAG (Retrieval-Augmented Generation) 技术的智能对话系统，它能够帮助构建基于自有知识库的智能问答系统。通过结合文档检索和大语言模型，实现了准确、可靠的知识问答服务。
 
-![LibreTV](https://images-1252557999.file.myqcloud.com/uPic/wklU6z.png)
+![rag-web-ui](https://images-1252557999.file.myqcloud.com/uPic/7um6Ks.png)
 
-还有贡献者开发了电视版本：[DTV](https://github.com/laopaoer-wallet/DTV)。 
+作者还提供了实现教程：零基础入门：[如何用 RAG (检索增强生成) 打造知识库 QA 系统](https://github.com/rag-web-ui/rag-web-ui/blob/main/docs/tutorial/README.md)：
 
-### [reader-s](https://github.com/hectorqin/reader)
+![ragtutorial](https://images-1252557999.file.myqcloud.com/uPic/2jXc19.png) 
 
-阅读3服务器版，不需要手机，可以体验下在web上追更你的小说：
+### [markdown-nice](https://github.com/mdnice/markdown-nice)
 
-![reader-s](https://images-1252557999.file.myqcloud.com/uPic/reader-s.jpg) 
+有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
 
-### [easy-gate](https://github.com/r7wx/easy-gate)
+> 支持主题设计的 Markdown 编辑器，让排版变 Nice
 
-`Easy Gate` 是一个使用 `Go` 和 `React` 构建的简单 `Web` 应用程序，它充当您自托管基础设施的主页。服务和注释从 `JSON` 文件中实时解析（无需重新启动应用程序）。可以将服务和注释分配给一个或多个组，以仅向特定用户显示项目（基于他们的 IP 地址）。
+你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
 
-![easy-gate](https://images-1252557999.file.myqcloud.com/uPic/easy-gate.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
+
+官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
+
+```shell
+docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
+``` 
+
+### [bilive](https://github.com/timerring/bilive)
+
+极快的B站直播录制、自动切片、自动渲染弹幕以及字幕并投稿至B站，综合多种大模型，兼容超低配置机器。
+
+![bilive](https://images-1252557999.file.myqcloud.com/uPic/ZIix4n.png) 
 
 ## 🤖 软件 
 
-### [BetterDisplay](https://github.com/waydabber/BetterDisplay)
+### [Hail](https://github.com/aistra0528/Hail)
 
-专为 `Mac` 平台设计的专业级屏幕自定义调整工具，可通过 DDC 调整内建 / 外接显示器的各项基本参数，并提供虚拟屏、串流、画中画等丰富的高级功能，支持大多数现代显示器：
+雹(Hail) 是一个允许用户在没有 root 权限的情况下，通过冻结、隐藏、暂停或卸载来管理 Android 应用的自由软件：
 
-![BetterDisplay](https://images-1252557999.file.myqcloud.com/uPic/qLLPBM.png) 
+![Hail](https://images-1252557999.file.myqcloud.com/uPic/nhaDp1.png) 
 
-### [copybook-generator](https://github.com/jaywcjlove/copybook-generator)
+### [BlackHole](https://github.com/Sangwan5688/BlackHole)
 
-「宝宝字帖」是一款功能强大的字帖生成工具，专为满足不同用户的书写练习需求而设计：
+一个适用于您所有需求的开源音乐播放器应用，高颜值、无广告、免费音乐播放器，拥有歌词、专辑、艺术家、播放列表、定时关闭等功能，支持 `Android、iOS、macOS` 系统：
 
-![copybook-generator](https://images-1252557999.file.myqcloud.com/uPic/copybook-generator.jpg) 
+![BlackHole](https://images-1252557999.file.myqcloud.com/uPic/BlackHole.png)
+![hole](https://images-1252557999.file.myqcloud.com/uPic/hole.jpg) 
 
-### [Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT)
+### [Rectangle](https://github.com/rxhanson/Rectangle)
 
-一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频:
+`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
 
-![Chenyme-AAVT](https://images-1252557999.file.myqcloud.com/uPic/Chenyme-AAVT.jpg) 
+![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
 
 ## 👀 资料 
 
-### [self-llm](https://github.com/datawhalechina/self-llm)
+### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
 
-本项目是一个围绕开源大模型、针对国内初学者、基于 AutoDL 平台的中国宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，让更多的普通学生、研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普通学习者的生活中。
+从零开始 `Kubernetes` 攻防:
 
-可以结合 [llm-universe](https://github.com/datawhalechina/llm-universe) 一起看看。 
+![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
 
-### [prompt-tuning-playbook](https://github.com/varungodbole/prompt-tuning-playbook)
+### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 
-项目主要提供了一份针对后训练大型语言模型（LLMs）的有效提示技术指南，旨在帮助用户更好地理解和应用这些模型。
+一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
 
-后训练使得 LLMs 能够更好地遵循指令、匹配现实世界、保持安全等，这些行为包括但不限于格式遵循、指令执行、事实准确性和安全性。 
+![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
 
-### [大模型交叉研讨课](https://www.openbmb.org/community/course)
+### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
 
-OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：
+《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 
-![openbmb_course](https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg) 
+![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
 
 ## 🕸 网站 
 
-### [svgrepo](https://www.svgrepo.com/)
+### [jpghi](https://jpghi.com/)
 
-提供超过 500,000 个开源许可的 SVG 矢量图标和图标的平台，用户可以搜索、探索、编辑和分享这些资源，适用于商业项目，且始终免费，无需担心遇到付费内容：
+jpgHi 支持各种类型图片高清无损放大，为模糊不清的图片增加极致细节，提升图片质感：
 
-![svgrepo](https://images-1252557999.file.myqcloud.com/uPic/dPWl8l.png) 
+![jpghi](https://images-1252557999.file.myqcloud.com/uPic/jpghi.jpg) 
 
-### [toolfinder](https://toolfinder.xyz/)
+### [水印宝](https://watermark.chiloh.cn/)
 
-生产力工具的维基百科：
+[开源](https://github.com/chilohwei/watermark-tool)的图片加水印网页：
 
-![toolfinder](https://images-1252557999.file.myqcloud.com/uPic/toolfinder.jpg) 
+![watermark](https://images-1252557999.file.myqcloud.com/uPic/jiPUF2.png) 
 
-### [openart.ai](https://openart.ai/)
+### [visalist](https://visalist.io)
 
-基于 `DALL E 2、Midjourney、SD` 生成的1000多万图片搜索网站：
+网站交互样式都还不错，主要提供旅游签证、过境签证、数字游民签证等信息：
 
-![openart](https://images-1252557999.file.myqcloud.com/uPic/openart.jpg) 
+![ybt76d](https://images-1252557999.file.myqcloud.com/uPic/ybt76d.png) 
 
 ## ✍️ 说明
 
