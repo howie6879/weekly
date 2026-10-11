@@ -5,80 +5,74 @@
 
 ## 🎯 项目 
 
-### [rag-web-ui](https://github.com/rag-web-ui/rag-web-ui)
+### [DataEase](https://github.com/dataease/dataease)
 
-一个基于 RAG (Retrieval-Augmented Generation) 技术的智能对话系统，它能够帮助构建基于自有知识库的智能问答系统。通过结合文档检索和大语言模型，实现了准确、可靠的知识问答服务。
+DataEase 是开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化；且支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。 
 
-![rag-web-ui](https://images-1252557999.file.myqcloud.com/uPic/7um6Ks.png)
+### [go-cursor-help](https://github.com/yuaotian/go-cursor-help)
 
-作者还提供了实现教程：零基础入门：[如何用 RAG (检索增强生成) 打造知识库 QA 系统](https://github.com/rag-web-ui/rag-web-ui/blob/main/docs/tutorial/README.md)：
+解决Cursor在免费订阅期间出现以下提示的问题: 
 
-![ragtutorial](https://images-1252557999.file.myqcloud.com/uPic/2jXc19.png) 
+- You've reached your trial request limit. 
+- Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 
-### [markdown-nice](https://github.com/mdnice/markdown-nice)
+![go-cursor-help](https://images-1252557999.file.myqcloud.com/uPic/r9vfJa.png) 
 
-有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
+### [privateGPT](https://github.com/imartinez/privateGPT)
 
-> 支持主题设计的 Markdown 编辑器，让排版变 Nice
+为保证数据私密性，基于 GPT4ALL 聚合的 [LLM](https://github.com/nomic-ai/gpt4all) 强大功能，无需互联网连接就可以对私有文档提出问题：
 
-你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
-
-![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
-
-官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
-
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
-
-### [bilive](https://github.com/timerring/bilive)
-
-极快的B站直播录制、自动切片、自动渲染弹幕以及字幕并投稿至B站，综合多种大模型，兼容超低配置机器。
-
-![bilive](https://images-1252557999.file.myqcloud.com/uPic/ZIix4n.png) 
+![privateGPT](https://images-1252557999.file.myqcloud.com/uPic/privateGPT.png) 
 
 ## 🤖 软件 
 
-### [Hail](https://github.com/aistra0528/Hail)
+### mizu
 
-雹(Hail) 是一个允许用户在没有 root 权限的情况下，通过冻结、隐藏、暂停或卸载来管理 Android 应用的自由软件：
+微服务测试平台UP9的最新开源 `mizu` ，使开发人员能够在本地 `Web` 应用程序中查看所有`Kubernetes API`流量，以帮助调试和排除故障，可以理解为 `TCPDump` 和 `Chrome Dev Tools` 的结合：
 
-![Hail](https://images-1252557999.file.myqcloud.com/uPic/nhaDp1.png) 
+![mizu-ui](https://images-1252557999.file.myqcloud.com/uPic/mizu-ui.png) 
 
-### [BlackHole](https://github.com/Sangwan5688/BlackHole)
+### [Mos](https://github.com/Caldis/Mos)
 
-一个适用于您所有需求的开源音乐播放器应用，高颜值、无广告、免费音乐播放器，拥有歌词、专辑、艺术家、播放列表、定时关闭等功能，支持 `Android、iOS、macOS` 系统：
+一个用于在 `macOS` 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：
 
-![BlackHole](https://images-1252557999.file.myqcloud.com/uPic/BlackHole.png)
-![hole](https://images-1252557999.file.myqcloud.com/uPic/hole.jpg) 
+![mos](https://images-1252557999.file.myqcloud.com/uPic/mos.jpg) 
 
-### [Rectangle](https://github.com/rxhanson/Rectangle)
+### [GestureSign](https://github.com/TransposonY/GestureSign)
 
-`Rectangle` 是一款开源免费的 Mac 窗口管理工具，`Rectangle` 可以让用户使用键盘快捷键来移动和调整窗口大小。
+开源免费的 `Windows` 全局手势控制辅助增强软件神器:
 
-![Rectangle](https://images-1252557999.file.myqcloud.com/uPic/KH9luU.jpg) 
+- 支持 `Windows 11、Win10 / 8` 等系统
+- 支持鼠标手势、触控板等手势操作
+- 能高效方便地执行各种命令，如模拟按下快捷键、发送文本、启动程序等
+
+![GestureSign](https://images-1252557999.file.myqcloud.com/uPic/GestureSign.jpg) 
 
 ## 👀 资料 
 
-### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
+### [llm-action](https://github.com/liguodongiot/llm-action)
 
-从零开始 `Kubernetes` 攻防:
+本项目旨在分享大模型相关技术原理以及实战经验，让天下没有难学的大模型：
 
-![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
+![llm-action](https://images-1252557999.file.myqcloud.com/uPic/llm-action.png) 
 
-### [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
+### [awesome-time-series](https://github.com/lmmentel/awesome-time-series)
 
-一款开源中文字体，基于 `FONTWORKS` 出品字体 `Klee One` 衍生:
+这里有比较全面的时间序列数据相关资源。 
 
-![LxgwWenKai](https://images-1252557999.file.myqcloud.com/uPic/uTcedo.jpg) 
+### [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
 
-### [frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview/)
+学习领域驱动设计、软件架构、设计模式和最佳实践（包括代码示例）：
 
-《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
-
-![frontend-hard-mode-interview](https://images-1252557999.file.myqcloud.com/uPic/frontend-hard-mode-interview.png) 
+![domain-driven-hexagon](https://images-1252557999.file.myqcloud.com/uPic/domain-driven-hexagon.png) 
 
 ## 🕸 网站 
+
+### [tailspark](https://tailspark.co/)
+
+`300+` 免费的 `TailwindCSS` 组件和模板，让您在几分钟内构建网站，颜值也非常高：
+
+![tailspark](https://images-1252557999.file.myqcloud.com/uPic/tailspark.jpg) 
 
 ### [jpghi](https://jpghi.com/)
 
@@ -86,17 +80,13 @@ jpgHi 支持各种类型图片高清无损放大，为模糊不清的图片增�
 
 ![jpghi](https://images-1252557999.file.myqcloud.com/uPic/jpghi.jpg) 
 
-### [水印宝](https://watermark.chiloh.cn/)
+### [smartexcel](https://smartexcel.cc/)
 
-[开源](https://github.com/chilohwei/watermark-tool)的图片加水印网页：
+使用 `AI` 在几秒钟内生成 `Excel` 公式的工具。描述自己的需要，即可生成相应的公式。需要登录，每天 有10 个免费积分可以使用:
 
-![watermark](https://images-1252557999.file.myqcloud.com/uPic/jiPUF2.png) 
+![smartexcel](https://images-1252557999.file.myqcloud.com/uPic/DXKVRR.png)
 
-### [visalist](https://visalist.io)
-
-网站交互样式都还不错，主要提供旅游签证、过境签证、数字游民签证等信息：
-
-![ybt76d](https://images-1252557999.file.myqcloud.com/uPic/ybt76d.png) 
+开源地址：[smartexcel](https://github.com/weijunext/smart-excel-ai)。 
 
 ## ✍️ 说明
 
