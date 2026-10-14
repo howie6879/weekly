@@ -5,94 +5,93 @@
 
 ## 🎯 项目 
 
-### [bitwarden](https://github.com/bitwarden)
+### [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
 
-一个开源，免费，跨平台，安全易管理，，能自动填充密码可自建的密码管理解决方案：
+一个轻量级的AI证件照制作算法：
 
-![bitwarden](https://images-1252557999.file.myqcloud.com/uPic/bitwarden.jpg) 
+- 轻量级抠图（纯离线，仅需 CPU 即可快速推理）
+- 根据不同尺寸规格生成不同的标准证件照、六寸排版照
+- 支持 纯离线 或 端云 推理
+- 美颜（waiting）
+- 智能换正装（waiting）
 
-### [c-shopping](https://github.com/huanghanzhilian/c-shopping)
+![HivisionIDPhotos](https://images-1252557999.file.myqcloud.com/uPic/gPE06c.png) 
 
- 基于 `Nextjs` 开发同时适配 `Desktop、Tablet、Phone` 多种设备的精美购物平台：
- 
- ![C-Shopping](https://images-1252557999.file.myqcloud.com/uPic/C-Shopping.png) 
+### [halo](https://github.com/halo-dev/halo)
 
-### [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
+✍ 一款现代化的开源博客& `CMS` 系统：
 
-基于 Deno 开发的趋势发现和内容发布系统，支持多源数据采集、智能总结和自动发布到微信公众号。 
+![halo](https://images-1252557999.file.myqcloud.com/uPic/halo.jpg) 
+
+### [mdx-editor](https://github.com/maqi1520/mdx-editor)
+
+一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
+
+![mdx-editor](https://images-1252557999.file.myqcloud.com/uPic/mdx-editor.jpg) 
 
 ## 🤖 软件 
 
-### [Pearcleaner](https://github.com/alienator88/Pearcleaner)
+### [res-downloader](https://github.com/putyy/res-downloader)
 
-一个专为 `Mac` 设计的应用卸载工具：
+网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
 
-![baJDOT](https://images-1252557999.file.myqcloud.com/uPic/baJDOT.png) 
+![res-downloader](https://images-1252557999.file.myqcloud.com/uPic/res-downloader.jpeg) 
 
-### [ponymusic](https://github.com/wangchenyan/ponymusic)
+### [readest](https://github.com/chrox/readest)
 
-使用「网易云音乐API」的安卓在线音乐播放器：
+`Readest` 是一个现代化、功能丰富的电子书阅读器，旨在为读者提供无缝的跨平台访问体验、强大的工具和直观的界面，以提升阅读体验。
 
-- 网易云音乐基本功能
-- 添加和播放本地音乐文件
-- 专辑封面显示
-- 歌词显示，支持拖动歌词调节播放进度
-- 通知栏控制
-- 夜间模式
-- 定时关闭
+![readest](https://images-1252557999.file.myqcloud.com/uPic/v41zIg.png) 
 
-![ponymusic](https://images-1252557999.file.myqcloud.com/uPic/ponymusic.jpg) 
+### [lapce](https://github.com/lapce/lapce)
 
-### [Ice](https://github.com/jordanbaird/Ice)
+基于`Rust`的强大、轻量快速的代码编辑器：
 
-`Mac` 桌面顶部菜单图标管理工具，可以控制哪些展示，哪些隐藏，`Bartender` 的开源免费替代产品：
-
-![Ice](https://images-1252557999.file.myqcloud.com/uPic/Ice.png) 
+![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
 
 ## 👀 资料 
 
-### [开源软件指南](https://opensource.guide/zh-hans/)
+### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
 
-GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
 
-![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
+### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 
-### [qianguyihao/Web](https://github.com/qianguyihao/Web)
+以非常直观的语言介绍`pytorch`：
 
-千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师:
+![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
 
-- 网上的大部分入门教程，都不太适合初学者，本项目争取照顾到每一位前端入门者的同理心。即使你完全不懂前端，甚至不懂编程，通过这个教程，也能让小白入门。
-- 帮助前端同学提供一个精品学习资源和路线，提高学习效率，少走很多弯路。
+作者的同类电子书还有：
 
-![qianguyihao](https://images-1252557999.file.myqcloud.com/uPic/qianguyihao.jpg)
+- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
 
-可以当做前端字典，随时翻阅，查漏补缺，在线观看地址：[web.qianguyihao.com](https://web.qianguyihao.com/)。 
+### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
 
-### [LLMBook-zh](https://llmbook-zh.github.io/)
+站点可靠性工作手册：
 
-大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
-
-![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
+![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
 
 ## 🕸 网站 
 
-### [vim.is](https://vim.is/#exercise)
+### [devtool.tech](https://devtool.tech/)
 
-`Vim`学习网站：
+开发者武器库，作者提供了83个开发者常用的工具：
 
-![vim.is](https://images-1252557999.file.myqcloud.com/uPic/iA6wxm.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/ZlVqam.png) 
 
-### [quark.so](https://www.quark.so/)
+### [12ft.io](https://12ft.io/)
 
-这是一个资源全面，界面简洁无广告的夸克网盘搜索引擎：
+输入目标地址，让你浏览一个更干净的网站！删除弹出窗口、横幅和广告：
 
-![quarkso](https://images-1252557999.file.myqcloud.com/uPic/quarkso.jpg) 
+![12ft.io](https://images-1252557999.file.myqcloud.com/uPic/12ft.io.jpg)
+[1ft](https://1ft.io/) 也有类似功能。 
 
-### [buyoncesoftware.com](https://buyoncesoftware.com)
+### [yalijuda](https://www.yalijuda.com)
 
-一份满足购买一次，终身使用软件名单：
+简单快捷的图片压缩体验，多种压缩模式可选，压缩图片清晰无锯齿：
 
-![buyoncesoftware](https://images-1252557999.file.myqcloud.com/uPic/HuYvwg.png) 
+![www.yalijuda.com_yalijuda_sq0onjIiVg](https://images-1252557999.file.myqcloud.com/uPic/www.yalijuda.com_yalijuda_sq0onjIiVg.jpg) 
 
 ## ✍️ 说明
 
