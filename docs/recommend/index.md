@@ -5,110 +5,107 @@
 
 ## 🎯 项目 
 
-### [WeClone](https://github.com/xming521/WeClone)
+### [ecapture](https://github.com/ehids/ecapture)
 
-从聊天记录创造数字分身的一站式解决方案：
+eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
 
-- 💫 涵盖打造数字分身的全链路方案，包括聊天数据导出、预处理、模型训练、部署
-- 💬 使用微信聊天记录微调LLM，让大模型有“那味儿”
-- 🎙️ 使用微信语音消息➕0.5B大模型实现高质量声音克隆 👉WeClone-audio
-- 🔗 绑定到微信、QQ、Telegram、企微、飞书机器人，实现自己的数字分身 
+![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
 
-### [webvm](https://github.com/leaningtech/webvm)
+### [rathole](https://github.com/rapiz1/rathole)
 
-基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：[webvm.io](https://webvm.io/)。
+安全、稳定、高性能的内网穿透工具，用 Rust 语言编写。 
 
-![webvm](https://images-1252557999.file.myqcloud.com/uPic/1yRQBe.png)
+### [wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook)
 
-详细的介绍文章见：[WebVM: server-less x86 virtual machines in the browser](https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361)。 
+一个支持消息收发的微信 `Webhook` 机器人🤖，但是要注意使用限制，不然可能被Ban，特性如下：
 
-### [claude-flow](https://github.com/ruvnet/claude-flow)
+- 推送消息 (发送文字 / 图片 / 文件)
+- 接收消息（文字 / 图片 / 语音 / 视频 / 文件 / 好友申请 / 公众号推文链接）
+- Docker 部署等
 
-`Claude-Flow v2.0.0 Alpha` 代表了人工智能驱动开发编排的革命性飞跃。它从零开始构建，具有企业级架构、先进的群体智能和无缝的 Claude Code 集成。
-
-- 🐝 蜂巢思维智能：女王主导的人工智能与专门的工蜂进行协调
-- 🧠 神经网络：27+ 种具有 WASM SIMD 加速的认知模型
-- 🔧 87 个 MCP 工具：用于集群编排、内存和自动化的综合工具包
-- 🔄 动态代理架构（DAA）：具有容错能力的自组织代理
-- 💾 SQLite 内存系统：持久化存储.swarm/memory.db，包含 12 个专门的表
-- 🪝 高级钩子系统：带有操作前/后钩子的自动化工作流程
-- 📊 GitHub 集成：6 种专门的存储库管理模式
-- ⚡ 性能：SWE-Bench 解决率 84.8%，速度提升 2.8-4.4 倍 
+![wechatbot-webhook](https://images-1252557999.file.myqcloud.com/uPic/wechatbot-webhook.gif) 
 
 ## 🤖 软件 
 
-### [BongoCat](https://github.com/ayangweb/BongoCat)
+### [MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
 
-本项目的灵感来源于 MMmmmoko 大佬开发的 [Bongo-Cat-Mver](https://github.com/MMmmmoko/Bongo-Cat-Mver)。它以独特的猫咪互动功能深受用户喜爱，但仅支持 Windows 平台。作为一名深度 macOS 用户，我特别希望在自己的设备上也能使用这款可爱的猫咪，于是我决定开发一个适配 macOS 的版本。
+一款明日方舟游戏小助手，基于图像识别技术，一键完成全部日常任务：
 
-同时，得益于 Tauri 强大的跨平台能力，本项目不仅支持 macOS，还兼容 Windows 和 Linux(x11)，让更多的用户都能与这只可爱的猫咪互动！
+- 刷理智，掉落识别及上传 企鹅物流，一图流
+- 智能基建换班，自动计算干员效率，单设施内最优解；同时也支持 自定义排班
+- 自动公招，可选使用加急许可，一次全部刷完！公招数据自动上传 企鹅物流，一图流
+- 支持手动识别公招界面，方便对高星公招做出选择 （你的这个高资回费出的是推王呢还是推王呢）
+- 支持识别干员列表，统计已有和未有干员及潜能，并在公招识别显示
+- 支持识别养成材料，并导出至 企鹅物流刷图规划、明日方舟工具箱、ARK-NIGHTS 干员培养表
+- 访问好友、收取信用及购物、领取日常奖励等，一键全日常自动长草
+- 肉鸽全自动刷源石锭和等级，自动烧水和凹直升，智能识别干员及练度
+- 选择作业 JSON 文件，自动抄作业， 视频演示
+- 支持 C, Python, Java, Rust, Golang, Java HTTP, Rust HTTP 等多种接口，方便集成调用，自定义你的 MAA
 
-![BongoCat](https://images-1252557999.file.myqcloud.com/uPic/GyrpLk.png) 
+![MaaAssistantArknights](https://images-1252557999.file.myqcloud.com/uPic/YJj3rT.png) 
 
-### [RustDesk](https://github.com/rustdesk/rustdesk)
+### [revezone](https://github.com/revezone/revezone)
 
-远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
+一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具：
 
-![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
+![revezone](https://images-1252557999.file.myqcloud.com/uPic/revezone.jpg) 
 
-### [epubkit](https://beta.epubkit.app/)
+### [Bili.Uwp](https://github.com/Richasy/Bili.Uwp)
 
-挺多人有这种需求的，将网页转化成电子书：
+一款**哔哩哔哩**的第三方应用，使用 `UWP` 框架开发，是原生的 `Windows` 应用，支持 `Windows 10/11` 桌面系统，主打设计和易用性：
 
-![epubkit](https://images-1252557999.file.myqcloud.com/uPic/epubkit.png)
-
-之前推荐的 [EpubPress](https://epub.press/) 也是类似功能，可以结合在一起体验试试。 
+![Bili.Uwp](https://images-1252557999.file.myqcloud.com/uPic/Bili.Uwp.png) 
 
 ## 👀 资料 
 
-### [How to Make MySQL Better](https://github.com/enhancedformysql/The-Art-of-Problem-Solving-in-Software-Engineering_How-to-Make-MySQL-Better)
+### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
 
-通过分析 `MySQL` 挑战案例来解决软件工程问题的方法论，旨在帮助读者更好地理解逻辑推理、数据结构、算法等通用概念，并通过实际示例和深入讨论增强对 `MySQL` 性能优化的理解：
+从零开始 `Kubernetes` 攻防:
 
-![How to Make MySQL Better](https://images-1252557999.file.myqcloud.com/uPic/OVUkJI.png) 
+![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
 
-### [凤凰架构](https://github.com/fenixsoft/awesome-fenix)
+### [ScienceFictionCollection](https://github.com/VeejaLiu/ScienceFictionCollection)
 
-这是一部以“**如何构建一套可靠的分布式大型软件系统**”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《[什么是凤凰架构](https://icyfenix.cn/introduction/about-the-fenix-project.html)》详细阐述了这部文档的主旨、目标与名字的来由，文章《[如何开始](https://icyfenix.cn/exploration/guide/quick-start.html)》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
+科幻小说作品集收集项目，包含以下作者的作品：
 
-![icyfenix](https://images-1252557999.file.myqcloud.com/uPic/icyfenix.jpg) 
+- 刘慈欣 (Cixin Liu)
+- Frank Herbert (弗兰克・赫伯特)
+- Isaac Asimov (艾萨克・阿西莫夫)
+- Jules Gabriel Verne (儒勒・加布里埃尔・凡尔纳)
+- Mary Shelley (玛丽・雪莱)
+- Ray Douglas Bradbury (雷・道格拉斯・布拉德伯里)
+- Orson Scott Card (奥森・斯科特・卡德)
+- Ted Chiang (特德・姜)
+- Michael Swanwick (迈克尔・斯万维克) 
 
-### [secguide](https://github.com/Tencent/secguide)
+### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
 
-面向开发人员梳理的代码安全指南，规范索引如下：
+一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
 
-- C/C++安全指南
-- JavaScript安全指南
-- Node安全指南
-- Go安全指南
-- Java安全指南
-- Python安全指南 
+![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
 
 ## 🕸 网站 
 
-### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
+### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
 
-配置高性能、安全、稳定的NGINX服务器的最简单方法：
+作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
 
-![nginx_web](https://images-1252557999.file.myqcloud.com/uPic/N7Yp8R.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/bdd-3d.png)
 
-### [LocallyTools](https://github.com/howie6879/weekly/issues/181)
 
-这是一个在线工具箱网站，它最大的特点是：所有工具都 100% 在用户的浏览器本地运行。图片压缩、PDF 处理等所有计算任务都在本地完成，这从根本上保证了用户的隐私和数据安全。
+感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
 
-秉持“用完即走”的原则，永久免费、无需注册登录，界面简洁，交互直接。目前有三大类常用工具：
+### [ray.so/icon](https://ray.so/icon)
 
-- 图片工具：如图片压缩、格式转换（支持 AVIF/WebP）、裁剪旋转等。
-- PDF 工具：如 PDF 合并、拆分、页面移除等。
-- 开发者工具：如 UUID 生成、JWT 解码、代码格式化（支持多种语言）等。
+`Raycast` 出品的图标设计工具：
 
-![LocallyTools](https://images-1252557999.file.myqcloud.com/uPic/Y2rLxV.png) 
+![rayso](https://images-1252557999.file.myqcloud.com/uPic/rayso.jpg) 
 
-### [goldprice.fun](https://goldprice.fun/)
+### [ogimage.click](https://ogimage.click/)
 
-查看国内国际金价，包含各金店品牌：
+允许用户通过选择专业模板、自定义背景、渐变、网格叠加、噪声等属性来快速生成适用于社交媒体平台（如 Twitter、Facebook 和 LinkedIn）的吸引人的分享图片。用户可以无需注册即可免费使用所有功能，生成的图片可以导出为 PNG、JPEG 或 WebP 格式，并且支持多平台的优化尺寸。
 
-![goldprice](https://images-1252557999.file.myqcloud.com/uPic/goldprice.jpg) 
+![ogimage](https://images-1252557999.file.myqcloud.com/uPic/WLVTc7.png) 
 
 ## ✍️ 说明
 
