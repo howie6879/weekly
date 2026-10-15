@@ -5,93 +5,110 @@
 
 ## 🎯 项目 
 
-### [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
+### [WeClone](https://github.com/xming521/WeClone)
 
-一个轻量级的AI证件照制作算法：
+从聊天记录创造数字分身的一站式解决方案：
 
-- 轻量级抠图（纯离线，仅需 CPU 即可快速推理）
-- 根据不同尺寸规格生成不同的标准证件照、六寸排版照
-- 支持 纯离线 或 端云 推理
-- 美颜（waiting）
-- 智能换正装（waiting）
+- 💫 涵盖打造数字分身的全链路方案，包括聊天数据导出、预处理、模型训练、部署
+- 💬 使用微信聊天记录微调LLM，让大模型有“那味儿”
+- 🎙️ 使用微信语音消息➕0.5B大模型实现高质量声音克隆 👉WeClone-audio
+- 🔗 绑定到微信、QQ、Telegram、企微、飞书机器人，实现自己的数字分身 
 
-![HivisionIDPhotos](https://images-1252557999.file.myqcloud.com/uPic/gPE06c.png) 
+### [webvm](https://github.com/leaningtech/webvm)
 
-### [halo](https://github.com/halo-dev/halo)
+基于HTML5/WebAssembly完全客户端运行的无服务器虚拟Linux环境，官方提供了演示网站：[webvm.io](https://webvm.io/)。
 
-✍ 一款现代化的开源博客& `CMS` 系统：
+![webvm](https://images-1252557999.file.myqcloud.com/uPic/1yRQBe.png)
 
-![halo](https://images-1252557999.file.myqcloud.com/uPic/halo.jpg) 
+详细的介绍文章见：[WebVM: server-less x86 virtual machines in the browser](https://medium.com/leaningtech/webvm-client-side-x86-virtual-machines-in-the-browser-40a60170b361)。 
 
-### [mdx-editor](https://github.com/maqi1520/mdx-editor)
+### [claude-flow](https://github.com/ruvnet/claude-flow)
 
-一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
+`Claude-Flow v2.0.0 Alpha` 代表了人工智能驱动开发编排的革命性飞跃。它从零开始构建，具有企业级架构、先进的群体智能和无缝的 Claude Code 集成。
 
-![mdx-editor](https://images-1252557999.file.myqcloud.com/uPic/mdx-editor.jpg) 
+- 🐝 蜂巢思维智能：女王主导的人工智能与专门的工蜂进行协调
+- 🧠 神经网络：27+ 种具有 WASM SIMD 加速的认知模型
+- 🔧 87 个 MCP 工具：用于集群编排、内存和自动化的综合工具包
+- 🔄 动态代理架构（DAA）：具有容错能力的自组织代理
+- 💾 SQLite 内存系统：持久化存储.swarm/memory.db，包含 12 个专门的表
+- 🪝 高级钩子系统：带有操作前/后钩子的自动化工作流程
+- 📊 GitHub 集成：6 种专门的存储库管理模式
+- ⚡ 性能：SWE-Bench 解决率 84.8%，速度提升 2.8-4.4 倍 
 
 ## 🤖 软件 
 
-### [res-downloader](https://github.com/putyy/res-downloader)
+### [BongoCat](https://github.com/ayangweb/BongoCat)
 
-网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
+本项目的灵感来源于 MMmmmoko 大佬开发的 [Bongo-Cat-Mver](https://github.com/MMmmmoko/Bongo-Cat-Mver)。它以独特的猫咪互动功能深受用户喜爱，但仅支持 Windows 平台。作为一名深度 macOS 用户，我特别希望在自己的设备上也能使用这款可爱的猫咪，于是我决定开发一个适配 macOS 的版本。
 
-![res-downloader](https://images-1252557999.file.myqcloud.com/uPic/res-downloader.jpeg) 
+同时，得益于 Tauri 强大的跨平台能力，本项目不仅支持 macOS，还兼容 Windows 和 Linux(x11)，让更多的用户都能与这只可爱的猫咪互动！
 
-### [readest](https://github.com/chrox/readest)
+![BongoCat](https://images-1252557999.file.myqcloud.com/uPic/GyrpLk.png) 
 
-`Readest` 是一个现代化、功能丰富的电子书阅读器，旨在为读者提供无缝的跨平台访问体验、强大的工具和直观的界面，以提升阅读体验。
+### [RustDesk](https://github.com/rustdesk/rustdesk)
 
-![readest](https://images-1252557999.file.myqcloud.com/uPic/v41zIg.png) 
+远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。您可以使用我们的注册/中继服务器，或者自建，亦或者开发您的版本：
 
-### [lapce](https://github.com/lapce/lapce)
+![rustdesk](https://images-1252557999.file.myqcloud.com/uPic/rustdesk.png) 
 
-基于`Rust`的强大、轻量快速的代码编辑器：
+### [epubkit](https://beta.epubkit.app/)
 
-![lapce](https://images-1252557999.file.myqcloud.com/uPic/lapce.png) 
+挺多人有这种需求的，将网页转化成电子书：
+
+![epubkit](https://images-1252557999.file.myqcloud.com/uPic/epubkit.png)
+
+之前推荐的 [EpubPress](https://epub.press/) 也是类似功能，可以结合在一起体验试试。 
 
 ## 👀 资料 
 
-### [Writing an OS in Rust](https://github.com/phil-opp/blog_os)
+### [How to Make MySQL Better](https://github.com/enhancedformysql/The-Art-of-Problem-Solving-in-Software-Engineering_How-to-Make-MySQL-Better)
 
-这个博客系列用[Rust编程语言](https://www.rust-lang.org/)编写了一个小操作系统。每篇文章都是一个小教程，并且包含了所有代码，你可以跟着一起学习。源代码也放在了[Github 仓库](https://github.com/phil-opp/blog_os)。 
+通过分析 `MySQL` 挑战案例来解决软件工程问题的方法论，旨在帮助读者更好地理解逻辑推理、数据结构、算法等通用概念，并通过实际示例和深入讨论增强对 `MySQL` 性能优化的理解：
 
-### [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+![How to Make MySQL Better](https://images-1252557999.file.myqcloud.com/uPic/OVUkJI.png) 
 
-以非常直观的语言介绍`pytorch`：
+### [凤凰架构](https://github.com/fenixsoft/awesome-fenix)
 
-![eat_pytorch_in_20_days](https://images-1252557999.file.myqcloud.com/uPic/fnTFJ5.png)
+这是一部以“**如何构建一套可靠的分布式大型软件系统**”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《[什么是凤凰架构](https://icyfenix.cn/introduction/about-the-fenix-project.html)》详细阐述了这部文档的主旨、目标与名字的来由，文章《[如何开始](https://icyfenix.cn/exploration/guide/quick-start.html)》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
 
-作者的同类电子书还有：
+![icyfenix](https://images-1252557999.file.myqcloud.com/uPic/icyfenix.jpg) 
 
-- [eat_pyspark_in_10_days](https://github.com/lyhue1991/eat_pyspark_in_10_days)：10天吃掉那只pyspark
-- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)：30天吃掉那只TensorFlow2 
+### [secguide](https://github.com/Tencent/secguide)
 
-### [The-Site-Reliability-Workbook-CHS](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS)
+面向开发人员梳理的代码安全指南，规范索引如下：
 
-站点可靠性工作手册：
-
-![The-Site-Reliability-Workbook-CHS](https://images-1252557999.file.myqcloud.com/uPic/The-Site-Reliability-Workbook-CHS.jpg) 
+- C/C++安全指南
+- JavaScript安全指南
+- Node安全指南
+- Go安全指南
+- Java安全指南
+- Python安全指南 
 
 ## 🕸 网站 
 
-### [devtool.tech](https://devtool.tech/)
+### [nginx_web](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
 
-开发者武器库，作者提供了83个开发者常用的工具：
+配置高性能、安全、稳定的NGINX服务器的最简单方法：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/ZlVqam.png) 
+![nginx_web](https://images-1252557999.file.myqcloud.com/uPic/N7Yp8R.png) 
 
-### [12ft.io](https://12ft.io/)
+### [LocallyTools](https://github.com/howie6879/weekly/issues/181)
 
-输入目标地址，让你浏览一个更干净的网站！删除弹出窗口、横幅和广告：
+这是一个在线工具箱网站，它最大的特点是：所有工具都 100% 在用户的浏览器本地运行。图片压缩、PDF 处理等所有计算任务都在本地完成，这从根本上保证了用户的隐私和数据安全。
 
-![12ft.io](https://images-1252557999.file.myqcloud.com/uPic/12ft.io.jpg)
-[1ft](https://1ft.io/) 也有类似功能。 
+秉持“用完即走”的原则，永久免费、无需注册登录，界面简洁，交互直接。目前有三大类常用工具：
 
-### [yalijuda](https://www.yalijuda.com)
+- 图片工具：如图片压缩、格式转换（支持 AVIF/WebP）、裁剪旋转等。
+- PDF 工具：如 PDF 合并、拆分、页面移除等。
+- 开发者工具：如 UUID 生成、JWT 解码、代码格式化（支持多种语言）等。
 
-简单快捷的图片压缩体验，多种压缩模式可选，压缩图片清晰无锯齿：
+![LocallyTools](https://images-1252557999.file.myqcloud.com/uPic/Y2rLxV.png) 
 
-![www.yalijuda.com_yalijuda_sq0onjIiVg](https://images-1252557999.file.myqcloud.com/uPic/www.yalijuda.com_yalijuda_sq0onjIiVg.jpg) 
+### [goldprice.fun](https://goldprice.fun/)
+
+查看国内国际金价，包含各金店品牌：
+
+![goldprice](https://images-1252557999.file.myqcloud.com/uPic/goldprice.jpg) 
 
 ## ✍️ 说明
 
