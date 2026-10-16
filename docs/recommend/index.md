@@ -5,91 +5,95 @@
 
 ## 🎯 项目 
 
-### [Message-Push-Nest](https://github.com/engigu/Message-Push-Nest)
+### [wg-easy](https://github.com/wg-easy/wg-easy)
 
-打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义 `webhook` 等多种通知方式。定制你的消息，让通知方式更灵活多样。
+ `wg-easy` 提供一种简单的方式来运行 WireGuard VPN，并配备了 Web 管理界面。
 
+![wg-easy](https://images-1252557999.file.myqcloud.com/uPic/sXhRQS.png) 
 
-![Message-Push-Nest](https://images-1252557999.file.myqcloud.com/uPic/Message-Push-Nest.jpg) 
+### [go-cursor-help](https://github.com/yuaotian/go-cursor-help)
 
-### [halo](https://github.com/halo-dev/halo)
+解决Cursor在免费订阅期间出现以下提示的问题: 
 
-✍ 一款现代化的开源博客& `CMS` 系统：
+- You've reached your trial request limit. 
+- Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 
-![halo](https://images-1252557999.file.myqcloud.com/uPic/halo.jpg) 
+![go-cursor-help](https://images-1252557999.file.myqcloud.com/uPic/r9vfJa.png) 
 
-### [moffee](https://github.com/BMPixel/moffee)
+### [surveyking](https://github.com/javahuang/surveyking)
 
-开源的 `Markdown` 幻灯片制作工具，可以将 `Markdown` 文档转换为专业的幻灯片（PPT）。它支持简单的语法、自动分页和样式设置，用户只需专注于内容，可以通过实时网页界面预览或导出为 `PDF`：
+功能挺全面的一个调查问卷系统：
 
-![moffee](https://images-1252557999.file.myqcloud.com/uPic/moffee.png) 
+![surveyking](https://images-1252557999.file.myqcloud.com/uPic/surveyking.jpg) 
 
 ## 🤖 软件 
 
-### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
+### [Dashboard](https://github.com/leon-kfd/Dashboard)
 
-`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
+开源的浏览器插件，用于自定义你的浏览器启动页：
 
-![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
+![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
 
-### [Codeium](https://codeium.com/)
+### [Imagine](https://github.com/meowtec/Imagine)
 
-基于 `AI` 赋能的编码智能助手，自动补全代码，开发者的福音，对标 `GitHub Copilot`：
+全平台支持的图片压缩软件：
 
-![codeium](https://images-1252557999.file.myqcloud.com/uPic/codeium.jpg) 
+![Imagine](https://images-1252557999.file.myqcloud.com/uPic/KrSb9L.png)
 
-### [Übersicht](https://github.com/felixhageloh/uebersicht)
+看看这86%的压缩率还是挺上头的，而且效果很好。 
 
-构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
+### [abogen](https://github.com/denizsafak/abogen)
 
-![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
+`Abogen` 是一个基于 `Kokoro-82M` 的文本到语音转换工具，能够快速将 EPUB、PDF 或文本文件转换为具有同步字幕的高质量音频，适用于制作有声读物、社交媒体语音旁白等。
+
+![abogen](https://images-1252557999.file.myqcloud.com/uPic/ZtsSUK.png) 
 
 ## 👀 资料 
 
-### [uxbaike](https://uxbaike.com/)
+### [CUDA-Learn-Notes](https://github.com/xlite-dev/CUDA-Learn-Notes)
 
-UX 百科，属于设计师的专业知识库：
+一个 `Modern CUDA Learn Notes` 的仓库，提供了一个现代的 `CUDA` 学习资源库，包含了 `200+ CUDA` 核心和 100+ 技术博客，涵盖了从基础到高级的 `CUDA` 编程知识，以及如何使用 `PyTorch` 等高级接口进行 `CUDA` 编程的实践。 
 
-![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
+### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 
-### [awesome-ai-directory](https://github.com/iAmCorey/awesome-ai-directory)
+[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
 
-💡 收录优质AI工具导航及开发学习资源聚合平台，这个列表致力于收集和整理各类优秀的AI相关资源网站，包括但不限于：
+**可惜永远都不会再更新了，默哀！**
 
-- AI工具收录导航
-- AI模型接口资源
-- AI学习资料资源
-- AI新闻趋势聚合
+![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
 
-![awesome-ai-directory](https://images-1252557999.file.myqcloud.com/uPic/0m1IbQ.png) 
+### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
 
-### [learnprompting.org](https://learnprompting.org/zh-Hans/docs/intro)
+通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
 
-> 如何同人工智能交流，并得到你要的结果。
+- 通过编写测试学习 Go 语言
+- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
+- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
 
-随着最近人工智能的不断进步，提示工程这项技能变得越来越重要。本课程会聚焦于如何使用提示工程。你不需要很多机器学习相关的知识。
-
-![learnprompting](https://images-1252557999.file.myqcloud.com/uPic/learnprompting.jpg) 
+![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
 
 ## 🕸 网站 
 
-### [jsont.run](https://www.jsont.run/)
+### [纸砚双拼](https://blog.simplenaive.cn/shuangpin/#/)
 
-一个简洁的在线 `JSON` 解析器：
+一个好看的双拼学习网站：
 
-![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
+![zy_shuangpin](https://images-1252557999.file.myqcloud.com/uPic/zy_shuangpin.jpg) 
 
-### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
+### [pixel](https://aqeja.github.io/pixel/)
 
-一份新冠预防及治疗指南：
+一个小工具，将你的图片像素化:
 
-![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
+![pixel](https://images-1252557999.file.myqcloud.com/uPic/KfJuhM.png) 
 
-### [uxdatabase](https://www.uxdatabase.io/)
+### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
 
-国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
+老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
 
-![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
+- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
+- Gemini Pro 体验地址：https://gemini.fre123.com/
+
+![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
 
 ## ✍️ 说明
 
