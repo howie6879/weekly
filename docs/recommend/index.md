@@ -5,107 +5,91 @@
 
 ## 🎯 项目 
 
-### [ecapture](https://github.com/ehids/ecapture)
+### [Message-Push-Nest](https://github.com/engigu/Message-Push-Nest)
 
-eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。使用Golang语言开发，具有良好的系统兼容性，无依赖快速部署，更适合云原生场景。
+打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义 `webhook` 等多种通知方式。定制你的消息，让通知方式更灵活多样。
 
-![ecapture](https://images-1252557999.file.myqcloud.com/uPic/ecapture.png) 
 
-### [rathole](https://github.com/rapiz1/rathole)
+![Message-Push-Nest](https://images-1252557999.file.myqcloud.com/uPic/Message-Push-Nest.jpg) 
 
-安全、稳定、高性能的内网穿透工具，用 Rust 语言编写。 
+### [halo](https://github.com/halo-dev/halo)
 
-### [wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook)
+✍ 一款现代化的开源博客& `CMS` 系统：
 
-一个支持消息收发的微信 `Webhook` 机器人🤖，但是要注意使用限制，不然可能被Ban，特性如下：
+![halo](https://images-1252557999.file.myqcloud.com/uPic/halo.jpg) 
 
-- 推送消息 (发送文字 / 图片 / 文件)
-- 接收消息（文字 / 图片 / 语音 / 视频 / 文件 / 好友申请 / 公众号推文链接）
-- Docker 部署等
+### [moffee](https://github.com/BMPixel/moffee)
 
-![wechatbot-webhook](https://images-1252557999.file.myqcloud.com/uPic/wechatbot-webhook.gif) 
+开源的 `Markdown` 幻灯片制作工具，可以将 `Markdown` 文档转换为专业的幻灯片（PPT）。它支持简单的语法、自动分页和样式设置，用户只需专注于内容，可以通过实时网页界面预览或导出为 `PDF`：
+
+![moffee](https://images-1252557999.file.myqcloud.com/uPic/moffee.png) 
 
 ## 🤖 软件 
 
-### [MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+### [RedisInsight](https://github.com/RedisInsight/RedisInsight)
 
-一款明日方舟游戏小助手，基于图像识别技术，一键完成全部日常任务：
+`REdisInsight` 是一个提供了设计、开发和优化 Redis 应用程序功能的可视化工具：
 
-- 刷理智，掉落识别及上传 企鹅物流，一图流
-- 智能基建换班，自动计算干员效率，单设施内最优解；同时也支持 自定义排班
-- 自动公招，可选使用加急许可，一次全部刷完！公招数据自动上传 企鹅物流，一图流
-- 支持手动识别公招界面，方便对高星公招做出选择 （你的这个高资回费出的是推王呢还是推王呢）
-- 支持识别干员列表，统计已有和未有干员及潜能，并在公招识别显示
-- 支持识别养成材料，并导出至 企鹅物流刷图规划、明日方舟工具箱、ARK-NIGHTS 干员培养表
-- 访问好友、收取信用及购物、领取日常奖励等，一键全日常自动长草
-- 肉鸽全自动刷源石锭和等级，自动烧水和凹直升，智能识别干员及练度
-- 选择作业 JSON 文件，自动抄作业， 视频演示
-- 支持 C, Python, Java, Rust, Golang, Java HTTP, Rust HTTP 等多种接口，方便集成调用，自定义你的 MAA
+![RedisInsight](https://images-1252557999.file.myqcloud.com/uPic/RedisInsight.png) 
 
-![MaaAssistantArknights](https://images-1252557999.file.myqcloud.com/uPic/YJj3rT.png) 
+### [Codeium](https://codeium.com/)
 
-### [revezone](https://github.com/revezone/revezone)
+基于 `AI` 赋能的编码智能助手，自动补全代码，开发者的福音，对标 `GitHub Copilot`：
 
-一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具：
+![codeium](https://images-1252557999.file.myqcloud.com/uPic/codeium.jpg) 
 
-![revezone](https://images-1252557999.file.myqcloud.com/uPic/revezone.jpg) 
+### [Übersicht](https://github.com/felixhageloh/uebersicht)
 
-### [Bili.Uwp](https://github.com/Richasy/Bili.Uwp)
+构建自定义小组件嵌入到桌面（macOS）展示，可以在桌面上添加时钟、天气、系统监视器等：
 
-一款**哔哩哔哩**的第三方应用，使用 `UWP` 框架开发，是原生的 `Windows` 应用，支持 `Windows 10/11` 桌面系统，主打设计和易用性：
-
-![Bili.Uwp](https://images-1252557999.file.myqcloud.com/uPic/Bili.Uwp.png) 
+![uebersicht](https://images-1252557999.file.myqcloud.com/uPic/uebersicht.jpeg) 
 
 ## 👀 资料 
 
-### [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)
+### [uxbaike](https://uxbaike.com/)
 
-从零开始 `Kubernetes` 攻防:
+UX 百科，属于设计师的专业知识库：
 
-![my-re0-k8s-security](https://images-1252557999.file.myqcloud.com/uPic/my-re0-k8s-security.jpg) 
+![uxbaike](https://images-1252557999.file.myqcloud.com/uPic/uxbaike.jpg) 
 
-### [ScienceFictionCollection](https://github.com/VeejaLiu/ScienceFictionCollection)
+### [awesome-ai-directory](https://github.com/iAmCorey/awesome-ai-directory)
 
-科幻小说作品集收集项目，包含以下作者的作品：
+💡 收录优质AI工具导航及开发学习资源聚合平台，这个列表致力于收集和整理各类优秀的AI相关资源网站，包括但不限于：
 
-- 刘慈欣 (Cixin Liu)
-- Frank Herbert (弗兰克・赫伯特)
-- Isaac Asimov (艾萨克・阿西莫夫)
-- Jules Gabriel Verne (儒勒・加布里埃尔・凡尔纳)
-- Mary Shelley (玛丽・雪莱)
-- Ray Douglas Bradbury (雷・道格拉斯・布拉德伯里)
-- Orson Scott Card (奥森・斯科特・卡德)
-- Ted Chiang (特德・姜)
-- Michael Swanwick (迈克尔・斯万维克) 
+- AI工具收录导航
+- AI模型接口资源
+- AI学习资料资源
+- AI新闻趋势聚合
 
-### [构筑大语言模型应用：应用开发与架构设计](https://github.com/phodal/aigc)
+![awesome-ai-directory](https://images-1252557999.file.myqcloud.com/uPic/0m1IbQ.png) 
 
-一本关于 `LLM` 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括 `Prompt` 的编写、开发和管理，探索最好的大语言模型能带来什么，以及 `LLM` 应用开发的模式和架构设计：
+### [learnprompting.org](https://learnprompting.org/zh-Hans/docs/intro)
 
-![phodal_aigc](https://images-1252557999.file.myqcloud.com/uPic/phodal_aigc.jpg) 
+> 如何同人工智能交流，并得到你要的结果。
+
+随着最近人工智能的不断进步，提示工程这项技能变得越来越重要。本课程会聚焦于如何使用提示工程。你不需要很多机器学习相关的知识。
+
+![learnprompting](https://images-1252557999.file.myqcloud.com/uPic/learnprompting.jpg) 
 
 ## 🕸 网站 
 
-### [冰墩墩-3d](https://dragonir.github.io/3d/#/olympic)
+### [jsont.run](https://www.jsont.run/)
 
-作者用Three.js 实现2022冬奥主题冰墩墩3D趣味页面 🐼 ，你可以转换不同视角来欣赏冰墩墩：
+一个简洁的在线 `JSON` 解析器：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/bdd-3d.png)
+![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
 
+### [新冠预防及治疗指南](https://www.mojidoc.com/03dbc-fgimwhphhvabnbzbxigh6cdnji-00b?utm_medium=sns&utm_source=v2ex&utm_content=1216)
 
-感兴趣可以看技术[原文](https://www.cnblogs.com/dragonir/p/15861204.html)。 
+一份新冠预防及治疗指南：
 
-### [ray.so/icon](https://ray.so/icon)
+![cg](https://images-1252557999.file.myqcloud.com/uPic/cg.jpg) 
 
-`Raycast` 出品的图标设计工具：
+### [uxdatabase](https://www.uxdatabase.io/)
 
-![rayso](https://images-1252557999.file.myqcloud.com/uPic/rayso.jpg) 
+国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
 
-### [ogimage.click](https://ogimage.click/)
-
-允许用户通过选择专业模板、自定义背景、渐变、网格叠加、噪声等属性来快速生成适用于社交媒体平台（如 Twitter、Facebook 和 LinkedIn）的吸引人的分享图片。用户可以无需注册即可免费使用所有功能，生成的图片可以导出为 PNG、JPEG 或 WebP 格式，并且支持多平台的优化尺寸。
-
-![ogimage](https://images-1252557999.file.myqcloud.com/uPic/WLVTc7.png) 
+![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
 
 ## ✍️ 说明
 
