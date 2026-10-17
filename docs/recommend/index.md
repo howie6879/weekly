@@ -5,95 +5,93 @@
 
 ## 🎯 项目 
 
-### [wg-easy](https://github.com/wg-easy/wg-easy)
+### [writefreely](https://github.com/writefreely/writefreely)
 
- `wg-easy` 提供一种简单的方式来运行 WireGuard VPN，并配备了 Web 管理界面。
+一个用于在网络上构建写作空间的开源平台：
 
-![wg-easy](https://images-1252557999.file.myqcloud.com/uPic/sXhRQS.png) 
+![writefreely](https://images-1252557999.file.myqcloud.com/uPic/writefreely.png) 
 
-### [go-cursor-help](https://github.com/yuaotian/go-cursor-help)
+### [xiaomusic](https://github.com/hanxi/xiaomusic)
 
-解决Cursor在免费订阅期间出现以下提示的问题: 
+使用小爱/红米音箱播放音乐，音乐使用 `yt-dlp` 下载：
 
-- You've reached your trial request limit. 
-- Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+- 播放歌曲
+- 播放歌曲+歌名 比如：播放歌曲周杰伦晴天
+- 下一首
+- 单曲循环
+- 全部循环
 
-![go-cursor-help](https://images-1252557999.file.myqcloud.com/uPic/r9vfJa.png) 
+支持 `Docker` 部署和简单管理界面。 
 
-### [surveyking](https://github.com/javahuang/surveyking)
+### [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi)
 
-功能挺全面的一个调查问卷系统：
+基于 `Mikan Project、qBittorrent` 的全自动追番整理下载工具。只需要在 `Mikan Project` 上订阅番剧，就可以全自动追番。并且整理完成的名称和目录可以直接被 `Plex、Jellyfin` 等媒体库软件识别，无需二次刮削：
 
-![surveyking](https://images-1252557999.file.myqcloud.com/uPic/surveyking.jpg) 
+![Auto_Bangumi](https://images-1252557999.file.myqcloud.com/uPic/Auto_Bangumi.png) 
 
 ## 🤖 软件 
 
-### [Dashboard](https://github.com/leon-kfd/Dashboard)
+### [jan](https://github.com/janhq/jan)
 
-开源的浏览器插件，用于自定义你的浏览器启动页：
+`Jan` 是一个开源的 `ChatGPT` 替代品，可以在您的计算机上100%离线运行各种 `LLM`。`Jan` 适用于任何硬件。从个人电脑到多 `GPU` 集群，`Jan` 支持通用架构：
 
-![Dashboard](https://images-1252557999.file.myqcloud.com/uPic/Dashboard.png) 
+![jan](https://images-1252557999.file.myqcloud.com/uPic/jan.jpg)
 
-### [Imagine](https://github.com/meowtec/Imagine)
+目前体验这三款，这个用户体验最好。 
 
-全平台支持的图片压缩软件：
+### [AirBattery](https://github.com/lihaoyun6/AirBattery)
 
-![Imagine](https://images-1252557999.file.myqcloud.com/uPic/KrSb9L.png)
+在 `Mac` 上获取你所有设备的电量信息并显示在 `Dock` / 状态栏 / 小组件上：
 
-看看这86%的压缩率还是挺上头的，而且效果很好。 
+![AirBattery](https://images-1252557999.file.myqcloud.com/uPic/AirBattery.jpg) 
 
-### [abogen](https://github.com/denizsafak/abogen)
+### [Weibo-archiver](https://github.com/Chilfish/Weibo-archiver)
 
-`Abogen` 是一个基于 `Kokoro-82M` 的文本到语音转换工具，能够快速将 EPUB、PDF 或文本文件转换为具有同步字幕的高质量音频，适用于制作有声读物、社交媒体语音旁白等。
+将微博导出备份的油猴脚本，为号被完全夹没前未雨绸缪 😭
 
-![abogen](https://images-1252557999.file.myqcloud.com/uPic/ZtsSUK.png) 
+![Weibo-archiver](https://images-1252557999.file.myqcloud.com/uPic/68747470733a2f2f702e6368696c666973682e746f702f776569626f2f666561747572652e77656270.webp) 
 
 ## 👀 资料 
 
-### [CUDA-Learn-Notes](https://github.com/xlite-dev/CUDA-Learn-Notes)
+### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
 
-一个 `Modern CUDA Learn Notes` 的仓库，提供了一个现代的 `CUDA` 学习资源库，包含了 `200+ CUDA` 核心和 100+ 技术博客，涵盖了从基础到高级的 `CUDA` 编程知识，以及如何使用 `PyTorch` 等高级接口进行 `CUDA` 编程的实践。 
+重新分类 Leetcode 高频题 2021 版
 
-### [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
+- 题目按照面试频率降序排列
+- 增加难度分类，适合从简单开始学习
+- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
 
-[浅墨](https://github.com/QianMo)的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding。
+### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
 
-**可惜永远都不会再更新了，默哀！**
+收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
 
-![gpsn](https://images-1252557999.file.myqcloud.com/uPic/oMF4xB.jpg) 
+![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
 
-### [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests)
+### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
 
-通过测试驱动学习Go语言，此书有除[英文版](https://github.com/quii/learn-go-with-tests)外还提供了中文版，有兴趣可以看看：
+《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
 
-- 通过编写测试学习 Go 语言
-- 为测试驱动开发打下基础。Go 是学习测试驱动开发的优秀语言，因为它简单易学而且内置测试功能
-- 相信你很快就可以使用 Go 语言编写健壮的、经过良好测试的系统
-
-![lgwt](https://images-1252557999.file.myqcloud.com/uPic/lgwt.jpg) 
+![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
 
 ## 🕸 网站 
 
-### [纸砚双拼](https://blog.simplenaive.cn/shuangpin/#/)
+### [bgsub](https://bgsub.cn/webapp)
 
-一个好看的双拼学习网站：
+消除或者替换图像背景，无需上传图像：
 
-![zy_shuangpin](https://images-1252557999.file.myqcloud.com/uPic/zy_shuangpin.jpg) 
+![bgsub](https://images-1252557999.file.myqcloud.com/uPic/bgsub.jpg) 
 
-### [pixel](https://aqeja.github.io/pixel/)
+### [Baidu 一格](https://yige.baidu.com/)
 
-一个小工具，将你的图片像素化:
+百度出品的文字生成图像模型：
 
-![pixel](https://images-1252557999.file.myqcloud.com/uPic/KfJuhM.png) 
+![yige](https://images-1252557999.file.myqcloud.com/uPic/yige.jpg) 
 
-### [自建在线体验 Gemini Pro](https://gemini.fre123.com/)
+### [jsonvisio](https://jsonvisio.com/editor)
 
-老胡昨晚熬夜基于谷歌开放的 `Gemini Pro API` 和 `babaohuang` 的开源项目 [GeminiProChat](https://github.com/babaohuang/GeminiProChat)(这项目不错，大家可以关注下) 搭建了一套 `Gemini Pro`，大家来体验玩玩：
+将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
 
-- [搭建文章](https://mp.weixin.qq.com/s/0FSltuCkaYJ0EFBxFtSYfA)
-- Gemini Pro 体验地址：https://gemini.fre123.com/
-
-![Xnip2023-12-22_14-12-10](https://images-1252557999.file.myqcloud.com/uPic/Xnip2023-12-22_14-12-10.jpg) 
+![](https://images-1252557999.file.myqcloud.com/uPic/jsonvisio.jpg) 
 
 ## ✍️ 说明
 
