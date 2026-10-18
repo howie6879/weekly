@@ -5,61 +5,53 @@
 
 ## 🎯 项目 
 
-### [writefreely](https://github.com/writefreely/writefreely)
+### [pandas-ai](https://github.com/sinaptik-ai/pandas-ai)
 
-一个用于在网络上构建写作空间的开源平台：
+通过使用大语言模型（LLMs）和基于检索的生成模型（RAG），让开发者与数据库或数据湖（比如 SQL、CSV、parquet 格式）的互动变得像聊天一样简单，从而大大简化了数据分析的过程：
 
-![writefreely](https://images-1252557999.file.myqcloud.com/uPic/writefreely.png) 
+![pandas-ai](https://images-1252557999.file.myqcloud.com/uPic/CJtrpq.png) 
 
-### [xiaomusic](https://github.com/hanxi/xiaomusic)
+### [Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese)
 
-使用小爱/红米音箱播放音乐，音乐使用 `yt-dlp` 下载：
+AI拟声: 克隆您的声音并生成任意语音内容。 
 
-- 播放歌曲
-- 播放歌曲+歌名 比如：播放歌曲周杰伦晴天
-- 下一首
-- 单曲循环
-- 全部循环
+### [chatlog](https://github.com/sjzar/chatlog)
 
-支持 `Docker` 部署和简单管理界面。 
+微信聊天记录工具，帮助大家轻松使用自己的聊天数据：
 
-### [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi)
+- 从本地数据库文件获取聊天数据
+- 支持 Windows / macOS 系统
+- 支持微信 3.x / 4.0 版本
+- 提供 Terminal UI 界面 & 命令行工具
+- 提供 HTTP API 服务，支持查询聊天记录、联系人、群聊、最近会话等信息
+- 支持 MCP SSE 协议，可与支持 MCP 的 AI 助手无缝集成
+- 支持多媒体消息，支持解密图片、语音
+- 支持自动解密数据，简化使用流程
+- 支持多账号管理，可在不同账号间切换
 
-基于 `Mikan Project、qBittorrent` 的全自动追番整理下载工具。只需要在 `Mikan Project` 上订阅番剧，就可以全自动追番。并且整理完成的名称和目录可以直接被 `Plex、Jellyfin` 等媒体库软件识别，无需二次刮削：
-
-![Auto_Bangumi](https://images-1252557999.file.myqcloud.com/uPic/Auto_Bangumi.png) 
+![chatlog](https://images-1252557999.file.myqcloud.com/uPic/NSigD0.png) 
 
 ## 🤖 软件 
 
-### [jan](https://github.com/janhq/jan)
+### [FileConverter](https://github.com/Tichau/FileConverter)
 
-`Jan` 是一个开源的 `ChatGPT` 替代品，可以在您的计算机上100%离线运行各种 `LLM`。`Jan` 适用于任何硬件。从个人电脑到多 `GPU` 集群，`Jan` 支持通用架构：
+`File Converter` 是一个简单的工具，允许用户通过 Windows 资源管理器的上下文菜单转换和压缩文件：
 
-![jan](https://images-1252557999.file.myqcloud.com/uPic/jan.jpg)
+![FileConverter](https://images-1252557999.file.myqcloud.com/uPic/3Mtc4V.png) 
 
-目前体验这三款，这个用户体验最好。 
+### [Cloud Document Converter](https://github.com/lujunji4113/cloud-document-converter/tree/main)
 
-### [AirBattery](https://github.com/lihaoyun6/AirBattery)
+一个 `Chrome` 扩展， 支持下载、复制飞书云文档为 `Markdown`：
 
-在 `Mac` 上获取你所有设备的电量信息并显示在 `Dock` / 状态栏 / 小组件上：
+![Cloud Document Converter](https://images-1252557999.file.myqcloud.com/uPic/ATwWi4.png) 
 
-![AirBattery](https://images-1252557999.file.myqcloud.com/uPic/AirBattery.jpg) 
+### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
 
-### [Weibo-archiver](https://github.com/Chilfish/Weibo-archiver)
+`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
 
-将微博导出备份的油猴脚本，为号被完全夹没前未雨绸缪 😭
-
-![Weibo-archiver](https://images-1252557999.file.myqcloud.com/uPic/68747470733a2f2f702e6368696c666973682e746f702f776569626f2f666561747572652e77656270.webp) 
+![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
 
 ## 👀 资料 
-
-### [Leetcode-retag](https://github.com/resumejob/Leetcode-retag)
-
-重新分类 Leetcode 高频题 2021 版
-
-- 题目按照面试频率降序排列
-- 增加难度分类，适合从简单开始学习
-- 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别 
 
 ### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
 
@@ -67,31 +59,37 @@
 
 ![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
 
-### [python-guide-for-javascript-engineers](https://github.com/luckrnx09/python-guide-for-javascript-engineers)
+### [miaosha](https://github.com/qiurunze123/miaosha)
 
-《JavaScript 工程师的 Python 指南》是一本AI为主编写的开源电子书，涵盖了从 `Python` 环境安装到项目开发的方方面面。本书通过大量案例对比 `JavaScript` 和 `Python` 语言的异同，帮助 `JavaScript` 工程师快速掌握 `Python` 语言：
+高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
 
-![python-guide-for-javascript-engineers](https://images-1252557999.file.myqcloud.com/uPic/python-guide-for-javascript-engineers.jpg) 
+![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
+
+### [大模型交叉研讨课](https://www.openbmb.org/community/course)
+
+OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：
+
+![openbmb_course](https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg) 
 
 ## 🕸 网站 
 
-### [bgsub](https://bgsub.cn/webapp)
+### [morphic.sh](https://www.morphic.sh/)
 
-消除或者替换图像背景，无需上传图像：
+一个开源的 AI 搜索引擎，支持 `Vercel` 自建部署，可选 `OpenAI、Gemini`，以及最新的 `Llama3` 大模型，网站开源 [morphic](https://github.com/miurla/morphic)：
 
-![bgsub](https://images-1252557999.file.myqcloud.com/uPic/bgsub.jpg) 
+![morphic](https://images-1252557999.file.myqcloud.com/uPic/morphic.jpg) 
 
-### [Baidu 一格](https://yige.baidu.com/)
+### [codrops](https://tympanus.net/codrops/demos/)
 
-百度出品的文字生成图像模型：
+可免费下载使用的原型动画 UI 布局（ 500+ free demos）：
 
-![yige](https://images-1252557999.file.myqcloud.com/uPic/yige.jpg) 
+![6690d09244aa9](https://img.fre123.com/i/2024/07/12/6690d09244aa9.jpg) 
 
-### [jsonvisio](https://jsonvisio.com/editor)
+### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
 
-将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
+老照片修复工具，同时还提供上色和去背景功能：
 
-![](https://images-1252557999.file.myqcloud.com/uPic/jsonvisio.jpg) 
+![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
 
 ## ✍️ 说明
 
