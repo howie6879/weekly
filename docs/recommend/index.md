@@ -5,91 +5,95 @@
 
 ## 🎯 项目 
 
-### [pandas-ai](https://github.com/sinaptik-ai/pandas-ai)
+### [podman](https://github.com/containers/podman)
 
-通过使用大语言模型（LLMs）和基于检索的生成模型（RAG），让开发者与数据库或数据湖（比如 SQL、CSV、parquet 格式）的互动变得像聊天一样简单，从而大大简化了数据分析的过程：
+`Podman` 是从 `CRI-O` 独立出来的一个项目，这是一个无守护进程的开源Linux 原生工具，旨在使用开放容器协议 (OCI) 容器和容器镜像轻松查找、运行、构建、共享和部署应用程序。
 
-![pandas-ai](https://images-1252557999.file.myqcloud.com/uPic/CJtrpq.png) 
+受不了 Docker 桌面版的可以直接用这个替换，软件部分也介绍了 `Podman` 的桌面版 [podman-desktop](https://github.com/containers/podman-desktop)。
 
-### [Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese)
+![podman](https://images-1252557999.file.myqcloud.com/uPic/podman.jpg) 
 
-AI拟声: 克隆您的声音并生成任意语音内容。 
+### [ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine)
 
-### [chatlog](https://github.com/sjzar/chatlog)
+随着 `TikTok` 和 `Youtube` 等短视频内容的兴起，比以往任何时候都有更多的知识存在于视频中。对于任何一个人来说，在数百万个视频中找到特定答案可能是困难的，而这个项目([https://avse.vercel.app/](https://avse.vercel.app/))就是针对这个问题进行探索：
 
-微信聊天记录工具，帮助大家轻松使用自己的聊天数据：
+![ai-video-search-engine](https://images-1252557999.file.myqcloud.com/uPic/ai-video-search-engine.jpg) 
 
-- 从本地数据库文件获取聊天数据
-- 支持 Windows / macOS 系统
-- 支持微信 3.x / 4.0 版本
-- 提供 Terminal UI 界面 & 命令行工具
-- 提供 HTTP API 服务，支持查询聊天记录、联系人、群聊、最近会话等信息
-- 支持 MCP SSE 协议，可与支持 MCP 的 AI 助手无缝集成
-- 支持多媒体消息，支持解密图片、语音
-- 支持自动解密数据，简化使用流程
-- 支持多账号管理，可在不同账号间切换
+### [BabelDOC](https://github.com/funstory-ai/BabelDOC)
 
-![chatlog](https://images-1252557999.file.myqcloud.com/uPic/NSigD0.png) 
+一个开源的文档翻译工具，支持多语言和多种 `PDF` 处理选项，可以免费翻译 `PDF` 文件中的前 1000 页内容。它提供了一个简单的命令行界面，以及 `Python API` 的支持，主要用于集成到其他软件中，也可以直接用于简单的翻译任务：
+
+![BabelDOC](https://images-1252557999.file.myqcloud.com/uPic/l8jWhb.png) 
 
 ## 🤖 软件 
 
-### [FileConverter](https://github.com/Tichau/FileConverter)
+### [Focalboard](https://github.com/mattermost/focalboard)
 
-`File Converter` 是一个简单的工具，允许用户通过 Windows 资源管理器的上下文菜单转换和压缩文件：
+`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
 
-![FileConverter](https://images-1252557999.file.myqcloud.com/uPic/3Mtc4V.png) 
+![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
 
-### [Cloud Document Converter](https://github.com/lujunji4113/cloud-document-converter/tree/main)
+### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
-一个 `Chrome` 扩展， 支持下载、复制飞书云文档为 `Markdown`：
+开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
 
-![Cloud Document Converter](https://images-1252557999.file.myqcloud.com/uPic/ATwWi4.png) 
+![hitomi](https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif) 
 
-### [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)
+### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 
-`Beekeeper Studio` 是一个跨平台的 `SQL` 编辑器和数据库管理器，适用于 `Linux、Mac、Windows`：
+中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
 
-![beekeeper-studio](https://images-1252557999.file.myqcloud.com/uPic/beekeeper-studio.jpg) 
+![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
 
 ## 👀 资料 
 
-### [apple_power_user](https://kuanhsiaokuo.github.io/apple_power_user/)
+### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
 
-收录了作者使用 `macOS` 过程积累下来的一些软件和技巧：
+[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
 
-![apple_power_user](https://images-1252557999.file.myqcloud.com/uPic/apple_power_user.jpg) 
+目前也提供了中文版：
 
-### [miaosha](https://github.com/qiurunze123/miaosha)
+![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
 
-高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统：
+### [Large Language Models Practical Course](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce)
 
-![miaosha](https://images-1252557999.file.myqcloud.com/uPic/WXcZTY.jpg) 
+开源([Large Language Models Practical Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course))的关于大型语言模型的实践课程，通过使用 `OpenAI` 和 `Hugging Face` 库的模型进行实际操作来提供实践经验，课程主要包括：
 
-### [大模型交叉研讨课](https://www.openbmb.org/community/course)
+- Techniques and Libraries
+- Projects
+- Enterprise Solutions
 
-OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：
+![large-language-models-practical-course](https://images-1252557999.file.myqcloud.com/uPic/large-language-models-practical-course.jpg)
 
-![openbmb_course](https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg) 
+> 附带一个 Mac 微调大模型的文章：[A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) 
+
+### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
+
+本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
+
+我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
+
+无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
 
 ## 🕸 网站 
 
-### [morphic.sh](https://www.morphic.sh/)
+### [drawl.ink](https://drawl.ink/)
 
-一个开源的 AI 搜索引擎，支持 `Vercel` 自建部署，可选 `OpenAI、Gemini`，以及最新的 `Llama3` 大模型，网站开源 [morphic](https://github.com/miurla/morphic)：
+将链接转化成好看的图片：
 
-![morphic](https://images-1252557999.file.myqcloud.com/uPic/morphic.jpg) 
+![drawl](https://images-1252557999.file.myqcloud.com/uPic/eltzuF.png) 
 
-### [codrops](https://tympanus.net/codrops/demos/)
+### [xsgames](https://xsgames.co/pixelme/)
 
-可免费下载使用的原型动画 UI 布局（ 500+ free demos）：
+免费的像素头像生成网站：
 
-![6690d09244aa9](https://img.fre123.com/i/2024/07/12/6690d09244aa9.jpg) 
+![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
 
-### [oldpicrestore](https://www.oldpicrestore.com/restore?id=1&type=Restore-Photo)
+### [ziyouziti](https://ziyouziti.com/)
 
-老照片修复工具，同时还提供上色和去背景功能：
+免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
 
-![oldpicrestore](https://images-1252557999.file.myqcloud.com/uPic/oldpicrestore.jpg) 
+![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
 
 ## ✍️ 说明
 
