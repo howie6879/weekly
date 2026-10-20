@@ -5,95 +5,88 @@
 
 ## 🎯 项目 
 
-### [podman](https://github.com/containers/podman)
+### [ai-trend-publish](https://github.com/OpenAISpace/ai-trend-publish)
 
-`Podman` 是从 `CRI-O` 独立出来的一个项目，这是一个无守护进程的开源Linux 原生工具，旨在使用开放容器协议 (OCI) 容器和容器镜像轻松查找、运行、构建、共享和部署应用程序。
+基于 Deno 开发的趋势发现和内容发布系统，支持多源数据采集、智能总结和自动发布到微信公众号。 
 
-受不了 Docker 桌面版的可以直接用这个替换，软件部分也介绍了 `Podman` 的桌面版 [podman-desktop](https://github.com/containers/podman-desktop)。
+### [personal-management-system](https://github.com/Volmarg/personal-management-system)
 
-![podman](https://images-1252557999.file.myqcloud.com/uPic/podman.jpg) 
+该项目可以很方便的管理个人数据，如目标规划/笔记/联系人/密码/附件/图片/文件等等：
 
-### [ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine)
+![personal-management-system](https://images-1252557999.file.myqcloud.com/uPic/C6hnHx.jpg) 
 
-随着 `TikTok` 和 `Youtube` 等短视频内容的兴起，比以往任何时候都有更多的知识存在于视频中。对于任何一个人来说，在数百万个视频中找到特定答案可能是困难的，而这个项目([https://avse.vercel.app/](https://avse.vercel.app/))就是针对这个问题进行探索：
+### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
 
-![ai-video-search-engine](https://images-1252557999.file.myqcloud.com/uPic/ai-video-search-engine.jpg) 
+基于 `SOTA AI` 模型的图片免费开源修补工具：
 
-### [BabelDOC](https://github.com/funstory-ai/BabelDOC)
-
-一个开源的文档翻译工具，支持多语言和多种 `PDF` 处理选项，可以免费翻译 `PDF` 文件中的前 1000 页内容。它提供了一个简单的命令行界面，以及 `Python API` 的支持，主要用于集成到其他软件中，也可以直接用于简单的翻译任务：
-
-![BabelDOC](https://images-1252557999.file.myqcloud.com/uPic/l8jWhb.png) 
+![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
 
 ## 🤖 软件 
 
-### [Focalboard](https://github.com/mattermost/focalboard)
+### [DevHub](https://github.com/jaywcjlove/DevHub)
 
-`Focalboard`是一个开源可自部署的项目管理工具，可用于替代`Trello Notion Asana`，值得一提的是该项目提供了全平台的桌面软件支持。
+面向开发者的工具箱软件：
 
-![Focalboard](https://images-1252557999.file.myqcloud.com/uPic/K3Ibbl.jpg) 
+![DevHub](https://images-1252557999.file.myqcloud.com/uPic/N2tzTT.png) 
 
-### [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+### [glass](https://github.com/pickle-com/glass)
 
-开源的桌面实用软件，用于从各种网站下载图像/视频/音乐/文本等：
+`Glass` 提供了一个轻量级、开源的桌面应用程序，能够实时监听和理解用户的上下文，将信息转化为结构化知识。在会议中，它能够主动提供行动项、摘要和即时答案。该应用程序设计为 “真正隐形”，不会出现在屏幕录制、截图或任务栏中，并且不会进行持续捕获或隐秘分享。
 
-![hitomi](https://images-1252557999.file.myqcloud.com/uPic/hitomi.gif) 
+![glass](https://images-1252557999.file.myqcloud.com/uPic/1SEd05.png) 
 
-### [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
+### [miru-app](https://github.com/miru-project/miru-app)
 
-中文 DOS 游戏合集，目前共有 1898 款游戏，用户可以直接在作者提供的[网页](https://dos.zczc.cz/)上玩这些游戏，想找点小时候玩游戏感觉的话，可以试试看：
+免费、开源的 支持视频、漫画、小说扩展源的多功能应用，支持 `Android、Windows、Web`：
 
-![DOS](https://images-1252557999.file.myqcloud.com/uPic/DOS.png) 
+- 支持 windows,android
+- 友好的扩展编写支持、调试日志
+- 扩展使用 JavaScript 语言，开发简单
+- 支持自定义扩展仓库
+- 官方扩展仓库提供视频源，无需编写任何扩展即可使用
+- 支持在线观看多种视频、漫画、小说源，实现多平台的统一
+- 统一系统 UI 的设计语言
+- 自动获取 TMDB 元数据信息
+
+![657c8025be23f](https://img.fre123.com/i/2023/12/16/657c8025be23f.jpg) 
 
 ## 👀 资料 
 
-### [分布式系统模式](https://github.com/dreamhead/patterns-of-distributed-systems)
+### [awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)
 
-[《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)是 `Unmesh Joshi` 编写的一系列关于分布式系统实现的文章。这个系列的文章采用模式的格式，介绍了像 Kafka、Zookeeper 这种分布式系统在实现过程采用的通用模式，是学习分布式系统实现的基础。
+一个专门收集实用的大型语言模型（LLM）应用示例、教程和食谱的资源库，用于指导开发者使用不同的 AI 框架和工具构建强大的应用程序。从简单的聊天机器人到高级 `AI Agent`，这些项目覆盖了从基础到高级的多种 AI 应用场景。
 
-目前也提供了中文版：
+![awesome-ai-apps](https://images-1252557999.file.myqcloud.com/uPic/9HwpHf.png) 
 
-![patterns-of-distributed-systems](https://images-1252557999.file.myqcloud.com/uPic/ZlA2Zu.png) 
+### [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity)
 
-### [Large Language Models Practical Course](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce)
+`Solidity` 极简入门：
 
-开源([Large Language Models Practical Course](https://github.com/peremartra/Large-Language-Model-Notebooks-Course))的关于大型语言模型的实践课程，通过使用 `OpenAI` 和 `Hugging Face` 库的模型进行实际操作来提供实践经验，课程主要包括：
+![WTF-Solidity](https://images-1252557999.file.myqcloud.com/uPic/WTF-Solidity.jpeg) 
 
-- Techniques and Libraries
-- Projects
-- Enterprise Solutions
+### [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
 
-![large-language-models-practical-course](https://images-1252557999.file.myqcloud.com/uPic/large-language-models-practical-course.jpg)
-
-> 附带一个 Mac 微调大模型的文章：[A simple guide to local LLM fine-tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/) 
-
-### [ChatGPT提问技巧](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
-
-本书是一本全面指南，介绍了各种提示技术，用于从ChatGPT中生成高质量的答案。
-
-我们将探讨如何使用不同的提示工程技术来实现不同的目标。ChatGPT是一款最先进的语言模型，能够生成类似人类的文本。然而，理解如何正确地向ChatGPT提问以获得我们所需的高质量输出非常重要。而这正是本书的目的。
-
-无论您是普通人、研究人员、开发人员，还是只是想在自己的领域中将ChatGPT作为个人助手的人，本书都是为您编写的。我使用简单易懂的语言，提供实用的解释，并在每个提示技术中提供了示例和提示公式。通过本书，您将学习如何使用提示工程技术来控制ChatGPT的输出，并生成符合您特定需求的文本。 
+对开发人员有用的定律、理论、原则和模式，这是项目[hacker-laws](https://github.com/dwmkerr/hacker-laws) 的的中文翻译。 
 
 ## 🕸 网站 
 
-### [drawl.ink](https://drawl.ink/)
+### [libhunt](https://www.libhunt.com/)
 
-将链接转化成好看的图片：
+一个对开源项目进行分类并排名的网站：
 
-![drawl](https://images-1252557999.file.myqcloud.com/uPic/eltzuF.png) 
+![libhunt](https://images-1252557999.file.myqcloud.com/uPic/libhunt.jpg) 
 
-### [xsgames](https://xsgames.co/pixelme/)
+### [send.internxt.com](https://send.internxt.com/)
 
-免费的像素头像生成网站：
+文件上传分享网站，如果有临时文件传输的场景，可以使用：
 
-![xsgames](https://images-1252557999.file.myqcloud.com/uPic/xsgames.jpg) 
+![internxt](https://images-1252557999.file.myqcloud.com/uPic/internxt.jpg) 
 
-### [ziyouziti](https://ziyouziti.com/)
+### [caniuse](https://caniuse.com/)
 
-免费商用字体大全，不必东翻西找，已为你收集全网免费商用字体， 个个都经过核对确认，自用商用无侵权风险：
+网站供了最新的浏览器支持表，能帮你检查支持台式机和移动 `Web` 浏览器上的前端技术：
 
-![ziyouziti](https://images-1252557999.file.myqcloud.com/uPic/ziyouziti.jpg) 
+![caniuse](https://images-1252557999.file.myqcloud.com/uPic/caniuse.jpg) 
 
 ## ✍️ 说明
 
