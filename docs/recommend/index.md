@@ -5,88 +5,103 @@
 
 ## 🎯 项目 
 
-### [FastChat](https://github.com/lm-sys/FastChat)
+### [AudioNotes](https://github.com/harry0703/AudioNotes)
 
-这是一个开放的平台，可用于训练、部署和评估基于大型语言模型的聊天机器人。也就是说，这个平台可以帮助人们创建聊天机器人，让其具备更好的语言理解能力，并提供一个可靠的方式来测试和评估这些聊天机器人的表现：
+基于 `FunASR&Qwen2` 构建的音视频转结构化笔记系统，能够快速提取音视频的内容，并且调用大模型进行整理，成为一份结构化的 `markdown` 笔记，方便快速阅读：
 
-![FastChat](https://images-1252557999.file.myqcloud.com/uPic/FastChat.jpg) 
+![AudioNotes](https://images-1252557999.file.myqcloud.com/uPic/AudioNotes.jpg) 
 
-### [wiseflow](https://github.com/TeamWiseFlow/wiseflow)
+### [autocorrect](https://github.com/huacnlee/autocorrect)
 
-使用大模型从海量信息、各类信源中每日挖掘你真正感兴趣的信息！我们缺的不是信息，而是从海量信息中过滤噪音，从而让有价值的信息显露出来🌱看看AI情报官是如何帮您节省时间，过滤无关信息，并整理关注要点的吧！🌱
+AutoCorrect 是一个基于 Rust 编写的工具，用于「自动纠正」或「检查并建议」文案，给 CJK（中文、日语、韩语）与英文混写的场景，补充正确的空格，纠正单词，同时尝试以安全的方式自动纠正标点符号等等。
 
-> 毕竟是基于爬虫，稳定性是个比较大的问题。 
+类似 ESlint、Rubocop、Gofmt 等工具，AutoCorrect 可以用于 CI 环境，它提供 Lint 功能，能便捷的检测出项目中有问题的文案，起到统一规范的作用。
 
-### [Rin](https://github.com/OXeu/Rin)
+支持各种类型源代码文件，能自动识别文件名，并准确找到字符串、注释做自动纠正。
 
-⚡️`Rin` 是一个基于 `Cloudflare Pages + Workers + D1 + R2` 全家桶的博客，无需服务器无需备案，只需要一个解析到 `Cloudflare` 的域名即可部署：
+![autocorrect](https://images-1252557999.file.myqcloud.com/uPic/autocorrect.png) 
 
-![Rin](https://images-1252557999.file.myqcloud.com/uPic/Rin.jpg) 
+### [MoonTV](https://github.com/senshinya/MoonTV)
+
+🎬 `MoonTV` 是一个开箱即用的、跨平台的影视聚合播放器。它基于 `Next.js 14 + Tailwind CSS + TypeScript` 构建，支持多资源搜索、在线播放、收藏同步、播放记录、本地/云端存储，让你可以随时随地畅享海量免费影视内容。
+
+- 🔍 多源聚合搜索：内置数十个免费资源站点，一次搜索立刻返回全源结果。
+- 📄 丰富详情页：支持剧集列表、演员、年份、简介等完整信息展示。
+- ▶️ 流畅在线播放：集成 HLS.js & VidStack。
+- ❤️ 收藏 + 继续观看：Docker 部署支持 Redis 存储，多端同步进度。
+- 📱 PWA：离线缓存、安装到桌面/主屏，移动端原生体验。
+- 🌗 响应式布局：桌面侧边栏 + 移动底部导航，自适应各种屏幕尺寸。
+- 🚀 极简部署：一条 Docker 命令即可将完整服务跑起来，或免费部署到 Vercel。
+- 👿 智能去广告：自动跳过视频中的切片广告（实验性）
+
+![MoonTV](https://images-1252557999.file.myqcloud.com/uPic/8bdYCW.png)
+
+这个和之前推荐的 [LibreTV](https://github.com/LibreSpark/LibreTV) 一样的实现思路，仅仅是界面和一些小功能有点差别，都能用。
+
+这里有个搭建好的，可直接用 [kanmaoxian.online](https://kanmaoxian.online/)，密码是: kanmaoxian 
 
 ## 🤖 软件 
 
-### [BlogHelper](https://github.com/onblog/BlogHelper)
+### [Hail](https://github.com/aistra0528/Hail)
 
-帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）。
+雹(Hail) 是一个允许用户在没有 root 权限的情况下，通过冻结、隐藏、暂停或卸载来管理 Android 应用的自由软件：
 
-![BlogHelper](https://images-1252557999.file.myqcloud.com/uPic/BlogHelper.jpeg) 
+![Hail](https://images-1252557999.file.myqcloud.com/uPic/nhaDp1.png) 
 
-### [azusa-player-mobile](https://github.com/lovegaoshi/azusa-player-mobile)
+### [RTranslator](https://github.com/niedev/RTranslator)
 
-一个 `Bilibili` 第三方音频播放器：
+`RTransator` 是一个(几乎)开源的、免费的、离线的 `Android` 实时翻译应用程序。
 
-![azusa-player-mobile](https://images-1252557999.file.myqcloud.com/uPic/azusa-player-mobile.jpg) 
+连接到有这个应用程序的人，连接蓝牙耳机，把手机放在你的口袋里，你就可以像对方说你的语言一样进行交谈。
 
-### [Obtainium](https://github.com/ImranR98/Obtainium)
+![RTranslator](https://images-1252557999.file.myqcloud.com/uPic/RTranslator.jpg) 
 
-聚合安卓应用源，然后获取程序更新，`Obtainium` 允许用户直接从发布页面安装和更新应用程序，并在发布新版本时接收通知：
+### [Sloth](https://github.com/sveinbjornt/Sloth)
 
-![Obtainium](https://images-1252557999.file.myqcloud.com/uPic/Obtainium.jpg) 
+`Sloth` 是一款原生的 `Mac` 应用程序，它显示系统上所有正在运行软件所有打开的文件、目录、套接字、管道和设备，用户可以很简单地掌控自己的电脑文件使用权限：
+
+![Sloth](https://images-1252557999.file.myqcloud.com/uPic/Sloth.jpeg) 
 
 ## 👀 资料 
 
-### RustBook
+### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
 
-一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
+本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
 
-![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg) 
+![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
 
-### [AI-System](https://github.com/microsoft/AI-System)
+### [大李敖全集5.0](https://books.leeao.net/)
 
-微软开源在`Github`上面的课程《人工智能系统》主要讲解支持人工智能的计算机系统设计：
+大李敖全集：
 
-![AI-System](https://images-1252557999.file.myqcloud.com/uPic/ZfT8O8.png) 
+![leeao](https://images-1252557999.file.myqcloud.com/uPic/UDFeW1.png) 
 
-### [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
+### [how-web-works](https://github.com/vasanthk/how-web-works)
 
-教程：小型金融知识图谱流程示范。 
+当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
 
 ## 🕸 网站 
 
-### [xiaobot.so](https://www.xiaobot.so/)
+### [toonme](https://toonme.com)
 
-老胡团队整的一个小报童专栏导航网站（测试一两周后就会开源，有兴趣可期待），和其他小报童导航相比：
+该网站将原图绘制成可爱的卡通图片：
 
-- AI 自动打标签
-- 增加订阅用户&文章更新数量趋势统计
-- 增加专栏内页，有利于 SEO
-- 更漂亮<持保留态度，但老胡是实打实请设计师帮忙设计的>
+![toonme](https://images-1252557999.file.myqcloud.com/uPic/toonme.jpg) 
 
-![xiaobot_so](https://images-1252557999.file.myqcloud.com/uPic/xiaobot_so.jpg)
+### [小鱼速读](http://www.xysudu.com/)
 
-如果有你适合的专栏，可以购买支持下～ 
+该网站收藏了B站上各位大佬发布的经典速读视频：
 
-### [nosh](https://nosh.rocks/)
+- 书籍：大类包括豆瓣总榜、科幻小说、推理悬疑、科学普及、历史经典、政治经济……11大类，一共667本经典书籍
+- 影视：大类包括内地剧、美剧、动漫、港剧、日剧、韩剧
 
-一款在线的三栏 RSS 阅读器，[开源](https://github.com/mikefrancis/nosh)免费，支持`PWA`。
+![xysudu](https://images-1252557999.file.myqcloud.com/uPic/xysudu.jpg) 
 
-![nosh](https://images-1252557999.file.myqcloud.com/uPic/3ng4bw.png) 
+### [wanqu.co](https://www.wanqu.co/)
 
-### [xiake.pro](https://xiake.pro/)
+湾区日报. 关注创业，互联网，技术。就像是你远方的老朋友每天推荐几篇优质英文文章，一起每天进步一点点:
 
-虾壳是一个GitHub下载加速网站，提供GitHub文件加速服务，支持API、Git以及Releases、 Archive、gist、raw.githubusercontent.com等文件代理加速下载。
-
-![xiake](https://images-1252557999.file.myqcloud.com/uPic/quiQlF.png) 
+![wanqu](https://images-1252557999.file.myqcloud.com/uPic/wanqu.jpg) 
 
 ## ✍️ 说明
 
