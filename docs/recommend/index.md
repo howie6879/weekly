@@ -5,103 +5,108 @@
 
 ## 🎯 项目 
 
-### [AudioNotes](https://github.com/harry0703/AudioNotes)
+### [wallabag](https://github.com/wallabag/wallabag)
 
-基于 `FunASR&Qwen2` 构建的音视频转结构化笔记系统，能够快速提取音视频的内容，并且调用大模型进行整理，成为一份结构化的 `markdown` 笔记，方便快速阅读：
+一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
 
-![AudioNotes](https://images-1252557999.file.myqcloud.com/uPic/AudioNotes.jpg) 
+- 浏览器插件收集网页信息
+- 安卓/IOS/网页端阅读以及管理
 
-### [autocorrect](https://github.com/huacnlee/autocorrect)
+![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
 
-AutoCorrect 是一个基于 Rust 编写的工具，用于「自动纠正」或「检查并建议」文案，给 CJK（中文、日语、韩语）与英文混写的场景，补充正确的空格，纠正单词，同时尝试以安全的方式自动纠正标点符号等等。
+### [ChatGPT](https://chat.openai.com/chat)
 
-类似 ESlint、Rubocop、Gofmt 等工具，AutoCorrect 可以用于 CI 环境，它提供 Lint 功能，能便捷的检测出项目中有问题的文案，起到统一规范的作用。
+本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
 
-支持各种类型源代码文件，能自动识别文件名，并准确找到字符串、注释做自动纠正。
+- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
+- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
+- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
+- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
+- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
+- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
+- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
 
-![autocorrect](https://images-1252557999.file.myqcloud.com/uPic/autocorrect.png) 
+### [mdx-editor](https://github.com/maqi1520/mdx-editor)
 
-### [MoonTV](https://github.com/senshinya/MoonTV)
+一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
 
-🎬 `MoonTV` 是一个开箱即用的、跨平台的影视聚合播放器。它基于 `Next.js 14 + Tailwind CSS + TypeScript` 构建，支持多资源搜索、在线播放、收藏同步、播放记录、本地/云端存储，让你可以随时随地畅享海量免费影视内容。
-
-- 🔍 多源聚合搜索：内置数十个免费资源站点，一次搜索立刻返回全源结果。
-- 📄 丰富详情页：支持剧集列表、演员、年份、简介等完整信息展示。
-- ▶️ 流畅在线播放：集成 HLS.js & VidStack。
-- ❤️ 收藏 + 继续观看：Docker 部署支持 Redis 存储，多端同步进度。
-- 📱 PWA：离线缓存、安装到桌面/主屏，移动端原生体验。
-- 🌗 响应式布局：桌面侧边栏 + 移动底部导航，自适应各种屏幕尺寸。
-- 🚀 极简部署：一条 Docker 命令即可将完整服务跑起来，或免费部署到 Vercel。
-- 👿 智能去广告：自动跳过视频中的切片广告（实验性）
-
-![MoonTV](https://images-1252557999.file.myqcloud.com/uPic/8bdYCW.png)
-
-这个和之前推荐的 [LibreTV](https://github.com/LibreSpark/LibreTV) 一样的实现思路，仅仅是界面和一些小功能有点差别，都能用。
-
-这里有个搭建好的，可直接用 [kanmaoxian.online](https://kanmaoxian.online/)，密码是: kanmaoxian 
+![mdx-editor](https://images-1252557999.file.myqcloud.com/uPic/mdx-editor.jpg) 
 
 ## 🤖 软件 
 
-### [Hail](https://github.com/aistra0528/Hail)
+### [marktext](https://github.com/marktext/marktext)
 
-雹(Hail) 是一个允许用户在没有 root 权限的情况下，通过冻结、隐藏、暂停或卸载来管理 Android 应用的自由软件：
+一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
 
-![Hail](https://images-1252557999.file.myqcloud.com/uPic/nhaDp1.png) 
+![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
 
-### [RTranslator](https://github.com/niedev/RTranslator)
+### [Klee](https://github.com/signerlabs/Klee)
 
-`RTransator` 是一个(几乎)开源的、免费的、离线的 `Android` 实时翻译应用程序。
+通过内置的 `RAG` 知识库和 `Markdown` 笔记支持，在您的桌面上安全本地人工智能：
 
-连接到有这个应用程序的人，连接蓝牙耳机，把手机放在你的口袋里，你就可以像对方说你的语言一样进行交谈。
+![Klee](https://images-1252557999.file.myqcloud.com/uPic/AYykm3.png) 
 
-![RTranslator](https://images-1252557999.file.myqcloud.com/uPic/RTranslator.jpg) 
+### [box](https://github.com/liu673cn/box)
 
-### [Sloth](https://github.com/sveinbjornt/Sloth)
+TVBox 开源版:
 
-`Sloth` 是一款原生的 `Mac` 应用程序，它显示系统上所有正在运行软件所有打开的文件、目录、套接字、管道和设备，用户可以很简单地掌控自己的电脑文件使用权限：
+- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
+- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
+- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
+- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
+- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
+- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
+- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
+- 配置地址---输入站源---确定即可 URL站源规则
 
-![Sloth](https://images-1252557999.file.myqcloud.com/uPic/Sloth.jpeg) 
+![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
 
 ## 👀 资料 
 
-### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
+### [easy_rust](https://github.com/Dhghomon/easy_rust)
 
-本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
+现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
 
-![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
+你可以用以下方式浏览：
 
-### [大李敖全集5.0](https://books.leeao.net/)
+- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
+- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
+- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
 
-大李敖全集：
+![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
 
-![leeao](https://images-1252557999.file.myqcloud.com/uPic/UDFeW1.png) 
+### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
 
-### [how-web-works](https://github.com/vasanthk/how-web-works)
+这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
 
-当我们在浏览器中输入 `www.google. com` 后面会发生什么？相信不少人面试时候都会被面试官问这个问题，而这个项目则将这个过程介绍得非常详细！ 
+![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
+
+### [Sensitive-lexicon](https://github.com/konsheng/Sensitive-lexicon)
+
+一个持续更新的中文敏感词库，帮助开发者和内容审核者快速识别并过滤不当文本，国内做需要用户评论相关业务还是很有用。 
 
 ## 🕸 网站 
 
-### [toonme](https://toonme.com)
+### [smalldev.tools](https://smalldev.tools/)
 
-该网站将原图绘制成可爱的卡通图片：
+开发者常用工具集：
 
-![toonme](https://images-1252557999.file.myqcloud.com/uPic/toonme.jpg) 
+![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
 
-### [小鱼速读](http://www.xysudu.com/)
+### [lz.qaiu.top](https://lz.qaiu.top/)
 
-该网站收藏了B站上各位大佬发布的经典速读视频：
+`NFD` 网盘直链解析，目前支持 蓝奏云/蓝奏云优享/小飞机盘/123云盘/奶牛快传/移动云云空间/亿方云/文叔叔/QQ邮箱文件中转站：
 
-- 书籍：大类包括豆瓣总榜、科幻小说、推理悬疑、科学普及、历史经典、政治经济……11大类，一共667本经典书籍
-- 影视：大类包括内地剧、美剧、动漫、港剧、日剧、韩剧
+![netdisk](https://images-1252557999.file.myqcloud.com/uPic/v8jmto.png)
 
-![xysudu](https://images-1252557999.file.myqcloud.com/uPic/xysudu.jpg) 
+代码开源在：[netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download?tab=readme-ov-file)。 
 
-### [wanqu.co](https://www.wanqu.co/)
+### [cobalt](https://cobalt.tools/)
 
-湾区日报. 关注创业，互联网，技术。就像是你远方的老朋友每天推荐几篇优质英文文章，一起每天进步一点点:
+一个专注于隐私保护和用户自由的[开源](https://github.com/imputnet/cobalt)在线工具，它允许用户从各种网站上保存视频、音频、图片或 GIF，同时提供匿名请求和加密隧道技术，确保用户的隐私安全。
 
-![wanqu](https://images-1252557999.file.myqcloud.com/uPic/wanqu.jpg) 
+![cobalt](https://images-1252557999.file.myqcloud.com/uPic/ZwEgp6.png) 
 
 ## ✍️ 说明
 
