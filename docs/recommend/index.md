@@ -5,108 +5,89 @@
 
 ## 🎯 项目 
 
-### [wallabag](https://github.com/wallabag/wallabag)
+### [diagrams](https://github.com/mingrammer/diagrams)
 
-一款开源的延迟阅读项目，可以自部署，生态也相当丰富：
+用 `Python` 代码绘制云原生架构图：
 
-- 浏览器插件收集网页信息
-- 安卓/IOS/网页端阅读以及管理
+![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
 
-![wallabag](https://images-1252557999.file.myqcloud.com/uPic/wallabag.png) 
+### [milvus](https://github.com/milvus-io/milvus)
 
-### [ChatGPT](https://chat.openai.com/chat)
+`Milvus` 是一款开源的特征向量搜索引擎：
 
-本周最火爆的项目是 ChatGPT 应该没有异议吧，由此衍生的开源项目太多了，下面列举一些比较有代表性的给对这块有兴趣的尝尝鲜:
+![milvus](https://images-1252557999.file.myqcloud.com/uPic/milvus.jpg) 
 
-- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)：`ChatGPT awesome` 系列
-- [ChatGPT](https://github.com/acheong08/ChatGPT)：通过对 `OpenAI` 逆向工程实现的 `ChatGPT Python` 库，可以进行二次开发实现自己的应用
-- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)：微信上接入 `ChatGPT`，使其成为你的助手
-- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)：在谷歌搜索结果页增加 `ChatGPT` 的回答
-- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：`Node` 客户端非官方 `API`
-- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：在 `macOS` 的状态栏使用 `ChatGPT`
-- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)：跨平台的 `ChatGPT` 桌面端
-- [Pake-ChatGPT](https://github.com/tw93/Pake/releases/tag/V0.9.21)：用 `Pake` 打包的不要登录的 `ChatGPT` 
+### [Message-Push-Nest](https://github.com/engigu/Message-Push-Nest)
 
-### [mdx-editor](https://github.com/maqi1520/mdx-editor)
+打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义 `webhook` 等多种通知方式。定制你的消息，让通知方式更灵活多样。
 
-一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试：
 
-![mdx-editor](https://images-1252557999.file.myqcloud.com/uPic/mdx-editor.jpg) 
+![Message-Push-Nest](https://images-1252557999.file.myqcloud.com/uPic/Message-Push-Nest.jpg) 
 
 ## 🤖 软件 
 
-### [marktext](https://github.com/marktext/marktext)
+### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
 
-一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。本周`Typora`发布了收费的正式版，意料之内这个开源项目会跳出来，可以说是比较有利的替代品。
+根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
 
-![marktext](https://images-1252557999.file.myqcloud.com/uPic/cvYHVG.png) 
+![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
 
-### [Klee](https://github.com/signerlabs/Klee)
+### [logseq](https://github.com/logseq/logseq)
 
-通过内置的 `RAG` 知识库和 `Markdown` 笔记支持，在您的桌面上安全本地人工智能：
+Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
 
-![Klee](https://images-1252557999.file.myqcloud.com/uPic/AYykm3.png) 
+![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
 
-### [box](https://github.com/liu673cn/box)
+### [Bangumi](https://github.com/czy0729/Bangumi)
 
-TVBox 开源版:
+一个基于 `React-Native` 的无广告、以爱好为驱动、不以盈利为目的 [Bangumi](https://bgm.tv/) 第三方客户端，简单比喻就是专门做 `ACG` 的类似豆瓣的应用：
 
-- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
-- 通过导入特点资源接口,解析各类爬虫源、XP源、采集源等。完全无任何限制,也无任何广告。
-- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
-- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
-- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；
-- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
-- 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
-- 配置地址---输入站源---确定即可 URL站源规则
-
-![box](https://images-1252557999.file.myqcloud.com/uPic/box.jpg) 
+![Bangumi](https://images-1252557999.file.myqcloud.com/uPic/Bangumi.jpg) 
 
 ## 👀 资料 
 
-### [easy_rust](https://github.com/Dhghomon/easy_rust)
+### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
 
-现在很多公司和人学习Rust，如果有一本英语简单的书，他们可以学得更快。简单英语学Rust作者出于这个想法开始了这个项目，其写于2020年7月至8月，长达400多页。
+应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
 
-你可以用以下方式浏览：
+这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
 
-- [Youtube视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
-- [在线阅读-中文](https://kumakichi.github.io/easy_rust_chs/)
-- [在线阅读-英文](https://dhghomon.github.io/easy_rust/)
+- 入侵排查
+- 日志分析
+- 权限维持
+- Windows实战
+- Linux实战
+- Web实战 
 
-![easy_rust](https://images-1252557999.file.myqcloud.com/uPic/ivpZDe.jpg) 
+### [大模型交叉研讨课](https://www.openbmb.org/community/course)
 
-### [llama3 全套学习资料](https://chinesellama.feishu.cn/wiki/XBKPwbhWriWCfrkmJhfcrS9Rnqc)
+OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：
 
-这个文档是 `llama` 中文社区官方发布的关于 `llama3` 的最新学习资料：
+![openbmb_course](https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg) 
 
-![llama3](https://images-1252557999.file.myqcloud.com/uPic/llama3.jpg) 
+### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
 
-### [Sensitive-lexicon](https://github.com/konsheng/Sensitive-lexicon)
-
-一个持续更新的中文敏感词库，帮助开发者和内容审核者快速识别并过滤不当文本，国内做需要用户评论相关业务还是很有用。 
+golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
 
 ## 🕸 网站 
 
-### [smalldev.tools](https://smalldev.tools/)
+### [Kimi](https://kimi.moonshot.cn/ "Kimi")
 
-开发者常用工具集：
+当前挺火的国产 AI 大模型问答网站，免费使用，已经支持 200 万字上下文：
 
-![smalldev](https://images-1252557999.file.myqcloud.com/uPic/smalldev.jpg) 
+![kimi](https://images-1252557999.file.myqcloud.com/uPic/kimi.jpg) 
 
-### [lz.qaiu.top](https://lz.qaiu.top/)
+### [devpedia.pages.dev](https://devpedia.pages.dev/)
 
-`NFD` 网盘直链解析，目前支持 蓝奏云/蓝奏云优享/小飞机盘/123云盘/奶牛快传/移动云云空间/亿方云/文叔叔/QQ邮箱文件中转站：
+`Dev Encyclopedia` 是一个为开发者提供广泛技术术语、概念和工具解释的在线百科全书：
 
-![netdisk](https://images-1252557999.file.myqcloud.com/uPic/v8jmto.png)
+![devpedia](https://images-1252557999.file.myqcloud.com/uPic/L7S0qZ.png) 
 
-代码开源在：[netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download?tab=readme-ov-file)。 
+### [deepwiki](https://deepwiki.org/)
 
-### [cobalt](https://cobalt.tools/)
+`DeepWiki` 旨为成为一个全球性的、为每个 `GitHub` 仓库提供可交流的文档服务的平台。它类似于 `Deep Research`，但专注于 `GitHub` 上的内容。`DeepWiki` 的目标是为开发者提供一个平台，上面可以轻松地为每个项目编写和交流文档：
 
-一个专注于隐私保护和用户自由的[开源](https://github.com/imputnet/cobalt)在线工具，它允许用户从各种网站上保存视频、音频、图片或 GIF，同时提供匿名请求和加密隧道技术，确保用户的隐私安全。
-
-![cobalt](https://images-1252557999.file.myqcloud.com/uPic/ZwEgp6.png) 
+![deepwiki](https://images-1252557999.file.myqcloud.com/uPic/KXEJcj.png) 
 
 ## ✍️ 说明
 
