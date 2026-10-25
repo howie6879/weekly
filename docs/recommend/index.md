@@ -5,89 +5,99 @@
 
 ## 🎯 项目 
 
-### [diagrams](https://github.com/mingrammer/diagrams)
+### [miniserve](https://github.com/svenstaro/miniserve)
 
-用 `Python` 代码绘制云原生架构图：
+基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
 
-![diagrams](https://images-1252557999.file.myqcloud.com/uPic/diagrams.jpg) 
+![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
 
-### [milvus](https://github.com/milvus-io/milvus)
+### [OpenManus](https://github.com/mannaandpoem/OpenManus)
 
-`Milvus` 是一款开源的特征向量搜索引擎：
+`OpenManus` 是一个开源的AI代理框架，旨在帮助开发者轻松构建和部署自己的AI代理。无需任何邀请码，就可以立即开始使用这个强大的工具，实现各种创意想法。
 
-![milvus](https://images-1252557999.file.myqcloud.com/uPic/milvus.jpg) 
+![OpenManus](https://images-1252557999.file.myqcloud.com/uPic/mG7tlE.png)
 
-### [Message-Push-Nest](https://github.com/engigu/Message-Push-Nest)
+社区也实现了 [web 版本](https://github.com/YunQiAI/OpenManusWeb)：
 
-打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义 `webhook` 等多种通知方式。定制你的消息，让通知方式更灵活多样。
+![OpenManusWeb](https://images-1252557999.file.myqcloud.com/uPic/Lx9RIW.png) 
 
+### [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua)
 
-![Message-Push-Nest](https://images-1252557999.file.myqcloud.com/uPic/Message-Push-Nest.jpg) 
+中华新华字典数据库和 API 。收录包括 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
+
+![chinese-xinhua](https://images-1252557999.file.myqcloud.com/uPic/pOd5nk.png) 
 
 ## 🤖 软件 
 
-### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
+### [dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live)
 
-根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠：
+简简单单的看直播，虎牙直播、斗鱼直播、哔哩哔哩直播、抖音直播：
 
-![keepingyouawake](https://images-1252557999.file.myqcloud.com/uPic/keepingyouawake.jpeg) 
+![dart_simple_live](https://images-1252557999.file.myqcloud.com/uPic/Lu8I9B.png) 
 
-### [logseq](https://github.com/logseq/logseq)
+### [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
 
-Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件。
+`ZoomIt` 是一款用于屏幕缩放、注释和录制的演示工具，微软出品（大小仅 1M）：
 
-![logseq](https://images-1252557999.file.myqcloud.com/uPic/logseq.png) 
+![ZoomIt](https://images-1252557999.file.myqcloud.com/uPic/ZoomIt.jpg) 
 
-### [Bangumi](https://github.com/czy0729/Bangumi)
+### [FreeReNamer](https://github.com/cyhuajuan/FreeReNamer)
 
-一个基于 `React-Native` 的无广告、以爱好为驱动、不以盈利为目的 [Bangumi](https://bgm.tv/) 第三方客户端，简单比喻就是专门做 `ACG` 的类似豆瓣的应用：
+功能强大又易用的文件批量重命名软件：
 
-![Bangumi](https://images-1252557999.file.myqcloud.com/uPic/Bangumi.jpg) 
+![FreeReNamer](https://images-1252557999.file.myqcloud.com/uPic/wSK06i.png) 
 
 ## 👀 资料 
 
-### [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
+### [unplugged](https://github.com/liuxinyu95/unplugged)
 
-应急响应实战笔记，一个安全工程师的自我修养。面对各种各样的安全事件，我们该怎么处理？
+刘新宇大佬的新书《同构——编程中的数学》，中英文都有，免费开源。主讲自然数和计算机程序、欧几里得算法、递归的形式与结构、斐波那契数列、罗素悖论、数学基础的分歧等内容：
 
-这是一个关于安全事件应急响应的项目，从系统入侵到事件处理，收集和整理了一些案例进行分析，主要分为以下篇章:
+![unplugged](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-10-23_21-49-37.jpg)
 
-- 入侵排查
-- 日志分析
-- 权限维持
-- Windows实战
-- Linux实战
-- Web实战 
+如果有兴趣阅读但是网络下载困难，可以公众号后台，我给你下载。 
 
-### [大模型交叉研讨课](https://www.openbmb.org/community/course)
+### [ScienceFictionCollection](https://github.com/VeejaLiu/ScienceFictionCollection)
 
-OpenBMB携手清华大学自然语言处理实验室，共同推出《大模型交叉研讨课》，意在为对大模型感兴趣的同学提供相关资源，为大模型领域的探索打下基础：
+科幻小说作品集收集项目，包含以下作者的作品：
 
-![openbmb_course](https://images-1252557999.file.myqcloud.com/uPic/openbmb_course.jpg) 
+- 刘慈欣 (Cixin Liu)
+- Frank Herbert (弗兰克・赫伯特)
+- Isaac Asimov (艾萨克・阿西莫夫)
+- Jules Gabriel Verne (儒勒・加布里埃尔・凡尔纳)
+- Mary Shelley (玛丽・雪莱)
+- Ray Douglas Bradbury (雷・道格拉斯・布拉德伯里)
+- Orson Scott Card (奥森・斯科特・卡德)
+- Ted Chiang (特德・姜)
+- Michael Swanwick (迈克尔・斯万维克) 
 
-### [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
+### [rosedb](https://github.com/flower-corp/rosedb)
 
-golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt。 
+`rosedb` 是一个稳定、快速、内嵌的 `NoSQL` 数据库，支持多种数据结构，包含 `String、List、Hash、Set、Sorted Set`。
+
+![rosedb](https://images-1252557999.file.myqcloud.com/uPic/rosedb.png)
+
+作者是把这个当成一个练手项目在B站出视频，有兴趣可以结合视频与代码进行学习，点击 [rosedb 系列视频](https://space.bilibili.com/26194591/channel/seriesdetail?sid=1200175&ctype=0)。 
 
 ## 🕸 网站 
 
-### [Kimi](https://kimi.moonshot.cn/ "Kimi")
+### [BriefGPT](https://briefgpt.xyz/)
 
-当前挺火的国产 AI 大模型问答网站，免费使用，已经支持 200 万字上下文：
+`AI` 论文速递，每日更新 `Arxiv` 论文，第一时间了解 `AI` 最新动态：
 
-![kimi](https://images-1252557999.file.myqcloud.com/uPic/kimi.jpg) 
+![briefgpt](https://images-1252557999.file.myqcloud.com/uPic/briefgpt.jpg) 
 
-### [devpedia.pages.dev](https://devpedia.pages.dev/)
+### [uiprompt.art](https://uiprompt.art/)
 
-`Dev Encyclopedia` 是一个为开发者提供广泛技术术语、概念和工具解释的在线百科全书：
+UI Prompt Explorer 网站提供了一个专注于手绘风格界面设计的展示平台，包括画册、仪表板、日程规划、作品集、电子商务和博客等多种设计模板：
 
-![devpedia](https://images-1252557999.file.myqcloud.com/uPic/L7S0qZ.png) 
+![uiprompt](https://images-1252557999.file.myqcloud.com/uPic/x2em3D.png) 
 
-### [deepwiki](https://deepwiki.org/)
+### [firefly](https://firefly.adobe.com/)
 
-`DeepWiki` 旨为成为一个全球性的、为每个 `GitHub` 仓库提供可交流的文档服务的平台。它类似于 `Deep Research`，但专注于 `GitHub` 上的内容。`DeepWiki` 的目标是为开发者提供一个平台，上面可以轻松地为每个项目编写和交流文档：
+`Adobe` 推出了的 `AI` 图像创建器 **Firefly**：
 
-![deepwiki](https://images-1252557999.file.myqcloud.com/uPic/KXEJcj.png) 
+![firefly](https://images-1252557999.file.myqcloud.com/uPic/firefly.jpg) 
 
 ## ✍️ 说明
 
