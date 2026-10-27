@@ -31,6 +31,7 @@
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)：根据自己的需求设置 `Mac` 多少分钟/多少小时后进入睡眠
 - [Maccy](https://maccy.app/)：剪贴板管理（开源）
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl)：控制外部显示器的亮度和音量（开源）
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper)：插拔外接屏后自动恢复窗口位置与所属桌面（Space），支持按机身 C 口自动切换显示器排列、外接屏 DDC 亮度跟随内建屏幕环境光自动变化及防休眠（开源）
 - [OnlySwitch](https://github.com/jacklandrin/OnlySwitch)：系统功能快速开关工具（开源）
 - [Parallels Desktop](https://www.parallels.com/)：能让您在 `Mac` 上同时使用 `Windows` 等系统
 - [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)：增强文件预览（开源）
