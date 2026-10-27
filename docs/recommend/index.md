@@ -5,94 +5,86 @@
 
 ## 🎯 项目 
 
-### [outline](https://github.com/outline/outline)
+### [jspaint](https://github.com/1j01/jspaint)
 
-使用 `React &Node.js` 构建的协作知识库，支持团队协作，样式美观，可自建：
+怀旧画板项目，`JS Paint` 高度逼真地再现了 `MS Paint` 的每一个工具和菜单，甚至是鲜为人知的功能，它支持主题、附加文件类型和辅助功能，如眼睛凝视模式和语音识别：
 
-![outline](https://images-1252557999.file.myqcloud.com/uPic/outline.jpg) 
+![jspaint](https://images-1252557999.file.myqcloud.com/uPic/jspaint.jpg)
 
-### [GPTs](https://github.com/linexjlin/GPTs)
+直接在线体验 👉 [jspaint.app](https://jspaint.app/) 
 
-这个仓库收集了 GPTs 商店的的提示词，你可以用 3.5 使用，间接拥有 4 才有的功能，还有个类似的项目：[Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) 
+### [zyronon/douyin](https://github.com/zyronon/douyin)
 
-### [docker-wechat](https://github.com/huan/docker-wechat)
+这是一个模仿 抖音|TikTok 的移动端短视频项目，它基于 `Vue、Vite` 实现，使用了最新的 `Vue` 全家桶技术栈：
 
-盒装微信，在linux下基于Docker技术使用微信客户端：
+![zyronon_dy](https://images-1252557999.file.myqcloud.com/uPic/zyronon_dy.jpg) 
 
-![docker-wechat](https://images-1252557999.file.myqcloud.com/uPic/docker-wechat.png) 
+### [miniserve](https://github.com/svenstaro/miniserve)
+
+基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
+
+![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
 
 ## 🤖 软件 
 
-### [MissionBackup](https://github.com/Hellager/MissionBackup)
+### [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
 
-本地备份软件：
+Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端，首页、书影音、小组、市集及个人中心：
 
-- 基于 Tauri，兼顾了 web 前端和 rust 后端
-- 5MB 的安装包，15MB 的程序，多平台可用
-- 基于 cron 和 notify 实现对目标定时/监控备份
-- 可自定义备份保存时长和空间
-- 通过图表直观展示备份情况
-- 完善的文档支持
+![FlutterDouBan](https://images-1252557999.file.myqcloud.com/uPic/FlutterDouBan.jpg) 
 
-![youbei](https://images-1252557999.file.myqcloud.com/uPic/youbei.jpg) 
+### [DBeaver](https://github.com/dbeaver/dbeaver)
 
-### [Xit](https://github.com/Uncommon/Xit)
+免费的通用数据库管理工具，SQL客户端，跨平台支持：
 
-`Mac OS`下开源免费的原生`Git`客户端 ：
+![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png) 
 
-![Xit](https://images-1252557999.file.myqcloud.com/uPic/Xit.png) 
+### [glass](https://github.com/pickle-com/glass)
 
-### [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+`Glass` 提供了一个轻量级、开源的桌面应用程序，能够实时监听和理解用户的上下文，将信息转化为结构化知识。在会议中，它能够主动提供行动项、摘要和即时答案。该应用程序设计为 “真正隐形”，不会出现在屏幕录制、截图或任务栏中，并且不会进行持续捕获或隐秘分享。
 
-`AnotherRedisDesktopManager` 是一个快速稳定好用的 `Redis` 跨平台桌面管理软件，更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值：
-
-![AnotherRedisDesktopManager](https://images-1252557999.file.myqcloud.com/uPic/AnotherRedisDesktopManager.png) 
+![glass](https://images-1252557999.file.myqcloud.com/uPic/1SEd05.png) 
 
 ## 👀 资料 
 
-### [anthropics/courses](https://github.com/anthropics/courses "anthropics/courses")
+### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
 
-`Anthropic` 的教育课程，目前包含五个课程：
+这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
 
-- Anthropic API 基础知识：教授如何与 Claude SDK 合作，包括获取 API 密钥、处理模型参数、编写多模态提示、流式响应等。
-- 提示工程互动教程
-- 教授如何将提示技术应用到复杂的现实世界提示中
-- 教授如何编写评估来测量提示的质量
-- 教授如何在工作流程中成功使用 Claude 的工具 
+![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
 
-### [学习CSS布局](https://zh.learnlayout.com/)
+### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
 
-本站教授的是现在广泛使用于网站布局领域的CSS基础：
+《TCP/IP网络编程》(韩-尹圣雨)学习笔记
 
-![learnlayout](https://images-1252557999.file.myqcloud.com/uPic/learnlayout.jpg) 
+![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
 
-### [事实核查手册](https://chinafactcheck.com/?p=11465)
+### [happy-llm](https://github.com/datawhalechina/happy-llm)
 
-虚假信息泛滥已成世界性难题，简体中文内容市场亦难置身事外。作为应对手段之一，事实核查在中国开始萌芽。
+本项目是一个系统性的 LLM 学习教程，将从 NLP 的基本研究方法出发，根据 LLM 的思路及原理逐层深入，依次为读者剖析 LLM 的架构基础和训练过程。同时，我们会结合目前 LLM 领域最主流的代码框架，演练如何亲手搭建、训练一个 LLM，期以实现授之以鱼，更授之以渔。希望大家能从这本书开始走入 LLM 的浩瀚世界，探索 LLM 的无尽可能。
 
-本手册以案例的形式介绍了常用的文字、图片和视频核查工具，也涉及事实核查的工作流程、信源评估，并译介了国际事实核查机构惯用的职业准则与实践，希望能为中国的事实核查业者和观察者提供一定的参考。
-
-![事实核查手册](https://images-1252557999.file.myqcloud.com/uPic/事实核查手册.jpg) 
+![happy-llm](https://images-1252557999.file.myqcloud.com/uPic/agd2V6.png) 
 
 ## 🕸 网站 
 
-### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
+### [chinesenewyear](https://chinesenewyear.net/)
 
-来自阿里体系的各种技术资料，全部免费，个人非常推荐。
+国外一个专门介绍农历春节的网站，包含了非常多关于春节的介绍信息：
 
-![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
+![chinesenewyear](https://images-1252557999.file.myqcloud.com/uPic/chinesenewyear.jpg) 
 
-### [xyzrank.com](https://xyzrank.com/)
+### [Connected Papers](https://www.connectedpapers.com/)
 
-中文播客榜单：
+`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
 
-![xyzrank](https://images-1252557999.file.myqcloud.com/uPic/xyzrank.jpg) 
+![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
+是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
 
-### [toptimeline](https://toptimeline.net/zh)
+### [uinotes](https://uinotes.com/)
 
-探索世界最著名的流行歌手、运动员和历史人物的关键事件与个人里程碑：
+`UI Notes` 收集了大量线上优秀 `App` 的完整 `UI` 截图，只有落地设计没有飞机稿，你可以在这里探索 UI 设计的最新趋势、浏览竞品的产品设计、快速找到工作中需要的灵感：
 
-![toptimeline](https://images-1252557999.file.myqcloud.com/uPic/crwphb.png) 
+![uinotes](https://images-1252557999.file.myqcloud.com/uPic/uinotes.jpg) 
 
 ## ✍️ 说明
 
