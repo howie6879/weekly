@@ -5,86 +5,92 @@
 
 ## 🎯 项目 
 
-### [jspaint](https://github.com/1j01/jspaint)
+### [h-m-m](https://github.com/nadrad/h-m-m)
 
-怀旧画板项目，`JS Paint` 高度逼真地再现了 `MS Paint` 的每一个工具和菜单，甚至是鲜为人知的功能，它支持主题、附加文件类型和辅助功能，如眼睛凝视模式和语音识别：
+简单、快速、以键盘为中心处理思维导图的终端工具：
 
-![jspaint](https://images-1252557999.file.myqcloud.com/uPic/jspaint.jpg)
+![h-m-m](https://images-1252557999.file.myqcloud.com/uPic/h-m-m.png) 
 
-直接在线体验 👉 [jspaint.app](https://jspaint.app/) 
+### [WeChatMsg](https://github.com/LC044/WeChatMsg)
 
-### [zyronon/douyin](https://github.com/zyronon/douyin)
+提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告：
 
-这是一个模仿 抖音|TikTok 的移动端短视频项目，它基于 `Vue、Vite` 实现，使用了最新的 `Vue` 全家桶技术栈：
+![WeChatMsg](https://images-1252557999.file.myqcloud.com/uPic/WeChatMsg.png) 
 
-![zyronon_dy](https://images-1252557999.file.myqcloud.com/uPic/zyronon_dy.jpg) 
+### [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)
 
-### [miniserve](https://github.com/svenstaro/miniserve)
+一键免费部署你的私人 AutoGPT-Next-Web 网页应用:
 
-基于 `Rust` 编写的一个通过 `HTTP` 提供文件和目录服务的 `CLI` 工具：
-
-![miniserve](https://images-1252557999.file.myqcloud.com/uPic/miniserve.jpg) 
+![AutoGPT-Next-Web](https://images-1252557999.file.myqcloud.com/uPic/AutoGPT-Next-Web.png) 
 
 ## 🤖 软件 
 
-### [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
+### [RustClock](https://github.com/hoothin/RustClock)
 
-Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端，首页、书影音、小组、市集及个人中心：
+每半小时弹出一次的桌面时钟，基于 `Rust`：
 
-![FlutterDouBan](https://images-1252557999.file.myqcloud.com/uPic/FlutterDouBan.jpg) 
+![RustClock](https://images-1252557999.file.myqcloud.com/uPic/RustClock.gif) 
 
-### [DBeaver](https://github.com/dbeaver/dbeaver)
+### [dockit](https://github.com/geek-fun/dockit)
 
-免费的通用数据库管理工具，SQL客户端，跨平台支持：
+一个跨平台的图形用户界面客户端，支持 `Elasticsearch` 和 `Opensearch` 数据库管理。
 
-![dbeaver](https://images-1252557999.file.myqcloud.com/uPic/dbeaver.png) 
+![dockit](https://images-1252557999.file.myqcloud.com/uPic/apAgUR.png) 
 
-### [glass](https://github.com/pickle-com/glass)
+### [tts-now](https://github.com/funnyzak/tts-now)
 
-`Glass` 提供了一个轻量级、开源的桌面应用程序，能够实时监听和理解用户的上下文，将信息转化为结构化知识。在会议中，它能够主动提供行动项、摘要和即时答案。该应用程序设计为 “真正隐形”，不会出现在屏幕录制、截图或任务栏中，并且不会进行持续捕获或隐秘分享。
+基于云平台(阿里云、讯飞等)语音合成 API 的文字转语音助手。支持单文本快速合成和批量合成。支持windows、macOS、Linux。
 
-![glass](https://images-1252557999.file.myqcloud.com/uPic/1SEd05.png) 
+![](https://images-1252557999.file.myqcloud.com/uPic/Se6U0t.jpg) 
 
 ## 👀 资料 
 
-### [rust-api-guidelines](https://zjp-cn.github.io/api-guidelines/about.html)
+### [医保怎样用最省钱](https://chaiknows.feishu.cn/docx/IbTBdjiQWoi2cvx21SmcrL1pn3f)
 
-这是一组关于如何设计和呈现 Rust APIs 的建议。 这些建议主要由 Rust library 团队编写， 总结了 Rust 生态下构建标准库和其他 crates 的经验。
+一份医保省钱指南，省钱就是赚钱：
 
-![rust-api-guidelines](https://images-1252557999.file.myqcloud.com/uPic/rust-api-guidelines.jpg) 
+![ybsq](https://images-1252557999.file.myqcloud.com/uPic/F6m1jR.png) 
 
-### [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
+### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
 
-《TCP/IP网络编程》(韩-尹圣雨)学习笔记
+该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
 
-![TCP-IP-NetworkNote](https://images-1252557999.file.myqcloud.com/uPic/TCP-IP-NetworkNote.jpg) 
+![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
 
-### [happy-llm](https://github.com/datawhalechina/happy-llm)
+### [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/)
 
-本项目是一个系统性的 LLM 学习教程，将从 NLP 的基本研究方法出发，根据 LLM 的思路及原理逐层深入，依次为读者剖析 LLM 的架构基础和训练过程。同时，我们会结合目前 LLM 领域最主流的代码框架，演练如何亲手搭建、训练一个 LLM，期以实现授之以鱼，更授之以渔。希望大家能从这本书开始走入 LLM 的浩瀚世界，探索 LLM 的无尽可能。
+命令行的数据科学，本书演示了如何通过命令行的灵活性帮你成为更高效、更有生产力的数据科学家。
 
-![happy-llm](https://images-1252557999.file.myqcloud.com/uPic/agd2V6.png) 
+![telegram-cloud-photo-size-5-6181558086683180904-y](https://images-1252557999.file.myqcloud.com/uPic/telegram-cloud-photo-size-5-6181558086683180904-y.jpg) 
 
 ## 🕸 网站 
 
-### [chinesenewyear](https://chinesenewyear.net/)
+### [w2solo](https://w2solo.com/)
 
-国外一个专门介绍农历春节的网站，包含了非常多关于春节的介绍信息：
+独立开发者社区，网站上很多独立开发者分享自己的心路历程和一些想法&产品。 
 
-![chinesenewyear](https://images-1252557999.file.myqcloud.com/uPic/chinesenewyear.jpg) 
+### [appbaseio/mirage](https://opensource.appbase.io/mirage/)
 
-### [Connected Papers](https://www.connectedpapers.com/)
+这是一个用于简化 `ES` 查询语句编写的开源项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句：
 
-`Connected Papers`是一个旨在帮助科研工作者搜索文献的全新工具，除了搜索目标论文外，它还可以在线进行分析文献的引文信息并以图网络的形式展现出来：
+- 开源代码地址：[https://github.com/appbaseio/mirage](https://github.com/appbaseio/mirage)
+- 访问地址： [https://opensource.appbase.io/mirage/](https://opensource.appbase.io/mirage/)
 
-![Xnip2021-08-26_21-10-49](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-08-26_21-10-49.jpg)
-是不是很清晰，详细列出了从该论文引用的起始时间到结束时间线的论文。 
+当然你也可以本机自行部署，非常方便，比较遗憾的是目前只支持到 `-v7.x`：
 
-### [uinotes](https://uinotes.com/)
+![mirage](https://images-1252557999.file.myqcloud.com/uPic/mirage.png) 
 
-`UI Notes` 收集了大量线上优秀 `App` 的完整 `UI` 截图，只有落地设计没有飞机稿，你可以在这里探索 UI 设计的最新趋势、浏览竞品的产品设计、快速找到工作中需要的灵感：
+### [onemodel](https://www.onemodel.app/)
 
-![uinotes](https://images-1252557999.file.myqcloud.com/uPic/uinotes.jpg) 
+为软件工程师量身定制的绘图工具，网站提供很多软件架构的图标、素材、模板：
+
+![onemodel](https://images-1252557999.file.myqcloud.com/uPic/onemodel.png)
+
+同类开源产品推荐如下：
+
+- [jgraph/drawio](https://github.com/jgraph/drawio)：经典流程绘图工具
+- [excalidraw](https://github.com/excalidraw/excalidraw)：白板绘图工具
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams)：用代码的形式生成架构图 
 
 ## ✍️ 说明
 
